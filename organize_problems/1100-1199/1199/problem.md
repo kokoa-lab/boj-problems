@@ -1,13 +1,13 @@
 ---
-title: 오일러 회로
-special_judge: true
-time_limit: 3 초
-memory_limit: 512 MB
+title: "오일러 회로"
+special_judge: "true"
+time_limit: "3 초"
+memory_limit: "512 MB"
 submissions: 14196
 accepted: 1480
 solved_users: 771
-acceptance_rate: 13.381%
-collected_at: 2026-04-17T10:28:45.434053+00:00
+acceptance_rate: "13.381%"
+collected_at: "2026-04-17T10:28:45.434053+00:00"
 ---
 
 ## 문제

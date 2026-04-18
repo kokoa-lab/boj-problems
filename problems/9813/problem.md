@@ -1,13 +1,13 @@
 ---
-title: Computing
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Computing"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 574
 accepted: 40
 solved_users: 30
-acceptance_rate: 12.000%
-collected_at: 2026-04-17T12:14:59.055240+00:00
+acceptance_rate: "12.000%"
+collected_at: "2026-04-17T12:14:59.055240+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Mania de Par
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Mania de Par"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 128
 accepted: 56
 solved_users: 28
-acceptance_rate: 32.184%
-collected_at: 2026-04-17T13:15:46.957603+00:00
+acceptance_rate: "32.184%"
+collected_at: "2026-04-17T13:15:46.957603+00:00"
 ---
 
 ## 문제

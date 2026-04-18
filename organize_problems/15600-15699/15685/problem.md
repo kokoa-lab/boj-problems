@@ -1,13 +1,13 @@
 ---
-title: 드래곤 커브
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "드래곤 커브"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 31919
 accepted: 18830
 solved_users: 13189
-acceptance_rate: 57.029%
-collected_at: 2026-04-17T14:04:13.528490+00:00
+acceptance_rate: "57.029%"
+collected_at: "2026-04-17T14:04:13.528490+00:00"
 ---
 
 ## 문제

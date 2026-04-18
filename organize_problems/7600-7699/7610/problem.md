@@ -1,13 +1,13 @@
 ---
-title: Synchronization
-special_judge: false
-time_limit: 8 초
-memory_limit: 128 MB
+title: "Synchronization"
+special_judge: "false"
+time_limit: "8 초"
+memory_limit: "128 MB"
 submissions: 225
 accepted: 103
 solved_users: 67
-acceptance_rate: 41.615%
-collected_at: 2026-04-17T11:51:06.581308+00:00
+acceptance_rate: "41.615%"
+collected_at: "2026-04-17T11:51:06.581308+00:00"
 ---
 
 ## 문제

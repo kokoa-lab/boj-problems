@@ -1,13 +1,13 @@
 ---
-title: 파댕이의 케이크 만들기
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "파댕이의 케이크 만들기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 47
 accepted: 34
 solved_users: 26
-acceptance_rate: 78.788%
-collected_at: 2026-04-17T19:19:13.480149+00:00
+acceptance_rate: "78.788%"
+collected_at: "2026-04-17T19:19:13.480149+00:00"
 ---
 
 ## 문제

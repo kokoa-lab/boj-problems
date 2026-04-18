@@ -1,13 +1,13 @@
 ---
-title: 민코프스키 합
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "민코프스키 합"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 927
 accepted: 395
 solved_users: 302
-acceptance_rate: 43.705%
-collected_at: 2026-04-17T10:39:54.423439+00:00
+acceptance_rate: "43.705%"
+collected_at: "2026-04-17T10:39:54.423439+00:00"
 ---
 
 ## 문제

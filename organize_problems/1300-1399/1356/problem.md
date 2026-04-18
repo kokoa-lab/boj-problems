@@ -1,13 +1,13 @@
 ---
-title: 유진수
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "유진수"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 9655
 accepted: 4767
 solved_users: 4273
-acceptance_rate: 50.766%
-collected_at: 2026-04-17T10:29:38.673186+00:00
+acceptance_rate: "50.766%"
+collected_at: "2026-04-17T10:29:38.673186+00:00"
 ---
 
 ## 문제

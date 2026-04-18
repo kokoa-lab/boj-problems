@@ -1,13 +1,13 @@
 ---
-title: Limit Checking
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Limit Checking"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 57
 accepted: 32
 solved_users: 21
-acceptance_rate: 60.000%
-collected_at: 2026-04-17T10:38:37.391940+00:00
+acceptance_rate: "60.000%"
+collected_at: "2026-04-17T10:38:37.391940+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Grocery store
-special_judge: true
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Grocery store"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 103
 accepted: 35
 solved_users: 24
-acceptance_rate: 30.380%
-collected_at: 2026-04-17T11:29:31.127300+00:00
+acceptance_rate: "30.380%"
+collected_at: "2026-04-17T11:29:31.127300+00:00"
 ---
 
 ## 문제

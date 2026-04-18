@@ -1,13 +1,13 @@
 ---
-title: Petrol stations
-special_judge: false
-time_limit: 3.5 초
-memory_limit: 2048 MB
+title: "Petrol stations"
+special_judge: "false"
+time_limit: "3.5 초"
+memory_limit: "2048 MB"
 submissions: 16
 accepted: 5
 solved_users: 5
-acceptance_rate: 71.429%
-collected_at: 2026-04-17T19:41:34.947616+00:00
+acceptance_rate: "71.429%"
+collected_at: "2026-04-17T19:41:34.947616+00:00"
 ---
 
 ## 문제

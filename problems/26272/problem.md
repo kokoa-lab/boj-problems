@@ -1,13 +1,13 @@
 ---
-title: 점호
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "점호"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 5
 accepted: 3
 solved_users: 2
-acceptance_rate: 66.667%
-collected_at: 2026-04-17T17:42:53.591289+00:00
+acceptance_rate: "66.667%"
+collected_at: "2026-04-17T17:42:53.591289+00:00"
 ---
 
 ## 문제

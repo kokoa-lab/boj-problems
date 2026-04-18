@@ -1,13 +1,13 @@
 ---
-title: The Agglomerator
-special_judge: true
-time_limit: 3 초
-memory_limit: 256 MB
+title: "The Agglomerator"
+special_judge: "true"
+time_limit: "3 초"
+memory_limit: "256 MB"
 submissions: 14
 accepted: 12
 solved_users: 12
-acceptance_rate: 85.714%
-collected_at: 2026-04-17T12:41:52.422843+00:00
+acceptance_rate: "85.714%"
+collected_at: "2026-04-17T12:41:52.422843+00:00"
 ---
 
 ## 문제

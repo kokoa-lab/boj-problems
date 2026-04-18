@@ -1,13 +1,13 @@
 ---
-title: GCD 테이블과 연속 부분 수열
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "GCD 테이블과 연속 부분 수열"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 117
 accepted: 33
 solved_users: 25
-acceptance_rate: 27.174%
-collected_at: 2026-04-17T13:43:19.400706+00:00
+acceptance_rate: "27.174%"
+collected_at: "2026-04-17T13:43:19.400706+00:00"
 ---
 
 ## 문제

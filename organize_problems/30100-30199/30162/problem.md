@@ -1,13 +1,13 @@
 ---
-title: Filling Shapes
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Filling Shapes"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 228
 accepted: 156
 solved_users: 141
-acceptance_rate: 69.118%
-collected_at: 2026-04-17T18:59:53.315968+00:00
+acceptance_rate: "69.118%"
+collected_at: "2026-04-17T18:59:53.315968+00:00"
 ---
 
 ## 문제

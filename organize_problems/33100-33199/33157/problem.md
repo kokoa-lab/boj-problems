@@ -1,13 +1,13 @@
 ---
-title: 균형의 수호자
-special_judge: false
-time_limit: 1.5 초
-memory_limit: 1024 MB
+title: "균형의 수호자"
+special_judge: "false"
+time_limit: "1.5 초"
+memory_limit: "1024 MB"
 submissions: 57
 accepted: 20
 solved_users: 19
-acceptance_rate: 42.222%
-collected_at: 2026-04-17T20:10:20.734107+00:00
+acceptance_rate: "42.222%"
+collected_at: "2026-04-17T20:10:20.734107+00:00"
 ---
 
 ## 문제

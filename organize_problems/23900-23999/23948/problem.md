@@ -1,13 +1,13 @@
 ---
-title: The Equation
-special_judge: false
-time_limit: 15 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "The Equation"
+special_judge: "false"
+time_limit: "15 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 61
 accepted: 27
 solved_users: 22
-acceptance_rate: 51.163%
-collected_at: 2026-04-17T16:58:58.240746+00:00
+acceptance_rate: "51.163%"
+collected_at: "2026-04-17T16:58:58.240746+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: ハミング距離 (Hamming Distance)
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "ハミング距離 (Hamming Distance)"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 888
 accepted: 768
 solved_users: 729
-acceptance_rate: 86.170%
-collected_at: 2026-04-17T19:31:50.116871+00:00
+acceptance_rate: "86.170%"
+collected_at: "2026-04-17T19:31:50.116871+00:00"
 ---
 
 ## 문제

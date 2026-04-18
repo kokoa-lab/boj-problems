@@ -1,13 +1,13 @@
 ---
-title: Life Savings
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Life Savings"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 400
 accepted: 262
 solved_users: 247
-acceptance_rate: 66.043%
-collected_at: 2026-04-17T13:50:14.459280+00:00
+acceptance_rate: "66.043%"
+collected_at: "2026-04-17T13:50:14.459280+00:00"
 ---
 
 ## 문제

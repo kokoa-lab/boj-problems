@@ -1,13 +1,13 @@
 ---
-title: Kocke
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Kocke"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 54
 accepted: 41
 solved_users: 22
-acceptance_rate: 64.706%
-collected_at: 2026-04-17T19:11:33.504900+00:00
+acceptance_rate: "64.706%"
+collected_at: "2026-04-17T19:11:33.504900+00:00"
 ---
 
 ## 문제

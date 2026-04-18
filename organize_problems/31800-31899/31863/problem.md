@@ -1,13 +1,13 @@
 ---
-title: 내진 설계
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "내진 설계"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 595
 accepted: 359
 solved_users: 290
-acceptance_rate: 64.159%
-collected_at: 2026-04-17T19:37:58.308838+00:00
+acceptance_rate: "64.159%"
+collected_at: "2026-04-17T19:37:58.308838+00:00"
 ---
 
 ## 문제

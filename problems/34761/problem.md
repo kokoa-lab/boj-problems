@@ -1,13 +1,13 @@
 ---
-title: 같은 배열
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "같은 배열"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 464
 accepted: 289
 solved_users: 244
-acceptance_rate: 63.049%
-collected_at: 2026-04-17T20:47:54.930319+00:00
+acceptance_rate: "63.049%"
+collected_at: "2026-04-17T20:47:54.930319+00:00"
 ---
 
 ## 문제

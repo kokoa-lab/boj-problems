@@ -1,13 +1,13 @@
 ---
-title: Absenteeism
-special_judge: true
-time_limit: 3 초
-memory_limit: 512 MB
+title: "Absenteeism"
+special_judge: "true"
+time_limit: "3 초"
+memory_limit: "512 MB"
 submissions: 3
 accepted: 3
 solved_users: 3
-acceptance_rate: 100.000%
-collected_at: 2026-04-17T15:51:09.040664+00:00
+acceptance_rate: "100.000%"
+collected_at: "2026-04-17T15:51:09.040664+00:00"
 ---
 
 ## 문제

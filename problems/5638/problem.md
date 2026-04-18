@@ -1,13 +1,13 @@
 ---
-title: 수문
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "수문"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 443
 accepted: 204
 solved_users: 162
-acceptance_rate: 45.378%
-collected_at: 2026-04-17T11:16:12.406126+00:00
+acceptance_rate: "45.378%"
+collected_at: "2026-04-17T11:16:12.406126+00:00"
 ---
 
 ## 문제

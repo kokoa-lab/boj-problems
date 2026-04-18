@@ -1,13 +1,13 @@
 ---
-title: Debug
-special_judge: false
-time_limit: 1 초
-memory_limit: 2048 MB
+title: "Debug"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "2048 MB"
 submissions: 49
 accepted: 39
 solved_users: 32
-acceptance_rate: 78.049%
-collected_at: 2026-04-17T20:18:32.146643+00:00
+acceptance_rate: "78.049%"
+collected_at: "2026-04-17T20:18:32.146643+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Conveyor Belt Sushi
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Conveyor Belt Sushi"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 2950
 accepted: 2607
 solved_users: 2519
-acceptance_rate: 88.854%
-collected_at: 2026-04-17T19:48:57.702715+00:00
+acceptance_rate: "88.854%"
+collected_at: "2026-04-17T19:48:57.702715+00:00"
 ---
 
 ## 문제

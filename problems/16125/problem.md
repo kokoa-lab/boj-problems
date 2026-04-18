@@ -1,13 +1,13 @@
 ---
-title: 영점사격
-special_judge: true
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "영점사격"
+special_judge: "true"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 170
 accepted: 25
 solved_users: 23
-acceptance_rate: 23.711%
-collected_at: 2026-04-17T14:11:50.908716+00:00
+acceptance_rate: "23.711%"
+collected_at: "2026-04-17T14:11:50.908716+00:00"
 ---
 
 ## 문제

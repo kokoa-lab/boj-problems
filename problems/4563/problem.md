@@ -1,13 +1,13 @@
 ---
-title: 리벤지 오브 피타고라스
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "리벤지 오브 피타고라스"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 566
 accepted: 412
 solved_users: 339
-acceptance_rate: 82.482%
-collected_at: 2026-04-17T11:04:15.784349+00:00
+acceptance_rate: "82.482%"
+collected_at: "2026-04-17T11:04:15.784349+00:00"
 ---
 
 ## 문제

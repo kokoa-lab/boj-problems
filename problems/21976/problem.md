@@ -1,13 +1,13 @@
 ---
-title: Crossing
-special_judge: false
-time_limit: 3 초
-memory_limit: 512 MB
+title: "Crossing"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "512 MB"
 submissions: 42
 accepted: 22
 solved_users: 20
-acceptance_rate: 52.632%
-collected_at: 2026-04-17T16:10:58.288152+00:00
+acceptance_rate: "52.632%"
+collected_at: "2026-04-17T16:10:58.288152+00:00"
 ---
 
 ## 문제

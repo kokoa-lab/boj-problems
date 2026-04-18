@@ -1,13 +1,13 @@
 ---
-title: Bulb Game
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Bulb Game"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 157
 accepted: 78
 solved_users: 56
-acceptance_rate: 56.566%
-collected_at: 2026-04-17T19:31:25.083803+00:00
+acceptance_rate: "56.566%"
+collected_at: "2026-04-17T19:31:25.083803+00:00"
 ---
 
 ## 문제

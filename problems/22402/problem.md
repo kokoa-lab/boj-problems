@@ -1,13 +1,13 @@
 ---
-title: 野球観戦
-special_judge: false
-time_limit: 8 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "野球観戦"
+special_judge: "false"
+time_limit: "8 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 46
 accepted: 14
 solved_users: 11
-acceptance_rate: 64.706%
-collected_at: 2026-04-17T16:20:14.908432+00:00
+acceptance_rate: "64.706%"
+collected_at: "2026-04-17T16:20:14.908432+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 창고 다각형
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "창고 다각형"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 25949
 accepted: 11113
 solved_users: 8630
-acceptance_rate: 42.368%
-collected_at: 2026-04-17T10:40:25.960909+00:00
+acceptance_rate: "42.368%"
+collected_at: "2026-04-17T10:40:25.960909+00:00"
 ---
 
 ## 문제

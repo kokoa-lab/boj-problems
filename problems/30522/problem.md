@@ -1,13 +1,13 @@
 ---
-title: OR & XOR (Small)
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "OR & XOR (Small)"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 214
 accepted: 95
 solved_users: 80
-acceptance_rate: 50.955%
-collected_at: 2026-04-17T19:08:32.055113+00:00
+acceptance_rate: "50.955%"
+collected_at: "2026-04-17T19:08:32.055113+00:00"
 ---
 
 ## 문제

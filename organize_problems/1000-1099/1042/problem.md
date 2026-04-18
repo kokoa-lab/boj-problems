@@ -1,13 +1,13 @@
 ---
-title: 움
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "움"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 955
 accepted: 292
 solved_users: 221
-acceptance_rate: 39.677%
-collected_at: 2026-04-17T10:27:52.584519+00:00
+acceptance_rate: "39.677%"
+collected_at: "2026-04-17T10:27:52.584519+00:00"
 ---
 
 ## 문제

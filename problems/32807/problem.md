@@ -1,13 +1,13 @@
 ---
-title: Balancing Art
-special_judge: false
-time_limit: 8 초
-memory_limit: 2048 MB
+title: "Balancing Art"
+special_judge: "false"
+time_limit: "8 초"
+memory_limit: "2048 MB"
 submissions: 42
 accepted: 21
 solved_users: 17
-acceptance_rate: 51.515%
-collected_at: 2026-04-17T20:01:42.061375+00:00
+acceptance_rate: "51.515%"
+collected_at: "2026-04-17T20:01:42.061375+00:00"
 ---
 
 ## 문제

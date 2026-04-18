@@ -1,13 +1,13 @@
 ---
-title: Costly Binary Search (Large)
-special_judge: false
-time_limit: 60 초
-memory_limit: 1536 MB
+title: "Costly Binary Search (Large)"
+special_judge: "false"
+time_limit: "60 초"
+memory_limit: "1536 MB"
 submissions: 276
 accepted: 139
 solved_users: 48
-acceptance_rate: 32.432%
-collected_at: 2026-04-17T12:50:28.185074+00:00
+acceptance_rate: "32.432%"
+collected_at: "2026-04-17T12:50:28.185074+00:00"
 ---
 
 ## 문제

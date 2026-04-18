@@ -1,13 +1,13 @@
 ---
-title: 수 나누기 게임
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "수 나누기 게임"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 11452
 accepted: 5040
 solved_users: 3911
-acceptance_rate: 41.575%
-collected_at: 2026-04-17T17:57:31.277172+00:00
+acceptance_rate: "41.575%"
+collected_at: "2026-04-17T17:57:31.277172+00:00"
 ---
 
 ## 문제

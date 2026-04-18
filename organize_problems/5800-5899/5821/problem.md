@@ -1,13 +1,13 @@
 ---
-title: 쌀 창고
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "쌀 창고"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 880
 accepted: 311
 solved_users: 245
-acceptance_rate: 36.350%
-collected_at: 2026-04-17T11:17:42.066792+00:00
+acceptance_rate: "36.350%"
+collected_at: "2026-04-17T11:17:42.066792+00:00"
 ---
 
 ## 문제

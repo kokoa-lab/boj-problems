@@ -1,13 +1,13 @@
 ---
-title: The Invasion
-special_judge: false
-time_limit: 3 초
-memory_limit: 64 MB
+title: "The Invasion"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "64 MB"
 submissions: 146
 accepted: 38
 solved_users: 36
-acceptance_rate: 28.346%
-collected_at: 2026-04-17T11:56:22.034942+00:00
+acceptance_rate: "28.346%"
+collected_at: "2026-04-17T11:56:22.034942+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Lunacy
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Lunacy"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 4343
 accepted: 2778
 solved_users: 2654
-acceptance_rate: 64.858%
-collected_at: 2026-04-17T11:07:30.877653+00:00
+acceptance_rate: "64.858%"
+collected_at: "2026-04-17T11:07:30.877653+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Candy Sales
-special_judge: false
-time_limit: 6 초
-memory_limit: 512 MB
+title: "Candy Sales"
+special_judge: "false"
+time_limit: "6 초"
+memory_limit: "512 MB"
 submissions: 133
 accepted: 98
 solved_users: 85
-acceptance_rate: 85.000%
-collected_at: 2026-04-17T13:52:54.956045+00:00
+acceptance_rate: "85.000%"
+collected_at: "2026-04-17T13:52:54.956045+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 두 스트링 마스크
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "두 스트링 마스크"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 540
 accepted: 105
 solved_users: 84
-acceptance_rate: 21.705%
-collected_at: 2026-04-17T10:29:39.336766+00:00
+acceptance_rate: "21.705%"
+collected_at: "2026-04-17T10:29:39.336766+00:00"
 ---
 
 ## 문제

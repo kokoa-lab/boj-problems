@@ -1,13 +1,13 @@
 ---
-title: 싸지방에 간 준하
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "싸지방에 간 준하"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 5761
 accepted: 1883
 solved_users: 1345
-acceptance_rate: 30.991%
-collected_at: 2026-04-17T13:00:59.059526+00:00
+acceptance_rate: "30.991%"
+collected_at: "2026-04-17T13:00:59.059526+00:00"
 ---
 
 ## 문제

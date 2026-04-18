@@ -1,13 +1,13 @@
 ---
-title: 계산 최적화
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "계산 최적화"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 421
 accepted: 192
 solved_users: 116
-acceptance_rate: 49.362%
-collected_at: 2026-04-17T16:39:39.476548+00:00
+acceptance_rate: "49.362%"
+collected_at: "2026-04-17T16:39:39.476548+00:00"
 ---
 
 ## 문제

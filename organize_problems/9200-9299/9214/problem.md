@@ -1,13 +1,13 @@
 ---
-title: 첫 번째 항
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "첫 번째 항"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 804
 accepted: 368
 solved_users: 284
-acceptance_rate: 52.788%
-collected_at: 2026-04-17T12:08:00.181219+00:00
+acceptance_rate: "52.788%"
+collected_at: "2026-04-17T12:08:00.181219+00:00"
 ---
 
 ## 문제

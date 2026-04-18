@@ -1,13 +1,13 @@
 ---
-title: 컴소인의 크리스마스
-special_judge: true
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "컴소인의 크리스마스"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 323
 accepted: 149
 solved_users: 118
-acceptance_rate: 57.843%
-collected_at: 2026-04-17T20:02:56.846447+00:00
+acceptance_rate: "57.843%"
+collected_at: "2026-04-17T20:02:56.846447+00:00"
 ---
 
 ## 문제

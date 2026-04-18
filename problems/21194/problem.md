@@ -1,13 +1,13 @@
 ---
-title: Meditation
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Meditation"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 304
 accepted: 251
 solved_users: 217
-acceptance_rate: 84.436%
-collected_at: 2026-04-17T15:50:08.586383+00:00
+acceptance_rate: "84.436%"
+collected_at: "2026-04-17T15:50:08.586383+00:00"
 ---
 
 ## 문제

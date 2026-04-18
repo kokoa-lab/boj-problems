@@ -1,13 +1,13 @@
 ---
-title: Apples and Bananas
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Apples and Bananas"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 426
 accepted: 173
 solved_users: 142
-acceptance_rate: 52.593%
-collected_at: 2026-04-17T14:08:02.320656+00:00
+acceptance_rate: "52.593%"
+collected_at: "2026-04-17T14:08:02.320656+00:00"
 ---
 
 ## 문제

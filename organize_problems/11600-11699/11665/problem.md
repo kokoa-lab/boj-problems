@@ -1,13 +1,13 @@
 ---
-title: 직육면체 교집합
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "직육면체 교집합"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 802
 accepted: 419
 solved_users: 381
-acceptance_rate: 55.459%
-collected_at: 2026-04-17T12:43:50.392394+00:00
+acceptance_rate: "55.459%"
+collected_at: "2026-04-17T12:43:50.392394+00:00"
 ---
 
 ## 문제

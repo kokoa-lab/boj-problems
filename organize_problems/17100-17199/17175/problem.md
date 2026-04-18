@@ -1,13 +1,13 @@
 ---
-title: 피보나치는 지겨웡~
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "피보나치는 지겨웡~"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 6206
 accepted: 2608
 solved_users: 2347
-acceptance_rate: 42.159%
-collected_at: 2026-04-17T14:31:55.271009+00:00
+acceptance_rate: "42.159%"
+collected_at: "2026-04-17T14:31:55.271009+00:00"
 ---
 
 ## 문제

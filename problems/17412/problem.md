@@ -1,13 +1,13 @@
 ---
-title: 도시 왕복하기 1
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "도시 왕복하기 1"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 6674
 accepted: 2985
 solved_users: 1978
-acceptance_rate: 42.319%
-collected_at: 2026-04-17T14:38:50.016969+00:00
+acceptance_rate: "42.319%"
+collected_at: "2026-04-17T14:38:50.016969+00:00"
 ---
 
 ## 문제

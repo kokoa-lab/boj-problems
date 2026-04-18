@@ -1,13 +1,13 @@
 ---
-title: Card Game
-special_judge: false
-time_limit: 3 초
-memory_limit: 2048 MB
+title: "Card Game"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "2048 MB"
 submissions: 4
 accepted: 3
 solved_users: 2
-acceptance_rate: 100.000%
-collected_at: 2026-04-17T20:15:53.425008+00:00
+acceptance_rate: "100.000%"
+collected_at: "2026-04-17T20:15:53.425008+00:00"
 ---
 
 ## 문제

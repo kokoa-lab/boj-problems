@@ -1,13 +1,13 @@
 ---
-title: Fatigue-Fighting Vacation
-special_judge: false
-time_limit: 0.5 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Fatigue-Fighting Vacation"
+special_judge: "false"
+time_limit: "0.5 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 377
 accepted: 187
 solved_users: 167
-acceptance_rate: 48.688%
-collected_at: 2026-04-17T18:56:52.555974+00:00
+acceptance_rate: "48.688%"
+collected_at: "2026-04-17T18:56:52.555974+00:00"
 ---
 
 ## 문제

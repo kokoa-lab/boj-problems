@@ -1,13 +1,13 @@
 ---
-title: 혼합 정수 이차 계획법
-special_judge: false
-time_limit: 3 초
-memory_limit: 1024 MB
+title: "혼합 정수 이차 계획법"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "1024 MB"
 submissions: 58
 accepted: 19
 solved_users: 16
-acceptance_rate: 55.172%
-collected_at: 2026-04-17T19:23:59.832697+00:00
+acceptance_rate: "55.172%"
+collected_at: "2026-04-17T19:23:59.832697+00:00"
 ---
 
 ## 문제

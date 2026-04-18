@@ -1,13 +1,13 @@
 ---
-title: Set-constructing Witch
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Set-constructing Witch"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 12
 accepted: 10
 solved_users: 7
-acceptance_rate: 100.000%
-collected_at: 2026-04-17T16:25:03.843354+00:00
+acceptance_rate: "100.000%"
+collected_at: "2026-04-17T16:25:03.843354+00:00"
 ---
 
 ## 문제

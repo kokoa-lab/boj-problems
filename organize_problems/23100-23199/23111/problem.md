@@ -1,13 +1,13 @@
 ---
-title: Interesting Coloring
-special_judge: true
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Interesting Coloring"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 19
 accepted: 10
 solved_users: 6
-acceptance_rate: 42.857%
-collected_at: 2026-04-17T16:42:17.578806+00:00
+acceptance_rate: "42.857%"
+collected_at: "2026-04-17T16:42:17.578806+00:00"
 ---
 
 ## 문제

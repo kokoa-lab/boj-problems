@@ -1,13 +1,13 @@
 ---
-title: Graduation Requirements (Small)
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Graduation Requirements (Small)"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 21
 accepted: 9
 solved_users: 8
-acceptance_rate: 50.000%
-collected_at: 2026-04-17T12:53:04.658461+00:00
+acceptance_rate: "50.000%"
+collected_at: "2026-04-17T12:53:04.658461+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Invisible
-special_judge: false
-time_limit: 12 초
-memory_limit: 512 MB
+title: "Invisible"
+special_judge: "false"
+time_limit: "12 초"
+memory_limit: "512 MB"
 submissions: 64
 accepted: 21
 solved_users: 9
-acceptance_rate: 25.000%
-collected_at: 2026-04-17T15:13:23.810411+00:00
+acceptance_rate: "25.000%"
+collected_at: "2026-04-17T15:13:23.810411+00:00"
 ---
 
 ## 문제

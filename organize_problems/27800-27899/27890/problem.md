@@ -1,13 +1,13 @@
 ---
-title: 특별한 작은 분수
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "특별한 작은 분수"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 2124
 accepted: 1796
 solved_users: 1688
-acceptance_rate: 86.166%
-collected_at: 2026-04-17T18:13:54.180917+00:00
+acceptance_rate: "86.166%"
+collected_at: "2026-04-17T18:13:54.180917+00:00"
 ---
 
 ## 문제

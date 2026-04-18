@@ -1,13 +1,13 @@
 ---
-title: 상범이의 은밀한 메세지
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "상범이의 은밀한 메세지"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 224
 accepted: 80
 solved_users: 68
-acceptance_rate: 46.897%
-collected_at: 2026-04-17T10:46:54.616761+00:00
+acceptance_rate: "46.897%"
+collected_at: "2026-04-17T10:46:54.616761+00:00"
 ---
 
 ## 문제

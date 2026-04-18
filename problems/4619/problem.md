@@ -1,13 +1,13 @@
 ---
-title: 루트
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "루트"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 3471
 accepted: 2079
 solved_users: 1856
-acceptance_rate: 61.335%
-collected_at: 2026-04-17T11:05:55.413353+00:00
+acceptance_rate: "61.335%"
+collected_at: "2026-04-17T11:05:55.413353+00:00"
 ---
 
 ## 문제

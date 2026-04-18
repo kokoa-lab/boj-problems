@@ -1,13 +1,13 @@
 ---
-title: Managing Cluster
-special_judge: true
-time_limit: 3 초
-memory_limit: 2048 MB
+title: "Managing Cluster"
+special_judge: "true"
+time_limit: "3 초"
+memory_limit: "2048 MB"
 submissions: 37
 accepted: 20
 solved_users: 16
-acceptance_rate: 80.000%
-collected_at: 2026-04-17T20:08:01.855883+00:00
+acceptance_rate: "80.000%"
+collected_at: "2026-04-17T20:08:01.855883+00:00"
 ---
 
 ## 문제

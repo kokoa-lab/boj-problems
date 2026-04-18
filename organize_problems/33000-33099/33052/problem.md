@@ -1,13 +1,13 @@
 ---
-title: 바다에서 건진 달
-special_judge: false
-time_limit: 3 초
-memory_limit: 1024 MB
+title: "바다에서 건진 달"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "1024 MB"
 submissions: 279
 accepted: 61
 solved_users: 22
-acceptance_rate: 19.469%
-collected_at: 2026-04-17T20:08:21.557435+00:00
+acceptance_rate: "19.469%"
+collected_at: "2026-04-17T20:08:21.557435+00:00"
 ---
 
 ## 문제

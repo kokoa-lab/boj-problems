@@ -1,13 +1,13 @@
 ---
-title: 양갈래 짝 맞추기
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "양갈래 짝 맞추기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 623
 accepted: 389
 solved_users: 354
-acceptance_rate: 66.045%
-collected_at: 2026-04-17T19:28:52.622600+00:00
+acceptance_rate: "66.045%"
+collected_at: "2026-04-17T19:28:52.622600+00:00"
 ---
 
 ## 문제

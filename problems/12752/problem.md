@@ -1,13 +1,13 @@
 ---
-title: 도시들
-special_judge: false
-time_limit: 4 초
-memory_limit: 256 MB
+title: "도시들"
+special_judge: "false"
+time_limit: "4 초"
+memory_limit: "256 MB"
 submissions: 276
 accepted: 106
 solved_users: 77
-acceptance_rate: 37.198%
-collected_at: 2026-04-17T13:00:50.635075+00:00
+acceptance_rate: "37.198%"
+collected_at: "2026-04-17T13:00:50.635075+00:00"
 ---
 
 ## 문제

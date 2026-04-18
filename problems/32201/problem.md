@@ -1,13 +1,13 @@
 ---
-title: 눈사람
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "눈사람"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 425
 accepted: 284
 solved_users: 243
-acceptance_rate: 67.127%
-collected_at: 2026-04-17T19:45:25.126104+00:00
+acceptance_rate: "67.127%"
+collected_at: "2026-04-17T19:45:25.126104+00:00"
 ---
 
 ## 문제

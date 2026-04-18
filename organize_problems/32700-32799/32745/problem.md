@@ -1,13 +1,13 @@
 ---
-title: Two Squares
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Two Squares"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 22
 accepted: 17
 solved_users: 12
-acceptance_rate: 92.308%
-collected_at: 2026-04-17T20:00:21.719850+00:00
+acceptance_rate: "92.308%"
+collected_at: "2026-04-17T20:00:21.719850+00:00"
 ---
 
 ## 문제

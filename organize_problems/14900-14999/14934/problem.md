@@ -1,13 +1,13 @@
 ---
-title: 변치 않는 수
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "변치 않는 수"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 171
 accepted: 85
 solved_users: 55
-acceptance_rate: 52.381%
-collected_at: 2026-04-17T13:46:04.114657+00:00
+acceptance_rate: "52.381%"
+collected_at: "2026-04-17T13:46:04.114657+00:00"
 ---
 
 ## 문제

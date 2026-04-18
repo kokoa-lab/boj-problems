@@ -1,13 +1,13 @@
 ---
-title: Blink
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Blink"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 131
 accepted: 59
 solved_users: 54
-acceptance_rate: 44.628%
-collected_at: 2026-04-17T11:17:47.314504+00:00
+acceptance_rate: "44.628%"
+collected_at: "2026-04-17T11:17:47.314504+00:00"
 ---
 
 ## 문제

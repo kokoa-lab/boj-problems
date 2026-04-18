@@ -1,13 +1,13 @@
 ---
-title: 돌 술래잡기 게임
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "돌 술래잡기 게임"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 428
 accepted: 25
 solved_users: 20
-acceptance_rate: 6.006%
-collected_at: 2026-04-17T15:11:37.914823+00:00
+acceptance_rate: "6.006%"
+collected_at: "2026-04-17T15:11:37.914823+00:00"
 ---
 
 ## 문제

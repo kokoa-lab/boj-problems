@@ -1,13 +1,13 @@
 ---
-title: Journey of the Robber
-special_judge: false
-time_limit: 4.5 초
-memory_limit: 1024 MB
+title: "Journey of the Robber"
+special_judge: "false"
+time_limit: "4.5 초"
+memory_limit: "1024 MB"
 submissions: 180
 accepted: 105
 solved_users: 50
-acceptance_rate: 52.632%
-collected_at: 2026-04-17T19:07:43.023403+00:00
+acceptance_rate: "52.632%"
+collected_at: "2026-04-17T19:07:43.023403+00:00"
 ---
 
 ## 문제

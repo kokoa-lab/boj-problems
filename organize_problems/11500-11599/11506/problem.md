@@ -1,13 +1,13 @@
 ---
-title: 占쏙옙
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "占쏙옙"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 20440
 accepted: 5382
 solved_users: 4872
-acceptance_rate: 29.417%
-collected_at: 2026-04-17T12:41:35.154214+00:00
+acceptance_rate: "29.417%"
+collected_at: "2026-04-17T12:41:35.154214+00:00"
 ---
 
 ## 문제

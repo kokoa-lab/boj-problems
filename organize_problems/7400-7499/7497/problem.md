@@ -1,13 +1,13 @@
 ---
-title: Greatest Product
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Greatest Product"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 72
 accepted: 45
 solved_users: 39
-acceptance_rate: 65.000%
-collected_at: 2026-04-17T11:49:59.369193+00:00
+acceptance_rate: "65.000%"
+collected_at: "2026-04-17T11:49:59.369193+00:00"
 ---
 
 ## 문제

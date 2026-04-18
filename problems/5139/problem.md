@@ -1,13 +1,13 @@
 ---
-title: Oil Exploration
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Oil Exploration"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 187
 accepted: 134
 solved_users: 121
-acceptance_rate: 70.349%
-collected_at: 2026-04-17T11:11:47.154251+00:00
+acceptance_rate: "70.349%"
+collected_at: "2026-04-17T11:11:47.154251+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: An Elephant Problem
-special_judge: false
-time_limit: 1 초
-memory_limit: 2048 MB
+title: "An Elephant Problem"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "2048 MB"
 submissions: 384
 accepted: 325
 solved_users: 307
-acceptance_rate: 86.236%
-collected_at: 2026-04-17T20:48:53.214195+00:00
+acceptance_rate: "86.236%"
+collected_at: "2026-04-17T20:48:53.214195+00:00"
 ---
 
 ## 문제

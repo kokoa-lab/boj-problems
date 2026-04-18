@@ -1,13 +1,13 @@
 ---
-title: Y2K Accounting Bug
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Y2K Accounting Bug"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 69
 accepted: 40
 solved_users: 29
-acceptance_rate: 54.717%
-collected_at: 2026-04-17T11:00:45.086482+00:00
+acceptance_rate: "54.717%"
+collected_at: "2026-04-17T11:00:45.086482+00:00"
 ---
 
 ## 문제

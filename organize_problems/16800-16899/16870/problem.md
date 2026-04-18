@@ -1,13 +1,13 @@
 ---
-title: The Punctilious Cruciverbalist
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "The Punctilious Cruciverbalist"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 23
 accepted: 9
 solved_users: 9
-acceptance_rate: 60.000%
-collected_at: 2026-04-17T14:25:31.984379+00:00
+acceptance_rate: "60.000%"
+collected_at: "2026-04-17T14:25:31.984379+00:00"
 ---
 
 ## 문제

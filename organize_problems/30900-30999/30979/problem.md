@@ -1,13 +1,13 @@
 ---
-title: 유치원생 파댕이 돌보기
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "유치원생 파댕이 돌보기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 2869
 accepted: 2272
 solved_users: 2157
-acceptance_rate: 80.067%
-collected_at: 2026-04-17T19:19:08.729846+00:00
+acceptance_rate: "80.067%"
+collected_at: "2026-04-17T19:19:08.729846+00:00"
 ---
 
 ## 문제

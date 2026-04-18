@@ -1,13 +1,13 @@
 ---
-title: 균형잡힌 직선형 정원
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "균형잡힌 직선형 정원"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 164
 accepted: 84
 solved_users: 69
-acceptance_rate: 56.557%
-collected_at: 2026-04-17T11:14:19.392876+00:00
+acceptance_rate: "56.557%"
+collected_at: "2026-04-17T11:14:19.392876+00:00"
 ---
 
 ## 문제

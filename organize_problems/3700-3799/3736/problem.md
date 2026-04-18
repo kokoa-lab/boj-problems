@@ -1,13 +1,13 @@
 ---
-title: System Engineer
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "System Engineer"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 1127
 accepted: 490
 solved_users: 257
-acceptance_rate: 35.994%
-collected_at: 2026-04-17T10:51:30.184339+00:00
+acceptance_rate: "35.994%"
+collected_at: "2026-04-17T10:51:30.184339+00:00"
 ---
 
 ## 문제

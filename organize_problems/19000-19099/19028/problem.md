@@ -1,13 +1,13 @@
 ---
-title: Link Cut Digraph
-special_judge: false
-time_limit: 3 초
-memory_limit: 512 MB
+title: "Link Cut Digraph"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "512 MB"
 submissions: 271
 accepted: 97
 solved_users: 70
-acceptance_rate: 33.981%
-collected_at: 2026-04-17T15:12:37.080709+00:00
+acceptance_rate: "33.981%"
+collected_at: "2026-04-17T15:12:37.080709+00:00"
 ---
 
 ## 문제

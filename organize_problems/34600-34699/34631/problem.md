@@ -1,13 +1,13 @@
 ---
-title: Triple Attack
-special_judge: false
-time_limit: 3 초
-memory_limit: 2048 MB
+title: "Triple Attack"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "2048 MB"
 submissions: 44
 accepted: 30
 solved_users: 30
-acceptance_rate: 68.182%
-collected_at: 2026-04-17T20:44:27.668940+00:00
+acceptance_rate: "68.182%"
+collected_at: "2026-04-17T20:44:27.668940+00:00"
 ---
 
 ## 문제

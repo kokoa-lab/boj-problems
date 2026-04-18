@@ -1,13 +1,13 @@
 ---
-title: 화학 실험
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "화학 실험"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 1535
 accepted: 530
 solved_users: 444
-acceptance_rate: 36.755%
-collected_at: 2026-04-17T15:34:40.401291+00:00
+acceptance_rate: "36.755%"
+collected_at: "2026-04-17T15:34:40.401291+00:00"
 ---
 
 ## 문제

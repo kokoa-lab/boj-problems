@@ -1,13 +1,13 @@
 ---
-title: Calvinball championship, again 5
-special_judge: true
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Calvinball championship, again 5"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 93
 accepted: 39
 solved_users: 29
-acceptance_rate: 54.717%
-collected_at: 2026-04-17T12:32:50.686589+00:00
+acceptance_rate: "54.717%"
+collected_at: "2026-04-17T12:32:50.686589+00:00"
 ---
 
 ## 문제

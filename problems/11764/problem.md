@@ -1,13 +1,13 @@
 ---
-title: Delete This!
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Delete This!"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 29
 accepted: 3
 solved_users: 3
-acceptance_rate: 14.286%
-collected_at: 2026-04-17T12:45:39.063395+00:00
+acceptance_rate: "14.286%"
+collected_at: "2026-04-17T12:45:39.063395+00:00"
 ---
 
 ## 문제

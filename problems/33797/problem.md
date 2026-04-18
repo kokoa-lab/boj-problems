@@ -1,13 +1,13 @@
 ---
-title: Pointers
-special_judge: true
-time_limit: 3 초
-memory_limit: 2048 MB
+title: "Pointers"
+special_judge: "true"
+time_limit: "3 초"
+memory_limit: "2048 MB"
 submissions: 24
 accepted: 5
 solved_users: 2
-acceptance_rate: 14.286%
-collected_at: 2026-04-17T20:23:41.866245+00:00
+acceptance_rate: "14.286%"
+collected_at: "2026-04-17T20:23:41.866245+00:00"
 ---
 
 ## 문제

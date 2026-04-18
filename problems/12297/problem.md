@@ -1,13 +1,13 @@
 ---
-title: Can't Stop (Small)
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Can't Stop (Small)"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 39
 accepted: 14
 solved_users: 10
-acceptance_rate: 34.483%
-collected_at: 2026-04-17T12:53:12.686184+00:00
+acceptance_rate: "34.483%"
+collected_at: "2026-04-17T12:53:12.686184+00:00"
 ---
 
 ## 문제

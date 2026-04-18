@@ -1,13 +1,13 @@
 ---
-title: Pianissimo
-special_judge: false
-time_limit: 1 초
-memory_limit: 2048 MB
+title: "Pianissimo"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "2048 MB"
 submissions: 22
 accepted: 16
 solved_users: 13
-acceptance_rate: 72.222%
-collected_at: 2026-04-17T20:02:43.681747+00:00
+acceptance_rate: "72.222%"
+collected_at: "2026-04-17T20:02:43.681747+00:00"
 ---
 
 ## 문제

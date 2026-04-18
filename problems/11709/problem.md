@@ -1,13 +1,13 @@
 ---
-title: Content Delivery
-special_judge: false
-time_limit: 5 초
-memory_limit: 256 MB
+title: "Content Delivery"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "256 MB"
 submissions: 19
 accepted: 12
 solved_users: 12
-acceptance_rate: 70.588%
-collected_at: 2026-04-17T12:44:36.950767+00:00
+acceptance_rate: "70.588%"
+collected_at: "2026-04-17T12:44:36.950767+00:00"
 ---
 
 ## 문제

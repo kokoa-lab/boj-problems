@@ -1,13 +1,13 @@
 ---
-title: A/B
-special_judge: true
-time_limit: 2 초
-memory_limit: 128 MB
+title: "A/B"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 950091
 accepted: 325165
 solved_users: 267180
-acceptance_rate: 34.666%
-collected_at: 2026-04-17T10:27:39.405551+00:00
+acceptance_rate: "34.666%"
+collected_at: "2026-04-17T10:27:39.405551+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 기사들의 여행
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "기사들의 여행"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 252
 accepted: 132
 solved_users: 102
-acceptance_rate: 50.246%
-collected_at: 2026-04-17T19:06:00.836392+00:00
+acceptance_rate: "50.246%"
+collected_at: "2026-04-17T19:06:00.836392+00:00"
 ---
 
 ## 문제

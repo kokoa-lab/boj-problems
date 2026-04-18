@@ -1,13 +1,13 @@
 ---
-title: Building Bridges
-special_judge: false
-time_limit: 3 초
-memory_limit: 128 MB
+title: "Building Bridges"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "128 MB"
 submissions: 200
 accepted: 135
 solved_users: 119
-acceptance_rate: 69.591%
-collected_at: 2026-04-17T13:55:52.315697+00:00
+acceptance_rate: "69.591%"
+collected_at: "2026-04-17T13:55:52.315697+00:00"
 ---
 
 ## 문제

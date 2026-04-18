@@ -1,13 +1,13 @@
 ---
-title: Golema Gozba
-special_judge: true
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Golema Gozba"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 105
 accepted: 78
 solved_users: 50
-acceptance_rate: 74.627%
-collected_at: 2026-04-17T14:58:29.333747+00:00
+acceptance_rate: "74.627%"
+collected_at: "2026-04-17T14:58:29.333747+00:00"
 ---
 
 ## 문제

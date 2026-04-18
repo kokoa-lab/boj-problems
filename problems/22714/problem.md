@@ -1,13 +1,13 @@
 ---
-title: Finding the Top RPS Player
-special_judge: false
-time_limit: 8 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "Finding the Top RPS Player"
+special_judge: "false"
+time_limit: "8 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 17
 accepted: 13
 solved_users: 12
-acceptance_rate: 75.000%
-collected_at: 2026-04-17T16:32:32.901059+00:00
+acceptance_rate: "75.000%"
+collected_at: "2026-04-17T16:32:32.901059+00:00"
 ---
 
 ## 문제

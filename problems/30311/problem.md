@@ -1,13 +1,13 @@
 ---
-title: Gathering Search Results
-special_judge: true
-time_limit: 3 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Gathering Search Results"
+special_judge: "true"
+time_limit: "3 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 45
 accepted: 35
 solved_users: 33
-acceptance_rate: 82.500%
-collected_at: 2026-04-17T19:02:56.499282+00:00
+acceptance_rate: "82.500%"
+collected_at: "2026-04-17T19:02:56.499282+00:00"
 ---
 
 ## 문제

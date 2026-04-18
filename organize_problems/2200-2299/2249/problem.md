@@ -1,13 +1,13 @@
 ---
-title: Olympic Ranking
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Olympic Ranking"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 144
 accepted: 1
 solved_users: 1
-acceptance_rate: 7.692%
-collected_at: 2026-04-17T10:40:00.665511+00:00
+acceptance_rate: "7.692%"
+collected_at: "2026-04-17T10:40:00.665511+00:00"
 ---
 
 ## 문제

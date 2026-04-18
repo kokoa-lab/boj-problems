@@ -1,13 +1,13 @@
 ---
-title: Punchy
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Punchy"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 260
 accepted: 150
 solved_users: 131
-acceptance_rate: 62.085%
-collected_at: 2026-04-17T11:38:04.404528+00:00
+acceptance_rate: "62.085%"
+collected_at: "2026-04-17T11:38:04.404528+00:00"
 ---
 
 ## 문제

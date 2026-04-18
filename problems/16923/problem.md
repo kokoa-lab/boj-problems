@@ -1,13 +1,13 @@
 ---
-title: 다음 다양한 단어
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "다음 다양한 단어"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 785
 accepted: 320
 solved_users: 259
-acceptance_rate: 40.852%
-collected_at: 2026-04-17T14:26:16.566940+00:00
+acceptance_rate: "40.852%"
+collected_at: "2026-04-17T14:26:16.566940+00:00"
 ---
 
 ## 문제

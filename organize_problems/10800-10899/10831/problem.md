@@ -1,13 +1,13 @@
 ---
-title: 오늘은 코딩하고 싶은 날
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "오늘은 코딩하고 싶은 날"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 0
 accepted: 0
 solved_users: 0
-acceptance_rate: 0.000%
-collected_at: 2026-04-17T12:30:11.687306+00:00
+acceptance_rate: "0.000%"
+collected_at: "2026-04-17T12:30:11.687306+00:00"
 ---
 
 ## 문제

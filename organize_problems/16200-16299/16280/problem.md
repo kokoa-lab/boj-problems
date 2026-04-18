@@ -1,13 +1,13 @@
 ---
-title: Satellites
-special_judge: false
-time_limit: 4 초
-memory_limit: 512 MB
+title: "Satellites"
+special_judge: "false"
+time_limit: "4 초"
+memory_limit: "512 MB"
 submissions: 28
 accepted: 6
 solved_users: 5
-acceptance_rate: 41.667%
-collected_at: 2026-04-17T14:14:57.053668+00:00
+acceptance_rate: "41.667%"
+collected_at: "2026-04-17T14:14:57.053668+00:00"
 ---
 
 ## 문제

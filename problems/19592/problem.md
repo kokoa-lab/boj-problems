@@ -1,13 +1,13 @@
 ---
-title: 장난감 경주
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 256 MB
+title: "장난감 경주"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "256 MB"
 submissions: 1010
 accepted: 496
 solved_users: 390
-acceptance_rate: 50.518%
-collected_at: 2026-04-17T15:24:06.289707+00:00
+acceptance_rate: "50.518%"
+collected_at: "2026-04-17T15:24:06.289707+00:00"
 ---
 
 ## 문제

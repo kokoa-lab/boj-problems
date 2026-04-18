@@ -1,13 +1,13 @@
 ---
-title: A healthy menu
-special_judge: false
-time_limit: 2 초
-memory_limit: 2048 MB
+title: "A healthy menu"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "2048 MB"
 submissions: 158
 accepted: 134
 solved_users: 112
-acceptance_rate: 85.496%
-collected_at: 2026-04-17T20:47:47.693263+00:00
+acceptance_rate: "85.496%"
+collected_at: "2026-04-17T20:47:47.693263+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: CVE: Life is Way Too Short
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "CVE: Life is Way Too Short"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 3289
 accepted: 399
 solved_users: 343
-acceptance_rate: 14.442%
-collected_at: 2026-04-17T18:14:05.842189+00:00
+acceptance_rate: "14.442%"
+collected_at: "2026-04-17T18:14:05.842189+00:00"
 ---
 
 ## 문제

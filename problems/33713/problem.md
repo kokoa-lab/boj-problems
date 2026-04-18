@@ -1,13 +1,13 @@
 ---
-title: 쌓기나무
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "쌓기나무"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 151
 accepted: 55
 solved_users: 47
-acceptance_rate: 38.525%
-collected_at: 2026-04-17T20:22:03.404432+00:00
+acceptance_rate: "38.525%"
+collected_at: "2026-04-17T20:22:03.404432+00:00"
 ---
 
 ## 문제

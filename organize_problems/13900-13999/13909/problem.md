@@ -1,13 +1,13 @@
 ---
-title: 창문 닫기
-special_judge: false
-time_limit: 1 초
-memory_limit: 64 MB
+title: "창문 닫기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "64 MB"
 submissions: 25973
 accepted: 13352
 solved_users: 11873
-acceptance_rate: 51.212%
-collected_at: 2026-04-17T13:22:07.603338+00:00
+acceptance_rate: "51.212%"
+collected_at: "2026-04-17T13:22:07.603338+00:00"
 ---
 
 ## 문제

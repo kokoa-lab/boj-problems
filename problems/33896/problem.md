@@ -1,13 +1,13 @@
 ---
-title: 아깝게 놓친 COSS 장학금
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "아깝게 놓친 COSS 장학금"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 551
 accepted: 262
 solved_users: 236
-acceptance_rate: 49.476%
-collected_at: 2026-04-17T20:25:54.455046+00:00
+acceptance_rate: "49.476%"
+collected_at: "2026-04-17T20:25:54.455046+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Crane
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Crane"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 60
 accepted: 21
 solved_users: 12
-acceptance_rate: 31.579%
-collected_at: 2026-04-17T11:32:25.473644+00:00
+acceptance_rate: "31.579%"
+collected_at: "2026-04-17T11:32:25.473644+00:00"
 ---
 
 ## 문제

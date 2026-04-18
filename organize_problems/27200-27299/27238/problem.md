@@ -1,13 +1,13 @@
 ---
-title: 편지 배달 2
-special_judge: false
-time_limit: 3 초
-memory_limit: 1024 MB
+title: "편지 배달 2"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "1024 MB"
 submissions: 14
 accepted: 5
 solved_users: 4
-acceptance_rate: 57.143%
-collected_at: 2026-04-17T17:58:50.480514+00:00
+acceptance_rate: "57.143%"
+collected_at: "2026-04-17T17:58:50.480514+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: カレー作り
-special_judge: false
-time_limit: 8 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "カレー作り"
+special_judge: "false"
+time_limit: "8 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 366
 accepted: 287
 solved_users: 255
-acceptance_rate: 79.439%
-collected_at: 2026-04-17T16:20:06.988984+00:00
+acceptance_rate: "79.439%"
+collected_at: "2026-04-17T16:20:06.988984+00:00"
 ---
 
 ## 문제

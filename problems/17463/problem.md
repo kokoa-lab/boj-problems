@@ -1,13 +1,13 @@
 ---
-title: 교준이의 심부름꾼, 민제의 고충 ("Circle" Ver.)
-special_judge: false
-time_limit: 4 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "교준이의 심부름꾼, 민제의 고충 (\"Circle\" Ver.)"
+special_judge: "false"
+time_limit: "4 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 42
 accepted: 9
 solved_users: 7
-acceptance_rate: 18.919%
-collected_at: 2026-04-17T14:39:49.034536+00:00
+acceptance_rate: "18.919%"
+collected_at: "2026-04-17T14:39:49.034536+00:00"
 ---
 
 ## 문제

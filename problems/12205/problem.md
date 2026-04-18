@@ -1,13 +1,13 @@
 ---
-title: Parentheses Order (Large)
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Parentheses Order (Large)"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 100
 accepted: 38
 solved_users: 33
-acceptance_rate: 37.500%
-collected_at: 2026-04-17T12:51:46.719678+00:00
+acceptance_rate: "37.500%"
+collected_at: "2026-04-17T12:51:46.719678+00:00"
 ---
 
 ## 문제

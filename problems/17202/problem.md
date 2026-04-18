@@ -1,13 +1,13 @@
 ---
-title: 핸드폰 번호 궁합
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "핸드폰 번호 궁합"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 4351
 accepted: 3314
 solved_users: 2916
-acceptance_rate: 77.512%
-collected_at: 2026-04-17T14:33:02.667006+00:00
+acceptance_rate: "77.512%"
+collected_at: "2026-04-17T14:33:02.667006+00:00"
 ---
 
 ## 문제

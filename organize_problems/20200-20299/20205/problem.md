@@ -1,13 +1,13 @@
 ---
-title: 교수님 그림이 깨지는데요?
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "교수님 그림이 깨지는데요?"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 2415
 accepted: 1528
 solved_users: 1356
-acceptance_rate: 64.326%
-collected_at: 2026-04-17T15:33:00.278089+00:00
+acceptance_rate: "64.326%"
+collected_at: "2026-04-17T15:33:00.278089+00:00"
 ---
 
 ## 문제

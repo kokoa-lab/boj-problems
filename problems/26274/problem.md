@@ -1,13 +1,13 @@
 ---
-title: 레이무의 순간이동 연습
-special_judge: true
-time_limit: 6 초
-memory_limit: 1024 MB
+title: "레이무의 순간이동 연습"
+special_judge: "true"
+time_limit: "6 초"
+memory_limit: "1024 MB"
 submissions: 284
 accepted: 9
 solved_users: 6
-acceptance_rate: 4.348%
-collected_at: 2026-04-17T17:42:51.904894+00:00
+acceptance_rate: "4.348%"
+collected_at: "2026-04-17T17:42:51.904894+00:00"
 ---
 
 ## 문제

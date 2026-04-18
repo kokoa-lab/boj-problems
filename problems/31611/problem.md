@@ -1,13 +1,13 @@
 ---
-title: 火曜日 (Tuesday)
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "火曜日 (Tuesday)"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 3054
 accepted: 2498
 solved_users: 2378
-acceptance_rate: 82.799%
-collected_at: 2026-04-17T19:32:01.315071+00:00
+acceptance_rate: "82.799%"
+collected_at: "2026-04-17T19:32:01.315071+00:00"
 ---
 
 ## 문제

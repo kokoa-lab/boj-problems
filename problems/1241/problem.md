@@ -1,13 +1,13 @@
 ---
-title: 머리 톡톡
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "머리 톡톡"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 3565
 accepted: 1111
 solved_users: 843
-acceptance_rate: 34.578%
-collected_at: 2026-04-17T10:29:02.277447+00:00
+acceptance_rate: "34.578%"
+collected_at: "2026-04-17T10:29:02.277447+00:00"
 ---
 
 ## 문제

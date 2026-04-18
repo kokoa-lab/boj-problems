@@ -1,13 +1,13 @@
 ---
-title: Left and Right
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Left and Right"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 90
 accepted: 64
 solved_users: 48
-acceptance_rate: 65.753%
-collected_at: 2026-04-17T14:21:18.549783+00:00
+acceptance_rate: "65.753%"
+collected_at: "2026-04-17T14:21:18.549783+00:00"
 ---
 
 ## 문제

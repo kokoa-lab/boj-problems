@@ -1,13 +1,13 @@
 ---
-title: Square
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Square"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 574
 accepted: 313
 solved_users: 265
-acceptance_rate: 54.752%
-collected_at: 2026-04-17T17:47:37.104158+00:00
+acceptance_rate: "54.752%"
+collected_at: "2026-04-17T17:47:37.104158+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Joint Excavation
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Joint Excavation"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 138
 accepted: 73
 solved_users: 66
-acceptance_rate: 53.659%
-collected_at: 2026-04-17T15:56:28.886329+00:00
+acceptance_rate: "53.659%"
+collected_at: "2026-04-17T15:56:28.886329+00:00"
 ---
 
 ## 문제

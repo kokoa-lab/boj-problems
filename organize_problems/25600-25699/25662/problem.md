@@ -1,13 +1,13 @@
 ---
-title: Flower's Land
-special_judge: false
-time_limit: 8 초 (추가 시간 없음)
-memory_limit: 2048 MB
+title: "Flower's Land"
+special_judge: "false"
+time_limit: "8 초 (추가 시간 없음)"
+memory_limit: "2048 MB"
 submissions: 58
 accepted: 18
 solved_users: 8
-acceptance_rate: 34.783%
-collected_at: 2026-04-17T17:31:00.102863+00:00
+acceptance_rate: "34.783%"
+collected_at: "2026-04-17T17:31:00.102863+00:00"
 ---
 
 ## 문제

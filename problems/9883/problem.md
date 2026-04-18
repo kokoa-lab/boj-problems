@@ -1,13 +1,13 @@
 ---
-title: Morton Numbers
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Morton Numbers"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 284
 accepted: 182
 solved_users: 142
-acceptance_rate: 60.169%
-collected_at: 2026-04-17T12:16:07.295312+00:00
+acceptance_rate: "60.169%"
+collected_at: "2026-04-17T12:16:07.295312+00:00"
 ---
 
 ## 문제

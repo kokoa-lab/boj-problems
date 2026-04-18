@@ -1,13 +1,13 @@
 ---
-title: Buildings
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Buildings"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 118
 accepted: 86
 solved_users: 76
-acceptance_rate: 73.786%
-collected_at: 2026-04-17T14:10:38.002423+00:00
+acceptance_rate: "73.786%"
+collected_at: "2026-04-17T14:10:38.002423+00:00"
 ---
 
 ## 문제

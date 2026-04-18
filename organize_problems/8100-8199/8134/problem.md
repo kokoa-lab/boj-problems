@@ -1,13 +1,13 @@
 ---
-title: Crystals
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Crystals"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 98
 accepted: 28
 solved_users: 12
-acceptance_rate: 17.391%
-collected_at: 2026-04-17T11:56:24.488083+00:00
+acceptance_rate: "17.391%"
+collected_at: "2026-04-17T11:56:24.488083+00:00"
 ---
 
 ## 문제

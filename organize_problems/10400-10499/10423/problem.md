@@ -1,13 +1,13 @@
 ---
-title: 전기가 부족해
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "전기가 부족해"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 5289
 accepted: 3674
 solved_users: 2820
-acceptance_rate: 69.647%
-collected_at: 2026-04-17T12:23:25.082882+00:00
+acceptance_rate: "69.647%"
+collected_at: "2026-04-17T12:23:25.082882+00:00"
 ---
 
 ## 문제

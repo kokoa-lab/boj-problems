@@ -1,13 +1,13 @@
 ---
-title: Ratatouille (Large)
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Ratatouille (Large)"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 82
 accepted: 51
 solved_users: 46
-acceptance_rate: 64.789%
-collected_at: 2026-04-17T13:42:00.179613+00:00
+acceptance_rate: "64.789%"
+collected_at: "2026-04-17T13:42:00.179613+00:00"
 ---
 
 ## 문제

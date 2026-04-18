@@ -1,13 +1,13 @@
 ---
-title: Save the computer!
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Save the computer!"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 45
 accepted: 10
 solved_users: 7
-acceptance_rate: 87.500%
-collected_at: 2026-04-17T12:36:33.360768+00:00
+acceptance_rate: "87.500%"
+collected_at: "2026-04-17T12:36:33.360768+00:00"
 ---
 
 ## 문제

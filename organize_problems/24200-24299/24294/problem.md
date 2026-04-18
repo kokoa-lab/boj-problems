@@ -1,13 +1,13 @@
 ---
-title: ГРАДИНА
-special_judge: false
-time_limit: 0.1 초
-memory_limit: 1024 MB
+title: "ГРАДИНА"
+special_judge: "false"
+time_limit: "0.1 초"
+memory_limit: "1024 MB"
 submissions: 1898
 accepted: 1136
 solved_users: 1040
-acceptance_rate: 61.105%
-collected_at: 2026-04-17T17:07:04.619194+00:00
+acceptance_rate: "61.105%"
+collected_at: "2026-04-17T17:07:04.619194+00:00"
 ---
 
 ## 문제

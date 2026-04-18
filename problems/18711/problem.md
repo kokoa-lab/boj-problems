@@ -1,13 +1,13 @@
 ---
-title: Hawawshi Decryption
-special_judge: false
-time_limit: 15 초
-memory_limit: 512 MB
+title: "Hawawshi Decryption"
+special_judge: "false"
+time_limit: "15 초"
+memory_limit: "512 MB"
 submissions: 25
 accepted: 21
 solved_users: 10
-acceptance_rate: 71.429%
-collected_at: 2026-04-17T15:08:42.300363+00:00
+acceptance_rate: "71.429%"
+collected_at: "2026-04-17T15:08:42.300363+00:00"
 ---
 
 ## 문제

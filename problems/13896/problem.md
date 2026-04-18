@@ -1,13 +1,13 @@
 ---
-title: Sky Tax
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Sky Tax"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 1554
 accepted: 515
 solved_users: 405
-acceptance_rate: 31.226%
-collected_at: 2026-04-17T13:21:41.092673+00:00
+acceptance_rate: "31.226%"
+collected_at: "2026-04-17T13:21:41.092673+00:00"
 ---
 
 ## 문제

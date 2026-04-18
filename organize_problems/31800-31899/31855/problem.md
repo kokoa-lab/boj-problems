@@ -1,13 +1,13 @@
 ---
-title: 격자 순회하기
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "격자 순회하기"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 97
 accepted: 20
 solved_users: 18
-acceptance_rate: 20.000%
-collected_at: 2026-04-17T19:37:50.947663+00:00
+acceptance_rate: "20.000%"
+collected_at: "2026-04-17T19:37:50.947663+00:00"
 ---
 
 ## 문제

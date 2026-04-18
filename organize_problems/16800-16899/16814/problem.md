@@ -1,13 +1,13 @@
 ---
-title: Black Company
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Black Company"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 31
 accepted: 19
 solved_users: 11
-acceptance_rate: 64.706%
-collected_at: 2026-04-17T14:24:34.248492+00:00
+acceptance_rate: "64.706%"
+collected_at: "2026-04-17T14:24:34.248492+00:00"
 ---
 
 ## 문제

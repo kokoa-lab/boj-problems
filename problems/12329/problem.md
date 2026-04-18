@@ -1,13 +1,13 @@
 ---
-title: Bullseye (Small)
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Bullseye (Small)"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 56
 accepted: 48
 solved_users: 43
-acceptance_rate: 87.755%
-collected_at: 2026-04-17T12:53:36.889775+00:00
+acceptance_rate: "87.755%"
+collected_at: "2026-04-17T12:53:36.889775+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: NVWLS
-special_judge: true
-time_limit: 6 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "NVWLS"
+special_judge: "true"
+time_limit: "6 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 121
 accepted: 30
 solved_users: 22
-acceptance_rate: 24.719%
-collected_at: 2026-04-17T14:42:19.369092+00:00
+acceptance_rate: "24.719%"
+collected_at: "2026-04-17T14:42:19.369092+00:00"
 ---
 
 ## 문제

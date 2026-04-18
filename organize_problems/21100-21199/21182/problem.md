@@ -1,13 +1,13 @@
 ---
-title: Weird Flecks, But OK
-special_judge: true
-time_limit: 3 초
-memory_limit: 1024 MB
+title: "Weird Flecks, But OK"
+special_judge: "true"
+time_limit: "3 초"
+memory_limit: "1024 MB"
 submissions: 487
 accepted: 252
 solved_users: 170
-acceptance_rate: 49.275%
-collected_at: 2026-04-17T15:49:59.552623+00:00
+acceptance_rate: "49.275%"
+collected_at: "2026-04-17T15:49:59.552623+00:00"
 ---
 
 ## 문제

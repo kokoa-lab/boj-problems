@@ -1,13 +1,13 @@
 ---
-title: Perpetual Motion (Large)
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Perpetual Motion (Large)"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 11
 accepted: 10
 solved_users: 10
-acceptance_rate: 100.000%
-collected_at: 2026-04-17T12:56:01.731276+00:00
+acceptance_rate: "100.000%"
+collected_at: "2026-04-17T12:56:01.731276+00:00"
 ---
 
 ## 문제

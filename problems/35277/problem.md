@@ -1,13 +1,13 @@
 ---
-title: 유림이와 하람이의 두쫀쿠 대작전
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "유림이와 하람이의 두쫀쿠 대작전"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 847
 accepted: 739
 solved_users: 689
-acceptance_rate: 89.018%
-collected_at: 2026-04-17T20:59:30.197187+00:00
+acceptance_rate: "89.018%"
+collected_at: "2026-04-17T20:59:30.197187+00:00"
 ---
 
 ## 문제

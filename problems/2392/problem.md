@@ -1,13 +1,13 @@
 ---
-title: 다각형의 분할
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "다각형의 분할"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 556
 accepted: 204
 solved_users: 135
-acceptance_rate: 34.974%
-collected_at: 2026-04-17T10:41:17.475439+00:00
+acceptance_rate: "34.974%"
+collected_at: "2026-04-17T10:41:17.475439+00:00"
 ---
 
 ## 문제

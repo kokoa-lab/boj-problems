@@ -1,13 +1,13 @@
 ---
-title: 짬뽕 369
-special_judge: false
-time_limit: 2.8 초
-memory_limit: 329 MB
+title: "짬뽕 369"
+special_judge: "false"
+time_limit: "2.8 초"
+memory_limit: "329 MB"
 submissions: 41
 accepted: 10
 solved_users: 7
-acceptance_rate: 35.000%
-collected_at: 2026-04-17T20:21:07.816485+00:00
+acceptance_rate: "35.000%"
+collected_at: "2026-04-17T20:21:07.816485+00:00"
 ---
 
 ## 문제

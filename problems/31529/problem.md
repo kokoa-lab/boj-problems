@@ -1,13 +1,13 @@
 ---
-title: 2024년에는 혼자가 아니길
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "2024년에는 혼자가 아니길"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 332
 accepted: 183
 solved_users: 162
-acceptance_rate: 62.548%
-collected_at: 2026-04-17T19:29:51.284349+00:00
+acceptance_rate: "62.548%"
+collected_at: "2026-04-17T19:29:51.284349+00:00"
 ---
 
 ## 문제

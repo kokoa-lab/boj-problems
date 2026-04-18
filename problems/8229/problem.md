@@ -1,13 +1,13 @@
 ---
-title: Fibonacci Representation
-special_judge: false
-time_limit: 3 초
-memory_limit: 128 MB
+title: "Fibonacci Representation"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "128 MB"
 submissions: 114
 accepted: 67
 solved_users: 50
-acceptance_rate: 64.103%
-collected_at: 2026-04-17T11:57:32.177704+00:00
+acceptance_rate: "64.103%"
+collected_at: "2026-04-17T11:57:32.177704+00:00"
 ---
 
 ## 문제

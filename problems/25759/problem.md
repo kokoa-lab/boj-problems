@@ -1,13 +1,13 @@
 ---
-title: 들판 건너가기
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "들판 건너가기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 886
 accepted: 355
 solved_users: 228
-acceptance_rate: 38.255%
-collected_at: 2026-04-17T17:32:26.581149+00:00
+acceptance_rate: "38.255%"
+collected_at: "2026-04-17T17:32:26.581149+00:00"
 ---
 
 ## 문제

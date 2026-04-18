@@ -1,13 +1,13 @@
 ---
-title: Master Zhu and Root
-special_judge: false
-time_limit: 3 초
-memory_limit: 512 MB
+title: "Master Zhu and Root"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "512 MB"
 submissions: 54
 accepted: 10
 solved_users: 9
-acceptance_rate: 24.324%
-collected_at: 2026-04-17T15:13:46.940974+00:00
+acceptance_rate: "24.324%"
+collected_at: "2026-04-17T15:13:46.940974+00:00"
 ---
 
 ## 문제

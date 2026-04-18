@@ -1,13 +1,13 @@
 ---
-title: 이집트 분수
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "이집트 분수"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 649
 accepted: 197
 solved_users: 144
-acceptance_rate: 38.606%
-collected_at: 2026-04-17T11:05:02.924982+00:00
+acceptance_rate: "38.606%"
+collected_at: "2026-04-17T11:05:02.924982+00:00"
 ---
 
 ## 문제

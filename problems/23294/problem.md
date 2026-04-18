@@ -1,13 +1,13 @@
 ---
-title: 웹 브라우저 1
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "웹 브라우저 1"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 1502
 accepted: 430
 solved_users: 323
-acceptance_rate: 29.152%
-collected_at: 2026-04-17T16:45:54.686219+00:00
+acceptance_rate: "29.152%"
+collected_at: "2026-04-17T16:45:54.686219+00:00"
 ---
 
 ## 문제

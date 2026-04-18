@@ -1,13 +1,13 @@
 ---
-title: Cross Country Skiing
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Cross Country Skiing"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 386
 accepted: 205
 solved_users: 147
-acceptance_rate: 52.878%
-collected_at: 2026-04-17T12:16:01.549218+00:00
+acceptance_rate: "52.878%"
+collected_at: "2026-04-17T12:16:01.549218+00:00"
 ---
 
 ## 문제

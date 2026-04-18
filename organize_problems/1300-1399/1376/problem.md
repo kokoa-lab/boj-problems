@@ -1,13 +1,13 @@
 ---
-title: 민식우선탐색
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "민식우선탐색"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 2255
 accepted: 282
 solved_users: 165
-acceptance_rate: 12.360%
-collected_at: 2026-04-17T10:29:44.708241+00:00
+acceptance_rate: "12.360%"
+collected_at: "2026-04-17T10:29:44.708241+00:00"
 ---
 
 ## 문제

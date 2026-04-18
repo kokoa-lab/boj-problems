@@ -1,13 +1,13 @@
 ---
-title: Lui and Lines
-special_judge: false
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "Lui and Lines"
+special_judge: "false"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 14
 accepted: 5
 solved_users: 4
-acceptance_rate: 36.364%
-collected_at: 2026-04-17T16:50:32.524476+00:00
+acceptance_rate: "36.364%"
+collected_at: "2026-04-17T16:50:32.524476+00:00"
 ---
 
 ## 문제

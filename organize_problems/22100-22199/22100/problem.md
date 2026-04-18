@@ -1,13 +1,13 @@
 ---
-title: Митя и граф
-special_judge: true
-time_limit: 2 초
-memory_limit: 256 MB
+title: "Митя и граф"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 16
 accepted: 11
 solved_users: 11
-acceptance_rate: 91.667%
-collected_at: 2026-04-18T09:51:08.118886+00:00
+acceptance_rate: "91.667%"
+collected_at: "2026-04-18T09:51:08.118886+00:00"
 ---
 
 ## 문제

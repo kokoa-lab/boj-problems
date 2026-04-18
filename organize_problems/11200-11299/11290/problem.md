@@ -1,13 +1,13 @@
 ---
-title: Wonowon
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Wonowon"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 154
 accepted: 96
 solved_users: 79
-acceptance_rate: 61.719%
-collected_at: 2026-04-17T12:39:13.822873+00:00
+acceptance_rate: "61.719%"
+collected_at: "2026-04-17T12:39:13.822873+00:00"
 ---
 
 ## 문제

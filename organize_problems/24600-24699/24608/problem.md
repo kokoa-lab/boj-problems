@@ -1,13 +1,13 @@
 ---
-title: Average Character
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Average Character"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 346
 accepted: 198
 solved_users: 176
-acceptance_rate: 57.516%
-collected_at: 2026-04-17T17:11:51.152655+00:00
+acceptance_rate: "57.516%"
+collected_at: "2026-04-17T17:11:51.152655+00:00"
 ---
 
 ## 문제

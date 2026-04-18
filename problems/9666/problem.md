@@ -1,13 +1,13 @@
 ---
-title: SUMO
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "SUMO"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 125
 accepted: 51
 solved_users: 41
-acceptance_rate: 44.565%
-collected_at: 2026-04-17T12:12:42.459077+00:00
+acceptance_rate: "44.565%"
+collected_at: "2026-04-17T12:12:42.459077+00:00"
 ---
 
 ## 문제

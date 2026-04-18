@@ -1,13 +1,13 @@
 ---
-title: Nonogram
-special_judge: false
-time_limit: 3 초
-memory_limit: 128 MB
+title: "Nonogram"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "128 MB"
 submissions: 10
 accepted: 6
 solved_users: 6
-acceptance_rate: 75.000%
-collected_at: 2026-04-17T12:14:24.739766+00:00
+acceptance_rate: "75.000%"
+collected_at: "2026-04-17T12:14:24.739766+00:00"
 ---
 
 ## 문제

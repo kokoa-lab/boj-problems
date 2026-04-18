@@ -1,13 +1,13 @@
 ---
-title: Kth Subtree
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Kth Subtree"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 263
 accepted: 92
 solved_users: 47
-acceptance_rate: 24.607%
-collected_at: 2026-04-17T15:48:59.457433+00:00
+acceptance_rate: "24.607%"
+collected_at: "2026-04-17T15:48:59.457433+00:00"
 ---
 
 ## 문제

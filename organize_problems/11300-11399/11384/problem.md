@@ -1,13 +1,13 @@
 ---
-title: 빨간 직사각형
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "빨간 직사각형"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 503
 accepted: 134
 solved_users: 85
-acceptance_rate: 34.836%
-collected_at: 2026-04-17T12:40:06.827562+00:00
+acceptance_rate: "34.836%"
+collected_at: "2026-04-17T12:40:06.827562+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 스타 대회
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "스타 대회"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 511
 accepted: 110
 solved_users: 55
-acceptance_rate: 20.000%
-collected_at: 2026-04-17T10:31:35.165287+00:00
+acceptance_rate: "20.000%"
+collected_at: "2026-04-17T10:31:35.165287+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: SMUPC NAME
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "SMUPC NAME"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 919
 accepted: 534
 solved_users: 493
-acceptance_rate: 59.976%
-collected_at: 2026-04-17T19:37:59.380424+00:00
+acceptance_rate: "59.976%"
+collected_at: "2026-04-17T19:37:59.380424+00:00"
 ---
 
 ## 문제

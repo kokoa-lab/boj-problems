@@ -1,13 +1,13 @@
 ---
-title: 포도주 시음
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "포도주 시음"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 941
 accepted: 433
 solved_users: 373
-acceptance_rate: 48.950%
-collected_at: 2026-04-17T19:31:30.787561+00:00
+acceptance_rate: "48.950%"
+collected_at: "2026-04-17T19:31:30.787561+00:00"
 ---
 
 ## 문제

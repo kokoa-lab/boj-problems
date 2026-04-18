@@ -1,13 +1,13 @@
 ---
-title: Boring Numbers
-special_judge: false
-time_limit: 20 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Boring Numbers"
+special_judge: "false"
+time_limit: "20 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 61
 accepted: 32
 solved_users: 29
-acceptance_rate: 60.417%
-collected_at: 2026-04-17T16:58:31.418166+00:00
+acceptance_rate: "60.417%"
+collected_at: "2026-04-17T16:58:31.418166+00:00"
 ---
 
 ## 문제

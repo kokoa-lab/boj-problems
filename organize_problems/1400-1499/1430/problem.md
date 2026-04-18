@@ -1,13 +1,13 @@
 ---
-title: 공격
-special_judge: true
-time_limit: 2 초
-memory_limit: 128 MB
+title: "공격"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 967
 accepted: 425
 solved_users: 335
-acceptance_rate: 47.994%
-collected_at: 2026-04-17T10:30:10.016045+00:00
+acceptance_rate: "47.994%"
+collected_at: "2026-04-17T10:30:10.016045+00:00"
 ---
 
 ## 문제

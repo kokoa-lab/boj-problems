@@ -1,13 +1,13 @@
 ---
-title: Interfered-Jumped
-special_judge: false
-time_limit: 3 초
-memory_limit: 1024 MB
+title: "Interfered-Jumped"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "1024 MB"
 submissions: 75
 accepted: 6
 solved_users: 5
-acceptance_rate: 11.628%
-collected_at: 2026-04-17T18:21:32.687727+00:00
+acceptance_rate: "11.628%"
+collected_at: "2026-04-17T18:21:32.687727+00:00"
 ---
 
 ## 문제

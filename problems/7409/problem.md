@@ -1,13 +1,13 @@
 ---
-title: Bricks
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Bricks"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 112
 accepted: 19
 solved_users: 14
-acceptance_rate: 24.561%
-collected_at: 2026-04-17T11:49:10.018199+00:00
+acceptance_rate: "24.561%"
+collected_at: "2026-04-17T11:49:10.018199+00:00"
 ---
 
 ## 문제

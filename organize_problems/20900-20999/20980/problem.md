@@ -1,13 +1,13 @@
 ---
-title: パンケーキ (Pancake)
-special_judge: false
-time_limit: 2.5 초
-memory_limit: 1024 MB
+title: "パンケーキ (Pancake)"
+special_judge: "false"
+time_limit: "2.5 초"
+memory_limit: "1024 MB"
 submissions: 133
 accepted: 52
 solved_users: 40
-acceptance_rate: 39.604%
-collected_at: 2026-04-17T15:44:35.458980+00:00
+acceptance_rate: "39.604%"
+collected_at: "2026-04-17T15:44:35.458980+00:00"
 ---
 
 ## 문제

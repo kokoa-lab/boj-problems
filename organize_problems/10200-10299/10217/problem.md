@@ -1,13 +1,13 @@
 ---
-title: KCM Travel
-special_judge: false
-time_limit: 3 초
-memory_limit: 256 MB
+title: "KCM Travel"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "256 MB"
 submissions: 34697
 accepted: 2345
 solved_users: 1308
-acceptance_rate: 9.736%
-collected_at: 2026-04-17T12:20:33.324048+00:00
+acceptance_rate: "9.736%"
+collected_at: "2026-04-17T12:20:33.324048+00:00"
 ---
 
 ## 문제

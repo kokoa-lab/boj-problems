@@ -1,13 +1,13 @@
 ---
-title: Maze 1
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Maze 1"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 1510
 accepted: 333
 solved_users: 298
-acceptance_rate: 21.736%
-collected_at: 2026-04-17T12:20:46.765645+00:00
+acceptance_rate: "21.736%"
+collected_at: "2026-04-17T12:20:46.765645+00:00"
 ---
 
 ## 문제

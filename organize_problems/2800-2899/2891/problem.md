@@ -1,13 +1,13 @@
 ---
-title: 카약과 강풍
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "카약과 강풍"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 7749
 accepted: 2057
 solved_users: 1721
-acceptance_rate: 29.785%
-collected_at: 2026-04-17T10:45:32.317810+00:00
+acceptance_rate: "29.785%"
+collected_at: "2026-04-17T10:45:32.317810+00:00"
 ---
 
 ## 문제

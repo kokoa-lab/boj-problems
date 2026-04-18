@@ -1,13 +1,13 @@
 ---
-title: 알고리즘 가르치기
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "알고리즘 가르치기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 44
 accepted: 19
 solved_users: 17
-acceptance_rate: 42.500%
-collected_at: 2026-04-18T09:52:04.235383+00:00
+acceptance_rate: "42.500%"
+collected_at: "2026-04-18T09:52:04.235383+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Time Limits
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Time Limits"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 594
 accepted: 447
 solved_users: 425
-acceptance_rate: 77.982%
-collected_at: 2026-04-17T14:17:53.480265+00:00
+acceptance_rate: "77.982%"
+collected_at: "2026-04-17T14:17:53.480265+00:00"
 ---
 
 ## 문제

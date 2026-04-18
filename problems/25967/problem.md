@@ -1,13 +1,13 @@
 ---
-title: 교수님 서운해 잉잉
-special_judge: false
-time_limit: 1.5 초
-memory_limit: 512 MB
+title: "교수님 서운해 잉잉"
+special_judge: "false"
+time_limit: "1.5 초"
+memory_limit: "512 MB"
 submissions: 327
 accepted: 51
 solved_users: 35
-acceptance_rate: 14.463%
-collected_at: 2026-04-17T17:37:53.939030+00:00
+acceptance_rate: "14.463%"
+collected_at: "2026-04-17T17:37:53.939030+00:00"
 ---
 
 ## 문제

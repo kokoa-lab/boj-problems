@@ -1,13 +1,13 @@
 ---
-title: Humble Numbers
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Humble Numbers"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 245
 accepted: 95
 solved_users: 77
-acceptance_rate: 35.648%
-collected_at: 2026-04-17T11:31:25.757074+00:00
+acceptance_rate: "35.648%"
+collected_at: "2026-04-17T11:31:25.757074+00:00"
 ---
 
 ## 문제

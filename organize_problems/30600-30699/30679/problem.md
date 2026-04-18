@@ -1,13 +1,13 @@
 ---
-title: 별 가두기
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "별 가두기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 656
 accepted: 453
 solved_users: 346
-acceptance_rate: 70.902%
-collected_at: 2026-04-17T19:12:11.999403+00:00
+acceptance_rate: "70.902%"
+collected_at: "2026-04-17T19:12:11.999403+00:00"
 ---
 
 ## 문제

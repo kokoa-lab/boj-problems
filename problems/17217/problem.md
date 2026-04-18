@@ -1,13 +1,13 @@
 ---
-title: 마술사 남정훈
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "마술사 남정훈"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 213
 accepted: 43
 solved_users: 16
-acceptance_rate: 18.391%
-collected_at: 2026-04-17T14:33:15.491650+00:00
+acceptance_rate: "18.391%"
+collected_at: "2026-04-17T14:33:15.491650+00:00"
 ---
 
 ## 문제

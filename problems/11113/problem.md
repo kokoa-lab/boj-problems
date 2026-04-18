@@ -1,13 +1,13 @@
 ---
-title: The Traveling Orienteerer
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "The Traveling Orienteerer"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 661
 accepted: 489
 solved_users: 449
-acceptance_rate: 73.849%
-collected_at: 2026-04-17T12:36:43.038210+00:00
+acceptance_rate: "73.849%"
+collected_at: "2026-04-17T12:36:43.038210+00:00"
 ---
 
 ## 문제

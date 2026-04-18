@@ -1,13 +1,13 @@
 ---
-title: City of Lights
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "City of Lights"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 293
 accepted: 160
 solved_users: 141
-acceptance_rate: 57.787%
-collected_at: 2026-04-17T14:41:42.947275+00:00
+acceptance_rate: "57.787%"
+collected_at: "2026-04-17T14:41:42.947275+00:00"
 ---
 
 ## 문제

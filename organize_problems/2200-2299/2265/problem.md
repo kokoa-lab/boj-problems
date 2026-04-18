@@ -1,13 +1,13 @@
 ---
-title: 거짓말쟁이
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "거짓말쟁이"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 78
 accepted: 11
 solved_users: 5
-acceptance_rate: 33.333%
-collected_at: 2026-04-17T10:40:07.282646+00:00
+acceptance_rate: "33.333%"
+collected_at: "2026-04-17T10:40:07.282646+00:00"
 ---
 
 ## 문제

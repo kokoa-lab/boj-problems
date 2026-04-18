@@ -1,13 +1,13 @@
 ---
-title: The Morning after Halloween
-special_judge: false
-time_limit: 9 초
-memory_limit: 128 MB
+title: "The Morning after Halloween"
+special_judge: "false"
+time_limit: "9 초"
+memory_limit: "128 MB"
 submissions: 52
 accepted: 14
 solved_users: 11
-acceptance_rate: 32.353%
-collected_at: 2026-04-17T10:53:11.724323+00:00
+acceptance_rate: "32.353%"
+collected_at: "2026-04-17T10:53:11.724323+00:00"
 ---
 
 ## 문제

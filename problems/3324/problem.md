@@ -1,13 +1,13 @@
 ---
-title: Dominance
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "Dominance"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 11
 accepted: 6
 solved_users: 6
-acceptance_rate: 54.545%
-collected_at: 2026-04-17T10:48:08.728400+00:00
+acceptance_rate: "54.545%"
+collected_at: "2026-04-17T10:48:08.728400+00:00"
 ---
 
 ## 문제

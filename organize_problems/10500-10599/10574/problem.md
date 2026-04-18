@@ -1,13 +1,13 @@
 ---
-title: Ranked Choice
-special_judge: false
-time_limit: 60 초
-memory_limit: 256 MB
+title: "Ranked Choice"
+special_judge: "false"
+time_limit: "60 초"
+memory_limit: "256 MB"
 submissions: 39
 accepted: 25
 solved_users: 17
-acceptance_rate: 68.000%
-collected_at: 2026-04-17T12:25:51.414047+00:00
+acceptance_rate: "68.000%"
+collected_at: "2026-04-17T12:25:51.414047+00:00"
 ---
 
 ## 문제

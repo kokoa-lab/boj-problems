@@ -1,13 +1,13 @@
 ---
-title: 폴카의 수학 공부
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "폴카의 수학 공부"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 1051
 accepted: 269
 solved_users: 216
-acceptance_rate: 29.589%
-collected_at: 2026-04-17T20:29:58.701263+00:00
+acceptance_rate: "29.589%"
+collected_at: "2026-04-17T20:29:58.701263+00:00"
 ---
 
 ## 문제

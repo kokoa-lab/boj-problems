@@ -1,13 +1,13 @@
 ---
-title: Film Critics
-special_judge: true
-time_limit: 3 초
-memory_limit: 1024 MB
+title: "Film Critics"
+special_judge: "true"
+time_limit: "3 초"
+memory_limit: "1024 MB"
 submissions: 94
 accepted: 47
 solved_users: 41
-acceptance_rate: 48.810%
-collected_at: 2026-04-17T15:46:26.470074+00:00
+acceptance_rate: "48.810%"
+collected_at: "2026-04-17T15:46:26.470074+00:00"
 ---
 
 ## 문제

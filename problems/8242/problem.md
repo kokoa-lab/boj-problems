@@ -1,13 +1,13 @@
 ---
-title: Inspector
-special_judge: false
-time_limit: 5 초
-memory_limit: 128 MB
+title: "Inspector"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "128 MB"
 submissions: 99
 accepted: 20
 solved_users: 16
-acceptance_rate: 24.615%
-collected_at: 2026-04-17T11:57:39.449347+00:00
+acceptance_rate: "24.615%"
+collected_at: "2026-04-17T11:57:39.449347+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 불켜기
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "불켜기"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 15049
 accepted: 4692
 solved_users: 3240
-acceptance_rate: 28.813%
-collected_at: 2026-04-17T12:48:18.795733+00:00
+acceptance_rate: "28.813%"
+collected_at: "2026-04-17T12:48:18.795733+00:00"
 ---
 
 ## 문제

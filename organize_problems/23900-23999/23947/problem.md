@@ -1,13 +1,13 @@
 ---
-title: Book Reading
-special_judge: false
-time_limit: 40 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Book Reading"
+special_judge: "false"
+time_limit: "40 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 86
 accepted: 43
 solved_users: 36
-acceptance_rate: 48.000%
-collected_at: 2026-04-17T16:59:00.722649+00:00
+acceptance_rate: "48.000%"
+collected_at: "2026-04-17T16:59:00.722649+00:00"
 ---
 
 ## 문제

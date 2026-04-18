@@ -1,13 +1,13 @@
 ---
-title: Move or Block!
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Move or Block!"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 231
 accepted: 46
 solved_users: 44
-acceptance_rate: 24.309%
-collected_at: 2026-04-17T19:31:00.610576+00:00
+acceptance_rate: "24.309%"
+collected_at: "2026-04-17T19:31:00.610576+00:00"
 ---
 
 ## 문제

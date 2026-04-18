@@ -1,13 +1,13 @@
 ---
-title: Parentheses
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Parentheses"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 25
 accepted: 15
 solved_users: 10
-acceptance_rate: 55.556%
-collected_at: 2026-04-17T15:20:44.121875+00:00
+acceptance_rate: "55.556%"
+collected_at: "2026-04-17T15:20:44.121875+00:00"
 ---
 
 ## 문제

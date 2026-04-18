@@ -1,13 +1,13 @@
 ---
-title: 쿼리와 트리 2
-special_judge: true
-time_limit: 3 초
-memory_limit: 1024 MB
+title: "쿼리와 트리 2"
+special_judge: "true"
+time_limit: "3 초"
+memory_limit: "1024 MB"
 submissions: 528
 accepted: 28
 solved_users: 7
-acceptance_rate: 3.139%
-collected_at: 2026-04-17T18:24:02.370191+00:00
+acceptance_rate: "3.139%"
+collected_at: "2026-04-17T18:24:02.370191+00:00"
 ---
 
 ## 문제

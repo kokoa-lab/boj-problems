@@ -1,13 +1,13 @@
 ---
-title: Coin Collecting
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "Coin Collecting"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 406
 accepted: 101
 solved_users: 47
-acceptance_rate: 22.381%
-collected_at: 2026-04-17T10:52:19.232692+00:00
+acceptance_rate: "22.381%"
+collected_at: "2026-04-17T10:52:19.232692+00:00"
 ---
 
 ## 문제

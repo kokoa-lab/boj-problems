@@ -1,13 +1,13 @@
 ---
-title: 3차원 점과 쿼리
-special_judge: false
-time_limit: 7 초
-memory_limit: 1024 MB
+title: "3차원 점과 쿼리"
+special_judge: "false"
+time_limit: "7 초"
+memory_limit: "1024 MB"
 submissions: 396
 accepted: 134
 solved_users: 27
-acceptance_rate: 16.875%
-collected_at: 2026-04-17T14:51:00.454554+00:00
+acceptance_rate: "16.875%"
+collected_at: "2026-04-17T14:51:00.454554+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Barricades
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Barricades"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 54
 accepted: 30
 solved_users: 28
-acceptance_rate: 54.902%
-collected_at: 2026-04-17T11:59:05.515719+00:00
+acceptance_rate: "54.902%"
+collected_at: "2026-04-17T11:59:05.515719+00:00"
 ---
 
 ## 문제

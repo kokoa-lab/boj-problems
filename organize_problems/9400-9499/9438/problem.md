@@ -1,13 +1,13 @@
 ---
-title: Probability Paradox
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Probability Paradox"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 40
 accepted: 16
 solved_users: 13
-acceptance_rate: 46.429%
-collected_at: 2026-04-17T12:09:49.648071+00:00
+acceptance_rate: "46.429%"
+collected_at: "2026-04-17T12:09:49.648071+00:00"
 ---
 
 ## 문제

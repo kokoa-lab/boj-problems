@@ -1,13 +1,13 @@
 ---
-title: 연산
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "연산"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 168
 accepted: 45
 solved_users: 37
-acceptance_rate: 57.812%
-collected_at: 2026-04-17T14:30:19.275411+00:00
+acceptance_rate: "57.812%"
+collected_at: "2026-04-17T14:30:19.275411+00:00"
 ---
 
 ## 문제

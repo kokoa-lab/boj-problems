@@ -1,13 +1,13 @@
 ---
-title: Logo
-special_judge: true
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Logo"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 320
 accepted: 119
 solved_users: 84
-acceptance_rate: 37.333%
-collected_at: 2026-04-17T10:57:14.593062+00:00
+acceptance_rate: "37.333%"
+collected_at: "2026-04-17T10:57:14.593062+00:00"
 ---
 
 ## 문제

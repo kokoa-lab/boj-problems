@@ -1,13 +1,13 @@
 ---
-title: 桁 (Digit)
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "桁 (Digit)"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 1134
 accepted: 999
 solved_users: 950
-acceptance_rate: 89.202%
-collected_at: 2026-04-17T19:31:58.137217+00:00
+acceptance_rate: "89.202%"
+collected_at: "2026-04-17T19:31:58.137217+00:00"
 ---
 
 ## 문제

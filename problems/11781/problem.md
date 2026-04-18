@@ -1,13 +1,13 @@
 ---
-title: 퇴근 시간
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "퇴근 시간"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 2228
 accepted: 356
 solved_users: 206
-acceptance_rate: 15.677%
-collected_at: 2026-04-18T10:04:08.526019+00:00
+acceptance_rate: "15.677%"
+collected_at: "2026-04-18T10:04:08.526019+00:00"
 ---
 
 ## 문제

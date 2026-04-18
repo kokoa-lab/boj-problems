@@ -1,13 +1,13 @@
 ---
-title: Fellow Sheep
-special_judge: false
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Fellow Sheep"
+special_judge: "false"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 42
 accepted: 24
 solved_users: 21
-acceptance_rate: 53.846%
-collected_at: 2026-04-17T19:56:54.429628+00:00
+acceptance_rate: "53.846%"
+collected_at: "2026-04-17T19:56:54.429628+00:00"
 ---
 
 ## 문제

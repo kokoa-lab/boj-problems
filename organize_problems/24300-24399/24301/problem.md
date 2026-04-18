@@ -1,13 +1,13 @@
 ---
-title: АВТОБУСИ
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "АВТОБУСИ"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 39
 accepted: 23
 solved_users: 19
-acceptance_rate: 57.576%
-collected_at: 2026-04-17T17:07:07.937744+00:00
+acceptance_rate: "57.576%"
+collected_at: "2026-04-17T17:07:07.937744+00:00"
 ---
 
 ## 문제

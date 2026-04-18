@@ -1,13 +1,13 @@
 ---
-title: 성격 진단 테스트
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "성격 진단 테스트"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 369
 accepted: 143
 solved_users: 131
-acceptance_rate: 37.006%
-collected_at: 2026-04-17T10:59:13.025212+00:00
+acceptance_rate: "37.006%"
+collected_at: "2026-04-17T10:59:13.025212+00:00"
 ---
 
 ## 문제

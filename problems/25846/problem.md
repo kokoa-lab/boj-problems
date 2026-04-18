@@ -1,13 +1,13 @@
 ---
-title: Make the Team
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Make the Team"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 98
 accepted: 47
 solved_users: 37
-acceptance_rate: 48.052%
-collected_at: 2026-04-17T17:34:35.444998+00:00
+acceptance_rate: "48.052%"
+collected_at: "2026-04-17T17:34:35.444998+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Cheat
-special_judge: false
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "Cheat"
+special_judge: "false"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 49
 accepted: 9
 solved_users: 8
-acceptance_rate: 36.364%
-collected_at: 2026-04-17T16:48:45.241432+00:00
+acceptance_rate: "36.364%"
+collected_at: "2026-04-17T16:48:45.241432+00:00"
 ---
 
 ## 문제

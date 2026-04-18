@@ -1,13 +1,13 @@
 ---
-title: Hawk eyes
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Hawk eyes"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 2708
 accepted: 1871
 solved_users: 1695
-acceptance_rate: 71.975%
-collected_at: 2026-04-17T13:17:29.282227+00:00
+acceptance_rate: "71.975%"
+collected_at: "2026-04-17T13:17:29.282227+00:00"
 ---
 
 ## 문제

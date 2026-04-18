@@ -1,13 +1,13 @@
 ---
-title: 샤카샤카
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "샤카샤카"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 255
 accepted: 51
 solved_users: 47
-acceptance_rate: 22.488%
-collected_at: 2026-04-17T17:22:36.362832+00:00
+acceptance_rate: "22.488%"
+collected_at: "2026-04-17T17:22:36.362832+00:00"
 ---
 
 ## 문제

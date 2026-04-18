@@ -1,13 +1,13 @@
 ---
-title: 박사 과정
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "박사 과정"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 3620
 accepted: 2507
 solved_users: 2309
-acceptance_rate: 70.289%
-collected_at: 2026-04-17T11:10:57.482932+00:00
+acceptance_rate: "70.289%"
+collected_at: "2026-04-17T11:10:57.482932+00:00"
 ---
 
 ## 문제

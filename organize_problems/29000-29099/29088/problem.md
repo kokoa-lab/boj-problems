@@ -1,13 +1,13 @@
 ---
-title: Путь в никуда
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Путь в никуда"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 47
 accepted: 30
 solved_users: 14
-acceptance_rate: 50.000%
-collected_at: 2026-04-17T18:37:06.798390+00:00
+acceptance_rate: "50.000%"
+collected_at: "2026-04-17T18:37:06.798390+00:00"
 ---
 
 ## 문제

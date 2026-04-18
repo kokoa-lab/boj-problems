@@ -1,13 +1,13 @@
 ---
-title: 1379와 세제곱
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "1379와 세제곱"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 946
 accepted: 400
 solved_users: 297
-acceptance_rate: 40.797%
-collected_at: 2026-04-17T10:44:22.143315+00:00
+acceptance_rate: "40.797%"
+collected_at: "2026-04-17T10:44:22.143315+00:00"
 ---
 
 ## 문제

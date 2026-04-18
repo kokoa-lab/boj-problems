@@ -1,13 +1,13 @@
 ---
-title: 화학자의 수학
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "화학자의 수학"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 23
 accepted: 8
 solved_users: 8
-acceptance_rate: 80.000%
-collected_at: 2026-04-17T10:52:57.269442+00:00
+acceptance_rate: "80.000%"
+collected_at: "2026-04-17T10:52:57.269442+00:00"
 ---
 
 ## 문제

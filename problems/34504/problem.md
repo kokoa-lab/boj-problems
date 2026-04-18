@@ -1,13 +1,13 @@
 ---
-title: Beautiful Bracelets
-special_judge: true
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 256 MB (추가 메모리 없음)
+title: "Beautiful Bracelets"
+special_judge: "true"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "256 MB (추가 메모리 없음)"
 submissions: 8
 accepted: 5
 solved_users: 4
-acceptance_rate: 57.143%
-collected_at: 2026-04-17T20:41:17.934473+00:00
+acceptance_rate: "57.143%"
+collected_at: "2026-04-17T20:41:17.934473+00:00"
 ---
 
 ## 문제

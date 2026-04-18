@@ -1,13 +1,13 @@
 ---
-title: Unimodal Palindromic Decompositions
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Unimodal Palindromic Decompositions"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 136
 accepted: 84
 solved_users: 62
-acceptance_rate: 60.194%
-collected_at: 2026-04-17T11:26:16.384874+00:00
+acceptance_rate: "60.194%"
+collected_at: "2026-04-17T11:26:16.384874+00:00"
 ---
 
 ## 문제

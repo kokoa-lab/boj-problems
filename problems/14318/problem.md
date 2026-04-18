@@ -1,13 +1,13 @@
 ---
-title: Watson and Intervals (Small)
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Watson and Intervals (Small)"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 41
 accepted: 22
 solved_users: 19
-acceptance_rate: 86.364%
-collected_at: 2026-04-17T13:30:09.229180+00:00
+acceptance_rate: "86.364%"
+collected_at: "2026-04-17T13:30:09.229180+00:00"
 ---
 
 ## 문제

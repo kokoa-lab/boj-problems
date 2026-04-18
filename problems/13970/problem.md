@@ -1,13 +1,13 @@
 ---
-title: Power towers
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Power towers"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 1172
 accepted: 209
 solved_users: 126
-acceptance_rate: 13.447%
-collected_at: 2026-04-17T13:23:12.738876+00:00
+acceptance_rate: "13.447%"
+collected_at: "2026-04-17T13:23:12.738876+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Busy Beaver's Water Network
-special_judge: false
-time_limit: 2 초
-memory_limit: 2048 MB
+title: "Busy Beaver's Water Network"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "2048 MB"
 submissions: 14
 accepted: 8
 solved_users: 5
-acceptance_rate: 71.429%
-collected_at: 2026-04-17T20:51:40.908608+00:00
+acceptance_rate: "71.429%"
+collected_at: "2026-04-17T20:51:40.908608+00:00"
 ---
 
 ## 문제

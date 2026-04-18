@@ -1,13 +1,13 @@
 ---
-title: 가희와 클럽 오디션 1
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "가희와 클럽 오디션 1"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 1701
 accepted: 1384
 solved_users: 1321
-acceptance_rate: 82.050%
-collected_at: 2026-04-17T19:15:43.074308+00:00
+acceptance_rate: "82.050%"
+collected_at: "2026-04-17T19:15:43.074308+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Brave Force Story
-special_judge: false
-time_limit: 8 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "Brave Force Story"
+special_judge: "false"
+time_limit: "8 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 30
 accepted: 22
 solved_users: 20
-acceptance_rate: 74.074%
-collected_at: 2026-04-17T16:25:16.217044+00:00
+acceptance_rate: "74.074%"
+collected_at: "2026-04-17T16:25:16.217044+00:00"
 ---
 
 ## 문제

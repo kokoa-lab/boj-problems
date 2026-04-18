@@ -1,13 +1,13 @@
 ---
-title: LOL Lovers
-special_judge: true
-time_limit: 3 초
-memory_limit: 2048 MB
+title: "LOL Lovers"
+special_judge: "true"
+time_limit: "3 초"
+memory_limit: "2048 MB"
 submissions: 266
 accepted: 195
 solved_users: 180
-acceptance_rate: 72.581%
-collected_at: 2026-04-17T20:07:36.913090+00:00
+acceptance_rate: "72.581%"
+collected_at: "2026-04-17T20:07:36.913090+00:00"
 ---
 
 ## 문제

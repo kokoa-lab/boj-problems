@@ -1,13 +1,13 @@
 ---
-title: Tritwise Mex
-special_judge: false
-time_limit: 4 초
-memory_limit: 512 MB
+title: "Tritwise Mex"
+special_judge: "false"
+time_limit: "4 초"
+memory_limit: "512 MB"
 submissions: 34
 accepted: 26
 solved_users: 14
-acceptance_rate: 77.778%
-collected_at: 2026-04-17T15:06:12.007393+00:00
+acceptance_rate: "77.778%"
+collected_at: "2026-04-17T15:06:12.007393+00:00"
 ---
 
 ## 문제

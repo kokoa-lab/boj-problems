@@ -1,13 +1,13 @@
 ---
-title: 고령 멜빙 축제
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "고령 멜빙 축제"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 298
 accepted: 228
 solved_users: 202
-acceptance_rate: 80.159%
-collected_at: 2026-04-17T20:45:16.521873+00:00
+acceptance_rate: "80.159%"
+collected_at: "2026-04-17T20:45:16.521873+00:00"
 ---
 
 ## 문제

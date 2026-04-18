@@ -1,13 +1,13 @@
 ---
-title: 좌중을 사로잡는 건배사
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "좌중을 사로잡는 건배사"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 1972
 accepted: 750
 solved_users: 683
-acceptance_rate: 41.850%
-collected_at: 2026-04-17T13:32:18.656433+00:00
+acceptance_rate: "41.850%"
+collected_at: "2026-04-17T13:32:18.656433+00:00"
 ---
 
 ## 문제

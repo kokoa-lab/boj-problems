@@ -1,13 +1,13 @@
 ---
-title: Crazy Fencing
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Crazy Fencing"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 272
 accepted: 193
 solved_users: 168
-acceptance_rate: 71.795%
-collected_at: 2026-04-17T16:01:44.447930+00:00
+acceptance_rate: "71.795%"
+collected_at: "2026-04-17T16:01:44.447930+00:00"
 ---
 
 ## 문제

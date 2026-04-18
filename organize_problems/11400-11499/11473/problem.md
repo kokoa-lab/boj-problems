@@ -1,13 +1,13 @@
 ---
-title: Hash Code Hacker
-special_judge: true
-time_limit: 2 초
-memory_limit: 256 MB
+title: "Hash Code Hacker"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 62
 accepted: 46
 solved_users: 44
-acceptance_rate: 73.333%
-collected_at: 2026-04-17T12:41:10.543861+00:00
+acceptance_rate: "73.333%"
+collected_at: "2026-04-17T12:41:10.543861+00:00"
 ---
 
 ## 문제

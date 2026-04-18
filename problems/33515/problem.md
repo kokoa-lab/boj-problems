@@ -1,13 +1,13 @@
 ---
-title: 노트북 세 대를 가지고 왔다
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "노트북 세 대를 가지고 왔다"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 3495
 accepted: 2905
 solved_users: 2776
-acceptance_rate: 83.690%
-collected_at: 2026-04-17T20:18:05.541712+00:00
+acceptance_rate: "83.690%"
+collected_at: "2026-04-17T20:18:05.541712+00:00"
 ---
 
 ## 문제

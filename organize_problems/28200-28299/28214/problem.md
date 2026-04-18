@@ -1,13 +1,13 @@
 ---
-title: 크림빵
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "크림빵"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 6122
 accepted: 3023
 solved_users: 2468
-acceptance_rate: 51.066%
-collected_at: 2026-04-17T18:20:14.407265+00:00
+acceptance_rate: "51.066%"
+collected_at: "2026-04-17T18:20:14.407265+00:00"
 ---
 
 ## 문제

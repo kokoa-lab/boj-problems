@@ -1,13 +1,13 @@
 ---
-title: Exclusive Access
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "Exclusive Access"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 2
 accepted: 2
 solved_users: 2
-acceptance_rate: 100.000%
-collected_at: 2026-04-17T10:49:51.353926+00:00
+acceptance_rate: "100.000%"
+collected_at: "2026-04-17T10:49:51.353926+00:00"
 ---
 
 ## 문제
@@ -22,7 +22,32 @@ The table below contains several algorithms in pseudo-code that attempt to imple
 
 | Algorithm 1 | Algorithm 2 | Algorithm 3 |
 | --- | --- | --- |
-| ```  loop forever   NCS() + loop while +   (turn == 1 - id) CS() - turn <- (1 - id) end loop ``` | ```  loop forever   NCS() + want[id] <- 1 + loop while +   (want[1 - id] == 1)   CS() - want[id] <- 0 end loop ``` | ```  loop forever    NCS() +  want[id] <- 1 +  turn <- (1 - id) +  loop while +    (want[1 - id] == 1 and +     turn == 1 - id)    CS() -  want[id] <- 0 end loop ``` |
+| ``` 
+ loop forever
+   NCS()
+ + loop while
+ +   (turn == 1 - id)
+ CS()
+ - turn <- (1 - id)
+ end loop ``` | ``` 
+ loop forever
+   NCS()
+ + want[id] <- 1
+ + loop while
+ +   (want[1 - id] == 1)
+   CS()
+ - want[id] <- 0
+ end loop ``` | ``` 
+ loop forever
+    NCS()
+ +  want[id] <- 1
+ +  turn <- (1 - id)
+ +  loop while
+ +    (want[1 - id] == 1 and
+ +     turn == 1 - id)
+    CS()
+ -  want[id] <- 0
+ end loop ``` |
 
 The task is to figure out if the given algorithm satisfies three important properties:
 

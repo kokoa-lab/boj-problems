@@ -1,13 +1,13 @@
 ---
-title: Word Crosses
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Word Crosses"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 206
 accepted: 45
 solved_users: 9
-acceptance_rate: 19.565%
-collected_at: 2026-04-17T12:17:12.001812+00:00
+acceptance_rate: "19.565%"
+collected_at: "2026-04-17T12:17:12.001812+00:00"
 ---
 
 ## 문제

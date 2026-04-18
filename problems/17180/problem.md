@@ -1,13 +1,13 @@
 ---
-title: 문자열 비교하기
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "문자열 비교하기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 520
 accepted: 225
 solved_users: 174
-acceptance_rate: 49.714%
-collected_at: 2026-04-17T14:32:08.703450+00:00
+acceptance_rate: "49.714%"
+collected_at: "2026-04-17T14:32:08.703450+00:00"
 ---
 
 ## 문제

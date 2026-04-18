@@ -1,13 +1,13 @@
 ---
-title: 곰곰이와 학식
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "곰곰이와 학식"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 2029
 accepted: 764
 solved_users: 629
-acceptance_rate: 38.708%
-collected_at: 2026-04-17T17:39:44.550676+00:00
+acceptance_rate: "38.708%"
+collected_at: "2026-04-17T17:39:44.550676+00:00"
 ---
 
 ## 문제

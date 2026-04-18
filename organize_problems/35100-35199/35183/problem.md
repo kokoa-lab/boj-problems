@@ -1,13 +1,13 @@
 ---
-title: 광역기 맞으면 서렌하는 게임
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "광역기 맞으면 서렌하는 게임"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 453
 accepted: 217
 solved_users: 190
-acceptance_rate: 54.755%
-collected_at: 2026-04-17T20:57:30.603064+00:00
+acceptance_rate: "54.755%"
+collected_at: "2026-04-17T20:57:30.603064+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 팩토리얼 분수 방정식
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "팩토리얼 분수 방정식"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 415
 accepted: 153
 solved_users: 126
-acceptance_rate: 39.252%
-collected_at: 2026-04-17T13:18:01.674457+00:00
+acceptance_rate: "39.252%"
+collected_at: "2026-04-17T13:18:01.674457+00:00"
 ---
 
 ## 문제

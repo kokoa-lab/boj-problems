@@ -1,13 +1,13 @@
 ---
-title: 깃발 꽂기
-special_judge: true
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "깃발 꽂기"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 174
 accepted: 46
 solved_users: 40
-acceptance_rate: 29.630%
-collected_at: 2026-04-17T18:03:56.723434+00:00
+acceptance_rate: "29.630%"
+collected_at: "2026-04-17T18:03:56.723434+00:00"
 ---
 
 ## 문제

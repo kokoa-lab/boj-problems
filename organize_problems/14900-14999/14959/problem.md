@@ -1,13 +1,13 @@
 ---
-title: Slot Machines
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Slot Machines"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 1181
 accepted: 471
 solved_users: 404
-acceptance_rate: 39.725%
-collected_at: 2026-04-17T13:47:02.720298+00:00
+acceptance_rate: "39.725%"
+collected_at: "2026-04-17T13:47:02.720298+00:00"
 ---
 
 ## 문제

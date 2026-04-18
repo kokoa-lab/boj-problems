@@ -1,13 +1,13 @@
 ---
-title: 곱셈 게임
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "곱셈 게임"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 1062
 accepted: 307
 solved_users: 189
-acceptance_rate: 26.620%
-collected_at: 2026-04-17T13:01:22.962865+00:00
+acceptance_rate: "26.620%"
+collected_at: "2026-04-17T13:01:22.962865+00:00"
 ---
 
 ## 문제

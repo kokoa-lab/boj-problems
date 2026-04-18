@@ -1,13 +1,13 @@
 ---
-title: X marks the Spot
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "X marks the Spot"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 1032
 accepted: 530
 solved_users: 435
-acceptance_rate: 54.648%
-collected_at: 2026-04-17T19:17:17.776249+00:00
+acceptance_rate: "54.648%"
+collected_at: "2026-04-17T19:17:17.776249+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 수열 걷기
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "수열 걷기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 1032
 accepted: 422
 solved_users: 347
-acceptance_rate: 41.408%
-collected_at: 2026-04-17T11:10:07.808609+00:00
+acceptance_rate: "41.408%"
+collected_at: "2026-04-17T11:10:07.808609+00:00"
 ---
 
 ## 문제

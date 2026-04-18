@@ -1,13 +1,13 @@
 ---
-title: Space Thief
-special_judge: false
-time_limit: 2 초
-memory_limit: 2048 MB
+title: "Space Thief"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "2048 MB"
 submissions: 36
 accepted: 3
 solved_users: 3
-acceptance_rate: 10.000%
-collected_at: 2026-04-17T20:30:45.654385+00:00
+acceptance_rate: "10.000%"
+collected_at: "2026-04-17T20:30:45.654385+00:00"
 ---
 
 ## 문제

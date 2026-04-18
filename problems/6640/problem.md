@@ -1,13 +1,13 @@
 ---
-title: Suspicious Stocks
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Suspicious Stocks"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 60
 accepted: 44
 solved_users: 36
-acceptance_rate: 69.231%
-collected_at: 2026-04-17T11:32:04.258985+00:00
+acceptance_rate: "69.231%"
+collected_at: "2026-04-17T11:32:04.258985+00:00"
 ---
 
 ## 문제

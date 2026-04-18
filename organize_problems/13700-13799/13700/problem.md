@@ -1,13 +1,13 @@
 ---
-title: 완전 범죄
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "완전 범죄"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 1907
 accepted: 672
 solved_users: 562
-acceptance_rate: 40.813%
-collected_at: 2026-04-17T13:17:32.948033+00:00
+acceptance_rate: "40.813%"
+collected_at: "2026-04-17T13:17:32.948033+00:00"
 ---
 
 ## 문제

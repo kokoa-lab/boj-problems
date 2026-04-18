@@ -1,13 +1,13 @@
 ---
-title: 이진 수열 숫자 야구 게임
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "이진 수열 숫자 야구 게임"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 83
 accepted: 21
 solved_users: 18
-acceptance_rate: 47.368%
-collected_at: 2026-04-17T20:53:31.254642+00:00
+acceptance_rate: "47.368%"
+collected_at: "2026-04-17T20:53:31.254642+00:00"
 ---
 
 ## 문제

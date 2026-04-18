@@ -1,13 +1,13 @@
 ---
-title: Remainder Reminder
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "Remainder Reminder"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 144
 accepted: 70
 solved_users: 50
-acceptance_rate: 47.619%
-collected_at: 2026-04-17T14:48:46.190387+00:00
+acceptance_rate: "47.619%"
+collected_at: "2026-04-17T14:48:46.190387+00:00"
 ---
 
 ## 문제

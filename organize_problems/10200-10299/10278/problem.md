@@ -1,13 +1,13 @@
 ---
-title: Laser Cutting
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Laser Cutting"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 30
 accepted: 10
 solved_users: 6
-acceptance_rate: 23.077%
-collected_at: 2026-04-17T12:21:26.542533+00:00
+acceptance_rate: "23.077%"
+collected_at: "2026-04-17T12:21:26.542533+00:00"
 ---
 
 ## 문제

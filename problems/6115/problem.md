@@ -1,13 +1,13 @@
 ---
-title: Work Scheduling
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Work Scheduling"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 151
 accepted: 61
 solved_users: 54
-acceptance_rate: 51.429%
-collected_at: 2026-04-17T11:20:24.305710+00:00
+acceptance_rate: "51.429%"
+collected_at: "2026-04-17T11:20:24.305710+00:00"
 ---
 
 ## 문제

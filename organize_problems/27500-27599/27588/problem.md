@@ -1,13 +1,13 @@
 ---
-title: Restaurant Opening
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Restaurant Opening"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 145
 accepted: 130
 solved_users: 114
-acceptance_rate: 91.935%
-collected_at: 2026-04-18T09:59:25.134659+00:00
+acceptance_rate: "91.935%"
+collected_at: "2026-04-18T09:59:25.134659+00:00"
 ---
 
 ## 문제

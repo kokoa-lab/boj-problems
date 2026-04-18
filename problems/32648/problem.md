@@ -1,13 +1,13 @@
 ---
-title: ZOAC 7
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "ZOAC 7"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 132
 accepted: 91
 solved_users: 64
-acceptance_rate: 67.368%
-collected_at: 2026-04-17T19:58:25.323038+00:00
+acceptance_rate: "67.368%"
+collected_at: "2026-04-17T19:58:25.323038+00:00"
 ---
 
 ## 문제

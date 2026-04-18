@@ -1,13 +1,13 @@
 ---
-title: Travel of alphabets
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "Travel of alphabets"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 46
 accepted: 35
 solved_users: 31
-acceptance_rate: 73.810%
-collected_at: 2026-04-17T12:38:48.178506+00:00
+acceptance_rate: "73.810%"
+collected_at: "2026-04-17T12:38:48.178506+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Cow Checkups
-special_judge: false
-time_limit: 2 초
-memory_limit: 2048 MB
+title: "Cow Checkups"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "2048 MB"
 submissions: 149
 accepted: 88
 solved_users: 76
-acceptance_rate: 73.786%
-collected_at: 2026-04-17T20:17:58.558283+00:00
+acceptance_rate: "73.786%"
+collected_at: "2026-04-17T20:17:58.558283+00:00"
 ---
 
 ## 문제

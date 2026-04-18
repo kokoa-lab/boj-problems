@@ -1,13 +1,13 @@
 ---
-title: 조 짜기
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "조 짜기"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 5131
 accepted: 3288
 solved_users: 2572
-acceptance_rate: 65.379%
-collected_at: 2026-04-17T10:39:44.025430+00:00
+acceptance_rate: "65.379%"
+collected_at: "2026-04-17T10:39:44.025430+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 一般化うるう年
-special_judge: false
-time_limit: 8 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "一般化うるう年"
+special_judge: "false"
+time_limit: "8 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 124
 accepted: 107
 solved_users: 98
-acceptance_rate: 87.500%
-collected_at: 2026-04-17T16:19:57.822368+00:00
+acceptance_rate: "87.500%"
+collected_at: "2026-04-17T16:19:57.822368+00:00"
 ---
 
 ## 문제

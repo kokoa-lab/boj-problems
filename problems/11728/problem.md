@@ -1,13 +1,13 @@
 ---
-title: 배열 합치기
-special_judge: false
-time_limit: 1.5 초
-memory_limit: 256 MB
+title: "배열 합치기"
+special_judge: "false"
+time_limit: "1.5 초"
+memory_limit: "256 MB"
 submissions: 53854
 accepted: 26391
 solved_users: 17700
-acceptance_rate: 47.560%
-collected_at: 2026-04-17T12:44:50.290586+00:00
+acceptance_rate: "47.560%"
+collected_at: "2026-04-17T12:44:50.290586+00:00"
 ---
 
 ## 문제

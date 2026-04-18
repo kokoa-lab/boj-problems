@@ -1,13 +1,13 @@
 ---
-title: 환상의 짝꿍
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "환상의 짝꿍"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 8092
 accepted: 1473
 solved_users: 1033
-acceptance_rate: 16.789%
-collected_at: 2026-04-17T14:04:52.296166+00:00
+acceptance_rate: "16.789%"
+collected_at: "2026-04-17T14:04:52.296166+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 영화감독 숌
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "영화감독 숌"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 132579
 accepted: 81067
 solved_users: 65248
-acceptance_rate: 60.718%
-collected_at: 2026-04-17T10:30:11.204108+00:00
+acceptance_rate: "60.718%"
+collected_at: "2026-04-17T10:30:11.204108+00:00"
 ---
 
 ## 문제

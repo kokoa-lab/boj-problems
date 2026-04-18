@@ -1,13 +1,13 @@
 ---
-title: Roaring Years
-special_judge: false
-time_limit: 30 초 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "Roaring Years"
+special_judge: "false"
+time_limit: "30 초 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 69
 accepted: 22
 solved_users: 22
-acceptance_rate: 38.596%
-collected_at: 2026-04-17T16:38:21.663170+00:00
+acceptance_rate: "38.596%"
+collected_at: "2026-04-17T16:38:21.663170+00:00"
 ---
 
 ## 문제

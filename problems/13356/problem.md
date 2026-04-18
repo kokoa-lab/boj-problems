@@ -1,13 +1,13 @@
 ---
-title: Card Hand Sorting
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Card Hand Sorting"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 72
 accepted: 51
 solved_users: 42
-acceptance_rate: 73.684%
-collected_at: 2026-04-17T13:11:58.920230+00:00
+acceptance_rate: "73.684%"
+collected_at: "2026-04-17T13:11:58.920230+00:00"
 ---
 
 ## 문제

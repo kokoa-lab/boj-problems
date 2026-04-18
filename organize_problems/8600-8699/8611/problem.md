@@ -1,13 +1,13 @@
 ---
-title: 팰린드롬 숫자
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "팰린드롬 숫자"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 1756
 accepted: 607
 solved_users: 512
-acceptance_rate: 38.847%
-collected_at: 2026-04-17T12:01:20.463874+00:00
+acceptance_rate: "38.847%"
+collected_at: "2026-04-17T12:01:20.463874+00:00"
 ---
 
 ## 문제

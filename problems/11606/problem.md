@@ -1,13 +1,13 @@
 ---
-title: Egg Drop
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "Egg Drop"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 449
 accepted: 231
 solved_users: 204
-acceptance_rate: 52.442%
-collected_at: 2026-04-17T12:42:50.081623+00:00
+acceptance_rate: "52.442%"
+collected_at: "2026-04-17T12:42:50.081623+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 사냥꾼
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "사냥꾼"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 366
 accepted: 61
 solved_users: 44
-acceptance_rate: 23.037%
-collected_at: 2026-04-18T09:49:50.669745+00:00
+acceptance_rate: "23.037%"
+collected_at: "2026-04-18T09:49:50.669745+00:00"
 ---
 
 ## 문제

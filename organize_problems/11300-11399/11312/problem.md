@@ -1,13 +1,13 @@
 ---
-title: 삼각 무늬 - 2
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "삼각 무늬 - 2"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 2800
 accepted: 1626
 solved_users: 1512
-acceptance_rate: 58.901%
-collected_at: 2026-04-17T12:39:32.247146+00:00
+acceptance_rate: "58.901%"
+collected_at: "2026-04-17T12:39:32.247146+00:00"
 ---
 
 ## 문제

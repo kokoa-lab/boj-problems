@@ -1,13 +1,13 @@
 ---
-title: 젓가락
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "젓가락"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 2831
 accepted: 1284
 solved_users: 1156
-acceptance_rate: 46.840%
-collected_at: 2026-04-17T17:06:04.868420+00:00
+acceptance_rate: "46.840%"
+collected_at: "2026-04-17T17:06:04.868420+00:00"
 ---
 
 ## 문제

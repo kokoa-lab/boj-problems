@@ -1,13 +1,13 @@
 ---
-title: 거울반사
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "거울반사"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 906
 accepted: 538
 solved_users: 490
-acceptance_rate: 62.341%
-collected_at: 2026-04-17T17:32:21.317548+00:00
+acceptance_rate: "62.341%"
+collected_at: "2026-04-17T17:32:21.317548+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Code
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Code"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 50
 accepted: 21
 solved_users: 16
-acceptance_rate: 37.209%
-collected_at: 2026-04-17T11:29:58.830958+00:00
+acceptance_rate: "37.209%"
+collected_at: "2026-04-17T11:29:58.830958+00:00"
 ---
 
 ## 문제

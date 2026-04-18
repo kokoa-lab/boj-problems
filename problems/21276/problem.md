@@ -1,13 +1,13 @@
 ---
-title: 계보 복원가 호석
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "계보 복원가 호석"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 3347
 accepted: 1714
 solved_users: 1308
-acceptance_rate: 51.074%
-collected_at: 2026-04-17T15:52:47.295275+00:00
+acceptance_rate: "51.074%"
+collected_at: "2026-04-17T15:52:47.295275+00:00"
 ---
 
 ## 문제

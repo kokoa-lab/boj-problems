@@ -1,13 +1,13 @@
 ---
-title: 진우의 비밀번호
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 256 MB
+title: "진우의 비밀번호"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "256 MB"
 submissions: 420
 accepted: 316
 solved_users: 278
-acceptance_rate: 80.347%
-collected_at: 2026-04-17T14:32:57.649346+00:00
+acceptance_rate: "80.347%"
+collected_at: "2026-04-17T14:32:57.649346+00:00"
 ---
 
 ## 문제

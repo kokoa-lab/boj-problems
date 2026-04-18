@@ -1,13 +1,13 @@
 ---
-title: Hedgemony (Small)
-special_judge: true
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Hedgemony (Small)"
+special_judge: "true"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 416
 accepted: 331
 solved_users: 312
-acceptance_rate: 80.412%
-collected_at: 2026-04-17T12:54:07.724789+00:00
+acceptance_rate: "80.412%"
+collected_at: "2026-04-17T12:54:07.724789+00:00"
 ---
 
 ## 문제

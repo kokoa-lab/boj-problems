@@ -1,13 +1,13 @@
 ---
-title: 정렬하기
-special_judge: true
-time_limit: 1 초
-memory_limit: 512 MB
+title: "정렬하기"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 193
 accepted: 91
 solved_users: 71
-acceptance_rate: 43.293%
-collected_at: 2026-04-17T12:31:39.421977+00:00
+acceptance_rate: "43.293%"
+collected_at: "2026-04-17T12:31:39.421977+00:00"
 ---
 
 ## 문제

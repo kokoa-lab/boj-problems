@@ -1,13 +1,13 @@
 ---
-title: C=A+B
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "C=A+B"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 113
 accepted: 30
 solved_users: 21
-acceptance_rate: 34.426%
-collected_at: 2026-04-17T18:58:11.147626+00:00
+acceptance_rate: "34.426%"
+collected_at: "2026-04-17T18:58:11.147626+00:00"
 ---
 
 ## 문제

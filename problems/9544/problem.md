@@ -1,13 +1,13 @@
 ---
-title: Captain Obvious and the Rabbit-Man
-special_judge: false
-time_limit: 6 초
-memory_limit: 128 MB
+title: "Captain Obvious and the Rabbit-Man"
+special_judge: "false"
+time_limit: "6 초"
+memory_limit: "128 MB"
 submissions: 70
 accepted: 37
 solved_users: 35
-acceptance_rate: 51.471%
-collected_at: 2026-04-17T12:11:07.639626+00:00
+acceptance_rate: "51.471%"
+collected_at: "2026-04-17T12:11:07.639626+00:00"
 ---
 
 ## 문제

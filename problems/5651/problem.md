@@ -1,13 +1,13 @@
 ---
-title: 완전 중요한 간선
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "완전 중요한 간선"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 2764
 accepted: 916
 solved_users: 536
-acceptance_rate: 29.194%
-collected_at: 2026-04-17T11:16:18.303792+00:00
+acceptance_rate: "29.194%"
+collected_at: "2026-04-17T11:16:18.303792+00:00"
 ---
 
 ## 문제

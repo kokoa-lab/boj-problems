@@ -1,13 +1,13 @@
 ---
-title: Unlock My Safe
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Unlock My Safe"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 25
 accepted: 24
 solved_users: 18
-acceptance_rate: 94.737%
-collected_at: 2026-04-17T12:14:19.235621+00:00
+acceptance_rate: "94.737%"
+collected_at: "2026-04-17T12:14:19.235621+00:00"
 ---
 
 ## 문제

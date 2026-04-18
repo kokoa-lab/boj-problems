@@ -1,13 +1,13 @@
 ---
-title: Adding Trouble
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Adding Trouble"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 4357
 accepted: 3603
 solved_users: 3463
-acceptance_rate: 83.365%
-collected_at: 2026-04-17T19:33:15.377097+00:00
+acceptance_rate: "83.365%"
+collected_at: "2026-04-17T19:33:15.377097+00:00"
 ---
 
 ## 문제

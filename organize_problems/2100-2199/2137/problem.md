@@ -1,13 +1,13 @@
 ---
-title: 가장 가까운 분수
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "가장 가까운 분수"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 696
 accepted: 260
 solved_users: 177
-acceptance_rate: 38.065%
-collected_at: 2026-04-17T10:38:46.572757+00:00
+acceptance_rate: "38.065%"
+collected_at: "2026-04-17T10:38:46.572757+00:00"
 ---
 
 ## 문제

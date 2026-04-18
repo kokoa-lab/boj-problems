@@ -1,13 +1,13 @@
 ---
-title: 豪邸と宅配便
-special_judge: false
-time_limit: 10 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "豪邸と宅配便"
+special_judge: "false"
+time_limit: "10 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 155
 accepted: 118
 solved_users: 99
-acceptance_rate: 77.953%
-collected_at: 2026-04-17T16:20:09.506037+00:00
+acceptance_rate: "77.953%"
+collected_at: "2026-04-17T16:20:09.506037+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 알약
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "알약"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 10274
 accepted: 7007
 solved_users: 5375
-acceptance_rate: 70.271%
-collected_at: 2026-04-17T11:08:51.326139+00:00
+acceptance_rate: "70.271%"
+collected_at: "2026-04-17T11:08:51.326139+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 가위바위보 버블 정렬
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "가위바위보 버블 정렬"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 551
 accepted: 180
 solved_users: 154
-acceptance_rate: 54.610%
-collected_at: 2026-04-17T16:37:57.582150+00:00
+acceptance_rate: "54.610%"
+collected_at: "2026-04-17T16:37:57.582150+00:00"
 ---
 
 ## 문제

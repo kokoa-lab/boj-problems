@@ -1,13 +1,13 @@
 ---
-title: Peculiar Primes
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Peculiar Primes"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 60
 accepted: 40
 solved_users: 33
-acceptance_rate: 64.706%
-collected_at: 2026-04-17T11:32:05.012110+00:00
+acceptance_rate: "64.706%"
+collected_at: "2026-04-17T11:32:05.012110+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 월드컵 조별리그
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "월드컵 조별리그"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 228
 accepted: 78
 solved_users: 66
-acceptance_rate: 33.503%
-collected_at: 2026-04-17T18:09:59.364319+00:00
+acceptance_rate: "33.503%"
+collected_at: "2026-04-17T18:09:59.364319+00:00"
 ---
 
 ## 문제

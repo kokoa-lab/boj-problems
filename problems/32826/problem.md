@@ -1,13 +1,13 @@
 ---
-title: Polygon Discovery
-special_judge: false
-time_limit: 4 초
-memory_limit: 2048 MB
+title: "Polygon Discovery"
+special_judge: "false"
+time_limit: "4 초"
+memory_limit: "2048 MB"
 submissions: 50
 accepted: 4
 solved_users: 3
-acceptance_rate: 6.522%
-collected_at: 2026-04-17T20:02:05.852296+00:00
+acceptance_rate: "6.522%"
+collected_at: "2026-04-17T20:02:05.852296+00:00"
 ---
 
 ## 문제

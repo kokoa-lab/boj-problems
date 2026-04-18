@@ -1,13 +1,13 @@
 ---
-title: Virus synthesis
-special_judge: false
-time_limit: 20 초
-memory_limit: 256 MB
+title: "Virus synthesis"
+special_judge: "false"
+time_limit: "20 초"
+memory_limit: "256 MB"
 submissions: 47
 accepted: 25
 solved_users: 6
-acceptance_rate: 33.333%
-collected_at: 2026-04-17T12:24:44.812139+00:00
+acceptance_rate: "33.333%"
+collected_at: "2026-04-17T12:24:44.812139+00:00"
 ---
 
 ## 문제

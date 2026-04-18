@@ -1,13 +1,13 @@
 ---
-title: 나누기
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "나누기"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 32059
 accepted: 17995
 solved_users: 16048
-acceptance_rate: 57.985%
-collected_at: 2026-04-17T10:28:04.799066+00:00
+acceptance_rate: "57.985%"
+collected_at: "2026-04-17T10:28:04.799066+00:00"
 ---
 
 ## 문제

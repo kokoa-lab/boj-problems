@@ -1,13 +1,13 @@
 ---
-title: k진수 정수의 자릿수 나누기
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "k진수 정수의 자릿수 나누기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 612
 accepted: 301
 solved_users: 244
-acceptance_rate: 49.898%
-collected_at: 2026-04-17T17:25:44.117680+00:00
+acceptance_rate: "49.898%"
+collected_at: "2026-04-17T17:25:44.117680+00:00"
 ---
 
 ## 문제

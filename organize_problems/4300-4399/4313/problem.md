@@ -1,13 +1,13 @@
 ---
-title: Work Reduction
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Work Reduction"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 55
 accepted: 34
 solved_users: 27
-acceptance_rate: 64.286%
-collected_at: 2026-04-17T10:59:24.985614+00:00
+acceptance_rate: "64.286%"
+collected_at: "2026-04-17T10:59:24.985614+00:00"
 ---
 
 ## 문제

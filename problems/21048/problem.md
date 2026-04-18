@@ -1,13 +1,13 @@
 ---
-title: Big Brother
-special_judge: true
-time_limit: 3 초
-memory_limit: 1024 MB
+title: "Big Brother"
+special_judge: "true"
+time_limit: "3 초"
+memory_limit: "1024 MB"
 submissions: 229
 accepted: 125
 solved_users: 70
-acceptance_rate: 50.725%
-collected_at: 2026-04-17T15:46:25.548225+00:00
+acceptance_rate: "50.725%"
+collected_at: "2026-04-17T15:46:25.548225+00:00"
 ---
 
 ## 문제

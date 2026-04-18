@@ -1,13 +1,13 @@
 ---
-title: 미술관
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "미술관"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 935
 accepted: 247
 solved_users: 173
-acceptance_rate: 27.858%
-collected_at: 2026-04-17T12:30:16.787374+00:00
+acceptance_rate: "27.858%"
+collected_at: "2026-04-17T12:30:16.787374+00:00"
 ---
 
 ## 문제

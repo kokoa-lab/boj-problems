@@ -1,13 +1,13 @@
 ---
-title: 빈 문자열 만들기
-special_judge: true
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "빈 문자열 만들기"
+special_judge: "true"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 424
 accepted: 103
 solved_users: 92
-acceptance_rate: 47.423%
-collected_at: 2026-04-17T15:28:26.639201+00:00
+acceptance_rate: "47.423%"
+collected_at: "2026-04-17T15:28:26.639201+00:00"
 ---
 
 ## 문제

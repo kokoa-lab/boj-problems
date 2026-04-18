@@ -1,13 +1,13 @@
 ---
-title: Clickbait
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Clickbait"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 34
 accepted: 17
 solved_users: 15
-acceptance_rate: 51.724%
-collected_at: 2026-04-17T14:01:59.934450+00:00
+acceptance_rate: "51.724%"
+collected_at: "2026-04-17T14:01:59.934450+00:00"
 ---
 
 ## 문제

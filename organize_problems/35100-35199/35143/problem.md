@@ -1,13 +1,13 @@
 ---
-title: $2026$
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "$2026$"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 235
 accepted: 146
 solved_users: 136
-acceptance_rate: 71.958%
-collected_at: 2026-04-17T20:56:43.550657+00:00
+acceptance_rate: "71.958%"
+collected_at: "2026-04-17T20:56:43.550657+00:00"
 ---
 
 ## 문제

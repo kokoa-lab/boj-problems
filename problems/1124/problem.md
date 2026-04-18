@@ -1,13 +1,13 @@
 ---
-title: 언더프라임
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "언더프라임"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 8478
 accepted: 3681
 solved_users: 2834
-acceptance_rate: 44.899%
-collected_at: 2026-04-17T10:28:19.788093+00:00
+acceptance_rate: "44.899%"
+collected_at: "2026-04-17T10:28:19.788093+00:00"
 ---
 
 ## 문제

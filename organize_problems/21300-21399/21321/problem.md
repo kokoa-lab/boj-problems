@@ -1,13 +1,13 @@
 ---
-title: 클레이 사격 게임
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "클레이 사격 게임"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 192
 accepted: 100
 solved_users: 80
-acceptance_rate: 48.485%
-collected_at: 2026-04-17T15:55:27.275748+00:00
+acceptance_rate: "48.485%"
+collected_at: "2026-04-17T15:55:27.275748+00:00"
 ---
 
 ## 문제

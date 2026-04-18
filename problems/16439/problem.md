@@ -1,13 +1,13 @@
 ---
-title: 치킨치킨치킨
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "치킨치킨치킨"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 2766
 accepted: 1959
 solved_users: 1667
-acceptance_rate: 72.636%
-collected_at: 2026-04-17T14:18:02.237904+00:00
+acceptance_rate: "72.636%"
+collected_at: "2026-04-17T14:18:02.237904+00:00"
 ---
 
 ## 문제

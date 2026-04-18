@@ -1,13 +1,13 @@
 ---
-title: The Very Greatest Common Divisor
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "The Very Greatest Common Divisor"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 224
 accepted: 159
 solved_users: 120
-acceptance_rate: 74.074%
-collected_at: 2026-04-17T11:49:53.323108+00:00
+acceptance_rate: "74.074%"
+collected_at: "2026-04-17T11:49:53.323108+00:00"
 ---
 
 ## 문제

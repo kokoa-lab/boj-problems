@@ -1,13 +1,13 @@
 ---
-title: Portal (Large)
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Portal (Large)"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 108
 accepted: 68
 solved_users: 43
-acceptance_rate: 55.844%
-collected_at: 2026-04-17T12:59:58.979776+00:00
+acceptance_rate: "55.844%"
+collected_at: "2026-04-17T12:59:58.979776+00:00"
 ---
 
 ## 문제

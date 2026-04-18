@@ -1,13 +1,13 @@
 ---
-title: Palindrom
-special_judge: false
-time_limit: 5 초
-memory_limit: 4 MB
+title: "Palindrom"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "4 MB"
 submissions: 116
 accepted: 49
 solved_users: 28
-acceptance_rate: 32.941%
-collected_at: 2026-04-17T17:49:07.700781+00:00
+acceptance_rate: "32.941%"
+collected_at: "2026-04-17T17:49:07.700781+00:00"
 ---
 
 ## 문제

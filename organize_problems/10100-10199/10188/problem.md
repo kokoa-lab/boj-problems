@@ -1,13 +1,13 @@
 ---
-title: Quadrilateral
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Quadrilateral"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 1937
 accepted: 1356
 solved_users: 1274
-acceptance_rate: 72.345%
-collected_at: 2026-04-17T12:20:11.932186+00:00
+acceptance_rate: "72.345%"
+collected_at: "2026-04-17T12:20:11.932186+00:00"
 ---
 
 ## 문제

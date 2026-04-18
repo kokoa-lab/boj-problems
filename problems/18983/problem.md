@@ -1,13 +1,13 @@
 ---
-title: Chiaki Sequence Revisited
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Chiaki Sequence Revisited"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 28
 accepted: 7
 solved_users: 6
-acceptance_rate: 30.000%
-collected_at: 2026-04-17T15:12:10.285721+00:00
+acceptance_rate: "30.000%"
+collected_at: "2026-04-17T15:12:10.285721+00:00"
 ---
 
 ## 문제

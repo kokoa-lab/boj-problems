@@ -1,13 +1,13 @@
 ---
-title: Alternative Encryption
-special_judge: false
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Alternative Encryption"
+special_judge: "false"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 60
 accepted: 56
 solved_users: 40
-acceptance_rate: 93.023%
-collected_at: 2026-04-17T20:03:24.525522+00:00
+acceptance_rate: "93.023%"
+collected_at: "2026-04-17T20:03:24.525522+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 세상에서 가장 달달한 디저트 만들기
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "세상에서 가장 달달한 디저트 만들기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 180
 accepted: 112
 solved_users: 64
-acceptance_rate: 68.817%
-collected_at: 2026-04-17T18:00:46.919528+00:00
+acceptance_rate: "68.817%"
+collected_at: "2026-04-17T18:00:46.919528+00:00"
 ---
 
 ## 문제

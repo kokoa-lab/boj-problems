@@ -1,13 +1,13 @@
 ---
-title: Class
-special_judge: true
-time_limit: 3 초
-memory_limit: 256 MB
+title: "Class"
+special_judge: "true"
+time_limit: "3 초"
+memory_limit: "256 MB"
 submissions: 59
 accepted: 25
 solved_users: 20
-acceptance_rate: 38.462%
-collected_at: 2026-04-17T10:49:55.109458+00:00
+acceptance_rate: "38.462%"
+collected_at: "2026-04-17T10:49:55.109458+00:00"
 ---
 
 ## 문제

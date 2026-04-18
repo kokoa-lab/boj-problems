@@ -1,13 +1,13 @@
 ---
-title: Wind of Change
-special_judge: false
-time_limit: 10 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Wind of Change"
+special_judge: "false"
+time_limit: "10 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 563
 accepted: 57
 solved_users: 39
-acceptance_rate: 21.910%
-collected_at: 2026-04-17T14:41:02.319150+00:00
+acceptance_rate: "21.910%"
+collected_at: "2026-04-17T14:41:02.319150+00:00"
 ---
 
 ## 문제

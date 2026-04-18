@@ -1,13 +1,13 @@
 ---
-title: 알 수 없는 번호
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "알 수 없는 번호"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 4612
 accepted: 361
 solved_users: 262
-acceptance_rate: 9.404%
-collected_at: 2026-04-17T10:29:31.486232+00:00
+acceptance_rate: "9.404%"
+collected_at: "2026-04-17T10:29:31.486232+00:00"
 ---
 
 ## 문제

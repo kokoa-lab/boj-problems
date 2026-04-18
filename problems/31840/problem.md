@@ -1,13 +1,13 @@
 ---
-title: Traveling SCCC President 2
-special_judge: false
-time_limit: 3 초 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "Traveling SCCC President 2"
+special_judge: "false"
+time_limit: "3 초 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 274
 accepted: 91
 solved_users: 83
-acceptance_rate: 39.336%
-collected_at: 2026-04-17T19:37:28.578527+00:00
+acceptance_rate: "39.336%"
+collected_at: "2026-04-17T19:37:28.578527+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 배수 공사
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "배수 공사"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 1413
 accepted: 574
 solved_users: 462
-acceptance_rate: 42.077%
-collected_at: 2026-04-17T14:07:10.259216+00:00
+acceptance_rate: "42.077%"
+collected_at: "2026-04-17T14:07:10.259216+00:00"
 ---
 
 ## 문제

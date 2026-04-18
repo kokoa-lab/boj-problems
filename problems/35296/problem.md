@@ -1,13 +1,13 @@
 ---
-title: 아침 점호
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "아침 점호"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 316
 accepted: 172
 solved_users: 166
-acceptance_rate: 58.042%
-collected_at: 2026-04-17T20:59:42.955571+00:00
+acceptance_rate: "58.042%"
+collected_at: "2026-04-17T20:59:42.955571+00:00"
 ---
 
 ## 문제

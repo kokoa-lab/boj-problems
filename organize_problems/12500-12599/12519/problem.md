@@ -1,13 +1,13 @@
 ---
-title: Music Collection (Small1)
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Music Collection (Small1)"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 105
 accepted: 70
 solved_users: 46
-acceptance_rate: 59.740%
-collected_at: 2026-04-17T12:56:45.853540+00:00
+acceptance_rate: "59.740%"
+collected_at: "2026-04-17T12:56:45.853540+00:00"
 ---
 
 ## 문제

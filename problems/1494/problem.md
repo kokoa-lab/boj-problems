@@ -1,13 +1,13 @@
 ---
-title: 절댓값 수열
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "절댓값 수열"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 1015
 accepted: 207
 solved_users: 161
-acceptance_rate: 27.104%
-collected_at: 2026-04-17T10:30:37.787738+00:00
+acceptance_rate: "27.104%"
+collected_at: "2026-04-17T10:30:37.787738+00:00"
 ---
 
 ## 문제

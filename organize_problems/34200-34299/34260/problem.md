@@ -1,13 +1,13 @@
 ---
-title: 서브태스크 점수
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "서브태스크 점수"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 105
 accepted: 87
 solved_users: 83
-acceptance_rate: 91.209%
-collected_at: 2026-04-17T20:34:11.170701+00:00
+acceptance_rate: "91.209%"
+collected_at: "2026-04-17T20:34:11.170701+00:00"
 ---
 
 ## 문제

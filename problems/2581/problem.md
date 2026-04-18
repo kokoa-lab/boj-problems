@@ -1,13 +1,13 @@
 ---
-title: 소수
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "소수"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 186936
 accepted: 75950
 solved_users: 63865
-acceptance_rate: 40.305%
-collected_at: 2026-04-17T10:42:57.199840+00:00
+acceptance_rate: "40.305%"
+collected_at: "2026-04-17T10:42:57.199840+00:00"
 ---
 
 ## 문제

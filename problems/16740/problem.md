@@ -1,13 +1,13 @@
 ---
-title: Arithmetic Progressions
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Arithmetic Progressions"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 521
 accepted: 196
 solved_users: 162
-acceptance_rate: 39.130%
-collected_at: 2026-04-17T14:23:18.852227+00:00
+acceptance_rate: "39.130%"
+collected_at: "2026-04-17T14:23:18.852227+00:00"
 ---
 
 ## 문제

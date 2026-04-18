@@ -1,13 +1,13 @@
 ---
-title: 생존자 (Large)
-special_judge: false
-time_limit: 10 초
-memory_limit: 512 MB
+title: "생존자 (Large)"
+special_judge: "false"
+time_limit: "10 초"
+memory_limit: "512 MB"
 submissions: 846
 accepted: 224
 solved_users: 115
-acceptance_rate: 23.469%
-collected_at: 2026-04-17T12:55:22.099107+00:00
+acceptance_rate: "23.469%"
+collected_at: "2026-04-17T12:55:22.099107+00:00"
 ---
 
 ## 문제

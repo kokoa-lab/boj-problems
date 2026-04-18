@@ -1,13 +1,13 @@
 ---
-title: Coffee
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Coffee"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 281
 accepted: 163
 solved_users: 140
-acceptance_rate: 57.851%
-collected_at: 2026-04-17T15:08:39.609034+00:00
+acceptance_rate: "57.851%"
+collected_at: "2026-04-17T15:08:39.609034+00:00"
 ---
 
 ## 문제

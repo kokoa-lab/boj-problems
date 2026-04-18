@@ -1,13 +1,13 @@
 ---
-title: 所持金 (Money On Me)
-special_judge: false
-time_limit: 2 초
-memory_limit: 2048 MB
+title: "所持金 (Money On Me)"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "2048 MB"
 submissions: 1719
 accepted: 1544
 solved_users: 1472
-acceptance_rate: 90.752%
-collected_at: 2026-04-17T20:10:35.421183+00:00
+acceptance_rate: "90.752%"
+collected_at: "2026-04-17T20:10:35.421183+00:00"
 ---
 
 ## 문제

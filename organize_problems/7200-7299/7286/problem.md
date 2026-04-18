@@ -1,13 +1,13 @@
 ---
-title: Ancient Keyboard
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Ancient Keyboard"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 372
 accepted: 251
 solved_users: 222
-acceptance_rate: 72.787%
-collected_at: 2026-04-17T11:47:58.462901+00:00
+acceptance_rate: "72.787%"
+collected_at: "2026-04-17T11:47:58.462901+00:00"
 ---
 
 ## 문제

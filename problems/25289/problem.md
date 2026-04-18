@@ -1,13 +1,13 @@
 ---
-title: 가장 긴 등차 부분 수열
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "가장 긴 등차 부분 수열"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 956
 accepted: 356
 solved_users: 271
-acceptance_rate: 40.508%
-collected_at: 2026-04-17T17:24:00.642404+00:00
+acceptance_rate: "40.508%"
+collected_at: "2026-04-17T17:24:00.642404+00:00"
 ---
 
 ## 문제

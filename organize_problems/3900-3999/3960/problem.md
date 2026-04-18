@@ -1,13 +1,13 @@
 ---
-title: Suffix Array Re-construction
-special_judge: false
-time_limit: 3 초
-memory_limit: 128 MB
+title: "Suffix Array Re-construction"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "128 MB"
 submissions: 74
 accepted: 24
 solved_users: 23
-acceptance_rate: 35.385%
-collected_at: 2026-04-17T10:53:48.564910+00:00
+acceptance_rate: "35.385%"
+collected_at: "2026-04-17T10:53:48.564910+00:00"
 ---
 
 ## 문제

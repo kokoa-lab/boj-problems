@@ -1,13 +1,13 @@
 ---
-title: 작은 큐브러버
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "작은 큐브러버"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 354
 accepted: 110
 solved_users: 78
-acceptance_rate: 35.455%
-collected_at: 2026-04-17T14:11:36.163211+00:00
+acceptance_rate: "35.455%"
+collected_at: "2026-04-17T14:11:36.163211+00:00"
 ---
 
 ## 문제

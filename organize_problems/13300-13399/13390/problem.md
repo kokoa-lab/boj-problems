@@ -1,13 +1,13 @@
 ---
-title: 그래프 클릭
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "그래프 클릭"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 17
 accepted: 9
 solved_users: 4
-acceptance_rate: 66.667%
-collected_at: 2026-04-17T13:12:33.052534+00:00
+acceptance_rate: "66.667%"
+collected_at: "2026-04-17T13:12:33.052534+00:00"
 ---
 
 ## 문제

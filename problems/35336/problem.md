@@ -1,13 +1,13 @@
 ---
-title: Declining Invitations
-special_judge: false
-time_limit: 2 초
-memory_limit: 2048 MB
+title: "Declining Invitations"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "2048 MB"
 submissions: 14
 accepted: 10
 solved_users: 10
-acceptance_rate: 71.429%
-collected_at: 2026-04-17T21:00:33.319256+00:00
+acceptance_rate: "71.429%"
+collected_at: "2026-04-17T21:00:33.319256+00:00"
 ---
 
 ## 문제

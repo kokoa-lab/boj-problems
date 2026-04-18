@@ -1,13 +1,13 @@
 ---
-title: 여행
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "여행"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 10986
 accepted: 2372
 solved_users: 1752
-acceptance_rate: 22.313%
-collected_at: 2026-04-17T10:39:00.833080+00:00
+acceptance_rate: "22.313%"
+collected_at: "2026-04-17T10:39:00.833080+00:00"
 ---
 
 ## 문제

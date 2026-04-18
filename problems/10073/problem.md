@@ -1,13 +1,13 @@
 ---
-title: 곤돌라 - 교체 수열
-special_judge: true
-time_limit: 1 초
-memory_limit: 256 MB
+title: "곤돌라 - 교체 수열"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 210
 accepted: 86
 solved_users: 81
-acceptance_rate: 45.763%
-collected_at: 2026-04-17T12:18:41.190584+00:00
+acceptance_rate: "45.763%"
+collected_at: "2026-04-17T12:18:41.190584+00:00"
 ---
 
 ## 문제

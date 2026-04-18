@@ -1,13 +1,13 @@
 ---
-title: 서울과 학기-술 대학교
-special_judge: true
-time_limit: 5 초
-memory_limit: 1024 MB
+title: "서울과 학기-술 대학교"
+special_judge: "true"
+time_limit: "5 초"
+memory_limit: "1024 MB"
 submissions: 19
 accepted: 4
 solved_users: 3
-acceptance_rate: 100.000%
-collected_at: 2026-04-17T19:51:20.947125+00:00
+acceptance_rate: "100.000%"
+collected_at: "2026-04-17T19:51:20.947125+00:00"
 ---
 
 ## 문제

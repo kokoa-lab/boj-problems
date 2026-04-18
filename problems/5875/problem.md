@@ -1,13 +1,13 @@
 ---
-title: 오타
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "오타"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 1712
 accepted: 546
 solved_users: 429
-acceptance_rate: 35.930%
-collected_at: 2026-04-17T11:18:11.722646+00:00
+acceptance_rate: "35.930%"
+collected_at: "2026-04-17T11:18:11.722646+00:00"
 ---
 
 ## 문제

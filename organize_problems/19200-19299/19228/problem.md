@@ -1,13 +1,13 @@
 ---
-title: Key Storage
-special_judge: false
-time_limit: 3 초
-memory_limit: 512 MB
+title: "Key Storage"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "512 MB"
 submissions: 90
 accepted: 50
 solved_users: 37
-acceptance_rate: 52.113%
-collected_at: 2026-04-17T15:15:20.943675+00:00
+acceptance_rate: "52.113%"
+collected_at: "2026-04-17T15:15:20.943675+00:00"
 ---
 
 ## 문제

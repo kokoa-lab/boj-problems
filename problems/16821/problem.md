@@ -1,13 +1,13 @@
 ---
-title: Low Range-Sum Matrix
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Low Range-Sum Matrix"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 50
 accepted: 23
 solved_users: 16
-acceptance_rate: 51.613%
-collected_at: 2026-04-17T14:24:40.544634+00:00
+acceptance_rate: "51.613%"
+collected_at: "2026-04-17T14:24:40.544634+00:00"
 ---
 
 ## 문제

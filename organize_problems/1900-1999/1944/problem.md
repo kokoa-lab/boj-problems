@@ -1,13 +1,13 @@
 ---
-title: 복제 로봇
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "복제 로봇"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 6911
 accepted: 2126
 solved_users: 1392
-acceptance_rate: 28.671%
-collected_at: 2026-04-17T10:36:08.910875+00:00
+acceptance_rate: "28.671%"
+collected_at: "2026-04-17T10:36:08.910875+00:00"
 ---
 
 ## 문제

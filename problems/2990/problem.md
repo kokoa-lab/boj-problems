@@ -1,13 +1,13 @@
 ---
-title: 단어 검색
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "단어 검색"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 793
 accepted: 169
 solved_users: 109
-acceptance_rate: 24.062%
-collected_at: 2026-04-17T10:46:07.078958+00:00
+acceptance_rate: "24.062%"
+collected_at: "2026-04-17T10:46:07.078958+00:00"
 ---
 
 ## 문제

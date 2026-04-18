@@ -1,13 +1,13 @@
 ---
-title: 팀원 모집
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "팀원 모집"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 2100
 accepted: 880
 solved_users: 710
-acceptance_rate: 42.187%
-collected_at: 2026-04-17T12:42:26.091633+00:00
+acceptance_rate: "42.187%"
+collected_at: "2026-04-17T12:42:26.091633+00:00"
 ---
 
 ## 문제

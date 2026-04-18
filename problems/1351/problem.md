@@ -1,13 +1,13 @@
 ---
-title: 무한 수열
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "무한 수열"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 17438
 accepted: 6782
 solved_users: 5588
-acceptance_rate: 38.102%
-collected_at: 2026-04-17T10:29:37.095009+00:00
+acceptance_rate: "38.102%"
+collected_at: "2026-04-17T10:29:37.095009+00:00"
 ---
 
 ## 문제

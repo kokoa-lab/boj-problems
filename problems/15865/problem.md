@@ -1,13 +1,13 @@
 ---
-title: Genetics
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Genetics"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 151
 accepted: 37
 solved_users: 34
-acceptance_rate: 29.060%
-collected_at: 2026-04-17T14:07:44.809575+00:00
+acceptance_rate: "29.060%"
+collected_at: "2026-04-17T14:07:44.809575+00:00"
 ---
 
 ## 문제

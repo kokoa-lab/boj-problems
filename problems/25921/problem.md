@@ -1,13 +1,13 @@
 ---
-title: 건너 아는 사이
-special_judge: false
-time_limit: 0.5 초  ( 하단 참고 )
-memory_limit: 1024 MB
+title: "건너 아는 사이"
+special_judge: "false"
+time_limit: "0.5 초  ( 하단 참고 )"
+memory_limit: "1024 MB"
 submissions: 540
 accepted: 263
 solved_users: 189
-acceptance_rate: 45.324%
-collected_at: 2026-04-17T17:36:43.954532+00:00
+acceptance_rate: "45.324%"
+collected_at: "2026-04-17T17:36:43.954532+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Comic Binge
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Comic Binge"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 112
 accepted: 37
 solved_users: 35
-acceptance_rate: 41.176%
-collected_at: 2026-04-17T15:40:01.562853+00:00
+acceptance_rate: "41.176%"
+collected_at: "2026-04-17T15:40:01.562853+00:00"
 ---
 
 ## 문제

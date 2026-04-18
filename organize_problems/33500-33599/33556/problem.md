@@ -1,13 +1,13 @@
 ---
-title: Java String Equals
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Java String Equals"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 2014
 accepted: 693
 solved_users: 593
-acceptance_rate: 34.517%
-collected_at: 2026-04-17T20:18:50.947226+00:00
+acceptance_rate: "34.517%"
+collected_at: "2026-04-17T20:18:50.947226+00:00"
 ---
 
 ## 문제

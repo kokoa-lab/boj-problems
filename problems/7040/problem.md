@@ -1,13 +1,13 @@
 ---
-title: 밥 먹기
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "밥 먹기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 462
 accepted: 189
 solved_users: 148
-acceptance_rate: 41.226%
-collected_at: 2026-04-17T11:43:31.706129+00:00
+acceptance_rate: "41.226%"
+collected_at: "2026-04-17T11:43:31.706129+00:00"
 ---
 
 ## 문제

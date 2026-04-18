@@ -1,13 +1,13 @@
 ---
-title: 체육은 코딩과목 입니다
-special_judge: false
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "체육은 코딩과목 입니다"
+special_judge: "false"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 4701
 accepted: 3082
 solved_users: 2788
-acceptance_rate: 67.132%
-collected_at: 2026-04-17T18:22:02.869703+00:00
+acceptance_rate: "67.132%"
+collected_at: "2026-04-17T18:22:02.869703+00:00"
 ---
 
 ## 문제

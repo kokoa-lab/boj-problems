@@ -1,13 +1,13 @@
 ---
-title: Antenna
-special_judge: true
-time_limit: 5 초
-memory_limit: 32 MB
+title: "Antenna"
+special_judge: "true"
+time_limit: "5 초"
+memory_limit: "32 MB"
 submissions: 261
 accepted: 88
 solved_users: 55
-acceptance_rate: 28.796%
-collected_at: 2026-04-17T10:48:12.539223+00:00
+acceptance_rate: "28.796%"
+collected_at: "2026-04-17T10:48:12.539223+00:00"
 ---
 
 ## 문제

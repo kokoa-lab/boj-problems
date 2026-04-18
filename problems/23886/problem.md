@@ -1,13 +1,13 @@
 ---
-title: 알프수
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "알프수"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 972
 accepted: 356
 solved_users: 324
-acceptance_rate: 39.036%
-collected_at: 2026-04-17T16:56:50.799108+00:00
+acceptance_rate: "39.036%"
+collected_at: "2026-04-17T16:56:50.799108+00:00"
 ---
 
 ## 문제

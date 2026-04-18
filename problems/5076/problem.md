@@ -1,13 +1,13 @@
 ---
-title: Web Pages
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Web Pages"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 1245
 accepted: 547
 solved_users: 422
-acceptance_rate: 43.685%
-collected_at: 2026-04-17T11:11:20.473895+00:00
+acceptance_rate: "43.685%"
+collected_at: "2026-04-17T11:11:20.473895+00:00"
 ---
 
 ## 문제

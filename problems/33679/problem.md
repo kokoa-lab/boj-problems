@@ -1,13 +1,13 @@
 ---
-title: 세기의 대결
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "세기의 대결"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 300
 accepted: 158
 solved_users: 141
-acceptance_rate: 54.440%
-collected_at: 2026-04-17T20:21:23.338391+00:00
+acceptance_rate: "54.440%"
+collected_at: "2026-04-17T20:21:23.338391+00:00"
 ---
 
 ## 문제

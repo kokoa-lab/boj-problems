@@ -1,13 +1,13 @@
 ---
-title: Scoring Hack
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Scoring Hack"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 692
 accepted: 121
 solved_users: 96
-acceptance_rate: 17.329%
-collected_at: 2026-04-17T14:34:13.335316+00:00
+acceptance_rate: "17.329%"
+collected_at: "2026-04-17T14:34:13.335316+00:00"
 ---
 
 ## 문제

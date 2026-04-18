@@ -1,13 +1,13 @@
 ---
-title: 가장 먼 두 점
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "가장 먼 두 점"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 2619
 accepted: 1045
 solved_users: 733
-acceptance_rate: 37.784%
-collected_at: 2026-04-17T10:37:37.735833+00:00
+acceptance_rate: "37.784%"
+collected_at: "2026-04-17T10:37:37.735833+00:00"
 ---
 
 ## 문제

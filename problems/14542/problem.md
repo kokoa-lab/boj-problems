@@ -1,13 +1,13 @@
 ---
-title: Outer Triangle Sum
-special_judge: false
-time_limit: 10 초
-memory_limit: 512 MB
+title: "Outer Triangle Sum"
+special_judge: "false"
+time_limit: "10 초"
+memory_limit: "512 MB"
 submissions: 596
 accepted: 346
 solved_users: 312
-acceptance_rate: 60.465%
-collected_at: 2026-04-17T13:37:44.480208+00:00
+acceptance_rate: "60.465%"
+collected_at: "2026-04-17T13:37:44.480208+00:00"
 ---
 
 ## 문제

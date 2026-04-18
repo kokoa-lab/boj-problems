@@ -1,13 +1,13 @@
 ---
-title: Mixtape Management
-special_judge: true
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "Mixtape Management"
+special_judge: "true"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 177
 accepted: 116
 solved_users: 90
-acceptance_rate: 63.380%
-collected_at: 2026-04-17T15:43:18.005001+00:00
+acceptance_rate: "63.380%"
+collected_at: "2026-04-17T15:43:18.005001+00:00"
 ---
 
 ## 문제

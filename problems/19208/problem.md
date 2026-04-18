@@ -1,13 +1,13 @@
 ---
-title: Aarelia Mountains
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "Aarelia Mountains"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 86
 accepted: 34
 solved_users: 22
-acceptance_rate: 37.931%
-collected_at: 2026-04-17T15:15:01.315824+00:00
+acceptance_rate: "37.931%"
+collected_at: "2026-04-17T15:15:01.315824+00:00"
 ---
 
 ## 문제

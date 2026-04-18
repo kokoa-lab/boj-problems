@@ -1,13 +1,13 @@
 ---
-title: JOI ポスター (JOI Poster)
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "JOI ポスター (JOI Poster)"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 101
 accepted: 70
 solved_users: 44
-acceptance_rate: 67.692%
-collected_at: 2026-04-17T17:04:10.282403+00:00
+acceptance_rate: "67.692%"
+collected_at: "2026-04-17T17:04:10.282403+00:00"
 ---
 
 ## 문제

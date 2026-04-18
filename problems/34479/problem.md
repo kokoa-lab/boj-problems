@@ -1,13 +1,13 @@
 ---
-title: Buggy Rover
-special_judge: false
-time_limit: 2 초
-memory_limit: 2048 MB
+title: "Buggy Rover"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "2048 MB"
 submissions: 16
 accepted: 15
 solved_users: 14
-acceptance_rate: 100.000%
-collected_at: 2026-04-17T20:40:24.727315+00:00
+acceptance_rate: "100.000%"
+collected_at: "2026-04-17T20:40:24.727315+00:00"
 ---
 
 ## 문제

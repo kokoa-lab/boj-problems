@@ -1,13 +1,13 @@
 ---
-title: Reverse Roman Notation
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Reverse Roman Notation"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 180
 accepted: 59
 solved_users: 45
-acceptance_rate: 31.915%
-collected_at: 2026-04-17T11:08:19.351971+00:00
+acceptance_rate: "31.915%"
+collected_at: "2026-04-17T11:08:19.351971+00:00"
 ---
 
 ## 문제

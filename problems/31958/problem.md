@@ -1,13 +1,13 @@
 ---
-title: Passport Stamps
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 2048 MB (추가 메모리 없음)
+title: "Passport Stamps"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "2048 MB (추가 메모리 없음)"
 submissions: 137
 accepted: 50
 solved_users: 48
-acceptance_rate: 42.105%
-collected_at: 2026-04-17T19:39:49.945041+00:00
+acceptance_rate: "42.105%"
+collected_at: "2026-04-17T19:39:49.945041+00:00"
 ---
 
 ## 문제

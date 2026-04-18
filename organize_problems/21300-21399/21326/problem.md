@@ -1,13 +1,13 @@
 ---
-title: Lab planning
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Lab planning"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 35
 accepted: 15
 solved_users: 15
-acceptance_rate: 65.217%
-collected_at: 2026-04-17T15:55:51.445035+00:00
+acceptance_rate: "65.217%"
+collected_at: "2026-04-17T15:55:51.445035+00:00"
 ---
 
 ## 문제

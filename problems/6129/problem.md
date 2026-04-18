@@ -1,13 +1,13 @@
 ---
-title: Obstacle Course
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Obstacle Course"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 547
 accepted: 151
 solved_users: 122
-acceptance_rate: 28.372%
-collected_at: 2026-04-17T11:20:46.747402+00:00
+acceptance_rate: "28.372%"
+collected_at: "2026-04-17T11:20:46.747402+00:00"
 ---
 
 ## 문제

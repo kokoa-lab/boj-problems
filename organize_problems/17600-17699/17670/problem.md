@@ -1,13 +1,13 @@
 ---
-title: 난
-special_judge: true
-time_limit: 3 초
-memory_limit: 256 MB
+title: "난"
+special_judge: "true"
+time_limit: "3 초"
+memory_limit: "256 MB"
 submissions: 310
 accepted: 71
 solved_users: 58
-acceptance_rate: 21.402%
-collected_at: 2026-04-17T14:45:11.975203+00:00
+acceptance_rate: "21.402%"
+collected_at: "2026-04-17T14:45:11.975203+00:00"
 ---
 
 ## 문제

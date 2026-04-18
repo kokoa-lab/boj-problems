@@ -1,13 +1,13 @@
 ---
-title: $2^K$-Flip 2
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "$2^K$-Flip 2"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 16
 accepted: 14
 solved_users: 12
-acceptance_rate: 85.714%
-collected_at: 2026-04-17T20:52:58.636176+00:00
+acceptance_rate: "85.714%"
+collected_at: "2026-04-17T20:52:58.636176+00:00"
 ---
 
 ## 문제

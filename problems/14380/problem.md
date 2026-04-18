@@ -1,13 +1,13 @@
 ---
-title: BFFs (Large)
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "BFFs (Large)"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 60
 accepted: 38
 solved_users: 32
-acceptance_rate: 68.085%
-collected_at: 2026-04-17T13:31:36.414643+00:00
+acceptance_rate: "68.085%"
+collected_at: "2026-04-17T13:31:36.414643+00:00"
 ---
 
 ## 문제

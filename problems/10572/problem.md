@@ -1,13 +1,13 @@
 ---
-title: Gold Leaf
-special_judge: false
-time_limit: 5 초
-memory_limit: 256 MB
+title: "Gold Leaf"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "256 MB"
 submissions: 18
 accepted: 9
 solved_users: 9
-acceptance_rate: 56.250%
-collected_at: 2026-04-17T12:25:48.190182+00:00
+acceptance_rate: "56.250%"
+collected_at: "2026-04-17T12:25:48.190182+00:00"
 ---
 
 ## 문제

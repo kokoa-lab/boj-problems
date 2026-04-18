@@ -1,13 +1,13 @@
 ---
-title: 수열과 쿼리 0
-special_judge: false
-time_limit: 2.5 초
-memory_limit: 512 MB
+title: "수열과 쿼리 0"
+special_judge: "false"
+time_limit: "2.5 초"
+memory_limit: "512 MB"
 submissions: 4874
 accepted: 1212
 solved_users: 848
-acceptance_rate: 25.473%
-collected_at: 2026-04-17T13:14:57.386961+00:00
+acceptance_rate: "25.473%"
+collected_at: "2026-04-17T13:14:57.386961+00:00"
 ---
 
 ## 문제

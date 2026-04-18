@@ -1,13 +1,13 @@
 ---
-title: Halfway There
-special_judge: false
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "Halfway There"
+special_judge: "false"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 79
 accepted: 60
 solved_users: 51
-acceptance_rate: 73.913%
-collected_at: 2026-04-17T17:12:35.793434+00:00
+acceptance_rate: "73.913%"
+collected_at: "2026-04-17T17:12:35.793434+00:00"
 ---
 
 ## 문제

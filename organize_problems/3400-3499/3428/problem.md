@@ -1,13 +1,13 @@
 ---
-title: Casting Spells
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Casting Spells"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 433
 accepted: 77
 solved_users: 47
-acceptance_rate: 17.407%
-collected_at: 2026-04-17T10:48:49.042900+00:00
+acceptance_rate: "17.407%"
+collected_at: "2026-04-17T10:48:49.042900+00:00"
 ---
 
 ## 문제

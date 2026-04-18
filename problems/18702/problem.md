@@ -1,13 +1,13 @@
 ---
-title: Array Queries
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Array Queries"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 1799
 accepted: 193
 solved_users: 129
-acceptance_rate: 9.721%
-collected_at: 2026-04-17T15:08:35.449517+00:00
+acceptance_rate: "9.721%"
+collected_at: "2026-04-17T15:08:35.449517+00:00"
 ---
 
 ## 문제

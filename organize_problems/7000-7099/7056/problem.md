@@ -1,13 +1,13 @@
 ---
-title: A decorative fence
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "A decorative fence"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 61
 accepted: 15
 solved_users: 13
-acceptance_rate: 36.111%
-collected_at: 2026-04-17T11:44:10.701588+00:00
+acceptance_rate: "36.111%"
+collected_at: "2026-04-17T11:44:10.701588+00:00"
 ---
 
 ## 문제

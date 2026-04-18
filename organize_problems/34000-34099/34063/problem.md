@@ -1,13 +1,13 @@
 ---
-title: OPS 분석
-special_judge: false
-time_limit: 3 초 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "OPS 분석"
+special_judge: "false"
+time_limit: "3 초 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 132
 accepted: 38
 solved_users: 34
-acceptance_rate: 33.010%
-collected_at: 2026-04-17T20:29:45.963406+00:00
+acceptance_rate: "33.010%"
+collected_at: "2026-04-17T20:29:45.963406+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Polygon
-special_judge: true
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Polygon"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 52
 accepted: 16
 solved_users: 9
-acceptance_rate: 20.930%
-collected_at: 2026-04-17T10:48:31.421377+00:00
+acceptance_rate: "20.930%"
+collected_at: "2026-04-17T10:48:31.421377+00:00"
 ---
 
 ## 문제

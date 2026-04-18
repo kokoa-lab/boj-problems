@@ -1,13 +1,13 @@
 ---
-title: 푸앙이와 별
-special_judge: false
-time_limit: 3 초
-memory_limit: 512 MB
+title: "푸앙이와 별"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "512 MB"
 submissions: 393
 accepted: 146
 solved_users: 108
-acceptance_rate: 36.735%
-collected_at: 2026-04-17T17:08:51.178666+00:00
+acceptance_rate: "36.735%"
+collected_at: "2026-04-17T17:08:51.178666+00:00"
 ---
 
 ## 문제

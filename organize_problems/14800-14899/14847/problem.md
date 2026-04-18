@@ -1,13 +1,13 @@
 ---
-title: 수열과 변환
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "수열과 변환"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 80
 accepted: 49
 solved_users: 38
-acceptance_rate: 55.882%
-collected_at: 2026-04-17T13:42:52.676433+00:00
+acceptance_rate: "55.882%"
+collected_at: "2026-04-17T13:42:52.676433+00:00"
 ---
 
 ## 문제

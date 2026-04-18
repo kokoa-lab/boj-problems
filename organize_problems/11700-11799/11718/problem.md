@@ -1,13 +1,13 @@
 ---
-title: 그대로 출력하기
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "그대로 출력하기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 308235
 accepted: 106405
 solved_users: 88976
-acceptance_rate: 36.708%
-collected_at: 2026-04-17T12:44:43.321510+00:00
+acceptance_rate: "36.708%"
+collected_at: "2026-04-17T12:44:43.321510+00:00"
 ---
 
 ## 문제

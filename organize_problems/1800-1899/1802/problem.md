@@ -1,13 +1,13 @@
 ---
-title: 종이 접기
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "종이 접기"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 4652
 accepted: 1828
 solved_users: 1522
-acceptance_rate: 39.646%
-collected_at: 2026-04-17T10:33:50.263049+00:00
+acceptance_rate: "39.646%"
+collected_at: "2026-04-17T10:33:50.263049+00:00"
 ---
 
 ## 문제

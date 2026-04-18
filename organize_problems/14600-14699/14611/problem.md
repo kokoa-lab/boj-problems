@@ -1,13 +1,13 @@
 ---
-title: 월요병
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "월요병"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 731
 accepted: 229
 solved_users: 179
-acceptance_rate: 30.442%
-collected_at: 2026-04-17T13:39:16.696333+00:00
+acceptance_rate: "30.442%"
+collected_at: "2026-04-17T13:39:16.696333+00:00"
 ---
 
 ## 문제

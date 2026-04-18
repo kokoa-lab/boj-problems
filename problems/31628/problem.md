@@ -1,13 +1,13 @@
 ---
-title: 가지 한 두름 주세요
-special_judge: false
-time_limit: 0.25 초
-memory_limit: 1024 MB
+title: "가지 한 두름 주세요"
+special_judge: "false"
+time_limit: "0.25 초"
+memory_limit: "1024 MB"
 submissions: 1849
 accepted: 1117
 solved_users: 1055
-acceptance_rate: 63.901%
-collected_at: 2026-04-17T19:32:19.210884+00:00
+acceptance_rate: "63.901%"
+collected_at: "2026-04-17T19:32:19.210884+00:00"
 ---
 
 ## 문제

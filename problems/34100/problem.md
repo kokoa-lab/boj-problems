@@ -1,13 +1,13 @@
 ---
-title: └┘
-special_judge: true
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "└┘"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 218
 accepted: 85
 solved_users: 75
-acceptance_rate: 45.455%
-collected_at: 2026-04-17T20:30:33.118355+00:00
+acceptance_rate: "45.455%"
+collected_at: "2026-04-17T20:30:33.118355+00:00"
 ---
 
 ## 문제

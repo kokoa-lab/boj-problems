@@ -1,13 +1,13 @@
 ---
-title: Boggle
-special_judge: false
-time_limit: 10 초
-memory_limit: 512 MB
+title: "Boggle"
+special_judge: "false"
+time_limit: "10 초"
+memory_limit: "512 MB"
 submissions: 9513
 accepted: 2859
 solved_users: 1702
-acceptance_rate: 27.706%
-collected_at: 2026-04-17T12:07:53.718790+00:00
+acceptance_rate: "27.706%"
+collected_at: "2026-04-17T12:07:53.718790+00:00"
 ---
 
 ## 문제

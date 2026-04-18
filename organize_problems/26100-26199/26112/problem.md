@@ -1,13 +1,13 @@
 ---
-title: Shuffle Game
-special_judge: false
-time_limit: 1.5 초
-memory_limit: 1024 MB
+title: "Shuffle Game"
+special_judge: "false"
+time_limit: "1.5 초"
+memory_limit: "1024 MB"
 submissions: 426
 accepted: 187
 solved_users: 150
-acceptance_rate: 47.771%
-collected_at: 2026-04-17T17:40:26.330525+00:00
+acceptance_rate: "47.771%"
+collected_at: "2026-04-17T17:40:26.330525+00:00"
 ---
 
 ## 문제

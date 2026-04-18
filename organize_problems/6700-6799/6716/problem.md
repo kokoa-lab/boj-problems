@@ -1,13 +1,13 @@
 ---
-title: Collecting Beepers
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Collecting Beepers"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 124
 accepted: 81
 solved_users: 64
-acceptance_rate: 71.910%
-collected_at: 2026-04-17T11:34:00.647855+00:00
+acceptance_rate: "71.910%"
+collected_at: "2026-04-17T11:34:00.647855+00:00"
 ---
 
 ## 문제

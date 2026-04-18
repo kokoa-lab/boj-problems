@@ -1,13 +1,13 @@
 ---
-title: 마라토너
-special_judge: false
-time_limit: 2 초
-memory_limit: 64 MB
+title: "마라토너"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "64 MB"
 submissions: 988
 accepted: 642
 solved_users: 561
-acceptance_rate: 65.081%
-collected_at: 2026-04-17T12:09:04.185766+00:00
+acceptance_rate: "65.081%"
+collected_at: "2026-04-17T12:09:04.185766+00:00"
 ---
 
 ## 문제

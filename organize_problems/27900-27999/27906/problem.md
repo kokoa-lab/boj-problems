@@ -1,13 +1,13 @@
 ---
-title: 모자 퍼즐
-special_judge: false
-time_limit: 10 초
-memory_limit: 1024 MB
+title: "모자 퍼즐"
+special_judge: "false"
+time_limit: "10 초"
+memory_limit: "1024 MB"
 submissions: 96
 accepted: 12
 solved_users: 11
-acceptance_rate: 64.706%
-collected_at: 2026-04-17T18:14:22.386339+00:00
+acceptance_rate: "64.706%"
+collected_at: "2026-04-17T18:14:22.386339+00:00"
 ---
 
 ## 문제

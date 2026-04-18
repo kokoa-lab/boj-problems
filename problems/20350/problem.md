@@ -1,13 +1,13 @@
 ---
-title: Account Numbers
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Account Numbers"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 142
 accepted: 130
 solved_users: 116
-acceptance_rate: 92.800%
-collected_at: 2026-04-17T15:35:26.067723+00:00
+acceptance_rate: "92.800%"
+collected_at: "2026-04-17T15:35:26.067723+00:00"
 ---
 
 ## 문제

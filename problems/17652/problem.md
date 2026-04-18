@@ -1,13 +1,13 @@
 ---
-title: Domino
-special_judge: true
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Domino"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 7
 accepted: 1
 solved_users: 1
-acceptance_rate: 20.000%
-collected_at: 2026-04-17T14:43:59.000516+00:00
+acceptance_rate: "20.000%"
+collected_at: "2026-04-17T14:43:59.000516+00:00"
 ---
 
 ## 문제

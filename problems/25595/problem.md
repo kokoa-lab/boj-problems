@@ -1,13 +1,13 @@
 ---
-title: 86 ─에이티식스─ 2
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "86 ─에이티식스─ 2"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 711
 accepted: 430
 solved_users: 369
-acceptance_rate: 61.809%
-collected_at: 2026-04-17T17:29:28.996060+00:00
+acceptance_rate: "61.809%"
+collected_at: "2026-04-17T17:29:28.996060+00:00"
 ---
 
 ## 문제

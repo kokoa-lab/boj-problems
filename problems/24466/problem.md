@@ -1,13 +1,13 @@
 ---
-title: 도피
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "도피"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 302
 accepted: 82
 solved_users: 74
-acceptance_rate: 33.036%
-collected_at: 2026-04-17T17:09:48.907120+00:00
+acceptance_rate: "33.036%"
+collected_at: "2026-04-17T17:09:48.907120+00:00"
 ---
 
 ## 문제

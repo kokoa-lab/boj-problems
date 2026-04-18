@@ -1,13 +1,13 @@
 ---
-title: 근우의 다이어리 꾸미기
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "근우의 다이어리 꾸미기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 4324
 accepted: 1539
 solved_users: 1327
-acceptance_rate: 36.089%
-collected_at: 2026-04-17T14:22:11.816292+00:00
+acceptance_rate: "36.089%"
+collected_at: "2026-04-17T14:22:11.816292+00:00"
 ---
 
 ## 문제

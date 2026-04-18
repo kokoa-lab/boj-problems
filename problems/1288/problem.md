@@ -1,13 +1,13 @@
 ---
-title: 전쟁 - 국지전
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "전쟁 - 국지전"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 119
 accepted: 45
 solved_users: 33
-acceptance_rate: 34.021%
-collected_at: 2026-04-17T10:29:18.155260+00:00
+acceptance_rate: "34.021%"
+collected_at: "2026-04-17T10:29:18.155260+00:00"
 ---
 
 ## 문제

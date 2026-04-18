@@ -1,13 +1,13 @@
 ---
-title: Buffcraft
-special_judge: true
-time_limit: 2 초
-memory_limit: 256 MB
+title: "Buffcraft"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 187
 accepted: 49
 solved_users: 40
-acceptance_rate: 24.390%
-collected_at: 2026-04-17T12:22:41.834467+00:00
+acceptance_rate: "24.390%"
+collected_at: "2026-04-17T12:22:41.834467+00:00"
 ---
 
 ## 문제

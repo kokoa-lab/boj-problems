@@ -1,13 +1,13 @@
 ---
-title: 도로포장
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "도로포장"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 22207
 accepted: 5468
 solved_users: 3469
-acceptance_rate: 23.760%
-collected_at: 2026-04-17T10:28:33.420445+00:00
+acceptance_rate: "23.760%"
+collected_at: "2026-04-17T10:28:33.420445+00:00"
 ---
 
 ## 문제

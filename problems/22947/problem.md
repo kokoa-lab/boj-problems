@@ -1,13 +1,13 @@
 ---
-title: 실행 시간
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "실행 시간"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 528
 accepted: 111
 solved_users: 83
-acceptance_rate: 24.128%
-collected_at: 2026-04-17T16:39:12.163102+00:00
+acceptance_rate: "24.128%"
+collected_at: "2026-04-17T16:39:12.163102+00:00"
 ---
 
 ## 문제

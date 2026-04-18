@@ -1,13 +1,13 @@
 ---
-title: 대신고와 쿼리
-special_judge: false
-time_limit: 1.5 초
-memory_limit: 512 MB
+title: "대신고와 쿼리"
+special_judge: "false"
+time_limit: "1.5 초"
+memory_limit: "512 MB"
 submissions: 231
 accepted: 127
 solved_users: 123
-acceptance_rate: 55.909%
-collected_at: 2026-04-17T20:53:00.117294+00:00
+acceptance_rate: "55.909%"
+collected_at: "2026-04-17T20:53:00.117294+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Look and Say
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Look and Say"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 433
 accepted: 328
 solved_users: 254
-acceptance_rate: 78.395%
-collected_at: 2026-04-17T11:09:16.476852+00:00
+acceptance_rate: "78.395%"
+collected_at: "2026-04-17T11:09:16.476852+00:00"
 ---
 
 ## 문제

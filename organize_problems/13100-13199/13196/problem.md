@@ -1,13 +1,13 @@
 ---
-title: Router 5
-special_judge: true
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Router 5"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 36
 accepted: 25
 solved_users: 23
-acceptance_rate: 79.310%
-collected_at: 2026-04-17T13:09:11.568472+00:00
+acceptance_rate: "79.310%"
+collected_at: "2026-04-17T13:09:11.568472+00:00"
 ---
 
 ## 문제

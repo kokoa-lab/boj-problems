@@ -1,13 +1,13 @@
 ---
-title: 게임의 신
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "게임의 신"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 230
 accepted: 117
 solved_users: 89
-acceptance_rate: 61.806%
-collected_at: 2026-04-17T20:26:03.022969+00:00
+acceptance_rate: "61.806%"
+collected_at: "2026-04-17T20:26:03.022969+00:00"
 ---
 
 ## 문제

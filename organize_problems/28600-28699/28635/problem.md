@@ -1,13 +1,13 @@
 ---
-title: Индикатор
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Индикатор"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 735
 accepted: 522
 solved_users: 493
-acceptance_rate: 71.657%
-collected_at: 2026-04-17T18:29:47.128002+00:00
+acceptance_rate: "71.657%"
+collected_at: "2026-04-17T18:29:47.128002+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Поход в кино
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Поход в кино"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 59
 accepted: 49
 solved_users: 45
-acceptance_rate: 86.538%
-collected_at: 2026-04-17T18:35:58.734683+00:00
+acceptance_rate: "86.538%"
+collected_at: "2026-04-17T18:35:58.734683+00:00"
 ---
 
 ## 문제

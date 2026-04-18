@@ -1,13 +1,13 @@
 ---
-title: Jealous Split
-special_judge: true
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Jealous Split"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 601
 accepted: 62
 solved_users: 40
-acceptance_rate: 13.468%
-collected_at: 2026-04-17T15:05:06.417164+00:00
+acceptance_rate: "13.468%"
+collected_at: "2026-04-17T15:05:06.417164+00:00"
 ---
 
 ## 문제

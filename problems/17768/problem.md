@@ -1,13 +1,13 @@
 ---
-title: Słowo
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Słowo"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 87
 accepted: 17
 solved_users: 11
-acceptance_rate: 16.667%
-collected_at: 2026-04-17T14:46:47.963561+00:00
+acceptance_rate: "16.667%"
+collected_at: "2026-04-17T14:46:47.963561+00:00"
 ---
 
 ## 문제

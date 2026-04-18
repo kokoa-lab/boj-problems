@@ -1,13 +1,13 @@
 ---
-title: Cactus Shoppe
-special_judge: false
-time_limit: 5 초
-memory_limit: 1024 MB
+title: "Cactus Shoppe"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "1024 MB"
 submissions: 14
 accepted: 12
 solved_users: 9
-acceptance_rate: 90.000%
-collected_at: 2026-04-17T15:38:09.474808+00:00
+acceptance_rate: "90.000%"
+collected_at: "2026-04-17T15:38:09.474808+00:00"
 ---
 
 ## 문제

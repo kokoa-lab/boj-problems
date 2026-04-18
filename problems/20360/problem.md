@@ -1,13 +1,13 @@
 ---
-title: Binary numbers
-special_judge: false
-time_limit: 0.25 초
-memory_limit: 512 MB
+title: "Binary numbers"
+special_judge: "false"
+time_limit: "0.25 초"
+memory_limit: "512 MB"
 submissions: 653
 accepted: 516
 solved_users: 474
-acceptance_rate: 79.132%
-collected_at: 2026-04-17T15:35:33.819821+00:00
+acceptance_rate: "79.132%"
+collected_at: "2026-04-17T15:35:33.819821+00:00"
 ---
 
 ## 문제

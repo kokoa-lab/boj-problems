@@ -1,13 +1,13 @@
 ---
-title: Jetpack
-special_judge: true
-time_limit: 1 초
-memory_limit: 64 MB
+title: "Jetpack"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "64 MB"
 submissions: 255
 accepted: 84
 solved_users: 60
-acceptance_rate: 35.294%
-collected_at: 2026-04-17T13:13:54.585859+00:00
+acceptance_rate: "35.294%"
+collected_at: "2026-04-17T13:13:54.585859+00:00"
 ---
 
 ## 문제

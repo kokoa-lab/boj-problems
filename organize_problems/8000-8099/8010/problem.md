@@ -1,13 +1,13 @@
 ---
-title: Shuffle
-special_judge: true
-time_limit: 3 초
-memory_limit: 128 MB
+title: "Shuffle"
+special_judge: "true"
+time_limit: "3 초"
+memory_limit: "128 MB"
 submissions: 39
 accepted: 12
 solved_users: 10
-acceptance_rate: 33.333%
-collected_at: 2026-04-17T11:55:08.054228+00:00
+acceptance_rate: "33.333%"
+collected_at: "2026-04-17T11:55:08.054228+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Katty and Wonki
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Katty and Wonki"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 130
 accepted: 22
 solved_users: 19
-acceptance_rate: 38.776%
-collected_at: 2026-04-17T14:22:54.787271+00:00
+acceptance_rate: "38.776%"
+collected_at: "2026-04-17T14:22:54.787271+00:00"
 ---
 
 ## 문제

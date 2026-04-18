@@ -1,13 +1,13 @@
 ---
-title: Delft Distance
-special_judge: true
-time_limit: 4 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Delft Distance"
+special_judge: "true"
+time_limit: "4 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 124
 accepted: 74
 solved_users: 68
-acceptance_rate: 60.177%
-collected_at: 2026-04-17T17:41:22.735864+00:00
+acceptance_rate: "60.177%"
+collected_at: "2026-04-17T17:41:22.735864+00:00"
 ---
 
 ## 문제

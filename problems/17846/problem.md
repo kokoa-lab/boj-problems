@@ -1,13 +1,13 @@
 ---
-title: Chopping on Line
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "Chopping on Line"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 7
 accepted: 2
 solved_users: 2
-acceptance_rate: 66.667%
-collected_at: 2026-04-17T14:48:22.917460+00:00
+acceptance_rate: "66.667%"
+collected_at: "2026-04-17T14:48:22.917460+00:00"
 ---
 
 ## 문제

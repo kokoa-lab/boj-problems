@@ -1,13 +1,13 @@
 ---
-title: 트리 순회
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "트리 순회"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 79611
 accepted: 52454
 solved_users: 40417
-acceptance_rate: 67.579%
-collected_at: 2026-04-17T10:36:50.425314+00:00
+acceptance_rate: "67.579%"
+collected_at: "2026-04-17T10:36:50.425314+00:00"
 ---
 
 ## 문제

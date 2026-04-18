@@ -1,13 +1,13 @@
 ---
-title: 가희와 3단 고음
-special_judge: false
-time_limit: 1.5 초
-memory_limit: 256 MB
+title: "가희와 3단 고음"
+special_judge: "false"
+time_limit: "1.5 초"
+memory_limit: "256 MB"
 submissions: 1373
 accepted: 882
 solved_users: 748
-acceptance_rate: 67.631%
-collected_at: 2026-04-17T14:12:39.734707+00:00
+acceptance_rate: "67.631%"
+collected_at: "2026-04-17T14:12:39.734707+00:00"
 ---
 
 ## 문제

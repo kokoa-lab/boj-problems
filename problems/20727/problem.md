@@ -1,13 +1,13 @@
 ---
-title: AI Jeopardy
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "AI Jeopardy"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 69
 accepted: 23
 solved_users: 14
-acceptance_rate: 25.926%
-collected_at: 2026-04-17T15:40:31.482302+00:00
+acceptance_rate: "25.926%"
+collected_at: "2026-04-17T15:40:31.482302+00:00"
 ---
 
 ## 문제

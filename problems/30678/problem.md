@@ -1,13 +1,13 @@
 ---
-title: 별 안에 별 안에 별 찍기
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "별 안에 별 안에 별 찍기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 1114
 accepted: 613
 solved_users: 484
-acceptance_rate: 54.689%
-collected_at: 2026-04-17T19:12:15.052437+00:00
+acceptance_rate: "54.689%"
+collected_at: "2026-04-17T19:12:15.052437+00:00"
 ---
 
 ## 문제

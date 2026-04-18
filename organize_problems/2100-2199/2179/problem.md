@@ -1,13 +1,13 @@
 ---
-title: 비슷한 단어
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "비슷한 단어"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 9987
 accepted: 2725
 solved_users: 1890
-acceptance_rate: 27.281%
-collected_at: 2026-04-17T10:39:16.058103+00:00
+acceptance_rate: "27.281%"
+collected_at: "2026-04-17T10:39:16.058103+00:00"
 ---
 
 ## 문제

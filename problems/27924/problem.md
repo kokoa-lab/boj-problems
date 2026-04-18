@@ -1,13 +1,13 @@
 ---
-title: 윤이는 엄청난 것을 훔쳐갔습니다
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "윤이는 엄청난 것을 훔쳐갔습니다"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 585
 accepted: 327
 solved_users: 261
-acceptance_rate: 56.494%
-collected_at: 2026-04-17T18:14:44.803617+00:00
+acceptance_rate: "56.494%"
+collected_at: "2026-04-17T18:14:44.803617+00:00"
 ---
 
 ## 문제

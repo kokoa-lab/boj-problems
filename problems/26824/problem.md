@@ -1,13 +1,13 @@
 ---
-title: Najmniejsza wspólna wielokrotność
-special_judge: false
-time_limit: 15 초
-memory_limit: 1024 MB
+title: "Najmniejsza wspólna wielokrotność"
+special_judge: "false"
+time_limit: "15 초"
+memory_limit: "1024 MB"
 submissions: 69
 accepted: 16
 solved_users: 12
-acceptance_rate: 34.286%
-collected_at: 2026-04-17T17:51:58.068444+00:00
+acceptance_rate: "34.286%"
+collected_at: "2026-04-17T17:51:58.068444+00:00"
 ---
 
 ## 문제

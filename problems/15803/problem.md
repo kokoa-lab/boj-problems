@@ -1,13 +1,13 @@
 ---
-title: PLAYERJINAH’S BOTTLEGROUNDS
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "PLAYERJINAH’S BOTTLEGROUNDS"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 2548
 accepted: 1100
 solved_users: 976
-acceptance_rate: 43.728%
-collected_at: 2026-04-17T14:06:57.821271+00:00
+acceptance_rate: "43.728%"
+collected_at: "2026-04-17T14:06:57.821271+00:00"
 ---
 
 ## 문제

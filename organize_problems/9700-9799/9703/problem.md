@@ -1,13 +1,13 @@
 ---
-title: Anti-Arithmetic Permutation
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Anti-Arithmetic Permutation"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 153
 accepted: 115
 solved_users: 101
-acceptance_rate: 75.373%
-collected_at: 2026-04-17T12:13:14.276445+00:00
+acceptance_rate: "75.373%"
+collected_at: "2026-04-17T12:13:14.276445+00:00"
 ---
 
 ## 문제

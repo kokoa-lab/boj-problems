@@ -1,13 +1,13 @@
 ---
-title: 에라토스테네스의 체
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "에라토스테네스의 체"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 34782
 accepted: 20276
 solved_users: 16993
-acceptance_rate: 59.123%
-collected_at: 2026-04-17T10:45:57.563020+00:00
+acceptance_rate: "59.123%"
+collected_at: "2026-04-17T10:45:57.563020+00:00"
 ---
 
 ## 문제

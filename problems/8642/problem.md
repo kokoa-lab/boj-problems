@@ -1,13 +1,13 @@
 ---
-title: Kwadrat
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Kwadrat"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 132
 accepted: 50
 solved_users: 43
-acceptance_rate: 40.187%
-collected_at: 2026-04-17T12:01:42.028925+00:00
+acceptance_rate: "40.187%"
+collected_at: "2026-04-17T12:01:42.028925+00:00"
 ---
 
 ## 문제

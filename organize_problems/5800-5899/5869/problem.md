@@ -1,13 +1,13 @@
 ---
-title: Balanced Cow Breeds
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Balanced Cow Breeds"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 122
 accepted: 74
 solved_users: 59
-acceptance_rate: 61.458%
-collected_at: 2026-04-17T11:18:07.974466+00:00
+acceptance_rate: "61.458%"
+collected_at: "2026-04-17T11:18:07.974466+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Big Bang Secrets
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Big Bang Secrets"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 254
 accepted: 231
 solved_users: 193
-acceptance_rate: 92.788%
-collected_at: 2026-04-17T11:36:31.991461+00:00
+acceptance_rate: "92.788%"
+collected_at: "2026-04-17T11:36:31.991461+00:00"
 ---
 
 ## 문제

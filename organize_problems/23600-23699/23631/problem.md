@@ -1,13 +1,13 @@
 ---
-title: 진심 좌우 반복뛰기
-special_judge: false
-time_limit: 0.15 초  ( 하단 참고 )
-memory_limit: 512 MB
+title: "진심 좌우 반복뛰기"
+special_judge: "false"
+time_limit: "0.15 초  ( 하단 참고 )"
+memory_limit: "512 MB"
 submissions: 1258
 accepted: 407
 solved_users: 281
-acceptance_rate: 34.185%
-collected_at: 2026-04-17T16:51:17.894139+00:00
+acceptance_rate: "34.185%"
+collected_at: "2026-04-17T16:51:17.894139+00:00"
 ---
 
 ## 문제

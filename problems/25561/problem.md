@@ -1,13 +1,13 @@
 ---
-title: 1-3 트리
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "1-3 트리"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 525
 accepted: 84
 solved_users: 78
-acceptance_rate: 17.808%
-collected_at: 2026-04-17T17:28:44.668164+00:00
+acceptance_rate: "17.808%"
+collected_at: "2026-04-17T17:28:44.668164+00:00"
 ---
 
 ## 문제

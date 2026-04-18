@@ -1,13 +1,13 @@
 ---
-title: 골목 대장 호석 - 기능성
-special_judge: false
-time_limit: 3 초
-memory_limit: 512 MB
+title: "골목 대장 호석 - 기능성"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "512 MB"
 submissions: 2661
 accepted: 1086
 solved_users: 811
-acceptance_rate: 41.956%
-collected_at: 2026-04-17T15:32:34.853745+00:00
+acceptance_rate: "41.956%"
+collected_at: "2026-04-17T15:32:34.853745+00:00"
 ---
 
 ## 문제

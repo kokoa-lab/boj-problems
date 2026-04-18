@@ -1,13 +1,13 @@
 ---
-title: 셋이 놀기
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "셋이 놀기"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 58
 accepted: 6
 solved_users: 5
-acceptance_rate: 23.810%
-collected_at: 2026-04-17T10:38:33.852558+00:00
+acceptance_rate: "23.810%"
+collected_at: "2026-04-17T10:38:33.852558+00:00"
 ---
 
 ## 문제

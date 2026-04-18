@@ -1,13 +1,13 @@
 ---
-title: Flights
-special_judge: false
-time_limit: 4 초
-memory_limit: 512 MB
+title: "Flights"
+special_judge: "false"
+time_limit: "4 초"
+memory_limit: "512 MB"
 submissions: 40
 accepted: 1
 solved_users: 1
-acceptance_rate: 3.030%
-collected_at: 2026-04-17T17:17:32.855835+00:00
+acceptance_rate: "3.030%"
+collected_at: "2026-04-17T17:17:32.855835+00:00"
 ---
 
 ## 문제

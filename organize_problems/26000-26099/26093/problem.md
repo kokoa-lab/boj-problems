@@ -1,13 +1,13 @@
 ---
-title: 고양이 목에 리본 달기
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "고양이 목에 리본 달기"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 583
 accepted: 243
 solved_users: 206
-acceptance_rate: 43.006%
-collected_at: 2026-04-17T17:40:01.979200+00:00
+acceptance_rate: "43.006%"
+collected_at: "2026-04-17T17:40:01.979200+00:00"
 ---
 
 ## 문제

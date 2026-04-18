@@ -1,13 +1,13 @@
 ---
-title: 물정수열
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "물정수열"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 614
 accepted: 246
 solved_users: 196
-acceptance_rate: 39.044%
-collected_at: 2026-04-17T17:49:14.825518+00:00
+acceptance_rate: "39.044%"
+collected_at: "2026-04-17T17:49:14.825518+00:00"
 ---
 
 ## 문제

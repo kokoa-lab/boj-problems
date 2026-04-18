@@ -1,13 +1,13 @@
 ---
-title: 다이아몬드 광산
-special_judge: false
-time_limit: 0.75 초
-memory_limit: 128 MB
+title: "다이아몬드 광산"
+special_judge: "false"
+time_limit: "0.75 초"
+memory_limit: "128 MB"
 submissions: 13449
 accepted: 3448
 solved_users: 2373
-acceptance_rate: 27.411%
-collected_at: 2026-04-17T10:27:47.130921+00:00
+acceptance_rate: "27.411%"
+collected_at: "2026-04-17T10:27:47.130921+00:00"
 ---
 
 ## 문제

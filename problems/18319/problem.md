@@ -1,13 +1,13 @@
 ---
-title: Berry Picking
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Berry Picking"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 891
 accepted: 352
 solved_users: 286
-acceptance_rate: 38.859%
-collected_at: 2026-04-17T14:59:39.688948+00:00
+acceptance_rate: "38.859%"
+collected_at: "2026-04-17T14:59:39.688948+00:00"
 ---
 
 ## 문제

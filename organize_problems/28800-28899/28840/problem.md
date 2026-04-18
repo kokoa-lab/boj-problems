@@ -1,13 +1,13 @@
 ---
-title: Как покормить дракона
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Как покормить дракона"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 282
 accepted: 210
 solved_users: 191
-acceptance_rate: 76.707%
-collected_at: 2026-04-17T18:33:27.783836+00:00
+acceptance_rate: "76.707%"
+collected_at: "2026-04-17T18:33:27.783836+00:00"
 ---
 
 ## 문제

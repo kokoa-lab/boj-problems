@@ -1,13 +1,13 @@
 ---
-title: $x$와 $x+1$의 차이
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "$x$와 $x+1$의 차이"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 670
 accepted: 271
 solved_users: 236
-acceptance_rate: 44.782%
-collected_at: 2026-04-17T19:48:07.880299+00:00
+acceptance_rate: "44.782%"
+collected_at: "2026-04-17T19:48:07.880299+00:00"
 ---
 
 ## 문제

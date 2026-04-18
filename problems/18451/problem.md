@@ -1,13 +1,13 @@
 ---
-title: Expected Value
-special_judge: false
-time_limit: 1.5 초
-memory_limit: 512 MB
+title: "Expected Value"
+special_judge: "false"
+time_limit: "1.5 초"
+memory_limit: "512 MB"
 submissions: 35
 accepted: 16
 solved_users: 13
-acceptance_rate: 48.148%
-collected_at: 2026-04-17T15:05:02.671934+00:00
+acceptance_rate: "48.148%"
+collected_at: "2026-04-17T15:05:02.671934+00:00"
 ---
 
 ## 문제

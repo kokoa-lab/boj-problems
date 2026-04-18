@@ -1,13 +1,13 @@
 ---
-title: Rainbow Strings
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "Rainbow Strings"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 156
 accepted: 107
 solved_users: 95
-acceptance_rate: 73.077%
-collected_at: 2026-04-17T14:52:22.461191+00:00
+acceptance_rate: "73.077%"
+collected_at: "2026-04-17T14:52:22.461191+00:00"
 ---
 
 ## 문제

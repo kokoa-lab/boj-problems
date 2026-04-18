@@ -1,13 +1,13 @@
 ---
-title: 소수 부분 수열
-special_judge: false
-time_limit: 5 초
-memory_limit: 256 MB
+title: "소수 부분 수열"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "256 MB"
 submissions: 1510
 accepted: 381
 solved_users: 252
-acceptance_rate: 25.150%
-collected_at: 2026-04-17T11:40:08.698367+00:00
+acceptance_rate: "25.150%"
+collected_at: "2026-04-17T11:40:08.698367+00:00"
 ---
 
 ## 문제

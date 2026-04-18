@@ -1,13 +1,13 @@
 ---
-title: My brother’s diary
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "My brother’s diary"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 167
 accepted: 97
 solved_users: 89
-acceptance_rate: 56.688%
-collected_at: 2026-04-17T10:53:54.916735+00:00
+acceptance_rate: "56.688%"
+collected_at: "2026-04-17T10:53:54.916735+00:00"
 ---
 
 ## 문제

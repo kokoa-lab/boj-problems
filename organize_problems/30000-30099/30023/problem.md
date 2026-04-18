@@ -1,13 +1,13 @@
 ---
-title: 전구 상태 바꾸기
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "전구 상태 바꾸기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 742
 accepted: 424
 solved_users: 347
-acceptance_rate: 56.240%
-collected_at: 2026-04-17T18:57:36.906114+00:00
+acceptance_rate: "56.240%"
+collected_at: "2026-04-17T18:57:36.906114+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 45도
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "45도"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 455
 accepted: 173
 solved_users: 145
-acceptance_rate: 44.073%
-collected_at: 2026-04-17T10:45:53.662239+00:00
+acceptance_rate: "44.073%"
+collected_at: "2026-04-17T10:45:53.662239+00:00"
 ---
 
 ## 문제

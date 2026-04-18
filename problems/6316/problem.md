@@ -1,13 +1,13 @@
 ---
-title: Pushing Boxes
-special_judge: true
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Pushing Boxes"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 73
 accepted: 29
 solved_users: 28
-acceptance_rate: 38.889%
-collected_at: 2026-04-17T11:24:50.861955+00:00
+acceptance_rate: "38.889%"
+collected_at: "2026-04-17T11:24:50.861955+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 사건의 지평선
-special_judge: false
-time_limit: 3 초 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "사건의 지평선"
+special_judge: "false"
+time_limit: "3 초 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 322
 accepted: 94
 solved_users: 68
-acceptance_rate: 25.856%
-collected_at: 2026-04-17T17:26:04.228117+00:00
+acceptance_rate: "25.856%"
+collected_at: "2026-04-17T17:26:04.228117+00:00"
 ---
 
 ## 문제

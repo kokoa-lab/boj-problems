@@ -1,13 +1,13 @@
 ---
-title: Magazine Delivery
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Magazine Delivery"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 56
 accepted: 30
 solved_users: 27
-acceptance_rate: 55.102%
-collected_at: 2026-04-17T11:48:27.492602+00:00
+acceptance_rate: "55.102%"
+collected_at: "2026-04-17T11:48:27.492602+00:00"
 ---
 
 ## 문제

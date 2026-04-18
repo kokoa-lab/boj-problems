@@ -1,13 +1,13 @@
 ---
-title: Ellipse Intersection
-special_judge: true
-time_limit: 8 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "Ellipse Intersection"
+special_judge: "true"
+time_limit: "8 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 303
 accepted: 116
 solved_users: 58
-acceptance_rate: 30.366%
-collected_at: 2026-04-17T16:34:48.183451+00:00
+acceptance_rate: "30.366%"
+collected_at: "2026-04-17T16:34:48.183451+00:00"
 ---
 
 ## 문제

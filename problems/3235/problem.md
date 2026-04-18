@@ -1,13 +1,13 @@
 ---
-title: TRAJEKT
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "TRAJEKT"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 52
 accepted: 32
 solved_users: 23
-acceptance_rate: 58.974%
-collected_at: 2026-04-17T10:47:31.753379+00:00
+acceptance_rate: "58.974%"
+collected_at: "2026-04-17T10:47:31.753379+00:00"
 ---
 
 ## 문제

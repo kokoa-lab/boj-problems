@@ -1,13 +1,13 @@
 ---
-title: Cherrypick
-special_judge: false
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "Cherrypick"
+special_judge: "false"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 367
 accepted: 102
 solved_users: 82
-acceptance_rate: 28.082%
-collected_at: 2026-04-17T14:11:42.857309+00:00
+acceptance_rate: "28.082%"
+collected_at: "2026-04-17T14:11:42.857309+00:00"
 ---
 
 ## 문제

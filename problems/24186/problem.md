@@ -1,13 +1,13 @@
 ---
-title: Den trötte målaren
-special_judge: true
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Den trötte målaren"
+special_judge: "true"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 16
 accepted: 14
 solved_users: 12
-acceptance_rate: 85.714%
-collected_at: 2026-04-17T17:05:35.251824+00:00
+acceptance_rate: "85.714%"
+collected_at: "2026-04-17T17:05:35.251824+00:00"
 ---
 
 ## 문제

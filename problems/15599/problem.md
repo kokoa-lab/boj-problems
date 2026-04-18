@@ -1,13 +1,13 @@
 ---
-title: Ascending Photo
-special_judge: false
-time_limit: 3 초
-memory_limit: 512 MB
+title: "Ascending Photo"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "512 MB"
 submissions: 156
 accepted: 52
 solved_users: 46
-acceptance_rate: 37.398%
-collected_at: 2026-04-17T14:02:25.154583+00:00
+acceptance_rate: "37.398%"
+collected_at: "2026-04-17T14:02:25.154583+00:00"
 ---
 
 ## 문제

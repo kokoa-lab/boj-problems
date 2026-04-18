@@ -1,13 +1,13 @@
 ---
-title: Divisible Trees
-special_judge: false
-time_limit: 5 초
-memory_limit: 2048 MB
+title: "Divisible Trees"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "2048 MB"
 submissions: 20
 accepted: 8
 solved_users: 6
-acceptance_rate: 54.545%
-collected_at: 2026-04-17T20:13:39.975775+00:00
+acceptance_rate: "54.545%"
+collected_at: "2026-04-17T20:13:39.975775+00:00"
 ---
 
 ## 문제

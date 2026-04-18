@@ -1,13 +1,13 @@
 ---
-title: 히스토그램에서 가장 큰 직사각형과 쿼리
-special_judge: false
-time_limit: 4 초
-memory_limit: 512 MB
+title: "히스토그램에서 가장 큰 직사각형과 쿼리"
+special_judge: "false"
+time_limit: "4 초"
+memory_limit: "512 MB"
 submissions: 987
 accepted: 425
 solved_users: 312
-acceptance_rate: 44.444%
-collected_at: 2026-04-17T14:27:00.730139+00:00
+acceptance_rate: "44.444%"
+collected_at: "2026-04-17T14:27:00.730139+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Bulls and Cows
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Bulls and Cows"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 108
 accepted: 58
 solved_users: 56
-acceptance_rate: 55.446%
-collected_at: 2026-04-17T11:20:10.659550+00:00
+acceptance_rate: "55.446%"
+collected_at: "2026-04-17T11:20:10.659550+00:00"
 ---
 
 ## 문제

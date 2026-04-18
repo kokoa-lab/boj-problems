@@ -1,13 +1,13 @@
 ---
-title: Lankomumo žymėjimas
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Lankomumo žymėjimas"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 93
 accepted: 82
 solved_users: 59
-acceptance_rate: 92.188%
-collected_at: 2026-04-17T11:47:17.167891+00:00
+acceptance_rate: "92.188%"
+collected_at: "2026-04-17T11:47:17.167891+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Košnja
-special_judge: false
-time_limit: 1 초
-memory_limit: 64 MB
+title: "Košnja"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "64 MB"
 submissions: 406
 accepted: 290
 solved_users: 248
-acceptance_rate: 72.515%
-collected_at: 2026-04-17T13:57:06.269561+00:00
+acceptance_rate: "72.515%"
+collected_at: "2026-04-17T13:57:06.269561+00:00"
 ---
 
 ## 문제

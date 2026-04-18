@@ -1,13 +1,13 @@
 ---
-title: 日本沈没 (Japan Sinks)
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "日本沈没 (Japan Sinks)"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 324
 accepted: 104
 solved_users: 83
-acceptance_rate: 32.677%
-collected_at: 2026-04-17T14:24:04.135882+00:00
+acceptance_rate: "32.677%"
+collected_at: "2026-04-17T14:24:04.135882+00:00"
 ---
 
 ## 문제

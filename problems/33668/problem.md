@@ -1,13 +1,13 @@
 ---
-title: 루미의 스트레스 해소하기
-special_judge: false
-time_limit: 2.8 초
-memory_limit: 329 MB
+title: "루미의 스트레스 해소하기"
+special_judge: "false"
+time_limit: "2.8 초"
+memory_limit: "329 MB"
 submissions: 127
 accepted: 37
 solved_users: 19
-acceptance_rate: 19.192%
-collected_at: 2026-04-17T20:21:10.830007+00:00
+acceptance_rate: "19.192%"
+collected_at: "2026-04-17T20:21:10.830007+00:00"
 ---
 
 ## 문제

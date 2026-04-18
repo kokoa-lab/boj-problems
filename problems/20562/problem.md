@@ -1,13 +1,13 @@
 ---
-title: 휴식
-special_judge: false
-time_limit: 3 초
-memory_limit: 1024 MB
+title: "휴식"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "1024 MB"
 submissions: 152
 accepted: 61
 solved_users: 56
-acceptance_rate: 41.791%
-collected_at: 2026-04-17T15:38:03.241865+00:00
+acceptance_rate: "41.791%"
+collected_at: "2026-04-17T15:38:03.241865+00:00"
 ---
 
 ## 문제

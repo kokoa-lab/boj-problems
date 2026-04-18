@@ -1,13 +1,13 @@
 ---
-title: 피노키오
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "피노키오"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 1267
 accepted: 573
 solved_users: 462
-acceptance_rate: 45.073%
-collected_at: 2026-04-17T13:02:48.464305+00:00
+acceptance_rate: "45.073%"
+collected_at: "2026-04-17T13:02:48.464305+00:00"
 ---
 
 ## 문제

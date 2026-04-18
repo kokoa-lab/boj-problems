@@ -1,13 +1,13 @@
 ---
-title: 야쿠르트 아줌마 야쿠르트 주세요
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "야쿠르트 아줌마 야쿠르트 주세요"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 1489
 accepted: 371
 solved_users: 281
-acceptance_rate: 24.308%
-collected_at: 2026-04-17T15:32:30.307551+00:00
+acceptance_rate: "24.308%"
+collected_at: "2026-04-17T15:32:30.307551+00:00"
 ---
 
 ## 문제

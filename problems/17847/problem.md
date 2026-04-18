@@ -1,13 +1,13 @@
 ---
-title: Diamonds Are for Evers
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "Diamonds Are for Evers"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 57
 accepted: 39
 solved_users: 31
-acceptance_rate: 64.583%
-collected_at: 2026-04-17T14:48:27.203683+00:00
+acceptance_rate: "64.583%"
+collected_at: "2026-04-17T14:48:27.203683+00:00"
 ---
 
 ## 문제

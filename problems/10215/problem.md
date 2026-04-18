@@ -1,13 +1,13 @@
 ---
-title: Colored Bead Works
-special_judge: true
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Colored Bead Works"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 444
 accepted: 66
 solved_users: 41
-acceptance_rate: 18.807%
-collected_at: 2026-04-17T12:20:29.049359+00:00
+acceptance_rate: "18.807%"
+collected_at: "2026-04-17T12:20:29.049359+00:00"
 ---
 
 ## 문제

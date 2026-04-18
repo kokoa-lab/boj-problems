@@ -1,13 +1,13 @@
 ---
-title: Tree Depth
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Tree Depth"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 46
 accepted: 30
 solved_users: 27
-acceptance_rate: 75.000%
-collected_at: 2026-04-17T14:58:10.601185+00:00
+acceptance_rate: "75.000%"
+collected_at: "2026-04-17T14:58:10.601185+00:00"
 ---
 
 ## 문제

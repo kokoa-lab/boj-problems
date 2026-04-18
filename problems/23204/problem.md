@@ -1,13 +1,13 @@
 ---
-title: Trailing Digits
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 2048 MB
+title: "Trailing Digits"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "2048 MB"
 submissions: 157
 accepted: 31
 solved_users: 30
-acceptance_rate: 41.667%
-collected_at: 2026-04-17T16:44:14.172473+00:00
+acceptance_rate: "41.667%"
+collected_at: "2026-04-17T16:44:14.172473+00:00"
 ---
 
 ## 문제

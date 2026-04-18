@@ -1,13 +1,13 @@
 ---
-title: 수열의 극한값
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "수열의 극한값"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 1257
 accepted: 614
 solved_users: 521
-acceptance_rate: 53.001%
-collected_at: 2026-04-17T17:46:59.811528+00:00
+acceptance_rate: "53.001%"
+collected_at: "2026-04-17T17:46:59.811528+00:00"
 ---
 
 ## 문제

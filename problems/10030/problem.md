@@ -1,13 +1,13 @@
 ---
-title: Fair Photography
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Fair Photography"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 176
 accepted: 35
 solved_users: 29
-acceptance_rate: 23.770%
-collected_at: 2026-04-17T12:17:59.240458+00:00
+acceptance_rate: "23.770%"
+collected_at: "2026-04-17T12:17:59.240458+00:00"
 ---
 
 ## 문제

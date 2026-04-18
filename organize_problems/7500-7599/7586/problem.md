@@ -1,13 +1,13 @@
 ---
-title: Untied Airlines
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Untied Airlines"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 186
 accepted: 108
 solved_users: 91
-acceptance_rate: 56.173%
-collected_at: 2026-04-17T11:50:53.732536+00:00
+acceptance_rate: "56.173%"
+collected_at: "2026-04-17T11:50:53.732536+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Balanced Tree Path
-special_judge: false
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 2048 MB
+title: "Balanced Tree Path"
+special_judge: "false"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "2048 MB"
 submissions: 80
 accepted: 41
 solved_users: 35
-acceptance_rate: 47.297%
-collected_at: 2026-04-17T19:29:53.182657+00:00
+acceptance_rate: "47.297%"
+collected_at: "2026-04-17T19:29:53.182657+00:00"
 ---
 
 ## 문제

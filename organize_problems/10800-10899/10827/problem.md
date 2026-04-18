@@ -1,13 +1,13 @@
 ---
-title: a^b
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "a^b"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 5689
 accepted: 1690
 solved_users: 1443
-acceptance_rate: 36.662%
-collected_at: 2026-04-17T12:30:10.798006+00:00
+acceptance_rate: "36.662%"
+collected_at: "2026-04-17T12:30:10.798006+00:00"
 ---
 
 ## 문제

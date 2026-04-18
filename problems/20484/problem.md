@@ -1,13 +1,13 @@
 ---
-title: Игра
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Игра"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 116
 accepted: 21
 solved_users: 20
-acceptance_rate: 37.736%
-collected_at: 2026-04-17T15:37:02.186005+00:00
+acceptance_rate: "37.736%"
+collected_at: "2026-04-17T15:37:02.186005+00:00"
 ---
 
 ## 문제

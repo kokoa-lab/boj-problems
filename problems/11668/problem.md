@@ -1,13 +1,13 @@
 ---
-title: 파이프 청소
-special_judge: false
-time_limit: 7 초
-memory_limit: 256 MB
+title: "파이프 청소"
+special_judge: "false"
+time_limit: "7 초"
+memory_limit: "256 MB"
 submissions: 663
 accepted: 180
 solved_users: 154
-acceptance_rate: 30.556%
-collected_at: 2026-04-17T12:43:45.645211+00:00
+acceptance_rate: "30.556%"
+collected_at: "2026-04-17T12:43:45.645211+00:00"
 ---
 
 ## 문제

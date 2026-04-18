@@ -1,13 +1,13 @@
 ---
-title: Game of Lines
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Game of Lines"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 358
 accepted: 166
 solved_users: 150
-acceptance_rate: 47.619%
-collected_at: 2026-04-17T11:21:40.785223+00:00
+acceptance_rate: "47.619%"
+collected_at: "2026-04-17T11:21:40.785223+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Apricot Seeds
-special_judge: false
-time_limit: 3 초
-memory_limit: 2048 MB
+title: "Apricot Seeds"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "2048 MB"
 submissions: 221
 accepted: 41
 solved_users: 29
-acceptance_rate: 21.970%
-collected_at: 2026-04-17T19:16:53.911038+00:00
+acceptance_rate: "21.970%"
+collected_at: "2026-04-17T19:16:53.911038+00:00"
 ---
 
 ## 문제

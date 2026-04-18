@@ -1,13 +1,13 @@
 ---
-title: Hidden Password
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "Hidden Password"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 543
 accepted: 283
 solved_users: 200
-acceptance_rate: 55.402%
-collected_at: 2026-04-17T10:52:02.551718+00:00
+acceptance_rate: "55.402%"
+collected_at: "2026-04-17T10:52:02.551718+00:00"
 ---
 
 ## 문제

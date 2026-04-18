@@ -1,13 +1,13 @@
 ---
-title: 케이크 3
-special_judge: false
-time_limit: 4 초
-memory_limit: 256 MB
+title: "케이크 3"
+special_judge: "false"
+time_limit: "4 초"
+memory_limit: "256 MB"
 submissions: 258
 accepted: 95
 solved_users: 74
-acceptance_rate: 32.889%
-collected_at: 2026-04-17T14:45:13.803166+00:00
+acceptance_rate: "32.889%"
+collected_at: "2026-04-17T14:45:13.803166+00:00"
 ---
 
 ## 문제

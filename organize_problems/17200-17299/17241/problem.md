@@ -1,13 +1,13 @@
 ---
-title: Pineapple Advertising
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Pineapple Advertising"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 774
 accepted: 235
 solved_users: 173
-acceptance_rate: 28.130%
-collected_at: 2026-04-17T14:34:29.888959+00:00
+acceptance_rate: "28.130%"
+collected_at: "2026-04-17T14:34:29.888959+00:00"
 ---
 
 ## 문제

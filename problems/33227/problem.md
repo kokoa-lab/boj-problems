@@ -1,13 +1,13 @@
 ---
-title: Inspiring Professors
-special_judge: false
-time_limit: 3 초
-memory_limit: 2048 MB
+title: "Inspiring Professors"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "2048 MB"
 submissions: 18
 accepted: 3
 solved_users: 3
-acceptance_rate: 18.750%
-collected_at: 2026-04-17T20:11:47.113938+00:00
+acceptance_rate: "18.750%"
+collected_at: "2026-04-17T20:11:47.113938+00:00"
 ---
 
 ## 문제

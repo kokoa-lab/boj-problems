@@ -1,13 +1,13 @@
 ---
-title: Pegs
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Pegs"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 51
 accepted: 19
 solved_users: 16
-acceptance_rate: 33.333%
-collected_at: 2026-04-17T11:03:56.542809+00:00
+acceptance_rate: "33.333%"
+collected_at: "2026-04-17T11:03:56.542809+00:00"
 ---
 
 ## 문제
@@ -20,7 +20,25 @@ One standard peg board is a 5x5 cross (shown below with periods indicating empty
 
 |  |  |  |
 | --- | --- | --- |
-| ```  #...# ..... ..... ..... #...# ``` | ```  #.o.# ..o.. oo.o. ..... #...# ``` | ```  #...# ..... ...o. ..... #...# ``` |
+| ``` 
+ #...#
+ .....
+ .....
+ .....
+ #...#
+ ``` | ``` 
+ #.o.#
+ ..o..
+ oo.o.
+ .....
+ #...#
+ ``` | ``` 
+ #...#
+ .....
+ ...o.
+ .....
+ #...#
+ ``` |
 | Figure A | Figure B | Figure C |
 | --- | --- | --- |
 

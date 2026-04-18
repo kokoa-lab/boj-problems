@@ -1,13 +1,13 @@
 ---
-title: 스카이라인
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "스카이라인"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 4837
 accepted: 1581
 solved_users: 998
-acceptance_rate: 33.112%
-collected_at: 2026-04-17T10:36:01.844771+00:00
+acceptance_rate: "33.112%"
+collected_at: "2026-04-17T10:36:01.844771+00:00"
 ---
 
 ## 문제

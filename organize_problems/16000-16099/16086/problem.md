@@ -1,13 +1,13 @@
 ---
-title: Дайн
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Дайн"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 90
 accepted: 59
 solved_users: 42
-acceptance_rate: 67.742%
-collected_at: 2026-04-17T14:11:17.213160+00:00
+acceptance_rate: "67.742%"
+collected_at: "2026-04-17T14:11:17.213160+00:00"
 ---
 
 ## 문제

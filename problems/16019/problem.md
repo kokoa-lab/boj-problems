@@ -1,13 +1,13 @@
 ---
-title: Are we there yet?
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Are we there yet?"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 393
 accepted: 338
 solved_users: 307
-acceptance_rate: 87.966%
-collected_at: 2026-04-17T14:10:03.607006+00:00
+acceptance_rate: "87.966%"
+collected_at: "2026-04-17T14:10:03.607006+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 피보나치 더하기
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "피보나치 더하기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 926
 accepted: 357
 solved_users: 290
-acceptance_rate: 37.037%
-collected_at: 2026-04-17T19:16:23.442429+00:00
+acceptance_rate: "37.037%"
+collected_at: "2026-04-17T19:16:23.442429+00:00"
 ---
 
 ## 문제

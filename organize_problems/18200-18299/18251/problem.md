@@ -1,13 +1,13 @@
 ---
-title: 내 생각에 A번인 단순 dfs 문제가 이 대회에서 E번이 되어버린 건에 관하여 (Easy)
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "내 생각에 A번인 단순 dfs 문제가 이 대회에서 E번이 되어버린 건에 관하여 (Easy)"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 2473
 accepted: 933
 solved_users: 716
-acceptance_rate: 34.324%
-collected_at: 2026-04-17T14:58:00.380502+00:00
+acceptance_rate: "34.324%"
+collected_at: "2026-04-17T14:58:00.380502+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Your life
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Your life"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 819
 accepted: 381
 solved_users: 319
-acceptance_rate: 47.683%
-collected_at: 2026-04-17T12:31:34.114654+00:00
+acceptance_rate: "47.683%"
+collected_at: "2026-04-17T12:31:34.114654+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Letter Stamper (Large)
-special_judge: false
-time_limit: 15 초
-memory_limit: 512 MB
+title: "Letter Stamper (Large)"
+special_judge: "false"
+time_limit: "15 초"
+memory_limit: "512 MB"
 submissions: 201
 accepted: 53
 solved_users: 35
-acceptance_rate: 26.923%
-collected_at: 2026-04-17T12:57:09.303047+00:00
+acceptance_rate: "26.923%"
+collected_at: "2026-04-17T12:57:09.303047+00:00"
 ---
 
 ## 문제

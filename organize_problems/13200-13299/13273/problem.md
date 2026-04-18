@@ -1,13 +1,13 @@
 ---
-title: 로마숫자
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "로마숫자"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 649
 accepted: 332
 solved_users: 284
-acceptance_rate: 51.920%
-collected_at: 2026-04-17T13:10:39.244482+00:00
+acceptance_rate: "51.920%"
+collected_at: "2026-04-17T13:10:39.244482+00:00"
 ---
 
 ## 문제

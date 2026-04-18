@@ -1,13 +1,13 @@
 ---
-title: 수학은 재밌어
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "수학은 재밌어"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 2564
 accepted: 900
 solved_users: 722
-acceptance_rate: 34.529%
-collected_at: 2026-04-17T15:23:37.499380+00:00
+acceptance_rate: "34.529%"
+collected_at: "2026-04-17T15:23:37.499380+00:00"
 ---
 
 ## 문제

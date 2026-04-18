@@ -1,13 +1,13 @@
 ---
-title: Набор в армию
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Набор в армию"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 1
 accepted: 1
 solved_users: 1
-acceptance_rate: 100.000%
-collected_at: 2026-04-17T18:37:13.417677+00:00
+acceptance_rate: "100.000%"
+collected_at: "2026-04-17T18:37:13.417677+00:00"
 ---
 
 ## 문제

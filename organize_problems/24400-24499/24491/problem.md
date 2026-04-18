@@ -1,13 +1,13 @@
 ---
-title: Searching for Soulmates
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Searching for Soulmates"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 287
 accepted: 179
 solved_users: 144
-acceptance_rate: 65.753%
-collected_at: 2026-04-17T17:10:09.572738+00:00
+acceptance_rate: "65.753%"
+collected_at: "2026-04-17T17:10:09.572738+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Inspiration
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Inspiration"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 562
 accepted: 344
 solved_users: 307
-acceptance_rate: 60.672%
-collected_at: 2026-04-17T14:22:57.637810+00:00
+acceptance_rate: "60.672%"
+collected_at: "2026-04-17T14:22:57.637810+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Bimatching
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Bimatching"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 217
 accepted: 100
 solved_users: 62
-acceptance_rate: 48.438%
-collected_at: 2026-04-17T14:21:53.532798+00:00
+acceptance_rate: "48.438%"
+collected_at: "2026-04-17T14:21:53.532798+00:00"
 ---
 
 ## 문제

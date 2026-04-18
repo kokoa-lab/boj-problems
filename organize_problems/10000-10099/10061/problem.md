@@ -1,13 +1,13 @@
 ---
-title: Wire Crossing
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "Wire Crossing"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 53
 accepted: 25
 solved_users: 14
-acceptance_rate: 82.353%
-collected_at: 2026-04-17T12:18:28.272799+00:00
+acceptance_rate: "82.353%"
+collected_at: "2026-04-17T12:18:28.272799+00:00"
 ---
 
 ## 문제

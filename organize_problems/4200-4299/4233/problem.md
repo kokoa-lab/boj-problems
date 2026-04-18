@@ -1,13 +1,13 @@
 ---
-title: 가짜소수
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "가짜소수"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 2202
 accepted: 944
 solved_users: 770
-acceptance_rate: 46.246%
-collected_at: 2026-04-17T10:57:51.103061+00:00
+acceptance_rate: "46.246%"
+collected_at: "2026-04-17T10:57:51.103061+00:00"
 ---
 
 ## 문제

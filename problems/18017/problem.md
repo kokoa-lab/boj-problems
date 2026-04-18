@@ -1,13 +1,13 @@
 ---
-title: 총알의 속도
-special_judge: true
-time_limit: 0.5 초
-memory_limit: 256 MB
+title: "총알의 속도"
+special_judge: "true"
+time_limit: "0.5 초"
+memory_limit: "256 MB"
 submissions: 3511
 accepted: 788
 solved_users: 625
-acceptance_rate: 26.664%
-collected_at: 2026-04-17T14:52:41.395827+00:00
+acceptance_rate: "26.664%"
+collected_at: "2026-04-17T14:52:41.395827+00:00"
 ---
 
 ## 문제

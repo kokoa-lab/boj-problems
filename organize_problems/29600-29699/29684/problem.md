@@ -1,13 +1,13 @@
 ---
-title: Which Team Should Receive the Sponsor Prize?
-special_judge: false
-time_limit: 8 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Which Team Should Receive the Sponsor Prize?"
+special_judge: "false"
+time_limit: "8 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 359
 accepted: 328
 solved_users: 300
-acceptance_rate: 91.185%
-collected_at: 2026-04-17T18:50:39.053395+00:00
+acceptance_rate: "91.185%"
+collected_at: "2026-04-17T18:50:39.053395+00:00"
 ---
 
 ## 문제

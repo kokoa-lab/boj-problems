@@ -1,13 +1,13 @@
 ---
-title: 중력 큐
-special_judge: false
-time_limit: 0.5 초
-memory_limit: 1024 MB
+title: "중력 큐"
+special_judge: "false"
+time_limit: "0.5 초"
+memory_limit: "1024 MB"
 submissions: 1597
 accepted: 470
 solved_users: 358
-acceptance_rate: 29.660%
-collected_at: 2026-04-17T18:17:48.115973+00:00
+acceptance_rate: "29.660%"
+collected_at: "2026-04-17T18:17:48.115973+00:00"
 ---
 
 ## 문제

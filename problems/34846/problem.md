@@ -1,13 +1,13 @@
 ---
-title: 이웃 마을
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "이웃 마을"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 242
 accepted: 125
 solved_users: 115
-acceptance_rate: 58.974%
-collected_at: 2026-04-17T20:50:22.467892+00:00
+acceptance_rate: "58.974%"
+collected_at: "2026-04-17T20:50:22.467892+00:00"
 ---
 
 ## 문제

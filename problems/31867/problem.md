@@ -1,13 +1,13 @@
 ---
-title: 홀짝홀짝
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "홀짝홀짝"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 2847
 accepted: 1877
 solved_users: 1679
-acceptance_rate: 67.511%
-collected_at: 2026-04-17T19:37:59.553601+00:00
+acceptance_rate: "67.511%"
+collected_at: "2026-04-17T19:37:59.553601+00:00"
 ---
 
 ## 문제

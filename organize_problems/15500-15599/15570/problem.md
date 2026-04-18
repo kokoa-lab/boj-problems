@@ -1,13 +1,13 @@
 ---
-title: 블록 2
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "블록 2"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 389
 accepted: 200
 solved_users: 140
-acceptance_rate: 53.030%
-collected_at: 2026-04-17T14:01:43.886528+00:00
+acceptance_rate: "53.030%"
+collected_at: "2026-04-17T14:01:43.886528+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 읽씹 멈춰!
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "읽씹 멈춰!"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 1482
 accepted: 444
 solved_users: 293
-acceptance_rate: 26.468%
-collected_at: 2026-04-17T18:01:51.544216+00:00
+acceptance_rate: "26.468%"
+collected_at: "2026-04-17T18:01:51.544216+00:00"
 ---
 
 ## 문제

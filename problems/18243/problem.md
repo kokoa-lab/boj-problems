@@ -1,13 +1,13 @@
 ---
-title: Small World Network
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Small World Network"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 2233
 accepted: 1010
 solved_users: 859
-acceptance_rate: 45.187%
-collected_at: 2026-04-17T14:57:50.493599+00:00
+acceptance_rate: "45.187%"
+collected_at: "2026-04-17T14:57:50.493599+00:00"
 ---
 
 ## 문제

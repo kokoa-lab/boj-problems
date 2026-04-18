@@ -1,13 +1,13 @@
 ---
-title: Village Planning
-special_judge: false
-time_limit: 3 초 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "Village Planning"
+special_judge: "false"
+time_limit: "3 초 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 32
 accepted: 24
 solved_users: 19
-acceptance_rate: 86.364%
-collected_at: 2026-04-17T17:32:08.785831+00:00
+acceptance_rate: "86.364%"
+collected_at: "2026-04-17T17:32:08.785831+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 온라인 판매
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "온라인 판매"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 8739
 accepted: 3946
 solved_users: 3524
-acceptance_rate: 45.494%
-collected_at: 2026-04-17T10:29:04.409953+00:00
+acceptance_rate: "45.494%"
+collected_at: "2026-04-17T10:29:04.409953+00:00"
 ---
 
 ## 문제

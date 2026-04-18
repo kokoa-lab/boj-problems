@@ -1,13 +1,13 @@
 ---
-title: 最軽量のモビール
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "最軽量のモビール"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 51
 accepted: 33
 solved_users: 26
-acceptance_rate: 68.421%
-collected_at: 2026-04-17T11:15:50.718624+00:00
+acceptance_rate: "68.421%"
+collected_at: "2026-04-17T11:15:50.718624+00:00"
 ---
 
 ## 문제

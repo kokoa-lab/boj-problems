@@ -1,13 +1,13 @@
 ---
-title: 원숭이 스포츠
-special_judge: true
-time_limit: 1 초
-memory_limit: 128 MB
+title: "원숭이 스포츠"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 1180
 accepted: 528
 solved_users: 428
-acceptance_rate: 45.580%
-collected_at: 2026-04-17T14:17:56.476944+00:00
+acceptance_rate: "45.580%"
+collected_at: "2026-04-17T14:17:56.476944+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 초콜릿과 ㄱ나이트 게임 (Bitter)
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "초콜릿과 ㄱ나이트 게임 (Bitter)"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 137
 accepted: 35
 solved_users: 30
-acceptance_rate: 42.857%
-collected_at: 2026-04-17T19:28:54.343356+00:00
+acceptance_rate: "42.857%"
+collected_at: "2026-04-17T19:28:54.343356+00:00"
 ---
 
 ## 문제

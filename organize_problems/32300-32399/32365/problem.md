@@ -1,13 +1,13 @@
 ---
-title: Heavy-Light Composition
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Heavy-Light Composition"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 130
 accepted: 111
 solved_users: 93
-acceptance_rate: 86.111%
-collected_at: 2026-04-17T19:49:41.252924+00:00
+acceptance_rate: "86.111%"
+collected_at: "2026-04-17T19:49:41.252924+00:00"
 ---
 
 ## 문제

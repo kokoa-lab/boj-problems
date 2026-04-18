@@ -1,13 +1,13 @@
 ---
-title: 소수의 배수
-special_judge: false
-time_limit: 0.25 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "소수의 배수"
+special_judge: "false"
+time_limit: "0.25 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 1584
 accepted: 864
 solved_users: 728
-acceptance_rate: 61.331%
-collected_at: 2026-04-17T14:39:22.304159+00:00
+acceptance_rate: "61.331%"
+collected_at: "2026-04-17T14:39:22.304159+00:00"
 ---
 
 ## 문제

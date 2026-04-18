@@ -1,13 +1,13 @@
 ---
-title: Geometric Gridlock
-special_judge: true
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Geometric Gridlock"
+special_judge: "true"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 81
 accepted: 39
 solved_users: 33
-acceptance_rate: 55.000%
-collected_at: 2026-04-17T19:52:10.991057+00:00
+acceptance_rate: "55.000%"
+collected_at: "2026-04-17T19:52:10.991057+00:00"
 ---
 
 ## 문제

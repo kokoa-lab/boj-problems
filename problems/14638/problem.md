@@ -1,13 +1,13 @@
 ---
-title: Posterize
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Posterize"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 131
 accepted: 75
 solved_users: 59
-acceptance_rate: 57.282%
-collected_at: 2026-04-17T13:39:42.951869+00:00
+acceptance_rate: "57.282%"
+collected_at: "2026-04-17T13:39:42.951869+00:00"
 ---
 
 ## 문제

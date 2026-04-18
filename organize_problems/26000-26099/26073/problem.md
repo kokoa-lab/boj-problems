@@ -1,13 +1,13 @@
 ---
-title: 외로운 곰곰이는 친구가 있어요
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "외로운 곰곰이는 친구가 있어요"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 662
 accepted: 278
 solved_users: 219
-acceptance_rate: 46.008%
-collected_at: 2026-04-17T17:39:47.110022+00:00
+acceptance_rate: "46.008%"
+collected_at: "2026-04-17T17:39:47.110022+00:00"
 ---
 
 ## 문제

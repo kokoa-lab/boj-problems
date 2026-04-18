@@ -1,13 +1,13 @@
 ---
-title: 어게인 포닉스
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "어게인 포닉스"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 668
 accepted: 548
 solved_users: 519
-acceptance_rate: 83.173%
-collected_at: 2026-04-17T20:27:01.445154+00:00
+acceptance_rate: "83.173%"
+collected_at: "2026-04-17T20:27:01.445154+00:00"
 ---
 
 ## 문제

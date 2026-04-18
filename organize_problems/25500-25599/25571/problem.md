@@ -1,13 +1,13 @@
 ---
-title: 지그재그 부분배열
-special_judge: false
-time_limit: 1 초  ( 하단 참고 )
-memory_limit: 512 MB
+title: "지그재그 부분배열"
+special_judge: "false"
+time_limit: "1 초  ( 하단 참고 )"
+memory_limit: "512 MB"
 submissions: 282
 accepted: 119
 solved_users: 95
-acceptance_rate: 45.455%
-collected_at: 2026-04-17T17:28:53.237282+00:00
+acceptance_rate: "45.455%"
+collected_at: "2026-04-17T17:28:53.237282+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 夜店 (Night Market)
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "夜店 (Night Market)"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 119
 accepted: 76
 solved_users: 65
-acceptance_rate: 62.500%
-collected_at: 2026-04-17T11:15:11.457802+00:00
+acceptance_rate: "62.500%"
+collected_at: "2026-04-17T11:15:11.457802+00:00"
 ---
 
 ## 문제

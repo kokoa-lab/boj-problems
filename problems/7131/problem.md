@@ -1,13 +1,13 @@
 ---
-title: Õhne vanaraamatupood
-special_judge: false
-time_limit: 1 초
-memory_limit: 1023 MB
+title: "Õhne vanaraamatupood"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1023 MB"
 submissions: 144
 accepted: 57
 solved_users: 44
-acceptance_rate: 36.975%
-collected_at: 2026-04-17T11:45:42.064714+00:00
+acceptance_rate: "36.975%"
+collected_at: "2026-04-17T11:45:42.064714+00:00"
 ---
 
 ## 문제

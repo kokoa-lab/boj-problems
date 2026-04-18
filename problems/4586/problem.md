@@ -1,13 +1,13 @@
 ---
-title: Image Compression
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Image Compression"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 73
 accepted: 46
 solved_users: 41
-acceptance_rate: 67.213%
-collected_at: 2026-04-17T11:05:01.418991+00:00
+acceptance_rate: "67.213%"
+collected_at: "2026-04-17T11:05:01.418991+00:00"
 ---
 
 ## 문제

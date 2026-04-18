@@ -1,13 +1,13 @@
 ---
-title: 마왕의 성
-special_judge: false
-time_limit: 3 초
-memory_limit: 1024 MB
+title: "마왕의 성"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "1024 MB"
 submissions: 262
 accepted: 126
 solved_users: 89
-acceptance_rate: 49.444%
-collected_at: 2026-04-17T18:17:55.010481+00:00
+acceptance_rate: "49.444%"
+collected_at: "2026-04-17T18:17:55.010481+00:00"
 ---
 
 ## 문제

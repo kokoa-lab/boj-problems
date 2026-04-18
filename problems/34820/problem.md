@@ -1,13 +1,13 @@
 ---
-title: 똥 피하기 게임
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "똥 피하기 게임"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 160
 accepted: 39
 solved_users: 28
-acceptance_rate: 28.000%
-collected_at: 2026-04-17T20:49:29.228540+00:00
+acceptance_rate: "28.000%"
+collected_at: "2026-04-17T20:49:29.228540+00:00"
 ---
 
 ## 문제

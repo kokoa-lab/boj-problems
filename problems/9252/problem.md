@@ -1,13 +1,13 @@
 ---
-title: LCS 2
-special_judge: true
-time_limit: 0.1 초  ( 하단 참고 )
-memory_limit: 256 MB
+title: "LCS 2"
+special_judge: "true"
+time_limit: "0.1 초  ( 하단 참고 )"
+memory_limit: "256 MB"
 submissions: 57444
 accepted: 22763
 solved_users: 17527
-acceptance_rate: 39.963%
-collected_at: 2026-04-17T12:08:19.012197+00:00
+acceptance_rate: "39.963%"
+collected_at: "2026-04-17T12:08:19.012197+00:00"
 ---
 
 ## 문제

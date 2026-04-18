@@ -1,13 +1,13 @@
 ---
-title: Gridev's Protocol
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Gridev's Protocol"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 299
 accepted: 52
 solved_users: 46
-acceptance_rate: 20.536%
-collected_at: 2026-04-17T19:38:21.841970+00:00
+acceptance_rate: "20.536%"
+collected_at: "2026-04-17T19:38:21.841970+00:00"
 ---
 
 ## 문제

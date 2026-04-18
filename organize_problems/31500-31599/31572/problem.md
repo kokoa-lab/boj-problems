@@ -1,13 +1,13 @@
 ---
-title: 팰린드롬 판별하기
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "팰린드롬 판별하기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 345
 accepted: 90
 solved_users: 86
-acceptance_rate: 26.959%
-collected_at: 2026-04-17T19:31:15.449772+00:00
+acceptance_rate: "26.959%"
+collected_at: "2026-04-17T19:31:15.449772+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Quite a problem
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "Quite a problem"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 830
 accepted: 410
 solved_users: 342
-acceptance_rate: 51.429%
-collected_at: 2026-04-17T12:24:29.758493+00:00
+acceptance_rate: "51.429%"
+collected_at: "2026-04-17T12:24:29.758493+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 물과 응애
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "물과 응애"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 1364
 accepted: 427
 solved_users: 294
-acceptance_rate: 31.144%
-collected_at: 2026-04-17T20:27:44.598494+00:00
+acceptance_rate: "31.144%"
+collected_at: "2026-04-17T20:27:44.598494+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Magnus
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Magnus"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 354
 accepted: 245
 solved_users: 214
-acceptance_rate: 68.590%
-collected_at: 2026-04-17T14:23:28.470704+00:00
+acceptance_rate: "68.590%"
+collected_at: "2026-04-17T14:23:28.470704+00:00"
 ---
 
 ## 문제

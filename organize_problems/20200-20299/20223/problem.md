@@ -1,13 +1,13 @@
 ---
-title: Kangaroo Commotion
-special_judge: false
-time_limit: 7 초
-memory_limit: 512 MB
+title: "Kangaroo Commotion"
+special_judge: "false"
+time_limit: "7 초"
+memory_limit: "512 MB"
 submissions: 188
 accepted: 60
 solved_users: 38
-acceptance_rate: 26.950%
-collected_at: 2026-04-17T15:33:15.047316+00:00
+acceptance_rate: "26.950%"
+collected_at: "2026-04-17T15:33:15.047316+00:00"
 ---
 
 ## 문제

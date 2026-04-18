@@ -1,13 +1,13 @@
 ---
-title: 이상적인 도시
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "이상적인 도시"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 365
 accepted: 159
 solved_users: 139
-acceptance_rate: 46.488%
-collected_at: 2026-04-17T11:17:38.158729+00:00
+acceptance_rate: "46.488%"
+collected_at: "2026-04-17T11:17:38.158729+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: The Halfwitters
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "The Halfwitters"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 42
 accepted: 19
 solved_users: 7
-acceptance_rate: 38.889%
-collected_at: 2026-04-17T15:08:52.087961+00:00
+acceptance_rate: "38.889%"
+collected_at: "2026-04-17T15:08:52.087961+00:00"
 ---
 
 ## 문제

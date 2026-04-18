@@ -1,13 +1,13 @@
 ---
-title: 출근 기록
-special_judge: true
-time_limit: 2 초
-memory_limit: 512 MB
+title: "출근 기록"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 4429
 accepted: 1435
 solved_users: 1060
-acceptance_rate: 33.156%
-collected_at: 2026-04-17T13:28:25.575759+00:00
+acceptance_rate: "33.156%"
+collected_at: "2026-04-17T13:28:25.575759+00:00"
 ---
 
 ## 문제

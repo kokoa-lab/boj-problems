@@ -1,13 +1,13 @@
 ---
-title: 공사
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "공사"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 302
 accepted: 148
 solved_users: 109
-acceptance_rate: 45.417%
-collected_at: 2026-04-17T16:46:44.011156+00:00
+acceptance_rate: "45.417%"
+collected_at: "2026-04-17T16:46:44.011156+00:00"
 ---
 
 ## 문제

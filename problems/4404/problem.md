@@ -1,13 +1,13 @@
 ---
-title: Dog & Gopher
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Dog & Gopher"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 331
 accepted: 112
 solved_users: 95
-acceptance_rate: 34.173%
-collected_at: 2026-04-17T11:01:15.870441+00:00
+acceptance_rate: "34.173%"
+collected_at: "2026-04-17T11:01:15.870441+00:00"
 ---
 
 ## 문제

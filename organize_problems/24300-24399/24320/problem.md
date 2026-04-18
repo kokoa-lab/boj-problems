@@ -1,13 +1,13 @@
 ---
-title: Rectpoints
-special_judge: false
-time_limit: 0.4 초
-memory_limit: 1024 MB
+title: "Rectpoints"
+special_judge: "false"
+time_limit: "0.4 초"
+memory_limit: "1024 MB"
 submissions: 108
 accepted: 31
 solved_users: 26
-acceptance_rate: 31.325%
-collected_at: 2026-04-17T17:07:30.196500+00:00
+acceptance_rate: "31.325%"
+collected_at: "2026-04-17T17:07:30.196500+00:00"
 ---
 
 ## 문제

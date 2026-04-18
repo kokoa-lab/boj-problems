@@ -1,13 +1,13 @@
 ---
-title: Superknight
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Superknight"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 36
 accepted: 14
 solved_users: 11
-acceptance_rate: 35.484%
-collected_at: 2026-04-17T18:55:20.079626+00:00
+acceptance_rate: "35.484%"
+collected_at: "2026-04-17T18:55:20.079626+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 매직 스타
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "매직 스타"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 3353
 accepted: 1824
 solved_users: 1279
-acceptance_rate: 53.425%
-collected_at: 2026-04-17T10:53:53.666132+00:00
+acceptance_rate: "53.425%"
+collected_at: "2026-04-17T10:53:53.666132+00:00"
 ---
 
 ## 문제

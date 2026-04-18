@@ -1,13 +1,13 @@
 ---
-title: 텔레포트 정거장
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "텔레포트 정거장"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 3089
 accepted: 1270
 solved_users: 984
-acceptance_rate: 38.619%
-collected_at: 2026-04-17T14:57:38.463621+00:00
+acceptance_rate: "38.619%"
+collected_at: "2026-04-17T14:57:38.463621+00:00"
 ---
 
 ## 문제

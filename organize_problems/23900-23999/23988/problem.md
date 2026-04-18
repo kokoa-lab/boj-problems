@@ -1,13 +1,13 @@
 ---
-title: Let Me Count The Ways
-special_judge: false
-time_limit: 40 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Let Me Count The Ways"
+special_judge: "false"
+time_limit: "40 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 37
 accepted: 36
 solved_users: 27
-acceptance_rate: 96.429%
-collected_at: 2026-04-17T17:00:13.892693+00:00
+acceptance_rate: "96.429%"
+collected_at: "2026-04-17T17:00:13.892693+00:00"
 ---
 
 ## 문제

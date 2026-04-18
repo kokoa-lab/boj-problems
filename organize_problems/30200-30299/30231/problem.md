@@ -1,13 +1,13 @@
 ---
-title: The Duel of Smokin’ Joe
-special_judge: false
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "The Duel of Smokin’ Joe"
+special_judge: "false"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 11
 accepted: 4
 solved_users: 4
-acceptance_rate: 36.364%
-collected_at: 2026-04-17T19:01:20.820733+00:00
+acceptance_rate: "36.364%"
+collected_at: "2026-04-17T19:01:20.820733+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Кейс на рейс
-special_judge: false
-time_limit: 2 초
-memory_limit: 2048 MB
+title: "Кейс на рейс"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "2048 MB"
 submissions: 84
 accepted: 13
 solved_users: 11
-acceptance_rate: 14.286%
-collected_at: 2026-04-17T20:25:03.371225+00:00
+acceptance_rate: "14.286%"
+collected_at: "2026-04-17T20:25:03.371225+00:00"
 ---
 
 ## 문제

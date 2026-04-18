@@ -1,13 +1,13 @@
 ---
-title: The Walking Adam
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "The Walking Adam"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 2251
 accepted: 1538
 solved_users: 1457
-acceptance_rate: 68.532%
-collected_at: 2026-04-17T15:08:33.039940+00:00
+acceptance_rate: "68.532%"
+collected_at: "2026-04-17T15:08:33.039940+00:00"
 ---
 
 ## 문제

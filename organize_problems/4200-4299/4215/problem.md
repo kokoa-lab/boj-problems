@@ -1,13 +1,13 @@
 ---
-title: 비밀 프로젝트
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "비밀 프로젝트"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 248
 accepted: 34
 solved_users: 31
-acceptance_rate: 16.062%
-collected_at: 2026-04-17T10:57:23.096098+00:00
+acceptance_rate: "16.062%"
+collected_at: "2026-04-17T10:57:23.096098+00:00"
 ---
 
 ## 문제

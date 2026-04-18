@@ -1,13 +1,13 @@
 ---
-title: Neboderi
-special_judge: false
-time_limit: 2.5 초
-memory_limit: 1024 MB
+title: "Neboderi"
+special_judge: "false"
+time_limit: "2.5 초"
+memory_limit: "1024 MB"
 submissions: 77
 accepted: 29
 solved_users: 28
-acceptance_rate: 42.424%
-collected_at: 2026-04-17T17:45:05.934458+00:00
+acceptance_rate: "42.424%"
+collected_at: "2026-04-17T17:45:05.934458+00:00"
 ---
 
 ## 문제

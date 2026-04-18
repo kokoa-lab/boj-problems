@@ -1,13 +1,13 @@
 ---
-title: Purple Rain
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Purple Rain"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 171
 accepted: 86
 solved_users: 76
-acceptance_rate: 52.414%
-collected_at: 2026-04-17T13:51:31.529144+00:00
+acceptance_rate: "52.414%"
+collected_at: "2026-04-17T13:51:31.529144+00:00"
 ---
 
 ## 문제

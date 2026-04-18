@@ -1,13 +1,13 @@
 ---
-title: Sword Counting
-special_judge: false
-time_limit: 5 초
-memory_limit: 1024 MB
+title: "Sword Counting"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "1024 MB"
 submissions: 14
 accepted: 12
 solved_users: 8
-acceptance_rate: 88.889%
-collected_at: 2026-04-17T17:08:59.649213+00:00
+acceptance_rate: "88.889%"
+collected_at: "2026-04-17T17:08:59.649213+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 조건에 맞는 정수의 개수
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "조건에 맞는 정수의 개수"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 614
 accepted: 406
 solved_users: 306
-acceptance_rate: 74.092%
-collected_at: 2026-04-17T17:26:26.588189+00:00
+acceptance_rate: "74.092%"
+collected_at: "2026-04-17T17:26:26.588189+00:00"
 ---
 
 ## 문제

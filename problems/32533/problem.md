@@ -1,13 +1,13 @@
 ---
-title: Skokovi
-special_judge: false
-time_limit: 5 초
-memory_limit: 1024 MB
+title: "Skokovi"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "1024 MB"
 submissions: 65
 accepted: 47
 solved_users: 39
-acceptance_rate: 69.643%
-collected_at: 2026-04-17T19:54:35.414310+00:00
+acceptance_rate: "69.643%"
+collected_at: "2026-04-17T19:54:35.414310+00:00"
 ---
 
 ## 문제

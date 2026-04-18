@@ -1,13 +1,13 @@
 ---
-title: J박스
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "J박스"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 9660
 accepted: 4194
 solved_users: 3857
-acceptance_rate: 44.323%
-collected_at: 2026-04-17T11:13:10.556821+00:00
+acceptance_rate: "44.323%"
+collected_at: "2026-04-17T11:13:10.556821+00:00"
 ---
 
 ## 문제

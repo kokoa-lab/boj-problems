@@ -1,13 +1,13 @@
 ---
-title: Storing Eggs
-special_judge: true
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Storing Eggs"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 122
 accepted: 36
 solved_users: 25
-acceptance_rate: 30.864%
-collected_at: 2026-04-17T19:41:48.707551+00:00
+acceptance_rate: "30.864%"
+collected_at: "2026-04-17T19:41:48.707551+00:00"
 ---
 
 ## 문제

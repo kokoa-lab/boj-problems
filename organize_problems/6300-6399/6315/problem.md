@@ -1,13 +1,13 @@
 ---
-title: Video Surveillance
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Video Surveillance"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 80
 accepted: 33
 solved_users: 27
-acceptance_rate: 42.857%
-collected_at: 2026-04-17T11:24:56.336732+00:00
+acceptance_rate: "42.857%"
+collected_at: "2026-04-17T11:24:56.336732+00:00"
 ---
 
 ## 문제

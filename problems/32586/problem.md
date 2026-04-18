@@ -1,13 +1,13 @@
 ---
-title: Curious Jury
-special_judge: false
-time_limit: 3 초
-memory_limit: 1024 MB
+title: "Curious Jury"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "1024 MB"
 submissions: 15
 accepted: 14
 solved_users: 10
-acceptance_rate: 90.909%
-collected_at: 2026-04-17T19:56:40.981626+00:00
+acceptance_rate: "90.909%"
+collected_at: "2026-04-17T19:56:40.981626+00:00"
 ---
 
 ## 문제

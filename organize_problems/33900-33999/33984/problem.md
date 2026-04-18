@@ -1,13 +1,13 @@
 ---
-title: 피보나치 동전
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "피보나치 동전"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 381
 accepted: 24
 solved_users: 20
-acceptance_rate: 11.111%
-collected_at: 2026-04-17T20:28:00.578398+00:00
+acceptance_rate: "11.111%"
+collected_at: "2026-04-17T20:28:00.578398+00:00"
 ---
 
 ## 문제

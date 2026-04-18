@@ -1,13 +1,13 @@
 ---
-title: 서로소
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "서로소"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 5616
 accepted: 1239
 solved_users: 1062
-acceptance_rate: 28.051%
-collected_at: 2026-04-17T10:59:56.612536+00:00
+acceptance_rate: "28.051%"
+collected_at: "2026-04-17T10:59:56.612536+00:00"
 ---
 
 ## 문제

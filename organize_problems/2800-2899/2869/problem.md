@@ -1,13 +1,13 @@
 ---
-title: 달팽이는 올라가고 싶다
-special_judge: false
-time_limit: 0.25 초 (추가 시간 없음)
-memory_limit: 128 MB
+title: "달팽이는 올라가고 싶다"
+special_judge: "false"
+time_limit: "0.25 초 (추가 시간 없음)"
+memory_limit: "128 MB"
 submissions: 322510
 accepted: 105279
 solved_users: 84984
-acceptance_rate: 32.120%
-collected_at: 2026-04-17T10:45:22.781283+00:00
+acceptance_rate: "32.120%"
+collected_at: "2026-04-17T10:45:22.781283+00:00"
 ---
 
 ## 문제

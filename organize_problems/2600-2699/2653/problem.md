@@ -1,13 +1,13 @@
 ---
-title: 안정된 집단
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "안정된 집단"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 1214
 accepted: 445
 solved_users: 364
-acceptance_rate: 38.889%
-collected_at: 2026-04-17T10:43:41.024638+00:00
+acceptance_rate: "38.889%"
+collected_at: "2026-04-17T10:43:41.024638+00:00"
 ---
 
 ## 문제

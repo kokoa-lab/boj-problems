@@ -1,13 +1,13 @@
 ---
-title: Greatest of the Greatest Common Divisors
-special_judge: false
-time_limit: 1 초
-memory_limit: 2048 MB
+title: "Greatest of the Greatest Common Divisors"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "2048 MB"
 submissions: 120
 accepted: 41
 solved_users: 37
-acceptance_rate: 35.922%
-collected_at: 2026-04-17T20:07:21.256209+00:00
+acceptance_rate: "35.922%"
+collected_at: "2026-04-17T20:07:21.256209+00:00"
 ---
 
 ## 문제

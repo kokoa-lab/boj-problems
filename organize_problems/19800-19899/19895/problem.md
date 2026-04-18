@@ -1,13 +1,13 @@
 ---
-title: Обмен валюты
-special_judge: true
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Обмен валюты"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 48
 accepted: 24
 solved_users: 14
-acceptance_rate: 40.000%
-collected_at: 2026-04-17T15:29:01.811310+00:00
+acceptance_rate: "40.000%"
+collected_at: "2026-04-17T15:29:01.811310+00:00"
 ---
 
 ## 문제

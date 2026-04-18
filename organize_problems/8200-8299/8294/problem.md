@@ -1,13 +1,13 @@
 ---
-title: Hard Choice
-special_judge: false
-time_limit: 5 초
-memory_limit: 128 MB
+title: "Hard Choice"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "128 MB"
 submissions: 32
 accepted: 10
 solved_users: 8
-acceptance_rate: 44.444%
-collected_at: 2026-04-17T11:58:09.313917+00:00
+acceptance_rate: "44.444%"
+collected_at: "2026-04-17T11:58:09.313917+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: The Cost of Speed Limits
-special_judge: false
-time_limit: 14 초 (추가 시간 없음)
-memory_limit: 2048 MB
+title: "The Cost of Speed Limits"
+special_judge: "false"
+time_limit: "14 초 (추가 시간 없음)"
+memory_limit: "2048 MB"
 submissions: 89
 accepted: 33
 solved_users: 24
-acceptance_rate: 33.333%
-collected_at: 2026-04-17T16:43:55.093693+00:00
+acceptance_rate: "33.333%"
+collected_at: "2026-04-17T16:43:55.093693+00:00"
 ---
 
 ## 문제

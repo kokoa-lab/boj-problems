@@ -1,13 +1,13 @@
 ---
-title: ICPC Team Generation
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "ICPC Team Generation"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 77
 accepted: 41
 solved_users: 35
-acceptance_rate: 53.030%
-collected_at: 2026-04-17T19:25:31.986248+00:00
+acceptance_rate: "53.030%"
+collected_at: "2026-04-17T19:25:31.986248+00:00"
 ---
 
 ## 문제

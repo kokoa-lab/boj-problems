@@ -1,13 +1,13 @@
 ---
-title: KOLEKCIJA
-special_judge: true
-time_limit: 1 초
-memory_limit: 128 MB
+title: "KOLEKCIJA"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 62
 accepted: 15
 solved_users: 11
-acceptance_rate: 50.000%
-collected_at: 2026-04-17T10:46:00.152761+00:00
+acceptance_rate: "50.000%"
+collected_at: "2026-04-17T10:46:00.152761+00:00"
 ---
 
 ## 문제

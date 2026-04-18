@@ -1,13 +1,13 @@
 ---
-title: Intriguing Selection
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Intriguing Selection"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 103
 accepted: 24
 solved_users: 23
-acceptance_rate: 26.437%
-collected_at: 2026-04-17T15:15:16.932988+00:00
+acceptance_rate: "26.437%"
+collected_at: "2026-04-17T15:15:16.932988+00:00"
 ---
 
 ## 문제

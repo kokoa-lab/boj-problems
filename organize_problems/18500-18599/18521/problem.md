@@ -1,13 +1,13 @@
 ---
-title: Jeopardy
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Jeopardy"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 38
 accepted: 31
 solved_users: 28
-acceptance_rate: 82.353%
-collected_at: 2026-04-17T15:06:00.696468+00:00
+acceptance_rate: "82.353%"
+collected_at: "2026-04-17T15:06:00.696468+00:00"
 ---
 
 ## 문제

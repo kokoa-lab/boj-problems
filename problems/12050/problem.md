@@ -1,13 +1,13 @@
 ---
-title: Dynamic Grid (Small)
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Dynamic Grid (Small)"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 193
 accepted: 139
 solved_users: 123
-acceptance_rate: 77.848%
-collected_at: 2026-04-17T12:49:23.500292+00:00
+acceptance_rate: "77.848%"
+collected_at: "2026-04-17T12:49:23.500292+00:00"
 ---
 
 ## 문제

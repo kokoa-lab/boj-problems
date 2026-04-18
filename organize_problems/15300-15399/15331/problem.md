@@ -1,13 +1,13 @@
 ---
-title: Medical Checkup
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Medical Checkup"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 171
 accepted: 86
 solved_users: 70
-acceptance_rate: 51.095%
-collected_at: 2026-04-17T13:57:18.915688+00:00
+acceptance_rate: "51.095%"
+collected_at: "2026-04-17T13:57:18.915688+00:00"
 ---
 
 ## 문제

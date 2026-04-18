@@ -1,13 +1,13 @@
 ---
-title: Five Points
-special_judge: true
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Five Points"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 10
 accepted: 4
 solved_users: 4
-acceptance_rate: 57.143%
-collected_at: 2026-04-17T15:05:30.234262+00:00
+acceptance_rate: "57.143%"
+collected_at: "2026-04-17T15:05:30.234262+00:00"
 ---
 
 ## 문제

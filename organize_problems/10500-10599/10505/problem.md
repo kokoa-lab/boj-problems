@@ -1,13 +1,13 @@
 ---
-title: Wheels
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Wheels"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 118
 accepted: 71
 solved_users: 66
-acceptance_rate: 66.667%
-collected_at: 2026-04-17T12:24:41.938140+00:00
+acceptance_rate: "66.667%"
+collected_at: "2026-04-17T12:24:41.938140+00:00"
 ---
 
 ## 문제

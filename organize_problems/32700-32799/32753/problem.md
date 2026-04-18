@@ -1,13 +1,13 @@
 ---
-title: 네 또 수열입니다
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "네 또 수열입니다"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 803
 accepted: 336
 solved_users: 295
-acceptance_rate: 44.030%
-collected_at: 2026-04-17T20:00:33.511745+00:00
+acceptance_rate: "44.030%"
+collected_at: "2026-04-17T20:00:33.511745+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 딱지놀이
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "딱지놀이"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 10987
 accepted: 6928
 solved_users: 5686
-acceptance_rate: 65.057%
-collected_at: 2026-04-17T13:40:31.004739+00:00
+acceptance_rate: "65.057%"
+collected_at: "2026-04-17T13:40:31.004739+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 행렬 연산 (행렬 계산하기)
-special_judge: false
-time_limit: 3 초
-memory_limit: 1024 MB
+title: "행렬 연산 (행렬 계산하기)"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "1024 MB"
 submissions: 1948
 accepted: 998
 solved_users: 848
-acceptance_rate: 54.464%
-collected_at: 2026-04-17T18:26:43.492004+00:00
+acceptance_rate: "54.464%"
+collected_at: "2026-04-17T18:26:43.492004+00:00"
 ---
 
 ## 문제

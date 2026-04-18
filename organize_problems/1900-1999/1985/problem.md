@@ -1,13 +1,13 @@
 ---
-title: 디지털 친구
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "디지털 친구"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 746
 accepted: 259
 solved_users: 207
-acceptance_rate: 39.429%
-collected_at: 2026-04-17T10:36:42.092465+00:00
+acceptance_rate: "39.429%"
+collected_at: "2026-04-17T10:36:42.092465+00:00"
 ---
 
 ## 문제

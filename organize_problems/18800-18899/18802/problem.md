@@ -1,13 +1,13 @@
 ---
-title: Bridge Construction
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "Bridge Construction"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 103
 accepted: 26
 solved_users: 22
-acceptance_rate: 30.137%
-collected_at: 2026-04-17T15:09:50.863718+00:00
+acceptance_rate: "30.137%"
+collected_at: "2026-04-17T15:09:50.863718+00:00"
 ---
 
 ## 문제

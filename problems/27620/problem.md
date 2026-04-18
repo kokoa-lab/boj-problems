@@ -1,13 +1,13 @@
 ---
-title: Which Warehouse?
-special_judge: false
-time_limit: 3 초
-memory_limit: 1024 MB
+title: "Which Warehouse?"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "1024 MB"
 submissions: 55
 accepted: 34
 solved_users: 25
-acceptance_rate: 60.976%
-collected_at: 2026-04-17T18:07:40.110512+00:00
+acceptance_rate: "60.976%"
+collected_at: "2026-04-17T18:07:40.110512+00:00"
 ---
 
 ## 문제

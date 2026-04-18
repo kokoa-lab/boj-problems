@@ -1,13 +1,13 @@
 ---
-title: Average
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Average"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 117
 accepted: 54
 solved_users: 45
-acceptance_rate: 47.368%
-collected_at: 2026-04-17T13:21:35.355102+00:00
+acceptance_rate: "47.368%"
+collected_at: "2026-04-17T13:21:35.355102+00:00"
 ---
 
 ## 문제

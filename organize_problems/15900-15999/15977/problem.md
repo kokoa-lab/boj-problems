@@ -1,13 +1,13 @@
 ---
-title: 조화로운 행렬
-special_judge: false
-time_limit: 5 초
-memory_limit: 768 MB
+title: "조화로운 행렬"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "768 MB"
 submissions: 2119
 accepted: 672
 solved_users: 423
-acceptance_rate: 29.092%
-collected_at: 2026-04-17T14:09:26.065576+00:00
+acceptance_rate: "29.092%"
+collected_at: "2026-04-17T14:09:26.065576+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Tribute
-special_judge: false
-time_limit: 15 초
-memory_limit: 512 MB
+title: "Tribute"
+special_judge: "false"
+time_limit: "15 초"
+memory_limit: "512 MB"
 submissions: 68
 accepted: 38
 solved_users: 34
-acceptance_rate: 56.667%
-collected_at: 2026-04-17T15:15:46.581683+00:00
+acceptance_rate: "56.667%"
+collected_at: "2026-04-17T15:15:46.581683+00:00"
 ---
 
 ## 문제

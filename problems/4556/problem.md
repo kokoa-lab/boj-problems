@@ -1,13 +1,13 @@
 ---
-title: Relative Relatives
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Relative Relatives"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 54
 accepted: 42
 solved_users: 25
-acceptance_rate: 67.568%
-collected_at: 2026-04-17T11:03:55.996447+00:00
+acceptance_rate: "67.568%"
+collected_at: "2026-04-17T11:03:55.996447+00:00"
 ---
 
 ## 문제

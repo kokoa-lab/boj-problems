@@ -1,13 +1,13 @@
 ---
-title: Cow Jog
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Cow Jog"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 576
 accepted: 218
 solved_users: 178
-acceptance_rate: 37.712%
-collected_at: 2026-04-17T12:26:57.959774+00:00
+acceptance_rate: "37.712%"
+collected_at: "2026-04-17T12:26:57.959774+00:00"
 ---
 
 ## 문제

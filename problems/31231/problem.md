@@ -1,13 +1,13 @@
 ---
-title: 마카롱카마
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "마카롱카마"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 564
 accepted: 97
 solved_users: 77
-acceptance_rate: 20.811%
-collected_at: 2026-04-17T19:24:21.120367+00:00
+acceptance_rate: "20.811%"
+collected_at: "2026-04-17T19:24:21.120367+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 세탁소 사장 동혁
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "세탁소 사장 동혁"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 64435
 accepted: 44668
 solved_users: 39647
-acceptance_rate: 69.664%
-collected_at: 2026-04-17T10:44:14.968888+00:00
+acceptance_rate: "69.664%"
+collected_at: "2026-04-17T10:44:14.968888+00:00"
 ---
 
 ## 문제

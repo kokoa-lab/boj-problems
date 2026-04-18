@@ -1,13 +1,13 @@
 ---
-title: 재미있는 숫자 놀이
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "재미있는 숫자 놀이"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 637
 accepted: 264
 solved_users: 188
-acceptance_rate: 38.683%
-collected_at: 2026-04-17T13:04:21.998058+00:00
+acceptance_rate: "38.683%"
+collected_at: "2026-04-17T13:04:21.998058+00:00"
 ---
 
 ## 문제

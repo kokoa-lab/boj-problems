@@ -1,13 +1,13 @@
 ---
-title: Здоровое питание
-special_judge: false
-time_limit: 4 초
-memory_limit: 1024 MB
+title: "Здоровое питание"
+special_judge: "false"
+time_limit: "4 초"
+memory_limit: "1024 MB"
 submissions: 26
 accepted: 11
 solved_users: 6
-acceptance_rate: 40.000%
-collected_at: 2026-04-17T15:59:37.466494+00:00
+acceptance_rate: "40.000%"
+collected_at: "2026-04-17T15:59:37.466494+00:00"
 ---
 
 ## 문제

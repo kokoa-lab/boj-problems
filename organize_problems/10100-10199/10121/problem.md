@@ -1,13 +1,13 @@
 ---
-title: Salad Bar
-special_judge: false
-time_limit: 3 초
-memory_limit: 256 MB
+title: "Salad Bar"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "256 MB"
 submissions: 432
 accepted: 122
 solved_users: 98
-acceptance_rate: 30.721%
-collected_at: 2026-04-17T12:19:16.409344+00:00
+acceptance_rate: "30.721%"
+collected_at: "2026-04-17T12:19:16.409344+00:00"
 ---
 
 ## 문제

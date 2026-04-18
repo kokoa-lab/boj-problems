@@ -1,13 +1,13 @@
 ---
-title: Squawk Virus
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Squawk Virus"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 110
 accepted: 64
 solved_users: 52
-acceptance_rate: 59.770%
-collected_at: 2026-04-17T12:45:36.326969+00:00
+acceptance_rate: "59.770%"
+collected_at: "2026-04-17T12:45:36.326969+00:00"
 ---
 
 ## 문제

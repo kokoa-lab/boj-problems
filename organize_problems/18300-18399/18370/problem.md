@@ -1,13 +1,13 @@
 ---
-title: Highway modernization
-special_judge: true
-time_limit: 3 초
-memory_limit: 512 MB
+title: "Highway modernization"
+special_judge: "true"
+time_limit: "3 초"
+memory_limit: "512 MB"
 submissions: 20
 accepted: 9
 solved_users: 9
-acceptance_rate: 50.000%
-collected_at: 2026-04-17T15:01:09.044391+00:00
+acceptance_rate: "50.000%"
+collected_at: "2026-04-17T15:01:09.044391+00:00"
 ---
 
 ## 문제

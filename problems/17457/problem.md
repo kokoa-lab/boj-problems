@@ -1,13 +1,13 @@
 ---
-title: Hard To Explain
-special_judge: false
-time_limit: 3 초
-memory_limit: 1024 MB
+title: "Hard To Explain"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "1024 MB"
 submissions: 165
 accepted: 61
 solved_users: 23
-acceptance_rate: 35.385%
-collected_at: 2026-04-17T14:39:49.511189+00:00
+acceptance_rate: "35.385%"
+collected_at: "2026-04-17T14:39:49.511189+00:00"
 ---
 
 ## 문제

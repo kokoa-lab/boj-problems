@@ -1,13 +1,13 @@
 ---
-title: 십자가 2개 놓기
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "십자가 2개 놓기"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 3026
 accepted: 999
 solved_users: 755
-acceptance_rate: 33.363%
-collected_at: 2026-04-17T14:29:13.946380+00:00
+acceptance_rate: "33.363%"
+collected_at: "2026-04-17T14:29:13.946380+00:00"
 ---
 
 ## 문제

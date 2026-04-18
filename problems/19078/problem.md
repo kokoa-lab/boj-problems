@@ -1,13 +1,13 @@
 ---
-title: New Divide
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "New Divide"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 29
 accepted: 21
 solved_users: 19
-acceptance_rate: 73.077%
-collected_at: 2026-04-17T15:13:10.963594+00:00
+acceptance_rate: "73.077%"
+collected_at: "2026-04-17T15:13:10.963594+00:00"
 ---
 
 ## 문제

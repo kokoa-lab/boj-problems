@@ -1,13 +1,13 @@
 ---
-title: 정보대 등산
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "정보대 등산"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 1582
 accepted: 677
 solved_users: 581
-acceptance_rate: 42.878%
-collected_at: 2026-04-17T13:02:16.702232+00:00
+acceptance_rate: "42.878%"
+collected_at: "2026-04-17T13:02:16.702232+00:00"
 ---
 
 ## 문제

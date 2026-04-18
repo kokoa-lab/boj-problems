@@ -1,13 +1,13 @@
 ---
-title: TAXI ROUTES
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "TAXI ROUTES"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 84
 accepted: 66
 solved_users: 60
-acceptance_rate: 81.081%
-collected_at: 2026-04-17T12:08:08.611625+00:00
+acceptance_rate: "81.081%"
+collected_at: "2026-04-17T12:08:08.611625+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Inverse Move-to-Front Transform
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "Inverse Move-to-Front Transform"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 273
 accepted: 252
 solved_users: 228
-acceptance_rate: 91.935%
-collected_at: 2026-04-17T12:34:54.270114+00:00
+acceptance_rate: "91.935%"
+collected_at: "2026-04-17T12:34:54.270114+00:00"
 ---
 
 ## 문제

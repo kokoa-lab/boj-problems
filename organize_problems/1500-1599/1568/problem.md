@@ -1,13 +1,13 @@
 ---
-title: 새
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "새"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 9808
 accepted: 7363
 solved_users: 6598
-acceptance_rate: 76.419%
-collected_at: 2026-04-17T10:31:14.687081+00:00
+acceptance_rate: "76.419%"
+collected_at: "2026-04-17T10:31:14.687081+00:00"
 ---
 
 ## 문제

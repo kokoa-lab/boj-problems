@@ -1,13 +1,13 @@
 ---
-title: XORanges
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "XORanges"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 162
 accepted: 96
 solved_users: 66
-acceptance_rate: 61.682%
-collected_at: 2026-04-17T14:43:10.999764+00:00
+acceptance_rate: "61.682%"
+collected_at: "2026-04-17T14:43:10.999764+00:00"
 ---
 
 ## 문제

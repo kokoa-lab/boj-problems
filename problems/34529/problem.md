@@ -1,13 +1,13 @@
 ---
-title: Acquiring SW-IT Corn
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Acquiring SW-IT Corn"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 816
 accepted: 709
 solved_users: 670
-acceptance_rate: 87.126%
-collected_at: 2026-04-17T20:42:07.765435+00:00
+acceptance_rate: "87.126%"
+collected_at: "2026-04-17T20:42:07.765435+00:00"
 ---
 
 ## 문제

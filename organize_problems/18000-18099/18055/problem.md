@@ -1,13 +1,13 @@
 ---
-title: Bouldering
-special_judge: true
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Bouldering"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 88
 accepted: 17
 solved_users: 17
-acceptance_rate: 25.000%
-collected_at: 2026-04-17T14:54:27.888309+00:00
+acceptance_rate: "25.000%"
+collected_at: "2026-04-17T14:54:27.888309+00:00"
 ---
 
 ## 문제

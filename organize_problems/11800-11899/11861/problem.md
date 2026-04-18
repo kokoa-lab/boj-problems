@@ -1,13 +1,13 @@
 ---
-title: Maximal Area
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "Maximal Area"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 770
 accepted: 485
 solved_users: 448
-acceptance_rate: 63.456%
-collected_at: 2026-04-17T12:47:05.157762+00:00
+acceptance_rate: "63.456%"
+collected_at: "2026-04-17T12:47:05.157762+00:00"
 ---
 
 ## 문제

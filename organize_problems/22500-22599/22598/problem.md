@@ -1,13 +1,13 @@
 ---
-title: Approximate Circle
-special_judge: true
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Approximate Circle"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 98
 accepted: 36
 solved_users: 15
-acceptance_rate: 32.609%
-collected_at: 2026-04-17T16:27:34.733178+00:00
+acceptance_rate: "32.609%"
+collected_at: "2026-04-17T16:27:34.733178+00:00"
 ---
 
 ## 문제

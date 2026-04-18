@@ -1,13 +1,13 @@
 ---
-title: 숫자 카드 2
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "숫자 카드 2"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 205439
 accepted: 85757
 solved_users: 60878
-acceptance_rate: 39.751%
-collected_at: 2026-04-17T12:29:56.696232+00:00
+acceptance_rate: "39.751%"
+collected_at: "2026-04-17T12:29:56.696232+00:00"
 ---
 
 ## 문제

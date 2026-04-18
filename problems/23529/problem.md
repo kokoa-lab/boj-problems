@@ -1,13 +1,13 @@
 ---
-title: Sum of Distances in Cactus
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 256 MB
+title: "Sum of Distances in Cactus"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "256 MB"
 submissions: 48
 accepted: 7
 solved_users: 6
-acceptance_rate: 13.043%
-collected_at: 2026-04-17T16:49:42.896922+00:00
+acceptance_rate: "13.043%"
+collected_at: "2026-04-17T16:49:42.896922+00:00"
 ---
 
 ## 문제

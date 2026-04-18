@@ -1,13 +1,13 @@
 ---
-title: Image
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Image"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 66
 accepted: 60
 solved_users: 54
-acceptance_rate: 96.429%
-collected_at: 2026-04-17T12:16:37.605373+00:00
+acceptance_rate: "96.429%"
+collected_at: "2026-04-17T12:16:37.605373+00:00"
 ---
 
 ## 문제

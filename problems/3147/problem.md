@@ -1,13 +1,13 @@
 ---
-title: LIJEN
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "LIJEN"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 24
 accepted: 7
 solved_users: 3
-acceptance_rate: 75.000%
-collected_at: 2026-04-17T10:47:00.448050+00:00
+acceptance_rate: "75.000%"
+collected_at: "2026-04-17T10:47:00.448050+00:00"
 ---
 
 ## 문제

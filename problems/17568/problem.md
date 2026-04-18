@@ -1,13 +1,13 @@
 ---
-title: Dynamo Wheel
-special_judge: true
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Dynamo Wheel"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 54
 accepted: 26
 solved_users: 8
-acceptance_rate: 34.783%
-collected_at: 2026-04-17T14:42:00.574106+00:00
+acceptance_rate: "34.783%"
+collected_at: "2026-04-17T14:42:00.574106+00:00"
 ---
 
 ## 문제

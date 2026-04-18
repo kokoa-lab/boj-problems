@@ -1,13 +1,13 @@
 ---
-title: Два измерения
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Два измерения"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 67
 accepted: 46
 solved_users: 38
-acceptance_rate: 77.551%
-collected_at: 2026-04-17T15:29:06.009534+00:00
+acceptance_rate: "77.551%"
+collected_at: "2026-04-17T15:29:06.009534+00:00"
 ---
 
 ## 문제

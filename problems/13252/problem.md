@@ -1,13 +1,13 @@
 ---
-title: 카지노
-special_judge: true
-time_limit: 2 초
-memory_limit: 512 MB
+title: "카지노"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 166
 accepted: 97
 solved_users: 81
-acceptance_rate: 77.885%
-collected_at: 2026-04-17T13:10:12.433153+00:00
+acceptance_rate: "77.885%"
+collected_at: "2026-04-17T13:10:12.433153+00:00"
 ---
 
 ## 문제

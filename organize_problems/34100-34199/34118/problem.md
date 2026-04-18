@@ -1,13 +1,13 @@
 ---
-title: 부산 관광
-special_judge: false
-time_limit: 3 초 (추가 시간 없음)
-memory_limit: 2048 MB
+title: "부산 관광"
+special_judge: "false"
+time_limit: "3 초 (추가 시간 없음)"
+memory_limit: "2048 MB"
 submissions: 1123
 accepted: 294
 solved_users: 236
-acceptance_rate: 31.849%
-collected_at: 2026-04-17T20:31:01.598309+00:00
+acceptance_rate: "31.849%"
+collected_at: "2026-04-17T20:31:01.598309+00:00"
 ---
 
 ## 문제

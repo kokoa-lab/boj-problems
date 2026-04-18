@@ -1,13 +1,13 @@
 ---
-title: Luck Manipulator
-special_judge: false
-time_limit: 8 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "Luck Manipulator"
+special_judge: "false"
+time_limit: "8 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 47
 accepted: 39
 solved_users: 33
-acceptance_rate: 82.500%
-collected_at: 2026-04-17T16:28:05.654385+00:00
+acceptance_rate: "82.500%"
+collected_at: "2026-04-17T16:28:05.654385+00:00"
 ---
 
 ## 문제

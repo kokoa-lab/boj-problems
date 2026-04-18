@@ -1,13 +1,13 @@
 ---
-title: Boat
-special_judge: false
-time_limit: 1 초
-memory_limit: 2048 MB
+title: "Boat"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "2048 MB"
 submissions: 51
 accepted: 17
 solved_users: 15
-acceptance_rate: 33.333%
-collected_at: 2026-04-17T20:11:14.723161+00:00
+acceptance_rate: "33.333%"
+collected_at: "2026-04-17T20:11:14.723161+00:00"
 ---
 
 ## 문제

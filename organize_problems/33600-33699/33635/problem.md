@@ -1,13 +1,13 @@
 ---
-title: ─점심시간─
-special_judge: false
-time_limit: 1.5 초
-memory_limit: 1024 MB
+title: "─점심시간─"
+special_judge: "false"
+time_limit: "1.5 초"
+memory_limit: "1024 MB"
 submissions: 206
 accepted: 107
 solved_users: 76
-acceptance_rate: 53.901%
-collected_at: 2026-04-17T20:20:26.985693+00:00
+acceptance_rate: "53.901%"
+collected_at: "2026-04-17T20:20:26.985693+00:00"
 ---
 
 ## 문제

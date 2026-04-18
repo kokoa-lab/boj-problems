@@ -1,13 +1,13 @@
 ---
-title: How to Learn You Score
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "How to Learn You Score"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 32
 accepted: 14
 solved_users: 13
-acceptance_rate: 52.000%
-collected_at: 2026-04-17T15:28:12.091731+00:00
+acceptance_rate: "52.000%"
+collected_at: "2026-04-17T15:28:12.091731+00:00"
 ---
 
 ## 문제

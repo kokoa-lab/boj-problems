@@ -1,13 +1,13 @@
 ---
-title: FarmCraft
-special_judge: false
-time_limit: 3 초
-memory_limit: 256 MB
+title: "FarmCraft"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "256 MB"
 submissions: 347
 accepted: 126
 solved_users: 107
-acceptance_rate: 34.295%
-collected_at: 2026-04-17T12:19:25.546428+00:00
+acceptance_rate: "34.295%"
+collected_at: "2026-04-17T12:19:25.546428+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 양말 부자 동우와 착한 하늘이
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "양말 부자 동우와 착한 하늘이"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 91
 accepted: 65
 solved_users: 52
-acceptance_rate: 70.270%
-collected_at: 2026-04-17T18:30:52.493948+00:00
+acceptance_rate: "70.270%"
+collected_at: "2026-04-17T18:30:52.493948+00:00"
 ---
 
 ## 문제

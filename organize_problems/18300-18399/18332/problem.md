@@ -1,13 +1,13 @@
 ---
-title: Valid Emails
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Valid Emails"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 316
 accepted: 67
 solved_users: 52
-acceptance_rate: 22.707%
-collected_at: 2026-04-17T15:00:00.026142+00:00
+acceptance_rate: "22.707%"
+collected_at: "2026-04-17T15:00:00.026142+00:00"
 ---
 
 ## 문제

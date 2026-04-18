@@ -1,13 +1,13 @@
 ---
-title: Utilitarianism 2
-special_judge: false
-time_limit: 7 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Utilitarianism 2"
+special_judge: "false"
+time_limit: "7 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 31
 accepted: 11
 solved_users: 9
-acceptance_rate: 42.857%
-collected_at: 2026-04-17T16:43:45.587385+00:00
+acceptance_rate: "42.857%"
+collected_at: "2026-04-17T16:43:45.587385+00:00"
 ---
 
 ## 문제

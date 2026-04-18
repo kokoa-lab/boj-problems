@@ -1,13 +1,13 @@
 ---
-title: 반짝반짝 빛나는 별가루
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "반짝반짝 빛나는 별가루"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 1069
 accepted: 274
 solved_users: 230
-acceptance_rate: 28.256%
-collected_at: 2026-04-17T19:12:14.187788+00:00
+acceptance_rate: "28.256%"
+collected_at: "2026-04-17T19:12:14.187788+00:00"
 ---
 
 ## 문제

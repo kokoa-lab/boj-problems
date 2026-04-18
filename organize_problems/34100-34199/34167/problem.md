@@ -1,13 +1,13 @@
 ---
-title: Hello, MatKor Cup!
-special_judge: false
-time_limit: 0.5 초 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "Hello, MatKor Cup!"
+special_judge: "false"
+time_limit: "0.5 초 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 259
 accepted: 23
 solved_users: 18
-acceptance_rate: 22.785%
-collected_at: 2026-04-17T20:32:08.169461+00:00
+acceptance_rate: "22.785%"
+collected_at: "2026-04-17T20:32:08.169461+00:00"
 ---
 
 ## 문제

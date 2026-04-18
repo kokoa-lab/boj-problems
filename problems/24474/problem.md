@@ -1,13 +1,13 @@
 ---
-title: Intercastellar
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Intercastellar"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 236
 accepted: 148
 solved_users: 123
-acceptance_rate: 66.848%
-collected_at: 2026-04-17T17:09:58.195864+00:00
+acceptance_rate: "66.848%"
+collected_at: "2026-04-17T17:09:58.195864+00:00"
 ---
 
 ## 문제

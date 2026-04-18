@@ -1,13 +1,13 @@
 ---
-title: 아이폰 9S
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "아이폰 9S"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 2879
 accepted: 1250
 solved_users: 1017
-acceptance_rate: 43.093%
-collected_at: 2026-04-17T11:18:15.731152+00:00
+acceptance_rate: "43.093%"
+collected_at: "2026-04-17T11:18:15.731152+00:00"
 ---
 
 ## 문제

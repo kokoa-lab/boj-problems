@@ -1,13 +1,13 @@
 ---
-title: 독수리
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "독수리"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 586
 accepted: 356
 solved_users: 258
-acceptance_rate: 62.621%
-collected_at: 2026-04-17T14:14:11.065281+00:00
+acceptance_rate: "62.621%"
+collected_at: "2026-04-17T14:14:11.065281+00:00"
 ---
 
 ## 문제

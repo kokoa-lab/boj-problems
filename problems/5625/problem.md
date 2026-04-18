@@ -1,13 +1,13 @@
 ---
-title: 페스트리
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "페스트리"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 415
 accepted: 198
 solved_users: 157
-acceptance_rate: 48.910%
-collected_at: 2026-04-17T11:16:06.258230+00:00
+acceptance_rate: "48.910%"
+collected_at: "2026-04-17T11:16:06.258230+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Fortune Telling 2
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "Fortune Telling 2"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 330
 accepted: 163
 solved_users: 140
-acceptance_rate: 50.725%
-collected_at: 2026-04-17T12:47:52.987194+00:00
+acceptance_rate: "50.725%"
+collected_at: "2026-04-17T12:47:52.987194+00:00"
 ---
 
 ## 문제

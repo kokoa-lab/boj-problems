@@ -1,13 +1,13 @@
 ---
-title: Play on Words
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Play on Words"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 41
 accepted: 17
 solved_users: 15
-acceptance_rate: 40.541%
-collected_at: 2026-04-17T10:49:12.109504+00:00
+acceptance_rate: "40.541%"
+collected_at: "2026-04-17T10:49:12.109504+00:00"
 ---
 
 ## 문제

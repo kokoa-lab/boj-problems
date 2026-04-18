@@ -1,13 +1,13 @@
 ---
-title: 말 타기
-special_judge: true
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "말 타기"
+special_judge: "true"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 296
 accepted: 236
 solved_users: 213
-acceptance_rate: 79.478%
-collected_at: 2026-04-17T14:18:50.863716+00:00
+acceptance_rate: "79.478%"
+collected_at: "2026-04-17T14:18:50.863716+00:00"
 ---
 
 ## 문제

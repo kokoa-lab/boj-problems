@@ -1,13 +1,13 @@
 ---
-title: 돌려막기
-special_judge: false
-time_limit: 0.1 초
-memory_limit: 256 MB
+title: "돌려막기"
+special_judge: "false"
+time_limit: "0.1 초"
+memory_limit: "256 MB"
 submissions: 622
 accepted: 367
 solved_users: 335
-acceptance_rate: 59.609%
-collected_at: 2026-04-17T14:33:03.891117+00:00
+acceptance_rate: "59.609%"
+collected_at: "2026-04-17T14:33:03.891117+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Jaki Jovsi
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Jaki Jovsi"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 55
 accepted: 28
 solved_users: 24
-acceptance_rate: 51.064%
-collected_at: 2026-04-17T14:58:31.484426+00:00
+acceptance_rate: "51.064%"
+collected_at: "2026-04-17T14:58:31.484426+00:00"
 ---
 
 ## 문제

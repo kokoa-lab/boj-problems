@@ -1,13 +1,13 @@
 ---
-title: Run Bajtocja
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Run Bajtocja"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 97
 accepted: 61
 solved_users: 47
-acceptance_rate: 63.514%
-collected_at: 2026-04-17T12:01:17.969557+00:00
+acceptance_rate: "63.514%"
+collected_at: "2026-04-17T12:01:17.969557+00:00"
 ---
 
 ## 문제

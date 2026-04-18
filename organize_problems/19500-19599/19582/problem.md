@@ -1,13 +1,13 @@
 ---
-title: 200년간 폐관수련했더니 PS 최강자가 된 건에 대하여
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "200년간 폐관수련했더니 PS 최강자가 된 건에 대하여"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 2701
 accepted: 650
 solved_users: 513
-acceptance_rate: 25.172%
-collected_at: 2026-04-17T15:23:43.517524+00:00
+acceptance_rate: "25.172%"
+collected_at: "2026-04-17T15:23:43.517524+00:00"
 ---
 
 ## 문제

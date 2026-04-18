@@ -1,13 +1,13 @@
 ---
-title: Forever and Always
-special_judge: true
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Forever and Always"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 31
 accepted: 13
 solved_users: 13
-acceptance_rate: 54.167%
-collected_at: 2026-04-17T15:16:45.333866+00:00
+acceptance_rate: "54.167%"
+collected_at: "2026-04-17T15:16:45.333866+00:00"
 ---
 
 ## 문제

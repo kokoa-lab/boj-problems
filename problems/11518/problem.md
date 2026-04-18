@@ -1,13 +1,13 @@
 ---
-title: Morse
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Morse"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 150
 accepted: 111
 solved_users: 91
-acceptance_rate: 71.654%
-collected_at: 2026-04-17T12:41:43.960982+00:00
+acceptance_rate: "71.654%"
+collected_at: "2026-04-17T12:41:43.960982+00:00"
 ---
 
 ## 문제

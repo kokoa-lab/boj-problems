@@ -1,13 +1,13 @@
 ---
-title: Oil Pipeline
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Oil Pipeline"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 28
 accepted: 4
 solved_users: 4
-acceptance_rate: 14.286%
-collected_at: 2026-04-17T11:06:32.011824+00:00
+acceptance_rate: "14.286%"
+collected_at: "2026-04-17T11:06:32.011824+00:00"
 ---
 
 ## 문제

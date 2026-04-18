@@ -1,13 +1,13 @@
 ---
-title: Even Up Solitaire
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "Even Up Solitaire"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 163
 accepted: 119
 solved_users: 99
-acceptance_rate: 79.839%
-collected_at: 2026-04-17T12:24:28.403744+00:00
+acceptance_rate: "79.839%"
+collected_at: "2026-04-17T12:24:28.403744+00:00"
 ---
 
 ## 문제

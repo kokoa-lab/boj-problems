@@ -1,13 +1,13 @@
 ---
-title: Italian Calzone & Pasta Corner
-special_judge: false
-time_limit: 3.5 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Italian Calzone & Pasta Corner"
+special_judge: "false"
+time_limit: "3.5 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 164
 accepted: 80
 solved_users: 66
-acceptance_rate: 52.381%
-collected_at: 2026-04-17T18:17:20.916297+00:00
+acceptance_rate: "52.381%"
+collected_at: "2026-04-17T18:17:20.916297+00:00"
 ---
 
 ## 문제

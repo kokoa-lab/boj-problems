@@ -1,13 +1,13 @@
 ---
-title: Eggfruit Cake
-special_judge: false
-time_limit: 0.1 초
-memory_limit: 512 MB
+title: "Eggfruit Cake"
+special_judge: "false"
+time_limit: "0.1 초"
+memory_limit: "512 MB"
 submissions: 121
 accepted: 72
 solved_users: 71
-acceptance_rate: 60.684%
-collected_at: 2026-04-17T14:53:23.943279+00:00
+acceptance_rate: "60.684%"
+collected_at: "2026-04-17T14:53:23.943279+00:00"
 ---
 
 ## 문제

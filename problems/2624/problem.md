@@ -1,13 +1,13 @@
 ---
-title: 동전 바꿔주기
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "동전 바꿔주기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 8629
 accepted: 4208
 solved_users: 2981
-acceptance_rate: 49.883%
-collected_at: 2026-04-17T10:43:23.653250+00:00
+acceptance_rate: "49.883%"
+collected_at: "2026-04-17T10:43:23.653250+00:00"
 ---
 
 ## 문제

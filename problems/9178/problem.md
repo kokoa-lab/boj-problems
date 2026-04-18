@@ -1,13 +1,13 @@
 ---
-title: Jill’s Tour Paths
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Jill’s Tour Paths"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 69
 accepted: 35
 solved_users: 19
-acceptance_rate: 46.341%
-collected_at: 2026-04-17T12:07:46.998765+00:00
+acceptance_rate: "46.341%"
+collected_at: "2026-04-17T12:07:46.998765+00:00"
 ---
 
 ## 문제

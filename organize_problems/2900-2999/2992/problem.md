@@ -1,13 +1,13 @@
 ---
-title: 크면서 작은 수
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "크면서 작은 수"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 4952
 accepted: 3002
 solved_users: 2454
-acceptance_rate: 61.829%
-collected_at: 2026-04-17T10:46:06.972940+00:00
+acceptance_rate: "61.829%"
+collected_at: "2026-04-17T10:46:06.972940+00:00"
 ---
 
 ## 문제

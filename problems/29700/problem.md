@@ -1,13 +1,13 @@
 ---
-title: 우당탕탕 영화예매
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "우당탕탕 영화예매"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 1608
 accepted: 1015
 solved_users: 816
-acceptance_rate: 63.551%
-collected_at: 2026-04-17T18:51:02.983600+00:00
+acceptance_rate: "63.551%"
+collected_at: "2026-04-17T18:51:02.983600+00:00"
 ---
 
 ## 문제

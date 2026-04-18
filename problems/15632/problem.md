@@ -1,13 +1,13 @@
 ---
-title: Drawing Character
-special_judge: true
-time_limit: 0.1 초  ( 하단 참고 )
-memory_limit: 256 MB
+title: "Drawing Character"
+special_judge: "true"
+time_limit: "0.1 초  ( 하단 참고 )"
+memory_limit: "256 MB"
 submissions: 1010
 accepted: 125
 solved_users: 58
-acceptance_rate: 9.280%
-collected_at: 2026-04-17T14:02:56.629275+00:00
+acceptance_rate: "9.280%"
+collected_at: "2026-04-17T14:02:56.629275+00:00"
 ---
 
 ## 문제

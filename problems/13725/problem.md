@@ -1,13 +1,13 @@
 ---
-title: RNG
-special_judge: false
-time_limit: 15 초
-memory_limit: 512 MB
+title: "RNG"
+special_judge: "false"
+time_limit: "15 초"
+memory_limit: "512 MB"
 submissions: 885
 accepted: 330
 solved_users: 150
-acceptance_rate: 34.483%
-collected_at: 2026-04-17T13:18:02.794237+00:00
+acceptance_rate: "34.483%"
+collected_at: "2026-04-17T13:18:02.794237+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Šah
-special_judge: false
-time_limit: 3 초
-memory_limit: 2048 MB
+title: "Šah"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "2048 MB"
 submissions: 60
 accepted: 49
 solved_users: 29
-acceptance_rate: 82.857%
-collected_at: 2026-04-17T20:16:31.363741+00:00
+acceptance_rate: "82.857%"
+collected_at: "2026-04-17T20:16:31.363741+00:00"
 ---
 
 ## 문제

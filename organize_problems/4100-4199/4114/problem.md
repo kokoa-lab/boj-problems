@@ -1,13 +1,13 @@
 ---
-title: The Heart of the Country
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "The Heart of the Country"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 23
 accepted: 15
 solved_users: 15
-acceptance_rate: 68.182%
-collected_at: 2026-04-17T10:56:03.438970+00:00
+acceptance_rate: "68.182%"
+collected_at: "2026-04-17T10:56:03.438970+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: UFO Rectangles
-special_judge: true
-time_limit: 2 초
-memory_limit: 512 MB
+title: "UFO Rectangles"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 3
 accepted: 1
 solved_users: 1
-acceptance_rate: 33.333%
-collected_at: 2026-04-17T15:18:54.198384+00:00
+acceptance_rate: "33.333%"
+collected_at: "2026-04-17T15:18:54.198384+00:00"
 ---
 
 ## 문제

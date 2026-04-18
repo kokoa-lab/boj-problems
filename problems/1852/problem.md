@@ -1,13 +1,13 @@
 ---
-title: 수 묶기
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "수 묶기"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 386
 accepted: 137
 solved_users: 106
-acceptance_rate: 35.690%
-collected_at: 2026-04-17T10:34:46.076033+00:00
+acceptance_rate: "35.690%"
+collected_at: "2026-04-17T10:34:46.076033+00:00"
 ---
 
 ## 문제

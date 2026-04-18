@@ -1,13 +1,13 @@
 ---
-title: Volta
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Volta"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 981
 accepted: 791
 solved_users: 732
-acceptance_rate: 81.788%
-collected_at: 2026-04-17T13:16:03.754696+00:00
+acceptance_rate: "81.788%"
+collected_at: "2026-04-17T13:16:03.754696+00:00"
 ---
 
 ## 문제

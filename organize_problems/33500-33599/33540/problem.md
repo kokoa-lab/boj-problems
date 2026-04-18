@@ -1,13 +1,13 @@
 ---
-title: Helping Out
-special_judge: false
-time_limit: 1 초
-memory_limit: 2048 MB
+title: "Helping Out"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "2048 MB"
 submissions: 122
 accepted: 111
 solved_users: 90
-acceptance_rate: 93.750%
-collected_at: 2026-04-17T20:18:28.996211+00:00
+acceptance_rate: "93.750%"
+collected_at: "2026-04-17T20:18:28.996211+00:00"
 ---
 
 ## 문제

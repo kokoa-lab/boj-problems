@@ -1,13 +1,13 @@
 ---
-title: Distance Sum Maximization
-special_judge: false
-time_limit: 3 초 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "Distance Sum Maximization"
+special_judge: "false"
+time_limit: "3 초 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 184
 accepted: 86
 solved_users: 74
-acceptance_rate: 51.034%
-collected_at: 2026-04-17T19:43:30.238241+00:00
+acceptance_rate: "51.034%"
+collected_at: "2026-04-17T19:43:30.238241+00:00"
 ---
 
 ## 문제

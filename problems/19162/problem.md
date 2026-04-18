@@ -1,13 +1,13 @@
 ---
-title: Twin Buildings
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Twin Buildings"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 71
 accepted: 41
 solved_users: 40
-acceptance_rate: 70.175%
-collected_at: 2026-04-17T15:14:26.445291+00:00
+acceptance_rate: "70.175%"
+collected_at: "2026-04-17T15:14:26.445291+00:00"
 ---
 
 ## 문제

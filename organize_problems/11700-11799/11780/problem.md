@@ -1,13 +1,13 @@
 ---
-title: 플로이드 2
-special_judge: true
-time_limit: 1 초
-memory_limit: 256 MB
+title: "플로이드 2"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 13732
 accepted: 6260
 solved_users: 4908
-acceptance_rate: 46.650%
-collected_at: 2026-04-17T12:45:55.336159+00:00
+acceptance_rate: "46.650%"
+collected_at: "2026-04-17T12:45:55.336159+00:00"
 ---
 
 ## 문제

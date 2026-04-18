@@ -1,13 +1,13 @@
 ---
-title: 페인트 칠하기
-special_judge: true
-time_limit: 1.5 초
-memory_limit: 1024 MB
+title: "페인트 칠하기"
+special_judge: "true"
+time_limit: "1.5 초"
+memory_limit: "1024 MB"
 submissions: 79
 accepted: 29
 solved_users: 25
-acceptance_rate: 34.247%
-collected_at: 2026-04-17T19:16:05.898517+00:00
+acceptance_rate: "34.247%"
+collected_at: "2026-04-17T19:16:05.898517+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Hinded
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Hinded"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 26
 accepted: 21
 solved_users: 15
-acceptance_rate: 78.947%
-collected_at: 2026-04-17T11:46:52.496649+00:00
+acceptance_rate: "78.947%"
+collected_at: "2026-04-17T11:46:52.496649+00:00"
 ---
 
 ## 문제

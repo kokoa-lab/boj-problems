@@ -1,13 +1,13 @@
 ---
-title: Commuter Pass
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "Commuter Pass"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 288
 accepted: 139
 solved_users: 119
-acceptance_rate: 48.571%
-collected_at: 2026-04-17T14:01:34.936933+00:00
+acceptance_rate: "48.571%"
+collected_at: "2026-04-17T14:01:34.936933+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Gallery of Pillars (Large)
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Gallery of Pillars (Large)"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 56
 accepted: 24
 solved_users: 20
-acceptance_rate: 52.632%
-collected_at: 2026-04-17T13:30:41.143674+00:00
+acceptance_rate: "52.632%"
+collected_at: "2026-04-17T13:30:41.143674+00:00"
 ---
 
 ## 문제

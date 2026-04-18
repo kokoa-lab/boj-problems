@@ -1,13 +1,13 @@
 ---
-title: 꽃병
-special_judge: false
-time_limit: 6 초
-memory_limit: 128 MB
+title: "꽃병"
+special_judge: "false"
+time_limit: "6 초"
+memory_limit: "128 MB"
 submissions: 43
 accepted: 8
 solved_users: 7
-acceptance_rate: 25.926%
-collected_at: 2026-04-17T12:08:31.118271+00:00
+acceptance_rate: "25.926%"
+collected_at: "2026-04-17T12:08:31.118271+00:00"
 ---
 
 ## 문제

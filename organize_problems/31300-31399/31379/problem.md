@@ -1,13 +1,13 @@
 ---
-title: Mosaic Tracery
-special_judge: true
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Mosaic Tracery"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 0
 accepted: 0
 solved_users: 0
-acceptance_rate: 0.000%
-collected_at: 2026-04-17T19:27:08.611450+00:00
+acceptance_rate: "0.000%"
+collected_at: "2026-04-17T19:27:08.611450+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Counterspells
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Counterspells"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 36
 accepted: 11
 solved_users: 9
-acceptance_rate: 42.857%
-collected_at: 2026-04-17T13:54:58.758842+00:00
+acceptance_rate: "42.857%"
+collected_at: "2026-04-17T13:54:58.758842+00:00"
 ---
 
 ## 문제

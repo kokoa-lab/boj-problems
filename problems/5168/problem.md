@@ -1,13 +1,13 @@
 ---
-title: Zebra Herd
-special_judge: false
-time_limit: 7 초
-memory_limit: 128 MB
+title: "Zebra Herd"
+special_judge: "false"
+time_limit: "7 초"
+memory_limit: "128 MB"
 submissions: 18
 accepted: 6
 solved_users: 6
-acceptance_rate: 46.154%
-collected_at: 2026-04-17T11:12:00.427236+00:00
+acceptance_rate: "46.154%"
+collected_at: "2026-04-17T11:12:00.427236+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Admissible Map
-special_judge: false
-time_limit: 3 초
-memory_limit: 512 MB
+title: "Admissible Map"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "512 MB"
 submissions: 41
 accepted: 13
 solved_users: 9
-acceptance_rate: 27.273%
-collected_at: 2026-04-17T17:25:31.799747+00:00
+acceptance_rate: "27.273%"
+collected_at: "2026-04-17T17:25:31.799747+00:00"
 ---
 
 ## 문제

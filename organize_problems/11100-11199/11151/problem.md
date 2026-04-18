@@ -1,13 +1,13 @@
 ---
-title: Civilization
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Civilization"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 125
 accepted: 92
 solved_users: 84
-acceptance_rate: 74.336%
-collected_at: 2026-04-17T12:37:14.282634+00:00
+acceptance_rate: "74.336%"
+collected_at: "2026-04-17T12:37:14.282634+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: The Devil of Gravity
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "The Devil of Gravity"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 4
 accepted: 2
 solved_users: 1
-acceptance_rate: 100.000%
-collected_at: 2026-04-17T16:37:00.571411+00:00
+acceptance_rate: "100.000%"
+collected_at: "2026-04-17T16:37:00.571411+00:00"
 ---
 
 ## 문제

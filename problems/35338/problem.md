@@ -1,13 +1,13 @@
 ---
-title: It's Mooin' Time IV
-special_judge: true
-time_limit: 2 초
-memory_limit: 2048 MB
+title: "It's Mooin' Time IV"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "2048 MB"
 submissions: 48
 accepted: 43
 solved_users: 22
-acceptance_rate: 81.481%
-collected_at: 2026-04-17T21:00:36.770635+00:00
+acceptance_rate: "81.481%"
+collected_at: "2026-04-17T21:00:36.770635+00:00"
 ---
 
 ## 문제

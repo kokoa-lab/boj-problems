@@ -1,13 +1,13 @@
 ---
-title: Wait Time
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Wait Time"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 93
 accepted: 62
 solved_users: 56
-acceptance_rate: 65.882%
-collected_at: 2026-04-17T12:29:20.593900+00:00
+acceptance_rate: "65.882%"
+collected_at: "2026-04-17T12:29:20.593900+00:00"
 ---
 
 ## 문제

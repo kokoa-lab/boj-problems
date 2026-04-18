@@ -1,13 +1,13 @@
 ---
-title: 카우버거 알바생
-special_judge: false
-time_limit: 3 초
-memory_limit: 512 MB
+title: "카우버거 알바생"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "512 MB"
 submissions: 2158
 accepted: 1029
 solved_users: 765
-acceptance_rate: 49.070%
-collected_at: 2026-04-17T14:33:11.836580+00:00
+acceptance_rate: "49.070%"
+collected_at: "2026-04-17T14:33:11.836580+00:00"
 ---
 
 ## 문제

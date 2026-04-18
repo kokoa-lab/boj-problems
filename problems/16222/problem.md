@@ -1,13 +1,13 @@
 ---
-title: Celtic Knots
-special_judge: false
-time_limit: 15 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Celtic Knots"
+special_judge: "false"
+time_limit: "15 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 73
 accepted: 16
 solved_users: 7
-acceptance_rate: 21.875%
-collected_at: 2026-04-18T09:58:43.663926+00:00
+acceptance_rate: "21.875%"
+collected_at: "2026-04-18T09:58:43.663926+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Magnificent Meatballs
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Magnificent Meatballs"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 166
 accepted: 135
 solved_users: 115
-acceptance_rate: 83.333%
-collected_at: 2026-04-17T11:06:29.076389+00:00
+acceptance_rate: "83.333%"
+collected_at: "2026-04-17T11:06:29.076389+00:00"
 ---
 
 ## 문제

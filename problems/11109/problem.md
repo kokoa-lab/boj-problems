@@ -1,13 +1,13 @@
 ---
-title: 괴짜 교수
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "괴짜 교수"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 2594
 accepted: 2053
 solved_users: 1939
-acceptance_rate: 79.175%
-collected_at: 2026-04-17T12:36:43.277905+00:00
+acceptance_rate: "79.175%"
+collected_at: "2026-04-17T12:36:43.277905+00:00"
 ---
 
 ## 문제

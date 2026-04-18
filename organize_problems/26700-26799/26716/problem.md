@@ -1,13 +1,13 @@
 ---
-title: Muzyka pop 2
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Muzyka pop 2"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 23
 accepted: 21
 solved_users: 19
-acceptance_rate: 90.476%
-collected_at: 2026-04-17T17:50:16.618215+00:00
+acceptance_rate: "90.476%"
+collected_at: "2026-04-17T17:50:16.618215+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Assumption is All You Need
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Assumption is All You Need"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 22
 accepted: 9
 solved_users: 8
-acceptance_rate: 40.000%
-collected_at: 2026-04-17T19:22:01.409765+00:00
+acceptance_rate: "40.000%"
+collected_at: "2026-04-17T19:22:01.409765+00:00"
 ---
 
 ## 문제

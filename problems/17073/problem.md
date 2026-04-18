@@ -1,13 +1,13 @@
 ---
-title: 나무 위의 빗물
-special_judge: true
-time_limit: 1 초
-memory_limit: 512 MB
+title: "나무 위의 빗물"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 5039
 accepted: 2117
 solved_users: 1523
-acceptance_rate: 39.263%
-collected_at: 2026-04-17T14:28:55.729871+00:00
+acceptance_rate: "39.263%"
+collected_at: "2026-04-17T14:28:55.729871+00:00"
 ---
 
 ## 문제

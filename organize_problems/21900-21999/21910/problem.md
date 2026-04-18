@@ -1,13 +1,13 @@
 ---
-title: Fence Job
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Fence Job"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 68
 accepted: 39
 solved_users: 33
-acceptance_rate: 60.000%
-collected_at: 2026-04-17T16:09:47.701586+00:00
+acceptance_rate: "60.000%"
+collected_at: "2026-04-17T16:09:47.701586+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 가장 긴 증가하는 부분 수열 6
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "가장 긴 증가하는 부분 수열 6"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 2336
 accepted: 745
 solved_users: 415
-acceptance_rate: 30.673%
-collected_at: 2026-04-17T14:38:45.933288+00:00
+acceptance_rate: "30.673%"
+collected_at: "2026-04-17T14:38:45.933288+00:00"
 ---
 
 ## 문제

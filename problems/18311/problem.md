@@ -1,13 +1,13 @@
 ---
-title: 왕복
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "왕복"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 3513
 accepted: 1116
 solved_users: 932
-acceptance_rate: 32.531%
-collected_at: 2026-04-17T14:59:16.808536+00:00
+acceptance_rate: "32.531%"
+collected_at: "2026-04-17T14:59:16.808536+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Hamming
-special_judge: false
-time_limit: 25 초
-memory_limit: 1024 MB
+title: "Hamming"
+special_judge: "false"
+time_limit: "25 초"
+memory_limit: "1024 MB"
 submissions: 15
 accepted: 3
 solved_users: 2
-acceptance_rate: 33.333%
-collected_at: 2026-04-17T15:11:44.435664+00:00
+acceptance_rate: "33.333%"
+collected_at: "2026-04-17T15:11:44.435664+00:00"
 ---
 
 ## 문제

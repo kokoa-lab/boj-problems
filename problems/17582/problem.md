@@ -1,13 +1,13 @@
 ---
-title: Flipping Colors
-special_judge: false
-time_limit: 3 초
-memory_limit: 512 MB
+title: "Flipping Colors"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "512 MB"
 submissions: 188
 accepted: 25
 solved_users: 13
-acceptance_rate: 11.207%
-collected_at: 2026-04-17T14:42:13.254796+00:00
+acceptance_rate: "11.207%"
+collected_at: "2026-04-17T14:42:13.254796+00:00"
 ---
 
 ## 문제

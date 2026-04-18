@@ -1,13 +1,13 @@
 ---
-title: 제곱 가중치
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "제곱 가중치"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 430
 accepted: 230
 solved_users: 170
-acceptance_rate: 58.419%
-collected_at: 2026-04-17T18:59:55.156735+00:00
+acceptance_rate: "58.419%"
+collected_at: "2026-04-17T18:59:55.156735+00:00"
 ---
 
 ## 문제

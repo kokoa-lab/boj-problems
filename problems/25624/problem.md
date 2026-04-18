@@ -1,13 +1,13 @@
 ---
-title: SNUPTI
-special_judge: false
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "SNUPTI"
+special_judge: "false"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 694
 accepted: 230
 solved_users: 186
-acceptance_rate: 34.128%
-collected_at: 2026-04-17T17:30:17.854543+00:00
+acceptance_rate: "34.128%"
+collected_at: "2026-04-17T17:30:17.854543+00:00"
 ---
 
 ## 문제

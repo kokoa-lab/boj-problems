@@ -1,13 +1,13 @@
 ---
-title: 간판 만들기
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "간판 만들기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 189
 accepted: 139
 solved_users: 125
-acceptance_rate: 77.640%
-collected_at: 2026-04-17T20:51:30.342605+00:00
+acceptance_rate: "77.640%"
+collected_at: "2026-04-17T20:51:30.342605+00:00"
 ---
 
 ## 문제

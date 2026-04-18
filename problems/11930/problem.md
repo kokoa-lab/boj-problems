@@ -1,13 +1,13 @@
 ---
-title: Smallest Enclosing Sphere
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Smallest Enclosing Sphere"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 1544
 accepted: 524
 solved_users: 337
-acceptance_rate: 32.466%
-collected_at: 2026-04-17T12:47:49.218462+00:00
+acceptance_rate: "32.466%"
+collected_at: "2026-04-17T12:47:49.218462+00:00"
 ---
 
 ## 문제

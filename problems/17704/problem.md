@@ -1,13 +1,13 @@
 ---
-title: Matryoshka
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Matryoshka"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 119
 accepted: 68
 solved_users: 60
-acceptance_rate: 57.692%
-collected_at: 2026-04-17T14:45:56.153331+00:00
+acceptance_rate: "57.692%"
+collected_at: "2026-04-17T14:45:56.153331+00:00"
 ---
 
 ## 문제

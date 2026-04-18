@@ -1,13 +1,13 @@
 ---
-title: 배부른 마라토너
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "배부른 마라토너"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 7323
 accepted: 3502
 solved_users: 2848
-acceptance_rate: 48.452%
-collected_at: 2026-04-17T12:25:24.122312+00:00
+acceptance_rate: "48.452%"
+collected_at: "2026-04-17T12:25:24.122312+00:00"
 ---
 
 ## 문제

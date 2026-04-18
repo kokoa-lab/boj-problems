@@ -1,13 +1,13 @@
 ---
-title: Armageddon
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Armageddon"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 345
 accepted: 168
 solved_users: 89
-acceptance_rate: 50.568%
-collected_at: 2026-04-17T20:44:53.542118+00:00
+acceptance_rate: "50.568%"
+collected_at: "2026-04-17T20:44:53.542118+00:00"
 ---
 
 ## 문제

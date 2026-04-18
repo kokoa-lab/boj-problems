@@ -1,13 +1,13 @@
 ---
-title: 월쉬 행렬
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "월쉬 행렬"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 172
 accepted: 70
 solved_users: 50
-acceptance_rate: 37.594%
-collected_at: 2026-04-17T11:09:55.184350+00:00
+acceptance_rate: "37.594%"
+collected_at: "2026-04-17T11:09:55.184350+00:00"
 ---
 
 ## 문제

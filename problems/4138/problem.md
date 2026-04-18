@@ -1,13 +1,13 @@
 ---
-title: Paper Route
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Paper Route"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 39
 accepted: 23
 solved_users: 14
-acceptance_rate: 66.667%
-collected_at: 2026-04-17T10:56:15.696179+00:00
+acceptance_rate: "66.667%"
+collected_at: "2026-04-17T10:56:15.696179+00:00"
 ---
 
 ## 문제

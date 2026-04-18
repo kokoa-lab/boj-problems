@@ -1,13 +1,13 @@
 ---
-title: Dijkstra (Small)
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Dijkstra (Small)"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 88
 accepted: 50
 solved_users: 43
-acceptance_rate: 72.881%
-collected_at: 2026-04-17T12:51:17.793045+00:00
+acceptance_rate: "72.881%"
+collected_at: "2026-04-17T12:51:17.793045+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: SENTI
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "SENTI"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 27
 accepted: 4
 solved_users: 2
-acceptance_rate: 28.571%
-collected_at: 2026-04-17T15:02:45.077616+00:00
+acceptance_rate: "28.571%"
+collected_at: "2026-04-17T15:02:45.077616+00:00"
 ---
 
 ## 문제

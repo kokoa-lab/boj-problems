@@ -1,13 +1,13 @@
 ---
-title: Babushka and her pierogi
-special_judge: true
-time_limit: 6 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Babushka and her pierogi"
+special_judge: "true"
+time_limit: "6 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 1
 accepted: 1
 solved_users: 1
-acceptance_rate: 100.000%
-collected_at: 2026-04-17T19:22:29.325407+00:00
+acceptance_rate: "100.000%"
+collected_at: "2026-04-17T19:22:29.325407+00:00"
 ---
 
 ## 문제

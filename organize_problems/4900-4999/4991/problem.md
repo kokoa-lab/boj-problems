@@ -1,13 +1,13 @@
 ---
-title: 로봇 청소기
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "로봇 청소기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 13959
 accepted: 5050
 solved_users: 3358
-acceptance_rate: 33.536%
-collected_at: 2026-04-17T11:10:40.201921+00:00
+acceptance_rate: "33.536%"
+collected_at: "2026-04-17T11:10:40.201921+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 동전
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "동전"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 18805
 accepted: 12689
 solved_users: 10290
-acceptance_rate: 68.427%
-collected_at: 2026-04-17T12:07:00.834801+00:00
+acceptance_rate: "68.427%"
+collected_at: "2026-04-17T12:07:00.834801+00:00"
 ---
 
 ## 문제

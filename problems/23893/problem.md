@@ -1,13 +1,13 @@
 ---
-title: 알프스의 힘
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "알프스의 힘"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 186
 accepted: 98
 solved_users: 85
-acceptance_rate: 54.140%
-collected_at: 2026-04-17T16:56:57.790180+00:00
+acceptance_rate: "54.140%"
+collected_at: "2026-04-17T16:56:57.790180+00:00"
 ---
 
 ## 문제

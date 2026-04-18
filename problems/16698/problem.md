@@ -1,13 +1,13 @@
 ---
-title: Trees Gump
-special_judge: true
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Trees Gump"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 182
 accepted: 72
 solved_users: 36
-acceptance_rate: 31.579%
-collected_at: 2026-04-17T14:22:39.032588+00:00
+acceptance_rate: "31.579%"
+collected_at: "2026-04-17T14:22:39.032588+00:00"
 ---
 
 ## 문제

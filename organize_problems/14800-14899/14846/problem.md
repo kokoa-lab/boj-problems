@@ -1,13 +1,13 @@
 ---
-title: 직사각형과 쿼리
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "직사각형과 쿼리"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 1382
 accepted: 673
 solved_users: 538
-acceptance_rate: 49.954%
-collected_at: 2026-04-17T13:42:57.012441+00:00
+acceptance_rate: "49.954%"
+collected_at: "2026-04-17T13:42:57.012441+00:00"
 ---
 
 ## 문제

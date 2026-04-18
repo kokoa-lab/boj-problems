@@ -1,13 +1,13 @@
 ---
-title: Fencing the Herd
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "Fencing the Herd"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 388
 accepted: 144
 solved_users: 63
-acceptance_rate: 25.000%
-collected_at: 2026-04-17T12:28:57.451615+00:00
+acceptance_rate: "25.000%"
+collected_at: "2026-04-17T12:28:57.451615+00:00"
 ---
 
 ## 문제

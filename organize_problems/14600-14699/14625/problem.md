@@ -1,13 +1,13 @@
 ---
-title: 냉동식품
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "냉동식품"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 2733
 accepted: 805
 solved_users: 719
-acceptance_rate: 30.635%
-collected_at: 2026-04-17T13:39:27.452395+00:00
+acceptance_rate: "30.635%"
+collected_at: "2026-04-17T13:39:27.452395+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Very New York
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "Very New York"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 4
 accepted: 3
 solved_users: 3
-acceptance_rate: 75.000%
-collected_at: 2026-04-17T15:17:33.902641+00:00
+acceptance_rate: "75.000%"
+collected_at: "2026-04-17T15:17:33.902641+00:00"
 ---
 
 ## 문제

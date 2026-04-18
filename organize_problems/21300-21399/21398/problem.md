@@ -1,13 +1,13 @@
 ---
-title: 동생에게 져주기
-special_judge: false
-time_limit: 1 초  ( 하단 참고 )
-memory_limit: 512 MB
+title: "동생에게 져주기"
+special_judge: "false"
+time_limit: "1 초  ( 하단 참고 )"
+memory_limit: "512 MB"
 submissions: 65
 accepted: 24
 solved_users: 19
-acceptance_rate: 57.576%
-collected_at: 2026-04-17T15:57:38.567512+00:00
+acceptance_rate: "57.576%"
+collected_at: "2026-04-17T15:57:38.567512+00:00"
 ---
 
 ## 문제

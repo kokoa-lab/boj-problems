@@ -1,13 +1,13 @@
 ---
-title: 돌 게임 8
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "돌 게임 8"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 6093
 accepted: 806
 solved_users: 458
-acceptance_rate: 11.041%
-collected_at: 2026-04-17T12:12:37.593255+00:00
+acceptance_rate: "11.041%"
+collected_at: "2026-04-17T12:12:37.593255+00:00"
 ---
 
 ## 문제

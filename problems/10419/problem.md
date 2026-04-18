@@ -1,13 +1,13 @@
 ---
-title: 지각
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "지각"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 4691
 accepted: 3382
 solved_users: 3069
-acceptance_rate: 74.023%
-collected_at: 2026-04-17T12:23:22.661603+00:00
+acceptance_rate: "74.023%"
+collected_at: "2026-04-17T12:23:22.661603+00:00"
 ---
 
 ## 문제

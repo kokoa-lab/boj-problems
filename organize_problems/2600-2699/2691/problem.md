@@ -1,13 +1,13 @@
 ---
-title: UPC 바코드 읽기
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "UPC 바코드 읽기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 245
 accepted: 37
 solved_users: 21
-acceptance_rate: 17.500%
-collected_at: 2026-04-17T10:43:58.343279+00:00
+acceptance_rate: "17.500%"
+collected_at: "2026-04-17T10:43:58.343279+00:00"
 ---
 
 ## 문제

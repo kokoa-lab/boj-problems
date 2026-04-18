@@ -1,13 +1,13 @@
 ---
-title: 리그
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "리그"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 570
 accepted: 72
 solved_users: 60
-acceptance_rate: 14.563%
-collected_at: 2026-04-17T10:46:17.547854+00:00
+acceptance_rate: "14.563%"
+collected_at: "2026-04-17T10:46:17.547854+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Four Die Rolls
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 2048 MB
+title: "Four Die Rolls"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "2048 MB"
 submissions: 178
 accepted: 123
 solved_users: 94
-acceptance_rate: 67.626%
-collected_at: 2026-04-17T19:29:46.861768+00:00
+acceptance_rate: "67.626%"
+collected_at: "2026-04-17T19:29:46.861768+00:00"
 ---
 
 ## 문제

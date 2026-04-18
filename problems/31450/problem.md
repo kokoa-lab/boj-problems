@@ -1,13 +1,13 @@
 ---
-title: Everyone is a winner
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Everyone is a winner"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 4153
 accepted: 3153
 solved_users: 3027
-acceptance_rate: 76.094%
-collected_at: 2026-04-17T19:28:26.656919+00:00
+acceptance_rate: "76.094%"
+collected_at: "2026-04-17T19:28:26.656919+00:00"
 ---
 
 ## 문제

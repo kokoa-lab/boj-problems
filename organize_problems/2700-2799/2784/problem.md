@@ -1,13 +1,13 @@
 ---
-title: 가로 세로 퍼즐
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "가로 세로 퍼즐"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 1651
 accepted: 731
 solved_users: 599
-acceptance_rate: 46.148%
-collected_at: 2026-04-17T10:44:49.014809+00:00
+acceptance_rate: "46.148%"
+collected_at: "2026-04-17T10:44:49.014809+00:00"
 ---
 
 ## 문제

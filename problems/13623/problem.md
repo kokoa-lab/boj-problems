@@ -1,13 +1,13 @@
 ---
-title: Zero or One
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Zero or One"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 2791
 accepted: 2343
 solved_users: 2206
-acceptance_rate: 84.781%
-collected_at: 2026-04-17T13:16:14.665364+00:00
+acceptance_rate: "84.781%"
+collected_at: "2026-04-17T13:16:14.665364+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 중앙 이동 알고리즘
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "중앙 이동 알고리즘"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 49388
 accepted: 35191
 solved_users: 31744
-acceptance_rate: 71.629%
-collected_at: 2026-04-17T10:45:36.508421+00:00
+acceptance_rate: "71.629%"
+collected_at: "2026-04-17T10:45:36.508421+00:00"
 ---
 
 ## 문제

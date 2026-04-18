@@ -1,13 +1,13 @@
 ---
-title: Starman
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Starman"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 2565
 accepted: 1638
 solved_users: 1486
-acceptance_rate: 65.376%
-collected_at: 2026-04-17T13:01:27.659092+00:00
+acceptance_rate: "65.376%"
+collected_at: "2026-04-17T13:01:27.659092+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 가희와 로그 파일
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "가희와 로그 파일"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 869
 accepted: 289
 solved_users: 180
-acceptance_rate: 30.100%
-collected_at: 2026-04-17T16:07:15.538118+00:00
+acceptance_rate: "30.100%"
+collected_at: "2026-04-17T16:07:15.538118+00:00"
 ---
 
 ## 문제

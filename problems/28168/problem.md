@@ -1,13 +1,13 @@
 ---
-title: Painting Grid
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Painting Grid"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 88
 accepted: 37
 solved_users: 24
-acceptance_rate: 35.821%
-collected_at: 2026-04-17T18:19:25.888026+00:00
+acceptance_rate: "35.821%"
+collected_at: "2026-04-17T18:19:25.888026+00:00"
 ---
 
 ## 문제

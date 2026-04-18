@@ -1,13 +1,13 @@
 ---
-title: 자습 째기
-special_judge: true
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "자습 째기"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 195
 accepted: 13
 solved_users: 12
-acceptance_rate: 8.276%
-collected_at: 2026-04-17T20:17:33.017081+00:00
+acceptance_rate: "8.276%"
+collected_at: "2026-04-17T20:17:33.017081+00:00"
 ---
 
 ## 문제

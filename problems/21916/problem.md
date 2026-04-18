@@ -1,13 +1,13 @@
 ---
-title: Neo-Robin Hood
-special_judge: false
-time_limit: 4 초
-memory_limit: 256 MB
+title: "Neo-Robin Hood"
+special_judge: "false"
+time_limit: "4 초"
+memory_limit: "256 MB"
 submissions: 233
 accepted: 71
 solved_users: 68
-acceptance_rate: 33.663%
-collected_at: 2026-04-17T16:09:53.288721+00:00
+acceptance_rate: "33.663%"
+collected_at: "2026-04-17T16:09:53.288721+00:00"
 ---
 
 ## 문제

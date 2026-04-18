@@ -1,13 +1,13 @@
 ---
-title: Cow Treats
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Cow Treats"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 124
 accepted: 52
 solved_users: 48
-acceptance_rate: 51.064%
-collected_at: 2026-04-17T11:18:56.989070+00:00
+acceptance_rate: "51.064%"
+collected_at: "2026-04-17T11:18:56.989070+00:00"
 ---
 
 ## 문제

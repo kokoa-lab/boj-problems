@@ -1,13 +1,13 @@
 ---
-title: Hit Song
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Hit Song"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 168
 accepted: 52
 solved_users: 42
-acceptance_rate: 34.146%
-collected_at: 2026-04-17T19:19:58.755865+00:00
+acceptance_rate: "34.146%"
+collected_at: "2026-04-17T19:19:58.755865+00:00"
 ---
 
 ## 문제

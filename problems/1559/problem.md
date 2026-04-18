@@ -1,13 +1,13 @@
 ---
-title: 놀라운 미로
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "놀라운 미로"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 837
 accepted: 154
 solved_users: 98
-acceptance_rate: 18.491%
-collected_at: 2026-04-17T10:31:10.784825+00:00
+acceptance_rate: "18.491%"
+collected_at: "2026-04-17T10:31:10.784825+00:00"
 ---
 
 ## 문제

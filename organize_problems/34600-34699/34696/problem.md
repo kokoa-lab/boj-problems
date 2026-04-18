@@ -1,13 +1,13 @@
 ---
-title: 아직은 어색해
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "아직은 어색해"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 123
 accepted: 62
 solved_users: 53
-acceptance_rate: 48.182%
-collected_at: 2026-04-17T20:46:16.059711+00:00
+acceptance_rate: "48.182%"
+collected_at: "2026-04-17T20:46:16.059711+00:00"
 ---
 
 ## 문제

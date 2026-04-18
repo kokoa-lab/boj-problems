@@ -1,13 +1,13 @@
 ---
-title: 시간 관리하기
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "시간 관리하기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 2287
 accepted: 1251
 solved_users: 1050
-acceptance_rate: 55.089%
-collected_at: 2026-04-17T11:19:52.224344+00:00
+acceptance_rate: "55.089%"
+collected_at: "2026-04-17T11:19:52.224344+00:00"
 ---
 
 ## 문제

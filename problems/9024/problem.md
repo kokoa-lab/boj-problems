@@ -1,13 +1,13 @@
 ---
-title: 두 수의 합
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "두 수의 합"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 4222
 accepted: 1902
 solved_users: 1443
-acceptance_rate: 44.786%
-collected_at: 2026-04-17T12:06:16.655246+00:00
+acceptance_rate: "44.786%"
+collected_at: "2026-04-17T12:06:16.655246+00:00"
 ---
 
 ## 문제

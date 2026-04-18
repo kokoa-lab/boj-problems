@@ -1,13 +1,13 @@
 ---
-title: Shadow Line
-special_judge: true
-time_limit: 10 초 (추가 시간 없음)
-memory_limit: 2048 MB (추가 메모리 없음)
+title: "Shadow Line"
+special_judge: "true"
+time_limit: "10 초 (추가 시간 없음)"
+memory_limit: "2048 MB (추가 메모리 없음)"
 submissions: 121
 accepted: 33
 solved_users: 23
-acceptance_rate: 35.385%
-collected_at: 2026-04-17T19:39:49.870455+00:00
+acceptance_rate: "35.385%"
+collected_at: "2026-04-17T19:39:49.870455+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Minesweeper (Small)
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Minesweeper (Small)"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 72
 accepted: 62
 solved_users: 60
-acceptance_rate: 85.714%
-collected_at: 2026-04-17T12:51:35.622756+00:00
+acceptance_rate: "85.714%"
+collected_at: "2026-04-17T12:51:35.622756+00:00"
 ---
 
 ## 문제

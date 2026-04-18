@@ -1,13 +1,13 @@
 ---
-title: Just Green Enough
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Just Green Enough"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 306
 accepted: 174
 solved_users: 127
-acceptance_rate: 58.525%
-collected_at: 2026-04-17T15:51:00.468072+00:00
+acceptance_rate: "58.525%"
+collected_at: "2026-04-17T15:51:00.468072+00:00"
 ---
 
 ## 문제

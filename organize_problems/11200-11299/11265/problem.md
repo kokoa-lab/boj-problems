@@ -1,13 +1,13 @@
 ---
-title: 끝나지 않는 파티
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "끝나지 않는 파티"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 4101
 accepted: 2127
 solved_users: 1686
-acceptance_rate: 50.646%
-collected_at: 2026-04-17T12:38:51.884234+00:00
+acceptance_rate: "50.646%"
+collected_at: "2026-04-17T12:38:51.884234+00:00"
 ---
 
 ## 문제

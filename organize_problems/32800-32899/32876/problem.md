@@ -1,13 +1,13 @@
 ---
-title: Igre
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Igre"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 20
 accepted: 17
 solved_users: 16
-acceptance_rate: 84.211%
-collected_at: 2026-04-17T20:03:10.888855+00:00
+acceptance_rate: "84.211%"
+collected_at: "2026-04-17T20:03:10.888855+00:00"
 ---
 
 ## 문제

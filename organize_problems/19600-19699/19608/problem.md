@@ -1,13 +1,13 @@
 ---
-title: Searching for Strings
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Searching for Strings"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 811
 accepted: 174
 solved_users: 102
-acceptance_rate: 18.053%
-collected_at: 2026-04-17T15:24:50.358878+00:00
+acceptance_rate: "18.053%"
+collected_at: "2026-04-17T15:24:50.358878+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 귀찮아 (SIB)
-special_judge: false
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "귀찮아 (SIB)"
+special_judge: "false"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 4587
 accepted: 2095
 solved_users: 1757
-acceptance_rate: 45.249%
-collected_at: 2026-04-17T13:45:47.046581+00:00
+acceptance_rate: "45.249%"
+collected_at: "2026-04-17T13:45:47.046581+00:00"
 ---
 
 ## 문제

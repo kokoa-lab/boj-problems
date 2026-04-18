@@ -1,13 +1,13 @@
 ---
-title: Duathlon
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Duathlon"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 215
 accepted: 81
 solved_users: 66
-acceptance_rate: 35.484%
-collected_at: 2026-04-17T14:06:07.521179+00:00
+acceptance_rate: "35.484%"
+collected_at: "2026-04-17T14:06:07.521179+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 수열의 합
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "수열의 합"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 31913
 accepted: 9641
 solved_users: 8182
-acceptance_rate: 32.153%
-collected_at: 2026-04-17T10:27:44.407262+00:00
+acceptance_rate: "32.153%"
+collected_at: "2026-04-17T10:27:44.407262+00:00"
 ---
 
 ## 문제

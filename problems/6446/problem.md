@@ -1,13 +1,13 @@
 ---
-title: Peter's Calculator
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Peter's Calculator"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 100
 accepted: 11
 solved_users: 7
-acceptance_rate: 9.091%
-collected_at: 2026-04-17T11:28:16.728195+00:00
+acceptance_rate: "9.091%"
+collected_at: "2026-04-17T11:28:16.728195+00:00"
 ---
 
 ## 문제

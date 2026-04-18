@@ -1,13 +1,13 @@
 ---
-title: 5-Path
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "5-Path"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 60
 accepted: 13
 solved_users: 10
-acceptance_rate: 21.739%
-collected_at: 2026-04-17T15:06:23.856132+00:00
+acceptance_rate: "21.739%"
+collected_at: "2026-04-17T15:06:23.856132+00:00"
 ---
 
 ## 문제

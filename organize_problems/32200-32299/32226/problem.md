@@ -1,13 +1,13 @@
 ---
-title: 진한주식회사는 어느 도시에 있을까?
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "진한주식회사는 어느 도시에 있을까?"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 112
 accepted: 62
 solved_users: 30
-acceptance_rate: 51.724%
-collected_at: 2026-04-18T09:51:33.432131+00:00
+acceptance_rate: "51.724%"
+collected_at: "2026-04-18T09:51:33.432131+00:00"
 ---
 
 ## 문제

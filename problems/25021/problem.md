@@ -1,13 +1,13 @@
 ---
-title: 알록달록한 괄호열
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "알록달록한 괄호열"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 118
 accepted: 35
 solved_users: 28
-acceptance_rate: 28.000%
-collected_at: 2026-04-17T17:19:07.921061+00:00
+acceptance_rate: "28.000%"
+collected_at: "2026-04-17T17:19:07.921061+00:00"
 ---
 
 ## 문제

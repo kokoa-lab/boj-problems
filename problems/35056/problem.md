@@ -1,13 +1,13 @@
 ---
-title: 트윈 타워 (Easy)
-special_judge: false
-time_limit: 3 초
-memory_limit: 1024 MB
+title: "트윈 타워 (Easy)"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "1024 MB"
 submissions: 271
 accepted: 162
 solved_users: 145
-acceptance_rate: 65.909%
-collected_at: 2026-04-17T20:54:43.852349+00:00
+acceptance_rate: "65.909%"
+collected_at: "2026-04-17T20:54:43.852349+00:00"
 ---
 
 ## 문제

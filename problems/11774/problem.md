@@ -1,13 +1,13 @@
 ---
-title: MOLEKULE
-special_judge: true
-time_limit: 1 초
-memory_limit: 64 MB
+title: "MOLEKULE"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "64 MB"
 submissions: 120
 accepted: 71
 solved_users: 64
-acceptance_rate: 61.538%
-collected_at: 2026-04-17T12:45:47.549174+00:00
+acceptance_rate: "61.538%"
+collected_at: "2026-04-17T12:45:47.549174+00:00"
 ---
 
 ## 문제

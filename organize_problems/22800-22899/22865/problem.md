@@ -1,13 +1,13 @@
 ---
-title: 가장 먼 곳
-special_judge: false
-time_limit: 1.5 초
-memory_limit: 1024 MB
+title: "가장 먼 곳"
+special_judge: "false"
+time_limit: "1.5 초"
+memory_limit: "1024 MB"
 submissions: 2958
 accepted: 1274
 solved_users: 939
-acceptance_rate: 40.387%
-collected_at: 2026-04-17T16:37:42.273069+00:00
+acceptance_rate: "40.387%"
+collected_at: "2026-04-17T16:37:42.273069+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: The Idiot of the Year Contest!
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "The Idiot of the Year Contest!"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 241
 accepted: 168
 solved_users: 137
-acceptance_rate: 69.543%
-collected_at: 2026-04-17T11:34:53.400315+00:00
+acceptance_rate: "69.543%"
+collected_at: "2026-04-17T11:34:53.400315+00:00"
 ---
 
 ## 문제

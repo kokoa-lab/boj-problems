@@ -1,13 +1,13 @@
 ---
-title: 근수의 카드게임
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "근수의 카드게임"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 202
 accepted: 104
 solved_users: 95
-acceptance_rate: 64.189%
-collected_at: 2026-04-17T20:46:35.120890+00:00
+acceptance_rate: "64.189%"
+collected_at: "2026-04-17T20:46:35.120890+00:00"
 ---
 
 ## 문제

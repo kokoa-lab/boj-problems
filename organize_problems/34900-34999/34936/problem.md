@@ -1,13 +1,13 @@
 ---
-title: 블록 생성
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "블록 생성"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 188
 accepted: 115
 solved_users: 104
-acceptance_rate: 68.421%
-collected_at: 2026-04-17T20:52:23.033103+00:00
+acceptance_rate: "68.421%"
+collected_at: "2026-04-17T20:52:23.033103+00:00"
 ---
 
 ## 문제

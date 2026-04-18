@@ -1,13 +1,13 @@
 ---
-title: 3단 가시
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "3단 가시"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 505
 accepted: 88
 solved_users: 71
-acceptance_rate: 24.483%
-collected_at: 2026-04-17T20:26:52.027927+00:00
+acceptance_rate: "24.483%"
+collected_at: "2026-04-17T20:26:52.027927+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: タクシー 2 (Taxis 2)
-special_judge: false
-time_limit: 4 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "タクシー 2 (Taxis 2)"
+special_judge: "false"
+time_limit: "4 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 52
 accepted: 27
 solved_users: 23
-acceptance_rate: 52.273%
-collected_at: 2026-04-17T17:09:13.874458+00:00
+acceptance_rate: "52.273%"
+collected_at: "2026-04-17T17:09:13.874458+00:00"
 ---
 
 ## 문제

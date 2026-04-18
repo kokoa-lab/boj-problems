@@ -1,13 +1,13 @@
 ---
-title: 오민식
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "오민식"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 1392
 accepted: 676
 solved_users: 490
-acceptance_rate: 49.147%
-collected_at: 2026-04-17T10:31:45.559519+00:00
+acceptance_rate: "49.147%"
+collected_at: "2026-04-17T10:31:45.559519+00:00"
 ---
 
 ## 문제

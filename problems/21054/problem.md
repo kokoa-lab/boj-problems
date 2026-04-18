@@ -1,13 +1,13 @@
 ---
-title: Hiring and Firing
-special_judge: true
-time_limit: 3 초
-memory_limit: 1024 MB
+title: "Hiring and Firing"
+special_judge: "true"
+time_limit: "3 초"
+memory_limit: "1024 MB"
 submissions: 74
 accepted: 20
 solved_users: 18
-acceptance_rate: 31.034%
-collected_at: 2026-04-17T15:46:29.035573+00:00
+acceptance_rate: "31.034%"
+collected_at: "2026-04-17T15:46:29.035573+00:00"
 ---
 
 ## 문제

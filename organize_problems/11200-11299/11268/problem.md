@@ -1,13 +1,13 @@
 ---
-title: Bell Ringing
-special_judge: true
-time_limit: 2 초
-memory_limit: 256 MB
+title: "Bell Ringing"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 45
 accepted: 27
 solved_users: 26
-acceptance_rate: 89.655%
-collected_at: 2026-04-17T12:38:54.873511+00:00
+acceptance_rate: "89.655%"
+collected_at: "2026-04-17T12:38:54.873511+00:00"
 ---
 
 ## 문제

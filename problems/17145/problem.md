@@ -1,13 +1,13 @@
 ---
-title: 청소 로봇
-special_judge: true
-time_limit: 2 초
-memory_limit: 512 MB
+title: "청소 로봇"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 129
 accepted: 39
 solved_users: 28
-acceptance_rate: 32.558%
-collected_at: 2026-04-17T14:31:04.140738+00:00
+acceptance_rate: "32.558%"
+collected_at: "2026-04-17T14:31:04.140738+00:00"
 ---
 
 ## 문제

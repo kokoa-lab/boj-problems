@@ -1,13 +1,13 @@
 ---
-title: Bottleneck
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Bottleneck"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 64
 accepted: 10
 solved_users: 8
-acceptance_rate: 17.391%
-collected_at: 2026-04-17T11:18:48.061110+00:00
+acceptance_rate: "17.391%"
+collected_at: "2026-04-17T11:18:48.061110+00:00"
 ---
 
 ## 문제

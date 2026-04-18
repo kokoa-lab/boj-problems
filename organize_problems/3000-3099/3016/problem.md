@@ -1,13 +1,13 @@
 ---
-title: Clustering
-special_judge: false
-time_limit: 5 초
-memory_limit: 128 MB
+title: "Clustering"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "128 MB"
 submissions: 263
 accepted: 251
 solved_users: 37
-acceptance_rate: 19.786%
-collected_at: 2026-04-17T10:46:13.073599+00:00
+acceptance_rate: "19.786%"
+collected_at: "2026-04-17T10:46:13.073599+00:00"
 ---
 
 ## 문제

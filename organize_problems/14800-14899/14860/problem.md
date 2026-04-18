@@ -1,13 +1,13 @@
 ---
-title: GCD 곱
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "GCD 곱"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 1748
 accepted: 614
 solved_users: 401
-acceptance_rate: 33.954%
-collected_at: 2026-04-17T13:43:19.378436+00:00
+acceptance_rate: "33.954%"
+collected_at: "2026-04-17T13:43:19.378436+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: :chino_shock:
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: ":chino_shock:"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 3116
 accepted: 2647
 solved_users: 2475
-acceptance_rate: 85.404%
-collected_at: 2026-04-17T18:00:33.238886+00:00
+acceptance_rate: "85.404%"
+collected_at: "2026-04-17T18:00:33.238886+00:00"
 ---
 
 ## 문제

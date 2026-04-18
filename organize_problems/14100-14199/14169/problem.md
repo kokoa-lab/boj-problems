@@ -1,13 +1,13 @@
 ---
-title: Lasers and Mirrors
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Lasers and Mirrors"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 562
 accepted: 241
 solved_users: 161
-acceptance_rate: 39.851%
-collected_at: 2026-04-17T13:27:12.381171+00:00
+acceptance_rate: "39.851%"
+collected_at: "2026-04-17T13:27:12.381171+00:00"
 ---
 
 ## 문제

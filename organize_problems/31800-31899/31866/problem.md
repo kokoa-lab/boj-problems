@@ -1,13 +1,13 @@
 ---
-title: 손가락 게임
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "손가락 게임"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 1229
 accepted: 701
 solved_users: 607
-acceptance_rate: 58.142%
-collected_at: 2026-04-17T19:37:59.422928+00:00
+acceptance_rate: "58.142%"
+collected_at: "2026-04-17T19:37:59.422928+00:00"
 ---
 
 ## 문제

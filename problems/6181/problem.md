@@ -1,13 +1,13 @@
 ---
-title: 플러드 필 (Flood Fill)
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "플러드 필 (Flood Fill)"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 509
 accepted: 118
 solved_users: 98
-acceptance_rate: 30.435%
-collected_at: 2026-04-17T11:22:15.416200+00:00
+acceptance_rate: "30.435%"
+collected_at: "2026-04-17T11:22:15.416200+00:00"
 ---
 
 ## 문제

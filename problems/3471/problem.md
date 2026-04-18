@@ -1,13 +1,13 @@
 ---
-title: Complete the sequence!
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Complete the sequence!"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 48
 accepted: 22
 solved_users: 18
-acceptance_rate: 62.069%
-collected_at: 2026-04-17T10:49:07.237241+00:00
+acceptance_rate: "62.069%"
+collected_at: "2026-04-17T10:49:07.237241+00:00"
 ---
 
 ## 문제

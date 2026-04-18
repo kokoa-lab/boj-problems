@@ -1,13 +1,13 @@
 ---
-title: Find the Array
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "Find the Array"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 78
 accepted: 27
 solved_users: 23
-acceptance_rate: 42.593%
-collected_at: 2026-04-17T14:50:54.732945+00:00
+acceptance_rate: "42.593%"
+collected_at: "2026-04-17T14:50:54.732945+00:00"
 ---
 
 ## 문제

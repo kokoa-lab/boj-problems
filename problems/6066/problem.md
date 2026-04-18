@@ -1,13 +1,13 @@
 ---
-title: Buying Hay
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Buying Hay"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 359
 accepted: 172
 solved_users: 132
-acceptance_rate: 48.352%
-collected_at: 2026-04-17T11:19:54.228189+00:00
+acceptance_rate: "48.352%"
+collected_at: "2026-04-17T11:19:54.228189+00:00"
 ---
 
 ## 문제

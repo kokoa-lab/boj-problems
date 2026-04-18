@@ -1,13 +1,13 @@
 ---
-title: 등차수열
-special_judge: true
-time_limit: 2 초
-memory_limit: 128 MB
+title: "등차수열"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 1179
 accepted: 213
 solved_users: 163
-acceptance_rate: 20.299%
-collected_at: 2026-04-17T10:29:35.161581+00:00
+acceptance_rate: "20.299%"
+collected_at: "2026-04-17T10:29:35.161581+00:00"
 ---
 
 ## 문제

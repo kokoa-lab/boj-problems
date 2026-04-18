@@ -1,13 +1,13 @@
 ---
-title: 배추
-special_judge: true
-time_limit: 1 초
-memory_limit: 128 MB
+title: "배추"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 375
 accepted: 195
 solved_users: 79
-acceptance_rate: 41.361%
-collected_at: 2026-04-17T10:46:52.558555+00:00
+acceptance_rate: "41.361%"
+collected_at: "2026-04-17T10:46:52.558555+00:00"
 ---
 
 ## 문제

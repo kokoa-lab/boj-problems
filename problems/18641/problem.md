@@ -1,13 +1,13 @@
 ---
-title: Bitwise Automaton
-special_judge: true
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Bitwise Automaton"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 34
 accepted: 12
 solved_users: 9
-acceptance_rate: 42.857%
-collected_at: 2026-04-17T15:07:26.324812+00:00
+acceptance_rate: "42.857%"
+collected_at: "2026-04-17T15:07:26.324812+00:00"
 ---
 
 ## 문제

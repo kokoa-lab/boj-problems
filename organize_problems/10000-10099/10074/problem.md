@@ -1,13 +1,13 @@
 ---
-title: 곤돌라 - 교체 수열의 개수 세기
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "곤돌라 - 교체 수열의 개수 세기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 256
 accepted: 77
 solved_users: 74
-acceptance_rate: 30.705%
-collected_at: 2026-04-17T12:18:38.953833+00:00
+acceptance_rate: "30.705%"
+collected_at: "2026-04-17T12:18:38.953833+00:00"
 ---
 
 ## 문제

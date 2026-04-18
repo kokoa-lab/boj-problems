@@ -1,13 +1,13 @@
 ---
-title: 가희와 후쿠오카 공항
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "가희와 후쿠오카 공항"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 303
 accepted: 230
 solved_users: 210
-acceptance_rate: 75.812%
-collected_at: 2026-04-17T20:45:22.018135+00:00
+acceptance_rate: "75.812%"
+collected_at: "2026-04-17T20:45:22.018135+00:00"
 ---
 
 ## 문제

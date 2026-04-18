@@ -1,13 +1,13 @@
 ---
-title: 왜 맘대로 예약하냐고
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "왜 맘대로 예약하냐고"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 1457
 accepted: 1164
 solved_users: 1093
-acceptance_rate: 81.023%
-collected_at: 2026-04-17T20:05:19.955201+00:00
+acceptance_rate: "81.023%"
+collected_at: "2026-04-17T20:05:19.955201+00:00"
 ---
 
 ## 문제

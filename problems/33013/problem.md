@@ -1,13 +1,13 @@
 ---
-title: L'ellipse avec le plus grand nombre de points dessus
-special_judge: false
-time_limit: 6 초
-memory_limit: 1024 MB
+title: "L'ellipse avec le plus grand nombre de points dessus"
+special_judge: "false"
+time_limit: "6 초"
+memory_limit: "1024 MB"
 submissions: 333
 accepted: 34
 solved_users: 26
-acceptance_rate: 12.871%
-collected_at: 2026-04-17T20:07:27.802985+00:00
+acceptance_rate: "12.871%"
+collected_at: "2026-04-17T20:07:27.802985+00:00"
 ---
 
 ## 문제

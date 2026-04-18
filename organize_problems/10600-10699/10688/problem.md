@@ -1,13 +1,13 @@
 ---
-title: Magical Switches
-special_judge: true
-time_limit: 8 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "Magical Switches"
+special_judge: "true"
+time_limit: "8 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 19
 accepted: 6
 solved_users: 3
-acceptance_rate: 21.429%
-collected_at: 2026-04-17T12:27:30.963916+00:00
+acceptance_rate: "21.429%"
+collected_at: "2026-04-17T12:27:30.963916+00:00"
 ---
 
 ## 문제

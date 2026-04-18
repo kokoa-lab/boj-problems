@@ -1,13 +1,13 @@
 ---
-title: 진짜 최종 구데기컵 1 경품 당첨자
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "진짜 최종 구데기컵 1 경품 당첨자"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 1902
 accepted: 33
 solved_users: 30
-acceptance_rate: 2.187%
-collected_at: 2026-04-17T15:53:54.584114+00:00
+acceptance_rate: "2.187%"
+collected_at: "2026-04-17T15:53:54.584114+00:00"
 ---
 
 ## 문제

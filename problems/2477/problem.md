@@ -1,13 +1,13 @@
 ---
-title: 참외밭
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "참외밭"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 36253
 accepted: 13431
 solved_users: 11286
-acceptance_rate: 37.803%
-collected_at: 2026-04-17T10:42:00.070934+00:00
+acceptance_rate: "37.803%"
+collected_at: "2026-04-17T10:42:00.070934+00:00"
 ---
 
 ## 문제

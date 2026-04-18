@@ -1,13 +1,13 @@
 ---
-title: KOSTA
-special_judge: true
-time_limit: 5 초
-memory_limit: 256 MB
+title: "KOSTA"
+special_judge: "true"
+time_limit: "5 초"
+memory_limit: "256 MB"
 submissions: 28
 accepted: 7
 solved_users: 7
-acceptance_rate: 31.818%
-collected_at: 2026-04-17T12:18:31.318310+00:00
+acceptance_rate: "31.818%"
+collected_at: "2026-04-17T12:18:31.318310+00:00"
 ---
 
 ## 문제

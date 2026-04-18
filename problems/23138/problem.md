@@ -1,13 +1,13 @@
 ---
-title: Swapping Inversions
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Swapping Inversions"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 26
 accepted: 17
 solved_users: 16
-acceptance_rate: 66.667%
-collected_at: 2026-04-17T16:42:52.035985+00:00
+acceptance_rate: "66.667%"
+collected_at: "2026-04-17T16:42:52.035985+00:00"
 ---
 
 ## 문제

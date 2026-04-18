@@ -1,13 +1,13 @@
 ---
-title: Subsequence Update
-special_judge: false
-time_limit: 1.5 초
-memory_limit: 2048 MB
+title: "Subsequence Update"
+special_judge: "false"
+time_limit: "1.5 초"
+memory_limit: "2048 MB"
 submissions: 154
 accepted: 93
 solved_users: 85
-acceptance_rate: 65.891%
-collected_at: 2026-04-17T20:13:24.804232+00:00
+acceptance_rate: "65.891%"
+collected_at: "2026-04-17T20:13:24.804232+00:00"
 ---
 
 ## 문제

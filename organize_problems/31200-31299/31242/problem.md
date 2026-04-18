@@ -1,13 +1,13 @@
 ---
-title: ШАХМАТНА ДЪСКA
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "ШАХМАТНА ДЪСКA"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 57
 accepted: 50
 solved_users: 46
-acceptance_rate: 90.196%
-collected_at: 2026-04-17T19:24:27.865653+00:00
+acceptance_rate: "90.196%"
+collected_at: "2026-04-17T19:24:27.865653+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 열심히 일하는 중
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "열심히 일하는 중"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 1223
 accepted: 634
 solved_users: 517
-acceptance_rate: 53.686%
-collected_at: 2026-04-17T19:37:53.790583+00:00
+acceptance_rate: "53.686%"
+collected_at: "2026-04-17T19:37:53.790583+00:00"
 ---
 
 ## 문제

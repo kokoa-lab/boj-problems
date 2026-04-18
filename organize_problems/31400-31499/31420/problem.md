@@ -1,13 +1,13 @@
 ---
-title: 문자열 - 그래프 매칭
-special_judge: false
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "문자열 - 그래프 매칭"
+special_judge: "false"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 184
 accepted: 79
 solved_users: 71
-acceptance_rate: 47.651%
-collected_at: 2026-04-17T19:27:51.782610+00:00
+acceptance_rate: "47.651%"
+collected_at: "2026-04-17T19:27:51.782610+00:00"
 ---
 
 ## 문제

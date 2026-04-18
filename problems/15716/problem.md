@@ -1,13 +1,13 @@
 ---
-title: 딸기당근수박참외메론게임
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "딸기당근수박참외메론게임"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 318
 accepted: 47
 solved_users: 22
-acceptance_rate: 13.665%
-collected_at: 2026-04-17T14:05:03.783889+00:00
+acceptance_rate: "13.665%"
+collected_at: "2026-04-17T14:05:03.783889+00:00"
 ---
 
 ## 문제

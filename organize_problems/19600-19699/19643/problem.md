@@ -1,13 +1,13 @@
 ---
-title: 좀비 떼가 전역 때보다 먼저 오다니
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "좀비 떼가 전역 때보다 먼저 오다니"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 418
 accepted: 55
 solved_users: 28
-acceptance_rate: 10.182%
-collected_at: 2026-04-17T15:25:53.392020+00:00
+acceptance_rate: "10.182%"
+collected_at: "2026-04-17T15:25:53.392020+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Piggy Back
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Piggy Back"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 382
 accepted: 230
 solved_users: 188
-acceptance_rate: 61.639%
-collected_at: 2026-04-17T12:26:57.259183+00:00
+acceptance_rate: "61.639%"
+collected_at: "2026-04-17T12:26:57.259183+00:00"
 ---
 
 ## 문제

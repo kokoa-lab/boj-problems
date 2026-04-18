@@ -1,13 +1,13 @@
 ---
-title: L-트로미노 계단
-special_judge: true
-time_limit: 1 초
-memory_limit: 256 MB
+title: "L-트로미노 계단"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 189
 accepted: 84
 solved_users: 46
-acceptance_rate: 41.818%
-collected_at: 2026-04-17T15:31:59.001552+00:00
+acceptance_rate: "41.818%"
+collected_at: "2026-04-17T15:31:59.001552+00:00"
 ---
 
 ## 문제

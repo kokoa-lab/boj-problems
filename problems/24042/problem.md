@@ -1,13 +1,13 @@
 ---
-title: 횡단보도
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "횡단보도"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 4255
 accepted: 1386
 solved_users: 996
-acceptance_rate: 28.844%
-collected_at: 2026-04-17T17:02:04.538009+00:00
+acceptance_rate: "28.844%"
+collected_at: "2026-04-17T17:02:04.538009+00:00"
 ---
 
 ## 문제

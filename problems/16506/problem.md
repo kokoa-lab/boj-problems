@@ -1,13 +1,13 @@
 ---
-title: CPU
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "CPU"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 1809
 accepted: 1031
 solved_users: 867
-acceptance_rate: 57.341%
-collected_at: 2026-04-17T14:19:19.289074+00:00
+acceptance_rate: "57.341%"
+collected_at: "2026-04-17T14:19:19.289074+00:00"
 ---
 
 ## 문제

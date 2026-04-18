@@ -1,13 +1,13 @@
 ---
-title: Log Analysis
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "Log Analysis"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 23
 accepted: 4
 solved_users: 2
-acceptance_rate: 15.385%
-collected_at: 2026-04-17T11:52:53.268675+00:00
+acceptance_rate: "15.385%"
+collected_at: "2026-04-17T11:52:53.268675+00:00"
 ---
 
 ## 문제

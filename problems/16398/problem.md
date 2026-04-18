@@ -1,13 +1,13 @@
 ---
-title: 행성 연결
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "행성 연결"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 11847
 accepted: 5791
 solved_users: 4200
-acceptance_rate: 45.807%
-collected_at: 2026-04-17T14:17:20.910385+00:00
+acceptance_rate: "45.807%"
+collected_at: "2026-04-17T14:17:20.910385+00:00"
 ---
 
 ## 문제

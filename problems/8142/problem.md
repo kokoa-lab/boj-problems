@@ -1,13 +1,13 @@
 ---
-title: Ridges and Valleys
-special_judge: false
-time_limit: 3 초
-memory_limit: 128 MB
+title: "Ridges and Valleys"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "128 MB"
 submissions: 129
 accepted: 71
 solved_users: 61
-acceptance_rate: 57.547%
-collected_at: 2026-04-17T11:56:32.604718+00:00
+acceptance_rate: "57.547%"
+collected_at: "2026-04-17T11:56:32.604718+00:00"
 ---
 
 ## 문제

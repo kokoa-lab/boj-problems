@@ -1,13 +1,13 @@
 ---
-title: Technology Planning (Small1)
-special_judge: true
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Technology Planning (Small1)"
+special_judge: "true"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 38
 accepted: 33
 solved_users: 24
-acceptance_rate: 85.714%
-collected_at: 2026-04-17T12:54:59.085377+00:00
+acceptance_rate: "85.714%"
+collected_at: "2026-04-17T12:54:59.085377+00:00"
 ---
 
 ## 문제

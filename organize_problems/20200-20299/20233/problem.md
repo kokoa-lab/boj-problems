@@ -1,13 +1,13 @@
 ---
-title: Bicycle
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Bicycle"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 2464
 accepted: 1866
 solved_users: 1764
-acceptance_rate: 75.936%
-collected_at: 2026-04-17T15:33:29.262458+00:00
+acceptance_rate: "75.936%"
+collected_at: "2026-04-17T15:33:29.262458+00:00"
 ---
 
 ## 문제

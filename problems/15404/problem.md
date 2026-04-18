@@ -1,13 +1,13 @@
 ---
-title: Divide and Conquer
-special_judge: false
-time_limit: 2 초
-memory_limit: 64 MB
+title: "Divide and Conquer"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "64 MB"
 submissions: 94
 accepted: 44
 solved_users: 41
-acceptance_rate: 52.564%
-collected_at: 2026-04-17T13:58:40.011232+00:00
+acceptance_rate: "52.564%"
+collected_at: "2026-04-17T13:58:40.011232+00:00"
 ---
 
 ## 문제

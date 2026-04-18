@@ -1,13 +1,13 @@
 ---
-title: 소풍
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "소풍"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 4932
 accepted: 1229
 solved_users: 852
-acceptance_rate: 25.632%
-collected_at: 2026-04-17T10:37:20.230072+00:00
+acceptance_rate: "25.632%"
+collected_at: "2026-04-17T10:37:20.230072+00:00"
 ---
 
 ## 문제

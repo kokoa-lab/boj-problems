@@ -1,13 +1,13 @@
 ---
-title: Послание
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Послание"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 115
 accepted: 90
 solved_users: 67
-acceptance_rate: 82.716%
-collected_at: 2026-04-17T18:35:24.599135+00:00
+acceptance_rate: "82.716%"
+collected_at: "2026-04-17T18:35:24.599135+00:00"
 ---
 
 ## 문제

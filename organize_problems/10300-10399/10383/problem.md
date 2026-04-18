@@ -1,13 +1,13 @@
 ---
-title: The Cost of Moving
-special_judge: false
-time_limit: 3 초
-memory_limit: 256 MB
+title: "The Cost of Moving"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "256 MB"
 submissions: 121
 accepted: 101
 solved_users: 80
-acceptance_rate: 83.333%
-collected_at: 2026-04-17T12:22:50.492218+00:00
+acceptance_rate: "83.333%"
+collected_at: "2026-04-17T12:22:50.492218+00:00"
 ---
 
 ## 문제

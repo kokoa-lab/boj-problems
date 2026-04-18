@@ -1,13 +1,13 @@
 ---
-title: Divisions
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Divisions"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 1818
 accepted: 970
 solved_users: 784
-acceptance_rate: 53.552%
-collected_at: 2026-04-17T12:30:31.454854+00:00
+acceptance_rate: "53.552%"
+collected_at: "2026-04-17T12:30:31.454854+00:00"
 ---
 
 ## 문제

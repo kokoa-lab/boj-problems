@@ -1,13 +1,13 @@
 ---
-title: Double Chunks
-special_judge: false
-time_limit: 1 초
-memory_limit: 2048 MB
+title: "Double Chunks"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "2048 MB"
 submissions: 31
 accepted: 20
 solved_users: 16
-acceptance_rate: 72.727%
-collected_at: 2026-04-17T20:09:34.323407+00:00
+acceptance_rate: "72.727%"
+collected_at: "2026-04-17T20:09:34.323407+00:00"
 ---
 
 ## 문제

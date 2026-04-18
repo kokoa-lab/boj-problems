@@ -1,13 +1,13 @@
 ---
-title: Double Crypt  3
-special_judge: true
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Double Crypt  3"
+special_judge: "true"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 63
 accepted: 56
 solved_users: 53
-acceptance_rate: 91.379%
-collected_at: 2026-04-17T17:06:01.636809+00:00
+acceptance_rate: "91.379%"
+collected_at: "2026-04-17T17:06:01.636809+00:00"
 ---
 
 ## 문제

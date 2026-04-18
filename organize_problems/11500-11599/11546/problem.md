@@ -1,13 +1,13 @@
 ---
-title: Fence the vegetables fail
-special_judge: false
-time_limit: 3 초
-memory_limit: 256 MB
+title: "Fence the vegetables fail"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "256 MB"
 submissions: 91
 accepted: 41
 solved_users: 37
-acceptance_rate: 42.529%
-collected_at: 2026-04-17T12:42:02.874514+00:00
+acceptance_rate: "42.529%"
+collected_at: "2026-04-17T12:42:02.874514+00:00"
 ---
 
 ## 문제

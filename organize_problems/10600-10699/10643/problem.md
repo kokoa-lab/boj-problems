@@ -1,13 +1,13 @@
 ---
-title: FUNGHI
-special_judge: false
-time_limit: 1 초
-memory_limit: 32 MB
+title: "FUNGHI"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "32 MB"
 submissions: 919
 accepted: 762
 solved_users: 699
-acceptance_rate: 83.813%
-collected_at: 2026-04-17T12:26:47.333321+00:00
+acceptance_rate: "83.813%"
+collected_at: "2026-04-17T12:26:47.333321+00:00"
 ---
 
 ## 문제

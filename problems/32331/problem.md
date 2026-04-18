@@ -1,13 +1,13 @@
 ---
-title: 원교수님 A+ 주세요
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "원교수님 A+ 주세요"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 533
 accepted: 126
 solved_users: 103
-acceptance_rate: 28.532%
-collected_at: 2026-04-17T19:49:01.783876+00:00
+acceptance_rate: "28.532%"
+collected_at: "2026-04-17T19:49:01.783876+00:00"
 ---
 
 ## 문제

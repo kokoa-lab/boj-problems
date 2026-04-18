@@ -1,13 +1,13 @@
 ---
-title: UDP 스택
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "UDP 스택"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 672
 accepted: 189
 solved_users: 157
-acceptance_rate: 30.545%
-collected_at: 2026-04-17T19:35:22.150723+00:00
+acceptance_rate: "30.545%"
+collected_at: "2026-04-17T19:35:22.150723+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 1 또는 -1
-special_judge: true
-time_limit: 2 초
-memory_limit: 128 MB
+title: "1 또는 -1"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 488
 accepted: 215
 solved_users: 165
-acceptance_rate: 59.140%
-collected_at: 2026-04-17T10:31:47.928156+00:00
+acceptance_rate: "59.140%"
+collected_at: "2026-04-17T10:31:47.928156+00:00"
 ---
 
 ## 문제

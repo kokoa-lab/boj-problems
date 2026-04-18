@@ -1,13 +1,13 @@
 ---
-title: shapey
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "shapey"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 255
 accepted: 65
 solved_users: 45
-acceptance_rate: 20.737%
-collected_at: 2026-04-17T20:19:01.251740+00:00
+acceptance_rate: "20.737%"
+collected_at: "2026-04-17T20:19:01.251740+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: The Ninja Way
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "The Ninja Way"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 92
 accepted: 25
 solved_users: 18
-acceptance_rate: 38.298%
-collected_at: 2026-04-17T10:55:58.591368+00:00
+acceptance_rate: "38.298%"
+collected_at: "2026-04-17T10:55:58.591368+00:00"
 ---
 
 ## 문제

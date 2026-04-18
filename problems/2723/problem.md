@@ -1,13 +1,13 @@
 ---
-title: 눌러서 잠금 해제
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "눌러서 잠금 해제"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 202
 accepted: 130
 solved_users: 113
-acceptance_rate: 68.485%
-collected_at: 2026-04-17T10:44:16.424287+00:00
+acceptance_rate: "68.485%"
+collected_at: "2026-04-17T10:44:16.424287+00:00"
 ---
 
 ## 문제

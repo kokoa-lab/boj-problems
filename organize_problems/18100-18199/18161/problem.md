@@ -1,13 +1,13 @@
 ---
-title: 마스터마인드
-special_judge: false
-time_limit: 3 초
-memory_limit: 512 MB
+title: "마스터마인드"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "512 MB"
 submissions: 234
 accepted: 32
 solved_users: 16
-acceptance_rate: 9.938%
-collected_at: 2026-04-17T14:56:35.665103+00:00
+acceptance_rate: "9.938%"
+collected_at: "2026-04-17T14:56:35.665103+00:00"
 ---
 
 ## 문제

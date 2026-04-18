@@ -1,13 +1,13 @@
 ---
-title: IP Matching
-special_judge: false
-time_limit: 1 초
-memory_limit: 2048 MB
+title: "IP Matching"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "2048 MB"
 submissions: 23
 accepted: 20
 solved_users: 19
-acceptance_rate: 86.364%
-collected_at: 2026-04-17T20:34:41.385523+00:00
+acceptance_rate: "86.364%"
+collected_at: "2026-04-17T20:34:41.385523+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 카이사르 암호
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "카이사르 암호"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 15327
 accepted: 8473
 solved_users: 7618
-acceptance_rate: 56.413%
-collected_at: 2026-04-17T11:15:54.227822+00:00
+acceptance_rate: "56.413%"
+collected_at: "2026-04-17T11:15:54.227822+00:00"
 ---
 
 ## 문제

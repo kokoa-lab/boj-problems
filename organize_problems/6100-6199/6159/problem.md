@@ -1,13 +1,13 @@
 ---
-title: Costume Party
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Costume Party"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 2419
 accepted: 1386
 solved_users: 1120
-acceptance_rate: 58.455%
-collected_at: 2026-04-17T11:21:30.842913+00:00
+acceptance_rate: "58.455%"
+collected_at: "2026-04-17T11:21:30.842913+00:00"
 ---
 
 ## 문제

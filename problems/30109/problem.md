@@ -1,13 +1,13 @@
 ---
-title: 보물 상자
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "보물 상자"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 195
 accepted: 45
 solved_users: 40
-acceptance_rate: 23.392%
-collected_at: 2026-04-17T18:59:06.008934+00:00
+acceptance_rate: "23.392%"
+collected_at: "2026-04-17T18:59:06.008934+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 백지 퍼즐
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "백지 퍼즐"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 225
 accepted: 172
 solved_users: 142
-acceptance_rate: 82.081%
-collected_at: 2026-04-17T20:52:15.268715+00:00
+acceptance_rate: "82.081%"
+collected_at: "2026-04-17T20:52:15.268715+00:00"
 ---
 
 ## 문제

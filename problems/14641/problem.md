@@ -1,13 +1,13 @@
 ---
-title: Secret Chamber at Mount Rushmore
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Secret Chamber at Mount Rushmore"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 196
 accepted: 142
 solved_users: 130
-acceptance_rate: 73.446%
-collected_at: 2026-04-17T13:39:43.657363+00:00
+acceptance_rate: "73.446%"
+collected_at: "2026-04-17T13:39:43.657363+00:00"
 ---
 
 ## 문제

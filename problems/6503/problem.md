@@ -1,13 +1,13 @@
 ---
-title: 망가진 키보드
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "망가진 키보드"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 1395
 accepted: 528
 solved_users: 420
-acceptance_rate: 37.940%
-collected_at: 2026-04-17T11:29:21.398082+00:00
+acceptance_rate: "37.940%"
+collected_at: "2026-04-17T11:29:21.398082+00:00"
 ---
 
 ## 문제

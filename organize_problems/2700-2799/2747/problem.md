@@ -1,13 +1,13 @@
 ---
-title: 피보나치 수
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 128 MB
+title: "피보나치 수"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "128 MB"
 submissions: 93364
 accepted: 45872
 solved_users: 37816
-acceptance_rate: 50.612%
-collected_at: 2026-04-17T10:44:28.659325+00:00
+acceptance_rate: "50.612%"
+collected_at: "2026-04-17T10:44:28.659325+00:00"
 ---
 
 ## 문제

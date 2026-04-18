@@ -1,13 +1,13 @@
 ---
-title: Numeral System
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Numeral System"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 38
 accepted: 35
 solved_users: 35
-acceptance_rate: 97.222%
-collected_at: 2026-04-17T11:10:38.866407+00:00
+acceptance_rate: "97.222%"
+collected_at: "2026-04-17T11:10:38.866407+00:00"
 ---
 
 ## 문제

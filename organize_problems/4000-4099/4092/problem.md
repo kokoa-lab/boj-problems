@@ -1,13 +1,13 @@
 ---
-title: 비트 개수 세기
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "비트 개수 세기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 344
 accepted: 76
 solved_users: 51
-acceptance_rate: 36.170%
-collected_at: 2026-04-17T10:55:47.125869+00:00
+acceptance_rate: "36.170%"
+collected_at: "2026-04-17T10:55:47.125869+00:00"
 ---
 
 ## 문제

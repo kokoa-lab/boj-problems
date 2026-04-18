@@ -1,13 +1,13 @@
 ---
-title: 🐜 기적의 매매법 🐜
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "🐜 기적의 매매법 🐜"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 8654
 accepted: 3905
 solved_users: 3152
-acceptance_rate: 45.379%
-collected_at: 2026-04-17T15:37:48.757078+00:00
+acceptance_rate: "45.379%"
+collected_at: "2026-04-17T15:37:48.757078+00:00"
 ---
 
 ## 문제

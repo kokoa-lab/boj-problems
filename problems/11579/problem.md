@@ -1,13 +1,13 @@
 ---
-title: 초차원전쟁 이나
-special_judge: false
-time_limit: 5 초
-memory_limit: 256 MB
+title: "초차원전쟁 이나"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "256 MB"
 submissions: 219
 accepted: 105
 solved_users: 86
-acceptance_rate: 50.000%
-collected_at: 2026-04-17T12:42:27.519290+00:00
+acceptance_rate: "50.000%"
+collected_at: "2026-04-17T12:42:27.519290+00:00"
 ---
 
 ## 문제

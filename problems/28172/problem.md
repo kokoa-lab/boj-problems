@@ -1,13 +1,13 @@
 ---
-title: Paddle Star
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Paddle Star"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 19
 accepted: 6
 solved_users: 6
-acceptance_rate: 31.579%
-collected_at: 2026-04-17T18:19:28.070570+00:00
+acceptance_rate: "31.579%"
+collected_at: "2026-04-17T18:19:28.070570+00:00"
 ---
 
 ## 문제

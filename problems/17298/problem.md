@@ -1,13 +1,13 @@
 ---
-title: 오큰수
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "오큰수"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 114605
 accepted: 44187
 solved_users: 30613
-acceptance_rate: 36.398%
-collected_at: 2026-04-17T14:36:31.264306+00:00
+acceptance_rate: "36.398%"
+collected_at: "2026-04-17T14:36:31.264306+00:00"
 ---
 
 ## 문제

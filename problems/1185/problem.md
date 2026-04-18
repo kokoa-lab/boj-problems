@@ -1,13 +1,13 @@
 ---
-title: 유럽여행
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "유럽여행"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 1482
 accepted: 994
 solved_users: 814
-acceptance_rate: 67.833%
-collected_at: 2026-04-17T10:28:40.698121+00:00
+acceptance_rate: "67.833%"
+collected_at: "2026-04-17T10:28:40.698121+00:00"
 ---
 
 ## 문제

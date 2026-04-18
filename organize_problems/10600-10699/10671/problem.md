@@ -1,13 +1,13 @@
 ---
-title: Grass Cownoisseur
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Grass Cownoisseur"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 198
 accepted: 81
 solved_users: 58
-acceptance_rate: 38.667%
-collected_at: 2026-04-17T12:27:13.930843+00:00
+acceptance_rate: "38.667%"
+collected_at: "2026-04-17T12:27:13.930843+00:00"
 ---
 
 ## 문제

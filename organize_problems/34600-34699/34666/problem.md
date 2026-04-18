@@ -1,13 +1,13 @@
 ---
-title: 가희와 일본 문화
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "가희와 일본 문화"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 453
 accepted: 262
 solved_users: 213
-acceptance_rate: 59.003%
-collected_at: 2026-04-17T20:45:26.832312+00:00
+acceptance_rate: "59.003%"
+collected_at: "2026-04-17T20:45:26.832312+00:00"
 ---
 
 ## 문제

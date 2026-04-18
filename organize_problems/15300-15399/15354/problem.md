@@ -1,13 +1,13 @@
 ---
-title: Aron
-special_judge: false
-time_limit: 1 초
-memory_limit: 32 MB
+title: "Aron"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "32 MB"
 submissions: 673
 accepted: 532
 solved_users: 497
-acceptance_rate: 83.110%
-collected_at: 2026-04-17T13:57:46.913428+00:00
+acceptance_rate: "83.110%"
+collected_at: "2026-04-17T13:57:46.913428+00:00"
 ---
 
 ## 문제

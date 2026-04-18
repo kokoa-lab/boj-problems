@@ -1,13 +1,13 @@
 ---
-title: 소수 4개의 합
-special_judge: true
-time_limit: 2 초
-memory_limit: 512 MB
+title: "소수 4개의 합"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 1293
 accepted: 434
 solved_users: 295
-acceptance_rate: 29.858%
-collected_at: 2026-04-17T13:45:04.986510+00:00
+acceptance_rate: "29.858%"
+collected_at: "2026-04-17T13:45:04.986510+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 모험가 길드
-special_judge: false
-time_limit: 3 초
-memory_limit: 1024 MB
+title: "모험가 길드"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "1024 MB"
 submissions: 184
 accepted: 24
 solved_users: 22
-acceptance_rate: 34.921%
-collected_at: 2026-04-17T17:28:20.785728+00:00
+acceptance_rate: "34.921%"
+collected_at: "2026-04-17T17:28:20.785728+00:00"
 ---
 
 ## 문제

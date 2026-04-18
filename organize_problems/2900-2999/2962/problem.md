@@ -1,13 +1,13 @@
 ---
-title: 동물원 확장
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "동물원 확장"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 1326
 accepted: 104
 solved_users: 79
-acceptance_rate: 20.899%
-collected_at: 2026-04-17T10:45:57.597221+00:00
+acceptance_rate: "20.899%"
+collected_at: "2026-04-17T10:45:57.597221+00:00"
 ---
 
 ## 문제

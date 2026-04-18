@@ -1,13 +1,13 @@
 ---
-title: 래환이의 초콜릿 포장 이야기
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "래환이의 초콜릿 포장 이야기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 129
 accepted: 51
 solved_users: 38
-acceptance_rate: 35.185%
-collected_at: 2026-04-17T20:31:19.595127+00:00
+acceptance_rate: "35.185%"
+collected_at: "2026-04-17T20:31:19.595127+00:00"
 ---
 
 ## 문제

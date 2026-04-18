@@ -1,13 +1,13 @@
 ---
-title: Hedge Mazes
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Hedge Mazes"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 23
 accepted: 10
 solved_users: 9
-acceptance_rate: 42.857%
-collected_at: 2026-04-17T11:16:35.280014+00:00
+acceptance_rate: "42.857%"
+collected_at: "2026-04-17T11:16:35.280014+00:00"
 ---
 
 ## 문제

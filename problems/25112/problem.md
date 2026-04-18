@@ -1,13 +1,13 @@
 ---
-title: Single-track railway
-special_judge: false
-time_limit: 4 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "Single-track railway"
+special_judge: "false"
+time_limit: "4 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 141
 accepted: 65
 solved_users: 54
-acceptance_rate: 50.467%
-collected_at: 2026-04-17T17:20:57.217860+00:00
+acceptance_rate: "50.467%"
+collected_at: "2026-04-17T17:20:57.217860+00:00"
 ---
 
 ## 문제

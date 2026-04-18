@@ -1,13 +1,13 @@
 ---
-title: Moocryption
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Moocryption"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 508
 accepted: 187
 solved_users: 157
-acceptance_rate: 40.256%
-collected_at: 2026-04-17T12:29:12.839162+00:00
+acceptance_rate: "40.256%"
+collected_at: "2026-04-17T12:29:12.839162+00:00"
 ---
 
 ## 문제

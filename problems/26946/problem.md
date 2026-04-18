@@ -1,13 +1,13 @@
 ---
-title: Tomater
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Tomater"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 89
 accepted: 64
 solved_users: 59
-acceptance_rate: 71.084%
-collected_at: 2026-04-17T17:53:48.138734+00:00
+acceptance_rate: "71.084%"
+collected_at: "2026-04-17T17:53:48.138734+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Easy Compare-and-Set
-special_judge: true
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Easy Compare-and-Set"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 98
 accepted: 33
 solved_users: 22
-acceptance_rate: 30.556%
-collected_at: 2026-04-17T15:33:23.395135+00:00
+acceptance_rate: "30.556%"
+collected_at: "2026-04-17T15:33:23.395135+00:00"
 ---
 
 ## 문제

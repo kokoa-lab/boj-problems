@@ -1,13 +1,13 @@
 ---
-title: 縄張り (Territory)
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "縄張り (Territory)"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 39
 accepted: 10
 solved_users: 7
-acceptance_rate: 21.212%
-collected_at: 2026-04-17T17:04:46.084844+00:00
+acceptance_rate: "21.212%"
+collected_at: "2026-04-17T17:04:46.084844+00:00"
 ---
 
 ## 문제

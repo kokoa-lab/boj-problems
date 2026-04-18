@@ -1,13 +1,13 @@
 ---
-title: 수강신청
-special_judge: false
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 256 MB
+title: "수강신청"
+special_judge: "false"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "256 MB"
 submissions: 595
 accepted: 79
 solved_users: 40
-acceptance_rate: 14.388%
-collected_at: 2026-04-17T14:12:15.229462+00:00
+acceptance_rate: "14.388%"
+collected_at: "2026-04-17T14:12:15.229462+00:00"
 ---
 
 ## 문제

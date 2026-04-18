@@ -1,13 +1,13 @@
 ---
-title: 장갑
-special_judge: true
-time_limit: 2 초
-memory_limit: 128 MB
+title: "장갑"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 337
 accepted: 50
 solved_users: 36
-acceptance_rate: 34.951%
-collected_at: 2026-04-17T10:28:41.973931+00:00
+acceptance_rate: "34.951%"
+collected_at: "2026-04-17T10:28:41.973931+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 서울에서 경산까지
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "서울에서 경산까지"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 8235
 accepted: 2565
 solved_users: 1749
-acceptance_rate: 31.149%
-collected_at: 2026-04-17T13:43:25.730819+00:00
+acceptance_rate: "31.149%"
+collected_at: "2026-04-17T13:43:25.730819+00:00"
 ---
 
 ## 문제

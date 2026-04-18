@@ -1,13 +1,13 @@
 ---
-title: Dominating Duos
-special_judge: false
-time_limit: 4 초
-memory_limit: 512 MB
+title: "Dominating Duos"
+special_judge: "false"
+time_limit: "4 초"
+memory_limit: "512 MB"
 submissions: 104
 accepted: 59
 solved_users: 53
-acceptance_rate: 58.889%
-collected_at: 2026-04-17T15:48:47.041440+00:00
+acceptance_rate: "58.889%"
+collected_at: "2026-04-17T15:48:47.041440+00:00"
 ---
 
 ## 문제

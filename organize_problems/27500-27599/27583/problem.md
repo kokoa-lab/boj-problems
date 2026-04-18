@@ -1,13 +1,13 @@
 ---
-title: Hunt the Wumpus
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Hunt the Wumpus"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 39
 accepted: 32
 solved_users: 29
-acceptance_rate: 80.556%
-collected_at: 2026-04-17T18:07:05.092638+00:00
+acceptance_rate: "80.556%"
+collected_at: "2026-04-17T18:07:05.092638+00:00"
 ---
 
 ## 문제

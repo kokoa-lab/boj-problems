@@ -1,13 +1,13 @@
 ---
-title: Ocean Currents
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Ocean Currents"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 261
 accepted: 81
 solved_users: 54
-acceptance_rate: 31.214%
-collected_at: 2026-04-17T10:56:58.616355+00:00
+acceptance_rate: "31.214%"
+collected_at: "2026-04-17T10:56:58.616355+00:00"
 ---
 
 ## 문제

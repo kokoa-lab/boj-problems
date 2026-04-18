@@ -1,13 +1,13 @@
 ---
-title: 최대공약수가 뭔데
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "최대공약수가 뭔데"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 493
 accepted: 123
 solved_users: 92
-acceptance_rate: 31.081%
-collected_at: 2026-04-17T16:45:14.382183+00:00
+acceptance_rate: "31.081%"
+collected_at: "2026-04-17T16:45:14.382183+00:00"
 ---
 
 ## 문제

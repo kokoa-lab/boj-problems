@@ -1,13 +1,13 @@
 ---
-title: 현주와 윤주의 재미있는 단어 게임
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "현주와 윤주의 재미있는 단어 게임"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 888
 accepted: 300
 solved_users: 238
-acceptance_rate: 43.670%
-collected_at: 2026-04-17T10:47:12.492197+00:00
+acceptance_rate: "43.670%"
+collected_at: "2026-04-17T10:47:12.492197+00:00"
 ---
 
 ## 문제

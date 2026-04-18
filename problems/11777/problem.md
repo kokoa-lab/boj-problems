@@ -1,13 +1,13 @@
 ---
-title: 남욱이의 썩은 계란판
-special_judge: false
-time_limit: 4 초
-memory_limit: 512 MB
+title: "남욱이의 썩은 계란판"
+special_judge: "false"
+time_limit: "4 초"
+memory_limit: "512 MB"
 submissions: 284
 accepted: 49
 solved_users: 33
-acceptance_rate: 14.348%
-collected_at: 2026-04-17T12:45:46.354299+00:00
+acceptance_rate: "14.348%"
+collected_at: "2026-04-17T12:45:46.354299+00:00"
 ---
 
 ## 문제

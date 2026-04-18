@@ -1,13 +1,13 @@
 ---
-title: 연도 진행바
-special_judge: true
-time_limit: 2 초
-memory_limit: 128 MB
+title: "연도 진행바"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 4865
 accepted: 2277
 solved_users: 1987
-acceptance_rate: 48.546%
-collected_at: 2026-04-17T10:29:33.489395+00:00
+acceptance_rate: "48.546%"
+collected_at: "2026-04-17T10:29:33.489395+00:00"
 ---
 
 ## 문제

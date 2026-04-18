@@ -1,13 +1,13 @@
 ---
-title: Stations
-special_judge: false
-time_limit: 20 초
-memory_limit: 1024 MB
+title: "Stations"
+special_judge: "false"
+time_limit: "20 초"
+memory_limit: "1024 MB"
 submissions: 328
 accepted: 97
 solved_users: 94
-acceptance_rate: 36.576%
-collected_at: 2026-04-17T15:29:35.137793+00:00
+acceptance_rate: "36.576%"
+collected_at: "2026-04-17T15:29:35.137793+00:00"
 ---
 
 ## 문제

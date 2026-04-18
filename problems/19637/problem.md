@@ -1,13 +1,13 @@
 ---
-title: IF문 좀 대신 써줘
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "IF문 좀 대신 써줘"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 15416
 accepted: 5476
 solved_users: 4321
-acceptance_rate: 35.687%
-collected_at: 2026-04-17T15:25:43.929907+00:00
+acceptance_rate: "35.687%"
+collected_at: "2026-04-17T15:25:43.929907+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: List of Powers
-special_judge: false
-time_limit: 3.5 초
-memory_limit: 1024 MB
+title: "List of Powers"
+special_judge: "false"
+time_limit: "3.5 초"
+memory_limit: "1024 MB"
 submissions: 200
 accepted: 37
 solved_users: 13
-acceptance_rate: 9.848%
-collected_at: 2026-04-17T19:27:11.226983+00:00
+acceptance_rate: "9.848%"
+collected_at: "2026-04-17T19:27:11.226983+00:00"
 ---
 
 ## 문제

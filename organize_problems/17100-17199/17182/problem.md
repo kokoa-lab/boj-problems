@@ -1,13 +1,13 @@
 ---
-title: 우주 탐사선
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "우주 탐사선"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 5735
 accepted: 3280
 solved_users: 2456
-acceptance_rate: 56.330%
-collected_at: 2026-04-17T14:32:21.265734+00:00
+acceptance_rate: "56.330%"
+collected_at: "2026-04-17T14:32:21.265734+00:00"
 ---
 
 ## 문제

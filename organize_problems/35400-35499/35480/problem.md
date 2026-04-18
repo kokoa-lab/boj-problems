@@ -1,13 +1,13 @@
 ---
-title: 오늘보다 더 기쁜 날은 남은 생에 많지 않을 것이다
-special_judge: false
-time_limit: 2.9 초
-memory_limit: 329 MB
+title: "오늘보다 더 기쁜 날은 남은 생에 많지 않을 것이다"
+special_judge: "false"
+time_limit: "2.9 초"
+memory_limit: "329 MB"
 submissions: 142
 accepted: 92
 solved_users: 75
-acceptance_rate: 63.025%
-collected_at: 2026-04-18T09:52:02.909386+00:00
+acceptance_rate: "63.025%"
+collected_at: "2026-04-18T09:52:02.909386+00:00"
 ---
 
 ## 문제

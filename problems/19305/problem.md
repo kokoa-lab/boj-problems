@@ -1,13 +1,13 @@
 ---
-title: Chalk Outline
-special_judge: true
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Chalk Outline"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 37
 accepted: 7
 solved_users: 4
-acceptance_rate: 80.000%
-collected_at: 2026-04-17T15:16:46.383324+00:00
+acceptance_rate: "80.000%"
+collected_at: "2026-04-17T15:16:46.383324+00:00"
 ---
 
 ## 문제

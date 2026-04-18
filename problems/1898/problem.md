@@ -1,13 +1,13 @@
 ---
-title: 이전 수열은 어떤 수열일까
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "이전 수열은 어떤 수열일까"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 571
 accepted: 282
 solved_users: 205
-acceptance_rate: 53.665%
-collected_at: 2026-04-17T10:35:30.371837+00:00
+acceptance_rate: "53.665%"
+collected_at: "2026-04-17T10:35:30.371837+00:00"
 ---
 
 ## 문제

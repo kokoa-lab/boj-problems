@@ -1,13 +1,13 @@
 ---
-title: 막대 만들기
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "막대 만들기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 1260
 accepted: 580
 solved_users: 461
-acceptance_rate: 48.171%
-collected_at: 2026-04-17T18:26:48.950520+00:00
+acceptance_rate: "48.171%"
+collected_at: "2026-04-17T18:26:48.950520+00:00"
 ---
 
 ## 문제

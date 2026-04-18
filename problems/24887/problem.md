@@ -1,13 +1,13 @@
 ---
-title: 최대한의 휴식
-special_judge: false
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "최대한의 휴식"
+special_judge: "false"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 312
 accepted: 138
 solved_users: 127
-acceptance_rate: 46.863%
-collected_at: 2026-04-17T17:16:40.544779+00:00
+acceptance_rate: "46.863%"
+collected_at: "2026-04-17T17:16:40.544779+00:00"
 ---
 
 ## 문제

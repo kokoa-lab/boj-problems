@@ -1,13 +1,13 @@
 ---
-title: 홀수 부분열
-special_judge: false
-time_limit: 3 초
-memory_limit: 512 MB
+title: "홀수 부분열"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "512 MB"
 submissions: 173
 accepted: 73
 solved_users: 53
-acceptance_rate: 43.089%
-collected_at: 2026-04-17T14:36:04.447953+00:00
+acceptance_rate: "43.089%"
+collected_at: "2026-04-17T14:36:04.447953+00:00"
 ---
 
 ## 문제

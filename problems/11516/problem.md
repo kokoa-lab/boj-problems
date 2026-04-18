@@ -1,13 +1,13 @@
 ---
-title: Interpreter
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Interpreter"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 376
 accepted: 81
 solved_users: 33
-acceptance_rate: 12.268%
-collected_at: 2026-04-17T12:41:41.794156+00:00
+acceptance_rate: "12.268%"
+collected_at: "2026-04-17T12:41:41.794156+00:00"
 ---
 
 ## 문제

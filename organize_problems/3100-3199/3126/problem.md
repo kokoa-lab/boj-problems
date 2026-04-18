@@ -1,13 +1,13 @@
 ---
-title: 반역의 원철이
-special_judge: true
-time_limit: 1 초
-memory_limit: 128 MB
+title: "반역의 원철이"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 164
 accepted: 42
 solved_users: 34
-acceptance_rate: 26.357%
-collected_at: 2026-04-17T10:46:54.025157+00:00
+acceptance_rate: "26.357%"
+collected_at: "2026-04-17T10:46:54.025157+00:00"
 ---
 
 ## 문제

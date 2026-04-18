@@ -1,13 +1,13 @@
 ---
-title: Base-2 Palindromes
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Base-2 Palindromes"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 200
 accepted: 123
 solved_users: 96
-acceptance_rate: 62.338%
-collected_at: 2026-04-17T12:37:40.810499+00:00
+acceptance_rate: "62.338%"
+collected_at: "2026-04-17T12:37:40.810499+00:00"
 ---
 
 ## 문제

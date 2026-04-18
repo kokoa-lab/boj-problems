@@ -1,13 +1,13 @@
 ---
-title: “Bubble Gum, Bubble Gum, in the dish, how many pieces do you wish?”
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "“Bubble Gum, Bubble Gum, in the dish, how many pieces do you wish?”"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 263
 accepted: 212
 solved_users: 184
-acceptance_rate: 83.636%
-collected_at: 2026-04-17T11:02:49.025733+00:00
+acceptance_rate: "83.636%"
+collected_at: "2026-04-17T11:02:49.025733+00:00"
 ---
 
 ## 문제

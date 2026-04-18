@@ -1,13 +1,13 @@
 ---
-title: 2048
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "2048"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 133
 accepted: 78
 solved_users: 57
-acceptance_rate: 60.000%
-collected_at: 2026-04-18T09:50:50.602223+00:00
+acceptance_rate: "60.000%"
+collected_at: "2026-04-18T09:50:50.602223+00:00"
 ---
 
 ## 문제

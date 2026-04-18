@@ -1,13 +1,13 @@
 ---
-title: Jane's Flower Shop (Small)
-special_judge: true
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Jane's Flower Shop (Small)"
+special_judge: "true"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 46
 accepted: 32
 solved_users: 30
-acceptance_rate: 73.171%
-collected_at: 2026-04-17T13:30:19.809237+00:00
+acceptance_rate: "73.171%"
+collected_at: "2026-04-17T13:30:19.809237+00:00"
 ---
 
 ## 문제

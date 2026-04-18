@@ -1,13 +1,13 @@
 ---
-title: 꿀벌
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "꿀벌"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 2914
 accepted: 888
 solved_users: 743
-acceptance_rate: 36.655%
-collected_at: 2026-04-17T12:13:53.900078+00:00
+acceptance_rate: "36.655%"
+collected_at: "2026-04-17T12:13:53.900078+00:00"
 ---
 
 ## 문제

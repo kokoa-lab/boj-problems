@@ -1,13 +1,13 @@
 ---
-title: High Load Database
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "High Load Database"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 93
 accepted: 49
 solved_users: 42
-acceptance_rate: 66.667%
-collected_at: 2026-04-17T14:55:12.104073+00:00
+acceptance_rate: "66.667%"
+collected_at: "2026-04-17T14:55:12.104073+00:00"
 ---
 
 ## 문제

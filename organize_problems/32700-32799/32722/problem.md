@@ -1,13 +1,13 @@
 ---
-title: Juta teekond
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Juta teekond"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 661
 accepted: 452
 solved_users: 404
-acceptance_rate: 69.416%
-collected_at: 2026-04-17T19:59:48.735464+00:00
+acceptance_rate: "69.416%"
+collected_at: "2026-04-17T19:59:48.735464+00:00"
 ---
 
 ## 문제

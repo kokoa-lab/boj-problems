@@ -1,13 +1,13 @@
 ---
-title: 세 번 이내에 사과를 먹자
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "세 번 이내에 사과를 먹자"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 3561
 accepted: 1237
 solved_users: 949
-acceptance_rate: 34.775%
-collected_at: 2026-04-17T17:41:10.136693+00:00
+acceptance_rate: "34.775%"
+collected_at: "2026-04-17T17:41:10.136693+00:00"
 ---
 
 ## 문제

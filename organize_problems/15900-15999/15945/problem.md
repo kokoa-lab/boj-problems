@@ -1,13 +1,13 @@
 ---
-title: Make Similar
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "Make Similar"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 527
 accepted: 169
 solved_users: 142
-acceptance_rate: 36.041%
-collected_at: 2026-04-17T14:09:02.670263+00:00
+acceptance_rate: "36.041%"
+collected_at: "2026-04-17T14:09:02.670263+00:00"
 ---
 
 ## 문제

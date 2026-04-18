@@ -1,13 +1,13 @@
 ---
-title: Kuglice
-special_judge: false
-time_limit: 0.5 초
-memory_limit: 1024 MB
+title: "Kuglice"
+special_judge: "false"
+time_limit: "0.5 초"
+memory_limit: "1024 MB"
 submissions: 43
 accepted: 22
 solved_users: 20
-acceptance_rate: 50.000%
-collected_at: 2026-04-17T19:18:29.327238+00:00
+acceptance_rate: "50.000%"
+collected_at: "2026-04-17T19:18:29.327238+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 풍선 터뜨리기
-special_judge: false
-time_limit: 2 초
-memory_limit: 4 MB
+title: "풍선 터뜨리기"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "4 MB"
 submissions: 51700
 accepted: 22663
 solved_users: 18475
-acceptance_rate: 45.420%
-collected_at: 2026-04-17T10:40:51.039460+00:00
+acceptance_rate: "45.420%"
+collected_at: "2026-04-17T10:40:51.039460+00:00"
 ---
 
 ## 문제

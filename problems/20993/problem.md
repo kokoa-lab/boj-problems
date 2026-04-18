@@ -1,13 +1,13 @@
 ---
-title: Furniture
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Furniture"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 60
 accepted: 24
 solved_users: 23
-acceptance_rate: 43.396%
-collected_at: 2026-04-17T15:45:02.521499+00:00
+acceptance_rate: "43.396%"
+collected_at: "2026-04-17T15:45:02.521499+00:00"
 ---
 
 ## 문제

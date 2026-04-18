@@ -1,13 +1,13 @@
 ---
-title: МАКСИМАЛНА ПЕЧАЛБА
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "МАКСИМАЛНА ПЕЧАЛБА"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 106
 accepted: 80
 solved_users: 69
-acceptance_rate: 74.194%
-collected_at: 2026-04-17T19:24:45.587096+00:00
+acceptance_rate: "74.194%"
+collected_at: "2026-04-17T19:24:45.587096+00:00"
 ---
 
 ## 문제

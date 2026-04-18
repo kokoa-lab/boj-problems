@@ -1,13 +1,13 @@
 ---
-title: 가희와 방어율 무시
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "가희와 방어율 무시"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 12303
 accepted: 6200
 solved_users: 5794
-acceptance_rate: 51.125%
-collected_at: 2026-04-17T17:23:15.653682+00:00
+acceptance_rate: "51.125%"
+collected_at: "2026-04-17T17:23:15.653682+00:00"
 ---
 
 ## 문제

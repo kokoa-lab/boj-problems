@@ -1,13 +1,13 @@
 ---
-title: Shattered Cake
-special_judge: false
-time_limit: 10 초
-memory_limit: 512 MB
+title: "Shattered Cake"
+special_judge: "false"
+time_limit: "10 초"
+memory_limit: "512 MB"
 submissions: 548
 accepted: 417
 solved_users: 359
-acceptance_rate: 77.204%
-collected_at: 2026-04-17T13:58:53.454236+00:00
+acceptance_rate: "77.204%"
+collected_at: "2026-04-17T13:58:53.454236+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 이삿짐센터
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "이삿짐센터"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 1113
 accepted: 458
 solved_users: 396
-acceptance_rate: 43.709%
-collected_at: 2026-04-17T14:14:08.191155+00:00
+acceptance_rate: "43.709%"
+collected_at: "2026-04-17T14:14:08.191155+00:00"
 ---
 
 ## 문제

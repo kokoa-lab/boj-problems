@@ -1,13 +1,13 @@
 ---
-title: ABC String
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 2048 MB
+title: "ABC String"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "2048 MB"
 submissions: 109
 accepted: 64
 solved_users: 59
-acceptance_rate: 65.556%
-collected_at: 2026-04-17T19:29:27.028588+00:00
+acceptance_rate: "65.556%"
+collected_at: "2026-04-17T19:29:27.028588+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Railway Trip
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Railway Trip"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 72
 accepted: 31
 solved_users: 29
-acceptance_rate: 52.727%
-collected_at: 2026-04-17T14:45:46.484290+00:00
+acceptance_rate: "52.727%"
+collected_at: "2026-04-17T14:45:46.484290+00:00"
 ---
 
 ## 문제

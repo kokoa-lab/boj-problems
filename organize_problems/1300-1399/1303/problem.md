@@ -1,13 +1,13 @@
 ---
-title: 전쟁 - 전투
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "전쟁 - 전투"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 24691
 accepted: 10077
 solved_users: 8077
-acceptance_rate: 39.820%
-collected_at: 2026-04-17T10:29:22.833691+00:00
+acceptance_rate: "39.820%"
+collected_at: "2026-04-17T10:29:22.833691+00:00"
 ---
 
 ## 문제

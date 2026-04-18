@@ -1,13 +1,13 @@
 ---
-title: 수들의 합 2
-special_judge: false
-time_limit: 0.5 초
-memory_limit: 128 MB
+title: "수들의 합 2"
+special_judge: "false"
+time_limit: "0.5 초"
+memory_limit: "128 MB"
 submissions: 75063
 accepted: 36857
 solved_users: 25471
-acceptance_rate: 48.878%
-collected_at: 2026-04-17T10:36:59.038547+00:00
+acceptance_rate: "48.878%"
+collected_at: "2026-04-17T10:36:59.038547+00:00"
 ---
 
 ## 문제

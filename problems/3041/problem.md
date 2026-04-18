@@ -1,13 +1,13 @@
 ---
-title: N-퍼즐
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "N-퍼즐"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 2073
 accepted: 1361
 solved_users: 1218
-acceptance_rate: 68.775%
-collected_at: 2026-04-17T10:46:21.571216+00:00
+acceptance_rate: "68.775%"
+collected_at: "2026-04-17T10:46:21.571216+00:00"
 ---
 
 ## 문제

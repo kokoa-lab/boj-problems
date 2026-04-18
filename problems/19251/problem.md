@@ -1,13 +1,13 @@
 ---
-title: We Need More Managers!
-special_judge: false
-time_limit: 20 초
-memory_limit: 512 MB
+title: "We Need More Managers!"
+special_judge: "false"
+time_limit: "20 초"
+memory_limit: "512 MB"
 submissions: 53
 accepted: 15
 solved_users: 13
-acceptance_rate: 29.545%
-collected_at: 2026-04-17T15:15:42.463139+00:00
+acceptance_rate: "29.545%"
+collected_at: "2026-04-17T15:15:42.463139+00:00"
 ---
 
 ## 문제

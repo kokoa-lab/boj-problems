@@ -1,13 +1,13 @@
 ---
-title: 골드바흐의 추측
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "골드바흐의 추측"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 92184
 accepted: 38562
 solved_users: 29086
-acceptance_rate: 39.797%
-collected_at: 2026-04-17T12:06:10.132826+00:00
+acceptance_rate: "39.797%"
+collected_at: "2026-04-17T12:06:10.132826+00:00"
 ---
 
 ## 문제

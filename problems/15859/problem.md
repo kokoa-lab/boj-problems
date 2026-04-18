@@ -1,13 +1,13 @@
 ---
-title: Citations
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Citations"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 25
 accepted: 14
 solved_users: 13
-acceptance_rate: 56.522%
-collected_at: 2026-04-17T14:07:45.333166+00:00
+acceptance_rate: "56.522%"
+collected_at: "2026-04-17T14:07:45.333166+00:00"
 ---
 
 ## 문제

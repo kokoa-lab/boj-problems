@@ -1,13 +1,13 @@
 ---
-title: Convex area
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Convex area"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 136
 accepted: 59
 solved_users: 42
-acceptance_rate: 41.584%
-collected_at: 2026-04-17T11:51:59.023942+00:00
+acceptance_rate: "41.584%"
+collected_at: "2026-04-17T11:51:59.023942+00:00"
 ---
 
 ## 문제

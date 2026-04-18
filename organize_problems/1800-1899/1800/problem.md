@@ -1,13 +1,13 @@
 ---
-title: 인터넷 설치
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "인터넷 설치"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 5876
 accepted: 2159
 solved_users: 1509
-acceptance_rate: 34.810%
-collected_at: 2026-04-17T10:33:49.662167+00:00
+acceptance_rate: "34.810%"
+collected_at: "2026-04-17T10:33:49.662167+00:00"
 ---
 
 ## 문제

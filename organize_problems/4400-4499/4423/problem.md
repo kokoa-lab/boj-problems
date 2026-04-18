@@ -1,13 +1,13 @@
 ---
-title: Watching Watches
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Watching Watches"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 66
 accepted: 27
 solved_users: 22
-acceptance_rate: 40.000%
-collected_at: 2026-04-17T11:01:27.123477+00:00
+acceptance_rate: "40.000%"
+collected_at: "2026-04-17T11:01:27.123477+00:00"
 ---
 
 ## 문제

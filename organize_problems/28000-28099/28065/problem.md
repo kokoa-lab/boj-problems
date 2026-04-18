@@ -1,13 +1,13 @@
 ---
-title: SW 수열 구하기
-special_judge: true
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "SW 수열 구하기"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 1396
 accepted: 1077
 solved_users: 979
-acceptance_rate: 78.008%
-collected_at: 2026-04-17T18:17:34.873149+00:00
+acceptance_rate: "78.008%"
+collected_at: "2026-04-17T18:17:34.873149+00:00"
 ---
 
 ## 문제

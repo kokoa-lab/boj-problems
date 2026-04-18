@@ -1,13 +1,13 @@
 ---
-title: 다항식의 나머지 연산
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "다항식의 나머지 연산"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 313
 accepted: 127
 solved_users: 94
-acceptance_rate: 41.593%
-collected_at: 2026-04-17T11:48:32.573609+00:00
+acceptance_rate: "41.593%"
+collected_at: "2026-04-17T11:48:32.573609+00:00"
 ---
 
 ## 문제

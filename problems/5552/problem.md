@@ -1,13 +1,13 @@
 ---
-title: 걷는 산타클로스
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "걷는 산타클로스"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 446
 accepted: 110
 solved_users: 87
-acceptance_rate: 24.438%
-collected_at: 2026-04-17T11:15:21.468841+00:00
+acceptance_rate: "24.438%"
+collected_at: "2026-04-17T11:15:21.468841+00:00"
 ---
 
 ## 문제

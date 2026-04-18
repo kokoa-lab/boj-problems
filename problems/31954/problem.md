@@ -1,13 +1,13 @@
 ---
-title: Magic Bean
-special_judge: true
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 2048 MB (추가 메모리 없음)
+title: "Magic Bean"
+special_judge: "true"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "2048 MB (추가 메모리 없음)"
 submissions: 54
 accepted: 26
 solved_users: 25
-acceptance_rate: 51.020%
-collected_at: 2026-04-17T19:39:40.938350+00:00
+acceptance_rate: "51.020%"
+collected_at: "2026-04-17T19:39:40.938350+00:00"
 ---
 
 ## 문제

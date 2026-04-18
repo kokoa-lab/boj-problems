@@ -1,13 +1,13 @@
 ---
-title: Nautilus
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Nautilus"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 163
 accepted: 64
 solved_users: 50
-acceptance_rate: 54.945%
-collected_at: 2026-04-17T14:32:16.431559+00:00
+acceptance_rate: "54.945%"
+collected_at: "2026-04-17T14:32:16.431559+00:00"
 ---
 
 ## 문제

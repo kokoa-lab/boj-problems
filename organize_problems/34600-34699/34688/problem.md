@@ -1,13 +1,13 @@
 ---
-title: A Graph of Fire and Ice (Easy)
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "A Graph of Fire and Ice (Easy)"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 32
 accepted: 16
 solved_users: 16
-acceptance_rate: 50.000%
-collected_at: 2026-04-17T20:46:01.590397+00:00
+acceptance_rate: "50.000%"
+collected_at: "2026-04-17T20:46:01.590397+00:00"
 ---
 
 ## 문제

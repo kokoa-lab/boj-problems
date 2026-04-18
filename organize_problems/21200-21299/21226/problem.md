@@ -1,13 +1,13 @@
 ---
-title: No Time to Dry
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "No Time to Dry"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 109
 accepted: 72
 solved_users: 59
-acceptance_rate: 65.556%
-collected_at: 2026-04-17T15:50:56.274666+00:00
+acceptance_rate: "65.556%"
+collected_at: "2026-04-17T15:50:56.274666+00:00"
 ---
 
 ## 문제

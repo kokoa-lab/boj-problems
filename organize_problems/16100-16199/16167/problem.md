@@ -1,13 +1,13 @@
 ---
-title: A Great Way
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 128 MB
+title: "A Great Way"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "128 MB"
 submissions: 866
 accepted: 256
 solved_users: 212
-acceptance_rate: 30.859%
-collected_at: 2026-04-17T14:12:46.524252+00:00
+acceptance_rate: "30.859%"
+collected_at: "2026-04-17T14:12:46.524252+00:00"
 ---
 
 ## 문제

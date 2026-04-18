@@ -1,13 +1,13 @@
 ---
-title: Paint Me
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Paint Me"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 146
 accepted: 136
 solved_users: 121
-acceptance_rate: 95.276%
-collected_at: 2026-04-17T13:41:30.340268+00:00
+acceptance_rate: "95.276%"
+collected_at: "2026-04-17T13:41:30.340268+00:00"
 ---
 
 ## 문제

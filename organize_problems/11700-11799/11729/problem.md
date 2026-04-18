@@ -1,13 +1,13 @@
 ---
-title: 하노이 탑 이동 순서
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "하노이 탑 이동 순서"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 108352
 accepted: 57107
 solved_users: 43387
-acceptance_rate: 52.219%
-collected_at: 2026-04-17T12:44:54.969276+00:00
+acceptance_rate: "52.219%"
+collected_at: "2026-04-17T12:44:54.969276+00:00"
 ---
 
 ## 문제

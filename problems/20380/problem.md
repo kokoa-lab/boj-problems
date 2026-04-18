@@ -1,13 +1,13 @@
 ---
-title: Matrix Excryption
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Matrix Excryption"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 48
 accepted: 24
 solved_users: 22
-acceptance_rate: 81.481%
-collected_at: 2026-04-17T15:35:48.235234+00:00
+acceptance_rate: "81.481%"
+collected_at: "2026-04-17T15:35:48.235234+00:00"
 ---
 
 ## 문제

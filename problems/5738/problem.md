@@ -1,13 +1,13 @@
 ---
-title: He is offside!
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "He is offside!"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 227
 accepted: 150
 solved_users: 134
-acceptance_rate: 64.734%
-collected_at: 2026-04-17T11:16:59.671680+00:00
+acceptance_rate: "64.734%"
+collected_at: "2026-04-17T11:16:59.671680+00:00"
 ---
 
 ## 문제

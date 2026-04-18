@@ -1,13 +1,13 @@
 ---
-title: 열 순서
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "열 순서"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 990
 accepted: 614
 solved_users: 556
-acceptance_rate: 63.039%
-collected_at: 2026-04-17T14:18:57.053952+00:00
+acceptance_rate: "63.039%"
+collected_at: "2026-04-17T14:18:57.053952+00:00"
 ---
 
 ## 문제

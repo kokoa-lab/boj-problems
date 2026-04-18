@@ -1,13 +1,13 @@
 ---
-title: Drvca
-special_judge: true
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Drvca"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 78
 accepted: 16
 solved_users: 15
-acceptance_rate: 24.194%
-collected_at: 2026-04-17T14:58:19.270829+00:00
+acceptance_rate: "24.194%"
+collected_at: "2026-04-17T14:58:19.270829+00:00"
 ---
 
 ## 문제

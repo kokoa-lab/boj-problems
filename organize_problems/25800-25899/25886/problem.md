@@ -1,13 +1,13 @@
 ---
-title: Multimodal Transport
-special_judge: false
-time_limit: 3 초
-memory_limit: 1024 MB
+title: "Multimodal Transport"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "1024 MB"
 submissions: 19
 accepted: 9
 solved_users: 9
-acceptance_rate: 75.000%
-collected_at: 2026-04-17T17:35:55.360137+00:00
+acceptance_rate: "75.000%"
+collected_at: "2026-04-17T17:35:55.360137+00:00"
 ---
 
 ## 문제

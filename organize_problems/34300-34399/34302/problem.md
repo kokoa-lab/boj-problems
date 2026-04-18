@@ -1,13 +1,13 @@
 ---
-title: Win Streak
-special_judge: false
-time_limit: 1 초
-memory_limit: 2048 MB
+title: "Win Streak"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "2048 MB"
 submissions: 187
 accepted: 144
 solved_users: 126
-acceptance_rate: 75.449%
-collected_at: 2026-04-17T20:34:58.059128+00:00
+acceptance_rate: "75.449%"
+collected_at: "2026-04-17T20:34:58.059128+00:00"
 ---
 
 ## 문제

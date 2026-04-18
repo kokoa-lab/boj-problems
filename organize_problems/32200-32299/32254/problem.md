@@ -1,13 +1,13 @@
 ---
-title: Natural Number Streamer
-special_judge: false
-time_limit: 3 초 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "Natural Number Streamer"
+special_judge: "false"
+time_limit: "3 초 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 92
 accepted: 13
 solved_users: 11
-acceptance_rate: 14.474%
-collected_at: 2026-04-17T19:47:11.907982+00:00
+acceptance_rate: "14.474%"
+collected_at: "2026-04-17T19:47:11.907982+00:00"
 ---
 
 ## 문제

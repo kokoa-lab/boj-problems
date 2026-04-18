@@ -1,13 +1,13 @@
 ---
-title: Pork barrel
-special_judge: false
-time_limit: 30 초
-memory_limit: 256 MB
+title: "Pork barrel"
+special_judge: "false"
+time_limit: "30 초"
+memory_limit: "256 MB"
 submissions: 182
 accepted: 41
 solved_users: 36
-acceptance_rate: 28.800%
-collected_at: 2026-04-17T12:24:47.639991+00:00
+acceptance_rate: "28.800%"
+collected_at: "2026-04-17T12:24:47.639991+00:00"
 ---
 
 ## 문제

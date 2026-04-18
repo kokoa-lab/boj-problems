@@ -1,13 +1,13 @@
 ---
-title: Лестница для участников олимпиады
-special_judge: false
-time_limit: 0.5 초
-memory_limit: 2048 MB
+title: "Лестница для участников олимпиады"
+special_judge: "false"
+time_limit: "0.5 초"
+memory_limit: "2048 MB"
 submissions: 21
 accepted: 11
 solved_users: 10
-acceptance_rate: 58.824%
-collected_at: 2026-04-17T20:25:26.821284+00:00
+acceptance_rate: "58.824%"
+collected_at: "2026-04-17T20:25:26.821284+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 직각 삼각형의 개수
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "직각 삼각형의 개수"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 1038
 accepted: 305
 solved_users: 181
-acceptance_rate: 30.887%
-collected_at: 2026-04-17T10:46:11.647872+00:00
+acceptance_rate: "30.887%"
+collected_at: "2026-04-17T10:46:11.647872+00:00"
 ---
 
 ## 문제

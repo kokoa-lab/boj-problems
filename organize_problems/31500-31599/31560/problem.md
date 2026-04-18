@@ -1,13 +1,13 @@
 ---
-title: Balancing Bacteria
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Balancing Bacteria"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 278
 accepted: 133
 solved_users: 111
-acceptance_rate: 54.412%
-collected_at: 2026-04-17T19:30:46.956792+00:00
+acceptance_rate: "54.412%"
+collected_at: "2026-04-17T19:30:46.956792+00:00"
 ---
 
 ## 문제

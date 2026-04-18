@@ -1,13 +1,13 @@
 ---
-title: 연결
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "연결"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 3365
 accepted: 767
 solved_users: 552
-acceptance_rate: 21.887%
-collected_at: 2026-04-17T11:10:56.166143+00:00
+acceptance_rate: "21.887%"
+collected_at: "2026-04-17T11:10:56.166143+00:00"
 ---
 
 ## 문제

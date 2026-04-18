@@ -1,13 +1,13 @@
 ---
-title: 카더가든
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "카더가든"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 371
 accepted: 202
 solved_users: 180
-acceptance_rate: 56.782%
-collected_at: 2026-04-17T18:26:26.676498+00:00
+acceptance_rate: "56.782%"
+collected_at: "2026-04-17T18:26:26.676498+00:00"
 ---
 
 ## 문제

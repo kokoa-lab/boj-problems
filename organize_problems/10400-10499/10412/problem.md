@@ -1,13 +1,13 @@
 ---
-title: Facility Locations
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Facility Locations"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 29
 accepted: 11
 solved_users: 11
-acceptance_rate: 68.750%
-collected_at: 2026-04-17T12:23:13.588514+00:00
+acceptance_rate: "68.750%"
+collected_at: "2026-04-17T12:23:13.588514+00:00"
 ---
 
 ## 문제

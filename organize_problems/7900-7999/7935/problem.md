@@ -1,13 +1,13 @@
 ---
-title: Historia bawełny
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Historia bawełny"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 23
 accepted: 7
 solved_users: 7
-acceptance_rate: 41.176%
-collected_at: 2026-04-17T11:54:21.047428+00:00
+acceptance_rate: "41.176%"
+collected_at: "2026-04-17T11:54:21.047428+00:00"
 ---
 
 ## 문제

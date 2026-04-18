@@ -1,13 +1,13 @@
 ---
-title: 주사위
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "주사위"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 27415
 accepted: 8159
 solved_users: 6970
-acceptance_rate: 29.918%
-collected_at: 2026-04-17T10:27:50.950739+00:00
+acceptance_rate: "29.918%"
+collected_at: "2026-04-17T10:27:50.950739+00:00"
 ---
 
 ## 문제

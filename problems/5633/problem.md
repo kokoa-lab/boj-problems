@@ -1,13 +1,13 @@
 ---
-title: Ultimate Device
-special_judge: false
-time_limit: 10 초
-memory_limit: 128 MB
+title: "Ultimate Device"
+special_judge: "false"
+time_limit: "10 초"
+memory_limit: "128 MB"
 submissions: 8
 accepted: 1
 solved_users: 1
-acceptance_rate: 100.000%
-collected_at: 2026-04-17T11:16:11.004362+00:00
+acceptance_rate: "100.000%"
+collected_at: "2026-04-17T11:16:11.004362+00:00"
 ---
 
 ## 문제

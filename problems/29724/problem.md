@@ -1,13 +1,13 @@
 ---
-title: 🍎📦 '사과상자'에 들어있는 것은 무엇? 현금?
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "🍎📦 '사과상자'에 들어있는 것은 무엇? 현금?"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 676
 accepted: 551
 solved_users: 521
-acceptance_rate: 83.360%
-collected_at: 2026-04-17T18:51:32.286798+00:00
+acceptance_rate: "83.360%"
+collected_at: "2026-04-17T18:51:32.286798+00:00"
 ---
 
 ## 문제

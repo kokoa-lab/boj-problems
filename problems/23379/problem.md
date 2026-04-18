@@ -1,13 +1,13 @@
 ---
-title: Evolutionary Excerpt
-special_judge: true
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Evolutionary Excerpt"
+special_judge: "true"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 290
 accepted: 74
 solved_users: 62
-acceptance_rate: 24.900%
-collected_at: 2026-04-17T16:47:08.554845+00:00
+acceptance_rate: "24.900%"
+collected_at: "2026-04-17T16:47:08.554845+00:00"
 ---
 
 ## 문제

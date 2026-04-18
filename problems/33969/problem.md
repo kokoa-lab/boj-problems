@@ -1,13 +1,13 @@
 ---
-title: 콩돌 놀이
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "콩돌 놀이"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 137
 accepted: 96
 solved_users: 72
-acceptance_rate: 67.925%
-collected_at: 2026-04-17T20:27:38.227535+00:00
+acceptance_rate: "67.925%"
+collected_at: "2026-04-17T20:27:38.227535+00:00"
 ---
 
 ## 문제

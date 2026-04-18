@@ -1,13 +1,13 @@
 ---
-title: 묘수풀이: 모독
-special_judge: true
-time_limit: 1 초
-memory_limit: 512 MB
+title: "묘수풀이: 모독"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 666
 accepted: 77
 solved_users: 60
-acceptance_rate: 16.304%
-collected_at: 2026-04-17T14:33:46.590832+00:00
+acceptance_rate: "16.304%"
+collected_at: "2026-04-17T14:33:46.590832+00:00"
 ---
 
 ## 문제

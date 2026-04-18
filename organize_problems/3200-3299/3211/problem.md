@@ -1,13 +1,13 @@
 ---
-title: kino
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "kino"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 537
 accepted: 224
 solved_users: 190
-acceptance_rate: 44.186%
-collected_at: 2026-04-17T10:47:25.194130+00:00
+acceptance_rate: "44.186%"
+collected_at: "2026-04-17T10:47:25.194130+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 画数数え (Stroke Count)
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "画数数え (Stroke Count)"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 970
 accepted: 834
 solved_users: 778
-acceptance_rate: 86.444%
-collected_at: 2026-04-17T19:31:54.885104+00:00
+acceptance_rate: "86.444%"
+collected_at: "2026-04-17T19:31:54.885104+00:00"
 ---
 
 ## 문제

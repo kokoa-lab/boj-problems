@@ -1,13 +1,13 @@
 ---
-title: Skyline
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "Skyline"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 334
 accepted: 194
 solved_users: 177
-acceptance_rate: 59.596%
-collected_at: 2026-04-17T12:46:46.344891+00:00
+acceptance_rate: "59.596%"
+collected_at: "2026-04-17T12:46:46.344891+00:00"
 ---
 
 ## 문제

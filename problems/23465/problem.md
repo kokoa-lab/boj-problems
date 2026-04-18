@@ -1,13 +1,13 @@
 ---
-title: The Witcher
-special_judge: true
-time_limit: 6 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "The Witcher"
+special_judge: "true"
+time_limit: "6 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 30
 accepted: 9
 solved_users: 9
-acceptance_rate: 45.000%
-collected_at: 2026-04-17T16:48:40.756679+00:00
+acceptance_rate: "45.000%"
+collected_at: "2026-04-17T16:48:40.756679+00:00"
 ---
 
 ## 문제

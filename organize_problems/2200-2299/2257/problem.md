@@ -1,13 +1,13 @@
 ---
-title: 화학식량
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "화학식량"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 4006
 accepted: 1943
 solved_users: 1598
-acceptance_rate: 52.514%
-collected_at: 2026-04-17T10:40:01.381454+00:00
+acceptance_rate: "52.514%"
+collected_at: "2026-04-17T10:40:01.381454+00:00"
 ---
 
 ## 문제

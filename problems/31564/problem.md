@@ -1,13 +1,13 @@
 ---
-title: 육각타일미로 탈출기
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "육각타일미로 탈출기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 423
 accepted: 295
 solved_users: 251
-acceptance_rate: 70.112%
-collected_at: 2026-04-17T19:30:52.125913+00:00
+acceptance_rate: "70.112%"
+collected_at: "2026-04-17T19:30:52.125913+00:00"
 ---
 
 ## 문제

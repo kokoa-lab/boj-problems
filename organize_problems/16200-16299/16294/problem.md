@@ -1,13 +1,13 @@
 ---
-title: Bee Problem
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Bee Problem"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 219
 accepted: 100
 solved_users: 89
-acceptance_rate: 52.353%
-collected_at: 2026-04-17T14:15:14.775489+00:00
+acceptance_rate: "52.353%"
+collected_at: "2026-04-17T14:15:14.775489+00:00"
 ---
 
 ## 문제

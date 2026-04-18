@@ -1,13 +1,13 @@
 ---
-title: Tables
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Tables"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 192
 accepted: 147
 solved_users: 130
-acceptance_rate: 75.581%
-collected_at: 2026-04-17T11:58:25.984618+00:00
+acceptance_rate: "75.581%"
+collected_at: "2026-04-17T11:58:25.984618+00:00"
 ---
 
 ## 문제

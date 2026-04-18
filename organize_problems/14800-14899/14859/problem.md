@@ -1,13 +1,13 @@
 ---
-title: 세 쌍 서로소
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "세 쌍 서로소"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 424
 accepted: 206
 solved_users: 155
-acceptance_rate: 47.401%
-collected_at: 2026-04-17T13:43:17.523611+00:00
+acceptance_rate: "47.401%"
+collected_at: "2026-04-17T13:43:17.523611+00:00"
 ---
 
 ## 문제

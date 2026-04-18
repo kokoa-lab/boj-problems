@@ -1,13 +1,13 @@
 ---
-title: Number Game (Small)
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Number Game (Small)"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 30
 accepted: 25
 solved_users: 23
-acceptance_rate: 82.143%
-collected_at: 2026-04-17T12:57:59.695370+00:00
+acceptance_rate: "82.143%"
+collected_at: "2026-04-17T12:57:59.695370+00:00"
 ---
 
 ## 문제

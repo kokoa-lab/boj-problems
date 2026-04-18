@@ -1,13 +1,13 @@
 ---
-title: 게임 오브 데쓰 (Hard)
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "게임 오브 데쓰 (Hard)"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 220
 accepted: 64
 solved_users: 59
-acceptance_rate: 52.679%
-collected_at: 2026-04-17T19:58:39.217553+00:00
+acceptance_rate: "52.679%"
+collected_at: "2026-04-17T19:58:39.217553+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 큐브러버
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "큐브러버"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 529
 accepted: 217
 solved_users: 185
-acceptance_rate: 42.529%
-collected_at: 2026-04-17T10:54:04.358180+00:00
+acceptance_rate: "42.529%"
+collected_at: "2026-04-17T10:54:04.358180+00:00"
 ---
 
 ## 문제

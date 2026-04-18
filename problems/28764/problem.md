@@ -1,13 +1,13 @@
 ---
-title: Транспортировка артефактов
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Транспортировка артефактов"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 16
 accepted: 11
 solved_users: 10
-acceptance_rate: 83.333%
-collected_at: 2026-04-17T18:31:59.995810+00:00
+acceptance_rate: "83.333%"
+collected_at: "2026-04-17T18:31:59.995810+00:00"
 ---
 
 ## 문제

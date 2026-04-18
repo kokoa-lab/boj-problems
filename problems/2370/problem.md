@@ -1,13 +1,13 @@
 ---
-title: 시장 선거 포스터
-special_judge: false
-time_limit: 1 초
-memory_limit: 192 MB
+title: "시장 선거 포스터"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "192 MB"
 submissions: 1738
 accepted: 519
 solved_users: 358
-acceptance_rate: 30.969%
-collected_at: 2026-04-17T10:41:07.310268+00:00
+acceptance_rate: "30.969%"
+collected_at: "2026-04-17T10:41:07.310268+00:00"
 ---
 
 ## 문제

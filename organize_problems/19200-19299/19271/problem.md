@@ -1,13 +1,13 @@
 ---
-title: Construct Point
-special_judge: true
-time_limit: 2 초
-memory_limit: 256 MB
+title: "Construct Point"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 60
 accepted: 22
 solved_users: 12
-acceptance_rate: 30.000%
-collected_at: 2026-04-17T15:16:06.312428+00:00
+acceptance_rate: "30.000%"
+collected_at: "2026-04-17T15:16:06.312428+00:00"
 ---
 
 ## 문제

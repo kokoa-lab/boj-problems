@@ -1,13 +1,13 @@
 ---
-title: Strange String Manipulation
-special_judge: false
-time_limit: 8 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "Strange String Manipulation"
+special_judge: "false"
+time_limit: "8 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 54
 accepted: 23
 solved_users: 20
-acceptance_rate: 44.444%
-collected_at: 2026-04-17T16:29:09.667643+00:00
+acceptance_rate: "44.444%"
+collected_at: "2026-04-17T16:29:09.667643+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Robots
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "Robots"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 154
 accepted: 44
 solved_users: 31
-acceptance_rate: 31.313%
-collected_at: 2026-04-17T11:45:54.733990+00:00
+acceptance_rate: "31.313%"
+collected_at: "2026-04-17T11:45:54.733990+00:00"
 ---
 
 ## 문제

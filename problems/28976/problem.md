@@ -1,13 +1,13 @@
 ---
-title: Кольцевые дороги
-special_judge: true
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Кольцевые дороги"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 38
 accepted: 17
 solved_users: 13
-acceptance_rate: 40.625%
-collected_at: 2026-04-17T18:35:28.231379+00:00
+acceptance_rate: "40.625%"
+collected_at: "2026-04-17T18:35:28.231379+00:00"
 ---
 
 ## 문제

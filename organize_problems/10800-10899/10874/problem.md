@@ -1,13 +1,13 @@
 ---
-title: 이교수님의 시험
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "이교수님의 시험"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 2916
 accepted: 2183
 solved_users: 2016
-acceptance_rate: 78.049%
-collected_at: 2026-04-17T12:30:52.471459+00:00
+acceptance_rate: "78.049%"
+collected_at: "2026-04-17T12:30:52.471459+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 흰수염과 해적들
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "흰수염과 해적들"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 419
 accepted: 88
 solved_users: 78
-acceptance_rate: 24.451%
-collected_at: 2026-04-17T20:30:09.650375+00:00
+acceptance_rate: "24.451%"
+collected_at: "2026-04-17T20:30:09.650375+00:00"
 ---
 
 ## 문제

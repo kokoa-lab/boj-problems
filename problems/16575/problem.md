@@ -1,13 +1,13 @@
 ---
-title: Smart Thief
-special_judge: true
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Smart Thief"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 137
 accepted: 36
 solved_users: 35
-acceptance_rate: 28.926%
-collected_at: 2026-04-17T14:20:17.950570+00:00
+acceptance_rate: "28.926%"
+collected_at: "2026-04-17T14:20:17.950570+00:00"
 ---
 
 ## 문제

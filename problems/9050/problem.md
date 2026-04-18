@@ -1,13 +1,13 @@
 ---
-title: L-Shape Covering
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "L-Shape Covering"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 0
 accepted: 0
 solved_users: 0
-acceptance_rate: 0.000%
-collected_at: 2026-04-17T12:06:32.399818+00:00
+acceptance_rate: "0.000%"
+collected_at: "2026-04-17T12:06:32.399818+00:00"
 ---
 
 ## 문제

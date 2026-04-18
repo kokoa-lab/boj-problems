@@ -1,13 +1,13 @@
 ---
-title: 읽어내기
-special_judge: false
-time_limit: 4 초
-memory_limit: 256 MB
+title: "읽어내기"
+special_judge: "false"
+time_limit: "4 초"
+memory_limit: "256 MB"
 submissions: 186
 accepted: 45
 solved_users: 30
-acceptance_rate: 23.438%
-collected_at: 2026-04-17T13:09:15.437375+00:00
+acceptance_rate: "23.438%"
+collected_at: "2026-04-17T13:09:15.437375+00:00"
 ---
 
 ## 문제

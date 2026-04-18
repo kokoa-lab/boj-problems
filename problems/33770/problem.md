@@ -1,13 +1,13 @@
 ---
-title: More Cow Photos
-special_judge: false
-time_limit: 2 초
-memory_limit: 2048 MB
+title: "More Cow Photos"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "2048 MB"
 submissions: 158
 accepted: 92
 solved_users: 81
-acceptance_rate: 61.832%
-collected_at: 2026-04-17T20:23:20.592171+00:00
+acceptance_rate: "61.832%"
+collected_at: "2026-04-17T20:23:20.592171+00:00"
 ---
 
 ## 문제

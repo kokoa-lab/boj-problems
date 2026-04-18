@@ -1,13 +1,13 @@
 ---
-title: The Triangle
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "The Triangle"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 110
 accepted: 39
 solved_users: 29
-acceptance_rate: 32.955%
-collected_at: 2026-04-17T11:18:56.356874+00:00
+acceptance_rate: "32.955%"
+collected_at: "2026-04-17T11:18:56.356874+00:00"
 ---
 
 ## 문제

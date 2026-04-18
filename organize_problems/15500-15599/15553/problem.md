@@ -1,13 +1,13 @@
 ---
-title: 난로
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "난로"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 1584
 accepted: 1026
 solved_users: 814
-acceptance_rate: 65.698%
-collected_at: 2026-04-17T14:01:30.180045+00:00
+acceptance_rate: "65.698%"
+collected_at: "2026-04-17T14:01:30.180045+00:00"
 ---
 
 ## 문제

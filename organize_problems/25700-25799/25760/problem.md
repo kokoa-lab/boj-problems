@@ -1,13 +1,13 @@
 ---
-title: 귀경길 교통상황을 알려드립니다
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "귀경길 교통상황을 알려드립니다"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 261
 accepted: 91
 solved_users: 77
-acceptance_rate: 43.750%
-collected_at: 2026-04-17T17:32:24.485216+00:00
+acceptance_rate: "43.750%"
+collected_at: "2026-04-17T17:32:24.485216+00:00"
 ---
 
 ## 문제

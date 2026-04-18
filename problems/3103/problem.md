@@ -1,13 +1,13 @@
 ---
-title: 순열의 순서
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "순열의 순서"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 549
 accepted: 89
 solved_users: 72
-acceptance_rate: 20.112%
-collected_at: 2026-04-17T10:46:43.716879+00:00
+acceptance_rate: "20.112%"
+collected_at: "2026-04-17T10:46:43.716879+00:00"
 ---
 
 ## 문제

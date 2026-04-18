@@ -1,13 +1,13 @@
 ---
-title: 명탐정 준하
-special_judge: false
-time_limit: 0.5 초
-memory_limit: 512 MB
+title: "명탐정 준하"
+special_judge: "false"
+time_limit: "0.5 초"
+memory_limit: "512 MB"
 submissions: 212
 accepted: 34
 solved_users: 21
-acceptance_rate: 14.000%
-collected_at: 2026-04-17T13:39:36.781245+00:00
+acceptance_rate: "14.000%"
+collected_at: "2026-04-17T13:39:36.781245+00:00"
 ---
 
 ## 문제

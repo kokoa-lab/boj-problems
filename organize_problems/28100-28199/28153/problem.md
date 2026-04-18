@@ -1,13 +1,13 @@
 ---
-title: Repetitive String Invention
-special_judge: false
-time_limit: 2 초
-memory_limit: 2048 MB
+title: "Repetitive String Invention"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "2048 MB"
 submissions: 75
 accepted: 34
 solved_users: 33
-acceptance_rate: 50.000%
-collected_at: 2026-04-17T18:19:01.567225+00:00
+acceptance_rate: "50.000%"
+collected_at: "2026-04-17T18:19:01.567225+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 단위
-special_judge: false
-time_limit: 3 초
-memory_limit: 256 MB
+title: "단위"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "256 MB"
 submissions: 149
 accepted: 62
 solved_users: 51
-acceptance_rate: 53.125%
-collected_at: 2026-04-17T12:24:15.768148+00:00
+acceptance_rate: "53.125%"
+collected_at: "2026-04-17T12:24:15.768148+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Laminar Family
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Laminar Family"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 194
 accepted: 58
 solved_users: 45
-acceptance_rate: 27.439%
-collected_at: 2026-04-17T13:56:34.670289+00:00
+acceptance_rate: "27.439%"
+collected_at: "2026-04-17T13:56:34.670289+00:00"
 ---
 
 ## 문제

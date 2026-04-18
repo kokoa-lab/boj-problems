@@ -1,13 +1,13 @@
 ---
-title: 지영 공주님의 마법 거울
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "지영 공주님의 마법 거울"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 5490
 accepted: 3793
 solved_users: 3519
-acceptance_rate: 69.988%
-collected_at: 2026-04-17T12:42:35.518704+00:00
+acceptance_rate: "69.988%"
+collected_at: "2026-04-17T12:42:35.518704+00:00"
 ---
 
 ## 문제

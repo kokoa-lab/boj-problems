@@ -1,13 +1,13 @@
 ---
-title: Pascal Meets Boole
-special_judge: false
-time_limit: 1 초
-memory_limit: 2048 MB
+title: "Pascal Meets Boole"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "2048 MB"
 submissions: 30
 accepted: 10
 solved_users: 10
-acceptance_rate: 38.462%
-collected_at: 2026-04-17T20:01:51.920349+00:00
+acceptance_rate: "38.462%"
+collected_at: "2026-04-17T20:01:51.920349+00:00"
 ---
 
 ## 문제

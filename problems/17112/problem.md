@@ -1,13 +1,13 @@
 ---
-title: ì¸ì½”ë”©
-special_judge: false
-time_limit: 8 초
-memory_limit: 1252 MB
+title: "ì¸ì½”ë”©"
+special_judge: "false"
+time_limit: "8 초"
+memory_limit: "1252 MB"
 submissions: 312
 accepted: 12
 solved_users: 7
-acceptance_rate: 3.571%
-collected_at: 2026-04-17T14:29:49.232132+00:00
+acceptance_rate: "3.571%"
+collected_at: "2026-04-17T14:29:49.232132+00:00"
 ---
 
 ## 문제

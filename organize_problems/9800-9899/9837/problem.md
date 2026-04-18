@@ -1,13 +1,13 @@
 ---
-title: Weather
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Weather"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 8
 accepted: 8
 solved_users: 3
-acceptance_rate: 100.000%
-collected_at: 2026-04-17T12:15:20.392298+00:00
+acceptance_rate: "100.000%"
+collected_at: "2026-04-17T12:15:20.392298+00:00"
 ---
 
 ## 문제

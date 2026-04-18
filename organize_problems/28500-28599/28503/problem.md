@@ -1,13 +1,13 @@
 ---
-title: Выполнить план, но не перевыполнить
-special_judge: false
-time_limit: 4 초
-memory_limit: 1024 MB
+title: "Выполнить план, но не перевыполнить"
+special_judge: "false"
+time_limit: "4 초"
+memory_limit: "1024 MB"
 submissions: 49
 accepted: 12
 solved_users: 3
-acceptance_rate: 15.789%
-collected_at: 2026-04-17T18:27:47.375040+00:00
+acceptance_rate: "15.789%"
+collected_at: "2026-04-17T18:27:47.375040+00:00"
 ---
 
 ## 문제

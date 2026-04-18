@@ -1,13 +1,13 @@
 ---
-title: XOR MST
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "XOR MST"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 1296
 accepted: 514
 solved_users: 354
-acceptance_rate: 36.233%
-collected_at: 2026-04-17T14:26:02.458639+00:00
+acceptance_rate: "36.233%"
+collected_at: "2026-04-17T14:26:02.458639+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Ascending hike
-special_judge: false
-time_limit: 0.5 초
-memory_limit: 1024 MB
+title: "Ascending hike"
+special_judge: "false"
+time_limit: "0.5 초"
+memory_limit: "1024 MB"
 submissions: 201
 accepted: 131
 solved_users: 110
-acceptance_rate: 68.323%
-collected_at: 2026-04-17T19:28:30.279727+00:00
+acceptance_rate: "68.323%"
+collected_at: "2026-04-17T19:28:30.279727+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Knapsack Packing
-special_judge: false
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "Knapsack Packing"
+special_judge: "false"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 240
 accepted: 60
 solved_users: 37
-acceptance_rate: 20.109%
-collected_at: 2026-04-17T14:41:37.565095+00:00
+acceptance_rate: "20.109%"
+collected_at: "2026-04-17T14:41:37.565095+00:00"
 ---
 
 ## 문제

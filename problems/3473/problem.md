@@ -1,13 +1,13 @@
 ---
-title: Complicated Expressions
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Complicated Expressions"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 92
 accepted: 37
 solved_users: 27
-acceptance_rate: 32.927%
-collected_at: 2026-04-17T10:49:09.481096+00:00
+acceptance_rate: "32.927%"
+collected_at: "2026-04-17T10:49:09.481096+00:00"
 ---
 
 ## 문제

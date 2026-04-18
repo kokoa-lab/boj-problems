@@ -1,13 +1,13 @@
 ---
-title: Minigolf
-special_judge: false
-time_limit: 4 초
-memory_limit: 1024 MB
+title: "Minigolf"
+special_judge: "false"
+time_limit: "4 초"
+memory_limit: "1024 MB"
 submissions: 39
 accepted: 4
 solved_users: 3
-acceptance_rate: 12.000%
-collected_at: 2026-04-17T15:57:08.244624+00:00
+acceptance_rate: "12.000%"
+collected_at: "2026-04-17T15:57:08.244624+00:00"
 ---
 
 ## 문제

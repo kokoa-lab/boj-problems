@@ -1,13 +1,13 @@
 ---
-title: K번째 수 찾는 함수
-special_judge: false
-time_limit: 0.2 초  ( 하단 참고 )
-memory_limit: 512 MB
+title: "K번째 수 찾는 함수"
+special_judge: "false"
+time_limit: "0.2 초  ( 하단 참고 )"
+memory_limit: "512 MB"
 submissions: 4781
 accepted: 540
 solved_users: 224
-acceptance_rate: 11.262%
-collected_at: 2026-04-17T14:18:19.590415+00:00
+acceptance_rate: "11.262%"
+collected_at: "2026-04-17T14:18:19.590415+00:00"
 ---
 
 ## 문제

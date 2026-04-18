@@ -1,13 +1,13 @@
 ---
-title: INFRASTRUKTURA
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "INFRASTRUKTURA"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 16
 accepted: 3
 solved_users: 3
-acceptance_rate: 50.000%
-collected_at: 2026-04-17T17:21:35.348546+00:00
+acceptance_rate: "50.000%"
+collected_at: "2026-04-17T17:21:35.348546+00:00"
 ---
 
 ## 문제

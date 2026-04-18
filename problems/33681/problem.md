@@ -1,13 +1,13 @@
 ---
-title: 택배 상하차는 힘들어
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "택배 상하차는 힘들어"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 158
 accepted: 86
 solved_users: 71
-acceptance_rate: 54.198%
-collected_at: 2026-04-17T20:21:37.857223+00:00
+acceptance_rate: "54.198%"
+collected_at: "2026-04-17T20:21:37.857223+00:00"
 ---
 
 ## 문제

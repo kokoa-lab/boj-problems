@@ -1,13 +1,13 @@
 ---
-title: 가계부 (Easy)
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "가계부 (Easy)"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 1723
 accepted: 912
 solved_users: 799
-acceptance_rate: 54.133%
-collected_at: 2026-04-17T13:02:12.405657+00:00
+acceptance_rate: "54.133%"
+collected_at: "2026-04-17T13:02:12.405657+00:00"
 ---
 
 ## 문제

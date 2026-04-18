@@ -1,13 +1,13 @@
 ---
-title: Modern Machine
-special_judge: false
-time_limit: 2.5 초
-memory_limit: 1024 MB
+title: "Modern Machine"
+special_judge: "false"
+time_limit: "2.5 초"
+memory_limit: "1024 MB"
 submissions: 66
 accepted: 6
 solved_users: 6
-acceptance_rate: 9.836%
-collected_at: 2026-04-17T18:06:03.208804+00:00
+acceptance_rate: "9.836%"
+collected_at: "2026-04-17T18:06:03.208804+00:00"
 ---
 
 ## 문제

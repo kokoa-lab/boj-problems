@@ -1,13 +1,13 @@
 ---
-title: 그룹 나누기 (Subset)
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 256 MB
+title: "그룹 나누기 (Subset)"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "256 MB"
 submissions: 426
 accepted: 259
 solved_users: 223
-acceptance_rate: 62.640%
-collected_at: 2026-04-17T14:11:57.712548+00:00
+acceptance_rate: "62.640%"
+collected_at: "2026-04-17T14:11:57.712548+00:00"
 ---
 
 ## 문제

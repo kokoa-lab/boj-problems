@@ -1,13 +1,13 @@
 ---
-title: 정보 상인 호석
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "정보 상인 호석"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 2852
 accepted: 1316
 solved_users: 942
-acceptance_rate: 42.299%
-collected_at: 2026-04-17T16:17:56.475005+00:00
+acceptance_rate: "42.299%"
+collected_at: "2026-04-17T16:17:56.475005+00:00"
 ---
 
 ## 문제

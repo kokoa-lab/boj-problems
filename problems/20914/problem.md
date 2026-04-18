@@ -1,13 +1,13 @@
 ---
-title: QWERTY 자판
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "QWERTY 자판"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 344
 accepted: 196
 solved_users: 165
-acceptance_rate: 60.219%
-collected_at: 2026-04-17T15:43:14.897306+00:00
+acceptance_rate: "60.219%"
+collected_at: "2026-04-17T15:43:14.897306+00:00"
 ---
 
 ## 문제

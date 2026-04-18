@@ -1,13 +1,13 @@
 ---
-title: Era Name
-special_judge: false
-time_limit: 8 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "Era Name"
+special_judge: "false"
+time_limit: "8 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 61
 accepted: 49
 solved_users: 40
-acceptance_rate: 83.333%
-collected_at: 2026-04-17T13:19:27.662216+00:00
+acceptance_rate: "83.333%"
+collected_at: "2026-04-17T13:19:27.662216+00:00"
 ---
 
 ## 문제

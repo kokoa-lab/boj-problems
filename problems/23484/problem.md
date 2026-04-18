@@ -1,13 +1,13 @@
 ---
-title: Amidakuji
-special_judge: true
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Amidakuji"
+special_judge: "true"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 43
 accepted: 20
 solved_users: 19
-acceptance_rate: 52.778%
-collected_at: 2026-04-17T16:48:58.310180+00:00
+acceptance_rate: "52.778%"
+collected_at: "2026-04-17T16:48:58.310180+00:00"
 ---
 
 ## 문제

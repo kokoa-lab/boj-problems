@@ -1,13 +1,13 @@
 ---
-title: 문자열 정렬
-special_judge: false
-time_limit: 1 초  ( 하단 참고 )
-memory_limit: 512 MB
+title: "문자열 정렬"
+special_judge: "false"
+time_limit: "1 초  ( 하단 참고 )"
+memory_limit: "512 MB"
 submissions: 581
 accepted: 230
 solved_users: 170
-acceptance_rate: 43.257%
-collected_at: 2026-04-17T17:22:35.531079+00:00
+acceptance_rate: "43.257%"
+collected_at: "2026-04-17T17:22:35.531079+00:00"
 ---
 
 ## 문제

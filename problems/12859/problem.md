@@ -1,13 +1,13 @@
 ---
-title: 점프하는 민호
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "점프하는 민호"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 132
 accepted: 74
 solved_users: 58
-acceptance_rate: 56.311%
-collected_at: 2026-04-17T13:02:40.484954+00:00
+acceptance_rate: "56.311%"
+collected_at: "2026-04-17T13:02:40.484954+00:00"
 ---
 
 ## 문제

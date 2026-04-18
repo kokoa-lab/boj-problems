@@ -1,13 +1,13 @@
 ---
-title: Palindromy
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Palindromy"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 145
 accepted: 127
 solved_users: 115
-acceptance_rate: 89.147%
-collected_at: 2026-04-17T12:03:34.577342+00:00
+acceptance_rate: "89.147%"
+collected_at: "2026-04-17T12:03:34.577342+00:00"
 ---
 
 ## 문제

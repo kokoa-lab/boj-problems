@@ -1,13 +1,13 @@
 ---
-title: Extended Lights Out
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Extended Lights Out"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 44
 accepted: 34
 solved_users: 28
-acceptance_rate: 87.500%
-collected_at: 2026-04-17T11:26:15.860709+00:00
+acceptance_rate: "87.500%"
+collected_at: "2026-04-17T11:26:15.860709+00:00"
 ---
 
 ## 문제

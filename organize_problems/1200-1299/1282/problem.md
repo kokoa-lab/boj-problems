@@ -1,13 +1,13 @@
 ---
-title: P-수열
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "P-수열"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 233
 accepted: 64
 solved_users: 42
-acceptance_rate: 35.000%
-collected_at: 2026-04-17T10:29:15.915736+00:00
+acceptance_rate: "35.000%"
+collected_at: "2026-04-17T10:29:15.915736+00:00"
 ---
 
 ## 문제

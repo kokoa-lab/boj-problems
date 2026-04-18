@@ -1,13 +1,13 @@
 ---
-title: 어려운 하노이 탑
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "어려운 하노이 탑"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 572
 accepted: 211
 solved_users: 162
-acceptance_rate: 41.013%
-collected_at: 2026-04-17T18:10:05.527360+00:00
+acceptance_rate: "41.013%"
+collected_at: "2026-04-17T18:10:05.527360+00:00"
 ---
 
 ## 문제

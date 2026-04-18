@@ -1,13 +1,13 @@
 ---
-title: Where’s Wally
-special_judge: false
-time_limit: 4 초
-memory_limit: 128 MB
+title: "Where’s Wally"
+special_judge: "false"
+time_limit: "4 초"
+memory_limit: "128 MB"
 submissions: 4
 accepted: 3
 solved_users: 3
-acceptance_rate: 100.000%
-collected_at: 2026-04-17T10:52:51.550125+00:00
+acceptance_rate: "100.000%"
+collected_at: "2026-04-17T10:52:51.550125+00:00"
 ---
 
 ## 문제

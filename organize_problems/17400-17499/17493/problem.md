@@ -1,13 +1,13 @@
 ---
-title: 동아리 홍보하기
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "동아리 홍보하기"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 958
 accepted: 277
 solved_users: 135
-acceptance_rate: 23.397%
-collected_at: 2026-04-17T14:40:27.611307+00:00
+acceptance_rate: "23.397%"
+collected_at: "2026-04-17T14:40:27.611307+00:00"
 ---
 
 ## 문제

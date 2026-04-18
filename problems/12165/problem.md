@@ -1,13 +1,13 @@
 ---
-title: Logging (Large)
-special_judge: false
-time_limit: 15 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "Logging (Large)"
+special_judge: "false"
+time_limit: "15 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 219
 accepted: 89
 solved_users: 35
-acceptance_rate: 27.559%
-collected_at: 2026-04-17T12:51:14.255589+00:00
+acceptance_rate: "27.559%"
+collected_at: "2026-04-17T12:51:14.255589+00:00"
 ---
 
 ## 문제

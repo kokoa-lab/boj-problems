@@ -1,13 +1,13 @@
 ---
-title: 가르침
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB ( 하단 참고 )
+title: "가르침"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB ( 하단 참고 )"
 submissions: 63367
 accepted: 18987
 solved_users: 11241
-acceptance_rate: 27.348%
-collected_at: 2026-04-17T10:27:58.379538+00:00
+acceptance_rate: "27.348%"
+collected_at: "2026-04-17T10:27:58.379538+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Appeal to the Audience
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Appeal to the Audience"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 159
 accepted: 98
 solved_users: 87
-acceptance_rate: 70.161%
-collected_at: 2026-04-17T14:46:58.341331+00:00
+acceptance_rate: "70.161%"
+collected_at: "2026-04-17T14:46:58.341331+00:00"
 ---
 
 ## 문제

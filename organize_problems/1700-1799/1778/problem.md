@@ -1,13 +1,13 @@
 ---
-title: Ubiquitous Religions
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Ubiquitous Religions"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 396
 accepted: 182
 solved_users: 146
-acceptance_rate: 48.829%
-collected_at: 2026-04-17T10:33:27.878180+00:00
+acceptance_rate: "48.829%"
+collected_at: "2026-04-17T10:33:27.878180+00:00"
 ---
 
 ## 문제

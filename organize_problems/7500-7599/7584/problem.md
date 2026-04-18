@@ -1,13 +1,13 @@
 ---
-title: Noughts & Crosses
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Noughts & Crosses"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 142
 accepted: 102
 solved_users: 87
-acceptance_rate: 75.000%
-collected_at: 2026-04-17T11:50:52.352829+00:00
+acceptance_rate: "75.000%"
+collected_at: "2026-04-17T11:50:52.352829+00:00"
 ---
 
 ## 문제

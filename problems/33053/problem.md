@@ -1,13 +1,13 @@
 ---
-title: All Pairs Similarity
-special_judge: false
-time_limit: 2 초
-memory_limit: 2048 MB
+title: "All Pairs Similarity"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "2048 MB"
 submissions: 49
 accepted: 18
 solved_users: 14
-acceptance_rate: 38.889%
-collected_at: 2026-04-17T20:08:19.267368+00:00
+acceptance_rate: "38.889%"
+collected_at: "2026-04-17T20:08:19.267368+00:00"
 ---
 
 ## 문제

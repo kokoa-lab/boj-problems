@@ -1,13 +1,13 @@
 ---
-title: Egor Has a Problem
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Egor Has a Problem"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 62
 accepted: 28
 solved_users: 23
-acceptance_rate: 41.071%
-collected_at: 2026-04-17T18:19:46.356398+00:00
+acceptance_rate: "41.071%"
+collected_at: "2026-04-17T18:19:46.356398+00:00"
 ---
 
 ## 문제

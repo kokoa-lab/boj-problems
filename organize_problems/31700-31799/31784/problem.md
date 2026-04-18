@@ -1,13 +1,13 @@
 ---
-title: 포닉스의 문단속
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "포닉스의 문단속"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 825
 accepted: 367
 solved_users: 312
-acceptance_rate: 41.992%
-collected_at: 2026-04-17T19:36:29.355758+00:00
+acceptance_rate: "41.992%"
+collected_at: "2026-04-17T19:36:29.355758+00:00"
 ---
 
 ## 문제

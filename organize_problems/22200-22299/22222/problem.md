@@ -1,13 +1,13 @@
 ---
-title: 지애 상수
-special_judge: false
-time_limit: 22.222 초
-memory_limit: 222 MB
+title: "지애 상수"
+special_judge: "false"
+time_limit: "22.222 초"
+memory_limit: "222 MB"
 submissions: 896
 accepted: 116
 solved_users: 79
-acceptance_rate: 25.000%
-collected_at: 2026-04-17T16:17:20.448376+00:00
+acceptance_rate: "25.000%"
+collected_at: "2026-04-17T16:17:20.448376+00:00"
 ---
 
 ## 문제

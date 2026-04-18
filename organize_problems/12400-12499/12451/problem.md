@@ -1,13 +1,13 @@
 ---
-title: 無限庭園 (Small)
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "無限庭園 (Small)"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 4
 accepted: 2
 solved_users: 2
-acceptance_rate: 50.000%
-collected_at: 2026-04-17T12:55:38.005748+00:00
+acceptance_rate: "50.000%"
+collected_at: "2026-04-17T12:55:38.005748+00:00"
 ---
 
 ## 문제

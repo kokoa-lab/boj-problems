@@ -1,13 +1,13 @@
 ---
-title: Bank Security Unification
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Bank Security Unification"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 68
 accepted: 26
 solved_users: 25
-acceptance_rate: 49.020%
-collected_at: 2026-04-17T15:48:21.533786+00:00
+acceptance_rate: "49.020%"
+collected_at: "2026-04-17T15:48:21.533786+00:00"
 ---
 
 ## 문제

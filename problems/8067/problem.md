@@ -1,13 +1,13 @@
 ---
-title: Primitivus
-special_judge: false
-time_limit: 3 초
-memory_limit: 128 MB
+title: "Primitivus"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "128 MB"
 submissions: 26
 accepted: 11
 solved_users: 10
-acceptance_rate: 47.619%
-collected_at: 2026-04-17T11:55:40.960278+00:00
+acceptance_rate: "47.619%"
+collected_at: "2026-04-17T11:55:40.960278+00:00"
 ---
 
 ## 문제

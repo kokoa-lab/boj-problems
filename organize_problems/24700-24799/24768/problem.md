@@ -1,13 +1,13 @@
 ---
-title: Left Beehind
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Left Beehind"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 814
 accepted: 614
 solved_users: 584
-acceptance_rate: 75.844%
-collected_at: 2026-04-17T17:14:41.170690+00:00
+acceptance_rate: "75.844%"
+collected_at: "2026-04-17T17:14:41.170690+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: A Pivotal Question
-special_judge: false
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "A Pivotal Question"
+special_judge: "false"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 102
 accepted: 49
 solved_users: 41
-acceptance_rate: 51.899%
-collected_at: 2026-04-17T19:08:39.787985+00:00
+acceptance_rate: "51.899%"
+collected_at: "2026-04-17T19:08:39.787985+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Addition
-special_judge: true
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Addition"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 3
 accepted: 1
 solved_users: 1
-acceptance_rate: 33.333%
-collected_at: 2026-04-17T15:12:15.499974+00:00
+acceptance_rate: "33.333%"
+collected_at: "2026-04-17T15:12:15.499974+00:00"
 ---
 
 ## 문제

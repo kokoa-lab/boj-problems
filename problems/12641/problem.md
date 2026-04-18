@@ -1,13 +1,13 @@
 ---
-title: Bribe the Prisoners (Small)
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Bribe the Prisoners (Small)"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 84
 accepted: 76
 solved_users: 65
-acceptance_rate: 90.278%
-collected_at: 2026-04-17T12:58:55.367682+00:00
+acceptance_rate: "90.278%"
+collected_at: "2026-04-17T12:58:55.367682+00:00"
 ---
 
 ## 문제

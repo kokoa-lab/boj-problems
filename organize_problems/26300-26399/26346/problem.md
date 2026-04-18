@@ -1,13 +1,13 @@
 ---
-title: Simi Circles
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Simi Circles"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 39
 accepted: 24
 solved_users: 18
-acceptance_rate: 54.545%
-collected_at: 2026-04-17T17:44:17.097164+00:00
+acceptance_rate: "54.545%"
+collected_at: "2026-04-17T17:44:17.097164+00:00"
 ---
 
 ## 문제

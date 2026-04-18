@@ -1,13 +1,13 @@
 ---
-title: Heavy Hauling
-special_judge: false
-time_limit: 3 초 (추가 시간 없음)
-memory_limit: 2048 MB
+title: "Heavy Hauling"
+special_judge: "false"
+time_limit: "3 초 (추가 시간 없음)"
+memory_limit: "2048 MB"
 submissions: 20
 accepted: 5
 solved_users: 4
-acceptance_rate: 66.667%
-collected_at: 2026-04-17T17:38:14.885735+00:00
+acceptance_rate: "66.667%"
+collected_at: "2026-04-17T17:38:14.885735+00:00"
 ---
 
 ## 문제

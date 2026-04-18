@@ -1,13 +1,13 @@
 ---
-title: Alice and Bob (and string): Double Menace
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Alice and Bob (and string): Double Menace"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 4
 accepted: 0
 solved_users: 0
-acceptance_rate: 0.000%
-collected_at: 2026-04-17T15:11:56.971756+00:00
+acceptance_rate: "0.000%"
+collected_at: "2026-04-17T15:11:56.971756+00:00"
 ---
 
 ## 문제

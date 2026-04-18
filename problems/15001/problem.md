@@ -1,13 +1,13 @@
 ---
-title: Frog Leaps
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Frog Leaps"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 750
 accepted: 477
 solved_users: 423
-acceptance_rate: 62.760%
-collected_at: 2026-04-17T13:47:55.934284+00:00
+acceptance_rate: "62.760%"
+collected_at: "2026-04-17T13:47:55.934284+00:00"
 ---
 
 ## 문제

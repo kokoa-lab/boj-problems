@@ -1,13 +1,13 @@
 ---
-title: Balanced Seesaw Array
-special_judge: false
-time_limit: 3 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Balanced Seesaw Array"
+special_judge: "false"
+time_limit: "3 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 169
 accepted: 44
 solved_users: 35
-acceptance_rate: 23.810%
-collected_at: 2026-04-17T17:43:27.485142+00:00
+acceptance_rate: "23.810%"
+collected_at: "2026-04-17T17:43:27.485142+00:00"
 ---
 
 ## 문제

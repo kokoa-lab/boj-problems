@@ -1,13 +1,13 @@
 ---
-title: Supercomputer
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "Supercomputer"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 123
 accepted: 50
 solved_users: 36
-acceptance_rate: 43.902%
-collected_at: 2026-04-17T12:19:19.857324+00:00
+acceptance_rate: "43.902%"
+collected_at: "2026-04-17T12:19:19.857324+00:00"
 ---
 
 ## 문제

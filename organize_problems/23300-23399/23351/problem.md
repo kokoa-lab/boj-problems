@@ -1,13 +1,13 @@
 ---
-title: 물 주기
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "물 주기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 1531
 accepted: 1101
 solved_users: 855
-acceptance_rate: 73.962%
-collected_at: 2026-04-17T16:46:40.347673+00:00
+acceptance_rate: "73.962%"
+collected_at: "2026-04-17T16:46:40.347673+00:00"
 ---
 
 ## 문제

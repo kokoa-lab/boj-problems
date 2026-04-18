@@ -1,13 +1,13 @@
 ---
-title: Viva la Diferencia
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Viva la Diferencia"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 2251
 accepted: 1726
 solved_users: 1604
-acceptance_rate: 78.016%
-collected_at: 2026-04-17T10:55:38.943472+00:00
+acceptance_rate: "78.016%"
+collected_at: "2026-04-17T10:55:38.943472+00:00"
 ---
 
 ## 문제

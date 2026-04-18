@@ -1,13 +1,13 @@
 ---
-title: Фигурное программирование
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Фигурное программирование"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 24
 accepted: 14
 solved_users: 12
-acceptance_rate: 54.545%
-collected_at: 2026-04-17T16:04:43.660450+00:00
+acceptance_rate: "54.545%"
+collected_at: "2026-04-17T16:04:43.660450+00:00"
 ---
 
 ## 문제

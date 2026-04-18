@@ -1,13 +1,13 @@
 ---
-title: Scoreboard Screenshots
-special_judge: true
-time_limit: 2 초
-memory_limit: 256 MB
+title: "Scoreboard Screenshots"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 41
 accepted: 28
 solved_users: 20
-acceptance_rate: 66.667%
-collected_at: 2026-04-17T20:12:15.900309+00:00
+acceptance_rate: "66.667%"
+collected_at: "2026-04-17T20:12:15.900309+00:00"
 ---
 
 ## 문제

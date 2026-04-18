@@ -1,13 +1,13 @@
 ---
-title: Letter Bank
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Letter Bank"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 436
 accepted: 304
 solved_users: 275
-acceptance_rate: 70.332%
-collected_at: 2026-04-17T12:06:40.153856+00:00
+acceptance_rate: "70.332%"
+collected_at: "2026-04-17T12:06:40.153856+00:00"
 ---
 
 ## 문제

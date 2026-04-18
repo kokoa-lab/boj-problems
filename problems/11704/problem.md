@@ -1,13 +1,13 @@
 ---
-title: Three-way Branch
-special_judge: false
-time_limit: 7 초
-memory_limit: 64 MB
+title: "Three-way Branch"
+special_judge: "false"
+time_limit: "7 초"
+memory_limit: "64 MB"
 submissions: 21
 accepted: 4
 solved_users: 4
-acceptance_rate: 66.667%
-collected_at: 2026-04-17T12:44:24.238706+00:00
+acceptance_rate: "66.667%"
+collected_at: "2026-04-17T12:44:24.238706+00:00"
 ---
 
 ## 문제

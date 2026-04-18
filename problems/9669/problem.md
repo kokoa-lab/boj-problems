@@ -1,13 +1,13 @@
 ---
-title: UTRKA
-special_judge: false
-time_limit: 3 초
-memory_limit: 128 MB
+title: "UTRKA"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "128 MB"
 submissions: 90
 accepted: 32
 solved_users: 22
-acceptance_rate: 40.741%
-collected_at: 2026-04-17T12:12:50.617982+00:00
+acceptance_rate: "40.741%"
+collected_at: "2026-04-17T12:12:50.617982+00:00"
 ---
 
 ## 문제

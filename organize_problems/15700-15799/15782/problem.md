@@ -1,13 +1,13 @@
 ---
-title: Calculate! 2
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Calculate! 2"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 974
 accepted: 437
 solved_users: 328
-acceptance_rate: 53.333%
-collected_at: 2026-04-17T14:06:30.587621+00:00
+acceptance_rate: "53.333%"
+collected_at: "2026-04-17T14:06:30.587621+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Time on task
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Time on task"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 286
 accepted: 199
 solved_users: 169
-acceptance_rate: 70.417%
-collected_at: 2026-04-17T11:35:44.785865+00:00
+acceptance_rate: "70.417%"
+collected_at: "2026-04-17T11:35:44.785865+00:00"
 ---
 
 ## 문제

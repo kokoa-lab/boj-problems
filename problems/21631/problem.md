@@ -1,13 +1,13 @@
 ---
-title: Checkers
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Checkers"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 2510
 accepted: 1524
 solved_users: 1440
-acceptance_rate: 60.504%
-collected_at: 2026-04-17T16:01:55.579497+00:00
+acceptance_rate: "60.504%"
+collected_at: "2026-04-17T16:01:55.579497+00:00"
 ---
 
 ## 문제

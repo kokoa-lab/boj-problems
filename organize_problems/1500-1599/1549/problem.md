@@ -1,13 +1,13 @@
 ---
-title: K
-special_judge: false
-time_limit: 5 초
-memory_limit: 128 MB
+title: "K"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "128 MB"
 submissions: 881
 accepted: 265
 solved_users: 203
-acceptance_rate: 30.074%
-collected_at: 2026-04-17T10:31:05.577015+00:00
+acceptance_rate: "30.074%"
+collected_at: "2026-04-17T10:31:05.577015+00:00"
 ---
 
 ## 문제

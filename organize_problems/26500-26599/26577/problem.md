@@ -1,13 +1,13 @@
 ---
-title: Math
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Math"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 240
 accepted: 157
 solved_users: 131
-acceptance_rate: 67.179%
-collected_at: 2026-04-17T17:48:04.511443+00:00
+acceptance_rate: "67.179%"
+collected_at: "2026-04-17T17:48:04.511443+00:00"
 ---
 
 ## 문제

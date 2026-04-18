@@ -1,13 +1,13 @@
 ---
-title: Babel
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Babel"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 3
 accepted: 1
 solved_users: 1
-acceptance_rate: 33.333%
-collected_at: 2026-04-17T13:17:07.679168+00:00
+acceptance_rate: "33.333%"
+collected_at: "2026-04-17T13:17:07.679168+00:00"
 ---
 
 ## 문제

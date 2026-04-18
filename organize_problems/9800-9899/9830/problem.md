@@ -1,13 +1,13 @@
 ---
-title: Paint
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Paint"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 66
 accepted: 58
 solved_users: 45
-acceptance_rate: 86.538%
-collected_at: 2026-04-17T12:15:12.097466+00:00
+acceptance_rate: "86.538%"
+collected_at: "2026-04-17T12:15:12.097466+00:00"
 ---
 
 ## 문제

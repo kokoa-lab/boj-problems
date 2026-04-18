@@ -1,13 +1,13 @@
 ---
-title: 타임위버
-special_judge: false
-time_limit: 5 초 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "타임위버"
+special_judge: "false"
+time_limit: "5 초 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 219
 accepted: 14
 solved_users: 9
-acceptance_rate: 9.574%
-collected_at: 2026-04-17T20:31:35.204544+00:00
+acceptance_rate: "9.574%"
+collected_at: "2026-04-17T20:31:35.204544+00:00"
 ---
 
 ## 문제

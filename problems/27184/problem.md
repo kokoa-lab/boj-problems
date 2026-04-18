@@ -1,13 +1,13 @@
 ---
-title: Campfire Riddle
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Campfire Riddle"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 30
 accepted: 22
 solved_users: 18
-acceptance_rate: 81.818%
-collected_at: 2026-04-17T17:57:55.234788+00:00
+acceptance_rate: "81.818%"
+collected_at: "2026-04-17T17:57:55.234788+00:00"
 ---
 
 ## 문제

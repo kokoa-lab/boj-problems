@@ -1,13 +1,13 @@
 ---
-title: 영재의 산책
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "영재의 산책"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 373
 accepted: 138
 solved_users: 104
-acceptance_rate: 33.987%
-collected_at: 2026-04-17T15:29:48.341344+00:00
+acceptance_rate: "33.987%"
+collected_at: "2026-04-17T15:29:48.341344+00:00"
 ---
 
 ## 문제

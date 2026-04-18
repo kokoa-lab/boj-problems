@@ -1,13 +1,13 @@
 ---
-title: Intelligent Design
-special_judge: true
-time_limit: 2 초
-memory_limit: 256 MB
+title: "Intelligent Design"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 83
 accepted: 12
 solved_users: 4
-acceptance_rate: 5.882%
-collected_at: 2026-04-17T11:52:50.384228+00:00
+acceptance_rate: "5.882%"
+collected_at: "2026-04-17T11:52:50.384228+00:00"
 ---
 
 ## 문제

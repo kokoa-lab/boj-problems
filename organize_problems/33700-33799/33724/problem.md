@@ -1,13 +1,13 @@
 ---
-title: Grid Coloring
-special_judge: false
-time_limit: 2 초
-memory_limit: 2048 MB
+title: "Grid Coloring"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "2048 MB"
 submissions: 108
 accepted: 44
 solved_users: 44
-acceptance_rate: 42.308%
-collected_at: 2026-04-17T20:22:21.260408+00:00
+acceptance_rate: "42.308%"
+collected_at: "2026-04-17T20:22:21.260408+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Шкаф для обуви
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Шкаф для обуви"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 265
 accepted: 124
 solved_users: 107
-acceptance_rate: 44.033%
-collected_at: 2026-04-17T18:34:52.537964+00:00
+acceptance_rate: "44.033%"
+collected_at: "2026-04-17T18:34:52.537964+00:00"
 ---
 
 ## 문제

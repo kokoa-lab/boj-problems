@@ -1,13 +1,13 @@
 ---
-title: 현수시티
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "현수시티"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 308
 accepted: 141
 solved_users: 104
-acceptance_rate: 43.697%
-collected_at: 2026-04-17T13:56:59.770132+00:00
+acceptance_rate: "43.697%"
+collected_at: "2026-04-17T13:56:59.770132+00:00"
 ---
 
 ## 문제

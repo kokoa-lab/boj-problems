@@ -1,13 +1,13 @@
 ---
-title: 불의 군주 라그나로스 2
-special_judge: false
-time_limit: 7 초
-memory_limit: 1024 MB
+title: "불의 군주 라그나로스 2"
+special_judge: "false"
+time_limit: "7 초"
+memory_limit: "1024 MB"
 submissions: 60
 accepted: 17
 solved_users: 15
-acceptance_rate: 28.846%
-collected_at: 2026-04-17T20:21:37.370947+00:00
+acceptance_rate: "28.846%"
+collected_at: "2026-04-17T20:21:37.370947+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: New Lottery Game (Large)
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "New Lottery Game (Large)"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 32
 accepted: 22
 solved_users: 21
-acceptance_rate: 87.500%
-collected_at: 2026-04-17T12:52:31.995281+00:00
+acceptance_rate: "87.500%"
+collected_at: "2026-04-17T12:52:31.995281+00:00"
 ---
 
 ## 문제

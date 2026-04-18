@@ -1,13 +1,13 @@
 ---
-title: Joining Pairs
-special_judge: false
-time_limit: 0.2 초
-memory_limit: 1024 MB
+title: "Joining Pairs"
+special_judge: "false"
+time_limit: "0.2 초"
+memory_limit: "1024 MB"
 submissions: 167
 accepted: 73
 solved_users: 63
-acceptance_rate: 52.500%
-collected_at: 2026-04-17T17:18:11.951867+00:00
+acceptance_rate: "52.500%"
+collected_at: "2026-04-17T17:18:11.951867+00:00"
 ---
 
 ## 문제

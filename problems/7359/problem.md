@@ -1,13 +1,13 @@
 ---
-title: The Worm Turns
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "The Worm Turns"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 60
 accepted: 45
 solved_users: 30
-acceptance_rate: 83.333%
-collected_at: 2026-04-17T11:48:39.723134+00:00
+acceptance_rate: "83.333%"
+collected_at: "2026-04-17T11:48:39.723134+00:00"
 ---
 
 ## 문제

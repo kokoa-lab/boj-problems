@@ -1,13 +1,13 @@
 ---
-title: 물 뿌리기
-special_judge: false
-time_limit: 2.5 초
-memory_limit: 1024 MB
+title: "물 뿌리기"
+special_judge: "false"
+time_limit: "2.5 초"
+memory_limit: "1024 MB"
 submissions: 434
 accepted: 72
 solved_users: 50
-acceptance_rate: 18.051%
-collected_at: 2026-04-17T18:52:21.271621+00:00
+acceptance_rate: "18.051%"
+collected_at: "2026-04-17T18:52:21.271621+00:00"
 ---
 
 ## 문제

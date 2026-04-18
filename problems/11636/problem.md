@@ -1,13 +1,13 @@
 ---
-title: Stand on Zanzibar
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Stand on Zanzibar"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 300
 accepted: 266
 solved_users: 231
-acceptance_rate: 92.400%
-collected_at: 2026-04-17T12:43:17.361860+00:00
+acceptance_rate: "92.400%"
+collected_at: "2026-04-17T12:43:17.361860+00:00"
 ---
 
 ## 문제

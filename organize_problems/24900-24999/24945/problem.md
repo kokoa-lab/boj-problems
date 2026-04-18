@@ -1,13 +1,13 @@
 ---
-title: Copy and Paste 3
-special_judge: false
-time_limit: 3 초
-memory_limit: 2048 MB
+title: "Copy and Paste 3"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "2048 MB"
 submissions: 158
 accepted: 49
 solved_users: 40
-acceptance_rate: 31.008%
-collected_at: 2026-04-17T17:17:29.155506+00:00
+acceptance_rate: "31.008%"
+collected_at: "2026-04-17T17:17:29.155506+00:00"
 ---
 
 ## 문제

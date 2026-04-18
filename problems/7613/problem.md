@@ -1,13 +1,13 @@
 ---
-title: 보이 스카우트
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "보이 스카우트"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 57
 accepted: 29
 solved_users: 22
-acceptance_rate: 56.410%
-collected_at: 2026-04-17T11:51:06.397295+00:00
+acceptance_rate: "56.410%"
+collected_at: "2026-04-17T11:51:06.397295+00:00"
 ---
 
 ## 문제

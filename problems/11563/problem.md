@@ -1,13 +1,13 @@
 ---
-title: 연돌이와 고잠녀
-special_judge: true
-time_limit: 7 초
-memory_limit: 256 MB
+title: "연돌이와 고잠녀"
+special_judge: "true"
+time_limit: "7 초"
+memory_limit: "256 MB"
 submissions: 1327
 accepted: 416
 solved_users: 303
-acceptance_rate: 30.514%
-collected_at: 2026-04-17T12:42:13.128414+00:00
+acceptance_rate: "30.514%"
+collected_at: "2026-04-17T12:42:13.128414+00:00"
 ---
 
 ## 문제

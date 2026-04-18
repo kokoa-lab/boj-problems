@@ -1,13 +1,13 @@
 ---
-title: 골뱅이 찍기 - 돌아간 ㅈ
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "골뱅이 찍기 - 돌아간 ㅈ"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 1808
 accepted: 1263
 solved_users: 1210
-acceptance_rate: 71.260%
-collected_at: 2026-04-17T16:54:27.439160+00:00
+acceptance_rate: "71.260%"
+collected_at: "2026-04-17T16:54:27.439160+00:00"
 ---
 
 ## 문제

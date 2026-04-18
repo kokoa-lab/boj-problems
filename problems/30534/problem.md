@@ -1,13 +1,13 @@
 ---
-title: Split Decisions
-special_judge: false
-time_limit: 6 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Split Decisions"
+special_judge: "false"
+time_limit: "6 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 38
 accepted: 12
 solved_users: 12
-acceptance_rate: 57.143%
-collected_at: 2026-04-17T19:08:54.030534+00:00
+acceptance_rate: "57.143%"
+collected_at: "2026-04-17T19:08:54.030534+00:00"
 ---
 
 ## 문제

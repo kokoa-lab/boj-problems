@@ -1,13 +1,13 @@
 ---
-title: Taxed Editor
-special_judge: false
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "Taxed Editor"
+special_judge: "false"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 25
 accepted: 11
 solved_users: 10
-acceptance_rate: 71.429%
-collected_at: 2026-04-17T14:48:40.701705+00:00
+acceptance_rate: "71.429%"
+collected_at: "2026-04-17T14:48:40.701705+00:00"
 ---
 
 ## 문제

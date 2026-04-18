@@ -1,13 +1,13 @@
 ---
-title: 별 관찰
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "별 관찰"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 811
 accepted: 217
 solved_users: 169
-acceptance_rate: 30.233%
-collected_at: 2026-04-17T10:45:20.111396+00:00
+acceptance_rate: "30.233%"
+collected_at: "2026-04-17T10:45:20.111396+00:00"
 ---
 
 ## 문제

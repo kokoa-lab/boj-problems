@@ -1,13 +1,13 @@
 ---
-title: Stirling Number
-special_judge: false
-time_limit: 9 초
-memory_limit: 256 MB
+title: "Stirling Number"
+special_judge: "false"
+time_limit: "9 초"
+memory_limit: "256 MB"
 submissions: 53
 accepted: 12
 solved_users: 7
-acceptance_rate: 31.818%
-collected_at: 2026-04-17T15:39:04.187023+00:00
+acceptance_rate: "31.818%"
+collected_at: "2026-04-17T15:39:04.187023+00:00"
 ---
 
 ## 문제

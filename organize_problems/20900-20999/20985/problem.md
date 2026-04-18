@@ -1,13 +1,13 @@
 ---
-title: Snowball
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Snowball"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 188
 accepted: 93
 solved_users: 86
-acceptance_rate: 49.711%
-collected_at: 2026-04-17T15:44:37.601589+00:00
+acceptance_rate: "49.711%"
+collected_at: "2026-04-17T15:44:37.601589+00:00"
 ---
 
 ## 문제

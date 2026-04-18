@@ -1,13 +1,13 @@
 ---
-title: 합 구하기
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "합 구하기"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 2057
 accepted: 900
 solved_users: 733
-acceptance_rate: 45.443%
-collected_at: 2026-04-17T13:13:04.602788+00:00
+acceptance_rate: "45.443%"
+collected_at: "2026-04-17T13:13:04.602788+00:00"
 ---
 
 ## 문제

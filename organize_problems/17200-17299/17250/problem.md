@@ -1,13 +1,13 @@
 ---
-title: 은하철도
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "은하철도"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 1086
 accepted: 615
 solved_users: 489
-acceptance_rate: 56.794%
-collected_at: 2026-04-17T14:35:11.149530+00:00
+acceptance_rate: "56.794%"
+collected_at: "2026-04-17T14:35:11.149530+00:00"
 ---
 
 ## 문제

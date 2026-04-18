@@ -1,13 +1,13 @@
 ---
-title: Ноутбук
-special_judge: true
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Ноутбук"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 70
 accepted: 54
 solved_users: 48
-acceptance_rate: 75.000%
-collected_at: 2026-04-17T18:49:05.600106+00:00
+acceptance_rate: "75.000%"
+collected_at: "2026-04-17T18:49:05.600106+00:00"
 ---
 
 ## 문제

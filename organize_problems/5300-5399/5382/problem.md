@@ -1,13 +1,13 @@
 ---
-title: Quick out of the Harbour
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Quick out of the Harbour"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 164
 accepted: 52
 solved_users: 41
-acceptance_rate: 35.965%
-collected_at: 2026-04-17T11:13:26.016027+00:00
+acceptance_rate: "35.965%"
+collected_at: "2026-04-17T11:13:26.016027+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 타임 카드
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "타임 카드"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 11371
 accepted: 8464
 solved_users: 7897
-acceptance_rate: 76.138%
-collected_at: 2026-04-17T11:15:37.293467+00:00
+acceptance_rate: "76.138%"
+collected_at: "2026-04-17T11:15:37.293467+00:00"
 ---
 
 ## 문제

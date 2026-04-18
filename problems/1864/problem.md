@@ -1,13 +1,13 @@
 ---
-title: 문어 숫자
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "문어 숫자"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 4462
 accepted: 3208
 solved_users: 2937
-acceptance_rate: 74.073%
-collected_at: 2026-04-17T10:35:01.480064+00:00
+acceptance_rate: "74.073%"
+collected_at: "2026-04-17T10:35:01.480064+00:00"
 ---
 
 ## 문제

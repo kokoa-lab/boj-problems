@@ -1,13 +1,13 @@
 ---
-title: 수박 던지기 게임
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "수박 던지기 게임"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 191
 accepted: 54
 solved_users: 46
-acceptance_rate: 35.115%
-collected_at: 2026-04-17T10:45:50.122664+00:00
+acceptance_rate: "35.115%"
+collected_at: "2026-04-17T10:45:50.122664+00:00"
 ---
 
 ## 문제

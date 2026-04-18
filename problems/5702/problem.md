@@ -1,13 +1,13 @@
 ---
-title: Jollo
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Jollo"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 172
 accepted: 74
 solved_users: 62
-acceptance_rate: 46.269%
-collected_at: 2026-04-17T11:16:42.273907+00:00
+acceptance_rate: "46.269%"
+collected_at: "2026-04-17T11:16:42.273907+00:00"
 ---
 
 ## 문제

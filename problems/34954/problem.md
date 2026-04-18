@@ -1,13 +1,13 @@
 ---
-title: 낚시 (Easy)
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "낚시 (Easy)"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 257
 accepted: 90
 solved_users: 80
-acceptance_rate: 42.553%
-collected_at: 2026-04-17T20:52:36.042474+00:00
+acceptance_rate: "42.553%"
+collected_at: "2026-04-17T20:52:36.042474+00:00"
 ---
 
 ## 문제

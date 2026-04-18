@@ -1,13 +1,13 @@
 ---
-title: 빨강~ 빨강~ 파랑! 파랑! 달콤한 솜사탕!
-special_judge: true
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "빨강~ 빨강~ 파랑! 파랑! 달콤한 솜사탕!"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 924
 accepted: 367
 solved_users: 276
-acceptance_rate: 40.233%
-collected_at: 2026-04-17T18:18:41.074073+00:00
+acceptance_rate: "40.233%"
+collected_at: "2026-04-17T18:18:41.074073+00:00"
 ---
 
 ## 문제

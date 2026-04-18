@@ -1,13 +1,13 @@
 ---
-title: 수 찾기
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "수 찾기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 353447
 accepted: 118122
 solved_users: 77077
-acceptance_rate: 31.482%
-collected_at: 2026-04-17T10:35:46.261644+00:00
+acceptance_rate: "31.482%"
+collected_at: "2026-04-17T10:35:46.261644+00:00"
 ---
 
 ## 문제

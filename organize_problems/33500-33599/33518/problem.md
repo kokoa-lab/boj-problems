@@ -1,13 +1,13 @@
 ---
-title: 도로 공사
-special_judge: false
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "도로 공사"
+special_judge: "false"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 106
 accepted: 58
 solved_users: 54
-acceptance_rate: 52.941%
-collected_at: 2026-04-17T20:18:15.289637+00:00
+acceptance_rate: "52.941%"
+collected_at: "2026-04-17T20:18:15.289637+00:00"
 ---
 
 ## 문제

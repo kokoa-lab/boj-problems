@@ -1,13 +1,13 @@
 ---
-title: Meeting Point
-special_judge: false
-time_limit: 0.5 초
-memory_limit: 1024 MB
+title: "Meeting Point"
+special_judge: "false"
+time_limit: "0.5 초"
+memory_limit: "1024 MB"
 submissions: 106
 accepted: 71
 solved_users: 59
-acceptance_rate: 67.045%
-collected_at: 2026-04-17T19:07:54.065799+00:00
+acceptance_rate: "67.045%"
+collected_at: "2026-04-17T19:07:54.065799+00:00"
 ---
 
 ## 문제

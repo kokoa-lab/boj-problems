@@ -1,13 +1,13 @@
 ---
-title: 팰린드롬 인코딩
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "팰린드롬 인코딩"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 404
 accepted: 119
 solved_users: 88
-acceptance_rate: 31.429%
-collected_at: 2026-04-17T10:33:38.975724+00:00
+acceptance_rate: "31.429%"
+collected_at: "2026-04-17T10:33:38.975724+00:00"
 ---
 
 ## 문제

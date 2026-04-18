@@ -1,13 +1,13 @@
 ---
-title: Hello Judge
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Hello Judge"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 21410
 accepted: 13617
 solved_users: 12598
-acceptance_rate: 64.815%
-collected_at: 2026-04-17T12:08:50.661397+00:00
+acceptance_rate: "64.815%"
+collected_at: "2026-04-17T12:08:50.661397+00:00"
 ---
 
 ## 문제

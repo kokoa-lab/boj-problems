@@ -1,13 +1,13 @@
 ---
-title: 햄부기
-special_judge: true
-time_limit: 1.5 초
-memory_limit: 1024 MB
+title: "햄부기"
+special_judge: "true"
+time_limit: "1.5 초"
+memory_limit: "1024 MB"
 submissions: 98
 accepted: 37
 solved_users: 29
-acceptance_rate: 36.250%
-collected_at: 2026-04-17T20:20:10.405484+00:00
+acceptance_rate: "36.250%"
+collected_at: "2026-04-17T20:20:10.405484+00:00"
 ---
 
 ## 문제

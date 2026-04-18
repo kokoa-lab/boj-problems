@@ -1,13 +1,13 @@
 ---
-title: 로고
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "로고"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 6068
 accepted: 2082
 solved_users: 1450
-acceptance_rate: 32.606%
-collected_at: 2026-04-17T10:46:45.548552+00:00
+acceptance_rate: "32.606%"
+collected_at: "2026-04-17T10:46:45.548552+00:00"
 ---
 
 ## 문제

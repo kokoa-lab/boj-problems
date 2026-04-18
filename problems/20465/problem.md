@@ -1,13 +1,13 @@
 ---
-title: Путешествие в Метрополис
-special_judge: false
-time_limit: 4 초
-memory_limit: 512 MB
+title: "Путешествие в Метрополис"
+special_judge: "false"
+time_limit: "4 초"
+memory_limit: "512 MB"
 submissions: 51
 accepted: 11
 solved_users: 11
-acceptance_rate: 32.353%
-collected_at: 2026-04-17T15:36:44.684576+00:00
+acceptance_rate: "32.353%"
+collected_at: "2026-04-17T15:36:44.684576+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Just a Joystick
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Just a Joystick"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 407
 accepted: 345
 solved_users: 316
-acceptance_rate: 85.637%
-collected_at: 2026-04-17T19:03:06.830671+00:00
+acceptance_rate: "85.637%"
+collected_at: "2026-04-17T19:03:06.830671+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 보석 감정
-special_judge: false
-time_limit: 3 초
-memory_limit: 1024 MB
+title: "보석 감정"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "1024 MB"
 submissions: 561
 accepted: 165
 solved_users: 33
-acceptance_rate: 11.913%
-collected_at: 2026-04-17T18:14:30.118295+00:00
+acceptance_rate: "11.913%"
+collected_at: "2026-04-17T18:14:30.118295+00:00"
 ---
 
 ## 문제

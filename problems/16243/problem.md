@@ -1,13 +1,13 @@
 ---
-title: Teoretičar
-special_judge: true
-time_limit: 8 초
-memory_limit: 256 MB
+title: "Teoretičar"
+special_judge: "true"
+time_limit: "8 초"
+memory_limit: "256 MB"
 submissions: 203
 accepted: 55
 solved_users: 25
-acceptance_rate: 15.060%
-collected_at: 2026-04-17T14:14:15.433494+00:00
+acceptance_rate: "15.060%"
+collected_at: "2026-04-17T14:14:15.433494+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 어깨동무
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "어깨동무"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 1879
 accepted: 435
 solved_users: 352
-acceptance_rate: 24.841%
-collected_at: 2026-04-17T18:14:54.035149+00:00
+acceptance_rate: "24.841%"
+collected_at: "2026-04-17T18:14:54.035149+00:00"
 ---
 
 ## 문제

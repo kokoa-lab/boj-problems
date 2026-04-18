@@ -1,13 +1,13 @@
 ---
-title: 점수 경주
-special_judge: false
-time_limit: 6.5 초
-memory_limit: 1024 MB
+title: "점수 경주"
+special_judge: "false"
+time_limit: "6.5 초"
+memory_limit: "1024 MB"
 submissions: 326
 accepted: 46
 solved_users: 38
-acceptance_rate: 20.652%
-collected_at: 2026-04-17T19:42:13.472853+00:00
+acceptance_rate: "20.652%"
+collected_at: "2026-04-17T19:42:13.472853+00:00"
 ---
 
 ## 문제

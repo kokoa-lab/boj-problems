@@ -1,13 +1,13 @@
 ---
-title: Gift
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Gift"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 13
 accepted: 11
 solved_users: 11
-acceptance_rate: 84.615%
-collected_at: 2026-04-17T14:06:39.720140+00:00
+acceptance_rate: "84.615%"
+collected_at: "2026-04-17T14:06:39.720140+00:00"
 ---
 
 ## 문제

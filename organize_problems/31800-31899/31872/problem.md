@@ -1,13 +1,13 @@
 ---
-title: 강의실
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "강의실"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 703
 accepted: 450
 solved_users: 404
-acceptance_rate: 67.110%
-collected_at: 2026-04-17T19:38:07.662811+00:00
+acceptance_rate: "67.110%"
+collected_at: "2026-04-17T19:38:07.662811+00:00"
 ---
 
 ## 문제

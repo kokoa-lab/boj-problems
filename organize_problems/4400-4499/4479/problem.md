@@ -1,13 +1,13 @@
 ---
-title: The History of the Sith Rulers
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "The History of the Sith Rulers"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 46
 accepted: 26
 solved_users: 25
-acceptance_rate: 60.976%
-collected_at: 2026-04-17T11:02:35.462401+00:00
+acceptance_rate: "60.976%"
+collected_at: "2026-04-17T11:02:35.462401+00:00"
 ---
 
 ## 문제

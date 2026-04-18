@@ -1,13 +1,13 @@
 ---
-title: 현상금 사냥꾼 김정은
-special_judge: true
-time_limit: 1 초
-memory_limit: 256 MB
+title: "현상금 사냥꾼 김정은"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 1163
 accepted: 543
 solved_users: 408
-acceptance_rate: 45.791%
-collected_at: 2026-04-17T12:21:21.412550+00:00
+acceptance_rate: "45.791%"
+collected_at: "2026-04-17T12:21:21.412550+00:00"
 ---
 
 ## 문제

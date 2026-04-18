@@ -1,13 +1,13 @@
 ---
-title: Cowlendar
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Cowlendar"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 137
 accepted: 67
 solved_users: 56
-acceptance_rate: 49.123%
-collected_at: 2026-04-17T19:30:48.762506+00:00
+acceptance_rate: "49.123%"
+collected_at: "2026-04-17T19:30:48.762506+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 트리 스도쿠
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "트리 스도쿠"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 78
 accepted: 55
 solved_users: 52
-acceptance_rate: 69.333%
-collected_at: 2026-04-17T19:38:13.553506+00:00
+acceptance_rate: "69.333%"
+collected_at: "2026-04-17T19:38:13.553506+00:00"
 ---
 
 ## 문제

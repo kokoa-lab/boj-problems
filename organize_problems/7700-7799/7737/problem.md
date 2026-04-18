@@ -1,13 +1,13 @@
 ---
-title: 삼각분할
-special_judge: false
-time_limit: 1 초
-memory_limit: 32 MB
+title: "삼각분할"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "32 MB"
 submissions: 652
 accepted: 164
 solved_users: 103
-acceptance_rate: 33.882%
-collected_at: 2026-04-17T11:52:23.712879+00:00
+acceptance_rate: "33.882%"
+collected_at: "2026-04-17T11:52:23.712879+00:00"
 ---
 
 ## 문제

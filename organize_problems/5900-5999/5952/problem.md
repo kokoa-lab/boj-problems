@@ -1,13 +1,13 @@
 ---
-title: Roads and Planes
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Roads and Planes"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 169
 accepted: 41
 solved_users: 38
-acceptance_rate: 26.761%
-collected_at: 2026-04-17T11:18:48.664390+00:00
+acceptance_rate: "26.761%"
+collected_at: "2026-04-17T11:18:48.664390+00:00"
 ---
 
 ## 문제

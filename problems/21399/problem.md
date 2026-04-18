@@ -1,13 +1,13 @@
 ---
-title: 장난감 묶음 할인
-special_judge: false
-time_limit: 1 초  ( 하단 참고 )
-memory_limit: 512 MB
+title: "장난감 묶음 할인"
+special_judge: "false"
+time_limit: "1 초  ( 하단 참고 )"
+memory_limit: "512 MB"
 submissions: 168
 accepted: 51
 solved_users: 31
-acceptance_rate: 26.050%
-collected_at: 2026-04-17T15:57:37.603144+00:00
+acceptance_rate: "26.050%"
+collected_at: "2026-04-17T15:57:37.603144+00:00"
 ---
 
 ## 문제

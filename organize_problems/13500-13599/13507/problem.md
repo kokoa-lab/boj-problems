@@ -1,13 +1,13 @@
 ---
-title: 좋은 부분 문자열의 개수
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "좋은 부분 문자열의 개수"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 348
 accepted: 133
 solved_users: 72
-acceptance_rate: 32.287%
-collected_at: 2026-04-17T13:14:18.782704+00:00
+acceptance_rate: "32.287%"
+collected_at: "2026-04-17T13:14:18.782704+00:00"
 ---
 
 ## 문제

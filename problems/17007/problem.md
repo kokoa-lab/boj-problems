@@ -1,13 +1,13 @@
 ---
-title: XOR Sequences
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "XOR Sequences"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 45
 accepted: 25
 solved_users: 24
-acceptance_rate: 61.538%
-collected_at: 2026-04-17T14:27:34.894308+00:00
+acceptance_rate: "61.538%"
+collected_at: "2026-04-17T14:27:34.894308+00:00"
 ---
 
 ## 문제

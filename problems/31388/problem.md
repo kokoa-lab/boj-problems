@@ -1,13 +1,13 @@
 ---
-title: 3d-modeling
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "3d-modeling"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 7
 accepted: 3
 solved_users: 2
-acceptance_rate: 33.333%
-collected_at: 2026-04-17T19:27:17.001807+00:00
+acceptance_rate: "33.333%"
+collected_at: "2026-04-17T19:27:17.001807+00:00"
 ---
 
 ## 문제

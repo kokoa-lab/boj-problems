@@ -1,13 +1,13 @@
 ---
-title: Expired License
-special_judge: false
-time_limit: 7 초
-memory_limit: 512 MB
+title: "Expired License"
+special_judge: "false"
+time_limit: "7 초"
+memory_limit: "512 MB"
 submissions: 292
 accepted: 80
 solved_users: 70
-acceptance_rate: 28.340%
-collected_at: 2026-04-17T14:10:57.702337+00:00
+acceptance_rate: "28.340%"
+collected_at: "2026-04-17T14:10:57.702337+00:00"
 ---
 
 ## 문제

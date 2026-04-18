@@ -1,13 +1,13 @@
 ---
-title: 시리얼 번호
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "시리얼 번호"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 22963
 accepted: 13347
 solved_users: 10812
-acceptance_rate: 58.844%
-collected_at: 2026-04-17T10:30:09.311684+00:00
+acceptance_rate: "58.844%"
+collected_at: "2026-04-17T10:30:09.311684+00:00"
 ---
 
 ## 문제

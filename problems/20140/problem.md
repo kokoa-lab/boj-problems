@@ -1,13 +1,13 @@
 ---
-title: Vista 3
-special_judge: false
-time_limit: 0.1 초
-memory_limit: 128 MB
+title: "Vista 3"
+special_judge: "false"
+time_limit: "0.1 초"
+memory_limit: "128 MB"
 submissions: 27
 accepted: 12
 solved_users: 2
-acceptance_rate: 16.667%
-collected_at: 2026-04-17T15:32:11.657462+00:00
+acceptance_rate: "16.667%"
+collected_at: "2026-04-17T15:32:11.657462+00:00"
 ---
 
 ## 문제

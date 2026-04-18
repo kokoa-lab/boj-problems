@@ -1,13 +1,13 @@
 ---
-title: 그래프 수정
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "그래프 수정"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 1808
 accepted: 466
 solved_users: 380
-acceptance_rate: 27.358%
-collected_at: 2026-04-17T10:30:09.225435+00:00
+acceptance_rate: "27.358%"
+collected_at: "2026-04-17T10:30:09.225435+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 보석상
-special_judge: false
-time_limit: 5 초
-memory_limit: 128 MB
+title: "보석상"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "128 MB"
 submissions: 261
 accepted: 105
 solved_users: 79
-acceptance_rate: 55.245%
-collected_at: 2026-04-17T10:29:14.687032+00:00
+acceptance_rate: "55.245%"
+collected_at: "2026-04-17T10:29:14.687032+00:00"
 ---
 
 ## 문제

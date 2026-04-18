@@ -1,13 +1,13 @@
 ---
-title: Milk Visits
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Milk Visits"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 859
 accepted: 348
 solved_users: 295
-acceptance_rate: 41.963%
-collected_at: 2026-04-17T14:58:13.860251+00:00
+acceptance_rate: "41.963%"
+collected_at: "2026-04-17T14:58:13.860251+00:00"
 ---
 
 ## 문제

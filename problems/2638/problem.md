@@ -1,13 +1,13 @@
 ---
-title: 치즈
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "치즈"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 39505
 accepted: 19094
 solved_users: 14250
-acceptance_rate: 46.992%
-collected_at: 2026-04-17T10:43:31.818466+00:00
+acceptance_rate: "46.992%"
+collected_at: "2026-04-17T10:43:31.818466+00:00"
 ---
 
 ## 문제

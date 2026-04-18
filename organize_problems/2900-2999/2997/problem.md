@@ -1,13 +1,13 @@
 ---
-title: 네 번째 수
-special_judge: true
-time_limit: 1 초
-memory_limit: 128 MB
+title: "네 번째 수"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 7153
 accepted: 3941
 solved_users: 3609
-acceptance_rate: 57.195%
-collected_at: 2026-04-17T10:46:08.047530+00:00
+acceptance_rate: "57.195%"
+collected_at: "2026-04-17T10:46:08.047530+00:00"
 ---
 
 ## 문제

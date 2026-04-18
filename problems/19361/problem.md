@@ -1,13 +1,13 @@
 ---
-title: City United
-special_judge: false
-time_limit: 3 초
-memory_limit: 512 MB
+title: "City United"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "512 MB"
 submissions: 77
 accepted: 40
 solved_users: 25
-acceptance_rate: 58.140%
-collected_at: 2026-04-17T15:18:05.685281+00:00
+acceptance_rate: "58.140%"
+collected_at: "2026-04-17T15:18:05.685281+00:00"
 ---
 
 ## 문제

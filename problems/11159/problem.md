@@ -1,13 +1,13 @@
 ---
-title: Neurotic Network
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Neurotic Network"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 72
 accepted: 37
 solved_users: 31
-acceptance_rate: 51.667%
-collected_at: 2026-04-17T12:37:25.216016+00:00
+acceptance_rate: "51.667%"
+collected_at: "2026-04-17T12:37:25.216016+00:00"
 ---
 
 ## 문제

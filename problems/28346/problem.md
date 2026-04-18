@@ -1,13 +1,13 @@
 ---
-title: XOR Necklace
-special_judge: false
-time_limit: 3 초
-memory_limit: 1024 MB
+title: "XOR Necklace"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "1024 MB"
 submissions: 192
 accepted: 127
 solved_users: 91
-acceptance_rate: 67.407%
-collected_at: 2026-04-17T18:23:51.036767+00:00
+acceptance_rate: "67.407%"
+collected_at: "2026-04-17T18:23:51.036767+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 주때의 자소서 쓰기
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "주때의 자소서 쓰기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 319
 accepted: 120
 solved_users: 82
-acceptance_rate: 34.599%
-collected_at: 2026-04-17T14:40:41.123128+00:00
+acceptance_rate: "34.599%"
+collected_at: "2026-04-17T14:40:41.123128+00:00"
 ---
 
 ## 문제

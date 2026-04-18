@@ -1,13 +1,13 @@
 ---
-title: Telegraph
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Telegraph"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 80
 accepted: 44
 solved_users: 42
-acceptance_rate: 56.757%
-collected_at: 2026-04-17T14:46:05.191324+00:00
+acceptance_rate: "56.757%"
+collected_at: "2026-04-17T14:46:05.191324+00:00"
 ---
 
 ## 문제

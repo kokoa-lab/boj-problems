@@ -1,13 +1,13 @@
 ---
-title: 쉽게 푸는 문제
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "쉽게 푸는 문제"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 44045
 accepted: 24521
 solved_users: 21164
-acceptance_rate: 56.625%
-collected_at: 2026-04-17T10:29:19.072973+00:00
+acceptance_rate: "56.625%"
+collected_at: "2026-04-17T10:29:19.072973+00:00"
 ---
 
 ## 문제

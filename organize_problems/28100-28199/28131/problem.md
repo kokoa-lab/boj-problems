@@ -1,13 +1,13 @@
 ---
-title: K-지폐
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "K-지폐"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 409
 accepted: 201
 solved_users: 164
-acceptance_rate: 49.547%
-collected_at: 2026-04-17T18:18:33.114744+00:00
+acceptance_rate: "49.547%"
+collected_at: "2026-04-17T18:18:33.114744+00:00"
 ---
 
 ## 문제

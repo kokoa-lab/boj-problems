@@ -1,13 +1,13 @@
 ---
-title: 수 맞추기 게임
-special_judge: false
-time_limit: 3 초
-memory_limit: 512 MB
+title: "수 맞추기 게임"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "512 MB"
 submissions: 169
 accepted: 22
 solved_users: 14
-acceptance_rate: 11.111%
-collected_at: 2026-04-17T18:49:13.389706+00:00
+acceptance_rate: "11.111%"
+collected_at: "2026-04-17T18:49:13.389706+00:00"
 ---
 
 ## 문제

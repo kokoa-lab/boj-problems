@@ -1,13 +1,13 @@
 ---
-title: 소수&팰린드롬
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "소수&팰린드롬"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 38253
 accepted: 12928
 solved_users: 9589
-acceptance_rate: 31.826%
-collected_at: 2026-04-17T10:33:03.133066+00:00
+acceptance_rate: "31.826%"
+collected_at: "2026-04-17T10:33:03.133066+00:00"
 ---
 
 ## 문제

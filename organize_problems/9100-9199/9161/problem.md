@@ -1,13 +1,13 @@
 ---
-title: Sir Bedavere’s Bogus Division Solutions
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Sir Bedavere’s Bogus Division Solutions"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 1024
 accepted: 474
 solved_users: 375
-acceptance_rate: 44.537%
-collected_at: 2026-04-17T12:07:40.250295+00:00
+acceptance_rate: "44.537%"
+collected_at: "2026-04-17T12:07:40.250295+00:00"
 ---
 
 ## 문제

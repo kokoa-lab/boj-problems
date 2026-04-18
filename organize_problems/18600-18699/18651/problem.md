@@ -1,13 +1,13 @@
 ---
-title: Linear Congruential Generator
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Linear Congruential Generator"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 70
 accepted: 12
 solved_users: 12
-acceptance_rate: 18.182%
-collected_at: 2026-04-17T15:07:33.011614+00:00
+acceptance_rate: "18.182%"
+collected_at: "2026-04-17T15:07:33.011614+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 양갈래 구하기
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "양갈래 구하기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 406
 accepted: 206
 solved_users: 170
-acceptance_rate: 54.313%
-collected_at: 2026-04-17T19:28:56.147940+00:00
+acceptance_rate: "54.313%"
+collected_at: "2026-04-17T19:28:56.147940+00:00"
 ---
 
 ## 문제

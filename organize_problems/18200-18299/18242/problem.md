@@ -1,13 +1,13 @@
 ---
-title: 네모네모 시력검사
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "네모네모 시력검사"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 1371
 accepted: 835
 solved_users: 733
-acceptance_rate: 62.489%
-collected_at: 2026-04-17T14:57:49.808312+00:00
+acceptance_rate: "62.489%"
+collected_at: "2026-04-17T14:57:49.808312+00:00"
 ---
 
 ## 문제

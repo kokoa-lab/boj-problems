@@ -1,13 +1,13 @@
 ---
-title: Key
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Key"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 1581
 accepted: 529
 solved_users: 378
-acceptance_rate: 30.096%
-collected_at: 2026-04-17T11:50:00.823213+00:00
+acceptance_rate: "30.096%"
+collected_at: "2026-04-17T11:50:00.823213+00:00"
 ---
 
 ## 문제

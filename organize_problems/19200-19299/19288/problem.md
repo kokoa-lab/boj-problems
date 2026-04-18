@@ -1,13 +1,13 @@
 ---
-title: ≤ or ≥
-special_judge: false
-time_limit: 3 초
-memory_limit: 512 MB
+title: "≤ or ≥"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "512 MB"
 submissions: 41
 accepted: 12
 solved_users: 11
-acceptance_rate: 28.205%
-collected_at: 2026-04-17T15:16:26.521232+00:00
+acceptance_rate: "28.205%"
+collected_at: "2026-04-17T15:16:26.521232+00:00"
 ---
 
 ## 문제

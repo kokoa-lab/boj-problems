@@ -1,13 +1,13 @@
 ---
-title: 5와 6의 차이
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "5와 6의 차이"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 15495
 accepted: 11586
 solved_users: 10537
-acceptance_rate: 76.063%
-collected_at: 2026-04-17T10:45:21.684759+00:00
+acceptance_rate: "76.063%"
+collected_at: "2026-04-17T10:45:21.684759+00:00"
 ---
 
 ## 문제

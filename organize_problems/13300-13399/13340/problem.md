@@ -1,13 +1,13 @@
 ---
-title: 마법의 탑과 순간 이동
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "마법의 탑과 순간 이동"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 107
 accepted: 12
 solved_users: 8
-acceptance_rate: 14.815%
-collected_at: 2026-04-17T13:11:49.749837+00:00
+acceptance_rate: "14.815%"
+collected_at: "2026-04-17T13:11:49.749837+00:00"
 ---
 
 ## 문제

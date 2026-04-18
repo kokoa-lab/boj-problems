@@ -1,13 +1,13 @@
 ---
-title: Mobitel
-special_judge: false
-time_limit: 6 초
-memory_limit: 512 MB
+title: "Mobitel"
+special_judge: "false"
+time_limit: "6 초"
+memory_limit: "512 MB"
 submissions: 94
 accepted: 31
 solved_users: 18
-acceptance_rate: 29.508%
-collected_at: 2026-04-17T14:28:38.103233+00:00
+acceptance_rate: "29.508%"
+collected_at: "2026-04-17T14:28:38.103233+00:00"
 ---
 
 ## 문제

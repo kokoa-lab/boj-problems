@@ -1,13 +1,13 @@
 ---
-title: 백남이의 여행
-special_judge: true
-time_limit: 1 초
-memory_limit: 512 MB
+title: "백남이의 여행"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 238
 accepted: 54
 solved_users: 45
-acceptance_rate: 42.857%
-collected_at: 2026-04-17T16:41:11.882496+00:00
+acceptance_rate: "42.857%"
+collected_at: "2026-04-17T16:41:11.882496+00:00"
 ---
 
 ## 문제

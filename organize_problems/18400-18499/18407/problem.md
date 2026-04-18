@@ -1,13 +1,13 @@
 ---
-title: 가로 블록 쌓기
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "가로 블록 쌓기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 776
 accepted: 322
 solved_users: 246
-acceptance_rate: 40.594%
-collected_at: 2026-04-18T09:50:57.854028+00:00
+acceptance_rate: "40.594%"
+collected_at: "2026-04-18T09:50:57.854028+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Система глобальнейшего позиционирования
-special_judge: true
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Система глобальнейшего позиционирования"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 74
 accepted: 13
 solved_users: 6
-acceptance_rate: 9.836%
-collected_at: 2026-04-17T18:47:34.753769+00:00
+acceptance_rate: "9.836%"
+collected_at: "2026-04-17T18:47:34.753769+00:00"
 ---
 
 ## 문제

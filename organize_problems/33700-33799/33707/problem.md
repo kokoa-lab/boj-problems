@@ -1,13 +1,13 @@
 ---
-title: 젓가락으로 메추리알 집기
-special_judge: false
-time_limit: 4 초
-memory_limit: 1024 MB
+title: "젓가락으로 메추리알 집기"
+special_judge: "false"
+time_limit: "4 초"
+memory_limit: "1024 MB"
 submissions: 289
 accepted: 133
 solved_users: 114
-acceptance_rate: 48.101%
-collected_at: 2026-04-17T20:21:59.203547+00:00
+acceptance_rate: "48.101%"
+collected_at: "2026-04-17T20:21:59.203547+00:00"
 ---
 
 ## 문제

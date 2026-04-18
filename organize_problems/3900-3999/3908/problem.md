@@ -1,13 +1,13 @@
 ---
-title: 서로 다른 소수의 합
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "서로 다른 소수의 합"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 1438
 accepted: 855
 solved_users: 634
-acceptance_rate: 62.897%
-collected_at: 2026-04-17T10:53:16.804561+00:00
+acceptance_rate: "62.897%"
+collected_at: "2026-04-17T10:53:16.804561+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 특정 거리의 도시 찾기
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "특정 거리의 도시 찾기"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 74423
 accepted: 26470
 solved_users: 17225
-acceptance_rate: 33.673%
-collected_at: 2026-04-17T15:00:37.476713+00:00
+acceptance_rate: "33.673%"
+collected_at: "2026-04-17T15:00:37.476713+00:00"
 ---
 
 ## 문제

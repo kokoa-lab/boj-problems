@@ -1,13 +1,13 @@
 ---
-title: 진화 2
-special_judge: false
-time_limit: 3 초
-memory_limit: 2048 MB
+title: "진화 2"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "2048 MB"
 submissions: 188
 accepted: 19
 solved_users: 12
-acceptance_rate: 9.231%
-collected_at: 2026-04-17T20:20:01.116951+00:00
+acceptance_rate: "9.231%"
+collected_at: "2026-04-17T20:20:01.116951+00:00"
 ---
 
 ## 문제

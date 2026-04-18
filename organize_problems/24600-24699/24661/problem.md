@@ -1,13 +1,13 @@
 ---
-title: Items and Heroes
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Items and Heroes"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 84
 accepted: 39
 solved_users: 37
-acceptance_rate: 54.412%
-collected_at: 2026-04-17T17:12:45.344654+00:00
+acceptance_rate: "54.412%"
+collected_at: "2026-04-17T17:12:45.344654+00:00"
 ---
 
 ## 문제

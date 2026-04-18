@@ -1,13 +1,13 @@
 ---
-title: Dance, Dance
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "Dance, Dance"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 221
 accepted: 50
 solved_users: 39
-acceptance_rate: 24.224%
-collected_at: 2026-04-17T10:31:01.983489+00:00
+acceptance_rate: "24.224%"
+collected_at: "2026-04-17T10:31:01.983489+00:00"
 ---
 
 ## 문제

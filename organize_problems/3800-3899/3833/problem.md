@@ -1,13 +1,13 @@
 ---
-title: 아름다운 레이아웃
-special_judge: false
-time_limit: 5 초
-memory_limit: 128 MB
+title: "아름다운 레이아웃"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "128 MB"
 submissions: 117
 accepted: 35
 solved_users: 24
-acceptance_rate: 35.294%
-collected_at: 2026-04-17T10:52:17.500022+00:00
+acceptance_rate: "35.294%"
+collected_at: "2026-04-17T10:52:17.500022+00:00"
 ---
 
 ## 문제

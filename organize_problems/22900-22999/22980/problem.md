@@ -1,13 +1,13 @@
 ---
-title: 테스트케이스 만들기
-special_judge: true
-time_limit: 1 초
-memory_limit: 512 MB
+title: "테스트케이스 만들기"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 112
 accepted: 57
 solved_users: 47
-acceptance_rate: 56.627%
-collected_at: 2026-04-17T16:39:44.382115+00:00
+acceptance_rate: "56.627%"
+collected_at: "2026-04-17T16:39:44.382115+00:00"
 ---
 
 ## 문제

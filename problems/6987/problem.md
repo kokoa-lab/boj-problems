@@ -1,13 +1,13 @@
 ---
-title: 월드컵
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "월드컵"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 19509
 accepted: 5996
 solved_users: 3959
-acceptance_rate: 30.335%
-collected_at: 2026-04-17T11:42:04.642133+00:00
+acceptance_rate: "30.335%"
+collected_at: "2026-04-17T11:42:04.642133+00:00"
 ---
 
 ## 문제

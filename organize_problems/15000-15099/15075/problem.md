@@ -1,13 +1,13 @@
 ---
-title: That’s One Hanoi-ed Teacher
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "That’s One Hanoi-ed Teacher"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 21
 accepted: 11
 solved_users: 9
-acceptance_rate: 47.368%
-collected_at: 2026-04-17T13:50:07.262481+00:00
+acceptance_rate: "47.368%"
+collected_at: "2026-04-17T13:50:07.262481+00:00"
 ---
 
 ## 문제

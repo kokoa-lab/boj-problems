@@ -1,13 +1,13 @@
 ---
-title: 이변마작 9
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "이변마작 9"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 458
 accepted: 258
 solved_users: 230
-acceptance_rate: 58.524%
-collected_at: 2026-04-17T20:08:00.577536+00:00
+acceptance_rate: "58.524%"
+collected_at: "2026-04-17T20:08:00.577536+00:00"
 ---
 
 ## 문제

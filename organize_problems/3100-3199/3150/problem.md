@@ -1,13 +1,13 @@
 ---
-title: NOGA
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "NOGA"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 59
 accepted: 6
 solved_users: 6
-acceptance_rate: 17.143%
-collected_at: 2026-04-17T10:47:02.706975+00:00
+acceptance_rate: "17.143%"
+collected_at: "2026-04-17T10:47:02.706975+00:00"
 ---
 
 ## 문제

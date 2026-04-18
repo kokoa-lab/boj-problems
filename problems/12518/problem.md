@@ -1,13 +1,13 @@
 ---
-title: Centauri Prime (Small2)
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Centauri Prime (Small2)"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 954
 accepted: 431
 solved_users: 309
-acceptance_rate: 41.036%
-collected_at: 2026-04-17T12:56:49.158435+00:00
+acceptance_rate: "41.036%"
+collected_at: "2026-04-17T12:56:49.158435+00:00"
 ---
 
 ## 문제

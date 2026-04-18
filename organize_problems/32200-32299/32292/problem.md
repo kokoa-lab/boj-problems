@@ -1,13 +1,13 @@
 ---
-title: ABB to BA (Easy)
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "ABB to BA (Easy)"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 388
 accepted: 301
 solved_users: 266
-acceptance_rate: 81.846%
-collected_at: 2026-04-17T19:48:14.172876+00:00
+acceptance_rate: "81.846%"
+collected_at: "2026-04-17T19:48:14.172876+00:00"
 ---
 
 ## 문제

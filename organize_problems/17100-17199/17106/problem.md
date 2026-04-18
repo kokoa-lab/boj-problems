@@ -1,13 +1,13 @@
 ---
-title: 빙고
-special_judge: true
-time_limit: 0.999 초
-memory_limit: 511 MB
+title: "빙고"
+special_judge: "true"
+time_limit: "0.999 초"
+memory_limit: "511 MB"
 submissions: 5715
 accepted: 1408
 solved_users: 1363
-acceptance_rate: 28.628%
-collected_at: 2026-04-17T14:29:48.086220+00:00
+acceptance_rate: "28.628%"
+collected_at: "2026-04-17T14:29:48.086220+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 학습지 가져오기
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "학습지 가져오기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 336
 accepted: 219
 solved_users: 214
-acceptance_rate: 67.085%
-collected_at: 2026-04-18T09:51:54.915958+00:00
+acceptance_rate: "67.085%"
+collected_at: "2026-04-18T09:51:54.915958+00:00"
 ---
 
 ## 문제

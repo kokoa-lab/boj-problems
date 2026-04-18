@@ -1,13 +1,13 @@
 ---
-title: Illumination Optimization
-special_judge: false
-time_limit: 10 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Illumination Optimization"
+special_judge: "false"
+time_limit: "10 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 45
 accepted: 26
 solved_users: 22
-acceptance_rate: 55.000%
-collected_at: 2026-04-17T18:52:43.350860+00:00
+acceptance_rate: "55.000%"
+collected_at: "2026-04-17T18:52:43.350860+00:00"
 ---
 
 ## 문제

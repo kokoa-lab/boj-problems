@@ -1,13 +1,13 @@
 ---
-title: 병영외 급식
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "병영외 급식"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 1449
 accepted: 1051
 solved_users: 954
-acceptance_rate: 74.415%
-collected_at: 2026-04-17T19:00:41.673954+00:00
+acceptance_rate: "74.415%"
+collected_at: "2026-04-17T19:00:41.673954+00:00"
 ---
 
 ## 문제

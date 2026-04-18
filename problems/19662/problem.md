@@ -1,13 +1,13 @@
 ---
-title: Aesthetic
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Aesthetic"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 24
 accepted: 12
 solved_users: 4
-acceptance_rate: 57.143%
-collected_at: 2026-04-17T15:26:12.211916+00:00
+acceptance_rate: "57.143%"
+collected_at: "2026-04-17T15:26:12.211916+00:00"
 ---
 
 ## 문제

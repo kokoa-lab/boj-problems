@@ -1,13 +1,13 @@
 ---
-title: Stable Neigh-bors (Large)
-special_judge: true
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Stable Neigh-bors (Large)"
+special_judge: "true"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 72
 accepted: 29
 solved_users: 26
-acceptance_rate: 42.623%
-collected_at: 2026-04-17T13:42:14.040540+00:00
+acceptance_rate: "42.623%"
+collected_at: "2026-04-17T13:42:14.040540+00:00"
 ---
 
 ## 문제

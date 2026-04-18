@@ -1,13 +1,13 @@
 ---
-title: 빨간 칩, 초록 칩
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "빨간 칩, 초록 칩"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 689
 accepted: 269
 solved_users: 207
-acceptance_rate: 43.125%
-collected_at: 2026-04-17T11:52:57.101123+00:00
+acceptance_rate: "43.125%"
+collected_at: "2026-04-17T11:52:57.101123+00:00"
 ---
 
 ## 문제

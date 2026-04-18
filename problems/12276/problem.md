@@ -1,13 +1,13 @@
 ---
-title: Read Phone Number (Small)
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Read Phone Number (Small)"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 87
 accepted: 62
 solved_users: 57
-acceptance_rate: 71.250%
-collected_at: 2026-04-17T12:52:55.169484+00:00
+acceptance_rate: "71.250%"
+collected_at: "2026-04-17T12:52:55.169484+00:00"
 ---
 
 ## 문제

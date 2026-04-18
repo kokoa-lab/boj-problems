@@ -1,13 +1,13 @@
 ---
-title: Kings on a Chessboard
-special_judge: false
-time_limit: 5 초
-memory_limit: 256 MB
+title: "Kings on a Chessboard"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "256 MB"
 submissions: 43
 accepted: 22
 solved_users: 20
-acceptance_rate: 60.606%
-collected_at: 2026-04-17T12:37:27.211921+00:00
+acceptance_rate: "60.606%"
+collected_at: "2026-04-17T12:37:27.211921+00:00"
 ---
 
 ## 문제

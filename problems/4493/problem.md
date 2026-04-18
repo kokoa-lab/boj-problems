@@ -1,13 +1,13 @@
 ---
-title: 가위 바위 보?
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "가위 바위 보?"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 6663
 accepted: 4312
 solved_users: 3835
-acceptance_rate: 66.870%
-collected_at: 2026-04-17T11:02:44.804182+00:00
+acceptance_rate: "66.870%"
+collected_at: "2026-04-17T11:02:44.804182+00:00"
 ---
 
 ## 문제

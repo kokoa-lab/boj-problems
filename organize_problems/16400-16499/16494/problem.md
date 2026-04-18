@@ -1,13 +1,13 @@
 ---
-title: 가장 큰 값
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "가장 큰 값"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 687
 accepted: 221
 solved_users: 177
-acceptance_rate: 33.459%
-collected_at: 2026-04-17T14:18:53.236331+00:00
+acceptance_rate: "33.459%"
+collected_at: "2026-04-17T14:18:53.236331+00:00"
 ---
 
 ## 문제

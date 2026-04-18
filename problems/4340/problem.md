@@ -1,13 +1,13 @@
 ---
-title: Rock, Scissors, Paper
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Rock, Scissors, Paper"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 132
 accepted: 76
 solved_users: 41
-acceptance_rate: 54.667%
-collected_at: 2026-04-17T10:59:51.527487+00:00
+acceptance_rate: "54.667%"
+collected_at: "2026-04-17T10:59:51.527487+00:00"
 ---
 
 ## 문제

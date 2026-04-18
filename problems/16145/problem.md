@@ -1,13 +1,13 @@
 ---
-title: Tide Pods
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Tide Pods"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 139
 accepted: 46
 solved_users: 41
-acceptance_rate: 36.937%
-collected_at: 2026-04-17T14:12:18.249603+00:00
+acceptance_rate: "36.937%"
+collected_at: "2026-04-17T14:12:18.249603+00:00"
 ---
 
 ## 문제

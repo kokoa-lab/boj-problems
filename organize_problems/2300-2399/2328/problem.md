@@ -1,13 +1,13 @@
 ---
-title: 그래프의 해시
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "그래프의 해시"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 179
 accepted: 43
 solved_users: 36
-acceptance_rate: 42.353%
-collected_at: 2026-04-17T10:40:39.950650+00:00
+acceptance_rate: "42.353%"
+collected_at: "2026-04-17T10:40:39.950650+00:00"
 ---
 
 ## 문제

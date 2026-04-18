@@ -1,13 +1,13 @@
 ---
-title: 5차원 구사과 초콜릿
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "5차원 구사과 초콜릿"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 567
 accepted: 209
 solved_users: 154
-acceptance_rate: 46.386%
-collected_at: 2026-04-17T13:18:20.389596+00:00
+acceptance_rate: "46.386%"
+collected_at: "2026-04-17T13:18:20.389596+00:00"
 ---
 
 ## 문제

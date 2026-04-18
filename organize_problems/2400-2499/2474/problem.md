@@ -1,13 +1,13 @@
 ---
-title: 교차 선분
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "교차 선분"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 436
 accepted: 101
 solved_users: 66
-acceptance_rate: 27.848%
-collected_at: 2026-04-17T10:41:56.478698+00:00
+acceptance_rate: "27.848%"
+collected_at: "2026-04-17T10:41:56.478698+00:00"
 ---
 
 ## 문제

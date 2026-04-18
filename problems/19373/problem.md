@@ -1,13 +1,13 @@
 ---
-title: Bit Operations
-special_judge: true
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Bit Operations"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 40
 accepted: 8
 solved_users: 8
-acceptance_rate: 20.000%
-collected_at: 2026-04-17T15:18:31.577237+00:00
+acceptance_rate: "20.000%"
+collected_at: "2026-04-17T15:18:31.577237+00:00"
 ---
 
 ## 문제

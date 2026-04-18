@@ -1,13 +1,13 @@
 ---
-title: 유아와 곰두리차
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "유아와 곰두리차"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 460
 accepted: 231
 solved_users: 183
-acceptance_rate: 51.117%
-collected_at: 2026-04-17T15:43:56.044382+00:00
+acceptance_rate: "51.117%"
+collected_at: "2026-04-17T15:43:56.044382+00:00"
 ---
 
 ## 문제

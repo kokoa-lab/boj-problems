@@ -1,13 +1,13 @@
 ---
-title: 좌표 정렬하기 2
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "좌표 정렬하기 2"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 108387
 accepted: 71917
 solved_users: 61418
-acceptance_rate: 67.556%
-collected_at: 2026-04-17T12:43:34.078302+00:00
+acceptance_rate: "67.556%"
+collected_at: "2026-04-17T12:43:34.078302+00:00"
 ---
 
 ## 문제

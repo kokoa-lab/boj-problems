@@ -1,13 +1,13 @@
 ---
-title: 오리와 박수치는 춘배
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "오리와 박수치는 춘배"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 1135
 accepted: 655
 solved_users: 595
-acceptance_rate: 59.739%
-collected_at: 2026-04-17T19:06:06.806597+00:00
+acceptance_rate: "59.739%"
+collected_at: "2026-04-17T19:06:06.806597+00:00"
 ---
 
 ## 문제

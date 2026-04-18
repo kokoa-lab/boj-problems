@@ -1,13 +1,13 @@
 ---
-title: Túnel de Rata
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Túnel de Rata"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 95
 accepted: 64
 solved_users: 42
-acceptance_rate: 65.625%
-collected_at: 2026-04-17T12:22:35.801301+00:00
+acceptance_rate: "65.625%"
+collected_at: "2026-04-17T12:22:35.801301+00:00"
 ---
 
 ## 문제

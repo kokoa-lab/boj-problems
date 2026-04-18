@@ -1,13 +1,13 @@
 ---
-title: Line of Bentham
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Line of Bentham"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 135
 accepted: 53
 solved_users: 36
-acceptance_rate: 39.560%
-collected_at: 2026-04-17T14:08:07.254431+00:00
+acceptance_rate: "39.560%"
+collected_at: "2026-04-17T14:08:07.254431+00:00"
 ---
 
 ## 문제

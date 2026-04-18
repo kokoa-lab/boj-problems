@@ -1,13 +1,13 @@
 ---
-title: Board Game
-special_judge: false
-time_limit: 4 초
-memory_limit: 1024 MB
+title: "Board Game"
+special_judge: "false"
+time_limit: "4 초"
+memory_limit: "1024 MB"
 submissions: 104
 accepted: 16
 solved_users: 12
-acceptance_rate: 13.636%
-collected_at: 2026-04-17T19:35:26.646748+00:00
+acceptance_rate: "13.636%"
+collected_at: "2026-04-17T19:35:26.646748+00:00"
 ---
 
 ## 문제

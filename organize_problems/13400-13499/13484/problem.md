@@ -1,13 +1,13 @@
 ---
-title: Tarifa
-special_judge: false
-time_limit: 1 초
-memory_limit: 64 MB
+title: "Tarifa"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "64 MB"
 submissions: 928
 accepted: 810
 solved_users: 776
-acceptance_rate: 88.182%
-collected_at: 2026-04-17T13:13:56.626533+00:00
+acceptance_rate: "88.182%"
+collected_at: "2026-04-17T13:13:56.626533+00:00"
 ---
 
 ## 문제

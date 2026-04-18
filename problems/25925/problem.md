@@ -1,13 +1,13 @@
 ---
-title: 안아줘요
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "안아줘요"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 166
 accepted: 68
 solved_users: 54
-acceptance_rate: 43.902%
-collected_at: 2026-04-17T17:36:57.125558+00:00
+acceptance_rate: "43.902%"
+collected_at: "2026-04-17T17:36:57.125558+00:00"
 ---
 
 ## 문제

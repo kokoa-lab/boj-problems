@@ -1,13 +1,13 @@
 ---
-title: 이상한 곱셈
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "이상한 곱셈"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 25633
 accepted: 9906
 solved_users: 8599
-acceptance_rate: 39.638%
-collected_at: 2026-04-17T10:28:56.986665+00:00
+acceptance_rate: "39.638%"
+collected_at: "2026-04-17T10:28:56.986665+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Sirni
-special_judge: false
-time_limit: 5 초
-memory_limit: 768 MB
+title: "Sirni"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "768 MB"
 submissions: 154
 accepted: 38
 solved_users: 22
-acceptance_rate: 17.742%
-collected_at: 2026-04-17T12:50:22.565100+00:00
+acceptance_rate: "17.742%"
+collected_at: "2026-04-17T12:50:22.565100+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Meet and Greet
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Meet and Greet"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 498
 accepted: 183
 solved_users: 159
-acceptance_rate: 39.552%
-collected_at: 2026-04-17T11:18:08.098127+00:00
+acceptance_rate: "39.552%"
+collected_at: "2026-04-17T11:18:08.098127+00:00"
 ---
 
 ## 문제

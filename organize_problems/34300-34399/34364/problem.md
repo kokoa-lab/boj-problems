@@ -1,13 +1,13 @@
 ---
-title: MIR Cipher
-special_judge: false
-time_limit: 1 초
-memory_limit: 2048 MB
+title: "MIR Cipher"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "2048 MB"
 submissions: 183
 accepted: 127
 solved_users: 112
-acceptance_rate: 67.470%
-collected_at: 2026-04-17T20:36:39.525791+00:00
+acceptance_rate: "67.470%"
+collected_at: "2026-04-17T20:36:39.525791+00:00"
 ---
 
 ## 문제

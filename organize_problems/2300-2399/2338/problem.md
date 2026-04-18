@@ -1,13 +1,13 @@
 ---
-title: 긴자리 계산
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "긴자리 계산"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 55194
 accepted: 23707
 solved_users: 22208
-acceptance_rate: 49.859%
-collected_at: 2026-04-17T10:40:45.058676+00:00
+acceptance_rate: "49.859%"
+collected_at: "2026-04-17T10:40:45.058676+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 등차수열을 만들어요
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "등차수열을 만들어요"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 790
 accepted: 368
 solved_users: 317
-acceptance_rate: 50.720%
-collected_at: 2026-04-17T19:48:19.174711+00:00
+acceptance_rate: "50.720%"
+collected_at: "2026-04-17T19:48:19.174711+00:00"
 ---
 
 ## 문제

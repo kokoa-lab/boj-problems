@@ -1,13 +1,13 @@
 ---
-title: 모자 쓴 아이들 (Large)
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "모자 쓴 아이들 (Large)"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 0
 accepted: 0
 solved_users: 0
-acceptance_rate: 0.000%
-collected_at: 2026-04-17T12:55:22.427541+00:00
+acceptance_rate: "0.000%"
+collected_at: "2026-04-17T12:55:22.427541+00:00"
 ---
 
 ## 문제

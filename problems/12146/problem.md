@@ -1,13 +1,13 @@
 ---
-title: Drum Decorator (Large)
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Drum Decorator (Large)"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 119
 accepted: 66
 solved_users: 29
-acceptance_rate: 46.774%
-collected_at: 2026-04-17T12:50:57.008123+00:00
+acceptance_rate: "46.774%"
+collected_at: "2026-04-17T12:50:57.008123+00:00"
 ---
 
 ## 문제

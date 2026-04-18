@@ -1,13 +1,13 @@
 ---
-title: 위치 바꾸기
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "위치 바꾸기"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 474
 accepted: 222
 solved_users: 172
-acceptance_rate: 46.739%
-collected_at: 2026-04-17T10:31:22.122163+00:00
+acceptance_rate: "46.739%"
+collected_at: "2026-04-17T10:31:22.122163+00:00"
 ---
 
 ## 문제

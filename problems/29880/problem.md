@@ -1,13 +1,13 @@
 ---
-title: How to Avoid Disqualification in 75 Easy Steps
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "How to Avoid Disqualification in 75 Easy Steps"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 46
 accepted: 18
 solved_users: 12
-acceptance_rate: 44.444%
-collected_at: 2026-04-17T18:54:44.907119+00:00
+acceptance_rate: "44.444%"
+collected_at: "2026-04-17T18:54:44.907119+00:00"
 ---
 
 ## 문제

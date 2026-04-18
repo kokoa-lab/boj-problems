@@ -1,13 +1,13 @@
 ---
-title: 하루 피부과
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "하루 피부과"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 885
 accepted: 726
 solved_users: 675
-acceptance_rate: 83.436%
-collected_at: 2026-04-17T19:19:15.847702+00:00
+acceptance_rate: "83.436%"
+collected_at: "2026-04-17T19:19:15.847702+00:00"
 ---
 
 ## 문제

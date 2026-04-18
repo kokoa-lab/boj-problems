@@ -1,13 +1,13 @@
 ---
-title: 다이나믹이 뭐예요?
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "다이나믹이 뭐예요?"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 4362
 accepted: 3065
 solved_users: 2610
-acceptance_rate: 71.526%
-collected_at: 2026-04-17T13:36:08.965070+00:00
+acceptance_rate: "71.526%"
+collected_at: "2026-04-17T13:36:08.965070+00:00"
 ---
 
 ## 문제

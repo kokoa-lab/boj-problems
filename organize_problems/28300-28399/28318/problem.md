@@ -1,13 +1,13 @@
 ---
-title: Real Mountains
-special_judge: false
-time_limit: 5 초
-memory_limit: 1024 MB
+title: "Real Mountains"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "1024 MB"
 submissions: 45
 accepted: 27
 solved_users: 20
-acceptance_rate: 68.966%
-collected_at: 2026-04-17T18:22:49.042331+00:00
+acceptance_rate: "68.966%"
+collected_at: "2026-04-17T18:22:49.042331+00:00"
 ---
 
 ## 문제

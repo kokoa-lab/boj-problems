@@ -1,13 +1,13 @@
 ---
-title: Protect the Pollen!
-special_judge: false
-time_limit: 5 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Protect the Pollen!"
+special_judge: "false"
+time_limit: "5 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 120
 accepted: 75
 solved_users: 42
-acceptance_rate: 64.615%
-collected_at: 2026-04-17T17:14:32.164662+00:00
+acceptance_rate: "64.615%"
+collected_at: "2026-04-17T17:14:32.164662+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Store Credit (Small)
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Store Credit (Small)"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 245
 accepted: 215
 solved_users: 201
-acceptance_rate: 87.391%
-collected_at: 2026-04-17T12:58:16.182346+00:00
+acceptance_rate: "87.391%"
+collected_at: "2026-04-17T12:58:16.182346+00:00"
 ---
 
 ## 문제

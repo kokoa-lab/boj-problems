@@ -1,13 +1,13 @@
 ---
-title: Avoiding Financial Nightmare
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Avoiding Financial Nightmare"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 100
 accepted: 28
 solved_users: 20
-acceptance_rate: 22.989%
-collected_at: 2026-04-17T11:53:06.075241+00:00
+acceptance_rate: "22.989%"
+collected_at: "2026-04-17T11:53:06.075241+00:00"
 ---
 
 ## 문제

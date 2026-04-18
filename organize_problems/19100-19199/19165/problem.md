@@ -1,13 +1,13 @@
 ---
-title: Addition Robot
-special_judge: false
-time_limit: 3 초
-memory_limit: 512 MB
+title: "Addition Robot"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "512 MB"
 submissions: 107
 accepted: 64
 solved_users: 47
-acceptance_rate: 61.842%
-collected_at: 2026-04-17T15:14:28.298179+00:00
+acceptance_rate: "61.842%"
+collected_at: "2026-04-17T15:14:28.298179+00:00"
 ---
 
 ## 문제

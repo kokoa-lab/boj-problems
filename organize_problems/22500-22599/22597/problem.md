@@ -1,13 +1,13 @@
 ---
-title: Top of the Hill
-special_judge: true
-time_limit: 8 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "Top of the Hill"
+special_judge: "true"
+time_limit: "8 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 30
 accepted: 2
 solved_users: 2
-acceptance_rate: 6.897%
-collected_at: 2026-04-17T16:27:40.019042+00:00
+acceptance_rate: "6.897%"
+collected_at: "2026-04-17T16:27:40.019042+00:00"
 ---
 
 ## 문제

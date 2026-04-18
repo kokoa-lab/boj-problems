@@ -1,13 +1,13 @@
 ---
-title: 3D Histogram
-special_judge: false
-time_limit: 2.5 초
-memory_limit: 512 MB
+title: "3D Histogram"
+special_judge: "false"
+time_limit: "2.5 초"
+memory_limit: "512 MB"
 submissions: 146
 accepted: 25
 solved_users: 15
-acceptance_rate: 16.129%
-collected_at: 2026-04-17T15:32:56.043871+00:00
+acceptance_rate: "16.129%"
+collected_at: "2026-04-17T15:32:56.043871+00:00"
 ---
 
 ## 문제

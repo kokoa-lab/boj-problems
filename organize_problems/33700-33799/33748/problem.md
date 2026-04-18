@@ -1,13 +1,13 @@
 ---
-title: Hell of Optimizing Geometric Construction
-special_judge: true
-time_limit: 2 초
-memory_limit: 2048 MB
+title: "Hell of Optimizing Geometric Construction"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "2048 MB"
 submissions: 7
 accepted: 6
 solved_users: 4
-acceptance_rate: 100.000%
-collected_at: 2026-04-17T20:22:53.638483+00:00
+acceptance_rate: "100.000%"
+collected_at: "2026-04-17T20:22:53.638483+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Neon
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Neon"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 29
 accepted: 10
 solved_users: 7
-acceptance_rate: 38.889%
-collected_at: 2026-04-17T15:21:04.134398+00:00
+acceptance_rate: "38.889%"
+collected_at: "2026-04-17T15:21:04.134398+00:00"
 ---
 
 ## 문제

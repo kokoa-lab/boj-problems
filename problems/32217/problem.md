@@ -1,13 +1,13 @@
 ---
-title: 광선 다각형 만들기
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "광선 다각형 만들기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 421
 accepted: 334
 solved_users: 305
-acceptance_rate: 79.221%
-collected_at: 2026-04-17T19:45:50.473671+00:00
+acceptance_rate: "79.221%"
+collected_at: "2026-04-17T19:45:50.473671+00:00"
 ---
 
 ## 문제

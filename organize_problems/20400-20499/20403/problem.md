@@ -1,13 +1,13 @@
 ---
-title: Sail Shreds - 10
-special_judge: true
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Sail Shreds - 10"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 4
 accepted: 3
 solved_users: 3
-acceptance_rate: 75.000%
-collected_at: 2026-04-17T15:35:59.700999+00:00
+acceptance_rate: "75.000%"
+collected_at: "2026-04-17T15:35:59.700999+00:00"
 ---
 
 ## 문제

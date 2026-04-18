@@ -1,13 +1,13 @@
 ---
-title: Art Exhibition
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Art Exhibition"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 34
 accepted: 10
 solved_users: 7
-acceptance_rate: 24.138%
-collected_at: 2026-04-17T18:55:59.383712+00:00
+acceptance_rate: "24.138%"
+collected_at: "2026-04-17T18:55:59.383712+00:00"
 ---
 
 ## 문제

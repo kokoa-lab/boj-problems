@@ -1,13 +1,13 @@
 ---
-title: Joy of the Cylinder Game
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Joy of the Cylinder Game"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 24
 accepted: 4
 solved_users: 1
-acceptance_rate: 20.000%
-collected_at: 2026-04-17T12:11:23.217763+00:00
+acceptance_rate: "20.000%"
+collected_at: "2026-04-17T12:11:23.217763+00:00"
 ---
 
 ## 문제

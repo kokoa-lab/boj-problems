@@ -1,13 +1,13 @@
 ---
-title: Security Fence
-special_judge: true
-time_limit: 7 초
-memory_limit: 1024 MB
+title: "Security Fence"
+special_judge: "true"
+time_limit: "7 초"
+memory_limit: "1024 MB"
 submissions: 270
 accepted: 44
 solved_users: 29
-acceptance_rate: 11.934%
-collected_at: 2026-04-17T17:32:43.010682+00:00
+acceptance_rate: "11.934%"
+collected_at: "2026-04-17T17:32:43.010682+00:00"
 ---
 
 ## 문제

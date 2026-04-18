@@ -1,13 +1,13 @@
 ---
-title: Disastrous Downtime
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Disastrous Downtime"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 169
 accepted: 115
 solved_users: 92
-acceptance_rate: 70.769%
-collected_at: 2026-04-17T12:38:57.197770+00:00
+acceptance_rate: "70.769%"
+collected_at: "2026-04-17T12:38:57.197770+00:00"
 ---
 
 ## 문제

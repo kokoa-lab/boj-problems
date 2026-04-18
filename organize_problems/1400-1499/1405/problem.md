@@ -1,13 +1,13 @@
 ---
-title: 미친 로봇
-special_judge: true
-time_limit: 1 초
-memory_limit: 128 MB
+title: "미친 로봇"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 12681
 accepted: 6051
 solved_users: 4289
-acceptance_rate: 44.682%
-collected_at: 2026-04-17T10:29:59.035820+00:00
+acceptance_rate: "44.682%"
+collected_at: "2026-04-17T10:29:59.035820+00:00"
 ---
 
 ## 문제

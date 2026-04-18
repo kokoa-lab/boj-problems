@@ -1,13 +1,13 @@
 ---
-title: XMAS
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "XMAS"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 595
 accepted: 527
 solved_users: 467
-acceptance_rate: 89.981%
-collected_at: 2026-04-17T12:15:19.175924+00:00
+acceptance_rate: "89.981%"
+collected_at: "2026-04-17T12:15:19.175924+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Sphinx's Riddle
-special_judge: false
-time_limit: 1.5 초
-memory_limit: 1024 MB
+title: "Sphinx's Riddle"
+special_judge: "false"
+time_limit: "1.5 초"
+memory_limit: "1024 MB"
 submissions: 63
 accepted: 13
 solved_users: 12
-acceptance_rate: 25.532%
-collected_at: 2026-04-17T19:47:31.457440+00:00
+acceptance_rate: "25.532%"
+collected_at: "2026-04-17T19:47:31.457440+00:00"
 ---
 
 ## 문제

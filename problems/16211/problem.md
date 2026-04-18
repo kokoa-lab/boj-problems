@@ -1,13 +1,13 @@
 ---
-title: 백채원
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "백채원"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 438
 accepted: 190
 solved_users: 143
-acceptance_rate: 41.691%
-collected_at: 2026-04-17T14:13:33.876204+00:00
+acceptance_rate: "41.691%"
+collected_at: "2026-04-17T14:13:33.876204+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Waterworld
-special_judge: true
-time_limit: 3 초
-memory_limit: 1024 MB
+title: "Waterworld"
+special_judge: "true"
+time_limit: "3 초"
+memory_limit: "1024 MB"
 submissions: 83
 accepted: 70
 solved_users: 55
-acceptance_rate: 93.220%
-collected_at: 2026-04-17T19:38:52.558716+00:00
+acceptance_rate: "93.220%"
+collected_at: "2026-04-17T19:38:52.558716+00:00"
 ---
 
 ## 문제

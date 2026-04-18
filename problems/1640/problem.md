@@ -1,13 +1,13 @@
 ---
-title: 동전 뒤집기
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "동전 뒤집기"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 611
 accepted: 286
 solved_users: 227
-acceptance_rate: 54.964%
-collected_at: 2026-04-17T10:31:52.366338+00:00
+acceptance_rate: "54.964%"
+collected_at: "2026-04-17T10:31:52.366338+00:00"
 ---
 
 ## 문제

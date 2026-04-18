@@ -1,13 +1,13 @@
 ---
-title: Optymalizacja mandatów
-special_judge: false
-time_limit: 10 초
-memory_limit: 1024 MB
+title: "Optymalizacja mandatów"
+special_judge: "false"
+time_limit: "10 초"
+memory_limit: "1024 MB"
 submissions: 34
 accepted: 26
 solved_users: 22
-acceptance_rate: 78.571%
-collected_at: 2026-04-17T17:50:59.738739+00:00
+acceptance_rate: "78.571%"
+collected_at: "2026-04-17T17:50:59.738739+00:00"
 ---
 
 ## 문제

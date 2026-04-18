@@ -1,13 +1,13 @@
 ---
-title: КИФЛИЧКИ
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "КИФЛИЧКИ"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 106
 accepted: 51
 solved_users: 46
-acceptance_rate: 46.000%
-collected_at: 2026-04-17T17:08:32.293804+00:00
+acceptance_rate: "46.000%"
+collected_at: "2026-04-17T17:08:32.293804+00:00"
 ---
 
 ## 문제

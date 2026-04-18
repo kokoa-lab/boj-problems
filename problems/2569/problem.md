@@ -1,13 +1,13 @@
 ---
-title: 짐정리
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "짐정리"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 2093
 accepted: 844
 solved_users: 691
-acceptance_rate: 47.361%
-collected_at: 2026-04-17T10:42:49.592183+00:00
+acceptance_rate: "47.361%"
+collected_at: "2026-04-17T10:42:49.592183+00:00"
 ---
 
 ## 문제

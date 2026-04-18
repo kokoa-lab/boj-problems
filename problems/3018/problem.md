@@ -1,13 +1,13 @@
 ---
-title: 캠프파이어
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "캠프파이어"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 1393
 accepted: 614
 solved_users: 542
-acceptance_rate: 47.965%
-collected_at: 2026-04-17T10:46:14.457931+00:00
+acceptance_rate: "47.965%"
+collected_at: "2026-04-17T10:46:14.457931+00:00"
 ---
 
 ## 문제

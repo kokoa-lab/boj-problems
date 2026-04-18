@@ -1,13 +1,13 @@
 ---
-title: 젊은 날의 생이여
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "젊은 날의 생이여"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 1229
 accepted: 284
 solved_users: 218
-acceptance_rate: 24.439%
-collected_at: 2026-04-17T15:10:42.449464+00:00
+acceptance_rate: "24.439%"
+collected_at: "2026-04-17T15:10:42.449464+00:00"
 ---
 
 ## 문제

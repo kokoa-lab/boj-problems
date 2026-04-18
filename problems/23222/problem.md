@@ -1,13 +1,13 @@
 ---
-title: Unique Shapes
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Unique Shapes"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 198
 accepted: 113
 solved_users: 98
-acceptance_rate: 70.000%
-collected_at: 2026-04-17T16:44:25.436315+00:00
+acceptance_rate: "70.000%"
+collected_at: "2026-04-17T16:44:25.436315+00:00"
 ---
 
 ## 문제

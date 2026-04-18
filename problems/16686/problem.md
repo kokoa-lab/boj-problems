@@ -1,13 +1,13 @@
 ---
-title: 실시간 내비게이션
-special_judge: false
-time_limit: 2.5 초
-memory_limit: 512 MB
+title: "실시간 내비게이션"
+special_judge: "false"
+time_limit: "2.5 초"
+memory_limit: "512 MB"
 submissions: 187
 accepted: 53
 solved_users: 36
-acceptance_rate: 29.032%
-collected_at: 2026-04-17T14:22:24.357958+00:00
+acceptance_rate: "29.032%"
+collected_at: "2026-04-17T14:22:24.357958+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Knightsbridge Rises
-special_judge: true
-time_limit: 4 초
-memory_limit: 512 MB
+title: "Knightsbridge Rises"
+special_judge: "true"
+time_limit: "4 초"
+memory_limit: "512 MB"
 submissions: 75
 accepted: 32
 solved_users: 23
-acceptance_rate: 35.938%
-collected_at: 2026-04-17T13:49:00.551197+00:00
+acceptance_rate: "35.938%"
+collected_at: "2026-04-17T13:49:00.551197+00:00"
 ---
 
 ## 문제

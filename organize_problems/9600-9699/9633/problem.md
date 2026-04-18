@@ -1,13 +1,13 @@
 ---
-title: Increasing Shortest Path
-special_judge: false
-time_limit: 15 초
-memory_limit: 256 MB
+title: "Increasing Shortest Path"
+special_judge: "false"
+time_limit: "15 초"
+memory_limit: "256 MB"
 submissions: 326
 accepted: 48
 solved_users: 22
-acceptance_rate: 10.377%
-collected_at: 2026-04-17T12:12:13.282310+00:00
+acceptance_rate: "10.377%"
+collected_at: "2026-04-17T12:12:13.282310+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 개구리와 쿼리
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "개구리와 쿼리"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 268
 accepted: 139
 solved_users: 113
-acceptance_rate: 53.302%
-collected_at: 2026-04-17T18:09:40.761914+00:00
+acceptance_rate: "53.302%"
+collected_at: "2026-04-17T18:09:40.761914+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Konik polny 2
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Konik polny 2"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 217
 accepted: 130
 solved_users: 120
-acceptance_rate: 59.113%
-collected_at: 2026-04-17T12:01:56.490733+00:00
+acceptance_rate: "59.113%"
+collected_at: "2026-04-17T12:01:56.490733+00:00"
 ---
 
 ## 문제

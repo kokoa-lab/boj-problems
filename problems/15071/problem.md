@@ -1,13 +1,13 @@
 ---
-title: The Key to Cryptography
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "The Key to Cryptography"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 120
 accepted: 86
 solved_users: 81
-acceptance_rate: 71.681%
-collected_at: 2026-04-17T13:49:57.143644+00:00
+acceptance_rate: "71.681%"
+collected_at: "2026-04-17T13:49:57.143644+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Programming-trampoline-athlon!
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Programming-trampoline-athlon!"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 151
 accepted: 89
 solved_users: 66
-acceptance_rate: 55.932%
-collected_at: 2026-04-17T19:28:59.586636+00:00
+acceptance_rate: "55.932%"
+collected_at: "2026-04-17T19:28:59.586636+00:00"
 ---
 
 ## 문제

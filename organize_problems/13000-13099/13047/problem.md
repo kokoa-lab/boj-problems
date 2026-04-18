@@ -1,13 +1,13 @@
 ---
-title: Chaos
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Chaos"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 113
 accepted: 63
 solved_users: 50
-acceptance_rate: 54.945%
-collected_at: 2026-04-17T13:06:30.735723+00:00
+acceptance_rate: "54.945%"
+collected_at: "2026-04-17T13:06:30.735723+00:00"
 ---
 
 ## 문제

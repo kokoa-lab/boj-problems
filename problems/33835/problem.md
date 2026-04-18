@@ -1,13 +1,13 @@
 ---
-title: 도로 공사
-special_judge: true
-time_limit: 0.5 초
-memory_limit: 1024 MB
+title: "도로 공사"
+special_judge: "true"
+time_limit: "0.5 초"
+memory_limit: "1024 MB"
 submissions: 588
 accepted: 317
 solved_users: 256
-acceptance_rate: 56.889%
-collected_at: 2026-04-17T20:24:33.771827+00:00
+acceptance_rate: "56.889%"
+collected_at: "2026-04-17T20:24:33.771827+00:00"
 ---
 
 ## 문제

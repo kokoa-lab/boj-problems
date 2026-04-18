@@ -1,13 +1,13 @@
 ---
-title: Intermill Logistics
-special_judge: true
-time_limit: 1 초
-memory_limit: 2048 MB
+title: "Intermill Logistics"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "2048 MB"
 submissions: 22
 accepted: 12
 solved_users: 11
-acceptance_rate: 52.381%
-collected_at: 2026-04-17T20:58:02.437992+00:00
+acceptance_rate: "52.381%"
+collected_at: "2026-04-17T20:58:02.437992+00:00"
 ---
 
 ## 문제

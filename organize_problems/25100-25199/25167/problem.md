@@ -1,13 +1,13 @@
 ---
-title: 이상한 아리의 채점
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "이상한 아리의 채점"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 360
 accepted: 142
 solved_users: 123
-acceptance_rate: 44.404%
-collected_at: 2026-04-17T17:21:59.193116+00:00
+acceptance_rate: "44.404%"
+collected_at: "2026-04-17T17:21:59.193116+00:00"
 ---
 
 ## 문제

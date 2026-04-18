@@ -1,13 +1,13 @@
 ---
-title: 간단한 문제
-special_judge: false
-time_limit: 4 초 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "간단한 문제"
+special_judge: "false"
+time_limit: "4 초 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 369
 accepted: 222
 solved_users: 173
-acceptance_rate: 68.924%
-collected_at: 2026-04-17T16:37:53.728151+00:00
+acceptance_rate: "68.924%"
+collected_at: "2026-04-17T16:37:53.728151+00:00"
 ---
 
 ## 문제

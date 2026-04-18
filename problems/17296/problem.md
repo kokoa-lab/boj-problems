@@ -1,13 +1,13 @@
 ---
-title: But can you do it in 0.5x A presses?
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "But can you do it in 0.5x A presses?"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 961
 accepted: 344
 solved_users: 289
-acceptance_rate: 37.194%
-collected_at: 2026-04-17T14:36:34.586379+00:00
+acceptance_rate: "37.194%"
+collected_at: "2026-04-17T14:36:34.586379+00:00"
 ---
 
 ## 문제

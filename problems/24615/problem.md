@@ -1,13 +1,13 @@
 ---
-title: Cow Camp
-special_judge: true
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Cow Camp"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 61
 accepted: 37
 solved_users: 33
-acceptance_rate: 61.111%
-collected_at: 2026-04-17T17:12:02.715576+00:00
+acceptance_rate: "61.111%"
+collected_at: "2026-04-17T17:12:02.715576+00:00"
 ---
 
 ## 문제

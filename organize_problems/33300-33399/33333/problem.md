@@ -1,13 +1,13 @@
 ---
-title: Average Value
-special_judge: true
-time_limit: 2 초
-memory_limit: 2048 MB
+title: "Average Value"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "2048 MB"
 submissions: 166
 accepted: 48
 solved_users: 32
-acceptance_rate: 27.826%
-collected_at: 2026-04-17T20:14:02.551545+00:00
+acceptance_rate: "27.826%"
+collected_at: "2026-04-17T20:14:02.551545+00:00"
 ---
 
 ## 문제

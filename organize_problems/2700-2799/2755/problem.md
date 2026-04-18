@@ -1,13 +1,13 @@
 ---
-title: 이번학기 평점은 몇점?
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "이번학기 평점은 몇점?"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 8900
 accepted: 3097
 solved_users: 2701
-acceptance_rate: 37.369%
-collected_at: 2026-04-17T10:44:35.529708+00:00
+acceptance_rate: "37.369%"
+collected_at: "2026-04-17T10:44:35.529708+00:00"
 ---
 
 ## 문제

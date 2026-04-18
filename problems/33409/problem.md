@@ -1,13 +1,13 @@
 ---
-title: Geometry Enjoyer
-special_judge: false
-time_limit: 7 초
-memory_limit: 2048 MB
+title: "Geometry Enjoyer"
+special_judge: "false"
+time_limit: "7 초"
+memory_limit: "2048 MB"
 submissions: 5
 accepted: 0
 solved_users: 0
-acceptance_rate: 0.000%
-collected_at: 2026-04-17T20:15:23.212013+00:00
+acceptance_rate: "0.000%"
+collected_at: "2026-04-17T20:15:23.212013+00:00"
 ---
 
 ## 문제

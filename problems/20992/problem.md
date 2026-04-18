@@ -1,13 +1,13 @@
 ---
-title: Using Digits
-special_judge: false
-time_limit: 3 초
-memory_limit: 1024 MB
+title: "Using Digits"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "1024 MB"
 submissions: 32
 accepted: 22
 solved_users: 22
-acceptance_rate: 68.750%
-collected_at: 2026-04-17T15:44:51.079744+00:00
+acceptance_rate: "68.750%"
+collected_at: "2026-04-17T15:44:51.079744+00:00"
 ---
 
 ## 문제

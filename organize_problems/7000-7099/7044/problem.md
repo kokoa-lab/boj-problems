@@ -1,13 +1,13 @@
 ---
-title: Bad Cowtractors
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Bad Cowtractors"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 653
 accepted: 350
 solved_users: 301
-acceptance_rate: 51.807%
-collected_at: 2026-04-17T11:43:38.297735+00:00
+acceptance_rate: "51.807%"
+collected_at: "2026-04-17T11:43:38.297735+00:00"
 ---
 
 ## 문제

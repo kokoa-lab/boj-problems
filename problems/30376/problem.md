@@ -1,13 +1,13 @@
 ---
-title: Odd trip plans
-special_judge: false
-time_limit: 3 초
-memory_limit: 1024 MB
+title: "Odd trip plans"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "1024 MB"
 submissions: 23
 accepted: 13
 solved_users: 11
-acceptance_rate: 55.000%
-collected_at: 2026-04-17T19:05:19.808439+00:00
+acceptance_rate: "55.000%"
+collected_at: "2026-04-17T19:05:19.808439+00:00"
 ---
 
 ## 문제

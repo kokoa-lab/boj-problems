@@ -1,13 +1,13 @@
 ---
-title: Two Teams
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Two Teams"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 29
 accepted: 13
 solved_users: 13
-acceptance_rate: 56.522%
-collected_at: 2026-04-17T15:05:23.068004+00:00
+acceptance_rate: "56.522%"
+collected_at: "2026-04-17T15:05:23.068004+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 순열 그래프의 연결성 판별
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "순열 그래프의 연결성 판별"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 907
 accepted: 386
 solved_users: 300
-acceptance_rate: 43.228%
-collected_at: 2026-04-17T11:54:51.504300+00:00
+acceptance_rate: "43.228%"
+collected_at: "2026-04-17T11:54:51.504300+00:00"
 ---
 
 ## 문제

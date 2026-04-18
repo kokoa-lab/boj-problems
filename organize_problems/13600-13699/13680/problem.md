@@ -1,13 +1,13 @@
 ---
-title: Dama
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Dama"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 144
 accepted: 109
 solved_users: 85
-acceptance_rate: 73.913%
-collected_at: 2026-04-17T13:17:10.665136+00:00
+acceptance_rate: "73.913%"
+collected_at: "2026-04-17T13:17:10.665136+00:00"
 ---
 
 ## 문제

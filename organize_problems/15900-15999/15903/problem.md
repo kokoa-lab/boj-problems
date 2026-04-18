@@ -1,13 +1,13 @@
 ---
-title: 카드 합체 놀이
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "카드 합체 놀이"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 25006
 accepted: 11338
 solved_users: 9394
-acceptance_rate: 44.616%
-collected_at: 2026-04-17T14:08:26.099142+00:00
+acceptance_rate: "44.616%"
+collected_at: "2026-04-17T14:08:26.099142+00:00"
 ---
 
 ## 문제

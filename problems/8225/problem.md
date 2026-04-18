@@ -1,13 +1,13 @@
 ---
-title: Tour de Byteotia
-special_judge: true
-time_limit: 3 초
-memory_limit: 128 MB
+title: "Tour de Byteotia"
+special_judge: "true"
+time_limit: "3 초"
+memory_limit: "128 MB"
 submissions: 88
 accepted: 49
 solved_users: 41
-acceptance_rate: 58.571%
-collected_at: 2026-04-17T11:57:25.011994+00:00
+acceptance_rate: "58.571%"
+collected_at: "2026-04-17T11:57:25.011994+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 단순 사각형
-special_judge: true
-time_limit: 1 초
-memory_limit: 128 MB
+title: "단순 사각형"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 247
 accepted: 49
 solved_users: 37
-acceptance_rate: 30.579%
-collected_at: 2026-04-17T10:43:36.720697+00:00
+acceptance_rate: "30.579%"
+collected_at: "2026-04-17T10:43:36.720697+00:00"
 ---
 
 ## 문제

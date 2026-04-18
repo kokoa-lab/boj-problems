@@ -1,13 +1,13 @@
 ---
-title: 엔비스카의 영혼
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "엔비스카의 영혼"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 1867
 accepted: 676
 solved_users: 530
-acceptance_rate: 36.426%
-collected_at: 2026-04-17T14:20:13.186881+00:00
+acceptance_rate: "36.426%"
+collected_at: "2026-04-17T14:20:13.186881+00:00"
 ---
 
 ## 문제

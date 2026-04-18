@@ -1,13 +1,13 @@
 ---
-title: Soldiers (Small)
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Soldiers (Small)"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 19
 accepted: 16
 solved_users: 15
-acceptance_rate: 93.750%
-collected_at: 2026-04-17T13:30:08.109616+00:00
+acceptance_rate: "93.750%"
+collected_at: "2026-04-17T13:30:08.109616+00:00"
 ---
 
 ## 문제

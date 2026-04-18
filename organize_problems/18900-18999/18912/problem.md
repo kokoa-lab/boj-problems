@@ -1,13 +1,13 @@
 ---
-title: Funny Salesman
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Funny Salesman"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 38
 accepted: 20
 solved_users: 20
-acceptance_rate: 71.429%
-collected_at: 2026-04-17T15:11:19.233224+00:00
+acceptance_rate: "71.429%"
+collected_at: "2026-04-17T15:11:19.233224+00:00"
 ---
 
 ## 문제

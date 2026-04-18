@@ -1,13 +1,13 @@
 ---
-title: 단짠단짠 피자
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "단짠단짠 피자"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 271
 accepted: 67
 solved_users: 60
-acceptance_rate: 33.333%
-collected_at: 2026-04-17T17:28:37.386174+00:00
+acceptance_rate: "33.333%"
+collected_at: "2026-04-17T17:28:37.386174+00:00"
 ---
 
 ## 문제

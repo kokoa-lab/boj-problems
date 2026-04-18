@@ -1,13 +1,13 @@
 ---
-title: Longest Subsequence
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Longest Subsequence"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 214
 accepted: 177
 solved_users: 158
-acceptance_rate: 84.043%
-collected_at: 2026-04-17T12:20:23.577190+00:00
+acceptance_rate: "84.043%"
+collected_at: "2026-04-17T12:20:23.577190+00:00"
 ---
 
 ## 문제

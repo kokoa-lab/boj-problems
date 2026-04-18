@@ -1,13 +1,13 @@
 ---
-title: Jonny Hates Math
-special_judge: false
-time_limit: 5 초
-memory_limit: 128 MB
+title: "Jonny Hates Math"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "128 MB"
 submissions: 27
 accepted: 6
 solved_users: 5
-acceptance_rate: 71.429%
-collected_at: 2026-04-17T11:10:01.527127+00:00
+acceptance_rate: "71.429%"
+collected_at: "2026-04-17T11:10:01.527127+00:00"
 ---
 
 ## 문제

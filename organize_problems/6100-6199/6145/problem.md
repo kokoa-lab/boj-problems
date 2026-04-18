@@ -1,13 +1,13 @@
 ---
-title: Watering - 4
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Watering - 4"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 55
 accepted: 49
 solved_users: 42
-acceptance_rate: 89.362%
-collected_at: 2026-04-17T11:21:13.159557+00:00
+acceptance_rate: "89.362%"
+collected_at: "2026-04-17T11:21:13.159557+00:00"
 ---
 
 ## 문제

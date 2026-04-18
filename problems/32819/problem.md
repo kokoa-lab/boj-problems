@@ -1,13 +1,13 @@
 ---
-title: Complexity Measure
-special_judge: false
-time_limit: 3 초
-memory_limit: 1024 MB
+title: "Complexity Measure"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "1024 MB"
 submissions: 19
 accepted: 5
 solved_users: 3
-acceptance_rate: 23.077%
-collected_at: 2026-04-17T20:01:57.203297+00:00
+acceptance_rate: "23.077%"
+collected_at: "2026-04-17T20:01:57.203297+00:00"
 ---
 
 ## 문제

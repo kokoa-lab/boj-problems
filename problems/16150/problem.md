@@ -1,13 +1,13 @@
 ---
-title: Gun Control
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Gun Control"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 20
 accepted: 12
 solved_users: 11
-acceptance_rate: 57.895%
-collected_at: 2026-04-17T14:12:22.341690+00:00
+acceptance_rate: "57.895%"
+collected_at: "2026-04-17T14:12:22.341690+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 디딤돌 장학금
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "디딤돌 장학금"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 884
 accepted: 667
 solved_users: 620
-acceptance_rate: 75.980%
-collected_at: 2026-04-17T20:42:39.218933+00:00
+acceptance_rate: "75.980%"
+collected_at: "2026-04-17T20:42:39.218933+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 초콜릿 자르기
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "초콜릿 자르기"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 52443
 accepted: 36666
 solved_users: 32630
-acceptance_rate: 71.363%
-collected_at: 2026-04-17T10:39:03.894572+00:00
+acceptance_rate: "71.363%"
+collected_at: "2026-04-17T10:39:03.894572+00:00"
 ---
 
 ## 문제

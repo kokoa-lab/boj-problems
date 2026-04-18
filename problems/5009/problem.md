@@ -1,13 +1,13 @@
 ---
-title: 유치원
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "유치원"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 219
 accepted: 130
 solved_users: 100
-acceptance_rate: 56.180%
-collected_at: 2026-04-17T11:10:50.887507+00:00
+acceptance_rate: "56.180%"
+collected_at: "2026-04-17T11:10:50.887507+00:00"
 ---
 
 ## 문제

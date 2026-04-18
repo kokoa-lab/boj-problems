@@ -1,13 +1,13 @@
 ---
-title: 국제 옥토끼 기구
-special_judge: false
-time_limit: 4 초
-memory_limit: 1024 MB
+title: "국제 옥토끼 기구"
+special_judge: "false"
+time_limit: "4 초"
+memory_limit: "1024 MB"
 submissions: 260
 accepted: 38
 solved_users: 23
-acceptance_rate: 11.675%
-collected_at: 2026-04-17T14:37:33.723369+00:00
+acceptance_rate: "11.675%"
+collected_at: "2026-04-17T14:37:33.723369+00:00"
 ---
 
 ## 문제

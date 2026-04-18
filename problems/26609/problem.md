@@ -1,13 +1,13 @@
 ---
-title: 합의 곱의 절댓값의 최댓값
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "합의 곱의 절댓값의 최댓값"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 276
 accepted: 36
 solved_users: 34
-acceptance_rate: 14.468%
-collected_at: 2026-04-17T17:48:46.754935+00:00
+acceptance_rate: "14.468%"
+collected_at: "2026-04-17T17:48:46.754935+00:00"
 ---
 
 ## 문제

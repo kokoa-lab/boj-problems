@@ -1,13 +1,13 @@
 ---
-title: Island Tour
-special_judge: true
-time_limit: 8 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Island Tour"
+special_judge: "true"
+time_limit: "8 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 119
 accepted: 67
 solved_users: 55
-acceptance_rate: 59.783%
-collected_at: 2026-04-17T15:56:26.485455+00:00
+acceptance_rate: "59.783%"
+collected_at: "2026-04-17T15:56:26.485455+00:00"
 ---
 
 ## 문제

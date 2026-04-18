@@ -1,13 +1,13 @@
 ---
-title: Numbers On a Tree
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Numbers On a Tree"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 701
 accepted: 293
 solved_users: 251
-acceptance_rate: 41.625%
-collected_at: 2026-04-17T12:38:00.847110+00:00
+acceptance_rate: "41.625%"
+collected_at: "2026-04-17T12:38:00.847110+00:00"
 ---
 
 ## 문제

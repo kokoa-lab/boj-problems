@@ -1,13 +1,13 @@
 ---
-title: Discrete Logarithm is a Joke
-special_judge: false
-time_limit: 10 초
-memory_limit: 256 MB
+title: "Discrete Logarithm is a Joke"
+special_judge: "false"
+time_limit: "10 초"
+memory_limit: "256 MB"
 submissions: 209
 accepted: 163
 solved_users: 119
-acceptance_rate: 88.806%
-collected_at: 2026-04-17T15:47:34.373565+00:00
+acceptance_rate: "88.806%"
+collected_at: "2026-04-17T15:47:34.373565+00:00"
 ---
 
 ## 문제

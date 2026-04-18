@@ -1,13 +1,13 @@
 ---
-title: Game on Plane
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Game on Plane"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 846
 accepted: 354
 solved_users: 309
-acceptance_rate: 45.374%
-collected_at: 2026-04-17T14:13:08.065401+00:00
+acceptance_rate: "45.374%"
+collected_at: "2026-04-17T14:13:08.065401+00:00"
 ---
 
 ## 문제

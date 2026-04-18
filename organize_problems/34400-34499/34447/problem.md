@@ -1,13 +1,13 @@
 ---
-title: Bad Directions
-special_judge: false
-time_limit: 1 초
-memory_limit: 2048 MB
+title: "Bad Directions"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "2048 MB"
 submissions: 152
 accepted: 131
 solved_users: 121
-acceptance_rate: 87.050%
-collected_at: 2026-04-17T20:39:18.696680+00:00
+acceptance_rate: "87.050%"
+collected_at: "2026-04-17T20:39:18.696680+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 피보나치 합의 개수
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "피보나치 합의 개수"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 369
 accepted: 87
 solved_users: 52
-acceptance_rate: 30.233%
-collected_at: 2026-04-17T13:10:40.701785+00:00
+acceptance_rate: "30.233%"
+collected_at: "2026-04-17T13:10:40.701785+00:00"
 ---
 
 ## 문제

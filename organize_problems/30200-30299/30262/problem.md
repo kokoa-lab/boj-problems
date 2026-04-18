@@ -1,13 +1,13 @@
 ---
-title: Like a Bridge over Troubled Freeways
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Like a Bridge over Troubled Freeways"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 10
 accepted: 8
 solved_users: 4
-acceptance_rate: 66.667%
-collected_at: 2026-04-17T19:02:01.566595+00:00
+acceptance_rate: "66.667%"
+collected_at: "2026-04-17T19:02:01.566595+00:00"
 ---
 
 ## 문제

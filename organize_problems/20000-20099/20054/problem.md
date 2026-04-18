@@ -1,13 +1,13 @@
 ---
-title: 트리 가짓수 세기
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "트리 가짓수 세기"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 286
 accepted: 133
 solved_users: 75
-acceptance_rate: 43.353%
-collected_at: 2026-04-17T15:31:01.950287+00:00
+acceptance_rate: "43.353%"
+collected_at: "2026-04-17T15:31:01.950287+00:00"
 ---
 
 ## 문제

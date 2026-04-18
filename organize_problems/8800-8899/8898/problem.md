@@ -1,13 +1,13 @@
 ---
-title: 스포츠 전문 채널 GSK
-special_judge: true
-time_limit: 2 초
-memory_limit: 128 MB
+title: "스포츠 전문 채널 GSK"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 419
 accepted: 83
 solved_users: 68
-acceptance_rate: 22.973%
-collected_at: 2026-04-17T12:04:39.422706+00:00
+acceptance_rate: "22.973%"
+collected_at: "2026-04-17T12:04:39.422706+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Islands from the Sky
-special_judge: true
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Islands from the Sky"
+special_judge: "true"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 69
 accepted: 39
 solved_users: 30
-acceptance_rate: 62.500%
-collected_at: 2026-04-17T17:40:41.294782+00:00
+acceptance_rate: "62.500%"
+collected_at: "2026-04-17T17:40:41.294782+00:00"
 ---
 
 ## 문제

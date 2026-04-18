@@ -1,13 +1,13 @@
 ---
-title: The Battle for Wesnoth
-special_judge: true
-time_limit: 0.1 초
-memory_limit: 1024 MB
+title: "The Battle for Wesnoth"
+special_judge: "true"
+time_limit: "0.1 초"
+memory_limit: "1024 MB"
 submissions: 11
 accepted: 1
 solved_users: 1
-acceptance_rate: 20.000%
-collected_at: 2026-04-17T13:54:57.537420+00:00
+acceptance_rate: "20.000%"
+collected_at: "2026-04-17T13:54:57.537420+00:00"
 ---
 
 ## 문제

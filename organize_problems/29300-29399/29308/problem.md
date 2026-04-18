@@ -1,13 +1,13 @@
 ---
-title: Закат
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Закат"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 264
 accepted: 232
 solved_users: 213
-acceptance_rate: 87.295%
-collected_at: 2026-04-17T18:40:09.723547+00:00
+acceptance_rate: "87.295%"
+collected_at: "2026-04-17T18:40:09.723547+00:00"
 ---
 
 ## 문제

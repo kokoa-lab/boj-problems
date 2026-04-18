@@ -1,13 +1,13 @@
 ---
-title: 시험공부 계획 세우기
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "시험공부 계획 세우기"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 163
 accepted: 47
 solved_users: 45
-acceptance_rate: 35.714%
-collected_at: 2026-04-17T19:28:12.171939+00:00
+acceptance_rate: "35.714%"
+collected_at: "2026-04-17T19:28:12.171939+00:00"
 ---
 
 ## 문제

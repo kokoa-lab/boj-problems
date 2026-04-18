@@ -1,13 +1,13 @@
 ---
-title: 큰 수 구성하기
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "큰 수 구성하기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 10607
 accepted: 3363
 solved_users: 2664
-acceptance_rate: 32.295%
-collected_at: 2026-04-17T15:05:57.017969+00:00
+acceptance_rate: "32.295%"
+collected_at: "2026-04-17T15:05:57.017969+00:00"
 ---
 
 ## 문제

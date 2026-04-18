@@ -1,13 +1,13 @@
 ---
-title: 이진수 찾기
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "이진수 찾기"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 4520
 accepted: 1363
 solved_users: 1033
-acceptance_rate: 30.418%
-collected_at: 2026-04-17T10:39:56.554400+00:00
+acceptance_rate: "30.418%"
+collected_at: "2026-04-17T10:39:56.554400+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 도로 폐쇄
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "도로 폐쇄"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 88
 accepted: 25
 solved_users: 21
-acceptance_rate: 27.273%
-collected_at: 2026-04-17T16:08:54.178269+00:00
+acceptance_rate: "27.273%"
+collected_at: "2026-04-17T16:08:54.178269+00:00"
 ---
 
 ## 문제

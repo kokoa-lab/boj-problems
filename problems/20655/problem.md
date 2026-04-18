@@ -1,13 +1,13 @@
 ---
-title: Wind of Change 2020
-special_judge: false
-time_limit: 12 초
-memory_limit: 1024 MB
+title: "Wind of Change 2020"
+special_judge: "false"
+time_limit: "12 초"
+memory_limit: "1024 MB"
 submissions: 31
 accepted: 15
 solved_users: 11
-acceptance_rate: 55.000%
-collected_at: 2026-04-17T15:39:30.666588+00:00
+acceptance_rate: "55.000%"
+collected_at: "2026-04-17T15:39:30.666588+00:00"
 ---
 
 ## 문제

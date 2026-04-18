@@ -1,13 +1,13 @@
 ---
-title: XOR Sum 2
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "XOR Sum 2"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 192
 accepted: 53
 solved_users: 46
-acceptance_rate: 31.724%
-collected_at: 2026-04-17T13:41:52.533603+00:00
+acceptance_rate: "31.724%"
+collected_at: "2026-04-17T13:41:52.533603+00:00"
 ---
 
 ## 문제

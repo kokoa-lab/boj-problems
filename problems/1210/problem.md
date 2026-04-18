@@ -1,13 +1,13 @@
 ---
-title: 마피아
-special_judge: true
-time_limit: 2 초
-memory_limit: 128 MB
+title: "마피아"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 2686
 accepted: 860
 solved_users: 638
-acceptance_rate: 29.132%
-collected_at: 2026-04-17T10:28:51.538757+00:00
+acceptance_rate: "29.132%"
+collected_at: "2026-04-17T10:28:51.538757+00:00"
 ---
 
 ## 문제

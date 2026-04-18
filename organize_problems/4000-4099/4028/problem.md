@@ -1,13 +1,13 @@
 ---
-title: Chain of Fools
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Chain of Fools"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 65
 accepted: 46
 solved_users: 39
-acceptance_rate: 69.643%
-collected_at: 2026-04-17T10:54:48.171130+00:00
+acceptance_rate: "69.643%"
+collected_at: "2026-04-17T10:54:48.171130+00:00"
 ---
 
 ## 문제

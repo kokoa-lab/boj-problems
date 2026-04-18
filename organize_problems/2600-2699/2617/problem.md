@@ -1,13 +1,13 @@
 ---
-title: 구슬 찾기
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "구슬 찾기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 12951
 accepted: 4739
 solved_users: 3581
-acceptance_rate: 36.333%
-collected_at: 2026-04-17T10:43:19.743361+00:00
+acceptance_rate: "36.333%"
+collected_at: "2026-04-17T10:43:19.743361+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Record Breaker
-special_judge: false
-time_limit: 20 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Record Breaker"
+special_judge: "false"
+time_limit: "20 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 210
 accepted: 103
 solved_users: 85
-acceptance_rate: 48.295%
-collected_at: 2026-04-17T16:57:47.066224+00:00
+acceptance_rate: "48.295%"
+collected_at: "2026-04-17T16:57:47.066224+00:00"
 ---
 
 ## 문제

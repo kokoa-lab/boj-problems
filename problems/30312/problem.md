@@ -1,13 +1,13 @@
 ---
-title: Hacky Ordering
-special_judge: true
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Hacky Ordering"
+special_judge: "true"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 58
 accepted: 41
 solved_users: 40
-acceptance_rate: 71.429%
-collected_at: 2026-04-17T19:03:01.104281+00:00
+acceptance_rate: "71.429%"
+collected_at: "2026-04-17T19:03:01.104281+00:00"
 ---
 
 ## 문제

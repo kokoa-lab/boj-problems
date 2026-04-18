@@ -1,13 +1,13 @@
 ---
-title: Kings
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Kings"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 80
 accepted: 58
 solved_users: 34
-acceptance_rate: 68.000%
-collected_at: 2026-04-17T14:42:01.352393+00:00
+acceptance_rate: "68.000%"
+collected_at: "2026-04-17T14:42:01.352393+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Downsizing
-special_judge: true
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Downsizing"
+special_judge: "true"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 57
 accepted: 23
 solved_users: 15
-acceptance_rate: 36.585%
-collected_at: 2026-04-17T17:11:07.221021+00:00
+acceptance_rate: "36.585%"
+collected_at: "2026-04-17T17:11:07.221021+00:00"
 ---
 
 ## 문제

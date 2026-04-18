@@ -1,13 +1,13 @@
 ---
-title: Printer's Head
-special_judge: false
-time_limit: 1.5 초
-memory_limit: 64 MB
+title: "Printer's Head"
+special_judge: "false"
+time_limit: "1.5 초"
+memory_limit: "64 MB"
 submissions: 134
 accepted: 73
 solved_users: 63
-acceptance_rate: 61.165%
-collected_at: 2026-04-17T15:11:10.653670+00:00
+acceptance_rate: "61.165%"
+collected_at: "2026-04-17T15:11:10.653670+00:00"
 ---
 
 ## 문제

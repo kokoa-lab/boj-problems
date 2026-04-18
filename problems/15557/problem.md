@@ -1,13 +1,13 @@
 ---
-title: Snake Escaping
-special_judge: false
-time_limit: 2 초
-memory_limit: 64 MB
+title: "Snake Escaping"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "64 MB"
 submissions: 171
 accepted: 72
 solved_users: 56
-acceptance_rate: 45.902%
-collected_at: 2026-04-17T14:01:34.909069+00:00
+acceptance_rate: "45.902%"
+collected_at: "2026-04-17T14:01:34.909069+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Cow Line
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Cow Line"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 293
 accepted: 218
 solved_users: 178
-acceptance_rate: 77.056%
-collected_at: 2026-04-17T11:20:38.605032+00:00
+acceptance_rate: "77.056%"
+collected_at: "2026-04-17T11:20:38.605032+00:00"
 ---
 
 ## 문제

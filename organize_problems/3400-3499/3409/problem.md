@@ -1,13 +1,13 @@
 ---
-title: 문자 방정식
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "문자 방정식"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 818
 accepted: 115
 solved_users: 64
-acceptance_rate: 19.453%
-collected_at: 2026-04-17T10:48:41.344953+00:00
+acceptance_rate: "19.453%"
+collected_at: "2026-04-17T10:48:41.344953+00:00"
 ---
 
 ## 문제

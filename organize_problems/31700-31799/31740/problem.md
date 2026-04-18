@@ -1,13 +1,13 @@
 ---
-title: Split the SSHS 3
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Split the SSHS 3"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 297
 accepted: 169
 solved_users: 154
-acceptance_rate: 58.333%
-collected_at: 2026-04-17T19:35:42.612834+00:00
+acceptance_rate: "58.333%"
+collected_at: "2026-04-17T19:35:42.612834+00:00"
 ---
 
 ## 문제

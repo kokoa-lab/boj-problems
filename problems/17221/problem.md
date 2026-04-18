@@ -1,13 +1,13 @@
 ---
-title: 인재야 머쉬맘 잡았어?
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "인재야 머쉬맘 잡았어?"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 757
 accepted: 153
 solved_users: 46
-acceptance_rate: 10.824%
-collected_at: 2026-04-17T14:33:33.961543+00:00
+acceptance_rate: "10.824%"
+collected_at: "2026-04-17T14:33:33.961543+00:00"
 ---
 
 ## 문제

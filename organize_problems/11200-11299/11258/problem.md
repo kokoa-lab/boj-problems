@@ -1,13 +1,13 @@
 ---
-title: Thai Lottery Checking
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "Thai Lottery Checking"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 445
 accepted: 274
 solved_users: 241
-acceptance_rate: 63.757%
-collected_at: 2026-04-17T12:38:46.236670+00:00
+acceptance_rate: "63.757%"
+collected_at: "2026-04-17T12:38:46.236670+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 양파깡 만들기
-special_judge: true
-time_limit: 2 초
-memory_limit: 128 MB
+title: "양파깡 만들기"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 257
 accepted: 73
 solved_users: 56
-acceptance_rate: 30.601%
-collected_at: 2026-04-17T10:39:11.117638+00:00
+acceptance_rate: "30.601%"
+collected_at: "2026-04-17T10:39:11.117638+00:00"
 ---
 
 ## 문제

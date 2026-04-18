@@ -1,13 +1,13 @@
 ---
-title: $K$512에서 피자 먹기
-special_judge: false
-time_limit: 1.024 초
-memory_limit: 512 MB
+title: "$K$512에서 피자 먹기"
+special_judge: "false"
+time_limit: "1.024 초"
+memory_limit: "512 MB"
 submissions: 243
 accepted: 142
 solved_users: 115
-acceptance_rate: 59.585%
-collected_at: 2026-04-17T18:17:46.298771+00:00
+acceptance_rate: "59.585%"
+collected_at: "2026-04-17T18:17:46.298771+00:00"
 ---
 
 ## 문제

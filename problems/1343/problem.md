@@ -1,13 +1,13 @@
 ---
-title: 폴리오미노
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "폴리오미노"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 23790
 accepted: 13016
 solved_users: 10873
-acceptance_rate: 54.273%
-collected_at: 2026-04-17T10:29:34.123726+00:00
+acceptance_rate: "54.273%"
+collected_at: "2026-04-17T10:29:34.123726+00:00"
 ---
 
 ## 문제

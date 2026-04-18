@@ -1,13 +1,13 @@
 ---
-title: Damage per Second
-special_judge: true
-time_limit: 5 초 (추가 시간 없음)
-memory_limit: 2048 MB
+title: "Damage per Second"
+special_judge: "true"
+time_limit: "5 초 (추가 시간 없음)"
+memory_limit: "2048 MB"
 submissions: 23
 accepted: 3
 solved_users: 3
-acceptance_rate: 42.857%
-collected_at: 2026-04-17T20:19:28.820534+00:00
+acceptance_rate: "42.857%"
+collected_at: "2026-04-17T20:19:28.820534+00:00"
 ---
 
 ## 문제

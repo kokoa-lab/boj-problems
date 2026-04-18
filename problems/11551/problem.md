@@ -1,13 +1,13 @@
 ---
-title: Keep it energized
-special_judge: false
-time_limit: 3 초
-memory_limit: 256 MB
+title: "Keep it energized"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "256 MB"
 submissions: 43
 accepted: 28
 solved_users: 28
-acceptance_rate: 66.667%
-collected_at: 2026-04-17T12:42:06.620843+00:00
+acceptance_rate: "66.667%"
+collected_at: "2026-04-17T12:42:06.620843+00:00"
 ---
 
 ## 문제

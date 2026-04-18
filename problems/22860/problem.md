@@ -1,13 +1,13 @@
 ---
-title: 폴더 정리 (small)
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "폴더 정리 (small)"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 2283
 accepted: 928
 solved_users: 673
-acceptance_rate: 38.678%
-collected_at: 2026-04-17T16:37:37.435269+00:00
+acceptance_rate: "38.678%"
+collected_at: "2026-04-17T16:37:37.435269+00:00"
 ---
 
 ## 문제

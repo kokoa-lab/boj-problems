@@ -1,13 +1,13 @@
 ---
-title: Mex and Cards
-special_judge: false
-time_limit: 3 초
-memory_limit: 1024 MB
+title: "Mex and Cards"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "1024 MB"
 submissions: 54
 accepted: 31
 solved_users: 28
-acceptance_rate: 68.293%
-collected_at: 2026-04-17T17:52:42.941508+00:00
+acceptance_rate: "68.293%"
+collected_at: "2026-04-17T17:52:42.941508+00:00"
 ---
 
 ## 문제

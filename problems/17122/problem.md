@@ -1,13 +1,13 @@
 ---
-title: 체스
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "체스"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 1290
 accepted: 556
 solved_users: 460
-acceptance_rate: 44.487%
-collected_at: 2026-04-17T14:30:24.395487+00:00
+acceptance_rate: "44.487%"
+collected_at: "2026-04-17T14:30:24.395487+00:00"
 ---
 
 ## 문제

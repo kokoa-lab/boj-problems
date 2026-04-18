@@ -1,13 +1,13 @@
 ---
-title: No Change
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "No Change"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 106
 accepted: 61
 solved_users: 56
-acceptance_rate: 59.574%
-collected_at: 2026-04-17T18:55:10.706070+00:00
+acceptance_rate: "59.574%"
+collected_at: "2026-04-17T18:55:10.706070+00:00"
 ---
 
 ## 문제

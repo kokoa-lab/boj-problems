@@ -1,13 +1,13 @@
 ---
-title: Spinning Up Palindromes
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Spinning Up Palindromes"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 18
 accepted: 12
 solved_users: 10
-acceptance_rate: 100.000%
-collected_at: 2026-04-17T13:51:20.625269+00:00
+acceptance_rate: "100.000%"
+collected_at: "2026-04-17T13:51:20.625269+00:00"
 ---
 
 ## 문제

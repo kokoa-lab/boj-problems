@@ -1,13 +1,13 @@
 ---
-title: Game of Gnomes
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Game of Gnomes"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 141
 accepted: 44
 solved_users: 37
-acceptance_rate: 44.048%
-collected_at: 2026-04-17T14:52:46.732135+00:00
+acceptance_rate: "44.048%"
+collected_at: "2026-04-17T14:52:46.732135+00:00"
 ---
 
 ## 문제

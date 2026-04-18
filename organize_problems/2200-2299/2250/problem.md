@@ -1,13 +1,13 @@
 ---
-title: 트리의 높이와 너비
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "트리의 높이와 너비"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 24977
 accepted: 7618
 solved_users: 5294
-acceptance_rate: 29.118%
-collected_at: 2026-04-17T10:39:55.664971+00:00
+acceptance_rate: "29.118%"
+collected_at: "2026-04-17T10:39:55.664971+00:00"
 ---
 
 ## 문제

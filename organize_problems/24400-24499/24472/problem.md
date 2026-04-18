@@ -1,13 +1,13 @@
 ---
-title: Parkovi
-special_judge: true
-time_limit: 3 초
-memory_limit: 512 MB
+title: "Parkovi"
+special_judge: "true"
+time_limit: "3 초"
+memory_limit: "512 MB"
 submissions: 43
 accepted: 18
 solved_users: 8
-acceptance_rate: 28.571%
-collected_at: 2026-04-17T17:09:54.132489+00:00
+acceptance_rate: "28.571%"
+collected_at: "2026-04-17T17:09:54.132489+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Racing Car Trail
-special_judge: false
-time_limit: 5 초
-memory_limit: 128 MB
+title: "Racing Car Trail"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "128 MB"
 submissions: 300
 accepted: 133
 solved_users: 108
-acceptance_rate: 42.023%
-collected_at: 2026-04-17T10:48:45.143212+00:00
+acceptance_rate: "42.023%"
+collected_at: "2026-04-17T10:48:45.143212+00:00"
 ---
 
 ## 문제

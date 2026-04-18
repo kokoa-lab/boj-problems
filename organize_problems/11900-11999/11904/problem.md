@@ -1,13 +1,13 @@
 ---
-title: 쌍둥이 독수리
-special_judge: false
-time_limit: 1 초
-memory_limit: 32 MB
+title: "쌍둥이 독수리"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "32 MB"
 submissions: 205
 accepted: 25
 solved_users: 18
-acceptance_rate: 18.750%
-collected_at: 2026-04-17T12:47:29.818530+00:00
+acceptance_rate: "18.750%"
+collected_at: "2026-04-17T12:47:29.818530+00:00"
 ---
 
 ## 문제

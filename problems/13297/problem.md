@@ -1,13 +1,13 @@
 ---
-title: Quick Estimates
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Quick Estimates"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 1757
 accepted: 1399
 solved_users: 1327
-acceptance_rate: 79.844%
-collected_at: 2026-04-17T13:11:09.233328+00:00
+acceptance_rate: "79.844%"
+collected_at: "2026-04-17T13:11:09.233328+00:00"
 ---
 
 ## 문제

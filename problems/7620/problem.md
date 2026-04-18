@@ -1,13 +1,13 @@
 ---
-title: 편집 거리
-special_judge: true
-time_limit: 8 초
-memory_limit: 128 MB
+title: "편집 거리"
+special_judge: "true"
+time_limit: "8 초"
+memory_limit: "128 MB"
 submissions: 2311
 accepted: 403
 solved_users: 187
-acceptance_rate: 15.506%
-collected_at: 2026-04-17T11:51:12.156952+00:00
+acceptance_rate: "15.506%"
+collected_at: "2026-04-17T11:51:12.156952+00:00"
 ---
 
 ## 문제

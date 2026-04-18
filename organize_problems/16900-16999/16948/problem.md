@@ -1,13 +1,13 @@
 ---
-title: 데스 나이트
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "데스 나이트"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 9329
 accepted: 6394
 solved_users: 5410
-acceptance_rate: 69.439%
-collected_at: 2026-04-17T14:26:40.224450+00:00
+acceptance_rate: "69.439%"
+collected_at: "2026-04-17T14:26:40.224450+00:00"
 ---
 
 ## 문제

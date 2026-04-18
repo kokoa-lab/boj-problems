@@ -1,13 +1,13 @@
 ---
-title: Do the Untwist
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Do the Untwist"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 98
 accepted: 58
 solved_users: 45
-acceptance_rate: 65.217%
-collected_at: 2026-04-17T11:06:54.869302+00:00
+acceptance_rate: "65.217%"
+collected_at: "2026-04-17T11:06:54.869302+00:00"
 ---
 
 ## 문제

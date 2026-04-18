@@ -1,13 +1,13 @@
 ---
-title: Souvenirs
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Souvenirs"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 119
 accepted: 23
 solved_users: 21
-acceptance_rate: 19.266%
-collected_at: 2026-04-17T12:30:33.458436+00:00
+acceptance_rate: "19.266%"
+collected_at: "2026-04-17T12:30:33.458436+00:00"
 ---
 
 ## 문제

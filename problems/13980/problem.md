@@ -1,13 +1,13 @@
 ---
-title: Maximum Islands
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Maximum Islands"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 53
 accepted: 35
 solved_users: 34
-acceptance_rate: 75.556%
-collected_at: 2026-04-17T13:23:20.429871+00:00
+acceptance_rate: "75.556%"
+collected_at: "2026-04-17T13:23:20.429871+00:00"
 ---
 
 ## 문제

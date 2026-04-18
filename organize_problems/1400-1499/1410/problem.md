@@ -1,13 +1,13 @@
 ---
-title: 패턴의 개수
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "패턴의 개수"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 487
 accepted: 164
 solved_users: 110
-acceptance_rate: 35.144%
-collected_at: 2026-04-17T10:29:59.318675+00:00
+acceptance_rate: "35.144%"
+collected_at: "2026-04-17T10:29:59.318675+00:00"
 ---
 
 ## 문제

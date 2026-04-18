@@ -1,13 +1,13 @@
 ---
-title: King’s Task
-special_judge: false
-time_limit: 3 초
-memory_limit: 512 MB
+title: "King’s Task"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "512 MB"
 submissions: 137
 accepted: 65
 solved_users: 53
-acceptance_rate: 50.476%
-collected_at: 2026-04-17T16:11:20.044084+00:00
+acceptance_rate: "50.476%"
+collected_at: "2026-04-17T16:11:20.044084+00:00"
 ---
 
 ## 문제

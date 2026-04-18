@@ -1,13 +1,13 @@
 ---
-title: Robots and Oil Transportation System
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "Robots and Oil Transportation System"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 35
 accepted: 30
 solved_users: 14
-acceptance_rate: 82.353%
-collected_at: 2026-04-17T12:46:28.225999+00:00
+acceptance_rate: "82.353%"
+collected_at: "2026-04-17T12:46:28.225999+00:00"
 ---
 
 ## 문제

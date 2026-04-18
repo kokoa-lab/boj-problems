@@ -1,13 +1,13 @@
 ---
-title: 생물농축
-special_judge: false
-time_limit: 5 초
-memory_limit: 128 MB
+title: "생물농축"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "128 MB"
 submissions: 172
 accepted: 66
 solved_users: 41
-acceptance_rate: 35.652%
-collected_at: 2026-04-17T10:29:20.081013+00:00
+acceptance_rate: "35.652%"
+collected_at: "2026-04-17T10:29:20.081013+00:00"
 ---
 
 ## 문제

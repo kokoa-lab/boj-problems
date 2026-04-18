@@ -1,13 +1,13 @@
 ---
-title: 팰린드롬 세기
-special_judge: false
-time_limit: 2 초
-memory_limit: 64 MB
+title: "팰린드롬 세기"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "64 MB"
 submissions: 54
 accepted: 9
 solved_users: 7
-acceptance_rate: 19.444%
-collected_at: 2026-04-17T12:47:29.407406+00:00
+acceptance_rate: "19.444%"
+collected_at: "2026-04-17T12:47:29.407406+00:00"
 ---
 
 ## 문제

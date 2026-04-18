@@ -1,13 +1,13 @@
 ---
-title: Substring Characters
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Substring Characters"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 54
 accepted: 41
 solved_users: 30
-acceptance_rate: 81.081%
-collected_at: 2026-04-17T15:49:32.889565+00:00
+acceptance_rate: "81.081%"
+collected_at: "2026-04-17T15:49:32.889565+00:00"
 ---
 
 ## 문제

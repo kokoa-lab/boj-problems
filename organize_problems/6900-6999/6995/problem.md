@@ -1,13 +1,13 @@
 ---
-title: Hand Detection
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Hand Detection"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 131
 accepted: 88
 solved_users: 83
-acceptance_rate: 74.775%
-collected_at: 2026-04-17T11:42:19.708564+00:00
+acceptance_rate: "74.775%"
+collected_at: "2026-04-17T11:42:19.708564+00:00"
 ---
 
 ## 문제

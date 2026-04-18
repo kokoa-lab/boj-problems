@@ -1,13 +1,13 @@
 ---
-title: Boris and Berta
-special_judge: true
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "Boris and Berta"
+special_judge: "true"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 217
 accepted: 62
 solved_users: 57
-acceptance_rate: 27.670%
-collected_at: 2026-04-17T17:12:27.455165+00:00
+acceptance_rate: "27.670%"
+collected_at: "2026-04-17T17:12:27.455165+00:00"
 ---
 
 ## 문제

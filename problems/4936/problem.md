@@ -1,13 +1,13 @@
 ---
-title: What’s your Logo?
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "What’s your Logo?"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 55
 accepted: 33
 solved_users: 14
-acceptance_rate: 60.870%
-collected_at: 2026-04-17T11:10:12.750221+00:00
+acceptance_rate: "60.870%"
+collected_at: "2026-04-17T11:10:12.750221+00:00"
 ---
 
 ## 문제

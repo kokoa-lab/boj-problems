@@ -1,13 +1,13 @@
 ---
-title: Qizz Quzz (Hard)
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Qizz Quzz (Hard)"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 29
 accepted: 13
 solved_users: 13
-acceptance_rate: 46.429%
-collected_at: 2026-04-17T18:08:06.982347+00:00
+acceptance_rate: "46.429%"
+collected_at: "2026-04-17T18:08:06.982347+00:00"
 ---
 
 ## 문제

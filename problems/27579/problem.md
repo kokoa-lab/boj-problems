@@ -1,13 +1,13 @@
 ---
-title: Fading Wind
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Fading Wind"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 164
 accepted: 122
 solved_users: 115
-acceptance_rate: 75.658%
-collected_at: 2026-04-17T18:06:59.916356+00:00
+acceptance_rate: "75.658%"
+collected_at: "2026-04-17T18:06:59.916356+00:00"
 ---
 
 ## 문제

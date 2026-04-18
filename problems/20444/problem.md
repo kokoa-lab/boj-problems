@@ -1,13 +1,13 @@
 ---
-title: 색종이와 가위
-special_judge: false
-time_limit: 0.1 초
-memory_limit: 1024 MB
+title: "색종이와 가위"
+special_judge: "false"
+time_limit: "0.1 초"
+memory_limit: "1024 MB"
 submissions: 3428
 accepted: 1187
 solved_users: 907
-acceptance_rate: 33.114%
-collected_at: 2026-04-17T15:36:25.520124+00:00
+acceptance_rate: "33.114%"
+collected_at: "2026-04-17T15:36:25.520124+00:00"
 ---
 
 ## 문제

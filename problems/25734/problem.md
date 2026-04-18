@@ -1,13 +1,13 @@
 ---
-title: Set and Sequence and Query
-special_judge: false
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "Set and Sequence and Query"
+special_judge: "false"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 357
 accepted: 136
 solved_users: 89
-acceptance_rate: 40.826%
-collected_at: 2026-04-17T17:32:07.968396+00:00
+acceptance_rate: "40.826%"
+collected_at: "2026-04-17T17:32:07.968396+00:00"
 ---
 
 ## 문제

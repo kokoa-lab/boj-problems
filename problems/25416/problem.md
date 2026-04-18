@@ -1,13 +1,13 @@
 ---
-title: 빠른 숫자 탐색
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "빠른 숫자 탐색"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 1258
 accepted: 755
 solved_users: 685
-acceptance_rate: 62.729%
-collected_at: 2026-04-17T17:26:23.095116+00:00
+acceptance_rate: "62.729%"
+collected_at: "2026-04-17T17:26:23.095116+00:00"
 ---
 
 ## 문제

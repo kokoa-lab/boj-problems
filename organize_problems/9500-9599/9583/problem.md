@@ -1,13 +1,13 @@
 ---
-title: Easy Geometry
-special_judge: true
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Easy Geometry"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 80
 accepted: 21
 solved_users: 12
-acceptance_rate: 18.750%
-collected_at: 2026-04-17T12:11:37.337723+00:00
+acceptance_rate: "18.750%"
+collected_at: "2026-04-17T12:11:37.337723+00:00"
 ---
 
 ## 문제

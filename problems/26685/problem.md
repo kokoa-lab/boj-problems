@@ -1,13 +1,13 @@
 ---
-title: Wycieczka górska
-special_judge: false
-time_limit: 7 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Wycieczka górska"
+special_judge: "false"
+time_limit: "7 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 10
 accepted: 10
 solved_users: 6
-acceptance_rate: 100.000%
-collected_at: 2026-04-17T17:49:50.512262+00:00
+acceptance_rate: "100.000%"
+collected_at: "2026-04-17T17:49:50.512262+00:00"
 ---
 
 ## 문제

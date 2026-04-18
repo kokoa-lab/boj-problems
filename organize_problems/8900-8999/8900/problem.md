@@ -1,13 +1,13 @@
 ---
-title: Block Compaction
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Block Compaction"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 519
 accepted: 251
 solved_users: 81
-acceptance_rate: 36.986%
-collected_at: 2026-04-17T12:04:40.540308+00:00
+acceptance_rate: "36.986%"
+collected_at: "2026-04-17T12:04:40.540308+00:00"
 ---
 
 ## 문제

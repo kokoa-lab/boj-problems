@@ -1,13 +1,13 @@
 ---
-title: Lucky 7
-special_judge: false
-time_limit: 5 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Lucky 7"
+special_judge: "false"
+time_limit: "5 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 4061
 accepted: 3027
 solved_users: 2873
-acceptance_rate: 75.091%
-collected_at: 2026-04-17T19:01:16.272641+00:00
+acceptance_rate: "75.091%"
+collected_at: "2026-04-17T19:01:16.272641+00:00"
 ---
 
 ## 문제

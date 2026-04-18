@@ -1,13 +1,13 @@
 ---
-title: 상금 분배
-special_judge: false
-time_limit: 1.5 초
-memory_limit: 1536 MB
+title: "상금 분배"
+special_judge: "false"
+time_limit: "1.5 초"
+memory_limit: "1536 MB"
 submissions: 486
 accepted: 116
 solved_users: 98
-acceptance_rate: 25.995%
-collected_at: 2026-04-17T15:37:38.420013+00:00
+acceptance_rate: "25.995%"
+collected_at: "2026-04-17T15:37:38.420013+00:00"
 ---
 
 ## 문제

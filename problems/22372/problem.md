@@ -1,13 +1,13 @@
 ---
-title: Surround the Castle
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Surround the Castle"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 54
 accepted: 10
 solved_users: 7
-acceptance_rate: 17.073%
-collected_at: 2026-04-17T16:19:42.686212+00:00
+acceptance_rate: "17.073%"
+collected_at: "2026-04-17T16:19:42.686212+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: BSP Trees
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "BSP Trees"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 31
 accepted: 24
 solved_users: 12
-acceptance_rate: 85.714%
-collected_at: 2026-04-17T11:42:36.654923+00:00
+acceptance_rate: "85.714%"
+collected_at: "2026-04-17T11:42:36.654923+00:00"
 ---
 
 ## 문제

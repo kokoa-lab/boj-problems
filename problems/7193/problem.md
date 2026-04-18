@@ -1,13 +1,13 @@
 ---
-title: Dorm Party
-special_judge: true
-time_limit: 15 초
-memory_limit: 1024 MB
+title: "Dorm Party"
+special_judge: "true"
+time_limit: "15 초"
+memory_limit: "1024 MB"
 submissions: 19
 accepted: 2
 solved_users: 2
-acceptance_rate: 40.000%
-collected_at: 2026-04-17T11:47:04.999101+00:00
+acceptance_rate: "40.000%"
+collected_at: "2026-04-17T11:47:04.999101+00:00"
 ---
 
 ## 문제

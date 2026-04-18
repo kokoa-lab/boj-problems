@@ -1,13 +1,13 @@
 ---
-title: Uddered but not Herd
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Uddered but not Herd"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 1182
 accepted: 724
 solved_users: 647
-acceptance_rate: 62.092%
-collected_at: 2026-04-17T15:44:20.762324+00:00
+acceptance_rate: "62.092%"
+collected_at: "2026-04-17T15:44:20.762324+00:00"
 ---
 
 ## 문제

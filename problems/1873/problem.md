@@ -1,13 +1,13 @@
 ---
-title: 색종이 자르기
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "색종이 자르기"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 397
 accepted: 44
 solved_users: 19
-acceptance_rate: 14.286%
-collected_at: 2026-04-17T10:35:03.443044+00:00
+acceptance_rate: "14.286%"
+collected_at: "2026-04-17T10:35:03.443044+00:00"
 ---
 
 ## 문제

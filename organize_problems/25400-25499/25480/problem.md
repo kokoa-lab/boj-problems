@@ -1,13 +1,13 @@
 ---
-title: Ad Astra
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Ad Astra"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 13
 accepted: 8
 solved_users: 4
-acceptance_rate: 44.444%
-collected_at: 2026-04-17T17:27:20.027177+00:00
+acceptance_rate: "44.444%"
+collected_at: "2026-04-17T17:27:20.027177+00:00"
 ---
 
 ## 문제

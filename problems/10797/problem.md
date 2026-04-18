@@ -1,13 +1,13 @@
 ---
-title: 10부제
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "10부제"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 28942
 accepted: 23065
 solved_users: 20676
-acceptance_rate: 81.598%
-collected_at: 2026-04-17T12:29:40.945455+00:00
+acceptance_rate: "81.598%"
+collected_at: "2026-04-17T12:29:40.945455+00:00"
 ---
 
 ## 문제

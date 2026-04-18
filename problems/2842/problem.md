@@ -1,13 +1,13 @@
 ---
-title: 집배원 한상덕
-special_judge: false
-time_limit: 3 초
-memory_limit: 256 MB
+title: "집배원 한상덕"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "256 MB"
 submissions: 11672
 accepted: 3334
 solved_users: 1943
-acceptance_rate: 24.894%
-collected_at: 2026-04-17T10:45:15.317557+00:00
+acceptance_rate: "24.894%"
+collected_at: "2026-04-17T10:45:15.317557+00:00"
 ---
 
 ## 문제

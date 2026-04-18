@@ -1,13 +1,13 @@
 ---
-title: 이상한 프로그래밍 언어
-special_judge: false
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "이상한 프로그래밍 언어"
+special_judge: "false"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 766
 accepted: 113
 solved_users: 80
-acceptance_rate: 17.937%
-collected_at: 2026-04-17T17:30:10.354975+00:00
+acceptance_rate: "17.937%"
+collected_at: "2026-04-17T17:30:10.354975+00:00"
 ---
 
 ## 문제

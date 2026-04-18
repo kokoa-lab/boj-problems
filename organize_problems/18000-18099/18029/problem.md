@@ -1,13 +1,13 @@
 ---
-title: Algorithm Teaching
-special_judge: false
-time_limit: 1.5 초
-memory_limit: 512 MB
+title: "Algorithm Teaching"
+special_judge: "false"
+time_limit: "1.5 초"
+memory_limit: "512 MB"
 submissions: 110
 accepted: 18
 solved_users: 17
-acceptance_rate: 25.373%
-collected_at: 2026-04-17T14:53:03.000147+00:00
+acceptance_rate: "25.373%"
+collected_at: "2026-04-17T14:53:03.000147+00:00"
 ---
 
 ## 문제

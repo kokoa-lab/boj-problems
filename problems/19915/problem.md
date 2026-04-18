@@ -1,13 +1,13 @@
 ---
-title: Split the Attractions
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Split the Attractions"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 220
 accepted: 72
 solved_users: 66
-acceptance_rate: 32.836%
-collected_at: 2026-04-17T15:29:20.311531+00:00
+acceptance_rate: "32.836%"
+collected_at: "2026-04-17T15:29:20.311531+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Redistricting
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Redistricting"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 323
 accepted: 161
 solved_users: 130
-acceptance_rate: 48.327%
-collected_at: 2026-04-17T14:27:44.767174+00:00
+acceptance_rate: "48.327%"
+collected_at: "2026-04-17T14:27:44.767174+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 카드 숫자 곱의 경우의 수
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "카드 숫자 곱의 경우의 수"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 458
 accepted: 332
 solved_users: 253
-acceptance_rate: 72.911%
-collected_at: 2026-04-17T17:25:51.224324+00:00
+acceptance_rate: "72.911%"
+collected_at: "2026-04-17T17:25:51.224324+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 피라미드 수열
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "피라미드 수열"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 189
 accepted: 109
 solved_users: 92
-acceptance_rate: 73.600%
-collected_at: 2026-04-17T13:13:13.296654+00:00
+acceptance_rate: "73.600%"
+collected_at: "2026-04-17T13:13:13.296654+00:00"
 ---
 
 ## 문제

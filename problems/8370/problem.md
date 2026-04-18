@@ -1,13 +1,13 @@
 ---
-title: Plane
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Plane"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 12861
 accepted: 11397
 solved_users: 11013
-acceptance_rate: 88.965%
-collected_at: 2026-04-17T11:58:53.458306+00:00
+acceptance_rate: "88.965%"
+collected_at: "2026-04-17T11:58:53.458306+00:00"
 ---
 
 ## 문제

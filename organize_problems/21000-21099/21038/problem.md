@@ -1,13 +1,13 @@
 ---
-title: Galatea’s Diet
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Galatea’s Diet"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 58
 accepted: 20
 solved_users: 17
-acceptance_rate: 32.075%
-collected_at: 2026-04-17T15:46:12.648760+00:00
+acceptance_rate: "32.075%"
+collected_at: "2026-04-17T15:46:12.648760+00:00"
 ---
 
 ## 문제

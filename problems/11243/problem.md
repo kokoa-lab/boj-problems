@@ -1,13 +1,13 @@
 ---
-title: OPS
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "OPS"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 71
 accepted: 39
 solved_users: 30
-acceptance_rate: 62.500%
-collected_at: 2026-04-17T12:38:35.569249+00:00
+acceptance_rate: "62.500%"
+collected_at: "2026-04-17T12:38:35.569249+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Selfish Grazing
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Selfish Grazing"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 133
 accepted: 82
 solved_users: 70
-acceptance_rate: 59.829%
-collected_at: 2026-04-17T11:19:21.870845+00:00
+acceptance_rate: "59.829%"
+collected_at: "2026-04-17T11:19:21.870845+00:00"
 ---
 
 ## 문제

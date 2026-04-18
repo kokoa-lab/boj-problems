@@ -1,13 +1,13 @@
 ---
-title: Intranets
-special_judge: false
-time_limit: 서브태스크 참고
-memory_limit: 1024 MB
+title: "Intranets"
+special_judge: "false"
+time_limit: "서브태스크 참고"
+memory_limit: "1024 MB"
 submissions: 6
 accepted: 4
 solved_users: 4
-acceptance_rate: 66.667%
-collected_at: 2026-04-17T17:21:15.983441+00:00
+acceptance_rate: "66.667%"
+collected_at: "2026-04-17T17:21:15.983441+00:00"
 ---
 
 ## 문제

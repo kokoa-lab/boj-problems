@@ -1,13 +1,13 @@
 ---
-title: 구슬 탈출 2
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "구슬 탈출 2"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 111533
 accepted: 35473
 solved_users: 20811
-acceptance_rate: 29.626%
-collected_at: 2026-04-17T13:13:25.686897+00:00
+acceptance_rate: "29.626%"
+collected_at: "2026-04-17T13:13:25.686897+00:00"
 ---
 
 ## 문제

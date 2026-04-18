@@ -1,13 +1,13 @@
 ---
-title: Expansion Plan 2
-special_judge: false
-time_limit: 3 초
-memory_limit: 2048 MB
+title: "Expansion Plan 2"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "2048 MB"
 submissions: 49
 accepted: 30
 solved_users: 20
-acceptance_rate: 54.054%
-collected_at: 2026-04-17T20:58:36.701686+00:00
+acceptance_rate: "54.054%"
+collected_at: "2026-04-17T20:58:36.701686+00:00"
 ---
 
 ## 문제

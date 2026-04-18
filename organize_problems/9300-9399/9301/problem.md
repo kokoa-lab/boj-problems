@@ -1,13 +1,13 @@
 ---
-title: Painting Party
-special_judge: false
-time_limit: 5 초
-memory_limit: 128 MB
+title: "Painting Party"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "128 MB"
 submissions: 147
 accepted: 87
 solved_users: 80
-acceptance_rate: 64.000%
-collected_at: 2026-04-17T12:08:42.929160+00:00
+acceptance_rate: "64.000%"
+collected_at: "2026-04-17T12:08:42.929160+00:00"
 ---
 
 ## 문제

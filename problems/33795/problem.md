@@ -1,13 +1,13 @@
 ---
-title: Unfair Game
-special_judge: false
-time_limit: 2 초
-memory_limit: 2048 MB
+title: "Unfair Game"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "2048 MB"
 submissions: 36
 accepted: 16
 solved_users: 15
-acceptance_rate: 50.000%
-collected_at: 2026-04-17T20:23:36.535550+00:00
+acceptance_rate: "50.000%"
+collected_at: "2026-04-17T20:23:36.535550+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Рекорды и антирекорды
-special_judge: false
-time_limit: 3 초
-memory_limit: 1024 MB
+title: "Рекорды и антирекорды"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "1024 MB"
 submissions: 62
 accepted: 8
 solved_users: 6
-acceptance_rate: 50.000%
-collected_at: 2026-04-17T18:26:52.863898+00:00
+acceptance_rate: "50.000%"
+collected_at: "2026-04-17T18:26:52.863898+00:00"
 ---
 
 ## 문제

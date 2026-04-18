@@ -1,13 +1,13 @@
 ---
-title: 리그 오브 레게노
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "리그 오브 레게노"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 1960
 accepted: 699
 solved_users: 486
-acceptance_rate: 34.739%
-collected_at: 2026-04-17T16:41:08.845886+00:00
+acceptance_rate: "34.739%"
+collected_at: "2026-04-17T16:41:08.845886+00:00"
 ---
 
 ## 문제

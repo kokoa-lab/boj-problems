@@ -1,13 +1,13 @@
 ---
-title: 신촌 수열과 쿼리
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "신촌 수열과 쿼리"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 624
 accepted: 224
 solved_users: 165
-acceptance_rate: 34.519%
-collected_at: 2026-04-17T16:39:23.419669+00:00
+acceptance_rate: "34.519%"
+collected_at: "2026-04-17T16:39:23.419669+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 이진 삼진 탐색 놀이 2
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "이진 삼진 탐색 놀이 2"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 207
 accepted: 64
 solved_users: 50
-acceptance_rate: 35.971%
-collected_at: 2026-04-17T15:24:34.151354+00:00
+acceptance_rate: "35.971%"
+collected_at: "2026-04-17T15:24:34.151354+00:00"
 ---
 
 ## 문제

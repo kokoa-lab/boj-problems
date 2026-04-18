@@ -1,13 +1,13 @@
 ---
-title: Flag Quiz
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Flag Quiz"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 86
 accepted: 27
 solved_users: 20
-acceptance_rate: 32.787%
-collected_at: 2026-04-17T12:37:58.553072+00:00
+acceptance_rate: "32.787%"
+collected_at: "2026-04-17T12:37:58.553072+00:00"
 ---
 
 ## 문제

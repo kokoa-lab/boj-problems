@@ -1,13 +1,13 @@
 ---
-title: 과수원
-special_judge: false
-time_limit: 2 초
-memory_limit: 64 MB
+title: "과수원"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "64 MB"
 submissions: 25
 accepted: 8
 solved_users: 5
-acceptance_rate: 38.462%
-collected_at: 2026-04-17T10:34:23.712003+00:00
+acceptance_rate: "38.462%"
+collected_at: "2026-04-17T10:34:23.712003+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 그래프 탐색
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "그래프 탐색"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 1005
 accepted: 599
 solved_users: 423
-acceptance_rate: 56.855%
-collected_at: 2026-04-17T13:27:58.850315+00:00
+acceptance_rate: "56.855%"
+collected_at: "2026-04-17T13:27:58.850315+00:00"
 ---
 
 ## 문제

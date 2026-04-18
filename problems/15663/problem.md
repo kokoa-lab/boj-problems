@@ -1,13 +1,13 @@
 ---
-title: N과 M (9)
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "N과 M (9)"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 62253
 accepted: 32056
 solved_users: 24522
-acceptance_rate: 50.310%
-collected_at: 2026-04-17T14:03:35.527726+00:00
+acceptance_rate: "50.310%"
+collected_at: "2026-04-17T14:03:35.527726+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 편의점 알바
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "편의점 알바"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 251
 accepted: 60
 solved_users: 42
-acceptance_rate: 23.077%
-collected_at: 2026-04-17T11:48:23.237214+00:00
+acceptance_rate: "23.077%"
+collected_at: "2026-04-17T11:48:23.237214+00:00"
 ---
 
 ## 문제

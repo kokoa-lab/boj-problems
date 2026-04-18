@@ -1,13 +1,13 @@
 ---
-title: 삽입 정렬을 해볼까
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "삽입 정렬을 해볼까"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 1380
 accepted: 535
 solved_users: 418
-acceptance_rate: 40.270%
-collected_at: 2026-04-17T20:24:41.085792+00:00
+acceptance_rate: "40.270%"
+collected_at: "2026-04-17T20:24:41.085792+00:00"
 ---
 
 ## 문제

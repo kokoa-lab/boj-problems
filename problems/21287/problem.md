@@ -1,13 +1,13 @@
 ---
-title: Färgrobot
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Färgrobot"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 110
 accepted: 76
 solved_users: 72
-acceptance_rate: 71.287%
-collected_at: 2026-04-18T09:51:05.276940+00:00
+acceptance_rate: "71.287%"
+collected_at: "2026-04-18T09:51:05.276940+00:00"
 ---
 
 ## 문제

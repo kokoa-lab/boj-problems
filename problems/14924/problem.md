@@ -1,13 +1,13 @@
 ---
-title: 폰 노이만과 파리
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "폰 노이만과 파리"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 7561
 accepted: 6133
 solved_users: 5680
-acceptance_rate: 81.597%
-collected_at: 2026-04-17T13:45:40.541287+00:00
+acceptance_rate: "81.597%"
+collected_at: "2026-04-17T13:45:40.541287+00:00"
 ---
 
 ## 문제

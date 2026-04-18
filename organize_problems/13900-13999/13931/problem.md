@@ -1,13 +1,13 @@
 ---
-title: Driving in Optimistan
-special_judge: true
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Driving in Optimistan"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 31
 accepted: 6
 solved_users: 6
-acceptance_rate: 24.000%
-collected_at: 2026-04-17T13:22:33.987087+00:00
+acceptance_rate: "24.000%"
+collected_at: "2026-04-17T13:22:33.987087+00:00"
 ---
 
 ## 문제

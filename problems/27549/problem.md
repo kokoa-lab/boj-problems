@@ -1,13 +1,13 @@
 ---
-title: Bojanje
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Bojanje"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 14
 accepted: 10
 solved_users: 9
-acceptance_rate: 69.231%
-collected_at: 2026-04-17T18:06:17.474248+00:00
+acceptance_rate: "69.231%"
+collected_at: "2026-04-17T18:06:17.474248+00:00"
 ---
 
 ## 문제

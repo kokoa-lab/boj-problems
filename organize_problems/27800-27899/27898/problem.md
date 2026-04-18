@@ -1,13 +1,13 @@
 ---
-title: 2차원 종이 놀이
-special_judge: false
-time_limit: 3 초
-memory_limit: 512 MB
+title: "2차원 종이 놀이"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "512 MB"
 submissions: 15
 accepted: 12
 solved_users: 12
-acceptance_rate: 80.000%
-collected_at: 2026-04-17T18:14:02.408288+00:00
+acceptance_rate: "80.000%"
+collected_at: "2026-04-17T18:14:02.408288+00:00"
 ---
 
 ## 문제

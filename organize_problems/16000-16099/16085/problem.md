@@ -1,13 +1,13 @@
 ---
-title: Гэмт хэрэг
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Гэмт хэрэг"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 46
 accepted: 29
 solved_users: 26
-acceptance_rate: 60.465%
-collected_at: 2026-04-17T14:11:08.406858+00:00
+acceptance_rate: "60.465%"
+collected_at: "2026-04-17T14:11:08.406858+00:00"
 ---
 
 ## 문제

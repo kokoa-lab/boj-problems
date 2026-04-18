@@ -1,13 +1,13 @@
 ---
-title: 합금 주화
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "합금 주화"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 828
 accepted: 546
 solved_users: 506
-acceptance_rate: 67.198%
-collected_at: 2026-04-17T18:15:40.783804+00:00
+acceptance_rate: "67.198%"
+collected_at: "2026-04-17T18:15:40.783804+00:00"
 ---
 
 ## 문제

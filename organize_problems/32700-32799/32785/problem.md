@@ -1,13 +1,13 @@
 ---
-title: 腹ペコのムト
-special_judge: false
-time_limit: 1.5 초
-memory_limit: 512 MB
+title: "腹ペコのムト"
+special_judge: "false"
+time_limit: "1.5 초"
+memory_limit: "512 MB"
 submissions: 163
 accepted: 27
 solved_users: 21
-acceptance_rate: 18.919%
-collected_at: 2026-04-17T20:01:11.064803+00:00
+acceptance_rate: "18.919%"
+collected_at: "2026-04-17T20:01:11.064803+00:00"
 ---
 
 ## 문제

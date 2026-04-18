@@ -1,13 +1,13 @@
 ---
-title: Lottery
-special_judge: false
-time_limit: 5 초
-memory_limit: 2048 MB
+title: "Lottery"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "2048 MB"
 submissions: 12
 accepted: 4
 solved_users: 4
-acceptance_rate: 33.333%
-collected_at: 2026-04-17T20:36:19.660722+00:00
+acceptance_rate: "33.333%"
+collected_at: "2026-04-17T20:36:19.660722+00:00"
 ---
 
 ## 문제

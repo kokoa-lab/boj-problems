@@ -1,13 +1,13 @@
 ---
-title: 컵홀더
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "컵홀더"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 14374
 accepted: 8010
 solved_users: 6984
-acceptance_rate: 55.827%
-collected_at: 2026-04-17T10:44:59.773310+00:00
+acceptance_rate: "55.827%"
+collected_at: "2026-04-17T10:44:59.773310+00:00"
 ---
 
 ## 문제

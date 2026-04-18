@@ -1,13 +1,13 @@
 ---
-title: Line Sweep
-special_judge: false
-time_limit: 10 초
-memory_limit: 256 MB
+title: "Line Sweep"
+special_judge: "false"
+time_limit: "10 초"
+memory_limit: "256 MB"
 submissions: 15
 accepted: 3
 solved_users: 3
-acceptance_rate: 30.000%
-collected_at: 2026-04-17T12:24:04.076522+00:00
+acceptance_rate: "30.000%"
+collected_at: "2026-04-17T12:24:04.076522+00:00"
 ---
 
 ## 문제

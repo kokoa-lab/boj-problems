@@ -1,13 +1,13 @@
 ---
-title: Darius님 한타 안 함?
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Darius님 한타 안 함?"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 13496
 accepted: 8142
 solved_users: 7521
-acceptance_rate: 61.416%
-collected_at: 2026-04-17T15:37:13.587156+00:00
+acceptance_rate: "61.416%"
+collected_at: "2026-04-17T15:37:13.587156+00:00"
 ---
 
 ## 문제

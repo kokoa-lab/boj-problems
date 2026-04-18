@@ -1,13 +1,13 @@
 ---
-title: Breakout
-special_judge: false
-time_limit: 1 초
-memory_limit: 2048 MB
+title: "Breakout"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "2048 MB"
 submissions: 158
 accepted: 104
 solved_users: 84
-acceptance_rate: 63.158%
-collected_at: 2026-04-18T09:51:47.380541+00:00
+acceptance_rate: "63.158%"
+collected_at: "2026-04-18T09:51:47.380541+00:00"
 ---
 
 ## 문제

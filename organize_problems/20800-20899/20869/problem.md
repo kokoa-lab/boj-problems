@@ -1,13 +1,13 @@
 ---
-title: Trevlig väg
-special_judge: true
-time_limit: 3 초
-memory_limit: 1024 MB
+title: "Trevlig väg"
+special_judge: "true"
+time_limit: "3 초"
+memory_limit: "1024 MB"
 submissions: 50
 accepted: 30
 solved_users: 21
-acceptance_rate: 61.765%
-collected_at: 2026-04-17T15:42:29.477853+00:00
+acceptance_rate: "61.765%"
+collected_at: "2026-04-17T15:42:29.477853+00:00"
 ---
 
 ## 문제

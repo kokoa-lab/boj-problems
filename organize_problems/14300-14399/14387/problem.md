@@ -1,13 +1,13 @@
 ---
-title: Fractiles (Small)
-special_judge: true
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Fractiles (Small)"
+special_judge: "true"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 62
 accepted: 52
 solved_users: 40
-acceptance_rate: 90.909%
-collected_at: 2026-04-18T09:58:43.686402+00:00
+acceptance_rate: "90.909%"
+collected_at: "2026-04-18T09:58:43.686402+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 星間広告計画
-special_judge: false
-time_limit: 8 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "星間広告計画"
+special_judge: "false"
+time_limit: "8 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 56
 accepted: 13
 solved_users: 10
-acceptance_rate: 19.608%
-collected_at: 2026-04-17T19:42:47.401475+00:00
+acceptance_rate: "19.608%"
+collected_at: "2026-04-17T19:42:47.401475+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Spiral
-special_judge: false
-time_limit: 5 초
-memory_limit: 128 MB
+title: "Spiral"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "128 MB"
 submissions: 67
 accepted: 9
 solved_users: 6
-acceptance_rate: 10.000%
-collected_at: 2026-04-17T11:12:44.348504+00:00
+acceptance_rate: "10.000%"
+collected_at: "2026-04-17T11:12:44.348504+00:00"
 ---
 
 ## 문제

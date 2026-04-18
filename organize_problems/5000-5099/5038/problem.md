@@ -1,13 +1,13 @@
 ---
-title: Flight Planning
-special_judge: true
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Flight Planning"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 40
 accepted: 21
 solved_users: 18
-acceptance_rate: 52.941%
-collected_at: 2026-04-17T11:11:03.465970+00:00
+acceptance_rate: "52.941%"
+collected_at: "2026-04-17T11:11:03.465970+00:00"
 ---
 
 ## 문제

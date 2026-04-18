@@ -1,13 +1,13 @@
 ---
-title: Hard Evidence
-special_judge: true
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Hard Evidence"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 47
 accepted: 4
 solved_users: 4
-acceptance_rate: 12.500%
-collected_at: 2026-04-17T11:11:08.557286+00:00
+acceptance_rate: "12.500%"
+collected_at: "2026-04-17T11:11:08.557286+00:00"
 ---
 
 ## 문제

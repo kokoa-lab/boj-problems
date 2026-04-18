@@ -1,13 +1,13 @@
 ---
-title: 호텔 배정
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "호텔 배정"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 73
 accepted: 25
 solved_users: 23
-acceptance_rate: 35.385%
-collected_at: 2026-04-17T18:58:55.792082+00:00
+acceptance_rate: "35.385%"
+collected_at: "2026-04-17T18:58:55.792082+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Number Sets (Large)
-special_judge: false
-time_limit: 50 초
-memory_limit: 512 MB
+title: "Number Sets (Large)"
+special_judge: "false"
+time_limit: "50 초"
+memory_limit: "512 MB"
 submissions: 246
 accepted: 111
 solved_users: 78
-acceptance_rate: 41.489%
-collected_at: 2026-04-17T13:00:14.538670+00:00
+acceptance_rate: "41.489%"
+collected_at: "2026-04-17T13:00:14.538670+00:00"
 ---
 
 ## 문제

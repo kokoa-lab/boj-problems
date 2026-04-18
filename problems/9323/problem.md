@@ -1,13 +1,13 @@
 ---
-title: 무임승차
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "무임승차"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 601
 accepted: 146
 solved_users: 84
-acceptance_rate: 22.826%
-collected_at: 2026-04-17T12:08:54.323755+00:00
+acceptance_rate: "22.826%"
+collected_at: "2026-04-17T12:08:54.323755+00:00"
 ---
 
 ## 문제

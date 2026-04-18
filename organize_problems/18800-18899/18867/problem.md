@@ -1,13 +1,13 @@
 ---
-title: 편지 꼭 해다오
-special_judge: true
-time_limit: 0.1 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "편지 꼭 해다오"
+special_judge: "true"
+time_limit: "0.1 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 513
 accepted: 203
 solved_users: 142
-acceptance_rate: 44.514%
-collected_at: 2026-04-18T10:15:10.316550+00:00
+acceptance_rate: "44.514%"
+collected_at: "2026-04-18T10:15:10.316550+00:00"
 ---
 
 ## 문제

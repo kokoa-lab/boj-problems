@@ -1,13 +1,13 @@
 ---
-title: 두더지
-special_judge: true
-time_limit: 1 초
-memory_limit: 128 MB
+title: "두더지"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 174
 accepted: 44
 solved_users: 34
-acceptance_rate: 40.000%
-collected_at: 2026-04-17T10:45:59.766377+00:00
+acceptance_rate: "40.000%"
+collected_at: "2026-04-17T10:45:59.766377+00:00"
 ---
 
 ## 문제

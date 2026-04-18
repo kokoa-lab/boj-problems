@@ -1,13 +1,13 @@
 ---
-title: Kick_Start
-special_judge: false
-time_limit: 서브태스크 참고 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Kick_Start"
+special_judge: "false"
+time_limit: "서브태스크 참고 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 63
 accepted: 45
 solved_users: 41
-acceptance_rate: 69.492%
-collected_at: 2026-04-17T16:58:05.309013+00:00
+acceptance_rate: "69.492%"
+collected_at: "2026-04-17T16:58:05.309013+00:00"
 ---
 
 ## 문제

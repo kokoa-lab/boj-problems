@@ -1,13 +1,13 @@
 ---
-title: 물고기 게임
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "물고기 게임"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 314
 accepted: 129
 solved_users: 94
-acceptance_rate: 43.519%
-collected_at: 2026-04-17T19:19:50.665820+00:00
+acceptance_rate: "43.519%"
+collected_at: "2026-04-17T19:19:50.665820+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 이상한 나누기
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "이상한 나누기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 990
 accepted: 283
 solved_users: 232
-acceptance_rate: 32.493%
-collected_at: 2026-04-17T20:17:58.538956+00:00
+acceptance_rate: "32.493%"
+collected_at: "2026-04-17T20:17:58.538956+00:00"
 ---
 
 ## 문제

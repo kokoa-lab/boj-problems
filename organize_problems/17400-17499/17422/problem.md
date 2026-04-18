@@ -1,13 +1,13 @@
 ---
-title: 지폐가 넘쳐흘러
-special_judge: false
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "지폐가 넘쳐흘러"
+special_judge: "false"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 367
 accepted: 106
 solved_users: 81
-acceptance_rate: 29.242%
-collected_at: 2026-04-17T14:39:01.773191+00:00
+acceptance_rate: "29.242%"
+collected_at: "2026-04-17T14:39:01.773191+00:00"
 ---
 
 ## 문제

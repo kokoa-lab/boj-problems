@@ -1,13 +1,13 @@
 ---
-title: 은하 충돌
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "은하 충돌"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 147
 accepted: 49
 solved_users: 47
-acceptance_rate: 38.843%
-collected_at: 2026-04-17T20:52:40.271339+00:00
+acceptance_rate: "38.843%"
+collected_at: "2026-04-17T20:52:40.271339+00:00"
 ---
 
 ## 문제

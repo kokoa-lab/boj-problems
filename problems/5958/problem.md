@@ -1,13 +1,13 @@
 ---
-title: Space Exploration
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Space Exploration"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 475
 accepted: 329
 solved_users: 288
-acceptance_rate: 72.180%
-collected_at: 2026-04-17T11:18:51.936277+00:00
+acceptance_rate: "72.180%"
+collected_at: "2026-04-17T11:18:51.936277+00:00"
 ---
 
 ## 문제

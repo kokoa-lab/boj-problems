@@ -1,13 +1,13 @@
 ---
-title: Rat Attack
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "Rat Attack"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 53
 accepted: 34
 solved_users: 22
-acceptance_rate: 59.459%
-collected_at: 2026-04-17T11:50:42.556732+00:00
+acceptance_rate: "59.459%"
+collected_at: "2026-04-17T11:50:42.556732+00:00"
 ---
 
 ## 문제

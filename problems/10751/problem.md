@@ -1,13 +1,13 @@
 ---
-title: COW
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "COW"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 686
 accepted: 364
 solved_users: 308
-acceptance_rate: 55.098%
-collected_at: 2026-04-17T12:29:04.613507+00:00
+acceptance_rate: "55.098%"
+collected_at: "2026-04-17T12:29:04.613507+00:00"
 ---
 
 ## 문제

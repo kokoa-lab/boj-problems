@@ -1,13 +1,13 @@
 ---
-title: Swimming with Sharks
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Swimming with Sharks"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 14
 accepted: 11
 solved_users: 11
-acceptance_rate: 78.571%
-collected_at: 2026-04-17T11:12:16.031087+00:00
+acceptance_rate: "78.571%"
+collected_at: "2026-04-17T11:12:16.031087+00:00"
 ---
 
 ## 문제

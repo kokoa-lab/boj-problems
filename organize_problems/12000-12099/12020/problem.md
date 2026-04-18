@@ -1,13 +1,13 @@
 ---
-title: LU 분해
-special_judge: true
-time_limit: 3 초
-memory_limit: 128 MB
+title: "LU 분해"
+special_judge: "true"
+time_limit: "3 초"
+memory_limit: "128 MB"
 submissions: 542
 accepted: 193
 solved_users: 115
-acceptance_rate: 33.528%
-collected_at: 2026-04-17T12:49:02.707268+00:00
+acceptance_rate: "33.528%"
+collected_at: "2026-04-17T12:49:02.707268+00:00"
 ---
 
 ## 문제

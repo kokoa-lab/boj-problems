@@ -1,13 +1,13 @@
 ---
-title: 체육은 수학과목 입니다 2
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "체육은 수학과목 입니다 2"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 3202
 accepted: 2278
 solved_users: 2183
-acceptance_rate: 71.691%
-collected_at: 2026-04-17T20:29:28.329347+00:00
+acceptance_rate: "71.691%"
+collected_at: "2026-04-17T20:29:28.329347+00:00"
 ---
 
 ## 문제

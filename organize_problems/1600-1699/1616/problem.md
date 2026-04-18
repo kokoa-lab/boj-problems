@@ -1,13 +1,13 @@
 ---
-title: 드럼통 메시지
-special_judge: true
-time_limit: 5 초
-memory_limit: 512 MB
+title: "드럼통 메시지"
+special_judge: "true"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 1178
 accepted: 292
 solved_users: 149
-acceptance_rate: 16.970%
-collected_at: 2026-04-17T10:31:37.939713+00:00
+acceptance_rate: "16.970%"
+collected_at: "2026-04-17T10:31:37.939713+00:00"
 ---
 
 ## 문제

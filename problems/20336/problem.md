@@ -1,13 +1,13 @@
 ---
-title: Haughty Cuisine
-special_judge: true
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Haughty Cuisine"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 1201
 accepted: 845
 solved_users: 768
-acceptance_rate: 70.523%
-collected_at: 2026-04-17T15:35:17.848512+00:00
+acceptance_rate: "70.523%"
+collected_at: "2026-04-17T15:35:17.848512+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Hoof, Paper, Scissors (Gold)
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Hoof, Paper, Scissors (Gold)"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 549
 accepted: 308
 solved_users: 229
-acceptance_rate: 54.916%
-collected_at: 2026-04-17T13:33:43.673019+00:00
+acceptance_rate: "54.916%"
+collected_at: "2026-04-17T13:33:43.673019+00:00"
 ---
 
 ## 문제

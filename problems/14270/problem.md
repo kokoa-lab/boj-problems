@@ -1,13 +1,13 @@
 ---
-title: 종전 협상
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "종전 협상"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 22
 accepted: 12
 solved_users: 9
-acceptance_rate: 52.941%
-collected_at: 2026-04-17T13:29:10.398658+00:00
+acceptance_rate: "52.941%"
+collected_at: "2026-04-17T13:29:10.398658+00:00"
 ---
 
 ## 문제

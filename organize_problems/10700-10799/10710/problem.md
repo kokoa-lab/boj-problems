@@ -1,13 +1,13 @@
 ---
-title: 실크로드
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "실크로드"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 539
 accepted: 367
 solved_users: 300
-acceptance_rate: 67.416%
-collected_at: 2026-04-17T12:27:47.870192+00:00
+acceptance_rate: "67.416%"
+collected_at: "2026-04-17T12:27:47.870192+00:00"
 ---
 
 ## 문제

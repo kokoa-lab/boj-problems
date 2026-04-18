@@ -1,13 +1,13 @@
 ---
-title: 섞기
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "섞기"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 1097
 accepted: 468
 solved_users: 378
-acceptance_rate: 43.052%
-collected_at: 2026-04-17T10:28:37.563866+00:00
+acceptance_rate: "43.052%"
+collected_at: "2026-04-17T10:28:37.563866+00:00"
 ---
 
 ## 문제

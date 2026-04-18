@@ -1,13 +1,13 @@
 ---
-title: 아스키 코드
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "아스키 코드"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 203278
 accepted: 163214
 solved_users: 143021
-acceptance_rate: 81.149%
-collected_at: 2026-04-17T12:43:34.100697+00:00
+acceptance_rate: "81.149%"
+collected_at: "2026-04-17T12:43:34.100697+00:00"
 ---
 
 ## 문제

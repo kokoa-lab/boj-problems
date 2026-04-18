@@ -1,13 +1,13 @@
 ---
-title: Linear Algebra and Group
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Linear Algebra and Group"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 2132
 accepted: 429
 solved_users: 418
-acceptance_rate: 25.349%
-collected_at: 2026-04-17T14:03:01.650872+00:00
+acceptance_rate: "25.349%"
+collected_at: "2026-04-17T14:03:01.650872+00:00"
 ---
 
 ## 문제

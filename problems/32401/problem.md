@@ -1,13 +1,13 @@
 ---
-title: ANA는 회문이야
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "ANA는 회문이야"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 822
 accepted: 472
 solved_users: 421
-acceptance_rate: 58.149%
-collected_at: 2026-04-17T19:50:18.884239+00:00
+acceptance_rate: "58.149%"
+collected_at: "2026-04-17T19:50:18.884239+00:00"
 ---
 
 ## 문제

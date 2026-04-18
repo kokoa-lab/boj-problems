@@ -1,13 +1,13 @@
 ---
-title: 인싸들의 가위바위보
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "인싸들의 가위바위보"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 3112
 accepted: 1471
 solved_users: 995
-acceptance_rate: 44.901%
-collected_at: 2026-04-17T14:27:10.499810+00:00
+acceptance_rate: "44.901%"
+collected_at: "2026-04-17T14:27:10.499810+00:00"
 ---
 
 ## 문제

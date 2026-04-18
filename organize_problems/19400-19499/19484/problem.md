@@ -1,13 +1,13 @@
 ---
-title: Weltall
-special_judge: false
-time_limit: 4 초
-memory_limit: 256 MB
+title: "Weltall"
+special_judge: "false"
+time_limit: "4 초"
+memory_limit: "256 MB"
 submissions: 11
 accepted: 4
 solved_users: 3
-acceptance_rate: 30.000%
-collected_at: 2026-04-17T15:21:03.962559+00:00
+acceptance_rate: "30.000%"
+collected_at: "2026-04-17T15:21:03.962559+00:00"
 ---
 
 ## 문제

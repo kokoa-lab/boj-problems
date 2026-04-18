@@ -1,13 +1,13 @@
 ---
-title: Tudoku
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Tudoku"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 78
 accepted: 43
 solved_users: 36
-acceptance_rate: 72.000%
-collected_at: 2026-04-17T11:50:08.924460+00:00
+acceptance_rate: "72.000%"
+collected_at: "2026-04-17T11:50:08.924460+00:00"
 ---
 
 ## 문제

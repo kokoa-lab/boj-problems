@@ -1,13 +1,13 @@
 ---
-title: 동가수열 구하기
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "동가수열 구하기"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 1661
 accepted: 991
 solved_users: 907
-acceptance_rate: 61.119%
-collected_at: 2026-04-17T17:22:14.116638+00:00
+acceptance_rate: "61.119%"
+collected_at: "2026-04-17T17:22:14.116638+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Winter is Here
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Winter is Here"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 29
 accepted: 5
 solved_users: 2
-acceptance_rate: 14.286%
-collected_at: 2026-04-17T15:08:33.468165+00:00
+acceptance_rate: "14.286%"
+collected_at: "2026-04-17T15:08:33.468165+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Map Colouring
-special_judge: false
-time_limit: 5 초
-memory_limit: 256 MB
+title: "Map Colouring"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "256 MB"
 submissions: 63
 accepted: 32
 solved_users: 25
-acceptance_rate: 50.000%
-collected_at: 2026-04-17T12:43:10.552350+00:00
+acceptance_rate: "50.000%"
+collected_at: "2026-04-17T12:43:10.552350+00:00"
 ---
 
 ## 문제

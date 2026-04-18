@@ -1,13 +1,13 @@
 ---
-title: Difficult Problems
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Difficult Problems"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 153
 accepted: 87
 solved_users: 66
-acceptance_rate: 55.462%
-collected_at: 2026-04-17T15:26:57.141473+00:00
+acceptance_rate: "55.462%"
+collected_at: "2026-04-17T15:26:57.141473+00:00"
 ---
 
 ## 문제

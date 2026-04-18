@@ -1,13 +1,13 @@
 ---
-title: Concurso de Contos
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Concurso de Contos"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 101
 accepted: 39
 solved_users: 32
-acceptance_rate: 45.070%
-collected_at: 2026-04-17T13:16:21.924094+00:00
+acceptance_rate: "45.070%"
+collected_at: "2026-04-17T13:16:21.924094+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 불
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "불"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 56847
 accepted: 16477
 solved_users: 11260
-acceptance_rate: 26.926%
-collected_at: 2026-04-17T11:13:48.140920+00:00
+acceptance_rate: "26.926%"
+collected_at: "2026-04-17T11:13:48.140920+00:00"
 ---
 
 ## 문제

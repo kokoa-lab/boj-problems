@@ -1,13 +1,13 @@
 ---
-title: Chip Cards (16 MiB ML!)
-special_judge: false
-time_limit: 2 초
-memory_limit: 16 MB
+title: "Chip Cards (16 MiB ML!)"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "16 MB"
 submissions: 10
 accepted: 3
 solved_users: 3
-acceptance_rate: 42.857%
-collected_at: 2026-04-17T15:11:15.164632+00:00
+acceptance_rate: "42.857%"
+collected_at: "2026-04-17T15:11:15.164632+00:00"
 ---
 
 ## 문제

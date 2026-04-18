@@ -1,13 +1,13 @@
 ---
-title: Robot Race
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "Robot Race"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 70
 accepted: 38
 solved_users: 21
-acceptance_rate: 51.220%
-collected_at: 2026-04-17T12:26:12.333838+00:00
+acceptance_rate: "51.220%"
+collected_at: "2026-04-17T12:26:12.333838+00:00"
 ---
 
 ## 문제

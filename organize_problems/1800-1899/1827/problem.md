@@ -1,13 +1,13 @@
 ---
-title: 여행가이드
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "여행가이드"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 137
 accepted: 56
 solved_users: 42
-acceptance_rate: 37.838%
-collected_at: 2026-04-17T10:34:22.375728+00:00
+acceptance_rate: "37.838%"
+collected_at: "2026-04-17T10:34:22.375728+00:00"
 ---
 
 ## 문제

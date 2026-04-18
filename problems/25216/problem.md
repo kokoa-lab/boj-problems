@@ -1,13 +1,13 @@
 ---
-title: 파밍 루트
-special_judge: false
-time_limit: 3 초
-memory_limit: 1024 MB
+title: "파밍 루트"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "1024 MB"
 submissions: 497
 accepted: 84
 solved_users: 67
-acceptance_rate: 16.145%
-collected_at: 2026-04-17T17:22:47.307927+00:00
+acceptance_rate: "16.145%"
+collected_at: "2026-04-17T17:22:47.307927+00:00"
 ---
 
 ## 문제

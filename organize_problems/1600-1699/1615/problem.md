@@ -1,13 +1,13 @@
 ---
-title: 교차개수세기
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "교차개수세기"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 8190
 accepted: 3296
 solved_users: 901
-acceptance_rate: 21.602%
-collected_at: 2026-04-17T10:31:39.555879+00:00
+acceptance_rate: "21.602%"
+collected_at: "2026-04-17T10:31:39.555879+00:00"
 ---
 
 ## 문제

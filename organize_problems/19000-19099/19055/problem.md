@@ -1,13 +1,13 @@
 ---
-title: Nutella's Life
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Nutella's Life"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 75
 accepted: 27
 solved_users: 17
-acceptance_rate: 40.476%
-collected_at: 2026-04-17T15:12:55.166757+00:00
+acceptance_rate: "40.476%"
+collected_at: "2026-04-17T15:12:55.166757+00:00"
 ---
 
 ## 문제

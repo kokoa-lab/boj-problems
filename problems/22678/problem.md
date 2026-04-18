@@ -1,13 +1,13 @@
 ---
-title: Do It
-special_judge: true
-time_limit: 8 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "Do It"
+special_judge: "true"
+time_limit: "8 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 159
 accepted: 38
 solved_users: 11
-acceptance_rate: 11.828%
-collected_at: 2026-04-17T16:31:37.998171+00:00
+acceptance_rate: "11.828%"
+collected_at: "2026-04-17T16:31:37.998171+00:00"
 ---
 
 ## 문제

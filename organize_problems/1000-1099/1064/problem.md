@@ -1,13 +1,13 @@
 ---
-title: 평행사변형
-special_judge: true
-time_limit: 2 초
-memory_limit: 128 MB
+title: "평행사변형"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 13412
 accepted: 4273
 solved_users: 3718
-acceptance_rate: 34.960%
-collected_at: 2026-04-17T10:27:59.346614+00:00
+acceptance_rate: "34.960%"
+collected_at: "2026-04-17T10:27:59.346614+00:00"
 ---
 
 ## 문제

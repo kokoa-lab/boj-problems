@@ -1,13 +1,13 @@
 ---
-title: How Many Days Are There?
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "How Many Days Are There?"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 18
 accepted: 8
 solved_users: 2
-acceptance_rate: 66.667%
-collected_at: 2026-04-17T16:35:29.492530+00:00
+acceptance_rate: "66.667%"
+collected_at: "2026-04-17T16:35:29.492530+00:00"
 ---
 
 ## 문제

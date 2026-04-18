@@ -1,13 +1,13 @@
 ---
-title: SNUPC 게임
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "SNUPC 게임"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 230
 accepted: 112
 solved_users: 94
-acceptance_rate: 48.958%
-collected_at: 2026-04-17T19:00:24.372509+00:00
+acceptance_rate: "48.958%"
+collected_at: "2026-04-17T19:00:24.372509+00:00"
 ---
 
 ## 문제

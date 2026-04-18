@@ -1,13 +1,13 @@
 ---
-title: ЛИНИЯ
-special_judge: false
-time_limit: 0.5 초
-memory_limit: 1024 MB
+title: "ЛИНИЯ"
+special_judge: "false"
+time_limit: "0.5 초"
+memory_limit: "1024 MB"
 submissions: 420
 accepted: 339
 solved_users: 300
-acceptance_rate: 85.227%
-collected_at: 2026-04-17T17:07:06.633917+00:00
+acceptance_rate: "85.227%"
+collected_at: "2026-04-17T17:07:06.633917+00:00"
 ---
 
 ## 문제

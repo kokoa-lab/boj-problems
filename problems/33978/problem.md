@@ -1,13 +1,13 @@
 ---
-title: 관악산 정상에는 구름이 없다
-special_judge: true
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "관악산 정상에는 구름이 없다"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 157
 accepted: 15
 solved_users: 11
-acceptance_rate: 8.800%
-collected_at: 2026-04-17T20:27:44.608322+00:00
+acceptance_rate: "8.800%"
+collected_at: "2026-04-17T20:27:44.608322+00:00"
 ---
 
 ## 문제

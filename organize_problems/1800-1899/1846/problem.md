@@ -1,13 +1,13 @@
 ---
-title: 장기
-special_judge: true
-time_limit: 2 초
-memory_limit: 128 MB
+title: "장기"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 774
 accepted: 270
 solved_users: 215
-acceptance_rate: 38.324%
-collected_at: 2026-04-17T10:34:38.887812+00:00
+acceptance_rate: "38.324%"
+collected_at: "2026-04-17T10:34:38.887812+00:00"
 ---
 
 ## 문제

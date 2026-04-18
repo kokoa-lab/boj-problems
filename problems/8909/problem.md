@@ -1,13 +1,13 @@
 ---
-title: Soju
-special_judge: false
-time_limit: 3 초
-memory_limit: 128 MB
+title: "Soju"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "128 MB"
 submissions: 262
 accepted: 66
 solved_users: 38
-acceptance_rate: 36.190%
-collected_at: 2026-04-17T12:04:45.481777+00:00
+acceptance_rate: "36.190%"
+collected_at: "2026-04-17T12:04:45.481777+00:00"
 ---
 
 ## 문제

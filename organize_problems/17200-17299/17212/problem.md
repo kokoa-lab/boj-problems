@@ -1,13 +1,13 @@
 ---
-title: 달나라 토끼를 위한 구매대금 지불 도우미
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "달나라 토끼를 위한 구매대금 지불 도우미"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 4676
 accepted: 2348
 solved_users: 1916
-acceptance_rate: 50.648%
-collected_at: 2026-04-17T14:33:07.520302+00:00
+acceptance_rate: "50.648%"
+collected_at: "2026-04-17T14:33:07.520302+00:00"
 ---
 
 ## 문제

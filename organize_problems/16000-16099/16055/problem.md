@@ -1,13 +1,13 @@
 ---
-title: Perpetuum Mobile
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Perpetuum Mobile"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 40
 accepted: 14
 solved_users: 12
-acceptance_rate: 35.294%
-collected_at: 2026-04-17T14:10:42.627557+00:00
+acceptance_rate: "35.294%"
+collected_at: "2026-04-17T14:10:42.627557+00:00"
 ---
 
 ## 문제

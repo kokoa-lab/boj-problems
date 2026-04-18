@@ -1,13 +1,13 @@
 ---
-title: Mountains Beyond Mountains
-special_judge: false
-time_limit: 1 초
-memory_limit: 64 MB
+title: "Mountains Beyond Mountains"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "64 MB"
 submissions: 635
 accepted: 359
 solved_users: 318
-acceptance_rate: 56.684%
-collected_at: 2026-04-17T13:07:44.818440+00:00
+acceptance_rate: "56.684%"
+collected_at: "2026-04-17T13:07:44.818440+00:00"
 ---
 
 ## 문제

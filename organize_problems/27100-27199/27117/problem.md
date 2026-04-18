@@ -1,13 +1,13 @@
 ---
-title: 위문공연
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "위문공연"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 51
 accepted: 29
 solved_users: 27
-acceptance_rate: 69.231%
-collected_at: 2026-04-17T17:56:44.927129+00:00
+acceptance_rate: "69.231%"
+collected_at: "2026-04-17T17:56:44.927129+00:00"
 ---
 
 ## 문제

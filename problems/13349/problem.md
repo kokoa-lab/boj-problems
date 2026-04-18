@@ -1,13 +1,13 @@
 ---
-title: Millionaire Madness
-special_judge: false
-time_limit: 20 초
-memory_limit: 512 MB
+title: "Millionaire Madness"
+special_judge: "false"
+time_limit: "20 초"
+memory_limit: "512 MB"
 submissions: 209
 accepted: 131
 solved_users: 117
-acceptance_rate: 62.567%
-collected_at: 2026-04-17T13:11:54.971777+00:00
+acceptance_rate: "62.567%"
+collected_at: "2026-04-17T13:11:54.971777+00:00"
 ---
 
 ## 문제

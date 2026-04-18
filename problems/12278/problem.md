@@ -1,13 +1,13 @@
 ---
-title: Rational Number Tree (Small)
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Rational Number Tree (Small)"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 119
 accepted: 94
 solved_users: 80
-acceptance_rate: 80.808%
-collected_at: 2026-04-17T12:52:57.866463+00:00
+acceptance_rate: "80.808%"
+collected_at: "2026-04-17T12:52:57.866463+00:00"
 ---
 
 ## 문제

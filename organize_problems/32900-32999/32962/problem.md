@@ -1,13 +1,13 @@
 ---
-title: 폭우 (Hard)
-special_judge: false
-time_limit: 5 초
-memory_limit: 1024 MB
+title: "폭우 (Hard)"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "1024 MB"
 submissions: 18
 accepted: 4
 solved_users: 3
-acceptance_rate: 75.000%
-collected_at: 2026-04-17T20:06:18.406866+00:00
+acceptance_rate: "75.000%"
+collected_at: "2026-04-17T20:06:18.406866+00:00"
 ---
 
 ## 문제

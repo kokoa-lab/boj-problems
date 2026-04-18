@@ -1,13 +1,13 @@
 ---
-title: 트리 나라 관광 가이드
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "트리 나라 관광 가이드"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 1677
 accepted: 676
 solved_users: 509
-acceptance_rate: 40.205%
-collected_at: 2026-04-17T14:06:50.836625+00:00
+acceptance_rate: "40.205%"
+collected_at: "2026-04-17T14:06:50.836625+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: (K,N)-나이트
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "(K,N)-나이트"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 433
 accepted: 107
 solved_users: 73
-acceptance_rate: 31.064%
-collected_at: 2026-04-17T11:58:27.375734+00:00
+acceptance_rate: "31.064%"
+collected_at: "2026-04-17T11:58:27.375734+00:00"
 ---
 
 ## 문제

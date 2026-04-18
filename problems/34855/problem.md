@@ -1,13 +1,13 @@
 ---
-title: 비밀번호 전달하기
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "비밀번호 전달하기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 117
 accepted: 72
 solved_users: 68
-acceptance_rate: 68.687%
-collected_at: 2026-04-17T20:50:32.785145+00:00
+acceptance_rate: "68.687%"
+collected_at: "2026-04-17T20:50:32.785145+00:00"
 ---
 
 ## 문제

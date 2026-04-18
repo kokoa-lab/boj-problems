@@ -1,13 +1,13 @@
 ---
-title: Pebbles
-special_judge: false
-time_limit: 3 초
-memory_limit: 512 MB
+title: "Pebbles"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "512 MB"
 submissions: 189
 accepted: 92
 solved_users: 84
-acceptance_rate: 49.412%
-collected_at: 2026-04-17T11:56:46.144092+00:00
+acceptance_rate: "49.412%"
+collected_at: "2026-04-17T11:56:46.144092+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 소수 부르기 게임
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "소수 부르기 게임"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 1017
 accepted: 561
 solved_users: 476
-acceptance_rate: 58.693%
-collected_at: 2026-04-17T17:30:23.159988+00:00
+acceptance_rate: "58.693%"
+collected_at: "2026-04-17T17:30:23.159988+00:00"
 ---
 
 ## 문제

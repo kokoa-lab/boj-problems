@@ -1,13 +1,13 @@
 ---
-title: Languages
-special_judge: false
-time_limit: 10 초
-memory_limit: 256 MB
+title: "Languages"
+special_judge: "false"
+time_limit: "10 초"
+memory_limit: "256 MB"
 submissions: 180
 accepted: 34
 solved_users: 13
-acceptance_rate: 12.500%
-collected_at: 2026-04-17T12:20:46.447023+00:00
+acceptance_rate: "12.500%"
+collected_at: "2026-04-17T12:20:46.447023+00:00"
 ---
 
 ## 문제

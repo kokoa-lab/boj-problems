@@ -1,13 +1,13 @@
 ---
-title: 폴짝 게임
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "폴짝 게임"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 920
 accepted: 334
 solved_users: 267
-acceptance_rate: 35.039%
-collected_at: 2026-04-17T14:40:33.762569+00:00
+acceptance_rate: "35.039%"
+collected_at: "2026-04-17T14:40:33.762569+00:00"
 ---
 
 ## 문제

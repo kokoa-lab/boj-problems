@@ -1,13 +1,13 @@
 ---
-title: 안전 지대
-special_judge: false
-time_limit: 9 초
-memory_limit: 2048 MB
+title: "안전 지대"
+special_judge: "false"
+time_limit: "9 초"
+memory_limit: "2048 MB"
 submissions: 129
 accepted: 36
 solved_users: 30
-acceptance_rate: 27.778%
-collected_at: 2026-04-17T20:13:35.265540+00:00
+acceptance_rate: "27.778%"
+collected_at: "2026-04-17T20:13:35.265540+00:00"
 ---
 
 ## 문제

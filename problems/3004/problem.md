@@ -1,13 +1,13 @@
 ---
-title: 체스판 조각
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "체스판 조각"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 7830
 accepted: 5080
 solved_users: 4671
-acceptance_rate: 66.843%
-collected_at: 2026-04-17T10:46:11.137333+00:00
+acceptance_rate: "66.843%"
+collected_at: "2026-04-17T10:46:11.137333+00:00"
 ---
 
 ## 문제

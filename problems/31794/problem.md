@@ -1,13 +1,13 @@
 ---
-title: 두유노팰린드롬?
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "두유노팰린드롬?"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 240
 accepted: 78
 solved_users: 65
-acceptance_rate: 34.759%
-collected_at: 2026-04-17T19:36:37.789587+00:00
+acceptance_rate: "34.759%"
+collected_at: "2026-04-17T19:36:37.789587+00:00"
 ---
 
 ## 문제

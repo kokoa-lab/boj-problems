@@ -1,13 +1,13 @@
 ---
-title: Floating Islands
-special_judge: false
-time_limit: 8 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "Floating Islands"
+special_judge: "false"
+time_limit: "8 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 44
 accepted: 16
 solved_users: 8
-acceptance_rate: 50.000%
-collected_at: 2026-04-17T12:27:26.045971+00:00
+acceptance_rate: "50.000%"
+collected_at: "2026-04-17T12:27:26.045971+00:00"
 ---
 
 ## 문제

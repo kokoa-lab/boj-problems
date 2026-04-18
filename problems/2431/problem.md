@@ -1,13 +1,13 @@
 ---
-title: 신호 장애
-special_judge: true
-time_limit: 1 초
-memory_limit: 128 MB
+title: "신호 장애"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 172
 accepted: 70
 solved_users: 54
-acceptance_rate: 38.298%
-collected_at: 2026-04-17T10:41:33.347898+00:00
+acceptance_rate: "38.298%"
+collected_at: "2026-04-17T10:41:33.347898+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 신기한 소수
-special_judge: false
-time_limit: 2 초
-memory_limit: 4 MB
+title: "신기한 소수"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "4 MB"
 submissions: 33861
 accepted: 16684
 solved_users: 11670
-acceptance_rate: 46.807%
-collected_at: 2026-04-17T10:37:15.994344+00:00
+acceptance_rate: "46.807%"
+collected_at: "2026-04-17T10:37:15.994344+00:00"
 ---
 
 ## 문제

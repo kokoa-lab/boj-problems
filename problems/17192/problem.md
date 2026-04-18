@@ -1,13 +1,13 @@
 ---
-title: Snakes
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Snakes"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 346
 accepted: 226
 solved_users: 201
-acceptance_rate: 65.472%
-collected_at: 2026-04-17T14:32:30.390916+00:00
+acceptance_rate: "65.472%"
+collected_at: "2026-04-17T14:32:30.390916+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Epidemiology
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Epidemiology"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 292
 accepted: 139
 solved_users: 127
-acceptance_rate: 48.106%
-collected_at: 2026-04-17T15:24:39.087162+00:00
+acceptance_rate: "48.106%"
+collected_at: "2026-04-17T15:24:39.087162+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Colliding Encoding
-special_judge: false
-time_limit: 20 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Colliding Encoding"
+special_judge: "false"
+time_limit: "20 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 131
 accepted: 86
 solved_users: 45
-acceptance_rate: 58.442%
-collected_at: 2026-04-17T18:52:42.456720+00:00
+acceptance_rate: "58.442%"
+collected_at: "2026-04-17T18:52:42.456720+00:00"
 ---
 
 ## 문제

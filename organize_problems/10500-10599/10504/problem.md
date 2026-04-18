@@ -1,13 +1,13 @@
 ---
-title: 덧셈
-special_judge: false
-time_limit: 5 초
-memory_limit: 256 MB
+title: "덧셈"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "256 MB"
 submissions: 1129
 accepted: 392
 solved_users: 294
-acceptance_rate: 36.842%
-collected_at: 2026-04-17T12:24:42.095815+00:00
+acceptance_rate: "36.842%"
+collected_at: "2026-04-17T12:24:42.095815+00:00"
 ---
 
 ## 문제

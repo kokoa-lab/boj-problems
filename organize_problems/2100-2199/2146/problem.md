@@ -1,13 +1,13 @@
 ---
-title: 다리 만들기
-special_judge: false
-time_limit: 2 초
-memory_limit: 192 MB
+title: "다리 만들기"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "192 MB"
 submissions: 55020
 accepted: 21554
 solved_users: 13606
-acceptance_rate: 36.037%
-collected_at: 2026-04-17T10:38:55.550551+00:00
+acceptance_rate: "36.037%"
+collected_at: "2026-04-17T10:38:55.550551+00:00"
 ---
 
 ## 문제

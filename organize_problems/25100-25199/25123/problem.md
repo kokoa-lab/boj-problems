@@ -1,13 +1,13 @@
 ---
-title: 좋은 단순 경로
-special_judge: false
-time_limit: 1.5 초  ( 하단 참고 )
-memory_limit: 512 MB
+title: "좋은 단순 경로"
+special_judge: "false"
+time_limit: "1.5 초  ( 하단 참고 )"
+memory_limit: "512 MB"
 submissions: 163
 accepted: 58
 solved_users: 50
-acceptance_rate: 34.247%
-collected_at: 2026-04-17T17:21:12.923800+00:00
+acceptance_rate: "34.247%"
+collected_at: "2026-04-17T17:21:12.923800+00:00"
 ---
 
 ## 문제

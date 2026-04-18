@@ -1,13 +1,13 @@
 ---
-title: Candy Cane Feast
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Candy Cane Feast"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 1161
 accepted: 461
 solved_users: 355
-acceptance_rate: 40.204%
-collected_at: 2026-04-17T19:20:39.167239+00:00
+acceptance_rate: "40.204%"
+collected_at: "2026-04-17T19:20:39.167239+00:00"
 ---
 
 ## 문제

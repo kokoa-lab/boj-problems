@@ -1,13 +1,13 @@
 ---
-title: 교차점개수
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "교차점개수"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 1007
 accepted: 380
 solved_users: 298
-acceptance_rate: 40.822%
-collected_at: 2026-04-17T10:43:38.606420+00:00
+acceptance_rate: "40.822%"
+collected_at: "2026-04-17T10:43:38.606420+00:00"
 ---
 
 ## 문제

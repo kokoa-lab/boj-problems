@@ -1,13 +1,13 @@
 ---
-title: 이상한 기계
-special_judge: false
-time_limit: 4 초
-memory_limit: 512 MB
+title: "이상한 기계"
+special_judge: "false"
+time_limit: "4 초"
+memory_limit: "512 MB"
 submissions: 371
 accepted: 85
 solved_users: 70
-acceptance_rate: 23.333%
-collected_at: 2026-04-17T14:43:22.660234+00:00
+acceptance_rate: "23.333%"
+collected_at: "2026-04-17T14:43:22.660234+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 나는 너가 살아온 날을 알고 있다
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "나는 너가 살아온 날을 알고 있다"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 1967
 accepted: 1253
 solved_users: 1136
-acceptance_rate: 64.877%
-collected_at: 2026-04-17T10:38:46.627537+00:00
+acceptance_rate: "64.877%"
+collected_at: "2026-04-17T10:38:46.627537+00:00"
 ---
 
 ## 문제

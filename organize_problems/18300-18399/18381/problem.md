@@ -1,13 +1,13 @@
 ---
-title: XOR과 집합과 트리와 쿼리
-special_judge: false
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "XOR과 집합과 트리와 쿼리"
+special_judge: "false"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 107
 accepted: 48
 solved_users: 30
-acceptance_rate: 38.462%
-collected_at: 2026-04-18T09:50:51.397845+00:00
+acceptance_rate: "38.462%"
+collected_at: "2026-04-18T09:50:51.397845+00:00"
 ---
 
 ## 문제

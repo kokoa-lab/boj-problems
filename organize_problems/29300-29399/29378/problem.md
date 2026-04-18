@@ -1,13 +1,13 @@
 ---
-title: Гарри Поттер и нос Волан-де-Морта
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Гарри Поттер и нос Волан-де-Морта"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 90
 accepted: 78
 solved_users: 47
-acceptance_rate: 97.917%
-collected_at: 2026-04-17T18:41:36.321449+00:00
+acceptance_rate: "97.917%"
+collected_at: "2026-04-17T18:41:36.321449+00:00"
 ---
 
 ## 문제

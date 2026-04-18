@@ -1,13 +1,13 @@
 ---
-title: Hex Code
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Hex Code"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 549
 accepted: 371
 solved_users: 334
-acceptance_rate: 71.215%
-collected_at: 2026-04-17T12:45:56.427895+00:00
+acceptance_rate: "71.215%"
+collected_at: "2026-04-17T12:45:56.427895+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 원숭이 키우기
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "원숭이 키우기"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 882
 accepted: 252
 solved_users: 174
-acceptance_rate: 28.856%
-collected_at: 2026-04-17T10:30:05.363053+00:00
+acceptance_rate: "28.856%"
+collected_at: "2026-04-17T10:30:05.363053+00:00"
 ---
 
 ## 문제

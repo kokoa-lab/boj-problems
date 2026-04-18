@@ -1,13 +1,13 @@
 ---
-title: It’s Cold Here!
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "It’s Cold Here!"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 718
 accepted: 562
 solved_users: 516
-acceptance_rate: 79.753%
-collected_at: 2026-04-17T11:39:12.832100+00:00
+acceptance_rate: "79.753%"
+collected_at: "2026-04-17T11:39:12.832100+00:00"
 ---
 
 ## 문제

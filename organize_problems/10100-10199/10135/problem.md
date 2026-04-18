@@ -1,13 +1,13 @@
 ---
-title: Solar lamps
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Solar lamps"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 567
 accepted: 77
 solved_users: 64
-acceptance_rate: 12.648%
-collected_at: 2026-04-17T12:19:26.951830+00:00
+acceptance_rate: "12.648%"
+collected_at: "2026-04-17T12:19:26.951830+00:00"
 ---
 
 ## 문제

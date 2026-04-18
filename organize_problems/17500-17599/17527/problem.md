@@ -1,13 +1,13 @@
 ---
-title: Steel Slicing
-special_judge: false
-time_limit: 2.5 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "Steel Slicing"
+special_judge: "false"
+time_limit: "2.5 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 147
 accepted: 12
 solved_users: 9
-acceptance_rate: 17.647%
-collected_at: 2026-04-17T14:41:13.886463+00:00
+acceptance_rate: "17.647%"
+collected_at: "2026-04-17T14:41:13.886463+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Stop Making Sense
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Stop Making Sense"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 151
 accepted: 28
 solved_users: 20
-acceptance_rate: 17.094%
-collected_at: 2026-04-17T12:46:08.525847+00:00
+acceptance_rate: "17.094%"
+collected_at: "2026-04-17T12:46:08.525847+00:00"
 ---
 
 ## 문제

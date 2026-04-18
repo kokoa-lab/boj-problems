@@ -1,13 +1,13 @@
 ---
-title: Swap Free
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "Swap Free"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 83
 accepted: 61
 solved_users: 60
-acceptance_rate: 80.000%
-collected_at: 2026-04-17T14:51:57.892169+00:00
+acceptance_rate: "80.000%"
+collected_at: "2026-04-17T14:51:57.892169+00:00"
 ---
 
 ## 문제

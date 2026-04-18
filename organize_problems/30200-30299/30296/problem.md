@@ -1,13 +1,13 @@
 ---
-title: HLD
-special_judge: false
-time_limit: 5 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "HLD"
+special_judge: "false"
+time_limit: "5 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 42
 accepted: 12
 solved_users: 10
-acceptance_rate: 38.462%
-collected_at: 2026-04-17T19:02:41.762600+00:00
+acceptance_rate: "38.462%"
+collected_at: "2026-04-17T19:02:41.762600+00:00"
 ---
 
 ## 문제

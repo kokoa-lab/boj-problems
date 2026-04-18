@@ -1,13 +1,13 @@
 ---
-title: 배열 B의 값
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "배열 B의 값"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 1248
 accepted: 491
 solved_users: 348
-acceptance_rate: 38.200%
-collected_at: 2026-04-17T14:26:53.967185+00:00
+acceptance_rate: "38.200%"
+collected_at: "2026-04-17T14:26:53.967185+00:00"
 ---
 
 ## 문제

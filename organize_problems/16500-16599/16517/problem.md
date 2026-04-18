@@ -1,13 +1,13 @@
 ---
-title: Tima goes to Xentopia
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Tima goes to Xentopia"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 30
 accepted: 12
 solved_users: 11
-acceptance_rate: 52.381%
-collected_at: 2026-04-17T14:19:21.373221+00:00
+acceptance_rate: "52.381%"
+collected_at: "2026-04-17T14:19:21.373221+00:00"
 ---
 
 ## 문제

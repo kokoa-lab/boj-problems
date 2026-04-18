@@ -1,13 +1,13 @@
 ---
-title: 성지의 생일파티
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "성지의 생일파티"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 840
 accepted: 177
 solved_users: 157
-acceptance_rate: 31.653%
-collected_at: 2026-04-17T10:31:53.977527+00:00
+acceptance_rate: "31.653%"
+collected_at: "2026-04-17T10:31:53.977527+00:00"
 ---
 
 ## 문제

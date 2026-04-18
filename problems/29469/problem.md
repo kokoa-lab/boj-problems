@@ -1,13 +1,13 @@
 ---
-title: Марсианский друг
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Марсианский друг"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 18
 accepted: 10
 solved_users: 8
-acceptance_rate: 53.333%
-collected_at: 2026-04-17T18:44:56.402824+00:00
+acceptance_rate: "53.333%"
+collected_at: "2026-04-17T18:44:56.402824+00:00"
 ---
 
 ## 문제

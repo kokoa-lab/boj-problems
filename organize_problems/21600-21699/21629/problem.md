@@ -1,13 +1,13 @@
 ---
-title: Walk of Three
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Walk of Three"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 89
 accepted: 35
 solved_users: 27
-acceptance_rate: 39.706%
-collected_at: 2026-04-17T16:01:57.352461+00:00
+acceptance_rate: "39.706%"
+collected_at: "2026-04-17T16:01:57.352461+00:00"
 ---
 
 ## 문제

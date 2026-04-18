@@ -1,13 +1,13 @@
 ---
-title: Blackboard Reconstruction
-special_judge: true
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Blackboard Reconstruction"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 32
 accepted: 16
 solved_users: 16
-acceptance_rate: 51.613%
-collected_at: 2026-04-17T15:35:28.576933+00:00
+acceptance_rate: "51.613%"
+collected_at: "2026-04-17T15:35:28.576933+00:00"
 ---
 
 ## 문제

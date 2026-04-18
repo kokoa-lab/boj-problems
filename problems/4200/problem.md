@@ -1,13 +1,13 @@
 ---
-title: Hot Spot
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Hot Spot"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 25
 accepted: 10
 solved_users: 10
-acceptance_rate: 71.429%
-collected_at: 2026-04-17T10:57:11.832409+00:00
+acceptance_rate: "71.429%"
+collected_at: "2026-04-17T10:57:11.832409+00:00"
 ---
 
 ## 문제

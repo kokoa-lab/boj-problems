@@ -1,13 +1,13 @@
 ---
-title: 알 수 없는 문장
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "알 수 없는 문장"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 3616
 accepted: 1311
 solved_users: 1015
-acceptance_rate: 38.244%
-collected_at: 2026-04-17T10:28:13.045241+00:00
+acceptance_rate: "38.244%"
+collected_at: "2026-04-17T10:28:13.045241+00:00"
 ---
 
 ## 문제

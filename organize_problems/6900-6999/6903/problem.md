@@ -1,13 +1,13 @@
 ---
-title: Trident
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Trident"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 574
 accepted: 407
 solved_users: 370
-acceptance_rate: 71.017%
-collected_at: 2026-04-17T11:40:31.908080+00:00
+acceptance_rate: "71.017%"
+collected_at: "2026-04-17T11:40:31.908080+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Air Cownditioning
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Air Cownditioning"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 720
 accepted: 353
 solved_users: 293
-acceptance_rate: 52.043%
-collected_at: 2026-04-17T16:56:33.674484+00:00
+acceptance_rate: "52.043%"
+collected_at: "2026-04-17T16:56:33.674484+00:00"
 ---
 
 ## 문제

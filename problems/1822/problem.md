@@ -1,13 +1,13 @@
 ---
-title: 차집합
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "차집합"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 16728
 accepted: 7913
 solved_users: 6427
-acceptance_rate: 47.453%
-collected_at: 2026-04-17T10:34:13.086339+00:00
+acceptance_rate: "47.453%"
+collected_at: "2026-04-17T10:34:13.086339+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Euclidean TSP
-special_judge: true
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Euclidean TSP"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 98
 accepted: 78
 solved_users: 71
-acceptance_rate: 78.889%
-collected_at: 2026-04-17T12:24:56.415904+00:00
+acceptance_rate: "78.889%"
+collected_at: "2026-04-17T12:24:56.415904+00:00"
 ---
 
 ## 문제

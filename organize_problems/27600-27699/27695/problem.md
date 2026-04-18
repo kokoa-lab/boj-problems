@@ -1,13 +1,13 @@
 ---
-title: Knee problems (Hard)
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Knee problems (Hard)"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 16
 accepted: 13
 solved_users: 10
-acceptance_rate: 83.333%
-collected_at: 2026-04-17T18:09:06.206304+00:00
+acceptance_rate: "83.333%"
+collected_at: "2026-04-17T18:09:06.206304+00:00"
 ---
 
 ## 문제

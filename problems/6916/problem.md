@@ -1,13 +1,13 @@
 ---
-title: 0123456789
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "0123456789"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 1761
 accepted: 548
 solved_users: 467
-acceptance_rate: 29.707%
-collected_at: 2026-04-17T11:40:45.460449+00:00
+acceptance_rate: "29.707%"
+collected_at: "2026-04-17T11:40:45.460449+00:00"
 ---
 
 ## 문제

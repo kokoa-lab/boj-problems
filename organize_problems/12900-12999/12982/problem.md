@@ -1,13 +1,13 @@
 ---
-title: 공 포장하기 2
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "공 포장하기 2"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 560
 accepted: 185
 solved_users: 125
-acceptance_rate: 32.723%
-collected_at: 2026-04-17T13:05:11.627479+00:00
+acceptance_rate: "32.723%"
+collected_at: "2026-04-17T13:05:11.627479+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Number Fun
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Number Fun"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 572
 accepted: 451
 solved_users: 390
-acceptance_rate: 78.947%
-collected_at: 2026-04-17T17:14:55.617550+00:00
+acceptance_rate: "78.947%"
+collected_at: "2026-04-17T17:14:55.617550+00:00"
 ---
 
 ## 문제

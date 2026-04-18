@@ -1,13 +1,13 @@
 ---
-title: 숫자 카드놀이
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "숫자 카드놀이"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 2497
 accepted: 1784
 solved_users: 1616
-acceptance_rate: 73.388%
-collected_at: 2026-04-17T11:04:16.811487+00:00
+acceptance_rate: "73.388%"
+collected_at: "2026-04-17T11:04:16.811487+00:00"
 ---
 
 ## 문제

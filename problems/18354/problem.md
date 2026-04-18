@@ -1,13 +1,13 @@
 ---
-title: 다항식과 쿼리 2
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "다항식과 쿼리 2"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 394
 accepted: 168
 solved_users: 30
-acceptance_rate: 21.583%
-collected_at: 2026-04-17T15:00:33.214345+00:00
+acceptance_rate: "21.583%"
+collected_at: "2026-04-17T15:00:33.214345+00:00"
 ---
 
 ## 문제

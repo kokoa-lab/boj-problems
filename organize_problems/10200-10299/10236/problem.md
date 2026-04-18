@@ -1,13 +1,13 @@
 ---
-title: Encryption System
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Encryption System"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 41
 accepted: 10
 solved_users: 10
-acceptance_rate: 24.390%
-collected_at: 2026-04-17T12:20:52.822926+00:00
+acceptance_rate: "24.390%"
+collected_at: "2026-04-17T12:20:52.822926+00:00"
 ---
 
 ## 문제

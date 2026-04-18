@@ -1,13 +1,13 @@
 ---
-title: カードゲーム 4 (Card Game 4)
-special_judge: false
-time_limit: 2 초
-memory_limit: 2048 MB
+title: "カードゲーム 4 (Card Game 4)"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "2048 MB"
 submissions: 56
 accepted: 41
 solved_users: 32
-acceptance_rate: 72.727%
-collected_at: 2026-04-18T09:51:40.767423+00:00
+acceptance_rate: "72.727%"
+collected_at: "2026-04-18T09:51:40.767423+00:00"
 ---
 
 ## 문제

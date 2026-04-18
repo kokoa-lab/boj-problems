@@ -1,13 +1,13 @@
 ---
-title: Bracelet Crossings
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Bracelet Crossings"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 148
 accepted: 47
 solved_users: 36
-acceptance_rate: 29.752%
-collected_at: 2026-04-17T16:56:25.886738+00:00
+acceptance_rate: "29.752%"
+collected_at: "2026-04-17T16:56:25.886738+00:00"
 ---
 
 ## 문제

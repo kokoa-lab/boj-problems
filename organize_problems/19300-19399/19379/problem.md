@@ -1,13 +1,13 @@
 ---
-title: Kitamasa's Counterattack
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "Kitamasa's Counterattack"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 14
 accepted: 11
 solved_users: 8
-acceptance_rate: 72.727%
-collected_at: 2026-04-17T15:18:47.069116+00:00
+acceptance_rate: "72.727%"
+collected_at: "2026-04-17T15:18:47.069116+00:00"
 ---
 
 ## 문제

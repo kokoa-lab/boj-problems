@@ -1,13 +1,13 @@
 ---
-title: 거짓말
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "거짓말"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 190
 accepted: 54
 solved_users: 38
-acceptance_rate: 31.933%
-collected_at: 2026-04-17T10:41:20.238176+00:00
+acceptance_rate: "31.933%"
+collected_at: "2026-04-17T10:41:20.238176+00:00"
 ---
 
 ## 문제

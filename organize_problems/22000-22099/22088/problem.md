@@ -1,13 +1,13 @@
 ---
-title: На далекой Амазонке
-special_judge: true
-time_limit: 2 초
-memory_limit: 256 MB
+title: "На далекой Амазонке"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 12
 accepted: 9
 solved_users: 8
-acceptance_rate: 72.727%
-collected_at: 2026-04-17T16:13:26.915341+00:00
+acceptance_rate: "72.727%"
+collected_at: "2026-04-17T16:13:26.915341+00:00"
 ---
 
 ## 문제

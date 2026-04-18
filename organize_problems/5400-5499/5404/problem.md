@@ -1,13 +1,13 @@
 ---
-title: 차원 워프 드라이브
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "차원 워프 드라이브"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 51
 accepted: 14
 solved_users: 11
-acceptance_rate: 23.404%
-collected_at: 2026-04-17T11:13:37.881157+00:00
+acceptance_rate: "23.404%"
+collected_at: "2026-04-17T11:13:37.881157+00:00"
 ---
 
 ## 문제

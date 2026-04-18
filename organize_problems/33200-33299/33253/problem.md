@@ -1,13 +1,13 @@
 ---
-title: Game Night
-special_judge: false
-time_limit: 2 초
-memory_limit: 2048 MB
+title: "Game Night"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "2048 MB"
 submissions: 159
 accepted: 115
 solved_users: 91
-acceptance_rate: 75.833%
-collected_at: 2026-04-17T20:12:08.529036+00:00
+acceptance_rate: "75.833%"
+collected_at: "2026-04-17T20:12:08.529036+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Is It a p-drome?
-special_judge: false
-time_limit: 5 초
-memory_limit: 256 MB
+title: "Is It a p-drome?"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "256 MB"
 submissions: 115
 accepted: 37
 solved_users: 30
-acceptance_rate: 31.579%
-collected_at: 2026-04-17T15:15:58.122191+00:00
+acceptance_rate: "31.579%"
+collected_at: "2026-04-17T15:15:58.122191+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Golf Bot
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Golf Bot"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 4065
 accepted: 1924
 solved_users: 1097
-acceptance_rate: 47.737%
-collected_at: 2026-04-17T12:25:03.693759+00:00
+acceptance_rate: "47.737%"
+collected_at: "2026-04-17T12:25:03.693759+00:00"
 ---
 
 ## 문제

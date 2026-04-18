@@ -1,13 +1,13 @@
 ---
-title: Tiling Polyomino
-special_judge: true
-time_limit: 1.5 초
-memory_limit: 512 MB
+title: "Tiling Polyomino"
+special_judge: "true"
+time_limit: "1.5 초"
+memory_limit: "512 MB"
 submissions: 98
 accepted: 39
 solved_users: 25
-acceptance_rate: 36.765%
-collected_at: 2026-04-17T15:32:41.033630+00:00
+acceptance_rate: "36.765%"
+collected_at: "2026-04-17T15:32:41.033630+00:00"
 ---
 
 ## 문제

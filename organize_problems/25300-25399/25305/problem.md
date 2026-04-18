@@ -1,13 +1,13 @@
 ---
-title: 커트라인
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "커트라인"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 57442
 accepted: 38058
 solved_users: 34510
-acceptance_rate: 66.921%
-collected_at: 2026-04-17T17:24:20.428623+00:00
+acceptance_rate: "66.921%"
+collected_at: "2026-04-17T17:24:20.428623+00:00"
 ---
 
 ## 문제

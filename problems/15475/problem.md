@@ -1,13 +1,13 @@
 ---
-title: 双六 (Sugoroku)
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "双六 (Sugoroku)"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 184
 accepted: 156
 solved_users: 143
-acceptance_rate: 85.119%
-collected_at: 2026-04-17T14:00:09.024898+00:00
+acceptance_rate: "85.119%"
+collected_at: "2026-04-17T14:00:09.024898+00:00"
 ---
 
 ## 문제

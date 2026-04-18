@@ -1,13 +1,13 @@
 ---
-title: 첼시를 도와줘!
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "첼시를 도와줘!"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 13747
 accepted: 8076
 solved_users: 7188
-acceptance_rate: 60.709%
-collected_at: 2026-04-17T12:36:30.492669+00:00
+acceptance_rate: "60.709%"
+collected_at: "2026-04-17T12:36:30.492669+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 가운데를 말해요
-special_judge: false
-time_limit: 0.1 초  ( 하단 참고 )
-memory_limit: 128 MB
+title: "가운데를 말해요"
+special_judge: "false"
+time_limit: "0.1 초  ( 하단 참고 )"
+memory_limit: "128 MB"
 submissions: 83460
 accepted: 25857
 solved_users: 19424
-acceptance_rate: 31.604%
-collected_at: 2026-04-17T10:32:02.747324+00:00
+acceptance_rate: "31.604%"
+collected_at: "2026-04-17T10:32:02.747324+00:00"
 ---
 
 ## 문제

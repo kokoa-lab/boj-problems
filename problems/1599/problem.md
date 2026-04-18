@@ -1,13 +1,13 @@
 ---
-title: 민식어
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "민식어"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 1654
 accepted: 864
 solved_users: 681
-acceptance_rate: 53.622%
-collected_at: 2026-04-17T10:31:30.327720+00:00
+acceptance_rate: "53.622%"
+collected_at: "2026-04-17T10:31:30.327720+00:00"
 ---
 
 ## 문제

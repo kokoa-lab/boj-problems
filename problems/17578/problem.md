@@ -1,13 +1,13 @@
 ---
-title: On-Screen Keyboard
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "On-Screen Keyboard"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 133
 accepted: 120
 solved_users: 115
-acceptance_rate: 89.844%
-collected_at: 2026-04-17T14:42:07.065052+00:00
+acceptance_rate: "89.844%"
+collected_at: "2026-04-17T14:42:07.065052+00:00"
 ---
 
 ## 문제

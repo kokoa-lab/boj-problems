@@ -1,13 +1,13 @@
 ---
-title: Sums of Sums (Small)
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Sums of Sums (Small)"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 231
 accepted: 140
 solved_users: 89
-acceptance_rate: 53.614%
-collected_at: 2026-04-17T12:49:22.953781+00:00
+acceptance_rate: "53.614%"
+collected_at: "2026-04-17T12:49:22.953781+00:00"
 ---
 
 ## 문제

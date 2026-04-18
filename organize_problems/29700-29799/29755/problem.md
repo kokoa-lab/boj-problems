@@ -1,13 +1,13 @@
 ---
-title: 블랙홀과 소행성
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "블랙홀과 소행성"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 834
 accepted: 277
 solved_users: 237
-acceptance_rate: 35.964%
-collected_at: 2026-04-17T18:52:11.573842+00:00
+acceptance_rate: "35.964%"
+collected_at: "2026-04-17T18:52:11.573842+00:00"
 ---
 
 ## 문제

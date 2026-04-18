@@ -1,13 +1,13 @@
 ---
-title: Frodo and the Monster
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Frodo and the Monster"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 114
 accepted: 28
 solved_users: 19
-acceptance_rate: 21.839%
-collected_at: 2026-04-17T12:46:32.345358+00:00
+acceptance_rate: "21.839%"
+collected_at: "2026-04-17T12:46:32.345358+00:00"
 ---
 
 ## 문제

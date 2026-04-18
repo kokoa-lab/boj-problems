@@ -1,13 +1,13 @@
 ---
-title: 문제집 만들기
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "문제집 만들기"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 168
 accepted: 65
 solved_users: 47
-acceptance_rate: 43.119%
-collected_at: 2026-04-17T14:33:58.178072+00:00
+acceptance_rate: "43.119%"
+collected_at: "2026-04-17T14:33:58.178072+00:00"
 ---
 
 ## 문제

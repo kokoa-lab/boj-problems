@@ -1,13 +1,13 @@
 ---
-title: Baekjoon Database Management System
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Baekjoon Database Management System"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 302
 accepted: 100
 solved_users: 74
-acceptance_rate: 41.111%
-collected_at: 2026-04-17T12:27:57.898777+00:00
+acceptance_rate: "41.111%"
+collected_at: "2026-04-17T12:27:57.898777+00:00"
 ---
 
 ## 문제

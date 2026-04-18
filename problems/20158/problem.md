@@ -1,13 +1,13 @@
 ---
-title: 사장님 달려가고 있습니다
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "사장님 달려가고 있습니다"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 1038
 accepted: 180
 solved_users: 106
-acceptance_rate: 16.746%
-collected_at: 2026-04-17T15:32:24.581053+00:00
+acceptance_rate: "16.746%"
+collected_at: "2026-04-17T15:32:24.581053+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 고속버스 노선
-special_judge: true
-time_limit: 1 초
-memory_limit: 128 MB
+title: "고속버스 노선"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 184
 accepted: 26
 solved_users: 14
-acceptance_rate: 18.421%
-collected_at: 2026-04-17T10:43:11.168648+00:00
+acceptance_rate: "18.421%"
+collected_at: "2026-04-17T10:43:11.168648+00:00"
 ---
 
 ## 문제

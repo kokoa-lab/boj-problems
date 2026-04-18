@@ -1,13 +1,13 @@
 ---
-title: 사탕 선생 고창영
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "사탕 선생 고창영"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 9155
 accepted: 3330
 solved_users: 2968
-acceptance_rate: 39.850%
-collected_at: 2026-04-17T10:42:34.055616+00:00
+acceptance_rate: "39.850%"
+collected_at: "2026-04-17T10:42:34.055616+00:00"
 ---
 
 ## 문제

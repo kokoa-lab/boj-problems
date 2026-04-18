@@ -1,13 +1,13 @@
 ---
-title: Ant Stack
-special_judge: false
-time_limit: 15 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Ant Stack"
+special_judge: "false"
+time_limit: "15 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 41
 accepted: 17
 solved_users: 13
-acceptance_rate: 39.394%
-collected_at: 2026-04-17T18:10:23.980842+00:00
+acceptance_rate: "39.394%"
+collected_at: "2026-04-17T18:10:23.980842+00:00"
 ---
 
 ## 문제

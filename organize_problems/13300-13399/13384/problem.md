@@ -1,13 +1,13 @@
 ---
-title: Pry Sequence Transformation
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Pry Sequence Transformation"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 38
 accepted: 11
 solved_users: 9
-acceptance_rate: 39.130%
-collected_at: 2026-04-17T13:12:25.680488+00:00
+acceptance_rate: "39.130%"
+collected_at: "2026-04-17T13:12:25.680488+00:00"
 ---
 
 ## 문제

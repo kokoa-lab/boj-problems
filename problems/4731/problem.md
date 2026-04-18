@@ -1,13 +1,13 @@
 ---
-title: Signal Strength
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Signal Strength"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 13
 accepted: 7
 solved_users: 4
-acceptance_rate: 44.444%
-collected_at: 2026-04-17T11:07:43.805408+00:00
+acceptance_rate: "44.444%"
+collected_at: "2026-04-17T11:07:43.805408+00:00"
 ---
 
 ## 문제

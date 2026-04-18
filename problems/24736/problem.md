@@ -1,13 +1,13 @@
 ---
-title: Football Scoring
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Football Scoring"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 6155
 accepted: 5035
 solved_users: 4808
-acceptance_rate: 82.286%
-collected_at: 2026-04-17T17:14:03.386546+00:00
+acceptance_rate: "82.286%"
+collected_at: "2026-04-17T17:14:03.386546+00:00"
 ---
 
 ## 문제

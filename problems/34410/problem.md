@@ -1,13 +1,13 @@
 ---
-title: 근성아 일 좀 하자
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "근성아 일 좀 하자"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 24
 accepted: 8
 solved_users: 6
-acceptance_rate: 54.545%
-collected_at: 2026-04-17T20:37:53.165034+00:00
+acceptance_rate: "54.545%"
+collected_at: "2026-04-17T20:37:53.165034+00:00"
 ---
 
 ## 문제

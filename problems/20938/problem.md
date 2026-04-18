@@ -1,13 +1,13 @@
 ---
-title: 반짝반짝
-special_judge: true
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "반짝반짝"
+special_judge: "true"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 449
 accepted: 123
 solved_users: 110
-acceptance_rate: 31.250%
-collected_at: 2026-04-17T15:43:53.427497+00:00
+acceptance_rate: "31.250%"
+collected_at: "2026-04-17T15:43:53.427497+00:00"
 ---
 
 ## 문제

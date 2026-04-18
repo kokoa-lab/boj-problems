@@ -1,13 +1,13 @@
 ---
-title: 멋진 구간 2
-special_judge: false
-time_limit: 4 초
-memory_limit: 2048 MB
+title: "멋진 구간 2"
+special_judge: "false"
+time_limit: "4 초"
+memory_limit: "2048 MB"
 submissions: 26
 accepted: 15
 solved_users: 14
-acceptance_rate: 56.000%
-collected_at: 2026-04-18T09:51:39.123731+00:00
+acceptance_rate: "56.000%"
+collected_at: "2026-04-18T09:51:39.123731+00:00"
 ---
 
 ## 문제

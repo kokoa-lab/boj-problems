@@ -1,13 +1,13 @@
 ---
-title: Enlarge Circles
-special_judge: true
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Enlarge Circles"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 140
 accepted: 66
 solved_users: 33
-acceptance_rate: 37.079%
-collected_at: 2026-04-17T14:24:47.514805+00:00
+acceptance_rate: "37.079%"
+collected_at: "2026-04-17T14:24:47.514805+00:00"
 ---
 
 ## 문제

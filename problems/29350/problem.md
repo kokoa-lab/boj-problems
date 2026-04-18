@@ -1,13 +1,13 @@
 ---
-title: Поручения
-special_judge: true
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Поручения"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 14
 accepted: 1
 solved_users: 1
-acceptance_rate: 7.143%
-collected_at: 2026-04-17T18:40:51.261432+00:00
+acceptance_rate: "7.143%"
+collected_at: "2026-04-17T18:40:51.261432+00:00"
 ---
 
 ## 문제

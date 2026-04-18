@@ -1,13 +1,13 @@
 ---
-title: Bicycle puzzle
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Bicycle puzzle"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 54
 accepted: 23
 solved_users: 22
-acceptance_rate: 47.826%
-collected_at: 2026-04-17T12:36:48.477855+00:00
+acceptance_rate: "47.826%"
+collected_at: "2026-04-17T12:36:48.477855+00:00"
 ---
 
 ## 문제

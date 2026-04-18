@@ -1,13 +1,13 @@
 ---
-title: Eight puzzle
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Eight puzzle"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 955
 accepted: 253
 solved_users: 156
-acceptance_rate: 26.174%
-collected_at: 2026-04-17T12:36:40.809075+00:00
+acceptance_rate: "26.174%"
+collected_at: "2026-04-17T12:36:40.809075+00:00"
 ---
 
 ## 문제

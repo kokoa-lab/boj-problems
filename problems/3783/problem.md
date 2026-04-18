@@ -1,13 +1,13 @@
 ---
-title: 세제곱근
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "세제곱근"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 4077
 accepted: 814
 solved_users: 477
-acceptance_rate: 18.568%
-collected_at: 2026-04-17T10:51:58.384970+00:00
+acceptance_rate: "18.568%"
+collected_at: "2026-04-17T10:51:58.384970+00:00"
 ---
 
 ## 문제

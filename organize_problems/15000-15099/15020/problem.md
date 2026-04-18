@@ -1,13 +1,13 @@
 ---
-title: Emptying the Baltic
-special_judge: false
-time_limit: 3 초
-memory_limit: 512 MB
+title: "Emptying the Baltic"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "512 MB"
 submissions: 155
 accepted: 74
 solved_users: 69
-acceptance_rate: 50.735%
-collected_at: 2026-04-17T13:48:31.156206+00:00
+acceptance_rate: "50.735%"
+collected_at: "2026-04-17T13:48:31.156206+00:00"
 ---
 
 ## 문제

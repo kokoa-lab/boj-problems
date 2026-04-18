@@ -1,13 +1,13 @@
 ---
-title: Scholarship
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Scholarship"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 434
 accepted: 246
 solved_users: 223
-acceptance_rate: 54.791%
-collected_at: 2026-04-17T19:27:22.159294+00:00
+acceptance_rate: "54.791%"
+collected_at: "2026-04-17T19:27:22.159294+00:00"
 ---
 
 ## 문제

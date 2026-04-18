@@ -1,13 +1,13 @@
 ---
-title: Are You Listening?
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Are You Listening?"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 128
 accepted: 40
 solved_users: 37
-acceptance_rate: 33.333%
-collected_at: 2026-04-17T14:25:15.720011+00:00
+acceptance_rate: "33.333%"
+collected_at: "2026-04-17T14:25:15.720011+00:00"
 ---
 
 ## 문제

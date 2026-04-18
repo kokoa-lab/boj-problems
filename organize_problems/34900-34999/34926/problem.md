@@ -1,13 +1,13 @@
 ---
-title: 공룡 게임
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "공룡 게임"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 410
 accepted: 247
 solved_users: 206
-acceptance_rate: 63.777%
-collected_at: 2026-04-17T20:52:03.027724+00:00
+acceptance_rate: "63.777%"
+collected_at: "2026-04-17T20:52:03.027724+00:00"
 ---
 
 ## 문제

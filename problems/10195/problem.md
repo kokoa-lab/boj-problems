@@ -1,13 +1,13 @@
 ---
-title: Underwater Trip
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Underwater Trip"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 73
 accepted: 40
 solved_users: 23
-acceptance_rate: 45.098%
-collected_at: 2026-04-17T12:20:16.354868+00:00
+acceptance_rate: "45.098%"
+collected_at: "2026-04-17T12:20:16.354868+00:00"
 ---
 
 ## 문제

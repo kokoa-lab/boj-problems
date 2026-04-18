@@ -1,13 +1,13 @@
 ---
-title: 위험한 해싱
-special_judge: true
-time_limit: 5 초
-memory_limit: 512 MB
+title: "위험한 해싱"
+special_judge: "true"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 340
 accepted: 148
 solved_users: 91
-acceptance_rate: 48.404%
-collected_at: 2026-04-17T13:11:26.554522+00:00
+acceptance_rate: "48.404%"
+collected_at: "2026-04-17T13:11:26.554522+00:00"
 ---
 
 ## 문제

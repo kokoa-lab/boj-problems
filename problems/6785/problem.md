@@ -1,13 +1,13 @@
 ---
-title: Alice Through the Looking Glass
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Alice Through the Looking Glass"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 78
 accepted: 44
 solved_users: 37
-acceptance_rate: 63.793%
-collected_at: 2026-04-17T11:37:16.309632+00:00
+acceptance_rate: "63.793%"
+collected_at: "2026-04-17T11:37:16.309632+00:00"
 ---
 
 ## 문제

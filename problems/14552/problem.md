@@ -1,13 +1,13 @@
 ---
-title: Mahjong
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Mahjong"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 349
 accepted: 202
 solved_users: 173
-acceptance_rate: 58.446%
-collected_at: 2026-04-17T13:37:57.257375+00:00
+acceptance_rate: "58.446%"
+collected_at: "2026-04-17T13:37:57.257375+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Nowy kontrakt
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Nowy kontrakt"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 26
 accepted: 3
 solved_users: 3
-acceptance_rate: 12.500%
-collected_at: 2026-04-17T17:49:15.726370+00:00
+acceptance_rate: "12.500%"
+collected_at: "2026-04-17T17:49:15.726370+00:00"
 ---
 
 ## 문제

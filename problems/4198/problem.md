@@ -1,13 +1,13 @@
 ---
-title: 열차정렬
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "열차정렬"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 3418
 accepted: 752
 solved_users: 563
-acceptance_rate: 24.111%
-collected_at: 2026-04-17T10:57:12.480442+00:00
+acceptance_rate: "24.111%"
+collected_at: "2026-04-17T10:57:12.480442+00:00"
 ---
 
 ## 문제

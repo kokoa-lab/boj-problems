@@ -1,13 +1,13 @@
 ---
-title: Urban Planning
-special_judge: true
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 2048 MB
+title: "Urban Planning"
+special_judge: "true"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "2048 MB"
 submissions: 17
 accepted: 11
 solved_users: 9
-acceptance_rate: 69.231%
-collected_at: 2026-04-17T20:19:46.883684+00:00
+acceptance_rate: "69.231%"
+collected_at: "2026-04-17T20:19:46.883684+00:00"
 ---
 
 ## 문제

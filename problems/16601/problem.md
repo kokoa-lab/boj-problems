@@ -1,13 +1,13 @@
 ---
-title: Access Points
-special_judge: true
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Access Points"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 144
 accepted: 87
 solved_users: 77
-acceptance_rate: 60.630%
-collected_at: 2026-04-17T14:20:48.489408+00:00
+acceptance_rate: "60.630%"
+collected_at: "2026-04-17T14:20:48.489408+00:00"
 ---
 
 ## 문제

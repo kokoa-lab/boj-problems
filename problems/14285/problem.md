@@ -1,13 +1,13 @@
 ---
-title: 간선 끊어가기
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "간선 끊어가기"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 712
 accepted: 243
 solved_users: 178
-acceptance_rate: 36.179%
-collected_at: 2026-04-17T13:29:28.808218+00:00
+acceptance_rate: "36.179%"
+collected_at: "2026-04-17T13:29:28.808218+00:00"
 ---
 
 ## 문제

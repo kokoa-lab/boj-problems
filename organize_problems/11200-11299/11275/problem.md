@@ -1,13 +1,13 @@
 ---
-title: iCar
-special_judge: true
-time_limit: 1 초
-memory_limit: 256 MB
+title: "iCar"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 30
 accepted: 2
 solved_users: 2
-acceptance_rate: 7.143%
-collected_at: 2026-04-17T12:39:06.691316+00:00
+acceptance_rate: "7.143%"
+collected_at: "2026-04-17T12:39:06.691316+00:00"
 ---
 
 ## 문제

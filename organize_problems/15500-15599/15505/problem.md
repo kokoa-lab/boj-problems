@@ -1,13 +1,13 @@
 ---
-title: 아름다운 퍼즐 만들기
-special_judge: false
-time_limit: 3 초
-memory_limit: 128 MB
+title: "아름다운 퍼즐 만들기"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "128 MB"
 submissions: 247
 accepted: 58
 solved_users: 47
-acceptance_rate: 25.405%
-collected_at: 2026-04-17T14:00:35.382114+00:00
+acceptance_rate: "25.405%"
+collected_at: "2026-04-17T14:00:35.382114+00:00"
 ---
 
 ## 문제

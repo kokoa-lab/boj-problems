@@ -1,13 +1,13 @@
 ---
-title: Game of Hex
-special_judge: false
-time_limit: 10 초
-memory_limit: 48 MB (추가 메모리 없음) ( 하단 참고 )
+title: "Game of Hex"
+special_judge: "false"
+time_limit: "10 초"
+memory_limit: "48 MB (추가 메모리 없음) ( 하단 참고 )"
 submissions: 42
 accepted: 5
 solved_users: 2
-acceptance_rate: 28.571%
-collected_at: 2026-04-17T15:07:26.719929+00:00
+acceptance_rate: "28.571%"
+collected_at: "2026-04-17T15:07:26.719929+00:00"
 ---
 
 ## 문제

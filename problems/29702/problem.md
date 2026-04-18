@@ -1,13 +1,13 @@
 ---
-title: 이상한 호텔의 송이
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "이상한 호텔의 송이"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 708
 accepted: 256
 solved_users: 207
-acceptance_rate: 37.365%
-collected_at: 2026-04-17T18:51:00.175453+00:00
+acceptance_rate: "37.365%"
+collected_at: "2026-04-17T18:51:00.175453+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Crime House (Small)
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Crime House (Small)"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 19
 accepted: 9
 solved_users: 9
-acceptance_rate: 69.231%
-collected_at: 2026-04-17T12:52:12.219172+00:00
+acceptance_rate: "69.231%"
+collected_at: "2026-04-17T12:52:12.219172+00:00"
 ---
 
 ## 문제

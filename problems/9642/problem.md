@@ -1,13 +1,13 @@
 ---
-title: Omar’s Bug
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Omar’s Bug"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 49
 accepted: 33
 solved_users: 31
-acceptance_rate: 65.957%
-collected_at: 2026-04-17T12:12:20.113278+00:00
+acceptance_rate: "65.957%"
+collected_at: "2026-04-17T12:12:20.113278+00:00"
 ---
 
 ## 문제

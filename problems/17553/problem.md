@@ -1,13 +1,13 @@
 ---
-title: Lifeguards
-special_judge: true
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Lifeguards"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 143
 accepted: 36
 solved_users: 31
-acceptance_rate: 26.050%
-collected_at: 2026-04-17T14:41:40.119887+00:00
+acceptance_rate: "26.050%"
+collected_at: "2026-04-17T14:41:40.119887+00:00"
 ---
 
 ## 문제

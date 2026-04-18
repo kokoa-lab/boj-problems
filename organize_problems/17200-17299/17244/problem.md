@@ -1,13 +1,13 @@
 ---
-title: 아맞다우산
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "아맞다우산"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 3979
 accepted: 1798
 solved_users: 1331
-acceptance_rate: 43.144%
-collected_at: 2026-04-17T14:34:49.992621+00:00
+acceptance_rate: "43.144%"
+collected_at: "2026-04-17T14:34:49.992621+00:00"
 ---
 
 ## 문제

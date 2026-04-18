@@ -1,13 +1,13 @@
 ---
-title: k번째 이진십진수
-special_judge: false
-time_limit: 3 초
-memory_limit: 1024 MB
+title: "k번째 이진십진수"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "1024 MB"
 submissions: 46
 accepted: 10
 solved_users: 10
-acceptance_rate: 27.027%
-collected_at: 2026-04-17T18:18:44.236424+00:00
+acceptance_rate: "27.027%"
+collected_at: "2026-04-17T18:18:44.236424+00:00"
 ---
 
 ## 문제

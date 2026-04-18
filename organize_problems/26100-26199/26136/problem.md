@@ -1,13 +1,13 @@
 ---
-title: Mosaic Browsing
-special_judge: false
-time_limit: 6 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Mosaic Browsing"
+special_judge: "false"
+time_limit: "6 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 135
 accepted: 55
 solved_users: 34
-acceptance_rate: 39.080%
-collected_at: 2026-04-17T17:40:43.905827+00:00
+acceptance_rate: "39.080%"
+collected_at: "2026-04-17T17:40:43.905827+00:00"
 ---
 
 ## 문제

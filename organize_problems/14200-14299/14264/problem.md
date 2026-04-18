@@ -1,13 +1,13 @@
 ---
-title: 정육각형과 삼각형
-special_judge: true
-time_limit: 2 초
-memory_limit: 512 MB
+title: "정육각형과 삼각형"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 3803
 accepted: 2786
 solved_users: 2533
-acceptance_rate: 75.030%
-collected_at: 2026-04-17T13:28:53.790883+00:00
+acceptance_rate: "75.030%"
+collected_at: "2026-04-17T13:28:53.790883+00:00"
 ---
 
 ## 문제

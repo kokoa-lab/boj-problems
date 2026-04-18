@@ -1,13 +1,13 @@
 ---
-title: Railway Station
-special_judge: false
-time_limit: 10 초
-memory_limit: 512 MB
+title: "Railway Station"
+special_judge: "false"
+time_limit: "10 초"
+memory_limit: "512 MB"
 submissions: 66
 accepted: 47
 solved_users: 33
-acceptance_rate: 73.333%
-collected_at: 2026-04-17T13:37:37.198140+00:00
+acceptance_rate: "73.333%"
+collected_at: "2026-04-17T13:37:37.198140+00:00"
 ---
 
 ## 문제

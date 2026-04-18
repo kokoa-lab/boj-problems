@@ -1,13 +1,13 @@
 ---
-title: 운영진에게 설정 짜기는 어려워
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "운영진에게 설정 짜기는 어려워"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 864
 accepted: 350
 solved_users: 305
-acceptance_rate: 42.538%
-collected_at: 2026-04-17T18:00:33.075290+00:00
+acceptance_rate: "42.538%"
+collected_at: "2026-04-17T18:00:33.075290+00:00"
 ---
 
 ## 문제

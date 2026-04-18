@@ -1,13 +1,13 @@
 ---
-title: CAPS
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "CAPS"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 9397
 accepted: 6979
 solved_users: 6474
-acceptance_rate: 76.407%
-collected_at: 2026-04-17T13:47:53.619752+00:00
+acceptance_rate: "76.407%"
+collected_at: "2026-04-17T13:47:53.619752+00:00"
 ---
 
 ## 문제

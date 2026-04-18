@@ -1,13 +1,13 @@
 ---
-title: Road Service 1
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Road Service 1"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 300
 accepted: 54
 solved_users: 33
-acceptance_rate: 23.404%
-collected_at: 2026-04-17T14:45:37.284893+00:00
+acceptance_rate: "23.404%"
+collected_at: "2026-04-17T14:45:37.284893+00:00"
 ---
 
 ## 문제

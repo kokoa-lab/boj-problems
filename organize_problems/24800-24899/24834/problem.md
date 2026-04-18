@@ -1,13 +1,13 @@
 ---
-title: Shortest and Longest LIS
-special_judge: true
-time_limit: 3 초 (추가 시간 없음)
-memory_limit: 256 MB
+title: "Shortest and Longest LIS"
+special_judge: "true"
+time_limit: "3 초 (추가 시간 없음)"
+memory_limit: "256 MB"
 submissions: 70
 accepted: 53
 solved_users: 48
-acceptance_rate: 78.689%
-collected_at: 2026-04-17T17:15:49.435046+00:00
+acceptance_rate: "78.689%"
+collected_at: "2026-04-17T17:15:49.435046+00:00"
 ---
 
 ## 문제

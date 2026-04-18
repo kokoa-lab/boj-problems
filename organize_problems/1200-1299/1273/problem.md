@@ -1,13 +1,13 @@
 ---
-title: 샷
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "샷"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 1027
 accepted: 273
 solved_users: 203
-acceptance_rate: 28.273%
-collected_at: 2026-04-17T10:29:12.970044+00:00
+acceptance_rate: "28.273%"
+collected_at: "2026-04-17T10:29:12.970044+00:00"
 ---
 
 ## 문제

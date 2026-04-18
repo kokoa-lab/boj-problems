@@ -1,13 +1,13 @@
 ---
-title: 위수는 쿼리입니까?
-special_judge: true
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "위수는 쿼리입니까?"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 269
 accepted: 74
 solved_users: 18
-acceptance_rate: 11.765%
-collected_at: 2026-04-17T19:17:54.709478+00:00
+acceptance_rate: "11.765%"
+collected_at: "2026-04-17T19:17:54.709478+00:00"
 ---
 
 ## 문제

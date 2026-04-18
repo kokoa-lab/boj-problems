@@ -1,13 +1,13 @@
 ---
-title: 123456789점
-special_judge: false
-time_limit: 0.2 초
-memory_limit: 512 MB
+title: "123456789점"
+special_judge: "false"
+time_limit: "0.2 초"
+memory_limit: "512 MB"
 submissions: 315
 accepted: 57
 solved_users: 48
-acceptance_rate: 25.263%
-collected_at: 2026-04-17T17:08:42.891914+00:00
+acceptance_rate: "25.263%"
+collected_at: "2026-04-17T17:08:42.891914+00:00"
 ---
 
 ## 문제

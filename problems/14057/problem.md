@@ -1,13 +1,13 @@
 ---
-title: Towers
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Towers"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 69
 accepted: 31
 solved_users: 26
-acceptance_rate: 42.623%
-collected_at: 2026-04-17T13:24:55.823019+00:00
+acceptance_rate: "42.623%"
+collected_at: "2026-04-17T13:24:55.823019+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 건조한 조건
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "건조한 조건"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 478
 accepted: 140
 solved_users: 119
-acceptance_rate: 30.357%
-collected_at: 2026-04-17T20:49:10.561368+00:00
+acceptance_rate: "30.357%"
+collected_at: "2026-04-17T20:49:10.561368+00:00"
 ---
 
 ## 문제

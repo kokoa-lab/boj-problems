@@ -1,13 +1,13 @@
 ---
-title: 가로수
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "가로수"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 379
 accepted: 95
 solved_users: 71
-acceptance_rate: 24.399%
-collected_at: 2026-04-17T14:03:56.044910+00:00
+acceptance_rate: "24.399%"
+collected_at: "2026-04-17T14:03:56.044910+00:00"
 ---
 
 ## 문제

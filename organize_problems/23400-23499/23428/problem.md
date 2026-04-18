@@ -1,13 +1,13 @@
 ---
-title: Painting roofs
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 256 MB
+title: "Painting roofs"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "256 MB"
 submissions: 80
 accepted: 59
 solved_users: 36
-acceptance_rate: 70.588%
-collected_at: 2026-04-17T16:47:59.813454+00:00
+acceptance_rate: "70.588%"
+collected_at: "2026-04-17T16:47:59.813454+00:00"
 ---
 
 ## 문제

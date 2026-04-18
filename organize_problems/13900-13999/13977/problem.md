@@ -1,13 +1,13 @@
 ---
-title: 이항 계수와 쿼리
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "이항 계수와 쿼리"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 7222
 accepted: 3576
 solved_users: 2631
-acceptance_rate: 46.848%
-collected_at: 2026-04-17T13:23:16.698486+00:00
+acceptance_rate: "46.848%"
+collected_at: "2026-04-17T13:23:16.698486+00:00"
 ---
 
 ## 문제

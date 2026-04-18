@@ -1,13 +1,13 @@
 ---
-title: Erratic Sleep Habits
-special_judge: false
-time_limit: 8 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "Erratic Sleep Habits"
+special_judge: "false"
+time_limit: "8 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 53
 accepted: 21
 solved_users: 20
-acceptance_rate: 40.000%
-collected_at: 2026-04-17T16:29:12.250119+00:00
+acceptance_rate: "40.000%"
+collected_at: "2026-04-17T16:29:12.250119+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Shell Game
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Shell Game"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 1800
 accepted: 1036
 solved_users: 930
-acceptance_rate: 62.880%
-collected_at: 2026-04-17T14:28:04.193461+00:00
+acceptance_rate: "62.880%"
+collected_at: "2026-04-17T14:28:04.193461+00:00"
 ---
 
 ## 문제

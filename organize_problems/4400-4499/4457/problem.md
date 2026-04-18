@@ -1,13 +1,13 @@
 ---
-title: 상근이의 자물쇠
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "상근이의 자물쇠"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 79
 accepted: 31
 solved_users: 24
-acceptance_rate: 46.154%
-collected_at: 2026-04-17T11:02:05.455948+00:00
+acceptance_rate: "46.154%"
+collected_at: "2026-04-17T11:02:05.455948+00:00"
 ---
 
 ## 문제

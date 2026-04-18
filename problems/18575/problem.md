@@ -1,13 +1,13 @@
 ---
-title: Go West
-special_judge: true
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Go West"
+special_judge: "true"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 58
 accepted: 18
 solved_users: 13
-acceptance_rate: 65.000%
-collected_at: 2026-04-17T15:06:44.663604+00:00
+acceptance_rate: "65.000%"
+collected_at: "2026-04-17T15:06:44.663604+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Special Cycle
-special_judge: true
-time_limit: 7 초
-memory_limit: 2048 MB (추가 메모리 없음)
+title: "Special Cycle"
+special_judge: "true"
+time_limit: "7 초"
+memory_limit: "2048 MB (추가 메모리 없음)"
 submissions: 57
 accepted: 11
 solved_users: 11
-acceptance_rate: 23.913%
-collected_at: 2026-04-17T16:38:52.061750+00:00
+acceptance_rate: "23.913%"
+collected_at: "2026-04-17T16:38:52.061750+00:00"
 ---
 
 ## 문제

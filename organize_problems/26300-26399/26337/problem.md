@@ -1,13 +1,13 @@
 ---
-title: Sub Matrix Sum
-special_judge: false
-time_limit: 3 초
-memory_limit: 1024 MB
+title: "Sub Matrix Sum"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "1024 MB"
 submissions: 9
 accepted: 4
 solved_users: 4
-acceptance_rate: 57.143%
-collected_at: 2026-04-17T17:44:02.378371+00:00
+acceptance_rate: "57.143%"
+collected_at: "2026-04-17T17:44:02.378371+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Exhibition 3
-special_judge: false
-time_limit: 3 초
-memory_limit: 2048 MB
+title: "Exhibition 3"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "2048 MB"
 submissions: 13
 accepted: 2
 solved_users: 2
-acceptance_rate: 25.000%
-collected_at: 2026-04-17T20:30:40.135003+00:00
+acceptance_rate: "25.000%"
+collected_at: "2026-04-17T20:30:40.135003+00:00"
 ---
 
 ## 문제

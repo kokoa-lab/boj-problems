@@ -1,13 +1,13 @@
 ---
-title: medians
-special_judge: true
-time_limit: 1 초
-memory_limit: 128 MB
+title: "medians"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 187
 accepted: 78
 solved_users: 64
-acceptance_rate: 46.715%
-collected_at: 2026-04-17T11:12:45.575284+00:00
+acceptance_rate: "46.715%"
+collected_at: "2026-04-17T11:12:45.575284+00:00"
 ---
 
 ## 문제

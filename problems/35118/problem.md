@@ -1,13 +1,13 @@
 ---
-title: 나이트투어 2025
-special_judge: true
-time_limit: 2.025 초
-memory_limit: 2025 MB
+title: "나이트투어 2025"
+special_judge: "true"
+time_limit: "2.025 초"
+memory_limit: "2025 MB"
 submissions: 390
 accepted: 47
 solved_users: 12
-acceptance_rate: 5.882%
-collected_at: 2026-04-17T20:56:05.826186+00:00
+acceptance_rate: "5.882%"
+collected_at: "2026-04-17T20:56:05.826186+00:00"
 ---
 
 ## 문제

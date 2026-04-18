@@ -1,13 +1,13 @@
 ---
-title: The Twin Tower
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "The Twin Tower"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 56
 accepted: 33
 solved_users: 26
-acceptance_rate: 57.778%
-collected_at: 2026-04-17T11:13:29.912231+00:00
+acceptance_rate: "57.778%"
+collected_at: "2026-04-17T11:13:29.912231+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 택배 기사 민서
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "택배 기사 민서"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 321
 accepted: 141
 solved_users: 115
-acceptance_rate: 51.570%
-collected_at: 2026-04-17T15:44:05.253877+00:00
+acceptance_rate: "51.570%"
+collected_at: "2026-04-17T15:44:05.253877+00:00"
 ---
 
 ## 문제

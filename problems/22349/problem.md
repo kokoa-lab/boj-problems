@@ -1,13 +1,13 @@
 ---
-title: 가장 긴 공통 괄호 문자열
-special_judge: false
-time_limit: 3 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "가장 긴 공통 괄호 문자열"
+special_judge: "false"
+time_limit: "3 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 1029
 accepted: 185
 solved_users: 112
-acceptance_rate: 15.448%
-collected_at: 2026-04-17T16:19:20.247768+00:00
+acceptance_rate: "15.448%"
+collected_at: "2026-04-17T16:19:20.247768+00:00"
 ---
 
 ## 문제

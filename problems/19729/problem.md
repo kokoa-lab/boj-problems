@@ -1,13 +1,13 @@
 ---
-title: Valya and Letter
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Valya and Letter"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 209
 accepted: 58
 solved_users: 46
-acceptance_rate: 24.599%
-collected_at: 2026-04-17T15:26:55.056568+00:00
+acceptance_rate: "24.599%"
+collected_at: "2026-04-17T15:26:55.056568+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 물리를 잘하는 시시포스는 오늘도 우울
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "물리를 잘하는 시시포스는 오늘도 우울"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 31
 accepted: 22
 solved_users: 21
-acceptance_rate: 87.500%
-collected_at: 2026-04-17T20:46:25.453763+00:00
+acceptance_rate: "87.500%"
+collected_at: "2026-04-17T20:46:25.453763+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 문자 해독
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "문자 해독"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 4995
 accepted: 1810
 solved_users: 1291
-acceptance_rate: 36.896%
-collected_at: 2026-04-17T10:31:28.080638+00:00
+acceptance_rate: "36.896%"
+collected_at: "2026-04-17T10:31:28.080638+00:00"
 ---
 
 ## 문제

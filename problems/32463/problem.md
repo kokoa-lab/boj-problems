@@ -1,13 +1,13 @@
 ---
-title: Counting Regions
-special_judge: false
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "Counting Regions"
+special_judge: "false"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 18
 accepted: 8
 solved_users: 8
-acceptance_rate: 66.667%
-collected_at: 2026-04-17T19:51:48.670712+00:00
+acceptance_rate: "66.667%"
+collected_at: "2026-04-17T19:51:48.670712+00:00"
 ---
 
 ## 문제

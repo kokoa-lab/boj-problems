@@ -1,13 +1,13 @@
 ---
-title: 문자열 뒤집기
-special_judge: false
-time_limit: 1 초  ( 하단 참고 )
-memory_limit: 256 MB
+title: "문자열 뒤집기"
+special_judge: "false"
+time_limit: "1 초  ( 하단 참고 )"
+memory_limit: "256 MB"
 submissions: 717
 accepted: 201
 solved_users: 120
-acceptance_rate: 35.191%
-collected_at: 2026-04-17T15:24:22.354016+00:00
+acceptance_rate: "35.191%"
+collected_at: "2026-04-17T15:24:22.354016+00:00"
 ---
 
 ## 문제

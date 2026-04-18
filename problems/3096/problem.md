@@ -1,13 +1,13 @@
 ---
-title: 영화제
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "영화제"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 523
 accepted: 192
 solved_users: 144
-acceptance_rate: 38.814%
-collected_at: 2026-04-17T10:46:39.953199+00:00
+acceptance_rate: "38.814%"
+collected_at: "2026-04-17T10:46:39.953199+00:00"
 ---
 
 ## 문제

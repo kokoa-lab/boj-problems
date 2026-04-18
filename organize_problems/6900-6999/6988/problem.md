@@ -1,13 +1,13 @@
 ---
-title: 타일 밟기
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "타일 밟기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 3258
 accepted: 793
 solved_users: 550
-acceptance_rate: 25.968%
-collected_at: 2026-04-17T11:42:09.013816+00:00
+acceptance_rate: "25.968%"
+collected_at: "2026-04-17T11:42:09.013816+00:00"
 ---
 
 ## 문제

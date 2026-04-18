@@ -1,13 +1,13 @@
 ---
-title: Solar Car
-special_judge: true
-time_limit: 10 초
-memory_limit: 512 MB
+title: "Solar Car"
+special_judge: "true"
+time_limit: "10 초"
+memory_limit: "512 MB"
 submissions: 27
 accepted: 12
 solved_users: 10
-acceptance_rate: 58.824%
-collected_at: 2026-04-17T16:10:10.199993+00:00
+acceptance_rate: "58.824%"
+collected_at: "2026-04-17T16:10:10.199993+00:00"
 ---
 
 ## 문제

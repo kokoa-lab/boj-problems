@@ -1,13 +1,13 @@
 ---
-title: GPS Encoding
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "GPS Encoding"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 152
 accepted: 56
 solved_users: 46
-acceptance_rate: 42.593%
-collected_at: 2026-04-17T10:39:46.855632+00:00
+acceptance_rate: "42.593%"
+collected_at: "2026-04-17T10:39:46.855632+00:00"
 ---
 
 ## 문제

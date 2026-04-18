@@ -1,13 +1,13 @@
 ---
-title: 장작 넣기
-special_judge: false
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "장작 넣기"
+special_judge: "false"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 1103
 accepted: 206
 solved_users: 152
-acceptance_rate: 18.953%
-collected_at: 2026-04-17T17:16:41.254844+00:00
+acceptance_rate: "18.953%"
+collected_at: "2026-04-17T17:16:41.254844+00:00"
 ---
 
 ## 문제

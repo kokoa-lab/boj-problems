@@ -1,13 +1,13 @@
 ---
-title: Rainbow Road Race
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Rainbow Road Race"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 28
 accepted: 22
 solved_users: 20
-acceptance_rate: 76.923%
-collected_at: 2026-04-17T16:18:34.224073+00:00
+acceptance_rate: "76.923%"
+collected_at: "2026-04-17T16:18:34.224073+00:00"
 ---
 
 ## 문제

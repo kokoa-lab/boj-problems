@@ -1,13 +1,13 @@
 ---
-title: Algorithm Speedup
-special_judge: false
-time_limit: 8 초
-memory_limit: 128 MB
+title: "Algorithm Speedup"
+special_judge: "false"
+time_limit: "8 초"
+memory_limit: "128 MB"
 submissions: 58
 accepted: 2
 solved_users: 2
-acceptance_rate: 4.000%
-collected_at: 2026-04-17T11:56:52.172370+00:00
+acceptance_rate: "4.000%"
+collected_at: "2026-04-17T11:56:52.172370+00:00"
 ---
 
 ## 문제

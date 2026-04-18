@@ -1,13 +1,13 @@
 ---
-title: 버스 노선
-special_judge: true
-time_limit: 2 초
-memory_limit: 128 MB
+title: "버스 노선"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 86
 accepted: 6
 solved_users: 2
-acceptance_rate: 7.143%
-collected_at: 2026-04-17T10:36:33.917410+00:00
+acceptance_rate: "7.143%"
+collected_at: "2026-04-17T10:36:33.917410+00:00"
 ---
 
 ## 문제

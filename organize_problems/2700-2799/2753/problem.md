@@ -1,13 +1,13 @@
 ---
-title: 윤년
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "윤년"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 502615
 accepted: 263077
 solved_users: 215807
-acceptance_rate: 51.871%
-collected_at: 2026-04-17T10:44:33.668520+00:00
+acceptance_rate: "51.871%"
+collected_at: "2026-04-17T10:44:33.668520+00:00"
 ---
 
 ## 문제

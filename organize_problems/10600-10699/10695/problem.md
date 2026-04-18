@@ -1,13 +1,13 @@
 ---
-title: Dalia
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Dalia"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 553
 accepted: 399
 solved_users: 351
-acceptance_rate: 72.074%
-collected_at: 2026-04-17T12:27:35.564128+00:00
+acceptance_rate: "72.074%"
+collected_at: "2026-04-17T12:27:35.564128+00:00"
 ---
 
 ## 문제

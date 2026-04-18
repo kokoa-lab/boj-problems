@@ -1,13 +1,13 @@
 ---
-title: Fields Division
-special_judge: true
-time_limit: 0.3 초
-memory_limit: 1024 MB
+title: "Fields Division"
+special_judge: "true"
+time_limit: "0.3 초"
+memory_limit: "1024 MB"
 submissions: 64
 accepted: 42
 solved_users: 40
-acceptance_rate: 66.667%
-collected_at: 2026-04-17T17:18:18.003196+00:00
+acceptance_rate: "66.667%"
+collected_at: "2026-04-17T17:18:18.003196+00:00"
 ---
 
 ## 문제

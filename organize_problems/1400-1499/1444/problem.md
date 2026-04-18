@@ -1,13 +1,13 @@
 ---
-title: 숌 언어
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "숌 언어"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 339
 accepted: 88
 solved_users: 68
-acceptance_rate: 36.170%
-collected_at: 2026-04-17T10:30:15.251156+00:00
+acceptance_rate: "36.170%"
+collected_at: "2026-04-17T10:30:15.251156+00:00"
 ---
 
 ## 문제

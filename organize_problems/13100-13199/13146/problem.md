@@ -1,13 +1,13 @@
 ---
-title: 같은 수로 만들기 2
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "같은 수로 만들기 2"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 1275
 accepted: 540
 solved_users: 388
-acceptance_rate: 43.891%
-collected_at: 2026-04-17T13:08:09.901683+00:00
+acceptance_rate: "43.891%"
+collected_at: "2026-04-17T13:08:09.901683+00:00"
 ---
 
 ## 문제

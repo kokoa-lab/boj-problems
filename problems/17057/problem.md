@@ -1,13 +1,13 @@
 ---
-title: Alice in the Digital World
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Alice in the Digital World"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 122
 accepted: 58
 solved_users: 30
-acceptance_rate: 38.961%
-collected_at: 2026-04-17T14:28:46.324382+00:00
+acceptance_rate: "38.961%"
+collected_at: "2026-04-17T14:28:46.324382+00:00"
 ---
 
 ## 문제

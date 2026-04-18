@@ -1,13 +1,13 @@
 ---
-title: 이상한 시행
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "이상한 시행"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 480
 accepted: 218
 solved_users: 169
-acceptance_rate: 50.904%
-collected_at: 2026-04-17T20:05:09.041534+00:00
+acceptance_rate: "50.904%"
+collected_at: "2026-04-17T20:05:09.041534+00:00"
 ---
 
 ## 문제

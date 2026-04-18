@@ -1,13 +1,13 @@
 ---
-title: binary는 호남선
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 512 MB (추가 메모리 없음)
+title: "binary는 호남선"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "512 MB (추가 메모리 없음)"
 submissions: 1467
 accepted: 753
 solved_users: 624
-acceptance_rate: 49.960%
-collected_at: 2026-04-17T16:46:04.141040+00:00
+acceptance_rate: "49.960%"
+collected_at: "2026-04-17T16:46:04.141040+00:00"
 ---
 
 ## 문제

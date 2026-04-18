@@ -1,13 +1,13 @@
 ---
-title: 직사각형으로 나누기
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "직사각형으로 나누기"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 4916
 accepted: 2048
 solved_users: 1590
-acceptance_rate: 42.265%
-collected_at: 2026-04-17T10:30:17.010988+00:00
+acceptance_rate: "42.265%"
+collected_at: "2026-04-17T10:30:17.010988+00:00"
 ---
 
 ## 문제

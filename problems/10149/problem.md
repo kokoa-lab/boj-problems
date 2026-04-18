@@ -1,13 +1,13 @@
 ---
-title: Budowa
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Budowa"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 17
 accepted: 1
 solved_users: 1
-acceptance_rate: 10.000%
-collected_at: 2026-04-17T12:19:40.648446+00:00
+acceptance_rate: "10.000%"
+collected_at: "2026-04-17T12:19:40.648446+00:00"
 ---
 
 ## 문제

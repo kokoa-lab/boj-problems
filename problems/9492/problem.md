@@ -1,13 +1,13 @@
 ---
-title: Perfect Shuffle
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Perfect Shuffle"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 510
 accepted: 368
 solved_users: 334
-acceptance_rate: 74.058%
-collected_at: 2026-04-17T12:10:29.734953+00:00
+acceptance_rate: "74.058%"
+collected_at: "2026-04-17T12:10:29.734953+00:00"
 ---
 
 ## 문제

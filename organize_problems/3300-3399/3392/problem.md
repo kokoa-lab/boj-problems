@@ -1,13 +1,13 @@
 ---
-title: 화성 지도
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "화성 지도"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 6232
 accepted: 2488
 solved_users: 1430
-acceptance_rate: 41.104%
-collected_at: 2026-04-17T10:48:37.621139+00:00
+acceptance_rate: "41.104%"
+collected_at: "2026-04-17T10:48:37.621139+00:00"
 ---
 
 ## 문제

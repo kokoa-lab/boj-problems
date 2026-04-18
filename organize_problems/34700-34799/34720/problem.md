@@ -1,13 +1,13 @@
 ---
-title: 유사 단어 찾기 2
-special_judge: false
-time_limit: 1.5 초
-memory_limit: 1024 MB
+title: "유사 단어 찾기 2"
+special_judge: "false"
+time_limit: "1.5 초"
+memory_limit: "1024 MB"
 submissions: 11
 accepted: 2
 solved_users: 2
-acceptance_rate: 100.000%
-collected_at: 2026-04-17T20:46:50.027008+00:00
+acceptance_rate: "100.000%"
+collected_at: "2026-04-17T20:46:50.027008+00:00"
 ---
 
 ## 문제

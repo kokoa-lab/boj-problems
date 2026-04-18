@@ -1,13 +1,13 @@
 ---
-title: Bikes and Barricades
-special_judge: true
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Bikes and Barricades"
+special_judge: "true"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 89
 accepted: 61
 solved_users: 57
-acceptance_rate: 67.857%
-collected_at: 2026-04-17T19:52:43.481361+00:00
+acceptance_rate: "67.857%"
+collected_at: "2026-04-17T19:52:43.481361+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 로봇 조종하기
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "로봇 조종하기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 20974
 accepted: 7970
 solved_users: 5711
-acceptance_rate: 37.060%
-collected_at: 2026-04-17T10:39:10.026472+00:00
+acceptance_rate: "37.060%"
+collected_at: "2026-04-17T10:39:10.026472+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 홀수 홀릭 호석
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "홀수 홀릭 호석"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 2763
 accepted: 1943
 solved_users: 1586
-acceptance_rate: 72.124%
-collected_at: 2026-04-17T15:32:31.958929+00:00
+acceptance_rate: "72.124%"
+collected_at: "2026-04-17T15:32:31.958929+00:00"
 ---
 
 ## 문제

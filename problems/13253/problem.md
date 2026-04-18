@@ -1,13 +1,13 @@
 ---
-title: 토러스
-special_judge: true
-time_limit: 2 초
-memory_limit: 512 MB
+title: "토러스"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 107
 accepted: 67
 solved_users: 52
-acceptance_rate: 76.471%
-collected_at: 2026-04-17T13:10:12.062434+00:00
+acceptance_rate: "76.471%"
+collected_at: "2026-04-17T13:10:12.062434+00:00"
 ---
 
 ## 문제

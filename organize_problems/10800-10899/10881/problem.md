@@ -1,13 +1,13 @@
 ---
-title: 프로도의 선물 포장
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "프로도의 선물 포장"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 789
 accepted: 385
 solved_users: 313
-acceptance_rate: 57.856%
-collected_at: 2026-04-17T12:30:58.092292+00:00
+acceptance_rate: "57.856%"
+collected_at: "2026-04-17T12:30:58.092292+00:00"
 ---
 
 ## 문제

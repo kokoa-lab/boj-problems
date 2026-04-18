@@ -1,13 +1,13 @@
 ---
-title: 비트와 가희
-special_judge: false
-time_limit: 0.5 초 (추가 시간 없음)
-memory_limit: 256 MB
+title: "비트와 가희"
+special_judge: "false"
+time_limit: "0.5 초 (추가 시간 없음)"
+memory_limit: "256 MB"
 submissions: 528
 accepted: 85
 solved_users: 62
-acceptance_rate: 17.765%
-collected_at: 2026-04-17T14:12:27.809375+00:00
+acceptance_rate: "17.765%"
+collected_at: "2026-04-17T14:12:27.809375+00:00"
 ---
 
 ## 문제

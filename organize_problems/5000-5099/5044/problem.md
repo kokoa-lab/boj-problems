@@ -1,13 +1,13 @@
 ---
-title: 코드 절도
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "코드 절도"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 507
 accepted: 61
 solved_users: 39
-acceptance_rate: 11.963%
-collected_at: 2026-04-17T11:11:06.074317+00:00
+acceptance_rate: "11.963%"
+collected_at: "2026-04-17T11:11:06.074317+00:00"
 ---
 
 ## 문제

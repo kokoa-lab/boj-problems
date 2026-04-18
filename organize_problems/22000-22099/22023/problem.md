@@ -1,13 +1,13 @@
 ---
-title: Distributing Candies
-special_judge: false
-time_limit: 4 초
-memory_limit: 2048 MB
+title: "Distributing Candies"
+special_judge: "false"
+time_limit: "4 초"
+memory_limit: "2048 MB"
 submissions: 197
 accepted: 77
 solved_users: 73
-acceptance_rate: 41.954%
-collected_at: 2026-04-17T16:11:39.303065+00:00
+acceptance_rate: "41.954%"
+collected_at: "2026-04-17T16:11:39.303065+00:00"
 ---
 
 ## 문제

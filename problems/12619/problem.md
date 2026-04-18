@@ -1,13 +1,13 @@
 ---
-title: Lights (Small)
-special_judge: true
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Lights (Small)"
+special_judge: "true"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 15
 accepted: 4
 solved_users: 3
-acceptance_rate: 27.273%
-collected_at: 2026-04-17T12:58:31.033313+00:00
+acceptance_rate: "27.273%"
+collected_at: "2026-04-17T12:58:31.033313+00:00"
 ---
 
 ## 문제

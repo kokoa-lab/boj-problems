@@ -1,13 +1,13 @@
 ---
-title: 미확인 도착지
-special_judge: false
-time_limit: 3 초
-memory_limit: 256 MB
+title: "미확인 도착지"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "256 MB"
 submissions: 35488
 accepted: 10703
 solved_users: 7013
-acceptance_rate: 26.587%
-collected_at: 2026-04-17T12:09:20.468516+00:00
+acceptance_rate: "26.587%"
+collected_at: "2026-04-17T12:09:20.468516+00:00"
 ---
 
 ## 문제

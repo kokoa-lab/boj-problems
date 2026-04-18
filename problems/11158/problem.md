@@ -1,13 +1,13 @@
 ---
-title: Angry Grammar Nazi
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Angry Grammar Nazi"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 475
 accepted: 206
 solved_users: 193
-acceptance_rate: 45.843%
-collected_at: 2026-04-17T12:37:20.244655+00:00
+acceptance_rate: "45.843%"
+collected_at: "2026-04-17T12:37:20.244655+00:00"
 ---
 
 ## 문제

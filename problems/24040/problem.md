@@ -1,13 +1,13 @@
 ---
-title: 예쁜 케이크
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "예쁜 케이크"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 2599
 accepted: 902
 solved_users: 752
-acceptance_rate: 36.311%
-collected_at: 2026-04-17T17:02:01.496391+00:00
+acceptance_rate: "36.311%"
+collected_at: "2026-04-17T17:02:01.496391+00:00"
 ---
 
 ## 문제

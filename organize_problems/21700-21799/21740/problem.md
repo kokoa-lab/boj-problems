@@ -1,13 +1,13 @@
 ---
-title: 도도의 수학놀이
-special_judge: false
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "도도의 수학놀이"
+special_judge: "false"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 2145
 accepted: 398
 solved_users: 273
-acceptance_rate: 19.570%
-collected_at: 2026-04-17T16:05:52.815656+00:00
+acceptance_rate: "19.570%"
+collected_at: "2026-04-17T16:05:52.815656+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 좋은 팀이란?
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "좋은 팀이란?"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 408
 accepted: 140
 solved_users: 108
-acceptance_rate: 36.986%
-collected_at: 2026-04-17T18:27:15.367418+00:00
+acceptance_rate: "36.986%"
+collected_at: "2026-04-17T18:27:15.367418+00:00"
 ---
 
 ## 문제

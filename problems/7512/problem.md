@@ -1,13 +1,13 @@
 ---
-title: 연속하는 소수의 합
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "연속하는 소수의 합"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 1511
 accepted: 293
 solved_users: 206
-acceptance_rate: 21.571%
-collected_at: 2026-04-17T11:50:08.001311+00:00
+acceptance_rate: "21.571%"
+collected_at: "2026-04-17T11:50:08.001311+00:00"
 ---
 
 ## 문제

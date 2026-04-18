@@ -1,13 +1,13 @@
 ---
-title: Remove the Tree
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "Remove the Tree"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 18
 accepted: 12
 solved_users: 12
-acceptance_rate: 92.308%
-collected_at: 2026-04-17T15:12:25.503258+00:00
+acceptance_rate: "92.308%"
+collected_at: "2026-04-17T15:12:25.503258+00:00"
 ---
 
 ## 문제

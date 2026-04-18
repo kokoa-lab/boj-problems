@@ -1,13 +1,13 @@
 ---
-title: Chicken Joggers
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Chicken Joggers"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 63
 accepted: 19
 solved_users: 15
-acceptance_rate: 27.778%
-collected_at: 2026-04-17T12:37:55.554245+00:00
+acceptance_rate: "27.778%"
+collected_at: "2026-04-17T12:37:55.554245+00:00"
 ---
 
 ## 문제

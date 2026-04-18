@@ -1,13 +1,13 @@
 ---
-title: 괄호 문자열 ?
-special_judge: false
-time_limit: 0.5 초
-memory_limit: 512 MB
+title: "괄호 문자열 ?"
+special_judge: "false"
+time_limit: "0.5 초"
+memory_limit: "512 MB"
 submissions: 643
 accepted: 279
 solved_users: 237
-acceptance_rate: 47.117%
-collected_at: 2026-04-17T15:30:57.757380+00:00
+acceptance_rate: "47.117%"
+collected_at: "2026-04-17T15:30:57.757380+00:00"
 ---
 
 ## 문제

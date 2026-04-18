@@ -1,13 +1,13 @@
 ---
-title: 카카오뷰 큐레이팅 효용성 분석
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "카카오뷰 큐레이팅 효용성 분석"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 1075
 accepted: 901
 solved_users: 828
-acceptance_rate: 84.490%
-collected_at: 2026-04-17T17:10:56.117726+00:00
+acceptance_rate: "84.490%"
+collected_at: "2026-04-17T17:10:56.117726+00:00"
 ---
 
 ## 문제

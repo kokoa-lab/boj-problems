@@ -1,13 +1,13 @@
 ---
-title: Misère
-special_judge: false
-time_limit: 2 초
-memory_limit: 2048 MB
+title: "Misère"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "2048 MB"
 submissions: 33
 accepted: 18
 solved_users: 14
-acceptance_rate: 58.333%
-collected_at: 2026-04-17T20:04:52.958866+00:00
+acceptance_rate: "58.333%"
+collected_at: "2026-04-17T20:04:52.958866+00:00"
 ---
 
 ## 문제

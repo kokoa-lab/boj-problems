@@ -1,13 +1,13 @@
 ---
-title: LIS on Tree
-special_judge: false
-time_limit: 4 초
-memory_limit: 2048 MB
+title: "LIS on Tree"
+special_judge: "false"
+time_limit: "4 초"
+memory_limit: "2048 MB"
 submissions: 98
 accepted: 21
 solved_users: 16
-acceptance_rate: 19.753%
-collected_at: 2026-04-17T20:22:53.848846+00:00
+acceptance_rate: "19.753%"
+collected_at: "2026-04-17T20:22:53.848846+00:00"
 ---
 
 ## 문제

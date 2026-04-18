@@ -1,13 +1,13 @@
 ---
-title: Hockey Scores
-special_judge: true
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Hockey Scores"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 81
 accepted: 18
 solved_users: 14
-acceptance_rate: 22.951%
-collected_at: 2026-04-17T11:40:24.917024+00:00
+acceptance_rate: "22.951%"
+collected_at: "2026-04-17T11:40:24.917024+00:00"
 ---
 
 ## 문제

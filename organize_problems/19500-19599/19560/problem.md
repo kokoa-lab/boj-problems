@@ -1,13 +1,13 @@
 ---
-title: Village
-special_judge: true
-time_limit: 0.7 초
-memory_limit: 256 MB
+title: "Village"
+special_judge: "true"
+time_limit: "0.7 초"
+memory_limit: "256 MB"
 submissions: 77
 accepted: 37
 solved_users: 34
-acceptance_rate: 55.738%
-collected_at: 2026-04-17T15:22:58.102050+00:00
+acceptance_rate: "55.738%"
+collected_at: "2026-04-17T15:22:58.102050+00:00"
 ---
 
 ## 문제

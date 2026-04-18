@@ -1,13 +1,13 @@
 ---
-title: 행렬 합
-special_judge: false
-time_limit: 2 초  ( 하단 참고 )
-memory_limit: 256 MB
+title: "행렬 합"
+special_judge: "false"
+time_limit: "2 초  ( 하단 참고 )"
+memory_limit: "256 MB"
 submissions: 121
 accepted: 23
 solved_users: 18
-acceptance_rate: 19.565%
-collected_at: 2026-04-17T15:15:45.163829+00:00
+acceptance_rate: "19.565%"
+collected_at: "2026-04-17T15:15:45.163829+00:00"
 ---
 
 ## 문제

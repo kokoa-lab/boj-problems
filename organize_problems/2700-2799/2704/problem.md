@@ -1,13 +1,13 @@
 ---
-title: 이진법 시계
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "이진법 시계"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 821
 accepted: 636
 solved_users: 569
-acceptance_rate: 79.916%
-collected_at: 2026-04-17T10:44:07.040658+00:00
+acceptance_rate: "79.916%"
+collected_at: "2026-04-17T10:44:07.040658+00:00"
 ---
 
 ## 문제

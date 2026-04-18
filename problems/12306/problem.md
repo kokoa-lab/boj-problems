@@ -1,13 +1,13 @@
 ---
-title: Are We Lost Yet? (Large)
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Are We Lost Yet? (Large)"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 21
 accepted: 14
 solved_users: 10
-acceptance_rate: 58.824%
-collected_at: 2026-04-17T12:53:18.904995+00:00
+acceptance_rate: "58.824%"
+collected_at: "2026-04-17T12:53:18.904995+00:00"
 ---
 
 ## 문제

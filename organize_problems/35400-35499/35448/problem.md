@@ -1,13 +1,13 @@
 ---
-title: I Don't Miss Pennies
-special_judge: false
-time_limit: 2 초
-memory_limit: 2048 MB
+title: "I Don't Miss Pennies"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "2048 MB"
 submissions: 23
 accepted: 14
 solved_users: 14
-acceptance_rate: 77.778%
-collected_at: 2026-04-17T21:07:05.933403+00:00
+acceptance_rate: "77.778%"
+collected_at: "2026-04-17T21:07:05.933403+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Birokracija
-special_judge: false
-time_limit: 1 초
-memory_limit: 64 MB
+title: "Birokracija"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "64 MB"
 submissions: 163
 accepted: 95
 solved_users: 81
-acceptance_rate: 62.308%
-collected_at: 2026-04-17T13:58:00.055239+00:00
+acceptance_rate: "62.308%"
+collected_at: "2026-04-17T13:58:00.055239+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Inverting bits (Hard)
-special_judge: true
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Inverting bits (Hard)"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 131
 accepted: 61
 solved_users: 25
-acceptance_rate: 39.683%
-collected_at: 2026-04-17T15:09:30.759053+00:00
+acceptance_rate: "39.683%"
+collected_at: "2026-04-17T15:09:30.759053+00:00"
 ---
 
 ## 문제

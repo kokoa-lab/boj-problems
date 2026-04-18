@@ -1,13 +1,13 @@
 ---
-title: 영리한 아리의 포탈 타기
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "영리한 아리의 포탈 타기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 1095
 accepted: 566
 solved_users: 478
-acceptance_rate: 54.195%
-collected_at: 2026-04-17T17:22:02.849935+00:00
+acceptance_rate: "54.195%"
+collected_at: "2026-04-17T17:22:02.849935+00:00"
 ---
 
 ## 문제

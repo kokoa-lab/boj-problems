@@ -1,13 +1,13 @@
 ---
-title: 바둑알 점프
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "바둑알 점프"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 476
 accepted: 211
 solved_users: 163
-acceptance_rate: 45.658%
-collected_at: 2026-04-17T14:40:28.891986+00:00
+acceptance_rate: "45.658%"
+collected_at: "2026-04-17T14:40:28.891986+00:00"
 ---
 
 ## 문제

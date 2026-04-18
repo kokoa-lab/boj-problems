@@ -1,13 +1,13 @@
 ---
-title: 피보나치 수열처럼 보이지만...
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "피보나치 수열처럼 보이지만..."
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 999
 accepted: 313
 solved_users: 201
-acceptance_rate: 35.017%
-collected_at: 2026-04-17T13:17:54.189963+00:00
+acceptance_rate: "35.017%"
+collected_at: "2026-04-17T13:17:54.189963+00:00"
 ---
 
 ## 문제

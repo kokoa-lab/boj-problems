@@ -1,13 +1,13 @@
 ---
-title: 버스
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "버스"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 610
 accepted: 224
 solved_users: 174
-acceptance_rate: 46.032%
-collected_at: 2026-04-17T10:28:33.242262+00:00
+acceptance_rate: "46.032%"
+collected_at: "2026-04-17T10:28:33.242262+00:00"
 ---
 
 ## 문제

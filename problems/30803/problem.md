@@ -1,13 +1,13 @@
 ---
-title: 수도꼭지
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "수도꼭지"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 1187
 accepted: 576
 solved_users: 517
-acceptance_rate: 48.545%
-collected_at: 2026-04-17T19:15:51.443494+00:00
+acceptance_rate: "48.545%"
+collected_at: "2026-04-17T19:15:51.443494+00:00"
 ---
 
 ## 문제

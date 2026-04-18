@@ -1,13 +1,13 @@
 ---
-title: 고양이에게 과자 나눠 주기
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "고양이에게 과자 나눠 주기"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 287
 accepted: 159
 solved_users: 127
-acceptance_rate: 55.947%
-collected_at: 2026-04-17T18:22:30.065018+00:00
+acceptance_rate: "55.947%"
+collected_at: "2026-04-17T18:22:30.065018+00:00"
 ---
 
 ## 문제

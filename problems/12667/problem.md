@@ -1,13 +1,13 @@
 ---
-title: Bridge Builders (Small)
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Bridge Builders (Small)"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 24
 accepted: 15
 solved_users: 15
-acceptance_rate: 71.429%
-collected_at: 2026-04-17T12:59:20.009577+00:00
+acceptance_rate: "71.429%"
+collected_at: "2026-04-17T12:59:20.009577+00:00"
 ---
 
 ## 문제

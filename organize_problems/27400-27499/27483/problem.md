@@ -1,13 +1,13 @@
 ---
-title: Round Corridor
-special_judge: true
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 256 MB
+title: "Round Corridor"
+special_judge: "true"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "256 MB"
 submissions: 64
 accepted: 52
 solved_users: 46
-acceptance_rate: 79.310%
-collected_at: 2026-04-17T18:04:11.941946+00:00
+acceptance_rate: "79.310%"
+collected_at: "2026-04-17T18:04:11.941946+00:00"
 ---
 
 ## 문제

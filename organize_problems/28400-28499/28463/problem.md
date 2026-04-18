@@ -1,13 +1,13 @@
 ---
-title: Toe Jumps
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Toe Jumps"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 536
 accepted: 317
 solved_users: 267
-acceptance_rate: 60.820%
-collected_at: 2026-04-17T18:27:11.883082+00:00
+acceptance_rate: "60.820%"
+collected_at: "2026-04-17T18:27:11.883082+00:00"
 ---
 
 ## 문제

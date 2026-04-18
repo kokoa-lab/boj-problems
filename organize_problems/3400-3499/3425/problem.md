@@ -1,13 +1,13 @@
 ---
-title: 고스택
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "고스택"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 17372
 accepted: 3007
 solved_users: 1977
-acceptance_rate: 15.852%
-collected_at: 2026-04-17T10:48:49.018695+00:00
+acceptance_rate: "15.852%"
+collected_at: "2026-04-17T10:48:49.018695+00:00"
 ---
 
 ## 문제

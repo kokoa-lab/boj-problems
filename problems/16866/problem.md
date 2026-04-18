@@ -1,13 +1,13 @@
 ---
-title: Car Vet
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Car Vet"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 40
 accepted: 19
 solved_users: 17
-acceptance_rate: 45.946%
-collected_at: 2026-04-17T14:25:24.282183+00:00
+acceptance_rate: "45.946%"
+collected_at: "2026-04-17T14:25:24.282183+00:00"
 ---
 
 ## 문제

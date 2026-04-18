@@ -1,13 +1,13 @@
 ---
-title: 책 정리
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "책 정리"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 3178
 accepted: 2239
 solved_users: 2012
-acceptance_rate: 72.846%
-collected_at: 2026-04-17T10:30:09.068295+00:00
+acceptance_rate: "72.846%"
+collected_at: "2026-04-17T10:30:09.068295+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Partition Number
-special_judge: false
-time_limit: 3 초
-memory_limit: 256 MB
+title: "Partition Number"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "256 MB"
 submissions: 26
 accepted: 15
 solved_users: 12
-acceptance_rate: 85.714%
-collected_at: 2026-04-17T15:39:03.781290+00:00
+acceptance_rate: "85.714%"
+collected_at: "2026-04-17T15:39:03.781290+00:00"
 ---
 
 ## 문제

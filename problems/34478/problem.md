@@ -1,13 +1,13 @@
 ---
-title: Bride of Pipe Stream
-special_judge: true
-time_limit: 12 초
-memory_limit: 2048 MB
+title: "Bride of Pipe Stream"
+special_judge: "true"
+time_limit: "12 초"
+memory_limit: "2048 MB"
 submissions: 19
 accepted: 8
 solved_users: 8
-acceptance_rate: 53.333%
-collected_at: 2026-04-17T20:40:19.668814+00:00
+acceptance_rate: "53.333%"
+collected_at: "2026-04-17T20:40:19.668814+00:00"
 ---
 
 ## 문제

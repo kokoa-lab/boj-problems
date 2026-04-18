@@ -1,13 +1,13 @@
 ---
-title: Polygon Partition
-special_judge: true
-time_limit: 3 초
-memory_limit: 2048 MB
+title: "Polygon Partition"
+special_judge: "true"
+time_limit: "3 초"
+memory_limit: "2048 MB"
 submissions: 10
 accepted: 9
 solved_users: 9
-acceptance_rate: 100.000%
-collected_at: 2026-04-17T20:34:25.376635+00:00
+acceptance_rate: "100.000%"
+collected_at: "2026-04-17T20:34:25.376635+00:00"
 ---
 
 ## 문제

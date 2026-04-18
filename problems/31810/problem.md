@@ -1,13 +1,13 @@
 ---
-title: 마법의 도넛 게임
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "마법의 도넛 게임"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 14
 accepted: 7
 solved_users: 5
-acceptance_rate: 50.000%
-collected_at: 2026-04-17T19:37:01.144748+00:00
+acceptance_rate: "50.000%"
+collected_at: "2026-04-17T19:37:01.144748+00:00"
 ---
 
 ## 문제

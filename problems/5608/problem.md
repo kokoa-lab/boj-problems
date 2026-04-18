@@ -1,13 +1,13 @@
 ---
-title: 問題 ２
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "問題 ２"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 382
 accepted: 284
 solved_users: 224
-acceptance_rate: 74.667%
-collected_at: 2026-04-17T11:15:58.081261+00:00
+acceptance_rate: "74.667%"
+collected_at: "2026-04-17T11:15:58.081261+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Lozinke
-special_judge: false
-time_limit: 1 초
-memory_limit: 64 MB
+title: "Lozinke"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "64 MB"
 submissions: 112
 accepted: 69
 solved_users: 53
-acceptance_rate: 63.095%
-collected_at: 2026-04-17T13:47:15.327608+00:00
+acceptance_rate: "63.095%"
+collected_at: "2026-04-17T13:47:15.327608+00:00"
 ---
 
 ## 문제

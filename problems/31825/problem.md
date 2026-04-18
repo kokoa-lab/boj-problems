@@ -1,13 +1,13 @@
 ---
-title: 알파벳과 쿼리 (Easy)
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "알파벳과 쿼리 (Easy)"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 553
 accepted: 370
 solved_users: 328
-acceptance_rate: 66.397%
-collected_at: 2026-04-17T19:37:15.930648+00:00
+acceptance_rate: "66.397%"
+collected_at: "2026-04-17T19:37:15.930648+00:00"
 ---
 
 ## 문제

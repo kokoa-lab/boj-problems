@@ -1,13 +1,13 @@
 ---
-title: samba
-special_judge: false
-time_limit: 1 초
-memory_limit: 64 MB
+title: "samba"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "64 MB"
 submissions: 233
 accepted: 161
 solved_users: 137
-acceptance_rate: 75.275%
-collected_at: 2026-04-17T11:12:50.859177+00:00
+acceptance_rate: "75.275%"
+collected_at: "2026-04-17T11:12:50.859177+00:00"
 ---
 
 ## 문제

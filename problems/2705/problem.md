@@ -1,13 +1,13 @@
 ---
-title: 팰린드롬 파티션
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "팰린드롬 파티션"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 1572
 accepted: 991
 solved_users: 743
-acceptance_rate: 67.301%
-collected_at: 2026-04-17T10:44:05.865539+00:00
+acceptance_rate: "67.301%"
+collected_at: "2026-04-17T10:44:05.865539+00:00"
 ---
 
 ## 문제

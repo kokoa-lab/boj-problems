@@ -1,13 +1,13 @@
 ---
-title: 초콜릿 훔쳐 먹기
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "초콜릿 훔쳐 먹기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 442
 accepted: 117
 solved_users: 76
-acceptance_rate: 28.044%
-collected_at: 2026-04-17T17:09:43.202040+00:00
+acceptance_rate: "28.044%"
+collected_at: "2026-04-17T17:09:43.202040+00:00"
 ---
 
 ## 문제

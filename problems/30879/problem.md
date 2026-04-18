@@ -1,13 +1,13 @@
 ---
-title: 저녁 뭐 먹지?
-special_judge: false
-time_limit: 2.5 초
-memory_limit: 1024 MB
+title: "저녁 뭐 먹지?"
+special_judge: "false"
+time_limit: "2.5 초"
+memory_limit: "1024 MB"
 submissions: 382
 accepted: 129
 solved_users: 78
-acceptance_rate: 34.211%
-collected_at: 2026-04-17T19:17:24.555447+00:00
+acceptance_rate: "34.211%"
+collected_at: "2026-04-17T19:17:24.555447+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 레이저 타워
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "레이저 타워"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 38
 accepted: 5
 solved_users: 5
-acceptance_rate: 27.778%
-collected_at: 2026-04-17T13:13:07.400092+00:00
+acceptance_rate: "27.778%"
+collected_at: "2026-04-17T13:13:07.400092+00:00"
 ---
 
 ## 문제

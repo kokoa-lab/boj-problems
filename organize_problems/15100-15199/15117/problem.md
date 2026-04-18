@@ -1,13 +1,13 @@
 ---
-title: Latin Squares
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Latin Squares"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 307
 accepted: 186
 solved_users: 165
-acceptance_rate: 60.886%
-collected_at: 2026-04-17T13:51:25.932866+00:00
+acceptance_rate: "60.886%"
+collected_at: "2026-04-17T13:51:25.932866+00:00"
 ---
 
 ## 문제

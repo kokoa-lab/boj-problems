@@ -1,13 +1,13 @@
 ---
-title: Tautogram
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Tautogram"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 1612
 accepted: 1081
 solved_users: 939
-acceptance_rate: 67.505%
-collected_at: 2026-04-17T11:16:41.336673+00:00
+acceptance_rate: "67.505%"
+collected_at: "2026-04-17T11:16:41.336673+00:00"
 ---
 
 ## 문제

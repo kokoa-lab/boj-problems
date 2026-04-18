@@ -1,13 +1,13 @@
 ---
-title: Maksimaalne tõus
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Maksimaalne tõus"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 53
 accepted: 39
 solved_users: 31
-acceptance_rate: 72.093%
-collected_at: 2026-04-17T18:56:27.187766+00:00
+acceptance_rate: "72.093%"
+collected_at: "2026-04-17T18:56:27.187766+00:00"
 ---
 
 ## 문제

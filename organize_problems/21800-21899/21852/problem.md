@@ -1,13 +1,13 @@
 ---
-title: 밀림 점프
-special_judge: false
-time_limit: 3 초
-memory_limit: 1024 MB
+title: "밀림 점프"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "1024 MB"
 submissions: 230
 accepted: 41
 solved_users: 26
-acceptance_rate: 18.841%
-collected_at: 2026-04-17T16:08:54.341210+00:00
+acceptance_rate: "18.841%"
+collected_at: "2026-04-17T16:08:54.341210+00:00"
 ---
 
 ## 문제

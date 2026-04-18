@@ -1,13 +1,13 @@
 ---
-title: Alice and Bomb
-special_judge: true
-time_limit: 8 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "Alice and Bomb"
+special_judge: "true"
+time_limit: "8 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 64
 accepted: 5
 solved_users: 4
-acceptance_rate: 6.780%
-collected_at: 2026-04-17T13:19:49.328062+00:00
+acceptance_rate: "6.780%"
+collected_at: "2026-04-17T13:19:49.328062+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Lineup the Dominoes
-special_judge: false
-time_limit: 3 초
-memory_limit: 1024 MB
+title: "Lineup the Dominoes"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "1024 MB"
 submissions: 18
 accepted: 10
 solved_users: 10
-acceptance_rate: 55.556%
-collected_at: 2026-04-17T17:36:26.359632+00:00
+acceptance_rate: "55.556%"
+collected_at: "2026-04-17T17:36:26.359632+00:00"
 ---
 
 ## 문제

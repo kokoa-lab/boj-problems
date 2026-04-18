@@ -1,13 +1,13 @@
 ---
-title: 선물의 재분배
-special_judge: true
-time_limit: 1 초
-memory_limit: 256 MB
+title: "선물의 재분배"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 370
 accepted: 104
 solved_users: 80
-acceptance_rate: 30.651%
-collected_at: 2026-04-17T17:40:56.023027+00:00
+acceptance_rate: "30.651%"
+collected_at: "2026-04-17T17:40:56.023027+00:00"
 ---
 
 ## 문제

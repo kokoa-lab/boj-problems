@@ -1,13 +1,13 @@
 ---
-title: ACM-UCPC
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "ACM-UCPC"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 103
 accepted: 58
 solved_users: 44
-acceptance_rate: 70.968%
-collected_at: 2026-04-17T12:06:38.444035+00:00
+acceptance_rate: "70.968%"
+collected_at: "2026-04-17T12:06:38.444035+00:00"
 ---
 
 ## 문제

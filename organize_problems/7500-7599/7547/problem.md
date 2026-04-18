@@ -1,13 +1,13 @@
 ---
-title: Heavy Transportation
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Heavy Transportation"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 125
 accepted: 58
 solved_users: 38
-acceptance_rate: 38.384%
-collected_at: 2026-04-17T11:50:32.341478+00:00
+acceptance_rate: "38.384%"
+collected_at: "2026-04-17T11:50:32.341478+00:00"
 ---
 
 ## 문제

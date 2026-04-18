@@ -1,13 +1,13 @@
 ---
-title: Recipe
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Recipe"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 398
 accepted: 54
 solved_users: 40
-acceptance_rate: 14.235%
-collected_at: 2026-04-17T14:06:03.366129+00:00
+acceptance_rate: "14.235%"
+collected_at: "2026-04-17T14:06:03.366129+00:00"
 ---
 
 ## 문제

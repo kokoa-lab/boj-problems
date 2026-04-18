@@ -1,13 +1,13 @@
 ---
-title: FLYING HIGH WITH U
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "FLYING HIGH WITH U"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 133
 accepted: 80
 solved_users: 64
-acceptance_rate: 60.377%
-collected_at: 2026-04-17T21:11:11.316593+00:00
+acceptance_rate: "60.377%"
+collected_at: "2026-04-17T21:11:11.316593+00:00"
 ---
 
 ## 문제

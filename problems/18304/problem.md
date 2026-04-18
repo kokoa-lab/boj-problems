@@ -1,13 +1,13 @@
 ---
-title: River Game
-special_judge: false
-time_limit: 0.5 초
-memory_limit: 512 MB
+title: "River Game"
+special_judge: "false"
+time_limit: "0.5 초"
+memory_limit: "512 MB"
 submissions: 41
 accepted: 24
 solved_users: 24
-acceptance_rate: 58.537%
-collected_at: 2026-04-17T14:59:05.373787+00:00
+acceptance_rate: "58.537%"
+collected_at: "2026-04-17T14:59:05.373787+00:00"
 ---
 
 ## 문제

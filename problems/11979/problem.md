@@ -1,13 +1,13 @@
 ---
-title: Fort Moo
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Fort Moo"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 103
 accepted: 61
 solved_users: 59
-acceptance_rate: 59.000%
-collected_at: 2026-04-17T12:48:29.432909+00:00
+acceptance_rate: "59.000%"
+collected_at: "2026-04-17T12:48:29.432909+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Beads
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Beads"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 703
 accepted: 332
 solved_users: 280
-acceptance_rate: 44.944%
-collected_at: 2026-04-17T12:37:13.790969+00:00
+acceptance_rate: "44.944%"
+collected_at: "2026-04-17T12:37:13.790969+00:00"
 ---
 
 ## 문제

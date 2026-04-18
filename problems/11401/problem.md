@@ -1,13 +1,13 @@
 ---
-title: 이항 계수 3
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "이항 계수 3"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 37687
 accepted: 14229
 solved_users: 10512
-acceptance_rate: 40.531%
-collected_at: 2026-04-17T12:40:16.867393+00:00
+acceptance_rate: "40.531%"
+collected_at: "2026-04-17T12:40:16.867393+00:00"
 ---
 
 ## 문제

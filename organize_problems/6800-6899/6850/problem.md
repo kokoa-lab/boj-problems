@@ -1,13 +1,13 @@
 ---
-title: Cows
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Cows"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 2560
 accepted: 1101
 solved_users: 777
-acceptance_rate: 42.459%
-collected_at: 2026-04-17T11:39:34.380816+00:00
+acceptance_rate: "42.459%"
+collected_at: "2026-04-17T11:39:34.380816+00:00"
 ---
 
 ## 문제

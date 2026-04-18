@@ -1,13 +1,13 @@
 ---
-title: Strange Graph
-special_judge: true
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Strange Graph"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 16
 accepted: 7
 solved_users: 7
-acceptance_rate: 50.000%
-collected_at: 2026-04-17T12:14:50.699920+00:00
+acceptance_rate: "50.000%"
+collected_at: "2026-04-17T12:14:50.699920+00:00"
 ---
 
 ## 문제

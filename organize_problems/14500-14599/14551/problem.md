@@ -1,13 +1,13 @@
 ---
-title: Card Game Contest
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Card Game Contest"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 1463
 accepted: 588
 solved_users: 522
-acceptance_rate: 40.845%
-collected_at: 2026-04-17T13:37:50.946416+00:00
+acceptance_rate: "40.845%"
+collected_at: "2026-04-17T13:37:50.946416+00:00"
 ---
 
 ## 문제

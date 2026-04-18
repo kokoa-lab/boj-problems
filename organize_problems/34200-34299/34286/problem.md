@@ -1,13 +1,13 @@
 ---
-title: Accomplices
-special_judge: false
-time_limit: 2 초
-memory_limit: 2048 MB
+title: "Accomplices"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "2048 MB"
 submissions: 33
 accepted: 26
 solved_users: 21
-acceptance_rate: 80.769%
-collected_at: 2026-04-17T20:34:38.180739+00:00
+acceptance_rate: "80.769%"
+collected_at: "2026-04-17T20:34:38.180739+00:00"
 ---
 
 ## 문제

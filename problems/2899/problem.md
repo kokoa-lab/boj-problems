@@ -1,13 +1,13 @@
 ---
-title: 구슬 없애기
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "구슬 없애기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 323
 accepted: 106
 solved_users: 85
-acceptance_rate: 31.365%
-collected_at: 2026-04-17T10:45:34.834123+00:00
+acceptance_rate: "31.365%"
+collected_at: "2026-04-17T10:45:34.834123+00:00"
 ---
 
 ## 문제

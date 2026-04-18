@@ -1,13 +1,13 @@
 ---
-title: Rolling The Dice
-special_judge: false
-time_limit: 1 초
-memory_limit: 2048 MB
+title: "Rolling The Dice"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "2048 MB"
 submissions: 72
 accepted: 52
 solved_users: 42
-acceptance_rate: 67.742%
-collected_at: 2026-04-17T20:37:58.940307+00:00
+acceptance_rate: "67.742%"
+collected_at: "2026-04-17T20:37:58.940307+00:00"
 ---
 
 ## 문제

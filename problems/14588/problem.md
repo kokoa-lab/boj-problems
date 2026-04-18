@@ -1,13 +1,13 @@
 ---
-title: Line Friends (Small)
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "Line Friends (Small)"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 1217
 accepted: 656
 solved_users: 502
-acceptance_rate: 55.347%
-collected_at: 2026-04-17T13:38:45.519042+00:00
+acceptance_rate: "55.347%"
+collected_at: "2026-04-17T13:38:45.519042+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 피아의 아틀리에 ~신비한 생명의 연금술사~
-special_judge: false
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "피아의 아틀리에 ~신비한 생명의 연금술사~"
+special_judge: "false"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 135
 accepted: 37
 solved_users: 30
-acceptance_rate: 28.302%
-collected_at: 2026-04-17T14:09:00.695546+00:00
+acceptance_rate: "28.302%"
+collected_at: "2026-04-17T14:09:00.695546+00:00"
 ---
 
 ## 문제

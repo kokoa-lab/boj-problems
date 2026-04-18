@@ -1,13 +1,13 @@
 ---
-title: Live Programming
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Live Programming"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 53
 accepted: 24
 solved_users: 22
-acceptance_rate: 51.163%
-collected_at: 2026-04-17T14:24:32.606516+00:00
+acceptance_rate: "51.163%"
+collected_at: "2026-04-17T14:24:32.606516+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Friend or Foe?
-special_judge: true
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Friend or Foe?"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 62
 accepted: 22
 solved_users: 11
-acceptance_rate: 33.333%
-collected_at: 2026-04-17T10:57:54.823691+00:00
+acceptance_rate: "33.333%"
+collected_at: "2026-04-17T10:57:54.823691+00:00"
 ---
 
 ## 문제

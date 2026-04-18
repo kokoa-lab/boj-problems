@@ -1,13 +1,13 @@
 ---
-title: Angles
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Angles"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 851
 accepted: 704
 solved_users: 671
-acceptance_rate: 82.737%
-collected_at: 2026-04-17T13:53:57.375855+00:00
+acceptance_rate: "82.737%"
+collected_at: "2026-04-17T13:53:57.375855+00:00"
 ---
 
 ## 문제

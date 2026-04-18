@@ -1,13 +1,13 @@
 ---
-title: Step Aerobics
-special_judge: false
-time_limit: 8 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "Step Aerobics"
+special_judge: "false"
+time_limit: "8 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 53
 accepted: 45
 solved_users: 41
-acceptance_rate: 83.673%
-collected_at: 2026-04-17T16:20:53.384708+00:00
+acceptance_rate: "83.673%"
+collected_at: "2026-04-17T16:20:53.384708+00:00"
 ---
 
 ## 문제

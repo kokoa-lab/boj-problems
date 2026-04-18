@@ -1,13 +1,13 @@
 ---
-title: 알파벳 다이아몬드
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "알파벳 다이아몬드"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 1650
 accepted: 581
 solved_users: 505
-acceptance_rate: 37.574%
-collected_at: 2026-04-17T10:29:08.122469+00:00
+acceptance_rate: "37.574%"
+collected_at: "2026-04-17T10:29:08.122469+00:00"
 ---
 
 ## 문제
@@ -18,7 +18,56 @@ collected_at: 2026-04-17T10:29:08.122469+00:00
 
 |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| ```  a ``` | ```  .b. bab .b. ``` | ```  ..c.. .cbc. cbabc .cbc. ..c.. ``` | ```  ...d... ..dcd.. .dcbcd. dcbabcd .dcbcd. ..dcd.. ...d... ``` | ```  ....e.... ...ede... ..edcde.. .edcbcde. edcbabcde .edcbcde. ..edcde.. ...ede... ....e.... ``` | ```  .....f..... ....fef.... ...fedef... ..fedcdef.. .fedcbcdef. fedcbabcdef .fedcbcdef. ..fedcdef.. ...fedef... ....fef.... .....f..... ``` | ```  ......g...... .....gfg..... ....gfefg.... ...gfedefg... ..gfedcdefg.. .gfedcbcdefg. gfedcbabcdefg .gfedcbcdefg. ..gfedcdefg.. ...gfedefg... ....gfefg.... .....gfg..... ......g...... ``` |
+| ``` 
+ a ``` | ``` 
+ .b.
+ bab
+ .b. ``` | ``` 
+ ..c..
+ .cbc.
+ cbabc
+ .cbc.
+ ..c.. ``` | ``` 
+ ...d...
+ ..dcd..
+ .dcbcd.
+ dcbabcd
+ .dcbcd.
+ ..dcd..
+ ...d... ``` | ``` 
+ ....e....
+ ...ede...
+ ..edcde..
+ .edcbcde.
+ edcbabcde
+ .edcbcde.
+ ..edcde..
+ ...ede...
+ ....e.... ``` | ``` 
+ .....f.....
+ ....fef....
+ ...fedef...
+ ..fedcdef..
+ .fedcbcdef.
+ fedcbabcdef
+ .fedcbcdef.
+ ..fedcdef..
+ ...fedef...
+ ....fef....
+ .....f..... ``` | ``` 
+ ......g......
+ .....gfg.....
+ ....gfefg....
+ ...gfedefg...
+ ..gfedcdefg..
+ .gfedcbcdefg.
+ gfedcbabcdefg
+ .gfedcbcdefg.
+ ..gfedcdefg..
+ ...gfedefg...
+ ....gfefg....
+ .....gfg.....
+ ......g...... ``` |
 | N = 1 | N = 2 | N = 3 | N = 4 | N = 5 | N = 6 | N = 7 |
 
 동호는 이런 알파벳 다이아몬드를 타일로 만들어서, 방 바닥을 타일로 모두 채웠다. 예를 들어, N = 5인 아스키 다이아몬드를 세로 크기가 17, 가로 크기가 46인 방에 채운다면 다음과 같은 모양이 된다.

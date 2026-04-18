@@ -1,13 +1,13 @@
 ---
-title: RPG
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "RPG"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 5616
 accepted: 1486
 solved_users: 978
-acceptance_rate: 26.526%
-collected_at: 2026-04-17T10:29:25.284865+00:00
+acceptance_rate: "26.526%"
+collected_at: "2026-04-17T10:29:25.284865+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: High Score
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "High Score"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 359
 accepted: 113
 solved_users: 83
-acceptance_rate: 32.422%
-collected_at: 2026-04-17T14:02:34.969384+00:00
+acceptance_rate: "32.422%"
+collected_at: "2026-04-17T14:02:34.969384+00:00"
 ---
 
 ## 문제

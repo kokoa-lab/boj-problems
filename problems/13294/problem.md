@@ -1,13 +1,13 @@
 ---
-title: 역팩토리얼
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "역팩토리얼"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 2056
 accepted: 534
 solved_users: 333
-acceptance_rate: 30.550%
-collected_at: 2026-04-17T13:11:00.309634+00:00
+acceptance_rate: "30.550%"
+collected_at: "2026-04-17T13:11:00.309634+00:00"
 ---
 
 ## 문제

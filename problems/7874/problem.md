@@ -1,13 +1,13 @@
 ---
-title: Everybody may get lost in space
-special_judge: true
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Everybody may get lost in space"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 123
 accepted: 12
 solved_users: 6
-acceptance_rate: 7.895%
-collected_at: 2026-04-17T11:53:40.705101+00:00
+acceptance_rate: "7.895%"
+collected_at: "2026-04-17T11:53:40.705101+00:00"
 ---
 
 ## 문제

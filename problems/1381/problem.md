@@ -1,13 +1,13 @@
 ---
-title: 요구르트의 유통기한
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "요구르트의 유통기한"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 349
 accepted: 62
 solved_users: 39
-acceptance_rate: 16.596%
-collected_at: 2026-04-17T10:29:46.813019+00:00
+acceptance_rate: "16.596%"
+collected_at: "2026-04-17T10:29:46.813019+00:00"
 ---
 
 ## 문제

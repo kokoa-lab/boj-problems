@@ -1,13 +1,13 @@
 ---
-title: 사탕 돌리기
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "사탕 돌리기"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 1243
 accepted: 342
 solved_users: 227
-acceptance_rate: 27.415%
-collected_at: 2026-04-17T15:32:51.056351+00:00
+acceptance_rate: "27.415%"
+collected_at: "2026-04-17T15:32:51.056351+00:00"
 ---
 
 ## 문제

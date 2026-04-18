@@ -1,13 +1,13 @@
 ---
-title: And Then There Was 5
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "And Then There Was 5"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 398
 accepted: 352
 solved_users: 299
-acceptance_rate: 91.159%
-collected_at: 2026-04-17T12:41:44.843259+00:00
+acceptance_rate: "91.159%"
+collected_at: "2026-04-17T12:41:44.843259+00:00"
 ---
 
 ## 문제

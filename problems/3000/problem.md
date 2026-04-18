@@ -1,13 +1,13 @@
 ---
-title: 직각 삼각형
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "직각 삼각형"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 1625
 accepted: 685
 solved_users: 543
-acceptance_rate: 44.508%
-collected_at: 2026-04-17T10:46:09.510266+00:00
+acceptance_rate: "44.508%"
+collected_at: "2026-04-17T10:46:09.510266+00:00"
 ---
 
 ## 문제

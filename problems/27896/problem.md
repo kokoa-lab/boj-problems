@@ -1,13 +1,13 @@
 ---
-title: 특별한 서빙
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "특별한 서빙"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 1450
 accepted: 494
 solved_users: 446
-acceptance_rate: 36.438%
-collected_at: 2026-04-17T18:13:59.546072+00:00
+acceptance_rate: "36.438%"
+collected_at: "2026-04-17T18:13:59.546072+00:00"
 ---
 
 ## 문제

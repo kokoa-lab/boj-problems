@@ -1,13 +1,13 @@
 ---
-title: K번째 소수
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "K번째 소수"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 8111
 accepted: 3111
 solved_users: 2379
-acceptance_rate: 40.827%
-collected_at: 2026-04-17T14:09:15.059698+00:00
+acceptance_rate: "40.827%"
+collected_at: "2026-04-17T14:09:15.059698+00:00"
 ---
 
 ## 문제

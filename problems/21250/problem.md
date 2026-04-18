@@ -1,13 +1,13 @@
 ---
-title: Binary Search Tree
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Binary Search Tree"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 7
 accepted: 2
 solved_users: 2
-acceptance_rate: 100.000%
-collected_at: 2026-04-17T15:51:44.424490+00:00
+acceptance_rate: "100.000%"
+collected_at: "2026-04-17T15:51:44.424490+00:00"
 ---
 
 ## 문제

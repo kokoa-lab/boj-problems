@@ -1,13 +1,13 @@
 ---
-title: Problematic Public Keys
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Problematic Public Keys"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 113
 accepted: 81
 solved_users: 52
-acceptance_rate: 68.421%
-collected_at: 2026-04-17T14:48:53.413041+00:00
+acceptance_rate: "68.421%"
+collected_at: "2026-04-17T14:48:53.413041+00:00"
 ---
 
 ## 문제

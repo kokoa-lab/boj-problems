@@ -1,13 +1,13 @@
 ---
-title: Bermutation
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "Bermutation"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 4
 accepted: 0
 solved_users: 0
-acceptance_rate: 0.000%
-collected_at: 2026-04-17T15:14:47.064245+00:00
+acceptance_rate: "0.000%"
+collected_at: "2026-04-17T15:14:47.064245+00:00"
 ---
 
 ## 문제

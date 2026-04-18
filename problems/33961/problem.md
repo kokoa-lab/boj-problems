@@ -1,13 +1,13 @@
 ---
-title: 체스평평설
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "체스평평설"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 243
 accepted: 95
 solved_users: 82
-acceptance_rate: 38.140%
-collected_at: 2026-04-17T20:27:16.582450+00:00
+acceptance_rate: "38.140%"
+collected_at: "2026-04-17T20:27:16.582450+00:00"
 ---
 
 ## 문제

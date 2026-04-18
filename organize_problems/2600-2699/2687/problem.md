@@ -1,13 +1,13 @@
 ---
-title: 팩스 받기
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "팩스 받기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 155
 accepted: 71
 solved_users: 53
-acceptance_rate: 44.167%
-collected_at: 2026-04-17T10:43:55.248180+00:00
+acceptance_rate: "44.167%"
+collected_at: "2026-04-17T10:43:55.248180+00:00"
 ---
 
 ## 문제

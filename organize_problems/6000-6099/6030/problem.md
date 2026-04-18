@@ -1,13 +1,13 @@
 ---
-title: Scavenger Hunt
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Scavenger Hunt"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 1357
 accepted: 1003
 solved_users: 941
-acceptance_rate: 75.704%
-collected_at: 2026-04-17T11:19:32.684838+00:00
+acceptance_rate: "75.704%"
+collected_at: "2026-04-17T11:19:32.684838+00:00"
 ---
 
 ## 문제

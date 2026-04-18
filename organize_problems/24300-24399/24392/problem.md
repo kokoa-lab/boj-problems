@@ -1,13 +1,13 @@
 ---
-title: 영재의 징검다리
-special_judge: false
-time_limit: 0.5 초
-memory_limit: 512 MB
+title: "영재의 징검다리"
+special_judge: "false"
+time_limit: "0.5 초"
+memory_limit: "512 MB"
 submissions: 1530
 accepted: 603
 solved_users: 462
-acceptance_rate: 38.119%
-collected_at: 2026-04-17T17:08:42.821006+00:00
+acceptance_rate: "38.119%"
+collected_at: "2026-04-17T17:08:42.821006+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Network Saboteur
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Network Saboteur"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 36
 accepted: 23
 solved_users: 22
-acceptance_rate: 73.333%
-collected_at: 2026-04-17T11:53:33.471701+00:00
+acceptance_rate: "73.333%"
+collected_at: "2026-04-17T11:53:33.471701+00:00"
 ---
 
 ## 문제

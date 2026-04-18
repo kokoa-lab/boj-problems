@@ -1,13 +1,13 @@
 ---
-title: The Easiest Problem is This One
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "The Easiest Problem is This One"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 184
 accepted: 167
 solved_users: 148
-acceptance_rate: 92.500%
-collected_at: 2026-04-17T11:31:53.589482+00:00
+acceptance_rate: "92.500%"
+collected_at: "2026-04-17T11:31:53.589482+00:00"
 ---
 
 ## 문제

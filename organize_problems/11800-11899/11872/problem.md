@@ -1,13 +1,13 @@
 ---
-title: 님 게임 나누기
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "님 게임 나누기"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 819
 accepted: 459
 solved_users: 424
-acceptance_rate: 56.684%
-collected_at: 2026-04-17T12:47:13.486648+00:00
+acceptance_rate: "56.684%"
+collected_at: "2026-04-17T12:47:13.486648+00:00"
 ---
 
 ## 문제

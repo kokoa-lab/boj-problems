@@ -1,13 +1,13 @@
 ---
-title: Three Points for a Win
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Three Points for a Win"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 475
 accepted: 429
 solved_users: 389
-acceptance_rate: 91.745%
-collected_at: 2026-04-17T15:45:43.212675+00:00
+acceptance_rate: "91.745%"
+collected_at: "2026-04-17T15:45:43.212675+00:00"
 ---
 
 ## 문제

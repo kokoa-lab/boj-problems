@@ -1,13 +1,13 @@
 ---
-title: 스타트와 링크
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "스타트와 링크"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 125357
 accepted: 63089
 solved_users: 37658
-acceptance_rate: 47.349%
-collected_at: 2026-04-17T13:44:03.773693+00:00
+acceptance_rate: "47.349%"
+collected_at: "2026-04-17T13:44:03.773693+00:00"
 ---
 
 ## 문제

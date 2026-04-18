@@ -1,13 +1,13 @@
 ---
-title: Tourism
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Tourism"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 34
 accepted: 12
 solved_users: 10
-acceptance_rate: 38.462%
-collected_at: 2026-04-17T14:52:25.295031+00:00
+acceptance_rate: "38.462%"
+collected_at: "2026-04-17T14:52:25.295031+00:00"
 ---
 
 ## 문제

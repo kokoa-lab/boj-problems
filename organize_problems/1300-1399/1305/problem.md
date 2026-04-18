@@ -1,13 +1,13 @@
 ---
-title: 광고
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "광고"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 10233
 accepted: 5538
 solved_users: 4519
-acceptance_rate: 56.750%
-collected_at: 2026-04-17T10:29:22.949585+00:00
+acceptance_rate: "56.750%"
+collected_at: "2026-04-17T10:29:22.949585+00:00"
 ---
 
 ## 문제

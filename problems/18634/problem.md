@@ -1,13 +1,13 @@
 ---
-title: k-coloring
-special_judge: true
-time_limit: 2 초
-memory_limit: 512 MB
+title: "k-coloring"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 54
 accepted: 19
 solved_users: 19
-acceptance_rate: 38.776%
-collected_at: 2026-04-17T15:07:19.753790+00:00
+acceptance_rate: "38.776%"
+collected_at: "2026-04-17T15:07:19.753790+00:00"
 ---
 
 ## 문제

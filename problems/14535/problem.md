@@ -1,13 +1,13 @@
 ---
-title: Birthday Graph
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Birthday Graph"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 674
 accepted: 399
 solved_users: 362
-acceptance_rate: 58.481%
-collected_at: 2026-04-17T13:37:35.933973+00:00
+acceptance_rate: "58.481%"
+collected_at: "2026-04-17T13:37:35.933973+00:00"
 ---
 
 ## 문제

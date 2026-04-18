@@ -1,13 +1,13 @@
 ---
-title: 2의 제곱수 계산하기
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "2의 제곱수 계산하기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 2606
 accepted: 1147
 solved_users: 975
-acceptance_rate: 47.284%
-collected_at: 2026-04-17T15:29:43.928646+00:00
+acceptance_rate: "47.284%"
+collected_at: "2026-04-17T15:29:43.928646+00:00"
 ---
 
 ## 문제

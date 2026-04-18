@@ -1,13 +1,13 @@
 ---
-title: Jealous Youngsters
-special_judge: true
-time_limit: 3 초
-memory_limit: 512 MB
+title: "Jealous Youngsters"
+special_judge: "true"
+time_limit: "3 초"
+memory_limit: "512 MB"
 submissions: 65
 accepted: 17
 solved_users: 11
-acceptance_rate: 22.917%
-collected_at: 2026-04-17T14:53:05.378749+00:00
+acceptance_rate: "22.917%"
+collected_at: "2026-04-17T14:53:05.378749+00:00"
 ---
 
 ## 문제

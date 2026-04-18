@@ -1,13 +1,13 @@
 ---
-title: Liars
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 512 MB (추가 메모리 없음)
+title: "Liars"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "512 MB (추가 메모리 없음)"
 submissions: 142
 accepted: 112
 solved_users: 104
-acceptance_rate: 81.890%
-collected_at: 2026-04-17T14:22:23.067720+00:00
+acceptance_rate: "81.890%"
+collected_at: "2026-04-17T14:22:23.067720+00:00"
 ---
 
 ## 문제

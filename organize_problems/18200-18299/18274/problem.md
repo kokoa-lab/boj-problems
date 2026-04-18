@@ -1,13 +1,13 @@
 ---
-title: Lampice
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Lampice"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 184
 accepted: 27
 solved_users: 10
-acceptance_rate: 8.475%
-collected_at: 2026-04-17T14:58:19.976005+00:00
+acceptance_rate: "8.475%"
+collected_at: "2026-04-17T14:58:19.976005+00:00"
 ---
 
 ## 문제

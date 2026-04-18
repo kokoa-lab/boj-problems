@@ -1,13 +1,13 @@
 ---
-title: 추 정렬하기
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "추 정렬하기"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 757
 accepted: 361
 solved_users: 309
-acceptance_rate: 60.000%
-collected_at: 2026-04-17T10:34:51.170458+00:00
+acceptance_rate: "60.000%"
+collected_at: "2026-04-17T10:34:51.170458+00:00"
 ---
 
 ## 문제

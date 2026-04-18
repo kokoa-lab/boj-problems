@@ -1,13 +1,13 @@
 ---
-title: Bowling for Numbers++
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Bowling for Numbers++"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 20
 accepted: 12
 solved_users: 10
-acceptance_rate: 55.556%
-collected_at: 2026-04-17T11:39:37.549645+00:00
+acceptance_rate: "55.556%"
+collected_at: "2026-04-17T11:39:37.549645+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Subtract if Greater!
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Subtract if Greater!"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 88
 accepted: 13
 solved_users: 11
-acceptance_rate: 17.460%
-collected_at: 2026-04-17T15:21:11.730399+00:00
+acceptance_rate: "17.460%"
+collected_at: "2026-04-17T15:21:11.730399+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: ペンキの色
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "ペンキの色"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 103
 accepted: 50
 solved_users: 33
-acceptance_rate: 43.421%
-collected_at: 2026-04-17T11:15:42.588150+00:00
+acceptance_rate: "43.421%"
+collected_at: "2026-04-17T11:15:42.588150+00:00"
 ---
 
 ## 문제

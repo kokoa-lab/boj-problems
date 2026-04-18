@@ -1,13 +1,13 @@
 ---
-title: Laser Cutter
-special_judge: true
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Laser Cutter"
+special_judge: "true"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 49
 accepted: 17
 solved_users: 15
-acceptance_rate: 33.333%
-collected_at: 2026-04-17T14:24:30.996041+00:00
+acceptance_rate: "33.333%"
+collected_at: "2026-04-17T14:24:30.996041+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 공백 없는 A+B
-special_judge: false
-time_limit: 0.5 초
-memory_limit: 512 MB
+title: "공백 없는 A+B"
+special_judge: "false"
+time_limit: "0.5 초"
+memory_limit: "512 MB"
 submissions: 14454
 accepted: 6882
 solved_users: 6358
-acceptance_rate: 49.409%
-collected_at: 2026-04-17T14:07:54.083587+00:00
+acceptance_rate: "49.409%"
+collected_at: "2026-04-17T14:07:54.083587+00:00"
 ---
 
 ## 문제

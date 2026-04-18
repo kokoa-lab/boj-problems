@@ -1,13 +1,13 @@
 ---
-title: BnPC
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "BnPC"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 381
 accepted: 78
 solved_users: 70
-acceptance_rate: 25.547%
-collected_at: 2026-04-17T16:47:03.648732+00:00
+acceptance_rate: "25.547%"
+collected_at: "2026-04-17T16:47:03.648732+00:00"
 ---
 
 ## 문제

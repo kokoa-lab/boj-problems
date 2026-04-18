@@ -1,13 +1,13 @@
 ---
-title: 전구 상태 뒤집기
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "전구 상태 뒤집기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 810
 accepted: 442
 solved_users: 359
-acceptance_rate: 55.919%
-collected_at: 2026-04-17T17:30:20.361037+00:00
+acceptance_rate: "55.919%"
+collected_at: "2026-04-17T17:30:20.361037+00:00"
 ---
 
 ## 문제

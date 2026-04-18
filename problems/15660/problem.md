@@ -1,13 +1,13 @@
 ---
-title: 테트로미노 (2)
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "테트로미노 (2)"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 656
 accepted: 128
 solved_users: 57
-acceptance_rate: 15.746%
-collected_at: 2026-04-17T14:03:30.122983+00:00
+acceptance_rate: "15.746%"
+collected_at: "2026-04-17T14:03:30.122983+00:00"
 ---
 
 ## 문제

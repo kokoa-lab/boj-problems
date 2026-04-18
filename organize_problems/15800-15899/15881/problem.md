@@ -1,13 +1,13 @@
 ---
-title: Pen Pineapple Apple Pen
-special_judge: false
-time_limit: 1 초
-memory_limit: 32 MB
+title: "Pen Pineapple Apple Pen"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "32 MB"
 submissions: 2880
 accepted: 1521
 solved_users: 1336
-acceptance_rate: 53.936%
-collected_at: 2026-04-17T14:08:13.866743+00:00
+acceptance_rate: "53.936%"
+collected_at: "2026-04-17T14:08:13.866743+00:00"
 ---
 
 ## 문제

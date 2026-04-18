@@ -1,13 +1,13 @@
 ---
-title: 귀찮은 해강이
-special_judge: false
-time_limit: 0.5 초
-memory_limit: 512 MB
+title: "귀찮은 해강이"
+special_judge: "false"
+time_limit: "0.5 초"
+memory_limit: "512 MB"
 submissions: 2488
 accepted: 1240
 solved_users: 1067
-acceptance_rate: 50.906%
-collected_at: 2026-04-17T17:08:41.170977+00:00
+acceptance_rate: "50.906%"
+collected_at: "2026-04-17T17:08:41.170977+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 해시 해킹
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "해시 해킹"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 1058
 accepted: 541
 solved_users: 438
-acceptance_rate: 53.611%
-collected_at: 2026-04-17T17:38:38.327727+00:00
+acceptance_rate: "53.611%"
+collected_at: "2026-04-17T17:38:38.327727+00:00"
 ---
 
 ## 문제

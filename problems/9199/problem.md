@@ -1,13 +1,13 @@
 ---
-title: Prime Caves
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Prime Caves"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 10
 accepted: 9
 solved_users: 6
-acceptance_rate: 85.714%
-collected_at: 2026-04-17T12:07:51.922670+00:00
+acceptance_rate: "85.714%"
+collected_at: "2026-04-17T12:07:51.922670+00:00"
 ---
 
 ## 문제

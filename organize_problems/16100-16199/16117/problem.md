@@ -1,13 +1,13 @@
 ---
-title: 실버런
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "실버런"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 654
 accepted: 169
 solved_users: 122
-acceptance_rate: 26.293%
-collected_at: 2026-04-17T14:11:47.268323+00:00
+acceptance_rate: "26.293%"
+collected_at: "2026-04-17T14:11:47.268323+00:00"
 ---
 
 ## 문제

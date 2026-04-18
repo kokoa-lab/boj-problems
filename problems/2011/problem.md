@@ -1,13 +1,13 @@
 ---
-title: 암호코드
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "암호코드"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 66482
 accepted: 13886
 solved_users: 10354
-acceptance_rate: 21.183%
-collected_at: 2026-04-17T10:37:06.384710+00:00
+acceptance_rate: "21.183%"
+collected_at: "2026-04-17T10:37:06.384710+00:00"
 ---
 
 ## 문제

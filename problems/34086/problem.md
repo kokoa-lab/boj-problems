@@ -1,13 +1,13 @@
 ---
-title: 트리 이사
-special_judge: true
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "트리 이사"
+special_judge: "true"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 287
 accepted: 61
 solved_users: 54
-acceptance_rate: 27.000%
-collected_at: 2026-04-17T20:30:08.269744+00:00
+acceptance_rate: "27.000%"
+collected_at: "2026-04-17T20:30:08.269744+00:00"
 ---
 
 ## 문제

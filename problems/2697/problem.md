@@ -1,13 +1,13 @@
 ---
-title: 다음수 구하기
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "다음수 구하기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 1758
 accepted: 1065
 solved_users: 901
-acceptance_rate: 63.317%
-collected_at: 2026-04-17T10:44:04.567493+00:00
+acceptance_rate: "63.317%"
+collected_at: "2026-04-17T10:44:04.567493+00:00"
 ---
 
 ## 문제

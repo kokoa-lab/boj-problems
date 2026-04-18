@@ -1,13 +1,13 @@
 ---
-title: 연세여 사랑한다
-special_judge: false
-time_limit: 1.885 초
-memory_limit: 1024 MB
+title: "연세여 사랑한다"
+special_judge: "false"
+time_limit: "1.885 초"
+memory_limit: "1024 MB"
 submissions: 1798
 accepted: 1525
 solved_users: 1385
-acceptance_rate: 87.107%
-collected_at: 2026-04-17T17:36:39.403569+00:00
+acceptance_rate: "87.107%"
+collected_at: "2026-04-17T17:36:39.403569+00:00"
 ---
 
 ## 문제

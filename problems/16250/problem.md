@@ -1,13 +1,13 @@
 ---
-title: Cactusophobia
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Cactusophobia"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 30
 accepted: 14
 solved_users: 12
-acceptance_rate: 57.143%
-collected_at: 2026-04-17T14:14:26.211996+00:00
+acceptance_rate: "57.143%"
+collected_at: "2026-04-17T14:14:26.211996+00:00"
 ---
 
 ## 문제

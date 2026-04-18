@@ -1,13 +1,13 @@
 ---
-title: 파발마
-special_judge: false
-time_limit: 1 초
-memory_limit: 64 MB
+title: "파발마"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "64 MB"
 submissions: 573
 accepted: 220
 solved_users: 171
-acceptance_rate: 41.304%
-collected_at: 2026-04-17T12:19:55.843623+00:00
+acceptance_rate: "41.304%"
+collected_at: "2026-04-17T12:19:55.843623+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Knowns and Unknowns
-special_judge: false
-time_limit: 3 초
-memory_limit: 2048 MB
+title: "Knowns and Unknowns"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "2048 MB"
 submissions: 6
 accepted: 3
 solved_users: 3
-acceptance_rate: 50.000%
-collected_at: 2026-04-17T20:07:50.943161+00:00
+acceptance_rate: "50.000%"
+collected_at: "2026-04-17T20:07:50.943161+00:00"
 ---
 
 ## 문제

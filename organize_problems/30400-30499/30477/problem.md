@@ -1,13 +1,13 @@
 ---
-title: Blackboard Game
-special_judge: false
-time_limit: 0.5 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Blackboard Game"
+special_judge: "false"
+time_limit: "0.5 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 149
 accepted: 88
 solved_users: 77
-acceptance_rate: 65.812%
-collected_at: 2026-04-17T19:07:33.825492+00:00
+acceptance_rate: "65.812%"
+collected_at: "2026-04-17T19:07:33.825492+00:00"
 ---
 
 ## 문제

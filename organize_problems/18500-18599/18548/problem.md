@@ -1,13 +1,13 @@
 ---
-title: Word Squared
-special_judge: true
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Word Squared"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 90
 accepted: 56
 solved_users: 47
-acceptance_rate: 61.842%
-collected_at: 2026-04-17T15:06:19.899605+00:00
+acceptance_rate: "61.842%"
+collected_at: "2026-04-17T15:06:19.899605+00:00"
 ---
 
 ## 문제

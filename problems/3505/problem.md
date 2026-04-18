@@ -1,13 +1,13 @@
 ---
-title: Kingdom Roadmap
-special_judge: true
-time_limit: 2 초
-memory_limit: 128 MB
+title: "Kingdom Roadmap"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 123
 accepted: 62
 solved_users: 41
-acceptance_rate: 55.405%
-collected_at: 2026-04-17T10:49:20.940833+00:00
+acceptance_rate: "55.405%"
+collected_at: "2026-04-17T10:49:20.940833+00:00"
 ---
 
 ## 문제

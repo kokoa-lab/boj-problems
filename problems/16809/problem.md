@@ -1,13 +1,13 @@
 ---
-title: Enclose Points
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Enclose Points"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 28
 accepted: 13
 solved_users: 4
-acceptance_rate: 57.143%
-collected_at: 2026-04-17T14:24:35.393887+00:00
+acceptance_rate: "57.143%"
+collected_at: "2026-04-17T14:24:35.393887+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Mixed Flight Plans
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Mixed Flight Plans"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 6
 accepted: 2
 solved_users: 2
-acceptance_rate: 66.667%
-collected_at: 2026-04-17T12:12:53.191980+00:00
+acceptance_rate: "66.667%"
+collected_at: "2026-04-17T12:12:53.191980+00:00"
 ---
 
 ## 문제

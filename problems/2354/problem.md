@@ -1,13 +1,13 @@
 ---
-title: 비교교환
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "비교교환"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 150
 accepted: 51
 solved_users: 30
-acceptance_rate: 40.541%
-collected_at: 2026-04-17T10:40:55.824915+00:00
+acceptance_rate: "40.541%"
+collected_at: "2026-04-17T10:40:55.824915+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: New Year and Conference
-special_judge: false
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "New Year and Conference"
+special_judge: "false"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 57
 accepted: 38
 solved_users: 37
-acceptance_rate: 75.510%
-collected_at: 2026-04-17T15:10:57.262970+00:00
+acceptance_rate: "75.510%"
+collected_at: "2026-04-17T15:10:57.262970+00:00"
 ---
 
 ## 문제

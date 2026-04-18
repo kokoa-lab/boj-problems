@@ -1,13 +1,13 @@
 ---
-title: Inversion Statistics
-special_judge: false
-time_limit: 1 초
-memory_limit: 1536 MB
+title: "Inversion Statistics"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1536 MB"
 submissions: 38
 accepted: 17
 solved_users: 16
-acceptance_rate: 47.059%
-collected_at: 2026-04-17T16:05:28.783423+00:00
+acceptance_rate: "47.059%"
+collected_at: "2026-04-17T16:05:28.783423+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: A Hard Problem
-special_judge: false
-time_limit: 20 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "A Hard Problem"
+special_judge: "false"
+time_limit: "20 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 55
 accepted: 20
 solved_users: 19
-acceptance_rate: 35.185%
-collected_at: 2026-04-17T16:46:32.271715+00:00
+acceptance_rate: "35.185%"
+collected_at: "2026-04-17T16:46:32.271715+00:00"
 ---
 
 ## 문제

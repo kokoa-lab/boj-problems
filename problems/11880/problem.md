@@ -1,13 +1,13 @@
 ---
-title: 개미
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "개미"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 3749
 accepted: 1383
 solved_users: 1196
-acceptance_rate: 37.039%
-collected_at: 2026-04-17T12:47:21.908982+00:00
+acceptance_rate: "37.039%"
+collected_at: "2026-04-17T12:47:21.908982+00:00"
 ---
 
 ## 문제

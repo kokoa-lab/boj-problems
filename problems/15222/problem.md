@@ -1,13 +1,13 @@
 ---
-title: nnnnn
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "nnnnn"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 376
 accepted: 106
 solved_users: 38
-acceptance_rate: 24.675%
-collected_at: 2026-04-17T13:55:20.466034+00:00
+acceptance_rate: "24.675%"
+collected_at: "2026-04-17T13:55:20.466034+00:00"
 ---
 
 ## 문제

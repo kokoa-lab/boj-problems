@@ -1,13 +1,13 @@
 ---
-title: LCS 9
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "LCS 9"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 416
 accepted: 236
 solved_users: 104
-acceptance_rate: 59.770%
-collected_at: 2026-04-17T17:37:35.439388+00:00
+acceptance_rate: "59.770%"
+collected_at: "2026-04-17T17:37:35.439388+00:00"
 ---
 
 ## 문제

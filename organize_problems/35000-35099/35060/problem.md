@@ -1,13 +1,13 @@
 ---
-title: 겨울 축제 2
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "겨울 축제 2"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 138
 accepted: 48
 solved_users: 47
-acceptance_rate: 43.119%
-collected_at: 2026-04-17T20:54:52.369539+00:00
+acceptance_rate: "43.119%"
+collected_at: "2026-04-17T20:54:52.369539+00:00"
 ---
 
 ## 문제

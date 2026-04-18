@@ -1,13 +1,13 @@
 ---
-title: Mõttemeister
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Mõttemeister"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 47
 accepted: 21
 solved_users: 19
-acceptance_rate: 46.341%
-collected_at: 2026-04-17T11:46:59.077142+00:00
+acceptance_rate: "46.341%"
+collected_at: "2026-04-17T11:46:59.077142+00:00"
 ---
 
 ## 문제

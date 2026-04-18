@@ -1,13 +1,13 @@
 ---
-title: 햄버거 만들기
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "햄버거 만들기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 5461
 accepted: 4219
 solved_users: 4045
-acceptance_rate: 78.104%
-collected_at: 2026-04-17T17:30:17.309194+00:00
+acceptance_rate: "78.104%"
+collected_at: "2026-04-17T17:30:17.309194+00:00"
 ---
 
 ## 문제

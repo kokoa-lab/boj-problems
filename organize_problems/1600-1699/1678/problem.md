@@ -1,13 +1,13 @@
 ---
-title: 기차
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "기차"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 539
 accepted: 132
 solved_users: 103
-acceptance_rate: 27.989%
-collected_at: 2026-04-17T10:32:15.178437+00:00
+acceptance_rate: "27.989%"
+collected_at: "2026-04-17T10:32:15.178437+00:00"
 ---
 
 ## 문제

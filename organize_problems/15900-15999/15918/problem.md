@@ -1,13 +1,13 @@
 ---
-title: 랭퍼든 수열쟁이야!!
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "랭퍼든 수열쟁이야!!"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 872
 accepted: 659
 solved_users: 481
-acceptance_rate: 75.510%
-collected_at: 2026-04-17T14:08:36.214666+00:00
+acceptance_rate: "75.510%"
+collected_at: "2026-04-17T14:08:36.214666+00:00"
 ---
 
 ## 문제

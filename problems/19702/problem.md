@@ -1,13 +1,13 @@
 ---
-title: 친구
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "친구"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 391
 accepted: 62
 solved_users: 54
-acceptance_rate: 18.947%
-collected_at: 2026-04-17T15:26:40.662410+00:00
+acceptance_rate: "18.947%"
+collected_at: "2026-04-17T15:26:40.662410+00:00"
 ---
 
 ## 문제

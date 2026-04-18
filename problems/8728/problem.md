@@ -1,13 +1,13 @@
 ---
-title: Grusze i jabłonie
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Grusze i jabłonie"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 185
 accepted: 124
 solved_users: 110
-acceptance_rate: 67.073%
-collected_at: 2026-04-17T12:02:41.360646+00:00
+acceptance_rate: "67.073%"
+collected_at: "2026-04-17T12:02:41.360646+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 도망친 게 아니라, 빛이 드는 곳으로 갔을 뿐이야
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "도망친 게 아니라, 빛이 드는 곳으로 갔을 뿐이야"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 138
 accepted: 17
 solved_users: 12
-acceptance_rate: 17.391%
-collected_at: 2026-04-17T19:35:45.420328+00:00
+acceptance_rate: "17.391%"
+collected_at: "2026-04-17T19:35:45.420328+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Asteroid Rangers
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Asteroid Rangers"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 60
 accepted: 16
 solved_users: 15
-acceptance_rate: 34.091%
-collected_at: 2026-04-17T10:57:17.688780+00:00
+acceptance_rate: "34.091%"
+collected_at: "2026-04-17T10:57:17.688780+00:00"
 ---
 
 ## 문제

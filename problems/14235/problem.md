@@ -1,13 +1,13 @@
 ---
-title: 크리스마스 선물
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "크리스마스 선물"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 7133
 accepted: 4065
 solved_users: 3374
-acceptance_rate: 59.120%
-collected_at: 2026-04-17T13:28:22.209784+00:00
+acceptance_rate: "59.120%"
+collected_at: "2026-04-17T13:28:22.209784+00:00"
 ---
 
 ## 문제

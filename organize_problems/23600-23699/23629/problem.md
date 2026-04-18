@@ -1,13 +1,13 @@
 ---
-title: 이 얼마나 끔찍하고 무시무시한 수식이니
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "이 얼마나 끔찍하고 무시무시한 수식이니"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 2066
 accepted: 412
 solved_users: 275
-acceptance_rate: 18.419%
-collected_at: 2026-04-17T16:51:21.123315+00:00
+acceptance_rate: "18.419%"
+collected_at: "2026-04-17T16:51:21.123315+00:00"
 ---
 
 ## 문제

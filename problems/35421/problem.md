@@ -1,13 +1,13 @@
 ---
-title: 최단 거리와 쿼리
-special_judge: false
-time_limit: 4 초
-memory_limit: 1024 MB
+title: "최단 거리와 쿼리"
+special_judge: "false"
+time_limit: "4 초"
+memory_limit: "1024 MB"
 submissions: 94
 accepted: 46
 solved_users: 30
-acceptance_rate: 40.000%
-collected_at: 2026-04-18T09:51:57.881351+00:00
+acceptance_rate: "40.000%"
+collected_at: "2026-04-18T09:51:57.881351+00:00"
 ---
 
 ## 문제

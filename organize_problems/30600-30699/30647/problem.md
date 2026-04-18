@@ -1,13 +1,13 @@
 ---
-title: 점수 관리
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "점수 관리"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 378
 accepted: 237
 solved_users: 169
-acceptance_rate: 60.357%
-collected_at: 2026-04-17T19:11:32.191133+00:00
+acceptance_rate: "60.357%"
+collected_at: "2026-04-17T19:11:32.191133+00:00"
 ---
 
 ## 문제

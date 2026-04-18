@@ -1,13 +1,13 @@
 ---
-title: 줄어들지 않아
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "줄어들지 않아"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 7890
 accepted: 4302
 solved_users: 3620
-acceptance_rate: 53.322%
-collected_at: 2026-04-17T10:43:55.828153+00:00
+acceptance_rate: "53.322%"
+collected_at: "2026-04-17T10:43:55.828153+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 우리 집 밑에 편의점이 있는데
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "우리 집 밑에 편의점이 있는데"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 903
 accepted: 662
 solved_users: 620
-acceptance_rate: 74.879%
-collected_at: 2026-04-17T15:32:27.760993+00:00
+acceptance_rate: "74.879%"
+collected_at: "2026-04-17T15:32:27.760993+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 룩 배치하기
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "룩 배치하기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 1596
 accepted: 719
 solved_users: 602
-acceptance_rate: 45.434%
-collected_at: 2026-04-17T12:10:53.327334+00:00
+acceptance_rate: "45.434%"
+collected_at: "2026-04-17T12:10:53.327334+00:00"
 ---
 
 ## 문제

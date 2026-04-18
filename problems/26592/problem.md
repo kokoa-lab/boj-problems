@@ -1,13 +1,13 @@
 ---
-title: Triangle Height
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Triangle Height"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 1515
 accepted: 1164
 solved_users: 1112
-acceptance_rate: 77.545%
-collected_at: 2026-04-17T17:48:21.359833+00:00
+acceptance_rate: "77.545%"
+collected_at: "2026-04-17T17:48:21.359833+00:00"
 ---
 
 ## 문제

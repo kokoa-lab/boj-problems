@@ -1,13 +1,13 @@
 ---
-title: Feast Coins
-special_judge: false
-time_limit: 3 초
-memory_limit: 256 MB
+title: "Feast Coins"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "256 MB"
 submissions: 101
 accepted: 54
 solved_users: 47
-acceptance_rate: 52.809%
-collected_at: 2026-04-17T12:46:13.290339+00:00
+acceptance_rate: "52.809%"
+collected_at: "2026-04-17T12:46:13.290339+00:00"
 ---
 
 ## 문제

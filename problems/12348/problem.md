@@ -1,13 +1,13 @@
 ---
-title: 분해합 2
-special_judge: false
-time_limit: 0.25 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "분해합 2"
+special_judge: "false"
+time_limit: "0.25 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 1209
 accepted: 460
 solved_users: 372
-acceptance_rate: 36.471%
-collected_at: 2026-04-17T12:53:58.067378+00:00
+acceptance_rate: "36.471%"
+collected_at: "2026-04-17T12:53:58.067378+00:00"
 ---
 
 ## 문제

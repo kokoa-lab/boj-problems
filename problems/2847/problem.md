@@ -1,13 +1,13 @@
 ---
-title: 게임을 만든 동준이
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "게임을 만든 동준이"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 18378
 accepted: 10949
 solved_users: 9596
-acceptance_rate: 59.829%
-collected_at: 2026-04-17T10:45:15.300999+00:00
+acceptance_rate: "59.829%"
+collected_at: "2026-04-17T10:45:15.300999+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 노트북의 주인을 찾아서
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "노트북의 주인을 찾아서"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 5911
 accepted: 2733
 solved_users: 2251
-acceptance_rate: 50.460%
-collected_at: 2026-04-17T10:29:21.863073+00:00
+acceptance_rate: "50.460%"
+collected_at: "2026-04-17T10:29:21.863073+00:00"
 ---
 
 ## 문제

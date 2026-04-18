@@ -1,13 +1,13 @@
 ---
-title: 지각하기 싫어
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "지각하기 싫어"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 299
 accepted: 179
 solved_users: 141
-acceptance_rate: 60.515%
-collected_at: 2026-04-17T18:53:22.009965+00:00
+acceptance_rate: "60.515%"
+collected_at: "2026-04-17T18:53:22.009965+00:00"
 ---
 
 ## 문제

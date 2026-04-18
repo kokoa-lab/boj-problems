@@ -1,13 +1,13 @@
 ---
-title: The Friend of My Enemy is My Enemy
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "The Friend of My Enemy is My Enemy"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 463
 accepted: 187
 solved_users: 161
-acceptance_rate: 38.517%
-collected_at: 2026-04-17T12:08:19.631780+00:00
+acceptance_rate: "38.517%"
+collected_at: "2026-04-17T12:08:19.631780+00:00"
 ---
 
 ## 문제

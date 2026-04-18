@@ -1,13 +1,13 @@
 ---
-title: 주니어 개발자 동우의 직행 취업일기
-special_judge: true
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "주니어 개발자 동우의 직행 취업일기"
+special_judge: "true"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 82
 accepted: 63
 solved_users: 58
-acceptance_rate: 80.556%
-collected_at: 2026-04-17T20:56:51.510081+00:00
+acceptance_rate: "80.556%"
+collected_at: "2026-04-17T20:56:51.510081+00:00"
 ---
 
 ## 문제

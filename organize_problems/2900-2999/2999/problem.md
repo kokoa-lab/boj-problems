@@ -1,13 +1,13 @@
 ---
-title: 비밀 이메일
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "비밀 이메일"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 8167
 accepted: 3826
 solved_users: 3367
-acceptance_rate: 47.698%
-collected_at: 2026-04-17T10:46:09.063529+00:00
+acceptance_rate: "47.698%"
+collected_at: "2026-04-17T10:46:09.063529+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: The Shortest does not Mean the Simplest
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "The Shortest does not Mean the Simplest"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 1577
 accepted: 541
 solved_users: 398
-acceptance_rate: 35.727%
-collected_at: 2026-04-17T12:46:28.187333+00:00
+acceptance_rate: "35.727%"
+collected_at: "2026-04-17T12:46:28.187333+00:00"
 ---
 
 ## 문제

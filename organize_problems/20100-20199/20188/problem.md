@@ -1,13 +1,13 @@
 ---
-title: 등산 마니아
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "등산 마니아"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 3669
 accepted: 1369
 solved_users: 1036
-acceptance_rate: 39.228%
-collected_at: 2026-04-17T15:32:49.752836+00:00
+acceptance_rate: "39.228%"
+collected_at: "2026-04-17T15:32:49.752836+00:00"
 ---
 
 ## 문제

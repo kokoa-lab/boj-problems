@@ -1,13 +1,13 @@
 ---
-title: 과자 줍기
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "과자 줍기"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 137
 accepted: 50
 solved_users: 35
-acceptance_rate: 32.110%
-collected_at: 2026-04-17T18:22:25.078152+00:00
+acceptance_rate: "32.110%"
+collected_at: "2026-04-17T18:22:25.078152+00:00"
 ---
 
 ## 문제

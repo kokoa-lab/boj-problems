@@ -1,13 +1,13 @@
 ---
-title: 9966
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "9966"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 166
 accepted: 130
 solved_users: 118
-acceptance_rate: 78.146%
-collected_at: 2026-04-17T11:41:12.839987+00:00
+acceptance_rate: "78.146%"
+collected_at: "2026-04-17T11:41:12.839987+00:00"
 ---
 
 ## 문제

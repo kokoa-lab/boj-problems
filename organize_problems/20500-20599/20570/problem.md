@@ -1,13 +1,13 @@
 ---
-title: Permutations on the Road: Alice
-special_judge: false
-time_limit: 3 초
-memory_limit: 1024 MB
+title: "Permutations on the Road: Alice"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "1024 MB"
 submissions: 10
 accepted: 8
 solved_users: 8
-acceptance_rate: 88.889%
-collected_at: 2026-04-17T15:38:07.279753+00:00
+acceptance_rate: "88.889%"
+collected_at: "2026-04-17T15:38:07.279753+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 홍준이는 물리를 좋아해
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "홍준이는 물리를 좋아해"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 178
 accepted: 77
 solved_users: 62
-acceptance_rate: 41.611%
-collected_at: 2026-04-17T13:02:36.591053+00:00
+acceptance_rate: "41.611%"
+collected_at: "2026-04-17T13:02:36.591053+00:00"
 ---
 
 ## 문제

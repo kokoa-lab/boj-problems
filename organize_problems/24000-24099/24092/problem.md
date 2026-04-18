@@ -1,13 +1,13 @@
 ---
-title: 알고리즘 수업 - 퀵 정렬 3
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "알고리즘 수업 - 퀵 정렬 3"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 1647
 accepted: 279
 solved_users: 195
-acceptance_rate: 19.062%
-collected_at: 2026-04-17T17:03:54.148301+00:00
+acceptance_rate: "19.062%"
+collected_at: "2026-04-17T17:03:54.148301+00:00"
 ---
 
 ## 문제

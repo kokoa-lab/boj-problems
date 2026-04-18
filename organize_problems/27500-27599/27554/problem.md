@@ -1,13 +1,13 @@
 ---
-title: Subtree Activation
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Subtree Activation"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 66
 accepted: 24
 solved_users: 23
-acceptance_rate: 46.000%
-collected_at: 2026-04-17T18:06:25.520038+00:00
+acceptance_rate: "46.000%"
+collected_at: "2026-04-17T18:06:25.520038+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Combinations
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Combinations"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 491
 accepted: 355
 solved_users: 320
-acceptance_rate: 74.246%
-collected_at: 2026-04-17T13:09:52.728302+00:00
+acceptance_rate: "74.246%"
+collected_at: "2026-04-17T13:09:52.728302+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: A Knight’s Journey
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "A Knight’s Journey"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 80
 accepted: 35
 solved_users: 22
-acceptance_rate: 43.137%
-collected_at: 2026-04-17T11:50:20.631900+00:00
+acceptance_rate: "43.137%"
+collected_at: "2026-04-17T11:50:20.631900+00:00"
 ---
 
 ## 문제

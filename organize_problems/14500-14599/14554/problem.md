@@ -1,13 +1,13 @@
 ---
-title: The Other Way
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "The Other Way"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 1732
 accepted: 501
 solved_users: 357
-acceptance_rate: 27.978%
-collected_at: 2026-04-17T13:37:58.150523+00:00
+acceptance_rate: "27.978%"
+collected_at: "2026-04-17T13:37:58.150523+00:00"
 ---
 
 ## 문제

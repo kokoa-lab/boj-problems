@@ -1,13 +1,13 @@
 ---
-title: Letterle
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Letterle"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 324
 accepted: 156
 solved_users: 122
-acceptance_rate: 43.885%
-collected_at: 2026-04-17T17:14:19.744414+00:00
+acceptance_rate: "43.885%"
+collected_at: "2026-04-17T17:14:19.744414+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Блокировка телефона
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Блокировка телефона"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 448
 accepted: 170
 solved_users: 155
-acceptance_rate: 37.990%
-collected_at: 2026-04-17T18:50:13.293401+00:00
+acceptance_rate: "37.990%"
+collected_at: "2026-04-17T18:50:13.293401+00:00"
 ---
 
 ## 문제

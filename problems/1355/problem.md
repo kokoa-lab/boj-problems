@@ -1,13 +1,13 @@
 ---
-title: 구멍난 케이크 자르기
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "구멍난 케이크 자르기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 473
 accepted: 124
 solved_users: 91
-acceptance_rate: 26.531%
-collected_at: 2026-04-17T10:29:37.674171+00:00
+acceptance_rate: "26.531%"
+collected_at: "2026-04-17T10:29:37.674171+00:00"
 ---
 
 ## 문제

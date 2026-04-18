@@ -1,13 +1,13 @@
 ---
-title: Professor KCM
-special_judge: false
-time_limit: 3 초
-memory_limit: 256 MB
+title: "Professor KCM"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "256 MB"
 submissions: 1157
 accepted: 362
 solved_users: 239
-acceptance_rate: 32.650%
-collected_at: 2026-04-17T13:09:16.030971+00:00
+acceptance_rate: "32.650%"
+collected_at: "2026-04-17T13:09:16.030971+00:00"
 ---
 
 ## 문제

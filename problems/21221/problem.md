@@ -1,13 +1,13 @@
 ---
-title: Bold
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Bold"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 203
 accepted: 177
 solved_users: 159
-acceptance_rate: 86.885%
-collected_at: 2026-04-17T15:50:45.758925+00:00
+acceptance_rate: "86.885%"
+collected_at: "2026-04-17T15:50:45.758925+00:00"
 ---
 
 ## 문제

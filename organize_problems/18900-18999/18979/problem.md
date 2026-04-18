@@ -1,13 +1,13 @@
 ---
-title: Triangle Partition
-special_judge: true
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Triangle Partition"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 117
 accepted: 67
 solved_users: 62
-acceptance_rate: 60.784%
-collected_at: 2026-04-17T15:12:07.448160+00:00
+acceptance_rate: "60.784%"
+collected_at: "2026-04-17T15:12:07.448160+00:00"
 ---
 
 ## 문제

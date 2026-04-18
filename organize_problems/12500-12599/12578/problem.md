@@ -1,13 +1,13 @@
 ---
-title: File Fix-it (Large)
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "File Fix-it (Large)"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 103
 accepted: 71
 solved_users: 58
-acceptance_rate: 67.442%
-collected_at: 2026-04-17T12:57:50.670069+00:00
+acceptance_rate: "67.442%"
+collected_at: "2026-04-17T12:57:50.670069+00:00"
 ---
 
 ## 문제

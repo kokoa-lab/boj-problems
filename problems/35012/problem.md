@@ -1,13 +1,13 @@
 ---
-title: Who Am I?
-special_judge: false
-time_limit: 1 초
-memory_limit: 2048 MB
+title: "Who Am I?"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "2048 MB"
 submissions: 22
 accepted: 12
 solved_users: 10
-acceptance_rate: 55.556%
-collected_at: 2026-04-17T20:53:59.517295+00:00
+acceptance_rate: "55.556%"
+collected_at: "2026-04-17T20:53:59.517295+00:00"
 ---
 
 ## 문제

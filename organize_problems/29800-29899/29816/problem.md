@@ -1,13 +1,13 @@
 ---
-title: 사랑의 묘약
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "사랑의 묘약"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 87
 accepted: 62
 solved_users: 39
-acceptance_rate: 82.979%
-collected_at: 2026-04-17T18:53:35.953355+00:00
+acceptance_rate: "82.979%"
+collected_at: "2026-04-17T18:53:35.953355+00:00"
 ---
 
 ## 문제

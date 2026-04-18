@@ -1,13 +1,13 @@
 ---
-title: Estate Agent
-special_judge: true
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Estate Agent"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 65
 accepted: 53
 solved_users: 41
-acceptance_rate: 95.349%
-collected_at: 2026-04-17T14:47:24.812149+00:00
+acceptance_rate: "95.349%"
+collected_at: "2026-04-17T14:47:24.812149+00:00"
 ---
 
 ## 문제

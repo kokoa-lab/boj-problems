@@ -1,13 +1,13 @@
 ---
-title: Kotrljanje
-special_judge: true
-time_limit: 2 초
-memory_limit: 64 MB
+title: "Kotrljanje"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "64 MB"
 submissions: 41
 accepted: 21
 solved_users: 6
-acceptance_rate: 26.087%
-collected_at: 2026-04-17T14:00:29.517566+00:00
+acceptance_rate: "26.087%"
+collected_at: "2026-04-17T14:00:29.517566+00:00"
 ---
 
 ## 문제

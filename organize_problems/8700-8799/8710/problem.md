@@ -1,13 +1,13 @@
 ---
-title: Koszykarz
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Koszykarz"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 3667
 accepted: 2557
 solved_users: 2389
-acceptance_rate: 70.722%
-collected_at: 2026-04-17T12:02:29.172164+00:00
+acceptance_rate: "70.722%"
+collected_at: "2026-04-17T12:02:29.172164+00:00"
 ---
 
 ## 문제

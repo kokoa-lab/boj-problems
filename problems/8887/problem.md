@@ -1,13 +1,13 @@
 ---
-title: Up a Tree
-special_judge: false
-time_limit: 6 초
-memory_limit: 128 MB
+title: "Up a Tree"
+special_judge: "false"
+time_limit: "6 초"
+memory_limit: "128 MB"
 submissions: 48
 accepted: 35
 solved_users: 25
-acceptance_rate: 71.429%
-collected_at: 2026-04-17T12:04:33.014398+00:00
+acceptance_rate: "71.429%"
+collected_at: "2026-04-17T12:04:33.014398+00:00"
 ---
 
 ## 문제

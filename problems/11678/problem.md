@@ -1,13 +1,13 @@
 ---
-title: Black Vienna
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Black Vienna"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 99
 accepted: 56
 solved_users: 48
-acceptance_rate: 56.471%
-collected_at: 2026-04-17T12:43:59.176150+00:00
+acceptance_rate: "56.471%"
+collected_at: "2026-04-17T12:43:59.176150+00:00"
 ---
 
 ## 문제

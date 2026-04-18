@@ -1,13 +1,13 @@
 ---
-title: 민주주의
-special_judge: false
-time_limit: 0.5 초
-memory_limit: 1024 MB
+title: "민주주의"
+special_judge: "false"
+time_limit: "0.5 초"
+memory_limit: "1024 MB"
 submissions: 3258
 accepted: 2397
 solved_users: 2277
-acceptance_rate: 74.803%
-collected_at: 2026-04-17T19:19:35.723135+00:00
+acceptance_rate: "74.803%"
+collected_at: "2026-04-17T19:19:35.723135+00:00"
 ---
 
 ## 문제

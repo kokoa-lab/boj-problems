@@ -1,13 +1,13 @@
 ---
-title: 쿠키 자르기
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "쿠키 자르기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 163
 accepted: 96
 solved_users: 70
-acceptance_rate: 59.322%
-collected_at: 2026-04-17T19:28:30.826588+00:00
+acceptance_rate: "59.322%"
+collected_at: "2026-04-17T19:28:30.826588+00:00"
 ---
 
 ## 문제

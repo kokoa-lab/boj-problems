@@ -1,13 +1,13 @@
 ---
-title: Keys
-special_judge: false
-time_limit: 2 초
-memory_limit: 2048 MB
+title: "Keys"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "2048 MB"
 submissions: 161
 accepted: 46
 solved_users: 38
-acceptance_rate: 40.000%
-collected_at: 2026-04-17T16:11:43.356848+00:00
+acceptance_rate: "40.000%"
+collected_at: "2026-04-17T16:11:43.356848+00:00"
 ---
 
 ## 문제

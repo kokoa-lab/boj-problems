@@ -1,13 +1,13 @@
 ---
-title: 연속구간
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "연속구간"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 12063
 accepted: 5571
 solved_users: 4962
-acceptance_rate: 47.785%
-collected_at: 2026-04-17T10:42:07.009006+00:00
+acceptance_rate: "47.785%"
+collected_at: "2026-04-17T10:42:07.009006+00:00"
 ---
 
 ## 문제

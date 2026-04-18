@@ -1,13 +1,13 @@
 ---
-title: Bound Found
-special_judge: true
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Bound Found"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 54
 accepted: 20
 solved_users: 4
-acceptance_rate: 14.286%
-collected_at: 2026-04-17T11:30:33.399635+00:00
+acceptance_rate: "14.286%"
+collected_at: "2026-04-17T11:30:33.399635+00:00"
 ---
 
 ## 문제

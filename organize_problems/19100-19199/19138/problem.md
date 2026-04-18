@@ -1,13 +1,13 @@
 ---
-title: GCD vs LCM
-special_judge: false
-time_limit: 2.5 초
-memory_limit: 512 MB
+title: "GCD vs LCM"
+special_judge: "false"
+time_limit: "2.5 초"
+memory_limit: "512 MB"
 submissions: 41
 accepted: 13
 solved_users: 13
-acceptance_rate: 43.333%
-collected_at: 2026-04-17T15:14:03.535192+00:00
+acceptance_rate: "43.333%"
+collected_at: "2026-04-17T15:14:03.535192+00:00"
 ---
 
 ## 문제

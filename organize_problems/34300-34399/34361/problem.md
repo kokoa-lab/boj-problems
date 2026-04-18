@@ -1,13 +1,13 @@
 ---
-title: Laser Strike
-special_judge: false
-time_limit: 3 초
-memory_limit: 2048 MB
+title: "Laser Strike"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "2048 MB"
 submissions: 0
 accepted: 0
 solved_users: 0
-acceptance_rate: 0.000%
-collected_at: 2026-04-17T20:36:32.536461+00:00
+acceptance_rate: "0.000%"
+collected_at: "2026-04-17T20:36:32.536461+00:00"
 ---
 
 ## 문제

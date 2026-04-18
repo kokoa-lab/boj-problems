@@ -1,13 +1,13 @@
 ---
-title: 벽의 가치
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "벽의 가치"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 201
 accepted: 64
 solved_users: 52
-acceptance_rate: 36.364%
-collected_at: 2026-04-17T18:22:39.700949+00:00
+acceptance_rate: "36.364%"
+collected_at: "2026-04-17T18:22:39.700949+00:00"
 ---
 
 ## 문제

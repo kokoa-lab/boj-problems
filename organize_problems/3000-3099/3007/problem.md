@@ -1,13 +1,13 @@
 ---
-title: 숫자 원
-special_judge: true
-time_limit: 1 초
-memory_limit: 128 MB
+title: "숫자 원"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 489
 accepted: 139
 solved_users: 125
-acceptance_rate: 29.551%
-collected_at: 2026-04-17T10:46:12.238365+00:00
+acceptance_rate: "29.551%"
+collected_at: "2026-04-17T10:46:12.238365+00:00"
 ---
 
 ## 문제

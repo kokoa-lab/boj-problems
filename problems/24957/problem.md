@@ -1,13 +1,13 @@
 ---
-title: Loop of Chocolate
-special_judge: true
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Loop of Chocolate"
+special_judge: "true"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 186
 accepted: 160
 solved_users: 126
-acceptance_rate: 96.183%
-collected_at: 2026-04-17T17:17:42.853550+00:00
+acceptance_rate: "96.183%"
+collected_at: "2026-04-17T17:17:42.853550+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Easy Assembly
-special_judge: false
-time_limit: 3 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Easy Assembly"
+special_judge: "false"
+time_limit: "3 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 35
 accepted: 27
 solved_users: 26
-acceptance_rate: 83.871%
-collected_at: 2026-04-17T17:42:59.961353+00:00
+acceptance_rate: "83.871%"
+collected_at: "2026-04-17T17:42:59.961353+00:00"
 ---
 
 ## 문제

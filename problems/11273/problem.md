@@ -1,13 +1,13 @@
 ---
-title: Goblin Garden Guards
-special_judge: false
-time_limit: 3 초
-memory_limit: 256 MB
+title: "Goblin Garden Guards"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "256 MB"
 submissions: 176
 accepted: 57
 solved_users: 45
-acceptance_rate: 32.609%
-collected_at: 2026-04-17T12:38:58.562762+00:00
+acceptance_rate: "32.609%"
+collected_at: "2026-04-17T12:38:58.562762+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Password check
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Password check"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 446
 accepted: 313
 solved_users: 271
-acceptance_rate: 75.910%
-collected_at: 2026-04-17T13:55:40.408778+00:00
+acceptance_rate: "75.910%"
+collected_at: "2026-04-17T13:55:40.408778+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 독서의 계절
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "독서의 계절"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 147
 accepted: 59
 solved_users: 43
-acceptance_rate: 48.315%
-collected_at: 2026-04-17T14:18:27.697290+00:00
+acceptance_rate: "48.315%"
+collected_at: "2026-04-17T14:18:27.697290+00:00"
 ---
 
 ## 문제

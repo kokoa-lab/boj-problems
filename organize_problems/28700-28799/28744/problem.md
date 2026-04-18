@@ -1,13 +1,13 @@
 ---
-title: Малефисумма
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Малефисумма"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 53
 accepted: 28
 solved_users: 23
-acceptance_rate: 54.762%
-collected_at: 2026-04-17T18:31:39.656767+00:00
+acceptance_rate: "54.762%"
+collected_at: "2026-04-17T18:31:39.656767+00:00"
 ---
 
 ## 문제

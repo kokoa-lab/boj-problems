@@ -1,13 +1,13 @@
 ---
-title: 호반우가 길을 건너간 이유
-special_judge: true
-time_limit: 1 초
-memory_limit: 256 MB
+title: "호반우가 길을 건너간 이유"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 285
 accepted: 138
 solved_users: 113
-acceptance_rate: 48.707%
-collected_at: 2026-04-17T15:31:54.320708+00:00
+acceptance_rate: "48.707%"
+collected_at: "2026-04-17T15:31:54.320708+00:00"
 ---
 
 ## 문제

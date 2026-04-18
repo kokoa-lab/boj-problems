@@ -1,13 +1,13 @@
 ---
-title: Weighted Window Sums
-special_judge: false
-time_limit: 5 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Weighted Window Sums"
+special_judge: "false"
+time_limit: "5 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 109
 accepted: 56
 solved_users: 44
-acceptance_rate: 57.143%
-collected_at: 2026-04-17T19:01:04.592674+00:00
+acceptance_rate: "57.143%"
+collected_at: "2026-04-17T19:01:04.592674+00:00"
 ---
 
 ## 문제

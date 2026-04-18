@@ -1,13 +1,13 @@
 ---
-title: 패션왕 신해빈
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "패션왕 신해빈"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 59400
 accepted: 34258
 solved_users: 28344
-acceptance_rate: 57.093%
-collected_at: 2026-04-17T12:09:24.017542+00:00
+acceptance_rate: "57.093%"
+collected_at: "2026-04-17T12:09:24.017542+00:00"
 ---
 
 ## 문제

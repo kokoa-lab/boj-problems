@@ -1,13 +1,13 @@
 ---
-title: Grid Nim
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Grid Nim"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 23
 accepted: 9
 solved_users: 6
-acceptance_rate: 35.294%
-collected_at: 2026-04-17T11:12:29.950377+00:00
+acceptance_rate: "35.294%"
+collected_at: "2026-04-17T11:12:29.950377+00:00"
 ---
 
 ## 문제

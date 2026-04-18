@@ -1,13 +1,13 @@
 ---
-title: Area Rug
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Area Rug"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 79
 accepted: 48
 solved_users: 48
-acceptance_rate: 64.865%
-collected_at: 2026-04-17T14:17:48.207160+00:00
+acceptance_rate: "64.865%"
+collected_at: "2026-04-17T14:17:48.207160+00:00"
 ---
 
 ## 문제

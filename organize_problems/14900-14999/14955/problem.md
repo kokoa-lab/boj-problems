@@ -1,13 +1,13 @@
 ---
-title: How Many to Be Happy?
-special_judge: false
-time_limit: 0.5 초
-memory_limit: 512 MB
+title: "How Many to Be Happy?"
+special_judge: "false"
+time_limit: "0.5 초"
+memory_limit: "512 MB"
 submissions: 320
 accepted: 154
 solved_users: 134
-acceptance_rate: 50.187%
-collected_at: 2026-04-17T13:46:48.054392+00:00
+acceptance_rate: "50.187%"
+collected_at: "2026-04-17T13:46:48.054392+00:00"
 ---
 
 ## 문제

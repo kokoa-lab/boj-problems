@@ -1,13 +1,13 @@
 ---
-title: IQ Test
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "IQ Test"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 18747
 accepted: 4146
 solved_users: 3381
-acceptance_rate: 22.708%
-collected_at: 2026-04-17T10:28:16.024207+00:00
+acceptance_rate: "22.708%"
+collected_at: "2026-04-17T10:28:16.024207+00:00"
 ---
 
 ## 문제

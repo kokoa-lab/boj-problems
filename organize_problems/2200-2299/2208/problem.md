@@ -1,13 +1,13 @@
 ---
-title: 보석 줍기
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "보석 줍기"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 3449
 accepted: 1065
 solved_users: 746
-acceptance_rate: 29.745%
-collected_at: 2026-04-17T10:39:32.735016+00:00
+acceptance_rate: "29.745%"
+collected_at: "2026-04-17T10:39:32.735016+00:00"
 ---
 
 ## 문제

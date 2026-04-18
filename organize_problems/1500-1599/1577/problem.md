@@ -1,13 +1,13 @@
 ---
-title: 도로의 개수
-special_judge: false
-time_limit: 2 초
-memory_limit: 16 MB
+title: "도로의 개수"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "16 MB"
 submissions: 6311
 accepted: 2162
 solved_users: 1830
-acceptance_rate: 36.527%
-collected_at: 2026-04-17T10:31:18.114630+00:00
+acceptance_rate: "36.527%"
+collected_at: "2026-04-17T10:31:18.114630+00:00"
 ---
 
 ## 문제

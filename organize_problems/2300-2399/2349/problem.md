@@ -1,13 +1,13 @@
 ---
-title: 무선 통신 기지국
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "무선 통신 기지국"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 186
 accepted: 26
 solved_users: 22
-acceptance_rate: 26.829%
-collected_at: 2026-04-17T10:40:53.768767+00:00
+acceptance_rate: "26.829%"
+collected_at: "2026-04-17T10:40:53.768767+00:00"
 ---
 
 ## 문제

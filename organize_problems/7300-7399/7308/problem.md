@@ -1,13 +1,13 @@
 ---
-title: A DP Problem
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "A DP Problem"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 180
 accepted: 52
 solved_users: 42
-acceptance_rate: 28.767%
-collected_at: 2026-04-17T11:48:08.945084+00:00
+acceptance_rate: "28.767%"
+collected_at: "2026-04-17T11:48:08.945084+00:00"
 ---
 
 ## 문제

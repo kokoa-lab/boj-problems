@@ -1,13 +1,13 @@
 ---
-title: 선 그리기
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "선 그리기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 3586
 accepted: 1716
 solved_users: 1432
-acceptance_rate: 50.052%
-collected_at: 2026-04-18T09:58:55.210067+00:00
+acceptance_rate: "50.052%"
+collected_at: "2026-04-18T09:58:55.210067+00:00"
 ---
 
 ## 문제

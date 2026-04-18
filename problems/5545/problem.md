@@ -1,13 +1,13 @@
 ---
-title: 최고의 피자
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "최고의 피자"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 5197
 accepted: 2259
 solved_users: 1980
-acceptance_rate: 45.051%
-collected_at: 2026-04-17T11:15:15.801861+00:00
+acceptance_rate: "45.051%"
+collected_at: "2026-04-17T11:15:15.801861+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Cake Distribution
-special_judge: true
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Cake Distribution"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 20
 accepted: 14
 solved_users: 14
-acceptance_rate: 70.000%
-collected_at: 2026-04-17T15:06:51.427260+00:00
+acceptance_rate: "70.000%"
+collected_at: "2026-04-17T15:06:51.427260+00:00"
 ---
 
 ## 문제

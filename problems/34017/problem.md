@@ -1,13 +1,13 @@
 ---
-title: 수열과 병규
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "수열과 병규"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 281
 accepted: 65
 solved_users: 47
-acceptance_rate: 21.560%
-collected_at: 2026-04-17T20:28:50.074867+00:00
+acceptance_rate: "21.560%"
+collected_at: "2026-04-17T20:28:50.074867+00:00"
 ---
 
 ## 문제

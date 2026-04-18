@@ -1,13 +1,13 @@
 ---
-title: 수 지우기
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "수 지우기"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 1703
 accepted: 377
 solved_users: 264
-acceptance_rate: 29.663%
-collected_at: 2026-04-17T10:30:24.461498+00:00
+acceptance_rate: "29.663%"
+collected_at: "2026-04-17T10:30:24.461498+00:00"
 ---
 
 ## 문제

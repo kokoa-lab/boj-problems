@@ -1,13 +1,13 @@
 ---
-title: 동까뚱뽭 게임
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "동까뚱뽭 게임"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 264
 accepted: 139
 solved_users: 121
-acceptance_rate: 51.709%
-collected_at: 2026-04-17T19:58:23.325089+00:00
+acceptance_rate: "51.709%"
+collected_at: "2026-04-17T19:58:23.325089+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 약수
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "약수"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 90241
 accepted: 51780
 solved_users: 45050
-acceptance_rate: 57.620%
-collected_at: 2026-04-17T10:27:49.690148+00:00
+acceptance_rate: "57.620%"
+collected_at: "2026-04-17T10:27:49.690148+00:00"
 ---
 
 ## 문제

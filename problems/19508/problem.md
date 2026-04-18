@@ -1,13 +1,13 @@
 ---
-title: Convex Hull
-special_judge: true
-time_limit: 1.5 초
-memory_limit: 256 MB
+title: "Convex Hull"
+special_judge: "true"
+time_limit: "1.5 초"
+memory_limit: "256 MB"
 submissions: 308
 accepted: 46
 solved_users: 15
-acceptance_rate: 6.787%
-collected_at: 2026-04-17T15:21:34.921598+00:00
+acceptance_rate: "6.787%"
+collected_at: "2026-04-17T15:21:34.921598+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 준영이의 등급
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "준영이의 등급"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 2337
 accepted: 1731
 solved_users: 1634
-acceptance_rate: 74.714%
-collected_at: 2026-04-17T18:57:19.450331+00:00
+acceptance_rate: "74.714%"
+collected_at: "2026-04-17T18:57:19.450331+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 마리오 파티
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "마리오 파티"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 411
 accepted: 227
 solved_users: 192
-acceptance_rate: 58.896%
-collected_at: 2026-04-17T13:37:51.976346+00:00
+acceptance_rate: "58.896%"
+collected_at: "2026-04-17T13:37:51.976346+00:00"
 ---
 
 ## 문제

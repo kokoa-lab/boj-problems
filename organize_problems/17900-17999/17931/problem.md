@@ -1,13 +1,13 @@
 ---
-title: Greedily Increasing Subsequence
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Greedily Increasing Subsequence"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 260
 accepted: 182
 solved_users: 158
-acceptance_rate: 72.811%
-collected_at: 2026-04-17T14:50:19.391582+00:00
+acceptance_rate: "72.811%"
+collected_at: "2026-04-17T14:50:19.391582+00:00"
 ---
 
 ## 문제

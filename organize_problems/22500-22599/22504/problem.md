@@ -1,13 +1,13 @@
 ---
-title: Calender Colors
-special_judge: true
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Calender Colors"
+special_judge: "true"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 24
 accepted: 23
 solved_users: 19
-acceptance_rate: 95.000%
-collected_at: 2026-04-17T16:23:41.032670+00:00
+acceptance_rate: "95.000%"
+collected_at: "2026-04-17T16:23:41.032670+00:00"
 ---
 
 ## 문제

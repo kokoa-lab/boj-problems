@@ -1,13 +1,13 @@
 ---
-title: 정원 정리
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "정원 정리"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 407
 accepted: 173
 solved_users: 149
-acceptance_rate: 54.579%
-collected_at: 2026-04-18T09:48:07.732758+00:00
+acceptance_rate: "54.579%"
+collected_at: "2026-04-18T09:48:07.732758+00:00"
 ---
 
 ## 문제

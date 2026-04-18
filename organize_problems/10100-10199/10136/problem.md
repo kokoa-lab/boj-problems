@@ -1,13 +1,13 @@
 ---
-title: Solar Panels
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Solar Panels"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 404
 accepted: 119
 solved_users: 79
-acceptance_rate: 27.148%
-collected_at: 2026-04-17T12:19:26.436358+00:00
+acceptance_rate: "27.148%"
+collected_at: "2026-04-17T12:19:26.436358+00:00"
 ---
 
 ## 문제

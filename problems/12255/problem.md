@@ -1,13 +1,13 @@
 ---
-title: Charging Chaos (Large)
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Charging Chaos (Large)"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 43
 accepted: 22
 solved_users: 18
-acceptance_rate: 56.250%
-collected_at: 2026-04-17T12:52:35.563179+00:00
+acceptance_rate: "56.250%"
+collected_at: "2026-04-17T12:52:35.563179+00:00"
 ---
 
 ## 문제

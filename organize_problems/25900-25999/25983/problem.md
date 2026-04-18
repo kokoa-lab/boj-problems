@@ -1,13 +1,13 @@
 ---
-title: Dimensional Debugging
-special_judge: false
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 2048 MB
+title: "Dimensional Debugging"
+special_judge: "false"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "2048 MB"
 submissions: 48
 accepted: 39
 solved_users: 32
-acceptance_rate: 78.049%
-collected_at: 2026-04-17T17:38:07.302498+00:00
+acceptance_rate: "78.049%"
+collected_at: "2026-04-17T17:38:07.302498+00:00"
 ---
 
 ## 문제

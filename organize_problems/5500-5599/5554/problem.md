@@ -1,13 +1,13 @@
 ---
-title: 심부름 가는 길
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "심부름 가는 길"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 20269
 accepted: 16961
 solved_users: 15905
-acceptance_rate: 84.795%
-collected_at: 2026-04-17T11:15:21.444954+00:00
+acceptance_rate: "84.795%"
+collected_at: "2026-04-17T11:15:21.444954+00:00"
 ---
 
 ## 문제

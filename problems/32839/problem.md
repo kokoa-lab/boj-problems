@@ -1,13 +1,13 @@
 ---
-title: String Rank
-special_judge: false
-time_limit: 0.5 초
-memory_limit: 2048 MB
+title: "String Rank"
+special_judge: "false"
+time_limit: "0.5 초"
+memory_limit: "2048 MB"
 submissions: 214
 accepted: 100
 solved_users: 68
-acceptance_rate: 44.444%
-collected_at: 2026-04-17T20:02:26.862556+00:00
+acceptance_rate: "44.444%"
+collected_at: "2026-04-17T20:02:26.862556+00:00"
 ---
 
 ## 문제

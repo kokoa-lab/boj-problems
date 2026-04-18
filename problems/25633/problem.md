@@ -1,13 +1,13 @@
 ---
-title: 도미노 넘어뜨리기
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "도미노 넘어뜨리기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 870
 accepted: 360
 solved_users: 302
-acceptance_rate: 44.609%
-collected_at: 2026-04-17T17:30:28.925573+00:00
+acceptance_rate: "44.609%"
+collected_at: "2026-04-17T17:30:28.925573+00:00"
 ---
 
 ## 문제

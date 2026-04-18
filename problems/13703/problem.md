@@ -1,13 +1,13 @@
 ---
-title: 물벼룩의 생존확률
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "물벼룩의 생존확률"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 2258
 accepted: 749
 solved_users: 599
-acceptance_rate: 36.547%
-collected_at: 2026-04-17T13:17:33.920942+00:00
+acceptance_rate: "36.547%"
+collected_at: "2026-04-17T13:17:33.920942+00:00"
 ---
 
 ## 문제

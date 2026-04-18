@@ -1,13 +1,13 @@
 ---
-title: 2D 큐브
-special_judge: true
-time_limit: 1 초
-memory_limit: 512 MB
+title: "2D 큐브"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 230
 accepted: 71
 solved_users: 67
-acceptance_rate: 36.612%
-collected_at: 2026-04-17T16:39:37.584406+00:00
+acceptance_rate: "36.612%"
+collected_at: "2026-04-17T16:39:37.584406+00:00"
 ---
 
 ## 문제

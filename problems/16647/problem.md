@@ -1,13 +1,13 @@
 ---
-title: Happy Birthday, kipa00!
-special_judge: true
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "Happy Birthday, kipa00!"
+special_judge: "true"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 3301
 accepted: 1019
 solved_users: 610
-acceptance_rate: 30.902%
-collected_at: 2026-04-17T14:21:37.987474+00:00
+acceptance_rate: "30.902%"
+collected_at: "2026-04-17T14:21:37.987474+00:00"
 ---
 
 ## 문제

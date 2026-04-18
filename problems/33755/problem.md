@@ -1,13 +1,13 @@
 ---
-title: 물류 작업 최적화
-special_judge: false
-time_limit: 2 초
-memory_limit: 2048 MB
+title: "물류 작업 최적화"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "2048 MB"
 submissions: 414
 accepted: 243
 solved_users: 186
-acceptance_rate: 62.626%
-collected_at: 2026-04-17T20:23:02.859131+00:00
+acceptance_rate: "62.626%"
+collected_at: "2026-04-17T20:23:02.859131+00:00"
 ---
 
 ## 문제

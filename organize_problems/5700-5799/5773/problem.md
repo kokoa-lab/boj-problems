@@ -1,13 +1,13 @@
 ---
-title: The Splitting Club
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "The Splitting Club"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 44
 accepted: 27
 solved_users: 16
-acceptance_rate: 76.190%
-collected_at: 2026-04-17T11:17:16.033115+00:00
+acceptance_rate: "76.190%"
+collected_at: "2026-04-17T11:17:16.033115+00:00"
 ---
 
 ## 문제

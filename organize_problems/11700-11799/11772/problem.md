@@ -1,13 +1,13 @@
 ---
-title: POT
-special_judge: false
-time_limit: 1 초
-memory_limit: 64 MB
+title: "POT"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "64 MB"
 submissions: 1407
 accepted: 1188
 solved_users: 1125
-acceptance_rate: 85.486%
-collected_at: 2026-04-17T12:45:43.374602+00:00
+acceptance_rate: "85.486%"
+collected_at: "2026-04-17T12:45:43.374602+00:00"
 ---
 
 ## 문제

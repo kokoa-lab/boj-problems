@@ -1,13 +1,13 @@
 ---
-title: 정원사
-special_judge: false
-time_limit: 3 초
-memory_limit: 128 MB
+title: "정원사"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "128 MB"
 submissions: 603
 accepted: 173
 solved_users: 86
-acceptance_rate: 22.513%
-collected_at: 2026-04-17T14:00:34.976641+00:00
+acceptance_rate: "22.513%"
+collected_at: "2026-04-17T14:00:34.976641+00:00"
 ---
 
 ## 문제

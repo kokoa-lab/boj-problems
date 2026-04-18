@@ -1,13 +1,13 @@
 ---
-title: 최대 이분 매칭
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "최대 이분 매칭"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 24
 accepted: 12
 solved_users: 9
-acceptance_rate: 60.000%
-collected_at: 2026-04-17T13:13:03.187625+00:00
+acceptance_rate: "60.000%"
+collected_at: "2026-04-17T13:13:03.187625+00:00"
 ---
 
 ## 문제

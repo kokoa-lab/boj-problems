@@ -1,13 +1,13 @@
 ---
-title: Two-Headed Cows
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Two-Headed Cows"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 36
 accepted: 16
 solved_users: 14
-acceptance_rate: 46.667%
-collected_at: 2026-04-17T13:41:46.360762+00:00
+acceptance_rate: "46.667%"
+collected_at: "2026-04-17T13:41:46.360762+00:00"
 ---
 
 ## 문제

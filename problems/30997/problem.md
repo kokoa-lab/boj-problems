@@ -1,13 +1,13 @@
 ---
-title: 가중치 복권
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "가중치 복권"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 282
 accepted: 84
 solved_users: 79
-acceptance_rate: 36.406%
-collected_at: 2026-04-17T19:19:25.428520+00:00
+acceptance_rate: "36.406%"
+collected_at: "2026-04-17T19:19:25.428520+00:00"
 ---
 
 ## 문제

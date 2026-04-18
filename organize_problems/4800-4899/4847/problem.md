@@ -1,13 +1,13 @@
 ---
-title: Wavelet Compression
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Wavelet Compression"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 61
 accepted: 50
 solved_users: 23
-acceptance_rate: 71.875%
-collected_at: 2026-04-17T11:09:19.473600+00:00
+acceptance_rate: "71.875%"
+collected_at: "2026-04-17T11:09:19.473600+00:00"
 ---
 
 ## 문제

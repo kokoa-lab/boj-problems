@@ -1,13 +1,13 @@
 ---
-title: 조명
-special_judge: false
-time_limit: 4 초
-memory_limit: 1024 MB
+title: "조명"
+special_judge: "false"
+time_limit: "4 초"
+memory_limit: "1024 MB"
 submissions: 26
 accepted: 7
 solved_users: 6
-acceptance_rate: 54.545%
-collected_at: 2026-04-17T20:08:50.283873+00:00
+acceptance_rate: "54.545%"
+collected_at: "2026-04-17T20:08:50.283873+00:00"
 ---
 
 ## 문제

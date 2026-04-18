@@ -1,13 +1,13 @@
 ---
-title: 페이지 세기
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "페이지 세기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 2084
 accepted: 882
 solved_users: 725
-acceptance_rate: 41.146%
-collected_at: 2026-04-17T11:09:04.128570+00:00
+acceptance_rate: "41.146%"
+collected_at: "2026-04-17T11:09:04.128570+00:00"
 ---
 
 ## 문제

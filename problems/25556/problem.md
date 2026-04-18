@@ -1,13 +1,13 @@
 ---
-title: 포스택
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "포스택"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 3526
 accepted: 1573
 solved_users: 1155
-acceptance_rate: 43.601%
-collected_at: 2026-04-17T17:28:42.143036+00:00
+acceptance_rate: "43.601%"
+collected_at: "2026-04-17T17:28:42.143036+00:00"
 ---
 
 ## 문제

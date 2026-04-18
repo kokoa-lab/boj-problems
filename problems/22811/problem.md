@@ -1,13 +1,13 @@
 ---
-title: Get Many Persimmon Trees
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Get Many Persimmon Trees"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 82
 accepted: 72
 solved_users: 50
-acceptance_rate: 90.909%
-collected_at: 2026-04-17T16:36:30.770576+00:00
+acceptance_rate: "90.909%"
+collected_at: "2026-04-17T16:36:30.770576+00:00"
 ---
 
 ## 문제

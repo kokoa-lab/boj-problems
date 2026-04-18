@@ -1,13 +1,13 @@
 ---
-title: Hole in the Wall
-special_judge: true
-time_limit: 3 초
-memory_limit: 256 MB
+title: "Hole in the Wall"
+special_judge: "true"
+time_limit: "3 초"
+memory_limit: "256 MB"
 submissions: 9
 accepted: 6
 solved_users: 4
-acceptance_rate: 100.000%
-collected_at: 2026-04-17T12:40:04.103148+00:00
+acceptance_rate: "100.000%"
+collected_at: "2026-04-17T12:40:04.103148+00:00"
 ---
 
 ## 문제

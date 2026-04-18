@@ -1,13 +1,13 @@
 ---
-title: Lazyland
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Lazyland"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 85
 accepted: 70
 solved_users: 69
-acceptance_rate: 83.133%
-collected_at: 2026-04-17T14:22:07.102597+00:00
+acceptance_rate: "83.133%"
+collected_at: "2026-04-17T14:22:07.102597+00:00"
 ---
 
 ## 문제

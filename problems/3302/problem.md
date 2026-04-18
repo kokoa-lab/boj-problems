@@ -1,13 +1,13 @@
 ---
-title: Job Scheduling
-special_judge: true
-time_limit: 1 초
-memory_limit: 32 MB
+title: "Job Scheduling"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "32 MB"
 submissions: 104
 accepted: 23
 solved_users: 19
-acceptance_rate: 24.675%
-collected_at: 2026-04-17T10:48:02.687769+00:00
+acceptance_rate: "24.675%"
+collected_at: "2026-04-17T10:48:02.687769+00:00"
 ---
 
 ## 문제

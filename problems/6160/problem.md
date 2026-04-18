@@ -1,13 +1,13 @@
 ---
-title: Election Time
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Election Time"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 483
 accepted: 343
 solved_users: 301
-acceptance_rate: 73.594%
-collected_at: 2026-04-17T11:21:30.499930+00:00
+acceptance_rate: "73.594%"
+collected_at: "2026-04-17T11:21:30.499930+00:00"
 ---
 
 ## 문제

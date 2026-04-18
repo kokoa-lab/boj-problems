@@ -1,13 +1,13 @@
 ---
-title: 보석 모으기
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "보석 모으기"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 2103
 accepted: 875
 solved_users: 598
-acceptance_rate: 41.994%
-collected_at: 2026-04-17T10:30:30.943620+00:00
+acceptance_rate: "41.994%"
+collected_at: "2026-04-17T10:30:30.943620+00:00"
 ---
 
 ## 문제

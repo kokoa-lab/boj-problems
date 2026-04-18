@@ -1,13 +1,13 @@
 ---
-title: Strings
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "Strings"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 11
 accepted: 1
 solved_users: 1
-acceptance_rate: 100.000%
-collected_at: 2026-04-17T13:43:35.158686+00:00
+acceptance_rate: "100.000%"
+collected_at: "2026-04-17T13:43:35.158686+00:00"
 ---
 
 ## 문제

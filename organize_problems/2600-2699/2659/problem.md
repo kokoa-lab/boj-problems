@@ -1,13 +1,13 @@
 ---
-title: 십자카드 문제
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "십자카드 문제"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 8480
 accepted: 3459
 solved_users: 2872
-acceptance_rate: 42.347%
-collected_at: 2026-04-17T10:43:44.510927+00:00
+acceptance_rate: "42.347%"
+collected_at: "2026-04-17T10:43:44.510927+00:00"
 ---
 
 ## 문제

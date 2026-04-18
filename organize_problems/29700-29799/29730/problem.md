@@ -1,13 +1,13 @@
 ---
-title: 임스의 데일리 인증 스터디
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "임스의 데일리 인증 스터디"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 1314
 accepted: 493
 solved_users: 409
-acceptance_rate: 38.011%
-collected_at: 2026-04-17T18:51:38.785459+00:00
+acceptance_rate: "38.011%"
+collected_at: "2026-04-17T18:51:38.785459+00:00"
 ---
 
 ## 문제

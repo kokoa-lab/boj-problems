@@ -1,13 +1,13 @@
 ---
-title: LCM 더하기
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "LCM 더하기"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 325
 accepted: 85
 solved_users: 63
-acceptance_rate: 25.610%
-collected_at: 2026-04-17T13:43:17.433283+00:00
+acceptance_rate: "25.610%"
+collected_at: "2026-04-17T13:43:17.433283+00:00"
 ---
 
 ## 문제

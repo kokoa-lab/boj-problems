@@ -1,13 +1,13 @@
 ---
-title: Stephen Cook
-special_judge: false
-time_limit: 3 초
-memory_limit: 256 MB
+title: "Stephen Cook"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "256 MB"
 submissions: 14
 accepted: 4
 solved_users: 4
-acceptance_rate: 57.143%
-collected_at: 2026-04-17T13:13:18.884202+00:00
+acceptance_rate: "57.143%"
+collected_at: "2026-04-17T13:13:18.884202+00:00"
 ---
 
 ## 문제

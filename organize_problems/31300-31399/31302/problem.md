@@ -1,13 +1,13 @@
 ---
-title: Digit Translation
-special_judge: false
-time_limit: 1 초
-memory_limit: 2048 MB
+title: "Digit Translation"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "2048 MB"
 submissions: 38
 accepted: 21
 solved_users: 19
-acceptance_rate: 67.857%
-collected_at: 2026-04-17T19:25:29.789169+00:00
+acceptance_rate: "67.857%"
+collected_at: "2026-04-17T19:25:29.789169+00:00"
 ---
 
 ## 문제

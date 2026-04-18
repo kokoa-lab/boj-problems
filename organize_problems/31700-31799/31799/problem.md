@@ -1,13 +1,13 @@
 ---
-title: 평점 변환
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "평점 변환"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 554
 accepted: 340
 solved_users: 245
-acceptance_rate: 60.345%
-collected_at: 2026-04-17T19:36:41.753302+00:00
+acceptance_rate: "60.345%"
+collected_at: "2026-04-17T19:36:41.753302+00:00"
 ---
 
 ## 문제

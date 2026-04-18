@@ -1,13 +1,13 @@
 ---
-title: Inverse Look-and-Say
-special_judge: false
-time_limit: 1 초
-memory_limit: 2048 MB
+title: "Inverse Look-and-Say"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "2048 MB"
 submissions: 275
 accepted: 89
 solved_users: 85
-acceptance_rate: 36.017%
-collected_at: 2026-04-17T20:45:56.697853+00:00
+acceptance_rate: "36.017%"
+collected_at: "2026-04-17T20:45:56.697853+00:00"
 ---
 
 ## 문제

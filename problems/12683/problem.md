@@ -1,13 +1,13 @@
 ---
-title: Test Passing Probability (Small)
-special_judge: true
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Test Passing Probability (Small)"
+special_judge: "true"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 70
 accepted: 45
 solved_users: 27
-acceptance_rate: 67.500%
-collected_at: 2026-04-17T12:59:40.741192+00:00
+acceptance_rate: "67.500%"
+collected_at: "2026-04-17T12:59:40.741192+00:00"
 ---
 
 ## 문제

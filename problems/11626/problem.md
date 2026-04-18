@@ -1,13 +1,13 @@
 ---
-title: Physical Music
-special_judge: false
-time_limit: 5 초
-memory_limit: 256 MB
+title: "Physical Music"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "256 MB"
 submissions: 124
 accepted: 57
 solved_users: 52
-acceptance_rate: 57.778%
-collected_at: 2026-04-17T12:43:08.530066+00:00
+acceptance_rate: "57.778%"
+collected_at: "2026-04-17T12:43:08.530066+00:00"
 ---
 
 ## 문제

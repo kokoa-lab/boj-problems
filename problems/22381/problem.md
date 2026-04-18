@@ -1,13 +1,13 @@
 ---
-title: 毒の沼地
-special_judge: false
-time_limit: 8 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "毒の沼地"
+special_judge: "false"
+time_limit: "8 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 40
 accepted: 29
 solved_users: 25
-acceptance_rate: 75.758%
-collected_at: 2026-04-17T16:19:48.932772+00:00
+acceptance_rate: "75.758%"
+collected_at: "2026-04-17T16:19:48.932772+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: じゃんけん (Rock-Scissors-Paper)
-special_judge: false
-time_limit: 2 초
-memory_limit: 2048 MB
+title: "じゃんけん (Rock-Scissors-Paper)"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "2048 MB"
 submissions: 292
 accepted: 266
 solved_users: 245
-acceptance_rate: 92.105%
-collected_at: 2026-04-17T20:10:38.205629+00:00
+acceptance_rate: "92.105%"
+collected_at: "2026-04-17T20:10:38.205629+00:00"
 ---
 
 ## 문제

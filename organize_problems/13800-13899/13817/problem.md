@@ -1,13 +1,13 @@
 ---
-title: Everlasting...?
-special_judge: false
-time_limit: 8 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "Everlasting...?"
+special_judge: "false"
+time_limit: "8 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 160
 accepted: 84
 solved_users: 61
-acceptance_rate: 51.695%
-collected_at: 2026-04-17T13:20:03.040502+00:00
+acceptance_rate: "51.695%"
+collected_at: "2026-04-17T13:20:03.040502+00:00"
 ---
 
 ## 문제

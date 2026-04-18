@@ -1,13 +1,13 @@
 ---
-title: Extended Braille
-special_judge: false
-time_limit: 8 초 (추가 시간 없음)
-memory_limit: 2048 MB
+title: "Extended Braille"
+special_judge: "false"
+time_limit: "8 초 (추가 시간 없음)"
+memory_limit: "2048 MB"
 submissions: 76
 accepted: 44
 solved_users: 40
-acceptance_rate: 57.971%
-collected_at: 2026-04-17T17:38:12.006179+00:00
+acceptance_rate: "57.971%"
+collected_at: "2026-04-17T17:38:12.006179+00:00"
 ---
 
 ## 문제

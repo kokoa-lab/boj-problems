@@ -1,13 +1,13 @@
 ---
-title: 피자 굽기
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "피자 굽기"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 9596
 accepted: 2778
 solved_users: 2025
-acceptance_rate: 28.074%
-collected_at: 2026-04-18T09:48:07.882544+00:00
+acceptance_rate: "28.074%"
+collected_at: "2026-04-18T09:48:07.882544+00:00"
 ---
 
 ## 문제

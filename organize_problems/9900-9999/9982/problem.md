@@ -1,13 +1,13 @@
 ---
-title: Frogger's For Dinner
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Frogger's For Dinner"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 77
 accepted: 34
 solved_users: 25
-acceptance_rate: 36.765%
-collected_at: 2026-04-17T12:17:26.201658+00:00
+acceptance_rate: "36.765%"
+collected_at: "2026-04-17T12:17:26.201658+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Grudanje
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Grudanje"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 50
 accepted: 27
 solved_users: 27
-acceptance_rate: 62.791%
-collected_at: 2026-04-17T14:58:19.350966+00:00
+acceptance_rate: "62.791%"
+collected_at: "2026-04-17T14:58:19.350966+00:00"
 ---
 
 ## 문제

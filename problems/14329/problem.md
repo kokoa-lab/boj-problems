@@ -1,13 +1,13 @@
 ---
-title: Clash Royale (Large)
-special_judge: false
-time_limit: 20 초
-memory_limit: 512 MB
+title: "Clash Royale (Large)"
+special_judge: "false"
+time_limit: "20 초"
+memory_limit: "512 MB"
 submissions: 67
 accepted: 17
 solved_users: 9
-acceptance_rate: 23.077%
-collected_at: 2026-04-17T13:30:22.401101+00:00
+acceptance_rate: "23.077%"
+collected_at: "2026-04-17T13:30:22.401101+00:00"
 ---
 
 ## 문제

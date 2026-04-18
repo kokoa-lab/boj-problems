@@ -1,13 +1,13 @@
 ---
-title: 일반 쿼리가 구간 쿼리에 온라인 쿼리인 수열과 쿼리는 좋아하세요?
-special_judge: false
-time_limit: 4 초
-memory_limit: 1536 MB
+title: "일반 쿼리가 구간 쿼리에 온라인 쿼리인 수열과 쿼리는 좋아하세요?"
+special_judge: "false"
+time_limit: "4 초"
+memory_limit: "1536 MB"
 submissions: 201
 accepted: 47
 solved_users: 32
-acceptance_rate: 18.391%
-collected_at: 2026-04-17T20:30:13.361906+00:00
+acceptance_rate: "18.391%"
+collected_at: "2026-04-17T20:30:13.361906+00:00"
 ---
 
 ## 문제

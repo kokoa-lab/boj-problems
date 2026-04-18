@@ -1,13 +1,13 @@
 ---
-title: Kostki domina
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Kostki domina"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 53
 accepted: 13
 solved_users: 11
-acceptance_rate: 34.375%
-collected_at: 2026-04-17T12:02:39.947658+00:00
+acceptance_rate: "34.375%"
+collected_at: "2026-04-17T12:02:39.947658+00:00"
 ---
 
 ## 문제

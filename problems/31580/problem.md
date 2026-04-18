@@ -1,13 +1,13 @@
 ---
-title: 2017 지구멸망
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "2017 지구멸망"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 4
 accepted: 3
 solved_users: 3
-acceptance_rate: 100.000%
-collected_at: 2026-04-17T19:31:20.366664+00:00
+acceptance_rate: "100.000%"
+collected_at: "2026-04-17T19:31:20.366664+00:00"
 ---
 
 ## 문제

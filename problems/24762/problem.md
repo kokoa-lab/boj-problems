@@ -1,13 +1,13 @@
 ---
-title: Ticket Completed?
-special_judge: true
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Ticket Completed?"
+special_judge: "true"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 86
 accepted: 61
 solved_users: 43
-acceptance_rate: 63.235%
-collected_at: 2026-04-17T17:14:37.874245+00:00
+acceptance_rate: "63.235%"
+collected_at: "2026-04-17T17:14:37.874245+00:00"
 ---
 
 ## 문제

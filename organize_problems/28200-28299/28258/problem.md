@@ -1,13 +1,13 @@
 ---
-title: 초콜릿 보물 찾기
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "초콜릿 보물 찾기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 1103
 accepted: 144
 solved_users: 130
-acceptance_rate: 14.381%
-collected_at: 2026-04-17T18:21:21.400956+00:00
+acceptance_rate: "14.381%"
+collected_at: "2026-04-17T18:21:21.400956+00:00"
 ---
 
 ## 문제

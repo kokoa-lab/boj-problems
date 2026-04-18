@@ -1,13 +1,13 @@
 ---
-title: Black Box
-special_judge: false
-time_limit: 1 초
-memory_limit: 2048 MB
+title: "Black Box"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "2048 MB"
 submissions: 258
 accepted: 179
 solved_users: 118
-acceptance_rate: 74.684%
-collected_at: 2026-04-17T19:16:54.693098+00:00
+acceptance_rate: "74.684%"
+collected_at: "2026-04-17T19:16:54.693098+00:00"
 ---
 
 ## 문제

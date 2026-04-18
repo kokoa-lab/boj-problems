@@ -1,13 +1,13 @@
 ---
-title: 좋은 직사각형
-special_judge: false
-time_limit: 4 초
-memory_limit: 256 MB
+title: "좋은 직사각형"
+special_judge: "false"
+time_limit: "4 초"
+memory_limit: "256 MB"
 submissions: 51
 accepted: 2
 solved_users: 1
-acceptance_rate: 50.000%
-collected_at: 2026-04-17T13:42:58.042920+00:00
+acceptance_rate: "50.000%"
+collected_at: "2026-04-17T13:42:58.042920+00:00"
 ---
 
 ## 문제

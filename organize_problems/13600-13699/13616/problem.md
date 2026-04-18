@@ -1,13 +1,13 @@
 ---
-title: Letras
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Letras"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 37
 accepted: 11
 solved_users: 9
-acceptance_rate: 31.034%
-collected_at: 2026-04-17T13:16:08.532387+00:00
+acceptance_rate: "31.034%"
+collected_at: "2026-04-17T13:16:08.532387+00:00"
 ---
 
 ## 문제

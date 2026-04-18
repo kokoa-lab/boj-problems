@@ -1,13 +1,13 @@
 ---
-title: 햄버거 분배
-special_judge: false
-time_limit: 0.5 초 (추가 시간 없음)
-memory_limit: 256 MB
+title: "햄버거 분배"
+special_judge: "false"
+time_limit: "0.5 초 (추가 시간 없음)"
+memory_limit: "256 MB"
 submissions: 20203
 accepted: 10274
 solved_users: 8217
-acceptance_rate: 51.806%
-collected_at: 2026-04-17T15:29:40.032753+00:00
+acceptance_rate: "51.806%"
+collected_at: "2026-04-17T15:29:40.032753+00:00"
 ---
 
 ## 문제

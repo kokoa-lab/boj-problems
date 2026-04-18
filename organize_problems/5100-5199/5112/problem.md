@@ -1,13 +1,13 @@
 ---
-title: Functional Programming Counts
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Functional Programming Counts"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 334
 accepted: 7
 solved_users: 4
-acceptance_rate: 1.434%
-collected_at: 2026-04-17T11:11:34.025675+00:00
+acceptance_rate: "1.434%"
+collected_at: "2026-04-17T11:11:34.025675+00:00"
 ---
 
 ## 문제

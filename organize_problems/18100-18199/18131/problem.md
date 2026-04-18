@@ -1,13 +1,13 @@
 ---
-title: 치삼이의 플레이리스트
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "치삼이의 플레이리스트"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 62
 accepted: 14
 solved_users: 14
-acceptance_rate: 32.558%
-collected_at: 2026-04-17T14:56:08.219086+00:00
+acceptance_rate: "32.558%"
+collected_at: "2026-04-17T14:56:08.219086+00:00"
 ---
 
 ## 문제

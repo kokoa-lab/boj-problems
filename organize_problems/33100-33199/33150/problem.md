@@ -1,13 +1,13 @@
 ---
-title: 나무핑
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "나무핑"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 98
 accepted: 53
 solved_users: 47
-acceptance_rate: 63.514%
-collected_at: 2026-04-17T20:10:15.548595+00:00
+acceptance_rate: "63.514%"
+collected_at: "2026-04-17T20:10:15.548595+00:00"
 ---
 
 ## 문제

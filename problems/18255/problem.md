@@ -1,13 +1,13 @@
 ---
-title: Visible Lattice
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Visible Lattice"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 67
 accepted: 49
 solved_users: 40
-acceptance_rate: 68.966%
-collected_at: 2026-04-17T14:58:07.234521+00:00
+acceptance_rate: "68.966%"
+collected_at: "2026-04-17T14:58:07.234521+00:00"
 ---
 
 ## 문제

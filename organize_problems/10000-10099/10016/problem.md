@@ -1,13 +1,13 @@
 ---
-title: Świetliki
-special_judge: true
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Świetliki"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 13
 accepted: 6
 solved_users: 5
-acceptance_rate: 83.333%
-collected_at: 2026-04-17T12:17:51.619041+00:00
+acceptance_rate: "83.333%"
+collected_at: "2026-04-17T12:17:51.619041+00:00"
 ---
 
 ## 문제

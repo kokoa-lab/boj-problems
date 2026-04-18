@@ -1,13 +1,13 @@
 ---
-title: Yet Another Problem About Permutations
-special_judge: true
-time_limit: 3 초
-memory_limit: 256 MB
+title: "Yet Another Problem About Permutations"
+special_judge: "true"
+time_limit: "3 초"
+memory_limit: "256 MB"
 submissions: 42
 accepted: 5
 solved_users: 5
-acceptance_rate: 14.706%
-collected_at: 2026-04-17T15:14:50.862996+00:00
+acceptance_rate: "14.706%"
+collected_at: "2026-04-17T15:14:50.862996+00:00"
 ---
 
 ## 문제

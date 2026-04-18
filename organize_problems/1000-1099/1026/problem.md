@@ -1,13 +1,13 @@
 ---
-title: 보물
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "보물"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 78323
 accepted: 54247
 solved_users: 45932
-acceptance_rate: 70.858%
-collected_at: 2026-04-17T10:27:45.322538+00:00
+acceptance_rate: "70.858%"
+collected_at: "2026-04-17T10:27:45.322538+00:00"
 ---
 
 ## 문제

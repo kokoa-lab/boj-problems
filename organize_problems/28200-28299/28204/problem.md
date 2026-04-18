@@ -1,13 +1,13 @@
 ---
-title: Classical Data Structure Problem
-special_judge: false
-time_limit: 3 초
-memory_limit: 128 MB
+title: "Classical Data Structure Problem"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "128 MB"
 submissions: 38
 accepted: 7
 solved_users: 6
-acceptance_rate: 25.000%
-collected_at: 2026-04-17T18:20:12.482626+00:00
+acceptance_rate: "25.000%"
+collected_at: "2026-04-17T18:20:12.482626+00:00"
 ---
 
 ## 문제

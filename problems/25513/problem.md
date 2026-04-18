@@ -1,13 +1,13 @@
 ---
-title: 빠른 오름차순 숫자 탐색
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "빠른 오름차순 숫자 탐색"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 385
 accepted: 255
 solved_users: 230
-acceptance_rate: 66.860%
-collected_at: 2026-04-17T17:27:59.391035+00:00
+acceptance_rate: "66.860%"
+collected_at: "2026-04-17T17:27:59.391035+00:00"
 ---
 
 ## 문제

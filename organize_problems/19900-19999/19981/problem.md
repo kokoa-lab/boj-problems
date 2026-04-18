@@ -1,13 +1,13 @@
 ---
-title: ЕГЭ
-special_judge: true
-time_limit: 2 초
-memory_limit: 512 MB
+title: "ЕГЭ"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 51
 accepted: 30
 solved_users: 24
-acceptance_rate: 58.537%
-collected_at: 2026-04-17T15:30:08.000762+00:00
+acceptance_rate: "58.537%"
+collected_at: "2026-04-17T15:30:08.000762+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: The Battle of Giants
-special_judge: true
-time_limit: 1 초
-memory_limit: 512 MB
+title: "The Battle of Giants"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 384
 accepted: 244
 solved_users: 195
-acceptance_rate: 62.300%
-collected_at: 2026-04-17T16:55:56.895285+00:00
+acceptance_rate: "62.300%"
+collected_at: "2026-04-17T16:55:56.895285+00:00"
 ---
 
 ## 문제

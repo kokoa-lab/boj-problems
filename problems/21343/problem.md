@@ -1,13 +1,13 @@
 ---
-title: Great Expectations
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Great Expectations"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 173
 accepted: 59
 solved_users: 41
-acceptance_rate: 31.298%
-collected_at: 2026-04-17T15:56:26.608715+00:00
+acceptance_rate: "31.298%"
+collected_at: "2026-04-17T15:56:26.608715+00:00"
 ---
 
 ## 문제

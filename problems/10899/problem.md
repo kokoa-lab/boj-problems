@@ -1,13 +1,13 @@
 ---
-title: King of penalty
-special_judge: false
-time_limit: 1 초
-memory_limit: 16 MB
+title: "King of penalty"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "16 MB"
 submissions: 366
 accepted: 180
 solved_users: 150
-acceptance_rate: 49.669%
-collected_at: 2026-04-17T12:31:16.295222+00:00
+acceptance_rate: "49.669%"
+collected_at: "2026-04-17T12:31:16.295222+00:00"
 ---
 
 ## 문제

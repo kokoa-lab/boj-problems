@@ -1,13 +1,13 @@
 ---
-title: Image Analysis
-special_judge: false
-time_limit: 2 초
-memory_limit: 2048 MB
+title: "Image Analysis"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "2048 MB"
 submissions: 46
 accepted: 13
 solved_users: 10
-acceptance_rate: 25.000%
-collected_at: 2026-04-17T20:45:45.005892+00:00
+acceptance_rate: "25.000%"
+collected_at: "2026-04-17T20:45:45.005892+00:00"
 ---
 
 ## 문제

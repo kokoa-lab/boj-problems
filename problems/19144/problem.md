@@ -1,13 +1,13 @@
 ---
-title: Aho
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Aho"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 119
 accepted: 1
 solved_users: 1
-acceptance_rate: 8.333%
-collected_at: 2026-04-17T15:14:04.951147+00:00
+acceptance_rate: "8.333%"
+collected_at: "2026-04-17T15:14:04.951147+00:00"
 ---
 
 ## 문제

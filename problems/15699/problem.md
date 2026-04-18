@@ -1,13 +1,13 @@
 ---
-title: Wireless is the New Fiber
-special_judge: true
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Wireless is the New Fiber"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 106
 accepted: 58
 solved_users: 54
-acceptance_rate: 59.341%
-collected_at: 2026-04-17T14:04:31.813983+00:00
+acceptance_rate: "59.341%"
+collected_at: "2026-04-17T14:04:31.813983+00:00"
 ---
 
 ## 문제

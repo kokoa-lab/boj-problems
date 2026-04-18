@@ -1,13 +1,13 @@
 ---
-title: Easy-to-Solve Expressions
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Easy-to-Solve Expressions"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 1674
 accepted: 1454
 solved_users: 1388
-acceptance_rate: 87.296%
-collected_at: 2026-04-17T17:32:46.237444+00:00
+acceptance_rate: "87.296%"
+collected_at: "2026-04-17T17:32:46.237444+00:00"
 ---
 
 ## 문제

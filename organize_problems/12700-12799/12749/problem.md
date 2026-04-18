@@ -1,13 +1,13 @@
 ---
-title: Bosses
-special_judge: false
-time_limit: 1.5 초
-memory_limit: 256 MB
+title: "Bosses"
+special_judge: "false"
+time_limit: "1.5 초"
+memory_limit: "256 MB"
 submissions: 330
 accepted: 159
 solved_users: 132
-acceptance_rate: 46.479%
-collected_at: 2026-04-17T13:00:44.496599+00:00
+acceptance_rate: "46.479%"
+collected_at: "2026-04-17T13:00:44.496599+00:00"
 ---
 
 ## 문제

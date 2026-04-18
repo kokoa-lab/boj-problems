@@ -1,13 +1,13 @@
 ---
-title: Suit Distribution
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Suit Distribution"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 33
 accepted: 27
 solved_users: 20
-acceptance_rate: 76.923%
-collected_at: 2026-04-17T11:09:29.469319+00:00
+acceptance_rate: "76.923%"
+collected_at: "2026-04-17T11:09:29.469319+00:00"
 ---
 
 ## 문제

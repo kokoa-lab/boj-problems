@@ -1,13 +1,13 @@
 ---
-title: Bipartite Blanket
-special_judge: false
-time_limit: 3 초
-memory_limit: 512 MB
+title: "Bipartite Blanket"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "512 MB"
 submissions: 79
 accepted: 55
 solved_users: 52
-acceptance_rate: 68.421%
-collected_at: 2026-04-17T13:22:42.482978+00:00
+acceptance_rate: "68.421%"
+collected_at: "2026-04-17T13:22:42.482978+00:00"
 ---
 
 ## 문제

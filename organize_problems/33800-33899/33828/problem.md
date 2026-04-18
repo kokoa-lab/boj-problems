@@ -1,13 +1,13 @@
 ---
-title: Piracka Chciwość
-special_judge: false
-time_limit: 6 초 (추가 시간 없음)
-memory_limit: 2048 MB
+title: "Piracka Chciwość"
+special_judge: "false"
+time_limit: "6 초 (추가 시간 없음)"
+memory_limit: "2048 MB"
 submissions: 7
 accepted: 4
 solved_users: 2
-acceptance_rate: 66.667%
-collected_at: 2026-04-17T20:24:21.444912+00:00
+acceptance_rate: "66.667%"
+collected_at: "2026-04-17T20:24:21.444912+00:00"
 ---
 
 ## 문제

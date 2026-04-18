@@ -1,13 +1,13 @@
 ---
-title: Mod-3 Permutation
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Mod-3 Permutation"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 80
 accepted: 64
 solved_users: 54
-acceptance_rate: 83.077%
-collected_at: 2026-04-17T12:13:37.560952+00:00
+acceptance_rate: "83.077%"
+collected_at: "2026-04-17T12:13:37.560952+00:00"
 ---
 
 ## 문제

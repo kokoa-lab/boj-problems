@@ -1,13 +1,13 @@
 ---
-title: 단어 퍼즐
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "단어 퍼즐"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 371
 accepted: 124
 solved_users: 70
-acceptance_rate: 36.458%
-collected_at: 2026-04-17T11:24:18.106649+00:00
+acceptance_rate: "36.458%"
+collected_at: "2026-04-17T11:24:18.106649+00:00"
 ---
 
 ## 문제

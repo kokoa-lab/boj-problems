@@ -1,13 +1,13 @@
 ---
-title: 넴모넴모 (Easy)
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "넴모넴모 (Easy)"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 3109
 accepted: 1670
 solved_users: 1205
-acceptance_rate: 55.073%
-collected_at: 2026-04-17T13:40:48.780217+00:00
+acceptance_rate: "55.073%"
+collected_at: "2026-04-17T13:40:48.780217+00:00"
 ---
 
 ## 문제

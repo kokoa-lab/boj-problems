@@ -1,13 +1,13 @@
 ---
-title: UFO の飛行場 (UFO) 2
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "UFO の飛行場 (UFO) 2"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 56
 accepted: 19
 solved_users: 16
-acceptance_rate: 34.783%
-collected_at: 2026-04-17T17:04:01.978383+00:00
+acceptance_rate: "34.783%"
+collected_at: "2026-04-17T17:04:01.978383+00:00"
 ---
 
 ## 문제

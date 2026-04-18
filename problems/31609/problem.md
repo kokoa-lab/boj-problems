@@ -1,13 +1,13 @@
 ---
-title: 現れている数字 (Appearing Numbers)
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "現れている数字 (Appearing Numbers)"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 1017
 accepted: 775
 solved_users: 720
-acceptance_rate: 77.005%
-collected_at: 2026-04-17T19:31:55.536497+00:00
+acceptance_rate: "77.005%"
+collected_at: "2026-04-17T19:31:55.536497+00:00"
 ---
 
 ## 문제

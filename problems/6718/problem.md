@@ -1,13 +1,13 @@
 ---
-title: Goldbach’s conjecture
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Goldbach’s conjecture"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 294
 accepted: 244
 solved_users: 212
-acceptance_rate: 86.179%
-collected_at: 2026-04-17T11:34:19.099191+00:00
+acceptance_rate: "86.179%"
+collected_at: "2026-04-17T11:34:19.099191+00:00"
 ---
 
 ## 문제

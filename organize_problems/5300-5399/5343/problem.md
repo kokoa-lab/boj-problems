@@ -1,13 +1,13 @@
 ---
-title: Parity Bit
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Parity Bit"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 673
 accepted: 478
 solved_users: 426
-acceptance_rate: 73.702%
-collected_at: 2026-04-17T11:13:04.457532+00:00
+acceptance_rate: "73.702%"
+collected_at: "2026-04-17T11:13:04.457532+00:00"
 ---
 
 ## 문제

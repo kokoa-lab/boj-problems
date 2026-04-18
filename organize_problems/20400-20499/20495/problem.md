@@ -1,13 +1,13 @@
 ---
-title: 수열과 헌팅
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "수열과 헌팅"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 808
 accepted: 362
 solved_users: 285
-acceptance_rate: 45.095%
-collected_at: 2026-04-17T15:37:06.592556+00:00
+acceptance_rate: "45.095%"
+collected_at: "2026-04-17T15:37:06.592556+00:00"
 ---
 
 ## 문제

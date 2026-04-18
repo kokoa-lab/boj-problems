@@ -1,13 +1,13 @@
 ---
-title: 벌집
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "벌집"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 233211
 accepted: 107435
 solved_users: 91326
-acceptance_rate: 45.483%
-collected_at: 2026-04-17T10:40:22.146218+00:00
+acceptance_rate: "45.483%"
+collected_at: "2026-04-17T10:40:22.146218+00:00"
 ---
 
 ## 문제

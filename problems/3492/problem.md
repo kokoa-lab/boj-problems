@@ -1,13 +1,13 @@
 ---
-title: Glass Beads
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Glass Beads"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 78
 accepted: 50
 solved_users: 38
-acceptance_rate: 67.857%
-collected_at: 2026-04-17T10:49:14.577507+00:00
+acceptance_rate: "67.857%"
+collected_at: "2026-04-17T10:49:14.577507+00:00"
 ---
 
 ## 문제

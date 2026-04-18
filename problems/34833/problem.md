@@ -1,13 +1,13 @@
 ---
-title: Bracket Sequence Endgame
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Bracket Sequence Endgame"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 58
 accepted: 43
 solved_users: 41
-acceptance_rate: 74.545%
-collected_at: 2026-04-17T20:49:48.780577+00:00
+acceptance_rate: "74.545%"
+collected_at: "2026-04-17T20:49:48.780577+00:00"
 ---
 
 ## 문제

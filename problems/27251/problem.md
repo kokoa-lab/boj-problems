@@ -1,13 +1,13 @@
 ---
-title: Звездочки
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Звездочки"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 533
 accepted: 273
 solved_users: 240
-acceptance_rate: 49.689%
-collected_at: 2026-04-17T17:59:09.033898+00:00
+acceptance_rate: "49.689%"
+collected_at: "2026-04-17T17:59:09.033898+00:00"
 ---
 
 ## 문제

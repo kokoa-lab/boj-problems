@@ -1,13 +1,13 @@
 ---
-title: 공 넣기
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "공 넣기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 149168
 accepted: 78099
 solved_users: 67253
-acceptance_rate: 52.309%
-collected_at: 2026-04-17T12:29:54.063435+00:00
+acceptance_rate: "52.309%"
+collected_at: "2026-04-17T12:29:54.063435+00:00"
 ---
 
 ## 문제

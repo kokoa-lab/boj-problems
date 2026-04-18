@@ -1,13 +1,13 @@
 ---
-title: 팩토리얼과 점화식
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "팩토리얼과 점화식"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 385
 accepted: 101
 solved_users: 90
-acceptance_rate: 42.654%
-collected_at: 2026-04-17T13:13:12.422794+00:00
+acceptance_rate: "42.654%"
+collected_at: "2026-04-17T13:13:12.422794+00:00"
 ---
 
 ## 문제

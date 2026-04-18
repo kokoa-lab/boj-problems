@@ -1,13 +1,13 @@
 ---
-title: 선인장 접기 Plus
-special_judge: true
-time_limit: 3 초
-memory_limit: 1024 MB
+title: "선인장 접기 Plus"
+special_judge: "true"
+time_limit: "3 초"
+memory_limit: "1024 MB"
 submissions: 64
 accepted: 15
 solved_users: 11
-acceptance_rate: 33.333%
-collected_at: 2026-04-17T19:23:59.706273+00:00
+acceptance_rate: "33.333%"
+collected_at: "2026-04-17T19:23:59.706273+00:00"
 ---
 
 ## 문제

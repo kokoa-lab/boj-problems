@@ -1,13 +1,13 @@
 ---
-title: 명제 증명
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "명제 증명"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 4197
 accepted: 1295
 solved_users: 1029
-acceptance_rate: 30.426%
-collected_at: 2026-04-17T10:39:41.518461+00:00
+acceptance_rate: "30.426%"
+collected_at: "2026-04-17T10:39:41.518461+00:00"
 ---
 
 ## 문제

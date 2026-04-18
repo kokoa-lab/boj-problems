@@ -1,13 +1,13 @@
 ---
-title: 고슴도치 그래프
-special_judge: false
-time_limit: 2.5 초
-memory_limit: 1024 MB
+title: "고슴도치 그래프"
+special_judge: "false"
+time_limit: "2.5 초"
+memory_limit: "1024 MB"
 submissions: 113
 accepted: 23
 solved_users: 14
-acceptance_rate: 15.054%
-collected_at: 2026-04-17T16:40:50.806159+00:00
+acceptance_rate: "15.054%"
+collected_at: "2026-04-17T16:40:50.806159+00:00"
 ---
 
 ## 문제

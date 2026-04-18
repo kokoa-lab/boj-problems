@@ -1,13 +1,13 @@
 ---
-title: 그래프 게임
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "그래프 게임"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 190
 accepted: 100
 solved_users: 95
-acceptance_rate: 53.073%
-collected_at: 2026-04-17T19:06:13.346619+00:00
+acceptance_rate: "53.073%"
+collected_at: "2026-04-17T19:06:13.346619+00:00"
 ---
 
 ## 문제

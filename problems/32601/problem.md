@@ -1,13 +1,13 @@
 ---
-title: Grocery Greed
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Grocery Greed"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 53
 accepted: 33
 solved_users: 32
-acceptance_rate: 65.306%
-collected_at: 2026-04-17T19:57:14.592218+00:00
+acceptance_rate: "65.306%"
+collected_at: "2026-04-17T19:57:14.592218+00:00"
 ---
 
 ## 문제

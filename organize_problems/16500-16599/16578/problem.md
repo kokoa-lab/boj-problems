@@ -1,13 +1,13 @@
 ---
-title: Popping Balloons
-special_judge: true
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Popping Balloons"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 101
 accepted: 41
 solved_users: 39
-acceptance_rate: 45.349%
-collected_at: 2026-04-17T14:20:20.339935+00:00
+acceptance_rate: "45.349%"
+collected_at: "2026-04-17T14:20:20.339935+00:00"
 ---
 
 ## 문제

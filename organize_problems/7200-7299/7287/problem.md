@@ -1,13 +1,13 @@
 ---
-title: 등록
-special_judge: true
-time_limit: 1 초
-memory_limit: 128 MB
+title: "등록"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 159025
 accepted: 76557
 solved_users: 71296
-acceptance_rate: 52.305%
-collected_at: 2026-04-17T11:47:59.365489+00:00
+acceptance_rate: "52.305%"
+collected_at: "2026-04-17T11:47:59.365489+00:00"
 ---
 
 ## 문제

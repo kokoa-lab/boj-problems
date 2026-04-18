@@ -1,13 +1,13 @@
 ---
-title: 김인천씨의 식료품가게 (Large)
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "김인천씨의 식료품가게 (Large)"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 1738
 accepted: 865
 solved_users: 713
-acceptance_rate: 49.105%
-collected_at: 2026-04-17T12:49:08.920548+00:00
+acceptance_rate: "49.105%"
+collected_at: "2026-04-17T12:49:08.920548+00:00"
 ---
 
 ## 문제

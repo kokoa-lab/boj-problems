@@ -1,13 +1,13 @@
 ---
-title: Lord of the Characteristic Polynomials (2)
-special_judge: false
-time_limit: 5 초
-memory_limit: 1024 MB
+title: "Lord of the Characteristic Polynomials (2)"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "1024 MB"
 submissions: 42
 accepted: 28
 solved_users: 11
-acceptance_rate: 47.826%
-collected_at: 2026-04-17T17:27:48.327914+00:00
+acceptance_rate: "47.826%"
+collected_at: "2026-04-17T17:27:48.327914+00:00"
 ---
 
 ## 문제

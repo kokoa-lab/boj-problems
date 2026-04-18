@@ -1,13 +1,13 @@
 ---
-title: 큰 수 소인수분해
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "큰 수 소인수분해"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 15707
 accepted: 3748
 solved_users: 1674
-acceptance_rate: 18.076%
-collected_at: 2026-04-17T10:56:26.303014+00:00
+acceptance_rate: "18.076%"
+collected_at: "2026-04-17T10:56:26.303014+00:00"
 ---
 
 ## 문제

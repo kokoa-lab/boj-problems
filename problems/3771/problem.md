@@ -1,13 +1,13 @@
 ---
-title: “Shortest” pair of paths
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "“Shortest” pair of paths"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 3
 accepted: 1
 solved_users: 1
-acceptance_rate: 100.000%
-collected_at: 2026-04-17T10:51:51.781425+00:00
+acceptance_rate: "100.000%"
+collected_at: "2026-04-17T10:51:51.781425+00:00"
 ---
 
 ## 문제

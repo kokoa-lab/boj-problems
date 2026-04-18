@@ -1,13 +1,13 @@
 ---
-title: 좋은놈 나쁜놈
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "좋은놈 나쁜놈"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 4245
 accepted: 2250
 solved_users: 2084
-acceptance_rate: 53.976%
-collected_at: 2026-04-17T11:01:49.814778+00:00
+acceptance_rate: "53.976%"
+collected_at: "2026-04-17T11:01:49.814778+00:00"
 ---
 
 ## 문제

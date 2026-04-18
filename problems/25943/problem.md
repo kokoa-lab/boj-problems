@@ -1,13 +1,13 @@
 ---
-title: 양팔저울
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "양팔저울"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 1522
 accepted: 1005
 solved_users: 876
-acceptance_rate: 67.024%
-collected_at: 2026-04-17T17:37:18.430352+00:00
+acceptance_rate: "67.024%"
+collected_at: "2026-04-17T17:37:18.430352+00:00"
 ---
 
 ## 문제

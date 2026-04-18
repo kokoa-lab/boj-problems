@@ -1,13 +1,13 @@
 ---
-title: Safety in Numbers (Large)
-special_judge: true
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Safety in Numbers (Large)"
+special_judge: "true"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 56
 accepted: 24
 solved_users: 23
-acceptance_rate: 41.818%
-collected_at: 2026-04-17T12:54:36.753836+00:00
+acceptance_rate: "41.818%"
+collected_at: "2026-04-17T12:54:36.753836+00:00"
 ---
 
 ## 문제

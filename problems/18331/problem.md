@@ -1,13 +1,13 @@
 ---
-title: Gold Rush
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Gold Rush"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 146
 accepted: 82
 solved_users: 71
-acceptance_rate: 62.832%
-collected_at: 2026-04-17T14:59:58.623568+00:00
+acceptance_rate: "62.832%"
+collected_at: "2026-04-17T14:59:58.623568+00:00"
 ---
 
 ## 문제

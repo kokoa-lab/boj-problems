@@ -1,13 +1,13 @@
 ---
-title: Beer Barrels
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Beer Barrels"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 50
 accepted: 25
 solved_users: 24
-acceptance_rate: 58.537%
-collected_at: 2026-04-17T14:47:38.447649+00:00
+acceptance_rate: "58.537%"
+collected_at: "2026-04-17T14:47:38.447649+00:00"
 ---
 
 ## 문제

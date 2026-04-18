@@ -1,13 +1,13 @@
 ---
-title: Ленивые лесорубы
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Ленивые лесорубы"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 8
 accepted: 5
 solved_users: 5
-acceptance_rate: 62.500%
-collected_at: 2026-04-17T18:31:34.794479+00:00
+acceptance_rate: "62.500%"
+collected_at: "2026-04-17T18:31:34.794479+00:00"
 ---
 
 ## 문제

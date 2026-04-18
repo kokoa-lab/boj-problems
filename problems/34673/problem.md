@@ -1,13 +1,13 @@
 ---
-title: 한국의 철도
-special_judge: false
-time_limit: 1.5 초
-memory_limit: 512 MB
+title: "한국의 철도"
+special_judge: "false"
+time_limit: "1.5 초"
+memory_limit: "512 MB"
 submissions: 71
 accepted: 32
 solved_users: 29
-acceptance_rate: 51.786%
-collected_at: 2026-04-17T20:45:33.035691+00:00
+acceptance_rate: "51.786%"
+collected_at: "2026-04-17T20:45:33.035691+00:00"
 ---
 
 ## 문제

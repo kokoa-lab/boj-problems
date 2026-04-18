@@ -1,13 +1,13 @@
 ---
-title: Uzastopni
-special_judge: true
-time_limit: 1 초
-memory_limit: 64 MB
+title: "Uzastopni"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "64 MB"
 submissions: 226
 accepted: 120
 solved_users: 97
-acceptance_rate: 56.725%
-collected_at: 2026-04-17T12:50:28.148512+00:00
+acceptance_rate: "56.725%"
+collected_at: "2026-04-17T12:50:28.148512+00:00"
 ---
 
 ## 문제

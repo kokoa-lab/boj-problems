@@ -1,13 +1,13 @@
 ---
-title: 왕복 여행
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "왕복 여행"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 1607
 accepted: 558
 solved_users: 409
-acceptance_rate: 32.957%
-collected_at: 2026-04-17T10:40:32.998901+00:00
+acceptance_rate: "32.957%"
+collected_at: "2026-04-17T10:40:32.998901+00:00"
 ---
 
 ## 문제

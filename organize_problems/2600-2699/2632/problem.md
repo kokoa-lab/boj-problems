@@ -1,13 +1,13 @@
 ---
-title: 피자판매
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "피자판매"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 9260
 accepted: 3622
 solved_users: 2316
-acceptance_rate: 35.697%
-collected_at: 2026-04-17T10:43:29.734744+00:00
+acceptance_rate: "35.697%"
+collected_at: "2026-04-17T10:43:29.734744+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 용감한 용사 수호
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "용감한 용사 수호"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 177
 accepted: 71
 solved_users: 52
-acceptance_rate: 40.310%
-collected_at: 2026-04-17T19:50:33.811944+00:00
+acceptance_rate: "40.310%"
+collected_at: "2026-04-17T19:50:33.811944+00:00"
 ---
 
 ## 문제

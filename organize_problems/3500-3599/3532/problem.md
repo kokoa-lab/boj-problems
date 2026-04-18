@@ -1,13 +1,13 @@
 ---
-title: Defense of a Kingdom
-special_judge: false
-time_limit: 3 초
-memory_limit: 256 MB
+title: "Defense of a Kingdom"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "256 MB"
 submissions: 123
 accepted: 55
 solved_users: 42
-acceptance_rate: 40.385%
-collected_at: 2026-04-17T10:49:34.681948+00:00
+acceptance_rate: "40.385%"
+collected_at: "2026-04-17T10:49:34.681948+00:00"
 ---
 
 ## 문제

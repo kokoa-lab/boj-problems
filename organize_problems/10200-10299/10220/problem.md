@@ -1,13 +1,13 @@
 ---
-title: Self Representing Seq
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Self Representing Seq"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 1523
 accepted: 844
 solved_users: 726
-acceptance_rate: 55.125%
-collected_at: 2026-04-17T12:20:32.016576+00:00
+acceptance_rate: "55.125%"
+collected_at: "2026-04-17T12:20:32.016576+00:00"
 ---
 
 ## 문제

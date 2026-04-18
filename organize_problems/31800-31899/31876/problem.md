@@ -1,13 +1,13 @@
 ---
-title: 자존심 강한 두 천재의 대결
-special_judge: false
-time_limit: 0.5 초 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "자존심 강한 두 천재의 대결"
+special_judge: "false"
+time_limit: "0.5 초 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 657
 accepted: 128
 solved_users: 97
-acceptance_rate: 23.775%
-collected_at: 2026-04-17T19:38:08.666532+00:00
+acceptance_rate: "23.775%"
+collected_at: "2026-04-17T19:38:08.666532+00:00"
 ---
 
 ## 문제

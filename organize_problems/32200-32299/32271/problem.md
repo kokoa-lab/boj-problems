@@ -1,13 +1,13 @@
 ---
-title: 랜덤 다전제
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "랜덤 다전제"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 20
 accepted: 16
 solved_users: 13
-acceptance_rate: 86.667%
-collected_at: 2026-04-17T19:47:44.349063+00:00
+acceptance_rate: "86.667%"
+collected_at: "2026-04-17T19:47:44.349063+00:00"
 ---
 
 ## 문제

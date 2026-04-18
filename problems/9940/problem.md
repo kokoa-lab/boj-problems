@@ -1,13 +1,13 @@
 ---
-title: Spectrum
-special_judge: false
-time_limit: 3 초
-memory_limit: 128 MB
+title: "Spectrum"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "128 MB"
 submissions: 44
 accepted: 11
 solved_users: 9
-acceptance_rate: 30.000%
-collected_at: 2026-04-17T12:16:52.096752+00:00
+acceptance_rate: "30.000%"
+collected_at: "2026-04-17T12:16:52.096752+00:00"
 ---
 
 ## 문제

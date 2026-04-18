@@ -1,13 +1,13 @@
 ---
-title: Haybale Stacking
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Haybale Stacking"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 931
 accepted: 425
 solved_users: 378
-acceptance_rate: 50.467%
-collected_at: 2026-04-17T11:18:28.728732+00:00
+acceptance_rate: "50.467%"
+collected_at: "2026-04-17T11:18:28.728732+00:00"
 ---
 
 ## 문제

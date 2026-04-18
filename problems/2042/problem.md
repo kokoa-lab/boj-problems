@@ -1,13 +1,13 @@
 ---
-title: 구간 합 구하기
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "구간 합 구하기"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 124760
 accepted: 34543
 solved_users: 17665
-acceptance_rate: 26.975%
-collected_at: 2026-04-17T10:37:31.616117+00:00
+acceptance_rate: "26.975%"
+collected_at: "2026-04-17T10:37:31.616117+00:00"
 ---
 
 ## 문제

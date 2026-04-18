@@ -1,13 +1,13 @@
 ---
-title: 기상캐스터
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "기상캐스터"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 10551
 accepted: 7939
 solved_users: 6088
-acceptance_rate: 74.975%
-collected_at: 2026-04-17T12:27:47.103128+00:00
+acceptance_rate: "74.975%"
+collected_at: "2026-04-17T12:27:47.103128+00:00"
 ---
 
 ## 문제

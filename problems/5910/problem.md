@@ -1,13 +1,13 @@
 ---
-title: Mountain Climbing
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Mountain Climbing"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 385
 accepted: 141
 solved_users: 112
-acceptance_rate: 37.333%
-collected_at: 2026-04-17T11:18:27.796993+00:00
+acceptance_rate: "37.333%"
+collected_at: "2026-04-17T11:18:27.796993+00:00"
 ---
 
 ## 문제

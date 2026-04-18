@@ -1,13 +1,13 @@
 ---
-title: 현대모비스 소프트웨어 아카데미
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "현대모비스 소프트웨어 아카데미"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 1406
 accepted: 859
 solved_users: 774
-acceptance_rate: 62.571%
-collected_at: 2026-04-17T17:40:04.879024+00:00
+acceptance_rate: "62.571%"
+collected_at: "2026-04-17T17:40:04.879024+00:00"
 ---
 
 ## 문제

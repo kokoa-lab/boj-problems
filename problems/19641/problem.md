@@ -1,13 +1,13 @@
 ---
-title: 중첩 집합 모델
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "중첩 집합 모델"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 726
 accepted: 351
 solved_users: 267
-acceptance_rate: 45.178%
-collected_at: 2026-04-17T15:25:49.344743+00:00
+acceptance_rate: "45.178%"
+collected_at: "2026-04-17T15:25:49.344743+00:00"
 ---
 
 ## 문제

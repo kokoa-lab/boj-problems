@@ -1,13 +1,13 @@
 ---
-title: 마법의 나침반
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "마법의 나침반"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 468
 accepted: 269
 solved_users: 238
-acceptance_rate: 58.911%
-collected_at: 2026-04-17T19:49:47.611372+00:00
+acceptance_rate: "58.911%"
+collected_at: "2026-04-17T19:49:47.611372+00:00"
 ---
 
 ## 문제

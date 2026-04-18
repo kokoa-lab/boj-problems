@@ -1,13 +1,13 @@
 ---
-title: Machine
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Machine"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 74
 accepted: 14
 solved_users: 12
-acceptance_rate: 21.053%
-collected_at: 2026-04-17T19:47:25.812767+00:00
+acceptance_rate: "21.053%"
+collected_at: "2026-04-17T19:47:25.812767+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Plus Minus Four Squares
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Plus Minus Four Squares"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 31
 accepted: 15
 solved_users: 13
-acceptance_rate: 48.148%
-collected_at: 2026-04-17T19:08:58.117276+00:00
+acceptance_rate: "48.148%"
+collected_at: "2026-04-17T19:08:58.117276+00:00"
 ---
 
 ## 문제

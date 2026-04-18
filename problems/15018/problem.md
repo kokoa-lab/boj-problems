@@ -1,13 +1,13 @@
 ---
-title: Compass Card Sales
-special_judge: false
-time_limit: 6 초
-memory_limit: 512 MB
+title: "Compass Card Sales"
+special_judge: "false"
+time_limit: "6 초"
+memory_limit: "512 MB"
 submissions: 102
 accepted: 26
 solved_users: 24
-acceptance_rate: 42.105%
-collected_at: 2026-04-17T13:48:26.322890+00:00
+acceptance_rate: "42.105%"
+collected_at: "2026-04-17T13:48:26.322890+00:00"
 ---
 
 ## 문제

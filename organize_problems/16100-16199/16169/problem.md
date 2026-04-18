@@ -1,13 +1,13 @@
 ---
-title: 수행 시간
-special_judge: false
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 128 MB
+title: "수행 시간"
+special_judge: "false"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "128 MB"
 submissions: 566
 accepted: 368
 solved_users: 315
-acceptance_rate: 65.900%
-collected_at: 2026-04-17T14:12:49.967838+00:00
+acceptance_rate: "65.900%"
+collected_at: "2026-04-17T14:12:49.967838+00:00"
 ---
 
 ## 문제

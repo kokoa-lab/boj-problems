@@ -1,13 +1,13 @@
 ---
-title: 비트베리
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "비트베리"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 937
 accepted: 279
 solved_users: 239
-acceptance_rate: 32.081%
-collected_at: 2026-04-17T14:38:01.931043+00:00
+acceptance_rate: "32.081%"
+collected_at: "2026-04-17T14:38:01.931043+00:00"
 ---
 
 ## 문제

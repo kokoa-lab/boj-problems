@@ -1,13 +1,13 @@
 ---
-title: EKG Sequence
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "EKG Sequence"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 93
 accepted: 48
 solved_users: 31
-acceptance_rate: 47.692%
-collected_at: 2026-04-17T10:58:19.135719+00:00
+acceptance_rate: "47.692%"
+collected_at: "2026-04-17T10:58:19.135719+00:00"
 ---
 
 ## 문제

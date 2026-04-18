@@ -1,13 +1,13 @@
 ---
-title: XOR 부분 행렬
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "XOR 부분 행렬"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 153
 accepted: 42
 solved_users: 39
-acceptance_rate: 27.273%
-collected_at: 2026-04-17T14:26:00.260842+00:00
+acceptance_rate: "27.273%"
+collected_at: "2026-04-17T14:26:00.260842+00:00"
 ---
 
 ## 문제

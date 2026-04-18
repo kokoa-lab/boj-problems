@@ -1,13 +1,13 @@
 ---
-title: Token and Dice
-special_judge: false
-time_limit: 8 초
-memory_limit: 256 MB
+title: "Token and Dice"
+special_judge: "false"
+time_limit: "8 초"
+memory_limit: "256 MB"
 submissions: 23
 accepted: 3
 solved_users: 3
-acceptance_rate: 15.000%
-collected_at: 2026-04-17T15:12:26.227116+00:00
+acceptance_rate: "15.000%"
+collected_at: "2026-04-17T15:12:26.227116+00:00"
 ---
 
 ## 문제

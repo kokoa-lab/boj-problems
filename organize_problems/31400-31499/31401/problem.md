@@ -1,13 +1,13 @@
 ---
-title: 집합 식 트랜스파일
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "집합 식 트랜스파일"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 49
 accepted: 14
 solved_users: 12
-acceptance_rate: 34.286%
-collected_at: 2026-04-17T19:27:28.876482+00:00
+acceptance_rate: "34.286%"
+collected_at: "2026-04-17T19:27:28.876482+00:00"
 ---
 
 ## 문제

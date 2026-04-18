@@ -1,13 +1,13 @@
 ---
-title: Spaces, the Final Frontier
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Spaces, the Final Frontier"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 8
 accepted: 5
 solved_users: 3
-acceptance_rate: 60.000%
-collected_at: 2026-04-17T17:44:07.895111+00:00
+acceptance_rate: "60.000%"
+collected_at: "2026-04-17T17:44:07.895111+00:00"
 ---
 
 ## 문제

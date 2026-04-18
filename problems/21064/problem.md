@@ -1,13 +1,13 @@
 ---
-title: Even Intervals
-special_judge: false
-time_limit: 20 초
-memory_limit: 1024 MB
+title: "Even Intervals"
+special_judge: "false"
+time_limit: "20 초"
+memory_limit: "1024 MB"
 submissions: 131
 accepted: 48
 solved_users: 32
-acceptance_rate: 42.667%
-collected_at: 2026-04-17T15:46:49.716204+00:00
+acceptance_rate: "42.667%"
+collected_at: "2026-04-17T15:46:49.716204+00:00"
 ---
 
 ## 문제

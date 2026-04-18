@@ -1,13 +1,13 @@
 ---
-title: !제곱수 순열
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "!제곱수 순열"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 366
 accepted: 187
 solved_users: 148
-acceptance_rate: 53.818%
-collected_at: 2026-04-17T20:41:57.556792+00:00
+acceptance_rate: "53.818%"
+collected_at: "2026-04-17T20:41:57.556792+00:00"
 ---
 
 ## 문제

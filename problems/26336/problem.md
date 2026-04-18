@@ -1,13 +1,13 @@
 ---
-title: Are We Stopping Again?
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Are We Stopping Again?"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 283
 accepted: 204
 solved_users: 187
-acceptance_rate: 72.481%
-collected_at: 2026-04-17T17:44:02.398915+00:00
+acceptance_rate: "72.481%"
+collected_at: "2026-04-17T17:44:02.398915+00:00"
 ---
 
 ## 문제

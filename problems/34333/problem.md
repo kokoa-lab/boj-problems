@@ -1,13 +1,13 @@
 ---
-title: @Override
-special_judge: false
-time_limit: 3 초
-memory_limit: 1024 MB
+title: "@Override"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "1024 MB"
 submissions: 120
 accepted: 45
 solved_users: 31
-acceptance_rate: 39.241%
-collected_at: 2026-04-17T20:35:47.087273+00:00
+acceptance_rate: "39.241%"
+collected_at: "2026-04-17T20:35:47.087273+00:00"
 ---
 
 ## 문제

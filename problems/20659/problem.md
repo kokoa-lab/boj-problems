@@ -1,13 +1,13 @@
 ---
-title: 해군
-special_judge: false
-time_limit: 25 초
-memory_limit: 1024 MB
+title: "해군"
+special_judge: "false"
+time_limit: "25 초"
+memory_limit: "1024 MB"
 submissions: 250
 accepted: 21
 solved_users: 5
-acceptance_rate: 9.259%
-collected_at: 2026-04-17T15:39:38.665461+00:00
+acceptance_rate: "9.259%"
+collected_at: "2026-04-17T15:39:38.665461+00:00"
 ---
 
 ## 문제

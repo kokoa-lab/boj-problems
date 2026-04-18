@@ -1,13 +1,13 @@
 ---
-title: Go Latin
-special_judge: false
-time_limit: 0.5 초
-memory_limit: 512 MB
+title: "Go Latin"
+special_judge: "false"
+time_limit: "0.5 초"
+memory_limit: "512 MB"
 submissions: 2032
 accepted: 970
 solved_users: 873
-acceptance_rate: 48.205%
-collected_at: 2026-04-17T14:16:29.343921+00:00
+acceptance_rate: "48.205%"
+collected_at: "2026-04-17T14:16:29.343921+00:00"
 ---
 
 ## 문제

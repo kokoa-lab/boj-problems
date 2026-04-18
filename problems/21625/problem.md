@@ -1,13 +1,13 @@
 ---
-title: Flag with Stars
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Flag with Stars"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 31
 accepted: 15
 solved_users: 9
-acceptance_rate: 40.909%
-collected_at: 2026-04-17T16:01:50.416830+00:00
+acceptance_rate: "40.909%"
+collected_at: "2026-04-17T16:01:50.416830+00:00"
 ---
 
 ## 문제

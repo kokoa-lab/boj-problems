@@ -1,13 +1,13 @@
 ---
-title: 파일 완전 삭제
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "파일 완전 삭제"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 4280
 accepted: 2544
 solved_users: 2317
-acceptance_rate: 61.968%
-collected_at: 2026-04-17T12:08:12.702409+00:00
+acceptance_rate: "61.968%"
+collected_at: "2026-04-17T12:08:12.702409+00:00"
 ---
 
 ## 문제

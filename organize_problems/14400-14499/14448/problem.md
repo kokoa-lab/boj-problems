@@ -1,13 +1,13 @@
 ---
-title: Subsequence Reversal
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Subsequence Reversal"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 423
 accepted: 75
 solved_users: 53
-acceptance_rate: 14.804%
-collected_at: 2026-04-17T13:33:45.968249+00:00
+acceptance_rate: "14.804%"
+collected_at: "2026-04-17T13:33:45.968249+00:00"
 ---
 
 ## 문제

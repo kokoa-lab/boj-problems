@@ -1,13 +1,13 @@
 ---
-title: Имена
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Имена"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 15
 accepted: 15
 solved_users: 14
-acceptance_rate: 100.000%
-collected_at: 2026-04-17T15:59:43.879237+00:00
+acceptance_rate: "100.000%"
+collected_at: "2026-04-17T15:59:43.879237+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 이름 지어주기
-special_judge: true
-time_limit: 1 초
-memory_limit: 128 MB
+title: "이름 지어주기"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 565
 accepted: 160
 solved_users: 143
-acceptance_rate: 34.541%
-collected_at: 2026-04-17T10:46:12.068890+00:00
+acceptance_rate: "34.541%"
+collected_at: "2026-04-17T10:46:12.068890+00:00"
 ---
 
 ## 문제

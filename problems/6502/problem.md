@@ -1,13 +1,13 @@
 ---
-title: 동혁 피자
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "동혁 피자"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 4741
 accepted: 2453
 solved_users: 2248
-acceptance_rate: 52.720%
-collected_at: 2026-04-17T11:29:18.108896+00:00
+acceptance_rate: "52.720%"
+collected_at: "2026-04-17T11:29:18.108896+00:00"
 ---
 
 ## 문제

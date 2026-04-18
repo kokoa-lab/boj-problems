@@ -1,13 +1,13 @@
 ---
-title: Evil Problemsetters
-special_judge: false
-time_limit: 10 초
-memory_limit: 1024 MB
+title: "Evil Problemsetters"
+special_judge: "false"
+time_limit: "10 초"
+memory_limit: "1024 MB"
 submissions: 36
 accepted: 16
 solved_users: 11
-acceptance_rate: 42.308%
-collected_at: 2026-04-17T15:41:16.534535+00:00
+acceptance_rate: "42.308%"
+collected_at: "2026-04-17T15:41:16.534535+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Road Repair
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Road Repair"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 0
 accepted: 0
 solved_users: 0
-acceptance_rate: 0.000%
-collected_at: 2026-04-17T12:23:54.188310+00:00
+acceptance_rate: "0.000%"
+collected_at: "2026-04-17T12:23:54.188310+00:00"
 ---
 
 ## 문제

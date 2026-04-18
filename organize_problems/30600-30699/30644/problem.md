@@ -1,13 +1,13 @@
 ---
-title: 띠 정렬하기
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "띠 정렬하기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 239
 accepted: 191
 solved_users: 164
-acceptance_rate: 80.788%
-collected_at: 2026-04-17T19:11:29.163369+00:00
+acceptance_rate: "80.788%"
+collected_at: "2026-04-17T19:11:29.163369+00:00"
 ---
 
 ## 문제

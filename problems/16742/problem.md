@@ -1,13 +1,13 @@
 ---
-title: Shortest Common Non-Subsequence
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Shortest Common Non-Subsequence"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 152
 accepted: 91
 solved_users: 80
-acceptance_rate: 63.492%
-collected_at: 2026-04-17T14:23:19.233225+00:00
+acceptance_rate: "63.492%"
+collected_at: "2026-04-17T14:23:19.233225+00:00"
 ---
 
 ## 문제

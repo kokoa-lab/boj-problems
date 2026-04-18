@@ -1,13 +1,13 @@
 ---
-title: Location, Location, Location
-special_judge: false
-time_limit: 3 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Location, Location, Location"
+special_judge: "false"
+time_limit: "3 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 137
 accepted: 106
 solved_users: 92
-acceptance_rate: 76.667%
-collected_at: 2026-04-17T19:03:24.435556+00:00
+acceptance_rate: "76.667%"
+collected_at: "2026-04-17T19:03:24.435556+00:00"
 ---
 
 ## 문제

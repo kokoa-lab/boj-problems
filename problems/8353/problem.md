@@ -1,13 +1,13 @@
 ---
-title: Cliquers
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Cliquers"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 64
 accepted: 20
 solved_users: 20
-acceptance_rate: 41.667%
-collected_at: 2026-04-17T11:58:44.264374+00:00
+acceptance_rate: "41.667%"
+collected_at: "2026-04-17T11:58:44.264374+00:00"
 ---
 
 ## 문제

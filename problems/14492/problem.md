@@ -1,13 +1,13 @@
 ---
-title: 부울행렬의 부울곱
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "부울행렬의 부울곱"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 1361
 accepted: 1080
 solved_users: 886
-acceptance_rate: 81.434%
-collected_at: 2026-04-17T13:36:05.669028+00:00
+acceptance_rate: "81.434%"
+collected_at: "2026-04-17T13:36:05.669028+00:00"
 ---
 
 ## 문제

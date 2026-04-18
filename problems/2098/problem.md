@@ -1,13 +1,13 @@
 ---
-title: 외판원 순회
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "외판원 순회"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 71172
 accepted: 20994
 solved_users: 12865
-acceptance_rate: 29.255%
-collected_at: 2026-04-17T10:38:14.778570+00:00
+acceptance_rate: "29.255%"
+collected_at: "2026-04-17T10:38:14.778570+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 긴 케이크 나눠주기
-special_judge: false
-time_limit: 2 초  ( 하단 참고 )
-memory_limit: 512 MB
+title: "긴 케이크 나눠주기"
+special_judge: "false"
+time_limit: "2 초  ( 하단 참고 )"
+memory_limit: "512 MB"
 submissions: 180
 accepted: 84
 solved_users: 64
-acceptance_rate: 52.033%
-collected_at: 2026-04-17T17:25:05.420844+00:00
+acceptance_rate: "52.033%"
+collected_at: "2026-04-17T17:25:05.420844+00:00"
 ---
 
 ## 문제

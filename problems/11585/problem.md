@@ -1,13 +1,13 @@
 ---
-title: 속타는 저녁 메뉴
-special_judge: false
-time_limit: 5 초
-memory_limit: 256 MB
+title: "속타는 저녁 메뉴"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "256 MB"
 submissions: 5250
 accepted: 2137
 solved_users: 1643
-acceptance_rate: 39.686%
-collected_at: 2026-04-17T12:42:32.429597+00:00
+acceptance_rate: "39.686%"
+collected_at: "2026-04-17T12:42:32.429597+00:00"
 ---
 
 ## 문제

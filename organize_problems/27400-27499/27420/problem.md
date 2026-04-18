@@ -1,13 +1,13 @@
 ---
-title: Incredibly Cute Penguin Chicks
-special_judge: false
-time_limit: 6 초
-memory_limit: 1024 MB
+title: "Incredibly Cute Penguin Chicks"
+special_judge: "false"
+time_limit: "6 초"
+memory_limit: "1024 MB"
 submissions: 122
 accepted: 61
 solved_users: 55
-acceptance_rate: 48.246%
-collected_at: 2026-04-17T18:02:35.622736+00:00
+acceptance_rate: "48.246%"
+collected_at: "2026-04-17T18:02:35.622736+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Roller Coaster Scheduling (Small)
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Roller Coaster Scheduling (Small)"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 46
 accepted: 37
 solved_users: 34
-acceptance_rate: 85.000%
-collected_at: 2026-04-17T13:42:19.516171+00:00
+acceptance_rate: "85.000%"
+collected_at: "2026-04-17T13:42:19.516171+00:00"
 ---
 
 ## 문제

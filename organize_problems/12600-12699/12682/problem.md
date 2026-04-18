@@ -1,13 +1,13 @@
 ---
-title: Code Sequence (Large)
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Code Sequence (Large)"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 18
 accepted: 6
 solved_users: 6
-acceptance_rate: 35.294%
-collected_at: 2026-04-17T12:59:38.695562+00:00
+acceptance_rate: "35.294%"
+collected_at: "2026-04-17T12:59:38.695562+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 영화 평가
-special_judge: true
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "영화 평가"
+special_judge: "true"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 1176
 accepted: 749
 solved_users: 664
-acceptance_rate: 65.419%
-collected_at: 2026-04-17T16:45:32.150884+00:00
+acceptance_rate: "65.419%"
+collected_at: "2026-04-17T16:45:32.150884+00:00"
 ---
 
 ## 문제

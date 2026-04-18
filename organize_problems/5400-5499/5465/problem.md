@@ -1,13 +1,13 @@
 ---
-title: 곰돌이
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "곰돌이"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 1693
 accepted: 369
 solved_users: 230
-acceptance_rate: 19.541%
-collected_at: 2026-04-17T11:14:15.163177+00:00
+acceptance_rate: "19.541%"
+collected_at: "2026-04-17T11:14:15.163177+00:00"
 ---
 
 ## 문제

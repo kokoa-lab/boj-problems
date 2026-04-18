@@ -1,13 +1,13 @@
 ---
-title: Triples
-special_judge: false
-time_limit: 5 초
-memory_limit: 256 MB
+title: "Triples"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "256 MB"
 submissions: 123
 accepted: 92
 solved_users: 79
-acceptance_rate: 74.528%
-collected_at: 2026-04-17T12:22:28.115744+00:00
+acceptance_rate: "74.528%"
+collected_at: "2026-04-17T12:22:28.115744+00:00"
 ---
 
 ## 문제

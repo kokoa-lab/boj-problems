@@ -1,13 +1,13 @@
 ---
-title: 정원
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "정원"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 332
 accepted: 113
 solved_users: 86
-acceptance_rate: 34.263%
-collected_at: 2026-04-17T11:14:26.111600+00:00
+acceptance_rate: "34.263%"
+collected_at: "2026-04-17T11:14:26.111600+00:00"
 ---
 
 ## 문제

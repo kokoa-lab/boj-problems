@@ -1,13 +1,13 @@
 ---
-title: 모든 사이클의 길이
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "모든 사이클의 길이"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 32
 accepted: 8
 solved_users: 6
-acceptance_rate: 42.857%
-collected_at: 2026-04-17T10:31:14.618488+00:00
+acceptance_rate: "42.857%"
+collected_at: "2026-04-17T10:31:14.618488+00:00"
 ---
 
 ## 문제

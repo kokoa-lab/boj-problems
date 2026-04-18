@@ -1,13 +1,13 @@
 ---
-title: Arkain 대시보드
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Arkain 대시보드"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 499
 accepted: 260
 solved_users: 219
-acceptance_rate: 53.941%
-collected_at: 2026-04-17T20:21:54.007288+00:00
+acceptance_rate: "53.941%"
+collected_at: "2026-04-17T20:21:54.007288+00:00"
 ---
 
 ## 문제

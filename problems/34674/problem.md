@@ -1,13 +1,13 @@
 ---
-title: 타카하시의 기차 퍼즐 놀이 2
-special_judge: false
-time_limit: 1.5 초
-memory_limit: 512 MB
+title: "타카하시의 기차 퍼즐 놀이 2"
+special_judge: "false"
+time_limit: "1.5 초"
+memory_limit: "512 MB"
 submissions: 62
 accepted: 10
 solved_users: 9
-acceptance_rate: 39.130%
-collected_at: 2026-04-17T20:45:39.000238+00:00
+acceptance_rate: "39.130%"
+collected_at: "2026-04-17T20:45:39.000238+00:00"
 ---
 
 ## 문제

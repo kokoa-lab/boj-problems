@@ -1,13 +1,13 @@
 ---
-title: Labour Laws
-special_judge: false
-time_limit: 1 초
-memory_limit: 2048 MB
+title: "Labour Laws"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "2048 MB"
 submissions: 57
 accepted: 33
 solved_users: 28
-acceptance_rate: 56.000%
-collected_at: 2026-04-17T20:55:38.803743+00:00
+acceptance_rate: "56.000%"
+collected_at: "2026-04-17T20:55:38.803743+00:00"
 ---
 
 ## 문제

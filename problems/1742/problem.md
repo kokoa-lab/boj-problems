@@ -1,13 +1,13 @@
 ---
-title: 레이싱결과
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "레이싱결과"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 251
 accepted: 72
 solved_users: 46
-acceptance_rate: 30.464%
-collected_at: 2026-04-17T10:32:57.135670+00:00
+acceptance_rate: "30.464%"
+collected_at: "2026-04-17T10:32:57.135670+00:00"
 ---
 
 ## 문제

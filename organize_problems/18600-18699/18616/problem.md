@@ -1,13 +1,13 @@
 ---
-title: Defying Gravity
-special_judge: true
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Defying Gravity"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 45
 accepted: 12
 solved_users: 6
-acceptance_rate: 25.000%
-collected_at: 2026-04-17T15:07:13.962242+00:00
+acceptance_rate: "25.000%"
+collected_at: "2026-04-17T15:07:13.962242+00:00"
 ---
 
 ## 문제

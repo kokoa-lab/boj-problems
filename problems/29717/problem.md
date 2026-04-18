@@ -1,13 +1,13 @@
 ---
-title: 슬라임 잡고 레벨 업!
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "슬라임 잡고 레벨 업!"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 1137
 accepted: 321
 solved_users: 279
-acceptance_rate: 32.143%
-collected_at: 2026-04-17T18:51:20.800754+00:00
+acceptance_rate: "32.143%"
+collected_at: "2026-04-17T18:51:20.800754+00:00"
 ---
 
 ## 문제

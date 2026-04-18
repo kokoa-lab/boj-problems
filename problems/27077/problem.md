@@ -1,13 +1,13 @@
 ---
-title: 16강과 쿼리
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "16강과 쿼리"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 121
 accepted: 48
 solved_users: 35
-acceptance_rate: 41.176%
-collected_at: 2026-04-17T17:56:00.450013+00:00
+acceptance_rate: "41.176%"
+collected_at: "2026-04-17T17:56:00.450013+00:00"
 ---
 
 ## 문제

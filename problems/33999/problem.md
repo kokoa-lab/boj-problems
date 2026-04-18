@@ -1,13 +1,13 @@
 ---
-title: Ultimate A+B
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Ultimate A+B"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 68
 accepted: 15
 solved_users: 12
-acceptance_rate: 25.532%
-collected_at: 2026-04-17T20:28:21.731631+00:00
+acceptance_rate: "25.532%"
+collected_at: "2026-04-17T20:28:21.731631+00:00"
 ---
 
 ## 문제

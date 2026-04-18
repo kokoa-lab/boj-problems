@@ -1,13 +1,13 @@
 ---
-title: MEGACITY
-special_judge: false
-time_limit: 3 초
-memory_limit: 512 MB
+title: "MEGACITY"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "512 MB"
 submissions: 444
 accepted: 139
 solved_users: 43
-acceptance_rate: 19.816%
-collected_at: 2026-04-17T10:28:54.755634+00:00
+acceptance_rate: "19.816%"
+collected_at: "2026-04-17T10:28:54.755634+00:00"
 ---
 
 ## 문제

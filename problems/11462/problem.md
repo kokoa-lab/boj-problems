@@ -1,13 +1,13 @@
 ---
-title: The Owl and the Fox
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "The Owl and the Fox"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 294
 accepted: 148
 solved_users: 121
-acceptance_rate: 48.790%
-collected_at: 2026-04-17T12:41:06.226538+00:00
+acceptance_rate: "48.790%"
+collected_at: "2026-04-17T12:41:06.226538+00:00"
 ---
 
 ## 문제

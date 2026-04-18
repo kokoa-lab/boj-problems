@@ -1,13 +1,13 @@
 ---
-title: 세훈이의 선물가게
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "세훈이의 선물가게"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 2447
 accepted: 716
 solved_users: 536
-acceptance_rate: 32.803%
-collected_at: 2026-04-17T14:33:43.452951+00:00
+acceptance_rate: "32.803%"
+collected_at: "2026-04-17T14:33:43.452951+00:00"
 ---
 
 ## 문제

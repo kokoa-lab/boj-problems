@@ -1,13 +1,13 @@
 ---
-title: 막대 자르기
-special_judge: false
-time_limit: 0.5 초
-memory_limit: 512 MB
+title: "막대 자르기"
+special_judge: "false"
+time_limit: "0.5 초"
+memory_limit: "512 MB"
 submissions: 304
 accepted: 110
 solved_users: 79
-acceptance_rate: 36.406%
-collected_at: 2026-04-17T18:01:32.344890+00:00
+acceptance_rate: "36.406%"
+collected_at: "2026-04-17T18:01:32.344890+00:00"
 ---
 
 ## 문제

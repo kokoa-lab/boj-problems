@@ -1,13 +1,13 @@
 ---
-title: IOI 饅頭 (IOI Manju)
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "IOI 饅頭 (IOI Manju)"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 176
 accepted: 104
 solved_users: 87
-acceptance_rate: 63.971%
-collected_at: 2026-04-17T12:18:13.894587+00:00
+acceptance_rate: "63.971%"
+collected_at: "2026-04-17T12:18:13.894587+00:00"
 ---
 
 ## 문제

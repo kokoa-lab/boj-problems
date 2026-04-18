@@ -1,13 +1,13 @@
 ---
-title: Debugging
-special_judge: false
-time_limit: 3 초
-memory_limit: 256 MB
+title: "Debugging"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "256 MB"
 submissions: 320
 accepted: 122
 solved_users: 95
-acceptance_rate: 36.398%
-collected_at: 2026-04-17T12:43:47.028771+00:00
+acceptance_rate: "36.398%"
+collected_at: "2026-04-17T12:43:47.028771+00:00"
 ---
 
 ## 문제

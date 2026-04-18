@@ -1,13 +1,13 @@
 ---
-title: LinkNet
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "LinkNet"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 26
 accepted: 23
 solved_users: 22
-acceptance_rate: 88.000%
-collected_at: 2026-04-17T12:00:36.781763+00:00
+acceptance_rate: "88.000%"
+collected_at: "2026-04-17T12:00:36.781763+00:00"
 ---
 
 ## 문제

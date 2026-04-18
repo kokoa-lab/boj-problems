@@ -1,13 +1,13 @@
 ---
-title: 나랏말싸미 America와 different~
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "나랏말싸미 America와 different~"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 407
 accepted: 90
 solved_users: 72
-acceptance_rate: 26.568%
-collected_at: 2026-04-17T14:32:06.710715+00:00
+acceptance_rate: "26.568%"
+collected_at: "2026-04-17T14:32:06.710715+00:00"
 ---
 
 ## 문제

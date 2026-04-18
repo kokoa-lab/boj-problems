@@ -1,13 +1,13 @@
 ---
-title: 양궁
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "양궁"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 688
 accepted: 236
 solved_users: 159
-acceptance_rate: 30.874%
-collected_at: 2026-04-17T12:11:13.203573+00:00
+acceptance_rate: "30.874%"
+collected_at: "2026-04-17T12:11:13.203573+00:00"
 ---
 
 ## 문제

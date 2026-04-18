@@ -1,13 +1,13 @@
 ---
-title: 격자 경로의 가중치
-special_judge: false
-time_limit: 3 초
-memory_limit: 1024 MB
+title: "격자 경로의 가중치"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "1024 MB"
 submissions: 92
 accepted: 29
 solved_users: 29
-acceptance_rate: 53.704%
-collected_at: 2026-04-17T20:27:28.450998+00:00
+acceptance_rate: "53.704%"
+collected_at: "2026-04-17T20:27:28.450998+00:00"
 ---
 
 ## 문제

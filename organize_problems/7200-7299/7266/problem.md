@@ -1,13 +1,13 @@
 ---
-title: Metaprogramavimas
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Metaprogramavimas"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 48
 accepted: 9
 solved_users: 9
-acceptance_rate: 19.565%
-collected_at: 2026-04-17T11:47:46.319911+00:00
+acceptance_rate: "19.565%"
+collected_at: "2026-04-17T11:47:46.319911+00:00"
 ---
 
 ## 문제

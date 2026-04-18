@@ -1,13 +1,13 @@
 ---
-title: The Magical 3
-special_judge: false
-time_limit: 3 초
-memory_limit: 256 MB
+title: "The Magical 3"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "256 MB"
 submissions: 210
 accepted: 54
 solved_users: 44
-acceptance_rate: 26.994%
-collected_at: 2026-04-17T12:43:24.945168+00:00
+acceptance_rate: "26.994%"
+collected_at: "2026-04-17T12:43:24.945168+00:00"
 ---
 
 ## 문제

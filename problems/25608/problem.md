@@ -1,13 +1,13 @@
 ---
-title: 장난감 섞기
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "장난감 섞기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 310
 accepted: 101
 solved_users: 81
-acceptance_rate: 36.486%
-collected_at: 2026-04-17T17:29:49.740142+00:00
+acceptance_rate: "36.486%"
+collected_at: "2026-04-17T17:29:49.740142+00:00"
 ---
 
 ## 문제

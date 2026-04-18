@@ -1,13 +1,13 @@
 ---
-title: Texas Summers
-special_judge: true
-time_limit: 2 초
-memory_limit: 256 MB
+title: "Texas Summers"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 53
 accepted: 32
 solved_users: 29
-acceptance_rate: 64.444%
-collected_at: 2026-04-17T12:24:34.911377+00:00
+acceptance_rate: "64.444%"
+collected_at: "2026-04-17T12:24:34.911377+00:00"
 ---
 
 ## 문제

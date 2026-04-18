@@ -1,13 +1,13 @@
 ---
-title: 부도덕한 그래프 (Easy)
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "부도덕한 그래프 (Easy)"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 179
 accepted: 113
 solved_users: 98
-acceptance_rate: 65.333%
-collected_at: 2026-04-17T20:26:46.700335+00:00
+acceptance_rate: "65.333%"
+collected_at: "2026-04-17T20:26:46.700335+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Swap Space
-special_judge: false
-time_limit: 6 초
-memory_limit: 512 MB
+title: "Swap Space"
+special_judge: "false"
+time_limit: "6 초"
+memory_limit: "512 MB"
 submissions: 1075
 accepted: 375
 solved_users: 282
-acceptance_rate: 33.772%
-collected_at: 2026-04-17T13:01:16.495111+00:00
+acceptance_rate: "33.772%"
+collected_at: "2026-04-17T13:01:16.495111+00:00"
 ---
 
 ## 문제

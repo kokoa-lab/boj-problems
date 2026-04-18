@@ -1,13 +1,13 @@
 ---
-title: Beautiful Music
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Beautiful Music"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 348
 accepted: 252
 solved_users: 211
-acceptance_rate: 72.509%
-collected_at: 2026-04-17T13:53:52.860112+00:00
+acceptance_rate: "72.509%"
+collected_at: "2026-04-17T13:53:52.860112+00:00"
 ---
 
 ## 문제

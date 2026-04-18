@@ -1,13 +1,13 @@
 ---
-title: Metal Harvest
-special_judge: false
-time_limit: 20 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Metal Harvest"
+special_judge: "false"
+time_limit: "20 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 61
 accepted: 29
 solved_users: 26
-acceptance_rate: 48.148%
-collected_at: 2026-04-17T16:57:51.029458+00:00
+acceptance_rate: "48.148%"
+collected_at: "2026-04-17T16:57:51.029458+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Divar’s Salaries
-special_judge: false
-time_limit: 1 초
-memory_limit: 2048 MB
+title: "Divar’s Salaries"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "2048 MB"
 submissions: 300
 accepted: 204
 solved_users: 142
-acceptance_rate: 64.253%
-collected_at: 2026-04-17T20:11:09.678337+00:00
+acceptance_rate: "64.253%"
+collected_at: "2026-04-17T20:11:09.678337+00:00"
 ---
 
 ## 문제

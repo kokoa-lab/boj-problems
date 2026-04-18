@@ -1,13 +1,13 @@
 ---
-title: 겉보기에 쌍둥이 소수
-special_judge: true
-time_limit: 1 초
-memory_limit: 128 MB
+title: "겉보기에 쌍둥이 소수"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 300
 accepted: 108
 solved_users: 83
-acceptance_rate: 35.021%
-collected_at: 2026-04-17T11:16:13.622863+00:00
+acceptance_rate: "35.021%"
+collected_at: "2026-04-17T11:16:13.622863+00:00"
 ---
 
 ## 문제

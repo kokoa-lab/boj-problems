@@ -1,13 +1,13 @@
 ---
-title: 히스토그램 직사각형으로 쪼개기
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "히스토그램 직사각형으로 쪼개기"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 30
 accepted: 8
 solved_users: 8
-acceptance_rate: 47.059%
-collected_at: 2026-04-17T19:50:10.522424+00:00
+acceptance_rate: "47.059%"
+collected_at: "2026-04-17T19:50:10.522424+00:00"
 ---
 
 ## 문제

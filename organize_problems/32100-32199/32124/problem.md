@@ -1,13 +1,13 @@
 ---
-title: 고장난 계산기
-special_judge: true
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "고장난 계산기"
+special_judge: "true"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 365
 accepted: 143
 solved_users: 129
-acceptance_rate: 49.049%
-collected_at: 2026-04-17T19:43:34.444298+00:00
+acceptance_rate: "49.049%"
+collected_at: "2026-04-17T19:43:34.444298+00:00"
 ---
 
 ## 문제

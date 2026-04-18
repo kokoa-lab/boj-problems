@@ -1,13 +1,13 @@
 ---
-title: 마슈 반데드와 마법사의 격자판
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "마슈 반데드와 마법사의 격자판"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 374
 accepted: 149
 solved_users: 126
-acceptance_rate: 42.000%
-collected_at: 2026-04-17T20:10:16.745831+00:00
+acceptance_rate: "42.000%"
+collected_at: "2026-04-17T20:10:16.745831+00:00"
 ---
 
 ## 문제

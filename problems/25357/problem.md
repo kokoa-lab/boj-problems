@@ -1,13 +1,13 @@
 ---
-title: Connect the Points
-special_judge: true
-time_limit: 3 초
-memory_limit: 512 MB
+title: "Connect the Points"
+special_judge: "true"
+time_limit: "3 초"
+memory_limit: "512 MB"
 submissions: 131
 accepted: 48
 solved_users: 46
-acceptance_rate: 41.441%
-collected_at: 2026-04-17T17:25:28.811354+00:00
+acceptance_rate: "41.441%"
+collected_at: "2026-04-17T17:25:28.811354+00:00"
 ---
 
 ## 문제

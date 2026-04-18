@@ -1,13 +1,13 @@
 ---
-title: 페그 솔리테어
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "페그 솔리테어"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 3092
 accepted: 1539
 solved_users: 1093
-acceptance_rate: 49.772%
-collected_at: 2026-04-17T12:07:54.712348+00:00
+acceptance_rate: "49.772%"
+collected_at: "2026-04-17T12:07:54.712348+00:00"
 ---
 
 ## 문제

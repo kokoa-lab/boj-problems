@@ -1,13 +1,13 @@
 ---
-title: 증가하는 수
-special_judge: false
-time_limit: 5 초
-memory_limit: 256 MB
+title: "증가하는 수"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "256 MB"
 submissions: 578
 accepted: 285
 solved_users: 224
-acceptance_rate: 51.142%
-collected_at: 2026-04-17T12:25:50.387616+00:00
+acceptance_rate: "51.142%"
+collected_at: "2026-04-17T12:25:50.387616+00:00"
 ---
 
 ## 문제

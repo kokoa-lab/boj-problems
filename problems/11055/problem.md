@@ -1,13 +1,13 @@
 ---
-title: 가장 큰 증가하는 부분 수열
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "가장 큰 증가하는 부분 수열"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 68543
 accepted: 31120
 solved_users: 24812
-acceptance_rate: 44.884%
-collected_at: 2026-04-17T12:35:48.241414+00:00
+acceptance_rate: "44.884%"
+collected_at: "2026-04-17T12:35:48.241414+00:00"
 ---
 
 ## 문제

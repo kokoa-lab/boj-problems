@@ -1,13 +1,13 @@
 ---
-title: JOIRIS
-special_judge: true
-time_limit: 1 초
-memory_limit: 256 MB
+title: "JOIRIS"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 68
 accepted: 32
 solved_users: 18
-acceptance_rate: 46.154%
-collected_at: 2026-04-17T14:23:51.646592+00:00
+acceptance_rate: "46.154%"
+collected_at: "2026-04-17T14:23:51.646592+00:00"
 ---
 
 ## 문제

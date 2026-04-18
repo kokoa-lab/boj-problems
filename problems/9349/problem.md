@@ -1,13 +1,13 @@
 ---
-title: Fegla and the Bed Bugs
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Fegla and the Bed Bugs"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 357
 accepted: 181
 solved_users: 168
-acceptance_rate: 60.215%
-collected_at: 2026-04-17T12:09:09.496812+00:00
+acceptance_rate: "60.215%"
+collected_at: "2026-04-17T12:09:09.496812+00:00"
 ---
 
 ## 문제

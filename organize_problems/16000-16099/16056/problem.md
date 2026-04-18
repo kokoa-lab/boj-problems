@@ -1,13 +1,13 @@
 ---
-title: Plug It In!
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Plug It In!"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 133
 accepted: 64
 solved_users: 48
-acceptance_rate: 50.000%
-collected_at: 2026-04-17T14:10:41.540879+00:00
+acceptance_rate: "50.000%"
+collected_at: "2026-04-17T14:10:41.540879+00:00"
 ---
 
 ## 문제

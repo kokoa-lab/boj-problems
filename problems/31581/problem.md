@@ -1,13 +1,13 @@
 ---
-title: Zauberquadrat und Sudoku
-special_judge: true
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Zauberquadrat und Sudoku"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 54
 accepted: 34
 solved_users: 26
-acceptance_rate: 60.465%
-collected_at: 2026-04-17T19:31:22.388672+00:00
+acceptance_rate: "60.465%"
+collected_at: "2026-04-17T19:31:22.388672+00:00"
 ---
 
 ## 문제

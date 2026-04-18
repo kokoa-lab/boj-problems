@@ -1,13 +1,13 @@
 ---
-title: Pea Soup and Pancakes
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Pea Soup and Pancakes"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 239
 accepted: 150
 solved_users: 129
-acceptance_rate: 65.152%
-collected_at: 2026-04-17T14:49:35.091318+00:00
+acceptance_rate: "65.152%"
+collected_at: "2026-04-17T14:49:35.091318+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Don't Be Last!
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Don't Be Last!"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 1912
 accepted: 574
 solved_users: 530
-acceptance_rate: 32.595%
-collected_at: 2026-04-17T13:33:54.200749+00:00
+acceptance_rate: "32.595%"
+collected_at: "2026-04-17T13:33:54.200749+00:00"
 ---
 
 ## 문제

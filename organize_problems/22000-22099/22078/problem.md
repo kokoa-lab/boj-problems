@@ -1,13 +1,13 @@
 ---
-title: Торжественный парад
-special_judge: true
-time_limit: 2 초
-memory_limit: 256 MB
+title: "Торжественный парад"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 9
 accepted: 6
 solved_users: 5
-acceptance_rate: 71.429%
-collected_at: 2026-04-17T16:13:02.173717+00:00
+acceptance_rate: "71.429%"
+collected_at: "2026-04-17T16:13:02.173717+00:00"
 ---
 
 ## 문제

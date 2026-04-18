@@ -1,13 +1,13 @@
 ---
-title: 대전과학고등학교를 사랑하십니까?
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "대전과학고등학교를 사랑하십니까?"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 1832
 accepted: 1373
 solved_users: 1291
-acceptance_rate: 76.436%
-collected_at: 2026-04-17T20:46:00.881932+00:00
+acceptance_rate: "76.436%"
+collected_at: "2026-04-17T20:46:00.881932+00:00"
 ---
 
 ## 문제

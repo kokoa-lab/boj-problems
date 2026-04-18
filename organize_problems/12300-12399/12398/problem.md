@@ -1,13 +1,13 @@
 ---
-title: Cruise Control (Small)
-special_judge: true
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Cruise Control (Small)"
+special_judge: "true"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 33
 accepted: 5
 solved_users: 4
-acceptance_rate: 100.000%
-collected_at: 2026-04-17T12:54:45.929488+00:00
+acceptance_rate: "100.000%"
+collected_at: "2026-04-17T12:54:45.929488+00:00"
 ---
 
 ## 문제

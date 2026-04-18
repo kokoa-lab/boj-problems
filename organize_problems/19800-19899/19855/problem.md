@@ -1,13 +1,13 @@
 ---
-title: 3분 그래프 리턴즈
-special_judge: false
-time_limit: 3 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "3분 그래프 리턴즈"
+special_judge: "false"
+time_limit: "3 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 126
 accepted: 29
 solved_users: 26
-acceptance_rate: 24.528%
-collected_at: 2026-04-17T15:28:31.372093+00:00
+acceptance_rate: "24.528%"
+collected_at: "2026-04-17T15:28:31.372093+00:00"
 ---
 
 ## 문제

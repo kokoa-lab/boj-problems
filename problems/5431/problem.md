@@ -1,13 +1,13 @@
 ---
-title: 책 쌓기
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "책 쌓기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 413
 accepted: 117
 solved_users: 92
-acceptance_rate: 40.175%
-collected_at: 2026-04-17T11:13:51.604301+00:00
+acceptance_rate: "40.175%"
+collected_at: "2026-04-17T11:13:51.604301+00:00"
 ---
 
 ## 문제

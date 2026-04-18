@@ -1,13 +1,13 @@
 ---
-title: Figure Eight
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Figure Eight"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 73
 accepted: 16
 solved_users: 15
-acceptance_rate: 23.810%
-collected_at: 2026-04-17T11:17:45.282956+00:00
+acceptance_rate: "23.810%"
+collected_at: "2026-04-17T11:17:45.282956+00:00"
 ---
 
 ## 문제

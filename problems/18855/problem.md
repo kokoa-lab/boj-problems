@@ -1,13 +1,13 @@
 ---
-title: Treatment Project
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Treatment Project"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 192
 accepted: 100
 solved_users: 59
-acceptance_rate: 42.143%
-collected_at: 2026-04-17T15:10:26.060571+00:00
+acceptance_rate: "42.143%"
+collected_at: "2026-04-17T15:10:26.060571+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: [M] Meaning of an Average
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "[M] Meaning of an Average"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 110
 accepted: 80
 solved_users: 71
-acceptance_rate: 73.958%
-collected_at: 2026-04-17T20:28:49.593665+00:00
+acceptance_rate: "73.958%"
+collected_at: "2026-04-17T20:28:49.593665+00:00"
 ---
 
 ## 문제

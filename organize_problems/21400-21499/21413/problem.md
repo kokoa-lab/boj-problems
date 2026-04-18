@@ -1,13 +1,13 @@
 ---
-title: <<Болото 2>>
-special_judge: true
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "<<Болото 2>>"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 40
 accepted: 10
 solved_users: 9
-acceptance_rate: 29.032%
-collected_at: 2026-04-17T15:57:55.085260+00:00
+acceptance_rate: "29.032%"
+collected_at: "2026-04-17T15:57:55.085260+00:00"
 ---
 
 ## 문제

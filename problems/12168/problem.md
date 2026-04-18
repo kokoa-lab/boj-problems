@@ -1,13 +1,13 @@
 ---
-title: Infinite House of Pancakes (Small)
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Infinite House of Pancakes (Small)"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 108
 accepted: 57
 solved_users: 55
-acceptance_rate: 56.122%
-collected_at: 2026-04-17T12:51:18.407010+00:00
+acceptance_rate: "56.122%"
+collected_at: "2026-04-17T12:51:18.407010+00:00"
 ---
 
 ## 문제

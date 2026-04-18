@@ -1,13 +1,13 @@
 ---
-title: Change of Scenery
-special_judge: false
-time_limit: 3 초
-memory_limit: 256 MB
+title: "Change of Scenery"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "256 MB"
 submissions: 300
 accepted: 89
 solved_users: 67
-acceptance_rate: 33.333%
-collected_at: 2026-04-17T12:30:33.478908+00:00
+acceptance_rate: "33.333%"
+collected_at: "2026-04-17T12:30:33.478908+00:00"
 ---
 
 ## 문제

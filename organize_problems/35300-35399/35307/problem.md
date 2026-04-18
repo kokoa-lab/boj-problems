@@ -1,13 +1,13 @@
 ---
-title: 하얀 전파
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "하얀 전파"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 132
 accepted: 70
 solved_users: 62
-acceptance_rate: 54.386%
-collected_at: 2026-04-17T20:59:53.032295+00:00
+acceptance_rate: "54.386%"
+collected_at: "2026-04-17T20:59:53.032295+00:00"
 ---
 
 ## 문제

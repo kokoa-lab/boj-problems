@@ -1,13 +1,13 @@
 ---
-title: Let’s Portmanteau
-special_judge: false
-time_limit: 5 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Let’s Portmanteau"
+special_judge: "false"
+time_limit: "5 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 147
 accepted: 91
 solved_users: 81
-acceptance_rate: 61.832%
-collected_at: 2026-04-17T19:00:58.123311+00:00
+acceptance_rate: "61.832%"
+collected_at: "2026-04-17T19:00:58.123311+00:00"
 ---
 
 ## 문제

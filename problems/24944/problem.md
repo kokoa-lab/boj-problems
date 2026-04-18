@@ -1,13 +1,13 @@
 ---
-title: Misspelling
-special_judge: false
-time_limit: 3.5 초
-memory_limit: 1024 MB
+title: "Misspelling"
+special_judge: "false"
+time_limit: "3.5 초"
+memory_limit: "1024 MB"
 submissions: 59
 accepted: 31
 solved_users: 29
-acceptance_rate: 50.877%
-collected_at: 2026-04-17T17:17:27.768894+00:00
+acceptance_rate: "50.877%"
+collected_at: "2026-04-17T17:17:27.768894+00:00"
 ---
 
 ## 문제

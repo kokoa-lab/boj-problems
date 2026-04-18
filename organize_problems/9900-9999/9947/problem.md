@@ -1,13 +1,13 @@
 ---
-title: Coin tossing
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Coin tossing"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 378
 accepted: 311
 solved_users: 284
-acceptance_rate: 84.024%
-collected_at: 2026-04-17T12:17:04.706539+00:00
+acceptance_rate: "84.024%"
+collected_at: "2026-04-17T12:17:04.706539+00:00"
 ---
 
 ## 문제

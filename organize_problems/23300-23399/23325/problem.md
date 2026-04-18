@@ -1,13 +1,13 @@
 ---
-title: 마법천자문
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "마법천자문"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 474
 accepted: 236
 solved_users: 185
-acceptance_rate: 48.684%
-collected_at: 2026-04-17T16:46:20.762974+00:00
+acceptance_rate: "48.684%"
+collected_at: "2026-04-17T16:46:20.762974+00:00"
 ---
 
 ## 문제

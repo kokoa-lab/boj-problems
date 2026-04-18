@@ -1,13 +1,13 @@
 ---
-title: 교차하지 않는 원의 현들의 최대집합
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "교차하지 않는 원의 현들의 최대집합"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 3519
 accepted: 1410
 solved_users: 1136
-acceptance_rate: 44.168%
-collected_at: 2026-04-17T10:43:49.410672+00:00
+acceptance_rate: "44.168%"
+collected_at: "2026-04-17T10:43:49.410672+00:00"
 ---
 
 ## 문제

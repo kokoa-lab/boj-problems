@@ -1,13 +1,13 @@
 ---
-title: Реклама на заборе
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Реклама на заборе"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 330
 accepted: 244
 solved_users: 217
-acceptance_rate: 76.950%
-collected_at: 2026-04-17T15:27:46.130162+00:00
+acceptance_rate: "76.950%"
+collected_at: "2026-04-17T15:27:46.130162+00:00"
 ---
 
 ## 문제

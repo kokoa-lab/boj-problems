@@ -1,13 +1,13 @@
 ---
-title: John
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "John"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 143
 accepted: 69
 solved_users: 62
-acceptance_rate: 48.819%
-collected_at: 2026-04-17T10:51:44.071513+00:00
+acceptance_rate: "48.819%"
+collected_at: "2026-04-17T10:51:44.071513+00:00"
 ---
 
 ## 문제

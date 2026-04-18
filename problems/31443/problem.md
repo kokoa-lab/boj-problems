@@ -1,13 +1,13 @@
 ---
-title: 준영이
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "준영이"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 406
 accepted: 198
 solved_users: 172
-acceptance_rate: 60.351%
-collected_at: 2026-04-17T19:28:20.505555+00:00
+acceptance_rate: "60.351%"
+collected_at: "2026-04-17T19:28:20.505555+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Bad Packing
-special_judge: false
-time_limit: 6 초
-memory_limit: 512 MB
+title: "Bad Packing"
+special_judge: "false"
+time_limit: "6 초"
+memory_limit: "512 MB"
 submissions: 136
 accepted: 46
 solved_users: 42
-acceptance_rate: 40.000%
-collected_at: 2026-04-17T15:48:43.558284+00:00
+acceptance_rate: "40.000%"
+collected_at: "2026-04-17T15:48:43.558284+00:00"
 ---
 
 ## 문제

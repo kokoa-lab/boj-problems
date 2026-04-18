@@ -1,13 +1,13 @@
 ---
-title: 곰곰이의 벼락치기
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "곰곰이의 벼락치기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 151
 accepted: 101
 solved_users: 86
-acceptance_rate: 66.667%
-collected_at: 2026-04-17T17:39:57.759682+00:00
+acceptance_rate: "66.667%"
+collected_at: "2026-04-17T17:39:57.759682+00:00"
 ---
 
 ## 문제

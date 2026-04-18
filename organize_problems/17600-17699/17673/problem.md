@@ -1,13 +1,13 @@
 ---
-title: Two Transportations
-special_judge: false
-time_limit: 10 초
-memory_limit: 256 MB
+title: "Two Transportations"
+special_judge: "false"
+time_limit: "10 초"
+memory_limit: "256 MB"
 submissions: 37
 accepted: 13
 solved_users: 12
-acceptance_rate: 38.710%
-collected_at: 2026-04-17T14:45:02.029898+00:00
+acceptance_rate: "38.710%"
+collected_at: "2026-04-17T14:45:02.029898+00:00"
 ---
 
 ## 문제

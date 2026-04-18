@@ -1,13 +1,13 @@
 ---
-title: Liczba
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Liczba"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 730
 accepted: 465
 solved_users: 425
-acceptance_rate: 65.084%
-collected_at: 2026-04-17T12:01:47.638831+00:00
+acceptance_rate: "65.084%"
+collected_at: "2026-04-17T12:01:47.638831+00:00"
 ---
 
 ## 문제

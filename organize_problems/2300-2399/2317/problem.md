@@ -1,13 +1,13 @@
 ---
-title: 결혼식
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "결혼식"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 443
 accepted: 129
 solved_users: 98
-acceptance_rate: 29.429%
-collected_at: 2026-04-17T10:40:32.676157+00:00
+acceptance_rate: "29.429%"
+collected_at: "2026-04-17T10:40:32.676157+00:00"
 ---
 
 ## 문제

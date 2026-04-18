@@ -1,13 +1,13 @@
 ---
-title: Itz Chess (Large)
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Itz Chess (Large)"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 45
 accepted: 19
 solved_users: 17
-acceptance_rate: 43.590%
-collected_at: 2026-04-17T12:51:39.590655+00:00
+acceptance_rate: "43.590%"
+collected_at: "2026-04-17T12:51:39.590655+00:00"
 ---
 
 ## 문제

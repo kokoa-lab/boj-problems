@@ -1,13 +1,13 @@
 ---
-title: 문자열 압축하기
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "문자열 압축하기"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 642
 accepted: 228
 solved_users: 174
-acceptance_rate: 42.439%
-collected_at: 2026-04-17T10:38:45.817653+00:00
+acceptance_rate: "42.439%"
+collected_at: "2026-04-17T10:38:45.817653+00:00"
 ---
 
 ## 문제

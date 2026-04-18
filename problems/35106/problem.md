@@ -1,13 +1,13 @@
 ---
-title: 릴레이 가위바위보 게임
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "릴레이 가위바위보 게임"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 515
 accepted: 400
 solved_users: 376
-acceptance_rate: 78.170%
-collected_at: 2026-04-17T20:55:51.713299+00:00
+acceptance_rate: "78.170%"
+collected_at: "2026-04-17T20:55:51.713299+00:00"
 ---
 
 ## 문제

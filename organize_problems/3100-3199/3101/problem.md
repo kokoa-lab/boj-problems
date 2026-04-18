@@ -1,13 +1,13 @@
 ---
-title: 토끼의 이동
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "토끼의 이동"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 1704
 accepted: 517
 solved_users: 386
-acceptance_rate: 31.079%
-collected_at: 2026-04-17T10:46:41.092785+00:00
+acceptance_rate: "31.079%"
+collected_at: "2026-04-17T10:46:41.092785+00:00"
 ---
 
 ## 문제

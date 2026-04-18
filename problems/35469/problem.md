@@ -1,13 +1,13 @@
 ---
-title: U-DeeP-See
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "U-DeeP-See"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 82
 accepted: 60
 solved_users: 50
-acceptance_rate: 74.627%
-collected_at: 2026-04-17T21:09:03.652697+00:00
+acceptance_rate: "74.627%"
+collected_at: "2026-04-17T21:09:03.652697+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Hotspots
-special_judge: false
-time_limit: 2.5 초
-memory_limit: 512 MB
+title: "Hotspots"
+special_judge: "false"
+time_limit: "2.5 초"
+memory_limit: "512 MB"
 submissions: 222
 accepted: 51
 solved_users: 40
-acceptance_rate: 33.058%
-collected_at: 2026-04-17T15:30:51.318293+00:00
+acceptance_rate: "33.058%"
+collected_at: "2026-04-17T15:30:51.318293+00:00"
 ---
 
 ## 문제

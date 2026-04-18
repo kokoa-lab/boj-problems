@@ -1,13 +1,13 @@
 ---
-title: $2x + 2$
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "$2x + 2$"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 818
 accepted: 316
 solved_users: 243
-acceptance_rate: 42.188%
-collected_at: 2026-04-17T15:13:58.414336+00:00
+acceptance_rate: "42.188%"
+collected_at: "2026-04-17T15:13:58.414336+00:00"
 ---
 
 ## 문제

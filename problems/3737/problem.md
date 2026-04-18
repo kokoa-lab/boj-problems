@@ -1,13 +1,13 @@
 ---
-title: Cycles of Lanes
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Cycles of Lanes"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 125
 accepted: 56
 solved_users: 42
-acceptance_rate: 47.727%
-collected_at: 2026-04-17T10:51:32.190892+00:00
+acceptance_rate: "47.727%"
+collected_at: "2026-04-17T10:51:32.190892+00:00"
 ---
 
 ## 문제

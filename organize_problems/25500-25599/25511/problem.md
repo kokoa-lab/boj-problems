@@ -1,13 +1,13 @@
 ---
-title: 값이 k인 트리 노드의 깊이
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "값이 k인 트리 노드의 깊이"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 922
 accepted: 459
 solved_users: 381
-acceptance_rate: 53.212%
-collected_at: 2026-04-17T17:27:56.639976+00:00
+acceptance_rate: "53.212%"
+collected_at: "2026-04-17T17:27:56.639976+00:00"
 ---
 
 ## 문제

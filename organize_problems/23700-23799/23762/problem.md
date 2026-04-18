@@ -1,13 +1,13 @@
 ---
-title: 배드민턴 복식 팀 만들기
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "배드민턴 복식 팀 만들기"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 435
 accepted: 120
 solved_users: 91
-acceptance_rate: 32.384%
-collected_at: 2026-04-17T16:53:22.412726+00:00
+acceptance_rate: "32.384%"
+collected_at: "2026-04-17T16:53:22.412726+00:00"
 ---
 
 ## 문제

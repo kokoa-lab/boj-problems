@@ -1,13 +1,13 @@
 ---
-title: Fair Grading
-special_judge: false
-time_limit: 1 초
-memory_limit: 2048 MB
+title: "Fair Grading"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "2048 MB"
 submissions: 171
 accepted: 142
 solved_users: 132
-acceptance_rate: 83.019%
-collected_at: 2026-04-17T20:34:36.236604+00:00
+acceptance_rate: "83.019%"
+collected_at: "2026-04-17T20:34:36.236604+00:00"
 ---
 
 ## 문제

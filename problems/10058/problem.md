@@ -1,13 +1,13 @@
 ---
-title: 센서 네트워크
-special_judge: true
-time_limit: 2 초
-memory_limit: 128 MB
+title: "센서 네트워크"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 813
 accepted: 198
 solved_users: 141
-acceptance_rate: 26.960%
-collected_at: 2026-04-17T12:18:27.820555+00:00
+acceptance_rate: "26.960%"
+collected_at: "2026-04-17T12:18:27.820555+00:00"
 ---
 
 ## 문제

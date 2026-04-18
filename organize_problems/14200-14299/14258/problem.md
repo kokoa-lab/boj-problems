@@ -1,13 +1,13 @@
 ---
-title: XOR 그룹
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "XOR 그룹"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 283
 accepted: 109
 solved_users: 95
-acceptance_rate: 39.419%
-collected_at: 2026-04-17T13:28:44.819009+00:00
+acceptance_rate: "39.419%"
+collected_at: "2026-04-17T13:28:44.819009+00:00"
 ---
 
 ## 문제

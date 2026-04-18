@@ -1,13 +1,13 @@
 ---
-title: Contest Scoreboard
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Contest Scoreboard"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 96
 accepted: 33
 solved_users: 28
-acceptance_rate: 40.000%
-collected_at: 2026-04-17T11:01:29.166626+00:00
+acceptance_rate: "40.000%"
+collected_at: "2026-04-17T11:01:29.166626+00:00"
 ---
 
 ## 문제

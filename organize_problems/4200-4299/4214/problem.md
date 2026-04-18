@@ -1,13 +1,13 @@
 ---
-title: Takeover Wars
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Takeover Wars"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 181
 accepted: 56
 solved_users: 43
-acceptance_rate: 31.852%
-collected_at: 2026-04-17T10:57:26.414915+00:00
+acceptance_rate: "31.852%"
+collected_at: "2026-04-17T10:57:26.414915+00:00"
 ---
 
 ## 문제

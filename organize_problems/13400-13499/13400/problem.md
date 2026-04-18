@@ -1,13 +1,13 @@
 ---
-title: Quality of Check Digits
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Quality of Check Digits"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 114
 accepted: 79
 solved_users: 73
-acceptance_rate: 70.874%
-collected_at: 2026-04-17T13:12:42.003051+00:00
+acceptance_rate: "70.874%"
+collected_at: "2026-04-17T13:12:42.003051+00:00"
 ---
 
 ## 문제

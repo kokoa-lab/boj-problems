@@ -1,13 +1,13 @@
 ---
-title: 더하기와 나누기
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "더하기와 나누기"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 1294
 accepted: 371
 solved_users: 301
-acceptance_rate: 28.263%
-collected_at: 2026-04-17T18:26:33.520878+00:00
+acceptance_rate: "28.263%"
+collected_at: "2026-04-17T18:26:33.520878+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Best Parenthesis
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Best Parenthesis"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 376
 accepted: 111
 solved_users: 83
-acceptance_rate: 32.296%
-collected_at: 2026-04-17T11:18:53.837245+00:00
+acceptance_rate: "32.296%"
+collected_at: "2026-04-17T11:18:53.837245+00:00"
 ---
 
 ## 문제

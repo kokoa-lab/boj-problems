@@ -1,13 +1,13 @@
 ---
-title: Karikakrad ja armastus
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Karikakrad ja armastus"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 43
 accepted: 34
 solved_users: 29
-acceptance_rate: 80.556%
-collected_at: 2026-04-17T11:47:09.897629+00:00
+acceptance_rate: "80.556%"
+collected_at: "2026-04-17T11:47:09.897629+00:00"
 ---
 
 ## 문제

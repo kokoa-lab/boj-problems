@@ -1,13 +1,13 @@
 ---
-title: 이진수 덧셈
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "이진수 덧셈"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 17142
 accepted: 5974
 solved_users: 5354
-acceptance_rate: 37.047%
-collected_at: 2026-04-17T10:29:05.204539+00:00
+acceptance_rate: "37.047%"
+collected_at: "2026-04-17T10:29:05.204539+00:00"
 ---
 
 ## 문제

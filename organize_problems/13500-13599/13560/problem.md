@@ -1,13 +1,13 @@
 ---
-title: 축구 게임
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "축구 게임"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 5200
 accepted: 1179
 solved_users: 913
-acceptance_rate: 26.829%
-collected_at: 2026-04-17T13:15:16.157470+00:00
+acceptance_rate: "26.829%"
+collected_at: "2026-04-17T13:15:16.157470+00:00"
 ---
 
 ## 문제

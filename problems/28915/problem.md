@@ -1,13 +1,13 @@
 ---
-title: Книжная полка
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Книжная полка"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 194
 accepted: 86
 solved_users: 63
-acceptance_rate: 48.837%
-collected_at: 2026-04-17T18:34:36.364112+00:00
+acceptance_rate: "48.837%"
+collected_at: "2026-04-17T18:34:36.364112+00:00"
 ---
 
 ## 문제

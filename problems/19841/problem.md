@@ -1,13 +1,13 @@
 ---
-title: Prime Suffixes
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Prime Suffixes"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 182
 accepted: 55
 solved_users: 36
-acceptance_rate: 26.866%
-collected_at: 2026-04-17T15:28:24.167617+00:00
+acceptance_rate: "26.866%"
+collected_at: "2026-04-17T15:28:24.167617+00:00"
 ---
 
 ## 문제

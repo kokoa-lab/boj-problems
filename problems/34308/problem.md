@@ -1,13 +1,13 @@
 ---
-title: Abby's Absolutes
-special_judge: false
-time_limit: 1 초
-memory_limit: 2048 MB
+title: "Abby's Absolutes"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "2048 MB"
 submissions: 386
 accepted: 319
 solved_users: 301
-acceptance_rate: 82.920%
-collected_at: 2026-04-17T20:35:11.798294+00:00
+acceptance_rate: "82.920%"
+collected_at: "2026-04-17T20:35:11.798294+00:00"
 ---
 
 ## 문제

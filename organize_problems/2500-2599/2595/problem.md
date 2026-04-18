@@ -1,13 +1,13 @@
 ---
-title: 배수
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "배수"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 641
 accepted: 186
 solved_users: 124
-acceptance_rate: 32.718%
-collected_at: 2026-04-17T10:43:08.327533+00:00
+acceptance_rate: "32.718%"
+collected_at: "2026-04-17T10:43:08.327533+00:00"
 ---
 
 ## 문제

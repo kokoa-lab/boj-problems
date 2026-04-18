@@ -1,13 +1,13 @@
 ---
-title: 사과 담기 게임
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "사과 담기 게임"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 17912
 accepted: 9366
 solved_users: 7262
-acceptance_rate: 53.050%
-collected_at: 2026-04-17T10:45:10.629967+00:00
+acceptance_rate: "53.050%"
+collected_at: "2026-04-17T10:45:10.629967+00:00"
 ---
 
 ## 문제

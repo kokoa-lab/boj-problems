@@ -1,13 +1,13 @@
 ---
-title: 수위 아저씨의 고민
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "수위 아저씨의 고민"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 651
 accepted: 185
 solved_users: 156
-acceptance_rate: 35.455%
-collected_at: 2026-04-17T12:06:31.491872+00:00
+acceptance_rate: "35.455%"
+collected_at: "2026-04-17T12:06:31.491872+00:00"
 ---
 
 ## 문제

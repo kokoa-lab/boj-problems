@@ -1,13 +1,13 @@
 ---
-title: Minimizing Haybales
-special_judge: false
-time_limit: 4 초
-memory_limit: 512 MB
+title: "Minimizing Haybales"
+special_judge: "false"
+time_limit: "4 초"
+memory_limit: "512 MB"
 submissions: 86
 accepted: 46
 solved_users: 37
-acceptance_rate: 55.224%
-collected_at: 2026-04-17T17:10:06.474499+00:00
+acceptance_rate: "55.224%"
+collected_at: "2026-04-17T17:10:06.474499+00:00"
 ---
 
 ## 문제

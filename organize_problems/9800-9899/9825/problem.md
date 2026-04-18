@@ -1,13 +1,13 @@
 ---
-title: MODSUM
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "MODSUM"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 74
 accepted: 57
 solved_users: 41
-acceptance_rate: 85.417%
-collected_at: 2026-04-17T12:15:05.012879+00:00
+acceptance_rate: "85.417%"
+collected_at: "2026-04-17T12:15:05.012879+00:00"
 ---
 
 ## 문제

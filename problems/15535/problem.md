@@ -1,13 +1,13 @@
 ---
-title: Share the Ruins Preservation
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Share the Ruins Preservation"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 42
 accepted: 20
 solved_users: 18
-acceptance_rate: 47.368%
-collected_at: 2026-04-17T14:01:12.719664+00:00
+acceptance_rate: "47.368%"
+collected_at: "2026-04-17T14:01:12.719664+00:00"
 ---
 
 ## 문제

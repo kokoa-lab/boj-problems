@@ -1,13 +1,13 @@
 ---
-title: 파티로 가는 길
-special_judge: false
-time_limit: 1 초
-memory_limit: 2048 MB
+title: "파티로 가는 길"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "2048 MB"
 submissions: 29
 accepted: 19
 solved_users: 18
-acceptance_rate: 64.286%
-collected_at: 2026-04-17T20:51:13.322954+00:00
+acceptance_rate: "64.286%"
+collected_at: "2026-04-17T20:51:13.322954+00:00"
 ---
 
 ## 문제

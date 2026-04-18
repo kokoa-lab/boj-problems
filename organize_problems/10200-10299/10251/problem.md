@@ -1,13 +1,13 @@
 ---
-title: 운전 면허 시험
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "운전 면허 시험"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 2903
 accepted: 881
 solved_users: 583
-acceptance_rate: 31.327%
-collected_at: 2026-04-17T12:21:00.346719+00:00
+acceptance_rate: "31.327%"
+collected_at: "2026-04-17T12:21:00.346719+00:00"
 ---
 
 ## 문제

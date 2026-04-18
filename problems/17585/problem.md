@@ -1,13 +1,13 @@
 ---
-title: Circuit Math
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Circuit Math"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 136
 accepted: 93
 solved_users: 87
-acceptance_rate: 74.359%
-collected_at: 2026-04-17T14:42:10.070196+00:00
+acceptance_rate: "74.359%"
+collected_at: "2026-04-17T14:42:10.070196+00:00"
 ---
 
 ## 문제

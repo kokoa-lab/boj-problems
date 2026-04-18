@@ -1,13 +1,13 @@
 ---
-title: Klass
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Klass"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 183
 accepted: 99
 solved_users: 84
-acceptance_rate: 52.174%
-collected_at: 2026-04-17T11:46:52.480126+00:00
+acceptance_rate: "52.174%"
+collected_at: "2026-04-17T11:46:52.480126+00:00"
 ---
 
 ## 문제

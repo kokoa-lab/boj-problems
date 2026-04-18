@@ -1,13 +1,13 @@
 ---
-title: 축사 배정
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "축사 배정"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 13581
 accepted: 6583
 solved_users: 4347
-acceptance_rate: 49.308%
-collected_at: 2026-04-17T10:39:18.665455+00:00
+acceptance_rate: "49.308%"
+collected_at: "2026-04-17T10:39:18.665455+00:00"
 ---
 
 ## 문제

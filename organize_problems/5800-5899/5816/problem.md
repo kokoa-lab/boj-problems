@@ -1,13 +1,13 @@
 ---
-title: ROTACIJE
-special_judge: true
-time_limit: 5 초
-memory_limit: 256 MB
+title: "ROTACIJE"
+special_judge: "true"
+time_limit: "5 초"
+memory_limit: "256 MB"
 submissions: 22
 accepted: 3
 solved_users: 3
-acceptance_rate: 17.647%
-collected_at: 2026-04-17T11:17:40.165241+00:00
+acceptance_rate: "17.647%"
+collected_at: "2026-04-17T11:17:40.165241+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 컨테이너 재배치
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "컨테이너 재배치"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 1541
 accepted: 691
 solved_users: 574
-acceptance_rate: 44.844%
-collected_at: 2026-04-17T17:37:29.984070+00:00
+acceptance_rate: "44.844%"
+collected_at: "2026-04-17T17:37:29.984070+00:00"
 ---
 
 ## 문제

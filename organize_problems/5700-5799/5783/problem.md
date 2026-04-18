@@ -1,13 +1,13 @@
 ---
-title: Will Indiana Jones Get There?
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Will Indiana Jones Get There?"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 35
 accepted: 6
 solved_users: 4
-acceptance_rate: 12.121%
-collected_at: 2026-04-17T11:17:23.071722+00:00
+acceptance_rate: "12.121%"
+collected_at: "2026-04-17T11:17:23.071722+00:00"
 ---
 
 ## 문제

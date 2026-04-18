@@ -1,13 +1,13 @@
 ---
-title: 접시 안의 원
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "접시 안의 원"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 2675
 accepted: 1971
 solved_users: 1805
-acceptance_rate: 74.710%
-collected_at: 2026-04-17T14:18:46.797911+00:00
+acceptance_rate: "74.710%"
+collected_at: "2026-04-17T14:18:46.797911+00:00"
 ---
 
 ## 문제

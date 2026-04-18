@@ -1,13 +1,13 @@
 ---
-title: Milk Scheduling
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Milk Scheduling"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 620
 accepted: 279
 solved_users: 228
-acceptance_rate: 46.626%
-collected_at: 2026-04-17T12:15:48.726686+00:00
+acceptance_rate: "46.626%"
+collected_at: "2026-04-17T12:15:48.726686+00:00"
 ---
 
 ## 문제

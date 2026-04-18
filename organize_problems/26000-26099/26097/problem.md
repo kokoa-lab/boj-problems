@@ -1,13 +1,13 @@
 ---
-title: 효구와 호규 (Hard)
-special_judge: true
-time_limit: 3 초 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "효구와 호규 (Hard)"
+special_judge: "true"
+time_limit: "3 초 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 201
 accepted: 94
 solved_users: 66
-acceptance_rate: 42.308%
-collected_at: 2026-04-17T17:40:06.542784+00:00
+acceptance_rate: "42.308%"
+collected_at: "2026-04-17T17:40:06.542784+00:00"
 ---
 
 ## 문제

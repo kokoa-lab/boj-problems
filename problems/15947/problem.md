@@ -1,13 +1,13 @@
 ---
-title: 아기 석환 뚜루루 뚜루
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "아기 석환 뚜루루 뚜루"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 3250
 accepted: 1667
 solved_users: 1491
-acceptance_rate: 51.503%
-collected_at: 2026-04-17T14:09:03.116041+00:00
+acceptance_rate: "51.503%"
+collected_at: "2026-04-17T14:09:03.116041+00:00"
 ---
 
 ## 문제

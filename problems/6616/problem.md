@@ -1,13 +1,13 @@
 ---
-title: 문자열 암호화
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "문자열 암호화"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 961
 accepted: 380
 solved_users: 293
-acceptance_rate: 39.918%
-collected_at: 2026-04-17T11:31:40.770958+00:00
+acceptance_rate: "39.918%"
+collected_at: "2026-04-17T11:31:40.770958+00:00"
 ---
 
 ## 문제

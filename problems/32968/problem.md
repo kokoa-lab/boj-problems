@@ -1,13 +1,13 @@
 ---
-title: 하노이의 큐
-special_judge: true
-time_limit: 3 초
-memory_limit: 2048 MB
+title: "하노이의 큐"
+special_judge: "true"
+time_limit: "3 초"
+memory_limit: "2048 MB"
 submissions: 114
 accepted: 27
 solved_users: 21
-acceptance_rate: 41.176%
-collected_at: 2026-04-17T20:06:24.854640+00:00
+acceptance_rate: "41.176%"
+collected_at: "2026-04-17T20:06:24.854640+00:00"
 ---
 
 ## 문제

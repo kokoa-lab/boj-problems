@@ -1,13 +1,13 @@
 ---
-title: SPC에 가는 길
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "SPC에 가는 길"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 1064
 accepted: 367
 solved_users: 337
-acceptance_rate: 38.825%
-collected_at: 2026-04-17T19:57:51.276770+00:00
+acceptance_rate: "38.825%"
+collected_at: "2026-04-17T19:57:51.276770+00:00"
 ---
 
 ## 문제

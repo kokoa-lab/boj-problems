@@ -1,13 +1,13 @@
 ---
-title: Luggage
-special_judge: false
-time_limit: 10 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "Luggage"
+special_judge: "false"
+time_limit: "10 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 823
 accepted: 229
 solved_users: 114
-acceptance_rate: 22.441%
-collected_at: 2026-04-17T15:33:18.163454+00:00
+acceptance_rate: "22.441%"
+collected_at: "2026-04-17T15:33:18.163454+00:00"
 ---
 
 ## 문제

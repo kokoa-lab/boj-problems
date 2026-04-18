@@ -1,13 +1,13 @@
 ---
-title: 볼링장 아르바이트
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "볼링장 아르바이트"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 392
 accepted: 222
 solved_users: 178
-acceptance_rate: 59.333%
-collected_at: 2026-04-17T18:15:57.981893+00:00
+acceptance_rate: "59.333%"
+collected_at: "2026-04-17T18:15:57.981893+00:00"
 ---
 
 ## 문제

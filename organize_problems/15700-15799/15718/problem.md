@@ -1,13 +1,13 @@
 ---
-title: 돌아온 떡파이어
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "돌아온 떡파이어"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 3755
 accepted: 710
 solved_users: 537
-acceptance_rate: 19.478%
-collected_at: 2026-04-17T14:04:57.541616+00:00
+acceptance_rate: "19.478%"
+collected_at: "2026-04-17T14:04:57.541616+00:00"
 ---
 
 ## 문제

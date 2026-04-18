@@ -1,13 +1,13 @@
 ---
-title: 辺が先か，頂点が先か
-special_judge: true
-time_limit: 8 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "辺が先か，頂点が先か"
+special_judge: "true"
+time_limit: "8 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 8
 accepted: 3
 solved_users: 3
-acceptance_rate: 37.500%
-collected_at: 2026-04-17T16:19:37.912878+00:00
+acceptance_rate: "37.500%"
+collected_at: "2026-04-17T16:19:37.912878+00:00"
 ---
 
 ## 문제

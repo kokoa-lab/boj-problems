@@ -1,13 +1,13 @@
 ---
-title: Cost Performance Flow
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "Cost Performance Flow"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 75
 accepted: 20
 solved_users: 12
-acceptance_rate: 21.053%
-collected_at: 2026-04-17T12:44:35.302281+00:00
+acceptance_rate: "21.053%"
+collected_at: "2026-04-17T12:44:35.302281+00:00"
 ---
 
 ## 문제

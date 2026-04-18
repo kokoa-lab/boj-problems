@@ -1,13 +1,13 @@
 ---
-title: Silver-16
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Silver-16"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 695
 accepted: 235
 solved_users: 154
-acceptance_rate: 31.753%
-collected_at: 2026-04-17T17:13:07.358803+00:00
+acceptance_rate: "31.753%"
+collected_at: "2026-04-17T17:13:07.358803+00:00"
 ---
 
 ## 문제

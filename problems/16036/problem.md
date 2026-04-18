@@ -1,13 +1,13 @@
 ---
-title: Floating-Point Numbers
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Floating-Point Numbers"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 8
 accepted: 6
 solved_users: 6
-acceptance_rate: 85.714%
-collected_at: 2026-04-17T14:10:15.735576+00:00
+acceptance_rate: "85.714%"
+collected_at: "2026-04-17T14:10:15.735576+00:00"
 ---
 
 ## 문제

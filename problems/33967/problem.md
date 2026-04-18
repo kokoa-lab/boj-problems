@@ -1,13 +1,13 @@
 ---
-title: SCSC 기차 놀이
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "SCSC 기차 놀이"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 442
 accepted: 262
 solved_users: 206
-acceptance_rate: 63.580%
-collected_at: 2026-04-17T20:27:28.438820+00:00
+acceptance_rate: "63.580%"
+collected_at: "2026-04-17T20:27:28.438820+00:00"
 ---
 
 ## 문제

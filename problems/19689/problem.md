@@ -1,13 +1,13 @@
 ---
-title: Collecting Mushrooms
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Collecting Mushrooms"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 34
 accepted: 23
 solved_users: 23
-acceptance_rate: 79.310%
-collected_at: 2026-04-17T15:26:31.478209+00:00
+acceptance_rate: "79.310%"
+collected_at: "2026-04-17T15:26:31.478209+00:00"
 ---
 
 ## 문제

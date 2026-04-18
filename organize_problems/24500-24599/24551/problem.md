@@ -1,13 +1,13 @@
 ---
-title: 일이 너무 많아...
-special_judge: false
-time_limit: 1.111 초 (추가 시간 없음)
-memory_limit: 1111 MB (추가 메모리 없음)
+title: "일이 너무 많아..."
+special_judge: "false"
+time_limit: "1.111 초 (추가 시간 없음)"
+memory_limit: "1111 MB (추가 메모리 없음)"
 submissions: 300
 accepted: 207
 solved_users: 180
-acceptance_rate: 74.380%
-collected_at: 2026-04-17T17:11:06.319939+00:00
+acceptance_rate: "74.380%"
+collected_at: "2026-04-17T17:11:06.319939+00:00"
 ---
 
 ## 문제

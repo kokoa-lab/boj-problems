@@ -1,13 +1,13 @@
 ---
-title: MP3 Songs
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "MP3 Songs"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 685
 accepted: 505
 solved_users: 450
-acceptance_rate: 75.125%
-collected_at: 2026-04-17T11:50:59.931821+00:00
+acceptance_rate: "75.125%"
+collected_at: "2026-04-17T11:50:59.931821+00:00"
 ---
 
 ## 문제

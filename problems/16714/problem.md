@@ -1,13 +1,13 @@
 ---
-title: Hosting MT
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Hosting MT"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 35
 accepted: 11
 solved_users: 11
-acceptance_rate: 34.375%
-collected_at: 2026-04-17T14:22:52.832587+00:00
+acceptance_rate: "34.375%"
+collected_at: "2026-04-17T14:22:52.832587+00:00"
 ---
 
 ## 문제

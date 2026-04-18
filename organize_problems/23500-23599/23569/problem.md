@@ -1,13 +1,13 @@
 ---
-title: Friendship Graphs
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Friendship Graphs"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 483
 accepted: 202
 solved_users: 172
-acceptance_rate: 47.645%
-collected_at: 2026-04-17T16:50:16.394438+00:00
+acceptance_rate: "47.645%"
+collected_at: "2026-04-17T16:50:16.394438+00:00"
 ---
 
 ## 문제

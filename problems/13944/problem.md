@@ -1,13 +1,13 @@
 ---
-title: Meksikanac
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Meksikanac"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 15
 accepted: 5
 solved_users: 4
-acceptance_rate: 57.143%
-collected_at: 2026-04-17T13:22:44.635541+00:00
+acceptance_rate: "57.143%"
+collected_at: "2026-04-17T13:22:44.635541+00:00"
 ---
 
 ## 문제

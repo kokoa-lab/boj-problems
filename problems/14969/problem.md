@@ -1,13 +1,13 @@
 ---
-title: Taro's Shopping
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Taro's Shopping"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 212
 accepted: 184
 solved_users: 163
-acceptance_rate: 88.587%
-collected_at: 2026-04-17T13:47:15.885410+00:00
+acceptance_rate: "88.587%"
+collected_at: "2026-04-17T13:47:15.885410+00:00"
 ---
 
 ## 문제

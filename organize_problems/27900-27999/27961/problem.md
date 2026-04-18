@@ -1,13 +1,13 @@
 ---
-title: 고양이는 많을수록 좋다
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "고양이는 많을수록 좋다"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 4803
 accepted: 1901
 solved_users: 1636
-acceptance_rate: 40.445%
-collected_at: 2026-04-17T18:15:35.233680+00:00
+acceptance_rate: "40.445%"
+collected_at: "2026-04-17T18:15:35.233680+00:00"
 ---
 
 ## 문제

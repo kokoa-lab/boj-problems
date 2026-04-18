@@ -1,13 +1,13 @@
 ---
-title: Little Worm
-special_judge: true
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Little Worm"
+special_judge: "true"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 87
 accepted: 12
 solved_users: 10
-acceptance_rate: 14.085%
-collected_at: 2026-04-17T14:53:55.258693+00:00
+acceptance_rate: "14.085%"
+collected_at: "2026-04-17T14:53:55.258693+00:00"
 ---
 
 ## 문제

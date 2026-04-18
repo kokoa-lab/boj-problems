@@ -1,13 +1,13 @@
 ---
-title: 전설의 고대 광산 탈출
-special_judge: false
-time_limit: 3 초
-memory_limit: 1024 MB
+title: "전설의 고대 광산 탈출"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "1024 MB"
 submissions: 126
 accepted: 64
 solved_users: 60
-acceptance_rate: 69.767%
-collected_at: 2026-04-17T17:55:54.671298+00:00
+acceptance_rate: "69.767%"
+collected_at: "2026-04-17T17:55:54.671298+00:00"
 ---
 
 ## 문제

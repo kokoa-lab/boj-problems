@@ -1,13 +1,13 @@
 ---
-title: English
-special_judge: true
-time_limit: 3 초
-memory_limit: 256 MB
+title: "English"
+special_judge: "true"
+time_limit: "3 초"
+memory_limit: "256 MB"
 submissions: 70
 accepted: 18
 solved_users: 10
-acceptance_rate: 38.462%
-collected_at: 2026-04-17T15:11:09.075851+00:00
+acceptance_rate: "38.462%"
+collected_at: "2026-04-17T15:11:09.075851+00:00"
 ---
 
 ## 문제

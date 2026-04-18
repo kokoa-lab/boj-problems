@@ -1,13 +1,13 @@
 ---
-title: Game of Nim Everywhere
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Game of Nim Everywhere"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 90
 accepted: 41
 solved_users: 29
-acceptance_rate: 39.189%
-collected_at: 2026-04-17T15:08:29.695466+00:00
+acceptance_rate: "39.189%"
+collected_at: "2026-04-17T15:08:29.695466+00:00"
 ---
 
 ## 문제

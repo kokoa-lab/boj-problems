@@ -1,13 +1,13 @@
 ---
-title: 소용돌이 문양
-special_judge: false
-time_limit: 3 초 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "소용돌이 문양"
+special_judge: "false"
+time_limit: "3 초 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 87
 accepted: 34
 solved_users: 31
-acceptance_rate: 50.820%
-collected_at: 2026-04-17T20:31:43.317437+00:00
+acceptance_rate: "50.820%"
+collected_at: "2026-04-17T20:31:43.317437+00:00"
 ---
 
 ## 문제

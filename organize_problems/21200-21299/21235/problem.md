@@ -1,13 +1,13 @@
 ---
-title: Year of the Cow
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Year of the Cow"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 661
 accepted: 266
 solved_users: 214
-acceptance_rate: 42.545%
-collected_at: 2026-04-17T15:51:11.089349+00:00
+acceptance_rate: "42.545%"
+collected_at: "2026-04-17T15:51:11.089349+00:00"
 ---
 
 ## 문제

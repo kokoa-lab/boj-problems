@@ -1,13 +1,13 @@
 ---
-title: Bovine Math Geniuses
-special_judge: false
-time_limit: 1 초
-memory_limit: 16 MB
+title: "Bovine Math Geniuses"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "16 MB"
 submissions: 30
 accepted: 19
 solved_users: 18
-acceptance_rate: 62.069%
-collected_at: 2026-04-17T17:55:37.651253+00:00
+acceptance_rate: "62.069%"
+collected_at: "2026-04-17T17:55:37.651253+00:00"
 ---
 
 ## 문제

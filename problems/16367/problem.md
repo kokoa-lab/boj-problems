@@ -1,13 +1,13 @@
 ---
-title: TV Show Game
-special_judge: true
-time_limit: 1 초
-memory_limit: 512 MB
+title: "TV Show Game"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 1774
 accepted: 1159
 solved_users: 946
-acceptance_rate: 66.526%
-collected_at: 2026-04-17T14:16:47.046677+00:00
+acceptance_rate: "66.526%"
+collected_at: "2026-04-17T14:16:47.046677+00:00"
 ---
 
 ## 문제

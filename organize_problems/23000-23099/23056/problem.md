@@ -1,13 +1,13 @@
 ---
-title: 참가자 명단
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "참가자 명단"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 1533
 accepted: 639
 solved_users: 530
-acceptance_rate: 41.536%
-collected_at: 2026-04-17T16:41:03.462119+00:00
+acceptance_rate: "41.536%"
+collected_at: "2026-04-17T16:41:03.462119+00:00"
 ---
 
 ## 문제

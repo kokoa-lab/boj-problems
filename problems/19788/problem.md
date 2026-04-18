@@ -1,13 +1,13 @@
 ---
-title: Болезнь
-special_judge: true
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Болезнь"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 42
 accepted: 18
 solved_users: 18
-acceptance_rate: 42.857%
-collected_at: 2026-04-17T15:27:40.445003+00:00
+acceptance_rate: "42.857%"
+collected_at: "2026-04-17T15:27:40.445003+00:00"
 ---
 
 ## 문제

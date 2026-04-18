@@ -1,13 +1,13 @@
 ---
-title: 선물 교환
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "선물 교환"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 1174
 accepted: 326
 solved_users: 237
-acceptance_rate: 27.336%
-collected_at: 2026-04-17T10:35:22.785016+00:00
+acceptance_rate: "27.336%"
+collected_at: "2026-04-17T10:35:22.785016+00:00"
 ---
 
 ## 문제

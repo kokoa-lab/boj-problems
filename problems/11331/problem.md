@@ -1,13 +1,13 @@
 ---
-title: Bitcoin Profits
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "Bitcoin Profits"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 57
 accepted: 35
 solved_users: 19
-acceptance_rate: 55.882%
-collected_at: 2026-04-17T12:39:43.754081+00:00
+acceptance_rate: "55.882%"
+collected_at: "2026-04-17T12:39:43.754081+00:00"
 ---
 
 ## 문제

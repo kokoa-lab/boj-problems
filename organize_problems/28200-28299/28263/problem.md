@@ -1,13 +1,13 @@
 ---
-title: 하이퍼 가짜 초콜릿
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "하이퍼 가짜 초콜릿"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 623
 accepted: 208
 solved_users: 145
-acceptance_rate: 41.311%
-collected_at: 2026-04-17T18:21:26.651212+00:00
+acceptance_rate: "41.311%"
+collected_at: "2026-04-17T18:21:26.651212+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Interval
-special_judge: false
-time_limit: 3 초
-memory_limit: 1024 MB
+title: "Interval"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "1024 MB"
 submissions: 35
 accepted: 14
 solved_users: 11
-acceptance_rate: 34.375%
-collected_at: 2026-04-17T17:32:11.485623+00:00
+acceptance_rate: "34.375%"
+collected_at: "2026-04-17T17:32:11.485623+00:00"
 ---
 
 ## 문제

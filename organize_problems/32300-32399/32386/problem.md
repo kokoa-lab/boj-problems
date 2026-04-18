@@ -1,13 +1,13 @@
 ---
-title: KCPC에 등장할 알고리즘 맞히기
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "KCPC에 등장할 알고리즘 맞히기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 851
 accepted: 465
 solved_users: 402
-acceptance_rate: 57.759%
-collected_at: 2026-04-17T19:50:02.753264+00:00
+acceptance_rate: "57.759%"
+collected_at: "2026-04-17T19:50:02.753264+00:00"
 ---
 
 ## 문제

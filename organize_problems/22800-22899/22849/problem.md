@@ -1,13 +1,13 @@
 ---
-title: 수식 알아맞히기 퀴즈 게임
-special_judge: false
-time_limit: 3 초
-memory_limit: 1024 MB
+title: "수식 알아맞히기 퀴즈 게임"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "1024 MB"
 submissions: 109
 accepted: 32
 solved_users: 21
-acceptance_rate: 30.435%
-collected_at: 2026-04-17T16:37:19.198033+00:00
+acceptance_rate: "30.435%"
+collected_at: "2026-04-17T16:37:19.198033+00:00"
 ---
 
 ## 문제

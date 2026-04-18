@@ -1,13 +1,13 @@
 ---
-title: Incomparable Pairs
-special_judge: false
-time_limit: 3 초
-memory_limit: 512 MB
+title: "Incomparable Pairs"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "512 MB"
 submissions: 38
 accepted: 9
 solved_users: 9
-acceptance_rate: 23.684%
-collected_at: 2026-04-17T15:06:17.419567+00:00
+acceptance_rate: "23.684%"
+collected_at: "2026-04-17T15:06:17.419567+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 팩토리얼 3
-special_judge: false
-time_limit: 4 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "팩토리얼 3"
+special_judge: "false"
+time_limit: "4 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 14725
 accepted: 5639
 solved_users: 5192
-acceptance_rate: 45.769%
-collected_at: 2026-04-17T18:02:53.753003+00:00
+acceptance_rate: "45.769%"
+collected_at: "2026-04-17T18:02:53.753003+00:00"
 ---
 
 ## 문제

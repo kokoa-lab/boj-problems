@@ -1,13 +1,13 @@
 ---
-title: Dairy Queen
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Dairy Queen"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 180
 accepted: 138
 solved_users: 116
-acceptance_rate: 80.000%
-collected_at: 2026-04-17T11:20:21.370858+00:00
+acceptance_rate: "80.000%"
+collected_at: "2026-04-17T11:20:21.370858+00:00"
 ---
 
 ## 문제

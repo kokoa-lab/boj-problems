@@ -1,13 +1,13 @@
 ---
-title: 가희야 거기서 자는 거 아니야
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "가희야 거기서 자는 거 아니야"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 1468
 accepted: 711
 solved_users: 601
-acceptance_rate: 50.675%
-collected_at: 2026-04-17T16:07:06.528792+00:00
+acceptance_rate: "50.675%"
+collected_at: "2026-04-17T16:07:06.528792+00:00"
 ---
 
 ## 문제

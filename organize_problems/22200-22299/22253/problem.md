@@ -1,13 +1,13 @@
 ---
-title: 트리 디자이너 호석
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "트리 디자이너 호석"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 478
 accepted: 230
 solved_users: 172
-acceptance_rate: 47.383%
-collected_at: 2026-04-17T16:17:54.211804+00:00
+acceptance_rate: "47.383%"
+collected_at: "2026-04-17T16:17:54.211804+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Double or NOTing
-special_judge: false
-time_limit: 10 초 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "Double or NOTing"
+special_judge: "false"
+time_limit: "10 초 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 19
 accepted: 7
 solved_users: 7
-acceptance_rate: 100.000%
-collected_at: 2026-04-17T16:38:17.301369+00:00
+acceptance_rate: "100.000%"
+collected_at: "2026-04-17T16:38:17.301369+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 총깡 총깡
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "총깡 총깡"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 1214
 accepted: 391
 solved_users: 297
-acceptance_rate: 31.296%
-collected_at: 2026-04-17T13:39:25.811273+00:00
+acceptance_rate: "31.296%"
+collected_at: "2026-04-17T13:39:25.811273+00:00"
 ---
 
 ## 문제

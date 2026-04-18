@@ -1,13 +1,13 @@
 ---
-title: Mex Culpa
-special_judge: false
-time_limit: 5 초
-memory_limit: 2048 MB
+title: "Mex Culpa"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "2048 MB"
 submissions: 131
 accepted: 32
 solved_users: 23
-acceptance_rate: 20.000%
-collected_at: 2026-04-17T20:50:56.411811+00:00
+acceptance_rate: "20.000%"
+collected_at: "2026-04-17T20:50:56.411811+00:00"
 ---
 
 ## 문제

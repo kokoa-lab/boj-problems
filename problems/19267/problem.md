@@ -1,13 +1,13 @@
 ---
-title: Kid's Nightmare
-special_judge: true
-time_limit: 3 초
-memory_limit: 1024 MB
+title: "Kid's Nightmare"
+special_judge: "true"
+time_limit: "3 초"
+memory_limit: "1024 MB"
 submissions: 20
 accepted: 3
 solved_users: 3
-acceptance_rate: 42.857%
-collected_at: 2026-04-17T15:16:03.006423+00:00
+acceptance_rate: "42.857%"
+collected_at: "2026-04-17T15:16:03.006423+00:00"
 ---
 
 ## 문제

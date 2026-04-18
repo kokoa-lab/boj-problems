@@ -1,13 +1,13 @@
 ---
-title: 화살표 미로 (Normal)
-special_judge: false
-time_limit: 3 초
-memory_limit: 512 MB
+title: "화살표 미로 (Normal)"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "512 MB"
 submissions: 668
 accepted: 216
 solved_users: 130
-acceptance_rate: 32.995%
-collected_at: 2026-04-17T15:36:10.297221+00:00
+acceptance_rate: "32.995%"
+collected_at: "2026-04-17T15:36:10.297221+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Treasure
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Treasure"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 112
 accepted: 95
 solved_users: 82
-acceptance_rate: 83.673%
-collected_at: 2026-04-17T17:48:05.999221+00:00
+acceptance_rate: "83.673%"
+collected_at: "2026-04-17T17:48:05.999221+00:00"
 ---
 
 ## 문제

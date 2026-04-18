@@ -1,13 +1,13 @@
 ---
-title: I hate SPAM, but some people love it
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "I hate SPAM, but some people love it"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 51
 accepted: 33
 solved_users: 29
-acceptance_rate: 70.732%
-collected_at: 2026-04-17T11:17:24.550794+00:00
+acceptance_rate: "70.732%"
+collected_at: "2026-04-17T11:17:24.550794+00:00"
 ---
 
 ## 문제

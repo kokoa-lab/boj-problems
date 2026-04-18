@@ -1,13 +1,13 @@
 ---
-title: N의 배수 (2)
-special_judge: true
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "N의 배수 (2)"
+special_judge: "true"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 644
 accepted: 262
 solved_users: 107
-acceptance_rate: 34.628%
-collected_at: 2026-04-17T15:09:42.836963+00:00
+acceptance_rate: "34.628%"
+collected_at: "2026-04-17T15:09:42.836963+00:00"
 ---
 
 ## 문제

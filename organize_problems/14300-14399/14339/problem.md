@@ -1,13 +1,13 @@
 ---
-title: Integeregex (Large)
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Integeregex (Large)"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 16
 accepted: 12
 solved_users: 10
-acceptance_rate: 76.923%
-collected_at: 2026-04-17T13:30:33.332161+00:00
+acceptance_rate: "76.923%"
+collected_at: "2026-04-17T13:30:33.332161+00:00"
 ---
 
 ## 문제

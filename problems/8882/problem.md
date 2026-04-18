@@ -1,13 +1,13 @@
 ---
-title: Low Power
-special_judge: false
-time_limit: 4 초
-memory_limit: 256 MB
+title: "Low Power"
+special_judge: "false"
+time_limit: "4 초"
+memory_limit: "256 MB"
 submissions: 197
 accepted: 66
 solved_users: 60
-acceptance_rate: 38.961%
-collected_at: 2026-04-17T12:04:28.963885+00:00
+acceptance_rate: "38.961%"
+collected_at: "2026-04-17T12:04:28.963885+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Золотые слитки
-special_judge: true
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Золотые слитки"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 97
 accepted: 67
 solved_users: 48
-acceptance_rate: 67.606%
-collected_at: 2026-04-17T15:28:34.148274+00:00
+acceptance_rate: "67.606%"
+collected_at: "2026-04-17T15:28:34.148274+00:00"
 ---
 
 ## 문제

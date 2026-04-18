@@ -1,13 +1,13 @@
 ---
-title: Arithmetic and Geometric Sums
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Arithmetic and Geometric Sums"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 742
 accepted: 458
 solved_users: 412
-acceptance_rate: 61.862%
-collected_at: 2026-04-17T12:08:46.986126+00:00
+acceptance_rate: "61.862%"
+collected_at: "2026-04-17T12:08:46.986126+00:00"
 ---
 
 ## 문제

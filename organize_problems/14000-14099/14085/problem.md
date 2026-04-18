@@ -1,13 +1,13 @@
 ---
-title: Dvaput
-special_judge: false
-time_limit: 6 초
-memory_limit: 128 MB
+title: "Dvaput"
+special_judge: "false"
+time_limit: "6 초"
+memory_limit: "128 MB"
 submissions: 5
 accepted: 3
 solved_users: 2
-acceptance_rate: 50.000%
-collected_at: 2026-04-17T13:25:28.868278+00:00
+acceptance_rate: "50.000%"
+collected_at: "2026-04-17T13:25:28.868278+00:00"
 ---
 
 ## 문제

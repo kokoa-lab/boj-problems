@@ -1,13 +1,13 @@
 ---
-title: Rust Study
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Rust Study"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 2902
 accepted: 2105
 solved_users: 1958
-acceptance_rate: 72.761%
-collected_at: 2026-04-17T18:57:42.909876+00:00
+acceptance_rate: "72.761%"
+collected_at: "2026-04-17T18:57:42.909876+00:00"
 ---
 
 ## 문제

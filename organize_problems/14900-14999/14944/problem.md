@@ -1,13 +1,13 @@
 ---
-title: 굿점원
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "굿점원"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 465
 accepted: 91
 solved_users: 50
-acceptance_rate: 17.606%
-collected_at: 2026-04-17T13:46:25.043071+00:00
+acceptance_rate: "17.606%"
+collected_at: "2026-04-17T13:46:25.043071+00:00"
 ---
 
 ## 문제

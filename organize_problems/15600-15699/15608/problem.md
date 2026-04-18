@@ -1,13 +1,13 @@
 ---
-title: Juggling Troupe
-special_judge: false
-time_limit: 3 초
-memory_limit: 512 MB
+title: "Juggling Troupe"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "512 MB"
 submissions: 67
 accepted: 34
 solved_users: 30
-acceptance_rate: 57.692%
-collected_at: 2026-04-17T14:02:30.514977+00:00
+acceptance_rate: "57.692%"
+collected_at: "2026-04-17T14:02:30.514977+00:00"
 ---
 
 ## 문제

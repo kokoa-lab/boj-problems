@@ -1,13 +1,13 @@
 ---
-title: Kisik
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Kisik"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 36
 accepted: 27
 solved_users: 24
-acceptance_rate: 72.727%
-collected_at: 2026-04-17T14:28:35.869166+00:00
+acceptance_rate: "72.727%"
+collected_at: "2026-04-17T14:28:35.869166+00:00"
 ---
 
 ## 문제

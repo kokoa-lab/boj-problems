@@ -1,13 +1,13 @@
 ---
-title: 지우개
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "지우개"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 681
 accepted: 248
 solved_users: 178
-acceptance_rate: 38.865%
-collected_at: 2026-04-17T12:47:19.691368+00:00
+acceptance_rate: "38.865%"
+collected_at: "2026-04-17T12:47:19.691368+00:00"
 ---
 
 ## 문제

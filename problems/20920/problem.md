@@ -1,13 +1,13 @@
 ---
-title: 영단어 암기는 괴로워
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "영단어 암기는 괴로워"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 37380
 accepted: 17629
 solved_users: 14071
-acceptance_rate: 46.587%
-collected_at: 2026-04-17T15:43:19.775669+00:00
+acceptance_rate: "46.587%"
+collected_at: "2026-04-17T15:43:19.775669+00:00"
 ---
 
 ## 문제

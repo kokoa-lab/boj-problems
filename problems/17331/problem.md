@@ -1,13 +1,13 @@
 ---
-title: Modified Treap
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Modified Treap"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 13
 accepted: 7
 solved_users: 6
-acceptance_rate: 60.000%
-collected_at: 2026-04-17T14:37:11.122078+00:00
+acceptance_rate: "60.000%"
+collected_at: "2026-04-17T14:37:11.122078+00:00"
 ---
 
 ## 문제

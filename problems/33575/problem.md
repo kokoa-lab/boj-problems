@@ -1,13 +1,13 @@
 ---
-title: 시간표
-special_judge: false
-time_limit: 1.5 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "시간표"
+special_judge: "false"
+time_limit: "1.5 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 550
 accepted: 230
 solved_users: 190
-acceptance_rate: 43.578%
-collected_at: 2026-04-17T20:19:19.442524+00:00
+acceptance_rate: "43.578%"
+collected_at: "2026-04-17T20:19:19.442524+00:00"
 ---
 
 ## 문제

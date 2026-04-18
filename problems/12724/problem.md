@@ -1,13 +1,13 @@
 ---
-title: Minimum Scalar Product (Large)
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Minimum Scalar Product (Large)"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 528
 accepted: 293
 solved_users: 266
-acceptance_rate: 56.356%
-collected_at: 2026-04-17T13:00:19.248571+00:00
+acceptance_rate: "56.356%"
+collected_at: "2026-04-17T13:00:19.248571+00:00"
 ---
 
 ## 문제

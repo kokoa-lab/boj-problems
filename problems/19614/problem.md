@@ -1,13 +1,13 @@
 ---
-title: Travelling Salesperson
-special_judge: false
-time_limit: 7 초
-memory_limit: 512 MB
+title: "Travelling Salesperson"
+special_judge: "false"
+time_limit: "7 초"
+memory_limit: "512 MB"
 submissions: 76
 accepted: 43
 solved_users: 35
-acceptance_rate: 56.452%
-collected_at: 2026-04-17T15:25:04.762083+00:00
+acceptance_rate: "56.452%"
+collected_at: "2026-04-17T15:25:04.762083+00:00"
 ---
 
 ## 문제

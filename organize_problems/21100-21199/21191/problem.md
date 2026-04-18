@@ -1,13 +1,13 @@
 ---
-title: This Ain't Your Grandpa's Checkerboard
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "This Ain't Your Grandpa's Checkerboard"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 184
 accepted: 158
 solved_users: 139
-acceptance_rate: 87.421%
-collected_at: 2026-04-17T15:50:04.907911+00:00
+acceptance_rate: "87.421%"
+collected_at: "2026-04-17T15:50:04.907911+00:00"
 ---
 
 ## 문제

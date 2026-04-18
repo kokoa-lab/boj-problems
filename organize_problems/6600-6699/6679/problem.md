@@ -1,13 +1,13 @@
 ---
-title: 싱기한 네자리 숫자
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "싱기한 네자리 숫자"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 5377
 accepted: 3785
 solved_users: 3182
-acceptance_rate: 73.284%
-collected_at: 2026-04-17T11:32:46.416730+00:00
+acceptance_rate: "73.284%"
+collected_at: "2026-04-17T11:32:46.416730+00:00"
 ---
 
 ## 문제

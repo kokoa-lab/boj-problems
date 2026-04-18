@@ -1,13 +1,13 @@
 ---
-title: Keeping Cool
-special_judge: true
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Keeping Cool"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 185
 accepted: 19
 solved_users: 19
-acceptance_rate: 18.269%
-collected_at: 2026-04-17T13:52:40.039633+00:00
+acceptance_rate: "18.269%"
+collected_at: "2026-04-17T13:52:40.039633+00:00"
 ---
 
 ## 문제

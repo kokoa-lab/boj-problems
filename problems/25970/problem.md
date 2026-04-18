@@ -1,13 +1,13 @@
 ---
-title: 현대 모비스 에어 서스펜션
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "현대 모비스 에어 서스펜션"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 391
 accepted: 195
 solved_users: 154
-acceptance_rate: 53.659%
-collected_at: 2026-04-17T17:37:51.793705+00:00
+acceptance_rate: "53.659%"
+collected_at: "2026-04-17T17:37:51.793705+00:00"
 ---
 
 ## 문제

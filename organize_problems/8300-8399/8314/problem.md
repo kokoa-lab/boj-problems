@@ -1,13 +1,13 @@
 ---
-title: Acyclic Decomposition
-special_judge: true
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Acyclic Decomposition"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 293
 accepted: 87
 solved_users: 72
-acceptance_rate: 28.458%
-collected_at: 2026-04-17T11:58:21.408455+00:00
+acceptance_rate: "28.458%"
+collected_at: "2026-04-17T11:58:21.408455+00:00"
 ---
 
 ## 문제

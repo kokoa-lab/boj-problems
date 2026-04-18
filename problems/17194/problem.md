@@ -1,13 +1,13 @@
 ---
-title: Balancing Inversions
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Balancing Inversions"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 165
 accepted: 65
 solved_users: 59
-acceptance_rate: 40.690%
-collected_at: 2026-04-17T14:32:34.495795+00:00
+acceptance_rate: "40.690%"
+collected_at: "2026-04-17T14:32:34.495795+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Lying From You
-special_judge: true
-time_limit: 10 초
-memory_limit: 512 MB
+title: "Lying From You"
+special_judge: "true"
+time_limit: "10 초"
+memory_limit: "512 MB"
 submissions: 19
 accepted: 5
 solved_users: 5
-acceptance_rate: 31.250%
-collected_at: 2026-04-17T15:13:12.590906+00:00
+acceptance_rate: "31.250%"
+collected_at: "2026-04-17T15:13:12.590906+00:00"
 ---
 
 ## 문제

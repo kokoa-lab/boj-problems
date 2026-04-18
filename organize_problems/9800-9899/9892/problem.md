@@ -1,13 +1,13 @@
 ---
-title: Width
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Width"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 53
 accepted: 29
 solved_users: 20
-acceptance_rate: 46.512%
-collected_at: 2026-04-17T12:16:14.024096+00:00
+acceptance_rate: "46.512%"
+collected_at: "2026-04-17T12:16:14.024096+00:00"
 ---
 
 ## 문제

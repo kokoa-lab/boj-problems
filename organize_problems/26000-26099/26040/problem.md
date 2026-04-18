@@ -1,13 +1,13 @@
 ---
-title: 특정 대문자를 소문자로 바꾸기
-special_judge: false
-time_limit: 0.1 초
-memory_limit: 512 MB
+title: "특정 대문자를 소문자로 바꾸기"
+special_judge: "false"
+time_limit: "0.1 초"
+memory_limit: "512 MB"
 submissions: 1690
 accepted: 1199
 solved_users: 1049
-acceptance_rate: 71.167%
-collected_at: 2026-04-17T17:39:14.131877+00:00
+acceptance_rate: "71.167%"
+collected_at: "2026-04-17T17:39:14.131877+00:00"
 ---
 
 ## 문제

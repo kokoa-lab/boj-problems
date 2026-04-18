@@ -1,13 +1,13 @@
 ---
-title: 파이파이
-special_judge: false
-time_limit: 3.141 초 (추가 시간 없음)
-memory_limit: 592 MB (추가 메모리 없음)
+title: "파이파이"
+special_judge: "false"
+time_limit: "3.141 초 (추가 시간 없음)"
+memory_limit: "592 MB (추가 메모리 없음)"
 submissions: 237
 accepted: 117
 solved_users: 52
-acceptance_rate: 38.519%
-collected_at: 2026-04-17T18:13:32.128852+00:00
+acceptance_rate: "38.519%"
+collected_at: "2026-04-17T18:13:32.128852+00:00"
 ---
 
 ## 문제

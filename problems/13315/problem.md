@@ -1,13 +1,13 @@
 ---
-title: 실수 써도 풀려요?
-special_judge: true
-time_limit: 2 초
-memory_limit: 512 MB
+title: "실수 써도 풀려요?"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 405
 accepted: 102
 solved_users: 75
-acceptance_rate: 32.895%
-collected_at: 2026-04-17T13:11:23.214446+00:00
+acceptance_rate: "32.895%"
+collected_at: "2026-04-17T13:11:23.214446+00:00"
 ---
 
 ## 문제

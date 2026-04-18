@@ -1,13 +1,13 @@
 ---
-title: 나머지와 몫이 같은 수
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "나머지와 몫이 같은 수"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 15153
 accepted: 8058
 solved_users: 6884
-acceptance_rate: 54.631%
-collected_at: 2026-04-17T10:34:29.081174+00:00
+acceptance_rate: "54.631%"
+collected_at: "2026-04-17T10:34:29.081174+00:00"
 ---
 
 ## 문제

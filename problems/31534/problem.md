@@ -1,13 +1,13 @@
 ---
-title: 현대모비스 선풍기 굴리기
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "현대모비스 선풍기 굴리기"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 869
 accepted: 364
 solved_users: 325
-acceptance_rate: 44.643%
-collected_at: 2026-04-17T19:29:55.260017+00:00
+acceptance_rate: "44.643%"
+collected_at: "2026-04-17T19:29:55.260017+00:00"
 ---
 
 ## 문제

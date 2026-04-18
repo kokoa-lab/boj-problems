@@ -1,13 +1,13 @@
 ---
-title: 눈 치우기
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "눈 치우기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 4655
 accepted: 1864
 solved_users: 1556
-acceptance_rate: 42.179%
-collected_at: 2026-04-17T17:42:02.091478+00:00
+acceptance_rate: "42.179%"
+collected_at: "2026-04-17T17:42:02.091478+00:00"
 ---
 
 ## 문제

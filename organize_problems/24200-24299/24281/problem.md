@@ -1,13 +1,13 @@
 ---
-title: Music Festival
-special_judge: true
-time_limit: 2.5 초
-memory_limit: 1024 MB
+title: "Music Festival"
+special_judge: "true"
+time_limit: "2.5 초"
+memory_limit: "1024 MB"
 submissions: 118
 accepted: 1
 solved_users: 1
-acceptance_rate: 11.111%
-collected_at: 2026-04-17T17:06:58.749542+00:00
+acceptance_rate: "11.111%"
+collected_at: "2026-04-17T17:06:58.749542+00:00"
 ---
 
 ## 문제

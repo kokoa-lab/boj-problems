@@ -1,13 +1,13 @@
 ---
-title: Cow Frisbee Team
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Cow Frisbee Team"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 115
 accepted: 49
 solved_users: 40
-acceptance_rate: 42.553%
-collected_at: 2026-04-17T11:20:12.702844+00:00
+acceptance_rate: "42.553%"
+collected_at: "2026-04-17T11:20:12.702844+00:00"
 ---
 
 ## 문제

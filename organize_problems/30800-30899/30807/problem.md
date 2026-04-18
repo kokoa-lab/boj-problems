@@ -1,13 +1,13 @@
 ---
-title: TSM
-special_judge: true
-time_limit: 8 초
-memory_limit: 1024 MB
+title: "TSM"
+special_judge: "true"
+time_limit: "8 초"
+memory_limit: "1024 MB"
 submissions: 373
 accepted: 103
 solved_users: 89
-acceptance_rate: 30.690%
-collected_at: 2026-04-17T19:16:01.651137+00:00
+acceptance_rate: "30.690%"
+collected_at: "2026-04-17T19:16:01.651137+00:00"
 ---
 
 ## 문제

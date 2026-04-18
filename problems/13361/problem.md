@@ -1,13 +1,13 @@
 ---
-title: 최고인 대장장이 토르비욘
-special_judge: false
-time_limit: 7 초
-memory_limit: 512 MB
+title: "최고인 대장장이 토르비욘"
+special_judge: "false"
+time_limit: "7 초"
+memory_limit: "512 MB"
 submissions: 1269
 accepted: 536
 solved_users: 432
-acceptance_rate: 40.487%
-collected_at: 2026-04-17T13:12:02.389528+00:00
+acceptance_rate: "40.487%"
+collected_at: "2026-04-17T13:12:02.389528+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 리모컨
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "리모컨"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 127150
 accepted: 32556
 solved_users: 23021
-acceptance_rate: 23.990%
-collected_at: 2026-04-17T10:28:15.996023+00:00
+acceptance_rate: "23.990%"
+collected_at: "2026-04-17T10:28:15.996023+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: nule
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "nule"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 130
 accepted: 56
 solved_users: 49
-acceptance_rate: 44.545%
-collected_at: 2026-04-17T10:47:16.632913+00:00
+acceptance_rate: "44.545%"
+collected_at: "2026-04-17T10:47:16.632913+00:00"
 ---
 
 ## 문제

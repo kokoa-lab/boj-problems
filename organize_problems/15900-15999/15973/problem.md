@@ -1,13 +1,13 @@
 ---
-title: 두 박스
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "두 박스"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 8080
 accepted: 2592
 solved_users: 1910
-acceptance_rate: 34.174%
-collected_at: 2026-04-17T14:09:20.127970+00:00
+acceptance_rate: "34.174%"
+collected_at: "2026-04-17T14:09:20.127970+00:00"
 ---
 
 ## 문제

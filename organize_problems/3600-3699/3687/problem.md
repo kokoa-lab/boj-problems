@@ -1,13 +1,13 @@
 ---
-title: 성냥개비
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "성냥개비"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 10368
 accepted: 3709
 solved_users: 2695
-acceptance_rate: 34.379%
-collected_at: 2026-04-17T10:50:56.243694+00:00
+acceptance_rate: "34.379%"
+collected_at: "2026-04-17T10:50:56.243694+00:00"
 ---
 
 ## 문제

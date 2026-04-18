@@ -1,13 +1,13 @@
 ---
-title: Ropes
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Ropes"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 60
 accepted: 52
 solved_users: 49
-acceptance_rate: 94.231%
-collected_at: 2026-04-17T11:08:55.558515+00:00
+acceptance_rate: "94.231%"
+collected_at: "2026-04-17T11:08:55.558515+00:00"
 ---
 
 ## 문제

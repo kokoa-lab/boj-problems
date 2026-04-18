@@ -1,13 +1,13 @@
 ---
-title: 크래머의 공식
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "크래머의 공식"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 1172
 accepted: 277
 solved_users: 221
-acceptance_rate: 23.411%
-collected_at: 2026-04-17T11:50:41.627939+00:00
+acceptance_rate: "23.411%"
+collected_at: "2026-04-17T11:50:41.627939+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 팰린드롬 개수 구하기 (Small)
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "팰린드롬 개수 구하기 (Small)"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 2246
 accepted: 757
 solved_users: 661
-acceptance_rate: 40.677%
-collected_at: 2026-04-17T13:36:39.815812+00:00
+acceptance_rate: "40.677%"
+collected_at: "2026-04-17T13:36:39.815812+00:00"
 ---
 
 ## 문제

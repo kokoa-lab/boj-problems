@@ -1,13 +1,13 @@
 ---
-title: 먼 별
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "먼 별"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 3409
 accepted: 905
 solved_users: 548
-acceptance_rate: 22.729%
-collected_at: 2026-04-17T13:11:20.502267+00:00
+acceptance_rate: "22.729%"
+collected_at: "2026-04-17T13:11:20.502267+00:00"
 ---
 
 ## 문제

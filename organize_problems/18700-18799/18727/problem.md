@@ -1,13 +1,13 @@
 ---
-title: Space Gophers
-special_judge: false
-time_limit: 20 초
-memory_limit: 512 MB
+title: "Space Gophers"
+special_judge: "false"
+time_limit: "20 초"
+memory_limit: "512 MB"
 submissions: 36
 accepted: 15
 solved_users: 11
-acceptance_rate: 37.931%
-collected_at: 2026-04-17T15:08:54.567463+00:00
+acceptance_rate: "37.931%"
+collected_at: "2026-04-17T15:08:54.567463+00:00"
 ---
 
 ## 문제

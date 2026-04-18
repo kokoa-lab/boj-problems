@@ -1,13 +1,13 @@
 ---
-title: 트리 인코딩
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "트리 인코딩"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 148
 accepted: 59
 solved_users: 46
-acceptance_rate: 42.593%
-collected_at: 2026-04-17T10:31:19.372551+00:00
+acceptance_rate: "42.593%"
+collected_at: "2026-04-17T10:31:19.372551+00:00"
 ---
 
 ## 문제

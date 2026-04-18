@@ -1,13 +1,13 @@
 ---
-title: 가구 공장
-special_judge: true
-time_limit: 2 초
-memory_limit: 128 MB
+title: "가구 공장"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 437
 accepted: 96
 solved_users: 66
-acceptance_rate: 19.585%
-collected_at: 2026-04-17T12:04:43.944003+00:00
+acceptance_rate: "19.585%"
+collected_at: "2026-04-17T12:04:43.944003+00:00"
 ---
 
 ## 문제

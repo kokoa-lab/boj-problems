@@ -1,13 +1,13 @@
 ---
-title: 상범 마법 팬케이크 하우스
-special_judge: true
-time_limit: 1 초
-memory_limit: 128 MB
+title: "상범 마법 팬케이크 하우스"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 136
 accepted: 71
 solved_users: 61
-acceptance_rate: 52.137%
-collected_at: 2026-04-17T10:44:12.118198+00:00
+acceptance_rate: "52.137%"
+collected_at: "2026-04-17T10:44:12.118198+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: GC-비율
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "GC-비율"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 677
 accepted: 71
 solved_users: 47
-acceptance_rate: 10.398%
-collected_at: 2026-04-17T12:05:02.498774+00:00
+acceptance_rate: "10.398%"
+collected_at: "2026-04-17T12:05:02.498774+00:00"
 ---
 
 ## 문제

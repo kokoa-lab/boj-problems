@@ -1,13 +1,13 @@
 ---
-title: Castle
-special_judge: false
-time_limit: 0.5 초
-memory_limit: 256 MB
+title: "Castle"
+special_judge: "false"
+time_limit: "0.5 초"
+memory_limit: "256 MB"
 submissions: 150
 accepted: 33
 solved_users: 29
-acceptance_rate: 21.642%
-collected_at: 2026-04-17T13:20:54.110198+00:00
+acceptance_rate: "21.642%"
+collected_at: "2026-04-17T13:20:54.110198+00:00"
 ---
 
 ## 문제

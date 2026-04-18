@@ -1,13 +1,13 @@
 ---
-title: A-머신
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "A-머신"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 114
 accepted: 60
 solved_users: 59
-acceptance_rate: 53.636%
-collected_at: 2026-04-17T20:52:57.501500+00:00
+acceptance_rate: "53.636%"
+collected_at: "2026-04-17T20:52:57.501500+00:00"
 ---
 
 ## 문제

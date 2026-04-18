@@ -1,13 +1,13 @@
 ---
-title: Insects
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Insects"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 15
 accepted: 4
 solved_users: 2
-acceptance_rate: 18.182%
-collected_at: 2026-04-17T15:47:02.014081+00:00
+acceptance_rate: "18.182%"
+collected_at: "2026-04-17T15:47:02.014081+00:00"
 ---
 
 ## 문제

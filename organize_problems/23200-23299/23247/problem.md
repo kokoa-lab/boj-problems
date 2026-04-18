@@ -1,13 +1,13 @@
 ---
-title: Ten
-special_judge: false
-time_limit: 0.5 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Ten"
+special_judge: "false"
+time_limit: "0.5 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 998
 accepted: 487
 solved_users: 412
-acceptance_rate: 51.436%
-collected_at: 2026-04-17T16:44:57.093704+00:00
+acceptance_rate: "51.436%"
+collected_at: "2026-04-17T16:44:57.093704+00:00"
 ---
 
 ## 문제

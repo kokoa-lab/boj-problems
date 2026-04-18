@@ -1,13 +1,13 @@
 ---
-title: 제비
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "제비"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 366
 accepted: 283
 solved_users: 209
-acceptance_rate: 77.985%
-collected_at: 2026-04-17T13:08:47.120323+00:00
+acceptance_rate: "77.985%"
+collected_at: "2026-04-17T13:08:47.120323+00:00"
 ---
 
 ## 문제

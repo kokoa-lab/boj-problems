@@ -1,13 +1,13 @@
 ---
-title: 흑왕과 어둠의 게임 대진표
-special_judge: false
-time_limit: 6 초
-memory_limit: 1024 MB
+title: "흑왕과 어둠의 게임 대진표"
+special_judge: "false"
+time_limit: "6 초"
+memory_limit: "1024 MB"
 submissions: 111
 accepted: 19
 solved_users: 16
-acceptance_rate: 15.094%
-collected_at: 2026-04-17T16:37:23.047036+00:00
+acceptance_rate: "15.094%"
+collected_at: "2026-04-17T16:37:23.047036+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 걷다보니 신천역 삼 (Large)
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "걷다보니 신천역 삼 (Large)"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 2637
 accepted: 1315
 solved_users: 1117
-acceptance_rate: 49.955%
-collected_at: 2026-04-17T13:39:54.585013+00:00
+acceptance_rate: "49.955%"
+collected_at: "2026-04-17T13:39:54.585013+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 조커 찾기 2
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "조커 찾기 2"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 399
 accepted: 202
 solved_users: 182
-acceptance_rate: 53.372%
-collected_at: 2026-04-17T19:44:52.186306+00:00
+acceptance_rate: "53.372%"
+collected_at: "2026-04-17T19:44:52.186306+00:00"
 ---
 
 ## 문제

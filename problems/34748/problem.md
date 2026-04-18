@@ -1,13 +1,13 @@
 ---
-title: K Network Stations
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "K Network Stations"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 27
 accepted: 13
 solved_users: 11
-acceptance_rate: 44.000%
-collected_at: 2026-04-17T20:47:51.750991+00:00
+acceptance_rate: "44.000%"
+collected_at: "2026-04-17T20:47:51.750991+00:00"
 ---
 
 ## 문제

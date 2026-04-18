@@ -1,13 +1,13 @@
 ---
-title: Adding Commas
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Adding Commas"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 1272
 accepted: 912
 solved_users: 846
-acceptance_rate: 72.618%
-collected_at: 2026-04-17T11:18:46.894115+00:00
+acceptance_rate: "72.618%"
+collected_at: "2026-04-17T11:18:46.894115+00:00"
 ---
 
 ## 문제

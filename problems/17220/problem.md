@@ -1,13 +1,13 @@
 ---
-title: 마약수사대
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "마약수사대"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 1673
 accepted: 549
 solved_users: 429
-acceptance_rate: 31.872%
-collected_at: 2026-04-17T14:33:37.282487+00:00
+acceptance_rate: "31.872%"
+collected_at: "2026-04-17T14:33:37.282487+00:00"
 ---
 
 ## 문제

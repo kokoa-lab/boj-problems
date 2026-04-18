@@ -1,13 +1,13 @@
 ---
-title: Bitcoin Bubble
-special_judge: false
-time_limit: 2 초
-memory_limit: 2048 MB
+title: "Bitcoin Bubble"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "2048 MB"
 submissions: 33
 accepted: 20
 solved_users: 18
-acceptance_rate: 60.000%
-collected_at: 2026-04-17T20:11:54.148548+00:00
+acceptance_rate: "60.000%"
+collected_at: "2026-04-17T20:11:54.148548+00:00"
 ---
 
 ## 문제

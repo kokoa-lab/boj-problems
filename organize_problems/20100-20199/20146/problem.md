@@ -1,13 +1,13 @@
 ---
-title: Vista 9
-special_judge: false
-time_limit: 0.1 초
-memory_limit: 128 MB
+title: "Vista 9"
+special_judge: "false"
+time_limit: "0.1 초"
+memory_limit: "128 MB"
 submissions: 22
 accepted: 6
 solved_users: 6
-acceptance_rate: 37.500%
-collected_at: 2026-04-17T15:32:13.945613+00:00
+acceptance_rate: "37.500%"
+collected_at: "2026-04-17T15:32:13.945613+00:00"
 ---
 
 ## 문제

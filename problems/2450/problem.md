@@ -1,13 +1,13 @@
 ---
-title: 모양 정돈
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "모양 정돈"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 1736
 accepted: 790
 solved_users: 631
-acceptance_rate: 46.058%
-collected_at: 2026-04-17T10:41:43.343211+00:00
+acceptance_rate: "46.058%"
+collected_at: "2026-04-17T10:41:43.343211+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Антенна
-special_judge: true
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Антенна"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 6
 accepted: 1
 solved_users: 1
-acceptance_rate: 16.667%
-collected_at: 2026-04-17T17:16:27.662000+00:00
+acceptance_rate: "16.667%"
+collected_at: "2026-04-17T17:16:27.662000+00:00"
 ---
 
 ## 문제

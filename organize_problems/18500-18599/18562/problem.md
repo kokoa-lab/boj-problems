@@ -1,13 +1,13 @@
 ---
-title: Fireflies
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Fireflies"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 21
 accepted: 11
 solved_users: 10
-acceptance_rate: 55.556%
-collected_at: 2026-04-17T15:06:36.356033+00:00
+acceptance_rate: "55.556%"
+collected_at: "2026-04-17T15:06:36.356033+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Conway
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Conway"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 30
 accepted: 4
 solved_users: 2
-acceptance_rate: 10.526%
-collected_at: 2026-04-17T15:14:12.066283+00:00
+acceptance_rate: "10.526%"
+collected_at: "2026-04-17T15:14:12.066283+00:00"
 ---
 
 ## 문제

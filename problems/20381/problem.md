@@ -1,13 +1,13 @@
 ---
-title: The Set's the Thing
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "The Set's the Thing"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 68
 accepted: 27
 solved_users: 23
-acceptance_rate: 56.098%
-collected_at: 2026-04-17T15:35:46.467252+00:00
+acceptance_rate: "56.098%"
+collected_at: "2026-04-17T15:35:46.467252+00:00"
 ---
 
 ## 문제

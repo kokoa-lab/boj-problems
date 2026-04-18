@@ -1,13 +1,13 @@
 ---
-title: 교환
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "교환"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 72
 accepted: 13
 solved_users: 8
-acceptance_rate: 18.605%
-collected_at: 2026-04-17T12:35:15.677147+00:00
+acceptance_rate: "18.605%"
+collected_at: "2026-04-17T12:35:15.677147+00:00"
 ---
 
 ## 문제

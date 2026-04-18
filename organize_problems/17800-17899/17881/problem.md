@@ -1,13 +1,13 @@
 ---
-title: The Biggest Triangle
-special_judge: true
-time_limit: 3 초
-memory_limit: 512 MB
+title: "The Biggest Triangle"
+special_judge: "true"
+time_limit: "3 초"
+memory_limit: "512 MB"
 submissions: 157
 accepted: 59
 solved_users: 49
-acceptance_rate: 38.281%
-collected_at: 2026-04-17T14:49:04.405720+00:00
+acceptance_rate: "38.281%"
+collected_at: "2026-04-17T14:49:04.405720+00:00"
 ---
 
 ## 문제

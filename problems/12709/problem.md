@@ -1,13 +1,13 @@
 ---
-title: PermRLE (Small)
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "PermRLE (Small)"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 66
 accepted: 56
 solved_users: 42
-acceptance_rate: 87.500%
-collected_at: 2026-04-17T13:00:04.939656+00:00
+acceptance_rate: "87.500%"
+collected_at: "2026-04-17T13:00:04.939656+00:00"
 ---
 
 ## 문제

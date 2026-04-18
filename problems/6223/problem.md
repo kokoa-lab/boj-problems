@@ -1,13 +1,13 @@
 ---
-title: Cow Sorting
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Cow Sorting"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 420
 accepted: 280
 solved_users: 264
-acceptance_rate: 69.657%
-collected_at: 2026-04-17T11:23:12.947371+00:00
+acceptance_rate: "69.657%"
+collected_at: "2026-04-17T11:23:12.947371+00:00"
 ---
 
 ## 문제

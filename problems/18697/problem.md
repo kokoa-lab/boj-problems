@@ -1,13 +1,13 @@
 ---
-title: This Means War
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "This Means War"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 21
 accepted: 1
 solved_users: 1
-acceptance_rate: 20.000%
-collected_at: 2026-04-17T15:08:32.027905+00:00
+acceptance_rate: "20.000%"
+collected_at: "2026-04-17T15:08:32.027905+00:00"
 ---
 
 ## 문제

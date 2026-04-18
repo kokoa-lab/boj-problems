@@ -1,13 +1,13 @@
 ---
-title: A를 B로
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "A를 B로"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 1144
 accepted: 508
 solved_users: 433
-acceptance_rate: 46.310%
-collected_at: 2026-04-17T13:05:59.951175+00:00
+acceptance_rate: "46.310%"
+collected_at: "2026-04-17T13:05:59.951175+00:00"
 ---
 
 ## 문제

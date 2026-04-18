@@ -1,13 +1,13 @@
 ---
-title: Event Hopping
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Event Hopping"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 266
 accepted: 64
 solved_users: 49
-acceptance_rate: 23.333%
-collected_at: 2026-04-17T17:23:30.217055+00:00
+acceptance_rate: "23.333%"
+collected_at: "2026-04-17T17:23:30.217055+00:00"
 ---
 
 ## 문제

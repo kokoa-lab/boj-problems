@@ -1,13 +1,13 @@
 ---
-title: Pro-Test Voting
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Pro-Test Voting"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 29
 accepted: 17
 solved_users: 4
-acceptance_rate: 40.000%
-collected_at: 2026-04-17T10:55:04.461114+00:00
+acceptance_rate: "40.000%"
+collected_at: "2026-04-17T10:55:04.461114+00:00"
 ---
 
 ## 문제

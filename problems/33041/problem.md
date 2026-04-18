@@ -1,13 +1,13 @@
 ---
-title: 마작 거신병 9
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "마작 거신병 9"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 440
 accepted: 124
 solved_users: 121
-acceptance_rate: 35.277%
-collected_at: 2026-04-17T20:08:05.844302+00:00
+acceptance_rate: "35.277%"
+collected_at: "2026-04-17T20:08:05.844302+00:00"
 ---
 
 ## 문제

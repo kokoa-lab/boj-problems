@@ -1,13 +1,13 @@
 ---
-title: How Many Unicycles in a Wheel?
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "How Many Unicycles in a Wheel?"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 23
 accepted: 21
 solved_users: 18
-acceptance_rate: 90.000%
-collected_at: 2026-04-17T14:48:56.055826+00:00
+acceptance_rate: "90.000%"
+collected_at: "2026-04-17T14:48:56.055826+00:00"
 ---
 
 ## 문제

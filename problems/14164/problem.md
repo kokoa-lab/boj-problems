@@ -1,13 +1,13 @@
 ---
-title: 삼각형 영역
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "삼각형 영역"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 393
 accepted: 172
 solved_users: 134
-acceptance_rate: 43.226%
-collected_at: 2026-04-17T13:27:08.056638+00:00
+acceptance_rate: "43.226%"
+collected_at: "2026-04-17T13:27:08.056638+00:00"
 ---
 
 ## 문제

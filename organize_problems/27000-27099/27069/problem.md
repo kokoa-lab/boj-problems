@@ -1,13 +1,13 @@
 ---
-title: 리그전
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "리그전"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 136
 accepted: 73
 solved_users: 57
-acceptance_rate: 54.808%
-collected_at: 2026-04-17T17:55:51.316842+00:00
+acceptance_rate: "54.808%"
+collected_at: "2026-04-17T17:55:51.316842+00:00"
 ---
 
 ## 문제

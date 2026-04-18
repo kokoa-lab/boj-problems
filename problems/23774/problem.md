@@ -1,13 +1,13 @@
 ---
-title: Heating Up
-special_judge: false
-time_limit: 3 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Heating Up"
+special_judge: "false"
+time_limit: "3 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 122
 accepted: 72
 solved_users: 54
-acceptance_rate: 57.447%
-collected_at: 2026-04-17T16:53:31.750479+00:00
+acceptance_rate: "57.447%"
+collected_at: "2026-04-17T16:53:31.750479+00:00"
 ---
 
 ## 문제

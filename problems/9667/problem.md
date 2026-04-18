@@ -1,13 +1,13 @@
 ---
-title: GUMA
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "GUMA"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 98
 accepted: 44
 solved_users: 36
-acceptance_rate: 52.941%
-collected_at: 2026-04-17T12:12:42.390571+00:00
+acceptance_rate: "52.941%"
+collected_at: "2026-04-17T12:12:42.390571+00:00"
 ---
 
 ## 문제

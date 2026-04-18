@@ -1,13 +1,13 @@
 ---
-title: Galaxy Quest
-special_judge: true
-time_limit: 5 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Galaxy Quest"
+special_judge: "true"
+time_limit: "5 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 78
 accepted: 50
 solved_users: 47
-acceptance_rate: 63.514%
-collected_at: 2026-04-17T19:17:48.203752+00:00
+acceptance_rate: "63.514%"
+collected_at: "2026-04-17T19:17:48.203752+00:00"
 ---
 
 ## 문제

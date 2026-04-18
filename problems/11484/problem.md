@@ -1,13 +1,13 @@
 ---
-title: Rainfall
-special_judge: true
-time_limit: 5 초
-memory_limit: 256 MB
+title: "Rainfall"
+special_judge: "true"
+time_limit: "5 초"
+memory_limit: "256 MB"
 submissions: 9
 accepted: 5
 solved_users: 5
-acceptance_rate: 83.333%
-collected_at: 2026-04-17T12:41:19.755913+00:00
+acceptance_rate: "83.333%"
+collected_at: "2026-04-17T12:41:19.755913+00:00"
 ---
 
 ## 문제

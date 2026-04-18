@@ -1,13 +1,13 @@
 ---
-title: Manhattan 2025
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Manhattan 2025"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 51
 accepted: 29
 solved_users: 22
-acceptance_rate: 52.381%
-collected_at: 2026-04-17T11:50:35.465073+00:00
+acceptance_rate: "52.381%"
+collected_at: "2026-04-17T11:50:35.465073+00:00"
 ---
 
 ## 문제

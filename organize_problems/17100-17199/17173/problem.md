@@ -1,13 +1,13 @@
 ---
-title: 배수들의 합
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "배수들의 합"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 3295
 accepted: 2558
 solved_users: 2343
-acceptance_rate: 80.322%
-collected_at: 2026-04-17T14:31:52.257556+00:00
+acceptance_rate: "80.322%"
+collected_at: "2026-04-17T14:31:52.257556+00:00"
 ---
 
 ## 문제

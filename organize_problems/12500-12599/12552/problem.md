@@ -1,13 +1,13 @@
 ---
-title: Ninjutsu (Large)
-special_judge: false
-time_limit: 60 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "Ninjutsu (Large)"
+special_judge: "false"
+time_limit: "60 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 1
 accepted: 0
 solved_users: 0
-acceptance_rate: 0.000%
-collected_at: 2026-04-17T12:57:21.905578+00:00
+acceptance_rate: "0.000%"
+collected_at: "2026-04-17T12:57:21.905578+00:00"
 ---
 
 ## 문제

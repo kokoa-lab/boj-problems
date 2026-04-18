@@ -1,13 +1,13 @@
 ---
-title: 원영이는 ZOAC과 영원하고 싶다
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "원영이는 ZOAC과 영원하고 싶다"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 477
 accepted: 236
 solved_users: 187
-acceptance_rate: 57.716%
-collected_at: 2026-04-17T14:23:02.880378+00:00
+acceptance_rate: "57.716%"
+collected_at: "2026-04-17T14:23:02.880378+00:00"
 ---
 
 ## 문제

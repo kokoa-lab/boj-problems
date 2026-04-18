@@ -1,13 +1,13 @@
 ---
-title: Flop Sorting
-special_judge: true
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Flop Sorting"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 54
 accepted: 17
 solved_users: 13
-acceptance_rate: 27.083%
-collected_at: 2026-04-17T15:25:38.316192+00:00
+acceptance_rate: "27.083%"
+collected_at: "2026-04-17T15:25:38.316192+00:00"
 ---
 
 ## 문제

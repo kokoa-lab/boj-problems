@@ -1,13 +1,13 @@
 ---
-title: Blocked Billboard
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Blocked Billboard"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 1806
 accepted: 1031
 solved_users: 914
-acceptance_rate: 58.816%
-collected_at: 2026-04-17T13:59:51.480987+00:00
+acceptance_rate: "58.816%"
+collected_at: "2026-04-17T13:59:51.480987+00:00"
 ---
 
 ## 문제

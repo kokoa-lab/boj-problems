@@ -1,13 +1,13 @@
 ---
-title: 특이한 수
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "특이한 수"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 31
 accepted: 15
 solved_users: 11
-acceptance_rate: 73.333%
-collected_at: 2026-04-17T13:05:59.219407+00:00
+acceptance_rate: "73.333%"
+collected_at: "2026-04-17T13:05:59.219407+00:00"
 ---
 
 ## 문제

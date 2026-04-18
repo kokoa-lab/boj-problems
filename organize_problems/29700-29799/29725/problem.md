@@ -1,13 +1,13 @@
 ---
-title: 체스 초보 브실이
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "체스 초보 브실이"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 2132
 accepted: 1723
 solved_users: 1621
-acceptance_rate: 81.376%
-collected_at: 2026-04-17T18:51:36.978827+00:00
+acceptance_rate: "81.376%"
+collected_at: "2026-04-17T18:51:36.978827+00:00"
 ---
 
 ## 문제

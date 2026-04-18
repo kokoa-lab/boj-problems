@@ -1,13 +1,13 @@
 ---
-title: Who wants to live forever?
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Who wants to live forever?"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 193
 accepted: 61
 solved_users: 45
-acceptance_rate: 37.500%
-collected_at: 2026-04-17T10:48:41.488762+00:00
+acceptance_rate: "37.500%"
+collected_at: "2026-04-17T10:48:41.488762+00:00"
 ---
 
 ## 문제

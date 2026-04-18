@@ -1,13 +1,13 @@
 ---
-title: 팩트
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "팩트"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 1233
 accepted: 541
 solved_users: 463
-acceptance_rate: 47.781%
-collected_at: 2026-04-17T11:28:35.235883+00:00
+acceptance_rate: "47.781%"
+collected_at: "2026-04-17T11:28:35.235883+00:00"
 ---
 
 ## 문제

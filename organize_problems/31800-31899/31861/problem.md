@@ -1,13 +1,13 @@
 ---
-title: 비밀번호 만들기
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "비밀번호 만들기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 639
 accepted: 309
 solved_users: 254
-acceptance_rate: 49.225%
-collected_at: 2026-04-17T19:37:52.679043+00:00
+acceptance_rate: "49.225%"
+collected_at: "2026-04-17T19:37:52.679043+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Composed Rhythms
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Composed Rhythms"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 160
 accepted: 119
 solved_users: 99
-acceptance_rate: 72.263%
-collected_at: 2026-04-17T19:55:16.950839+00:00
+acceptance_rate: "72.263%"
+collected_at: "2026-04-17T19:55:16.950839+00:00"
 ---
 
 ## 문제

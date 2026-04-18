@@ -1,13 +1,13 @@
 ---
-title: 수열과 쿼리 20
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "수열과 쿼리 20"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 3023
 accepted: 1100
 solved_users: 824
-acceptance_rate: 32.855%
-collected_at: 2026-04-17T14:26:00.028822+00:00
+acceptance_rate: "32.855%"
+collected_at: "2026-04-17T14:26:00.028822+00:00"
 ---
 
 ## 문제

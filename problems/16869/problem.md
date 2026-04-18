@@ -1,13 +1,13 @@
 ---
-title: Pizza Cutting
-special_judge: true
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Pizza Cutting"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 25
 accepted: 8
 solved_users: 3
-acceptance_rate: 27.273%
-collected_at: 2026-04-17T14:25:24.699181+00:00
+acceptance_rate: "27.273%"
+collected_at: "2026-04-17T14:25:24.699181+00:00"
 ---
 
 ## 문제

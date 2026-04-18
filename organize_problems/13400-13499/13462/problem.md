@@ -1,13 +1,13 @@
 ---
-title: Battle Simulation
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Battle Simulation"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 398
 accepted: 229
 solved_users: 179
-acceptance_rate: 54.908%
-collected_at: 2026-04-17T13:13:35.894204+00:00
+acceptance_rate: "54.908%"
+collected_at: "2026-04-17T13:13:35.894204+00:00"
 ---
 
 ## 문제

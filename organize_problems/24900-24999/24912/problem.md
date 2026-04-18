@@ -1,13 +1,13 @@
 ---
-title: 카드 색칠
-special_judge: true
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 512 MB (추가 메모리 없음)
+title: "카드 색칠"
+special_judge: "true"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "512 MB (추가 메모리 없음)"
 submissions: 1060
 accepted: 435
 solved_users: 384
-acceptance_rate: 43.636%
-collected_at: 2026-04-17T17:17:02.646856+00:00
+acceptance_rate: "43.636%"
+collected_at: "2026-04-17T17:17:02.646856+00:00"
 ---
 
 ## 문제

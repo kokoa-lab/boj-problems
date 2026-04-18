@@ -1,13 +1,13 @@
 ---
-title: Daisy’s Mazes
-special_judge: false
-time_limit: 3 초
-memory_limit: 512 MB
+title: "Daisy’s Mazes"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "512 MB"
 submissions: 50
 accepted: 15
 solved_users: 14
-acceptance_rate: 32.558%
-collected_at: 2026-04-17T15:50:37.491185+00:00
+acceptance_rate: "32.558%"
+collected_at: "2026-04-17T15:50:37.491185+00:00"
 ---
 
 ## 문제

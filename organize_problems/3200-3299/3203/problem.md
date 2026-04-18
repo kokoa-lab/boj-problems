@@ -1,13 +1,13 @@
 ---
-title: 프로그래밍 언어 Z
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "프로그래밍 언어 Z"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 735
 accepted: 143
 solved_users: 63
-acceptance_rate: 16.667%
-collected_at: 2026-04-17T10:47:22.456063+00:00
+acceptance_rate: "16.667%"
+collected_at: "2026-04-17T10:47:22.456063+00:00"
 ---
 
 ## 문제

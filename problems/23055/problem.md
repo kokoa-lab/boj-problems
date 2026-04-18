@@ -1,13 +1,13 @@
 ---
-title: 공사장 표지판
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "공사장 표지판"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 1289
 accepted: 969
 solved_users: 876
-acceptance_rate: 76.307%
-collected_at: 2026-04-17T16:41:02.546711+00:00
+acceptance_rate: "76.307%"
+collected_at: "2026-04-17T16:41:02.546711+00:00"
 ---
 
 ## 문제

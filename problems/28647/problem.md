@@ -1,13 +1,13 @@
 ---
-title: Супер-счастливые билетики (Basic)
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Супер-счастливые билетики (Basic)"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 42
 accepted: 30
 solved_users: 22
-acceptance_rate: 66.667%
-collected_at: 2026-04-17T18:29:59.391592+00:00
+acceptance_rate: "66.667%"
+collected_at: "2026-04-17T18:29:59.391592+00:00"
 ---
 
 ## 문제

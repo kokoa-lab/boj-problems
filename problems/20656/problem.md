@@ -1,13 +1,13 @@
 ---
-title: 지구 종말
-special_judge: false
-time_limit: 7 초
-memory_limit: 1024 MB
+title: "지구 종말"
+special_judge: "false"
+time_limit: "7 초"
+memory_limit: "1024 MB"
 submissions: 1377
 accepted: 9
 solved_users: 7
-acceptance_rate: 4.795%
-collected_at: 2026-04-17T15:39:33.017620+00:00
+acceptance_rate: "4.795%"
+collected_at: "2026-04-17T15:39:33.017620+00:00"
 ---
 
 ## 문제

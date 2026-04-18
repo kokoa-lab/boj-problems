@@ -1,13 +1,13 @@
 ---
-title: 사과 바나나 나무
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "사과 바나나 나무"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 111
 accepted: 60
 solved_users: 45
-acceptance_rate: 52.326%
-collected_at: 2026-04-17T19:00:29.650811+00:00
+acceptance_rate: "52.326%"
+collected_at: "2026-04-17T19:00:29.650811+00:00"
 ---
 
 ## 문제

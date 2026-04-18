@@ -1,13 +1,13 @@
 ---
-title: Conservation
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "Conservation"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 149
 accepted: 62
 solved_users: 50
-acceptance_rate: 51.020%
-collected_at: 2026-04-17T10:48:44.619814+00:00
+acceptance_rate: "51.020%"
+collected_at: "2026-04-17T10:48:44.619814+00:00"
 ---
 
 ## 문제

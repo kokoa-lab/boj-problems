@@ -1,13 +1,13 @@
 ---
-title: Byteball Match
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Byteball Match"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 29
 accepted: 15
 solved_users: 14
-acceptance_rate: 66.667%
-collected_at: 2026-04-17T11:58:22.308871+00:00
+acceptance_rate: "66.667%"
+collected_at: "2026-04-17T11:58:22.308871+00:00"
 ---
 
 ## 문제

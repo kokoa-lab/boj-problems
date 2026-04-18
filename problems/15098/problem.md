@@ -1,13 +1,13 @@
 ---
-title: No Duplicates
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "No Duplicates"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 602
 accepted: 491
 solved_users: 449
-acceptance_rate: 84.082%
-collected_at: 2026-04-18T09:50:27.594658+00:00
+acceptance_rate: "84.082%"
+collected_at: "2026-04-18T09:50:27.594658+00:00"
 ---
 
 ## 문제

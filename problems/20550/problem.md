@@ -1,13 +1,13 @@
 ---
-title: 구간 합 구하기 K
-special_judge: false
-time_limit: 6 초  ( 하단 참고 )
-memory_limit: 512 MB
+title: "구간 합 구하기 K"
+special_judge: "false"
+time_limit: "6 초  ( 하단 참고 )"
+memory_limit: "512 MB"
 submissions: 145
 accepted: 35
 solved_users: 26
-acceptance_rate: 25.243%
-collected_at: 2026-04-17T15:37:55.806863+00:00
+acceptance_rate: "25.243%"
+collected_at: "2026-04-17T15:37:55.806863+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: BAČVA
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "BAČVA"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 12
 accepted: 10
 solved_users: 10
-acceptance_rate: 83.333%
-collected_at: 2026-04-17T17:21:37.945447+00:00
+acceptance_rate: "83.333%"
+collected_at: "2026-04-17T17:21:37.945447+00:00"
 ---
 
 ## 문제

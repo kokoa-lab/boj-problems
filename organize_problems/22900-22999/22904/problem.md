@@ -1,13 +1,13 @@
 ---
-title: 오렌지 수
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "오렌지 수"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 599
 accepted: 211
 solved_users: 160
-acceptance_rate: 34.858%
-collected_at: 2026-04-17T16:38:26.216522+00:00
+acceptance_rate: "34.858%"
+collected_at: "2026-04-17T16:38:26.216522+00:00"
 ---
 
 ## 문제

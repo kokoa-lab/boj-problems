@@ -1,13 +1,13 @@
 ---
-title: Heraclosures
-special_judge: false
-time_limit: 5.5 초 (추가 시간 없음)
-memory_limit: 2048 MB
+title: "Heraclosures"
+special_judge: "false"
+time_limit: "5.5 초 (추가 시간 없음)"
+memory_limit: "2048 MB"
 submissions: 44
 accepted: 23
 solved_users: 13
-acceptance_rate: 44.828%
-collected_at: 2026-04-17T20:10:05.785360+00:00
+acceptance_rate: "44.828%"
+collected_at: "2026-04-17T20:10:05.785360+00:00"
 ---
 
 ## 문제

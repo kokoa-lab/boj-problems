@@ -1,13 +1,13 @@
 ---
-title: Nine Knights
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Nine Knights"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 234
 accepted: 159
 solved_users: 141
-acceptance_rate: 69.118%
-collected_at: 2026-04-17T13:50:43.335953+00:00
+acceptance_rate: "69.118%"
+collected_at: "2026-04-17T13:50:43.335953+00:00"
 ---
 
 ## 문제

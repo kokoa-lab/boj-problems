@@ -1,13 +1,13 @@
 ---
-title: 스카이라인 쉬운거
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "스카이라인 쉬운거"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 9840
 accepted: 4208
 solved_users: 3267
-acceptance_rate: 41.266%
-collected_at: 2026-04-17T10:34:59.760066+00:00
+acceptance_rate: "41.266%"
+collected_at: "2026-04-17T10:34:59.760066+00:00"
 ---
 
 ## 문제

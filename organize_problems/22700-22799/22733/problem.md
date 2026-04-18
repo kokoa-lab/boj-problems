@@ -1,13 +1,13 @@
 ---
-title: Monkey Business
-special_judge: false
-time_limit: 8 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "Monkey Business"
+special_judge: "false"
+time_limit: "8 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 104
 accepted: 47
 solved_users: 39
-acceptance_rate: 48.750%
-collected_at: 2026-04-17T16:33:12.774222+00:00
+acceptance_rate: "48.750%"
+collected_at: "2026-04-17T16:33:12.774222+00:00"
 ---
 
 ## 문제

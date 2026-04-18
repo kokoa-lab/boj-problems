@@ -1,13 +1,13 @@
 ---
-title: 달팽이는 그늘에서 쉬고 싶다
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "달팽이는 그늘에서 쉬고 싶다"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 314
 accepted: 168
 solved_users: 120
-acceptance_rate: 50.000%
-collected_at: 2026-04-17T16:39:44.703330+00:00
+acceptance_rate: "50.000%"
+collected_at: "2026-04-17T16:39:44.703330+00:00"
 ---
 
 ## 문제

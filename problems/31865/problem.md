@@ -1,13 +1,13 @@
 ---
-title: 수열 만들기
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "수열 만들기"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 134
 accepted: 71
 solved_users: 49
-acceptance_rate: 58.333%
-collected_at: 2026-04-17T19:37:58.024130+00:00
+acceptance_rate: "58.333%"
+collected_at: "2026-04-17T19:37:58.024130+00:00"
 ---
 
 ## 문제

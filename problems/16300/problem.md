@@ -1,13 +1,13 @@
 ---
-title: H to O
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "H to O"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 162
 accepted: 103
 solved_users: 83
-acceptance_rate: 61.481%
-collected_at: 2026-04-17T14:15:14.751516+00:00
+acceptance_rate: "61.481%"
+collected_at: "2026-04-17T14:15:14.751516+00:00"
 ---
 
 ## 문제

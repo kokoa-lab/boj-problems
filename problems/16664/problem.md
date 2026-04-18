@@ -1,13 +1,13 @@
 ---
-title: Easy Chess
-special_judge: true
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Easy Chess"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 107
 accepted: 48
 solved_users: 47
-acceptance_rate: 54.023%
-collected_at: 2026-04-17T14:22:02.616674+00:00
+acceptance_rate: "54.023%"
+collected_at: "2026-04-17T14:22:02.616674+00:00"
 ---
 
 ## 문제

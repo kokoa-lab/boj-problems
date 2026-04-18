@@ -1,13 +1,13 @@
 ---
-title: Расчеты Луиджи
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Расчеты Луиджи"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 49
 accepted: 32
 solved_users: 24
-acceptance_rate: 60.000%
-collected_at: 2026-04-17T18:36:02.274696+00:00
+acceptance_rate: "60.000%"
+collected_at: "2026-04-17T18:36:02.274696+00:00"
 ---
 
 ## 문제

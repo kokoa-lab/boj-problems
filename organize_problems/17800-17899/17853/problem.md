@@ -1,13 +1,13 @@
 ---
-title: Bio Trip
-special_judge: false
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "Bio Trip"
+special_judge: "false"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 10
 accepted: 7
 solved_users: 7
-acceptance_rate: 70.000%
-collected_at: 2026-04-17T14:48:37.081830+00:00
+acceptance_rate: "70.000%"
+collected_at: "2026-04-17T14:48:37.081830+00:00"
 ---
 
 ## 문제

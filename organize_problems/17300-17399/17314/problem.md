@@ -1,13 +1,13 @@
 ---
-title: Tree Count
-special_judge: true
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Tree Count"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 15
 accepted: 6
 solved_users: 5
-acceptance_rate: 41.667%
-collected_at: 2026-04-17T14:36:54.725968+00:00
+acceptance_rate: "41.667%"
+collected_at: "2026-04-17T14:36:54.725968+00:00"
 ---
 
 ## 문제

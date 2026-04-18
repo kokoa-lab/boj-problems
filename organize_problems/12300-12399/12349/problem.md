@@ -1,13 +1,13 @@
 ---
-title: Professor Normal (Small1)
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Professor Normal (Small1)"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 16
 accepted: 13
 solved_users: 11
-acceptance_rate: 91.667%
-collected_at: 2026-04-17T12:54:03.134040+00:00
+acceptance_rate: "91.667%"
+collected_at: "2026-04-17T12:54:03.134040+00:00"
 ---
 
 ## 문제

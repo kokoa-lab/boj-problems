@@ -1,13 +1,13 @@
 ---
-title: Ones
-special_judge: true
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Ones"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 55
 accepted: 34
 solved_users: 30
-acceptance_rate: 76.923%
-collected_at: 2026-04-17T15:13:24.025136+00:00
+acceptance_rate: "76.923%"
+collected_at: "2026-04-17T15:13:24.025136+00:00"
 ---
 
 ## 문제

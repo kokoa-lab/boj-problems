@@ -1,13 +1,13 @@
 ---
-title: 색종이
-special_judge: false
-time_limit: 1 초
-memory_limit: 64 MB
+title: "색종이"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "64 MB"
 submissions: 14172
 accepted: 5701
 solved_users: 4434
-acceptance_rate: 42.733%
-collected_at: 2026-04-17T12:19:48.903348+00:00
+acceptance_rate: "42.733%"
+collected_at: "2026-04-17T12:19:48.903348+00:00"
 ---
 
 ## 문제

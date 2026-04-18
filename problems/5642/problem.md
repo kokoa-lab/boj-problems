@@ -1,13 +1,13 @@
 ---
-title: 퀸 게임
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "퀸 게임"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 465
 accepted: 82
 solved_users: 45
-acceptance_rate: 13.636%
-collected_at: 2026-04-17T11:16:13.763860+00:00
+acceptance_rate: "13.636%"
+collected_at: "2026-04-17T11:16:13.763860+00:00"
 ---
 
 ## 문제

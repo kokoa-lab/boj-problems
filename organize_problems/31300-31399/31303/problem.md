@@ -1,13 +1,13 @@
 ---
-title: Don't Hunger Together
-special_judge: true
-time_limit: 4 초
-memory_limit: 2048 MB
+title: "Don't Hunger Together"
+special_judge: "true"
+time_limit: "4 초"
+memory_limit: "2048 MB"
 submissions: 83
 accepted: 18
 solved_users: 16
-acceptance_rate: 35.556%
-collected_at: 2026-04-17T19:25:31.385033+00:00
+acceptance_rate: "35.556%"
+collected_at: "2026-04-17T19:25:31.385033+00:00"
 ---
 
 ## 문제

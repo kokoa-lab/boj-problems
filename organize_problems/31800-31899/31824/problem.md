@@ -1,13 +1,13 @@
 ---
-title: 근로장학생
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "근로장학생"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 545
 accepted: 251
 solved_users: 214
-acceptance_rate: 56.316%
-collected_at: 2026-04-17T19:37:14.378279+00:00
+acceptance_rate: "56.316%"
+collected_at: "2026-04-17T19:37:14.378279+00:00"
 ---
 
 ## 문제

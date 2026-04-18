@@ -1,13 +1,13 @@
 ---
-title: 대운하
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "대운하"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 474
 accepted: 230
 solved_users: 173
-acceptance_rate: 54.747%
-collected_at: 2026-04-17T10:40:53.427642+00:00
+acceptance_rate: "54.747%"
+collected_at: "2026-04-17T10:40:53.427642+00:00"
 ---
 
 ## 문제

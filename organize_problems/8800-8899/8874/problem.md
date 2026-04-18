@@ -1,13 +1,13 @@
 ---
-title: 웜뱃
-special_judge: false
-time_limit: 20 초
-memory_limit: 256 MB
+title: "웜뱃"
+special_judge: "false"
+time_limit: "20 초"
+memory_limit: "256 MB"
 submissions: 220
 accepted: 95
 solved_users: 46
-acceptance_rate: 35.385%
-collected_at: 2026-04-17T12:04:22.961200+00:00
+acceptance_rate: "35.385%"
+collected_at: "2026-04-17T12:04:22.961200+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Computer Transformation
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Computer Transformation"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 3534
 accepted: 1089
 solved_users: 205
-acceptance_rate: 11.932%
-collected_at: 2026-04-17T10:51:55.319931+00:00
+acceptance_rate: "11.932%"
+collected_at: "2026-04-17T10:51:55.319931+00:00"
 ---
 
 ## 문제

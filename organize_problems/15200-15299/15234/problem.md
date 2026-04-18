@@ -1,13 +1,13 @@
 ---
-title: Number Pairs
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Number Pairs"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 390
 accepted: 312
 solved_users: 271
-acceptance_rate: 80.655%
-collected_at: 2026-04-17T13:55:37.252771+00:00
+acceptance_rate: "80.655%"
+collected_at: "2026-04-17T13:55:37.252771+00:00"
 ---
 
 ## 문제

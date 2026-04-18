@@ -1,13 +1,13 @@
 ---
-title: Jumpring
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Jumpring"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 107
 accepted: 33
 solved_users: 28
-acceptance_rate: 40.000%
-collected_at: 2026-04-17T20:42:19.941642+00:00
+acceptance_rate: "40.000%"
+collected_at: "2026-04-17T20:42:19.941642+00:00"
 ---
 
 ## 문제

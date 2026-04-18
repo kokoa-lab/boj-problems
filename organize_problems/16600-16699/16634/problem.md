@@ -1,13 +1,13 @@
 ---
-title: Run-Length Encoding, Run!
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Run-Length Encoding, Run!"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 416
 accepted: 268
 solved_users: 213
-acceptance_rate: 61.561%
-collected_at: 2026-04-17T14:21:24.427491+00:00
+acceptance_rate: "61.561%"
+collected_at: "2026-04-17T14:21:24.427491+00:00"
 ---
 
 ## 문제

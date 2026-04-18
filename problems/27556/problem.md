@@ -1,13 +1,13 @@
 ---
-title: Lights Off
-special_judge: false
-time_limit: 4 초
-memory_limit: 1024 MB
+title: "Lights Off"
+special_judge: "false"
+time_limit: "4 초"
+memory_limit: "1024 MB"
 submissions: 105
 accepted: 54
 solved_users: 46
-acceptance_rate: 48.936%
-collected_at: 2026-04-17T18:06:25.542780+00:00
+acceptance_rate: "48.936%"
+collected_at: "2026-04-17T18:06:25.542780+00:00"
 ---
 
 ## 문제

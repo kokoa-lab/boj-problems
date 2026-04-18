@@ -1,13 +1,13 @@
 ---
-title: Bingo Ties
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Bingo Ties"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 93
 accepted: 31
 solved_users: 25
-acceptance_rate: 33.784%
-collected_at: 2026-04-17T14:21:15.690617+00:00
+acceptance_rate: "33.784%"
+collected_at: "2026-04-17T14:21:15.690617+00:00"
 ---
 
 ## 문제

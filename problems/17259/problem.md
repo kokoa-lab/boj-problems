@@ -1,13 +1,13 @@
 ---
-title: 선물이 넘쳐흘러
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "선물이 넘쳐흘러"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 694
 accepted: 264
 solved_users: 197
-acceptance_rate: 37.958%
-collected_at: 2026-04-17T14:35:31.642111+00:00
+acceptance_rate: "37.958%"
+collected_at: "2026-04-17T14:35:31.642111+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Artwork
-special_judge: false
-time_limit: 4 초
-memory_limit: 512 MB
+title: "Artwork"
+special_judge: "false"
+time_limit: "4 초"
+memory_limit: "512 MB"
 submissions: 120
 accepted: 84
 solved_users: 74
-acceptance_rate: 76.289%
-collected_at: 2026-04-17T13:11:58.073334+00:00
+acceptance_rate: "76.289%"
+collected_at: "2026-04-17T13:11:58.073334+00:00"
 ---
 
 ## 문제

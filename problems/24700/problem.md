@@ -1,13 +1,13 @@
 ---
-title: Permutation Matrix
-special_judge: true
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Permutation Matrix"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 116
 accepted: 63
 solved_users: 53
-acceptance_rate: 58.242%
-collected_at: 2026-04-17T17:13:29.135308+00:00
+acceptance_rate: "58.242%"
+collected_at: "2026-04-17T17:13:29.135308+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 멀지만 가까운 사이
-special_judge: false
-time_limit: 3 초 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "멀지만 가까운 사이"
+special_judge: "false"
+time_limit: "3 초 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 196
 accepted: 129
 solved_users: 94
-acceptance_rate: 63.514%
-collected_at: 2026-04-17T20:33:27.044858+00:00
+acceptance_rate: "63.514%"
+collected_at: "2026-04-17T20:33:27.044858+00:00"
 ---
 
 ## 문제

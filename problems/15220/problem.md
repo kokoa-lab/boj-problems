@@ -1,13 +1,13 @@
 ---
-title: Hay Bales
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Hay Bales"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 51
 accepted: 12
 solved_users: 11
-acceptance_rate: 42.308%
-collected_at: 2026-04-17T13:55:14.207272+00:00
+acceptance_rate: "42.308%"
+collected_at: "2026-04-17T13:55:14.207272+00:00"
 ---
 
 ## 문제

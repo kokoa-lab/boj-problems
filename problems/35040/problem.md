@@ -1,13 +1,13 @@
 ---
-title: Battle of Arrays
-special_judge: false
-time_limit: 3 초
-memory_limit: 2048 MB
+title: "Battle of Arrays"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "2048 MB"
 submissions: 23
 accepted: 22
 solved_users: 21
-acceptance_rate: 95.455%
-collected_at: 2026-04-17T20:54:25.775866+00:00
+acceptance_rate: "95.455%"
+collected_at: "2026-04-17T20:54:25.775866+00:00"
 ---
 
 ## 문제

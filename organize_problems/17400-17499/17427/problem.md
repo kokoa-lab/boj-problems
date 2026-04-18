@@ -1,13 +1,13 @@
 ---
-title: 약수의 합 2
-special_judge: false
-time_limit: 0.5 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "약수의 합 2"
+special_judge: "false"
+time_limit: "0.5 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 16350
 accepted: 6528
 solved_users: 5539
-acceptance_rate: 40.698%
-collected_at: 2026-04-17T14:39:09.932503+00:00
+acceptance_rate: "40.698%"
+collected_at: "2026-04-17T14:39:09.932503+00:00"
 ---
 
 ## 문제

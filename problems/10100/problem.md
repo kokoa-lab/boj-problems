@@ -1,13 +1,13 @@
 ---
-title: Senior Postmen
-special_judge: true
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Senior Postmen"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 74
 accepted: 48
 solved_users: 34
-acceptance_rate: 64.151%
-collected_at: 2026-04-17T12:19:00.484785+00:00
+acceptance_rate: "64.151%"
+collected_at: "2026-04-17T12:19:00.484785+00:00"
 ---
 
 ## 문제

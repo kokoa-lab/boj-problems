@@ -1,13 +1,13 @@
 ---
-title: Game of strings
-special_judge: true
-time_limit: 4 초 (추가 시간 없음)
-memory_limit: 256 MB
+title: "Game of strings"
+special_judge: "true"
+time_limit: "4 초 (추가 시간 없음)"
+memory_limit: "256 MB"
 submissions: 7
 accepted: 1
 solved_users: 1
-acceptance_rate: 100.000%
-collected_at: 2026-04-17T16:48:09.973744+00:00
+acceptance_rate: "100.000%"
+collected_at: "2026-04-17T16:48:09.973744+00:00"
 ---
 
 ## 문제

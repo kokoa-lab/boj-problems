@@ -1,13 +1,13 @@
 ---
-title: 스타 대결
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "스타 대결"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 4938
 accepted: 1047
 solved_users: 831
-acceptance_rate: 29.036%
-collected_at: 2026-04-17T10:27:48.733516+00:00
+acceptance_rate: "29.036%"
+collected_at: "2026-04-17T10:27:48.733516+00:00"
 ---
 
 ## 문제

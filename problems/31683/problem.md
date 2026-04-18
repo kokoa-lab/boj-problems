@@ -1,13 +1,13 @@
 ---
-title: Zlagalica
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Zlagalica"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 38
 accepted: 23
 solved_users: 22
-acceptance_rate: 66.667%
-collected_at: 2026-04-17T19:34:38.739097+00:00
+acceptance_rate: "66.667%"
+collected_at: "2026-04-17T19:34:38.739097+00:00"
 ---
 
 ## 문제
@@ -25,7 +25,17 @@ Let’s demonstrate this for pieces colored in colors "a" and "b". *Picture 1* s
 
 |  |  |
 | --- | --- |
-| ```  . . b b b b b . . b b b b b a a a a . . . a a a a . . . a a a a . . . ``` | ```  a a a a . . . . . a a a a b b b b b a a a a b b b b b ``` |
+| ``` 
+ . . b b b b b
+ . . b b b b b
+ a a a a . . .
+ a a a a . . .
+ a a a a . . .
+ ``` | ``` 
+ a a a a . . . . .
+ a a a a b b b b b
+ a a a a b b b b b
+ ``` |
 | Picture 1 | Picture 2 |
 
 Maja has grown tired of this puzzling puzzle, but her curiosity knows no bounds! That’s why she’s asking for your help. She’s interested in knowing, for a given description of every piece of the puzzle and the sequence of their placement, what will the completed puzzle look like? Write a program that prints the dimensions (height and width) of the completed puzzle, as well as its final appearance within a rectangle of the same height and width, where "." represents places where there is no part of the puzzle.

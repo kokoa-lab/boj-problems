@@ -1,13 +1,13 @@
 ---
-title: 세 용액
-special_judge: true
-time_limit: 1 초
-memory_limit: 256 MB
+title: "세 용액"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 50015
 accepted: 15333
 solved_users: 11088
-acceptance_rate: 28.123%
-collected_at: 2026-04-17T10:41:56.112665+00:00
+acceptance_rate: "28.123%"
+collected_at: "2026-04-17T10:41:56.112665+00:00"
 ---
 
 ## 문제

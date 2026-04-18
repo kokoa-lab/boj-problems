@@ -1,13 +1,13 @@
 ---
-title: 연속 반복 문자열
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "연속 반복 문자열"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 29
 accepted: 7
 solved_users: 6
-acceptance_rate: 66.667%
-collected_at: 2026-04-17T14:26:38.032745+00:00
+acceptance_rate: "66.667%"
+collected_at: "2026-04-17T14:26:38.032745+00:00"
 ---
 
 ## 문제

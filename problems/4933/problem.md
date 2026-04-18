@@ -1,13 +1,13 @@
 ---
-title: 뉴턴의 사과
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "뉴턴의 사과"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 414
 accepted: 146
 solved_users: 114
-acceptance_rate: 40.283%
-collected_at: 2026-04-17T11:10:10.328084+00:00
+acceptance_rate: "40.283%"
+collected_at: "2026-04-17T11:10:10.328084+00:00"
 ---
 
 ## 문제

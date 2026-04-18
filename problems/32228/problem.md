@@ -1,13 +1,13 @@
 ---
-title: 등차수열 만들기
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "등차수열 만들기"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 188
 accepted: 80
 solved_users: 64
-acceptance_rate: 54.701%
-collected_at: 2026-04-17T19:46:07.000655+00:00
+acceptance_rate: "54.701%"
+collected_at: "2026-04-17T19:46:07.000655+00:00"
 ---
 
 ## 문제

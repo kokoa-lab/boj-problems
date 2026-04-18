@@ -1,13 +1,13 @@
 ---
-title: 졸려
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "졸려"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 2900
 accepted: 1056
 solved_users: 853
-acceptance_rate: 37.200%
-collected_at: 2026-04-17T12:10:47.915830+00:00
+acceptance_rate: "37.200%"
+collected_at: "2026-04-17T12:10:47.915830+00:00"
 ---
 
 ## 문제

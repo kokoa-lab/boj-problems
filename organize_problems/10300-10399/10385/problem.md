@@ -1,13 +1,13 @@
 ---
-title: This Too Shall Pass
-special_judge: false
-time_limit: 3 초
-memory_limit: 256 MB
+title: "This Too Shall Pass"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "256 MB"
 submissions: 28
 accepted: 15
 solved_users: 14
-acceptance_rate: 51.852%
-collected_at: 2026-04-17T12:22:51.378646+00:00
+acceptance_rate: "51.852%"
+collected_at: "2026-04-17T12:22:51.378646+00:00"
 ---
 
 ## 문제

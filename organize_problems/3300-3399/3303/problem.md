@@ -1,13 +1,13 @@
 ---
-title: Printed Circuit Board
-special_judge: false
-time_limit: 0.1 초
-memory_limit: 32 MB
+title: "Printed Circuit Board"
+special_judge: "false"
+time_limit: "0.1 초"
+memory_limit: "32 MB"
 submissions: 327
 accepted: 44
 solved_users: 20
-acceptance_rate: 13.514%
-collected_at: 2026-04-17T10:48:01.371160+00:00
+acceptance_rate: "13.514%"
+collected_at: "2026-04-17T10:48:01.371160+00:00"
 ---
 
 ## 문제

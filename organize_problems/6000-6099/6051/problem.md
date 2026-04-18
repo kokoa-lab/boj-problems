@@ -1,13 +1,13 @@
 ---
-title: 시간 여행
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "시간 여행"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 1098
 accepted: 231
 solved_users: 173
-acceptance_rate: 35.091%
-collected_at: 2026-04-17T11:19:42.953425+00:00
+acceptance_rate: "35.091%"
+collected_at: "2026-04-17T11:19:42.953425+00:00"
 ---
 
 ## 문제

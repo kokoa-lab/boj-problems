@@ -1,13 +1,13 @@
 ---
-title: 연락
-special_judge: false
-time_limit: 3 초
-memory_limit: 1024 MB
+title: "연락"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "1024 MB"
 submissions: 230
 accepted: 104
 solved_users: 81
-acceptance_rate: 53.642%
-collected_at: 2026-04-17T19:45:36.866599+00:00
+acceptance_rate: "53.642%"
+collected_at: "2026-04-17T19:45:36.866599+00:00"
 ---
 
 ## 문제

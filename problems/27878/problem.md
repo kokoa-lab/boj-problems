@@ -1,13 +1,13 @@
 ---
-title: 순열 사이클과 쿼리
-special_judge: false
-time_limit: 7 초
-memory_limit: 512 MB
+title: "순열 사이클과 쿼리"
+special_judge: "false"
+time_limit: "7 초"
+memory_limit: "512 MB"
 submissions: 226
 accepted: 50
 solved_users: 35
-acceptance_rate: 19.231%
-collected_at: 2026-04-17T18:13:30.771093+00:00
+acceptance_rate: "19.231%"
+collected_at: "2026-04-17T18:13:30.771093+00:00"
 ---
 
 ## 문제

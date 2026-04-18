@@ -1,13 +1,13 @@
 ---
-title: Fibonacci Strikes Back
-special_judge: false
-time_limit: 3 초
-memory_limit: 512 MB
+title: "Fibonacci Strikes Back"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "512 MB"
 submissions: 48
 accepted: 5
 solved_users: 2
-acceptance_rate: 6.667%
-collected_at: 2026-04-17T15:07:40.409872+00:00
+acceptance_rate: "6.667%"
+collected_at: "2026-04-17T15:07:40.409872+00:00"
 ---
 
 ## 문제

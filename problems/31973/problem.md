@@ -1,13 +1,13 @@
 ---
-title: Flooding Wall
-special_judge: false
-time_limit: 5 초
-memory_limit: 1024 MB
+title: "Flooding Wall"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "1024 MB"
 submissions: 43
 accepted: 14
 solved_users: 13
-acceptance_rate: 41.935%
-collected_at: 2026-04-17T19:39:59.084840+00:00
+acceptance_rate: "41.935%"
+collected_at: "2026-04-17T19:39:59.084840+00:00"
 ---
 
 ## 문제

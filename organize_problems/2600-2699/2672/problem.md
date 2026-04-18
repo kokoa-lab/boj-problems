@@ -1,13 +1,13 @@
 ---
-title: 여러 직사각형의 전체 면적 구하기
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "여러 직사각형의 전체 면적 구하기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 3487
 accepted: 948
 solved_users: 682
-acceptance_rate: 29.034%
-collected_at: 2026-04-17T10:43:49.081164+00:00
+acceptance_rate: "29.034%"
+collected_at: "2026-04-17T10:43:49.081164+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 외판원 순회 로봇
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "외판원 순회 로봇"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 101
 accepted: 19
 solved_users: 9
-acceptance_rate: 13.043%
-collected_at: 2026-04-17T19:13:03.007086+00:00
+acceptance_rate: "13.043%"
+collected_at: "2026-04-17T19:13:03.007086+00:00"
 ---
 
 ## 문제

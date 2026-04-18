@@ -1,13 +1,13 @@
 ---
-title: Interview Question
-special_judge: true
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Interview Question"
+special_judge: "true"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 125
 accepted: 88
 solved_users: 81
-acceptance_rate: 69.231%
-collected_at: 2026-04-17T17:41:26.646608+00:00
+acceptance_rate: "69.231%"
+collected_at: "2026-04-17T17:41:26.646608+00:00"
 ---
 
 ## 문제

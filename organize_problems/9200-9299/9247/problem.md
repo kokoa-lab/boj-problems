@@ -1,13 +1,13 @@
 ---
-title: 절벽 걷기
-special_judge: true
-time_limit: 1 초
-memory_limit: 128 MB
+title: "절벽 걷기"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 30
 accepted: 12
 solved_users: 10
-acceptance_rate: 62.500%
-collected_at: 2026-04-17T12:08:15.077095+00:00
+acceptance_rate: "62.500%"
+collected_at: "2026-04-17T12:08:15.077095+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Make Spoiled Binary Tree a Tree Again!
-special_judge: true
-time_limit: 5 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "Make Spoiled Binary Tree a Tree Again!"
+special_judge: "true"
+time_limit: "5 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 11
 accepted: 3
 solved_users: 2
-acceptance_rate: 66.667%
-collected_at: 2026-04-17T16:49:30.674919+00:00
+acceptance_rate: "66.667%"
+collected_at: "2026-04-17T16:49:30.674919+00:00"
 ---
 
 ## 문제

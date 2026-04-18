@@ -1,13 +1,13 @@
 ---
-title: Golden Landmarks
-special_judge: false
-time_limit: 1 초
-memory_limit: 2048 MB
+title: "Golden Landmarks"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "2048 MB"
 submissions: 69
 accepted: 64
 solved_users: 49
-acceptance_rate: 92.453%
-collected_at: 2026-04-17T20:34:39.975215+00:00
+acceptance_rate: "92.453%"
+collected_at: "2026-04-17T20:34:39.975215+00:00"
 ---
 
 ## 문제

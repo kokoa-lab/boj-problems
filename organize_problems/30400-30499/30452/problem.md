@@ -1,13 +1,13 @@
 ---
-title: Server Overload
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Server Overload"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 512
 accepted: 126
 solved_users: 89
-acceptance_rate: 23.483%
-collected_at: 2026-04-17T19:07:00.243789+00:00
+acceptance_rate: "23.483%"
+collected_at: "2026-04-17T19:07:00.243789+00:00"
 ---
 
 ## 문제

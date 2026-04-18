@@ -1,13 +1,13 @@
 ---
-title: 이민희진
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "이민희진"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 879
 accepted: 548
 solved_users: 469
-acceptance_rate: 62.701%
-collected_at: 2026-04-17T18:17:35.585438+00:00
+acceptance_rate: "62.701%"
+collected_at: "2026-04-17T18:17:35.585438+00:00"
 ---
 
 ## 문제

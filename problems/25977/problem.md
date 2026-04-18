@@ -1,13 +1,13 @@
 ---
-title: k개 사과 트리 노드만으로 배를 최대로 수확하기
-special_judge: false
-time_limit: 3 초
-memory_limit: 512 MB
+title: "k개 사과 트리 노드만으로 배를 최대로 수확하기"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "512 MB"
 submissions: 166
 accepted: 96
 solved_users: 77
-acceptance_rate: 63.115%
-collected_at: 2026-04-17T17:38:05.167094+00:00
+acceptance_rate: "63.115%"
+collected_at: "2026-04-17T17:38:05.167094+00:00"
 ---
 
 ## 문제

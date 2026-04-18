@@ -1,13 +1,13 @@
 ---
-title: But I Want to Win
-special_judge: false
-time_limit: 1 초
-memory_limit: 2048 MB
+title: "But I Want to Win"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "2048 MB"
 submissions: 45
 accepted: 30
 solved_users: 25
-acceptance_rate: 71.429%
-collected_at: 2026-04-17T21:04:21.492105+00:00
+acceptance_rate: "71.429%"
+collected_at: "2026-04-17T21:04:21.492105+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Теория Рамсея
-special_judge: true
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Теория Рамсея"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 20
 accepted: 2
 solved_users: 2
-acceptance_rate: 10.000%
-collected_at: 2026-04-17T18:29:53.592580+00:00
+acceptance_rate: "10.000%"
+collected_at: "2026-04-17T18:29:53.592580+00:00"
 ---
 
 ## 문제

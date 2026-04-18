@@ -1,13 +1,13 @@
 ---
-title: Knockout
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Knockout"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 70
 accepted: 36
 solved_users: 28
-acceptance_rate: 46.667%
-collected_at: 2026-04-17T14:17:43.620998+00:00
+acceptance_rate: "46.667%"
+collected_at: "2026-04-17T14:17:43.620998+00:00"
 ---
 
 ## 문제

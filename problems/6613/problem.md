@@ -1,13 +1,13 @@
 ---
-title: 버그잡는 꿍
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "버그잡는 꿍"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 616
 accepted: 85
 solved_users: 54
-acceptance_rate: 20.074%
-collected_at: 2026-04-17T11:31:41.754635+00:00
+acceptance_rate: "20.074%"
+collected_at: "2026-04-17T11:31:41.754635+00:00"
 ---
 
 ## 문제

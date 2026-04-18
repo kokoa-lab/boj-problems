@@ -1,13 +1,13 @@
 ---
-title: Slingshot
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Slingshot"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 104
 accepted: 56
 solved_users: 53
-acceptance_rate: 54.082%
-collected_at: 2026-04-17T14:05:35.129021+00:00
+acceptance_rate: "54.082%"
+collected_at: "2026-04-17T14:05:35.129021+00:00"
 ---
 
 ## 문제

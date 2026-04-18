@@ -1,13 +1,13 @@
 ---
-title: Convex Contour
-special_judge: true
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Convex Contour"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 303
 accepted: 141
 solved_users: 92
-acceptance_rate: 43.192%
-collected_at: 2026-04-17T13:22:46.018454+00:00
+acceptance_rate: "43.192%"
+collected_at: "2026-04-17T13:22:46.018454+00:00"
 ---
 
 ## 문제

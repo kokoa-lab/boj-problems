@@ -1,13 +1,13 @@
 ---
-title: Gradabase
-special_judge: false
-time_limit: 3 초
-memory_limit: 128 MB
+title: "Gradabase"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "128 MB"
 submissions: 823
 accepted: 656
 solved_users: 568
-acceptance_rate: 79.887%
-collected_at: 2026-04-17T12:08:36.050140+00:00
+acceptance_rate: "79.887%"
+collected_at: "2026-04-17T12:08:36.050140+00:00"
 ---
 
 ## 문제

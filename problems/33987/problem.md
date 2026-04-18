@@ -1,13 +1,13 @@
 ---
-title: min 또는 max
-special_judge: true
-time_limit: 1 초
-memory_limit: 512 MB
+title: "min 또는 max"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 132
 accepted: 41
 solved_users: 34
-acceptance_rate: 31.193%
-collected_at: 2026-04-17T20:27:53.426226+00:00
+acceptance_rate: "31.193%"
+collected_at: "2026-04-17T20:27:53.426226+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Doubly-sorted Grid (Large)
-special_judge: false
-time_limit: 40 초
-memory_limit: 512 MB
+title: "Doubly-sorted Grid (Large)"
+special_judge: "false"
+time_limit: "40 초"
+memory_limit: "512 MB"
 submissions: 1
 accepted: 1
 solved_users: 1
-acceptance_rate: 100.000%
-collected_at: 2026-04-17T12:58:26.804350+00:00
+acceptance_rate: "100.000%"
+collected_at: "2026-04-17T12:58:26.804350+00:00"
 ---
 
 ## 문제

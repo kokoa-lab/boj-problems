@@ -1,13 +1,13 @@
 ---
-title: 할리갈리
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "할리갈리"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 5840
 accepted: 3596
 solved_users: 2913
-acceptance_rate: 62.151%
-collected_at: 2026-04-17T17:57:22.725563+00:00
+acceptance_rate: "62.151%"
+collected_at: "2026-04-17T17:57:22.725563+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Streets Ahead
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Streets Ahead"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 193
 accepted: 123
 solved_users: 100
-acceptance_rate: 62.112%
-collected_at: 2026-04-17T18:07:09.408982+00:00
+acceptance_rate: "62.112%"
+collected_at: "2026-04-17T18:07:09.408982+00:00"
 ---
 
 ## 문제

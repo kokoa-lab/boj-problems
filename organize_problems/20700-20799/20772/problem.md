@@ -1,13 +1,13 @@
 ---
-title: Scheduler
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "Scheduler"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 72
 accepted: 33
 solved_users: 29
-acceptance_rate: 56.863%
-collected_at: 2026-04-17T15:41:13.250740+00:00
+acceptance_rate: "56.863%"
+collected_at: "2026-04-17T15:41:13.250740+00:00"
 ---
 
 ## 문제

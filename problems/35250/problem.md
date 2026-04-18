@@ -1,13 +1,13 @@
 ---
-title: Last Orders
-special_judge: false
-time_limit: 2 초
-memory_limit: 2048 MB
+title: "Last Orders"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "2048 MB"
 submissions: 4
 accepted: 4
 solved_users: 4
-acceptance_rate: 100.000%
-collected_at: 2026-04-17T20:58:52.451604+00:00
+acceptance_rate: "100.000%"
+collected_at: "2026-04-17T20:58:52.451604+00:00"
 ---
 
 ## 문제

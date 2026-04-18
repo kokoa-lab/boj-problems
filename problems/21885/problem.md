@@ -1,13 +1,13 @@
 ---
-title: New Puzzle
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "New Puzzle"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 68
 accepted: 59
 solved_users: 40
-acceptance_rate: 90.909%
-collected_at: 2026-04-17T16:09:26.477356+00:00
+acceptance_rate: "90.909%"
+collected_at: "2026-04-17T16:09:26.477356+00:00"
 ---
 
 ## 문제

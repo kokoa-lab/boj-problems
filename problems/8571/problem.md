@@ -1,13 +1,13 @@
 ---
-title: Apteka
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Apteka"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 27
 accepted: 18
 solved_users: 15
-acceptance_rate: 71.429%
-collected_at: 2026-04-17T12:00:57.347677+00:00
+acceptance_rate: "71.429%"
+collected_at: "2026-04-17T12:00:57.347677+00:00"
 ---
 
 ## 문제

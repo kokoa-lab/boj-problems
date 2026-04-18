@@ -1,13 +1,13 @@
 ---
-title: 아름다운 강산
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "아름다운 강산"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 72
 accepted: 19
 solved_users: 15
-acceptance_rate: 51.724%
-collected_at: 2026-04-18T09:51:58.383737+00:00
+acceptance_rate: "51.724%"
+collected_at: "2026-04-18T09:51:58.383737+00:00"
 ---
 
 ## 문제

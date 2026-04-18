@@ -1,13 +1,13 @@
 ---
-title: 수열과 띄엄띄엄 쿼리
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "수열과 띄엄띄엄 쿼리"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 300
 accepted: 105
 solved_users: 38
-acceptance_rate: 25.166%
-collected_at: 2026-04-17T20:19:27.612340+00:00
+acceptance_rate: "25.166%"
+collected_at: "2026-04-17T20:19:27.612340+00:00"
 ---
 
 ## 문제

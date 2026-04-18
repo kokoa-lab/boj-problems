@@ -1,13 +1,13 @@
 ---
-title: W3W (What 3 Words)
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "W3W (What 3 Words)"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 284
 accepted: 40
 solved_users: 26
-acceptance_rate: 22.414%
-collected_at: 2026-04-17T16:45:55.944064+00:00
+acceptance_rate: "22.414%"
+collected_at: "2026-04-17T16:45:55.944064+00:00"
 ---
 
 ## 문제

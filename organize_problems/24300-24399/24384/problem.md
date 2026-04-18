@@ -1,13 +1,13 @@
 ---
-title: ЗАПЛАТА
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "ЗАПЛАТА"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 164
 accepted: 93
 solved_users: 80
-acceptance_rate: 56.338%
-collected_at: 2026-04-17T17:08:32.983685+00:00
+acceptance_rate: "56.338%"
+collected_at: "2026-04-17T17:08:32.983685+00:00"
 ---
 
 ## 문제

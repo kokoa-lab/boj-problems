@@ -1,13 +1,13 @@
 ---
-title: 빌라봉 행성의 섬나라
-special_judge: false
-time_limit: 0.75 초 (추가 시간 없음)
-memory_limit: 8 MB (추가 메모리 없음)
+title: "빌라봉 행성의 섬나라"
+special_judge: "false"
+time_limit: "0.75 초 (추가 시간 없음)"
+memory_limit: "8 MB (추가 메모리 없음)"
 submissions: 252
 accepted: 98
 solved_users: 90
-acceptance_rate: 44.118%
-collected_at: 2026-04-17T16:46:11.671999+00:00
+acceptance_rate: "44.118%"
+collected_at: "2026-04-17T16:46:11.671999+00:00"
 ---
 
 ## 문제

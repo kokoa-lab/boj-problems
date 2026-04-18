@@ -1,13 +1,13 @@
 ---
-title: Yin and Yang Stones
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Yin and Yang Stones"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 217
 accepted: 176
 solved_users: 137
-acceptance_rate: 85.093%
-collected_at: 2026-04-17T13:37:00.444604+00:00
+acceptance_rate: "85.093%"
+collected_at: "2026-04-17T13:37:00.444604+00:00"
 ---
 
 ## 문제

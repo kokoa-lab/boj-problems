@@ -1,13 +1,13 @@
 ---
-title: Drone With a Camera
-special_judge: true
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 256 MB
+title: "Drone With a Camera"
+special_judge: "true"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "256 MB"
 submissions: 151
 accepted: 18
 solved_users: 14
-acceptance_rate: 20.588%
-collected_at: 2026-04-17T16:50:52.937033+00:00
+acceptance_rate: "20.588%"
+collected_at: "2026-04-17T16:50:52.937033+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Magical Well Of Lilies
-special_judge: false
-time_limit: 15 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Magical Well Of Lilies"
+special_judge: "false"
+time_limit: "15 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 47
 accepted: 24
 solved_users: 22
-acceptance_rate: 53.659%
-collected_at: 2026-04-17T17:45:44.446252+00:00
+acceptance_rate: "53.659%"
+collected_at: "2026-04-17T17:45:44.446252+00:00"
 ---
 
 ## 문제

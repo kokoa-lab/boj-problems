@@ -1,13 +1,13 @@
 ---
-title: 증가하는 부분 수열의 개수 K
-special_judge: true
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "증가하는 부분 수열의 개수 K"
+special_judge: "true"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 292
 accepted: 151
 solved_users: 108
-acceptance_rate: 48.430%
-collected_at: 2026-04-17T16:39:58.841983+00:00
+acceptance_rate: "48.430%"
+collected_at: "2026-04-17T16:39:58.841983+00:00"
 ---
 
 ## 문제

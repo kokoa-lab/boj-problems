@@ -1,13 +1,13 @@
 ---
-title: 팀들
-special_judge: false
-time_limit: 4 초
-memory_limit: 512 MB
+title: "팀들"
+special_judge: "false"
+time_limit: "4 초"
+memory_limit: "512 MB"
 submissions: 225
 accepted: 61
 solved_users: 32
-acceptance_rate: 21.918%
-collected_at: 2026-04-17T12:31:37.149920+00:00
+acceptance_rate: "21.918%"
+collected_at: "2026-04-17T12:31:37.149920+00:00"
 ---
 
 ## 문제

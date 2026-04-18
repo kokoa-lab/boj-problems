@@ -1,13 +1,13 @@
 ---
-title: 상품권 준비
-special_judge: false
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "상품권 준비"
+special_judge: "false"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 341
 accepted: 135
 solved_users: 102
-acceptance_rate: 40.476%
-collected_at: 2026-04-17T15:23:57.413729+00:00
+acceptance_rate: "40.476%"
+collected_at: "2026-04-17T15:23:57.413729+00:00"
 ---
 
 ## 문제

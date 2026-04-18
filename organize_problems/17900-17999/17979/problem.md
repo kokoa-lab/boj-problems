@@ -1,13 +1,13 @@
 ---
-title: What’s Mine is Mine
-special_judge: false
-time_limit: 0.5 초
-memory_limit: 512 MB
+title: "What’s Mine is Mine"
+special_judge: "false"
+time_limit: "0.5 초"
+memory_limit: "512 MB"
 submissions: 385
 accepted: 235
 solved_users: 200
-acceptance_rate: 68.259%
-collected_at: 2026-04-17T14:51:24.829379+00:00
+acceptance_rate: "68.259%"
+collected_at: "2026-04-17T14:51:24.829379+00:00"
 ---
 
 ## 문제

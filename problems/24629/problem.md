@@ -1,13 +1,13 @@
 ---
-title: Генерация ключей
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "Генерация ключей"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 30
 accepted: 16
 solved_users: 15
-acceptance_rate: 51.724%
-collected_at: 2026-04-17T17:12:18.930344+00:00
+acceptance_rate: "51.724%"
+collected_at: "2026-04-17T17:12:18.930344+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Hamilton
-special_judge: true
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Hamilton"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 29
 accepted: 11
 solved_users: 10
-acceptance_rate: 38.462%
-collected_at: 2026-04-17T15:16:47.013630+00:00
+acceptance_rate: "38.462%"
+collected_at: "2026-04-17T15:16:47.013630+00:00"
 ---
 
 ## 문제

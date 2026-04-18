@@ -1,13 +1,13 @@
 ---
-title: 연예인은 힘들어
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "연예인은 힘들어"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 4655
 accepted: 872
 solved_users: 581
-acceptance_rate: 16.841%
-collected_at: 2026-04-17T14:35:55.797449+00:00
+acceptance_rate: "16.841%"
+collected_at: "2026-04-17T14:35:55.797449+00:00"
 ---
 
 ## 문제

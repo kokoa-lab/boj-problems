@@ -1,13 +1,13 @@
 ---
-title: The Loathesome Hay Baler
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "The Loathesome Hay Baler"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 224
 accepted: 60
 solved_users: 49
-acceptance_rate: 29.167%
-collected_at: 2026-04-17T11:21:53.624217+00:00
+acceptance_rate: "29.167%"
+collected_at: "2026-04-17T11:21:53.624217+00:00"
 ---
 
 ## 문제

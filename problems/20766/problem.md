@@ -1,13 +1,13 @@
 ---
-title: Complicated documents
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Complicated documents"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 342
 accepted: 80
 solved_users: 68
-acceptance_rate: 24.727%
-collected_at: 2026-04-17T15:41:08.134011+00:00
+acceptance_rate: "24.727%"
+collected_at: "2026-04-17T15:41:08.134011+00:00"
 ---
 
 ## 문제

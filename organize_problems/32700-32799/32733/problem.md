@@ -1,13 +1,13 @@
 ---
-title: Sõnatrikk
-special_judge: false
-time_limit: 5 초
-memory_limit: 1024 MB
+title: "Sõnatrikk"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "1024 MB"
 submissions: 4
 accepted: 3
 solved_users: 2
-acceptance_rate: 66.667%
-collected_at: 2026-04-17T20:00:00.952841+00:00
+acceptance_rate: "66.667%"
+collected_at: "2026-04-17T20:00:00.952841+00:00"
 ---
 
 ## 문제

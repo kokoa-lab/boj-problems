@@ -1,13 +1,13 @@
 ---
-title: Bridž
-special_judge: false
-time_limit: 1 초
-memory_limit: 32 MB
+title: "Bridž"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "32 MB"
 submissions: 566
 accepted: 483
 solved_users: 442
-acceptance_rate: 90.389%
-collected_at: 2026-04-17T13:27:51.654679+00:00
+acceptance_rate: "90.389%"
+collected_at: "2026-04-17T13:27:51.654679+00:00"
 ---
 
 ## 문제

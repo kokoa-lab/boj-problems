@@ -1,13 +1,13 @@
 ---
-title: Carl's Maze-Solving Algorithm
-special_judge: false
-time_limit: 1 초
-memory_limit: 2048 MB
+title: "Carl's Maze-Solving Algorithm"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "2048 MB"
 submissions: 20
 accepted: 13
 solved_users: 11
-acceptance_rate: 61.111%
-collected_at: 2026-04-17T20:44:39.326812+00:00
+acceptance_rate: "61.111%"
+collected_at: "2026-04-17T20:44:39.326812+00:00"
 ---
 
 ## 문제

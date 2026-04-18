@@ -1,13 +1,13 @@
 ---
-title: Klavir
-special_judge: false
-time_limit: 1 초
-memory_limit: 64 MB
+title: "Klavir"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "64 MB"
 submissions: 47
 accepted: 19
 solved_users: 14
-acceptance_rate: 51.852%
-collected_at: 2026-04-17T13:32:44.714453+00:00
+acceptance_rate: "51.852%"
+collected_at: "2026-04-17T13:32:44.714453+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Joining Flows
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Joining Flows"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 72
 accepted: 40
 solved_users: 37
-acceptance_rate: 54.412%
-collected_at: 2026-04-17T15:46:38.449703+00:00
+acceptance_rate: "54.412%"
+collected_at: "2026-04-17T15:46:38.449703+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 탑
-special_judge: false
-time_limit: 1.5 초
-memory_limit: 128 MB
+title: "탑"
+special_judge: "false"
+time_limit: "1.5 초"
+memory_limit: "128 MB"
 submissions: 101572
 accepted: 37267
 solved_users: 25253
-acceptance_rate: 34.780%
-collected_at: 2026-04-17T10:42:05.181630+00:00
+acceptance_rate: "34.780%"
+collected_at: "2026-04-17T10:42:05.181630+00:00"
 ---
 
 ## 문제

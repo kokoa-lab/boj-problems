@@ -1,13 +1,13 @@
 ---
-title: 잘 알려진 합 구하기
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "잘 알려진 합 구하기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 565
 accepted: 175
 solved_users: 141
-acceptance_rate: 36.061%
-collected_at: 2026-04-17T17:10:29.937730+00:00
+acceptance_rate: "36.061%"
+collected_at: "2026-04-17T17:10:29.937730+00:00"
 ---
 
 ## 문제

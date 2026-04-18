@@ -1,13 +1,13 @@
 ---
-title: Железная дорога
-special_judge: true
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Железная дорога"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 32
 accepted: 9
 solved_users: 9
-acceptance_rate: 28.125%
-collected_at: 2026-04-17T18:36:01.772596+00:00
+acceptance_rate: "28.125%"
+collected_at: "2026-04-17T18:36:01.772596+00:00"
 ---
 
 ## 문제

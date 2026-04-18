@@ -1,13 +1,13 @@
 ---
-title: Evolution in Parallel
-special_judge: true
-time_limit: 2 초
-memory_limit: 256 MB
+title: "Evolution in Parallel"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 89
 accepted: 43
 solved_users: 42
-acceptance_rate: 48.837%
-collected_at: 2026-04-17T12:29:34.235144+00:00
+acceptance_rate: "48.837%"
+collected_at: "2026-04-17T12:29:34.235144+00:00"
 ---
 
 ## 문제

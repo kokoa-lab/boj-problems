@@ -1,13 +1,13 @@
 ---
-title: Judging Assistant for Contest
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Judging Assistant for Contest"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 95
 accepted: 37
 solved_users: 27
-acceptance_rate: 36.986%
-collected_at: 2026-04-17T17:34:16.334263+00:00
+acceptance_rate: "36.986%"
+collected_at: "2026-04-17T17:34:16.334263+00:00"
 ---
 
 ## 문제

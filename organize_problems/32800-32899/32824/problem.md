@@ -1,13 +1,13 @@
 ---
-title: New Megacity
-special_judge: false
-time_limit: 2.5 초
-memory_limit: 2048 MB
+title: "New Megacity"
+special_judge: "false"
+time_limit: "2.5 초"
+memory_limit: "2048 MB"
 submissions: 142
 accepted: 56
 solved_users: 50
-acceptance_rate: 43.103%
-collected_at: 2026-04-17T20:01:59.862914+00:00
+acceptance_rate: "43.103%"
+collected_at: "2026-04-17T20:01:59.862914+00:00"
 ---
 
 ## 문제

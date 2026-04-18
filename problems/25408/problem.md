@@ -1,13 +1,13 @@
 ---
-title: Abracadabra
-special_judge: false
-time_limit: 3 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "Abracadabra"
+special_judge: "false"
+time_limit: "3 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 59
 accepted: 22
 solved_users: 22
-acceptance_rate: 48.889%
-collected_at: 2026-04-17T17:26:17.531724+00:00
+acceptance_rate: "48.889%"
+collected_at: "2026-04-17T17:26:17.531724+00:00"
 ---
 
 ## 문제

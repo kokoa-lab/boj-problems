@@ -1,13 +1,13 @@
 ---
-title: Meats On The Grill
-special_judge: true
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Meats On The Grill"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 3367
 accepted: 2052
 solved_users: 1804
-acceptance_rate: 63.972%
-collected_at: 2026-04-17T12:20:37.559569+00:00
+acceptance_rate: "63.972%"
+collected_at: "2026-04-17T12:20:37.559569+00:00"
 ---
 
 ## 문제

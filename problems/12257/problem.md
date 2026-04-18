@@ -1,13 +1,13 @@
 ---
-title: Full Binary Tree (Large)
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Full Binary Tree (Large)"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 50
 accepted: 30
 solved_users: 28
-acceptance_rate: 65.116%
-collected_at: 2026-04-17T12:52:47.655900+00:00
+acceptance_rate: "65.116%"
+collected_at: "2026-04-17T12:52:47.655900+00:00"
 ---
 
 ## 문제

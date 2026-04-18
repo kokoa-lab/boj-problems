@@ -1,13 +1,13 @@
 ---
-title: 최소 편집 문제 2
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "최소 편집 문제 2"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 324
 accepted: 51
 solved_users: 41
-acceptance_rate: 24.551%
-collected_at: 2026-04-17T10:40:39.285195+00:00
+acceptance_rate: "24.551%"
+collected_at: "2026-04-17T10:40:39.285195+00:00"
 ---
 
 ## 문제

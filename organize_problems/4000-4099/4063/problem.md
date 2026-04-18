@@ -1,13 +1,13 @@
 ---
-title: Lemmings, Lemmings Everywhere. But Not For Long.
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Lemmings, Lemmings Everywhere. But Not For Long."
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 13
 accepted: 7
 solved_users: 6
-acceptance_rate: 60.000%
-collected_at: 2026-04-17T10:55:19.478549+00:00
+acceptance_rate: "60.000%"
+collected_at: "2026-04-17T10:55:19.478549+00:00"
 ---
 
 ## 문제

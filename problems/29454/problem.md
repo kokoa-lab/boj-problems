@@ -1,13 +1,13 @@
 ---
-title: Выражение
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Выражение"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 310
 accepted: 236
 solved_users: 214
-acceptance_rate: 76.978%
-collected_at: 2026-04-17T18:43:56.890951+00:00
+acceptance_rate: "76.978%"
+collected_at: "2026-04-17T18:43:56.890951+00:00"
 ---
 
 ## 문제

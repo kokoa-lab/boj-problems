@@ -1,13 +1,13 @@
 ---
-title: 토쟁이의 등굣길
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "토쟁이의 등굣길"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 2733
 accepted: 793
 solved_users: 669
-acceptance_rate: 30.149%
-collected_at: 2026-04-17T13:01:24.252299+00:00
+acceptance_rate: "30.149%"
+collected_at: "2026-04-17T13:01:24.252299+00:00"
 ---
 
 ## 문제

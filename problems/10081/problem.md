@@ -1,13 +1,13 @@
 ---
-title: Big Circle
-special_judge: true
-time_limit: 1 초
-memory_limit: 16 MB
+title: "Big Circle"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "16 MB"
 submissions: 91
 accepted: 45
 solved_users: 26
-acceptance_rate: 50.000%
-collected_at: 2026-04-17T12:18:46.531748+00:00
+acceptance_rate: "50.000%"
+collected_at: "2026-04-17T12:18:46.531748+00:00"
 ---
 
 ## 문제

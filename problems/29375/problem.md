@@ -1,13 +1,13 @@
 ---
-title: Реагенты
-special_judge: true
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Реагенты"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 83
 accepted: 55
 solved_users: 48
-acceptance_rate: 71.642%
-collected_at: 2026-04-17T18:41:31.798983+00:00
+acceptance_rate: "71.642%"
+collected_at: "2026-04-17T18:41:31.798983+00:00"
 ---
 
 ## 문제

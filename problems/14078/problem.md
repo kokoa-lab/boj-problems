@@ -1,13 +1,13 @@
 ---
-title: Piramida
-special_judge: false
-time_limit: 4 초
-memory_limit: 512 MB
+title: "Piramida"
+special_judge: "false"
+time_limit: "4 초"
+memory_limit: "512 MB"
 submissions: 9
 accepted: 2
 solved_users: 2
-acceptance_rate: 66.667%
-collected_at: 2026-04-17T13:25:21.414029+00:00
+acceptance_rate: "66.667%"
+collected_at: "2026-04-17T13:25:21.414029+00:00"
 ---
 
 ## 문제

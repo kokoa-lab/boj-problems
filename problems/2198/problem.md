@@ -1,13 +1,13 @@
 ---
-title: 버스와 손님
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "버스와 손님"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 145
 accepted: 51
 solved_users: 38
-acceptance_rate: 37.624%
-collected_at: 2026-04-17T10:39:25.657942+00:00
+acceptance_rate: "37.624%"
+collected_at: "2026-04-17T10:39:25.657942+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 디버그
-special_judge: false
-time_limit: 5 초
-memory_limit: 128 MB
+title: "디버그"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "128 MB"
 submissions: 523
 accepted: 182
 solved_users: 130
-acceptance_rate: 34.759%
-collected_at: 2026-04-17T10:33:03.146831+00:00
+acceptance_rate: "34.759%"
+collected_at: "2026-04-17T10:33:03.146831+00:00"
 ---
 
 ## 문제

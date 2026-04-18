@@ -1,13 +1,13 @@
 ---
-title: 결합
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "결합"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 373
 accepted: 248
 solved_users: 206
-acceptance_rate: 67.987%
-collected_at: 2026-04-17T17:10:48.447548+00:00
+acceptance_rate: "67.987%"
+collected_at: "2026-04-17T17:10:48.447548+00:00"
 ---
 
 ## 문제

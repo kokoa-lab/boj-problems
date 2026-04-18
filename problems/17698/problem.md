@@ -1,13 +1,13 @@
 ---
-title: Long Distance Coach
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "Long Distance Coach"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 47
 accepted: 25
 solved_users: 22
-acceptance_rate: 61.111%
-collected_at: 2026-04-17T14:45:49.776710+00:00
+acceptance_rate: "61.111%"
+collected_at: "2026-04-17T14:45:49.776710+00:00"
 ---
 
 ## 문제

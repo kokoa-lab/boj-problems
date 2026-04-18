@@ -1,13 +1,13 @@
 ---
-title: NFC West vs North
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "NFC West vs North"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 21743
 accepted: 15903
 solved_users: 14972
-acceptance_rate: 74.808%
-collected_at: 2026-04-17T12:19:57.397464+00:00
+acceptance_rate: "74.808%"
+collected_at: "2026-04-17T12:19:57.397464+00:00"
 ---
 
 ## 문제

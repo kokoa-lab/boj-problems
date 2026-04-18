@@ -1,13 +1,13 @@
 ---
-title: ぶりしゃぶしゃぶり部
-special_judge: false
-time_limit: 8 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "ぶりしゃぶしゃぶり部"
+special_judge: "false"
+time_limit: "8 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 18
 accepted: 9
 solved_users: 8
-acceptance_rate: 57.143%
-collected_at: 2026-04-17T17:05:32.391764+00:00
+acceptance_rate: "57.143%"
+collected_at: "2026-04-17T17:05:32.391764+00:00"
 ---
 
 ## 문제

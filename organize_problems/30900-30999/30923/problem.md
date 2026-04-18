@@ -1,13 +1,13 @@
 ---
-title: 크냑과 3D 프린터
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "크냑과 3D 프린터"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 982
 accepted: 565
 solved_users: 509
-acceptance_rate: 60.308%
-collected_at: 2026-04-17T19:18:12.068592+00:00
+acceptance_rate: "60.308%"
+collected_at: "2026-04-17T19:18:12.068592+00:00"
 ---
 
 ## 문제

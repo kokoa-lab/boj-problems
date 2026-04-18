@@ -1,13 +1,13 @@
 ---
-title: The Eating Puzzle
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "The Eating Puzzle"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 479
 accepted: 330
 solved_users: 285
-acceptance_rate: 71.072%
-collected_at: 2026-04-17T11:22:46.061339+00:00
+acceptance_rate: "71.072%"
+collected_at: "2026-04-17T11:22:46.061339+00:00"
 ---
 
 ## 문제

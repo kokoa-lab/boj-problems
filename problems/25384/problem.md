@@ -1,13 +1,13 @@
 ---
-title: 니은숲 예술가
-special_judge: false
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "니은숲 예술가"
+special_judge: "false"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 336
 accepted: 125
 solved_users: 67
-acceptance_rate: 31.455%
-collected_at: 2026-04-17T17:25:56.426452+00:00
+acceptance_rate: "31.455%"
+collected_at: "2026-04-17T17:25:56.426452+00:00"
 ---
 
 ## 문제

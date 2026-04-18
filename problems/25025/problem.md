@@ -1,13 +1,13 @@
 ---
-title: 다항식 계산
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "다항식 계산"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 458
 accepted: 173
 solved_users: 128
-acceptance_rate: 36.261%
-collected_at: 2026-04-17T17:18:57.532690+00:00
+acceptance_rate: "36.261%"
+collected_at: "2026-04-17T17:18:57.532690+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 가장 많은 글자
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "가장 많은 글자"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 17031
 accepted: 6778
 solved_users: 5739
-acceptance_rate: 41.772%
-collected_at: 2026-04-17T10:29:43.629143+00:00
+acceptance_rate: "41.772%"
+collected_at: "2026-04-17T10:29:43.629143+00:00"
 ---
 
 ## 문제

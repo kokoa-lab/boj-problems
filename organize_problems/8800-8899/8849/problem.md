@@ -1,13 +1,13 @@
 ---
-title: Eksperyment
-special_judge: true
-time_limit: 3 초
-memory_limit: 128 MB
+title: "Eksperyment"
+special_judge: "true"
+time_limit: "3 초"
+memory_limit: "128 MB"
 submissions: 26
 accepted: 17
 solved_users: 8
-acceptance_rate: 57.143%
-collected_at: 2026-04-17T12:04:03.436895+00:00
+acceptance_rate: "57.143%"
+collected_at: "2026-04-17T12:04:03.436895+00:00"
 ---
 
 ## 문제

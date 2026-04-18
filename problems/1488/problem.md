@@ -1,13 +1,13 @@
 ---
-title: 숌트링
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "숌트링"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 622
 accepted: 114
 solved_users: 96
-acceptance_rate: 20.168%
-collected_at: 2026-04-17T10:30:33.191837+00:00
+acceptance_rate: "20.168%"
+collected_at: "2026-04-17T10:30:33.191837+00:00"
 ---
 
 ## 문제

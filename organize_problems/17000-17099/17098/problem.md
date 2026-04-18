@@ -1,13 +1,13 @@
 ---
-title: Boomerangs
-special_judge: false
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "Boomerangs"
+special_judge: "false"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 130
 accepted: 23
 solved_users: 18
-acceptance_rate: 18.182%
-collected_at: 2026-04-17T14:29:36.481884+00:00
+acceptance_rate: "18.182%"
+collected_at: "2026-04-17T14:29:36.481884+00:00"
 ---
 
 ## 문제

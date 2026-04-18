@@ -1,13 +1,13 @@
 ---
-title: Telephone Network
-special_judge: true
-time_limit: 2 초
-memory_limit: 128 MB
+title: "Telephone Network"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 27
 accepted: 9
 solved_users: 5
-acceptance_rate: 22.727%
-collected_at: 2026-04-17T10:50:46.718250+00:00
+acceptance_rate: "22.727%"
+collected_at: "2026-04-17T10:50:46.718250+00:00"
 ---
 
 ## 문제

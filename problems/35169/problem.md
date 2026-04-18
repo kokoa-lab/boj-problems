@@ -1,13 +1,13 @@
 ---
-title: Count DFS Graph
-special_judge: false
-time_limit: 1 초
-memory_limit: 2048 MB
+title: "Count DFS Graph"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "2048 MB"
 submissions: 13
 accepted: 10
 solved_users: 10
-acceptance_rate: 76.923%
-collected_at: 2026-04-17T20:57:09.854250+00:00
+acceptance_rate: "76.923%"
+collected_at: "2026-04-17T20:57:09.854250+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 벌점 (DemeritPoints)
-special_judge: false
-time_limit: 0.1 초 (추가 시간 없음)
-memory_limit: 32 MB
+title: "벌점 (DemeritPoints)"
+special_judge: "false"
+time_limit: "0.1 초 (추가 시간 없음)"
+memory_limit: "32 MB"
 submissions: 508
 accepted: 268
 solved_users: 234
-acceptance_rate: 59.241%
-collected_at: 2026-04-17T14:11:56.642474+00:00
+acceptance_rate: "59.241%"
+collected_at: "2026-04-17T14:11:56.642474+00:00"
 ---
 
 ## 문제

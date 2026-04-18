@@ -1,13 +1,13 @@
 ---
-title: 그리드 복원
-special_judge: false
-time_limit: 3 초
-memory_limit: 2048 MB
+title: "그리드 복원"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "2048 MB"
 submissions: 136
 accepted: 32
 solved_users: 29
-acceptance_rate: 32.222%
-collected_at: 2026-04-17T20:13:34.288963+00:00
+acceptance_rate: "32.222%"
+collected_at: "2026-04-17T20:13:34.288963+00:00"
 ---
 
 ## 문제

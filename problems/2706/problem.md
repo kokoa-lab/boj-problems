@@ -1,13 +1,13 @@
 ---
-title: 문자 보내기
-special_judge: true
-time_limit: 1 초
-memory_limit: 128 MB
+title: "문자 보내기"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 63
 accepted: 12
 solved_users: 12
-acceptance_rate: 30.769%
-collected_at: 2026-04-17T10:44:08.363401+00:00
+acceptance_rate: "30.769%"
+collected_at: "2026-04-17T10:44:08.363401+00:00"
 ---
 
 ## 문제

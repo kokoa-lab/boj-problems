@@ -1,13 +1,13 @@
 ---
-title: A Game with Grundy
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "A Game with Grundy"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 52
 accepted: 25
 solved_users: 25
-acceptance_rate: 59.524%
-collected_at: 2026-04-17T15:24:52.576803+00:00
+acceptance_rate: "59.524%"
+collected_at: "2026-04-17T15:24:52.576803+00:00"
 ---
 
 ## 문제

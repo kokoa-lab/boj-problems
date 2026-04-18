@@ -1,13 +1,13 @@
 ---
-title: SSB Tournament
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "SSB Tournament"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 17
 accepted: 7
 solved_users: 7
-acceptance_rate: 77.778%
-collected_at: 2026-04-17T15:40:31.982620+00:00
+acceptance_rate: "77.778%"
+collected_at: "2026-04-17T15:40:31.982620+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 2circles
-special_judge: true
-time_limit: 4 초
-memory_limit: 128 MB
+title: "2circles"
+special_judge: "true"
+time_limit: "4 초"
+memory_limit: "128 MB"
 submissions: 706
 accepted: 147
 solved_users: 92
-acceptance_rate: 16.547%
-collected_at: 2026-04-17T11:12:42.353047+00:00
+acceptance_rate: "16.547%"
+collected_at: "2026-04-17T11:12:42.353047+00:00"
 ---
 
 ## 문제

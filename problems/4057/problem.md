@@ -1,13 +1,13 @@
 ---
-title: Tanks a Lot
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Tanks a Lot"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 7
 accepted: 4
 solved_users: 2
-acceptance_rate: 100.000%
-collected_at: 2026-04-17T10:55:15.125856+00:00
+acceptance_rate: "100.000%"
+collected_at: "2026-04-17T10:55:15.125856+00:00"
 ---
 
 ## 문제

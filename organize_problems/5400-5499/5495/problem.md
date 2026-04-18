@@ -1,13 +1,13 @@
 ---
-title: Amazing Robots
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Amazing Robots"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 6
 accepted: 2
 solved_users: 2
-acceptance_rate: 33.333%
-collected_at: 2026-04-17T11:14:40.330019+00:00
+acceptance_rate: "33.333%"
+collected_at: "2026-04-17T11:14:40.330019+00:00"
 ---
 
 ## 문제

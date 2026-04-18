@@ -1,13 +1,13 @@
 ---
-title: Placing Medals on a Binary Tree
-special_judge: false
-time_limit: 4 초
-memory_limit: 512 MB
+title: "Placing Medals on a Binary Tree"
+special_judge: "false"
+time_limit: "4 초"
+memory_limit: "512 MB"
 submissions: 102
 accepted: 49
 solved_users: 45
-acceptance_rate: 50.562%
-collected_at: 2026-04-17T13:12:53.070487+00:00
+acceptance_rate: "50.562%"
+collected_at: "2026-04-17T13:12:53.070487+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Letter Replacement
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Letter Replacement"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 209
 accepted: 106
 solved_users: 93
-acceptance_rate: 56.024%
-collected_at: 2026-04-17T11:11:26.305004+00:00
+acceptance_rate: "56.024%"
+collected_at: "2026-04-17T11:11:26.305004+00:00"
 ---
 
 ## 문제

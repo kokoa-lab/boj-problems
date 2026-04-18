@@ -1,13 +1,13 @@
 ---
-title: 호석사우루스
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "호석사우루스"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 910
 accepted: 398
 solved_users: 297
-acceptance_rate: 42.008%
-collected_at: 2026-04-17T16:17:57.578400+00:00
+acceptance_rate: "42.008%"
+collected_at: "2026-04-17T16:17:57.578400+00:00"
 ---
 
 ## 문제

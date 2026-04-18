@@ -1,13 +1,13 @@
 ---
-title: 간단한 트리 문제
-special_judge: false
-time_limit: 8 초
-memory_limit: 1024 MB
+title: "간단한 트리 문제"
+special_judge: "false"
+time_limit: "8 초"
+memory_limit: "1024 MB"
 submissions: 32
 accepted: 16
 solved_users: 6
-acceptance_rate: 28.571%
-collected_at: 2026-04-17T16:53:27.979506+00:00
+acceptance_rate: "28.571%"
+collected_at: "2026-04-17T16:53:27.979506+00:00"
 ---
 
 ## 문제

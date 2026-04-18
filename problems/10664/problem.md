@@ -1,13 +1,13 @@
 ---
-title: Counting 1's
-special_judge: false
-time_limit: 8 초 (추가 시간 없음)
-memory_limit: 256 MB
+title: "Counting 1's"
+special_judge: "false"
+time_limit: "8 초 (추가 시간 없음)"
+memory_limit: "256 MB"
 submissions: 49
 accepted: 16
 solved_users: 9
-acceptance_rate: 22.500%
-collected_at: 2026-04-17T12:27:05.596479+00:00
+acceptance_rate: "22.500%"
+collected_at: "2026-04-17T12:27:05.596479+00:00"
 ---
 
 ## 문제

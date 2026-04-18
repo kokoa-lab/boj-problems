@@ -1,13 +1,13 @@
 ---
-title: Safety in Numbers (Small)
-special_judge: true
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Safety in Numbers (Small)"
+special_judge: "true"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 39
 accepted: 26
 solved_users: 24
-acceptance_rate: 66.667%
-collected_at: 2026-04-17T12:54:36.728200+00:00
+acceptance_rate: "66.667%"
+collected_at: "2026-04-17T12:54:36.728200+00:00"
 ---
 
 ## 문제

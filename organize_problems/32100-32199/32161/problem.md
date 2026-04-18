@@ -1,13 +1,13 @@
 ---
-title: 축지법
-special_judge: false
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "축지법"
+special_judge: "false"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 539
 accepted: 91
 solved_users: 70
-acceptance_rate: 19.337%
-collected_at: 2026-04-17T19:44:28.465771+00:00
+acceptance_rate: "19.337%"
+collected_at: "2026-04-17T19:44:28.465771+00:00"
 ---
 
 ## 문제

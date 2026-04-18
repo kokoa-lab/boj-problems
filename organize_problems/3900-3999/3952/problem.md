@@ -1,13 +1,13 @@
 ---
-title: Mystery
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Mystery"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 184
 accepted: 98
 solved_users: 82
-acceptance_rate: 55.034%
-collected_at: 2026-04-17T10:53:41.493038+00:00
+acceptance_rate: "55.034%"
+collected_at: "2026-04-17T10:53:41.493038+00:00"
 ---
 
 ## 입력

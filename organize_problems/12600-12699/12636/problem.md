@@ -1,13 +1,13 @@
 ---
-title: Watering Plants (Large)
-special_judge: true
-time_limit: 60 초
-memory_limit: 512 MB
+title: "Watering Plants (Large)"
+special_judge: "true"
+time_limit: "60 초"
+memory_limit: "512 MB"
 submissions: 130
 accepted: 58
 solved_users: 14
-acceptance_rate: 37.838%
-collected_at: 2026-04-17T12:58:48.879892+00:00
+acceptance_rate: "37.838%"
+collected_at: "2026-04-17T12:58:48.879892+00:00"
 ---
 
 ## 문제

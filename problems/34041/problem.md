@@ -1,13 +1,13 @@
 ---
-title: 회전체와 쿼리
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "회전체와 쿼리"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 290
 accepted: 52
 solved_users: 27
-acceptance_rate: 13.433%
-collected_at: 2026-04-17T20:29:17.800717+00:00
+acceptance_rate: "13.433%"
+collected_at: "2026-04-17T20:29:17.800717+00:00"
 ---
 
 ## 문제

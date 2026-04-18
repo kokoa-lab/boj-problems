@@ -1,13 +1,13 @@
 ---
-title: Текстовый редактор
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "Текстовый редактор"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 9
 accepted: 1
 solved_users: 1
-acceptance_rate: 33.333%
-collected_at: 2026-04-17T16:16:13.229750+00:00
+acceptance_rate: "33.333%"
+collected_at: "2026-04-17T16:16:13.229750+00:00"
 ---
 
 ## 문제

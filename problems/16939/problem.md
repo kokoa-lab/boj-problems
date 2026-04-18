@@ -1,13 +1,13 @@
 ---
-title: 2×2×2 큐브
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "2×2×2 큐브"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 2317
 accepted: 1002
 solved_users: 749
-acceptance_rate: 41.727%
-collected_at: 2026-04-17T14:26:31.395037+00:00
+acceptance_rate: "41.727%"
+collected_at: "2026-04-17T14:26:31.395037+00:00"
 ---
 
 ## 문제

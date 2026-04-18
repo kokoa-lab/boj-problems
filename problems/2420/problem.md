@@ -1,13 +1,13 @@
 ---
-title: 사파리월드
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "사파리월드"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 94201
 accepted: 43570
 solved_users: 39492
-acceptance_rate: 46.587%
-collected_at: 2026-04-17T10:41:28.585363+00:00
+acceptance_rate: "46.587%"
+collected_at: "2026-04-17T10:41:28.585363+00:00"
 ---
 
 ## 문제

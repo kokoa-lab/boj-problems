@@ -1,13 +1,13 @@
 ---
-title: MO
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "MO"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 276
 accepted: 132
 solved_users: 107
-acceptance_rate: 51.691%
-collected_at: 2026-04-17T10:47:29.963946+00:00
+acceptance_rate: "51.691%"
+collected_at: "2026-04-17T10:47:29.963946+00:00"
 ---
 
 ## 문제

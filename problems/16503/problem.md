@@ -1,13 +1,13 @@
 ---
-title: 괄호 없는 사칙연산
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "괄호 없는 사칙연산"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 2426
 accepted: 1388
 solved_users: 1248
-acceptance_rate: 58.979%
-collected_at: 2026-04-17T14:19:08.079230+00:00
+acceptance_rate: "58.979%"
+collected_at: "2026-04-17T14:19:08.079230+00:00"
 ---
 
 ## 문제

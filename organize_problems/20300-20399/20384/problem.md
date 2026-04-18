@@ -1,13 +1,13 @@
 ---
-title: Dart-a-Mania
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Dart-a-Mania"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 51
 accepted: 38
 solved_users: 26
-acceptance_rate: 78.788%
-collected_at: 2026-04-17T15:35:50.656447+00:00
+acceptance_rate: "78.788%"
+collected_at: "2026-04-17T15:35:50.656447+00:00"
 ---
 
 ## 문제

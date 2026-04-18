@@ -1,13 +1,13 @@
 ---
-title: Fortune From Folly
-special_judge: true
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Fortune From Folly"
+special_judge: "true"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 60
 accepted: 37
 solved_users: 30
-acceptance_rate: 85.714%
-collected_at: 2026-04-17T16:45:21.308774+00:00
+acceptance_rate: "85.714%"
+collected_at: "2026-04-17T16:45:21.308774+00:00"
 ---
 
 ## 문제

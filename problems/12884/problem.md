@@ -1,13 +1,13 @@
 ---
-title: A Lot of Games
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "A Lot of Games"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 54
 accepted: 13
 solved_users: 12
-acceptance_rate: 29.268%
-collected_at: 2026-04-17T13:03:18.501894+00:00
+acceptance_rate: "29.268%"
+collected_at: "2026-04-17T13:03:18.501894+00:00"
 ---
 
 ## 문제

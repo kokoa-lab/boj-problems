@@ -1,13 +1,13 @@
 ---
-title: Space Ant
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Space Ant"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 30
 accepted: 15
 solved_users: 14
-acceptance_rate: 50.000%
-collected_at: 2026-04-17T11:48:28.380361+00:00
+acceptance_rate: "50.000%"
+collected_at: "2026-04-17T11:48:28.380361+00:00"
 ---
 
 ## 문제

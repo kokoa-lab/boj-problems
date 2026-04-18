@@ -1,13 +1,13 @@
 ---
-title: 도비의 영어 공부
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "도비의 영어 공부"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 6758
 accepted: 3964
 solved_users: 3542
-acceptance_rate: 60.495%
-collected_at: 2026-04-17T10:41:14.500468+00:00
+acceptance_rate: "60.495%"
+collected_at: "2026-04-17T10:41:14.500468+00:00"
 ---
 
 ## 문제

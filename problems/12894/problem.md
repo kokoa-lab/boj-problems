@@ -1,13 +1,13 @@
 ---
-title: Equivalent Strings
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Equivalent Strings"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 211
 accepted: 75
 solved_users: 55
-acceptance_rate: 42.969%
-collected_at: 2026-04-17T13:03:26.270626+00:00
+acceptance_rate: "42.969%"
+collected_at: "2026-04-17T13:03:26.270626+00:00"
 ---
 
 ## 문제

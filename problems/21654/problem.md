@@ -1,13 +1,13 @@
 ---
-title: Школа олимпийского резерва
-special_judge: true
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Школа олимпийского резерва"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 71
 accepted: 10
 solved_users: 7
-acceptance_rate: 31.818%
-collected_at: 2026-04-17T16:02:36.912284+00:00
+acceptance_rate: "31.818%"
+collected_at: "2026-04-17T16:02:36.912284+00:00"
 ---
 
 ## 문제

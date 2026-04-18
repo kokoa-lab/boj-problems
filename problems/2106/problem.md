@@ -1,13 +1,13 @@
 ---
-title: 흑염소 감금하기
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "흑염소 감금하기"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 87
 accepted: 65
 solved_users: 20
-acceptance_rate: 52.632%
-collected_at: 2026-04-17T10:38:23.117484+00:00
+acceptance_rate: "52.632%"
+collected_at: "2026-04-17T10:38:23.117484+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 이진트리 그리기
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "이진트리 그리기"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 23
 accepted: 6
 solved_users: 5
-acceptance_rate: 38.462%
-collected_at: 2026-04-17T10:41:07.546292+00:00
+acceptance_rate: "38.462%"
+collected_at: "2026-04-17T10:41:07.546292+00:00"
 ---
 
 ## 문제

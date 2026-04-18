@@ -1,13 +1,13 @@
 ---
-title: Aerobatics - 1
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Aerobatics - 1"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 61
 accepted: 22
 solved_users: 22
-acceptance_rate: 43.137%
-collected_at: 2026-04-17T16:07:43.284506+00:00
+acceptance_rate: "43.137%"
+collected_at: "2026-04-17T16:07:43.284506+00:00"
 ---
 
 ## 문제

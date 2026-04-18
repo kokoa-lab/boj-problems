@@ -1,13 +1,13 @@
 ---
-title: Ducky Debugging
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Ducky Debugging"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 695
 accepted: 297
 solved_users: 210
-acceptance_rate: 43.841%
-collected_at: 2026-04-17T15:33:12.266532+00:00
+acceptance_rate: "43.841%"
+collected_at: "2026-04-17T15:33:12.266532+00:00"
 ---
 
 ## 문제

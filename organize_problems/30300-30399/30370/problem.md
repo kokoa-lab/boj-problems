@@ -1,13 +1,13 @@
 ---
-title: Gacha 101
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Gacha 101"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 23
 accepted: 19
 solved_users: 18
-acceptance_rate: 81.818%
-collected_at: 2026-04-17T19:05:12.049647+00:00
+acceptance_rate: "81.818%"
+collected_at: "2026-04-17T19:05:12.049647+00:00"
 ---
 
 ## 문제

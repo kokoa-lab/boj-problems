@@ -1,13 +1,13 @@
 ---
-title: Keys
-special_judge: true
-time_limit: 4 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Keys"
+special_judge: "true"
+time_limit: "4 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 33
 accepted: 12
 solved_users: 11
-acceptance_rate: 40.741%
-collected_at: 2026-04-17T19:18:48.298970+00:00
+acceptance_rate: "40.741%"
+collected_at: "2026-04-17T19:18:48.298970+00:00"
 ---
 
 ## 문제

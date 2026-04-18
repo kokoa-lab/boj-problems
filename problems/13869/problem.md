@@ -1,13 +1,13 @@
 ---
-title: Dating On-Line
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Dating On-Line"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 210
 accepted: 136
 solved_users: 121
-acceptance_rate: 66.120%
-collected_at: 2026-04-17T13:21:04.662655+00:00
+acceptance_rate: "66.120%"
+collected_at: "2026-04-17T13:21:04.662655+00:00"
 ---
 
 ## 문제

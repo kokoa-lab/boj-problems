@@ -1,13 +1,13 @@
 ---
-title: Autobiography
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Autobiography"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 21
 accepted: 14
 solved_users: 13
-acceptance_rate: 72.222%
-collected_at: 2026-04-17T19:21:30.390134+00:00
+acceptance_rate: "72.222%"
+collected_at: "2026-04-17T19:21:30.390134+00:00"
 ---
 
 ## 문제

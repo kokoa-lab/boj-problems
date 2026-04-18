@@ -1,13 +1,13 @@
 ---
-title: Спрятать заложницу
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Спрятать заложницу"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 7
 accepted: 6
 solved_users: 6
-acceptance_rate: 85.714%
-collected_at: 2026-04-17T18:28:51.941704+00:00
+acceptance_rate: "85.714%"
+collected_at: "2026-04-17T18:28:51.941704+00:00"
 ---
 
 ## 문제

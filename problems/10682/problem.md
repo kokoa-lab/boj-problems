@@ -1,13 +1,13 @@
 ---
-title: Everlasting -One-
-special_judge: false
-time_limit: 8 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "Everlasting -One-"
+special_judge: "false"
+time_limit: "8 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 53
 accepted: 26
 solved_users: 21
-acceptance_rate: 53.846%
-collected_at: 2026-04-17T12:27:23.472422+00:00
+acceptance_rate: "53.846%"
+collected_at: "2026-04-17T12:27:23.472422+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 행복한 수
-special_judge: true
-time_limit: 0.5 초
-memory_limit: 64 MB
+title: "행복한 수"
+special_judge: "true"
+time_limit: "0.5 초"
+memory_limit: "64 MB"
 submissions: 270
 accepted: 46
 solved_users: 33
-acceptance_rate: 17.010%
-collected_at: 2026-04-17T12:48:12.770053+00:00
+acceptance_rate: "17.010%"
+collected_at: "2026-04-17T12:48:12.770053+00:00"
 ---
 
 ## 문제

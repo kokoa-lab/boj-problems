@@ -1,13 +1,13 @@
 ---
-title: All in good fun!
-special_judge: true
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "All in good fun!"
+special_judge: "true"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 19
 accepted: 14
 solved_users: 13
-acceptance_rate: 92.857%
-collected_at: 2026-04-17T16:48:47.696167+00:00
+acceptance_rate: "92.857%"
+collected_at: "2026-04-17T16:48:47.696167+00:00"
 ---
 
 ## 문제

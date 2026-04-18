@@ -1,13 +1,13 @@
 ---
-title: Working at the Restaurant
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Working at the Restaurant"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 133
 accepted: 37
 solved_users: 34
-acceptance_rate: 29.310%
-collected_at: 2026-04-17T10:52:36.182410+00:00
+acceptance_rate: "29.310%"
+collected_at: "2026-04-17T10:52:36.182410+00:00"
 ---
 
 ## 문제

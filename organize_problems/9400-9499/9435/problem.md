@@ -1,13 +1,13 @@
 ---
-title: Welcome Party
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Welcome Party"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 101
 accepted: 41
 solved_users: 37
-acceptance_rate: 44.578%
-collected_at: 2026-04-17T12:09:49.545232+00:00
+acceptance_rate: "44.578%"
+collected_at: "2026-04-17T12:09:49.545232+00:00"
 ---
 
 ## 문제

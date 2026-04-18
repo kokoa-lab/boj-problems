@@ -1,13 +1,13 @@
 ---
-title: Audi
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Audi"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 22
 accepted: 11
 solved_users: 9
-acceptance_rate: 56.250%
-collected_at: 2026-04-17T17:21:44.324817+00:00
+acceptance_rate: "56.250%"
+collected_at: "2026-04-17T17:21:44.324817+00:00"
 ---
 
 ## 문제

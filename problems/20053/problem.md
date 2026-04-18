@@ -1,13 +1,13 @@
 ---
-title: 최소, 최대 2
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "최소, 최대 2"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 7106
 accepted: 4303
 solved_users: 3533
-acceptance_rate: 61.135%
-collected_at: 2026-04-17T15:30:59.939675+00:00
+acceptance_rate: "61.135%"
+collected_at: "2026-04-17T15:30:59.939675+00:00"
 ---
 
 ## 문제

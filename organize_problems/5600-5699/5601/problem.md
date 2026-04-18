@@ -1,13 +1,13 @@
 ---
-title: 通学経路
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "通学経路"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 108
 accepted: 72
 solved_users: 71
-acceptance_rate: 68.932%
-collected_at: 2026-04-17T11:15:54.200902+00:00
+acceptance_rate: "68.932%"
+collected_at: "2026-04-17T11:15:54.200902+00:00"
 ---
 
 ## 문제

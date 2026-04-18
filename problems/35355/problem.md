@@ -1,13 +1,13 @@
 ---
-title: Blind Bottles
-special_judge: false
-time_limit: 1 초
-memory_limit: 2048 MB
+title: "Blind Bottles"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "2048 MB"
 submissions: 7
 accepted: 4
 solved_users: 4
-acceptance_rate: 66.667%
-collected_at: 2026-04-18T09:51:42.591218+00:00
+acceptance_rate: "66.667%"
+collected_at: "2026-04-18T09:51:42.591218+00:00"
 ---
 
 ## 문제

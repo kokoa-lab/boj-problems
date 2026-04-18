@@ -1,13 +1,13 @@
 ---
-title: 극적인 곱셈
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "극적인 곱셈"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 803
 accepted: 244
 solved_users: 186
-acceptance_rate: 32.069%
-collected_at: 2026-04-17T10:36:39.752402+00:00
+acceptance_rate: "32.069%"
+collected_at: "2026-04-17T10:36:39.752402+00:00"
 ---
 
 ## 문제

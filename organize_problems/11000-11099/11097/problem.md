@@ -1,13 +1,13 @@
 ---
-title: 도시 계획
-special_judge: true
-time_limit: 2 초
-memory_limit: 256 MB
+title: "도시 계획"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 1376
 accepted: 422
 solved_users: 284
-acceptance_rate: 28.600%
-collected_at: 2026-04-17T12:36:28.683031+00:00
+acceptance_rate: "28.600%"
+collected_at: "2026-04-17T12:36:28.683031+00:00"
 ---
 
 ## 문제

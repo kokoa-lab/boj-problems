@@ -1,13 +1,13 @@
 ---
-title: キャピタリゼーション (Capitalization)
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "キャピタリゼーション (Capitalization)"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 375
 accepted: 316
 solved_users: 291
-acceptance_rate: 84.840%
-collected_at: 2026-04-18T09:50:59.579518+00:00
+acceptance_rate: "84.840%"
+collected_at: "2026-04-18T09:50:59.579518+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Trucking
-special_judge: false
-time_limit: 3 초
-memory_limit: 128 MB
+title: "Trucking"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "128 MB"
 submissions: 19
 accepted: 7
 solved_users: 7
-acceptance_rate: 46.667%
-collected_at: 2026-04-17T11:09:12.033275+00:00
+acceptance_rate: "46.667%"
+collected_at: "2026-04-17T11:09:12.033275+00:00"
 ---
 
 ## 문제

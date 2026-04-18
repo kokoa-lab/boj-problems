@@ -1,13 +1,13 @@
 ---
-title: International Irregularities
-special_judge: false
-time_limit: 3 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "International Irregularities"
+special_judge: "false"
+time_limit: "3 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 60
 accepted: 14
 solved_users: 14
-acceptance_rate: 29.167%
-collected_at: 2026-04-17T19:07:59.199264+00:00
+acceptance_rate: "29.167%"
+collected_at: "2026-04-17T19:07:59.199264+00:00"
 ---
 
 ## 문제

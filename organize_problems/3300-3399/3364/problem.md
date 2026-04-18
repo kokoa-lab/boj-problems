@@ -1,13 +1,13 @@
 ---
-title: Escape
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Escape"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 57
 accepted: 30
 solved_users: 26
-acceptance_rate: 55.319%
-collected_at: 2026-04-17T10:48:26.673059+00:00
+acceptance_rate: "55.319%"
+collected_at: "2026-04-17T10:48:26.673059+00:00"
 ---
 
 ## 문제

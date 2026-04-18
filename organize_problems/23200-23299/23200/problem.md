@@ -1,13 +1,13 @@
 ---
-title: Quests
-special_judge: false
-time_limit: 10 초 (추가 시간 없음)
-memory_limit: 2048 MB
+title: "Quests"
+special_judge: "false"
+time_limit: "10 초 (추가 시간 없음)"
+memory_limit: "2048 MB"
 submissions: 97
 accepted: 37
 solved_users: 29
-acceptance_rate: 39.726%
-collected_at: 2026-04-17T16:43:58.293444+00:00
+acceptance_rate: "39.726%"
+collected_at: "2026-04-17T16:43:58.293444+00:00"
 ---
 
 ## 문제

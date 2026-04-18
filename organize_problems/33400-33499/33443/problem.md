@@ -1,13 +1,13 @@
 ---
-title: Deep Abyss
-special_judge: false
-time_limit: 1 초
-memory_limit: 2048 MB
+title: "Deep Abyss"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "2048 MB"
 submissions: 72
 accepted: 5
 solved_users: 4
-acceptance_rate: 5.634%
-collected_at: 2026-04-17T20:16:03.280478+00:00
+acceptance_rate: "5.634%"
+collected_at: "2026-04-17T20:16:03.280478+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 이게 게임이냐?
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "이게 게임이냐?"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 151
 accepted: 45
 solved_users: 21
-acceptance_rate: 20.588%
-collected_at: 2026-04-17T17:48:42.230570+00:00
+acceptance_rate: "20.588%"
+collected_at: "2026-04-17T17:48:42.230570+00:00"
 ---
 
 ## 문제

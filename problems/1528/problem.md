@@ -1,13 +1,13 @@
 ---
-title: 금민수의 합
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "금민수의 합"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 1854
 accepted: 463
 solved_users: 341
-acceptance_rate: 26.516%
-collected_at: 2026-04-17T10:30:53.925980+00:00
+acceptance_rate: "26.516%"
+collected_at: "2026-04-17T10:30:53.925980+00:00"
 ---
 
 ## 문제

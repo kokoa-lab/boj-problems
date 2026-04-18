@@ -1,13 +1,13 @@
 ---
-title: 구간이 이븐하지 않아요.
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "구간이 이븐하지 않아요."
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 431
 accepted: 137
 solved_users: 113
-acceptance_rate: 33.235%
-collected_at: 2026-04-17T20:10:24.933046+00:00
+acceptance_rate: "33.235%"
+collected_at: "2026-04-17T20:10:24.933046+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Regions
-special_judge: false
-time_limit: 30 초
-memory_limit: 512 MB
+title: "Regions"
+special_judge: "false"
+time_limit: "30 초"
+memory_limit: "512 MB"
 submissions: 159
 accepted: 45
 solved_users: 27
-acceptance_rate: 27.835%
-collected_at: 2026-04-17T16:19:00.044979+00:00
+acceptance_rate: "27.835%"
+collected_at: "2026-04-17T16:19:00.044979+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Galactic Import
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Galactic Import"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 36
 accepted: 25
 solved_users: 20
-acceptance_rate: 74.074%
-collected_at: 2026-04-17T11:07:16.430586+00:00
+acceptance_rate: "74.074%"
+collected_at: "2026-04-17T11:07:16.430586+00:00"
 ---
 
 ## 문제

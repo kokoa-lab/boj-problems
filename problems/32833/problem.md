@@ -1,13 +1,13 @@
 ---
-title: Mausoleum
-special_judge: true
-time_limit: 0.3 초
-memory_limit: 2048 MB
+title: "Mausoleum"
+special_judge: "true"
+time_limit: "0.3 초"
+memory_limit: "2048 MB"
 submissions: 111
 accepted: 39
 solved_users: 31
-acceptance_rate: 32.979%
-collected_at: 2026-04-17T20:02:17.478163+00:00
+acceptance_rate: "32.979%"
+collected_at: "2026-04-17T20:02:17.478163+00:00"
 ---
 
 ## 문제

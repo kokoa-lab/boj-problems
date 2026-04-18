@@ -1,13 +1,13 @@
 ---
-title: Running Routes
-special_judge: false
-time_limit: 12 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Running Routes"
+special_judge: "false"
+time_limit: "12 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 151
 accepted: 52
 solved_users: 41
-acceptance_rate: 32.283%
-collected_at: 2026-04-17T14:42:19.995210+00:00
+acceptance_rate: "32.283%"
+collected_at: "2026-04-17T14:42:19.995210+00:00"
 ---
 
 ## 문제

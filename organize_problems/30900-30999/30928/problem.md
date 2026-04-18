@@ -1,13 +1,13 @@
 ---
-title: Yokohama Phenomena
-special_judge: false
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Yokohama Phenomena"
+special_judge: "false"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 126
 accepted: 116
 solved_users: 113
-acceptance_rate: 91.870%
-collected_at: 2026-04-17T19:18:16.564577+00:00
+acceptance_rate: "91.870%"
+collected_at: "2026-04-17T19:18:16.564577+00:00"
 ---
 
 ## 문제

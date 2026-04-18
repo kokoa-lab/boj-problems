@@ -1,13 +1,13 @@
 ---
-title: 선인장이 무럭무럭 자라고 있어요
-special_judge: true
-time_limit: 1.3 초 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "선인장이 무럭무럭 자라고 있어요"
+special_judge: "true"
+time_limit: "1.3 초 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 61
 accepted: 15
 solved_users: 13
-acceptance_rate: 28.889%
-collected_at: 2026-04-17T17:10:54.813375+00:00
+acceptance_rate: "28.889%"
+collected_at: "2026-04-17T17:10:54.813375+00:00"
 ---
 
 ## 문제

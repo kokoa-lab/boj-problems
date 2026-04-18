@@ -1,13 +1,13 @@
 ---
-title: Looking for the Risk Factor
-special_judge: false
-time_limit: 0.2 초
-memory_limit: 512 MB
+title: "Looking for the Risk Factor"
+special_judge: "false"
+time_limit: "0.2 초"
+memory_limit: "512 MB"
 submissions: 314
 accepted: 158
 solved_users: 137
-acceptance_rate: 56.148%
-collected_at: 2026-04-17T14:19:35.222560+00:00
+acceptance_rate: "56.148%"
+collected_at: "2026-04-17T14:19:35.222560+00:00"
 ---
 
 ## 문제

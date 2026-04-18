@@ -1,13 +1,13 @@
 ---
-title: 열 개씩 끊어 출력하기
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "열 개씩 끊어 출력하기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 82972
 accepted: 46361
 solved_users: 40150
-acceptance_rate: 56.451%
-collected_at: 2026-04-17T12:44:53.178115+00:00
+acceptance_rate: "56.451%"
+collected_at: "2026-04-17T12:44:53.178115+00:00"
 ---
 
 ## 문제

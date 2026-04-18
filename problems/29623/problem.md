@@ -1,13 +1,13 @@
 ---
-title: Квадратный корень
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Квадратный корень"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 409
 accepted: 119
 solved_users: 74
-acceptance_rate: 22.699%
-collected_at: 2026-04-17T18:48:58.349846+00:00
+acceptance_rate: "22.699%"
+collected_at: "2026-04-17T18:48:58.349846+00:00"
 ---
 
 ## 문제

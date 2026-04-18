@@ -1,13 +1,13 @@
 ---
-title: 이세계 게임
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "이세계 게임"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 302
 accepted: 134
 solved_users: 101
-acceptance_rate: 41.736%
-collected_at: 2026-04-17T10:40:29.829495+00:00
+acceptance_rate: "41.736%"
+collected_at: "2026-04-17T10:40:29.829495+00:00"
 ---
 
 ## 문제

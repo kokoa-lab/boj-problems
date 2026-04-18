@@ -1,13 +1,13 @@
 ---
-title: 오븐 시계
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "오븐 시계"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 412934
 accepted: 161588
 solved_users: 134436
-acceptance_rate: 38.598%
-collected_at: 2026-04-17T10:42:23.988902+00:00
+acceptance_rate: "38.598%"
+collected_at: "2026-04-17T10:42:23.988902+00:00"
 ---
 
 ## 문제

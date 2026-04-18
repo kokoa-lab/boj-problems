@@ -1,13 +1,13 @@
 ---
-title: Mreža
-special_judge: false
-time_limit: 5 초
-memory_limit: 1024 MB
+title: "Mreža"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "1024 MB"
 submissions: 27
 accepted: 20
 solved_users: 16
-acceptance_rate: 72.727%
-collected_at: 2026-04-17T18:06:17.938214+00:00
+acceptance_rate: "72.727%"
+collected_at: "2026-04-17T18:06:17.938214+00:00"
 ---
 
 ## 문제

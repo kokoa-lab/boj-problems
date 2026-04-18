@@ -1,13 +1,13 @@
 ---
-title: Liquid Cats
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 64 MB
+title: "Liquid Cats"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "64 MB"
 submissions: 153
 accepted: 40
 solved_users: 22
-acceptance_rate: 39.286%
-collected_at: 2026-04-17T16:49:52.089693+00:00
+acceptance_rate: "39.286%"
+collected_at: "2026-04-17T16:49:52.089693+00:00"
 ---
 
 ## 문제

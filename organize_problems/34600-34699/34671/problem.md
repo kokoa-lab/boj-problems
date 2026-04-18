@@ -1,13 +1,13 @@
 ---
-title: 무토의 일본 여행
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "무토의 일본 여행"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 343
 accepted: 152
 solved_users: 130
-acceptance_rate: 42.623%
-collected_at: 2026-04-17T20:45:37.984068+00:00
+acceptance_rate: "42.623%"
+collected_at: "2026-04-17T20:45:37.984068+00:00"
 ---
 
 ## 문제

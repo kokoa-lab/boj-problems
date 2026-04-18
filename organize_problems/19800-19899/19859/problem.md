@@ -1,13 +1,13 @@
 ---
-title: Автобус
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Автобус"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 10
 accepted: 4
 solved_users: 4
-acceptance_rate: 57.143%
-collected_at: 2026-04-17T15:28:34.349594+00:00
+acceptance_rate: "57.143%"
+collected_at: "2026-04-17T15:28:34.349594+00:00"
 ---
 
 ## 문제

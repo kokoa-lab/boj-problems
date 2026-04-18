@@ -1,13 +1,13 @@
 ---
-title: 택배 배달
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "택배 배달"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 1304
 accepted: 179
 solved_users: 93
-acceptance_rate: 19.829%
-collected_at: 2026-04-17T10:45:49.032701+00:00
+acceptance_rate: "19.829%"
+collected_at: "2026-04-17T10:45:49.032701+00:00"
 ---
 
 ## 문제

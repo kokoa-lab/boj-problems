@@ -1,13 +1,13 @@
 ---
-title: Mutexes
-special_judge: true
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Mutexes"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 8
 accepted: 1
 solved_users: 1
-acceptance_rate: 20.000%
-collected_at: 2026-04-17T14:50:04.248049+00:00
+acceptance_rate: "20.000%"
+collected_at: "2026-04-17T14:50:04.248049+00:00"
 ---
 
 ## 문제

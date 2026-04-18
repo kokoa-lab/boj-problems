@@ -1,13 +1,13 @@
 ---
-title: 균형 삼진법
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "균형 삼진법"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 756
 accepted: 350
 solved_users: 314
-acceptance_rate: 48.086%
-collected_at: 2026-04-17T16:41:31.634168+00:00
+acceptance_rate: "48.086%"
+collected_at: "2026-04-17T16:41:31.634168+00:00"
 ---
 
 ## 문제

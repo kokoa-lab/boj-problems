@@ -1,13 +1,13 @@
 ---
-title: Fox and Card Game
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Fox and Card Game"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 78
 accepted: 53
 solved_users: 50
-acceptance_rate: 79.365%
-collected_at: 2026-04-17T13:03:15.653522+00:00
+acceptance_rate: "79.365%"
+collected_at: "2026-04-17T13:03:15.653522+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Lining up Children
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Lining up Children"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 96
 accepted: 29
 solved_users: 23
-acceptance_rate: 26.437%
-collected_at: 2026-04-17T18:55:51.100722+00:00
+acceptance_rate: "26.437%"
+collected_at: "2026-04-17T18:55:51.100722+00:00"
 ---
 
 ## 문제

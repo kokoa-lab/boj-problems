@@ -1,13 +1,13 @@
 ---
-title: 숨바꼭질 6
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "숨바꼭질 6"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 13555
 accepted: 6909
 solved_users: 5563
-acceptance_rate: 49.901%
-collected_at: 2026-04-17T14:29:14.310058+00:00
+acceptance_rate: "49.901%"
+collected_at: "2026-04-17T14:29:14.310058+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 나무 심기
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "나무 심기"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 12505
 accepted: 2727
 solved_users: 1753
-acceptance_rate: 20.198%
-collected_at: 2026-04-17T10:29:14.320195+00:00
+acceptance_rate: "20.198%"
+collected_at: "2026-04-17T10:29:14.320195+00:00"
 ---
 
 ## 문제

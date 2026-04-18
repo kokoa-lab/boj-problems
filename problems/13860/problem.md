@@ -1,13 +1,13 @@
 ---
-title: Letters
-special_judge: false
-time_limit: 0.2 초
-memory_limit: 256 MB
+title: "Letters"
+special_judge: "false"
+time_limit: "0.2 초"
+memory_limit: "256 MB"
 submissions: 63
 accepted: 45
 solved_users: 42
-acceptance_rate: 76.364%
-collected_at: 2026-04-17T13:20:52.277126+00:00
+acceptance_rate: "76.364%"
+collected_at: "2026-04-17T13:20:52.277126+00:00"
 ---
 
 ## 문제

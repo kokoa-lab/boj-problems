@@ -1,13 +1,13 @@
 ---
-title: 다이어그램과 태블로
-special_judge: false
-time_limit: 3 초
-memory_limit: 128 MB
+title: "다이어그램과 태블로"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "128 MB"
 submissions: 573
 accepted: 139
 solved_users: 94
-acceptance_rate: 29.375%
-collected_at: 2026-04-17T12:12:26.490057+00:00
+acceptance_rate: "29.375%"
+collected_at: "2026-04-17T12:12:26.490057+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: VUDU
-special_judge: false
-time_limit: 2 초
-memory_limit: 64 MB
+title: "VUDU"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "64 MB"
 submissions: 304
 accepted: 152
 solved_users: 123
-acceptance_rate: 53.017%
-collected_at: 2026-04-17T12:42:40.321990+00:00
+acceptance_rate: "53.017%"
+collected_at: "2026-04-17T12:42:40.321990+00:00"
 ---
 
 ## 문제

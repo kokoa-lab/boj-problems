@@ -1,13 +1,13 @@
 ---
-title: 바이너리 문자열 토글
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "바이너리 문자열 토글"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 58
 accepted: 12
 solved_users: 9
-acceptance_rate: 32.143%
-collected_at: 2026-04-17T13:44:21.985534+00:00
+acceptance_rate: "32.143%"
+collected_at: "2026-04-17T13:44:21.985534+00:00"
 ---
 
 ## 문제

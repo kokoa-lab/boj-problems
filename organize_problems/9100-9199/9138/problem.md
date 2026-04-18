@@ -1,13 +1,13 @@
 ---
-title: Červotoči
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Červotoči"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 94
 accepted: 46
 solved_users: 37
-acceptance_rate: 44.578%
-collected_at: 2026-04-17T12:07:27.864783+00:00
+acceptance_rate: "44.578%"
+collected_at: "2026-04-17T12:07:27.864783+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 특수 능력
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "특수 능력"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 697
 accepted: 125
 solved_users: 63
-acceptance_rate: 14.450%
-collected_at: 2026-04-17T13:05:51.624676+00:00
+acceptance_rate: "14.450%"
+collected_at: "2026-04-17T13:05:51.624676+00:00"
 ---
 
 ## 문제

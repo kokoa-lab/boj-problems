@@ -1,13 +1,13 @@
 ---
-title: Траектория обучения
-special_judge: true
-time_limit: 10 초
-memory_limit: 512 MB
+title: "Траектория обучения"
+special_judge: "true"
+time_limit: "10 초"
+memory_limit: "512 MB"
 submissions: 65
 accepted: 11
 solved_users: 8
-acceptance_rate: 15.686%
-collected_at: 2026-04-17T15:36:46.360805+00:00
+acceptance_rate: "15.686%"
+collected_at: "2026-04-17T15:36:46.360805+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: ESC와 쿼리
-special_judge: false
-time_limit: 0.2 초  ( 하단 참고 )
-memory_limit: 1024 MB
+title: "ESC와 쿼리"
+special_judge: "false"
+time_limit: "0.2 초  ( 하단 참고 )"
+memory_limit: "1024 MB"
 submissions: 679
 accepted: 172
 solved_users: 61
-acceptance_rate: 14.878%
-collected_at: 2026-04-17T19:40:24.781845+00:00
+acceptance_rate: "14.878%"
+collected_at: "2026-04-17T19:40:24.781845+00:00"
 ---
 
 ## 문제

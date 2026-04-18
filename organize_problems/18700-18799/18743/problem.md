@@ -1,13 +1,13 @@
 ---
-title: Bin
-special_judge: false
-time_limit: 15 초
-memory_limit: 512 MB
+title: "Bin"
+special_judge: "false"
+time_limit: "15 초"
+memory_limit: "512 MB"
 submissions: 103
 accepted: 57
 solved_users: 29
-acceptance_rate: 67.442%
-collected_at: 2026-04-17T15:09:04.543431+00:00
+acceptance_rate: "67.442%"
+collected_at: "2026-04-17T15:09:04.543431+00:00"
 ---
 
 ## 문제

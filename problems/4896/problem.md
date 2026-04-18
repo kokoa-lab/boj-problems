@@ -1,13 +1,13 @@
 ---
-title: 땅 나누기
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "땅 나누기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 43
 accepted: 8
 solved_users: 6
-acceptance_rate: 33.333%
-collected_at: 2026-04-17T11:09:49.344007+00:00
+acceptance_rate: "33.333%"
+collected_at: "2026-04-17T11:09:49.344007+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Amazing Sushi
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Amazing Sushi"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 177
 accepted: 90
 solved_users: 79
-acceptance_rate: 53.378%
-collected_at: 2026-04-17T15:09:52.945874+00:00
+acceptance_rate: "53.378%"
+collected_at: "2026-04-17T15:09:52.945874+00:00"
 ---
 
 ## 문제

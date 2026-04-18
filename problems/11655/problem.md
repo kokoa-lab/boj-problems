@@ -1,13 +1,13 @@
 ---
-title: ROT13
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "ROT13"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 34882
 accepted: 20877
 solved_users: 16918
-acceptance_rate: 60.333%
-collected_at: 2026-04-17T12:43:42.384896+00:00
+acceptance_rate: "60.333%"
+collected_at: "2026-04-17T12:43:42.384896+00:00"
 ---
 
 ## 문제

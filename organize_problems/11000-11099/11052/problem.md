@@ -1,13 +1,13 @@
 ---
-title: 카드 구매하기
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "카드 구매하기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 60554
 accepted: 37675
 solved_users: 28610
-acceptance_rate: 62.138%
-collected_at: 2026-04-17T12:35:42.897975+00:00
+acceptance_rate: "62.138%"
+collected_at: "2026-04-17T12:35:42.897975+00:00"
 ---
 
 ## 문제

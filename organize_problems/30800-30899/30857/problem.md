@@ -1,13 +1,13 @@
 ---
-title: Lucky Draws
-special_judge: false
-time_limit: 2 초
-memory_limit: 2048 MB
+title: "Lucky Draws"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "2048 MB"
 submissions: 302
 accepted: 90
 solved_users: 74
-acceptance_rate: 29.134%
-collected_at: 2026-04-17T19:17:05.174419+00:00
+acceptance_rate: "29.134%"
+collected_at: "2026-04-17T19:17:05.174419+00:00"
 ---
 
 ## 문제

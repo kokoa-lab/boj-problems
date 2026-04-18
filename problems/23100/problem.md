@@ -1,13 +1,13 @@
 ---
-title: Storage Problems
-special_judge: false
-time_limit: 5 초
-memory_limit: 1024 MB
+title: "Storage Problems"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "1024 MB"
 submissions: 77
 accepted: 49
 solved_users: 35
-acceptance_rate: 60.345%
-collected_at: 2026-04-17T16:41:58.695762+00:00
+acceptance_rate: "60.345%"
+collected_at: "2026-04-17T16:41:58.695762+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 빙글빙글 스네일
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "빙글빙글 스네일"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 876
 accepted: 537
 solved_users: 482
-acceptance_rate: 68.759%
-collected_at: 2026-04-17T14:05:09.551753+00:00
+acceptance_rate: "68.759%"
+collected_at: "2026-04-17T14:05:09.551753+00:00"
 ---
 
 ## 문제

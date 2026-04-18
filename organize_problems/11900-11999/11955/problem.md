@@ -1,13 +1,13 @@
 ---
-title: PROZOR
-special_judge: true
-time_limit: 1 초
-memory_limit: 64 MB
+title: "PROZOR"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "64 MB"
 submissions: 170
 accepted: 112
 solved_users: 96
-acceptance_rate: 66.667%
-collected_at: 2026-04-17T12:48:10.175663+00:00
+acceptance_rate: "66.667%"
+collected_at: "2026-04-17T12:48:10.175663+00:00"
 ---
 
 ## 문제

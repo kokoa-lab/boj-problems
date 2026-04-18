@@ -1,13 +1,13 @@
 ---
-title: 분수 합
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "분수 합"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 52553
 accepted: 24959
 solved_users: 21901
-acceptance_rate: 47.902%
-collected_at: 2026-04-17T10:32:47.308376+00:00
+acceptance_rate: "47.902%"
+collected_at: "2026-04-17T10:32:47.308376+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 침략전쟁
-special_judge: false
-time_limit: 3 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "침략전쟁"
+special_judge: "false"
+time_limit: "3 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 361
 accepted: 32
 solved_users: 13
-acceptance_rate: 4.676%
-collected_at: 2026-04-17T15:29:50.037325+00:00
+acceptance_rate: "4.676%"
+collected_at: "2026-04-17T15:29:50.037325+00:00"
 ---
 
 ## 문제

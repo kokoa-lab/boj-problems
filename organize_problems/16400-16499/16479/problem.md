@@ -1,13 +1,13 @@
 ---
-title: 컵라면 측정하기
-special_judge: true
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "컵라면 측정하기"
+special_judge: "true"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 2816
 accepted: 2253
 solved_users: 1941
-acceptance_rate: 80.606%
-collected_at: 2026-04-17T14:18:44.799767+00:00
+acceptance_rate: "80.606%"
+collected_at: "2026-04-17T14:18:44.799767+00:00"
 ---
 
 ## 문제

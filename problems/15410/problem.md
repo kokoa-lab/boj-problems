@@ -1,13 +1,13 @@
 ---
-title: Cakey McCakeFace
-special_judge: false
-time_limit: 7 초
-memory_limit: 512 MB
+title: "Cakey McCakeFace"
+special_judge: "false"
+time_limit: "7 초"
+memory_limit: "512 MB"
 submissions: 171
 accepted: 87
 solved_users: 71
-acceptance_rate: 50.000%
-collected_at: 2026-04-17T13:58:46.211316+00:00
+acceptance_rate: "50.000%"
+collected_at: "2026-04-17T13:58:46.211316+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Parliamentary Rankings
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Parliamentary Rankings"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 143
 accepted: 62
 solved_users: 40
-acceptance_rate: 38.095%
-collected_at: 2026-04-17T13:19:10.469728+00:00
+acceptance_rate: "38.095%"
+collected_at: "2026-04-17T13:19:10.469728+00:00"
 ---
 
 ## 문제

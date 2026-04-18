@@ -1,13 +1,13 @@
 ---
-title: 스위치 배열
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "스위치 배열"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 1033
 accepted: 580
 solved_users: 465
-acceptance_rate: 58.344%
-collected_at: 2026-04-17T12:21:11.708557+00:00
+acceptance_rate: "58.344%"
+collected_at: "2026-04-17T12:21:11.708557+00:00"
 ---
 
 ## 문제

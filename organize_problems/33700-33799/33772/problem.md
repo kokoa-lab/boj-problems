@@ -1,13 +1,13 @@
 ---
-title: Wow
-special_judge: false
-time_limit: 1 초
-memory_limit: 2048 MB
+title: "Wow"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "2048 MB"
 submissions: 131
 accepted: 108
 solved_users: 92
-acceptance_rate: 83.636%
-collected_at: 2026-04-17T20:23:17.569035+00:00
+acceptance_rate: "83.636%"
+collected_at: "2026-04-17T20:23:17.569035+00:00"
 ---
 
 ## 문제

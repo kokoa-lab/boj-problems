@@ -1,13 +1,13 @@
 ---
-title: Digits
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Digits"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 487
 accepted: 228
 solved_users: 185
-acceptance_rate: 47.074%
-collected_at: 2026-04-17T10:56:43.268753+00:00
+acceptance_rate: "47.074%"
+collected_at: "2026-04-17T10:56:43.268753+00:00"
 ---
 
 ## 문제

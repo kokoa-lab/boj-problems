@@ -1,13 +1,13 @@
 ---
-title: 준영이의 사랑
-special_judge: true
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "준영이의 사랑"
+special_judge: "true"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 527
 accepted: 245
 solved_users: 201
-acceptance_rate: 46.853%
-collected_at: 2026-04-17T18:57:21.743141+00:00
+acceptance_rate: "46.853%"
+collected_at: "2026-04-17T18:57:21.743141+00:00"
 ---
 
 ## 문제

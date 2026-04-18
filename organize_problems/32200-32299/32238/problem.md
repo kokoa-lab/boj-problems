@@ -1,13 +1,13 @@
 ---
-title: 고장난 키보드
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "고장난 키보드"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 49
 accepted: 16
 solved_users: 13
-acceptance_rate: 56.522%
-collected_at: 2026-04-17T19:46:28.252568+00:00
+acceptance_rate: "56.522%"
+collected_at: "2026-04-17T19:46:28.252568+00:00"
 ---
 
 ## 문제

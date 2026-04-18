@@ -1,13 +1,13 @@
 ---
-title: 조별과제 멈춰!
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "조별과제 멈춰!"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 1630
 accepted: 514
 solved_users: 386
-acceptance_rate: 31.104%
-collected_at: 2026-04-17T16:40:37.596395+00:00
+acceptance_rate: "31.104%"
+collected_at: "2026-04-17T16:40:37.596395+00:00"
 ---
 
 ## 문제

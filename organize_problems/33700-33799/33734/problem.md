@@ -1,13 +1,13 @@
 ---
-title: Transforming Pairs
-special_judge: false
-time_limit: 2 초
-memory_limit: 2048 MB
+title: "Transforming Pairs"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "2048 MB"
 submissions: 85
 accepted: 44
 solved_users: 42
-acceptance_rate: 52.500%
-collected_at: 2026-04-17T20:22:27.097328+00:00
+acceptance_rate: "52.500%"
+collected_at: "2026-04-17T20:22:27.097328+00:00"
 ---
 
 ## 문제

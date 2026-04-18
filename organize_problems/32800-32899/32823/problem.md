@@ -1,13 +1,13 @@
 ---
-title: 채굴권 분할
-special_judge: false
-time_limit: 1 초
-memory_limit: 2048 MB
+title: "채굴권 분할"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "2048 MB"
 submissions: 263
 accepted: 132
 solved_users: 118
-acceptance_rate: 53.636%
-collected_at: 2026-04-17T20:02:08.303388+00:00
+acceptance_rate: "53.636%"
+collected_at: "2026-04-17T20:02:08.303388+00:00"
 ---
 
 ## 문제

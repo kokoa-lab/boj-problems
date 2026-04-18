@@ -1,13 +1,13 @@
 ---
-title: Fascinating Partitions
-special_judge: false
-time_limit: 2.5 초
-memory_limit: 1024 MB
+title: "Fascinating Partitions"
+special_judge: "false"
+time_limit: "2.5 초"
+memory_limit: "1024 MB"
 submissions: 72
 accepted: 40
 solved_users: 29
-acceptance_rate: 55.769%
-collected_at: 2026-04-17T16:18:14.478945+00:00
+acceptance_rate: "55.769%"
+collected_at: "2026-04-17T16:18:14.478945+00:00"
 ---
 
 ## 문제

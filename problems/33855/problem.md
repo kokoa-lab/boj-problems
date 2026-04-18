@@ -1,13 +1,13 @@
 ---
-title: Tour
-special_judge: true
-time_limit: 2 초
-memory_limit: 2048 MB
+title: "Tour"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "2048 MB"
 submissions: 73
 accepted: 13
 solved_users: 11
-acceptance_rate: 17.742%
-collected_at: 2026-04-17T20:24:56.934619+00:00
+acceptance_rate: "17.742%"
+collected_at: "2026-04-17T20:24:56.934619+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 구간 NOT 과 단일 NOT
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "구간 NOT 과 단일 NOT"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 68
 accepted: 38
 solved_users: 28
-acceptance_rate: 57.143%
-collected_at: 2026-04-17T20:46:27.269540+00:00
+acceptance_rate: "57.143%"
+collected_at: "2026-04-17T20:46:27.269540+00:00"
 ---
 
 ## 문제

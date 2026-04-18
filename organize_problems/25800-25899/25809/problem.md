@@ -1,13 +1,13 @@
 ---
-title: K-gap Subsequence
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "K-gap Subsequence"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 32
 accepted: 19
 solved_users: 15
-acceptance_rate: 62.500%
-collected_at: 2026-04-17T17:33:23.032245+00:00
+acceptance_rate: "62.500%"
+collected_at: "2026-04-17T17:33:23.032245+00:00"
 ---
 
 ## 문제

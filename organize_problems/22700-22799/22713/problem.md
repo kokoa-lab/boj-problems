@@ -1,13 +1,13 @@
 ---
-title: Oil Company
-special_judge: false
-time_limit: 8 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "Oil Company"
+special_judge: "false"
+time_limit: "8 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 39
 accepted: 5
 solved_users: 3
-acceptance_rate: 18.750%
-collected_at: 2026-04-17T16:32:33.628855+00:00
+acceptance_rate: "18.750%"
+collected_at: "2026-04-17T16:32:33.628855+00:00"
 ---
 
 ## 문제

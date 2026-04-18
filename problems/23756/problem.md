@@ -1,13 +1,13 @@
 ---
-title: 노브 돌리기
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "노브 돌리기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 1196
 accepted: 659
 solved_users: 598
-acceptance_rate: 56.309%
-collected_at: 2026-04-17T16:53:11.268013+00:00
+acceptance_rate: "56.309%"
+collected_at: "2026-04-17T16:53:11.268013+00:00"
 ---
 
 ## 문제

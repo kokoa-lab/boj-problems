@@ -1,13 +1,13 @@
 ---
-title: Mobile Robot
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Mobile Robot"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 754
 accepted: 197
 solved_users: 156
-acceptance_rate: 26.576%
-collected_at: 2026-04-17T15:32:42.256617+00:00
+acceptance_rate: "26.576%"
+collected_at: "2026-04-17T15:32:42.256617+00:00"
 ---
 
 ## 문제

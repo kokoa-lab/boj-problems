@@ -1,13 +1,13 @@
 ---
-title: Meeting Time
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Meeting Time"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 300
 accepted: 114
 solved_users: 94
-acceptance_rate: 43.318%
-collected_at: 2026-04-17T12:27:15.412209+00:00
+acceptance_rate: "43.318%"
+collected_at: "2026-04-17T12:27:15.412209+00:00"
 ---
 
 ## 문제

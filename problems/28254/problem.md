@@ -1,13 +1,13 @@
 ---
-title: 트리와 깃발
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "트리와 깃발"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 204
 accepted: 65
 solved_users: 49
-acceptance_rate: 33.108%
-collected_at: 2026-04-17T18:21:13.416577+00:00
+acceptance_rate: "33.108%"
+collected_at: "2026-04-17T18:21:13.416577+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Bad Random Numbers
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Bad Random Numbers"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 559
 accepted: 440
 solved_users: 401
-acceptance_rate: 78.782%
-collected_at: 2026-04-17T11:18:48.996814+00:00
+acceptance_rate: "78.782%"
+collected_at: "2026-04-17T11:18:48.996814+00:00"
 ---
 
 ## 문제

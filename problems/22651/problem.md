@@ -1,13 +1,13 @@
 ---
-title: Riffle Swap
-special_judge: false
-time_limit: 8 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "Riffle Swap"
+special_judge: "false"
+time_limit: "8 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 13
 accepted: 11
 solved_users: 8
-acceptance_rate: 88.889%
-collected_at: 2026-04-17T16:30:44.896708+00:00
+acceptance_rate: "88.889%"
+collected_at: "2026-04-17T16:30:44.896708+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 집에선 안돼잉
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "집에선 안돼잉"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 1100
 accepted: 485
 solved_users: 436
-acceptance_rate: 48.177%
-collected_at: 2026-04-17T18:51:53.249414+00:00
+acceptance_rate: "48.177%"
+collected_at: "2026-04-17T18:51:53.249414+00:00"
 ---
 
 ## 문제

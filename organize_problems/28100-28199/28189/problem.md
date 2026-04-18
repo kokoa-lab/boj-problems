@@ -1,13 +1,13 @@
 ---
-title: LCSLCSLCS
-special_judge: false
-time_limit: 10 초
-memory_limit: 1024 MB
+title: "LCSLCSLCS"
+special_judge: "false"
+time_limit: "10 초"
+memory_limit: "1024 MB"
 submissions: 127
 accepted: 20
 solved_users: 12
-acceptance_rate: 52.174%
-collected_at: 2026-04-17T18:19:38.986256+00:00
+acceptance_rate: "52.174%"
+collected_at: "2026-04-17T18:19:38.986256+00:00"
 ---
 
 ## 문제

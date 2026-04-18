@@ -1,13 +1,13 @@
 ---
-title: 캠핑하기
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "캠핑하기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 248
 accepted: 71
 solved_users: 46
-acceptance_rate: 36.800%
-collected_at: 2026-04-17T17:48:39.408512+00:00
+acceptance_rate: "36.800%"
+collected_at: "2026-04-17T17:48:39.408512+00:00"
 ---
 
 ## 문제

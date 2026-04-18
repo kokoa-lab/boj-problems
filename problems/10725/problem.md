@@ -1,13 +1,13 @@
 ---
-title: 빛의 왕과 거울의 미로 1
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "빛의 왕과 거울의 미로 1"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 405
 accepted: 115
 solved_users: 86
-acceptance_rate: 26.462%
-collected_at: 2026-04-17T12:28:05.140360+00:00
+acceptance_rate: "26.462%"
+collected_at: "2026-04-17T12:28:05.140360+00:00"
 ---
 
 ## 문제

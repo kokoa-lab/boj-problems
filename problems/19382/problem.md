@@ -1,13 +1,13 @@
 ---
-title: Bicycle Race
-special_judge: false
-time_limit: 8 초
-memory_limit: 256 MB
+title: "Bicycle Race"
+special_judge: "false"
+time_limit: "8 초"
+memory_limit: "256 MB"
 submissions: 36
 accepted: 8
 solved_users: 2
-acceptance_rate: 20.000%
-collected_at: 2026-04-17T15:18:50.879886+00:00
+acceptance_rate: "20.000%"
+collected_at: "2026-04-17T15:18:50.879886+00:00"
 ---
 
 ## 문제

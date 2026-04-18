@@ -1,13 +1,13 @@
 ---
-title: 휴가
-special_judge: false
-time_limit: 5 초
-memory_limit: 64 MB
+title: "휴가"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "64 MB"
 submissions: 1441
 accepted: 270
 solved_users: 182
-acceptance_rate: 15.333%
-collected_at: 2026-04-17T12:18:41.653575+00:00
+acceptance_rate: "15.333%"
+collected_at: "2026-04-17T12:18:41.653575+00:00"
 ---
 
 ## 문제

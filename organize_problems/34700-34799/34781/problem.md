@@ -1,13 +1,13 @@
 ---
-title: Minas Gerais’ walls
-special_judge: false
-time_limit: 0.5 초
-memory_limit: 2048 MB
+title: "Minas Gerais’ walls"
+special_judge: "false"
+time_limit: "0.5 초"
+memory_limit: "2048 MB"
 submissions: 9
 accepted: 6
 solved_users: 6
-acceptance_rate: 66.667%
-collected_at: 2026-04-17T20:48:25.735545+00:00
+acceptance_rate: "66.667%"
+collected_at: "2026-04-17T20:48:25.735545+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Springfield🍩
-special_judge: false
-time_limit: 3 초
-memory_limit: 1024 MB
+title: "Springfield🍩"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "1024 MB"
 submissions: 286
 accepted: 51
 solved_users: 42
-acceptance_rate: 22.951%
-collected_at: 2026-04-17T19:42:59.259943+00:00
+acceptance_rate: "22.951%"
+collected_at: "2026-04-17T19:42:59.259943+00:00"
 ---
 
 ## 문제

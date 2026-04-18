@@ -1,13 +1,13 @@
 ---
-title: 이동3-2
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "이동3-2"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 193
 accepted: 69
 solved_users: 61
-acceptance_rate: 42.361%
-collected_at: 2026-04-17T13:05:35.581465+00:00
+acceptance_rate: "42.361%"
+collected_at: "2026-04-17T13:05:35.581465+00:00"
 ---
 
 ## 문제

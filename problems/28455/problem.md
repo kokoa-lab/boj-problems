@@ -1,13 +1,13 @@
 ---
-title: Union Maplestory
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Union Maplestory"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 1717
 accepted: 851
 solved_users: 787
-acceptance_rate: 50.972%
-collected_at: 2026-04-17T18:27:06.015139+00:00
+acceptance_rate: "50.972%"
+collected_at: "2026-04-17T18:27:06.015139+00:00"
 ---
 
 ## 문제

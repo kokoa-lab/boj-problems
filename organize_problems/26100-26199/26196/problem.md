@@ -1,13 +1,13 @@
 ---
-title: Skills in Pills
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Skills in Pills"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 116
 accepted: 46
 solved_users: 38
-acceptance_rate: 47.500%
-collected_at: 2026-04-17T17:41:40.815517+00:00
+acceptance_rate: "47.500%"
+collected_at: "2026-04-17T17:41:40.815517+00:00"
 ---
 
 ## 문제

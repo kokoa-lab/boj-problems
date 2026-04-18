@@ -1,13 +1,13 @@
 ---
-title: 사이클 단어
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "사이클 단어"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 3656
 accepted: 2248
 solved_users: 1866
-acceptance_rate: 64.411%
-collected_at: 2026-04-17T10:31:04.583363+00:00
+acceptance_rate: "64.411%"
+collected_at: "2026-04-17T10:31:04.583363+00:00"
 ---
 
 ## 문제

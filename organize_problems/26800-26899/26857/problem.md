@@ -1,13 +1,13 @@
 ---
-title: Cell Game
-special_judge: true
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Cell Game"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 73
 accepted: 28
 solved_users: 26
-acceptance_rate: 43.333%
-collected_at: 2026-04-17T17:52:19.203350+00:00
+acceptance_rate: "43.333%"
+collected_at: "2026-04-17T17:52:19.203350+00:00"
 ---
 
 ## 문제

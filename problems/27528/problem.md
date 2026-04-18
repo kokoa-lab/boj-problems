@@ -1,13 +1,13 @@
 ---
-title: Azber is playing at Biou's house
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "Azber is playing at Biou's house"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 81
 accepted: 65
 solved_users: 60
-acceptance_rate: 80.000%
-collected_at: 2026-04-17T18:05:39.584014+00:00
+acceptance_rate: "80.000%"
+collected_at: "2026-04-17T18:05:39.584014+00:00"
 ---
 
 ## 문제

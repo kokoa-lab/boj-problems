@@ -1,13 +1,13 @@
 ---
-title: Game Prediction
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Game Prediction"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 62
 accepted: 22
 solved_users: 14
-acceptance_rate: 38.889%
-collected_at: 2026-04-17T15:07:01.951160+00:00
+acceptance_rate: "38.889%"
+collected_at: "2026-04-17T15:07:01.951160+00:00"
 ---
 
 ## 문제

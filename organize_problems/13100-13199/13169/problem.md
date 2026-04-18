@@ -1,13 +1,13 @@
 ---
-title: Xor of Sums
-special_judge: false
-time_limit: 1 초  ( 하단 참고 )
-memory_limit: 512 MB
+title: "Xor of Sums"
+special_judge: "false"
+time_limit: "1 초  ( 하단 참고 )"
+memory_limit: "512 MB"
 submissions: 262
 accepted: 99
 solved_users: 73
-acceptance_rate: 39.037%
-collected_at: 2026-04-17T13:08:32.283413+00:00
+acceptance_rate: "39.037%"
+collected_at: "2026-04-17T13:08:32.283413+00:00"
 ---
 
 ## 문제

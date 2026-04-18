@@ -1,13 +1,13 @@
 ---
-title: No Stragglers
-special_judge: false
-time_limit: 3 초
-memory_limit: 2048 MB
+title: "No Stragglers"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "2048 MB"
 submissions: 160
 accepted: 131
 solved_users: 107
-acceptance_rate: 81.061%
-collected_at: 2026-04-17T20:35:18.068938+00:00
+acceptance_rate: "81.061%"
+collected_at: "2026-04-17T20:35:18.068938+00:00"
 ---
 
 ## 문제

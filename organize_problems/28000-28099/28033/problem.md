@@ -1,13 +1,13 @@
 ---
-title: Pareidolia
-special_judge: false
-time_limit: 4 초
-memory_limit: 1024 MB
+title: "Pareidolia"
+special_judge: "false"
+time_limit: "4 초"
+memory_limit: "1024 MB"
 submissions: 178
 accepted: 80
 solved_users: 65
-acceptance_rate: 45.775%
-collected_at: 2026-04-17T18:17:01.302251+00:00
+acceptance_rate: "45.775%"
+collected_at: "2026-04-17T18:17:01.302251+00:00"
 ---
 
 ## 문제

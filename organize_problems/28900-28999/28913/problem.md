@@ -1,13 +1,13 @@
 ---
-title: Марио и параллельный мир
-special_judge: false
-time_limit: 3 초
-memory_limit: 1024 MB
+title: "Марио и параллельный мир"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "1024 MB"
 submissions: 8
 accepted: 6
 solved_users: 3
-acceptance_rate: 100.000%
-collected_at: 2026-04-17T18:34:33.313709+00:00
+acceptance_rate: "100.000%"
+collected_at: "2026-04-17T18:34:33.313709+00:00"
 ---
 
 ## 문제

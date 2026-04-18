@@ -1,13 +1,13 @@
 ---
-title: 부스터
-special_judge: false
-time_limit: 8 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "부스터"
+special_judge: "false"
+time_limit: "8 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 1878
 accepted: 412
 solved_users: 281
-acceptance_rate: 27.468%
-collected_at: 2026-04-17T14:09:07.547360+00:00
+acceptance_rate: "27.468%"
+collected_at: "2026-04-17T14:09:07.547360+00:00"
 ---
 
 ## 문제

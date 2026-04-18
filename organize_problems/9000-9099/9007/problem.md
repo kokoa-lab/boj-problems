@@ -1,13 +1,13 @@
 ---
-title: 카누 선수
-special_judge: false
-time_limit: 3 초
-memory_limit: 256 MB
+title: "카누 선수"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "256 MB"
 submissions: 4756
 accepted: 1333
 solved_users: 868
-acceptance_rate: 26.807%
-collected_at: 2026-04-18T09:58:37.524205+00:00
+acceptance_rate: "26.807%"
+collected_at: "2026-04-18T09:58:37.524205+00:00"
 ---
 
 ## 문제

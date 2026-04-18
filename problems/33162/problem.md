@@ -1,13 +1,13 @@
 ---
-title: 散歩 (Walking)
-special_judge: false
-time_limit: 2 초
-memory_limit: 2048 MB
+title: "散歩 (Walking)"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "2048 MB"
 submissions: 723
 accepted: 637
 solved_users: 591
-acceptance_rate: 89.410%
-collected_at: 2026-04-17T20:10:30.370909+00:00
+acceptance_rate: "89.410%"
+collected_at: "2026-04-17T20:10:30.370909+00:00"
 ---
 
 ## 문제

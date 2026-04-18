@@ -1,13 +1,13 @@
 ---
-title: 短針 (Hour Hand)
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "短針 (Hour Hand)"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 2340
 accepted: 1630
 solved_users: 1543
-acceptance_rate: 70.296%
-collected_at: 2026-04-17T17:03:36.178070+00:00
+acceptance_rate: "70.296%"
+collected_at: "2026-04-17T17:03:36.178070+00:00"
 ---
 
 ## 문제

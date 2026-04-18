@@ -1,13 +1,13 @@
 ---
-title: Bee Garden
-special_judge: false
-time_limit: 2 초
-memory_limit: 64 MB
+title: "Bee Garden"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "64 MB"
 submissions: 6
 accepted: 3
 solved_users: 3
-acceptance_rate: 60.000%
-collected_at: 2026-04-17T10:50:24.120208+00:00
+acceptance_rate: "60.000%"
+collected_at: "2026-04-17T10:50:24.120208+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 동전 게임
-special_judge: false
-time_limit: 1 초
-memory_limit: 32 MB
+title: "동전 게임"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "32 MB"
 submissions: 319
 accepted: 102
 solved_users: 69
-acceptance_rate: 32.857%
-collected_at: 2026-04-17T11:19:17.309613+00:00
+acceptance_rate: "32.857%"
+collected_at: "2026-04-17T11:19:17.309613+00:00"
 ---
 
 ## 문제

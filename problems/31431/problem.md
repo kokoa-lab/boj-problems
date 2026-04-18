@@ -1,13 +1,13 @@
 ---
-title: Python Code Folding
-special_judge: false
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "Python Code Folding"
+special_judge: "false"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 33
 accepted: 14
 solved_users: 13
-acceptance_rate: 44.828%
-collected_at: 2026-04-17T19:28:07.946469+00:00
+acceptance_rate: "44.828%"
+collected_at: "2026-04-17T19:28:07.946469+00:00"
 ---
 
 ## 문제
@@ -33,15 +33,35 @@ Python 코드는 아래의 요소로 이루어져 있다.
 
 |  |  |
 | --- | --- |
-| ```  a=1     b=3 c=5 ``` | 심플문으로만 구성된 코드이지만, 인덴트 레벨이 모두 $0$이 아니다. |
-| ```  for i in range(n): for x in a:     print(s) ``` | 첫 번째 블록의 바디가 $1$라인 이상의 코드를 포함하지 않는다. |
-| ```  for i in range(n):         for j in range(n):             print(i+j) ``` | 첫 번째 라인에 헤더가 존재하지만, 헤더를 제거한 후 남은 부분의 인덴트 레벨을 모두 $1$씩 감소시켜도 올바른 코드가 되지 않는다. |
+| ``` 
+ a=1
+     b=3
+ c=5 ``` | 심플문으로만 구성된 코드이지만, 인덴트 레벨이 모두 $0$이 아니다. |
+| ``` 
+ for i in range(n):
+ for x in a:
+     print(s)
+ ``` | 첫 번째 블록의 바디가 $1$라인 이상의 코드를 포함하지 않는다. |
+| ``` 
+ for i in range(n):
+         for j in range(n):
+             print(i+j) ``` | 첫 번째 라인에 헤더가 존재하지만, 헤더를 제거한 후 남은 부분의 인덴트 레벨을 모두 $1$씩 감소시켜도 올바른 코드가 되지 않는다. |
 
 다음은 사용자로부터 정수 $n$을 입력받아 문자 `'*'`로 구성된 직각삼각형을 출력하는 올바른 Python 코드의 예시이다.
 
 |  |
 | --- |
-| ```  1| n = int(input()) 2| a = [] 3| for i in range(1, n+1): 4|     s = "" 5|     for j in range(i): 6|         s += "*" 7|     a.append(s) 8| for s in a: 9|     print(s) ``` |
+| ``` 
+ 1| n = int(input())
+ 2| a = []
+ 3| for i in range(1, n+1):
+ 4|     s = ""
+ 5|     for j in range(i):
+ 6|         s += "*"
+ 7|     a.append(s)
+ 8| for s in a:
+ 9|     print(s)
+ ``` |
 
 오늘날 많은 코드 에디터들은 Code Folding 기능을 제공한다. Code Folding이란 특정한 블록에서 바디에 해당하는 부분을 숨겨 헤더만 보이게 하는 기능으로, 긴 코드를 읽기 편리하게 해준다. 엄밀히 말해, Code Folding 기능은 다음과 같이 정의된다.
 
@@ -51,13 +71,28 @@ Python 코드는 아래의 요소로 이루어져 있다.
 
 |  |
 | --- |
-| ```  1| n = int(input()) 2| a = [] 3| for i in range(1, n+1): 4|     s = "" 5|     for j in range(i): ... 7|     a.append(s) 8| for s in a: 9|     print(s) ``` |
+| ``` 
+ 1| n = int(input())
+ 2| a = []
+ 3| for i in range(1, n+1):
+ 4|     s = ""
+ 5|     for j in range(i): ...
+ 7|     a.append(s)
+ 8| for s in a:
+ 9|     print(s)
+ ``` |
 
 이어서, 코드의 첫 번째 블록을 접으면 다음과 같이 보인다. 블록의 바디에 해당하는 $4$, $5$, $6$, $7$번 라인이 모두 보이지 않는 것을 확인할 수 있다.
 
 |  |
 | --- |
-| ```  1| n = int(input()) 2| a = [] 3| for i in range(1, n+1): ... 8| for s in a: 9|     print(s) ``` |
+| ``` 
+ 1| n = int(input())
+ 2| a = []
+ 3| for i in range(1, n+1): ...
+ 8| for s in a:
+ 9|     print(s)
+ ``` |
 
 이때, 다시 첫 번째 블록을 펴더라도 하위 블록의 접힌 상태는 그대로 유지된다. 즉, 마지막 예시에서 접었던 블록을 다시 펼치더라도 그 전 예시와 동일하게 두 번째 블록의 접힌 상태가 유지되며, $6$번 라인은 여전히 보이지 않는다.
 

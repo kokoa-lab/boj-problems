@@ -1,13 +1,13 @@
 ---
-title: 맞았는데 왜 틀리죠?
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "맞았는데 왜 틀리죠?"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 3476
 accepted: 2373
 solved_users: 2097
-acceptance_rate: 69.645%
-collected_at: 2026-04-17T14:07:06.813827+00:00
+acceptance_rate: "69.645%"
+collected_at: "2026-04-17T14:07:06.813827+00:00"
 ---
 
 ## 문제

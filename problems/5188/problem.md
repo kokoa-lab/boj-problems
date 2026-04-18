@@ -1,13 +1,13 @@
 ---
-title: Biomedical Engineering
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Biomedical Engineering"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 23
 accepted: 18
 solved_users: 17
-acceptance_rate: 80.952%
-collected_at: 2026-04-17T11:12:09.096003+00:00
+acceptance_rate: "80.952%"
+collected_at: "2026-04-17T11:12:09.096003+00:00"
 ---
 
 ## 문제

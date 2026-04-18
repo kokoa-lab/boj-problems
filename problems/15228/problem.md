@@ -1,13 +1,13 @@
 ---
-title: 3D Printed Statues
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "3D Printed Statues"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 196
 accepted: 122
 solved_users: 102
-acceptance_rate: 62.577%
-collected_at: 2026-04-17T13:55:29.212209+00:00
+acceptance_rate: "62.577%"
+collected_at: "2026-04-17T13:55:29.212209+00:00"
 ---
 
 ## 문제

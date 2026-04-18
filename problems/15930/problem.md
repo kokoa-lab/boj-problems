@@ -1,13 +1,13 @@
 ---
-title: Baby Seokhwan
-special_judge: false
-time_limit: 5 초
-memory_limit: 768 MB
+title: "Baby Seokhwan"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "768 MB"
 submissions: 69
 accepted: 15
 solved_users: 14
-acceptance_rate: 30.435%
-collected_at: 2026-04-17T14:08:45.313796+00:00
+acceptance_rate: "30.435%"
+collected_at: "2026-04-17T14:08:45.313796+00:00"
 ---
 
 ## 문제

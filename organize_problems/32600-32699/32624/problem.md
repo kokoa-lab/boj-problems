@@ -1,13 +1,13 @@
 ---
-title: 신기한 루트 개수 찾기
-special_judge: false
-time_limit: 3 초
-memory_limit: 1024 MB
+title: "신기한 루트 개수 찾기"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "1024 MB"
 submissions: 210
 accepted: 104
 solved_users: 82
-acceptance_rate: 51.250%
-collected_at: 2026-04-17T19:57:49.191000+00:00
+acceptance_rate: "51.250%"
+collected_at: "2026-04-17T19:57:49.191000+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Lunatic Mine
-special_judge: false
-time_limit: 2.953 초
-memory_limit: 589 MB
+title: "Lunatic Mine"
+special_judge: "false"
+time_limit: "2.953 초"
+memory_limit: "589 MB"
 submissions: 324
 accepted: 42
 solved_users: 23
-acceptance_rate: 10.849%
-collected_at: 2026-04-17T20:19:13.116084+00:00
+acceptance_rate: "10.849%"
+collected_at: "2026-04-17T20:19:13.116084+00:00"
 ---
 
 ## 문제

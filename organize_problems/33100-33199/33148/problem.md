@@ -1,13 +1,13 @@
 ---
-title: 또또 수열 문제야
-special_judge: true
-time_limit: 3 초
-memory_limit: 1024 MB
+title: "또또 수열 문제야"
+special_judge: "true"
+time_limit: "3 초"
+memory_limit: "1024 MB"
 submissions: 664
 accepted: 148
 solved_users: 98
-acceptance_rate: 20.851%
-collected_at: 2026-04-17T20:10:17.205417+00:00
+acceptance_rate: "20.851%"
+collected_at: "2026-04-17T20:10:17.205417+00:00"
 ---
 
 ## 문제

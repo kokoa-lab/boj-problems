@@ -1,13 +1,13 @@
 ---
-title: Dazzling Stars
-special_judge: false
-time_limit: 0.2 초
-memory_limit: 512 MB
+title: "Dazzling Stars"
+special_judge: "false"
+time_limit: "0.2 초"
+memory_limit: "512 MB"
 submissions: 156
 accepted: 59
 solved_users: 45
-acceptance_rate: 43.689%
-collected_at: 2026-04-17T14:53:15.471845+00:00
+acceptance_rate: "43.689%"
+collected_at: "2026-04-17T14:53:15.471845+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Sports Days 2.0
-special_judge: true
-time_limit: 3 초
-memory_limit: 512 MB
+title: "Sports Days 2.0"
+special_judge: "true"
+time_limit: "3 초"
+memory_limit: "512 MB"
 submissions: 4
 accepted: 1
 solved_users: 1
-acceptance_rate: 100.000%
-collected_at: 2026-04-17T16:22:04.045446+00:00
+acceptance_rate: "100.000%"
+collected_at: "2026-04-17T16:22:04.045446+00:00"
 ---
 
 ## 문제

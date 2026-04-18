@@ -1,13 +1,13 @@
 ---
-title: Ideal Pyramid
-special_judge: true
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "Ideal Pyramid"
+special_judge: "true"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 78
 accepted: 54
 solved_users: 47
-acceptance_rate: 68.116%
-collected_at: 2026-04-17T14:55:17.852365+00:00
+acceptance_rate: "68.116%"
+collected_at: "2026-04-17T14:55:17.852365+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 목장 주인 백승환의 선물
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "목장 주인 백승환의 선물"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 128
 accepted: 57
 solved_users: 53
-acceptance_rate: 49.533%
-collected_at: 2026-04-17T10:43:52.831024+00:00
+acceptance_rate: "49.533%"
+collected_at: "2026-04-17T10:43:52.831024+00:00"
 ---
 
 ## 문제

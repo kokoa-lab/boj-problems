@@ -1,13 +1,13 @@
 ---
-title: 트리오
-special_judge: false
-time_limit: 3 초
-memory_limit: 1024 MB
+title: "트리오"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "1024 MB"
 submissions: 98
 accepted: 28
 solved_users: 21
-acceptance_rate: 23.596%
-collected_at: 2026-04-17T20:21:54.427245+00:00
+acceptance_rate: "23.596%"
+collected_at: "2026-04-17T20:21:54.427245+00:00"
 ---
 
 ## 문제

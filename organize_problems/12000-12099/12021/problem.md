@@ -1,13 +1,13 @@
 ---
-title: 보물 찾기
-special_judge: true
-time_limit: 1 초
-memory_limit: 128 MB
+title: "보물 찾기"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 854
 accepted: 410
 solved_users: 343
-acceptance_rate: 51.118%
-collected_at: 2026-04-17T12:49:02.169579+00:00
+acceptance_rate: "51.118%"
+collected_at: "2026-04-17T12:49:02.169579+00:00"
 ---
 
 ## 문제

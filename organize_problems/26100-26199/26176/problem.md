@@ -1,13 +1,13 @@
 ---
-title: Circular Caramel Cookie
-special_judge: true
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Circular Caramel Cookie"
+special_judge: "true"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 213
 accepted: 65
 solved_users: 63
-acceptance_rate: 30.882%
-collected_at: 2026-04-17T17:41:23.260461+00:00
+acceptance_rate: "30.882%"
+collected_at: "2026-04-17T17:41:23.260461+00:00"
 ---
 
 ## 문제

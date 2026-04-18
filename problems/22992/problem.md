@@ -1,13 +1,13 @@
 ---
-title: 다꾸
-special_judge: false
-time_limit: 3 초 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "다꾸"
+special_judge: "false"
+time_limit: "3 초 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 161
 accepted: 43
 solved_users: 31
-acceptance_rate: 24.409%
-collected_at: 2026-04-17T16:39:56.752070+00:00
+acceptance_rate: "24.409%"
+collected_at: "2026-04-17T16:39:56.752070+00:00"
 ---
 
 ## 문제

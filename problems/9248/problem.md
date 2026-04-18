@@ -1,13 +1,13 @@
 ---
-title: Suffix Array
-special_judge: false
-time_limit: 3 초
-memory_limit: 256 MB
+title: "Suffix Array"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "256 MB"
 submissions: 7609
 accepted: 3511
 solved_users: 1484
-acceptance_rate: 41.909%
-collected_at: 2026-04-17T12:08:17.618951+00:00
+acceptance_rate: "41.909%"
+collected_at: "2026-04-17T12:08:17.618951+00:00"
 ---
 
 ## 문제

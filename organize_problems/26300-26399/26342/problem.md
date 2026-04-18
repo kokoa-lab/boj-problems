@@ -1,13 +1,13 @@
 ---
-title: Palindrome Maker
-special_judge: false
-time_limit: 3 초
-memory_limit: 1024 MB
+title: "Palindrome Maker"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "1024 MB"
 submissions: 120
 accepted: 16
 solved_users: 11
-acceptance_rate: 15.278%
-collected_at: 2026-04-17T17:44:03.905978+00:00
+acceptance_rate: "15.278%"
+collected_at: "2026-04-17T17:44:03.905978+00:00"
 ---
 
 ## 문제

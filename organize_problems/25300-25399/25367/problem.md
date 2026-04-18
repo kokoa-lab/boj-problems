@@ -1,13 +1,13 @@
 ---
-title: 너무 시시했다
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "너무 시시했다"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 607
 accepted: 172
 solved_users: 110
-acceptance_rate: 29.570%
-collected_at: 2026-04-17T17:25:40.804441+00:00
+acceptance_rate: "29.570%"
+collected_at: "2026-04-17T17:25:40.804441+00:00"
 ---
 
 ## 문제

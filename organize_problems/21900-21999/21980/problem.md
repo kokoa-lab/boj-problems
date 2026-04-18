@@ -1,13 +1,13 @@
 ---
-title: 비슷한 번호판
-special_judge: false
-time_limit: 1 초  ( 하단 참고 )
-memory_limit: 512 MB
+title: "비슷한 번호판"
+special_judge: "false"
+time_limit: "1 초  ( 하단 참고 )"
+memory_limit: "512 MB"
 submissions: 350
 accepted: 164
 solved_users: 121
-acceptance_rate: 48.016%
-collected_at: 2026-04-17T16:11:01.978666+00:00
+acceptance_rate: "48.016%"
+collected_at: "2026-04-17T16:11:01.978666+00:00"
 ---
 
 ## 문제

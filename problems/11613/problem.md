@@ -1,13 +1,13 @@
 ---
-title: ASCII Addition
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "ASCII Addition"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 261
 accepted: 178
 solved_users: 163
-acceptance_rate: 68.201%
-collected_at: 2026-04-17T12:42:59.096463+00:00
+acceptance_rate: "68.201%"
+collected_at: "2026-04-17T12:42:59.096463+00:00"
 ---
 
 ## 문제

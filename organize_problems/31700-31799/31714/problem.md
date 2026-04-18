@@ -1,13 +1,13 @@
 ---
-title: 지정좌석 배치하기 1
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "지정좌석 배치하기 1"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 574
 accepted: 347
 solved_users: 293
-acceptance_rate: 59.432%
-collected_at: 2026-04-17T19:35:10.063475+00:00
+acceptance_rate: "59.432%"
+collected_at: "2026-04-17T19:35:10.063475+00:00"
 ---
 
 ## 문제

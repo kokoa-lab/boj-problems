@@ -1,13 +1,13 @@
 ---
-title: More Dice
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "More Dice"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 1349
 accepted: 730
 solved_users: 664
-acceptance_rate: 53.419%
-collected_at: 2026-04-17T12:08:34.898164+00:00
+acceptance_rate: "53.419%"
+collected_at: "2026-04-17T12:08:34.898164+00:00"
 ---
 
 ## 문제

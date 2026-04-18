@@ -1,13 +1,13 @@
 ---
-title: The Ties That Guide Us
-special_judge: false
-time_limit: 5 초
-memory_limit: 1024 MB
+title: "The Ties That Guide Us"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "1024 MB"
 submissions: 114
 accepted: 16
 solved_users: 16
-acceptance_rate: 19.048%
-collected_at: 2026-04-17T18:52:54.062358+00:00
+acceptance_rate: "19.048%"
+collected_at: "2026-04-17T18:52:54.062358+00:00"
 ---
 
 ## 문제

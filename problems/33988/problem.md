@@ -1,13 +1,13 @@
 ---
-title: MST의 기댓값
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "MST의 기댓값"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 96
 accepted: 47
 solved_users: 44
-acceptance_rate: 47.826%
-collected_at: 2026-04-17T20:27:55.440287+00:00
+acceptance_rate: "47.826%"
+collected_at: "2026-04-17T20:27:55.440287+00:00"
 ---
 
 ## 문제

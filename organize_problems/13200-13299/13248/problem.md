@@ -1,13 +1,13 @@
 ---
-title: 수업 거절
-special_judge: true
-time_limit: 2 초
-memory_limit: 512 MB
+title: "수업 거절"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 116
 accepted: 29
 solved_users: 22
-acceptance_rate: 42.308%
-collected_at: 2026-04-17T13:10:07.140093+00:00
+acceptance_rate: "42.308%"
+collected_at: "2026-04-17T13:10:07.140093+00:00"
 ---
 
 ## 문제

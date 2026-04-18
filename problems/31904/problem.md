@@ -1,13 +1,13 @@
 ---
-title: Jet Lag
-special_judge: true
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Jet Lag"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 29
 accepted: 19
 solved_users: 18
-acceptance_rate: 64.286%
-collected_at: 2026-04-17T19:38:48.793457+00:00
+acceptance_rate: "64.286%"
+collected_at: "2026-04-17T19:38:48.793457+00:00"
 ---
 
 ## 문제

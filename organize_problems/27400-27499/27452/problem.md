@@ -1,13 +1,13 @@
 ---
-title: (재밌고 웃기고 센스있고 깔끔한 제목)
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "(재밌고 웃기고 센스있고 깔끔한 제목)"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 827
 accepted: 140
 solved_users: 116
-acceptance_rate: 17.683%
-collected_at: 2026-04-17T18:03:30.534527+00:00
+acceptance_rate: "17.683%"
+collected_at: "2026-04-17T18:03:30.534527+00:00"
 ---
 
 ## 문제

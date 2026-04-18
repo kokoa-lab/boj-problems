@@ -1,13 +1,13 @@
 ---
-title: ผู้เฒ่าเต่า
-special_judge: false
-time_limit: 5 초
-memory_limit: 256 MB
+title: "ผู้เฒ่าเต่า"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "256 MB"
 submissions: 31
 accepted: 11
 solved_users: 10
-acceptance_rate: 43.478%
-collected_at: 2026-04-17T12:21:37.732925+00:00
+acceptance_rate: "43.478%"
+collected_at: "2026-04-17T12:21:37.732925+00:00"
 ---
 
 ## 문제

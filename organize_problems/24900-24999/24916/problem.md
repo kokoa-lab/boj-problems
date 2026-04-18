@@ -1,13 +1,13 @@
 ---
-title: 용암 점프
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 512 MB (추가 메모리 없음)
+title: "용암 점프"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "512 MB (추가 메모리 없음)"
 submissions: 490
 accepted: 149
 solved_users: 66
-acceptance_rate: 20.886%
-collected_at: 2026-04-17T17:17:08.392655+00:00
+acceptance_rate: "20.886%"
+collected_at: "2026-04-17T17:17:08.392655+00:00"
 ---
 
 ## 문제

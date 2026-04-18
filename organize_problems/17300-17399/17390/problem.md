@@ -1,13 +1,13 @@
 ---
-title: 이건 꼭 풀어야 해!
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "이건 꼭 풀어야 해!"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 5308
 accepted: 2634
 solved_users: 2240
-acceptance_rate: 51.048%
-collected_at: 2026-04-17T14:38:22.318653+00:00
+acceptance_rate: "51.048%"
+collected_at: "2026-04-17T14:38:22.318653+00:00"
 ---
 
 ## 문제

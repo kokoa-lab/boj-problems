@@ -1,13 +1,13 @@
 ---
-title: Snowflakes
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Snowflakes"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 161
 accepted: 72
 solved_users: 63
-acceptance_rate: 50.806%
-collected_at: 2026-04-17T11:39:40.680858+00:00
+acceptance_rate: "50.806%"
+collected_at: "2026-04-17T11:39:40.680858+00:00"
 ---
 
 ## 문제

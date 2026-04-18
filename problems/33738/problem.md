@@ -1,13 +1,13 @@
 ---
-title: Min Max Subarrays
-special_judge: false
-time_limit: 3 초
-memory_limit: 2048 MB
+title: "Min Max Subarrays"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "2048 MB"
 submissions: 11
 accepted: 6
 solved_users: 4
-acceptance_rate: 66.667%
-collected_at: 2026-04-17T20:22:34.437212+00:00
+acceptance_rate: "66.667%"
+collected_at: "2026-04-17T20:22:34.437212+00:00"
 ---
 
 ## 문제

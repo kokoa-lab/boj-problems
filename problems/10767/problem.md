@@ -1,13 +1,13 @@
 ---
-title: Palindromic Paths
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Palindromic Paths"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 650
 accepted: 165
 solved_users: 134
-acceptance_rate: 25.573%
-collected_at: 2026-04-17T12:29:17.508570+00:00
+acceptance_rate: "25.573%"
+collected_at: "2026-04-17T12:29:17.508570+00:00"
 ---
 
 ## 문제

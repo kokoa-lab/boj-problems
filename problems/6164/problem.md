@@ -1,13 +1,13 @@
 ---
-title: Hotel
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Hotel"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 194
 accepted: 80
 solved_users: 63
-acceptance_rate: 39.375%
-collected_at: 2026-04-17T11:21:34.207011+00:00
+acceptance_rate: "39.375%"
+collected_at: "2026-04-17T11:21:34.207011+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 소금과 후추 (Small)
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "소금과 후추 (Small)"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 435
 accepted: 286
 solved_users: 252
-acceptance_rate: 70.787%
-collected_at: 2026-04-17T13:39:07.727992+00:00
+acceptance_rate: "70.787%"
+collected_at: "2026-04-17T13:39:07.727992+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Rather Perplexing Showdown (Large)
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Rather Perplexing Showdown (Large)"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 53
 accepted: 34
 solved_users: 34
-acceptance_rate: 64.151%
-collected_at: 2026-04-17T13:30:58.493728+00:00
+acceptance_rate: "64.151%"
+collected_at: "2026-04-17T13:30:58.493728+00:00"
 ---
 
 ## 문제

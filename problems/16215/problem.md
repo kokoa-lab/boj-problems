@@ -1,13 +1,13 @@
 ---
-title: Build a Wall!
-special_judge: false
-time_limit: 2.5 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Build a Wall!"
+special_judge: "false"
+time_limit: "2.5 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 88
 accepted: 24
 solved_users: 14
-acceptance_rate: 21.875%
-collected_at: 2026-04-17T14:13:38.586893+00:00
+acceptance_rate: "21.875%"
+collected_at: "2026-04-17T14:13:38.586893+00:00"
 ---
 
 ## 문제

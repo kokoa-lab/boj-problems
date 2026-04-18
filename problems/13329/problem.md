@@ -1,13 +1,13 @@
 ---
-title: Meteor Shower
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Meteor Shower"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 696
 accepted: 210
 solved_users: 102
-acceptance_rate: 24.578%
-collected_at: 2026-04-17T13:11:37.472150+00:00
+acceptance_rate: "24.578%"
+collected_at: "2026-04-17T13:11:37.472150+00:00"
 ---
 
 ## 문제

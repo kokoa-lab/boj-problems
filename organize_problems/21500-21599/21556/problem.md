@@ -1,13 +1,13 @@
 ---
-title: 우물 파기
-special_judge: false
-time_limit: 0.2 초
-memory_limit: 256 MB
+title: "우물 파기"
+special_judge: "false"
+time_limit: "0.2 초"
+memory_limit: "256 MB"
 submissions: 392
 accepted: 106
 solved_users: 87
-acceptance_rate: 29.097%
-collected_at: 2026-04-17T16:00:11.559883+00:00
+acceptance_rate: "29.097%"
+collected_at: "2026-04-17T16:00:11.559883+00:00"
 ---
 
 ## 문제

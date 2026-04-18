@@ -1,13 +1,13 @@
 ---
-title: Ezreal 여눈부터 가네 ㅈㅈ
-special_judge: false
-time_limit: 1.515 초
-memory_limit: 1515 MB
+title: "Ezreal 여눈부터 가네 ㅈㅈ"
+special_judge: "false"
+time_limit: "1.515 초"
+memory_limit: "1515 MB"
 submissions: 3189
 accepted: 2377
 solved_users: 1966
-acceptance_rate: 75.383%
-collected_at: 2026-04-17T15:37:12.829973+00:00
+acceptance_rate: "75.383%"
+collected_at: "2026-04-17T15:37:12.829973+00:00"
 ---
 
 ## 문제

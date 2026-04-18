@@ -1,13 +1,13 @@
 ---
-title: 계단 수
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "계단 수"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 17949
 accepted: 9772
 solved_users: 7448
-acceptance_rate: 54.034%
-collected_at: 2026-04-17T10:31:11.198508+00:00
+acceptance_rate: "54.034%"
+collected_at: "2026-04-17T10:31:11.198508+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 최소 편집
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "최소 편집"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 3985
 accepted: 2233
 solved_users: 1750
-acceptance_rate: 57.947%
-collected_at: 2026-04-17T14:00:09.874711+00:00
+acceptance_rate: "57.947%"
+collected_at: "2026-04-17T14:00:09.874711+00:00"
 ---
 
 ## 문제

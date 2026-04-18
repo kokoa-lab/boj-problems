@@ -1,13 +1,13 @@
 ---
-title: 세 수, 두 M
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "세 수, 두 M"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 2000
 accepted: 615
 solved_users: 517
-acceptance_rate: 32.272%
-collected_at: 2026-04-17T10:41:21.970913+00:00
+acceptance_rate: "32.272%"
+collected_at: "2026-04-17T10:41:21.970913+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 조용히 완전히 영원히
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "조용히 완전히 영원히"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 169
 accepted: 94
 solved_users: 78
-acceptance_rate: 57.353%
-collected_at: 2026-04-17T19:08:16.619680+00:00
+acceptance_rate: "57.353%"
+collected_at: "2026-04-17T19:08:16.619680+00:00"
 ---
 
 ## 문제

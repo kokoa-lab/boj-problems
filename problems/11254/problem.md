@@ -1,13 +1,13 @@
 ---
-title: Hydraulic Arm
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Hydraulic Arm"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 200
 accepted: 72
 solved_users: 61
-acceptance_rate: 41.497%
-collected_at: 2026-04-17T12:38:43.390504+00:00
+acceptance_rate: "41.497%"
+collected_at: "2026-04-17T12:38:43.390504+00:00"
 ---
 
 ## 문제

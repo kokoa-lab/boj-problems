@@ -1,13 +1,13 @@
 ---
-title: Harp Tuning
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Harp Tuning"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 200
 accepted: 127
 solved_users: 99
-acceptance_rate: 69.718%
-collected_at: 2026-04-17T17:11:17.008490+00:00
+acceptance_rate: "69.718%"
+collected_at: "2026-04-17T17:11:17.008490+00:00"
 ---
 
 ## 문제

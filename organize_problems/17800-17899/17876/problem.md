@@ -1,13 +1,13 @@
 ---
-title: Folding a Cube
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Folding a Cube"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 88
 accepted: 45
 solved_users: 41
-acceptance_rate: 57.746%
-collected_at: 2026-04-17T14:49:00.389250+00:00
+acceptance_rate: "57.746%"
+collected_at: "2026-04-17T14:49:00.389250+00:00"
 ---
 
 ## 문제

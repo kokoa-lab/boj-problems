@@ -1,13 +1,13 @@
 ---
-title: 부분 문자열 뽑기 게임
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "부분 문자열 뽑기 게임"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 867
 accepted: 421
 solved_users: 275
-acceptance_rate: 48.161%
-collected_at: 2026-04-17T10:30:48.393975+00:00
+acceptance_rate: "48.161%"
+collected_at: "2026-04-17T10:30:48.393975+00:00"
 ---
 
 ## 문제

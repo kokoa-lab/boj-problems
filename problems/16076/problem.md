@@ -1,13 +1,13 @@
 ---
-title: 휴식이 필요해
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "휴식이 필요해"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 3653
 accepted: 2757
 solved_users: 2307
-acceptance_rate: 83.496%
-collected_at: 2026-04-17T14:11:02.234837+00:00
+acceptance_rate: "83.496%"
+collected_at: "2026-04-17T14:11:02.234837+00:00"
 ---
 
 ## 문제

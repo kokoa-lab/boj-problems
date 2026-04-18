@@ -1,13 +1,13 @@
 ---
-title: 콜라츠 추측
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "콜라츠 추측"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 1311
 accepted: 416
 solved_users: 338
-acceptance_rate: 33.970%
-collected_at: 2026-04-17T11:31:37.965704+00:00
+acceptance_rate: "33.970%"
+collected_at: "2026-04-17T11:31:37.965704+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Tetrahedra
-special_judge: true
-time_limit: 8 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "Tetrahedra"
+special_judge: "true"
+time_limit: "8 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 44
 accepted: 7
 solved_users: 6
-acceptance_rate: 31.579%
-collected_at: 2026-04-17T16:33:14.807768+00:00
+acceptance_rate: "31.579%"
+collected_at: "2026-04-17T16:33:14.807768+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: A String Problem
-special_judge: false
-time_limit: 2 초
-memory_limit: 2048 MB
+title: "A String Problem"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "2048 MB"
 submissions: 25
 accepted: 10
 solved_users: 10
-acceptance_rate: 40.000%
-collected_at: 2026-04-17T20:36:32.561814+00:00
+acceptance_rate: "40.000%"
+collected_at: "2026-04-17T20:36:32.561814+00:00"
 ---
 
 ## 문제

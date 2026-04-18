@@ -1,13 +1,13 @@
 ---
-title: Cross Convolution
-special_judge: false
-time_limit: 1.5 초 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "Cross Convolution"
+special_judge: "false"
+time_limit: "1.5 초 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 365
 accepted: 185
 solved_users: 102
-acceptance_rate: 60.000%
-collected_at: 2026-04-17T20:08:33.560594+00:00
+acceptance_rate: "60.000%"
+collected_at: "2026-04-17T20:08:33.560594+00:00"
 ---
 
 ## 문제

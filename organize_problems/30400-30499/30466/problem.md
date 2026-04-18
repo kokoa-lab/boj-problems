@@ -1,13 +1,13 @@
 ---
-title: 우정은 BFS처럼, 사랑은 DFS처럼
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "우정은 BFS처럼, 사랑은 DFS처럼"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 356
 accepted: 219
 solved_users: 134
-acceptance_rate: 64.115%
-collected_at: 2026-04-17T19:07:18.161123+00:00
+acceptance_rate: "64.115%"
+collected_at: "2026-04-17T19:07:18.161123+00:00"
 ---
 
 ## 문제

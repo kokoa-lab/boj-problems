@@ -1,13 +1,13 @@
 ---
-title: Triple Sevens
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 2048 MB
+title: "Triple Sevens"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "2048 MB"
 submissions: 1147
 accepted: 906
 solved_users: 826
-acceptance_rate: 80.350%
-collected_at: 2026-04-17T19:29:44.029681+00:00
+acceptance_rate: "80.350%"
+collected_at: "2026-04-17T19:29:44.029681+00:00"
 ---
 
 ## 문제

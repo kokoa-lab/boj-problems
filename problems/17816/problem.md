@@ -1,13 +1,13 @@
 ---
-title: Beer Vision
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Beer Vision"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 42
 accepted: 18
 solved_users: 16
-acceptance_rate: 40.000%
-collected_at: 2026-04-17T14:47:48.643977+00:00
+acceptance_rate: "40.000%"
+collected_at: "2026-04-17T14:47:48.643977+00:00"
 ---
 
 ## 문제

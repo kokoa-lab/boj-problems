@@ -1,13 +1,13 @@
 ---
-title: Checkpoints
-special_judge: true
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "Checkpoints"
+special_judge: "true"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 35
 accepted: 30
 solved_users: 29
-acceptance_rate: 90.625%
-collected_at: 2026-04-17T18:04:08.389005+00:00
+acceptance_rate: "90.625%"
+collected_at: "2026-04-17T18:04:08.389005+00:00"
 ---
 
 ## 문제

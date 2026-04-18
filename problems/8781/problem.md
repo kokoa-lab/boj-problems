@@ -1,13 +1,13 @@
 ---
-title: Handel
-special_judge: true
-time_limit: 10 초
-memory_limit: 128 MB
+title: "Handel"
+special_judge: "true"
+time_limit: "10 초"
+memory_limit: "128 MB"
 submissions: 46
 accepted: 10
 solved_users: 9
-acceptance_rate: 32.143%
-collected_at: 2026-04-17T12:03:21.451938+00:00
+acceptance_rate: "32.143%"
+collected_at: "2026-04-17T12:03:21.451938+00:00"
 ---
 
 ## 문제

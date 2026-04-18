@@ -1,13 +1,13 @@
 ---
-title: 비슷한 문자열
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "비슷한 문자열"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 376
 accepted: 175
 solved_users: 134
-acceptance_rate: 51.538%
-collected_at: 2026-04-17T16:53:15.083638+00:00
+acceptance_rate: "51.538%"
+collected_at: "2026-04-17T16:53:15.083638+00:00"
 ---
 
 ## 문제

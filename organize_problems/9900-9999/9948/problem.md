@@ -1,13 +1,13 @@
 ---
-title: Have you had your birthday yet?
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Have you had your birthday yet?"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 370
 accepted: 263
 solved_users: 223
-acceptance_rate: 70.347%
-collected_at: 2026-04-17T12:17:05.742243+00:00
+acceptance_rate: "70.347%"
+collected_at: "2026-04-17T12:17:05.742243+00:00"
 ---
 
 ## 문제

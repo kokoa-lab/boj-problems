@@ -1,13 +1,13 @@
 ---
-title: Exam Room
-special_judge: false
-time_limit: 1.5 초
-memory_limit: 2048 MB
+title: "Exam Room"
+special_judge: "false"
+time_limit: "1.5 초"
+memory_limit: "2048 MB"
 submissions: 6
 accepted: 3
 solved_users: 3
-acceptance_rate: 60.000%
-collected_at: 2026-04-17T20:51:45.467626+00:00
+acceptance_rate: "60.000%"
+collected_at: "2026-04-17T20:51:45.467626+00:00"
 ---
 
 ## 문제

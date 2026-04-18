@@ -1,13 +1,13 @@
 ---
-title: Runaway Quail (Small)
-special_judge: true
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Runaway Quail (Small)"
+special_judge: "true"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 12
 accepted: 3
 solved_users: 3
-acceptance_rate: 50.000%
-collected_at: 2026-04-18T10:04:07.860809+00:00
+acceptance_rate: "50.000%"
+collected_at: "2026-04-18T10:04:07.860809+00:00"
 ---
 
 ## 문제

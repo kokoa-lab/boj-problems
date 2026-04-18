@@ -1,13 +1,13 @@
 ---
-title: Rearranging a Sequence
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Rearranging a Sequence"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 422
 accepted: 254
 solved_users: 205
-acceptance_rate: 60.117%
-collected_at: 2026-04-17T13:12:41.829431+00:00
+acceptance_rate: "60.117%"
+collected_at: "2026-04-17T13:12:41.829431+00:00"
 ---
 
 ## 문제

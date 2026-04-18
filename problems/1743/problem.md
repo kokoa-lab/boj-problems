@@ -1,13 +1,13 @@
 ---
-title: 음식물 피하기
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "음식물 피하기"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 26868
 accepted: 13228
 solved_users: 10538
-acceptance_rate: 49.158%
-collected_at: 2026-04-17T10:32:57.167182+00:00
+acceptance_rate: "49.158%"
+collected_at: "2026-04-17T10:32:57.167182+00:00"
 ---
 
 ## 문제

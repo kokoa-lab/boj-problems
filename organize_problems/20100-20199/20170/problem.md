@@ -1,13 +1,13 @@
 ---
-title: Commemorative Dice
-special_judge: false
-time_limit: 0.5 초
-memory_limit: 512 MB
+title: "Commemorative Dice"
+special_judge: "false"
+time_limit: "0.5 초"
+memory_limit: "512 MB"
 submissions: 702
 accepted: 559
 solved_users: 511
-acceptance_rate: 81.369%
-collected_at: 2026-04-17T15:32:34.762996+00:00
+acceptance_rate: "81.369%"
+collected_at: "2026-04-17T15:32:34.762996+00:00"
 ---
 
 ## 문제

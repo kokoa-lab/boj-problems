@@ -1,13 +1,13 @@
 ---
-title: 궁금한 시프트
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "궁금한 시프트"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 497
 accepted: 260
 solved_users: 216
-acceptance_rate: 52.048%
-collected_at: 2026-04-17T17:27:04.423551+00:00
+acceptance_rate: "52.048%"
+collected_at: "2026-04-17T17:27:04.423551+00:00"
 ---
 
 ## 문제

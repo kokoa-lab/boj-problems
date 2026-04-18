@@ -1,13 +1,13 @@
 ---
-title: 정답 비율 계산하기
-special_judge: true
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "정답 비율 계산하기"
+special_judge: "true"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 1344
 accepted: 532
 solved_users: 378
-acceptance_rate: 44.840%
-collected_at: 2026-04-17T14:02:17.145484+00:00
+acceptance_rate: "44.840%"
+collected_at: "2026-04-17T14:02:17.145484+00:00"
 ---
 
 ## 문제

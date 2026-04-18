@@ -1,13 +1,13 @@
 ---
-title: Musical Mending
-special_judge: false
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Musical Mending"
+special_judge: "false"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 138
 accepted: 93
 solved_users: 78
-acceptance_rate: 68.421%
-collected_at: 2026-04-17T19:52:19.518518+00:00
+acceptance_rate: "68.421%"
+collected_at: "2026-04-17T19:52:19.518518+00:00"
 ---
 
 ## 문제

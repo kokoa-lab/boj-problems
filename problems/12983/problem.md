@@ -1,13 +1,13 @@
 ---
-title: Set Definition
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Set Definition"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 245
 accepted: 101
 solved_users: 65
-acceptance_rate: 44.521%
-collected_at: 2026-04-17T13:05:17.104346+00:00
+acceptance_rate: "44.521%"
+collected_at: "2026-04-17T13:05:17.104346+00:00"
 ---
 
 ## 문제

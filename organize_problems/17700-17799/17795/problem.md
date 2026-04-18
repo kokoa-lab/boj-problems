@@ -1,13 +1,13 @@
 ---
-title: Ballpark Estimate
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Ballpark Estimate"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 247
 accepted: 187
 solved_users: 156
-acceptance_rate: 75.000%
-collected_at: 2026-04-17T14:47:19.930385+00:00
+acceptance_rate: "75.000%"
+collected_at: "2026-04-17T14:47:19.930385+00:00"
 ---
 
 ## 문제

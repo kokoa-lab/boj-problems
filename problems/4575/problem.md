@@ -1,13 +1,13 @@
 ---
-title: Refrigerator Magnets
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Refrigerator Magnets"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 464
 accepted: 353
 solved_users: 328
-acceptance_rate: 80.392%
-collected_at: 2026-04-17T11:04:42.143563+00:00
+acceptance_rate: "80.392%"
+collected_at: "2026-04-17T11:04:42.143563+00:00"
 ---
 
 ## 문제

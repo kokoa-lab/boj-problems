@@ -1,13 +1,13 @@
 ---
-title: Travel Plan (Large)
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Travel Plan (Large)"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 44
 accepted: 10
 solved_users: 8
-acceptance_rate: 61.538%
-collected_at: 2026-04-17T12:57:15.998581+00:00
+acceptance_rate: "61.538%"
+collected_at: "2026-04-17T12:57:15.998581+00:00"
 ---
 
 ## 문제

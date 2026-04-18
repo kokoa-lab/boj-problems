@@ -1,13 +1,13 @@
 ---
-title: Sort Me
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Sort Me"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 459
 accepted: 260
 solved_users: 191
-acceptance_rate: 64.527%
-collected_at: 2026-04-17T12:09:53.283435+00:00
+acceptance_rate: "64.527%"
+collected_at: "2026-04-17T12:09:53.283435+00:00"
 ---
 
 ## 문제

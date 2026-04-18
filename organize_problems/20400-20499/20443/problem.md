@@ -1,13 +1,13 @@
 ---
-title: 배드민턴 대회
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "배드민턴 대회"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 299
 accepted: 156
 solved_users: 151
-acceptance_rate: 56.554%
-collected_at: 2026-04-17T15:36:29.272614+00:00
+acceptance_rate: "56.554%"
+collected_at: "2026-04-17T15:36:29.272614+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Full Tank?
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Full Tank?"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 120
 accepted: 45
 solved_users: 27
-acceptance_rate: 34.177%
-collected_at: 2026-04-17T11:11:12.463973+00:00
+acceptance_rate: "34.177%"
+collected_at: "2026-04-17T11:11:12.463973+00:00"
 ---
 
 ## 문제

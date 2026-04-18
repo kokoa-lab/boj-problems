@@ -1,13 +1,13 @@
 ---
-title: Duopoly
-special_judge: false
-time_limit: 3 초
-memory_limit: 32 MB
+title: "Duopoly"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "32 MB"
 submissions: 35
 accepted: 9
 solved_users: 7
-acceptance_rate: 26.923%
-collected_at: 2026-04-17T11:52:18.965867+00:00
+acceptance_rate: "26.923%"
+collected_at: "2026-04-17T11:52:18.965867+00:00"
 ---
 
 ## 문제

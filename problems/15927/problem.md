@@ -1,13 +1,13 @@
 ---
-title: 회문은 회문아니야!!
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "회문은 회문아니야!!"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 6644
 accepted: 2872
 solved_users: 2415
-acceptance_rate: 43.002%
-collected_at: 2026-04-17T14:08:45.716913+00:00
+acceptance_rate: "43.002%"
+collected_at: "2026-04-17T14:08:45.716913+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 초콜릿 개구리와 징검다리
-special_judge: true
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "초콜릿 개구리와 징검다리"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 103
 accepted: 40
 solved_users: 32
-acceptance_rate: 46.377%
-collected_at: 2026-04-17T19:28:48.591867+00:00
+acceptance_rate: "46.377%"
+collected_at: "2026-04-17T19:28:48.591867+00:00"
 ---
 
 ## 문제

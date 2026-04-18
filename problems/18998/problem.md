@@ -1,13 +1,13 @@
 ---
-title: Pastry shop
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "Pastry shop"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 13
 accepted: 6
 solved_users: 6
-acceptance_rate: 100.000%
-collected_at: 2026-04-17T15:12:15.452627+00:00
+acceptance_rate: "100.000%"
+collected_at: "2026-04-17T15:12:15.452627+00:00"
 ---
 
 ## 문제

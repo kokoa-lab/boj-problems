@@ -1,13 +1,13 @@
 ---
-title: Minegraphed
-special_judge: true
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Minegraphed"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 89
 accepted: 31
 solved_users: 26
-acceptance_rate: 42.623%
-collected_at: 2026-04-17T14:22:00.934862+00:00
+acceptance_rate: "42.623%"
+collected_at: "2026-04-17T14:22:00.934862+00:00"
 ---
 
 ## 문제

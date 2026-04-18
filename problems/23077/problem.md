@@ -1,13 +1,13 @@
 ---
-title: Festival
-special_judge: false
-time_limit: 서브태스크 참고 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Festival"
+special_judge: "false"
+time_limit: "서브태스크 참고 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 145
 accepted: 45
 solved_users: 37
-acceptance_rate: 31.092%
-collected_at: 2026-04-17T16:41:32.361269+00:00
+acceptance_rate: "31.092%"
+collected_at: "2026-04-17T16:41:32.361269+00:00"
 ---
 
 ## 문제

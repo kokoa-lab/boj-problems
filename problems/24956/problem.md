@@ -1,13 +1,13 @@
 ---
-title: 나는 정말 휘파람을 못 불어
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "나는 정말 휘파람을 못 불어"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 1945
 accepted: 648
 solved_users: 418
-acceptance_rate: 29.943%
-collected_at: 2026-04-17T17:17:36.279005+00:00
+acceptance_rate: "29.943%"
+collected_at: "2026-04-17T17:17:36.279005+00:00"
 ---
 
 ## 문제

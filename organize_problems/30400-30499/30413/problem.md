@@ -1,13 +1,13 @@
 ---
-title: 양 한 마리... 양 A마리... 양 A제곱마리...
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "양 한 마리... 양 A마리... 양 A제곱마리..."
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 1993
 accepted: 511
 solved_users: 415
-acceptance_rate: 26.913%
-collected_at: 2026-04-17T19:06:17.977698+00:00
+acceptance_rate: "26.913%"
+collected_at: "2026-04-17T19:06:17.977698+00:00"
 ---
 
 ## 문제

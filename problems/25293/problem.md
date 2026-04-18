@@ -1,13 +1,13 @@
 ---
-title: I, O Bot
-special_judge: false
-time_limit: 40 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "I, O Bot"
+special_judge: "false"
+time_limit: "40 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 36
 accepted: 11
 solved_users: 8
-acceptance_rate: 26.667%
-collected_at: 2026-04-17T17:24:02.910939+00:00
+acceptance_rate: "26.667%"
+collected_at: "2026-04-17T17:24:02.910939+00:00"
 ---
 
 ## 문제

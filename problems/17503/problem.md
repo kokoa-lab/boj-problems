@@ -1,13 +1,13 @@
 ---
-title: 맥주 축제
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "맥주 축제"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 5565
 accepted: 1811
 solved_users: 1342
-acceptance_rate: 31.763%
-collected_at: 2026-04-17T14:40:43.456906+00:00
+acceptance_rate: "31.763%"
+collected_at: "2026-04-17T14:40:43.456906+00:00"
 ---
 
 ## 문제

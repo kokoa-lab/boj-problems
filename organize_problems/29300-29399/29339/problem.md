@@ -1,13 +1,13 @@
 ---
-title: Покраска забора
-special_judge: true
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Покраска забора"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 4
 accepted: 3
 solved_users: 1
-acceptance_rate: 100.000%
-collected_at: 2026-04-17T18:40:40.346837+00:00
+acceptance_rate: "100.000%"
+collected_at: "2026-04-17T18:40:40.346837+00:00"
 ---
 
 ## 문제

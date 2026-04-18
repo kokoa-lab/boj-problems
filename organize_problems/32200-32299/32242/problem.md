@@ -1,13 +1,13 @@
 ---
-title: $Axy+Bx+Cy+D=0$
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "$Axy+Bx+Cy+D=0$"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 666
 accepted: 119
 solved_users: 85
-acceptance_rate: 16.346%
-collected_at: 2026-04-17T19:46:43.052807+00:00
+acceptance_rate: "16.346%"
+collected_at: "2026-04-17T19:46:43.052807+00:00"
 ---
 
 ## 문제

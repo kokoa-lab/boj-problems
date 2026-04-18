@@ -1,13 +1,13 @@
 ---
-title: 랜덤 걷기
-special_judge: false
-time_limit: 10 초
-memory_limit: 128 MB
+title: "랜덤 걷기"
+special_judge: "false"
+time_limit: "10 초"
+memory_limit: "128 MB"
 submissions: 579
 accepted: 274
 solved_users: 193
-acceptance_rate: 48.130%
-collected_at: 2026-04-17T10:53:38.926319+00:00
+acceptance_rate: "48.130%"
+collected_at: "2026-04-17T10:53:38.926319+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Batman Returns
-special_judge: true
-time_limit: 2.5 초
-memory_limit: 1024 MB
+title: "Batman Returns"
+special_judge: "true"
+time_limit: "2.5 초"
+memory_limit: "1024 MB"
 submissions: 33
 accepted: 2
 solved_users: 1
-acceptance_rate: 3.333%
-collected_at: 2026-04-17T19:16:17.468543+00:00
+acceptance_rate: "3.333%"
+collected_at: "2026-04-17T19:16:17.468543+00:00"
 ---
 
 ## 문제

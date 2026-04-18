@@ -1,13 +1,13 @@
 ---
-title: Memento Mori
-special_judge: false
-time_limit: 2.5 초
-memory_limit: 64 MB
+title: "Memento Mori"
+special_judge: "false"
+time_limit: "2.5 초"
+memory_limit: "64 MB"
 submissions: 9
 accepted: 2
 solved_users: 2
-acceptance_rate: 100.000%
-collected_at: 2026-04-17T15:20:07.863210+00:00
+acceptance_rate: "100.000%"
+collected_at: "2026-04-17T15:20:07.863210+00:00"
 ---
 
 ## 문제

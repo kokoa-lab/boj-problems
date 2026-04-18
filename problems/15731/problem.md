@@ -1,13 +1,13 @@
 ---
-title: Python 문법
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Python 문법"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 398
 accepted: 137
 solved_users: 95
-acceptance_rate: 34.926%
-collected_at: 2026-04-17T14:05:15.238252+00:00
+acceptance_rate: "34.926%"
+collected_at: "2026-04-17T14:05:15.238252+00:00"
 ---
 
 ## 문제

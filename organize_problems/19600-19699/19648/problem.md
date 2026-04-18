@@ -1,13 +1,13 @@
 ---
-title: 미하일 2마리
-special_judge: false
-time_limit: 7 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "미하일 2마리"
+special_judge: "false"
+time_limit: "7 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 110
 accepted: 73
 solved_users: 57
-acceptance_rate: 90.476%
-collected_at: 2026-04-17T15:26:01.635911+00:00
+acceptance_rate: "90.476%"
+collected_at: "2026-04-17T15:26:01.635911+00:00"
 ---
 
 ## 문제

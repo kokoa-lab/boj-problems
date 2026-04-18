@@ -1,13 +1,13 @@
 ---
-title: Text Formalization
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Text Formalization"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 440
 accepted: 46
 solved_users: 23
-acceptance_rate: 8.812%
-collected_at: 2026-04-17T10:33:29.534481+00:00
+acceptance_rate: "8.812%"
+collected_at: "2026-04-17T10:33:29.534481+00:00"
 ---
 
 ## 문제

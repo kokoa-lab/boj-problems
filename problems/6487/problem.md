@@ -1,13 +1,13 @@
 ---
-title: 두 직선의 교차 여부
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "두 직선의 교차 여부"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 994
 accepted: 417
 solved_users: 347
-acceptance_rate: 47.665%
-collected_at: 2026-04-17T11:29:03.111921+00:00
+acceptance_rate: "47.665%"
+collected_at: "2026-04-17T11:29:03.111921+00:00"
 ---
 
 ## 문제

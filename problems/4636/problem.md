@@ -1,13 +1,13 @@
 ---
-title: Clay Bully
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Clay Bully"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 219
 accepted: 173
 solved_users: 142
-acceptance_rate: 79.775%
-collected_at: 2026-04-17T11:06:17.071576+00:00
+acceptance_rate: "79.775%"
+collected_at: "2026-04-17T11:06:17.071576+00:00"
 ---
 
 ## 문제

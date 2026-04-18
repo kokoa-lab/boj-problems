@@ -1,13 +1,13 @@
 ---
-title: Generalized Roman Numerals
-special_judge: false
-time_limit: 3 초
-memory_limit: 256 MB
+title: "Generalized Roman Numerals"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "256 MB"
 submissions: 83
 accepted: 19
 solved_users: 16
-acceptance_rate: 28.571%
-collected_at: 2026-04-17T12:22:55.992434+00:00
+acceptance_rate: "28.571%"
+collected_at: "2026-04-17T12:22:55.992434+00:00"
 ---
 
 ## 문제

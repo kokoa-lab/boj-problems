@@ -1,13 +1,13 @@
 ---
-title: 격자 보존하기
-special_judge: false
-time_limit: 1 초
-memory_limit: 32 MB
+title: "격자 보존하기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "32 MB"
 submissions: 340
 accepted: 93
 solved_users: 81
-acceptance_rate: 28.322%
-collected_at: 2026-04-17T12:47:35.515310+00:00
+acceptance_rate: "28.322%"
+collected_at: "2026-04-17T12:47:35.515310+00:00"
 ---
 
 ## 문제

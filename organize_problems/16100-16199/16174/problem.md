@@ -1,13 +1,13 @@
 ---
-title: 점프왕 쩰리 (Large)
-special_judge: false
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 128 MB
+title: "점프왕 쩰리 (Large)"
+special_judge: "false"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "128 MB"
 submissions: 5736
 accepted: 2576
 solved_users: 2123
-acceptance_rate: 48.261%
-collected_at: 2026-04-17T14:12:50.898784+00:00
+acceptance_rate: "48.261%"
+collected_at: "2026-04-17T14:12:50.898784+00:00"
 ---
 
 ## 문제

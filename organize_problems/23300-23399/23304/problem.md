@@ -1,13 +1,13 @@
 ---
-title: 아카라카
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 512 MB (추가 메모리 없음)
+title: "아카라카"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "512 MB (추가 메모리 없음)"
 submissions: 3366
 accepted: 1193
 solved_users: 953
-acceptance_rate: 35.600%
-collected_at: 2026-04-17T16:45:59.582237+00:00
+acceptance_rate: "35.600%"
+collected_at: "2026-04-17T16:45:59.582237+00:00"
 ---
 
 ## 문제

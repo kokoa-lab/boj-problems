@@ -1,13 +1,13 @@
 ---
-title: 집합과 쿼리
-special_judge: false
-time_limit: 4 초
-memory_limit: 512 MB
+title: "집합과 쿼리"
+special_judge: "false"
+time_limit: "4 초"
+memory_limit: "512 MB"
 submissions: 160
 accepted: 72
 solved_users: 45
-acceptance_rate: 48.913%
-collected_at: 2026-04-17T14:25:59.382309+00:00
+acceptance_rate: "48.913%"
+collected_at: "2026-04-17T14:25:59.382309+00:00"
 ---
 
 ## 문제

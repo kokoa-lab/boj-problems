@@ -1,13 +1,13 @@
 ---
-title: 오늘은 마가리타 한 잔?
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "오늘은 마가리타 한 잔?"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 373
 accepted: 128
 solved_users: 91
-acceptance_rate: 34.211%
-collected_at: 2026-04-17T10:44:19.119408+00:00
+acceptance_rate: "34.211%"
+collected_at: "2026-04-17T10:44:19.119408+00:00"
 ---
 
 ## 문제

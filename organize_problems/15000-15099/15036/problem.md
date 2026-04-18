@@ -1,13 +1,13 @@
 ---
-title: Just A Minim
-special_judge: true
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Just A Minim"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 669
 accepted: 481
 solved_users: 437
-acceptance_rate: 73.077%
-collected_at: 2026-04-17T13:48:49.568889+00:00
+acceptance_rate: "73.077%"
+collected_at: "2026-04-17T13:48:49.568889+00:00"
 ---
 
 ## 문제

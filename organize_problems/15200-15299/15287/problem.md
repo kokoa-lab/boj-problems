@@ -1,13 +1,13 @@
 ---
-title: Easy Quest
-special_judge: true
-time_limit: 3 초
-memory_limit: 512 MB
+title: "Easy Quest"
+special_judge: "true"
+time_limit: "3 초"
+memory_limit: "512 MB"
 submissions: 184
 accepted: 96
 solved_users: 77
-acceptance_rate: 51.333%
-collected_at: 2026-04-17T13:56:28.495542+00:00
+acceptance_rate: "51.333%"
+collected_at: "2026-04-17T13:56:28.495542+00:00"
 ---
 
 ## 문제

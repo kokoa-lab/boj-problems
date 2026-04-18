@@ -1,13 +1,13 @@
 ---
-title: 택시 거리
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "택시 거리"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 2064
 accepted: 1480
 solved_users: 1264
-acceptance_rate: 71.818%
-collected_at: 2026-04-17T14:34:52.841510+00:00
+acceptance_rate: "71.818%"
+collected_at: "2026-04-17T14:34:52.841510+00:00"
 ---
 
 ## 문제

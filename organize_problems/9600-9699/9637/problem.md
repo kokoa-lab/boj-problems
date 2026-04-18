@@ -1,13 +1,13 @@
 ---
-title: The Stones Game
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "The Stones Game"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 61
 accepted: 26
 solved_users: 25
-acceptance_rate: 42.373%
-collected_at: 2026-04-17T12:12:14.811887+00:00
+acceptance_rate: "42.373%"
+collected_at: "2026-04-17T12:12:14.811887+00:00"
 ---
 
 ## 문제

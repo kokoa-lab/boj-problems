@@ -1,13 +1,13 @@
 ---
-title: 재우가 매년 다짐하는 것은 무엇일까
-special_judge: true
-time_limit: 3 초 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "재우가 매년 다짐하는 것은 무엇일까"
+special_judge: "true"
+time_limit: "3 초 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 104
 accepted: 6
 solved_users: 6
-acceptance_rate: 11.321%
-collected_at: 2026-04-17T20:16:43.920076+00:00
+acceptance_rate: "11.321%"
+collected_at: "2026-04-17T20:16:43.920076+00:00"
 ---
 
 ## 문제

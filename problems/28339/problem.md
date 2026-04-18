@@ -1,13 +1,13 @@
 ---
-title: 이상한 드래프트
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "이상한 드래프트"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 157
 accepted: 65
 solved_users: 55
-acceptance_rate: 47.414%
-collected_at: 2026-04-17T18:23:31.746138+00:00
+acceptance_rate: "47.414%"
+collected_at: "2026-04-17T18:23:31.746138+00:00"
 ---
 
 ## 문제

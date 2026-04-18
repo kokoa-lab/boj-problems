@@ -1,13 +1,13 @@
 ---
-title: 머리 아픈 암산은 이제 그만!
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "머리 아픈 암산은 이제 그만!"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 431
 accepted: 185
 solved_users: 117
-acceptance_rate: 43.657%
-collected_at: 2026-04-17T17:27:56.202395+00:00
+acceptance_rate: "43.657%"
+collected_at: "2026-04-17T17:27:56.202395+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Financial Management
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Financial Management"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 620
 accepted: 71
 solved_users: 40
-acceptance_rate: 11.696%
-collected_at: 2026-04-17T11:08:19.331848+00:00
+acceptance_rate: "11.696%"
+collected_at: "2026-04-17T11:08:19.331848+00:00"
 ---
 
 ## 문제

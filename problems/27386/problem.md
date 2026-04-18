@@ -1,13 +1,13 @@
 ---
-title: Class Field Trip
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Class Field Trip"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 269
 accepted: 241
 solved_users: 210
-acceptance_rate: 90.129%
-collected_at: 2026-04-17T18:01:57.654542+00:00
+acceptance_rate: "90.129%"
+collected_at: "2026-04-17T18:01:57.654542+00:00"
 ---
 
 ## 문제

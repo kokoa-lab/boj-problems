@@ -1,13 +1,13 @@
 ---
-title: 감시 피하기
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "감시 피하기"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 16922
 accepted: 7926
 solved_users: 5364
-acceptance_rate: 46.434%
-collected_at: 2026-04-17T15:04:24.417274+00:00
+acceptance_rate: "46.434%"
+collected_at: "2026-04-17T15:04:24.417274+00:00"
 ---
 
 ## 문제

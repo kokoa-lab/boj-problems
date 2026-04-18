@@ -1,13 +1,13 @@
 ---
-title: 게임
-special_judge: true
-time_limit: 2 초
-memory_limit: 128 MB
+title: "게임"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 376
 accepted: 26
 solved_users: 16
-acceptance_rate: 6.324%
-collected_at: 2026-04-17T10:28:47.970402+00:00
+acceptance_rate: "6.324%"
+collected_at: "2026-04-17T10:28:47.970402+00:00"
 ---
 
 ## 문제

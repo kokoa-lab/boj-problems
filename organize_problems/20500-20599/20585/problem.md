@@ -1,13 +1,13 @@
 ---
-title: Goldfish and pikes
-special_judge: false
-time_limit: 12 초
-memory_limit: 256 MB
+title: "Goldfish and pikes"
+special_judge: "false"
+time_limit: "12 초"
+memory_limit: "256 MB"
 submissions: 8
 accepted: 2
 solved_users: 2
-acceptance_rate: 66.667%
-collected_at: 2026-04-17T15:38:26.036319+00:00
+acceptance_rate: "66.667%"
+collected_at: "2026-04-17T15:38:26.036319+00:00"
 ---
 
 ## 문제

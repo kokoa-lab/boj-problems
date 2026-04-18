@@ -1,13 +1,13 @@
 ---
-title: Air Leak
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Air Leak"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 84
 accepted: 27
 solved_users: 23
-acceptance_rate: 33.824%
-collected_at: 2026-04-17T18:54:10.350923+00:00
+acceptance_rate: "33.824%"
+collected_at: "2026-04-17T18:54:10.350923+00:00"
 ---
 
 ## 문제

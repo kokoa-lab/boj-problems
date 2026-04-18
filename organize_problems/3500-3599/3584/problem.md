@@ -1,13 +1,13 @@
 ---
-title: 가장 가까운 공통 조상
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "가장 가까운 공통 조상"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 16217
 accepted: 8662
 solved_users: 6512
-acceptance_rate: 53.142%
-collected_at: 2026-04-17T10:50:00.408235+00:00
+acceptance_rate: "53.142%"
+collected_at: "2026-04-17T10:50:00.408235+00:00"
 ---
 
 ## 문제

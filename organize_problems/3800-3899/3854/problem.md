@@ -1,13 +1,13 @@
 ---
-title: 3-sided dice
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "3-sided dice"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 125
 accepted: 21
 solved_users: 19
-acceptance_rate: 17.757%
-collected_at: 2026-04-17T10:52:35.990366+00:00
+acceptance_rate: "17.757%"
+collected_at: "2026-04-17T10:52:35.990366+00:00"
 ---
 
 ## 문제

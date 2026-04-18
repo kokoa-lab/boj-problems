@@ -1,13 +1,13 @@
 ---
-title: 키르히호프의 법칙
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "키르히호프의 법칙"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 97
 accepted: 16
 solved_users: 4
-acceptance_rate: 33.333%
-collected_at: 2026-04-17T13:17:43.228556+00:00
+acceptance_rate: "33.333%"
+collected_at: "2026-04-17T13:17:43.228556+00:00"
 ---
 
 ## 문제

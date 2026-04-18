@@ -1,13 +1,13 @@
 ---
-title: 순례의 시작
-special_judge: true
-time_limit: 3 초
-memory_limit: 1024 MB
+title: "순례의 시작"
+special_judge: "true"
+time_limit: "3 초"
+memory_limit: "1024 MB"
 submissions: 741
 accepted: 42
 solved_users: 27
-acceptance_rate: 9.677%
-collected_at: 2026-04-17T15:00:09.332794+00:00
+acceptance_rate: "9.677%"
+collected_at: "2026-04-17T15:00:09.332794+00:00"
 ---
 
 ## 문제

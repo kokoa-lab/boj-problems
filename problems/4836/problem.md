@@ -1,13 +1,13 @@
 ---
-title: 춤
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "춤"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 811
 accepted: 250
 solved_users: 203
-acceptance_rate: 32.376%
-collected_at: 2026-04-17T11:09:10.581931+00:00
+acceptance_rate: "32.376%"
+collected_at: "2026-04-17T11:09:10.581931+00:00"
 ---
 
 ## 문제

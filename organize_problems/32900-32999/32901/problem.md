@@ -1,13 +1,13 @@
 ---
-title: Mouse Trap
-special_judge: true
-time_limit: 3 초 (추가 시간 없음)
-memory_limit: 2048 MB
+title: "Mouse Trap"
+special_judge: "true"
+time_limit: "3 초 (추가 시간 없음)"
+memory_limit: "2048 MB"
 submissions: 62
 accepted: 45
 solved_users: 41
-acceptance_rate: 74.545%
-collected_at: 2026-04-17T20:03:55.869240+00:00
+acceptance_rate: "74.545%"
+collected_at: "2026-04-17T20:03:55.869240+00:00"
 ---
 
 ## 문제

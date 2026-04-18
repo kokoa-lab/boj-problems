@@ -1,13 +1,13 @@
 ---
-title: Old Wine Into New Bottles
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Old Wine Into New Bottles"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 7
 accepted: 4
 solved_users: 4
-acceptance_rate: 66.667%
-collected_at: 2026-04-17T11:00:56.236057+00:00
+acceptance_rate: "66.667%"
+collected_at: "2026-04-17T11:00:56.236057+00:00"
 ---
 
 ## 문제

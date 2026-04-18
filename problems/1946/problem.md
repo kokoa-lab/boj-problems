@@ -1,13 +1,13 @@
 ---
-title: 신입 사원
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "신입 사원"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 75980
 accepted: 27958
 solved_users: 20389
-acceptance_rate: 35.131%
-collected_at: 2026-04-17T10:36:14.504438+00:00
+acceptance_rate: "35.131%"
+collected_at: "2026-04-17T10:36:14.504438+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Absolutely
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Absolutely"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 1873
 accepted: 1152
 solved_users: 1095
-acceptance_rate: 64.450%
-collected_at: 2026-04-17T17:46:44.461482+00:00
+acceptance_rate: "64.450%"
+collected_at: "2026-04-17T17:46:44.461482+00:00"
 ---
 
 ## 문제

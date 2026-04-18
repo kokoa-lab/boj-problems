@@ -1,13 +1,13 @@
 ---
-title: 노래
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "노래"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 229
 accepted: 80
 solved_users: 65
-acceptance_rate: 37.356%
-collected_at: 2026-04-17T10:47:05.220810+00:00
+acceptance_rate: "37.356%"
+collected_at: "2026-04-17T10:47:05.220810+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: M(IT)+
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "M(IT)+"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 74
 accepted: 50
 solved_users: 46
-acceptance_rate: 65.714%
-collected_at: 2026-04-17T20:39:41.602614+00:00
+acceptance_rate: "65.714%"
+collected_at: "2026-04-17T20:39:41.602614+00:00"
 ---
 
 ## 문제

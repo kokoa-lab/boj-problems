@@ -1,13 +1,13 @@
 ---
-title: The Gardener of Seville (Large)
-special_judge: true
-time_limit: 5 초
-memory_limit: 512 MB
+title: "The Gardener of Seville (Large)"
+special_judge: "true"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 51
 accepted: 15
 solved_users: 12
-acceptance_rate: 27.907%
-collected_at: 2026-04-17T13:31:04.139911+00:00
+acceptance_rate: "27.907%"
+collected_at: "2026-04-17T13:31:04.139911+00:00"
 ---
 
 ## 문제

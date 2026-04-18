@@ -1,13 +1,13 @@
 ---
-title: Password Attacker (Small)
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Password Attacker (Small)"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 139
 accepted: 108
 solved_users: 100
-acceptance_rate: 79.365%
-collected_at: 2026-04-17T12:51:46.494087+00:00
+acceptance_rate: "79.365%"
+collected_at: "2026-04-17T12:51:46.494087+00:00"
 ---
 
 ## 문제

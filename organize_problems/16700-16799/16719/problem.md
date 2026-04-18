@@ -1,13 +1,13 @@
 ---
-title: ZOAC
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "ZOAC"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 4132
 accepted: 2173
 solved_users: 1765
-acceptance_rate: 54.509%
-collected_at: 2026-04-17T14:22:56.917602+00:00
+acceptance_rate: "54.509%"
+collected_at: "2026-04-17T14:22:56.917602+00:00"
 ---
 
 ## 문제

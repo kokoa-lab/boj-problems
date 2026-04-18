@@ -1,13 +1,13 @@
 ---
-title: 거의 같은 문자열
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "거의 같은 문자열"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 245
 accepted: 41
 solved_users: 27
-acceptance_rate: 13.500%
-collected_at: 2026-04-17T20:28:18.661234+00:00
+acceptance_rate: "13.500%"
+collected_at: "2026-04-17T20:28:18.661234+00:00"
 ---
 
 ## 문제

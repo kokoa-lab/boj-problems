@@ -1,13 +1,13 @@
 ---
-title: Goods Market
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Goods Market"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 100
 accepted: 20
 solved_users: 15
-acceptance_rate: 34.884%
-collected_at: 2026-04-17T12:38:43.698136+00:00
+acceptance_rate: "34.884%"
+collected_at: "2026-04-17T12:38:43.698136+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 서로 다른 부분 문자열 쿼리 2
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "서로 다른 부분 문자열 쿼리 2"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 376
 accepted: 152
 solved_users: 89
-acceptance_rate: 39.381%
-collected_at: 2026-04-17T14:26:02.267455+00:00
+acceptance_rate: "39.381%"
+collected_at: "2026-04-17T14:26:02.267455+00:00"
 ---
 
 ## 문제

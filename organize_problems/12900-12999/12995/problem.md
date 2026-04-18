@@ -1,13 +1,13 @@
 ---
-title: 트리나라
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "트리나라"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 742
 accepted: 441
 solved_users: 322
-acceptance_rate: 58.123%
-collected_at: 2026-04-17T13:05:30.382497+00:00
+acceptance_rate: "58.123%"
+collected_at: "2026-04-17T13:05:30.382497+00:00"
 ---
 
 ## 문제

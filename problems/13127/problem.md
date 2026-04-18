@@ -1,13 +1,13 @@
 ---
-title: 도박과 사각형
-special_judge: true
-time_limit: 1 초
-memory_limit: 256 MB
+title: "도박과 사각형"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 132
 accepted: 46
 solved_users: 38
-acceptance_rate: 38.384%
-collected_at: 2026-04-17T13:07:49.355769+00:00
+acceptance_rate: "38.384%"
+collected_at: "2026-04-17T13:07:49.355769+00:00"
 ---
 
 ## 문제

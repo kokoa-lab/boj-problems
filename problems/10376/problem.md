@@ -1,13 +1,13 @@
 ---
-title: Expression
-special_judge: true
-time_limit: 10 초
-memory_limit: 256 MB
+title: "Expression"
+special_judge: "true"
+time_limit: "10 초"
+memory_limit: "256 MB"
 submissions: 12
 accepted: 3
 solved_users: 3
-acceptance_rate: 25.000%
-collected_at: 2026-04-17T12:22:43.685877+00:00
+acceptance_rate: "25.000%"
+collected_at: "2026-04-17T12:22:43.685877+00:00"
 ---
 
 ## 문제

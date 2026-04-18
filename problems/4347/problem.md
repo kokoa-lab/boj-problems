@@ -1,13 +1,13 @@
 ---
-title: Tic Tac Toe
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Tic Tac Toe"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 754
 accepted: 152
 solved_users: 134
-acceptance_rate: 26.070%
-collected_at: 2026-04-17T10:59:54.084484+00:00
+acceptance_rate: "26.070%"
+collected_at: "2026-04-17T10:59:54.084484+00:00"
 ---
 
 ## 문제

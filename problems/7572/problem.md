@@ -1,13 +1,13 @@
 ---
-title: 간지(干支)
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "간지(干支)"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 6030
 accepted: 3499
 solved_users: 3087
-acceptance_rate: 60.494%
-collected_at: 2026-04-17T11:50:45.485674+00:00
+acceptance_rate: "60.494%"
+collected_at: "2026-04-17T11:50:45.485674+00:00"
 ---
 
 ## 문제

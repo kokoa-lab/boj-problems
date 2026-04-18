@@ -1,13 +1,13 @@
 ---
-title: Dots and Boxes
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Dots and Boxes"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 14
 accepted: 11
 solved_users: 11
-acceptance_rate: 84.615%
-collected_at: 2026-04-17T13:11:04.983660+00:00
+acceptance_rate: "84.615%"
+collected_at: "2026-04-17T13:11:04.983660+00:00"
 ---
 
 ## 문제

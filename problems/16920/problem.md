@@ -1,13 +1,13 @@
 ---
-title: 확장 게임
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "확장 게임"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 11561
 accepted: 2955
 solved_users: 2022
-acceptance_rate: 24.224%
-collected_at: 2026-04-17T14:26:10.063024+00:00
+acceptance_rate: "24.224%"
+collected_at: "2026-04-17T14:26:10.063024+00:00"
 ---
 
 ## 문제

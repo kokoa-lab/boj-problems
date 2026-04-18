@@ -1,13 +1,13 @@
 ---
-title: PuyoPuyo
-special_judge: true
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "PuyoPuyo"
+special_judge: "true"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 255
 accepted: 88
 solved_users: 75
-acceptance_rate: 34.404%
-collected_at: 2026-04-17T14:06:00.072176+00:00
+acceptance_rate: "34.404%"
+collected_at: "2026-04-17T14:06:00.072176+00:00"
 ---
 
 ## 문제

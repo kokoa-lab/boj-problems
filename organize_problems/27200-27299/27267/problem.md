@@ -1,13 +1,13 @@
 ---
-title: Сравнение комнат
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Сравнение комнат"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 1142
 accepted: 975
 solved_users: 929
-acceptance_rate: 86.338%
-collected_at: 2026-04-17T17:59:35.085448+00:00
+acceptance_rate: "86.338%"
+collected_at: "2026-04-17T17:59:35.085448+00:00"
 ---
 
 ## 문제

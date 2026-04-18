@@ -1,13 +1,13 @@
 ---
-title: Lawrence of Arabia
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "Lawrence of Arabia"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 54
 accepted: 29
 solved_users: 11
-acceptance_rate: 57.895%
-collected_at: 2026-04-17T10:56:04.854888+00:00
+acceptance_rate: "57.895%"
+collected_at: "2026-04-17T10:56:04.854888+00:00"
 ---
 
 ## 문제

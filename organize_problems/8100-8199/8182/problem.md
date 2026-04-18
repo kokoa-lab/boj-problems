@@ -1,13 +1,13 @@
 ---
-title: Island
-special_judge: true
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Island"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 83
 accepted: 14
 solved_users: 13
-acceptance_rate: 17.808%
-collected_at: 2026-04-17T11:56:54.646881+00:00
+acceptance_rate: "17.808%"
+collected_at: "2026-04-17T11:56:54.646881+00:00"
 ---
 
 ## 문제

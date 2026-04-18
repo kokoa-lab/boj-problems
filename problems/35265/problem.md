@@ -1,13 +1,13 @@
 ---
-title: 정사각형 따먹기
-special_judge: true
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "정사각형 따먹기"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 460
 accepted: 163
 solved_users: 140
-acceptance_rate: 35.264%
-collected_at: 2026-04-17T20:59:18.520418+00:00
+acceptance_rate: "35.264%"
+collected_at: "2026-04-17T20:59:18.520418+00:00"
 ---
 
 ## 문제

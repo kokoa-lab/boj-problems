@@ -1,13 +1,13 @@
 ---
-title: Collecting Apples
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Collecting Apples"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 42
 accepted: 19
 solved_users: 17
-acceptance_rate: 42.500%
-collected_at: 2026-04-17T15:45:55.475809+00:00
+acceptance_rate: "42.500%"
+collected_at: "2026-04-17T15:45:55.475809+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Triangles
-special_judge: false
-time_limit: 1.2 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Triangles"
+special_judge: "false"
+time_limit: "1.2 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 367
 accepted: 125
 solved_users: 83
-acceptance_rate: 31.321%
-collected_at: 2026-04-17T16:45:05.242218+00:00
+acceptance_rate: "31.321%"
+collected_at: "2026-04-17T16:45:05.242218+00:00"
 ---
 
 ## 문제

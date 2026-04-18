@@ -1,13 +1,13 @@
 ---
-title: 선형대수학과 응용
-special_judge: false
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 256 MB
+title: "선형대수학과 응용"
+special_judge: "false"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "256 MB"
 submissions: 172
 accepted: 61
 solved_users: 50
-acceptance_rate: 43.860%
-collected_at: 2026-04-17T14:12:10.637607+00:00
+acceptance_rate: "43.860%"
+collected_at: "2026-04-17T14:12:10.637607+00:00"
 ---
 
 ## 문제

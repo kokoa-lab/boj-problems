@@ -1,13 +1,13 @@
 ---
-title: 무궁화 꽃이 피었습니다
-special_judge: false
-time_limit: 3 초
-memory_limit: 2048 MB
+title: "무궁화 꽃이 피었습니다"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "2048 MB"
 submissions: 426
 accepted: 151
 solved_users: 85
-acceptance_rate: 33.865%
-collected_at: 2026-04-17T20:31:06.376075+00:00
+acceptance_rate: "33.865%"
+collected_at: "2026-04-17T20:31:06.376075+00:00"
 ---
 
 ## 문제

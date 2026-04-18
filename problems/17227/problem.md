@@ -1,13 +1,13 @@
 ---
-title: 그래서 팩 주냐?
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "그래서 팩 주냐?"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 254
 accepted: 108
 solved_users: 88
-acceptance_rate: 45.833%
-collected_at: 2026-04-17T14:33:49.819501+00:00
+acceptance_rate: "45.833%"
+collected_at: "2026-04-17T14:33:49.819501+00:00"
 ---
 
 ## 문제

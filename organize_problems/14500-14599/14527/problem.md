@@ -1,13 +1,13 @@
 ---
-title: Paired Up
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Paired Up"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 713
 accepted: 358
 solved_users: 314
-acceptance_rate: 50.160%
-collected_at: 2026-04-17T13:37:16.593607+00:00
+acceptance_rate: "50.160%"
+collected_at: "2026-04-17T13:37:16.593607+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Playing With Stones
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Playing With Stones"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 194
 accepted: 98
 solved_users: 51
-acceptance_rate: 63.750%
-collected_at: 2026-04-17T11:53:17.818464+00:00
+acceptance_rate: "63.750%"
+collected_at: "2026-04-17T11:53:17.818464+00:00"
 ---
 
 ## 문제

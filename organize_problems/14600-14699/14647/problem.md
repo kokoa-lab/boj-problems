@@ -1,13 +1,13 @@
 ---
-title: 준오는 조류혐오야!!
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "준오는 조류혐오야!!"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 2980
 accepted: 1715
 solved_users: 1422
-acceptance_rate: 57.993%
-collected_at: 2026-04-17T13:39:50.753416+00:00
+acceptance_rate: "57.993%"
+collected_at: "2026-04-17T13:39:50.753416+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 디지털 카운터
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "디지털 카운터"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 4733
 accepted: 1001
 solved_users: 809
-acceptance_rate: 31.688%
-collected_at: 2026-04-17T10:27:42.685395+00:00
+acceptance_rate: "31.688%"
+collected_at: "2026-04-17T10:27:42.685395+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: チーズ (Cheese)
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "チーズ (Cheese)"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 1716
 accepted: 1042
 solved_users: 783
-acceptance_rate: 63.094%
-collected_at: 2026-04-17T11:15:27.195732+00:00
+acceptance_rate: "63.094%"
+collected_at: "2026-04-17T11:15:27.195732+00:00"
 ---
 
 ## 문제

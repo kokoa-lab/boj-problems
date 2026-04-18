@@ -1,13 +1,13 @@
 ---
-title: 소셜 광고
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "소셜 광고"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 780
 accepted: 243
 solved_users: 175
-acceptance_rate: 34.113%
-collected_at: 2026-04-17T12:09:00.922348+00:00
+acceptance_rate: "34.113%"
+collected_at: "2026-04-17T12:09:00.922348+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Test Data Analysis
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "Test Data Analysis"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 252
 accepted: 65
 solved_users: 44
-acceptance_rate: 27.160%
-collected_at: 2026-04-17T12:20:38.263232+00:00
+acceptance_rate: "27.160%"
+collected_at: "2026-04-17T12:20:38.263232+00:00"
 ---
 
 ## 문제

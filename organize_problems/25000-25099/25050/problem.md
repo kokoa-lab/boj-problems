@@ -1,13 +1,13 @@
 ---
-title: 최고의 간선
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "최고의 간선"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 382
 accepted: 127
 solved_users: 103
-acceptance_rate: 32.188%
-collected_at: 2026-04-17T17:19:47.318399+00:00
+acceptance_rate: "32.188%"
+collected_at: "2026-04-17T17:19:47.318399+00:00"
 ---
 
 ## 문제

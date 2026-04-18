@@ -1,13 +1,13 @@
 ---
-title: Flipping Out
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Flipping Out"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 15
 accepted: 4
 solved_users: 3
-acceptance_rate: 23.077%
-collected_at: 2026-04-17T13:51:40.846593+00:00
+acceptance_rate: "23.077%"
+collected_at: "2026-04-17T13:51:40.846593+00:00"
 ---
 
 ## 문제

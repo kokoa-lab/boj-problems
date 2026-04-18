@@ -1,13 +1,13 @@
 ---
-title: Harvesting a Farm
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Harvesting a Farm"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 27
 accepted: 25
 solved_users: 20
-acceptance_rate: 95.238%
-collected_at: 2026-04-17T11:24:11.809474+00:00
+acceptance_rate: "95.238%"
+collected_at: "2026-04-17T11:24:11.809474+00:00"
 ---
 
 ## 문제

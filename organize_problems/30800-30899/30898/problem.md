@@ -1,13 +1,13 @@
 ---
-title: Arranging Adapters
-special_judge: false
-time_limit: 4 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Arranging Adapters"
+special_judge: "false"
+time_limit: "4 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 266
 accepted: 87
 solved_users: 70
-acceptance_rate: 37.433%
-collected_at: 2026-04-17T19:17:44.562213+00:00
+acceptance_rate: "37.433%"
+collected_at: "2026-04-17T19:17:44.562213+00:00"
 ---
 
 ## 문제

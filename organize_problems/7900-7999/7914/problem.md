@@ -1,13 +1,13 @@
 ---
-title: Intelligence Quotient
-special_judge: true
-time_limit: 3 초
-memory_limit: 128 MB
+title: "Intelligence Quotient"
+special_judge: "true"
+time_limit: "3 초"
+memory_limit: "128 MB"
 submissions: 33
 accepted: 19
 solved_users: 15
-acceptance_rate: 57.692%
-collected_at: 2026-04-17T11:54:07.919716+00:00
+acceptance_rate: "57.692%"
+collected_at: "2026-04-17T11:54:07.919716+00:00"
 ---
 
 ## 문제

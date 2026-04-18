@@ -1,13 +1,13 @@
 ---
-title: 수 고르기
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "수 고르기"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 36304
 accepted: 12674
 solved_users: 8696
-acceptance_rate: 31.626%
-collected_at: 2026-04-17T10:39:44.489050+00:00
+acceptance_rate: "31.626%"
+collected_at: "2026-04-17T10:39:44.489050+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Ley Lines
-special_judge: false
-time_limit: 15 초 (추가 시간 없음)
-memory_limit: 2048 MB
+title: "Ley Lines"
+special_judge: "false"
+time_limit: "15 초 (추가 시간 없음)"
+memory_limit: "2048 MB"
 submissions: 227
 accepted: 60
 solved_users: 49
-acceptance_rate: 27.222%
-collected_at: 2026-04-17T16:44:04.306260+00:00
+acceptance_rate: "27.222%"
+collected_at: "2026-04-17T16:44:04.306260+00:00"
 ---
 
 ## 문제

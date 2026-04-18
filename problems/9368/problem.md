@@ -1,13 +1,13 @@
 ---
-title: 매수
-special_judge: true
-time_limit: 5 초
-memory_limit: 128 MB
+title: "매수"
+special_judge: "true"
+time_limit: "5 초"
+memory_limit: "128 MB"
 submissions: 236
 accepted: 79
 solved_users: 57
-acceptance_rate: 29.534%
-collected_at: 2026-04-17T12:09:18.222305+00:00
+acceptance_rate: "29.534%"
+collected_at: "2026-04-17T12:09:18.222305+00:00"
 ---
 
 ## 문제

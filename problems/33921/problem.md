@@ -1,13 +1,13 @@
 ---
-title: 아름다운 수열
-special_judge: true
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "아름다운 수열"
+special_judge: "true"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 30
 accepted: 19
 solved_users: 17
-acceptance_rate: 85.000%
-collected_at: 2026-04-17T20:26:25.632631+00:00
+acceptance_rate: "85.000%"
+collected_at: "2026-04-17T20:26:25.632631+00:00"
 ---
 
 ## 문제

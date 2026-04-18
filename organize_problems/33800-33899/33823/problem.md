@@ -1,13 +1,13 @@
 ---
-title: Akwarium
-special_judge: false
-time_limit: 10 초 (추가 시간 없음)
-memory_limit: 2048 MB
+title: "Akwarium"
+special_judge: "false"
+time_limit: "10 초 (추가 시간 없음)"
+memory_limit: "2048 MB"
 submissions: 22
 accepted: 14
 solved_users: 9
-acceptance_rate: 64.286%
-collected_at: 2026-04-17T20:24:16.540884+00:00
+acceptance_rate: "64.286%"
+collected_at: "2026-04-17T20:24:16.540884+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 아기 홍윤
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "아기 홍윤"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 1274
 accepted: 516
 solved_users: 409
-acceptance_rate: 44.121%
-collected_at: 2026-04-17T17:01:23.435108+00:00
+acceptance_rate: "44.121%"
+collected_at: "2026-04-17T17:01:23.435108+00:00"
 ---
 
 ## 문제

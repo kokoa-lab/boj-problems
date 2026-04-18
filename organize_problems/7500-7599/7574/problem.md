@@ -1,13 +1,13 @@
 ---
-title: 개구리
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "개구리"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 1150
 accepted: 243
 solved_users: 163
-acceptance_rate: 23.692%
-collected_at: 2026-04-17T11:50:45.554501+00:00
+acceptance_rate: "23.692%"
+collected_at: "2026-04-17T11:50:45.554501+00:00"
 ---
 
 ## 문제

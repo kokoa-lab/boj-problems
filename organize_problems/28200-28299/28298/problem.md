@@ -1,13 +1,13 @@
 ---
-title: 더 흔한 타일 색칠 문제
-special_judge: true
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "더 흔한 타일 색칠 문제"
+special_judge: "true"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 1152
 accepted: 639
 solved_users: 570
-acceptance_rate: 58.642%
-collected_at: 2026-04-17T18:22:06.822140+00:00
+acceptance_rate: "58.642%"
+collected_at: "2026-04-17T18:22:06.822140+00:00"
 ---
 
 ## 문제

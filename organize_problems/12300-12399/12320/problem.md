@@ -1,13 +1,13 @@
 ---
-title: Pogo (Large)
-special_judge: true
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Pogo (Large)"
+special_judge: "true"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 33
 accepted: 23
 solved_users: 19
-acceptance_rate: 70.370%
-collected_at: 2026-04-17T12:53:29.260142+00:00
+acceptance_rate: "70.370%"
+collected_at: "2026-04-17T12:53:29.260142+00:00"
 ---
 
 ## 문제

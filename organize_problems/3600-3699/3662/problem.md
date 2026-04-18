@@ -1,13 +1,13 @@
 ---
-title: 보석 분배
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "보석 분배"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 124
 accepted: 42
 solved_users: 34
-acceptance_rate: 41.975%
-collected_at: 2026-04-17T10:50:42.625691+00:00
+acceptance_rate: "41.975%"
+collected_at: "2026-04-17T10:50:42.625691+00:00"
 ---
 
 ## 문제

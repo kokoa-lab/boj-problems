@@ -1,13 +1,13 @@
 ---
-title: The Grand Noi and ICPC Battle
-special_judge: false
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "The Grand Noi and ICPC Battle"
+special_judge: "false"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 13
 accepted: 6
 solved_users: 6
-acceptance_rate: 46.154%
-collected_at: 2026-04-17T13:58:13.943780+00:00
+acceptance_rate: "46.154%"
+collected_at: "2026-04-17T13:58:13.943780+00:00"
 ---
 
 ## 문제

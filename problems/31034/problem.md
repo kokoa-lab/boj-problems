@@ -1,13 +1,13 @@
 ---
-title: 초전도체 부수기
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "초전도체 부수기"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 344
 accepted: 55
 solved_users: 46
-acceptance_rate: 29.487%
-collected_at: 2026-04-17T19:20:09.832160+00:00
+acceptance_rate: "29.487%"
+collected_at: "2026-04-17T19:20:09.832160+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 아 맞다 마늘
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "아 맞다 마늘"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 2349
 accepted: 1759
 solved_users: 1567
-acceptance_rate: 75.810%
-collected_at: 2026-04-17T20:06:44.880946+00:00
+acceptance_rate: "75.810%"
+collected_at: "2026-04-17T20:06:44.880946+00:00"
 ---
 
 ## 문제

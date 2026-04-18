@@ -1,13 +1,13 @@
 ---
-title: 피타고라스 수
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "피타고라스 수"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 545
 accepted: 160
 solved_users: 141
-acceptance_rate: 33.255%
-collected_at: 2026-04-17T13:32:15.601864+00:00
+acceptance_rate: "33.255%"
+collected_at: "2026-04-17T13:32:15.601864+00:00"
 ---
 
 ## 문제

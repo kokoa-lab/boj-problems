@@ -1,13 +1,13 @@
 ---
-title: 라그랑주님 수학에는 뺄셈도 있어요
-special_judge: true
-time_limit: 1 초
-memory_limit: 512 MB
+title: "라그랑주님 수학에는 뺄셈도 있어요"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 443
 accepted: 79
 solved_users: 56
-acceptance_rate: 17.391%
-collected_at: 2026-04-17T17:26:09.600361+00:00
+acceptance_rate: "17.391%"
+collected_at: "2026-04-17T17:26:09.600361+00:00"
 ---
 
 ## 문제

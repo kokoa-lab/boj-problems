@@ -1,13 +1,13 @@
 ---
-title: 영재의 시험
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "영재의 시험"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 2383
 accepted: 1871
 solved_users: 1396
-acceptance_rate: 78.339%
-collected_at: 2026-04-17T15:29:45.000857+00:00
+acceptance_rate: "78.339%"
+collected_at: "2026-04-17T15:29:45.000857+00:00"
 ---
 
 ## 문제

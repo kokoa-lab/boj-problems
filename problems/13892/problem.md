@@ -1,13 +1,13 @@
 ---
-title: ACM Tax
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "ACM Tax"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 183
 accepted: 56
 solved_users: 47
-acceptance_rate: 30.519%
-collected_at: 2026-04-17T13:21:47.286961+00:00
+acceptance_rate: "30.519%"
+collected_at: "2026-04-17T13:21:47.286961+00:00"
 ---
 
 ## 문제

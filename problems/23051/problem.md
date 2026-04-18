@@ -1,13 +1,13 @@
 ---
-title: RMQ
-special_judge: false
-time_limit: 3 초
-memory_limit: 1024 MB
+title: "RMQ"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "1024 MB"
 submissions: 42
 accepted: 25
 solved_users: 12
-acceptance_rate: 63.158%
-collected_at: 2026-04-17T16:40:58.657133+00:00
+acceptance_rate: "63.158%"
+collected_at: "2026-04-17T16:40:58.657133+00:00"
 ---
 
 ## 문제

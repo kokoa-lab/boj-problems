@@ -1,13 +1,13 @@
 ---
-title: 균형잡힌 줄서기
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "균형잡힌 줄서기"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 798
 accepted: 305
 solved_users: 244
-acceptance_rate: 42.958%
-collected_at: 2026-04-17T10:33:49.237114+00:00
+acceptance_rate: "42.958%"
+collected_at: "2026-04-17T10:33:49.237114+00:00"
 ---
 
 ## 문제

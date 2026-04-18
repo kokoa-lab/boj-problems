@@ -1,13 +1,13 @@
 ---
-title: 스위트콘 가격 구하기
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "스위트콘 가격 구하기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 7867
 accepted: 5737
 solved_users: 5482
-acceptance_rate: 74.061%
-collected_at: 2026-04-17T18:57:41.743204+00:00
+acceptance_rate: "74.061%"
+collected_at: "2026-04-17T18:57:41.743204+00:00"
 ---
 
 ## 문제

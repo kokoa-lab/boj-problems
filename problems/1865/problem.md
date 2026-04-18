@@ -1,13 +1,13 @@
 ---
-title: 웜홀
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "웜홀"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 73381
 accepted: 18298
 solved_users: 11453
-acceptance_rate: 22.092%
-collected_at: 2026-04-17T10:35:01.144728+00:00
+acceptance_rate: "22.092%"
+collected_at: "2026-04-17T10:35:01.144728+00:00"
 ---
 
 ## 문제

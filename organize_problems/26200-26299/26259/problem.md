@@ -1,13 +1,13 @@
 ---
-title: 백룸
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "백룸"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 740
 accepted: 149
 solved_users: 118
-acceptance_rate: 21.185%
-collected_at: 2026-04-17T17:42:45.732548+00:00
+acceptance_rate: "21.185%"
+collected_at: "2026-04-17T17:42:45.732548+00:00"
 ---
 
 ## 문제

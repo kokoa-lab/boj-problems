@@ -1,13 +1,13 @@
 ---
-title: 가우스법칙
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "가우스법칙"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 268
 accepted: 39
 solved_users: 26
-acceptance_rate: 12.207%
-collected_at: 2026-04-17T19:36:50.648561+00:00
+acceptance_rate: "12.207%"
+collected_at: "2026-04-17T19:36:50.648561+00:00"
 ---
 
 ## 문제

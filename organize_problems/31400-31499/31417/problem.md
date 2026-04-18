@@ -1,13 +1,13 @@
 ---
-title: 가장 짧은 높이
-special_judge: true
-time_limit: 4 초 (추가 시간 없음)
-memory_limit: 32 MB (추가 메모리 없음)
+title: "가장 짧은 높이"
+special_judge: "true"
+time_limit: "4 초 (추가 시간 없음)"
+memory_limit: "32 MB (추가 메모리 없음)"
 submissions: 344
 accepted: 75
 solved_users: 44
-acceptance_rate: 28.025%
-collected_at: 2026-04-17T19:27:51.808868+00:00
+acceptance_rate: "28.025%"
+collected_at: "2026-04-17T19:27:51.808868+00:00"
 ---
 
 ## 문제

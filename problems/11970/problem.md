@@ -1,13 +1,13 @@
 ---
-title: Fence Painting
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Fence Painting"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 3466
 accepted: 1665
 solved_users: 1487
-acceptance_rate: 49.125%
-collected_at: 2026-04-17T12:48:20.979564+00:00
+acceptance_rate: "49.125%"
+collected_at: "2026-04-17T12:48:20.979564+00:00"
 ---
 
 ## 문제

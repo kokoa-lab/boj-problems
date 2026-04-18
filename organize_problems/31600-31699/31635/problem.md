@@ -1,13 +1,13 @@
 ---
-title: 신기한 미로의 가지
-special_judge: false
-time_limit: 0.5 초
-memory_limit: 1024 MB
+title: "신기한 미로의 가지"
+special_judge: "false"
+time_limit: "0.5 초"
+memory_limit: "1024 MB"
 submissions: 594
 accepted: 133
 solved_users: 114
-acceptance_rate: 26.450%
-collected_at: 2026-04-17T19:32:24.111646+00:00
+acceptance_rate: "26.450%"
+collected_at: "2026-04-17T19:32:24.111646+00:00"
 ---
 
 ## 문제

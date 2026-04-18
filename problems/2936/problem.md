@@ -1,13 +1,13 @@
 ---
-title: 채식주의자
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "채식주의자"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 990
 accepted: 291
 solved_users: 246
-acceptance_rate: 30.635%
-collected_at: 2026-04-17T10:45:48.377490+00:00
+acceptance_rate: "30.635%"
+collected_at: "2026-04-17T10:45:48.377490+00:00"
 ---
 
 ## 문제

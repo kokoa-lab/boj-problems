@@ -1,13 +1,13 @@
 ---
-title: Logistical Warehouse
-special_judge: false
-time_limit: 4 초
-memory_limit: 1024 MB
+title: "Logistical Warehouse"
+special_judge: "false"
+time_limit: "4 초"
+memory_limit: "1024 MB"
 submissions: 62
 accepted: 30
 solved_users: 16
-acceptance_rate: 40.000%
-collected_at: 2026-04-17T16:44:50.053707+00:00
+acceptance_rate: "40.000%"
+collected_at: "2026-04-17T16:44:50.053707+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 혼합물 (Large)
-special_judge: true
-time_limit: 1 초
-memory_limit: 256 MB
+title: "혼합물 (Large)"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 341
 accepted: 124
 solved_users: 70
-acceptance_rate: 34.146%
-collected_at: 2026-04-17T13:00:35.647059+00:00
+acceptance_rate: "34.146%"
+collected_at: "2026-04-17T13:00:35.647059+00:00"
 ---
 
 ## 문제

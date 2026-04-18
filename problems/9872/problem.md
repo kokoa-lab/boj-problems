@@ -1,13 +1,13 @@
 ---
-title: Record Keeping
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Record Keeping"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 1055
 accepted: 674
 solved_users: 601
-acceptance_rate: 66.409%
-collected_at: 2026-04-17T12:15:52.497450+00:00
+acceptance_rate: "66.409%"
+collected_at: "2026-04-17T12:15:52.497450+00:00"
 ---
 
 ## 문제

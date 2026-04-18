@@ -1,13 +1,13 @@
 ---
-title: 쿼리와 구간
-special_judge: true
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "쿼리와 구간"
+special_judge: "true"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 130
 accepted: 74
 solved_users: 68
-acceptance_rate: 59.130%
-collected_at: 2026-04-17T20:57:08.523983+00:00
+acceptance_rate: "59.130%"
+collected_at: "2026-04-17T20:57:08.523983+00:00"
 ---
 
 ## 문제

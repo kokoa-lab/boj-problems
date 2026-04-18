@@ -1,13 +1,13 @@
 ---
-title: 요세푸스 한 번 더!
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "요세푸스 한 번 더!"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 536
 accepted: 214
 solved_users: 133
-acceptance_rate: 37.784%
-collected_at: 2026-04-17T11:29:44.390866+00:00
+acceptance_rate: "37.784%"
+collected_at: "2026-04-17T11:29:44.390866+00:00"
 ---
 
 ## 문제

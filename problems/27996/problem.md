@@ -1,13 +1,13 @@
 ---
-title: Council
-special_judge: false
-time_limit: 3 초
-memory_limit: 1024 MB
+title: "Council"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "1024 MB"
 submissions: 96
 accepted: 35
 solved_users: 30
-acceptance_rate: 48.387%
-collected_at: 2026-04-17T18:16:19.282518+00:00
+acceptance_rate: "48.387%"
+collected_at: "2026-04-17T18:16:19.282518+00:00"
 ---
 
 ## 문제

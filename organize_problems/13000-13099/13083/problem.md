@@ -1,13 +1,13 @@
 ---
-title: Change a Password
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Change a Password"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 137
 accepted: 64
 solved_users: 54
-acceptance_rate: 43.548%
-collected_at: 2026-04-17T13:07:15.027322+00:00
+acceptance_rate: "43.548%"
+collected_at: "2026-04-17T13:07:15.027322+00:00"
 ---
 
 ## 문제

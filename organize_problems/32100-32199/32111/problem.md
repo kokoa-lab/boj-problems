@@ -1,13 +1,13 @@
 ---
-title: 관광 코스
-special_judge: true
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "관광 코스"
+special_judge: "true"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 449
 accepted: 149
 solved_users: 133
-acceptance_rate: 40.923%
-collected_at: 2026-04-17T19:43:06.554903+00:00
+acceptance_rate: "40.923%"
+collected_at: "2026-04-17T19:43:06.554903+00:00"
 ---
 
 ## 문제

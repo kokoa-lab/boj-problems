@@ -1,13 +1,13 @@
 ---
-title: 타일링 컬러링
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "타일링 컬러링"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 59
 accepted: 30
 solved_users: 30
-acceptance_rate: 57.692%
-collected_at: 2026-04-17T21:00:02.195425+00:00
+acceptance_rate: "57.692%"
+collected_at: "2026-04-17T21:00:02.195425+00:00"
 ---
 
 ## 문제

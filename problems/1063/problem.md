@@ -1,13 +1,13 @@
 ---
-title: 킹
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "킹"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 19963
 accepted: 8776
 solved_users: 7440
-acceptance_rate: 45.258%
-collected_at: 2026-04-17T10:27:58.622449+00:00
+acceptance_rate: "45.258%"
+collected_at: "2026-04-17T10:27:58.622449+00:00"
 ---
 
 ## 문제

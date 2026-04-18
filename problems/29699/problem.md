@@ -1,13 +1,13 @@
 ---
-title: Welcome to SMUPC!
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Welcome to SMUPC!"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 7783
 accepted: 4181
 solved_users: 3935
-acceptance_rate: 53.993%
-collected_at: 2026-04-17T18:51:11.223832+00:00
+acceptance_rate: "53.993%"
+collected_at: "2026-04-17T18:51:11.223832+00:00"
 ---
 
 ## 문제

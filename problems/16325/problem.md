@@ -1,13 +1,13 @@
 ---
-title: King’s Colors
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "King’s Colors"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 177
 accepted: 99
 solved_users: 81
-acceptance_rate: 67.500%
-collected_at: 2026-04-17T14:15:48.190605+00:00
+acceptance_rate: "67.500%"
+collected_at: "2026-04-17T14:15:48.190605+00:00"
 ---
 
 ## 문제

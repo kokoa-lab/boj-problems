@@ -1,13 +1,13 @@
 ---
-title: 디미고 통제
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "디미고 통제"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 99
 accepted: 47
 solved_users: 46
-acceptance_rate: 54.762%
-collected_at: 2026-04-18T09:51:56.905076+00:00
+acceptance_rate: "54.762%"
+collected_at: "2026-04-18T09:51:56.905076+00:00"
 ---
 
 ## 문제

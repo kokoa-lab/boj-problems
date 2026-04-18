@@ -1,13 +1,13 @@
 ---
-title: Caravan Robbers
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Caravan Robbers"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 328
 accepted: 62
 solved_users: 49
-acceptance_rate: 17.314%
-collected_at: 2026-04-17T10:54:15.552819+00:00
+acceptance_rate: "17.314%"
+collected_at: "2026-04-17T10:54:15.552819+00:00"
 ---
 
 ## 문제

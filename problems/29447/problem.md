@@ -1,13 +1,13 @@
 ---
-title: Выборы
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Выборы"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 93
 accepted: 53
 solved_users: 45
-acceptance_rate: 60.811%
-collected_at: 2026-04-17T18:43:39.860229+00:00
+acceptance_rate: "60.811%"
+collected_at: "2026-04-17T18:43:39.860229+00:00"
 ---
 
 ## 문제

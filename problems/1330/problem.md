@@ -1,13 +1,13 @@
 ---
-title: 두 수 비교하기
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "두 수 비교하기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 599378
 accepted: 294461
 solved_users: 237986
-acceptance_rate: 50.021%
-collected_at: 2026-04-17T10:29:28.750045+00:00
+acceptance_rate: "50.021%"
+collected_at: "2026-04-17T10:29:28.750045+00:00"
 ---
 
 ## 문제

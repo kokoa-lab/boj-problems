@@ -1,13 +1,13 @@
 ---
-title: 스텔라(STELLA)가 치킨을 선물했어요
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "스텔라(STELLA)가 치킨을 선물했어요"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 1924
 accepted: 1247
 solved_users: 1116
-acceptance_rate: 67.229%
-collected_at: 2026-04-17T14:08:31.244258+00:00
+acceptance_rate: "67.229%"
+collected_at: "2026-04-17T14:08:31.244258+00:00"
 ---
 
 ## 문제

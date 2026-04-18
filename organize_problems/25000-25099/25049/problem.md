@@ -1,13 +1,13 @@
 ---
-title: 뮤직 플레이리스트
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "뮤직 플레이리스트"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 641
 accepted: 231
 solved_users: 180
-acceptance_rate: 38.217%
-collected_at: 2026-04-17T17:19:36.148092+00:00
+acceptance_rate: "38.217%"
+collected_at: "2026-04-17T17:19:36.148092+00:00"
 ---
 
 ## 문제

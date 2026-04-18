@@ -1,13 +1,13 @@
 ---
-title: 신규 학과
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "신규 학과"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 884
 accepted: 792
 solved_users: 750
-acceptance_rate: 90.799%
-collected_at: 2026-04-17T20:52:18.730321+00:00
+acceptance_rate: "90.799%"
+collected_at: "2026-04-17T20:52:18.730321+00:00"
 ---
 
 ## 문제

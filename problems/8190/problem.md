@@ -1,13 +1,13 @@
 ---
-title: Hamsters
-special_judge: false
-time_limit: 3 초
-memory_limit: 512 MB
+title: "Hamsters"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "512 MB"
 submissions: 114
 accepted: 52
 solved_users: 44
-acceptance_rate: 45.833%
-collected_at: 2026-04-17T11:57:02.289646+00:00
+acceptance_rate: "45.833%"
+collected_at: "2026-04-17T11:57:02.289646+00:00"
 ---
 
 ## 문제

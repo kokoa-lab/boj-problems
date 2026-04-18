@@ -1,13 +1,13 @@
 ---
-title: Miscalculation
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Miscalculation"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 279
 accepted: 181
 solved_users: 160
-acceptance_rate: 66.390%
-collected_at: 2026-04-17T12:22:01.442113+00:00
+acceptance_rate: "66.390%"
+collected_at: "2026-04-17T12:22:01.442113+00:00"
 ---
 
 ## 문제

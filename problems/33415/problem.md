@@ -1,13 +1,13 @@
 ---
-title: 타일 마스터의 시련
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "타일 마스터의 시련"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 31
 accepted: 13
 solved_users: 5
-acceptance_rate: 62.500%
-collected_at: 2026-04-17T20:15:32.582297+00:00
+acceptance_rate: "62.500%"
+collected_at: "2026-04-17T20:15:32.582297+00:00"
 ---
 
 ## 문제

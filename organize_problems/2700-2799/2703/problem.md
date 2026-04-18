@@ -1,13 +1,13 @@
 ---
-title: Cryptoquote
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Cryptoquote"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 1907
 accepted: 1361
 solved_users: 1216
-acceptance_rate: 74.555%
-collected_at: 2026-04-17T10:44:05.852320+00:00
+acceptance_rate: "74.555%"
+collected_at: "2026-04-17T10:44:05.852320+00:00"
 ---
 
 ## 문제

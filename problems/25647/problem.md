@@ -1,13 +1,13 @@
 ---
-title: Oscar's Round Must Have a Constructive Problem
-special_judge: true
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Oscar's Round Must Have a Constructive Problem"
+special_judge: "true"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 157
 accepted: 57
 solved_users: 44
-acceptance_rate: 34.646%
-collected_at: 2026-04-17T17:30:36.063417+00:00
+acceptance_rate: "34.646%"
+collected_at: "2026-04-17T17:30:36.063417+00:00"
 ---
 
 ## 문제

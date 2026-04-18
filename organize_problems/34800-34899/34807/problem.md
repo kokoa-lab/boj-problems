@@ -1,13 +1,13 @@
 ---
-title: 비밀 작전
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "비밀 작전"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 64
 accepted: 24
 solved_users: 23
-acceptance_rate: 45.098%
-collected_at: 2026-04-17T20:49:10.097832+00:00
+acceptance_rate: "45.098%"
+collected_at: "2026-04-17T20:49:10.097832+00:00"
 ---
 
 ## 문제

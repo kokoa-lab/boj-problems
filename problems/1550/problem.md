@@ -1,13 +1,13 @@
 ---
-title: 16진수
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "16진수"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 32957
 accepted: 20979
 solved_users: 18937
-acceptance_rate: 65.002%
-collected_at: 2026-04-17T10:31:05.592518+00:00
+acceptance_rate: "65.002%"
+collected_at: "2026-04-17T10:31:05.592518+00:00"
 ---
 
 ## 문제

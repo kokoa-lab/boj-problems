@@ -1,13 +1,13 @@
 ---
-title: Distance
-special_judge: false
-time_limit: 3 초
-memory_limit: 1024 MB
+title: "Distance"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "1024 MB"
 submissions: 129
 accepted: 79
 solved_users: 70
-acceptance_rate: 63.636%
-collected_at: 2026-04-17T15:50:24.041149+00:00
+acceptance_rate: "63.636%"
+collected_at: "2026-04-17T15:50:24.041149+00:00"
 ---
 
 ## 문제

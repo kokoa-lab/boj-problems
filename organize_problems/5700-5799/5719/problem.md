@@ -1,13 +1,13 @@
 ---
-title: 거의 최단 경로
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "거의 최단 경로"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 36756
 accepted: 7430
 solved_users: 4811
-acceptance_rate: 20.409%
-collected_at: 2026-04-17T11:16:52.199897+00:00
+acceptance_rate: "20.409%"
+collected_at: "2026-04-17T11:16:52.199897+00:00"
 ---
 
 ## 문제

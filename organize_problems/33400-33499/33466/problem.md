@@ -1,13 +1,13 @@
 ---
-title: 피타고라스 정리의 증명
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "피타고라스 정리의 증명"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 712
 accepted: 251
 solved_users: 184
-acceptance_rate: 40.889%
-collected_at: 2026-04-17T20:16:36.502432+00:00
+acceptance_rate: "40.889%"
+collected_at: "2026-04-17T20:16:36.502432+00:00"
 ---
 
 ## 문제

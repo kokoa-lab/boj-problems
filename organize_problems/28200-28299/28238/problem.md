@@ -1,13 +1,13 @@
 ---
-title: 정보 선생님의 야망
-special_judge: true
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "정보 선생님의 야망"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 1396
 accepted: 555
 solved_users: 474
-acceptance_rate: 40.204%
-collected_at: 2026-04-17T18:20:46.854458+00:00
+acceptance_rate: "40.204%"
+collected_at: "2026-04-17T18:20:46.854458+00:00"
 ---
 
 ## 문제

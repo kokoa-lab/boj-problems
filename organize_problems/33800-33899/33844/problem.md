@@ -1,13 +1,13 @@
 ---
-title: 트리와 색깔과 쿼리
-special_judge: false
-time_limit: 2.5 초
-memory_limit: 1024 MB
+title: "트리와 색깔과 쿼리"
+special_judge: "false"
+time_limit: "2.5 초"
+memory_limit: "1024 MB"
 submissions: 62
 accepted: 18
 solved_users: 13
-acceptance_rate: 40.625%
-collected_at: 2026-04-17T20:24:40.605522+00:00
+acceptance_rate: "40.625%"
+collected_at: "2026-04-17T20:24:40.605522+00:00"
 ---
 
 ## 문제

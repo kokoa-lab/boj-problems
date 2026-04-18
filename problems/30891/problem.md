@@ -1,13 +1,13 @@
 ---
-title: 볶음밥 지키기
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "볶음밥 지키기"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 618
 accepted: 404
 solved_users: 354
-acceptance_rate: 66.417%
-collected_at: 2026-04-17T19:17:30.907796+00:00
+acceptance_rate: "66.417%"
+collected_at: "2026-04-17T19:17:30.907796+00:00"
 ---
 
 ## 문제

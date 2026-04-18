@@ -1,13 +1,13 @@
 ---
-title: 정과프 해적단
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "정과프 해적단"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 251
 accepted: 73
 solved_users: 57
-acceptance_rate: 29.381%
-collected_at: 2026-04-17T13:56:52.521473+00:00
+acceptance_rate: "29.381%"
+collected_at: "2026-04-17T13:56:52.521473+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 등산
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "등산"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 4419
 accepted: 1213
 solved_users: 877
-acceptance_rate: 24.477%
-collected_at: 2026-04-17T14:22:20.848619+00:00
+acceptance_rate: "24.477%"
+collected_at: "2026-04-17T14:22:20.848619+00:00"
 ---
 
 ## 문제

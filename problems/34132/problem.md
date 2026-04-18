@@ -1,13 +1,13 @@
 ---
-title: [L] LCG Madness!
-special_judge: false
-time_limit: 1.712 초
-memory_limit: 16 MB
+title: "[L] LCG Madness!"
+special_judge: "false"
+time_limit: "1.712 초"
+memory_limit: "16 MB"
 submissions: 19
 accepted: 11
 solved_users: 10
-acceptance_rate: 76.923%
-collected_at: 2026-04-17T20:31:25.838016+00:00
+acceptance_rate: "76.923%"
+collected_at: "2026-04-17T20:31:25.838016+00:00"
 ---
 
 ## 문제

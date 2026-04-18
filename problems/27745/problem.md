@@ -1,13 +1,13 @@
 ---
-title: Trouble Sort
-special_judge: false
-time_limit: 서브태스크 참고 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Trouble Sort"
+special_judge: "false"
+time_limit: "서브태스크 참고 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 43
 accepted: 29
 solved_users: 29
-acceptance_rate: 72.500%
-collected_at: 2026-04-17T18:09:59.590754+00:00
+acceptance_rate: "72.500%"
+collected_at: "2026-04-17T18:09:59.590754+00:00"
 ---
 
 ## 문제

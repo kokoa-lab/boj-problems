@@ -1,13 +1,13 @@
 ---
-title: 구간 나누기
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "구간 나누기"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 11869
 accepted: 3602
 solved_users: 2361
-acceptance_rate: 29.084%
-collected_at: 2026-04-17T10:39:42.784933+00:00
+acceptance_rate: "29.084%"
+collected_at: "2026-04-17T10:39:42.784933+00:00"
 ---
 
 ## 문제

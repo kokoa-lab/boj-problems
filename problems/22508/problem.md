@@ -1,13 +1,13 @@
 ---
-title: Reverse Roads
-special_judge: true
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Reverse Roads"
+special_judge: "true"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 33
 accepted: 28
 solved_users: 23
-acceptance_rate: 85.185%
-collected_at: 2026-04-17T16:23:55.877129+00:00
+acceptance_rate: "85.185%"
+collected_at: "2026-04-17T16:23:55.877129+00:00"
 ---
 
 ## 문제

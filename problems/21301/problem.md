@@ -1,13 +1,13 @@
 ---
-title: Comfy Deviations
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Comfy Deviations"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 216
 accepted: 165
 solved_users: 149
-acceptance_rate: 78.010%
-collected_at: 2026-04-17T15:54:11.651089+00:00
+acceptance_rate: "78.010%"
+collected_at: "2026-04-17T15:54:11.651089+00:00"
 ---
 
 ## 문제

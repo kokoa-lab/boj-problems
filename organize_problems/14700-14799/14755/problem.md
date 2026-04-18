@@ -1,13 +1,13 @@
 ---
-title: Pseudoknot
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Pseudoknot"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 139
 accepted: 28
 solved_users: 19
-acceptance_rate: 27.143%
-collected_at: 2026-04-17T13:41:25.926064+00:00
+acceptance_rate: "27.143%"
+collected_at: "2026-04-17T13:41:25.926064+00:00"
 ---
 
 ## 문제

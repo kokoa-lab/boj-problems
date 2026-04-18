@@ -1,13 +1,13 @@
 ---
-title: 새로운 가게 이름
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "새로운 가게 이름"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 25
 accepted: 1
 solved_users: 1
-acceptance_rate: 8.333%
-collected_at: 2026-04-17T13:13:14.976228+00:00
+acceptance_rate: "8.333%"
+collected_at: "2026-04-17T13:13:14.976228+00:00"
 ---
 
 ## 문제

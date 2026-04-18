@@ -1,13 +1,13 @@
 ---
-title: 기울기가 가장 큰 두 점
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "기울기가 가장 큰 두 점"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 1656
 accepted: 234
 solved_users: 192
-acceptance_rate: 17.486%
-collected_at: 2026-04-17T10:34:50.814808+00:00
+acceptance_rate: "17.486%"
+collected_at: "2026-04-17T10:34:50.814808+00:00"
 ---
 
 ## 문제

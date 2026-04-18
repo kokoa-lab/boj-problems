@@ -1,13 +1,13 @@
 ---
-title: Toys
-special_judge: false
-time_limit: 30 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Toys"
+special_judge: "false"
+time_limit: "30 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 9
 accepted: 1
 solved_users: 1
-acceptance_rate: 100.000%
-collected_at: 2026-04-17T16:57:58.403983+00:00
+acceptance_rate: "100.000%"
+collected_at: "2026-04-17T16:57:58.403983+00:00"
 ---
 
 ## 문제

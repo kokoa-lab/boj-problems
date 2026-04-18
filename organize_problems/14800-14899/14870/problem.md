@@ -1,13 +1,13 @@
 ---
-title: 조개 줍기
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "조개 줍기"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 1720
 accepted: 426
 solved_users: 287
-acceptance_rate: 24.138%
-collected_at: 2026-04-17T13:43:31.988652+00:00
+acceptance_rate: "24.138%"
+collected_at: "2026-04-17T13:43:31.988652+00:00"
 ---
 
 ## 문제

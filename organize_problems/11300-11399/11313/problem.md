@@ -1,13 +1,13 @@
 ---
-title: Best Buddies
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "Best Buddies"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 188
 accepted: 99
 solved_users: 66
-acceptance_rate: 50.769%
-collected_at: 2026-04-17T12:39:32.619449+00:00
+acceptance_rate: "50.769%"
+collected_at: "2026-04-17T12:39:32.619449+00:00"
 ---
 
 ## 문제

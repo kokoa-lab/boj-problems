@@ -1,13 +1,13 @@
 ---
-title: Liderzy
-special_judge: false
-time_limit: 3 초
-memory_limit: 1024 MB
+title: "Liderzy"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "1024 MB"
 submissions: 28
 accepted: 16
 solved_users: 16
-acceptance_rate: 57.143%
-collected_at: 2026-04-17T19:34:52.275660+00:00
+acceptance_rate: "57.143%"
+collected_at: "2026-04-17T19:34:52.275660+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 시그마
-special_judge: false
-time_limit: 0.25 초 (추가 시간 없음)
-memory_limit: 128 MB
+title: "시그마"
+special_judge: "false"
+time_limit: "0.25 초 (추가 시간 없음)"
+memory_limit: "128 MB"
 submissions: 29794
 accepted: 7553
 solved_users: 6650
-acceptance_rate: 26.969%
-collected_at: 2026-04-17T10:41:00.459988+00:00
+acceptance_rate: "26.969%"
+collected_at: "2026-04-17T10:41:00.459988+00:00"
 ---
 
 ## 문제

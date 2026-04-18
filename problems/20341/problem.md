@@ -1,13 +1,13 @@
 ---
-title: Moderate Pace
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Moderate Pace"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 216
 accepted: 190
 solved_users: 163
-acceptance_rate: 92.090%
-collected_at: 2026-04-17T15:35:22.514452+00:00
+acceptance_rate: "92.090%"
+collected_at: "2026-04-17T15:35:22.514452+00:00"
 ---
 
 ## 문제

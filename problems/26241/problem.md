@@ -1,13 +1,13 @@
 ---
-title: A system of balance scales
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "A system of balance scales"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 2
 accepted: 2
 solved_users: 2
-acceptance_rate: 100.000%
-collected_at: 2026-04-17T17:42:27.880898+00:00
+acceptance_rate: "100.000%"
+collected_at: "2026-04-17T17:42:27.880898+00:00"
 ---
 
 ## 문제

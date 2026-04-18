@@ -1,13 +1,13 @@
 ---
-title: 뱀과 사다리 게임
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "뱀과 사다리 게임"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 63727
 accepted: 24652
 solved_users: 18978
-acceptance_rate: 35.953%
-collected_at: 2026-04-17T14:26:19.539393+00:00
+acceptance_rate: "35.953%"
+collected_at: "2026-04-17T14:26:19.539393+00:00"
 ---
 
 ## 문제

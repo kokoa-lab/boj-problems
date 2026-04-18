@@ -1,13 +1,13 @@
 ---
-title: アンテナ修復 (Large)
-special_judge: true
-time_limit: 5 초
-memory_limit: 512 MB
+title: "アンテナ修復 (Large)"
+special_judge: "true"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 26
 accepted: 14
 solved_users: 13
-acceptance_rate: 54.167%
-collected_at: 2026-04-17T12:55:35.101746+00:00
+acceptance_rate: "54.167%"
+collected_at: "2026-04-17T12:55:35.101746+00:00"
 ---
 
 ## 문제

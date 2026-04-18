@@ -1,13 +1,13 @@
 ---
-title: 블록맞추기
-special_judge: true
-time_limit: 1 초
-memory_limit: 128 MB
+title: "블록맞추기"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 345
 accepted: 55
 solved_users: 41
-acceptance_rate: 20.197%
-collected_at: 2026-04-17T10:43:38.165647+00:00
+acceptance_rate: "20.197%"
+collected_at: "2026-04-17T10:43:38.165647+00:00"
 ---
 
 ## 문제

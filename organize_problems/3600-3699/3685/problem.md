@@ -1,13 +1,13 @@
 ---
-title: 김강山
-special_judge: false
-time_limit: 3 초
-memory_limit: 128 MB
+title: "김강山"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "128 MB"
 submissions: 182
 accepted: 60
 solved_users: 51
-acceptance_rate: 34.000%
-collected_at: 2026-04-17T10:50:58.028426+00:00
+acceptance_rate: "34.000%"
+collected_at: "2026-04-17T10:50:58.028426+00:00"
 ---
 
 ## 문제

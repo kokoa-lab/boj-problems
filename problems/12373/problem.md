@@ -1,13 +1,13 @@
 ---
-title: Lost Password (Large)
-special_judge: false
-time_limit: 100 초
-memory_limit: 512 MB
+title: "Lost Password (Large)"
+special_judge: "false"
+time_limit: "100 초"
+memory_limit: "512 MB"
 submissions: 19
 accepted: 3
 solved_users: 3
-acceptance_rate: 33.333%
-collected_at: 2026-04-17T12:54:21.334758+00:00
+acceptance_rate: "33.333%"
+collected_at: "2026-04-17T12:54:21.334758+00:00"
 ---
 
 ## 문제

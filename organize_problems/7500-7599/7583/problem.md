@@ -1,13 +1,13 @@
 ---
-title: Jumbled Words
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Jumbled Words"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 425
 accepted: 281
 solved_users: 237
-acceptance_rate: 69.096%
-collected_at: 2026-04-17T11:50:51.430878+00:00
+acceptance_rate: "69.096%"
+collected_at: "2026-04-17T11:50:51.430878+00:00"
 ---
 
 ## 문제

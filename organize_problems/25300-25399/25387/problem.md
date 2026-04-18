@@ -1,13 +1,13 @@
 ---
-title: 수열과 쿼리의 부분합의 합
-special_judge: false
-time_limit: 4 초 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "수열과 쿼리의 부분합의 합"
+special_judge: "false"
+time_limit: "4 초 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 201
 accepted: 95
 solved_users: 84
-acceptance_rate: 49.704%
-collected_at: 2026-04-17T17:25:59.847615+00:00
+acceptance_rate: "49.704%"
+collected_at: "2026-04-17T17:25:59.847615+00:00"
 ---
 
 ## 문제

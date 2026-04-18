@@ -1,13 +1,13 @@
 ---
-title: 개업 2
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "개업 2"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 2148
 accepted: 599
 solved_users: 420
-acceptance_rate: 26.185%
-collected_at: 2026-04-17T13:21:55.220342+00:00
+acceptance_rate: "26.185%"
+collected_at: "2026-04-17T13:21:55.220342+00:00"
 ---
 
 ## 문제

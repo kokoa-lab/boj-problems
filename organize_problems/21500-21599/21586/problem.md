@@ -1,13 +1,13 @@
 ---
-title: Another Substring Query Problem
-special_judge: false
-time_limit: 6 초
-memory_limit: 1024 MB
+title: "Another Substring Query Problem"
+special_judge: "false"
+time_limit: "6 초"
+memory_limit: "1024 MB"
 submissions: 253
 accepted: 57
 solved_users: 45
-acceptance_rate: 28.125%
-collected_at: 2026-04-17T16:00:58.063931+00:00
+acceptance_rate: "28.125%"
+collected_at: "2026-04-17T16:00:58.063931+00:00"
 ---
 
 ## 문제

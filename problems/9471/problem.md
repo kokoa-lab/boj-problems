@@ -1,13 +1,13 @@
 ---
-title: 피사노 주기
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "피사노 주기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 2366
 accepted: 1679
 solved_users: 1446
-acceptance_rate: 72.481%
-collected_at: 2026-04-17T12:10:14.198120+00:00
+acceptance_rate: "72.481%"
+collected_at: "2026-04-17T12:10:14.198120+00:00"
 ---
 
 ## 문제

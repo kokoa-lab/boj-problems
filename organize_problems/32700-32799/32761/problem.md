@@ -1,13 +1,13 @@
 ---
-title: 가위바위보 타일
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "가위바위보 타일"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 287
 accepted: 141
 solved_users: 125
-acceptance_rate: 55.804%
-collected_at: 2026-04-17T20:00:39.469805+00:00
+acceptance_rate: "55.804%"
+collected_at: "2026-04-17T20:00:39.469805+00:00"
 ---
 
 ## 문제

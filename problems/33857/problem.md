@@ -1,13 +1,13 @@
 ---
-title: Developer
-special_judge: false
-time_limit: 2 초
-memory_limit: 2048 MB
+title: "Developer"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "2048 MB"
 submissions: 35
 accepted: 12
 solved_users: 10
-acceptance_rate: 30.303%
-collected_at: 2026-04-17T20:24:58.960358+00:00
+acceptance_rate: "30.303%"
+collected_at: "2026-04-17T20:24:58.960358+00:00"
 ---
 
 ## 문제

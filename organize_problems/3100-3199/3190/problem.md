@@ -1,13 +1,13 @@
 ---
-title: 뱀
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "뱀"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 95517
 accepted: 42246
 solved_users: 28593
-acceptance_rate: 42.737%
-collected_at: 2026-04-17T10:47:18.567017+00:00
+acceptance_rate: "42.737%"
+collected_at: "2026-04-17T10:47:18.567017+00:00"
 ---
 
 ## 문제

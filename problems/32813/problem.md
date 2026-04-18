@@ -1,13 +1,13 @@
 ---
-title: Oooh I See
-special_judge: false
-time_limit: 1 초
-memory_limit: 2048 MB
+title: "Oooh I See"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "2048 MB"
 submissions: 77
 accepted: 64
 solved_users: 58
-acceptance_rate: 81.690%
-collected_at: 2026-04-17T20:01:49.773813+00:00
+acceptance_rate: "81.690%"
+collected_at: "2026-04-17T20:01:49.773813+00:00"
 ---
 
 ## 문제

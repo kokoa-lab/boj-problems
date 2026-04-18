@@ -1,13 +1,13 @@
 ---
-title: 백설공주와 난쟁이
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "백설공주와 난쟁이"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 7810
 accepted: 2076
 solved_users: 1197
-acceptance_rate: 27.467%
-collected_at: 2026-04-17T10:45:38.861735+00:00
+acceptance_rate: "27.467%"
+collected_at: "2026-04-17T10:45:38.861735+00:00"
 ---
 
 ## 문제

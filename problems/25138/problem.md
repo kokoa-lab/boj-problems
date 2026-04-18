@@ -1,13 +1,13 @@
 ---
-title: SORT
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "SORT"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 45
 accepted: 30
 solved_users: 27
-acceptance_rate: 64.286%
-collected_at: 2026-04-17T17:21:39.310818+00:00
+acceptance_rate: "64.286%"
+collected_at: "2026-04-17T17:21:39.310818+00:00"
 ---
 
 ## 문제

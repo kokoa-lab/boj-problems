@@ -1,13 +1,13 @@
 ---
-title: Harder Satisfiability
-special_judge: false
-time_limit: 3 초
-memory_limit: 512 MB
+title: "Harder Satisfiability"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "512 MB"
 submissions: 52
 accepted: 23
 solved_users: 19
-acceptance_rate: 40.426%
-collected_at: 2026-04-17T14:21:59.126329+00:00
+acceptance_rate: "40.426%"
+collected_at: "2026-04-17T14:21:59.126329+00:00"
 ---
 
 ## 문제

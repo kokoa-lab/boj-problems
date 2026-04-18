@@ -1,13 +1,13 @@
 ---
-title: 돈 피하지 않기 게임
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "돈 피하지 않기 게임"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 90
 accepted: 26
 solved_users: 20
-acceptance_rate: 25.974%
-collected_at: 2026-04-17T17:38:40.243189+00:00
+acceptance_rate: "25.974%"
+collected_at: "2026-04-17T17:38:40.243189+00:00"
 ---
 
 ## 문제

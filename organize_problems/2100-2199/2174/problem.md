@@ -1,13 +1,13 @@
 ---
-title: 로봇 시뮬레이션
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "로봇 시뮬레이션"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 16635
 accepted: 3961
 solved_users: 3106
-acceptance_rate: 23.242%
-collected_at: 2026-04-17T10:39:12.747133+00:00
+acceptance_rate: "23.242%"
+collected_at: "2026-04-17T10:39:12.747133+00:00"
 ---
 
 ## 문제

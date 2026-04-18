@@ -1,13 +1,13 @@
 ---
-title: 새로운 문자열 만들기
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "새로운 문자열 만들기"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 1627
 accepted: 805
 solved_users: 664
-acceptance_rate: 56.655%
-collected_at: 2026-04-17T18:58:50.046386+00:00
+acceptance_rate: "56.655%"
+collected_at: "2026-04-17T18:58:50.046386+00:00"
 ---
 
 ## 문제

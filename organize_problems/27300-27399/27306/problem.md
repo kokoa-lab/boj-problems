@@ -1,13 +1,13 @@
 ---
-title: DAGame
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "DAGame"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 243
 accepted: 54
 solved_users: 45
-acceptance_rate: 21.327%
-collected_at: 2026-04-17T18:00:25.646320+00:00
+acceptance_rate: "21.327%"
+collected_at: "2026-04-17T18:00:25.646320+00:00"
 ---
 
 ## 문제

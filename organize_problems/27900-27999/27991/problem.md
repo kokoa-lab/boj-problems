@@ -1,13 +1,13 @@
 ---
-title: 고장난 프린터
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "고장난 프린터"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 176
 accepted: 46
 solved_users: 32
-acceptance_rate: 26.667%
-collected_at: 2026-04-17T18:16:12.397850+00:00
+acceptance_rate: "26.667%"
+collected_at: "2026-04-17T18:16:12.397850+00:00"
 ---
 
 ## 문제

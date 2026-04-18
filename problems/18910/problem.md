@@ -1,13 +1,13 @@
 ---
-title: Deja Vu
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Deja Vu"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 155
 accepted: 10
 solved_users: 9
-acceptance_rate: 6.338%
-collected_at: 2026-04-17T15:11:20.253105+00:00
+acceptance_rate: "6.338%"
+collected_at: "2026-04-17T15:11:20.253105+00:00"
 ---
 
 ## 문제

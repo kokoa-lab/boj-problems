@@ -1,13 +1,13 @@
 ---
-title: Поиски Трезубца
-special_judge: true
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Поиски Трезубца"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 40
 accepted: 14
 solved_users: 11
-acceptance_rate: 31.429%
-collected_at: 2026-04-17T18:33:14.429651+00:00
+acceptance_rate: "31.429%"
+collected_at: "2026-04-17T18:33:14.429651+00:00"
 ---
 
 ## 문제

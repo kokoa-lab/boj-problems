@@ -1,13 +1,13 @@
 ---
-title: 생일 파티
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "생일 파티"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 97
 accepted: 34
 solved_users: 22
-acceptance_rate: 34.375%
-collected_at: 2026-04-17T13:14:44.395646+00:00
+acceptance_rate: "34.375%"
+collected_at: "2026-04-17T13:14:44.395646+00:00"
 ---
 
 ## 문제

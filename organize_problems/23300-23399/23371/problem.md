@@ -1,13 +1,13 @@
 ---
-title: Histogram
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Histogram"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 160
 accepted: 124
 solved_users: 117
-acceptance_rate: 76.974%
-collected_at: 2026-04-17T16:46:59.809837+00:00
+acceptance_rate: "76.974%"
+collected_at: "2026-04-17T16:46:59.809837+00:00"
 ---
 
 ## 문제

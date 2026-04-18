@@ -1,13 +1,13 @@
 ---
-title: Cash Exchange
-special_judge: true
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Cash Exchange"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 60
 accepted: 6
 solved_users: 6
-acceptance_rate: 12.766%
-collected_at: 2026-04-17T14:37:24.181500+00:00
+acceptance_rate: "12.766%"
+collected_at: "2026-04-17T14:37:24.181500+00:00"
 ---
 
 ## 문제

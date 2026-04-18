@@ -1,13 +1,13 @@
 ---
-title: 수행평가 1
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "수행평가 1"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 369
 accepted: 73
 solved_users: 48
-acceptance_rate: 19.277%
-collected_at: 2026-04-17T12:46:06.692512+00:00
+acceptance_rate: "19.277%"
+collected_at: "2026-04-17T12:46:06.692512+00:00"
 ---
 
 ## 문제

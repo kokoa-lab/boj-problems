@@ -1,13 +1,13 @@
 ---
-title: ЧИСЛА МЕЖДУ БУКВИ
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "ЧИСЛА МЕЖДУ БУКВИ"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 105
 accepted: 74
 solved_users: 64
-acceptance_rate: 68.085%
-collected_at: 2026-04-17T17:07:13.698676+00:00
+acceptance_rate: "68.085%"
+collected_at: "2026-04-17T17:07:13.698676+00:00"
 ---
 
 ## 문제

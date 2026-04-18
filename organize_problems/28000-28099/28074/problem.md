@@ -1,13 +1,13 @@
 ---
-title: 모비스
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "모비스"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 4863
 accepted: 3406
 solved_users: 3182
-acceptance_rate: 71.506%
-collected_at: 2026-04-17T18:17:45.374670+00:00
+acceptance_rate: "71.506%"
+collected_at: "2026-04-17T18:17:45.374670+00:00"
 ---
 
 ## 문제

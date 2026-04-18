@@ -1,13 +1,13 @@
 ---
-title: 폭발 사고
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "폭발 사고"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 115
 accepted: 56
 solved_users: 44
-acceptance_rate: 50.575%
-collected_at: 2026-04-17T10:45:37.425903+00:00
+acceptance_rate: "50.575%"
+collected_at: "2026-04-17T10:45:37.425903+00:00"
 ---
 
 ## 문제

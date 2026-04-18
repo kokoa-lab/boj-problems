@@ -1,13 +1,13 @@
 ---
-title: K Co-prime Permutation
-special_judge: true
-time_limit: 1 초
-memory_limit: 512 MB
+title: "K Co-prime Permutation"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 96
 accepted: 72
 solved_users: 45
-acceptance_rate: 76.271%
-collected_at: 2026-04-17T15:52:23.621855+00:00
+acceptance_rate: "76.271%"
+collected_at: "2026-04-17T15:52:23.621855+00:00"
 ---
 
 ## 문제

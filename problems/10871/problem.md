@@ -1,13 +1,13 @@
 ---
-title: X보다 작은 수
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "X보다 작은 수"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 412034
 accepted: 226733
 solved_users: 180564
-acceptance_rate: 54.443%
-collected_at: 2026-04-17T12:30:43.123298+00:00
+acceptance_rate: "54.443%"
+collected_at: "2026-04-17T12:30:43.123298+00:00"
 ---
 
 ## 문제

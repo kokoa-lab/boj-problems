@@ -1,13 +1,13 @@
 ---
-title: ICPC Calculator
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "ICPC Calculator"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 82
 accepted: 44
 solved_users: 42
-acceptance_rate: 60.870%
-collected_at: 2026-04-17T12:35:26.209325+00:00
+acceptance_rate: "60.870%"
+collected_at: "2026-04-17T12:35:26.209325+00:00"
 ---
 
 ## 문제

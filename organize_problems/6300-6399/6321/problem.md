@@ -1,13 +1,13 @@
 ---
-title: IBM 빼기 1
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "IBM 빼기 1"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 7094
 accepted: 3477
 solved_users: 3171
-acceptance_rate: 49.339%
-collected_at: 2026-04-17T11:25:03.572144+00:00
+acceptance_rate: "49.339%"
+collected_at: "2026-04-17T11:25:03.572144+00:00"
 ---
 
 ## 문제

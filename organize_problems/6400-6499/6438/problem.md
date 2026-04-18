@@ -1,13 +1,13 @@
 ---
-title: Reverse Text
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Reverse Text"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 986
 accepted: 730
 solved_users: 651
-acceptance_rate: 76.769%
-collected_at: 2026-04-17T11:28:11.713501+00:00
+acceptance_rate: "76.769%"
+collected_at: "2026-04-17T11:28:11.713501+00:00"
 ---
 
 ## 문제

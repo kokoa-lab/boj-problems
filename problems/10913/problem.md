@@ -1,13 +1,13 @@
 ---
-title: Uniting
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Uniting"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 161
 accepted: 45
 solved_users: 35
-acceptance_rate: 29.167%
-collected_at: 2026-04-17T12:31:30.846631+00:00
+acceptance_rate: "29.167%"
+collected_at: "2026-04-17T12:31:30.846631+00:00"
 ---
 
 ## 문제

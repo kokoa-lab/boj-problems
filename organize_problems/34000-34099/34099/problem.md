@@ -1,13 +1,13 @@
 ---
-title: 뭔가 이미 있을 것 같은 순열 문제
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "뭔가 이미 있을 것 같은 순열 문제"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 656
 accepted: 298
 solved_users: 248
-acceptance_rate: 50.820%
-collected_at: 2026-04-17T20:30:30.345229+00:00
+acceptance_rate: "50.820%"
+collected_at: "2026-04-17T20:30:30.345229+00:00"
 ---
 
 ## 문제

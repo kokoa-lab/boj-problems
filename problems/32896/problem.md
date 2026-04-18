@@ -1,13 +1,13 @@
 ---
-title: Hash Collision
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 2048 MB
+title: "Hash Collision"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "2048 MB"
 submissions: 264
 accepted: 117
 solved_users: 58
-acceptance_rate: 38.926%
-collected_at: 2026-04-17T20:03:48.080490+00:00
+acceptance_rate: "38.926%"
+collected_at: "2026-04-17T20:03:48.080490+00:00"
 ---
 
 ## 문제

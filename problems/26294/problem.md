@@ -1,13 +1,13 @@
 ---
-title: Brutalna Birtija
-special_judge: false
-time_limit: 9 초
-memory_limit: 1024 MB
+title: "Brutalna Birtija"
+special_judge: "false"
+time_limit: "9 초"
+memory_limit: "1024 MB"
 submissions: 4
 accepted: 3
 solved_users: 2
-acceptance_rate: 66.667%
-collected_at: 2026-04-17T17:43:07.657642+00:00
+acceptance_rate: "66.667%"
+collected_at: "2026-04-17T17:43:07.657642+00:00"
 ---
 
 ## 문제

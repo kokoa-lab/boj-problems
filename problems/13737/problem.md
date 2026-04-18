@@ -1,13 +1,13 @@
 ---
-title: The Calculus of Ada
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "The Calculus of Ada"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 56
 accepted: 44
 solved_users: 42
-acceptance_rate: 77.778%
-collected_at: 2026-04-17T13:18:16.597105+00:00
+acceptance_rate: "77.778%"
+collected_at: "2026-04-17T13:18:16.597105+00:00"
 ---
 
 ## 문제

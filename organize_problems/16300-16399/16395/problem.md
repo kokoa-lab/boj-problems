@@ -1,13 +1,13 @@
 ---
-title: 파스칼의 삼각형
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "파스칼의 삼각형"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 10226
 accepted: 6976
 solved_users: 6191
-acceptance_rate: 69.781%
-collected_at: 2026-04-18T09:58:51.832385+00:00
+acceptance_rate: "69.781%"
+collected_at: "2026-04-18T09:58:51.832385+00:00"
 ---
 
 ## 문제

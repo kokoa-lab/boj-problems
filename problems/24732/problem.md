@@ -1,13 +1,13 @@
 ---
-title: 잠자는 규리
-special_judge: false
-time_limit: 0.5 초  ( 하단 참고 )
-memory_limit: 1024 MB
+title: "잠자는 규리"
+special_judge: "false"
+time_limit: "0.5 초  ( 하단 참고 )"
+memory_limit: "1024 MB"
 submissions: 229
 accepted: 38
 solved_users: 32
-acceptance_rate: 24.427%
-collected_at: 2026-04-17T17:14:02.498826+00:00
+acceptance_rate: "24.427%"
+collected_at: "2026-04-17T17:14:02.498826+00:00"
 ---
 
 ## 문제

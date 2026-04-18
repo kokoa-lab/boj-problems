@@ -1,13 +1,13 @@
 ---
-title: 스타후르츠
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "스타후르츠"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 6771
 accepted: 4848
 solved_users: 4597
-acceptance_rate: 71.963%
-collected_at: 2026-04-17T14:40:32.449612+00:00
+acceptance_rate: "71.963%"
+collected_at: "2026-04-17T14:40:32.449612+00:00"
 ---
 
 ## 문제

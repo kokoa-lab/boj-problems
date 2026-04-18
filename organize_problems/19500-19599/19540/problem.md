@@ -1,13 +1,13 @@
 ---
-title: 인버스 ㄷㄷㄷㅈ
-special_judge: true
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "인버스 ㄷㄷㄷㅈ"
+special_judge: "true"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 247
 accepted: 116
 solved_users: 80
-acceptance_rate: 46.784%
-collected_at: 2026-04-17T15:22:27.035381+00:00
+acceptance_rate: "46.784%"
+collected_at: "2026-04-17T15:22:27.035381+00:00"
 ---
 
 ## 문제

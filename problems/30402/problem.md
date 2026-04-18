@@ -1,13 +1,13 @@
 ---
-title: 감마선을 맞은 컴퓨터
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "감마선을 맞은 컴퓨터"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 3435
 accepted: 2223
 solved_users: 2098
-acceptance_rate: 66.329%
-collected_at: 2026-04-17T19:06:08.916380+00:00
+acceptance_rate: "66.329%"
+collected_at: "2026-04-17T19:06:08.916380+00:00"
 ---
 
 ## 문제

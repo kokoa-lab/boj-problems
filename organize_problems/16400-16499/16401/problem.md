@@ -1,13 +1,13 @@
 ---
-title: 과자 나눠주기
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "과자 나눠주기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 19274
 accepted: 7540
 solved_users: 5530
-acceptance_rate: 38.009%
-collected_at: 2026-04-17T14:17:18.278012+00:00
+acceptance_rate: "38.009%"
+collected_at: "2026-04-17T14:17:18.278012+00:00"
 ---
 
 ## 문제

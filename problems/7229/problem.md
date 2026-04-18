@@ -1,13 +1,13 @@
 ---
-title: Malkos
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Malkos"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 26
 accepted: 18
 solved_users: 17
-acceptance_rate: 85.000%
-collected_at: 2026-04-17T11:47:27.976768+00:00
+acceptance_rate: "85.000%"
+collected_at: "2026-04-17T11:47:27.976768+00:00"
 ---
 
 ## 문제

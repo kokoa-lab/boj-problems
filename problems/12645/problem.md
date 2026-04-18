@@ -1,13 +1,13 @@
 ---
-title: The Next Number (Small)
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "The Next Number (Small)"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 323
 accepted: 124
 solved_users: 101
-acceptance_rate: 38.113%
-collected_at: 2026-04-17T12:59:00.423438+00:00
+acceptance_rate: "38.113%"
+collected_at: "2026-04-17T12:59:00.423438+00:00"
 ---
 
 ## 문제

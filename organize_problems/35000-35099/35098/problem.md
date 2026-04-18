@@ -1,13 +1,13 @@
 ---
-title: Prefix and Suffix Can Be the Same
-special_judge: false
-time_limit: 2 초
-memory_limit: 2048 MB
+title: "Prefix and Suffix Can Be the Same"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "2048 MB"
 submissions: 70
 accepted: 63
 solved_users: 55
-acceptance_rate: 91.667%
-collected_at: 2026-04-17T20:55:33.988338+00:00
+acceptance_rate: "91.667%"
+collected_at: "2026-04-17T20:55:33.988338+00:00"
 ---
 
 ## 문제

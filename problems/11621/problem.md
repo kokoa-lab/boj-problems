@@ -1,13 +1,13 @@
 ---
-title: Ice Igloos
-special_judge: false
-time_limit: 10 초
-memory_limit: 512 MB
+title: "Ice Igloos"
+special_judge: "false"
+time_limit: "10 초"
+memory_limit: "512 MB"
 submissions: 249
 accepted: 34
 solved_users: 33
-acceptance_rate: 20.497%
-collected_at: 2026-04-17T12:43:03.027374+00:00
+acceptance_rate: "20.497%"
+collected_at: "2026-04-17T12:43:03.027374+00:00"
 ---
 
 ## 문제

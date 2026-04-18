@@ -1,13 +1,13 @@
 ---
-title: 대칭 XOR
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "대칭 XOR"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 224
 accepted: 119
 solved_users: 88
-acceptance_rate: 48.889%
-collected_at: 2026-04-17T20:35:46.629207+00:00
+acceptance_rate: "48.889%"
+collected_at: "2026-04-17T20:35:46.629207+00:00"
 ---
 
 ## 문제

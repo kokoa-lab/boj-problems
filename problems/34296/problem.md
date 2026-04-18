@@ -1,13 +1,13 @@
 ---
-title: Mirror Maze
-special_judge: true
-time_limit: 2 초
-memory_limit: 2048 MB
+title: "Mirror Maze"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "2048 MB"
 submissions: 19
 accepted: 7
 solved_users: 7
-acceptance_rate: 36.842%
-collected_at: 2026-04-17T20:34:53.206476+00:00
+acceptance_rate: "36.842%"
+collected_at: "2026-04-17T20:34:53.206476+00:00"
 ---
 
 ## 문제

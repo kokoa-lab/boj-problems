@@ -1,13 +1,13 @@
 ---
-title: Cowntact Tracing
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Cowntact Tracing"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 689
 accepted: 187
 solved_users: 151
-acceptance_rate: 28.872%
-collected_at: 2026-04-17T15:10:52.678354+00:00
+acceptance_rate: "28.872%"
+collected_at: "2026-04-17T15:10:52.678354+00:00"
 ---
 
 ## 문제

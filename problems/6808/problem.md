@@ -1,13 +1,13 @@
 ---
-title: Space Miner
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Space Miner"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 37
 accepted: 12
 solved_users: 11
-acceptance_rate: 34.375%
-collected_at: 2026-04-17T11:38:27.074956+00:00
+acceptance_rate: "34.375%"
+collected_at: "2026-04-17T11:38:27.074956+00:00"
 ---
 
 ## 문제

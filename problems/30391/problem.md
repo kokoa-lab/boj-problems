@@ -1,13 +1,13 @@
 ---
-title: 트리의 지름?
-special_judge: true
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "트리의 지름?"
+special_judge: "true"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 356
 accepted: 167
 solved_users: 135
-acceptance_rate: 45.000%
-collected_at: 2026-04-17T19:05:51.412864+00:00
+acceptance_rate: "45.000%"
+collected_at: "2026-04-17T19:05:51.412864+00:00"
 ---
 
 ## 문제

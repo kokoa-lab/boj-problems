@@ -1,13 +1,13 @@
 ---
-title: Bumped!
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Bumped!"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 1057
 accepted: 319
 solved_users: 243
-acceptance_rate: 30.186%
-collected_at: 2026-04-17T13:59:02.225877+00:00
+acceptance_rate: "30.186%"
+collected_at: "2026-04-17T13:59:02.225877+00:00"
 ---
 
 ## 문제

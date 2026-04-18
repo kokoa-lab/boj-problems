@@ -1,13 +1,13 @@
 ---
-title: 정사각형 연결하기
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "정사각형 연결하기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 537
 accepted: 275
 solved_users: 216
-acceptance_rate: 57.143%
-collected_at: 2026-04-17T19:12:55.768706+00:00
+acceptance_rate: "57.143%"
+collected_at: "2026-04-17T19:12:55.768706+00:00"
 ---
 
 ## 문제

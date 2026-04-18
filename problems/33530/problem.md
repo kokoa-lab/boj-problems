@@ -1,13 +1,13 @@
 ---
-title: Cryptography
-special_judge: false
-time_limit: 10 초 (추가 시간 없음)
-memory_limit: 2048 MB
+title: "Cryptography"
+special_judge: "false"
+time_limit: "10 초 (추가 시간 없음)"
+memory_limit: "2048 MB"
 submissions: 77
 accepted: 48
 solved_users: 43
-acceptance_rate: 62.319%
-collected_at: 2026-04-17T20:18:20.674578+00:00
+acceptance_rate: "62.319%"
+collected_at: "2026-04-17T20:18:20.674578+00:00"
 ---
 
 ## 문제

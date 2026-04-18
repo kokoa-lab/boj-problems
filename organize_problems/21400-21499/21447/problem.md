@@ -1,13 +1,13 @@
 ---
-title: Самодвойственный документ
-special_judge: true
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Самодвойственный документ"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 18
 accepted: 5
 solved_users: 4
-acceptance_rate: 80.000%
-collected_at: 2026-04-17T15:58:23.940040+00:00
+acceptance_rate: "80.000%"
+collected_at: "2026-04-17T15:58:23.940040+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Kingdom Reunion
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Kingdom Reunion"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 91
 accepted: 28
 solved_users: 11
-acceptance_rate: 30.556%
-collected_at: 2026-04-17T10:54:23.839852+00:00
+acceptance_rate: "30.556%"
+collected_at: "2026-04-17T10:54:23.839852+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 점수 계산하기
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "점수 계산하기"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 106
 accepted: 70
 solved_users: 60
-acceptance_rate: 65.217%
-collected_at: 2026-04-17T18:26:32.835723+00:00
+acceptance_rate: "65.217%"
+collected_at: "2026-04-17T18:26:32.835723+00:00"
 ---
 
 ## 문제

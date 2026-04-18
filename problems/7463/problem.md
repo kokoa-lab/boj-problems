@@ -1,13 +1,13 @@
 ---
-title: Ellipse
-special_judge: true
-time_limit: 2 초
-memory_limit: 64 MB
+title: "Ellipse"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "64 MB"
 submissions: 291
 accepted: 30
 solved_users: 17
-acceptance_rate: 7.424%
-collected_at: 2026-04-17T11:49:40.735073+00:00
+acceptance_rate: "7.424%"
+collected_at: "2026-04-17T11:49:40.735073+00:00"
 ---
 
 ## 문제

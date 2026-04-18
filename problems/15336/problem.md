@@ -1,13 +1,13 @@
 ---
-title: Homework
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Homework"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 53
 accepted: 26
 solved_users: 20
-acceptance_rate: 60.606%
-collected_at: 2026-04-17T13:57:22.867556+00:00
+acceptance_rate: "60.606%"
+collected_at: "2026-04-17T13:57:22.867556+00:00"
 ---
 
 ## 문제

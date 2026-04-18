@@ -1,13 +1,13 @@
 ---
-title: BOJ 대회 스코어보드
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "BOJ 대회 스코어보드"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 626
 accepted: 144
 solved_users: 38
-acceptance_rate: 15.200%
-collected_at: 2026-04-17T15:32:42.889858+00:00
+acceptance_rate: "15.200%"
+collected_at: "2026-04-17T15:32:42.889858+00:00"
 ---
 
 ## 문제

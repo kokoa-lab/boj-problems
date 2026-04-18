@@ -1,13 +1,13 @@
 ---
-title: 스트릭 채우기
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "스트릭 채우기"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 351
 accepted: 155
 solved_users: 136
-acceptance_rate: 47.222%
-collected_at: 2026-04-17T20:29:01.909380+00:00
+acceptance_rate: "47.222%"
+collected_at: "2026-04-17T20:29:01.909380+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: QWERTY
-special_judge: false
-time_limit: 1 초
-memory_limit: 2048 MB
+title: "QWERTY"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "2048 MB"
 submissions: 86
 accepted: 81
 solved_users: 69
-acceptance_rate: 94.521%
-collected_at: 2026-04-17T20:35:10.540832+00:00
+acceptance_rate: "94.521%"
+collected_at: "2026-04-17T20:35:10.540832+00:00"
 ---
 
 ## 문제

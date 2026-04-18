@@ -1,13 +1,13 @@
 ---
-title: Anti-Sorting Game
-special_judge: false
-time_limit: 1.5 초
-memory_limit: 2048 MB
+title: "Anti-Sorting Game"
+special_judge: "false"
+time_limit: "1.5 초"
+memory_limit: "2048 MB"
 submissions: 4
 accepted: 3
 solved_users: 3
-acceptance_rate: 75.000%
-collected_at: 2026-04-17T20:41:04.236344+00:00
+acceptance_rate: "75.000%"
+collected_at: "2026-04-17T20:41:04.236344+00:00"
 ---
 
 ## 문제

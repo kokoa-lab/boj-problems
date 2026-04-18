@@ -1,13 +1,13 @@
 ---
-title: Expected Value
-special_judge: false
-time_limit: 3 초
-memory_limit: 16 MB (추가 메모리 없음)
+title: "Expected Value"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "16 MB (추가 메모리 없음)"
 submissions: 114
 accepted: 43
 solved_users: 38
-acceptance_rate: 43.678%
-collected_at: 2026-04-17T15:06:18.980393+00:00
+acceptance_rate: "43.678%"
+collected_at: "2026-04-17T15:06:18.980393+00:00"
 ---
 
 ## 문제

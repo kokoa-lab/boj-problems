@@ -1,13 +1,13 @@
 ---
-title: 8진수, 10진수, 16진수
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "8진수, 10진수, 16진수"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 6038
 accepted: 4346
 solved_users: 3870
-acceptance_rate: 72.991%
-collected_at: 2026-04-17T12:46:29.042881+00:00
+acceptance_rate: "72.991%"
+collected_at: "2026-04-17T12:46:29.042881+00:00"
 ---
 
 ## 문제

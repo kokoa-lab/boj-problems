@@ -1,13 +1,13 @@
 ---
-title: Linhas de Metrô
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Linhas de Metrô"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 47
 accepted: 31
 solved_users: 29
-acceptance_rate: 78.378%
-collected_at: 2026-04-17T14:18:12.456348+00:00
+acceptance_rate: "78.378%"
+collected_at: "2026-04-17T14:18:12.456348+00:00"
 ---
 
 ## 문제

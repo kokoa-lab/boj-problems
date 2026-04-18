@@ -1,13 +1,13 @@
 ---
-title: k개 트리 노드에서 사과와 배를 최대로 수확하기
-special_judge: false
-time_limit: 3 초
-memory_limit: 512 MB
+title: "k개 트리 노드에서 사과와 배를 최대로 수확하기"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "512 MB"
 submissions: 259
 accepted: 64
 solved_users: 52
-acceptance_rate: 23.636%
-collected_at: 2026-04-17T17:38:05.517281+00:00
+acceptance_rate: "23.636%"
+collected_at: "2026-04-17T17:38:05.517281+00:00"
 ---
 
 ## 문제

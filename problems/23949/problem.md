@@ -1,13 +1,13 @@
 ---
-title: Shifts
-special_judge: false
-time_limit: 40 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Shifts"
+special_judge: "false"
+time_limit: "40 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 56
 accepted: 34
 solved_users: 28
-acceptance_rate: 68.293%
-collected_at: 2026-04-17T16:59:04.729121+00:00
+acceptance_rate: "68.293%"
+collected_at: "2026-04-17T16:59:04.729121+00:00"
 ---
 
 ## 문제

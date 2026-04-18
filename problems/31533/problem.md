@@ -1,13 +1,13 @@
 ---
-title: Furiosa AI 영상 처리 가속
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Furiosa AI 영상 처리 가속"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 715
 accepted: 477
 solved_users: 438
-acceptance_rate: 68.224%
-collected_at: 2026-04-17T19:29:59.559976+00:00
+acceptance_rate: "68.224%"
+collected_at: "2026-04-17T19:29:59.559976+00:00"
 ---
 
 ## 문제

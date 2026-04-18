@@ -1,13 +1,13 @@
 ---
-title: Aqueduct Construction
-special_judge: true
-time_limit: 3 초
-memory_limit: 256 MB
+title: "Aqueduct Construction"
+special_judge: "true"
+time_limit: "3 초"
+memory_limit: "256 MB"
 submissions: 71
 accepted: 18
 solved_users: 16
-acceptance_rate: 23.188%
-collected_at: 2026-04-17T12:41:17.259256+00:00
+acceptance_rate: "23.188%"
+collected_at: "2026-04-17T12:41:17.259256+00:00"
 ---
 
 ## 문제

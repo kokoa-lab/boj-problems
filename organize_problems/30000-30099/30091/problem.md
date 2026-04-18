@@ -1,13 +1,13 @@
 ---
-title: 직사각형 만들기
-special_judge: false
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "직사각형 만들기"
+special_judge: "false"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 1118
 accepted: 122
 solved_users: 79
-acceptance_rate: 16.255%
-collected_at: 2026-04-17T18:58:50.031979+00:00
+acceptance_rate: "16.255%"
+collected_at: "2026-04-17T18:58:50.031979+00:00"
 ---
 
 ## 문제

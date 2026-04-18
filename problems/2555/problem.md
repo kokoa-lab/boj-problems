@@ -1,13 +1,13 @@
 ---
-title: 생일 출력하기
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "생일 출력하기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 19016
 accepted: 9447
 solved_users: 8790
-acceptance_rate: 53.118%
-collected_at: 2026-04-17T10:42:42.181129+00:00
+acceptance_rate: "53.118%"
+collected_at: "2026-04-17T10:42:42.181129+00:00"
 ---
 
 ## 문제

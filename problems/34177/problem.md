@@ -1,13 +1,13 @@
 ---
-title: 드래곤볼: MatKor Cup 없애기
-special_judge: false
-time_limit: 0.7 초 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "드래곤볼: MatKor Cup 없애기"
+special_judge: "false"
+time_limit: "0.7 초 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 22
 accepted: 11
 solved_users: 6
-acceptance_rate: 40.000%
-collected_at: 2026-04-17T20:32:24.264607+00:00
+acceptance_rate: "40.000%"
+collected_at: "2026-04-17T20:32:24.264607+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 사과와 바나나 나눠주기
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "사과와 바나나 나눠주기"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 2030
 accepted: 1511
 solved_users: 1368
-acceptance_rate: 77.332%
-collected_at: 2026-04-17T13:45:20.535479+00:00
+acceptance_rate: "77.332%"
+collected_at: "2026-04-17T13:45:20.535479+00:00"
 ---
 
 ## 문제

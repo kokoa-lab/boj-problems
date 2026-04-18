@@ -1,13 +1,13 @@
 ---
-title: Older Brother
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Older Brother"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 298
 accepted: 136
 solved_users: 124
-acceptance_rate: 49.402%
-collected_at: 2026-04-17T13:13:40.313912+00:00
+acceptance_rate: "49.402%"
+collected_at: "2026-04-17T13:13:40.313912+00:00"
 ---
 
 ## 문제

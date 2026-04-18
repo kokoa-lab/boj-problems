@@ -1,13 +1,13 @@
 ---
-title: Alakazam
-special_judge: true
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Alakazam"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 79
 accepted: 47
 solved_users: 44
-acceptance_rate: 62.857%
-collected_at: 2026-04-17T15:07:12.747895+00:00
+acceptance_rate: "62.857%"
+collected_at: "2026-04-17T15:07:12.747895+00:00"
 ---
 
 ## 문제

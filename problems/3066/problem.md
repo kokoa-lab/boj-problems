@@ -1,13 +1,13 @@
 ---
-title: 브리징 시그널
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "브리징 시그널"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 974
 accepted: 767
 solved_users: 690
-acceptance_rate: 82.833%
-collected_at: 2026-04-17T10:46:30.951687+00:00
+acceptance_rate: "82.833%"
+collected_at: "2026-04-17T10:46:30.951687+00:00"
 ---
 
 ## 문제

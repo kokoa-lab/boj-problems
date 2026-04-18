@@ -1,13 +1,13 @@
 ---
-title: 대충 더해
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "대충 더해"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 3009
 accepted: 2108
 solved_users: 1945
-acceptance_rate: 71.245%
-collected_at: 2026-04-17T12:05:17.652521+00:00
+acceptance_rate: "71.245%"
+collected_at: "2026-04-17T12:05:17.652521+00:00"
 ---
 
 ## 문제

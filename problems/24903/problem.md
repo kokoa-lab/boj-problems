@@ -1,13 +1,13 @@
 ---
-title: $\textbf{multiple}\text{ edges}$
-special_judge: false
-time_limit: 0.5 초 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "$\\textbf{multiple}\\text{ edges}$"
+special_judge: "false"
+time_limit: "0.5 초 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 1180
 accepted: 175
 solved_users: 138
-acceptance_rate: 18.852%
-collected_at: 2026-04-17T17:16:54.403543+00:00
+acceptance_rate: "18.852%"
+collected_at: "2026-04-17T17:16:54.403543+00:00"
 ---
 
 ## 문제

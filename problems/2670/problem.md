@@ -1,13 +1,13 @@
 ---
-title: 연속부분최대곱
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "연속부분최대곱"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 21837
 accepted: 7995
 solved_users: 6218
-acceptance_rate: 36.326%
-collected_at: 2026-04-17T10:43:48.332172+00:00
+acceptance_rate: "36.326%"
+collected_at: "2026-04-17T10:43:48.332172+00:00"
 ---
 
 ## 문제

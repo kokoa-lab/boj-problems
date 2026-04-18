@@ -1,13 +1,13 @@
 ---
-title: Sequence Guessing
-special_judge: false
-time_limit: 10 초 (추가 시간 없음)
-memory_limit: 2048 MB
+title: "Sequence Guessing"
+special_judge: "false"
+time_limit: "10 초 (추가 시간 없음)"
+memory_limit: "2048 MB"
 submissions: 131
 accepted: 36
 solved_users: 27
-acceptance_rate: 23.276%
-collected_at: 2026-04-17T19:29:41.883178+00:00
+acceptance_rate: "23.276%"
+collected_at: "2026-04-17T19:29:41.883178+00:00"
 ---
 
 ## 문제

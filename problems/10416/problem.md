@@ -1,13 +1,13 @@
 ---
-title: Restaurant Ratings
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Restaurant Ratings"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 32
 accepted: 23
 solved_users: 21
-acceptance_rate: 80.769%
-collected_at: 2026-04-17T12:23:22.361636+00:00
+acceptance_rate: "80.769%"
+collected_at: "2026-04-17T12:23:22.361636+00:00"
 ---
 
 ## 문제

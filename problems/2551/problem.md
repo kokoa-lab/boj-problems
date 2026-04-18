@@ -1,13 +1,13 @@
 ---
-title: 두 대표 자연수
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "두 대표 자연수"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 3628
 accepted: 872
 solved_users: 608
-acceptance_rate: 22.569%
-collected_at: 2026-04-17T10:42:39.758622+00:00
+acceptance_rate: "22.569%"
+collected_at: "2026-04-17T10:42:39.758622+00:00"
 ---
 
 ## 문제

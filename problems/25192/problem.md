@@ -1,13 +1,13 @@
 ---
-title: 인사성 밝은 곰곰이
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "인사성 밝은 곰곰이"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 31847
 accepted: 15016
 solved_users: 12736
-acceptance_rate: 48.431%
-collected_at: 2026-04-17T17:22:19.679810+00:00
+acceptance_rate: "48.431%"
+collected_at: "2026-04-17T17:22:19.679810+00:00"
 ---
 
 ## 문제

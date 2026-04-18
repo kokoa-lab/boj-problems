@@ -1,13 +1,13 @@
 ---
-title: Fly Swatter (Small)
-special_judge: true
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Fly Swatter (Small)"
+special_judge: "true"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 29
 accepted: 21
 solved_users: 20
-acceptance_rate: 95.238%
-collected_at: 2026-04-17T13:00:27.115377+00:00
+acceptance_rate: "95.238%"
+collected_at: "2026-04-17T13:00:27.115377+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: マルバツスタンプ (Circle Cross Stamps)
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "マルバツスタンプ (Circle Cross Stamps)"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 236
 accepted: 180
 solved_users: 141
-acceptance_rate: 76.216%
-collected_at: 2026-04-17T14:24:04.565225+00:00
+acceptance_rate: "76.216%"
+collected_at: "2026-04-17T14:24:04.565225+00:00"
 ---
 
 ## 문제

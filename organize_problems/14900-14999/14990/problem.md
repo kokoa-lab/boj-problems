@@ -1,13 +1,13 @@
 ---
-title: Crowd Control
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Crowd Control"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 54
 accepted: 41
 solved_users: 39
-acceptance_rate: 79.592%
-collected_at: 2026-04-17T13:47:42.585359+00:00
+acceptance_rate: "79.592%"
+collected_at: "2026-04-17T13:47:42.585359+00:00"
 ---
 
 ## 문제

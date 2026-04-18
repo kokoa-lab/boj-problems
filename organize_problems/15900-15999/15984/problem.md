@@ -1,13 +1,13 @@
 ---
-title: 유물 도둑
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "유물 도둑"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 128
 accepted: 35
 solved_users: 28
-acceptance_rate: 34.568%
-collected_at: 2026-04-17T14:09:35.534306+00:00
+acceptance_rate: "34.568%"
+collected_at: "2026-04-17T14:09:35.534306+00:00"
 ---
 
 ## 문제

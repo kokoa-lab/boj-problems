@@ -1,13 +1,13 @@
 ---
-title: Kakezan
-special_judge: false
-time_limit: 3 초
-memory_limit: 512 MB
+title: "Kakezan"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "512 MB"
 submissions: 60
 accepted: 54
 solved_users: 45
-acceptance_rate: 88.235%
-collected_at: 2026-04-17T16:21:44.192580+00:00
+acceptance_rate: "88.235%"
+collected_at: "2026-04-17T16:21:44.192580+00:00"
 ---
 
 ## 문제

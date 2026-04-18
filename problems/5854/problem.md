@@ -1,13 +1,13 @@
 ---
-title: Painting the Fence
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Painting the Fence"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 147
 accepted: 96
 solved_users: 91
-acceptance_rate: 70.000%
-collected_at: 2026-04-17T11:18:00.275232+00:00
+acceptance_rate: "70.000%"
+collected_at: "2026-04-17T11:18:00.275232+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Is Y a Vowel?
-special_judge: false
-time_limit: 1 초
-memory_limit: 2048 MB
+title: "Is Y a Vowel?"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "2048 MB"
 submissions: 1345
 accepted: 1106
 solved_users: 1030
-acceptance_rate: 83.065%
-collected_at: 2026-04-17T19:25:33.769638+00:00
+acceptance_rate: "83.065%"
+collected_at: "2026-04-17T19:25:33.769638+00:00"
 ---
 
 ## 문제

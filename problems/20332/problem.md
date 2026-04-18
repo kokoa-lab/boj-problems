@@ -1,13 +1,13 @@
 ---
-title: Divvying Up
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Divvying Up"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 1647
 accepted: 1026
 solved_users: 960
-acceptance_rate: 63.492%
-collected_at: 2026-04-17T15:35:13.722981+00:00
+acceptance_rate: "63.492%"
+collected_at: "2026-04-17T15:35:13.722981+00:00"
 ---
 
 ## 문제

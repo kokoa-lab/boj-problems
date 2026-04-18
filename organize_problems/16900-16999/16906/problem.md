@@ -1,13 +1,13 @@
 ---
-title: 욱제어
-special_judge: true
-time_limit: 1 초
-memory_limit: 512 MB
+title: "욱제어"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 715
 accepted: 274
 solved_users: 197
-acceptance_rate: 36.481%
-collected_at: 2026-04-17T14:26:03.130628+00:00
+acceptance_rate: "36.481%"
+collected_at: "2026-04-17T14:26:03.130628+00:00"
 ---
 
 ## 문제

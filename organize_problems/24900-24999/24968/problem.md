@@ -1,13 +1,13 @@
 ---
-title: 트리의 간선 바꾸기
-special_judge: false
-time_limit: 2 초  ( 하단 참고 )
-memory_limit: 512 MB
+title: "트리의 간선 바꾸기"
+special_judge: "false"
+time_limit: "2 초  ( 하단 참고 )"
+memory_limit: "512 MB"
 submissions: 18
 accepted: 9
 solved_users: 6
-acceptance_rate: 46.154%
-collected_at: 2026-04-17T17:17:48.117420+00:00
+acceptance_rate: "46.154%"
+collected_at: "2026-04-17T17:17:48.117420+00:00"
 ---
 
 ## 문제

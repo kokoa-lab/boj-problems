@@ -1,13 +1,13 @@
 ---
-title: 군꺾문자열
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "군꺾문자열"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 437
 accepted: 211
 solved_users: 187
-acceptance_rate: 49.340%
-collected_at: 2026-04-17T20:44:10.844292+00:00
+acceptance_rate: "49.340%"
+collected_at: "2026-04-17T20:44:10.844292+00:00"
 ---
 
 ## 문제

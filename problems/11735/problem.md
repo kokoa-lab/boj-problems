@@ -1,13 +1,13 @@
 ---
-title: 정산소
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "정산소"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 475
 accepted: 215
 solved_users: 180
-acceptance_rate: 46.512%
-collected_at: 2026-04-17T12:45:05.872007+00:00
+acceptance_rate: "46.512%"
+collected_at: "2026-04-17T12:45:05.872007+00:00"
 ---
 
 ## 문제

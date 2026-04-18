@@ -1,13 +1,13 @@
 ---
-title: Black and White Boxes
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Black and White Boxes"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 595
 accepted: 222
 solved_users: 147
-acceptance_rate: 32.739%
-collected_at: 2026-04-17T13:12:51.637793+00:00
+acceptance_rate: "32.739%"
+collected_at: "2026-04-17T13:12:51.637793+00:00"
 ---
 
 ## 문제

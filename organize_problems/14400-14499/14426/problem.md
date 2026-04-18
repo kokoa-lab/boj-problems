@@ -1,13 +1,13 @@
 ---
-title: 접두사 찾기
-special_judge: false
-time_limit: 1 초
-memory_limit: 1536 MB
+title: "접두사 찾기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1536 MB"
 submissions: 8990
 accepted: 3171
 solved_users: 2322
-acceptance_rate: 39.537%
-collected_at: 2026-04-17T13:33:07.354276+00:00
+acceptance_rate: "39.537%"
+collected_at: "2026-04-17T13:33:07.354276+00:00"
 ---
 
 ## 문제

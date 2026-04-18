@@ -1,13 +1,13 @@
 ---
-title: GCD와 K번째 쿼리
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "GCD와 K번째 쿼리"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 75
 accepted: 33
 solved_users: 20
-acceptance_rate: 33.898%
-collected_at: 2026-04-17T18:08:29.451114+00:00
+acceptance_rate: "33.898%"
+collected_at: "2026-04-17T18:08:29.451114+00:00"
 ---
 
 ## 문제

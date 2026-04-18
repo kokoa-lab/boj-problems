@@ -1,13 +1,13 @@
 ---
-title: My Cow Ate My Homework
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "My Cow Ate My Homework"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 1932
 accepted: 528
 solved_users: 454
-acceptance_rate: 28.680%
-collected_at: 2026-04-17T13:59:45.284866+00:00
+acceptance_rate: "28.680%"
+collected_at: "2026-04-17T13:59:45.284866+00:00"
 ---
 
 ## 문제

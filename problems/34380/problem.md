@@ -1,13 +1,13 @@
 ---
-title: Blaster's Dash
-special_judge: false
-time_limit: 1 초
-memory_limit: 2048 MB
+title: "Blaster's Dash"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "2048 MB"
 submissions: 361
 accepted: 331
 solved_users: 304
-acceptance_rate: 91.566%
-collected_at: 2026-04-17T20:37:02.070149+00:00
+acceptance_rate: "91.566%"
+collected_at: "2026-04-17T20:37:02.070149+00:00"
 ---
 
 ## 문제

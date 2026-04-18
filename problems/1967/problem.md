@@ -1,13 +1,13 @@
 ---
-title: 트리의 지름
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "트리의 지름"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 67026
 accepted: 27869
 solved_users: 21128
-acceptance_rate: 41.498%
-collected_at: 2026-04-17T10:36:27.964271+00:00
+acceptance_rate: "41.498%"
+collected_at: "2026-04-17T10:36:27.964271+00:00"
 ---
 
 ## 문제

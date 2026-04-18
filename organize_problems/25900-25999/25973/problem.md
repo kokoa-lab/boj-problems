@@ -1,13 +1,13 @@
 ---
-title: 어지러운 트리
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "어지러운 트리"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 215
 accepted: 74
 solved_users: 57
-acceptance_rate: 41.304%
-collected_at: 2026-04-17T17:37:59.689418+00:00
+acceptance_rate: "41.304%"
+collected_at: "2026-04-17T17:37:59.689418+00:00"
 ---
 
 ## 문제

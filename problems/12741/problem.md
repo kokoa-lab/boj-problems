@@ -1,13 +1,13 @@
 ---
-title: 쓰담쓰담
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "쓰담쓰담"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 541
 accepted: 175
 solved_users: 151
-acceptance_rate: 38.422%
-collected_at: 2026-04-17T13:00:35.205062+00:00
+acceptance_rate: "38.422%"
+collected_at: "2026-04-17T13:00:35.205062+00:00"
 ---
 
 ## 문제

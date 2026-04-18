@@ -1,13 +1,13 @@
 ---
-title: 피보나치 비스무리한 수열
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "피보나치 비스무리한 수열"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 8536
 accepted: 4521
 solved_users: 4080
-acceptance_rate: 53.748%
-collected_at: 2026-04-17T13:36:22.764909+00:00
+acceptance_rate: "53.748%"
+collected_at: "2026-04-17T13:36:22.764909+00:00"
 ---
 
 ## 문제

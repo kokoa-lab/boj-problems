@@ -1,13 +1,13 @@
 ---
-title: Ancient Commemorative Monolith
-special_judge: false
-time_limit: 8 초 (추가 시간 없음)
-memory_limit: 256 MB
+title: "Ancient Commemorative Monolith"
+special_judge: "false"
+time_limit: "8 초 (추가 시간 없음)"
+memory_limit: "256 MB"
 submissions: 3
 accepted: 1
 solved_users: 1
-acceptance_rate: 100.000%
-collected_at: 2026-04-17T12:27:09.776601+00:00
+acceptance_rate: "100.000%"
+collected_at: "2026-04-17T12:27:09.776601+00:00"
 ---
 
 ## 문제

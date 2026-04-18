@@ -1,13 +1,13 @@
 ---
-title: 화물열차
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "화물열차"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 875
 accepted: 276
 solved_users: 154
-acceptance_rate: 32.489%
-collected_at: 2026-04-17T10:32:08.538459+00:00
+acceptance_rate: "32.489%"
+collected_at: "2026-04-17T10:32:08.538459+00:00"
 ---
 
 ## 문제

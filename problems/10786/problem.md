@@ -1,13 +1,13 @@
 ---
-title: Catering
-special_judge: false
-time_limit: 4 초
-memory_limit: 256 MB
+title: "Catering"
+special_judge: "false"
+time_limit: "4 초"
+memory_limit: "256 MB"
 submissions: 240
 accepted: 124
 solved_users: 103
-acceptance_rate: 49.519%
-collected_at: 2026-04-17T12:29:33.271163+00:00
+acceptance_rate: "49.519%"
+collected_at: "2026-04-17T12:29:33.271163+00:00"
 ---
 
 ## 문제

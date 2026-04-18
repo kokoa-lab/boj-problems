@@ -1,13 +1,13 @@
 ---
-title: 공통 부분 수열 확장
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "공통 부분 수열 확장"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 1228
 accepted: 283
 solved_users: 229
-acceptance_rate: 26.171%
-collected_at: 2026-04-17T16:06:45.732537+00:00
+acceptance_rate: "26.171%"
+collected_at: "2026-04-17T16:06:45.732537+00:00"
 ---
 
 ## 문제

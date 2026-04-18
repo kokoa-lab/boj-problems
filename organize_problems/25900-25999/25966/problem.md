@@ -1,13 +1,13 @@
 ---
-title: 배찬우는 배열을 좋아해
-special_judge: false
-time_limit: 3 초
-memory_limit: 512 MB
+title: "배찬우는 배열을 좋아해"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "512 MB"
 submissions: 1599
 accepted: 734
 solved_users: 542
-acceptance_rate: 44.719%
-collected_at: 2026-04-17T17:37:50.226150+00:00
+acceptance_rate: "44.719%"
+collected_at: "2026-04-17T17:37:50.226150+00:00"
 ---
 
 ## 문제

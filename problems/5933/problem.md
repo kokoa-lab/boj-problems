@@ -1,13 +1,13 @@
 ---
-title: Buying Feed
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "Buying Feed"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 55
 accepted: 29
 solved_users: 24
-acceptance_rate: 54.545%
-collected_at: 2026-04-17T11:18:41.851840+00:00
+acceptance_rate: "54.545%"
+collected_at: "2026-04-17T11:18:41.851840+00:00"
 ---
 
 ## 문제

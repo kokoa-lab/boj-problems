@@ -1,13 +1,13 @@
 ---
-title: 헤라클레스와 히드라
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "헤라클레스와 히드라"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 3102
 accepted: 1710
 solved_users: 1607
-acceptance_rate: 56.268%
-collected_at: 2026-04-17T12:20:25.110278+00:00
+acceptance_rate: "56.268%"
+collected_at: "2026-04-17T12:20:25.110278+00:00"
 ---
 
 ## 문제

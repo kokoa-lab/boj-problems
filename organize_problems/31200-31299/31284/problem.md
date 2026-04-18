@@ -1,13 +1,13 @@
 ---
-title: 과일 게임
-special_judge: false
-time_limit: 4 초
-memory_limit: 1024 MB
+title: "과일 게임"
+special_judge: "false"
+time_limit: "4 초"
+memory_limit: "1024 MB"
 submissions: 164
 accepted: 34
 solved_users: 23
-acceptance_rate: 19.658%
-collected_at: 2026-04-17T19:25:11.967808+00:00
+acceptance_rate: "19.658%"
+collected_at: "2026-04-17T19:25:11.967808+00:00"
 ---
 
 ## 문제

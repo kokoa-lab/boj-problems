@@ -1,13 +1,13 @@
 ---
-title: 티떱랜드
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "티떱랜드"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 844
 accepted: 453
 solved_users: 322
-acceptance_rate: 49.691%
-collected_at: 2026-04-17T13:27:22.372175+00:00
+acceptance_rate: "49.691%"
+collected_at: "2026-04-17T13:27:22.372175+00:00"
 ---
 
 ## 문제

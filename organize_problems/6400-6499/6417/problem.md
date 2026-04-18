@@ -1,13 +1,13 @@
 ---
-title: 코코넛 그 두 번째 이야기
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "코코넛 그 두 번째 이야기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 657
 accepted: 263
 solved_users: 170
-acceptance_rate: 39.627%
-collected_at: 2026-04-17T11:27:44.938486+00:00
+acceptance_rate: "39.627%"
+collected_at: "2026-04-17T11:27:44.938486+00:00"
 ---
 
 ## 문제

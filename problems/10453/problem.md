@@ -1,13 +1,13 @@
 ---
-title: 문자열 변환
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "문자열 변환"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 1512
 accepted: 866
 solved_users: 686
-acceptance_rate: 63.109%
-collected_at: 2026-04-17T12:23:53.255375+00:00
+acceptance_rate: "63.109%"
+collected_at: "2026-04-17T12:23:53.255375+00:00"
 ---
 
 ## 문제

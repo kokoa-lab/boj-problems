@@ -1,13 +1,13 @@
 ---
-title: 이모티콘
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "이모티콘"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 32924
 accepted: 12627
 solved_users: 8527
-acceptance_rate: 34.991%
-collected_at: 2026-04-17T13:28:16.850671+00:00
+acceptance_rate: "34.991%"
+collected_at: "2026-04-17T13:28:16.850671+00:00"
 ---
 
 ## 문제

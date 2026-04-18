@@ -1,13 +1,13 @@
 ---
-title: Kamyki
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Kamyki"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 109
 accepted: 47
 solved_users: 24
-acceptance_rate: 48.980%
-collected_at: 2026-04-17T12:17:48.795247+00:00
+acceptance_rate: "48.980%"
+collected_at: "2026-04-17T12:17:48.795247+00:00"
 ---
 
 ## 문제

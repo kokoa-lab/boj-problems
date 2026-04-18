@@ -1,13 +1,13 @@
 ---
-title: Hay Points
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Hay Points"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 261
 accepted: 187
 solved_users: 163
-acceptance_rate: 74.771%
-collected_at: 2026-04-17T11:00:00.965505+00:00
+acceptance_rate: "74.771%"
+collected_at: "2026-04-17T11:00:00.965505+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 사업 확장
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "사업 확장"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 571
 accepted: 156
 solved_users: 97
-acceptance_rate: 32.550%
-collected_at: 2026-04-17T10:44:52.646524+00:00
+acceptance_rate: "32.550%"
+collected_at: "2026-04-17T10:44:52.646524+00:00"
 ---
 
 ## 문제

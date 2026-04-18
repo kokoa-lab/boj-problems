@@ -1,13 +1,13 @@
 ---
-title: Hilbert Sort
-special_judge: false
-time_limit: 5 초
-memory_limit: 256 MB
+title: "Hilbert Sort"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "256 MB"
 submissions: 63
 accepted: 27
 solved_users: 25
-acceptance_rate: 46.296%
-collected_at: 2026-04-17T12:42:48.934793+00:00
+acceptance_rate: "46.296%"
+collected_at: "2026-04-17T12:42:48.934793+00:00"
 ---
 
 ## 문제

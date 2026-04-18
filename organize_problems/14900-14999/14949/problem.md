@@ -1,13 +1,13 @@
 ---
-title: 외계 미생물
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "외계 미생물"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 225
 accepted: 114
 solved_users: 80
-acceptance_rate: 53.691%
-collected_at: 2026-04-17T13:46:28.288187+00:00
+acceptance_rate: "53.691%"
+collected_at: "2026-04-17T13:46:28.288187+00:00"
 ---
 
 ## 문제

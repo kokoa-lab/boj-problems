@@ -1,13 +1,13 @@
 ---
-title: Corrupted Gradebook
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Corrupted Gradebook"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 66
 accepted: 22
 solved_users: 17
-acceptance_rate: 47.222%
-collected_at: 2026-04-17T19:19:48.895608+00:00
+acceptance_rate: "47.222%"
+collected_at: "2026-04-17T19:19:48.895608+00:00"
 ---
 
 ## 문제

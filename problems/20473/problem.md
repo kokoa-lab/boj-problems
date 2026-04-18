@@ -1,13 +1,13 @@
 ---
-title: Гостиница
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Гостиница"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 401
 accepted: 268
 solved_users: 253
-acceptance_rate: 66.755%
-collected_at: 2026-04-17T15:36:53.782508+00:00
+acceptance_rate: "66.755%"
+collected_at: "2026-04-17T15:36:53.782508+00:00"
 ---
 
 ## 문제

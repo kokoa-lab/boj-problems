@@ -1,13 +1,13 @@
 ---
-title: 17배
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "17배"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 8348
 accepted: 4368
 solved_users: 3973
-acceptance_rate: 57.697%
-collected_at: 2026-04-17T11:18:19.056523+00:00
+acceptance_rate: "57.697%"
+collected_at: "2026-04-17T11:18:19.056523+00:00"
 ---
 
 ## 문제

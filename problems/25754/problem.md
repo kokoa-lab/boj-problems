@@ -1,13 +1,13 @@
 ---
-title: Computation - Task 10
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Computation - Task 10"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 18
 accepted: 11
 solved_users: 10
-acceptance_rate: 58.824%
-collected_at: 2026-04-17T17:32:19.583134+00:00
+acceptance_rate: "58.824%"
+collected_at: "2026-04-17T17:32:19.583134+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Uiro
-special_judge: false
-time_limit: 5 초
-memory_limit: 2048 MB
+title: "Uiro"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "2048 MB"
 submissions: 116
 accepted: 10
 solved_users: 9
-acceptance_rate: 8.257%
-collected_at: 2026-04-17T20:31:01.569199+00:00
+acceptance_rate: "8.257%"
+collected_at: "2026-04-17T20:31:01.569199+00:00"
 ---
 
 ## 문제

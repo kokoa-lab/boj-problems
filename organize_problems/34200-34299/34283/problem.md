@@ -1,13 +1,13 @@
 ---
-title: Certainly
-special_judge: false
-time_limit: 1 초
-memory_limit: 2048 MB
+title: "Certainly"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "2048 MB"
 submissions: 95
 accepted: 82
 solved_users: 76
-acceptance_rate: 86.364%
-collected_at: 2026-04-17T20:34:40.605052+00:00
+acceptance_rate: "86.364%"
+collected_at: "2026-04-17T20:34:40.605052+00:00"
 ---
 
 ## 문제

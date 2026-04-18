@@ -1,13 +1,13 @@
 ---
-title: 0.4% 확률로 애드혹 구성적 문제
-special_judge: false
-time_limit: 2.5 초
-memory_limit: 1024 MB
+title: "0.4% 확률로 애드혹 구성적 문제"
+special_judge: "false"
+time_limit: "2.5 초"
+memory_limit: "1024 MB"
 submissions: 121
 accepted: 21
 solved_users: 13
-acceptance_rate: 22.034%
-collected_at: 2026-04-17T20:59:13.969598+00:00
+acceptance_rate: "22.034%"
+collected_at: "2026-04-17T20:59:13.969598+00:00"
 ---
 
 ## 문제

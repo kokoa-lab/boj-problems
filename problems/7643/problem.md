@@ -1,13 +1,13 @@
 ---
-title: Game Rigging
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Game Rigging"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 78
 accepted: 32
 solved_users: 24
-acceptance_rate: 42.857%
-collected_at: 2026-04-17T11:51:25.083658+00:00
+acceptance_rate: "42.857%"
+collected_at: "2026-04-17T11:51:25.083658+00:00"
 ---
 
 ## 문제

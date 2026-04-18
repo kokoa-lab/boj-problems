@@ -1,13 +1,13 @@
 ---
-title: Yet Satisfiability Again!
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Yet Satisfiability Again!"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 81
 accepted: 21
 solved_users: 19
-acceptance_rate: 36.538%
-collected_at: 2026-04-17T12:23:20.848848+00:00
+acceptance_rate: "36.538%"
+collected_at: "2026-04-17T12:23:20.848848+00:00"
 ---
 
 ## 문제

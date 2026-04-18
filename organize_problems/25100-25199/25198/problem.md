@@ -1,13 +1,13 @@
 ---
-title: 곰곰이의 심부름
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "곰곰이의 심부름"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 426
 accepted: 176
 solved_users: 139
-acceptance_rate: 47.766%
-collected_at: 2026-04-17T17:22:25.650981+00:00
+acceptance_rate: "47.766%"
+collected_at: "2026-04-17T17:22:25.650981+00:00"
 ---
 
 ## 문제

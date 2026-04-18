@@ -1,13 +1,13 @@
 ---
-title: Dynamic Diameter
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Dynamic Diameter"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 497
 accepted: 222
 solved_users: 116
-acceptance_rate: 32.955%
-collected_at: 2026-04-17T14:43:37.954516+00:00
+acceptance_rate: "32.955%"
+collected_at: "2026-04-17T14:43:37.954516+00:00"
 ---
 
 ## 문제

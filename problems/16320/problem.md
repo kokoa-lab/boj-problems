@@ -1,13 +1,13 @@
 ---
-title: Firing the Phaser
-special_judge: false
-time_limit: 3 초
-memory_limit: 512 MB
+title: "Firing the Phaser"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "512 MB"
 submissions: 25
 accepted: 6
 solved_users: 6
-acceptance_rate: 54.545%
-collected_at: 2026-04-17T14:15:36.611120+00:00
+acceptance_rate: "54.545%"
+collected_at: "2026-04-17T14:15:36.611120+00:00"
 ---
 
 ## 문제

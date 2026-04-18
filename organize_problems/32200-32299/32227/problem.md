@@ -1,13 +1,13 @@
 ---
-title: MatKor Cup 예비소집 자리 배치
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "MatKor Cup 예비소집 자리 배치"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 167
 accepted: 124
 solved_users: 107
-acceptance_rate: 84.921%
-collected_at: 2026-04-17T19:46:00.360860+00:00
+acceptance_rate: "84.921%"
+collected_at: "2026-04-17T19:46:00.360860+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Long Grid Covering
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Long Grid Covering"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 423
 accepted: 156
 solved_users: 87
-acceptance_rate: 30.526%
-collected_at: 2026-04-17T15:46:56.035832+00:00
+acceptance_rate: "30.526%"
+collected_at: "2026-04-17T15:46:56.035832+00:00"
 ---
 
 ## 문제

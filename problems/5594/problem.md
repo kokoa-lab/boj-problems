@@ -1,13 +1,13 @@
 ---
-title: 最悪の記者
-special_judge: true
-time_limit: 1 초
-memory_limit: 128 MB
+title: "最悪の記者"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 137
 accepted: 100
 solved_users: 80
-acceptance_rate: 69.565%
-collected_at: 2026-04-17T11:15:49.898014+00:00
+acceptance_rate: "69.565%"
+collected_at: "2026-04-17T11:15:49.898014+00:00"
 ---
 
 ## 문제

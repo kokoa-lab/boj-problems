@@ -1,13 +1,13 @@
 ---
-title: Wiring
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Wiring"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 134
 accepted: 91
 solved_users: 83
-acceptance_rate: 77.570%
-collected_at: 2026-04-17T12:31:32.419203+00:00
+acceptance_rate: "77.570%"
+collected_at: "2026-04-17T12:31:32.419203+00:00"
 ---
 
 ## 문제

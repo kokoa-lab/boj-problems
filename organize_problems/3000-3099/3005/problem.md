@@ -1,13 +1,13 @@
 ---
-title: 크로스워드 퍼즐 쳐다보기
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "크로스워드 퍼즐 쳐다보기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 1750
 accepted: 1078
 solved_users: 942
-acceptance_rate: 63.434%
-collected_at: 2026-04-17T10:46:10.545403+00:00
+acceptance_rate: "63.434%"
+collected_at: "2026-04-17T10:46:10.545403+00:00"
 ---
 
 ## 문제

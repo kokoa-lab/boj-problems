@@ -1,13 +1,13 @@
 ---
-title: Stable Wall
-special_judge: true
-time_limit: 20 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Stable Wall"
+special_judge: "true"
+time_limit: "20 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 76
 accepted: 51
 solved_users: 43
-acceptance_rate: 70.492%
-collected_at: 2026-04-17T16:57:38.035854+00:00
+acceptance_rate: "70.492%"
+collected_at: "2026-04-17T16:57:38.035854+00:00"
 ---
 
 ## 문제

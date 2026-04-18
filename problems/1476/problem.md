@@ -1,13 +1,13 @@
 ---
-title: 날짜 계산
-special_judge: false
-time_limit: 2 초
-memory_limit: 4 MB
+title: "날짜 계산"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "4 MB"
 submissions: 48744
 accepted: 31419
 solved_users: 25660
-acceptance_rate: 66.962%
-collected_at: 2026-04-17T10:30:28.178518+00:00
+acceptance_rate: "66.962%"
+collected_at: "2026-04-17T10:30:28.178518+00:00"
 ---
 
 ## 문제

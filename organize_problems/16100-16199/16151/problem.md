@@ -1,13 +1,13 @@
 ---
-title: 별자리
-special_judge: false
-time_limit: 1.5 초
-memory_limit: 512 MB
+title: "별자리"
+special_judge: "false"
+time_limit: "1.5 초"
+memory_limit: "512 MB"
 submissions: 238
 accepted: 49
 solved_users: 42
-acceptance_rate: 23.596%
-collected_at: 2026-04-17T14:12:25.477950+00:00
+acceptance_rate: "23.596%"
+collected_at: "2026-04-17T14:12:25.477950+00:00"
 ---
 
 ## 문제

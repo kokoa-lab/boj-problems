@@ -1,13 +1,13 @@
 ---
-title: 토르의 여행
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "토르의 여행"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 220
 accepted: 68
 solved_users: 55
-acceptance_rate: 30.899%
-collected_at: 2026-04-17T14:08:33.058593+00:00
+acceptance_rate: "30.899%"
+collected_at: "2026-04-17T14:08:33.058593+00:00"
 ---
 
 ## 문제

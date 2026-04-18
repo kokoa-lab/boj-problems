@@ -1,13 +1,13 @@
 ---
-title: 치삼이의 종이 자르기
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "치삼이의 종이 자르기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 390
 accepted: 146
 solved_users: 122
-acceptance_rate: 41.924%
-collected_at: 2026-04-17T14:56:02.925156+00:00
+acceptance_rate: "41.924%"
+collected_at: "2026-04-17T14:56:02.925156+00:00"
 ---
 
 ## 문제

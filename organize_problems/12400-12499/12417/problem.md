@@ -1,13 +1,13 @@
 ---
-title: 일조량 (Small)
-special_judge: true
-time_limit: 5 초
-memory_limit: 512 MB
+title: "일조량 (Small)"
+special_judge: "true"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 58
 accepted: 13
 solved_users: 9
-acceptance_rate: 21.951%
-collected_at: 2026-04-17T12:55:00.238793+00:00
+acceptance_rate: "21.951%"
+collected_at: "2026-04-17T12:55:00.238793+00:00"
 ---
 
 ## 문제

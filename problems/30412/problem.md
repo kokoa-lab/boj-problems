@@ -1,13 +1,13 @@
 ---
-title: 산책 나온 춘배
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "산책 나온 춘배"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 338
 accepted: 110
 solved_users: 91
-acceptance_rate: 35.271%
-collected_at: 2026-04-17T19:06:15.096739+00:00
+acceptance_rate: "35.271%"
+collected_at: "2026-04-17T19:06:15.096739+00:00"
 ---
 
 ## 문제

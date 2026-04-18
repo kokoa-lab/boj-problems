@@ -1,13 +1,13 @@
 ---
-title: 악보 만들기
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "악보 만들기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 244
 accepted: 69
 solved_users: 57
-acceptance_rate: 29.082%
-collected_at: 2026-04-17T17:42:42.548275+00:00
+acceptance_rate: "29.082%"
+collected_at: "2026-04-17T17:42:42.548275+00:00"
 ---
 
 ## 문제

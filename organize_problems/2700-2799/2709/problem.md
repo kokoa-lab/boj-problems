@@ -1,13 +1,13 @@
 ---
-title: 가장 작은 K
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "가장 작은 K"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 395
 accepted: 293
 solved_users: 234
-acceptance_rate: 78.261%
-collected_at: 2026-04-17T10:44:07.959369+00:00
+acceptance_rate: "78.261%"
+collected_at: "2026-04-17T10:44:07.959369+00:00"
 ---
 
 ## 문제

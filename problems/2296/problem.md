@@ -1,13 +1,13 @@
 ---
-title: 건물짓기
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "건물짓기"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 433
 accepted: 192
 solved_users: 147
-acceptance_rate: 47.883%
-collected_at: 2026-04-17T10:40:22.584083+00:00
+acceptance_rate: "47.883%"
+collected_at: "2026-04-17T10:40:22.584083+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 카드셋트
-special_judge: false
-time_limit: 1 초
-memory_limit: 32 MB
+title: "카드셋트"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "32 MB"
 submissions: 2082
 accepted: 1319
 solved_users: 1186
-acceptance_rate: 66.368%
-collected_at: 2026-04-17T12:41:34.683117+00:00
+acceptance_rate: "66.368%"
+collected_at: "2026-04-17T12:41:34.683117+00:00"
 ---
 
 ## 문제

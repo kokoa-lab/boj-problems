@@ -1,13 +1,13 @@
 ---
-title: 팰린드롬?
-special_judge: false
-time_limit: 0.5 초  ( 하단 참고 )
-memory_limit: 256 MB
+title: "팰린드롬?"
+special_judge: "false"
+time_limit: "0.5 초  ( 하단 참고 )"
+memory_limit: "256 MB"
 submissions: 73556
 accepted: 23652
 solved_users: 16278
-acceptance_rate: 31.385%
-collected_at: 2026-04-17T12:31:58.071390+00:00
+acceptance_rate: "31.385%"
+collected_at: "2026-04-17T12:31:58.071390+00:00"
 ---
 
 ## 문제

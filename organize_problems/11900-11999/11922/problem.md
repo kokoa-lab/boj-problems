@@ -1,13 +1,13 @@
 ---
-title: BELA
-special_judge: false
-time_limit: 1 초
-memory_limit: 64 MB
+title: "BELA"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "64 MB"
 submissions: 357
 accepted: 306
 solved_users: 240
-acceptance_rate: 92.664%
-collected_at: 2026-04-17T12:47:43.960922+00:00
+acceptance_rate: "92.664%"
+collected_at: "2026-04-17T12:47:43.960922+00:00"
 ---
 
 ## 문제

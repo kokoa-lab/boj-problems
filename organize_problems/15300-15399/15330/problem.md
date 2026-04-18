@@ -1,13 +1,13 @@
 ---
-title: Parallel Lines
-special_judge: false
-time_limit: 10 초
-memory_limit: 512 MB
+title: "Parallel Lines"
+special_judge: "false"
+time_limit: "10 초"
+memory_limit: "512 MB"
 submissions: 148
 accepted: 85
 solved_users: 78
-acceptance_rate: 63.415%
-collected_at: 2026-04-17T13:57:12.423285+00:00
+acceptance_rate: "63.415%"
+collected_at: "2026-04-17T13:57:12.423285+00:00"
 ---
 
 ## 문제

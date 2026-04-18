@@ -1,13 +1,13 @@
 ---
-title: 조금 똑똑한 뢰벗과 조금 잘생긴 사냐
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "조금 똑똑한 뢰벗과 조금 잘생긴 사냐"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 215
 accepted: 107
 solved_users: 90
-acceptance_rate: 46.154%
-collected_at: 2026-04-17T13:43:12.444911+00:00
+acceptance_rate: "46.154%"
+collected_at: "2026-04-17T13:43:12.444911+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Reveals
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Reveals"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 796
 accepted: 192
 solved_users: 159
-acceptance_rate: 25.440%
-collected_at: 2026-04-17T19:06:30.081846+00:00
+acceptance_rate: "25.440%"
+collected_at: "2026-04-17T19:06:30.081846+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Marbles Tell Your Lucky Number
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Marbles Tell Your Lucky Number"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 137
 accepted: 114
 solved_users: 102
-acceptance_rate: 82.927%
-collected_at: 2026-04-17T16:52:45.237708+00:00
+acceptance_rate: "82.927%"
+collected_at: "2026-04-17T16:52:45.237708+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Enchanted Forest
-special_judge: false
-time_limit: 3 초
-memory_limit: 512 MB
+title: "Enchanted Forest"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "512 MB"
 submissions: 97
 accepted: 38
 solved_users: 30
-acceptance_rate: 51.724%
-collected_at: 2026-04-17T14:36:51.214866+00:00
+acceptance_rate: "51.724%"
+collected_at: "2026-04-17T14:36:51.214866+00:00"
 ---
 
 ## 문제

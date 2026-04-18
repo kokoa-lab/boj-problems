@@ -1,13 +1,13 @@
 ---
-title: 문서 검색
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "문서 검색"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 37037
 accepted: 17178
 solved_users: 13704
-acceptance_rate: 46.011%
-collected_at: 2026-04-17T10:31:02.926014+00:00
+acceptance_rate: "46.011%"
+collected_at: "2026-04-17T10:31:02.926014+00:00"
 ---
 
 ## 문제

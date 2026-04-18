@@ -1,13 +1,13 @@
 ---
-title: Тренажёр <<$10_2$-пальцевый набор>>
-special_judge: false
-time_limit: 3 초
-memory_limit: 512 MB
+title: "Тренажёр <<$10_2$-пальцевый набор>>"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "512 MB"
 submissions: 63
 accepted: 4
 solved_users: 4
-acceptance_rate: 6.897%
-collected_at: 2026-04-17T15:37:35.728917+00:00
+acceptance_rate: "6.897%"
+collected_at: "2026-04-17T15:37:35.728917+00:00"
 ---
 
 ## 문제

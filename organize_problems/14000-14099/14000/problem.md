@@ -1,13 +1,13 @@
 ---
-title: List of Primes
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "List of Primes"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 72
 accepted: 32
 solved_users: 24
-acceptance_rate: 40.678%
-collected_at: 2026-04-17T13:23:49.875824+00:00
+acceptance_rate: "40.678%"
+collected_at: "2026-04-17T13:23:49.875824+00:00"
 ---
 
 ## 문제

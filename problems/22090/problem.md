@@ -1,13 +1,13 @@
 ---
-title: Конструктор пил
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "Конструктор пил"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 22
 accepted: 14
 solved_users: 9
-acceptance_rate: 52.941%
-collected_at: 2026-04-17T16:13:26.897747+00:00
+acceptance_rate: "52.941%"
+collected_at: "2026-04-17T16:13:26.897747+00:00"
 ---
 
 ## 문제

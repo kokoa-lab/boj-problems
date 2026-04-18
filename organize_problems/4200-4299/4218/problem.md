@@ -1,13 +1,13 @@
 ---
-title: 칩 설계
-special_judge: false
-time_limit: 10 초
-memory_limit: 128 MB
+title: "칩 설계"
+special_judge: "false"
+time_limit: "10 초"
+memory_limit: "128 MB"
 submissions: 58
 accepted: 31
 solved_users: 21
-acceptance_rate: 65.625%
-collected_at: 2026-04-17T10:57:32.694585+00:00
+acceptance_rate: "65.625%"
+collected_at: "2026-04-17T10:57:32.694585+00:00"
 ---
 
 ## 문제

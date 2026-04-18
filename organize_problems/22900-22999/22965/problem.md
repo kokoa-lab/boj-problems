@@ -1,13 +1,13 @@
 ---
-title: k개의 부분 배열
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "k개의 부분 배열"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 1135
 accepted: 372
 solved_users: 299
-acceptance_rate: 33.520%
-collected_at: 2026-04-17T16:39:26.871083+00:00
+acceptance_rate: "33.520%"
+collected_at: "2026-04-17T16:39:26.871083+00:00"
 ---
 
 ## 문제

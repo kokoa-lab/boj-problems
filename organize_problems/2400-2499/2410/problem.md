@@ -1,13 +1,13 @@
 ---
-title: 2의 멱수의 합
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "2의 멱수의 합"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 6611
 accepted: 2793
 solved_users: 2172
-acceptance_rate: 42.773%
-collected_at: 2026-04-17T10:41:22.855910+00:00
+acceptance_rate: "42.773%"
+collected_at: "2026-04-17T10:41:22.855910+00:00"
 ---
 
 ## 문제

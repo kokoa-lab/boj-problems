@@ -1,13 +1,13 @@
 ---
-title: 레벨 디자인
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "레벨 디자인"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 280
 accepted: 95
 solved_users: 84
-acceptance_rate: 41.584%
-collected_at: 2026-04-17T20:07:19.836952+00:00
+acceptance_rate: "41.584%"
+collected_at: "2026-04-17T20:07:19.836952+00:00"
 ---
 
 ## 문제

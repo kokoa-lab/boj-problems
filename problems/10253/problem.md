@@ -1,13 +1,13 @@
 ---
-title: 헨리
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "헨리"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 7397
 accepted: 2212
 solved_users: 1737
-acceptance_rate: 31.490%
-collected_at: 2026-04-17T12:21:05.066826+00:00
+acceptance_rate: "31.490%"
+collected_at: "2026-04-17T12:21:05.066826+00:00"
 ---
 
 ## 문제

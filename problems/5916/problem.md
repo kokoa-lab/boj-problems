@@ -1,13 +1,13 @@
 ---
-title: 농장 관리
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "농장 관리"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 1604
 accepted: 800
 solved_users: 531
-acceptance_rate: 50.668%
-collected_at: 2026-04-17T11:18:32.177856+00:00
+acceptance_rate: "50.668%"
+collected_at: "2026-04-17T11:18:32.177856+00:00"
 ---
 
 ## 문제

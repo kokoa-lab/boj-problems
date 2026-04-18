@@ -1,13 +1,13 @@
 ---
-title: 복구
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "복구"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 547
 accepted: 167
 solved_users: 114
-acceptance_rate: 26.450%
-collected_at: 2026-04-17T14:08:31.205537+00:00
+acceptance_rate: "26.450%"
+collected_at: "2026-04-17T14:08:31.205537+00:00"
 ---
 
 ## 문제

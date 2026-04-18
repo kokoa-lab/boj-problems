@@ -1,13 +1,13 @@
 ---
-title: JOIOI 탑
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "JOIOI 탑"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 872
 accepted: 360
 solved_users: 302
-acceptance_rate: 42.179%
-collected_at: 2026-04-17T11:15:07.208857+00:00
+acceptance_rate: "42.179%"
+collected_at: "2026-04-17T11:15:07.208857+00:00"
 ---
 
 ## 문제

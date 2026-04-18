@@ -1,13 +1,13 @@
 ---
-title: 헤븐스 키친
-special_judge: true
-time_limit: 1 초
-memory_limit: 128 MB
+title: "헤븐스 키친"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 1329
 accepted: 396
 solved_users: 297
-acceptance_rate: 29.819%
-collected_at: 2026-04-17T13:38:31.817287+00:00
+acceptance_rate: "29.819%"
+collected_at: "2026-04-17T13:38:31.817287+00:00"
 ---
 
 ## 문제

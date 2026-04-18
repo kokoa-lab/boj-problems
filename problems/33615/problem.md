@@ -1,13 +1,13 @@
 ---
-title: 1과 5
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "1과 5"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 862
 accepted: 330
 solved_users: 277
-acceptance_rate: 38.579%
-collected_at: 2026-04-17T20:20:04.525457+00:00
+acceptance_rate: "38.579%"
+collected_at: "2026-04-17T20:20:04.525457+00:00"
 ---
 
 ## 문제

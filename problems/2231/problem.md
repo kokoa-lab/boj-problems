@@ -1,13 +1,13 @@
 ---
-title: 분해합
-special_judge: false
-time_limit: 2 초
-memory_limit: 192 MB
+title: "분해합"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "192 MB"
 submissions: 211555
 accepted: 99092
 solved_users: 77961
-acceptance_rate: 45.749%
-collected_at: 2026-04-17T10:39:45.037377+00:00
+acceptance_rate: "45.749%"
+collected_at: "2026-04-17T10:39:45.037377+00:00"
 ---
 
 ## 문제

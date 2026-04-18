@@ -1,13 +1,13 @@
 ---
-title: Factoring
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Factoring"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 118
 accepted: 81
 solved_users: 65
-acceptance_rate: 71.429%
-collected_at: 2026-04-17T11:13:06.489032+00:00
+acceptance_rate: "71.429%"
+collected_at: "2026-04-17T11:13:06.489032+00:00"
 ---
 
 ## 문제

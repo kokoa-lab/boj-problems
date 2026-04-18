@@ -1,13 +1,13 @@
 ---
-title: Unreal Estate
-special_judge: false
-time_limit: 10 초
-memory_limit: 128 MB
+title: "Unreal Estate"
+special_judge: "false"
+time_limit: "10 초"
+memory_limit: "128 MB"
 submissions: 87
 accepted: 24
 solved_users: 20
-acceptance_rate: 28.169%
-collected_at: 2026-04-17T11:46:40.146397+00:00
+acceptance_rate: "28.169%"
+collected_at: "2026-04-17T11:46:40.146397+00:00"
 ---
 
 ## 문제

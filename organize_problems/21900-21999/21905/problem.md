@@ -1,13 +1,13 @@
 ---
-title: Archeologists
-special_judge: false
-time_limit: 3 초
-memory_limit: 1024 MB
+title: "Archeologists"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "1024 MB"
 submissions: 108
 accepted: 64
 solved_users: 49
-acceptance_rate: 73.134%
-collected_at: 2026-04-17T16:09:45.210845+00:00
+acceptance_rate: "73.134%"
+collected_at: "2026-04-17T16:09:45.210845+00:00"
 ---
 
 ## 문제

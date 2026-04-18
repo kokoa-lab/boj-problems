@@ -1,13 +1,13 @@
 ---
-title: Magic Multiplying Machine
-special_judge: true
-time_limit: 2 초
-memory_limit: 64 MB
+title: "Magic Multiplying Machine"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "64 MB"
 submissions: 68
 accepted: 17
 solved_users: 17
-acceptance_rate: 25.000%
-collected_at: 2026-04-17T12:14:56.882657+00:00
+acceptance_rate: "25.000%"
+collected_at: "2026-04-17T12:14:56.882657+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Room Painting
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Room Painting"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 112
 accepted: 65
 solved_users: 48
-acceptance_rate: 53.933%
-collected_at: 2026-04-17T10:56:08.491647+00:00
+acceptance_rate: "53.933%"
+collected_at: "2026-04-17T10:56:08.491647+00:00"
 ---
 
 ## 문제

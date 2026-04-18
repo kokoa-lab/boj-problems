@@ -1,13 +1,13 @@
 ---
-title: Hard Times for Your Data
-special_judge: true
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Hard Times for Your Data"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 64
 accepted: 17
 solved_users: 4
-acceptance_rate: 28.571%
-collected_at: 2026-04-17T15:05:56.702945+00:00
+acceptance_rate: "28.571%"
+collected_at: "2026-04-17T15:05:56.702945+00:00"
 ---
 
 ## 문제

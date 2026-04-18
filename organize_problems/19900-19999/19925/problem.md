@@ -1,13 +1,13 @@
 ---
-title: Broken Line 09
-special_judge: false
-time_limit: 0.1 초
-memory_limit: 512 MB
+title: "Broken Line 09"
+special_judge: "false"
+time_limit: "0.1 초"
+memory_limit: "512 MB"
 submissions: 30
 accepted: 29
 solved_users: 29
-acceptance_rate: 96.667%
-collected_at: 2026-04-17T15:29:27.289761+00:00
+acceptance_rate: "96.667%"
+collected_at: "2026-04-17T15:29:27.289761+00:00"
 ---
 
 ## 문제

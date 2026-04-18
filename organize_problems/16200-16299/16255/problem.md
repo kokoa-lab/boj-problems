@@ -1,13 +1,13 @@
 ---
-title: Martian Volleyball
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Martian Volleyball"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 249
 accepted: 175
 solved_users: 148
-acceptance_rate: 71.498%
-collected_at: 2026-04-17T14:14:27.685612+00:00
+acceptance_rate: "71.498%"
+collected_at: "2026-04-17T14:14:27.685612+00:00"
 ---
 
 ## 문제

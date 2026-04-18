@@ -1,13 +1,13 @@
 ---
-title: Sticky Situation
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Sticky Situation"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 236
 accepted: 153
 solved_users: 136
-acceptance_rate: 63.850%
-collected_at: 2026-04-17T13:13:42.440166+00:00
+acceptance_rate: "63.850%"
+collected_at: "2026-04-17T13:13:42.440166+00:00"
 ---
 
 ## 문제

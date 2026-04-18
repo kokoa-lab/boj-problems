@@ -1,13 +1,13 @@
 ---
-title: 영과일 학회방
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "영과일 학회방"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 394
 accepted: 189
 solved_users: 160
-acceptance_rate: 49.689%
-collected_at: 2026-04-17T14:23:05.537525+00:00
+acceptance_rate: "49.689%"
+collected_at: "2026-04-17T14:23:05.537525+00:00"
 ---
 
 ## 문제

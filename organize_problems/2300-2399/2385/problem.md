@@ -1,13 +1,13 @@
 ---
-title: Secret Sharing
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "Secret Sharing"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 1654
 accepted: 379
 solved_users: 247
-acceptance_rate: 20.532%
-collected_at: 2026-04-17T10:41:14.050754+00:00
+acceptance_rate: "20.532%"
+collected_at: "2026-04-17T10:41:14.050754+00:00"
 ---
 
 ## 문제

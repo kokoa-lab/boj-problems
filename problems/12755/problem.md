@@ -1,13 +1,13 @@
 ---
-title: 수면 장애
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "수면 장애"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 2569
 accepted: 879
 solved_users: 725
-acceptance_rate: 40.011%
-collected_at: 2026-04-18T09:54:15.715506+00:00
+acceptance_rate: "40.011%"
+collected_at: "2026-04-18T09:54:15.715506+00:00"
 ---
 
 ## 문제

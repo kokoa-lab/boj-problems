@@ -1,13 +1,13 @@
 ---
-title: 볼링공 찾아주기
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "볼링공 찾아주기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 1219
 accepted: 716
 solved_users: 603
-acceptance_rate: 59.762%
-collected_at: 2026-04-17T18:26:57.151872+00:00
+acceptance_rate: "59.762%"
+collected_at: "2026-04-17T18:26:57.151872+00:00"
 ---
 
 ## 문제

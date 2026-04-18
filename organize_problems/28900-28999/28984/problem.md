@@ -1,13 +1,13 @@
 ---
-title: Поиски
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Поиски"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 155
 accepted: 53
 solved_users: 34
-acceptance_rate: 25.954%
-collected_at: 2026-04-17T18:35:35.561495+00:00
+acceptance_rate: "25.954%"
+collected_at: "2026-04-17T18:35:35.561495+00:00"
 ---
 
 ## 문제

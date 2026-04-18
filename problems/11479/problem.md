@@ -1,13 +1,13 @@
 ---
-title: 서로 다른 부분 문자열의 개수 2
-special_judge: false
-time_limit: 5 초
-memory_limit: 256 MB
+title: "서로 다른 부분 문자열의 개수 2"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "256 MB"
 submissions: 3152
 accepted: 1359
 solved_users: 906
-acceptance_rate: 43.391%
-collected_at: 2026-04-17T12:41:16.972187+00:00
+acceptance_rate: "43.391%"
+collected_at: "2026-04-17T12:41:16.972187+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 구슬 놀이
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "구슬 놀이"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 170
 accepted: 81
 solved_users: 58
-acceptance_rate: 52.252%
-collected_at: 2026-04-17T20:52:27.416380+00:00
+acceptance_rate: "52.252%"
+collected_at: "2026-04-17T20:52:27.416380+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Family Tree
-special_judge: false
-time_limit: 3 초
-memory_limit: 2048 MB
+title: "Family Tree"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "2048 MB"
 submissions: 73
 accepted: 45
 solved_users: 36
-acceptance_rate: 72.000%
-collected_at: 2026-04-17T20:12:00.683100+00:00
+acceptance_rate: "72.000%"
+collected_at: "2026-04-17T20:12:00.683100+00:00"
 ---
 
 ## 문제

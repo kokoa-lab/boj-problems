@@ -1,13 +1,13 @@
 ---
-title: 뒤집힌 덧셈
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "뒤집힌 덧셈"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 27707
 accepted: 15296
 solved_users: 13517
-acceptance_rate: 55.816%
-collected_at: 2026-04-17T10:29:39.635359+00:00
+acceptance_rate: "55.816%"
+collected_at: "2026-04-17T10:29:39.635359+00:00"
 ---
 
 ## 문제

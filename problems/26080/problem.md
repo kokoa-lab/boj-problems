@@ -1,13 +1,13 @@
 ---
-title: 곰곰이와 하카타
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "곰곰이와 하카타"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 145
 accepted: 31
 solved_users: 26
-acceptance_rate: 27.083%
-collected_at: 2026-04-17T17:39:49.637529+00:00
+acceptance_rate: "27.083%"
+collected_at: "2026-04-17T17:39:49.637529+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 서로소 스도쿠
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "서로소 스도쿠"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 665
 accepted: 196
 solved_users: 146
-acceptance_rate: 29.376%
-collected_at: 2026-04-17T18:52:17.137375+00:00
+acceptance_rate: "29.376%"
+collected_at: "2026-04-17T18:52:17.137375+00:00"
 ---
 
 ## 문제

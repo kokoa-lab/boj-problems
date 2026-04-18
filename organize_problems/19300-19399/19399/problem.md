@@ -1,13 +1,13 @@
 ---
-title: Independent Events
-special_judge: true
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Independent Events"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 41
 accepted: 5
 solved_users: 3
-acceptance_rate: 9.375%
-collected_at: 2026-04-17T15:19:10.659272+00:00
+acceptance_rate: "9.375%"
+collected_at: "2026-04-17T15:19:10.659272+00:00"
 ---
 
 ## 문제

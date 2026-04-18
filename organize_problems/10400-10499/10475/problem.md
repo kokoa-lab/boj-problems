@@ -1,13 +1,13 @@
 ---
-title: 모기 넌 내꺼야
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "모기 넌 내꺼야"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 185
 accepted: 52
 solved_users: 43
-acceptance_rate: 26.061%
-collected_at: 2026-04-17T12:24:16.480176+00:00
+acceptance_rate: "26.061%"
+collected_at: "2026-04-17T12:24:16.480176+00:00"
 ---
 
 ## 문제

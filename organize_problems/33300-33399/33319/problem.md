@@ -1,13 +1,13 @@
 ---
-title: 다리 보수 공사
-special_judge: false
-time_limit: 2 초
-memory_limit: 2048 MB
+title: "다리 보수 공사"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "2048 MB"
 submissions: 215
 accepted: 57
 solved_users: 51
-acceptance_rate: 37.778%
-collected_at: 2026-04-17T20:13:37.574930+00:00
+acceptance_rate: "37.778%"
+collected_at: "2026-04-17T20:13:37.574930+00:00"
 ---
 
 ## 문제

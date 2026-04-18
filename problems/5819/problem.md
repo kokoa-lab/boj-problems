@@ -1,13 +1,13 @@
 ---
-title: 열대 식물원
-special_judge: false
-time_limit: 5 초
-memory_limit: 256 MB
+title: "열대 식물원"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "256 MB"
 submissions: 211
 accepted: 68
 solved_users: 44
-acceptance_rate: 29.139%
-collected_at: 2026-04-17T11:17:43.317189+00:00
+acceptance_rate: "29.139%"
+collected_at: "2026-04-17T11:17:43.317189+00:00"
 ---
 
 ## 문제

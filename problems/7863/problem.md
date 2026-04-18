@@ -1,13 +1,13 @@
 ---
-title: Very Simple Problem
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Very Simple Problem"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 112
 accepted: 51
 solved_users: 47
-acceptance_rate: 43.925%
-collected_at: 2026-04-17T11:53:34.451672+00:00
+acceptance_rate: "43.925%"
+collected_at: "2026-04-17T11:53:34.451672+00:00"
 ---
 
 ## 문제

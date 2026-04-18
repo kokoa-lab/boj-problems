@@ -1,13 +1,13 @@
 ---
-title: Howl
-special_judge: true
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Howl"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 374
 accepted: 220
 solved_users: 153
-acceptance_rate: 66.812%
-collected_at: 2026-04-17T14:51:42.047067+00:00
+acceptance_rate: "66.812%"
+collected_at: "2026-04-17T14:51:42.047067+00:00"
 ---
 
 ## 문제

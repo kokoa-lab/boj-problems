@@ -1,13 +1,13 @@
 ---
-title: Konduktor
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "Konduktor"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 193
 accepted: 83
 solved_users: 61
-acceptance_rate: 38.608%
-collected_at: 2026-04-17T12:03:35.426084+00:00
+acceptance_rate: "38.608%"
+collected_at: "2026-04-17T12:03:35.426084+00:00"
 ---
 
 ## 문제

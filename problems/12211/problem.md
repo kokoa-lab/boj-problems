@@ -1,13 +1,13 @@
 ---
-title: Addition (Large)
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Addition (Large)"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 55
 accepted: 9
 solved_users: 7
-acceptance_rate: 15.556%
-collected_at: 2026-04-17T12:51:53.334740+00:00
+acceptance_rate: "15.556%"
+collected_at: "2026-04-17T12:51:53.334740+00:00"
 ---
 
 ## 문제

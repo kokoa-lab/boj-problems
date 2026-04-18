@@ -1,13 +1,13 @@
 ---
-title: 보드게임컵 파티!
-special_judge: false
-time_limit: 3 초
-memory_limit: 1024 MB
+title: "보드게임컵 파티!"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "1024 MB"
 submissions: 119
 accepted: 48
 solved_users: 30
-acceptance_rate: 38.961%
-collected_at: 2026-04-17T17:57:34.372418+00:00
+acceptance_rate: "38.961%"
+collected_at: "2026-04-17T17:57:34.372418+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Экспериментальное лечение
-special_judge: true
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Экспериментальное лечение"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 6
 accepted: 5
 solved_users: 2
-acceptance_rate: 100.000%
-collected_at: 2026-04-17T18:40:00.362521+00:00
+acceptance_rate: "100.000%"
+collected_at: "2026-04-17T18:40:00.362521+00:00"
 ---
 
 ## 문제

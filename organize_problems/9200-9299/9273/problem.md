@@ -1,13 +1,13 @@
 ---
-title: 정제헌을 팔자!
-special_judge: false
-time_limit: 5 초
-memory_limit: 128 MB
+title: "정제헌을 팔자!"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "128 MB"
 submissions: 426
 accepted: 188
 solved_users: 140
-acceptance_rate: 46.053%
-collected_at: 2026-04-17T12:08:30.267114+00:00
+acceptance_rate: "46.053%"
+collected_at: "2026-04-17T12:08:30.267114+00:00"
 ---
 
 ## 문제

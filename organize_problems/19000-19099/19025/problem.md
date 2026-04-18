@@ -1,13 +1,13 @@
 ---
-title: Time to get up!
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Time to get up!"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 57
 accepted: 45
 solved_users: 37
-acceptance_rate: 88.095%
-collected_at: 2026-04-17T15:12:34.436794+00:00
+acceptance_rate: "88.095%"
+collected_at: "2026-04-17T15:12:34.436794+00:00"
 ---
 
 ## 문제

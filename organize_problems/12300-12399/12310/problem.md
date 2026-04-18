@@ -1,13 +1,13 @@
 ---
-title: Ticket Swapping (Large)
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Ticket Swapping (Large)"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 28
 accepted: 20
 solved_users: 19
-acceptance_rate: 70.370%
-collected_at: 2026-04-17T12:53:21.588610+00:00
+acceptance_rate: "70.370%"
+collected_at: "2026-04-17T12:53:21.588610+00:00"
 ---
 
 ## 문제

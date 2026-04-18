@@ -1,13 +1,13 @@
 ---
-title: 소방차게임
-special_judge: true
-time_limit: 15 초
-memory_limit: 256 MB
+title: "소방차게임"
+special_judge: "true"
+time_limit: "15 초"
+memory_limit: "256 MB"
 submissions: 517
 accepted: 68
 solved_users: 7
-acceptance_rate: 3.084%
-collected_at: 2026-04-17T12:28:21.732592+00:00
+acceptance_rate: "3.084%"
+collected_at: "2026-04-17T12:28:21.732592+00:00"
 ---
 
 ## 문제

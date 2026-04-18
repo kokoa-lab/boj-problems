@@ -1,13 +1,13 @@
 ---
-title: 배열과 연산
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "배열과 연산"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 1021
 accepted: 443
 solved_users: 390
-acceptance_rate: 44.218%
-collected_at: 2026-04-17T13:28:05.274870+00:00
+acceptance_rate: "44.218%"
+collected_at: "2026-04-17T13:28:05.274870+00:00"
 ---
 
 ## 문제

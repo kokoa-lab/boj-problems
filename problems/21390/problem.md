@@ -1,13 +1,13 @@
 ---
-title: Pachinko
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Pachinko"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 92
 accepted: 55
 solved_users: 43
-acceptance_rate: 56.579%
-collected_at: 2026-04-17T15:57:34.170276+00:00
+acceptance_rate: "56.579%"
+collected_at: "2026-04-17T15:57:34.170276+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 20000 바이트 챌린지
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "20000 바이트 챌린지"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 553
 accepted: 67
 solved_users: 29
-acceptance_rate: 16.860%
-collected_at: 2026-04-17T15:30:20.451882+00:00
+acceptance_rate: "16.860%"
+collected_at: "2026-04-17T15:30:20.451882+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Needle
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Needle"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 1081
 accepted: 693
 solved_users: 555
-acceptance_rate: 68.434%
-collected_at: 2026-04-17T15:32:40.338921+00:00
+acceptance_rate: "68.434%"
+collected_at: "2026-04-17T15:32:40.338921+00:00"
 ---
 
 ## 문제

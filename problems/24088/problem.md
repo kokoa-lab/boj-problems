@@ -1,13 +1,13 @@
 ---
-title: 運動会 (Sports Day)
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "運動会 (Sports Day)"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 228
 accepted: 183
 solved_users: 157
-acceptance_rate: 83.511%
-collected_at: 2026-04-17T17:03:40.138302+00:00
+acceptance_rate: "83.511%"
+collected_at: "2026-04-17T17:03:40.138302+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: (N+1)-legged race
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "(N+1)-legged race"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 39
 accepted: 20
 solved_users: 18
-acceptance_rate: 69.231%
-collected_at: 2026-04-17T17:46:00.036353+00:00
+acceptance_rate: "69.231%"
+collected_at: "2026-04-17T17:46:00.036353+00:00"
 ---
 
 ## 문제

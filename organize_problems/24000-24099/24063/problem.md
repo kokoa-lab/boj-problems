@@ -1,13 +1,13 @@
 ---
-title: Guessing
-special_judge: true
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Guessing"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 179
 accepted: 30
 solved_users: 22
-acceptance_rate: 14.865%
-collected_at: 2026-04-17T17:02:55.605237+00:00
+acceptance_rate: "14.865%"
+collected_at: "2026-04-17T17:02:55.605237+00:00"
 ---
 
 ## 문제

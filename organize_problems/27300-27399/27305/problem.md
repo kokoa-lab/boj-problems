@@ -1,13 +1,13 @@
 ---
-title: Fuzzing Mutant Test
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Fuzzing Mutant Test"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 44
 accepted: 8
 solved_users: 8
-acceptance_rate: 21.622%
-collected_at: 2026-04-17T18:00:22.716132+00:00
+acceptance_rate: "21.622%"
+collected_at: "2026-04-17T18:00:22.716132+00:00"
 ---
 
 ## 문제

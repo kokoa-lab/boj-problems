@@ -1,13 +1,13 @@
 ---
-title: Dead Fraction
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Dead Fraction"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 123
 accepted: 41
 solved_users: 37
-acceptance_rate: 34.906%
-collected_at: 2026-04-17T10:59:29.155824+00:00
+acceptance_rate: "34.906%"
+collected_at: "2026-04-17T10:59:29.155824+00:00"
 ---
 
 ## 문제

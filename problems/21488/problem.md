@@ -1,13 +1,13 @@
 ---
-title: Красно-черные деревья
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Красно-черные деревья"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 13
 accepted: 7
 solved_users: 6
-acceptance_rate: 54.545%
-collected_at: 2026-04-17T15:59:02.909470+00:00
+acceptance_rate: "54.545%"
+collected_at: "2026-04-17T15:59:02.909470+00:00"
 ---
 
 ## 문제

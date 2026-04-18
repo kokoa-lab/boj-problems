@@ -1,13 +1,13 @@
 ---
-title: 마법의 다이얼
-special_judge: false
-time_limit: 3 초
-memory_limit: 1024 MB
+title: "마법의 다이얼"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "1024 MB"
 submissions: 198
 accepted: 39
 solved_users: 35
-acceptance_rate: 22.436%
-collected_at: 2026-04-17T17:18:42.885894+00:00
+acceptance_rate: "22.436%"
+collected_at: "2026-04-17T17:18:42.885894+00:00"
 ---
 
 ## 문제

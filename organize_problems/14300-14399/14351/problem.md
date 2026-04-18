@@ -1,13 +1,13 @@
 ---
-title: Rebel Against The Empire (Small)
-special_judge: true
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Rebel Against The Empire (Small)"
+special_judge: "true"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 31
 accepted: 14
 solved_users: 12
-acceptance_rate: 48.000%
-collected_at: 2026-04-17T13:30:59.760718+00:00
+acceptance_rate: "48.000%"
+collected_at: "2026-04-17T13:30:59.760718+00:00"
 ---
 
 ## 문제

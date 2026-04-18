@@ -1,13 +1,13 @@
 ---
-title: Tic-Tac-Toe AI
-special_judge: false
-time_limit: 1 초
-memory_limit: 2048 MB
+title: "Tic-Tac-Toe AI"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "2048 MB"
 submissions: 99
 accepted: 78
 solved_users: 58
-acceptance_rate: 78.378%
-collected_at: 2026-04-17T20:37:18.632626+00:00
+acceptance_rate: "78.378%"
+collected_at: "2026-04-17T20:37:18.632626+00:00"
 ---
 
 ## 문제

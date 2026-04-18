@@ -1,13 +1,13 @@
 ---
-title: Multithreaded Program
-special_judge: true
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "Multithreaded Program"
+special_judge: "true"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 22
 accepted: 16
 solved_users: 16
-acceptance_rate: 88.889%
-collected_at: 2026-04-17T17:12:37.172921+00:00
+acceptance_rate: "88.889%"
+collected_at: "2026-04-17T17:12:37.172921+00:00"
 ---
 
 ## 문제

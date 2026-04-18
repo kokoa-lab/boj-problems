@@ -1,13 +1,13 @@
 ---
-title: 아 저는 볶음밥이요
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "아 저는 볶음밥이요"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 1730
 accepted: 452
 solved_users: 366
-acceptance_rate: 29.071%
-collected_at: 2026-04-17T16:54:33.575072+00:00
+acceptance_rate: "29.071%"
+collected_at: "2026-04-17T16:54:33.575072+00:00"
 ---
 
 ## 문제

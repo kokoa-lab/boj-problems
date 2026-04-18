@@ -1,13 +1,13 @@
 ---
-title: 자동차 공장
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "자동차 공장"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 5879
 accepted: 1785
 solved_users: 1223
-acceptance_rate: 31.791%
-collected_at: 2026-04-17T10:45:05.491199+00:00
+acceptance_rate: "31.791%"
+collected_at: "2026-04-17T10:45:05.491199+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 스크루지 민호
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "스크루지 민호"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 876
 accepted: 351
 solved_users: 282
-acceptance_rate: 39.551%
-collected_at: 2026-04-17T13:03:27.922129+00:00
+acceptance_rate: "39.551%"
+collected_at: "2026-04-17T13:03:27.922129+00:00"
 ---
 
 ## 문제

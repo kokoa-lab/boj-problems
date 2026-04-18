@@ -1,13 +1,13 @@
 ---
-title: 쉐이드 커튼 위 먼지는 쌓이는 중
-special_judge: true
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "쉐이드 커튼 위 먼지는 쌓이는 중"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 304
 accepted: 76
 solved_users: 44
-acceptance_rate: 19.820%
-collected_at: 2026-04-17T20:18:07.626764+00:00
+acceptance_rate: "19.820%"
+collected_at: "2026-04-17T20:18:07.626764+00:00"
 ---
 
 ## 문제

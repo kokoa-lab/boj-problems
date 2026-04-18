@@ -1,13 +1,13 @@
 ---
-title: Pollock's conjecture
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Pollock's conjecture"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 73
 accepted: 37
 solved_users: 28
-acceptance_rate: 65.116%
-collected_at: 2026-04-17T11:10:21.881608+00:00
+acceptance_rate: "65.116%"
+collected_at: "2026-04-17T11:10:21.881608+00:00"
 ---
 
 ## 문제

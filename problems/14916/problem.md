@@ -1,13 +1,13 @@
 ---
-title: 거스름돈
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "거스름돈"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 38379
 accepted: 17968
 solved_users: 14787
-acceptance_rate: 47.058%
-collected_at: 2026-04-17T13:45:27.319909+00:00
+acceptance_rate: "47.058%"
+collected_at: "2026-04-17T13:45:27.319909+00:00"
 ---
 
 ## 문제

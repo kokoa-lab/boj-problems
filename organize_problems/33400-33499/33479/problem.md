@@ -1,13 +1,13 @@
 ---
-title: 받아안올림
-special_judge: true
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "받아안올림"
+special_judge: "true"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 206
 accepted: 20
 solved_users: 14
-acceptance_rate: 9.929%
-collected_at: 2026-04-17T20:17:03.933285+00:00
+acceptance_rate: "9.929%"
+collected_at: "2026-04-17T20:17:03.933285+00:00"
 ---
 
 ## 문제

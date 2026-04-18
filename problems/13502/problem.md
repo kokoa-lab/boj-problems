@@ -1,13 +1,13 @@
 ---
-title: 단어퍼즐 2
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "단어퍼즐 2"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 851
 accepted: 232
 solved_users: 149
-acceptance_rate: 25.601%
-collected_at: 2026-04-17T13:14:11.918037+00:00
+acceptance_rate: "25.601%"
+collected_at: "2026-04-17T13:14:11.918037+00:00"
 ---
 
 ## 문제

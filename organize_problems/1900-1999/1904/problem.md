@@ -1,13 +1,13 @@
 ---
-title: 01타일
-special_judge: false
-time_limit: 0.75 초 (추가 시간 없음)
-memory_limit: 256 MB
+title: "01타일"
+special_judge: "false"
+time_limit: "0.75 초 (추가 시간 없음)"
+memory_limit: "256 MB"
 submissions: 128733
 accepted: 43027
 solved_users: 34156
-acceptance_rate: 32.362%
-collected_at: 2026-04-17T10:35:36.718024+00:00
+acceptance_rate: "32.362%"
+collected_at: "2026-04-17T10:35:36.718024+00:00"
 ---
 
 ## 문제

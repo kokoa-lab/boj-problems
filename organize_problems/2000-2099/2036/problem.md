@@ -1,13 +1,13 @@
 ---
-title: 수열의 점수
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "수열의 점수"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 4734
 accepted: 1345
 solved_users: 1122
-acceptance_rate: 27.827%
-collected_at: 2026-04-17T10:37:28.757243+00:00
+acceptance_rate: "27.827%"
+collected_at: "2026-04-17T10:37:28.757243+00:00"
 ---
 
 ## 문제

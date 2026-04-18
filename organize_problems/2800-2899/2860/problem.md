@@ -1,13 +1,13 @@
 ---
-title: 종이에 숫자 쓰기
-special_judge: true
-time_limit: 1 초
-memory_limit: 128 MB
+title: "종이에 숫자 쓰기"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 625
 accepted: 248
 solved_users: 162
-acceptance_rate: 39.609%
-collected_at: 2026-04-17T10:45:20.822191+00:00
+acceptance_rate: "39.609%"
+collected_at: "2026-04-17T10:45:20.822191+00:00"
 ---
 
 ## 문제

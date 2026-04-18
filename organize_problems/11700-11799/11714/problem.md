@@ -1,13 +1,13 @@
 ---
-title: Midpoint
-special_judge: false
-time_limit: 10 초
-memory_limit: 256 MB
+title: "Midpoint"
+special_judge: "false"
+time_limit: "10 초"
+memory_limit: "256 MB"
 submissions: 235
 accepted: 43
 solved_users: 27
-acceptance_rate: 29.348%
-collected_at: 2026-04-17T12:44:36.116214+00:00
+acceptance_rate: "29.348%"
+collected_at: "2026-04-17T12:44:36.116214+00:00"
 ---
 
 ## 문제

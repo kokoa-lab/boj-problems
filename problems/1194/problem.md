@@ -1,13 +1,13 @@
 ---
-title: 달이 차오른다, 가자.
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "달이 차오른다, 가자."
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 21451
 accepted: 9355
 solved_users: 6431
-acceptance_rate: 40.834%
-collected_at: 2026-04-17T10:28:43.172585+00:00
+acceptance_rate: "40.834%"
+collected_at: "2026-04-17T10:28:43.172585+00:00"
 ---
 
 ## 문제

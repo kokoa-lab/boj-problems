@@ -1,13 +1,13 @@
 ---
-title: 스키장
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "스키장"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 1419
 accepted: 470
 solved_users: 402
-acceptance_rate: 36.347%
-collected_at: 2026-04-17T16:19:26.894315+00:00
+acceptance_rate: "36.347%"
+collected_at: "2026-04-17T16:19:26.894315+00:00"
 ---
 
 ## 문제

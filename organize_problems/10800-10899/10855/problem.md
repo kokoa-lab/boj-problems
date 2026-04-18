@@ -1,13 +1,13 @@
 ---
-title: Extreme Sort
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Extreme Sort"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 270
 accepted: 229
 solved_users: 198
-acceptance_rate: 84.615%
-collected_at: 2026-04-17T12:30:33.423023+00:00
+acceptance_rate: "84.615%"
+collected_at: "2026-04-17T12:30:33.423023+00:00"
 ---
 
 ## 문제

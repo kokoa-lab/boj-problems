@@ -1,13 +1,13 @@
 ---
-title: Choosing Numbers
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "Choosing Numbers"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 253
 accepted: 106
 solved_users: 63
-acceptance_rate: 36.416%
-collected_at: 2026-04-17T12:24:29.778652+00:00
+acceptance_rate: "36.416%"
+collected_at: "2026-04-17T12:24:29.778652+00:00"
 ---
 
 ## 문제

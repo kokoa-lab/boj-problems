@@ -1,13 +1,13 @@
 ---
-title: Jarvis
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Jarvis"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 155
 accepted: 128
 solved_users: 99
-acceptance_rate: 85.345%
-collected_at: 2026-04-17T14:28:35.123079+00:00
+acceptance_rate: "85.345%"
+collected_at: "2026-04-17T14:28:35.123079+00:00"
 ---
 
 ## 문제

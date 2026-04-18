@@ -1,13 +1,13 @@
 ---
-title: Acperience
-special_judge: false
-time_limit: 1 초
-memory_limit: 64 MB
+title: "Acperience"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "64 MB"
 submissions: 84
 accepted: 34
 solved_users: 29
-acceptance_rate: 43.939%
-collected_at: 2026-04-17T15:19:50.746978+00:00
+acceptance_rate: "43.939%"
+collected_at: "2026-04-17T15:19:50.746978+00:00"
 ---
 
 ## 문제

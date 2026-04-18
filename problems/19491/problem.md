@@ -1,13 +1,13 @@
 ---
-title: Equation
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Equation"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 84
 accepted: 40
 solved_users: 38
-acceptance_rate: 49.351%
-collected_at: 2026-04-17T15:21:11.802481+00:00
+acceptance_rate: "49.351%"
+collected_at: "2026-04-17T15:21:11.802481+00:00"
 ---
 
 ## 문제

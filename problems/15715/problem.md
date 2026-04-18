@@ -1,13 +1,13 @@
 ---
-title: 배열과 gcd
-special_judge: false
-time_limit: 0.5 초
-memory_limit: 128 MB
+title: "배열과 gcd"
+special_judge: "false"
+time_limit: "0.5 초"
+memory_limit: "128 MB"
 submissions: 474
 accepted: 124
 solved_users: 90
-acceptance_rate: 25.568%
-collected_at: 2026-04-17T14:04:54.352455+00:00
+acceptance_rate: "25.568%"
+collected_at: "2026-04-17T14:04:54.352455+00:00"
 ---
 
 ## 문제

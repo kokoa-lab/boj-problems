@@ -1,13 +1,13 @@
 ---
-title: Find String in a Grid
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Find String in a Grid"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 9
 accepted: 3
 solved_users: 3
-acceptance_rate: 50.000%
-collected_at: 2026-04-17T15:14:18.045056+00:00
+acceptance_rate: "50.000%"
+collected_at: "2026-04-17T15:14:18.045056+00:00"
 ---
 
 ## 문제

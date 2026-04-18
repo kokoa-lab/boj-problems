@@ -1,13 +1,13 @@
 ---
-title: 바자와 샤자
-special_judge: false
-time_limit: 13 초
-memory_limit: 230 MB
+title: "바자와 샤자"
+special_judge: "false"
+time_limit: "13 초"
+memory_limit: "230 MB"
 submissions: 440
 accepted: 69
 solved_users: 57
-acceptance_rate: 21.839%
-collected_at: 2026-04-17T12:04:26.834950+00:00
+acceptance_rate: "21.839%"
+collected_at: "2026-04-17T12:04:26.834950+00:00"
 ---
 
 ## 문제

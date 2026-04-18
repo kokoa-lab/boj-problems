@@ -1,13 +1,13 @@
 ---
-title: 영어 읽기
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "영어 읽기"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 2437
 accepted: 588
 solved_users: 413
-acceptance_rate: 22.767%
-collected_at: 2026-04-17T10:30:39.957775+00:00
+acceptance_rate: "22.767%"
+collected_at: "2026-04-17T10:30:39.957775+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 자연수로 만드는 자연수
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "자연수로 만드는 자연수"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 64
 accepted: 26
 solved_users: 21
-acceptance_rate: 42.000%
-collected_at: 2026-04-17T18:58:54.265695+00:00
+acceptance_rate: "42.000%"
+collected_at: "2026-04-17T18:58:54.265695+00:00"
 ---
 
 ## 문제

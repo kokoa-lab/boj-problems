@@ -1,13 +1,13 @@
 ---
-title: 극한의 효율 빌런
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "극한의 효율 빌런"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 165
 accepted: 41
 solved_users: 28
-acceptance_rate: 22.764%
-collected_at: 2026-04-17T20:33:44.950614+00:00
+acceptance_rate: "22.764%"
+collected_at: "2026-04-17T20:33:44.950614+00:00"
 ---
 
 ## 문제

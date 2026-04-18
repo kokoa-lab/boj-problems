@@ -1,13 +1,13 @@
 ---
-title: Hard Drive
-special_judge: true
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Hard Drive"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 203
 accepted: 109
 solved_users: 100
-acceptance_rate: 59.172%
-collected_at: 2026-04-17T14:21:03.163851+00:00
+acceptance_rate: "59.172%"
+collected_at: "2026-04-17T14:21:03.163851+00:00"
 ---
 
 ## 문제

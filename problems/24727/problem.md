@@ -1,13 +1,13 @@
 ---
-title: 인지융~
-special_judge: true
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "인지융~"
+special_judge: "true"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 1081
 accepted: 247
 solved_users: 213
-acceptance_rate: 25.177%
-collected_at: 2026-04-17T17:13:55.218416+00:00
+acceptance_rate: "25.177%"
+collected_at: "2026-04-17T17:13:55.218416+00:00"
 ---
 
 ## 문제

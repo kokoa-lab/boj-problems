@@ -1,13 +1,13 @@
 ---
-title: 교환 분배법칙
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "교환 분배법칙"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 1226
 accepted: 587
 solved_users: 488
-acceptance_rate: 50.103%
-collected_at: 2026-04-17T19:19:26.933847+00:00
+acceptance_rate: "50.103%"
+collected_at: "2026-04-17T19:19:26.933847+00:00"
 ---
 
 ## 문제

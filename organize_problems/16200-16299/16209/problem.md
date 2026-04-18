@@ -1,13 +1,13 @@
 ---
-title: 수열 섞기
-special_judge: true
-time_limit: 1 초
-memory_limit: 512 MB
+title: "수열 섞기"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 1280
 accepted: 342
 solved_users: 292
-acceptance_rate: 29.735%
-collected_at: 2026-04-17T14:13:38.727970+00:00
+acceptance_rate: "29.735%"
+collected_at: "2026-04-17T14:13:38.727970+00:00"
 ---
 
 ## 문제

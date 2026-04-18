@@ -1,13 +1,13 @@
 ---
-title: 캬루
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "캬루"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 834
 accepted: 281
 solved_users: 254
-acceptance_rate: 33.246%
-collected_at: 2026-04-17T19:25:21.204843+00:00
+acceptance_rate: "33.246%"
+collected_at: "2026-04-17T19:25:21.204843+00:00"
 ---
 
 ## 문제

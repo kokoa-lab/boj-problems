@@ -1,13 +1,13 @@
 ---
-title: 컨테이너
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "컨테이너"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 340
 accepted: 87
 solved_users: 56
-acceptance_rate: 23.629%
-collected_at: 2026-04-17T10:51:01.402235+00:00
+acceptance_rate: "23.629%"
+collected_at: "2026-04-17T10:51:01.402235+00:00"
 ---
 
 ## 문제

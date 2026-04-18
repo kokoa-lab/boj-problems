@@ -1,13 +1,13 @@
 ---
-title: [F] Functional Sequence
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "[F] Functional Sequence"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 51
 accepted: 26
 solved_users: 16
-acceptance_rate: 66.667%
-collected_at: 2026-04-17T20:22:18.899604+00:00
+acceptance_rate: "66.667%"
+collected_at: "2026-04-17T20:22:18.899604+00:00"
 ---
 
 ## 문제

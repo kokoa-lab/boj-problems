@@ -1,13 +1,13 @@
 ---
-title: 물건 포장하기
-special_judge: false
-time_limit: 1 초  ( 하단 참고 )
-memory_limit: 512 MB
+title: "물건 포장하기"
+special_judge: "false"
+time_limit: "1 초  ( 하단 참고 )"
+memory_limit: "512 MB"
 submissions: 256
 accepted: 41
 solved_users: 32
-acceptance_rate: 30.476%
-collected_at: 2026-04-17T16:40:35.702511+00:00
+acceptance_rate: "30.476%"
+collected_at: "2026-04-17T16:40:35.702511+00:00"
 ---
 
 ## 문제

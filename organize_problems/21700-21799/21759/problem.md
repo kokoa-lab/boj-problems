@@ -1,13 +1,13 @@
 ---
-title: 두 개의 팀
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "두 개의 팀"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 1974
 accepted: 425
 solved_users: 256
-acceptance_rate: 20.016%
-collected_at: 2026-04-17T16:06:53.083651+00:00
+acceptance_rate: "20.016%"
+collected_at: "2026-04-17T16:06:53.083651+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 괄호
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "괄호"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 273929
 accepted: 133845
 solved_users: 95560
-acceptance_rate: 47.407%
-collected_at: 2026-04-17T12:06:06.609639+00:00
+acceptance_rate: "47.407%"
+collected_at: "2026-04-17T12:06:06.609639+00:00"
 ---
 
 ## 문제

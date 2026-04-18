@@ -1,13 +1,13 @@
 ---
-title: 창영마을
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "창영마을"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 4558
 accepted: 3591
 solved_users: 3348
-acceptance_rate: 79.601%
-collected_at: 2026-04-17T10:46:16.808523+00:00
+acceptance_rate: "79.601%"
+collected_at: "2026-04-17T10:46:16.808523+00:00"
 ---
 
 ## 문제

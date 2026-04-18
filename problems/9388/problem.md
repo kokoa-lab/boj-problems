@@ -1,13 +1,13 @@
 ---
-title: Arbiter Login
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Arbiter Login"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 319
 accepted: 154
 solved_users: 125
-acceptance_rate: 52.301%
-collected_at: 2026-04-17T12:09:29.187955+00:00
+acceptance_rate: "52.301%"
+collected_at: "2026-04-17T12:09:29.187955+00:00"
 ---
 
 ## 문제

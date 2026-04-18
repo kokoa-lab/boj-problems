@@ -1,13 +1,13 @@
 ---
-title: Animal Farm
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Animal Farm"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 365
 accepted: 228
 solved_users: 190
-acceptance_rate: 61.688%
-collected_at: 2026-04-17T19:51:26.885335+00:00
+acceptance_rate: "61.688%"
+collected_at: "2026-04-17T19:51:26.885335+00:00"
 ---
 
 ## 문제

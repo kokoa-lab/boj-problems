@@ -1,13 +1,13 @@
 ---
-title: Physical Education
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Physical Education"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 10
 accepted: 7
 solved_users: 3
-acceptance_rate: 100.000%
-collected_at: 2026-04-17T19:27:13.401469+00:00
+acceptance_rate: "100.000%"
+collected_at: "2026-04-17T19:27:13.401469+00:00"
 ---
 
 ## 문제

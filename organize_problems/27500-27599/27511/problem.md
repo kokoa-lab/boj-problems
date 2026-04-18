@@ -1,13 +1,13 @@
 ---
-title: 야유회
-special_judge: false
-time_limit: 4 초
-memory_limit: 1024 MB
+title: "야유회"
+special_judge: "false"
+time_limit: "4 초"
+memory_limit: "1024 MB"
 submissions: 336
 accepted: 71
 solved_users: 54
-acceptance_rate: 21.094%
-collected_at: 2026-04-17T18:05:05.948841+00:00
+acceptance_rate: "21.094%"
+collected_at: "2026-04-17T18:05:05.948841+00:00"
 ---
 
 ## 문제

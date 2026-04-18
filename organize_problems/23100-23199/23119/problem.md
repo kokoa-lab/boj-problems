@@ -1,13 +1,13 @@
 ---
-title: Deleting
-special_judge: false
-time_limit: 4 초
-memory_limit: 512 MB
+title: "Deleting"
+special_judge: "false"
+time_limit: "4 초"
+memory_limit: "512 MB"
 submissions: 46
 accepted: 16
 solved_users: 15
-acceptance_rate: 42.857%
-collected_at: 2026-04-17T16:42:24.842406+00:00
+acceptance_rate: "42.857%"
+collected_at: "2026-04-17T16:42:24.842406+00:00"
 ---
 
 ## 문제

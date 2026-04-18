@@ -1,13 +1,13 @@
 ---
-title: 엑셀
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "엑셀"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 888
 accepted: 556
 solved_users: 474
-acceptance_rate: 65.651%
-collected_at: 2026-04-17T10:44:35.473825+00:00
+acceptance_rate: "65.651%"
+collected_at: "2026-04-17T10:44:35.473825+00:00"
 ---
 
 ## 문제

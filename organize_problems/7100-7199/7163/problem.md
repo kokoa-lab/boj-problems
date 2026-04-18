@@ -1,13 +1,13 @@
 ---
-title: Jalgpall
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Jalgpall"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 11
 accepted: 3
 solved_users: 3
-acceptance_rate: 27.273%
-collected_at: 2026-04-17T11:46:44.339435+00:00
+acceptance_rate: "27.273%"
+collected_at: "2026-04-17T11:46:44.339435+00:00"
 ---
 
 ## 문제

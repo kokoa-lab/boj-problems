@@ -1,13 +1,13 @@
 ---
-title: 나이 계산하기
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "나이 계산하기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 9122
 accepted: 4944
 solved_users: 4342
-acceptance_rate: 54.934%
-collected_at: 2026-04-17T14:13:20.217646+00:00
+acceptance_rate: "54.934%"
+collected_at: "2026-04-17T14:13:20.217646+00:00"
 ---
 
 ## 문제

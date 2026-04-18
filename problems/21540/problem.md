@@ -1,13 +1,13 @@
 ---
-title: Древние династии
-special_judge: true
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Древние династии"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 11
 accepted: 6
 solved_users: 4
-acceptance_rate: 57.143%
-collected_at: 2026-04-17T15:59:50.699009+00:00
+acceptance_rate: "57.143%"
+collected_at: "2026-04-17T15:59:50.699009+00:00"
 ---
 
 ## 문제

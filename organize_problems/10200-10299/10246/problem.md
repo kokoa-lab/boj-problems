@@ -1,13 +1,13 @@
 ---
-title: 부동산 경매
-special_judge: false
-time_limit: 10 초
-memory_limit: 256 MB
+title: "부동산 경매"
+special_judge: "false"
+time_limit: "10 초"
+memory_limit: "256 MB"
 submissions: 904
 accepted: 233
 solved_users: 166
-acceptance_rate: 27.348%
-collected_at: 2026-04-17T12:20:57.175159+00:00
+acceptance_rate: "27.348%"
+collected_at: "2026-04-17T12:20:57.175159+00:00"
 ---
 
 ## 문제

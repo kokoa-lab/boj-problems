@@ -1,13 +1,13 @@
 ---
-title: GPS on a Flat Earth
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "GPS on a Flat Earth"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 87
 accepted: 25
 solved_users: 24
-acceptance_rate: 58.537%
-collected_at: 2026-04-17T19:07:39.582645+00:00
+acceptance_rate: "58.537%"
+collected_at: "2026-04-17T19:07:39.582645+00:00"
 ---
 
 ## 문제

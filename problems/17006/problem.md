@@ -1,13 +1,13 @@
 ---
-title: Planes, Trains, but not Automobiles
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Planes, Trains, but not Automobiles"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 32
 accepted: 22
 solved_users: 17
-acceptance_rate: 77.273%
-collected_at: 2026-04-17T14:27:31.085206+00:00
+acceptance_rate: "77.273%"
+collected_at: "2026-04-17T14:27:31.085206+00:00"
 ---
 
 ## 문제

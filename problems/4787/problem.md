@@ -1,13 +1,13 @@
 ---
-title: Covered Walkway
-special_judge: false
-time_limit: 10 초
-memory_limit: 128 MB
+title: "Covered Walkway"
+special_judge: "false"
+time_limit: "10 초"
+memory_limit: "128 MB"
 submissions: 72
 accepted: 29
 solved_users: 25
-acceptance_rate: 60.976%
-collected_at: 2026-04-17T11:08:29.111866+00:00
+acceptance_rate: "60.976%"
+collected_at: "2026-04-17T11:08:29.111866+00:00"
 ---
 
 ## 문제

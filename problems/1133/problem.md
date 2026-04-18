@@ -1,13 +1,13 @@
 ---
-title: 반복되지 않는 단어
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "반복되지 않는 단어"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 387
 accepted: 137
 solved_users: 110
-acceptance_rate: 50.459%
-collected_at: 2026-04-17T10:28:22.320346+00:00
+acceptance_rate: "50.459%"
+collected_at: "2026-04-17T10:28:22.320346+00:00"
 ---
 
 ## 문제

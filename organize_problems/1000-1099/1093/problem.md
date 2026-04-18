@@ -1,13 +1,13 @@
 ---
-title: 스티커 수집
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "스티커 수집"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 1040
 accepted: 268
 solved_users: 197
-acceptance_rate: 25.853%
-collected_at: 2026-04-17T10:28:10.342941+00:00
+acceptance_rate: "25.853%"
+collected_at: "2026-04-17T10:28:10.342941+00:00"
 ---
 
 ## 문제

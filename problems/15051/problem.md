@@ -1,13 +1,13 @@
 ---
-title: Máquina de café
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Máquina de café"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 2679
 accepted: 1790
 solved_users: 1686
-acceptance_rate: 66.746%
-collected_at: 2026-04-17T13:49:23.326935+00:00
+acceptance_rate: "66.746%"
+collected_at: "2026-04-17T13:49:23.326935+00:00"
 ---
 
 ## 문제

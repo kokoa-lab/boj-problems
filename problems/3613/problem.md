@@ -1,13 +1,13 @@
 ---
-title: Java vs C++
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Java vs C++"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 17015
 accepted: 3626
 solved_users: 2962
-acceptance_rate: 21.700%
-collected_at: 2026-04-17T10:50:12.426835+00:00
+acceptance_rate: "21.700%"
+collected_at: "2026-04-17T10:50:12.426835+00:00"
 ---
 
 ## 문제

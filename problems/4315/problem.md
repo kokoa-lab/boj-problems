@@ -1,13 +1,13 @@
 ---
-title: 나무 위의 구슬
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "나무 위의 구슬"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 389
 accepted: 180
 solved_users: 156
-acceptance_rate: 46.988%
-collected_at: 2026-04-17T10:59:30.965685+00:00
+acceptance_rate: "46.988%"
+collected_at: "2026-04-17T10:59:30.965685+00:00"
 ---
 
 ## 문제

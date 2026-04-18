@@ -1,13 +1,13 @@
 ---
-title: 동전 시스템
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "동전 시스템"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 107
 accepted: 41
 solved_users: 29
-acceptance_rate: 33.721%
-collected_at: 2026-04-17T13:32:16.166921+00:00
+acceptance_rate: "33.721%"
+collected_at: "2026-04-17T13:32:16.166921+00:00"
 ---
 
 ## 문제

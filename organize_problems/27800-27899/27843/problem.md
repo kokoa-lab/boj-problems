@@ -1,13 +1,13 @@
 ---
-title: Equal Sum Subarrays
-special_judge: false
-time_limit: 3 초
-memory_limit: 1024 MB
+title: "Equal Sum Subarrays"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "1024 MB"
 submissions: 290
 accepted: 144
 solved_users: 120
-acceptance_rate: 48.193%
-collected_at: 2026-04-17T18:12:33.750611+00:00
+acceptance_rate: "48.193%"
+collected_at: "2026-04-17T18:12:33.750611+00:00"
 ---
 
 ## 문제

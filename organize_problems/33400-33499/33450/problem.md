@@ -1,13 +1,13 @@
 ---
-title: Twinning Totem
-special_judge: true
-time_limit: 2 초
-memory_limit: 2048 MB
+title: "Twinning Totem"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "2048 MB"
 submissions: 12
 accepted: 1
 solved_users: 1
-acceptance_rate: 8.333%
-collected_at: 2026-04-17T20:16:15.657516+00:00
+acceptance_rate: "8.333%"
+collected_at: "2026-04-17T20:16:15.657516+00:00"
 ---
 
 ## 문제

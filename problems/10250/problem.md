@@ -1,13 +1,13 @@
 ---
-title: ACM 호텔
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "ACM 호텔"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 235145
 accepted: 81813
 solved_users: 69201
-acceptance_rate: 33.715%
-collected_at: 2026-04-17T12:21:00.336732+00:00
+acceptance_rate: "33.715%"
+collected_at: "2026-04-17T12:21:00.336732+00:00"
 ---
 
 ## 문제

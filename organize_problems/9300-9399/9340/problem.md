@@ -1,13 +1,13 @@
 ---
-title: Network Planning
-special_judge: false
-time_limit: 2 초
-memory_limit: 64 MB
+title: "Network Planning"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "64 MB"
 submissions: 79
 accepted: 34
 solved_users: 29
-acceptance_rate: 40.278%
-collected_at: 2026-04-17T12:09:01.945627+00:00
+acceptance_rate: "40.278%"
+collected_at: "2026-04-17T12:09:01.945627+00:00"
 ---
 
 ## 문제

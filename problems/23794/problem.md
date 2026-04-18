@@ -1,13 +1,13 @@
 ---
-title: 골뱅이 찍기 - 정사각형
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "골뱅이 찍기 - 정사각형"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 2708
 accepted: 2154
 solved_users: 2041
-acceptance_rate: 80.928%
-collected_at: 2026-04-17T16:53:58.830998+00:00
+acceptance_rate: "80.928%"
+collected_at: "2026-04-17T16:53:58.830998+00:00"
 ---
 
 ## 문제

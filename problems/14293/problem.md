@@ -1,13 +1,13 @@
 ---
-title: Beautiful Numbers (Large)
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Beautiful Numbers (Large)"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 136
 accepted: 53
 solved_users: 43
-acceptance_rate: 41.748%
-collected_at: 2026-04-17T13:29:34.806840+00:00
+acceptance_rate: "41.748%"
+collected_at: "2026-04-17T13:29:34.806840+00:00"
 ---
 
 ## 문제

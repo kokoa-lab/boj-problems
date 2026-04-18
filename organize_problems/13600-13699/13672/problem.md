@@ -1,13 +1,13 @@
 ---
-title: Sub-prime
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Sub-prime"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 83
 accepted: 76
 solved_users: 71
-acceptance_rate: 92.208%
-collected_at: 2026-04-17T13:17:00.780958+00:00
+acceptance_rate: "92.208%"
+collected_at: "2026-04-17T13:17:00.780958+00:00"
 ---
 
 ## 문제

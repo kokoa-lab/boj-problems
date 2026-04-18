@@ -1,13 +1,13 @@
 ---
-title: PUTOVANJE
-special_judge: false
-time_limit: 1 초
-memory_limit: 64 MB
+title: "PUTOVANJE"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "64 MB"
 submissions: 298
 accepted: 157
 solved_users: 142
-acceptance_rate: 51.825%
-collected_at: 2026-04-17T12:47:47.530135+00:00
+acceptance_rate: "51.825%"
+collected_at: "2026-04-17T12:47:47.530135+00:00"
 ---
 
 ## 문제

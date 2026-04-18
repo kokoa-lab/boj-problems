@@ -1,13 +1,13 @@
 ---
-title: Selection Sum
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Selection Sum"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 616
 accepted: 496
 solved_users: 385
-acceptance_rate: 83.514%
-collected_at: 2026-04-17T13:09:43.555963+00:00
+acceptance_rate: "83.514%"
+collected_at: "2026-04-17T13:09:43.555963+00:00"
 ---
 
 ## 문제

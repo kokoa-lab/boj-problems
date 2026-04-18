@@ -1,13 +1,13 @@
 ---
-title: 너의 이름은 몇 점이니?
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "너의 이름은 몇 점이니?"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 2810
 accepted: 2410
 solved_users: 2235
-acceptance_rate: 86.897%
-collected_at: 2026-04-17T14:07:01.806789+00:00
+acceptance_rate: "86.897%"
+collected_at: "2026-04-17T14:07:01.806789+00:00"
 ---
 
 ## 문제

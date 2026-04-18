@@ -1,13 +1,13 @@
 ---
-title: 까다로운 수 찾기
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "까다로운 수 찾기"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 71
 accepted: 40
 solved_users: 25
-acceptance_rate: 60.976%
-collected_at: 2026-04-17T14:13:25.975781+00:00
+acceptance_rate: "60.976%"
+collected_at: "2026-04-17T14:13:25.975781+00:00"
 ---
 
 ## 문제

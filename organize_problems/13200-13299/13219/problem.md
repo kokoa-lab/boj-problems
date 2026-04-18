@@ -1,13 +1,13 @@
 ---
-title: Trains
-special_judge: false
-time_limit: 1 초
-memory_limit: 64 MB
+title: "Trains"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "64 MB"
 submissions: 309
 accepted: 73
 solved_users: 62
-acceptance_rate: 25.306%
-collected_at: 2026-04-17T13:09:29.833063+00:00
+acceptance_rate: "25.306%"
+collected_at: "2026-04-17T13:09:29.833063+00:00"
 ---
 
 ## 문제

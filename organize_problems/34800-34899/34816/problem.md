@@ -1,13 +1,13 @@
 ---
-title: 짝수 길이의 짝수 합
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "짝수 길이의 짝수 합"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 177
 accepted: 83
 solved_users: 77
-acceptance_rate: 53.103%
-collected_at: 2026-04-17T20:49:19.839812+00:00
+acceptance_rate: "53.103%"
+collected_at: "2026-04-17T20:49:19.839812+00:00"
 ---
 
 ## 문제

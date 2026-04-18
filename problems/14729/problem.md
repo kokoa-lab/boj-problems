@@ -1,13 +1,13 @@
 ---
-title: 칠무해
-special_judge: false
-time_limit: 10 초
-memory_limit: 256 MB
+title: "칠무해"
+special_judge: "false"
+time_limit: "10 초"
+memory_limit: "256 MB"
 submissions: 8375
 accepted: 3581
 solved_users: 2605
-acceptance_rate: 42.621%
-collected_at: 2026-04-17T13:41:05.322529+00:00
+acceptance_rate: "42.621%"
+collected_at: "2026-04-17T13:41:05.322529+00:00"
 ---
 
 ## 문제

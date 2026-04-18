@@ -1,13 +1,13 @@
 ---
-title: Opening Ceremony
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Opening Ceremony"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 1465
 accepted: 410
 solved_users: 360
-acceptance_rate: 32.229%
-collected_at: 2026-04-17T12:21:15.454053+00:00
+acceptance_rate: "32.229%"
+collected_at: "2026-04-17T12:21:15.454053+00:00"
 ---
 
 ## 문제

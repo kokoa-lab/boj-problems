@@ -1,13 +1,13 @@
 ---
-title: Compact Encoding
-special_judge: false
-time_limit: 2 초
-memory_limit: 2048 MB
+title: "Compact Encoding"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "2048 MB"
 submissions: 22
 accepted: 21
 solved_users: 19
-acceptance_rate: 95.000%
-collected_at: 2026-04-17T20:54:09.577224+00:00
+acceptance_rate: "95.000%"
+collected_at: "2026-04-17T20:54:09.577224+00:00"
 ---
 
 ## 문제

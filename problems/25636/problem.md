@@ -1,13 +1,13 @@
 ---
-title: 소방차
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "소방차"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 850
 accepted: 238
 solved_users: 179
-acceptance_rate: 27.080%
-collected_at: 2026-04-17T17:30:24.976225+00:00
+acceptance_rate: "27.080%"
+collected_at: "2026-04-17T17:30:24.976225+00:00"
 ---
 
 ## 문제

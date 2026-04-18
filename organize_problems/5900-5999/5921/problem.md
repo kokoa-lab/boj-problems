@@ -1,13 +1,13 @@
 ---
-title: Escaping the Farm
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Escaping the Farm"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 643
 accepted: 314
 solved_users: 200
-acceptance_rate: 51.813%
-collected_at: 2026-04-17T11:18:34.707723+00:00
+acceptance_rate: "51.813%"
+collected_at: "2026-04-17T11:18:34.707723+00:00"
 ---
 
 ## 문제

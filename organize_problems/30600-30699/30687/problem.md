@@ -1,13 +1,13 @@
 ---
-title: 피자 쌓기
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "피자 쌓기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 162
 accepted: 111
 solved_users: 96
-acceptance_rate: 68.571%
-collected_at: 2026-04-17T19:12:24.348873+00:00
+acceptance_rate: "68.571%"
+collected_at: "2026-04-17T19:12:24.348873+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 수도요금
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "수도요금"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 10016
 accepted: 7515
 solved_users: 6885
-acceptance_rate: 75.843%
-collected_at: 2026-04-17T12:27:45.195156+00:00
+acceptance_rate: "75.843%"
+collected_at: "2026-04-17T12:27:45.195156+00:00"
 ---
 
 ## 문제

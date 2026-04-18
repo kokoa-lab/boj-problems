@@ -1,13 +1,13 @@
 ---
-title: 점수따먹기
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "점수따먹기"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 5316
 accepted: 2051
 solved_users: 1498
-acceptance_rate: 36.662%
-collected_at: 2026-04-17T10:33:06.956177+00:00
+acceptance_rate: "36.662%"
+collected_at: "2026-04-17T10:33:06.956177+00:00"
 ---
 
 ## 문제

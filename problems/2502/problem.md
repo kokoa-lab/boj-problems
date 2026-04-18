@@ -1,13 +1,13 @@
 ---
-title: 떡 먹는 호랑이
-special_judge: true
-time_limit: 1 초
-memory_limit: 128 MB
+title: "떡 먹는 호랑이"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 14022
 accepted: 6791
 solved_users: 5533
-acceptance_rate: 53.299%
-collected_at: 2026-04-17T10:42:11.175937+00:00
+acceptance_rate: "53.299%"
+collected_at: "2026-04-17T10:42:11.175937+00:00"
 ---
 
 ## 문제

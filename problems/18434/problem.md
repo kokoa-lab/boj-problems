@@ -1,13 +1,13 @@
 ---
-title: Olympic Bus
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Olympic Bus"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 246
 accepted: 89
 solved_users: 58
-acceptance_rate: 36.478%
-collected_at: 2026-04-17T15:04:30.028200+00:00
+acceptance_rate: "36.478%"
+collected_at: "2026-04-17T15:04:30.028200+00:00"
 ---
 
 ## 문제

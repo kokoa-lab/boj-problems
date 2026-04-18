@@ -1,13 +1,13 @@
 ---
-title: 복면산?!
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "복면산?!"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 2318
 accepted: 660
 solved_users: 420
-acceptance_rate: 26.250%
-collected_at: 2026-04-17T14:07:00.566135+00:00
+acceptance_rate: "26.250%"
+collected_at: "2026-04-17T14:07:00.566135+00:00"
 ---
 
 ## 문제

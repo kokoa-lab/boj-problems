@@ -1,13 +1,13 @@
 ---
-title: Hills
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Hills"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 81
 accepted: 24
 solved_users: 20
-acceptance_rate: 38.462%
-collected_at: 2026-04-17T14:16:46.470927+00:00
+acceptance_rate: "38.462%"
+collected_at: "2026-04-17T14:16:46.470927+00:00"
 ---
 
 ## 문제

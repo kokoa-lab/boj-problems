@@ -1,13 +1,13 @@
 ---
-title: 저거 못 타면 지각이야!!
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "저거 못 타면 지각이야!!"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 468
 accepted: 168
 solved_users: 139
-acceptance_rate: 37.265%
-collected_at: 2026-04-17T14:06:51.344297+00:00
+acceptance_rate: "37.265%"
+collected_at: "2026-04-17T14:06:51.344297+00:00"
 ---
 
 ## 문제

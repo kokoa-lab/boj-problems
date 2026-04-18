@@ -1,13 +1,13 @@
 ---
-title: 열혈강호 5
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "열혈강호 5"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 4454
 accepted: 2615
 solved_users: 1544
-acceptance_rate: 56.953%
-collected_at: 2026-04-17T12:40:22.894066+00:00
+acceptance_rate: "56.953%"
+collected_at: "2026-04-17T12:40:22.894066+00:00"
 ---
 
 ## 문제

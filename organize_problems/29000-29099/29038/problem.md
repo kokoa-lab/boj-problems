@@ -1,13 +1,13 @@
 ---
-title: Анаграммы-2
-special_judge: true
-time_limit: 3 초
-memory_limit: 1024 MB
+title: "Анаграммы-2"
+special_judge: "true"
+time_limit: "3 초"
+memory_limit: "1024 MB"
 submissions: 10
 accepted: 3
 solved_users: 3
-acceptance_rate: 42.857%
-collected_at: 2026-04-17T18:36:23.978421+00:00
+acceptance_rate: "42.857%"
+collected_at: "2026-04-17T18:36:23.978421+00:00"
 ---
 
 ## 문제

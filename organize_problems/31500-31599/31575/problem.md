@@ -1,13 +1,13 @@
 ---
-title: 도시와 비트코인
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "도시와 비트코인"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 4149
 accepted: 1455
 solved_users: 1221
-acceptance_rate: 34.876%
-collected_at: 2026-04-17T19:31:14.058503+00:00
+acceptance_rate: "34.876%"
+collected_at: "2026-04-17T19:31:14.058503+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Isomorphic Inversion
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Isomorphic Inversion"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 200
 accepted: 82
 solved_users: 53
-acceptance_rate: 38.129%
-collected_at: 2026-04-17T14:15:17.644266+00:00
+acceptance_rate: "38.129%"
+collected_at: "2026-04-17T14:15:17.644266+00:00"
 ---
 
 ## 문제

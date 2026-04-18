@@ -1,13 +1,13 @@
 ---
-title: Quantum Beaver
-special_judge: false
-time_limit: 4 초
-memory_limit: 2048 MB
+title: "Quantum Beaver"
+special_judge: "false"
+time_limit: "4 초"
+memory_limit: "2048 MB"
 submissions: 17
 accepted: 9
 solved_users: 9
-acceptance_rate: 52.941%
-collected_at: 2026-04-17T20:51:40.927552+00:00
+acceptance_rate: "52.941%"
+collected_at: "2026-04-17T20:51:40.927552+00:00"
 ---
 
 ## 문제

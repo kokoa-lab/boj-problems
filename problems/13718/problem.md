@@ -1,13 +1,13 @@
 ---
-title: Tavan
-special_judge: false
-time_limit: 1 초
-memory_limit: 32 MB
+title: "Tavan"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "32 MB"
 submissions: 217
 accepted: 87
 solved_users: 80
-acceptance_rate: 48.780%
-collected_at: 2026-04-17T13:17:57.509573+00:00
+acceptance_rate: "48.780%"
+collected_at: "2026-04-17T13:17:57.509573+00:00"
 ---
 
 ## 문제

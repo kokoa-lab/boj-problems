@@ -1,13 +1,13 @@
 ---
-title: 나는 누구인가
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "나는 누구인가"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 18278
 accepted: 15401
 solved_users: 14727
-acceptance_rate: 84.750%
-collected_at: 2026-04-17T14:05:22.109104+00:00
+acceptance_rate: "84.750%"
+collected_at: "2026-04-17T14:05:22.109104+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: GentleBots
-special_judge: true
-time_limit: 1 초
-memory_limit: 512 MB
+title: "GentleBots"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 94
 accepted: 14
 solved_users: 14
-acceptance_rate: 20.588%
-collected_at: 2026-04-17T13:48:46.796140+00:00
+acceptance_rate: "20.588%"
+collected_at: "2026-04-17T13:48:46.796140+00:00"
 ---
 
 ## 문제

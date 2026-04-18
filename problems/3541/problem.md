@@ -1,13 +1,13 @@
 ---
-title: 상근타워
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "상근타워"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 931
 accepted: 288
 solved_users: 246
-acceptance_rate: 35.143%
-collected_at: 2026-04-17T10:49:39.683499+00:00
+acceptance_rate: "35.143%"
+collected_at: "2026-04-17T10:49:39.683499+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Subset Equality
-special_judge: false
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Subset Equality"
+special_judge: "false"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 401
 accepted: 157
 solved_users: 128
-acceptance_rate: 39.024%
-collected_at: 2026-04-17T17:17:59.998501+00:00
+acceptance_rate: "39.024%"
+collected_at: "2026-04-17T17:17:59.998501+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 정수론과 응용: 레시테이션
-special_judge: false
-time_limit: 4 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "정수론과 응용: 레시테이션"
+special_judge: "false"
+time_limit: "4 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 386
 accepted: 128
 solved_users: 47
-acceptance_rate: 28.313%
-collected_at: 2026-04-17T14:12:07.835715+00:00
+acceptance_rate: "28.313%"
+collected_at: "2026-04-17T14:12:07.835715+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Honey Cake
-special_judge: true
-time_limit: 3 초
-memory_limit: 2048 MB
+title: "Honey Cake"
+special_judge: "true"
+time_limit: "3 초"
+memory_limit: "2048 MB"
 submissions: 39
 accepted: 30
 solved_users: 27
-acceptance_rate: 81.818%
-collected_at: 2026-04-17T20:54:43.193300+00:00
+acceptance_rate: "81.818%"
+collected_at: "2026-04-17T20:54:43.193300+00:00"
 ---
 
 ## 문제

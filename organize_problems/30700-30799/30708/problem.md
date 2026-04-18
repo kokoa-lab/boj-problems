@@ -1,13 +1,13 @@
 ---
-title: 업&다운
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "업&다운"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 292
 accepted: 59
 solved_users: 45
-acceptance_rate: 27.607%
-collected_at: 2026-04-17T19:12:57.387036+00:00
+acceptance_rate: "27.607%"
+collected_at: "2026-04-17T19:12:57.387036+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Fabricating Sculptures
-special_judge: false
-time_limit: 0.3 초
-memory_limit: 512 MB
+title: "Fabricating Sculptures"
+special_judge: "false"
+time_limit: "0.3 초"
+memory_limit: "512 MB"
 submissions: 197
 accepted: 64
 solved_users: 51
-acceptance_rate: 34.228%
-collected_at: 2026-04-17T14:53:13.148488+00:00
+acceptance_rate: "34.228%"
+collected_at: "2026-04-17T14:53:13.148488+00:00"
 ---
 
 ## 문제

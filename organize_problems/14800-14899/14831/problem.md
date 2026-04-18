@@ -1,13 +1,13 @@
 ---
-title: Dice Straight (Small)
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Dice Straight (Small)"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 97
 accepted: 55
 solved_users: 26
-acceptance_rate: 49.057%
-collected_at: 2026-04-17T13:42:34.169441+00:00
+acceptance_rate: "49.057%"
+collected_at: "2026-04-17T13:42:34.169441+00:00"
 ---
 
 ## 문제

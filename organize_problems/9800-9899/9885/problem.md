@@ -1,13 +1,13 @@
 ---
-title: Claws
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Claws"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 71
 accepted: 50
 solved_users: 37
-acceptance_rate: 75.510%
-collected_at: 2026-04-17T12:16:09.317874+00:00
+acceptance_rate: "75.510%"
+collected_at: "2026-04-17T12:16:09.317874+00:00"
 ---
 
 ## 문제

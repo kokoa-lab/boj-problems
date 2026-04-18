@@ -1,13 +1,13 @@
 ---
-title: 정사각형 진열
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "정사각형 진열"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 658
 accepted: 89
 solved_users: 74
-acceptance_rate: 20.728%
-collected_at: 2026-04-17T10:28:36.246864+00:00
+acceptance_rate: "20.728%"
+collected_at: "2026-04-17T10:28:36.246864+00:00"
 ---
 
 ## 문제

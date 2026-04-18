@@ -1,13 +1,13 @@
 ---
-title: MST Camera
-special_judge: false
-time_limit: 7 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "MST Camera"
+special_judge: "false"
+time_limit: "7 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 20
 accepted: 7
 solved_users: 6
-acceptance_rate: 54.545%
-collected_at: 2026-04-17T16:49:10.531880+00:00
+acceptance_rate: "54.545%"
+collected_at: "2026-04-17T16:49:10.531880+00:00"
 ---
 
 ## 문제

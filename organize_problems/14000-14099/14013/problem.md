@@ -1,13 +1,13 @@
 ---
-title: Unit Conversion
-special_judge: true
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Unit Conversion"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 575
 accepted: 415
 solved_users: 345
-acceptance_rate: 70.122%
-collected_at: 2026-04-17T13:24:17.667767+00:00
+acceptance_rate: "70.122%"
+collected_at: "2026-04-17T13:24:17.667767+00:00"
 ---
 
 ## 문제

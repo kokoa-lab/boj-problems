@@ -1,13 +1,13 @@
 ---
-title: 이진수
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "이진수"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 22679
 accepted: 12304
 solved_users: 10652
-acceptance_rate: 55.103%
-collected_at: 2026-04-17T10:49:02.722501+00:00
+acceptance_rate: "55.103%"
+collected_at: "2026-04-17T10:49:02.722501+00:00"
 ---
 
 ## 문제

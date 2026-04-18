@@ -1,13 +1,13 @@
 ---
-title: 바이너리 행렬
-special_judge: false
-time_limit: 5 초
-memory_limit: 128 MB
+title: "바이너리 행렬"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "128 MB"
 submissions: 127
 accepted: 24
 solved_users: 16
-acceptance_rate: 21.053%
-collected_at: 2026-04-17T11:16:06.916053+00:00
+acceptance_rate: "21.053%"
+collected_at: "2026-04-17T11:16:06.916053+00:00"
 ---
 
 ## 문제

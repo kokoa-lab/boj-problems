@@ -1,13 +1,13 @@
 ---
-title: На планете Иворил...
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "На планете Иворил..."
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 61
 accepted: 54
 solved_users: 35
-acceptance_rate: 89.744%
-collected_at: 2026-04-17T17:39:36.288931+00:00
+acceptance_rate: "89.744%"
+collected_at: "2026-04-17T17:39:36.288931+00:00"
 ---
 
 ## 문제

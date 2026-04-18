@@ -1,13 +1,13 @@
 ---
-title: 기술 연계마스터 임스
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "기술 연계마스터 임스"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 4092
 accepted: 1506
 solved_users: 1283
-acceptance_rate: 37.914%
-collected_at: 2026-04-17T17:27:32.990695+00:00
+acceptance_rate: "37.914%"
+collected_at: "2026-04-17T17:27:32.990695+00:00"
 ---
 
 ## 문제

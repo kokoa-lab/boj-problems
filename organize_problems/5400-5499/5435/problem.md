@@ -1,13 +1,13 @@
 ---
-title: Polly Wants a Cracker
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Polly Wants a Cracker"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 21
 accepted: 15
 solved_users: 14
-acceptance_rate: 70.000%
-collected_at: 2026-04-17T11:13:53.525132+00:00
+acceptance_rate: "70.000%"
+collected_at: "2026-04-17T11:13:53.525132+00:00"
 ---
 
 ## 문제

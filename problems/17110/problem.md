@@ -1,13 +1,13 @@
 ---
-title: Africa 2
-special_judge: false
-time_limit: 1.357 초
-memory_limit: 1357 MB
+title: "Africa 2"
+special_judge: "false"
+time_limit: "1.357 초"
+memory_limit: "1357 MB"
 submissions: 1068
 accepted: 49
 solved_users: 43
-acceptance_rate: 5.156%
-collected_at: 2026-04-17T14:29:55.944613+00:00
+acceptance_rate: "5.156%"
+collected_at: "2026-04-17T14:29:55.944613+00:00"
 ---
 
 ## 문제

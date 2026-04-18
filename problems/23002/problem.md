@@ -1,13 +1,13 @@
 ---
-title: Checksum
-special_judge: false
-time_limit: 서브태스크 참고 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "Checksum"
+special_judge: "false"
+time_limit: "서브태스크 참고 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 54
 accepted: 34
 solved_users: 29
-acceptance_rate: 65.909%
-collected_at: 2026-04-17T16:40:01.692331+00:00
+acceptance_rate: "65.909%"
+collected_at: "2026-04-17T16:40:01.692331+00:00"
 ---
 
 ## 문제

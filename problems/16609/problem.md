@@ -1,13 +1,13 @@
 ---
-title: Inflation
-special_judge: true
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Inflation"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 353
 accepted: 237
 solved_users: 141
-acceptance_rate: 75.000%
-collected_at: 2026-04-17T14:20:56.107965+00:00
+acceptance_rate: "75.000%"
+collected_at: "2026-04-17T14:20:56.107965+00:00"
 ---
 
 ## 문제

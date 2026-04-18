@@ -1,13 +1,13 @@
 ---
-title: Exact Change
-special_judge: false
-time_limit: 1 초
-memory_limit: 2048 MB
+title: "Exact Change"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "2048 MB"
 submissions: 72
 accepted: 44
 solved_users: 33
-acceptance_rate: 67.347%
-collected_at: 2026-04-17T20:01:25.383405+00:00
+acceptance_rate: "67.347%"
+collected_at: "2026-04-17T20:01:25.383405+00:00"
 ---
 
 ## 문제

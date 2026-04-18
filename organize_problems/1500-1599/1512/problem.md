@@ -1,13 +1,13 @@
 ---
-title: 주기문으로 바꾸기
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "주기문으로 바꾸기"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 824
 accepted: 312
 solved_users: 229
-acceptance_rate: 43.371%
-collected_at: 2026-04-17T10:30:47.699870+00:00
+acceptance_rate: "43.371%"
+collected_at: "2026-04-17T10:30:47.699870+00:00"
 ---
 
 ## 문제

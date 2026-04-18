@@ -1,13 +1,13 @@
 ---
-title: The Last Ant
-special_judge: false
-time_limit: 3 초
-memory_limit: 128 MB
+title: "The Last Ant"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "128 MB"
 submissions: 34
 accepted: 28
 solved_users: 27
-acceptance_rate: 81.818%
-collected_at: 2026-04-17T12:11:48.093564+00:00
+acceptance_rate: "81.818%"
+collected_at: "2026-04-17T12:11:48.093564+00:00"
 ---
 
 ## 문제

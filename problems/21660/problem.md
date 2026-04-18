@@ -1,13 +1,13 @@
 ---
-title: Распил бревен
-special_judge: true
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Распил бревен"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 42
 accepted: 8
 solved_users: 5
-acceptance_rate: 20.833%
-collected_at: 2026-04-17T16:02:45.383946+00:00
+acceptance_rate: "20.833%"
+collected_at: "2026-04-17T16:02:45.383946+00:00"
 ---
 
 ## 문제

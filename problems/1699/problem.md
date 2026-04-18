@@ -1,13 +1,13 @@
 ---
-title: 제곱수의 합
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "제곱수의 합"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 72006
 accepted: 30116
 solved_users: 22011
-acceptance_rate: 40.825%
-collected_at: 2026-04-17T10:32:29.224493+00:00
+acceptance_rate: "40.825%"
+collected_at: "2026-04-17T10:32:29.224493+00:00"
 ---
 
 ## 문제

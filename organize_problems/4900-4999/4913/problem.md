@@ -1,13 +1,13 @@
 ---
-title: 페르마의 크리스마스 정리
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "페르마의 크리스마스 정리"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 2997
 accepted: 541
 solved_users: 385
-acceptance_rate: 17.974%
-collected_at: 2026-04-17T11:09:59.478877+00:00
+acceptance_rate: "17.974%"
+collected_at: "2026-04-17T11:09:59.478877+00:00"
 ---
 
 ## 문제

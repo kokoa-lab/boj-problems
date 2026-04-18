@@ -1,13 +1,13 @@
 ---
-title: 과일노리
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "과일노리"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 871
 accepted: 582
 solved_users: 489
-acceptance_rate: 67.263%
-collected_at: 2026-04-17T13:36:26.805895+00:00
+acceptance_rate: "67.263%"
+collected_at: "2026-04-17T13:36:26.805895+00:00"
 ---
 
 ## 문제

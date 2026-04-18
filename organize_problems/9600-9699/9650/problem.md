@@ -1,13 +1,13 @@
 ---
-title: Highway of the Future
-special_judge: false
-time_limit: 10 초
-memory_limit: 128 MB
+title: "Highway of the Future"
+special_judge: "false"
+time_limit: "10 초"
+memory_limit: "128 MB"
 submissions: 62
 accepted: 9
 solved_users: 9
-acceptance_rate: 21.951%
-collected_at: 2026-04-17T12:12:26.497667+00:00
+acceptance_rate: "21.951%"
+collected_at: "2026-04-17T12:12:26.497667+00:00"
 ---
 
 ## 문제

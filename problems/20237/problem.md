@@ -1,13 +1,13 @@
 ---
-title: Futures Market Trends
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Futures Market Trends"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 52
 accepted: 27
 solved_users: 24
-acceptance_rate: 48.980%
-collected_at: 2026-04-17T15:33:26.515977+00:00
+acceptance_rate: "48.980%"
+collected_at: "2026-04-17T15:33:26.515977+00:00"
 ---
 
 ## 문제

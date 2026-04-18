@@ -1,13 +1,13 @@
 ---
-title: 컨벤션 센터
-special_judge: false
-time_limit: 2 초
-memory_limit: 64 MB
+title: "컨벤션 센터"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "64 MB"
 submissions: 742
 accepted: 173
 solved_users: 150
-acceptance_rate: 26.042%
-collected_at: 2026-04-17T10:54:36.843440+00:00
+acceptance_rate: "26.042%"
+collected_at: "2026-04-17T10:54:36.843440+00:00"
 ---
 
 ## 문제

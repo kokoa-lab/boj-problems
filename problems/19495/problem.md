@@ -1,13 +1,13 @@
 ---
-title: Square Function
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "Square Function"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 37
 accepted: 11
 solved_users: 10
-acceptance_rate: 30.303%
-collected_at: 2026-04-17T15:21:22.175317+00:00
+acceptance_rate: "30.303%"
+collected_at: "2026-04-17T15:21:22.175317+00:00"
 ---
 
 ## 문제

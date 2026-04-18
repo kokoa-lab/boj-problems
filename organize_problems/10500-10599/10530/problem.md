@@ -1,13 +1,13 @@
 ---
-title: Flowery Trails
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "Flowery Trails"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 171
 accepted: 94
 solved_users: 76
-acceptance_rate: 63.333%
-collected_at: 2026-04-17T12:25:04.921577+00:00
+acceptance_rate: "63.333%"
+collected_at: "2026-04-17T12:25:04.921577+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Scheduling
-special_judge: true
-time_limit: 3 초
-memory_limit: 2048 MB
+title: "Scheduling"
+special_judge: "true"
+time_limit: "3 초"
+memory_limit: "2048 MB"
 submissions: 15
 accepted: 2
 solved_users: 2
-acceptance_rate: 18.182%
-collected_at: 2026-04-17T20:13:09.109635+00:00
+acceptance_rate: "18.182%"
+collected_at: "2026-04-17T20:13:09.109635+00:00"
 ---
 
 ## 문제

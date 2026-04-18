@@ -1,13 +1,13 @@
 ---
-title: Konj
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Konj"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 55
 accepted: 34
 solved_users: 27
-acceptance_rate: 61.364%
-collected_at: 2026-04-17T14:28:42.941504+00:00
+acceptance_rate: "61.364%"
+collected_at: "2026-04-17T14:28:42.941504+00:00"
 ---
 
 ## 문제

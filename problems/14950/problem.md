@@ -1,13 +1,13 @@
 ---
-title: 정복자
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "정복자"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 3145
 accepted: 1876
 solved_users: 1528
-acceptance_rate: 58.187%
-collected_at: 2026-04-17T13:46:41.055089+00:00
+acceptance_rate: "58.187%"
+collected_at: "2026-04-17T13:46:41.055089+00:00"
 ---
 
 ## 문제

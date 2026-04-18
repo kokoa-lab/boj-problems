@@ -1,13 +1,13 @@
 ---
-title: 합 찾기
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "합 찾기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 174
 accepted: 113
 solved_users: 90
-acceptance_rate: 79.646%
-collected_at: 2026-04-17T11:52:57.353825+00:00
+acceptance_rate: "79.646%"
+collected_at: "2026-04-17T11:52:57.353825+00:00"
 ---
 
 ## 문제

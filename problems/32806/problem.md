@@ -1,13 +1,13 @@
 ---
-title: Average Substring Value
-special_judge: false
-time_limit: 1 초
-memory_limit: 2048 MB
+title: "Average Substring Value"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "2048 MB"
 submissions: 52
 accepted: 29
 solved_users: 25
-acceptance_rate: 54.348%
-collected_at: 2026-04-17T20:01:46.092637+00:00
+acceptance_rate: "54.348%"
+collected_at: "2026-04-17T20:01:46.092637+00:00"
 ---
 
 ## 문제

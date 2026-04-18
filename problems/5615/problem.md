@@ -1,13 +1,13 @@
 ---
-title: 아파트 임대
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "아파트 임대"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 12596
 accepted: 3100
 solved_users: 1679
-acceptance_rate: 21.037%
-collected_at: 2026-04-17T11:15:59.743626+00:00
+acceptance_rate: "21.037%"
+collected_at: "2026-04-17T11:15:59.743626+00:00"
 ---
 
 ## 문제

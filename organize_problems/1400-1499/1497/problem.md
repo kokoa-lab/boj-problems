@@ -1,13 +1,13 @@
 ---
-title: 기타콘서트
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "기타콘서트"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 4683
 accepted: 1721
 solved_users: 1282
-acceptance_rate: 35.572%
-collected_at: 2026-04-17T10:30:38.901605+00:00
+acceptance_rate: "35.572%"
+collected_at: "2026-04-17T10:30:38.901605+00:00"
 ---
 
 ## 문제

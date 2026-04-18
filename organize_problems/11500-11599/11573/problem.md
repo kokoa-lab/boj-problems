@@ -1,13 +1,13 @@
 ---
-title: 몬스터
-special_judge: true
-time_limit: 2 초
-memory_limit: 256 MB
+title: "몬스터"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 172
 accepted: 106
 solved_users: 88
-acceptance_rate: 62.411%
-collected_at: 2026-04-17T12:42:23.162041+00:00
+acceptance_rate: "62.411%"
+collected_at: "2026-04-17T12:42:23.162041+00:00"
 ---
 
 ## 문제

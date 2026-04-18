@@ -1,13 +1,13 @@
 ---
-title: Acrobat
-special_judge: true
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Acrobat"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 228
 accepted: 52
 solved_users: 29
-acceptance_rate: 19.463%
-collected_at: 2026-04-17T13:23:17.424625+00:00
+acceptance_rate: "19.463%"
+collected_at: "2026-04-17T13:23:17.424625+00:00"
 ---
 
 ## 문제

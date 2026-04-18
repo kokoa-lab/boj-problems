@@ -1,13 +1,13 @@
 ---
-title: Queuing at the doctors
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Queuing at the doctors"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 31
 accepted: 12
 solved_users: 11
-acceptance_rate: 78.571%
-collected_at: 2026-04-17T10:33:47.790186+00:00
+acceptance_rate: "78.571%"
+collected_at: "2026-04-17T10:33:47.790186+00:00"
 ---
 
 ## 문제

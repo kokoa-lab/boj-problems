@@ -1,13 +1,13 @@
 ---
-title: 차이를 최소로
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "차이를 최소로"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 3003
 accepted: 748
 solved_users: 511
-acceptance_rate: 32.569%
-collected_at: 2026-04-17T10:46:38.314323+00:00
+acceptance_rate: "32.569%"
+collected_at: "2026-04-17T10:46:38.314323+00:00"
 ---
 
 ## 문제

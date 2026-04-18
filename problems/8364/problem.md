@@ -1,13 +1,13 @@
 ---
-title: Idempotent Functions
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Idempotent Functions"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 64
 accepted: 37
 solved_users: 33
-acceptance_rate: 61.111%
-collected_at: 2026-04-17T11:58:50.356188+00:00
+acceptance_rate: "61.111%"
+collected_at: "2026-04-17T11:58:50.356188+00:00"
 ---
 
 ## 문제

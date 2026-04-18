@@ -1,13 +1,13 @@
 ---
-title: 데이터 만들기 3
-special_judge: true
-time_limit: 1 초
-memory_limit: 128 MB
+title: "데이터 만들기 3"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 349
 accepted: 169
 solved_users: 153
-acceptance_rate: 51.000%
-collected_at: 2026-04-17T11:46:03.208656+00:00
+acceptance_rate: "51.000%"
+collected_at: "2026-04-17T11:46:03.208656+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 접두사 배열
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "접두사 배열"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 2396
 accepted: 1351
 solved_users: 1142
-acceptance_rate: 59.916%
-collected_at: 2026-04-17T13:11:30.679698+00:00
+acceptance_rate: "59.916%"
+collected_at: "2026-04-17T13:11:30.679698+00:00"
 ---
 
 ## 문제

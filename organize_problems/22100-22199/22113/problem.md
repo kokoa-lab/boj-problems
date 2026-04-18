@@ -1,13 +1,13 @@
 ---
-title: 창영이와 버스
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "창영이와 버스"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 979
 accepted: 754
 solved_users: 666
-acceptance_rate: 80.923%
-collected_at: 2026-04-17T16:14:57.544965+00:00
+acceptance_rate: "80.923%"
+collected_at: "2026-04-17T16:14:57.544965+00:00"
 ---
 
 ## 문제

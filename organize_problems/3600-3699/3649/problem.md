@@ -1,13 +1,13 @@
 ---
-title: 로봇 프로젝트
-special_judge: false
-time_limit: 5 초
-memory_limit: 256 MB
+title: "로봇 프로젝트"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "256 MB"
 submissions: 19744
 accepted: 4244
 solved_users: 2918
-acceptance_rate: 19.614%
-collected_at: 2026-04-17T10:50:32.530648+00:00
+acceptance_rate: "19.614%"
+collected_at: "2026-04-17T10:50:32.530648+00:00"
 ---
 
 ## 문제

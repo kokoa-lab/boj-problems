@@ -1,13 +1,13 @@
 ---
-title: List of Unique Numbers
-special_judge: false
-time_limit: 1 초
-memory_limit: 32 MB
+title: "List of Unique Numbers"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "32 MB"
 submissions: 15389
 accepted: 5790
 solved_users: 4191
-acceptance_rate: 35.668%
-collected_at: 2026-04-17T13:08:04.392675+00:00
+acceptance_rate: "35.668%"
+collected_at: "2026-04-17T13:08:04.392675+00:00"
 ---
 
 ## 문제

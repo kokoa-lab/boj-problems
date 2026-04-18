@@ -1,13 +1,13 @@
 ---
-title: Orecart Boba Easy
-special_judge: false
-time_limit: 1 초
-memory_limit: 2048 MB
+title: "Orecart Boba Easy"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "2048 MB"
 submissions: 71
 accepted: 38
 solved_users: 25
-acceptance_rate: 46.296%
-collected_at: 2026-04-17T20:34:51.931054+00:00
+acceptance_rate: "46.296%"
+collected_at: "2026-04-17T20:34:51.931054+00:00"
 ---
 
 ## 문제

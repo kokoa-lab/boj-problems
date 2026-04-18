@@ -1,13 +1,13 @@
 ---
-title: 유니대전 퀴즈쇼
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "유니대전 퀴즈쇼"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 1241
 accepted: 953
 solved_users: 879
-acceptance_rate: 79.909%
-collected_at: 2026-04-17T15:35:33.254451+00:00
+acceptance_rate: "79.909%"
+collected_at: "2026-04-17T15:35:33.254451+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Iceberg Orders
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Iceberg Orders"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 180
 accepted: 31
 solved_users: 10
-acceptance_rate: 13.514%
-collected_at: 2026-04-17T12:45:10.113403+00:00
+acceptance_rate: "13.514%"
+collected_at: "2026-04-17T12:45:10.113403+00:00"
 ---
 
 ## 문제

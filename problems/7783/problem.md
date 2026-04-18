@@ -1,13 +1,13 @@
 ---
-title: B-행렬
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "B-행렬"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 58
 accepted: 27
 solved_users: 25
-acceptance_rate: 49.020%
-collected_at: 2026-04-17T11:52:56.168690+00:00
+acceptance_rate: "49.020%"
+collected_at: "2026-04-17T11:52:56.168690+00:00"
 ---
 
 ## 문제

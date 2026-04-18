@@ -1,13 +1,13 @@
 ---
-title: Shape Number
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "Shape Number"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 41
 accepted: 21
 solved_users: 9
-acceptance_rate: 33.333%
-collected_at: 2026-04-17T11:08:47.357946+00:00
+acceptance_rate: "33.333%"
+collected_at: "2026-04-17T11:08:47.357946+00:00"
 ---
 
 ## 문제

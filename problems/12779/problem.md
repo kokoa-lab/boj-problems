@@ -1,13 +1,13 @@
 ---
-title: 상품 is 뭔들
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "상품 is 뭔들"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 3702
 accepted: 554
 solved_users: 411
-acceptance_rate: 24.248%
-collected_at: 2026-04-17T13:01:15.213439+00:00
+acceptance_rate: "24.248%"
+collected_at: "2026-04-17T13:01:15.213439+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Walking the Plank
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Walking the Plank"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 4
 accepted: 2
 solved_users: 2
-acceptance_rate: 100.000%
-collected_at: 2026-04-17T11:13:29.107695+00:00
+acceptance_rate: "100.000%"
+collected_at: "2026-04-17T11:13:29.107695+00:00"
 ---
 
 ## 문제

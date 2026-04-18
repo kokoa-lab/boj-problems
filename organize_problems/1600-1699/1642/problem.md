@@ -1,13 +1,13 @@
 ---
-title: 딱따구리
-special_judge: false
-time_limit: 10 초
-memory_limit: 128 MB
+title: "딱따구리"
+special_judge: "false"
+time_limit: "10 초"
+memory_limit: "128 MB"
 submissions: 218
 accepted: 32
 solved_users: 27
-acceptance_rate: 18.000%
-collected_at: 2026-04-17T10:31:52.945620+00:00
+acceptance_rate: "18.000%"
+collected_at: "2026-04-17T10:31:52.945620+00:00"
 ---
 
 ## 문제

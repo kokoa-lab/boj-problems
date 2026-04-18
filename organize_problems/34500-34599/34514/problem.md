@@ -1,13 +1,13 @@
 ---
-title: FFT
-special_judge: true
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "FFT"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 503
 accepted: 83
 solved_users: 28
-acceptance_rate: 9.689%
-collected_at: 2026-04-17T20:41:41.673746+00:00
+acceptance_rate: "9.689%"
+collected_at: "2026-04-17T20:41:41.673746+00:00"
 ---
 
 ## 문제

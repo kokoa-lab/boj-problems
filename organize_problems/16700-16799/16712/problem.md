@@ -1,13 +1,13 @@
 ---
-title: Finding Love
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Finding Love"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 375
 accepted: 194
 solved_users: 167
-acceptance_rate: 55.116%
-collected_at: 2026-04-17T14:22:50.186204+00:00
+acceptance_rate: "55.116%"
+collected_at: "2026-04-17T14:22:50.186204+00:00"
 ---
 
 ## 문제

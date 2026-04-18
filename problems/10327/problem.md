@@ -1,13 +1,13 @@
 ---
-title: 피보나치 문제해결전략
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "피보나치 문제해결전략"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 601
 accepted: 294
 solved_users: 206
-acceptance_rate: 48.244%
-collected_at: 2026-04-17T12:22:01.377330+00:00
+acceptance_rate: "48.244%"
+collected_at: "2026-04-17T12:22:01.377330+00:00"
 ---
 
 ## 문제

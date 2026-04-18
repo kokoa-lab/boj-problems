@@ -1,13 +1,13 @@
 ---
-title: 고득점
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "고득점"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 1709
 accepted: 420
 solved_users: 332
-acceptance_rate: 30.999%
-collected_at: 2026-04-17T10:50:39.646172+00:00
+acceptance_rate: "30.999%"
+collected_at: "2026-04-17T10:50:39.646172+00:00"
 ---
 
 ## 문제

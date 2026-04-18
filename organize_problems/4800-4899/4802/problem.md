@@ -1,13 +1,13 @@
 ---
-title: 함수 오버로딩
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "함수 오버로딩"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 24
 accepted: 5
 solved_users: 4
-acceptance_rate: 23.529%
-collected_at: 2026-04-17T11:08:40.654066+00:00
+acceptance_rate: "23.529%"
+collected_at: "2026-04-17T11:08:40.654066+00:00"
 ---
 
 ## 문제

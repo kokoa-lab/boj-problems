@@ -1,13 +1,13 @@
 ---
-title: Conquering A Castle
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Conquering A Castle"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 185
 accepted: 85
 solved_users: 73
-acceptance_rate: 49.324%
-collected_at: 2026-04-17T14:34:19.487058+00:00
+acceptance_rate: "49.324%"
+collected_at: "2026-04-17T14:34:19.487058+00:00"
 ---
 
 ## 문제

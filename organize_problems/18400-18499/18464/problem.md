@@ -1,13 +1,13 @@
 ---
-title: Giant Penguin
-special_judge: false
-time_limit: 3 초
-memory_limit: 512 MB
+title: "Giant Penguin"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "512 MB"
 submissions: 30
 accepted: 17
 solved_users: 15
-acceptance_rate: 65.217%
-collected_at: 2026-04-17T15:05:17.344076+00:00
+acceptance_rate: "65.217%"
+collected_at: "2026-04-17T15:05:17.344076+00:00"
 ---
 
 ## 문제

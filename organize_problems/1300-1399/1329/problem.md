@@ -1,13 +1,13 @@
 ---
-title: 증가 수열
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "증가 수열"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 663
 accepted: 70
 solved_users: 48
-acceptance_rate: 14.502%
-collected_at: 2026-04-17T10:29:28.868754+00:00
+acceptance_rate: "14.502%"
+collected_at: "2026-04-17T10:29:28.868754+00:00"
 ---
 
 ## 문제

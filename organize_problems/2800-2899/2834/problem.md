@@ -1,13 +1,13 @@
 ---
-title: 박스 정렬
-special_judge: true
-time_limit: 1 초
-memory_limit: 128 MB
+title: "박스 정렬"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 295
 accepted: 64
 solved_users: 61
-acceptance_rate: 29.048%
-collected_at: 2026-04-17T10:45:11.851858+00:00
+acceptance_rate: "29.048%"
+collected_at: "2026-04-17T10:45:11.851858+00:00"
 ---
 
 ## 문제

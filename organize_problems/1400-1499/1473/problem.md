@@ -1,13 +1,13 @@
 ---
-title: 미로 탈출
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "미로 탈출"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 1199
 accepted: 223
 solved_users: 144
-acceptance_rate: 23.684%
-collected_at: 2026-04-17T10:30:26.779262+00:00
+acceptance_rate: "23.684%"
+collected_at: "2026-04-17T10:30:26.779262+00:00"
 ---
 
 ## 문제

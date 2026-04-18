@@ -1,13 +1,13 @@
 ---
-title: Compiler
-special_judge: true
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Compiler"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 77
 accepted: 30
 solved_users: 19
-acceptance_rate: 34.545%
-collected_at: 2026-04-17T13:14:36.271555+00:00
+acceptance_rate: "34.545%"
+collected_at: "2026-04-17T13:14:36.271555+00:00"
 ---
 
 ## 문제

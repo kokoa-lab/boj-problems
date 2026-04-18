@@ -1,13 +1,13 @@
 ---
-title: 편지 돌리기
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "편지 돌리기"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 92
 accepted: 16
 solved_users: 12
-acceptance_rate: 20.690%
-collected_at: 2026-04-17T18:01:34.559960+00:00
+acceptance_rate: "20.690%"
+collected_at: "2026-04-17T18:01:34.559960+00:00"
 ---
 
 ## 문제

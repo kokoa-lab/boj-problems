@@ -1,13 +1,13 @@
 ---
-title: 좋은 암호
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "좋은 암호"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 6175
 accepted: 2493
 solved_users: 2172
-acceptance_rate: 45.156%
-collected_at: 2026-04-17T10:37:51.296110+00:00
+acceptance_rate: "45.156%"
+collected_at: "2026-04-17T10:37:51.296110+00:00"
 ---
 
 ## 문제

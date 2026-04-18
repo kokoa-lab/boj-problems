@@ -1,13 +1,13 @@
 ---
-title: Minions’ Master
-special_judge: false
-time_limit: 3 초
-memory_limit: 256 MB
+title: "Minions’ Master"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "256 MB"
 submissions: 718
 accepted: 190
 solved_users: 142
-acceptance_rate: 27.626%
-collected_at: 2026-04-17T12:38:53.420215+00:00
+acceptance_rate: "27.626%"
+collected_at: "2026-04-17T12:38:53.420215+00:00"
 ---
 
 ## 문제

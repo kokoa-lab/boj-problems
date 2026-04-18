@@ -1,13 +1,13 @@
 ---
-title: 트리 재구성하기
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "트리 재구성하기"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 115
 accepted: 54
 solved_users: 44
-acceptance_rate: 50.575%
-collected_at: 2026-04-17T19:16:30.477209+00:00
+acceptance_rate: "50.575%"
+collected_at: "2026-04-17T19:16:30.477209+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Flowey's Love
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Flowey's Love"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 82
 accepted: 19
 solved_users: 15
-acceptance_rate: 22.059%
-collected_at: 2026-04-17T13:08:28.530239+00:00
+acceptance_rate: "22.059%"
+collected_at: "2026-04-17T13:08:28.530239+00:00"
 ---
 
 ## 문제

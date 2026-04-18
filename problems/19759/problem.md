@@ -1,13 +1,13 @@
 ---
-title: <<Кто хочет стать миллионером?>>
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "<<Кто хочет стать миллионером?>>"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 300
 accepted: 158
 solved_users: 129
-acceptance_rate: 50.195%
-collected_at: 2026-04-17T15:27:17.974786+00:00
+acceptance_rate: "50.195%"
+collected_at: "2026-04-17T15:27:17.974786+00:00"
 ---
 
 ## 문제

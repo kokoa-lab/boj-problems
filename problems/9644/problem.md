@@ -1,13 +1,13 @@
 ---
-title: Battle for Silver
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Battle for Silver"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 115
 accepted: 55
 solved_users: 47
-acceptance_rate: 44.762%
-collected_at: 2026-04-17T12:12:22.193048+00:00
+acceptance_rate: "44.762%"
+collected_at: "2026-04-17T12:12:22.193048+00:00"
 ---
 
 ## 문제

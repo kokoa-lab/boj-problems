@@ -1,13 +1,13 @@
 ---
-title: gahui and sousenkyo 4
-special_judge: true
-time_limit: 1 초
-memory_limit: 512 MB
+title: "gahui and sousenkyo 4"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 241
 accepted: 98
 solved_users: 86
-acceptance_rate: 43.434%
-collected_at: 2026-04-17T19:15:45.994289+00:00
+acceptance_rate: "43.434%"
+collected_at: "2026-04-17T19:15:45.994289+00:00"
 ---
 
 ## 문제

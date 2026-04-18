@@ -1,13 +1,13 @@
 ---
-title: A1 Paper
-special_judge: true
-time_limit: 1 초
-memory_limit: 256 MB
+title: "A1 Paper"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 51
 accepted: 38
 solved_users: 31
-acceptance_rate: 81.579%
-collected_at: 2026-04-17T12:38:10.756156+00:00
+acceptance_rate: "81.579%"
+collected_at: "2026-04-17T12:38:10.756156+00:00"
 ---
 
 ## 문제

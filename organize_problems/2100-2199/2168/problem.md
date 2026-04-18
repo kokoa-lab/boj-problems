@@ -1,13 +1,13 @@
 ---
-title: 타일 위의 대각선
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "타일 위의 대각선"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 2558
 accepted: 1390
 solved_users: 1203
-acceptance_rate: 56.745%
-collected_at: 2026-04-17T10:39:08.419311+00:00
+acceptance_rate: "56.745%"
+collected_at: "2026-04-17T10:39:08.419311+00:00"
 ---
 
 ## 문제

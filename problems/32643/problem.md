@@ -1,13 +1,13 @@
 ---
-title: 정민이의 수열 제조법
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "정민이의 수열 제조법"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 462
 accepted: 207
 solved_users: 174
-acceptance_rate: 49.432%
-collected_at: 2026-04-17T19:58:17.784592+00:00
+acceptance_rate: "49.432%"
+collected_at: "2026-04-17T19:58:17.784592+00:00"
 ---
 
 ## 문제

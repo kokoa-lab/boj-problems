@@ -1,13 +1,13 @@
 ---
-title: Assembly Required
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Assembly Required"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 62
 accepted: 38
 solved_users: 29
-acceptance_rate: 56.863%
-collected_at: 2026-04-17T13:35:35.476217+00:00
+acceptance_rate: "56.863%"
+collected_at: "2026-04-17T13:35:35.476217+00:00"
 ---
 
 ## 문제

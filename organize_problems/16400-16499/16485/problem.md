@@ -1,13 +1,13 @@
 ---
-title: 작도하자! - ②
-special_judge: true
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "작도하자! - ②"
+special_judge: "true"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 1607
 accepted: 1276
 solved_users: 1109
-acceptance_rate: 82.331%
-collected_at: 2026-04-17T14:18:48.265410+00:00
+acceptance_rate: "82.331%"
+collected_at: "2026-04-17T14:18:48.265410+00:00"
 ---
 
 ## 문제

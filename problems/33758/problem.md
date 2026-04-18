@@ -1,13 +1,13 @@
 ---
-title: 계단 보행
-special_judge: false
-time_limit: 3 초
-memory_limit: 2048 MB
+title: "계단 보행"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "2048 MB"
 submissions: 259
 accepted: 54
 solved_users: 33
-acceptance_rate: 23.571%
-collected_at: 2026-04-17T20:23:02.939963+00:00
+acceptance_rate: "23.571%"
+collected_at: "2026-04-17T20:23:02.939963+00:00"
 ---
 
 ## 문제

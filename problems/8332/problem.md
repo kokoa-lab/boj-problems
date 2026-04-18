@@ -1,13 +1,13 @@
 ---
-title: Cakes
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Cakes"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 43
 accepted: 9
 solved_users: 7
-acceptance_rate: 63.636%
-collected_at: 2026-04-18T09:58:32.748368+00:00
+acceptance_rate: "63.636%"
+collected_at: "2026-04-18T09:58:32.748368+00:00"
 ---
 
 ## 문제

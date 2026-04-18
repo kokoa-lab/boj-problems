@@ -1,13 +1,13 @@
 ---
-title: Go Northwest!
-special_judge: true
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Go Northwest!"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 47
 accepted: 33
 solved_users: 29
-acceptance_rate: 74.359%
-collected_at: 2026-04-17T13:47:36.626870+00:00
+acceptance_rate: "74.359%"
+collected_at: "2026-04-17T13:47:36.626870+00:00"
 ---
 
 ## 문제

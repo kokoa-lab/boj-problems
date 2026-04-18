@@ -1,13 +1,13 @@
 ---
-title: 가희와 전기 요금 1
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "가희와 전기 요금 1"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 734
 accepted: 262
 solved_users: 233
-acceptance_rate: 37.220%
-collected_at: 2026-04-17T20:01:04.612872+00:00
+acceptance_rate: "37.220%"
+collected_at: "2026-04-17T20:01:04.612872+00:00"
 ---
 
 ## 문제

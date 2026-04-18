@@ -1,13 +1,13 @@
 ---
-title: 팰린드롬 날짜
-special_judge: false
-time_limit: 5 초
-memory_limit: 128 MB
+title: "팰린드롬 날짜"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "128 MB"
 submissions: 280
 accepted: 38
 solved_users: 15
-acceptance_rate: 9.868%
-collected_at: 2026-04-17T10:51:20.794617+00:00
+acceptance_rate: "9.868%"
+collected_at: "2026-04-17T10:51:20.794617+00:00"
 ---
 
 ## 문제

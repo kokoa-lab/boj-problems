@@ -1,13 +1,13 @@
 ---
-title: Wordle with Friends
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Wordle with Friends"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 96
 accepted: 23
 solved_users: 20
-acceptance_rate: 35.088%
-collected_at: 2026-04-17T17:14:35.547256+00:00
+acceptance_rate: "35.088%"
+collected_at: "2026-04-17T17:14:35.547256+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 갈래의 색종이 자르기
-special_judge: false
-time_limit: 0.5 초
-memory_limit: 1024 MB
+title: "갈래의 색종이 자르기"
+special_judge: "false"
+time_limit: "0.5 초"
+memory_limit: "1024 MB"
 submissions: 1847
 accepted: 1279
 solved_users: 1190
-acceptance_rate: 69.795%
-collected_at: 2026-04-17T19:28:52.151504+00:00
+acceptance_rate: "69.795%"
+collected_at: "2026-04-17T19:28:52.151504+00:00"
 ---
 
 ## 문제

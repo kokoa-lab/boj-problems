@@ -1,13 +1,13 @@
 ---
-title: 피자 배치
-special_judge: true
-time_limit: 1 초
-memory_limit: 256 MB
+title: "피자 배치"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 605
 accepted: 163
 solved_users: 132
-acceptance_rate: 30.913%
-collected_at: 2026-04-17T13:09:16.051490+00:00
+acceptance_rate: "30.913%"
+collected_at: "2026-04-17T13:09:16.051490+00:00"
 ---
 
 ## 문제

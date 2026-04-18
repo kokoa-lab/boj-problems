@@ -1,13 +1,13 @@
 ---
-title: 중복 없는 님 게임
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "중복 없는 님 게임"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 282
 accepted: 186
 solved_users: 147
-acceptance_rate: 60.744%
-collected_at: 2026-04-17T14:25:46.179931+00:00
+acceptance_rate: "60.744%"
+collected_at: "2026-04-17T14:25:46.179931+00:00"
 ---
 
 ## 문제

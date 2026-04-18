@@ -1,13 +1,13 @@
 ---
-title: The Bovine Fire Drill
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "The Bovine Fire Drill"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 374
 accepted: 166
 solved_users: 148
-acceptance_rate: 44.179%
-collected_at: 2026-04-17T11:19:05.487027+00:00
+acceptance_rate: "44.179%"
+collected_at: "2026-04-17T11:19:05.487027+00:00"
 ---
 
 ## 문제

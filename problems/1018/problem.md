@@ -1,13 +1,13 @@
 ---
-title: 체스판 다시 칠하기
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "체스판 다시 칠하기"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 165806
 accepted: 85592
 solved_users: 67924
-acceptance_rate: 51.368%
-collected_at: 2026-04-17T10:27:41.636286+00:00
+acceptance_rate: "51.368%"
+collected_at: "2026-04-17T10:27:41.636286+00:00"
 ---
 
 ## 문제

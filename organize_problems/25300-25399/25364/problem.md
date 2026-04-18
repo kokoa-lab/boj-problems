@@ -1,13 +1,13 @@
 ---
-title: Job Lookup
-special_judge: false
-time_limit: 3 초
-memory_limit: 512 MB
+title: "Job Lookup"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "512 MB"
 submissions: 75
 accepted: 39
 solved_users: 35
-acceptance_rate: 53.030%
-collected_at: 2026-04-17T17:25:39.858984+00:00
+acceptance_rate: "53.030%"
+collected_at: "2026-04-17T17:25:39.858984+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: M-Climb
-special_judge: false
-time_limit: 1 초
-memory_limit: 2048 MB
+title: "M-Climb"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "2048 MB"
 submissions: 1000
 accepted: 926
 solved_users: 877
-acceptance_rate: 93.100%
-collected_at: 2026-04-17T20:38:05.484980+00:00
+acceptance_rate: "93.100%"
+collected_at: "2026-04-17T20:38:05.484980+00:00"
 ---
 
 ## 문제

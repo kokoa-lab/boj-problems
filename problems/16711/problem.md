@@ -1,13 +1,13 @@
 ---
-title: Erasing Matrix
-special_judge: true
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Erasing Matrix"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 313
 accepted: 88
 solved_users: 74
-acceptance_rate: 33.790%
-collected_at: 2026-04-17T14:22:52.325311+00:00
+acceptance_rate: "33.790%"
+collected_at: "2026-04-17T14:22:52.325311+00:00"
 ---
 
 ## 문제

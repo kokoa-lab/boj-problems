@@ -1,13 +1,13 @@
 ---
-title: 당구 좀 치자 제발
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "당구 좀 치자 제발"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 2071
 accepted: 1391
 solved_users: 1276
-acceptance_rate: 67.549%
-collected_at: 2026-04-17T19:58:16.202979+00:00
+acceptance_rate: "67.549%"
+collected_at: "2026-04-17T19:58:16.202979+00:00"
 ---
 
 ## 문제

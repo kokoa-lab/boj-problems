@@ -1,13 +1,13 @@
 ---
-title: Tree Separator
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Tree Separator"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 106
 accepted: 56
 solved_users: 46
-acceptance_rate: 54.762%
-collected_at: 2026-04-17T14:00:56.505246+00:00
+acceptance_rate: "54.762%"
+collected_at: "2026-04-17T14:00:56.505246+00:00"
 ---
 
 ## 문제

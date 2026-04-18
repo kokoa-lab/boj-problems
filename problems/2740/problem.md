@@ -1,13 +1,13 @@
 ---
-title: 행렬 곱셈
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "행렬 곱셈"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 24931
 accepted: 17010
 solved_users: 14821
-acceptance_rate: 69.260%
-collected_at: 2026-04-17T10:44:24.951867+00:00
+acceptance_rate: "69.260%"
+collected_at: "2026-04-17T10:44:24.951867+00:00"
 ---
 
 ## 문제

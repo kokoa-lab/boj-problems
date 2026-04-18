@@ -1,13 +1,13 @@
 ---
-title: 구와 쿼리
-special_judge: false
-time_limit: 20 초
-memory_limit: 512 MB
+title: "구와 쿼리"
+special_judge: "false"
+time_limit: "20 초"
+memory_limit: "512 MB"
 submissions: 2166
 accepted: 584
 solved_users: 324
-acceptance_rate: 25.432%
-collected_at: 2026-04-17T13:15:13.161836+00:00
+acceptance_rate: "25.432%"
+collected_at: "2026-04-17T13:15:13.161836+00:00"
 ---
 
 ## 문제

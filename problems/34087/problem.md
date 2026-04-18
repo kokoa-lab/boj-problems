@@ -1,13 +1,13 @@
 ---
-title: 중력 발전소
-special_judge: false
-time_limit: 3 초 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "중력 발전소"
+special_judge: "false"
+time_limit: "3 초 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 172
 accepted: 92
 solved_users: 76
-acceptance_rate: 55.474%
-collected_at: 2026-04-17T20:30:10.968934+00:00
+acceptance_rate: "55.474%"
+collected_at: "2026-04-17T20:30:10.968934+00:00"
 ---
 
 ## 문제

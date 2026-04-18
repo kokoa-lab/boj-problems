@@ -1,13 +1,13 @@
 ---
-title: Leaking Dike
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Leaking Dike"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 83
 accepted: 79
 solved_users: 71
-acceptance_rate: 94.667%
-collected_at: 2026-04-17T11:24:06.031006+00:00
+acceptance_rate: "94.667%"
+collected_at: "2026-04-17T11:24:06.031006+00:00"
 ---
 
 ## 문제

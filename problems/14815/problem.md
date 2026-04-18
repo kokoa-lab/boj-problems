@@ -1,13 +1,13 @@
 ---
-title: Fresh Chocolate (Small)
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Fresh Chocolate (Small)"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 158
 accepted: 107
 solved_users: 92
-acceptance_rate: 67.153%
-collected_at: 2026-04-17T13:42:18.279234+00:00
+acceptance_rate: "67.153%"
+collected_at: "2026-04-17T13:42:18.279234+00:00"
 ---
 
 ## 문제

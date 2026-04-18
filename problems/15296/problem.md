@@ -1,13 +1,13 @@
 ---
-title: Sum Squared Digits Function
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Sum Squared Digits Function"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 243
 accepted: 196
 solved_users: 163
-acceptance_rate: 89.560%
-collected_at: 2026-04-17T13:56:37.206909+00:00
+acceptance_rate: "89.560%"
+collected_at: "2026-04-17T13:56:37.206909+00:00"
 ---
 
 ## 문제

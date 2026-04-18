@@ -1,13 +1,13 @@
 ---
-title: Travelling Tom
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Travelling Tom"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 98
 accepted: 44
 solved_users: 40
-acceptance_rate: 51.948%
-collected_at: 2026-04-17T12:37:12.827140+00:00
+acceptance_rate: "51.948%"
+collected_at: "2026-04-17T12:37:12.827140+00:00"
 ---
 
 ## 문제

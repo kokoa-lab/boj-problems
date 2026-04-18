@@ -1,13 +1,13 @@
 ---
-title: Grid
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "Grid"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 8
 accepted: 3
 solved_users: 2
-acceptance_rate: 100.000%
-collected_at: 2026-04-17T15:14:46.953194+00:00
+acceptance_rate: "100.000%"
+collected_at: "2026-04-17T15:14:46.953194+00:00"
 ---
 
 ## 문제

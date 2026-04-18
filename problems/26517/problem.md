@@ -1,13 +1,13 @@
 ---
-title: 연속인가? ?
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "연속인가? ?"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 2875
 accepted: 1641
 solved_users: 1530
-acceptance_rate: 58.308%
-collected_at: 2026-04-17T17:47:03.345945+00:00
+acceptance_rate: "58.308%"
+collected_at: "2026-04-17T17:47:03.345945+00:00"
 ---
 
 ## 문제

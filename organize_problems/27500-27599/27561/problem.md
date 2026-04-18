@@ -1,13 +1,13 @@
 ---
-title: Leaders
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Leaders"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 649
 accepted: 264
 solved_users: 213
-acceptance_rate: 41.929%
-collected_at: 2026-04-17T18:06:33.825546+00:00
+acceptance_rate: "41.929%"
+collected_at: "2026-04-17T18:06:33.825546+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 아리스, 청소합니다! (Hard)
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "아리스, 청소합니다! (Hard)"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 944
 accepted: 122
 solved_users: 80
-acceptance_rate: 17.660%
-collected_at: 2026-04-17T19:27:28.769338+00:00
+acceptance_rate: "17.660%"
+collected_at: "2026-04-17T19:27:28.769338+00:00"
 ---
 
 ## 문제

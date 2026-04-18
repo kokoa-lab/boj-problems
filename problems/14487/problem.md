@@ -1,13 +1,13 @@
 ---
-title: 욱제는 효도쟁이야!!
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "욱제는 효도쟁이야!!"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 5015
 accepted: 3850
 solved_users: 3408
-acceptance_rate: 77.402%
-collected_at: 2026-04-17T13:35:56.517128+00:00
+acceptance_rate: "77.402%"
+collected_at: "2026-04-17T13:35:56.517128+00:00"
 ---
 
 ## 문제

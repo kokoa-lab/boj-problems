@@ -1,13 +1,13 @@
 ---
-title: 현욱은 괄호왕이야!!
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "현욱은 괄호왕이야!!"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 5506
 accepted: 1920
 solved_users: 1253
-acceptance_rate: 32.402%
-collected_at: 2026-04-17T14:08:43.693859+00:00
+acceptance_rate: "32.402%"
+collected_at: "2026-04-17T14:08:43.693859+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Shooter Island
-special_judge: false
-time_limit: 3 초
-memory_limit: 512 MB
+title: "Shooter Island"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "512 MB"
 submissions: 305
 accepted: 64
 solved_users: 54
-acceptance_rate: 22.689%
-collected_at: 2026-04-17T14:22:38.230903+00:00
+acceptance_rate: "22.689%"
+collected_at: "2026-04-17T14:22:38.230903+00:00"
 ---
 
 ## 문제

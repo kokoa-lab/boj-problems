@@ -1,13 +1,13 @@
 ---
-title: 즐거운 회의
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "즐거운 회의"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 702
 accepted: 287
 solved_users: 216
-acceptance_rate: 46.552%
-collected_at: 2026-04-17T19:40:30.661786+00:00
+acceptance_rate: "46.552%"
+collected_at: "2026-04-17T19:40:30.661786+00:00"
 ---
 
 ## 문제

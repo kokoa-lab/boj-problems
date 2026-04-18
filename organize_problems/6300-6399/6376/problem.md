@@ -1,13 +1,13 @@
 ---
-title: e 계산
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "e 계산"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 5460
 accepted: 2213
 solved_users: 1968
-acceptance_rate: 41.336%
-collected_at: 2026-04-17T11:26:49.262283+00:00
+acceptance_rate: "41.336%"
+collected_at: "2026-04-17T11:26:49.262283+00:00"
 ---
 
 ## 문제

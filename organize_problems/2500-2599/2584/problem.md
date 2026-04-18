@@ -1,13 +1,13 @@
 ---
-title: 트리분할
-special_judge: true
-time_limit: 1 초
-memory_limit: 128 MB
+title: "트리분할"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 481
 accepted: 156
 solved_users: 103
-acceptance_rate: 30.383%
-collected_at: 2026-04-17T10:43:00.925350+00:00
+acceptance_rate: "30.383%"
+collected_at: "2026-04-17T10:43:00.925350+00:00"
 ---
 
 ## 문제

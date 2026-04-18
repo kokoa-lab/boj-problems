@@ -1,13 +1,13 @@
 ---
-title: House Moving
-special_judge: false
-time_limit: 3 초
-memory_limit: 512 MB
+title: "House Moving"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "512 MB"
 submissions: 33
 accepted: 22
 solved_users: 22
-acceptance_rate: 70.968%
-collected_at: 2026-04-17T16:22:01.812118+00:00
+acceptance_rate: "70.968%"
+collected_at: "2026-04-17T16:22:01.812118+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Lockout vs tourist
-special_judge: true
-time_limit: 2 초
-memory_limit: 256 MB
+title: "Lockout vs tourist"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 69
 accepted: 16
 solved_users: 14
-acceptance_rate: 30.435%
-collected_at: 2026-04-17T15:47:15.728714+00:00
+acceptance_rate: "30.435%"
+collected_at: "2026-04-17T15:47:15.728714+00:00"
 ---
 
 ## 문제

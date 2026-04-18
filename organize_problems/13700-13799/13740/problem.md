@@ -1,13 +1,13 @@
 ---
-title: Windy Path
-special_judge: true
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Windy Path"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 81
 accepted: 53
 solved_users: 49
-acceptance_rate: 69.014%
-collected_at: 2026-04-17T13:18:19.432483+00:00
+acceptance_rate: "69.014%"
+collected_at: "2026-04-17T13:18:19.432483+00:00"
 ---
 
 ## 문제

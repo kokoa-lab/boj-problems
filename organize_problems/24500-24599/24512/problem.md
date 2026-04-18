@@ -1,13 +1,13 @@
 ---
-title: Bottleneck Travelling Salesman Problem (Small)
-special_judge: true
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "Bottleneck Travelling Salesman Problem (Small)"
+special_judge: "true"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 641
 accepted: 312
 solved_users: 238
-acceptance_rate: 51.627%
-collected_at: 2026-04-17T17:10:24.479977+00:00
+acceptance_rate: "51.627%"
+collected_at: "2026-04-17T17:10:24.479977+00:00"
 ---
 
 ## 문제

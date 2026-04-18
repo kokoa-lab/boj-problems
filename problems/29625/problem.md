@@ -1,13 +1,13 @@
 ---
-title: Три цвета
-special_judge: true
-time_limit: 4 초
-memory_limit: 1024 MB
+title: "Три цвета"
+special_judge: "true"
+time_limit: "4 초"
+memory_limit: "1024 MB"
 submissions: 3
 accepted: 2
 solved_users: 2
-acceptance_rate: 66.667%
-collected_at: 2026-04-17T18:48:58.312009+00:00
+acceptance_rate: "66.667%"
+collected_at: "2026-04-17T18:48:58.312009+00:00"
 ---
 
 ## 문제

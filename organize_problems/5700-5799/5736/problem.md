@@ -1,13 +1,13 @@
 ---
-title: Finding Seats
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Finding Seats"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 35
 accepted: 12
 solved_users: 12
-acceptance_rate: 35.294%
-collected_at: 2026-04-17T11:16:58.681089+00:00
+acceptance_rate: "35.294%"
+collected_at: "2026-04-17T11:16:58.681089+00:00"
 ---
 
 ## 문제

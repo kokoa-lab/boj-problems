@@ -1,13 +1,13 @@
 ---
-title: Scenery
-special_judge: false
-time_limit: 6 초
-memory_limit: 512 MB
+title: "Scenery"
+special_judge: "false"
+time_limit: "6 초"
+memory_limit: "512 MB"
 submissions: 1120
 accepted: 294
 solved_users: 137
-acceptance_rate: 25.370%
-collected_at: 2026-04-17T13:39:42.625277+00:00
+acceptance_rate: "25.370%"
+collected_at: "2026-04-17T13:39:42.625277+00:00"
 ---
 
 ## 문제

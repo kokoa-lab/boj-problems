@@ -1,13 +1,13 @@
 ---
-title: Taldrikute jagamine
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Taldrikute jagamine"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 30
 accepted: 26
 solved_users: 26
-acceptance_rate: 86.667%
-collected_at: 2026-04-17T18:55:30.363074+00:00
+acceptance_rate: "86.667%"
+collected_at: "2026-04-17T18:55:30.363074+00:00"
 ---
 
 ## 문제

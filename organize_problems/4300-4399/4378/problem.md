@@ -1,13 +1,13 @@
 ---
-title: 트ㅏㅊ;
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "트ㅏㅊ;"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 6710
 accepted: 1438
 solved_users: 1242
-acceptance_rate: 23.176%
-collected_at: 2026-04-17T11:00:24.763052+00:00
+acceptance_rate: "23.176%"
+collected_at: "2026-04-17T11:00:24.763052+00:00"
 ---
 
 ## 문제

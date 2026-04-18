@@ -1,13 +1,13 @@
 ---
-title: 두 개의 탑
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "두 개의 탑"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 4076
 accepted: 1609
 solved_users: 1184
-acceptance_rate: 42.529%
-collected_at: 2026-04-17T10:38:32.352888+00:00
+acceptance_rate: "42.529%"
+collected_at: "2026-04-17T10:38:32.352888+00:00"
 ---
 
 ## 문제

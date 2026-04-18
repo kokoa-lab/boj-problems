@@ -1,13 +1,13 @@
 ---
-title: Longest Shortest Path
-special_judge: true
-time_limit: 10 초
-memory_limit: 512 MB
+title: "Longest Shortest Path"
+special_judge: "true"
+time_limit: "10 초"
+memory_limit: "512 MB"
 submissions: 133
 accepted: 42
 solved_users: 30
-acceptance_rate: 26.786%
-collected_at: 2026-04-17T13:07:25.271380+00:00
+acceptance_rate: "26.786%"
+collected_at: "2026-04-17T13:07:25.271380+00:00"
 ---
 
 ## 문제

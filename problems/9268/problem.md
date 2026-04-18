@@ -1,13 +1,13 @@
 ---
-title: Dragon Pattern
-special_judge: false
-time_limit: 5 초
-memory_limit: 128 MB
+title: "Dragon Pattern"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "128 MB"
 submissions: 35
 accepted: 6
 solved_users: 6
-acceptance_rate: 17.143%
-collected_at: 2026-04-17T12:08:24.721730+00:00
+acceptance_rate: "17.143%"
+collected_at: "2026-04-17T12:08:24.721730+00:00"
 ---
 
 ## 문제

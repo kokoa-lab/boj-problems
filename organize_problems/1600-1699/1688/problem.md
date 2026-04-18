@@ -1,13 +1,13 @@
 ---
-title: 지민이의 테러
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "지민이의 테러"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 4460
 accepted: 1022
 solved_users: 710
-acceptance_rate: 23.417%
-collected_at: 2026-04-17T10:32:19.603210+00:00
+acceptance_rate: "23.417%"
+collected_at: "2026-04-17T10:32:19.603210+00:00"
 ---
 
 ## 문제

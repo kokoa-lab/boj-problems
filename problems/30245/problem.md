@@ -1,13 +1,13 @@
 ---
-title: 🧩 N-Queen (mod N)
-special_judge: true
-time_limit: 1 초
-memory_limit: 512 MB
+title: "🧩 N-Queen (mod N)"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 115
 accepted: 44
 solved_users: 35
-acceptance_rate: 43.210%
-collected_at: 2026-04-17T19:01:40.078526+00:00
+acceptance_rate: "43.210%"
+collected_at: "2026-04-17T19:01:40.078526+00:00"
 ---
 
 ## 문제

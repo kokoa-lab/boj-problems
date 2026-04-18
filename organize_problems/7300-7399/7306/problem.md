@@ -1,13 +1,13 @@
 ---
-title: Hey, Pay Day!
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Hey, Pay Day!"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 12
 accepted: 1
 solved_users: 1
-acceptance_rate: 25.000%
-collected_at: 2026-04-17T11:48:10.169621+00:00
+acceptance_rate: "25.000%"
+collected_at: "2026-04-17T11:48:10.169621+00:00"
 ---
 
 ## 문제

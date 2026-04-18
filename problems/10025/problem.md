@@ -1,13 +1,13 @@
 ---
-title: 게으른 백곰
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "게으른 백곰"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 10757
 accepted: 3544
 solved_users: 2520
-acceptance_rate: 31.300%
-collected_at: 2026-04-17T12:17:54.572103+00:00
+acceptance_rate: "31.300%"
+collected_at: "2026-04-17T12:17:54.572103+00:00"
 ---
 
 ## 문제

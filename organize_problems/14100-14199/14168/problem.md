@@ -1,13 +1,13 @@
 ---
-title: Cow Checklist
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Cow Checklist"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 571
 accepted: 242
 solved_users: 212
-acceptance_rate: 42.063%
-collected_at: 2026-04-17T13:27:13.770171+00:00
+acceptance_rate: "42.063%"
+collected_at: "2026-04-17T13:27:13.770171+00:00"
 ---
 
 ## 문제

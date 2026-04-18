@@ -1,13 +1,13 @@
 ---
-title: Hilbert's Maze
-special_judge: false
-time_limit: 5 초
-memory_limit: 256 MB
+title: "Hilbert's Maze"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "256 MB"
 submissions: 14
 accepted: 3
 solved_users: 3
-acceptance_rate: 42.857%
-collected_at: 2026-04-17T15:15:07.980654+00:00
+acceptance_rate: "42.857%"
+collected_at: "2026-04-17T15:15:07.980654+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Lonely Creatures
-special_judge: false
-time_limit: 1 초
-memory_limit: 2048 MB
+title: "Lonely Creatures"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "2048 MB"
 submissions: 19
 accepted: 8
 solved_users: 7
-acceptance_rate: 43.750%
-collected_at: 2026-04-17T21:04:47.352380+00:00
+acceptance_rate: "43.750%"
+collected_at: "2026-04-17T21:04:47.352380+00:00"
 ---
 
 ## 문제

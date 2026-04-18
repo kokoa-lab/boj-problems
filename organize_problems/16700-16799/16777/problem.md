@@ -1,13 +1,13 @@
 ---
-title: Election Campaign
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Election Campaign"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 51
 accepted: 38
 solved_users: 33
-acceptance_rate: 71.739%
-collected_at: 2026-04-17T14:23:51.434683+00:00
+acceptance_rate: "71.739%"
+collected_at: "2026-04-17T14:23:51.434683+00:00"
 ---
 
 ## 문제

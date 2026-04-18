@@ -1,13 +1,13 @@
 ---
-title: 알프스 케이블카 2
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "알프스 케이블카 2"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 310
 accepted: 54
 solved_users: 37
-acceptance_rate: 14.567%
-collected_at: 2026-04-17T17:49:16.162901+00:00
+acceptance_rate: "14.567%"
+collected_at: "2026-04-17T17:49:16.162901+00:00"
 ---
 
 ## 문제

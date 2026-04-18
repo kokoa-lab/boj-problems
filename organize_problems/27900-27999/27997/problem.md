@@ -1,13 +1,13 @@
 ---
-title: Mizuyokan 2
-special_judge: false
-time_limit: 3 초
-memory_limit: 1024 MB
+title: "Mizuyokan 2"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "1024 MB"
 submissions: 130
 accepted: 9
 solved_users: 8
-acceptance_rate: 6.349%
-collected_at: 2026-04-17T18:16:24.458514+00:00
+acceptance_rate: "6.349%"
+collected_at: "2026-04-17T18:16:24.458514+00:00"
 ---
 
 ## 문제

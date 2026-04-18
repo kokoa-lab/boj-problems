@@ -1,13 +1,13 @@
 ---
-title: DNA 유사도
-special_judge: true
-time_limit: 1 초
-memory_limit: 128 MB
+title: "DNA 유사도"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 1486
 accepted: 576
 solved_users: 421
-acceptance_rate: 39.346%
-collected_at: 2026-04-17T10:43:15.969943+00:00
+acceptance_rate: "39.346%"
+collected_at: "2026-04-17T10:43:15.969943+00:00"
 ---
 
 ## 문제

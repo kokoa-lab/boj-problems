@@ -1,13 +1,13 @@
 ---
-title: Fair Share
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Fair Share"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 193
 accepted: 22
 solved_users: 18
-acceptance_rate: 15.385%
-collected_at: 2026-04-17T14:11:26.729493+00:00
+acceptance_rate: "15.385%"
+collected_at: "2026-04-17T14:11:26.729493+00:00"
 ---
 
 ## 문제

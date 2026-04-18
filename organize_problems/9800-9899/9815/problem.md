@@ -1,13 +1,13 @@
 ---
-title: Cabric Number Problem
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Cabric Number Problem"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 307
 accepted: 62
 solved_users: 48
-acceptance_rate: 20.084%
-collected_at: 2026-04-17T12:14:59.788094+00:00
+acceptance_rate: "20.084%"
+collected_at: "2026-04-17T12:14:59.788094+00:00"
 ---
 
 ## 문제

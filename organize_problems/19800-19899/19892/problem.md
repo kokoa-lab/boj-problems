@@ -1,13 +1,13 @@
 ---
-title: Рукопожатия
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Рукопожатия"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 62
 accepted: 31
 solved_users: 24
-acceptance_rate: 58.537%
-collected_at: 2026-04-17T15:29:01.623319+00:00
+acceptance_rate: "58.537%"
+collected_at: "2026-04-17T15:29:01.623319+00:00"
 ---
 
 ## 문제

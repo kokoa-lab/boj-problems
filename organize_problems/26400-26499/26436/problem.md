@@ -1,13 +1,13 @@
 ---
-title: Running in Circles
-special_judge: false
-time_limit: 서브태스크 참고 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Running in Circles"
+special_judge: "false"
+time_limit: "서브태스크 참고 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 111
 accepted: 41
 solved_users: 30
-acceptance_rate: 32.258%
-collected_at: 2026-04-17T17:45:46.151181+00:00
+acceptance_rate: "32.258%"
+collected_at: "2026-04-17T17:45:46.151181+00:00"
 ---
 
 ## 문제

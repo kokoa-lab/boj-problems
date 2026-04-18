@@ -1,13 +1,13 @@
 ---
-title: 보너스 점수
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "보너스 점수"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 3868
 accepted: 2780
 solved_users: 2456
-acceptance_rate: 73.533%
-collected_at: 2026-04-17T14:38:25.196978+00:00
+acceptance_rate: "73.533%"
+collected_at: "2026-04-17T14:38:25.196978+00:00"
 ---
 
 ## 문제

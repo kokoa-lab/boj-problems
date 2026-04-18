@@ -1,13 +1,13 @@
 ---
-title: 그릇
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "그릇"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 22363
 accepted: 16202
 solved_users: 14438
-acceptance_rate: 73.920%
-collected_at: 2026-04-17T11:50:42.820801+00:00
+acceptance_rate: "73.920%"
+collected_at: "2026-04-17T11:50:42.820801+00:00"
 ---
 
 ## 문제

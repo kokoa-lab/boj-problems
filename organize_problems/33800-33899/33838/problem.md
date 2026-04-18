@@ -1,13 +1,13 @@
 ---
-title: 사라져버릴 것 같아요
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "사라져버릴 것 같아요"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 203
 accepted: 81
 solved_users: 67
-acceptance_rate: 42.949%
-collected_at: 2026-04-17T20:24:36.040142+00:00
+acceptance_rate: "42.949%"
+collected_at: "2026-04-17T20:24:36.040142+00:00"
 ---
 
 ## 문제

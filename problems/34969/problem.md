@@ -1,13 +1,13 @@
 ---
-title: 좋은 대화 수단
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "좋은 대화 수단"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 27
 accepted: 13
 solved_users: 13
-acceptance_rate: 65.000%
-collected_at: 2026-04-17T20:53:00.580284+00:00
+acceptance_rate: "65.000%"
+collected_at: "2026-04-17T20:53:00.580284+00:00"
 ---
 
 ## 문제

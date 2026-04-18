@@ -1,13 +1,13 @@
 ---
-title: 토너먼트 승자
-special_judge: true
-time_limit: 2 초
-memory_limit: 128 MB
+title: "토너먼트 승자"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 517
 accepted: 314
 solved_users: 261
-acceptance_rate: 70.161%
-collected_at: 2026-04-17T10:29:57.448930+00:00
+acceptance_rate: "70.161%"
+collected_at: "2026-04-17T10:29:57.448930+00:00"
 ---
 
 ## 문제

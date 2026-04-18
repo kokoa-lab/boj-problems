@@ -1,13 +1,13 @@
 ---
-title: Reverse Rot
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Reverse Rot"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 275
 accepted: 231
 solved_users: 197
-acceptance_rate: 86.404%
-collected_at: 2026-04-17T12:22:19.897398+00:00
+acceptance_rate: "86.404%"
+collected_at: "2026-04-17T12:22:19.897398+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: LCA 2
-special_judge: false
-time_limit: 1.5 초 (추가 시간 없음)  ( 하단 참고 )
-memory_limit: 256 MB
+title: "LCA 2"
+special_judge: "false"
+time_limit: "1.5 초 (추가 시간 없음)  ( 하단 참고 )"
+memory_limit: "256 MB"
 submissions: 43625
 accepted: 16580
 solved_users: 8708
-acceptance_rate: 34.052%
-collected_at: 2026-04-17T12:40:46.136616+00:00
+acceptance_rate: "34.052%"
+collected_at: "2026-04-17T12:40:46.136616+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 주기
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "주기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 476
 accepted: 272
 solved_users: 246
-acceptance_rate: 59.420%
-collected_at: 2026-04-17T10:51:54.792794+00:00
+acceptance_rate: "59.420%"
+collected_at: "2026-04-17T10:51:54.792794+00:00"
 ---
 
 ## 문제

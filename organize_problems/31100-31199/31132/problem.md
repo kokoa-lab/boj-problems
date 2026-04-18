@@ -1,13 +1,13 @@
 ---
-title: Find the vault
-special_judge: false
-time_limit: 6 초
-memory_limit: 1024 MB
+title: "Find the vault"
+special_judge: "false"
+time_limit: "6 초"
+memory_limit: "1024 MB"
 submissions: 11
 accepted: 2
 solved_users: 2
-acceptance_rate: 66.667%
-collected_at: 2026-04-17T19:21:52.296089+00:00
+acceptance_rate: "66.667%"
+collected_at: "2026-04-17T19:21:52.296089+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Binary Counting
-special_judge: false
-time_limit: 1 초
-memory_limit: 32 MB
+title: "Binary Counting"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "32 MB"
 submissions: 610
 accepted: 430
 solved_users: 380
-acceptance_rate: 70.370%
-collected_at: 2026-04-17T14:07:59.910171+00:00
+acceptance_rate: "70.370%"
+collected_at: "2026-04-17T14:07:59.910171+00:00"
 ---
 
 ## 문제

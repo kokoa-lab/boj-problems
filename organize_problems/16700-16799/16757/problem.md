@@ -1,13 +1,13 @@
 ---
-title: Sajam
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Sajam"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 21
 accepted: 7
 solved_users: 6
-acceptance_rate: 60.000%
-collected_at: 2026-04-17T14:23:29.310238+00:00
+acceptance_rate: "60.000%"
+collected_at: "2026-04-17T14:23:29.310238+00:00"
 ---
 
 ## 문제

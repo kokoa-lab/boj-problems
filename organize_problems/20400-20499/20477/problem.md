@@ -1,13 +1,13 @@
 ---
-title: Чай
-special_judge: true
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Чай"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 33
 accepted: 20
 solved_users: 12
-acceptance_rate: 70.588%
-collected_at: 2026-04-17T15:36:52.594285+00:00
+acceptance_rate: "70.588%"
+collected_at: "2026-04-17T15:36:52.594285+00:00"
 ---
 
 ## 문제

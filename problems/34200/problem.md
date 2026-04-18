@@ -1,13 +1,13 @@
 ---
-title: 장애물
-special_judge: false
-time_limit: 1 초
-memory_limit: 2048 MB
+title: "장애물"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "2048 MB"
 submissions: 1105
 accepted: 574
 solved_users: 492
-acceptance_rate: 54.606%
-collected_at: 2026-04-17T20:32:56.705738+00:00
+acceptance_rate: "54.606%"
+collected_at: "2026-04-17T20:32:56.705738+00:00"
 ---
 
 ## 문제

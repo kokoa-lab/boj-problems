@@ -1,13 +1,13 @@
 ---
-title: 풀 하우스
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "풀 하우스"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 490
 accepted: 61
 solved_users: 48
-acceptance_rate: 12.500%
-collected_at: 2026-04-17T14:08:46.726091+00:00
+acceptance_rate: "12.500%"
+collected_at: "2026-04-17T14:08:46.726091+00:00"
 ---
 
 ## 문제

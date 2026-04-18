@@ -1,13 +1,13 @@
 ---
-title: 카드1
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "카드1"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 23996
 accepted: 15984
 solved_users: 14116
-acceptance_rate: 68.728%
-collected_at: 2026-04-17T10:39:07.801500+00:00
+acceptance_rate: "68.728%"
+collected_at: "2026-04-17T10:39:07.801500+00:00"
 ---
 
 ## 문제

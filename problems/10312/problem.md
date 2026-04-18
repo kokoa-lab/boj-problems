@@ -1,13 +1,13 @@
 ---
-title: Lodê
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Lodê"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 262
 accepted: 212
 solved_users: 187
-acceptance_rate: 80.258%
-collected_at: 2026-04-17T12:21:49.267245+00:00
+acceptance_rate: "80.258%"
+collected_at: "2026-04-17T12:21:49.267245+00:00"
 ---
 
 ## 문제

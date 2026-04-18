@@ -1,13 +1,13 @@
 ---
-title: Queue of Soldiers
-special_judge: false
-time_limit: 5 초
-memory_limit: 256 MB
+title: "Queue of Soldiers"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "256 MB"
 submissions: 53
 accepted: 31
 solved_users: 22
-acceptance_rate: 51.163%
-collected_at: 2026-04-17T12:45:59.541184+00:00
+acceptance_rate: "51.163%"
+collected_at: "2026-04-17T12:45:59.541184+00:00"
 ---
 
 ## 문제

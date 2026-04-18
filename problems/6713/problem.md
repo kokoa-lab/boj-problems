@@ -1,13 +1,13 @@
 ---
-title: The Mailbox Manufacturers Problem
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "The Mailbox Manufacturers Problem"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 25
 accepted: 20
 solved_users: 18
-acceptance_rate: 78.261%
-collected_at: 2026-04-17T11:34:03.448834+00:00
+acceptance_rate: "78.261%"
+collected_at: "2026-04-17T11:34:03.448834+00:00"
 ---
 
 ## 문제

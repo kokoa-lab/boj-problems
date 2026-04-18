@@ -1,13 +1,13 @@
 ---
-title: 눈송이 탕후루 만들기
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "눈송이 탕후루 만들기"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 650
 accepted: 160
 solved_users: 117
-acceptance_rate: 26.835%
-collected_at: 2026-04-17T19:38:04.643265+00:00
+acceptance_rate: "26.835%"
+collected_at: "2026-04-17T19:38:04.643265+00:00"
 ---
 
 ## 문제

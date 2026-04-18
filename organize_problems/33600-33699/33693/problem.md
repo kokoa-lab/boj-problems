@@ -1,13 +1,13 @@
 ---
-title: C)
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "C)"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 218
 accepted: 151
 solved_users: 115
-acceptance_rate: 66.860%
-collected_at: 2026-04-17T20:21:40.711584+00:00
+acceptance_rate: "66.860%"
+collected_at: "2026-04-17T20:21:40.711584+00:00"
 ---
 
 ## 문제

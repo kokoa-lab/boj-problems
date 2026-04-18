@@ -1,13 +1,13 @@
 ---
-title: Guilds
-special_judge: true
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Guilds"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 184
 accepted: 84
 solved_users: 70
-acceptance_rate: 47.945%
-collected_at: 2026-04-17T11:57:01.293929+00:00
+acceptance_rate: "47.945%"
+collected_at: "2026-04-17T11:57:01.293929+00:00"
 ---
 
 ## 문제

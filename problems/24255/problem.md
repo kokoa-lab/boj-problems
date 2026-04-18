@@ -1,13 +1,13 @@
 ---
-title: Rabbit
-special_judge: false
-time_limit: 0.05 초
-memory_limit: 1024 MB
+title: "Rabbit"
+special_judge: "false"
+time_limit: "0.05 초"
+memory_limit: "1024 MB"
 submissions: 87
 accepted: 6
 solved_users: 6
-acceptance_rate: 10.169%
-collected_at: 2026-04-17T17:06:29.321023+00:00
+acceptance_rate: "10.169%"
+collected_at: "2026-04-17T17:06:29.321023+00:00"
 ---
 
 ## 문제

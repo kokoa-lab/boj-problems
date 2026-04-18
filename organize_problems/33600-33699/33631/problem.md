@@ -1,13 +1,13 @@
 ---
-title: 1교시: 가정
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "1교시: 가정"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 744
 accepted: 461
 solved_users: 431
-acceptance_rate: 62.737%
-collected_at: 2026-04-17T20:20:22.112982+00:00
+acceptance_rate: "62.737%"
+collected_at: "2026-04-17T20:20:22.112982+00:00"
 ---
 
 ## 문제

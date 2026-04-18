@@ -1,13 +1,13 @@
 ---
-title: 우리집엔 도서관이 있어
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "우리집엔 도서관이 있어"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 4254
 accepted: 1858
 solved_users: 1504
-acceptance_rate: 45.479%
-collected_at: 2026-04-17T10:45:24.667969+00:00
+acceptance_rate: "45.479%"
+collected_at: "2026-04-17T10:45:24.667969+00:00"
 ---
 
 ## 문제

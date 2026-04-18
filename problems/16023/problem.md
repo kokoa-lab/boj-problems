@@ -1,13 +1,13 @@
 ---
-title: RoboThieves
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "RoboThieves"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 199
 accepted: 54
 solved_users: 41
-acceptance_rate: 24.699%
-collected_at: 2026-04-17T14:10:04.849790+00:00
+acceptance_rate: "24.699%"
+collected_at: "2026-04-17T14:10:04.849790+00:00"
 ---
 
 ## 문제

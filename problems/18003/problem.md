@@ -1,13 +1,13 @@
 ---
-title: Checkerboard
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "Checkerboard"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 148
 accepted: 109
 solved_users: 94
-acceptance_rate: 75.200%
-collected_at: 2026-04-17T14:52:11.417704+00:00
+acceptance_rate: "75.200%"
+collected_at: "2026-04-17T14:52:11.417704+00:00"
 ---
 
 ## 문제

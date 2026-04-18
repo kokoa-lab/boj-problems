@@ -1,13 +1,13 @@
 ---
-title: 요세푸스 문제
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "요세푸스 문제"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 145406
 accepted: 74130
 solved_users: 51894
-acceptance_rate: 49.677%
-collected_at: 2026-04-17T10:28:31.700044+00:00
+acceptance_rate: "49.677%"
+collected_at: "2026-04-17T10:28:31.700044+00:00"
 ---
 
 ## 문제

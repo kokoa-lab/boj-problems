@@ -1,13 +1,13 @@
 ---
-title: Blackjack
-special_judge: false
-time_limit: 8 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "Blackjack"
+special_judge: "false"
+time_limit: "8 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 123
 accepted: 32
 solved_users: 22
-acceptance_rate: 25.000%
-collected_at: 2026-04-17T13:20:30.878117+00:00
+acceptance_rate: "25.000%"
+collected_at: "2026-04-17T13:20:30.878117+00:00"
 ---
 
 ## 문제

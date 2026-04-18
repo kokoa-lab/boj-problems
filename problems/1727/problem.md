@@ -1,13 +1,13 @@
 ---
-title: 커플 만들기
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "커플 만들기"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 5332
 accepted: 1552
 solved_users: 1209
-acceptance_rate: 31.925%
-collected_at: 2026-04-17T10:32:43.329610+00:00
+acceptance_rate: "31.925%"
+collected_at: "2026-04-17T10:32:43.329610+00:00"
 ---
 
 ## 문제

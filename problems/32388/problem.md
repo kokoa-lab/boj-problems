@@ -1,13 +1,13 @@
 ---
-title: 현대모비스와 함께하는 편안한 주행
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "현대모비스와 함께하는 편안한 주행"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 300
 accepted: 116
 solved_users: 89
-acceptance_rate: 38.528%
-collected_at: 2026-04-17T19:50:05.115060+00:00
+acceptance_rate: "38.528%"
+collected_at: "2026-04-17T19:50:05.115060+00:00"
 ---
 
 ## 문제

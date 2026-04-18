@@ -1,13 +1,13 @@
 ---
-title: 사탕 줍는 로봇
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "사탕 줍는 로봇"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 1007
 accepted: 396
 solved_users: 332
-acceptance_rate: 39.808%
-collected_at: 2026-04-17T14:08:17.598590+00:00
+acceptance_rate: "39.808%"
+collected_at: "2026-04-17T14:08:17.598590+00:00"
 ---
 
 ## 문제

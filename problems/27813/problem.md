@@ -1,13 +1,13 @@
 ---
-title: Wormhole in One
-special_judge: false
-time_limit: 30 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Wormhole in One"
+special_judge: "false"
+time_limit: "30 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 26
 accepted: 9
 solved_users: 9
-acceptance_rate: 34.615%
-collected_at: 2026-04-17T18:11:45.149797+00:00
+acceptance_rate: "34.615%"
+collected_at: "2026-04-17T18:11:45.149797+00:00"
 ---
 
 ## 문제

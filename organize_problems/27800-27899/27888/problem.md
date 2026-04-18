@@ -1,13 +1,13 @@
 ---
-title: 가희와 지하철역 저장 시스템 1
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "가희와 지하철역 저장 시스템 1"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 664
 accepted: 129
 solved_users: 99
-acceptance_rate: 19.223%
-collected_at: 2026-04-17T18:13:50.624277+00:00
+acceptance_rate: "19.223%"
+collected_at: "2026-04-17T18:13:50.624277+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 치킨 배달
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "치킨 배달"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 117920
 accepted: 59906
 solved_users: 36436
-acceptance_rate: 47.669%
-collected_at: 2026-04-17T14:04:12.692171+00:00
+acceptance_rate: "47.669%"
+collected_at: "2026-04-17T14:04:12.692171+00:00"
 ---
 
 ## 문제

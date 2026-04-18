@@ -1,13 +1,13 @@
 ---
-title: Wall Making Game
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "Wall Making Game"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 842
 accepted: 448
 solved_users: 346
-acceptance_rate: 51.259%
-collected_at: 2026-04-17T12:44:42.293733+00:00
+acceptance_rate: "51.259%"
+collected_at: "2026-04-17T12:44:42.293733+00:00"
 ---
 
 ## 문제

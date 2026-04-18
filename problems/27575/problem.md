@@ -1,13 +1,13 @@
 ---
-title: Distinct Parity Excess
-special_judge: false
-time_limit: 3 초
-memory_limit: 1024 MB
+title: "Distinct Parity Excess"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "1024 MB"
 submissions: 57
 accepted: 42
 solved_users: 31
-acceptance_rate: 79.487%
-collected_at: 2026-04-17T18:06:48.908262+00:00
+acceptance_rate: "79.487%"
+collected_at: "2026-04-17T18:06:48.908262+00:00"
 ---
 
 ## 문제

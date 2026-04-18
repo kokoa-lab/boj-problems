@@ -1,13 +1,13 @@
 ---
-title: 연속합 2147483647
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "연속합 2147483647"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 4883
 accepted: 47
 solved_users: 23
-acceptance_rate: 1.662%
-collected_at: 2026-04-17T15:10:04.441265+00:00
+acceptance_rate: "1.662%"
+collected_at: "2026-04-17T15:10:04.441265+00:00"
 ---
 
 ## 문제

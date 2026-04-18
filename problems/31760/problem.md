@@ -1,13 +1,13 @@
 ---
-title: Joys of Trading
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Joys of Trading"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 32
 accepted: 23
 solved_users: 23
-acceptance_rate: 74.194%
-collected_at: 2026-04-17T19:35:59.954683+00:00
+acceptance_rate: "74.194%"
+collected_at: "2026-04-17T19:35:59.954683+00:00"
 ---
 
 ## 문제

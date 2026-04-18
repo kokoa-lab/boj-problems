@@ -1,13 +1,13 @@
 ---
-title: Farmer John has no Large Brown Cow
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Farmer John has no Large Brown Cow"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 144
 accepted: 84
 solved_users: 65
-acceptance_rate: 55.556%
-collected_at: 2026-04-17T12:11:26.728171+00:00
+acceptance_rate: "55.556%"
+collected_at: "2026-04-17T12:11:26.728171+00:00"
 ---
 
 ## 문제

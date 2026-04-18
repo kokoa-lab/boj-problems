@@ -1,13 +1,13 @@
 ---
-title: Goldbach Partition
-special_judge: false
-time_limit: 3 초
-memory_limit: 64 MB
+title: "Goldbach Partition"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "64 MB"
 submissions: 31
 accepted: 28
 solved_users: 25
-acceptance_rate: 89.286%
-collected_at: 2026-04-17T12:21:42.536877+00:00
+acceptance_rate: "89.286%"
+collected_at: "2026-04-17T12:21:42.536877+00:00"
 ---
 
 ## 문제

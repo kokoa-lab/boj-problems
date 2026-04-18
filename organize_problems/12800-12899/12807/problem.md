@@ -1,13 +1,13 @@
 ---
-title: Bridge testing
-special_judge: false
-time_limit: 4 초
-memory_limit: 256 MB
+title: "Bridge testing"
+special_judge: "false"
+time_limit: "4 초"
+memory_limit: "256 MB"
 submissions: 22
 accepted: 4
 solved_users: 4
-acceptance_rate: 26.667%
-collected_at: 2026-04-17T13:01:44.077262+00:00
+acceptance_rate: "26.667%"
+collected_at: "2026-04-17T13:01:44.077262+00:00"
 ---
 
 ## 문제

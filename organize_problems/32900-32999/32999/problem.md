@@ -1,13 +1,13 @@
 ---
-title: Ribbon on the Christmas Present
-special_judge: false
-time_limit: 2 초
-memory_limit: 2048 MB
+title: "Ribbon on the Christmas Present"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "2048 MB"
 submissions: 109
 accepted: 81
 solved_users: 72
-acceptance_rate: 77.419%
-collected_at: 2026-04-17T20:07:13.391609+00:00
+acceptance_rate: "77.419%"
+collected_at: "2026-04-17T20:07:13.391609+00:00"
 ---
 
 ## 문제

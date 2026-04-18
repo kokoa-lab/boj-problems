@@ -1,13 +1,13 @@
 ---
-title: 은기의 DNA 분자
-special_judge: false
-time_limit: 5 초
-memory_limit: 256 MB
+title: "은기의 DNA 분자"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "256 MB"
 submissions: 73
 accepted: 22
 solved_users: 17
-acceptance_rate: 53.125%
-collected_at: 2026-04-17T12:18:31.338104+00:00
+acceptance_rate: "53.125%"
+collected_at: "2026-04-17T12:18:31.338104+00:00"
 ---
 
 ## 문제

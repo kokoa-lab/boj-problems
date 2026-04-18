@@ -1,13 +1,13 @@
 ---
-title: Movie
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Movie"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 184
 accepted: 45
 solved_users: 35
-acceptance_rate: 25.926%
-collected_at: 2026-04-17T12:12:45.702167+00:00
+acceptance_rate: "25.926%"
+collected_at: "2026-04-17T12:12:45.702167+00:00"
 ---
 
 ## 문제

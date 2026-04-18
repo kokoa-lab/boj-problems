@@ -1,13 +1,13 @@
 ---
-title: 별자리 찾기
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "별자리 찾기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 810
 accepted: 560
 solved_users: 459
-acceptance_rate: 73.323%
-collected_at: 2026-04-17T11:15:46.349275+00:00
+acceptance_rate: "73.323%"
+collected_at: "2026-04-17T11:15:46.349275+00:00"
 ---
 
 ## 문제

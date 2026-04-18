@@ -1,13 +1,13 @@
 ---
-title: Timeline
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Timeline"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 543
 accepted: 296
 solved_users: 251
-acceptance_rate: 54.803%
-collected_at: 2026-04-17T15:09:36.143447+00:00
+acceptance_rate: "54.803%"
+collected_at: "2026-04-17T15:09:36.143447+00:00"
 ---
 
 ## 문제

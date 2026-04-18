@@ -1,13 +1,13 @@
 ---
-title: 책장
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "책장"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 810
 accepted: 126
 solved_users: 81
-acceptance_rate: 17.881%
-collected_at: 2026-04-17T10:41:53.070745+00:00
+acceptance_rate: "17.881%"
+collected_at: "2026-04-17T10:41:53.070745+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Tourist Attractions
-special_judge: false
-time_limit: 3 초
-memory_limit: 128 MB
+title: "Tourist Attractions"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "128 MB"
 submissions: 251
 accepted: 49
 solved_users: 34
-acceptance_rate: 16.749%
-collected_at: 2026-04-17T11:56:29.279350+00:00
+acceptance_rate: "16.749%"
+collected_at: "2026-04-17T11:56:29.279350+00:00"
 ---
 
 ## 문제

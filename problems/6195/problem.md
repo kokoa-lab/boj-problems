@@ -1,13 +1,13 @@
 ---
-title: Fence Repair
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Fence Repair"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 718
 accepted: 409
 solved_users: 362
-acceptance_rate: 58.013%
-collected_at: 2026-04-17T11:22:28.015348+00:00
+acceptance_rate: "58.013%"
+collected_at: "2026-04-17T11:22:28.015348+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 팰린드롬 제거
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "팰린드롬 제거"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 110
 accepted: 44
 solved_users: 41
-acceptance_rate: 45.556%
-collected_at: 2026-04-17T19:06:00.960545+00:00
+acceptance_rate: "45.556%"
+collected_at: "2026-04-17T19:06:00.960545+00:00"
 ---
 
 ## 문제

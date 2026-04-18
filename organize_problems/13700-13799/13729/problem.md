@@ -1,13 +1,13 @@
 ---
-title: 1013 피보나치
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "1013 피보나치"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 807
 accepted: 136
 solved_users: 97
-acceptance_rate: 16.167%
-collected_at: 2026-04-17T13:18:08.909086+00:00
+acceptance_rate: "16.167%"
+collected_at: "2026-04-17T13:18:08.909086+00:00"
 ---
 
 ## 문제

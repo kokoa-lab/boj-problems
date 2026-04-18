@@ -1,13 +1,13 @@
 ---
-title: Mirror Field
-special_judge: true
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Mirror Field"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 271
 accepted: 131
 solved_users: 110
-acceptance_rate: 49.327%
-collected_at: 2026-04-17T12:17:34.949540+00:00
+acceptance_rate: "49.327%"
+collected_at: "2026-04-17T12:17:34.949540+00:00"
 ---
 
 ## 문제

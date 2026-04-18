@@ -1,13 +1,13 @@
 ---
-title: 산
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "산"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 148
 accepted: 71
 solved_users: 64
-acceptance_rate: 53.782%
-collected_at: 2026-04-17T19:45:28.244458+00:00
+acceptance_rate: "53.782%"
+collected_at: "2026-04-17T19:45:28.244458+00:00"
 ---
 
 ## 문제

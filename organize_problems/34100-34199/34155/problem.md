@@ -1,13 +1,13 @@
 ---
-title: 수열과 수열 2
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "수열과 수열 2"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 364
 accepted: 218
 solved_users: 196
-acceptance_rate: 60.123%
-collected_at: 2026-04-17T20:31:57.702120+00:00
+acceptance_rate: "60.123%"
+collected_at: "2026-04-17T20:31:57.702120+00:00"
 ---
 
 ## 문제

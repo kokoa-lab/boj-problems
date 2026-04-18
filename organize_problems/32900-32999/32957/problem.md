@@ -1,13 +1,13 @@
 ---
-title: 절대적인 스왑
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "절대적인 스왑"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 140
 accepted: 50
 solved_users: 42
-acceptance_rate: 43.750%
-collected_at: 2026-04-17T20:06:09.172276+00:00
+acceptance_rate: "43.750%"
+collected_at: "2026-04-17T20:06:09.172276+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 은하 온라인 마케팅 프로젝트
-special_judge: false
-time_limit: 5 초 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "은하 온라인 마케팅 프로젝트"
+special_judge: "false"
+time_limit: "5 초 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 193
 accepted: 48
 solved_users: 36
-acceptance_rate: 21.302%
-collected_at: 2026-04-17T18:22:16.031966+00:00
+acceptance_rate: "21.302%"
+collected_at: "2026-04-17T18:22:16.031966+00:00"
 ---
 
 ## 문제

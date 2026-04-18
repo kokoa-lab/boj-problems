@@ -1,13 +1,13 @@
 ---
-title: Rose Garden Witch
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Rose Garden Witch"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 13
 accepted: 6
 solved_users: 6
-acceptance_rate: 54.545%
-collected_at: 2026-04-17T16:24:24.978271+00:00
+acceptance_rate: "54.545%"
+collected_at: "2026-04-17T16:24:24.978271+00:00"
 ---
 
 ## 문제

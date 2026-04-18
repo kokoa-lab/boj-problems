@@ -1,13 +1,13 @@
 ---
-title: 출근 전쟁 (Small)
-special_judge: true
-time_limit: 5 초
-memory_limit: 512 MB
+title: "출근 전쟁 (Small)"
+special_judge: "true"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 8
 accepted: 3
 solved_users: 2
-acceptance_rate: 40.000%
-collected_at: 2026-04-17T12:55:07.269615+00:00
+acceptance_rate: "40.000%"
+collected_at: "2026-04-17T12:55:07.269615+00:00"
 ---
 
 ## 문제

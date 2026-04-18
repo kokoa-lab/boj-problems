@@ -1,13 +1,13 @@
 ---
-title: Over Fitting (Large)
-special_judge: false
-time_limit: 3 초
-memory_limit: 512 MB
+title: "Over Fitting (Large)"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "512 MB"
 submissions: 63
 accepted: 12
 solved_users: 12
-acceptance_rate: 31.579%
-collected_at: 2026-04-17T13:39:12.134068+00:00
+acceptance_rate: "31.579%"
+collected_at: "2026-04-17T13:39:12.134068+00:00"
 ---
 
 ## 문제

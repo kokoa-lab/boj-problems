@@ -1,13 +1,13 @@
 ---
-title: Two Pointers (hard version)
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Two Pointers (hard version)"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 44
 accepted: 14
 solved_users: 14
-acceptance_rate: 33.333%
-collected_at: 2026-04-17T18:53:35.736763+00:00
+acceptance_rate: "33.333%"
+collected_at: "2026-04-17T18:53:35.736763+00:00"
 ---
 
 ## 문제

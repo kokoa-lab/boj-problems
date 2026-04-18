@@ -1,13 +1,13 @@
 ---
-title: 키 큰 사람
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "키 큰 사람"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 2016
 accepted: 1460
 solved_users: 1312
-acceptance_rate: 73.337%
-collected_at: 2026-04-17T12:39:17.427929+00:00
+acceptance_rate: "73.337%"
+collected_at: "2026-04-17T12:39:17.427929+00:00"
 ---
 
 ## 문제

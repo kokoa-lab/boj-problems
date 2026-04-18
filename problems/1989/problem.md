@@ -1,13 +1,13 @@
 ---
-title: 부분배열 고르기 2
-special_judge: true
-time_limit: 2 초
-memory_limit: 128 MB
+title: "부분배열 고르기 2"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 1966
 accepted: 712
 solved_users: 622
-acceptance_rate: 38.089%
-collected_at: 2026-04-17T10:36:45.818933+00:00
+acceptance_rate: "38.089%"
+collected_at: "2026-04-17T10:36:45.818933+00:00"
 ---
 
 ## 문제

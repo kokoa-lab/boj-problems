@@ -1,13 +1,13 @@
 ---
-title: City Tour (Small)
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "City Tour (Small)"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 45
 accepted: 31
 solved_users: 23
-acceptance_rate: 63.889%
-collected_at: 2026-04-17T12:57:11.870799+00:00
+acceptance_rate: "63.889%"
+collected_at: "2026-04-17T12:57:11.870799+00:00"
 ---
 
 ## 문제

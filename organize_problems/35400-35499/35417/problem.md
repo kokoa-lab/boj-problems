@@ -1,13 +1,13 @@
 ---
-title: 최단 시간
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "최단 시간"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 80
 accepted: 26
 solved_users: 22
-acceptance_rate: 31.429%
-collected_at: 2026-04-18T09:51:58.401264+00:00
+acceptance_rate: "31.429%"
+collected_at: "2026-04-18T09:51:58.401264+00:00"
 ---
 
 ## 문제

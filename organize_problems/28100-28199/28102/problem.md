@@ -1,13 +1,13 @@
 ---
-title: 단순한 그래프와 이상한 쿼리
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "단순한 그래프와 이상한 쿼리"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 209
 accepted: 90
 solved_users: 82
-acceptance_rate: 42.932%
-collected_at: 2026-04-17T18:18:10.809083+00:00
+acceptance_rate: "42.932%"
+collected_at: "2026-04-17T18:18:10.809083+00:00"
 ---
 
 ## 문제

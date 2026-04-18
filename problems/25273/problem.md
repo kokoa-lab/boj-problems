@@ -1,13 +1,13 @@
 ---
-title: Efficient Bus Routing
-special_judge: true
-time_limit: 5 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Efficient Bus Routing"
+special_judge: "true"
+time_limit: "5 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 14
 accepted: 4
 solved_users: 4
-acceptance_rate: 57.143%
-collected_at: 2026-04-17T17:23:40.366528+00:00
+acceptance_rate: "57.143%"
+collected_at: "2026-04-17T17:23:40.366528+00:00"
 ---
 
 ## 문제

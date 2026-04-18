@@ -1,13 +1,13 @@
 ---
-title: Mr. Panda and Blocks
-special_judge: true
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 256 MB
+title: "Mr. Panda and Blocks"
+special_judge: "true"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "256 MB"
 submissions: 15
 accepted: 9
 solved_users: 8
-acceptance_rate: 57.143%
-collected_at: 2026-04-17T16:48:25.044004+00:00
+acceptance_rate: "57.143%"
+collected_at: "2026-04-17T16:48:25.044004+00:00"
 ---
 
 ## 문제

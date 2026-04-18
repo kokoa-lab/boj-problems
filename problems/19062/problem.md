@@ -1,13 +1,13 @@
 ---
-title: Mikhail's Problem
-special_judge: false
-time_limit: 3 초
-memory_limit: 512 MB
+title: "Mikhail's Problem"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "512 MB"
 submissions: 55
 accepted: 17
 solved_users: 12
-acceptance_rate: 31.579%
-collected_at: 2026-04-17T15:13:01.711527+00:00
+acceptance_rate: "31.579%"
+collected_at: "2026-04-17T15:13:01.711527+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 서든어택 3
-special_judge: false
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "서든어택 3"
+special_judge: "false"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 3625
 accepted: 1276
 solved_users: 1040
-acceptance_rate: 34.806%
-collected_at: 2026-04-17T16:40:00.356063+00:00
+acceptance_rate: "34.806%"
+collected_at: "2026-04-17T16:40:00.356063+00:00"
 ---
 
 ## 문제

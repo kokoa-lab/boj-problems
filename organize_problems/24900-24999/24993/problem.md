@@ -1,13 +1,13 @@
 ---
-title: KIARA is a Recursive Acronym
-special_judge: false
-time_limit: 0.1 초
-memory_limit: 1024 MB
+title: "KIARA is a Recursive Acronym"
+special_judge: "false"
+time_limit: "0.1 초"
+memory_limit: "1024 MB"
 submissions: 332
 accepted: 185
 solved_users: 119
-acceptance_rate: 52.889%
-collected_at: 2026-04-17T17:18:16.495468+00:00
+acceptance_rate: "52.889%"
+collected_at: "2026-04-17T17:18:16.495468+00:00"
 ---
 
 ## 문제

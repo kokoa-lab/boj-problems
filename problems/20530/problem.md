@@ -1,13 +1,13 @@
 ---
-title: 양분
-special_judge: false
-time_limit: 1 초
-memory_limit: 1536 MB
+title: "양분"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1536 MB"
 submissions: 1680
 accepted: 494
 solved_users: 369
-acceptance_rate: 30.098%
-collected_at: 2026-04-17T15:37:35.181479+00:00
+acceptance_rate: "30.098%"
+collected_at: "2026-04-17T15:37:35.181479+00:00"
 ---
 
 ## 문제

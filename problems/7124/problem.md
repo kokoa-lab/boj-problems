@@ -1,13 +1,13 @@
 ---
-title: Sarnased kolmnurgad
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Sarnased kolmnurgad"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 74
 accepted: 48
 solved_users: 37
-acceptance_rate: 59.677%
-collected_at: 2026-04-17T11:45:34.757305+00:00
+acceptance_rate: "59.677%"
+collected_at: "2026-04-17T11:45:34.757305+00:00"
 ---
 
 ## 문제

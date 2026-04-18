@@ -1,13 +1,13 @@
 ---
-title: Opportunity Cost
-special_judge: false
-time_limit: 5 초 (추가 시간 없음)
-memory_limit: 2048 MB
+title: "Opportunity Cost"
+special_judge: "false"
+time_limit: "5 초 (추가 시간 없음)"
+memory_limit: "2048 MB"
 submissions: 139
 accepted: 61
 solved_users: 51
-acceptance_rate: 52.041%
-collected_at: 2026-04-17T16:43:57.147626+00:00
+acceptance_rate: "52.041%"
+collected_at: "2026-04-17T16:43:57.147626+00:00"
 ---
 
 ## 문제

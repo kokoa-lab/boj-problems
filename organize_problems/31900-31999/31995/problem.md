@@ -1,13 +1,13 @@
 ---
-title: 게임말 올려놓기
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "게임말 올려놓기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 1025
 accepted: 856
 solved_users: 776
-acceptance_rate: 84.902%
-collected_at: 2026-04-17T19:40:32.444902+00:00
+acceptance_rate: "84.902%"
+collected_at: "2026-04-17T19:40:32.444902+00:00"
 ---
 
 ## 문제

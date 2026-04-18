@@ -1,13 +1,13 @@
 ---
-title: Mokia
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Mokia"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 195
 accepted: 43
 solved_users: 28
-acceptance_rate: 39.437%
-collected_at: 2026-04-17T12:23:45.609001+00:00
+acceptance_rate: "39.437%"
+collected_at: "2026-04-17T12:23:45.609001+00:00"
 ---
 
 ## 문제

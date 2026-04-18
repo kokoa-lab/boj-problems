@@ -1,13 +1,13 @@
 ---
-title: 물리 공부
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "물리 공부"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 92
 accepted: 86
 solved_users: 80
-acceptance_rate: 94.118%
-collected_at: 2026-04-17T14:35:11.813903+00:00
+acceptance_rate: "94.118%"
+collected_at: "2026-04-17T14:35:11.813903+00:00"
 ---
 
 ## 문제

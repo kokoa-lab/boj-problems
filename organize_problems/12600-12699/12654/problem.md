@@ -1,13 +1,13 @@
 ---
-title: Collecting Cards (Large)
-special_judge: true
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Collecting Cards (Large)"
+special_judge: "true"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 67
 accepted: 33
 solved_users: 29
-acceptance_rate: 70.732%
-collected_at: 2026-04-17T12:59:07.870634+00:00
+acceptance_rate: "70.732%"
+collected_at: "2026-04-17T12:59:07.870634+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Or Machine
-special_judge: false
-time_limit: 4 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Or Machine"
+special_judge: "false"
+time_limit: "4 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 408
 accepted: 85
 solved_users: 70
-acceptance_rate: 20.958%
-collected_at: 2026-04-17T16:43:36.222159+00:00
+acceptance_rate: "20.958%"
+collected_at: "2026-04-17T16:43:36.222159+00:00"
 ---
 
 ## 문제

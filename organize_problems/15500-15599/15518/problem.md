@@ -1,13 +1,13 @@
 ---
-title: Window
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Window"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 158
 accepted: 147
 solved_users: 134
-acceptance_rate: 93.706%
-collected_at: 2026-04-17T14:00:46.367552+00:00
+acceptance_rate: "93.706%"
+collected_at: "2026-04-17T14:00:46.367552+00:00"
 ---
 
 ## 문제

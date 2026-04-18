@@ -1,13 +1,13 @@
 ---
-title: 간단한 순열 문제
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "간단한 순열 문제"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 320
 accepted: 198
 solved_users: 165
-acceptance_rate: 66.532%
-collected_at: 2026-04-17T19:37:52.455347+00:00
+acceptance_rate: "66.532%"
+collected_at: "2026-04-17T19:37:52.455347+00:00"
 ---
 
 ## 문제

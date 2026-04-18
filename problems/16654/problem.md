@@ -1,13 +1,13 @@
 ---
-title: Generalized German Quotation
-special_judge: true
-time_limit: 3 초
-memory_limit: 512 MB
+title: "Generalized German Quotation"
+special_judge: "true"
+time_limit: "3 초"
+memory_limit: "512 MB"
 submissions: 136
 accepted: 96
 solved_users: 81
-acceptance_rate: 71.053%
-collected_at: 2026-04-17T14:21:47.715946+00:00
+acceptance_rate: "71.053%"
+collected_at: "2026-04-17T14:21:47.715946+00:00"
 ---
 
 ## 문제

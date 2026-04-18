@@ -1,13 +1,13 @@
 ---
-title: 영선 수열
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "영선 수열"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 219
 accepted: 72
 solved_users: 52
-acceptance_rate: 37.143%
-collected_at: 2026-04-17T13:29:16.594586+00:00
+acceptance_rate: "37.143%"
+collected_at: "2026-04-17T13:29:16.594586+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 알파벳 거리
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "알파벳 거리"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 9349
 accepted: 5957
 solved_users: 5399
-acceptance_rate: 65.411%
-collected_at: 2026-04-17T11:12:25.386267+00:00
+acceptance_rate: "65.411%"
+collected_at: "2026-04-17T11:12:25.386267+00:00"
 ---
 
 ## 문제

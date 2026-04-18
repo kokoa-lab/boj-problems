@@ -1,13 +1,13 @@
 ---
-title: 버블 정렬
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "버블 정렬"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 3597
 accepted: 862
 solved_users: 688
-acceptance_rate: 34.695%
-collected_at: 2026-04-17T10:34:35.141020+00:00
+acceptance_rate: "34.695%"
+collected_at: "2026-04-17T10:34:35.141020+00:00"
 ---
 
 ## 문제

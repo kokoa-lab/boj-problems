@@ -1,13 +1,13 @@
 ---
-title: 비행기 타고 가요
-special_judge: false
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "비행기 타고 가요"
+special_judge: "false"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 1106
 accepted: 248
 solved_users: 148
-acceptance_rate: 18.663%
-collected_at: 2026-04-17T14:57:04.195751+00:00
+acceptance_rate: "18.663%"
+collected_at: "2026-04-17T14:57:04.195751+00:00"
 ---
 
 ## 문제

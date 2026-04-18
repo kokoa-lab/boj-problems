@@ -1,13 +1,13 @@
 ---
-title: 포켓몬 GO 진화
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "포켓몬 GO 진화"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 426
 accepted: 218
 solved_users: 161
-acceptance_rate: 50.156%
-collected_at: 2026-04-17T12:50:08.657824+00:00
+acceptance_rate: "50.156%"
+collected_at: "2026-04-17T12:50:08.657824+00:00"
 ---
 
 ## 문제

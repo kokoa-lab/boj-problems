@@ -1,13 +1,13 @@
 ---
-title: Sarah's Toys
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Sarah's Toys"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 988
 accepted: 651
 solved_users: 601
-acceptance_rate: 66.044%
-collected_at: 2026-04-17T11:11:29.156105+00:00
+acceptance_rate: "66.044%"
+collected_at: "2026-04-17T11:11:29.156105+00:00"
 ---
 
 ## 문제

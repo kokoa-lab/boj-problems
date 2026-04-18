@@ -1,13 +1,13 @@
 ---
-title: 앞뒤가 맞는 수열
-special_judge: false
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 128 MB
+title: "앞뒤가 맞는 수열"
+special_judge: "false"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "128 MB"
 submissions: 895
 accepted: 477
 solved_users: 404
-acceptance_rate: 56.111%
-collected_at: 2026-04-17T14:20:14.917280+00:00
+acceptance_rate: "56.111%"
+collected_at: "2026-04-17T14:20:14.917280+00:00"
 ---
 
 ## 문제

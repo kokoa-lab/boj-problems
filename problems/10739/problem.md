@@ -1,13 +1,13 @@
 ---
-title: KRIZA
-special_judge: false
-time_limit: 1 초
-memory_limit: 64 MB
+title: "KRIZA"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "64 MB"
 submissions: 136
 accepted: 59
 solved_users: 44
-acceptance_rate: 37.607%
-collected_at: 2026-04-17T12:28:48.051465+00:00
+acceptance_rate: "37.607%"
+collected_at: "2026-04-17T12:28:48.051465+00:00"
 ---
 
 ## 문제

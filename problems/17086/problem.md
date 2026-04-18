@@ -1,13 +1,13 @@
 ---
-title: 아기 상어 2
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "아기 상어 2"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 16017
 accepted: 8156
 solved_users: 6164
-acceptance_rate: 49.218%
-collected_at: 2026-04-17T14:29:17.122936+00:00
+acceptance_rate: "49.218%"
+collected_at: "2026-04-17T14:29:17.122936+00:00"
 ---
 
 ## 문제

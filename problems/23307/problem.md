@@ -1,13 +1,13 @@
 ---
-title: 드디어 시작한 화석 발굴 이벤트
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 512 MB (추가 메모리 없음)
+title: "드디어 시작한 화석 발굴 이벤트"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "512 MB (추가 메모리 없음)"
 submissions: 307
 accepted: 89
 solved_users: 79
-acceptance_rate: 36.574%
-collected_at: 2026-04-17T16:46:11.543051+00:00
+acceptance_rate: "36.574%"
+collected_at: "2026-04-17T16:46:11.543051+00:00"
 ---
 
 ## 문제

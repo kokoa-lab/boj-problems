@@ -1,13 +1,13 @@
 ---
-title: 과민성 대장 증후군
-special_judge: false
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "과민성 대장 증후군"
+special_judge: "false"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 1614
 accepted: 1076
 solved_users: 989
-acceptance_rate: 68.585%
-collected_at: 2026-04-17T19:37:21.652002+00:00
+acceptance_rate: "68.585%"
+collected_at: "2026-04-17T19:37:21.652002+00:00"
 ---
 
 ## 문제

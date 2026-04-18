@@ -1,13 +1,13 @@
 ---
-title: Reordering the Documents
-special_judge: false
-time_limit: 4 초
-memory_limit: 512 MB
+title: "Reordering the Documents"
+special_judge: "false"
+time_limit: "4 초"
+memory_limit: "512 MB"
 submissions: 138
 accepted: 75
 solved_users: 62
-acceptance_rate: 52.542%
-collected_at: 2026-04-17T14:57:18.853495+00:00
+acceptance_rate: "52.542%"
+collected_at: "2026-04-17T14:57:18.853495+00:00"
 ---
 
 ## 문제

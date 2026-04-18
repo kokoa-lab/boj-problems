@@ -1,13 +1,13 @@
 ---
-title: Replicate Replicate Rfplicbte
-special_judge: true
-time_limit: 3 초
-memory_limit: 512 MB
+title: "Replicate Replicate Rfplicbte"
+special_judge: "true"
+time_limit: "3 초"
+memory_limit: "512 MB"
 submissions: 95
 accepted: 40
 solved_users: 38
-acceptance_rate: 45.238%
-collected_at: 2026-04-17T13:39:41.706125+00:00
+acceptance_rate: "45.238%"
+collected_at: "2026-04-17T13:39:41.706125+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Cake Promise
-special_judge: false
-time_limit: 2 초
-memory_limit: 2048 MB
+title: "Cake Promise"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "2048 MB"
 submissions: 123
 accepted: 85
 solved_users: 61
-acceptance_rate: 71.765%
-collected_at: 2026-04-17T20:11:40.959241+00:00
+acceptance_rate: "71.765%"
+collected_at: "2026-04-17T20:11:40.959241+00:00"
 ---
 
 ## 문제

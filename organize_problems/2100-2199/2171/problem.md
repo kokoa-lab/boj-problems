@@ -1,13 +1,13 @@
 ---
-title: 직사각형의 개수
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "직사각형의 개수"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 1099
 accepted: 463
 solved_users: 321
-acceptance_rate: 39.975%
-collected_at: 2026-04-17T10:39:09.763771+00:00
+acceptance_rate: "39.975%"
+collected_at: "2026-04-17T10:39:09.763771+00:00"
 ---
 
 ## 문제

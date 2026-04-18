@@ -1,13 +1,13 @@
 ---
-title: 거꾸로 구구단
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "거꾸로 구구단"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 6338
 accepted: 3868
 solved_users: 3452
-acceptance_rate: 62.867%
-collected_at: 2026-04-17T13:12:49.143915+00:00
+acceptance_rate: "62.867%"
+collected_at: "2026-04-17T13:12:49.143915+00:00"
 ---
 
 ## 문제

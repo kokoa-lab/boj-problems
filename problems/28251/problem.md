@@ -1,13 +1,13 @@
 ---
-title: 나도리합
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "나도리합"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 413
 accepted: 213
 solved_users: 191
-acceptance_rate: 51.482%
-collected_at: 2026-04-17T18:21:11.483504+00:00
+acceptance_rate: "51.482%"
+collected_at: "2026-04-17T18:21:11.483504+00:00"
 ---
 
 ## 문제

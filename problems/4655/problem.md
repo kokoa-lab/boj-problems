@@ -1,13 +1,13 @@
 ---
-title: Hangover
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Hangover"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 1146
 accepted: 662
 solved_users: 570
-acceptance_rate: 61.688%
-collected_at: 2026-04-17T11:06:47.619255+00:00
+acceptance_rate: "61.688%"
+collected_at: "2026-04-17T11:06:47.619255+00:00"
 ---
 
 ## 문제

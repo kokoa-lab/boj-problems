@@ -1,13 +1,13 @@
 ---
-title: 맨체스터의 도로
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "맨체스터의 도로"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 426
 accepted: 153
 solved_users: 110
-acceptance_rate: 37.037%
-collected_at: 2026-04-17T10:43:52.278229+00:00
+acceptance_rate: "37.037%"
+collected_at: "2026-04-17T10:43:52.278229+00:00"
 ---
 
 ## 문제

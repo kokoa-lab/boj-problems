@@ -1,13 +1,13 @@
 ---
-title: Äventyr 1
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 256 MB
+title: "Äventyr 1"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "256 MB"
 submissions: 420
 accepted: 147
 solved_users: 123
-acceptance_rate: 45.055%
-collected_at: 2026-04-17T14:01:39.415947+00:00
+acceptance_rate: "45.055%"
+collected_at: "2026-04-17T14:01:39.415947+00:00"
 ---
 
 ## 문제

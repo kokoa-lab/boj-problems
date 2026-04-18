@@ -1,13 +1,13 @@
 ---
-title: Ax+Bsin(x)=C ②
-special_judge: true
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Ax+Bsin(x)=C ②"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 6271
 accepted: 2161
 solved_users: 1327
-acceptance_rate: 38.099%
-collected_at: 2026-04-17T13:41:52.665572+00:00
+acceptance_rate: "38.099%"
+collected_at: "2026-04-17T13:41:52.665572+00:00"
 ---
 
 ## 문제

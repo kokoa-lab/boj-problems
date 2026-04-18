@@ -1,13 +1,13 @@
 ---
-title: Moving Logs
-special_judge: false
-time_limit: 0.5 초
-memory_limit: 1024 MB
+title: "Moving Logs"
+special_judge: "false"
+time_limit: "0.5 초"
+memory_limit: "1024 MB"
 submissions: 184
 accepted: 52
 solved_users: 30
-acceptance_rate: 24.590%
-collected_at: 2026-04-17T16:44:51.665575+00:00
+acceptance_rate: "24.590%"
+collected_at: "2026-04-17T16:44:51.665575+00:00"
 ---
 
 ## 문제

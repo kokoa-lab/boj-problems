@@ -1,13 +1,13 @@
 ---
-title: Sejf
-special_judge: false
-time_limit: 4 초
-memory_limit: 128 MB
+title: "Sejf"
+special_judge: "false"
+time_limit: "4 초"
+memory_limit: "128 MB"
 submissions: 7
 accepted: 3
 solved_users: 2
-acceptance_rate: 66.667%
-collected_at: 2026-04-17T12:03:21.528698+00:00
+acceptance_rate: "66.667%"
+collected_at: "2026-04-17T12:03:21.528698+00:00"
 ---
 
 ## 문제

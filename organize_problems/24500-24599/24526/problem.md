@@ -1,13 +1,13 @@
 ---
-title: 전화 돌리기
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "전화 돌리기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 699
 accepted: 346
 solved_users: 269
-acceptance_rate: 47.950%
-collected_at: 2026-04-17T17:10:38.861104+00:00
+acceptance_rate: "47.950%"
+collected_at: "2026-04-17T17:10:38.861104+00:00"
 ---
 
 ## 문제

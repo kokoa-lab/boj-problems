@@ -1,13 +1,13 @@
 ---
-title: 아크코사인은 믿음입니다
-special_judge: true
-time_limit: 2 초
-memory_limit: 512 MB
+title: "아크코사인은 믿음입니다"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 880
 accepted: 320
 solved_users: 238
-acceptance_rate: 37.658%
-collected_at: 2026-04-17T13:11:25.463291+00:00
+acceptance_rate: "37.658%"
+collected_at: "2026-04-17T13:11:25.463291+00:00"
 ---
 
 ## 문제

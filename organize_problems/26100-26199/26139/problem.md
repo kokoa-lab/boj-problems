@@ -1,13 +1,13 @@
 ---
-title: Splitstream
-special_judge: false
-time_limit: 3 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Splitstream"
+special_judge: "false"
+time_limit: "3 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 105
 accepted: 54
 solved_users: 48
-acceptance_rate: 51.613%
-collected_at: 2026-04-17T17:40:48.443723+00:00
+acceptance_rate: "51.613%"
+collected_at: "2026-04-17T17:40:48.443723+00:00"
 ---
 
 ## 문제

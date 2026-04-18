@@ -1,13 +1,13 @@
 ---
-title: 차이를 최대로
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "차이를 최대로"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 37528
 accepted: 24723
 solved_users: 19143
-acceptance_rate: 66.529%
-collected_at: 2026-04-17T12:29:59.294200+00:00
+acceptance_rate: "66.529%"
+collected_at: "2026-04-17T12:29:59.294200+00:00"
 ---
 
 ## 문제

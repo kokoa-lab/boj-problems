@@ -1,13 +1,13 @@
 ---
-title: 숫자 박스
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "숫자 박스"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 3018
 accepted: 801
 solved_users: 580
-acceptance_rate: 27.154%
-collected_at: 2026-04-17T10:36:42.666612+00:00
+acceptance_rate: "27.154%"
+collected_at: "2026-04-17T10:36:42.666612+00:00"
 ---
 
 ## 문제

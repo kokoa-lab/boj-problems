@@ -1,13 +1,13 @@
 ---
-title: 대충 정렬
-special_judge: false
-time_limit: 3 초
-memory_limit: 128 MB
+title: "대충 정렬"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "128 MB"
 submissions: 104
 accepted: 47
 solved_users: 31
-acceptance_rate: 52.542%
-collected_at: 2026-04-17T11:08:40.671733+00:00
+acceptance_rate: "52.542%"
+collected_at: "2026-04-17T11:08:40.671733+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 키트 분배하기
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "키트 분배하기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 791
 accepted: 323
 solved_users: 270
-acceptance_rate: 44.190%
-collected_at: 2026-04-17T17:17:27.748903+00:00
+acceptance_rate: "44.190%"
+collected_at: "2026-04-17T17:17:27.748903+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Alarm Clock
-special_judge: true
-time_limit: 2 초
-memory_limit: 256 MB
+title: "Alarm Clock"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 342
 accepted: 236
 solved_users: 203
-acceptance_rate: 69.283%
-collected_at: 2026-04-17T12:22:40.280241+00:00
+acceptance_rate: "69.283%"
+collected_at: "2026-04-17T12:22:40.280241+00:00"
 ---
 
 ## 문제

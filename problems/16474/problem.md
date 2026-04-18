@@ -1,13 +1,13 @@
 ---
-title: 이상한 전깃줄
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "이상한 전깃줄"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 911
 accepted: 248
 solved_users: 192
-acceptance_rate: 31.683%
-collected_at: 2026-04-17T14:18:39.884656+00:00
+acceptance_rate: "31.683%"
+collected_at: "2026-04-17T14:18:39.884656+00:00"
 ---
 
 ## 문제

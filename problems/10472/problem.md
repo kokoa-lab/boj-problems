@@ -1,13 +1,13 @@
 ---
-title: 십자뒤집기
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "십자뒤집기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 2586
 accepted: 1255
 solved_users: 916
-acceptance_rate: 47.461%
-collected_at: 2026-04-17T12:24:11.375197+00:00
+acceptance_rate: "47.461%"
+collected_at: "2026-04-17T12:24:11.375197+00:00"
 ---
 
 ## 문제

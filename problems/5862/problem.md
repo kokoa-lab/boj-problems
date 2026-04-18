@@ -1,13 +1,13 @@
 ---
-title: Running Away From the Barn
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Running Away From the Barn"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 109
 accepted: 58
 solved_users: 43
-acceptance_rate: 53.750%
-collected_at: 2026-04-17T11:18:05.907476+00:00
+acceptance_rate: "53.750%"
+collected_at: "2026-04-17T11:18:05.907476+00:00"
 ---
 
 ## 문제

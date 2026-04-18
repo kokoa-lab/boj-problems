@@ -1,13 +1,13 @@
 ---
-title: Radioactive Islands (Large)
-special_judge: true
-time_limit: 300 초
-memory_limit: 512 MB
+title: "Radioactive Islands (Large)"
+special_judge: "true"
+time_limit: "300 초"
+memory_limit: "512 MB"
 submissions: 893
 accepted: 267
 solved_users: 140
-acceptance_rate: 25.783%
-collected_at: 2026-04-18T09:58:43.674035+00:00
+acceptance_rate: "25.783%"
+collected_at: "2026-04-18T09:58:43.674035+00:00"
 ---
 
 ## 문제

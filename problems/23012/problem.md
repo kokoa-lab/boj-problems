@@ -1,13 +1,13 @@
 ---
-title: Cutting Intervals
-special_judge: false
-time_limit: 서브태스크 참고 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "Cutting Intervals"
+special_judge: "false"
+time_limit: "서브태스크 참고 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 46
 accepted: 32
 solved_users: 30
-acceptance_rate: 78.947%
-collected_at: 2026-04-17T16:40:17.993564+00:00
+acceptance_rate: "78.947%"
+collected_at: "2026-04-17T16:40:17.993564+00:00"
 ---
 
 ## 문제

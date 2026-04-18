@@ -1,13 +1,13 @@
 ---
-title: Dress to Impress
-special_judge: true
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Dress to Impress"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 7
 accepted: 4
 solved_users: 4
-acceptance_rate: 57.143%
-collected_at: 2026-04-17T15:07:19.573779+00:00
+acceptance_rate: "57.143%"
+collected_at: "2026-04-17T15:07:19.573779+00:00"
 ---
 
 ## 문제

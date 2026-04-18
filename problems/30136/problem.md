@@ -1,13 +1,13 @@
 ---
-title: Advise National Security!
-special_judge: false
-time_limit: 10 초
-memory_limit: 1024 MB
+title: "Advise National Security!"
+special_judge: "false"
+time_limit: "10 초"
+memory_limit: "1024 MB"
 submissions: 11
 accepted: 2
 solved_users: 2
-acceptance_rate: 18.182%
-collected_at: 2026-04-17T18:59:32.217287+00:00
+acceptance_rate: "18.182%"
+collected_at: "2026-04-17T18:59:32.217287+00:00"
 ---
 
 ## 문제

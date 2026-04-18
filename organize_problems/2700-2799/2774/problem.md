@@ -1,13 +1,13 @@
 ---
-title: 아름다운 수
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "아름다운 수"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 5633
 accepted: 3989
 solved_users: 3674
-acceptance_rate: 72.266%
-collected_at: 2026-04-17T10:44:44.242456+00:00
+acceptance_rate: "72.266%"
+collected_at: "2026-04-17T10:44:44.242456+00:00"
 ---
 
 ## 문제

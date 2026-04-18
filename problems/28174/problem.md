@@ -1,13 +1,13 @@
 ---
-title: Range Closest Pair of Points Query
-special_judge: false
-time_limit: 9 초
-memory_limit: 1024 MB
+title: "Range Closest Pair of Points Query"
+special_judge: "false"
+time_limit: "9 초"
+memory_limit: "1024 MB"
 submissions: 11
 accepted: 3
 solved_users: 3
-acceptance_rate: 33.333%
-collected_at: 2026-04-17T18:19:27.634741+00:00
+acceptance_rate: "33.333%"
+collected_at: "2026-04-17T18:19:27.634741+00:00"
 ---
 
 ## 문제

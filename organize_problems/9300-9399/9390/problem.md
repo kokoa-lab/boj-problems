@@ -1,13 +1,13 @@
 ---
-title: Seven Segment Counter
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Seven Segment Counter"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 9
 accepted: 0
 solved_users: 0
-acceptance_rate: 0.000%
-collected_at: 2026-04-17T12:09:29.043757+00:00
+acceptance_rate: "0.000%"
+collected_at: "2026-04-17T12:09:29.043757+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 멋진 쌍
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "멋진 쌍"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 522
 accepted: 216
 solved_users: 165
-acceptance_rate: 39.474%
-collected_at: 2026-04-17T13:03:57.228152+00:00
+acceptance_rate: "39.474%"
+collected_at: "2026-04-17T13:03:57.228152+00:00"
 ---
 
 ## 문제

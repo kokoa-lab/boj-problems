@@ -1,13 +1,13 @@
 ---
-title: 원상 복구 (small)
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "원상 복구 (small)"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 2189
 accepted: 1338
 solved_users: 1027
-acceptance_rate: 60.554%
-collected_at: 2026-04-17T16:37:30.602339+00:00
+acceptance_rate: "60.554%"
+collected_at: "2026-04-17T16:37:30.602339+00:00"
 ---
 
 ## 문제

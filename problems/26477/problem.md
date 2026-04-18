@@ -1,13 +1,13 @@
 ---
-title: 最大公約数
-special_judge: false
-time_limit: 8 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "最大公約数"
+special_judge: "false"
+time_limit: "8 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 16
 accepted: 11
 solved_users: 8
-acceptance_rate: 61.538%
-collected_at: 2026-04-17T17:46:19.908552+00:00
+acceptance_rate: "61.538%"
+collected_at: "2026-04-17T17:46:19.908552+00:00"
 ---
 
 ## 문제

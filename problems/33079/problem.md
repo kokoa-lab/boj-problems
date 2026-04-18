@@ -1,13 +1,13 @@
 ---
-title: 흑백 설곽
-special_judge: false
-time_limit: 5 초
-memory_limit: 1024 MB
+title: "흑백 설곽"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "1024 MB"
 submissions: 291
 accepted: 34
 solved_users: 25
-acceptance_rate: 11.364%
-collected_at: 2026-04-17T20:08:59.590219+00:00
+acceptance_rate: "11.364%"
+collected_at: "2026-04-17T20:08:59.590219+00:00"
 ---
 
 ## 문제

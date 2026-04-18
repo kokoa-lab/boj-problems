@@ -1,13 +1,13 @@
 ---
-title: 욱 제
-special_judge: true
-time_limit: 1 초
-memory_limit: 512 MB
+title: "욱 제"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 4560
 accepted: 3781
 solved_users: 3598
-acceptance_rate: 83.830%
-collected_at: 2026-04-17T14:37:44.096509+00:00
+acceptance_rate: "83.830%"
+collected_at: "2026-04-17T14:37:44.096509+00:00"
 ---
 
 ## 문제

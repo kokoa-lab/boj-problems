@@ -1,13 +1,13 @@
 ---
-title: Code Cleanups
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Code Cleanups"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 243
 accepted: 127
 solved_users: 117
-acceptance_rate: 55.450%
-collected_at: 2026-04-17T14:15:41.790467+00:00
+acceptance_rate: "55.450%"
+collected_at: "2026-04-17T14:15:41.790467+00:00"
 ---
 
 ## 문제

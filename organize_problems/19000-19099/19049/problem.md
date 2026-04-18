@@ -1,13 +1,13 @@
 ---
-title: Origami
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Origami"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 24
 accepted: 10
 solved_users: 9
-acceptance_rate: 50.000%
-collected_at: 2026-04-17T15:12:52.822453+00:00
+acceptance_rate: "50.000%"
+collected_at: "2026-04-17T15:12:52.822453+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Cross-Number Puzzle
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Cross-Number Puzzle"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 141
 accepted: 90
 solved_users: 69
-acceptance_rate: 61.062%
-collected_at: 2026-04-17T11:41:40.628895+00:00
+acceptance_rate: "61.062%"
+collected_at: "2026-04-17T11:41:40.628895+00:00"
 ---
 
 ## 문제

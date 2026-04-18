@@ -1,13 +1,13 @@
 ---
-title: SLIKA
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "SLIKA"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 12
 accepted: 8
 solved_users: 7
-acceptance_rate: 63.636%
-collected_at: 2026-04-17T10:46:59.673630+00:00
+acceptance_rate: "63.636%"
+collected_at: "2026-04-17T10:46:59.673630+00:00"
 ---
 
 ## 문제

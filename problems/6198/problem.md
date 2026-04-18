@@ -1,13 +1,13 @@
 ---
-title: 옥상 정원 꾸미기
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "옥상 정원 꾸미기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 30453
 accepted: 11542
 solved_users: 8723
-acceptance_rate: 36.004%
-collected_at: 2026-04-17T11:22:27.416851+00:00
+acceptance_rate: "36.004%"
+collected_at: "2026-04-17T11:22:27.416851+00:00"
 ---
 
 ## 문제

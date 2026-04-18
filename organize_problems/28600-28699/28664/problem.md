@@ -1,13 +1,13 @@
 ---
-title: Лемурьи вечеринки
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Лемурьи вечеринки"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 22
 accepted: 11
 solved_users: 7
-acceptance_rate: 38.889%
-collected_at: 2026-04-17T18:30:15.358446+00:00
+acceptance_rate: "38.889%"
+collected_at: "2026-04-17T18:30:15.358446+00:00"
 ---
 
 ## 문제

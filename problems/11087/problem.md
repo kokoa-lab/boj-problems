@@ -1,13 +1,13 @@
 ---
-title: Bobby’s Bet
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "Bobby’s Bet"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 133
 accepted: 72
 solved_users: 65
-acceptance_rate: 59.633%
-collected_at: 2026-04-17T12:36:16.545933+00:00
+acceptance_rate: "59.633%"
+collected_at: "2026-04-17T12:36:16.545933+00:00"
 ---
 
 ## 문제

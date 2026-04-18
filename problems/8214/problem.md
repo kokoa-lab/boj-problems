@@ -1,13 +1,13 @@
 ---
-title: Party
-special_judge: true
-time_limit: 3 초
-memory_limit: 128 MB
+title: "Party"
+special_judge: "true"
+time_limit: "3 초"
+memory_limit: "128 MB"
 submissions: 328
 accepted: 128
 solved_users: 111
-acceptance_rate: 42.857%
-collected_at: 2026-04-17T11:57:17.680660+00:00
+acceptance_rate: "42.857%"
+collected_at: "2026-04-17T11:57:17.680660+00:00"
 ---
 
 ## 문제

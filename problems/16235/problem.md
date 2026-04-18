@@ -1,13 +1,13 @@
 ---
-title: 나무 재테크
-special_judge: false
-time_limit: 0.3 초  ( 하단 참고 )
-memory_limit: 512 MB
+title: "나무 재테크"
+special_judge: "false"
+time_limit: "0.3 초  ( 하단 참고 )"
+memory_limit: "512 MB"
 submissions: 75523
 accepted: 19482
 solved_users: 11220
-acceptance_rate: 23.225%
-collected_at: 2026-04-18T09:58:51.872968+00:00
+acceptance_rate: "23.225%"
+collected_at: "2026-04-18T09:58:51.872968+00:00"
 ---
 
 ## 문제

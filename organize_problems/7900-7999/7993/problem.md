@@ -1,13 +1,13 @@
 ---
-title: 후르츠 치킨
-special_judge: false
-time_limit: 3 초
-memory_limit: 128 MB
+title: "후르츠 치킨"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "128 MB"
 submissions: 203
 accepted: 39
 solved_users: 31
-acceptance_rate: 17.816%
-collected_at: 2026-04-17T11:54:58.371537+00:00
+acceptance_rate: "17.816%"
+collected_at: "2026-04-17T11:54:58.371537+00:00"
 ---
 
 ## 문제

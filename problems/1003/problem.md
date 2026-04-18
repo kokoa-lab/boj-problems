@@ -1,13 +1,13 @@
 ---
-title: 피보나치 함수
-special_judge: false
-time_limit: 0.25 초 (추가 시간 없음)
-memory_limit: 128 MB
+title: "피보나치 함수"
+special_judge: "false"
+time_limit: "0.25 초 (추가 시간 없음)"
+memory_limit: "128 MB"
 submissions: 267972
 accepted: 88854
 solved_users: 70499
-acceptance_rate: 34.969%
-collected_at: 2026-04-17T10:27:35.817366+00:00
+acceptance_rate: "34.969%"
+collected_at: "2026-04-17T10:27:35.817366+00:00"
 ---
 
 ## 문제

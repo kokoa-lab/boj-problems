@@ -1,13 +1,13 @@
 ---
-title: Starwars
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Starwars"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 304
 accepted: 106
 solved_users: 91
-acceptance_rate: 36.546%
-collected_at: 2026-04-17T14:16:36.851327+00:00
+acceptance_rate: "36.546%"
+collected_at: "2026-04-17T14:16:36.851327+00:00"
 ---
 
 ## 문제

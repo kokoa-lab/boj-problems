@@ -1,13 +1,13 @@
 ---
-title: 소수의 자격
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "소수의 자격"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 3621
 accepted: 1595
 solved_users: 1287
-acceptance_rate: 44.626%
-collected_at: 2026-04-17T11:23:01.238203+00:00
+acceptance_rate: "44.626%"
+collected_at: "2026-04-17T11:23:01.238203+00:00"
 ---
 
 ## 문제

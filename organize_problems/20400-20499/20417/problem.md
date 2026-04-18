@@ -1,13 +1,13 @@
 ---
-title: 역전의 제왕 (Normal)
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "역전의 제왕 (Normal)"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 205
 accepted: 52
 solved_users: 46
-acceptance_rate: 29.114%
-collected_at: 2026-04-17T15:36:08.741724+00:00
+acceptance_rate: "29.114%"
+collected_at: "2026-04-17T15:36:08.741724+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Discs
-special_judge: true
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Discs"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 71
 accepted: 21
 solved_users: 16
-acceptance_rate: 25.397%
-collected_at: 2026-04-17T14:20:37.265636+00:00
+acceptance_rate: "25.397%"
+collected_at: "2026-04-17T14:20:37.265636+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 최단 경로들
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "최단 경로들"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 1988
 accepted: 471
 solved_users: 286
-acceptance_rate: 23.271%
-collected_at: 2026-04-17T11:12:39.134478+00:00
+acceptance_rate: "23.271%"
+collected_at: "2026-04-17T11:12:39.134478+00:00"
 ---
 
 ## 문제

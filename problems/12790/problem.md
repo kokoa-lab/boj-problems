@@ -1,13 +1,13 @@
 ---
-title: Mini Fantasy War
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Mini Fantasy War"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 6607
 accepted: 4080
 solved_users: 3768
-acceptance_rate: 63.338%
-collected_at: 2026-04-17T13:01:27.843944+00:00
+acceptance_rate: "63.338%"
+collected_at: "2026-04-17T13:01:27.843944+00:00"
 ---
 
 ## 문제

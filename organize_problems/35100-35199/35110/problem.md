@@ -1,13 +1,13 @@
 ---
-title: Swap, then record
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Swap, then record"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 120
 accepted: 54
 solved_users: 50
-acceptance_rate: 50.505%
-collected_at: 2026-04-17T20:55:55.667567+00:00
+acceptance_rate: "50.505%"
+collected_at: "2026-04-17T20:55:55.667567+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Yogurt factory
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Yogurt factory"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 70
 accepted: 62
 solved_users: 57
-acceptance_rate: 90.476%
-collected_at: 2026-04-17T17:54:52.897334+00:00
+acceptance_rate: "90.476%"
+collected_at: "2026-04-17T17:54:52.897334+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: KAMIONI
-special_judge: false
-time_limit: 3 초
-memory_limit: 64 MB
+title: "KAMIONI"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "64 MB"
 submissions: 70
 accepted: 32
 solved_users: 24
-acceptance_rate: 51.064%
-collected_at: 2026-04-17T12:25:31.095236+00:00
+acceptance_rate: "51.064%"
+collected_at: "2026-04-17T12:25:31.095236+00:00"
 ---
 
 ## 문제

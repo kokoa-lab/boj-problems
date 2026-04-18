@@ -1,13 +1,13 @@
 ---
-title: You be The Judge, Again
-special_judge: false
-time_limit: 2 초
-memory_limit: 2048 MB (추가 메모리 없음)
+title: "You be The Judge, Again"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "2048 MB (추가 메모리 없음)"
 submissions: 139
 accepted: 87
 solved_users: 54
-acceptance_rate: 58.065%
-collected_at: 2026-04-17T16:38:59.097151+00:00
+acceptance_rate: "58.065%"
+collected_at: "2026-04-17T16:38:59.097151+00:00"
 ---
 
 ## 문제

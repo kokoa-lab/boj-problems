@@ -1,13 +1,13 @@
 ---
-title: 물탱크 알바(Easy)
-special_judge: false
-time_limit: 3 초
-memory_limit: 1024 MB
+title: "물탱크 알바(Easy)"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "1024 MB"
 submissions: 73
 accepted: 23
 solved_users: 16
-acceptance_rate: 35.556%
-collected_at: 2026-04-17T19:45:56.448961+00:00
+acceptance_rate: "35.556%"
+collected_at: "2026-04-17T19:45:56.448961+00:00"
 ---
 
 ## 문제

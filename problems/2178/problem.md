@@ -1,13 +1,13 @@
 ---
-title: 미로 탐색
-special_judge: false
-time_limit: 1 초
-memory_limit: 192 MB
+title: "미로 탐색"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "192 MB"
 submissions: 265042
 accepted: 127515
 solved_users: 78973
-acceptance_rate: 46.346%
-collected_at: 2026-04-17T10:39:17.112801+00:00
+acceptance_rate: "46.346%"
+collected_at: "2026-04-17T10:39:17.112801+00:00"
 ---
 
 ## 문제

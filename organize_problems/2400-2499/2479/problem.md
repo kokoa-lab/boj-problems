@@ -1,13 +1,13 @@
 ---
-title: 경로 찾기
-special_judge: true
-time_limit: 1 초
-memory_limit: 128 MB
+title: "경로 찾기"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 4156
 accepted: 1707
 solved_users: 1282
-acceptance_rate: 40.570%
-collected_at: 2026-04-17T10:41:59.208647+00:00
+acceptance_rate: "40.570%"
+collected_at: "2026-04-17T10:41:59.208647+00:00"
 ---
 
 ## 문제

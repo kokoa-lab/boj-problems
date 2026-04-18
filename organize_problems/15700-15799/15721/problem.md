@@ -1,13 +1,13 @@
 ---
-title: 번데기
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "번데기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 4137
 accepted: 1944
 solved_users: 1587
-acceptance_rate: 48.237%
-collected_at: 2026-04-17T14:05:07.296570+00:00
+acceptance_rate: "48.237%"
+collected_at: "2026-04-17T14:05:07.296570+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 숫자 할리갈리 게임
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "숫자 할리갈리 게임"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 3690
 accepted: 881
 solved_users: 615
-acceptance_rate: 23.800%
-collected_at: 2026-04-17T15:43:29.275861+00:00
+acceptance_rate: "23.800%"
+collected_at: "2026-04-17T15:43:29.275861+00:00"
 ---
 
 ## 문제

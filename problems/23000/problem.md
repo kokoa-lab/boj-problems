@@ -1,13 +1,13 @@
 ---
-title: L Shaped Plots
-special_judge: false
-time_limit: 60 초 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "L Shaped Plots"
+special_judge: "false"
+time_limit: "60 초 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 49
 accepted: 40
 solved_users: 36
-acceptance_rate: 80.000%
-collected_at: 2026-04-17T16:40:05.445564+00:00
+acceptance_rate: "80.000%"
+collected_at: "2026-04-17T16:40:05.445564+00:00"
 ---
 
 ## 문제

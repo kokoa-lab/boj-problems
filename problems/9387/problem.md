@@ -1,13 +1,13 @@
 ---
-title: Gholam’s Simple Game
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Gholam’s Simple Game"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 230
 accepted: 119
 solved_users: 105
-acceptance_rate: 51.724%
-collected_at: 2026-04-17T12:09:28.125018+00:00
+acceptance_rate: "51.724%"
+collected_at: "2026-04-17T12:09:28.125018+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: High Towers
-special_judge: false
-time_limit: 1 초
-memory_limit: 2048 MB
+title: "High Towers"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "2048 MB"
 submissions: 98
 accepted: 81
 solved_users: 55
-acceptance_rate: 80.882%
-collected_at: 2026-04-17T20:23:30.261065+00:00
+acceptance_rate: "80.882%"
+collected_at: "2026-04-17T20:23:30.261065+00:00"
 ---
 
 ## 문제

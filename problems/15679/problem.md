@@ -1,13 +1,13 @@
 ---
-title: 수열의 개수
-special_judge: true
-time_limit: 1 초
-memory_limit: 128 MB
+title: "수열의 개수"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 743
 accepted: 74
 solved_users: 58
-acceptance_rate: 9.370%
-collected_at: 2026-04-17T14:04:00.797307+00:00
+acceptance_rate: "9.370%"
+collected_at: "2026-04-17T14:04:00.797307+00:00"
 ---
 
 ## 문제

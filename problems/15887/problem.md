@@ -1,13 +1,13 @@
 ---
-title: 욱제는 결벽증이야!!
-special_judge: true
-time_limit: 2 초
-memory_limit: 256 MB
+title: "욱제는 결벽증이야!!"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 718
 accepted: 453
 solved_users: 398
-acceptance_rate: 67.230%
-collected_at: 2026-04-17T14:08:10.303253+00:00
+acceptance_rate: "67.230%"
+collected_at: "2026-04-17T14:08:10.303253+00:00"
 ---
 
 ## 문제

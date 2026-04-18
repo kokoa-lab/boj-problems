@@ -1,13 +1,13 @@
 ---
-title: Пингвиноведение
-special_judge: true
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Пингвиноведение"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 106
 accepted: 19
 solved_users: 14
-acceptance_rate: 22.581%
-collected_at: 2026-04-17T15:59:17.689009+00:00
+acceptance_rate: "22.581%"
+collected_at: "2026-04-17T15:59:17.689009+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 꿀 아르바이트
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "꿀 아르바이트"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 8214
 accepted: 3152
 solved_users: 2679
-acceptance_rate: 38.625%
-collected_at: 2026-04-18T09:50:00.712292+00:00
+acceptance_rate: "38.625%"
+collected_at: "2026-04-18T09:50:00.712292+00:00"
 ---
 
 ## 문제

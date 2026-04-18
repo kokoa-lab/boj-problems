@@ -1,13 +1,13 @@
 ---
-title: 냄새 싫어
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "냄새 싫어"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 785
 accepted: 146
 solved_users: 101
-acceptance_rate: 18.669%
-collected_at: 2026-04-17T10:35:39.797260+00:00
+acceptance_rate: "18.669%"
+collected_at: "2026-04-17T10:35:39.797260+00:00"
 ---
 
 ## 문제

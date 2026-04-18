@@ -1,13 +1,13 @@
 ---
-title: 즐거운 과제 라이프
-special_judge: false
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 512 MB (추가 메모리 없음)
+title: "즐거운 과제 라이프"
+special_judge: "false"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "512 MB (추가 메모리 없음)"
 submissions: 505
 accepted: 116
 solved_users: 94
-acceptance_rate: 35.206%
-collected_at: 2026-04-17T16:46:06.250545+00:00
+acceptance_rate: "35.206%"
+collected_at: "2026-04-17T16:46:06.250545+00:00"
 ---
 
 ## 문제

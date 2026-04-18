@@ -1,13 +1,13 @@
 ---
-title: Keyboard
-special_judge: false
-time_limit: 1.5 초
-memory_limit: 512 MB
+title: "Keyboard"
+special_judge: "false"
+time_limit: "1.5 초"
+memory_limit: "512 MB"
 submissions: 249
 accepted: 101
 solved_users: 38
-acceptance_rate: 25.676%
-collected_at: 2026-04-17T16:08:44.586812+00:00
+acceptance_rate: "25.676%"
+collected_at: "2026-04-17T16:08:44.586812+00:00"
 ---
 
 ## 문제

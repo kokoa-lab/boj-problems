@@ -1,13 +1,13 @@
 ---
-title: Reconstruction Project
-special_judge: false
-time_limit: 5 초
-memory_limit: 1024 MB
+title: "Reconstruction Project"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "1024 MB"
 submissions: 75
 accepted: 38
 solved_users: 33
-acceptance_rate: 61.111%
-collected_at: 2026-04-17T17:17:36.097108+00:00
+acceptance_rate: "61.111%"
+collected_at: "2026-04-17T17:17:36.097108+00:00"
 ---
 
 ## 문제

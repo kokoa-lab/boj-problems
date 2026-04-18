@@ -1,13 +1,13 @@
 ---
-title: 무인 편의점과 위조 상품권
-special_judge: false
-time_limit: 0.5 초
-memory_limit: 512 MB
+title: "무인 편의점과 위조 상품권"
+special_judge: "false"
+time_limit: "0.5 초"
+memory_limit: "512 MB"
 submissions: 4
 accepted: 2
 solved_users: 2
-acceptance_rate: 66.667%
-collected_at: 2026-04-17T20:26:23.302044+00:00
+acceptance_rate: "66.667%"
+collected_at: "2026-04-17T20:26:23.302044+00:00"
 ---
 
 ## 문제

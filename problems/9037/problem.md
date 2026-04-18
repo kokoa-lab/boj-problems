@@ -1,13 +1,13 @@
 ---
-title: The candy war
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "The candy war"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 2111
 accepted: 1352
 solved_users: 1101
-acceptance_rate: 67.837%
-collected_at: 2026-04-17T12:06:23.404550+00:00
+acceptance_rate: "67.837%"
+collected_at: "2026-04-17T12:06:23.404550+00:00"
 ---
 
 ## 문제

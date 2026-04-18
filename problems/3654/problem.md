@@ -1,13 +1,13 @@
 ---
-title: L퍼즐
-special_judge: false
-time_limit: 5 초
-memory_limit: 128 MB
+title: "L퍼즐"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "128 MB"
 submissions: 1527
 accepted: 401
 solved_users: 295
-acceptance_rate: 26.529%
-collected_at: 2026-04-17T10:50:35.376161+00:00
+acceptance_rate: "26.529%"
+collected_at: "2026-04-17T10:50:35.376161+00:00"
 ---
 
 ## 문제

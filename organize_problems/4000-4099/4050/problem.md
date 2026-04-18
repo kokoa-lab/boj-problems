@@ -1,13 +1,13 @@
 ---
-title: Trip the Lights Fantastic
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Trip the Lights Fantastic"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 22
 accepted: 6
 solved_users: 4
-acceptance_rate: 40.000%
-collected_at: 2026-04-17T10:55:11.832163+00:00
+acceptance_rate: "40.000%"
+collected_at: "2026-04-17T10:55:11.832163+00:00"
 ---
 
 ## 문제

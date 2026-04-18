@@ -1,13 +1,13 @@
 ---
-title: Getting Back Home
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Getting Back Home"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 32
 accepted: 2
 solved_users: 2
-acceptance_rate: 22.222%
-collected_at: 2026-04-17T13:57:41.970436+00:00
+acceptance_rate: "22.222%"
+collected_at: "2026-04-17T13:57:41.970436+00:00"
 ---
 
 ## 문제

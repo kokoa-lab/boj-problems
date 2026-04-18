@@ -1,13 +1,13 @@
 ---
-title: Speed fines are not fine!
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Speed fines are not fine!"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 5227
 accepted: 3364
 solved_users: 3163
-acceptance_rate: 65.136%
-collected_at: 2026-04-17T11:36:02.671206+00:00
+acceptance_rate: "65.136%"
+collected_at: "2026-04-17T11:36:02.671206+00:00"
 ---
 
 ## 문제

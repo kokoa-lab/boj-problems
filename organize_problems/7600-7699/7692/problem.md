@@ -1,13 +1,13 @@
 ---
-title: Election
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Election"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 85
 accepted: 56
 solved_users: 47
-acceptance_rate: 65.278%
-collected_at: 2026-04-17T11:52:02.252186+00:00
+acceptance_rate: "65.278%"
+collected_at: "2026-04-17T11:52:02.252186+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 천하제일 게임 대회
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "천하제일 게임 대회"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 288
 accepted: 113
 solved_users: 79
-acceptance_rate: 44.633%
-collected_at: 2026-04-17T11:13:48.096314+00:00
+acceptance_rate: "44.633%"
+collected_at: "2026-04-17T11:13:48.096314+00:00"
 ---
 
 ## 문제

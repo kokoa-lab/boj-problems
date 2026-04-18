@@ -1,13 +1,13 @@
 ---
-title: 피보나치와 마지막 수열과 쿼리
-special_judge: false
-time_limit: 1.2 초 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "피보나치와 마지막 수열과 쿼리"
+special_judge: "false"
+time_limit: "1.2 초 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 867
 accepted: 243
 solved_users: 161
-acceptance_rate: 26.878%
-collected_at: 2026-04-17T17:39:59.708053+00:00
+acceptance_rate: "26.878%"
+collected_at: "2026-04-17T17:39:59.708053+00:00"
 ---
 
 ## 문제

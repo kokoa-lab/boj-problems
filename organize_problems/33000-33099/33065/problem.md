@@ -1,13 +1,13 @@
 ---
-title: Observing Objects
-special_judge: false
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "Observing Objects"
+special_judge: "false"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 437
 accepted: 219
 solved_users: 124
-acceptance_rate: 55.111%
-collected_at: 2026-04-17T20:08:35.261939+00:00
+acceptance_rate: "55.111%"
+collected_at: "2026-04-17T20:08:35.261939+00:00"
 ---
 
 ## 문제

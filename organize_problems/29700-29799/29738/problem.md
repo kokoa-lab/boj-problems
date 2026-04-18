@@ -1,13 +1,13 @@
 ---
-title: Goodbye, Code Jam
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Goodbye, Code Jam"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 2925
 accepted: 1856
 solved_users: 1767
-acceptance_rate: 64.466%
-collected_at: 2026-04-17T18:51:54.112084+00:00
+acceptance_rate: "64.466%"
+collected_at: "2026-04-17T18:51:54.112084+00:00"
 ---
 
 ## 문제

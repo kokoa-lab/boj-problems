@@ -1,13 +1,13 @@
 ---
-title: 덱
-special_judge: false
-time_limit: 0.5 초 (추가 시간 없음)
-memory_limit: 256 MB
+title: "덱"
+special_judge: "false"
+time_limit: "0.5 초 (추가 시간 없음)"
+memory_limit: "256 MB"
 submissions: 103279
 accepted: 57956
 solved_users: 48376
-acceptance_rate: 56.474%
-collected_at: 2026-04-17T12:30:41.690840+00:00
+acceptance_rate: "56.474%"
+collected_at: "2026-04-17T12:30:41.690840+00:00"
 ---
 
 ## 문제

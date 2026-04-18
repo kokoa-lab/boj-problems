@@ -1,13 +1,13 @@
 ---
-title: A=B
-special_judge: false
-time_limit: 1 초
-memory_limit: 2048 MB
+title: "A=B"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "2048 MB"
 submissions: 78
 accepted: 45
 solved_users: 22
-acceptance_rate: 51.163%
-collected_at: 2026-04-17T20:34:42.511150+00:00
+acceptance_rate: "51.163%"
+collected_at: "2026-04-17T20:34:42.511150+00:00"
 ---
 
 ## 문제

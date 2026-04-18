@@ -1,13 +1,13 @@
 ---
-title: Gambling
-special_judge: false
-time_limit: 3.5 초
-memory_limit: 512 MB
+title: "Gambling"
+special_judge: "false"
+time_limit: "3.5 초"
+memory_limit: "512 MB"
 submissions: 39
 accepted: 10
 solved_users: 9
-acceptance_rate: 25.714%
-collected_at: 2026-04-17T15:21:01.996329+00:00
+acceptance_rate: "25.714%"
+collected_at: "2026-04-17T15:21:01.996329+00:00"
 ---
 
 ## 문제

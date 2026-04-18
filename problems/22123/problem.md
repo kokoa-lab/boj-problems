@@ -1,13 +1,13 @@
 ---
-title: Экзамен
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "Экзамен"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 397
 accepted: 252
 solved_users: 203
-acceptance_rate: 61.702%
-collected_at: 2026-04-17T16:15:22.758306+00:00
+acceptance_rate: "61.702%"
+collected_at: "2026-04-17T16:15:22.758306+00:00"
 ---
 
 ## 문제

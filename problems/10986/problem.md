@@ -1,13 +1,13 @@
 ---
-title: 나머지 합
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "나머지 합"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 78013
 accepted: 22548
 solved_users: 16072
-acceptance_rate: 27.315%
-collected_at: 2026-04-17T12:34:23.484503+00:00
+acceptance_rate: "27.315%"
+collected_at: "2026-04-17T12:34:23.484503+00:00"
 ---
 
 ## 문제

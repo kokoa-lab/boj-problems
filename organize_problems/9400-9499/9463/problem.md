@@ -1,13 +1,13 @@
 ---
-title: 순열 그래프
-special_judge: false
-time_limit: 5 초
-memory_limit: 256 MB
+title: "순열 그래프"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "256 MB"
 submissions: 2491
 accepted: 1044
 solved_users: 756
-acceptance_rate: 45.846%
-collected_at: 2026-04-17T12:10:08.156627+00:00
+acceptance_rate: "45.846%"
+collected_at: "2026-04-17T12:10:08.156627+00:00"
 ---
 
 ## 문제

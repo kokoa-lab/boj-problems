@@ -1,13 +1,13 @@
 ---
-title: 그거 왜 말해!
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "그거 왜 말해!"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 746
 accepted: 394
 solved_users: 338
-acceptance_rate: 54.341%
-collected_at: 2026-04-17T20:27:50.663235+00:00
+acceptance_rate: "54.341%"
+collected_at: "2026-04-17T20:27:50.663235+00:00"
 ---
 
 ## 문제

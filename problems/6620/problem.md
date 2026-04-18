@@ -1,13 +1,13 @@
 ---
-title: Simple Polygon
-special_judge: false
-time_limit: 10 초
-memory_limit: 128 MB
+title: "Simple Polygon"
+special_judge: "false"
+time_limit: "10 초"
+memory_limit: "128 MB"
 submissions: 65
 accepted: 25
 solved_users: 22
-acceptance_rate: 68.750%
-collected_at: 2026-04-17T11:31:42.280044+00:00
+acceptance_rate: "68.750%"
+collected_at: "2026-04-17T11:31:42.280044+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Bacon Number
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Bacon Number"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 44
 accepted: 16
 solved_users: 11
-acceptance_rate: 36.667%
-collected_at: 2026-04-17T19:51:02.794360+00:00
+acceptance_rate: "36.667%"
+collected_at: "2026-04-17T19:51:02.794360+00:00"
 ---
 
 ## 문제

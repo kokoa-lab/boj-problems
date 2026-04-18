@@ -1,13 +1,13 @@
 ---
-title: Fixing Fractions
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Fixing Fractions"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 300
 accepted: 79
 solved_users: 60
-acceptance_rate: 32.787%
-collected_at: 2026-04-17T19:17:49.538704+00:00
+acceptance_rate: "32.787%"
+collected_at: "2026-04-17T19:17:49.538704+00:00"
 ---
 
 ## 문제

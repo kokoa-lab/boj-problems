@@ -1,13 +1,13 @@
 ---
-title: The Chosen Sub Matrix
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "The Chosen Sub Matrix"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 310
 accepted: 101
 solved_users: 83
-acceptance_rate: 36.564%
-collected_at: 2026-04-17T11:53:08.337919+00:00
+acceptance_rate: "36.564%"
+collected_at: "2026-04-17T11:53:08.337919+00:00"
 ---
 
 ## 문제

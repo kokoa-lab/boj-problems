@@ -1,13 +1,13 @@
 ---
-title: AND, OR, XOR 2
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "AND, OR, XOR 2"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 353
 accepted: 130
 solved_users: 113
-acceptance_rate: 38.567%
-collected_at: 2026-04-17T19:27:50.591258+00:00
+acceptance_rate: "38.567%"
+collected_at: "2026-04-17T19:27:50.591258+00:00"
 ---
 
 ## 문제

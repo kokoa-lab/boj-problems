@@ -1,13 +1,13 @@
 ---
-title: Digital Addition
-special_judge: true
-time_limit: 2 초
-memory_limit: 256 MB
+title: "Digital Addition"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 26
 accepted: 15
 solved_users: 14
-acceptance_rate: 56.000%
-collected_at: 2026-04-17T13:13:47.966999+00:00
+acceptance_rate: "56.000%"
+collected_at: "2026-04-17T13:13:47.966999+00:00"
 ---
 
 ## 문제

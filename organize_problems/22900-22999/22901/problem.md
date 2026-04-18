@@ -1,13 +1,13 @@
 ---
-title: ko_orange
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "ko_orange"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 1550
 accepted: 176
 solved_users: 109
-acceptance_rate: 11.202%
-collected_at: 2026-04-18T09:59:19.646700+00:00
+acceptance_rate: "11.202%"
+collected_at: "2026-04-18T09:59:19.646700+00:00"
 ---
 
 ## 문제

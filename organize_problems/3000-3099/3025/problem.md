@@ -1,13 +1,13 @@
 ---
-title: 돌 던지기
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "돌 던지기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 5258
 accepted: 636
 solved_users: 385
-acceptance_rate: 17.405%
-collected_at: 2026-04-17T10:46:16.108400+00:00
+acceptance_rate: "17.405%"
+collected_at: "2026-04-17T10:46:16.108400+00:00"
 ---
 
 ## 문제

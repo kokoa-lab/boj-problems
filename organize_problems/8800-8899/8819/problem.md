@@ -1,13 +1,13 @@
 ---
-title: Wlazł kotek na płotek
-special_judge: false
-time_limit: 5 초
-memory_limit: 128 MB
+title: "Wlazł kotek na płotek"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "128 MB"
 submissions: 90
 accepted: 66
 solved_users: 56
-acceptance_rate: 75.676%
-collected_at: 2026-04-17T12:03:43.475667+00:00
+acceptance_rate: "75.676%"
+collected_at: "2026-04-17T12:03:43.475667+00:00"
 ---
 
 ## 문제

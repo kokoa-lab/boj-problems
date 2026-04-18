@@ -1,13 +1,13 @@
 ---
-title: 트리 위의 세 사람
-special_judge: false
-time_limit: 4 초
-memory_limit: 1024 MB
+title: "트리 위의 세 사람"
+special_judge: "false"
+time_limit: "4 초"
+memory_limit: "1024 MB"
 submissions: 82
 accepted: 9
 solved_users: 9
-acceptance_rate: 12.162%
-collected_at: 2026-04-17T18:15:16.764434+00:00
+acceptance_rate: "12.162%"
+collected_at: "2026-04-17T18:15:16.764434+00:00"
 ---
 
 ## 문제

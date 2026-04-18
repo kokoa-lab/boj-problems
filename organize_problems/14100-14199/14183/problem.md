@@ -1,13 +1,13 @@
 ---
-title: Key Maker
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Key Maker"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 273
 accepted: 248
 solved_users: 216
-acceptance_rate: 91.525%
-collected_at: 2026-04-17T13:27:23.796866+00:00
+acceptance_rate: "91.525%"
+collected_at: "2026-04-17T13:27:23.796866+00:00"
 ---
 
 ## 문제

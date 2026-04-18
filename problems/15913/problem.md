@@ -1,13 +1,13 @@
 ---
-title: 가위 바위 보 999
-special_judge: false
-time_limit: 0.1 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "가위 바위 보 999"
+special_judge: "false"
+time_limit: "0.1 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 26107
 accepted: 24992
 solved_users: 1876
-acceptance_rate: 23.895%
-collected_at: 2026-04-17T14:08:32.481005+00:00
+acceptance_rate: "23.895%"
+collected_at: "2026-04-17T14:08:32.481005+00:00"
 ---
 
 ## 문제

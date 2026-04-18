@@ -1,13 +1,13 @@
 ---
-title: Y-Shaped Knife
-special_judge: true
-time_limit: 3 초
-memory_limit: 512 MB
+title: "Y-Shaped Knife"
+special_judge: "true"
+time_limit: "3 초"
+memory_limit: "512 MB"
 submissions: 61
 accepted: 14
 solved_users: 9
-acceptance_rate: 25.714%
-collected_at: 2026-04-17T15:05:49.893464+00:00
+acceptance_rate: "25.714%"
+collected_at: "2026-04-17T15:05:49.893464+00:00"
 ---
 
 ## 문제

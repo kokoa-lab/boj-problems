@@ -1,13 +1,13 @@
 ---
-title: 화학
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "화학"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 168
 accepted: 52
 solved_users: 45
-acceptance_rate: 36.585%
-collected_at: 2026-04-17T11:08:37.311867+00:00
+acceptance_rate: "36.585%"
+collected_at: "2026-04-17T11:08:37.311867+00:00"
 ---
 
 ## 문제

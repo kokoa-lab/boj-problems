@@ -1,13 +1,13 @@
 ---
-title: 네트워크
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "네트워크"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 76
 accepted: 19
 solved_users: 18
-acceptance_rate: 64.286%
-collected_at: 2026-04-17T10:30:24.484651+00:00
+acceptance_rate: "64.286%"
+collected_at: "2026-04-17T10:30:24.484651+00:00"
 ---
 
 ## 문제

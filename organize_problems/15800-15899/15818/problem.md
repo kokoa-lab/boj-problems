@@ -1,13 +1,13 @@
 ---
-title: 오버플로우와 모듈러
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "오버플로우와 모듈러"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 1967
 accepted: 1519
 solved_users: 1396
-acceptance_rate: 79.183%
-collected_at: 2026-04-17T14:07:04.210225+00:00
+acceptance_rate: "79.183%"
+collected_at: "2026-04-17T14:07:04.210225+00:00"
 ---
 
 ## 문제

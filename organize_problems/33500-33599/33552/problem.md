@@ -1,13 +1,13 @@
 ---
-title: Excellent Grades
-special_judge: false
-time_limit: 1 초
-memory_limit: 2048 MB
+title: "Excellent Grades"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "2048 MB"
 submissions: 304
 accepted: 59
 solved_users: 40
-acceptance_rate: 17.699%
-collected_at: 2026-04-17T20:18:46.610672+00:00
+acceptance_rate: "17.699%"
+collected_at: "2026-04-17T20:18:46.610672+00:00"
 ---
 
 ## 문제

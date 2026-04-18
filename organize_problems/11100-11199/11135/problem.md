@@ -1,13 +1,13 @@
 ---
-title: Typing monkey
-special_judge: true
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Typing monkey"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 61
 accepted: 6
 solved_users: 5
-acceptance_rate: 17.241%
-collected_at: 2026-04-17T12:37:03.172013+00:00
+acceptance_rate: "17.241%"
+collected_at: "2026-04-17T12:37:03.172013+00:00"
 ---
 
 ## 문제

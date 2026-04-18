@@ -1,13 +1,13 @@
 ---
-title: 기상청 인턴 신현수
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "기상청 인턴 신현수"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 6960
 accepted: 3260
 solved_users: 2916
-acceptance_rate: 47.368%
-collected_at: 2026-04-17T10:41:37.212005+00:00
+acceptance_rate: "47.368%"
+collected_at: "2026-04-17T10:41:37.212005+00:00"
 ---
 
 ## 문제

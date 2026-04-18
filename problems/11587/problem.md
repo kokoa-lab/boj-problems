@@ -1,13 +1,13 @@
 ---
-title: MARKO
-special_judge: false
-time_limit: 2 초
-memory_limit: 64 MB
+title: "MARKO"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "64 MB"
 submissions: 251
 accepted: 183
 solved_users: 164
-acceptance_rate: 73.543%
-collected_at: 2026-04-17T12:42:33.887804+00:00
+acceptance_rate: "73.543%"
+collected_at: "2026-04-17T12:42:33.887804+00:00"
 ---
 
 ## 문제

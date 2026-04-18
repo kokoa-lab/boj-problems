@@ -1,13 +1,13 @@
 ---
-title: Number Theory
-special_judge: false
-time_limit: 7 초
-memory_limit: 1024 MB
+title: "Number Theory"
+special_judge: "false"
+time_limit: "7 초"
+memory_limit: "1024 MB"
 submissions: 2
 accepted: 1
 solved_users: 1
-acceptance_rate: 50.000%
-collected_at: 2026-04-17T19:21:35.789562+00:00
+acceptance_rate: "50.000%"
+collected_at: "2026-04-17T19:21:35.789562+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 한동이는 공부가 하기 싫어!
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "한동이는 공부가 하기 싫어!"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 1517
 accepted: 1110
 solved_users: 957
-acceptance_rate: 74.533%
-collected_at: 2026-04-17T10:47:15.547360+00:00
+acceptance_rate: "74.533%"
+collected_at: "2026-04-17T10:47:15.547360+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 레이저 쏘기
-special_judge: false
-time_limit: 1.5 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "레이저 쏘기"
+special_judge: "false"
+time_limit: "1.5 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 229
 accepted: 97
 solved_users: 85
-acceptance_rate: 48.851%
-collected_at: 2026-04-17T18:04:40.589101+00:00
+acceptance_rate: "48.851%"
+collected_at: "2026-04-17T18:04:40.589101+00:00"
 ---
 
 ## 문제

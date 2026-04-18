@@ -1,13 +1,13 @@
 ---
-title: 가장 긴 문자열
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "가장 긴 문자열"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 9466
 accepted: 2788
 solved_users: 1522
-acceptance_rate: 31.834%
-collected_at: 2026-04-17T10:46:18.794077+00:00
+acceptance_rate: "31.834%"
+collected_at: "2026-04-17T10:46:18.794077+00:00"
 ---
 
 ## 문제

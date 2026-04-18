@@ -1,13 +1,13 @@
 ---
-title: 두 배열의 합
-special_judge: false
-time_limit: 2 초
-memory_limit: 64 MB
+title: "두 배열의 합"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "64 MB"
 submissions: 41129
 accepted: 15155
 solved_users: 10283
-acceptance_rate: 33.653%
-collected_at: 2026-04-17T10:38:48.519043+00:00
+acceptance_rate: "33.653%"
+collected_at: "2026-04-17T10:38:48.519043+00:00"
 ---
 
 ## 문제

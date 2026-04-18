@@ -1,13 +1,13 @@
 ---
-title: Gastronomic Event
-special_judge: false
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 2048 MB
+title: "Gastronomic Event"
+special_judge: "false"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "2048 MB"
 submissions: 105
 accepted: 54
 solved_users: 42
-acceptance_rate: 48.276%
-collected_at: 2026-04-17T17:19:59.766783+00:00
+acceptance_rate: "48.276%"
+collected_at: "2026-04-17T17:19:59.766783+00:00"
 ---
 
 ## 문제

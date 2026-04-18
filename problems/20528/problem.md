@@ -1,13 +1,13 @@
 ---
-title: 끝말잇기
-special_judge: false
-time_limit: 1 초
-memory_limit: 1536 MB
+title: "끝말잇기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1536 MB"
 submissions: 3102
 accepted: 2154
 solved_users: 1934
-acceptance_rate: 70.353%
-collected_at: 2026-04-17T15:37:35.681558+00:00
+acceptance_rate: "70.353%"
+collected_at: "2026-04-17T15:37:35.681558+00:00"
 ---
 
 ## 문제

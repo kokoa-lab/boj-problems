@@ -1,13 +1,13 @@
 ---
-title: Disruption
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Disruption"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 212
 accepted: 100
 solved_users: 84
-acceptance_rate: 53.503%
-collected_at: 2026-04-17T14:05:52.455274+00:00
+acceptance_rate: "53.503%"
+collected_at: "2026-04-17T14:05:52.455274+00:00"
 ---
 
 ## 문제

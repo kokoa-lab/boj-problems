@@ -1,13 +1,13 @@
 ---
-title: 유령의 집
-special_judge: false
-time_limit: 3 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "유령의 집"
+special_judge: "false"
+time_limit: "3 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 409
 accepted: 80
 solved_users: 68
-acceptance_rate: 30.909%
-collected_at: 2026-04-17T14:38:04.499236+00:00
+acceptance_rate: "30.909%"
+collected_at: "2026-04-17T14:38:04.499236+00:00"
 ---
 
 ## 문제

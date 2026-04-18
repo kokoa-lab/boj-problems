@@ -1,13 +1,13 @@
 ---
-title: Goldberg Machine 2
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Goldberg Machine 2"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 0
 accepted: 0
 solved_users: 0
-acceptance_rate: 0.000%
-collected_at: 2026-04-17T16:43:14.612948+00:00
+acceptance_rate: "0.000%"
+collected_at: "2026-04-17T16:43:14.612948+00:00"
 ---
 
 ## 문제

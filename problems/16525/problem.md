@@ -1,13 +1,13 @@
 ---
-title: Escape, Polygon!
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Escape, Polygon!"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 98
 accepted: 55
 solved_users: 47
-acceptance_rate: 55.294%
-collected_at: 2026-04-17T14:19:32.092049+00:00
+acceptance_rate: "55.294%"
+collected_at: "2026-04-17T14:19:32.092049+00:00"
 ---
 
 ## 문제

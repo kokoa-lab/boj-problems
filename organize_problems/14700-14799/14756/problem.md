@@ -1,13 +1,13 @@
 ---
-title: Telescope
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Telescope"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 1061
 accepted: 282
 solved_users: 197
-acceptance_rate: 25.064%
-collected_at: 2026-04-17T13:41:28.593865+00:00
+acceptance_rate: "25.064%"
+collected_at: "2026-04-17T13:41:28.593865+00:00"
 ---
 
 ## 문제

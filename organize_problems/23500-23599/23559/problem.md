@@ -1,13 +1,13 @@
 ---
-title: 밥
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "밥"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 3127
 accepted: 1115
 solved_users: 908
-acceptance_rate: 36.731%
-collected_at: 2026-04-17T16:50:03.217798+00:00
+acceptance_rate: "36.731%"
+collected_at: "2026-04-17T16:50:03.217798+00:00"
 ---
 
 ## 문제

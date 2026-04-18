@@ -1,13 +1,13 @@
 ---
-title: Grid Game
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Grid Game"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 50
 accepted: 29
 solved_users: 27
-acceptance_rate: 79.412%
-collected_at: 2026-04-17T19:41:52.240562+00:00
+acceptance_rate: "79.412%"
+collected_at: "2026-04-17T19:41:52.240562+00:00"
 ---
 
 ## 문제

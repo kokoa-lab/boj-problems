@@ -1,13 +1,13 @@
 ---
-title: POI
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "POI"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 714
 accepted: 383
 solved_users: 326
-acceptance_rate: 53.094%
-collected_at: 2026-04-17T11:14:10.323671+00:00
+acceptance_rate: "53.094%"
+collected_at: "2026-04-17T11:14:10.323671+00:00"
 ---
 
 ## 문제

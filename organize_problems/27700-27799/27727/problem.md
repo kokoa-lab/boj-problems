@@ -1,13 +1,13 @@
 ---
-title: 버튼 정렬
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "버튼 정렬"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 812
 accepted: 159
 solved_users: 130
-acceptance_rate: 19.259%
-collected_at: 2026-04-17T18:09:41.508595+00:00
+acceptance_rate: "19.259%"
+collected_at: "2026-04-17T18:09:41.508595+00:00"
 ---
 
 ## 문제

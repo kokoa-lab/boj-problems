@@ -1,13 +1,13 @@
 ---
-title: Post Office
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Post Office"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 281
 accepted: 118
 solved_users: 101
-acceptance_rate: 41.736%
-collected_at: 2026-04-17T11:09:04.080975+00:00
+acceptance_rate: "41.736%"
+collected_at: "2026-04-17T11:09:04.080975+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Cramming for Finals
-special_judge: false
-time_limit: 4 초 (추가 시간 없음)
-memory_limit: 2048 MB
+title: "Cramming for Finals"
+special_judge: "false"
+time_limit: "4 초 (추가 시간 없음)"
+memory_limit: "2048 MB"
 submissions: 58
 accepted: 20
 solved_users: 20
-acceptance_rate: 41.667%
-collected_at: 2026-04-17T19:29:36.152066+00:00
+acceptance_rate: "41.667%"
+collected_at: "2026-04-17T19:29:36.152066+00:00"
 ---
 
 ## 문제

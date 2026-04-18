@@ -1,13 +1,13 @@
 ---
-title: We don’t wanna work!
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "We don’t wanna work!"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 76
 accepted: 31
 solved_users: 29
-acceptance_rate: 40.845%
-collected_at: 2026-04-17T14:00:59.483105+00:00
+acceptance_rate: "40.845%"
+collected_at: "2026-04-17T14:00:59.483105+00:00"
 ---
 
 ## 문제

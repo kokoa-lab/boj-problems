@@ -1,13 +1,13 @@
 ---
-title: River Crossing
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "River Crossing"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 115
 accepted: 79
 solved_users: 73
-acceptance_rate: 66.972%
-collected_at: 2026-04-17T11:21:55.317974+00:00
+acceptance_rate: "66.972%"
+collected_at: "2026-04-17T11:21:55.317974+00:00"
 ---
 
 ## 문제

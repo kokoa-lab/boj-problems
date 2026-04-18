@@ -1,13 +1,13 @@
 ---
-title: 애너그램 만들기
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "애너그램 만들기"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 22919
 accepted: 13628
 solved_users: 11188
-acceptance_rate: 59.759%
-collected_at: 2026-04-17T10:35:43.859182+00:00
+acceptance_rate: "59.759%"
+collected_at: "2026-04-17T10:35:43.859182+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 삼각형과 세 변
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "삼각형과 세 변"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 70459
 accepted: 33462
 solved_users: 30268
-acceptance_rate: 47.781%
-collected_at: 2026-04-17T11:11:19.114771+00:00
+acceptance_rate: "47.781%"
+collected_at: "2026-04-17T11:11:19.114771+00:00"
 ---
 
 ## 문제

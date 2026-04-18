@@ -1,13 +1,13 @@
 ---
-title: 지속
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "지속"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 2350
 accepted: 1907
 solved_users: 1790
-acceptance_rate: 82.679%
-collected_at: 2026-04-17T12:43:29.199186+00:00
+acceptance_rate: "82.679%"
+collected_at: "2026-04-17T12:43:29.199186+00:00"
 ---
 
 ## 문제

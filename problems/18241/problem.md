@@ -1,13 +1,13 @@
 ---
-title: 문자열 게임
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "문자열 게임"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 853
 accepted: 97
 solved_users: 71
-acceptance_rate: 12.178%
-collected_at: 2026-04-17T14:57:47.169259+00:00
+acceptance_rate: "12.178%"
+collected_at: "2026-04-17T14:57:47.169259+00:00"
 ---
 
 ## 문제

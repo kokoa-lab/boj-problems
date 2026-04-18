@@ -1,13 +1,13 @@
 ---
-title: 강당 대관
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "강당 대관"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 2031
 accepted: 1588
 solved_users: 1507
-acceptance_rate: 80.117%
-collected_at: 2026-04-17T19:40:27.597258+00:00
+acceptance_rate: "80.117%"
+collected_at: "2026-04-17T19:40:27.597258+00:00"
 ---
 
 ## 문제

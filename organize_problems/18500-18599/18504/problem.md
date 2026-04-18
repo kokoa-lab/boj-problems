@@ -1,13 +1,13 @@
 ---
-title: Bracket Euler Tour
-special_judge: true
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Bracket Euler Tour"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 84
 accepted: 20
 solved_users: 20
-acceptance_rate: 23.810%
-collected_at: 2026-04-17T15:05:45.990556+00:00
+acceptance_rate: "23.810%"
+collected_at: "2026-04-17T15:05:45.990556+00:00"
 ---
 
 ## 문제

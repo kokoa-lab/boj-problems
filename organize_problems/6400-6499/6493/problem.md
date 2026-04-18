@@ -1,13 +1,13 @@
 ---
-title: Slurpys
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Slurpys"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 279
 accepted: 144
 solved_users: 120
-acceptance_rate: 57.143%
-collected_at: 2026-04-17T11:29:06.109153+00:00
+acceptance_rate: "57.143%"
+collected_at: "2026-04-17T11:29:06.109153+00:00"
 ---
 
 ## 문제

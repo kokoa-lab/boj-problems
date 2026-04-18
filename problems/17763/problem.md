@@ -1,13 +1,13 @@
 ---
-title: Fish
-special_judge: false
-time_limit: 1.5 초
-memory_limit: 512 MB
+title: "Fish"
+special_judge: "false"
+time_limit: "1.5 초"
+memory_limit: "512 MB"
 submissions: 108
 accepted: 52
 solved_users: 40
-acceptance_rate: 50.000%
-collected_at: 2026-04-17T14:46:49.810052+00:00
+acceptance_rate: "50.000%"
+collected_at: "2026-04-17T14:46:49.810052+00:00"
 ---
 
 ## 문제

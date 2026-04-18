@@ -1,13 +1,13 @@
 ---
-title: 마법의 돌 조각 연구
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "마법의 돌 조각 연구"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 131
 accepted: 17
 solved_users: 10
-acceptance_rate: 13.514%
-collected_at: 2026-04-17T16:00:10.187443+00:00
+acceptance_rate: "13.514%"
+collected_at: "2026-04-17T16:00:10.187443+00:00"
 ---
 
 ## 문제

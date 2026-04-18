@@ -1,13 +1,13 @@
 ---
-title: 나무 자르기
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "나무 자르기"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 15
 accepted: 6
 solved_users: 6
-acceptance_rate: 75.000%
-collected_at: 2026-04-17T13:04:47.188751+00:00
+acceptance_rate: "75.000%"
+collected_at: "2026-04-17T13:04:47.188751+00:00"
 ---
 
 ## 문제

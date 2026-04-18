@@ -1,13 +1,13 @@
 ---
-title: Lifeboat Balancing
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Lifeboat Balancing"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 146
 accepted: 16
 solved_users: 7
-acceptance_rate: 6.796%
-collected_at: 2026-04-17T12:08:50.909300+00:00
+acceptance_rate: "6.796%"
+collected_at: "2026-04-17T12:08:50.909300+00:00"
 ---
 
 ## 문제

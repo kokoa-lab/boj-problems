@@ -1,13 +1,13 @@
 ---
-title: 랜선 연결
-special_judge: false
-time_limit: 1.5 초
-memory_limit: 1024 MB
+title: "랜선 연결"
+special_judge: "false"
+time_limit: "1.5 초"
+memory_limit: "1024 MB"
 submissions: 633
 accepted: 151
 solved_users: 118
-acceptance_rate: 23.320%
-collected_at: 2026-04-17T17:19:32.950726+00:00
+acceptance_rate: "23.320%"
+collected_at: "2026-04-17T17:19:32.950726+00:00"
 ---
 
 ## 문제

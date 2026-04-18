@@ -1,13 +1,13 @@
 ---
-title: Choose Your Own Arithmetic
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Choose Your Own Arithmetic"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 88
 accepted: 29
 solved_users: 25
-acceptance_rate: 31.250%
-collected_at: 2026-04-17T11:36:35.884308+00:00
+acceptance_rate: "31.250%"
+collected_at: "2026-04-17T11:36:35.884308+00:00"
 ---
 
 ## 문제

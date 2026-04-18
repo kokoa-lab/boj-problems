@@ -1,13 +1,13 @@
 ---
-title: Reconstruct Sum
-special_judge: true
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Reconstruct Sum"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 259
 accepted: 193
 solved_users: 166
-acceptance_rate: 75.455%
-collected_at: 2026-04-17T15:49:51.146795+00:00
+acceptance_rate: "75.455%"
+collected_at: "2026-04-17T15:49:51.146795+00:00"
 ---
 
 ## 문제

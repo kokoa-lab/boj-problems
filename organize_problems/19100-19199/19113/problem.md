@@ -1,13 +1,13 @@
 ---
-title: Master Zhu and Chessboard
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Master Zhu and Chessboard"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 9
 accepted: 1
 solved_users: 1
-acceptance_rate: 100.000%
-collected_at: 2026-04-17T15:13:39.645137+00:00
+acceptance_rate: "100.000%"
+collected_at: "2026-04-17T15:13:39.645137+00:00"
 ---
 
 ## 문제

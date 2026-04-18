@@ -1,13 +1,13 @@
 ---
-title: 두부 모판 자르기
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "두부 모판 자르기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 1967
 accepted: 905
 solved_users: 673
-acceptance_rate: 47.428%
-collected_at: 2026-04-17T12:31:51.599006+00:00
+acceptance_rate: "47.428%"
+collected_at: "2026-04-17T12:31:51.599006+00:00"
 ---
 
 ## 문제

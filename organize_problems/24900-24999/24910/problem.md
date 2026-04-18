@@ -1,13 +1,13 @@
 ---
-title: 하이퍼하게 누울 하이퍼 자리를 찾아라
-special_judge: false
-time_limit: 4 초
-memory_limit: 1024 MB
+title: "하이퍼하게 누울 하이퍼 자리를 찾아라"
+special_judge: "false"
+time_limit: "4 초"
+memory_limit: "1024 MB"
 submissions: 270
 accepted: 87
 solved_users: 56
-acceptance_rate: 28.141%
-collected_at: 2026-04-17T17:16:57.514378+00:00
+acceptance_rate: "28.141%"
+collected_at: "2026-04-17T17:16:57.514378+00:00"
 ---
 
 ## 문제

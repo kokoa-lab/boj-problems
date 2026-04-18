@@ -1,13 +1,13 @@
 ---
-title: 단어 사다리
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "단어 사다리"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 1114
 accepted: 490
 solved_users: 417
-acceptance_rate: 49.466%
-collected_at: 2026-04-17T12:08:04.726561+00:00
+acceptance_rate: "49.466%"
+collected_at: "2026-04-17T12:08:04.726561+00:00"
 ---
 
 ## 문제

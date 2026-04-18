@@ -1,13 +1,13 @@
 ---
-title: 모래성
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "모래성"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 6112
 accepted: 2030
 solved_users: 1373
-acceptance_rate: 31.070%
-collected_at: 2026-04-17T12:27:51.579694+00:00
+acceptance_rate: "31.070%"
+collected_at: "2026-04-17T12:27:51.579694+00:00"
 ---
 
 ## 문제

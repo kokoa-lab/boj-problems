@@ -1,13 +1,13 @@
 ---
-title: Usagitobi
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Usagitobi"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 21
 accepted: 5
 solved_users: 5
-acceptance_rate: 41.667%
-collected_at: 2026-04-17T16:26:26.976331+00:00
+acceptance_rate: "41.667%"
+collected_at: "2026-04-17T16:26:26.976331+00:00"
 ---
 
 ## 문제

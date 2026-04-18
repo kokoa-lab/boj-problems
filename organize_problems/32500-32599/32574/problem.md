@@ -1,13 +1,13 @@
 ---
-title: Reptile Eggs
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Reptile Eggs"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 5
 accepted: 3
 solved_users: 3
-acceptance_rate: 60.000%
-collected_at: 2026-04-17T19:56:21.276122+00:00
+acceptance_rate: "60.000%"
+collected_at: "2026-04-17T19:56:21.276122+00:00"
 ---
 
 ## 문제

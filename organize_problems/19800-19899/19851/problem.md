@@ -1,13 +1,13 @@
 ---
-title: 버거운 버거
-special_judge: false
-time_limit: 3 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "버거운 버거"
+special_judge: "false"
+time_limit: "3 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 488
 accepted: 169
 solved_users: 134
-acceptance_rate: 40.483%
-collected_at: 2026-04-17T15:28:32.026579+00:00
+acceptance_rate: "40.483%"
+collected_at: "2026-04-17T15:28:32.026579+00:00"
 ---
 
 ## 문제

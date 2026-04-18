@@ -1,13 +1,13 @@
 ---
-title: Part Elf (Small)
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Part Elf (Small)"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 41
 accepted: 31
 solved_users: 28
-acceptance_rate: 87.500%
-collected_at: 2026-04-17T12:52:21.966226+00:00
+acceptance_rate: "87.500%"
+collected_at: "2026-04-17T12:52:21.966226+00:00"
 ---
 
 ## 문제

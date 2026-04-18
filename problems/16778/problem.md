@@ -1,13 +1,13 @@
 ---
-title: Sterilizing Spray
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Sterilizing Spray"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 90
 accepted: 29
 solved_users: 27
-acceptance_rate: 39.706%
-collected_at: 2026-04-17T14:23:51.572679+00:00
+acceptance_rate: "39.706%"
+collected_at: "2026-04-17T14:23:51.572679+00:00"
 ---
 
 ## 문제

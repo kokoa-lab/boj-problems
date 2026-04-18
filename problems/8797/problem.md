@@ -1,13 +1,13 @@
 ---
-title: Konkotenacja
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "Konkotenacja"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 59
 accepted: 25
 solved_users: 20
-acceptance_rate: 54.054%
-collected_at: 2026-04-17T12:03:32.915460+00:00
+acceptance_rate: "54.054%"
+collected_at: "2026-04-17T12:03:32.915460+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Encoding Binary Numbers
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Encoding Binary Numbers"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 229
 accepted: 176
 solved_users: 153
-acceptance_rate: 78.866%
-collected_at: 2026-04-17T12:14:38.729269+00:00
+acceptance_rate: "78.866%"
+collected_at: "2026-04-17T12:14:38.729269+00:00"
 ---
 
 ## 문제

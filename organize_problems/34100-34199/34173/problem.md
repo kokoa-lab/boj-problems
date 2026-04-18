@@ -1,13 +1,13 @@
 ---
-title: PS는 풋살의 약자야
-special_judge: true
-time_limit: 0.2 초 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "PS는 풋살의 약자야"
+special_judge: "true"
+time_limit: "0.2 초 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 126
 accepted: 37
 solved_users: 21
-acceptance_rate: 23.864%
-collected_at: 2026-04-17T20:32:18.875325+00:00
+acceptance_rate: "23.864%"
+collected_at: "2026-04-17T20:32:18.875325+00:00"
 ---
 
 ## 문제

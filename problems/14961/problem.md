@@ -1,13 +1,13 @@
 ---
-title: Untangling Chain
-special_judge: true
-time_limit: 0.5 초
-memory_limit: 512 MB
+title: "Untangling Chain"
+special_judge: "true"
+time_limit: "0.5 초"
+memory_limit: "512 MB"
 submissions: 349
 accepted: 194
 solved_users: 159
-acceptance_rate: 54.828%
-collected_at: 2026-04-17T13:46:58.551831+00:00
+acceptance_rate: "54.828%"
+collected_at: "2026-04-17T13:46:58.551831+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 공정 컨설턴트 호석
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "공정 컨설턴트 호석"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 1550
 accepted: 641
 solved_users: 449
-acceptance_rate: 37.573%
-collected_at: 2026-04-17T16:17:57.748900+00:00
+acceptance_rate: "37.573%"
+collected_at: "2026-04-17T16:17:57.748900+00:00"
 ---
 
 ## 문제

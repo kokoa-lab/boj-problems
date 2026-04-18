@@ -1,13 +1,13 @@
 ---
-title: 끝까지 외친 정수의 개수
-special_judge: false
-time_limit: 3 초
-memory_limit: 512 MB
+title: "끝까지 외친 정수의 개수"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "512 MB"
 submissions: 186
 accepted: 67
 solved_users: 54
-acceptance_rate: 38.298%
-collected_at: 2026-04-17T17:26:22.576913+00:00
+acceptance_rate: "38.298%"
+collected_at: "2026-04-17T17:26:22.576913+00:00"
 ---
 
 ## 문제

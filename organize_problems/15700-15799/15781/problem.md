@@ -1,13 +1,13 @@
 ---
-title: 헬멧과 조끼
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "헬멧과 조끼"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 3811
 accepted: 3216
 solved_users: 2988
-acceptance_rate: 85.862%
-collected_at: 2026-04-17T14:06:18.910860+00:00
+acceptance_rate: "85.862%"
+collected_at: "2026-04-17T14:06:18.910860+00:00"
 ---
 
 ## 문제

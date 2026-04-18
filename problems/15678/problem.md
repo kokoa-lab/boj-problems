@@ -1,13 +1,13 @@
 ---
-title: 연세워터파크
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "연세워터파크"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 5339
 accepted: 2533
 solved_users: 1872
-acceptance_rate: 45.261%
-collected_at: 2026-04-17T14:04:05.884124+00:00
+acceptance_rate: "45.261%"
+collected_at: "2026-04-17T14:04:05.884124+00:00"
 ---
 
 ## 문제

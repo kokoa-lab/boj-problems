@@ -1,13 +1,13 @@
 ---
-title: Join the Conversation
-special_judge: true
-time_limit: 2 초
-memory_limit: 128 MB
+title: "Join the Conversation"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 151
 accepted: 30
 solved_users: 28
-acceptance_rate: 19.580%
-collected_at: 2026-04-17T12:11:35.909168+00:00
+acceptance_rate: "19.580%"
+collected_at: "2026-04-17T12:11:35.909168+00:00"
 ---
 
 ## 문제

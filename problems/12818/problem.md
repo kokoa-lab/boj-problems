@@ -1,13 +1,13 @@
 ---
-title: Investigation
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Investigation"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 30
 accepted: 15
 solved_users: 13
-acceptance_rate: 48.148%
-collected_at: 2026-04-17T13:01:54.894364+00:00
+acceptance_rate: "48.148%"
+collected_at: "2026-04-17T13:01:54.894364+00:00"
 ---
 
 ## 문제

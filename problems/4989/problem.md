@@ -1,13 +1,13 @@
 ---
-title: Traveling by Stagecoach
-special_judge: true
-time_limit: 3 초
-memory_limit: 128 MB
+title: "Traveling by Stagecoach"
+special_judge: "true"
+time_limit: "3 초"
+memory_limit: "128 MB"
 submissions: 66
 accepted: 30
 solved_users: 28
-acceptance_rate: 45.902%
-collected_at: 2026-04-17T11:10:39.309347+00:00
+acceptance_rate: "45.902%"
+collected_at: "2026-04-17T11:10:39.309347+00:00"
 ---
 
 ## 문제

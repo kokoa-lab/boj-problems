@@ -1,13 +1,13 @@
 ---
-title: 장마
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "장마"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 289
 accepted: 145
 solved_users: 116
-acceptance_rate: 52.968%
-collected_at: 2026-04-17T17:29:46.287611+00:00
+acceptance_rate: "52.968%"
+collected_at: "2026-04-17T17:29:46.287611+00:00"
 ---
 
 ## 문제

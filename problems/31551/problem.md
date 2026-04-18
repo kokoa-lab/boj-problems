@@ -1,13 +1,13 @@
 ---
-title: Mooball Teams III
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Mooball Teams III"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 45
 accepted: 19
 solved_users: 10
-acceptance_rate: 33.333%
-collected_at: 2026-04-17T19:30:35.060561+00:00
+acceptance_rate: "33.333%"
+collected_at: "2026-04-17T19:30:35.060561+00:00"
 ---
 
 ## 문제

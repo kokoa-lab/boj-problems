@@ -1,13 +1,13 @@
 ---
-title: 빈도 정렬
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "빈도 정렬"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 17876
 accepted: 10399
 solved_users: 7625
-acceptance_rate: 57.621%
-collected_at: 2026-04-17T10:45:39.030801+00:00
+acceptance_rate: "57.621%"
+collected_at: "2026-04-17T10:45:39.030801+00:00"
 ---
 
 ## 문제

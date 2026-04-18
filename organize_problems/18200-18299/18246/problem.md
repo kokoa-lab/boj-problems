@@ -1,13 +1,13 @@
 ---
-title: 색종이와 쿼리
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "색종이와 쿼리"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 772
 accepted: 238
 solved_users: 144
-acceptance_rate: 32.877%
-collected_at: 2026-04-17T14:57:51.180312+00:00
+acceptance_rate: "32.877%"
+collected_at: "2026-04-17T14:57:51.180312+00:00"
 ---
 
 ## 문제

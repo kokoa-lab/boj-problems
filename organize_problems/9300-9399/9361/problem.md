@@ -1,13 +1,13 @@
 ---
-title: Manhattan Sort
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Manhattan Sort"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 84
 accepted: 46
 solved_users: 41
-acceptance_rate: 63.077%
-collected_at: 2026-04-17T12:09:16.218270+00:00
+acceptance_rate: "63.077%"
+collected_at: "2026-04-17T12:09:16.218270+00:00"
 ---
 
 ## 문제

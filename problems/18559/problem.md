@@ -1,13 +1,13 @@
 ---
-title: Call It What You Want
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Call It What You Want"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 298
 accepted: 90
 solved_users: 52
-acceptance_rate: 27.957%
-collected_at: 2026-04-17T15:06:34.583282+00:00
+acceptance_rate: "27.957%"
+collected_at: "2026-04-17T15:06:34.583282+00:00"
 ---
 
 ## 문제

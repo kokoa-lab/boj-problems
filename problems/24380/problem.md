@@ -1,13 +1,13 @@
 ---
-title: Коледари
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Коледари"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 111
 accepted: 26
 solved_users: 17
-acceptance_rate: 18.681%
-collected_at: 2026-04-17T17:08:29.442581+00:00
+acceptance_rate: "18.681%"
+collected_at: "2026-04-17T17:08:29.442581+00:00"
 ---
 
 ## 문제

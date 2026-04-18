@@ -1,13 +1,13 @@
 ---
-title: ブラックジャック (Blackjack)
-special_judge: false
-time_limit: 2 초
-memory_limit: 2048 MB
+title: "ブラックジャック (Blackjack)"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "2048 MB"
 submissions: 2116
 accepted: 1538
 solved_users: 1447
-acceptance_rate: 72.350%
-collected_at: 2026-04-17T20:10:38.226853+00:00
+acceptance_rate: "72.350%"
+collected_at: "2026-04-17T20:10:38.226853+00:00"
 ---
 
 ## 문제

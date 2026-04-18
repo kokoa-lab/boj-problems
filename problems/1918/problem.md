@@ -1,13 +1,13 @@
 ---
-title: 후위 표기식
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "후위 표기식"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 61524
 accepted: 24779
 solved_users: 19066
-acceptance_rate: 39.708%
-collected_at: 2026-04-17T10:35:52.205801+00:00
+acceptance_rate: "39.708%"
+collected_at: "2026-04-17T10:35:52.205801+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: gcd와 set
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "gcd와 set"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 251
 accepted: 106
 solved_users: 88
-acceptance_rate: 47.826%
-collected_at: 2026-04-18T09:59:27.196840+00:00
+acceptance_rate: "47.826%"
+collected_at: "2026-04-18T09:59:27.196840+00:00"
 ---
 
 ## 문제

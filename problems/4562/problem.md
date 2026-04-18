@@ -1,13 +1,13 @@
 ---
-title: No Brainer
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "No Brainer"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 7467
 accepted: 5361
 solved_users: 5143
-acceptance_rate: 73.650%
-collected_at: 2026-04-17T11:04:11.590062+00:00
+acceptance_rate: "73.650%"
+collected_at: "2026-04-17T11:04:11.590062+00:00"
 ---
 
 ## 문제

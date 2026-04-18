@@ -1,13 +1,13 @@
 ---
-title: Artilleries and Defensive Walls
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Artilleries and Defensive Walls"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 22
 accepted: 9
 solved_users: 8
-acceptance_rate: 61.538%
-collected_at: 2026-04-17T14:20:20.193985+00:00
+acceptance_rate: "61.538%"
+collected_at: "2026-04-17T14:20:20.193985+00:00"
 ---
 
 ## 문제

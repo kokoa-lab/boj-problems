@@ -1,13 +1,13 @@
 ---
-title: Three Kingdoms of Bourdelot
-special_judge: false
-time_limit: 4 초
-memory_limit: 512 MB
+title: "Three Kingdoms of Bourdelot"
+special_judge: "false"
+time_limit: "4 초"
+memory_limit: "512 MB"
 submissions: 77
 accepted: 23
 solved_users: 21
-acceptance_rate: 38.182%
-collected_at: 2026-04-17T13:12:54.605286+00:00
+acceptance_rate: "38.182%"
+collected_at: "2026-04-17T13:12:54.605286+00:00"
 ---
 
 ## 문제

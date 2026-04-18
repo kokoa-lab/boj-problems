@@ -1,13 +1,13 @@
 ---
-title: Earthquake
-special_judge: false
-time_limit: 3 초
-memory_limit: 1024 MB
+title: "Earthquake"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "1024 MB"
 submissions: 69
 accepted: 31
 solved_users: 23
-acceptance_rate: 40.351%
-collected_at: 2026-04-17T17:39:19.378556+00:00
+acceptance_rate: "40.351%"
+collected_at: "2026-04-17T17:39:19.378556+00:00"
 ---
 
 ## 문제

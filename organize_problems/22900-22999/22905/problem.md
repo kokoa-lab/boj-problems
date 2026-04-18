@@ -1,13 +1,13 @@
 ---
-title: 오렌지 리프의 특별 훈련
-special_judge: false
-time_limit: 8 초
-memory_limit: 1024 MB
+title: "오렌지 리프의 특별 훈련"
+special_judge: "false"
+time_limit: "8 초"
+memory_limit: "1024 MB"
 submissions: 104
 accepted: 42
 solved_users: 20
-acceptance_rate: 32.787%
-collected_at: 2026-04-17T16:38:25.481217+00:00
+acceptance_rate: "32.787%"
+collected_at: "2026-04-17T16:38:25.481217+00:00"
 ---
 
 ## 문제

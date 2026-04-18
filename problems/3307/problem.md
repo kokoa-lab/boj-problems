@@ -1,13 +1,13 @@
 ---
-title: 대회가 끝나고 난 뒤 빰빠빰
-special_judge: true
-time_limit: 1 초
-memory_limit: 128 MB
+title: "대회가 끝나고 난 뒤 빰빠빰"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 563
 accepted: 132
 solved_users: 81
-acceptance_rate: 25.962%
-collected_at: 2026-04-17T10:48:02.232341+00:00
+acceptance_rate: "25.962%"
+collected_at: "2026-04-17T10:48:02.232341+00:00"
 ---
 
 ## 문제

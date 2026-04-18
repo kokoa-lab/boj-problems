@@ -1,13 +1,13 @@
 ---
-title: Automatic Scholarship Calculation
-special_judge: false
-time_limit: 4 초
-memory_limit: 256 MB
+title: "Automatic Scholarship Calculation"
+special_judge: "false"
+time_limit: "4 초"
+memory_limit: "256 MB"
 submissions: 59
 accepted: 26
 solved_users: 18
-acceptance_rate: 36.735%
-collected_at: 2026-04-17T12:46:00.535966+00:00
+acceptance_rate: "36.735%"
+collected_at: "2026-04-17T12:46:00.535966+00:00"
 ---
 
 ## 문제

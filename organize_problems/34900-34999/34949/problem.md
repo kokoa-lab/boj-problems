@@ -1,13 +1,13 @@
 ---
-title: 이대로 가면 되나요?
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "이대로 가면 되나요?"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 287
 accepted: 177
 solved_users: 162
-acceptance_rate: 63.281%
-collected_at: 2026-04-17T20:52:31.900046+00:00
+acceptance_rate: "63.281%"
+collected_at: "2026-04-17T20:52:31.900046+00:00"
 ---
 
 ## 문제

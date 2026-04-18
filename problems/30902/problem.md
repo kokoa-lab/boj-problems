@@ -1,13 +1,13 @@
 ---
-title: Exponentiation
-special_judge: false
-time_limit: 3 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Exponentiation"
+special_judge: "false"
+time_limit: "3 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 63
 accepted: 29
 solved_users: 26
-acceptance_rate: 63.415%
-collected_at: 2026-04-17T19:17:47.987547+00:00
+acceptance_rate: "63.415%"
+collected_at: "2026-04-17T19:17:47.987547+00:00"
 ---
 
 ## 문제

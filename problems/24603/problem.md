@@ -1,13 +1,13 @@
 ---
-title: Scaling Recipe
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Scaling Recipe"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 444
 accepted: 346
 solved_users: 324
-acceptance_rate: 77.512%
-collected_at: 2026-04-17T17:11:47.859744+00:00
+acceptance_rate: "77.512%"
+collected_at: "2026-04-17T17:11:47.859744+00:00"
 ---
 
 ## 문제

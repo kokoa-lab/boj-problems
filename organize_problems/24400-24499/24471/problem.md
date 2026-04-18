@@ -1,13 +1,13 @@
 ---
-title: Izbori
-special_judge: false
-time_limit: 3 초
-memory_limit: 512 MB
+title: "Izbori"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "512 MB"
 submissions: 58
 accepted: 19
 solved_users: 14
-acceptance_rate: 29.167%
-collected_at: 2026-04-17T17:09:54.806903+00:00
+acceptance_rate: "29.167%"
+collected_at: "2026-04-17T17:09:54.806903+00:00"
 ---
 
 ## 문제

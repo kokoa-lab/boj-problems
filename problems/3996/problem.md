@@ -1,13 +1,13 @@
 ---
-title: 위대한 사기꾼
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "위대한 사기꾼"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 695
 accepted: 194
 solved_users: 145
-acceptance_rate: 32.080%
-collected_at: 2026-04-17T10:54:19.973214+00:00
+acceptance_rate: "32.080%"
+collected_at: "2026-04-17T10:54:19.973214+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 영상처리
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "영상처리"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 3746
 accepted: 1568
 solved_users: 1238
-acceptance_rate: 39.910%
-collected_at: 2026-04-17T16:10:16.337284+00:00
+acceptance_rate: "39.910%"
+collected_at: "2026-04-17T16:10:16.337284+00:00"
 ---
 
 ## 문제

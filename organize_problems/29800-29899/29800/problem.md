@@ -1,13 +1,13 @@
 ---
-title: The Decades of Coding Competitions
-special_judge: false
-time_limit: 서브태스크 참고 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "The Decades of Coding Competitions"
+special_judge: "false"
+time_limit: "서브태스크 참고 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 8
 accepted: 5
 solved_users: 5
-acceptance_rate: 71.429%
-collected_at: 2026-04-17T18:53:14.718173+00:00
+acceptance_rate: "71.429%"
+collected_at: "2026-04-17T18:53:14.718173+00:00"
 ---
 
 ## 문제

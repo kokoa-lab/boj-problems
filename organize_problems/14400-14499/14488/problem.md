@@ -1,13 +1,13 @@
 ---
-title: 준오는 급식충이야!!
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "준오는 급식충이야!!"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 1306
 accepted: 322
 solved_users: 248
-acceptance_rate: 31.592%
-collected_at: 2026-04-17T13:36:19.647992+00:00
+acceptance_rate: "31.592%"
+collected_at: "2026-04-17T13:36:19.647992+00:00"
 ---
 
 ## 문제

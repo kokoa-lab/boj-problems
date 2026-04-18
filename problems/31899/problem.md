@@ -1,13 +1,13 @@
 ---
-title: Compression
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Compression"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 85
 accepted: 42
 solved_users: 38
-acceptance_rate: 60.317%
-collected_at: 2026-04-17T19:38:42.232558+00:00
+acceptance_rate: "60.317%"
+collected_at: "2026-04-17T19:38:42.232558+00:00"
 ---
 
 ## 문제

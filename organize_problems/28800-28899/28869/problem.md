@@ -1,13 +1,13 @@
 ---
-title: Автодополнение
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Автодополнение"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 10
 accepted: 3
 solved_users: 3
-acceptance_rate: 30.000%
-collected_at: 2026-04-17T18:33:49.990921+00:00
+acceptance_rate: "30.000%"
+collected_at: "2026-04-17T18:33:49.990921+00:00"
 ---
 
 ## 문제

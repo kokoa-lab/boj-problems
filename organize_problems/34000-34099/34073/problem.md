@@ -1,13 +1,13 @@
 ---
-title: DORO
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "DORO"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 1739
 accepted: 1422
 solved_users: 1342
-acceptance_rate: 82.432%
-collected_at: 2026-04-17T20:29:54.903039+00:00
+acceptance_rate: "82.432%"
+collected_at: "2026-04-17T20:29:54.903039+00:00"
 ---
 
 ## 문제

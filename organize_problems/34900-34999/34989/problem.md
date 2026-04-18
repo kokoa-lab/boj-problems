@@ -1,13 +1,13 @@
 ---
-title: generator
-special_judge: true
-time_limit: 1 초
-memory_limit: 512 MB
+title: "generator"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 196
 accepted: 70
 solved_users: 61
-acceptance_rate: 41.497%
-collected_at: 2026-04-17T20:53:16.057713+00:00
+acceptance_rate: "41.497%"
+collected_at: "2026-04-17T20:53:16.057713+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 일어나... 코딩해야지...
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "일어나... 코딩해야지..."
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 595
 accepted: 159
 solved_users: 111
-acceptance_rate: 27.820%
-collected_at: 2026-04-17T17:09:47.388210+00:00
+acceptance_rate: "27.820%"
+collected_at: "2026-04-17T17:09:47.388210+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Максимальное произведение
-special_judge: true
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Максимальное произведение"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 84
 accepted: 44
 solved_users: 37
-acceptance_rate: 59.677%
-collected_at: 2026-04-17T15:28:43.627130+00:00
+acceptance_rate: "59.677%"
+collected_at: "2026-04-17T15:28:43.627130+00:00"
 ---
 
 ## 문제

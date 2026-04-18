@@ -1,13 +1,13 @@
 ---
-title: 달달함이 넘쳐흘러
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "달달함이 넘쳐흘러"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 10415
 accepted: 8188
 solved_users: 7819
-acceptance_rate: 79.494%
-collected_at: 2026-04-17T14:35:23.512500+00:00
+acceptance_rate: "79.494%"
+collected_at: "2026-04-17T14:35:23.512500+00:00"
 ---
 
 ## 문제

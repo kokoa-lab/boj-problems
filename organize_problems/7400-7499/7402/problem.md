@@ -1,13 +1,13 @@
 ---
-title: Farmer Bill’s Problem
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "Farmer Bill’s Problem"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 47
 accepted: 10
 solved_users: 10
-acceptance_rate: 29.412%
-collected_at: 2026-04-17T11:49:04.086622+00:00
+acceptance_rate: "29.412%"
+collected_at: "2026-04-17T11:49:04.086622+00:00"
 ---
 
 ## 문제

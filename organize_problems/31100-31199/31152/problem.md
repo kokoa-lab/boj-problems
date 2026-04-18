@@ -1,13 +1,13 @@
 ---
-title: Replace Sort
-special_judge: false
-time_limit: 3 초
-memory_limit: 1024 MB
+title: "Replace Sort"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "1024 MB"
 submissions: 45
 accepted: 19
 solved_users: 18
-acceptance_rate: 54.545%
-collected_at: 2026-04-17T19:22:18.595991+00:00
+acceptance_rate: "54.545%"
+collected_at: "2026-04-17T19:22:18.595991+00:00"
 ---
 
 ## 문제

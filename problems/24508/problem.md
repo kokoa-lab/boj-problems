@@ -1,13 +1,13 @@
 ---
-title: 나도리팡
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "나도리팡"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 1915
 accepted: 481
 solved_users: 362
-acceptance_rate: 25.802%
-collected_at: 2026-04-17T17:10:21.536468+00:00
+acceptance_rate: "25.802%"
+collected_at: "2026-04-17T17:10:21.536468+00:00"
 ---
 
 ## 문제

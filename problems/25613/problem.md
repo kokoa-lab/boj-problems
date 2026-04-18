@@ -1,13 +1,13 @@
 ---
-title: 수 만들기
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "수 만들기"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 20
 accepted: 6
 solved_users: 6
-acceptance_rate: 42.857%
-collected_at: 2026-04-17T17:29:54.527835+00:00
+acceptance_rate: "42.857%"
+collected_at: "2026-04-17T17:29:54.527835+00:00"
 ---
 
 ## 문제

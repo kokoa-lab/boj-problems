@@ -1,13 +1,13 @@
 ---
-title: Burglary
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Burglary"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 51
 accepted: 17
 solved_users: 14
-acceptance_rate: 29.167%
-collected_at: 2026-04-17T13:58:57.707760+00:00
+acceptance_rate: "29.167%"
+collected_at: "2026-04-17T13:58:57.707760+00:00"
 ---
 
 ## 문제

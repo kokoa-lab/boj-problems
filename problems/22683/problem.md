@@ -1,13 +1,13 @@
 ---
-title: Square Route
-special_judge: false
-time_limit: 8 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "Square Route"
+special_judge: "false"
+time_limit: "8 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 24
 accepted: 23
 solved_users: 16
-acceptance_rate: 94.118%
-collected_at: 2026-04-17T16:31:54.066297+00:00
+acceptance_rate: "94.118%"
+collected_at: "2026-04-17T16:31:54.066297+00:00"
 ---
 
 ## 문제

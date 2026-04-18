@@ -1,13 +1,13 @@
 ---
-title: Angry Teacher
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Angry Teacher"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 69
 accepted: 38
 solved_users: 23
-acceptance_rate: 53.488%
-collected_at: 2026-04-17T11:49:38.095088+00:00
+acceptance_rate: "53.488%"
+collected_at: "2026-04-17T11:49:38.095088+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Rubik's Rectangle
-special_judge: true
-time_limit: 6 초
-memory_limit: 128 MB
+title: "Rubik's Rectangle"
+special_judge: "true"
+time_limit: "6 초"
+memory_limit: "128 MB"
 submissions: 143
 accepted: 35
 solved_users: 29
-acceptance_rate: 27.619%
-collected_at: 2026-04-17T12:10:58.572757+00:00
+acceptance_rate: "27.619%"
+collected_at: "2026-04-17T12:10:58.572757+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 아무래도이문제는A번난이도인것같다
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "아무래도이문제는A번난이도인것같다"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 13891
 accepted: 6263
 solved_users: 5413
-acceptance_rate: 46.724%
-collected_at: 2026-04-17T10:29:56.387137+00:00
+acceptance_rate: "46.724%"
+collected_at: "2026-04-17T10:29:56.387137+00:00"
 ---
 
 ## 문제

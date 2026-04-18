@@ -1,13 +1,13 @@
 ---
-title: Immediate Delivery
-special_judge: true
-time_limit: 3 초
-memory_limit: 256 MB
+title: "Immediate Delivery"
+special_judge: "true"
+time_limit: "3 초"
+memory_limit: "256 MB"
 submissions: 60
 accepted: 15
 solved_users: 15
-acceptance_rate: 30.612%
-collected_at: 2026-04-17T10:49:27.926520+00:00
+acceptance_rate: "30.612%"
+collected_at: "2026-04-17T10:49:27.926520+00:00"
 ---
 
 ## 문제

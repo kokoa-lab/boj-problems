@@ -1,13 +1,13 @@
 ---
-title: 다리 놓기
-special_judge: false
-time_limit: 0.5 초 (추가 시간 없음)
-memory_limit: 128 MB
+title: "다리 놓기"
+special_judge: "false"
+time_limit: "0.5 초 (추가 시간 없음)"
+memory_limit: "128 MB"
 submissions: 136405
 accepted: 65171
 solved_users: 52814
-acceptance_rate: 48.660%
-collected_at: 2026-04-17T10:27:38.663756+00:00
+acceptance_rate: "48.660%"
+collected_at: "2026-04-17T10:27:38.663756+00:00"
 ---
 
 ## 문제

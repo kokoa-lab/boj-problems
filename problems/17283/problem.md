@@ -1,13 +1,13 @@
 ---
-title: I am Groot
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "I am Groot"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 1275
 accepted: 726
 solved_users: 669
-acceptance_rate: 60.379%
-collected_at: 2026-04-17T14:36:09.836663+00:00
+acceptance_rate: "60.379%"
+collected_at: "2026-04-17T14:36:09.836663+00:00"
 ---
 
 ## 문제

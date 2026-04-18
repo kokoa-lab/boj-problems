@@ -1,13 +1,13 @@
 ---
-title: 추월
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "추월"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 12298
 accepted: 5611
 solved_users: 4574
-acceptance_rate: 46.328%
-collected_at: 2026-04-17T10:36:56.998871+00:00
+acceptance_rate: "46.328%"
+collected_at: "2026-04-17T10:36:56.998871+00:00"
 ---
 
 ## 문제

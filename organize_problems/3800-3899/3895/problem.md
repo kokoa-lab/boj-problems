@@ -1,13 +1,13 @@
 ---
-title: 그리고 하나가 남았다
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "그리고 하나가 남았다"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 729
 accepted: 371
 solved_users: 312
-acceptance_rate: 60.819%
-collected_at: 2026-04-17T10:53:06.283708+00:00
+acceptance_rate: "60.819%"
+collected_at: "2026-04-17T10:53:06.283708+00:00"
 ---
 
 ## 문제

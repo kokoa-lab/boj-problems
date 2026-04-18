@@ -1,13 +1,13 @@
 ---
-title: XCorr
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "XCorr"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 2939
 accepted: 780
 solved_users: 584
-acceptance_rate: 28.502%
-collected_at: 2026-04-17T14:09:24.449672+00:00
+acceptance_rate: "28.502%"
+collected_at: "2026-04-17T14:09:24.449672+00:00"
 ---
 
 ## 문제

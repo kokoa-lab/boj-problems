@@ -1,13 +1,13 @@
 ---
-title: 데이터 구조
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "데이터 구조"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 6120
 accepted: 2736
 solved_users: 1842
-acceptance_rate: 41.590%
-collected_at: 2026-04-17T13:03:36.856095+00:00
+acceptance_rate: "41.590%"
+collected_at: "2026-04-17T13:03:36.856095+00:00"
 ---
 
 ## 문제

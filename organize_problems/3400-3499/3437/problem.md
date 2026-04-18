@@ -1,13 +1,13 @@
 ---
-title: Phone Cell
-special_judge: false
-time_limit: 5 초
-memory_limit: 128 MB
+title: "Phone Cell"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "128 MB"
 submissions: 54
 accepted: 19
 solved_users: 18
-acceptance_rate: 36.735%
-collected_at: 2026-04-17T10:48:53.339254+00:00
+acceptance_rate: "36.735%"
+collected_at: "2026-04-17T10:48:53.339254+00:00"
 ---
 
 ## 문제

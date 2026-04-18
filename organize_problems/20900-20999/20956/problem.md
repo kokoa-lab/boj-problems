@@ -1,13 +1,13 @@
 ---
-title: 아이스크림 도둑 지호
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "아이스크림 도둑 지호"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 456
 accepted: 226
 solved_users: 178
-acceptance_rate: 54.268%
-collected_at: 2026-04-17T15:44:03.624275+00:00
+acceptance_rate: "54.268%"
+collected_at: "2026-04-17T15:44:03.624275+00:00"
 ---
 
 ## 문제

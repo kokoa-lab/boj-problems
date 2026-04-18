@@ -1,13 +1,13 @@
 ---
-title: Wide Expression
-special_judge: false
-time_limit: 1 초
-memory_limit: 2048 MB
+title: "Wide Expression"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "2048 MB"
 submissions: 30
 accepted: 21
 solved_users: 11
-acceptance_rate: 57.895%
-collected_at: 2026-04-17T20:16:22.837086+00:00
+acceptance_rate: "57.895%"
+collected_at: "2026-04-17T20:16:22.837086+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 팔
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "팔"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 17998
 accepted: 6058
 solved_users: 5023
-acceptance_rate: 32.944%
-collected_at: 2026-04-17T10:28:14.252192+00:00
+acceptance_rate: "32.944%"
+collected_at: "2026-04-17T10:28:14.252192+00:00"
 ---
 
 ## 문제

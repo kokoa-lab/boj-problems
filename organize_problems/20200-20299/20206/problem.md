@@ -1,13 +1,13 @@
 ---
-title: 푸앙이가 길을 건너간 이유
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "푸앙이가 길을 건너간 이유"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 1485
 accepted: 449
 solved_users: 381
-acceptance_rate: 33.421%
-collected_at: 2026-04-17T15:33:01.042909+00:00
+acceptance_rate: "33.421%"
+collected_at: "2026-04-17T15:33:01.042909+00:00"
 ---
 
 ## 문제

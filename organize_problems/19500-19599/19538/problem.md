@@ -1,13 +1,13 @@
 ---
-title: 루머
-special_judge: false
-time_limit: 10 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "루머"
+special_judge: "false"
+time_limit: "10 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 3538
 accepted: 1558
 solved_users: 1118
-acceptance_rate: 42.721%
-collected_at: 2026-04-17T15:22:27.056646+00:00
+acceptance_rate: "42.721%"
+collected_at: "2026-04-17T15:22:27.056646+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 삼각형의 최단 경로
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "삼각형의 최단 경로"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 336
 accepted: 110
 solved_users: 92
-acceptance_rate: 41.256%
-collected_at: 2026-04-17T10:38:59.113488+00:00
+acceptance_rate: "41.256%"
+collected_at: "2026-04-17T10:38:59.113488+00:00"
 ---
 
 ## 문제

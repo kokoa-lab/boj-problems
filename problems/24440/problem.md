@@ -1,13 +1,13 @@
 ---
-title: 괄호 문자열 표기법 (Small)
-special_judge: false
-time_limit: 1.5 초
-memory_limit: 1024 MB
+title: "괄호 문자열 표기법 (Small)"
+special_judge: "false"
+time_limit: "1.5 초"
+memory_limit: "1024 MB"
 submissions: 355
 accepted: 65
 solved_users: 37
-acceptance_rate: 14.741%
-collected_at: 2026-04-17T17:09:27.150119+00:00
+acceptance_rate: "14.741%"
+collected_at: "2026-04-17T17:09:27.150119+00:00"
 ---
 
 ## 문제

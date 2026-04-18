@@ -1,13 +1,13 @@
 ---
-title: Lunch
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Lunch"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 42
 accepted: 30
 solved_users: 27
-acceptance_rate: 71.053%
-collected_at: 2026-04-17T11:12:18.503520+00:00
+acceptance_rate: "71.053%"
+collected_at: "2026-04-17T11:12:18.503520+00:00"
 ---
 
 ## 문제

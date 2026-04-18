@@ -1,13 +1,13 @@
 ---
-title: Yawned-Zoned
-special_judge: false
-time_limit: 2.5 초
-memory_limit: 1024 MB
+title: "Yawned-Zoned"
+special_judge: "false"
+time_limit: "2.5 초"
+memory_limit: "1024 MB"
 submissions: 312
 accepted: 62
 solved_users: 53
-acceptance_rate: 25.238%
-collected_at: 2026-04-17T18:21:39.144072+00:00
+acceptance_rate: "25.238%"
+collected_at: "2026-04-17T18:21:39.144072+00:00"
 ---
 
 ## 문제

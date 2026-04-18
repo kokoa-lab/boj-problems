@@ -1,13 +1,13 @@
 ---
-title: Штурвал
-special_judge: false
-time_limit: 5 초
-memory_limit: 1024 MB
+title: "Штурвал"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "1024 MB"
 submissions: 13
 accepted: 2
 solved_users: 1
-acceptance_rate: 12.500%
-collected_at: 2026-04-17T18:41:19.745786+00:00
+acceptance_rate: "12.500%"
+collected_at: "2026-04-17T18:41:19.745786+00:00"
 ---
 
 ## 문제

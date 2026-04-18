@@ -1,13 +1,13 @@
 ---
-title: 후문으로
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "후문으로"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 1100
 accepted: 275
 solved_users: 241
-acceptance_rate: 29.462%
-collected_at: 2026-04-17T20:42:27.439697+00:00
+acceptance_rate: "29.462%"
+collected_at: "2026-04-17T20:42:27.439697+00:00"
 ---
 
 ## 문제

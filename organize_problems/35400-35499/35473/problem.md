@@ -1,13 +1,13 @@
 ---
-title: 풍선줄 자르기
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "풍선줄 자르기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 54
 accepted: 44
 solved_users: 42
-acceptance_rate: 80.769%
-collected_at: 2026-04-17T21:09:17.550387+00:00
+acceptance_rate: "80.769%"
+collected_at: "2026-04-17T21:09:17.550387+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 다오의 경주 대회
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "다오의 경주 대회"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 1200
 accepted: 800
 solved_users: 725
-acceptance_rate: 66.944%
-collected_at: 2026-04-17T19:20:37.488591+00:00
+acceptance_rate: "66.944%"
+collected_at: "2026-04-17T19:20:37.488591+00:00"
 ---
 
 ## 문제

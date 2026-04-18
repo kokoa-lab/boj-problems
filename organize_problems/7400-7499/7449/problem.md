@@ -1,13 +1,13 @@
 ---
-title: The mysterious X network
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "The mysterious X network"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 50
 accepted: 33
 solved_users: 25
-acceptance_rate: 64.103%
-collected_at: 2026-04-17T11:49:31.171684+00:00
+acceptance_rate: "64.103%"
+collected_at: "2026-04-17T11:49:31.171684+00:00"
 ---
 
 ## 문제

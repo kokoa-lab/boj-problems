@@ -1,13 +1,13 @@
 ---
-title: 컴백홈
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "컴백홈"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 13069
 accepted: 7429
 solved_users: 5753
-acceptance_rate: 55.968%
-collected_at: 2026-04-17T10:28:41.452588+00:00
+acceptance_rate: "55.968%"
+collected_at: "2026-04-17T10:28:41.452588+00:00"
 ---
 
 ## 문제

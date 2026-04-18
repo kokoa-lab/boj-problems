@@ -1,13 +1,13 @@
 ---
-title: Fire Station
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Fire Station"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 199
 accepted: 49
 solved_users: 36
-acceptance_rate: 35.644%
-collected_at: 2026-04-17T11:01:00.187444+00:00
+acceptance_rate: "35.644%"
+collected_at: "2026-04-17T11:01:00.187444+00:00"
 ---
 
 ## 문제

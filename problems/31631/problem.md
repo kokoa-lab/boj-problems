@@ -1,13 +1,13 @@
 ---
-title: :rightplant:
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: ":rightplant:"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 1166
 accepted: 322
 solved_users: 258
-acceptance_rate: 34.818%
-collected_at: 2026-04-17T19:32:21.797738+00:00
+acceptance_rate: "34.818%"
+collected_at: "2026-04-17T19:32:21.797738+00:00"
 ---
 
 ## 문제

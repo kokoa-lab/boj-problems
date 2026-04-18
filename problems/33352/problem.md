@@ -1,13 +1,13 @@
 ---
-title: Make a Palindrome
-special_judge: false
-time_limit: 2 초
-memory_limit: 2048 MB
+title: "Make a Palindrome"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "2048 MB"
 submissions: 60
 accepted: 23
 solved_users: 19
-acceptance_rate: 79.167%
-collected_at: 2026-04-17T20:14:12.879308+00:00
+acceptance_rate: "79.167%"
+collected_at: "2026-04-17T20:14:12.879308+00:00"
 ---
 
 ## 문제

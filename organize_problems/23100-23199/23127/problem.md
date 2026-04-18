@@ -1,13 +1,13 @@
 ---
-title: Little LCS
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Little LCS"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 22
 accepted: 11
 solved_users: 11
-acceptance_rate: 64.706%
-collected_at: 2026-04-17T16:42:37.579724+00:00
+acceptance_rate: "64.706%"
+collected_at: "2026-04-17T16:42:37.579724+00:00"
 ---
 
 ## 문제

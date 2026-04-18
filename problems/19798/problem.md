@@ -1,13 +1,13 @@
 ---
-title: Лягушонок Билли
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Лягушонок Билли"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 52
 accepted: 34
 solved_users: 28
-acceptance_rate: 68.293%
-collected_at: 2026-04-17T15:27:47.297791+00:00
+acceptance_rate: "68.293%"
+collected_at: "2026-04-17T15:27:47.297791+00:00"
 ---
 
 ## 문제

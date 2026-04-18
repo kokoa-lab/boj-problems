@@ -1,13 +1,13 @@
 ---
-title: 가희와 은행
-special_judge: false
-time_limit: 1.5 초
-memory_limit: 512 MB
+title: "가희와 은행"
+special_judge: "false"
+time_limit: "1.5 초"
+memory_limit: "512 MB"
 submissions: 1451
 accepted: 506
 solved_users: 403
-acceptance_rate: 33.980%
-collected_at: 2026-04-17T16:17:49.114214+00:00
+acceptance_rate: "33.980%"
+collected_at: "2026-04-17T16:17:49.114214+00:00"
 ---
 
 ## 문제

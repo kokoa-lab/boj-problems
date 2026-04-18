@@ -1,13 +1,13 @@
 ---
-title: Online Assignment
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Online Assignment"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 133
 accepted: 63
 solved_users: 46
-acceptance_rate: 45.098%
-collected_at: 2026-04-17T19:31:36.960462+00:00
+acceptance_rate: "45.098%"
+collected_at: "2026-04-17T19:31:36.960462+00:00"
 ---
 
 ## 문제

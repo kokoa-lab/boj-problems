@@ -1,13 +1,13 @@
 ---
-title: Passwords
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Passwords"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 66
 accepted: 42
 solved_users: 35
-acceptance_rate: 59.322%
-collected_at: 2026-04-17T13:22:57.290690+00:00
+acceptance_rate: "59.322%"
+collected_at: "2026-04-17T13:22:57.290690+00:00"
 ---
 
 ## 문제

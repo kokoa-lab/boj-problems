@@ -1,13 +1,13 @@
 ---
-title: Awkward Digits
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Awkward Digits"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 321
 accepted: 230
 solved_users: 202
-acceptance_rate: 70.139%
-collected_at: 2026-04-17T11:18:38.230848+00:00
+acceptance_rate: "70.139%"
+collected_at: "2026-04-17T11:18:38.230848+00:00"
 ---
 
 ## 문제

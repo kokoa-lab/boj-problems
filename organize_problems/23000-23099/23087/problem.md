@@ -1,13 +1,13 @@
 ---
-title: 최단최단경로
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "최단최단경로"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 954
 accepted: 214
 solved_users: 161
-acceptance_rate: 22.708%
-collected_at: 2026-04-17T16:41:40.532377+00:00
+acceptance_rate: "22.708%"
+collected_at: "2026-04-17T16:41:40.532377+00:00"
 ---
 
 ## 문제

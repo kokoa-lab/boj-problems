@@ -1,13 +1,13 @@
 ---
-title: Gotta Catch 'Em All
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Gotta Catch 'Em All"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 49
 accepted: 9
 solved_users: 6
-acceptance_rate: 17.143%
-collected_at: 2026-04-17T15:08:23.844598+00:00
+acceptance_rate: "17.143%"
+collected_at: "2026-04-17T15:08:23.844598+00:00"
 ---
 
 ## 문제

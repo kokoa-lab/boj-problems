@@ -1,13 +1,13 @@
 ---
-title: Harmoonia
-special_judge: false
-time_limit: 7 초
-memory_limit: 1024 MB
+title: "Harmoonia"
+special_judge: "false"
+time_limit: "7 초"
+memory_limit: "1024 MB"
 submissions: 94
 accepted: 39
 solved_users: 26
-acceptance_rate: 34.667%
-collected_at: 2026-04-17T11:47:08.243219+00:00
+acceptance_rate: "34.667%"
+collected_at: "2026-04-17T11:47:08.243219+00:00"
 ---
 
 ## 문제

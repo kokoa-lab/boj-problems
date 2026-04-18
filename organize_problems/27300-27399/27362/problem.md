@@ -1,13 +1,13 @@
 ---
-title: 특별한 정수쌍 세기
-special_judge: false
-time_limit: 1 초  ( 하단 참고 )
-memory_limit: 512 MB
+title: "특별한 정수쌍 세기"
+special_judge: "false"
+time_limit: "1 초  ( 하단 참고 )"
+memory_limit: "512 MB"
 submissions: 139
 accepted: 38
 solved_users: 34
-acceptance_rate: 50.746%
-collected_at: 2026-04-17T18:01:31.751391+00:00
+acceptance_rate: "50.746%"
+collected_at: "2026-04-17T18:01:31.751391+00:00"
 ---
 
 ## 문제

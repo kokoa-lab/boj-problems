@@ -1,13 +1,13 @@
 ---
-title: Rooted Subtrees
-special_judge: false
-time_limit: 11 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "Rooted Subtrees"
+special_judge: "false"
+time_limit: "11 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 91
 accepted: 55
 solved_users: 47
-acceptance_rate: 63.514%
-collected_at: 2026-04-17T15:06:10.697582+00:00
+acceptance_rate: "63.514%"
+collected_at: "2026-04-17T15:06:10.697582+00:00"
 ---
 
 ## 문제

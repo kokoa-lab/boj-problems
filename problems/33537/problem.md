@@ -1,13 +1,13 @@
 ---
-title: Breaking the Cipher
-special_judge: false
-time_limit: 1 초
-memory_limit: 2048 MB
+title: "Breaking the Cipher"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "2048 MB"
 submissions: 33
 accepted: 28
 solved_users: 19
-acceptance_rate: 90.476%
-collected_at: 2026-04-17T20:18:27.276604+00:00
+acceptance_rate: "90.476%"
+collected_at: "2026-04-17T20:18:27.276604+00:00"
 ---
 
 ## 문제

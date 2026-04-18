@@ -1,13 +1,13 @@
 ---
-title: The Bovine Shuffle
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "The Bovine Shuffle"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 1300
 accepted: 644
 solved_users: 587
-acceptance_rate: 54.201%
-collected_at: 2026-04-17T13:59:55.870865+00:00
+acceptance_rate: "54.201%"
+collected_at: "2026-04-17T13:59:55.870865+00:00"
 ---
 
 ## 문제

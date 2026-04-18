@@ -1,13 +1,13 @@
 ---
-title: 루트 노드가 많은 트리일수록 좋은 트리이다
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "루트 노드가 많은 트리일수록 좋은 트리이다"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 523
 accepted: 262
 solved_users: 205
-acceptance_rate: 52.430%
-collected_at: 2026-04-17T17:06:47.787345+00:00
+acceptance_rate: "52.430%"
+collected_at: "2026-04-17T17:06:47.787345+00:00"
 ---
 
 ## 문제

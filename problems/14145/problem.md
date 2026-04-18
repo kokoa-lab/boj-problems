@@ -1,13 +1,13 @@
 ---
-title: Žetva
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Žetva"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 115
 accepted: 86
 solved_users: 72
-acceptance_rate: 78.261%
-collected_at: 2026-04-17T13:26:44.136647+00:00
+acceptance_rate: "78.261%"
+collected_at: "2026-04-17T13:26:44.136647+00:00"
 ---
 
 ## 문제

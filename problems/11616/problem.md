@@ -1,13 +1,13 @@
 ---
-title: Digit Division
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Digit Division"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 318
 accepted: 152
 solved_users: 129
-acceptance_rate: 47.080%
-collected_at: 2026-04-17T12:42:55.138154+00:00
+acceptance_rate: "47.080%"
+collected_at: "2026-04-17T12:42:55.138154+00:00"
 ---
 
 ## 문제

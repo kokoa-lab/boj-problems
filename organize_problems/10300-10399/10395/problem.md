@@ -1,13 +1,13 @@
 ---
-title: Automated Checking Machine
-special_judge: false
-time_limit: 3 초
-memory_limit: 256 MB
+title: "Automated Checking Machine"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "256 MB"
 submissions: 1032
 accepted: 777
 solved_users: 726
-acceptance_rate: 75.704%
-collected_at: 2026-04-17T12:22:57.144084+00:00
+acceptance_rate: "75.704%"
+collected_at: "2026-04-17T12:22:57.144084+00:00"
 ---
 
 ## 문제

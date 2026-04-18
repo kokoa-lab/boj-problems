@@ -1,13 +1,13 @@
 ---
-title: 괄호 조작하기
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "괄호 조작하기"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 127
 accepted: 85
 solved_users: 78
-acceptance_rate: 69.643%
-collected_at: 2026-04-17T20:53:26.493318+00:00
+acceptance_rate: "69.643%"
+collected_at: "2026-04-17T20:53:26.493318+00:00"
 ---
 
 ## 문제

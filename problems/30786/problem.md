@@ -1,13 +1,13 @@
 ---
-title: 홀수 찾아 삼만리
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "홀수 찾아 삼만리"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 706
 accepted: 312
 solved_users: 249
-acceptance_rate: 47.249%
-collected_at: 2026-04-17T19:15:35.546561+00:00
+acceptance_rate: "47.249%"
+collected_at: "2026-04-17T19:15:35.546561+00:00"
 ---
 
 ## 문제

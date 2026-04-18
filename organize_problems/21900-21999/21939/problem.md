@@ -1,13 +1,13 @@
 ---
-title: 문제 추천 시스템 Version 1
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "문제 추천 시스템 Version 1"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 10605
 accepted: 3815
 solved_users: 2889
-acceptance_rate: 34.669%
-collected_at: 2026-04-17T16:10:20.725094+00:00
+acceptance_rate: "34.669%"
+collected_at: "2026-04-17T16:10:20.725094+00:00"
 ---
 
 ## 문제

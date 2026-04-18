@@ -1,13 +1,13 @@
 ---
-title: A No-Win Situation
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "A No-Win Situation"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 143
 accepted: 29
 solved_users: 20
-acceptance_rate: 21.505%
-collected_at: 2026-04-17T10:56:04.719243+00:00
+acceptance_rate: "21.505%"
+collected_at: "2026-04-17T10:56:04.719243+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: LOL
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "LOL"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 857
 accepted: 259
 solved_users: 233
-acceptance_rate: 33.866%
-collected_at: 2026-04-17T12:37:08.414236+00:00
+acceptance_rate: "33.866%"
+collected_at: "2026-04-17T12:37:08.414236+00:00"
 ---
 
 ## 문제

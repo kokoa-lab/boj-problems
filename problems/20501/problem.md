@@ -1,13 +1,13 @@
 ---
-title: Facebook
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Facebook"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 998
 accepted: 394
 solved_users: 278
-acceptance_rate: 43.034%
-collected_at: 2026-04-17T15:37:12.250218+00:00
+acceptance_rate: "43.034%"
+collected_at: "2026-04-17T15:37:12.250218+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Harvest
-special_judge: false
-time_limit: 3 초
-memory_limit: 512 MB
+title: "Harvest"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "512 MB"
 submissions: 16
 accepted: 12
 solved_users: 12
-acceptance_rate: 75.000%
-collected_at: 2026-04-17T15:10:14.523340+00:00
+acceptance_rate: "75.000%"
+collected_at: "2026-04-17T15:10:14.523340+00:00"
 ---
 
 ## 문제

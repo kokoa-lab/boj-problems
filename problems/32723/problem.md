@@ -1,13 +1,13 @@
 ---
-title: Numbrid
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Numbrid"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 117
 accepted: 54
 solved_users: 41
-acceptance_rate: 52.564%
-collected_at: 2026-04-17T19:59:52.780206+00:00
+acceptance_rate: "52.564%"
+collected_at: "2026-04-17T19:59:52.780206+00:00"
 ---
 
 ## 문제

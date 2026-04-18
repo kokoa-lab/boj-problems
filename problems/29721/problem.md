@@ -1,13 +1,13 @@
 ---
-title: 변형 체스 놀이 : 다바바(Dabbaba)
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "변형 체스 놀이 : 다바바(Dabbaba)"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 747
 accepted: 424
 solved_users: 344
-acceptance_rate: 57.333%
-collected_at: 2026-04-17T18:51:33.706037+00:00
+acceptance_rate: "57.333%"
+collected_at: "2026-04-17T18:51:33.706037+00:00"
 ---
 
 ## 문제

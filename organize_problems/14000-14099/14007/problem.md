@@ -1,13 +1,13 @@
 ---
-title: Small Weird Measurements
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Small Weird Measurements"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 139
 accepted: 112
 solved_users: 93
-acceptance_rate: 85.321%
-collected_at: 2026-04-17T13:24:06.056026+00:00
+acceptance_rate: "85.321%"
+collected_at: "2026-04-17T13:24:06.056026+00:00"
 ---
 
 ## 문제

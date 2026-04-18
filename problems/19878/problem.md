@@ -1,13 +1,13 @@
 ---
-title: Летопись
-special_judge: true
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Летопись"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 85
 accepted: 35
 solved_users: 27
-acceptance_rate: 35.526%
-collected_at: 2026-04-17T15:28:46.792639+00:00
+acceptance_rate: "35.526%"
+collected_at: "2026-04-17T15:28:46.792639+00:00"
 ---
 
 ## 문제

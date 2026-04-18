@@ -1,13 +1,13 @@
 ---
-title: 평면 분할
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "평면 분할"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 1121
 accepted: 564
 solved_users: 498
-acceptance_rate: 55.457%
-collected_at: 2026-04-17T14:56:58.943966+00:00
+acceptance_rate: "55.457%"
+collected_at: "2026-04-17T14:56:58.943966+00:00"
 ---
 
 ## 문제

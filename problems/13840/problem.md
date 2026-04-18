@@ -1,13 +1,13 @@
 ---
-title: Autocorrelation Function
-special_judge: true
-time_limit: 8 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "Autocorrelation Function"
+special_judge: "true"
+time_limit: "8 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 26
 accepted: 19
 solved_users: 10
-acceptance_rate: 58.824%
-collected_at: 2026-04-17T13:20:34.086236+00:00
+acceptance_rate: "58.824%"
+collected_at: "2026-04-17T13:20:34.086236+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 카탄의 개척자
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "카탄의 개척자"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 1041
 accepted: 448
 solved_users: 311
-acceptance_rate: 41.301%
-collected_at: 2026-04-17T10:50:53.743116+00:00
+acceptance_rate: "41.301%"
+collected_at: "2026-04-17T10:50:53.743116+00:00"
 ---
 
 ## 문제

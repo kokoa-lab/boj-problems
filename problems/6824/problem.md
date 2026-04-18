@@ -1,13 +1,13 @@
 ---
-title: A Weighty Problem
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "A Weighty Problem"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 22
 accepted: 11
 solved_users: 7
-acceptance_rate: 41.176%
-collected_at: 2026-04-17T11:39:04.015278+00:00
+acceptance_rate: "41.176%"
+collected_at: "2026-04-17T11:39:04.015278+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Good Game
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Good Game"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 58
 accepted: 13
 solved_users: 13
-acceptance_rate: 32.500%
-collected_at: 2026-04-17T17:22:54.255814+00:00
+acceptance_rate: "32.500%"
+collected_at: "2026-04-17T17:22:54.255814+00:00"
 ---
 
 ## 문제

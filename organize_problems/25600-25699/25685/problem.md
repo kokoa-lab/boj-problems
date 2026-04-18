@@ -1,13 +1,13 @@
 ---
-title: 좋은 노드 집합 찾기
-special_judge: false
-time_limit: 1 초  ( 하단 참고 )
-memory_limit: 512 MB
+title: "좋은 노드 집합 찾기"
+special_judge: "false"
+time_limit: "1 초  ( 하단 참고 )"
+memory_limit: "512 MB"
 submissions: 355
 accepted: 108
 solved_users: 72
-acceptance_rate: 31.169%
-collected_at: 2026-04-17T17:31:24.179290+00:00
+acceptance_rate: "31.169%"
+collected_at: "2026-04-17T17:31:24.179290+00:00"
 ---
 
 ## 문제

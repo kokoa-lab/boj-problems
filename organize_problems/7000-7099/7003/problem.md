@@ -1,13 +1,13 @@
 ---
-title: Checker Board
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Checker Board"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 31
 accepted: 7
 solved_users: 6
-acceptance_rate: 28.571%
-collected_at: 2026-04-17T11:42:32.399028+00:00
+acceptance_rate: "28.571%"
+collected_at: "2026-04-17T11:42:32.399028+00:00"
 ---
 
 ## 문제

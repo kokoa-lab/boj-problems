@@ -1,13 +1,13 @@
 ---
-title: Combination Lock
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Combination Lock"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 298
 accepted: 190
 solved_users: 162
-acceptance_rate: 69.828%
-collected_at: 2026-04-17T10:56:02.577483+00:00
+acceptance_rate: "69.828%"
+collected_at: "2026-04-17T10:56:02.577483+00:00"
 ---
 
 ## 문제

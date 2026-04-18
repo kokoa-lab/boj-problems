@@ -1,13 +1,13 @@
 ---
-title: Nice Report
-special_judge: true
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Nice Report"
+special_judge: "true"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 226
 accepted: 62
 solved_users: 11
-acceptance_rate: 10.891%
-collected_at: 2026-04-17T14:14:48.746881+00:00
+acceptance_rate: "10.891%"
+collected_at: "2026-04-17T14:14:48.746881+00:00"
 ---
 
 ## 문제

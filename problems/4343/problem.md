@@ -1,13 +1,13 @@
 ---
-title: Arctic Network
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Arctic Network"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 1380
 accepted: 479
 solved_users: 358
-acceptance_rate: 32.575%
-collected_at: 2026-04-17T10:59:51.175726+00:00
+acceptance_rate: "32.575%"
+collected_at: "2026-04-17T10:59:51.175726+00:00"
 ---
 
 ## 문제

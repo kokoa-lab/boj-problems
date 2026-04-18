@@ -1,13 +1,13 @@
 ---
-title: Primes and Queries
-special_judge: false
-time_limit: 90 초 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "Primes and Queries"
+special_judge: "false"
+time_limit: "90 초 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 38
 accepted: 12
 solved_users: 10
-acceptance_rate: 35.714%
-collected_at: 2026-04-17T16:40:18.379183+00:00
+acceptance_rate: "35.714%"
+collected_at: "2026-04-17T16:40:18.379183+00:00"
 ---
 
 ## 문제

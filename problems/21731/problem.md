@@ -1,13 +1,13 @@
 ---
-title: 메시라이브
-special_judge: false
-time_limit: 12 초 (추가 시간 없음)
-memory_limit: 1536 MB
+title: "메시라이브"
+special_judge: "false"
+time_limit: "12 초 (추가 시간 없음)"
+memory_limit: "1536 MB"
 submissions: 318
 accepted: 62
 solved_users: 15
-acceptance_rate: 9.146%
-collected_at: 2026-04-17T16:05:27.460552+00:00
+acceptance_rate: "9.146%"
+collected_at: "2026-04-17T16:05:27.460552+00:00"
 ---
 
 ## 문제

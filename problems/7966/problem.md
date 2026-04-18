@@ -1,13 +1,13 @@
 ---
-title: Template
-special_judge: false
-time_limit: 3 초
-memory_limit: 128 MB
+title: "Template"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "128 MB"
 submissions: 143
 accepted: 54
 solved_users: 33
-acceptance_rate: 31.731%
-collected_at: 2026-04-17T11:54:42.819525+00:00
+acceptance_rate: "31.731%"
+collected_at: "2026-04-17T11:54:42.819525+00:00"
 ---
 
 ## 문제

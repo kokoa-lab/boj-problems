@@ -1,13 +1,13 @@
 ---
-title: Financial Planning
-special_judge: false
-time_limit: 3 초
-memory_limit: 512 MB
+title: "Financial Planning"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "512 MB"
 submissions: 269
 accepted: 112
 solved_users: 106
-acceptance_rate: 42.231%
-collected_at: 2026-04-17T14:15:28.228587+00:00
+acceptance_rate: "42.231%"
+collected_at: "2026-04-17T14:15:28.228587+00:00"
 ---
 
 ## 문제

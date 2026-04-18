@@ -1,13 +1,13 @@
 ---
-title: Give-a-Gnocchi
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Give-a-Gnocchi"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 120
 accepted: 44
 solved_users: 34
-acceptance_rate: 33.333%
-collected_at: 2026-04-17T17:35:09.000194+00:00
+acceptance_rate: "33.333%"
+collected_at: "2026-04-17T17:35:09.000194+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 게임을 만들어요
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "게임을 만들어요"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 375
 accepted: 206
 solved_users: 168
-acceptance_rate: 62.222%
-collected_at: 2026-04-17T19:48:20.236354+00:00
+acceptance_rate: "62.222%"
+collected_at: "2026-04-17T19:48:20.236354+00:00"
 ---
 
 ## 문제

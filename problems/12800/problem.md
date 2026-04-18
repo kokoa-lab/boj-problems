@@ -1,13 +1,13 @@
 ---
-title: Palinilap
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Palinilap"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 36
 accepted: 12
 solved_users: 10
-acceptance_rate: 34.483%
-collected_at: 2026-04-17T13:01:38.002948+00:00
+acceptance_rate: "34.483%"
+collected_at: "2026-04-17T13:01:38.002948+00:00"
 ---
 
 ## 문제

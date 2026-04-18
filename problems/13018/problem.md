@@ -1,13 +1,13 @@
 ---
-title: 특이한 수열
-special_judge: true
-time_limit: 2 초
-memory_limit: 512 MB
+title: "특이한 수열"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 1518
 accepted: 821
 solved_users: 699
-acceptance_rate: 55.786%
-collected_at: 2026-04-17T13:06:00.649908+00:00
+acceptance_rate: "55.786%"
+collected_at: "2026-04-17T13:06:00.649908+00:00"
 ---
 
 ## 문제

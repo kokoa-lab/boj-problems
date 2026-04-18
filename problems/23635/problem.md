@@ -1,13 +1,13 @@
 ---
-title: 산타로부터의 선물
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "산타로부터의 선물"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 122
 accepted: 49
 solved_users: 36
-acceptance_rate: 55.385%
-collected_at: 2026-04-17T16:51:26.570547+00:00
+acceptance_rate: "55.385%"
+collected_at: "2026-04-17T16:51:26.570547+00:00"
 ---
 
 ## 문제

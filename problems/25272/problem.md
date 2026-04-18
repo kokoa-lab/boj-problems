@@ -1,13 +1,13 @@
 ---
-title: Emergency Exit
-special_judge: true
-time_limit: 3 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Emergency Exit"
+special_judge: "true"
+time_limit: "3 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 19
 accepted: 5
 solved_users: 4
-acceptance_rate: 23.529%
-collected_at: 2026-04-17T17:23:44.068908+00:00
+acceptance_rate: "23.529%"
+collected_at: "2026-04-17T17:23:44.068908+00:00"
 ---
 
 ## 문제

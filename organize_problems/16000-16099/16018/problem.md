@@ -1,13 +1,13 @@
 ---
-title: Occupy parking
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Occupy parking"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 590
 accepted: 517
 solved_users: 478
-acceptance_rate: 88.519%
-collected_at: 2026-04-17T14:10:02.492281+00:00
+acceptance_rate: "88.519%"
+collected_at: "2026-04-17T14:10:02.492281+00:00"
 ---
 
 ## 문제

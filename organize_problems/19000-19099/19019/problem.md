@@ -1,13 +1,13 @@
 ---
-title: Convolution
-special_judge: false
-time_limit: 3 초
-memory_limit: 512 MB
+title: "Convolution"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "512 MB"
 submissions: 133
 accepted: 20
 solved_users: 7
-acceptance_rate: 6.731%
-collected_at: 2026-04-17T15:12:31.262464+00:00
+acceptance_rate: "6.731%"
+collected_at: "2026-04-17T15:12:31.262464+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 압축
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "압축"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 10815
 accepted: 3774
 solved_users: 3019
-acceptance_rate: 37.345%
-collected_at: 2026-04-17T10:32:09.408697+00:00
+acceptance_rate: "37.345%"
+collected_at: "2026-04-17T10:32:09.408697+00:00"
 ---
 
 ## 문제

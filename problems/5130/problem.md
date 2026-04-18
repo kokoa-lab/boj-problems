@@ -1,13 +1,13 @@
 ---
-title: Preventing Paradoxes
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Preventing Paradoxes"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 35
 accepted: 22
 solved_users: 21
-acceptance_rate: 67.742%
-collected_at: 2026-04-17T11:11:41.592494+00:00
+acceptance_rate: "67.742%"
+collected_at: "2026-04-17T11:11:41.592494+00:00"
 ---
 
 ## 문제

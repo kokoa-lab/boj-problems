@@ -1,13 +1,13 @@
 ---
-title: k개의 부분 배열과 쿼리
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "k개의 부분 배열과 쿼리"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 255
 accepted: 86
 solved_users: 72
-acceptance_rate: 33.488%
-collected_at: 2026-04-17T16:52:37.963245+00:00
+acceptance_rate: "33.488%"
+collected_at: "2026-04-17T16:52:37.963245+00:00"
 ---
 
 ## 문제

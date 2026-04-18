@@ -1,13 +1,13 @@
 ---
-title: n제곱 계산
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "n제곱 계산"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 2959
 accepted: 1112
 solved_users: 942
-acceptance_rate: 41.700%
-collected_at: 2026-04-17T13:00:24.043778+00:00
+acceptance_rate: "41.700%"
+collected_at: "2026-04-17T13:00:24.043778+00:00"
 ---
 
 ## 문제

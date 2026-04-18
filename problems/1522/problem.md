@@ -1,13 +1,13 @@
 ---
-title: 문자열 교환
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "문자열 교환"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 6940
 accepted: 3988
 solved_users: 3318
-acceptance_rate: 58.200%
-collected_at: 2026-04-17T10:30:49.146540+00:00
+acceptance_rate: "58.200%"
+collected_at: "2026-04-17T10:30:49.146540+00:00"
 ---
 
 ## 문제

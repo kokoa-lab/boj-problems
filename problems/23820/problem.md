@@ -1,13 +1,13 @@
 ---
-title: MEX
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "MEX"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 1697
 accepted: 432
 solved_users: 278
-acceptance_rate: 21.855%
-collected_at: 2026-04-17T16:54:40.927290+00:00
+acceptance_rate: "21.855%"
+collected_at: "2026-04-17T16:54:40.927290+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 차트
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "차트"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 2058
 accepted: 943
 solved_users: 778
-acceptance_rate: 49.023%
-collected_at: 2026-04-17T10:29:02.475734+00:00
+acceptance_rate: "49.023%"
+collected_at: "2026-04-17T10:29:02.475734+00:00"
 ---
 
 ## 문제

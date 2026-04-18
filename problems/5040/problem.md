@@ -1,13 +1,13 @@
 ---
-title: Playfair Cipher
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Playfair Cipher"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 93
 accepted: 36
 solved_users: 33
-acceptance_rate: 45.833%
-collected_at: 2026-04-17T11:11:05.714935+00:00
+acceptance_rate: "45.833%"
+collected_at: "2026-04-17T11:11:05.714935+00:00"
 ---
 
 ## 문제

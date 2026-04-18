@@ -1,13 +1,13 @@
 ---
-title: 좋아하는 배열 2
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "좋아하는 배열 2"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 133
 accepted: 35
 solved_users: 21
-acceptance_rate: 44.681%
-collected_at: 2026-04-17T13:04:13.995976+00:00
+acceptance_rate: "44.681%"
+collected_at: "2026-04-17T13:04:13.995976+00:00"
 ---
 
 ## 문제

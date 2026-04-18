@@ -1,13 +1,13 @@
 ---
-title: 가희와 환승역
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "가희와 환승역"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 81
 accepted: 58
 solved_users: 56
-acceptance_rate: 74.667%
-collected_at: 2026-04-17T20:45:32.338844+00:00
+acceptance_rate: "74.667%"
+collected_at: "2026-04-17T20:45:32.338844+00:00"
 ---
 
 ## 문제

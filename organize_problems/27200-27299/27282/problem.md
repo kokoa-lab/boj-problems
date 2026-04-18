@@ -1,13 +1,13 @@
 ---
-title: 체육 대회
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "체육 대회"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 67
 accepted: 24
 solved_users: 17
-acceptance_rate: 34.694%
-collected_at: 2026-04-17T17:59:46.640166+00:00
+acceptance_rate: "34.694%"
+collected_at: "2026-04-17T17:59:46.640166+00:00"
 ---
 
 ## 문제

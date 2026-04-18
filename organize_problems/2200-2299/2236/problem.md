@@ -1,13 +1,13 @@
 ---
-title: 칩 만들기
-special_judge: true
-time_limit: 1 초
-memory_limit: 128 MB
+title: "칩 만들기"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 638
 accepted: 197
 solved_users: 164
-acceptance_rate: 33.676%
-collected_at: 2026-04-17T10:39:47.931491+00:00
+acceptance_rate: "33.676%"
+collected_at: "2026-04-17T10:39:47.931491+00:00"
 ---
 
 ## 문제

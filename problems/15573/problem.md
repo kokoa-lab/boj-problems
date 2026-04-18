@@ -1,13 +1,13 @@
 ---
-title: 채굴
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "채굴"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 2118
 accepted: 670
 solved_users: 467
-acceptance_rate: 28.792%
-collected_at: 2026-04-17T14:01:47.988604+00:00
+acceptance_rate: "28.792%"
+collected_at: "2026-04-17T14:01:47.988604+00:00"
 ---
 
 ## 문제

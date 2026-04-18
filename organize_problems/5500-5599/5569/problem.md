@@ -1,13 +1,13 @@
 ---
-title: 출근 경로
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "출근 경로"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 3270
 accepted: 1786
 solved_users: 1454
-acceptance_rate: 57.020%
-collected_at: 2026-04-17T11:15:33.657582+00:00
+acceptance_rate: "57.020%"
+collected_at: "2026-04-17T11:15:33.657582+00:00"
 ---
 
 ## 문제

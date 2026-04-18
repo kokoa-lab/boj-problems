@@ -1,13 +1,13 @@
 ---
-title: 경기 결과
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "경기 결과"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 6941
 accepted: 4667
 solved_users: 4278
-acceptance_rate: 69.902%
-collected_at: 2026-04-17T11:14:55.875190+00:00
+acceptance_rate: "69.902%"
+collected_at: "2026-04-17T11:14:55.875190+00:00"
 ---
 
 ## 문제

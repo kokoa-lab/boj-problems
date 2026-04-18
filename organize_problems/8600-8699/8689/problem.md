@@ -1,13 +1,13 @@
 ---
-title: Gra
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Gra"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 112
 accepted: 45
 solved_users: 34
-acceptance_rate: 36.559%
-collected_at: 2026-04-17T12:02:10.133749+00:00
+acceptance_rate: "36.559%"
+collected_at: "2026-04-17T12:02:10.133749+00:00"
 ---
 
 ## 문제

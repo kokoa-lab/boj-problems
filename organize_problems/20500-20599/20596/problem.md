@@ -1,13 +1,13 @@
 ---
-title: Hardcore String Counting 2
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Hardcore String Counting 2"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 42
 accepted: 6
 solved_users: 6
-acceptance_rate: 75.000%
-collected_at: 2026-04-17T15:38:41.263401+00:00
+acceptance_rate: "75.000%"
+collected_at: "2026-04-17T15:38:41.263401+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Roadside optimization
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Roadside optimization"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 152
 accepted: 118
 solved_users: 94
-acceptance_rate: 78.992%
-collected_at: 2026-04-17T15:40:59.090668+00:00
+acceptance_rate: "78.992%"
+collected_at: "2026-04-17T15:40:59.090668+00:00"
 ---
 
 ## 문제

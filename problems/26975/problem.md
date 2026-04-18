@@ -1,13 +1,13 @@
 ---
-title: Cow College
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Cow College"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 1747
 accepted: 765
 solved_users: 648
-acceptance_rate: 45.474%
-collected_at: 2026-04-17T17:54:21.851212+00:00
+acceptance_rate: "45.474%"
+collected_at: "2026-04-17T17:54:21.851212+00:00"
 ---
 
 ## 문제

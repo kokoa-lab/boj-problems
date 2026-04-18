@@ -1,13 +1,13 @@
 ---
-title: 文字列の魔法
-special_judge: false
-time_limit: 8 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "文字列の魔法"
+special_judge: "false"
+time_limit: "8 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 18
 accepted: 4
 solved_users: 1
-acceptance_rate: 7.692%
-collected_at: 2026-04-17T16:19:55.611481+00:00
+acceptance_rate: "7.692%"
+collected_at: "2026-04-17T16:19:55.611481+00:00"
 ---
 
 ## 문제

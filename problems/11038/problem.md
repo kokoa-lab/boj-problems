@@ -1,13 +1,13 @@
 ---
-title: Entrance Examination
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Entrance Examination"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 189
 accepted: 156
 solved_users: 151
-acceptance_rate: 82.967%
-collected_at: 2026-04-17T12:35:28.434504+00:00
+acceptance_rate: "82.967%"
+collected_at: "2026-04-17T12:35:28.434504+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 해안 경비
-special_judge: true
-time_limit: 3 초
-memory_limit: 512 MB
+title: "해안 경비"
+special_judge: "true"
+time_limit: "3 초"
+memory_limit: "512 MB"
 submissions: 53
 accepted: 50
 solved_users: 47
-acceptance_rate: 94.000%
-collected_at: 2026-04-17T20:53:12.046556+00:00
+acceptance_rate: "94.000%"
+collected_at: "2026-04-17T20:53:12.046556+00:00"
 ---
 
 ## 문제

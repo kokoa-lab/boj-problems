@@ -1,13 +1,13 @@
 ---
-title: Cereal
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Cereal"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 668
 accepted: 251
 solved_users: 223
-acceptance_rate: 38.850%
-collected_at: 2026-04-17T15:10:50.825002+00:00
+acceptance_rate: "38.850%"
+collected_at: "2026-04-17T15:10:50.825002+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Performance Review
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Performance Review"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 62
 accepted: 35
 solved_users: 32
-acceptance_rate: 60.377%
-collected_at: 2026-04-17T15:14:22.851016+00:00
+acceptance_rate: "60.377%"
+collected_at: "2026-04-17T15:14:22.851016+00:00"
 ---
 
 ## 문제

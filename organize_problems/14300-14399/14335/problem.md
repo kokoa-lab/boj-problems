@@ -1,13 +1,13 @@
 ---
-title: 서로 다른 부분 수열의 개수
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "서로 다른 부분 수열의 개수"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 178
 accepted: 107
 solved_users: 85
-acceptance_rate: 60.714%
-collected_at: 2026-04-17T13:30:30.602801+00:00
+acceptance_rate: "60.714%"
+collected_at: "2026-04-17T13:30:30.602801+00:00"
 ---
 
 ## 문제

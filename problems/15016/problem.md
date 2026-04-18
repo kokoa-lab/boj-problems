@@ -1,13 +1,13 @@
 ---
-title: Airport Coffee
-special_judge: true
-time_limit: 6 초
-memory_limit: 512 MB
+title: "Airport Coffee"
+special_judge: "true"
+time_limit: "6 초"
+memory_limit: "512 MB"
 submissions: 66
 accepted: 27
 solved_users: 22
-acceptance_rate: 50.000%
-collected_at: 2026-04-17T13:48:14.471521+00:00
+acceptance_rate: "50.000%"
+collected_at: "2026-04-17T13:48:14.471521+00:00"
 ---
 
 ## 문제

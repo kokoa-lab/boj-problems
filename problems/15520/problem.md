@@ -1,13 +1,13 @@
 ---
-title: Prime-Factor Prime
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Prime-Factor Prime"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 143
 accepted: 77
 solved_users: 73
-acceptance_rate: 61.864%
-collected_at: 2026-04-17T14:00:56.424410+00:00
+acceptance_rate: "61.864%"
+collected_at: "2026-04-17T14:00:56.424410+00:00"
 ---
 
 ## 문제

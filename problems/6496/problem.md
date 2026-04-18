@@ -1,13 +1,13 @@
 ---
-title: Cyclic antimonotonic permutations
-special_judge: true
-time_limit: 2 초
-memory_limit: 128 MB
+title: "Cyclic antimonotonic permutations"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 85
 accepted: 59
 solved_users: 38
-acceptance_rate: 71.698%
-collected_at: 2026-04-17T11:29:15.040337+00:00
+acceptance_rate: "71.698%"
+collected_at: "2026-04-17T11:29:15.040337+00:00"
 ---
 
 ## 문제

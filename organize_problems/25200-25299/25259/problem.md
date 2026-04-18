@@ -1,13 +1,13 @@
 ---
-title: Art Collections
-special_judge: false
-time_limit: 3 초
-memory_limit: 512 MB
+title: "Art Collections"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "512 MB"
 submissions: 162
 accepted: 74
 solved_users: 68
-acceptance_rate: 45.033%
-collected_at: 2026-04-17T17:23:30.276601+00:00
+acceptance_rate: "45.033%"
+collected_at: "2026-04-17T17:23:30.276601+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 코딩은 예쁘게
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "코딩은 예쁘게"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 3767
 accepted: 1562
 solved_users: 1203
-acceptance_rate: 43.937%
-collected_at: 2026-04-17T10:45:27.187682+00:00
+acceptance_rate: "43.937%"
+collected_at: "2026-04-17T10:45:27.187682+00:00"
 ---
 
 ## 문제

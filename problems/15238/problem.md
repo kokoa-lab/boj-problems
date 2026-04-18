@@ -1,13 +1,13 @@
 ---
-title: Pirates
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Pirates"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 942
 accepted: 717
 solved_users: 652
-acceptance_rate: 77.897%
-collected_at: 2026-04-17T13:55:40.014619+00:00
+acceptance_rate: "77.897%"
+collected_at: "2026-04-17T13:55:40.014619+00:00"
 ---
 
 ## 문제

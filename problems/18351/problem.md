@@ -1,13 +1,13 @@
 ---
-title: 새로운 시작
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "새로운 시작"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 1491
 accepted: 7
 solved_users: 7
-acceptance_rate: 50.000%
-collected_at: 2026-04-17T15:00:34.324502+00:00
+acceptance_rate: "50.000%"
+collected_at: "2026-04-17T15:00:34.324502+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 내일 할거야
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "내일 할거야"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 3369
 accepted: 1623
 solved_users: 1275
-acceptance_rate: 48.479%
-collected_at: 2026-04-17T11:54:53.210870+00:00
+acceptance_rate: "48.479%"
+collected_at: "2026-04-17T11:54:53.210870+00:00"
 ---
 
 ## 문제

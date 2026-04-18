@@ -1,13 +1,13 @@
 ---
-title: 탐색 게임
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "탐색 게임"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 340
 accepted: 161
 solved_users: 100
-acceptance_rate: 46.296%
-collected_at: 2026-04-17T15:23:17.784957+00:00
+acceptance_rate: "46.296%"
+collected_at: "2026-04-17T15:23:17.784957+00:00"
 ---
 
 ## 문제

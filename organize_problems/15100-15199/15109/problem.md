@@ -1,13 +1,13 @@
 ---
-title: Distinct Distances
-special_judge: false
-time_limit: 3 초
-memory_limit: 512 MB
+title: "Distinct Distances"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "512 MB"
 submissions: 132
 accepted: 33
 solved_users: 27
-acceptance_rate: 45.763%
-collected_at: 2026-04-17T13:51:18.760129+00:00
+acceptance_rate: "45.763%"
+collected_at: "2026-04-17T13:51:18.760129+00:00"
 ---
 
 ## 문제

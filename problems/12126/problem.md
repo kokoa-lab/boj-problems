@@ -1,13 +1,13 @@
 ---
-title: Merlin QA (Large)
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Merlin QA (Large)"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 84
 accepted: 37
 solved_users: 35
-acceptance_rate: 46.667%
-collected_at: 2026-04-17T12:50:35.352916+00:00
+acceptance_rate: "46.667%"
+collected_at: "2026-04-17T12:50:35.352916+00:00"
 ---
 
 ## 문제

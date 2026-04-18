@@ -1,13 +1,13 @@
 ---
-title: Boxes and Balls
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Boxes and Balls"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 80
 accepted: 9
 solved_users: 9
-acceptance_rate: 13.433%
-collected_at: 2026-04-17T15:18:19.111842+00:00
+acceptance_rate: "13.433%"
+collected_at: "2026-04-17T15:18:19.111842+00:00"
 ---
 
 ## 문제

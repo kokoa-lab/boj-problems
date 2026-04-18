@@ -1,13 +1,13 @@
 ---
-title: Work
-special_judge: true
-time_limit: 4 초
-memory_limit: 256 MB
+title: "Work"
+special_judge: "true"
+time_limit: "4 초"
+memory_limit: "256 MB"
 submissions: 18
 accepted: 5
 solved_users: 5
-acceptance_rate: 29.412%
-collected_at: 2026-04-17T15:14:53.306355+00:00
+acceptance_rate: "29.412%"
+collected_at: "2026-04-17T15:14:53.306355+00:00"
 ---
 
 ## 문제

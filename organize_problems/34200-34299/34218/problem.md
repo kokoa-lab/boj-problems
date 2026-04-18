@@ -1,13 +1,13 @@
 ---
-title: 숭고한 마법학교
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "숭고한 마법학교"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 320
 accepted: 110
 solved_users: 90
-acceptance_rate: 36.000%
-collected_at: 2026-04-17T20:33:17.746280+00:00
+acceptance_rate: "36.000%"
+collected_at: "2026-04-17T20:33:17.746280+00:00"
 ---
 
 ## 문제

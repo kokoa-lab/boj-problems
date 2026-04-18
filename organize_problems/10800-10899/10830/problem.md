@@ -1,13 +1,13 @@
 ---
-title: 행렬 제곱
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "행렬 제곱"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 53701
 accepted: 19980
 solved_users: 15831
-acceptance_rate: 35.597%
-collected_at: 2026-04-17T12:30:15.771864+00:00
+acceptance_rate: "35.597%"
+collected_at: "2026-04-17T12:30:15.771864+00:00"
 ---
 
 ## 문제

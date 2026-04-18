@@ -1,13 +1,13 @@
 ---
-title: Floor Plan
-special_judge: true
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "Floor Plan"
+special_judge: "true"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 194
 accepted: 89
 solved_users: 82
-acceptance_rate: 48.810%
-collected_at: 2026-04-17T14:41:35.948889+00:00
+acceptance_rate: "48.810%"
+collected_at: "2026-04-17T14:41:35.948889+00:00"
 ---
 
 ## 문제

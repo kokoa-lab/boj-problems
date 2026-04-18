@@ -1,13 +1,13 @@
 ---
-title: Beautiful Permutation
-special_judge: true
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Beautiful Permutation"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 190
 accepted: 100
 solved_users: 89
-acceptance_rate: 56.329%
-collected_at: 2026-04-17T15:46:42.919916+00:00
+acceptance_rate: "56.329%"
+collected_at: "2026-04-17T15:46:42.919916+00:00"
 ---
 
 ## 문제

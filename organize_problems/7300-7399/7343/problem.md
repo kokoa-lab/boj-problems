@@ -1,13 +1,13 @@
 ---
-title: 달력 놀이
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "달력 놀이"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 445
 accepted: 103
 solved_users: 81
-acceptance_rate: 30.798%
-collected_at: 2026-04-17T11:48:28.952736+00:00
+acceptance_rate: "30.798%"
+collected_at: "2026-04-17T11:48:28.952736+00:00"
 ---
 
 ## 문제

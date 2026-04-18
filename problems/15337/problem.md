@@ -1,13 +1,13 @@
 ---
-title: Starting a Scenic Railroad Service
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Starting a Scenic Railroad Service"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 546
 accepted: 342
 solved_users: 276
-acceptance_rate: 62.302%
-collected_at: 2026-04-17T13:57:31.931986+00:00
+acceptance_rate: "62.302%"
+collected_at: "2026-04-17T13:57:31.931986+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 잘 알려진 수열 구하기
-special_judge: true
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "잘 알려진 수열 구하기"
+special_judge: "true"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 731
 accepted: 548
 solved_users: 466
-acceptance_rate: 78.188%
-collected_at: 2026-04-17T17:10:30.540486+00:00
+acceptance_rate: "78.188%"
+collected_at: "2026-04-17T17:10:30.540486+00:00"
 ---
 
 ## 문제

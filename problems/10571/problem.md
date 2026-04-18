@@ -1,13 +1,13 @@
 ---
-title: 다이아몬드
-special_judge: false
-time_limit: 5 초
-memory_limit: 256 MB
+title: "다이아몬드"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "256 MB"
 submissions: 995
 accepted: 355
 solved_users: 303
-acceptance_rate: 37.224%
-collected_at: 2026-04-17T12:25:48.205689+00:00
+acceptance_rate: "37.224%"
+collected_at: "2026-04-17T12:25:48.205689+00:00"
 ---
 
 ## 문제

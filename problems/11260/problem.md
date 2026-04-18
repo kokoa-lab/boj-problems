@@ -1,13 +1,13 @@
 ---
-title: Cell Counting
-special_judge: false
-time_limit: 3 초
-memory_limit: 256 MB
+title: "Cell Counting"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "256 MB"
 submissions: 104
 accepted: 81
 solved_users: 72
-acceptance_rate: 79.121%
-collected_at: 2026-04-17T12:38:47.765625+00:00
+acceptance_rate: "79.121%"
+collected_at: "2026-04-17T12:38:47.765625+00:00"
 ---
 
 ## 문제

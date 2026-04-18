@@ -1,13 +1,13 @@
 ---
-title: Cornhusker
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Cornhusker"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 278
 accepted: 183
 solved_users: 168
-acceptance_rate: 64.615%
-collected_at: 2026-04-17T19:08:40.661460+00:00
+acceptance_rate: "64.615%"
+collected_at: "2026-04-17T19:08:40.661460+00:00"
 ---
 
 ## 문제

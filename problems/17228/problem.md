@@ -1,13 +1,13 @@
 ---
-title: 아름다운 만영로
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "아름다운 만영로"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 1182
 accepted: 266
 solved_users: 186
-acceptance_rate: 25.034%
-collected_at: 2026-04-17T14:33:48.296271+00:00
+acceptance_rate: "25.034%"
+collected_at: "2026-04-17T14:33:48.296271+00:00"
 ---
 
 ## 문제

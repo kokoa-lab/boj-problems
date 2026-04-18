@@ -1,13 +1,13 @@
 ---
-title: Reading Digits
-special_judge: false
-time_limit: 0.1 초
-memory_limit: 256 MB
+title: "Reading Digits"
+special_judge: "false"
+time_limit: "0.1 초"
+memory_limit: "256 MB"
 submissions: 140
 accepted: 117
 solved_users: 98
-acceptance_rate: 88.288%
-collected_at: 2026-04-18T09:50:18.618193+00:00
+acceptance_rate: "88.288%"
+collected_at: "2026-04-18T09:50:18.618193+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 페르시아의 왕들
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "페르시아의 왕들"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 2975
 accepted: 2322
 solved_users: 2203
-acceptance_rate: 80.696%
-collected_at: 2026-04-17T12:26:02.608132+00:00
+acceptance_rate: "80.696%"
+collected_at: "2026-04-17T12:26:02.608132+00:00"
 ---
 
 ## 문제

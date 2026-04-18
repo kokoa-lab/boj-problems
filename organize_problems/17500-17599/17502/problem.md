@@ -1,13 +1,13 @@
 ---
-title: 클레어와 팰린드롬
-special_judge: true
-time_limit: 1 초
-memory_limit: 256 MB
+title: "클레어와 팰린드롬"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 2149
 accepted: 1309
 solved_users: 1146
-acceptance_rate: 62.829%
-collected_at: 2026-04-17T14:40:37.373116+00:00
+acceptance_rate: "62.829%"
+collected_at: "2026-04-17T14:40:37.373116+00:00"
 ---
 
 ## 문제

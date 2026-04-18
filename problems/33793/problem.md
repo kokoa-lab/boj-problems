@@ -1,13 +1,13 @@
 ---
-title: K-Regular Array
-special_judge: true
-time_limit: 2 초
-memory_limit: 2048 MB
+title: "K-Regular Array"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "2048 MB"
 submissions: 64
 accepted: 45
 solved_users: 38
-acceptance_rate: 74.510%
-collected_at: 2026-04-17T20:23:39.960244+00:00
+acceptance_rate: "74.510%"
+collected_at: "2026-04-17T20:23:39.960244+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 꼬치구이
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "꼬치구이"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 187
 accepted: 76
 solved_users: 66
-acceptance_rate: 40.994%
-collected_at: 2026-04-17T19:08:19.911124+00:00
+acceptance_rate: "40.994%"
+collected_at: "2026-04-17T19:08:19.911124+00:00"
 ---
 
 ## 문제

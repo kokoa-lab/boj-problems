@@ -1,13 +1,13 @@
 ---
-title: 숫자 이어 붙이기
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "숫자 이어 붙이기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 1018
 accepted: 333
 solved_users: 253
-acceptance_rate: 31.468%
-collected_at: 2026-04-17T17:17:39.427667+00:00
+acceptance_rate: "31.468%"
+collected_at: "2026-04-17T17:17:39.427667+00:00"
 ---
 
 ## 문제

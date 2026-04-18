@@ -1,13 +1,13 @@
 ---
-title: 등수 구하기
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "등수 구하기"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 35630
 accepted: 9896
 solved_users: 8234
-acceptance_rate: 28.101%
-collected_at: 2026-04-17T10:28:49.189839+00:00
+acceptance_rate: "28.101%"
+collected_at: "2026-04-17T10:28:49.189839+00:00"
 ---
 
 ## 문제

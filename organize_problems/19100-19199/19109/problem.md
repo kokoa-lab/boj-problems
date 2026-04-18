@@ -1,13 +1,13 @@
 ---
-title: Rotating Line
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Rotating Line"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 77
 accepted: 9
 solved_users: 4
-acceptance_rate: 6.349%
-collected_at: 2026-04-17T15:13:36.660441+00:00
+acceptance_rate: "6.349%"
+collected_at: "2026-04-17T15:13:36.660441+00:00"
 ---
 
 ## 문제

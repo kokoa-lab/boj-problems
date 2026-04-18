@@ -1,13 +1,13 @@
 ---
-title: Maja
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Maja"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 28
 accepted: 10
 solved_users: 6
-acceptance_rate: 33.333%
-collected_at: 2026-04-17T14:23:25.747791+00:00
+acceptance_rate: "33.333%"
+collected_at: "2026-04-17T14:23:25.747791+00:00"
 ---
 
 ## 문제

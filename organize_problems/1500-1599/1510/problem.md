@@ -1,13 +1,13 @@
 ---
-title: 이등변 삼각형
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "이등변 삼각형"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 225
 accepted: 46
 solved_users: 36
-acceptance_rate: 37.895%
-collected_at: 2026-04-17T10:30:45.264647+00:00
+acceptance_rate: "37.895%"
+collected_at: "2026-04-17T10:30:45.264647+00:00"
 ---
 
 ## 문제

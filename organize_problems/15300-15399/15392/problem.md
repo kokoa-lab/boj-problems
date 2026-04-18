@@ -1,13 +1,13 @@
 ---
-title: LoL Tournament
-special_judge: false
-time_limit: 5 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "LoL Tournament"
+special_judge: "false"
+time_limit: "5 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 14
 accepted: 7
 solved_users: 7
-acceptance_rate: 70.000%
-collected_at: 2026-04-17T13:58:27.100642+00:00
+acceptance_rate: "70.000%"
+collected_at: "2026-04-17T13:58:27.100642+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Electricity
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Electricity"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 48
 accepted: 38
 solved_users: 35
-acceptance_rate: 79.545%
-collected_at: 2026-04-17T11:16:53.117343+00:00
+acceptance_rate: "79.545%"
+collected_at: "2026-04-17T11:16:53.117343+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 과 조사하기
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "과 조사하기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 1668
 accepted: 1284
 solved_users: 1202
-acceptance_rate: 78.923%
-collected_at: 2026-04-17T18:21:53.714828+00:00
+acceptance_rate: "78.923%"
+collected_at: "2026-04-17T18:21:53.714828+00:00"
 ---
 
 ## 문제

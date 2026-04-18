@@ -1,13 +1,13 @@
 ---
-title: 핸드폰 요금
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "핸드폰 요금"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 33900
 accepted: 16984
 solved_users: 15087
-acceptance_rate: 50.558%
-collected_at: 2026-04-17T10:29:09.743009+00:00
+acceptance_rate: "50.558%"
+collected_at: "2026-04-17T10:29:09.743009+00:00"
 ---
 
 ## 문제

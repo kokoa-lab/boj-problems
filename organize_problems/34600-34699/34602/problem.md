@@ -1,13 +1,13 @@
 ---
-title: Control Towers
-special_judge: false
-time_limit: 2 초
-memory_limit: 2048 MB
+title: "Control Towers"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "2048 MB"
 submissions: 37
 accepted: 30
 solved_users: 29
-acceptance_rate: 80.556%
-collected_at: 2026-04-17T20:43:37.572969+00:00
+acceptance_rate: "80.556%"
+collected_at: "2026-04-17T20:43:37.572969+00:00"
 ---
 
 ## 문제

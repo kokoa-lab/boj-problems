@@ -1,13 +1,13 @@
 ---
-title: BOB
-special_judge: false
-time_limit: 1 초
-memory_limit: 64 MB
+title: "BOB"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "64 MB"
 submissions: 72
 accepted: 42
 solved_users: 38
-acceptance_rate: 71.698%
-collected_at: 2026-04-17T12:25:24.143411+00:00
+acceptance_rate: "71.698%"
+collected_at: "2026-04-17T12:25:24.143411+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Stacking Cups
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Stacking Cups"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 233
 accepted: 185
 solved_users: 160
-acceptance_rate: 82.902%
-collected_at: 2026-04-17T13:41:37.693477+00:00
+acceptance_rate: "82.902%"
+collected_at: "2026-04-17T13:41:37.693477+00:00"
 ---
 
 ## 문제

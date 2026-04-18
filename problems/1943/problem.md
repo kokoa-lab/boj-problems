@@ -1,13 +1,13 @@
 ---
-title: 동전 분배
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "동전 분배"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 9439
 accepted: 2251
 solved_users: 1392
-acceptance_rate: 22.001%
-collected_at: 2026-04-17T10:36:05.182979+00:00
+acceptance_rate: "22.001%"
+collected_at: "2026-04-17T10:36:05.182979+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Three Balls
-special_judge: true
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "Three Balls"
+special_judge: "true"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 16
 accepted: 7
 solved_users: 5
-acceptance_rate: 38.462%
-collected_at: 2026-04-17T16:50:36.912773+00:00
+acceptance_rate: "38.462%"
+collected_at: "2026-04-17T16:50:36.912773+00:00"
 ---
 
 ## 문제

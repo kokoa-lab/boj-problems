@@ -1,13 +1,13 @@
 ---
-title: Hoo’s Afraid of the Big Bad Wolf?
-special_judge: true
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Hoo’s Afraid of the Big Bad Wolf?"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 78
 accepted: 36
 solved_users: 30
-acceptance_rate: 41.667%
-collected_at: 2026-04-17T12:08:43.889968+00:00
+acceptance_rate: "41.667%"
+collected_at: "2026-04-17T12:08:43.889968+00:00"
 ---
 
 ## 문제

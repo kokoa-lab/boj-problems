@@ -1,13 +1,13 @@
 ---
-title: 단지번호붙이기
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "단지번호붙이기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 237449
 accepted: 110419
 solved_users: 69953
-acceptance_rate: 44.366%
-collected_at: 2026-04-17T10:43:46.132981+00:00
+acceptance_rate: "44.366%"
+collected_at: "2026-04-17T10:43:46.132981+00:00"
 ---
 
 ## 문제

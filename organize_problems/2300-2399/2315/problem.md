@@ -1,13 +1,13 @@
 ---
-title: 가로등 끄기
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "가로등 끄기"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 4002
 accepted: 1388
 solved_users: 976
-acceptance_rate: 44.083%
-collected_at: 2026-04-17T10:40:30.871109+00:00
+acceptance_rate: "44.083%"
+collected_at: "2026-04-17T10:40:30.871109+00:00"
 ---
 
 ## 문제

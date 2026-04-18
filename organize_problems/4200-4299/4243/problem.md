@@ -1,13 +1,13 @@
 ---
-title: 보안 업체
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "보안 업체"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 1935
 accepted: 674
 solved_users: 487
-acceptance_rate: 34.885%
-collected_at: 2026-04-17T10:58:02.067316+00:00
+acceptance_rate: "34.885%"
+collected_at: "2026-04-17T10:58:02.067316+00:00"
 ---
 
 ## 문제

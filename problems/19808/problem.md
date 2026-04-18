@@ -1,13 +1,13 @@
 ---
-title: Guess the Path
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Guess the Path"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 71
 accepted: 18
 solved_users: 17
-acceptance_rate: 29.825%
-collected_at: 2026-04-17T15:27:57.870888+00:00
+acceptance_rate: "29.825%"
+collected_at: "2026-04-17T15:27:57.870888+00:00"
 ---
 
 ## 문제

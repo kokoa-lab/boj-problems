@@ -1,13 +1,13 @@
 ---
-title: 로봇 조립
-special_judge: false
-time_limit: 4 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "로봇 조립"
+special_judge: "false"
+time_limit: "4 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 5634
 accepted: 1853
 solved_users: 1371
-acceptance_rate: 29.908%
-collected_at: 2026-04-17T14:55:59.397395+00:00
+acceptance_rate: "29.908%"
+collected_at: "2026-04-17T14:55:59.397395+00:00"
 ---
 
 ## 문제

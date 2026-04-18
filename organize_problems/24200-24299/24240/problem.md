@@ -1,13 +1,13 @@
 ---
-title: Doomsday
-special_judge: false
-time_limit: 5 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Doomsday"
+special_judge: "false"
+time_limit: "5 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 50
 accepted: 23
 solved_users: 22
-acceptance_rate: 44.898%
-collected_at: 2026-04-17T17:06:14.565942+00:00
+acceptance_rate: "44.898%"
+collected_at: "2026-04-17T17:06:14.565942+00:00"
 ---
 
 ## 문제

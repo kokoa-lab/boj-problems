@@ -1,13 +1,13 @@
 ---
-title: 괄호 부분 문자열 쿼리
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "괄호 부분 문자열 쿼리"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 177
 accepted: 113
 solved_users: 92
-acceptance_rate: 67.153%
-collected_at: 2026-04-17T13:14:51.730568+00:00
+acceptance_rate: "67.153%"
+collected_at: "2026-04-17T13:14:51.730568+00:00"
 ---
 
 ## 문제

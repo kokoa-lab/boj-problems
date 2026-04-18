@@ -1,13 +1,13 @@
 ---
-title: 커피숍1
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "커피숍1"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 1729
 accepted: 80
 solved_users: 61
-acceptance_rate: 10.854%
-collected_at: 2026-04-17T10:29:12.534242+00:00
+acceptance_rate: "10.854%"
+collected_at: "2026-04-17T10:29:12.534242+00:00"
 ---
 
 ## 문제

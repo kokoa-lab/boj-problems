@@ -1,13 +1,13 @@
 ---
-title: String Game
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "String Game"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 71
 accepted: 36
 solved_users: 32
-acceptance_rate: 57.143%
-collected_at: 2026-04-17T12:39:27.478614+00:00
+acceptance_rate: "57.143%"
+collected_at: "2026-04-17T12:39:27.478614+00:00"
 ---
 
 ## 문제

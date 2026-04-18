@@ -1,13 +1,13 @@
 ---
-title: Light in a room
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Light in a room"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 9
 accepted: 1
 solved_users: 1
-acceptance_rate: 100.000%
-collected_at: 2026-04-17T18:09:09.043035+00:00
+acceptance_rate: "100.000%"
+collected_at: "2026-04-17T18:09:09.043035+00:00"
 ---
 
 ## 문제

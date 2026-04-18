@@ -1,13 +1,13 @@
 ---
-title: 트리의 루트를 찾아라
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "트리의 루트를 찾아라"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 219
 accepted: 144
 solved_users: 128
-acceptance_rate: 70.718%
-collected_at: 2026-04-17T19:58:32.366275+00:00
+acceptance_rate: "70.718%"
+collected_at: "2026-04-17T19:58:32.366275+00:00"
 ---
 
 ## 문제

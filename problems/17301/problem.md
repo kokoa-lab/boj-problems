@@ -1,13 +1,13 @@
 ---
-title: NC 문자열
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "NC 문자열"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 628
 accepted: 166
 solved_users: 122
-acceptance_rate: 30.886%
-collected_at: 2026-04-17T14:36:34.796655+00:00
+acceptance_rate: "30.886%"
+collected_at: "2026-04-17T14:36:34.796655+00:00"
 ---
 
 ## 문제

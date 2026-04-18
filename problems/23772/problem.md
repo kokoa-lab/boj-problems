@@ -1,13 +1,13 @@
 ---
-title: Flatland Olympics
-special_judge: false
-time_limit: 4 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Flatland Olympics"
+special_judge: "false"
+time_limit: "4 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 149
 accepted: 37
 solved_users: 33
-acceptance_rate: 45.205%
-collected_at: 2026-04-17T16:53:32.489617+00:00
+acceptance_rate: "45.205%"
+collected_at: "2026-04-17T16:53:32.489617+00:00"
 ---
 
 ## 문제

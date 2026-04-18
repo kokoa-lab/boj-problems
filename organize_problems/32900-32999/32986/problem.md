@@ -1,13 +1,13 @@
 ---
-title: 나는 건포도가 싫어요
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "나는 건포도가 싫어요"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 673
 accepted: 245
 solved_users: 205
-acceptance_rate: 38.104%
-collected_at: 2026-04-17T20:06:54.206946+00:00
+acceptance_rate: "38.104%"
+collected_at: "2026-04-17T20:06:54.206946+00:00"
 ---
 
 ## 문제

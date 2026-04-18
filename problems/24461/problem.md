@@ -1,13 +1,13 @@
 ---
-title: 그래프의 줄기
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "그래프의 줄기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 1087
 accepted: 278
 solved_users: 225
-acceptance_rate: 25.685%
-collected_at: 2026-04-17T17:09:46.496938+00:00
+acceptance_rate: "25.685%"
+collected_at: "2026-04-17T17:09:46.496938+00:00"
 ---
 
 ## 문제

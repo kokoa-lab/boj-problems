@@ -1,13 +1,13 @@
 ---
-title: 보물 상자 열기
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 256 MB
+title: "보물 상자 열기"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "256 MB"
 submissions: 328
 accepted: 49
 solved_users: 41
-acceptance_rate: 23.034%
-collected_at: 2026-04-17T14:09:52.044213+00:00
+acceptance_rate: "23.034%"
+collected_at: "2026-04-17T14:09:52.044213+00:00"
 ---
 
 ## 문제

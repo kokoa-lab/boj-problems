@@ -1,13 +1,13 @@
 ---
-title: 봄버맨 2
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "봄버맨 2"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 3397
 accepted: 859
 solved_users: 646
-acceptance_rate: 25.655%
-collected_at: 2026-04-17T14:26:09.566172+00:00
+acceptance_rate: "25.655%"
+collected_at: "2026-04-17T14:26:09.566172+00:00"
 ---
 
 ## 문제

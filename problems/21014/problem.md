@@ -1,13 +1,13 @@
 ---
-title: Special Substring
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Special Substring"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 62
 accepted: 42
 solved_users: 40
-acceptance_rate: 74.074%
-collected_at: 2026-04-17T15:45:21.537732+00:00
+acceptance_rate: "74.074%"
+collected_at: "2026-04-17T15:45:21.537732+00:00"
 ---
 
 ## 문제

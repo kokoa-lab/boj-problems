@@ -1,13 +1,13 @@
 ---
-title: 소수 경로
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "소수 경로"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 17189
 accepted: 10490
 solved_users: 7563
-acceptance_rate: 61.558%
-collected_at: 2026-04-17T10:36:26.912173+00:00
+acceptance_rate: "61.558%"
+collected_at: "2026-04-17T10:36:26.912173+00:00"
 ---
 
 ## 문제

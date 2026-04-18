@@ -1,13 +1,13 @@
 ---
-title: Большой квадратный кусок
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Большой квадратный кусок"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 26
 accepted: 21
 solved_users: 17
-acceptance_rate: 77.273%
-collected_at: 2026-04-17T18:46:00.350863+00:00
+acceptance_rate: "77.273%"
+collected_at: "2026-04-17T18:46:00.350863+00:00"
 ---
 
 ## 문제

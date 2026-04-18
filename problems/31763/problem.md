@@ -1,13 +1,13 @@
 ---
-title: Identity Theft
-special_judge: false
-time_limit: 3 초
-memory_limit: 1024 MB
+title: "Identity Theft"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "1024 MB"
 submissions: 44
 accepted: 24
 solved_users: 22
-acceptance_rate: 59.459%
-collected_at: 2026-04-17T19:36:04.255301+00:00
+acceptance_rate: "59.459%"
+collected_at: "2026-04-17T19:36:04.255301+00:00"
 ---
 
 ## 문제

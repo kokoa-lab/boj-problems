@@ -1,13 +1,13 @@
 ---
-title: 어떤 호박의 할로윈 여행
-special_judge: false
-time_limit: 2 초
-memory_limit: 64 MB
+title: "어떤 호박의 할로윈 여행"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "64 MB"
 submissions: 1622
 accepted: 572
 solved_users: 519
-acceptance_rate: 37.419%
-collected_at: 2026-04-17T10:50:19.473409+00:00
+acceptance_rate: "37.419%"
+collected_at: "2026-04-17T10:50:19.473409+00:00"
 ---
 
 ## 문제

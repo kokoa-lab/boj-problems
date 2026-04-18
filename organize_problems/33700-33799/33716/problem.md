@@ -1,13 +1,13 @@
 ---
-title: 비장의 일격 (Large)
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "비장의 일격 (Large)"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 156
 accepted: 52
 solved_users: 30
-acceptance_rate: 32.258%
-collected_at: 2026-04-17T20:22:14.013947+00:00
+acceptance_rate: "32.258%"
+collected_at: "2026-04-17T20:22:14.013947+00:00"
 ---
 
 ## 문제

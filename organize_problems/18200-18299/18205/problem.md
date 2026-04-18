@@ -1,13 +1,13 @@
 ---
-title: Farming Mars
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Farming Mars"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 70
 accepted: 35
 solved_users: 30
-acceptance_rate: 52.632%
-collected_at: 2026-04-17T14:57:13.111766+00:00
+acceptance_rate: "52.632%"
+collected_at: "2026-04-17T14:57:13.111766+00:00"
 ---
 
 ## 문제

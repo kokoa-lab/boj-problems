@@ -1,13 +1,13 @@
 ---
-title: 순열의 개수
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "순열의 개수"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 170
 accepted: 32
 solved_users: 28
-acceptance_rate: 26.667%
-collected_at: 2026-04-17T10:41:18.201162+00:00
+acceptance_rate: "26.667%"
+collected_at: "2026-04-17T10:41:18.201162+00:00"
 ---
 
 ## 문제

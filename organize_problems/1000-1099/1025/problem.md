@@ -1,13 +1,13 @@
 ---
-title: 제곱수 찾기
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "제곱수 찾기"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 12388
 accepted: 4649
 solved_users: 3815
-acceptance_rate: 37.798%
-collected_at: 2026-04-17T10:27:44.981172+00:00
+acceptance_rate: "37.798%"
+collected_at: "2026-04-17T10:27:44.981172+00:00"
 ---
 
 ## 문제

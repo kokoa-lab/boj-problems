@@ -1,13 +1,13 @@
 ---
-title: 連番
-special_judge: false
-time_limit: 8 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "連番"
+special_judge: "false"
+time_limit: "8 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 151
 accepted: 113
 solved_users: 96
-acceptance_rate: 73.282%
-collected_at: 2026-04-17T17:46:18.405557+00:00
+acceptance_rate: "73.282%"
+collected_at: "2026-04-17T17:46:18.405557+00:00"
 ---
 
 ## 문제

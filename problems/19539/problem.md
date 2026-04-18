@@ -1,13 +1,13 @@
 ---
-title: 사과나무
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "사과나무"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 6741
 accepted: 2811
 solved_users: 2341
-acceptance_rate: 43.160%
-collected_at: 2026-04-17T15:22:36.230556+00:00
+acceptance_rate: "43.160%"
+collected_at: "2026-04-17T15:22:36.230556+00:00"
 ---
 
 ## 문제

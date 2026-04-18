@@ -1,13 +1,13 @@
 ---
-title: 최소 힙
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)  ( 하단 참고 )
-memory_limit: 128 MB
+title: "최소 힙"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)  ( 하단 참고 )"
+memory_limit: "128 MB"
 submissions: 119102
 accepted: 58738
 solved_users: 46413
-acceptance_rate: 50.073%
-collected_at: 2026-04-17T10:35:56.918177+00:00
+acceptance_rate: "50.073%"
+collected_at: "2026-04-17T10:35:56.918177+00:00"
 ---
 
 ## 문제

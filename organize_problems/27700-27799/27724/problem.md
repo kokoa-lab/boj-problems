@@ -1,13 +1,13 @@
 ---
-title: 팝핀 소다
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "팝핀 소다"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 676
 accepted: 375
 solved_users: 327
-acceptance_rate: 59.890%
-collected_at: 2026-04-17T18:09:33.766804+00:00
+acceptance_rate: "59.890%"
+collected_at: "2026-04-17T18:09:33.766804+00:00"
 ---
 
 ## 문제

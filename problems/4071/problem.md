@@ -1,13 +1,13 @@
 ---
-title: The Mastermind Master’s Mind
-special_judge: false
-time_limit: 3 초
-memory_limit: 128 MB
+title: "The Mastermind Master’s Mind"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "128 MB"
 submissions: 22
 accepted: 8
 solved_users: 8
-acceptance_rate: 40.000%
-collected_at: 2026-04-17T10:55:31.148959+00:00
+acceptance_rate: "40.000%"
+collected_at: "2026-04-17T10:55:31.148959+00:00"
 ---
 
 ## 문제

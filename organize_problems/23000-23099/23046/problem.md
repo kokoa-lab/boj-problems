@@ -1,13 +1,13 @@
 ---
-title: 큰 수 뒤집기
-special_judge: false
-time_limit: 3 초
-memory_limit: 1024 MB
+title: "큰 수 뒤집기"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "1024 MB"
 submissions: 557
 accepted: 105
 solved_users: 67
-acceptance_rate: 26.908%
-collected_at: 2026-04-17T16:40:47.202493+00:00
+acceptance_rate: "26.908%"
+collected_at: "2026-04-17T16:40:47.202493+00:00"
 ---
 
 ## 문제

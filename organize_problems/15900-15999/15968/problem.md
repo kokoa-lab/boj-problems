@@ -1,13 +1,13 @@
 ---
-title: 물병 잡기
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "물병 잡기"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 569
 accepted: 103
 solved_users: 83
-acceptance_rate: 35.319%
-collected_at: 2026-04-17T14:09:22.005099+00:00
+acceptance_rate: "35.319%"
+collected_at: "2026-04-17T14:09:22.005099+00:00"
 ---
 
 ## 문제

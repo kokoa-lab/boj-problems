@@ -1,13 +1,13 @@
 ---
-title: Tea Time
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Tea Time"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 175
 accepted: 142
 solved_users: 128
-acceptance_rate: 82.051%
-collected_at: 2026-04-17T11:19:26.620948+00:00
+acceptance_rate: "82.051%"
+collected_at: "2026-04-17T11:19:26.620948+00:00"
 ---
 
 ## 문제

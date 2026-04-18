@@ -1,13 +1,13 @@
 ---
-title: 레몬티처럼 달콤한 입술
-special_judge: false
-time_limit: 3 초
-memory_limit: 1024 MB
+title: "레몬티처럼 달콤한 입술"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "1024 MB"
 submissions: 80
 accepted: 15
 solved_users: 11
-acceptance_rate: 28.205%
-collected_at: 2026-04-17T20:34:08.308664+00:00
+acceptance_rate: "28.205%"
+collected_at: "2026-04-17T20:34:08.308664+00:00"
 ---
 
 ## 문제

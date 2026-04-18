@@ -1,13 +1,13 @@
 ---
-title: 루나의 게임 세팅
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "루나의 게임 세팅"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 1349
 accepted: 550
 solved_users: 386
-acceptance_rate: 39.029%
-collected_at: 2026-04-17T17:25:16.297381+00:00
+acceptance_rate: "39.029%"
+collected_at: "2026-04-17T17:25:16.297381+00:00"
 ---
 
 ## 문제

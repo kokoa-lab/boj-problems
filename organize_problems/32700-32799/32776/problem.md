@@ -1,13 +1,13 @@
 ---
-title: 가희와 4시간의 벽 2
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "가희와 4시간의 벽 2"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 1677
 accepted: 835
 solved_users: 780
-acceptance_rate: 49.524%
-collected_at: 2026-04-17T20:00:55.576829+00:00
+acceptance_rate: "49.524%"
+collected_at: "2026-04-17T20:00:55.576829+00:00"
 ---
 
 ## 문제

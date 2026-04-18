@@ -1,13 +1,13 @@
 ---
-title: Brownie Points II
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Brownie Points II"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 40
 accepted: 20
 solved_users: 5
-acceptance_rate: 20.833%
-collected_at: 2026-04-17T10:59:11.606487+00:00
+acceptance_rate: "20.833%"
+collected_at: "2026-04-17T10:59:11.606487+00:00"
 ---
 
 ## 문제

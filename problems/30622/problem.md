@@ -1,13 +1,13 @@
 ---
-title: Rush & Slash
-special_judge: false
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "Rush & Slash"
+special_judge: "false"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 290
 accepted: 130
 solved_users: 110
-acceptance_rate: 48.246%
-collected_at: 2026-04-17T19:10:55.602992+00:00
+acceptance_rate: "48.246%"
+collected_at: "2026-04-17T19:10:55.602992+00:00"
 ---
 
 ## 문제

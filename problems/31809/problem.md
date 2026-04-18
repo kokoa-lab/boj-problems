@@ -1,13 +1,13 @@
 ---
-title: malware 박멸하기
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "malware 박멸하기"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 45
 accepted: 25
 solved_users: 14
-acceptance_rate: 53.846%
-collected_at: 2026-04-17T19:36:51.671787+00:00
+acceptance_rate: "53.846%"
+collected_at: "2026-04-17T19:36:51.671787+00:00"
 ---
 
 ## 문제

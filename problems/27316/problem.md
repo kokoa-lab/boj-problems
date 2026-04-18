@@ -1,13 +1,13 @@
 ---
-title: 시간은 다시 움직인다
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "시간은 다시 움직인다"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 349
 accepted: 74
 solved_users: 51
-acceptance_rate: 18.412%
-collected_at: 2026-04-17T18:00:44.574860+00:00
+acceptance_rate: "18.412%"
+collected_at: "2026-04-17T18:00:44.574860+00:00"
 ---
 
 ## 문제

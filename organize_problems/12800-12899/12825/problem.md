@@ -1,13 +1,13 @@
 ---
-title: Next Permutation
-special_judge: false
-time_limit: 0.1 초
-memory_limit: 32 MB
+title: "Next Permutation"
+special_judge: "false"
+time_limit: "0.1 초"
+memory_limit: "32 MB"
 submissions: 188
 accepted: 61
 solved_users: 52
-acceptance_rate: 47.706%
-collected_at: 2026-04-17T13:01:59.445055+00:00
+acceptance_rate: "47.706%"
+collected_at: "2026-04-17T13:01:59.445055+00:00"
 ---
 
 ## 문제

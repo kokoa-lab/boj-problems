@@ -1,13 +1,13 @@
 ---
-title: 탈옥
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "탈옥"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 13285
 accepted: 3024
 solved_users: 2140
-acceptance_rate: 28.537%
-collected_at: 2026-04-17T12:09:24.034664+00:00
+acceptance_rate: "28.537%"
+collected_at: "2026-04-17T12:09:24.034664+00:00"
 ---
 
 ## 문제

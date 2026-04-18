@@ -1,13 +1,13 @@
 ---
-title: Victory Through Synergy
-special_judge: false
-time_limit: 4 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Victory Through Synergy"
+special_judge: "false"
+time_limit: "4 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 27
 accepted: 15
 solved_users: 15
-acceptance_rate: 55.556%
-collected_at: 2026-04-17T17:15:09.727924+00:00
+acceptance_rate: "55.556%"
+collected_at: "2026-04-17T17:15:09.727924+00:00"
 ---
 
 ## 문제

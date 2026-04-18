@@ -1,13 +1,13 @@
 ---
-title: 개미의 이동
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "개미의 이동"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 268
 accepted: 135
 solved_users: 96
-acceptance_rate: 50.794%
-collected_at: 2026-04-17T11:31:37.385175+00:00
+acceptance_rate: "50.794%"
+collected_at: "2026-04-17T11:31:37.385175+00:00"
 ---
 
 ## 문제

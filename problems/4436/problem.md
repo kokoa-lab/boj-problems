@@ -1,13 +1,13 @@
 ---
-title: 엘프의 검
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "엘프의 검"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 1432
 accepted: 706
 solved_users: 617
-acceptance_rate: 50.992%
-collected_at: 2026-04-17T11:01:40.790038+00:00
+acceptance_rate: "50.992%"
+collected_at: "2026-04-17T11:01:40.790038+00:00"
 ---
 
 ## 문제

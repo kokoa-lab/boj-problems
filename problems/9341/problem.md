@@ -1,13 +1,13 @@
 ---
-title: ZZ
-special_judge: false
-time_limit: 15 초
-memory_limit: 64 MB
+title: "ZZ"
+special_judge: "false"
+time_limit: "15 초"
+memory_limit: "64 MB"
 submissions: 406
 accepted: 170
 solved_users: 112
-acceptance_rate: 47.660%
-collected_at: 2026-04-17T12:09:03.420582+00:00
+acceptance_rate: "47.660%"
+collected_at: "2026-04-17T12:09:03.420582+00:00"
 ---
 
 ## 문제

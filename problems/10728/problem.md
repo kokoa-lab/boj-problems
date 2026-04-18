@@ -1,13 +1,13 @@
 ---
-title: XOR삼형제 1
-special_judge: true
-time_limit: 5 초
-memory_limit: 256 MB
+title: "XOR삼형제 1"
+special_judge: "true"
+time_limit: "5 초"
+memory_limit: "256 MB"
 submissions: 777
 accepted: 309
 solved_users: 246
-acceptance_rate: 45.556%
-collected_at: 2026-04-17T12:28:13.407210+00:00
+acceptance_rate: "45.556%"
+collected_at: "2026-04-17T12:28:13.407210+00:00"
 ---
 
 ## 문제

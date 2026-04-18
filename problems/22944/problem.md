@@ -1,13 +1,13 @@
 ---
-title: 죽음의 비
-special_judge: false
-time_limit: 1.5 초
-memory_limit: 1024 MB
+title: "죽음의 비"
+special_judge: "false"
+time_limit: "1.5 초"
+memory_limit: "1024 MB"
 submissions: 4644
 accepted: 978
 solved_users: 617
-acceptance_rate: 18.429%
-collected_at: 2026-04-17T16:39:06.696711+00:00
+acceptance_rate: "18.429%"
+collected_at: "2026-04-17T16:39:06.696711+00:00"
 ---
 
 ## 문제

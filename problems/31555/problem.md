@@ -1,13 +1,13 @@
 ---
-title: Cowmpetency
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Cowmpetency"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 92
 accepted: 31
 solved_users: 30
-acceptance_rate: 41.096%
-collected_at: 2026-04-17T19:30:44.588093+00:00
+acceptance_rate: "41.096%"
+collected_at: "2026-04-17T19:30:44.588093+00:00"
 ---
 
 ## 문제

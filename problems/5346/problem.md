@@ -1,13 +1,13 @@
 ---
-title: Frodo Sequence
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Frodo Sequence"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 218
 accepted: 147
 solved_users: 134
-acceptance_rate: 68.718%
-collected_at: 2026-04-17T11:13:08.264104+00:00
+acceptance_rate: "68.718%"
+collected_at: "2026-04-17T11:13:08.264104+00:00"
 ---
 
 ## 문제

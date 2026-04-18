@@ -1,13 +1,13 @@
 ---
-title: ABC
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "ABC"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 10896
 accepted: 7044
 solved_users: 6508
-acceptance_rate: 66.544%
-collected_at: 2026-04-17T10:46:22.797006+00:00
+acceptance_rate: "66.544%"
+collected_at: "2026-04-17T10:46:22.797006+00:00"
 ---
 
 ## 문제

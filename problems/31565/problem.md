@@ -1,13 +1,13 @@
 ---
-title: 전역 역전
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "전역 역전"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 311
 accepted: 118
 solved_users: 98
-acceptance_rate: 39.357%
-collected_at: 2026-04-17T19:30:59.701690+00:00
+acceptance_rate: "39.357%"
+collected_at: "2026-04-17T19:30:59.701690+00:00"
 ---
 
 ## 문제

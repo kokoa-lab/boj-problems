@@ -1,13 +1,13 @@
 ---
-title: Winter Roads
-special_judge: false
-time_limit: 10 초
-memory_limit: 128 MB
+title: "Winter Roads"
+special_judge: "false"
+time_limit: "10 초"
+memory_limit: "128 MB"
 submissions: 112
 accepted: 26
 solved_users: 18
-acceptance_rate: 28.125%
-collected_at: 2026-04-17T11:46:26.292626+00:00
+acceptance_rate: "28.125%"
+collected_at: "2026-04-17T11:46:26.292626+00:00"
 ---
 
 ## 문제

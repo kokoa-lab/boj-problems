@@ -1,13 +1,13 @@
 ---
-title: 그래프 곱셈
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "그래프 곱셈"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 157
 accepted: 44
 solved_users: 36
-acceptance_rate: 27.481%
-collected_at: 2026-04-17T20:06:50.818488+00:00
+acceptance_rate: "27.481%"
+collected_at: "2026-04-17T20:06:50.818488+00:00"
 ---
 
 ## 문제

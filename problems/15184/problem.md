@@ -1,13 +1,13 @@
 ---
-title: Letter Count
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Letter Count"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 437
 accepted: 351
 solved_users: 318
-acceptance_rate: 80.711%
-collected_at: 2026-04-17T13:54:00.376943+00:00
+acceptance_rate: "80.711%"
+collected_at: "2026-04-17T13:54:00.376943+00:00"
 ---
 
 ## 문제

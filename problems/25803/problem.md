@@ -1,13 +1,13 @@
 ---
-title: Soccer Standing Table
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Soccer Standing Table"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 43
 accepted: 39
 solved_users: 34
-acceptance_rate: 97.143%
-collected_at: 2026-04-17T17:33:10.673972+00:00
+acceptance_rate: "97.143%"
+collected_at: "2026-04-17T17:33:10.673972+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Window Manager
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "Window Manager"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 152
 accepted: 43
 solved_users: 36
-acceptance_rate: 34.615%
-collected_at: 2026-04-17T12:29:40.775610+00:00
+acceptance_rate: "34.615%"
+collected_at: "2026-04-17T12:29:40.775610+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Health in Hazard
-special_judge: false
-time_limit: 3.5 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Health in Hazard"
+special_judge: "false"
+time_limit: "3.5 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 121
 accepted: 27
 solved_users: 23
-acceptance_rate: 23.711%
-collected_at: 2026-04-17T19:07:41.166821+00:00
+acceptance_rate: "23.711%"
+collected_at: "2026-04-17T19:07:41.166821+00:00"
 ---
 
 ## 문제

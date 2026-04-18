@@ -1,13 +1,13 @@
 ---
-title: Grid de Largada
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Grid de Largada"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 75
 accepted: 62
 solved_users: 57
-acceptance_rate: 89.062%
-collected_at: 2026-04-17T13:16:33.559298+00:00
+acceptance_rate: "89.062%"
+collected_at: "2026-04-17T13:16:33.559298+00:00"
 ---
 
 ## 문제

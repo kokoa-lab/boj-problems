@@ -1,13 +1,13 @@
 ---
-title: Zombie Land 2
-special_judge: true
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Zombie Land 2"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 12
 accepted: 4
 solved_users: 3
-acceptance_rate: 60.000%
-collected_at: 2026-04-17T17:46:03.078157+00:00
+acceptance_rate: "60.000%"
+collected_at: "2026-04-17T17:46:03.078157+00:00"
 ---
 
 ## 문제

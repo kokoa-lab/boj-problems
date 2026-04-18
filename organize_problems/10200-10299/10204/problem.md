@@ -1,13 +1,13 @@
 ---
-title: Neighborhoods in Graphs
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Neighborhoods in Graphs"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 197
 accepted: 129
 solved_users: 106
-acceptance_rate: 70.667%
-collected_at: 2026-04-17T12:20:23.567521+00:00
+acceptance_rate: "70.667%"
+collected_at: "2026-04-17T12:20:23.567521+00:00"
 ---
 
 ## 문제

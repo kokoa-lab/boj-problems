@@ -1,13 +1,13 @@
 ---
-title: 윤호는 마법약 도둑
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "윤호는 마법약 도둑"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 205
 accepted: 65
 solved_users: 57
-acceptance_rate: 33.333%
-collected_at: 2026-04-17T13:40:03.863921+00:00
+acceptance_rate: "33.333%"
+collected_at: "2026-04-17T13:40:03.863921+00:00"
 ---
 
 ## 문제

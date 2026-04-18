@@ -1,13 +1,13 @@
 ---
-title: 직각다각형
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "직각다각형"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 4950
 accepted: 1769
 solved_users: 1193
-acceptance_rate: 36.328%
-collected_at: 2026-04-17T14:42:36.618278+00:00
+acceptance_rate: "36.328%"
+collected_at: "2026-04-17T14:42:36.618278+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Decoding Morse sequences
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Decoding Morse sequences"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 62
 accepted: 22
 solved_users: 12
-acceptance_rate: 31.579%
-collected_at: 2026-04-17T10:49:03.810788+00:00
+acceptance_rate: "31.579%"
+collected_at: "2026-04-17T10:49:03.810788+00:00"
 ---
 
 ## 문제

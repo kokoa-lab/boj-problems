@@ -1,13 +1,13 @@
 ---
-title: Sticky Keys
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Sticky Keys"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 1403
 accepted: 836
 solved_users: 761
-acceptance_rate: 62.531%
-collected_at: 2026-04-17T19:33:26.545848+00:00
+acceptance_rate: "62.531%"
+collected_at: "2026-04-17T19:33:26.545848+00:00"
 ---
 
 ## 문제

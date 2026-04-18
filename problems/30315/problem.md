@@ -1,13 +1,13 @@
 ---
-title: King's Keep
-special_judge: true
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "King's Keep"
+special_judge: "true"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 172
 accepted: 144
 solved_users: 119
-acceptance_rate: 83.217%
-collected_at: 2026-04-17T19:03:02.218173+00:00
+acceptance_rate: "83.217%"
+collected_at: "2026-04-17T19:03:02.218173+00:00"
 ---
 
 ## 문제

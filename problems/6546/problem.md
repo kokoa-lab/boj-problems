@@ -1,13 +1,13 @@
 ---
-title: Edge
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Edge"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 127
 accepted: 66
 solved_users: 57
-acceptance_rate: 51.351%
-collected_at: 2026-04-17T11:30:11.601972+00:00
+acceptance_rate: "51.351%"
+collected_at: "2026-04-17T11:30:11.601972+00:00"
 ---
 
 ## 문제

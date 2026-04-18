@@ -1,13 +1,13 @@
 ---
-title: 지그재그 숫자
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "지그재그 숫자"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 155
 accepted: 50
 solved_users: 40
-acceptance_rate: 39.216%
-collected_at: 2026-04-17T11:15:17.291921+00:00
+acceptance_rate: "39.216%"
+collected_at: "2026-04-17T11:15:17.291921+00:00"
 ---
 
 ## 문제

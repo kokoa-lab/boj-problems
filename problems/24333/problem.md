@@ -1,13 +1,13 @@
 ---
-title: СРЕЩА НА ПРИЯТЕЛИ
-special_judge: false
-time_limit: 0.1 초
-memory_limit: 1024 MB
+title: "СРЕЩА НА ПРИЯТЕЛИ"
+special_judge: "false"
+time_limit: "0.1 초"
+memory_limit: "1024 MB"
 submissions: 370
 accepted: 264
 solved_users: 239
-acceptance_rate: 71.343%
-collected_at: 2026-04-17T17:07:41.081171+00:00
+acceptance_rate: "71.343%"
+collected_at: "2026-04-17T17:07:41.081171+00:00"
 ---
 
 ## 문제

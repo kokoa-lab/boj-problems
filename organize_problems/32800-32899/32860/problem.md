@@ -1,13 +1,13 @@
 ---
-title: 수수수수퍼노바
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "수수수수퍼노바"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 968
 accepted: 451
 solved_users: 394
-acceptance_rate: 48.582%
-collected_at: 2026-04-17T20:02:48.289558+00:00
+acceptance_rate: "48.582%"
+collected_at: "2026-04-17T20:02:48.289558+00:00"
 ---
 
 ## 문제

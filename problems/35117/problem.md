@@ -1,13 +1,13 @@
 ---
-title: 생명의 샘
-special_judge: false
-time_limit: 4 초
-memory_limit: 1536 MB
+title: "생명의 샘"
+special_judge: "false"
+time_limit: "4 초"
+memory_limit: "1536 MB"
 submissions: 21
 accepted: 14
 solved_users: 10
-acceptance_rate: 71.429%
-collected_at: 2026-04-17T20:56:03.385379+00:00
+acceptance_rate: "71.429%"
+collected_at: "2026-04-17T20:56:03.385379+00:00"
 ---
 
 ## 문제

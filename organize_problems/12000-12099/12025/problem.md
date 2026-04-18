@@ -1,13 +1,13 @@
 ---
-title: 장난꾸러기 영훈
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "장난꾸러기 영훈"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 1470
 accepted: 492
 solved_users: 396
-acceptance_rate: 35.548%
-collected_at: 2026-04-17T12:49:07.217914+00:00
+acceptance_rate: "35.548%"
+collected_at: "2026-04-17T12:49:07.217914+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 주고받기
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "주고받기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 96
 accepted: 33
 solved_users: 19
-acceptance_rate: 27.536%
-collected_at: 2026-04-17T17:48:46.429620+00:00
+acceptance_rate: "27.536%"
+collected_at: "2026-04-17T17:48:46.429620+00:00"
 ---
 
 ## 문제

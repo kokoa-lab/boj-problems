@@ -1,13 +1,13 @@
 ---
-title: Спичрайтер Йоды
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Спичрайтер Йоды"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 100
 accepted: 90
 solved_users: 77
-acceptance_rate: 91.667%
-collected_at: 2026-04-17T18:40:43.628847+00:00
+acceptance_rate: "91.667%"
+collected_at: "2026-04-17T18:40:43.628847+00:00"
 ---
 
 ## 문제

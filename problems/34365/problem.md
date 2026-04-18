@@ -1,13 +1,13 @@
 ---
-title: Sarah's Sandwich Shop
-special_judge: false
-time_limit: 1 초
-memory_limit: 2048 MB
+title: "Sarah's Sandwich Shop"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "2048 MB"
 submissions: 85
 accepted: 65
 solved_users: 44
-acceptance_rate: 70.968%
-collected_at: 2026-04-17T20:36:39.544538+00:00
+acceptance_rate: "70.968%"
+collected_at: "2026-04-17T20:36:39.544538+00:00"
 ---
 
 ## 문제

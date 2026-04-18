@@ -1,13 +1,13 @@
 ---
-title: Kanglish : Analysis on Artificial Language
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Kanglish : Analysis on Artificial Language"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 11
 accepted: 0
 solved_users: 0
-acceptance_rate: 0.000%
-collected_at: 2026-04-17T16:36:36.338503+00:00
+acceptance_rate: "0.000%"
+collected_at: "2026-04-17T16:36:36.338503+00:00"
 ---
 
 ## 문제

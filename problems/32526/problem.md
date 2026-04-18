@@ -1,13 +1,13 @@
 ---
-title: 문자열 구성하기
-special_judge: true
-time_limit: 1 초
-memory_limit: 999 MB
+title: "문자열 구성하기"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "999 MB"
 submissions: 296
 accepted: 60
 solved_users: 47
-acceptance_rate: 19.583%
-collected_at: 2026-04-17T19:54:20.348217+00:00
+acceptance_rate: "19.583%"
+collected_at: "2026-04-17T19:54:20.348217+00:00"
 ---
 
 ## 문제

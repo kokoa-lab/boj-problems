@@ -1,13 +1,13 @@
 ---
-title: Counting Swann’s Coins
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Counting Swann’s Coins"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 694
 accepted: 527
 solved_users: 481
-acceptance_rate: 76.471%
-collected_at: 2026-04-17T11:12:56.749813+00:00
+acceptance_rate: "76.471%"
+collected_at: "2026-04-17T11:12:56.749813+00:00"
 ---
 
 ## 문제

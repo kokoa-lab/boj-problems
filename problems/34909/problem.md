@@ -1,13 +1,13 @@
 ---
-title: Avoid Copyright Infringement
-special_judge: true
-time_limit: 1 초
-memory_limit: 2048 MB
+title: "Avoid Copyright Infringement"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "2048 MB"
 submissions: 17
 accepted: 9
 solved_users: 9
-acceptance_rate: 52.941%
-collected_at: 2026-04-17T20:51:46.539788+00:00
+acceptance_rate: "52.941%"
+collected_at: "2026-04-17T20:51:46.539788+00:00"
 ---
 
 ## 문제

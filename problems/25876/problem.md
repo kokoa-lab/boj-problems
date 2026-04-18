@@ -1,13 +1,13 @@
 ---
-title: First Last Sorting
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "First Last Sorting"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 29
 accepted: 20
 solved_users: 19
-acceptance_rate: 70.370%
-collected_at: 2026-04-17T17:35:28.053511+00:00
+acceptance_rate: "70.370%"
+collected_at: "2026-04-17T17:35:28.053511+00:00"
 ---
 
 ## 문제

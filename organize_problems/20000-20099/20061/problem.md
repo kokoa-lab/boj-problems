@@ -1,13 +1,13 @@
 ---
-title: 모노미노도미노 2
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "모노미노도미노 2"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 11057
 accepted: 4241
 solved_users: 2839
-acceptance_rate: 36.230%
-collected_at: 2026-04-17T15:31:08.541546+00:00
+acceptance_rate: "36.230%"
+collected_at: "2026-04-17T15:31:08.541546+00:00"
 ---
 
 ## 문제

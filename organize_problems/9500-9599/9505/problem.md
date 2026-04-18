@@ -1,13 +1,13 @@
 ---
-title: 엔터프라이즈호 탈출
-special_judge: false
-time_limit: 10 초
-memory_limit: 256 MB
+title: "엔터프라이즈호 탈출"
+special_judge: "false"
+time_limit: "10 초"
+memory_limit: "256 MB"
 submissions: 1185
 accepted: 426
 solved_users: 317
-acceptance_rate: 36.521%
-collected_at: 2026-04-17T12:10:41.947299+00:00
+acceptance_rate: "36.521%"
+collected_at: "2026-04-17T12:10:41.947299+00:00"
 ---
 
 ## 문제

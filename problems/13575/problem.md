@@ -1,13 +1,13 @@
 ---
-title: 보석 가게
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "보석 가게"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 2599
 accepted: 642
 solved_users: 423
-acceptance_rate: 21.872%
-collected_at: 2026-04-17T13:15:27.581975+00:00
+acceptance_rate: "21.872%"
+collected_at: "2026-04-17T13:15:27.581975+00:00"
 ---
 
 ## 문제

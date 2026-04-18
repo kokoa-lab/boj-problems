@@ -1,13 +1,13 @@
 ---
-title: N-Queen
-special_judge: false
-time_limit: 10 초
-memory_limit: 128 MB
+title: "N-Queen"
+special_judge: "false"
+time_limit: "10 초"
+memory_limit: "128 MB"
 submissions: 152386
 accepted: 75316
 solved_users: 48298
-acceptance_rate: 47.689%
-collected_at: 2026-04-17T12:12:44.379183+00:00
+acceptance_rate: "47.689%"
+collected_at: "2026-04-17T12:12:44.379183+00:00"
 ---
 
 ## 문제

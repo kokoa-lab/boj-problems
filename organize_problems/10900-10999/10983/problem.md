@@ -1,13 +1,13 @@
 ---
-title: 히기카드
-special_judge: true
-time_limit: 3 초
-memory_limit: 128 MB
+title: "히기카드"
+special_judge: "true"
+time_limit: "3 초"
+memory_limit: "128 MB"
 submissions: 93
 accepted: 57
 solved_users: 46
-acceptance_rate: 71.875%
-collected_at: 2026-04-17T12:34:19.792055+00:00
+acceptance_rate: "71.875%"
+collected_at: "2026-04-17T12:34:19.792055+00:00"
 ---
 
 ## 문제

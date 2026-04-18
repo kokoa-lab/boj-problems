@@ -1,13 +1,13 @@
 ---
-title: Skalbiniai
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Skalbiniai"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 90
 accepted: 82
 solved_users: 78
-acceptance_rate: 90.698%
-collected_at: 2026-04-17T11:47:52.367653+00:00
+acceptance_rate: "90.698%"
+collected_at: "2026-04-17T11:47:52.367653+00:00"
 ---
 
 ## 문제

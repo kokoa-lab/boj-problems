@@ -1,13 +1,13 @@
 ---
-title: Herding
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Herding"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 49
 accepted: 25
 solved_users: 25
-acceptance_rate: 54.348%
-collected_at: 2026-04-17T11:39:18.316902+00:00
+acceptance_rate: "54.348%"
+collected_at: "2026-04-17T11:39:18.316902+00:00"
 ---
 
 ## 문제

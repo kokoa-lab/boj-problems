@@ -1,13 +1,13 @@
 ---
-title: Superbull
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Superbull"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 425
 accepted: 213
 solved_users: 165
-acceptance_rate: 49.401%
-collected_at: 2026-04-17T12:29:01.158478+00:00
+acceptance_rate: "49.401%"
+collected_at: "2026-04-17T12:29:01.158478+00:00"
 ---
 
 ## 문제

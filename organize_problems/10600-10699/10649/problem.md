@@ -1,13 +1,13 @@
 ---
-title: 프리스비
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "프리스비"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 602
 accepted: 243
 solved_users: 190
-acceptance_rate: 38.934%
-collected_at: 2026-04-17T12:26:56.534648+00:00
+acceptance_rate: "38.934%"
+collected_at: "2026-04-17T12:26:56.534648+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 문자열 분해기
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "문자열 분해기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 250
 accepted: 186
 solved_users: 178
-acceptance_rate: 79.821%
-collected_at: 2026-04-17T20:38:02.061800+00:00
+acceptance_rate: "79.821%"
+collected_at: "2026-04-17T20:38:02.061800+00:00"
 ---
 
 ## 문제

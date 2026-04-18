@@ -1,13 +1,13 @@
 ---
-title: 바이러스 공격
-special_judge: false
-time_limit: 3 초
-memory_limit: 1024 MB
+title: "바이러스 공격"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "1024 MB"
 submissions: 1114
 accepted: 277
 solved_users: 201
-acceptance_rate: 26.658%
-collected_at: 2026-04-17T19:36:37.768833+00:00
+acceptance_rate: "26.658%"
+collected_at: "2026-04-17T19:36:37.768833+00:00"
 ---
 
 ## 문제

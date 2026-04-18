@@ -1,13 +1,13 @@
 ---
-title: K-cортировка
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "K-cортировка"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 42
 accepted: 20
 solved_users: 19
-acceptance_rate: 65.517%
-collected_at: 2026-04-17T16:16:50.435830+00:00
+acceptance_rate: "65.517%"
+collected_at: "2026-04-17T16:16:50.435830+00:00"
 ---
 
 ## 문제

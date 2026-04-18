@@ -1,13 +1,13 @@
 ---
-title: 세제곱의 합
-special_judge: false
-time_limit: 0.25 초
-memory_limit: 1024 MB
+title: "세제곱의 합"
+special_judge: "false"
+time_limit: "0.25 초"
+memory_limit: "1024 MB"
 submissions: 7988
 accepted: 5813
 solved_users: 5476
-acceptance_rate: 73.160%
-collected_at: 2026-04-17T18:30:56.166670+00:00
+acceptance_rate: "73.160%"
+collected_at: "2026-04-17T18:30:56.166670+00:00"
 ---
 
 ## 문제

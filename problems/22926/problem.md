@@ -1,13 +1,13 @@
 ---
-title: Ketek Counting
-special_judge: false
-time_limit: 4 초
-memory_limit: 64 MB (추가 메모리 없음)
+title: "Ketek Counting"
+special_judge: "false"
+time_limit: "4 초"
+memory_limit: "64 MB (추가 메모리 없음)"
 submissions: 61
 accepted: 31
 solved_users: 26
-acceptance_rate: 52.000%
-collected_at: 2026-04-17T16:38:47.740242+00:00
+acceptance_rate: "52.000%"
+collected_at: "2026-04-17T16:38:47.740242+00:00"
 ---
 
 ## 문제

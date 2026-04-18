@@ -1,13 +1,13 @@
 ---
-title: HearthStone
-special_judge: false
-time_limit: 1 초
-memory_limit: 2048 MB
+title: "HearthStone"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "2048 MB"
 submissions: 33
 accepted: 25
 solved_users: 7
-acceptance_rate: 100.000%
-collected_at: 2026-04-17T20:15:11.929350+00:00
+acceptance_rate: "100.000%"
+collected_at: "2026-04-17T20:15:11.929350+00:00"
 ---
 
 ## 문제

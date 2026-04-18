@@ -1,13 +1,13 @@
 ---
-title: Getting in Shape
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Getting in Shape"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 81
 accepted: 9
 solved_users: 9
-acceptance_rate: 17.647%
-collected_at: 2026-04-17T16:47:27.645509+00:00
+acceptance_rate: "17.647%"
+collected_at: "2026-04-17T16:47:27.645509+00:00"
 ---
 
 ## 문제

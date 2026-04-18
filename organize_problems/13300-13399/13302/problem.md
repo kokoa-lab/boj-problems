@@ -1,13 +1,13 @@
 ---
-title: 리조트
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "리조트"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 7055
 accepted: 3025
 solved_users: 2230
-acceptance_rate: 44.097%
-collected_at: 2026-04-17T13:11:10.799617+00:00
+acceptance_rate: "44.097%"
+collected_at: "2026-04-17T13:11:10.799617+00:00"
 ---
 
 ## 문제

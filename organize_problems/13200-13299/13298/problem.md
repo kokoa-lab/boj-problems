@@ -1,13 +1,13 @@
 ---
-title: Robotopia
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Robotopia"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 517
 accepted: 144
 solved_users: 118
-acceptance_rate: 28.029%
-collected_at: 2026-04-17T13:11:07.925492+00:00
+acceptance_rate: "28.029%"
+collected_at: "2026-04-17T13:11:07.925492+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 운동장 그리기
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "운동장 그리기"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 83
 accepted: 42
 solved_users: 34
-acceptance_rate: 50.746%
-collected_at: 2026-04-17T19:28:22.098957+00:00
+acceptance_rate: "50.746%"
+collected_at: "2026-04-17T19:28:22.098957+00:00"
 ---
 
 ## 문제

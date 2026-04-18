@@ -1,13 +1,13 @@
 ---
-title: Гармонический ряд
-special_judge: false
-time_limit: 4 초
-memory_limit: 1024 MB
+title: "Гармонический ряд"
+special_judge: "false"
+time_limit: "4 초"
+memory_limit: "1024 MB"
 submissions: 48
 accepted: 22
 solved_users: 14
-acceptance_rate: 36.842%
-collected_at: 2026-04-17T18:34:03.556751+00:00
+acceptance_rate: "36.842%"
+collected_at: "2026-04-17T18:34:03.556751+00:00"
 ---
 
 ## 문제

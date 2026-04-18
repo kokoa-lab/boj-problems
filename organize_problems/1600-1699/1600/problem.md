@@ -1,13 +1,13 @@
 ---
-title: 말이 되고픈 원숭이
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "말이 되고픈 원숭이"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 76437
 accepted: 19991
 solved_users: 12768
-acceptance_rate: 23.191%
-collected_at: 2026-04-17T10:31:30.053317+00:00
+acceptance_rate: "23.191%"
+collected_at: "2026-04-17T10:31:30.053317+00:00"
 ---
 
 ## 문제

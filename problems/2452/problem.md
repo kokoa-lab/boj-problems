@@ -1,13 +1,13 @@
 ---
-title: 그리드 게임
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "그리드 게임"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 2986
 accepted: 889
 solved_users: 407
-acceptance_rate: 26.275%
-collected_at: 2026-04-17T10:41:45.474080+00:00
+acceptance_rate: "26.275%"
+collected_at: "2026-04-17T10:41:45.474080+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 순회강연
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "순회강연"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 20743
 accepted: 8657
 solved_users: 6262
-acceptance_rate: 39.625%
-collected_at: 2026-04-17T10:38:25.245610+00:00
+acceptance_rate: "39.625%"
+collected_at: "2026-04-17T10:38:25.245610+00:00"
 ---
 
 ## 문제

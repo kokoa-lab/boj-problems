@@ -1,13 +1,13 @@
 ---
-title: 연습시즌
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "연습시즌"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 312
 accepted: 204
 solved_users: 164
-acceptance_rate: 71.616%
-collected_at: 2026-04-17T12:06:16.125662+00:00
+acceptance_rate: "71.616%"
+collected_at: "2026-04-17T12:06:16.125662+00:00"
 ---
 
 ## 문제

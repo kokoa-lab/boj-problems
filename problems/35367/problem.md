@@ -1,13 +1,13 @@
 ---
-title: Snakey String
-special_judge: false
-time_limit: 1 초
-memory_limit: 2048 MB
+title: "Snakey String"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "2048 MB"
 submissions: 122
 accepted: 117
 solved_users: 110
-acceptance_rate: 95.652%
-collected_at: 2026-04-18T09:51:46.968020+00:00
+acceptance_rate: "95.652%"
+collected_at: "2026-04-18T09:51:46.968020+00:00"
 ---
 
 ## 문제

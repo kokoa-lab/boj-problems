@@ -1,13 +1,13 @@
 ---
-title: 콘도 선정
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "콘도 선정"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 3932
 accepted: 1788
 solved_users: 1489
-acceptance_rate: 48.900%
-collected_at: 2026-04-17T10:39:54.403107+00:00
+acceptance_rate: "48.900%"
+collected_at: "2026-04-17T10:39:54.403107+00:00"
 ---
 
 ## 문제

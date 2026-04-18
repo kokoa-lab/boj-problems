@@ -1,13 +1,13 @@
 ---
-title: Palindromic Parentheses
-special_judge: true
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Palindromic Parentheses"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 89
 accepted: 48
 solved_users: 42
-acceptance_rate: 62.687%
-collected_at: 2026-04-17T19:42:29.883441+00:00
+acceptance_rate: "62.687%"
+collected_at: "2026-04-17T19:42:29.883441+00:00"
 ---
 
 ## 문제

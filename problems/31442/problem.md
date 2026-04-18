@@ -1,13 +1,13 @@
 ---
-title: 좋은 수열
-special_judge: false
-time_limit: 4 초
-memory_limit: 1024 MB
+title: "좋은 수열"
+special_judge: "false"
+time_limit: "4 초"
+memory_limit: "1024 MB"
 submissions: 274
 accepted: 28
 solved_users: 23
-acceptance_rate: 12.432%
-collected_at: 2026-04-17T19:28:21.761845+00:00
+acceptance_rate: "12.432%"
+collected_at: "2026-04-17T19:28:21.761845+00:00"
 ---
 
 ## 문제

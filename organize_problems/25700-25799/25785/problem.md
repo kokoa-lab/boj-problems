@@ -1,13 +1,13 @@
 ---
-title: Easy-to-Pronounce Words
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Easy-to-Pronounce Words"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 461
 accepted: 342
 solved_users: 316
-acceptance_rate: 75.962%
-collected_at: 2026-04-17T17:32:46.217970+00:00
+acceptance_rate: "75.962%"
+collected_at: "2026-04-17T17:32:46.217970+00:00"
 ---
 
 ## 문제

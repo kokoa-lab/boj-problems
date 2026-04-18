@@ -1,13 +1,13 @@
 ---
-title: 시계 사진들
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "시계 사진들"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 4440
 accepted: 2232
 solved_users: 1694
-acceptance_rate: 49.561%
-collected_at: 2026-04-17T12:21:15.308455+00:00
+acceptance_rate: "49.561%"
+collected_at: "2026-04-17T12:21:15.308455+00:00"
 ---
 
 ## 문제

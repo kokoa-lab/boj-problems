@@ -1,13 +1,13 @@
 ---
-title: 통행량 조사
-special_judge: false
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "통행량 조사"
+special_judge: "false"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 134
 accepted: 49
 solved_users: 38
-acceptance_rate: 33.333%
-collected_at: 2026-04-17T17:16:43.217752+00:00
+acceptance_rate: "33.333%"
+collected_at: "2026-04-17T17:16:43.217752+00:00"
 ---
 
 ## 문제

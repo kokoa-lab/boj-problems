@@ -1,13 +1,13 @@
 ---
-title: 문자열을 만들어요
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "문자열을 만들어요"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 1349
 accepted: 1033
 solved_users: 961
-acceptance_rate: 76.635%
-collected_at: 2026-04-17T19:48:16.747691+00:00
+acceptance_rate: "76.635%"
+collected_at: "2026-04-17T19:48:16.747691+00:00"
 ---
 
 ## 문제

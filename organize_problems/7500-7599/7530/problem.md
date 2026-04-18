@@ -1,13 +1,13 @@
 ---
-title: Stamps
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Stamps"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 70
 accepted: 56
 solved_users: 47
-acceptance_rate: 81.034%
-collected_at: 2026-04-17T11:50:19.754448+00:00
+acceptance_rate: "81.034%"
+collected_at: "2026-04-17T11:50:19.754448+00:00"
 ---
 
 ## 문제

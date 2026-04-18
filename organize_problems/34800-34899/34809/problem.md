@@ -1,13 +1,13 @@
 ---
-title: 월향 가설 (Small)
-special_judge: true
-time_limit: 0.5 초
-memory_limit: 128 MB
+title: "월향 가설 (Small)"
+special_judge: "true"
+time_limit: "0.5 초"
+memory_limit: "128 MB"
 submissions: 78
 accepted: 48
 solved_users: 42
-acceptance_rate: 58.333%
-collected_at: 2026-04-17T20:49:10.958706+00:00
+acceptance_rate: "58.333%"
+collected_at: "2026-04-17T20:49:10.958706+00:00"
 ---
 
 ## 문제

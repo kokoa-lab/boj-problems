@@ -1,13 +1,13 @@
 ---
-title: Battlefield (Large)
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Battlefield (Large)"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 96
 accepted: 52
 solved_users: 44
-acceptance_rate: 55.000%
-collected_at: 2026-04-17T12:57:01.315905+00:00
+acceptance_rate: "55.000%"
+collected_at: "2026-04-17T12:57:01.315905+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 태풍 예보
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "태풍 예보"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 322
 accepted: 86
 solved_users: 76
-acceptance_rate: 33.628%
-collected_at: 2026-04-17T17:37:53.522085+00:00
+acceptance_rate: "33.628%"
+collected_at: "2026-04-17T17:37:53.522085+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 백남이의 여행 준비의 준비
-special_judge: false
-time_limit: 3 초
-memory_limit: 512 MB
+title: "백남이의 여행 준비의 준비"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "512 MB"
 submissions: 712
 accepted: 199
 solved_users: 123
-acceptance_rate: 27.273%
-collected_at: 2026-04-17T16:41:08.304289+00:00
+acceptance_rate: "27.273%"
+collected_at: "2026-04-17T16:41:08.304289+00:00"
 ---
 
 ## 문제

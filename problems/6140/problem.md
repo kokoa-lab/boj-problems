@@ -1,13 +1,13 @@
 ---
-title: Radar Installation
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Radar Installation"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 89
 accepted: 23
 solved_users: 8
-acceptance_rate: 23.529%
-collected_at: 2026-04-17T11:21:04.915274+00:00
+acceptance_rate: "23.529%"
+collected_at: "2026-04-17T11:21:04.915274+00:00"
 ---
 
 ## 문제

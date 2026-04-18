@@ -1,13 +1,13 @@
 ---
-title: 국왕의 방문
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "국왕의 방문"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 1238
 accepted: 527
 solved_users: 408
-acceptance_rate: 48.687%
-collected_at: 2026-04-17T10:46:03.951159+00:00
+acceptance_rate: "48.687%"
+collected_at: "2026-04-17T10:46:03.951159+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Кошмар
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Кошмар"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 13
 accepted: 5
 solved_users: 2
-acceptance_rate: 40.000%
-collected_at: 2026-04-17T18:37:45.866045+00:00
+acceptance_rate: "40.000%"
+collected_at: "2026-04-17T18:37:45.866045+00:00"
 ---
 
 ## 문제

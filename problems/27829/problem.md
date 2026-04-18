@@ -1,13 +1,13 @@
 ---
-title: Army Strength
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Army Strength"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 99
 accepted: 74
 solved_users: 62
-acceptance_rate: 80.519%
-collected_at: 2026-04-18T09:59:25.852087+00:00
+acceptance_rate: "80.519%"
+collected_at: "2026-04-18T09:59:25.852087+00:00"
 ---
 
 ## 문제

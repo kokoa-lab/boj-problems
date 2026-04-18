@@ -1,13 +1,13 @@
 ---
-title: 피아노 연주
-special_judge: false
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "피아노 연주"
+special_judge: "false"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 245
 accepted: 53
 solved_users: 43
-acceptance_rate: 23.497%
-collected_at: 2026-04-17T14:57:04.224714+00:00
+acceptance_rate: "23.497%"
+collected_at: "2026-04-17T14:57:04.224714+00:00"
 ---
 
 ## 문제

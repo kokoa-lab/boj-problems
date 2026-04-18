@@ -1,13 +1,13 @@
 ---
-title: Stockbroker Grapevine
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Stockbroker Grapevine"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 50
 accepted: 35
 solved_users: 30
-acceptance_rate: 76.923%
-collected_at: 2026-04-17T11:28:21.647147+00:00
+acceptance_rate: "76.923%"
+collected_at: "2026-04-17T11:28:21.647147+00:00"
 ---
 
 ## 문제

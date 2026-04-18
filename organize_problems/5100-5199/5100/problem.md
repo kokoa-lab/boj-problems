@@ -1,13 +1,13 @@
 ---
-title: Jean and Joe’s Clothes
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Jean and Joe’s Clothes"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 404
 accepted: 187
 solved_users: 161
-acceptance_rate: 42.933%
-collected_at: 2026-04-17T11:11:28.330104+00:00
+acceptance_rate: "42.933%"
+collected_at: "2026-04-17T11:11:28.330104+00:00"
 ---
 
 ## 문제

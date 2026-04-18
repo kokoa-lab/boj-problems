@@ -1,13 +1,13 @@
 ---
-title: 이진 트리와 수열
-special_judge: false
-time_limit: 3 초
-memory_limit: 256 MB
+title: "이진 트리와 수열"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "256 MB"
 submissions: 268
 accepted: 68
 solved_users: 29
-acceptance_rate: 15.426%
-collected_at: 2026-04-17T14:12:31.751435+00:00
+acceptance_rate: "15.426%"
+collected_at: "2026-04-17T14:12:31.751435+00:00"
 ---
 
 ## 문제

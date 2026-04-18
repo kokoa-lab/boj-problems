@@ -1,13 +1,13 @@
 ---
-title: 1-Player Concentration
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "1-Player Concentration"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 38
 accepted: 33
 solved_users: 27
-acceptance_rate: 84.375%
-collected_at: 2026-04-17T17:46:04.931022+00:00
+acceptance_rate: "84.375%"
+collected_at: "2026-04-17T17:46:04.931022+00:00"
 ---
 
 ## 문제

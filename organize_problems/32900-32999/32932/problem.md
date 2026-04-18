@@ -1,13 +1,13 @@
 ---
-title: 드론 조작
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "드론 조작"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 526
 accepted: 411
 solved_users: 353
-acceptance_rate: 77.925%
-collected_at: 2026-04-17T20:05:06.884970+00:00
+acceptance_rate: "77.925%"
+collected_at: "2026-04-17T20:05:06.884970+00:00"
 ---
 
 ## 문제

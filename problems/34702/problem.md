@@ -1,13 +1,13 @@
 ---
-title: 볼록껍질과 쿼리
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "볼록껍질과 쿼리"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 96
 accepted: 30
 solved_users: 12
-acceptance_rate: 20.690%
-collected_at: 2026-04-17T20:46:30.985454+00:00
+acceptance_rate: "20.690%"
+collected_at: "2026-04-17T20:46:30.985454+00:00"
 ---
 
 ## 문제

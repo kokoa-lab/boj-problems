@@ -1,13 +1,13 @@
 ---
-title: 오렌지 출하
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "오렌지 출하"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 1431
 accepted: 639
 solved_users: 509
-acceptance_rate: 45.164%
-collected_at: 2026-04-17T12:48:33.850999+00:00
+acceptance_rate: "45.164%"
+collected_at: "2026-04-17T12:48:33.850999+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: King Kog’s Reception
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "King Kog’s Reception"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 645
 accepted: 344
 solved_users: 267
-acceptance_rate: 52.663%
-collected_at: 2026-04-17T14:22:00.606467+00:00
+acceptance_rate: "52.663%"
+collected_at: "2026-04-17T14:22:00.606467+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 괄호 문자열 만들기
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "괄호 문자열 만들기"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 227
 accepted: 70
 solved_users: 57
-acceptance_rate: 46.341%
-collected_at: 2026-04-17T13:03:07.129864+00:00
+acceptance_rate: "46.341%"
+collected_at: "2026-04-17T13:03:07.129864+00:00"
 ---
 
 ## 문제

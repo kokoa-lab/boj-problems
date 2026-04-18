@@ -1,13 +1,13 @@
 ---
-title: Mixing Colours
-special_judge: false
-time_limit: 5 초
-memory_limit: 128 MB
+title: "Mixing Colours"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "128 MB"
 submissions: 64
 accepted: 11
 solved_users: 10
-acceptance_rate: 19.231%
-collected_at: 2026-04-17T12:11:37.288928+00:00
+acceptance_rate: "19.231%"
+collected_at: "2026-04-17T12:11:37.288928+00:00"
 ---
 
 ## 문제

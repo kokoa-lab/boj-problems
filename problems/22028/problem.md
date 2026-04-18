@@ -1,13 +1,13 @@
 ---
-title: 렉
-special_judge: false
-time_limit: 8 초
-memory_limit: 1024 MB
+title: "렉"
+special_judge: "false"
+time_limit: "8 초"
+memory_limit: "1024 MB"
 submissions: 163
 accepted: 28
 solved_users: 22
-acceptance_rate: 21.782%
-collected_at: 2026-04-17T16:11:46.917782+00:00
+acceptance_rate: "21.782%"
+collected_at: "2026-04-17T16:11:46.917782+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Expression Evaluator
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Expression Evaluator"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 87
 accepted: 22
 solved_users: 14
-acceptance_rate: 20.290%
-collected_at: 2026-04-17T11:35:16.846239+00:00
+acceptance_rate: "20.290%"
+collected_at: "2026-04-17T11:35:16.846239+00:00"
 ---
 
 ## 문제

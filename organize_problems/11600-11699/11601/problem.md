@@ -1,13 +1,13 @@
 ---
-title: Coverage
-special_judge: false
-time_limit: 3 초
-memory_limit: 256 MB
+title: "Coverage"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "256 MB"
 submissions: 24
 accepted: 14
 solved_users: 10
-acceptance_rate: 58.824%
-collected_at: 2026-04-17T12:42:44.962226+00:00
+acceptance_rate: "58.824%"
+collected_at: "2026-04-17T12:42:44.962226+00:00"
 ---
 
 ## 문제

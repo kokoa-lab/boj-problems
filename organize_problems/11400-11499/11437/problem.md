@@ -1,13 +1,13 @@
 ---
-title: LCA
-special_judge: false
-time_limit: 3 초
-memory_limit: 256 MB
+title: "LCA"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "256 MB"
 submissions: 29992
 accepted: 11542
 solved_users: 7517
-acceptance_rate: 41.382%
-collected_at: 2026-04-17T12:40:45.589171+00:00
+acceptance_rate: "41.382%"
+collected_at: "2026-04-17T12:40:45.589171+00:00"
 ---
 
 ## 문제

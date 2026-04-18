@@ -1,13 +1,13 @@
 ---
-title: Broken Line 04
-special_judge: false
-time_limit: 0.1 초
-memory_limit: 512 MB
+title: "Broken Line 04"
+special_judge: "false"
+time_limit: "0.1 초"
+memory_limit: "512 MB"
 submissions: 33
 accepted: 31
 solved_users: 30
-acceptance_rate: 93.750%
-collected_at: 2026-04-17T15:29:24.767052+00:00
+acceptance_rate: "93.750%"
+collected_at: "2026-04-17T15:29:24.767052+00:00"
 ---
 
 ## 문제

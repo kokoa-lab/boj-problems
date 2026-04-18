@@ -1,13 +1,13 @@
 ---
-title: 뒤집힌 계산기
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "뒤집힌 계산기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 368
 accepted: 150
 solved_users: 111
-acceptance_rate: 42.045%
-collected_at: 2026-04-17T15:32:01.803979+00:00
+acceptance_rate: "42.045%"
+collected_at: "2026-04-17T15:32:01.803979+00:00"
 ---
 
 ## 문제

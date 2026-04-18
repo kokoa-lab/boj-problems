@@ -1,13 +1,13 @@
 ---
-title: Philosopher’s Walk
-special_judge: false
-time_limit: 0.5 초
-memory_limit: 512 MB
+title: "Philosopher’s Walk"
+special_judge: "false"
+time_limit: "0.5 초"
+memory_limit: "512 MB"
 submissions: 2032
 accepted: 851
 solved_users: 698
-acceptance_rate: 42.201%
-collected_at: 2026-04-17T13:46:55.640265+00:00
+acceptance_rate: "42.201%"
+collected_at: "2026-04-17T13:46:55.640265+00:00"
 ---
 
 ## 문제

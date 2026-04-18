@@ -1,13 +1,13 @@
 ---
-title: 임계경로
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "임계경로"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 17948
 accepted: 6203
 solved_users: 4467
-acceptance_rate: 33.153%
-collected_at: 2026-04-17T10:36:13.545510+00:00
+acceptance_rate: "33.153%"
+collected_at: "2026-04-17T10:36:13.545510+00:00"
 ---
 
 ## 문제

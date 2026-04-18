@@ -1,13 +1,13 @@
 ---
-title: Perdido na Noite
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Perdido na Noite"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 13
 accepted: 3
 solved_users: 3
-acceptance_rate: 50.000%
-collected_at: 2026-04-17T13:16:34.121046+00:00
+acceptance_rate: "50.000%"
+collected_at: "2026-04-17T13:16:34.121046+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 지수연산
-special_judge: false
-time_limit: 2 초
-memory_limit: 8 MB
+title: "지수연산"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "8 MB"
 submissions: 4841
 accepted: 1636
 solved_users: 1454
-acceptance_rate: 40.199%
-collected_at: 2026-04-17T10:37:39.950651+00:00
+acceptance_rate: "40.199%"
+collected_at: "2026-04-17T10:37:39.950651+00:00"
 ---
 
 ## 문제

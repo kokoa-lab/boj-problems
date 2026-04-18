@@ -1,13 +1,13 @@
 ---
-title: Close Enough Computations
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Close Enough Computations"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 566
 accepted: 160
 solved_users: 140
-acceptance_rate: 28.398%
-collected_at: 2026-04-17T11:07:41.648623+00:00
+acceptance_rate: "28.398%"
+collected_at: "2026-04-17T11:07:41.648623+00:00"
 ---
 
 ## 문제

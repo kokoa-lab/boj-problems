@@ -1,13 +1,13 @@
 ---
-title: Werewolf
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Werewolf"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 57
 accepted: 12
 solved_users: 12
-acceptance_rate: 63.158%
-collected_at: 2026-04-17T12:19:08.253143+00:00
+acceptance_rate: "63.158%"
+collected_at: "2026-04-17T12:19:08.253143+00:00"
 ---
 
 ## 문제

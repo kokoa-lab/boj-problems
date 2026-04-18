@@ -1,13 +1,13 @@
 ---
-title: Message
-special_judge: false
-time_limit: 3 초
-memory_limit: 1024 MB
+title: "Message"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "1024 MB"
 submissions: 303
 accepted: 67
 solved_users: 59
-acceptance_rate: 22.519%
-collected_at: 2026-04-17T19:47:31.007250+00:00
+acceptance_rate: "22.519%"
+collected_at: "2026-04-17T19:47:31.007250+00:00"
 ---
 
 ## 문제

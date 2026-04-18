@@ -1,13 +1,13 @@
 ---
-title: Word by mouth
-special_judge: false
-time_limit: 3 초
-memory_limit: 256 MB
+title: "Word by mouth"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "256 MB"
 submissions: 5
 accepted: 0
 solved_users: 0
-acceptance_rate: 0.000%
-collected_at: 2026-04-17T12:40:32.012438+00:00
+acceptance_rate: "0.000%"
+collected_at: "2026-04-17T12:40:32.012438+00:00"
 ---
 
 ## 문제

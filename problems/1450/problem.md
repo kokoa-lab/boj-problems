@@ -1,13 +1,13 @@
 ---
-title: 냅색문제
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "냅색문제"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 13619
 accepted: 5686
 solved_users: 4320
-acceptance_rate: 42.254%
-collected_at: 2026-04-17T10:30:17.507137+00:00
+acceptance_rate: "42.254%"
+collected_at: "2026-04-17T10:30:17.507137+00:00"
 ---
 
 ## 문제

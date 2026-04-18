@@ -1,13 +1,13 @@
 ---
-title: Path of Least Persistence
-special_judge: false
-time_limit: 3 초
-memory_limit: 256 MB
+title: "Path of Least Persistence"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "256 MB"
 submissions: 17
 accepted: 2
 solved_users: 2
-acceptance_rate: 100.000%
-collected_at: 2026-04-17T12:22:55.236753+00:00
+acceptance_rate: "100.000%"
+collected_at: "2026-04-17T12:22:55.236753+00:00"
 ---
 
 ## 문제

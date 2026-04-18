@@ -1,13 +1,13 @@
 ---
-title: 물채우기
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "물채우기"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 744
 accepted: 159
 solved_users: 98
-acceptance_rate: 21.634%
-collected_at: 2026-04-17T14:42:56.075689+00:00
+acceptance_rate: "21.634%"
+collected_at: "2026-04-17T14:42:56.075689+00:00"
 ---
 
 ## 문제

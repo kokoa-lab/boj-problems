@@ -1,13 +1,13 @@
 ---
-title: Competition
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Competition"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 276
 accepted: 92
 solved_users: 81
-acceptance_rate: 40.500%
-collected_at: 2026-04-17T12:41:59.089688+00:00
+acceptance_rate: "40.500%"
+collected_at: "2026-04-17T12:41:59.089688+00:00"
 ---
 
 ## 문제

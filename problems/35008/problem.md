@@ -1,13 +1,13 @@
 ---
-title: Garden Bed
-special_judge: false
-time_limit: 1 초
-memory_limit: 2048 MB
+title: "Garden Bed"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "2048 MB"
 submissions: 48
 accepted: 30
 solved_users: 23
-acceptance_rate: 69.697%
-collected_at: 2026-04-17T20:53:51.713723+00:00
+acceptance_rate: "69.697%"
+collected_at: "2026-04-17T20:53:51.713723+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Knitting
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Knitting"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 245
 accepted: 198
 solved_users: 170
-acceptance_rate: 81.731%
-collected_at: 2026-04-17T10:55:57.344791+00:00
+acceptance_rate: "81.731%"
+collected_at: "2026-04-17T10:55:57.344791+00:00"
 ---
 
 ## 문제

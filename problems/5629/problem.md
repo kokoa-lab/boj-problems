@@ -1,13 +1,13 @@
 ---
-title: Probability Through experiment
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "Probability Through experiment"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 20
 accepted: 3
 solved_users: 2
-acceptance_rate: 11.765%
-collected_at: 2026-04-17T11:16:07.166706+00:00
+acceptance_rate: "11.765%"
+collected_at: "2026-04-17T11:16:07.166706+00:00"
 ---
 
 ## 문제

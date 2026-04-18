@@ -1,13 +1,13 @@
 ---
-title: Chop Cup
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Chop Cup"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 537
 accepted: 499
 solved_users: 455
-acceptance_rate: 93.047%
-collected_at: 2026-04-17T13:09:33.876371+00:00
+acceptance_rate: "93.047%"
+collected_at: "2026-04-17T13:09:33.876371+00:00"
 ---
 
 ## 문제

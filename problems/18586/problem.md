@@ -1,13 +1,13 @@
 ---
-title: Salty Fish
-special_judge: false
-time_limit: 3 초
-memory_limit: 512 MB
+title: "Salty Fish"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "512 MB"
 submissions: 271
 accepted: 70
 solved_users: 56
-acceptance_rate: 27.184%
-collected_at: 2026-04-17T15:06:50.711802+00:00
+acceptance_rate: "27.184%"
+collected_at: "2026-04-17T15:06:50.711802+00:00"
 ---
 
 ## 문제

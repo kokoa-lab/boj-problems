@@ -1,13 +1,13 @@
 ---
-title: 운전병의 딜레마
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "운전병의 딜레마"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 542
 accepted: 131
 solved_users: 100
-acceptance_rate: 24.570%
-collected_at: 2026-04-17T17:59:47.688909+00:00
+acceptance_rate: "24.570%"
+collected_at: "2026-04-17T17:59:47.688909+00:00"
 ---
 
 ## 문제

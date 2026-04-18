@@ -1,13 +1,13 @@
 ---
-title: 괄호 채우기
-special_judge: true
-time_limit: 1 초
-memory_limit: 256 MB
+title: "괄호 채우기"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 300
 accepted: 72
 solved_users: 60
-acceptance_rate: 35.294%
-collected_at: 2026-04-17T12:47:23.019962+00:00
+acceptance_rate: "35.294%"
+collected_at: "2026-04-17T12:47:23.019962+00:00"
 ---
 
 ## 문제

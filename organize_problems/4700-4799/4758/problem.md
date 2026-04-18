@@ -1,13 +1,13 @@
 ---
-title: Filling Out the Team
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Filling Out the Team"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 932
 accepted: 622
 solved_users: 570
-acceptance_rate: 66.745%
-collected_at: 2026-04-17T11:08:09.118377+00:00
+acceptance_rate: "66.745%"
+collected_at: "2026-04-17T11:08:09.118377+00:00"
 ---
 
 ## 문제

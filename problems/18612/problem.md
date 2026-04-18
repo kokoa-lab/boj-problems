@@ -1,13 +1,13 @@
 ---
-title: Magic Strings
-special_judge: false
-time_limit: 4 초
-memory_limit: 512 MB
+title: "Magic Strings"
+special_judge: "false"
+time_limit: "4 초"
+memory_limit: "512 MB"
 submissions: 16
 accepted: 7
 solved_users: 7
-acceptance_rate: 70.000%
-collected_at: 2026-04-17T15:07:10.987106+00:00
+acceptance_rate: "70.000%"
+collected_at: "2026-04-17T15:07:10.987106+00:00"
 ---
 
 ## 문제

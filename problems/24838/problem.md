@@ -1,13 +1,13 @@
 ---
-title: 배열 구간합 놀이
-special_judge: false
-time_limit: 1.5 초  ( 하단 참고 )
-memory_limit: 512 MB
+title: "배열 구간합 놀이"
+special_judge: "false"
+time_limit: "1.5 초  ( 하단 참고 )"
+memory_limit: "512 MB"
 submissions: 155
 accepted: 66
 solved_users: 53
-acceptance_rate: 46.491%
-collected_at: 2026-04-17T17:15:56.124203+00:00
+acceptance_rate: "46.491%"
+collected_at: "2026-04-17T17:15:56.124203+00:00"
 ---
 
 ## 문제

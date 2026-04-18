@@ -1,13 +1,13 @@
 ---
-title: 선발 명단
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "선발 명단"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 7651
 accepted: 3640
 solved_users: 2794
-acceptance_rate: 45.594%
-collected_at: 2026-04-17T10:54:05.483382+00:00
+acceptance_rate: "45.594%"
+collected_at: "2026-04-17T10:54:05.483382+00:00"
 ---
 
 ## 문제

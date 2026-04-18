@@ -1,13 +1,13 @@
 ---
-title: Praca zdalna
-special_judge: true
-time_limit: 0.5 초
-memory_limit: 1024 MB
+title: "Praca zdalna"
+special_judge: "true"
+time_limit: "0.5 초"
+memory_limit: "1024 MB"
 submissions: 24
 accepted: 20
 solved_users: 18
-acceptance_rate: 81.818%
-collected_at: 2026-04-17T17:50:39.601330+00:00
+acceptance_rate: "81.818%"
+collected_at: "2026-04-17T17:50:39.601330+00:00"
 ---
 
 ## 문제

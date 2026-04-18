@@ -1,13 +1,13 @@
 ---
-title: 순찰 경로
-special_judge: true
-time_limit: 1 초
-memory_limit: 512 MB
+title: "순찰 경로"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 207
 accepted: 56
 solved_users: 49
-acceptance_rate: 31.410%
-collected_at: 2026-04-17T18:01:51.645535+00:00
+acceptance_rate: "31.410%"
+collected_at: "2026-04-17T18:01:51.645535+00:00"
 ---
 
 ## 문제

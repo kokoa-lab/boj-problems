@@ -1,13 +1,13 @@
 ---
-title: Dreadful Deadlines
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Dreadful Deadlines"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 38
 accepted: 19
 solved_users: 12
-acceptance_rate: 44.444%
-collected_at: 2026-04-17T11:51:41.897046+00:00
+acceptance_rate: "44.444%"
+collected_at: "2026-04-17T11:51:41.897046+00:00"
 ---
 
 ## 문제

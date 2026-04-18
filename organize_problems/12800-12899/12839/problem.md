@@ -1,13 +1,13 @@
 ---
-title: 카드 정리 2
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "카드 정리 2"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 148
 accepted: 78
 solved_users: 48
-acceptance_rate: 56.471%
-collected_at: 2026-04-17T13:02:20.647238+00:00
+acceptance_rate: "56.471%"
+collected_at: "2026-04-17T13:02:20.647238+00:00"
 ---
 
 ## 문제

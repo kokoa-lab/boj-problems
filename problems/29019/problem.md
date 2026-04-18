@@ -1,13 +1,13 @@
 ---
-title: 毎日がHoliday
-special_judge: false
-time_limit: 8 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "毎日がHoliday"
+special_judge: "false"
+time_limit: "8 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 92
 accepted: 38
 solved_users: 22
-acceptance_rate: 36.066%
-collected_at: 2026-04-17T18:36:07.682301+00:00
+acceptance_rate: "36.066%"
+collected_at: "2026-04-17T18:36:07.682301+00:00"
 ---
 
 ## 문제

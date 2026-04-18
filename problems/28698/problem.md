@@ -1,13 +1,13 @@
 ---
-title: 스트릭과 쿼리
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "스트릭과 쿼리"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 44
 accepted: 13
 solved_users: 11
-acceptance_rate: 26.190%
-collected_at: 2026-04-17T18:30:51.398154+00:00
+acceptance_rate: "26.190%"
+collected_at: "2026-04-17T18:30:51.398154+00:00"
 ---
 
 ## 문제

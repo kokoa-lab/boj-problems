@@ -1,13 +1,13 @@
 ---
-title: 카드 놀이
-special_judge: false
-time_limit: 1.5 초  ( 하단 참고 )
-memory_limit: 512 MB
+title: "카드 놀이"
+special_judge: "false"
+time_limit: "1.5 초  ( 하단 참고 )"
+memory_limit: "512 MB"
 submissions: 309
 accepted: 121
 solved_users: 92
-acceptance_rate: 40.000%
-collected_at: 2026-04-17T17:09:20.614845+00:00
+acceptance_rate: "40.000%"
+collected_at: "2026-04-17T17:09:20.614845+00:00"
 ---
 
 ## 문제

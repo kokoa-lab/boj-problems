@@ -1,13 +1,13 @@
 ---
-title: 스러피
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "스러피"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 913
 accepted: 386
 solved_users: 268
-acceptance_rate: 40.060%
-collected_at: 2026-04-17T13:44:58.478655+00:00
+acceptance_rate: "40.060%"
+collected_at: "2026-04-17T13:44:58.478655+00:00"
 ---
 
 ## 문제

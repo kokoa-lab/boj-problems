@@ -1,13 +1,13 @@
 ---
-title: 제곱 ㄴㄴ
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "제곱 ㄴㄴ"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 8482
 accepted: 3251
 solved_users: 2053
-acceptance_rate: 38.685%
-collected_at: 2026-04-17T10:31:09.702987+00:00
+acceptance_rate: "38.685%"
+collected_at: "2026-04-17T10:31:09.702987+00:00"
 ---
 
 ## 문제

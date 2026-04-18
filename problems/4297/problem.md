@@ -1,13 +1,13 @@
 ---
-title: Ultra-QuickSort
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Ultra-QuickSort"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 419
 accepted: 269
 solved_users: 196
-acceptance_rate: 65.116%
-collected_at: 2026-04-17T10:59:04.100949+00:00
+acceptance_rate: "65.116%"
+collected_at: "2026-04-17T10:59:04.100949+00:00"
 ---
 
 ## 문제

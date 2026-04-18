@@ -1,13 +1,13 @@
 ---
-title: CatChecker
-special_judge: false
-time_limit: 8 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "CatChecker"
+special_judge: "false"
+time_limit: "8 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 41
 accepted: 34
 solved_users: 25
-acceptance_rate: 80.645%
-collected_at: 2026-04-17T16:26:56.238564+00:00
+acceptance_rate: "80.645%"
+collected_at: "2026-04-17T16:26:56.238564+00:00"
 ---
 
 ## 문제

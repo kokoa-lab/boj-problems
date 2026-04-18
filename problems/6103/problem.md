@@ -1,13 +1,13 @@
 ---
-title: Sand Castle
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Sand Castle"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 59
 accepted: 49
 solved_users: 47
-acceptance_rate: 85.455%
-collected_at: 2026-04-17T11:20:15.313752+00:00
+acceptance_rate: "85.455%"
+collected_at: "2026-04-17T11:20:15.313752+00:00"
 ---
 
 ## 문제

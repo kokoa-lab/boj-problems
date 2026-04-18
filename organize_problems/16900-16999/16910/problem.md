@@ -1,13 +1,13 @@
 ---
-title: mex와 쿼리
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "mex와 쿼리"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 957
 accepted: 222
 solved_users: 159
-acceptance_rate: 21.692%
-collected_at: 2026-04-17T14:26:06.516504+00:00
+acceptance_rate: "21.692%"
+collected_at: "2026-04-17T14:26:06.516504+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: A Place For My Head
-special_judge: true
-time_limit: 2 초
-memory_limit: 512 MB
+title: "A Place For My Head"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 66
 accepted: 11
 solved_users: 8
-acceptance_rate: 42.105%
-collected_at: 2026-04-17T15:13:10.745366+00:00
+acceptance_rate: "42.105%"
+collected_at: "2026-04-17T15:13:10.745366+00:00"
 ---
 
 ## 문제

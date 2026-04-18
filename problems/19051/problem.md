@@ -1,13 +1,13 @@
 ---
-title: Salaj
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "Salaj"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 23
 accepted: 7
 solved_users: 6
-acceptance_rate: 31.579%
-collected_at: 2026-04-17T15:12:55.553694+00:00
+acceptance_rate: "31.579%"
+collected_at: "2026-04-17T15:12:55.553694+00:00"
 ---
 
 ## 문제

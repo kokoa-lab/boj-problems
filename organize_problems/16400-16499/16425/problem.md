@@ -1,13 +1,13 @@
 ---
-title: Random Index Vectors
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Random Index Vectors"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 82
 accepted: 36
 solved_users: 34
-acceptance_rate: 47.222%
-collected_at: 2026-04-17T14:17:50.799661+00:00
+acceptance_rate: "47.222%"
+collected_at: "2026-04-17T14:17:50.799661+00:00"
 ---
 
 ## 문제

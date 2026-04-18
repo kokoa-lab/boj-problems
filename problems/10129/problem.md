@@ -1,13 +1,13 @@
 ---
-title: 작은 새
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "작은 새"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 1011
 accepted: 408
 solved_users: 293
-acceptance_rate: 38.757%
-collected_at: 2026-04-17T12:19:24.124316+00:00
+acceptance_rate: "38.757%"
+collected_at: "2026-04-17T12:19:24.124316+00:00"
 ---
 
 ## 문제

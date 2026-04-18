@@ -1,13 +1,13 @@
 ---
-title: Bytean Road Race
-special_judge: false
-time_limit: 3 초
-memory_limit: 64 MB
+title: "Bytean Road Race"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "64 MB"
 submissions: 303
 accepted: 125
 solved_users: 100
-acceptance_rate: 43.860%
-collected_at: 2026-04-17T11:54:03.273346+00:00
+acceptance_rate: "43.860%"
+collected_at: "2026-04-17T11:54:03.273346+00:00"
 ---
 
 ## 문제

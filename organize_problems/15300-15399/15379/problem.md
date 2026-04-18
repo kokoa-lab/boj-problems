@@ -1,13 +1,13 @@
 ---
-title: Guardians of the Lunatics
-special_judge: false
-time_limit: 7 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "Guardians of the Lunatics"
+special_judge: "false"
+time_limit: "7 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 171
 accepted: 52
 solved_users: 41
-acceptance_rate: 39.806%
-collected_at: 2026-04-17T13:58:11.438592+00:00
+acceptance_rate: "39.806%"
+collected_at: "2026-04-17T13:58:11.438592+00:00"
 ---
 
 ## 문제

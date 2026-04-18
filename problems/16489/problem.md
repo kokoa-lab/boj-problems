@@ -1,13 +1,13 @@
 ---
-title: 삼각형 해커
-special_judge: true
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "삼각형 해커"
+special_judge: "true"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 2092
 accepted: 352
 solved_users: 268
-acceptance_rate: 16.594%
-collected_at: 2026-04-17T14:18:53.775845+00:00
+acceptance_rate: "16.594%"
+collected_at: "2026-04-17T14:18:53.775845+00:00"
 ---
 
 ## 문제

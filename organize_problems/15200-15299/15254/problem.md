@@ -1,13 +1,13 @@
 ---
-title: Volleyball Scores
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Volleyball Scores"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 45
 accepted: 20
 solved_users: 16
-acceptance_rate: 50.000%
-collected_at: 2026-04-17T13:55:57.890425+00:00
+acceptance_rate: "50.000%"
+collected_at: "2026-04-17T13:55:57.890425+00:00"
 ---
 
 ## 문제

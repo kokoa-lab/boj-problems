@@ -1,13 +1,13 @@
 ---
-title: Sort 마스터 배지훈
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Sort 마스터 배지훈"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 3547
 accepted: 2826
 solved_users: 2342
-acceptance_rate: 81.859%
-collected_at: 2026-04-17T14:35:40.163698+00:00
+acceptance_rate: "81.859%"
+collected_at: "2026-04-17T14:35:40.163698+00:00"
 ---
 
 ## 문제

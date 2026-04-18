@@ -1,13 +1,13 @@
 ---
-title: 악마의 제안
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "악마의 제안"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 6123
 accepted: 1634
 solved_users: 1444
-acceptance_rate: 28.308%
-collected_at: 2026-04-17T16:59:43.230811+00:00
+acceptance_rate: "28.308%"
+collected_at: "2026-04-17T16:59:43.230811+00:00"
 ---
 
 ## 문제

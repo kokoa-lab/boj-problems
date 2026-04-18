@@ -1,13 +1,13 @@
 ---
-title: 치팅 방지
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "치팅 방지"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 162
 accepted: 43
 solved_users: 38
-acceptance_rate: 32.203%
-collected_at: 2026-04-17T18:16:10.638814+00:00
+acceptance_rate: "32.203%"
+collected_at: "2026-04-17T18:16:10.638814+00:00"
 ---
 
 ## 문제

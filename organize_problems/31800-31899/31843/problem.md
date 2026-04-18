@@ -1,13 +1,13 @@
 ---
-title: Rooms
-special_judge: false
-time_limit: 3.5 초
-memory_limit: 1024 MB
+title: "Rooms"
+special_judge: "false"
+time_limit: "3.5 초"
+memory_limit: "1024 MB"
 submissions: 69
 accepted: 25
 solved_users: 13
-acceptance_rate: 38.235%
-collected_at: 2026-04-17T19:37:37.131228+00:00
+acceptance_rate: "38.235%"
+collected_at: "2026-04-17T19:37:37.131228+00:00"
 ---
 
 ## 문제

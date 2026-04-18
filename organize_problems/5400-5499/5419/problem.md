@@ -1,13 +1,13 @@
 ---
-title: 북서풍
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "북서풍"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 9580
 accepted: 3483
 solved_users: 2270
-acceptance_rate: 35.878%
-collected_at: 2026-04-17T11:13:43.396040+00:00
+acceptance_rate: "35.878%"
+collected_at: "2026-04-17T11:13:43.396040+00:00"
 ---
 
 ## 문제

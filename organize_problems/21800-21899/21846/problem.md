@@ -1,13 +1,13 @@
 ---
-title: Inside information
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Inside information"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 90
 accepted: 22
 solved_users: 19
-acceptance_rate: 26.027%
-collected_at: 2026-04-17T16:08:46.828536+00:00
+acceptance_rate: "26.027%"
+collected_at: "2026-04-17T16:08:46.828536+00:00"
 ---
 
 ## 문제

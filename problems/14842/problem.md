@@ -1,13 +1,13 @@
 ---
-title: 재홍의 사다리
-special_judge: true
-time_limit: 2 초
-memory_limit: 512 MB
+title: "재홍의 사다리"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 1066
 accepted: 335
 solved_users: 278
-acceptance_rate: 31.555%
-collected_at: 2026-04-17T13:42:46.642979+00:00
+acceptance_rate: "31.555%"
+collected_at: "2026-04-17T13:42:46.642979+00:00"
 ---
 
 ## 문제

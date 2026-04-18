@@ -1,13 +1,13 @@
 ---
-title: 운동장 한 바퀴
-special_judge: true
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "운동장 한 바퀴"
+special_judge: "true"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 10098
 accepted: 7710
 solved_users: 7131
-acceptance_rate: 76.686%
-collected_at: 2026-04-17T14:18:50.357177+00:00
+acceptance_rate: "76.686%"
+collected_at: "2026-04-17T14:18:50.357177+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: XOR 자료구조
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "XOR 자료구조"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 289
 accepted: 97
 solved_users: 59
-acceptance_rate: 31.720%
-collected_at: 2026-04-17T15:43:18.414013+00:00
+acceptance_rate: "31.720%"
+collected_at: "2026-04-17T15:43:18.414013+00:00"
 ---
 
 ## 문제

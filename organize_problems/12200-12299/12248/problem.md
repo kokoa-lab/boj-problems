@@ -1,13 +1,13 @@
 ---
-title: The Repeater (Small)
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "The Repeater (Small)"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 31
 accepted: 24
 solved_users: 20
-acceptance_rate: 74.074%
-collected_at: 2026-04-17T12:52:26.498916+00:00
+acceptance_rate: "74.074%"
+collected_at: "2026-04-17T12:52:26.498916+00:00"
 ---
 
 ## 문제

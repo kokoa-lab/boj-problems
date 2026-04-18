@@ -1,13 +1,13 @@
 ---
-title: Можно и отдохнуть
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Можно и отдохнуть"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 153
 accepted: 100
 solved_users: 72
-acceptance_rate: 65.455%
-collected_at: 2026-04-17T18:37:57.419210+00:00
+acceptance_rate: "65.455%"
+collected_at: "2026-04-17T18:37:57.419210+00:00"
 ---
 
 ## 문제

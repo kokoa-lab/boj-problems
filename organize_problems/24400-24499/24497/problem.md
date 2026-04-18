@@ -1,13 +1,13 @@
 ---
-title: 수열 복원
-special_judge: false
-time_limit: 3 초
-memory_limit: 256 MB
+title: "수열 복원"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "256 MB"
 submissions: 244
 accepted: 53
 solved_users: 41
-acceptance_rate: 21.134%
-collected_at: 2026-04-17T17:10:16.828059+00:00
+acceptance_rate: "21.134%"
+collected_at: "2026-04-17T17:10:16.828059+00:00"
 ---
 
 ## 문제

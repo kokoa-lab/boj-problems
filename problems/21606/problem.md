@@ -1,13 +1,13 @@
 ---
-title: 아침 산책
-special_judge: false
-time_limit: 3 초
-memory_limit: 256 MB
+title: "아침 산책"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "256 MB"
 submissions: 5210
 accepted: 1026
 solved_users: 673
-acceptance_rate: 19.462%
-collected_at: 2026-04-17T16:01:17.814611+00:00
+acceptance_rate: "19.462%"
+collected_at: "2026-04-17T16:01:17.814611+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 전철 통학
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "전철 통학"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 337
 accepted: 209
 solved_users: 182
-acceptance_rate: 65.000%
-collected_at: 2026-04-17T20:28:02.224110+00:00
+acceptance_rate: "65.000%"
+collected_at: "2026-04-17T20:28:02.224110+00:00"
 ---
 
 ## 문제

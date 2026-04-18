@@ -1,13 +1,13 @@
 ---
-title: Training
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 2048 MB
+title: "Training"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "2048 MB"
 submissions: 137
 accepted: 84
 solved_users: 78
-acceptance_rate: 64.463%
-collected_at: 2026-04-17T19:29:41.021614+00:00
+acceptance_rate: "64.463%"
+collected_at: "2026-04-17T19:29:41.021614+00:00"
 ---
 
 ## 문제

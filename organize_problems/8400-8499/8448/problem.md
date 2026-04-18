@@ -1,13 +1,13 @@
 ---
-title: Wczasy
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Wczasy"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 36
 accepted: 13
 solved_users: 12
-acceptance_rate: 41.379%
-collected_at: 2026-04-18T09:58:13.329617+00:00
+acceptance_rate: "41.379%"
+collected_at: "2026-04-18T09:58:13.329617+00:00"
 ---
 
 ## 문제

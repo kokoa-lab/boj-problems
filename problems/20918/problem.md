@@ -1,13 +1,13 @@
 ---
-title: 좋은 배열 세기
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "좋은 배열 세기"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 86
 accepted: 50
 solved_users: 39
-acceptance_rate: 58.209%
-collected_at: 2026-04-17T15:43:22.970963+00:00
+acceptance_rate: "58.209%"
+collected_at: "2026-04-17T15:43:22.970963+00:00"
 ---
 
 ## 문제

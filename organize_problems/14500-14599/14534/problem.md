@@ -1,13 +1,13 @@
 ---
-title: String Permutation
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "String Permutation"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 821
 accepted: 405
 solved_users: 286
-acceptance_rate: 53.259%
-collected_at: 2026-04-17T13:37:31.677187+00:00
+acceptance_rate: "53.259%"
+collected_at: "2026-04-17T13:37:31.677187+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: What’s Our Vector, Victor?
-special_judge: true
-time_limit: 6 초 (추가 시간 없음)
-memory_limit: 2048 MB
+title: "What’s Our Vector, Victor?"
+special_judge: "true"
+time_limit: "6 초 (추가 시간 없음)"
+memory_limit: "2048 MB"
 submissions: 65
 accepted: 49
 solved_users: 20
-acceptance_rate: 76.923%
-collected_at: 2026-04-18T09:59:22.821998+00:00
+acceptance_rate: "76.923%"
+collected_at: "2026-04-18T09:59:22.821998+00:00"
 ---
 
 ## 문제

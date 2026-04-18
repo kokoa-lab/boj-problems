@@ -1,13 +1,13 @@
 ---
-title: AFC 윔블던
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "AFC 윔블던"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 25353
 accepted: 7784
 solved_users: 6988
-acceptance_rate: 31.167%
-collected_at: 2026-04-17T10:59:06.344424+00:00
+acceptance_rate: "31.167%"
+collected_at: "2026-04-17T10:59:06.344424+00:00"
 ---
 
 ## 문제

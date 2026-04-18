@@ -1,13 +1,13 @@
 ---
-title: Found
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Found"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 85
 accepted: 53
 solved_users: 41
-acceptance_rate: 69.492%
-collected_at: 2026-04-17T13:12:22.009593+00:00
+acceptance_rate: "69.492%"
+collected_at: "2026-04-17T13:12:22.009593+00:00"
 ---
 
 ## 문제

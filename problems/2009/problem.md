@@ -1,13 +1,13 @@
 ---
-title: Minecraft
-special_judge: true
-time_limit: 1.52 초
-memory_limit: 1024 MB
+title: "Minecraft"
+special_judge: "true"
+time_limit: "1.52 초"
+memory_limit: "1024 MB"
 submissions: 251
 accepted: 115
 solved_users: 90
-acceptance_rate: 55.901%
-collected_at: 2026-04-17T10:37:03.872079+00:00
+acceptance_rate: "55.901%"
+collected_at: "2026-04-17T10:37:03.872079+00:00"
 ---
 
 ## 문제

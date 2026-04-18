@@ -1,13 +1,13 @@
 ---
-title: Counting Trees
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Counting Trees"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 155
 accepted: 57
 solved_users: 48
-acceptance_rate: 36.364%
-collected_at: 2026-04-17T14:59:01.326274+00:00
+acceptance_rate: "36.364%"
+collected_at: "2026-04-17T14:59:01.326274+00:00"
 ---
 
 ## 문제

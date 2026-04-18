@@ -1,13 +1,13 @@
 ---
-title: 묻고 더블로 마셔
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "묻고 더블로 마셔"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 379
 accepted: 132
 solved_users: 99
-acceptance_rate: 42.857%
-collected_at: 2026-04-17T16:54:38.278827+00:00
+acceptance_rate: "42.857%"
+collected_at: "2026-04-17T16:54:38.278827+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Anti-Palindrome
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Anti-Palindrome"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 172
 accepted: 94
 solved_users: 77
-acceptance_rate: 54.610%
-collected_at: 2026-04-17T19:09:06.746415+00:00
+acceptance_rate: "54.610%"
+collected_at: "2026-04-17T19:09:06.746415+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Surfing
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Surfing"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 42
 accepted: 2
 solved_users: 2
-acceptance_rate: 8.696%
-collected_at: 2026-04-17T11:41:14.987275+00:00
+acceptance_rate: "8.696%"
+collected_at: "2026-04-17T11:41:14.987275+00:00"
 ---
 
 ## 문제

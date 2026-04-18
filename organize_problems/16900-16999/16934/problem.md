@@ -1,13 +1,13 @@
 ---
-title: 게임 닉네임
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "게임 닉네임"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 2664
 accepted: 1548
 solved_users: 1127
-acceptance_rate: 56.862%
-collected_at: 2026-04-17T14:26:30.105985+00:00
+acceptance_rate: "56.862%"
+collected_at: "2026-04-17T14:26:30.105985+00:00"
 ---
 
 ## 문제

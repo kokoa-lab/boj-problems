@@ -1,13 +1,13 @@
 ---
-title: Platform Placing
-special_judge: false
-time_limit: 1.5 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Platform Placing"
+special_judge: "false"
+time_limit: "1.5 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 26
 accepted: 20
 solved_users: 14
-acceptance_rate: 87.500%
-collected_at: 2026-04-17T18:02:04.308270+00:00
+acceptance_rate: "87.500%"
+collected_at: "2026-04-17T18:02:04.308270+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: The Hash Table
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "The Hash Table"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 35
 accepted: 7
 solved_users: 6
-acceptance_rate: 85.714%
-collected_at: 2026-04-17T15:47:59.883293+00:00
+acceptance_rate: "85.714%"
+collected_at: "2026-04-17T15:47:59.883293+00:00"
 ---
 
 ## 문제

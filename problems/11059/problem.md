@@ -1,13 +1,13 @@
 ---
-title: 크리 문자열
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "크리 문자열"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 1250
 accepted: 747
 solved_users: 624
-acceptance_rate: 63.739%
-collected_at: 2026-04-17T12:35:49.199963+00:00
+acceptance_rate: "63.739%"
+collected_at: "2026-04-17T12:35:49.199963+00:00"
 ---
 
 ## 문제

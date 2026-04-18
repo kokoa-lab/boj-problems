@@ -1,13 +1,13 @@
 ---
-title: Goldmine
-special_judge: false
-time_limit: 3 초
-memory_limit: 512 MB
+title: "Goldmine"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "512 MB"
 submissions: 88
 accepted: 33
 solved_users: 26
-acceptance_rate: 37.681%
-collected_at: 2026-04-17T11:55:22.229558+00:00
+acceptance_rate: "37.681%"
+collected_at: "2026-04-17T11:55:22.229558+00:00"
 ---
 
 ## 문제

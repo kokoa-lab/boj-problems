@@ -1,13 +1,13 @@
 ---
-title: blobblush
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "blobblush"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 1406
 accepted: 589
 solved_users: 502
-acceptance_rate: 41.215%
-collected_at: 2026-04-17T17:10:15.368483+00:00
+acceptance_rate: "41.215%"
+collected_at: "2026-04-17T17:10:15.368483+00:00"
 ---
 
 ## 문제

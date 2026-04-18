@@ -1,13 +1,13 @@
 ---
-title: Lucky Numbers
-special_judge: false
-time_limit: 0.2 초
-memory_limit: 1024 MB
+title: "Lucky Numbers"
+special_judge: "false"
+time_limit: "0.2 초"
+memory_limit: "1024 MB"
 submissions: 4
 accepted: 3
 solved_users: 3
-acceptance_rate: 100.000%
-collected_at: 2026-04-17T18:02:05.742936+00:00
+acceptance_rate: "100.000%"
+collected_at: "2026-04-17T18:02:05.742936+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 最高のコーヒー (Small)
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "最高のコーヒー (Small)"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 108
 accepted: 70
 solved_users: 63
-acceptance_rate: 64.286%
-collected_at: 2026-04-17T12:55:41.658952+00:00
+acceptance_rate: "64.286%"
+collected_at: "2026-04-17T12:55:41.658952+00:00"
 ---
 
 ## 문제

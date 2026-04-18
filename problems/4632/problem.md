@@ -1,13 +1,13 @@
 ---
-title: Flow Layout
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Flow Layout"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 27
 accepted: 25
 solved_users: 24
-acceptance_rate: 96.000%
-collected_at: 2026-04-17T11:06:13.445289+00:00
+acceptance_rate: "96.000%"
+collected_at: "2026-04-17T11:06:13.445289+00:00"
 ---
 
 ## 문제

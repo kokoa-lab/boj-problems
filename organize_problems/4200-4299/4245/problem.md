@@ -1,13 +1,13 @@
 ---
-title: Team Rankings
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Team Rankings"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 71
 accepted: 35
 solved_users: 25
-acceptance_rate: 48.077%
-collected_at: 2026-04-17T10:58:19.121347+00:00
+acceptance_rate: "48.077%"
+collected_at: "2026-04-17T10:58:19.121347+00:00"
 ---
 
 ## 문제

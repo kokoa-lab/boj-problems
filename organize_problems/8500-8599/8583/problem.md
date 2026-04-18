@@ -1,13 +1,13 @@
 ---
-title: Skracalne liczby pierwsze
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Skracalne liczby pierwsze"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 34
 accepted: 27
 solved_users: 22
-acceptance_rate: 75.862%
-collected_at: 2026-04-17T12:01:01.453353+00:00
+acceptance_rate: "75.862%"
+collected_at: "2026-04-17T12:01:01.453353+00:00"
 ---
 
 ## 문제

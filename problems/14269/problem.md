@@ -1,13 +1,13 @@
 ---
-title: 전설의 쌍검 용사
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "전설의 쌍검 용사"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 405
 accepted: 81
 solved_users: 61
-acceptance_rate: 19.122%
-collected_at: 2026-04-17T13:29:01.093798+00:00
+acceptance_rate: "19.122%"
+collected_at: "2026-04-17T13:29:01.093798+00:00"
 ---
 
 ## 문제

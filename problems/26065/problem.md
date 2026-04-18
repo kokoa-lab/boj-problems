@@ -1,13 +1,13 @@
 ---
-title: Кусочно-линейные функции
-special_judge: true
-time_limit: 3 초
-memory_limit: 1024 MB
+title: "Кусочно-линейные функции"
+special_judge: "true"
+time_limit: "3 초"
+memory_limit: "1024 MB"
 submissions: 9
 accepted: 3
 solved_users: 1
-acceptance_rate: 16.667%
-collected_at: 2026-04-17T17:39:37.403221+00:00
+acceptance_rate: "16.667%"
+collected_at: "2026-04-17T17:39:37.403221+00:00"
 ---
 
 ## 문제

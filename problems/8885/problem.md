@@ -1,13 +1,13 @@
 ---
-title: Pirate Chest
-special_judge: false
-time_limit: 15 초
-memory_limit: 128 MB
+title: "Pirate Chest"
+special_judge: "false"
+time_limit: "15 초"
+memory_limit: "128 MB"
 submissions: 463
 accepted: 134
 solved_users: 88
-acceptance_rate: 23.342%
-collected_at: 2026-04-17T12:04:30.560170+00:00
+acceptance_rate: "23.342%"
+collected_at: "2026-04-17T12:04:30.560170+00:00"
 ---
 
 ## 문제

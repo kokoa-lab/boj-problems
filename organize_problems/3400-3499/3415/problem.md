@@ -1,13 +1,13 @@
 ---
-title: Graphic Madness
-special_judge: true
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Graphic Madness"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 36
 accepted: 14
 solved_users: 13
-acceptance_rate: 52.000%
-collected_at: 2026-04-17T10:48:43.018198+00:00
+acceptance_rate: "52.000%"
+collected_at: "2026-04-17T10:48:43.018198+00:00"
 ---
 
 ## 문제

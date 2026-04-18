@@ -1,13 +1,13 @@
 ---
-title: Trójkąty
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Trójkąty"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 40
 accepted: 24
 solved_users: 16
-acceptance_rate: 53.333%
-collected_at: 2026-04-17T12:00:04.738683+00:00
+acceptance_rate: "53.333%"
+collected_at: "2026-04-17T12:00:04.738683+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 원형 댄스
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "원형 댄스"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 372
 accepted: 218
 solved_users: 171
-acceptance_rate: 61.290%
-collected_at: 2026-04-17T10:38:37.262302+00:00
+acceptance_rate: "61.290%"
+collected_at: "2026-04-17T10:38:37.262302+00:00"
 ---
 
 ## 문제

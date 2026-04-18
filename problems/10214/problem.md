@@ -1,13 +1,13 @@
 ---
-title: Baseball
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Baseball"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 23020
 accepted: 10696
 solved_users: 9927
-acceptance_rate: 48.080%
-collected_at: 2026-04-17T12:20:30.398495+00:00
+acceptance_rate: "48.080%"
+collected_at: "2026-04-17T12:20:30.398495+00:00"
 ---
 
 ## 문제

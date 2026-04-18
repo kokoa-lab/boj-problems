@@ -1,13 +1,13 @@
 ---
-title: Average is not Fast Enough!
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Average is not Fast Enough!"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 142
 accepted: 67
 solved_users: 61
-acceptance_rate: 48.031%
-collected_at: 2026-04-17T11:30:28.596129+00:00
+acceptance_rate: "48.031%"
+collected_at: "2026-04-17T11:30:28.596129+00:00"
 ---
 
 ## 문제

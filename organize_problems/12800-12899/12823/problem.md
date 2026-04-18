@@ -1,13 +1,13 @@
 ---
-title: Critical Projects
-special_judge: false
-time_limit: 0.6 초
-memory_limit: 32 MB
+title: "Critical Projects"
+special_judge: "false"
+time_limit: "0.6 초"
+memory_limit: "32 MB"
 submissions: 521
 accepted: 182
 solved_users: 143
-acceptance_rate: 36.573%
-collected_at: 2026-04-17T13:02:02.101597+00:00
+acceptance_rate: "36.573%"
+collected_at: "2026-04-17T13:02:02.101597+00:00"
 ---
 
 ## 문제

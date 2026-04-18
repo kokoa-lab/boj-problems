@@ -1,13 +1,13 @@
 ---
-title: Treehouses
-special_judge: true
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Treehouses"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 106
 accepted: 69
 solved_users: 52
-acceptance_rate: 58.427%
-collected_at: 2026-04-17T14:17:26.665568+00:00
+acceptance_rate: "58.427%"
+collected_at: "2026-04-17T14:17:26.665568+00:00"
 ---
 
 ## 문제

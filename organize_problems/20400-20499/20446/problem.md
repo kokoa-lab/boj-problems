@@ -1,13 +1,13 @@
 ---
-title: Добыча радия
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Добыча радия"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 16
 accepted: 14
 solved_users: 14
-acceptance_rate: 100.000%
-collected_at: 2026-04-17T15:36:27.968879+00:00
+acceptance_rate: "100.000%"
+collected_at: "2026-04-17T15:36:27.968879+00:00"
 ---
 
 ## 문제

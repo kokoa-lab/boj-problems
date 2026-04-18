@@ -1,13 +1,13 @@
 ---
-title: New Angry Bird Weapon
-special_judge: false
-time_limit: 3 초
-memory_limit: 256 MB
+title: "New Angry Bird Weapon"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "256 MB"
 submissions: 37
 accepted: 5
 solved_users: 5
-acceptance_rate: 27.778%
-collected_at: 2026-04-17T12:46:05.734504+00:00
+acceptance_rate: "27.778%"
+collected_at: "2026-04-17T12:46:05.734504+00:00"
 ---
 
 ## 문제

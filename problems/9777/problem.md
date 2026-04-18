@@ -1,13 +1,13 @@
 ---
-title: Birthday Statistics
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Birthday Statistics"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 224
 accepted: 199
 solved_users: 169
-acceptance_rate: 89.894%
-collected_at: 2026-04-17T12:14:28.875476+00:00
+acceptance_rate: "89.894%"
+collected_at: "2026-04-17T12:14:28.875476+00:00"
 ---
 
 ## 문제

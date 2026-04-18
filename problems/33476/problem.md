@@ -1,13 +1,13 @@
 ---
-title: 영 타블로가 싫은 재우
-special_judge: true
-time_limit: 2.5 초
-memory_limit: 1024 MB
+title: "영 타블로가 싫은 재우"
+special_judge: "true"
+time_limit: "2.5 초"
+memory_limit: "1024 MB"
 submissions: 23
 accepted: 9
 solved_users: 9
-acceptance_rate: 40.909%
-collected_at: 2026-04-17T20:16:50.037665+00:00
+acceptance_rate: "40.909%"
+collected_at: "2026-04-17T20:16:50.037665+00:00"
 ---
 
 ## 문제

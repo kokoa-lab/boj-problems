@@ -1,13 +1,13 @@
 ---
-title: Cabbage
-special_judge: true
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 256 MB
+title: "Cabbage"
+special_judge: "true"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "256 MB"
 submissions: 27
 accepted: 7
 solved_users: 3
-acceptance_rate: 16.667%
-collected_at: 2026-04-17T16:50:45.530963+00:00
+acceptance_rate: "16.667%"
+collected_at: "2026-04-17T16:50:45.530963+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Measuring Volume of Land
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Measuring Volume of Land"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 42
 accepted: 13
 solved_users: 11
-acceptance_rate: 30.556%
-collected_at: 2026-04-17T18:23:43.705288+00:00
+acceptance_rate: "30.556%"
+collected_at: "2026-04-17T18:23:43.705288+00:00"
 ---
 
 ## 문제

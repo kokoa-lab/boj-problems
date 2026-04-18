@@ -1,13 +1,13 @@
 ---
-title: 소수제합
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "소수제합"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 326
 accepted: 160
 solved_users: 103
-acceptance_rate: 43.644%
-collected_at: 2026-04-17T20:41:33.642771+00:00
+acceptance_rate: "43.644%"
+collected_at: "2026-04-17T20:41:33.642771+00:00"
 ---
 
 ## 문제

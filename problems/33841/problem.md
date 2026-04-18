@@ -1,13 +1,13 @@
 ---
-title: 괄호 뒤집기
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "괄호 뒤집기"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 148
 accepted: 28
 solved_users: 26
-acceptance_rate: 32.500%
-collected_at: 2026-04-17T20:24:38.848788+00:00
+acceptance_rate: "32.500%"
+collected_at: "2026-04-17T20:24:38.848788+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 모기곱셈
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "모기곱셈"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 1579
 accepted: 879
 solved_users: 630
-acceptance_rate: 54.878%
-collected_at: 2026-04-17T11:31:34.933747+00:00
+acceptance_rate: "54.878%"
+collected_at: "2026-04-17T11:31:34.933747+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Longest Rivers
-special_judge: false
-time_limit: 10 초
-memory_limit: 512 MB
+title: "Longest Rivers"
+special_judge: "false"
+time_limit: "10 초"
+memory_limit: "512 MB"
 submissions: 96
 accepted: 36
 solved_users: 31
-acceptance_rate: 45.588%
-collected_at: 2026-04-17T13:01:05.405202+00:00
+acceptance_rate: "45.588%"
+collected_at: "2026-04-17T13:01:05.405202+00:00"
 ---
 
 ## 문제

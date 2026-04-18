@@ -1,13 +1,13 @@
 ---
-title: Fireworks
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Fireworks"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 794
 accepted: 335
 solved_users: 211
-acceptance_rate: 39.074%
-collected_at: 2026-04-17T13:00:29.507395+00:00
+acceptance_rate: "39.074%"
+collected_at: "2026-04-17T13:00:29.507395+00:00"
 ---
 
 ## 문제

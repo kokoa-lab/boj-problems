@@ -1,13 +1,13 @@
 ---
-title: NxM 보드 완주하기
-special_judge: false
-time_limit: 3 초  ( 하단 참고 )
-memory_limit: 256 MB
+title: "NxM 보드 완주하기"
+special_judge: "false"
+time_limit: "3 초  ( 하단 참고 )"
+memory_limit: "256 MB"
 submissions: 4682
 accepted: 1615
 solved_users: 1027
-acceptance_rate: 32.225%
-collected_at: 2026-04-17T12:16:57.128101+00:00
+acceptance_rate: "32.225%"
+collected_at: "2026-04-17T12:16:57.128101+00:00"
 ---
 
 ## 문제

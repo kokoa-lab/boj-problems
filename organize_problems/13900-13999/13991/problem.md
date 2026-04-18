@@ -1,13 +1,13 @@
 ---
-title: Cactus Construction
-special_judge: true
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Cactus Construction"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 54
 accepted: 24
 solved_users: 23
-acceptance_rate: 46.939%
-collected_at: 2026-04-17T13:23:31.643437+00:00
+acceptance_rate: "46.939%"
+collected_at: "2026-04-17T13:23:31.643437+00:00"
 ---
 
 ## 문제

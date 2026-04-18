@@ -1,13 +1,13 @@
 ---
-title: 푸앙이와 러닝머신
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "푸앙이와 러닝머신"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 331
 accepted: 109
 solved_users: 93
-acceptance_rate: 32.746%
-collected_at: 2026-04-17T17:29:39.780061+00:00
+acceptance_rate: "32.746%"
+collected_at: "2026-04-17T17:29:39.780061+00:00"
 ---
 
 ## 문제

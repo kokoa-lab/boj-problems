@@ -1,13 +1,13 @@
 ---
-title: 효빈이의 과외
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "효빈이의 과외"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 755
 accepted: 246
 solved_users: 207
-acceptance_rate: 34.732%
-collected_at: 2026-04-17T13:40:10.559080+00:00
+acceptance_rate: "34.732%"
+collected_at: "2026-04-17T13:40:10.559080+00:00"
 ---
 
 ## 문제

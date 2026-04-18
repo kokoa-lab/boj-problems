@@ -1,13 +1,13 @@
 ---
-title: Combining Riceballs
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Combining Riceballs"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 48
 accepted: 25
 solved_users: 19
-acceptance_rate: 63.333%
-collected_at: 2026-04-17T13:24:37.055009+00:00
+acceptance_rate: "63.333%"
+collected_at: "2026-04-17T13:24:37.055009+00:00"
 ---
 
 ## 문제

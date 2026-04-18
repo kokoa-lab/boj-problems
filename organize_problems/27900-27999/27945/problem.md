@@ -1,13 +1,13 @@
 ---
-title: 슬슬 가지를 먹지 않으면 죽는다
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "슬슬 가지를 먹지 않으면 죽는다"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 924
 accepted: 471
 solved_users: 362
-acceptance_rate: 48.919%
-collected_at: 2026-04-17T18:15:15.663331+00:00
+acceptance_rate: "48.919%"
+collected_at: "2026-04-17T18:15:15.663331+00:00"
 ---
 
 ## 문제

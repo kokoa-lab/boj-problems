@@ -1,13 +1,13 @@
 ---
-title: Bocchi the Rock
-special_judge: false
-time_limit: 10 초
-memory_limit: 2048 MB
+title: "Bocchi the Rock"
+special_judge: "false"
+time_limit: "10 초"
+memory_limit: "2048 MB"
 submissions: 7
 accepted: 1
 solved_users: 1
-acceptance_rate: 100.000%
-collected_at: 2026-04-17T20:14:54.315664+00:00
+acceptance_rate: "100.000%"
+collected_at: "2026-04-17T20:14:54.315664+00:00"
 ---
 
 ## 문제

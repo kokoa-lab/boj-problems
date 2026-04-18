@@ -1,13 +1,13 @@
 ---
-title: 여우 셰프
-special_judge: true
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "여우 셰프"
+special_judge: "true"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 105
 accepted: 27
 solved_users: 24
-acceptance_rate: 29.268%
-collected_at: 2026-04-17T19:47:12.605899+00:00
+acceptance_rate: "29.268%"
+collected_at: "2026-04-17T19:47:12.605899+00:00"
 ---
 
 ## 문제

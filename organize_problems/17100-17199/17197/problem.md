@@ -1,13 +1,13 @@
 ---
-title: Fence Planning
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Fence Planning"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 623
 accepted: 353
 solved_users: 302
-acceptance_rate: 62.268%
-collected_at: 2026-04-17T14:32:48.218313+00:00
+acceptance_rate: "62.268%"
+collected_at: "2026-04-17T14:32:48.218313+00:00"
 ---
 
 ## 문제

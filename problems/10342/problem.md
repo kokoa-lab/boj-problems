@@ -1,13 +1,13 @@
 ---
-title: Fun House
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Fun House"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 116
 accepted: 85
 solved_users: 76
-acceptance_rate: 71.698%
-collected_at: 2026-04-17T12:22:17.511297+00:00
+acceptance_rate: "71.698%"
+collected_at: "2026-04-17T12:22:17.511297+00:00"
 ---
 
 ## 문제

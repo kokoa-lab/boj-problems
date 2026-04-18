@@ -1,13 +1,13 @@
 ---
-title: Kingdom’s Development Plan
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Kingdom’s Development Plan"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 126
 accepted: 100
 solved_users: 74
-acceptance_rate: 85.057%
-collected_at: 2026-04-17T19:51:38.217882+00:00
+acceptance_rate: "85.057%"
+collected_at: "2026-04-17T19:51:38.217882+00:00"
 ---
 
 ## 문제

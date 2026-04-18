@@ -1,13 +1,13 @@
 ---
-title: It's All In The Mind
-special_judge: false
-time_limit: 1 초
-memory_limit: 64 MB
+title: "It's All In The Mind"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "64 MB"
 submissions: 48
 accepted: 24
 solved_users: 23
-acceptance_rate: 58.974%
-collected_at: 2026-04-17T15:20:01.981978+00:00
+acceptance_rate: "58.974%"
+collected_at: "2026-04-17T15:20:01.981978+00:00"
 ---
 
 ## 문제

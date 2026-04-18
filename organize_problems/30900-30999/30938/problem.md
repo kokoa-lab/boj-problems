@@ -1,13 +1,13 @@
 ---
-title: Probing the Disk
-special_judge: false
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Probing the Disk"
+special_judge: "false"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 245
 accepted: 46
 solved_users: 41
-acceptance_rate: 22.043%
-collected_at: 2026-04-17T19:18:27.927560+00:00
+acceptance_rate: "22.043%"
+collected_at: "2026-04-17T19:18:27.927560+00:00"
 ---
 
 ## 문제

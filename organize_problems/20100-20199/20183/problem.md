@@ -1,13 +1,13 @@
 ---
-title: 골목 대장 호석 - 효율성 2
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "골목 대장 호석 - 효율성 2"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 5623
 accepted: 1532
 solved_users: 904
-acceptance_rate: 24.139%
-collected_at: 2026-04-17T15:32:47.892587+00:00
+acceptance_rate: "24.139%"
+collected_at: "2026-04-17T15:32:47.892587+00:00"
 ---
 
 ## 문제

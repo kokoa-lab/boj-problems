@@ -1,13 +1,13 @@
 ---
-title: Majstor
-special_judge: false
-time_limit: 3 초
-memory_limit: 128 MB
+title: "Majstor"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "128 MB"
 submissions: 6
 accepted: 6
 solved_users: 3
-acceptance_rate: 100.000%
-collected_at: 2026-04-17T13:26:39.100735+00:00
+acceptance_rate: "100.000%"
+collected_at: "2026-04-17T13:26:39.100735+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Fence Making
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Fence Making"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 17
 accepted: 6
 solved_users: 6
-acceptance_rate: 40.000%
-collected_at: 2026-04-17T11:16:15.154926+00:00
+acceptance_rate: "40.000%"
+collected_at: "2026-04-17T11:16:15.154926+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Diamond Collector (Silver)
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Diamond Collector (Silver)"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 565
 accepted: 282
 solved_users: 235
-acceptance_rate: 53.409%
-collected_at: 2026-04-17T12:48:50.049215+00:00
+acceptance_rate: "53.409%"
+collected_at: "2026-04-17T12:48:50.049215+00:00"
 ---
 
 ## 문제

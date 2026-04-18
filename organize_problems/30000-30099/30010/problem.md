@@ -1,13 +1,13 @@
 ---
-title: 잘못된 버블정렬
-special_judge: true
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "잘못된 버블정렬"
+special_judge: "true"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 783
 accepted: 583
 solved_users: 501
-acceptance_rate: 77.196%
-collected_at: 2026-04-17T18:57:17.007449+00:00
+acceptance_rate: "77.196%"
+collected_at: "2026-04-17T18:57:17.007449+00:00"
 ---
 
 ## 문제

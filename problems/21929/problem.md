@@ -1,13 +1,13 @@
 ---
-title: Colorful Rectangle
-special_judge: false
-time_limit: 10 초
-memory_limit: 512 MB
+title: "Colorful Rectangle"
+special_judge: "false"
+time_limit: "10 초"
+memory_limit: "512 MB"
 submissions: 41
 accepted: 18
 solved_users: 11
-acceptance_rate: 57.895%
-collected_at: 2026-04-17T16:10:07.809194+00:00
+acceptance_rate: "57.895%"
+collected_at: "2026-04-17T16:10:07.809194+00:00"
 ---
 
 ## 문제

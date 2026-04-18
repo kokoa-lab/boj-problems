@@ -1,13 +1,13 @@
 ---
-title: 서강그라운드
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "서강그라운드"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 24296
 accepted: 12755
 solved_users: 10334
-acceptance_rate: 51.002%
-collected_at: 2026-04-17T13:46:06.754847+00:00
+acceptance_rate: "51.002%"
+collected_at: "2026-04-17T13:46:06.754847+00:00"
 ---
 
 ## 문제

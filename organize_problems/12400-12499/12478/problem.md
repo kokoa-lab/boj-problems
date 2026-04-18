@@ -1,13 +1,13 @@
 ---
-title: Dire Straights (Large)
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Dire Straights (Large)"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 63
 accepted: 40
 solved_users: 28
-acceptance_rate: 63.636%
-collected_at: 2026-04-17T12:56:04.170216+00:00
+acceptance_rate: "63.636%"
+collected_at: "2026-04-17T12:56:04.170216+00:00"
 ---
 
 ## 문제

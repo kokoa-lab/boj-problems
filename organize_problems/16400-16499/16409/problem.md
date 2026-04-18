@@ -1,13 +1,13 @@
 ---
-title: Coprime Integers
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Coprime Integers"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 615
 accepted: 362
 solved_users: 257
-acceptance_rate: 56.608%
-collected_at: 2026-04-17T14:17:35.115870+00:00
+acceptance_rate: "56.608%"
+collected_at: "2026-04-17T14:17:35.115870+00:00"
 ---
 
 ## 문제

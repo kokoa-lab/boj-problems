@@ -1,13 +1,13 @@
 ---
-title: Honeycomb
-special_judge: false
-time_limit: 6 초
-memory_limit: 512 MB
+title: "Honeycomb"
+special_judge: "false"
+time_limit: "6 초"
+memory_limit: "512 MB"
 submissions: 78
 accepted: 21
 solved_users: 15
-acceptance_rate: 25.424%
-collected_at: 2026-04-17T15:07:36.335386+00:00
+acceptance_rate: "25.424%"
+collected_at: "2026-04-17T15:07:36.335386+00:00"
 ---
 
 ## 문제

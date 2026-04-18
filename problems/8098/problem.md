@@ -1,13 +1,13 @@
 ---
-title: Lecture Halls Reservation
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Lecture Halls Reservation"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 184
 accepted: 109
 solved_users: 83
-acceptance_rate: 56.081%
-collected_at: 2026-04-17T11:56:00.409626+00:00
+acceptance_rate: "56.081%"
+collected_at: "2026-04-17T11:56:00.409626+00:00"
 ---
 
 ## 문제

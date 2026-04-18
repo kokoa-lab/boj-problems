@@ -1,13 +1,13 @@
 ---
-title: 약수 구하기
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "약수 구하기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 103533
 accepted: 52143
 solved_users: 45679
-acceptance_rate: 50.867%
-collected_at: 2026-04-17T10:42:12.442797+00:00
+acceptance_rate: "50.867%"
+collected_at: "2026-04-17T10:42:12.442797+00:00"
 ---
 
 ## 문제

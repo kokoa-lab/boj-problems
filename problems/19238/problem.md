@@ -1,13 +1,13 @@
 ---
-title: 스타트 택시
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "스타트 택시"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 39968
 accepted: 10051
 solved_users: 6125
-acceptance_rate: 22.623%
-collected_at: 2026-04-17T15:15:35.947075+00:00
+acceptance_rate: "22.623%"
+collected_at: "2026-04-17T15:15:35.947075+00:00"
 ---
 
 ## 문제

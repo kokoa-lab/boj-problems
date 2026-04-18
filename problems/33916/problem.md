@@ -1,13 +1,13 @@
 ---
-title: 서로소 조합
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "서로소 조합"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 325
 accepted: 133
 solved_users: 89
-acceptance_rate: 40.455%
-collected_at: 2026-04-17T20:26:18.090850+00:00
+acceptance_rate: "40.455%"
+collected_at: "2026-04-17T20:26:18.090850+00:00"
 ---
 
 ## 문제

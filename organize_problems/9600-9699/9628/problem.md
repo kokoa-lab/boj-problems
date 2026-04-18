@@ -1,13 +1,13 @@
 ---
-title: KOLINJE
-special_judge: true
-time_limit: 1 초
-memory_limit: 128 MB
+title: "KOLINJE"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 143
 accepted: 60
 solved_users: 50
-acceptance_rate: 42.017%
-collected_at: 2026-04-17T12:12:07.521380+00:00
+acceptance_rate: "42.017%"
+collected_at: "2026-04-17T12:12:07.521380+00:00"
 ---
 
 ## 문제

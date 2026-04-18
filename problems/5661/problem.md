@@ -1,13 +1,13 @@
 ---
-title: Nowhere Money
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Nowhere Money"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 16
 accepted: 10
 solved_users: 9
-acceptance_rate: 64.286%
-collected_at: 2026-04-17T11:16:22.377360+00:00
+acceptance_rate: "64.286%"
+collected_at: "2026-04-17T11:16:22.377360+00:00"
 ---
 
 ## 문제

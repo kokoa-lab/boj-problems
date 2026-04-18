@@ -1,13 +1,13 @@
 ---
-title: Yes, Prime Minister
-special_judge: false
-time_limit: 10 초
-memory_limit: 512 MB
+title: "Yes, Prime Minister"
+special_judge: "false"
+time_limit: "10 초"
+memory_limit: "512 MB"
 submissions: 35
 accepted: 9
 solved_users: 7
-acceptance_rate: 36.842%
-collected_at: 2026-04-17T16:43:03.817549+00:00
+acceptance_rate: "36.842%"
+collected_at: "2026-04-17T16:43:03.817549+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Friendly Rooks
-special_judge: true
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Friendly Rooks"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 133
 accepted: 87
 solved_users: 78
-acceptance_rate: 72.897%
-collected_at: 2026-04-17T17:16:04.955943+00:00
+acceptance_rate: "72.897%"
+collected_at: "2026-04-17T17:16:04.955943+00:00"
 ---
 
 ## 문제

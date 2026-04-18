@@ -1,13 +1,13 @@
 ---
-title: 볼질
-special_judge: false
-time_limit: 1 초
-memory_limit: 64 MB
+title: "볼질"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "64 MB"
 submissions: 642
 accepted: 307
 solved_users: 247
-acceptance_rate: 50.305%
-collected_at: 2026-04-17T12:47:41.698592+00:00
+acceptance_rate: "50.305%"
+collected_at: "2026-04-17T12:47:41.698592+00:00"
 ---
 
 ## 문제

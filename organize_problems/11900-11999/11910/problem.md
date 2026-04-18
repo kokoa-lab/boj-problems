@@ -1,13 +1,13 @@
 ---
-title: 경비원
-special_judge: false
-time_limit: 2 초
-memory_limit: 32 MB
+title: "경비원"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "32 MB"
 submissions: 43
 accepted: 12
 solved_users: 10
-acceptance_rate: 37.037%
-collected_at: 2026-04-17T12:47:34.431751+00:00
+acceptance_rate: "37.037%"
+collected_at: "2026-04-17T12:47:34.431751+00:00"
 ---
 
 ## 문제

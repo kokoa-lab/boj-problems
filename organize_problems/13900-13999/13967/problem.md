@@ -1,13 +1,13 @@
 ---
-title: Balls and Needles
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Balls and Needles"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 78
 accepted: 49
 solved_users: 44
-acceptance_rate: 70.968%
-collected_at: 2026-04-17T13:23:06.723717+00:00
+acceptance_rate: "70.968%"
+collected_at: "2026-04-17T13:23:06.723717+00:00"
 ---
 
 ## 문제

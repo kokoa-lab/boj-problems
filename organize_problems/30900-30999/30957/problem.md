@@ -1,13 +1,13 @@
 ---
-title: 빅데이터 vs 정보보호 vs 인공지능
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "빅데이터 vs 정보보호 vs 인공지능"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 1594
 accepted: 1051
 solved_users: 951
-acceptance_rate: 66.597%
-collected_at: 2026-04-17T19:18:51.393140+00:00
+acceptance_rate: "66.597%"
+collected_at: "2026-04-17T19:18:51.393140+00:00"
 ---
 
 ## 문제

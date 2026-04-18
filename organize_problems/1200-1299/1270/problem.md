@@ -1,13 +1,13 @@
 ---
-title: 전쟁 - 땅따먹기
-special_judge: false
-time_limit: 10 초
-memory_limit: 512 MB
+title: "전쟁 - 땅따먹기"
+special_judge: "false"
+time_limit: "10 초"
+memory_limit: "512 MB"
 submissions: 8881
 accepted: 2955
 solved_users: 1942
-acceptance_rate: 32.243%
-collected_at: 2026-04-17T10:29:11.033028+00:00
+acceptance_rate: "32.243%"
+collected_at: "2026-04-17T10:29:11.033028+00:00"
 ---
 
 ## 문제

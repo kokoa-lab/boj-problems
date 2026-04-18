@@ -1,13 +1,13 @@
 ---
-title: Building Pyramids
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Building Pyramids"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 339
 accepted: 258
 solved_users: 219
-acceptance_rate: 80.220%
-collected_at: 2026-04-17T19:56:45.202578+00:00
+acceptance_rate: "80.220%"
+collected_at: "2026-04-17T19:56:45.202578+00:00"
 ---
 
 ## 문제

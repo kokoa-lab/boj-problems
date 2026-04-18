@@ -1,13 +1,13 @@
 ---
-title: 직사각형을 만드는 방법
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "직사각형을 만드는 방법"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 8647
 accepted: 4874
 solved_users: 4211
-acceptance_rate: 57.246%
-collected_at: 2026-04-17T11:58:26.918729+00:00
+acceptance_rate: "57.246%"
+collected_at: "2026-04-17T11:58:26.918729+00:00"
 ---
 
 ## 문제

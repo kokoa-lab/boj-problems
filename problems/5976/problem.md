@@ -1,13 +1,13 @@
 ---
-title: A spiral walk
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "A spiral walk"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 353
 accepted: 247
 solved_users: 217
-acceptance_rate: 76.408%
-collected_at: 2026-04-17T11:19:02.014136+00:00
+acceptance_rate: "76.408%"
+collected_at: "2026-04-17T11:19:02.014136+00:00"
 ---
 
 ## 문제

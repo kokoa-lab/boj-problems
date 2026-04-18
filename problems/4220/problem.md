@@ -1,13 +1,13 @@
 ---
-title: Machine Works
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "Machine Works"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 230
 accepted: 75
 solved_users: 47
-acceptance_rate: 34.307%
-collected_at: 2026-04-17T10:57:28.253694+00:00
+acceptance_rate: "34.307%"
+collected_at: "2026-04-17T10:57:28.253694+00:00"
 ---
 
 ## 문제

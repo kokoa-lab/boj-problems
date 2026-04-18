@@ -1,13 +1,13 @@
 ---
-title: 파괴왕 뚱뽭
-special_judge: false
-time_limit: 1.5 초
-memory_limit: 1024 MB
+title: "파괴왕 뚱뽭"
+special_judge: "false"
+time_limit: "1.5 초"
+memory_limit: "1024 MB"
 submissions: 221
 accepted: 84
 solved_users: 60
-acceptance_rate: 34.286%
-collected_at: 2026-04-17T19:58:22.474834+00:00
+acceptance_rate: "34.286%"
+collected_at: "2026-04-17T19:58:22.474834+00:00"
 ---
 
 ## 문제

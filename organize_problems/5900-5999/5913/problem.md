@@ -1,13 +1,13 @@
 ---
-title: 준규와 사과
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "준규와 사과"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 1136
 accepted: 734
 solved_users: 586
-acceptance_rate: 65.039%
-collected_at: 2026-04-17T11:18:31.356730+00:00
+acceptance_rate: "65.039%"
+collected_at: "2026-04-17T11:18:31.356730+00:00"
 ---
 
 ## 문제

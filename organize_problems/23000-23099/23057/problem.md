@@ -1,13 +1,13 @@
 ---
-title: 도전 숫자왕
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "도전 숫자왕"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 1511
 accepted: 747
 solved_users: 607
-acceptance_rate: 51.267%
-collected_at: 2026-04-17T16:41:06.306111+00:00
+acceptance_rate: "51.267%"
+collected_at: "2026-04-17T16:41:06.306111+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: N의 존재
-special_judge: true
-time_limit: 5 초
-memory_limit: 128 MB
+title: "N의 존재"
+special_judge: "true"
+time_limit: "5 초"
+memory_limit: "128 MB"
 submissions: 634
 accepted: 128
 solved_users: 62
-acceptance_rate: 13.778%
-collected_at: 2026-04-17T11:54:27.684660+00:00
+acceptance_rate: "13.778%"
+collected_at: "2026-04-17T11:54:27.684660+00:00"
 ---
 
 ## 문제

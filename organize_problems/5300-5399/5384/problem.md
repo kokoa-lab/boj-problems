@@ -1,13 +1,13 @@
 ---
-title: Bad Wiring
-special_judge: false
-time_limit: 3 초
-memory_limit: 128 MB
+title: "Bad Wiring"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "128 MB"
 submissions: 51
 accepted: 25
 solved_users: 20
-acceptance_rate: 43.478%
-collected_at: 2026-04-17T11:13:26.002701+00:00
+acceptance_rate: "43.478%"
+collected_at: "2026-04-17T11:13:26.002701+00:00"
 ---
 
 ## 문제

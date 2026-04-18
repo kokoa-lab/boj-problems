@@ -1,13 +1,13 @@
 ---
-title: 자석 체인
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "자석 체인"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 2147
 accepted: 1449
 solved_users: 1313
-acceptance_rate: 68.279%
-collected_at: 2026-04-17T14:32:55.140552+00:00
+acceptance_rate: "68.279%"
+collected_at: "2026-04-17T14:32:55.140552+00:00"
 ---
 
 ## 문제

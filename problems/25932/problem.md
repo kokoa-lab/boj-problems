@@ -1,13 +1,13 @@
 ---
-title: Find the Twins
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Find the Twins"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 1886
 accepted: 1120
 solved_users: 1054
-acceptance_rate: 60.644%
-collected_at: 2026-04-17T17:37:04.896301+00:00
+acceptance_rate: "60.644%"
+collected_at: "2026-04-17T17:37:04.896301+00:00"
 ---
 
 ## 문제

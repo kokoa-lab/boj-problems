@@ -1,13 +1,13 @@
 ---
-title: Disjoint Regular Expressions
-special_judge: true
-time_limit: 2 초
-memory_limit: 128 MB
+title: "Disjoint Regular Expressions"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 74
 accepted: 20
 solved_users: 14
-acceptance_rate: 24.561%
-collected_at: 2026-04-17T10:54:15.525317+00:00
+acceptance_rate: "24.561%"
+collected_at: "2026-04-17T10:54:15.525317+00:00"
 ---
 
 ## 문제

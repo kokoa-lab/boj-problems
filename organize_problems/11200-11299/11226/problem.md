@@ -1,13 +1,13 @@
 ---
-title: Sand Art
-special_judge: false
-time_limit: 3 초
-memory_limit: 256 MB
+title: "Sand Art"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "256 MB"
 submissions: 45
 accepted: 11
 solved_users: 9
-acceptance_rate: 22.500%
-collected_at: 2026-04-17T12:38:17.590048+00:00
+acceptance_rate: "22.500%"
+collected_at: "2026-04-17T12:38:17.590048+00:00"
 ---
 
 ## 문제

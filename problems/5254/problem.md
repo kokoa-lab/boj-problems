@@ -1,13 +1,13 @@
 ---
-title: Balls
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Balls"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 640
 accepted: 133
 solved_users: 111
-acceptance_rate: 21.512%
-collected_at: 2026-04-17T11:12:43.425543+00:00
+acceptance_rate: "21.512%"
+collected_at: "2026-04-17T11:12:43.425543+00:00"
 ---
 
 ## 문제

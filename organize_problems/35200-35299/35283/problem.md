@@ -1,13 +1,13 @@
 ---
-title: 히스토그램에서의 거리와 가장 가까운 점
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "히스토그램에서의 거리와 가장 가까운 점"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 51
 accepted: 18
 solved_users: 17
-acceptance_rate: 41.463%
-collected_at: 2026-04-17T20:59:32.699467+00:00
+acceptance_rate: "41.463%"
+collected_at: "2026-04-17T20:59:32.699467+00:00"
 ---
 
 ## 문제

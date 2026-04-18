@@ -1,13 +1,13 @@
 ---
-title: Final Exam
-special_judge: false
-time_limit: 서브태스크 참고 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "Final Exam"
+special_judge: "false"
+time_limit: "서브태스크 참고 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 68
 accepted: 21
 solved_users: 19
-acceptance_rate: 35.185%
-collected_at: 2026-04-17T16:40:14.673094+00:00
+acceptance_rate: "35.185%"
+collected_at: "2026-04-17T16:40:14.673094+00:00"
 ---
 
 ## 문제

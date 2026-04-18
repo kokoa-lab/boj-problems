@@ -1,13 +1,13 @@
 ---
-title: 일해라, 류트!
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "일해라, 류트!"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 84
 accepted: 27
 solved_users: 21
-acceptance_rate: 38.889%
-collected_at: 2026-04-17T14:25:11.809851+00:00
+acceptance_rate: "38.889%"
+collected_at: "2026-04-17T14:25:11.809851+00:00"
 ---
 
 ## 문제

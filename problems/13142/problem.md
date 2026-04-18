@@ -1,13 +1,13 @@
 ---
-title: Jolly Jelly Jiffy
-special_judge: true
-time_limit: 2 초
-memory_limit: 256 MB
+title: "Jolly Jelly Jiffy"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 70
 accepted: 24
 solved_users: 22
-acceptance_rate: 36.667%
-collected_at: 2026-04-17T13:08:00.863313+00:00
+acceptance_rate: "36.667%"
+collected_at: "2026-04-17T13:08:00.863313+00:00"
 ---
 
 ## 문제

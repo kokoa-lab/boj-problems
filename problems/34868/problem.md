@@ -1,13 +1,13 @@
 ---
-title: Magic Door
-special_judge: false
-time_limit: 0.5 초
-memory_limit: 2048 MB
+title: "Magic Door"
+special_judge: "false"
+time_limit: "0.5 초"
+memory_limit: "2048 MB"
 submissions: 139
 accepted: 80
 solved_users: 63
-acceptance_rate: 55.263%
-collected_at: 2026-04-17T20:50:56.075657+00:00
+acceptance_rate: "55.263%"
+collected_at: "2026-04-17T20:50:56.075657+00:00"
 ---
 
 ## 문제

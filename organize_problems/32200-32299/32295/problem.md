@@ -1,13 +1,13 @@
 ---
-title: 잘못 생성된 데이터
-special_judge: false
-time_limit: 5 초
-memory_limit: 1024 MB
+title: "잘못 생성된 데이터"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "1024 MB"
 submissions: 76
 accepted: 44
 solved_users: 32
-acceptance_rate: 59.259%
-collected_at: 2026-04-17T19:48:15.873784+00:00
+acceptance_rate: "59.259%"
+collected_at: "2026-04-17T19:48:15.873784+00:00"
 ---
 
 ## 문제
@@ -16,7 +16,47 @@ collected_at: 2026-04-17T19:48:15.873784+00:00
 
 |  |
 | --- |
-| ```  # 클래스 node는 이진 트리의 노드를 구성합니다. # node는 클래스 변수로 L,R,Lc,Rc,x를 가집니다. # L,R은 왼쪽과 오른쪽 자식 노드를 가리키는 포인터 또는 인덱스입니다. # Lc와 Rc는 왼쪽과 오른쪽에 추가할 수 있는 리프 노드의 수를 나타냅니다. # 예를 들어 새로운 노드에 대해 Lc와 Rc는 기본적으로 1입니다. # x는 노드가 저장하는 정수 값입니다.  def makenode(a):   return ("'x=a인 새로운 node의 포인터 또는 인덱스"')  def insert(rt,a):   while True:     range = rt.Lc+rt.Rc     v = ("'0 이상 range 미만의 무작위 정수"')     if v < rt.Lc: # 라인 A       rt.Lc += 1       if rt.Lc == 2:         rt.L = makenode(a)         return       rt = ("'rt.L이 가리키는 node"')     else:       rt.Rc += 1       if rt.Rc == 2:         rt.R = makenode(a)         return       rt = ("'rt.R이 가리키는 node"')  def inorder(rt):   if rt.Lc > 1:     inorder("'rt.L이 가리키는 node"')   print(rt.x)   if rt.Rc > 1:     inorder("'rt.R이 가리키는 node"')  # ... # 데이터를 생성하는 방법 root="'makenode(1)의 반환값이 가리키는 node"' for i in range(2,n+1):   insert(root,i) # 이제 inorder(root)의 출력은 무작위 순열이 됩니다. ``` |
+| ``` 
+ # 클래스 node는 이진 트리의 노드를 구성합니다.
+ # node는 클래스 변수로 L,R,Lc,Rc,x를 가집니다.
+ # L,R은 왼쪽과 오른쪽 자식 노드를 가리키는 포인터 또는 인덱스입니다.
+ # Lc와 Rc는 왼쪽과 오른쪽에 추가할 수 있는 리프 노드의 수를 나타냅니다.
+ # 예를 들어 새로운 노드에 대해 Lc와 Rc는 기본적으로 1입니다.
+ # x는 노드가 저장하는 정수 값입니다.
+ 
+ def makenode(a):
+   return ("'x=a인 새로운 node의 포인터 또는 인덱스"')
+ 
+ def insert(rt,a):
+   while True:
+     range = rt.Lc+rt.Rc
+     v = ("'0 이상 range 미만의 무작위 정수"')
+     if v < rt.Lc: # 라인 A
+       rt.Lc += 1
+       if rt.Lc == 2:
+         rt.L = makenode(a)
+         return
+       rt = ("'rt.L이 가리키는 node"')
+     else:
+       rt.Rc += 1
+       if rt.Rc == 2:
+         rt.R = makenode(a)
+         return
+       rt = ("'rt.R이 가리키는 node"')
+ 
+ def inorder(rt):
+   if rt.Lc > 1:
+     inorder("'rt.L이 가리키는 node"')
+   print(rt.x)
+   if rt.Rc > 1:
+     inorder("'rt.R이 가리키는 node"')
+ 
+ # ...
+ # 데이터를 생성하는 방법
+ root="'makenode(1)의 반환값이 가리키는 node"'
+ for i in range(2,n+1):
+   insert(root,i)
+ # 이제 inorder(root)의 출력은 무작위 순열이 됩니다. ``` |
 
 알고리즘을 실행하면 출력으로 $1,2,\cdots,n$의 순열을 무작위로 얻으며, $n!$가지 순열 각각은 얻을 확률이 동일합니다. 또한 이 알고리즘은 놀랍게도 $\mathcal{O}(n \log n)$이라는 평균 시간 복잡도를 가집니다.
 

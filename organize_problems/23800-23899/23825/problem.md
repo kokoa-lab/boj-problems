@@ -1,13 +1,13 @@
 ---
-title: SASA 모형을 만들어보자
-special_judge: false
-time_limit: 0.5 초
-memory_limit: 512 MB
+title: "SASA 모형을 만들어보자"
+special_judge: "false"
+time_limit: "0.5 초"
+memory_limit: "512 MB"
 submissions: 6201
 accepted: 4798
 solved_users: 4562
-acceptance_rate: 78.385%
-collected_at: 2026-04-17T16:54:48.568060+00:00
+acceptance_rate: "78.385%"
+collected_at: "2026-04-17T16:54:48.568060+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Teleportation
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Teleportation"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 2352
 accepted: 1402
 solved_users: 1297
-acceptance_rate: 59.825%
-collected_at: 2026-04-17T14:05:47.940283+00:00
+acceptance_rate: "59.825%"
+collected_at: "2026-04-17T14:05:47.940283+00:00"
 ---
 
 ## 문제

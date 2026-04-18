@@ -1,13 +1,13 @@
 ---
-title: Cantina of Babel
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "Cantina of Babel"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 86
 accepted: 48
 solved_users: 43
-acceptance_rate: 69.355%
-collected_at: 2026-04-17T12:36:16.638567+00:00
+acceptance_rate: "69.355%"
+collected_at: "2026-04-17T12:36:16.638567+00:00"
 ---
 
 ## 문제

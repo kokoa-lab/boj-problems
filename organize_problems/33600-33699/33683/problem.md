@@ -1,13 +1,13 @@
 ---
-title: CPC 문제 정렬 순서
-special_judge: true
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "CPC 문제 정렬 순서"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 239
 accepted: 56
 solved_users: 46
-acceptance_rate: 23.232%
-collected_at: 2026-04-17T20:21:32.412836+00:00
+acceptance_rate: "23.232%"
+collected_at: "2026-04-17T20:21:32.412836+00:00"
 ---
 
 ## 문제

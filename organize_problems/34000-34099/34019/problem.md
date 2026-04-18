@@ -1,13 +1,13 @@
 ---
-title: [G] Grounded Number
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "[G] Grounded Number"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 208
 accepted: 159
 solved_users: 128
-acceptance_rate: 78.528%
-collected_at: 2026-04-17T20:28:48.864269+00:00
+acceptance_rate: "78.528%"
+collected_at: "2026-04-17T20:28:48.864269+00:00"
 ---
 
 ## 문제

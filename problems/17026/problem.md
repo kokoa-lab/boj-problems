@@ -1,13 +1,13 @@
 ---
-title: Mountain View
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Mountain View"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 888
 accepted: 365
 solved_users: 311
-acceptance_rate: 39.821%
-collected_at: 2026-04-17T14:28:02.469253+00:00
+acceptance_rate: "39.821%"
+collected_at: "2026-04-17T14:28:02.469253+00:00"
 ---
 
 ## 문제

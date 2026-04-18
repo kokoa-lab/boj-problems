@@ -1,13 +1,13 @@
 ---
-title: Josh’s Double Bacon Deluxe
-special_judge: true
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Josh’s Double Bacon Deluxe"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 48
 accepted: 22
 solved_users: 18
-acceptance_rate: 46.154%
-collected_at: 2026-04-17T15:25:02.624760+00:00
+acceptance_rate: "46.154%"
+collected_at: "2026-04-17T15:25:02.624760+00:00"
 ---
 
 ## 문제

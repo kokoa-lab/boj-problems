@@ -1,13 +1,13 @@
 ---
-title: Power Grid
-special_judge: true
-time_limit: 5 초
-memory_limit: 2048 MB
+title: "Power Grid"
+special_judge: "true"
+time_limit: "5 초"
+memory_limit: "2048 MB"
 submissions: 7
 accepted: 1
 solved_users: 1
-acceptance_rate: 14.286%
-collected_at: 2026-04-17T20:58:54.487795+00:00
+acceptance_rate: "14.286%"
+collected_at: "2026-04-17T20:58:54.487795+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Daylight
-special_judge: false
-time_limit: 13 초
-memory_limit: 512 MB
+title: "Daylight"
+special_judge: "false"
+time_limit: "13 초"
+memory_limit: "512 MB"
 submissions: 24
 accepted: 7
 solved_users: 7
-acceptance_rate: 46.667%
-collected_at: 2026-04-17T15:06:34.642674+00:00
+acceptance_rate: "46.667%"
+collected_at: "2026-04-17T15:06:34.642674+00:00"
 ---
 
 ## 문제

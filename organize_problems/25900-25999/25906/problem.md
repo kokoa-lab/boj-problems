@@ -1,13 +1,13 @@
 ---
-title: 수렵의 시간이다!
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "수렵의 시간이다!"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 261
 accepted: 94
 solved_users: 81
-acceptance_rate: 38.942%
-collected_at: 2026-04-17T17:36:26.454330+00:00
+acceptance_rate: "38.942%"
+collected_at: "2026-04-17T17:36:26.454330+00:00"
 ---
 
 ## 문제

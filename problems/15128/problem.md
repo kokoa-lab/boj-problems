@@ -1,13 +1,13 @@
 ---
-title: Congruent Numbers
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Congruent Numbers"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 4379
 accepted: 1816
 solved_users: 1688
-acceptance_rate: 41.444%
-collected_at: 2026-04-17T13:51:53.307747+00:00
+acceptance_rate: "41.444%"
+collected_at: "2026-04-17T13:51:53.307747+00:00"
 ---
 
 ## 문제

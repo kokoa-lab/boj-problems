@@ -1,13 +1,13 @@
 ---
-title: Even Sum More Than Odd Sum
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Even Sum More Than Odd Sum"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 1350
 accepted: 946
 solved_users: 893
-acceptance_rate: 72.366%
-collected_at: 2026-04-17T11:12:32.625351+00:00
+acceptance_rate: "72.366%"
+collected_at: "2026-04-17T11:12:32.625351+00:00"
 ---
 
 ## 문제

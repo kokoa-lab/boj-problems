@@ -1,13 +1,13 @@
 ---
-title: Index Case
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Index Case"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 42
 accepted: 25
 solved_users: 24
-acceptance_rate: 61.538%
-collected_at: 2026-04-17T17:23:22.973598+00:00
+acceptance_rate: "61.538%"
+collected_at: "2026-04-17T17:23:22.973598+00:00"
 ---
 
 ## 문제

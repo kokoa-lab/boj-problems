@@ -1,13 +1,13 @@
 ---
-title: 조용히 하라고!!
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "조용히 하라고!!"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 676
 accepted: 144
 solved_users: 118
-acceptance_rate: 21.455%
-collected_at: 2026-04-17T19:35:37.158078+00:00
+acceptance_rate: "21.455%"
+collected_at: "2026-04-17T19:35:37.158078+00:00"
 ---
 
 ## 문제

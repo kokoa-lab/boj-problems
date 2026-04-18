@@ -1,13 +1,13 @@
 ---
-title: $f(A + B)$
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "$f(A + B)$"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 395
 accepted: 294
 solved_users: 271
-acceptance_rate: 75.069%
-collected_at: 2026-04-17T20:00:21.882452+00:00
+acceptance_rate: "75.069%"
+collected_at: "2026-04-17T20:00:21.882452+00:00"
 ---
 
 ## 문제

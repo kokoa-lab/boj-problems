@@ -1,13 +1,13 @@
 ---
-title: Ice cream samples
-special_judge: false
-time_limit: 3 초
-memory_limit: 512 MB
+title: "Ice cream samples"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "512 MB"
 submissions: 39
 accepted: 15
 solved_users: 15
-acceptance_rate: 55.556%
-collected_at: 2026-04-17T13:47:35.018629+00:00
+acceptance_rate: "55.556%"
+collected_at: "2026-04-17T13:47:35.018629+00:00"
 ---
 
 ## 문제

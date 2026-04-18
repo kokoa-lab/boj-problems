@@ -1,13 +1,13 @@
 ---
-title: Jelly Raid
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Jelly Raid"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 41
 accepted: 20
 solved_users: 15
-acceptance_rate: 44.118%
-collected_at: 2026-04-17T12:41:24.393504+00:00
+acceptance_rate: "44.118%"
+collected_at: "2026-04-17T12:41:24.393504+00:00"
 ---
 
 ## 문제

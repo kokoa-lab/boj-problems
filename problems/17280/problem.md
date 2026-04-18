@@ -1,13 +1,13 @@
 ---
-title: 카풀 매칭
-special_judge: false
-time_limit: 3 초
-memory_limit: 512 MB
+title: "카풀 매칭"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "512 MB"
 submissions: 500
 accepted: 133
 solved_users: 105
-acceptance_rate: 34.091%
-collected_at: 2026-04-17T14:36:11.438193+00:00
+acceptance_rate: "34.091%"
+collected_at: "2026-04-17T14:36:11.438193+00:00"
 ---
 
 ## 문제

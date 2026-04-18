@@ -1,13 +1,13 @@
 ---
-title: 파산하는 왕국
-special_judge: false
-time_limit: 5 초
-memory_limit: 128 MB
+title: "파산하는 왕국"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "128 MB"
 submissions: 854
 accepted: 216
 solved_users: 142
-acceptance_rate: 25.000%
-collected_at: 2026-04-17T10:48:39.692259+00:00
+acceptance_rate: "25.000%"
+collected_at: "2026-04-17T10:48:39.692259+00:00"
 ---
 
 ## 문제

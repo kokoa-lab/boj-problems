@@ -1,13 +1,13 @@
 ---
-title: Merge Not Sort
-special_judge: true
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Merge Not Sort"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 106
 accepted: 62
 solved_users: 54
-acceptance_rate: 55.670%
-collected_at: 2026-04-17T19:42:21.517506+00:00
+acceptance_rate: "55.670%"
+collected_at: "2026-04-17T19:42:21.517506+00:00"
 ---
 
 ## 문제

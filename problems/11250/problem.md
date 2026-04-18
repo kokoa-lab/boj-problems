@@ -1,13 +1,13 @@
 ---
-title: Design A Tree
-special_judge: false
-time_limit: 3 초
-memory_limit: 256 MB
+title: "Design A Tree"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "256 MB"
 submissions: 66
 accepted: 27
 solved_users: 22
-acceptance_rate: 53.659%
-collected_at: 2026-04-17T12:38:39.765865+00:00
+acceptance_rate: "53.659%"
+collected_at: "2026-04-17T12:38:39.765865+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Kitchen Knobs
-special_judge: false
-time_limit: 3 초
-memory_limit: 512 MB
+title: "Kitchen Knobs"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "512 MB"
 submissions: 166
 accepted: 41
 solved_users: 39
-acceptance_rate: 29.771%
-collected_at: 2026-04-17T13:56:17.302847+00:00
+acceptance_rate: "29.771%"
+collected_at: "2026-04-17T13:56:17.302847+00:00"
 ---
 
 ## 문제

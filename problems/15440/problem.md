@@ -1,13 +1,13 @@
 ---
-title: Vera And LCS
-special_judge: true
-time_limit: 2 초
-memory_limit: 256 MB
+title: "Vera And LCS"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 92
 accepted: 40
 solved_users: 38
-acceptance_rate: 55.882%
-collected_at: 2026-04-17T13:59:21.418227+00:00
+acceptance_rate: "55.882%"
+collected_at: "2026-04-17T13:59:21.418227+00:00"
 ---
 
 ## 문제

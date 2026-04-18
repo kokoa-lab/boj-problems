@@ -1,13 +1,13 @@
 ---
-title: 상자 만들기
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "상자 만들기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 1265
 accepted: 644
 solved_users: 584
-acceptance_rate: 51.957%
-collected_at: 2026-04-17T11:49:49.367793+00:00
+acceptance_rate: "51.957%"
+collected_at: "2026-04-17T11:49:49.367793+00:00"
 ---
 
 ## 문제

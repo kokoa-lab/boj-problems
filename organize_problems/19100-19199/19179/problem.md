@@ -1,13 +1,13 @@
 ---
-title: Ladder
-special_judge: false
-time_limit: 2 초
-memory_limit: 64 MB
+title: "Ladder"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "64 MB"
 submissions: 124
 accepted: 64
 solved_users: 26
-acceptance_rate: 37.143%
-collected_at: 2026-04-17T15:14:39.242314+00:00
+acceptance_rate: "37.143%"
+collected_at: "2026-04-17T15:14:39.242314+00:00"
 ---
 
 ## 문제

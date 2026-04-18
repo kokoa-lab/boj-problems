@@ -1,13 +1,13 @@
 ---
-title: 개꿀잼
-special_judge: false
-time_limit: 2 초
-memory_limit: 32 MB
+title: "개꿀잼"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "32 MB"
 submissions: 64
 accepted: 17
 solved_users: 14
-acceptance_rate: 45.161%
-collected_at: 2026-04-17T11:52:14.031815+00:00
+acceptance_rate: "45.161%"
+collected_at: "2026-04-17T11:52:14.031815+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 철벽 보안 알고리즘
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "철벽 보안 알고리즘"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 2661
 accepted: 1841
 solved_users: 1484
-acceptance_rate: 71.380%
-collected_at: 2026-04-17T12:08:52.724022+00:00
+acceptance_rate: "71.380%"
+collected_at: "2026-04-17T12:08:52.724022+00:00"
 ---
 
 ## 문제

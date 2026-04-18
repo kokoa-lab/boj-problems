@@ -1,13 +1,13 @@
 ---
-title: The Bessie Shuffle
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "The Bessie Shuffle"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 153
 accepted: 46
 solved_users: 32
-acceptance_rate: 31.068%
-collected_at: 2026-04-17T12:15:46.106082+00:00
+acceptance_rate: "31.068%"
+collected_at: "2026-04-17T12:15:46.106082+00:00"
 ---
 
 ## 문제

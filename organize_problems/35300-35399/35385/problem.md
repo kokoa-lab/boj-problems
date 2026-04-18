@@ -1,13 +1,13 @@
 ---
-title: Archery
-special_judge: false
-time_limit: 2 초
-memory_limit: 2048 MB
+title: "Archery"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "2048 MB"
 submissions: 11
 accepted: 6
 solved_users: 5
-acceptance_rate: 50.000%
-collected_at: 2026-04-18T09:51:50.007144+00:00
+acceptance_rate: "50.000%"
+collected_at: "2026-04-18T09:51:50.007144+00:00"
 ---
 
 ## 문제

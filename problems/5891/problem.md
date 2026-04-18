@@ -1,13 +1,13 @@
 ---
-title: Flowerpot
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Flowerpot"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 231
 accepted: 94
 solved_users: 75
-acceptance_rate: 39.062%
-collected_at: 2026-04-17T11:18:20.986856+00:00
+acceptance_rate: "39.062%"
+collected_at: "2026-04-17T11:18:20.986856+00:00"
 ---
 
 ## 문제

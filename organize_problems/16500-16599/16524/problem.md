@@ -1,13 +1,13 @@
 ---
-title: Database of Clients
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Database of Clients"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 219
 accepted: 185
 solved_users: 156
-acceptance_rate: 86.667%
-collected_at: 2026-04-17T14:19:29.956077+00:00
+acceptance_rate: "86.667%"
+collected_at: "2026-04-17T14:19:29.956077+00:00"
 ---
 
 ## 문제

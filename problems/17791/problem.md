@@ -1,13 +1,13 @@
 ---
-title: Jazz it Up!
-special_judge: true
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Jazz it Up!"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 302
 accepted: 195
 solved_users: 170
-acceptance_rate: 66.667%
-collected_at: 2026-04-17T14:47:18.364706+00:00
+acceptance_rate: "66.667%"
+collected_at: "2026-04-17T14:47:18.364706+00:00"
 ---
 
 ## 문제

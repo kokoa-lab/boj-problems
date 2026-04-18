@@ -1,13 +1,13 @@
 ---
-title: 타일 장식물
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "타일 장식물"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 16326
 accepted: 8278
 solved_users: 7106
-acceptance_rate: 52.055%
-collected_at: 2026-04-17T13:11:11.575155+00:00
+acceptance_rate: "52.055%"
+collected_at: "2026-04-17T13:11:11.575155+00:00"
 ---
 
 ## 문제

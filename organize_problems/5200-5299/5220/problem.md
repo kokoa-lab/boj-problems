@@ -1,13 +1,13 @@
 ---
-title: Error Detection
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Error Detection"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 907
 accepted: 728
 solved_users: 661
-acceptance_rate: 81.304%
-collected_at: 2026-04-17T11:12:23.408884+00:00
+acceptance_rate: "81.304%"
+collected_at: "2026-04-17T11:12:23.408884+00:00"
 ---
 
 ## 문제

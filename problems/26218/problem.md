@@ -1,13 +1,13 @@
 ---
-title: 생산 시스템 관리
-special_judge: true
-time_limit: 1 초
-memory_limit: 512 MB
+title: "생산 시스템 관리"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 246
 accepted: 98
 solved_users: 87
-acceptance_rate: 46.524%
-collected_at: 2026-04-17T17:42:01.326886+00:00
+acceptance_rate: "46.524%"
+collected_at: "2026-04-17T17:42:01.326886+00:00"
 ---
 
 ## 문제

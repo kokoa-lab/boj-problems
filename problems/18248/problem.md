@@ -1,13 +1,13 @@
 ---
-title: 제야의 종
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "제야의 종"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 1309
 accepted: 481
 solved_users: 397
-acceptance_rate: 41.397%
-collected_at: 2026-04-17T14:57:57.378142+00:00
+acceptance_rate: "41.397%"
+collected_at: "2026-04-17T14:57:57.378142+00:00"
 ---
 
 ## 문제

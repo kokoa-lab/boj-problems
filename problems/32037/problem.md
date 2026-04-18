@@ -1,13 +1,13 @@
 ---
-title: 아인타, 빈타, 그리고 씬타
-special_judge: true
-time_limit: 1.5 초
-memory_limit: 1024 MB
+title: "아인타, 빈타, 그리고 씬타"
+special_judge: "true"
+time_limit: "1.5 초"
+memory_limit: "1024 MB"
 submissions: 19
 accepted: 6
 solved_users: 6
-acceptance_rate: 40.000%
-collected_at: 2026-04-17T19:41:21.401025+00:00
+acceptance_rate: "40.000%"
+collected_at: "2026-04-17T19:41:21.401025+00:00"
 ---
 
 ## 문제

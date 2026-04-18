@@ -1,13 +1,13 @@
 ---
-title: Two Charts Become One
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Two Charts Become One"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 54
 accepted: 20
 solved_users: 19
-acceptance_rate: 38.000%
-collected_at: 2026-04-17T18:07:47.052041+00:00
+acceptance_rate: "38.000%"
+collected_at: "2026-04-17T18:07:47.052041+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Cash Cow
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Cash Cow"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 115
 accepted: 52
 solved_users: 42
-acceptance_rate: 42.857%
-collected_at: 2026-04-17T12:09:52.243090+00:00
+acceptance_rate: "42.857%"
+collected_at: "2026-04-17T12:09:52.243090+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Polynesiaglot (Large)
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Polynesiaglot (Large)"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 204
 accepted: 154
 solved_users: 140
-acceptance_rate: 74.866%
-collected_at: 2026-04-17T12:49:11.574830+00:00
+acceptance_rate: "74.866%"
+collected_at: "2026-04-17T12:49:11.574830+00:00"
 ---
 
 ## 문제

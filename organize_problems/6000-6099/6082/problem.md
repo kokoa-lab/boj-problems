@@ -1,13 +1,13 @@
 ---
-title: Earthquake Damage
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Earthquake Damage"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 105
 accepted: 56
 solved_users: 42
-acceptance_rate: 55.263%
-collected_at: 2026-04-17T11:20:00.222152+00:00
+acceptance_rate: "55.263%"
+collected_at: "2026-04-17T11:20:00.222152+00:00"
 ---
 
 ## 문제

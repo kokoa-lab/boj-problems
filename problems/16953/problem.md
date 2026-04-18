@@ -1,13 +1,13 @@
 ---
-title: A → B
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "A → B"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 79971
 accepted: 33881
 solved_users: 26657
-acceptance_rate: 40.667%
-collected_at: 2026-04-17T14:26:46.051313+00:00
+acceptance_rate: "40.667%"
+collected_at: "2026-04-17T14:26:46.051313+00:00"
 ---
 
 ## 문제

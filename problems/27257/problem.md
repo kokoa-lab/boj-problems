@@ -1,13 +1,13 @@
 ---
-title: Любитель нулей
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Любитель нулей"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 1376
 accepted: 863
 solved_users: 794
-acceptance_rate: 63.016%
-collected_at: 2026-04-17T17:59:12.808309+00:00
+acceptance_rate: "63.016%"
+collected_at: "2026-04-17T17:59:12.808309+00:00"
 ---
 
 ## 문제

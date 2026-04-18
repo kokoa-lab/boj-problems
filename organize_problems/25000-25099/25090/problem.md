@@ -1,13 +1,13 @@
 ---
-title: d1000000
-special_judge: false
-time_limit: 서브태스크 참고 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "d1000000"
+special_judge: "false"
+time_limit: "서브태스크 참고 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 209
 accepted: 184
 solved_users: 143
-acceptance_rate: 88.820%
-collected_at: 2026-04-17T17:20:31.915697+00:00
+acceptance_rate: "88.820%"
+collected_at: "2026-04-17T17:20:31.915697+00:00"
 ---
 
 ## 문제

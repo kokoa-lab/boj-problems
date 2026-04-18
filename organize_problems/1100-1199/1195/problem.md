@@ -1,13 +1,13 @@
 ---
-title: 킥다운
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "킥다운"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 3317
 accepted: 1058
 solved_users: 870
-acceptance_rate: 33.734%
-collected_at: 2026-04-17T10:28:45.812210+00:00
+acceptance_rate: "33.734%"
+collected_at: "2026-04-17T10:28:45.812210+00:00"
 ---
 
 ## 문제

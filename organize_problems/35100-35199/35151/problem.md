@@ -1,13 +1,13 @@
 ---
-title: 포켓몬 마스터 이민재
-special_judge: true
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "포켓몬 마스터 이민재"
+special_judge: "true"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 78
 accepted: 34
 solved_users: 33
-acceptance_rate: 55.000%
-collected_at: 2026-04-17T20:56:50.522848+00:00
+acceptance_rate: "55.000%"
+collected_at: "2026-04-17T20:56:50.522848+00:00"
 ---
 
 ## 문제

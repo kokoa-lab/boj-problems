@@ -1,13 +1,13 @@
 ---
-title: Ducks and Sharks
-special_judge: false
-time_limit: 2 초
-memory_limit: 2048 MB
+title: "Ducks and Sharks"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "2048 MB"
 submissions: 117
 accepted: 46
 solved_users: 32
-acceptance_rate: 32.000%
-collected_at: 2026-04-17T20:12:02.213939+00:00
+acceptance_rate: "32.000%"
+collected_at: "2026-04-17T20:12:02.213939+00:00"
 ---
 
 ## 문제

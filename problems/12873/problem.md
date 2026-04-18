@@ -1,13 +1,13 @@
 ---
-title: 기념품
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "기념품"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 4580
 accepted: 1636
 solved_users: 1305
-acceptance_rate: 36.100%
-collected_at: 2026-04-17T13:02:58.619155+00:00
+acceptance_rate: "36.100%"
+collected_at: "2026-04-17T13:02:58.619155+00:00"
 ---
 
 ## 문제

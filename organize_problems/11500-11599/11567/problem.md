@@ -1,13 +1,13 @@
 ---
-title: 선진이의 겨울 왕국
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "선진이의 겨울 왕국"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 1108
 accepted: 322
 solved_users: 256
-acceptance_rate: 32.611%
-collected_at: 2026-04-17T12:42:16.172783+00:00
+acceptance_rate: "32.611%"
+collected_at: "2026-04-17T12:42:16.172783+00:00"
 ---
 
 ## 문제

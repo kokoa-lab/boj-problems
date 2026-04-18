@@ -1,13 +1,13 @@
 ---
-title: Монотонная подпоследовательность
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Монотонная подпоследовательность"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 47
 accepted: 24
 solved_users: 21
-acceptance_rate: 47.727%
-collected_at: 2026-04-17T17:59:00.862060+00:00
+acceptance_rate: "47.727%"
+collected_at: "2026-04-17T17:59:00.862060+00:00"
 ---
 
 ## 문제

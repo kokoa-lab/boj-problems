@@ -1,13 +1,13 @@
 ---
-title: Min-hashing
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Min-hashing"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 82
 accepted: 49
 solved_users: 42
-acceptance_rate: 65.625%
-collected_at: 2026-04-17T15:30:40.528578+00:00
+acceptance_rate: "65.625%"
+collected_at: "2026-04-17T15:30:40.528578+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Gas Station
-special_judge: false
-time_limit: 3 초
-memory_limit: 2048 MB
+title: "Gas Station"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "2048 MB"
 submissions: 84
 accepted: 49
 solved_users: 39
-acceptance_rate: 53.425%
-collected_at: 2026-04-17T20:43:30.963679+00:00
+acceptance_rate: "53.425%"
+collected_at: "2026-04-17T20:43:30.963679+00:00"
 ---
 
 ## 문제

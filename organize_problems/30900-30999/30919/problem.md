@@ -1,13 +1,13 @@
 ---
-title: 짧은 코드로 빠르게 많은 소수 세기
-special_judge: false
-time_limit: 5 초
-memory_limit: 1024 MB
+title: "짧은 코드로 빠르게 많은 소수 세기"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "1024 MB"
 submissions: 535
 accepted: 131
 solved_users: 63
-acceptance_rate: 26.582%
-collected_at: 2026-04-17T19:18:03.656095+00:00
+acceptance_rate: "26.582%"
+collected_at: "2026-04-17T19:18:03.656095+00:00"
 ---
 
 ## 입력

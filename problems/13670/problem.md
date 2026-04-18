@@ -1,13 +1,13 @@
 ---
-title: Alarme Despertador
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Alarme Despertador"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 331
 accepted: 282
 solved_users: 259
-acceptance_rate: 87.797%
-collected_at: 2026-04-17T13:16:58.371633+00:00
+acceptance_rate: "87.797%"
+collected_at: "2026-04-17T13:16:58.371633+00:00"
 ---
 
 ## 문제

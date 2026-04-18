@@ -1,13 +1,13 @@
 ---
-title: Largest Area
-special_judge: true
-time_limit: 1 초
-memory_limit: 2048 MB
+title: "Largest Area"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "2048 MB"
 submissions: 27
 accepted: 25
 solved_users: 24
-acceptance_rate: 92.308%
-collected_at: 2026-04-17T20:53:52.415096+00:00
+acceptance_rate: "92.308%"
+collected_at: "2026-04-17T20:53:52.415096+00:00"
 ---
 
 ## 문제

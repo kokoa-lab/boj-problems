@@ -1,13 +1,13 @@
 ---
-title: 주식왕 동호
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "주식왕 동호"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 1407
 accepted: 356
 solved_users: 243
-acceptance_rate: 31.114%
-collected_at: 2026-04-17T10:28:58.662278+00:00
+acceptance_rate: "31.114%"
+collected_at: "2026-04-17T10:28:58.662278+00:00"
 ---
 
 ## 문제

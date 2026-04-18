@@ -1,13 +1,13 @@
 ---
-title: Соседние цвета
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Соседние цвета"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 46
 accepted: 30
 solved_users: 25
-acceptance_rate: 60.976%
-collected_at: 2026-04-17T17:58:33.914253+00:00
+acceptance_rate: "60.976%"
+collected_at: "2026-04-17T17:58:33.914253+00:00"
 ---
 
 ## 문제

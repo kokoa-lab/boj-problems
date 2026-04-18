@@ -1,13 +1,13 @@
 ---
-title: Happy Cow
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Happy Cow"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 364
 accepted: 198
 solved_users: 157
-acceptance_rate: 56.475%
-collected_at: 2026-04-17T13:05:45.305740+00:00
+acceptance_rate: "56.475%"
+collected_at: "2026-04-17T13:05:45.305740+00:00"
 ---
 
 ## 문제

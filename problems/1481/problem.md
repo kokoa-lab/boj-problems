@@ -1,13 +1,13 @@
 ---
-title: 숌 사각형
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "숌 사각형"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 175
 accepted: 77
 solved_users: 66
-acceptance_rate: 64.078%
-collected_at: 2026-04-17T10:30:29.751691+00:00
+acceptance_rate: "64.078%"
+collected_at: "2026-04-17T10:30:29.751691+00:00"
 ---
 
 ## 문제

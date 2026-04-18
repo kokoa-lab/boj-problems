@@ -1,13 +1,13 @@
 ---
-title: Brightline - Back to the Future
-special_judge: false
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Brightline - Back to the Future"
+special_judge: "false"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 119
 accepted: 75
 solved_users: 53
-acceptance_rate: 63.855%
-collected_at: 2026-04-17T19:01:06.853531+00:00
+acceptance_rate: "63.855%"
+collected_at: "2026-04-17T19:01:06.853531+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Lots of Land
-special_judge: true
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Lots of Land"
+special_judge: "true"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 95
 accepted: 53
 solved_users: 52
-acceptance_rate: 58.427%
-collected_at: 2026-04-17T17:38:50.387702+00:00
+acceptance_rate: "58.427%"
+collected_at: "2026-04-17T17:38:50.387702+00:00"
 ---
 
 ## 문제

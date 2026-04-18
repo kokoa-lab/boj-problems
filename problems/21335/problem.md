@@ -1,13 +1,13 @@
 ---
-title: Another Eruption
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Another Eruption"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 1957
 accepted: 1549
 solved_users: 1423
-acceptance_rate: 82.733%
-collected_at: 2026-04-17T15:56:19.675773+00:00
+acceptance_rate: "82.733%"
+collected_at: "2026-04-17T15:56:19.675773+00:00"
 ---
 
 ## 문제

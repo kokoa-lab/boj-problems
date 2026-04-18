@@ -1,13 +1,13 @@
 ---
-title: Palindrome Game
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Palindrome Game"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 500
 accepted: 288
 solved_users: 257
-acceptance_rate: 58.945%
-collected_at: 2026-04-17T19:33:02.804999+00:00
+acceptance_rate: "58.945%"
+collected_at: "2026-04-17T19:33:02.804999+00:00"
 ---
 
 ## 문제

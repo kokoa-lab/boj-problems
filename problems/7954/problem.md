@@ -1,13 +1,13 @@
 ---
-title: Liczby Erdösa
-special_judge: false
-time_limit: 5 초
-memory_limit: 128 MB
+title: "Liczby Erdösa"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "128 MB"
 submissions: 14
 accepted: 6
 solved_users: 2
-acceptance_rate: 33.333%
-collected_at: 2026-04-17T11:54:36.089936+00:00
+acceptance_rate: "33.333%"
+collected_at: "2026-04-17T11:54:36.089936+00:00"
 ---
 
 ## 문제

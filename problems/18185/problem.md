@@ -1,13 +1,13 @@
 ---
-title: 라면 사기 (Small)
-special_judge: false
-time_limit: 0.5 초 (추가 시간 없음)
-memory_limit: 32 MB
+title: "라면 사기 (Small)"
+special_judge: "false"
+time_limit: "0.5 초 (추가 시간 없음)"
+memory_limit: "32 MB"
 submissions: 15131
 accepted: 4142
 solved_users: 3306
-acceptance_rate: 32.094%
-collected_at: 2026-04-17T14:56:55.792332+00:00
+acceptance_rate: "32.094%"
+collected_at: "2026-04-17T14:56:55.792332+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Bitwise Expressions
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Bitwise Expressions"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 18
 accepted: 10
 solved_users: 10
-acceptance_rate: 58.824%
-collected_at: 2026-04-17T10:48:28.209727+00:00
+acceptance_rate: "58.824%"
+collected_at: "2026-04-17T10:48:28.209727+00:00"
 ---
 
 ## 문제

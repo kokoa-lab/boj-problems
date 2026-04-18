@@ -1,13 +1,13 @@
 ---
-title: A Day at the Races
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "A Day at the Races"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 68
 accepted: 15
 solved_users: 13
-acceptance_rate: 20.312%
-collected_at: 2026-04-17T11:09:56.559468+00:00
+acceptance_rate: "20.312%"
+collected_at: "2026-04-17T11:09:56.559468+00:00"
 ---
 
 ## 문제

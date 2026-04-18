@@ -1,13 +1,13 @@
 ---
-title: 부등호 퍼즐
-special_judge: true
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "부등호 퍼즐"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 262
 accepted: 190
 solved_users: 144
-acceptance_rate: 71.287%
-collected_at: 2026-04-17T19:37:46.974733+00:00
+acceptance_rate: "71.287%"
+collected_at: "2026-04-17T19:37:46.974733+00:00"
 ---
 
 ## 문제

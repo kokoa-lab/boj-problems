@@ -1,13 +1,13 @@
 ---
-title: 반직선
-special_judge: true
-time_limit: 2 초
-memory_limit: 128 MB
+title: "반직선"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 62
 accepted: 9
 solved_users: 7
-acceptance_rate: 17.073%
-collected_at: 2026-04-17T10:37:43.838675+00:00
+acceptance_rate: "17.073%"
+collected_at: "2026-04-17T10:37:43.838675+00:00"
 ---
 
 ## 문제

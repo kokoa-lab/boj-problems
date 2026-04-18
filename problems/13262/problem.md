@@ -1,13 +1,13 @@
 ---
-title: 수열의 OR 점수
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "수열의 OR 점수"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 957
 accepted: 366
 solved_users: 245
-acceptance_rate: 36.082%
-collected_at: 2026-04-17T13:10:23.138711+00:00
+acceptance_rate: "36.082%"
+collected_at: "2026-04-17T13:10:23.138711+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 기초 나머지 계산
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "기초 나머지 계산"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 863
 accepted: 417
 solved_users: 375
-acceptance_rate: 50.744%
-collected_at: 2026-04-17T10:59:34.142701+00:00
+acceptance_rate: "50.744%"
+collected_at: "2026-04-17T10:59:34.142701+00:00"
 ---
 
 ## 문제

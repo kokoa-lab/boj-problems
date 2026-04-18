@@ -1,13 +1,13 @@
 ---
-title: Turnering
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Turnering"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 99
 accepted: 72
 solved_users: 63
-acceptance_rate: 74.118%
-collected_at: 2026-04-17T17:53:46.664049+00:00
+acceptance_rate: "74.118%"
+collected_at: "2026-04-17T17:53:46.664049+00:00"
 ---
 
 ## 문제

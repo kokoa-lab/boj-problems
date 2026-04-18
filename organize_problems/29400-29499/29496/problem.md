@@ -1,13 +1,13 @@
 ---
-title: Ахроматическое число графа
-special_judge: true
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Ахроматическое число графа"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 16
 accepted: 3
 solved_users: 3
-acceptance_rate: 23.077%
-collected_at: 2026-04-17T18:45:51.013334+00:00
+acceptance_rate: "23.077%"
+collected_at: "2026-04-17T18:45:51.013334+00:00"
 ---
 
 ## 문제

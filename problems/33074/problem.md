@@ -1,13 +1,13 @@
 ---
-title: SSHS 프로토콜
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "SSHS 프로토콜"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 148
 accepted: 52
 solved_users: 36
-acceptance_rate: 31.858%
-collected_at: 2026-04-17T20:08:47.569390+00:00
+acceptance_rate: "31.858%"
+collected_at: "2026-04-17T20:08:47.569390+00:00"
 ---
 
 ## 문제

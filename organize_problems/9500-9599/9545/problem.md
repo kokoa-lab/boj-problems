@@ -1,13 +1,13 @@
 ---
-title: 폭탄 받아라
-special_judge: true
-time_limit: 2 초
-memory_limit: 128 MB
+title: "폭탄 받아라"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 208
 accepted: 72
 solved_users: 66
-acceptance_rate: 35.294%
-collected_at: 2026-04-17T12:11:06.007236+00:00
+acceptance_rate: "35.294%"
+collected_at: "2026-04-17T12:11:06.007236+00:00"
 ---
 
 ## 문제

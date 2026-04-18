@@ -1,13 +1,13 @@
 ---
-title: 케이크 커팅
-special_judge: true
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "케이크 커팅"
+special_judge: "true"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 158
 accepted: 28
 solved_users: 20
-acceptance_rate: 15.504%
-collected_at: 2026-04-17T15:23:18.491074+00:00
+acceptance_rate: "15.504%"
+collected_at: "2026-04-17T15:23:18.491074+00:00"
 ---
 
 ## 문제

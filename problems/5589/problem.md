@@ -1,13 +1,13 @@
 ---
-title: おせんべい
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "おせんべい"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 90
 accepted: 75
 solved_users: 64
-acceptance_rate: 83.117%
-collected_at: 2026-04-17T11:15:46.359629+00:00
+acceptance_rate: "83.117%"
+collected_at: "2026-04-17T11:15:46.359629+00:00"
 ---
 
 ## 문제

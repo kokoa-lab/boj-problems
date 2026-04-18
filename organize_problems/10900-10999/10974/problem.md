@@ -1,13 +1,13 @@
 ---
-title: 모든 순열
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "모든 순열"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 36779
 accepted: 24409
 solved_users: 18695
-acceptance_rate: 67.193%
-collected_at: 2026-04-17T12:34:07.252478+00:00
+acceptance_rate: "67.193%"
+collected_at: "2026-04-17T12:34:07.252478+00:00"
 ---
 
 ## 문제

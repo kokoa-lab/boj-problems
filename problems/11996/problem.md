@@ -1,13 +1,13 @@
 ---
-title: Circular Barn (Silver)
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Circular Barn (Silver)"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 496
 accepted: 251
 solved_users: 208
-acceptance_rate: 56.522%
-collected_at: 2026-04-17T12:48:44.038640+00:00
+acceptance_rate: "56.522%"
+collected_at: "2026-04-17T12:48:44.038640+00:00"
 ---
 
 ## 문제

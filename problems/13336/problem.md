@@ -1,13 +1,13 @@
 ---
-title: 카르테시안 트리
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "카르테시안 트리"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 42
 accepted: 10
 solved_users: 9
-acceptance_rate: 64.286%
-collected_at: 2026-04-17T13:11:41.788565+00:00
+acceptance_rate: "64.286%"
+collected_at: "2026-04-17T13:11:41.788565+00:00"
 ---
 
 ## 문제

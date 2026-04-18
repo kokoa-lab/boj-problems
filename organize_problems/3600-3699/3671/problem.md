@@ -1,13 +1,13 @@
 ---
-title: 산업 스파이의 편지
-special_judge: false
-time_limit: 1.5 초
-memory_limit: 128 MB
+title: "산업 스파이의 편지"
+special_judge: "false"
+time_limit: "1.5 초"
+memory_limit: "128 MB"
 submissions: 2138
 accepted: 1112
 solved_users: 818
-acceptance_rate: 52.571%
-collected_at: 2026-04-17T10:50:50.337352+00:00
+acceptance_rate: "52.571%"
+collected_at: "2026-04-17T10:50:50.337352+00:00"
 ---
 
 ## 문제

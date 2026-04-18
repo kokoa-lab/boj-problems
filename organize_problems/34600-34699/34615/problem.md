@@ -1,13 +1,13 @@
 ---
-title: Bombončići
-special_judge: false
-time_limit: 5 초
-memory_limit: 2048 MB
+title: "Bombončići"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "2048 MB"
 submissions: 11
 accepted: 3
 solved_users: 2
-acceptance_rate: 22.222%
-collected_at: 2026-04-17T20:44:10.256527+00:00
+acceptance_rate: "22.222%"
+collected_at: "2026-04-17T20:44:10.256527+00:00"
 ---
 
 ## 문제

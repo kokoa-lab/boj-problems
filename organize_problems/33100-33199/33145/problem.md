@@ -1,13 +1,13 @@
 ---
-title: Kool Strings
-special_judge: true
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 2048 MB
+title: "Kool Strings"
+special_judge: "true"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "2048 MB"
 submissions: 57
 accepted: 40
 solved_users: 36
-acceptance_rate: 75.000%
-collected_at: 2026-04-17T20:10:10.258493+00:00
+acceptance_rate: "75.000%"
+collected_at: "2026-04-17T20:10:10.258493+00:00"
 ---
 
 ## 문제

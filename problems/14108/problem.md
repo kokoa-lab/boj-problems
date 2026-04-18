@@ -1,13 +1,13 @@
 ---
-title: Umnozak
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Umnozak"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 60
 accepted: 31
 solved_users: 25
-acceptance_rate: 47.170%
-collected_at: 2026-04-17T13:26:04.401167+00:00
+acceptance_rate: "47.170%"
+collected_at: "2026-04-17T13:26:04.401167+00:00"
 ---
 
 ## 문제

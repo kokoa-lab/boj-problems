@@ -1,13 +1,13 @@
 ---
-title: Quake Live (Small2)
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Quake Live (Small2)"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 76
 accepted: 58
 solved_users: 56
-acceptance_rate: 78.873%
-collected_at: 2026-04-17T12:54:55.205793+00:00
+acceptance_rate: "78.873%"
+collected_at: "2026-04-17T12:54:55.205793+00:00"
 ---
 
 ## 문제

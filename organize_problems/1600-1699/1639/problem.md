@@ -1,13 +1,13 @@
 ---
-title: 행운의 티켓
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "행운의 티켓"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 1776
 accepted: 1030
 solved_users: 890
-acceptance_rate: 61.677%
-collected_at: 2026-04-17T10:31:54.191093+00:00
+acceptance_rate: "61.677%"
+collected_at: "2026-04-17T10:31:54.191093+00:00"
 ---
 
 ## 문제

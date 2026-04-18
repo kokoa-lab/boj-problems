@@ -1,13 +1,13 @@
 ---
-title: 부산의 해적
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "부산의 해적"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 1555
 accepted: 421
 solved_users: 267
-acceptance_rate: 27.958%
-collected_at: 2026-04-17T10:41:29.854330+00:00
+acceptance_rate: "27.958%"
+collected_at: "2026-04-17T10:41:29.854330+00:00"
 ---
 
 ## 문제

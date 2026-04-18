@@ -1,13 +1,13 @@
 ---
-title: Evaluation
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Evaluation"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 150
 accepted: 28
 solved_users: 14
-acceptance_rate: 12.844%
-collected_at: 2026-04-17T14:56:41.502271+00:00
+acceptance_rate: "12.844%"
+collected_at: "2026-04-17T14:56:41.502271+00:00"
 ---
 
 ## 문제

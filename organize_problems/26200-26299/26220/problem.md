@@ -1,13 +1,13 @@
 ---
-title: 겨울 숲의 썰매 트랙
-special_judge: true
-time_limit: 1 초
-memory_limit: 512 MB
+title: "겨울 숲의 썰매 트랙"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 141
 accepted: 59
 solved_users: 44
-acceptance_rate: 40.741%
-collected_at: 2026-04-17T17:42:01.312609+00:00
+acceptance_rate: "40.741%"
+collected_at: "2026-04-17T17:42:01.312609+00:00"
 ---
 
 ## 문제

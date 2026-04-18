@@ -1,13 +1,13 @@
 ---
-title: Metronome
-special_judge: true
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Metronome"
+special_judge: "true"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 5403
 accepted: 3993
 solved_users: 3820
-acceptance_rate: 75.226%
-collected_at: 2026-04-17T18:01:59.509786+00:00
+acceptance_rate: "75.226%"
+collected_at: "2026-04-17T18:01:59.509786+00:00"
 ---
 
 ## 문제

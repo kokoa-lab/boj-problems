@@ -1,13 +1,13 @@
 ---
-title: Panda Preserve
-special_judge: true
-time_limit: 10 초
-memory_limit: 1024 MB
+title: "Panda Preserve"
+special_judge: "true"
+time_limit: "10 초"
+memory_limit: "1024 MB"
 submissions: 268
 accepted: 73
 solved_users: 41
-acceptance_rate: 19.431%
-collected_at: 2026-04-17T14:04:24.668836+00:00
+acceptance_rate: "19.431%"
+collected_at: "2026-04-17T14:04:24.668836+00:00"
 ---
 
 ## 문제

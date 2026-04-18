@@ -1,13 +1,13 @@
 ---
-title: Skinny Polygon
-special_judge: true
-time_limit: 3 초
-memory_limit: 512 MB
+title: "Skinny Polygon"
+special_judge: "true"
+time_limit: "3 초"
+memory_limit: "512 MB"
 submissions: 179
 accepted: 52
 solved_users: 42
-acceptance_rate: 29.371%
-collected_at: 2026-04-17T13:12:47.279522+00:00
+acceptance_rate: "29.371%"
+collected_at: "2026-04-17T13:12:47.279522+00:00"
 ---
 
 ## 문제

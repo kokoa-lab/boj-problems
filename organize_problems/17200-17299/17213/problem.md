@@ -1,13 +1,13 @@
 ---
-title: 과일 서리
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "과일 서리"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 2425
 accepted: 1316
 solved_users: 1108
-acceptance_rate: 55.372%
-collected_at: 2026-04-17T14:33:09.624539+00:00
+acceptance_rate: "55.372%"
+collected_at: "2026-04-17T14:33:09.624539+00:00"
 ---
 
 ## 문제

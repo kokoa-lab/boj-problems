@@ -1,13 +1,13 @@
 ---
-title: Distribution in Metagonia
-special_judge: true
-time_limit: 2 초
-memory_limit: 256 MB
+title: "Distribution in Metagonia"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 292
 accepted: 135
 solved_users: 117
-acceptance_rate: 55.981%
-collected_at: 2026-04-17T12:41:09.424092+00:00
+acceptance_rate: "55.981%"
+collected_at: "2026-04-17T12:41:09.424092+00:00"
 ---
 
 ## 문제

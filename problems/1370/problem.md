@@ -1,13 +1,13 @@
 ---
-title: 전쟁 - 화계가 아닌 수계
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "전쟁 - 화계가 아닌 수계"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 111
 accepted: 7
 solved_users: 5
-acceptance_rate: 18.519%
-collected_at: 2026-04-17T10:29:41.876087+00:00
+acceptance_rate: "18.519%"
+collected_at: "2026-04-17T10:29:41.876087+00:00"
 ---
 
 ## 문제

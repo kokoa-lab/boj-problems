@@ -1,13 +1,13 @@
 ---
-title: 단어 게임
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "단어 게임"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 267
 accepted: 111
 solved_users: 98
-acceptance_rate: 47.343%
-collected_at: 2026-04-17T10:34:52.814962+00:00
+acceptance_rate: "47.343%"
+collected_at: "2026-04-17T10:34:52.814962+00:00"
 ---
 
 ## 문제

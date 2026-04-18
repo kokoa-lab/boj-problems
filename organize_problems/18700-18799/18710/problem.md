@@ -1,13 +1,13 @@
 ---
-title: Greatest Chicken Dish
-special_judge: false
-time_limit: 15 초
-memory_limit: 512 MB
+title: "Greatest Chicken Dish"
+special_judge: "false"
+time_limit: "15 초"
+memory_limit: "512 MB"
 submissions: 74
 accepted: 13
 solved_users: 9
-acceptance_rate: 21.951%
-collected_at: 2026-04-17T15:08:41.636249+00:00
+acceptance_rate: "21.951%"
+collected_at: "2026-04-17T15:08:41.636249+00:00"
 ---
 
 ## 문제

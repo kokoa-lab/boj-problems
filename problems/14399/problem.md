@@ -1,13 +1,13 @@
 ---
-title: 2연산
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "2연산"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 222
 accepted: 115
 solved_users: 64
-acceptance_rate: 48.855%
-collected_at: 2026-04-17T13:32:08.366606+00:00
+acceptance_rate: "48.855%"
+collected_at: "2026-04-17T13:32:08.366606+00:00"
 ---
 
 ## 문제

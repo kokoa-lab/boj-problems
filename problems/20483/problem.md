@@ -1,13 +1,13 @@
 ---
-title: Различные числа
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Различные числа"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 78
 accepted: 10
 solved_users: 6
-acceptance_rate: 18.182%
-collected_at: 2026-04-17T15:37:05.615042+00:00
+acceptance_rate: "18.182%"
+collected_at: "2026-04-17T15:37:05.615042+00:00"
 ---
 
 ## 문제

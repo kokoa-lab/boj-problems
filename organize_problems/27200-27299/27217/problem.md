@@ -1,13 +1,13 @@
 ---
-title: Кратные отрезки
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Кратные отрезки"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 21
 accepted: 14
 solved_users: 14
-acceptance_rate: 73.684%
-collected_at: 2026-04-17T17:58:28.690771+00:00
+acceptance_rate: "73.684%"
+collected_at: "2026-04-17T17:58:28.690771+00:00"
 ---
 
 ## 문제

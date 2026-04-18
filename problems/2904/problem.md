@@ -1,13 +1,13 @@
 ---
-title: 수학은 너무 쉬워
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "수학은 너무 쉬워"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 4926
 accepted: 1764
 solved_users: 1238
-acceptance_rate: 33.271%
-collected_at: 2026-04-17T10:45:36.648629+00:00
+acceptance_rate: "33.271%"
+collected_at: "2026-04-17T10:45:36.648629+00:00"
 ---
 
 ## 문제

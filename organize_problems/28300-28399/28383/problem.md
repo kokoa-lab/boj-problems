@@ -1,13 +1,13 @@
 ---
-title: 다섯 제곱수의 합
-special_judge: false
-time_limit: 5.555 초
-memory_limit: 555 MB
+title: "다섯 제곱수의 합"
+special_judge: "false"
+time_limit: "5.555 초"
+memory_limit: "555 MB"
 submissions: 280
 accepted: 95
 solved_users: 55
-acceptance_rate: 32.738%
-collected_at: 2026-04-17T18:25:31.337170+00:00
+acceptance_rate: "32.738%"
+collected_at: "2026-04-17T18:25:31.337170+00:00"
 ---
 
 ## 문제

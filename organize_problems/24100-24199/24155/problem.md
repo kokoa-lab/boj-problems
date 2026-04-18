@@ -1,13 +1,13 @@
 ---
-title: 得点 (Score)
-special_judge: false
-time_limit: 5 초
-memory_limit: 1024 MB
+title: "得点 (Score)"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "1024 MB"
 submissions: 298
 accepted: 184
 solved_users: 148
-acceptance_rate: 60.656%
-collected_at: 2026-04-17T17:05:08.810374+00:00
+acceptance_rate: "60.656%"
+collected_at: "2026-04-17T17:05:08.810374+00:00"
 ---
 
 ## 문제

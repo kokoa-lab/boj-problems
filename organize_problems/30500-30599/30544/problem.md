@@ -1,13 +1,13 @@
 ---
-title: Cuckoo! Cuckoo!
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Cuckoo! Cuckoo!"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 251
 accepted: 150
 solved_users: 130
-acceptance_rate: 58.824%
-collected_at: 2026-04-17T19:09:07.260146+00:00
+acceptance_rate: "58.824%"
+collected_at: "2026-04-17T19:09:07.260146+00:00"
 ---
 
 ## 문제

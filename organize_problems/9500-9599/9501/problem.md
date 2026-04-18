@@ -1,13 +1,13 @@
 ---
-title: 꿍의 우주여행
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "꿍의 우주여행"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 3313
 accepted: 2615
 solved_users: 2452
-acceptance_rate: 80.552%
-collected_at: 2026-04-17T12:10:35.568000+00:00
+acceptance_rate: "80.552%"
+collected_at: "2026-04-17T12:10:35.568000+00:00"
 ---
 
 ## 문제

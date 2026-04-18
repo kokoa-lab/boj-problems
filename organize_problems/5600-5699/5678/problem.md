@@ -1,13 +1,13 @@
 ---
-title: Bakugan
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Bakugan"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 208
 accepted: 145
 solved_users: 126
-acceptance_rate: 79.245%
-collected_at: 2026-04-17T11:16:30.491132+00:00
+acceptance_rate: "79.245%"
+collected_at: "2026-04-17T11:16:30.491132+00:00"
 ---
 
 ## 문제

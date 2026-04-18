@@ -1,13 +1,13 @@
 ---
-title: 포인트 카드
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "포인트 카드"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 1547
 accepted: 1101
 solved_users: 971
-acceptance_rate: 72.898%
-collected_at: 2026-04-17T13:35:14.741531+00:00
+acceptance_rate: "72.898%"
+collected_at: "2026-04-17T13:35:14.741531+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Grumpy Groundhogs in Gridland
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Grumpy Groundhogs in Gridland"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 14
 accepted: 14
 solved_users: 12
-acceptance_rate: 100.000%
-collected_at: 2026-04-17T14:11:23.989118+00:00
+acceptance_rate: "100.000%"
+collected_at: "2026-04-17T14:11:23.989118+00:00"
 ---
 
 ## 문제

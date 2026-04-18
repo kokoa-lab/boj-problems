@@ -1,13 +1,13 @@
 ---
-title: 주사위 피라미드
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "주사위 피라미드"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 525
 accepted: 380
 solved_users: 329
-acceptance_rate: 75.632%
-collected_at: 2026-04-17T20:27:29.044728+00:00
+acceptance_rate: "75.632%"
+collected_at: "2026-04-17T20:27:29.044728+00:00"
 ---
 
 ## 문제

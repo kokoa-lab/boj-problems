@@ -1,13 +1,13 @@
 ---
-title: 사탕 줍기 대회
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "사탕 줍기 대회"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 2606
 accepted: 1114
 solved_users: 819
-acceptance_rate: 42.369%
-collected_at: 2026-04-17T11:16:51.337616+00:00
+acceptance_rate: "42.369%"
+collected_at: "2026-04-17T11:16:51.337616+00:00"
 ---
 
 ## 문제

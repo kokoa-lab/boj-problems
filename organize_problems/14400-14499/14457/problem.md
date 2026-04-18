@@ -1,13 +1,13 @@
 ---
-title: Cow Tipping
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Cow Tipping"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 769
 accepted: 484
 solved_users: 431
-acceptance_rate: 65.502%
-collected_at: 2026-04-17T13:34:06.266685+00:00
+acceptance_rate: "65.502%"
+collected_at: "2026-04-17T13:34:06.266685+00:00"
 ---
 
 ## 문제

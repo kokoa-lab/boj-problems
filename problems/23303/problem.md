@@ -1,13 +1,13 @@
 ---
-title: 이 문제는 D2 입니다.
-special_judge: false
-time_limit: 2.222 초 (추가 시간 없음)
-memory_limit: 222 MB (추가 메모리 없음)
+title: "이 문제는 D2 입니다."
+special_judge: "false"
+time_limit: "2.222 초 (추가 시간 없음)"
+memory_limit: "222 MB (추가 메모리 없음)"
 submissions: 3056
 accepted: 2064
 solved_users: 1850
-acceptance_rate: 71.263%
-collected_at: 2026-04-17T16:46:00.191771+00:00
+acceptance_rate: "71.263%"
+collected_at: "2026-04-17T16:46:00.191771+00:00"
 ---
 
 ## 문제

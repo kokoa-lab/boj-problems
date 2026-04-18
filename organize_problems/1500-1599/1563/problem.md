@@ -1,13 +1,13 @@
 ---
-title: 개근상
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "개근상"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 5796
 accepted: 2790
 solved_users: 2269
-acceptance_rate: 51.104%
-collected_at: 2026-04-17T10:31:13.512321+00:00
+acceptance_rate: "51.104%"
+collected_at: "2026-04-17T10:31:13.512321+00:00"
 ---
 
 ## 문제

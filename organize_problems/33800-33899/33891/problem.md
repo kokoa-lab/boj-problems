@@ -1,13 +1,13 @@
 ---
-title: 구간 단속 종료 지점입니다
-special_judge: true
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "구간 단속 종료 지점입니다"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 70
 accepted: 35
 solved_users: 25
-acceptance_rate: 49.020%
-collected_at: 2026-04-17T20:25:54.565461+00:00
+acceptance_rate: "49.020%"
+collected_at: "2026-04-17T20:25:54.565461+00:00"
 ---
 
 ## 문제

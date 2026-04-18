@@ -1,13 +1,13 @@
 ---
-title: $N$중 슬릿 실험
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "$N$중 슬릿 실험"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 36
 accepted: 32
 solved_users: 29
-acceptance_rate: 87.879%
-collected_at: 2026-04-17T20:50:33.865381+00:00
+acceptance_rate: "87.879%"
+collected_at: "2026-04-17T20:50:33.865381+00:00"
 ---
 
 ## 문제

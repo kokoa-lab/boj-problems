@@ -1,13 +1,13 @@
 ---
-title: 나의 학점은?
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "나의 학점은?"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 2780
 accepted: 1866
 solved_users: 1704
-acceptance_rate: 68.242%
-collected_at: 2026-04-17T14:47:55.152494+00:00
+acceptance_rate: "68.242%"
+collected_at: "2026-04-17T14:47:55.152494+00:00"
 ---
 
 ## 문제

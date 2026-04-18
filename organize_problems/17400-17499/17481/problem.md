@@ -1,13 +1,13 @@
 ---
-title: 최애 정하기
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "최애 정하기"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 641
 accepted: 414
 solved_users: 349
-acceptance_rate: 65.725%
-collected_at: 2026-04-17T14:40:12.765269+00:00
+acceptance_rate: "65.725%"
+collected_at: "2026-04-17T14:40:12.765269+00:00"
 ---
 
 ## 문제

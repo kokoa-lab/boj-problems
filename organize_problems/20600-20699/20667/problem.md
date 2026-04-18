@@ -1,13 +1,13 @@
 ---
-title: 크롬
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "크롬"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 1441
 accepted: 295
 solved_users: 203
-acceptance_rate: 20.020%
-collected_at: 2026-04-17T15:39:44.964413+00:00
+acceptance_rate: "20.020%"
+collected_at: "2026-04-17T15:39:44.964413+00:00"
 ---
 
 ## 문제

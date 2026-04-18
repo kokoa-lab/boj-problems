@@ -1,13 +1,13 @@
 ---
-title: Basalt Breakdown
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Basalt Breakdown"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 466
 accepted: 372
 solved_users: 307
-acceptance_rate: 81.217%
-collected_at: 2026-04-17T16:11:04.101852+00:00
+acceptance_rate: "81.217%"
+collected_at: "2026-04-17T16:11:04.101852+00:00"
 ---
 
 ## 문제

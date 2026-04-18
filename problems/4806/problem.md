@@ -1,13 +1,13 @@
 ---
-title: 줄 세기
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "줄 세기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 3342
 accepted: 2163
 solved_users: 1973
-acceptance_rate: 66.409%
-collected_at: 2026-04-17T11:08:44.707153+00:00
+acceptance_rate: "66.409%"
+collected_at: "2026-04-17T11:08:44.707153+00:00"
 ---
 
 ## 문제

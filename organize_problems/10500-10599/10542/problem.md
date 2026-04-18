@@ -1,13 +1,13 @@
 ---
-title: MAFIJA
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "MAFIJA"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 735
 accepted: 182
 solved_users: 144
-acceptance_rate: 31.718%
-collected_at: 2026-04-17T12:25:13.977325+00:00
+acceptance_rate: "31.718%"
+collected_at: "2026-04-17T12:25:13.977325+00:00"
 ---
 
 ## 문제

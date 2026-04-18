@@ -1,13 +1,13 @@
 ---
-title: 강 건너기
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "강 건너기"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 99
 accepted: 46
 solved_users: 43
-acceptance_rate: 65.152%
-collected_at: 2026-04-17T20:06:54.036467+00:00
+acceptance_rate: "65.152%"
+collected_at: "2026-04-17T20:06:54.036467+00:00"
 ---
 
 ## 문제

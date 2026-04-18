@@ -1,13 +1,13 @@
 ---
-title: 팰린드롬 분할
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "팰린드롬 분할"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 16428
 accepted: 8197
 solved_users: 5927
-acceptance_rate: 48.742%
-collected_at: 2026-04-17T10:30:45.943525+00:00
+acceptance_rate: "48.742%"
+collected_at: "2026-04-17T10:30:45.943525+00:00"
 ---
 
 ## 문제

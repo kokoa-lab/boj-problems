@@ -1,13 +1,13 @@
 ---
-title: Judge’s Mistake
-special_judge: false
-time_limit: 4 초
-memory_limit: 512 MB
+title: "Judge’s Mistake"
+special_judge: "false"
+time_limit: "4 초"
+memory_limit: "512 MB"
 submissions: 121
 accepted: 28
 solved_users: 23
-acceptance_rate: 23.232%
-collected_at: 2026-04-17T14:11:33.753683+00:00
+acceptance_rate: "23.232%"
+collected_at: "2026-04-17T14:11:33.753683+00:00"
 ---
 
 ## 문제

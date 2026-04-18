@@ -1,13 +1,13 @@
 ---
-title: 돌려 돌려 돌림판!
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "돌려 돌려 돌림판!"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 2497
 accepted: 1385
 solved_users: 1205
-acceptance_rate: 59.069%
-collected_at: 2026-04-17T12:41:34.740254+00:00
+acceptance_rate: "59.069%"
+collected_at: "2026-04-17T12:41:34.740254+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Jungle Game
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Jungle Game"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 142
 accepted: 24
 solved_users: 20
-acceptance_rate: 20.202%
-collected_at: 2026-04-17T19:55:43.615700+00:00
+acceptance_rate: "20.202%"
+collected_at: "2026-04-17T19:55:43.615700+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Buses
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Buses"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 25
 accepted: 22
 solved_users: 17
-acceptance_rate: 94.444%
-collected_at: 2026-04-17T13:16:18.881814+00:00
+acceptance_rate: "94.444%"
+collected_at: "2026-04-17T13:16:18.881814+00:00"
 ---
 
 ## 문제

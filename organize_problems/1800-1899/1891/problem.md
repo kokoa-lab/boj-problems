@@ -1,13 +1,13 @@
 ---
-title: 사분면
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "사분면"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 4029
 accepted: 1358
 solved_users: 981
-acceptance_rate: 32.430%
-collected_at: 2026-04-17T10:35:24.591104+00:00
+acceptance_rate: "32.430%"
+collected_at: "2026-04-17T10:35:24.591104+00:00"
 ---
 
 ## 문제

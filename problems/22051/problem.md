@@ -1,13 +1,13 @@
 ---
-title: Топологическая сортировка и дети
-special_judge: true
-time_limit: 5 초 (추가 시간 없음)
-memory_limit: 256 MB
+title: "Топологическая сортировка и дети"
+special_judge: "true"
+time_limit: "5 초 (추가 시간 없음)"
+memory_limit: "256 MB"
 submissions: 11
 accepted: 1
 solved_users: 1
-acceptance_rate: 11.111%
-collected_at: 2026-04-17T16:12:11.587121+00:00
+acceptance_rate: "11.111%"
+collected_at: "2026-04-17T16:12:11.587121+00:00"
 ---
 
 ## 문제

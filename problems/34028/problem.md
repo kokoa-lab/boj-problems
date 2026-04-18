@@ -1,13 +1,13 @@
 ---
-title: 우리의 다정한 계절 속에(Seasons of Memories)
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "우리의 다정한 계절 속에(Seasons of Memories)"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 574
 accepted: 301
 solved_users: 262
-acceptance_rate: 55.983%
-collected_at: 2026-04-17T20:28:59.542797+00:00
+acceptance_rate: "55.983%"
+collected_at: "2026-04-17T20:28:59.542797+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Bastubad
-special_judge: true
-time_limit: 3 초
-memory_limit: 1024 MB
+title: "Bastubad"
+special_judge: "true"
+time_limit: "3 초"
+memory_limit: "1024 MB"
 submissions: 5
 accepted: 4
 solved_users: 4
-acceptance_rate: 80.000%
-collected_at: 2026-04-17T15:42:52.459360+00:00
+acceptance_rate: "80.000%"
+collected_at: "2026-04-17T15:42:52.459360+00:00"
 ---
 
 ## 문제

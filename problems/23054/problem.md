@@ -1,13 +1,13 @@
 ---
-title: 누텔라 트리 (Hard)
-special_judge: false
-time_limit: 7 초
-memory_limit: 1024 MB
+title: "누텔라 트리 (Hard)"
+special_judge: "false"
+time_limit: "7 초"
+memory_limit: "1024 MB"
 submissions: 50
 accepted: 17
 solved_users: 13
-acceptance_rate: 38.235%
-collected_at: 2026-04-17T16:40:58.678698+00:00
+acceptance_rate: "38.235%"
+collected_at: "2026-04-17T16:40:58.678698+00:00"
 ---
 
 ## 문제

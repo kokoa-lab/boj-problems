@@ -1,13 +1,13 @@
 ---
-title: 히히 못가
-special_judge: false
-time_limit: 1.5 초  ( 하단 참고 )
-memory_limit: 1024 MB
+title: "히히 못가"
+special_judge: "false"
+time_limit: "1.5 초  ( 하단 참고 )"
+memory_limit: "1024 MB"
 submissions: 616
 accepted: 176
 solved_users: 127
-acceptance_rate: 27.021%
-collected_at: 2026-04-17T17:10:25.717756+00:00
+acceptance_rate: "27.021%"
+collected_at: "2026-04-17T17:10:25.717756+00:00"
 ---
 
 ## 문제

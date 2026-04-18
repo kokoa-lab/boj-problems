@@ -1,13 +1,13 @@
 ---
-title: 아니 이게 왜 안 돼
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "아니 이게 왜 안 돼"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 929
 accepted: 331
 solved_users: 278
-acceptance_rate: 38.827%
-collected_at: 2026-04-17T18:53:24.938126+00:00
+acceptance_rate: "38.827%"
+collected_at: "2026-04-17T18:53:24.938126+00:00"
 ---
 
 ## 문제

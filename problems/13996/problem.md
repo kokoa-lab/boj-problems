@@ -1,13 +1,13 @@
 ---
-title: Hard Refactoring
-special_judge: true
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Hard Refactoring"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 163
 accepted: 65
 solved_users: 56
-acceptance_rate: 38.356%
-collected_at: 2026-04-17T13:23:48.002817+00:00
+acceptance_rate: "38.356%"
+collected_at: "2026-04-17T13:23:48.002817+00:00"
 ---
 
 ## 문제

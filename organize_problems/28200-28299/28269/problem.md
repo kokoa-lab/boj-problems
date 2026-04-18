@@ -1,13 +1,13 @@
 ---
-title: Kneaded-Loosened
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Kneaded-Loosened"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 134
 accepted: 35
 solved_users: 32
-acceptance_rate: 36.364%
-collected_at: 2026-04-17T18:21:32.881123+00:00
+acceptance_rate: "36.364%"
+collected_at: "2026-04-17T18:21:32.881123+00:00"
 ---
 
 ## 문제

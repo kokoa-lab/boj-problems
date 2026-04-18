@@ -1,13 +1,13 @@
 ---
-title: Team them up!
-special_judge: true
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Team them up!"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 11
 accepted: 4
 solved_users: 4
-acceptance_rate: 50.000%
-collected_at: 2026-04-17T11:49:14.852826+00:00
+acceptance_rate: "50.000%"
+collected_at: "2026-04-17T11:49:14.852826+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 공 바꾸기
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "공 바꾸기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 118460
 accepted: 74295
 solved_users: 65344
-acceptance_rate: 62.853%
-collected_at: 2026-04-17T12:29:55.741666+00:00
+acceptance_rate: "62.853%"
+collected_at: "2026-04-17T12:29:55.741666+00:00"
 ---
 
 ## 문제

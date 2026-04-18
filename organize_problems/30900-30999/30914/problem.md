@@ -1,13 +1,13 @@
 ---
-title: 적은 메모리로 빠르게 많은 소수 찾기
-special_judge: false
-time_limit: 20 초 (추가 시간 없음)
-memory_limit: 32 MB (추가 메모리 없음)
+title: "적은 메모리로 빠르게 많은 소수 찾기"
+special_judge: "false"
+time_limit: "20 초 (추가 시간 없음)"
+memory_limit: "32 MB (추가 메모리 없음)"
 submissions: 253
 accepted: 53
 solved_users: 20
-acceptance_rate: 17.544%
-collected_at: 2026-04-17T19:18:00.131864+00:00
+acceptance_rate: "17.544%"
+collected_at: "2026-04-17T19:18:00.131864+00:00"
 ---
 
 ## 입력

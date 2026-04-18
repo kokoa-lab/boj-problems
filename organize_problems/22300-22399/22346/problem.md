@@ -1,13 +1,13 @@
 ---
-title: 일이 이어져야 좋다
-special_judge: false
-time_limit: 5 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "일이 이어져야 좋다"
+special_judge: "false"
+time_limit: "5 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 672
 accepted: 115
 solved_users: 71
-acceptance_rate: 19.613%
-collected_at: 2026-04-17T16:19:17.500580+00:00
+acceptance_rate: "19.613%"
+collected_at: "2026-04-17T16:19:17.500580+00:00"
 ---
 
 ## 문제

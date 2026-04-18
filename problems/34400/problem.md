@@ -1,13 +1,13 @@
 ---
-title: 민규의 서카디안 리듬
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "민규의 서카디안 리듬"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 1165
 accepted: 852
 solved_users: 781
-acceptance_rate: 74.381%
-collected_at: 2026-04-17T20:37:43.354227+00:00
+acceptance_rate: "74.381%"
+collected_at: "2026-04-17T20:37:43.354227+00:00"
 ---
 
 ## 문제

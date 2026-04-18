@@ -1,13 +1,13 @@
 ---
-title: 좋은 부분 문자열
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "좋은 부분 문자열"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 125
 accepted: 54
 solved_users: 34
-acceptance_rate: 62.963%
-collected_at: 2026-04-17T13:13:07.424110+00:00
+acceptance_rate: "62.963%"
+collected_at: "2026-04-17T13:13:07.424110+00:00"
 ---
 
 ## 문제

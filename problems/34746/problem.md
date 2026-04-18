@@ -1,13 +1,13 @@
 ---
-title: Squid Game: Two Bridges
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Squid Game: Two Bridges"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 39
 accepted: 28
 solved_users: 24
-acceptance_rate: 70.588%
-collected_at: 2026-04-17T20:47:39.754272+00:00
+acceptance_rate: "70.588%"
+collected_at: "2026-04-17T20:47:39.754272+00:00"
 ---
 
 ## 문제

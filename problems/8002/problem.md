@@ -1,13 +1,13 @@
 ---
-title: Mastermind II
-special_judge: true
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Mastermind II"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 47
 accepted: 28
 solved_users: 26
-acceptance_rate: 59.091%
-collected_at: 2026-04-17T11:55:04.272500+00:00
+acceptance_rate: "59.091%"
+collected_at: "2026-04-17T11:55:04.272500+00:00"
 ---
 
 ## 문제

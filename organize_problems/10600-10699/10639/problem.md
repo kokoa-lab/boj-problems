@@ -1,13 +1,13 @@
 ---
-title: Revenge of Minimum Cost Flow
-special_judge: false
-time_limit: 3 초
-memory_limit: 256 MB
+title: "Revenge of Minimum Cost Flow"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "256 MB"
 submissions: 22
 accepted: 7
 solved_users: 6
-acceptance_rate: 46.154%
-collected_at: 2026-04-17T12:26:45.215020+00:00
+acceptance_rate: "46.154%"
+collected_at: "2026-04-17T12:26:45.215020+00:00"
 ---
 
 ## 문제

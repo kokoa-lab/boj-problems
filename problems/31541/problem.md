@@ -1,13 +1,13 @@
 ---
-title: 1차원 돌 게임 1
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "1차원 돌 게임 1"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 127
 accepted: 52
 solved_users: 42
-acceptance_rate: 42.000%
-collected_at: 2026-04-17T19:30:11.796295+00:00
+acceptance_rate: "42.000%"
+collected_at: "2026-04-17T19:30:11.796295+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 문자열 지우기
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "문자열 지우기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 518
 accepted: 100
 solved_users: 75
-acceptance_rate: 20.718%
-collected_at: 2026-04-17T19:39:38.287919+00:00
+acceptance_rate: "20.718%"
+collected_at: "2026-04-17T19:39:38.287919+00:00"
 ---
 
 ## 문제

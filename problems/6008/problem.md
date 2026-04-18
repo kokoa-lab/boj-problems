@@ -1,13 +1,13 @@
 ---
-title: Video Game Troubles
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Video Game Troubles"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 70
 accepted: 37
 solved_users: 30
-acceptance_rate: 63.830%
-collected_at: 2026-04-17T11:19:22.885566+00:00
+acceptance_rate: "63.830%"
+collected_at: "2026-04-17T11:19:22.885566+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 합이 $K$ 이하
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "합이 $K$ 이하"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 824
 accepted: 157
 solved_users: 126
-acceptance_rate: 26.809%
-collected_at: 2026-04-17T20:08:51.663394+00:00
+acceptance_rate: "26.809%"
+collected_at: "2026-04-17T20:08:51.663394+00:00"
 ---
 
 ## 문제

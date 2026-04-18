@@ -1,13 +1,13 @@
 ---
-title: Cartões
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Cartões"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 33
 accepted: 9
 solved_users: 9
-acceptance_rate: 28.125%
-collected_at: 2026-04-17T13:16:23.994500+00:00
+acceptance_rate: "28.125%"
+collected_at: "2026-04-17T13:16:23.994500+00:00"
 ---
 
 ## 문제

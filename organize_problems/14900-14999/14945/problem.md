@@ -1,13 +1,13 @@
 ---
-title: 불장난
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "불장난"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 763
 accepted: 388
 solved_users: 332
-acceptance_rate: 55.058%
-collected_at: 2026-04-17T13:46:25.913191+00:00
+acceptance_rate: "55.058%"
+collected_at: "2026-04-17T13:46:25.913191+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Obwody
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Obwody"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 114
 accepted: 56
 solved_users: 39
-acceptance_rate: 42.391%
-collected_at: 2026-04-17T12:02:45.434457+00:00
+acceptance_rate: "42.391%"
+collected_at: "2026-04-17T12:02:45.434457+00:00"
 ---
 
 ## 문제

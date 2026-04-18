@@ -1,13 +1,13 @@
 ---
-title: Funny Language
-special_judge: true
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Funny Language"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 22
 accepted: 20
 solved_users: 19
-acceptance_rate: 90.476%
-collected_at: 2026-04-17T10:49:39.782893+00:00
+acceptance_rate: "90.476%"
+collected_at: "2026-04-17T10:49:39.782893+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Interpolate
-special_judge: true
-time_limit: 4 초
-memory_limit: 256 MB
+title: "Interpolate"
+special_judge: "true"
+time_limit: "4 초"
+memory_limit: "256 MB"
 submissions: 16
 accepted: 10
 solved_users: 10
-acceptance_rate: 66.667%
-collected_at: 2026-04-17T15:12:02.313212+00:00
+acceptance_rate: "66.667%"
+collected_at: "2026-04-17T15:12:02.313212+00:00"
 ---
 
 ## 문제

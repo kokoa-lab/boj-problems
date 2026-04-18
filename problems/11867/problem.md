@@ -1,13 +1,13 @@
 ---
-title: 박스 나누기 게임
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "박스 나누기 게임"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 1433
 accepted: 804
 solved_users: 650
-acceptance_rate: 57.726%
-collected_at: 2026-04-17T12:47:12.045131+00:00
+acceptance_rate: "57.726%"
+collected_at: "2026-04-17T12:47:12.045131+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 서로소 평균
-special_judge: true
-time_limit: 1 초
-memory_limit: 512 MB
+title: "서로소 평균"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 2902
 accepted: 1183
 solved_users: 950
-acceptance_rate: 40.220%
-collected_at: 2026-04-17T16:09:57.533174+00:00
+acceptance_rate: "40.220%"
+collected_at: "2026-04-17T16:09:57.533174+00:00"
 ---
 
 ## 문제

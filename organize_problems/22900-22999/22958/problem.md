@@ -1,13 +1,13 @@
 ---
-title: 안산 탐지기
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "안산 탐지기"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 452
 accepted: 87
 solved_users: 66
-acceptance_rate: 18.436%
-collected_at: 2026-04-17T16:39:19.830127+00:00
+acceptance_rate: "18.436%"
+collected_at: "2026-04-17T16:39:19.830127+00:00"
 ---
 
 ## 문제

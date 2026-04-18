@@ -1,13 +1,13 @@
 ---
-title: 울타리
-special_judge: false
-time_limit: 2 초
-memory_limit: 64 MB
+title: "울타리"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "64 MB"
 submissions: 608
 accepted: 181
 solved_users: 149
-acceptance_rate: 30.285%
-collected_at: 2026-04-17T12:09:06.179430+00:00
+acceptance_rate: "30.285%"
+collected_at: "2026-04-17T12:09:06.179430+00:00"
 ---
 
 ## 문제

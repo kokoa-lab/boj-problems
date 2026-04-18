@@ -1,13 +1,13 @@
 ---
-title: 혹 떼러 갔다 혹 붙여 온다
-special_judge: false
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "혹 떼러 갔다 혹 붙여 온다"
+special_judge: "false"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 305
 accepted: 112
 solved_users: 87
-acceptance_rate: 37.021%
-collected_at: 2026-04-17T15:43:33.602852+00:00
+acceptance_rate: "37.021%"
+collected_at: "2026-04-17T15:43:33.602852+00:00"
 ---
 
 ## 문제

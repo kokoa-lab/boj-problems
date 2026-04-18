@@ -1,13 +1,13 @@
 ---
-title: Dr. Bill Poucher
-special_judge: false
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "Dr. Bill Poucher"
+special_judge: "false"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 52
 accepted: 29
 solved_users: 28
-acceptance_rate: 57.143%
-collected_at: 2026-04-17T16:52:24.304607+00:00
+acceptance_rate: "57.143%"
+collected_at: "2026-04-17T16:52:24.304607+00:00"
 ---
 
 ## 문제

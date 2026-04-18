@@ -1,13 +1,13 @@
 ---
-title: 상범 빌딩
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "상범 빌딩"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 28852
 accepted: 11966
 solved_users: 9502
-acceptance_rate: 40.760%
-collected_at: 2026-04-17T11:31:11.263385+00:00
+acceptance_rate: "40.760%"
+collected_at: "2026-04-17T11:31:11.263385+00:00"
 ---
 
 ## 문제

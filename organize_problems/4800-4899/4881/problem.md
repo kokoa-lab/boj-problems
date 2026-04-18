@@ -1,13 +1,13 @@
 ---
-title: 자리수의 제곱
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "자리수의 제곱"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 880
 accepted: 306
 solved_users: 248
-acceptance_rate: 34.637%
-collected_at: 2026-04-17T11:09:37.883352+00:00
+acceptance_rate: "34.637%"
+collected_at: "2026-04-17T11:09:37.883352+00:00"
 ---
 
 ## 문제

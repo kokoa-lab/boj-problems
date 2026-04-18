@@ -1,13 +1,13 @@
 ---
-title: History of Football
-special_judge: false
-time_limit: 2 초
-memory_limit: 64 MB
+title: "History of Football"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "64 MB"
 submissions: 12
 accepted: 3
 solved_users: 3
-acceptance_rate: 37.500%
-collected_at: 2026-04-17T10:50:06.260650+00:00
+acceptance_rate: "37.500%"
+collected_at: "2026-04-17T10:50:06.260650+00:00"
 ---
 
 ## 문제

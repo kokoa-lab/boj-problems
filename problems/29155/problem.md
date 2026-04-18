@@ -1,13 +1,13 @@
 ---
-title: 개발자 지망생 구름이의 취업 뽀개기
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "개발자 지망생 구름이의 취업 뽀개기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 893
 accepted: 649
 solved_users: 597
-acceptance_rate: 73.978%
-collected_at: 2026-04-17T18:38:08.756248+00:00
+acceptance_rate: "73.978%"
+collected_at: "2026-04-17T18:38:08.756248+00:00"
 ---
 
 ## 문제

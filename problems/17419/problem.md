@@ -1,13 +1,13 @@
 ---
-title: 비트가 넘쳐흘러
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "비트가 넘쳐흘러"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 2380
 accepted: 1281
 solved_users: 1054
-acceptance_rate: 56.183%
-collected_at: 2026-04-17T14:38:57.807356+00:00
+acceptance_rate: "56.183%"
+collected_at: "2026-04-17T14:38:57.807356+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Queen Collisions
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Queen Collisions"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 51
 accepted: 32
 solved_users: 26
-acceptance_rate: 57.778%
-collected_at: 2026-04-17T11:04:48.239110+00:00
+acceptance_rate: "57.778%"
+collected_at: "2026-04-17T11:04:48.239110+00:00"
 ---
 
 ## 문제

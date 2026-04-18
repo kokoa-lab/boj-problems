@@ -1,13 +1,13 @@
 ---
-title: 육각 보드
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "육각 보드"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 2450
 accepted: 672
 solved_users: 496
-acceptance_rate: 26.667%
-collected_at: 2026-04-17T13:04:30.315711+00:00
+acceptance_rate: "26.667%"
+collected_at: "2026-04-17T13:04:30.315711+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: A Simple Problem!
-special_judge: false
-time_limit: 3 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "A Simple Problem!"
+special_judge: "false"
+time_limit: "3 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 245
 accepted: 59
 solved_users: 48
-acceptance_rate: 28.070%
-collected_at: 2026-04-17T13:58:08.262335+00:00
+acceptance_rate: "28.070%"
+collected_at: "2026-04-17T13:58:08.262335+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Long Mansion
-special_judge: false
-time_limit: 3 초
-memory_limit: 256 MB
+title: "Long Mansion"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "256 MB"
 submissions: 117
 accepted: 47
 solved_users: 41
-acceptance_rate: 40.594%
-collected_at: 2026-04-17T14:45:45.772691+00:00
+acceptance_rate: "40.594%"
+collected_at: "2026-04-17T14:45:45.772691+00:00"
 ---
 
 ## 문제

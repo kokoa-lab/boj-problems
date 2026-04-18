@@ -1,13 +1,13 @@
 ---
-title: Column Addition
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Column Addition"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 44
 accepted: 10
 solved_users: 10
-acceptance_rate: 38.462%
-collected_at: 2026-04-17T13:57:41.084309+00:00
+acceptance_rate: "38.462%"
+collected_at: "2026-04-17T13:57:41.084309+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 割り勘
-special_judge: false
-time_limit: 8 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "割り勘"
+special_judge: "false"
+time_limit: "8 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 555
 accepted: 512
 solved_users: 474
-acceptance_rate: 92.398%
-collected_at: 2026-04-17T16:19:50.163550+00:00
+acceptance_rate: "92.398%"
+collected_at: "2026-04-17T16:19:50.163550+00:00"
 ---
 
 ## 문제

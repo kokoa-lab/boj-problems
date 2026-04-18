@@ -1,13 +1,13 @@
 ---
-title: 트럭 주차
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "트럭 주차"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 15992
 accepted: 10898
 solved_users: 8194
-acceptance_rate: 67.758%
-collected_at: 2026-04-17T10:46:03.876571+00:00
+acceptance_rate: "67.758%"
+collected_at: "2026-04-17T10:46:03.876571+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 상자넣기
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "상자넣기"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 27777
 accepted: 13997
 solved_users: 11748
-acceptance_rate: 51.029%
-collected_at: 2026-04-17T10:36:26.503335+00:00
+acceptance_rate: "51.029%"
+collected_at: "2026-04-17T10:36:26.503335+00:00"
 ---
 
 ## 문제

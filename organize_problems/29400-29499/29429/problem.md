@@ -1,13 +1,13 @@
 ---
-title: Конфетки
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Конфетки"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 81
 accepted: 36
 solved_users: 28
-acceptance_rate: 41.791%
-collected_at: 2026-04-17T18:42:56.267682+00:00
+acceptance_rate: "41.791%"
+collected_at: "2026-04-17T18:42:56.267682+00:00"
 ---
 
 ## 문제

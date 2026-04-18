@@ -1,13 +1,13 @@
 ---
-title: XOR Island
-special_judge: false
-time_limit: 3 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "XOR Island"
+special_judge: "false"
+time_limit: "3 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 154
 accepted: 65
 solved_users: 45
-acceptance_rate: 41.284%
-collected_at: 2026-04-17T17:11:43.902537+00:00
+acceptance_rate: "41.284%"
+collected_at: "2026-04-17T17:11:43.902537+00:00"
 ---
 
 ## 문제

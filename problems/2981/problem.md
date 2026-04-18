@@ -1,13 +1,13 @@
 ---
-title: 검문
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "검문"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 51493
 accepted: 10614
 solved_users: 8216
-acceptance_rate: 21.428%
-collected_at: 2026-04-17T10:46:03.707677+00:00
+acceptance_rate: "21.428%"
+collected_at: "2026-04-17T10:46:03.707677+00:00"
 ---
 
 ## 문제

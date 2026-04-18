@@ -1,13 +1,13 @@
 ---
-title: Sonic Wave
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Sonic Wave"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 254
 accepted: 147
 solved_users: 131
-acceptance_rate: 59.009%
-collected_at: 2026-04-17T20:59:09.542552+00:00
+acceptance_rate: "59.009%"
+collected_at: "2026-04-17T20:59:09.542552+00:00"
 ---
 
 ## 문제

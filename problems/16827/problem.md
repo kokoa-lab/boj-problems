@@ -1,13 +1,13 @@
 ---
-title: Colorful Drink
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Colorful Drink"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 85
 accepted: 47
 solved_users: 38
-acceptance_rate: 55.882%
-collected_at: 2026-04-17T14:24:45.312894+00:00
+acceptance_rate: "55.882%"
+collected_at: "2026-04-17T14:24:45.312894+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Mahershalalhashbaz, Nebuchadnezzar, and Billy Bob Benjamin Go to the Regionals
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Mahershalalhashbaz, Nebuchadnezzar, and Billy Bob Benjamin Go to the Regionals"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 203
 accepted: 95
 solved_users: 85
-acceptance_rate: 46.703%
-collected_at: 2026-04-17T10:55:26.327653+00:00
+acceptance_rate: "46.703%"
+collected_at: "2026-04-17T10:55:26.327653+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Tautology
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Tautology"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 44
 accepted: 12
 solved_users: 12
-acceptance_rate: 27.273%
-collected_at: 2026-04-17T10:58:28.662235+00:00
+acceptance_rate: "27.273%"
+collected_at: "2026-04-17T10:58:28.662235+00:00"
 ---
 
 ## 문제

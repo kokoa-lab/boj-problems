@@ -1,13 +1,13 @@
 ---
-title: špilja
-special_judge: true
-time_limit: 2 초
-memory_limit: 128 MB
+title: "špilja"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 180
 accepted: 87
 solved_users: 54
-acceptance_rate: 50.467%
-collected_at: 2026-04-17T10:35:34.832515+00:00
+acceptance_rate: "50.467%"
+collected_at: "2026-04-17T10:35:34.832515+00:00"
 ---
 
 ## 문제

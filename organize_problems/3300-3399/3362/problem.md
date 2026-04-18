@@ -1,13 +1,13 @@
 ---
-title: 수수께끼
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "수수께끼"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 161
 accepted: 90
 solved_users: 69
-acceptance_rate: 58.974%
-collected_at: 2026-04-17T10:48:26.374287+00:00
+acceptance_rate: "58.974%"
+collected_at: "2026-04-17T10:48:26.374287+00:00"
 ---
 
 ## 문제

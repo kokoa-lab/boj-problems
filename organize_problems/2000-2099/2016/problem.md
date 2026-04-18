@@ -1,13 +1,13 @@
 ---
-title: 미팅 주선하기
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "미팅 주선하기"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 429
 accepted: 161
 solved_users: 136
-acceptance_rate: 40.118%
-collected_at: 2026-04-17T10:37:12.882553+00:00
+acceptance_rate: "40.118%"
+collected_at: "2026-04-17T10:37:12.882553+00:00"
 ---
 
 ## 문제

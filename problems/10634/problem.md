@@ -1,13 +1,13 @@
 ---
-title: Integer in Integer
-special_judge: false
-time_limit: 10 초
-memory_limit: 128 MB
+title: "Integer in Integer"
+special_judge: "false"
+time_limit: "10 초"
+memory_limit: "128 MB"
 submissions: 46
 accepted: 13
 solved_users: 13
-acceptance_rate: 36.111%
-collected_at: 2026-04-17T12:26:37.071273+00:00
+acceptance_rate: "36.111%"
+collected_at: "2026-04-17T12:26:37.071273+00:00"
 ---
 
 ## 문제

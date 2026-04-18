@@ -1,13 +1,13 @@
 ---
-title: AB
-special_judge: true
-time_limit: 2 초
-memory_limit: 512 MB
+title: "AB"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 3698
 accepted: 1618
 solved_users: 1293
-acceptance_rate: 45.321%
-collected_at: 2026-04-17T13:04:59.945264+00:00
+acceptance_rate: "45.321%"
+collected_at: "2026-04-17T13:04:59.945264+00:00"
 ---
 
 ## 문제

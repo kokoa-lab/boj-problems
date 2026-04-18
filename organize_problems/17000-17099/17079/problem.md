@@ -1,13 +1,13 @@
 ---
-title: 달콤새콤
-special_judge: true
-time_limit: 1 초
-memory_limit: 512 MB
+title: "달콤새콤"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 54
 accepted: 26
 solved_users: 25
-acceptance_rate: 54.348%
-collected_at: 2026-04-17T14:28:59.002477+00:00
+acceptance_rate: "54.348%"
+collected_at: "2026-04-17T14:28:59.002477+00:00"
 ---
 
 ## 문제

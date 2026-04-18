@@ -1,13 +1,13 @@
 ---
-title: Random Number Generator
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "Random Number Generator"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 2090
 accepted: 432
 solved_users: 345
-acceptance_rate: 28.465%
-collected_at: 2026-04-17T10:28:32.048502+00:00
+acceptance_rate: "28.465%"
+collected_at: "2026-04-17T10:28:32.048502+00:00"
 ---
 
 ## 문제

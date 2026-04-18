@@ -1,13 +1,13 @@
 ---
-title: 맞혀보세요~
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "맞혀보세요~"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 185
 accepted: 141
 solved_users: 135
-acceptance_rate: 75.843%
-collected_at: 2026-04-17T20:52:59.715628+00:00
+acceptance_rate: "75.843%"
+collected_at: "2026-04-17T20:52:59.715628+00:00"
 ---
 
 ## 문제

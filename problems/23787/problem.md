@@ -1,13 +1,13 @@
 ---
-title: Cyanide Rivers
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Cyanide Rivers"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 168
 accepted: 122
 solved_users: 112
-acceptance_rate: 73.203%
-collected_at: 2026-04-17T16:53:43.049182+00:00
+acceptance_rate: "73.203%"
+collected_at: "2026-04-17T16:53:43.049182+00:00"
 ---
 
 ## 문제

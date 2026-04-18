@@ -1,13 +1,13 @@
 ---
-title: 단위 분수로 분할
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "단위 분수로 분할"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 240
 accepted: 112
 solved_users: 91
-acceptance_rate: 54.167%
-collected_at: 2026-04-17T10:41:20.893106+00:00
+acceptance_rate: "54.167%"
+collected_at: "2026-04-17T10:41:20.893106+00:00"
 ---
 
 ## 문제

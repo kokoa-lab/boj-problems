@@ -1,13 +1,13 @@
 ---
-title: XOR 1
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "XOR 1"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 667
 accepted: 332
 solved_users: 253
-acceptance_rate: 49.803%
-collected_at: 2026-04-17T11:14:40.349252+00:00
+acceptance_rate: "49.803%"
+collected_at: "2026-04-17T11:14:40.349252+00:00"
 ---
 
 ## 문제

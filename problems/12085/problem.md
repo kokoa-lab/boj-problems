@@ -1,13 +1,13 @@
 ---
-title: Moist (Small1)
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Moist (Small1)"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 472
 accepted: 247
 solved_users: 147
-acceptance_rate: 45.652%
-collected_at: 2026-04-17T12:49:59.232252+00:00
+acceptance_rate: "45.652%"
+collected_at: "2026-04-17T12:49:59.232252+00:00"
 ---
 
 ## 문제

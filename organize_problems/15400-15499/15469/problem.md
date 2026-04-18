@@ -1,13 +1,13 @@
 ---
-title: Mixing Coins
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Mixing Coins"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 134
 accepted: 50
 solved_users: 42
-acceptance_rate: 41.176%
-collected_at: 2026-04-17T13:59:55.437667+00:00
+acceptance_rate: "41.176%"
+collected_at: "2026-04-17T13:59:55.437667+00:00"
 ---
 
 ## 문제

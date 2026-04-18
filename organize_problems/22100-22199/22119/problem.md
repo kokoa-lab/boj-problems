@@ -1,13 +1,13 @@
 ---
-title: Кеплер
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "Кеплер"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 14
 accepted: 4
 solved_users: 2
-acceptance_rate: 100.000%
-collected_at: 2026-04-17T16:15:17.841967+00:00
+acceptance_rate: "100.000%"
+collected_at: "2026-04-17T16:15:17.841967+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 인공지능 시계
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "인공지능 시계"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 61631
 accepted: 28340
 solved_users: 25186
-acceptance_rate: 47.054%
-collected_at: 2026-04-17T10:42:25.752037+00:00
+acceptance_rate: "47.054%"
+collected_at: "2026-04-17T10:42:25.752037+00:00"
 ---
 
 ## 문제

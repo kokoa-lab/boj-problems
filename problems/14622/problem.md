@@ -1,13 +1,13 @@
 ---
-title: 소수 게임
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "소수 게임"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 2595
 accepted: 501
 solved_users: 368
-acceptance_rate: 18.852%
-collected_at: 2026-04-17T13:39:26.446026+00:00
+acceptance_rate: "18.852%"
+collected_at: "2026-04-17T13:39:26.446026+00:00"
 ---
 
 ## 문제

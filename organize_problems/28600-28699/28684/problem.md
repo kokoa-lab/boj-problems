@@ -1,13 +1,13 @@
 ---
-title: 감소하는 성장률의 비극 1
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "감소하는 성장률의 비극 1"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 161
 accepted: 41
 solved_users: 32
-acceptance_rate: 54.237%
-collected_at: 2026-04-17T18:30:39.235126+00:00
+acceptance_rate: "54.237%"
+collected_at: "2026-04-17T18:30:39.235126+00:00"
 ---
 
 ## 문제

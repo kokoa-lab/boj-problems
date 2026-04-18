@@ -1,13 +1,13 @@
 ---
-title: 두 개의 트리를 이용하는 놀이
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "두 개의 트리를 이용하는 놀이"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 7
 accepted: 6
 solved_users: 6
-acceptance_rate: 85.714%
-collected_at: 2026-04-17T19:42:50.716823+00:00
+acceptance_rate: "85.714%"
+collected_at: "2026-04-17T19:42:50.716823+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Blaster the Daredevil
-special_judge: false
-time_limit: 7 초
-memory_limit: 2048 MB
+title: "Blaster the Daredevil"
+special_judge: "false"
+time_limit: "7 초"
+memory_limit: "2048 MB"
 submissions: 20
 accepted: 14
 solved_users: 14
-acceptance_rate: 70.000%
-collected_at: 2026-04-17T20:34:46.296957+00:00
+acceptance_rate: "70.000%"
+collected_at: "2026-04-17T20:34:46.296957+00:00"
 ---
 
 ## 문제

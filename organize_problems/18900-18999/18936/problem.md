@@ -1,13 +1,13 @@
 ---
-title: 신기한 공놀이
-special_judge: false
-time_limit: 0.5 초
-memory_limit: 256 MB
+title: "신기한 공놀이"
+special_judge: "false"
+time_limit: "0.5 초"
+memory_limit: "256 MB"
 submissions: 216
 accepted: 57
 solved_users: 45
-acceptance_rate: 24.725%
-collected_at: 2026-04-17T15:11:35.377366+00:00
+acceptance_rate: "24.725%"
+collected_at: "2026-04-17T15:11:35.377366+00:00"
 ---
 
 ## 문제

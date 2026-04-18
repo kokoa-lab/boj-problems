@@ -1,13 +1,13 @@
 ---
-title: Counting paths
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Counting paths"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 216
 accepted: 127
 solved_users: 121
-acceptance_rate: 69.143%
-collected_at: 2026-04-17T13:55:44.865807+00:00
+acceptance_rate: "69.143%"
+collected_at: "2026-04-17T13:55:44.865807+00:00"
 ---
 
 ## 문제
@@ -29,7 +29,19 @@ In the previous field, the 4 valid routes are:
 
 |  |  |  |  |
 | --- | --- | --- | --- |
-| ```  **** ..X* ...* ``` | ```  *... *.X. **** ``` | ```  *... **X. .*** ``` | ```  **.. .*X. .*** ``` |
+| ``` 
+ ****
+ ..X*
+ ...* ``` | ``` 
+ *...
+ *.X.
+ **** ``` | ``` 
+ *...
+ **X.
+ .*** ``` | ``` 
+ **..
+ .*X.
+ .*** ``` |
 
 Notice that all the valid routes will always have the same length (N + M - 1).
 

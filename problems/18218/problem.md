@@ -1,13 +1,13 @@
 ---
-title: One-Way Conveyors
-special_judge: true
-time_limit: 2 초
-memory_limit: 512 MB
+title: "One-Way Conveyors"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 149
 accepted: 37
 solved_users: 35
-acceptance_rate: 26.119%
-collected_at: 2026-04-17T14:57:26.410999+00:00
+acceptance_rate: "26.119%"
+collected_at: "2026-04-17T14:57:26.410999+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Different digits
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Different digits"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 57
 accepted: 29
 solved_users: 28
-acceptance_rate: 59.574%
-collected_at: 2026-04-17T15:27:06.220683+00:00
+acceptance_rate: "59.574%"
+collected_at: "2026-04-17T15:27:06.220683+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 귀여운 라이언
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "귀여운 라이언"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 9528
 accepted: 3920
 solved_users: 2976
-acceptance_rate: 39.464%
-collected_at: 2026-04-17T14:01:40.052528+00:00
+acceptance_rate: "39.464%"
+collected_at: "2026-04-17T14:01:40.052528+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Taming the Herd
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Taming the Herd"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 833
 accepted: 318
 solved_users: 292
-acceptance_rate: 41.185%
-collected_at: 2026-04-17T14:05:50.732320+00:00
+acceptance_rate: "41.185%"
+collected_at: "2026-04-17T14:05:50.732320+00:00"
 ---
 
 ## 문제

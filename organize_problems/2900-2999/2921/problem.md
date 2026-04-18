@@ -1,13 +1,13 @@
 ---
-title: 도미노
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "도미노"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 8296
 accepted: 6570
 solved_users: 5930
-acceptance_rate: 80.549%
-collected_at: 2026-04-17T10:45:43.591770+00:00
+acceptance_rate: "80.549%"
+collected_at: "2026-04-17T10:45:43.591770+00:00"
 ---
 
 ## 문제

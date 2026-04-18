@@ -1,13 +1,13 @@
 ---
-title: Path
-special_judge: true
-time_limit: 2 초
-memory_limit: 256 MB
+title: "Path"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 414
 accepted: 69
 solved_users: 56
-acceptance_rate: 19.649%
-collected_at: 2026-04-17T12:41:29.640852+00:00
+acceptance_rate: "19.649%"
+collected_at: "2026-04-17T12:41:29.640852+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 호반우가 학교에 지각한 이유 4
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "호반우가 학교에 지각한 이유 4"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 222
 accepted: 141
 solved_users: 102
-acceptance_rate: 57.955%
-collected_at: 2026-04-17T19:07:29.141827+00:00
+acceptance_rate: "57.955%"
+collected_at: "2026-04-17T19:07:29.141827+00:00"
 ---
 
 ## 문제

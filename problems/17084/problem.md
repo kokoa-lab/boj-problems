@@ -1,13 +1,13 @@
 ---
-title: f(k, n)
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "f(k, n)"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 346
 accepted: 75
 solved_users: 66
-acceptance_rate: 21.290%
-collected_at: 2026-04-17T14:29:14.996852+00:00
+acceptance_rate: "21.290%"
+collected_at: "2026-04-17T14:29:14.996852+00:00"
 ---
 
 ## 문제

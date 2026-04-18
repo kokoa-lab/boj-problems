@@ -1,13 +1,13 @@
 ---
-title: 1’s For All
-special_judge: false
-time_limit: 15 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "1’s For All"
+special_judge: "false"
+time_limit: "15 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 175
 accepted: 42
 solved_users: 30
-acceptance_rate: 22.222%
-collected_at: 2026-04-17T17:11:03.296699+00:00
+acceptance_rate: "22.222%"
+collected_at: "2026-04-17T17:11:03.296699+00:00"
 ---
 
 ## 문제

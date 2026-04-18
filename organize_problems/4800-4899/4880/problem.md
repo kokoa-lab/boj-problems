@@ -1,13 +1,13 @@
 ---
-title: 다음수
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "다음수"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 6946
 accepted: 4073
 solved_users: 3766
-acceptance_rate: 60.353%
-collected_at: 2026-04-17T11:09:36.519024+00:00
+acceptance_rate: "60.353%"
+collected_at: "2026-04-17T11:09:36.519024+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 우수 마을
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "우수 마을"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 12514
 accepted: 6941
 solved_users: 5228
-acceptance_rate: 56.330%
-collected_at: 2026-04-17T10:36:11.404652+00:00
+acceptance_rate: "56.330%"
+collected_at: "2026-04-17T10:36:11.404652+00:00"
 ---
 
 ## 문제

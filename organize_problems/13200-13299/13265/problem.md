@@ -1,13 +1,13 @@
 ---
-title: 색칠하기
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "색칠하기"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 3289
 accepted: 1393
 solved_users: 1088
-acceptance_rate: 44.318%
-collected_at: 2026-04-17T13:10:26.932227+00:00
+acceptance_rate: "44.318%"
+collected_at: "2026-04-17T13:10:26.932227+00:00"
 ---
 
 ## 문제

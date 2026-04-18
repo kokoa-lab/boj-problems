@@ -1,13 +1,13 @@
 ---
-title: Magic Slayer
-special_judge: false
-time_limit: 8 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "Magic Slayer"
+special_judge: "false"
+time_limit: "8 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 21
 accepted: 7
 solved_users: 5
-acceptance_rate: 27.778%
-collected_at: 2026-04-17T16:28:43.267662+00:00
+acceptance_rate: "27.778%"
+collected_at: "2026-04-17T16:28:43.267662+00:00"
 ---
 
 ## 문제

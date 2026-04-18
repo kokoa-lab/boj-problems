@@ -1,13 +1,13 @@
 ---
-title: 아이돌
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "아이돌"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 6588
 accepted: 2134
 solved_users: 1620
-acceptance_rate: 29.471%
-collected_at: 2026-04-17T10:50:31.927175+00:00
+acceptance_rate: "29.471%"
+collected_at: "2026-04-17T10:50:31.927175+00:00"
 ---
 
 ## 문제

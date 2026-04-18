@@ -1,13 +1,13 @@
 ---
-title: Secrets of Legendary Treasure
-special_judge: true
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Secrets of Legendary Treasure"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 121
 accepted: 71
 solved_users: 69
-acceptance_rate: 61.062%
-collected_at: 2026-04-17T16:10:08.466356+00:00
+acceptance_rate: "61.062%"
+collected_at: "2026-04-17T16:10:08.466356+00:00"
 ---
 
 ## 문제

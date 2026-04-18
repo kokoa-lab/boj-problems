@@ -1,13 +1,13 @@
 ---
-title: Exploration
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Exploration"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 276
 accepted: 162
 solved_users: 133
-acceptance_rate: 62.441%
-collected_at: 2026-04-17T11:21:03.456001+00:00
+acceptance_rate: "62.441%"
+collected_at: "2026-04-17T11:21:03.456001+00:00"
 ---
 
 ## 문제

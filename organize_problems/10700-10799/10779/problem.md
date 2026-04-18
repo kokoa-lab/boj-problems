@@ -1,13 +1,13 @@
 ---
-title: Editor
-special_judge: false
-time_limit: 3 초
-memory_limit: 512 MB
+title: "Editor"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "512 MB"
 submissions: 104
 accepted: 30
 solved_users: 25
-acceptance_rate: 31.646%
-collected_at: 2026-04-17T12:29:25.518331+00:00
+acceptance_rate: "31.646%"
+collected_at: "2026-04-17T12:29:25.518331+00:00"
 ---
 
 ## 문제

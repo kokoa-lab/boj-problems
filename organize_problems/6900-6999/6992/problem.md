@@ -1,13 +1,13 @@
 ---
-title: Arithmetic Sequence
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Arithmetic Sequence"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 262
 accepted: 164
 solved_users: 136
-acceptance_rate: 64.762%
-collected_at: 2026-04-17T11:42:15.037623+00:00
+acceptance_rate: "64.762%"
+collected_at: "2026-04-17T11:42:15.037623+00:00"
 ---
 
 ## 문제

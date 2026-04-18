@@ -1,13 +1,13 @@
 ---
-title: Carousel Rides
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Carousel Rides"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 202
 accepted: 130
 solved_users: 103
-acceptance_rate: 61.677%
-collected_at: 2026-04-17T17:14:41.830801+00:00
+acceptance_rate: "61.677%"
+collected_at: "2026-04-17T17:14:41.830801+00:00"
 ---
 
 ## 문제

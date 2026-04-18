@@ -1,13 +1,13 @@
 ---
-title: Papričice
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Papričice"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 140
 accepted: 46
 solved_users: 40
-acceptance_rate: 36.036%
-collected_at: 2026-04-17T15:32:55.690570+00:00
+acceptance_rate: "36.036%"
+collected_at: "2026-04-17T15:32:55.690570+00:00"
 ---
 
 ## 문제

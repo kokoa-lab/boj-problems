@@ -1,13 +1,13 @@
 ---
-title: 갤러리
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "갤러리"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 706
 accepted: 493
 solved_users: 415
-acceptance_rate: 75.181%
-collected_at: 2026-04-17T10:38:30.162491+00:00
+acceptance_rate: "75.181%"
+collected_at: "2026-04-17T10:38:30.162491+00:00"
 ---
 
 ## 문제

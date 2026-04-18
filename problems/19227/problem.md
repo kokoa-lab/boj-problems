@@ -1,13 +1,13 @@
 ---
-title: Just Arrange the Icons
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Just Arrange the Icons"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 51
 accepted: 31
 solved_users: 31
-acceptance_rate: 68.889%
-collected_at: 2026-04-17T15:15:20.618200+00:00
+acceptance_rate: "68.889%"
+collected_at: "2026-04-17T15:15:20.618200+00:00"
 ---
 
 ## 문제

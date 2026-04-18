@@ -1,13 +1,13 @@
 ---
-title: Nukit
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Nukit"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 18
 accepted: 6
 solved_users: 6
-acceptance_rate: 35.294%
-collected_at: 2026-04-17T11:39:13.384478+00:00
+acceptance_rate: "35.294%"
+collected_at: "2026-04-17T11:39:13.384478+00:00"
 ---
 
 ## 문제

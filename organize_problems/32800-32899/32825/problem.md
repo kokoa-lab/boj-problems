@@ -1,13 +1,13 @@
 ---
-title: 숫자 할당
-special_judge: false
-time_limit: 0.1 초
-memory_limit: 2048 MB
+title: "숫자 할당"
+special_judge: "false"
+time_limit: "0.1 초"
+memory_limit: "2048 MB"
 submissions: 441
 accepted: 251
 solved_users: 177
-acceptance_rate: 58.609%
-collected_at: 2026-04-17T20:02:00.522455+00:00
+acceptance_rate: "58.609%"
+collected_at: "2026-04-17T20:02:00.522455+00:00"
 ---
 
 ## 문제

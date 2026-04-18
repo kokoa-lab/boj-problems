@@ -1,13 +1,13 @@
 ---
-title: Mistrzostwa
-special_judge: true
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Mistrzostwa"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 27
 accepted: 13
 solved_users: 12
-acceptance_rate: 48.000%
-collected_at: 2026-04-17T14:46:46.407220+00:00
+acceptance_rate: "48.000%"
+collected_at: "2026-04-17T14:46:46.407220+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 꽃집
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "꽃집"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 1102
 accepted: 289
 solved_users: 142
-acceptance_rate: 20.700%
-collected_at: 2026-04-17T14:39:22.188913+00:00
+acceptance_rate: "20.700%"
+collected_at: "2026-04-17T14:39:22.188913+00:00"
 ---
 
 ## 문제

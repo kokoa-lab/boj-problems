@@ -1,13 +1,13 @@
 ---
-title: 빌딩 높이
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "빌딩 높이"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 167
 accepted: 36
 solved_users: 32
-acceptance_rate: 27.586%
-collected_at: 2026-04-17T13:04:03.304590+00:00
+acceptance_rate: "27.586%"
+collected_at: "2026-04-17T13:04:03.304590+00:00"
 ---
 
 ## 문제

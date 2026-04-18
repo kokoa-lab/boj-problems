@@ -1,13 +1,13 @@
 ---
-title: Fake Plastic Trees 2
-special_judge: false
-time_limit: 3 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Fake Plastic Trees 2"
+special_judge: "false"
+time_limit: "3 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 96
 accepted: 28
 solved_users: 25
-acceptance_rate: 32.468%
-collected_at: 2026-04-17T16:07:05.408192+00:00
+acceptance_rate: "32.468%"
+collected_at: "2026-04-17T16:07:05.408192+00:00"
 ---
 
 ## 문제

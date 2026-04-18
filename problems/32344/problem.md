@@ -1,13 +1,13 @@
 ---
-title: 유물 발굴
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "유물 발굴"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 951
 accepted: 371
 solved_users: 325
-acceptance_rate: 39.975%
-collected_at: 2026-04-17T19:49:16.482178+00:00
+acceptance_rate: "39.975%"
+collected_at: "2026-04-17T19:49:16.482178+00:00"
 ---
 
 ## 문제

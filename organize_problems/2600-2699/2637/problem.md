@@ -1,13 +1,13 @@
 ---
-title: 장난감 조립
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "장난감 조립"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 11362
 accepted: 5429
 solved_users: 4034
-acceptance_rate: 50.729%
-collected_at: 2026-04-17T10:43:32.685723+00:00
+acceptance_rate: "50.729%"
+collected_at: "2026-04-17T10:43:32.685723+00:00"
 ---
 
 ## 문제

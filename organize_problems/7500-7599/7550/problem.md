@@ -1,13 +1,13 @@
 ---
-title: Magic Trick
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Magic Trick"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 70
 accepted: 18
 solved_users: 18
-acceptance_rate: 27.692%
-collected_at: 2026-04-17T11:50:31.542128+00:00
+acceptance_rate: "27.692%"
+collected_at: "2026-04-17T11:50:31.542128+00:00"
 ---
 
 ## 문제

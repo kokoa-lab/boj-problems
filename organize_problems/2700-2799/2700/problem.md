@@ -1,13 +1,13 @@
 ---
-title: 볼록 격자 다각형의 내부점
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "볼록 격자 다각형의 내부점"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 143
 accepted: 50
 solved_users: 41
-acceptance_rate: 37.963%
-collected_at: 2026-04-17T10:44:03.019860+00:00
+acceptance_rate: "37.963%"
+collected_at: "2026-04-17T10:44:03.019860+00:00"
 ---
 
 ## 문제

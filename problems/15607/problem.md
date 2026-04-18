@@ -1,13 +1,13 @@
 ---
-title: Installing Apps
-special_judge: true
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Installing Apps"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 337
 accepted: 84
 solved_users: 70
-acceptance_rate: 24.138%
-collected_at: 2026-04-17T14:02:30.192727+00:00
+acceptance_rate: "24.138%"
+collected_at: "2026-04-17T14:02:30.192727+00:00"
 ---
 
 ## 문제

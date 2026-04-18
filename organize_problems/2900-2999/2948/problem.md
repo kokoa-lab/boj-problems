@@ -1,13 +1,13 @@
 ---
-title: 2009년
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "2009년"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 4672
 accepted: 2547
 solved_users: 2368
-acceptance_rate: 55.237%
-collected_at: 2026-04-17T10:45:52.802528+00:00
+acceptance_rate: "55.237%"
+collected_at: "2026-04-17T10:45:52.802528+00:00"
 ---
 
 ## 문제

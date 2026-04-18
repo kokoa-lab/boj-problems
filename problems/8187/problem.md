@@ -1,13 +1,13 @@
 ---
-title: Divine Divisor
-special_judge: false
-time_limit: 3 초
-memory_limit: 128 MB
+title: "Divine Divisor"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "128 MB"
 submissions: 1017
 accepted: 176
 solved_users: 110
-acceptance_rate: 16.176%
-collected_at: 2026-04-17T11:56:57.666184+00:00
+acceptance_rate: "16.176%"
+collected_at: "2026-04-17T11:56:57.666184+00:00"
 ---
 
 ## 문제

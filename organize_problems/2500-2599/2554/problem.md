@@ -1,13 +1,13 @@
 ---
-title: 마지막 팩토리얼 수2
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "마지막 팩토리얼 수2"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 1096
 accepted: 228
 solved_users: 143
-acceptance_rate: 32.874%
-collected_at: 2026-04-17T10:42:40.546749+00:00
+acceptance_rate: "32.874%"
+collected_at: "2026-04-17T10:42:40.546749+00:00"
 ---
 
 ## 문제

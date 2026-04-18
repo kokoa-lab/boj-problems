@@ -1,13 +1,13 @@
 ---
-title: Ученье --- свет, а неученье --- тьма
-special_judge: false
-time_limit: 4 초
-memory_limit: 1024 MB
+title: "Ученье --- свет, а неученье --- тьма"
+special_judge: "false"
+time_limit: "4 초"
+memory_limit: "1024 MB"
 submissions: 111
 accepted: 31
 solved_users: 16
-acceptance_rate: 29.091%
-collected_at: 2026-04-17T18:37:31.511054+00:00
+acceptance_rate: "29.091%"
+collected_at: "2026-04-17T18:37:31.511054+00:00"
 ---
 
 ## 문제

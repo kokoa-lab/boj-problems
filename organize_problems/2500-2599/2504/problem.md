@@ -1,13 +1,13 @@
 ---
-title: 괄호의 값
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "괄호의 값"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 78411
 accepted: 23965
 solved_users: 18096
-acceptance_rate: 32.699%
-collected_at: 2026-04-17T10:42:11.987576+00:00
+acceptance_rate: "32.699%"
+collected_at: "2026-04-17T10:42:11.987576+00:00"
 ---
 
 ## 문제

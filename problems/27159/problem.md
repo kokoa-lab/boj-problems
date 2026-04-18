@@ -1,13 +1,13 @@
 ---
-title: 노 땡스!
-special_judge: false
-time_limit: 0.5 초
-memory_limit: 1024 MB
+title: "노 땡스!"
+special_judge: "false"
+time_limit: "0.5 초"
+memory_limit: "1024 MB"
 submissions: 2126
 accepted: 1681
 solved_users: 1569
-acceptance_rate: 80.668%
-collected_at: 2026-04-17T17:57:19.346841+00:00
+acceptance_rate: "80.668%"
+collected_at: "2026-04-17T17:57:19.346841+00:00"
 ---
 
 ## 문제

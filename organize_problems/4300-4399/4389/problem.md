@@ -1,13 +1,13 @@
 ---
-title: Demerit Points
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Demerit Points"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 26
 accepted: 12
 solved_users: 11
-acceptance_rate: 64.706%
-collected_at: 2026-04-17T11:00:50.930517+00:00
+acceptance_rate: "64.706%"
+collected_at: "2026-04-17T11:00:50.930517+00:00"
 ---
 
 ## 문제

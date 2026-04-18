@@ -1,13 +1,13 @@
 ---
-title: Vasya's graph
-special_judge: false
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 256 MB
+title: "Vasya's graph"
+special_judge: "false"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "256 MB"
 submissions: 18
 accepted: 12
 solved_users: 11
-acceptance_rate: 64.706%
-collected_at: 2026-04-17T16:50:39.464818+00:00
+acceptance_rate: "64.706%"
+collected_at: "2026-04-17T16:50:39.464818+00:00"
 ---
 
 ## 문제

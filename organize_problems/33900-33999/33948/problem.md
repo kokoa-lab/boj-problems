@@ -1,13 +1,13 @@
 ---
-title: 수열 재활용
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "수열 재활용"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 54
 accepted: 28
 solved_users: 20
-acceptance_rate: 52.632%
-collected_at: 2026-04-17T20:27:03.129700+00:00
+acceptance_rate: "52.632%"
+collected_at: "2026-04-17T20:27:03.129700+00:00"
 ---
 
 ## 문제

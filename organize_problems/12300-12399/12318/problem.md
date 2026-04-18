@@ -1,13 +1,13 @@
 ---
-title: Consonants (Large)
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Consonants (Large)"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 67
 accepted: 44
 solved_users: 38
-acceptance_rate: 79.167%
-collected_at: 2026-04-17T12:53:25.949528+00:00
+acceptance_rate: "79.167%"
+collected_at: "2026-04-17T12:53:25.949528+00:00"
 ---
 
 ## 문제

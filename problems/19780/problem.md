@@ -1,13 +1,13 @@
 ---
-title: Мерлин
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Мерлин"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 57
 accepted: 36
 solved_users: 28
-acceptance_rate: 57.143%
-collected_at: 2026-04-17T15:27:34.622081+00:00
+acceptance_rate: "57.143%"
+collected_at: "2026-04-17T15:27:34.622081+00:00"
 ---
 
 ## 문제

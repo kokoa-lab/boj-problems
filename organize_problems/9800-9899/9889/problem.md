@@ -1,13 +1,13 @@
 ---
-title: Heng
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Heng"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 5
 accepted: 1
 solved_users: 1
-acceptance_rate: 25.000%
-collected_at: 2026-04-17T12:16:10.423131+00:00
+acceptance_rate: "25.000%"
+collected_at: "2026-04-17T12:16:10.423131+00:00"
 ---
 
 ## 문제

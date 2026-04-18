@@ -1,13 +1,13 @@
 ---
-title: 연구소
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "연구소"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 127832
 accepted: 75489
 solved_users: 42487
-acceptance_rate: 56.534%
-collected_at: 2026-04-17T13:36:34.254337+00:00
+acceptance_rate: "56.534%"
+collected_at: "2026-04-17T13:36:34.254337+00:00"
 ---
 
 ## 문제

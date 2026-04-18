@@ -1,13 +1,13 @@
 ---
-title: HI-ARC=?
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "HI-ARC=?"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 6304
 accepted: 5575
 solved_users: 5397
-acceptance_rate: 88.825%
-collected_at: 2026-04-17T18:26:52.373205+00:00
+acceptance_rate: "88.825%"
+collected_at: "2026-04-17T18:26:52.373205+00:00"
 ---
 
 ## 문제

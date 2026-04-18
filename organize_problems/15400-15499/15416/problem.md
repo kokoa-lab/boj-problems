@@ -1,13 +1,13 @@
 ---
-title: Cordon Bleu
-special_judge: false
-time_limit: 7 초
-memory_limit: 512 MB
+title: "Cordon Bleu"
+special_judge: "false"
+time_limit: "7 초"
+memory_limit: "512 MB"
 submissions: 279
 accepted: 96
 solved_users: 40
-acceptance_rate: 34.783%
-collected_at: 2026-04-17T13:58:53.257833+00:00
+acceptance_rate: "34.783%"
+collected_at: "2026-04-17T13:58:53.257833+00:00"
 ---
 
 ## 문제

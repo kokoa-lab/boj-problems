@@ -1,13 +1,13 @@
 ---
-title: Bridges and Tunnels
-special_judge: false
-time_limit: 3 초
-memory_limit: 128 MB
+title: "Bridges and Tunnels"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "128 MB"
 submissions: 142
 accepted: 83
 solved_users: 59
-acceptance_rate: 59.596%
-collected_at: 2026-04-17T10:56:19.578377+00:00
+acceptance_rate: "59.596%"
+collected_at: "2026-04-17T10:56:19.578377+00:00"
 ---
 
 ## 문제

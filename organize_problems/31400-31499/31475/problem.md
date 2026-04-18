@@ -1,13 +1,13 @@
 ---
-title: 양갈래 배열 출력하기
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "양갈래 배열 출력하기"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 316
 accepted: 198
 solved_users: 156
-acceptance_rate: 62.400%
-collected_at: 2026-04-17T19:28:55.090669+00:00
+acceptance_rate: "62.400%"
+collected_at: "2026-04-17T19:28:55.090669+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 원피스
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "원피스"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 3030
 accepted: 1883
 solved_users: 1660
-acceptance_rate: 63.238%
-collected_at: 2026-04-17T13:01:14.755408+00:00
+acceptance_rate: "63.238%"
+collected_at: "2026-04-17T13:01:14.755408+00:00"
 ---
 
 ## 문제

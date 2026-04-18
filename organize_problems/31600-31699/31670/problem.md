@@ -1,13 +1,13 @@
 ---
-title: 특별한 마법 공격
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "특별한 마법 공격"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 1017
 accepted: 344
 solved_users: 273
-acceptance_rate: 39.281%
-collected_at: 2026-04-17T19:33:51.653521+00:00
+acceptance_rate: "39.281%"
+collected_at: "2026-04-17T19:33:51.653521+00:00"
 ---
 
 ## 문제

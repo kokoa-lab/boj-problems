@@ -1,13 +1,13 @@
 ---
-title: Floor Tiling
-special_judge: false
-time_limit: 1 초
-memory_limit: 2048 MB
+title: "Floor Tiling"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "2048 MB"
 submissions: 68
 accepted: 39
 solved_users: 34
-acceptance_rate: 58.621%
-collected_at: 2026-04-17T20:18:50.527549+00:00
+acceptance_rate: "58.621%"
+collected_at: "2026-04-17T20:18:50.527549+00:00"
 ---
 
 ## 문제

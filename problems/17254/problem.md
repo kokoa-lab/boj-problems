@@ -1,13 +1,13 @@
 ---
-title: 키보드 이벤트
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "키보드 이벤트"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 1159
 accepted: 816
 solved_users: 693
-acceptance_rate: 71.665%
-collected_at: 2026-04-17T14:35:17.444235+00:00
+acceptance_rate: "71.665%"
+collected_at: "2026-04-17T14:35:17.444235+00:00"
 ---
 
 ## 문제

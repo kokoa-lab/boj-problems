@@ -1,13 +1,13 @@
 ---
-title: 사계절을 되찾은 자
-special_judge: false
-time_limit: 0.5 초
-memory_limit: 1024 MB
+title: "사계절을 되찾은 자"
+special_judge: "false"
+time_limit: "0.5 초"
+memory_limit: "1024 MB"
 submissions: 273
 accepted: 68
 solved_users: 49
-acceptance_rate: 21.397%
-collected_at: 2026-04-17T20:28:22.840219+00:00
+acceptance_rate: "21.397%"
+collected_at: "2026-04-17T20:28:22.840219+00:00"
 ---
 
 ## 문제

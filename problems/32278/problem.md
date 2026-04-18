@@ -1,13 +1,13 @@
 ---
-title: 선택 가능성이 가장 높은 자료형
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "선택 가능성이 가장 높은 자료형"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 2069
 accepted: 1404
 solved_users: 1277
-acceptance_rate: 69.478%
-collected_at: 2026-04-17T19:47:51.312984+00:00
+acceptance_rate: "69.478%"
+collected_at: "2026-04-17T19:47:51.312984+00:00"
 ---
 
 ## 문제

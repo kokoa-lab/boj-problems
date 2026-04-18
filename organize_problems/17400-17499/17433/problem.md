@@ -1,13 +1,13 @@
 ---
-title: 신비로운 수
-special_judge: false
-time_limit: 0.25 초
-memory_limit: 256 MB
+title: "신비로운 수"
+special_judge: "false"
+time_limit: "0.25 초"
+memory_limit: "256 MB"
 submissions: 928
 accepted: 466
 solved_users: 375
-acceptance_rate: 50.744%
-collected_at: 2026-04-17T14:39:16.979251+00:00
+acceptance_rate: "50.744%"
+collected_at: "2026-04-17T14:39:16.979251+00:00"
 ---
 
 ## 문제

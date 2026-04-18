@@ -1,13 +1,13 @@
 ---
-title: Good Cable Management
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Good Cable Management"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 17
 accepted: 7
 solved_users: 7
-acceptance_rate: 50.000%
-collected_at: 2026-04-17T14:21:16.714807+00:00
+acceptance_rate: "50.000%"
+collected_at: "2026-04-17T14:21:16.714807+00:00"
 ---
 
 ## 문제

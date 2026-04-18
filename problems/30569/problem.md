@@ -1,13 +1,13 @@
 ---
-title: Last One Standing
-special_judge: false
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Last One Standing"
+special_judge: "false"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 324
 accepted: 231
 solved_users: 211
-acceptance_rate: 73.010%
-collected_at: 2026-04-17T19:09:42.364148+00:00
+acceptance_rate: "73.010%"
+collected_at: "2026-04-17T19:09:42.364148+00:00"
 ---
 
 ## 문제

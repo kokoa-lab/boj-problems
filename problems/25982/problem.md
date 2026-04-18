@@ -1,13 +1,13 @@
 ---
-title: Cookbook Composition
-special_judge: true
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 2048 MB
+title: "Cookbook Composition"
+special_judge: "true"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "2048 MB"
 submissions: 124
 accepted: 44
 solved_users: 34
-acceptance_rate: 44.156%
-collected_at: 2026-04-17T17:38:12.017455+00:00
+acceptance_rate: "44.156%"
+collected_at: "2026-04-17T17:38:12.017455+00:00"
 ---
 
 ## 문제

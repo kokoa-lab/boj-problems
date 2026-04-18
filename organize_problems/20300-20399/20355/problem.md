@@ -1,13 +1,13 @@
 ---
-title: Caesar Word Salad
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Caesar Word Salad"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 178
 accepted: 146
 solved_users: 136
-acceptance_rate: 84.472%
-collected_at: 2026-04-17T15:35:30.050250+00:00
+acceptance_rate: "84.472%"
+collected_at: "2026-04-17T15:35:30.050250+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 결투
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "결투"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 444
 accepted: 87
 solved_users: 65
-acceptance_rate: 25.292%
-collected_at: 2026-04-17T10:31:46.972316+00:00
+acceptance_rate: "25.292%"
+collected_at: "2026-04-17T10:31:46.972316+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 브실이의 불침번 근무
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "브실이의 불침번 근무"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 1251
 accepted: 474
 solved_users: 418
-acceptance_rate: 39.621%
-collected_at: 2026-04-17T18:51:24.543178+00:00
+acceptance_rate: "39.621%"
+collected_at: "2026-04-17T18:51:24.543178+00:00"
 ---
 
 ## 문제

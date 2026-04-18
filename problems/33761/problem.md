@@ -1,13 +1,13 @@
 ---
-title: Lazy Sort
-special_judge: false
-time_limit: 2 초
-memory_limit: 2048 MB
+title: "Lazy Sort"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "2048 MB"
 submissions: 19
 accepted: 9
 solved_users: 8
-acceptance_rate: 50.000%
-collected_at: 2026-04-17T20:23:07.521799+00:00
+acceptance_rate: "50.000%"
+collected_at: "2026-04-17T20:23:07.521799+00:00"
 ---
 
 ## 문제

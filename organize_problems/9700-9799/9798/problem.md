@@ -1,13 +1,13 @@
 ---
-title: Cartesian Tree
-special_judge: false
-time_limit: 2 초
-memory_limit: 64 MB
+title: "Cartesian Tree"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "64 MB"
 submissions: 143
 accepted: 66
 solved_users: 54
-acceptance_rate: 56.250%
-collected_at: 2026-04-17T12:14:46.149602+00:00
+acceptance_rate: "56.250%"
+collected_at: "2026-04-17T12:14:46.149602+00:00"
 ---
 
 ## 문제

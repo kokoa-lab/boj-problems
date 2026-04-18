@@ -1,13 +1,13 @@
 ---
-title: Mooyo Mooyo
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Mooyo Mooyo"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 2167
 accepted: 1062
 solved_users: 790
-acceptance_rate: 49.499%
-collected_at: 2026-04-17T14:23:41.266425+00:00
+acceptance_rate: "49.499%"
+collected_at: "2026-04-17T14:23:41.266425+00:00"
 ---
 
 ## 문제

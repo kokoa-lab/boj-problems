@@ -1,13 +1,13 @@
 ---
-title: Dr. Spaceman의 특별한 알고리즘
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Dr. Spaceman의 특별한 알고리즘"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 552
 accepted: 291
 solved_users: 264
-acceptance_rate: 55.462%
-collected_at: 2026-04-17T12:54:03.153418+00:00
+acceptance_rate: "55.462%"
+collected_at: "2026-04-17T12:54:03.153418+00:00"
 ---
 
 ## 문제

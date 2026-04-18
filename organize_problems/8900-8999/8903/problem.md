@@ -1,13 +1,13 @@
 ---
-title: 장비
-special_judge: false
-time_limit: 5 초
-memory_limit: 128 MB
+title: "장비"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "128 MB"
 submissions: 460
 accepted: 185
 solved_users: 130
-acceptance_rate: 42.071%
-collected_at: 2026-04-17T12:04:43.504954+00:00
+acceptance_rate: "42.071%"
+collected_at: "2026-04-17T12:04:43.504954+00:00"
 ---
 
 ## 문제

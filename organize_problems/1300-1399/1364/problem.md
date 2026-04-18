@@ -1,13 +1,13 @@
 ---
-title: 울타리 치기
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "울타리 치기"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 907
 accepted: 299
 solved_users: 210
-acceptance_rate: 34.314%
-collected_at: 2026-04-17T10:29:40.104156+00:00
+acceptance_rate: "34.314%"
+collected_at: "2026-04-17T10:29:40.104156+00:00"
 ---
 
 ## 문제

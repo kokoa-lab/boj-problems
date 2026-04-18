@@ -1,13 +1,13 @@
 ---
-title: 財宝
-special_judge: false
-time_limit: 10 초
-memory_limit: 1024 MB
+title: "財宝"
+special_judge: "false"
+time_limit: "10 초"
+memory_limit: "1024 MB"
 submissions: 245
 accepted: 61
 solved_users: 38
-acceptance_rate: 22.353%
-collected_at: 2026-04-17T12:27:49.480266+00:00
+acceptance_rate: "22.353%"
+collected_at: "2026-04-17T12:27:49.480266+00:00"
 ---
 
 ## 문제

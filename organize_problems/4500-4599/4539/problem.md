@@ -1,13 +1,13 @@
 ---
-title: 반올림
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "반올림"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 1800
 accepted: 1220
 solved_users: 1116
-acceptance_rate: 71.310%
-collected_at: 2026-04-17T11:03:41.351745+00:00
+acceptance_rate: "71.310%"
+collected_at: "2026-04-17T11:03:41.351745+00:00"
 ---
 
 ## 문제

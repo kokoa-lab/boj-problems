@@ -1,13 +1,13 @@
 ---
-title: 간선 추가
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "간선 추가"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 1221
 accepted: 352
 solved_users: 185
-acceptance_rate: 28.816%
-collected_at: 2026-04-17T10:28:38.528246+00:00
+acceptance_rate: "28.816%"
+collected_at: "2026-04-17T10:28:38.528246+00:00"
 ---
 
 ## 문제

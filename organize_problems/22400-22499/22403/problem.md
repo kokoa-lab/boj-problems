@@ -1,13 +1,13 @@
 ---
-title: 阿吽の呼吸
-special_judge: false
-time_limit: 10 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "阿吽の呼吸"
+special_judge: "false"
+time_limit: "10 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 345
 accepted: 190
 solved_users: 149
-acceptance_rate: 54.982%
-collected_at: 2026-04-17T16:20:15.192121+00:00
+acceptance_rate: "54.982%"
+collected_at: "2026-04-17T16:20:15.192121+00:00"
 ---
 
 ## 문제

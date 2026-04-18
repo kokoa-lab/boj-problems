@@ -1,13 +1,13 @@
 ---
-title: Farmer John's Favorite Operation
-special_judge: false
-time_limit: 2 초
-memory_limit: 2048 MB
+title: "Farmer John's Favorite Operation"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "2048 MB"
 submissions: 117
 accepted: 74
 solved_users: 72
-acceptance_rate: 66.055%
-collected_at: 2026-04-17T20:17:52.924302+00:00
+acceptance_rate: "66.055%"
+collected_at: "2026-04-17T20:17:52.924302+00:00"
 ---
 
 ## 문제

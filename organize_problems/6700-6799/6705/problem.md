@@ -1,13 +1,13 @@
 ---
-title: Hardware
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Hardware"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 43
 accepted: 20
 solved_users: 16
-acceptance_rate: 45.714%
-collected_at: 2026-04-17T11:33:34.218636+00:00
+acceptance_rate: "45.714%"
+collected_at: "2026-04-17T11:33:34.218636+00:00"
 ---
 
 ## 문제

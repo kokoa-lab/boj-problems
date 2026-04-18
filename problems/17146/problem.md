@@ -1,13 +1,13 @@
 ---
-title: IZLET
-special_judge: true
-time_limit: 2 초
-memory_limit: 512 MB
+title: "IZLET"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 93
 accepted: 36
 solved_users: 27
-acceptance_rate: 39.706%
-collected_at: 2026-04-17T14:30:56.191261+00:00
+acceptance_rate: "39.706%"
+collected_at: "2026-04-17T14:30:56.191261+00:00"
 ---
 
 ## 문제

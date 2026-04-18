@@ -1,13 +1,13 @@
 ---
-title: 부분평균
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "부분평균"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 558
 accepted: 172
 solved_users: 140
-acceptance_rate: 36.554%
-collected_at: 2026-04-17T13:45:39.767772+00:00
+acceptance_rate: "36.554%"
+collected_at: "2026-04-17T13:45:39.767772+00:00"
 ---
 
 ## 문제

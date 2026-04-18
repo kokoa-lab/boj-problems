@@ -1,13 +1,13 @@
 ---
-title: 스쿨 아이돌 프로젝트 GSHS
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "스쿨 아이돌 프로젝트 GSHS"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 60
 accepted: 17
 solved_users: 16
-acceptance_rate: 30.189%
-collected_at: 2026-04-17T18:58:52.736619+00:00
+acceptance_rate: "30.189%"
+collected_at: "2026-04-17T18:58:52.736619+00:00"
 ---
 
 ## 문제

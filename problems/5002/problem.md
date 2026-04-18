@@ -1,13 +1,13 @@
 ---
-title: 도어맨
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "도어맨"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 1789
 accepted: 802
 solved_users: 668
-acceptance_rate: 46.164%
-collected_at: 2026-04-17T11:10:46.993294+00:00
+acceptance_rate: "46.164%"
+collected_at: "2026-04-17T11:10:46.993294+00:00"
 ---
 
 ## 문제

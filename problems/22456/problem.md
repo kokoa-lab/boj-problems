@@ -1,13 +1,13 @@
 ---
-title: Equation
-special_judge: false
-time_limit: 8 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "Equation"
+special_judge: "false"
+time_limit: "8 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 51
 accepted: 20
 solved_users: 14
-acceptance_rate: 32.558%
-collected_at: 2026-04-17T16:21:43.553751+00:00
+acceptance_rate: "32.558%"
+collected_at: "2026-04-17T16:21:43.553751+00:00"
 ---
 
 ## 문제

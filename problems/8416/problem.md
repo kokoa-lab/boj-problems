@@ -1,13 +1,13 @@
 ---
-title: Czy umiesz potęgować?
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Czy umiesz potęgować?"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 242
 accepted: 108
 solved_users: 97
-acceptance_rate: 48.259%
-collected_at: 2026-04-17T11:59:22.720976+00:00
+acceptance_rate: "48.259%"
+collected_at: "2026-04-17T11:59:22.720976+00:00"
 ---
 
 ## 문제

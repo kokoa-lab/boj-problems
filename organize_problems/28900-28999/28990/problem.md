@@ -1,13 +1,13 @@
 ---
-title: Бэтмен и Робин
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Бэтмен и Робин"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 44
 accepted: 32
 solved_users: 19
-acceptance_rate: 63.333%
-collected_at: 2026-04-17T18:35:41.862736+00:00
+acceptance_rate: "63.333%"
+collected_at: "2026-04-17T18:35:41.862736+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 창영이와 퇴근
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "창영이와 퇴근"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 2924
 accepted: 1126
 solved_users: 819
-acceptance_rate: 36.095%
-collected_at: 2026-04-17T16:15:09.868277+00:00
+acceptance_rate: "36.095%"
+collected_at: "2026-04-17T16:15:09.868277+00:00"
 ---
 
 ## 문제

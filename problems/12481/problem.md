@@ -1,13 +1,13 @@
 ---
-title: Mystery Square (Small)
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Mystery Square (Small)"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 101
 accepted: 42
 solved_users: 27
-acceptance_rate: 35.065%
-collected_at: 2026-04-17T12:56:01.359240+00:00
+acceptance_rate: "35.065%"
+collected_at: "2026-04-17T12:56:01.359240+00:00"
 ---
 
 ## 문제

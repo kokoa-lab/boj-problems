@@ -1,13 +1,13 @@
 ---
-title: Keystroke
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Keystroke"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 269
 accepted: 225
 solved_users: 194
-acceptance_rate: 85.841%
-collected_at: 2026-04-17T15:33:57.572170+00:00
+acceptance_rate: "85.841%"
+collected_at: "2026-04-17T15:33:57.572170+00:00"
 ---
 
 ## 문제

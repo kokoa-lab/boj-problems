@@ -1,13 +1,13 @@
 ---
-title: 트리와 경로 뒤집기 쿼리
-special_judge: false
-time_limit: 6 초 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "트리와 경로 뒤집기 쿼리"
+special_judge: "false"
+time_limit: "6 초 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 51
 accepted: 6
 solved_users: 6
-acceptance_rate: 20.000%
-collected_at: 2026-04-17T19:47:16.712006+00:00
+acceptance_rate: "20.000%"
+collected_at: "2026-04-17T19:47:16.712006+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Курьерская служба
-special_judge: true
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Курьерская служба"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 98
 accepted: 12
 solved_users: 11
-acceptance_rate: 15.278%
-collected_at: 2026-04-17T15:37:34.554931+00:00
+acceptance_rate: "15.278%"
+collected_at: "2026-04-17T15:37:34.554931+00:00"
 ---
 
 ## 문제

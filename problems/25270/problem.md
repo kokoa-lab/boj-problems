@@ -1,13 +1,13 @@
 ---
-title: 99 Problems
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "99 Problems"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 751
 accepted: 484
 solved_users: 438
-acceptance_rate: 67.907%
-collected_at: 2026-04-17T17:23:39.097760+00:00
+acceptance_rate: "67.907%"
+collected_at: "2026-04-17T17:23:39.097760+00:00"
 ---
 
 ## 문제

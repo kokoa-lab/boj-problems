@@ -1,13 +1,13 @@
 ---
-title: 졸업한 택희를 기리며
-special_judge: true
-time_limit: 3 초
-memory_limit: 128 MB
+title: "졸업한 택희를 기리며"
+special_judge: "true"
+time_limit: "3 초"
+memory_limit: "128 MB"
 submissions: 393
 accepted: 4
 solved_users: 4
-acceptance_rate: 3.333%
-collected_at: 2026-04-17T14:04:02.744307+00:00
+acceptance_rate: "3.333%"
+collected_at: "2026-04-17T14:04:02.744307+00:00"
 ---
 
 ## 문제

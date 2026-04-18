@@ -1,13 +1,13 @@
 ---
-title: Revenge of the Hot Dogs (Small)
-special_judge: true
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Revenge of the Hot Dogs (Small)"
+special_judge: "true"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 44
 accepted: 21
 solved_users: 20
-acceptance_rate: 46.512%
-collected_at: 2026-04-17T12:56:24.278869+00:00
+acceptance_rate: "46.512%"
+collected_at: "2026-04-17T12:56:24.278869+00:00"
 ---
 
 ## 문제

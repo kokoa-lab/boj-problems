@@ -1,13 +1,13 @@
 ---
-title: Server Relocation
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Server Relocation"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 26
 accepted: 10
 solved_users: 10
-acceptance_rate: 45.455%
-collected_at: 2026-04-17T11:09:16.594483+00:00
+acceptance_rate: "45.455%"
+collected_at: "2026-04-17T11:09:16.594483+00:00"
 ---
 
 ## 문제

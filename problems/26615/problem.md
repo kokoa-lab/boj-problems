@@ -1,13 +1,13 @@
 ---
-title: 다오의 행사 계획하기
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "다오의 행사 계획하기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 272
 accepted: 112
 solved_users: 93
-acceptance_rate: 42.273%
-collected_at: 2026-04-17T17:48:49.469603+00:00
+acceptance_rate: "42.273%"
+collected_at: "2026-04-17T17:48:49.469603+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 비즈 공예
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "비즈 공예"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 2313
 accepted: 698
 solved_users: 497
-acceptance_rate: 31.416%
-collected_at: 2026-04-17T10:29:21.892708+00:00
+acceptance_rate: "31.416%"
+collected_at: "2026-04-17T10:29:21.892708+00:00"
 ---
 
 ## 문제

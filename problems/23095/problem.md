@@ -1,13 +1,13 @@
 ---
-title: Excavation
-special_judge: true
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Excavation"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 87
 accepted: 41
 solved_users: 39
-acceptance_rate: 50.649%
-collected_at: 2026-04-17T16:41:47.487629+00:00
+acceptance_rate: "50.649%"
+collected_at: "2026-04-17T16:41:47.487629+00:00"
 ---
 
 ## 문제

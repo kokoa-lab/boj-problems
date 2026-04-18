@@ -1,13 +1,13 @@
 ---
-title: 제곱근
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "제곱근"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 7597
 accepted: 2353
 solved_users: 1944
-acceptance_rate: 36.610%
-collected_at: 2026-04-17T13:17:45.961286+00:00
+acceptance_rate: "36.610%"
+collected_at: "2026-04-17T13:17:45.961286+00:00"
 ---
 
 ## 문제

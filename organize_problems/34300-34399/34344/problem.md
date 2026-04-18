@@ -1,13 +1,13 @@
 ---
-title: 공연 준비
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "공연 준비"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 68
 accepted: 15
 solved_users: 9
-acceptance_rate: 69.231%
-collected_at: 2026-04-17T20:36:04.862086+00:00
+acceptance_rate: "69.231%"
+collected_at: "2026-04-17T20:36:04.862086+00:00"
 ---
 
 ## 문제

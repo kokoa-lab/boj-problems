@@ -1,13 +1,13 @@
 ---
-title: 숫자 자물쇠 2
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "숫자 자물쇠 2"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 154
 accepted: 5
 solved_users: 4
-acceptance_rate: 25.000%
-collected_at: 2026-04-17T13:04:33.844208+00:00
+acceptance_rate: "25.000%"
+collected_at: "2026-04-17T13:04:33.844208+00:00"
 ---
 
 ## 문제

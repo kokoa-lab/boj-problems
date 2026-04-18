@@ -1,13 +1,13 @@
 ---
-title: 피보나치 냅색
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "피보나치 냅색"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 1139
 accepted: 150
 solved_users: 111
-acceptance_rate: 19.681%
-collected_at: 2026-04-17T10:28:22.653997+00:00
+acceptance_rate: "19.681%"
+collected_at: "2026-04-17T10:28:22.653997+00:00"
 ---
 
 ## 문제

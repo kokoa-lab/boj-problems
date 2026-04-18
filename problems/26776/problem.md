@@ -1,13 +1,13 @@
 ---
-title: Próg kwalifikacyjny
-special_judge: false
-time_limit: 5 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Próg kwalifikacyjny"
+special_judge: "false"
+time_limit: "5 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 34
 accepted: 26
 solved_users: 23
-acceptance_rate: 82.143%
-collected_at: 2026-04-17T17:51:15.796008+00:00
+acceptance_rate: "82.143%"
+collected_at: "2026-04-17T17:51:15.796008+00:00"
 ---
 
 ## 문제

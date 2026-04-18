@@ -1,13 +1,13 @@
 ---
-title: 수학 게임
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "수학 게임"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 1463
 accepted: 706
 solved_users: 596
-acceptance_rate: 51.826%
-collected_at: 2026-04-17T10:45:20.610609+00:00
+acceptance_rate: "51.826%"
+collected_at: "2026-04-17T10:45:20.610609+00:00"
 ---
 
 ## 문제

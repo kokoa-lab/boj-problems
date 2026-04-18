@@ -1,13 +1,13 @@
 ---
-title: Aesthetic Text
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Aesthetic Text"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 127
 accepted: 45
 solved_users: 33
-acceptance_rate: 39.759%
-collected_at: 2026-04-17T11:56:23.929514+00:00
+acceptance_rate: "39.759%"
+collected_at: "2026-04-17T11:56:23.929514+00:00"
 ---
 
 ## 문제

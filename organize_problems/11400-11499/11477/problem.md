@@ -1,13 +1,13 @@
 ---
-title: Lucky Chances
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "Lucky Chances"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 99
 accepted: 90
 solved_users: 81
-acceptance_rate: 90.000%
-collected_at: 2026-04-17T12:41:12.031873+00:00
+acceptance_rate: "90.000%"
+collected_at: "2026-04-17T12:41:12.031873+00:00"
 ---
 
 ## 문제

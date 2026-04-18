@@ -1,13 +1,13 @@
 ---
-title: 떡국
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "떡국"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 2171
 accepted: 1037
 solved_users: 857
-acceptance_rate: 48.173%
-collected_at: 2026-04-17T15:43:42.499171+00:00
+acceptance_rate: "48.173%"
+collected_at: "2026-04-17T15:43:42.499171+00:00"
 ---
 
 ## 문제

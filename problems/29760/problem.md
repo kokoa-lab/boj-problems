@@ -1,13 +1,13 @@
 ---
-title: 건물 방문하기
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "건물 방문하기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 367
 accepted: 115
 solved_users: 88
-acceptance_rate: 35.060%
-collected_at: 2026-04-17T18:52:25.469141+00:00
+acceptance_rate: "35.060%"
+collected_at: "2026-04-17T18:52:25.469141+00:00"
 ---
 
 ## 문제

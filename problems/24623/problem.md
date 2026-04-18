@@ -1,13 +1,13 @@
 ---
-title: Изгороди
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "Изгороди"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 1143
 accepted: 866
 solved_users: 711
-acceptance_rate: 73.909%
-collected_at: 2026-04-17T17:12:09.922425+00:00
+acceptance_rate: "73.909%"
+collected_at: "2026-04-17T17:12:09.922425+00:00"
 ---
 
 ## 문제

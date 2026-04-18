@@ -1,13 +1,13 @@
 ---
-title: 꼬마 정민
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "꼬마 정민"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 342641
 accepted: 138924
 solved_users: 123317
-acceptance_rate: 40.792%
-collected_at: 2026-04-17T12:40:08.699847+00:00
+acceptance_rate: "40.792%"
+collected_at: "2026-04-17T12:40:08.699847+00:00"
 ---
 
 ## 문제

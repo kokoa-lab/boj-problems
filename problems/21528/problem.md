@@ -1,13 +1,13 @@
 ---
-title: Магистраль <<Урал>>
-special_judge: true
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Магистраль <<Урал>>"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 31
 accepted: 9
 solved_users: 7
-acceptance_rate: 30.435%
-collected_at: 2026-04-17T15:59:41.745161+00:00
+acceptance_rate: "30.435%"
+collected_at: "2026-04-17T15:59:41.745161+00:00"
 ---
 
 ## 문제

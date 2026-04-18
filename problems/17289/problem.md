@@ -1,13 +1,13 @@
 ---
-title: 에니그마
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "에니그마"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 108
 accepted: 55
 solved_users: 43
-acceptance_rate: 59.722%
-collected_at: 2026-04-17T14:36:21.825113+00:00
+acceptance_rate: "59.722%"
+collected_at: "2026-04-17T14:36:21.825113+00:00"
 ---
 
 ## 문제

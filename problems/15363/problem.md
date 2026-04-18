@@ -1,13 +1,13 @@
 ---
-title: Vođe
-special_judge: false
-time_limit: 3 초
-memory_limit: 512 MB
+title: "Vođe"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "512 MB"
 submissions: 11
 accepted: 8
 solved_users: 6
-acceptance_rate: 100.000%
-collected_at: 2026-04-17T13:57:56.512689+00:00
+acceptance_rate: "100.000%"
+collected_at: "2026-04-17T13:57:56.512689+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Monument Tour
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Monument Tour"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 103
 accepted: 56
 solved_users: 51
-acceptance_rate: 56.044%
-collected_at: 2026-04-17T14:41:42.970970+00:00
+acceptance_rate: "56.044%"
+collected_at: "2026-04-17T14:41:42.970970+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: OohMoo Milk
-special_judge: false
-time_limit: 2 초
-memory_limit: 2048 MB
+title: "OohMoo Milk"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "2048 MB"
 submissions: 79
 accepted: 32
 solved_users: 29
-acceptance_rate: 38.667%
-collected_at: 2026-04-17T20:23:18.560449+00:00
+acceptance_rate: "38.667%"
+collected_at: "2026-04-17T20:23:18.560449+00:00"
 ---
 
 ## 문제

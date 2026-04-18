@@ -1,13 +1,13 @@
 ---
-title: 정육면체를 사랑하는 사람
-special_judge: false
-time_limit: 0.5 초
-memory_limit: 512 MB
+title: "정육면체를 사랑하는 사람"
+special_judge: "false"
+time_limit: "0.5 초"
+memory_limit: "512 MB"
 submissions: 727
 accepted: 138
 solved_users: 69
-acceptance_rate: 16.870%
-collected_at: 2026-04-17T13:40:43.721058+00:00
+acceptance_rate: "16.870%"
+collected_at: "2026-04-17T13:40:43.721058+00:00"
 ---
 
 ## 문제

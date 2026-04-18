@@ -1,13 +1,13 @@
 ---
-title: 까마귀
-special_judge: true
-time_limit: 3 초
-memory_limit: 256 MB
+title: "까마귀"
+special_judge: "true"
+time_limit: "3 초"
+memory_limit: "256 MB"
 submissions: 238
 accepted: 21
 solved_users: 10
-acceptance_rate: 6.711%
-collected_at: 2026-04-17T12:34:45.326600+00:00
+acceptance_rate: "6.711%"
+collected_at: "2026-04-17T12:34:45.326600+00:00"
 ---
 
 ## 문제

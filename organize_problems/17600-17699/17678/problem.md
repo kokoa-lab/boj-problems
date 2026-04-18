@@ -1,13 +1,13 @@
 ---
-title: 합병
-special_judge: false
-time_limit: 3 초
-memory_limit: 256 MB
+title: "합병"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "256 MB"
 submissions: 316
 accepted: 72
 solved_users: 66
-acceptance_rate: 23.827%
-collected_at: 2026-04-17T14:45:03.895773+00:00
+acceptance_rate: "23.827%"
+collected_at: "2026-04-17T14:45:03.895773+00:00"
 ---
 
 ## 문제

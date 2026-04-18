@@ -1,13 +1,13 @@
 ---
-title: Maxwell’s Demon
-special_judge: true
-time_limit: 6 초
-memory_limit: 1024 MB
+title: "Maxwell’s Demon"
+special_judge: "true"
+time_limit: "6 초"
+memory_limit: "1024 MB"
 submissions: 24
 accepted: 0
 solved_users: 0
-acceptance_rate: 0.000%
-collected_at: 2026-04-17T19:50:57.286327+00:00
+acceptance_rate: "0.000%"
+collected_at: "2026-04-17T19:50:57.286327+00:00"
 ---
 
 ## 문제

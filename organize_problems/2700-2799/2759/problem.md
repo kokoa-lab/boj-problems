@@ -1,13 +1,13 @@
 ---
-title: 팬케이크 뒤집기
-special_judge: true
-time_limit: 1 초
-memory_limit: 128 MB
+title: "팬케이크 뒤집기"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 623
 accepted: 272
 solved_users: 228
-acceptance_rate: 48.305%
-collected_at: 2026-04-17T10:44:36.569594+00:00
+acceptance_rate: "48.305%"
+collected_at: "2026-04-17T10:44:36.569594+00:00"
 ---
 
 ## 문제

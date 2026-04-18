@@ -1,13 +1,13 @@
 ---
-title: ぴょんぴょん川渡り
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "ぴょんぴょん川渡り"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 66
 accepted: 31
 solved_users: 27
-acceptance_rate: 46.552%
-collected_at: 2026-04-17T11:15:41.489598+00:00
+acceptance_rate: "46.552%"
+collected_at: "2026-04-17T11:15:41.489598+00:00"
 ---
 
 ## 문제

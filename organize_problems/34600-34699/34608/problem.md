@@ -1,13 +1,13 @@
 ---
-title: Corrupted File
-special_judge: false
-time_limit: 2 초
-memory_limit: 2048 MB
+title: "Corrupted File"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "2048 MB"
 submissions: 56
 accepted: 26
 solved_users: 24
-acceptance_rate: 48.000%
-collected_at: 2026-04-17T20:43:50.431826+00:00
+acceptance_rate: "48.000%"
+collected_at: "2026-04-17T20:43:50.431826+00:00"
 ---
 
 ## 문제

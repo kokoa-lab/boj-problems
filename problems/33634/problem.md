@@ -1,13 +1,13 @@
 ---
-title: 4교시: 국어 (Easy)
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "4교시: 국어 (Easy)"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 336
 accepted: 121
 solved_users: 45
-acceptance_rate: 34.615%
-collected_at: 2026-04-17T20:20:25.395748+00:00
+acceptance_rate: "34.615%"
+collected_at: "2026-04-17T20:20:25.395748+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Shotcube
-special_judge: false
-time_limit: 10 초
-memory_limit: 256 MB
+title: "Shotcube"
+special_judge: "false"
+time_limit: "10 초"
+memory_limit: "256 MB"
 submissions: 103
 accepted: 10
 solved_users: 7
-acceptance_rate: 21.212%
-collected_at: 2026-04-17T12:24:20.243889+00:00
+acceptance_rate: "21.212%"
+collected_at: "2026-04-17T12:24:20.243889+00:00"
 ---
 
 ## 문제

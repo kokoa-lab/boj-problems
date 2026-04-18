@@ -1,13 +1,13 @@
 ---
-title: Binary Strings
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Binary Strings"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 132
 accepted: 60
 solved_users: 47
-acceptance_rate: 43.519%
-collected_at: 2026-04-17T13:21:41.622508+00:00
+acceptance_rate: "43.519%"
+collected_at: "2026-04-17T13:21:41.622508+00:00"
 ---
 
 ## 문제

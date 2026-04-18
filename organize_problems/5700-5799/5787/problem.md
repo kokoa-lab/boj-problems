@@ -1,13 +1,13 @@
 ---
-title: Noise Effect
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Noise Effect"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 45
 accepted: 37
 solved_users: 29
-acceptance_rate: 80.556%
-collected_at: 2026-04-17T11:17:25.569027+00:00
+acceptance_rate: "80.556%"
+collected_at: "2026-04-17T11:17:25.569027+00:00"
 ---
 
 ## 문제

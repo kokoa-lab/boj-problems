@@ -1,13 +1,13 @@
 ---
-title: Harps and Tails
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Harps and Tails"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 86
 accepted: 61
 solved_users: 54
-acceptance_rate: 78.261%
-collected_at: 2026-04-17T13:09:56.112676+00:00
+acceptance_rate: "78.261%"
+collected_at: "2026-04-17T13:09:56.112676+00:00"
 ---
 
 ## 문제

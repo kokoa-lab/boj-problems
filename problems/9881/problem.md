@@ -1,13 +1,13 @@
 ---
-title: Ski Course Design
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Ski Course Design"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 2110
 accepted: 921
 solved_users: 769
-acceptance_rate: 47.381%
-collected_at: 2026-04-17T12:16:07.190666+00:00
+acceptance_rate: "47.381%"
+collected_at: "2026-04-17T12:16:07.190666+00:00"
 ---
 
 ## 문제

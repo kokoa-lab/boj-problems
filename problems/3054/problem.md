@@ -1,13 +1,13 @@
 ---
-title: 피터팬 프레임
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "피터팬 프레임"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 2588
 accepted: 1368
 solved_users: 1241
-acceptance_rate: 54.863%
-collected_at: 2026-04-17T10:46:25.922561+00:00
+acceptance_rate: "54.863%"
+collected_at: "2026-04-17T10:46:25.922561+00:00"
 ---
 
 ## 문제

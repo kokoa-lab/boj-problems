@@ -1,13 +1,13 @@
 ---
-title: 알렉산드리아의 디오판토스
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "알렉산드리아의 디오판토스"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 554
 accepted: 185
 solved_users: 131
-acceptance_rate: 31.490%
-collected_at: 2026-04-17T11:50:12.842691+00:00
+acceptance_rate: "31.490%"
+collected_at: "2026-04-17T11:50:12.842691+00:00"
 ---
 
 ## 문제

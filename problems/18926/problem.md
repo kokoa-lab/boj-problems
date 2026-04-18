@@ -1,13 +1,13 @@
 ---
-title: Histogram and Blue Rectangles
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Histogram and Blue Rectangles"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 178
 accepted: 92
 solved_users: 56
-acceptance_rate: 45.902%
-collected_at: 2026-04-17T15:11:28.639775+00:00
+acceptance_rate: "45.902%"
+collected_at: "2026-04-17T15:11:28.639775+00:00"
 ---
 
 ## 문제

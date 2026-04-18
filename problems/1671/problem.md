@@ -1,13 +1,13 @@
 ---
-title: 상어의 저녁식사
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "상어의 저녁식사"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 8843
 accepted: 3054
 solved_users: 2363
-acceptance_rate: 34.246%
-collected_at: 2026-04-17T10:32:12.832378+00:00
+acceptance_rate: "34.246%"
+collected_at: "2026-04-17T10:32:12.832378+00:00"
 ---
 
 ## 문제

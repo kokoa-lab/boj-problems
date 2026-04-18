@@ -1,13 +1,13 @@
 ---
-title: Anniversary Cake
-special_judge: true
-time_limit: 2 초
-memory_limit: 256 MB
+title: "Anniversary Cake"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 197
 accepted: 109
 solved_users: 94
-acceptance_rate: 62.667%
-collected_at: 2026-04-17T13:13:41.976914+00:00
+acceptance_rate: "62.667%"
+collected_at: "2026-04-17T13:13:41.976914+00:00"
 ---
 
 ## 문제

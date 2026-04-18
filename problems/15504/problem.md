@@ -1,13 +1,13 @@
 ---
-title: 프로그래밍 대결
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "프로그래밍 대결"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 813
 accepted: 318
 solved_users: 239
-acceptance_rate: 37.054%
-collected_at: 2026-04-17T14:00:34.778843+00:00
+acceptance_rate: "37.054%"
+collected_at: "2026-04-17T14:00:34.778843+00:00"
 ---
 
 ## 문제

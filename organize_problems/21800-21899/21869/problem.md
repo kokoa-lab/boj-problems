@@ -1,13 +1,13 @@
 ---
-title: Maximum Bishop
-special_judge: true
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Maximum Bishop"
+special_judge: "true"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 986
 accepted: 481
 solved_users: 406
-acceptance_rate: 49.816%
-collected_at: 2026-04-17T16:09:09.451573+00:00
+acceptance_rate: "49.816%"
+collected_at: "2026-04-17T16:09:09.451573+00:00"
 ---
 
 ## 문제

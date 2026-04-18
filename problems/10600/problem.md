@@ -1,13 +1,13 @@
 ---
-title: Web Colors
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "Web Colors"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 269
 accepted: 198
 solved_users: 183
-acceptance_rate: 73.790%
-collected_at: 2026-04-17T12:26:09.973431+00:00
+acceptance_rate: "73.790%"
+collected_at: "2026-04-17T12:26:09.973431+00:00"
 ---
 
 ## 문제

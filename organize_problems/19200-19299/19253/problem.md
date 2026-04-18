@@ -1,13 +1,13 @@
 ---
-title: Don't Split The Atom!
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Don't Split The Atom!"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 106
 accepted: 72
 solved_users: 59
-acceptance_rate: 69.412%
-collected_at: 2026-04-17T15:15:43.838689+00:00
+acceptance_rate: "69.412%"
+collected_at: "2026-04-17T15:15:43.838689+00:00"
 ---
 
 ## 문제

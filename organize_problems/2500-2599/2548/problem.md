@@ -1,13 +1,13 @@
 ---
-title: 대표 자연수
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "대표 자연수"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 8384
 accepted: 3865
 solved_users: 3027
-acceptance_rate: 47.172%
-collected_at: 2026-04-17T10:42:36.819453+00:00
+acceptance_rate: "47.172%"
+collected_at: "2026-04-17T10:42:36.819453+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Exchange Rates
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Exchange Rates"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 16
 accepted: 13
 solved_users: 13
-acceptance_rate: 81.250%
-collected_at: 2026-04-17T11:06:49.549845+00:00
+acceptance_rate: "81.250%"
+collected_at: "2026-04-17T11:06:49.549845+00:00"
 ---
 
 ## 문제

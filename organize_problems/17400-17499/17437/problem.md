@@ -1,13 +1,13 @@
 ---
-title: Source
-special_judge: false
-time_limit: 0.07 초
-memory_limit: 16 MB
+title: "Source"
+special_judge: "false"
+time_limit: "0.07 초"
+memory_limit: "16 MB"
 submissions: 0
 accepted: 0
 solved_users: 0
-acceptance_rate: 0.000%
-collected_at: 2026-04-17T14:39:27.686508+00:00
+acceptance_rate: "0.000%"
+collected_at: "2026-04-17T14:39:27.686508+00:00"
 ---
 
 ## 문제

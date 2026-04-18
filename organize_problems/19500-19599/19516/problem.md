@@ -1,13 +1,13 @@
 ---
-title: K-value
-special_judge: false
-time_limit: 6 초
-memory_limit: 256 MB
+title: "K-value"
+special_judge: "false"
+time_limit: "6 초"
+memory_limit: "256 MB"
 submissions: 15
 accepted: 3
 solved_users: 3
-acceptance_rate: 33.333%
-collected_at: 2026-04-17T15:21:54.362742+00:00
+acceptance_rate: "33.333%"
+collected_at: "2026-04-17T15:21:54.362742+00:00"
 ---
 
 ## 문제

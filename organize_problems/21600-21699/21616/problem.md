@@ -1,13 +1,13 @@
 ---
-title: Modern Art
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Modern Art"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 167
 accepted: 89
 solved_users: 74
-acceptance_rate: 61.667%
-collected_at: 2026-04-17T16:01:37.801414+00:00
+acceptance_rate: "61.667%"
+collected_at: "2026-04-17T16:01:37.801414+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Language Survey
-special_judge: true
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Language Survey"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 111
 accepted: 23
 solved_users: 21
-acceptance_rate: 19.811%
-collected_at: 2026-04-17T15:46:45.429220+00:00
+acceptance_rate: "19.811%"
+collected_at: "2026-04-17T15:46:45.429220+00:00"
 ---
 
 ## 문제

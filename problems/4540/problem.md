@@ -1,13 +1,13 @@
 ---
-title: Q
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Q"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 233
 accepted: 140
 solved_users: 122
-acceptance_rate: 67.033%
-collected_at: 2026-04-17T11:03:43.151013+00:00
+acceptance_rate: "67.033%"
+collected_at: "2026-04-17T11:03:43.151013+00:00"
 ---
 
 ## 문제

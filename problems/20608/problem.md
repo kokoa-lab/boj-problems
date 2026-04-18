@@ -1,13 +1,13 @@
 ---
-title: Dynamic Convex Hull
-special_judge: false
-time_limit: 4 초
-memory_limit: 512 MB
+title: "Dynamic Convex Hull"
+special_judge: "false"
+time_limit: "4 초"
+memory_limit: "512 MB"
 submissions: 81
 accepted: 13
 solved_users: 12
-acceptance_rate: 28.571%
-collected_at: 2026-04-17T15:38:50.889842+00:00
+acceptance_rate: "28.571%"
+collected_at: "2026-04-17T15:38:50.889842+00:00"
 ---
 
 ## 문제

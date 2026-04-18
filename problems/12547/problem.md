@@ -1,13 +1,13 @@
 ---
-title: Candy Store (Small)
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Candy Store (Small)"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 55
 accepted: 42
 solved_users: 30
-acceptance_rate: 81.081%
-collected_at: 2026-04-17T12:57:15.592858+00:00
+acceptance_rate: "81.081%"
+collected_at: "2026-04-17T12:57:15.592858+00:00"
 ---
 
 ## 문제

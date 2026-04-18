@@ -1,13 +1,13 @@
 ---
-title: 상자 열기
-special_judge: true
-time_limit: 2 초
-memory_limit: 512 MB
+title: "상자 열기"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 703
 accepted: 241
 solved_users: 217
-acceptance_rate: 36.227%
-collected_at: 2026-04-17T14:09:29.281624+00:00
+acceptance_rate: "36.227%"
+collected_at: "2026-04-17T14:09:29.281624+00:00"
 ---
 
 ## 문제

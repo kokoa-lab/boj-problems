@@ -1,13 +1,13 @@
 ---
-title: 등비수열의 합
-special_judge: true
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "등비수열의 합"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 786
 accepted: 221
 solved_users: 166
-acceptance_rate: 30.292%
-collected_at: 2026-04-17T16:55:36.913890+00:00
+acceptance_rate: "30.292%"
+collected_at: "2026-04-17T16:55:36.913890+00:00"
 ---
 
 ## 문제

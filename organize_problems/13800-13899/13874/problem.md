@@ -1,13 +1,13 @@
 ---
-title: Internet Trouble
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Internet Trouble"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 200
 accepted: 38
 solved_users: 26
-acceptance_rate: 22.414%
-collected_at: 2026-04-17T13:21:25.530289+00:00
+acceptance_rate: "22.414%"
+collected_at: "2026-04-17T13:21:25.530289+00:00"
 ---
 
 ## 문제

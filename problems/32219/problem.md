@@ -1,13 +1,13 @@
 ---
-title: 코드마스터, 슬라이딩 퍼즐 마스터, 보드게임 마스터
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "코드마스터, 슬라이딩 퍼즐 마스터, 보드게임 마스터"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 408
 accepted: 185
 solved_users: 173
-acceptance_rate: 47.011%
-collected_at: 2026-04-17T19:45:48.862431+00:00
+acceptance_rate: "47.011%"
+collected_at: "2026-04-17T19:45:48.862431+00:00"
 ---
 
 ## 문제

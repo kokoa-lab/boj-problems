@@ -1,13 +1,13 @@
 ---
-title: Cosmetic Survey
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Cosmetic Survey"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 449
 accepted: 140
 solved_users: 114
-acceptance_rate: 34.650%
-collected_at: 2026-04-17T14:16:27.107162+00:00
+acceptance_rate: "34.650%"
+collected_at: "2026-04-17T14:16:27.107162+00:00"
 ---
 
 ## 문제

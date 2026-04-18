@@ -1,13 +1,13 @@
 ---
-title: 피보나치 수 분석
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "피보나치 수 분석"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 597
 accepted: 177
 solved_users: 109
-acceptance_rate: 26.716%
-collected_at: 2026-04-17T11:02:09.252075+00:00
+acceptance_rate: "26.716%"
+collected_at: "2026-04-17T11:02:09.252075+00:00"
 ---
 
 ## 문제

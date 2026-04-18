@@ -1,13 +1,13 @@
 ---
-title: Bree's pantry
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Bree's pantry"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 81
 accepted: 58
 solved_users: 49
-acceptance_rate: 74.242%
-collected_at: 2026-04-17T12:17:05.724940+00:00
+acceptance_rate: "74.242%"
+collected_at: "2026-04-17T12:17:05.724940+00:00"
 ---
 
 ## 문제

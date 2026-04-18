@@ -1,13 +1,13 @@
 ---
-title: 세워라 반석 위에
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "세워라 반석 위에"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 2041
 accepted: 626
 solved_users: 438
-acceptance_rate: 33.692%
-collected_at: 2026-04-17T16:10:46.525936+00:00
+acceptance_rate: "33.692%"
+collected_at: "2026-04-17T16:10:46.525936+00:00"
 ---
 
 ## 문제

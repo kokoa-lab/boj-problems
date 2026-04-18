@@ -1,13 +1,13 @@
 ---
-title: En-JOI-able Logo Design
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "En-JOI-able Logo Design"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 91
 accepted: 50
 solved_users: 49
-acceptance_rate: 59.036%
-collected_at: 2026-04-17T14:46:12.783556+00:00
+acceptance_rate: "59.036%"
+collected_at: "2026-04-17T14:46:12.783556+00:00"
 ---
 
 ## 문제

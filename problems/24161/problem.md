@@ -1,13 +1,13 @@
 ---
-title: アナグラム (Anagram)
-special_judge: false
-time_limit: 0.5 초
-memory_limit: 1024 MB
+title: "アナグラム (Anagram)"
+special_judge: "false"
+time_limit: "0.5 초"
+memory_limit: "1024 MB"
 submissions: 41
 accepted: 32
 solved_users: 30
-acceptance_rate: 78.947%
-collected_at: 2026-04-17T17:05:14.764541+00:00
+acceptance_rate: "78.947%"
+collected_at: "2026-04-17T17:05:14.764541+00:00"
 ---
 
 ## 문제

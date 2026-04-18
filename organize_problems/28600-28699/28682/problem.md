@@ -1,13 +1,13 @@
 ---
-title: 재우야 임관하자
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "재우야 임관하자"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 1198
 accepted: 537
 solved_users: 454
-acceptance_rate: 47.440%
-collected_at: 2026-04-17T18:30:35.697086+00:00
+acceptance_rate: "47.440%"
+collected_at: "2026-04-17T18:30:35.697086+00:00"
 ---
 
 ## 문제

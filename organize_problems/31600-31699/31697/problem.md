@@ -1,13 +1,13 @@
 ---
-title: Znaczki pocztowe
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Znaczki pocztowe"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 43
 accepted: 30
 solved_users: 24
-acceptance_rate: 64.865%
-collected_at: 2026-04-17T19:34:49.938723+00:00
+acceptance_rate: "64.865%"
+collected_at: "2026-04-17T19:34:49.938723+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Stuck in a Rut
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Stuck in a Rut"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 395
 accepted: 181
 solved_users: 155
-acceptance_rate: 48.742%
-collected_at: 2026-04-17T15:39:25.115183+00:00
+acceptance_rate: "48.742%"
+collected_at: "2026-04-17T15:39:25.115183+00:00"
 ---
 
 ## 문제

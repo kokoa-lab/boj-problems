@@ -1,13 +1,13 @@
 ---
-title: 끝이없음
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "끝이없음"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 2328
 accepted: 300
 solved_users: 242
-acceptance_rate: 20.808%
-collected_at: 2026-04-17T10:27:56.129566+00:00
+acceptance_rate: "20.808%"
+collected_at: "2026-04-17T10:27:56.129566+00:00"
 ---
 
 ## 문제

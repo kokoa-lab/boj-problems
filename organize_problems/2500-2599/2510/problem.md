@@ -1,13 +1,13 @@
 ---
-title: 어려운 매췽
-special_judge: false
-time_limit: 30 초
-memory_limit: 1536 MB
+title: "어려운 매췽"
+special_judge: "false"
+time_limit: "30 초"
+memory_limit: "1536 MB"
 submissions: 1024
 accepted: 6
 solved_users: 2
-acceptance_rate: 10.000%
-collected_at: 2026-04-17T10:42:14.806233+00:00
+acceptance_rate: "10.000%"
+collected_at: "2026-04-17T10:42:14.806233+00:00"
 ---
 
 ## 문제

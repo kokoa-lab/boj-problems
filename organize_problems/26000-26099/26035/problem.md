@@ -1,13 +1,13 @@
 ---
-title: $0101$
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "$0101$"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 393
 accepted: 184
 solved_users: 150
-acceptance_rate: 44.510%
-collected_at: 2026-04-17T17:39:08.493942+00:00
+acceptance_rate: "44.510%"
+collected_at: "2026-04-17T17:39:08.493942+00:00"
 ---
 
 ## 문제

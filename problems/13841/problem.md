@@ -1,13 +1,13 @@
 ---
-title: It Prefokery Pio
-special_judge: true
-time_limit: 8 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "It Prefokery Pio"
+special_judge: "true"
+time_limit: "8 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 115
 accepted: 44
 solved_users: 35
-acceptance_rate: 43.210%
-collected_at: 2026-04-18T09:50:17.471856+00:00
+acceptance_rate: "43.210%"
+collected_at: "2026-04-18T09:50:17.471856+00:00"
 ---
 
 ## 문제

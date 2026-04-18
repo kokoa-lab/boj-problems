@@ -1,13 +1,13 @@
 ---
-title: Secret Cow Code
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Secret Cow Code"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 711
 accepted: 251
 solved_users: 217
-acceptance_rate: 35.927%
-collected_at: 2026-04-17T13:33:53.251561+00:00
+acceptance_rate: "35.927%"
+collected_at: "2026-04-17T13:33:53.251561+00:00"
 ---
 
 ## 문제

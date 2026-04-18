@@ -1,13 +1,13 @@
 ---
-title: Containment
-special_judge: false
-time_limit: 20 초
-memory_limit: 256 MB
+title: "Containment"
+special_judge: "false"
+time_limit: "20 초"
+memory_limit: "256 MB"
 submissions: 59
 accepted: 20
 solved_users: 18
-acceptance_rate: 72.000%
-collected_at: 2026-04-17T12:25:34.500421+00:00
+acceptance_rate: "72.000%"
+collected_at: "2026-04-17T12:25:34.500421+00:00"
 ---
 
 ## 문제

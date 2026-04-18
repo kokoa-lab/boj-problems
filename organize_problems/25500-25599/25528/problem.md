@@ -1,13 +1,13 @@
 ---
-title: Leave No One Behind
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Leave No One Behind"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 38
 accepted: 24
 solved_users: 23
-acceptance_rate: 79.310%
-collected_at: 2026-04-17T17:28:07.772679+00:00
+acceptance_rate: "79.310%"
+collected_at: "2026-04-17T17:28:07.772679+00:00"
 ---
 
 ## 문제

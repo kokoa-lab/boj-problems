@@ -1,13 +1,13 @@
 ---
-title: 표절
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "표절"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 4519
 accepted: 1494
 solved_users: 1117
-acceptance_rate: 33.086%
-collected_at: 2026-04-17T10:41:30.457156+00:00
+acceptance_rate: "33.086%"
+collected_at: "2026-04-17T10:41:30.457156+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Bungee Jumping
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Bungee Jumping"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 40
 accepted: 15
 solved_users: 15
-acceptance_rate: 44.118%
-collected_at: 2026-04-17T10:59:07.710124+00:00
+acceptance_rate: "44.118%"
+collected_at: "2026-04-17T10:59:07.710124+00:00"
 ---
 
 ## 문제

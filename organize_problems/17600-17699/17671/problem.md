@@ -1,13 +1,13 @@
 ---
-title: 두 안테나
-special_judge: false
-time_limit: 3 초
-memory_limit: 512 MB
+title: "두 안테나"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "512 MB"
 submissions: 208
 accepted: 77
 solved_users: 65
-acceptance_rate: 35.519%
-collected_at: 2026-04-17T14:44:51.467181+00:00
+acceptance_rate: "35.519%"
+collected_at: "2026-04-17T14:44:51.467181+00:00"
 ---
 
 ## 문제

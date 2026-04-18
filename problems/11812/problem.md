@@ -1,13 +1,13 @@
 ---
-title: K진 트리
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "K진 트리"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 6689
 accepted: 1897
 solved_users: 1454
-acceptance_rate: 27.722%
-collected_at: 2026-04-17T12:46:23.995604+00:00
+acceptance_rate: "27.722%"
+collected_at: "2026-04-17T12:46:23.995604+00:00"
 ---
 
 ## 문제

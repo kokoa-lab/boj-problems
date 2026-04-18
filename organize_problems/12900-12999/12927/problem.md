@@ -1,13 +1,13 @@
 ---
-title: 배수 스위치
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "배수 스위치"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 2251
 accepted: 1560
 solved_users: 1282
-acceptance_rate: 70.673%
-collected_at: 2026-04-18T09:50:07.341800+00:00
+acceptance_rate: "70.673%"
+collected_at: "2026-04-18T09:50:07.341800+00:00"
 ---
 
 ## 문제

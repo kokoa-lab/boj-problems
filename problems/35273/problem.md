@@ -1,13 +1,13 @@
 ---
-title: 착신 전환
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "착신 전환"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 130
 accepted: 59
 solved_users: 51
-acceptance_rate: 48.571%
-collected_at: 2026-04-17T20:59:21.953394+00:00
+acceptance_rate: "48.571%"
+collected_at: "2026-04-17T20:59:21.953394+00:00"
 ---
 
 ## 문제

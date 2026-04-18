@@ -1,13 +1,13 @@
 ---
-title: 수열 재배열
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "수열 재배열"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 397
 accepted: 133
 solved_users: 111
-acceptance_rate: 35.350%
-collected_at: 2026-04-17T18:09:58.199650+00:00
+acceptance_rate: "35.350%"
+collected_at: "2026-04-17T18:09:58.199650+00:00"
 ---
 
 ## 문제

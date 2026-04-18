@@ -1,13 +1,13 @@
 ---
-title: NMK
-special_judge: true
-time_limit: 2 초
-memory_limit: 128 MB
+title: "NMK"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 6188
 accepted: 2177
 solved_users: 1656
-acceptance_rate: 36.324%
-collected_at: 2026-04-17T10:28:46.109765+00:00
+acceptance_rate: "36.324%"
+collected_at: "2026-04-17T10:28:46.109765+00:00"
 ---
 
 ## 문제

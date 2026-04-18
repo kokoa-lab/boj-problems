@@ -1,13 +1,13 @@
 ---
-title: 회장뽑기
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "회장뽑기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 15808
 accepted: 9080
 solved_users: 7313
-acceptance_rate: 57.829%
-collected_at: 2026-04-17T10:43:44.462916+00:00
+acceptance_rate: "57.829%"
+collected_at: "2026-04-17T10:43:44.462916+00:00"
 ---
 
 ## 문제

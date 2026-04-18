@@ -1,13 +1,13 @@
 ---
-title: Make it Smooth (Large)
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Make it Smooth (Large)"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 109
 accepted: 24
 solved_users: 22
-acceptance_rate: 22.680%
-collected_at: 2026-04-17T12:57:56.484713+00:00
+acceptance_rate: "22.680%"
+collected_at: "2026-04-17T12:57:56.484713+00:00"
 ---
 
 ## 문제

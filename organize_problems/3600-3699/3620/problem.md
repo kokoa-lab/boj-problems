@@ -1,13 +1,13 @@
 ---
-title: Feng Shui
-special_judge: true
-time_limit: 2 초
-memory_limit: 64 MB
+title: "Feng Shui"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "64 MB"
 submissions: 171
 accepted: 26
 solved_users: 20
-acceptance_rate: 22.989%
-collected_at: 2026-04-17T10:50:18.383060+00:00
+acceptance_rate: "22.989%"
+collected_at: "2026-04-17T10:50:18.383060+00:00"
 ---
 
 ## 문제

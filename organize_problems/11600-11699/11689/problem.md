@@ -1,13 +1,13 @@
 ---
-title: GCD(n, k) = 1
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "GCD(n, k) = 1"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 18229
 accepted: 7527
 solved_users: 5977
-acceptance_rate: 41.192%
-collected_at: 2026-04-17T12:44:04.521745+00:00
+acceptance_rate: "41.192%"
+collected_at: "2026-04-17T12:44:04.521745+00:00"
 ---
 
 ## 문제

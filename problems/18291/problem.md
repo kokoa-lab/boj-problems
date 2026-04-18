@@ -1,13 +1,13 @@
 ---
-title: 비요뜨의 징검다리 건너기
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "비요뜨의 징검다리 건너기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 2953
 accepted: 1036
 solved_users: 827
-acceptance_rate: 34.273%
-collected_at: 2026-04-17T14:58:45.552438+00:00
+acceptance_rate: "34.273%"
+collected_at: "2026-04-17T14:58:45.552438+00:00"
 ---
 
 ## 문제

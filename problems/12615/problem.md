@@ -1,13 +1,13 @@
 ---
-title: Wi-fi Towers (Small)
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Wi-fi Towers (Small)"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 36
 accepted: 33
 solved_users: 32
-acceptance_rate: 96.970%
-collected_at: 2026-04-17T12:58:31.074471+00:00
+acceptance_rate: "96.970%"
+collected_at: "2026-04-17T12:58:31.074471+00:00"
 ---
 
 ## 문제

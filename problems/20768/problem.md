@@ -1,13 +1,13 @@
 ---
-title: Find the radio operator
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Find the radio operator"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 23
 accepted: 3
 solved_users: 3
-acceptance_rate: 14.286%
-collected_at: 2026-04-17T15:41:06.472014+00:00
+acceptance_rate: "14.286%"
+collected_at: "2026-04-17T15:41:06.472014+00:00"
 ---
 
 ## 문제

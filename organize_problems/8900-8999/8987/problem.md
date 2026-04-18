@@ -1,13 +1,13 @@
 ---
-title: 수족관 3
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "수족관 3"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 1011
 accepted: 450
 solved_users: 321
-acceptance_rate: 45.661%
-collected_at: 2026-04-17T12:05:47.339974+00:00
+acceptance_rate: "45.661%"
+collected_at: "2026-04-17T12:05:47.339974+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 부자가 될 거야!
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "부자가 될 거야!"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 537
 accepted: 201
 solved_users: 171
-acceptance_rate: 39.675%
-collected_at: 2026-04-17T19:49:05.034465+00:00
+acceptance_rate: "39.675%"
+collected_at: "2026-04-17T19:49:05.034465+00:00"
 ---
 
 ## 문제

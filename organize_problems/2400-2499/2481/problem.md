@@ -1,13 +1,13 @@
 ---
-title: 해밍 경로
-special_judge: true
-time_limit: 1 초
-memory_limit: 128 MB
+title: "해밍 경로"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 3125
 accepted: 900
 solved_users: 611
-acceptance_rate: 27.685%
-collected_at: 2026-04-17T10:42:00.184376+00:00
+acceptance_rate: "27.685%"
+collected_at: "2026-04-17T10:42:00.184376+00:00"
 ---
 
 ## 문제

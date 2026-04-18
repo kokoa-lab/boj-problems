@@ -1,13 +1,13 @@
 ---
-title: Arranging Hat
-special_judge: true
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Arranging Hat"
+special_judge: "true"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 119
 accepted: 39
 solved_users: 36
-acceptance_rate: 36.364%
-collected_at: 2026-04-17T13:22:25.539841+00:00
+acceptance_rate: "36.364%"
+collected_at: "2026-04-17T13:22:25.539841+00:00"
 ---
 
 ## 문제

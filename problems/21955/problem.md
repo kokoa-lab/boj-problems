@@ -1,13 +1,13 @@
 ---
-title: Split
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Split"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 673
 accepted: 589
 solved_users: 540
-acceptance_rate: 89.109%
-collected_at: 2026-04-17T16:10:31.541242+00:00
+acceptance_rate: "89.109%"
+collected_at: "2026-04-17T16:10:31.541242+00:00"
 ---
 
 ## 문제

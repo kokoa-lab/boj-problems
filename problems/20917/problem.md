@@ -1,13 +1,13 @@
 ---
-title: 사회적 거리 두기
-special_judge: false
-time_limit: 1 초  ( 하단 참고 )
-memory_limit: 512 MB
+title: "사회적 거리 두기"
+special_judge: "false"
+time_limit: "1 초  ( 하단 참고 )"
+memory_limit: "512 MB"
 submissions: 535
 accepted: 351
 solved_users: 280
-acceptance_rate: 64.815%
-collected_at: 2026-04-17T15:43:17.108267+00:00
+acceptance_rate: "64.815%"
+collected_at: "2026-04-17T15:43:17.108267+00:00"
 ---
 
 ## 문제

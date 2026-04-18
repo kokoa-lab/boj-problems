@@ -1,13 +1,13 @@
 ---
-title: Diamond Inheritance (Large)
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Diamond Inheritance (Large)"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 91
 accepted: 56
 solved_users: 47
-acceptance_rate: 59.494%
-collected_at: 2026-04-17T12:54:29.768394+00:00
+acceptance_rate: "59.494%"
+collected_at: "2026-04-17T12:54:29.768394+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: XEN 3166
-special_judge: true
-time_limit: 2 초
-memory_limit: 512 MB
+title: "XEN 3166"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 45
 accepted: 9
 solved_users: 9
-acceptance_rate: 21.429%
-collected_at: 2026-04-17T14:07:39.245497+00:00
+acceptance_rate: "21.429%"
+collected_at: "2026-04-17T14:07:39.245497+00:00"
 ---
 
 ## 문제

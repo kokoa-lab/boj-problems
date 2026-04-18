@@ -1,13 +1,13 @@
 ---
-title: 크로아티아 수 읽기
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "크로아티아 수 읽기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 102
 accepted: 22
 solved_users: 12
-acceptance_rate: 18.462%
-collected_at: 2026-04-17T10:47:14.080220+00:00
+acceptance_rate: "18.462%"
+collected_at: "2026-04-17T10:47:14.080220+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Driving Lanes
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Driving Lanes"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 32
 accepted: 23
 solved_users: 19
-acceptance_rate: 90.476%
-collected_at: 2026-04-17T16:18:29.862930+00:00
+acceptance_rate: "90.476%"
+collected_at: "2026-04-17T16:18:29.862930+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: The Bridge
-special_judge: false
-time_limit: 3 초
-memory_limit: 128 MB
+title: "The Bridge"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "128 MB"
 submissions: 178
 accepted: 56
 solved_users: 44
-acceptance_rate: 28.947%
-collected_at: 2026-04-17T11:54:54.732113+00:00
+acceptance_rate: "28.947%"
+collected_at: "2026-04-17T11:54:54.732113+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Hula's Cardgame
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Hula's Cardgame"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 76
 accepted: 22
 solved_users: 21
-acceptance_rate: 32.812%
-collected_at: 2026-04-17T19:38:28.515521+00:00
+acceptance_rate: "32.812%"
+collected_at: "2026-04-17T19:38:28.515521+00:00"
 ---
 
 ## 문제

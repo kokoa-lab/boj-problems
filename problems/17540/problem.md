@@ -1,13 +1,13 @@
 ---
-title: Less Coin Tosses
-special_judge: false
-time_limit: 0.5 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "Less Coin Tosses"
+special_judge: "false"
+time_limit: "0.5 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 74
 accepted: 48
 solved_users: 44
-acceptance_rate: 77.193%
-collected_at: 2026-04-17T14:41:29.302717+00:00
+acceptance_rate: "77.193%"
+collected_at: "2026-04-17T14:41:29.302717+00:00"
 ---
 
 ## 문제

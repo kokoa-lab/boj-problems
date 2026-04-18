@@ -1,13 +1,13 @@
 ---
-title: Gangsters
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Gangsters"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 53
 accepted: 17
 solved_users: 14
-acceptance_rate: 40.000%
-collected_at: 2026-04-17T11:49:31.836857+00:00
+acceptance_rate: "40.000%"
+collected_at: "2026-04-17T11:49:31.836857+00:00"
 ---
 
 ## 문제

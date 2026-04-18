@@ -1,13 +1,13 @@
 ---
-title: 같은 자리 수
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "같은 자리 수"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 253
 accepted: 82
 solved_users: 41
-acceptance_rate: 28.276%
-collected_at: 2026-04-17T10:30:31.752828+00:00
+acceptance_rate: "28.276%"
+collected_at: "2026-04-17T10:30:31.752828+00:00"
 ---
 
 ## 문제

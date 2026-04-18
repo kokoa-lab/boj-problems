@@ -1,13 +1,13 @@
 ---
-title: 트리 뽑아내기
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "트리 뽑아내기"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 716
 accepted: 410
 solved_users: 325
-acceptance_rate: 62.261%
-collected_at: 2026-04-17T19:42:13.152639+00:00
+acceptance_rate: "62.261%"
+collected_at: "2026-04-17T19:42:13.152639+00:00"
 ---
 
 ## 문제

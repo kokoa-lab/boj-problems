@@ -1,13 +1,13 @@
 ---
-title: 퐁당퐁당 2
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "퐁당퐁당 2"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 880
 accepted: 207
 solved_users: 168
-acceptance_rate: 25.378%
-collected_at: 2026-04-17T14:50:31.349897+00:00
+acceptance_rate: "25.378%"
+collected_at: "2026-04-17T14:50:31.349897+00:00"
 ---
 
 ## 문제

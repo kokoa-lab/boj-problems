@@ -1,13 +1,13 @@
 ---
-title: 출제비 재분배
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "출제비 재분배"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 1671
 accepted: 1205
 solved_users: 994
-acceptance_rate: 72.981%
-collected_at: 2026-04-17T17:40:51.315265+00:00
+acceptance_rate: "72.981%"
+collected_at: "2026-04-17T17:40:51.315265+00:00"
 ---
 
 ## 문제

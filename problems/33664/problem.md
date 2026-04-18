@@ -1,13 +1,13 @@
 ---
-title: 현실적인 생일 축하 방안
-special_judge: false
-time_limit: 2.8 초
-memory_limit: 329 MB
+title: "현실적인 생일 축하 방안"
+special_judge: "false"
+time_limit: "2.8 초"
+memory_limit: "329 MB"
 submissions: 847
 accepted: 476
 solved_users: 454
-acceptance_rate: 60.212%
-collected_at: 2026-04-17T20:21:00.387653+00:00
+acceptance_rate: "60.212%"
+collected_at: "2026-04-17T20:21:00.387653+00:00"
 ---
 
 ## 문제

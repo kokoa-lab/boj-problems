@@ -1,13 +1,13 @@
 ---
-title: 정수 삼각형
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "정수 삼각형"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 118937
 accepted: 71297
 solved_users: 54063
-acceptance_rate: 60.529%
-collected_at: 2026-04-17T10:36:00.324467+00:00
+acceptance_rate: "60.529%"
+collected_at: "2026-04-17T10:36:00.324467+00:00"
 ---
 
 ## 문제

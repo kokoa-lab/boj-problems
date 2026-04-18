@@ -1,13 +1,13 @@
 ---
-title: Model Railroad
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Model Railroad"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 198
 accepted: 81
 solved_users: 70
-acceptance_rate: 40.698%
-collected_at: 2026-04-17T13:08:17.911022+00:00
+acceptance_rate: "40.698%"
+collected_at: "2026-04-17T13:08:17.911022+00:00"
 ---
 
 ## 문제

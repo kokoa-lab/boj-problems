@@ -1,13 +1,13 @@
 ---
-title: Kayaking Trip
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Kayaking Trip"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 143
 accepted: 56
 solved_users: 40
-acceptance_rate: 51.282%
-collected_at: 2026-04-17T13:48:32.751656+00:00
+acceptance_rate: "51.282%"
+collected_at: "2026-04-17T13:48:32.751656+00:00"
 ---
 
 ## 문제

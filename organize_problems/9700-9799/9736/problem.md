@@ -1,13 +1,13 @@
 ---
-title: 정이면체군
-special_judge: false
-time_limit: 5 초
-memory_limit: 128 MB
+title: "정이면체군"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "128 MB"
 submissions: 59
 accepted: 28
 solved_users: 23
-acceptance_rate: 53.488%
-collected_at: 2026-04-17T12:13:53.959865+00:00
+acceptance_rate: "53.488%"
+collected_at: "2026-04-17T12:13:53.959865+00:00"
 ---
 
 ## 문제

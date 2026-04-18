@@ -1,13 +1,13 @@
 ---
-title: 대칭 차집합
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "대칭 차집합"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 49420
 accepted: 32489
 solved_users: 26623
-acceptance_rate: 65.820%
-collected_at: 2026-04-17T10:29:10.993263+00:00
+acceptance_rate: "65.820%"
+collected_at: "2026-04-17T10:29:10.993263+00:00"
 ---
 
 ## 문제

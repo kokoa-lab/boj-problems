@@ -1,13 +1,13 @@
 ---
-title: 가장 큰 감소 부분 수열
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "가장 큰 감소 부분 수열"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 2066
 accepted: 1139
 solved_users: 999
-acceptance_rate: 58.938%
-collected_at: 2026-04-17T14:33:14.373829+00:00
+acceptance_rate: "58.938%"
+collected_at: "2026-04-17T14:33:14.373829+00:00"
 ---
 
 ## 문제

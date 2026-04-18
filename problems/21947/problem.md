@@ -1,13 +1,13 @@
 ---
-title: Shell
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Shell"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 13
 accepted: 7
 solved_users: 4
-acceptance_rate: 100.000%
-collected_at: 2026-04-17T16:10:23.492236+00:00
+acceptance_rate: "100.000%"
+collected_at: "2026-04-17T16:10:23.492236+00:00"
 ---
 
 ## 문제

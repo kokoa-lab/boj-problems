@@ -1,13 +1,13 @@
 ---
-title: BOJ 거리
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "BOJ 거리"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 4607
 accepted: 2849
 solved_users: 2341
-acceptance_rate: 63.185%
-collected_at: 2026-04-17T12:49:06.552795+00:00
+acceptance_rate: "63.185%"
+collected_at: "2026-04-17T12:49:06.552795+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Color Change of Go Game Pieces
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Color Change of Go Game Pieces"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 116
 accepted: 57
 solved_users: 27
-acceptance_rate: 64.286%
-collected_at: 2026-04-17T12:15:03.650873+00:00
+acceptance_rate: "64.286%"
+collected_at: "2026-04-17T12:15:03.650873+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: How to Eat at a Buffet
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "How to Eat at a Buffet"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 73
 accepted: 62
 solved_users: 56
-acceptance_rate: 87.500%
-collected_at: 2026-04-17T13:58:49.925111+00:00
+acceptance_rate: "87.500%"
+collected_at: "2026-04-17T13:58:49.925111+00:00"
 ---
 
 ## 문제

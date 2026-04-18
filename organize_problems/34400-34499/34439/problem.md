@@ -1,13 +1,13 @@
 ---
-title: Darts for Programmers
-special_judge: false
-time_limit: 2 초
-memory_limit: 2048 MB
+title: "Darts for Programmers"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "2048 MB"
 submissions: 71
 accepted: 38
 solved_users: 19
-acceptance_rate: 43.182%
-collected_at: 2026-04-17T20:38:59.695778+00:00
+acceptance_rate: "43.182%"
+collected_at: "2026-04-17T20:38:59.695778+00:00"
 ---
 
 ## 문제

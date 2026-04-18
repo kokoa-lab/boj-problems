@@ -1,13 +1,13 @@
 ---
-title: 레몬이 스니켓의 위험한 대결
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "레몬이 스니켓의 위험한 대결"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 59
 accepted: 24
 solved_users: 22
-acceptance_rate: 52.381%
-collected_at: 2026-04-17T20:34:01.856939+00:00
+acceptance_rate: "52.381%"
+collected_at: "2026-04-17T20:34:01.856939+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 언덕수
-special_judge: false
-time_limit: 5 초
-memory_limit: 256 MB
+title: "언덕수"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "256 MB"
 submissions: 133
 accepted: 68
 solved_users: 32
-acceptance_rate: 68.085%
-collected_at: 2026-04-17T12:25:39.375573+00:00
+acceptance_rate: "68.085%"
+collected_at: "2026-04-17T12:25:39.375573+00:00"
 ---
 
 ## 문제

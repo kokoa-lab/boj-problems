@@ -1,13 +1,13 @@
 ---
-title: 영우의 기숙사 청소
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "영우의 기숙사 청소"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 2352
 accepted: 320
 solved_users: 221
-acceptance_rate: 16.542%
-collected_at: 2026-04-17T14:06:51.619695+00:00
+acceptance_rate: "16.542%"
+collected_at: "2026-04-17T14:06:51.619695+00:00"
 ---
 
 ## 문제

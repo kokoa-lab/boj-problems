@@ -1,13 +1,13 @@
 ---
-title: Cycle sort
-special_judge: true
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Cycle sort"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 72
 accepted: 11
 solved_users: 9
-acceptance_rate: 14.286%
-collected_at: 2026-04-17T14:17:01.337427+00:00
+acceptance_rate: "14.286%"
+collected_at: "2026-04-17T14:17:01.337427+00:00"
 ---
 
 ## 문제

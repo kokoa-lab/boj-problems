@@ -1,13 +1,13 @@
 ---
-title: 샘터
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "샘터"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 6126
 accepted: 1568
 solved_users: 1126
-acceptance_rate: 25.028%
-collected_at: 2026-04-17T15:05:54.651466+00:00
+acceptance_rate: "25.028%"
+collected_at: "2026-04-17T15:05:54.651466+00:00"
 ---
 
 ## 문제

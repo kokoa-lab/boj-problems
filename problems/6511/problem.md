@@ -1,13 +1,13 @@
 ---
-title: Black and white painting
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Black and white painting"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 160
 accepted: 106
 solved_users: 92
-acceptance_rate: 65.248%
-collected_at: 2026-04-17T11:29:25.041210+00:00
+acceptance_rate: "65.248%"
+collected_at: "2026-04-17T11:29:25.041210+00:00"
 ---
 
 ## 문제

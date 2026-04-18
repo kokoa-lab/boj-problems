@@ -1,13 +1,13 @@
 ---
-title: 보트 정박
-special_judge: false
-time_limit: 2 초  ( 하단 참고 )
-memory_limit: 512 MB
+title: "보트 정박"
+special_judge: "false"
+time_limit: "2 초  ( 하단 참고 )"
+memory_limit: "512 MB"
 submissions: 187
 accepted: 70
 solved_users: 59
-acceptance_rate: 39.865%
-collected_at: 2026-04-17T16:40:27.074531+00:00
+acceptance_rate: "39.865%"
+collected_at: "2026-04-17T16:40:27.074531+00:00"
 ---
 
 ## 문제

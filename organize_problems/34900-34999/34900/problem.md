@@ -1,13 +1,13 @@
 ---
-title: 그래프 라벨링
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "그래프 라벨링"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 67
 accepted: 33
 solved_users: 30
-acceptance_rate: 49.180%
-collected_at: 2026-04-17T20:51:35.965156+00:00
+acceptance_rate: "49.180%"
+collected_at: "2026-04-17T20:51:35.965156+00:00"
 ---
 
 ## 문제

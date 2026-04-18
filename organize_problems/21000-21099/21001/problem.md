@@ -1,13 +1,13 @@
 ---
-title: A Very Different Word
-special_judge: true
-time_limit: 2 초
-memory_limit: 512 MB
+title: "A Very Different Word"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 108
 accepted: 56
 solved_users: 53
-acceptance_rate: 54.639%
-collected_at: 2026-04-17T15:45:14.429642+00:00
+acceptance_rate: "54.639%"
+collected_at: "2026-04-17T15:45:14.429642+00:00"
 ---
 
 ## 문제

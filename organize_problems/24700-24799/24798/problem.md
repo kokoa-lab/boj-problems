@@ -1,13 +1,13 @@
 ---
-title: The Weight Of Words
-special_judge: true
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "The Weight Of Words"
+special_judge: "true"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 284
 accepted: 142
 solved_users: 118
-acceptance_rate: 47.200%
-collected_at: 2026-04-17T17:15:21.380011+00:00
+acceptance_rate: "47.200%"
+collected_at: "2026-04-17T17:15:21.380011+00:00"
 ---
 
 ## 문제

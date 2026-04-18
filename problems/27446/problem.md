@@ -1,13 +1,13 @@
 ---
-title: 랩실에서 잘 자요
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "랩실에서 잘 자요"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 2193
 accepted: 843
 solved_users: 632
-acceptance_rate: 38.072%
-collected_at: 2026-04-17T18:03:21.732027+00:00
+acceptance_rate: "38.072%"
+collected_at: "2026-04-17T18:03:21.732027+00:00"
 ---
 
 ## 문제

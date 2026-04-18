@@ -1,13 +1,13 @@
 ---
-title: Xeno-archaeology (Small)
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Xeno-archaeology (Small)"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 8
 accepted: 1
 solved_users: 1
-acceptance_rate: 50.000%
-collected_at: 2026-04-17T12:54:17.831472+00:00
+acceptance_rate: "50.000%"
+collected_at: "2026-04-17T12:54:17.831472+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 아싸 너!
-special_judge: true
-time_limit: 2 초
-memory_limit: 512 MB
+title: "아싸 너!"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 182
 accepted: 19
 solved_users: 11
-acceptance_rate: 11.111%
-collected_at: 2026-04-17T14:33:58.482594+00:00
+acceptance_rate: "11.111%"
+collected_at: "2026-04-17T14:33:58.482594+00:00"
 ---
 
 ## 문제

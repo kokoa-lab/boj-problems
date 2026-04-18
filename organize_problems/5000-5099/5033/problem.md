@@ -1,13 +1,13 @@
 ---
-title: Money Matters
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Money Matters"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 164
 accepted: 116
 solved_users: 91
-acceptance_rate: 70.000%
-collected_at: 2026-04-17T11:10:59.636715+00:00
+acceptance_rate: "70.000%"
+collected_at: "2026-04-17T11:10:59.636715+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Zagrade
-special_judge: false
-time_limit: 10 초
-memory_limit: 512 MB
+title: "Zagrade"
+special_judge: "false"
+time_limit: "10 초"
+memory_limit: "512 MB"
 submissions: 138
 accepted: 41
 solved_users: 34
-acceptance_rate: 29.060%
-collected_at: 2026-04-17T15:30:56.710485+00:00
+acceptance_rate: "29.060%"
+collected_at: "2026-04-17T15:30:56.710485+00:00"
 ---
 
 ## 문제

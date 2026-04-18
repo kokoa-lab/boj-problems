@@ -1,13 +1,13 @@
 ---
-title: Kate's 2021 Celebration
-special_judge: true
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Kate's 2021 Celebration"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 148
 accepted: 109
 solved_users: 92
-acceptance_rate: 77.966%
-collected_at: 2026-04-17T15:40:19.878912+00:00
+acceptance_rate: "77.966%"
+collected_at: "2026-04-17T15:40:19.878912+00:00"
 ---
 
 ## 문제

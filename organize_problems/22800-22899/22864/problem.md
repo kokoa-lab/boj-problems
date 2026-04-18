@@ -1,13 +1,13 @@
 ---
-title: 피로도
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "피로도"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 9444
 accepted: 4405
 solved_users: 3806
-acceptance_rate: 46.409%
-collected_at: 2026-04-17T16:37:39.244186+00:00
+acceptance_rate: "46.409%"
+collected_at: "2026-04-17T16:37:39.244186+00:00"
 ---
 
 ## 문제

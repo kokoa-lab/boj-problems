@@ -1,13 +1,13 @@
 ---
-title: K-ary Huffman Encoding
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "K-ary Huffman Encoding"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 1001
 accepted: 285
 solved_users: 201
-acceptance_rate: 26.378%
-collected_at: 2026-04-17T18:23:47.116813+00:00
+acceptance_rate: "26.378%"
+collected_at: "2026-04-17T18:23:47.116813+00:00"
 ---
 
 ## 문제

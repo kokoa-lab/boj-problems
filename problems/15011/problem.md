@@ -1,13 +1,13 @@
 ---
-title: Irrational Division
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Irrational Division"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 180
 accepted: 95
 solved_users: 79
-acceptance_rate: 51.634%
-collected_at: 2026-04-17T13:48:09.966610+00:00
+acceptance_rate: "51.634%"
+collected_at: "2026-04-17T13:48:09.966610+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Buffalo Barricades
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Buffalo Barricades"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 152
 accepted: 22
 solved_users: 19
-acceptance_rate: 24.051%
-collected_at: 2026-04-17T13:56:07.802558+00:00
+acceptance_rate: "24.051%"
+collected_at: "2026-04-17T13:56:07.802558+00:00"
 ---
 
 ## 문제

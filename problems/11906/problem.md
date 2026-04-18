@@ -1,13 +1,13 @@
 ---
-title: 돌 옮기기
-special_judge: false
-time_limit: 2 초
-memory_limit: 32 MB
+title: "돌 옮기기"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "32 MB"
 submissions: 109
 accepted: 27
 solved_users: 24
-acceptance_rate: 24.742%
-collected_at: 2026-04-17T12:47:30.733866+00:00
+acceptance_rate: "24.742%"
+collected_at: "2026-04-17T12:47:30.733866+00:00"
 ---
 
 ## 문제

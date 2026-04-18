@@ -1,13 +1,13 @@
 ---
-title: 장난감 정리 로봇
-special_judge: false
-time_limit: 5 초
-memory_limit: 64 MB
+title: "장난감 정리 로봇"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "64 MB"
 submissions: 843
 accepted: 241
 solved_users: 172
-acceptance_rate: 26.502%
-collected_at: 2026-04-17T12:04:23.525045+00:00
+acceptance_rate: "26.502%"
+collected_at: "2026-04-17T12:04:23.525045+00:00"
 ---
 
 ## 문제

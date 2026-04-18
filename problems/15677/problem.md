@@ -1,13 +1,13 @@
 ---
-title: 문제 하나 풀어볼래?
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "문제 하나 풀어볼래?"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 169
 accepted: 48
 solved_users: 43
-acceptance_rate: 28.859%
-collected_at: 2026-04-17T14:04:02.683350+00:00
+acceptance_rate: "28.859%"
+collected_at: "2026-04-17T14:04:02.683350+00:00"
 ---
 
 ## 문제

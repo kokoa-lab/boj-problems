@@ -1,13 +1,13 @@
 ---
-title: Elder price robot
-special_judge: false
-time_limit: 4 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Elder price robot"
+special_judge: "false"
+time_limit: "4 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 80
 accepted: 36
 solved_users: 26
-acceptance_rate: 39.394%
-collected_at: 2026-04-17T17:06:14.228701+00:00
+acceptance_rate: "39.394%"
+collected_at: "2026-04-17T17:06:14.228701+00:00"
 ---
 
 ## 문제

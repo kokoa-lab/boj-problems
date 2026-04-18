@@ -1,13 +1,13 @@
 ---
-title: 돌 그룹
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "돌 그룹"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 15735
 accepted: 5273
 solved_users: 3426
-acceptance_rate: 30.164%
-collected_at: 2026-04-17T13:03:14.125483+00:00
+acceptance_rate: "30.164%"
+collected_at: "2026-04-17T13:03:14.125483+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: One-way Sidewalks
-special_judge: true
-time_limit: 5 초
-memory_limit: 256 MB
+title: "One-way Sidewalks"
+special_judge: "true"
+time_limit: "5 초"
+memory_limit: "256 MB"
 submissions: 79
 accepted: 17
 solved_users: 13
-acceptance_rate: 19.403%
-collected_at: 2026-04-17T16:08:39.355542+00:00
+acceptance_rate: "19.403%"
+collected_at: "2026-04-17T16:08:39.355542+00:00"
 ---
 
 ## 문제

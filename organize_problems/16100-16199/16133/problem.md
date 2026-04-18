@@ -1,13 +1,13 @@
 ---
-title: 공학용 계산기 (Calculator)
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 256 MB
+title: "공학용 계산기 (Calculator)"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "256 MB"
 submissions: 670
 accepted: 140
 solved_users: 83
-acceptance_rate: 18.242%
-collected_at: 2026-04-17T14:12:05.814578+00:00
+acceptance_rate: "18.242%"
+collected_at: "2026-04-17T14:12:05.814578+00:00"
 ---
 
 ## 문제

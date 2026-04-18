@@ -1,13 +1,13 @@
 ---
-title: 동우의 생일은?
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "동우의 생일은?"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 177
 accepted: 99
 solved_users: 96
-acceptance_rate: 60.759%
-collected_at: 2026-04-17T20:56:55.286037+00:00
+acceptance_rate: "60.759%"
+collected_at: "2026-04-17T20:56:55.286037+00:00"
 ---
 
 ## 문제

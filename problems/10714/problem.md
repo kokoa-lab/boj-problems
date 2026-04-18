@@ -1,13 +1,13 @@
 ---
-title: 케이크 자르기 2
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "케이크 자르기 2"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 1221
 accepted: 603
 solved_users: 470
-acceptance_rate: 51.876%
-collected_at: 2026-04-17T12:27:52.283969+00:00
+acceptance_rate: "51.876%"
+collected_at: "2026-04-17T12:27:52.283969+00:00"
 ---
 
 ## 문제

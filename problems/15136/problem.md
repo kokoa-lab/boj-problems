@@ -1,13 +1,13 @@
 ---
-title: Fygon 2.0
-special_judge: false
-time_limit: 3 초
-memory_limit: 512 MB
+title: "Fygon 2.0"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "512 MB"
 submissions: 37
 accepted: 14
 solved_users: 14
-acceptance_rate: 38.889%
-collected_at: 2026-04-17T13:52:02.520329+00:00
+acceptance_rate: "38.889%"
+collected_at: "2026-04-17T13:52:02.520329+00:00"
 ---
 
 ## 문제

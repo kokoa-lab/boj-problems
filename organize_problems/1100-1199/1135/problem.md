@@ -1,13 +1,13 @@
 ---
-title: 뉴스 전하기
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "뉴스 전하기"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 6539
 accepted: 3281
 solved_users: 2662
-acceptance_rate: 50.512%
-collected_at: 2026-04-17T10:28:24.264234+00:00
+acceptance_rate: "50.512%"
+collected_at: "2026-04-17T10:28:24.264234+00:00"
 ---
 
 ## 문제

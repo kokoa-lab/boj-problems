@@ -1,13 +1,13 @@
 ---
-title: Hills And Valleys
-special_judge: true
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Hills And Valleys"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 19
 accepted: 12
 solved_users: 12
-acceptance_rate: 80.000%
-collected_at: 2026-04-17T15:06:36.415540+00:00
+acceptance_rate: "80.000%"
+collected_at: "2026-04-17T15:06:36.415540+00:00"
 ---
 
 ## 문제

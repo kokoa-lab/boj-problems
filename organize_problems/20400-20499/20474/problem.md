@@ -1,13 +1,13 @@
 ---
-title: Парад
-special_judge: true
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Парад"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 23
 accepted: 6
 solved_users: 6
-acceptance_rate: 42.857%
-collected_at: 2026-04-17T15:36:51.529510+00:00
+acceptance_rate: "42.857%"
+collected_at: "2026-04-17T15:36:51.529510+00:00"
 ---
 
 ## 문제

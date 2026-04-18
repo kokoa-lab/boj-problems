@@ -1,13 +1,13 @@
 ---
-title: 직사각형 네개의 합집합의 면적 구하기
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "직사각형 네개의 합집합의 면적 구하기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 16464
 accepted: 12362
 solved_users: 10926
-acceptance_rate: 75.765%
-collected_at: 2026-04-17T10:43:48.773153+00:00
+acceptance_rate: "75.765%"
+collected_at: "2026-04-17T10:43:48.773153+00:00"
 ---
 
 ## 문제

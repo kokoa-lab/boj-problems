@@ -1,13 +1,13 @@
 ---
-title: The Paladin
-special_judge: false
-time_limit: 1 초
-memory_limit: 2048 MB (추가 메모리 없음)
+title: "The Paladin"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "2048 MB (추가 메모리 없음)"
 submissions: 68
 accepted: 45
 solved_users: 44
-acceptance_rate: 70.968%
-collected_at: 2026-04-17T16:38:52.042762+00:00
+acceptance_rate: "70.968%"
+collected_at: "2026-04-17T16:38:52.042762+00:00"
 ---
 
 ## 문제

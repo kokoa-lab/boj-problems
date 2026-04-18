@@ -1,13 +1,13 @@
 ---
-title: ДВА АЛБУМА
-special_judge: false
-time_limit: 0.4 초
-memory_limit: 1024 MB
+title: "ДВА АЛБУМА"
+special_judge: "false"
+time_limit: "0.4 초"
+memory_limit: "1024 MB"
 submissions: 106
 accepted: 80
 solved_users: 55
-acceptance_rate: 74.324%
-collected_at: 2026-04-17T17:07:36.137915+00:00
+acceptance_rate: "74.324%"
+collected_at: "2026-04-17T17:07:36.137915+00:00"
 ---
 
 ## 문제

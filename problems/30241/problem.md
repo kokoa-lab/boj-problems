@@ -1,13 +1,13 @@
 ---
-title: 두 순열 (Hard)
-special_judge: true
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "두 순열 (Hard)"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 15
 accepted: 11
 solved_users: 11
-acceptance_rate: 78.571%
-collected_at: 2026-04-17T19:01:38.164011+00:00
+acceptance_rate: "78.571%"
+collected_at: "2026-04-17T19:01:38.164011+00:00"
 ---
 
 ## 문제

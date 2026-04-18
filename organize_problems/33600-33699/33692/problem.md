@@ -1,13 +1,13 @@
 ---
-title: 해밍 거리
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "해밍 거리"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 156
 accepted: 90
 solved_users: 84
-acceptance_rate: 60.432%
-collected_at: 2026-04-17T20:21:43.610883+00:00
+acceptance_rate: "60.432%"
+collected_at: "2026-04-17T20:21:43.610883+00:00"
 ---
 
 ## 문제

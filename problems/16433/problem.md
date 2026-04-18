@@ -1,13 +1,13 @@
 ---
-title: 주디와 당근농장
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "주디와 당근농장"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 2712
 accepted: 1771
 solved_users: 1490
-acceptance_rate: 66.134%
-collected_at: 2026-04-17T14:17:52.167938+00:00
+acceptance_rate: "66.134%"
+collected_at: "2026-04-17T14:17:52.167938+00:00"
 ---
 
 ## 문제

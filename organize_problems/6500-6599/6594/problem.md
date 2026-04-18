@@ -1,13 +1,13 @@
 ---
-title: 방정식 풀이
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "방정식 풀이"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 199
 accepted: 98
 solved_users: 47
-acceptance_rate: 58.025%
-collected_at: 2026-04-17T11:31:15.097547+00:00
+acceptance_rate: "58.025%"
+collected_at: "2026-04-17T11:31:15.097547+00:00"
 ---
 
 ## 문제

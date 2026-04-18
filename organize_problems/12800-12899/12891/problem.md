@@ -1,13 +1,13 @@
 ---
-title: DNA 비밀번호
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "DNA 비밀번호"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 38659
 accepted: 14835
 solved_users: 10667
-acceptance_rate: 36.713%
-collected_at: 2026-04-17T13:03:24.991915+00:00
+acceptance_rate: "36.713%"
+collected_at: "2026-04-17T13:03:24.991915+00:00"
 ---
 
 ## 문제

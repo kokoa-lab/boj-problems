@@ -1,13 +1,13 @@
 ---
-title: Interference
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Interference"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 125
 accepted: 83
 solved_users: 72
-acceptance_rate: 65.455%
-collected_at: 2026-04-17T19:52:16.916143+00:00
+acceptance_rate: "65.455%"
+collected_at: "2026-04-17T19:52:16.916143+00:00"
 ---
 
 ## 문제

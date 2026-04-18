@@ -1,13 +1,13 @@
 ---
-title: 틀렸습니다
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "틀렸습니다"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 752
 accepted: 322
 solved_users: 240
-acceptance_rate: 42.328%
-collected_at: 2026-04-17T11:13:34.154844+00:00
+acceptance_rate: "42.328%"
+collected_at: "2026-04-17T11:13:34.154844+00:00"
 ---
 
 ## 문제

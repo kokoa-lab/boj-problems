@@ -1,13 +1,13 @@
 ---
-title: 질서와 혼돈
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "질서와 혼돈"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 435
 accepted: 62
 solved_users: 50
-acceptance_rate: 16.393%
-collected_at: 2026-04-17T15:00:26.193176+00:00
+acceptance_rate: "16.393%"
+collected_at: "2026-04-17T15:00:26.193176+00:00"
 ---
 
 ## 문제

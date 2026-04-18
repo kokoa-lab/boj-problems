@@ -1,13 +1,13 @@
 ---
-title: 동치 증명
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "동치 증명"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 1748
 accepted: 536
 solved_users: 351
-acceptance_rate: 25.620%
-collected_at: 2026-04-17T10:50:54.675290+00:00
+acceptance_rate: "25.620%"
+collected_at: "2026-04-17T10:50:54.675290+00:00"
 ---
 
 ## 문제

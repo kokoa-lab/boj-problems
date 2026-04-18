@@ -1,13 +1,13 @@
 ---
-title: 담장 너머로
-special_judge: true
-time_limit: 2 초
-memory_limit: 128 MB
+title: "담장 너머로"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 92
 accepted: 50
 solved_users: 35
-acceptance_rate: 54.688%
-collected_at: 2026-04-17T10:41:05.464831+00:00
+acceptance_rate: "54.688%"
+collected_at: "2026-04-17T10:41:05.464831+00:00"
 ---
 
 ## 문제

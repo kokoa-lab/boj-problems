@@ -1,13 +1,13 @@
 ---
-title: It's Mooin' Time
-special_judge: false
-time_limit: 3 초
-memory_limit: 2048 MB
+title: "It's Mooin' Time"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "2048 MB"
 submissions: 17
 accepted: 11
 solved_users: 9
-acceptance_rate: 64.286%
-collected_at: 2026-04-17T20:08:17.623838+00:00
+acceptance_rate: "64.286%"
+collected_at: "2026-04-17T20:08:17.623838+00:00"
 ---
 
 ## 문제

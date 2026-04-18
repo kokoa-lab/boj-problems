@@ -1,13 +1,13 @@
 ---
-title: 지구 온난화
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "지구 온난화"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 6716
 accepted: 3826
 solved_users: 3251
-acceptance_rate: 57.878%
-collected_at: 2026-04-17T11:12:20.447707+00:00
+acceptance_rate: "57.878%"
+collected_at: "2026-04-17T11:12:20.447707+00:00"
 ---
 
 ## 문제

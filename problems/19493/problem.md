@@ -1,13 +1,13 @@
 ---
-title: Gym
-special_judge: true
-time_limit: 10 초
-memory_limit: 256 MB
+title: "Gym"
+special_judge: "true"
+time_limit: "10 초"
+memory_limit: "256 MB"
 submissions: 83
 accepted: 17
 solved_users: 12
-acceptance_rate: 17.391%
-collected_at: 2026-04-17T15:21:11.587477+00:00
+acceptance_rate: "17.391%"
+collected_at: "2026-04-17T15:21:11.587477+00:00"
 ---
 
 ## 문제

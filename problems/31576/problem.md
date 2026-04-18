@@ -1,13 +1,13 @@
 ---
-title: 이더리움과 비트코인
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "이더리움과 비트코인"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 61
 accepted: 16
 solved_users: 11
-acceptance_rate: 39.286%
-collected_at: 2026-04-17T19:31:14.226768+00:00
+acceptance_rate: "39.286%"
+collected_at: "2026-04-17T19:31:14.226768+00:00"
 ---
 
 ## 문제

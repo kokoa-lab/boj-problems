@@ -1,13 +1,13 @@
 ---
-title: 노말 정렬
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "노말 정렬"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 221
 accepted: 24
 solved_users: 21
-acceptance_rate: 23.333%
-collected_at: 2026-04-17T10:44:07.655576+00:00
+acceptance_rate: "23.333%"
+collected_at: "2026-04-17T10:44:07.655576+00:00"
 ---
 
 ## 문제

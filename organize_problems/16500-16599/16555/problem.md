@@ -1,13 +1,13 @@
 ---
-title: What time is it anyway?
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "What time is it anyway?"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 9
 accepted: 7
 solved_users: 3
-acceptance_rate: 75.000%
-collected_at: 2026-04-17T14:19:59.562142+00:00
+acceptance_rate: "75.000%"
+collected_at: "2026-04-17T14:19:59.562142+00:00"
 ---
 
 ## 문제

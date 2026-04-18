@@ -1,13 +1,13 @@
 ---
-title: 작은 수 내기
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "작은 수 내기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 1613
 accepted: 712
 solved_users: 601
-acceptance_rate: 44.062%
-collected_at: 2026-04-17T14:18:38.956058+00:00
+acceptance_rate: "44.062%"
+collected_at: "2026-04-17T14:18:38.956058+00:00"
 ---
 
 ## 문제

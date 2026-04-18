@@ -1,13 +1,13 @@
 ---
-title: Janitor Troubles
-special_judge: true
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Janitor Troubles"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 176
 accepted: 143
 solved_users: 129
-acceptance_rate: 84.314%
-collected_at: 2026-04-17T14:15:31.630708+00:00
+acceptance_rate: "84.314%"
+collected_at: "2026-04-17T14:15:31.630708+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Repetitions
-special_judge: false
-time_limit: 3 초
-memory_limit: 128 MB
+title: "Repetitions"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "128 MB"
 submissions: 90
 accepted: 33
 solved_users: 28
-acceptance_rate: 37.838%
-collected_at: 2026-04-17T11:55:30.081398+00:00
+acceptance_rate: "37.838%"
+collected_at: "2026-04-17T11:55:30.081398+00:00"
 ---
 
 ## 문제

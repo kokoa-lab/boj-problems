@@ -1,13 +1,13 @@
 ---
-title: ... albo psikus!
-special_judge: false
-time_limit: 4 초
-memory_limit: 1024 MB
+title: "... albo psikus!"
+special_judge: "false"
+time_limit: "4 초"
+memory_limit: "1024 MB"
 submissions: 23
 accepted: 21
 solved_users: 19
-acceptance_rate: 95.000%
-collected_at: 2026-04-17T17:50:56.983513+00:00
+acceptance_rate: "95.000%"
+collected_at: "2026-04-17T17:50:56.983513+00:00"
 ---
 
 ## 문제

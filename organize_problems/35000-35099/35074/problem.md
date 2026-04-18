@@ -1,13 +1,13 @@
 ---
-title: Canal Crossing
-special_judge: false
-time_limit: 4 초
-memory_limit: 2048 MB
+title: "Canal Crossing"
+special_judge: "false"
+time_limit: "4 초"
+memory_limit: "2048 MB"
 submissions: 26
 accepted: 24
 solved_users: 24
-acceptance_rate: 92.308%
-collected_at: 2026-04-17T20:55:08.604563+00:00
+acceptance_rate: "92.308%"
+collected_at: "2026-04-17T20:55:08.604563+00:00"
 ---
 
 ## 문제

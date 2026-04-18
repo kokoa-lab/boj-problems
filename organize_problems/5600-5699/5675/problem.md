@@ -1,13 +1,13 @@
 ---
-title: 시침과 분침
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "시침과 분침"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 1138
 accepted: 594
 solved_users: 510
-acceptance_rate: 56.229%
-collected_at: 2026-04-17T11:16:32.945286+00:00
+acceptance_rate: "56.229%"
+collected_at: "2026-04-17T11:16:32.945286+00:00"
 ---
 
 ## 문제

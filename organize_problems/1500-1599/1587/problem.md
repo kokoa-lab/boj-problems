@@ -1,13 +1,13 @@
 ---
-title: 이분 매칭
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "이분 매칭"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 586
 accepted: 286
 solved_users: 245
-acceptance_rate: 54.810%
-collected_at: 2026-04-17T10:31:26.450538+00:00
+acceptance_rate: "54.810%"
+collected_at: "2026-04-17T10:31:26.450538+00:00"
 ---
 
 ## 문제

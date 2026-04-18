@@ -1,13 +1,13 @@
 ---
-title: 3대 측정
-special_judge: false
-time_limit: 3 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "3대 측정"
+special_judge: "false"
+time_limit: "3 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 5913
 accepted: 2861
 solved_users: 1928
-acceptance_rate: 50.551%
-collected_at: 2026-04-17T15:34:30.344208+00:00
+acceptance_rate: "50.551%"
+collected_at: "2026-04-17T15:34:30.344208+00:00"
 ---
 
 ## 문제

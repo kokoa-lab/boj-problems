@@ -1,13 +1,13 @@
 ---
-title: 으어어… 에이쁠 주세요..
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "으어어… 에이쁠 주세요.."
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 1456
 accepted: 357
 solved_users: 279
-acceptance_rate: 23.485%
-collected_at: 2026-04-17T16:40:38.486217+00:00
+acceptance_rate: "23.485%"
+collected_at: "2026-04-17T16:40:38.486217+00:00"
 ---
 
 ## 문제

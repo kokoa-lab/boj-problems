@@ -1,13 +1,13 @@
 ---
-title: Random Gap
-special_judge: false
-time_limit: 4 초
-memory_limit: 128 MB
+title: "Random Gap"
+special_judge: "false"
+time_limit: "4 초"
+memory_limit: "128 MB"
 submissions: 159
 accepted: 37
 solved_users: 20
-acceptance_rate: 18.018%
-collected_at: 2026-04-17T11:53:27.401618+00:00
+acceptance_rate: "18.018%"
+collected_at: "2026-04-17T11:53:27.401618+00:00"
 ---
 
 ## 문제

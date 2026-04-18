@@ -1,13 +1,13 @@
 ---
-title: Routing Schemes
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "Routing Schemes"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 10
 accepted: 7
 solved_users: 6
-acceptance_rate: 85.714%
-collected_at: 2026-04-17T16:08:15.609126+00:00
+acceptance_rate: "85.714%"
+collected_at: "2026-04-17T16:08:15.609126+00:00"
 ---
 
 ## 문제

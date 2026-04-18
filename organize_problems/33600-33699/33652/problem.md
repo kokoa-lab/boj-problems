@@ -1,13 +1,13 @@
 ---
-title: Testing LEDs
-special_judge: false
-time_limit: 2 초
-memory_limit: 2048 MB
+title: "Testing LEDs"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "2048 MB"
 submissions: 304
 accepted: 213
 solved_users: 176
-acceptance_rate: 70.120%
-collected_at: 2026-04-17T20:20:49.285375+00:00
+acceptance_rate: "70.120%"
+collected_at: "2026-04-17T20:20:49.285375+00:00"
 ---
 
 ## 문제

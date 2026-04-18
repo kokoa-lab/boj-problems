@@ -1,13 +1,13 @@
 ---
-title: 생존과 탈출
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "생존과 탈출"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 264
 accepted: 53
 solved_users: 41
-acceptance_rate: 24.699%
-collected_at: 2026-04-17T10:40:44.135436+00:00
+acceptance_rate: "24.699%"
+collected_at: "2026-04-17T10:40:44.135436+00:00"
 ---
 
 ## 문제

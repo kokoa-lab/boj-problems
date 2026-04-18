@@ -1,13 +1,13 @@
 ---
-title: Kleptography
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Kleptography"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 146
 accepted: 131
 solved_users: 112
-acceptance_rate: 91.057%
-collected_at: 2026-04-17T14:20:59.826584+00:00
+acceptance_rate: "91.057%"
+collected_at: "2026-04-17T14:20:59.826584+00:00"
 ---
 
 ## 문제

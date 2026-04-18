@@ -1,13 +1,13 @@
 ---
-title: Oriental P.A.D.A.K
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Oriental P.A.D.A.K"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 43
 accepted: 17
 solved_users: 14
-acceptance_rate: 41.176%
-collected_at: 2026-04-17T19:31:33.029805+00:00
+acceptance_rate: "41.176%"
+collected_at: "2026-04-17T19:31:33.029805+00:00"
 ---
 
 ## 문제

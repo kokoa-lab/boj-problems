@@ -1,13 +1,13 @@
 ---
-title: Watering the Fields
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Watering the Fields"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 4547
 accepted: 1251
 solved_users: 919
-acceptance_rate: 26.770%
-collected_at: 2026-04-17T12:17:52.724037+00:00
+acceptance_rate: "26.770%"
+collected_at: "2026-04-17T12:17:52.724037+00:00"
 ---
 
 ## 문제

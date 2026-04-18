@@ -1,13 +1,13 @@
 ---
-title: 일차함수들
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "일차함수들"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 1226
 accepted: 768
 solved_users: 621
-acceptance_rate: 62.854%
-collected_at: 2026-04-17T17:26:31.021319+00:00
+acceptance_rate: "62.854%"
+collected_at: "2026-04-17T17:26:31.021319+00:00"
 ---
 
 ## 문제

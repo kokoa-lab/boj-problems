@@ -1,13 +1,13 @@
 ---
-title: Park
-special_judge: false
-time_limit: 2.5 초
-memory_limit: 256 MB
+title: "Park"
+special_judge: "false"
+time_limit: "2.5 초"
+memory_limit: "256 MB"
 submissions: 194
 accepted: 58
 solved_users: 52
-acceptance_rate: 33.121%
-collected_at: 2026-04-17T13:00:46.143902+00:00
+acceptance_rate: "33.121%"
+collected_at: "2026-04-17T13:00:46.143902+00:00"
 ---
 
 ## 문제

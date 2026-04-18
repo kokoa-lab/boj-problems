@@ -1,13 +1,13 @@
 ---
-title: Contraband
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Contraband"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 84
 accepted: 24
 solved_users: 8
-acceptance_rate: 20.513%
-collected_at: 2026-04-17T12:10:17.813039+00:00
+acceptance_rate: "20.513%"
+collected_at: "2026-04-17T12:10:17.813039+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Dining Cows
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Dining Cows"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 530
 accepted: 232
 solved_users: 195
-acceptance_rate: 48.750%
-collected_at: 2026-04-17T11:21:44.517574+00:00
+acceptance_rate: "48.750%"
+collected_at: "2026-04-17T11:21:44.517574+00:00"
 ---
 
 ## 문제

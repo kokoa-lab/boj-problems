@@ -1,13 +1,13 @@
 ---
-title: Visits
-special_judge: false
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Visits"
+special_judge: "false"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 422
 accepted: 177
 solved_users: 163
-acceptance_rate: 43.467%
-collected_at: 2026-04-17T17:18:05.576919+00:00
+acceptance_rate: "43.467%"
+collected_at: "2026-04-17T17:18:05.576919+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 구간 동전 뒤집기 게임
-special_judge: false
-time_limit: 3 초
-memory_limit: 1024 MB
+title: "구간 동전 뒤집기 게임"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "1024 MB"
 submissions: 84
 accepted: 27
 solved_users: 9
-acceptance_rate: 56.250%
-collected_at: 2026-04-17T20:57:36.093261+00:00
+acceptance_rate: "56.250%"
+collected_at: "2026-04-17T20:57:36.093261+00:00"
 ---
 
 ## 문제

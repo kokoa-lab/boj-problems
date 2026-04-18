@@ -1,13 +1,13 @@
 ---
-title: 팩토리얼 0의 개수
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "팩토리얼 0의 개수"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 113558
 accepted: 53284
 solved_users: 44827
-acceptance_rate: 46.375%
-collected_at: 2026-04-17T10:32:13.121166+00:00
+acceptance_rate: "46.375%"
+collected_at: "2026-04-17T10:32:13.121166+00:00"
 ---
 
 ## 문제

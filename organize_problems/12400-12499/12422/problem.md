@@ -1,13 +1,13 @@
 ---
-title: 창문 깨기 (Large)
-special_judge: true
-time_limit: 30 초
-memory_limit: 512 MB
+title: "창문 깨기 (Large)"
+special_judge: "true"
+time_limit: "30 초"
+memory_limit: "512 MB"
 submissions: 45
 accepted: 9
 solved_users: 3
-acceptance_rate: 75.000%
-collected_at: 2026-04-17T12:55:08.749394+00:00
+acceptance_rate: "75.000%"
+collected_at: "2026-04-17T12:55:08.749394+00:00"
 ---
 
 ## 문제

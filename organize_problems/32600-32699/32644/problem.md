@@ -1,13 +1,13 @@
 ---
-title: 랜덤 넘버 추측하기
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "랜덤 넘버 추측하기"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 186
 accepted: 115
 solved_users: 105
-acceptance_rate: 68.182%
-collected_at: 2026-04-17T19:58:19.133193+00:00
+acceptance_rate: "68.182%"
+collected_at: "2026-04-17T19:58:19.133193+00:00"
 ---
 
 ## 문제

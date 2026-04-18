@@ -1,13 +1,13 @@
 ---
-title: Statistics
-special_judge: true
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Statistics"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 633
 accepted: 332
 solved_users: 295
-acceptance_rate: 53.832%
-collected_at: 2026-04-17T11:21:49.067885+00:00
+acceptance_rate: "53.832%"
+collected_at: "2026-04-17T11:21:49.067885+00:00"
 ---
 
 ## 문제

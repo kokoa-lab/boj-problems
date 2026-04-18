@@ -1,13 +1,13 @@
 ---
-title: MEXchange
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "MEXchange"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 563
 accepted: 215
 solved_users: 173
-acceptance_rate: 37.045%
-collected_at: 2026-04-17T19:07:11.809391+00:00
+acceptance_rate: "37.045%"
+collected_at: "2026-04-17T19:07:11.809391+00:00"
 ---
 
 ## 문제

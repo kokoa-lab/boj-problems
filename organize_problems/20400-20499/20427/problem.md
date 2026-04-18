@@ -1,13 +1,13 @@
 ---
-title: 아침은 고구마야 (Hard)
-special_judge: false
-time_limit: 3 초
-memory_limit: 512 MB
+title: "아침은 고구마야 (Hard)"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "512 MB"
 submissions: 86
 accepted: 30
 solved_users: 19
-acceptance_rate: 27.536%
-collected_at: 2026-04-17T15:36:13.466905+00:00
+acceptance_rate: "27.536%"
+collected_at: "2026-04-17T15:36:13.466905+00:00"
 ---
 
 ## 문제

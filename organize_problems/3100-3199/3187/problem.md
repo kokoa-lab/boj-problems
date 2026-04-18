@@ -1,13 +1,13 @@
 ---
-title: 양치기 꿍
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "양치기 꿍"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 5978
 accepted: 3916
 solved_users: 3285
-acceptance_rate: 67.302%
-collected_at: 2026-04-17T10:47:16.905635+00:00
+acceptance_rate: "67.302%"
+collected_at: "2026-04-17T10:47:16.905635+00:00"
 ---
 
 ## 문제

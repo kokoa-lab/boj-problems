@@ -1,13 +1,13 @@
 ---
-title: 가지 볶음 (Easy)
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "가지 볶음 (Easy)"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 72
 accepted: 19
 solved_users: 14
-acceptance_rate: 50.000%
-collected_at: 2026-04-17T18:16:19.621749+00:00
+acceptance_rate: "50.000%"
+collected_at: "2026-04-17T18:16:19.621749+00:00"
 ---
 
 ## 문제

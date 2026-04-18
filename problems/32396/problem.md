@@ -1,13 +1,13 @@
 ---
-title: 차이를 $M$ 이상으로
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "차이를 $M$ 이상으로"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 561
 accepted: 326
 solved_users: 272
-acceptance_rate: 62.529%
-collected_at: 2026-04-17T19:50:14.910825+00:00
+acceptance_rate: "62.529%"
+collected_at: "2026-04-17T19:50:14.910825+00:00"
 ---
 
 ## 문제

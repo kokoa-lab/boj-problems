@@ -1,13 +1,13 @@
 ---
-title: 문자열 집합 판별
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "문자열 집합 판별"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 6455
 accepted: 2541
 solved_users: 1410
-acceptance_rate: 37.233%
-collected_at: 2026-04-17T12:08:16.293146+00:00
+acceptance_rate: "37.233%"
+collected_at: "2026-04-17T12:08:16.293146+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 닌자 파티
-special_judge: false
-time_limit: 5 초
-memory_limit: 1024 MB
+title: "닌자 파티"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "1024 MB"
 submissions: 64
 accepted: 17
 solved_users: 12
-acceptance_rate: 27.273%
-collected_at: 2026-04-17T19:20:47.830500+00:00
+acceptance_rate: "27.273%"
+collected_at: "2026-04-17T19:20:47.830500+00:00"
 ---
 
 ## 문제

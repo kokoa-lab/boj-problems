@@ -1,13 +1,13 @@
 ---
-title: Fair and Square (Small)
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Fair and Square (Small)"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 119
 accepted: 104
 solved_users: 91
-acceptance_rate: 86.667%
-collected_at: 2026-04-17T12:53:57.227541+00:00
+acceptance_rate: "86.667%"
+collected_at: "2026-04-17T12:53:57.227541+00:00"
 ---
 
 ## 문제

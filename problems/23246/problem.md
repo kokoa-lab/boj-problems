@@ -1,13 +1,13 @@
 ---
-title: Sport Climbing Combined
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Sport Climbing Combined"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 2109
 accepted: 1277
 solved_users: 1051
-acceptance_rate: 61.140%
-collected_at: 2026-04-17T16:44:59.594020+00:00
+acceptance_rate: "61.140%"
+collected_at: "2026-04-17T16:44:59.594020+00:00"
 ---
 
 ## 문제

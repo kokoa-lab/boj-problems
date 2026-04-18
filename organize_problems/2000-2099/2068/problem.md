@@ -1,13 +1,13 @@
 ---
-title: 자전거 경주
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "자전거 경주"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 74
 accepted: 7
 solved_users: 4
-acceptance_rate: 100.000%
-collected_at: 2026-04-17T10:37:57.409973+00:00
+acceptance_rate: "100.000%"
+collected_at: "2026-04-17T10:37:57.409973+00:00"
 ---
 
 ## 문제

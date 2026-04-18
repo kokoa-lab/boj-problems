@@ -1,13 +1,13 @@
 ---
-title: Телешоу
-special_judge: true
-time_limit: 2 초
-memory_limit: 256 MB
+title: "Телешоу"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 134
 accepted: 57
 solved_users: 36
-acceptance_rate: 38.710%
-collected_at: 2026-04-17T16:16:25.577275+00:00
+acceptance_rate: "38.710%"
+collected_at: "2026-04-17T16:16:25.577275+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 키
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "키"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 616
 accepted: 111
 solved_users: 100
-acceptance_rate: 26.954%
-collected_at: 2026-04-17T10:28:21.541132+00:00
+acceptance_rate: "26.954%"
+collected_at: "2026-04-17T10:28:21.541132+00:00"
 ---
 
 ## 문제

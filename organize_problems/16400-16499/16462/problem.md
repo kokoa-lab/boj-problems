@@ -1,13 +1,13 @@
 ---
-title: '나교수' 교수님의 악필
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "'나교수' 교수님의 악필"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 2018
 accepted: 1017
 solved_users: 918
-acceptance_rate: 52.011%
-collected_at: 2026-04-17T14:18:23.113480+00:00
+acceptance_rate: "52.011%"
+collected_at: "2026-04-17T14:18:23.113480+00:00"
 ---
 
 ## 문제

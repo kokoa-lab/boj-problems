@@ -1,13 +1,13 @@
 ---
-title: Marked-Numbered
-special_judge: true
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Marked-Numbered"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 545
 accepted: 244
 solved_users: 182
-acceptance_rate: 49.591%
-collected_at: 2026-04-17T18:21:37.552620+00:00
+acceptance_rate: "49.591%"
+collected_at: "2026-04-17T18:21:37.552620+00:00"
 ---
 
 ## 문제

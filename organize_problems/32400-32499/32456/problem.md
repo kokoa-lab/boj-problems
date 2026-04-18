@@ -1,13 +1,13 @@
 ---
-title: Harmonious Passage of Magicians
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Harmonious Passage of Magicians"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 35
 accepted: 18
 solved_users: 14
-acceptance_rate: 77.778%
-collected_at: 2026-04-17T19:51:34.085423+00:00
+acceptance_rate: "77.778%"
+collected_at: "2026-04-17T19:51:34.085423+00:00"
 ---
 
 ## 문제

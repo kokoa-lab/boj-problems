@@ -1,13 +1,13 @@
 ---
-title: Jabbing Jets
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 2048 MB
+title: "Jabbing Jets"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "2048 MB"
 submissions: 149
 accepted: 37
 solved_users: 34
-acceptance_rate: 24.638%
-collected_at: 2026-04-17T17:38:21.506964+00:00
+acceptance_rate: "24.638%"
+collected_at: "2026-04-17T17:38:21.506964+00:00"
 ---
 
 ## 문제

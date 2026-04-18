@@ -1,13 +1,13 @@
 ---
-title: Rainbow Zamboni
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Rainbow Zamboni"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 25
 accepted: 9
 solved_users: 7
-acceptance_rate: 35.000%
-collected_at: 2026-04-17T12:38:21.742840+00:00
+acceptance_rate: "35.000%"
+collected_at: "2026-04-17T12:38:21.742840+00:00"
 ---
 
 ## 문제

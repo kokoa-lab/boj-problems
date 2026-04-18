@@ -1,13 +1,13 @@
 ---
-title: 장인은 도구를 탓하지 않는다
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "장인은 도구를 탓하지 않는다"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 743
 accepted: 514
 solved_users: 437
-acceptance_rate: 71.875%
-collected_at: 2026-04-17T17:36:24.650183+00:00
+acceptance_rate: "71.875%"
+collected_at: "2026-04-17T17:36:24.650183+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 등장하지 않는 문자의 합
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "등장하지 않는 문자의 합"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 8892
 accepted: 5375
 solved_users: 4916
-acceptance_rate: 60.879%
-collected_at: 2026-04-17T10:46:27.815383+00:00
+acceptance_rate: "60.879%"
+collected_at: "2026-04-17T10:46:27.815383+00:00"
 ---
 
 ## 문제

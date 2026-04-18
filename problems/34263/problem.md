@@ -1,13 +1,13 @@
 ---
-title: 신호기
-special_judge: false
-time_limit: 8 초 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "신호기"
+special_judge: "false"
+time_limit: "8 초 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 43
 accepted: 9
 solved_users: 8
-acceptance_rate: 21.622%
-collected_at: 2026-04-17T20:34:13.212798+00:00
+acceptance_rate: "21.622%"
+collected_at: "2026-04-17T20:34:13.212798+00:00"
 ---
 
 ## 문제

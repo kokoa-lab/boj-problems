@@ -1,13 +1,13 @@
 ---
-title: 다각형그리기
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "다각형그리기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 2031
 accepted: 1157
 solved_users: 1022
-acceptance_rate: 61.015%
-collected_at: 2026-04-17T10:43:33.998114+00:00
+acceptance_rate: "61.015%"
+collected_at: "2026-04-17T10:43:33.998114+00:00"
 ---
 
 ## 문제

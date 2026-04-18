@@ -1,13 +1,13 @@
 ---
-title: Cow Brainiacs
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Cow Brainiacs"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 90
 accepted: 45
 solved_users: 27
-acceptance_rate: 48.214%
-collected_at: 2026-04-17T17:56:05.857406+00:00
+acceptance_rate: "48.214%"
+collected_at: "2026-04-17T17:56:05.857406+00:00"
 ---
 
 ## 문제

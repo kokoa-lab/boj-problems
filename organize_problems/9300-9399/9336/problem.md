@@ -1,13 +1,13 @@
 ---
-title: 아스키 아트 표
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "아스키 아트 표"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 150
 accepted: 42
 solved_users: 36
-acceptance_rate: 30.769%
-collected_at: 2026-04-17T12:09:00.068782+00:00
+acceptance_rate: "30.769%"
+collected_at: "2026-04-17T12:09:00.068782+00:00"
 ---
 
 ## 문제

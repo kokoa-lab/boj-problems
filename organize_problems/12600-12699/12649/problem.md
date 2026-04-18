@@ -1,13 +1,13 @@
 ---
-title: Multi-base happiness (Small)
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Multi-base happiness (Small)"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 121
 accepted: 81
 solved_users: 42
-acceptance_rate: 60.000%
-collected_at: 2026-04-17T12:59:01.620609+00:00
+acceptance_rate: "60.000%"
+collected_at: "2026-04-17T12:59:01.620609+00:00"
 ---
 
 ## 문제

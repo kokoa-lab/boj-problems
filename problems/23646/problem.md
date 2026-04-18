@@ -1,13 +1,13 @@
 ---
-title: Handsome multisets
-special_judge: true
-time_limit: 15 초 (추가 시간 없음)
-memory_limit: 256 MB
+title: "Handsome multisets"
+special_judge: "true"
+time_limit: "15 초 (추가 시간 없음)"
+memory_limit: "256 MB"
 submissions: 8
 accepted: 2
 solved_users: 2
-acceptance_rate: 33.333%
-collected_at: 2026-04-17T16:51:38.172433+00:00
+acceptance_rate: "33.333%"
+collected_at: "2026-04-17T16:51:38.172433+00:00"
 ---
 
 ## 문제

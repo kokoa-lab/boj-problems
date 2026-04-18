@@ -1,13 +1,13 @@
 ---
-title: 드높은 남산 위에 우뚝 선
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "드높은 남산 위에 우뚝 선"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 1858
 accepted: 910
 solved_users: 781
-acceptance_rate: 54.236%
-collected_at: 2026-04-17T16:10:46.175094+00:00
+acceptance_rate: "54.236%"
+collected_at: "2026-04-17T16:10:46.175094+00:00"
 ---
 
 ## 문제

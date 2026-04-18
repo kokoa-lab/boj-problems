@@ -1,13 +1,13 @@
 ---
-title: Team selection
-special_judge: false
-time_limit: 6 초
-memory_limit: 1024 MB
+title: "Team selection"
+special_judge: "false"
+time_limit: "6 초"
+memory_limit: "1024 MB"
 submissions: 103
 accepted: 73
 solved_users: 60
-acceptance_rate: 69.767%
-collected_at: 2026-04-17T19:29:13.751275+00:00
+acceptance_rate: "69.767%"
+collected_at: "2026-04-17T19:29:13.751275+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 가주아
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "가주아"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 1255
 accepted: 456
 solved_users: 394
-acceptance_rate: 39.718%
-collected_at: 2026-04-17T14:18:24.910416+00:00
+acceptance_rate: "39.718%"
+collected_at: "2026-04-17T14:18:24.910416+00:00"
 ---
 
 ## 문제

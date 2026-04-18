@@ -1,13 +1,13 @@
 ---
-title: God Game
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "God Game"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 49
 accepted: 23
 solved_users: 18
-acceptance_rate: 54.545%
-collected_at: 2026-04-17T13:41:15.884709+00:00
+acceptance_rate: "54.545%"
+collected_at: "2026-04-17T13:41:15.884709+00:00"
 ---
 
 ## 문제

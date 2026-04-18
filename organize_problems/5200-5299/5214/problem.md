@@ -1,13 +1,13 @@
 ---
-title: 환승
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "환승"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 13272
 accepted: 3832
 solved_users: 2695
-acceptance_rate: 28.193%
-collected_at: 2026-04-17T11:12:21.851307+00:00
+acceptance_rate: "28.193%"
+collected_at: "2026-04-17T11:12:21.851307+00:00"
 ---
 
 ## 문제

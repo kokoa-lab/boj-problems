@@ -1,13 +1,13 @@
 ---
-title: JJOOII (JJOOII)
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "JJOOII (JJOOII)"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 285
 accepted: 87
 solved_users: 74
-acceptance_rate: 34.419%
-collected_at: 2026-04-17T11:15:15.779910+00:00
+acceptance_rate: "34.419%"
+collected_at: "2026-04-17T11:15:15.779910+00:00"
 ---
 
 ## 문제

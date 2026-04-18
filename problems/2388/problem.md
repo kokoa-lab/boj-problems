@@ -1,13 +1,13 @@
 ---
-title: 블록 쌓기
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "블록 쌓기"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 261
 accepted: 92
 solved_users: 78
-acceptance_rate: 39.796%
-collected_at: 2026-04-17T10:41:14.528926+00:00
+acceptance_rate: "39.796%"
+collected_at: "2026-04-17T10:41:14.528926+00:00"
 ---
 
 ## 문제

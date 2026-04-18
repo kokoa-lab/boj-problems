@@ -1,13 +1,13 @@
 ---
-title: Find a Tree
-special_judge: true
-time_limit: 4 초
-memory_limit: 512 MB
+title: "Find a Tree"
+special_judge: "true"
+time_limit: "4 초"
+memory_limit: "512 MB"
 submissions: 154
 accepted: 43
 solved_users: 32
-acceptance_rate: 24.615%
-collected_at: 2026-04-17T15:05:51.234270+00:00
+acceptance_rate: "24.615%"
+collected_at: "2026-04-17T15:05:51.234270+00:00"
 ---
 
 ## 문제

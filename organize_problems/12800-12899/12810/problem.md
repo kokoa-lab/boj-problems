@@ -1,13 +1,13 @@
 ---
-title: Beautiful Partition
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "Beautiful Partition"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 65
 accepted: 24
 solved_users: 11
-acceptance_rate: 28.205%
-collected_at: 2026-04-17T13:01:49.867311+00:00
+acceptance_rate: "28.205%"
+collected_at: "2026-04-17T13:01:49.867311+00:00"
 ---
 
 ## 문제

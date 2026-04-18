@@ -1,13 +1,13 @@
 ---
-title: 시간복잡도를 배운 도도
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "시간복잡도를 배운 도도"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 2262
 accepted: 1455
 solved_users: 1218
-acceptance_rate: 64.547%
-collected_at: 2026-04-17T17:10:29.491474+00:00
+acceptance_rate: "64.547%"
+collected_at: "2026-04-17T17:10:29.491474+00:00"
 ---
 
 ## 문제

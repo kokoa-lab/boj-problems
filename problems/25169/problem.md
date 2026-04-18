@@ -1,13 +1,13 @@
 ---
-title: 피곤한 아리의 현생 살기
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "피곤한 아리의 현생 살기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 199
 accepted: 52
 solved_users: 40
-acceptance_rate: 39.604%
-collected_at: 2026-04-17T17:22:00.569821+00:00
+acceptance_rate: "39.604%"
+collected_at: "2026-04-17T17:22:00.569821+00:00"
 ---
 
 ## 문제

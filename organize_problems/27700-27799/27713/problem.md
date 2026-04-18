@@ -1,13 +1,13 @@
 ---
-title: Jimmy the Acting Teacher
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Jimmy the Acting Teacher"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 4
 accepted: 3
 solved_users: 3
-acceptance_rate: 75.000%
-collected_at: 2026-04-17T18:09:16.980320+00:00
+acceptance_rate: "75.000%"
+collected_at: "2026-04-17T18:09:16.980320+00:00"
 ---
 
 ## 문제

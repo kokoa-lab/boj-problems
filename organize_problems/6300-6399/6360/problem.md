@@ -1,13 +1,13 @@
 ---
-title: L-I-N-G-O: LINGO
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "L-I-N-G-O: LINGO"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 96
 accepted: 11
 solved_users: 10
-acceptance_rate: 26.316%
-collected_at: 2026-04-17T11:26:10.790162+00:00
+acceptance_rate: "26.316%"
+collected_at: "2026-04-17T11:26:10.790162+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Card Counting Club
-special_judge: false
-time_limit: 8 초
-memory_limit: 1024 MB
+title: "Card Counting Club"
+special_judge: "false"
+time_limit: "8 초"
+memory_limit: "1024 MB"
 submissions: 42
 accepted: 34
 solved_users: 30
-acceptance_rate: 88.235%
-collected_at: 2026-04-17T19:33:42.425697+00:00
+acceptance_rate: "88.235%"
+collected_at: "2026-04-17T19:33:42.425697+00:00"
 ---
 
 ## 문제

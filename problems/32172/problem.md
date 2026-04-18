@@ -1,13 +1,13 @@
 ---
-title: 현권이와 신기한 수열
-special_judge: false
-time_limit: 0.1 초
-memory_limit: 1024 MB
+title: "현권이와 신기한 수열"
+special_judge: "false"
+time_limit: "0.1 초"
+memory_limit: "1024 MB"
 submissions: 916
 accepted: 615
 solved_users: 479
-acceptance_rate: 68.921%
-collected_at: 2026-04-17T19:44:51.805431+00:00
+acceptance_rate: "68.921%"
+collected_at: "2026-04-17T19:44:51.805431+00:00"
 ---
 
 ## 문제

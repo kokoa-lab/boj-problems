@@ -1,13 +1,13 @@
 ---
-title: Actual visible points
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Actual visible points"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 72
 accepted: 22
 solved_users: 14
-acceptance_rate: 29.787%
-collected_at: 2026-04-17T12:31:21.984983+00:00
+acceptance_rate: "29.787%"
+collected_at: "2026-04-17T12:31:21.984983+00:00"
 ---
 
 ## 문제

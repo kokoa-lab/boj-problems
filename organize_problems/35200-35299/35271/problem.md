@@ -1,13 +1,13 @@
 ---
-title: 자대 배치
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "자대 배치"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 265
 accepted: 221
 solved_users: 198
-acceptance_rate: 83.898%
-collected_at: 2026-04-17T20:59:17.273036+00:00
+acceptance_rate: "83.898%"
+collected_at: "2026-04-17T20:59:17.273036+00:00"
 ---
 
 ## 문제

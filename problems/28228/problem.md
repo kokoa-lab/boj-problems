@@ -1,13 +1,13 @@
 ---
-title: Parking Party
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Parking Party"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 108
 accepted: 48
 solved_users: 42
-acceptance_rate: 54.545%
-collected_at: 2026-04-17T18:20:29.668046+00:00
+acceptance_rate: "54.545%"
+collected_at: "2026-04-17T18:20:29.668046+00:00"
 ---
 
 ## 문제

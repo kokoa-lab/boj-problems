@@ -1,13 +1,13 @@
 ---
-title: 시계탑
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "시계탑"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 1392
 accepted: 928
 solved_users: 859
-acceptance_rate: 69.107%
-collected_at: 2026-04-17T19:30:48.393267+00:00
+acceptance_rate: "69.107%"
+collected_at: "2026-04-17T19:30:48.393267+00:00"
 ---
 
 ## 문제

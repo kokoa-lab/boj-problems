@@ -1,13 +1,13 @@
 ---
-title: 점진적인 수열
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "점진적인 수열"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 107
 accepted: 44
 solved_users: 30
-acceptance_rate: 45.455%
-collected_at: 2026-04-17T20:28:15.088404+00:00
+acceptance_rate: "45.455%"
+collected_at: "2026-04-17T20:28:15.088404+00:00"
 ---
 
 ## 문제

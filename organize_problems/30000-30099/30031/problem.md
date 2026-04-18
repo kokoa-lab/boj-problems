@@ -1,13 +1,13 @@
 ---
-title: 지폐 세기
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "지폐 세기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 2800
 accepted: 2356
 solved_users: 2200
-acceptance_rate: 85.073%
-collected_at: 2026-04-17T18:57:46.376881+00:00
+acceptance_rate: "85.073%"
+collected_at: "2026-04-17T18:57:46.376881+00:00"
 ---
 
 ## 문제

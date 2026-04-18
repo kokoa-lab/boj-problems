@@ -1,13 +1,13 @@
 ---
-title: 군계일학
-special_judge: false
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 256 MB
+title: "군계일학"
+special_judge: "false"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "256 MB"
 submissions: 3386
 accepted: 827
 solved_users: 657
-acceptance_rate: 32.349%
-collected_at: 2026-04-17T14:09:15.490685+00:00
+acceptance_rate: "32.349%"
+collected_at: "2026-04-17T14:09:15.490685+00:00"
 ---
 
 ## 문제

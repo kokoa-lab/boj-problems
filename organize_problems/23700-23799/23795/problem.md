@@ -1,13 +1,13 @@
 ---
-title: 사장님 도박은 재미로 하셔야 합니다
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "사장님 도박은 재미로 하셔야 합니다"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 6951
 accepted: 5602
 solved_users: 5290
-acceptance_rate: 81.036%
-collected_at: 2026-04-17T16:54:00.878617+00:00
+acceptance_rate: "81.036%"
+collected_at: "2026-04-17T16:54:00.878617+00:00"
 ---
 
 ## 문제

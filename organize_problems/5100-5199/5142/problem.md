@@ -1,13 +1,13 @@
 ---
-title: Oily Currents
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Oily Currents"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 35
 accepted: 22
 solved_users: 19
-acceptance_rate: 61.290%
-collected_at: 2026-04-17T11:11:48.893096+00:00
+acceptance_rate: "61.290%"
+collected_at: "2026-04-17T11:11:48.893096+00:00"
 ---
 
 ## 문제

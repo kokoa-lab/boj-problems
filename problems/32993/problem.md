@@ -1,13 +1,13 @@
 ---
-title: 지하철 타고 가요
-special_judge: false
-time_limit: 8 초 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "지하철 타고 가요"
+special_judge: "false"
+time_limit: "8 초 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 89
 accepted: 21
 solved_users: 11
-acceptance_rate: 23.913%
-collected_at: 2026-04-17T20:07:04.904847+00:00
+acceptance_rate: "23.913%"
+collected_at: "2026-04-17T20:07:04.904847+00:00"
 ---
 
 ## 문제

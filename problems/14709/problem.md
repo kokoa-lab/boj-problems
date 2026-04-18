@@ -1,13 +1,13 @@
 ---
-title: 여우 사인
-special_judge: false
-time_limit: 0.5 초
-memory_limit: 512 MB
+title: "여우 사인"
+special_judge: "false"
+time_limit: "0.5 초"
+memory_limit: "512 MB"
 submissions: 2369
 accepted: 1034
 solved_users: 918
-acceptance_rate: 44.606%
-collected_at: 2026-04-17T13:40:47.602997+00:00
+acceptance_rate: "44.606%"
+collected_at: "2026-04-17T13:40:47.602997+00:00"
 ---
 
 ## 문제

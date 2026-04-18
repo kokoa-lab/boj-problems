@@ -1,13 +1,13 @@
 ---
-title: Casting Out Nines
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Casting Out Nines"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 239
 accepted: 124
 solved_users: 92
-acceptance_rate: 49.198%
-collected_at: 2026-04-17T11:10:07.425720+00:00
+acceptance_rate: "49.198%"
+collected_at: "2026-04-17T11:10:07.425720+00:00"
 ---
 
 ## 문제

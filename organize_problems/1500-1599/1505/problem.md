@@ -1,13 +1,13 @@
 ---
-title: 불 켜기
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "불 켜기"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 305
 accepted: 109
 solved_users: 90
-acceptance_rate: 39.301%
-collected_at: 2026-04-17T10:30:43.374512+00:00
+acceptance_rate: "39.301%"
+collected_at: "2026-04-17T10:30:43.374512+00:00"
 ---
 
 ## 문제

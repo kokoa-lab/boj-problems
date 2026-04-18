@@ -1,13 +1,13 @@
 ---
-title: 좀비 떼가 기관총 진지에도 오다니
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "좀비 떼가 기관총 진지에도 오다니"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 3627
 accepted: 893
 solved_users: 600
-acceptance_rate: 24.010%
-collected_at: 2026-04-17T15:25:52.276904+00:00
+acceptance_rate: "24.010%"
+collected_at: "2026-04-17T15:25:52.276904+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Σ
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Σ"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 9644
 accepted: 4838
 solved_users: 3884
-acceptance_rate: 47.833%
-collected_at: 2026-04-17T13:08:40.494382+00:00
+acceptance_rate: "47.833%"
+collected_at: "2026-04-17T13:08:40.494382+00:00"
 ---
 
 ## 문제

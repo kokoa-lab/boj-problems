@@ -1,13 +1,13 @@
 ---
-title: 다이얼
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "다이얼"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 176476
 accepted: 103899
 solved_users: 89758
-acceptance_rate: 58.622%
-collected_at: 2026-04-17T11:16:04.282719+00:00
+acceptance_rate: "58.622%"
+collected_at: "2026-04-17T11:16:04.282719+00:00"
 ---
 
 ## 문제

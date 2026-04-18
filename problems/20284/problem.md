@@ -1,13 +1,13 @@
 ---
-title: Interatividade
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Interatividade"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 23
 accepted: 9
 solved_users: 9
-acceptance_rate: 47.368%
-collected_at: 2026-04-17T15:34:13.950051+00:00
+acceptance_rate: "47.368%"
+collected_at: "2026-04-17T15:34:13.950051+00:00"
 ---
 
 ## 문제

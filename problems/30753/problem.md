@@ -1,13 +1,13 @@
 ---
-title: Включи свет, закрой двери!
-special_judge: false
-time_limit: 3 초
-memory_limit: 1024 MB
+title: "Включи свет, закрой двери!"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "1024 MB"
 submissions: 0
 accepted: 0
 solved_users: 0
-acceptance_rate: 0.000%
-collected_at: 2026-04-17T19:14:32.929933+00:00
+acceptance_rate: "0.000%"
+collected_at: "2026-04-17T19:14:32.929933+00:00"
 ---
 
 ## 문제

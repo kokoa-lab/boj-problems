@@ -1,13 +1,13 @@
 ---
-title: Prefix-free Queries
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "Prefix-free Queries"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 100
 accepted: 7
 solved_users: 7
-acceptance_rate: 7.609%
-collected_at: 2026-04-17T15:17:21.829055+00:00
+acceptance_rate: "7.609%"
+collected_at: "2026-04-17T15:17:21.829055+00:00"
 ---
 
 ## 문제

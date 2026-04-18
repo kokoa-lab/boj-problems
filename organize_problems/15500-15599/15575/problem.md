@@ -1,13 +1,13 @@
 ---
-title: 신호 2
-special_judge: true
-time_limit: 1.5 초
-memory_limit: 256 MB
+title: "신호 2"
+special_judge: "true"
+time_limit: "1.5 초"
+memory_limit: "256 MB"
 submissions: 522
 accepted: 188
 solved_users: 144
-acceptance_rate: 36.090%
-collected_at: 2026-04-17T14:01:50.439901+00:00
+acceptance_rate: "36.090%"
+collected_at: "2026-04-17T14:01:50.439901+00:00"
 ---
 
 ## 문제

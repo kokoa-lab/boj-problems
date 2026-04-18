@@ -1,13 +1,13 @@
 ---
-title: 남부순환로
-special_judge: false
-time_limit: 5 초
-memory_limit: 1536 MB
+title: "남부순환로"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "1536 MB"
 submissions: 165
 accepted: 54
 solved_users: 34
-acceptance_rate: 35.417%
-collected_at: 2026-04-17T15:37:41.675807+00:00
+acceptance_rate: "35.417%"
+collected_at: "2026-04-17T15:37:41.675807+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: The Great Revegetation (Bronze)
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "The Great Revegetation (Bronze)"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 755
 accepted: 378
 solved_users: 315
-acceptance_rate: 54.974%
-collected_at: 2026-04-17T14:28:18.970512+00:00
+acceptance_rate: "54.974%"
+collected_at: "2026-04-17T14:28:18.970512+00:00"
 ---
 
 ## 문제

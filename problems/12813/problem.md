@@ -1,13 +1,13 @@
 ---
-title: 이진수 연산
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "이진수 연산"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 5041
 accepted: 3041
 solved_users: 2537
-acceptance_rate: 61.638%
-collected_at: 2026-04-17T13:01:48.231350+00:00
+acceptance_rate: "61.638%"
+collected_at: "2026-04-17T13:01:48.231350+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 경비병 세우기 게임
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "경비병 세우기 게임"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 1044
 accepted: 470
 solved_users: 337
-acceptance_rate: 43.766%
-collected_at: 2026-04-17T15:11:37.567700+00:00
+acceptance_rate: "43.766%"
+collected_at: "2026-04-17T15:11:37.567700+00:00"
 ---
 
 ## 문제

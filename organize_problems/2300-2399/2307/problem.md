@@ -1,13 +1,13 @@
 ---
-title: 도로검문
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "도로검문"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 5200
 accepted: 2046
 solved_users: 1413
-acceptance_rate: 38.076%
-collected_at: 2026-04-17T10:40:27.830515+00:00
+acceptance_rate: "38.076%"
+collected_at: "2026-04-17T10:40:27.830515+00:00"
 ---
 
 ## 문제

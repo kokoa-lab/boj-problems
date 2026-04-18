@@ -1,13 +1,13 @@
 ---
-title: Movie-goer
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Movie-goer"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 143
 accepted: 58
 solved_users: 49
-acceptance_rate: 41.525%
-collected_at: 2026-04-17T15:00:43.496771+00:00
+acceptance_rate: "41.525%"
+collected_at: "2026-04-17T15:00:43.496771+00:00"
 ---
 
 ## 문제

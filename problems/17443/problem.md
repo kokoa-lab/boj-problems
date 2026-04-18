@@ -1,13 +1,13 @@
 ---
-title: 여우 퀴즈
-special_judge: false
-time_limit: 3 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "여우 퀴즈"
+special_judge: "false"
+time_limit: "3 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 142
 accepted: 39
 solved_users: 30
-acceptance_rate: 26.786%
-collected_at: 2026-04-17T14:39:29.963993+00:00
+acceptance_rate: "26.786%"
+collected_at: "2026-04-17T14:39:29.963993+00:00"
 ---
 
 ## 문제

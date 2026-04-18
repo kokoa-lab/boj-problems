@@ -1,13 +1,13 @@
 ---
-title: 공통교육과정
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "공통교육과정"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 1359
 accepted: 1170
 solved_users: 1123
-acceptance_rate: 86.518%
-collected_at: 2026-04-17T20:49:19.155776+00:00
+acceptance_rate: "86.518%"
+collected_at: "2026-04-17T20:49:19.155776+00:00"
 ---
 
 ## 문제

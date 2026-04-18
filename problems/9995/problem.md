@@ -1,13 +1,13 @@
 ---
-title: HM과 TM
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "HM과 TM"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 195
 accepted: 88
 solved_users: 71
-acceptance_rate: 47.973%
-collected_at: 2026-04-17T12:17:38.582463+00:00
+acceptance_rate: "47.973%"
+collected_at: "2026-04-17T12:17:38.582463+00:00"
 ---
 
 ## 문제

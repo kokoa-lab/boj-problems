@@ -1,13 +1,13 @@
 ---
-title: Pokemon Buddy
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Pokemon Buddy"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 3013
 accepted: 1195
 solved_users: 1116
-acceptance_rate: 39.729%
-collected_at: 2026-04-17T15:08:26.712414+00:00
+acceptance_rate: "39.729%"
+collected_at: "2026-04-17T15:08:26.712414+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 추첨상 사수 대작전! (Normal)
-special_judge: true
-time_limit: 1 초
-memory_limit: 512 MB
+title: "추첨상 사수 대작전! (Normal)"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 955
 accepted: 304
 solved_users: 263
-acceptance_rate: 41.417%
-collected_at: 2026-04-17T15:36:03.732061+00:00
+acceptance_rate: "41.417%"
+collected_at: "2026-04-17T15:36:03.732061+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 2-SAT - 1
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "2-SAT - 1"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 2345
 accepted: 1435
 solved_users: 1177
-acceptance_rate: 62.341%
-collected_at: 2026-04-17T12:39:04.305707+00:00
+acceptance_rate: "62.341%"
+collected_at: "2026-04-17T12:39:04.305707+00:00"
 ---
 
 ## 문제

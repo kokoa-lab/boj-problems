@@ -1,13 +1,13 @@
 ---
-title: 출력 형식이 잘못되었습니다
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "출력 형식이 잘못되었습니다"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 1285
 accepted: 476
 solved_users: 375
-acceptance_rate: 38.462%
-collected_at: 2026-04-17T11:12:06.301795+00:00
+acceptance_rate: "38.462%"
+collected_at: "2026-04-17T11:12:06.301795+00:00"
 ---
 
 ## 문제

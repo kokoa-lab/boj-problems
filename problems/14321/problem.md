@@ -1,13 +1,13 @@
 ---
-title: Sherlock and Permutation Sorting (Large)
-special_judge: false
-time_limit: 10 초
-memory_limit: 512 MB
+title: "Sherlock and Permutation Sorting (Large)"
+special_judge: "false"
+time_limit: "10 초"
+memory_limit: "512 MB"
 submissions: 12
 accepted: 11
 solved_users: 11
-acceptance_rate: 91.667%
-collected_at: 2026-04-17T13:30:12.237178+00:00
+acceptance_rate: "91.667%"
+collected_at: "2026-04-17T13:30:12.237178+00:00"
 ---
 
 ## 문제

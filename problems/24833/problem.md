@@ -1,13 +1,13 @@
 ---
-title: Air Conditioner
-special_judge: true
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 256 MB
+title: "Air Conditioner"
+special_judge: "true"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "256 MB"
 submissions: 66
 accepted: 57
 solved_users: 56
-acceptance_rate: 86.154%
-collected_at: 2026-04-17T17:15:53.642920+00:00
+acceptance_rate: "86.154%"
+collected_at: "2026-04-17T17:15:53.642920+00:00"
 ---
 
 ## 문제

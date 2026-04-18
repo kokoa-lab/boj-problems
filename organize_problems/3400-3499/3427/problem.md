@@ -1,13 +1,13 @@
 ---
-title: Beasts
-special_judge: true
-time_limit: 3 초
-memory_limit: 128 MB
+title: "Beasts"
+special_judge: "true"
+time_limit: "3 초"
+memory_limit: "128 MB"
 submissions: 6
 accepted: 6
 solved_users: 5
-acceptance_rate: 100.000%
-collected_at: 2026-04-17T10:48:49.984100+00:00
+acceptance_rate: "100.000%"
+collected_at: "2026-04-17T10:48:49.984100+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 트리 색칠
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "트리 색칠"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 1069
 accepted: 328
 solved_users: 264
-acceptance_rate: 36.718%
-collected_at: 2026-04-17T10:33:14.232381+00:00
+acceptance_rate: "36.718%"
+collected_at: "2026-04-17T10:33:14.232381+00:00"
 ---
 
 ## 문제

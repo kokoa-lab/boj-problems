@@ -1,13 +1,13 @@
 ---
-title: Cardiology
-special_judge: false
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 2048 MB
+title: "Cardiology"
+special_judge: "false"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "2048 MB"
 submissions: 70
 accepted: 33
 solved_users: 33
-acceptance_rate: 58.929%
-collected_at: 2026-04-17T16:43:50.816935+00:00
+acceptance_rate: "58.929%"
+collected_at: "2026-04-17T16:43:50.816935+00:00"
 ---
 
 ## 문제

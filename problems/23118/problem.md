@@ -1,13 +1,13 @@
 ---
-title: Crab's Cannon
-special_judge: false
-time_limit: 3 초
-memory_limit: 512 MB
+title: "Crab's Cannon"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "512 MB"
 submissions: 89
 accepted: 9
 solved_users: 7
-acceptance_rate: 14.000%
-collected_at: 2026-04-17T16:42:27.513327+00:00
+acceptance_rate: "14.000%"
+collected_at: "2026-04-17T16:42:27.513327+00:00"
 ---
 
 ## 문제

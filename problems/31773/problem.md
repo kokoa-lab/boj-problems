@@ -1,13 +1,13 @@
 ---
-title: Walking Along a Fence
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Walking Along a Fence"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 174
 accepted: 81
 solved_users: 63
-acceptance_rate: 55.752%
-collected_at: 2026-04-17T19:36:18.090573+00:00
+acceptance_rate: "55.752%"
+collected_at: "2026-04-17T19:36:18.090573+00:00"
 ---
 
 ## 문제

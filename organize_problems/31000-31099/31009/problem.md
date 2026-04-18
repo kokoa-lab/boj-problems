@@ -1,13 +1,13 @@
 ---
-title: 진주로 가자! (Easy)
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "진주로 가자! (Easy)"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 1507
 accepted: 1007
 solved_users: 933
-acceptance_rate: 68.003%
-collected_at: 2026-04-17T19:19:39.474695+00:00
+acceptance_rate: "68.003%"
+collected_at: "2026-04-17T19:19:39.474695+00:00"
 ---
 
 ## 문제

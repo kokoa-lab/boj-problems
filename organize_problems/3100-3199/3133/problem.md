@@ -1,13 +1,13 @@
 ---
-title: 코끼리
-special_judge: false
-time_limit: 3 초
-memory_limit: 128 MB
+title: "코끼리"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "128 MB"
 submissions: 543
 accepted: 257
 solved_users: 165
-acceptance_rate: 47.826%
-collected_at: 2026-04-17T10:46:55.112965+00:00
+acceptance_rate: "47.826%"
+collected_at: "2026-04-17T10:46:55.112965+00:00"
 ---
 
 ## 문제

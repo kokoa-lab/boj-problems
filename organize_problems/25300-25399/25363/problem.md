@@ -1,13 +1,13 @@
 ---
-title: Interactive Treasure Hunt
-special_judge: false
-time_limit: 3 초
-memory_limit: 512 MB
+title: "Interactive Treasure Hunt"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "512 MB"
 submissions: 140
 accepted: 48
 solved_users: 44
-acceptance_rate: 34.109%
-collected_at: 2026-04-17T17:25:42.011443+00:00
+acceptance_rate: "34.109%"
+collected_at: "2026-04-17T17:25:42.011443+00:00"
 ---
 
 ## 문제

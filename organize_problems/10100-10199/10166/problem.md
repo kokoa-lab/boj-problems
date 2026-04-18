@@ -1,13 +1,13 @@
 ---
-title: 관중석
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 64 MB (추가 메모리 없음)
+title: "관중석"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "64 MB (추가 메모리 없음)"
 submissions: 7970
 accepted: 2649
 solved_users: 1936
-acceptance_rate: 37.498%
-collected_at: 2026-04-17T12:19:51.455735+00:00
+acceptance_rate: "37.498%"
+collected_at: "2026-04-17T12:19:51.455735+00:00"
 ---
 
 ## 문제

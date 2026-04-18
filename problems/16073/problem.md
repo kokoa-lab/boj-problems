@@ -1,13 +1,13 @@
 ---
-title: Logic Puzzle
-special_judge: true
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Logic Puzzle"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 97
 accepted: 63
 solved_users: 61
-acceptance_rate: 64.211%
-collected_at: 2026-04-17T14:11:03.870398+00:00
+acceptance_rate: "64.211%"
+collected_at: "2026-04-17T14:11:03.870398+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Suma
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Suma"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 92
 accepted: 65
 solved_users: 44
-acceptance_rate: 69.841%
-collected_at: 2026-04-17T11:59:24.237539+00:00
+acceptance_rate: "69.841%"
+collected_at: "2026-04-17T11:59:24.237539+00:00"
 ---
 
 ## 문제

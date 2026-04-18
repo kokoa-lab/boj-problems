@@ -1,13 +1,13 @@
 ---
-title: 아름다운 단어
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "아름다운 단어"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 667
 accepted: 207
 solved_users: 170
-acceptance_rate: 34.765%
-collected_at: 2026-04-17T10:45:24.138066+00:00
+acceptance_rate: "34.765%"
+collected_at: "2026-04-17T10:45:24.138066+00:00"
 ---
 
 ## 문제

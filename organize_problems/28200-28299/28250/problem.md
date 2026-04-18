@@ -1,13 +1,13 @@
 ---
-title: 이브, 프시케 그리고 푸른 MEX의 아내
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "이브, 프시케 그리고 푸른 MEX의 아내"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 1118
 accepted: 480
 solved_users: 372
-acceptance_rate: 45.200%
-collected_at: 2026-04-17T18:21:01.720351+00:00
+acceptance_rate: "45.200%"
+collected_at: "2026-04-17T18:21:01.720351+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Ping Pong Balls (Large)
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Ping Pong Balls (Large)"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 54
 accepted: 7
 solved_users: 7
-acceptance_rate: 36.842%
-collected_at: 2026-04-17T12:59:21.301823+00:00
+acceptance_rate: "36.842%"
+collected_at: "2026-04-17T12:59:21.301823+00:00"
 ---
 
 ## 문제

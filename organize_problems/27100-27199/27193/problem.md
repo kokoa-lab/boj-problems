@@ -1,13 +1,13 @@
 ---
-title: Shifting Roads
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Shifting Roads"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 11
 accepted: 3
 solved_users: 3
-acceptance_rate: 27.273%
-collected_at: 2026-04-17T17:57:57.027879+00:00
+acceptance_rate: "27.273%"
+collected_at: "2026-04-17T17:57:57.027879+00:00"
 ---
 
 ## 문제

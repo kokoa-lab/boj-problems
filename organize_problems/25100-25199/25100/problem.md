@@ -1,13 +1,13 @@
 ---
-title: E(length(CH))
-special_judge: true
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 256 MB
+title: "E(length(CH))"
+special_judge: "true"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "256 MB"
 submissions: 54
 accepted: 23
 solved_users: 20
-acceptance_rate: 54.054%
-collected_at: 2026-04-17T17:20:43.111032+00:00
+acceptance_rate: "54.054%"
+collected_at: "2026-04-17T17:20:43.111032+00:00"
 ---
 
 ## 문제

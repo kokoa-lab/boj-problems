@@ -1,13 +1,13 @@
 ---
-title: Перетягивание каната
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Перетягивание каната"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 72
 accepted: 12
 solved_users: 11
-acceptance_rate: 29.730%
-collected_at: 2026-04-17T15:30:18.744201+00:00
+acceptance_rate: "29.730%"
+collected_at: "2026-04-17T15:30:18.744201+00:00"
 ---
 
 ## 문제

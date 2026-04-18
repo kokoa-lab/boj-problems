@@ -1,13 +1,13 @@
 ---
-title: New Tree
-special_judge: true
-time_limit: 0.2 초
-memory_limit: 1024 MB
+title: "New Tree"
+special_judge: "true"
+time_limit: "0.2 초"
+memory_limit: "1024 MB"
 submissions: 61
 accepted: 3
 solved_users: 2
-acceptance_rate: 20.000%
-collected_at: 2026-04-17T13:01:54.804375+00:00
+acceptance_rate: "20.000%"
+collected_at: "2026-04-17T13:01:54.804375+00:00"
 ---
 
 ## 문제

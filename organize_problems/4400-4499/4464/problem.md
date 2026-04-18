@@ -1,13 +1,13 @@
 ---
-title: Pride and Prejudice and Zombies
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Pride and Prejudice and Zombies"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 246
 accepted: 84
 solved_users: 59
-acceptance_rate: 28.641%
-collected_at: 2026-04-17T11:02:12.149889+00:00
+acceptance_rate: "28.641%"
+collected_at: "2026-04-17T11:02:12.149889+00:00"
 ---
 
 ## 문제

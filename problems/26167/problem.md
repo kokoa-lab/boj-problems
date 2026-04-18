@@ -1,13 +1,13 @@
 ---
-title: 헥소미노
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "헥소미노"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 174
 accepted: 64
 solved_users: 40
-acceptance_rate: 35.398%
-collected_at: 2026-04-17T17:41:19.241932+00:00
+acceptance_rate: "35.398%"
+collected_at: "2026-04-17T17:41:19.241932+00:00"
 ---
 
 ## 문제

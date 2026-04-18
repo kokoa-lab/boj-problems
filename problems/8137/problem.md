@@ -1,13 +1,13 @@
 ---
-title: Sophie
-special_judge: true
-time_limit: 3 초
-memory_limit: 128 MB
+title: "Sophie"
+special_judge: "true"
+time_limit: "3 초"
+memory_limit: "128 MB"
 submissions: 209
 accepted: 36
 solved_users: 20
-acceptance_rate: 12.821%
-collected_at: 2026-04-17T11:56:25.485937+00:00
+acceptance_rate: "12.821%"
+collected_at: "2026-04-17T11:56:25.485937+00:00"
 ---
 
 ## 문제

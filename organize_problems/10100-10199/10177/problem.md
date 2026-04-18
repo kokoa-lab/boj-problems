@@ -1,13 +1,13 @@
 ---
-title: Magic Squares
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Magic Squares"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 315
 accepted: 223
 solved_users: 210
-acceptance_rate: 73.944%
-collected_at: 2026-04-17T12:20:00.977235+00:00
+acceptance_rate: "73.944%"
+collected_at: "2026-04-17T12:20:00.977235+00:00"
 ---
 
 ## 문제

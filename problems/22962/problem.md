@@ -1,13 +1,13 @@
 ---
-title: 신촌방위본부
-special_judge: false
-time_limit: 1.5 초
-memory_limit: 1024 MB
+title: "신촌방위본부"
+special_judge: "false"
+time_limit: "1.5 초"
+memory_limit: "1024 MB"
 submissions: 386
 accepted: 80
 solved_users: 57
-acceptance_rate: 18.153%
-collected_at: 2026-04-17T16:39:23.695640+00:00
+acceptance_rate: "18.153%"
+collected_at: "2026-04-17T16:39:23.695640+00:00"
 ---
 
 ## 문제

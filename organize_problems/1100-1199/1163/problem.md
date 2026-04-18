@@ -1,13 +1,13 @@
 ---
-title: 증가하는 리스트
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "증가하는 리스트"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 200
 accepted: 39
 solved_users: 23
-acceptance_rate: 24.211%
-collected_at: 2026-04-17T10:28:34.159179+00:00
+acceptance_rate: "24.211%"
+collected_at: "2026-04-17T10:28:34.159179+00:00"
 ---
 
 ## 문제

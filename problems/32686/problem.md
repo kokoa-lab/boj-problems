@@ -1,13 +1,13 @@
 ---
-title: DPS
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "DPS"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 386
 accepted: 160
 solved_users: 126
-acceptance_rate: 45.818%
-collected_at: 2026-04-17T19:59:13.707736+00:00
+acceptance_rate: "45.818%"
+collected_at: "2026-04-17T19:59:13.707736+00:00"
 ---
 
 ## 문제

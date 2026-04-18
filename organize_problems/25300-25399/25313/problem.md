@@ -1,13 +1,13 @@
 ---
-title: Race for the Galaxy
-special_judge: false
-time_limit: 4 초 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "Race for the Galaxy"
+special_judge: "false"
+time_limit: "4 초 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 106
 accepted: 29
 solved_users: 18
-acceptance_rate: 24.000%
-collected_at: 2026-04-17T17:24:30.221938+00:00
+acceptance_rate: "24.000%"
+collected_at: "2026-04-17T17:24:30.221938+00:00"
 ---
 
 ## 문제

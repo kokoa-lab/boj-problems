@@ -1,13 +1,13 @@
 ---
-title: 가슴 속에 무엇인가
-special_judge: false
-time_limit: 3 초
-memory_limit: 1024 MB
+title: "가슴 속에 무엇인가"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "1024 MB"
 submissions: 245
 accepted: 83
 solved_users: 60
-acceptance_rate: 33.708%
-collected_at: 2026-04-17T15:10:29.992884+00:00
+acceptance_rate: "33.708%"
+collected_at: "2026-04-17T15:10:29.992884+00:00"
 ---
 
 ## 문제

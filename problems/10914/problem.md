@@ -1,13 +1,13 @@
 ---
-title: Veni, vidi, vici
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Veni, vidi, vici"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 437
 accepted: 245
 solved_users: 201
-acceptance_rate: 53.743%
-collected_at: 2026-04-17T12:31:31.217266+00:00
+acceptance_rate: "53.743%"
+collected_at: "2026-04-17T12:31:31.217266+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 문자열 지옥에 빠진 호석
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "문자열 지옥에 빠진 호석"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 5377
 accepted: 2212
 solved_users: 1533
-acceptance_rate: 38.869%
-collected_at: 2026-04-17T15:32:31.971750+00:00
+acceptance_rate: "38.869%"
+collected_at: "2026-04-17T15:32:31.971750+00:00"
 ---
 
 ## 문제

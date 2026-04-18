@@ -1,13 +1,13 @@
 ---
-title: Rhyming Slang
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Rhyming Slang"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 49
 accepted: 40
 solved_users: 32
-acceptance_rate: 82.051%
-collected_at: 2026-04-17T13:14:41.258011+00:00
+acceptance_rate: "82.051%"
+collected_at: "2026-04-17T13:14:41.258011+00:00"
 ---
 
 ## 문제

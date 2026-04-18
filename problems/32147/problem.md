@@ -1,13 +1,13 @@
 ---
-title: Split the SSHS 4
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Split the SSHS 4"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 60
 accepted: 19
 solved_users: 17
-acceptance_rate: 54.839%
-collected_at: 2026-04-17T19:44:10.444692+00:00
+acceptance_rate: "54.839%"
+collected_at: "2026-04-17T19:44:10.444692+00:00"
 ---
 
 ## 문제

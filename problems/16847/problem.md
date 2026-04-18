@@ -1,13 +1,13 @@
 ---
-title: Teenage Mutant
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Teenage Mutant"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 161
 accepted: 138
 solved_users: 119
-acceptance_rate: 87.500%
-collected_at: 2026-04-17T14:25:03.598541+00:00
+acceptance_rate: "87.500%"
+collected_at: "2026-04-17T14:25:03.598541+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: ICONS
-special_judge: true
-time_limit: 1 초
-memory_limit: 128 MB
+title: "ICONS"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 1212
 accepted: 913
 solved_users: 855
-acceptance_rate: 76.476%
-collected_at: 2026-04-17T10:47:50.148951+00:00
+acceptance_rate: "76.476%"
+collected_at: "2026-04-17T10:47:50.148951+00:00"
 ---
 
 ## 문제

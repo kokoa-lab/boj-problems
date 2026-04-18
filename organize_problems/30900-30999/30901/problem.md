@@ -1,13 +1,13 @@
 ---
-title: Date Picker
-special_judge: true
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Date Picker"
+special_judge: "true"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 93
 accepted: 81
 solved_users: 73
-acceptance_rate: 91.250%
-collected_at: 2026-04-17T19:17:43.128946+00:00
+acceptance_rate: "91.250%"
+collected_at: "2026-04-17T19:17:43.128946+00:00"
 ---
 
 ## 문제

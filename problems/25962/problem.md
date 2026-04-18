@@ -1,13 +1,13 @@
 ---
-title: 선우의 셋리스트
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "선우의 셋리스트"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 218
 accepted: 107
 solved_users: 78
-acceptance_rate: 53.425%
-collected_at: 2026-04-17T17:37:46.444831+00:00
+acceptance_rate: "53.425%"
+collected_at: "2026-04-17T17:37:46.444831+00:00"
 ---
 
 ## 문제

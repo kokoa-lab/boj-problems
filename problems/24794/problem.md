@@ -1,13 +1,13 @@
 ---
-title: StopCard
-special_judge: true
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "StopCard"
+special_judge: "true"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 11
 accepted: 7
 solved_users: 7
-acceptance_rate: 63.636%
-collected_at: 2026-04-17T17:15:11.823733+00:00
+acceptance_rate: "63.636%"
+collected_at: "2026-04-17T17:15:11.823733+00:00"
 ---
 
 ## 문제

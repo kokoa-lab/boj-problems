@@ -1,13 +1,13 @@
 ---
-title: 파티 홍보
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "파티 홍보"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 96
 accepted: 69
 solved_users: 67
-acceptance_rate: 71.277%
-collected_at: 2026-04-17T20:37:51.215707+00:00
+acceptance_rate: "71.277%"
+collected_at: "2026-04-17T20:37:51.215707+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: A+B (MC)
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "A+B (MC)"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 850
 accepted: 31
 solved_users: 13
-acceptance_rate: 5.179%
-collected_at: 2026-04-17T15:10:05.859373+00:00
+acceptance_rate: "5.179%"
+collected_at: "2026-04-17T15:10:05.859373+00:00"
 ---
 
 ## 문제

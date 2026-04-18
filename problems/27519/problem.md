@@ -1,13 +1,13 @@
 ---
-title: 소수의 합
-special_judge: false
-time_limit: 3 초
-memory_limit: 128 MB
+title: "소수의 합"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "128 MB"
 submissions: 358
 accepted: 197
 solved_users: 138
-acceptance_rate: 55.645%
-collected_at: 2026-04-17T18:05:10.303162+00:00
+acceptance_rate: "55.645%"
+collected_at: "2026-04-17T18:05:10.303162+00:00"
 ---
 
 ## 문제

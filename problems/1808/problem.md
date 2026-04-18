@@ -1,13 +1,13 @@
 ---
-title: 숌작업
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "숌작업"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 126
 accepted: 66
 solved_users: 53
-acceptance_rate: 55.789%
-collected_at: 2026-04-17T10:33:58.611752+00:00
+acceptance_rate: "55.789%"
+collected_at: "2026-04-17T10:33:58.611752+00:00"
 ---
 
 ## 문제

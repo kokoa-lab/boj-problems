@@ -1,13 +1,13 @@
 ---
-title: 사탕
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "사탕"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 3290
 accepted: 2272
 solved_users: 2063
-acceptance_rate: 70.578%
-collected_at: 2026-04-17T12:38:45.418249+00:00
+acceptance_rate: "70.578%"
+collected_at: "2026-04-17T12:38:45.418249+00:00"
 ---
 
 ## 문제

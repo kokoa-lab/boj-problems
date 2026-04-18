@@ -1,13 +1,13 @@
 ---
-title: 가상 키보드 입력
-special_judge: false
-time_limit: 4 초
-memory_limit: 256 MB
+title: "가상 키보드 입력"
+special_judge: "false"
+time_limit: "4 초"
+memory_limit: "256 MB"
 submissions: 370
 accepted: 111
 solved_users: 80
-acceptance_rate: 32.653%
-collected_at: 2026-04-17T12:29:37.314581+00:00
+acceptance_rate: "32.653%"
+collected_at: "2026-04-17T12:29:37.314581+00:00"
 ---
 
 ## 문제

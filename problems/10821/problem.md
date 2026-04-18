@@ -1,13 +1,13 @@
 ---
-title: 정수의 개수
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "정수의 개수"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 8892
 accepted: 7393
 solved_users: 6800
-acceptance_rate: 83.888%
-collected_at: 2026-04-17T12:30:03.941010+00:00
+acceptance_rate: "83.888%"
+collected_at: "2026-04-17T12:30:03.941010+00:00"
 ---
 
 ## 문제

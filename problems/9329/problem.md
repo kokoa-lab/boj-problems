@@ -1,13 +1,13 @@
 ---
-title: 패스트 푸드 상금
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "패스트 푸드 상금"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 728
 accepted: 482
 solved_users: 408
-acceptance_rate: 67.216%
-collected_at: 2026-04-17T12:08:58.346178+00:00
+acceptance_rate: "67.216%"
+collected_at: "2026-04-17T12:08:58.346178+00:00"
 ---
 
 ## 문제

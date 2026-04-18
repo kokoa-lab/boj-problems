@@ -1,13 +1,13 @@
 ---
-title: Sales Report
-special_judge: false
-time_limit: 4 초
-memory_limit: 128 MB
+title: "Sales Report"
+special_judge: "false"
+time_limit: "4 초"
+memory_limit: "128 MB"
 submissions: 103
 accepted: 79
 solved_users: 43
-acceptance_rate: 75.439%
-collected_at: 2026-04-17T11:53:29.859471+00:00
+acceptance_rate: "75.439%"
+collected_at: "2026-04-17T11:53:29.859471+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 아!
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "아!"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 31086
 accepted: 19125
 solved_users: 17961
-acceptance_rate: 62.421%
-collected_at: 2026-04-17T11:10:47.116442+00:00
+acceptance_rate: "62.421%"
+collected_at: "2026-04-17T11:10:47.116442+00:00"
 ---
 
 ## 문제

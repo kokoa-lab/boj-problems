@@ -1,13 +1,13 @@
 ---
-title: 2+1 세일
-special_judge: false
-time_limit: 1 초
-memory_limit: 64 MB
+title: "2+1 세일"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "64 MB"
 submissions: 10249
 accepted: 6145
 solved_users: 5177
-acceptance_rate: 60.692%
-collected_at: 2026-04-17T12:41:37.763624+00:00
+acceptance_rate: "60.692%"
+collected_at: "2026-04-17T12:41:37.763624+00:00"
 ---
 
 ## 문제

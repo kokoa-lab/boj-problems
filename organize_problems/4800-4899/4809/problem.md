@@ -1,13 +1,13 @@
 ---
-title: Stock Prices
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "Stock Prices"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 227
 accepted: 102
 solved_users: 62
-acceptance_rate: 42.759%
-collected_at: 2026-04-17T11:08:47.763051+00:00
+acceptance_rate: "42.759%"
+collected_at: "2026-04-17T11:08:47.763051+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Миша и негатив
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Миша и негатив"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 1464
 accepted: 1089
 solved_users: 1003
-acceptance_rate: 75.698%
-collected_at: 2026-04-17T16:02:55.148298+00:00
+acceptance_rate: "75.698%"
+collected_at: "2026-04-17T16:02:55.148298+00:00"
 ---
 
 ## 문제

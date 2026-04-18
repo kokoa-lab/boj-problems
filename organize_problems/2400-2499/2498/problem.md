@@ -1,13 +1,13 @@
 ---
-title: 중앙문자열
-special_judge: true
-time_limit: 1 초
-memory_limit: 128 MB
+title: "중앙문자열"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 584
 accepted: 131
 solved_users: 105
-acceptance_rate: 27.062%
-collected_at: 2026-04-17T10:42:08.021535+00:00
+acceptance_rate: "27.062%"
+collected_at: "2026-04-17T10:42:08.021535+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Путешествие сквозь миры
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Путешествие сквозь миры"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 76
 accepted: 55
 solved_users: 47
-acceptance_rate: 71.212%
-collected_at: 2026-04-17T18:35:22.660592+00:00
+acceptance_rate: "71.212%"
+collected_at: "2026-04-17T18:35:22.660592+00:00"
 ---
 
 ## 문제

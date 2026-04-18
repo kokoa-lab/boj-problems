@@ -1,13 +1,13 @@
 ---
-title: Prime Cuts
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Prime Cuts"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 158
 accepted: 98
 solved_users: 79
-acceptance_rate: 61.240%
-collected_at: 2026-04-17T11:28:41.039622+00:00
+acceptance_rate: "61.240%"
+collected_at: "2026-04-17T11:28:41.039622+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: King of the Waves
-special_judge: true
-time_limit: 2 초
-memory_limit: 512 MB
+title: "King of the Waves"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 211
 accepted: 94
 solved_users: 87
-acceptance_rate: 44.388%
-collected_at: 2026-04-17T13:48:18.694882+00:00
+acceptance_rate: "44.388%"
+collected_at: "2026-04-17T13:48:18.694882+00:00"
 ---
 
 ## 문제

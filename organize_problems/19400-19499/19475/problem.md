@@ -1,13 +1,13 @@
 ---
-title: Dreissig
-special_judge: false
-time_limit: 15 초
-memory_limit: 256 MB
+title: "Dreissig"
+special_judge: "false"
+time_limit: "15 초"
+memory_limit: "256 MB"
 submissions: 1
 accepted: 1
 solved_users: 1
-acceptance_rate: 100.000%
-collected_at: 2026-04-17T15:20:47.487108+00:00
+acceptance_rate: "100.000%"
+collected_at: "2026-04-17T15:20:47.487108+00:00"
 ---
 
 ## 문제

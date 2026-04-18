@@ -1,13 +1,13 @@
 ---
-title: Cocoa Coalition
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Cocoa Coalition"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 192
 accepted: 68
 solved_users: 59
-acceptance_rate: 38.065%
-collected_at: 2026-04-17T14:52:43.878789+00:00
+acceptance_rate: "38.065%"
+collected_at: "2026-04-17T14:52:43.878789+00:00"
 ---
 
 ## 문제

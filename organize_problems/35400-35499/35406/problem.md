@@ -1,13 +1,13 @@
 ---
-title: Judgmental Crowd
-special_judge: false
-time_limit: 0.5 초
-memory_limit: 2048 MB
+title: "Judgmental Crowd"
+special_judge: "false"
+time_limit: "0.5 초"
+memory_limit: "2048 MB"
 submissions: 84
 accepted: 73
 solved_users: 71
-acceptance_rate: 87.654%
-collected_at: 2026-04-18T09:51:57.815789+00:00
+acceptance_rate: "87.654%"
+collected_at: "2026-04-18T09:51:57.815789+00:00"
 ---
 
 ## 문제

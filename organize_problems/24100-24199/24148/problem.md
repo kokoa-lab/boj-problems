@@ -1,13 +1,13 @@
 ---
-title: 最古の遺跡 2 (Ruins)
-special_judge: false
-time_limit: 1.5 초
-memory_limit: 1024 MB
+title: "最古の遺跡 2 (Ruins)"
+special_judge: "false"
+time_limit: "1.5 초"
+memory_limit: "1024 MB"
 submissions: 75
 accepted: 19
 solved_users: 15
-acceptance_rate: 35.714%
-collected_at: 2026-04-17T17:05:10.369762+00:00
+acceptance_rate: "35.714%"
+collected_at: "2026-04-17T17:05:10.369762+00:00"
 ---
 
 ## 문제

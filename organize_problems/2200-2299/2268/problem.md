@@ -1,13 +1,13 @@
 ---
-title: 수들의 합 7
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "수들의 합 7"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 15938
 accepted: 5062
 solved_users: 4133
-acceptance_rate: 31.022%
-collected_at: 2026-04-17T10:40:07.684948+00:00
+acceptance_rate: "31.022%"
+collected_at: "2026-04-17T10:40:07.684948+00:00"
 ---
 
 ## 문제

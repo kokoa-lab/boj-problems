@@ -1,13 +1,13 @@
 ---
-title: 큐
-special_judge: false
-time_limit: 0.5 초 (추가 시간 없음)
-memory_limit: 256 MB
+title: "큐"
+special_judge: "false"
+time_limit: "0.5 초 (추가 시간 없음)"
+memory_limit: "256 MB"
 submissions: 169724
 accepted: 82815
 solved_users: 65157
-acceptance_rate: 50.173%
-collected_at: 2026-04-17T12:30:25.591261+00:00
+acceptance_rate: "50.173%"
+collected_at: "2026-04-17T12:30:25.591261+00:00"
 ---
 
 ## 문제

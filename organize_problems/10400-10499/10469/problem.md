@@ -1,13 +1,13 @@
 ---
-title: 사이 나쁜 여왕들
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "사이 나쁜 여왕들"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 1271
 accepted: 443
 solved_users: 390
-acceptance_rate: 37.500%
-collected_at: 2026-04-17T12:24:11.387072+00:00
+acceptance_rate: "37.500%"
+collected_at: "2026-04-17T12:24:11.387072+00:00"
 ---
 
 ## 문제

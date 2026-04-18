@@ -1,13 +1,13 @@
 ---
-title: 4SUM
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "4SUM"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 182
 accepted: 87
 solved_users: 72
-acceptance_rate: 53.731%
-collected_at: 2026-04-17T12:15:28.293100+00:00
+acceptance_rate: "53.731%"
+collected_at: "2026-04-17T12:15:28.293100+00:00"
 ---
 
 ## 문제

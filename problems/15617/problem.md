@@ -1,13 +1,13 @@
 ---
-title: Euclidean Nim
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Euclidean Nim"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 25
 accepted: 13
 solved_users: 12
-acceptance_rate: 70.588%
-collected_at: 2026-04-17T14:02:43.172990+00:00
+acceptance_rate: "70.588%"
+collected_at: "2026-04-17T14:02:43.172990+00:00"
 ---
 
 ## 문제

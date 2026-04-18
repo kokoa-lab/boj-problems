@@ -1,13 +1,13 @@
 ---
-title: Cube Bits
-special_judge: false
-time_limit: 4 초
-memory_limit: 512 MB
+title: "Cube Bits"
+special_judge: "false"
+time_limit: "4 초"
+memory_limit: "512 MB"
 submissions: 401
 accepted: 206
 solved_users: 146
-acceptance_rate: 45.912%
-collected_at: 2026-04-17T14:02:35.849492+00:00
+acceptance_rate: "45.912%"
+collected_at: "2026-04-17T14:02:35.849492+00:00"
 ---
 
 ## 문제

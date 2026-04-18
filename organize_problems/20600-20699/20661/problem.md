@@ -1,13 +1,13 @@
 ---
-title: Vepar
-special_judge: false
-time_limit: 1.5 초
-memory_limit: 512 MB
+title: "Vepar"
+special_judge: "false"
+time_limit: "1.5 초"
+memory_limit: "512 MB"
 submissions: 135
 accepted: 74
 solved_users: 52
-acceptance_rate: 50.485%
-collected_at: 2026-04-17T15:39:36.624523+00:00
+acceptance_rate: "50.485%"
+collected_at: "2026-04-17T15:39:36.624523+00:00"
 ---
 
 ## 문제

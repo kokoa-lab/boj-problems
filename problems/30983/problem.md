@@ -1,13 +1,13 @@
 ---
-title: 충성! 파란댕댕이
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "충성! 파란댕댕이"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 228
 accepted: 82
 solved_users: 61
-acceptance_rate: 38.365%
-collected_at: 2026-04-17T19:19:15.133195+00:00
+acceptance_rate: "38.365%"
+collected_at: "2026-04-17T19:19:15.133195+00:00"
 ---
 
 ## 문제

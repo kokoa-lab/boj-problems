@@ -1,13 +1,13 @@
 ---
-title: Hobson’s Trains
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Hobson’s Trains"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 112
 accepted: 41
 solved_users: 40
-acceptance_rate: 42.553%
-collected_at: 2026-04-17T14:31:28.182736+00:00
+acceptance_rate: "42.553%"
+collected_at: "2026-04-17T14:31:28.182736+00:00"
 ---
 
 ## 문제

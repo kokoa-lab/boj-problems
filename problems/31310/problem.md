@@ -1,13 +1,13 @@
 ---
-title: Tip of Your Tongue
-special_judge: false
-time_limit: 4 초
-memory_limit: 2048 MB
+title: "Tip of Your Tongue"
+special_judge: "false"
+time_limit: "4 초"
+memory_limit: "2048 MB"
 submissions: 30
 accepted: 22
 solved_users: 18
-acceptance_rate: 72.000%
-collected_at: 2026-04-17T19:25:39.113130+00:00
+acceptance_rate: "72.000%"
+collected_at: "2026-04-17T19:25:39.113130+00:00"
 ---
 
 ## 문제

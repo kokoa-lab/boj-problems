@@ -1,13 +1,13 @@
 ---
-title: 헤일스톤 수열
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "헤일스톤 수열"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 6508
 accepted: 2910
 solved_users: 2384
-acceptance_rate: 45.785%
-collected_at: 2026-04-17T10:53:36.812237+00:00
+acceptance_rate: "45.785%"
+collected_at: "2026-04-17T10:53:36.812237+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: X 만들기
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "X 만들기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 266
 accepted: 73
 solved_users: 63
-acceptance_rate: 31.188%
-collected_at: 2026-04-17T17:28:27.197552+00:00
+acceptance_rate: "31.188%"
+collected_at: "2026-04-17T17:28:27.197552+00:00"
 ---
 
 ## 문제

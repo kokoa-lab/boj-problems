@@ -1,13 +1,13 @@
 ---
-title: 소트
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "소트"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 6563
 accepted: 1891
 solved_users: 1505
-acceptance_rate: 31.439%
-collected_at: 2026-04-17T10:28:01.824657+00:00
+acceptance_rate: "31.439%"
+collected_at: "2026-04-17T10:28:01.824657+00:00"
 ---
 
 ## 문제

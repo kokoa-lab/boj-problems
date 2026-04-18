@@ -1,13 +1,13 @@
 ---
-title: 초콜릿 피라미드
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "초콜릿 피라미드"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 1736
 accepted: 444
 solved_users: 346
-acceptance_rate: 29.957%
-collected_at: 2026-04-17T17:32:54.071746+00:00
+acceptance_rate: "29.957%"
+collected_at: "2026-04-17T17:32:54.071746+00:00"
 ---
 
 ## 문제

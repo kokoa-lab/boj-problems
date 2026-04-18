@@ -1,13 +1,13 @@
 ---
-title: 회전 초밥
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "회전 초밥"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 23673
 accepted: 7937
 solved_users: 5726
-acceptance_rate: 34.787%
-collected_at: 2026-04-17T14:09:09.487053+00:00
+acceptance_rate: "34.787%"
+collected_at: "2026-04-17T14:09:09.487053+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 유전자 함수
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "유전자 함수"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 219
 accepted: 127
 solved_users: 116
-acceptance_rate: 59.184%
-collected_at: 2026-04-17T11:48:30.392505+00:00
+acceptance_rate: "59.184%"
+collected_at: "2026-04-17T11:48:30.392505+00:00"
 ---
 
 ## 문제

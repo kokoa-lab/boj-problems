@@ -1,13 +1,13 @@
 ---
-title: 2018 연세대학교 프로그래밍 경진대회
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "2018 연세대학교 프로그래밍 경진대회"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 4098
 accepted: 2878
 solved_users: 2603
-acceptance_rate: 70.638%
-collected_at: 2026-04-17T14:03:47.783644+00:00
+acceptance_rate: "70.638%"
+collected_at: "2026-04-17T14:03:47.783644+00:00"
 ---
 
 ## 문제

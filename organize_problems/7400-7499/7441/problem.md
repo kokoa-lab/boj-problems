@@ -1,13 +1,13 @@
 ---
-title: False coin
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "False coin"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 94
 accepted: 43
 solved_users: 39
-acceptance_rate: 47.561%
-collected_at: 2026-04-17T11:49:27.835528+00:00
+acceptance_rate: "47.561%"
+collected_at: "2026-04-17T11:49:27.835528+00:00"
 ---
 
 ## 문제

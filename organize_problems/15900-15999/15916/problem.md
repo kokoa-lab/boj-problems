@@ -1,13 +1,13 @@
 ---
-title: 가희는 그래플러야!!
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "가희는 그래플러야!!"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 1333
 accepted: 468
 solved_users: 360
-acceptance_rate: 34.221%
-collected_at: 2026-04-17T14:08:35.559696+00:00
+acceptance_rate: "34.221%"
+collected_at: "2026-04-17T14:08:35.559696+00:00"
 ---
 
 ## 문제

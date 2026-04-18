@@ -1,13 +1,13 @@
 ---
-title: 척 노리스
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "척 노리스"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 310
 accepted: 113
 solved_users: 90
-acceptance_rate: 36.000%
-collected_at: 2026-04-17T10:33:55.500017+00:00
+acceptance_rate: "36.000%"
+collected_at: "2026-04-17T10:33:55.500017+00:00"
 ---
 
 ## 문제

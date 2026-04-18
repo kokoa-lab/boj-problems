@@ -1,13 +1,13 @@
 ---
-title: GREAT + SWERC = PORTO
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "GREAT + SWERC = PORTO"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 186
 accepted: 122
 solved_users: 89
-acceptance_rate: 73.554%
-collected_at: 2026-04-17T12:25:01.414416+00:00
+acceptance_rate: "73.554%"
+collected_at: "2026-04-17T12:25:01.414416+00:00"
 ---
 
 ## 문제

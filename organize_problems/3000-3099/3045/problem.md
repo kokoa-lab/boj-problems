@@ -1,13 +1,13 @@
 ---
-title: 이중 연결 리스트
-special_judge: true
-time_limit: 1 초
-memory_limit: 128 MB
+title: "이중 연결 리스트"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 1518
 accepted: 316
 solved_users: 216
-acceptance_rate: 29.958%
-collected_at: 2026-04-17T10:46:23.051549+00:00
+acceptance_rate: "29.958%"
+collected_at: "2026-04-17T10:46:23.051549+00:00"
 ---
 
 ## 문제

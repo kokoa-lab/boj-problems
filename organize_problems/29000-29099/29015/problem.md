@@ -1,13 +1,13 @@
 ---
-title: Детали
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Детали"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 14
 accepted: 8
 solved_users: 7
-acceptance_rate: 63.636%
-collected_at: 2026-04-17T18:36:00.615140+00:00
+acceptance_rate: "63.636%"
+collected_at: "2026-04-17T18:36:00.615140+00:00"
 ---
 
 ## 문제

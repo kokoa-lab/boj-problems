@@ -1,13 +1,13 @@
 ---
-title: 임시 반장 정하기
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "임시 반장 정하기"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 23333
 accepted: 7186
 solved_users: 5819
-acceptance_rate: 31.536%
-collected_at: 2026-04-17T10:29:10.243494+00:00
+acceptance_rate: "31.536%"
+collected_at: "2026-04-17T10:29:10.243494+00:00"
 ---
 
 ## 문제

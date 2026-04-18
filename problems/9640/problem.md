@@ -1,13 +1,13 @@
 ---
-title: Modified LCS
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Modified LCS"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 111
 accepted: 32
 solved_users: 23
-acceptance_rate: 50.000%
-collected_at: 2026-04-17T12:12:20.556828+00:00
+acceptance_rate: "50.000%"
+collected_at: "2026-04-17T12:12:20.556828+00:00"
 ---
 
 ## 문제

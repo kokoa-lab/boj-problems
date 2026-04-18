@@ -1,13 +1,13 @@
 ---
-title: Hot Air Ballooning
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Hot Air Ballooning"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 721
 accepted: 380
 solved_users: 326
-acceptance_rate: 55.068%
-collected_at: 2026-04-17T13:22:09.706085+00:00
+acceptance_rate: "55.068%"
+collected_at: "2026-04-17T13:22:09.706085+00:00"
 ---
 
 ## 문제

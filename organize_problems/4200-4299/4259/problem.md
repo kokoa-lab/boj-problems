@@ -1,13 +1,13 @@
 ---
-title: Plugged In
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Plugged In"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 35
 accepted: 24
 solved_users: 18
-acceptance_rate: 62.069%
-collected_at: 2026-04-17T10:58:20.873892+00:00
+acceptance_rate: "62.069%"
+collected_at: "2026-04-17T10:58:20.873892+00:00"
 ---
 
 ## 문제

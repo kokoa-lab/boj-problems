@@ -1,13 +1,13 @@
 ---
-title: A Bug That's Not a Pill Bug
-special_judge: false
-time_limit: 8 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "A Bug That's Not a Pill Bug"
+special_judge: "false"
+time_limit: "8 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 111
 accepted: 58
 solved_users: 45
-acceptance_rate: 61.644%
-collected_at: 2026-04-17T19:41:42.606288+00:00
+acceptance_rate: "61.644%"
+collected_at: "2026-04-17T19:41:42.606288+00:00"
 ---
 
 ## 문제

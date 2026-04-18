@@ -1,13 +1,13 @@
 ---
-title: 먼 카드
-special_judge: false
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 2048 MB
+title: "먼 카드"
+special_judge: "false"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "2048 MB"
 submissions: 1266
 accepted: 803
 solved_users: 688
-acceptance_rate: 64.359%
-collected_at: 2026-04-17T20:30:55.720760+00:00
+acceptance_rate: "64.359%"
+collected_at: "2026-04-17T20:30:55.720760+00:00"
 ---
 
 ## 문제

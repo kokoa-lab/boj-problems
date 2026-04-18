@@ -1,13 +1,13 @@
 ---
-title: Birthday Gift
-special_judge: false
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Birthday Gift"
+special_judge: "false"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 33
 accepted: 18
 solved_users: 15
-acceptance_rate: 51.724%
-collected_at: 2026-04-17T18:01:52.216874+00:00
+acceptance_rate: "51.724%"
+collected_at: "2026-04-17T18:01:52.216874+00:00"
 ---
 
 ## 문제

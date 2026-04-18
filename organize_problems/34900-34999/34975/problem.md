@@ -1,13 +1,13 @@
 ---
-title: 그래플링 후크
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "그래플링 후크"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 170
 accepted: 69
 solved_users: 65
-acceptance_rate: 44.521%
-collected_at: 2026-04-17T20:52:59.804291+00:00
+acceptance_rate: "44.521%"
+collected_at: "2026-04-17T20:52:59.804291+00:00"
 ---
 
 ## 문제

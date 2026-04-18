@@ -1,13 +1,13 @@
 ---
-title: Walkable Strings
-special_judge: true
-time_limit: 3 초
-memory_limit: 2048 MB
+title: "Walkable Strings"
+special_judge: "true"
+time_limit: "3 초"
+memory_limit: "2048 MB"
 submissions: 28
 accepted: 16
 solved_users: 15
-acceptance_rate: 55.556%
-collected_at: 2026-04-17T20:23:35.458890+00:00
+acceptance_rate: "55.556%"
+collected_at: "2026-04-17T20:23:35.458890+00:00"
 ---
 
 ## 문제

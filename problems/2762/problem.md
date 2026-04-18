@@ -1,13 +1,13 @@
 ---
-title: 구역 채우기
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "구역 채우기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 51
 accepted: 4
 solved_users: 3
-acceptance_rate: 16.667%
-collected_at: 2026-04-17T10:44:37.970535+00:00
+acceptance_rate: "16.667%"
+collected_at: "2026-04-17T10:44:37.970535+00:00"
 ---
 
 ## 문제

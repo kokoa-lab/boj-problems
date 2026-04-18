@@ -1,13 +1,13 @@
 ---
-title: 치킨댄스를 추는 곰곰이를 본 임스 2
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "치킨댄스를 추는 곰곰이를 본 임스 2"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 4882
 accepted: 3580
 solved_users: 3351
-acceptance_rate: 74.533%
-collected_at: 2026-04-17T17:39:41.237852+00:00
+acceptance_rate: "74.533%"
+collected_at: "2026-04-17T17:39:41.237852+00:00"
 ---
 
 ## 문제

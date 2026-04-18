@@ -1,13 +1,13 @@
 ---
-title: LRU Caching
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "LRU Caching"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 351
 accepted: 173
 solved_users: 138
-acceptance_rate: 49.110%
-collected_at: 2026-04-17T11:04:23.126946+00:00
+acceptance_rate: "49.110%"
+collected_at: "2026-04-17T11:04:23.126946+00:00"
 ---
 
 ## 문제

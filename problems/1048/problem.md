@@ -1,13 +1,13 @@
 ---
-title: 유니콘
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "유니콘"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 1258
 accepted: 368
 solved_users: 308
-acceptance_rate: 34.337%
-collected_at: 2026-04-17T10:27:54.522813+00:00
+acceptance_rate: "34.337%"
+collected_at: "2026-04-17T10:27:54.522813+00:00"
 ---
 
 ## 문제

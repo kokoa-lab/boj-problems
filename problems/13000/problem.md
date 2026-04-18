@@ -1,13 +1,13 @@
 ---
-title: 홍준이와 가능한 집합
-special_judge: false
-time_limit: 3 초
-memory_limit: 512 MB
+title: "홍준이와 가능한 집합"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "512 MB"
 submissions: 50
 accepted: 3
 solved_users: 3
-acceptance_rate: 42.857%
-collected_at: 2026-04-17T13:05:37.100353+00:00
+acceptance_rate: "42.857%"
+collected_at: "2026-04-17T13:05:37.100353+00:00"
 ---
 
 ## 문제

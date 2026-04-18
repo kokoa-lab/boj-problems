@@ -1,13 +1,13 @@
 ---
-title: 저울
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "저울"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 250
 accepted: 93
 solved_users: 72
-acceptance_rate: 51.429%
-collected_at: 2026-04-17T10:53:27.856197+00:00
+acceptance_rate: "51.429%"
+collected_at: "2026-04-17T10:53:27.856197+00:00"
 ---
 
 ## 문제

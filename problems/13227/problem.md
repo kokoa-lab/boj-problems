@@ -1,13 +1,13 @@
 ---
-title: TicTacToe
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "TicTacToe"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 439
 accepted: 252
 solved_users: 196
-acceptance_rate: 55.367%
-collected_at: 2026-04-17T13:09:45.263474+00:00
+acceptance_rate: "55.367%"
+collected_at: "2026-04-17T13:09:45.263474+00:00"
 ---
 
 ## 문제

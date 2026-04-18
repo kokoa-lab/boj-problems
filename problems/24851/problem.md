@@ -1,13 +1,13 @@
 ---
-title: Third Group Exam
-special_judge: true
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Third Group Exam"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 30
 accepted: 26
 solved_users: 22
-acceptance_rate: 84.615%
-collected_at: 2026-04-17T17:16:09.497435+00:00
+acceptance_rate: "84.615%"
+collected_at: "2026-04-17T17:16:09.497435+00:00"
 ---
 
 ## 문제

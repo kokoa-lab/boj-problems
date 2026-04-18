@@ -1,13 +1,13 @@
 ---
-title: Dancing With the Googlers (Large)
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Dancing With the Googlers (Large)"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 58
 accepted: 43
 solved_users: 41
-acceptance_rate: 77.358%
-collected_at: 2026-04-17T12:54:50.928940+00:00
+acceptance_rate: "77.358%"
+collected_at: "2026-04-17T12:54:50.928940+00:00"
 ---
 
 ## 문제

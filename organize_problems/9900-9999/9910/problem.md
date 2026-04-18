@@ -1,13 +1,13 @@
 ---
-title: Progress
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Progress"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 51
 accepted: 46
 solved_users: 37
-acceptance_rate: 88.095%
-collected_at: 2026-04-17T12:16:30.951277+00:00
+acceptance_rate: "88.095%"
+collected_at: "2026-04-17T12:16:30.951277+00:00"
 ---
 
 ## 문제

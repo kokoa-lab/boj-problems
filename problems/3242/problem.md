@@ -1,13 +1,13 @@
 ---
-title: JEZIK
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "JEZIK"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 59
 accepted: 34
 solved_users: 33
-acceptance_rate: 58.929%
-collected_at: 2026-04-17T10:47:33.931909+00:00
+acceptance_rate: "58.929%"
+collected_at: "2026-04-17T10:47:33.931909+00:00"
 ---
 
 ## 문제

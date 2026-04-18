@@ -1,13 +1,13 @@
 ---
-title: Boolean Satisfiability
-special_judge: false
-time_limit: 3 초
-memory_limit: 512 MB
+title: "Boolean Satisfiability"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "512 MB"
 submissions: 100
 accepted: 64
 solved_users: 58
-acceptance_rate: 65.909%
-collected_at: 2026-04-17T13:51:53.932616+00:00
+acceptance_rate: "65.909%"
+collected_at: "2026-04-17T13:51:53.932616+00:00"
 ---
 
 ## 문제

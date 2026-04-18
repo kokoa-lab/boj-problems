@@ -1,13 +1,13 @@
 ---
-title: Luxury River Cruise
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Luxury River Cruise"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 968
 accepted: 268
 solved_users: 213
-acceptance_rate: 27.134%
-collected_at: 2026-04-17T11:17:46.148945+00:00
+acceptance_rate: "27.134%"
+collected_at: "2026-04-17T11:17:46.148945+00:00"
 ---
 
 ## 문제

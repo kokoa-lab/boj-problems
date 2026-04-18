@@ -1,13 +1,13 @@
 ---
-title: 시험 감독
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "시험 감독"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 111751
 accepted: 35711
 solved_users: 26951
-acceptance_rate: 30.483%
-collected_at: 2026-04-17T13:13:28.241899+00:00
+acceptance_rate: "30.483%"
+collected_at: "2026-04-17T13:13:28.241899+00:00"
 ---
 
 ## 문제

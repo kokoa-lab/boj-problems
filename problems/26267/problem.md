@@ -1,13 +1,13 @@
 ---
-title: 은?행 털!자 1
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "은?행 털!자 1"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 839
 accepted: 443
 solved_users: 394
-acceptance_rate: 53.100%
-collected_at: 2026-04-17T17:42:47.134724+00:00
+acceptance_rate: "53.100%"
+collected_at: "2026-04-17T17:42:47.134724+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Pawn Shop
-special_judge: true
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Pawn Shop"
+special_judge: "true"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 53
 accepted: 38
 solved_users: 33
-acceptance_rate: 70.213%
-collected_at: 2026-04-17T17:14:21.232907+00:00
+acceptance_rate: "70.213%"
+collected_at: "2026-04-17T17:14:21.232907+00:00"
 ---
 
 ## 문제

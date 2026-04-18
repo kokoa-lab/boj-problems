@@ -1,13 +1,13 @@
 ---
-title: 아카라카 2
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "아카라카 2"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 1023
 accepted: 873
 solved_users: 823
-acceptance_rate: 86.814%
-collected_at: 2026-04-17T19:58:25.183970+00:00
+acceptance_rate: "86.814%"
+collected_at: "2026-04-17T19:58:25.183970+00:00"
 ---
 
 ## 문제

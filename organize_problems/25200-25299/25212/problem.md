@@ -1,13 +1,13 @@
 ---
-title: 조각 케이크
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "조각 케이크"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 582
 accepted: 420
 solved_users: 373
-acceptance_rate: 73.137%
-collected_at: 2026-04-17T17:22:44.225424+00:00
+acceptance_rate: "73.137%"
+collected_at: "2026-04-17T17:22:44.225424+00:00"
 ---
 
 ## 문제

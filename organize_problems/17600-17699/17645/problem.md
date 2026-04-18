@@ -1,13 +1,13 @@
 ---
-title: Scissors and Tape
-special_judge: true
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Scissors and Tape"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 60
 accepted: 17
 solved_users: 17
-acceptance_rate: 51.515%
-collected_at: 2026-04-17T14:43:39.571664+00:00
+acceptance_rate: "51.515%"
+collected_at: "2026-04-17T14:43:39.571664+00:00"
 ---
 
 ## 문제

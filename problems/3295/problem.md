@@ -1,13 +1,13 @@
 ---
-title: 단방향 링크 네트워크
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "단방향 링크 네트워크"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 1587
 accepted: 1035
 solved_users: 805
-acceptance_rate: 64.763%
-collected_at: 2026-04-17T10:47:58.785037+00:00
+acceptance_rate: "64.763%"
+collected_at: "2026-04-17T10:47:58.785037+00:00"
 ---
 
 ## 문제

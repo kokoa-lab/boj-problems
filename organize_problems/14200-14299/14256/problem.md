@@ -1,13 +1,13 @@
 ---
-title: SSR
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "SSR"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 290
 accepted: 115
 solved_users: 95
-acceptance_rate: 46.117%
-collected_at: 2026-04-17T13:28:48.834195+00:00
+acceptance_rate: "46.117%"
+collected_at: "2026-04-17T13:28:48.834195+00:00"
 ---
 
 ## 문제

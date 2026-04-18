@@ -1,13 +1,13 @@
 ---
-title: Ant Entrapment
-special_judge: true
-time_limit: 3 초
-memory_limit: 256 MB
+title: "Ant Entrapment"
+special_judge: "true"
+time_limit: "3 초"
+memory_limit: "256 MB"
 submissions: 1099
 accepted: 604
 solved_users: 466
-acceptance_rate: 53.196%
-collected_at: 2026-04-17T12:08:43.157722+00:00
+acceptance_rate: "53.196%"
+collected_at: "2026-04-17T12:08:43.157722+00:00"
 ---
 
 ## 문제

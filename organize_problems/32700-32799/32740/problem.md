@@ -1,13 +1,13 @@
 ---
-title: Knight Polygon
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Knight Polygon"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 33
 accepted: 13
 solved_users: 12
-acceptance_rate: 52.174%
-collected_at: 2026-04-17T20:00:15.987795+00:00
+acceptance_rate: "52.174%"
+collected_at: "2026-04-17T20:00:15.987795+00:00"
 ---
 
 ## 문제

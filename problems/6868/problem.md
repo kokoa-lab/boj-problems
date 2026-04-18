@@ -1,13 +1,13 @@
 ---
-title: CN Tower 2
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "CN Tower 2"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 34
 accepted: 0
 solved_users: 0
-acceptance_rate: 0.000%
-collected_at: 2026-04-17T11:39:53.778789+00:00
+acceptance_rate: "0.000%"
+collected_at: "2026-04-17T11:39:53.778789+00:00"
 ---
 
 ## 문제

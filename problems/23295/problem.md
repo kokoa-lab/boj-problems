@@ -1,13 +1,13 @@
 ---
-title: 스터디 시간 정하기 1
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "스터디 시간 정하기 1"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 1586
 accepted: 527
 solved_users: 390
-acceptance_rate: 31.553%
-collected_at: 2026-04-17T16:45:48.584049+00:00
+acceptance_rate: "31.553%"
+collected_at: "2026-04-17T16:45:48.584049+00:00"
 ---
 
 ## 문제

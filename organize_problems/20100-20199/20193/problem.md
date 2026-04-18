@@ -1,13 +1,13 @@
 ---
-title: 화려한 정사각형
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "화려한 정사각형"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 773
 accepted: 214
 solved_users: 156
-acceptance_rate: 27.957%
-collected_at: 2026-04-17T15:32:58.041188+00:00
+acceptance_rate: "27.957%"
+collected_at: "2026-04-17T15:32:58.041188+00:00"
 ---
 
 ## 문제

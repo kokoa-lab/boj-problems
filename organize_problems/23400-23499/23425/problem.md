@@ -1,13 +1,13 @@
 ---
-title: Trees
-special_judge: true
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 256 MB
+title: "Trees"
+special_judge: "true"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "256 MB"
 submissions: 32
 accepted: 8
 solved_users: 8
-acceptance_rate: 42.105%
-collected_at: 2026-04-17T16:48:00.606566+00:00
+acceptance_rate: "42.105%"
+collected_at: "2026-04-17T16:48:00.606566+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: UFO 침공
-special_judge: false
-time_limit: 3 초
-memory_limit: 1024 MB
+title: "UFO 침공"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "1024 MB"
 submissions: 77
 accepted: 26
 solved_users: 22
-acceptance_rate: 34.921%
-collected_at: 2026-04-17T19:27:45.438514+00:00
+acceptance_rate: "34.921%"
+collected_at: "2026-04-17T19:27:45.438514+00:00"
 ---
 
 ## 문제

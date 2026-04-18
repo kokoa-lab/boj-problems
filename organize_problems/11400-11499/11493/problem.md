@@ -1,13 +1,13 @@
 ---
-title: 동전 교환
-special_judge: false
-time_limit: 8 초
-memory_limit: 256 MB
+title: "동전 교환"
+special_judge: "false"
+time_limit: "8 초"
+memory_limit: "256 MB"
 submissions: 2363
 accepted: 846
 solved_users: 494
-acceptance_rate: 33.221%
-collected_at: 2026-04-17T12:41:25.940001+00:00
+acceptance_rate: "33.221%"
+collected_at: "2026-04-17T12:41:25.940001+00:00"
 ---
 
 ## 문제

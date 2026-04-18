@@ -1,13 +1,13 @@
 ---
-title: 재우의 재수강 1
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "재우의 재수강 1"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 264
 accepted: 142
 solved_users: 115
-acceptance_rate: 68.047%
-collected_at: 2026-04-17T19:30:02.103679+00:00
+acceptance_rate: "68.047%"
+collected_at: "2026-04-17T19:30:02.103679+00:00"
 ---
 
 ## 문제

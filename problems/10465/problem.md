@@ -1,13 +1,13 @@
 ---
-title: Rolling Encryption
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Rolling Encryption"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 197
 accepted: 114
 solved_users: 91
-acceptance_rate: 55.828%
-collected_at: 2026-04-17T12:24:06.369054+00:00
+acceptance_rate: "55.828%"
+collected_at: "2026-04-17T12:24:06.369054+00:00"
 ---
 
 ## 문제

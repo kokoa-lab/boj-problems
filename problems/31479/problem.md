@@ -1,13 +1,13 @@
 ---
-title: 갈래 제곱
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "갈래 제곱"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 232
 accepted: 60
 solved_users: 48
-acceptance_rate: 25.131%
-collected_at: 2026-04-17T19:28:56.982520+00:00
+acceptance_rate: "25.131%"
+collected_at: "2026-04-17T19:28:56.982520+00:00"
 ---
 
 ## 문제

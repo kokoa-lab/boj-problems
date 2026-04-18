@@ -1,13 +1,13 @@
 ---
-title: 홀수, 짝수, 그리고 창영
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "홀수, 짝수, 그리고 창영"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 46
 accepted: 14
 solved_users: 9
-acceptance_rate: 40.909%
-collected_at: 2026-04-17T11:10:55.363538+00:00
+acceptance_rate: "40.909%"
+collected_at: "2026-04-17T11:10:55.363538+00:00"
 ---
 
 ## 문제

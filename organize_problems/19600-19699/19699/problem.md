@@ -1,13 +1,13 @@
 ---
-title: 소-난다!
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "소-난다!"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 2785
 accepted: 1166
 solved_users: 968
-acceptance_rate: 40.468%
-collected_at: 2026-04-17T15:26:35.990659+00:00
+acceptance_rate: "40.468%"
+collected_at: "2026-04-17T15:26:35.990659+00:00"
 ---
 
 ## 문제

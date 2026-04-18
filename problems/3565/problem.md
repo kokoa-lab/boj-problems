@@ -1,13 +1,13 @@
 ---
-title: 피보나치 진법
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "피보나치 진법"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 229
 accepted: 98
 solved_users: 55
-acceptance_rate: 38.462%
-collected_at: 2026-04-17T10:49:52.313881+00:00
+acceptance_rate: "38.462%"
+collected_at: "2026-04-17T10:49:52.313881+00:00"
 ---
 
 ## 문제

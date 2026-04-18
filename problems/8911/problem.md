@@ -1,13 +1,13 @@
 ---
-title: 거북이
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "거북이"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 7640
 accepted: 4347
 solved_users: 3315
-acceptance_rate: 55.537%
-collected_at: 2026-04-17T12:04:48.268259+00:00
+acceptance_rate: "55.537%"
+collected_at: "2026-04-17T12:04:48.268259+00:00"
 ---
 
 ## 문제

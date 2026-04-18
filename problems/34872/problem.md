@@ -1,13 +1,13 @@
 ---
-title: Triple Fairness
-special_judge: true
-time_limit: 1 초
-memory_limit: 2048 MB
+title: "Triple Fairness"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "2048 MB"
 submissions: 155
 accepted: 124
 solved_users: 114
-acceptance_rate: 81.429%
-collected_at: 2026-04-17T20:50:56.382094+00:00
+acceptance_rate: "81.429%"
+collected_at: "2026-04-17T20:50:56.382094+00:00"
 ---
 
 ## 문제

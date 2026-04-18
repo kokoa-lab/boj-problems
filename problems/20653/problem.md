@@ -1,13 +1,13 @@
 ---
-title: 롯데 자이언츠와 가희
-special_judge: false
-time_limit: 0.5 초
-memory_limit: 512 MB
+title: "롯데 자이언츠와 가희"
+special_judge: "false"
+time_limit: "0.5 초"
+memory_limit: "512 MB"
 submissions: 233
 accepted: 69
 solved_users: 55
-acceptance_rate: 32.738%
-collected_at: 2026-04-17T15:39:33.704152+00:00
+acceptance_rate: "32.738%"
+collected_at: "2026-04-17T15:39:33.704152+00:00"
 ---
 
 ## 문제

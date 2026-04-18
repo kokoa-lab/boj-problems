@@ -1,13 +1,13 @@
 ---
-title: Karty
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Karty"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 46
 accepted: 12
 solved_users: 11
-acceptance_rate: 57.895%
-collected_at: 2026-04-17T12:01:42.265858+00:00
+acceptance_rate: "57.895%"
+collected_at: "2026-04-17T12:01:42.265858+00:00"
 ---
 
 ## 문제

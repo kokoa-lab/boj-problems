@@ -1,13 +1,13 @@
 ---
-title: Laserbox
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Laserbox"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 767
 accepted: 406
 solved_users: 333
-acceptance_rate: 54.680%
-collected_at: 2026-04-17T10:51:13.209267+00:00
+acceptance_rate: "54.680%"
+collected_at: "2026-04-17T10:51:13.209267+00:00"
 ---
 
 ## 문제

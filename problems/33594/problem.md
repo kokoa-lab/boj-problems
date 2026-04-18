@@ -1,13 +1,13 @@
 ---
-title: Disks
-special_judge: false
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 2048 MB
+title: "Disks"
+special_judge: "false"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "2048 MB"
 submissions: 39
 accepted: 19
 solved_users: 19
-acceptance_rate: 54.286%
-collected_at: 2026-04-17T20:19:36.595102+00:00
+acceptance_rate: "54.286%"
+collected_at: "2026-04-17T20:19:36.595102+00:00"
 ---
 
 ## 문제

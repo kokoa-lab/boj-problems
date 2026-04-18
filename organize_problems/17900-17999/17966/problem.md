@@ -1,13 +1,13 @@
 ---
-title: Graph and Cycles
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "Graph and Cycles"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 66
 accepted: 60
 solved_users: 58
-acceptance_rate: 96.667%
-collected_at: 2026-04-17T14:51:06.491618+00:00
+acceptance_rate: "96.667%"
+collected_at: "2026-04-17T14:51:06.491618+00:00"
 ---
 
 ## 문제

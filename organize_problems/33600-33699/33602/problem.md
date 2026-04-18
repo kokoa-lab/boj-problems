@@ -1,13 +1,13 @@
 ---
-title: Mascot Naming
-special_judge: true
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 2048 MB
+title: "Mascot Naming"
+special_judge: "true"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "2048 MB"
 submissions: 42
 accepted: 26
 solved_users: 24
-acceptance_rate: 60.000%
-collected_at: 2026-04-17T20:19:51.539595+00:00
+acceptance_rate: "60.000%"
+collected_at: "2026-04-17T20:19:51.539595+00:00"
 ---
 
 ## 문제

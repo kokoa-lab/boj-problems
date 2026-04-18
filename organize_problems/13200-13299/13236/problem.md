@@ -1,13 +1,13 @@
 ---
-title: Collatz Conjecture
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Collatz Conjecture"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 1400
 accepted: 1075
 solved_users: 981
-acceptance_rate: 78.043%
-collected_at: 2026-04-17T13:09:51.308206+00:00
+acceptance_rate: "78.043%"
+collected_at: "2026-04-17T13:09:51.308206+00:00"
 ---
 
 ## 문제

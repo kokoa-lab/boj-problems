@@ -1,13 +1,13 @@
 ---
-title: Dining
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Dining"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 642
 accepted: 314
 solved_users: 253
-acceptance_rate: 45.341%
-collected_at: 2026-04-17T11:23:36.183440+00:00
+acceptance_rate: "45.341%"
+collected_at: "2026-04-17T11:23:36.183440+00:00"
 ---
 
 ## 문제

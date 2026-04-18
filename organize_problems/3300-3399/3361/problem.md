@@ -1,13 +1,13 @@
 ---
-title: Handshakes
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Handshakes"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 86
 accepted: 23
 solved_users: 22
-acceptance_rate: 33.846%
-collected_at: 2026-04-17T10:48:25.261936+00:00
+acceptance_rate: "33.846%"
+collected_at: "2026-04-17T10:48:25.261936+00:00"
 ---
 
 ## 문제

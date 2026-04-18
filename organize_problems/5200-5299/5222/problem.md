@@ -1,13 +1,13 @@
 ---
-title: Vigenère Cipher
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Vigenère Cipher"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 204
 accepted: 176
 solved_users: 150
-acceptance_rate: 91.463%
-collected_at: 2026-04-17T11:12:25.408079+00:00
+acceptance_rate: "91.463%"
+collected_at: "2026-04-17T11:12:25.408079+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 골뱅이 찍기 - 뒤집힌 ㄱ
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "골뱅이 찍기 - 뒤집힌 ㄱ"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 2403
 accepted: 1852
 solved_users: 1747
-acceptance_rate: 77.817%
-collected_at: 2026-04-17T16:54:12.314032+00:00
+acceptance_rate: "77.817%"
+collected_at: "2026-04-17T16:54:12.314032+00:00"
 ---
 
 ## 문제

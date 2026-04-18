@@ -1,13 +1,13 @@
 ---
-title: Enigma
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Enigma"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 69
 accepted: 52
 solved_users: 45
-acceptance_rate: 84.906%
-collected_at: 2026-04-17T13:49:30.909967+00:00
+acceptance_rate: "84.906%"
+collected_at: "2026-04-17T13:49:30.909967+00:00"
 ---
 
 ## 문제

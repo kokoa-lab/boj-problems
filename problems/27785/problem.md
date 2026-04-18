@@ -1,13 +1,13 @@
 ---
-title: New Elements: Part 2
-special_judge: false
-time_limit: 20 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "New Elements: Part 2"
+special_judge: "false"
+time_limit: "20 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 56
 accepted: 14
 solved_users: 12
-acceptance_rate: 22.642%
-collected_at: 2026-04-17T18:11:03.309642+00:00
+acceptance_rate: "22.642%"
+collected_at: "2026-04-17T18:11:03.309642+00:00"
 ---
 
 ## 문제

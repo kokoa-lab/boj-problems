@@ -1,13 +1,13 @@
 ---
-title: Deal or No Deal
-special_judge: false
-time_limit: 1 초
-memory_limit: 2048 MB
+title: "Deal or No Deal"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "2048 MB"
 submissions: 46
 accepted: 27
 solved_users: 19
-acceptance_rate: 54.286%
-collected_at: 2026-04-17T20:18:43.123924+00:00
+acceptance_rate: "54.286%"
+collected_at: "2026-04-17T20:18:43.123924+00:00"
 ---
 
 ## 문제

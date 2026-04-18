@@ -1,13 +1,13 @@
 ---
-title: QR
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "QR"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 801
 accepted: 192
 solved_users: 132
-acceptance_rate: 22.148%
-collected_at: 2026-04-17T10:43:54.351518+00:00
+acceptance_rate: "22.148%"
+collected_at: "2026-04-17T10:43:54.351518+00:00"
 ---
 
 ## 문제

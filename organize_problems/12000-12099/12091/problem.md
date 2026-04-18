@@ -1,13 +1,13 @@
 ---
-title: 이브이 진화 시키기
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "이브이 진화 시키기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 12967
 accepted: 784
 solved_users: 627
-acceptance_rate: 7.410%
-collected_at: 2026-04-17T12:50:02.973357+00:00
+acceptance_rate: "7.410%"
+collected_at: "2026-04-17T12:50:02.973357+00:00"
 ---
 
 ## 문제

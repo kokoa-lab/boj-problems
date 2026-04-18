@@ -1,13 +1,13 @@
 ---
-title: Fuzzy Factorization
-special_judge: true
-time_limit: 0.5 초
-memory_limit: 2048 MB
+title: "Fuzzy Factorization"
+special_judge: "true"
+time_limit: "0.5 초"
+memory_limit: "2048 MB"
 submissions: 43
 accepted: 25
 solved_users: 22
-acceptance_rate: 68.750%
-collected_at: 2026-04-18T09:51:54.025753+00:00
+acceptance_rate: "68.750%"
+collected_at: "2026-04-18T09:51:54.025753+00:00"
 ---
 
 ## 문제

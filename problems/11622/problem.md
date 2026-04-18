@@ -1,13 +1,13 @@
 ---
-title: Juice Junctions
-special_judge: false
-time_limit: 7 초
-memory_limit: 512 MB
+title: "Juice Junctions"
+special_judge: "false"
+time_limit: "7 초"
+memory_limit: "512 MB"
 submissions: 75
 accepted: 42
 solved_users: 32
-acceptance_rate: 62.745%
-collected_at: 2026-04-17T12:43:03.217538+00:00
+acceptance_rate: "62.745%"
+collected_at: "2026-04-17T12:43:03.217538+00:00"
 ---
 
 ## 문제

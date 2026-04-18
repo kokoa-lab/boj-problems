@@ -1,13 +1,13 @@
 ---
-title: Tarasy
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Tarasy"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 45
 accepted: 26
 solved_users: 23
-acceptance_rate: 63.889%
-collected_at: 2026-04-17T12:00:42.257945+00:00
+acceptance_rate: "63.889%"
+collected_at: "2026-04-17T12:00:42.257945+00:00"
 ---
 
 ## 문제

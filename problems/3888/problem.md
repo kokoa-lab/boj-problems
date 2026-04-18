@@ -1,13 +1,13 @@
 ---
-title: Digits on the Floor
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "Digits on the Floor"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 1
 accepted: 1
 solved_users: 1
-acceptance_rate: 100.000%
-collected_at: 2026-04-17T10:53:01.802017+00:00
+acceptance_rate: "100.000%"
+collected_at: "2026-04-17T10:53:01.802017+00:00"
 ---
 
 ## 문제

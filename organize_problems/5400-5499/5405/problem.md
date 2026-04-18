@@ -1,13 +1,13 @@
 ---
-title: 프랙탈 거리
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "프랙탈 거리"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 292
 accepted: 110
 solved_users: 89
-acceptance_rate: 38.696%
-collected_at: 2026-04-17T11:13:37.650471+00:00
+acceptance_rate: "38.696%"
+collected_at: "2026-04-17T11:13:37.650471+00:00"
 ---
 
 ## 문제

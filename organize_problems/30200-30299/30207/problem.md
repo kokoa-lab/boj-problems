@@ -1,13 +1,13 @@
 ---
-title: 식당지원 차출
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "식당지원 차출"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 286
 accepted: 58
 solved_users: 48
-acceptance_rate: 24.615%
-collected_at: 2026-04-17T19:00:47.310315+00:00
+acceptance_rate: "24.615%"
+collected_at: "2026-04-17T19:00:47.310315+00:00"
 ---
 
 ## 문제

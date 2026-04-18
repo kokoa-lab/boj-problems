@@ -1,13 +1,13 @@
 ---
-title: United States Of Eurasia
-special_judge: false
-time_limit: 20 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "United States Of Eurasia"
+special_judge: "false"
+time_limit: "20 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 170
 accepted: 24
 solved_users: 18
-acceptance_rate: 17.308%
-collected_at: 2026-04-17T14:06:11.784015+00:00
+acceptance_rate: "17.308%"
+collected_at: "2026-04-17T14:06:11.784015+00:00"
 ---
 
 ## 문제

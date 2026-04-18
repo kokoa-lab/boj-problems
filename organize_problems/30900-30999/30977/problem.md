@@ -1,13 +1,13 @@
 ---
-title: 금강산도 식후경
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "금강산도 식후경"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 283
 accepted: 41
 solved_users: 34
-acceptance_rate: 13.992%
-collected_at: 2026-04-17T19:19:09.251800+00:00
+acceptance_rate: "13.992%"
+collected_at: "2026-04-17T19:19:09.251800+00:00"
 ---
 
 ## 문제

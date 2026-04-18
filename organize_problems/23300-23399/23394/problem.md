@@ -1,13 +1,13 @@
 ---
-title: Handling the Blocks
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Handling the Blocks"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 92
 accepted: 55
 solved_users: 52
-acceptance_rate: 59.091%
-collected_at: 2026-04-17T16:47:28.898894+00:00
+acceptance_rate: "59.091%"
+collected_at: "2026-04-17T16:47:28.898894+00:00"
 ---
 
 ## 문제

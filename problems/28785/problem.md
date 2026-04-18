@@ -1,13 +1,13 @@
 ---
-title: Боевые дроиды
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Боевые дроиды"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 22
 accepted: 6
 solved_users: 3
-acceptance_rate: 21.429%
-collected_at: 2026-04-17T18:32:23.408324+00:00
+acceptance_rate: "21.429%"
+collected_at: "2026-04-17T18:32:23.408324+00:00"
 ---
 
 ## 문제

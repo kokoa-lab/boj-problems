@@ -1,13 +1,13 @@
 ---
-title: 배열 A 찾기
-special_judge: false
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "배열 A 찾기"
+special_judge: "false"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 205
 accepted: 69
 solved_users: 46
-acceptance_rate: 41.441%
-collected_at: 2026-04-17T14:37:54.162734+00:00
+acceptance_rate: "41.441%"
+collected_at: "2026-04-17T14:37:54.162734+00:00"
 ---
 
 ## 문제

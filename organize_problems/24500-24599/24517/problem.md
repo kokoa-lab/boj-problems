@@ -1,13 +1,13 @@
 ---
-title: 카드 게임과 쿼리
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "카드 게임과 쿼리"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 238
 accepted: 75
 solved_users: 66
-acceptance_rate: 37.079%
-collected_at: 2026-04-17T17:10:38.138123+00:00
+acceptance_rate: "37.079%"
+collected_at: "2026-04-17T17:10:38.138123+00:00"
 ---
 
 ## 문제

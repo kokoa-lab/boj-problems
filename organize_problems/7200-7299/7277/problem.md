@@ -1,13 +1,13 @@
 ---
-title: Metro
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Metro"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 14
 accepted: 14
 solved_users: 13
-acceptance_rate: 100.000%
-collected_at: 2026-04-17T11:47:54.227743+00:00
+acceptance_rate: "100.000%"
+collected_at: "2026-04-17T11:47:54.227743+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Two Mountaineers
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Two Mountaineers"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 22
 accepted: 2
 solved_users: 2
-acceptance_rate: 9.091%
-collected_at: 2026-04-17T11:07:35.685823+00:00
+acceptance_rate: "9.091%"
+collected_at: "2026-04-17T11:07:35.685823+00:00"
 ---
 
 ## 문제

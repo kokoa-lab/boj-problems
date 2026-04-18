@@ -1,13 +1,13 @@
 ---
-title: What a sequence!
-special_judge: false
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "What a sequence!"
+special_judge: "false"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 38
 accepted: 14
 solved_users: 14
-acceptance_rate: 43.750%
-collected_at: 2026-04-17T16:48:41.693777+00:00
+acceptance_rate: "43.750%"
+collected_at: "2026-04-17T16:48:41.693777+00:00"
 ---
 
 ## 문제

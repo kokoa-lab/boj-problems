@@ -1,13 +1,13 @@
 ---
-title: Equipment Box
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Equipment Box"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 44
 accepted: 15
 solved_users: 11
-acceptance_rate: 45.833%
-collected_at: 2026-04-17T10:49:10.696857+00:00
+acceptance_rate: "45.833%"
+collected_at: "2026-04-17T10:49:10.696857+00:00"
 ---
 
 ## 문제

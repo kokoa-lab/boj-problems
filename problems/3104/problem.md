@@ -1,13 +1,13 @@
 ---
-title: 쿠키
-special_judge: false
-time_limit: 5 초
-memory_limit: 128 MB
+title: "쿠키"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "128 MB"
 submissions: 31
 accepted: 7
 solved_users: 6
-acceptance_rate: 26.087%
-collected_at: 2026-04-17T10:46:43.632291+00:00
+acceptance_rate: "26.087%"
+collected_at: "2026-04-17T10:46:43.632291+00:00"
 ---
 
 ## 문제

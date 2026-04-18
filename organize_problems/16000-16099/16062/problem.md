@@ -1,13 +1,13 @@
 ---
-title: Attack on Alpha-Zet
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Attack on Alpha-Zet"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 103
 accepted: 51
 solved_users: 46
-acceptance_rate: 52.273%
-collected_at: 2026-04-17T14:10:51.390916+00:00
+acceptance_rate: "52.273%"
+collected_at: "2026-04-17T14:10:51.390916+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Peculiar Protocol
-special_judge: false
-time_limit: 2 초
-memory_limit: 2048 MB
+title: "Peculiar Protocol"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "2048 MB"
 submissions: 68
 accepted: 16
 solved_users: 14
-acceptance_rate: 25.926%
-collected_at: 2026-04-17T20:07:19.852804+00:00
+acceptance_rate: "25.926%"
+collected_at: "2026-04-17T20:07:19.852804+00:00"
 ---
 
 ## 문제

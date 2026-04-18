@@ -1,13 +1,13 @@
 ---
-title: 가장 쉬운 문제를 찾는 문제
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "가장 쉬운 문제를 찾는 문제"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 2958
 accepted: 2115
 solved_users: 1983
-acceptance_rate: 73.608%
-collected_at: 2026-04-17T16:39:27.367347+00:00
+acceptance_rate: "73.608%"
+collected_at: "2026-04-17T16:39:27.367347+00:00"
 ---
 
 ## 문제

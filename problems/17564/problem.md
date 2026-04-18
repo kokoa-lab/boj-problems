@@ -1,13 +1,13 @@
 ---
-title: Dishonest Driver
-special_judge: false
-time_limit: 6 초
-memory_limit: 512 MB
+title: "Dishonest Driver"
+special_judge: "false"
+time_limit: "6 초"
+memory_limit: "512 MB"
 submissions: 90
 accepted: 55
 solved_users: 45
-acceptance_rate: 62.500%
-collected_at: 2026-04-17T14:41:50.527814+00:00
+acceptance_rate: "62.500%"
+collected_at: "2026-04-17T14:41:50.527814+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Tours de Sales Force
-special_judge: true
-time_limit: 15 초
-memory_limit: 512 MB
+title: "Tours de Sales Force"
+special_judge: "true"
+time_limit: "15 초"
+memory_limit: "512 MB"
 submissions: 59
 accepted: 15
 solved_users: 13
-acceptance_rate: 37.143%
-collected_at: 2026-04-17T14:25:28.371636+00:00
+acceptance_rate: "37.143%"
+collected_at: "2026-04-17T14:25:28.371636+00:00"
 ---
 
 ## 문제

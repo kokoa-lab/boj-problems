@@ -1,13 +1,13 @@
 ---
-title: Accurate Shots (8Mb TL!)
-special_judge: false
-time_limit: 5 초
-memory_limit: 8 MB
+title: "Accurate Shots (8Mb TL!)"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "8 MB"
 submissions: 14
 accepted: 2
 solved_users: 2
-acceptance_rate: 15.385%
-collected_at: 2026-04-17T17:18:32.567573+00:00
+acceptance_rate: "15.385%"
+collected_at: "2026-04-17T17:18:32.567573+00:00"
 ---
 
 ## 문제

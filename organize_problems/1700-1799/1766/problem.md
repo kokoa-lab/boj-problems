@@ -1,13 +1,13 @@
 ---
-title: 문제집
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "문제집"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 40283
 accepted: 20674
 solved_users: 16107
-acceptance_rate: 50.867%
-collected_at: 2026-04-17T10:33:18.184856+00:00
+acceptance_rate: "50.867%"
+collected_at: "2026-04-17T10:33:18.184856+00:00"
 ---
 
 ## 문제

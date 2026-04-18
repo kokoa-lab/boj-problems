@@ -1,13 +1,13 @@
 ---
-title: Guarda Costeira
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Guarda Costeira"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 450
 accepted: 232
 solved_users: 165
-acceptance_rate: 56.314%
-collected_at: 2026-04-17T13:16:49.044527+00:00
+acceptance_rate: "56.314%"
+collected_at: "2026-04-17T13:16:49.044527+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 겹치지 않는 원
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "겹치지 않는 원"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 219
 accepted: 111
 solved_users: 89
-acceptance_rate: 52.663%
-collected_at: 2026-04-17T10:46:43.679344+00:00
+acceptance_rate: "52.663%"
+collected_at: "2026-04-17T10:46:43.679344+00:00"
 ---
 
 ## 문제

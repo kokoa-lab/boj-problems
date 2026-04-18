@@ -1,13 +1,13 @@
 ---
-title: 원 이동하기 1
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "원 이동하기 1"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 590
 accepted: 173
 solved_users: 102
-acceptance_rate: 22.717%
-collected_at: 2026-04-17T16:39:13.057681+00:00
+acceptance_rate: "22.717%"
+collected_at: "2026-04-17T16:39:13.057681+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 개미굴
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "개미굴"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 11531
 accepted: 7746
 solved_users: 6060
-acceptance_rate: 67.778%
-collected_at: 2026-04-17T13:40:59.815275+00:00
+acceptance_rate: "67.778%"
+collected_at: "2026-04-17T13:40:59.815275+00:00"
 ---
 
 ## 문제

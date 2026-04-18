@@ -1,13 +1,13 @@
 ---
-title: 나무는 쿼리를 싫어해~
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "나무는 쿼리를 싫어해~"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 728
 accepted: 327
 solved_users: 211
-acceptance_rate: 40.734%
-collected_at: 2026-04-17T15:33:05.384544+00:00
+acceptance_rate: "40.734%"
+collected_at: "2026-04-17T15:33:05.384544+00:00"
 ---
 
 ## 문제

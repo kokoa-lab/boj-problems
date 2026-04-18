@@ -1,13 +1,13 @@
 ---
-title: Injured Shoulder
-special_judge: false
-time_limit: 5 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Injured Shoulder"
+special_judge: "false"
+time_limit: "5 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 121
 accepted: 108
 solved_users: 99
-acceptance_rate: 90.000%
-collected_at: 2026-04-17T19:48:27.643086+00:00
+acceptance_rate: "90.000%"
+collected_at: "2026-04-17T19:48:27.643086+00:00"
 ---
 
 ## 문제

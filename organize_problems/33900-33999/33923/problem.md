@@ -1,13 +1,13 @@
 ---
-title: 인경호 울타리 공사
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "인경호 울타리 공사"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 601
 accepted: 363
 solved_users: 337
-acceptance_rate: 65.692%
-collected_at: 2026-04-17T20:26:26.581453+00:00
+acceptance_rate: "65.692%"
+collected_at: "2026-04-17T20:26:26.581453+00:00"
 ---
 
 ## 문제

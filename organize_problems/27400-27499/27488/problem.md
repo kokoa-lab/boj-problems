@@ -1,13 +1,13 @@
 ---
-title: Sum of Two Numbers
-special_judge: true
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "Sum of Two Numbers"
+special_judge: "true"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 380
 accepted: 178
 solved_users: 160
-acceptance_rate: 58.394%
-collected_at: 2026-04-17T18:04:16.248644+00:00
+acceptance_rate: "58.394%"
+collected_at: "2026-04-17T18:04:16.248644+00:00"
 ---
 
 ## 문제

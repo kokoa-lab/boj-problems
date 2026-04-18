@@ -1,13 +1,13 @@
 ---
-title: Soundex Indexing
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Soundex Indexing"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 26
 accepted: 21
 solved_users: 21
-acceptance_rate: 80.769%
-collected_at: 2026-04-17T15:35:51.568172+00:00
+acceptance_rate: "80.769%"
+collected_at: "2026-04-17T15:35:51.568172+00:00"
 ---
 
 ## 문제

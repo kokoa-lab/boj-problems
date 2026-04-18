@@ -1,13 +1,13 @@
 ---
-title: Lights
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Lights"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 183
 accepted: 59
 solved_users: 43
-acceptance_rate: 37.391%
-collected_at: 2026-04-17T11:19:16.728346+00:00
+acceptance_rate: "37.391%"
+collected_at: "2026-04-17T11:19:16.728346+00:00"
 ---
 
 ## 문제

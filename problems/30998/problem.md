@@ -1,13 +1,13 @@
 ---
-title: 최고의 크리스마스트리
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "최고의 크리스마스트리"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 60
 accepted: 28
 solved_users: 25
-acceptance_rate: 51.020%
-collected_at: 2026-04-17T19:19:31.992784+00:00
+acceptance_rate: "51.020%"
+collected_at: "2026-04-17T19:19:31.992784+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 네 개의 소수
-special_judge: true
-time_limit: 2 초
-memory_limit: 128 MB
+title: "네 개의 소수"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 4982
 accepted: 2107
 solved_users: 1614
-acceptance_rate: 42.418%
-collected_at: 2026-04-17T10:28:30.515335+00:00
+acceptance_rate: "42.418%"
+collected_at: "2026-04-17T10:28:30.515335+00:00"
 ---
 
 ## 문제

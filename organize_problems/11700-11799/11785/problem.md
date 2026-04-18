@@ -1,13 +1,13 @@
 ---
-title: Programming Contest Strategy
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Programming Contest Strategy"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 267
 accepted: 159
 solved_users: 142
-acceptance_rate: 61.739%
-collected_at: 2026-04-17T12:45:58.371462+00:00
+acceptance_rate: "61.739%"
+collected_at: "2026-04-17T12:45:58.371462+00:00"
 ---
 
 ## 문제

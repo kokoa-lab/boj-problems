@@ -1,13 +1,13 @@
 ---
-title: 피보나치 수 5
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "피보나치 수 5"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 139195
 accepted: 84473
 solved_users: 70436
-acceptance_rate: 61.082%
-collected_at: 2026-04-17T12:30:47.054611+00:00
+acceptance_rate: "61.082%"
+collected_at: "2026-04-17T12:30:47.054611+00:00"
 ---
 
 ## 문제

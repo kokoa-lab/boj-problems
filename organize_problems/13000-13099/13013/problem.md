@@ -1,13 +1,13 @@
 ---
-title: 접미사 배열 2
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "접미사 배열 2"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 269
 accepted: 163
 solved_users: 140
-acceptance_rate: 65.728%
-collected_at: 2026-04-17T13:05:58.892084+00:00
+acceptance_rate: "65.728%"
+collected_at: "2026-04-17T13:05:58.892084+00:00"
 ---
 
 ## 문제

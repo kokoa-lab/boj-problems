@@ -1,13 +1,13 @@
 ---
-title: Reverse Engineering
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Reverse Engineering"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 439
 accepted: 174
 solved_users: 142
-acceptance_rate: 45.659%
-collected_at: 2026-04-17T17:54:19.022453+00:00
+acceptance_rate: "45.659%"
+collected_at: "2026-04-17T17:54:19.022453+00:00"
 ---
 
 ## 문제

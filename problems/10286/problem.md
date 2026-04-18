@@ -1,13 +1,13 @@
 ---
-title: Runway Planning
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Runway Planning"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 212
 accepted: 131
 solved_users: 121
-acceptance_rate: 63.021%
-collected_at: 2026-04-17T12:21:30.115680+00:00
+acceptance_rate: "63.021%"
+collected_at: "2026-04-17T12:21:30.115680+00:00"
 ---
 
 ## 문제

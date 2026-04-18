@@ -1,13 +1,13 @@
 ---
-title: Three Competitions
-special_judge: false
-time_limit: 5 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Three Competitions"
+special_judge: "false"
+time_limit: "5 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 97
 accepted: 33
 solved_users: 21
-acceptance_rate: 47.727%
-collected_at: 2026-04-17T16:43:37.071641+00:00
+acceptance_rate: "47.727%"
+collected_at: "2026-04-17T16:43:37.071641+00:00"
 ---
 
 ## 문제

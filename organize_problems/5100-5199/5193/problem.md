@@ -1,13 +1,13 @@
 ---
-title: Fundraising
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Fundraising"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 98
 accepted: 72
 solved_users: 66
-acceptance_rate: 79.518%
-collected_at: 2026-04-17T11:12:10.961366+00:00
+acceptance_rate: "79.518%"
+collected_at: "2026-04-17T11:12:10.961366+00:00"
 ---
 
 ## 문제

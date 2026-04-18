@@ -1,13 +1,13 @@
 ---
-title: Janjetina
-special_judge: false
-time_limit: 1.5 초
-memory_limit: 512 MB
+title: "Janjetina"
+special_judge: "false"
+time_limit: "1.5 초"
+memory_limit: "512 MB"
 submissions: 64
 accepted: 25
 solved_users: 25
-acceptance_rate: 46.296%
-collected_at: 2026-04-17T15:39:36.938042+00:00
+acceptance_rate: "46.296%"
+collected_at: "2026-04-17T15:39:36.938042+00:00"
 ---
 
 ## 문제

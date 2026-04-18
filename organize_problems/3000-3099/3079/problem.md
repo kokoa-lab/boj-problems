@@ -1,13 +1,13 @@
 ---
-title: 입국심사
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "입국심사"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 35841
 accepted: 7889
 solved_users: 5285
-acceptance_rate: 24.928%
-collected_at: 2026-04-17T10:46:34.081737+00:00
+acceptance_rate: "24.928%"
+collected_at: "2026-04-17T10:46:34.081737+00:00"
 ---
 
 ## 문제

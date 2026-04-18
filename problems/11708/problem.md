@@ -1,13 +1,13 @@
 ---
-title: Casino
-special_judge: true
-time_limit: 2 초
-memory_limit: 256 MB
+title: "Casino"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 6
 accepted: 2
 solved_users: 2
-acceptance_rate: 50.000%
-collected_at: 2026-04-17T12:44:28.165779+00:00
+acceptance_rate: "50.000%"
+collected_at: "2026-04-17T12:44:28.165779+00:00"
 ---
 
 ## 문제

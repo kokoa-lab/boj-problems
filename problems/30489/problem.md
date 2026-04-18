@@ -1,13 +1,13 @@
 ---
-title: apt upgrade
-special_judge: true
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "apt upgrade"
+special_judge: "true"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 196
 accepted: 120
 solved_users: 111
-acceptance_rate: 60.989%
-collected_at: 2026-04-17T19:07:49.426945+00:00
+acceptance_rate: "60.989%"
+collected_at: "2026-04-17T19:07:49.426945+00:00"
 ---
 
 ## 문제

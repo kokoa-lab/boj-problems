@@ -1,13 +1,13 @@
 ---
-title: 아침 루틴과 아침 점호
-special_judge: false
-time_limit: 1.5 초
-memory_limit: 1024 MB
+title: "아침 루틴과 아침 점호"
+special_judge: "false"
+time_limit: "1.5 초"
+memory_limit: "1024 MB"
 submissions: 127
 accepted: 38
 solved_users: 37
-acceptance_rate: 37.374%
-collected_at: 2026-04-17T20:05:50.400432+00:00
+acceptance_rate: "37.374%"
+collected_at: "2026-04-17T20:05:50.400432+00:00"
 ---
 
 ## 문제

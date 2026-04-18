@@ -1,13 +1,13 @@
 ---
-title: Ignition
-special_judge: false
-time_limit: 1 초
-memory_limit: 64 MB
+title: "Ignition"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "64 MB"
 submissions: 3146
 accepted: 1693
 solved_users: 1303
-acceptance_rate: 51.604%
-collected_at: 2026-04-17T13:08:02.692639+00:00
+acceptance_rate: "51.604%"
+collected_at: "2026-04-17T13:08:02.692639+00:00"
 ---
 
 ## 문제

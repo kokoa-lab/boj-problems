@@ -1,13 +1,13 @@
 ---
-title: 연구소 3
-special_judge: false
-time_limit: 0.25 초  ( 하단 참고 )
-memory_limit: 512 MB
+title: "연구소 3"
+special_judge: "false"
+time_limit: "0.25 초  ( 하단 참고 )"
+memory_limit: "512 MB"
 submissions: 54888
 accepted: 15986
 solved_users: 9938
-acceptance_rate: 27.295%
-collected_at: 2026-04-17T14:31:00.100192+00:00
+acceptance_rate: "27.295%"
+collected_at: "2026-04-17T14:31:00.100192+00:00"
 ---
 
 ## 문제

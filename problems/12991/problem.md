@@ -1,13 +1,13 @@
 ---
-title: 홍준이의 행렬
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "홍준이의 행렬"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 634
 accepted: 213
 solved_users: 166
-acceptance_rate: 38.605%
-collected_at: 2026-04-17T13:05:23.786785+00:00
+acceptance_rate: "38.605%"
+collected_at: "2026-04-17T13:05:23.786785+00:00"
 ---
 
 ## 문제

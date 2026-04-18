@@ -1,13 +1,13 @@
 ---
-title: 활쏘기 대결
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "활쏘기 대결"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 689
 accepted: 274
 solved_users: 235
-acceptance_rate: 49.894%
-collected_at: 2026-04-17T18:38:42.627770+00:00
+acceptance_rate: "49.894%"
+collected_at: "2026-04-17T18:38:42.627770+00:00"
 ---
 
 ## 문제

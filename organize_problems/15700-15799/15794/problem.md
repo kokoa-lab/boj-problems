@@ -1,13 +1,13 @@
 ---
-title: Count
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Count"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 204
 accepted: 50
 solved_users: 37
-acceptance_rate: 23.270%
-collected_at: 2026-04-17T14:06:43.312322+00:00
+acceptance_rate: "23.270%"
+collected_at: "2026-04-17T14:06:43.312322+00:00"
 ---
 
 ## 문제

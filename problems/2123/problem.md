@@ -1,13 +1,13 @@
 ---
-title: 인간 탑 쌓기
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "인간 탑 쌓기"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 518
 accepted: 204
 solved_users: 170
-acceptance_rate: 41.363%
-collected_at: 2026-04-17T10:38:36.120963+00:00
+acceptance_rate: "41.363%"
+collected_at: "2026-04-17T10:38:36.120963+00:00"
 ---
 
 ## 문제

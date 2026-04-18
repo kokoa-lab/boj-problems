@@ -1,13 +1,13 @@
 ---
-title: 동작 그만. 밑장 빼기냐?
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "동작 그만. 밑장 빼기냐?"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 2575
 accepted: 743
 solved_users: 606
-acceptance_rate: 29.432%
-collected_at: 2026-04-17T15:32:25.411211+00:00
+acceptance_rate: "29.432%"
+collected_at: "2026-04-17T15:32:25.411211+00:00"
 ---
 
 ## 문제

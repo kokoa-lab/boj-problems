@@ -1,13 +1,13 @@
 ---
-title: Poke Poker Pokest
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Poke Poker Pokest"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 28
 accepted: 0
 solved_users: 0
-acceptance_rate: 0.000%
-collected_at: 2026-04-17T16:36:10.772621+00:00
+acceptance_rate: "0.000%"
+collected_at: "2026-04-17T16:36:10.772621+00:00"
 ---
 
 ## 문제

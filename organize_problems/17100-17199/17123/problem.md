@@ -1,13 +1,13 @@
 ---
-title: 배열 놀이
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "배열 놀이"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 939
 accepted: 471
 solved_users: 389
-acceptance_rate: 50.983%
-collected_at: 2026-04-17T14:30:15.672726+00:00
+acceptance_rate: "50.983%"
+collected_at: "2026-04-17T14:30:15.672726+00:00"
 ---
 
 ## 문제

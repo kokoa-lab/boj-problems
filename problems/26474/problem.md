@@ -1,13 +1,13 @@
 ---
-title: お小遣いの最大化
-special_judge: false
-time_limit: 8 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "お小遣いの最大化"
+special_judge: "false"
+time_limit: "8 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 21
 accepted: 19
 solved_users: 12
-acceptance_rate: 85.714%
-collected_at: 2026-04-17T17:46:17.378910+00:00
+acceptance_rate: "85.714%"
+collected_at: "2026-04-17T17:46:17.378910+00:00"
 ---
 
 ## 문제

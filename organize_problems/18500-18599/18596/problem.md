@@ -1,13 +1,13 @@
 ---
-title: Monster Hunter
-special_judge: false
-time_limit: 4 초
-memory_limit: 512 MB
+title: "Monster Hunter"
+special_judge: "false"
+time_limit: "4 초"
+memory_limit: "512 MB"
 submissions: 622
 accepted: 159
 solved_users: 99
-acceptance_rate: 20.497%
-collected_at: 2026-04-17T15:07:00.340229+00:00
+acceptance_rate: "20.497%"
+collected_at: "2026-04-17T15:07:00.340229+00:00"
 ---
 
 ## 문제

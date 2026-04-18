@@ -1,13 +1,13 @@
 ---
-title: 다전제 승자는?
-special_judge: false
-time_limit: 0.5 초
-memory_limit: 512 MB
+title: "다전제 승자는?"
+special_judge: "false"
+time_limit: "0.5 초"
+memory_limit: "512 MB"
 submissions: 35
 accepted: 22
 solved_users: 20
-acceptance_rate: 62.500%
-collected_at: 2026-04-17T18:01:38.345201+00:00
+acceptance_rate: "62.500%"
+collected_at: "2026-04-17T18:01:38.345201+00:00"
 ---
 
 ## 문제

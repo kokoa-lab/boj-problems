@@ -1,13 +1,13 @@
 ---
-title: Basirovich Maxim
-special_judge: true
-time_limit: 4 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "Basirovich Maxim"
+special_judge: "true"
+time_limit: "4 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 57
 accepted: 5
 solved_users: 5
-acceptance_rate: 11.364%
-collected_at: 2026-04-17T16:52:24.686017+00:00
+acceptance_rate: "11.364%"
+collected_at: "2026-04-17T16:52:24.686017+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Son of Pipe Stream
-special_judge: true
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Son of Pipe Stream"
+special_judge: "true"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 37
 accepted: 10
 solved_users: 10
-acceptance_rate: 40.000%
-collected_at: 2026-04-17T13:39:48.499773+00:00
+acceptance_rate: "40.000%"
+collected_at: "2026-04-17T13:39:48.499773+00:00"
 ---
 
 ## 문제

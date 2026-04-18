@@ -1,13 +1,13 @@
 ---
-title: Sparklers
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "Sparklers"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 138
 accepted: 46
 solved_users: 41
-acceptance_rate: 31.783%
-collected_at: 2026-04-17T14:45:46.892933+00:00
+acceptance_rate: "31.783%"
+collected_at: "2026-04-17T14:45:46.892933+00:00"
 ---
 
 ## 문제

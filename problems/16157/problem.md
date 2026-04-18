@@ -1,13 +1,13 @@
 ---
-title: 블로그
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "블로그"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 385
 accepted: 127
 solved_users: 112
-acceptance_rate: 38.095%
-collected_at: 2026-04-17T14:12:34.781248+00:00
+acceptance_rate: "38.095%"
+collected_at: "2026-04-17T14:12:34.781248+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Game of Stones
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Game of Stones"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 131
 accepted: 66
 solved_users: 35
-acceptance_rate: 39.326%
-collected_at: 2026-04-17T11:12:28.710290+00:00
+acceptance_rate: "39.326%"
+collected_at: "2026-04-17T11:12:28.710290+00:00"
 ---
 
 ## 문제

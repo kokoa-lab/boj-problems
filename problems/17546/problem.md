@@ -1,13 +1,13 @@
 ---
-title: Exits in Excess
-special_judge: true
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "Exits in Excess"
+special_judge: "true"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 192
 accepted: 91
 solved_users: 71
-acceptance_rate: 44.375%
-collected_at: 2026-04-17T14:41:34.827296+00:00
+acceptance_rate: "44.375%"
+collected_at: "2026-04-17T14:41:34.827296+00:00"
 ---
 
 ## 문제

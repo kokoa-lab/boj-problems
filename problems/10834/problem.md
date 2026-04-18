@@ -1,13 +1,13 @@
 ---
-title: 벨트
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "벨트"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 7239
 accepted: 3070
 solved_users: 2458
-acceptance_rate: 45.485%
-collected_at: 2026-04-17T12:30:16.615144+00:00
+acceptance_rate: "45.485%"
+collected_at: "2026-04-17T12:30:16.615144+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 소수 화폐
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "소수 화폐"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 2016
 accepted: 910
 solved_users: 752
-acceptance_rate: 46.506%
-collected_at: 2026-04-17T14:17:16.143985+00:00
+acceptance_rate: "46.506%"
+collected_at: "2026-04-17T14:17:16.143985+00:00"
 ---
 
 ## 문제

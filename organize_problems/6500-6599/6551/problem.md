@@ -1,13 +1,13 @@
 ---
-title: Balanced Food
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Balanced Food"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 39
 accepted: 12
 solved_users: 2
-acceptance_rate: 16.667%
-collected_at: 2026-04-17T11:30:23.221394+00:00
+acceptance_rate: "16.667%"
+collected_at: "2026-04-17T11:30:23.221394+00:00"
 ---
 
 ## 문제

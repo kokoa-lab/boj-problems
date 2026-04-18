@@ -1,13 +1,13 @@
 ---
-title: AK47
-special_judge: false
-time_limit: 4.7 초
-memory_limit: 1024 MB
+title: "AK47"
+special_judge: "false"
+time_limit: "4.7 초"
+memory_limit: "1024 MB"
 submissions: 342
 accepted: 40
 solved_users: 31
-acceptance_rate: 11.524%
-collected_at: 2026-04-17T19:39:17.442711+00:00
+acceptance_rate: "11.524%"
+collected_at: "2026-04-17T19:39:17.442711+00:00"
 ---
 
 ## 문제

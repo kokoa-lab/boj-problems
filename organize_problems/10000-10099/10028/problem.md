@@ -1,13 +1,13 @@
 ---
-title: HISTOGRAMI
-special_judge: true
-time_limit: 1 초
-memory_limit: 256 MB
+title: "HISTOGRAMI"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 40
 accepted: 18
 solved_users: 16
-acceptance_rate: 43.243%
-collected_at: 2026-04-17T12:17:57.785689+00:00
+acceptance_rate: "43.243%"
+collected_at: "2026-04-17T12:17:57.785689+00:00"
 ---
 
 ## 문제

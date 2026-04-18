@@ -1,13 +1,13 @@
 ---
-title: 가희와 집
-special_judge: false
-time_limit: 3.5 초
-memory_limit: 1024 MB
+title: "가희와 집"
+special_judge: "false"
+time_limit: "3.5 초"
+memory_limit: "1024 MB"
 submissions: 82
 accepted: 30
 solved_users: 22
-acceptance_rate: 32.836%
-collected_at: 2026-04-17T19:15:55.139100+00:00
+acceptance_rate: "32.836%"
+collected_at: "2026-04-17T19:15:55.139100+00:00"
 ---
 
 ## 문제

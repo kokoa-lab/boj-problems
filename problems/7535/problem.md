@@ -1,13 +1,13 @@
 ---
-title: A Bug’s Life
-special_judge: false
-time_limit: 3 초
-memory_limit: 256 MB
+title: "A Bug’s Life"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "256 MB"
 submissions: 568
 accepted: 279
 solved_users: 237
-acceptance_rate: 49.478%
-collected_at: 2026-04-17T11:50:22.921546+00:00
+acceptance_rate: "49.478%"
+collected_at: "2026-04-17T11:50:22.921546+00:00"
 ---
 
 ## 문제

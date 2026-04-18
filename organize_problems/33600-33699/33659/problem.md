@@ -1,13 +1,13 @@
 ---
-title: Strange Light Switches
-special_judge: true
-time_limit: 2 초
-memory_limit: 2048 MB
+title: "Strange Light Switches"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "2048 MB"
 submissions: 25
 accepted: 8
 solved_users: 7
-acceptance_rate: 29.167%
-collected_at: 2026-04-17T20:20:54.962786+00:00
+acceptance_rate: "29.167%"
+collected_at: "2026-04-17T20:20:54.962786+00:00"
 ---
 
 ## 문제

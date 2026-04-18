@@ -1,13 +1,13 @@
 ---
-title: 진짜 메시지
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "진짜 메시지"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 5377
 accepted: 2084
 solved_users: 1718
-acceptance_rate: 39.686%
-collected_at: 2026-04-17T12:08:56.372943+00:00
+acceptance_rate: "39.686%"
+collected_at: "2026-04-17T12:08:56.372943+00:00"
 ---
 
 ## 문제

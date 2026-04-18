@@ -1,13 +1,13 @@
 ---
-title: 징검다리 건너기 (small)
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "징검다리 건너기 (small)"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 2099
 accepted: 968
 solved_users: 700
-acceptance_rate: 42.945%
-collected_at: 2026-04-17T16:37:43.736274+00:00
+acceptance_rate: "42.945%"
+collected_at: "2026-04-17T16:37:43.736274+00:00"
 ---
 
 ## 문제

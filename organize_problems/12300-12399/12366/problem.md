@@ -1,13 +1,13 @@
 ---
-title: Perfect Game (Small)
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Perfect Game (Small)"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 122
 accepted: 85
 solved_users: 74
-acceptance_rate: 69.159%
-collected_at: 2026-04-17T12:54:12.852286+00:00
+acceptance_rate: "69.159%"
+collected_at: "2026-04-17T12:54:12.852286+00:00"
 ---
 
 ## 문제

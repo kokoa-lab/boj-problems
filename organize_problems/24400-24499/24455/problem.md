@@ -1,13 +1,13 @@
 ---
-title: 암호화 행렬
-special_judge: false
-time_limit: 0.8 초
-memory_limit: 512 MB
+title: "암호화 행렬"
+special_judge: "false"
+time_limit: "0.8 초"
+memory_limit: "512 MB"
 submissions: 247
 accepted: 53
 solved_users: 28
-acceptance_rate: 16.568%
-collected_at: 2026-04-17T17:09:44.196832+00:00
+acceptance_rate: "16.568%"
+collected_at: "2026-04-17T17:09:44.196832+00:00"
 ---
 
 ## 문제

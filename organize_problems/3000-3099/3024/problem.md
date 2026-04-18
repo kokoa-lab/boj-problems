@@ -1,13 +1,13 @@
 ---
-title: 마라톤 틱택토
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "마라톤 틱택토"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 1659
 accepted: 553
 solved_users: 470
-acceptance_rate: 35.127%
-collected_at: 2026-04-17T10:46:15.879063+00:00
+acceptance_rate: "35.127%"
+collected_at: "2026-04-17T10:46:15.879063+00:00"
 ---
 
 ## 문제

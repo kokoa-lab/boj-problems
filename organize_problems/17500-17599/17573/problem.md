@@ -1,13 +1,13 @@
 ---
-title: Internet Upload
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "Internet Upload"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 58
 accepted: 16
 solved_users: 6
-acceptance_rate: 18.750%
-collected_at: 2026-04-17T14:41:58.889549+00:00
+acceptance_rate: "18.750%"
+collected_at: "2026-04-17T14:41:58.889549+00:00"
 ---
 
 ## 문제

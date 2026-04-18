@@ -1,13 +1,13 @@
 ---
-title: 소용돌이 예쁘게 출력하기
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "소용돌이 예쁘게 출력하기"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 18837
 accepted: 5568
 solved_users: 4317
-acceptance_rate: 31.176%
-collected_at: 2026-04-17T10:27:45.226861+00:00
+acceptance_rate: "31.176%"
+collected_at: "2026-04-17T10:27:45.226861+00:00"
 ---
 
 ## 문제

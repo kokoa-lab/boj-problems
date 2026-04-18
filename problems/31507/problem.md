@@ -1,13 +1,13 @@
 ---
-title: Acceptable Seating Arrangements
-special_judge: true
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 2048 MB
+title: "Acceptable Seating Arrangements"
+special_judge: "true"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "2048 MB"
 submissions: 32
 accepted: 16
 solved_users: 16
-acceptance_rate: 57.143%
-collected_at: 2026-04-17T19:29:31.325740+00:00
+acceptance_rate: "57.143%"
+collected_at: "2026-04-17T19:29:31.325740+00:00"
 ---
 
 ## 문제

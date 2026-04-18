@@ -1,13 +1,13 @@
 ---
-title: 나누는 자가 지배한다
-special_judge: true
-time_limit: 8 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "나누는 자가 지배한다"
+special_judge: "true"
+time_limit: "8 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 236
 accepted: 46
 solved_users: 38
-acceptance_rate: 20.652%
-collected_at: 2026-04-17T13:20:34.970502+00:00
+acceptance_rate: "20.652%"
+collected_at: "2026-04-17T13:20:34.970502+00:00"
 ---
 
 ## 문제

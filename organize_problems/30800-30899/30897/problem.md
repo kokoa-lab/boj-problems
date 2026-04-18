@@ -1,13 +1,13 @@
 ---
-title: 0으로 만들기
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "0으로 만들기"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 90
 accepted: 35
 solved_users: 22
-acceptance_rate: 44.000%
-collected_at: 2026-04-17T19:17:40.373817+00:00
+acceptance_rate: "44.000%"
+collected_at: "2026-04-17T19:17:40.373817+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Best Subsequence
-special_judge: false
-time_limit: 3 초
-memory_limit: 512 MB
+title: "Best Subsequence"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "512 MB"
 submissions: 369
 accepted: 103
 solved_users: 67
-acceptance_rate: 24.907%
-collected_at: 2026-04-17T15:04:54.990923+00:00
+acceptance_rate: "24.907%"
+collected_at: "2026-04-17T15:04:54.990923+00:00"
 ---
 
 ## 문제

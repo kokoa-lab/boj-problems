@@ -1,13 +1,13 @@
 ---
-title: 사촌
-special_judge: false
-time_limit: 3 초
-memory_limit: 128 MB
+title: "사촌"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "128 MB"
 submissions: 4402
 accepted: 1362
 solved_users: 984
-acceptance_rate: 30.203%
-collected_at: 2026-04-17T12:10:27.336275+00:00
+acceptance_rate: "30.203%"
+collected_at: "2026-04-17T12:10:27.336275+00:00"
 ---
 
 ## 문제

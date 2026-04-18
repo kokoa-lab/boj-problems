@@ -1,13 +1,13 @@
 ---
-title: Монеты
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "Монеты"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 25
 accepted: 1
 solved_users: 1
-acceptance_rate: 50.000%
-collected_at: 2026-04-17T16:15:59.446573+00:00
+acceptance_rate: "50.000%"
+collected_at: "2026-04-17T16:15:59.446573+00:00"
 ---
 
 ## 문제

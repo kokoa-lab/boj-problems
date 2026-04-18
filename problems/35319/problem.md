@@ -1,13 +1,13 @@
 ---
-title: Pluses and Minuses
-special_judge: false
-time_limit: 2 초
-memory_limit: 2048 MB
+title: "Pluses and Minuses"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "2048 MB"
 submissions: 2
 accepted: 1
 solved_users: 1
-acceptance_rate: 100.000%
-collected_at: 2026-04-17T21:00:08.158479+00:00
+acceptance_rate: "100.000%"
+collected_at: "2026-04-17T21:00:08.158479+00:00"
 ---
 
 ## 문제

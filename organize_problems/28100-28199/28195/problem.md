@@ -1,13 +1,13 @@
 ---
-title: Is This FFT?
-special_judge: false
-time_limit: 15 초
-memory_limit: 952 MB
+title: "Is This FFT?"
+special_judge: "false"
+time_limit: "15 초"
+memory_limit: "952 MB"
 submissions: 5
 accepted: 4
 solved_users: 3
-acceptance_rate: 75.000%
-collected_at: 2026-04-17T18:19:50.031074+00:00
+acceptance_rate: "75.000%"
+collected_at: "2026-04-17T18:19:50.031074+00:00"
 ---
 
 ## 문제

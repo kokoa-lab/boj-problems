@@ -1,13 +1,13 @@
 ---
-title: Karaoke Meetup
-special_judge: false
-time_limit: 8 초
-memory_limit: 512 MB
+title: "Karaoke Meetup"
+special_judge: "false"
+time_limit: "8 초"
+memory_limit: "512 MB"
 submissions: 91
 accepted: 15
 solved_users: 13
-acceptance_rate: 26.000%
-collected_at: 2026-04-17T15:09:58.559822+00:00
+acceptance_rate: "26.000%"
+collected_at: "2026-04-17T15:09:58.559822+00:00"
 ---
 
 ## 문제

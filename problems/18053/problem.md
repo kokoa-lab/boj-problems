@@ -1,13 +1,13 @@
 ---
-title: Donuts
-special_judge: false
-time_limit: 30 초
-memory_limit: 8 MB (추가 메모리 없음)
+title: "Donuts"
+special_judge: "false"
+time_limit: "30 초"
+memory_limit: "8 MB (추가 메모리 없음)"
 submissions: 58
 accepted: 11
 solved_users: 9
-acceptance_rate: 16.667%
-collected_at: 2026-04-17T14:54:23.015708+00:00
+acceptance_rate: "16.667%"
+collected_at: "2026-04-17T14:54:23.015708+00:00"
 ---
 
 ## 문제

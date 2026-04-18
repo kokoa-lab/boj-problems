@@ -1,13 +1,13 @@
 ---
-title: Davor
-special_judge: false
-time_limit: 1 초
-memory_limit: 64 MB
+title: "Davor"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "64 MB"
 submissions: 269
 accepted: 198
 solved_users: 162
-acceptance_rate: 73.973%
-collected_at: 2026-04-17T14:00:20.410018+00:00
+acceptance_rate: "73.973%"
+collected_at: "2026-04-17T14:00:20.410018+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 놀이 공원
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "놀이 공원"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 14387
 accepted: 4266
 solved_users: 2917
-acceptance_rate: 28.257%
-collected_at: 2026-04-17T10:31:12.683152+00:00
+acceptance_rate: "28.257%"
+collected_at: "2026-04-17T10:31:12.683152+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 불꽃놀이
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "불꽃놀이"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 577
 accepted: 224
 solved_users: 179
-acceptance_rate: 39.254%
-collected_at: 2026-04-17T19:49:51.703907+00:00
+acceptance_rate: "39.254%"
+collected_at: "2026-04-17T19:49:51.703907+00:00"
 ---
 
 ## 문제

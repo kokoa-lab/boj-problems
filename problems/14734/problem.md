@@ -1,13 +1,13 @@
 ---
-title: Aztec Diamond
-special_judge: true
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Aztec Diamond"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 135
 accepted: 49
 solved_users: 33
-acceptance_rate: 32.673%
-collected_at: 2026-04-17T13:41:08.350902+00:00
+acceptance_rate: "32.673%"
+collected_at: "2026-04-17T13:41:08.350902+00:00"
 ---
 
 ## 문제

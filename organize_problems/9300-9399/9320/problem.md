@@ -1,13 +1,13 @@
 ---
-title: 금고 열기
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "금고 열기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 726
 accepted: 153
 solved_users: 118
-acceptance_rate: 25.000%
-collected_at: 2026-04-17T12:08:53.831901+00:00
+acceptance_rate: "25.000%"
+collected_at: "2026-04-17T12:08:53.831901+00:00"
 ---
 
 ## 문제

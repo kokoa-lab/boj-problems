@@ -1,13 +1,13 @@
 ---
-title: 중간 제출
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "중간 제출"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 63
 accepted: 61
 solved_users: 60
-acceptance_rate: 96.774%
-collected_at: 2026-04-17T12:50:06.289921+00:00
+acceptance_rate: "96.774%"
+collected_at: "2026-04-17T12:50:06.289921+00:00"
 ---
 
 ## 문제

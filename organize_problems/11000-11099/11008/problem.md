@@ -1,13 +1,13 @@
 ---
-title: 복붙의 달인
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "복붙의 달인"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 2323
 accepted: 1552
 solved_users: 1371
-acceptance_rate: 68.894%
-collected_at: 2026-04-17T12:34:50.049087+00:00
+acceptance_rate: "68.894%"
+collected_at: "2026-04-17T12:34:50.049087+00:00"
 ---
 
 ## 문제

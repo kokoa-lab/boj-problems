@@ -1,13 +1,13 @@
 ---
-title: Teamwork
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Teamwork"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 532
 accepted: 343
 solved_users: 282
-acceptance_rate: 63.229%
-collected_at: 2026-04-17T14:23:32.123969+00:00
+acceptance_rate: "63.229%"
+collected_at: "2026-04-17T14:23:32.123969+00:00"
 ---
 
 ## 문제

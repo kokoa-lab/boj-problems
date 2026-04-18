@@ -1,13 +1,13 @@
 ---
-title: Odd or Even
-special_judge: false
-time_limit: 3 초
-memory_limit: 128 MB
+title: "Odd or Even"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "128 MB"
 submissions: 188
 accepted: 154
 solved_users: 125
-acceptance_rate: 85.616%
-collected_at: 2026-04-17T11:17:03.525798+00:00
+acceptance_rate: "85.616%"
+collected_at: "2026-04-17T11:17:03.525798+00:00"
 ---
 
 ## 문제

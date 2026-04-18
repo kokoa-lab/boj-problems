@@ -1,13 +1,13 @@
 ---
-title: 동일한 단어 그룹화하기
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "동일한 단어 그룹화하기"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 2017
 accepted: 1424
 solved_users: 1280
-acceptance_rate: 71.111%
-collected_at: 2026-04-17T14:19:11.961021+00:00
+acceptance_rate: "71.111%"
+collected_at: "2026-04-17T14:19:11.961021+00:00"
 ---
 
 ## 문제

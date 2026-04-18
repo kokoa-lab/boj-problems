@@ -1,13 +1,13 @@
 ---
-title: 보드 색칠하기
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "보드 색칠하기"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 97
 accepted: 43
 solved_users: 36
-acceptance_rate: 58.065%
-collected_at: 2026-04-17T13:13:16.088626+00:00
+acceptance_rate: "58.065%"
+collected_at: "2026-04-17T13:13:16.088626+00:00"
 ---
 
 ## 문제

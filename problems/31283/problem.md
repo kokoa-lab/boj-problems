@@ -1,13 +1,13 @@
 ---
-title: 평균 최대화
-special_judge: false
-time_limit: 5 초
-memory_limit: 1024 MB
+title: "평균 최대화"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "1024 MB"
 submissions: 252
 accepted: 20
 solved_users: 12
-acceptance_rate: 15.385%
-collected_at: 2026-04-17T19:25:09.452802+00:00
+acceptance_rate: "15.385%"
+collected_at: "2026-04-17T19:25:09.452802+00:00"
 ---
 
 ## 문제

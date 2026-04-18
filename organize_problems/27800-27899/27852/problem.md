@@ -1,13 +1,13 @@
 ---
-title: Kruskal
-special_judge: false
-time_limit: 12 초
-memory_limit: 1024 MB
+title: "Kruskal"
+special_judge: "false"
+time_limit: "12 초"
+memory_limit: "1024 MB"
 submissions: 207
 accepted: 50
 solved_users: 42
-acceptance_rate: 23.729%
-collected_at: 2026-04-17T18:12:51.625453+00:00
+acceptance_rate: "23.729%"
+collected_at: "2026-04-17T18:12:51.625453+00:00"
 ---
 
 ## 문제

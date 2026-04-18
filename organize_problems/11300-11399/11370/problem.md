@@ -1,13 +1,13 @@
 ---
-title: Spawn of Ungoliant
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Spawn of Ungoliant"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 351
 accepted: 259
 solved_users: 223
-acceptance_rate: 77.163%
-collected_at: 2026-04-17T12:39:56.648340+00:00
+acceptance_rate: "77.163%"
+collected_at: "2026-04-17T12:39:56.648340+00:00"
 ---
 
 ## 문제

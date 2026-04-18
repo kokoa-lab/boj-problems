@@ -1,13 +1,13 @@
 ---
-title: 함수동상 그래프
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "함수동상 그래프"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 27
 accepted: 13
 solved_users: 11
-acceptance_rate: 68.750%
-collected_at: 2026-04-17T20:49:35.106395+00:00
+acceptance_rate: "68.750%"
+collected_at: "2026-04-17T20:49:35.106395+00:00"
 ---
 
 ## 문제

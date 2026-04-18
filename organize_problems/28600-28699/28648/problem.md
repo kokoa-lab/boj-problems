@@ -1,13 +1,13 @@
 ---
-title: Торговый центр
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Торговый центр"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 858
 accepted: 730
 solved_users: 700
-acceptance_rate: 85.366%
-collected_at: 2026-04-17T18:30:01.015627+00:00
+acceptance_rate: "85.366%"
+collected_at: "2026-04-17T18:30:01.015627+00:00"
 ---
 
 ## 문제

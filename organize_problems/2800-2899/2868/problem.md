@@ -1,13 +1,13 @@
 ---
-title: MONO
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "MONO"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 38
 accepted: 5
 solved_users: 5
-acceptance_rate: 14.706%
-collected_at: 2026-04-17T10:45:22.501834+00:00
+acceptance_rate: "14.706%"
+collected_at: "2026-04-17T10:45:22.501834+00:00"
 ---
 
 ## 문제

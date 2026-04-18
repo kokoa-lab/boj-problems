@@ -1,13 +1,13 @@
 ---
-title: 스왑 스왑
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "스왑 스왑"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 138
 accepted: 87
 solved_users: 74
-acceptance_rate: 66.667%
-collected_at: 2026-04-17T20:47:05.567400+00:00
+acceptance_rate: "66.667%"
+collected_at: "2026-04-17T20:47:05.567400+00:00"
 ---
 
 ## 문제

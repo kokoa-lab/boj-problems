@@ -1,13 +1,13 @@
 ---
-title: 레벨 업
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "레벨 업"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 1194
 accepted: 250
 solved_users: 176
-acceptance_rate: 31.712%
-collected_at: 2026-04-17T17:26:18.791304+00:00
+acceptance_rate: "31.712%"
+collected_at: "2026-04-17T17:26:18.791304+00:00"
 ---
 
 ## 문제

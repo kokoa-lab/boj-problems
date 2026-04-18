@@ -1,13 +1,13 @@
 ---
-title: 회귀자 니아와 그린나무 게임
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "회귀자 니아와 그린나무 게임"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 375
 accepted: 234
 solved_users: 38
-acceptance_rate: 38.776%
-collected_at: 2026-04-17T20:57:35.343295+00:00
+acceptance_rate: "38.776%"
+collected_at: "2026-04-17T20:57:35.343295+00:00"
 ---
 
 ## 문제

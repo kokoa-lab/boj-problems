@@ -1,13 +1,13 @@
 ---
-title: 1은 흥미로운 숫자
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "1은 흥미로운 숫자"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 153
 accepted: 55
 solved_users: 47
-acceptance_rate: 34.815%
-collected_at: 2026-04-17T11:03:34.674292+00:00
+acceptance_rate: "34.815%"
+collected_at: "2026-04-17T11:03:34.674292+00:00"
 ---
 
 ## 문제

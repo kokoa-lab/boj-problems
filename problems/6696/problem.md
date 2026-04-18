@@ -1,13 +1,13 @@
 ---
-title: Too Much Water
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Too Much Water"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 315
 accepted: 225
 solved_users: 183
-acceptance_rate: 71.765%
-collected_at: 2026-04-17T11:33:24.035861+00:00
+acceptance_rate: "71.765%"
+collected_at: "2026-04-17T11:33:24.035861+00:00"
 ---
 
 ## 문제

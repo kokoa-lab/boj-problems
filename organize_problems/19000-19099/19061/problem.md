@@ -1,13 +1,13 @@
 ---
-title: Polygon Rotation
-special_judge: true
-time_limit: 3 초
-memory_limit: 256 MB
+title: "Polygon Rotation"
+special_judge: "true"
+time_limit: "3 초"
+memory_limit: "256 MB"
 submissions: 91
 accepted: 13
 solved_users: 5
-acceptance_rate: 6.098%
-collected_at: 2026-04-17T15:13:02.988613+00:00
+acceptance_rate: "6.098%"
+collected_at: "2026-04-17T15:13:02.988613+00:00"
 ---
 
 ## 문제

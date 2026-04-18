@@ -1,13 +1,13 @@
 ---
-title: 절망적인 줄
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "절망적인 줄"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 280
 accepted: 131
 solved_users: 92
-acceptance_rate: 42.202%
-collected_at: 2026-04-17T12:08:32.098464+00:00
+acceptance_rate: "42.202%"
+collected_at: "2026-04-17T12:08:32.098464+00:00"
 ---
 
 ## 문제

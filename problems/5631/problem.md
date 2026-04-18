@@ -1,13 +1,13 @@
 ---
-title: 방사능
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "방사능"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 913
 accepted: 172
 solved_users: 152
-acceptance_rate: 27.240%
-collected_at: 2026-04-17T11:16:09.948623+00:00
+acceptance_rate: "27.240%"
+collected_at: "2026-04-17T11:16:09.948623+00:00"
 ---
 
 ## 문제

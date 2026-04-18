@@ -1,13 +1,13 @@
 ---
-title: 다리
-special_judge: false
-time_limit: 4 초
-memory_limit: 512 MB
+title: "다리"
+special_judge: "false"
+time_limit: "4 초"
+memory_limit: "512 MB"
 submissions: 422
 accepted: 133
 solved_users: 72
-acceptance_rate: 23.453%
-collected_at: 2026-04-17T14:43:27.700963+00:00
+acceptance_rate: "23.453%"
+collected_at: "2026-04-17T14:43:27.700963+00:00"
 ---
 
 ## 문제

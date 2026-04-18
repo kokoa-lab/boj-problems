@@ -1,13 +1,13 @@
 ---
-title: Pahuljice
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Pahuljice"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 57
 accepted: 52
 solved_users: 47
-acceptance_rate: 92.157%
-collected_at: 2026-04-17T19:18:28.971856+00:00
+acceptance_rate: "92.157%"
+collected_at: "2026-04-17T19:18:28.971856+00:00"
 ---
 
 ## 문제
@@ -24,7 +24,22 @@ Sometimes Lana connects several snowflakes, but even then the size of each snowf
 
 |  |  |  |
 | --- | --- | --- |
-| ```  \|/ -+- /|\ ``` | ```  \.|./.. .\|/... --+--.. ./|\... /.|.\|/ ....-+- ..../|\ ``` | ```  \.|./. .\|/.. --+--- ./|\.. /...\. ``` |
+| ``` 
+ \|/
+ -+-
+ /|\ ``` | ``` 
+ \.|./..
+ .\|/...
+ --+--..
+ ./|\...
+ /.|.\|/
+ ....-+-
+ ..../|\ ``` | ``` 
+ \.|./.
+ .\|/..
+ --+---
+ ./|\..
+ /...\. ``` |
 
 On the left is an example of a snowflake of size $1$.
 

@@ -1,13 +1,13 @@
 ---
-title: Aligned Calender
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Aligned Calender"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 91
 accepted: 55
 solved_users: 39
-acceptance_rate: 53.425%
-collected_at: 2026-04-17T12:20:14.166692+00:00
+acceptance_rate: "53.425%"
+collected_at: "2026-04-17T12:20:14.166692+00:00"
 ---
 
 ## 문제

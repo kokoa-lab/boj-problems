@@ -1,13 +1,13 @@
 ---
-title: 아~파트 아파트
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "아~파트 아파트"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 3024
 accepted: 782
 solved_users: 663
-acceptance_rate: 27.975%
-collected_at: 2026-04-17T19:36:41.715760+00:00
+acceptance_rate: "27.975%"
+collected_at: "2026-04-17T19:36:41.715760+00:00"
 ---
 
 ## 문제

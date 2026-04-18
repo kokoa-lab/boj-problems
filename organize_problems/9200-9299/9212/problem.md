@@ -1,13 +1,13 @@
 ---
-title: 트라이앵글
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "트라이앵글"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 246
 accepted: 65
 solved_users: 54
-acceptance_rate: 27.411%
-collected_at: 2026-04-17T12:07:57.347628+00:00
+acceptance_rate: "27.411%"
+collected_at: "2026-04-17T12:07:57.347628+00:00"
 ---
 
 ## 문제

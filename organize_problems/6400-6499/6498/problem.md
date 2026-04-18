@@ -1,13 +1,13 @@
 ---
-title: 엘리어스 감마 코드
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "엘리어스 감마 코드"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 57
 accepted: 21
 solved_users: 18
-acceptance_rate: 50.000%
-collected_at: 2026-04-17T11:29:14.868964+00:00
+acceptance_rate: "50.000%"
+collected_at: "2026-04-17T11:29:14.868964+00:00"
 ---
 
 ## 문제

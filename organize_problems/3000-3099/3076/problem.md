@@ -1,13 +1,13 @@
 ---
-title: 상근이의 체스판
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "상근이의 체스판"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 2854
 accepted: 1966
 solved_users: 1789
-acceptance_rate: 71.732%
-collected_at: 2026-04-17T10:46:32.475859+00:00
+acceptance_rate: "71.732%"
+collected_at: "2026-04-17T10:46:32.475859+00:00"
 ---
 
 ## 문제

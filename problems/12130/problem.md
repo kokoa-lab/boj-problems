@@ -1,13 +1,13 @@
 ---
-title: Fairland (Large)
-special_judge: false
-time_limit: 10 초
-memory_limit: 512 MB
+title: "Fairland (Large)"
+special_judge: "false"
+time_limit: "10 초"
+memory_limit: "512 MB"
 submissions: 55
 accepted: 11
 solved_users: 10
-acceptance_rate: 21.739%
-collected_at: 2026-04-18T10:04:10.442140+00:00
+acceptance_rate: "21.739%"
+collected_at: "2026-04-18T10:04:10.442140+00:00"
 ---
 
 ## 문제

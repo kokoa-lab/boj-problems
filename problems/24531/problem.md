@@ -1,13 +1,13 @@
 ---
-title: 슈팅 게임
-special_judge: false
-time_limit: 1.5 초
-memory_limit: 1024 MB
+title: "슈팅 게임"
+special_judge: "false"
+time_limit: "1.5 초"
+memory_limit: "1024 MB"
 submissions: 154
 accepted: 21
 solved_users: 20
-acceptance_rate: 13.793%
-collected_at: 2026-04-17T17:10:44.556685+00:00
+acceptance_rate: "13.793%"
+collected_at: "2026-04-17T17:10:44.556685+00:00"
 ---
 
 ## 문제

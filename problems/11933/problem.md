@@ -1,13 +1,13 @@
 ---
-title: 공장들
-special_judge: false
-time_limit: 6 초
-memory_limit: 512 MB
+title: "공장들"
+special_judge: "false"
+time_limit: "6 초"
+memory_limit: "512 MB"
 submissions: 1571
 accepted: 395
 solved_users: 247
-acceptance_rate: 20.481%
-collected_at: 2026-04-17T12:47:52.967415+00:00
+acceptance_rate: "20.481%"
+collected_at: "2026-04-17T12:47:52.967415+00:00"
 ---
 
 ## 문제

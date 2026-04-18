@@ -1,13 +1,13 @@
 ---
-title: 완벽한 선거!
-special_judge: false
-time_limit: 3 초
-memory_limit: 256 MB
+title: "완벽한 선거!"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "256 MB"
 submissions: 1717
 accepted: 710
 solved_users: 532
-acceptance_rate: 43.750%
-collected_at: 2026-04-17T10:51:39.577246+00:00
+acceptance_rate: "43.750%"
+collected_at: "2026-04-17T10:51:39.577246+00:00"
 ---
 
 ## 문제

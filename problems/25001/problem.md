@@ -1,13 +1,13 @@
 ---
-title: Pen
-special_judge: true
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Pen"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 115
 accepted: 46
 solved_users: 41
-acceptance_rate: 49.398%
-collected_at: 2026-04-17T17:18:28.024631+00:00
+acceptance_rate: "49.398%"
+collected_at: "2026-04-17T17:18:28.024631+00:00"
 ---
 
 ## 문제

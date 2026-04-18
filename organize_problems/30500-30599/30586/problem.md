@@ -1,13 +1,13 @@
 ---
-title: Ужин для интровертов
-special_judge: false
-time_limit: 0.5 초
-memory_limit: 1024 MB
+title: "Ужин для интровертов"
+special_judge: "false"
+time_limit: "0.5 초"
+memory_limit: "1024 MB"
 submissions: 84
 accepted: 37
 solved_users: 25
-acceptance_rate: 35.211%
-collected_at: 2026-04-17T19:10:02.008741+00:00
+acceptance_rate: "35.211%"
+collected_at: "2026-04-17T19:10:02.008741+00:00"
 ---
 
 ## 문제

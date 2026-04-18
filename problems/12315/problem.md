@@ -1,13 +1,13 @@
 ---
-title: Multiplayer Pong (Small)
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Multiplayer Pong (Small)"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 22
 accepted: 3
 solved_users: 2
-acceptance_rate: 16.667%
-collected_at: 2026-04-17T12:53:24.242189+00:00
+acceptance_rate: "16.667%"
+collected_at: "2026-04-17T12:53:24.242189+00:00"
 ---
 
 ## 문제

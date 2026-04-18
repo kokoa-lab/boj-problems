@@ -1,13 +1,13 @@
 ---
-title: Tabliczka
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Tabliczka"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 3905
 accepted: 1979
 solved_users: 1864
-acceptance_rate: 51.111%
-collected_at: 2026-04-17T12:01:58.352666+00:00
+acceptance_rate: "51.111%"
+collected_at: "2026-04-17T12:01:58.352666+00:00"
 ---
 
 ## 문제

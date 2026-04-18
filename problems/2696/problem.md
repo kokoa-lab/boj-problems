@@ -1,13 +1,13 @@
 ---
-title: 중앙값 구하기
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "중앙값 구하기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 13717
 accepted: 7083
 solved_users: 5657
-acceptance_rate: 53.132%
-collected_at: 2026-04-17T10:44:04.589333+00:00
+acceptance_rate: "53.132%"
+collected_at: "2026-04-17T10:44:04.589333+00:00"
 ---
 
 ## 문제

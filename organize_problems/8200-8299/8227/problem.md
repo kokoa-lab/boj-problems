@@ -1,13 +1,13 @@
 ---
-title: Cloakroom
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "Cloakroom"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 266
 accepted: 130
 solved_users: 103
-acceptance_rate: 44.783%
-collected_at: 2026-04-17T11:57:26.428612+00:00
+acceptance_rate: "44.783%"
+collected_at: "2026-04-17T11:57:26.428612+00:00"
 ---
 
 ## 문제

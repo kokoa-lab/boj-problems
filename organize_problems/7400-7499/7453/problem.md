@@ -1,13 +1,13 @@
 ---
-title: 합이 0인 네 정수
-special_judge: false
-time_limit: 12 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "합이 0인 네 정수"
+special_judge: "false"
+time_limit: "12 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 57390
 accepted: 16152
 solved_users: 8985
-acceptance_rate: 23.481%
-collected_at: 2026-04-17T11:49:34.797433+00:00
+acceptance_rate: "23.481%"
+collected_at: "2026-04-17T11:49:34.797433+00:00"
 ---
 
 ## 문제

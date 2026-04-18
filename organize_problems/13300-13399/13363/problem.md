@@ -1,13 +1,13 @@
 ---
-title: Jumbled Compass
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Jumbled Compass"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 712
 accepted: 441
 solved_users: 403
-acceptance_rate: 62.578%
-collected_at: 2026-04-17T13:12:06.711446+00:00
+acceptance_rate: "62.578%"
+collected_at: "2026-04-17T13:12:06.711446+00:00"
 ---
 
 ## 문제

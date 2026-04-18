@@ -1,13 +1,13 @@
 ---
-title: 긴 수
-special_judge: false
-time_limit: 1 초  ( 하단 참고 )
-memory_limit: 512 MB
+title: "긴 수"
+special_judge: "false"
+time_limit: "1 초  ( 하단 참고 )"
+memory_limit: "512 MB"
 submissions: 94
 accepted: 39
 solved_users: 33
-acceptance_rate: 41.772%
-collected_at: 2026-04-17T15:57:37.319103+00:00
+acceptance_rate: "41.772%"
+collected_at: "2026-04-17T15:57:37.319103+00:00"
 ---
 
 ## 문제

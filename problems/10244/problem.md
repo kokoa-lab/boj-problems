@@ -1,13 +1,13 @@
 ---
-title: 최대공약수들
-special_judge: false
-time_limit: 5 초
-memory_limit: 256 MB
+title: "최대공약수들"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "256 MB"
 submissions: 718
 accepted: 325
 solved_users: 226
-acceptance_rate: 47.983%
-collected_at: 2026-04-17T12:20:58.322743+00:00
+acceptance_rate: "47.983%"
+collected_at: "2026-04-17T12:20:58.322743+00:00"
 ---
 
 ## 문제

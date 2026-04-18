@@ -1,13 +1,13 @@
 ---
-title: 급상승
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "급상승"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 1514
 accepted: 370
 solved_users: 273
-acceptance_rate: 23.353%
-collected_at: 2026-04-17T17:00:03.810864+00:00
+acceptance_rate: "23.353%"
+collected_at: "2026-04-17T17:00:03.810864+00:00"
 ---
 
 ## 문제

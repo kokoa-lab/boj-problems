@@ -1,13 +1,13 @@
 ---
-title: Herb Mixing
-special_judge: false
-time_limit: 1 초
-memory_limit: 2048 MB
+title: "Herb Mixing"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "2048 MB"
 submissions: 61
 accepted: 50
 solved_users: 39
-acceptance_rate: 79.592%
-collected_at: 2026-04-17T20:02:34.483422+00:00
+acceptance_rate: "79.592%"
+collected_at: "2026-04-17T20:02:34.483422+00:00"
 ---
 
 ## 문제

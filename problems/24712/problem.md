@@ -1,13 +1,13 @@
 ---
-title: Build a City
-special_judge: false
-time_limit: 3 초
-memory_limit: 1024 MB
+title: "Build a City"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "1024 MB"
 submissions: 5
 accepted: 0
 solved_users: 0
-acceptance_rate: 0.000%
-collected_at: 2026-04-17T17:13:40.558481+00:00
+acceptance_rate: "0.000%"
+collected_at: "2026-04-17T17:13:40.558481+00:00"
 ---
 
 ## 문제

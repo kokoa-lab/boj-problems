@@ -1,13 +1,13 @@
 ---
-title: 서브 트리의 크기
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "서브 트리의 크기"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 175
 accepted: 68
 solved_users: 44
-acceptance_rate: 32.353%
-collected_at: 2026-04-17T13:06:05.639955+00:00
+acceptance_rate: "32.353%"
+collected_at: "2026-04-17T13:06:05.639955+00:00"
 ---
 
 ## 문제

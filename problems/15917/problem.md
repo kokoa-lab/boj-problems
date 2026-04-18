@@ -1,13 +1,13 @@
 ---
-title: 노솔브 방지문제야!!
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "노솔브 방지문제야!!"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 5381
 accepted: 2717
 solved_users: 2097
-acceptance_rate: 49.563%
-collected_at: 2026-04-17T14:08:36.834256+00:00
+acceptance_rate: "49.563%"
+collected_at: "2026-04-17T14:08:36.834256+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Polynomial
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Polynomial"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 1492
 accepted: 544
 solved_users: 443
-acceptance_rate: 37.928%
-collected_at: 2026-04-17T15:23:35.235566+00:00
+acceptance_rate: "37.928%"
+collected_at: "2026-04-17T15:23:35.235566+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Counting Cactus
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Counting Cactus"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 25
 accepted: 11
 solved_users: 11
-acceptance_rate: 73.333%
-collected_at: 2026-04-17T15:05:21.978751+00:00
+acceptance_rate: "73.333%"
+collected_at: "2026-04-17T15:05:21.978751+00:00"
 ---
 
 ## 문제

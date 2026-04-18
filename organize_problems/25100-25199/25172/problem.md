@@ -1,13 +1,13 @@
 ---
-title: 꼼꼼한 쿠기의 졸업여행
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "꼼꼼한 쿠기의 졸업여행"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 341
 accepted: 220
 solved_users: 184
-acceptance_rate: 67.399%
-collected_at: 2026-04-17T17:22:06.044310+00:00
+acceptance_rate: "67.399%"
+collected_at: "2026-04-17T17:22:06.044310+00:00"
 ---
 
 ## 문제

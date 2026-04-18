@@ -1,13 +1,13 @@
 ---
-title: 부분합
-special_judge: false
-time_limit: 0.5 초  ( 하단 참고 )
-memory_limit: 128 MB
+title: "부분합"
+special_judge: "false"
+time_limit: "0.5 초  ( 하단 참고 )"
+memory_limit: "128 MB"
 submissions: 140374
 accepted: 40826
 solved_users: 28838
-acceptance_rate: 27.321%
-collected_at: 2026-04-17T10:33:55.521694+00:00
+acceptance_rate: "27.321%"
+collected_at: "2026-04-17T10:33:55.521694+00:00"
 ---
 
 ## 문제

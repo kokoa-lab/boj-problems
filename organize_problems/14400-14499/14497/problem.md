@@ -1,13 +1,13 @@
 ---
-title: 주난의 난(難)
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "주난의 난(難)"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 7716
 accepted: 4110
 solved_users: 2653
-acceptance_rate: 52.670%
-collected_at: 2026-04-17T13:36:24.683113+00:00
+acceptance_rate: "52.670%"
+collected_at: "2026-04-17T13:36:24.683113+00:00"
 ---
 
 ## 문제

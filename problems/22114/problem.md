@@ -1,13 +1,13 @@
 ---
-title: 창영이와 점프
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "창영이와 점프"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 1120
 accepted: 466
 solved_users: 391
-acceptance_rate: 45.307%
-collected_at: 2026-04-17T16:15:06.525784+00:00
+acceptance_rate: "45.307%"
+collected_at: "2026-04-17T16:15:06.525784+00:00"
 ---
 
 ## 문제

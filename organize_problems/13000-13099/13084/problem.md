@@ -1,13 +1,13 @@
 ---
-title: Delete Files
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Delete Files"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 95
 accepted: 25
 solved_users: 23
-acceptance_rate: 31.507%
-collected_at: 2026-04-17T13:07:19.769699+00:00
+acceptance_rate: "31.507%"
+collected_at: "2026-04-17T13:07:19.769699+00:00"
 ---
 
 ## 문제

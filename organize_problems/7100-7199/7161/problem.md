@@ -1,13 +1,13 @@
 ---
-title: Swimming pool
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Swimming pool"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 44
 accepted: 19
 solved_users: 19
-acceptance_rate: 48.718%
-collected_at: 2026-04-17T11:46:43.860301+00:00
+acceptance_rate: "48.718%"
+collected_at: "2026-04-17T11:46:43.860301+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Two Permutations
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "Two Permutations"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 58
 accepted: 36
 solved_users: 34
-acceptance_rate: 60.714%
-collected_at: 2026-04-17T17:13:04.319399+00:00
+acceptance_rate: "60.714%"
+collected_at: "2026-04-17T17:13:04.319399+00:00"
 ---
 
 ## 문제

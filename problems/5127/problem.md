@@ -1,13 +1,13 @@
 ---
-title: Weird Currency
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Weird Currency"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 36
 accepted: 24
 solved_users: 24
-acceptance_rate: 68.571%
-collected_at: 2026-04-17T11:11:40.748127+00:00
+acceptance_rate: "68.571%"
+collected_at: "2026-04-17T11:11:40.748127+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 나이트 투어
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "나이트 투어"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 10041
 accepted: 3591
 solved_users: 3073
-acceptance_rate: 37.285%
-collected_at: 2026-04-17T10:29:30.394121+00:00
+acceptance_rate: "37.285%"
+collected_at: "2026-04-17T10:29:30.394121+00:00"
 ---
 
 ## 문제

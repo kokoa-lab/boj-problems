@@ -1,13 +1,13 @@
 ---
-title: 현상금 헌터
-special_judge: false
-time_limit: 4 초
-memory_limit: 1024 MB
+title: "현상금 헌터"
+special_judge: "false"
+time_limit: "4 초"
+memory_limit: "1024 MB"
 submissions: 163
 accepted: 32
 solved_users: 19
-acceptance_rate: 33.333%
-collected_at: 2026-04-17T17:36:31.257924+00:00
+acceptance_rate: "33.333%"
+collected_at: "2026-04-17T17:36:31.257924+00:00"
 ---
 
 ## 문제

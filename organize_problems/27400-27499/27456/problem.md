@@ -1,13 +1,13 @@
 ---
-title: 치노와 코코아
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "치노와 코코아"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 45
 accepted: 20
 solved_users: 16
-acceptance_rate: 51.613%
-collected_at: 2026-04-17T18:03:26.421698+00:00
+acceptance_rate: "51.613%"
+collected_at: "2026-04-17T18:03:26.421698+00:00"
 ---
 
 ## 문제

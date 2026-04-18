@@ -1,13 +1,13 @@
 ---
-title: Prefix와 Suffix
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Prefix와 Suffix"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 871
 accepted: 239
 solved_users: 140
-acceptance_rate: 25.501%
-collected_at: 2026-04-17T13:10:44.989907+00:00
+acceptance_rate: "25.501%"
+collected_at: "2026-04-17T13:10:44.989907+00:00"
 ---
 
 ## 문제

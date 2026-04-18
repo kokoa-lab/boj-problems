@@ -1,13 +1,13 @@
 ---
-title: Quadratic Dissonance
-special_judge: true
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Quadratic Dissonance"
+special_judge: "true"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 45
 accepted: 30
 solved_users: 28
-acceptance_rate: 70.000%
-collected_at: 2026-04-17T17:17:23.059016+00:00
+acceptance_rate: "70.000%"
+collected_at: "2026-04-17T17:17:23.059016+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: The Sierpinski Fractal
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "The Sierpinski Fractal"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 136
 accepted: 64
 solved_users: 39
-acceptance_rate: 38.614%
-collected_at: 2026-04-17T11:30:24.036721+00:00
+acceptance_rate: "38.614%"
+collected_at: "2026-04-17T11:30:24.036721+00:00"
 ---
 
 ## 문제

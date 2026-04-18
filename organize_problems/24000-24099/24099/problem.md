@@ -1,13 +1,13 @@
 ---
-title: 解読 (Deciphering)
-special_judge: false
-time_limit: 0.5 초
-memory_limit: 1024 MB
+title: "解読 (Deciphering)"
+special_judge: "false"
+time_limit: "0.5 초"
+memory_limit: "1024 MB"
 submissions: 82
 accepted: 44
 solved_users: 42
-acceptance_rate: 55.263%
-collected_at: 2026-04-17T17:03:54.052206+00:00
+acceptance_rate: "55.263%"
+collected_at: "2026-04-17T17:03:54.052206+00:00"
 ---
 
 ## 문제

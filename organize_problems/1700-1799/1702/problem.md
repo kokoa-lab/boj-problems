@@ -1,13 +1,13 @@
 ---
-title: 고속도로
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "고속도로"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 476
 accepted: 73
 solved_users: 50
-acceptance_rate: 24.390%
-collected_at: 2026-04-17T10:32:26.620805+00:00
+acceptance_rate: "24.390%"
+collected_at: "2026-04-17T10:32:26.620805+00:00"
 ---
 
 ## 문제

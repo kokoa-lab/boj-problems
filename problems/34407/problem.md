@@ -1,13 +1,13 @@
 ---
-title: x와 배수와 XOR (Hard)
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "x와 배수와 XOR (Hard)"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 106
 accepted: 37
 solved_users: 13
-acceptance_rate: 32.500%
-collected_at: 2026-04-17T20:37:54.475663+00:00
+acceptance_rate: "32.500%"
+collected_at: "2026-04-17T20:37:54.475663+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 트리를 간단하게 색칠하는 최소 비용
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "트리를 간단하게 색칠하는 최소 비용"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 669
 accepted: 324
 solved_users: 256
-acceptance_rate: 46.886%
-collected_at: 2026-04-17T17:27:48.415853+00:00
+acceptance_rate: "46.886%"
+collected_at: "2026-04-17T17:27:48.415853+00:00"
 ---
 
 ## 문제

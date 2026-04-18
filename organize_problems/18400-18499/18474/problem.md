@@ -1,13 +1,13 @@
 ---
-title: Grammarly
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Grammarly"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 44
 accepted: 16
 solved_users: 15
-acceptance_rate: 93.750%
-collected_at: 2026-04-17T15:05:25.971568+00:00
+acceptance_rate: "93.750%"
+collected_at: "2026-04-17T15:05:25.971568+00:00"
 ---
 
 ## 문제

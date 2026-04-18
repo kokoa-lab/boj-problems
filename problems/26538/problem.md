@@ -1,13 +1,13 @@
 ---
-title: Scarecrows
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Scarecrows"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 45
 accepted: 30
 solved_users: 24
-acceptance_rate: 70.588%
-collected_at: 2026-04-17T17:47:33.685065+00:00
+acceptance_rate: "70.588%"
+collected_at: "2026-04-17T17:47:33.685065+00:00"
 ---
 
 ## 문제

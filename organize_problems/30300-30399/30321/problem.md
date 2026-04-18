@@ -1,13 +1,13 @@
 ---
-title: Cutting into Monotone Increasing Sequence
-special_judge: false
-time_limit: 3 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Cutting into Monotone Increasing Sequence"
+special_judge: "false"
+time_limit: "3 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 179
 accepted: 49
 solved_users: 44
-acceptance_rate: 34.375%
-collected_at: 2026-04-17T19:03:12.375876+00:00
+acceptance_rate: "34.375%"
+collected_at: "2026-04-17T19:03:12.375876+00:00"
 ---
 
 ## 문제

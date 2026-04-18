@@ -1,13 +1,13 @@
 ---
-title: 고인물의 졸업 계획
-special_judge: true
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "고인물의 졸업 계획"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 612
 accepted: 230
 solved_users: 164
-acceptance_rate: 39.329%
-collected_at: 2026-04-17T18:18:00.617064+00:00
+acceptance_rate: "39.329%"
+collected_at: "2026-04-17T18:18:00.617064+00:00"
 ---
 
 ## 문제

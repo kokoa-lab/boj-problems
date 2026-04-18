@@ -1,13 +1,13 @@
 ---
-title: Abstract Extract
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Abstract Extract"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 32
 accepted: 2
 solved_users: 2
-acceptance_rate: 13.333%
-collected_at: 2026-04-17T11:07:35.669934+00:00
+acceptance_rate: "13.333%"
+collected_at: "2026-04-17T11:07:35.669934+00:00"
 ---
 
 ## 문제

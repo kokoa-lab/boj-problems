@@ -1,13 +1,13 @@
 ---
-title: Count the Regions
-special_judge: false
-time_limit: 5 초
-memory_limit: 128 MB
+title: "Count the Regions"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "128 MB"
 submissions: 48
 accepted: 29
 solved_users: 24
-acceptance_rate: 64.865%
-collected_at: 2026-04-17T12:11:46.915395+00:00
+acceptance_rate: "64.865%"
+collected_at: "2026-04-17T12:11:46.915395+00:00"
 ---
 
 ## 문제

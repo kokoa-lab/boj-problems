@@ -1,13 +1,13 @@
 ---
-title: Black Friday
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Black Friday"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 444
 accepted: 320
 solved_users: 295
-acceptance_rate: 72.482%
-collected_at: 2026-04-17T12:38:06.448571+00:00
+acceptance_rate: "72.482%"
+collected_at: "2026-04-17T12:38:06.448571+00:00"
 ---
 
 ## 문제

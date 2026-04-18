@@ -1,13 +1,13 @@
 ---
-title: TripTik
-special_judge: false
-time_limit: 9 초
-memory_limit: 512 MB
+title: "TripTik"
+special_judge: "false"
+time_limit: "9 초"
+memory_limit: "512 MB"
 submissions: 117
 accepted: 41
 solved_users: 24
-acceptance_rate: 25.532%
-collected_at: 2026-04-17T15:49:08.095551+00:00
+acceptance_rate: "25.532%"
+collected_at: "2026-04-17T15:49:08.095551+00:00"
 ---
 
 ## 문제

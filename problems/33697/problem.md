@@ -1,13 +1,13 @@
 ---
-title: 드론 라이트 쇼
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "드론 라이트 쇼"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 132
 accepted: 74
 solved_users: 48
-acceptance_rate: 63.158%
-collected_at: 2026-04-17T20:21:48.042929+00:00
+acceptance_rate: "63.158%"
+collected_at: "2026-04-17T20:21:48.042929+00:00"
 ---
 
 ## 문제

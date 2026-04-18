@@ -1,13 +1,13 @@
 ---
-title: 원숭이
-special_judge: true
-time_limit: 1 초
-memory_limit: 128 MB
+title: "원숭이"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 1276
 accepted: 441
 solved_users: 326
-acceptance_rate: 38.218%
-collected_at: 2026-04-17T10:42:17.784611+00:00
+acceptance_rate: "38.218%"
+collected_at: "2026-04-17T10:42:17.784611+00:00"
 ---
 
 ## 문제

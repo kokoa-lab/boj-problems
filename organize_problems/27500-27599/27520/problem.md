@@ -1,13 +1,13 @@
 ---
-title: 경찰서
-special_judge: true
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "경찰서"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 768
 accepted: 68
 solved_users: 25
-acceptance_rate: 4.167%
-collected_at: 2026-04-17T18:05:16.680412+00:00
+acceptance_rate: "4.167%"
+collected_at: "2026-04-17T18:05:16.680412+00:00"
 ---
 
 ## 문제

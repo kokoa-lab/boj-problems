@@ -1,13 +1,13 @@
 ---
-title: Eldberget
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Eldberget"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 31
 accepted: 21
 solved_users: 21
-acceptance_rate: 67.742%
-collected_at: 2026-04-17T15:42:08.355899+00:00
+acceptance_rate: "67.742%"
+collected_at: "2026-04-17T15:42:08.355899+00:00"
 ---
 
 ## 문제

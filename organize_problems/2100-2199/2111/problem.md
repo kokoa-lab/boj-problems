@@ -1,13 +1,13 @@
 ---
-title: 선인장
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "선인장"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 443
 accepted: 89
 solved_users: 67
-acceptance_rate: 21.003%
-collected_at: 2026-04-17T10:38:28.437169+00:00
+acceptance_rate: "21.003%"
+collected_at: "2026-04-17T10:38:28.437169+00:00"
 ---
 
 ## 문제

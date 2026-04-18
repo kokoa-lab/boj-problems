@@ -1,13 +1,13 @@
 ---
-title: 교도소
-special_judge: false
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "교도소"
+special_judge: "false"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 300
 accepted: 131
 solved_users: 100
-acceptance_rate: 43.860%
-collected_at: 2026-04-17T20:40:10.128497+00:00
+acceptance_rate: "43.860%"
+collected_at: "2026-04-17T20:40:10.128497+00:00"
 ---
 
 ## 문제

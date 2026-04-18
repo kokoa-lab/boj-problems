@@ -1,13 +1,13 @@
 ---
-title: 체커
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "체커"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 2685
 accepted: 1025
 solved_users: 737
-acceptance_rate: 39.391%
-collected_at: 2026-04-17T10:28:09.993206+00:00
+acceptance_rate: "39.391%"
+collected_at: "2026-04-17T10:28:09.993206+00:00"
 ---
 
 ## 문제

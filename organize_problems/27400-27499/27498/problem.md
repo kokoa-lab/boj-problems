@@ -1,13 +1,13 @@
 ---
-title: 연애 혁명
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "연애 혁명"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 683
 accepted: 457
 solved_users: 401
-acceptance_rate: 67.508%
-collected_at: 2026-04-17T18:04:32.784421+00:00
+acceptance_rate: "67.508%"
+collected_at: "2026-04-17T18:04:32.784421+00:00"
 ---
 
 ## 문제

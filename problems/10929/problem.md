@@ -1,13 +1,13 @@
 ---
-title: SHA-224
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "SHA-224"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 678
 accepted: 556
 solved_users: 531
-acceptance_rate: 83.491%
-collected_at: 2026-04-17T12:31:48.561334+00:00
+acceptance_rate: "83.491%"
+collected_at: "2026-04-17T12:31:48.561334+00:00"
 ---
 
 ## 문제

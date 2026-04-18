@@ -1,13 +1,13 @@
 ---
-title: Gene Folding
-special_judge: false
-time_limit: 5 초 (추가 시간 없음)
-memory_limit: 2048 MB
+title: "Gene Folding"
+special_judge: "false"
+time_limit: "5 초 (추가 시간 없음)"
+memory_limit: "2048 MB"
 submissions: 71
 accepted: 38
 solved_users: 36
-acceptance_rate: 59.016%
-collected_at: 2026-04-17T16:43:55.698445+00:00
+acceptance_rate: "59.016%"
+collected_at: "2026-04-17T16:43:55.698445+00:00"
 ---
 
 ## 문제

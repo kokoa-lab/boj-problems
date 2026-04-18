@@ -1,13 +1,13 @@
 ---
-title: 점심시간 레이스
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "점심시간 레이스"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 1448
 accepted: 860
 solved_users: 750
-acceptance_rate: 60.631%
-collected_at: 2026-04-17T18:20:42.504098+00:00
+acceptance_rate: "60.631%"
+collected_at: "2026-04-17T18:20:42.504098+00:00"
 ---
 
 ## 문제

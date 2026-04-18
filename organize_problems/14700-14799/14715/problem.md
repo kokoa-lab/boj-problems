@@ -1,13 +1,13 @@
 ---
-title: 전생했더니 슬라임 연구자였던 건에 대하여 (Easy)
-special_judge: false
-time_limit: 0.5 초
-memory_limit: 512 MB
+title: "전생했더니 슬라임 연구자였던 건에 대하여 (Easy)"
+special_judge: "false"
+time_limit: "0.5 초"
+memory_limit: "512 MB"
 submissions: 1864
 accepted: 723
 solved_users: 620
-acceptance_rate: 40.870%
-collected_at: 2026-04-17T13:40:51.025838+00:00
+acceptance_rate: "40.870%"
+collected_at: "2026-04-17T13:40:51.025838+00:00"
 ---
 
 ## 문제

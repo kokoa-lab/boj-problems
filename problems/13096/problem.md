@@ -1,13 +1,13 @@
 ---
-title: Flowers
-special_judge: true
-time_limit: 8 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "Flowers"
+special_judge: "true"
+time_limit: "8 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 75
 accepted: 26
 solved_users: 20
-acceptance_rate: 31.746%
-collected_at: 2026-04-17T13:07:30.866190+00:00
+acceptance_rate: "31.746%"
+collected_at: "2026-04-17T13:07:30.866190+00:00"
 ---
 
 ## 문제

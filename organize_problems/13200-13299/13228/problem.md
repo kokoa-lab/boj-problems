@@ -1,13 +1,13 @@
 ---
-title: The REAL Manhattan distance
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "The REAL Manhattan distance"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 762
 accepted: 674
 solved_users: 616
-acceptance_rate: 89.927%
-collected_at: 2026-04-17T13:09:44.428496+00:00
+acceptance_rate: "89.927%"
+collected_at: "2026-04-17T13:09:44.428496+00:00"
 ---
 
 ## 문제

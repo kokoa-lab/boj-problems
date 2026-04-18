@@ -1,13 +1,13 @@
 ---
-title: 두 섬간의 이동
-special_judge: false
-time_limit: 1 초
-memory_limit: 16 MB
+title: "두 섬간의 이동"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "16 MB"
 submissions: 494
 accepted: 182
 solved_users: 158
-acceptance_rate: 40.102%
-collected_at: 2026-04-17T12:31:06.065556+00:00
+acceptance_rate: "40.102%"
+collected_at: "2026-04-17T12:31:06.065556+00:00"
 ---
 
 ## 문제

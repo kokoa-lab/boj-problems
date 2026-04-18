@@ -1,13 +1,13 @@
 ---
-title: Square Ice
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Square Ice"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 21
 accepted: 15
 solved_users: 13
-acceptance_rate: 68.421%
-collected_at: 2026-04-17T11:48:37.244892+00:00
+acceptance_rate: "68.421%"
+collected_at: "2026-04-17T11:48:37.244892+00:00"
 ---
 
 ## 문제

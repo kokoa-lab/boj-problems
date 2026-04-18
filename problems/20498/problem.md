@@ -1,13 +1,13 @@
 ---
-title: C = 15
-special_judge: false
-time_limit: 1.515 초
-memory_limit: 1515 MB
+title: "C = 15"
+special_judge: "false"
+time_limit: "1.515 초"
+memory_limit: "1515 MB"
 submissions: 160
 accepted: 41
 solved_users: 29
-acceptance_rate: 21.324%
-collected_at: 2026-04-17T15:37:11.548920+00:00
+acceptance_rate: "21.324%"
+collected_at: "2026-04-17T15:37:11.548920+00:00"
 ---
 
 ## 문제

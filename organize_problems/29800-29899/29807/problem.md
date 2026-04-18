@@ -1,13 +1,13 @@
 ---
-title: 학번을 찾아줘!
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "학번을 찾아줘!"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 3167
 accepted: 1621
 solved_users: 1529
-acceptance_rate: 52.706%
-collected_at: 2026-04-17T18:53:18.583959+00:00
+acceptance_rate: "52.706%"
+collected_at: "2026-04-17T18:53:18.583959+00:00"
 ---
 
 ## 문제

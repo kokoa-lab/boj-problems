@@ -1,13 +1,13 @@
 ---
-title: Coatless in Yakutsk
-special_judge: false
-time_limit: 1 초
-memory_limit: 2048 MB
+title: "Coatless in Yakutsk"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "2048 MB"
 submissions: 30
 accepted: 22
 solved_users: 21
-acceptance_rate: 84.000%
-collected_at: 2026-04-17T20:47:15.005013+00:00
+acceptance_rate: "84.000%"
+collected_at: "2026-04-17T20:47:15.005013+00:00"
 ---
 
 ## 문제

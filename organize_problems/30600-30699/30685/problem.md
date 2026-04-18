@@ -1,13 +1,13 @@
 ---
-title: 버터 녹이기
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "버터 녹이기"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 699
 accepted: 278
 solved_users: 221
-acceptance_rate: 42.176%
-collected_at: 2026-04-17T19:12:28.937522+00:00
+acceptance_rate: "42.176%"
+collected_at: "2026-04-17T19:12:28.937522+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Core Training (Small2)
-special_judge: true
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Core Training (Small2)"
+special_judge: "true"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 24
 accepted: 6
 solved_users: 6
-acceptance_rate: 50.000%
-collected_at: 2026-04-17T13:42:19.193560+00:00
+acceptance_rate: "50.000%"
+collected_at: "2026-04-17T13:42:19.193560+00:00"
 ---
 
 ## 문제

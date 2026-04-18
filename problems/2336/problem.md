@@ -1,13 +1,13 @@
 ---
-title: 굉장한 학생
-special_judge: false
-time_limit: 2 초
-memory_limit: 192 MB
+title: "굉장한 학생"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "192 MB"
 submissions: 5617
 accepted: 2567
 solved_users: 1907
-acceptance_rate: 45.655%
-collected_at: 2026-04-17T10:40:46.378017+00:00
+acceptance_rate: "45.655%"
+collected_at: "2026-04-17T10:40:46.378017+00:00"
 ---
 
 ## 문제

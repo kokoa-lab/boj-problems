@@ -1,13 +1,13 @@
 ---
-title: Cars
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Cars"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 19
 accepted: 12
 solved_users: 12
-acceptance_rate: 63.158%
-collected_at: 2026-04-17T12:16:33.827869+00:00
+acceptance_rate: "63.158%"
+collected_at: "2026-04-17T12:16:33.827869+00:00"
 ---
 
 ## 문제

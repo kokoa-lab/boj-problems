@@ -1,13 +1,13 @@
 ---
-title: Washer
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Washer"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 1852
 accepted: 329
 solved_users: 189
-acceptance_rate: 15.479%
-collected_at: 2026-04-17T14:51:31.821930+00:00
+acceptance_rate: "15.479%"
+collected_at: "2026-04-17T14:51:31.821930+00:00"
 ---
 
 ## 문제

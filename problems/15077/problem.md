@@ -1,13 +1,13 @@
 ---
-title: Waif Until Dark
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Waif Until Dark"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 12
 accepted: 7
 solved_users: 7
-acceptance_rate: 58.333%
-collected_at: 2026-04-17T13:50:10.713248+00:00
+acceptance_rate: "58.333%"
+collected_at: "2026-04-17T13:50:10.713248+00:00"
 ---
 
 ## 문제

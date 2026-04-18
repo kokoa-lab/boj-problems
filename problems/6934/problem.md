@@ -1,13 +1,13 @@
 ---
-title: Cookies
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Cookies"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 155
 accepted: 113
 solved_users: 96
-acceptance_rate: 72.727%
-collected_at: 2026-04-17T11:41:04.294920+00:00
+acceptance_rate: "72.727%"
+collected_at: "2026-04-17T11:41:04.294920+00:00"
 ---
 
 ## 문제

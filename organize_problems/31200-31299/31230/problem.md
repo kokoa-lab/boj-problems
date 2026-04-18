@@ -1,13 +1,13 @@
 ---
-title: 모비스터디
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "모비스터디"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 1594
 accepted: 508
 solved_users: 371
-acceptance_rate: 29.444%
-collected_at: 2026-04-17T19:24:17.684064+00:00
+acceptance_rate: "29.444%"
+collected_at: "2026-04-17T19:24:17.684064+00:00"
 ---
 
 ## 문제

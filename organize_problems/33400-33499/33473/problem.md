@@ -1,13 +1,13 @@
 ---
-title: Bee Tea Again
-special_judge: false
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "Bee Tea Again"
+special_judge: "false"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 117
 accepted: 41
 solved_users: 17
-acceptance_rate: 28.333%
-collected_at: 2026-04-17T20:16:49.649225+00:00
+acceptance_rate: "28.333%"
+collected_at: "2026-04-17T20:16:49.649225+00:00"
 ---
 
 ## 문제

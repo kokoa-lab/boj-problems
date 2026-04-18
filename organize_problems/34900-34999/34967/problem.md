@@ -1,13 +1,13 @@
 ---
-title: 최대공약수 완충재
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "최대공약수 완충재"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 446
 accepted: 127
 solved_users: 101
-acceptance_rate: 32.476%
-collected_at: 2026-04-17T20:52:53.144492+00:00
+acceptance_rate: "32.476%"
+collected_at: "2026-04-17T20:52:53.144492+00:00"
 ---
 
 ## 문제

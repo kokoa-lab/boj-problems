@@ -1,13 +1,13 @@
 ---
-title: Беспилотное такси
-special_judge: false
-time_limit: 3 초
-memory_limit: 512 MB
+title: "Беспилотное такси"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "512 MB"
 submissions: 28
 accepted: 9
 solved_users: 9
-acceptance_rate: 39.130%
-collected_at: 2026-04-17T15:29:11.153659+00:00
+acceptance_rate: "39.130%"
+collected_at: "2026-04-17T15:29:11.153659+00:00"
 ---
 
 ## 문제

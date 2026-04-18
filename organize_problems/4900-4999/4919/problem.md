@@ -1,13 +1,13 @@
 ---
-title: Being Smarty!
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Being Smarty!"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 160
 accepted: 36
 solved_users: 24
-acceptance_rate: 17.778%
-collected_at: 2026-04-17T11:10:01.823642+00:00
+acceptance_rate: "17.778%"
+collected_at: "2026-04-17T11:10:01.823642+00:00"
 ---
 
 ## 문제

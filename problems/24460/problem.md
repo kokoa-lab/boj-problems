@@ -1,13 +1,13 @@
 ---
-title: 특별상이라도 받고 싶어
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "특별상이라도 받고 싶어"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 2883
 accepted: 1298
 solved_users: 1080
-acceptance_rate: 44.408%
-collected_at: 2026-04-17T17:09:43.542506+00:00
+acceptance_rate: "44.408%"
+collected_at: "2026-04-17T17:09:43.542506+00:00"
 ---
 
 ## 문제

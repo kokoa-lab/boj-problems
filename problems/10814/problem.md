@@ -1,13 +1,13 @@
 ---
-title: 나이순 정렬
-special_judge: false
-time_limit: 3 초
-memory_limit: 256 MB
+title: "나이순 정렬"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "256 MB"
 submissions: 195903
 accepted: 91534
 solved_users: 70540
-acceptance_rate: 45.150%
-collected_at: 2026-04-17T12:29:59.260775+00:00
+acceptance_rate: "45.150%"
+collected_at: "2026-04-17T12:29:59.260775+00:00"
 ---
 
 ## 문제

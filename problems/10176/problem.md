@@ -1,13 +1,13 @@
 ---
-title: Opposite Words
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Opposite Words"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 374
 accepted: 270
 solved_users: 240
-acceptance_rate: 76.433%
-collected_at: 2026-04-17T12:19:59.669306+00:00
+acceptance_rate: "76.433%"
+collected_at: "2026-04-17T12:19:59.669306+00:00"
 ---
 
 ## 문제

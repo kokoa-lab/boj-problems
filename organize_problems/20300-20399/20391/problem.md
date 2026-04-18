@@ -1,13 +1,13 @@
 ---
-title: Treasure Hunt
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Treasure Hunt"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 20
 accepted: 4
 solved_users: 4
-acceptance_rate: 21.053%
-collected_at: 2026-04-17T15:35:57.030371+00:00
+acceptance_rate: "21.053%"
+collected_at: "2026-04-17T15:35:57.030371+00:00"
 ---
 
 ## 문제

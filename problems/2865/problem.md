@@ -1,13 +1,13 @@
 ---
-title: 나는 위대한 슈퍼스타K
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "나는 위대한 슈퍼스타K"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 2568
 accepted: 1154
 solved_users: 980
-acceptance_rate: 45.455%
-collected_at: 2026-04-17T10:45:21.864597+00:00
+acceptance_rate: "45.455%"
+collected_at: "2026-04-17T10:45:21.864597+00:00"
 ---
 
 ## 문제

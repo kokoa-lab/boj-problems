@@ -1,13 +1,13 @@
 ---
-title: Observation Wheel (Large)
-special_judge: true
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Observation Wheel (Large)"
+special_judge: "true"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 7
 accepted: 2
 solved_users: 2
-acceptance_rate: 28.571%
-collected_at: 2026-04-17T12:53:19.913465+00:00
+acceptance_rate: "28.571%"
+collected_at: "2026-04-17T12:53:19.913465+00:00"
 ---
 
 ## 문제

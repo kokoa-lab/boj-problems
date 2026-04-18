@@ -1,13 +1,13 @@
 ---
-title: Parket
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Parket"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 12
 accepted: 5
 solved_users: 5
-acceptance_rate: 62.500%
-collected_at: 2026-04-17T13:25:40.856035+00:00
+acceptance_rate: "62.500%"
+collected_at: "2026-04-17T13:25:40.856035+00:00"
 ---
 
 ## 문제

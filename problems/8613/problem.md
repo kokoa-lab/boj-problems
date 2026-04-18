@@ -1,13 +1,13 @@
 ---
-title: Kalendarze
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Kalendarze"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 18
 accepted: 15
 solved_users: 14
-acceptance_rate: 82.353%
-collected_at: 2026-04-17T12:01:23.096088+00:00
+acceptance_rate: "82.353%"
+collected_at: "2026-04-17T12:01:23.096088+00:00"
 ---
 
 ## 문제

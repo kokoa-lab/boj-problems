@@ -1,13 +1,13 @@
 ---
-title: Frog
-special_judge: false
-time_limit: 3 초
-memory_limit: 512 MB
+title: "Frog"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "512 MB"
 submissions: 190
 accepted: 73
 solved_users: 55
-acceptance_rate: 36.667%
-collected_at: 2026-04-17T11:57:05.198397+00:00
+acceptance_rate: "36.667%"
+collected_at: "2026-04-17T11:57:05.198397+00:00"
 ---
 
 ## 문제

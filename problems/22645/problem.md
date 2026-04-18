@@ -1,13 +1,13 @@
 ---
-title: Cache Control
-special_judge: false
-time_limit: 8 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "Cache Control"
+special_judge: "false"
+time_limit: "8 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 155
 accepted: 71
 solved_users: 47
-acceptance_rate: 50.538%
-collected_at: 2026-04-17T16:30:11.407619+00:00
+acceptance_rate: "50.538%"
+collected_at: "2026-04-17T16:30:11.407619+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Polygon Revolution
-special_judge: true
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Polygon Revolution"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 50
 accepted: 6
 solved_users: 4
-acceptance_rate: 14.286%
-collected_at: 2026-04-17T16:35:31.149921+00:00
+acceptance_rate: "14.286%"
+collected_at: "2026-04-17T16:35:31.149921+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 복권 + 은행
-special_judge: true
-time_limit: 2 초
-memory_limit: 512 MB
+title: "복권 + 은행"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 460
 accepted: 329
 solved_users: 284
-acceptance_rate: 71.000%
-collected_at: 2026-04-17T13:10:15.141010+00:00
+acceptance_rate: "71.000%"
+collected_at: "2026-04-17T13:10:15.141010+00:00"
 ---
 
 ## 문제

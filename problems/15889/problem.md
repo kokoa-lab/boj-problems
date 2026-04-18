@@ -1,13 +1,13 @@
 ---
-title: 호 안에 수류탄이야!!
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "호 안에 수류탄이야!!"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 2974
 accepted: 892
 solved_users: 678
-acceptance_rate: 29.478%
-collected_at: 2026-04-17T14:08:13.768004+00:00
+acceptance_rate: "29.478%"
+collected_at: "2026-04-17T14:08:13.768004+00:00"
 ---
 
 ## 문제

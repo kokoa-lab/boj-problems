@@ -1,13 +1,13 @@
 ---
-title: Star Trek
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "Star Trek"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 1491
 accepted: 578
 solved_users: 372
-acceptance_rate: 39.117%
-collected_at: 2026-04-17T14:41:14.693724+00:00
+acceptance_rate: "39.117%"
+collected_at: "2026-04-17T14:41:14.693724+00:00"
 ---
 
 ## 문제

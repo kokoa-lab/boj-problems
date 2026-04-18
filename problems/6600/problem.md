@@ -1,13 +1,13 @@
 ---
-title: 원의 둘레
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "원의 둘레"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 883
 accepted: 469
 solved_users: 417
-acceptance_rate: 57.438%
-collected_at: 2026-04-17T11:31:24.582880+00:00
+acceptance_rate: "57.438%"
+collected_at: "2026-04-17T11:31:24.582880+00:00"
 ---
 
 ## 문제

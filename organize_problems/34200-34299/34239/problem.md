@@ -1,13 +1,13 @@
 ---
-title: 플러스 마이너스 합 최대
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "플러스 마이너스 합 최대"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 258
 accepted: 96
 solved_users: 76
-acceptance_rate: 35.681%
-collected_at: 2026-04-17T20:33:42.875914+00:00
+acceptance_rate: "35.681%"
+collected_at: "2026-04-17T20:33:42.875914+00:00"
 ---
 
 ## 문제

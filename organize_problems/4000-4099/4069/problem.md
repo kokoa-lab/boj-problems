@@ -1,13 +1,13 @@
 ---
-title: Hie with the Pie
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Hie with the Pie"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 65
 accepted: 42
 solved_users: 37
-acceptance_rate: 66.071%
-collected_at: 2026-04-17T10:55:26.341531+00:00
+acceptance_rate: "66.071%"
+collected_at: "2026-04-17T10:55:26.341531+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: When Do We Finish?
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "When Do We Finish?"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 1039
 accepted: 690
 solved_users: 648
-acceptance_rate: 66.462%
-collected_at: 2026-04-17T11:11:19.326306+00:00
+acceptance_rate: "66.462%"
+collected_at: "2026-04-17T11:11:19.326306+00:00"
 ---
 
 ## 문제

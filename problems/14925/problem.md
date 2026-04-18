@@ -1,13 +1,13 @@
 ---
-title: 목장 건설하기
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "목장 건설하기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 3656
 accepted: 1511
 solved_users: 1165
-acceptance_rate: 40.339%
-collected_at: 2026-04-17T13:45:43.206711+00:00
+acceptance_rate: "40.339%"
+collected_at: "2026-04-17T13:45:43.206711+00:00"
 ---
 
 ## 문제

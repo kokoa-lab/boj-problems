@@ -1,13 +1,13 @@
 ---
-title: 제1회 구데기그릇 (홀수형)
-special_judge: true
-time_limit: 1.3 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "제1회 구데기그릇 (홀수형)"
+special_judge: "true"
+time_limit: "1.3 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 1503
 accepted: 21
 solved_users: 10
-acceptance_rate: 2.762%
-collected_at: 2026-04-17T17:16:55.903301+00:00
+acceptance_rate: "2.762%"
+collected_at: "2026-04-17T17:16:55.903301+00:00"
 ---
 
 ## 문제

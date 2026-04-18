@@ -1,13 +1,13 @@
 ---
-title: 최대 직사각형
-special_judge: false
-time_limit: 3 초
-memory_limit: 512 MB
+title: "최대 직사각형"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "512 MB"
 submissions: 1910
 accepted: 870
 solved_users: 611
-acceptance_rate: 48.880%
-collected_at: 2026-04-17T12:47:14.035020+00:00
+acceptance_rate: "48.880%"
+collected_at: "2026-04-17T12:47:14.035020+00:00"
 ---
 
 ## 문제

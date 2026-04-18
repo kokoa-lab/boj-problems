@@ -1,13 +1,13 @@
 ---
-title: 트리
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "트리"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 81128
 accepted: 25746
 solved_users: 19105
-acceptance_rate: 30.903%
-collected_at: 2026-04-17T10:27:59.642088+00:00
+acceptance_rate: "30.903%"
+collected_at: "2026-04-17T10:27:59.642088+00:00"
 ---
 
 ## 문제

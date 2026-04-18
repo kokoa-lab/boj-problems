@@ -1,13 +1,13 @@
 ---
-title: 로마 카톨릭 미사
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "로마 카톨릭 미사"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 1456
 accepted: 621
 solved_users: 545
-acceptance_rate: 44.930%
-collected_at: 2026-04-17T12:10:47.995820+00:00
+acceptance_rate: "44.930%"
+collected_at: "2026-04-17T12:10:47.995820+00:00"
 ---
 
 ## 문제

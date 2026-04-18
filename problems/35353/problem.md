@@ -1,13 +1,13 @@
 ---
-title: 神経衰弱 2 (Pair Matching 2)
-special_judge: false
-time_limit: 1 초
-memory_limit: 2048 MB
+title: "神経衰弱 2 (Pair Matching 2)"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "2048 MB"
 submissions: 11
 accepted: 4
 solved_users: 4
-acceptance_rate: 57.143%
-collected_at: 2026-04-18T09:51:41.608686+00:00
+acceptance_rate: "57.143%"
+collected_at: "2026-04-18T09:51:41.608686+00:00"
 ---
 
 ## 문제

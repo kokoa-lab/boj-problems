@@ -1,13 +1,13 @@
 ---
-title: James Ferraro - Live at Primavera Sound 2012
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "James Ferraro - Live at Primavera Sound 2012"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 122
 accepted: 50
 solved_users: 31
-acceptance_rate: 36.905%
-collected_at: 2026-04-17T19:43:00.009349+00:00
+acceptance_rate: "36.905%"
+collected_at: "2026-04-17T19:43:00.009349+00:00"
 ---
 
 ## 문제

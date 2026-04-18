@@ -1,13 +1,13 @@
 ---
-title: 엔토피아의 기억강화
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "엔토피아의 기억강화"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 192
 accepted: 101
 solved_users: 90
-acceptance_rate: 56.962%
-collected_at: 2026-04-17T16:45:34.765551+00:00
+acceptance_rate: "56.962%"
+collected_at: "2026-04-17T16:45:34.765551+00:00"
 ---
 
 ## 문제

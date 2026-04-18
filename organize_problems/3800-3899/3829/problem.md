@@ -1,13 +1,13 @@
 ---
-title: Sliding Block Puzzle
-special_judge: false
-time_limit: 5 초
-memory_limit: 128 MB
+title: "Sliding Block Puzzle"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "128 MB"
 submissions: 43
 accepted: 23
 solved_users: 20
-acceptance_rate: 60.606%
-collected_at: 2026-04-17T10:52:15.718430+00:00
+acceptance_rate: "60.606%"
+collected_at: "2026-04-17T10:52:15.718430+00:00"
 ---
 
 ## 문제

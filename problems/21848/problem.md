@@ -1,13 +1,13 @@
 ---
-title: The short shank; Redemption
-special_judge: false
-time_limit: 1.5 초
-memory_limit: 512 MB
+title: "The short shank; Redemption"
+special_judge: "false"
+time_limit: "1.5 초"
+memory_limit: "512 MB"
 submissions: 112
 accepted: 30
 solved_users: 24
-acceptance_rate: 26.966%
-collected_at: 2026-04-17T16:08:48.528991+00:00
+acceptance_rate: "26.966%"
+collected_at: "2026-04-17T16:08:48.528991+00:00"
 ---
 
 ## 문제

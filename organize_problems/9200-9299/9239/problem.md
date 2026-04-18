@@ -1,13 +1,13 @@
 ---
-title: 스티브 잡숭
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "스티브 잡숭"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 1177
 accepted: 117
 solved_users: 99
-acceptance_rate: 12.992%
-collected_at: 2026-04-17T12:08:10.643833+00:00
+acceptance_rate: "12.992%"
+collected_at: "2026-04-17T12:08:10.643833+00:00"
 ---
 
 ## 문제

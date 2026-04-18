@@ -1,13 +1,13 @@
 ---
-title: Rain Gauge
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Rain Gauge"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 49
 accepted: 33
 solved_users: 31
-acceptance_rate: 68.889%
-collected_at: 2026-04-17T17:37:11.656287+00:00
+acceptance_rate: "68.889%"
+collected_at: "2026-04-17T17:37:11.656287+00:00"
 ---
 
 ## 문제

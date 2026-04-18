@@ -1,13 +1,13 @@
 ---
-title: ∑|ΔEasyMAX|
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "∑|ΔEasyMAX|"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 1352
 accepted: 1120
 solved_users: 994
-acceptance_rate: 83.250%
-collected_at: 2026-04-17T14:32:52.486903+00:00
+acceptance_rate: "83.250%"
+collected_at: "2026-04-17T14:32:52.486903+00:00"
 ---
 
 ## 문제

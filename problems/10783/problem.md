@@ -1,13 +1,13 @@
 ---
-title: Tug of War
-special_judge: false
-time_limit: 3 초
-memory_limit: 256 MB
+title: "Tug of War"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "256 MB"
 submissions: 107
 accepted: 19
 solved_users: 13
-acceptance_rate: 15.476%
-collected_at: 2026-04-17T12:29:27.949570+00:00
+acceptance_rate: "15.476%"
+collected_at: "2026-04-17T12:29:27.949570+00:00"
 ---
 
 ## 문제

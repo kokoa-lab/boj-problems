@@ -1,13 +1,13 @@
 ---
-title: 디스크 트리
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "디스크 트리"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 2321
 accepted: 1410
 solved_users: 1077
-acceptance_rate: 61.755%
-collected_at: 2026-04-17T11:49:21.769980+00:00
+acceptance_rate: "61.755%"
+collected_at: "2026-04-17T11:49:21.769980+00:00"
 ---
 
 ## 문제

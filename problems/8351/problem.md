@@ -1,13 +1,13 @@
 ---
-title: Mosaicism
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Mosaicism"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 41
 accepted: 10
 solved_users: 9
-acceptance_rate: 47.368%
-collected_at: 2026-04-17T11:58:42.521949+00:00
+acceptance_rate: "47.368%"
+collected_at: "2026-04-17T11:58:42.521949+00:00"
 ---
 
 ## 문제

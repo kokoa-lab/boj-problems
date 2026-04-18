@@ -1,13 +1,13 @@
 ---
-title: Hidden Hierarchy
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Hidden Hierarchy"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 57
 accepted: 44
 solved_users: 39
-acceptance_rate: 76.471%
-collected_at: 2026-04-17T13:56:15.766941+00:00
+acceptance_rate: "76.471%"
+collected_at: "2026-04-17T13:56:15.766941+00:00"
 ---
 
 ## 문제

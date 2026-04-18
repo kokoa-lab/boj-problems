@@ -1,13 +1,13 @@
 ---
-title: 커여운 키위
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "커여운 키위"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 423
 accepted: 108
 solved_users: 95
-acceptance_rate: 26.912%
-collected_at: 2026-04-17T16:55:00.966918+00:00
+acceptance_rate: "26.912%"
+collected_at: "2026-04-17T16:55:00.966918+00:00"
 ---
 
 ## 문제

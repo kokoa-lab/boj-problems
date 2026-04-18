@@ -1,13 +1,13 @@
 ---
-title: Combination Lock
-special_judge: false
-time_limit: 40 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Combination Lock"
+special_judge: "false"
+time_limit: "40 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 58
 accepted: 26
 solved_users: 20
-acceptance_rate: 50.000%
-collected_at: 2026-04-17T16:58:22.612797+00:00
+acceptance_rate: "50.000%"
+collected_at: "2026-04-17T16:58:22.612797+00:00"
 ---
 
 ## 문제

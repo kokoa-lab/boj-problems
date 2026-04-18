@@ -1,13 +1,13 @@
 ---
-title: Triple Jump
-special_judge: false
-time_limit: 1 초
-memory_limit: 2048 MB
+title: "Triple Jump"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "2048 MB"
 submissions: 103
 accepted: 68
 solved_users: 63
-acceptance_rate: 66.316%
-collected_at: 2026-04-17T20:44:55.512599+00:00
+acceptance_rate: "66.316%"
+collected_at: "2026-04-17T20:44:55.512599+00:00"
 ---
 
 ## 문제

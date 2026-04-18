@@ -1,13 +1,13 @@
 ---
-title: Ancient Machine
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "Ancient Machine"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 140
 accepted: 15
 solved_users: 15
-acceptance_rate: 14.851%
-collected_at: 2026-04-17T16:07:50.111967+00:00
+acceptance_rate: "14.851%"
+collected_at: "2026-04-17T16:07:50.111967+00:00"
 ---
 
 ## 문제

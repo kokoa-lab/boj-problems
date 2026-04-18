@@ -1,13 +1,13 @@
 ---
-title: Flood
-special_judge: true
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Flood"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 58
 accepted: 26
 solved_users: 24
-acceptance_rate: 58.537%
-collected_at: 2026-04-17T11:14:19.249247+00:00
+acceptance_rate: "58.537%"
+collected_at: "2026-04-17T11:14:19.249247+00:00"
 ---
 
 ## 문제

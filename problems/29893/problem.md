@@ -1,13 +1,13 @@
 ---
-title: 데이터 분석
-special_judge: true
-time_limit: 3 초
-memory_limit: 1024 MB
+title: "데이터 분석"
+special_judge: "true"
+time_limit: "3 초"
+memory_limit: "1024 MB"
 submissions: 115
 accepted: 26
 solved_users: 22
-acceptance_rate: 26.506%
-collected_at: 2026-04-17T18:54:58.742567+00:00
+acceptance_rate: "26.506%"
+collected_at: "2026-04-17T18:54:58.742567+00:00"
 ---
 
 ## 문제

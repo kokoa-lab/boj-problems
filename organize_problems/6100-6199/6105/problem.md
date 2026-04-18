@@ -1,13 +1,13 @@
 ---
-title: Look Up
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Look Up"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 130
 accepted: 72
 solved_users: 67
-acceptance_rate: 61.468%
-collected_at: 2026-04-17T11:20:15.624193+00:00
+acceptance_rate: "61.468%"
+collected_at: "2026-04-17T11:20:15.624193+00:00"
 ---
 
 ## 문제

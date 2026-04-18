@@ -1,13 +1,13 @@
 ---
-title: 옛날에는 조판을 어떻게 했을까?
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "옛날에는 조판을 어떻게 했을까?"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 247
 accepted: 27
 solved_users: 19
-acceptance_rate: 16.964%
-collected_at: 2026-04-17T10:43:57.293419+00:00
+acceptance_rate: "16.964%"
+collected_at: "2026-04-17T10:43:57.293419+00:00"
 ---
 
 ## 문제

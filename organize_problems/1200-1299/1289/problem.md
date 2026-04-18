@@ -1,13 +1,13 @@
 ---
-title: 트리의 가중치
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "트리의 가중치"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 3710
 accepted: 1341
 solved_users: 902
-acceptance_rate: 32.932%
-collected_at: 2026-04-17T10:29:18.178165+00:00
+acceptance_rate: "32.932%"
+collected_at: "2026-04-17T10:29:18.178165+00:00"
 ---
 
 ## 문제

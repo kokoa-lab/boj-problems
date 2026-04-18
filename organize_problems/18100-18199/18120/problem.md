@@ -1,13 +1,13 @@
 ---
-title: 대농부 김상혁
-special_judge: true
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "대농부 김상혁"
+special_judge: "true"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 639
 accepted: 241
 solved_users: 182
-acceptance_rate: 36.183%
-collected_at: 2026-04-17T14:55:58.095628+00:00
+acceptance_rate: "36.183%"
+collected_at: "2026-04-17T14:55:58.095628+00:00"
 ---
 
 ## 문제

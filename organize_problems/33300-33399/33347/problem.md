@@ -1,13 +1,13 @@
 ---
-title: Segments and Subsets
-special_judge: false
-time_limit: 2 초
-memory_limit: 2048 MB
+title: "Segments and Subsets"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "2048 MB"
 submissions: 6
 accepted: 4
 solved_users: 3
-acceptance_rate: 60.000%
-collected_at: 2026-04-17T20:14:12.537656+00:00
+acceptance_rate: "60.000%"
+collected_at: "2026-04-17T20:14:12.537656+00:00"
 ---
 
 ## 문제

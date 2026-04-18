@@ -1,13 +1,13 @@
 ---
-title: Triangulation
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Triangulation"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 725
 accepted: 388
 solved_users: 310
-acceptance_rate: 52.991%
-collected_at: 2026-04-17T14:51:28.153250+00:00
+acceptance_rate: "52.991%"
+collected_at: "2026-04-17T14:51:28.153250+00:00"
 ---
 
 ## 문제

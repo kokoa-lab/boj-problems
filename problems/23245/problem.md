@@ -1,13 +1,13 @@
 ---
-title: Similarity
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Similarity"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 547
 accepted: 216
 solved_users: 192
-acceptance_rate: 42.013%
-collected_at: 2026-04-17T16:44:55.806664+00:00
+acceptance_rate: "42.013%"
+collected_at: "2026-04-17T16:44:55.806664+00:00"
 ---
 
 ## 문제

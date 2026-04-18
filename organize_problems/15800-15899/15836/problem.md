@@ -1,13 +1,13 @@
 ---
-title: Matrix Multiplication Calculator
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Matrix Multiplication Calculator"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 364
 accepted: 185
 solved_users: 163
-acceptance_rate: 55.442%
-collected_at: 2026-04-17T14:07:24.692043+00:00
+acceptance_rate: "55.442%"
+collected_at: "2026-04-17T14:07:24.692043+00:00"
 ---
 
 ## 문제

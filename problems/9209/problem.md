@@ -1,13 +1,13 @@
 ---
-title: The King of the North
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "The King of the North"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 317
 accepted: 86
 solved_users: 67
-acceptance_rate: 25.769%
-collected_at: 2026-04-17T12:07:55.982313+00:00
+acceptance_rate: "25.769%"
+collected_at: "2026-04-17T12:07:55.982313+00:00"
 ---
 
 ## 문제

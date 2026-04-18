@@ -1,13 +1,13 @@
 ---
-title: Piet
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "Piet"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 1070
 accepted: 319
 solved_users: 209
-acceptance_rate: 29.645%
-collected_at: 2026-04-17T14:09:07.507784+00:00
+acceptance_rate: "29.645%"
+collected_at: "2026-04-17T14:09:07.507784+00:00"
 ---
 
 ## 문제

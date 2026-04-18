@@ -1,13 +1,13 @@
 ---
-title: Fusion
-special_judge: false
-time_limit: 15 초
-memory_limit: 512 MB
+title: "Fusion"
+special_judge: "false"
+time_limit: "15 초"
+memory_limit: "512 MB"
 submissions: 260
 accepted: 41
 solved_users: 28
-acceptance_rate: 13.930%
-collected_at: 2026-04-17T13:53:06.001556+00:00
+acceptance_rate: "13.930%"
+collected_at: "2026-04-17T13:53:06.001556+00:00"
 ---
 
 ## 문제

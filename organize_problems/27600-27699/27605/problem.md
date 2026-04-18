@@ -1,13 +1,13 @@
 ---
-title: 기지 간소화
-special_judge: false
-time_limit: 4 초
-memory_limit: 1024 MB
+title: "기지 간소화"
+special_judge: "false"
+time_limit: "4 초"
+memory_limit: "1024 MB"
 submissions: 318
 accepted: 100
 solved_users: 70
-acceptance_rate: 27.344%
-collected_at: 2026-04-17T18:07:25.149283+00:00
+acceptance_rate: "27.344%"
+collected_at: "2026-04-17T18:07:25.149283+00:00"
 ---
 
 ## 문제

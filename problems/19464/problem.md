@@ -1,13 +1,13 @@
 ---
-title: King's Roads
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "King's Roads"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 78
 accepted: 27
 solved_users: 24
-acceptance_rate: 36.923%
-collected_at: 2026-04-17T15:20:44.102853+00:00
+acceptance_rate: "36.923%"
+collected_at: "2026-04-17T15:20:44.102853+00:00"
 ---
 
 ## 문제

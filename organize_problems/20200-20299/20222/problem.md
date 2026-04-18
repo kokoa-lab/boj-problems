@@ -1,13 +1,13 @@
 ---
-title: Jam-packed
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Jam-packed"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 148
 accepted: 83
 solved_users: 75
-acceptance_rate: 55.970%
-collected_at: 2026-04-17T15:33:16.617706+00:00
+acceptance_rate: "55.970%"
+collected_at: "2026-04-17T15:33:16.617706+00:00"
 ---
 
 ## 문제

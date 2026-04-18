@@ -1,13 +1,13 @@
 ---
-title: Две строки
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Две строки"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 193
 accepted: 69
 solved_users: 44
-acceptance_rate: 29.139%
-collected_at: 2026-04-17T16:03:37.204190+00:00
+acceptance_rate: "29.139%"
+collected_at: "2026-04-17T16:03:37.204190+00:00"
 ---
 
 ## 문제

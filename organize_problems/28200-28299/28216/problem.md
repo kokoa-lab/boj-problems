@@ -1,13 +1,13 @@
 ---
-title: 아이템 획득
-special_judge: false
-time_limit: 3 초
-memory_limit: 1024 MB
+title: "아이템 획득"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "1024 MB"
 submissions: 1256
 accepted: 384
 solved_users: 248
-acceptance_rate: 34.734%
-collected_at: 2026-04-17T18:20:16.651940+00:00
+acceptance_rate: "34.734%"
+collected_at: "2026-04-17T18:20:16.651940+00:00"
 ---
 
 ## 문제

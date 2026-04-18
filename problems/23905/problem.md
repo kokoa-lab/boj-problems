@@ -1,13 +1,13 @@
 ---
-title: Countdown
-special_judge: false
-time_limit: 20 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Countdown"
+special_judge: "false"
+time_limit: "20 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 841
 accepted: 301
 solved_users: 188
-acceptance_rate: 35.140%
-collected_at: 2026-04-17T16:57:25.444704+00:00
+acceptance_rate: "35.140%"
+collected_at: "2026-04-17T16:57:25.444704+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 올바른 괄호
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "올바른 괄호"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 840
 accepted: 365
 solved_users: 314
-acceptance_rate: 53.311%
-collected_at: 2026-04-17T17:11:03.280544+00:00
+acceptance_rate: "53.311%"
+collected_at: "2026-04-17T17:11:03.280544+00:00"
 ---
 
 ## 문제

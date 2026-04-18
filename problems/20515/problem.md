@@ -1,13 +1,13 @@
 ---
-title: Поездка на каникулах
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Поездка на каникулах"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 7
 accepted: 1
 solved_users: 1
-acceptance_rate: 100.000%
-collected_at: 2026-04-17T15:37:26.379450+00:00
+acceptance_rate: "100.000%"
+collected_at: "2026-04-17T15:37:26.379450+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Disposable Switches
-special_judge: false
-time_limit: 4 초
-memory_limit: 512 MB
+title: "Disposable Switches"
+special_judge: "false"
+time_limit: "4 초"
+memory_limit: "512 MB"
 submissions: 176
 accepted: 54
 solved_users: 44
-acceptance_rate: 30.556%
-collected_at: 2026-04-17T14:55:22.611124+00:00
+acceptance_rate: "30.556%"
+collected_at: "2026-04-17T14:55:22.611124+00:00"
 ---
 
 ## 문제

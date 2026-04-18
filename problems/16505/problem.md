@@ -1,13 +1,13 @@
 ---
-title: 별
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "별"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 2307
 accepted: 1097
 solved_users: 842
-acceptance_rate: 47.814%
-collected_at: 2026-04-17T14:19:09.026509+00:00
+acceptance_rate: "47.814%"
+collected_at: "2026-04-17T14:19:09.026509+00:00"
 ---
 
 ## 문제

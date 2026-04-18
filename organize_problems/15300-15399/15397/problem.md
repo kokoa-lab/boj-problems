@@ -1,13 +1,13 @@
 ---
-title: Looping Playlist
-special_judge: false
-time_limit: 1.5 초
-memory_limit: 512 MB
+title: "Looping Playlist"
+special_judge: "false"
+time_limit: "1.5 초"
+memory_limit: "512 MB"
 submissions: 162
 accepted: 41
 solved_users: 28
-acceptance_rate: 27.451%
-collected_at: 2026-04-17T13:58:32.683233+00:00
+acceptance_rate: "27.451%"
+collected_at: "2026-04-17T13:58:32.683233+00:00"
 ---
 
 ## 문제

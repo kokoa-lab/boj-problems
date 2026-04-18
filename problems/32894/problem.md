@@ -1,13 +1,13 @@
 ---
-title: Flowing Fountain
-special_judge: false
-time_limit: 5 초 (추가 시간 없음)
-memory_limit: 2048 MB
+title: "Flowing Fountain"
+special_judge: "false"
+time_limit: "5 초 (추가 시간 없음)"
+memory_limit: "2048 MB"
 submissions: 69
 accepted: 50
 solved_users: 49
-acceptance_rate: 74.242%
-collected_at: 2026-04-17T20:03:49.040734+00:00
+acceptance_rate: "74.242%"
+collected_at: "2026-04-17T20:03:49.040734+00:00"
 ---
 
 ## 문제

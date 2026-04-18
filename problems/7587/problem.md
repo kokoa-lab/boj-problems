@@ -1,13 +1,13 @@
 ---
-title: Anagrams
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Anagrams"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 285
 accepted: 194
 solved_users: 139
-acceptance_rate: 69.500%
-collected_at: 2026-04-17T11:50:57.218354+00:00
+acceptance_rate: "69.500%"
+collected_at: "2026-04-17T11:50:57.218354+00:00"
 ---
 
 ## 문제

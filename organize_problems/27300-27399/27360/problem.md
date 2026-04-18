@@ -1,13 +1,13 @@
 ---
-title: 입자 실험
-special_judge: false
-time_limit: 1.5 초
-memory_limit: 512 MB
+title: "입자 실험"
+special_judge: "false"
+time_limit: "1.5 초"
+memory_limit: "512 MB"
 submissions: 39
 accepted: 29
 solved_users: 25
-acceptance_rate: 73.529%
-collected_at: 2026-04-17T18:01:32.408589+00:00
+acceptance_rate: "73.529%"
+collected_at: "2026-04-17T18:01:32.408589+00:00"
 ---
 
 ## 문제

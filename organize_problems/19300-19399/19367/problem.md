@@ -1,13 +1,13 @@
 ---
-title: Compressed LCS
-special_judge: false
-time_limit: 3 초
-memory_limit: 512 MB
+title: "Compressed LCS"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "512 MB"
 submissions: 84
 accepted: 10
 solved_users: 8
-acceptance_rate: 14.035%
-collected_at: 2026-04-17T15:18:09.718498+00:00
+acceptance_rate: "14.035%"
+collected_at: "2026-04-17T15:18:09.718498+00:00"
 ---
 
 ## 문제

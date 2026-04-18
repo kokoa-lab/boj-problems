@@ -1,13 +1,13 @@
 ---
-title: Booming Business
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Booming Business"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 46
 accepted: 31
 solved_users: 26
-acceptance_rate: 68.421%
-collected_at: 2026-04-17T13:47:41.286898+00:00
+acceptance_rate: "68.421%"
+collected_at: "2026-04-17T13:47:41.286898+00:00"
 ---
 
 ## 문제

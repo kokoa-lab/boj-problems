@@ -1,13 +1,13 @@
 ---
-title: Palindromic Length
-special_judge: false
-time_limit: 0.5 초
-memory_limit: 2048 MB
+title: "Palindromic Length"
+special_judge: "false"
+time_limit: "0.5 초"
+memory_limit: "2048 MB"
 submissions: 154
 accepted: 39
 solved_users: 24
-acceptance_rate: 28.916%
-collected_at: 2026-04-17T20:02:19.595490+00:00
+acceptance_rate: "28.916%"
+collected_at: "2026-04-17T20:02:19.595490+00:00"
 ---
 
 ## 문제

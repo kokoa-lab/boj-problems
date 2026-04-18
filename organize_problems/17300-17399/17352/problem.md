@@ -1,13 +1,13 @@
 ---
-title: 여러분의 다리가 되어 드리겠습니다!
-special_judge: true
-time_limit: 1 초
-memory_limit: 512 MB
+title: "여러분의 다리가 되어 드리겠습니다!"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 6244
 accepted: 3171
 solved_users: 2539
-acceptance_rate: 50.417%
-collected_at: 2026-04-17T14:37:34.978630+00:00
+acceptance_rate: "50.417%"
+collected_at: "2026-04-17T14:37:34.978630+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 큐빙
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "큐빙"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 18070
 accepted: 7158
 solved_users: 5009
-acceptance_rate: 38.748%
-collected_at: 2026-04-17T11:13:19.411115+00:00
+acceptance_rate: "38.748%"
+collected_at: "2026-04-17T11:13:19.411115+00:00"
 ---
 
 ## 문제

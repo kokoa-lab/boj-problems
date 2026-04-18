@@ -1,13 +1,13 @@
 ---
-title: 인경호의 징검다리
-special_judge: false
-time_limit: 5 초
-memory_limit: 256 MB
+title: "인경호의 징검다리"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "256 MB"
 submissions: 658
 accepted: 190
 solved_users: 154
-acceptance_rate: 33.118%
-collected_at: 2026-04-17T12:42:29.938684+00:00
+acceptance_rate: "33.118%"
+collected_at: "2026-04-17T12:42:29.938684+00:00"
 ---
 
 ## 문제

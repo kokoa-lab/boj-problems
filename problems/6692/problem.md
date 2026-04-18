@@ -1,13 +1,13 @@
 ---
-title: Interesting Maze Game
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Interesting Maze Game"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 29
 accepted: 12
 solved_users: 8
-acceptance_rate: 32.000%
-collected_at: 2026-04-17T11:33:14.040804+00:00
+acceptance_rate: "32.000%"
+collected_at: "2026-04-17T11:33:14.040804+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 체스로 도미노를 타자
-special_judge: false
-time_limit: 3 초
-memory_limit: 128 MB
+title: "체스로 도미노를 타자"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "128 MB"
 submissions: 1025
 accepted: 287
 solved_users: 211
-acceptance_rate: 27.654%
-collected_at: 2026-04-17T12:16:48.905670+00:00
+acceptance_rate: "27.654%"
+collected_at: "2026-04-17T12:16:48.905670+00:00"
 ---
 
 ## 문제

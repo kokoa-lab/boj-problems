@@ -1,13 +1,13 @@
 ---
-title: Death Knight Hero
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Death Knight Hero"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 946
 accepted: 641
 solved_users: 609
-acceptance_rate: 67.817%
-collected_at: 2026-04-17T11:10:52.733782+00:00
+acceptance_rate: "67.817%"
+collected_at: "2026-04-17T11:10:52.733782+00:00"
 ---
 
 ## 문제

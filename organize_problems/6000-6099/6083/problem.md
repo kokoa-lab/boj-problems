@@ -1,13 +1,13 @@
 ---
-title: The Baric Bovine
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "The Baric Bovine"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 17
 accepted: 10
 solved_users: 9
-acceptance_rate: 56.250%
-collected_at: 2026-04-17T11:20:02.973927+00:00
+acceptance_rate: "56.250%"
+collected_at: "2026-04-17T11:20:02.973927+00:00"
 ---
 
 ## 문제

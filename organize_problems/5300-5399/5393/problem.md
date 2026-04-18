@@ -1,13 +1,13 @@
 ---
-title: Collatz
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Collatz"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 854
 accepted: 252
 solved_users: 214
-acceptance_rate: 32.923%
-collected_at: 2026-04-17T11:13:31.735329+00:00
+acceptance_rate: "32.923%"
+collected_at: "2026-04-17T11:13:31.735329+00:00"
 ---
 
 ## 문제

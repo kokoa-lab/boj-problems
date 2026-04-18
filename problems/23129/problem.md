@@ -1,13 +1,13 @@
 ---
-title: Counting Pairs
-special_judge: false
-time_limit: 4 초
-memory_limit: 256 MB
+title: "Counting Pairs"
+special_judge: "false"
+time_limit: "4 초"
+memory_limit: "256 MB"
 submissions: 32
 accepted: 9
 solved_users: 9
-acceptance_rate: 32.143%
-collected_at: 2026-04-17T16:42:39.774074+00:00
+acceptance_rate: "32.143%"
+collected_at: "2026-04-17T16:42:39.774074+00:00"
 ---
 
 ## 문제

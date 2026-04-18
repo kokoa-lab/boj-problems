@@ -1,13 +1,13 @@
 ---
-title: 아름다운 이름
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "아름다운 이름"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 3466
 accepted: 626
 solved_users: 380
-acceptance_rate: 17.732%
-collected_at: 2026-04-17T10:46:33.711827+00:00
+acceptance_rate: "17.732%"
+collected_at: "2026-04-17T10:46:33.711827+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Делители
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Делители"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 23
 accepted: 11
 solved_users: 6
-acceptance_rate: 37.500%
-collected_at: 2026-04-17T16:02:28.730973+00:00
+acceptance_rate: "37.500%"
+collected_at: "2026-04-17T16:02:28.730973+00:00"
 ---
 
 ## 문제

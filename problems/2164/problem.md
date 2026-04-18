@@ -1,13 +1,13 @@
 ---
-title: 카드2
-special_judge: false
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 128 MB
+title: "카드2"
+special_judge: "false"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "128 MB"
 submissions: 178003
 accepted: 93977
 solved_users: 72360
-acceptance_rate: 51.395%
-collected_at: 2026-04-17T10:39:05.412268+00:00
+acceptance_rate: "51.395%"
+collected_at: "2026-04-17T10:39:05.412268+00:00"
 ---
 
 ## 문제

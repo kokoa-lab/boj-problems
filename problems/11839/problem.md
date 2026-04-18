@@ -1,13 +1,13 @@
 ---
-title: Beautiful row
-special_judge: false
-time_limit: 3 초
-memory_limit: 256 MB
+title: "Beautiful row"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "256 MB"
 submissions: 84
 accepted: 37
 solved_users: 32
-acceptance_rate: 45.714%
-collected_at: 2026-04-17T12:46:49.499017+00:00
+acceptance_rate: "45.714%"
+collected_at: "2026-04-17T12:46:49.499017+00:00"
 ---
 
 ## 문제

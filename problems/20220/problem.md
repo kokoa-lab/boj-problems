@@ -1,13 +1,13 @@
 ---
-title: Human Pyramid
-special_judge: false
-time_limit: 2.5 초
-memory_limit: 512 MB
+title: "Human Pyramid"
+special_judge: "false"
+time_limit: "2.5 초"
+memory_limit: "512 MB"
 submissions: 83
 accepted: 46
 solved_users: 43
-acceptance_rate: 55.844%
-collected_at: 2026-04-17T15:33:11.645443+00:00
+acceptance_rate: "55.844%"
+collected_at: "2026-04-17T15:33:11.645443+00:00"
 ---
 
 ## 문제

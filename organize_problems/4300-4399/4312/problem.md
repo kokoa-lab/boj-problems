@@ -1,13 +1,13 @@
 ---
-title: 3의 제곱
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "3의 제곱"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 748
 accepted: 350
 solved_users: 304
-acceptance_rate: 48.331%
-collected_at: 2026-04-17T10:59:20.337273+00:00
+acceptance_rate: "48.331%"
+collected_at: "2026-04-17T10:59:20.337273+00:00"
 ---
 
 ## 문제

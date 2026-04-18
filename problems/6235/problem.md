@@ -1,13 +1,13 @@
 ---
-title: Argus
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Argus"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 64
 accepted: 43
 solved_users: 39
-acceptance_rate: 66.102%
-collected_at: 2026-04-17T11:23:30.780217+00:00
+acceptance_rate: "66.102%"
+collected_at: "2026-04-17T11:23:30.780217+00:00"
 ---
 
 ## 문제

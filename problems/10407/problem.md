@@ -1,13 +1,13 @@
 ---
-title: 2 타워
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "2 타워"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 747
 accepted: 553
 solved_users: 472
-acceptance_rate: 76.748%
-collected_at: 2026-04-17T12:23:10.662047+00:00
+acceptance_rate: "76.748%"
+collected_at: "2026-04-17T12:23:10.662047+00:00"
 ---
 
 ## 문제

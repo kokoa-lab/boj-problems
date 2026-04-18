@@ -1,13 +1,13 @@
 ---
-title: 알파벳 개수
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "알파벳 개수"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 71870
 accepted: 48920
 solved_users: 38192
-acceptance_rate: 68.140%
-collected_at: 2026-04-17T12:29:51.739876+00:00
+acceptance_rate: "68.140%"
+collected_at: "2026-04-17T12:29:51.739876+00:00"
 ---
 
 ## 문제

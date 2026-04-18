@@ -1,13 +1,13 @@
 ---
-title: Hiking
-special_judge: false
-time_limit: 10 초
-memory_limit: 512 MB
+title: "Hiking"
+special_judge: "false"
+time_limit: "10 초"
+memory_limit: "512 MB"
 submissions: 16
 accepted: 5
 solved_users: 5
-acceptance_rate: 33.333%
-collected_at: 2026-04-17T13:19:01.463438+00:00
+acceptance_rate: "33.333%"
+collected_at: "2026-04-17T13:19:01.463438+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 25시, 나이트 코포에서
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "25시, 나이트 코포에서"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 180
 accepted: 91
 solved_users: 52
-acceptance_rate: 53.608%
-collected_at: 2026-04-17T18:59:01.785911+00:00
+acceptance_rate: "53.608%"
+collected_at: "2026-04-17T18:59:01.785911+00:00"
 ---
 
 ## 문제

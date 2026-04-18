@@ -1,13 +1,13 @@
 ---
-title: Red John Game
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "Red John Game"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 829
 accepted: 282
 solved_users: 226
-acceptance_rate: 34.985%
-collected_at: 2026-04-17T12:08:27.574185+00:00
+acceptance_rate: "34.985%"
+collected_at: "2026-04-17T12:08:27.574185+00:00"
 ---
 
 ## 문제

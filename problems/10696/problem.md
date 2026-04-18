@@ -1,13 +1,13 @@
 ---
-title: Prof. Ossama
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Prof. Ossama"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 584
 accepted: 274
 solved_users: 231
-acceptance_rate: 45.833%
-collected_at: 2026-04-17T12:27:36.195854+00:00
+acceptance_rate: "45.833%"
+collected_at: "2026-04-17T12:27:36.195854+00:00"
 ---
 
 ## 문제

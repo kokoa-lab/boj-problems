@@ -1,13 +1,13 @@
 ---
-title: 좀
-special_judge: true
-time_limit: 2 초
-memory_limit: 128 MB
+title: "좀"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 269
 accepted: 104
 solved_users: 54
-acceptance_rate: 33.333%
-collected_at: 2026-04-17T10:38:36.141288+00:00
+acceptance_rate: "33.333%"
+collected_at: "2026-04-17T10:38:36.141288+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 모임과 쿼리
-special_judge: false
-time_limit: 3 초
-memory_limit: 1024 MB
+title: "모임과 쿼리"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "1024 MB"
 submissions: 83
 accepted: 26
 solved_users: 17
-acceptance_rate: 24.638%
-collected_at: 2026-04-17T20:33:54.524611+00:00
+acceptance_rate: "24.638%"
+collected_at: "2026-04-17T20:33:54.524611+00:00"
 ---
 
 ## 문제

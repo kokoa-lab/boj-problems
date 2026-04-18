@@ -1,13 +1,13 @@
 ---
-title: 종이 자르기
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "종이 자르기"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 1083
 accepted: 137
 solved_users: 95
-acceptance_rate: 12.211%
-collected_at: 2026-04-17T10:28:49.216047+00:00
+acceptance_rate: "12.211%"
+collected_at: "2026-04-17T10:28:49.216047+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: London Underground
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "London Underground"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 1
 accepted: 1
 solved_users: 1
-acceptance_rate: 100.000%
-collected_at: 2026-04-17T13:02:21.018648+00:00
+acceptance_rate: "100.000%"
+collected_at: "2026-04-17T13:02:21.018648+00:00"
 ---
 
 ## 문제

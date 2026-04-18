@@ -1,13 +1,13 @@
 ---
-title: Site Score
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Site Score"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 8035
 accepted: 7220
 solved_users: 6985
-acceptance_rate: 90.129%
-collected_at: 2026-04-17T15:33:46.051967+00:00
+acceptance_rate: "90.129%"
+collected_at: "2026-04-17T15:33:46.051967+00:00"
 ---
 
 ## 문제

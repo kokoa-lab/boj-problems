@@ -1,13 +1,13 @@
 ---
-title: 복붙하기
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "복붙하기"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 871
 accepted: 186
 solved_users: 130
-acceptance_rate: 21.776%
-collected_at: 2026-04-17T14:48:23.619290+00:00
+acceptance_rate: "21.776%"
+collected_at: "2026-04-17T14:48:23.619290+00:00"
 ---
 
 ## 문제

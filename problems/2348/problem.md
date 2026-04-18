@@ -1,13 +1,13 @@
 ---
-title: 내가 무릎을 꿇은 것은 추진력을 얻기 위함이었다
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "내가 무릎을 꿇은 것은 추진력을 얻기 위함이었다"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 321
 accepted: 72
 solved_users: 54
-acceptance_rate: 20.611%
-collected_at: 2026-04-17T10:40:52.307875+00:00
+acceptance_rate: "20.611%"
+collected_at: "2026-04-17T10:40:52.307875+00:00"
 ---
 
 ## 문제

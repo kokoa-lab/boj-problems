@@ -1,13 +1,13 @@
 ---
-title: Baza
-special_judge: false
-time_limit: 1 초
-memory_limit: 64 MB
+title: "Baza"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "64 MB"
 submissions: 211
 accepted: 194
 solved_users: 168
-acceptance_rate: 90.811%
-collected_at: 2026-04-17T12:50:28.922520+00:00
+acceptance_rate: "90.811%"
+collected_at: "2026-04-17T12:50:28.922520+00:00"
 ---
 
 ## 문제

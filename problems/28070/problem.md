@@ -1,13 +1,13 @@
 ---
-title: 유니의 편지 쓰기
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "유니의 편지 쓰기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 1035
 accepted: 410
 solved_users: 331
-acceptance_rate: 39.546%
-collected_at: 2026-04-17T18:17:39.442669+00:00
+acceptance_rate: "39.546%"
+collected_at: "2026-04-17T18:17:39.442669+00:00"
 ---
 
 ## 문제

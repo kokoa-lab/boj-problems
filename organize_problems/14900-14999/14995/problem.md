@@ -1,13 +1,13 @@
 ---
-title: Horror Film Night
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Horror Film Night"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 162
 accepted: 79
 solved_users: 65
-acceptance_rate: 46.099%
-collected_at: 2026-04-17T13:47:50.542724+00:00
+acceptance_rate: "46.099%"
+collected_at: "2026-04-17T13:47:50.542724+00:00"
 ---
 
 ## 문제

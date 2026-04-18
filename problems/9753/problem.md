@@ -1,13 +1,13 @@
 ---
-title: 짝 곱
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "짝 곱"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 1476
 accepted: 755
 solved_users: 545
-acceptance_rate: 50.745%
-collected_at: 2026-04-17T12:14:04.385120+00:00
+acceptance_rate: "50.745%"
+collected_at: "2026-04-17T12:14:04.385120+00:00"
 ---
 
 ## 문제

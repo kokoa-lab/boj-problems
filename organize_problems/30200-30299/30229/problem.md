@@ -1,13 +1,13 @@
 ---
-title: Land Division
-special_judge: true
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Land Division"
+special_judge: "true"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 28
 accepted: 8
 solved_users: 7
-acceptance_rate: 29.167%
-collected_at: 2026-04-17T19:01:22.217343+00:00
+acceptance_rate: "29.167%"
+collected_at: "2026-04-17T19:01:22.217343+00:00"
 ---
 
 ## 문제

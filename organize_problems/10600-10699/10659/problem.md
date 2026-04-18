@@ -1,13 +1,13 @@
 ---
-title: Dictionary
-special_judge: false
-time_limit: 8 초 (추가 시간 없음)
-memory_limit: 256 MB
+title: "Dictionary"
+special_judge: "false"
+time_limit: "8 초 (추가 시간 없음)"
+memory_limit: "256 MB"
 submissions: 52
 accepted: 27
 solved_users: 27
-acceptance_rate: 71.053%
-collected_at: 2026-04-17T12:27:02.589305+00:00
+acceptance_rate: "71.053%"
+collected_at: "2026-04-17T12:27:02.589305+00:00"
 ---
 
 ## 문제

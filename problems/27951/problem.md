@@ -1,13 +1,13 @@
 ---
-title: 옷걸이
-special_judge: true
-time_limit: 1 초
-memory_limit: 256 MB
+title: "옷걸이"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 1513
 accepted: 575
 solved_users: 400
-acceptance_rate: 36.697%
-collected_at: 2026-04-17T18:15:27.188719+00:00
+acceptance_rate: "36.697%"
+collected_at: "2026-04-17T18:15:27.188719+00:00"
 ---
 
 ## 문제

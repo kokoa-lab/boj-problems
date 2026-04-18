@@ -1,13 +1,13 @@
 ---
-title: Easter Eggs
-special_judge: true
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Easter Eggs"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 148
 accepted: 86
 solved_users: 69
-acceptance_rate: 63.889%
-collected_at: 2026-04-17T13:48:03.864059+00:00
+acceptance_rate: "63.889%"
+collected_at: "2026-04-17T13:48:03.864059+00:00"
 ---
 
 ## 문제

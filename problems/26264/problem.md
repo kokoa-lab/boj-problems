@@ -1,13 +1,13 @@
 ---
-title: 빅데이터? 정보보호!
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "빅데이터? 정보보호!"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 2282
 accepted: 1539
 solved_users: 1373
-acceptance_rate: 67.370%
-collected_at: 2026-04-17T17:42:42.149825+00:00
+acceptance_rate: "67.370%"
+collected_at: "2026-04-17T17:42:42.149825+00:00"
 ---
 
 ## 문제

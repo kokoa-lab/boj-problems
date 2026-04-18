@@ -1,13 +1,13 @@
 ---
-title: Array Manipulation at Moloco (Easy)
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Array Manipulation at Moloco (Easy)"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 288
 accepted: 256
 solved_users: 220
-acceptance_rate: 91.286%
-collected_at: 2026-04-17T14:00:48.448275+00:00
+acceptance_rate: "91.286%"
+collected_at: "2026-04-17T14:00:48.448275+00:00"
 ---
 
 ## 문제

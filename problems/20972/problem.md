@@ -1,13 +1,13 @@
 ---
-title: Spaced Out
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Spaced Out"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 289
 accepted: 206
 solved_users: 178
-acceptance_rate: 74.790%
-collected_at: 2026-04-17T15:44:25.890726+00:00
+acceptance_rate: "74.790%"
+collected_at: "2026-04-17T15:44:25.890726+00:00"
 ---
 
 ## 문제

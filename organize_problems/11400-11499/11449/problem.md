@@ -1,13 +1,13 @@
 ---
-title: Icelandic Motorclubs
-special_judge: true
-time_limit: 3 초
-memory_limit: 256 MB
+title: "Icelandic Motorclubs"
+special_judge: "true"
+time_limit: "3 초"
+memory_limit: "256 MB"
 submissions: 52
 accepted: 35
 solved_users: 30
-acceptance_rate: 66.667%
-collected_at: 2026-04-17T12:40:54.035421+00:00
+acceptance_rate: "66.667%"
+collected_at: "2026-04-17T12:40:54.035421+00:00"
 ---
 
 ## 문제

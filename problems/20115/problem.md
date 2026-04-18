@@ -1,13 +1,13 @@
 ---
-title: 에너지 드링크
-special_judge: true
-time_limit: 1 초
-memory_limit: 256 MB
+title: "에너지 드링크"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 5055
 accepted: 3696
 solved_users: 3067
-acceptance_rate: 72.868%
-collected_at: 2026-04-17T15:31:56.113700+00:00
+acceptance_rate: "72.868%"
+collected_at: "2026-04-17T15:31:56.113700+00:00"
 ---
 
 ## 문제

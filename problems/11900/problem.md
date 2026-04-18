@@ -1,13 +1,13 @@
 ---
-title: 차이 그래프
-special_judge: false
-time_limit: 1 초
-memory_limit: 32 MB
+title: "차이 그래프"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "32 MB"
 submissions: 449
 accepted: 111
 solved_users: 83
-acceptance_rate: 25.697%
-collected_at: 2026-04-17T12:47:29.097856+00:00
+acceptance_rate: "25.697%"
+collected_at: "2026-04-17T12:47:29.097856+00:00"
 ---
 
 ## 문제

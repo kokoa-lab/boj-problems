@@ -1,13 +1,13 @@
 ---
-title: 스프링클러
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "스프링클러"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 196
 accepted: 72
 solved_users: 56
-acceptance_rate: 34.568%
-collected_at: 2026-04-17T13:32:17.751648+00:00
+acceptance_rate: "34.568%"
+collected_at: "2026-04-17T13:32:17.751648+00:00"
 ---
 
 ## 문제

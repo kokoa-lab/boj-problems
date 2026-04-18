@@ -1,13 +1,13 @@
 ---
-title: The Silk Road . . . with Robots!
-special_judge: false
-time_limit: 5 초
-memory_limit: 1024 MB
+title: "The Silk Road . . . with Robots!"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "1024 MB"
 submissions: 19
 accepted: 9
 solved_users: 9
-acceptance_rate: 64.286%
-collected_at: 2026-04-17T19:51:02.200613+00:00
+acceptance_rate: "64.286%"
+collected_at: "2026-04-17T19:51:02.200613+00:00"
 ---
 
 ## 문제

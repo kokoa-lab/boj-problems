@@ -1,13 +1,13 @@
 ---
-title: 닌자배치
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "닌자배치"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 1356
 accepted: 511
 solved_users: 384
-acceptance_rate: 34.470%
-collected_at: 2026-04-17T10:54:26.934932+00:00
+acceptance_rate: "34.470%"
+collected_at: "2026-04-17T10:54:26.934932+00:00"
 ---
 
 ## 문제

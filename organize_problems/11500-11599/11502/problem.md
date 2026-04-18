@@ -1,13 +1,13 @@
 ---
-title: 세 개의 소수 문제
-special_judge: true
-time_limit: 1 초
-memory_limit: 256 MB
+title: "세 개의 소수 문제"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 4114
 accepted: 2469
 solved_users: 2053
-acceptance_rate: 61.615%
-collected_at: 2026-04-17T12:41:31.456576+00:00
+acceptance_rate: "61.615%"
+collected_at: "2026-04-17T12:41:31.456576+00:00"
 ---
 
 ## 문제

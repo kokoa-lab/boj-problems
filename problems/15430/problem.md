@@ -1,13 +1,13 @@
 ---
-title: Progressive Scramble
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Progressive Scramble"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 96
 accepted: 61
 solved_users: 53
-acceptance_rate: 66.250%
-collected_at: 2026-04-17T13:59:14.039427+00:00
+acceptance_rate: "66.250%"
+collected_at: "2026-04-17T13:59:14.039427+00:00"
 ---
 
 ## 문제

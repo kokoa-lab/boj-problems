@@ -1,13 +1,13 @@
 ---
-title: RPG 마스터 오명진
-special_judge: false
-time_limit: 0.3 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "RPG 마스터 오명진"
+special_judge: "false"
+time_limit: "0.3 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 2507
 accepted: 377
 solved_users: 294
-acceptance_rate: 16.243%
-collected_at: 2026-04-17T16:39:03.538654+00:00
+acceptance_rate: "16.243%"
+collected_at: "2026-04-17T16:39:03.538654+00:00"
 ---
 
 ## 문제

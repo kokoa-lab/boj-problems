@@ -1,13 +1,13 @@
 ---
-title: Операция <<Перестановка>>
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Операция <<Перестановка>>"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 13
 accepted: 9
 solved_users: 7
-acceptance_rate: 77.778%
-collected_at: 2026-04-17T15:27:21.433664+00:00
+acceptance_rate: "77.778%"
+collected_at: "2026-04-17T15:27:21.433664+00:00"
 ---
 
 ## 문제

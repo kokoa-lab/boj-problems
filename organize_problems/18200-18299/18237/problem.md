@@ -1,13 +1,13 @@
 ---
-title: 행렬 곱셈 순서 3
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "행렬 곱셈 순서 3"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 753
 accepted: 231
 solved_users: 138
-acceptance_rate: 48.421%
-collected_at: 2026-04-17T14:57:44.036712+00:00
+acceptance_rate: "48.421%"
+collected_at: "2026-04-17T14:57:44.036712+00:00"
 ---
 
 ## 문제

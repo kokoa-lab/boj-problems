@@ -1,13 +1,13 @@
 ---
-title: 사과와 바나나
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "사과와 바나나"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 2886
 accepted: 1128
 solved_users: 704
-acceptance_rate: 34.291%
-collected_at: 2026-04-17T10:46:48.660488+00:00
+acceptance_rate: "34.291%"
+collected_at: "2026-04-17T10:46:48.660488+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Round words
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "Round words"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 783
 accepted: 246
 solved_users: 202
-acceptance_rate: 36.266%
-collected_at: 2026-04-17T12:46:57.565607+00:00
+acceptance_rate: "36.266%"
+collected_at: "2026-04-17T12:46:57.565607+00:00"
 ---
 
 ## 문제

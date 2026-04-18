@@ -1,13 +1,13 @@
 ---
-title: RLE Inversion Counting
-special_judge: false
-time_limit: 3 초
-memory_limit: 1024 MB
+title: "RLE Inversion Counting"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "1024 MB"
 submissions: 278
 accepted: 114
 solved_users: 103
-acceptance_rate: 44.783%
-collected_at: 2026-04-17T18:31:05.045835+00:00
+acceptance_rate: "44.783%"
+collected_at: "2026-04-17T18:31:05.045835+00:00"
 ---
 
 ## 문제

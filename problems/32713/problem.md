@@ -1,13 +1,13 @@
 ---
-title: 숫자 POP
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "숫자 POP"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 369
 accepted: 190
 solved_users: 160
-acceptance_rate: 52.805%
-collected_at: 2026-04-17T19:59:39.902869+00:00
+acceptance_rate: "52.805%"
+collected_at: "2026-04-17T19:59:39.902869+00:00"
 ---
 
 ## 문제

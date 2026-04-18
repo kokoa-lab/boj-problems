@@ -1,13 +1,13 @@
 ---
-title: Graph Traveler
-special_judge: false
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "Graph Traveler"
+special_judge: "false"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 28
 accepted: 17
 solved_users: 16
-acceptance_rate: 59.259%
-collected_at: 2026-04-17T18:04:10.951258+00:00
+acceptance_rate: "59.259%"
+collected_at: "2026-04-17T18:04:10.951258+00:00"
 ---
 
 ## 문제

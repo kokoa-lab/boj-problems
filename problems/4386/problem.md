@@ -1,13 +1,13 @@
 ---
-title: 별자리 만들기
-special_judge: true
-time_limit: 1 초
-memory_limit: 128 MB
+title: "별자리 만들기"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 21376
 accepted: 12831
 solved_users: 10476
-acceptance_rate: 59.557%
-collected_at: 2026-04-17T11:00:40.378607+00:00
+acceptance_rate: "59.557%"
+collected_at: "2026-04-17T11:00:40.378607+00:00"
 ---
 
 ## 문제

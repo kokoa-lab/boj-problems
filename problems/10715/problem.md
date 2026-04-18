@@ -1,13 +1,13 @@
 ---
-title: JOI 공원
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "JOI 공원"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 700
 accepted: 339
 solved_users: 280
-acceptance_rate: 48.780%
-collected_at: 2026-04-17T12:27:52.035216+00:00
+acceptance_rate: "48.780%"
+collected_at: "2026-04-17T12:27:52.035216+00:00"
 ---
 
 ## 문제

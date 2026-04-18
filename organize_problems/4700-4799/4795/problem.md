@@ -1,13 +1,13 @@
 ---
-title: The Worm in the Apple
-special_judge: false
-time_limit: 15 초
-memory_limit: 128 MB
+title: "The Worm in the Apple"
+special_judge: "false"
+time_limit: "15 초"
+memory_limit: "128 MB"
 submissions: 135
 accepted: 47
 solved_users: 27
-acceptance_rate: 29.032%
-collected_at: 2026-04-17T11:08:33.080756+00:00
+acceptance_rate: "29.032%"
+collected_at: "2026-04-17T11:08:33.080756+00:00"
 ---
 
 ## 문제

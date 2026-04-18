@@ -1,13 +1,13 @@
 ---
-title: 삼각 초콜릿 포장 (Bitter)
-special_judge: true
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "삼각 초콜릿 포장 (Bitter)"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 122
 accepted: 67
 solved_users: 60
-acceptance_rate: 60.000%
-collected_at: 2026-04-17T19:28:46.222056+00:00
+acceptance_rate: "60.000%"
+collected_at: "2026-04-17T19:28:46.222056+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Spanning Trees
-special_judge: true
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Spanning Trees"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 37
 accepted: 20
 solved_users: 18
-acceptance_rate: 60.000%
-collected_at: 2026-04-17T15:18:22.615038+00:00
+acceptance_rate: "60.000%"
+collected_at: "2026-04-17T15:18:22.615038+00:00"
 ---
 
 ## 문제

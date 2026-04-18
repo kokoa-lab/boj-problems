@@ -1,13 +1,13 @@
 ---
-title: Amazing Tree
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Amazing Tree"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 68
 accepted: 31
 solved_users: 22
-acceptance_rate: 37.288%
-collected_at: 2026-04-17T19:22:23.019822+00:00
+acceptance_rate: "37.288%"
+collected_at: "2026-04-17T19:22:23.019822+00:00"
 ---
 
 ## 문제

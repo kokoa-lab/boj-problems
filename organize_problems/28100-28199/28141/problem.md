@@ -1,13 +1,13 @@
 ---
-title: Easy Interactive Problem
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Easy Interactive Problem"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 344
 accepted: 127
 solved_users: 89
-acceptance_rate: 31.228%
-collected_at: 2026-04-17T18:18:46.117126+00:00
+acceptance_rate: "31.228%"
+collected_at: "2026-04-17T18:18:46.117126+00:00"
 ---
 
 ## 문제

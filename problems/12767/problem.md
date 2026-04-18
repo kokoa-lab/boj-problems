@@ -1,13 +1,13 @@
 ---
-title: Ceiling Function
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Ceiling Function"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 969
 accepted: 534
 solved_users: 416
-acceptance_rate: 56.292%
-collected_at: 2026-04-17T13:01:04.136468+00:00
+acceptance_rate: "56.292%"
+collected_at: "2026-04-17T13:01:04.136468+00:00"
 ---
 
 ## 문제

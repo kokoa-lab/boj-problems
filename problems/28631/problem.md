@@ -1,13 +1,13 @@
 ---
-title: Змейка
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Змейка"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 8
 accepted: 1
 solved_users: 1
-acceptance_rate: 12.500%
-collected_at: 2026-04-17T18:29:46.126072+00:00
+acceptance_rate: "12.500%"
+collected_at: "2026-04-17T18:29:46.126072+00:00"
 ---
 
 ## 문제

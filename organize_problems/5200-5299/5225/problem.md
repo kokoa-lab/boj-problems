@@ -1,13 +1,13 @@
 ---
-title: Breaking Vigenère Cipher
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Breaking Vigenère Cipher"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 21
 accepted: 19
 solved_users: 14
-acceptance_rate: 93.333%
-collected_at: 2026-04-17T11:12:27.638869+00:00
+acceptance_rate: "93.333%"
+collected_at: "2026-04-17T11:12:27.638869+00:00"
 ---
 
 ## 문제

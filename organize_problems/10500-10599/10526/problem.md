@@ -1,13 +1,13 @@
 ---
-title: 왜판원 순회
-special_judge: false
-time_limit: 9 초
-memory_limit: 256 MB
+title: "왜판원 순회"
+special_judge: "false"
+time_limit: "9 초"
+memory_limit: "256 MB"
 submissions: 968
 accepted: 236
 solved_users: 163
-acceptance_rate: 23.453%
-collected_at: 2026-04-17T12:25:00.209144+00:00
+acceptance_rate: "23.453%"
+collected_at: "2026-04-17T12:25:00.209144+00:00"
 ---
 
 ## 문제

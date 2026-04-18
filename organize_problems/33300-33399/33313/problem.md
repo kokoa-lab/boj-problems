@@ -1,13 +1,13 @@
 ---
-title: Game With Triangles
-special_judge: false
-time_limit: 2 초
-memory_limit: 2048 MB
+title: "Game With Triangles"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "2048 MB"
 submissions: 63
 accepted: 41
 solved_users: 40
-acceptance_rate: 66.667%
-collected_at: 2026-04-17T20:13:27.612475+00:00
+acceptance_rate: "66.667%"
+collected_at: "2026-04-17T20:13:27.612475+00:00"
 ---
 
 ## 문제

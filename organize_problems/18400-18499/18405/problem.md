@@ -1,13 +1,13 @@
 ---
-title: 경쟁적 전염
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "경쟁적 전염"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 33795
 accepted: 11223
 solved_users: 7446
-acceptance_rate: 30.869%
-collected_at: 2026-04-17T15:02:55.345429+00:00
+acceptance_rate: "30.869%"
+collected_at: "2026-04-17T15:02:55.345429+00:00"
 ---
 
 ## 문제

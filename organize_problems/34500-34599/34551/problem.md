@@ -1,13 +1,13 @@
 ---
-title: 사과 농장
-special_judge: false
-time_limit: 3 초
-memory_limit: 1024 MB
+title: "사과 농장"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "1024 MB"
 submissions: 46
 accepted: 21
 solved_users: 18
-acceptance_rate: 54.545%
-collected_at: 2026-04-17T20:42:37.514270+00:00
+acceptance_rate: "54.545%"
+collected_at: "2026-04-17T20:42:37.514270+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 좀비 아포칼립스
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "좀비 아포칼립스"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 965
 accepted: 432
 solved_users: 248
-acceptance_rate: 39.490%
-collected_at: 2026-04-18T10:04:06.489620+00:00
+acceptance_rate: "39.490%"
+collected_at: "2026-04-18T10:04:06.489620+00:00"
 ---
 
 ## 문제

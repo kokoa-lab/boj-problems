@@ -1,13 +1,13 @@
 ---
-title: Lateral Damage
-special_judge: false
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Lateral Damage"
+special_judge: "false"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 234
 accepted: 84
 solved_users: 71
-acceptance_rate: 38.378%
-collected_at: 2026-04-17T19:17:56.647982+00:00
+acceptance_rate: "38.378%"
+collected_at: "2026-04-17T19:17:56.647982+00:00"
 ---
 
 ## 문제

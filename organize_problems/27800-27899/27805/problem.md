@@ -1,13 +1,13 @@
 ---
-title: Expogo
-special_judge: true
-time_limit: 20 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Expogo"
+special_judge: "true"
+time_limit: "20 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 0
 accepted: 0
 solved_users: 0
-acceptance_rate: 0.000%
-collected_at: 2026-04-17T18:11:31.054553+00:00
+acceptance_rate: "0.000%"
+collected_at: "2026-04-17T18:11:31.054553+00:00"
 ---
 
 ## 문제

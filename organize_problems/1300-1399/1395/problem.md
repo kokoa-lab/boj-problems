@@ -1,13 +1,13 @@
 ---
-title: 스위치
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "스위치"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 9999
 accepted: 4443
 solved_users: 3250
-acceptance_rate: 44.158%
-collected_at: 2026-04-17T10:29:54.896504+00:00
+acceptance_rate: "44.158%"
+collected_at: "2026-04-17T10:29:54.896504+00:00"
 ---
 
 ## 문제

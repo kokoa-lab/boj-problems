@@ -1,13 +1,13 @@
 ---
-title: Climbing Stairs
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Climbing Stairs"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 81
 accepted: 27
 solved_users: 24
-acceptance_rate: 40.000%
-collected_at: 2026-04-17T14:51:38.823455+00:00
+acceptance_rate: "40.000%"
+collected_at: "2026-04-17T14:51:38.823455+00:00"
 ---
 
 ## 문제

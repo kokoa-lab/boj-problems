@@ -1,13 +1,13 @@
 ---
-title: LINIJE
-special_judge: true
-time_limit: 1 초
-memory_limit: 128 MB
+title: "LINIJE"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 27
 accepted: 6
 solved_users: 5
-acceptance_rate: 31.250%
-collected_at: 2026-04-17T10:47:33.883596+00:00
+acceptance_rate: "31.250%"
+collected_at: "2026-04-17T10:47:33.883596+00:00"
 ---
 
 ## 문제

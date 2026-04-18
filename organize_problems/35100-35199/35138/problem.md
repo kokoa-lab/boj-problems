@@ -1,13 +1,13 @@
 ---
-title: Light Control System
-special_judge: false
-time_limit: 5 초
-memory_limit: 2048 MB
+title: "Light Control System"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "2048 MB"
 submissions: 17
 accepted: 4
 solved_users: 4
-acceptance_rate: 23.529%
-collected_at: 2026-04-17T20:56:32.009524+00:00
+acceptance_rate: "23.529%"
+collected_at: "2026-04-17T20:56:32.009524+00:00"
 ---
 
 ## 문제

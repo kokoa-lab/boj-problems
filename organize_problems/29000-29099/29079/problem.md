@@ -1,13 +1,13 @@
 ---
-title: Осада Ла-Рошели
-special_judge: false
-time_limit: 3 초
-memory_limit: 1024 MB
+title: "Осада Ла-Рошели"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "1024 MB"
 submissions: 10
 accepted: 7
 solved_users: 6
-acceptance_rate: 85.714%
-collected_at: 2026-04-17T18:37:00.227973+00:00
+acceptance_rate: "85.714%"
+collected_at: "2026-04-17T18:37:00.227973+00:00"
 ---
 
 ## 문제

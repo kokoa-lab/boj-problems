@@ -1,13 +1,13 @@
 ---
-title: 둥둥섬 다리 재정비하기
-special_judge: false
-time_limit: 3 초
-memory_limit: 1024 MB
+title: "둥둥섬 다리 재정비하기"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "1024 MB"
 submissions: 136
 accepted: 79
 solved_users: 61
-acceptance_rate: 59.804%
-collected_at: 2026-04-17T15:37:57.231030+00:00
+acceptance_rate: "59.804%"
+collected_at: "2026-04-17T15:37:57.231030+00:00"
 ---
 
 ## 문제

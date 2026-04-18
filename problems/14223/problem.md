@@ -1,13 +1,13 @@
 ---
-title: 작은 정사각형 1
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "작은 정사각형 1"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 303
 accepted: 126
 solved_users: 117
-acceptance_rate: 45.882%
-collected_at: 2026-04-17T13:28:03.268967+00:00
+acceptance_rate: "45.882%"
+collected_at: "2026-04-17T13:28:03.268967+00:00"
 ---
 
 ## 문제

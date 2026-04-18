@@ -1,13 +1,13 @@
 ---
-title: Left Out
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Left Out"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 385
 accepted: 143
 solved_users: 114
-acceptance_rate: 36.306%
-collected_at: 2026-04-17T14:32:46.177161+00:00
+acceptance_rate: "36.306%"
+collected_at: "2026-04-17T14:32:46.177161+00:00"
 ---
 
 ## 문제

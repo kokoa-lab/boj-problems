@@ -1,13 +1,13 @@
 ---
-title: 비밀 편지
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "비밀 편지"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 2327
 accepted: 1637
 solved_users: 1472
-acceptance_rate: 72.655%
-collected_at: 2026-04-17T11:13:46.278296+00:00
+acceptance_rate: "72.655%"
+collected_at: "2026-04-17T11:13:46.278296+00:00"
 ---
 
 ## 문제

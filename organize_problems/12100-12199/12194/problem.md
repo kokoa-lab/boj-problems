@@ -1,13 +1,13 @@
 ---
-title: Broken Calculator (Small)
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Broken Calculator (Small)"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 114
 accepted: 60
 solved_users: 40
-acceptance_rate: 46.512%
-collected_at: 2026-04-17T12:51:38.760015+00:00
+acceptance_rate: "46.512%"
+collected_at: "2026-04-17T12:51:38.760015+00:00"
 ---
 
 ## 문제

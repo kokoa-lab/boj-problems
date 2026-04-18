@@ -1,13 +1,13 @@
 ---
-title: The Length of the Sequence
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "The Length of the Sequence"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 71
 accepted: 14
 solved_users: 12
-acceptance_rate: 25.000%
-collected_at: 2026-04-17T17:57:47.017464+00:00
+acceptance_rate: "25.000%"
+collected_at: "2026-04-17T17:57:47.017464+00:00"
 ---
 
 ## 문제

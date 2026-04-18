@@ -1,13 +1,13 @@
 ---
-title: 응애(EASY)
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "응애(EASY)"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 814
 accepted: 377
 solved_users: 270
-acceptance_rate: 51.527%
-collected_at: 2026-04-17T18:17:59.502741+00:00
+acceptance_rate: "51.527%"
+collected_at: "2026-04-17T18:17:59.502741+00:00"
 ---
 
 ## 문제

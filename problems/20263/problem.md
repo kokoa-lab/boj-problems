@@ -1,13 +1,13 @@
 ---
-title: Optimization for UltraNet
-special_judge: false
-time_limit: 3 초
-memory_limit: 1024 MB
+title: "Optimization for UltraNet"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "1024 MB"
 submissions: 46
 accepted: 31
 solved_users: 30
-acceptance_rate: 68.182%
-collected_at: 2026-04-17T15:33:52.232470+00:00
+acceptance_rate: "68.182%"
+collected_at: "2026-04-17T15:33:52.232470+00:00"
 ---
 
 ## 문제

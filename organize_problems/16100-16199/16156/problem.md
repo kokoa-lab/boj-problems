@@ -1,13 +1,13 @@
 ---
-title: 장애물 달리기
-special_judge: false
-time_limit: 2.5 초
-memory_limit: 256 MB
+title: "장애물 달리기"
+special_judge: "false"
+time_limit: "2.5 초"
+memory_limit: "256 MB"
 submissions: 467
 accepted: 162
 solved_users: 124
-acceptance_rate: 35.227%
-collected_at: 2026-04-17T14:12:28.937419+00:00
+acceptance_rate: "35.227%"
+collected_at: "2026-04-17T14:12:28.937419+00:00"
 ---
 
 ## 문제

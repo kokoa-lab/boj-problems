@@ -1,13 +1,13 @@
 ---
-title: 세포 분열
-special_judge: false
-time_limit: 3 초 (추가 시간 없음)
-memory_limit: 512 MB (추가 메모리 없음)
+title: "세포 분열"
+special_judge: "false"
+time_limit: "3 초 (추가 시간 없음)"
+memory_limit: "512 MB (추가 메모리 없음)"
 submissions: 419
 accepted: 95
 solved_users: 67
-acceptance_rate: 26.070%
-collected_at: 2026-04-17T16:46:06.466934+00:00
+acceptance_rate: "26.070%"
+collected_at: "2026-04-17T16:46:06.466934+00:00"
 ---
 
 ## 문제

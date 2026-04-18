@@ -1,13 +1,13 @@
 ---
-title: 가까운 점 찾기
-special_judge: false
-time_limit: 3 초
-memory_limit: 128 MB
+title: "가까운 점 찾기"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "128 MB"
 submissions: 1390
 accepted: 352
 solved_users: 94
-acceptance_rate: 18.540%
-collected_at: 2026-04-17T11:53:49.561261+00:00
+acceptance_rate: "18.540%"
+collected_at: "2026-04-17T11:53:49.561261+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 룩, 비숍, 킹, 나이트, 궁전 게임
-special_judge: false
-time_limit: 0.5 초
-memory_limit: 512 MB
+title: "룩, 비숍, 킹, 나이트, 궁전 게임"
+special_judge: "false"
+time_limit: "0.5 초"
+memory_limit: "512 MB"
 submissions: 620
 accepted: 319
 solved_users: 256
-acceptance_rate: 50.000%
-collected_at: 2026-04-17T14:25:34.826540+00:00
+acceptance_rate: "50.000%"
+collected_at: "2026-04-17T14:25:34.826540+00:00"
 ---
 
 ## 문제

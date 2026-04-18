@@ -1,13 +1,13 @@
 ---
-title: Voter Depression
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Voter Depression"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 29
 accepted: 13
 solved_users: 11
-acceptance_rate: 42.308%
-collected_at: 2026-04-17T13:41:38.629515+00:00
+acceptance_rate: "42.308%"
+collected_at: "2026-04-17T13:41:38.629515+00:00"
 ---
 
 ## 문제

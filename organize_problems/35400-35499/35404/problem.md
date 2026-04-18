@@ -1,13 +1,13 @@
 ---
-title: Harder Horizons
-special_judge: false
-time_limit: 0.5 초
-memory_limit: 2048 MB
+title: "Harder Horizons"
+special_judge: "false"
+time_limit: "0.5 초"
+memory_limit: "2048 MB"
 submissions: 48
 accepted: 43
 solved_users: 37
-acceptance_rate: 94.872%
-collected_at: 2026-04-18T09:51:55.670013+00:00
+acceptance_rate: "94.872%"
+collected_at: "2026-04-18T09:51:55.670013+00:00"
 ---
 
 ## 문제

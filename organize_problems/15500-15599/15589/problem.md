@@ -1,13 +1,13 @@
 ---
-title: Lifeguards (Silver)
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Lifeguards (Silver)"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 983
 accepted: 445
 solved_users: 347
-acceptance_rate: 44.716%
-collected_at: 2026-04-17T14:02:11.777660+00:00
+acceptance_rate: "44.716%"
+collected_at: "2026-04-17T14:02:11.777660+00:00"
 ---
 
 ## 문제

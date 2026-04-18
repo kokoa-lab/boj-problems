@@ -1,13 +1,13 @@
 ---
-title: A Math Problem
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "A Math Problem"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 79
 accepted: 22
 solved_users: 21
-acceptance_rate: 27.632%
-collected_at: 2026-04-17T15:08:56.711414+00:00
+acceptance_rate: "27.632%"
+collected_at: "2026-04-17T15:08:56.711414+00:00"
 ---
 
 ## 문제

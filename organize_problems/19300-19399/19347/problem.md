@@ -1,13 +1,13 @@
 ---
-title: The Catcher in the Rye
-special_judge: true
-time_limit: 1 초
-memory_limit: 512 MB
+title: "The Catcher in the Rye"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 209
 accepted: 42
 solved_users: 26
-acceptance_rate: 19.403%
-collected_at: 2026-04-17T15:17:48.791928+00:00
+acceptance_rate: "19.403%"
+collected_at: "2026-04-17T15:17:48.791928+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 가짜 금화 찾기
-special_judge: false
-time_limit: 0.5 초
-memory_limit: 512 MB
+title: "가짜 금화 찾기"
+special_judge: "false"
+time_limit: "0.5 초"
+memory_limit: "512 MB"
 submissions: 264
 accepted: 97
 solved_users: 85
-acceptance_rate: 35.417%
-collected_at: 2026-04-17T19:47:19.923272+00:00
+acceptance_rate: "35.417%"
+collected_at: "2026-04-17T19:47:19.923272+00:00"
 ---
 
 ## 문제

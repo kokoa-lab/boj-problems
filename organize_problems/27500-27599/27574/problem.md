@@ -1,13 +1,13 @@
 ---
-title: Digits of Unity
-special_judge: false
-time_limit: 5 초
-memory_limit: 1024 MB
+title: "Digits of Unity"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "1024 MB"
 submissions: 57
 accepted: 34
 solved_users: 25
-acceptance_rate: 56.818%
-collected_at: 2026-04-17T18:06:53.157990+00:00
+acceptance_rate: "56.818%"
+collected_at: "2026-04-17T18:06:53.157990+00:00"
 ---
 
 ## 문제

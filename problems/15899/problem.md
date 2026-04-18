@@ -1,13 +1,13 @@
 ---
-title: 트리와 색깔
-special_judge: false
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "트리와 색깔"
+special_judge: "false"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 2676
 accepted: 926
 solved_users: 717
-acceptance_rate: 34.738%
-collected_at: 2026-04-17T14:08:21.910581+00:00
+acceptance_rate: "34.738%"
+collected_at: "2026-04-17T14:08:21.910581+00:00"
 ---
 
 ## 문제

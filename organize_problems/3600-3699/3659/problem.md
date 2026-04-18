@@ -1,13 +1,13 @@
 ---
-title: RFID 추적
-special_judge: false
-time_limit: 3 초
-memory_limit: 128 MB
+title: "RFID 추적"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "128 MB"
 submissions: 63
 accepted: 23
 solved_users: 16
-acceptance_rate: 28.571%
-collected_at: 2026-04-17T10:50:37.112171+00:00
+acceptance_rate: "28.571%"
+collected_at: "2026-04-17T10:50:37.112171+00:00"
 ---
 
 ## 문제

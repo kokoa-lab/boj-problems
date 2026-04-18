@@ -1,13 +1,13 @@
 ---
-title: Сверкающие плюсы
-special_judge: false
-time_limit: 4 초
-memory_limit: 1024 MB
+title: "Сверкающие плюсы"
+special_judge: "false"
+time_limit: "4 초"
+memory_limit: "1024 MB"
 submissions: 25
 accepted: 13
 solved_users: 12
-acceptance_rate: 57.143%
-collected_at: 2026-04-17T18:35:39.008545+00:00
+acceptance_rate: "57.143%"
+collected_at: "2026-04-17T18:35:39.008545+00:00"
 ---
 
 ## 문제

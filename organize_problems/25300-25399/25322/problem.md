@@ -1,13 +1,13 @@
 ---
-title: 편지 배달
-special_judge: true
-time_limit: 3 초 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "편지 배달"
+special_judge: "true"
+time_limit: "3 초 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 116
 accepted: 58
 solved_users: 45
-acceptance_rate: 48.913%
-collected_at: 2026-04-17T17:24:52.533882+00:00
+acceptance_rate: "48.913%"
+collected_at: "2026-04-17T17:24:52.533882+00:00"
 ---
 
 ## 문제

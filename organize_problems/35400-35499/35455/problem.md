@@ -1,13 +1,13 @@
 ---
-title: 10002221점
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "10002221점"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 344
 accepted: 198
 solved_users: 176
-acceptance_rate: 59.661%
-collected_at: 2026-04-17T21:07:29.818793+00:00
+acceptance_rate: "59.661%"
+collected_at: "2026-04-17T21:07:29.818793+00:00"
 ---
 
 ## 문제

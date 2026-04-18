@@ -1,13 +1,13 @@
 ---
-title: 포화 이진 트리 도로 네트워크
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "포화 이진 트리 도로 네트워크"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 863
 accepted: 366
 solved_users: 287
-acceptance_rate: 40.423%
-collected_at: 2026-04-17T13:03:16.475115+00:00
+acceptance_rate: "40.423%"
+collected_at: "2026-04-17T13:03:16.475115+00:00"
 ---
 
 ## 문제

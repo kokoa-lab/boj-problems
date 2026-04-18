@@ -1,13 +1,13 @@
 ---
-title: Walls
-special_judge: false
-time_limit: 3 초
-memory_limit: 256 MB
+title: "Walls"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "256 MB"
 submissions: 34
 accepted: 15
 solved_users: 13
-acceptance_rate: 56.522%
-collected_at: 2026-04-17T14:46:16.431219+00:00
+acceptance_rate: "56.522%"
+collected_at: "2026-04-17T14:46:16.431219+00:00"
 ---
 
 ## 문제

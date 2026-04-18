@@ -1,13 +1,13 @@
 ---
-title: Jack and the Beanbag
-special_judge: false
-time_limit: 3 초
-memory_limit: 512 MB
+title: "Jack and the Beanbag"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "512 MB"
 submissions: 28
 accepted: 21
 solved_users: 20
-acceptance_rate: 83.333%
-collected_at: 2026-04-17T13:14:47.287729+00:00
+acceptance_rate: "83.333%"
+collected_at: "2026-04-17T13:14:47.287729+00:00"
 ---
 
 ## 문제

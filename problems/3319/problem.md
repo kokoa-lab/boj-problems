@@ -1,13 +1,13 @@
 ---
-title: 전령들
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "전령들"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 1731
 accepted: 413
 solved_users: 296
-acceptance_rate: 22.306%
-collected_at: 2026-04-17T10:48:06.989023+00:00
+acceptance_rate: "22.306%"
+collected_at: "2026-04-17T10:48:06.989023+00:00"
 ---
 
 ## 문제

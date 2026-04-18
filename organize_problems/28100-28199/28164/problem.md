@@ -1,13 +1,13 @@
 ---
-title: Optimal Quadratic Function
-special_judge: true
-time_limit: 10 초
-memory_limit: 1024 MB
+title: "Optimal Quadratic Function"
+special_judge: "true"
+time_limit: "10 초"
+memory_limit: "1024 MB"
 submissions: 502
 accepted: 44
 solved_users: 14
-acceptance_rate: 4.389%
-collected_at: 2026-04-17T18:19:16.577717+00:00
+acceptance_rate: "4.389%"
+collected_at: "2026-04-17T18:19:16.577717+00:00"
 ---
 
 ## 문제

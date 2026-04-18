@@ -1,13 +1,13 @@
 ---
-title: Fractal
-special_judge: true
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Fractal"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 73
 accepted: 31
 solved_users: 15
-acceptance_rate: 39.474%
-collected_at: 2026-04-17T10:50:48.380576+00:00
+acceptance_rate: "39.474%"
+collected_at: "2026-04-17T10:50:48.380576+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 병아리의 변신은 무죄
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "병아리의 변신은 무죄"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 1287
 accepted: 341
 solved_users: 284
-acceptance_rate: 36.317%
-collected_at: 2026-04-17T14:18:31.594345+00:00
+acceptance_rate: "36.317%"
+collected_at: "2026-04-17T14:18:31.594345+00:00"
 ---
 
 ## 문제

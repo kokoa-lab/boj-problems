@@ -1,13 +1,13 @@
 ---
-title: 님 게임 2
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "님 게임 2"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 2930
 accepted: 2242
 solved_users: 1941
-acceptance_rate: 80.339%
-collected_at: 2026-04-17T12:47:13.165906+00:00
+acceptance_rate: "80.339%"
+collected_at: "2026-04-17T12:47:13.165906+00:00"
 ---
 
 ## 문제

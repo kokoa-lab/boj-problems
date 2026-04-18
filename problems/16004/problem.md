@@ -1,13 +1,13 @@
 ---
-title: 헬리콥터
-special_judge: true
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 256 MB
+title: "헬리콥터"
+special_judge: "true"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "256 MB"
 submissions: 294
 accepted: 14
 solved_users: 2
-acceptance_rate: 28.571%
-collected_at: 2026-04-17T14:09:49.816766+00:00
+acceptance_rate: "28.571%"
+collected_at: "2026-04-17T14:09:49.816766+00:00"
 ---
 
 ## 문제

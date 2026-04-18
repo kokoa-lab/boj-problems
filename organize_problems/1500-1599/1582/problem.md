@@ -1,13 +1,13 @@
 ---
-title: 아티스트 이동호
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "아티스트 이동호"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 222
 accepted: 57
 solved_users: 46
-acceptance_rate: 29.299%
-collected_at: 2026-04-17T10:31:21.515260+00:00
+acceptance_rate: "29.299%"
+collected_at: "2026-04-17T10:31:21.515260+00:00"
 ---
 
 ## 문제

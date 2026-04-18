@@ -1,13 +1,13 @@
 ---
-title: Promotion
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Promotion"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 16
 accepted: 9
 solved_users: 8
-acceptance_rate: 100.000%
-collected_at: 2026-04-17T16:08:53.451764+00:00
+acceptance_rate: "100.000%"
+collected_at: "2026-04-17T16:08:53.451764+00:00"
 ---
 
 ## 문제

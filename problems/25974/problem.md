@@ -1,13 +1,13 @@
 ---
-title: 거듭제곱의 합 1
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "거듭제곱의 합 1"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 848
 accepted: 429
 solved_users: 299
-acceptance_rate: 52.920%
-collected_at: 2026-04-17T17:37:56.229448+00:00
+acceptance_rate: "52.920%"
+collected_at: "2026-04-17T17:37:56.229448+00:00"
 ---
 
 ## 문제

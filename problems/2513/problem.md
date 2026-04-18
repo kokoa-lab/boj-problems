@@ -1,13 +1,13 @@
 ---
-title: 통학버스
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "통학버스"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 3153
 accepted: 1283
 solved_users: 1023
-acceptance_rate: 41.233%
-collected_at: 2026-04-17T10:42:16.486644+00:00
+acceptance_rate: "41.233%"
+collected_at: "2026-04-17T10:42:16.486644+00:00"
 ---
 
 ## 문제

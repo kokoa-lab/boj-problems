@@ -1,13 +1,13 @@
 ---
-title: 홀수와 짝수 게임
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "홀수와 짝수 게임"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 840
 accepted: 384
 solved_users: 339
-acceptance_rate: 49.561%
-collected_at: 2026-04-17T20:07:21.275380+00:00
+acceptance_rate: "49.561%"
+collected_at: "2026-04-17T20:07:21.275380+00:00"
 ---
 
 ## 문제

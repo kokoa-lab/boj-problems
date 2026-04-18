@@ -1,13 +1,13 @@
 ---
-title: Knowledge-Oriented Problem
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Knowledge-Oriented Problem"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 310
 accepted: 51
 solved_users: 35
-acceptance_rate: 25.735%
-collected_at: 2026-04-17T15:09:18.183099+00:00
+acceptance_rate: "25.735%"
+collected_at: "2026-04-17T15:09:18.183099+00:00"
 ---
 
 ## 문제

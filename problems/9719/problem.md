@@ -1,13 +1,13 @@
 ---
-title: Bi‐coloring
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Bi‐coloring"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 69
 accepted: 49
 solved_users: 42
-acceptance_rate: 67.742%
-collected_at: 2026-04-17T12:13:33.094595+00:00
+acceptance_rate: "67.742%"
+collected_at: "2026-04-17T12:13:33.094595+00:00"
 ---
 
 ## 문제

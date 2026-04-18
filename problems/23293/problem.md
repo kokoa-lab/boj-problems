@@ -1,13 +1,13 @@
 ---
-title: 아주 서바이벌
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "아주 서바이벌"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 1003
 accepted: 251
 solved_users: 206
-acceptance_rate: 25.977%
-collected_at: 2026-04-17T16:45:47.551524+00:00
+acceptance_rate: "25.977%"
+collected_at: "2026-04-17T16:45:47.551524+00:00"
 ---
 
 ## 문제

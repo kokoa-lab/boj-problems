@@ -1,13 +1,13 @@
 ---
-title: Table Recovery
-special_judge: false
-time_limit: 2 초
-memory_limit: 2048 MB
+title: "Table Recovery"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "2048 MB"
 submissions: 113
 accepted: 61
 solved_users: 58
-acceptance_rate: 58.586%
-collected_at: 2026-04-17T20:17:49.608755+00:00
+acceptance_rate: "58.586%"
+collected_at: "2026-04-17T20:17:49.608755+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: A-Mazing Puzzle
-special_judge: false
-time_limit: 8 초
-memory_limit: 1024 MB
+title: "A-Mazing Puzzle"
+special_judge: "false"
+time_limit: "8 초"
+memory_limit: "1024 MB"
 submissions: 63
 accepted: 14
 solved_users: 14
-acceptance_rate: 28.000%
-collected_at: 2026-04-17T18:07:28.394546+00:00
+acceptance_rate: "28.000%"
+collected_at: "2026-04-17T18:07:28.394546+00:00"
 ---
 
 ## 문제

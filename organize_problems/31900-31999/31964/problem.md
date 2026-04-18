@@ -1,13 +1,13 @@
 ---
-title: 반품 회수
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "반품 회수"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 2859
 accepted: 1551
 solved_users: 1257
-acceptance_rate: 56.929%
-collected_at: 2026-04-17T19:39:56.280254+00:00
+acceptance_rate: "56.929%"
+collected_at: "2026-04-17T19:39:56.280254+00:00"
 ---
 
 ## 문제

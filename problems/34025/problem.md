@@ -1,13 +1,13 @@
 ---
-title: 창하의 급식실 탁자 이야기
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "창하의 급식실 탁자 이야기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 353
 accepted: 68
 solved_users: 49
-acceptance_rate: 19.600%
-collected_at: 2026-04-17T20:28:54.590370+00:00
+acceptance_rate: "19.600%"
+collected_at: "2026-04-17T20:28:54.590370+00:00"
 ---
 
 ## 문제

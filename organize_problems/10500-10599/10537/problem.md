@@ -1,13 +1,13 @@
 ---
-title: The Safe Secret
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "The Safe Secret"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 34
 accepted: 18
 solved_users: 15
-acceptance_rate: 51.724%
-collected_at: 2026-04-17T12:25:11.744875+00:00
+acceptance_rate: "51.724%"
+collected_at: "2026-04-17T12:25:11.744875+00:00"
 ---
 
 ## 문제

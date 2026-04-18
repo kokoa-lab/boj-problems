@@ -1,13 +1,13 @@
 ---
-title: 배고픈 무토를 위한 피자 만들기
-special_judge: true
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "배고픈 무토를 위한 피자 만들기"
+special_judge: "true"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 203
 accepted: 87
 solved_users: 84
-acceptance_rate: 43.077%
-collected_at: 2026-04-17T19:43:14.666675+00:00
+acceptance_rate: "43.077%"
+collected_at: "2026-04-17T19:43:14.666675+00:00"
 ---
 
 ## 문제

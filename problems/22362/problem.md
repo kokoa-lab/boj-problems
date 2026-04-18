@@ -1,13 +1,13 @@
 ---
-title: 爆発の連鎖
-special_judge: false
-time_limit: 8 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "爆発の連鎖"
+special_judge: "false"
+time_limit: "8 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 61
 accepted: 58
 solved_users: 56
-acceptance_rate: 94.915%
-collected_at: 2026-04-17T16:19:31.501592+00:00
+acceptance_rate: "94.915%"
+collected_at: "2026-04-17T16:19:31.501592+00:00"
 ---
 
 ## 문제

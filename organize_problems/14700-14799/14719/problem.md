@@ -1,13 +1,13 @@
 ---
-title: 빗물
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "빗물"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 29593
 accepted: 17247
 solved_users: 13328
-acceptance_rate: 57.850%
-collected_at: 2026-04-17T13:40:58.011099+00:00
+acceptance_rate: "57.850%"
+collected_at: "2026-04-17T13:40:58.011099+00:00"
 ---
 
 ## 문제

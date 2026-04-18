@@ -1,13 +1,13 @@
 ---
-title: Dyeing Dice
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Dyeing Dice"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 27
 accepted: 16
 solved_users: 12
-acceptance_rate: 52.174%
-collected_at: 2026-04-17T12:39:35.663842+00:00
+acceptance_rate: "52.174%"
+collected_at: "2026-04-17T12:39:35.663842+00:00"
 ---
 
 ## 문제

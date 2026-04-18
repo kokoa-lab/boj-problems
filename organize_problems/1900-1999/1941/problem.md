@@ -1,13 +1,13 @@
 ---
-title: 소문난 칠공주
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "소문난 칠공주"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 20474
 accepted: 11352
 solved_users: 7351
-acceptance_rate: 53.164%
-collected_at: 2026-04-17T10:36:08.351974+00:00
+acceptance_rate: "53.164%"
+collected_at: "2026-04-17T10:36:08.351974+00:00"
 ---
 
 ## 문제

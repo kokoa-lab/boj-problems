@@ -1,13 +1,13 @@
 ---
-title: 크로스워드 퍼즐
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "크로스워드 퍼즐"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 1371
 accepted: 748
 solved_users: 673
-acceptance_rate: 55.300%
-collected_at: 2026-04-17T12:12:07.544988+00:00
+acceptance_rate: "55.300%"
+collected_at: "2026-04-17T12:12:07.544988+00:00"
 ---
 
 ## 문제

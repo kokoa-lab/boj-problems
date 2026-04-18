@@ -1,13 +1,13 @@
 ---
-title: Laser Shot
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Laser Shot"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 31
 accepted: 16
 solved_users: 8
-acceptance_rate: 42.105%
-collected_at: 2026-04-17T11:02:35.388765+00:00
+acceptance_rate: "42.105%"
+collected_at: "2026-04-17T11:02:35.388765+00:00"
 ---
 
 ## 문제

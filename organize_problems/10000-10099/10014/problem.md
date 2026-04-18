@@ -1,13 +1,13 @@
 ---
-title: Traveling Saga Problem
-special_judge: false
-time_limit: 3 초
-memory_limit: 256 MB
+title: "Traveling Saga Problem"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "256 MB"
 submissions: 567
 accepted: 66
 solved_users: 45
-acceptance_rate: 9.494%
-collected_at: 2026-04-17T12:17:46.835270+00:00
+acceptance_rate: "9.494%"
+collected_at: "2026-04-17T12:17:46.835270+00:00"
 ---
 
 ## 문제

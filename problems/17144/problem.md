@@ -1,13 +1,13 @@
 ---
-title: 미세먼지 안녕!
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "미세먼지 안녕!"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 51505
 accepted: 29429
 solved_users: 20228
-acceptance_rate: 56.272%
-collected_at: 2026-04-17T14:31:07.450421+00:00
+acceptance_rate: "56.272%"
+collected_at: "2026-04-17T14:31:07.450421+00:00"
 ---
 
 ## 문제

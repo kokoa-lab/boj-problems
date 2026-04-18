@@ -1,13 +1,13 @@
 ---
-title: 캠핑장 부지 평탄화
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "캠핑장 부지 평탄화"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 169
 accepted: 140
 solved_users: 116
-acceptance_rate: 82.857%
-collected_at: 2026-04-17T20:26:00.587621+00:00
+acceptance_rate: "82.857%"
+collected_at: "2026-04-17T20:26:00.587621+00:00"
 ---
 
 ## 문제

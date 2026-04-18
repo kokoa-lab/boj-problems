@@ -1,13 +1,13 @@
 ---
-title: 숭고한에 어서오세요
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "숭고한에 어서오세요"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 1000
 accepted: 815
 solved_users: 771
-acceptance_rate: 82.637%
-collected_at: 2026-04-17T20:33:46.151143+00:00
+acceptance_rate: "82.637%"
+collected_at: "2026-04-17T20:33:46.151143+00:00"
 ---
 
 ## 문제

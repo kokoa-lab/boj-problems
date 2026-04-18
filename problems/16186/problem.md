@@ -1,13 +1,13 @@
 ---
-title: Fractions
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Fractions"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 259
 accepted: 133
 solved_users: 123
-acceptance_rate: 58.571%
-collected_at: 2026-04-17T14:13:10.720921+00:00
+acceptance_rate: "58.571%"
+collected_at: "2026-04-17T14:13:10.720921+00:00"
 ---
 
 ## 문제

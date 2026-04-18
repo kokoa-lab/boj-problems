@@ -1,13 +1,13 @@
 ---
-title: 비용
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "비용"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 4019
 accepted: 1434
 solved_users: 986
-acceptance_rate: 32.889%
-collected_at: 2026-04-17T10:41:53.142608+00:00
+acceptance_rate: "32.889%"
+collected_at: "2026-04-17T10:41:53.142608+00:00"
 ---
 
 ## 문제

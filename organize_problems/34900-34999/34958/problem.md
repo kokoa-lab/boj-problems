@@ -1,13 +1,13 @@
 ---
-title: Protect the SSHS
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Protect the SSHS"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 119
 accepted: 41
 solved_users: 35
-acceptance_rate: 35.714%
-collected_at: 2026-04-17T20:52:45.235491+00:00
+acceptance_rate: "35.714%"
+collected_at: "2026-04-17T20:52:45.235491+00:00"
 ---
 
 ## 문제

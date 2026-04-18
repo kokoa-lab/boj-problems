@@ -1,13 +1,13 @@
 ---
-title: Sõnakuulelik Tom
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Sõnakuulelik Tom"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 211
 accepted: 133
 solved_users: 124
-acceptance_rate: 64.583%
-collected_at: 2026-04-17T19:59:57.709540+00:00
+acceptance_rate: "64.583%"
+collected_at: "2026-04-17T19:59:57.709540+00:00"
 ---
 
 ## 문제

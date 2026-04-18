@@ -1,13 +1,13 @@
 ---
-title: Intersection of Parabolas
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Intersection of Parabolas"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 378
 accepted: 112
 solved_users: 78
-acceptance_rate: 28.364%
-collected_at: 2026-04-17T15:11:45.994922+00:00
+acceptance_rate: "28.364%"
+collected_at: "2026-04-17T15:11:45.994922+00:00"
 ---
 
 ## 문제

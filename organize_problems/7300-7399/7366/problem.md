@@ -1,13 +1,13 @@
 ---
-title: Counting Sheep
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Counting Sheep"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 642
 accepted: 410
 solved_users: 396
-acceptance_rate: 64.286%
-collected_at: 2026-04-17T11:48:43.848347+00:00
+acceptance_rate: "64.286%"
+collected_at: "2026-04-17T11:48:43.848347+00:00"
 ---
 
 ## 문제

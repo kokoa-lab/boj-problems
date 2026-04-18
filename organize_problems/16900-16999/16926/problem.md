@@ -1,13 +1,13 @@
 ---
-title: 배열 돌리기 1
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "배열 돌리기 1"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 26040
 accepted: 12969
 solved_users: 8556
-acceptance_rate: 48.189%
-collected_at: 2026-04-17T14:26:18.378398+00:00
+acceptance_rate: "48.189%"
+collected_at: "2026-04-17T14:26:18.378398+00:00"
 ---
 
 ## 문제

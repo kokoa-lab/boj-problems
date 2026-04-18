@@ -1,13 +1,13 @@
 ---
-title: JOI 깃발
-special_judge: false
-time_limit: 5 초
-memory_limit: 128 MB
+title: "JOI 깃발"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "128 MB"
 submissions: 468
 accepted: 163
 solved_users: 91
-acceptance_rate: 30.033%
-collected_at: 2026-04-17T11:15:23.752049+00:00
+acceptance_rate: "30.033%"
+collected_at: "2026-04-17T11:15:23.752049+00:00"
 ---
 
 ## 문제

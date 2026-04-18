@@ -1,13 +1,13 @@
 ---
-title: 문자열 X
-special_judge: false
-time_limit: 3 초
-memory_limit: 1024 MB
+title: "문자열 X"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "1024 MB"
 submissions: 170
 accepted: 39
 solved_users: 29
-acceptance_rate: 22.481%
-collected_at: 2026-04-17T16:40:56.672932+00:00
+acceptance_rate: "22.481%"
+collected_at: "2026-04-17T16:40:56.672932+00:00"
 ---
 
 ## 문제

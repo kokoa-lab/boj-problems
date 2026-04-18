@@ -1,13 +1,13 @@
 ---
-title: 건덕이의 돌탑
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "건덕이의 돌탑"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 380
 accepted: 323
 solved_users: 288
-acceptance_rate: 87.538%
-collected_at: 2026-04-17T20:21:54.271728+00:00
+acceptance_rate: "87.538%"
+collected_at: "2026-04-17T20:21:54.271728+00:00"
 ---
 
 ## 문제

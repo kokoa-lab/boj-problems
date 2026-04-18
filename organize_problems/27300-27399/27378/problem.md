@@ -1,13 +1,13 @@
 ---
-title: 아 또 XOR이야?
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "아 또 XOR이야?"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 254
 accepted: 82
 solved_users: 60
-acceptance_rate: 33.149%
-collected_at: 2026-04-17T18:01:43.229280+00:00
+acceptance_rate: "33.149%"
+collected_at: "2026-04-17T18:01:43.229280+00:00"
 ---
 
 ## 문제

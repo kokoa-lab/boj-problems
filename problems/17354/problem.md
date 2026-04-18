@@ -1,13 +1,13 @@
 ---
-title: DVD
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "DVD"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 319
 accepted: 118
 solved_users: 87
-acceptance_rate: 45.078%
-collected_at: 2026-04-17T14:37:43.383859+00:00
+acceptance_rate: "45.078%"
+collected_at: "2026-04-17T14:37:43.383859+00:00"
 ---
 
 ## 문제

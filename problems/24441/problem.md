@@ -1,13 +1,13 @@
 ---
-title: 행운 수 판정
-special_judge: false
-time_limit: 3 초
-memory_limit: 1024 MB
+title: "행운 수 판정"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "1024 MB"
 submissions: 366
 accepted: 206
 solved_users: 119
-acceptance_rate: 56.398%
-collected_at: 2026-04-17T17:09:27.962619+00:00
+acceptance_rate: "56.398%"
+collected_at: "2026-04-17T17:09:27.962619+00:00"
 ---
 
 ## 문제

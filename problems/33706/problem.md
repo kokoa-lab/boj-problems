@@ -1,13 +1,13 @@
 ---
-title: 오름차순 최단 경로
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "오름차순 최단 경로"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 261
 accepted: 165
 solved_users: 133
-acceptance_rate: 61.290%
-collected_at: 2026-04-17T20:21:57.080004+00:00
+acceptance_rate: "61.290%"
+collected_at: "2026-04-17T20:21:57.080004+00:00"
 ---
 
 ## 문제

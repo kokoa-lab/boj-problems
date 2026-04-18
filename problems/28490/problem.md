@@ -1,13 +1,13 @@
 ---
-title: Area
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Area"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 1429
 accepted: 1249
 solved_users: 1199
-acceptance_rate: 88.162%
-collected_at: 2026-04-17T18:27:40.804557+00:00
+acceptance_rate: "88.162%"
+collected_at: "2026-04-17T18:27:40.804557+00:00"
 ---
 
 ## 문제

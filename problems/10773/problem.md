@@ -1,13 +1,13 @@
 ---
-title: 제로
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "제로"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 134559
 accepted: 92839
 solved_users: 74441
-acceptance_rate: 68.884%
-collected_at: 2026-04-17T12:29:20.063237+00:00
+acceptance_rate: "68.884%"
+collected_at: "2026-04-17T12:29:20.063237+00:00"
 ---
 
 ## 문제

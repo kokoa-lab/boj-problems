@@ -1,13 +1,13 @@
 ---
-title: Pegman (Large)
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Pegman (Large)"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 60
 accepted: 50
 solved_users: 47
-acceptance_rate: 82.456%
-collected_at: 2026-04-17T12:50:48.796100+00:00
+acceptance_rate: "82.456%"
+collected_at: "2026-04-17T12:50:48.796100+00:00"
 ---
 
 ## 문제

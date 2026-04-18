@@ -1,13 +1,13 @@
 ---
-title: Investment Investigation
-special_judge: false
-time_limit: 4 초
-memory_limit: 1024 MB
+title: "Investment Investigation"
+special_judge: "false"
+time_limit: "4 초"
+memory_limit: "1024 MB"
 submissions: 34
 accepted: 15
 solved_users: 11
-acceptance_rate: 78.571%
-collected_at: 2026-04-17T19:55:00.474090+00:00
+acceptance_rate: "78.571%"
+collected_at: "2026-04-17T19:55:00.474090+00:00"
 ---
 
 ## 문제

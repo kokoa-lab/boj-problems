@@ -1,13 +1,13 @@
 ---
-title: 도로 정비하기
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "도로 정비하기"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 1634
 accepted: 514
 solved_users: 366
-acceptance_rate: 28.154%
-collected_at: 2026-04-17T10:32:54.469553+00:00
+acceptance_rate: "28.154%"
+collected_at: "2026-04-17T10:32:54.469553+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Autumn Cleaning (16 MiB ML!)
-special_judge: false
-time_limit: 2 초
-memory_limit: 16 MB
+title: "Autumn Cleaning (16 MiB ML!)"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "16 MB"
 submissions: 344
 accepted: 62
 solved_users: 20
-acceptance_rate: 8.403%
-collected_at: 2026-04-17T15:11:13.400800+00:00
+acceptance_rate: "8.403%"
+collected_at: "2026-04-17T15:11:13.400800+00:00"
 ---
 
 ## 문제

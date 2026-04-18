@@ -1,13 +1,13 @@
 ---
-title: Minimizing Wildlife Damage
-special_judge: false
-time_limit: 3 초
-memory_limit: 2048 MB
+title: "Minimizing Wildlife Damage"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "2048 MB"
 submissions: 14
 accepted: 7
 solved_users: 6
-acceptance_rate: 46.154%
-collected_at: 2026-04-17T20:56:12.516452+00:00
+acceptance_rate: "46.154%"
+collected_at: "2026-04-17T20:56:12.516452+00:00"
 ---
 
 ## 문제

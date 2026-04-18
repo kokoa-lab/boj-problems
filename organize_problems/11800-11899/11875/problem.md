@@ -1,13 +1,13 @@
 ---
-title: MULTIGRAM
-special_judge: false
-time_limit: 1 초
-memory_limit: 64 MB
+title: "MULTIGRAM"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "64 MB"
 submissions: 146
 accepted: 99
 solved_users: 90
-acceptance_rate: 72.581%
-collected_at: 2026-04-17T12:47:16.822674+00:00
+acceptance_rate: "72.581%"
+collected_at: "2026-04-17T12:47:16.822674+00:00"
 ---
 
 ## 문제

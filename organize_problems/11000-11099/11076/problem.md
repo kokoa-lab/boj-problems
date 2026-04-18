@@ -1,13 +1,13 @@
 ---
-title: Talking Money
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "Talking Money"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 64
 accepted: 15
 solved_users: 15
-acceptance_rate: 28.302%
-collected_at: 2026-04-17T12:36:05.780781+00:00
+acceptance_rate: "28.302%"
+collected_at: "2026-04-17T12:36:05.780781+00:00"
 ---
 
 ## 문제

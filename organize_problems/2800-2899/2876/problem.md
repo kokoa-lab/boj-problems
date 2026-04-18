@@ -1,13 +1,13 @@
 ---
-title: 그래픽스 퀴즈
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "그래픽스 퀴즈"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 1616
 accepted: 820
 solved_users: 683
-acceptance_rate: 52.377%
-collected_at: 2026-04-17T10:45:25.282572+00:00
+acceptance_rate: "52.377%"
+collected_at: "2026-04-17T10:45:25.282572+00:00"
 ---
 
 ## 문제

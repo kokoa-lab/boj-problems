@@ -1,13 +1,13 @@
 ---
-title: The Fastest Sorting Algorithm In The World
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "The Fastest Sorting Algorithm In The World"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 6542
 accepted: 4162
 solved_users: 3911
-acceptance_rate: 64.368%
-collected_at: 2026-04-17T16:44:43.142737+00:00
+acceptance_rate: "64.368%"
+collected_at: "2026-04-17T16:44:43.142737+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 산책길
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "산책길"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 523
 accepted: 182
 solved_users: 127
-acceptance_rate: 42.193%
-collected_at: 2026-04-17T10:45:28.672732+00:00
+acceptance_rate: "42.193%"
+collected_at: "2026-04-17T10:45:28.672732+00:00"
 ---
 
 ## 문제

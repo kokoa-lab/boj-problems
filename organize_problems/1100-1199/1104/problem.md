@@ -1,13 +1,13 @@
 ---
-title: 패턴
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "패턴"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 671
 accepted: 86
 solved_users: 66
-acceptance_rate: 14.194%
-collected_at: 2026-04-17T10:28:13.642118+00:00
+acceptance_rate: "14.194%"
+collected_at: "2026-04-17T10:28:13.642118+00:00"
 ---
 
 ## 문제

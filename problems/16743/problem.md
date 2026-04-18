@@ -1,13 +1,13 @@
 ---
-title: Eulerian Flight Tour
-special_judge: true
-time_limit: 3 초
-memory_limit: 512 MB
+title: "Eulerian Flight Tour"
+special_judge: "true"
+time_limit: "3 초"
+memory_limit: "512 MB"
 submissions: 198
 accepted: 47
 solved_users: 42
-acceptance_rate: 23.204%
-collected_at: 2026-04-17T14:23:17.625003+00:00
+acceptance_rate: "23.204%"
+collected_at: "2026-04-17T14:23:17.625003+00:00"
 ---
 
 ## 문제

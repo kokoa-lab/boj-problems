@@ -1,13 +1,13 @@
 ---
-title: Galou is back!
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Galou is back!"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 84
 accepted: 34
 solved_users: 16
-acceptance_rate: 29.630%
-collected_at: 2026-04-17T11:16:59.381613+00:00
+acceptance_rate: "29.630%"
+collected_at: "2026-04-17T11:16:59.381613+00:00"
 ---
 
 ## 문제

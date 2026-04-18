@@ -1,13 +1,13 @@
 ---
-title: Subset Sum
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Subset Sum"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 305
 accepted: 160
 solved_users: 121
-acceptance_rate: 50.840%
-collected_at: 2026-04-17T10:56:11.216297+00:00
+acceptance_rate: "50.840%"
+collected_at: "2026-04-17T10:56:11.216297+00:00"
 ---
 
 ## 문제

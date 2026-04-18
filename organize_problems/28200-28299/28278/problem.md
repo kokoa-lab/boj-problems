@@ -1,13 +1,13 @@
 ---
-title: 스택 2
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "스택 2"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 66431
 accepted: 25485
 solved_users: 21079
-acceptance_rate: 38.339%
-collected_at: 2026-04-17T18:21:42.203760+00:00
+acceptance_rate: "38.339%"
+collected_at: "2026-04-17T18:21:42.203760+00:00"
 ---
 
 ## 문제

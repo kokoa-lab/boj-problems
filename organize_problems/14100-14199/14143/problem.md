@@ -1,13 +1,13 @@
 ---
-title: Škola
-special_judge: false
-time_limit: 6 초
-memory_limit: 128 MB
+title: "Škola"
+special_judge: "false"
+time_limit: "6 초"
+memory_limit: "128 MB"
 submissions: 59
 accepted: 15
 solved_users: 7
-acceptance_rate: 38.889%
-collected_at: 2026-04-17T13:26:37.878584+00:00
+acceptance_rate: "38.889%"
+collected_at: "2026-04-17T13:26:37.878584+00:00"
 ---
 
 ## 문제

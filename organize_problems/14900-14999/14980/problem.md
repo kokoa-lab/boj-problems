@@ -1,13 +1,13 @@
 ---
-title: Equinox Roller Coaster
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Equinox Roller Coaster"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 85
 accepted: 14
 solved_users: 10
-acceptance_rate: 14.085%
-collected_at: 2026-04-17T13:47:33.730815+00:00
+acceptance_rate: "14.085%"
+collected_at: "2026-04-17T13:47:33.730815+00:00"
 ---
 
 ## 문제

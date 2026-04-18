@@ -1,13 +1,13 @@
 ---
-title: 오염 해결책
-special_judge: true
-time_limit: 1 초
-memory_limit: 128 MB
+title: "오염 해결책"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 229
 accepted: 43
 solved_users: 38
-acceptance_rate: 26.389%
-collected_at: 2026-04-17T12:04:31.431920+00:00
+acceptance_rate: "26.389%"
+collected_at: "2026-04-17T12:04:31.431920+00:00"
 ---
 
 ## 문제

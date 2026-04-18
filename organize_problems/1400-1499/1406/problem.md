@@ -1,13 +1,13 @@
 ---
-title: 에디터
-special_judge: false
-time_limit: 0.3 초  ( 하단 참고 )
-memory_limit: 512 MB
+title: "에디터"
+special_judge: "false"
+time_limit: "0.3 초  ( 하단 참고 )"
+memory_limit: "512 MB"
 submissions: 156389
 accepted: 46292
 solved_users: 31134
-acceptance_rate: 28.122%
-collected_at: 2026-04-17T10:29:58.315673+00:00
+acceptance_rate: "28.122%"
+collected_at: "2026-04-17T10:29:58.315673+00:00"
 ---
 
 ## 문제

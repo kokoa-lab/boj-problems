@@ -1,13 +1,13 @@
 ---
-title: APC는 왜 서브태스크 대회가 되었을까?
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "APC는 왜 서브태스크 대회가 되었을까?"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 4305
 accepted: 2114
 solved_users: 1804
-acceptance_rate: 54.125%
-collected_at: 2026-04-17T14:33:32.432225+00:00
+acceptance_rate: "54.125%"
+collected_at: "2026-04-17T14:33:32.432225+00:00"
 ---
 
 ## 문제

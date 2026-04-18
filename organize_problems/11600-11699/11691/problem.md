@@ -1,13 +1,13 @@
 ---
-title: LCM(i, j)
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "LCM(i, j)"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 719
 accepted: 300
 solved_users: 201
-acceptance_rate: 38.432%
-collected_at: 2026-04-17T12:44:07.741674+00:00
+acceptance_rate: "38.432%"
+collected_at: "2026-04-17T12:44:07.741674+00:00"
 ---
 
 ## 문제

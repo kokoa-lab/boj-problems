@@ -1,13 +1,13 @@
 ---
-title: Seats
-special_judge: true
-time_limit: 1.5 초
-memory_limit: 256 MB
+title: "Seats"
+special_judge: "true"
+time_limit: "1.5 초"
+memory_limit: "256 MB"
 submissions: 24
 accepted: 7
 solved_users: 5
-acceptance_rate: 83.333%
-collected_at: 2026-04-17T15:13:26.681065+00:00
+acceptance_rate: "83.333%"
+collected_at: "2026-04-17T15:13:26.681065+00:00"
 ---
 
 ## 문제

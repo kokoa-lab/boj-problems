@@ -1,13 +1,13 @@
 ---
-title: Urban Design
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Urban Design"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 70
 accepted: 45
 solved_users: 40
-acceptance_rate: 65.574%
-collected_at: 2026-04-17T14:17:02.730824+00:00
+acceptance_rate: "65.574%"
+collected_at: "2026-04-17T14:17:02.730824+00:00"
 ---
 
 ## 문제

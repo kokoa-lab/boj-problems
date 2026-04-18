@@ -1,13 +1,13 @@
 ---
-title: Jewelry Size
-special_judge: true
-time_limit: 3 초
-memory_limit: 512 MB
+title: "Jewelry Size"
+special_judge: "true"
+time_limit: "3 초"
+memory_limit: "512 MB"
 submissions: 115
 accepted: 58
 solved_users: 54
-acceptance_rate: 62.069%
-collected_at: 2026-04-17T16:10:07.308146+00:00
+acceptance_rate: "62.069%"
+collected_at: "2026-04-17T16:10:07.308146+00:00"
 ---
 
 ## 문제

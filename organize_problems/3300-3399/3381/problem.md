@@ -1,13 +1,13 @@
 ---
-title: Barrel
-special_judge: true
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Barrel"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 49
 accepted: 8
 solved_users: 5
-acceptance_rate: 18.519%
-collected_at: 2026-04-17T10:48:32.775032+00:00
+acceptance_rate: "18.519%"
+collected_at: "2026-04-17T10:48:32.775032+00:00"
 ---
 
 ## 문제

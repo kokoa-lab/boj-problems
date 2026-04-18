@@ -1,13 +1,13 @@
 ---
-title: 종점
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "종점"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 603
 accepted: 336
 solved_users: 229
-acceptance_rate: 52.644%
-collected_at: 2026-04-17T16:37:42.202674+00:00
+acceptance_rate: "52.644%"
+collected_at: "2026-04-17T16:37:42.202674+00:00"
 ---
 
 ## 문제

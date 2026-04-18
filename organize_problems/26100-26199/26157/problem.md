@@ -1,13 +1,13 @@
 ---
-title: 즉흥 여행 (Hard)
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "즉흥 여행 (Hard)"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 726
 accepted: 249
 solved_users: 181
-acceptance_rate: 32.849%
-collected_at: 2026-04-17T17:41:05.425032+00:00
+acceptance_rate: "32.849%"
+collected_at: "2026-04-17T17:41:05.425032+00:00"
 ---
 
 ## 문제

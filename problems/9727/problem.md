@@ -1,13 +1,13 @@
 ---
-title: Mini Sudoku X
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Mini Sudoku X"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 299
 accepted: 163
 solved_users: 99
-acceptance_rate: 48.768%
-collected_at: 2026-04-17T12:13:40.663811+00:00
+acceptance_rate: "48.768%"
+collected_at: "2026-04-17T12:13:40.663811+00:00"
 ---
 
 ## 문제

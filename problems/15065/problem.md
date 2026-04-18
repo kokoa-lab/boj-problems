@@ -1,13 +1,13 @@
 ---
-title: Dinoscan
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Dinoscan"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 93
 accepted: 21
 solved_users: 19
-acceptance_rate: 23.171%
-collected_at: 2026-04-17T13:50:04.884143+00:00
+acceptance_rate: "23.171%"
+collected_at: "2026-04-17T13:50:04.884143+00:00"
 ---
 
 ## 문제

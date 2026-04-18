@@ -1,13 +1,13 @@
 ---
-title: 등급 계산하기
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "등급 계산하기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 408
 accepted: 203
 solved_users: 171
-acceptance_rate: 50.742%
-collected_at: 2026-04-17T17:25:48.372257+00:00
+acceptance_rate: "50.742%"
+collected_at: "2026-04-17T17:25:48.372257+00:00"
 ---
 
 ## 문제

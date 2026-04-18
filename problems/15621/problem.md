@@ -1,13 +1,13 @@
 ---
-title: The Staging
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "The Staging"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 46
 accepted: 14
 solved_users: 11
-acceptance_rate: 34.375%
-collected_at: 2026-04-17T14:02:49.727738+00:00
+acceptance_rate: "34.375%"
+collected_at: "2026-04-17T14:02:49.727738+00:00"
 ---
 
 ## 문제

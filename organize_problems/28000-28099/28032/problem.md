@@ -1,13 +1,13 @@
 ---
-title: Field Day
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Field Day"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 232
 accepted: 132
 solved_users: 111
-acceptance_rate: 63.793%
-collected_at: 2026-04-17T18:17:04.937340+00:00
+acceptance_rate: "63.793%"
+collected_at: "2026-04-17T18:17:04.937340+00:00"
 ---
 
 ## 문제

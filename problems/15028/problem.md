@@ -1,13 +1,13 @@
 ---
-title: Breaking Biscuits
-special_judge: true
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Breaking Biscuits"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 486
 accepted: 277
 solved_users: 229
-acceptance_rate: 60.743%
-collected_at: 2026-04-17T13:48:36.986435+00:00
+acceptance_rate: "60.743%"
+collected_at: "2026-04-17T13:48:36.986435+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 라이언 동상 구하기
-special_judge: false
-time_limit: 3 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "라이언 동상 구하기"
+special_judge: "false"
+time_limit: "3 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 127
 accepted: 47
 solved_users: 41
-acceptance_rate: 45.556%
-collected_at: 2026-04-17T14:39:42.424238+00:00
+acceptance_rate: "45.556%"
+collected_at: "2026-04-17T14:39:42.424238+00:00"
 ---
 
 ## 문제

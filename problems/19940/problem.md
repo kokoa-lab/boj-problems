@@ -1,13 +1,13 @@
 ---
-title: 피자 오븐
-special_judge: false
-time_limit: 0.25 초 (추가 시간 없음)
-memory_limit: 256 MB
+title: "피자 오븐"
+special_judge: "false"
+time_limit: "0.25 초 (추가 시간 없음)"
+memory_limit: "256 MB"
 submissions: 8282
 accepted: 2142
 solved_users: 1582
-acceptance_rate: 26.791%
-collected_at: 2026-04-17T15:29:37.435419+00:00
+acceptance_rate: "26.791%"
+collected_at: "2026-04-17T15:29:37.435419+00:00"
 ---
 
 ## 문제

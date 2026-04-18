@@ -1,13 +1,13 @@
 ---
-title: Challenge Nine
-special_judge: false
-time_limit: 서브태스크 참고 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Challenge Nine"
+special_judge: "false"
+time_limit: "서브태스크 참고 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 335
 accepted: 140
 solved_users: 108
-acceptance_rate: 37.895%
-collected_at: 2026-04-17T17:15:58.550899+00:00
+acceptance_rate: "37.895%"
+collected_at: "2026-04-17T17:15:58.550899+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Game on two heaps
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Game on two heaps"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 84
 accepted: 30
 solved_users: 20
-acceptance_rate: 34.483%
-collected_at: 2026-04-17T17:06:54.586026+00:00
+acceptance_rate: "34.483%"
+collected_at: "2026-04-17T17:06:54.586026+00:00"
 ---
 
 ## 문제

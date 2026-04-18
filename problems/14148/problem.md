@@ -1,13 +1,13 @@
 ---
-title: Čestice
-special_judge: false
-time_limit: 5 초
-memory_limit: 64 MB
+title: "Čestice"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "64 MB"
 submissions: 15
 accepted: 4
 solved_users: 4
-acceptance_rate: 57.143%
-collected_at: 2026-04-17T13:26:45.854510+00:00
+acceptance_rate: "57.143%"
+collected_at: "2026-04-17T13:26:45.854510+00:00"
 ---
 
 ## 문제

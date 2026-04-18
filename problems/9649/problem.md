@@ -1,13 +1,13 @@
 ---
-title: Grachten
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Grachten"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 142
 accepted: 110
 solved_users: 104
-acceptance_rate: 78.195%
-collected_at: 2026-04-17T12:12:26.467365+00:00
+acceptance_rate: "78.195%"
+collected_at: "2026-04-17T12:12:26.467365+00:00"
 ---
 
 ## 문제

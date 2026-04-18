@@ -1,13 +1,13 @@
 ---
-title: Dudu of English
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Dudu of English"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 375
 accepted: 70
 solved_users: 47
-acceptance_rate: 19.028%
-collected_at: 2026-04-17T13:24:09.170739+00:00
+acceptance_rate: "19.028%"
+collected_at: "2026-04-17T13:24:09.170739+00:00"
 ---
 
 ## 문제

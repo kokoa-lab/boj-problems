@@ -1,13 +1,13 @@
 ---
-title: 빨간 버튼 파란 버튼
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "빨간 버튼 파란 버튼"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 822
 accepted: 160
 solved_users: 129
-acceptance_rate: 20.942%
-collected_at: 2026-04-17T13:28:10.194317+00:00
+acceptance_rate: "20.942%"
+collected_at: "2026-04-17T13:28:10.194317+00:00"
 ---
 
 ## 문제

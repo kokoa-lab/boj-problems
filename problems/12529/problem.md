@@ -1,13 +1,13 @@
 ---
-title: Extreme Escalator Pogo (Small)
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Extreme Escalator Pogo (Small)"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 21
 accepted: 12
 solved_users: 9
-acceptance_rate: 52.941%
-collected_at: 2026-04-17T12:56:54.363873+00:00
+acceptance_rate: "52.941%"
+collected_at: "2026-04-17T12:56:54.363873+00:00"
 ---
 
 ## 문제

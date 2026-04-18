@@ -1,13 +1,13 @@
 ---
-title: Олег и двоичные последовательности
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Олег и двоичные последовательности"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 14
 accepted: 5
 solved_users: 5
-acceptance_rate: 35.714%
-collected_at: 2026-04-17T15:30:11.290530+00:00
+acceptance_rate: "35.714%"
+collected_at: "2026-04-17T15:30:11.290530+00:00"
 ---
 
 ## 문제

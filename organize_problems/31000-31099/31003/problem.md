@@ -1,13 +1,13 @@
 ---
-title: 언젠가 정렬이 될 수 있으면 좋겠네.
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "언젠가 정렬이 될 수 있으면 좋겠네."
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 734
 accepted: 265
 solved_users: 213
-acceptance_rate: 40.649%
-collected_at: 2026-04-17T19:19:35.435329+00:00
+acceptance_rate: "40.649%"
+collected_at: "2026-04-17T19:19:35.435329+00:00"
 ---
 
 ## 문제

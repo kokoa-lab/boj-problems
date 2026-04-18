@@ -1,13 +1,13 @@
 ---
-title: 홍준이는 FFT를 좋아해
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "홍준이는 FFT를 좋아해"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 132
 accepted: 33
 solved_users: 20
-acceptance_rate: 32.787%
-collected_at: 2026-04-17T13:02:40.684983+00:00
+acceptance_rate: "32.787%"
+collected_at: "2026-04-17T13:02:40.684983+00:00"
 ---
 
 ## 문제

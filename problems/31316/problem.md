@@ -1,13 +1,13 @@
 ---
-title: Books
-special_judge: false
-time_limit: 6 초
-memory_limit: 1024 MB
+title: "Books"
+special_judge: "false"
+time_limit: "6 초"
+memory_limit: "1024 MB"
 submissions: 20
 accepted: 15
 solved_users: 12
-acceptance_rate: 70.588%
-collected_at: 2026-04-17T19:25:48.640306+00:00
+acceptance_rate: "70.588%"
+collected_at: "2026-04-17T19:25:48.640306+00:00"
 ---
 
 ## 문제

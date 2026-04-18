@@ -1,13 +1,13 @@
 ---
-title: 단어 만들기
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "단어 만들기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 2359
 accepted: 984
 solved_users: 743
-acceptance_rate: 43.273%
-collected_at: 2026-04-17T10:28:28.016776+00:00
+acceptance_rate: "43.273%"
+collected_at: "2026-04-17T10:28:28.016776+00:00"
 ---
 
 ## 문제

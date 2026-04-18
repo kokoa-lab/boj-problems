@@ -1,13 +1,13 @@
 ---
-title: Find the Vertex
-special_judge: true
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Find the Vertex"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 101
 accepted: 72
 solved_users: 55
-acceptance_rate: 67.901%
-collected_at: 2026-04-17T15:08:10.868905+00:00
+acceptance_rate: "67.901%"
+collected_at: "2026-04-17T15:08:10.868905+00:00"
 ---
 
 ## 문제

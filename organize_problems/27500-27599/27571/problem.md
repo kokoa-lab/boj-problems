@@ -1,13 +1,13 @@
 ---
-title: Color Tubes
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Color Tubes"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 60
 accepted: 23
 solved_users: 21
-acceptance_rate: 39.623%
-collected_at: 2026-04-17T18:06:44.843691+00:00
+acceptance_rate: "39.623%"
+collected_at: "2026-04-17T18:06:44.843691+00:00"
 ---
 
 ## 문제

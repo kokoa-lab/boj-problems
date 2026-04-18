@@ -1,13 +1,13 @@
 ---
-title: 고장난 통신탑
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "고장난 통신탑"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 355
 accepted: 64
 solved_users: 54
-acceptance_rate: 19.286%
-collected_at: 2026-04-17T17:29:06.090117+00:00
+acceptance_rate: "19.286%"
+collected_at: "2026-04-17T17:29:06.090117+00:00"
 ---
 
 ## 문제

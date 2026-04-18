@@ -1,13 +1,13 @@
 ---
-title: Оптическое распознавание символов
-special_judge: true
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Оптическое распознавание символов"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 102
 accepted: 73
 solved_users: 45
-acceptance_rate: 67.164%
-collected_at: 2026-04-17T18:48:03.662492+00:00
+acceptance_rate: "67.164%"
+collected_at: "2026-04-17T18:48:03.662492+00:00"
 ---
 
 ## 문제

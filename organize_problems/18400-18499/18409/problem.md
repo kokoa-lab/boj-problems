@@ -1,13 +1,13 @@
 ---
-title: 母音を数える (Counting Vowels)
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "母音を数える (Counting Vowels)"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 5121
 accepted: 3993
 solved_users: 3806
-acceptance_rate: 79.143%
-collected_at: 2026-04-18T09:50:59.597316+00:00
+acceptance_rate: "79.143%"
+collected_at: "2026-04-18T09:50:59.597316+00:00"
 ---
 
 ## 문제

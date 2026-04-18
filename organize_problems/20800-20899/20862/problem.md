@@ -1,13 +1,13 @@
 ---
-title: Femkortspelet
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Femkortspelet"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 6
 accepted: 3
 solved_users: 2
-acceptance_rate: 50.000%
-collected_at: 2026-04-17T15:42:23.895492+00:00
+acceptance_rate: "50.000%"
+collected_at: "2026-04-17T15:42:23.895492+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Center of Mass (Large)
-special_judge: true
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Center of Mass (Large)"
+special_judge: "true"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 175
 accepted: 62
 solved_users: 55
-acceptance_rate: 38.194%
-collected_at: 2026-04-17T12:58:54.646825+00:00
+acceptance_rate: "38.194%"
+collected_at: "2026-04-17T12:58:54.646825+00:00"
 ---
 
 ## 문제

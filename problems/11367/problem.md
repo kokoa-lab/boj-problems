@@ -1,13 +1,13 @@
 ---
-title: Report Card Time
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Report Card Time"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 2409
 accepted: 1802
 solved_users: 1686
-acceptance_rate: 76.014%
-collected_at: 2026-04-17T12:39:54.145148+00:00
+acceptance_rate: "76.014%"
+collected_at: "2026-04-17T12:39:54.145148+00:00"
 ---
 
 ## 문제

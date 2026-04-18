@@ -1,13 +1,13 @@
 ---
-title: Tournament Selection
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Tournament Selection"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 4302
 accepted: 2896
 solved_users: 2744
-acceptance_rate: 68.106%
-collected_at: 2026-04-17T13:24:27.670813+00:00
+acceptance_rate: "68.106%"
+collected_at: "2026-04-17T13:24:27.670813+00:00"
 ---
 
 ## 문제

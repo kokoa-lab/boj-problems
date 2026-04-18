@@ -1,13 +1,13 @@
 ---
-title: Tournament Matchmaking
-special_judge: false
-time_limit: 3 초 (추가 시간 없음)
-memory_limit: 2048 MB
+title: "Tournament Matchmaking"
+special_judge: "false"
+time_limit: "3 초 (추가 시간 없음)"
+memory_limit: "2048 MB"
 submissions: 32
 accepted: 21
 solved_users: 21
-acceptance_rate: 65.625%
-collected_at: 2026-04-17T19:29:49.352057+00:00
+acceptance_rate: "65.625%"
+collected_at: "2026-04-17T19:29:49.352057+00:00"
 ---
 
 ## 문제

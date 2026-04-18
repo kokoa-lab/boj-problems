@@ -1,13 +1,13 @@
 ---
-title: CCW
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "CCW"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 21282
 accepted: 12889
 solved_users: 10632
-acceptance_rate: 61.471%
-collected_at: 2026-04-17T12:45:30.427692+00:00
+acceptance_rate: "61.471%"
+collected_at: "2026-04-17T12:45:30.427692+00:00"
 ---
 
 ## 문제

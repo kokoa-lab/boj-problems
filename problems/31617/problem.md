@@ -1,13 +1,13 @@
 ---
-title: 差 (Difference)
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "差 (Difference)"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 377
 accepted: 327
 solved_users: 294
-acceptance_rate: 88.822%
-collected_at: 2026-04-17T19:32:09.390448+00:00
+acceptance_rate: "88.822%"
+collected_at: "2026-04-17T19:32:09.390448+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 문자열 접기
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "문자열 접기"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 128
 accepted: 79
 solved_users: 70
-acceptance_rate: 63.636%
-collected_at: 2026-04-17T14:26:32.219465+00:00
+acceptance_rate: "63.636%"
+collected_at: "2026-04-17T14:26:32.219465+00:00"
 ---
 
 ## 문제

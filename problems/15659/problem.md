@@ -1,13 +1,13 @@
 ---
-title: 연산자 끼워넣기 (3)
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "연산자 끼워넣기 (3)"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 1219
 accepted: 679
 solved_users: 523
-acceptance_rate: 57.663%
-collected_at: 2026-04-17T14:03:39.941026+00:00
+acceptance_rate: "57.663%"
+collected_at: "2026-04-17T14:03:39.941026+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 폴리큐브의 겉넓이
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "폴리큐브의 겉넓이"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 205
 accepted: 71
 solved_users: 65
-acceptance_rate: 37.791%
-collected_at: 2026-04-17T10:44:07.948968+00:00
+acceptance_rate: "37.791%"
+collected_at: "2026-04-17T10:44:07.948968+00:00"
 ---
 
 ## 문제

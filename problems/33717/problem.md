@@ -1,13 +1,13 @@
 ---
-title: 참새
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "참새"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 231
 accepted: 84
 solved_users: 61
-acceptance_rate: 36.527%
-collected_at: 2026-04-17T20:22:13.745598+00:00
+acceptance_rate: "36.527%"
+collected_at: "2026-04-17T20:22:13.745598+00:00"
 ---
 
 ## 문제

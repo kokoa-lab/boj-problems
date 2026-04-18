@@ -1,13 +1,13 @@
 ---
-title: 뒤집기 수열
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "뒤집기 수열"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 469
 accepted: 54
 solved_users: 40
-acceptance_rate: 16.807%
-collected_at: 2026-04-17T10:30:39.844606+00:00
+acceptance_rate: "16.807%"
+collected_at: "2026-04-17T10:30:39.844606+00:00"
 ---
 
 ## 문제

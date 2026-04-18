@@ -1,13 +1,13 @@
 ---
-title: 줄넘기
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "줄넘기"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 381
 accepted: 115
 solved_users: 75
-acceptance_rate: 36.585%
-collected_at: 2026-04-17T17:17:25.123467+00:00
+acceptance_rate: "36.585%"
+collected_at: "2026-04-17T17:17:25.123467+00:00"
 ---
 
 ## 문제

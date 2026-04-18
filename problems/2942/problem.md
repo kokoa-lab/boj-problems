@@ -1,13 +1,13 @@
 ---
-title: 퍼거슨과 사과
-special_judge: true
-time_limit: 1 초
-memory_limit: 128 MB
+title: "퍼거슨과 사과"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 4526
 accepted: 1887
 solved_users: 1504
-acceptance_rate: 45.770%
-collected_at: 2026-04-17T10:45:50.646789+00:00
+acceptance_rate: "45.770%"
+collected_at: "2026-04-17T10:45:50.646789+00:00"
 ---
 
 ## 문제

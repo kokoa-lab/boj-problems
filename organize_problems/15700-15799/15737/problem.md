@@ -1,13 +1,13 @@
 ---
-title: 일반 그래프 매칭
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "일반 그래프 매칭"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 607
 accepted: 279
 solved_users: 153
-acceptance_rate: 38.250%
-collected_at: 2026-04-17T14:05:29.973460+00:00
+acceptance_rate: "38.250%"
+collected_at: "2026-04-17T14:05:29.973460+00:00"
 ---
 
 ## 문제

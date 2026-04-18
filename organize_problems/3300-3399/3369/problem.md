@@ -1,13 +1,13 @@
 ---
-title: Countries
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Countries"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 56
 accepted: 34
 solved_users: 29
-acceptance_rate: 63.043%
-collected_at: 2026-04-17T10:48:27.807407+00:00
+acceptance_rate: "63.043%"
+collected_at: "2026-04-17T10:48:27.807407+00:00"
 ---
 
 ## 문제

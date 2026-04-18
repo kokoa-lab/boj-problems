@@ -1,13 +1,13 @@
 ---
-title: 금고 테스트
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "금고 테스트"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 2343
 accepted: 719
 solved_users: 520
-acceptance_rate: 33.142%
-collected_at: 2026-04-17T10:40:06.624616+00:00
+acceptance_rate: "33.142%"
+collected_at: "2026-04-17T10:40:06.624616+00:00"
 ---
 
 ## 문제

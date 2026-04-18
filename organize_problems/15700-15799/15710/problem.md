@@ -1,13 +1,13 @@
 ---
-title: xor 게임
-special_judge: false
-time_limit: 0.5 초
-memory_limit: 128 MB
+title: "xor 게임"
+special_judge: "false"
+time_limit: "0.5 초"
+memory_limit: "128 MB"
 submissions: 753
 accepted: 349
 solved_users: 297
-acceptance_rate: 45.552%
-collected_at: 2026-04-17T14:05:06.662985+00:00
+acceptance_rate: "45.552%"
+collected_at: "2026-04-17T14:05:06.662985+00:00"
 ---
 
 ## 문제

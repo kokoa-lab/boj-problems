@@ -1,13 +1,13 @@
 ---
-title: Новое слово в рекламе
-special_judge: true
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Новое слово в рекламе"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 0
 accepted: 0
 solved_users: 0
-acceptance_rate: 0.000%
-collected_at: 2026-04-17T16:02:56.141970+00:00
+acceptance_rate: "0.000%"
+collected_at: "2026-04-17T16:02:56.141970+00:00"
 ---
 
 ## 문제

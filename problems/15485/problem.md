@@ -1,13 +1,13 @@
 ---
-title: \(a^ib^jc^k\)
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "\\(a^ib^jc^k\\)"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 370
 accepted: 248
 solved_users: 173
-acceptance_rate: 65.283%
-collected_at: 2026-04-17T14:00:11.935369+00:00
+acceptance_rate: "65.283%"
+collected_at: "2026-04-17T14:00:11.935369+00:00"
 ---
 
 ## 문제

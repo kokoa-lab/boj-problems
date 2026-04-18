@@ -1,13 +1,13 @@
 ---
-title: Designant.
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Designant."
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 89
 accepted: 25
 solved_users: 16
-acceptance_rate: 21.622%
-collected_at: 2026-04-17T20:59:35.065228+00:00
+acceptance_rate: "21.622%"
+collected_at: "2026-04-17T20:59:35.065228+00:00"
 ---
 
 ## 문제

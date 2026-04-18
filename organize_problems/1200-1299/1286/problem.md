@@ -1,13 +1,13 @@
 ---
-title: 부분 직사각형
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "부분 직사각형"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 561
 accepted: 342
 solved_users: 311
-acceptance_rate: 62.828%
-collected_at: 2026-04-17T10:29:17.866845+00:00
+acceptance_rate: "62.828%"
+collected_at: "2026-04-17T10:29:17.866845+00:00"
 ---
 
 ## 문제

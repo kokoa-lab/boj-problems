@@ -1,13 +1,13 @@
 ---
-title: Reactor
-special_judge: false
-time_limit: 7 초
-memory_limit: 2048 MB
+title: "Reactor"
+special_judge: "false"
+time_limit: "7 초"
+memory_limit: "2048 MB"
 submissions: 38
 accepted: 19
 solved_users: 18
-acceptance_rate: 56.250%
-collected_at: 2026-04-17T20:43:23.102950+00:00
+acceptance_rate: "56.250%"
+collected_at: "2026-04-17T20:43:23.102950+00:00"
 ---
 
 ## 문제

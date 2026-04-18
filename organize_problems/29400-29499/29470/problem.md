@@ -1,13 +1,13 @@
 ---
-title: Деловые встречи
-special_judge: true
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Деловые встречи"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 448
 accepted: 6
 solved_users: 6
-acceptance_rate: 1.367%
-collected_at: 2026-04-17T18:44:56.630664+00:00
+acceptance_rate: "1.367%"
+collected_at: "2026-04-17T18:44:56.630664+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Ice Hockey World Championship
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Ice Hockey World Championship"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 277
 accepted: 118
 solved_users: 95
-acceptance_rate: 47.500%
-collected_at: 2026-04-17T12:32:27.135296+00:00
+acceptance_rate: "47.500%"
+collected_at: "2026-04-17T12:32:27.135296+00:00"
 ---
 
 ## 문제

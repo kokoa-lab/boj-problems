@@ -1,13 +1,13 @@
 ---
-title: 두부장수 장홍준 3
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "두부장수 장홍준 3"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 579
 accepted: 174
 solved_users: 81
-acceptance_rate: 30.798%
-collected_at: 2026-04-17T13:32:54.685226+00:00
+acceptance_rate: "30.798%"
+collected_at: "2026-04-17T13:32:54.685226+00:00"
 ---
 
 ## 문제

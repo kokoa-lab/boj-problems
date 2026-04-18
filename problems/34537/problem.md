@@ -1,13 +1,13 @@
 ---
-title: Island Cities
-special_judge: true
-time_limit: 3 초
-memory_limit: 1024 MB
+title: "Island Cities"
+special_judge: "true"
+time_limit: "3 초"
+memory_limit: "1024 MB"
 submissions: 96
 accepted: 37
 solved_users: 34
-acceptance_rate: 36.957%
-collected_at: 2026-04-17T20:42:15.273902+00:00
+acceptance_rate: "36.957%"
+collected_at: "2026-04-17T20:42:15.273902+00:00"
 ---
 
 ## 문제

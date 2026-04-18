@@ -1,13 +1,13 @@
 ---
-title: 싱글 플레이어 게임
-special_judge: false
-time_limit: 10 초
-memory_limit: 1024 MB
+title: "싱글 플레이어 게임"
+special_judge: "false"
+time_limit: "10 초"
+memory_limit: "1024 MB"
 submissions: 395
 accepted: 32
 solved_users: 25
-acceptance_rate: 12.887%
-collected_at: 2026-04-17T19:20:48.624274+00:00
+acceptance_rate: "12.887%"
+collected_at: "2026-04-17T19:20:48.624274+00:00"
 ---
 
 ## 문제

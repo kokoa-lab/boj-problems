@@ -1,13 +1,13 @@
 ---
-title: 군대탈출하기
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "군대탈출하기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 1977
 accepted: 522
 solved_users: 362
-acceptance_rate: 25.121%
-collected_at: 2026-04-17T13:46:28.364101+00:00
+acceptance_rate: "25.121%"
+collected_at: "2026-04-17T13:46:28.364101+00:00"
 ---
 
 ## 문제

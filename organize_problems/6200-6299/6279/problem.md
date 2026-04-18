@@ -1,13 +1,13 @@
 ---
-title: 삼각형 피자
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "삼각형 피자"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 79
 accepted: 48
 solved_users: 46
-acceptance_rate: 69.697%
-collected_at: 2026-04-18T09:49:03.057978+00:00
+acceptance_rate: "69.697%"
+collected_at: "2026-04-18T09:49:03.057978+00:00"
 ---
 
 ## 문제

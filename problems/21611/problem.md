@@ -1,13 +1,13 @@
 ---
-title: 마법사 상어와 블리자드
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "마법사 상어와 블리자드"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 19166
 accepted: 5269
 solved_users: 3180
-acceptance_rate: 25.412%
-collected_at: 2026-04-17T16:01:21.725916+00:00
+acceptance_rate: "25.412%"
+collected_at: "2026-04-17T16:01:21.725916+00:00"
 ---
 
 ## 문제

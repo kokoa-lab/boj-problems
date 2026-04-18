@@ -1,13 +1,13 @@
 ---
-title: 9진수
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "9진수"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 2866
 accepted: 1953
 solved_users: 1778
-acceptance_rate: 69.318%
-collected_at: 2026-04-17T13:36:05.974587+00:00
+acceptance_rate: "69.318%"
+collected_at: "2026-04-17T13:36:05.974587+00:00"
 ---
 
 ## 문제

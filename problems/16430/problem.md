@@ -1,13 +1,13 @@
 ---
-title: 제리와 톰
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "제리와 톰"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 17800
 accepted: 14898
 solved_users: 14210
-acceptance_rate: 84.488%
-collected_at: 2026-04-17T14:17:50.438244+00:00
+acceptance_rate: "84.488%"
+collected_at: "2026-04-17T14:17:50.438244+00:00"
 ---
 
 ## 문제

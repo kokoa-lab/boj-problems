@@ -1,13 +1,13 @@
 ---
-title: 3단 초콜릿 아이스크림
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "3단 초콜릿 아이스크림"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 840
 accepted: 645
 solved_users: 595
-acceptance_rate: 79.228%
-collected_at: 2026-04-17T18:21:14.670710+00:00
+acceptance_rate: "79.228%"
+collected_at: "2026-04-17T18:21:14.670710+00:00"
 ---
 
 ## 문제

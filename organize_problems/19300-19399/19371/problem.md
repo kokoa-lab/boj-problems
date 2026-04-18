@@ -1,13 +1,13 @@
 ---
-title: Triangle
-special_judge: false
-time_limit: 3 초
-memory_limit: 512 MB
+title: "Triangle"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "512 MB"
 submissions: 82
 accepted: 20
 solved_users: 18
-acceptance_rate: 30.508%
-collected_at: 2026-04-17T15:18:21.518838+00:00
+acceptance_rate: "30.508%"
+collected_at: "2026-04-17T15:18:21.518838+00:00"
 ---
 
 ## 문제

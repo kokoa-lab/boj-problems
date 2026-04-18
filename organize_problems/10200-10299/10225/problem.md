@@ -1,13 +1,13 @@
 ---
-title: Cluedo
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Cluedo"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 101
 accepted: 50
 solved_users: 44
-acceptance_rate: 49.438%
-collected_at: 2026-04-17T12:20:40.853764+00:00
+acceptance_rate: "49.438%"
+collected_at: "2026-04-17T12:20:40.853764+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 자전거 속도
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "자전거 속도"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 3111
 accepted: 1912
 solved_users: 1760
-acceptance_rate: 63.309%
-collected_at: 2026-04-17T10:44:39.800732+00:00
+acceptance_rate: "63.309%"
+collected_at: "2026-04-17T10:44:39.800732+00:00"
 ---
 
 ## 문제

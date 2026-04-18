@@ -1,13 +1,13 @@
 ---
-title: Portal (Small)
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Portal (Small)"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 130
 accepted: 39
 solved_users: 34
-acceptance_rate: 34.694%
-collected_at: 2026-04-17T12:59:57.272155+00:00
+acceptance_rate: "34.694%"
+collected_at: "2026-04-17T12:59:57.272155+00:00"
 ---
 
 ## 문제

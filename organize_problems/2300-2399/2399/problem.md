@@ -1,13 +1,13 @@
 ---
-title: 거리의 합
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "거리의 합"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 9967
 accepted: 3847
 solved_users: 3196
-acceptance_rate: 39.608%
-collected_at: 2026-04-17T10:41:20.125192+00:00
+acceptance_rate: "39.608%"
+collected_at: "2026-04-17T10:41:20.125192+00:00"
 ---
 
 ## 문제

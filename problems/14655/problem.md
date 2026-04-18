@@ -1,13 +1,13 @@
 ---
-title: 욱제는 도박쟁이야!!
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "욱제는 도박쟁이야!!"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 1861
 accepted: 1537
 solved_users: 1344
-acceptance_rate: 84.105%
-collected_at: 2026-04-17T13:40:01.044665+00:00
+acceptance_rate: "84.105%"
+collected_at: "2026-04-17T13:40:01.044665+00:00"
 ---
 
 ## 문제

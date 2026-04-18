@@ -1,13 +1,13 @@
 ---
-title: St. Ives
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "St. Ives"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 3346
 accepted: 2256
 solved_users: 2141
-acceptance_rate: 68.337%
-collected_at: 2026-04-17T11:07:17.902983+00:00
+acceptance_rate: "68.337%"
+collected_at: "2026-04-17T11:07:17.902983+00:00"
 ---
 
 ## 문제

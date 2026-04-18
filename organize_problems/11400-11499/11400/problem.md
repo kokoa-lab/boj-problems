@@ -1,13 +1,13 @@
 ---
-title: 단절선
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "단절선"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 10050
 accepted: 4433
 solved_users: 2793
-acceptance_rate: 41.556%
-collected_at: 2026-04-17T12:40:15.084360+00:00
+acceptance_rate: "41.556%"
+collected_at: "2026-04-17T12:40:15.084360+00:00"
 ---
 
 ## 문제

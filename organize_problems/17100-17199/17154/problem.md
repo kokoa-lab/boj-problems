@@ -1,13 +1,13 @@
 ---
-title: Dead-End Detector
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Dead-End Detector"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 300
 accepted: 103
 solved_users: 72
-acceptance_rate: 42.604%
-collected_at: 2026-04-17T14:31:16.499584+00:00
+acceptance_rate: "42.604%"
+collected_at: "2026-04-17T14:31:16.499584+00:00"
 ---
 
 ## 문제

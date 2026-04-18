@@ -1,13 +1,13 @@
 ---
-title: 산맥 그리기
-special_judge: true
-time_limit: 2 초
-memory_limit: 128 MB
+title: "산맥 그리기"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 529
 accepted: 109
 solved_users: 21
-acceptance_rate: 12.209%
-collected_at: 2026-04-17T10:40:14.853036+00:00
+acceptance_rate: "12.209%"
+collected_at: "2026-04-17T10:40:14.853036+00:00"
 ---
 
 ## 문제

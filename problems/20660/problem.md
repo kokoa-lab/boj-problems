@@ -1,13 +1,13 @@
 ---
-title: Pizza
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Pizza"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 282
 accepted: 223
 solved_users: 192
-acceptance_rate: 83.478%
-collected_at: 2026-04-17T15:39:36.357854+00:00
+acceptance_rate: "83.478%"
+collected_at: "2026-04-17T15:39:36.357854+00:00"
 ---
 
 ## 문제

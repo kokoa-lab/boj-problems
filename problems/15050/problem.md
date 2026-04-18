@@ -1,13 +1,13 @@
 ---
-title: Laboratório de biotecnologia
-special_judge: false
-time_limit: 7 초
-memory_limit: 1024 MB
+title: "Laboratório de biotecnologia"
+special_judge: "false"
+time_limit: "7 초"
+memory_limit: "1024 MB"
 submissions: 87
 accepted: 50
 solved_users: 36
-acceptance_rate: 63.158%
-collected_at: 2026-04-17T13:49:18.792278+00:00
+acceptance_rate: "63.158%"
+collected_at: "2026-04-17T13:49:18.792278+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: The Kingdom of JOIOI
-special_judge: false
-time_limit: 4 초
-memory_limit: 256 MB
+title: "The Kingdom of JOIOI"
+special_judge: "false"
+time_limit: "4 초"
+memory_limit: "256 MB"
 submissions: 223
 accepted: 95
 solved_users: 75
-acceptance_rate: 40.761%
-collected_at: 2026-04-17T13:32:59.744701+00:00
+acceptance_rate: "40.761%"
+collected_at: "2026-04-17T13:32:59.744701+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Rain Diary
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Rain Diary"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 1667
 accepted: 1045
 solved_users: 980
-acceptance_rate: 63.226%
-collected_at: 2026-04-17T17:57:42.411356+00:00
+acceptance_rate: "63.226%"
+collected_at: "2026-04-17T17:57:42.411356+00:00"
 ---
 
 ## 문제

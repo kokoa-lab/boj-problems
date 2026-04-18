@@ -1,13 +1,13 @@
 ---
-title: April Fools
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "April Fools"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 56
 accepted: 10
 solved_users: 8
-acceptance_rate: 17.021%
-collected_at: 2026-04-17T19:00:56.730273+00:00
+acceptance_rate: "17.021%"
+collected_at: "2026-04-17T19:00:56.730273+00:00"
 ---
 
 ## 문제

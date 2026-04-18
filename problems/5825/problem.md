@@ -1,13 +1,13 @@
 ---
-title: Yin and Yang
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "Yin and Yang"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 277
 accepted: 99
 solved_users: 73
-acceptance_rate: 33.032%
-collected_at: 2026-04-17T11:17:43.546415+00:00
+acceptance_rate: "33.032%"
+collected_at: "2026-04-17T11:17:43.546415+00:00"
 ---
 
 ## 문제

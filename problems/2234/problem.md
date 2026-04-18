@@ -1,13 +1,13 @@
 ---
-title: 성곽
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "성곽"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 14522
 accepted: 7463
 solved_users: 5317
-acceptance_rate: 50.194%
-collected_at: 2026-04-17T10:39:49.457963+00:00
+acceptance_rate: "50.194%"
+collected_at: "2026-04-17T10:39:49.457963+00:00"
 ---
 
 ## 문제

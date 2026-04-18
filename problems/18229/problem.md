@@ -1,13 +1,13 @@
 ---
-title: 내가 살게, 아냐 내가 살게
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "내가 살게, 아냐 내가 살게"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 1416
 accepted: 840
 solved_users: 756
-acceptance_rate: 60.095%
-collected_at: 2026-04-17T14:57:40.476595+00:00
+acceptance_rate: "60.095%"
+collected_at: "2026-04-17T14:57:40.476595+00:00"
 ---
 
 ## 문제

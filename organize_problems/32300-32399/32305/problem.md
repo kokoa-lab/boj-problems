@@ -1,13 +1,13 @@
 ---
-title: Farmers’ Market
-special_judge: false
-time_limit: 5 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Farmers’ Market"
+special_judge: "false"
+time_limit: "5 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 293
 accepted: 244
 solved_users: 225
-acceptance_rate: 83.026%
-collected_at: 2026-04-17T19:48:26.067628+00:00
+acceptance_rate: "83.026%"
+collected_at: "2026-04-17T19:48:26.067628+00:00"
 ---
 
 ## 문제

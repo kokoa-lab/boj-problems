@@ -1,13 +1,13 @@
 ---
-title: Byte Me!
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Byte Me!"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 141
 accepted: 88
 solved_users: 75
-acceptance_rate: 60.484%
-collected_at: 2026-04-17T13:54:05.032733+00:00
+acceptance_rate: "60.484%"
+collected_at: "2026-04-17T13:54:05.032733+00:00"
 ---
 
 ## 문제

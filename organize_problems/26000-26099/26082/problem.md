@@ -1,13 +1,13 @@
 ---
-title: WARBOY
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "WARBOY"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 8255
 accepted: 6313
 solved_users: 6096
-acceptance_rate: 76.815%
-collected_at: 2026-04-17T17:39:52.402624+00:00
+acceptance_rate: "76.815%"
+collected_at: "2026-04-17T17:39:52.402624+00:00"
 ---
 
 ## 문제

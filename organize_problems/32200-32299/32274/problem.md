@@ -1,13 +1,13 @@
 ---
-title: 수열 탈집중화
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "수열 탈집중화"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 123
 accepted: 65
 solved_users: 53
-acceptance_rate: 57.609%
-collected_at: 2026-04-17T19:47:43.224604+00:00
+acceptance_rate: "57.609%"
+collected_at: "2026-04-17T19:47:43.224604+00:00"
 ---
 
 ## 문제

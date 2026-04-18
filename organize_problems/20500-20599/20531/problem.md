@@ -1,13 +1,13 @@
 ---
-title: 인간관계
-special_judge: false
-time_limit: 1 초
-memory_limit: 1536 MB
+title: "인간관계"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1536 MB"
 submissions: 891
 accepted: 367
 solved_users: 283
-acceptance_rate: 38.451%
-collected_at: 2026-04-17T15:37:36.814111+00:00
+acceptance_rate: "38.451%"
+collected_at: "2026-04-17T15:37:36.814111+00:00"
 ---
 
 ## 문제

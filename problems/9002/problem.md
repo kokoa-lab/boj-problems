@@ -1,13 +1,13 @@
 ---
-title: Match Maker
-special_judge: true
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Match Maker"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 147
 accepted: 99
 solved_users: 90
-acceptance_rate: 69.231%
-collected_at: 2026-04-17T12:06:01.362787+00:00
+acceptance_rate: "69.231%"
+collected_at: "2026-04-17T12:06:01.362787+00:00"
 ---
 
 ## 문제

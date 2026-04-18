@@ -1,13 +1,13 @@
 ---
-title: Krusty’s Burger
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Krusty’s Burger"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 30
 accepted: 15
 solved_users: 10
-acceptance_rate: 41.667%
-collected_at: 2026-04-17T12:37:38.092180+00:00
+acceptance_rate: "41.667%"
+collected_at: "2026-04-17T12:37:38.092180+00:00"
 ---
 
 ## 문제

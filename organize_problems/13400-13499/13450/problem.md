@@ -1,13 +1,13 @@
 ---
-title: László Babai
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "László Babai"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 262
 accepted: 191
 solved_users: 167
-acceptance_rate: 78.774%
-collected_at: 2026-04-17T13:13:20.842970+00:00
+acceptance_rate: "78.774%"
+collected_at: "2026-04-17T13:13:20.842970+00:00"
 ---
 
 ## 문제

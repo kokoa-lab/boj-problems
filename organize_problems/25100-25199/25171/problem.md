@@ -1,13 +1,13 @@
 ---
-title: 긴장한 아리와 쿠기의 카드게임
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "긴장한 아리와 쿠기의 카드게임"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 158
 accepted: 64
 solved_users: 54
-acceptance_rate: 41.221%
-collected_at: 2026-04-17T17:21:59.881238+00:00
+acceptance_rate: "41.221%"
+collected_at: "2026-04-17T17:21:59.881238+00:00"
 ---
 
 ## 문제

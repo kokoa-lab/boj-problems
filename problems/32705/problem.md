@@ -1,13 +1,13 @@
 ---
-title: Sonic 3 & Knuckles 5
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Sonic 3 & Knuckles 5"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 21
 accepted: 10
 solved_users: 10
-acceptance_rate: 76.923%
-collected_at: 2026-04-17T19:59:29.703337+00:00
+acceptance_rate: "76.923%"
+collected_at: "2026-04-17T19:59:29.703337+00:00"
 ---
 
 ## 문제

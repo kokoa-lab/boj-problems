@@ -1,13 +1,13 @@
 ---
-title: 단백질 접기
-special_judge: false
-time_limit: 0.111 초 (추가 시간 없음)
-memory_limit: 111 MB (추가 메모리 없음)
+title: "단백질 접기"
+special_judge: "false"
+time_limit: "0.111 초 (추가 시간 없음)"
+memory_limit: "111 MB (추가 메모리 없음)"
 submissions: 359
 accepted: 32
 solved_users: 26
-acceptance_rate: 11.159%
-collected_at: 2026-04-17T20:31:13.050991+00:00
+acceptance_rate: "11.159%"
+collected_at: "2026-04-17T20:31:13.050991+00:00"
 ---
 
 ## 문제

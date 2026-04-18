@@ -1,13 +1,13 @@
 ---
-title: 데이터 만들기 7
-special_judge: true
-time_limit: 1 초
-memory_limit: 128 MB
+title: "데이터 만들기 7"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 300
 accepted: 109
 solved_users: 86
-acceptance_rate: 38.393%
-collected_at: 2026-04-17T11:46:26.073425+00:00
+acceptance_rate: "38.393%"
+collected_at: "2026-04-17T11:46:26.073425+00:00"
 ---
 
 ## 문제

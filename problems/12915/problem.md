@@ -1,13 +1,13 @@
 ---
-title: 대회 개최
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "대회 개최"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 1040
 accepted: 389
 solved_users: 317
-acceptance_rate: 38.611%
-collected_at: 2026-04-17T13:03:51.861035+00:00
+acceptance_rate: "38.611%"
+collected_at: "2026-04-17T13:03:51.861035+00:00"
 ---
 
 ## 문제

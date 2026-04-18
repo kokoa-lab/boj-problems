@@ -1,13 +1,13 @@
 ---
-title: 금화
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "금화"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 1243
 accepted: 292
 solved_users: 242
-acceptance_rate: 23.679%
-collected_at: 2026-04-17T10:39:38.448645+00:00
+acceptance_rate: "23.679%"
+collected_at: "2026-04-17T10:39:38.448645+00:00"
 ---
 
 ## 문제

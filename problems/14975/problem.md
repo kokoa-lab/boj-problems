@@ -1,13 +1,13 @@
 ---
-title: Go around the Labyrinth
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Go around the Labyrinth"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 55
 accepted: 15
 solved_users: 12
-acceptance_rate: 32.432%
-collected_at: 2026-04-17T13:47:28.879046+00:00
+acceptance_rate: "32.432%"
+collected_at: "2026-04-17T13:47:28.879046+00:00"
 ---
 
 ## 문제

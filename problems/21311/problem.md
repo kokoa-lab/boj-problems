@@ -1,13 +1,13 @@
 ---
-title: Evenly Separated Strings
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Evenly Separated Strings"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 203
 accepted: 104
 solved_users: 85
-acceptance_rate: 55.921%
-collected_at: 2026-04-17T15:54:49.597150+00:00
+acceptance_rate: "55.921%"
+collected_at: "2026-04-17T15:54:49.597150+00:00"
 ---
 
 ## 문제

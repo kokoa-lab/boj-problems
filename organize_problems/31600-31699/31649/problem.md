@@ -1,13 +1,13 @@
 ---
-title: Milk Exchange
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Milk Exchange"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 428
 accepted: 131
 solved_users: 113
-acceptance_rate: 37.919%
-collected_at: 2026-04-17T19:33:10.280712+00:00
+acceptance_rate: "37.919%"
+collected_at: "2026-04-17T19:33:10.280712+00:00"
 ---
 
 ## 문제

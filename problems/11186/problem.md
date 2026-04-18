@@ -1,13 +1,13 @@
 ---
-title: Spam Filter
-special_judge: true
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Spam Filter"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 97
 accepted: 22
 solved_users: 18
-acceptance_rate: 30.000%
-collected_at: 2026-04-17T12:37:45.605358+00:00
+acceptance_rate: "30.000%"
+collected_at: "2026-04-17T12:37:45.605358+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 단어순서 뒤집기
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "단어순서 뒤집기"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 10955
 accepted: 6743
 solved_users: 5782
-acceptance_rate: 62.052%
-collected_at: 2026-04-17T12:58:21.736741+00:00
+acceptance_rate: "62.052%"
+collected_at: "2026-04-17T12:58:21.736741+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: The game of death
-special_judge: false
-time_limit: 3 초
-memory_limit: 256 MB
+title: "The game of death"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "256 MB"
 submissions: 1407
 accepted: 631
 solved_users: 420
-acceptance_rate: 42.296%
-collected_at: 2026-04-17T10:38:24.614815+00:00
+acceptance_rate: "42.296%"
+collected_at: "2026-04-17T10:38:24.614815+00:00"
 ---
 
 ## 문제

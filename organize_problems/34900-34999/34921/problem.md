@@ -1,13 +1,13 @@
 ---
-title: 덕후
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "덕후"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 1981
 accepted: 1464
 solved_users: 1407
-acceptance_rate: 74.053%
-collected_at: 2026-04-17T20:51:58.562054+00:00
+acceptance_rate: "74.053%"
+collected_at: "2026-04-17T20:51:58.562054+00:00"
 ---
 
 ## 문제

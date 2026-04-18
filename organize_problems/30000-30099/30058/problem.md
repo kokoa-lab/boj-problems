@@ -1,13 +1,13 @@
 ---
-title: Apsnigtas takelis
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Apsnigtas takelis"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 36
 accepted: 23
 solved_users: 18
-acceptance_rate: 64.286%
-collected_at: 2026-04-17T18:58:12.588525+00:00
+acceptance_rate: "64.286%"
+collected_at: "2026-04-17T18:58:12.588525+00:00"
 ---
 
 ## 문제

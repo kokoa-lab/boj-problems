@@ -1,13 +1,13 @@
 ---
-title: НУЛИ
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "НУЛИ"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 188
 accepted: 101
 solved_users: 90
-acceptance_rate: 69.231%
-collected_at: 2026-04-17T17:07:55.590443+00:00
+acceptance_rate: "69.231%"
+collected_at: "2026-04-17T17:07:55.590443+00:00"
 ---
 
 ## 문제

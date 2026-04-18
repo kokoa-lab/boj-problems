@@ -1,13 +1,13 @@
 ---
-title: 이상한 수열
-special_judge: false
-time_limit: 1 초
-memory_limit: 64 MB
+title: "이상한 수열"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "64 MB"
 submissions: 615
 accepted: 183
 solved_users: 148
-acceptance_rate: 29.659%
-collected_at: 2026-04-17T12:47:40.371270+00:00
+acceptance_rate: "29.659%"
+collected_at: "2026-04-17T12:47:40.371270+00:00"
 ---
 
 ## 문제

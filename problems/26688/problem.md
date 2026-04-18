@@ -1,13 +1,13 @@
 ---
-title: Cukierki
-special_judge: false
-time_limit: 3 초
-memory_limit: 1024 MB
+title: "Cukierki"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "1024 MB"
 submissions: 8
 accepted: 6
 solved_users: 5
-acceptance_rate: 83.333%
-collected_at: 2026-04-17T17:49:51.536322+00:00
+acceptance_rate: "83.333%"
+collected_at: "2026-04-17T17:49:51.536322+00:00"
 ---
 
 ## 문제

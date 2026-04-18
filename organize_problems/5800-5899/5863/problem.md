@@ -1,13 +1,13 @@
 ---
-title: Crazy Fences
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Crazy Fences"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 219
 accepted: 59
 solved_users: 35
-acceptance_rate: 21.739%
-collected_at: 2026-04-17T11:18:06.298679+00:00
+acceptance_rate: "21.739%"
+collected_at: "2026-04-17T11:18:06.298679+00:00"
 ---
 
 ## 문제

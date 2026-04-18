@@ -1,13 +1,13 @@
 ---
-title: Miniature Golf
-special_judge: false
-time_limit: 6 초
-memory_limit: 512 MB
+title: "Miniature Golf"
+special_judge: "false"
+time_limit: "6 초"
+memory_limit: "512 MB"
 submissions: 93
 accepted: 37
 solved_users: 34
-acceptance_rate: 43.038%
-collected_at: 2026-04-17T14:31:22.566692+00:00
+acceptance_rate: "43.038%"
+collected_at: "2026-04-17T14:31:22.566692+00:00"
 ---
 
 ## 문제

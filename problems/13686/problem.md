@@ -1,13 +1,13 @@
 ---
-title: Vampiros
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Vampiros"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 26
 accepted: 13
 solved_users: 6
-acceptance_rate: 31.579%
-collected_at: 2026-04-17T13:17:15.479942+00:00
+acceptance_rate: "31.579%"
+collected_at: "2026-04-17T13:17:15.479942+00:00"
 ---
 
 ## 문제

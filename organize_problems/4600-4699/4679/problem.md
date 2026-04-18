@@ -1,13 +1,13 @@
 ---
-title: The Snail
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "The Snail"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 286
 accepted: 126
 solved_users: 109
-acceptance_rate: 45.992%
-collected_at: 2026-04-17T11:06:56.090265+00:00
+acceptance_rate: "45.992%"
+collected_at: "2026-04-17T11:06:56.090265+00:00"
 ---
 
 ## 문제

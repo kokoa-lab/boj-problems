@@ -1,13 +1,13 @@
 ---
-title: 별이 빛나는 밤에
-special_judge: true
-time_limit: 1 초
-memory_limit: 512 MB
+title: "별이 빛나는 밤에"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 774
 accepted: 189
 solved_users: 114
-acceptance_rate: 20.541%
-collected_at: 2026-04-17T14:58:00.577185+00:00
+acceptance_rate: "20.541%"
+collected_at: "2026-04-17T14:58:00.577185+00:00"
 ---
 
 ## 문제

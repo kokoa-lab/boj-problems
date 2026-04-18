@@ -1,13 +1,13 @@
 ---
-title: 다트
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "다트"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 1451
 accepted: 796
 solved_users: 681
-acceptance_rate: 56.797%
-collected_at: 2026-04-17T10:44:38.168409+00:00
+acceptance_rate: "56.797%"
+collected_at: "2026-04-17T10:44:38.168409+00:00"
 ---
 
 ## 문제

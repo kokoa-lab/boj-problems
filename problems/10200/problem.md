@@ -1,13 +1,13 @@
 ---
-title: Jam Factory
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Jam Factory"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 68
 accepted: 14
 solved_users: 10
-acceptance_rate: 17.241%
-collected_at: 2026-04-17T12:20:17.593737+00:00
+acceptance_rate: "17.241%"
+collected_at: "2026-04-17T12:20:17.593737+00:00"
 ---
 
 ## 문제

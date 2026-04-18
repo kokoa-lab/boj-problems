@@ -1,13 +1,13 @@
 ---
-title: Brackets
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Brackets"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 17
 accepted: 5
 solved_users: 4
-acceptance_rate: 36.364%
-collected_at: 2026-04-17T11:59:59.264832+00:00
+acceptance_rate: "36.364%"
+collected_at: "2026-04-17T11:59:59.264832+00:00"
 ---
 
 ## 문제

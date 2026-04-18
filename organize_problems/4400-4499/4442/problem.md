@@ -1,13 +1,13 @@
 ---
-title: 빌보의 생일
-special_judge: false
-time_limit: 3 초
-memory_limit: 256 MB
+title: "빌보의 생일"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "256 MB"
 submissions: 551
 accepted: 266
 solved_users: 224
-acceptance_rate: 59.259%
-collected_at: 2026-04-17T11:01:46.313032+00:00
+acceptance_rate: "59.259%"
+collected_at: "2026-04-17T11:01:46.313032+00:00"
 ---
 
 ## 문제

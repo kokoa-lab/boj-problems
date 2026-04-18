@@ -1,13 +1,13 @@
 ---
-title: Area Between Outer Hull and Inner Hull
-special_judge: false
-time_limit: 5 초
-memory_limit: 128 MB
+title: "Area Between Outer Hull and Inner Hull"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "128 MB"
 submissions: 133
 accepted: 55
 solved_users: 48
-acceptance_rate: 39.024%
-collected_at: 2026-04-17T12:13:53.946750+00:00
+acceptance_rate: "39.024%"
+collected_at: "2026-04-17T12:13:53.946750+00:00"
 ---
 
 ## 문제

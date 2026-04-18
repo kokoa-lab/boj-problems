@@ -1,13 +1,13 @@
 ---
-title: Bijeg
-special_judge: true
-time_limit: 10 초
-memory_limit: 1024 MB
+title: "Bijeg"
+special_judge: "true"
+time_limit: "10 초"
+memory_limit: "1024 MB"
 submissions: 12
 accepted: 3
 solved_users: 1
-acceptance_rate: 11.111%
-collected_at: 2026-04-17T17:44:33.617636+00:00
+acceptance_rate: "11.111%"
+collected_at: "2026-04-17T17:44:33.617636+00:00"
 ---
 
 ## 문제

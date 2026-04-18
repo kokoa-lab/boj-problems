@@ -1,13 +1,13 @@
 ---
-title: 스프레드시트
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "스프레드시트"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 440
 accepted: 100
 solved_users: 64
-acceptance_rate: 22.939%
-collected_at: 2026-04-17T11:28:19.870334+00:00
+acceptance_rate: "22.939%"
+collected_at: "2026-04-17T11:28:19.870334+00:00"
 ---
 
 ## 문제

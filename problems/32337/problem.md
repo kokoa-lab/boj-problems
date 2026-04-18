@@ -1,13 +1,13 @@
 ---
-title: 제비 통신
-special_judge: false
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "제비 통신"
+special_judge: "false"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 169
 accepted: 78
 solved_users: 59
-acceptance_rate: 45.038%
-collected_at: 2026-04-17T19:49:10.390561+00:00
+acceptance_rate: "45.038%"
+collected_at: "2026-04-17T19:49:10.390561+00:00"
 ---
 
 ## 문제

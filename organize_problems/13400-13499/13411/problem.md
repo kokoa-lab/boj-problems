@@ -1,13 +1,13 @@
 ---
-title: 하늘에서 정의가 빗발친다!
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "하늘에서 정의가 빗발친다!"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 2686
 accepted: 1097
 solved_users: 905
-acceptance_rate: 42.648%
-collected_at: 2026-04-17T13:12:52.538706+00:00
+acceptance_rate: "42.648%"
+collected_at: "2026-04-17T13:12:52.538706+00:00"
 ---
 
 ## 문제

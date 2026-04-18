@@ -1,13 +1,13 @@
 ---
-title: Преобразование таблицы
-special_judge: false
-time_limit: 4 초
-memory_limit: 512 MB
+title: "Преобразование таблицы"
+special_judge: "false"
+time_limit: "4 초"
+memory_limit: "512 MB"
 submissions: 31
 accepted: 9
 solved_users: 7
-acceptance_rate: 33.333%
-collected_at: 2026-04-17T15:28:36.977603+00:00
+acceptance_rate: "33.333%"
+collected_at: "2026-04-17T15:28:36.977603+00:00"
 ---
 
 ## 문제

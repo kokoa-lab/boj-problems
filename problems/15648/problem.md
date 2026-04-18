@@ -1,13 +1,13 @@
 ---
-title: 추출하는 폴도 바리스타입니다
-special_judge: false
-time_limit: 1.5 초
-memory_limit: 64 MB
+title: "추출하는 폴도 바리스타입니다"
+special_judge: "false"
+time_limit: "1.5 초"
+memory_limit: "64 MB"
 submissions: 818
 accepted: 392
 solved_users: 288
-acceptance_rate: 49.315%
-collected_at: 2026-04-17T14:03:14.768416+00:00
+acceptance_rate: "49.315%"
+collected_at: "2026-04-17T14:03:14.768416+00:00"
 ---
 
 ## 문제

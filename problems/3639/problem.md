@@ -1,13 +1,13 @@
 ---
-title: K Best
-special_judge: true
-time_limit: 2 초
-memory_limit: 64 MB
+title: "K Best"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "64 MB"
 submissions: 293
 accepted: 83
 solved_users: 65
-acceptance_rate: 26.531%
-collected_at: 2026-04-17T10:50:26.478682+00:00
+acceptance_rate: "26.531%"
+collected_at: "2026-04-17T10:50:26.478682+00:00"
 ---
 
 ## 문제

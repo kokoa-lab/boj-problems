@@ -1,13 +1,13 @@
 ---
-title: 무한 이진 트리 탐색
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "무한 이진 트리 탐색"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 645
 accepted: 175
 solved_users: 132
-acceptance_rate: 33.333%
-collected_at: 2026-04-17T10:45:57.613222+00:00
+acceptance_rate: "33.333%"
+collected_at: "2026-04-17T10:45:57.613222+00:00"
 ---
 
 ## 문제

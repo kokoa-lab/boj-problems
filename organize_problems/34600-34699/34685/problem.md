@@ -1,13 +1,13 @@
 ---
-title: 이차 방정식
-special_judge: false
-time_limit: 1 초
-memory_limit: 2048 MB
+title: "이차 방정식"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "2048 MB"
 submissions: 316
 accepted: 160
 solved_users: 108
-acceptance_rate: 49.770%
-collected_at: 2026-04-17T20:45:58.240667+00:00
+acceptance_rate: "49.770%"
+collected_at: "2026-04-17T20:45:58.240667+00:00"
 ---
 
 ## 문제

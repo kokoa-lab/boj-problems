@@ -1,13 +1,13 @@
 ---
-title: Password
-special_judge: false
-time_limit: 3 초
-memory_limit: 1024 MB
+title: "Password"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "1024 MB"
 submissions: 63
 accepted: 20
 solved_users: 19
-acceptance_rate: 32.203%
-collected_at: 2026-04-17T17:09:24.506668+00:00
+acceptance_rate: "32.203%"
+collected_at: "2026-04-17T17:09:24.506668+00:00"
 ---
 
 ## 문제

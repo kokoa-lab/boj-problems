@@ -1,13 +1,13 @@
 ---
-title: Flipping Parentheses
-special_judge: false
-time_limit: 5 초
-memory_limit: 256 MB
+title: "Flipping Parentheses"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "256 MB"
 submissions: 84
 accepted: 42
 solved_users: 37
-acceptance_rate: 60.656%
-collected_at: 2026-04-17T12:22:07.354485+00:00
+acceptance_rate: "60.656%"
+collected_at: "2026-04-17T12:22:07.354485+00:00"
 ---
 
 ## 문제

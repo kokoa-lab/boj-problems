@@ -1,13 +1,13 @@
 ---
-title: Liczby pechowe
-special_judge: false
-time_limit: 12 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Liczby pechowe"
+special_judge: "false"
+time_limit: "12 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 42
 accepted: 38
 solved_users: 23
-acceptance_rate: 88.462%
-collected_at: 2026-04-17T17:51:22.353510+00:00
+acceptance_rate: "88.462%"
+collected_at: "2026-04-17T17:51:22.353510+00:00"
 ---
 
 ## 문제

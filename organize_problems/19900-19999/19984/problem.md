@@ -1,13 +1,13 @@
 ---
-title: Черепахи в пруду
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Черепахи в пруду"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 9
 accepted: 7
 solved_users: 7
-acceptance_rate: 77.778%
-collected_at: 2026-04-17T15:30:09.916714+00:00
+acceptance_rate: "77.778%"
+collected_at: "2026-04-17T15:30:09.916714+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Vista 4
-special_judge: false
-time_limit: 0.1 초
-memory_limit: 128 MB
+title: "Vista 4"
+special_judge: "false"
+time_limit: "0.1 초"
+memory_limit: "128 MB"
 submissions: 47
 accepted: 37
 solved_users: 27
-acceptance_rate: 61.364%
-collected_at: 2026-04-17T15:32:16.649651+00:00
+acceptance_rate: "61.364%"
+collected_at: "2026-04-17T15:32:16.649651+00:00"
 ---
 
 ## 문제

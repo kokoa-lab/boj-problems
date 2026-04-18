@@ -1,13 +1,13 @@
 ---
-title: Zombie Smash (Small)
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Zombie Smash (Small)"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 21
 accepted: 15
 solved_users: 14
-acceptance_rate: 77.778%
-collected_at: 2026-04-17T12:54:11.534634+00:00
+acceptance_rate: "77.778%"
+collected_at: "2026-04-17T12:54:11.534634+00:00"
 ---
 
 ## 문제

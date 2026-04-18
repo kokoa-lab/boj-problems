@@ -1,13 +1,13 @@
 ---
-title: Deda
-special_judge: false
-time_limit: 1 초
-memory_limit: 64 MB
+title: "Deda"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "64 MB"
 submissions: 70
 accepted: 45
 solved_users: 41
-acceptance_rate: 68.333%
-collected_at: 2026-04-17T13:47:13.507053+00:00
+acceptance_rate: "68.333%"
+collected_at: "2026-04-17T13:47:13.507053+00:00"
 ---
 
 ## 문제

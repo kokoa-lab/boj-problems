@@ -1,13 +1,13 @@
 ---
-title: 김밥
-special_judge: false
-time_limit: 3 초
-memory_limit: 1024 MB
+title: "김밥"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "1024 MB"
 submissions: 300
 accepted: 137
 solved_users: 97
-acceptance_rate: 44.700%
-collected_at: 2026-04-17T17:28:50.468238+00:00
+acceptance_rate: "44.700%"
+collected_at: "2026-04-17T17:28:50.468238+00:00"
 ---
 
 ## 문제

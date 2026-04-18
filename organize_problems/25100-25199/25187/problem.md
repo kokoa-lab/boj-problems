@@ -1,13 +1,13 @@
 ---
-title: 고인물이 싫어요
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "고인물이 싫어요"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 1310
 accepted: 561
 solved_users: 470
-acceptance_rate: 45.499%
-collected_at: 2026-04-17T17:22:16.342269+00:00
+acceptance_rate: "45.499%"
+collected_at: "2026-04-17T17:22:16.342269+00:00"
 ---
 
 ## 문제

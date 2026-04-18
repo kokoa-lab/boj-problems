@@ -1,13 +1,13 @@
 ---
-title: BOI acronym
-special_judge: false
-time_limit: 2 초
-memory_limit: 2048 MB
+title: "BOI acronym"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "2048 MB"
 submissions: 65
 accepted: 15
 solved_users: 14
-acceptance_rate: 22.581%
-collected_at: 2026-04-17T20:24:51.359350+00:00
+acceptance_rate: "22.581%"
+collected_at: "2026-04-17T20:24:51.359350+00:00"
 ---
 
 ## 문제

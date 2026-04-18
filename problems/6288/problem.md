@@ -1,13 +1,13 @@
 ---
-title: Ball Machine
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Ball Machine"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 56
 accepted: 31
 solved_users: 21
-acceptance_rate: 56.757%
-collected_at: 2026-04-18T09:49:11.714705+00:00
+acceptance_rate: "56.757%"
+collected_at: "2026-04-18T09:49:11.714705+00:00"
 ---
 
 ## 문제

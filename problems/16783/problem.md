@@ -1,13 +1,13 @@
 ---
-title: Bulldozer
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Bulldozer"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 1240
 accepted: 329
 solved_users: 191
-acceptance_rate: 20.693%
-collected_at: 2026-04-17T14:23:56.118529+00:00
+acceptance_rate: "20.693%"
+collected_at: "2026-04-17T14:23:56.118529+00:00"
 ---
 
 ## 문제

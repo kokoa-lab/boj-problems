@@ -1,13 +1,13 @@
 ---
-title: 랜섬웨어와 비트코인
-special_judge: true
-time_limit: 1 초
-memory_limit: 512 MB
+title: "랜섬웨어와 비트코인"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 240
 accepted: 153
 solved_users: 103
-acceptance_rate: 64.780%
-collected_at: 2026-04-17T19:31:17.198173+00:00
+acceptance_rate: "64.780%"
+collected_at: "2026-04-17T19:31:17.198173+00:00"
 ---
 
 ## 문제

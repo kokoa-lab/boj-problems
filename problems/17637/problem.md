@@ -1,13 +1,13 @@
 ---
-title: Count Squares
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Count Squares"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 160
 accepted: 102
 solved_users: 64
-acceptance_rate: 52.893%
-collected_at: 2026-04-17T14:43:21.584860+00:00
+acceptance_rate: "52.893%"
+collected_at: "2026-04-17T14:43:21.584860+00:00"
 ---
 
 ## 문제

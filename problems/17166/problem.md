@@ -1,13 +1,13 @@
 ---
-title: Voronoi Diagram Again
-special_judge: false
-time_limit: 5 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Voronoi Diagram Again"
+special_judge: "false"
+time_limit: "5 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 211
 accepted: 54
 solved_users: 52
-acceptance_rate: 30.952%
-collected_at: 2026-04-17T14:31:45.309263+00:00
+acceptance_rate: "30.952%"
+collected_at: "2026-04-17T14:31:45.309263+00:00"
 ---
 
 ## 문제

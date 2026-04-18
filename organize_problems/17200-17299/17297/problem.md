@@ -1,13 +1,13 @@
 ---
-title: Messi Gimossi
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Messi Gimossi"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 1866
 accepted: 901
 solved_users: 653
-acceptance_rate: 48.192%
-collected_at: 2026-04-17T14:36:43.252735+00:00
+acceptance_rate: "48.192%"
+collected_at: "2026-04-17T14:36:43.252735+00:00"
 ---
 
 ## 문제

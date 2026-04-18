@@ -1,13 +1,13 @@
 ---
-title: Territory Game
-special_judge: false
-time_limit: 3 초
-memory_limit: 512 MB
+title: "Territory Game"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "512 MB"
 submissions: 23
 accepted: 4
 solved_users: 2
-acceptance_rate: 100.000%
-collected_at: 2026-04-17T15:19:15.741080+00:00
+acceptance_rate: "100.000%"
+collected_at: "2026-04-17T15:19:15.741080+00:00"
 ---
 
 ## 문제

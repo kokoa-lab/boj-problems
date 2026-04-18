@@ -1,13 +1,13 @@
 ---
-title: 트로피 진열
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "트로피 진열"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 9482
 accepted: 5144
 solved_users: 4462
-acceptance_rate: 55.574%
-collected_at: 2026-04-17T10:32:09.869427+00:00
+acceptance_rate: "55.574%"
+collected_at: "2026-04-17T10:32:09.869427+00:00"
 ---
 
 ## 문제

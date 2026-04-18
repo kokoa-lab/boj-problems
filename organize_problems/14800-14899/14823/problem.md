@@ -1,13 +1,13 @@
 ---
-title: Googlements (Small)
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Googlements (Small)"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 54
 accepted: 27
 solved_users: 20
-acceptance_rate: 46.512%
-collected_at: 2026-04-17T13:42:29.800613+00:00
+acceptance_rate: "46.512%"
+collected_at: "2026-04-17T13:42:29.800613+00:00"
 ---
 
 ## 문제

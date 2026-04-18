@@ -1,13 +1,13 @@
 ---
-title: 인하니카 공화국
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "인하니카 공화국"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 3337
 accepted: 1322
 solved_users: 990
-acceptance_rate: 38.283%
-collected_at: 2026-04-17T13:01:23.137160+00:00
+acceptance_rate: "38.283%"
+collected_at: "2026-04-17T13:01:23.137160+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 숫자탑과 쿼리
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "숫자탑과 쿼리"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 1276
 accepted: 461
 solved_users: 348
-acceptance_rate: 37.140%
-collected_at: 2026-04-17T18:18:34.342835+00:00
+acceptance_rate: "37.140%"
+collected_at: "2026-04-17T18:18:34.342835+00:00"
 ---
 
 ## 문제

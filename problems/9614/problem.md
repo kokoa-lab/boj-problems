@@ -1,13 +1,13 @@
 ---
-title: 잠금 패턴과 스패닝 트리
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "잠금 패턴과 스패닝 트리"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 189
 accepted: 96
 solved_users: 74
-acceptance_rate: 54.412%
-collected_at: 2026-04-17T12:11:54.273947+00:00
+acceptance_rate: "54.412%"
+collected_at: "2026-04-17T12:11:54.273947+00:00"
 ---
 
 ## 문제

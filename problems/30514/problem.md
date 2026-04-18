@@ -1,13 +1,13 @@
 ---
-title: 두근 어질
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "두근 어질"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 279
 accepted: 81
 solved_users: 44
-acceptance_rate: 34.921%
-collected_at: 2026-04-17T19:08:23.625676+00:00
+acceptance_rate: "34.921%"
+collected_at: "2026-04-17T19:08:23.625676+00:00"
 ---
 
 ## 문제

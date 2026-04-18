@@ -1,13 +1,13 @@
 ---
-title: Watchmen
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Watchmen"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 24
 accepted: 20
 solved_users: 17
-acceptance_rate: 80.952%
-collected_at: 2026-04-17T19:16:10.326079+00:00
+acceptance_rate: "80.952%"
+collected_at: "2026-04-17T19:16:10.326079+00:00"
 ---
 
 ## 문제

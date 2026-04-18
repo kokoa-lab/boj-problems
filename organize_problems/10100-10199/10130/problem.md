@@ -1,13 +1,13 @@
 ---
-title: Rally
-special_judge: true
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Rally"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 231
 accepted: 28
 solved_users: 22
-acceptance_rate: 13.665%
-collected_at: 2026-04-17T12:19:24.450142+00:00
+acceptance_rate: "13.665%"
+collected_at: "2026-04-17T12:19:24.450142+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Meticulous smoothing
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Meticulous smoothing"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 54
 accepted: 33
 solved_users: 32
-acceptance_rate: 62.745%
-collected_at: 2026-04-17T17:06:23.225105+00:00
+acceptance_rate: "62.745%"
+collected_at: "2026-04-17T17:06:23.225105+00:00"
 ---
 
 ## 문제

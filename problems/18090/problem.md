@@ -1,13 +1,13 @@
 ---
-title: Kitesurfing
-special_judge: false
-time_limit: 4 초
-memory_limit: 512 MB
+title: "Kitesurfing"
+special_judge: "false"
+time_limit: "4 초"
+memory_limit: "512 MB"
 submissions: 58
 accepted: 17
 solved_users: 13
-acceptance_rate: 34.211%
-collected_at: 2026-04-17T14:55:29.530537+00:00
+acceptance_rate: "34.211%"
+collected_at: "2026-04-17T14:55:29.530537+00:00"
 ---
 
 ## 문제

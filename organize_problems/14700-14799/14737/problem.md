@@ -1,13 +1,13 @@
 ---
-title: Dev, Please Add This!
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Dev, Please Add This!"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 405
 accepted: 122
 solved_users: 80
-acceptance_rate: 29.630%
-collected_at: 2026-04-17T13:41:17.091155+00:00
+acceptance_rate: "29.630%"
+collected_at: "2026-04-17T13:41:17.091155+00:00"
 ---
 
 ## 문제

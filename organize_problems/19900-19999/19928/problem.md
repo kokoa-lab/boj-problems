@@ -1,13 +1,13 @@
 ---
-title: Sky Walking
-special_judge: false
-time_limit: 4 초
-memory_limit: 1024 MB
+title: "Sky Walking"
+special_judge: "false"
+time_limit: "4 초"
+memory_limit: "1024 MB"
 submissions: 56
 accepted: 25
 solved_users: 24
-acceptance_rate: 46.154%
-collected_at: 2026-04-17T15:29:29.439084+00:00
+acceptance_rate: "46.154%"
+collected_at: "2026-04-17T15:29:29.439084+00:00"
 ---
 
 ## 문제

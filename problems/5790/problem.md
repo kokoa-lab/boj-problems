@@ -1,13 +1,13 @@
 ---
-title: Log Books
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Log Books"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 103
 accepted: 77
 solved_users: 52
-acceptance_rate: 70.270%
-collected_at: 2026-04-17T11:17:27.103690+00:00
+acceptance_rate: "70.270%"
+collected_at: "2026-04-17T11:17:27.103690+00:00"
 ---
 
 ## 문제

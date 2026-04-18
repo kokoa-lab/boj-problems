@@ -1,13 +1,13 @@
 ---
-title: Hedgemony (Large)
-special_judge: true
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Hedgemony (Large)"
+special_judge: "true"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 352
 accepted: 303
 solved_users: 291
-acceptance_rate: 86.866%
-collected_at: 2026-04-17T12:54:03.114254+00:00
+acceptance_rate: "86.866%"
+collected_at: "2026-04-17T12:54:03.114254+00:00"
 ---
 
 ## 문제

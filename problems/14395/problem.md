@@ -1,13 +1,13 @@
 ---
-title: 4연산
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "4연산"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 10808
 accepted: 3508
 solved_users: 2483
-acceptance_rate: 29.712%
-collected_at: 2026-04-17T13:32:02.695534+00:00
+acceptance_rate: "29.712%"
+collected_at: "2026-04-17T13:32:02.695534+00:00"
 ---
 
 ## 문제

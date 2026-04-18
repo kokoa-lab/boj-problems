@@ -1,13 +1,13 @@
 ---
-title: Ruler
-special_judge: true
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Ruler"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 26
 accepted: 9
 solved_users: 8
-acceptance_rate: 42.105%
-collected_at: 2026-04-18T09:50:42.835395+00:00
+acceptance_rate: "42.105%"
+collected_at: "2026-04-18T09:50:42.835395+00:00"
 ---
 
 ## 문제

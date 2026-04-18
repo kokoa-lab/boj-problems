@@ -1,13 +1,13 @@
 ---
-title: Putovanje
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Putovanje"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 103
 accepted: 52
 solved_users: 47
-acceptance_rate: 54.651%
-collected_at: 2026-04-17T15:04:21.000990+00:00
+acceptance_rate: "54.651%"
+collected_at: "2026-04-17T15:04:21.000990+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 순환 순열
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "순환 순열"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 1511
 accepted: 813
 solved_users: 631
-acceptance_rate: 57.996%
-collected_at: 2026-04-17T12:50:19.017606+00:00
+acceptance_rate: "57.996%"
+collected_at: "2026-04-17T12:50:19.017606+00:00"
 ---
 
 ## 문제

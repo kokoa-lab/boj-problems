@@ -1,13 +1,13 @@
 ---
-title: 선인장의 독립집합
-special_judge: true
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "선인장의 독립집합"
+special_judge: "true"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 140
 accepted: 36
 solved_users: 20
-acceptance_rate: 21.739%
-collected_at: 2026-04-17T16:39:45.689754+00:00
+acceptance_rate: "21.739%"
+collected_at: "2026-04-17T16:39:45.689754+00:00"
 ---
 
 ## 문제

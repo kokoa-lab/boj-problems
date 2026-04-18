@@ -1,13 +1,13 @@
 ---
-title: GONDOR
-special_judge: true
-time_limit: 1 초
-memory_limit: 128 MB
+title: "GONDOR"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 50
 accepted: 32
 solved_users: 28
-acceptance_rate: 68.293%
-collected_at: 2026-04-17T10:46:52.962491+00:00
+acceptance_rate: "68.293%"
+collected_at: "2026-04-17T10:46:52.962491+00:00"
 ---
 
 ## 문제

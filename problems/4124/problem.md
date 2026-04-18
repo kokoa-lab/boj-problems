@@ -1,13 +1,13 @@
 ---
-title: Secret Polynomial
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Secret Polynomial"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 52
 accepted: 16
 solved_users: 15
-acceptance_rate: 37.500%
-collected_at: 2026-04-17T10:56:07.553116+00:00
+acceptance_rate: "37.500%"
+collected_at: "2026-04-17T10:56:07.553116+00:00"
 ---
 
 ## 문제

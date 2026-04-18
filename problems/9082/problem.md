@@ -1,13 +1,13 @@
 ---
-title: 지뢰찾기
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "지뢰찾기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 1823
 accepted: 878
 solved_users: 691
-acceptance_rate: 51.916%
-collected_at: 2026-04-17T12:06:53.970891+00:00
+acceptance_rate: "51.916%"
+collected_at: "2026-04-17T12:06:53.970891+00:00"
 ---
 
 ## 문제

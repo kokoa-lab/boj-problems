@@ -1,13 +1,13 @@
 ---
-title: 카드 뽑기
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "카드 뽑기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 804
 accepted: 401
 solved_users: 334
-acceptance_rate: 51.149%
-collected_at: 2026-04-17T17:56:11.314637+00:00
+acceptance_rate: "51.149%"
+collected_at: "2026-04-17T17:56:11.314637+00:00"
 ---
 
 ## 문제

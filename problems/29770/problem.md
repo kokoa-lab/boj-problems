@@ -1,13 +1,13 @@
 ---
-title: 서로 다른 최대 구간 쿼리
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "서로 다른 최대 구간 쿼리"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 218
 accepted: 86
 solved_users: 70
-acceptance_rate: 37.838%
-collected_at: 2026-04-17T18:52:27.595836+00:00
+acceptance_rate: "37.838%"
+collected_at: "2026-04-17T18:52:27.595836+00:00"
 ---
 
 ## 문제

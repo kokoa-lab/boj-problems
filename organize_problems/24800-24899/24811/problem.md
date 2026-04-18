@@ -1,13 +1,13 @@
 ---
-title: Touchdown!
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Touchdown!"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 56
 accepted: 27
 solved_users: 23
-acceptance_rate: 46.000%
-collected_at: 2026-04-17T17:15:32.070866+00:00
+acceptance_rate: "46.000%"
+collected_at: "2026-04-17T17:15:32.070866+00:00"
 ---
 
 ## 문제

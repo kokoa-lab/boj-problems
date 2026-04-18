@@ -1,13 +1,13 @@
 ---
-title: WFF 'N PROOF
-special_judge: true
-time_limit: 1 초
-memory_limit: 128 MB
+title: "WFF 'N PROOF"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 33
 accepted: 16
 solved_users: 15
-acceptance_rate: 48.387%
-collected_at: 2026-04-17T10:58:32.374780+00:00
+acceptance_rate: "48.387%"
+collected_at: "2026-04-17T10:58:32.374780+00:00"
 ---
 
 ## 문제

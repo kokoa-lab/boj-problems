@@ -1,13 +1,13 @@
 ---
-title: Обратная задача о наибольшей возрастающей подпоследовательности
-special_judge: true
-time_limit: 2 초
-memory_limit: 256 MB
+title: "Обратная задача о наибольшей возрастающей подпоследовательности"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 14
 accepted: 14
 solved_users: 10
-acceptance_rate: 100.000%
-collected_at: 2026-04-17T16:14:46.472249+00:00
+acceptance_rate: "100.000%"
+collected_at: "2026-04-17T16:14:46.472249+00:00"
 ---
 
 ## 문제

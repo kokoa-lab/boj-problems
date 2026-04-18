@@ -1,13 +1,13 @@
 ---
-title: All Kill
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "All Kill"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 466
 accepted: 279
 solved_users: 186
-acceptance_rate: 61.184%
-collected_at: 2026-04-17T15:06:05.903925+00:00
+acceptance_rate: "61.184%"
+collected_at: "2026-04-17T15:06:05.903925+00:00"
 ---
 
 ## 문제

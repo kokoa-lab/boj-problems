@@ -1,13 +1,13 @@
 ---
-title: X に最も近い値 (The Nearest Value)
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "X に最も近い値 (The Nearest Value)"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 2862
 accepted: 2075
 solved_users: 1969
-acceptance_rate: 73.007%
-collected_at: 2026-04-18T09:50:58.862565+00:00
+acceptance_rate: "73.007%"
+collected_at: "2026-04-18T09:50:58.862565+00:00"
 ---
 
 ## 문제

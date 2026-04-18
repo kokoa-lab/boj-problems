@@ -1,13 +1,13 @@
 ---
-title: Космический корабль
-special_judge: true
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Космический корабль"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 284
 accepted: 204
 solved_users: 171
-acceptance_rate: 70.661%
-collected_at: 2026-04-17T18:35:52.055320+00:00
+acceptance_rate: "70.661%"
+collected_at: "2026-04-17T18:35:52.055320+00:00"
 ---
 
 ## 문제

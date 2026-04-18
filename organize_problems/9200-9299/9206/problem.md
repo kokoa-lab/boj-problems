@@ -1,13 +1,13 @@
 ---
-title: 나무 말고 꽃
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "나무 말고 꽃"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 1815
 accepted: 320
 solved_users: 146
-acceptance_rate: 11.957%
-collected_at: 2026-04-17T12:07:54.393295+00:00
+acceptance_rate: "11.957%"
+collected_at: "2026-04-17T12:07:54.393295+00:00"
 ---
 
 ## 문제

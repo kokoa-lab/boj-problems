@@ -1,13 +1,13 @@
 ---
-title: Ultimate Binary Watch
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Ultimate Binary Watch"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 469
 accepted: 251
 solved_users: 191
-acceptance_rate: 53.352%
-collected_at: 2026-04-17T17:11:25.011910+00:00
+acceptance_rate: "53.352%"
+collected_at: "2026-04-17T17:11:25.011910+00:00"
 ---
 
 ## 문제

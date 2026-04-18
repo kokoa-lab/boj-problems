@@ -1,13 +1,13 @@
 ---
-title: 힐베르트 곡선
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "힐베르트 곡선"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 167
 accepted: 27
 solved_users: 20
-acceptance_rate: 16.949%
-collected_at: 2026-04-17T11:06:29.090768+00:00
+acceptance_rate: "16.949%"
+collected_at: "2026-04-17T11:06:29.090768+00:00"
 ---
 
 ## 문제

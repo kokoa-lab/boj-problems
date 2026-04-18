@@ -1,13 +1,13 @@
 ---
-title: 비밀 메시지
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "비밀 메시지"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 285
 accepted: 134
 solved_users: 113
-acceptance_rate: 48.291%
-collected_at: 2026-04-17T12:17:34.875309+00:00
+acceptance_rate: "48.291%"
+collected_at: "2026-04-17T12:17:34.875309+00:00"
 ---
 
 ## 문제

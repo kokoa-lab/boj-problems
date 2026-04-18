@@ -1,13 +1,13 @@
 ---
-title: Chess Puzzle
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Chess Puzzle"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 192
 accepted: 150
 solved_users: 138
-acceptance_rate: 80.233%
-collected_at: 2026-04-17T11:12:34.463667+00:00
+acceptance_rate: "80.233%"
+collected_at: "2026-04-17T11:12:34.463667+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 비슷한 전화번호 표시
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "비슷한 전화번호 표시"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 919
 accepted: 554
 solved_users: 483
-acceptance_rate: 61.139%
-collected_at: 2026-04-17T17:39:14.724660+00:00
+acceptance_rate: "61.139%"
+collected_at: "2026-04-17T17:39:14.724660+00:00"
 ---
 
 ## 문제

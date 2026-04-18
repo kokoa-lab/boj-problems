@@ -1,13 +1,13 @@
 ---
-title: Bad Keming
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Bad Keming"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 100
 accepted: 27
 solved_users: 25
-acceptance_rate: 27.473%
-collected_at: 2026-04-17T14:21:04.808937+00:00
+acceptance_rate: "27.473%"
+collected_at: "2026-04-17T14:21:04.808937+00:00"
 ---
 
 ## 문제

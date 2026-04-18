@@ -1,13 +1,13 @@
 ---
-title: Missing Gnomes
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Missing Gnomes"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 131
 accepted: 80
 solved_users: 73
-acceptance_rate: 62.393%
-collected_at: 2026-04-17T14:10:29.773337+00:00
+acceptance_rate: "62.393%"
+collected_at: "2026-04-17T14:10:29.773337+00:00"
 ---
 
 ## 문제

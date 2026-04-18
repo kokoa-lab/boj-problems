@@ -1,13 +1,13 @@
 ---
-title: \(I\)교신자 1
-special_judge: false
-time_limit: 3 초
-memory_limit: 256 MB
+title: "\\(I\\)교신자 1"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "256 MB"
 submissions: 178
 accepted: 43
 solved_users: 35
-acceptance_rate: 27.132%
-collected_at: 2026-04-17T12:28:25.922655+00:00
+acceptance_rate: "27.132%"
+collected_at: "2026-04-17T12:28:25.922655+00:00"
 ---
 
 ## 문제

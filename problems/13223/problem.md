@@ -1,13 +1,13 @@
 ---
-title: 소금 폭탄
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "소금 폭탄"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 4749
 accepted: 1815
 solved_users: 1408
-acceptance_rate: 37.053%
-collected_at: 2026-04-17T13:09:33.003549+00:00
+acceptance_rate: "37.053%"
+collected_at: "2026-04-17T13:09:33.003549+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 직사각형 채우기
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "직사각형 채우기"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 200
 accepted: 158
 solved_users: 132
-acceptance_rate: 80.982%
-collected_at: 2026-04-17T20:47:01.221439+00:00
+acceptance_rate: "80.982%"
+collected_at: "2026-04-17T20:47:01.221439+00:00"
 ---
 
 ## 문제

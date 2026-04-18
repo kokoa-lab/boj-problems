@@ -1,13 +1,13 @@
 ---
-title: 부호
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "부호"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 26009
 accepted: 8957
 solved_users: 7736
-acceptance_rate: 38.732%
-collected_at: 2026-04-17T10:29:03.864735+00:00
+acceptance_rate: "38.732%"
+collected_at: "2026-04-17T10:29:03.864735+00:00"
 ---
 
 ## 문제

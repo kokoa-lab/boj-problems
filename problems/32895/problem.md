@@ -1,13 +1,13 @@
 ---
-title: Glued Grid
-special_judge: false
-time_limit: 3 초 (추가 시간 없음)
-memory_limit: 2048 MB
+title: "Glued Grid"
+special_judge: "false"
+time_limit: "3 초 (추가 시간 없음)"
+memory_limit: "2048 MB"
 submissions: 42
 accepted: 11
 solved_users: 9
-acceptance_rate: 40.909%
-collected_at: 2026-04-17T20:03:47.981207+00:00
+acceptance_rate: "40.909%"
+collected_at: "2026-04-17T20:03:47.981207+00:00"
 ---
 
 ## 문제

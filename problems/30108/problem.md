@@ -1,13 +1,13 @@
 ---
-title: 교육적인 트리 문제
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "교육적인 트리 문제"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 566
 accepted: 341
 solved_users: 256
-acceptance_rate: 59.397%
-collected_at: 2026-04-17T18:59:07.456528+00:00
+acceptance_rate: "59.397%"
+collected_at: "2026-04-17T18:59:07.456528+00:00"
 ---
 
 ## 문제

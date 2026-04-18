@@ -1,13 +1,13 @@
 ---
-title: Tile Cut
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Tile Cut"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 87
 accepted: 33
 solved_users: 27
-acceptance_rate: 36.486%
-collected_at: 2026-04-17T11:02:00.693565+00:00
+acceptance_rate: "36.486%"
+collected_at: "2026-04-17T11:02:00.693565+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Infinity War
-special_judge: false
-time_limit: 0.8 초
-memory_limit: 8 MB
+title: "Infinity War"
+special_judge: "false"
+time_limit: "0.8 초"
+memory_limit: "8 MB"
 submissions: 9
 accepted: 0
 solved_users: 0
-acceptance_rate: 0.000%
-collected_at: 2026-04-17T18:02:25.768633+00:00
+acceptance_rate: "0.000%"
+collected_at: "2026-04-17T18:02:25.768633+00:00"
 ---
 
 ## 문제

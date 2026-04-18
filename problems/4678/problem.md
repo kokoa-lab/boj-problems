@@ -1,13 +1,13 @@
 ---
-title: Skew Binary
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Skew Binary"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 248
 accepted: 208
 solved_users: 184
-acceptance_rate: 82.143%
-collected_at: 2026-04-17T11:07:00.217819+00:00
+acceptance_rate: "82.143%"
+collected_at: "2026-04-17T11:07:00.217819+00:00"
 ---
 
 ## 문제

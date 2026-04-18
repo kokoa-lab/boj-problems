@@ -1,13 +1,13 @@
 ---
-title: 루미상관 수
-special_judge: false
-time_limit: 2.9 초
-memory_limit: 329 MB
+title: "루미상관 수"
+special_judge: "false"
+time_limit: "2.9 초"
+memory_limit: "329 MB"
 submissions: 50
 accepted: 47
 solved_users: 30
-acceptance_rate: 90.909%
-collected_at: 2026-04-17T21:10:08.747467+00:00
+acceptance_rate: "90.909%"
+collected_at: "2026-04-17T21:10:08.747467+00:00"
 ---
 
 ## 문제

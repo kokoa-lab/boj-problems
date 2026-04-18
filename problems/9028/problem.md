@@ -1,13 +1,13 @@
 ---
-title: Iris (비밀번호)
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Iris (비밀번호)"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 71
 accepted: 40
 solved_users: 37
-acceptance_rate: 57.812%
-collected_at: 2026-04-17T12:06:19.475010+00:00
+acceptance_rate: "57.812%"
+collected_at: "2026-04-17T12:06:19.475010+00:00"
 ---
 
 ## 문제

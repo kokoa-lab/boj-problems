@@ -1,13 +1,13 @@
 ---
-title: 선택의 기로
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "선택의 기로"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 640
 accepted: 492
 solved_users: 420
-acceptance_rate: 78.067%
-collected_at: 2026-04-17T19:18:59.062617+00:00
+acceptance_rate: "78.067%"
+collected_at: "2026-04-17T19:18:59.062617+00:00"
 ---
 
 ## 문제

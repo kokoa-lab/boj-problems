@@ -1,13 +1,13 @@
 ---
-title: 홍익대학교
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "홍익대학교"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 19167
 accepted: 16305
 solved_users: 15713
-acceptance_rate: 85.765%
-collected_at: 2026-04-17T14:17:11.704961+00:00
+acceptance_rate: "85.765%"
+collected_at: "2026-04-17T14:17:11.704961+00:00"
 ---
 
 ## 문제

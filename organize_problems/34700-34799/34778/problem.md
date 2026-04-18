@@ -1,13 +1,13 @@
 ---
-title: João João
-special_judge: false
-time_limit: 0.5 초
-memory_limit: 2048 MB
+title: "João João"
+special_judge: "false"
+time_limit: "0.5 초"
+memory_limit: "2048 MB"
 submissions: 172
 accepted: 157
 solved_users: 144
-acceptance_rate: 94.118%
-collected_at: 2026-04-17T20:48:19.315163+00:00
+acceptance_rate: "94.118%"
+collected_at: "2026-04-17T20:48:19.315163+00:00"
 ---
 
 ## 문제

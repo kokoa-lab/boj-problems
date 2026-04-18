@@ -1,13 +1,13 @@
 ---
-title: 벚꽃 내리는 시대에 결투를
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "벚꽃 내리는 시대에 결투를"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 1322
 accepted: 263
 solved_users: 174
-acceptance_rate: 18.893%
-collected_at: 2026-04-17T17:57:22.741317+00:00
+acceptance_rate: "18.893%"
+collected_at: "2026-04-17T17:57:22.741317+00:00"
 ---
 
 ## 문제

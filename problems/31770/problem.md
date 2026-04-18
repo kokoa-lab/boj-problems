@@ -1,13 +1,13 @@
 ---
-title: Painting Fence Posts
-special_judge: false
-time_limit: 3 초
-memory_limit: 1024 MB
+title: "Painting Fence Posts"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "1024 MB"
 submissions: 39
 accepted: 13
 solved_users: 13
-acceptance_rate: 46.429%
-collected_at: 2026-04-17T19:36:13.794662+00:00
+acceptance_rate: "46.429%"
+collected_at: "2026-04-17T19:36:13.794662+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Presidential Elections
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Presidential Elections"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 142
 accepted: 64
 solved_users: 54
-acceptance_rate: 49.091%
-collected_at: 2026-04-17T13:11:55.306732+00:00
+acceptance_rate: "49.091%"
+collected_at: "2026-04-17T13:11:55.306732+00:00"
 ---
 
 ## 문제

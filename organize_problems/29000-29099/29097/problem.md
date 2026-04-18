@@ -1,13 +1,13 @@
 ---
-title: Короли
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Короли"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 722
 accepted: 554
 solved_users: 507
-acceptance_rate: 77.642%
-collected_at: 2026-04-17T18:37:14.436354+00:00
+acceptance_rate: "77.642%"
+collected_at: "2026-04-17T18:37:14.436354+00:00"
 ---
 
 ## 문제

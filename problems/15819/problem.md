@@ -1,13 +1,13 @@
 ---
-title: 너의 핸들은
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "너의 핸들은"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 1496
 accepted: 1230
 solved_users: 1164
-acceptance_rate: 85.337%
-collected_at: 2026-04-17T14:07:11.752823+00:00
+acceptance_rate: "85.337%"
+collected_at: "2026-04-17T14:07:11.752823+00:00"
 ---
 
 ## 문제

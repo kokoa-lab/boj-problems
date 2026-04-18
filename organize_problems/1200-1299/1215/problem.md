@@ -1,13 +1,13 @@
 ---
-title: 잘못 작성한 요세푸스 코드
-special_judge: false
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 128 MB
+title: "잘못 작성한 요세푸스 코드"
+special_judge: "false"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "128 MB"
 submissions: 1621
 accepted: 382
 solved_users: 290
-acceptance_rate: 29.959%
-collected_at: 2026-04-17T10:28:53.883469+00:00
+acceptance_rate: "29.959%"
+collected_at: "2026-04-17T10:28:53.883469+00:00"
 ---
 
 ## 문제

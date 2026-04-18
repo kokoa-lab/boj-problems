@@ -1,13 +1,13 @@
 ---
-title: 침투 계획 세우기
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "침투 계획 세우기"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 852
 accepted: 382
 solved_users: 294
-acceptance_rate: 46.965%
-collected_at: 2026-04-17T10:31:35.135774+00:00
+acceptance_rate: "46.965%"
+collected_at: "2026-04-17T10:31:35.135774+00:00"
 ---
 
 ## 문제

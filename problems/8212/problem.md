@@ -1,13 +1,13 @@
 ---
-title: Temperature
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Temperature"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 225
 accepted: 83
 solved_users: 64
-acceptance_rate: 40.764%
-collected_at: 2026-04-17T11:57:15.116470+00:00
+acceptance_rate: "40.764%"
+collected_at: "2026-04-17T11:57:15.116470+00:00"
 ---
 
 ## 문제

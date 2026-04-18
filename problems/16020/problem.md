@@ -1,13 +1,13 @@
 ---
-title: Sunflowers
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Sunflowers"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 248
 accepted: 173
 solved_users: 157
-acceptance_rate: 73.364%
-collected_at: 2026-04-17T14:10:03.882093+00:00
+acceptance_rate: "73.364%"
+collected_at: "2026-04-17T14:10:03.882093+00:00"
 ---
 
 ## 문제

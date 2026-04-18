@@ -1,13 +1,13 @@
 ---
-title: Scores of Final Examination
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Scores of Final Examination"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 278
 accepted: 232
 solved_users: 202
-acceptance_rate: 85.593%
-collected_at: 2026-04-17T14:42:04.517175+00:00
+acceptance_rate: "85.593%"
+collected_at: "2026-04-17T14:42:04.517175+00:00"
 ---
 
 ## 문제

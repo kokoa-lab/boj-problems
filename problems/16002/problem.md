@@ -1,13 +1,13 @@
 ---
-title: 조용한 생활관 만들기
-special_judge: false
-time_limit: 4 초 (추가 시간 없음)
-memory_limit: 768 MB
+title: "조용한 생활관 만들기"
+special_judge: "false"
+time_limit: "4 초 (추가 시간 없음)"
+memory_limit: "768 MB"
 submissions: 532
 accepted: 55
 solved_users: 33
-acceptance_rate: 16.751%
-collected_at: 2026-04-17T14:09:46.822477+00:00
+acceptance_rate: "16.751%"
+collected_at: "2026-04-17T14:09:46.822477+00:00"
 ---
 
 ## 문제

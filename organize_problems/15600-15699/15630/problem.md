@@ -1,13 +1,13 @@
 ---
-title: Binary Game
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Binary Game"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 796
 accepted: 318
 solved_users: 237
-acceptance_rate: 48.073%
-collected_at: 2026-04-17T14:02:55.061959+00:00
+acceptance_rate: "48.073%"
+collected_at: "2026-04-17T14:02:55.061959+00:00"
 ---
 
 ## 문제

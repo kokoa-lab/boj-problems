@@ -1,13 +1,13 @@
 ---
-title: Ants
-special_judge: false
-time_limit: 3 초
-memory_limit: 8 MB
+title: "Ants"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "8 MB"
 submissions: 7
 accepted: 2
 solved_users: 2
-acceptance_rate: 50.000%
-collected_at: 2026-04-17T11:54:03.292151+00:00
+acceptance_rate: "50.000%"
+collected_at: "2026-04-17T11:54:03.292151+00:00"
 ---
 
 ## 문제

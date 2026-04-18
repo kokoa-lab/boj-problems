@@ -1,13 +1,13 @@
 ---
-title: Mountain Bike Trail
-special_judge: false
-time_limit: 8 초
-memory_limit: 2048 MB
+title: "Mountain Bike Trail"
+special_judge: "false"
+time_limit: "8 초"
+memory_limit: "2048 MB"
 submissions: 25
 accepted: 16
 solved_users: 12
-acceptance_rate: 66.667%
-collected_at: 2026-04-17T20:38:55.259839+00:00
+acceptance_rate: "66.667%"
+collected_at: "2026-04-17T20:38:55.259839+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Solar Flight
-special_judge: false
-time_limit: 15 초
-memory_limit: 512 MB
+title: "Solar Flight"
+special_judge: "false"
+time_limit: "15 초"
+memory_limit: "512 MB"
 submissions: 22
 accepted: 3
 solved_users: 3
-acceptance_rate: 42.857%
-collected_at: 2026-04-17T13:24:27.281243+00:00
+acceptance_rate: "42.857%"
+collected_at: "2026-04-17T13:24:27.281243+00:00"
 ---
 
 ## 문제

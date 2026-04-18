@@ -1,13 +1,13 @@
 ---
-title: Love for Pizza
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Love for Pizza"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 60
 accepted: 9
 solved_users: 9
-acceptance_rate: 32.143%
-collected_at: 2026-04-17T18:59:19.438548+00:00
+acceptance_rate: "32.143%"
+collected_at: "2026-04-17T18:59:19.438548+00:00"
 ---
 
 ## 문제

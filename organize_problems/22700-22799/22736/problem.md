@@ -1,13 +1,13 @@
 ---
-title: Moduic Squares
-special_judge: false
-time_limit: 8 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "Moduic Squares"
+special_judge: "false"
+time_limit: "8 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 23
 accepted: 13
 solved_users: 12
-acceptance_rate: 57.143%
-collected_at: 2026-04-17T16:33:26.887218+00:00
+acceptance_rate: "57.143%"
+collected_at: "2026-04-17T16:33:26.887218+00:00"
 ---
 
 ## 문제

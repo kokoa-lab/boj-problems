@@ -1,13 +1,13 @@
 ---
-title: PIN
-special_judge: false
-time_limit: 0.2 초
-memory_limit: 1024 MB
+title: "PIN"
+special_judge: "false"
+time_limit: "0.2 초"
+memory_limit: "1024 MB"
 submissions: 47
 accepted: 20
 solved_users: 19
-acceptance_rate: 47.500%
-collected_at: 2026-04-17T17:49:05.828769+00:00
+acceptance_rate: "47.500%"
+collected_at: "2026-04-17T17:49:05.828769+00:00"
 ---
 
 ## 문제

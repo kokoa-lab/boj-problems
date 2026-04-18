@@ -1,13 +1,13 @@
 ---
-title: 별 포획
-special_judge: true
-time_limit: 1 초
-memory_limit: 512 MB
+title: "별 포획"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 398
 accepted: 115
 solved_users: 86
-acceptance_rate: 26.791%
-collected_at: 2026-04-17T19:12:15.910733+00:00
+acceptance_rate: "26.791%"
+collected_at: "2026-04-17T19:12:15.910733+00:00"
 ---
 
 ## 문제

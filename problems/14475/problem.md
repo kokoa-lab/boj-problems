@@ -1,13 +1,13 @@
 ---
-title: ヘビの JOI 君 (Snake JOI)
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "ヘビの JOI 君 (Snake JOI)"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 248
 accepted: 151
 solved_users: 119
-acceptance_rate: 59.799%
-collected_at: 2026-04-17T13:35:27.683236+00:00
+acceptance_rate: "59.799%"
+collected_at: "2026-04-17T13:35:27.683236+00:00"
 ---
 
 ## 문제

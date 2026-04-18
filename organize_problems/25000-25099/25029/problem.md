@@ -1,13 +1,13 @@
 ---
-title: Joyful KMP
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Joyful KMP"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 86
 accepted: 24
 solved_users: 22
-acceptance_rate: 48.889%
-collected_at: 2026-04-17T17:19:07.336471+00:00
+acceptance_rate: "48.889%"
+collected_at: "2026-04-17T17:19:07.336471+00:00"
 ---
 
 ## 문제

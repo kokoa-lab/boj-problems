@@ -1,13 +1,13 @@
 ---
-title: 헬기착륙장
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "헬기착륙장"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 3000
 accepted: 768
 solved_users: 528
-acceptance_rate: 23.870%
-collected_at: 2026-04-17T10:43:24.276805+00:00
+acceptance_rate: "23.870%"
+collected_at: "2026-04-17T10:43:24.276805+00:00"
 ---
 
 ## 문제

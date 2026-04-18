@@ -1,13 +1,13 @@
 ---
-title: Alternating Current
-special_judge: true
-time_limit: 3 초
-memory_limit: 1024 MB
+title: "Alternating Current"
+special_judge: "true"
+time_limit: "3 초"
+memory_limit: "1024 MB"
 submissions: 68
 accepted: 23
 solved_users: 18
-acceptance_rate: 41.860%
-collected_at: 2026-04-17T14:07:52.590377+00:00
+acceptance_rate: "41.860%"
+collected_at: "2026-04-17T14:07:52.590377+00:00"
 ---
 
 ## 문제

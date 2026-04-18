@@ -1,13 +1,13 @@
 ---
-title: Squary
-special_judge: true
-time_limit: 서브태스크 참고
-memory_limit: 1024 MB
+title: "Squary"
+special_judge: "true"
+time_limit: "서브태스크 참고"
+memory_limit: "1024 MB"
 submissions: 96
 accepted: 67
 solved_users: 50
-acceptance_rate: 79.365%
-collected_at: 2026-04-17T17:21:12.046016+00:00
+acceptance_rate: "79.365%"
+collected_at: "2026-04-17T17:21:12.046016+00:00"
 ---
 
 ## 문제

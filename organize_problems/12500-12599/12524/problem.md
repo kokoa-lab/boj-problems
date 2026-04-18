@@ -1,13 +1,13 @@
 ---
-title: Twibet (Large)
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Twibet (Large)"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 88
 accepted: 75
 solved_users: 71
-acceptance_rate: 84.524%
-collected_at: 2026-04-17T12:56:46.793176+00:00
+acceptance_rate: "84.524%"
+collected_at: "2026-04-17T12:56:46.793176+00:00"
 ---
 
 ## 문제

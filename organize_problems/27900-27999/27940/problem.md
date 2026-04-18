@@ -1,13 +1,13 @@
 ---
-title: 가지 산사태
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "가지 산사태"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 1426
 accepted: 741
 solved_users: 573
-acceptance_rate: 50.263%
-collected_at: 2026-04-17T18:15:06.486377+00:00
+acceptance_rate: "50.263%"
+collected_at: "2026-04-17T18:15:06.486377+00:00"
 ---
 
 ## 문제

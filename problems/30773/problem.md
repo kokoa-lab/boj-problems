@@ -1,13 +1,13 @@
 ---
-title: Михаил наносит ответный удар
-special_judge: true
-time_limit: 5 초
-memory_limit: 4 MB (추가 메모리 없음)
+title: "Михаил наносит ответный удар"
+special_judge: "true"
+time_limit: "5 초"
+memory_limit: "4 MB (추가 메모리 없음)"
 submissions: 92
 accepted: 27
 solved_users: 24
-acceptance_rate: 30.000%
-collected_at: 2026-04-17T19:15:06.445395+00:00
+acceptance_rate: "30.000%"
+collected_at: "2026-04-17T19:15:06.445395+00:00"
 ---
 
 ## 문제

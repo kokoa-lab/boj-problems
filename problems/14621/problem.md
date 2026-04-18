@@ -1,13 +1,13 @@
 ---
-title: 나만 안되는 연애
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "나만 안되는 연애"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 8207
 accepted: 4132
 solved_users: 3307
-acceptance_rate: 48.102%
-collected_at: 2026-04-17T13:39:28.001417+00:00
+acceptance_rate: "48.102%"
+collected_at: "2026-04-17T13:39:28.001417+00:00"
 ---
 
 ## 문제

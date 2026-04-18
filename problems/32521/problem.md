@@ -1,13 +1,13 @@
 ---
-title: 팩트는 트리가 건강해지고 있다는 거임
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "팩트는 트리가 건강해지고 있다는 거임"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 245
 accepted: 108
 solved_users: 88
-acceptance_rate: 47.059%
-collected_at: 2026-04-17T19:53:52.443960+00:00
+acceptance_rate: "47.059%"
+collected_at: "2026-04-17T19:53:52.443960+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 베스트셀러
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "베스트셀러"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 34738
 accepted: 19393
 solved_users: 16171
-acceptance_rate: 55.930%
-collected_at: 2026-04-17T10:29:22.584135+00:00
+acceptance_rate: "55.930%"
+collected_at: "2026-04-17T10:29:22.584135+00:00"
 ---
 
 ## 문제

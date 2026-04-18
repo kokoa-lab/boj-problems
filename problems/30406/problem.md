@@ -1,13 +1,13 @@
 ---
-title: 산타 춘배의 선물 나눠주기
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "산타 춘배의 선물 나눠주기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 582
 accepted: 384
 solved_users: 333
-acceptance_rate: 65.680%
-collected_at: 2026-04-17T19:06:12.686539+00:00
+acceptance_rate: "65.680%"
+collected_at: "2026-04-17T19:06:12.686539+00:00"
 ---
 
 ## 문제

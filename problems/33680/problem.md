@@ -1,13 +1,13 @@
 ---
-title: $p^{n}!$과 쿼리
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "$p^{n}!$과 쿼리"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 275
 accepted: 207
 solved_users: 165
-acceptance_rate: 76.037%
-collected_at: 2026-04-17T20:21:28.372539+00:00
+acceptance_rate: "76.037%"
+collected_at: "2026-04-17T20:21:28.372539+00:00"
 ---
 
 ## 문제

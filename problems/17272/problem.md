@@ -1,13 +1,13 @@
 ---
-title: 리그 오브 레전설 (Large)
-special_judge: false
-time_limit: 3 초
-memory_limit: 256 MB
+title: "리그 오브 레전설 (Large)"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "256 MB"
 submissions: 1744
 accepted: 618
 solved_users: 396
-acceptance_rate: 34.109%
-collected_at: 2026-04-17T14:35:52.568378+00:00
+acceptance_rate: "34.109%"
+collected_at: "2026-04-17T14:35:52.568378+00:00"
 ---
 
 ## 문제

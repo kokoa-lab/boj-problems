@@ -1,13 +1,13 @@
 ---
-title: 年齢の差 (Age Difference)
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "年齢の差 (Age Difference)"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 365
 accepted: 215
 solved_users: 172
-acceptance_rate: 60.140%
-collected_at: 2026-04-17T18:01:02.443700+00:00
+acceptance_rate: "60.140%"
+collected_at: "2026-04-17T18:01:02.443700+00:00"
 ---
 
 ## 문제

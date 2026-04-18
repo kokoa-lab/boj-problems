@@ -1,13 +1,13 @@
 ---
-title: 방 배정
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "방 배정"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 4921
 accepted: 2882
 solved_users: 2253
-acceptance_rate: 60.793%
-collected_at: 2026-04-17T13:11:12.333608+00:00
+acceptance_rate: "60.793%"
+collected_at: "2026-04-17T13:11:12.333608+00:00"
 ---
 
 ## 문제

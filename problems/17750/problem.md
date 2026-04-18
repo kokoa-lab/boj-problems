@@ -1,13 +1,13 @@
 ---
-title: Koala
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "Koala"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 50
 accepted: 35
 solved_users: 33
-acceptance_rate: 73.333%
-collected_at: 2026-04-17T14:46:34.744677+00:00
+acceptance_rate: "73.333%"
+collected_at: "2026-04-17T14:46:34.744677+00:00"
 ---
 
 ## 문제

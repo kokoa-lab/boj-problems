@@ -1,13 +1,13 @@
 ---
-title: 컨벤 데드가 하고싶어요
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "컨벤 데드가 하고싶어요"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 663
 accepted: 326
 solved_users: 259
-acceptance_rate: 48.231%
-collected_at: 2026-04-17T18:27:04.204194+00:00
+acceptance_rate: "48.231%"
+collected_at: "2026-04-17T18:27:04.204194+00:00"
 ---
 
 ## 문제

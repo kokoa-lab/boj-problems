@@ -1,13 +1,13 @@
 ---
-title: 두더지 잡기
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "두더지 잡기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 203
 accepted: 42
 solved_users: 25
-acceptance_rate: 22.727%
-collected_at: 2026-04-17T11:54:53.187250+00:00
+acceptance_rate: "22.727%"
+collected_at: "2026-04-17T11:54:53.187250+00:00"
 ---
 
 ## 문제

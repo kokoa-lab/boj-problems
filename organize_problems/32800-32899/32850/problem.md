@@ -1,13 +1,13 @@
 ---
-title: Perfect Squares
-special_judge: true
-time_limit: 1 초
-memory_limit: 2048 MB
+title: "Perfect Squares"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "2048 MB"
 submissions: 218
 accepted: 48
 solved_users: 38
-acceptance_rate: 27.941%
-collected_at: 2026-04-17T20:02:37.212388+00:00
+acceptance_rate: "27.941%"
+collected_at: "2026-04-17T20:02:37.212388+00:00"
 ---
 
 ## 문제

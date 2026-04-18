@@ -1,13 +1,13 @@
 ---
-title: 싱크홀
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "싱크홀"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 844
 accepted: 281
 solved_users: 215
-acceptance_rate: 33.965%
-collected_at: 2026-04-17T14:07:19.642211+00:00
+acceptance_rate: "33.965%"
+collected_at: "2026-04-17T14:07:19.642211+00:00"
 ---
 
 ## 문제

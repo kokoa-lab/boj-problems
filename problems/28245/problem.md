@@ -1,13 +1,13 @@
 ---
-title: 배고파(Hard)
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "배고파(Hard)"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 1019
 accepted: 316
 solved_users: 274
-acceptance_rate: 35.631%
-collected_at: 2026-04-17T18:20:50.754721+00:00
+acceptance_rate: "35.631%"
+collected_at: "2026-04-17T18:20:50.754721+00:00"
 ---
 
 ## 문제

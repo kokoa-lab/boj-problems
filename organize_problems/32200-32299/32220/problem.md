@@ -1,13 +1,13 @@
 ---
-title: 연강은 힘들어(Easy)
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "연강은 힘들어(Easy)"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 268
 accepted: 126
 solved_users: 84
-acceptance_rate: 50.602%
-collected_at: 2026-04-17T19:45:57.300956+00:00
+acceptance_rate: "50.602%"
+collected_at: "2026-04-17T19:45:57.300956+00:00"
 ---
 
 ## 문제

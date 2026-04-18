@@ -1,13 +1,13 @@
 ---
-title: 수 분해
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "수 분해"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 2031
 accepted: 896
 solved_users: 758
-acceptance_rate: 45.773%
-collected_at: 2026-04-17T10:30:11.226914+00:00
+acceptance_rate: "45.773%"
+collected_at: "2026-04-17T10:30:11.226914+00:00"
 ---
 
 ## 문제

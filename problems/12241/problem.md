@@ -1,13 +1,13 @@
 ---
-title: Trie Sharding (Large)
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Trie Sharding (Large)"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 13
 accepted: 7
 solved_users: 7
-acceptance_rate: 58.333%
-collected_at: 2026-04-17T12:52:20.010591+00:00
+acceptance_rate: "58.333%"
+collected_at: "2026-04-17T12:52:20.010591+00:00"
 ---
 
 ## 문제

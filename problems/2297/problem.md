@@ -1,13 +1,13 @@
 ---
-title: 직각 이등변 삼각형
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "직각 이등변 삼각형"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 65
 accepted: 22
 solved_users: 19
-acceptance_rate: 55.882%
-collected_at: 2026-04-17T10:40:23.075692+00:00
+acceptance_rate: "55.882%"
+collected_at: "2026-04-17T10:40:23.075692+00:00"
 ---
 
 ## 문제

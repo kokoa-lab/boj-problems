@@ -1,13 +1,13 @@
 ---
-title: Nim z utrudnieniem
-special_judge: false
-time_limit: 2 초
-memory_limit: 64 MB
+title: "Nim z utrudnieniem"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "64 MB"
 submissions: 52
 accepted: 12
 solved_users: 12
-acceptance_rate: 24.490%
-collected_at: 2026-04-17T17:52:14.975492+00:00
+acceptance_rate: "24.490%"
+collected_at: "2026-04-17T17:52:14.975492+00:00"
 ---
 
 ## 문제

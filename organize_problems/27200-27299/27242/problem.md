@@ -1,13 +1,13 @@
 ---
-title: Против постулата Бертрана
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Против постулата Бертрана"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 37
 accepted: 22
 solved_users: 20
-acceptance_rate: 57.143%
-collected_at: 2026-04-17T17:59:00.062609+00:00
+acceptance_rate: "57.143%"
+collected_at: "2026-04-17T17:59:00.062609+00:00"
 ---
 
 ## 문제

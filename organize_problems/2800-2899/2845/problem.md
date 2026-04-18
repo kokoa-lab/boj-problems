@@ -1,13 +1,13 @@
 ---
-title: 파티가 끝나고 난 뒤
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "파티가 끝나고 난 뒤"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 27395
 accepted: 19707
 solved_users: 18464
-acceptance_rate: 73.021%
-collected_at: 2026-04-17T10:45:14.873049+00:00
+acceptance_rate: "73.021%"
+collected_at: "2026-04-17T10:45:14.873049+00:00"
 ---
 
 ## 문제

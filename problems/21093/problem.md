@@ -1,13 +1,13 @@
 ---
-title: Extreme Wealth
-special_judge: true
-time_limit: 3 초
-memory_limit: 256 MB
+title: "Extreme Wealth"
+special_judge: "true"
+time_limit: "3 초"
+memory_limit: "256 MB"
 submissions: 234
 accepted: 37
 solved_users: 28
-acceptance_rate: 16.279%
-collected_at: 2026-04-17T15:47:31.003330+00:00
+acceptance_rate: "16.279%"
+collected_at: "2026-04-17T15:47:31.003330+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 그렇고 그런 사이
-special_judge: true
-time_limit: 4.242 초 (추가 시간 없음)
-memory_limit: 1042 MB
+title: "그렇고 그런 사이"
+special_judge: "true"
+time_limit: "4.242 초 (추가 시간 없음)"
+memory_limit: "1042 MB"
 submissions: 1515
 accepted: 871
 solved_users: 727
-acceptance_rate: 58.535%
-collected_at: 2026-04-17T15:43:23.943581+00:00
+acceptance_rate: "58.535%"
+collected_at: "2026-04-17T15:43:23.943581+00:00"
 ---
 
 ## 문제

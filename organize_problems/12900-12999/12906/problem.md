@@ -1,13 +1,13 @@
 ---
-title: 새로운 하노이 탑
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "새로운 하노이 탑"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 1855
 accepted: 993
 solved_users: 711
-acceptance_rate: 54.483%
-collected_at: 2026-04-17T13:03:38.916803+00:00
+acceptance_rate: "54.483%"
+collected_at: "2026-04-17T13:03:38.916803+00:00"
 ---
 
 ## 문제

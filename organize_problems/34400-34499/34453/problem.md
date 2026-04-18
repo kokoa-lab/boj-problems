@@ -1,13 +1,13 @@
 ---
-title: Additive Primes
-special_judge: false
-time_limit: 1 초
-memory_limit: 2048 MB
+title: "Additive Primes"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "2048 MB"
 submissions: 55
 accepted: 46
 solved_users: 39
-acceptance_rate: 81.250%
-collected_at: 2026-04-17T20:39:26.536157+00:00
+acceptance_rate: "81.250%"
+collected_at: "2026-04-17T20:39:26.536157+00:00"
 ---
 
 ## 문제

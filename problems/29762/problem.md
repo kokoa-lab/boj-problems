@@ -1,13 +1,13 @@
 ---
-title: 숫자 숏코딩
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "숫자 숏코딩"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 168
 accepted: 70
 solved_users: 43
-acceptance_rate: 40.566%
-collected_at: 2026-04-17T18:52:22.341666+00:00
+acceptance_rate: "40.566%"
+collected_at: "2026-04-17T18:52:22.341666+00:00"
 ---
 
 ## 문제

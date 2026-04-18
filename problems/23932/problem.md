@@ -1,13 +1,13 @@
 ---
-title: Building Palindromes
-special_judge: false
-time_limit: 30 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Building Palindromes"
+special_judge: "false"
+time_limit: "30 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 81
 accepted: 61
 solved_users: 43
-acceptance_rate: 75.439%
-collected_at: 2026-04-17T16:58:41.596042+00:00
+acceptance_rate: "75.439%"
+collected_at: "2026-04-17T16:58:41.596042+00:00"
 ---
 
 ## 문제

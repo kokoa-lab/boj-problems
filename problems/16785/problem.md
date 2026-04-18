@@ -1,13 +1,13 @@
 ---
-title: ソーシャルゲーム (Social Game)
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "ソーシャルゲーム (Social Game)"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 1731
 accepted: 967
 solved_users: 861
-acceptance_rate: 55.728%
-collected_at: 2026-04-17T14:24:01.065272+00:00
+acceptance_rate: "55.728%"
+collected_at: "2026-04-17T14:24:01.065272+00:00"
 ---
 
 ## 문제

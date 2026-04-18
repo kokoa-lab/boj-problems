@@ -1,13 +1,13 @@
 ---
-title: 보석 도둑
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "보석 도둑"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 101940
 accepted: 26726
 solved_users: 18543
-acceptance_rate: 24.275%
-collected_at: 2026-04-17T10:28:46.127645+00:00
+acceptance_rate: "24.275%"
+collected_at: "2026-04-17T10:28:46.127645+00:00"
 ---
 
 ## 문제

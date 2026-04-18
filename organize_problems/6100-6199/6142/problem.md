@@ -1,13 +1,13 @@
 ---
-title: Gourmet Grazers
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Gourmet Grazers"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 273
 accepted: 169
 solved_users: 117
-acceptance_rate: 62.903%
-collected_at: 2026-04-17T11:21:09.174247+00:00
+acceptance_rate: "62.903%"
+collected_at: "2026-04-17T11:21:09.174247+00:00"
 ---
 
 ## 문제

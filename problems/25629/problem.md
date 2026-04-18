@@ -1,13 +1,13 @@
 ---
-title: 홀짝 수열
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "홀짝 수열"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 2084
 accepted: 1293
 solved_users: 1168
-acceptance_rate: 63.721%
-collected_at: 2026-04-17T17:30:18.804483+00:00
+acceptance_rate: "63.721%"
+collected_at: "2026-04-17T17:30:18.804483+00:00"
 ---
 
 ## 문제

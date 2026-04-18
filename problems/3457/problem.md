@@ -1,13 +1,13 @@
 ---
-title: Which is Next
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Which is Next"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 5
 accepted: 2
 solved_users: 2
-acceptance_rate: 50.000%
-collected_at: 2026-04-17T10:49:02.027656+00:00
+acceptance_rate: "50.000%"
+collected_at: "2026-04-17T10:49:02.027656+00:00"
 ---
 
 ## 문제

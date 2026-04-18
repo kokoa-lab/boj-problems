@@ -1,13 +1,13 @@
 ---
-title: Losing Leaves
-special_judge: false
-time_limit: 8 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Losing Leaves"
+special_judge: "false"
+time_limit: "8 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 130
 accepted: 58
 solved_users: 52
-acceptance_rate: 47.706%
-collected_at: 2026-04-17T19:03:11.359214+00:00
+acceptance_rate: "47.706%"
+collected_at: "2026-04-17T19:03:11.359214+00:00"
 ---
 
 ## 문제

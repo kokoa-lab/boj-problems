@@ -1,13 +1,13 @@
 ---
-title: 암호
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "암호"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 6194
 accepted: 3277
 solved_users: 2771
-acceptance_rate: 55.498%
-collected_at: 2026-04-17T10:32:43.792650+00:00
+acceptance_rate: "55.498%"
+collected_at: "2026-04-17T10:32:43.792650+00:00"
 ---
 
 ## 문제

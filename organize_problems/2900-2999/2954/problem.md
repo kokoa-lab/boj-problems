@@ -1,13 +1,13 @@
 ---
-title: 창영이의 일기장
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "창영이의 일기장"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 4651
 accepted: 3155
 solved_users: 2876
-acceptance_rate: 70.473%
-collected_at: 2026-04-17T10:45:54.885376+00:00
+acceptance_rate: "70.473%"
+collected_at: "2026-04-17T10:45:54.885376+00:00"
 ---
 
 ## 문제

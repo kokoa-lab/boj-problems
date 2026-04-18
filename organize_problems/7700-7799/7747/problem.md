@@ -1,13 +1,13 @@
 ---
-title: Three Bit Computer
-special_judge: false
-time_limit: 1 초
-memory_limit: 32 MB
+title: "Three Bit Computer"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "32 MB"
 submissions: 38
 accepted: 8
 solved_users: 6
-acceptance_rate: 54.545%
-collected_at: 2026-04-17T11:52:32.238091+00:00
+acceptance_rate: "54.545%"
+collected_at: "2026-04-17T11:52:32.238091+00:00"
 ---
 
 ## 문제

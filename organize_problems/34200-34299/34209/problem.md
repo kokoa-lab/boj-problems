@@ -1,13 +1,13 @@
 ---
-title: 축제
-special_judge: false
-time_limit: 1.5 초
-memory_limit: 2048 MB
+title: "축제"
+special_judge: "false"
+time_limit: "1.5 초"
+memory_limit: "2048 MB"
 submissions: 67
 accepted: 21
 solved_users: 14
-acceptance_rate: 37.838%
-collected_at: 2026-04-17T20:33:10.277459+00:00
+acceptance_rate: "37.838%"
+collected_at: "2026-04-17T20:33:10.277459+00:00"
 ---
 
 ## 문제

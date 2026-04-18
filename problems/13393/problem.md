@@ -1,13 +1,13 @@
 ---
-title: 스타트링크 알고리즘 멤버십
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "스타트링크 알고리즘 멤버십"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 40
 accepted: 10
 solved_users: 7
-acceptance_rate: 33.333%
-collected_at: 2026-04-17T13:12:37.927687+00:00
+acceptance_rate: "33.333%"
+collected_at: "2026-04-17T13:12:37.927687+00:00"
 ---
 
 ## 문제

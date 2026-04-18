@@ -1,13 +1,13 @@
 ---
-title: Sightseeing
-special_judge: false
-time_limit: 3.5 초
-memory_limit: 512 MB
+title: "Sightseeing"
+special_judge: "false"
+time_limit: "3.5 초"
+memory_limit: "512 MB"
 submissions: 146
 accepted: 55
 solved_users: 24
-acceptance_rate: 33.803%
-collected_at: 2026-04-17T12:18:45.604036+00:00
+acceptance_rate: "33.803%"
+collected_at: "2026-04-17T12:18:45.604036+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Studying For Exams
-special_judge: true
-time_limit: 3 초
-memory_limit: 512 MB
+title: "Studying For Exams"
+special_judge: "true"
+time_limit: "3 초"
+memory_limit: "512 MB"
 submissions: 37
 accepted: 21
 solved_users: 20
-acceptance_rate: 62.500%
-collected_at: 2026-04-17T13:41:35.882674+00:00
+acceptance_rate: "62.500%"
+collected_at: "2026-04-17T13:41:35.882674+00:00"
 ---
 
 ## 문제

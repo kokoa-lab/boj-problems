@@ -1,13 +1,13 @@
 ---
-title: 충전하기
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "충전하기"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 649
 accepted: 223
 solved_users: 169
-acceptance_rate: 40.143%
-collected_at: 2026-04-17T19:50:03.193934+00:00
+acceptance_rate: "40.143%"
+collected_at: "2026-04-17T19:50:03.193934+00:00"
 ---
 
 ## 문제

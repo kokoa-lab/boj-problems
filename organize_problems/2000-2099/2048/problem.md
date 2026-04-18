@@ -1,13 +1,13 @@
 ---
-title: Hello, 2048!
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Hello, 2048!"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 397
 accepted: 191
 solved_users: 143
-acceptance_rate: 49.141%
-collected_at: 2026-04-17T10:37:42.060167+00:00
+acceptance_rate: "49.141%"
+collected_at: "2026-04-17T10:37:42.060167+00:00"
 ---
 
 ## 문제

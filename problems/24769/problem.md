@@ -1,13 +1,13 @@
 ---
-title: Beekeeper
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Beekeeper"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 232
 accepted: 116
 solved_users: 101
-acceptance_rate: 49.754%
-collected_at: 2026-04-17T17:14:37.600246+00:00
+acceptance_rate: "49.754%"
+collected_at: "2026-04-17T17:14:37.600246+00:00"
 ---
 
 ## 문제

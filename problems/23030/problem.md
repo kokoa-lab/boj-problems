@@ -1,13 +1,13 @@
 ---
-title: 후다다닥을 이겨 츄르를 받자!
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "후다다닥을 이겨 츄르를 받자!"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 400
 accepted: 169
 solved_users: 136
-acceptance_rate: 40.964%
-collected_at: 2026-04-17T16:40:31.510776+00:00
+acceptance_rate: "40.964%"
+collected_at: "2026-04-17T16:40:31.510776+00:00"
 ---
 
 ## 문제

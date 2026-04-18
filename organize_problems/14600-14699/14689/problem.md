@@ -1,13 +1,13 @@
 ---
-title: RMT
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "RMT"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 90
 accepted: 37
 solved_users: 25
-acceptance_rate: 37.313%
-collected_at: 2026-04-17T13:40:18.492378+00:00
+acceptance_rate: "37.313%"
+collected_at: "2026-04-17T13:40:18.492378+00:00"
 ---
 
 ## 문제

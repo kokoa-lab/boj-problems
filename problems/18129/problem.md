@@ -1,13 +1,13 @@
 ---
-title: 이상한 암호코드
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "이상한 암호코드"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 678
 accepted: 369
 solved_users: 334
-acceptance_rate: 58.907%
-collected_at: 2026-04-17T14:56:10.226036+00:00
+acceptance_rate: "58.907%"
+collected_at: "2026-04-17T14:56:10.226036+00:00"
 ---
 
 ## 문제

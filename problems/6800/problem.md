@@ -1,13 +1,13 @@
 ---
-title: Huffman Encoding
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Huffman Encoding"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 605
 accepted: 279
 solved_users: 219
-acceptance_rate: 46.695%
-collected_at: 2026-04-17T11:38:21.706025+00:00
+acceptance_rate: "46.695%"
+collected_at: "2026-04-17T11:38:21.706025+00:00"
 ---
 
 ## 문제

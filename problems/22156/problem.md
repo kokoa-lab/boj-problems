@@ -1,13 +1,13 @@
 ---
-title: Ключ к шифру
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "Ключ к шифру"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 32
 accepted: 11
 solved_users: 10
-acceptance_rate: 37.037%
-collected_at: 2026-04-17T16:16:07.514843+00:00
+acceptance_rate: "37.037%"
+collected_at: "2026-04-17T16:16:07.514843+00:00"
 ---
 
 ## 문제

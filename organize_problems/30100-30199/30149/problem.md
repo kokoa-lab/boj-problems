@@ -1,13 +1,13 @@
 ---
-title: Animesh decides to settle down
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Animesh decides to settle down"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 38
 accepted: 28
 solved_users: 23
-acceptance_rate: 74.194%
-collected_at: 2026-04-17T18:59:41.569139+00:00
+acceptance_rate: "74.194%"
+collected_at: "2026-04-17T18:59:41.569139+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 키로거
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "키로거"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 76063
 accepted: 23751
 solved_users: 16522
-acceptance_rate: 29.583%
-collected_at: 2026-04-17T11:13:33.158229+00:00
+acceptance_rate: "29.583%"
+collected_at: "2026-04-17T11:13:33.158229+00:00"
 ---
 
 ## 문제

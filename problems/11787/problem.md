@@ -1,13 +1,13 @@
 ---
-title: Aquarium
-special_judge: false
-time_limit: 3 초
-memory_limit: 256 MB
+title: "Aquarium"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "256 MB"
 submissions: 75
 accepted: 45
 solved_users: 43
-acceptance_rate: 58.904%
-collected_at: 2026-04-17T12:46:01.914389+00:00
+acceptance_rate: "58.904%"
+collected_at: "2026-04-17T12:46:01.914389+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Jingle Composing
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Jingle Composing"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 222
 accepted: 195
 solved_users: 162
-acceptance_rate: 89.011%
-collected_at: 2026-04-17T11:16:49.528994+00:00
+acceptance_rate: "89.011%"
+collected_at: "2026-04-17T11:16:49.528994+00:00"
 ---
 
 ## 문제

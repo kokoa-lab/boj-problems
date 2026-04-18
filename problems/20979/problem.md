@@ -1,13 +1,13 @@
 ---
-title: 往復すごろく (Round Sugoroku)
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "往復すごろく (Round Sugoroku)"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 75
 accepted: 49
 solved_users: 41
-acceptance_rate: 73.214%
-collected_at: 2026-04-17T15:44:29.488712+00:00
+acceptance_rate: "73.214%"
+collected_at: "2026-04-17T15:44:29.488712+00:00"
 ---
 
 ## 문제

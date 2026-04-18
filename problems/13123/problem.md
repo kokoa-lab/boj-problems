@@ -1,13 +1,13 @@
 ---
-title: 계산 실수
-special_judge: false
-time_limit: 3 초
-memory_limit: 256 MB
+title: "계산 실수"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "256 MB"
 submissions: 67
 accepted: 9
 solved_users: 9
-acceptance_rate: 34.615%
-collected_at: 2026-04-17T13:07:46.531609+00:00
+acceptance_rate: "34.615%"
+collected_at: "2026-04-17T13:07:46.531609+00:00"
 ---
 
 ## 문제

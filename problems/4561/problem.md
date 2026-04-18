@@ -1,13 +1,13 @@
 ---
-title: As the Crow Flies
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "As the Crow Flies"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 15
 accepted: 5
 solved_users: 4
-acceptance_rate: 40.000%
-collected_at: 2026-04-17T11:04:13.096378+00:00
+acceptance_rate: "40.000%"
+collected_at: "2026-04-17T11:04:13.096378+00:00"
 ---
 
 ## 문제

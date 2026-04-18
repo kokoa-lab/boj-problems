@@ -1,13 +1,13 @@
 ---
-title: 괄호 추가하기
-special_judge: false
-time_limit: 0.5 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "괄호 추가하기"
+special_judge: "false"
+time_limit: "0.5 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 26898
 accepted: 11879
 solved_users: 8650
-acceptance_rate: 44.067%
-collected_at: 2026-04-17T14:21:30.503395+00:00
+acceptance_rate: "44.067%"
+collected_at: "2026-04-17T14:21:30.503395+00:00"
 ---
 
 ## 문제

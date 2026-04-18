@@ -1,13 +1,13 @@
 ---
-title: Broken Line 06
-special_judge: false
-time_limit: 0.1 초
-memory_limit: 512 MB
+title: "Broken Line 06"
+special_judge: "false"
+time_limit: "0.1 초"
+memory_limit: "512 MB"
 submissions: 33
 accepted: 29
 solved_users: 29
-acceptance_rate: 87.879%
-collected_at: 2026-04-17T15:29:24.592277+00:00
+acceptance_rate: "87.879%"
+collected_at: "2026-04-17T15:29:24.592277+00:00"
 ---
 
 ## 문제

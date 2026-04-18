@@ -1,13 +1,13 @@
 ---
-title: Forests in Danger
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Forests in Danger"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 34
 accepted: 13
 solved_users: 12
-acceptance_rate: 44.444%
-collected_at: 2026-04-17T14:41:25.307479+00:00
+acceptance_rate: "44.444%"
+collected_at: "2026-04-17T14:41:25.307479+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 111111111111111
-special_judge: true
-time_limit: 2.5 초 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "111111111111111"
+special_judge: "true"
+time_limit: "2.5 초 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 307
 accepted: 22
 solved_users: 9
-acceptance_rate: 7.200%
-collected_at: 2026-04-17T18:13:20.578641+00:00
+acceptance_rate: "7.200%"
+collected_at: "2026-04-17T18:13:20.578641+00:00"
 ---
 
 ## 문제

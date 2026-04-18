@@ -1,13 +1,13 @@
 ---
-title: 복불복
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "복불복"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 385
 accepted: 125
 solved_users: 92
-acceptance_rate: 32.624%
-collected_at: 2026-04-17T10:42:09.845240+00:00
+acceptance_rate: "32.624%"
+collected_at: "2026-04-17T10:42:09.845240+00:00"
 ---
 
 ## 문제

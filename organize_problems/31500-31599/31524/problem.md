@@ -1,13 +1,13 @@
 ---
-title: Magic Cube
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 2048 MB
+title: "Magic Cube"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "2048 MB"
 submissions: 15
 accepted: 11
 solved_users: 9
-acceptance_rate: 75.000%
-collected_at: 2026-04-17T19:29:49.782432+00:00
+acceptance_rate: "75.000%"
+collected_at: "2026-04-17T19:29:49.782432+00:00"
 ---
 
 ## 문제

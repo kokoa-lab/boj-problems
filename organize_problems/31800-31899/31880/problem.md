@@ -1,13 +1,13 @@
 ---
-title: K512컵 개최!
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "K512컵 개최!"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 961
 accepted: 700
 solved_users: 657
-acceptance_rate: 73.903%
-collected_at: 2026-04-17T19:38:16.732180+00:00
+acceptance_rate: "73.903%"
+collected_at: "2026-04-17T19:38:16.732180+00:00"
 ---
 
 ## 문제

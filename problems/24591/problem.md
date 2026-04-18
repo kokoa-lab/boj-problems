@@ -1,13 +1,13 @@
 ---
-title: Shortest Missing Subsequences
-special_judge: false
-time_limit: 10 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Shortest Missing Subsequences"
+special_judge: "false"
+time_limit: "10 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 106
 accepted: 42
 solved_users: 39
-acceptance_rate: 41.489%
-collected_at: 2026-04-17T17:11:39.179008+00:00
+acceptance_rate: "41.489%"
+collected_at: "2026-04-17T17:11:39.179008+00:00"
 ---
 
 ## 문제

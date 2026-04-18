@@ -1,13 +1,13 @@
 ---
-title: 지수 · 로그와 테일러 다항식(Large)
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "지수 · 로그와 테일러 다항식(Large)"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 289
 accepted: 152
 solved_users: 65
-acceptance_rate: 42.208%
-collected_at: 2026-04-17T17:39:15.060466+00:00
+acceptance_rate: "42.208%"
+collected_at: "2026-04-17T17:39:15.060466+00:00"
 ---
 
 ## 문제

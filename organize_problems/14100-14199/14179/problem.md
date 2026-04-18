@@ -1,13 +1,13 @@
 ---
-title: 크리스마스 이브
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "크리스마스 이브"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 569
 accepted: 113
 solved_users: 64
-acceptance_rate: 17.486%
-collected_at: 2026-04-17T13:27:22.300602+00:00
+acceptance_rate: "17.486%"
+collected_at: "2026-04-17T13:27:22.300602+00:00"
 ---
 
 ## 문제

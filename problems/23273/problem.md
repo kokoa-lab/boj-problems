@@ -1,13 +1,13 @@
 ---
-title: Intact Intervals
-special_judge: false
-time_limit: 6 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Intact Intervals"
+special_judge: "false"
+time_limit: "6 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 62
 accepted: 30
 solved_users: 23
-acceptance_rate: 45.098%
-collected_at: 2026-04-17T16:45:27.887826+00:00
+acceptance_rate: "45.098%"
+collected_at: "2026-04-17T16:45:27.887826+00:00"
 ---
 
 ## 문제

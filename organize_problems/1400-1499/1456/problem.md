@@ -1,13 +1,13 @@
 ---
-title: 거의 소수
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "거의 소수"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 25355
 accepted: 6659
 solved_users: 4586
-acceptance_rate: 24.843%
-collected_at: 2026-04-17T10:30:20.180635+00:00
+acceptance_rate: "24.843%"
+collected_at: "2026-04-17T10:30:20.180635+00:00"
 ---
 
 ## 문제

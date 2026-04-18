@@ -1,13 +1,13 @@
 ---
-title: Darts
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Darts"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 682
 accepted: 333
 solved_users: 265
-acceptance_rate: 49.906%
-collected_at: 2026-04-17T10:48:42.765592+00:00
+acceptance_rate: "49.906%"
+collected_at: "2026-04-17T10:48:42.765592+00:00"
 ---
 
 ## 문제

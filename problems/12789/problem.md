@@ -1,13 +1,13 @@
 ---
-title: 도키도키 간식드리미
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "도키도키 간식드리미"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 52498
 accepted: 18917
 solved_users: 15912
-acceptance_rate: 35.521%
-collected_at: 2026-04-17T13:01:26.717504+00:00
+acceptance_rate: "35.521%"
+collected_at: "2026-04-17T13:01:26.717504+00:00"
 ---
 
 ## 문제

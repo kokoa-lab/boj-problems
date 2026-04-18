@@ -1,13 +1,13 @@
 ---
-title: 효정과 새 모니터
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "효정과 새 모니터"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 1262
 accepted: 689
 solved_users: 605
-acceptance_rate: 56.122%
-collected_at: 2026-04-17T15:43:55.964735+00:00
+acceptance_rate: "56.122%"
+collected_at: "2026-04-17T15:43:55.964735+00:00"
 ---
 
 ## 문제

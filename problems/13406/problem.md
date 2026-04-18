@@ -1,13 +1,13 @@
 ---
-title: Animal Companion in Maze
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Animal Companion in Maze"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 94
 accepted: 25
 solved_users: 21
-acceptance_rate: 25.000%
-collected_at: 2026-04-17T13:12:46.267255+00:00
+acceptance_rate: "25.000%"
+collected_at: "2026-04-17T13:12:46.267255+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 그래프의 싱크
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "그래프의 싱크"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 1606
 accepted: 878
 solved_users: 706
-acceptance_rate: 55.027%
-collected_at: 2026-04-17T11:30:07.803338+00:00
+acceptance_rate: "55.027%"
+collected_at: "2026-04-17T11:30:07.803338+00:00"
 ---
 
 ## 문제

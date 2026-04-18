@@ -1,13 +1,13 @@
 ---
-title: 수 이어 쓰기 2
-special_judge: false
-time_limit: 2 초
-memory_limit: 64 MB
+title: "수 이어 쓰기 2"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "64 MB"
 submissions: 13327
 accepted: 3937
 solved_users: 2919
-acceptance_rate: 31.574%
-collected_at: 2026-04-17T10:33:42.943349+00:00
+acceptance_rate: "31.574%"
+collected_at: "2026-04-17T10:33:42.943349+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Swords
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Swords"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 241
 accepted: 122
 solved_users: 100
-acceptance_rate: 49.505%
-collected_at: 2026-04-17T18:27:38.049746+00:00
+acceptance_rate: "49.505%"
+collected_at: "2026-04-17T18:27:38.049746+00:00"
 ---
 
 ## 문제

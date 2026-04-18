@@ -1,13 +1,13 @@
 ---
-title: Lab
-special_judge: true
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Lab"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 118
 accepted: 74
 solved_users: 61
-acceptance_rate: 62.245%
-collected_at: 2026-04-17T13:12:23.722957+00:00
+acceptance_rate: "62.245%"
+collected_at: "2026-04-17T13:12:23.722957+00:00"
 ---
 
 ## 문제

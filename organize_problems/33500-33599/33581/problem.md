@@ -1,13 +1,13 @@
 ---
-title: IZ*ONE Sequence
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "IZ*ONE Sequence"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 241
 accepted: 78
 solved_users: 63
-acceptance_rate: 32.642%
-collected_at: 2026-04-17T20:19:22.603794+00:00
+acceptance_rate: "32.642%"
+collected_at: "2026-04-17T20:19:22.603794+00:00"
 ---
 
 ## 문제

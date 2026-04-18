@@ -1,13 +1,13 @@
 ---
-title: Good Pizza, Great Pizza
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Good Pizza, Great Pizza"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 579
 accepted: 142
 solved_users: 108
-acceptance_rate: 23.736%
-collected_at: 2026-04-17T14:34:12.823538+00:00
+acceptance_rate: "23.736%"
+collected_at: "2026-04-17T14:34:12.823538+00:00"
 ---
 
 ## 문제

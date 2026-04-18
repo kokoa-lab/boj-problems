@@ -1,13 +1,13 @@
 ---
-title: TraveLog
-special_judge: false
-time_limit: 4 초
-memory_limit: 2048 MB (추가 메모리 없음)
+title: "TraveLog"
+special_judge: "false"
+time_limit: "4 초"
+memory_limit: "2048 MB (추가 메모리 없음)"
 submissions: 215
 accepted: 55
 solved_users: 46
-acceptance_rate: 25.989%
-collected_at: 2026-04-17T16:38:56.223328+00:00
+acceptance_rate: "25.989%"
+collected_at: "2026-04-17T16:38:56.223328+00:00"
 ---
 
 ## 문제

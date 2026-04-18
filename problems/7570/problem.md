@@ -1,13 +1,13 @@
 ---
-title: 줄 세우기
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "줄 세우기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 10960
 accepted: 3854
 solved_users: 3047
-acceptance_rate: 40.224%
-collected_at: 2026-04-17T11:50:45.538646+00:00
+acceptance_rate: "40.224%"
+collected_at: "2026-04-17T11:50:45.538646+00:00"
 ---
 
 ## 문제

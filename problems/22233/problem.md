@@ -1,13 +1,13 @@
 ---
-title: 가희와 키워드
-special_judge: false
-time_limit: 1.5 초
-memory_limit: 512 MB
+title: "가희와 키워드"
+special_judge: "false"
+time_limit: "1.5 초"
+memory_limit: "512 MB"
 submissions: 9612
 accepted: 4163
 solved_users: 3196
-acceptance_rate: 41.431%
-collected_at: 2026-04-17T16:17:44.227028+00:00
+acceptance_rate: "41.431%"
+collected_at: "2026-04-17T16:17:44.227028+00:00"
 ---
 
 ## 문제

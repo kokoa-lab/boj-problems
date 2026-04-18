@@ -1,13 +1,13 @@
 ---
-title: Form the Maximal Set
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Form the Maximal Set"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 53
 accepted: 25
 solved_users: 14
-acceptance_rate: 43.750%
-collected_at: 2026-04-17T15:12:39.419074+00:00
+acceptance_rate: "43.750%"
+collected_at: "2026-04-17T15:12:39.419074+00:00"
 ---
 
 ## 문제

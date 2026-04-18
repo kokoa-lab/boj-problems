@@ -1,13 +1,13 @@
 ---
-title: 분수좋아해?
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "분수좋아해?"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 4347
 accepted: 3324
 solved_users: 3126
-acceptance_rate: 78.209%
-collected_at: 2026-04-17T12:24:15.650192+00:00
+acceptance_rate: "78.209%"
+collected_at: "2026-04-17T12:24:15.650192+00:00"
 ---
 
 ## 문제

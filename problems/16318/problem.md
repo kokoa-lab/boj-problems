@@ -1,13 +1,13 @@
 ---
-title: Delivery Delays
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Delivery Delays"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 124
 accepted: 55
 solved_users: 42
-acceptance_rate: 46.667%
-collected_at: 2026-04-17T14:15:43.658119+00:00
+acceptance_rate: "46.667%"
+collected_at: "2026-04-17T14:15:43.658119+00:00"
 ---
 
 ## 문제

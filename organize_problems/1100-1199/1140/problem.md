@@ -1,13 +1,13 @@
 ---
-title: 요금
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "요금"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 1229
 accepted: 110
 solved_users: 59
-acceptance_rate: 19.156%
-collected_at: 2026-04-17T10:28:24.656908+00:00
+acceptance_rate: "19.156%"
+collected_at: "2026-04-17T10:28:24.656908+00:00"
 ---
 
 ## 문제

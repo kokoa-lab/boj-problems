@@ -1,13 +1,13 @@
 ---
-title: Increase the Toll Fees
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Increase the Toll Fees"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 53
 accepted: 32
 solved_users: 31
-acceptance_rate: 60.784%
-collected_at: 2026-04-17T19:42:03.601977+00:00
+acceptance_rate: "60.784%"
+collected_at: "2026-04-17T19:42:03.601977+00:00"
 ---
 
 ## 문제

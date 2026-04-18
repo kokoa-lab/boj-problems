@@ -1,13 +1,13 @@
 ---
-title: 타일 위의 원
-special_judge: false
-time_limit: 5 초 (추가 시간 없음)
-memory_limit: 128 MB
+title: "타일 위의 원"
+special_judge: "false"
+time_limit: "5 초 (추가 시간 없음)"
+memory_limit: "128 MB"
 submissions: 1151
 accepted: 378
 solved_users: 266
-acceptance_rate: 34.726%
-collected_at: 2026-04-17T10:32:30.843513+00:00
+acceptance_rate: "34.726%"
+collected_at: "2026-04-17T10:32:30.843513+00:00"
 ---
 
 ## 문제

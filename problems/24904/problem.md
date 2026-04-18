@@ -1,13 +1,13 @@
 ---
-title: Baekjoon Wordline Judge
-special_judge: false
-time_limit: 0.555 초
-memory_limit: 55 MB
+title: "Baekjoon Wordline Judge"
+special_judge: "false"
+time_limit: "0.555 초"
+memory_limit: "55 MB"
 submissions: 11922
 accepted: 1540
 solved_users: 1192
-acceptance_rate: 16.320%
-collected_at: 2026-04-17T17:16:53.158709+00:00
+acceptance_rate: "16.320%"
+collected_at: "2026-04-17T17:16:53.158709+00:00"
 ---
 
 ## 문제

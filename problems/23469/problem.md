@@ -1,13 +1,13 @@
 ---
-title: Five Nights at Freddy's
-special_judge: true
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "Five Nights at Freddy's"
+special_judge: "true"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 37
 accepted: 12
 solved_users: 12
-acceptance_rate: 42.857%
-collected_at: 2026-04-17T16:48:47.410147+00:00
+acceptance_rate: "42.857%"
+collected_at: "2026-04-17T16:48:47.410147+00:00"
 ---
 
 ## 문제

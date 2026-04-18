@@ -1,13 +1,13 @@
 ---
-title: LCS 7
-special_judge: true
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 8 MB (추가 메모리 없음)
+title: "LCS 7"
+special_judge: "true"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "8 MB (추가 메모리 없음)"
 submissions: 1305
 accepted: 447
 solved_users: 240
-acceptance_rate: 38.278%
-collected_at: 2026-04-17T15:04:51.131332+00:00
+acceptance_rate: "38.278%"
+collected_at: "2026-04-17T15:04:51.131332+00:00"
 ---
 
 ## 문제

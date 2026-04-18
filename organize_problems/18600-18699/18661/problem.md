@@ -1,13 +1,13 @@
 ---
-title: The One Polynomial Man
-special_judge: false
-time_limit: 4 초
-memory_limit: 512 MB
+title: "The One Polynomial Man"
+special_judge: "false"
+time_limit: "4 초"
+memory_limit: "512 MB"
 submissions: 43
 accepted: 24
 solved_users: 13
-acceptance_rate: 52.000%
-collected_at: 2026-04-17T15:07:43.555278+00:00
+acceptance_rate: "52.000%"
+collected_at: "2026-04-17T15:07:43.555278+00:00"
 ---
 
 ## 문제

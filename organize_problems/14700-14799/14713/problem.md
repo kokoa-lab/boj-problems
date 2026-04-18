@@ -1,13 +1,13 @@
 ---
-title: 앵무새
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "앵무새"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 6353
 accepted: 1994
 solved_users: 1521
-acceptance_rate: 31.022%
-collected_at: 2026-04-17T13:40:52.400493+00:00
+acceptance_rate: "31.022%"
+collected_at: "2026-04-17T13:40:52.400493+00:00"
 ---
 
 ## 문제

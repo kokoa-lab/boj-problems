@@ -1,13 +1,13 @@
 ---
-title: 잃어버린 순수
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "잃어버린 순수"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 160
 accepted: 38
 solved_users: 34
-acceptance_rate: 30.631%
-collected_at: 2026-04-17T18:57:37.266989+00:00
+acceptance_rate: "30.631%"
+collected_at: "2026-04-17T18:57:37.266989+00:00"
 ---
 
 ## 문제

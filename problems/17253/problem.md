@@ -1,13 +1,13 @@
 ---
-title: 삼삼한 수 2
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "삼삼한 수 2"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 1245
 accepted: 544
 solved_users: 474
-acceptance_rate: 44.507%
-collected_at: 2026-04-17T14:35:39.442245+00:00
+acceptance_rate: "44.507%"
+collected_at: "2026-04-17T14:35:39.442245+00:00"
 ---
 
 ## 문제

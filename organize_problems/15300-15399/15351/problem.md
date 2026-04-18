@@ -1,13 +1,13 @@
 ---
-title: 인생 점수
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "인생 점수"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 2269
 accepted: 1703
 solved_users: 1492
-acceptance_rate: 76.710%
-collected_at: 2026-04-17T13:57:43.374592+00:00
+acceptance_rate: "76.710%"
+collected_at: "2026-04-17T13:57:43.374592+00:00"
 ---
 
 ## 문제

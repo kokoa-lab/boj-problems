@@ -1,13 +1,13 @@
 ---
-title: 개구리 왕눈이
-special_judge: true
-time_limit: 1 초
-memory_limit: 128 MB
+title: "개구리 왕눈이"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 482
 accepted: 115
 solved_users: 92
-acceptance_rate: 25.414%
-collected_at: 2026-04-17T10:46:05.929164+00:00
+acceptance_rate: "25.414%"
+collected_at: "2026-04-17T10:46:05.929164+00:00"
 ---
 
 ## 문제

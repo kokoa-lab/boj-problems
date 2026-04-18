@@ -1,13 +1,13 @@
 ---
-title: Road Net
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Road Net"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 155
 accepted: 111
 solved_users: 81
-acceptance_rate: 71.681%
-collected_at: 2026-04-17T11:55:43.588885+00:00
+acceptance_rate: "71.681%"
+collected_at: "2026-04-17T11:55:43.588885+00:00"
 ---
 
 ## 문제

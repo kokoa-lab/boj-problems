@@ -1,13 +1,13 @@
 ---
-title: Arranging Tickets
-special_judge: false
-time_limit: 4 초
-memory_limit: 256 MB
+title: "Arranging Tickets"
+special_judge: "false"
+time_limit: "4 초"
+memory_limit: "256 MB"
 submissions: 100
 accepted: 32
 solved_users: 26
-acceptance_rate: 32.099%
-collected_at: 2026-04-17T14:45:39.337090+00:00
+acceptance_rate: "32.099%"
+collected_at: "2026-04-17T14:45:39.337090+00:00"
 ---
 
 ## 문제

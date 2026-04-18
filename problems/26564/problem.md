@@ -1,13 +1,13 @@
 ---
-title: Poker Hand
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Poker Hand"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 332
 accepted: 273
 solved_users: 242
-acceptance_rate: 83.162%
-collected_at: 2026-04-17T17:47:49.400001+00:00
+acceptance_rate: "83.162%"
+collected_at: "2026-04-17T17:47:49.400001+00:00"
 ---
 
 ## 문제

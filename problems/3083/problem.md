@@ -1,13 +1,13 @@
 ---
-title: 고속도로 구매
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "고속도로 구매"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 37
 accepted: 13
 solved_users: 5
-acceptance_rate: 29.412%
-collected_at: 2026-04-17T10:46:35.394746+00:00
+acceptance_rate: "29.412%"
+collected_at: "2026-04-17T10:46:35.394746+00:00"
 ---
 
 ## 문제

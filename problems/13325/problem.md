@@ -1,13 +1,13 @@
 ---
-title: 이진 트리
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "이진 트리"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 4080
 accepted: 2264
 solved_users: 1647
-acceptance_rate: 56.001%
-collected_at: 2026-04-17T13:11:34.167993+00:00
+acceptance_rate: "56.001%"
+collected_at: "2026-04-17T13:11:34.167993+00:00"
 ---
 
 ## 문제

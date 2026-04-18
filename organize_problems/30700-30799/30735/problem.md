@@ -1,13 +1,13 @@
 ---
-title: Дорога на олимпиаду
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Дорога на олимпиаду"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 5
 accepted: 2
 solved_users: 1
-acceptance_rate: 33.333%
-collected_at: 2026-04-17T19:13:46.655739+00:00
+acceptance_rate: "33.333%"
+collected_at: "2026-04-17T19:13:46.655739+00:00"
 ---
 
 ## 문제

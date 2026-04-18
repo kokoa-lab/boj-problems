@@ -1,13 +1,13 @@
 ---
-title: New Years Eve (Small)
-special_judge: true
-time_limit: 5 초
-memory_limit: 512 MB
+title: "New Years Eve (Small)"
+special_judge: "true"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 40
 accepted: 19
 solved_users: 18
-acceptance_rate: 51.429%
-collected_at: 2026-04-17T12:51:44.680184+00:00
+acceptance_rate: "51.429%"
+collected_at: "2026-04-17T12:51:44.680184+00:00"
 ---
 
 ## 문제

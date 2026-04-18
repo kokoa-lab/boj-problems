@@ -1,13 +1,13 @@
 ---
-title: 高速道路 (Highway)
-special_judge: false
-time_limit: 4 초
-memory_limit: 1024 MB
+title: "高速道路 (Highway)"
+special_judge: "false"
+time_limit: "4 초"
+memory_limit: "1024 MB"
 submissions: 45
 accepted: 30
 solved_users: 22
-acceptance_rate: 59.459%
-collected_at: 2026-04-17T17:04:35.969391+00:00
+acceptance_rate: "59.459%"
+collected_at: "2026-04-17T17:04:35.969391+00:00"
 ---
 
 ## 문제

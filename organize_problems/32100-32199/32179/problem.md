@@ -1,13 +1,13 @@
 ---
-title: 이분탐색의 흔적
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "이분탐색의 흔적"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 175
 accepted: 85
 solved_users: 72
-acceptance_rate: 46.452%
-collected_at: 2026-04-17T19:45:00.692618+00:00
+acceptance_rate: "46.452%"
+collected_at: "2026-04-17T19:45:00.692618+00:00"
 ---
 
 ## 문제

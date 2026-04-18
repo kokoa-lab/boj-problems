@@ -1,13 +1,13 @@
 ---
-title: K-Shaped Figures
-special_judge: false
-time_limit: 3 초
-memory_limit: 1024 MB
+title: "K-Shaped Figures"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "1024 MB"
 submissions: 28
 accepted: 21
 solved_users: 20
-acceptance_rate: 90.909%
-collected_at: 2026-04-17T17:52:32.971160+00:00
+acceptance_rate: "90.909%"
+collected_at: "2026-04-17T17:52:32.971160+00:00"
 ---
 
 ## 문제

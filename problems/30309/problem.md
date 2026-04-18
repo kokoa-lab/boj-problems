@@ -1,13 +1,13 @@
 ---
-title: Exceeding Limits
-special_judge: true
-time_limit: 8 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Exceeding Limits"
+special_judge: "true"
+time_limit: "8 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 170
 accepted: 56
 solved_users: 41
-acceptance_rate: 27.703%
-collected_at: 2026-04-17T19:02:56.935960+00:00
+acceptance_rate: "27.703%"
+collected_at: "2026-04-17T19:02:56.935960+00:00"
 ---
 
 ## 문제

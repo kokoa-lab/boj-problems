@@ -1,13 +1,13 @@
 ---
-title: 결! 합!
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "결! 합!"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 766
 accepted: 429
 solved_users: 352
-acceptance_rate: 56.140%
-collected_at: 2026-04-17T14:23:02.896561+00:00
+acceptance_rate: "56.140%"
+collected_at: "2026-04-17T14:23:02.896561+00:00"
 ---
 
 ## 문제

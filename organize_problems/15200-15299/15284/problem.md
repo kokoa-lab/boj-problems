@@ -1,13 +1,13 @@
 ---
-title: Box
-special_judge: false
-time_limit: 3 초
-memory_limit: 512 MB
+title: "Box"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "512 MB"
 submissions: 74
 accepted: 45
 solved_users: 44
-acceptance_rate: 63.768%
-collected_at: 2026-04-17T13:56:27.441678+00:00
+acceptance_rate: "63.768%"
+collected_at: "2026-04-17T13:56:27.441678+00:00"
 ---
 
 ## 문제

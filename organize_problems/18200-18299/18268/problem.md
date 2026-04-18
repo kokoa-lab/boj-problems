@@ -1,13 +1,13 @@
 ---
-title: Cow Gymnastics
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Cow Gymnastics"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 1698
 accepted: 906
 solved_users: 775
-acceptance_rate: 56.038%
-collected_at: 2026-04-17T14:58:19.861689+00:00
+acceptance_rate: "56.038%"
+collected_at: "2026-04-17T14:58:19.861689+00:00"
 ---
 
 ## 문제

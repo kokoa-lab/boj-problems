@@ -1,13 +1,13 @@
 ---
-title: 동방 보수
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "동방 보수"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 555
 accepted: 202
 solved_users: 168
-acceptance_rate: 37.168%
-collected_at: 2026-04-17T13:57:00.349466+00:00
+acceptance_rate: "37.168%"
+collected_at: "2026-04-17T13:57:00.349466+00:00"
 ---
 
 ## 문제

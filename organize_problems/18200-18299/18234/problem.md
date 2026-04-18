@@ -1,13 +1,13 @@
 ---
-title: 당근 훔쳐 먹기
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "당근 훔쳐 먹기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 1479
 accepted: 723
 solved_users: 579
-acceptance_rate: 47.851%
-collected_at: 2026-04-17T14:57:41.568306+00:00
+acceptance_rate: "47.851%"
+collected_at: "2026-04-17T14:57:41.568306+00:00"
 ---
 
 ## 문제

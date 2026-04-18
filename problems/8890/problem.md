@@ -1,13 +1,13 @@
 ---
-title: Critical 3-Path
-special_judge: false
-time_limit: 3 초
-memory_limit: 128 MB
+title: "Critical 3-Path"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "128 MB"
 submissions: 361
 accepted: 75
 solved_users: 57
-acceptance_rate: 22.984%
-collected_at: 2026-04-17T12:04:34.757629+00:00
+acceptance_rate: "22.984%"
+collected_at: "2026-04-17T12:04:34.757629+00:00"
 ---
 
 ## 문제

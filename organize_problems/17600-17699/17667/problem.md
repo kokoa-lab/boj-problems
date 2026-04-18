@@ -1,13 +1,13 @@
 ---
-title: Virus Experiment
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Virus Experiment"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 37
 accepted: 22
 solved_users: 16
-acceptance_rate: 72.727%
-collected_at: 2026-04-17T14:44:46.132487+00:00
+acceptance_rate: "72.727%"
+collected_at: "2026-04-17T14:44:46.132487+00:00"
 ---
 
 ## 문제

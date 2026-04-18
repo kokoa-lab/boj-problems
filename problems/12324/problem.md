@@ -1,13 +1,13 @@
 ---
-title: Osmos (Large)
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Osmos (Large)"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 73
 accepted: 39
 solved_users: 32
-acceptance_rate: 50.000%
-collected_at: 2026-04-17T12:53:32.481674+00:00
+acceptance_rate: "50.000%"
+collected_at: "2026-04-17T12:53:32.481674+00:00"
 ---
 
 ## 문제

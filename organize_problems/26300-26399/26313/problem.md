@@ -1,13 +1,13 @@
 ---
-title: Invitation
-special_judge: false
-time_limit: 3 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Invitation"
+special_judge: "false"
+time_limit: "3 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 30
 accepted: 16
 solved_users: 16
-acceptance_rate: 61.538%
-collected_at: 2026-04-17T17:43:35.408604+00:00
+acceptance_rate: "61.538%"
+collected_at: "2026-04-17T17:43:35.408604+00:00"
 ---
 
 ## 문제

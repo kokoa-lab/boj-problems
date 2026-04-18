@@ -1,13 +1,13 @@
 ---
-title: Cow Land
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Cow Land"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 1032
 accepted: 514
 solved_users: 403
-acceptance_rate: 51.535%
-collected_at: 2026-04-17T14:28:14.260659+00:00
+acceptance_rate: "51.535%"
+collected_at: "2026-04-17T14:28:14.260659+00:00"
 ---
 
 ## 문제

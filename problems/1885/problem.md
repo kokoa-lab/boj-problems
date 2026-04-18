@@ -1,13 +1,13 @@
 ---
-title: 비부분수열
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "비부분수열"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 565
 accepted: 243
 solved_users: 188
-acceptance_rate: 46.535%
-collected_at: 2026-04-17T10:35:21.733302+00:00
+acceptance_rate: "46.535%"
+collected_at: "2026-04-17T10:35:21.733302+00:00"
 ---
 
 ## 문제

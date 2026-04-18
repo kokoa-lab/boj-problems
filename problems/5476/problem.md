@@ -1,13 +1,13 @@
 ---
-title: 장난감 동물
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "장난감 동물"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 185
 accepted: 98
 solved_users: 32
-acceptance_rate: 30.476%
-collected_at: 2026-04-17T11:14:22.030774+00:00
+acceptance_rate: "30.476%"
+collected_at: "2026-04-17T11:14:22.030774+00:00"
 ---
 
 ## 문제

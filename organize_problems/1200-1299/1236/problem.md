@@ -1,13 +1,13 @@
 ---
-title: 성 지키기
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "성 지키기"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 23453
 accepted: 10179
 solved_users: 8543
-acceptance_rate: 45.369%
-collected_at: 2026-04-17T10:29:00.325525+00:00
+acceptance_rate: "45.369%"
+collected_at: "2026-04-17T10:29:00.325525+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 짱해커 이동식
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "짱해커 이동식"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 925
 accepted: 421
 solved_users: 330
-acceptance_rate: 47.896%
-collected_at: 2026-04-17T17:29:48.616763+00:00
+acceptance_rate: "47.896%"
+collected_at: "2026-04-17T17:29:48.616763+00:00"
 ---
 
 ## 문제

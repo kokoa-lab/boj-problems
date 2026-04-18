@@ -1,13 +1,13 @@
 ---
-title: 싼데 비슷한
-special_judge: true
-time_limit: 7 초
-memory_limit: 16 MB (추가 메모리 없음)
+title: "싼데 비슷한"
+special_judge: "true"
+time_limit: "7 초"
+memory_limit: "16 MB (추가 메모리 없음)"
 submissions: 308
 accepted: 76
 solved_users: 47
-acceptance_rate: 34.058%
-collected_at: 2026-04-17T10:38:00.608854+00:00
+acceptance_rate: "34.058%"
+collected_at: "2026-04-17T10:38:00.608854+00:00"
 ---
 
 ## 문제

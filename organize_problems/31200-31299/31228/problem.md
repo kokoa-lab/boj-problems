@@ -1,13 +1,13 @@
 ---
-title: 실 전화기
-special_judge: false
-time_limit: 0.5 초
-memory_limit: 1024 MB
+title: "실 전화기"
+special_judge: "false"
+time_limit: "0.5 초"
+memory_limit: "1024 MB"
 submissions: 968
 accepted: 276
 solved_users: 243
-acceptance_rate: 32.100%
-collected_at: 2026-04-17T19:24:06.085295+00:00
+acceptance_rate: "32.100%"
+collected_at: "2026-04-17T19:24:06.085295+00:00"
 ---
 
 ## 문제

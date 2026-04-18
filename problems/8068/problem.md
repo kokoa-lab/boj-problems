@@ -1,13 +1,13 @@
 ---
-title: Water
-special_judge: false
-time_limit: 3 초
-memory_limit: 128 MB
+title: "Water"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "128 MB"
 submissions: 339
 accepted: 124
 solved_users: 89
-acceptance_rate: 36.179%
-collected_at: 2026-04-17T11:55:40.379301+00:00
+acceptance_rate: "36.179%"
+collected_at: "2026-04-17T11:55:40.379301+00:00"
 ---
 
 ## 문제

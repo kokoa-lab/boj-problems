@@ -1,13 +1,13 @@
 ---
-title: 최대 공통 증가 수열
-special_judge: true
-time_limit: 1 초
-memory_limit: 256 MB
+title: "최대 공통 증가 수열"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 2600
 accepted: 435
 solved_users: 246
-acceptance_rate: 17.215%
-collected_at: 2026-04-17T11:49:44.600832+00:00
+acceptance_rate: "17.215%"
+collected_at: "2026-04-17T11:49:44.600832+00:00"
 ---
 
 ## 문제

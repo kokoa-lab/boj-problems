@@ -1,13 +1,13 @@
 ---
-title: Два станка
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Два станка"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 434
 accepted: 230
 solved_users: 214
-acceptance_rate: 52.709%
-collected_at: 2026-04-17T17:16:25.384379+00:00
+acceptance_rate: "52.709%"
+collected_at: "2026-04-17T17:16:25.384379+00:00"
 ---
 
 ## 문제

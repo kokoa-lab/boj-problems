@@ -1,13 +1,13 @@
 ---
-title: Bringing Order to Disorder
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Bringing Order to Disorder"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 75
 accepted: 54
 solved_users: 40
-acceptance_rate: 76.923%
-collected_at: 2026-04-17T12:45:19.006760+00:00
+acceptance_rate: "76.923%"
+collected_at: "2026-04-17T12:45:19.006760+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Kick-Tipp
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Kick-Tipp"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 18
 accepted: 13
 solved_users: 13
-acceptance_rate: 86.667%
-collected_at: 2026-04-17T11:50:15.241416+00:00
+acceptance_rate: "86.667%"
+collected_at: "2026-04-17T11:50:15.241416+00:00"
 ---
 
 ## 문제

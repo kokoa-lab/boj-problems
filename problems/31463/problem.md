@@ -1,13 +1,13 @@
 ---
-title: 초콜릿 뒤집기 게임 (Sweet)
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "초콜릿 뒤집기 게임 (Sweet)"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 187
 accepted: 106
 solved_users: 87
-acceptance_rate: 60.000%
-collected_at: 2026-04-17T19:28:47.759297+00:00
+acceptance_rate: "60.000%"
+collected_at: "2026-04-17T19:28:47.759297+00:00"
 ---
 
 ## 문제

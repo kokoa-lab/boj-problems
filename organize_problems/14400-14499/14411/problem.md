@@ -1,13 +1,13 @@
 ---
-title: 합집합
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "합집합"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 444
 accepted: 247
 solved_users: 184
-acceptance_rate: 61.745%
-collected_at: 2026-04-17T13:32:32.902165+00:00
+acceptance_rate: "61.745%"
+collected_at: "2026-04-17T13:32:32.902165+00:00"
 ---
 
 ## 문제

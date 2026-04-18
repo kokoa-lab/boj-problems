@@ -1,13 +1,13 @@
 ---
-title: 일꾼 고용
-special_judge: false
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "일꾼 고용"
+special_judge: "false"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 370
 accepted: 179
 solved_users: 150
-acceptance_rate: 48.077%
-collected_at: 2026-04-17T19:43:34.238000+00:00
+acceptance_rate: "48.077%"
+collected_at: "2026-04-17T19:43:34.238000+00:00"
 ---
 
 ## 문제

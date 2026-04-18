@@ -1,13 +1,13 @@
 ---
-title: Cowntagion
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Cowntagion"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 804
 accepted: 336
 solved_users: 299
-acceptance_rate: 43.906%
-collected_at: 2026-04-17T15:39:26.828155+00:00
+acceptance_rate: "43.906%"
+collected_at: "2026-04-17T15:39:26.828155+00:00"
 ---
 
 ## 문제

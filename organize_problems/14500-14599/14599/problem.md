@@ -1,13 +1,13 @@
 ---
-title: 인공지능 테트리스 (Large)
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "인공지능 테트리스 (Large)"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 272
 accepted: 69
 solved_users: 44
-acceptance_rate: 21.359%
-collected_at: 2026-04-17T13:38:58.338210+00:00
+acceptance_rate: "21.359%"
+collected_at: "2026-04-17T13:38:58.338210+00:00"
 ---
 
 ## 문제

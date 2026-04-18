@@ -1,13 +1,13 @@
 ---
-title: Fastest Speedrun
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Fastest Speedrun"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 176
 accepted: 44
 solved_users: 32
-acceptance_rate: 22.069%
-collected_at: 2026-04-17T14:20:51.163401+00:00
+acceptance_rate: "22.069%"
+collected_at: "2026-04-17T14:20:51.163401+00:00"
 ---
 
 ## 문제

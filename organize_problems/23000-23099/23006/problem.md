@@ -1,13 +1,13 @@
 ---
-title: Truck Delivery
-special_judge: false
-time_limit: 서브태스크 참고 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "Truck Delivery"
+special_judge: "false"
+time_limit: "서브태스크 참고 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 68
 accepted: 24
 solved_users: 20
-acceptance_rate: 33.898%
-collected_at: 2026-04-17T16:40:07.259632+00:00
+acceptance_rate: "33.898%"
+collected_at: "2026-04-17T16:40:07.259632+00:00"
 ---
 
 ## 문제

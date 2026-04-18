@@ -1,13 +1,13 @@
 ---
-title: 통신 시스템의 성능 저하
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "통신 시스템의 성능 저하"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 262
 accepted: 97
 solved_users: 84
-acceptance_rate: 39.810%
-collected_at: 2026-04-17T19:44:56.221751+00:00
+acceptance_rate: "39.810%"
+collected_at: "2026-04-17T19:44:56.221751+00:00"
 ---
 
 ## 문제

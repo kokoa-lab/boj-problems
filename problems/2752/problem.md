@@ -1,13 +1,13 @@
 ---
-title: 세수정렬
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "세수정렬"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 57384
 accepted: 34558
 solved_users: 30567
-acceptance_rate: 61.461%
-collected_at: 2026-04-17T10:44:32.754353+00:00
+acceptance_rate: "61.461%"
+collected_at: "2026-04-17T10:44:32.754353+00:00"
 ---
 
 ## 문제

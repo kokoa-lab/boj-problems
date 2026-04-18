@@ -1,13 +1,13 @@
 ---
-title: Another Word Sorting
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Another Word Sorting"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 104
 accepted: 55
 solved_users: 34
-acceptance_rate: 47.222%
-collected_at: 2026-04-17T12:14:49.411645+00:00
+acceptance_rate: "47.222%"
+collected_at: "2026-04-17T12:14:49.411645+00:00"
 ---
 
 ## 문제

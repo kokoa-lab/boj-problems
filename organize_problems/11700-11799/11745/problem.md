@@ -1,13 +1,13 @@
 ---
-title: King’s Inspection
-special_judge: true
-time_limit: 10 초
-memory_limit: 512 MB
+title: "King’s Inspection"
+special_judge: "true"
+time_limit: "10 초"
+memory_limit: "512 MB"
 submissions: 293
 accepted: 37
 solved_users: 28
-acceptance_rate: 13.397%
-collected_at: 2026-04-17T12:45:13.221468+00:00
+acceptance_rate: "13.397%"
+collected_at: "2026-04-17T12:45:13.221468+00:00"
 ---
 
 ## 문제

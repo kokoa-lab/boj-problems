@@ -1,13 +1,13 @@
 ---
-title: 산만한 고양이
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "산만한 고양이"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 1329
 accepted: 504
 solved_users: 348
-acceptance_rate: 38.033%
-collected_at: 2026-04-17T13:43:25.408869+00:00
+acceptance_rate: "38.033%"
+collected_at: "2026-04-17T13:43:25.408869+00:00"
 ---
 
 ## 문제

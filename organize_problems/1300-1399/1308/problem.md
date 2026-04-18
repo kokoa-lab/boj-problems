@@ -1,13 +1,13 @@
 ---
-title: D-Day
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "D-Day"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 14987
 accepted: 3212
 solved_users: 2777
-acceptance_rate: 24.595%
-collected_at: 2026-04-17T10:29:24.783376+00:00
+acceptance_rate: "24.595%"
+collected_at: "2026-04-17T10:29:24.783376+00:00"
 ---
 
 ## 문제

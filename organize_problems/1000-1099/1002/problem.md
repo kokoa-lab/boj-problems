@@ -1,13 +1,13 @@
 ---
-title: 터렛
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "터렛"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 250444
 accepted: 58016
 solved_users: 45377
-acceptance_rate: 23.402%
-collected_at: 2026-04-17T10:27:37.119156+00:00
+acceptance_rate: "23.402%"
+collected_at: "2026-04-17T10:27:37.119156+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 콜센터
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "콜센터"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 29240
 accepted: 19080
 solved_users: 18218
-acceptance_rate: 66.838%
-collected_at: 2026-04-17T11:13:01.983058+00:00
+acceptance_rate: "66.838%"
+collected_at: "2026-04-17T11:13:01.983058+00:00"
 ---
 
 ## 문제

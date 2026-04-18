@@ -1,13 +1,13 @@
 ---
-title: 해킹
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "해킹"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 20719
 accepted: 9254
 solved_users: 6854
-acceptance_rate: 43.178%
-collected_at: 2026-04-17T12:21:28.541596+00:00
+acceptance_rate: "43.178%"
+collected_at: "2026-04-17T12:21:28.541596+00:00"
 ---
 
 ## 문제

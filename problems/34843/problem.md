@@ -1,13 +1,13 @@
 ---
-title: MEX들의 MEX
-special_judge: false
-time_limit: 0.7 초
-memory_limit: 1024 MB
+title: "MEX들의 MEX"
+special_judge: "false"
+time_limit: "0.7 초"
+memory_limit: "1024 MB"
 submissions: 383
 accepted: 28
 solved_users: 24
-acceptance_rate: 12.121%
-collected_at: 2026-04-17T20:50:16.410132+00:00
+acceptance_rate: "12.121%"
+collected_at: "2026-04-17T20:50:16.410132+00:00"
 ---
 
 ## 문제

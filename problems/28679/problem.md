@@ -1,13 +1,13 @@
 ---
-title: Candy
-special_judge: false
-time_limit: 3 초
-memory_limit: 1024 MB
+title: "Candy"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "1024 MB"
 submissions: 19
 accepted: 10
 solved_users: 8
-acceptance_rate: 57.143%
-collected_at: 2026-04-17T18:30:35.928288+00:00
+acceptance_rate: "57.143%"
+collected_at: "2026-04-17T18:30:35.928288+00:00"
 ---
 
 ## 문제

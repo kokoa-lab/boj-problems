@@ -1,13 +1,13 @@
 ---
-title: Orchard Division
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Orchard Division"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 52
 accepted: 8
 solved_users: 7
-acceptance_rate: 23.333%
-collected_at: 2026-04-17T13:22:17.923296+00:00
+acceptance_rate: "23.333%"
+collected_at: "2026-04-17T13:22:17.923296+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: SHA-512
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "SHA-512"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 721
 accepted: 615
 solved_users: 576
-acceptance_rate: 85.970%
-collected_at: 2026-04-17T12:31:50.546335+00:00
+acceptance_rate: "85.970%"
+collected_at: "2026-04-17T12:31:50.546335+00:00"
 ---
 
 ## 문제

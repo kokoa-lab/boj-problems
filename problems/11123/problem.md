@@ -1,13 +1,13 @@
 ---
-title: 양 한마리... 양 두마리...
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "양 한마리... 양 두마리..."
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 5664
 accepted: 3643
 solved_users: 3032
-acceptance_rate: 65.856%
-collected_at: 2026-04-17T12:36:54.936039+00:00
+acceptance_rate: "65.856%"
+collected_at: "2026-04-17T12:36:54.936039+00:00"
 ---
 
 ## 문제

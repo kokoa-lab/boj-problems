@@ -1,13 +1,13 @@
 ---
-title: Shuffle’m Up
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Shuffle’m Up"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 106
 accepted: 61
 solved_users: 52
-acceptance_rate: 56.522%
-collected_at: 2026-04-17T10:44:20.944237+00:00
+acceptance_rate: "56.522%"
+collected_at: "2026-04-17T10:44:20.944237+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 조각 움직이기
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "조각 움직이기"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 2758
 accepted: 1259
 solved_users: 943
-acceptance_rate: 49.063%
-collected_at: 2026-04-17T10:27:48.770564+00:00
+acceptance_rate: "49.063%"
+collected_at: "2026-04-17T10:27:48.770564+00:00"
 ---
 
 ## 문제

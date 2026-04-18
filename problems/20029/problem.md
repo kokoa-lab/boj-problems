@@ -1,13 +1,13 @@
 ---
-title: Mock Competition Marketing
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Mock Competition Marketing"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 329
 accepted: 122
 solved_users: 87
-acceptance_rate: 36.709%
-collected_at: 2026-04-17T15:30:43.502677+00:00
+acceptance_rate: "36.709%"
+collected_at: "2026-04-17T15:30:43.502677+00:00"
 ---
 
 ## 문제

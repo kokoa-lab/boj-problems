@@ -1,13 +1,13 @@
 ---
-title: Citizenship Application
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Citizenship Application"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 29
 accepted: 7
 solved_users: 4
-acceptance_rate: 16.000%
-collected_at: 2026-04-17T11:08:52.286110+00:00
+acceptance_rate: "16.000%"
+collected_at: "2026-04-17T11:08:52.286110+00:00"
 ---
 
 ## 문제

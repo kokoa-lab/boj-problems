@@ -1,13 +1,13 @@
 ---
-title: Exchange Bottleneck
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Exchange Bottleneck"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 117
 accepted: 54
 solved_users: 45
-acceptance_rate: 51.724%
-collected_at: 2026-04-17T15:40:02.316175+00:00
+acceptance_rate: "51.724%"
+collected_at: "2026-04-17T15:40:02.316175+00:00"
 ---
 
 ## 문제

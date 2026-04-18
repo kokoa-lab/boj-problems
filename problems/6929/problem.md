@@ -1,13 +1,13 @@
 ---
-title: Dressing Up
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Dressing Up"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 217
 accepted: 194
 solved_users: 165
-acceptance_rate: 90.659%
-collected_at: 2026-04-17T11:40:58.924620+00:00
+acceptance_rate: "90.659%"
+collected_at: "2026-04-17T11:40:58.924620+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Domino Covering
-special_judge: false
-time_limit: 6 초
-memory_limit: 512 MB
+title: "Domino Covering"
+special_judge: "false"
+time_limit: "6 초"
+memory_limit: "512 MB"
 submissions: 588
 accepted: 59
 solved_users: 29
-acceptance_rate: 6.105%
-collected_at: 2026-04-17T15:07:05.741694+00:00
+acceptance_rate: "6.105%"
+collected_at: "2026-04-17T15:07:05.741694+00:00"
 ---
 
 ## 문제

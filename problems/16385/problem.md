@@ -1,13 +1,13 @@
 ---
-title: Pokemon Go Go
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Pokemon Go Go"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 143
 accepted: 70
 solved_users: 55
-acceptance_rate: 52.885%
-collected_at: 2026-04-17T14:17:05.106694+00:00
+acceptance_rate: "52.885%"
+collected_at: "2026-04-17T14:17:05.106694+00:00"
 ---
 
 ## 문제

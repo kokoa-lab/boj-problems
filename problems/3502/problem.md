@@ -1,13 +1,13 @@
 ---
-title: Huzita Axiom 6
-special_judge: true
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Huzita Axiom 6"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 2
 accepted: 0
 solved_users: 0
-acceptance_rate: 0.000%
-collected_at: 2026-04-17T10:49:19.941015+00:00
+acceptance_rate: "0.000%"
+collected_at: "2026-04-17T10:49:19.941015+00:00"
 ---
 
 ## 문제

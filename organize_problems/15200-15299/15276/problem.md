@@ -1,13 +1,13 @@
 ---
-title: Palindromic Password
-special_judge: false
-time_limit: 3 초
-memory_limit: 512 MB
+title: "Palindromic Password"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "512 MB"
 submissions: 147
 accepted: 77
 solved_users: 68
-acceptance_rate: 53.968%
-collected_at: 2026-04-17T13:56:20.323147+00:00
+acceptance_rate: "53.968%"
+collected_at: "2026-04-17T13:56:20.323147+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 비 단조성
-special_judge: false
-time_limit: 10 초
-memory_limit: 128 MB
+title: "비 단조성"
+special_judge: "false"
+time_limit: "10 초"
+memory_limit: "128 MB"
 submissions: 278
 accepted: 157
 solved_users: 124
-acceptance_rate: 52.542%
-collected_at: 2026-04-17T10:57:47.530989+00:00
+acceptance_rate: "52.542%"
+collected_at: "2026-04-17T10:57:47.530989+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Lunchtime Name Recall
-special_judge: false
-time_limit: 7 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "Lunchtime Name Recall"
+special_judge: "false"
+time_limit: "7 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 61
 accepted: 26
 solved_users: 22
-acceptance_rate: 46.809%
-collected_at: 2026-04-17T15:06:08.472613+00:00
+acceptance_rate: "46.809%"
+collected_at: "2026-04-17T15:06:08.472613+00:00"
 ---
 
 ## 문제

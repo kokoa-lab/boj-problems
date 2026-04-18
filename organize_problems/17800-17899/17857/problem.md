@@ -1,13 +1,13 @@
 ---
-title: Musical Chairs
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "Musical Chairs"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 197
 accepted: 87
 solved_users: 81
-acceptance_rate: 46.023%
-collected_at: 2026-04-17T14:48:40.718662+00:00
+acceptance_rate: "46.023%"
+collected_at: "2026-04-17T14:48:40.718662+00:00"
 ---
 
 ## 문제

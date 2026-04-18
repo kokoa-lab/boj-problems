@@ -1,13 +1,13 @@
 ---
-title: Доктор Стрэндж и выставка
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Доктор Стрэндж и выставка"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 22
 accepted: 11
 solved_users: 7
-acceptance_rate: 58.333%
-collected_at: 2026-04-17T18:35:17.458316+00:00
+acceptance_rate: "58.333%"
+collected_at: "2026-04-17T18:35:17.458316+00:00"
 ---
 
 ## 문제

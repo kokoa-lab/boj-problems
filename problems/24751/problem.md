@@ -1,13 +1,13 @@
 ---
-title: Betting
-special_judge: true
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Betting"
+special_judge: "true"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 1544
 accepted: 1351
 solved_users: 1278
-acceptance_rate: 88.443%
-collected_at: 2026-04-17T17:14:17.196437+00:00
+acceptance_rate: "88.443%"
+collected_at: "2026-04-17T17:14:17.196437+00:00"
 ---
 
 ## 문제

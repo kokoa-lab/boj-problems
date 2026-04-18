@@ -1,13 +1,13 @@
 ---
-title: Neatness
-special_judge: true
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Neatness"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 10
 accepted: 6
 solved_users: 6
-acceptance_rate: 66.667%
-collected_at: 2026-04-17T16:09:32.238324+00:00
+acceptance_rate: "66.667%"
+collected_at: "2026-04-17T16:09:32.238324+00:00"
 ---
 
 ## 문제

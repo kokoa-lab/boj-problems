@@ -1,13 +1,13 @@
 ---
-title: Rabbit Horse
-special_judge: true
-time_limit: 1.204 초
-memory_limit: 1204 MB
+title: "Rabbit Horse"
+special_judge: "true"
+time_limit: "1.204 초"
+memory_limit: "1204 MB"
 submissions: 442
 accepted: 141
 solved_users: 121
-acceptance_rate: 44.000%
-collected_at: 2026-04-17T20:29:55.145610+00:00
+acceptance_rate: "44.000%"
+collected_at: "2026-04-17T20:29:55.145610+00:00"
 ---
 
 ## 문제

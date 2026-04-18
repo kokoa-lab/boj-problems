@@ -1,13 +1,13 @@
 ---
-title: Cow Rectangles
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Cow Rectangles"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 272
 accepted: 92
 solved_users: 69
-acceptance_rate: 31.222%
-collected_at: 2026-04-17T12:27:12.383310+00:00
+acceptance_rate: "31.222%"
+collected_at: "2026-04-17T12:27:12.383310+00:00"
 ---
 
 ## 문제

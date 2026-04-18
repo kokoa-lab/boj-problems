@@ -1,13 +1,13 @@
 ---
-title: Baskets of Gold Coins
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Baskets of Gold Coins"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 1125
 accepted: 471
 solved_users: 396
-acceptance_rate: 41.207%
-collected_at: 2026-04-17T11:09:22.818439+00:00
+acceptance_rate: "41.207%"
+collected_at: "2026-04-17T11:09:22.818439+00:00"
 ---
 
 ## 문제

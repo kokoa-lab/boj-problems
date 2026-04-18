@@ -1,13 +1,13 @@
 ---
-title: Smallest Calculated Value
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Smallest Calculated Value"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 226
 accepted: 127
 solved_users: 122
-acceptance_rate: 57.820%
-collected_at: 2026-04-17T18:02:04.345613+00:00
+acceptance_rate: "57.820%"
+collected_at: "2026-04-17T18:02:04.345613+00:00"
 ---
 
 ## 문제

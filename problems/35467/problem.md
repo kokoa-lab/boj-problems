@@ -1,13 +1,13 @@
 ---
-title: Swap-LIS
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Swap-LIS"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 176
 accepted: 119
 solved_users: 101
-acceptance_rate: 71.127%
-collected_at: 2026-04-18T09:52:01.865583+00:00
+acceptance_rate: "71.127%"
+collected_at: "2026-04-18T09:52:01.865583+00:00"
 ---
 
 ## 문제

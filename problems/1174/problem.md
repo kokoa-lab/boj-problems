@@ -1,13 +1,13 @@
 ---
-title: 줄어드는 수
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "줄어드는 수"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 8937
 accepted: 3856
 solved_users: 3141
-acceptance_rate: 43.856%
-collected_at: 2026-04-17T10:28:37.723660+00:00
+acceptance_rate: "43.856%"
+collected_at: "2026-04-17T10:28:37.723660+00:00"
 ---
 
 ## 문제

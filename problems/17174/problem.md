@@ -1,13 +1,13 @@
 ---
-title: 전체 계산 횟수
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "전체 계산 횟수"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 2568
 accepted: 1775
 solved_users: 1676
-acceptance_rate: 71.168%
-collected_at: 2026-04-17T14:31:57.831875+00:00
+acceptance_rate: "71.168%"
+collected_at: "2026-04-17T14:31:57.831875+00:00"
 ---
 
 ## 문제

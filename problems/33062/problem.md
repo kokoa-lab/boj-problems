@@ -1,13 +1,13 @@
 ---
-title: Roundabout Rounding
-special_judge: false
-time_limit: 2 초
-memory_limit: 2048 MB
+title: "Roundabout Rounding"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "2048 MB"
 submissions: 488
 accepted: 184
 solved_users: 155
-acceptance_rate: 40.365%
-collected_at: 2026-04-17T20:08:29.723863+00:00
+acceptance_rate: "40.365%"
+collected_at: "2026-04-17T20:08:29.723863+00:00"
 ---
 
 ## 문제

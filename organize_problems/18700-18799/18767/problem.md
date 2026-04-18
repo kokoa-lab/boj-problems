@@ -1,13 +1,13 @@
 ---
-title: 조교 배치
-special_judge: true
-time_limit: 1 초
-memory_limit: 256 MB
+title: "조교 배치"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 303
 accepted: 61
 solved_users: 52
-acceptance_rate: 22.807%
-collected_at: 2026-04-17T15:09:26.802172+00:00
+acceptance_rate: "22.807%"
+collected_at: "2026-04-17T15:09:26.802172+00:00"
 ---
 
 ## 문제

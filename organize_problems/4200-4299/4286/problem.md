@@ -1,13 +1,13 @@
 ---
-title: So you want to be a 2^n-aire?
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "So you want to be a 2^n-aire?"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 31
 accepted: 25
 solved_users: 23
-acceptance_rate: 85.185%
-collected_at: 2026-04-17T10:58:51.662543+00:00
+acceptance_rate: "85.185%"
+collected_at: "2026-04-17T10:58:51.662543+00:00"
 ---
 
 ## 문제

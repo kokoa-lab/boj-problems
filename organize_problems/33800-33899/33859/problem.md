@@ -1,13 +1,13 @@
 ---
-title: Gingerbread
-special_judge: false
-time_limit: 2 초
-memory_limit: 2048 MB
+title: "Gingerbread"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "2048 MB"
 submissions: 113
 accepted: 45
 solved_users: 38
-acceptance_rate: 41.304%
-collected_at: 2026-04-17T20:25:03.507149+00:00
+acceptance_rate: "41.304%"
+collected_at: "2026-04-17T20:25:03.507149+00:00"
 ---
 
 ## 문제

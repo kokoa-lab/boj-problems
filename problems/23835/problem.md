@@ -1,13 +1,13 @@
 ---
-title: 어떤 우유의 배달목록 (Easy)
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "어떤 우유의 배달목록 (Easy)"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 449
 accepted: 260
 solved_users: 218
-acceptance_rate: 65.075%
-collected_at: 2026-04-17T16:55:06.564716+00:00
+acceptance_rate: "65.075%"
+collected_at: "2026-04-17T16:55:06.564716+00:00"
 ---
 
 ## 문제

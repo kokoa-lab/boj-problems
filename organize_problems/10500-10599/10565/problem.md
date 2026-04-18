@@ -1,13 +1,13 @@
 ---
-title: Salary Inequity
-special_judge: false
-time_limit: 10 초
-memory_limit: 256 MB
+title: "Salary Inequity"
+special_judge: "false"
+time_limit: "10 초"
+memory_limit: "256 MB"
 submissions: 265
 accepted: 103
 solved_users: 84
-acceptance_rate: 35.897%
-collected_at: 2026-04-17T12:25:48.244332+00:00
+acceptance_rate: "35.897%"
+collected_at: "2026-04-17T12:25:48.244332+00:00"
 ---
 
 ## 문제

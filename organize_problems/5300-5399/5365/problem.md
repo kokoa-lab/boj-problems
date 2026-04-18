@@ -1,13 +1,13 @@
 ---
-title: Decoder
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Decoder"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 579
 accepted: 470
 solved_users: 424
-acceptance_rate: 81.538%
-collected_at: 2026-04-17T11:13:14.757844+00:00
+acceptance_rate: "81.538%"
+collected_at: "2026-04-17T11:13:14.757844+00:00"
 ---
 
 ## 문제
@@ -18,7 +18,13 @@ Here are two example:
 
 | Coded Message | Decode Message |
 | --- | --- |
-| ```  A Tree Some one too a sas ``` | ```  AT S o s ``` |
+| ``` 
+ A Tree
+ Some one too a sas
+ ``` | ``` 
+ AT
+ S o s
+ ``` |
 
 ## 입력
 

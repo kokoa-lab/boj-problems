@@ -1,13 +1,13 @@
 ---
-title: Splitting Pairs
-special_judge: false
-time_limit: 1 초
-memory_limit: 2048 MB
+title: "Splitting Pairs"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "2048 MB"
 submissions: 79
 accepted: 47
 solved_users: 43
-acceptance_rate: 62.319%
-collected_at: 2026-04-17T18:19:05.314289+00:00
+acceptance_rate: "62.319%"
+collected_at: "2026-04-17T18:19:05.314289+00:00"
 ---
 
 ## 문제

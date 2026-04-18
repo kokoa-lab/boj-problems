@@ -1,13 +1,13 @@
 ---
-title: Copy and Paste
-special_judge: false
-time_limit: 17 초
-memory_limit: 512 MB
+title: "Copy and Paste"
+special_judge: "false"
+time_limit: "17 초"
+memory_limit: "512 MB"
 submissions: 312
 accepted: 105
 solved_users: 88
-acceptance_rate: 33.716%
-collected_at: 2026-04-17T14:46:54.618556+00:00
+acceptance_rate: "33.716%"
+collected_at: "2026-04-17T14:46:54.618556+00:00"
 ---
 
 ## 문제

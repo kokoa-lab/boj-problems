@@ -1,13 +1,13 @@
 ---
-title: 하와와 대학생쨩 하와이로 가는 거시와요~
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "하와와 대학생쨩 하와이로 가는 거시와요~"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 1587
 accepted: 725
 solved_users: 556
-acceptance_rate: 46.026%
-collected_at: 2026-04-17T14:18:18.954753+00:00
+acceptance_rate: "46.026%"
+collected_at: "2026-04-17T14:18:18.954753+00:00"
 ---
 
 ## 문제

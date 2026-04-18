@@ -1,13 +1,13 @@
 ---
-title: TRAKTOR
-special_judge: false
-time_limit: 2 초
-memory_limit: 32 MB
+title: "TRAKTOR"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "32 MB"
 submissions: 59
 accepted: 49
 solved_users: 40
-acceptance_rate: 80.000%
-collected_at: 2026-04-17T12:26:49.646100+00:00
+acceptance_rate: "80.000%"
+collected_at: "2026-04-17T12:26:49.646100+00:00"
 ---
 
 ## 문제

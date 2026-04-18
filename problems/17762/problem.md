@@ -1,13 +1,13 @@
 ---
-title: Building 2
-special_judge: false
-time_limit: 1 초
-memory_limit: 64 MB
+title: "Building 2"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "64 MB"
 submissions: 128
 accepted: 31
 solved_users: 26
-acceptance_rate: 29.545%
-collected_at: 2026-04-17T14:46:42.938675+00:00
+acceptance_rate: "29.545%"
+collected_at: "2026-04-17T14:46:42.938675+00:00"
 ---
 
 ## 문제

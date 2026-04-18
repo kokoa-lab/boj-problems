@@ -1,13 +1,13 @@
 ---
-title: 성싶당
-special_judge: true
-time_limit: 3 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "성싶당"
+special_judge: "true"
+time_limit: "3 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 441
 accepted: 167
 solved_users: 142
-acceptance_rate: 39.665%
-collected_at: 2026-04-17T15:43:47.637520+00:00
+acceptance_rate: "39.665%"
+collected_at: "2026-04-17T15:43:47.637520+00:00"
 ---
 
 ## 문제

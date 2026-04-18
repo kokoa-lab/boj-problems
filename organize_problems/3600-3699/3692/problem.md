@@ -1,13 +1,13 @@
 ---
-title: 펭귄들의 행진
-special_judge: false
-time_limit: 5 초
-memory_limit: 128 MB
+title: "펭귄들의 행진"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "128 MB"
 submissions: 171
 accepted: 101
 solved_users: 76
-acceptance_rate: 59.375%
-collected_at: 2026-04-17T10:50:59.050909+00:00
+acceptance_rate: "59.375%"
+collected_at: "2026-04-17T10:50:59.050909+00:00"
 ---
 
 ## 문제

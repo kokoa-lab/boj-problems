@@ -1,13 +1,13 @@
 ---
-title: 바이너리 트리
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "바이너리 트리"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 115
 accepted: 41
 solved_users: 33
-acceptance_rate: 44.000%
-collected_at: 2026-04-17T12:11:43.553164+00:00
+acceptance_rate: "44.000%"
+collected_at: "2026-04-17T12:11:43.553164+00:00"
 ---
 
 ## 문제

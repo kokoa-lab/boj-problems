@@ -1,13 +1,13 @@
 ---
-title: Sherlock and Watson Gym Secrets (Small)
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Sherlock and Watson Gym Secrets (Small)"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 96
 accepted: 43
 solved_users: 32
-acceptance_rate: 41.558%
-collected_at: 2026-04-17T13:30:10.152022+00:00
+acceptance_rate: "41.558%"
+collected_at: "2026-04-17T13:30:10.152022+00:00"
 ---
 
 ## 문제

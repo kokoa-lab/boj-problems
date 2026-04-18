@@ -1,13 +1,13 @@
 ---
-title: Fast Forwarding
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Fast Forwarding"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 106
 accepted: 84
 solved_users: 82
-acceptance_rate: 78.846%
-collected_at: 2026-04-17T14:57:16.902497+00:00
+acceptance_rate: "78.846%"
+collected_at: "2026-04-17T14:57:16.902497+00:00"
 ---
 
 ## 문제

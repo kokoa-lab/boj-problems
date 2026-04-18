@@ -1,13 +1,13 @@
 ---
-title: Bunch of Paper
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Bunch of Paper"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 172
 accepted: 76
 solved_users: 61
-acceptance_rate: 40.940%
-collected_at: 2026-04-17T16:42:03.567934+00:00
+acceptance_rate: "40.940%"
+collected_at: "2026-04-17T16:42:03.567934+00:00"
 ---
 
 ## 문제

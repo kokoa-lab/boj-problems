@@ -1,13 +1,13 @@
 ---
-title: Love Letter
-special_judge: false
-time_limit: 2.5 초
-memory_limit: 1024 MB
+title: "Love Letter"
+special_judge: "false"
+time_limit: "2.5 초"
+memory_limit: "1024 MB"
 submissions: 75
 accepted: 48
 solved_users: 42
-acceptance_rate: 64.615%
-collected_at: 2026-04-17T18:53:35.754794+00:00
+acceptance_rate: "64.615%"
+collected_at: "2026-04-17T18:53:35.754794+00:00"
 ---
 
 ## 문제

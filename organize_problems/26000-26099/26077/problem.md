@@ -1,13 +1,13 @@
 ---
-title: 서커스 나이트
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "서커스 나이트"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 551
 accepted: 143
 solved_users: 109
-acceptance_rate: 26.585%
-collected_at: 2026-04-17T17:39:49.200623+00:00
+acceptance_rate: "26.585%"
+collected_at: "2026-04-17T17:39:49.200623+00:00"
 ---
 
 ## 문제

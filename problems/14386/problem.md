@@ -1,13 +1,13 @@
 ---
-title: Coin Jam (Large)
-special_judge: true
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Coin Jam (Large)"
+special_judge: "true"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 95
 accepted: 45
 solved_users: 40
-acceptance_rate: 58.824%
-collected_at: 2026-04-17T13:31:43.059845+00:00
+acceptance_rate: "58.824%"
+collected_at: "2026-04-17T13:31:43.059845+00:00"
 ---
 
 ## 문제

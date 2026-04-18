@@ -1,13 +1,13 @@
 ---
-title: To Find Password
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "To Find Password"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 457
 accepted: 218
 solved_users: 182
-acceptance_rate: 50.138%
-collected_at: 2026-04-17T16:59:53.130102+00:00
+acceptance_rate: "50.138%"
+collected_at: "2026-04-17T16:59:53.130102+00:00"
 ---
 
 ## 문제

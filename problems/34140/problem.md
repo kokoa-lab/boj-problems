@@ -1,13 +1,13 @@
 ---
-title: 안정적인 구조
-special_judge: false
-time_limit: 3 초 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "안정적인 구조"
+special_judge: "false"
+time_limit: "3 초 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 83
 accepted: 38
 solved_users: 25
-acceptance_rate: 37.879%
-collected_at: 2026-04-17T20:31:36.471281+00:00
+acceptance_rate: "37.879%"
+collected_at: "2026-04-17T20:31:36.471281+00:00"
 ---
 
 ## 문제

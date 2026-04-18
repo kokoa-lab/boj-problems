@@ -1,13 +1,13 @@
 ---
-title: Just Half is Enough
-special_judge: true
-time_limit: 2 초
-memory_limit: 2048 MB
+title: "Just Half is Enough"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "2048 MB"
 submissions: 85
 accepted: 47
 solved_users: 38
-acceptance_rate: 55.882%
-collected_at: 2026-04-17T20:04:51.594294+00:00
+acceptance_rate: "55.882%"
+collected_at: "2026-04-17T20:04:51.594294+00:00"
 ---
 
 ## 문제

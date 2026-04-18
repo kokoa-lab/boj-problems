@@ -1,13 +1,13 @@
 ---
-title: Boss Battle
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Boss Battle"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 498
 accepted: 317
 solved_users: 273
-acceptance_rate: 62.903%
-collected_at: 2026-04-17T14:02:21.316378+00:00
+acceptance_rate: "62.903%"
+collected_at: "2026-04-17T14:02:21.316378+00:00"
 ---
 
 ## 문제

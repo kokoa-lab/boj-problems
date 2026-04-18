@@ -1,13 +1,13 @@
 ---
-title: Creating Fake News
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Creating Fake News"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 11
 accepted: 4
 solved_users: 3
-acceptance_rate: 33.333%
-collected_at: 2026-04-17T13:41:38.955148+00:00
+acceptance_rate: "33.333%"
+collected_at: "2026-04-17T13:41:38.955148+00:00"
 ---
 
 ## 문제

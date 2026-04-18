@@ -1,13 +1,13 @@
 ---
-title: 자릿수
-special_judge: false
-time_limit: 0.25 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "자릿수"
+special_judge: "false"
+time_limit: "0.25 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 1262
 accepted: 482
 solved_users: 418
-acceptance_rate: 42.960%
-collected_at: 2026-04-17T18:22:12.739942+00:00
+acceptance_rate: "42.960%"
+collected_at: "2026-04-17T18:22:12.739942+00:00"
 ---
 
 ## 문제

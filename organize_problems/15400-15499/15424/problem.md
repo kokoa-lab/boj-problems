@@ -1,13 +1,13 @@
 ---
-title: Cat and Mice
-special_judge: true
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Cat and Mice"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 169
 accepted: 29
 solved_users: 21
-acceptance_rate: 14.384%
-collected_at: 2026-04-17T13:59:08.338183+00:00
+acceptance_rate: "14.384%"
+collected_at: "2026-04-17T13:59:08.338183+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Inaccurate Expectations
-special_judge: false
-time_limit: 1 초
-memory_limit: 2048 MB
+title: "Inaccurate Expectations"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "2048 MB"
 submissions: 203
 accepted: 103
 solved_users: 82
-acceptance_rate: 50.617%
-collected_at: 2026-04-17T20:23:30.287917+00:00
+acceptance_rate: "50.617%"
+collected_at: "2026-04-17T20:23:30.287917+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 벚꽃 엔딩
-special_judge: false
-time_limit: 3 초
-memory_limit: 1024 MB
+title: "벚꽃 엔딩"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "1024 MB"
 submissions: 332
 accepted: 101
 solved_users: 85
-acceptance_rate: 36.325%
-collected_at: 2026-04-17T18:14:50.024238+00:00
+acceptance_rate: "36.325%"
+collected_at: "2026-04-17T18:14:50.024238+00:00"
 ---
 
 ## 문제

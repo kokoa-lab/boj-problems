@@ -1,13 +1,13 @@
 ---
-title: Circular Maze
-special_judge: false
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 2048 MB
+title: "Circular Maze"
+special_judge: "false"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "2048 MB"
 submissions: 80
 accepted: 50
 solved_users: 48
-acceptance_rate: 64.000%
-collected_at: 2026-04-17T17:19:57.548362+00:00
+acceptance_rate: "64.000%"
+collected_at: "2026-04-17T17:19:57.548362+00:00"
 ---
 
 ## 문제

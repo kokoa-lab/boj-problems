@@ -1,13 +1,13 @@
 ---
-title: Crazy Forks
-special_judge: false
-time_limit: 1 초
-memory_limit: 2048 MB
+title: "Crazy Forks"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "2048 MB"
 submissions: 107
 accepted: 49
 solved_users: 29
-acceptance_rate: 38.667%
-collected_at: 2026-04-17T20:39:23.402520+00:00
+acceptance_rate: "38.667%"
+collected_at: "2026-04-17T20:39:23.402520+00:00"
 ---
 
 ## 문제

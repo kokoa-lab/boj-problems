@@ -1,13 +1,13 @@
 ---
-title: 속이기
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "속이기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 419
 accepted: 295
 solved_users: 254
-acceptance_rate: 70.360%
-collected_at: 2026-04-17T12:47:26.295528+00:00
+acceptance_rate: "70.360%"
+collected_at: "2026-04-17T12:47:26.295528+00:00"
 ---
 
 ## 문제

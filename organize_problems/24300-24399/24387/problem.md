@@ -1,13 +1,13 @@
 ---
-title: ИЗЛОЖЕНИЕ НА ПЧЕЛЕН МЕД
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "ИЗЛОЖЕНИЕ НА ПЧЕЛЕН МЕД"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 529
 accepted: 361
 solved_users: 324
-acceptance_rate: 68.936%
-collected_at: 2026-04-17T17:08:37.244294+00:00
+acceptance_rate: "68.936%"
+collected_at: "2026-04-17T17:08:37.244294+00:00"
 ---
 
 ## 문제

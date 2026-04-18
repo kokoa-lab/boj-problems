@@ -1,13 +1,13 @@
 ---
-title: ABB
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "ABB"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 437
 accepted: 249
 solved_users: 210
-acceptance_rate: 58.824%
-collected_at: 2026-04-17T14:56:44.207714+00:00
+acceptance_rate: "58.824%"
+collected_at: "2026-04-17T14:56:44.207714+00:00"
 ---
 
 ## 문제

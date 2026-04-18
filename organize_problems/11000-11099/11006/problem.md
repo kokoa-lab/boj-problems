@@ -1,13 +1,13 @@
 ---
-title: 남욱이의 닭장
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "남욱이의 닭장"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 5953
 accepted: 4560
 solved_users: 4311
-acceptance_rate: 78.225%
-collected_at: 2026-04-17T12:34:52.496026+00:00
+acceptance_rate: "78.225%"
+collected_at: "2026-04-17T12:34:52.496026+00:00"
 ---
 
 ## 문제

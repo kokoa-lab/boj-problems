@@ -1,13 +1,13 @@
 ---
-title: Смена стиля
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Смена стиля"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 243
 accepted: 211
 solved_users: 188
-acceptance_rate: 87.037%
-collected_at: 2026-04-17T18:29:48.633319+00:00
+acceptance_rate: "87.037%"
+collected_at: "2026-04-17T18:29:48.633319+00:00"
 ---
 
 ## 문제

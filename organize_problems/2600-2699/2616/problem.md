@@ -1,13 +1,13 @@
 ---
-title: 소형기관차
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "소형기관차"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 10080
 accepted: 4834
 solved_users: 3727
-acceptance_rate: 48.302%
-collected_at: 2026-04-17T10:43:20.510390+00:00
+acceptance_rate: "48.302%"
+collected_at: "2026-04-17T10:43:20.510390+00:00"
 ---
 
 ## 문제

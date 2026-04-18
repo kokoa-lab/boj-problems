@@ -1,13 +1,13 @@
 ---
-title: 통신소
-special_judge: false
-time_limit: 1.5 초
-memory_limit: 1024 MB
+title: "통신소"
+special_judge: "false"
+time_limit: "1.5 초"
+memory_limit: "1024 MB"
 submissions: 778
 accepted: 175
 solved_users: 125
-acceptance_rate: 22.523%
-collected_at: 2026-04-17T17:56:42.306950+00:00
+acceptance_rate: "22.523%"
+collected_at: "2026-04-17T17:56:42.306950+00:00"
 ---
 
 ## 문제

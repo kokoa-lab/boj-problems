@@ -1,13 +1,13 @@
 ---
-title: Efficient Exchange
-special_judge: false
-time_limit: 3 초
-memory_limit: 512 MB
+title: "Efficient Exchange"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "512 MB"
 submissions: 176
 accepted: 87
 solved_users: 79
-acceptance_rate: 56.835%
-collected_at: 2026-04-17T14:47:08.296785+00:00
+acceptance_rate: "56.835%"
+collected_at: "2026-04-17T14:47:08.296785+00:00"
 ---
 
 ## 문제

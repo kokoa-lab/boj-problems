@@ -1,13 +1,13 @@
 ---
-title: Explosive Slabstones Rearrangement
-special_judge: false
-time_limit: 1 초
-memory_limit: 2048 MB
+title: "Explosive Slabstones Rearrangement"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "2048 MB"
 submissions: 54
 accepted: 38
 solved_users: 38
-acceptance_rate: 70.370%
-collected_at: 2026-04-17T20:43:18.524415+00:00
+acceptance_rate: "70.370%"
+collected_at: "2026-04-17T20:43:18.524415+00:00"
 ---
 
 ## 문제

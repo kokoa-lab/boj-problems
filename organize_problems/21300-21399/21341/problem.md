@@ -1,13 +1,13 @@
 ---
-title: Endgame
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Endgame"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 329
 accepted: 103
 solved_users: 80
-acceptance_rate: 28.070%
-collected_at: 2026-04-17T15:56:18.491203+00:00
+acceptance_rate: "28.070%"
+collected_at: "2026-04-17T15:56:18.491203+00:00"
 ---
 
 ## 문제

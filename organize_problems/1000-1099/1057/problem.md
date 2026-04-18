@@ -1,13 +1,13 @@
 ---
-title: 토너먼트
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "토너먼트"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 27531
 accepted: 15786
 solved_users: 13519
-acceptance_rate: 59.099%
-collected_at: 2026-04-17T10:27:56.837575+00:00
+acceptance_rate: "59.099%"
+collected_at: "2026-04-17T10:27:56.837575+00:00"
 ---
 
 ## 문제

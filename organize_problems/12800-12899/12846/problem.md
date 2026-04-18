@@ -1,13 +1,13 @@
 ---
-title: 무서운 아르바이트
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "무서운 아르바이트"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 2569
 accepted: 1359
 solved_users: 1182
-acceptance_rate: 58.602%
-collected_at: 2026-04-17T13:02:23.142034+00:00
+acceptance_rate: "58.602%"
+collected_at: "2026-04-17T13:02:23.142034+00:00"
 ---
 
 ## 문제

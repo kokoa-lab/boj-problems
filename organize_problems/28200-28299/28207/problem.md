@@ -1,13 +1,13 @@
 ---
-title: Classical Geometry Problem
-special_judge: true
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Classical Geometry Problem"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 69
 accepted: 23
 solved_users: 17
-acceptance_rate: 34.000%
-collected_at: 2026-04-17T18:20:03.777262+00:00
+acceptance_rate: "34.000%"
+collected_at: "2026-04-17T18:20:03.777262+00:00"
 ---
 
 ## 문제

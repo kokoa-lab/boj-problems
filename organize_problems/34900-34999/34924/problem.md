@@ -1,13 +1,13 @@
 ---
-title: PAUL 문자열 (Easy)
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "PAUL 문자열 (Easy)"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 371
 accepted: 200
 solved_users: 178
-acceptance_rate: 53.293%
-collected_at: 2026-04-17T20:52:00.330671+00:00
+acceptance_rate: "53.293%"
+collected_at: "2026-04-17T20:52:00.330671+00:00"
 ---
 
 ## 문제

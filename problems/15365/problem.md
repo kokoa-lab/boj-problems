@@ -1,13 +1,13 @@
 ---
-title: Ceste
-special_judge: false
-time_limit: 2.5 초
-memory_limit: 128 MB
+title: "Ceste"
+special_judge: "false"
+time_limit: "2.5 초"
+memory_limit: "128 MB"
 submissions: 65
 accepted: 40
 solved_users: 16
-acceptance_rate: 55.172%
-collected_at: 2026-04-17T13:57:59.724719+00:00
+acceptance_rate: "55.172%"
+collected_at: "2026-04-17T13:57:59.724719+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Subsequences in Substrings
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Subsequences in Substrings"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 57
 accepted: 44
 solved_users: 42
-acceptance_rate: 87.500%
-collected_at: 2026-04-17T14:27:27.114225+00:00
+acceptance_rate: "87.500%"
+collected_at: "2026-04-17T14:27:27.114225+00:00"
 ---
 
 ## 문제

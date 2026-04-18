@@ -1,13 +1,13 @@
 ---
-title: DevOps Best Practices
-special_judge: true
-time_limit: 3 초
-memory_limit: 512 MB
+title: "DevOps Best Practices"
+special_judge: "true"
+time_limit: "3 초"
+memory_limit: "512 MB"
 submissions: 26
 accepted: 11
 solved_users: 11
-acceptance_rate: 42.308%
-collected_at: 2026-04-17T15:15:11.946543+00:00
+acceptance_rate: "42.308%"
+collected_at: "2026-04-17T15:15:11.946543+00:00"
 ---
 
 ## 문제

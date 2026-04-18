@@ -1,13 +1,13 @@
 ---
-title: Klingon Levels
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Klingon Levels"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 69
 accepted: 48
 solved_users: 28
-acceptance_rate: 68.293%
-collected_at: 2026-04-17T11:16:49.750380+00:00
+acceptance_rate: "68.293%"
+collected_at: "2026-04-17T11:16:49.750380+00:00"
 ---
 
 ## 문제

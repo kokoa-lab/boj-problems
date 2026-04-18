@@ -1,13 +1,13 @@
 ---
-title: Cornering at Poles
-special_judge: true
-time_limit: 3 초
-memory_limit: 256 MB
+title: "Cornering at Poles"
+special_judge: "true"
+time_limit: "3 초"
+memory_limit: "256 MB"
 submissions: 65
 accepted: 29
 solved_users: 17
-acceptance_rate: 32.075%
-collected_at: 2026-04-17T12:22:11.653125+00:00
+acceptance_rate: "32.075%"
+collected_at: "2026-04-17T12:22:11.653125+00:00"
 ---
 
 ## 문제

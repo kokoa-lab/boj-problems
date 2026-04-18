@@ -1,13 +1,13 @@
 ---
-title: Word Mix
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Word Mix"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 234
 accepted: 203
 solved_users: 180
-acceptance_rate: 90.000%
-collected_at: 2026-04-17T17:48:17.348486+00:00
+acceptance_rate: "90.000%"
+collected_at: "2026-04-17T17:48:17.348486+00:00"
 ---
 
 ## 문제

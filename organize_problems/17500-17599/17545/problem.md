@@ -1,13 +1,13 @@
 ---
-title: Deceptive Dice
-special_judge: true
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "Deceptive Dice"
+special_judge: "true"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 98
 accepted: 77
 solved_users: 71
-acceptance_rate: 79.775%
-collected_at: 2026-04-17T14:41:34.856458+00:00
+acceptance_rate: "79.775%"
+collected_at: "2026-04-17T14:41:34.856458+00:00"
 ---
 
 ## 문제

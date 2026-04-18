@@ -1,13 +1,13 @@
 ---
-title: Cookie Selection
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Cookie Selection"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 70
 accepted: 31
 solved_users: 26
-acceptance_rate: 45.614%
-collected_at: 2026-04-17T11:10:47.070084+00:00
+acceptance_rate: "45.614%"
+collected_at: "2026-04-17T11:10:47.070084+00:00"
 ---
 
 ## 문제

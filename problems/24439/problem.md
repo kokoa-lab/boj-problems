@@ -1,13 +1,13 @@
 ---
-title: 바리스타의 힘
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "바리스타의 힘"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 632
 accepted: 174
 solved_users: 72
-acceptance_rate: 23.226%
-collected_at: 2026-04-17T17:09:27.195631+00:00
+acceptance_rate: "23.226%"
+collected_at: "2026-04-17T17:09:27.195631+00:00"
 ---
 
 ## 문제

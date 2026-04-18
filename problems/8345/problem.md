@@ -1,13 +1,13 @@
 ---
-title: A Cat on a Keyboard
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "A Cat on a Keyboard"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 208
 accepted: 103
 solved_users: 88
-acceptance_rate: 50.867%
-collected_at: 2026-04-17T11:58:39.639755+00:00
+acceptance_rate: "50.867%"
+collected_at: "2026-04-17T11:58:39.639755+00:00"
 ---
 
 ## 문제

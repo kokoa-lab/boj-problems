@@ -1,13 +1,13 @@
 ---
-title: 스도쿠 채점
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "스도쿠 채점"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 2693
 accepted: 1107
 solved_users: 882
-acceptance_rate: 42.920%
-collected_at: 2026-04-17T12:08:36.657542+00:00
+acceptance_rate: "42.920%"
+collected_at: "2026-04-17T12:08:36.657542+00:00"
 ---
 
 ## 문제

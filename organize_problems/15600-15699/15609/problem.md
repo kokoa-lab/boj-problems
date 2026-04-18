@@ -1,13 +1,13 @@
 ---
-title: Knockout Tournament
-special_judge: true
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Knockout Tournament"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 82
 accepted: 45
 solved_users: 41
-acceptance_rate: 56.164%
-collected_at: 2026-04-17T14:02:31.925903+00:00
+acceptance_rate: "56.164%"
+collected_at: "2026-04-17T14:02:31.925903+00:00"
 ---
 
 ## 문제

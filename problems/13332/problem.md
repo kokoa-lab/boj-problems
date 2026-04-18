@@ -1,13 +1,13 @@
 ---
-title: Project Team
-special_judge: true
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Project Team"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 218
 accepted: 85
 solved_users: 67
-acceptance_rate: 43.791%
-collected_at: 2026-04-17T13:11:44.667434+00:00
+acceptance_rate: "43.791%"
+collected_at: "2026-04-17T13:11:44.667434+00:00"
 ---
 
 ## 문제

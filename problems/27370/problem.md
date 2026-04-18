@@ -1,13 +1,13 @@
 ---
-title: 친구와 배달하기
-special_judge: false
-time_limit: 0.5 초
-memory_limit: 512 MB
+title: "친구와 배달하기"
+special_judge: "false"
+time_limit: "0.5 초"
+memory_limit: "512 MB"
 submissions: 221
 accepted: 113
 solved_users: 85
-acceptance_rate: 50.296%
-collected_at: 2026-04-17T18:01:39.221037+00:00
+acceptance_rate: "50.296%"
+collected_at: "2026-04-17T18:01:39.221037+00:00"
 ---
 
 ## 문제

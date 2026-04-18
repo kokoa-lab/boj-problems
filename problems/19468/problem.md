@@ -1,13 +1,13 @@
 ---
-title: Simple Graph
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Simple Graph"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 24
 accepted: 10
 solved_users: 9
-acceptance_rate: 39.130%
-collected_at: 2026-04-17T15:20:42.757802+00:00
+acceptance_rate: "39.130%"
+collected_at: "2026-04-17T15:20:42.757802+00:00"
 ---
 
 ## 문제

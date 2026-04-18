@@ -1,13 +1,13 @@
 ---
-title: 임스와 함께하는 미니게임
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "임스와 함께하는 미니게임"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 8124
 accepted: 5446
 solved_users: 4717
-acceptance_rate: 67.959%
-collected_at: 2026-04-17T17:32:25.472076+00:00
+acceptance_rate: "67.959%"
+collected_at: "2026-04-17T17:32:25.472076+00:00"
 ---
 
 ## 문제

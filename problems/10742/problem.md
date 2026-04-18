@@ -1,13 +1,13 @@
 ---
-title: PROSJEK
-special_judge: true
-time_limit: 1 초
-memory_limit: 64 MB
+title: "PROSJEK"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "64 MB"
 submissions: 276
 accepted: 140
 solved_users: 108
-acceptance_rate: 50.467%
-collected_at: 2026-04-17T12:28:52.791253+00:00
+acceptance_rate: "50.467%"
+collected_at: "2026-04-17T12:28:52.791253+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 사탕 게임
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "사탕 게임"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 59450
 accepted: 21864
 solved_users: 15054
-acceptance_rate: 35.583%
-collected_at: 2026-04-17T10:46:36.556443+00:00
+acceptance_rate: "35.583%"
+collected_at: "2026-04-17T10:46:36.556443+00:00"
 ---
 
 ## 문제

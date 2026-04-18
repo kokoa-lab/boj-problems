@@ -1,13 +1,13 @@
 ---
-title: 신을 모시는 사당
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "신을 모시는 사당"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 2273
 accepted: 1031
 solved_users: 793
-acceptance_rate: 44.676%
-collected_at: 2026-04-17T17:58:23.855303+00:00
+acceptance_rate: "44.676%"
+collected_at: "2026-04-17T17:58:23.855303+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 현명한 나이트
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "현명한 나이트"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 2821
 accepted: 1460
 solved_users: 1184
-acceptance_rate: 49.478%
-collected_at: 2026-04-17T15:02:48.959599+00:00
+acceptance_rate: "49.478%"
+collected_at: "2026-04-17T15:02:48.959599+00:00"
 ---
 
 ## 문제

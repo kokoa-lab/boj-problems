@@ -1,13 +1,13 @@
 ---
-title: 선린인터넷고등학교 교가
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "선린인터넷고등학교 교가"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 5877
 accepted: 4323
 solved_users: 4005
-acceptance_rate: 74.930%
-collected_at: 2026-04-17T16:10:41.293714+00:00
+acceptance_rate: "74.930%"
+collected_at: "2026-04-17T16:10:41.293714+00:00"
 ---
 
 ## 문제

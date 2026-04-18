@@ -1,13 +1,13 @@
 ---
-title: City Attractions
-special_judge: false
-time_limit: 2 초
-memory_limit: 64 MB
+title: "City Attractions"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "64 MB"
 submissions: 2289
 accepted: 310
 solved_users: 201
-acceptance_rate: 13.137%
-collected_at: 2026-04-17T13:43:33.472931+00:00
+acceptance_rate: "13.137%"
+collected_at: "2026-04-17T13:43:33.472931+00:00"
 ---
 
 ## 문제

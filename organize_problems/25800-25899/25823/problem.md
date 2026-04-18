@@ -1,13 +1,13 @@
 ---
-title: 조합의 합의 합
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "조합의 합의 합"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 459
 accepted: 272
 solved_users: 202
-acceptance_rate: 63.522%
-collected_at: 2026-04-17T17:33:49.748158+00:00
+acceptance_rate: "63.522%"
+collected_at: "2026-04-17T17:33:49.748158+00:00"
 ---
 
 ## 문제

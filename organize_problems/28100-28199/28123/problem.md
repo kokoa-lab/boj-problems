@@ -1,13 +1,13 @@
 ---
-title: 삶, 우주, 그리고 모든 것에 관한 궁극적인 질문의 해답
-special_judge: false
-time_limit: 0.42 초
-memory_limit: 420 MB
+title: "삶, 우주, 그리고 모든 것에 관한 궁극적인 질문의 해답"
+special_judge: "false"
+time_limit: "0.42 초"
+memory_limit: "420 MB"
 submissions: 1113
 accepted: 568
 solved_users: 372
-acceptance_rate: 52.542%
-collected_at: 2026-04-17T18:18:25.618682+00:00
+acceptance_rate: "52.542%"
+collected_at: "2026-04-17T18:18:25.618682+00:00"
 ---
 
 ## 문제

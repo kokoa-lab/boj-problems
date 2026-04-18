@@ -1,13 +1,13 @@
 ---
-title: Paper Cutting
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Paper Cutting"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 31
 accepted: 26
 solved_users: 19
-acceptance_rate: 86.364%
-collected_at: 2026-04-17T11:32:56.662796+00:00
+acceptance_rate: "86.364%"
+collected_at: "2026-04-17T11:32:56.662796+00:00"
 ---
 
 ## 문제

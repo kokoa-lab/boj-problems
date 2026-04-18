@@ -1,13 +1,13 @@
 ---
-title: New House
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "New House"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 82
 accepted: 61
 solved_users: 55
-acceptance_rate: 72.368%
-collected_at: 2026-04-17T14:13:03.597318+00:00
+acceptance_rate: "72.368%"
+collected_at: "2026-04-17T14:13:03.597318+00:00"
 ---
 
 ## 문제

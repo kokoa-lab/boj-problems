@@ -1,13 +1,13 @@
 ---
-title: Rats
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Rats"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 9037
 accepted: 7122
 solved_users: 6877
-acceptance_rate: 79.064%
-collected_at: 2026-04-17T14:58:59.409872+00:00
+acceptance_rate: "79.064%"
+collected_at: "2026-04-17T14:58:59.409872+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Circle Union
-special_judge: true
-time_limit: 2 초
-memory_limit: 256 MB
+title: "Circle Union"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 140
 accepted: 55
 solved_users: 27
-acceptance_rate: 38.028%
-collected_at: 2026-04-17T15:11:56.440090+00:00
+acceptance_rate: "38.028%"
+collected_at: "2026-04-17T15:11:56.440090+00:00"
 ---
 
 ## 문제

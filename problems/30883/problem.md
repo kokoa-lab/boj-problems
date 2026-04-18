@@ -1,13 +1,13 @@
 ---
-title: XNOR의 반란
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "XNOR의 반란"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 114
 accepted: 33
 solved_users: 26
-acceptance_rate: 36.111%
-collected_at: 2026-04-17T19:17:28.986167+00:00
+acceptance_rate: "36.111%"
+collected_at: "2026-04-17T19:17:28.986167+00:00"
 ---
 
 ## 문제

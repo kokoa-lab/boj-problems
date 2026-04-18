@@ -1,13 +1,13 @@
 ---
-title: Autostrady
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Autostrady"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 130
 accepted: 106
 solved_users: 89
-acceptance_rate: 80.180%
-collected_at: 2026-04-17T12:00:40.379509+00:00
+acceptance_rate: "80.180%"
+collected_at: "2026-04-17T12:00:40.379509+00:00"
 ---
 
 ## 문제

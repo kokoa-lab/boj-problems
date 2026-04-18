@@ -1,13 +1,13 @@
 ---
-title: Identifier Sequence
-special_judge: false
-time_limit: 7 초
-memory_limit: 128 MB
+title: "Identifier Sequence"
+special_judge: "false"
+time_limit: "7 초"
+memory_limit: "128 MB"
 submissions: 34
 accepted: 0
 solved_users: 0
-acceptance_rate: 0.000%
-collected_at: 2026-04-17T15:11:09.299879+00:00
+acceptance_rate: "0.000%"
+collected_at: "2026-04-17T15:11:09.299879+00:00"
 ---
 
 ## 문제

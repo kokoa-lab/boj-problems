@@ -1,13 +1,13 @@
 ---
-title: 등차수열? 등비수열?
-special_judge: false
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "등차수열? 등비수열?"
+special_judge: "false"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 792
 accepted: 168
 solved_users: 119
-acceptance_rate: 26.862%
-collected_at: 2026-04-17T17:27:44.138875+00:00
+acceptance_rate: "26.862%"
+collected_at: "2026-04-17T17:27:44.138875+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 전선 연결하기
-special_judge: false
-time_limit: 1.5 초
-memory_limit: 1024 MB
+title: "전선 연결하기"
+special_judge: "false"
+time_limit: "1.5 초"
+memory_limit: "1024 MB"
 submissions: 172
 accepted: 37
 solved_users: 32
-acceptance_rate: 30.769%
-collected_at: 2026-04-17T20:21:37.408736+00:00
+acceptance_rate: "30.769%"
+collected_at: "2026-04-17T20:21:37.408736+00:00"
 ---
 
 ## 문제

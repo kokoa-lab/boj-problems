@@ -1,13 +1,13 @@
 ---
-title: Prison Break
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Prison Break"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 281
 accepted: 68
 solved_users: 41
-acceptance_rate: 24.260%
-collected_at: 2026-04-17T17:09:41.304899+00:00
+acceptance_rate: "24.260%"
+collected_at: "2026-04-17T17:09:41.304899+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 놀이공원을 만들자 (Large)
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "놀이공원을 만들자 (Large)"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 42
 accepted: 11
 solved_users: 11
-acceptance_rate: 36.667%
-collected_at: 2026-04-18T09:52:01.684111+00:00
+acceptance_rate: "36.667%"
+collected_at: "2026-04-18T09:52:01.684111+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Corn Maze
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Corn Maze"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 491
 accepted: 146
 solved_users: 110
-acceptance_rate: 25.463%
-collected_at: 2026-04-17T11:19:02.664536+00:00
+acceptance_rate: "25.463%"
+collected_at: "2026-04-17T11:19:02.664536+00:00"
 ---
 
 ## 문제

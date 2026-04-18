@@ -1,13 +1,13 @@
 ---
-title: Bejeweled Befuddlement (Small1)
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Bejeweled Befuddlement (Small1)"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 2
 accepted: 1
 solved_users: 1
-acceptance_rate: 100.000%
-collected_at: 2026-04-17T12:54:58.566895+00:00
+acceptance_rate: "100.000%"
+collected_at: "2026-04-17T12:54:58.566895+00:00"
 ---
 
 ## 문제

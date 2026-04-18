@@ -1,13 +1,13 @@
 ---
-title: Car washes
-special_judge: true
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Car washes"
+special_judge: "true"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 54
 accepted: 34
 solved_users: 19
-acceptance_rate: 59.375%
-collected_at: 2026-04-17T15:00:57.125213+00:00
+acceptance_rate: "59.375%"
+collected_at: "2026-04-17T15:00:57.125213+00:00"
 ---
 
 ## 문제

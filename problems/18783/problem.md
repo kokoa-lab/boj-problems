@@ -1,13 +1,13 @@
 ---
-title: Swapity Swapity Swap
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Swapity Swapity Swap"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 1092
 accepted: 464
 solved_users: 363
-acceptance_rate: 42.506%
-collected_at: 2026-04-17T15:09:37.648171+00:00
+acceptance_rate: "42.506%"
+collected_at: "2026-04-17T15:09:37.648171+00:00"
 ---
 
 ## 문제

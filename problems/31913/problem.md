@@ -1,13 +1,13 @@
 ---
-title: 돈 복사
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "돈 복사"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 154
 accepted: 30
 solved_users: 29
-acceptance_rate: 20.714%
-collected_at: 2026-04-17T19:38:59.461934+00:00
+acceptance_rate: "20.714%"
+collected_at: "2026-04-17T19:38:59.461934+00:00"
 ---
 
 ## 문제

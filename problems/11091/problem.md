@@ -1,13 +1,13 @@
 ---
-title: 알파벳 전부 쓰기
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "알파벳 전부 쓰기"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 3210
 accepted: 2160
 solved_users: 1952
-acceptance_rate: 69.024%
-collected_at: 2026-04-17T12:36:20.225188+00:00
+acceptance_rate: "69.024%"
+collected_at: "2026-04-17T12:36:20.225188+00:00"
 ---
 
 ## 문제

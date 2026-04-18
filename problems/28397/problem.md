@@ -1,13 +1,13 @@
 ---
-title: 계통수 추론
-special_judge: true
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "계통수 추론"
+special_judge: "true"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 48
 accepted: 12
 solved_users: 9
-acceptance_rate: 34.615%
-collected_at: 2026-04-17T18:25:56.524622+00:00
+acceptance_rate: "34.615%"
+collected_at: "2026-04-17T18:25:56.524622+00:00"
 ---
 
 ## 문제

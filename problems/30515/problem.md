@@ -1,13 +1,13 @@
 ---
-title: 방형구 탐색 (Hard)
-special_judge: false
-time_limit: 1.5 초
-memory_limit: 1024 MB
+title: "방형구 탐색 (Hard)"
+special_judge: "false"
+time_limit: "1.5 초"
+memory_limit: "1024 MB"
 submissions: 577
 accepted: 128
 solved_users: 88
-acceptance_rate: 31.206%
-collected_at: 2026-04-17T19:08:25.226681+00:00
+acceptance_rate: "31.206%"
+collected_at: "2026-04-17T19:08:25.226681+00:00"
 ---
 
 ## 문제

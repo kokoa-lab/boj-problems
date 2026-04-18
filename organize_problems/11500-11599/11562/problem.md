@@ -1,13 +1,13 @@
 ---
-title: 백양로 브레이크
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "백양로 브레이크"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 4704
 accepted: 2429
 solved_users: 1864
-acceptance_rate: 49.746%
-collected_at: 2026-04-17T12:42:13.336511+00:00
+acceptance_rate: "49.746%"
+collected_at: "2026-04-17T12:42:13.336511+00:00"
 ---
 
 ## 문제

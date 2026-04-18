@@ -1,13 +1,13 @@
 ---
-title: String
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "String"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 644
 accepted: 461
 solved_users: 417
-acceptance_rate: 72.902%
-collected_at: 2026-04-17T11:45:27.836436+00:00
+acceptance_rate: "72.902%"
+collected_at: "2026-04-17T11:45:27.836436+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: A Serious Reading Problem
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "A Serious Reading Problem"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 536
 accepted: 453
 solved_users: 417
-acceptance_rate: 85.102%
-collected_at: 2026-04-17T12:39:56.217572+00:00
+acceptance_rate: "85.102%"
+collected_at: "2026-04-17T12:39:56.217572+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 푸앙이와 종윤이
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "푸앙이와 종윤이"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 3116
 accepted: 2466
 solved_users: 2334
-acceptance_rate: 81.070%
-collected_at: 2026-04-17T17:29:23.062094+00:00
+acceptance_rate: "81.070%"
+collected_at: "2026-04-17T17:29:23.062094+00:00"
 ---
 
 ## 문제

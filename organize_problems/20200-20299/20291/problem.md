@@ -1,13 +1,13 @@
 ---
-title: 파일 정리
-special_judge: false
-time_limit: 3 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "파일 정리"
+special_judge: "false"
+time_limit: "3 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 12881
 accepted: 9004
 solved_users: 6868
-acceptance_rate: 69.953%
-collected_at: 2026-04-17T15:34:20.544455+00:00
+acceptance_rate: "69.953%"
+collected_at: "2026-04-17T15:34:20.544455+00:00"
 ---
 
 ## 문제

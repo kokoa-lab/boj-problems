@@ -1,13 +1,13 @@
 ---
-title: 선 긋기
-special_judge: false
-time_limit: 1 초
-memory_limit: 192 MB
+title: "선 긋기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "192 MB"
 submissions: 36223
 accepted: 13786
 solved_users: 9835
-acceptance_rate: 36.620%
-collected_at: 2026-04-17T10:39:08.824759+00:00
+acceptance_rate: "36.620%"
+collected_at: "2026-04-17T10:39:08.824759+00:00"
 ---
 
 ## 문제

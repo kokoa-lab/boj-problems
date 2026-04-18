@@ -1,13 +1,13 @@
 ---
-title: Still Johnny Can’t Add
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Still Johnny Can’t Add"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 151
 accepted: 103
 solved_users: 94
-acceptance_rate: 68.116%
-collected_at: 2026-04-17T11:10:09.521338+00:00
+acceptance_rate: "68.116%"
+collected_at: "2026-04-17T11:10:09.521338+00:00"
 ---
 
 ## 문제

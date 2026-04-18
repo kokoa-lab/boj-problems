@@ -1,13 +1,13 @@
 ---
-title: Место преступления
-special_judge: true
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Место преступления"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 44
 accepted: 11
 solved_users: 7
-acceptance_rate: 18.919%
-collected_at: 2026-04-17T18:41:15.849950+00:00
+acceptance_rate: "18.919%"
+collected_at: "2026-04-17T18:41:15.849950+00:00"
 ---
 
 ## 문제

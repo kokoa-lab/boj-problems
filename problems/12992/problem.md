@@ -1,13 +1,13 @@
 ---
-title: 홍준이의 교집합
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "홍준이의 교집합"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 78
 accepted: 45
 solved_users: 39
-acceptance_rate: 58.209%
-collected_at: 2026-04-17T13:05:23.740029+00:00
+acceptance_rate: "58.209%"
+collected_at: "2026-04-17T13:05:23.740029+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Exact Number of Calls
-special_judge: true
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "Exact Number of Calls"
+special_judge: "true"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 0
 accepted: 0
 solved_users: 0
-acceptance_rate: 0.000%
-collected_at: 2026-04-17T16:49:23.912719+00:00
+acceptance_rate: "0.000%"
+collected_at: "2026-04-17T16:49:23.912719+00:00"
 ---
 
 ## 문제

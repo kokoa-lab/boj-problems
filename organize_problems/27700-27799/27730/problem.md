@@ -1,13 +1,13 @@
 ---
-title: 견우와 직녀
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "견우와 직녀"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 358
 accepted: 144
 solved_users: 129
-acceptance_rate: 42.020%
-collected_at: 2026-04-17T18:09:45.395091+00:00
+acceptance_rate: "42.020%"
+collected_at: "2026-04-17T18:09:45.395091+00:00"
 ---
 
 ## 문제

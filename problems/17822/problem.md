@@ -1,13 +1,13 @@
 ---
-title: 원판 돌리기
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "원판 돌리기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 24499
 accepted: 9797
 solved_users: 6342
-acceptance_rate: 36.515%
-collected_at: 2026-04-17T14:47:51.524643+00:00
+acceptance_rate: "36.515%"
+collected_at: "2026-04-17T14:47:51.524643+00:00"
 ---
 
 ## 문제

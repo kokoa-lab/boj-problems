@@ -1,13 +1,13 @@
 ---
-title: Rikka with Proper Fractions
-special_judge: false
-time_limit: 10 초
-memory_limit: 512 MB
+title: "Rikka with Proper Fractions"
+special_judge: "false"
+time_limit: "10 초"
+memory_limit: "512 MB"
 submissions: 19
 accepted: 7
 solved_users: 4
-acceptance_rate: 25.000%
-collected_at: 2026-04-17T15:12:17.786616+00:00
+acceptance_rate: "25.000%"
+collected_at: "2026-04-17T15:12:17.786616+00:00"
 ---
 
 ## 문제

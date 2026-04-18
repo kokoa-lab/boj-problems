@@ -1,13 +1,13 @@
 ---
-title: formule
-special_judge: true
-time_limit: 1 초
-memory_limit: 128 MB
+title: "formule"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 15
 accepted: 4
 solved_users: 4
-acceptance_rate: 36.364%
-collected_at: 2026-04-17T10:47:13.780556+00:00
+acceptance_rate: "36.364%"
+collected_at: "2026-04-17T10:47:13.780556+00:00"
 ---
 
 ## 문제

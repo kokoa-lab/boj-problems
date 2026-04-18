@@ -1,13 +1,13 @@
 ---
-title: 두 스티커
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "두 스티커"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 6127
 accepted: 2462
 solved_users: 1868
-acceptance_rate: 39.551%
-collected_at: 2026-04-17T14:26:29.181959+00:00
+acceptance_rate: "39.551%"
+collected_at: "2026-04-17T14:26:29.181959+00:00"
 ---
 
 ## 문제

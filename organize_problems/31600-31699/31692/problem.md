@@ -1,13 +1,13 @@
 ---
-title: Colourful Tree
-special_judge: false
-time_limit: 6 초
-memory_limit: 1024 MB
+title: "Colourful Tree"
+special_judge: "false"
+time_limit: "6 초"
+memory_limit: "1024 MB"
 submissions: 8
 accepted: 5
 solved_users: 5
-acceptance_rate: 71.429%
-collected_at: 2026-04-17T19:34:45.348207+00:00
+acceptance_rate: "71.429%"
+collected_at: "2026-04-17T19:34:45.348207+00:00"
 ---
 
 ## 문제

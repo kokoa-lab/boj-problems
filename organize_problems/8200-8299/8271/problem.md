@@ -1,13 +1,13 @@
 ---
-title: Rooks
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Rooks"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 114
 accepted: 85
 solved_users: 63
-acceptance_rate: 78.750%
-collected_at: 2026-04-17T11:57:50.454106+00:00
+acceptance_rate: "78.750%"
+collected_at: "2026-04-17T11:57:50.454106+00:00"
 ---
 
 ## 문제

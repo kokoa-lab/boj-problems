@@ -1,13 +1,13 @@
 ---
-title: 자전거 경주 준비하기
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "자전거 경주 준비하기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 1478
 accepted: 202
 solved_users: 160
-acceptance_rate: 20.833%
-collected_at: 2026-04-17T10:46:23.671973+00:00
+acceptance_rate: "20.833%"
+collected_at: "2026-04-17T10:46:23.671973+00:00"
 ---
 
 ## 문제

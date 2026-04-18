@@ -1,13 +1,13 @@
 ---
-title: 비밀번호 발음하기
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "비밀번호 발음하기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 25373
 accepted: 12316
 solved_users: 9568
-acceptance_rate: 48.896%
-collected_at: 2026-04-17T11:06:44.283921+00:00
+acceptance_rate: "48.896%"
+collected_at: "2026-04-17T11:06:44.283921+00:00"
 ---
 
 ## 문제

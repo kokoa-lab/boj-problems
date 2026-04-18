@@ -1,13 +1,13 @@
 ---
-title: 숫자 야구
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "숫자 야구"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 27748
 accepted: 13413
 solved_users: 10322
-acceptance_rate: 48.092%
-collected_at: 2026-04-17T10:42:12.146942+00:00
+acceptance_rate: "48.092%"
+collected_at: "2026-04-17T10:42:12.146942+00:00"
 ---
 
 ## 문제

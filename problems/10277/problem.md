@@ -1,13 +1,13 @@
 ---
-title: JuQueen
-special_judge: false
-time_limit: 3 초
-memory_limit: 512 MB
+title: "JuQueen"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "512 MB"
 submissions: 852
 accepted: 339
 solved_users: 262
-acceptance_rate: 36.138%
-collected_at: 2026-04-17T12:21:26.526365+00:00
+acceptance_rate: "36.138%"
+collected_at: "2026-04-17T12:21:26.526365+00:00"
 ---
 
 ## 문제

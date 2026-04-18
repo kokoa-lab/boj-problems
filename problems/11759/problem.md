@@ -1,13 +1,13 @@
 ---
-title: Bottled-Up Feelings
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Bottled-Up Feelings"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 671
 accepted: 322
 solved_users: 293
-acceptance_rate: 53.176%
-collected_at: 2026-04-17T12:45:30.870200+00:00
+acceptance_rate: "53.176%"
+collected_at: "2026-04-17T12:45:30.870200+00:00"
 ---
 
 ## 문제

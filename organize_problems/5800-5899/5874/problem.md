@@ -1,13 +1,13 @@
 ---
-title: 소를 찾아라
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "소를 찾아라"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 1417
 accepted: 810
 solved_users: 682
-acceptance_rate: 57.699%
-collected_at: 2026-04-17T11:18:13.538820+00:00
+acceptance_rate: "57.699%"
+collected_at: "2026-04-17T11:18:13.538820+00:00"
 ---
 
 ## 문제

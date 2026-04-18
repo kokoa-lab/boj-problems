@@ -1,13 +1,13 @@
 ---
-title: Digital Speedometer
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Digital Speedometer"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 78
 accepted: 23
 solved_users: 20
-acceptance_rate: 39.216%
-collected_at: 2026-04-17T15:49:44.347089+00:00
+acceptance_rate: "39.216%"
+collected_at: "2026-04-17T15:49:44.347089+00:00"
 ---
 
 ## 문제

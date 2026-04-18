@@ -1,13 +1,13 @@
 ---
-title: 분수
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "분수"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 227
 accepted: 34
 solved_users: 24
-acceptance_rate: 21.429%
-collected_at: 2026-04-17T10:28:56.143009+00:00
+acceptance_rate: "21.429%"
+collected_at: "2026-04-17T10:28:56.143009+00:00"
 ---
 
 ## 문제

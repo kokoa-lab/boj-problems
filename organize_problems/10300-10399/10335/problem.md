@@ -1,13 +1,13 @@
 ---
-title: There is No Alternative
-special_judge: false
-time_limit: 3 초
-memory_limit: 256 MB
+title: "There is No Alternative"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "256 MB"
 submissions: 275
 accepted: 97
 solved_users: 90
-acceptance_rate: 37.037%
-collected_at: 2026-04-17T12:22:06.932185+00:00
+acceptance_rate: "37.037%"
+collected_at: "2026-04-17T12:22:06.932185+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 먹이사슬
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "먹이사슬"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 3374
 accepted: 1018
 solved_users: 702
-acceptance_rate: 30.259%
-collected_at: 2026-04-17T10:42:26.601609+00:00
+acceptance_rate: "30.259%"
+collected_at: "2026-04-17T10:42:26.601609+00:00"
 ---
 
 ## 문제

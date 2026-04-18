@@ -1,13 +1,13 @@
 ---
-title: Portaler
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Portaler"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 23
 accepted: 7
 solved_users: 4
-acceptance_rate: 57.143%
-collected_at: 2026-04-17T17:52:51.058425+00:00
+acceptance_rate: "57.143%"
+collected_at: "2026-04-17T17:52:51.058425+00:00"
 ---
 
 ## 문제

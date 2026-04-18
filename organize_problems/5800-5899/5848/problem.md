@@ -1,13 +1,13 @@
 ---
-title: Message Relay
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Message Relay"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 472
 accepted: 258
 solved_users: 228
-acceptance_rate: 58.163%
-collected_at: 2026-04-17T11:17:57.382045+00:00
+acceptance_rate: "58.163%"
+collected_at: "2026-04-17T11:17:57.382045+00:00"
 ---
 
 ## 문제

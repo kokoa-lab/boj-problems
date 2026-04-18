@@ -1,13 +1,13 @@
 ---
-title: Managing Difficulties
-special_judge: false
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "Managing Difficulties"
+special_judge: "false"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 164
 accepted: 67
 solved_users: 58
-acceptance_rate: 44.275%
-collected_at: 2026-04-17T14:55:21.482863+00:00
+acceptance_rate: "44.275%"
+collected_at: "2026-04-17T14:55:21.482863+00:00"
 ---
 
 ## 문제

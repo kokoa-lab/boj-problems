@@ -1,13 +1,13 @@
 ---
-title: 수열과 인테그랄
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "수열과 인테그랄"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 94
 accepted: 53
 solved_users: 47
-acceptance_rate: 57.317%
-collected_at: 2026-04-17T20:53:31.854485+00:00
+acceptance_rate: "57.317%"
+collected_at: "2026-04-17T20:53:31.854485+00:00"
 ---
 
 ## 문제

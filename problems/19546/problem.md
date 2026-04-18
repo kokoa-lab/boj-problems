@@ -1,13 +1,13 @@
 ---
-title: 지도 설치
-special_judge: true
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "지도 설치"
+special_judge: "true"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 197
 accepted: 58
 solved_users: 30
-acceptance_rate: 28.302%
-collected_at: 2026-04-17T15:22:36.282331+00:00
+acceptance_rate: "28.302%"
+collected_at: "2026-04-17T15:22:36.282331+00:00"
 ---
 
 ## 문제

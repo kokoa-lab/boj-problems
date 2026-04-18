@@ -1,13 +1,13 @@
 ---
-title: Pibonacci 2
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "Pibonacci 2"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 84
 accepted: 39
 solved_users: 17
-acceptance_rate: 40.476%
-collected_at: 2026-04-17T18:19:09.115122+00:00
+acceptance_rate: "40.476%"
+collected_at: "2026-04-17T18:19:09.115122+00:00"
 ---
 
 ## 문제

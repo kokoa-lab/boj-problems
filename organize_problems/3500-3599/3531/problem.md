@@ -1,13 +1,13 @@
 ---
-title: Commuting Functions
-special_judge: false
-time_limit: 3 초
-memory_limit: 256 MB
+title: "Commuting Functions"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "256 MB"
 submissions: 31
 accepted: 10
 solved_users: 10
-acceptance_rate: 40.000%
-collected_at: 2026-04-17T10:49:34.460558+00:00
+acceptance_rate: "40.000%"
+collected_at: "2026-04-17T10:49:34.460558+00:00"
 ---
 
 ## 문제

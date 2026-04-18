@@ -1,13 +1,13 @@
 ---
-title: SILUETA
-special_judge: false
-time_limit: 1 초
-memory_limit: 32 MB
+title: "SILUETA"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "32 MB"
 submissions: 89
 accepted: 43
 solved_users: 41
-acceptance_rate: 53.947%
-collected_at: 2026-04-17T12:25:28.624977+00:00
+acceptance_rate: "53.947%"
+collected_at: "2026-04-17T12:25:28.624977+00:00"
 ---
 
 ## 문제

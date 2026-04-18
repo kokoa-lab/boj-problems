@@ -1,13 +1,13 @@
 ---
-title: Birthday Party
-special_judge: true
-time_limit: 5 초
-memory_limit: 256 MB
+title: "Birthday Party"
+special_judge: "true"
+time_limit: "5 초"
+memory_limit: "256 MB"
 submissions: 43
 accepted: 26
 solved_users: 20
-acceptance_rate: 64.516%
-collected_at: 2026-04-17T12:37:17.188887+00:00
+acceptance_rate: "64.516%"
+collected_at: "2026-04-17T12:37:17.188887+00:00"
 ---
 
 ## 문제

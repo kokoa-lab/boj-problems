@@ -1,13 +1,13 @@
 ---
-title: TETA
-special_judge: false
-time_limit: 1 초
-memory_limit: 64 MB
+title: "TETA"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "64 MB"
 submissions: 120
 accepted: 85
 solved_users: 73
-acceptance_rate: 70.192%
-collected_at: 2026-04-17T12:28:43.853713+00:00
+acceptance_rate: "70.192%"
+collected_at: "2026-04-17T12:28:43.853713+00:00"
 ---
 
 ## 문제

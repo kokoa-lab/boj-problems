@@ -1,13 +1,13 @@
 ---
-title: Weightlifting
-special_judge: false
-time_limit: 20 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Weightlifting"
+special_judge: "false"
+time_limit: "20 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 77
 accepted: 56
 solved_users: 50
-acceptance_rate: 74.627%
-collected_at: 2026-04-17T17:20:37.884012+00:00
+acceptance_rate: "74.627%"
+collected_at: "2026-04-17T17:20:37.884012+00:00"
 ---
 
 ## 문제

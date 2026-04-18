@@ -1,13 +1,13 @@
 ---
-title: 이친수
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "이친수"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 117031
 accepted: 51007
 solved_users: 39149
-acceptance_rate: 42.219%
-collected_at: 2026-04-17T10:39:25.639029+00:00
+acceptance_rate: "42.219%"
+collected_at: "2026-04-17T10:39:25.639029+00:00"
 ---
 
 ## 문제

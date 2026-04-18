@@ -1,13 +1,13 @@
 ---
-title: 과목선택
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "과목선택"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 11184
 accepted: 8288
 solved_users: 7821
-acceptance_rate: 75.354%
-collected_at: 2026-04-17T12:48:04.115961+00:00
+acceptance_rate: "75.354%"
+collected_at: "2026-04-17T12:48:04.115961+00:00"
 ---
 
 ## 문제

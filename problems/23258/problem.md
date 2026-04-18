@@ -1,13 +1,13 @@
 ---
-title: 밤편지
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "밤편지"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 1043
 accepted: 387
 solved_users: 280
-acceptance_rate: 34.483%
-collected_at: 2026-04-17T16:45:13.499538+00:00
+acceptance_rate: "34.483%"
+collected_at: "2026-04-17T16:45:13.499538+00:00"
 ---
 
 ## 문제

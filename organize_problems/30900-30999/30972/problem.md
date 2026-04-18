@@ -1,13 +1,13 @@
 ---
-title: 닭강정의 전설
-special_judge: false
-time_limit: 4 초
-memory_limit: 512 MB
+title: "닭강정의 전설"
+special_judge: "false"
+time_limit: "4 초"
+memory_limit: "512 MB"
 submissions: 295
 accepted: 201
 solved_users: 166
-acceptance_rate: 70.042%
-collected_at: 2026-04-17T19:19:01.299781+00:00
+acceptance_rate: "70.042%"
+collected_at: "2026-04-17T19:19:01.299781+00:00"
 ---
 
 ## 문제

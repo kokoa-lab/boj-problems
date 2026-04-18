@@ -1,13 +1,13 @@
 ---
-title: ТАБЕЛА
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "ТАБЕЛА"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 228
 accepted: 184
 solved_users: 170
-acceptance_rate: 81.731%
-collected_at: 2026-04-17T19:24:33.148132+00:00
+acceptance_rate: "81.731%"
+collected_at: "2026-04-17T19:24:33.148132+00:00"
 ---
 
 ## 문제

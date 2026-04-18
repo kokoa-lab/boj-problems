@@ -1,13 +1,13 @@
 ---
-title: Family Fares
-special_judge: false
-time_limit: 3 초
-memory_limit: 512 MB
+title: "Family Fares"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "512 MB"
 submissions: 106
 accepted: 54
 solved_users: 51
-acceptance_rate: 54.255%
-collected_at: 2026-04-17T15:35:15.104942+00:00
+acceptance_rate: "54.255%"
+collected_at: "2026-04-17T15:35:15.104942+00:00"
 ---
 
 ## 문제

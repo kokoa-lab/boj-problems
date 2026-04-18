@@ -1,13 +1,13 @@
 ---
-title: Haybale Assignment
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Haybale Assignment"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 58
 accepted: 20
 solved_users: 19
-acceptance_rate: 37.255%
-collected_at: 2026-04-17T20:49:19.854566+00:00
+acceptance_rate: "37.255%"
+collected_at: "2026-04-17T20:49:19.854566+00:00"
 ---
 
 ## 문제

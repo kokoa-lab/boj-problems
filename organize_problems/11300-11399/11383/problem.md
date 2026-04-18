@@ -1,13 +1,13 @@
 ---
-title: 뚊
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "뚊"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 3580
 accepted: 2300
 solved_users: 2093
-acceptance_rate: 65.673%
-collected_at: 2026-04-17T12:40:06.865739+00:00
+acceptance_rate: "65.673%"
+collected_at: "2026-04-17T12:40:06.865739+00:00"
 ---
 
 ## 문제

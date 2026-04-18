@@ -1,13 +1,13 @@
 ---
-title: Knights and Dragons
-special_judge: false
-time_limit: 4 초
-memory_limit: 512 MB
+title: "Knights and Dragons"
+special_judge: "false"
+time_limit: "4 초"
+memory_limit: "512 MB"
 submissions: 34
 accepted: 13
 solved_users: 11
-acceptance_rate: 34.375%
-collected_at: 2026-04-17T14:21:15.158715+00:00
+acceptance_rate: "34.375%"
+collected_at: "2026-04-17T14:21:15.158715+00:00"
 ---
 
 ## 문제

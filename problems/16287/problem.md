@@ -1,13 +1,13 @@
 ---
-title: Parcel
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Parcel"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 9528
 accepted: 2270
 solved_users: 1590
-acceptance_rate: 23.198%
-collected_at: 2026-04-17T14:15:03.123513+00:00
+acceptance_rate: "23.198%"
+collected_at: "2026-04-17T14:15:03.123513+00:00"
 ---
 
 ## 문제

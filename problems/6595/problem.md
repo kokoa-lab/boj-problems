@@ -1,13 +1,13 @@
 ---
-title: 프로거
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "프로거"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 248
 accepted: 86
 solved_users: 68
-acceptance_rate: 35.052%
-collected_at: 2026-04-17T11:31:19.545599+00:00
+acceptance_rate: "35.052%"
+collected_at: "2026-04-17T11:31:19.545599+00:00"
 ---
 
 ## 문제

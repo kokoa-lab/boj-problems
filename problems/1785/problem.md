@@ -1,13 +1,13 @@
 ---
-title: 팀 사모예드의 신작
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "팀 사모예드의 신작"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 248
 accepted: 68
 solved_users: 53
-acceptance_rate: 33.125%
-collected_at: 2026-04-17T10:33:30.722628+00:00
+acceptance_rate: "33.125%"
+collected_at: "2026-04-17T10:33:30.722628+00:00"
 ---
 
 ## 문제

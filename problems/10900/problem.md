@@ -1,13 +1,13 @@
 ---
-title: Lonely mdic
-special_judge: false
-time_limit: 2 초
-memory_limit: 64 MB
+title: "Lonely mdic"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "64 MB"
 submissions: 460
 accepted: 47
 solved_users: 19
-acceptance_rate: 8.155%
-collected_at: 2026-04-17T12:31:21.855172+00:00
+acceptance_rate: "8.155%"
+collected_at: "2026-04-17T12:31:21.855172+00:00"
 ---
 
 ## 문제

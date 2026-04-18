@@ -1,13 +1,13 @@
 ---
-title: Phibonacci
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Phibonacci"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 923
 accepted: 219
 solved_users: 136
-acceptance_rate: 18.863%
-collected_at: 2026-04-17T12:31:25.763777+00:00
+acceptance_rate: "18.863%"
+collected_at: "2026-04-17T12:31:25.763777+00:00"
 ---
 
 ## 문제

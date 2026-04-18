@@ -1,13 +1,13 @@
 ---
-title: 최대 정사각형
-special_judge: false
-time_limit: 5 초
-memory_limit: 256 MB
+title: "최대 정사각형"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "256 MB"
 submissions: 2638
 accepted: 1156
 solved_users: 852
-acceptance_rate: 42.944%
-collected_at: 2026-04-17T10:55:50.198501+00:00
+acceptance_rate: "42.944%"
+collected_at: "2026-04-17T10:55:50.198501+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Criss-Cross
-special_judge: false
-time_limit: 10 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Criss-Cross"
+special_judge: "false"
+time_limit: "10 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 130
 accepted: 13
 solved_users: 9
-acceptance_rate: 9.091%
-collected_at: 2026-04-17T17:15:25.688372+00:00
+acceptance_rate: "9.091%"
+collected_at: "2026-04-17T17:15:25.688372+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 중앙값 측정
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "중앙값 측정"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 10492
 accepted: 2460
 solved_users: 1792
-acceptance_rate: 30.606%
-collected_at: 2026-04-17T12:09:42.693974+00:00
+acceptance_rate: "30.606%"
+collected_at: "2026-04-17T12:09:42.693974+00:00"
 ---
 
 ## 문제

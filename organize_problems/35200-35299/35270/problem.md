@@ -1,13 +1,13 @@
 ---
 title: "참나... 고작 gpt가 문제를 만들어 봤자..."
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 22
 accepted: 6
 solved_users: 6
-acceptance_rate: 66.667%
-collected_at: 2026-04-17T20:59:21.275123+00:00
+acceptance_rate: "66.667%"
+collected_at: "2026-04-17T20:59:21.275123+00:00"
 ---
 
 ## 문제

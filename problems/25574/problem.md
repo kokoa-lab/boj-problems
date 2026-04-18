@@ -1,13 +1,13 @@
 ---
-title: ABC 배열 놀이
-special_judge: false
-time_limit: 1 초  ( 하단 참고 )
-memory_limit: 512 MB
+title: "ABC 배열 놀이"
+special_judge: "false"
+time_limit: "1 초  ( 하단 참고 )"
+memory_limit: "512 MB"
 submissions: 60
 accepted: 23
 solved_users: 21
-acceptance_rate: 43.750%
-collected_at: 2026-04-17T17:29:03.380120+00:00
+acceptance_rate: "43.750%"
+collected_at: "2026-04-17T17:29:03.380120+00:00"
 ---
 
 ## 문제

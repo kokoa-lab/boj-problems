@@ -1,13 +1,13 @@
 ---
-title: Stop Counting!
-special_judge: true
-time_limit: 7 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Stop Counting!"
+special_judge: "true"
+time_limit: "7 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 165
 accepted: 86
 solved_users: 67
-acceptance_rate: 56.780%
-collected_at: 2026-04-17T14:42:21.219286+00:00
+acceptance_rate: "56.780%"
+collected_at: "2026-04-17T14:42:21.219286+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Tycho
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Tycho"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 13
 accepted: 4
 solved_users: 4
-acceptance_rate: 30.769%
-collected_at: 2026-04-17T19:40:07.616685+00:00
+acceptance_rate: "30.769%"
+collected_at: "2026-04-17T19:40:07.616685+00:00"
 ---
 
 ## 문제

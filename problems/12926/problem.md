@@ -1,13 +1,13 @@
 ---
-title: 쉽게 제한된 메모리
-special_judge: false
-time_limit: 7 초
-memory_limit: 4 MB (추가 메모리 없음)
+title: "쉽게 제한된 메모리"
+special_judge: "false"
+time_limit: "7 초"
+memory_limit: "4 MB (추가 메모리 없음)"
 submissions: 571
 accepted: 267
 solved_users: 149
-acceptance_rate: 44.478%
-collected_at: 2026-04-17T13:04:05.534001+00:00
+acceptance_rate: "44.478%"
+collected_at: "2026-04-17T13:04:05.534001+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 숙제
-special_judge: false
-time_limit: 1.5 초  ( 하단 참고 )
-memory_limit: 512 MB
+title: "숙제"
+special_judge: "false"
+time_limit: "1.5 초  ( 하단 참고 )"
+memory_limit: "512 MB"
 submissions: 276
 accepted: 110
 solved_users: 88
-acceptance_rate: 40.930%
-collected_at: 2026-04-17T16:40:26.481802+00:00
+acceptance_rate: "40.930%"
+collected_at: "2026-04-17T16:40:26.481802+00:00"
 ---
 
 ## 문제

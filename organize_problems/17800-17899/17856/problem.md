@@ -1,13 +1,13 @@
 ---
-title: Just Passing Through
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Just Passing Through"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 84
 accepted: 32
 solved_users: 31
-acceptance_rate: 60.784%
-collected_at: 2026-04-17T14:48:39.637536+00:00
+acceptance_rate: "60.784%"
+collected_at: "2026-04-17T14:48:39.637536+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 구구단표
-special_judge: false
-time_limit: 0.5 초
-memory_limit: 1024 MB
+title: "구구단표"
+special_judge: "false"
+time_limit: "0.5 초"
+memory_limit: "1024 MB"
 submissions: 3728
 accepted: 1682
 solved_users: 1544
-acceptance_rate: 45.680%
-collected_at: 2026-04-17T19:59:37.188272+00:00
+acceptance_rate: "45.680%"
+collected_at: "2026-04-17T19:59:37.188272+00:00"
 ---
 
 ## 문제

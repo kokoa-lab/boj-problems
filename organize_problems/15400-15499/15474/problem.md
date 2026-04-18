@@ -1,13 +1,13 @@
 ---
-title: 鉛筆 (Pencils)
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "鉛筆 (Pencils)"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 3016
 accepted: 2129
 solved_users: 2020
-acceptance_rate: 70.704%
-collected_at: 2026-04-17T14:00:04.941569+00:00
+acceptance_rate: "70.704%"
+collected_at: "2026-04-17T14:00:04.941569+00:00"
 ---
 
 ## 문제

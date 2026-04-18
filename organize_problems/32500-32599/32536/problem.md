@@ -1,13 +1,13 @@
 ---
-title: Zbunjenost
-special_judge: false
-time_limit: 5 초
-memory_limit: 1024 MB
+title: "Zbunjenost"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "1024 MB"
 submissions: 49
 accepted: 30
 solved_users: 23
-acceptance_rate: 56.098%
-collected_at: 2026-04-17T19:54:39.232838+00:00
+acceptance_rate: "56.098%"
+collected_at: "2026-04-17T19:54:39.232838+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Counting Rectangles
-special_judge: false
-time_limit: 5 초
-memory_limit: 1024 MB
+title: "Counting Rectangles"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "1024 MB"
 submissions: 66
 accepted: 13
 solved_users: 10
-acceptance_rate: 76.923%
-collected_at: 2026-04-17T17:21:09.906497+00:00
+acceptance_rate: "76.923%"
+collected_at: "2026-04-17T17:21:09.906497+00:00"
 ---
 
 ## 문제

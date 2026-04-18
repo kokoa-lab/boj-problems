@@ -1,13 +1,13 @@
 ---
-title: In the Shower
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "In the Shower"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 770
 accepted: 485
 solved_users: 458
-acceptance_rate: 63.877%
-collected_at: 2026-04-17T12:37:36.319087+00:00
+acceptance_rate: "63.877%"
+collected_at: "2026-04-17T12:37:36.319087+00:00"
 ---
 
 ## 문제

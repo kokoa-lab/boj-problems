@@ -1,13 +1,13 @@
 ---
-title: 소 운전한다.
-special_judge: false
-time_limit: 0.5 초
-memory_limit: 1024 MB
+title: "소 운전한다."
+special_judge: "false"
+time_limit: "0.5 초"
+memory_limit: "1024 MB"
 submissions: 677
 accepted: 183
 solved_users: 129
-acceptance_rate: 32.824%
-collected_at: 2026-04-17T15:26:36.318701+00:00
+acceptance_rate: "32.824%"
+collected_at: "2026-04-17T15:26:36.318701+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 소수를 분수로
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "소수를 분수로"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 727
 accepted: 244
 solved_users: 203
-acceptance_rate: 35.243%
-collected_at: 2026-04-17T12:36:12.068538+00:00
+acceptance_rate: "35.243%"
+collected_at: "2026-04-17T12:36:12.068538+00:00"
 ---
 
 ## 문제

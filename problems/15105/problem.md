@@ -1,13 +1,13 @@
 ---
-title: Enlarging Enthusiasm
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Enlarging Enthusiasm"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 45
 accepted: 12
 solved_users: 12
-acceptance_rate: 26.667%
-collected_at: 2026-04-17T13:51:22.654647+00:00
+acceptance_rate: "26.667%"
+collected_at: "2026-04-17T13:51:22.654647+00:00"
 ---
 
 ## 문제

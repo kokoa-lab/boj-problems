@@ -1,13 +1,13 @@
 ---
-title: Prime
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Prime"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 839
 accepted: 545
 solved_users: 427
-acceptance_rate: 64.211%
-collected_at: 2026-04-17T12:15:23.546402+00:00
+acceptance_rate: "64.211%"
+collected_at: "2026-04-17T12:15:23.546402+00:00"
 ---
 
 ## 문제

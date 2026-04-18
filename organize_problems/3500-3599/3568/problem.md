@@ -1,13 +1,13 @@
 ---
-title: iSharp
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "iSharp"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 5122
 accepted: 2059
 solved_users: 1718
-acceptance_rate: 41.892%
-collected_at: 2026-04-17T10:49:53.736585+00:00
+acceptance_rate: "41.892%"
+collected_at: "2026-04-17T10:49:53.736585+00:00"
 ---
 
 ## 문제

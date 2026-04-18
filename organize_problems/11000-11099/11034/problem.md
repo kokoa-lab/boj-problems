@@ -1,13 +1,13 @@
 ---
-title: 캥거루 세마리2
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "캥거루 세마리2"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 7515
 accepted: 3175
 solved_users: 2793
-acceptance_rate: 43.682%
-collected_at: 2026-04-17T12:35:21.742238+00:00
+acceptance_rate: "43.682%"
+collected_at: "2026-04-17T12:35:21.742238+00:00"
 ---
 
 ## 문제

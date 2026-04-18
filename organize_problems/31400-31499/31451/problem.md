@@ -1,13 +1,13 @@
 ---
-title: Five in a Row
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Five in a Row"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 34
 accepted: 8
 solved_users: 7
-acceptance_rate: 25.000%
-collected_at: 2026-04-17T19:28:28.348660+00:00
+acceptance_rate: "25.000%"
+collected_at: "2026-04-17T19:28:28.348660+00:00"
 ---
 
 ## 문제

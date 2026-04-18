@@ -1,13 +1,13 @@
 ---
-title: Alien Generator
-special_judge: false
-time_limit: 30 초 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "Alien Generator"
+special_judge: "false"
+time_limit: "30 초 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 73
 accepted: 45
 solved_users: 37
-acceptance_rate: 60.656%
-collected_at: 2026-04-17T16:40:12.347657+00:00
+acceptance_rate: "60.656%"
+collected_at: "2026-04-17T16:40:12.347657+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Paths
-special_judge: false
-time_limit: 0.3 초
-memory_limit: 1024 MB
+title: "Paths"
+special_judge: "false"
+time_limit: "0.3 초"
+memory_limit: "1024 MB"
 submissions: 143
 accepted: 16
 solved_users: 16
-acceptance_rate: 11.594%
-collected_at: 2026-04-17T18:01:29.864986+00:00
+acceptance_rate: "11.594%"
+collected_at: "2026-04-17T18:01:29.864986+00:00"
 ---
 
 ## 문제

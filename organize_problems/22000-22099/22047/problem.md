@@ -1,13 +1,13 @@
 ---
-title: Dungeons Game
-special_judge: false
-time_limit: 4 초
-memory_limit: 2048 MB
+title: "Dungeons Game"
+special_judge: "false"
+time_limit: "4 초"
+memory_limit: "2048 MB"
 submissions: 430
 accepted: 30
 solved_users: 27
-acceptance_rate: 12.273%
-collected_at: 2026-04-17T16:12:09.067867+00:00
+acceptance_rate: "12.273%"
+collected_at: "2026-04-17T16:12:09.067867+00:00"
 ---
 
 ## 문제

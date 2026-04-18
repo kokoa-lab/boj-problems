@@ -1,13 +1,13 @@
 ---
-title: 실수 계산
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "실수 계산"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 510
 accepted: 146
 solved_users: 93
-acceptance_rate: 26.420%
-collected_at: 2026-04-17T12:09:40.506173+00:00
+acceptance_rate: "26.420%"
+collected_at: "2026-04-17T12:09:40.506173+00:00"
 ---
 
 ## 문제

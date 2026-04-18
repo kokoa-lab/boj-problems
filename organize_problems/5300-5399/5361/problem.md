@@ -1,13 +1,13 @@
 ---
-title: 전투 드로이드 가격
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "전투 드로이드 가격"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 6446
 accepted: 4390
 solved_users: 4163
-acceptance_rate: 69.650%
-collected_at: 2026-04-17T11:13:14.488745+00:00
+acceptance_rate: "69.650%"
+collected_at: "2026-04-17T11:13:14.488745+00:00"
 ---
 
 ## 문제

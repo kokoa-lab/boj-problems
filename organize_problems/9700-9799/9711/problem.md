@@ -1,13 +1,13 @@
 ---
-title: 피보나치
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "피보나치"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 5744
 accepted: 1871
 solved_users: 1573
-acceptance_rate: 34.785%
-collected_at: 2026-04-17T12:13:25.855323+00:00
+acceptance_rate: "34.785%"
+collected_at: "2026-04-17T12:13:25.855323+00:00"
 ---
 
 ## 문제

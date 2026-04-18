@@ -1,13 +1,13 @@
 ---
-title: Hypervisor MacrOS
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Hypervisor MacrOS"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 2
 accepted: 0
 solved_users: 0
-acceptance_rate: 0.000%
-collected_at: 2026-04-17T11:53:43.184554+00:00
+acceptance_rate: "0.000%"
+collected_at: "2026-04-17T11:53:43.184554+00:00"
 ---
 
 ## 문제
@@ -18,7 +18,11 @@ Bob had been given a list of dependencies by his team of programmers before the 
 
 |  |  |
 | --- | --- |
-| ```  1 6 6 3 3 4 2 5 ``` |  |
+| ``` 
+ 1 6
+ 6 3
+ 3 4
+ 2 5 ``` |  |
 
 As the product develops, the programmers sometimes call Bob to inform of new dependencies. Further, being in charge of technical support, Bob often receives phone calls from customers with questions which packages should be installed first. To no surprise, after several calls from programmers and customers, Bob realized how difficult it is to keep track of dependencies and answer queries on-line at the same time, and. For automatizing this process, he wrote a program which generated two log files. The first one contains the history of all phone calls. An entry `1 A B` denotes a new dependency introduced by the programmers, and `0 A B` denotes a query from a customer meaning “should I install A before B?”. The second log is a history of all answers given to customers. An example is given in Table 1.
 
@@ -26,7 +30,38 @@ After a long period of testing, MacrOS is finally ready to enter beta stage. But
 
 |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| | First log file | Second log file (answers) | | --- | --- | | ```  1 1 3 0 1 3 1 1 4 0 5 2 1 3 2 1 6 5 0 1 5 1 4 5 0 5 3 1 1 2 ``` | ```   YES  NO   YES  NO  ``` | | | Modified first log file | | --- | | ```  1 1 3 0 1 3 1 1 4 0 5 2 - start reversing 1 2 3 1 5 6 0 1 5 1 5 4 0 5 3 - stop reversing 1 1 2 ``` | |
+| | First log file | Second log file (answers) | | --- | --- | | ``` 
+ 1 1 3
+ 0 1 3
+ 1 1 4
+ 0 5 2
+ 1 3 2
+ 1 6 5
+ 0 1 5
+ 1 4 5
+ 0 5 3
+ 1 1 2 ``` | ``` 
+ 
+ YES
+ 
+ NO
+ 
+ 
+ YES
+ 
+ NO
+ 
+ ``` | | | Modified first log file | | --- | | ``` 
+ 1 1 3
+ 0 1 3
+ 1 1 4
+ 0 5 2 - start reversing
+ 1 2 3
+ 1 5 6
+ 0 1 5
+ 1 5 4
+ 0 5 3 - stop reversing
+ 1 1 2 ``` | |
 | Table 1. The first answer is `YES` because package `1` should be installed before `3`. | Table 2. Reversed numbers of packages are written in bold. |
 | --- | --- |
 

@@ -1,13 +1,13 @@
 ---
-title: 두 부분 문자열 2
-special_judge: true
-time_limit: 1 초
-memory_limit: 128 MB
+title: "두 부분 문자열 2"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 99
 accepted: 32
 solved_users: 28
-acceptance_rate: 45.161%
-collected_at: 2026-04-17T10:47:35.683393+00:00
+acceptance_rate: "45.161%"
+collected_at: "2026-04-17T10:47:35.683393+00:00"
 ---
 
 ## 문제

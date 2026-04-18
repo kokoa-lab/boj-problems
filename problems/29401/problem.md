@@ -1,13 +1,13 @@
 ---
-title: Кто длиннее?
-special_judge: true
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Кто длиннее?"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 9
 accepted: 8
 solved_users: 7
-acceptance_rate: 87.500%
-collected_at: 2026-04-17T18:42:02.156483+00:00
+acceptance_rate: "87.500%"
+collected_at: "2026-04-17T18:42:02.156483+00:00"
 ---
 
 ## 문제

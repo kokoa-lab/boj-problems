@@ -1,13 +1,13 @@
 ---
-title: :danceplant:
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: ":danceplant:"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 530
 accepted: 280
 solved_users: 226
-acceptance_rate: 53.810%
-collected_at: 2026-04-17T18:15:17.142416+00:00
+acceptance_rate: "53.810%"
+collected_at: "2026-04-17T18:15:17.142416+00:00"
 ---
 
 ## 문제

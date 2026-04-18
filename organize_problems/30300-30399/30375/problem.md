@@ -1,13 +1,13 @@
 ---
-title: Edit distance on table
-special_judge: false
-time_limit: 3 초
-memory_limit: 1024 MB
+title: "Edit distance on table"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "1024 MB"
 submissions: 36
 accepted: 18
 solved_users: 14
-acceptance_rate: 53.846%
-collected_at: 2026-04-17T19:05:22.575169+00:00
+acceptance_rate: "53.846%"
+collected_at: "2026-04-17T19:05:22.575169+00:00"
 ---
 
 ## 문제

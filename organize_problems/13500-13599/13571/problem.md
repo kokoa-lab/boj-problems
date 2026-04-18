@@ -1,13 +1,13 @@
 ---
-title: 나이트의 이동
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "나이트의 이동"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 183
 accepted: 65
 solved_users: 26
-acceptance_rate: 31.707%
-collected_at: 2026-04-17T13:15:26.442655+00:00
+acceptance_rate: "31.707%"
+collected_at: "2026-04-17T13:15:26.442655+00:00"
 ---
 
 ## 문제

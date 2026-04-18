@@ -1,13 +1,13 @@
 ---
-title: Building 4
-special_judge: true
-time_limit: 1.5 초
-memory_limit: 512 MB
+title: "Building 4"
+special_judge: "true"
+time_limit: "1.5 초"
+memory_limit: "512 MB"
 submissions: 141
 accepted: 100
 solved_users: 84
-acceptance_rate: 74.336%
-collected_at: 2026-04-17T15:10:11.777560+00:00
+acceptance_rate: "74.336%"
+collected_at: "2026-04-17T15:10:11.777560+00:00"
 ---
 
 ## 문제

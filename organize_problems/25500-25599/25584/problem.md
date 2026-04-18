@@ -1,13 +1,13 @@
 ---
-title: 근무 지옥에 빠진 푸앙이 (Large)
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "근무 지옥에 빠진 푸앙이 (Large)"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 764
 accepted: 450
 solved_users: 374
-acceptance_rate: 58.898%
-collected_at: 2026-04-17T17:29:14.913470+00:00
+acceptance_rate: "58.898%"
+collected_at: "2026-04-17T17:29:14.913470+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Find my Family
-special_judge: false
-time_limit: 7 초
-memory_limit: 512 MB
+title: "Find my Family"
+special_judge: "false"
+time_limit: "7 초"
+memory_limit: "512 MB"
 submissions: 178
 accepted: 110
 solved_users: 97
-acceptance_rate: 64.667%
-collected_at: 2026-04-17T14:47:07.721358+00:00
+acceptance_rate: "64.667%"
+collected_at: "2026-04-17T14:47:07.721358+00:00"
 ---
 
 ## 문제

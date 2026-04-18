@@ -1,13 +1,13 @@
 ---
-title: 건공펀치 등차수열
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "건공펀치 등차수열"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 678
 accepted: 275
 solved_users: 230
-acceptance_rate: 41.219%
-collected_at: 2026-04-17T19:16:22.582763+00:00
+acceptance_rate: "41.219%"
+collected_at: "2026-04-17T19:16:22.582763+00:00"
 ---
 
 ## 문제

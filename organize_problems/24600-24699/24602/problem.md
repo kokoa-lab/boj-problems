@@ -1,13 +1,13 @@
 ---
-title: Tree Hopping
-special_judge: false
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Tree Hopping"
+special_judge: "false"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 198
 accepted: 83
 solved_users: 70
-acceptance_rate: 44.025%
-collected_at: 2026-04-17T17:11:51.704776+00:00
+acceptance_rate: "44.025%"
+collected_at: "2026-04-17T17:11:51.704776+00:00"
 ---
 
 ## 문제

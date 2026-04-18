@@ -1,13 +1,13 @@
 ---
-title: Out of Gas (Large)
-special_judge: true
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Out of Gas (Large)"
+special_judge: "true"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 29
 accepted: 10
 solved_users: 7
-acceptance_rate: 29.167%
-collected_at: 2026-04-18T09:54:15.404074+00:00
+acceptance_rate: "29.167%"
+collected_at: "2026-04-18T09:54:15.404074+00:00"
 ---
 
 ## 문제

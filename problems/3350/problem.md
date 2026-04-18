@@ -1,13 +1,13 @@
 ---
-title: Candy Machine
-special_judge: true
-time_limit: 4 초
-memory_limit: 128 MB
+title: "Candy Machine"
+special_judge: "true"
+time_limit: "4 초"
+memory_limit: "128 MB"
 submissions: 182
 accepted: 78
 solved_users: 70
-acceptance_rate: 45.161%
-collected_at: 2026-04-17T10:48:19.181242+00:00
+acceptance_rate: "45.161%"
+collected_at: "2026-04-17T10:48:19.181242+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Keyboardd
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Keyboardd"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 310
 accepted: 196
 solved_users: 171
-acceptance_rate: 62.409%
-collected_at: 2026-04-17T15:56:30.629586+00:00
+acceptance_rate: "62.409%"
+collected_at: "2026-04-17T15:56:30.629586+00:00"
 ---
 
 ## 문제

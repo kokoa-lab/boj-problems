@@ -1,13 +1,13 @@
 ---
-title: 교차 집합 크기 합
-special_judge: false
-time_limit: 4 초
-memory_limit: 1024 MB
+title: "교차 집합 크기 합"
+special_judge: "false"
+time_limit: "4 초"
+memory_limit: "1024 MB"
 submissions: 516
 accepted: 211
 solved_users: 131
-acceptance_rate: 34.565%
-collected_at: 2026-04-17T19:15:56.829340+00:00
+acceptance_rate: "34.565%"
+collected_at: "2026-04-17T19:15:56.829340+00:00"
 ---
 
 ## 문제

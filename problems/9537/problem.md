@@ -1,13 +1,13 @@
 ---
-title: 잘생긴 GCD
-special_judge: false
-time_limit: 5 초
-memory_limit: 128 MB
+title: "잘생긴 GCD"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "128 MB"
 submissions: 942
 accepted: 306
 solved_users: 205
-acceptance_rate: 30.827%
-collected_at: 2026-04-17T12:11:00.859718+00:00
+acceptance_rate: "30.827%"
+collected_at: "2026-04-17T12:11:00.859718+00:00"
 ---
 
 ## 문제

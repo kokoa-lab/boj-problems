@@ -1,13 +1,13 @@
 ---
-title: Adler32
-special_judge: true
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Adler32"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 80
 accepted: 16
 solved_users: 13
-acceptance_rate: 21.311%
-collected_at: 2026-04-17T14:56:38.462195+00:00
+acceptance_rate: "21.311%"
+collected_at: "2026-04-17T14:56:38.462195+00:00"
 ---
 
 ## 문제

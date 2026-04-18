@@ -1,13 +1,13 @@
 ---
-title: 다이나믹 롤러
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "다이나믹 롤러"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 1537
 accepted: 658
 solved_users: 518
-acceptance_rate: 42.669%
-collected_at: 2026-04-17T14:38:22.187006+00:00
+acceptance_rate: "42.669%"
+collected_at: "2026-04-17T14:38:22.187006+00:00"
 ---
 
 ## 문제

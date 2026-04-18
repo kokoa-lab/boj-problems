@@ -1,13 +1,13 @@
 ---
-title: Check Digits
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Check Digits"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 381
 accepted: 195
 solved_users: 168
-acceptance_rate: 49.267%
-collected_at: 2026-04-17T12:08:06.016442+00:00
+acceptance_rate: "49.267%"
+collected_at: "2026-04-17T12:08:06.016442+00:00"
 ---
 
 ## 문제

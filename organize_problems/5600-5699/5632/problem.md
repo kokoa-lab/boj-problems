@@ -1,13 +1,13 @@
 ---
-title: 버젼 관리 IDE
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "버젼 관리 IDE"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 291
 accepted: 112
 solved_users: 89
-acceptance_rate: 46.842%
-collected_at: 2026-04-17T11:16:08.579371+00:00
+acceptance_rate: "46.842%"
+collected_at: "2026-04-17T11:16:08.579371+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Palindromes
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Palindromes"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 299
 accepted: 220
 solved_users: 185
-acceptance_rate: 74.297%
-collected_at: 2026-04-17T13:19:08.920406+00:00
+acceptance_rate: "74.297%"
+collected_at: "2026-04-17T13:19:08.920406+00:00"
 ---
 
 ## 문제

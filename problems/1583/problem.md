@@ -1,13 +1,13 @@
 ---
-title: 이동호의 트럭
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "이동호의 트럭"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 132
 accepted: 23
 solved_users: 9
-acceptance_rate: 17.308%
-collected_at: 2026-04-17T10:31:24.169215+00:00
+acceptance_rate: "17.308%"
+collected_at: "2026-04-17T10:31:24.169215+00:00"
 ---
 
 ## 문제

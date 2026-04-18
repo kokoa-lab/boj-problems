@@ -1,13 +1,13 @@
 ---
-title: Pond Cascade
-special_judge: true
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Pond Cascade"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 62
 accepted: 25
 solved_users: 19
-acceptance_rate: 42.222%
-collected_at: 2026-04-17T13:47:28.304571+00:00
+acceptance_rate: "42.222%"
+collected_at: "2026-04-17T13:47:28.304571+00:00"
 ---
 
 ## 문제

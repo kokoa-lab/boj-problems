@@ -1,13 +1,13 @@
 ---
-title: League Tables
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "League Tables"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 151
 accepted: 47
 solved_users: 23
-acceptance_rate: 25.843%
-collected_at: 2026-04-17T13:54:02.926950+00:00
+acceptance_rate: "25.843%"
+collected_at: "2026-04-17T13:54:02.926950+00:00"
 ---
 
 ## 문제

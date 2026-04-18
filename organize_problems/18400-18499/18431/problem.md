@@ -1,13 +1,13 @@
 ---
-title: Just Long Neckties
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Just Long Neckties"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 218
 accepted: 137
 solved_users: 127
-acceptance_rate: 63.184%
-collected_at: 2026-04-17T15:04:37.273307+00:00
+acceptance_rate: "63.184%"
+collected_at: "2026-04-17T15:04:37.273307+00:00"
 ---
 
 ## 문제

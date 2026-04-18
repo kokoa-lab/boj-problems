@@ -1,13 +1,13 @@
 ---
-title: 미로 보수
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "미로 보수"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 871
 accepted: 292
 solved_users: 174
-acceptance_rate: 30.851%
-collected_at: 2026-04-17T19:12:32.395538+00:00
+acceptance_rate: "30.851%"
+collected_at: "2026-04-17T19:12:32.395538+00:00"
 ---
 
 ## 문제

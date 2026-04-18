@@ -1,13 +1,13 @@
 ---
-title: 기업투자
-special_judge: true
-time_limit: 1 초
-memory_limit: 128 MB
+title: "기업투자"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 7764
 accepted: 3101
 solved_users: 2230
-acceptance_rate: 40.347%
-collected_at: 2026-04-17T10:43:45.187931+00:00
+acceptance_rate: "40.347%"
+collected_at: "2026-04-17T10:43:45.187931+00:00"
 ---
 
 ## 문제

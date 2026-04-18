@@ -1,13 +1,13 @@
 ---
-title: 다각형 게임
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "다각형 게임"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 1792
 accepted: 1085
 solved_users: 931
-acceptance_rate: 63.376%
-collected_at: 2026-04-17T13:06:21.455851+00:00
+acceptance_rate: "63.376%"
+collected_at: "2026-04-17T13:06:21.455851+00:00"
 ---
 
 ## 문제

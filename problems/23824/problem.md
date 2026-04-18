@@ -1,13 +1,13 @@
 ---
-title: 서버 증축
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "서버 증축"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 204
 accepted: 69
 solved_users: 55
-acceptance_rate: 33.537%
-collected_at: 2026-04-17T16:54:44.042033+00:00
+acceptance_rate: "33.537%"
+collected_at: "2026-04-17T16:54:44.042033+00:00"
 ---
 
 ## 문제

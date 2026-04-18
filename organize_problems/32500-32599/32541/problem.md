@@ -1,13 +1,13 @@
 ---
-title: Expected Error
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Expected Error"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 94
 accepted: 42
 solved_users: 34
-acceptance_rate: 44.156%
-collected_at: 2026-04-17T19:54:41.896749+00:00
+acceptance_rate: "44.156%"
+collected_at: "2026-04-17T19:54:41.896749+00:00"
 ---
 
 ## 문제

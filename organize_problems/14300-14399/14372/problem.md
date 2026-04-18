@@ -1,13 +1,13 @@
 ---
-title: Close Match (Large)
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Close Match (Large)"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 94
 accepted: 29
 solved_users: 27
-acceptance_rate: 30.337%
-collected_at: 2026-04-17T13:31:20.503042+00:00
+acceptance_rate: "30.337%"
+collected_at: "2026-04-17T13:31:20.503042+00:00"
 ---
 
 ## 문제

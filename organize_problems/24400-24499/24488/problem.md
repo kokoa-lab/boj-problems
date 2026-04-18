@@ -1,13 +1,13 @@
 ---
-title: Drought
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Drought"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 193
 accepted: 93
 solved_users: 67
-acceptance_rate: 45.578%
-collected_at: 2026-04-17T17:10:06.102121+00:00
+acceptance_rate: "45.578%"
+collected_at: "2026-04-17T17:10:06.102121+00:00"
 ---
 
 ## 문제

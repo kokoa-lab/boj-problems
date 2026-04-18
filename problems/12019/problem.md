@@ -1,13 +1,13 @@
 ---
-title: 동아리방 청소!
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "동아리방 청소!"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 717
 accepted: 239
 solved_users: 175
-acceptance_rate: 39.150%
-collected_at: 2026-04-17T12:49:02.098704+00:00
+acceptance_rate: "39.150%"
+collected_at: "2026-04-17T12:49:02.098704+00:00"
 ---
 
 ## 문제

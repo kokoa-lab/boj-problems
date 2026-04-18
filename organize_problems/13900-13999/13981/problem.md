@@ -1,13 +1,13 @@
 ---
-title: Postman
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Postman"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 122
 accepted: 63
 solved_users: 54
-acceptance_rate: 51.923%
-collected_at: 2026-04-17T13:23:26.567239+00:00
+acceptance_rate: "51.923%"
+collected_at: "2026-04-17T13:23:26.567239+00:00"
 ---
 
 ## 문제

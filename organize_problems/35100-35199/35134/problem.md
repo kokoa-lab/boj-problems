@@ -1,13 +1,13 @@
 ---
-title: Divido Travel
-special_judge: false
-time_limit: 1 초
-memory_limit: 2048 MB
+title: "Divido Travel"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "2048 MB"
 submissions: 3
 accepted: 2
 solved_users: 2
-acceptance_rate: 66.667%
-collected_at: 2026-04-17T20:56:34.011627+00:00
+acceptance_rate: "66.667%"
+collected_at: "2026-04-17T20:56:34.011627+00:00"
 ---
 
 ## 문제

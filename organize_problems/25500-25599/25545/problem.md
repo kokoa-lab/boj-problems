@@ -1,13 +1,13 @@
 ---
-title: MMST
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "MMST"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 867
 accepted: 178
 solved_users: 129
-acceptance_rate: 19.575%
-collected_at: 2026-04-17T17:28:30.289815+00:00
+acceptance_rate: "19.575%"
+collected_at: "2026-04-17T17:28:30.289815+00:00"
 ---
 
 ## 문제

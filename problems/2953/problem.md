@@ -1,13 +1,13 @@
 ---
-title: 나는 요리사다
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "나는 요리사다"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 27701
 accepted: 18644
 solved_users: 16630
-acceptance_rate: 68.512%
-collected_at: 2026-04-17T10:45:54.717891+00:00
+acceptance_rate: "68.512%"
+collected_at: "2026-04-17T10:45:54.717891+00:00"
 ---
 
 ## 문제

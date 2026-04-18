@@ -1,13 +1,13 @@
 ---
-title: Droga do domu
-special_judge: false
-time_limit: 3 초
-memory_limit: 1024 MB
+title: "Droga do domu"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "1024 MB"
 submissions: 47
 accepted: 11
 solved_users: 11
-acceptance_rate: 32.353%
-collected_at: 2026-04-17T17:51:40.927392+00:00
+acceptance_rate: "32.353%"
+collected_at: "2026-04-17T17:51:40.927392+00:00"
 ---
 
 ## 문제

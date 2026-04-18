@@ -1,13 +1,13 @@
 ---
-title: AcidBase
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "AcidBase"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 323
 accepted: 266
 solved_users: 251
-acceptance_rate: 82.838%
-collected_at: 2026-04-17T12:20:09.325762+00:00
+acceptance_rate: "82.838%"
+collected_at: "2026-04-17T12:20:09.325762+00:00"
 ---
 
 ## 문제

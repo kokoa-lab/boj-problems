@@ -1,13 +1,13 @@
 ---
-title: Dirty Driving
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Dirty Driving"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 151
 accepted: 95
 solved_users: 80
-acceptance_rate: 66.116%
-collected_at: 2026-04-17T11:10:56.340541+00:00
+acceptance_rate: "66.116%"
+collected_at: "2026-04-17T11:10:56.340541+00:00"
 ---
 
 ## 문제

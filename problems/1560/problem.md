@@ -1,13 +1,13 @@
 ---
-title: 비숍
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "비숍"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 2904
 accepted: 1102
 solved_users: 970
-acceptance_rate: 40.603%
-collected_at: 2026-04-17T10:31:10.925425+00:00
+acceptance_rate: "40.603%"
+collected_at: "2026-04-17T10:31:10.925425+00:00"
 ---
 
 ## 문제

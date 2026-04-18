@@ -1,13 +1,13 @@
 ---
-title: 미술 시간
-special_judge: false
-time_limit: 5 초
-memory_limit: 256 MB
+title: "미술 시간"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "256 MB"
 submissions: 5570
 accepted: 685
 solved_users: 139
-acceptance_rate: 3.359%
-collected_at: 2026-04-17T12:04:22.416246+00:00
+acceptance_rate: "3.359%"
+collected_at: "2026-04-17T12:04:22.416246+00:00"
 ---
 
 ## 문제

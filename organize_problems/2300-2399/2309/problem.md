@@ -1,13 +1,13 @@
 ---
-title: 일곱 난쟁이
-special_judge: true
-time_limit: 2 초
-memory_limit: 128 MB
+title: "일곱 난쟁이"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 186955
 accepted: 79787
 solved_users: 54290
-acceptance_rate: 42.139%
-collected_at: 2026-04-17T10:40:27.614539+00:00
+acceptance_rate: "42.139%"
+collected_at: "2026-04-17T10:40:27.614539+00:00"
 ---
 
 ## 문제

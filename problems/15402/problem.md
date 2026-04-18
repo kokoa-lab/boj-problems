@@ -1,13 +1,13 @@
 ---
-title: Cunning Friends
-special_judge: false
-time_limit: 2 초
-memory_limit: 64 MB
+title: "Cunning Friends"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "64 MB"
 submissions: 69
 accepted: 33
 solved_users: 32
-acceptance_rate: 62.745%
-collected_at: 2026-04-17T13:58:43.924194+00:00
+acceptance_rate: "62.745%"
+collected_at: "2026-04-17T13:58:43.924194+00:00"
 ---
 
 ## 문제

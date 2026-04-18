@@ -1,13 +1,13 @@
 ---
-title: Dial Key
-special_judge: false
-time_limit: 8 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "Dial Key"
+special_judge: "false"
+time_limit: "8 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 195
 accepted: 47
 solved_users: 26
-acceptance_rate: 15.569%
-collected_at: 2026-04-17T16:30:08.618703+00:00
+acceptance_rate: "15.569%"
+collected_at: "2026-04-17T16:30:08.618703+00:00"
 ---
 
 ## 문제

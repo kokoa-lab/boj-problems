@@ -1,13 +1,13 @@
 ---
-title: Index
-special_judge: false
-time_limit: 2.5 초
-memory_limit: 512 MB
+title: "Index"
+special_judge: "false"
+time_limit: "2.5 초"
+memory_limit: "512 MB"
 submissions: 218
 accepted: 100
 solved_users: 76
-acceptance_rate: 58.915%
-collected_at: 2026-04-17T15:50:56.142662+00:00
+acceptance_rate: "58.915%"
+collected_at: "2026-04-17T15:50:56.142662+00:00"
 ---
 
 ## 문제

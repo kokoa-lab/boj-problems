@@ -1,13 +1,13 @@
 ---
-title: 정사각형
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "정사각형"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 74
 accepted: 21
 solved_users: 15
-acceptance_rate: 46.875%
-collected_at: 2026-04-17T10:30:29.604868+00:00
+acceptance_rate: "46.875%"
+collected_at: "2026-04-17T10:30:29.604868+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 입맛이 까다로운 코알라가 유칼립투스 잎을 행복하게 먹을 수 있는 방법
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "입맛이 까다로운 코알라가 유칼립투스 잎을 행복하게 먹을 수 있는 방법"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 160
 accepted: 40
 solved_users: 39
-acceptance_rate: 34.821%
-collected_at: 2026-04-17T17:29:48.855302+00:00
+acceptance_rate: "34.821%"
+collected_at: "2026-04-17T17:29:48.855302+00:00"
 ---
 
 ## 문제

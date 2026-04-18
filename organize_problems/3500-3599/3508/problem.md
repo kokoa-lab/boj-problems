@@ -1,13 +1,13 @@
 ---
-title: Black Square
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Black Square"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 107
 accepted: 29
 solved_users: 27
-acceptance_rate: 28.125%
-collected_at: 2026-04-17T10:49:23.591524+00:00
+acceptance_rate: "28.125%"
+collected_at: "2026-04-17T10:49:23.591524+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 블록 정리
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "블록 정리"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 268
 accepted: 153
 solved_users: 131
-acceptance_rate: 54.132%
-collected_at: 2026-04-17T10:45:48.960243+00:00
+acceptance_rate: "54.132%"
+collected_at: "2026-04-17T10:45:48.960243+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 제리와 톰 2
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "제리와 톰 2"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 917
 accepted: 714
 solved_users: 617
-acceptance_rate: 80.548%
-collected_at: 2026-04-17T14:40:44.518040+00:00
+acceptance_rate: "80.548%"
+collected_at: "2026-04-17T14:40:44.518040+00:00"
 ---
 
 ## 문제

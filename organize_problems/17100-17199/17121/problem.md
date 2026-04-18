@@ -1,13 +1,13 @@
 ---
-title: 골드바흐 삼각형
-special_judge: false
-time_limit: 3 초
-memory_limit: 512 MB
+title: "골드바흐 삼각형"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "512 MB"
 submissions: 114
 accepted: 17
 solved_users: 5
-acceptance_rate: 13.514%
-collected_at: 2026-04-17T14:30:14.236770+00:00
+acceptance_rate: "13.514%"
+collected_at: "2026-04-17T14:30:14.236770+00:00"
 ---
 
 ## 문제

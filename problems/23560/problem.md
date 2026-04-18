@@ -1,13 +1,13 @@
 ---
-title: 약
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "약"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 763
 accepted: 463
 solved_users: 391
-acceptance_rate: 63.474%
-collected_at: 2026-04-17T16:50:08.911747+00:00
+acceptance_rate: "63.474%"
+collected_at: "2026-04-17T16:50:08.911747+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Building Skyscrapers
-special_judge: true
-time_limit: 3.5 초
-memory_limit: 512 MB
+title: "Building Skyscrapers"
+special_judge: "true"
+time_limit: "3.5 초"
+memory_limit: "512 MB"
 submissions: 14
 accepted: 7
 solved_users: 7
-acceptance_rate: 63.636%
-collected_at: 2026-04-17T14:43:31.032549+00:00
+acceptance_rate: "63.636%"
+collected_at: "2026-04-17T14:43:31.032549+00:00"
 ---
 
 ## 문제

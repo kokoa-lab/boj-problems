@@ -1,13 +1,13 @@
 ---
-title: 숫자구슬
-special_judge: true
-time_limit: 1 초
-memory_limit: 128 MB
+title: "숫자구슬"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 10069
 accepted: 2604
 solved_users: 1812
-acceptance_rate: 26.745%
-collected_at: 2026-04-17T10:43:17.016914+00:00
+acceptance_rate: "26.745%"
+collected_at: "2026-04-17T10:43:17.016914+00:00"
 ---
 
 ## 문제

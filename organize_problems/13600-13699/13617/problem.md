@@ -1,13 +1,13 @@
 ---
-title: Handebol
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Handebol"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 458
 accepted: 386
 solved_users: 320
-acceptance_rate: 86.957%
-collected_at: 2026-04-17T13:16:10.224005+00:00
+acceptance_rate: "86.957%"
+collected_at: "2026-04-17T13:16:10.224005+00:00"
 ---
 
 ## 문제

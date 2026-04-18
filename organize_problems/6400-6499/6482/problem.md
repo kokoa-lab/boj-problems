@@ -1,13 +1,13 @@
 ---
-title: Evaluating Simple C Expressions
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Evaluating Simple C Expressions"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 28
 accepted: 13
 solved_users: 12
-acceptance_rate: 48.000%
-collected_at: 2026-04-17T11:28:59.930284+00:00
+acceptance_rate: "48.000%"
+collected_at: "2026-04-17T11:28:59.930284+00:00"
 ---
 
 ## 문제

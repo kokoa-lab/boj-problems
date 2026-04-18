@@ -1,13 +1,13 @@
 ---
-title: 집 구하기
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "집 구하기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 5902
 accepted: 1772
 solved_users: 1208
-acceptance_rate: 27.505%
-collected_at: 2026-04-17T13:22:14.186663+00:00
+acceptance_rate: "27.505%"
+collected_at: "2026-04-17T13:22:14.186663+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Fan Death
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Fan Death"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 4746
 accepted: 2685
 solved_users: 2490
-acceptance_rate: 57.626%
-collected_at: 2026-04-17T14:03:00.705955+00:00
+acceptance_rate: "57.626%"
+collected_at: "2026-04-17T14:03:00.705955+00:00"
 ---
 
 ## 문제

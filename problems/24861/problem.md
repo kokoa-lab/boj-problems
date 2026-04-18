@@ -1,13 +1,13 @@
 ---
-title: The Math of Sailing
-special_judge: true
-time_limit: 1 초
-memory_limit: 512 MB
+title: "The Math of Sailing"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 19
 accepted: 9
 solved_users: 9
-acceptance_rate: 81.818%
-collected_at: 2026-04-17T17:16:19.698926+00:00
+acceptance_rate: "81.818%"
+collected_at: "2026-04-17T17:16:19.698926+00:00"
 ---
 
 ## 문제

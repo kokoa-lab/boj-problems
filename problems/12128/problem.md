@@ -1,13 +1,13 @@
 ---
-title: Crane Truck (Large)
-special_judge: false
-time_limit: 120 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "Crane Truck (Large)"
+special_judge: "false"
+time_limit: "120 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 25
 accepted: 2
 solved_users: 2
-acceptance_rate: 100.000%
-collected_at: 2026-04-17T12:50:40.596842+00:00
+acceptance_rate: "100.000%"
+collected_at: "2026-04-17T12:50:40.596842+00:00"
 ---
 
 ## 문제

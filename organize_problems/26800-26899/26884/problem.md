@@ -1,13 +1,13 @@
 ---
-title: Kent-buggen
-special_judge: false
-time_limit: 6 초
-memory_limit: 1024 MB
+title: "Kent-buggen"
+special_judge: "false"
+time_limit: "6 초"
+memory_limit: "1024 MB"
 submissions: 147
 accepted: 110
 solved_users: 89
-acceptance_rate: 75.424%
-collected_at: 2026-04-17T17:52:45.338457+00:00
+acceptance_rate: "75.424%"
+collected_at: "2026-04-17T17:52:45.338457+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Alarmist
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Alarmist"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 186
 accepted: 135
 solved_users: 117
-acceptance_rate: 73.585%
-collected_at: 2026-04-17T11:11:39.697555+00:00
+acceptance_rate: "73.585%"
+collected_at: "2026-04-17T11:11:39.697555+00:00"
 ---
 
 ## 문제

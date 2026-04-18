@@ -1,13 +1,13 @@
 ---
-title: XOR Tree
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "XOR Tree"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 44
 accepted: 6
 solved_users: 6
-acceptance_rate: 26.087%
-collected_at: 2026-04-17T15:21:22.192857+00:00
+acceptance_rate: "26.087%"
+collected_at: "2026-04-17T15:21:22.192857+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Minimum Cost Flow
-special_judge: false
-time_limit: 3 초
-memory_limit: 512 MB
+title: "Minimum Cost Flow"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "512 MB"
 submissions: 108
 accepted: 24
 solved_users: 23
-acceptance_rate: 30.263%
-collected_at: 2026-04-17T13:40:19.792245+00:00
+acceptance_rate: "30.263%"
+collected_at: "2026-04-17T13:40:19.792245+00:00"
 ---
 
 ## 문제

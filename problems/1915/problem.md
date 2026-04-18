@@ -1,13 +1,13 @@
 ---
-title: 가장 큰 정사각형
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "가장 큰 정사각형"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 52939
 accepted: 16820
 solved_users: 12277
-acceptance_rate: 30.840%
-collected_at: 2026-04-17T10:35:49.217274+00:00
+acceptance_rate: "30.840%"
+collected_at: "2026-04-17T10:35:49.217274+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 소각로
-special_judge: false
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "소각로"
+special_judge: "false"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 603
 accepted: 129
 solved_users: 104
-acceptance_rate: 24.703%
-collected_at: 2026-04-17T14:08:26.310338+00:00
+acceptance_rate: "24.703%"
+collected_at: "2026-04-17T14:08:26.310338+00:00"
 ---
 
 ## 문제

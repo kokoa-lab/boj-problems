@@ -1,13 +1,13 @@
 ---
-title: Numbers (Small)
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Numbers (Small)"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 760
 accepted: 329
 solved_users: 292
-acceptance_rate: 53.578%
-collected_at: 2026-04-17T13:00:19.710513+00:00
+acceptance_rate: "53.578%"
+collected_at: "2026-04-17T13:00:19.710513+00:00"
 ---
 
 ## 문제

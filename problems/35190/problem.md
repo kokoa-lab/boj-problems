@@ -1,13 +1,13 @@
 ---
-title: 재생하는 다리 건너기 게임
-special_judge: false
-time_limit: 5 초
-memory_limit: 1024 MB
+title: "재생하는 다리 건너기 게임"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "1024 MB"
 submissions: 105
 accepted: 28
 solved_users: 8
-acceptance_rate: 10.811%
-collected_at: 2026-04-17T20:57:37.339492+00:00
+acceptance_rate: "10.811%"
+collected_at: "2026-04-17T20:57:37.339492+00:00"
 ---
 
 ## 문제

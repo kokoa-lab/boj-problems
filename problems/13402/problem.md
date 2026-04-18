@@ -1,13 +1,13 @@
 ---
-title: Hidden Anagrams
-special_judge: false
-time_limit: 10 초
-memory_limit: 512 MB
+title: "Hidden Anagrams"
+special_judge: "false"
+time_limit: "10 초"
+memory_limit: "512 MB"
 submissions: 337
 accepted: 128
 solved_users: 111
-acceptance_rate: 46.250%
-collected_at: 2026-04-17T13:12:44.387851+00:00
+acceptance_rate: "46.250%"
+collected_at: "2026-04-17T13:12:44.387851+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 새로운 인연
-special_judge: false
-time_limit: 2 초
-memory_limit: 2048 MB
+title: "새로운 인연"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "2048 MB"
 submissions: 104
 accepted: 47
 solved_users: 37
-acceptance_rate: 46.250%
-collected_at: 2026-04-17T20:32:59.568449+00:00
+acceptance_rate: "46.250%"
+collected_at: "2026-04-17T20:32:59.568449+00:00"
 ---
 
 ## 문제

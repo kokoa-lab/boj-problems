@@ -1,13 +1,13 @@
 ---
-title: A Password Policy Requirement
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "A Password Policy Requirement"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 302
 accepted: 194
 solved_users: 154
-acceptance_rate: 64.979%
-collected_at: 2026-04-17T12:09:32.918269+00:00
+acceptance_rate: "64.979%"
+collected_at: "2026-04-17T12:09:32.918269+00:00"
 ---
 
 ## 문제

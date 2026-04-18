@@ -1,13 +1,13 @@
 ---
-title: Complexity
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Complexity"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 211
 accepted: 167
 solved_users: 152
-acceptance_rate: 79.167%
-collected_at: 2026-04-17T17:46:55.326499+00:00
+acceptance_rate: "79.167%"
+collected_at: "2026-04-17T17:46:55.326499+00:00"
 ---
 
 ## 문제

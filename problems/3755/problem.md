@@ -1,13 +1,13 @@
 ---
-title: Double Queue
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Double Queue"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 277
 accepted: 130
 solved_users: 89
-acceptance_rate: 51.149%
-collected_at: 2026-04-17T10:51:45.846501+00:00
+acceptance_rate: "51.149%"
+collected_at: "2026-04-17T10:51:45.846501+00:00"
 ---
 
 ## 문제

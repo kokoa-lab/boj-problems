@@ -1,13 +1,13 @@
 ---
-title: Datum
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Datum"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 88
 accepted: 45
 solved_users: 23
-acceptance_rate: 44.231%
-collected_at: 2026-04-17T15:15:22.795196+00:00
+acceptance_rate: "44.231%"
+collected_at: "2026-04-17T15:15:22.795196+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 풀만한문제
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "풀만한문제"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 978
 accepted: 671
 solved_users: 595
-acceptance_rate: 70.498%
-collected_at: 2026-04-17T18:51:23.841605+00:00
+acceptance_rate: "70.498%"
+collected_at: "2026-04-17T18:51:23.841605+00:00"
 ---
 
 ## 문제

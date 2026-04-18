@@ -1,13 +1,13 @@
 ---
-title: 캐슬 디펜스
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "캐슬 디펜스"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 41345
 accepted: 15921
 solved_users: 9883
-acceptance_rate: 34.402%
-collected_at: 2026-04-17T14:30:37.822345+00:00
+acceptance_rate: "34.402%"
+collected_at: "2026-04-17T14:30:37.822345+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 퍼즐
-special_judge: false
-time_limit: 1 초
-memory_limit: 32 MB ( 하단 참고 )
+title: "퍼즐"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "32 MB ( 하단 참고 )"
 submissions: 20623
 accepted: 9214
 solved_users: 5841
-acceptance_rate: 43.257%
-collected_at: 2026-04-17T10:30:52.603605+00:00
+acceptance_rate: "43.257%"
+collected_at: "2026-04-17T10:30:52.603605+00:00"
 ---
 
 ## 문제

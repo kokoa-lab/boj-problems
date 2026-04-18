@@ -1,13 +1,13 @@
 ---
-title: 트리의 MEX
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "트리의 MEX"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 537
 accepted: 271
 solved_users: 202
-acceptance_rate: 47.981%
-collected_at: 2026-04-17T17:28:40.056355+00:00
+acceptance_rate: "47.981%"
+collected_at: "2026-04-17T17:28:40.056355+00:00"
 ---
 
 ## 문제

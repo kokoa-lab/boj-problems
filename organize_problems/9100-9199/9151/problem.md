@@ -1,13 +1,13 @@
 ---
-title: Starship Hakodate-maru
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Starship Hakodate-maru"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 302
 accepted: 231
 solved_users: 190
-acceptance_rate: 74.510%
-collected_at: 2026-04-17T12:07:33.496936+00:00
+acceptance_rate: "74.510%"
+collected_at: "2026-04-17T12:07:33.496936+00:00"
 ---
 
 ## 문제

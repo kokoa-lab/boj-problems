@@ -1,13 +1,13 @@
 ---
-title: 핑크 플로이드
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "핑크 플로이드"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 1119
 accepted: 670
 solved_users: 551
-acceptance_rate: 59.120%
-collected_at: 2026-04-17T11:20:06.864327+00:00
+acceptance_rate: "59.120%"
+collected_at: "2026-04-17T11:20:06.864327+00:00"
 ---
 
 ## 문제

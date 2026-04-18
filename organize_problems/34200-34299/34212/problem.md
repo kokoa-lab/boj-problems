@@ -1,13 +1,13 @@
 ---
-title: Boring Game
-special_judge: false
-time_limit: 4 초
-memory_limit: 2048 MB
+title: "Boring Game"
+special_judge: "false"
+time_limit: "4 초"
+memory_limit: "2048 MB"
 submissions: 30
 accepted: 2
 solved_users: 2
-acceptance_rate: 28.571%
-collected_at: 2026-04-17T20:33:11.457280+00:00
+acceptance_rate: "28.571%"
+collected_at: "2026-04-17T20:33:11.457280+00:00"
 ---
 
 ## 문제

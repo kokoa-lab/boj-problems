@@ -1,13 +1,13 @@
 ---
-title: PPC와 CPP
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "PPC와 CPP"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 375
 accepted: 64
 solved_users: 54
-acceptance_rate: 25.472%
-collected_at: 2026-04-17T20:27:12.149844+00:00
+acceptance_rate: "25.472%"
+collected_at: "2026-04-17T20:27:12.149844+00:00"
 ---
 
 ## 문제

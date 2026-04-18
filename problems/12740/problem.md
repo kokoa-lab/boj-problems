@@ -1,13 +1,13 @@
 ---
-title: 돌림판 (Large)
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "돌림판 (Large)"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 85
 accepted: 27
 solved_users: 24
-acceptance_rate: 70.588%
-collected_at: 2026-04-17T13:00:34.566068+00:00
+acceptance_rate: "70.588%"
+collected_at: "2026-04-17T13:00:34.566068+00:00"
 ---
 
 ## 문제

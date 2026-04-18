@@ -1,13 +1,13 @@
 ---
-title: 두 배
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "두 배"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 10090
 accepted: 1789
 solved_users: 1160
-acceptance_rate: 20.269%
-collected_at: 2026-04-17T19:39:55.494375+00:00
+acceptance_rate: "20.269%"
+collected_at: "2026-04-17T19:39:55.494375+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 소수 사이 수열
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "소수 사이 수열"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 3306
 accepted: 2080
 solved_users: 1736
-acceptance_rate: 64.035%
-collected_at: 2026-04-17T10:53:07.196009+00:00
+acceptance_rate: "64.035%"
+collected_at: "2026-04-17T10:53:07.196009+00:00"
 ---
 
 ## 문제

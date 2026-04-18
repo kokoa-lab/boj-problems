@@ -1,13 +1,13 @@
 ---
-title: Tree Game
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Tree Game"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 43
 accepted: 10
 solved_users: 5
-acceptance_rate: 16.129%
-collected_at: 2026-04-17T15:19:38.153704+00:00
+acceptance_rate: "16.129%"
+collected_at: "2026-04-17T15:19:38.153704+00:00"
 ---
 
 ## 문제

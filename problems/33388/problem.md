@@ -1,13 +1,13 @@
 ---
-title: Interval Addition
-special_judge: false
-time_limit: 4 초
-memory_limit: 2048 MB
+title: "Interval Addition"
+special_judge: "false"
+time_limit: "4 초"
+memory_limit: "2048 MB"
 submissions: 29
 accepted: 8
 solved_users: 7
-acceptance_rate: 26.923%
-collected_at: 2026-04-17T20:15:00.035943+00:00
+acceptance_rate: "26.923%"
+collected_at: "2026-04-17T20:15:00.035943+00:00"
 ---
 
 ## 문제

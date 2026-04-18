@@ -1,13 +1,13 @@
 ---
-title: 큰 수 A+B
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "큰 수 A+B"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 113078
 accepted: 54342
 solved_users: 47476
-acceptance_rate: 51.317%
-collected_at: 2026-04-17T12:29:08.882155+00:00
+acceptance_rate: "51.317%"
+collected_at: "2026-04-17T12:29:08.882155+00:00"
 ---
 
 ## 문제

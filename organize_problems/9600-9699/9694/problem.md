@@ -1,13 +1,13 @@
 ---
-title: 무엇을 아느냐가 아니라 누구를 아느냐가 문제다
-special_judge: true
-time_limit: 1 초
-memory_limit: 128 MB
+title: "무엇을 아느냐가 아니라 누구를 아느냐가 문제다"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 2486
 accepted: 956
 solved_users: 737
-acceptance_rate: 39.795%
-collected_at: 2026-04-18T10:04:04.696715+00:00
+acceptance_rate: "39.795%"
+collected_at: "2026-04-18T10:04:04.696715+00:00"
 ---
 
 ## 문제

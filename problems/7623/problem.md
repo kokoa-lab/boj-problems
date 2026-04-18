@@ -1,13 +1,13 @@
 ---
-title: 무한 게임
-special_judge: false
-time_limit: 5 초
-memory_limit: 128 MB
+title: "무한 게임"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "128 MB"
 submissions: 300
 accepted: 65
 solved_users: 46
-acceptance_rate: 21.296%
-collected_at: 2026-04-17T11:51:13.173173+00:00
+acceptance_rate: "21.296%"
+collected_at: "2026-04-17T11:51:13.173173+00:00"
 ---
 
 ## 문제

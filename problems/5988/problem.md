@@ -1,13 +1,13 @@
 ---
-title: 홀수일까 짝수일까
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "홀수일까 짝수일까"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 16643
 accepted: 7790
 solved_users: 7112
-acceptance_rate: 50.422%
-collected_at: 2026-04-17T11:19:06.807843+00:00
+acceptance_rate: "50.422%"
+collected_at: "2026-04-17T11:19:06.807843+00:00"
 ---
 
 ## 문제

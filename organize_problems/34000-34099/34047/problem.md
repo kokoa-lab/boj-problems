@@ -1,13 +1,13 @@
 ---
-title: 지옥도
-special_judge: false
-time_limit: 0.1 초
-memory_limit: 1024 MB
+title: "지옥도"
+special_judge: "false"
+time_limit: "0.1 초"
+memory_limit: "1024 MB"
 submissions: 180
 accepted: 27
 solved_users: 16
-acceptance_rate: 12.698%
-collected_at: 2026-04-17T20:29:26.174797+00:00
+acceptance_rate: "12.698%"
+collected_at: "2026-04-17T20:29:26.174797+00:00"
 ---
 
 ## 문제

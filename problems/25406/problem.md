@@ -1,13 +1,13 @@
 ---
-title: 식사 계획 세우기
-special_judge: false
-time_limit: 3 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "식사 계획 세우기"
+special_judge: "false"
+time_limit: "3 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 1131
 accepted: 360
 solved_users: 277
-acceptance_rate: 34.029%
-collected_at: 2026-04-17T17:26:12.510595+00:00
+acceptance_rate: "34.029%"
+collected_at: "2026-04-17T17:26:12.510595+00:00"
 ---
 
 ## 문제

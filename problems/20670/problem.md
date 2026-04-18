@@ -1,13 +1,13 @@
 ---
-title: 미스테리 싸인
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "미스테리 싸인"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 749
 accepted: 404
 solved_users: 268
-acceptance_rate: 52.140%
-collected_at: 2026-04-17T15:39:45.409188+00:00
+acceptance_rate: "52.140%"
+collected_at: "2026-04-17T15:39:45.409188+00:00"
 ---
 
 ## 문제

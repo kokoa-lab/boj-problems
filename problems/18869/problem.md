@@ -1,13 +1,13 @@
 ---
-title: 멀티버스 Ⅱ
-special_judge: false
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "멀티버스 Ⅱ"
+special_judge: "false"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 6320
 accepted: 2563
 solved_users: 1866
-acceptance_rate: 40.814%
-collected_at: 2026-04-17T15:10:38.652130+00:00
+acceptance_rate: "40.814%"
+collected_at: "2026-04-17T15:10:38.652130+00:00"
 ---
 
 ## 문제

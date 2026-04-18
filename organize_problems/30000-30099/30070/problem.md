@@ -1,13 +1,13 @@
 ---
-title: Kaladėlės
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Kaladėlės"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 55
 accepted: 29
 solved_users: 27
-acceptance_rate: 58.696%
-collected_at: 2026-04-17T18:58:27.119357+00:00
+acceptance_rate: "58.696%"
+collected_at: "2026-04-17T18:58:27.119357+00:00"
 ---
 
 ## 문제

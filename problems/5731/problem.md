@@ -1,13 +1,13 @@
 ---
-title: Ambiguous Codes
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Ambiguous Codes"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 28
 accepted: 9
 solved_users: 9
-acceptance_rate: 37.500%
-collected_at: 2026-04-17T11:16:57.313119+00:00
+acceptance_rate: "37.500%"
+collected_at: "2026-04-17T11:16:57.313119+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 극장 좌석
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "극장 좌석"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 24876
 accepted: 10023
 solved_users: 8184
-acceptance_rate: 39.988%
-collected_at: 2026-04-17T10:40:27.295005+00:00
+acceptance_rate: "39.988%"
+collected_at: "2026-04-17T10:40:27.295005+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Tebryggning
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Tebryggning"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 63
 accepted: 44
 solved_users: 37
-acceptance_rate: 67.273%
-collected_at: 2026-04-17T15:41:42.641570+00:00
+acceptance_rate: "67.273%"
+collected_at: "2026-04-17T15:41:42.641570+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Manhattan Walk
-special_judge: true
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 2048 MB (추가 메모리 없음)
+title: "Manhattan Walk"
+special_judge: "true"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "2048 MB (추가 메모리 없음)"
 submissions: 48
 accepted: 44
 solved_users: 43
-acceptance_rate: 91.489%
-collected_at: 2026-04-17T19:39:42.598243+00:00
+acceptance_rate: "91.489%"
+collected_at: "2026-04-17T19:39:42.598243+00:00"
 ---
 
 ## 문제

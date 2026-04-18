@@ -1,13 +1,13 @@
 ---
-title: 멘토 매칭하기
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "멘토 매칭하기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 243
 accepted: 86
 solved_users: 76
-acceptance_rate: 35.849%
-collected_at: 2026-04-17T19:49:19.265120+00:00
+acceptance_rate: "35.849%"
+collected_at: "2026-04-17T19:49:19.265120+00:00"
 ---
 
 ## 문제

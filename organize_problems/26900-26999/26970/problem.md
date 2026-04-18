@@ -1,13 +1,13 @@
 ---
-title: Mountains
-special_judge: false
-time_limit: 5 초
-memory_limit: 1024 MB
+title: "Mountains"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "1024 MB"
 submissions: 178
 accepted: 102
 solved_users: 70
-acceptance_rate: 57.377%
-collected_at: 2026-04-17T17:54:12.388143+00:00
+acceptance_rate: "57.377%"
+collected_at: "2026-04-17T17:54:12.388143+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Странный кузнечик
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Странный кузнечик"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 113
 accepted: 55
 solved_users: 30
-acceptance_rate: 66.667%
-collected_at: 2026-04-17T18:46:33.586038+00:00
+acceptance_rate: "66.667%"
+collected_at: "2026-04-17T18:46:33.586038+00:00"
 ---
 
 ## 문제

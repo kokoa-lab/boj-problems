@@ -1,13 +1,13 @@
 ---
-title: Commuter train
-special_judge: true
-time_limit: 2 초
-memory_limit: 64 MB
+title: "Commuter train"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "64 MB"
 submissions: 2
 accepted: 2
 solved_users: 2
-acceptance_rate: 100.000%
-collected_at: 2026-04-17T12:14:50.275411+00:00
+acceptance_rate: "100.000%"
+collected_at: "2026-04-17T12:14:50.275411+00:00"
 ---
 
 ## 문제

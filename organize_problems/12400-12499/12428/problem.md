@@ -1,13 +1,13 @@
 ---
-title: 박테리아 (Large)
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "박테리아 (Large)"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 94
 accepted: 46
 solved_users: 36
-acceptance_rate: 52.174%
-collected_at: 2026-04-17T12:55:19.633992+00:00
+acceptance_rate: "52.174%"
+collected_at: "2026-04-17T12:55:19.633992+00:00"
 ---
 
 ## 문제

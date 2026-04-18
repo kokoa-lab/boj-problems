@@ -1,13 +1,13 @@
 ---
-title: 문제 할당
-special_judge: false
-time_limit: 5 초
-memory_limit: 128 MB
+title: "문제 할당"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "128 MB"
 submissions: 576
 accepted: 324
 solved_users: 247
-acceptance_rate: 67.486%
-collected_at: 2026-04-17T10:29:06.041141+00:00
+acceptance_rate: "67.486%"
+collected_at: "2026-04-17T10:29:06.041141+00:00"
 ---
 
 ## 문제

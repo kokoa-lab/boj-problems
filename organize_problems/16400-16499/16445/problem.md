@@ -1,13 +1,13 @@
 ---
-title: Desvendando Monty Hall
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Desvendando Monty Hall"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 407
 accepted: 368
 solved_users: 334
-acceptance_rate: 90.515%
-collected_at: 2026-04-17T14:18:03.450520+00:00
+acceptance_rate: "90.515%"
+collected_at: "2026-04-17T14:18:03.450520+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Bookshelf Sorting
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Bookshelf Sorting"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 24
 accepted: 12
 solved_users: 12
-acceptance_rate: 60.000%
-collected_at: 2026-04-17T16:55:52.960800+00:00
+acceptance_rate: "60.000%"
+collected_at: "2026-04-17T16:55:52.960800+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 아침 태권도
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "아침 태권도"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 2256
 accepted: 731
 solved_users: 598
-acceptance_rate: 35.197%
-collected_at: 2026-04-17T18:38:37.426679+00:00
+acceptance_rate: "35.197%"
+collected_at: "2026-04-17T18:38:37.426679+00:00"
 ---
 
 ## 문제

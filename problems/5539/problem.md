@@ -1,13 +1,13 @@
 ---
-title: たのしいカードゲーム (Card Game is Fun)
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "たのしいカードゲーム (Card Game is Fun)"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 565
 accepted: 157
 solved_users: 86
-acceptance_rate: 22.572%
-collected_at: 2026-04-17T11:15:13.356871+00:00
+acceptance_rate: "22.572%"
+collected_at: "2026-04-17T11:15:13.356871+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Cryptographer’s Conundrum
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Cryptographer’s Conundrum"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 381
 accepted: 349
 solved_users: 310
-acceptance_rate: 91.716%
-collected_at: 2026-04-17T12:38:57.658433+00:00
+acceptance_rate: "91.716%"
+collected_at: "2026-04-17T12:38:57.658433+00:00"
 ---
 
 ## 문제

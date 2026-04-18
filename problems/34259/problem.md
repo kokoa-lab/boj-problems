@@ -1,13 +1,13 @@
 ---
-title: 레몬컵 상품 준비하기
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "레몬컵 상품 준비하기"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 166
 accepted: 28
 solved_users: 26
-acceptance_rate: 24.528%
-collected_at: 2026-04-17T20:34:08.324604+00:00
+acceptance_rate: "24.528%"
+collected_at: "2026-04-17T20:34:08.324604+00:00"
 ---
 
 ## 문제

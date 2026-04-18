@@ -1,13 +1,13 @@
 ---
-title: 오르막
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "오르막"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 4057
 accepted: 2455
 solved_users: 2114
-acceptance_rate: 61.471%
-collected_at: 2026-04-17T13:45:12.445652+00:00
+acceptance_rate: "61.471%"
+collected_at: "2026-04-17T13:45:12.445652+00:00"
 ---
 
 ## 문제

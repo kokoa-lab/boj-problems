@@ -1,13 +1,13 @@
 ---
-title: 반복
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "반복"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 2125
 accepted: 1253
 solved_users: 1123
-acceptance_rate: 60.279%
-collected_at: 2026-04-17T15:23:08.782984+00:00
+acceptance_rate: "60.279%"
+collected_at: "2026-04-17T15:23:08.782984+00:00"
 ---
 
 ## 문제

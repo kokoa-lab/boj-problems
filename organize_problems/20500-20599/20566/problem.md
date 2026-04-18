@@ -1,13 +1,13 @@
 ---
-title: Serious Business
-special_judge: false
-time_limit: 3 초
-memory_limit: 1024 MB
+title: "Serious Business"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "1024 MB"
 submissions: 18
 accepted: 8
 solved_users: 7
-acceptance_rate: 53.846%
-collected_at: 2026-04-17T15:38:07.221165+00:00
+acceptance_rate: "53.846%"
+collected_at: "2026-04-17T15:38:07.221165+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Crawling
-special_judge: false
-time_limit: 1 초
-memory_limit: 2048 MB
+title: "Crawling"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "2048 MB"
 submissions: 176
 accepted: 147
 solved_users: 133
-acceptance_rate: 86.928%
-collected_at: 2026-04-17T20:18:32.397003+00:00
+acceptance_rate: "86.928%"
+collected_at: "2026-04-17T20:18:32.397003+00:00"
 ---
 
 ## 문제

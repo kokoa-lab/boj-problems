@@ -1,13 +1,13 @@
 ---
-title: 음악 추천
-special_judge: false
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "음악 추천"
+special_judge: "false"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 1849
 accepted: 352
 solved_users: 219
-acceptance_rate: 17.819%
-collected_at: 2026-04-17T14:09:12.816136+00:00
+acceptance_rate: "17.819%"
+collected_at: "2026-04-17T14:09:12.816136+00:00"
 ---
 
 ## 문제

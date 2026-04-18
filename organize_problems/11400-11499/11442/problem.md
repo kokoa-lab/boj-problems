@@ -1,13 +1,13 @@
 ---
-title: 홀수번째 피보나치 수의 합
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "홀수번째 피보나치 수의 합"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 2013
 accepted: 1259
 solved_users: 1169
-acceptance_rate: 68.523%
-collected_at: 2026-04-17T12:40:49.042188+00:00
+acceptance_rate: "68.523%"
+collected_at: "2026-04-17T12:40:49.042188+00:00"
 ---
 
 ## 문제

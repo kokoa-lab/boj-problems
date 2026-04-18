@@ -1,13 +1,13 @@
 ---
-title: Enchanted Mirror
-special_judge: false
-time_limit: 3 초
-memory_limit: 256 MB
+title: "Enchanted Mirror"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "256 MB"
 submissions: 230
 accepted: 84
 solved_users: 68
-acceptance_rate: 39.535%
-collected_at: 2026-04-17T10:49:55.725357+00:00
+acceptance_rate: "39.535%"
+collected_at: "2026-04-17T10:49:55.725357+00:00"
 ---
 
 ## 문제

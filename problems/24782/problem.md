@@ -1,13 +1,13 @@
 ---
-title: Coloring Graphs
-special_judge: false
-time_limit: 6 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Coloring Graphs"
+special_judge: "false"
+time_limit: "6 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 73
 accepted: 30
 solved_users: 23
-acceptance_rate: 40.351%
-collected_at: 2026-04-17T17:14:55.135271+00:00
+acceptance_rate: "40.351%"
+collected_at: "2026-04-17T17:14:55.135271+00:00"
 ---
 
 ## 문제

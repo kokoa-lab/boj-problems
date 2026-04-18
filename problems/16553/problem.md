@@ -1,13 +1,13 @@
 ---
-title: Hedwig’s Ladder
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Hedwig’s Ladder"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 18
 accepted: 11
 solved_users: 8
-acceptance_rate: 57.143%
-collected_at: 2026-04-17T14:19:55.939124+00:00
+acceptance_rate: "57.143%"
+collected_at: "2026-04-17T14:19:55.939124+00:00"
 ---
 
 ## 문제

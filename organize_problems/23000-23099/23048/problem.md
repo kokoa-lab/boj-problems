@@ -1,13 +1,13 @@
 ---
-title: 자연수 색칠하기
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "자연수 색칠하기"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 1735
 accepted: 995
 solved_users: 796
-acceptance_rate: 57.266%
-collected_at: 2026-04-17T16:40:56.411365+00:00
+acceptance_rate: "57.266%"
+collected_at: "2026-04-17T16:40:56.411365+00:00"
 ---
 
 ## 문제

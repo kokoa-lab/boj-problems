@@ -1,13 +1,13 @@
 ---
-title: Planet Distance
-special_judge: false
-time_limit: 20 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Planet Distance"
+special_judge: "false"
+time_limit: "20 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 34
 accepted: 25
 solved_users: 22
-acceptance_rate: 78.571%
-collected_at: 2026-04-17T16:59:19.855231+00:00
+acceptance_rate: "78.571%"
+collected_at: "2026-04-17T16:59:19.855231+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 정사각형의 개수
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "정사각형의 개수"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 504
 accepted: 276
 solved_users: 230
-acceptance_rate: 56.931%
-collected_at: 2026-04-17T10:31:01.383908+00:00
+acceptance_rate: "56.931%"
+collected_at: "2026-04-17T10:31:01.383908+00:00"
 ---
 
 ## 문제

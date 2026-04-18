@@ -1,13 +1,13 @@
 ---
-title: 객실 배치
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "객실 배치"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 564
 accepted: 267
 solved_users: 229
-acceptance_rate: 54.137%
-collected_at: 2026-04-17T15:23:54.310279+00:00
+acceptance_rate: "54.137%"
+collected_at: "2026-04-17T15:23:54.310279+00:00"
 ---
 
 ## 문제

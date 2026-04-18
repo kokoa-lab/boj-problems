@@ -1,13 +1,13 @@
 ---
-title: RBY팡!
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "RBY팡!"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 1253
 accepted: 409
 solved_users: 294
-acceptance_rate: 31.613%
-collected_at: 2026-04-17T11:15:40.423732+00:00
+acceptance_rate: "31.613%"
+collected_at: "2026-04-17T11:15:40.423732+00:00"
 ---
 
 ## 문제

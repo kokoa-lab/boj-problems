@@ -1,13 +1,13 @@
 ---
-title: Escape Room
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Escape Room"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 506
 accepted: 144
 solved_users: 95
-acceptance_rate: 26.611%
-collected_at: 2026-04-17T15:24:45.942907+00:00
+acceptance_rate: "26.611%"
+collected_at: "2026-04-17T15:24:45.942907+00:00"
 ---
 
 ## 문제

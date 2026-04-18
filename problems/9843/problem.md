@@ -1,13 +1,13 @@
 ---
-title: LVM
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "LVM"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 231
 accepted: 191
 solved_users: 174
-acceptance_rate: 84.058%
-collected_at: 2026-04-17T12:15:24.176030+00:00
+acceptance_rate: "84.058%"
+collected_at: "2026-04-17T12:15:24.176030+00:00"
 ---
 
 ## 문제

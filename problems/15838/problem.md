@@ -1,13 +1,13 @@
 ---
-title: Wak Sani Satay
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Wak Sani Satay"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 229
 accepted: 189
 solved_users: 161
-acceptance_rate: 83.420%
-collected_at: 2026-04-17T14:07:26.252072+00:00
+acceptance_rate: "83.420%"
+collected_at: "2026-04-17T14:07:26.252072+00:00"
 ---
 
 ## 문제

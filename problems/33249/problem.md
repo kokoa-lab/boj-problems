@@ -1,13 +1,13 @@
 ---
-title: Circus Tent
-special_judge: true
-time_limit: 1 초
-memory_limit: 2048 MB
+title: "Circus Tent"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "2048 MB"
 submissions: 293
 accepted: 208
 solved_users: 168
-acceptance_rate: 74.667%
-collected_at: 2026-04-17T20:12:07.830536+00:00
+acceptance_rate: "74.667%"
+collected_at: "2026-04-17T20:12:07.830536+00:00"
 ---
 
 ## 문제

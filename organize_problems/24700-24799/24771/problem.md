@@ -1,13 +1,13 @@
 ---
-title: Un-bear-able Zoo
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Un-bear-able Zoo"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 119
 accepted: 99
 solved_users: 79
-acceptance_rate: 79.798%
-collected_at: 2026-04-17T17:14:41.818501+00:00
+acceptance_rate: "79.798%"
+collected_at: "2026-04-17T17:14:41.818501+00:00"
 ---
 
 ## 문제

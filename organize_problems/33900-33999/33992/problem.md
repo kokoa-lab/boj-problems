@@ -1,13 +1,13 @@
 ---
-title: 사막 탐험
-special_judge: true
-time_limit: 1 초
-memory_limit: 512 MB
+title: "사막 탐험"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 286
 accepted: 146
 solved_users: 135
-acceptance_rate: 52.529%
-collected_at: 2026-04-17T20:28:12.028676+00:00
+acceptance_rate: "52.529%"
+collected_at: "2026-04-17T20:28:12.028676+00:00"
 ---
 
 ## 문제

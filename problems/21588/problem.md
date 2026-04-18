@@ -1,13 +1,13 @@
 ---
-title: Circle of Friends
-special_judge: false
-time_limit: 7 초
-memory_limit: 1024 MB
+title: "Circle of Friends"
+special_judge: "false"
+time_limit: "7 초"
+memory_limit: "1024 MB"
 submissions: 69
 accepted: 20
 solved_users: 17
-acceptance_rate: 26.984%
-collected_at: 2026-04-17T16:00:49.063627+00:00
+acceptance_rate: "26.984%"
+collected_at: "2026-04-17T16:00:49.063627+00:00"
 ---
 
 ## 문제

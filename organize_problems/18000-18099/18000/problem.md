@@ -1,13 +1,13 @@
 ---
-title: One of Each
-special_judge: false
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "One of Each"
+special_judge: "false"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 195
 accepted: 81
 solved_users: 72
-acceptance_rate: 49.315%
-collected_at: 2026-04-17T14:52:05.325546+00:00
+acceptance_rate: "49.315%"
+collected_at: "2026-04-17T14:52:05.325546+00:00"
 ---
 
 ## 문제

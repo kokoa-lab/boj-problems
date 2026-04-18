@@ -1,13 +1,13 @@
 ---
-title: 2021은 무엇이 특별할까?
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "2021은 무엇이 특별할까?"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 4308
 accepted: 2418
 solved_users: 2179
-acceptance_rate: 56.276%
-collected_at: 2026-04-17T17:01:56.665158+00:00
+acceptance_rate: "56.276%"
+collected_at: "2026-04-17T17:01:56.665158+00:00"
 ---
 
 ## 문제

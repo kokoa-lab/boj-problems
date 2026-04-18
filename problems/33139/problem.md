@@ -1,13 +1,13 @@
 ---
-title: Evereth Expedition
-special_judge: true
-time_limit: 0.5 초 (추가 시간 없음)
-memory_limit: 2048 MB
+title: "Evereth Expedition"
+special_judge: "true"
+time_limit: "0.5 초 (추가 시간 없음)"
+memory_limit: "2048 MB"
 submissions: 32
 accepted: 16
 solved_users: 16
-acceptance_rate: 51.613%
-collected_at: 2026-04-17T20:10:04.187370+00:00
+acceptance_rate: "51.613%"
+collected_at: "2026-04-17T20:10:04.187370+00:00"
 ---
 
 ## 문제

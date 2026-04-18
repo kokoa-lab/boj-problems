@@ -1,13 +1,13 @@
 ---
-title: Trzy drogi
-special_judge: false
-time_limit: 8 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Trzy drogi"
+special_judge: "false"
+time_limit: "8 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 195
 accepted: 9
 solved_users: 6
-acceptance_rate: 27.273%
-collected_at: 2026-04-17T17:49:55.716248+00:00
+acceptance_rate: "27.273%"
+collected_at: "2026-04-17T17:49:55.716248+00:00"
 ---
 
 ## 문제

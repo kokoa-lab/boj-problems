@@ -1,13 +1,13 @@
 ---
-title: Average Rank
-special_judge: true
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Average Rank"
+special_judge: "true"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 99
 accepted: 53
 solved_users: 44
-acceptance_rate: 69.841%
-collected_at: 2026-04-17T14:55:16.965649+00:00
+acceptance_rate: "69.841%"
+collected_at: "2026-04-17T14:55:16.965649+00:00"
 ---
 
 ## 문제

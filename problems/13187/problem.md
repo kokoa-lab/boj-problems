@@ -1,13 +1,13 @@
 ---
-title: 흑백
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "흑백"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 32
 accepted: 26
 solved_users: 23
-acceptance_rate: 82.143%
-collected_at: 2026-04-17T13:09:04.573362+00:00
+acceptance_rate: "82.143%"
+collected_at: "2026-04-17T13:09:04.573362+00:00"
 ---
 
 ## 문제

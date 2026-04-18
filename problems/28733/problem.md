@@ -1,13 +1,13 @@
 ---
-title: Убийственная математика
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Убийственная математика"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 37
 accepted: 21
 solved_users: 14
-acceptance_rate: 51.852%
-collected_at: 2026-04-17T18:31:29.823585+00:00
+acceptance_rate: "51.852%"
+collected_at: "2026-04-17T18:31:29.823585+00:00"
 ---
 
 ## 문제

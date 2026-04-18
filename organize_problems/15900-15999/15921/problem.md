@@ -1,13 +1,13 @@
 ---
-title: 수찬은 마린보이야!!
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "수찬은 마린보이야!!"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 4793
 accepted: 2668
 solved_users: 2313
-acceptance_rate: 56.360%
-collected_at: 2026-04-17T14:08:41.214998+00:00
+acceptance_rate: "56.360%"
+collected_at: "2026-04-17T14:08:41.214998+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: International Dates
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "International Dates"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 354
 accepted: 285
 solved_users: 264
-acceptance_rate: 81.231%
-collected_at: 2026-04-17T19:33:23.180727+00:00
+acceptance_rate: "81.231%"
+collected_at: "2026-04-17T19:33:23.180727+00:00"
 ---
 
 ## 문제

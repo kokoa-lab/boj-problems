@@ -1,13 +1,13 @@
 ---
-title: Walk
-special_judge: false
-time_limit: 5 초
-memory_limit: 256 MB
+title: "Walk"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "256 MB"
 submissions: 238
 accepted: 47
 solved_users: 20
-acceptance_rate: 15.504%
-collected_at: 2026-04-17T11:57:36.486512+00:00
+acceptance_rate: "15.504%"
+collected_at: "2026-04-17T11:57:36.486512+00:00"
 ---
 
 ## 문제

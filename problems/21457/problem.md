@@ -1,13 +1,13 @@
 ---
-title: Шкафы
-special_judge: true
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Шкафы"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 12
 accepted: 7
 solved_users: 7
-acceptance_rate: 63.636%
-collected_at: 2026-04-17T15:58:31.702204+00:00
+acceptance_rate: "63.636%"
+collected_at: "2026-04-17T15:58:31.702204+00:00"
 ---
 
 ## 문제

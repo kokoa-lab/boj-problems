@@ -1,13 +1,13 @@
 ---
-title: Most distant point from the stations
-special_judge: true
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Most distant point from the stations"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 101
 accepted: 28
 solved_users: 19
-acceptance_rate: 26.761%
-collected_at: 2026-04-17T17:46:15.034625+00:00
+acceptance_rate: "26.761%"
+collected_at: "2026-04-17T17:46:15.034625+00:00"
 ---
 
 ## 문제

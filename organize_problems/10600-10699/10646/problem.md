@@ -1,13 +1,13 @@
 ---
-title: ZGODAN
-special_judge: false
-time_limit: 1 초
-memory_limit: 32 MB
+title: "ZGODAN"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "32 MB"
 submissions: 62
 accepted: 32
 solved_users: 28
-acceptance_rate: 52.830%
-collected_at: 2026-04-17T12:26:50.051776+00:00
+acceptance_rate: "52.830%"
+collected_at: "2026-04-17T12:26:50.051776+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Coronavirus Trend
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Coronavirus Trend"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 281
 accepted: 119
 solved_users: 101
-acceptance_rate: 45.291%
-collected_at: 2026-04-17T15:30:50.143022+00:00
+acceptance_rate: "45.291%"
+collected_at: "2026-04-17T15:30:50.143022+00:00"
 ---
 
 ## 문제

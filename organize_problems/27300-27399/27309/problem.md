@@ -1,13 +1,13 @@
 ---
-title: 재우의 F를 막아라
-special_judge: false
-time_limit: 5 초
-memory_limit: 1024 MB
+title: "재우의 F를 막아라"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "1024 MB"
 submissions: 108
 accepted: 40
 solved_users: 18
-acceptance_rate: 28.125%
-collected_at: 2026-04-17T18:00:31.713737+00:00
+acceptance_rate: "28.125%"
+collected_at: "2026-04-17T18:00:31.713737+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Linas ir mandarinai
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Linas ir mandarinai"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 91
 accepted: 71
 solved_users: 41
-acceptance_rate: 75.926%
-collected_at: 2026-04-17T19:03:42.232337+00:00
+acceptance_rate: "75.926%"
+collected_at: "2026-04-17T19:03:42.232337+00:00"
 ---
 
 ## 문제

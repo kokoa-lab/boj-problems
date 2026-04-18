@@ -1,13 +1,13 @@
 ---
-title: 비교 연산자
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "비교 연산자"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 4164
 accepted: 2500
 solved_users: 2183
-acceptance_rate: 61.080%
-collected_at: 2026-04-17T11:16:21.020758+00:00
+acceptance_rate: "61.080%"
+collected_at: "2026-04-17T11:16:21.020758+00:00"
 ---
 
 ## 문제

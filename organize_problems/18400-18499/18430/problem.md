@@ -1,13 +1,13 @@
 ---
-title: 무기 공학
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "무기 공학"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 3875
 accepted: 1955
 solved_users: 1457
-acceptance_rate: 49.474%
-collected_at: 2026-04-17T15:04:23.086035+00:00
+acceptance_rate: "49.474%"
+collected_at: "2026-04-17T15:04:23.086035+00:00"
 ---
 
 ## 문제

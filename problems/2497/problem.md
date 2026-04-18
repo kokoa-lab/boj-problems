@@ -1,13 +1,13 @@
 ---
-title: 횡단도로
-special_judge: true
-time_limit: 1 초
-memory_limit: 128 MB
+title: "횡단도로"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 98
 accepted: 48
 solved_users: 44
-acceptance_rate: 58.667%
-collected_at: 2026-04-17T10:42:08.036476+00:00
+acceptance_rate: "58.667%"
+collected_at: "2026-04-17T10:42:08.036476+00:00"
 ---
 
 ## 문제

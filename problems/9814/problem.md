@@ -1,13 +1,13 @@
 ---
-title: Coding of Permutations
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Coding of Permutations"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 47
 accepted: 24
 solved_users: 24
-acceptance_rate: 55.814%
-collected_at: 2026-04-17T12:14:56.287453+00:00
+acceptance_rate: "55.814%"
+collected_at: "2026-04-17T12:14:56.287453+00:00"
 ---
 
 ## 문제

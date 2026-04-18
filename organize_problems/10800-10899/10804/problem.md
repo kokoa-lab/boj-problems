@@ -1,13 +1,13 @@
 ---
-title: 카드 역배치
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "카드 역배치"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 16443
 accepted: 10768
 solved_users: 9054
-acceptance_rate: 66.208%
-collected_at: 2026-04-17T12:29:49.468065+00:00
+acceptance_rate: "66.208%"
+collected_at: "2026-04-17T12:29:49.468065+00:00"
 ---
 
 ## 문제

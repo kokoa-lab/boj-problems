@@ -1,13 +1,13 @@
 ---
-title: Super Mario 169
-special_judge: false
-time_limit: 3 초
-memory_limit: 256 MB
+title: "Super Mario 169"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "256 MB"
 submissions: 49
 accepted: 18
 solved_users: 15
-acceptance_rate: 40.541%
-collected_at: 2026-04-17T12:21:00.754107+00:00
+acceptance_rate: "40.541%"
+collected_at: "2026-04-17T12:21:00.754107+00:00"
 ---
 
 ## 문제

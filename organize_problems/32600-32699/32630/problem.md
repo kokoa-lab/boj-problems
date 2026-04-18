@@ -1,13 +1,13 @@
 ---
-title: $A_i \times A_j$
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "$A_i \\times A_j$"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 677
 accepted: 302
 solved_users: 265
-acceptance_rate: 43.657%
-collected_at: 2026-04-17T19:57:54.830682+00:00
+acceptance_rate: "43.657%"
+collected_at: "2026-04-17T19:57:54.830682+00:00"
 ---
 
 ## 문제

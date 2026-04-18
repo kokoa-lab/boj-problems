@@ -1,13 +1,13 @@
 ---
-title: 자동 완성
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "자동 완성"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 74
 accepted: 28
 solved_users: 25
-acceptance_rate: 51.020%
-collected_at: 2026-04-17T20:10:22.771311+00:00
+acceptance_rate: "51.020%"
+collected_at: "2026-04-17T20:10:22.771311+00:00"
 ---
 
 ## 문제

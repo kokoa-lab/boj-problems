@@ -1,13 +1,13 @@
 ---
-title: 쿼드트리
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "쿼드트리"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 64534
 accepted: 40734
 solved_users: 30721
-acceptance_rate: 62.763%
-collected_at: 2026-04-17T10:36:48.282128+00:00
+acceptance_rate: "62.763%"
+collected_at: "2026-04-17T10:36:48.282128+00:00"
 ---
 
 ## 문제

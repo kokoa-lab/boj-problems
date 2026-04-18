@@ -1,13 +1,13 @@
 ---
-title: <<Исключающее или>> наносит ответный удар
-special_judge: true
-time_limit: 2 초
-memory_limit: 512 MB
+title: "<<Исключающее или>> наносит ответный удар"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 18
 accepted: 11
 solved_users: 10
-acceptance_rate: 62.500%
-collected_at: 2026-04-17T15:28:37.867734+00:00
+acceptance_rate: "62.500%"
+collected_at: "2026-04-17T15:28:37.867734+00:00"
 ---
 
 ## 문제

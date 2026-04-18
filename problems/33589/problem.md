@@ -1,13 +1,13 @@
 ---
-title: Funny or Scary?
-special_judge: true
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 2048 MB
+title: "Funny or Scary?"
+special_judge: "true"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "2048 MB"
 submissions: 27
 accepted: 12
 solved_users: 12
-acceptance_rate: 60.000%
-collected_at: 2026-04-17T20:19:31.376113+00:00
+acceptance_rate: "60.000%"
+collected_at: "2026-04-17T20:19:31.376113+00:00"
 ---
 
 ## 문제

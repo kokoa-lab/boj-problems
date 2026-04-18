@@ -1,13 +1,13 @@
 ---
-title: Mushroom Monster (Large)
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Mushroom Monster (Large)"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 88
 accepted: 73
 solved_users: 70
-acceptance_rate: 82.353%
-collected_at: 2026-04-17T12:51:12.514012+00:00
+acceptance_rate: "82.353%"
+collected_at: "2026-04-17T12:51:12.514012+00:00"
 ---
 
 ## 문제

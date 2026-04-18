@@ -1,13 +1,13 @@
 ---
-title: Feeding Time
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Feeding Time"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 311
 accepted: 224
 solved_users: 195
-acceptance_rate: 73.308%
-collected_at: 2026-04-17T11:19:32.669489+00:00
+acceptance_rate: "73.308%"
+collected_at: "2026-04-17T11:19:32.669489+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: PNUPC에 한 번도 빠지지 않고 출연한 산지니가 새삼 대단하다고 느껴지네
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "PNUPC에 한 번도 빠지지 않고 출연한 산지니가 새삼 대단하다고 느껴지네"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 837
 accepted: 692
 solved_users: 626
-acceptance_rate: 82.804%
-collected_at: 2026-04-17T20:24:42.633487+00:00
+acceptance_rate: "82.804%"
+collected_at: "2026-04-17T20:24:42.633487+00:00"
 ---
 
 ## 문제

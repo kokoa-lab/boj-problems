@@ -1,13 +1,13 @@
 ---
-title: 출석체크
-special_judge: false
-time_limit: 0.1 초
-memory_limit: 1024 MB
+title: "출석체크"
+special_judge: "false"
+time_limit: "0.1 초"
+memory_limit: "1024 MB"
 submissions: 4565
 accepted: 1414
 solved_users: 1075
-acceptance_rate: 29.986%
-collected_at: 2026-04-17T15:36:22.418532+00:00
+acceptance_rate: "29.986%"
+collected_at: "2026-04-17T15:36:22.418532+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: /gg
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "/gg"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 1379
 accepted: 782
 solved_users: 692
-acceptance_rate: 57.860%
-collected_at: 2026-04-17T20:29:07.262571+00:00
+acceptance_rate: "57.860%"
+collected_at: "2026-04-17T20:29:07.262571+00:00"
 ---
 
 ## 문제

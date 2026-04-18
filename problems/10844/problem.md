@@ -1,13 +1,13 @@
 ---
-title: 쉬운 계단 수
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "쉬운 계단 수"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 178104
 accepted: 59169
 solved_users: 43479
-acceptance_rate: 31.703%
-collected_at: 2026-04-17T12:30:20.453882+00:00
+acceptance_rate: "31.703%"
+collected_at: "2026-04-17T12:30:20.453882+00:00"
 ---
 
 ## 문제

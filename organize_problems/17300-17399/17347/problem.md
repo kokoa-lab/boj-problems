@@ -1,13 +1,13 @@
 ---
-title: Text Editor
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "Text Editor"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 176
 accepted: 74
 solved_users: 65
-acceptance_rate: 47.101%
-collected_at: 2026-04-17T14:37:30.315740+00:00
+acceptance_rate: "47.101%"
+collected_at: "2026-04-17T14:37:30.315740+00:00"
 ---
 
 ## 문제

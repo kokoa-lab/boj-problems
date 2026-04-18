@@ -1,13 +1,13 @@
 ---
-title: Cats or Dogs
-special_judge: false
-time_limit: 3 초
-memory_limit: 512 MB
+title: "Cats or Dogs"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "512 MB"
 submissions: 187
 accepted: 85
 solved_users: 46
-acceptance_rate: 36.800%
-collected_at: 2026-04-17T14:24:14.279247+00:00
+acceptance_rate: "36.800%"
+collected_at: "2026-04-17T14:24:14.279247+00:00"
 ---
 
 ## 문제

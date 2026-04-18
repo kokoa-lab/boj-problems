@@ -1,13 +1,13 @@
 ---
-title: Disastrous Doubling
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Disastrous Doubling"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 620
 accepted: 187
 solved_users: 148
-acceptance_rate: 28.850%
-collected_at: 2026-04-17T13:47:49.258384+00:00
+acceptance_rate: "28.850%"
+collected_at: "2026-04-17T13:47:49.258384+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: King of Hot Pot
-special_judge: false
-time_limit: 4 초
-memory_limit: 512 MB
+title: "King of Hot Pot"
+special_judge: "false"
+time_limit: "4 초"
+memory_limit: "512 MB"
 submissions: 143
 accepted: 6
 solved_users: 5
-acceptance_rate: 4.065%
-collected_at: 2026-04-17T15:38:56.500767+00:00
+acceptance_rate: "4.065%"
+collected_at: "2026-04-17T15:38:56.500767+00:00"
 ---
 
 ## 문제

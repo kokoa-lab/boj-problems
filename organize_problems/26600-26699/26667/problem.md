@@ -1,13 +1,13 @@
 ---
-title: Szprotki i szczupaki
-special_judge: false
-time_limit: 20 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Szprotki i szczupaki"
+special_judge: "false"
+time_limit: "20 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 3
 accepted: 1
 solved_users: 1
-acceptance_rate: 33.333%
-collected_at: 2026-04-17T17:49:33.035870+00:00
+acceptance_rate: "33.333%"
+collected_at: "2026-04-17T17:49:33.035870+00:00"
 ---
 
 ## 문제

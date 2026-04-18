@@ -1,13 +1,13 @@
 ---
-title: 운동회
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "운동회"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 1454
 accepted: 478
 solved_users: 432
-acceptance_rate: 38.919%
-collected_at: 2026-04-17T17:26:35.105064+00:00
+acceptance_rate: "38.919%"
+collected_at: "2026-04-17T17:26:35.105064+00:00"
 ---
 
 ## 문제

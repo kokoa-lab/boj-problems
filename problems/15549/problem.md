@@ -1,13 +1,13 @@
 ---
-title: if
-special_judge: true
-time_limit: 2 초
-memory_limit: 512 MB
+title: "if"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 3023
 accepted: 1546
 solved_users: 1460
-acceptance_rate: 53.033%
-collected_at: 2026-04-17T14:01:22.243648+00:00
+acceptance_rate: "53.033%"
+collected_at: "2026-04-17T14:01:22.243648+00:00"
 ---
 
 ## 문제

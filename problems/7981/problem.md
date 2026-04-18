@@ -1,13 +1,13 @@
 ---
-title: 장비를 정지합니다
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "장비를 정지합니다"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 351
 accepted: 72
 solved_users: 53
-acceptance_rate: 28.962%
-collected_at: 2026-04-17T11:54:52.029503+00:00
+acceptance_rate: "28.962%"
+collected_at: "2026-04-17T11:54:52.029503+00:00"
 ---
 
 ## 문제

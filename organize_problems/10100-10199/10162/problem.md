@@ -1,13 +1,13 @@
 ---
-title: 전자레인지
-special_judge: false
-time_limit: 1 초
-memory_limit: 64 MB
+title: "전자레인지"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "64 MB"
 submissions: 46168
 accepted: 28418
 solved_users: 24261
-acceptance_rate: 62.163%
-collected_at: 2026-04-17T12:19:48.289375+00:00
+acceptance_rate: "62.163%"
+collected_at: "2026-04-17T12:19:48.289375+00:00"
 ---
 
 ## 문제

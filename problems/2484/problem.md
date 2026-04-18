@@ -1,13 +1,13 @@
 ---
-title: 주사위 네개
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "주사위 네개"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 10432
 accepted: 4183
 solved_users: 3617
-acceptance_rate: 41.733%
-collected_at: 2026-04-17T10:42:01.274259+00:00
+acceptance_rate: "41.733%"
+collected_at: "2026-04-17T10:42:01.274259+00:00"
 ---
 
 ## 문제

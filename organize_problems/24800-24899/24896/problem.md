@@ -1,13 +1,13 @@
 ---
-title: 르블랑의 트리 순회
-special_judge: false
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "르블랑의 트리 순회"
+special_judge: "false"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 477
 accepted: 118
 solved_users: 60
-acceptance_rate: 17.094%
-collected_at: 2026-04-17T17:16:50.296012+00:00
+acceptance_rate: "17.094%"
+collected_at: "2026-04-17T17:16:50.296012+00:00"
 ---
 
 ## 문제

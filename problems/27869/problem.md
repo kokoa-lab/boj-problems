@@ -1,13 +1,13 @@
 ---
-title: aFan Event Planning
-special_judge: false
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "aFan Event Planning"
+special_judge: "false"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 530
 accepted: 128
 solved_users: 107
-acceptance_rate: 31.287%
-collected_at: 2026-04-17T18:13:15.552918+00:00
+acceptance_rate: "31.287%"
+collected_at: "2026-04-17T18:13:15.552918+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 룩 vs 폰
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "룩 vs 폰"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 346
 accepted: 97
 solved_users: 78
-acceptance_rate: 26.174%
-collected_at: 2026-04-17T20:53:07.195232+00:00
+acceptance_rate: "26.174%"
+collected_at: "2026-04-17T20:53:07.195232+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Wieża 2
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Wieża 2"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 84
 accepted: 39
 solved_users: 21
-acceptance_rate: 47.727%
-collected_at: 2026-04-17T12:02:46.851859+00:00
+acceptance_rate: "47.727%"
+collected_at: "2026-04-17T12:02:46.851859+00:00"
 ---
 
 ## 문제

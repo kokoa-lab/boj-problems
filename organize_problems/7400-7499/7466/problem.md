@@ -1,13 +1,13 @@
 ---
-title: Honey and Milk Land
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Honey and Milk Land"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 391
 accepted: 170
 solved_users: 140
-acceptance_rate: 44.586%
-collected_at: 2026-04-17T11:49:39.110941+00:00
+acceptance_rate: "44.586%"
+collected_at: "2026-04-17T11:49:39.110941+00:00"
 ---
 
 ## 문제

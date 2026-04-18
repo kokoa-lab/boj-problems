@@ -1,13 +1,13 @@
 ---
-title: 방탈출
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "방탈출"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 1881
 accepted: 907
 solved_users: 739
-acceptance_rate: 49.365%
-collected_at: 2026-04-17T16:46:43.716962+00:00
+acceptance_rate: "49.365%"
+collected_at: "2026-04-17T16:46:43.716962+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 다솜이의 신발가게
-special_judge: true
-time_limit: 2 초
-memory_limit: 128 MB
+title: "다솜이의 신발가게"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 610
 accepted: 132
 solved_users: 73
-acceptance_rate: 23.548%
-collected_at: 2026-04-17T10:32:04.905384+00:00
+acceptance_rate: "23.548%"
+collected_at: "2026-04-17T10:32:04.905384+00:00"
 ---
 
 ## 문제

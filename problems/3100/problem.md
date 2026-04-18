@@ -1,13 +1,13 @@
 ---
-title: 국기 인식
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "국기 인식"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 576
 accepted: 212
 solved_users: 179
-acceptance_rate: 40.225%
-collected_at: 2026-04-17T10:46:41.381370+00:00
+acceptance_rate: "40.225%"
+collected_at: "2026-04-17T10:46:41.381370+00:00"
 ---
 
 ## 문제

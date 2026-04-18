@@ -1,13 +1,13 @@
 ---
-title: Remove the Prime
-special_judge: false
-time_limit: 6 초
-memory_limit: 256 MB
+title: "Remove the Prime"
+special_judge: "false"
+time_limit: "6 초"
+memory_limit: "256 MB"
 submissions: 905
 accepted: 169
 solved_users: 97
-acceptance_rate: 14.543%
-collected_at: 2026-04-17T15:47:26.314185+00:00
+acceptance_rate: "14.543%"
+collected_at: "2026-04-17T15:47:26.314185+00:00"
 ---
 
 ## 문제

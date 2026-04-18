@@ -1,13 +1,13 @@
 ---
-title: LED
-special_judge: false
-time_limit: 1.3 초
-memory_limit: 512 MB
+title: "LED"
+special_judge: "false"
+time_limit: "1.3 초"
+memory_limit: "512 MB"
 submissions: 932
 accepted: 138
 solved_users: 122
-acceptance_rate: 15.844%
-collected_at: 2026-04-17T14:16:30.683334+00:00
+acceptance_rate: "15.844%"
+collected_at: "2026-04-17T14:16:30.683334+00:00"
 ---
 
 ## 문제

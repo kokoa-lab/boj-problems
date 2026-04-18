@@ -1,13 +1,13 @@
 ---
-title: Sentry Robots
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Sentry Robots"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 32
 accepted: 20
 solved_users: 18
-acceptance_rate: 64.286%
-collected_at: 2026-04-17T10:52:11.696137+00:00
+acceptance_rate: "64.286%"
+collected_at: "2026-04-17T10:52:11.696137+00:00"
 ---
 
 ## 문제

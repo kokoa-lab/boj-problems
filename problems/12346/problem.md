@@ -1,13 +1,13 @@
 ---
-title: Proprietary Problem
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Proprietary Problem"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 1285
 accepted: 144
 solved_users: 122
-acceptance_rate: 28.241%
-collected_at: 2026-04-17T12:54:00.245685+00:00
+acceptance_rate: "28.241%"
+collected_at: "2026-04-17T12:54:00.245685+00:00"
 ---
 
 ## 문제

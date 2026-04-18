@@ -1,13 +1,13 @@
 ---
-title: Backward numbers
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Backward numbers"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 712
 accepted: 539
 solved_users: 489
-acceptance_rate: 76.050%
-collected_at: 2026-04-17T11:34:21.183702+00:00
+acceptance_rate: "76.050%"
+collected_at: "2026-04-17T11:34:21.183702+00:00"
 ---
 
 ## 문제

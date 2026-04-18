@@ -1,13 +1,13 @@
 ---
-title: TAIDADA
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "TAIDADA"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 578
 accepted: 244
 solved_users: 176
-acceptance_rate: 46.316%
-collected_at: 2026-04-17T20:12:31.006394+00:00
+acceptance_rate: "46.316%"
+collected_at: "2026-04-17T20:12:31.006394+00:00"
 ---
 
 ## 문제

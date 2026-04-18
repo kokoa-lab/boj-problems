@@ -1,13 +1,13 @@
 ---
-title: 오픈소스 버그 잡기
-special_judge: false
-time_limit: 4 초
-memory_limit: 256 MB
+title: "오픈소스 버그 잡기"
+special_judge: "false"
+time_limit: "4 초"
+memory_limit: "256 MB"
 submissions: 91
 accepted: 54
 solved_users: 49
-acceptance_rate: 63.636%
-collected_at: 2026-04-17T15:09:29.506758+00:00
+acceptance_rate: "63.636%"
+collected_at: "2026-04-17T15:09:29.506758+00:00"
 ---
 
 ## 문제

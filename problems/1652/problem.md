@@ -1,13 +1,13 @@
 ---
-title: 누울 자리를 찾아라
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "누울 자리를 찾아라"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 24553
 accepted: 10553
 solved_users: 8992
-acceptance_rate: 44.133%
-collected_at: 2026-04-17T10:32:02.573343+00:00
+acceptance_rate: "44.133%"
+collected_at: "2026-04-17T10:32:02.573343+00:00"
 ---
 
 ## 문제

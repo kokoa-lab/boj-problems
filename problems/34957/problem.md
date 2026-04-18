@@ -1,13 +1,13 @@
 ---
-title: 맥스웰의 수수께끼 악마
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "맥스웰의 수수께끼 악마"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 114
 accepted: 35
 solved_users: 34
-acceptance_rate: 36.957%
-collected_at: 2026-04-17T20:52:40.479848+00:00
+acceptance_rate: "36.957%"
+collected_at: "2026-04-17T20:52:40.479848+00:00"
 ---
 
 ## 문제

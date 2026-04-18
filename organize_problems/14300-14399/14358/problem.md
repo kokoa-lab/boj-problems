@@ -1,13 +1,13 @@
 ---
-title: Red Tape Committee (Large)
-special_judge: true
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Red Tape Committee (Large)"
+special_judge: "true"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 55
 accepted: 33
 solved_users: 22
-acceptance_rate: 70.968%
-collected_at: 2026-04-17T13:30:58.934904+00:00
+acceptance_rate: "70.968%"
+collected_at: "2026-04-17T13:30:58.934904+00:00"
 ---
 
 ## 문제

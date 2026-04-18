@@ -1,13 +1,13 @@
 ---
-title: 알고리즘 수업 - 깊이 우선 탐색 4
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "알고리즘 수업 - 깊이 우선 탐색 4"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 2454
 accepted: 1407
 solved_users: 1264
-acceptance_rate: 62.205%
-collected_at: 2026-04-17T17:10:01.175789+00:00
+acceptance_rate: "62.205%"
+collected_at: "2026-04-17T17:10:01.175789+00:00"
 ---
 
 ## 문제

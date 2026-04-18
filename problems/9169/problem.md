@@ -1,13 +1,13 @@
 ---
-title: 나는 9999번 문제를 풀 수 있다
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "나는 9999번 문제를 풀 수 있다"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 535
 accepted: 167
 solved_users: 119
-acceptance_rate: 35.843%
-collected_at: 2026-04-17T12:07:43.685843+00:00
+acceptance_rate: "35.843%"
+collected_at: "2026-04-17T12:07:43.685843+00:00"
 ---
 
 ## 문제

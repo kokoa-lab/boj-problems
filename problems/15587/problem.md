@@ -1,13 +1,13 @@
 ---
-title: Cow at Large (Gold)
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Cow at Large (Gold)"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 393
 accepted: 226
 solved_users: 185
-acceptance_rate: 60.656%
-collected_at: 2026-04-17T14:02:11.488235+00:00
+acceptance_rate: "60.656%"
+collected_at: "2026-04-17T14:02:11.488235+00:00"
 ---
 
 ## 문제

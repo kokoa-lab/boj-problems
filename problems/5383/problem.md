@@ -1,13 +1,13 @@
 ---
-title: 안녕! 난 루피! 장래에 해적왕이 될 사내다!
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "안녕! 난 루피! 장래에 해적왕이 될 사내다!"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 185
 accepted: 42
 solved_users: 28
-acceptance_rate: 24.561%
-collected_at: 2026-04-17T11:13:26.034454+00:00
+acceptance_rate: "24.561%"
+collected_at: "2026-04-17T11:13:26.034454+00:00"
 ---
 
 ## 문제

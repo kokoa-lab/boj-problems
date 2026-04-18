@@ -1,13 +1,13 @@
 ---
-title: 순환 소수
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "순환 소수"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 886
 accepted: 321
 solved_users: 268
-acceptance_rate: 38.231%
-collected_at: 2026-04-17T12:13:45.365062+00:00
+acceptance_rate: "38.231%"
+collected_at: "2026-04-17T12:13:45.365062+00:00"
 ---
 
 ## 문제

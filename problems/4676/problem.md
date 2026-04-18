@@ -1,13 +1,13 @@
 ---
-title: Haiku Review
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Haiku Review"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 82
 accepted: 63
 solved_users: 57
-acceptance_rate: 79.167%
-collected_at: 2026-04-17T11:06:55.715279+00:00
+acceptance_rate: "79.167%"
+collected_at: "2026-04-17T11:06:55.715279+00:00"
 ---
 
 ## 문제

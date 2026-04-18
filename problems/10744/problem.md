@@ -1,13 +1,13 @@
 ---
-title: Cow Hopscotch
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Cow Hopscotch"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 260
 accepted: 94
 solved_users: 62
-acceptance_rate: 32.292%
-collected_at: 2026-04-17T12:28:56.705958+00:00
+acceptance_rate: "32.292%"
+collected_at: "2026-04-17T12:28:56.705958+00:00"
 ---
 
 ## 문제

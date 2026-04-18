@@ -1,13 +1,13 @@
 ---
-title: 라면 끓여 먹자 야호
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "라면 끓여 먹자 야호"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 514
 accepted: 297
 solved_users: 277
-acceptance_rate: 58.193%
-collected_at: 2026-04-17T20:46:00.939413+00:00
+acceptance_rate: "58.193%"
+collected_at: "2026-04-17T20:46:00.939413+00:00"
 ---
 
 ## 문제

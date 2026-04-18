@@ -1,13 +1,13 @@
 ---
-title: 게리맨더링 2
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "게리맨더링 2"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 17298
 accepted: 5905
 solved_users: 3968
-acceptance_rate: 46.682%
-collected_at: 2026-04-17T14:47:00.999521+00:00
+acceptance_rate: "46.682%"
+collected_at: "2026-04-17T14:47:00.999521+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 소수 찾기
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "소수 찾기"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 274515
 accepted: 131937
 solved_users: 105427
-acceptance_rate: 47.716%
-collected_at: 2026-04-17T10:36:34.575302+00:00
+acceptance_rate: "47.716%"
+collected_at: "2026-04-17T10:36:34.575302+00:00"
 ---
 
 ## 문제

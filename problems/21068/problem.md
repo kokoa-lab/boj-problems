@@ -1,13 +1,13 @@
 ---
-title: Interesting Scoring Systems
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Interesting Scoring Systems"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 107
 accepted: 23
 solved_users: 23
-acceptance_rate: 32.394%
-collected_at: 2026-04-17T15:46:52.121846+00:00
+acceptance_rate: "32.394%"
+collected_at: "2026-04-17T15:46:52.121846+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Toilets
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Toilets"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 176
 accepted: 81
 solved_users: 65
-acceptance_rate: 46.763%
-collected_at: 2026-04-17T14:46:00.994333+00:00
+acceptance_rate: "46.763%"
+collected_at: "2026-04-17T14:46:00.994333+00:00"
 ---
 
 ## 문제

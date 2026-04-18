@@ -1,13 +1,13 @@
 ---
-title: Bob in Wonderland
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Bob in Wonderland"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 163
 accepted: 99
 solved_users: 88
-acceptance_rate: 62.857%
-collected_at: 2026-04-17T14:56:45.456122+00:00
+acceptance_rate: "62.857%"
+collected_at: "2026-04-17T14:56:45.456122+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: (False) faces
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "(False) faces"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 190
 accepted: 35
 solved_users: 17
-acceptance_rate: 30.909%
-collected_at: 2026-04-17T11:53:41.527668+00:00
+acceptance_rate: "30.909%"
+collected_at: "2026-04-17T11:53:41.527668+00:00"
 ---
 
 ## 문제

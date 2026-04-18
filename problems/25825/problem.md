@@ -1,13 +1,13 @@
 ---
-title: 빠른 무작위 메시지 전달
-special_judge: false
-time_limit: 3 초
-memory_limit: 512 MB
+title: "빠른 무작위 메시지 전달"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "512 MB"
 submissions: 229
 accepted: 137
 solved_users: 116
-acceptance_rate: 60.104%
-collected_at: 2026-04-17T17:33:51.592707+00:00
+acceptance_rate: "60.104%"
+collected_at: "2026-04-17T17:33:51.592707+00:00"
 ---
 
 ## 문제

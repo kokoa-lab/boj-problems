@@ -1,13 +1,13 @@
 ---
-title: 모양 만들기
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "모양 만들기"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 5624
 accepted: 2206
 solved_users: 1613
-acceptance_rate: 36.684%
-collected_at: 2026-04-17T14:26:20.406444+00:00
+acceptance_rate: "36.684%"
+collected_at: "2026-04-17T14:26:20.406444+00:00"
 ---
 
 ## 문제

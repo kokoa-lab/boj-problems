@@ -1,13 +1,13 @@
 ---
-title: Next in line
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Next in line"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 10597
 accepted: 9271
 solved_users: 8900
-acceptance_rate: 87.927%
-collected_at: 2026-04-17T11:35:26.420290+00:00
+acceptance_rate: "87.927%"
+collected_at: "2026-04-17T11:35:26.420290+00:00"
 ---
 
 ## 문제

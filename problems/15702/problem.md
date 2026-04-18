@@ -1,13 +1,13 @@
 ---
-title: 중간고사 채점
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "중간고사 채점"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 2790
 accepted: 1227
 solved_users: 1083
-acceptance_rate: 45.050%
-collected_at: 2026-04-17T14:04:34.330567+00:00
+acceptance_rate: "45.050%"
+collected_at: "2026-04-17T14:04:34.330567+00:00"
 ---
 
 ## 문제

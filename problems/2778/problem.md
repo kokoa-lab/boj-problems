@@ -1,13 +1,13 @@
 ---
-title: 측량사 지윤
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "측량사 지윤"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 522
 accepted: 153
 solved_users: 123
-acceptance_rate: 33.699%
-collected_at: 2026-04-17T10:44:44.848310+00:00
+acceptance_rate: "33.699%"
+collected_at: "2026-04-17T10:44:44.848310+00:00"
 ---
 
 ## 문제

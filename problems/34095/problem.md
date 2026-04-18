@@ -1,13 +1,13 @@
 ---
-title: 격자 조각 자르기
-special_judge: true
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "격자 조각 자르기"
+special_judge: "true"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 42
 accepted: 12
 solved_users: 12
-acceptance_rate: 54.545%
-collected_at: 2026-04-17T20:30:27.526228+00:00
+acceptance_rate: "54.545%"
+collected_at: "2026-04-17T20:30:27.526228+00:00"
 ---
 
 ## 문제

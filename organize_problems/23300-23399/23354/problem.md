@@ -1,13 +1,13 @@
 ---
-title: 군탈체포조
-special_judge: false
-time_limit: 3 초
-memory_limit: 512 MB
+title: "군탈체포조"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "512 MB"
 submissions: 775
 accepted: 240
 solved_users: 199
-acceptance_rate: 31.688%
-collected_at: 2026-04-17T16:46:49.182306+00:00
+acceptance_rate: "31.688%"
+collected_at: "2026-04-17T16:46:49.182306+00:00"
 ---
 
 ## 문제

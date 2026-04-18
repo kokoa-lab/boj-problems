@@ -1,13 +1,13 @@
 ---
-title: Watch Where You Step
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Watch Where You Step"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 96
 accepted: 33
 solved_users: 24
-acceptance_rate: 37.500%
-collected_at: 2026-04-17T14:25:34.557299+00:00
+acceptance_rate: "37.500%"
+collected_at: "2026-04-17T14:25:34.557299+00:00"
 ---
 
 ## 문제

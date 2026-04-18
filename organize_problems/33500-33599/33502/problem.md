@@ -1,13 +1,13 @@
 ---
-title: Reachable Pairs
-special_judge: false
-time_limit: 2 초
-memory_limit: 2048 MB
+title: "Reachable Pairs"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "2048 MB"
 submissions: 96
 accepted: 44
 solved_users: 38
-acceptance_rate: 44.706%
-collected_at: 2026-04-17T20:17:46.916391+00:00
+acceptance_rate: "44.706%"
+collected_at: "2026-04-17T20:17:46.916391+00:00"
 ---
 
 ## 문제

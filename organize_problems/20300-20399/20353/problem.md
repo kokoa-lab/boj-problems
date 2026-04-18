@@ -1,13 +1,13 @@
 ---
-title: Atrium
-special_judge: true
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Atrium"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 2189
 accepted: 1826
 solved_users: 1727
-acceptance_rate: 84.823%
-collected_at: 2026-04-17T15:35:31.665140+00:00
+acceptance_rate: "84.823%"
+collected_at: "2026-04-17T15:35:31.665140+00:00"
 ---
 
 ## 문제

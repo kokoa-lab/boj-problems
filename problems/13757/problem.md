@@ -1,13 +1,13 @@
 ---
-title: 빼빼로 데이
-special_judge: true
-time_limit: 2 초
-memory_limit: 512 MB
+title: "빼빼로 데이"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 586
 accepted: 469
 solved_users: 272
-acceptance_rate: 86.076%
-collected_at: 2026-04-17T13:18:41.793147+00:00
+acceptance_rate: "86.076%"
+collected_at: "2026-04-17T13:18:41.793147+00:00"
 ---
 
 ## 문제

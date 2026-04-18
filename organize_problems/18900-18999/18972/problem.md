@@ -1,13 +1,13 @@
 ---
-title: Gnutella Chessmaster
-special_judge: false
-time_limit: 3 초
-memory_limit: 512 MB
+title: "Gnutella Chessmaster"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "512 MB"
 submissions: 25
 accepted: 18
 solved_users: 16
-acceptance_rate: 69.565%
-collected_at: 2026-04-17T15:12:02.156629+00:00
+acceptance_rate: "69.565%"
+collected_at: "2026-04-17T15:12:02.156629+00:00"
 ---
 
 ## 문제

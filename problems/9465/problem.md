@@ -1,13 +1,13 @@
 ---
-title: 스티커
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "스티커"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 93299
 accepted: 45259
 solved_users: 32705
-acceptance_rate: 47.876%
-collected_at: 2026-04-17T12:10:10.481084+00:00
+acceptance_rate: "47.876%"
+collected_at: "2026-04-17T12:10:10.481084+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 두쫀쿠 무료 나눔
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "두쫀쿠 무료 나눔"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 93
 accepted: 40
 solved_users: 37
-acceptance_rate: 51.389%
-collected_at: 2026-04-18T09:52:00.895084+00:00
+acceptance_rate: "51.389%"
+collected_at: "2026-04-18T09:52:00.895084+00:00"
 ---
 
 ## 문제

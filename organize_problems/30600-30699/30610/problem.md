@@ -1,13 +1,13 @@
 ---
-title: A-maze-ing Lakes
-special_judge: false
-time_limit: 10 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "A-maze-ing Lakes"
+special_judge: "false"
+time_limit: "10 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 163
 accepted: 114
 solved_users: 103
-acceptance_rate: 69.595%
-collected_at: 2026-04-17T19:10:41.777271+00:00
+acceptance_rate: "69.595%"
+collected_at: "2026-04-17T19:10:41.777271+00:00"
 ---
 
 ## 문제

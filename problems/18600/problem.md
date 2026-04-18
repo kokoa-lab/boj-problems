@@ -1,13 +1,13 @@
 ---
-title: Valentine’s Day
-special_judge: true
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Valentine’s Day"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 129
 accepted: 51
 solved_users: 43
-acceptance_rate: 41.748%
-collected_at: 2026-04-17T15:07:03.926596+00:00
+acceptance_rate: "41.748%"
+collected_at: "2026-04-17T15:07:03.926596+00:00"
 ---
 
 ## 문제

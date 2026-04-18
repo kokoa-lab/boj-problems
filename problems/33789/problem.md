@@ -1,13 +1,13 @@
 ---
-title: Maxwell's Tiles
-special_judge: false
-time_limit: 4 초
-memory_limit: 2048 MB
+title: "Maxwell's Tiles"
+special_judge: "false"
+time_limit: "4 초"
+memory_limit: "2048 MB"
 submissions: 37
 accepted: 22
 solved_users: 18
-acceptance_rate: 54.545%
-collected_at: 2026-04-17T20:23:34.612181+00:00
+acceptance_rate: "54.545%"
+collected_at: "2026-04-17T20:23:34.612181+00:00"
 ---
 
 ## 문제

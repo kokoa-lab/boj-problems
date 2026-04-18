@@ -1,13 +1,13 @@
 ---
-title: 창용이의 시계
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "창용이의 시계"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 4510
 accepted: 1524
 solved_users: 1201
-acceptance_rate: 33.158%
-collected_at: 2026-04-17T13:02:20.497780+00:00
+acceptance_rate: "33.158%"
+collected_at: "2026-04-17T13:02:20.497780+00:00"
 ---
 
 ## 문제

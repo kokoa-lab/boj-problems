@@ -1,13 +1,13 @@
 ---
-title: Time Zones
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Time Zones"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 73
 accepted: 27
 solved_users: 25
-acceptance_rate: 37.313%
-collected_at: 2026-04-18T09:48:16.791199+00:00
+acceptance_rate: "37.313%"
+collected_at: "2026-04-18T09:48:16.791199+00:00"
 ---
 
 ## 문제

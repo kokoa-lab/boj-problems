@@ -1,13 +1,13 @@
 ---
-title: Three-Step Tunnels
-special_judge: true
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Three-Step Tunnels"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 38
 accepted: 13
 solved_users: 12
-acceptance_rate: 35.294%
-collected_at: 2026-04-17T15:07:29.771593+00:00
+acceptance_rate: "35.294%"
+collected_at: "2026-04-17T15:07:29.771593+00:00"
 ---
 
 ## 문제

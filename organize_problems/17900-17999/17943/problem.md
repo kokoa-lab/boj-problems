@@ -1,13 +1,13 @@
 ---
-title: 도미노 예측
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "도미노 예측"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 308
 accepted: 185
 solved_users: 153
-acceptance_rate: 62.449%
-collected_at: 2026-04-17T14:50:38.462136+00:00
+acceptance_rate: "62.449%"
+collected_at: "2026-04-17T14:50:38.462136+00:00"
 ---
 
 ## 문제

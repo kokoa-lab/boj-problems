@@ -1,13 +1,13 @@
 ---
-title: Hogwarts
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Hogwarts"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 35
 accepted: 14
 solved_users: 12
-acceptance_rate: 42.857%
-collected_at: 2026-04-17T14:49:07.166525+00:00
+acceptance_rate: "42.857%"
+collected_at: "2026-04-17T14:49:07.166525+00:00"
 ---
 
 ## 문제

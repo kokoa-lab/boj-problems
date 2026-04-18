@@ -1,13 +1,13 @@
 ---
-title: Job Postings
-special_judge: false
-time_limit: 5 초
-memory_limit: 256 MB
+title: "Job Postings"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "256 MB"
 submissions: 929
 accepted: 352
 solved_users: 212
-acceptance_rate: 33.812%
-collected_at: 2026-04-17T11:46:37.117160+00:00
+acceptance_rate: "33.812%"
+collected_at: "2026-04-17T11:46:37.117160+00:00"
 ---
 
 ## 문제

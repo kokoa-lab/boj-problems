@@ -1,13 +1,13 @@
 ---
-title: 원형 불꽃놀이
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "원형 불꽃놀이"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 289
 accepted: 47
 solved_users: 41
-acceptance_rate: 27.152%
-collected_at: 2026-04-17T16:00:19.488760+00:00
+acceptance_rate: "27.152%"
+collected_at: "2026-04-17T16:00:19.488760+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: skittles
-special_judge: false
-time_limit: 1 초
-memory_limit: 2048 MB
+title: "skittles"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "2048 MB"
 submissions: 21
 accepted: 21
 solved_users: 17
-acceptance_rate: 100.000%
-collected_at: 2026-04-17T20:38:36.903879+00:00
+acceptance_rate: "100.000%"
+collected_at: "2026-04-17T20:38:36.903879+00:00"
 ---
 
 ## 문제

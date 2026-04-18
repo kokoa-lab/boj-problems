@@ -1,13 +1,13 @@
 ---
-title: Gluttonous Goop
-special_judge: false
-time_limit: 3 초
-memory_limit: 512 MB
+title: "Gluttonous Goop"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "512 MB"
 submissions: 233
 accepted: 93
 solved_users: 78
-acceptance_rate: 38.806%
-collected_at: 2026-04-17T14:47:12.492927+00:00
+acceptance_rate: "38.806%"
+collected_at: "2026-04-17T14:47:12.492927+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 꿈
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "꿈"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 362
 accepted: 178
 solved_users: 144
-acceptance_rate: 49.147%
-collected_at: 2026-04-17T20:48:02.345632+00:00
+acceptance_rate: "49.147%"
+collected_at: "2026-04-17T20:48:02.345632+00:00"
 ---
 
 ## 문제

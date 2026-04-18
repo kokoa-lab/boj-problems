@@ -1,13 +1,13 @@
 ---
-title: Fantastic Problem
-special_judge: false
-time_limit: 10 초
-memory_limit: 256 MB
+title: "Fantastic Problem"
+special_judge: "false"
+time_limit: "10 초"
+memory_limit: "256 MB"
 submissions: 56
 accepted: 13
 solved_users: 13
-acceptance_rate: 30.233%
-collected_at: 2026-04-17T12:20:56.051871+00:00
+acceptance_rate: "30.233%"
+collected_at: "2026-04-17T12:20:56.051871+00:00"
 ---
 
 ## 문제

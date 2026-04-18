@@ -1,13 +1,13 @@
 ---
-title: Dependent Events
-special_judge: false
-time_limit: 60 초
-memory_limit: 1024 MB
+title: "Dependent Events"
+special_judge: "false"
+time_limit: "60 초"
+memory_limit: "1024 MB"
 submissions: 50
 accepted: 12
 solved_users: 9
-acceptance_rate: 20.000%
-collected_at: 2026-04-17T16:52:42.230514+00:00
+acceptance_rate: "20.000%"
+collected_at: "2026-04-17T16:52:42.230514+00:00"
 ---
 
 ## 문제

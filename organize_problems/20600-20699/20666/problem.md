@@ -1,13 +1,13 @@
 ---
-title: 인물이와 정수
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "인물이와 정수"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 928
 accepted: 272
 solved_users: 214
-acceptance_rate: 29.847%
-collected_at: 2026-04-17T15:39:38.848986+00:00
+acceptance_rate: "29.847%"
+collected_at: "2026-04-17T15:39:38.848986+00:00"
 ---
 
 ## 문제

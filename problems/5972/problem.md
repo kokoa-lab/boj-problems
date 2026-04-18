@@ -1,13 +1,13 @@
 ---
-title: 택배 배송
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "택배 배송"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 14283
 accepted: 8557
 solved_users: 6797
-acceptance_rate: 59.212%
-collected_at: 2026-04-17T11:18:59.809107+00:00
+acceptance_rate: "59.212%"
+collected_at: "2026-04-17T11:18:59.809107+00:00"
 ---
 
 ## 문제

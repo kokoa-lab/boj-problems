@@ -1,13 +1,13 @@
 ---
-title: 파티가 좋아 파티가 좋아
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "파티가 좋아 파티가 좋아"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 1254
 accepted: 284
 solved_users: 225
-acceptance_rate: 25.253%
-collected_at: 2026-04-17T10:55:15.040136+00:00
+acceptance_rate: "25.253%"
+collected_at: "2026-04-17T10:55:15.040136+00:00"
 ---
 
 ## 문제

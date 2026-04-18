@@ -1,13 +1,13 @@
 ---
-title: 무글 맵스
-special_judge: true
-time_limit: 1 초
-memory_limit: 128 MB
+title: "무글 맵스"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 777
 accepted: 234
 solved_users: 159
-acceptance_rate: 29.390%
-collected_at: 2026-04-17T11:11:12.790889+00:00
+acceptance_rate: "29.390%"
+collected_at: "2026-04-17T11:11:12.790889+00:00"
 ---
 
 ## 문제

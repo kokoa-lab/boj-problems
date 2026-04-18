@@ -1,13 +1,13 @@
 ---
-title: Jimp Numbers
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Jimp Numbers"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 77
 accepted: 32
 solved_users: 18
-acceptance_rate: 41.860%
-collected_at: 2026-04-17T15:06:47.156971+00:00
+acceptance_rate: "41.860%"
+collected_at: "2026-04-17T15:06:47.156971+00:00"
 ---
 
 ## 문제

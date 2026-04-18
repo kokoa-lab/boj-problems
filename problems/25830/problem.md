@@ -1,13 +1,13 @@
 ---
-title: Microwave Mishap
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Microwave Mishap"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 367
 accepted: 272
 solved_users: 228
-acceptance_rate: 78.893%
-collected_at: 2026-04-17T17:33:58.091840+00:00
+acceptance_rate: "78.893%"
+collected_at: "2026-04-17T17:33:58.091840+00:00"
 ---
 
 ## 문제

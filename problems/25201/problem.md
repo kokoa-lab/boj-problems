@@ -1,13 +1,13 @@
 ---
-title: 보드 뒤집기 게임
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "보드 뒤집기 게임"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 314
 accepted: 210
 solved_users: 176
-acceptance_rate: 69.565%
-collected_at: 2026-04-17T17:22:33.066323+00:00
+acceptance_rate: "69.565%"
+collected_at: "2026-04-17T17:22:33.066323+00:00"
 ---
 
 ## 문제

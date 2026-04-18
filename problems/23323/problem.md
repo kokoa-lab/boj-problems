@@ -1,13 +1,13 @@
 ---
-title: 황소 다마고치
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "황소 다마고치"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 1089
 accepted: 510
 solved_users: 415
-acceptance_rate: 46.421%
-collected_at: 2026-04-17T16:46:21.513730+00:00
+acceptance_rate: "46.421%"
+collected_at: "2026-04-17T16:46:21.513730+00:00"
 ---
 
 ## 문제

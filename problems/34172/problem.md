@@ -1,13 +1,13 @@
 ---
-title: 엉멈섯싀 저주 탈출
-special_judge: false
-time_limit: 0.5 초 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "엉멈섯싀 저주 탈출"
+special_judge: "false"
+time_limit: "0.5 초 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 34
 accepted: 15
 solved_users: 13
-acceptance_rate: 40.625%
-collected_at: 2026-04-17T20:32:17.286351+00:00
+acceptance_rate: "40.625%"
+collected_at: "2026-04-17T20:32:17.286351+00:00"
 ---
 
 ## 문제

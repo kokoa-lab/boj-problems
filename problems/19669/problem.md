@@ -1,13 +1,13 @@
 ---
-title: Firefighting
-special_judge: true
-time_limit: 3 초
-memory_limit: 512 MB
+title: "Firefighting"
+special_judge: "true"
+time_limit: "3 초"
+memory_limit: "512 MB"
 submissions: 79
 accepted: 30
 solved_users: 27
-acceptance_rate: 38.028%
-collected_at: 2026-04-17T15:26:13.462839+00:00
+acceptance_rate: "38.028%"
+collected_at: "2026-04-17T15:26:13.462839+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Move Away
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Move Away"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 61
 accepted: 7
 solved_users: 7
-acceptance_rate: 14.894%
-collected_at: 2026-04-17T13:51:41.398212+00:00
+acceptance_rate: "14.894%"
+collected_at: "2026-04-17T13:51:41.398212+00:00"
 ---
 
 ## 문제

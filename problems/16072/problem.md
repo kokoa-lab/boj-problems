@@ -1,13 +1,13 @@
 ---
-title: Kitchen Cable Chaos
-special_judge: true
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Kitchen Cable Chaos"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 79
 accepted: 40
 solved_users: 37
-acceptance_rate: 50.000%
-collected_at: 2026-04-17T14:11:01.878782+00:00
+acceptance_rate: "50.000%"
+collected_at: "2026-04-17T14:11:01.878782+00:00"
 ---
 
 ## 문제

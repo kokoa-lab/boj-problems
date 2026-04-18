@@ -1,13 +1,13 @@
 ---
-title: 최대공약수 기댓값
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "최대공약수 기댓값"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 226
 accepted: 140
 solved_users: 99
-acceptance_rate: 56.897%
-collected_at: 2026-04-17T13:43:31.124033+00:00
+acceptance_rate: "56.897%"
+collected_at: "2026-04-17T13:43:31.124033+00:00"
 ---
 
 ## 문제

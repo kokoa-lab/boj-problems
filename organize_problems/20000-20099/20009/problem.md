@@ -1,13 +1,13 @@
 ---
-title: 형곤이의 소개팅
-special_judge: true
-time_limit: 1 초
-memory_limit: 512 MB
+title: "형곤이의 소개팅"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 375
 accepted: 155
 solved_users: 121
-acceptance_rate: 39.159%
-collected_at: 2026-04-17T15:30:33.393893+00:00
+acceptance_rate: "39.159%"
+collected_at: "2026-04-17T15:30:33.393893+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 컵 쌓기
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "컵 쌓기"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 84
 accepted: 58
 solved_users: 43
-acceptance_rate: 72.881%
-collected_at: 2026-04-17T17:58:48.593181+00:00
+acceptance_rate: "72.881%"
+collected_at: "2026-04-17T17:58:48.593181+00:00"
 ---
 
 ## 문제

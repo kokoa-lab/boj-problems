@@ -1,13 +1,13 @@
 ---
-title: 제3회 IUPC
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "제3회 IUPC"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 350
 accepted: 18
 solved_users: 14
-acceptance_rate: 10.526%
-collected_at: 2026-04-17T13:39:25.826918+00:00
+acceptance_rate: "10.526%"
+collected_at: "2026-04-17T13:39:25.826918+00:00"
 ---
 
 ## 문제

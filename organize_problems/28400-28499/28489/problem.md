@@ -1,13 +1,13 @@
 ---
-title: 2048 게임
-special_judge: false
-time_limit: 15 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "2048 게임"
+special_judge: "false"
+time_limit: "15 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 1181
 accepted: 62
 solved_users: 14
-acceptance_rate: 3.509%
-collected_at: 2026-04-17T18:27:33.331393+00:00
+acceptance_rate: "3.509%"
+collected_at: "2026-04-17T18:27:33.331393+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: JOIOJI
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "JOIOJI"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 131
 accepted: 97
 solved_users: 80
-acceptance_rate: 74.074%
-collected_at: 2026-04-17T14:46:25.187759+00:00
+acceptance_rate: "74.074%"
+collected_at: "2026-04-17T14:46:25.187759+00:00"
 ---
 
 ## 문제

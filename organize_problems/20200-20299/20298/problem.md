@@ -1,13 +1,13 @@
 ---
-title: 파인애플 피자
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "파인애플 피자"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 386
 accepted: 109
 solved_users: 87
-acceptance_rate: 29.592%
-collected_at: 2026-04-17T15:34:25.340857+00:00
+acceptance_rate: "29.592%"
+collected_at: "2026-04-17T15:34:25.340857+00:00"
 ---
 
 ## 문제

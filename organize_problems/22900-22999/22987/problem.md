@@ -1,13 +1,13 @@
 ---
-title: 기지국 업그레이드
-special_judge: true
-time_limit: 3 초 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "기지국 업그레이드"
+special_judge: "true"
+time_limit: "3 초 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 123
 accepted: 52
 solved_users: 35
-acceptance_rate: 39.326%
-collected_at: 2026-04-17T16:39:49.382932+00:00
+acceptance_rate: "39.326%"
+collected_at: "2026-04-17T16:39:49.382932+00:00"
 ---
 
 ## 문제

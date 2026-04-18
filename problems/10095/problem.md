@@ -1,13 +1,13 @@
 ---
-title: Cop and Robber
-special_judge: false
-time_limit: 1.5 초
-memory_limit: 256 MB
+title: "Cop and Robber"
+special_judge: "false"
+time_limit: "1.5 초"
+memory_limit: "256 MB"
 submissions: 24
 accepted: 9
 solved_users: 7
-acceptance_rate: 35.000%
-collected_at: 2026-04-17T12:18:56.857794+00:00
+acceptance_rate: "35.000%"
+collected_at: "2026-04-17T12:18:56.857794+00:00"
 ---
 
 ## 문제

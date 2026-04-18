@@ -1,13 +1,13 @@
 ---
-title: Tower Defense Game
-special_judge: true
-time_limit: 3 초
-memory_limit: 512 MB
+title: "Tower Defense Game"
+special_judge: "true"
+time_limit: "3 초"
+memory_limit: "512 MB"
 submissions: 61
 accepted: 33
 solved_users: 24
-acceptance_rate: 52.174%
-collected_at: 2026-04-17T12:17:43.659383+00:00
+acceptance_rate: "52.174%"
+collected_at: "2026-04-17T12:17:43.659383+00:00"
 ---
 
 ## 문제

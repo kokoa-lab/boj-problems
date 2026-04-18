@@ -1,13 +1,13 @@
 ---
-title: Carbon Dating
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Carbon Dating"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 181
 accepted: 99
 solved_users: 85
-acceptance_rate: 57.432%
-collected_at: 2026-04-17T11:25:09.016699+00:00
+acceptance_rate: "57.432%"
+collected_at: "2026-04-17T11:25:09.016699+00:00"
 ---
 
 ## 문제

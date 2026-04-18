@@ -1,13 +1,13 @@
 ---
-title: 벼룩 시장
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "벼룩 시장"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 497
 accepted: 271
 solved_users: 208
-acceptance_rate: 55.615%
-collected_at: 2026-04-17T13:46:25.402380+00:00
+acceptance_rate: "55.615%"
+collected_at: "2026-04-17T13:46:25.402380+00:00"
 ---
 
 ## 문제

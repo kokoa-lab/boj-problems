@@ -1,13 +1,13 @@
 ---
-title: 컨베이어 벨트 위의 로봇
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "컨베이어 벨트 위의 로봇"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 27565
 accepted: 16853
 solved_users: 11435
-acceptance_rate: 59.480%
-collected_at: 2026-04-17T15:31:01.001420+00:00
+acceptance_rate: "59.480%"
+collected_at: "2026-04-17T15:31:01.001420+00:00"
 ---
 
 ## 문제

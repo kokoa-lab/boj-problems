@@ -1,13 +1,13 @@
 ---
-title: Space Emergency (Large)
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Space Emergency (Large)"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 64
 accepted: 37
 solved_users: 20
-acceptance_rate: 52.632%
-collected_at: 2026-04-17T12:56:18.536634+00:00
+acceptance_rate: "52.632%"
+collected_at: "2026-04-17T12:56:18.536634+00:00"
 ---
 
 ## 문제

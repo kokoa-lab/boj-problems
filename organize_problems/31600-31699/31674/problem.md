@@ -1,13 +1,13 @@
 ---
-title: 특별한 기술력
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "특별한 기술력"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 860
 accepted: 255
 solved_users: 206
-acceptance_rate: 29.812%
-collected_at: 2026-04-17T19:34:05.438565+00:00
+acceptance_rate: "29.812%"
+collected_at: "2026-04-17T19:34:05.438565+00:00"
 ---
 
 ## 문제

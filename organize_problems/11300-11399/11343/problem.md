@@ -1,13 +1,13 @@
 ---
-title: Crushing Confections
-special_judge: true
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Crushing Confections"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 142
 accepted: 93
 solved_users: 83
-acceptance_rate: 66.400%
-collected_at: 2026-04-17T12:39:50.517962+00:00
+acceptance_rate: "66.400%"
+collected_at: "2026-04-17T12:39:50.517962+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Monotone Subsequence
-special_judge: false
-time_limit: 2 초
-memory_limit: 2048 MB
+title: "Monotone Subsequence"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "2048 MB"
 submissions: 63
 accepted: 52
 solved_users: 50
-acceptance_rate: 84.746%
-collected_at: 2026-04-17T20:44:33.796835+00:00
+acceptance_rate: "84.746%"
+collected_at: "2026-04-17T20:44:33.796835+00:00"
 ---
 
 ## 문제

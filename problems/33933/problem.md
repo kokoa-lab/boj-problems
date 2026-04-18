@@ -1,13 +1,13 @@
 ---
-title: 인덕이와 산책
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "인덕이와 산책"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 247
 accepted: 96
 solved_users: 54
-acceptance_rate: 34.839%
-collected_at: 2026-04-17T20:26:36.222476+00:00
+acceptance_rate: "34.839%"
+collected_at: "2026-04-17T20:26:36.222476+00:00"
 ---
 
 ## 문제

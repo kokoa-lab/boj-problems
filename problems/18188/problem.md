@@ -1,13 +1,13 @@
 ---
-title: 다오의 데이트
-special_judge: true
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "다오의 데이트"
+special_judge: "true"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 818
 accepted: 359
 solved_users: 282
-acceptance_rate: 46.844%
-collected_at: 2026-04-17T14:56:59.280782+00:00
+acceptance_rate: "46.844%"
+collected_at: "2026-04-17T14:56:59.280782+00:00"
 ---
 
 ## 문제

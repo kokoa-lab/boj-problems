@@ -1,13 +1,13 @@
 ---
-title: Середина игры
-special_judge: false
-time_limit: 0.5 초
-memory_limit: 1024 MB
+title: "Середина игры"
+special_judge: "false"
+time_limit: "0.5 초"
+memory_limit: "1024 MB"
 submissions: 105
 accepted: 72
 solved_users: 55
-acceptance_rate: 66.265%
-collected_at: 2026-04-17T19:10:06.733205+00:00
+acceptance_rate: "66.265%"
+collected_at: "2026-04-17T19:10:06.733205+00:00"
 ---
 
 ## 문제

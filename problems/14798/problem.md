@@ -1,13 +1,13 @@
 ---
-title: Alphabet Cake (Large)
-special_judge: true
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Alphabet Cake (Large)"
+special_judge: "true"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 162
 accepted: 111
 solved_users: 101
-acceptance_rate: 70.629%
-collected_at: 2026-04-17T13:42:07.964091+00:00
+acceptance_rate: "70.629%"
+collected_at: "2026-04-17T13:42:07.964091+00:00"
 ---
 
 ## 문제

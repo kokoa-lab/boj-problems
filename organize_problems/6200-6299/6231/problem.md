@@ -1,13 +1,13 @@
 ---
-title: Gold Balanced Lineup
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Gold Balanced Lineup"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 228
 accepted: 88
 solved_users: 73
-acceptance_rate: 43.195%
-collected_at: 2026-04-17T11:23:28.057085+00:00
+acceptance_rate: "43.195%"
+collected_at: "2026-04-17T11:23:28.057085+00:00"
 ---
 
 ## 문제

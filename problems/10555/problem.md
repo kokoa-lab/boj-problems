@@ -1,13 +1,13 @@
 ---
-title: STOGOVI
-special_judge: false
-time_limit: 1 초
-memory_limit: 64 MB
+title: "STOGOVI"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "64 MB"
 submissions: 74
 accepted: 31
 solved_users: 26
-acceptance_rate: 48.148%
-collected_at: 2026-04-17T12:25:30.425397+00:00
+acceptance_rate: "48.148%"
+collected_at: "2026-04-17T12:25:30.425397+00:00"
 ---
 
 ## 문제

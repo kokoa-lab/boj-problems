@@ -1,13 +1,13 @@
 ---
-title: 문자열 반복
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "문자열 반복"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 305041
 accepted: 155487
 solved_users: 130806
-acceptance_rate: 50.565%
-collected_at: 2026-04-17T10:43:51.394437+00:00
+acceptance_rate: "50.565%"
+collected_at: "2026-04-17T10:43:51.394437+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 월요일-토요일
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "월요일-토요일"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 157
 accepted: 97
 solved_users: 82
-acceptance_rate: 65.079%
-collected_at: 2026-04-17T11:10:29.807845+00:00
+acceptance_rate: "65.079%"
+collected_at: "2026-04-17T11:10:29.807845+00:00"
 ---
 
 ## 문제

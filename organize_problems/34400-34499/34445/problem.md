@@ -1,13 +1,13 @@
 ---
-title: Rent Division
-special_judge: false
-time_limit: 5 초
-memory_limit: 2048 MB
+title: "Rent Division"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "2048 MB"
 submissions: 86
 accepted: 29
 solved_users: 20
-acceptance_rate: 37.736%
-collected_at: 2026-04-17T20:39:12.854076+00:00
+acceptance_rate: "37.736%"
+collected_at: "2026-04-17T20:39:12.854076+00:00"
 ---
 
 ## 문제

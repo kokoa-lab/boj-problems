@@ -1,13 +1,13 @@
 ---
-title: 당신은 운명을 믿나요?
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "당신은 운명을 믿나요?"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 2269
 accepted: 1195
 solved_users: 1064
-acceptance_rate: 57.358%
-collected_at: 2026-04-17T18:14:54.872208+00:00
+acceptance_rate: "57.358%"
+collected_at: "2026-04-17T18:14:54.872208+00:00"
 ---
 
 ## 문제

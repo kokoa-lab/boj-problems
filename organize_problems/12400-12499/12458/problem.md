@@ -1,13 +1,13 @@
 ---
-title: ビット数 (Large)
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "ビット数 (Large)"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 83
 accepted: 57
 solved_users: 48
-acceptance_rate: 72.727%
-collected_at: 2026-04-17T12:55:45.751659+00:00
+acceptance_rate: "72.727%"
+collected_at: "2026-04-17T12:55:45.751659+00:00"
 ---
 
 ## 문제

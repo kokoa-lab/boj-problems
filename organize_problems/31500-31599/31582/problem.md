@@ -1,13 +1,13 @@
 ---
-title: Grill Below the Meats
-special_judge: true
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Grill Below the Meats"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 129
 accepted: 57
 solved_users: 45
-acceptance_rate: 46.875%
-collected_at: 2026-04-17T19:31:22.812094+00:00
+acceptance_rate: "46.875%"
+collected_at: "2026-04-17T19:31:22.812094+00:00"
 ---
 
 ## 문제

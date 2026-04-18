@@ -1,13 +1,13 @@
 ---
-title: 카드게임
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "카드게임"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 7815
 accepted: 5601
 solved_users: 4954
-acceptance_rate: 73.284%
-collected_at: 2026-04-17T12:29:46.317087+00:00
+acceptance_rate: "73.284%"
+collected_at: "2026-04-17T12:29:46.317087+00:00"
 ---
 
 ## 문제

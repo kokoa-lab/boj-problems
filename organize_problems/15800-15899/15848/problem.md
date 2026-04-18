@@ -1,13 +1,13 @@
 ---
-title: Make a Forest
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Make a Forest"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 72
 accepted: 27
 solved_users: 25
-acceptance_rate: 54.348%
-collected_at: 2026-04-17T14:07:36.851558+00:00
+acceptance_rate: "54.348%"
+collected_at: "2026-04-17T14:07:36.851558+00:00"
 ---
 
 ## 문제

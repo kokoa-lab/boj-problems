@@ -1,13 +1,13 @@
 ---
-title: Sum of Odd Sequence
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Sum of Odd Sequence"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 5190
 accepted: 2612
 solved_users: 2449
-acceptance_rate: 54.026%
-collected_at: 2026-04-17T12:13:31.140392+00:00
+acceptance_rate: "54.026%"
+collected_at: "2026-04-17T12:13:31.140392+00:00"
 ---
 
 ## 문제

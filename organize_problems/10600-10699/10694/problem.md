@@ -1,13 +1,13 @@
 ---
-title: Fouad
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Fouad"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 158
 accepted: 32
 solved_users: 25
-acceptance_rate: 27.473%
-collected_at: 2026-04-17T12:27:35.163746+00:00
+acceptance_rate: "27.473%"
+collected_at: "2026-04-17T12:27:35.163746+00:00"
 ---
 
 ## 문제

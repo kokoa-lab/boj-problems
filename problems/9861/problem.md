@@ -1,13 +1,13 @@
 ---
-title: The Urge to Merge
-special_judge: false
-time_limit: 5 초
-memory_limit: 128 MB
+title: "The Urge to Merge"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "128 MB"
 submissions: 22
 accepted: 15
 solved_users: 11
-acceptance_rate: 64.706%
-collected_at: 2026-04-17T12:15:41.482603+00:00
+acceptance_rate: "64.706%"
+collected_at: "2026-04-17T12:15:41.482603+00:00"
 ---
 
 ## 문제

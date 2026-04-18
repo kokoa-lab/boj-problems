@@ -1,13 +1,13 @@
 ---
-title: The Extent of the Problem
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "The Extent of the Problem"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 5
 accepted: 4
 solved_users: 2
-acceptance_rate: 100.000%
-collected_at: 2026-04-18T09:48:33.309432+00:00
+acceptance_rate: "100.000%"
+collected_at: "2026-04-18T09:48:33.309432+00:00"
 ---
 
 ## 문제

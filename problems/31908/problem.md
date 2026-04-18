@@ -1,13 +1,13 @@
 ---
-title: 커플링 매치
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "커플링 매치"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 984
 accepted: 568
 solved_users: 502
-acceptance_rate: 59.620%
-collected_at: 2026-04-17T19:38:52.380536+00:00
+acceptance_rate: "59.620%"
+collected_at: "2026-04-17T19:38:52.380536+00:00"
 ---
 
 ## 문제

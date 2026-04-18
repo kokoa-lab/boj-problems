@@ -1,13 +1,13 @@
 ---
-title: Good times
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Good times"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 980
 accepted: 410
 solved_users: 363
-acceptance_rate: 41.110%
-collected_at: 2026-04-17T11:38:43.146080+00:00
+acceptance_rate: "41.110%"
+collected_at: "2026-04-17T11:38:43.146080+00:00"
 ---
 
 ## 문제

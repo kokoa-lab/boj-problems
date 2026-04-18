@@ -1,13 +1,13 @@
 ---
-title: 콰트로치즈피자
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "콰트로치즈피자"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 3307
 accepted: 1892
 solved_users: 1720
-acceptance_rate: 57.506%
-collected_at: 2026-04-17T18:15:42.123962+00:00
+acceptance_rate: "57.506%"
+collected_at: "2026-04-17T18:15:42.123962+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 입실 관리
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "입실 관리"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 11927
 accepted: 9275
 solved_users: 8796
-acceptance_rate: 79.129%
-collected_at: 2026-04-17T11:14:54.473758+00:00
+acceptance_rate: "79.129%"
+collected_at: "2026-04-17T11:14:54.473758+00:00"
 ---
 
 ## 문제

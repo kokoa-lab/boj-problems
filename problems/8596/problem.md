@@ -1,13 +1,13 @@
 ---
-title: Wąż
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Wąż"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 34
 accepted: 19
 solved_users: 13
-acceptance_rate: 50.000%
-collected_at: 2026-04-17T12:01:14.420291+00:00
+acceptance_rate: "50.000%"
+collected_at: "2026-04-17T12:01:14.420291+00:00"
 ---
 
 ## 문제

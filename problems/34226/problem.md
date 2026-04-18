@@ -1,13 +1,13 @@
 ---
-title: 그래프와 연결성 쿼리
-special_judge: false
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "그래프와 연결성 쿼리"
+special_judge: "false"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 255
 accepted: 72
 solved_users: 33
-acceptance_rate: 19.412%
-collected_at: 2026-04-17T20:33:25.800566+00:00
+acceptance_rate: "19.412%"
+collected_at: "2026-04-17T20:33:25.800566+00:00"
 ---
 
 ## 문제

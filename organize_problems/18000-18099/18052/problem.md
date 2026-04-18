@@ -1,13 +1,13 @@
 ---
-title: Ghost
-special_judge: true
-time_limit: 10 초
-memory_limit: 512 MB
+title: "Ghost"
+special_judge: "true"
+time_limit: "10 초"
+memory_limit: "512 MB"
 submissions: 11
 accepted: 5
 solved_users: 4
-acceptance_rate: 50.000%
-collected_at: 2026-04-17T14:54:12.700955+00:00
+acceptance_rate: "50.000%"
+collected_at: "2026-04-17T14:54:12.700955+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 크리스마스
-special_judge: true
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "크리스마스"
+special_judge: "true"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 572
 accepted: 269
 solved_users: 213
-acceptance_rate: 48.190%
-collected_at: 2026-04-18T09:51:32.419729+00:00
+acceptance_rate: "48.190%"
+collected_at: "2026-04-18T09:51:32.419729+00:00"
 ---
 
 ## 문제

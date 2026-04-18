@@ -1,13 +1,13 @@
 ---
-title: Short Phrase
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Short Phrase"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 117
 accepted: 88
 solved_users: 83
-acceptance_rate: 79.048%
-collected_at: 2026-04-17T12:35:29.525695+00:00
+acceptance_rate: "79.048%"
+collected_at: "2026-04-17T12:35:29.525695+00:00"
 ---
 
 ## 문제

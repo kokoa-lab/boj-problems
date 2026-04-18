@@ -1,13 +1,13 @@
 ---
-title: Flatland Fidget Spinner
-special_judge: true
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Flatland Fidget Spinner"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 17
 accepted: 4
 solved_users: 4
-acceptance_rate: 28.571%
-collected_at: 2026-04-17T13:47:49.135534+00:00
+acceptance_rate: "28.571%"
+collected_at: "2026-04-17T13:47:49.135534+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Two Machines
-special_judge: false
-time_limit: 0.5 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "Two Machines"
+special_judge: "false"
+time_limit: "0.5 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 1862
 accepted: 772
 solved_users: 551
-acceptance_rate: 46.303%
-collected_at: 2026-04-17T14:41:16.799667+00:00
+acceptance_rate: "46.303%"
+collected_at: "2026-04-17T14:41:16.799667+00:00"
 ---
 
 ## 문제

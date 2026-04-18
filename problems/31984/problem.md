@@ -1,13 +1,13 @@
 ---
-title: Sirologija
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Sirologija"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 70
 accepted: 13
 solved_users: 12
-acceptance_rate: 20.000%
-collected_at: 2026-04-17T19:40:15.899542+00:00
+acceptance_rate: "20.000%"
+collected_at: "2026-04-17T19:40:15.899542+00:00"
 ---
 
 ## 문제

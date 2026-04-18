@@ -1,13 +1,13 @@
 ---
-title: 수 정렬하기 3
-special_judge: false
-time_limit: 5 초  ( 하단 참고 )
-memory_limit: 8 MB ( 하단 참고 )
+title: "수 정렬하기 3"
+special_judge: "false"
+time_limit: "5 초  ( 하단 참고 )"
+memory_limit: "8 MB ( 하단 참고 )"
 submissions: 384364
 accepted: 93818
 solved_users: 71874
-acceptance_rate: 24.213%
-collected_at: 2026-04-17T12:34:24.445596+00:00
+acceptance_rate: "24.213%"
+collected_at: "2026-04-17T12:34:24.445596+00:00"
 ---
 
 ## 문제

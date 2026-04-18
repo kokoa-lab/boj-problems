@@ -1,13 +1,13 @@
 ---
-title: 저지
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "저지"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 1069
 accepted: 491
 solved_users: 417
-acceptance_rate: 47.440%
-collected_at: 2026-04-17T12:29:21.315197+00:00
+acceptance_rate: "47.440%"
+collected_at: "2026-04-17T12:29:21.315197+00:00"
 ---
 
 ## 문제

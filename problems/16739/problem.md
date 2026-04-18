@@ -1,13 +1,13 @@
 ---
-title: Digits Are Not Just Characters
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Digits Are Not Just Characters"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 152
 accepted: 102
 solved_users: 95
-acceptance_rate: 68.841%
-collected_at: 2026-04-17T14:23:16.932938+00:00
+acceptance_rate: "68.841%"
+collected_at: "2026-04-17T14:23:16.932938+00:00"
 ---
 
 ## 문제

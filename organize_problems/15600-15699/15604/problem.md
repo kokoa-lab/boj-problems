@@ -1,13 +1,13 @@
 ---
-title: Factor-Free Tree
-special_judge: true
-time_limit: 6 초
-memory_limit: 512 MB
+title: "Factor-Free Tree"
+special_judge: "true"
+time_limit: "6 초"
+memory_limit: "512 MB"
 submissions: 248
 accepted: 90
 solved_users: 69
-acceptance_rate: 33.333%
-collected_at: 2026-04-17T14:02:25.357519+00:00
+acceptance_rate: "33.333%"
+collected_at: "2026-04-17T14:02:25.357519+00:00"
 ---
 
 ## 문제

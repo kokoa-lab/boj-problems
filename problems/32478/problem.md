@@ -1,13 +1,13 @@
 ---
-title: Bookshelf Bottleneck
-special_judge: false
-time_limit: 3 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Bookshelf Bottleneck"
+special_judge: "false"
+time_limit: "3 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 168
 accepted: 121
 solved_users: 98
-acceptance_rate: 77.778%
-collected_at: 2026-04-17T19:52:07.279621+00:00
+acceptance_rate: "77.778%"
+collected_at: "2026-04-17T19:52:07.279621+00:00"
 ---
 
 ## 문제

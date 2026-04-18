@@ -1,13 +1,13 @@
 ---
-title: НОД и НОК
-special_judge: true
-time_limit: 2 초
-memory_limit: 512 MB
+title: "НОД и НОК"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 39
 accepted: 9
 solved_users: 9
-acceptance_rate: 25.714%
-collected_at: 2026-04-17T15:27:31.786300+00:00
+acceptance_rate: "25.714%"
+collected_at: "2026-04-17T15:27:31.786300+00:00"
 ---
 
 ## 문제

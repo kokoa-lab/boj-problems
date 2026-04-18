@@ -1,13 +1,13 @@
 ---
-title: РАВЕНСТВО
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "РАВЕНСТВО"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 7967
 accepted: 3862
 solved_users: 3731
-acceptance_rate: 50.562%
-collected_at: 2026-04-17T17:07:13.844403+00:00
+acceptance_rate: "50.562%"
+collected_at: "2026-04-17T17:07:13.844403+00:00"
 ---
 
 ## 문제

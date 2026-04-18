@@ -1,13 +1,13 @@
 ---
-title: Safe Zone
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Safe Zone"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 60
 accepted: 39
 solved_users: 34
-acceptance_rate: 66.667%
-collected_at: 2026-04-17T12:39:55.467666+00:00
+acceptance_rate: "66.667%"
+collected_at: "2026-04-17T12:39:55.467666+00:00"
 ---
 
 ## 문제

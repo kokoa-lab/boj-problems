@@ -1,13 +1,13 @@
 ---
-title: Spring cleaning
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Spring cleaning"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 79
 accepted: 29
 solved_users: 28
-acceptance_rate: 45.902%
-collected_at: 2026-04-17T15:26:23.751544+00:00
+acceptance_rate: "45.902%"
+collected_at: "2026-04-17T15:26:23.751544+00:00"
 ---
 
 ## 문제

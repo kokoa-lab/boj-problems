@@ -1,13 +1,13 @@
 ---
-title: 춘배가 선물하는 특별한 하트
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "춘배가 선물하는 특별한 하트"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 1003
 accepted: 364
 solved_users: 296
-acceptance_rate: 37.000%
-collected_at: 2026-04-17T19:06:14.310680+00:00
+acceptance_rate: "37.000%"
+collected_at: "2026-04-17T19:06:14.310680+00:00"
 ---
 
 ## 문제

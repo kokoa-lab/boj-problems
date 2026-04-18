@@ -1,13 +1,13 @@
 ---
-title: 택배 운송
-special_judge: false
-time_limit: 3 초
-memory_limit: 2048 MB
+title: "택배 운송"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "2048 MB"
 submissions: 248
 accepted: 79
 solved_users: 61
-acceptance_rate: 29.469%
-collected_at: 2026-04-17T20:31:19.936260+00:00
+acceptance_rate: "29.469%"
+collected_at: "2026-04-17T20:31:19.936260+00:00"
 ---
 
 ## 문제

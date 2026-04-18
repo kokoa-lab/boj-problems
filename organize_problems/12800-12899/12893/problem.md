@@ -1,13 +1,13 @@
 ---
-title: 적의 적
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "적의 적"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 2479
 accepted: 956
 solved_users: 713
-acceptance_rate: 38.687%
-collected_at: 2026-04-17T13:03:27.875337+00:00
+acceptance_rate: "38.687%"
+collected_at: "2026-04-17T13:03:27.875337+00:00"
 ---
 
 ## 문제

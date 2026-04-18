@@ -1,13 +1,13 @@
 ---
-title: Java Bitecode
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Java Bitecode"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 1875
 accepted: 1095
 solved_users: 993
-acceptance_rate: 62.531%
-collected_at: 2026-04-17T16:09:05.691804+00:00
+acceptance_rate: "62.531%"
+collected_at: "2026-04-17T16:09:05.691804+00:00"
 ---
 
 ## 문제

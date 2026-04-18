@@ -1,13 +1,13 @@
 ---
-title: Break Oven, Run Cookie!
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Break Oven, Run Cookie!"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 49
 accepted: 29
 solved_users: 15
-acceptance_rate: 65.217%
-collected_at: 2026-04-17T13:41:11.952866+00:00
+acceptance_rate: "65.217%"
+collected_at: "2026-04-17T13:41:11.952866+00:00"
 ---
 
 ## 문제

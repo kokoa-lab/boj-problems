@@ -1,13 +1,13 @@
 ---
-title: 해밍 거리와 쿼리
-special_judge: false
-time_limit: 6 초
-memory_limit: 512 MB
+title: "해밍 거리와 쿼리"
+special_judge: "false"
+time_limit: "6 초"
+memory_limit: "512 MB"
 submissions: 433
 accepted: 88
 solved_users: 38
-acceptance_rate: 18.182%
-collected_at: 2026-04-17T13:43:05.083222+00:00
+acceptance_rate: "18.182%"
+collected_at: "2026-04-17T13:43:05.083222+00:00"
 ---
 
 ## 문제

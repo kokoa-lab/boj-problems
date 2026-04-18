@@ -1,13 +1,13 @@
 ---
-title: RUN
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "RUN"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 311
 accepted: 147
 solved_users: 128
-acceptance_rate: 51.822%
-collected_at: 2026-04-17T15:02:50.440008+00:00
+acceptance_rate: "51.822%"
+collected_at: "2026-04-17T15:02:50.440008+00:00"
 ---
 
 ## 문제

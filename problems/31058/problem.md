@@ -1,13 +1,13 @@
 ---
-title: Minimum Longest Trip
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Minimum Longest Trip"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 174
 accepted: 92
 solved_users: 76
-acceptance_rate: 55.072%
-collected_at: 2026-04-17T19:20:29.521066+00:00
+acceptance_rate: "55.072%"
+collected_at: "2026-04-17T19:20:29.521066+00:00"
 ---
 
 ## 문제

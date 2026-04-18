@@ -1,13 +1,13 @@
 ---
-title: 문자 인식
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "문자 인식"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 1878
 accepted: 600
 solved_users: 496
-acceptance_rate: 32.935%
-collected_at: 2026-04-17T10:48:57.153086+00:00
+acceptance_rate: "32.935%"
+collected_at: "2026-04-17T10:48:57.153086+00:00"
 ---
 
 ## 문제

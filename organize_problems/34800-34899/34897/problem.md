@@ -1,13 +1,13 @@
 ---
-title: 수상한 문자열
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "수상한 문자열"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 71
 accepted: 50
 solved_users: 46
-acceptance_rate: 73.016%
-collected_at: 2026-04-17T20:51:30.316565+00:00
+acceptance_rate: "73.016%"
+collected_at: "2026-04-17T20:51:30.316565+00:00"
 ---
 
 ## 문제

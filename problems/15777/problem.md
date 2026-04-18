@@ -1,13 +1,13 @@
 ---
-title: Xtreme NP-hard Problem?!
-special_judge: false
-time_limit: 5 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Xtreme NP-hard Problem?!"
+special_judge: "false"
+time_limit: "5 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 499
 accepted: 72
 solved_users: 44
-acceptance_rate: 11.733%
-collected_at: 2026-04-17T14:06:17.215546+00:00
+acceptance_rate: "11.733%"
+collected_at: "2026-04-17T14:06:17.215546+00:00"
 ---
 
 ## 문제

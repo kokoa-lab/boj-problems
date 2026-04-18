@@ -1,13 +1,13 @@
 ---
-title: License to Launch
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "License to Launch"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 1213
 accepted: 958
 solved_users: 879
-acceptance_rate: 78.905%
-collected_at: 2026-04-17T14:49:54.070034+00:00
+acceptance_rate: "78.905%"
+collected_at: "2026-04-17T14:49:54.070034+00:00"
 ---
 
 ## 문제

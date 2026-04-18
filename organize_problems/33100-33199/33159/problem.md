@@ -1,13 +1,13 @@
 ---
-title: 트리핑
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "트리핑"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 136
 accepted: 49
 solved_users: 37
-acceptance_rate: 30.081%
-collected_at: 2026-04-17T20:10:31.920245+00:00
+acceptance_rate: "30.081%"
+collected_at: "2026-04-17T20:10:31.920245+00:00"
 ---
 
 ## 문제

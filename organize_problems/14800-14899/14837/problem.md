@@ -1,13 +1,13 @@
 ---
-title: Omnicircumnavigation (Large)
-special_judge: false
-time_limit: 120 초
-memory_limit: 512 MB
+title: "Omnicircumnavigation (Large)"
+special_judge: "false"
+time_limit: "120 초"
+memory_limit: "512 MB"
 submissions: 71
 accepted: 29
 solved_users: 22
-acceptance_rate: 35.484%
-collected_at: 2026-04-17T13:42:40.673421+00:00
+acceptance_rate: "35.484%"
+collected_at: "2026-04-17T13:42:40.673421+00:00"
 ---
 
 ## 문제

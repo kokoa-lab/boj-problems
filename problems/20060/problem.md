@@ -1,13 +1,13 @@
 ---
-title: Combo
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Combo"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 358
 accepted: 128
 solved_users: 124
-acceptance_rate: 37.126%
-collected_at: 2026-04-17T15:31:04.922380+00:00
+acceptance_rate: "37.126%"
+collected_at: "2026-04-17T15:31:04.922380+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Perfection
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Perfection"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 1341
 accepted: 526
 solved_users: 457
-acceptance_rate: 39.431%
-collected_at: 2026-04-17T11:29:08.175887+00:00
+acceptance_rate: "39.431%"
+collected_at: "2026-04-17T11:29:08.175887+00:00"
 ---
 
 ## 문제

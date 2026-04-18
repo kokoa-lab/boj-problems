@@ -1,13 +1,13 @@
 ---
-title: FBI
-special_judge: false
-time_limit: 0.25 초 (추가 시간 없음)
-memory_limit: 128 MB
+title: "FBI"
+special_judge: "false"
+time_limit: "0.25 초 (추가 시간 없음)"
+memory_limit: "128 MB"
 submissions: 15046
 accepted: 7796
 solved_users: 6996
-acceptance_rate: 52.625%
-collected_at: 2026-04-17T10:45:19.419192+00:00
+acceptance_rate: "52.625%"
+collected_at: "2026-04-17T10:45:19.419192+00:00"
 ---
 
 ## 문제

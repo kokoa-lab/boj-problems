@@ -1,13 +1,13 @@
 ---
-title: TEAMS
-special_judge: true
-time_limit: 1 초
-memory_limit: 128 MB
+title: "TEAMS"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 44
 accepted: 11
 solved_users: 10
-acceptance_rate: 58.824%
-collected_at: 2026-04-17T10:47:42.454108+00:00
+acceptance_rate: "58.824%"
+collected_at: "2026-04-17T10:47:42.454108+00:00"
 ---
 
 ## 문제

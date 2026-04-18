@@ -1,13 +1,13 @@
 ---
-title: 몇개고?
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "몇개고?"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 11188
 accepted: 7527
 solved_users: 7082
-acceptance_rate: 68.031%
-collected_at: 2026-04-17T18:00:17.870402+00:00
+acceptance_rate: "68.031%"
+collected_at: "2026-04-17T18:00:17.870402+00:00"
 ---
 
 ## 문제

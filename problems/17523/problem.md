@@ -1,13 +1,13 @@
 ---
-title: Choreography
-special_judge: true
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "Choreography"
+special_judge: "true"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 104
 accepted: 43
 solved_users: 38
-acceptance_rate: 55.072%
-collected_at: 2026-04-17T14:41:09.769894+00:00
+acceptance_rate: "55.072%"
+collected_at: "2026-04-17T14:41:09.769894+00:00"
 ---
 
 ## 문제

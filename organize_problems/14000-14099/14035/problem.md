@@ -1,13 +1,13 @@
 ---
-title: Cars on Ice
-special_judge: true
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Cars on Ice"
+special_judge: "true"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 53
 accepted: 17
 solved_users: 12
-acceptance_rate: 35.294%
-collected_at: 2026-04-17T13:24:32.431907+00:00
+acceptance_rate: "35.294%"
+collected_at: "2026-04-17T13:24:32.431907+00:00"
 ---
 
 ## 문제

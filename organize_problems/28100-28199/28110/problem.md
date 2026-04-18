@@ -1,13 +1,13 @@
 ---
-title: 마지막 문제
-special_judge: false
-time_limit: 0.5 초
-memory_limit: 1024 MB
+title: "마지막 문제"
+special_judge: "false"
+time_limit: "0.5 초"
+memory_limit: "1024 MB"
 submissions: 1066
 accepted: 452
 solved_users: 392
-acceptance_rate: 43.701%
-collected_at: 2026-04-17T18:18:14.951629+00:00
+acceptance_rate: "43.701%"
+collected_at: "2026-04-17T18:18:14.951629+00:00"
 ---
 
 ## 문제

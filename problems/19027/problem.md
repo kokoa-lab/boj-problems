@@ -1,13 +1,13 @@
 ---
-title: Knight
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Knight"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 75
 accepted: 29
 solved_users: 18
-acceptance_rate: 28.125%
-collected_at: 2026-04-17T15:12:36.587503+00:00
+acceptance_rate: "28.125%"
+collected_at: "2026-04-17T15:12:36.587503+00:00"
 ---
 
 ## 문제

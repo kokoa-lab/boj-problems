@@ -1,13 +1,13 @@
 ---
-title: 비행기
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "비행기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 262
 accepted: 100
 solved_users: 83
-acceptance_rate: 45.604%
-collected_at: 2026-04-17T10:47:42.592901+00:00
+acceptance_rate: "45.604%"
+collected_at: "2026-04-17T10:47:42.592901+00:00"
 ---
 
 ## 문제

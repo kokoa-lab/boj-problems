@@ -1,13 +1,13 @@
 ---
-title: Coalescing Continents
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Coalescing Continents"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 25
 accepted: 9
 solved_users: 9
-acceptance_rate: 36.000%
-collected_at: 2026-04-17T11:16:14.551366+00:00
+acceptance_rate: "36.000%"
+collected_at: "2026-04-17T11:16:14.551366+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Tree of Almost Clean Money
-special_judge: false
-time_limit: 4 초
-memory_limit: 256 MB
+title: "Tree of Almost Clean Money"
+special_judge: "false"
+time_limit: "4 초"
+memory_limit: "256 MB"
 submissions: 109
 accepted: 43
 solved_users: 24
-acceptance_rate: 32.432%
-collected_at: 2026-04-17T12:40:23.937183+00:00
+acceptance_rate: "32.432%"
+collected_at: "2026-04-17T12:40:23.937183+00:00"
 ---
 
 ## 문제

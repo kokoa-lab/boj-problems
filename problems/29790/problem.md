@@ -1,13 +1,13 @@
 ---
-title: 임스의 메이플컵
-special_judge: false
-time_limit: 0.1 초
-memory_limit: 1024 MB
+title: "임스의 메이플컵"
+special_judge: "false"
+time_limit: "0.1 초"
+memory_limit: "1024 MB"
 submissions: 3558
 accepted: 2457
 solved_users: 2367
-acceptance_rate: 69.009%
-collected_at: 2026-04-17T18:52:59.769244+00:00
+acceptance_rate: "69.009%"
+collected_at: "2026-04-17T18:52:59.769244+00:00"
 ---
 
 ## 문제

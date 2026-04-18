@@ -1,13 +1,13 @@
 ---
-title: Not Another Constructive!
-special_judge: true
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 2048 MB (추가 메모리 없음)
+title: "Not Another Constructive!"
+special_judge: "true"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "2048 MB (추가 메모리 없음)"
 submissions: 128
 accepted: 54
 solved_users: 42
-acceptance_rate: 39.252%
-collected_at: 2026-04-17T19:39:45.124191+00:00
+acceptance_rate: "39.252%"
+collected_at: "2026-04-17T19:39:45.124191+00:00"
 ---
 
 ## 문제

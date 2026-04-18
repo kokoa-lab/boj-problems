@@ -1,13 +1,13 @@
 ---
-title: 실버와 소수는 둘다 S로 시작한다
-special_judge: false
-time_limit: 0.2 초
-memory_limit: 1024 MB
+title: "실버와 소수는 둘다 S로 시작한다"
+special_judge: "false"
+time_limit: "0.2 초"
+memory_limit: "1024 MB"
 submissions: 836
 accepted: 336
 solved_users: 283
-acceptance_rate: 39.580%
-collected_at: 2026-04-17T18:51:42.358766+00:00
+acceptance_rate: "39.580%"
+collected_at: "2026-04-17T18:51:42.358766+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 대칭 그림
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "대칭 그림"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 382
 accepted: 23
 solved_users: 18
-acceptance_rate: 8.654%
-collected_at: 2026-04-17T10:40:05.749573+00:00
+acceptance_rate: "8.654%"
+collected_at: "2026-04-17T10:40:05.749573+00:00"
 ---
 
 ## 문제

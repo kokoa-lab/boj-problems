@@ -1,13 +1,13 @@
 ---
-title: Welcome Sign
-special_judge: false
-time_limit: 1 초
-memory_limit: 2048 MB
+title: "Welcome Sign"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "2048 MB"
 submissions: 136
 accepted: 105
 solved_users: 92
-acceptance_rate: 76.667%
-collected_at: 2026-04-17T20:02:25.333081+00:00
+acceptance_rate: "76.667%"
+collected_at: "2026-04-17T20:02:25.333081+00:00"
 ---
 
 ## 문제

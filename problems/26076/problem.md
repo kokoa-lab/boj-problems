@@ -1,13 +1,13 @@
 ---
-title: 곰곰이의 식단 관리 2
-special_judge: false
-time_limit: 3.5 초
-memory_limit: 1024 MB
+title: "곰곰이의 식단 관리 2"
+special_judge: "false"
+time_limit: "3.5 초"
+memory_limit: "1024 MB"
 submissions: 865
 accepted: 283
 solved_users: 200
-acceptance_rate: 30.675%
-collected_at: 2026-04-17T17:39:47.212135+00:00
+acceptance_rate: "30.675%"
+collected_at: "2026-04-17T17:39:47.212135+00:00"
 ---
 
 ## 문제

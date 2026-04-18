@@ -1,13 +1,13 @@
 ---
-title: 문자열 판별
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "문자열 판별"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 6885
 accepted: 2132
 solved_users: 1598
-acceptance_rate: 33.167%
-collected_at: 2026-04-17T14:19:01.846547+00:00
+acceptance_rate: "33.167%"
+collected_at: "2026-04-17T14:19:01.846547+00:00"
 ---
 
 ## 문제

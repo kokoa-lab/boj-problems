@@ -1,13 +1,13 @@
 ---
-title: Falling Apart
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Falling Apart"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 355
 accepted: 260
 solved_users: 242
-acceptance_rate: 75.155%
-collected_at: 2026-04-17T13:48:03.895731+00:00
+acceptance_rate: "75.155%"
+collected_at: "2026-04-17T13:48:03.895731+00:00"
 ---
 
 ## 문제

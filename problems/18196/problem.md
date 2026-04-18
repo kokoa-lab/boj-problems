@@ -1,13 +1,13 @@
 ---
-title: 정기 모임
-special_judge: false
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "정기 모임"
+special_judge: "false"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 551
 accepted: 144
 solved_users: 111
-acceptance_rate: 23.222%
-collected_at: 2026-04-17T14:57:03.376357+00:00
+acceptance_rate: "23.222%"
+collected_at: "2026-04-17T14:57:03.376357+00:00"
 ---
 
 ## 문제

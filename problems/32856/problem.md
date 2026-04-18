@@ -1,13 +1,13 @@
 ---
-title: Office Building
-special_judge: false
-time_limit: 1 초
-memory_limit: 2048 MB
+title: "Office Building"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "2048 MB"
 submissions: 52
 accepted: 40
 solved_users: 29
-acceptance_rate: 82.857%
-collected_at: 2026-04-17T20:02:44.971603+00:00
+acceptance_rate: "82.857%"
+collected_at: "2026-04-17T20:02:44.971603+00:00"
 ---
 
 ## 문제

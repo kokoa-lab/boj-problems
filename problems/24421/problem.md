@@ -1,13 +1,13 @@
 ---
-title: 掛け算 (Multiplication)
-special_judge: false
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "掛け算 (Multiplication)"
+special_judge: "false"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 260
 accepted: 230
 solved_users: 215
-acceptance_rate: 89.212%
-collected_at: 2026-04-17T17:09:07.989031+00:00
+acceptance_rate: "89.212%"
+collected_at: "2026-04-17T17:09:07.989031+00:00"
 ---
 
 ## 문제

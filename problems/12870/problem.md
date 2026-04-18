@@ -1,13 +1,13 @@
 ---
-title: 뮤탈리스크 2
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "뮤탈리스크 2"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 317
 accepted: 65
 solved_users: 39
-acceptance_rate: 17.808%
-collected_at: 2026-04-17T13:02:52.964162+00:00
+acceptance_rate: "17.808%"
+collected_at: "2026-04-17T13:02:52.964162+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Zapałki
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Zapałki"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 43
 accepted: 28
 solved_users: 22
-acceptance_rate: 64.706%
-collected_at: 2026-04-17T12:02:07.405823+00:00
+acceptance_rate: "64.706%"
+collected_at: "2026-04-17T12:02:07.405823+00:00"
 ---
 
 ## 문제

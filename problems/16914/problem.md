@@ -1,13 +1,13 @@
 ---
-title: K번째 부분 문자열
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "K번째 부분 문자열"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 254
 accepted: 97
 solved_users: 81
-acceptance_rate: 42.408%
-collected_at: 2026-04-17T14:26:12.227946+00:00
+acceptance_rate: "42.408%"
+collected_at: "2026-04-17T14:26:12.227946+00:00"
 ---
 
 ## 문제

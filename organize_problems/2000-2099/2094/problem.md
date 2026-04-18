@@ -1,13 +1,13 @@
 ---
-title: 강수량
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "강수량"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 3251
 accepted: 589
 solved_users: 345
-acceptance_rate: 17.941%
-collected_at: 2026-04-17T10:38:14.845424+00:00
+acceptance_rate: "17.941%"
+collected_at: "2026-04-17T10:38:14.845424+00:00"
 ---
 
 ## 문제

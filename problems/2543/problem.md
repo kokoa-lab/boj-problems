@@ -1,13 +1,13 @@
 ---
-title: 초고속철도
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "초고속철도"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 665
 accepted: 347
 solved_users: 266
-acceptance_rate: 54.397%
-collected_at: 2026-04-17T10:42:36.009469+00:00
+acceptance_rate: "54.397%"
+collected_at: "2026-04-17T10:42:36.009469+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Allowance
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Allowance"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 33
 accepted: 24
 solved_users: 22
-acceptance_rate: 73.333%
-collected_at: 2026-04-17T11:19:11.290076+00:00
+acceptance_rate: "73.333%"
+collected_at: "2026-04-17T11:19:11.290076+00:00"
 ---
 
 ## 문제

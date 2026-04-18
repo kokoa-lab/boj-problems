@@ -1,13 +1,13 @@
 ---
-title: 우선순위 큐와 시뮬레이션
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "우선순위 큐와 시뮬레이션"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 404
 accepted: 147
 solved_users: 94
-acceptance_rate: 35.206%
-collected_at: 2026-04-17T19:59:41.708287+00:00
+acceptance_rate: "35.206%"
+collected_at: "2026-04-17T19:59:41.708287+00:00"
 ---
 
 ## 문제

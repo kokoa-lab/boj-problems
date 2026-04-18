@@ -1,13 +1,13 @@
 ---
-title: Почти любимые числа
-special_judge: false
-time_limit: 0.5 초
-memory_limit: 1024 MB
+title: "Почти любимые числа"
+special_judge: "false"
+time_limit: "0.5 초"
+memory_limit: "1024 MB"
 submissions: 86
 accepted: 61
 solved_users: 54
-acceptance_rate: 68.354%
-collected_at: 2026-04-17T18:36:55.568842+00:00
+acceptance_rate: "68.354%"
+collected_at: "2026-04-17T18:36:55.568842+00:00"
 ---
 
 ## 문제

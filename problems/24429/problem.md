@@ -1,13 +1,13 @@
 ---
-title: 알고리즘 수업 - 행렬 경로 문제 6
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "알고리즘 수업 - 행렬 경로 문제 6"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 785
 accepted: 358
 solved_users: 229
-acceptance_rate: 42.486%
-collected_at: 2026-04-17T17:09:15.912302+00:00
+acceptance_rate: "42.486%"
+collected_at: "2026-04-17T17:09:15.912302+00:00"
 ---
 
 ## 문제

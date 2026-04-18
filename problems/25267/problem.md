@@ -1,13 +1,13 @@
 ---
-title: Permutation
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Permutation"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 129
 accepted: 34
 solved_users: 31
-acceptance_rate: 30.097%
-collected_at: 2026-04-17T17:23:36.070521+00:00
+acceptance_rate: "30.097%"
+collected_at: "2026-04-17T17:23:36.070521+00:00"
 ---
 
 ## 문제

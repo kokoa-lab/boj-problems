@@ -1,13 +1,13 @@
 ---
-title: 백업
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "백업"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 4598
 accepted: 1100
 solved_users: 791
-acceptance_rate: 26.759%
-collected_at: 2026-04-17T10:28:30.395101+00:00
+acceptance_rate: "26.759%"
+collected_at: "2026-04-17T10:28:30.395101+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 카드 셔플
-special_judge: true
-time_limit: 1 초
-memory_limit: 256 MB
+title: "카드 셔플"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 210
 accepted: 63
 solved_users: 55
-acceptance_rate: 35.032%
-collected_at: 2026-04-17T15:32:02.787339+00:00
+acceptance_rate: "35.032%"
+collected_at: "2026-04-17T15:32:02.787339+00:00"
 ---
 
 ## 문제

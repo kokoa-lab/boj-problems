@@ -1,13 +1,13 @@
 ---
-title: Card Cutting
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Card Cutting"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 452
 accepted: 334
 solved_users: 289
-acceptance_rate: 73.350%
-collected_at: 2026-04-17T11:11:23.745514+00:00
+acceptance_rate: "73.350%"
+collected_at: "2026-04-17T11:11:23.745514+00:00"
 ---
 
 ## 문제

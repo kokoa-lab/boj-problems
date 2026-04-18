@@ -1,13 +1,13 @@
 ---
-title: 도시 건설
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "도시 건설"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 6103
 accepted: 2748
 solved_users: 2135
-acceptance_rate: 42.589%
-collected_at: 2026-04-17T16:10:02.434466+00:00
+acceptance_rate: "42.589%"
+collected_at: "2026-04-17T16:10:02.434466+00:00"
 ---
 
 ## 문제

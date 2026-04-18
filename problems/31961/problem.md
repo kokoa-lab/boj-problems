@@ -1,13 +1,13 @@
 ---
-title: Training, Round 2
-special_judge: false
-time_limit: 6 초 (추가 시간 없음)
-memory_limit: 2048 MB (추가 메모리 없음)
+title: "Training, Round 2"
+special_judge: "false"
+time_limit: "6 초 (추가 시간 없음)"
+memory_limit: "2048 MB (추가 메모리 없음)"
 submissions: 188
 accepted: 48
 solved_users: 44
-acceptance_rate: 29.333%
-collected_at: 2026-04-17T19:39:47.212183+00:00
+acceptance_rate: "29.333%"
+collected_at: "2026-04-17T19:39:47.212183+00:00"
 ---
 
 ## 문제

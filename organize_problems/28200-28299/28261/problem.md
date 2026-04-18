@@ -1,13 +1,13 @@
 ---
-title: 화이트, 다크, 민트 초콜릿
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "화이트, 다크, 민트 초콜릿"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 134
 accepted: 63
 solved_users: 45
-acceptance_rate: 52.941%
-collected_at: 2026-04-17T18:21:26.567126+00:00
+acceptance_rate: "52.941%"
+collected_at: "2026-04-17T18:21:26.567126+00:00"
 ---
 
 ## 문제

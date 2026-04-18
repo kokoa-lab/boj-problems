@@ -1,13 +1,13 @@
 ---
-title: Dwa słowa
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Dwa słowa"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 41
 accepted: 15
 solved_users: 14
-acceptance_rate: 40.000%
-collected_at: 2026-04-17T12:00:55.749793+00:00
+acceptance_rate: "40.000%"
+collected_at: "2026-04-17T12:00:55.749793+00:00"
 ---
 
 ## 문제

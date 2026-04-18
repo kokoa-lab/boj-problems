@@ -1,13 +1,13 @@
 ---
-title: 줄임말 만들기
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "줄임말 만들기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 2818
 accepted: 1745
 solved_users: 1533
-acceptance_rate: 63.295%
-collected_at: 2026-04-17T10:47:15.445180+00:00
+acceptance_rate: "63.295%"
+collected_at: "2026-04-17T10:47:15.445180+00:00"
 ---
 
 ## 문제

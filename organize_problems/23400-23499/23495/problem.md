@@ -1,13 +1,13 @@
 ---
-title: Longest Lyndon Prefix
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 256 MB
+title: "Longest Lyndon Prefix"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "256 MB"
 submissions: 76
 accepted: 32
 solved_users: 23
-acceptance_rate: 45.098%
-collected_at: 2026-04-17T16:49:04.128242+00:00
+acceptance_rate: "45.098%"
+collected_at: "2026-04-17T16:49:04.128242+00:00"
 ---
 
 ## 문제

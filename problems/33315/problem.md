@@ -1,13 +1,13 @@
 ---
-title: Counting Is Not Fun (Easy Version)
-special_judge: false
-time_limit: 3 초
-memory_limit: 2048 MB
+title: "Counting Is Not Fun (Easy Version)"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "2048 MB"
 submissions: 20
 accepted: 19
 solved_users: 18
-acceptance_rate: 94.737%
-collected_at: 2026-04-17T20:13:27.054804+00:00
+acceptance_rate: "94.737%"
+collected_at: "2026-04-17T20:13:27.054804+00:00"
 ---
 
 ## 문제

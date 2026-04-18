@@ -1,13 +1,13 @@
 ---
-title: 이진수 게임
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "이진수 게임"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 1792
 accepted: 537
 solved_users: 406
-acceptance_rate: 29.549%
-collected_at: 2026-04-17T14:55:53.419954+00:00
+acceptance_rate: "29.549%"
+collected_at: "2026-04-17T14:55:53.419954+00:00"
 ---
 
 ## 문제

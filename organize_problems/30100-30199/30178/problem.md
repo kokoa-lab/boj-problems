@@ -1,13 +1,13 @@
 ---
-title: Perfect Triples
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Perfect Triples"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 41
 accepted: 27
 solved_users: 24
-acceptance_rate: 63.158%
-collected_at: 2026-04-17T19:00:13.086287+00:00
+acceptance_rate: "63.158%"
+collected_at: "2026-04-17T19:00:13.086287+00:00"
 ---
 
 ## 문제

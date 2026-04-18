@@ -1,13 +1,13 @@
 ---
-title: 완전그래프의 최소 스패닝 트리
-special_judge: false
-time_limit: 5 초
-memory_limit: 16 MB
+title: "완전그래프의 최소 스패닝 트리"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "16 MB"
 submissions: 1108
 accepted: 394
 solved_users: 151
-acceptance_rate: 26.261%
-collected_at: 2026-04-17T15:35:54.095637+00:00
+acceptance_rate: "26.261%"
+collected_at: "2026-04-17T15:35:54.095637+00:00"
 ---
 
 ## 문제

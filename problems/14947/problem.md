@@ -1,13 +1,13 @@
 ---
-title: 상자 배달
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "상자 배달"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 325
 accepted: 93
 solved_users: 67
-acceptance_rate: 28.755%
-collected_at: 2026-04-17T13:46:30.191335+00:00
+acceptance_rate: "28.755%"
+collected_at: "2026-04-17T13:46:30.191335+00:00"
 ---
 
 ## 문제

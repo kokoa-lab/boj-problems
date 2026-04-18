@@ -1,13 +1,13 @@
 ---
-title: Cow Baseball
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Cow Baseball"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 815
 accepted: 507
 solved_users: 412
-acceptance_rate: 66.559%
-collected_at: 2026-04-17T12:15:53.479367+00:00
+acceptance_rate: "66.559%"
+collected_at: "2026-04-17T12:15:53.479367+00:00"
 ---
 
 ## 문제

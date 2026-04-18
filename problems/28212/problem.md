@@ -1,13 +1,13 @@
 ---
-title: Classical Summation Problem
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Classical Summation Problem"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 35
 accepted: 18
 solved_users: 16
-acceptance_rate: 66.667%
-collected_at: 2026-04-17T18:20:13.474161+00:00
+acceptance_rate: "66.667%"
+collected_at: "2026-04-17T18:20:13.474161+00:00"
 ---
 
 ## 문제

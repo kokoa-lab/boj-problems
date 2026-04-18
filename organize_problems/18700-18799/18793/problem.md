@@ -1,13 +1,13 @@
 ---
-title: 팰린드롬 덧셈
-special_judge: true
-time_limit: 0.5 초 (추가 시간 없음)
-memory_limit: 256 MB
+title: "팰린드롬 덧셈"
+special_judge: "true"
+time_limit: "0.5 초 (추가 시간 없음)"
+memory_limit: "256 MB"
 submissions: 1120
 accepted: 35
 solved_users: 19
-acceptance_rate: 2.762%
-collected_at: 2026-04-17T15:09:46.971410+00:00
+acceptance_rate: "2.762%"
+collected_at: "2026-04-17T15:09:46.971410+00:00"
 ---
 
 ## 문제

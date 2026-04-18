@@ -1,13 +1,13 @@
 ---
-title: Interior Lattice Points
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Interior Lattice Points"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 64
 accepted: 53
 solved_users: 45
-acceptance_rate: 84.906%
-collected_at: 2026-04-17T12:14:04.781038+00:00
+acceptance_rate: "84.906%"
+collected_at: "2026-04-17T12:14:04.781038+00:00"
 ---
 
 ## 문제

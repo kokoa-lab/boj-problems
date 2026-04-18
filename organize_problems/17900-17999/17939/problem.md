@@ -1,13 +1,13 @@
 ---
-title: Gazzzua
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Gazzzua"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 864
 accepted: 489
 solved_users: 420
-acceptance_rate: 58.659%
-collected_at: 2026-04-17T14:50:35.950400+00:00
+acceptance_rate: "58.659%"
+collected_at: "2026-04-17T14:50:35.950400+00:00"
 ---
 
 ## 문제

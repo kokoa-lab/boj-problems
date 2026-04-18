@@ -1,13 +1,13 @@
 ---
-title: A Musical Question
-special_judge: false
-time_limit: 11 초
-memory_limit: 1024 MB
+title: "A Musical Question"
+special_judge: "false"
+time_limit: "11 초"
+memory_limit: "1024 MB"
 submissions: 47
 accepted: 34
 solved_users: 30
-acceptance_rate: 75.000%
-collected_at: 2026-04-17T18:07:31.841540+00:00
+acceptance_rate: "75.000%"
+collected_at: "2026-04-17T18:07:31.841540+00:00"
 ---
 
 ## 문제

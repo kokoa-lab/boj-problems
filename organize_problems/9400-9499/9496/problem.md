@@ -1,13 +1,13 @@
 ---
-title: 조 나누기
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "조 나누기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 349
 accepted: 93
 solved_users: 72
-acceptance_rate: 26.471%
-collected_at: 2026-04-17T12:10:31.319596+00:00
+acceptance_rate: "26.471%"
+collected_at: "2026-04-17T12:10:31.319596+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Ant colony
-special_judge: false
-time_limit: 3 초
-memory_limit: 256 MB
+title: "Ant colony"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "256 MB"
 submissions: 202
 accepted: 78
 solved_users: 56
-acceptance_rate: 35.000%
-collected_at: 2026-04-17T12:19:25.411140+00:00
+acceptance_rate: "35.000%"
+collected_at: "2026-04-17T12:19:25.411140+00:00"
 ---
 
 ## 문제

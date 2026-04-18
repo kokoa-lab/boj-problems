@@ -1,13 +1,13 @@
 ---
-title: 좁은 미술전시관
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "좁은 미술전시관"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 1051
 accepted: 432
 solved_users: 297
-acceptance_rate: 40.518%
-collected_at: 2026-04-17T12:24:15.638445+00:00
+acceptance_rate: "40.518%"
+collected_at: "2026-04-17T12:24:15.638445+00:00"
 ---
 
 ## 문제

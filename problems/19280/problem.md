@@ -1,13 +1,13 @@
 ---
-title: Ability Draft
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Ability Draft"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 29
 accepted: 13
 solved_users: 9
-acceptance_rate: 47.368%
-collected_at: 2026-04-17T15:16:18.373915+00:00
+acceptance_rate: "47.368%"
+collected_at: "2026-04-17T15:16:18.373915+00:00"
 ---
 
 ## 문제

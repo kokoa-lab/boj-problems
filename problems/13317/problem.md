@@ -1,13 +1,13 @@
 ---
-title: 한 번 남았다
-special_judge: true
-time_limit: 2 초
-memory_limit: 512 MB
+title: "한 번 남았다"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 841
 accepted: 287
 solved_users: 229
-acceptance_rate: 38.040%
-collected_at: 2026-04-17T13:11:25.471228+00:00
+acceptance_rate: "38.040%"
+collected_at: "2026-04-17T13:11:25.471228+00:00"
 ---
 
 ## 문제

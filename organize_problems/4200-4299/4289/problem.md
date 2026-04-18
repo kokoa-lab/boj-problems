@@ -1,13 +1,13 @@
 ---
-title: Rock-Paper-Scissors Tournament
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Rock-Paper-Scissors Tournament"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 612
 accepted: 103
 solved_users: 75
-acceptance_rate: 17.202%
-collected_at: 2026-04-17T10:59:00.610602+00:00
+acceptance_rate: "17.202%"
+collected_at: "2026-04-17T10:59:00.610602+00:00"
 ---
 
 ## 문제

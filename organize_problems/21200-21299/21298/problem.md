@@ -1,13 +1,13 @@
 ---
-title: 하이퍼 배열 돌리기
-special_judge: false
-time_limit: 11.111 초
-memory_limit: 1111 MB
+title: "하이퍼 배열 돌리기"
+special_judge: "false"
+time_limit: "11.111 초"
+memory_limit: "1111 MB"
 submissions: 225
 accepted: 65
 solved_users: 31
-acceptance_rate: 19.018%
-collected_at: 2026-04-17T15:53:56.561813+00:00
+acceptance_rate: "19.018%"
+collected_at: "2026-04-17T15:53:56.561813+00:00"
 ---
 
 ## 문제

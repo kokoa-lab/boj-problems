@@ -1,13 +1,13 @@
 ---
-title: Spies
-special_judge: false
-time_limit: 3 초
-memory_limit: 512 MB
+title: "Spies"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "512 MB"
 submissions: 171
 accepted: 59
 solved_users: 42
-acceptance_rate: 33.333%
-collected_at: 2026-04-17T11:54:56.085262+00:00
+acceptance_rate: "33.333%"
+collected_at: "2026-04-17T11:54:56.085262+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Dangerous Skating
-special_judge: false
-time_limit: 3 초
-memory_limit: 256 MB
+title: "Dangerous Skating"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "256 MB"
 submissions: 61
 accepted: 34
 solved_users: 27
-acceptance_rate: 58.696%
-collected_at: 2026-04-17T14:46:06.932158+00:00
+acceptance_rate: "58.696%"
+collected_at: "2026-04-17T14:46:06.932158+00:00"
 ---
 
 ## 문제

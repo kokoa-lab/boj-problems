@@ -1,13 +1,13 @@
 ---
-title: Environment-Friendly Travel
-special_judge: false
-time_limit: 3 초
-memory_limit: 512 MB
+title: "Environment-Friendly Travel"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "512 MB"
 submissions: 132
 accepted: 56
 solved_users: 46
-acceptance_rate: 45.098%
-collected_at: 2026-04-17T14:58:45.130234+00:00
+acceptance_rate: "45.098%"
+collected_at: "2026-04-17T14:58:45.130234+00:00"
 ---
 
 ## 문제

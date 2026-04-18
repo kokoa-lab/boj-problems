@@ -1,13 +1,13 @@
 ---
-title: Gopher II
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Gopher II"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 827
 accepted: 200
 solved_users: 171
-acceptance_rate: 24.255%
-collected_at: 2026-04-17T11:00:31.421503+00:00
+acceptance_rate: "24.255%"
+collected_at: "2026-04-17T11:00:31.421503+00:00"
 ---
 
 ## 문제

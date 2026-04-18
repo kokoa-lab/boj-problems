@@ -1,13 +1,13 @@
 ---
-title: 수학 퀴즈
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "수학 퀴즈"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 651
 accepted: 403
 solved_users: 354
-acceptance_rate: 64.835%
-collected_at: 2026-04-17T18:03:50.046779+00:00
+acceptance_rate: "64.835%"
+collected_at: "2026-04-17T18:03:50.046779+00:00"
 ---
 
 ## 문제

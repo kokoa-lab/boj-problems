@@ -1,13 +1,13 @@
 ---
-title: 수학은 체육과목 입니다
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "수학은 체육과목 입니다"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 63597
 accepted: 34541
 solved_users: 32075
-acceptance_rate: 54.564%
-collected_at: 2026-04-17T14:08:17.183940+00:00
+acceptance_rate: "54.564%"
+collected_at: "2026-04-17T14:08:17.183940+00:00"
 ---
 
 ## 문제

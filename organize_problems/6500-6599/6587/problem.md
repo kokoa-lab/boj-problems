@@ -1,13 +1,13 @@
 ---
-title: France '98
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "France '98"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 55
 accepted: 34
 solved_users: 28
-acceptance_rate: 57.143%
-collected_at: 2026-04-17T11:31:04.505129+00:00
+acceptance_rate: "57.143%"
+collected_at: "2026-04-17T11:31:04.505129+00:00"
 ---
 
 ## 문제

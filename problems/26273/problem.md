@@ -1,13 +1,13 @@
 ---
-title: 모모의 아지트에 잠입하자!
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "모모의 아지트에 잠입하자!"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 220
 accepted: 11
 solved_users: 7
-acceptance_rate: 4.403%
-collected_at: 2026-04-17T17:42:51.224322+00:00
+acceptance_rate: "4.403%"
+collected_at: "2026-04-17T17:42:51.224322+00:00"
 ---
 
 ## 문제

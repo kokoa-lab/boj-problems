@@ -1,13 +1,13 @@
 ---
-title: Exercise
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Exercise"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 54
 accepted: 18
 solved_users: 16
-acceptance_rate: 37.209%
-collected_at: 2026-04-17T15:10:44.060926+00:00
+acceptance_rate: "37.209%"
+collected_at: "2026-04-17T15:10:44.060926+00:00"
 ---
 
 ## 문제

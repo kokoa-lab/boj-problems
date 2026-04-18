@@ -1,13 +1,13 @@
 ---
-title: H-index
-special_judge: false
-time_limit: 50 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "H-index"
+special_judge: "false"
+time_limit: "50 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 105
 accepted: 68
 solved_users: 49
-acceptance_rate: 71.014%
-collected_at: 2026-04-17T16:59:03.006381+00:00
+acceptance_rate: "71.014%"
+collected_at: "2026-04-17T16:59:03.006381+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Vote (Small)
-special_judge: true
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Vote (Small)"
+special_judge: "true"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 93
 accepted: 56
 solved_users: 48
-acceptance_rate: 60.000%
-collected_at: 2026-04-17T13:29:41.487401+00:00
+acceptance_rate: "60.000%"
+collected_at: "2026-04-17T13:29:41.487401+00:00"
 ---
 
 ## 문제

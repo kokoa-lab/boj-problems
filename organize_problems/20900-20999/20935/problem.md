@@ -1,13 +1,13 @@
 ---
-title: Parity Constraint Perfect Matching
-special_judge: true
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Parity Constraint Perfect Matching"
+special_judge: "true"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 106
 accepted: 30
 solved_users: 27
-acceptance_rate: 32.143%
-collected_at: 2026-04-17T15:43:40.770831+00:00
+acceptance_rate: "32.143%"
+collected_at: "2026-04-17T15:43:40.770831+00:00"
 ---
 
 ## 문제

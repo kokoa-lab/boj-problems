@@ -1,13 +1,13 @@
 ---
-title: 귀도 반 로썸은 크리스마스날 심심하다고 파이썬을 만들었다
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "귀도 반 로썸은 크리스마스날 심심하다고 파이썬을 만들었다"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 2254
 accepted: 534
 solved_users: 411
-acceptance_rate: 23.103%
-collected_at: 2026-04-17T11:30:39.634427+00:00
+acceptance_rate: "23.103%"
+collected_at: "2026-04-17T11:30:39.634427+00:00"
 ---
 
 ## 문제

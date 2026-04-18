@@ -1,13 +1,13 @@
 ---
-title: Web 0.5
-special_judge: true
-time_limit: 8 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "Web 0.5"
+special_judge: "true"
+time_limit: "8 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 5
 accepted: 0
 solved_users: 0
-acceptance_rate: 0.000%
-collected_at: 2026-04-17T16:33:51.302593+00:00
+acceptance_rate: "0.000%"
+collected_at: "2026-04-17T16:33:51.302593+00:00"
 ---
 
 ## 문제

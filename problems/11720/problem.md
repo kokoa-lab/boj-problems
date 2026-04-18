@@ -1,13 +1,13 @@
 ---
-title: 숫자의 합
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "숫자의 합"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 338636
 accepted: 189824
 solved_users: 153716
-acceptance_rate: 56.324%
-collected_at: 2026-04-17T12:44:46.795186+00:00
+acceptance_rate: "56.324%"
+collected_at: "2026-04-17T12:44:46.795186+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Oh Those Rollers
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Oh Those Rollers"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 253
 accepted: 103
 solved_users: 82
-acceptance_rate: 37.615%
-collected_at: 2026-04-17T11:21:54.679960+00:00
+acceptance_rate: "37.615%"
+collected_at: "2026-04-17T11:21:54.679960+00:00"
 ---
 
 ## 문제

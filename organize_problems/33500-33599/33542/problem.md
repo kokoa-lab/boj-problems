@@ -1,13 +1,13 @@
 ---
-title: 극적인 승리
-special_judge: true
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "극적인 승리"
+special_judge: "true"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 1042
 accepted: 207
 solved_users: 167
-acceptance_rate: 22.032%
-collected_at: 2026-04-17T20:18:33.757647+00:00
+acceptance_rate: "22.032%"
+collected_at: "2026-04-17T20:18:33.757647+00:00"
 ---
 
 ## 문제

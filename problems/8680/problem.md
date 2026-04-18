@@ -1,13 +1,13 @@
 ---
-title: Drzewko
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Drzewko"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 132
 accepted: 72
 solved_users: 48
-acceptance_rate: 51.064%
-collected_at: 2026-04-17T12:02:02.417862+00:00
+acceptance_rate: "51.064%"
+collected_at: "2026-04-17T12:02:02.417862+00:00"
 ---
 
 ## 문제

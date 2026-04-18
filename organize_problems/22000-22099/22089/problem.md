@@ -1,13 +1,13 @@
 ---
-title: Лабораторная по физике
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "Лабораторная по физике"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 20
 accepted: 9
 solved_users: 7
-acceptance_rate: 46.667%
-collected_at: 2026-04-17T16:13:38.380367+00:00
+acceptance_rate: "46.667%"
+collected_at: "2026-04-17T16:13:38.380367+00:00"
 ---
 
 ## 문제

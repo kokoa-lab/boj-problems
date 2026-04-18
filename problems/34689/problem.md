@@ -1,13 +1,13 @@
 ---
-title: Paint It Anything Other Than White
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Paint It Anything Other Than White"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 31
 accepted: 23
 solved_users: 19
-acceptance_rate: 76.000%
-collected_at: 2026-04-17T20:46:05.953494+00:00
+acceptance_rate: "76.000%"
+collected_at: "2026-04-17T20:46:05.953494+00:00"
 ---
 
 ## 문제

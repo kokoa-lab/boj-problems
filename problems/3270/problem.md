@@ -1,13 +1,13 @@
 ---
-title: CATTLE
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "CATTLE"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 33
 accepted: 11
 solved_users: 10
-acceptance_rate: 37.037%
-collected_at: 2026-04-17T10:47:48.124474+00:00
+acceptance_rate: "37.037%"
+collected_at: "2026-04-17T10:47:48.124474+00:00"
 ---
 
 ## 문제

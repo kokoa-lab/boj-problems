@@ -1,13 +1,13 @@
 ---
-title: Acentuación del idioma español
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Acentuación del idioma español"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 544
 accepted: 350
 solved_users: 314
-acceptance_rate: 65.010%
-collected_at: 2026-04-17T20:25:33.791097+00:00
+acceptance_rate: "65.010%"
+collected_at: "2026-04-17T20:25:33.791097+00:00"
 ---
 
 ## 문제

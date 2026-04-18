@@ -1,13 +1,13 @@
 ---
-title: 올라올라
-special_judge: false
-time_limit: 0.7 초
-memory_limit: 1024 MB
+title: "올라올라"
+special_judge: "false"
+time_limit: "0.7 초"
+memory_limit: "1024 MB"
 submissions: 1412
 accepted: 462
 solved_users: 387
-acceptance_rate: 32.063%
-collected_at: 2026-04-17T19:24:21.227967+00:00
+acceptance_rate: "32.063%"
+collected_at: "2026-04-17T19:24:21.227967+00:00"
 ---
 
 ## 문제

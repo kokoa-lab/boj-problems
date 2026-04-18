@@ -1,13 +1,13 @@
 ---
-title: 렬정! 렬정! 렬정!
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "렬정! 렬정! 렬정!"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 451
 accepted: 200
 solved_users: 167
-acceptance_rate: 44.772%
-collected_at: 2026-04-17T19:39:13.652858+00:00
+acceptance_rate: "44.772%"
+collected_at: "2026-04-17T19:39:13.652858+00:00"
 ---
 
 ## 문제

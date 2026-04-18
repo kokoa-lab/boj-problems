@@ -1,13 +1,13 @@
 ---
-title: Hungry Fox
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Hungry Fox"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 48
 accepted: 12
 solved_users: 11
-acceptance_rate: 39.286%
-collected_at: 2026-04-17T13:24:18.168581+00:00
+acceptance_rate: "39.286%"
+collected_at: "2026-04-17T13:24:18.168581+00:00"
 ---
 
 ## 문제

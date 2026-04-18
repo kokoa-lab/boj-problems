@@ -1,13 +1,13 @@
 ---
-title: Intelligence Infection
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Intelligence Infection"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 56
 accepted: 17
 solved_users: 15
-acceptance_rate: 31.915%
-collected_at: 2026-04-17T13:47:54.718188+00:00
+acceptance_rate: "31.915%"
+collected_at: "2026-04-17T13:47:54.718188+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Song
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Song"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 23
 accepted: 12
 solved_users: 9
-acceptance_rate: 56.250%
-collected_at: 2026-04-17T12:38:33.598874+00:00
+acceptance_rate: "56.250%"
+collected_at: "2026-04-17T12:38:33.598874+00:00"
 ---
 
 ## 문제

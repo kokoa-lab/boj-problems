@@ -1,13 +1,13 @@
 ---
-title: Checkerboard Matrix (Large)
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Checkerboard Matrix (Large)"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 22
 accepted: 11
 solved_users: 11
-acceptance_rate: 91.667%
-collected_at: 2026-04-17T12:51:56.220861+00:00
+acceptance_rate: "91.667%"
+collected_at: "2026-04-17T12:51:56.220861+00:00"
 ---
 
 ## 문제

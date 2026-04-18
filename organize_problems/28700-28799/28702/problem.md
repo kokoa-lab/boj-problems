@@ -1,13 +1,13 @@
 ---
-title: FizzBuzz
-special_judge: true
-time_limit: 0.5 초
-memory_limit: 1024 MB
+title: "FizzBuzz"
+special_judge: "true"
+time_limit: "0.5 초"
+memory_limit: "1024 MB"
 submissions: 23069
 accepted: 14074
 solved_users: 12718
-acceptance_rate: 61.047%
-collected_at: 2026-04-17T18:30:57.832351+00:00
+acceptance_rate: "61.047%"
+collected_at: "2026-04-17T18:30:57.832351+00:00"
 ---
 
 ## 문제

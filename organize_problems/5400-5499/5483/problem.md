@@ -1,13 +1,13 @@
 ---
-title: Polish Flag
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "Polish Flag"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 33
 accepted: 2
 solved_users: 2
-acceptance_rate: 7.407%
-collected_at: 2026-04-17T11:14:28.882733+00:00
+acceptance_rate: "7.407%"
+collected_at: "2026-04-17T11:14:28.882733+00:00"
 ---
 
 ## 문제

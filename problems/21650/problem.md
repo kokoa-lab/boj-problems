@@ -1,13 +1,13 @@
 ---
-title: Чемпионат по стрельбе
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Чемпионат по стрельбе"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 83
 accepted: 30
 solved_users: 27
-acceptance_rate: 37.500%
-collected_at: 2026-04-17T16:02:26.850723+00:00
+acceptance_rate: "37.500%"
+collected_at: "2026-04-17T16:02:26.850723+00:00"
 ---
 
 ## 문제

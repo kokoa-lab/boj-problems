@@ -1,13 +1,13 @@
 ---
-title: Cake cut
-special_judge: false
-time_limit: 3 초
-memory_limit: 256 MB
+title: "Cake cut"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "256 MB"
 submissions: 45
 accepted: 29
 solved_users: 26
-acceptance_rate: 63.415%
-collected_at: 2026-04-17T12:42:00.634997+00:00
+acceptance_rate: "63.415%"
+collected_at: "2026-04-17T12:42:00.634997+00:00"
 ---
 
 ## 문제

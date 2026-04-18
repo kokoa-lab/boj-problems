@@ -1,13 +1,13 @@
 ---
-title: 이런 문제는 유치원생도 해결할 수 있어
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "이런 문제는 유치원생도 해결할 수 있어"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 317
 accepted: 98
 solved_users: 77
-acceptance_rate: 40.741%
-collected_at: 2026-04-17T11:29:51.952118+00:00
+acceptance_rate: "40.741%"
+collected_at: "2026-04-17T11:29:51.952118+00:00"
 ---
 
 ## 문제

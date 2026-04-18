@@ -1,13 +1,13 @@
 ---
-title: Pub crawl
-special_judge: true
-time_limit: 0.3 초
-memory_limit: 256 MB
+title: "Pub crawl"
+special_judge: "true"
+time_limit: "0.3 초"
+memory_limit: "256 MB"
 submissions: 87
 accepted: 20
 solved_users: 18
-acceptance_rate: 22.222%
-collected_at: 2026-04-17T13:20:52.626064+00:00
+acceptance_rate: "22.222%"
+collected_at: "2026-04-17T13:20:52.626064+00:00"
 ---
 
 ## 문제

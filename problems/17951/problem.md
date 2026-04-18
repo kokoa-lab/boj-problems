@@ -1,13 +1,13 @@
 ---
-title: 흩날리는 시험지 속에서 내 평점이 느껴진거야
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "흩날리는 시험지 속에서 내 평점이 느껴진거야"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 3541
 accepted: 1751
 solved_users: 1402
-acceptance_rate: 52.687%
-collected_at: 2026-04-17T14:50:50.508181+00:00
+acceptance_rate: "52.687%"
+collected_at: "2026-04-17T14:50:50.508181+00:00"
 ---
 
 ## 문제

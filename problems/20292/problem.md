@@ -1,13 +1,13 @@
 ---
-title: 컨설팅
-special_judge: true
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "컨설팅"
+special_judge: "true"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 380
 accepted: 138
 solved_users: 112
-acceptance_rate: 38.488%
-collected_at: 2026-04-17T15:34:20.582239+00:00
+acceptance_rate: "38.488%"
+collected_at: "2026-04-17T15:34:20.582239+00:00"
 ---
 
 ## 문제

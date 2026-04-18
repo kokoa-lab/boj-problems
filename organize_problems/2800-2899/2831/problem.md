@@ -1,13 +1,13 @@
 ---
-title: 댄스 파티
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "댄스 파티"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 2942
 accepted: 1056
 solved_users: 870
-acceptance_rate: 36.616%
-collected_at: 2026-04-17T10:45:10.265492+00:00
+acceptance_rate: "36.616%"
+collected_at: "2026-04-17T10:45:10.265492+00:00"
 ---
 
 ## 문제

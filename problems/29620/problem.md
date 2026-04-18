@@ -1,13 +1,13 @@
 ---
-title: PIMM 파티
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "PIMM 파티"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 67
 accepted: 28
 solved_users: 25
-acceptance_rate: 44.643%
-collected_at: 2026-04-17T18:49:00.302145+00:00
+acceptance_rate: "44.643%"
+collected_at: "2026-04-17T18:49:00.302145+00:00"
 ---
 
 ## 문제

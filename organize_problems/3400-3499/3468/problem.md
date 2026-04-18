@@ -1,13 +1,13 @@
 ---
-title: Horizontally Visible Segments
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Horizontally Visible Segments"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 8
 accepted: 2
 solved_users: 2
-acceptance_rate: 33.333%
-collected_at: 2026-04-17T10:49:07.055517+00:00
+acceptance_rate: "33.333%"
+collected_at: "2026-04-17T10:49:07.055517+00:00"
 ---
 
 ## 문제

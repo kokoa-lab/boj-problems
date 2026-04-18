@@ -1,13 +1,13 @@
 ---
-title: 찾았다 악질
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "찾았다 악질"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 1506
 accepted: 523
 solved_users: 449
-acceptance_rate: 35.692%
-collected_at: 2026-04-17T17:29:07.848000+00:00
+acceptance_rate: "35.692%"
+collected_at: "2026-04-17T17:29:07.848000+00:00"
 ---
 
 ## 문제

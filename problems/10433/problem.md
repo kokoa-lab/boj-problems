@@ -1,13 +1,13 @@
 ---
-title: 부동소수점 형식 변환
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "부동소수점 형식 변환"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 62
 accepted: 17
 solved_users: 14
-acceptance_rate: 35.000%
-collected_at: 2026-04-17T12:23:37.785488+00:00
+acceptance_rate: "35.000%"
+collected_at: "2026-04-17T12:23:37.785488+00:00"
 ---
 
 ## 문제

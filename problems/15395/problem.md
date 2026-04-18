@@ -1,13 +1,13 @@
 ---
-title: Christmas Tree
-special_judge: false
-time_limit: 0.7 초
-memory_limit: 512 MB
+title: "Christmas Tree"
+special_judge: "false"
+time_limit: "0.7 초"
+memory_limit: "512 MB"
 submissions: 77
 accepted: 0
 solved_users: 0
-acceptance_rate: 0.000%
-collected_at: 2026-04-17T13:58:33.472011+00:00
+acceptance_rate: "0.000%"
+collected_at: "2026-04-17T13:58:33.472011+00:00"
 ---
 
 ## 문제

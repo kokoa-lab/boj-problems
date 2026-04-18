@@ -1,13 +1,13 @@
 ---
-title: 핸들 뭘로 하지
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "핸들 뭘로 하지"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 2367
 accepted: 387
 solved_users: 279
-acceptance_rate: 18.105%
-collected_at: 2026-04-17T17:27:37.550993+00:00
+acceptance_rate: "18.105%"
+collected_at: "2026-04-17T17:27:37.550993+00:00"
 ---
 
 ## 문제

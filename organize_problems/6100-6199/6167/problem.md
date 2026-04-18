@@ -1,13 +1,13 @@
 ---
-title: Eating Together
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Eating Together"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 198
 accepted: 107
 solved_users: 87
-acceptance_rate: 58.784%
-collected_at: 2026-04-17T11:21:39.935742+00:00
+acceptance_rate: "58.784%"
+collected_at: "2026-04-17T11:21:39.935742+00:00"
 ---
 
 ## 문제

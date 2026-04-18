@@ -1,13 +1,13 @@
 ---
-title: You’ve goat me stumped
-special_judge: true
-time_limit: 10 초
-memory_limit: 512 MB
+title: "You’ve goat me stumped"
+special_judge: "true"
+time_limit: "10 초"
+memory_limit: "512 MB"
 submissions: 67
 accepted: 49
 solved_users: 38
-acceptance_rate: 77.551%
-collected_at: 2026-04-18T09:54:22.399444+00:00
+acceptance_rate: "77.551%"
+collected_at: "2026-04-18T09:54:22.399444+00:00"
 ---
 
 ## 문제

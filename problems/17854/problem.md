@@ -1,13 +1,13 @@
 ---
-title: Cheese, If You Please
-special_judge: false
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "Cheese, If You Please"
+special_judge: "false"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 60
 accepted: 29
 solved_users: 21
-acceptance_rate: 53.846%
-collected_at: 2026-04-17T14:48:34.844388+00:00
+acceptance_rate: "53.846%"
+collected_at: "2026-04-17T14:48:34.844388+00:00"
 ---
 
 ## 문제

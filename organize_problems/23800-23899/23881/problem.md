@@ -1,13 +1,13 @@
 ---
-title: 알고리즘 수업 - 선택 정렬 1
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "알고리즘 수업 - 선택 정렬 1"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 7250
 accepted: 2634
 solved_users: 2170
-acceptance_rate: 39.163%
-collected_at: 2026-04-17T16:56:39.178935+00:00
+acceptance_rate: "39.163%"
+collected_at: "2026-04-17T16:56:39.178935+00:00"
 ---
 
 ## 문제

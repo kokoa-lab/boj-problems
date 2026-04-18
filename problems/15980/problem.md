@@ -1,13 +1,13 @@
 ---
-title: 명상 방해꾼
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "명상 방해꾼"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 575
 accepted: 303
 solved_users: 258
-acceptance_rate: 57.589%
-collected_at: 2026-04-17T14:09:31.321017+00:00
+acceptance_rate: "57.589%"
+collected_at: "2026-04-17T14:09:31.321017+00:00"
 ---
 
 ## 문제

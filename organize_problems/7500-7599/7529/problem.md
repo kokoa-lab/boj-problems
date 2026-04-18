@@ -1,13 +1,13 @@
 ---
-title: Soccer
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Soccer"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 15
 accepted: 6
 solved_users: 3
-acceptance_rate: 25.000%
-collected_at: 2026-04-17T11:50:18.069015+00:00
+acceptance_rate: "25.000%"
+collected_at: "2026-04-17T11:50:18.069015+00:00"
 ---
 
 ## 문제

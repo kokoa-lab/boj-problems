@@ -1,13 +1,13 @@
 ---
-title: Coral Perfeito
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Coral Perfeito"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 91
 accepted: 63
 solved_users: 60
-acceptance_rate: 68.182%
-collected_at: 2026-04-17T13:16:30.716926+00:00
+acceptance_rate: "68.182%"
+collected_at: "2026-04-17T13:16:30.716926+00:00"
 ---
 
 ## 문제

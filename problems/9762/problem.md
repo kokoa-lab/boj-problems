@@ -1,13 +1,13 @@
 ---
-title: โรงงานลูกกวาด (Candy Factory)
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "โรงงานลูกกวาด (Candy Factory)"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 93
 accepted: 78
 solved_users: 54
-acceptance_rate: 93.103%
-collected_at: 2026-04-17T12:14:10.145286+00:00
+acceptance_rate: "93.103%"
+collected_at: "2026-04-17T12:14:10.145286+00:00"
 ---
 
 ## 문제

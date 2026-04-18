@@ -1,13 +1,13 @@
 ---
-title: Dates
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Dates"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 134
 accepted: 30
 solved_users: 24
-acceptance_rate: 31.169%
-collected_at: 2026-04-17T15:04:56.652223+00:00
+acceptance_rate: "31.169%"
+collected_at: "2026-04-17T15:04:56.652223+00:00"
 ---
 
 ## 문제

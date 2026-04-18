@@ -1,13 +1,13 @@
 ---
-title: 땅다람쥐
-special_judge: true
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "땅다람쥐"
+special_judge: "true"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 372
 accepted: 18
 solved_users: 17
-acceptance_rate: 6.115%
-collected_at: 2026-04-17T14:38:08.840432+00:00
+acceptance_rate: "6.115%"
+collected_at: "2026-04-17T14:38:08.840432+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 전깃줄 - 2
-special_judge: true
-time_limit: 1 초
-memory_limit: 128 MB
+title: "전깃줄 - 2"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 16079
 accepted: 6737
 solved_users: 4982
-acceptance_rate: 41.286%
-collected_at: 2026-04-17T10:42:51.542718+00:00
+acceptance_rate: "41.286%"
+collected_at: "2026-04-17T10:42:51.542718+00:00"
 ---
 
 ## 문제

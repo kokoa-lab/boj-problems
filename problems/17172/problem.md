@@ -1,13 +1,13 @@
 ---
-title: Dijkstra Is Playing At My House
-special_judge: false
-time_limit: 3 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Dijkstra Is Playing At My House"
+special_judge: "false"
+time_limit: "3 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 104
 accepted: 25
 solved_users: 20
-acceptance_rate: 23.810%
-collected_at: 2026-04-17T14:31:50.448541+00:00
+acceptance_rate: "23.810%"
+collected_at: "2026-04-17T14:31:50.448541+00:00"
 ---
 
 ## 문제

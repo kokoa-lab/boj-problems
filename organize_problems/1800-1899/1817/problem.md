@@ -1,13 +1,13 @@
 ---
-title: 짐 챙기는 숌
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "짐 챙기는 숌"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 6888
 accepted: 3431
 solved_users: 3064
-acceptance_rate: 50.578%
-collected_at: 2026-04-17T10:34:10.285444+00:00
+acceptance_rate: "50.578%"
+collected_at: "2026-04-17T10:34:10.285444+00:00"
 ---
 
 ## 문제

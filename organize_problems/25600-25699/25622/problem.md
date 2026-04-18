@@ -1,13 +1,13 @@
 ---
-title: 3에 깃든 힘
-special_judge: true
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "3에 깃든 힘"
+special_judge: "true"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 448
 accepted: 144
 solved_users: 112
-acceptance_rate: 40.580%
-collected_at: 2026-04-17T17:30:04.339084+00:00
+acceptance_rate: "40.580%"
+collected_at: "2026-04-17T17:30:04.339084+00:00"
 ---
 
 ## 문제

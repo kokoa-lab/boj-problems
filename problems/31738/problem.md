@@ -1,13 +1,13 @@
 ---
-title: 매우 어려운 문제
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "매우 어려운 문제"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 3737
 accepted: 1233
 solved_users: 1034
-acceptance_rate: 36.396%
-collected_at: 2026-04-17T19:35:37.597266+00:00
+acceptance_rate: "36.396%"
+collected_at: "2026-04-17T19:35:37.597266+00:00"
 ---
 
 ## 문제

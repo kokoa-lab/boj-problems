@@ -1,13 +1,13 @@
 ---
-title: ??!
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "??!"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 390944
 accepted: 196512
 solved_users: 166232
-acceptance_rate: 50.481%
-collected_at: 2026-04-17T12:31:46.450919+00:00
+acceptance_rate: "50.481%"
+collected_at: "2026-04-17T12:31:46.450919+00:00"
 ---
 
 ## 문제

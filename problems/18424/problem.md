@@ -1,13 +1,13 @@
 ---
-title: Matching
-special_judge: true
-time_limit: 2.5 초
-memory_limit: 512 MB
+title: "Matching"
+special_judge: "true"
+time_limit: "2.5 초"
+memory_limit: "512 MB"
 submissions: 70
 accepted: 30
 solved_users: 18
-acceptance_rate: 33.333%
-collected_at: 2026-04-17T15:04:19.965442+00:00
+acceptance_rate: "33.333%"
+collected_at: "2026-04-17T15:04:19.965442+00:00"
 ---
 
 ## 문제

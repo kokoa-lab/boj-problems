@@ -1,13 +1,13 @@
 ---
-title: 망가진 나무
-special_judge: true
-time_limit: 1 초
-memory_limit: 512 MB
+title: "망가진 나무"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 524
 accepted: 248
 solved_users: 189
-acceptance_rate: 52.646%
-collected_at: 2026-04-17T17:06:04.157710+00:00
+acceptance_rate: "52.646%"
+collected_at: "2026-04-17T17:06:04.157710+00:00"
 ---
 
 ## 문제

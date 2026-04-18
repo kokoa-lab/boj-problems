@@ -1,13 +1,13 @@
 ---
-title: Bitwise Xor
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Bitwise Xor"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 83
 accepted: 30
 solved_users: 27
-acceptance_rate: 35.065%
-collected_at: 2026-04-17T15:05:19.909113+00:00
+acceptance_rate: "35.065%"
+collected_at: "2026-04-17T15:05:19.909113+00:00"
 ---
 
 ## 문제

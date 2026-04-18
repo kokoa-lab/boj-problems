@@ -1,13 +1,13 @@
 ---
-title: 수열과 쿼리 17
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "수열과 쿼리 17"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 8123
 accepted: 4912
 solved_users: 3963
-acceptance_rate: 62.097%
-collected_at: 2026-04-17T13:33:27.851385+00:00
+acceptance_rate: "62.097%"
+collected_at: "2026-04-17T13:33:27.851385+00:00"
 ---
 
 ## 문제

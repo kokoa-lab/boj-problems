@@ -1,13 +1,13 @@
 ---
-title: 주차의 신
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "주차의 신"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 5753
 accepted: 4449
 solved_users: 4150
-acceptance_rate: 78.435%
-collected_at: 2026-04-17T11:11:11.551924+00:00
+acceptance_rate: "78.435%"
+collected_at: "2026-04-17T11:11:11.551924+00:00"
 ---
 
 ## 문제

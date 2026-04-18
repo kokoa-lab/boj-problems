@@ -1,13 +1,13 @@
 ---
-title: 디지털 비디오 디스크(DVDs)
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "디지털 비디오 디스크(DVDs)"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 5953
 accepted: 2614
 solved_users: 1995
-acceptance_rate: 41.912%
-collected_at: 2026-04-17T12:09:08.582046+00:00
+acceptance_rate: "41.912%"
+collected_at: "2026-04-17T12:09:08.582046+00:00"
 ---
 
 ## 문제

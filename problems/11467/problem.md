@@ -1,13 +1,13 @@
 ---
-title: Black and White
-special_judge: true
-time_limit: 2 초
-memory_limit: 256 MB
+title: "Black and White"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 170
 accepted: 96
 solved_users: 88
-acceptance_rate: 60.274%
-collected_at: 2026-04-17T12:41:08.913375+00:00
+acceptance_rate: "60.274%"
+collected_at: "2026-04-17T12:41:08.913375+00:00"
 ---
 
 ## 문제

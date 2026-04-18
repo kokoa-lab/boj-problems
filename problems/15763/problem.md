@@ -1,13 +1,13 @@
 ---
-title: Team Tic Tac Toe
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Team Tic Tac Toe"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 958
 accepted: 317
 solved_users: 280
-acceptance_rate: 35.944%
-collected_at: 2026-04-17T14:05:58.643794+00:00
+acceptance_rate: "35.944%"
+collected_at: "2026-04-17T14:05:58.643794+00:00"
 ---
 
 ## 문제

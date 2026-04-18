@@ -1,13 +1,13 @@
 ---
-title: Прямоугольный полигон
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Прямоугольный полигон"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 90
 accepted: 67
 solved_users: 64
-acceptance_rate: 73.563%
-collected_at: 2026-04-17T18:49:27.855564+00:00
+acceptance_rate: "73.563%"
+collected_at: "2026-04-17T18:49:27.855564+00:00"
 ---
 
 ## 문제

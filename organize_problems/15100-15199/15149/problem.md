@@ -1,13 +1,13 @@
 ---
-title: Greedy Generosity
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Greedy Generosity"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 29
 accepted: 6
 solved_users: 6
-acceptance_rate: 21.429%
-collected_at: 2026-04-17T13:52:26.733231+00:00
+acceptance_rate: "21.429%"
+collected_at: "2026-04-17T13:52:26.733231+00:00"
 ---
 
 ## 문제

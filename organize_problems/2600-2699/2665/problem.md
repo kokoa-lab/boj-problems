@@ -1,13 +1,13 @@
 ---
-title: 미로만들기
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "미로만들기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 18629
 accepted: 9722
 solved_users: 7307
-acceptance_rate: 57.162%
-collected_at: 2026-04-17T10:43:46.233268+00:00
+acceptance_rate: "57.162%"
+collected_at: "2026-04-17T10:43:46.233268+00:00"
 ---
 
 ## 문제

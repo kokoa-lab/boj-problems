@@ -1,13 +1,13 @@
 ---
-title: 최댓값 찾기
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "최댓값 찾기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 252
 accepted: 89
 solved_users: 78
-acceptance_rate: 43.820%
-collected_at: 2026-04-17T20:46:43.424838+00:00
+acceptance_rate: "43.820%"
+collected_at: "2026-04-17T20:46:43.424838+00:00"
 ---
 
 ## 문제

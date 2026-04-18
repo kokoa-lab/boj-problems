@@ -1,13 +1,13 @@
 ---
-title: 디미교도소
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "디미교도소"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 79
 accepted: 17
 solved_users: 13
-acceptance_rate: 21.667%
-collected_at: 2026-04-17T20:19:34.702836+00:00
+acceptance_rate: "21.667%"
+collected_at: "2026-04-17T20:19:34.702836+00:00"
 ---
 
 ## 문제

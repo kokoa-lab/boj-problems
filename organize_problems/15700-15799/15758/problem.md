@@ -1,13 +1,13 @@
 ---
-title: Milking Order
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Milking Order"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 414
 accepted: 198
 solved_users: 166
-acceptance_rate: 48.116%
-collected_at: 2026-04-17T14:05:55.342534+00:00
+acceptance_rate: "48.116%"
+collected_at: "2026-04-17T14:05:55.342534+00:00"
 ---
 
 ## 문제

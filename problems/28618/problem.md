@@ -1,13 +1,13 @@
 ---
-title: Подрыв ветряка
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Подрыв ветряка"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 30
 accepted: 9
 solved_users: 3
-acceptance_rate: 30.000%
-collected_at: 2026-04-17T18:29:29.835602+00:00
+acceptance_rate: "30.000%"
+collected_at: "2026-04-17T18:29:29.835602+00:00"
 ---
 
 ## 문제

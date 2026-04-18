@@ -1,13 +1,13 @@
 ---
-title: 운동장 회전초밥
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "운동장 회전초밥"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 145
 accepted: 92
 solved_users: 90
-acceptance_rate: 67.669%
-collected_at: 2026-04-17T20:52:31.215271+00:00
+acceptance_rate: "67.669%"
+collected_at: "2026-04-17T20:52:31.215271+00:00"
 ---
 
 ## 문제

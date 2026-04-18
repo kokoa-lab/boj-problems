@@ -1,13 +1,13 @@
 ---
-title: 공간 개념 테스트
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "공간 개념 테스트"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 23
 accepted: 12
 solved_users: 7
-acceptance_rate: 63.636%
-collected_at: 2026-04-17T10:44:13.948315+00:00
+acceptance_rate: "63.636%"
+collected_at: "2026-04-17T10:44:13.948315+00:00"
 ---
 
 ## 문제

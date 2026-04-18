@@ -1,13 +1,13 @@
 ---
-title: Non-Decreasing Subsequences
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Non-Decreasing Subsequences"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 273
 accepted: 89
 solved_users: 62
-acceptance_rate: 27.928%
-collected_at: 2026-04-17T14:59:29.382232+00:00
+acceptance_rate: "27.928%"
+collected_at: "2026-04-17T14:59:29.382232+00:00"
 ---
 
 ## 문제

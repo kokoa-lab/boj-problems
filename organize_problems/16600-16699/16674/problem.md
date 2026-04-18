@@ -1,13 +1,13 @@
 ---
-title: 2018년을 되돌아보며
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "2018년을 되돌아보며"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 2041
 accepted: 1277
 solved_users: 1112
-acceptance_rate: 63.871%
-collected_at: 2026-04-17T14:22:03.371320+00:00
+acceptance_rate: "63.871%"
+collected_at: "2026-04-17T14:22:03.371320+00:00"
 ---
 
 ## 문제

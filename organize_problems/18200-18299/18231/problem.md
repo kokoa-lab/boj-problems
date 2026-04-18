@@ -1,13 +1,13 @@
 ---
-title: 파괴된 도시
-special_judge: true
-time_limit: 2 초
-memory_limit: 512 MB
+title: "파괴된 도시"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 1266
 accepted: 513
 solved_users: 423
-acceptance_rate: 40.909%
-collected_at: 2026-04-17T14:57:37.385147+00:00
+acceptance_rate: "40.909%"
+collected_at: "2026-04-17T14:57:37.385147+00:00"
 ---
 
 ## 문제

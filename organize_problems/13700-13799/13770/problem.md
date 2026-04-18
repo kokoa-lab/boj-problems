@@ -1,13 +1,13 @@
 ---
-title: Krypton Stadiums
-special_judge: false
-time_limit: 10 초
-memory_limit: 512 MB
+title: "Krypton Stadiums"
+special_judge: "false"
+time_limit: "10 초"
+memory_limit: "512 MB"
 submissions: 24
 accepted: 8
 solved_users: 7
-acceptance_rate: 43.750%
-collected_at: 2026-04-17T13:19:03.894412+00:00
+acceptance_rate: "43.750%"
+collected_at: "2026-04-17T13:19:03.894412+00:00"
 ---
 
 ## 문제

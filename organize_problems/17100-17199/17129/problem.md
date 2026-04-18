@@ -1,13 +1,13 @@
 ---
-title: 윌리암슨수액빨이딱따구리가 정보섬에 올라온 이유
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "윌리암슨수액빨이딱따구리가 정보섬에 올라온 이유"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 4410
 accepted: 1688
 solved_users: 1352
-acceptance_rate: 39.075%
-collected_at: 2026-04-17T14:30:29.343288+00:00
+acceptance_rate: "39.075%"
+collected_at: "2026-04-17T14:30:29.343288+00:00"
 ---
 
 ## 문제

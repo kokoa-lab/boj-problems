@@ -1,13 +1,13 @@
 ---
-title: PSAT 특별과정
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "PSAT 특별과정"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 661
 accepted: 84
 solved_users: 62
-acceptance_rate: 14.155%
-collected_at: 2026-04-17T18:17:43.974905+00:00
+acceptance_rate: "14.155%"
+collected_at: "2026-04-17T18:17:43.974905+00:00"
 ---
 
 ## 문제

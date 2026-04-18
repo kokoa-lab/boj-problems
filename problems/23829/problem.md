@@ -1,13 +1,13 @@
 ---
-title: 인문예술탐사주간
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "인문예술탐사주간"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 1268
 accepted: 387
 solved_users: 301
-acceptance_rate: 30.621%
-collected_at: 2026-04-17T16:55:08.037639+00:00
+acceptance_rate: "30.621%"
+collected_at: "2026-04-17T16:55:08.037639+00:00"
 ---
 
 ## 문제

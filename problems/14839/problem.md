@@ -1,13 +1,13 @@
 ---
-title: Stack Management (Large)
-special_judge: false
-time_limit: 20 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "Stack Management (Large)"
+special_judge: "false"
+time_limit: "20 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 19
 accepted: 2
 solved_users: 2
-acceptance_rate: 22.222%
-collected_at: 2026-04-17T13:42:48.303257+00:00
+acceptance_rate: "22.222%"
+collected_at: "2026-04-17T13:42:48.303257+00:00"
 ---
 
 ## 문제

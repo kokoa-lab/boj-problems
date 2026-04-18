@@ -1,13 +1,13 @@
 ---
-title: Fighting Monsters
-special_judge: true
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Fighting Monsters"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 171
 accepted: 96
 solved_users: 89
-acceptance_rate: 61.379%
-collected_at: 2026-04-18T09:58:51.817930+00:00
+acceptance_rate: "61.379%"
+collected_at: "2026-04-18T09:58:51.817930+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 수확의 계절이다!
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "수확의 계절이다!"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 326
 accepted: 88
 solved_users: 66
-acceptance_rate: 28.205%
-collected_at: 2026-04-17T17:36:29.099471+00:00
+acceptance_rate: "28.205%"
+collected_at: "2026-04-17T17:36:29.099471+00:00"
 ---
 
 ## 문제

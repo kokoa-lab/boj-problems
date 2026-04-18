@@ -1,13 +1,13 @@
 ---
-title: 스테판 쿼리
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "스테판 쿼리"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 1577
 accepted: 644
 solved_users: 553
-acceptance_rate: 42.506%
-collected_at: 2026-04-17T13:39:55.886323+00:00
+acceptance_rate: "42.506%"
+collected_at: "2026-04-17T13:39:55.886323+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Election Frenzy
-special_judge: true
-time_limit: 10 초
-memory_limit: 512 MB
+title: "Election Frenzy"
+special_judge: "true"
+time_limit: "10 초"
+memory_limit: "512 MB"
 submissions: 58
 accepted: 14
 solved_users: 12
-acceptance_rate: 30.000%
-collected_at: 2026-04-17T13:53:35.412333+00:00
+acceptance_rate: "30.000%"
+collected_at: "2026-04-17T13:53:35.412333+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Mall
-special_judge: true
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Mall"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 69
 accepted: 47
 solved_users: 38
-acceptance_rate: 73.077%
-collected_at: 2026-04-17T15:12:11.664328+00:00
+acceptance_rate: "73.077%"
+collected_at: "2026-04-17T15:12:11.664328+00:00"
 ---
 
 ## 문제

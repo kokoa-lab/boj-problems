@@ -1,13 +1,13 @@
 ---
-title: 돌림판 문자열
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "돌림판 문자열"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 863
 accepted: 427
 solved_users: 375
-acceptance_rate: 52.521%
-collected_at: 2026-04-17T17:31:42.008205+00:00
+acceptance_rate: "52.521%"
+collected_at: "2026-04-17T17:31:42.008205+00:00"
 ---
 
 ## 문제

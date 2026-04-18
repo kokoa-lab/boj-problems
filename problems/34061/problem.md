@@ -1,13 +1,13 @@
 ---
-title: 소어그래프
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "소어그래프"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 263
 accepted: 107
 solved_users: 88
-acceptance_rate: 38.095%
-collected_at: 2026-04-17T20:29:41.475842+00:00
+acceptance_rate: "38.095%"
+collected_at: "2026-04-17T20:29:41.475842+00:00"
 ---
 
 ## 문제

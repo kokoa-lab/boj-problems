@@ -1,13 +1,13 @@
 ---
-title: Fiolki
-special_judge: false
-time_limit: 3 초
-memory_limit: 256 MB
+title: "Fiolki"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "256 MB"
 submissions: 17
 accepted: 2
 solved_users: 2
-acceptance_rate: 28.571%
-collected_at: 2026-04-17T12:19:36.139035+00:00
+acceptance_rate: "28.571%"
+collected_at: "2026-04-17T12:19:36.139035+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 투자의 귀재 배주형
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "투자의 귀재 배주형"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 6295
 accepted: 2334
 solved_users: 2010
-acceptance_rate: 38.395%
-collected_at: 2026-04-17T15:29:45.014911+00:00
+acceptance_rate: "38.395%"
+collected_at: "2026-04-17T15:29:45.014911+00:00"
 ---
 
 ## 문제

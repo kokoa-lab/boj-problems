@@ -1,13 +1,13 @@
 ---
-title: Anti-Fan Death
-special_judge: true
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "Anti-Fan Death"
+special_judge: "true"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 342
 accepted: 181
 solved_users: 142
-acceptance_rate: 52.593%
-collected_at: 2026-04-17T20:18:24.764705+00:00
+acceptance_rate: "52.593%"
+collected_at: "2026-04-17T20:18:24.764705+00:00"
 ---
 
 ## 문제

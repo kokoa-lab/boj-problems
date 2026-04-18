@@ -1,13 +1,13 @@
 ---
-title: Анализ крипторынка
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "Анализ крипторынка"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 77
 accepted: 50
 solved_users: 46
-acceptance_rate: 65.714%
-collected_at: 2026-04-17T17:12:20.386510+00:00
+acceptance_rate: "65.714%"
+collected_at: "2026-04-17T17:12:20.386510+00:00"
 ---
 
 ## 문제

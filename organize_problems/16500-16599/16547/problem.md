@@ -1,13 +1,13 @@
 ---
-title: Oblongs and Right Triangles
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Oblongs and Right Triangles"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 13
 accepted: 7
 solved_users: 7
-acceptance_rate: 53.846%
-collected_at: 2026-04-17T14:19:51.198021+00:00
+acceptance_rate: "53.846%"
+collected_at: "2026-04-17T14:19:51.198021+00:00"
 ---
 
 ## 문제

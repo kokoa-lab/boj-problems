@@ -1,13 +1,13 @@
 ---
-title: For Programming Excellence
-special_judge: false
-time_limit: 8 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "For Programming Excellence"
+special_judge: "false"
+time_limit: "8 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 55
 accepted: 18
 solved_users: 8
-acceptance_rate: 21.622%
-collected_at: 2026-04-17T14:10:20.735169+00:00
+acceptance_rate: "21.622%"
+collected_at: "2026-04-17T14:10:20.735169+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Ordinal Number
-special_judge: false
-time_limit: 2 초
-memory_limit: 2048 MB
+title: "Ordinal Number"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "2048 MB"
 submissions: 67
 accepted: 57
 solved_users: 42
-acceptance_rate: 82.353%
-collected_at: 2026-04-17T20:04:01.620622+00:00
+acceptance_rate: "82.353%"
+collected_at: "2026-04-17T20:04:01.620622+00:00"
 ---
 
 ## 문제

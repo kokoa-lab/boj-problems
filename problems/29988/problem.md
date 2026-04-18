@@ -1,13 +1,13 @@
 ---
-title: Challenging Hike
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Challenging Hike"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 32
 accepted: 17
 solved_users: 16
-acceptance_rate: 51.613%
-collected_at: 2026-04-17T18:56:47.516465+00:00
+acceptance_rate: "51.613%"
+collected_at: "2026-04-17T18:56:47.516465+00:00"
 ---
 
 ## 문제

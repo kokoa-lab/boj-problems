@@ -1,13 +1,13 @@
 ---
-title: Idempotent Filter
-special_judge: false
-time_limit: 8 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "Idempotent Filter"
+special_judge: "false"
+time_limit: "8 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 80
 accepted: 64
 solved_users: 20
-acceptance_rate: 74.074%
-collected_at: 2026-04-17T13:07:41.731319+00:00
+acceptance_rate: "74.074%"
+collected_at: "2026-04-17T13:07:41.731319+00:00"
 ---
 
 ## 문제

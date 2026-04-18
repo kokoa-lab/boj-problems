@@ -1,13 +1,13 @@
 ---
-title: Snow Cones
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Snow Cones"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 98
 accepted: 22
 solved_users: 22
-acceptance_rate: 25.581%
-collected_at: 2026-04-17T11:42:51.493296+00:00
+acceptance_rate: "25.581%"
+collected_at: "2026-04-17T11:42:51.493296+00:00"
 ---
 
 ## 문제

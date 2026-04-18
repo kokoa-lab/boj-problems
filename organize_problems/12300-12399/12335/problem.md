@@ -1,13 +1,13 @@
 ---
-title: Tic-Tac-Toe-Tomek (Small)
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Tic-Tac-Toe-Tomek (Small)"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 148
 accepted: 105
 solved_users: 87
-acceptance_rate: 73.109%
-collected_at: 2026-04-17T12:53:46.645566+00:00
+acceptance_rate: "73.109%"
+collected_at: "2026-04-17T12:53:46.645566+00:00"
 ---
 
 ## 문제

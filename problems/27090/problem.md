@@ -1,13 +1,13 @@
 ---
-title: 지뢰 피하기
-special_judge: false
-time_limit: 3 초
-memory_limit: 1024 MB
+title: "지뢰 피하기"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "1024 MB"
 submissions: 97
 accepted: 45
 solved_users: 39
-acceptance_rate: 46.988%
-collected_at: 2026-04-17T17:56:20.057070+00:00
+acceptance_rate: "46.988%"
+collected_at: "2026-04-17T17:56:20.057070+00:00"
 ---
 
 ## 문제

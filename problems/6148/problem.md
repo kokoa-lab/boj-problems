@@ -1,13 +1,13 @@
 ---
-title: Bookshelf 2
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Bookshelf 2"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 874
 accepted: 408
 solved_users: 343
-acceptance_rate: 49.211%
-collected_at: 2026-04-17T11:21:19.972890+00:00
+acceptance_rate: "49.211%"
+collected_at: "2026-04-17T11:21:19.972890+00:00"
 ---
 
 ## 문제

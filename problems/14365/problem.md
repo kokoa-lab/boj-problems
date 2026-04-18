@@ -1,13 +1,13 @@
 ---
-title: Slides! (Small)
-special_judge: true
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Slides! (Small)"
+special_judge: "true"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 33
 accepted: 24
 solved_users: 23
-acceptance_rate: 71.875%
-collected_at: 2026-04-17T13:31:15.387249+00:00
+acceptance_rate: "71.875%"
+collected_at: "2026-04-17T13:31:15.387249+00:00"
 ---
 
 ## 문제

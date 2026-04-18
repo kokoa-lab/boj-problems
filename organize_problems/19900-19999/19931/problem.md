@@ -1,13 +1,13 @@
 ---
-title: Finding Routers
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Finding Routers"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 163
 accepted: 31
 solved_users: 19
-acceptance_rate: 15.323%
-collected_at: 2026-04-17T15:29:30.087233+00:00
+acceptance_rate: "15.323%"
+collected_at: "2026-04-17T15:29:30.087233+00:00"
 ---
 
 ## 문제

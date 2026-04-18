@@ -1,13 +1,13 @@
 ---
-title: 편안한 문자열
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "편안한 문자열"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 358
 accepted: 135
 solved_users: 105
-acceptance_rate: 39.179%
-collected_at: 2026-04-17T14:25:07.439120+00:00
+acceptance_rate: "39.179%"
+collected_at: "2026-04-17T14:25:07.439120+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Potential
-special_judge: true
-time_limit: 3 초
-memory_limit: 1024 MB
+title: "Potential"
+special_judge: "true"
+time_limit: "3 초"
+memory_limit: "1024 MB"
 submissions: 25
 accepted: 3
 solved_users: 2
-acceptance_rate: 8.333%
-collected_at: 2026-04-17T19:26:06.326475+00:00
+acceptance_rate: "8.333%"
+collected_at: "2026-04-17T19:26:06.326475+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Falling Apples
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Falling Apples"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 370
 accepted: 176
 solved_users: 138
-acceptance_rate: 50.735%
-collected_at: 2026-04-17T13:18:14.990848+00:00
+acceptance_rate: "50.735%"
+collected_at: "2026-04-17T13:18:14.990848+00:00"
 ---
 
 ## 문제

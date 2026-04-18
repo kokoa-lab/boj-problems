@@ -1,13 +1,13 @@
 ---
-title: 엔드롤이 끝나고
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "엔드롤이 끝나고"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 257
 accepted: 51
 solved_users: 42
-acceptance_rate: 20.896%
-collected_at: 2026-04-17T18:03:21.966457+00:00
+acceptance_rate: "20.896%"
+collected_at: "2026-04-17T18:03:21.966457+00:00"
 ---
 
 ## 문제

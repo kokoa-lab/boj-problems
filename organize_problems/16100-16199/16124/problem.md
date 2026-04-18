@@ -1,13 +1,13 @@
 ---
-title: 나는 행복합니다
-special_judge: false
-time_limit: 3 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "나는 행복합니다"
+special_judge: "false"
+time_limit: "3 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 1700
 accepted: 444
 solved_users: 223
-acceptance_rate: 18.645%
-collected_at: 2026-04-17T14:11:47.018046+00:00
+acceptance_rate: "18.645%"
+collected_at: "2026-04-17T14:11:47.018046+00:00"
 ---
 
 ## 문제

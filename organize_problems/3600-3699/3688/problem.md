@@ -1,13 +1,13 @@
 ---
-title: 래프팅 디자인
-special_judge: true
-time_limit: 1 초
-memory_limit: 128 MB
+title: "래프팅 디자인"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 55
 accepted: 26
 solved_users: 22
-acceptance_rate: 48.889%
-collected_at: 2026-04-17T10:51:02.623909+00:00
+acceptance_rate: "48.889%"
+collected_at: "2026-04-17T10:51:02.623909+00:00"
 ---
 
 ## 문제

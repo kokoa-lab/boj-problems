@@ -1,13 +1,13 @@
 ---
-title: Gig Combinatorics
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Gig Combinatorics"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 178
 accepted: 105
 solved_users: 89
-acceptance_rate: 76.068%
-collected_at: 2026-04-17T15:46:33.479828+00:00
+acceptance_rate: "76.068%"
+collected_at: "2026-04-17T15:46:33.479828+00:00"
 ---
 
 ## 문제

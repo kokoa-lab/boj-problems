@@ -1,13 +1,13 @@
 ---
-title: 자리 바꾸기
-special_judge: false
-time_limit: 3 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "자리 바꾸기"
+special_judge: "false"
+time_limit: "3 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 543
 accepted: 175
 solved_users: 128
-acceptance_rate: 33.952%
-collected_at: 2026-04-17T17:30:01.125341+00:00
+acceptance_rate: "33.952%"
+collected_at: "2026-04-17T17:30:01.125341+00:00"
 ---
 
 ## 문제

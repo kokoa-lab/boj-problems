@@ -1,13 +1,13 @@
 ---
-title: 응급센터
-special_judge: true
-time_limit: 1 초
-memory_limit: 128 MB
+title: "응급센터"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 165
 accepted: 15
 solved_users: 11
-acceptance_rate: 19.298%
-collected_at: 2026-04-17T10:42:05.198097+00:00
+acceptance_rate: "19.298%"
+collected_at: "2026-04-17T10:42:05.198097+00:00"
 ---
 
 ## 문제

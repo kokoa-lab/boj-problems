@@ -1,13 +1,13 @@
 ---
-title: 슈퍼 나이트
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "슈퍼 나이트"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 58
 accepted: 20
 solved_users: 14
-acceptance_rate: 38.889%
-collected_at: 2026-04-17T13:13:09.398768+00:00
+acceptance_rate: "38.889%"
+collected_at: "2026-04-17T13:13:09.398768+00:00"
 ---
 
 ## 문제

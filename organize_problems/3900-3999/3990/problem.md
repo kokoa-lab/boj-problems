@@ -1,13 +1,13 @@
 ---
-title: 화면 보호기
-special_judge: true
-time_limit: 2 초
-memory_limit: 128 MB
+title: "화면 보호기"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 362
 accepted: 107
 solved_users: 79
-acceptance_rate: 38.537%
-collected_at: 2026-04-17T10:54:14.290711+00:00
+acceptance_rate: "38.537%"
+collected_at: "2026-04-17T10:54:14.290711+00:00"
 ---
 
 ## 문제

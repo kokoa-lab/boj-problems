@@ -1,13 +1,13 @@
 ---
-title: Toilet Seat
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Toilet Seat"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 244
 accepted: 152
 solved_users: 137
-acceptance_rate: 64.319%
-collected_at: 2026-04-17T12:37:46.525028+00:00
+acceptance_rate: "64.319%"
+collected_at: "2026-04-17T12:37:46.525028+00:00"
 ---
 
 ## 문제

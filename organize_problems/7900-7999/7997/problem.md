@@ -1,13 +1,13 @@
 ---
-title: Sequences without Stammers
-special_judge: true
-time_limit: 3 초
-memory_limit: 128 MB
+title: "Sequences without Stammers"
+special_judge: "true"
+time_limit: "3 초"
+memory_limit: "128 MB"
 submissions: 51
 accepted: 22
 solved_users: 19
-acceptance_rate: 50.000%
-collected_at: 2026-04-17T11:54:59.603622+00:00
+acceptance_rate: "50.000%"
+collected_at: "2026-04-17T11:54:59.603622+00:00"
 ---
 
 ## 문제

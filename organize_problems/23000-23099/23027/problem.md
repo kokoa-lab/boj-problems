@@ -1,13 +1,13 @@
 ---
-title: 1번부터 문제의 상태가…?
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "1번부터 문제의 상태가…?"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 1487
 accepted: 1024
 solved_users: 908
-acceptance_rate: 70.497%
-collected_at: 2026-04-17T16:40:28.814130+00:00
+acceptance_rate: "70.497%"
+collected_at: "2026-04-17T16:40:28.814130+00:00"
 ---
 
 ## 문제

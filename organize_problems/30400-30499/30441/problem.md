@@ -1,13 +1,13 @@
 ---
-title: Jamboree
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Jamboree"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 87
 accepted: 55
 solved_users: 48
-acceptance_rate: 64.865%
-collected_at: 2026-04-17T19:06:46.552660+00:00
+acceptance_rate: "64.865%"
+collected_at: "2026-04-17T19:06:46.552660+00:00"
 ---
 
 ## 문제

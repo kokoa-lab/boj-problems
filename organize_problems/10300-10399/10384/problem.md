@@ -1,13 +1,13 @@
 ---
-title: 팬그램
-special_judge: false
-time_limit: 3 초
-memory_limit: 256 MB
+title: "팬그램"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "256 MB"
 submissions: 3022
 accepted: 1502
 solved_users: 1325
-acceptance_rate: 50.170%
-collected_at: 2026-04-17T12:22:53.469220+00:00
+acceptance_rate: "50.170%"
+collected_at: "2026-04-17T12:22:53.469220+00:00"
 ---
 
 ## 문제

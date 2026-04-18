@@ -1,13 +1,13 @@
 ---
-title: いちご 2 (Strawberry 2)
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "いちご 2 (Strawberry 2)"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 149
 accepted: 54
 solved_users: 50
-acceptance_rate: 39.370%
-collected_at: 2026-04-17T17:09:13.442554+00:00
+acceptance_rate: "39.370%"
+collected_at: "2026-04-17T17:09:13.442554+00:00"
 ---
 
 ## 문제

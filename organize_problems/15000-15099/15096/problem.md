@@ -1,13 +1,13 @@
 ---
-title: Batter Up
-special_judge: true
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Batter Up"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 504
 accepted: 451
 solved_users: 427
-acceptance_rate: 90.658%
-collected_at: 2026-04-17T13:50:53.221884+00:00
+acceptance_rate: "90.658%"
+collected_at: "2026-04-17T13:50:53.221884+00:00"
 ---
 
 ## 문제

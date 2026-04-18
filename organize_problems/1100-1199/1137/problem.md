@@ -1,13 +1,13 @@
 ---
-title: 로봇 레이스
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "로봇 레이스"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 115
 accepted: 27
 solved_users: 24
-acceptance_rate: 47.059%
-collected_at: 2026-04-17T10:28:25.654980+00:00
+acceptance_rate: "47.059%"
+collected_at: "2026-04-17T10:28:25.654980+00:00"
 ---
 
 ## 문제

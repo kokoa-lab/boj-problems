@@ -1,13 +1,13 @@
 ---
-title: Form a Straight!
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Form a Straight!"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 245
 accepted: 181
 solved_users: 166
-acceptance_rate: 73.128%
-collected_at: 2026-04-17T20:42:11.060761+00:00
+acceptance_rate: "73.128%"
+collected_at: "2026-04-17T20:42:11.060761+00:00"
 ---
 
 ## 문제

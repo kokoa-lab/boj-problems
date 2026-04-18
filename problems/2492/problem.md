@@ -1,13 +1,13 @@
 ---
-title: 보석
-special_judge: true
-time_limit: 1 초
-memory_limit: 128 MB
+title: "보석"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 5458
 accepted: 924
 solved_users: 658
-acceptance_rate: 18.488%
-collected_at: 2026-04-17T10:42:06.999730+00:00
+acceptance_rate: "18.488%"
+collected_at: "2026-04-17T10:42:06.999730+00:00"
 ---
 
 ## 문제

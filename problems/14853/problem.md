@@ -1,13 +1,13 @@
 ---
-title: 동전 던지기
-special_judge: true
-time_limit: 2 초
-memory_limit: 512 MB
+title: "동전 던지기"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 1384
 accepted: 340
 solved_users: 214
-acceptance_rate: 26.161%
-collected_at: 2026-04-17T13:43:05.926814+00:00
+acceptance_rate: "26.161%"
+collected_at: "2026-04-17T13:43:05.926814+00:00"
 ---
 
 ## 문제

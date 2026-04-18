@@ -1,13 +1,13 @@
 ---
-title: Dance Dance Revolution
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "Dance Dance Revolution"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 20766
 accepted: 8609
 solved_users: 6274
-acceptance_rate: 40.087%
-collected_at: 2026-04-17T10:40:49.054651+00:00
+acceptance_rate: "40.087%"
+collected_at: "2026-04-17T10:40:49.054651+00:00"
 ---
 
 ## 문제

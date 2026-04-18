@@ -1,13 +1,13 @@
 ---
-title: Fygon
-special_judge: true
-time_limit: 2 초
-memory_limit: 256 MB
+title: "Fygon"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 8
 accepted: 4
 solved_users: 4
-acceptance_rate: 57.143%
-collected_at: 2026-04-17T12:41:13.358859+00:00
+acceptance_rate: "57.143%"
+collected_at: "2026-04-17T12:41:13.358859+00:00"
 ---
 
 ## 문제

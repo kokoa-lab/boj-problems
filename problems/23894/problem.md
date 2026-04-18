@@ -1,13 +1,13 @@
 ---
-title: 합성함수와 쿼리 2
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "합성함수와 쿼리 2"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 601
 accepted: 150
 solved_users: 90
-acceptance_rate: 22.670%
-collected_at: 2026-04-17T16:57:04.044485+00:00
+acceptance_rate: "22.670%"
+collected_at: "2026-04-17T16:57:04.044485+00:00"
 ---
 
 ## 문제

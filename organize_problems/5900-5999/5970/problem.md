@@ -1,13 +1,13 @@
 ---
-title: Tree Decoration
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Tree Decoration"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 36
 accepted: 22
 solved_users: 21
-acceptance_rate: 60.000%
-collected_at: 2026-04-17T11:18:58.978972+00:00
+acceptance_rate: "60.000%"
+collected_at: "2026-04-17T11:18:58.978972+00:00"
 ---
 
 ## 문제

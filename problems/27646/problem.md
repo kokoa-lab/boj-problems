@@ -1,13 +1,13 @@
 ---
-title: Judicious cuts (Easy)
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Judicious cuts (Easy)"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 92
 accepted: 70
 solved_users: 66
-acceptance_rate: 76.744%
-collected_at: 2026-04-17T18:08:18.549626+00:00
+acceptance_rate: "76.744%"
+collected_at: "2026-04-17T18:08:18.549626+00:00"
 ---
 
 ## 문제

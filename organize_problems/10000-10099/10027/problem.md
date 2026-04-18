@@ -1,13 +1,13 @@
 ---
-title: CSS
-special_judge: false
-time_limit: 10 초
-memory_limit: 256 MB
+title: "CSS"
+special_judge: "false"
+time_limit: "10 초"
+memory_limit: "256 MB"
 submissions: 258
 accepted: 29
 solved_users: 19
-acceptance_rate: 29.231%
-collected_at: 2026-04-17T12:17:56.991429+00:00
+acceptance_rate: "29.231%"
+collected_at: "2026-04-17T12:17:56.991429+00:00"
 ---
 
 ## 문제

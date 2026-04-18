@@ -1,13 +1,13 @@
 ---
-title: Journal Editing
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Journal Editing"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 28
 accepted: 24
 solved_users: 24
-acceptance_rate: 96.000%
-collected_at: 2026-04-17T13:47:52.310567+00:00
+acceptance_rate: "96.000%"
+collected_at: "2026-04-17T13:47:52.310567+00:00"
 ---
 
 ## 문제

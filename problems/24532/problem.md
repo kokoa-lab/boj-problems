@@ -1,13 +1,13 @@
 ---
-title: 트리와 XOR 쿼리
-special_judge: false
-time_limit: 4 초
-memory_limit: 1024 MB
+title: "트리와 XOR 쿼리"
+special_judge: "false"
+time_limit: "4 초"
+memory_limit: "1024 MB"
 submissions: 209
 accepted: 67
 solved_users: 52
-acceptance_rate: 38.235%
-collected_at: 2026-04-17T17:10:49.411899+00:00
+acceptance_rate: "38.235%"
+collected_at: "2026-04-17T17:10:49.411899+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 바닥수
-special_judge: true
-time_limit: 0.2 초
-memory_limit: 1024 MB
+title: "바닥수"
+special_judge: "true"
+time_limit: "0.2 초"
+memory_limit: "1024 MB"
 submissions: 944
 accepted: 759
 solved_users: 701
-acceptance_rate: 82.277%
-collected_at: 2026-04-17T19:07:07.839678+00:00
+acceptance_rate: "82.277%"
+collected_at: "2026-04-17T19:07:07.839678+00:00"
 ---
 
 ## 문제

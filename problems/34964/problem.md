@@ -1,13 +1,13 @@
 ---
-title: Bloom in Two
-special_judge: true
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Bloom in Two"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 99
 accepted: 14
 solved_users: 13
-acceptance_rate: 20.968%
-collected_at: 2026-04-17T20:52:49.085175+00:00
+acceptance_rate: "20.968%"
+collected_at: "2026-04-17T20:52:49.085175+00:00"
 ---
 
 ## 문제

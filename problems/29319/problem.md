@@ -1,13 +1,13 @@
 ---
-title: Начало
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Начало"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 296
 accepted: 266
 solved_users: 242
-acceptance_rate: 94.531%
-collected_at: 2026-04-17T18:40:18.531876+00:00
+acceptance_rate: "94.531%"
+collected_at: "2026-04-17T18:40:18.531876+00:00"
 ---
 
 ## 문제

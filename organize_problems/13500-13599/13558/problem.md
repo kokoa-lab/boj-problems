@@ -1,13 +1,13 @@
 ---
-title: 등차수열의 개수
-special_judge: false
-time_limit: 3 초
-memory_limit: 512 MB
+title: "등차수열의 개수"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "512 MB"
 submissions: 1509
 accepted: 271
 solved_users: 139
-acceptance_rate: 23.801%
-collected_at: 2026-04-17T13:15:14.975042+00:00
+acceptance_rate: "23.801%"
+collected_at: "2026-04-17T13:15:14.975042+00:00"
 ---
 
 ## 문제

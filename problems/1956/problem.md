@@ -1,13 +1,13 @@
 ---
-title: 운동
-special_judge: false
-time_limit: 2 초
-memory_limit: 192 MB
+title: "운동"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "192 MB"
 submissions: 36174
 accepted: 12965
 solved_users: 9861
-acceptance_rate: 36.938%
-collected_at: 2026-04-17T10:36:21.966944+00:00
+acceptance_rate: "36.938%"
+collected_at: "2026-04-17T10:36:21.966944+00:00"
 ---
 
 ## 문제

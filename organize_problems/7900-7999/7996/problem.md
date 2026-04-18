@@ -1,13 +1,13 @@
 ---
-title: Maximal Orders of Permutations
-special_judge: false
-time_limit: 3 초
-memory_limit: 512 MB
+title: "Maximal Orders of Permutations"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "512 MB"
 submissions: 98
 accepted: 34
 solved_users: 21
-acceptance_rate: 29.167%
-collected_at: 2026-04-17T11:54:59.696905+00:00
+acceptance_rate: "29.167%"
+collected_at: "2026-04-17T11:54:59.696905+00:00"
 ---
 
 ## 문제

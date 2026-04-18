@@ -1,13 +1,13 @@
 ---
-title: Rental Service
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Rental Service"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 668
 accepted: 252
 solved_users: 214
-acceptance_rate: 39.266%
-collected_at: 2026-04-17T14:02:05.485932+00:00
+acceptance_rate: "39.266%"
+collected_at: "2026-04-17T14:02:05.485932+00:00"
 ---
 
 ## 문제

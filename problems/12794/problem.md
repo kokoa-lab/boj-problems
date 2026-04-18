@@ -1,13 +1,13 @@
 ---
-title: 위대한 믹싱 가요제
-special_judge: false
-time_limit: 5 초
-memory_limit: 128 MB
+title: "위대한 믹싱 가요제"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "128 MB"
 submissions: 77
 accepted: 9
 solved_users: 9
-acceptance_rate: 13.636%
-collected_at: 2026-04-17T13:01:31.996865+00:00
+acceptance_rate: "13.636%"
+collected_at: "2026-04-17T13:01:31.996865+00:00"
 ---
 
 ## 문제

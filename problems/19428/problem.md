@@ -1,13 +1,13 @@
 ---
-title: Cute Panda
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Cute Panda"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 29
 accepted: 3
 solved_users: 3
-acceptance_rate: 14.286%
-collected_at: 2026-04-17T15:19:44.157826+00:00
+acceptance_rate: "14.286%"
+collected_at: "2026-04-17T15:19:44.157826+00:00"
 ---
 
 ## 문제

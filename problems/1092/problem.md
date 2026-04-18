@@ -1,13 +1,13 @@
 ---
-title: 배
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "배"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 39864
 accepted: 11011
 solved_users: 7766
-acceptance_rate: 26.374%
-collected_at: 2026-04-17T10:28:10.370007+00:00
+acceptance_rate: "26.374%"
+collected_at: "2026-04-17T10:28:10.370007+00:00"
 ---
 
 ## 문제

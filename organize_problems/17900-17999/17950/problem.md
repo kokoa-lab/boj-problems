@@ -1,13 +1,13 @@
 ---
-title: 스노우볼
-special_judge: false
-time_limit: 0.5 초
-memory_limit: 256 MB
+title: "스노우볼"
+special_judge: "false"
+time_limit: "0.5 초"
+memory_limit: "256 MB"
 submissions: 2284
 accepted: 669
 solved_users: 539
-acceptance_rate: 29.828%
-collected_at: 2026-04-17T14:50:43.506324+00:00
+acceptance_rate: "29.828%"
+collected_at: "2026-04-17T14:50:43.506324+00:00"
 ---
 
 ## 문제

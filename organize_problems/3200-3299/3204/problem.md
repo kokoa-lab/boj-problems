@@ -1,13 +1,13 @@
 ---
-title: 커플 깨기
-special_judge: true
-time_limit: 2 초
-memory_limit: 128 MB
+title: "커플 깨기"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 206
 accepted: 58
 solved_users: 46
-acceptance_rate: 29.114%
-collected_at: 2026-04-17T10:47:21.769282+00:00
+acceptance_rate: "29.114%"
+collected_at: "2026-04-17T10:47:21.769282+00:00"
 ---
 
 ## 문제

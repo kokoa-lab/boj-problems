@@ -1,13 +1,13 @@
 ---
-title: Rock-Paper-Scissors for three
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Rock-Paper-Scissors for three"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 149
 accepted: 129
 solved_users: 119
-acceptance_rate: 88.148%
-collected_at: 2026-04-17T16:09:34.727810+00:00
+acceptance_rate: "88.148%"
+collected_at: "2026-04-17T16:09:34.727810+00:00"
 ---
 
 ## 문제

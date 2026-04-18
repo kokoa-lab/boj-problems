@@ -1,13 +1,13 @@
 ---
-title: 장보기
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "장보기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 1330
 accepted: 689
 solved_users: 577
-acceptance_rate: 54.229%
-collected_at: 2026-04-17T12:06:47.349645+00:00
+acceptance_rate: "54.229%"
+collected_at: "2026-04-17T12:06:47.349645+00:00"
 ---
 
 ## 문제

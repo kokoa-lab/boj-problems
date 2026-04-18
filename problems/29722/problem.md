@@ -1,13 +1,13 @@
 ---
-title: 브실혜성
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "브실혜성"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 2857
 accepted: 994
 solved_users: 928
-acceptance_rate: 37.299%
-collected_at: 2026-04-17T18:51:28.006337+00:00
+acceptance_rate: "37.299%"
+collected_at: "2026-04-17T18:51:28.006337+00:00"
 ---
 
 ## 문제

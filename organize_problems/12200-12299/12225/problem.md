@@ -1,13 +1,13 @@
 ---
-title: ARAM (Large)
-special_judge: true
-time_limit: 120 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "ARAM (Large)"
+special_judge: "true"
+time_limit: "120 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 12
 accepted: 8
 solved_users: 4
-acceptance_rate: 57.143%
-collected_at: 2026-04-17T12:52:04.337763+00:00
+acceptance_rate: "57.143%"
+collected_at: "2026-04-17T12:52:04.337763+00:00"
 ---
 
 ## 문제

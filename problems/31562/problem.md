@@ -1,13 +1,13 @@
 ---
-title: 전주 듣고 노래 맞히기
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "전주 듣고 노래 맞히기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 2111
 accepted: 1323
 solved_users: 1069
-acceptance_rate: 63.859%
-collected_at: 2026-04-17T19:30:50.602744+00:00
+acceptance_rate: "63.859%"
+collected_at: "2026-04-17T19:30:50.602744+00:00"
 ---
 
 ## 문제

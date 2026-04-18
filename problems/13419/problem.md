@@ -1,13 +1,13 @@
 ---
-title: 탕수육
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "탕수육"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 1964
 accepted: 1418
 solved_users: 1247
-acceptance_rate: 75.075%
-collected_at: 2026-04-17T13:12:59.405238+00:00
+acceptance_rate: "75.075%"
+collected_at: "2026-04-17T13:12:59.405238+00:00"
 ---
 
 ## 문제

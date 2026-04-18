@@ -1,13 +1,13 @@
 ---
-title: Road Development
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "Road Development"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 208
 accepted: 86
 solved_users: 53
-acceptance_rate: 34.868%
-collected_at: 2026-04-17T14:46:12.276866+00:00
+acceptance_rate: "34.868%"
+collected_at: "2026-04-17T14:46:12.276866+00:00"
 ---
 
 ## 문제

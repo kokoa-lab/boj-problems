@@ -1,13 +1,13 @@
 ---
-title: Is It Even?
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Is It Even?"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 452
 accepted: 252
 solved_users: 192
-acceptance_rate: 53.933%
-collected_at: 2026-04-17T17:17:14.620254+00:00
+acceptance_rate: "53.933%"
+collected_at: "2026-04-17T17:17:14.620254+00:00"
 ---
 
 ## 문제

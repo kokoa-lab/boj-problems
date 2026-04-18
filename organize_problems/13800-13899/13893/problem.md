@@ -1,13 +1,13 @@
 ---
-title: Dictionary Game
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Dictionary Game"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 154
 accepted: 56
 solved_users: 44
-acceptance_rate: 33.846%
-collected_at: 2026-04-17T13:21:47.371781+00:00
+acceptance_rate: "33.846%"
+collected_at: "2026-04-17T13:21:47.371781+00:00"
 ---
 
 ## 문제

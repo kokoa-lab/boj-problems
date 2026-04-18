@@ -1,13 +1,13 @@
 ---
-title: 히스토그램에서 가장 큰 직사각형
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "히스토그램에서 가장 큰 직사각형"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 69588
 accepted: 20293
 solved_users: 13572
-acceptance_rate: 28.641%
-collected_at: 2026-04-17T11:30:14.239166+00:00
+acceptance_rate: "28.641%"
+collected_at: "2026-04-17T11:30:14.239166+00:00"
 ---
 
 ## 문제

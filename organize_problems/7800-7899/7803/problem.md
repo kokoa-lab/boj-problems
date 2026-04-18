@@ -1,13 +1,13 @@
 ---
-title: Burger, French Fries, Soft Drink
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Burger, French Fries, Soft Drink"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 152
 accepted: 53
 solved_users: 44
-acceptance_rate: 41.121%
-collected_at: 2026-04-17T11:53:08.245419+00:00
+acceptance_rate: "41.121%"
+collected_at: "2026-04-17T11:53:08.245419+00:00"
 ---
 
 ## 문제

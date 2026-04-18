@@ -1,13 +1,13 @@
 ---
-title: Selling Cells
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "Selling Cells"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 37
 accepted: 27
 solved_users: 16
-acceptance_rate: 66.667%
-collected_at: 2026-04-17T11:07:37.895373+00:00
+acceptance_rate: "66.667%"
+collected_at: "2026-04-17T11:07:37.895373+00:00"
 ---
 
 ## 문제

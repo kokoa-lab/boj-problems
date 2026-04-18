@@ -1,13 +1,13 @@
 ---
-title: Make Purse Light
-special_judge: false
-time_limit: 8 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "Make Purse Light"
+special_judge: "false"
+time_limit: "8 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 36
 accepted: 18
 solved_users: 16
-acceptance_rate: 61.538%
-collected_at: 2026-04-17T16:34:27.476761+00:00
+acceptance_rate: "61.538%"
+collected_at: "2026-04-17T16:34:27.476761+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 파이프 옮기기 1
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "파이프 옮기기 1"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 56047
 accepted: 27539
 solved_users: 19077
-acceptance_rate: 47.822%
-collected_at: 2026-04-17T14:28:52.711435+00:00
+acceptance_rate: "47.822%"
+collected_at: "2026-04-17T14:28:52.711435+00:00"
 ---
 
 ## 문제

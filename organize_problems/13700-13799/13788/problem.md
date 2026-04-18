@@ -1,13 +1,13 @@
 ---
-title: Butterfly
-special_judge: false
-time_limit: 8 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "Butterfly"
+special_judge: "false"
+time_limit: "8 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 28
 accepted: 21
 solved_users: 15
-acceptance_rate: 68.182%
-collected_at: 2026-04-17T13:19:24.981503+00:00
+acceptance_rate: "68.182%"
+collected_at: "2026-04-17T13:19:24.981503+00:00"
 ---
 
 ## 문제

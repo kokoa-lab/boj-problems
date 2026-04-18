@@ -1,13 +1,13 @@
 ---
-title: 헛간 청약
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "헛간 청약"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 8700
 accepted: 5284
 solved_users: 4827
-acceptance_rate: 61.358%
-collected_at: 2026-04-17T15:26:36.014691+00:00
+acceptance_rate: "61.358%"
+collected_at: "2026-04-17T15:26:36.014691+00:00"
 ---
 
 ## 문제

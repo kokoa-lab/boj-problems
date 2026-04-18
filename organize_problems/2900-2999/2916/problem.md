@@ -1,13 +1,13 @@
 ---
-title: 자와 각도기
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "자와 각도기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 2812
 accepted: 967
 solved_users: 744
-acceptance_rate: 34.815%
-collected_at: 2026-04-17T10:45:40.627596+00:00
+acceptance_rate: "34.815%"
+collected_at: "2026-04-17T10:45:40.627596+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 용이 산다
-special_judge: true
-time_limit: 3 초
-memory_limit: 128 MB
+title: "용이 산다"
+special_judge: "true"
+time_limit: "3 초"
+memory_limit: "128 MB"
 submissions: 1760
 accepted: 430
 solved_users: 287
-acceptance_rate: 26.797%
-collected_at: 2026-04-17T10:48:51.233439+00:00
+acceptance_rate: "26.797%"
+collected_at: "2026-04-17T10:48:51.233439+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 사탕 가게
-special_judge: false
-time_limit: 3 초
-memory_limit: 512 MB
+title: "사탕 가게"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "512 MB"
 submissions: 15002
 accepted: 3829
 solved_users: 2560
-acceptance_rate: 25.010%
-collected_at: 2026-04-17T11:08:28.020814+00:00
+acceptance_rate: "25.010%"
+collected_at: "2026-04-17T11:08:28.020814+00:00"
 ---
 
 ## 문제

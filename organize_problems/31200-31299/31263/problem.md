@@ -1,13 +1,13 @@
 ---
-title: 대한민국을 지키는 가장 긴 힘
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "대한민국을 지키는 가장 긴 힘"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 1253
 accepted: 472
 solved_users: 406
-acceptance_rate: 42.692%
-collected_at: 2026-04-17T19:24:57.458205+00:00
+acceptance_rate: "42.692%"
+collected_at: "2026-04-17T19:24:57.458205+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 이건 무슨 진법이지?
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "이건 무슨 진법이지?"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 1715
 accepted: 716
 solved_users: 601
-acceptance_rate: 41.940%
-collected_at: 2026-04-17T13:21:20.614781+00:00
+acceptance_rate: "41.940%"
+collected_at: "2026-04-17T13:21:20.614781+00:00"
 ---
 
 ## 문제

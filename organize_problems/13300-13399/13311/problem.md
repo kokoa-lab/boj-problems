@@ -1,13 +1,13 @@
 ---
-title: 행운의 편지
-special_judge: true
-time_limit: 2 초
-memory_limit: 512 MB
+title: "행운의 편지"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 4234
 accepted: 2311
 solved_users: 2096
-acceptance_rate: 56.329%
-collected_at: 2026-04-17T13:11:18.118533+00:00
+acceptance_rate: "56.329%"
+collected_at: "2026-04-17T13:11:18.118533+00:00"
 ---
 
 ## 문제

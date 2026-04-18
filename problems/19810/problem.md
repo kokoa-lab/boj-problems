@@ -1,13 +1,13 @@
 ---
-title: Isosceles triangles
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Isosceles triangles"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 225
 accepted: 99
 solved_users: 72
-acceptance_rate: 44.444%
-collected_at: 2026-04-17T15:27:57.723241+00:00
+acceptance_rate: "44.444%"
+collected_at: "2026-04-17T15:27:57.723241+00:00"
 ---
 
 ## 문제

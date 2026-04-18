@@ -1,13 +1,13 @@
 ---
-title: 음악회
-special_judge: false
-time_limit: 3 초
-memory_limit: 1024 MB
+title: "음악회"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "1024 MB"
 submissions: 285
 accepted: 61
 solved_users: 45
-acceptance_rate: 26.471%
-collected_at: 2026-04-17T18:52:24.555006+00:00
+acceptance_rate: "26.471%"
+collected_at: "2026-04-17T18:52:24.555006+00:00"
 ---
 
 ## 문제

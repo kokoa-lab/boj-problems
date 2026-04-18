@@ -1,13 +1,13 @@
 ---
-title: Country Leader (Small)
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Country Leader (Small)"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 261
 accepted: 158
 solved_users: 144
-acceptance_rate: 63.717%
-collected_at: 2026-04-17T13:30:13.636365+00:00
+acceptance_rate: "63.717%"
+collected_at: "2026-04-17T13:30:13.636365+00:00"
 ---
 
 ## 문제

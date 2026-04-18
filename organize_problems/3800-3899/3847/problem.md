@@ -1,13 +1,13 @@
 ---
-title: Comparing answers
-special_judge: false
-time_limit: 10 초
-memory_limit: 128 MB
+title: "Comparing answers"
+special_judge: "false"
+time_limit: "10 초"
+memory_limit: "128 MB"
 submissions: 240
 accepted: 116
 solved_users: 55
-acceptance_rate: 50.000%
-collected_at: 2026-04-17T10:52:31.869173+00:00
+acceptance_rate: "50.000%"
+collected_at: "2026-04-17T10:52:31.869173+00:00"
 ---
 
 ## 문제

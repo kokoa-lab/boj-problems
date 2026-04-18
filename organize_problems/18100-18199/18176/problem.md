@@ -1,13 +1,13 @@
 ---
-title: Zeldain Garden
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Zeldain Garden"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 89
 accepted: 62
 solved_users: 55
-acceptance_rate: 69.620%
-collected_at: 2026-04-17T14:56:48.544764+00:00
+acceptance_rate: "69.620%"
+collected_at: "2026-04-17T14:56:48.544764+00:00"
 ---
 
 ## 문제

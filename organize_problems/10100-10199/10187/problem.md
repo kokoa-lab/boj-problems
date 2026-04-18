@@ -1,13 +1,13 @@
 ---
-title: Golden
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Golden"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 417
 accepted: 296
 solved_users: 241
-acceptance_rate: 70.674%
-collected_at: 2026-04-17T12:20:11.531823+00:00
+acceptance_rate: "70.674%"
+collected_at: "2026-04-17T12:20:11.531823+00:00"
 ---
 
 ## 문제

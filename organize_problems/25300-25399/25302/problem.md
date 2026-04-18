@@ -1,13 +1,13 @@
 ---
-title: 외계 선인장
-special_judge: false
-time_limit: 3 초
-memory_limit: 1024 MB
+title: "외계 선인장"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "1024 MB"
 submissions: 85
 accepted: 35
 solved_users: 28
-acceptance_rate: 39.437%
-collected_at: 2026-04-17T17:24:19.921908+00:00
+acceptance_rate: "39.437%"
+collected_at: "2026-04-17T17:24:19.921908+00:00"
 ---
 
 ## 문제

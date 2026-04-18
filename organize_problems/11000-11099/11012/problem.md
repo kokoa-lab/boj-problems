@@ -1,13 +1,13 @@
 ---
-title: Egg
-special_judge: false
-time_limit: 5 초
-memory_limit: 256 MB
+title: "Egg"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "256 MB"
 submissions: 4105
 accepted: 1657
 solved_users: 929
-acceptance_rate: 35.431%
-collected_at: 2026-04-17T12:34:59.923036+00:00
+acceptance_rate: "35.431%"
+collected_at: "2026-04-17T12:34:59.923036+00:00"
 ---
 
 ## 문제

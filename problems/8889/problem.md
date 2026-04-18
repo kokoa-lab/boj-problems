@@ -1,13 +1,13 @@
 ---
-title: 등고선 지도
-special_judge: false
-time_limit: 3 초
-memory_limit: 128 MB
+title: "등고선 지도"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "128 MB"
 submissions: 574
 accepted: 157
 solved_users: 100
-acceptance_rate: 31.447%
-collected_at: 2026-04-17T12:04:33.949555+00:00
+acceptance_rate: "31.447%"
+collected_at: "2026-04-17T12:04:33.949555+00:00"
 ---
 
 ## 문제

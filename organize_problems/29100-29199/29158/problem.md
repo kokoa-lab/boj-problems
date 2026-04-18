@@ -1,13 +1,13 @@
 ---
-title: 큰 수 만들기 게임
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "큰 수 만들기 게임"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 607
 accepted: 140
 solved_users: 120
-acceptance_rate: 22.430%
-collected_at: 2026-04-17T18:38:11.417734+00:00
+acceptance_rate: "22.430%"
+collected_at: "2026-04-17T18:38:11.417734+00:00"
 ---
 
 ## 문제

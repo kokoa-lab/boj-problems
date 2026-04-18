@@ -1,13 +1,13 @@
 ---
-title: SUPER HATS
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "SUPER HATS"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 1078
 accepted: 139
 solved_users: 92
-acceptance_rate: 12.332%
-collected_at: 2026-04-17T12:35:17.525260+00:00
+acceptance_rate: "12.332%"
+collected_at: "2026-04-17T12:35:17.525260+00:00"
 ---
 
 ## 문제

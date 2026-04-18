@@ -1,13 +1,13 @@
 ---
-title: XORChic
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "XORChic"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 784
 accepted: 652
 solved_users: 592
-acceptance_rate: 88.623%
-collected_at: 2026-04-17T14:36:12.908741+00:00
+acceptance_rate: "88.623%"
+collected_at: "2026-04-17T14:36:12.908741+00:00"
 ---
 
 ## 문제

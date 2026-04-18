@@ -1,13 +1,13 @@
 ---
-title: GUID Generator
-special_judge: false
-time_limit: 5 초
-memory_limit: 2048 MB
+title: "GUID Generator"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "2048 MB"
 submissions: 22
 accepted: 14
 solved_users: 11
-acceptance_rate: 61.111%
-collected_at: 2026-04-18T09:51:43.833294+00:00
+acceptance_rate: "61.111%"
+collected_at: "2026-04-18T09:51:43.833294+00:00"
 ---
 
 ## 문제

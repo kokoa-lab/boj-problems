@@ -1,13 +1,13 @@
 ---
-title: Obława
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Obława"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 44
 accepted: 3
 solved_users: 3
-acceptance_rate: 10.714%
-collected_at: 2026-04-17T12:02:25.572079+00:00
+acceptance_rate: "10.714%"
+collected_at: "2026-04-17T12:02:25.572079+00:00"
 ---
 
 ## 문제

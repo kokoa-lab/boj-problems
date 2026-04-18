@@ -1,13 +1,13 @@
 ---
-title: Voltage
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Voltage"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 71
 accepted: 35
 solved_users: 34
-acceptance_rate: 51.515%
-collected_at: 2026-04-17T14:46:32.807487+00:00
+acceptance_rate: "51.515%"
+collected_at: "2026-04-17T14:46:32.807487+00:00"
 ---
 
 ## 문제

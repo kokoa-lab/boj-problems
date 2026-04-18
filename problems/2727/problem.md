@@ -1,13 +1,13 @@
 ---
-title: 2,3 거듭제곱의 합
-special_judge: true
-time_limit: 1 초
-memory_limit: 128 MB
+title: "2,3 거듭제곱의 합"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 434
 accepted: 236
 solved_users: 194
-acceptance_rate: 56.560%
-collected_at: 2026-04-17T10:44:19.138837+00:00
+acceptance_rate: "56.560%"
+collected_at: "2026-04-17T10:44:19.138837+00:00"
 ---
 
 ## 문제

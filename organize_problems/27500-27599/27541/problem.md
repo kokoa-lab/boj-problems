@@ -1,13 +1,13 @@
 ---
-title: 末尾の文字 (Last Letter)
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "末尾の文字 (Last Letter)"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 1723
 accepted: 1324
 solved_users: 1251
-acceptance_rate: 76.890%
-collected_at: 2026-04-17T18:06:03.188728+00:00
+acceptance_rate: "76.890%"
+collected_at: "2026-04-17T18:06:03.188728+00:00"
 ---
 
 ## 문제

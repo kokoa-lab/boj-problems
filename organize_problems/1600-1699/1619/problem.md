@@ -1,13 +1,13 @@
 ---
-title: 점 고르기
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "점 고르기"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 323
 accepted: 107
 solved_users: 79
-acceptance_rate: 34.498%
-collected_at: 2026-04-17T10:31:39.214734+00:00
+acceptance_rate: "34.498%"
+collected_at: "2026-04-17T10:31:39.214734+00:00"
 ---
 
 ## 문제

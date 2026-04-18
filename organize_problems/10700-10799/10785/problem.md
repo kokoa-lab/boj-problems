@@ -1,13 +1,13 @@
 ---
-title: Asteroids
-special_judge: true
-time_limit: 2 초
-memory_limit: 256 MB
+title: "Asteroids"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 260
 accepted: 45
 solved_users: 32
-acceptance_rate: 18.497%
-collected_at: 2026-04-17T12:29:31.164684+00:00
+acceptance_rate: "18.497%"
+collected_at: "2026-04-17T12:29:31.164684+00:00"
 ---
 
 ## 문제

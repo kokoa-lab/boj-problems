@@ -1,13 +1,13 @@
 ---
-title: The Lost Cow
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "The Lost Cow"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 1616
 accepted: 764
 solved_users: 683
-acceptance_rate: 49.350%
-collected_at: 2026-04-17T13:37:23.754581+00:00
+acceptance_rate: "49.350%"
+collected_at: "2026-04-17T13:37:23.754581+00:00"
 ---
 
 ## 문제

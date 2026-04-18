@@ -1,13 +1,13 @@
 ---
-title: Aku Negaraku
-special_judge: false
-time_limit: 3 초
-memory_limit: 512 MB
+title: "Aku Negaraku"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "512 MB"
 submissions: 170
 accepted: 127
 solved_users: 79
-acceptance_rate: 70.536%
-collected_at: 2026-04-17T14:07:20.925552+00:00
+acceptance_rate: "70.536%"
+collected_at: "2026-04-17T14:07:20.925552+00:00"
 ---
 
 ## 문제

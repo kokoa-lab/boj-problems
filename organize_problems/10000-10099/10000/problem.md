@@ -1,13 +1,13 @@
 ---
-title: 원 영역
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "원 영역"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 3233
 accepted: 1037
 solved_users: 716
-acceptance_rate: 33.256%
-collected_at: 2026-04-17T12:17:38.359482+00:00
+acceptance_rate: "33.256%"
+collected_at: "2026-04-17T12:17:38.359482+00:00"
 ---
 
 ## 문제

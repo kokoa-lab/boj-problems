@@ -1,13 +1,13 @@
 ---
-title: The Chivalrous Cow
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "The Chivalrous Cow"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 234
 accepted: 163
 solved_users: 141
-acceptance_rate: 68.447%
-collected_at: 2026-04-17T11:19:18.651515+00:00
+acceptance_rate: "68.447%"
+collected_at: "2026-04-17T11:19:18.651515+00:00"
 ---
 
 ## 문제

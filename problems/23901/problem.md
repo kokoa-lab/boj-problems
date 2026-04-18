@@ -1,13 +1,13 @@
 ---
-title: Bike Tour
-special_judge: false
-time_limit: 10 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Bike Tour"
+special_judge: "false"
+time_limit: "10 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 376
 accepted: 301
 solved_users: 272
-acceptance_rate: 80.712%
-collected_at: 2026-04-17T16:57:23.428676+00:00
+acceptance_rate: "80.712%"
+collected_at: "2026-04-17T16:57:23.428676+00:00"
 ---
 
 ## 문제

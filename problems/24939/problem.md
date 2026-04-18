@@ -1,13 +1,13 @@
 ---
-title: Boardle
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Boardle"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 239
 accepted: 122
 solved_users: 80
-acceptance_rate: 52.632%
-collected_at: 2026-04-17T17:17:25.883984+00:00
+acceptance_rate: "52.632%"
+collected_at: "2026-04-17T17:17:25.883984+00:00"
 ---
 
 ## 문제

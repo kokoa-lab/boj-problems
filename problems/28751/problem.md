@@ -1,13 +1,13 @@
 ---
-title: Быстрый перевод
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Быстрый перевод"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 34
 accepted: 6
 solved_users: 6
-acceptance_rate: 33.333%
-collected_at: 2026-04-17T18:31:56.044798+00:00
+acceptance_rate: "33.333%"
+collected_at: "2026-04-17T18:31:56.044798+00:00"
 ---
 
 ## 문제

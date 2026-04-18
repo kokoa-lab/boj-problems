@@ -1,13 +1,13 @@
 ---
-title: Вырубка леса
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Вырубка леса"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 40
 accepted: 27
 solved_users: 16
-acceptance_rate: 64.000%
-collected_at: 2026-04-17T15:59:09.811836+00:00
+acceptance_rate: "64.000%"
+collected_at: "2026-04-17T15:59:09.811836+00:00"
 ---
 
 ## 문제

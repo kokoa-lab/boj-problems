@@ -1,13 +1,13 @@
 ---
-title: 좋다
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "좋다"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 84795
 accepted: 22427
 solved_users: 15924
-acceptance_rate: 25.274%
-collected_at: 2026-04-17T10:29:05.254693+00:00
+acceptance_rate: "25.274%"
+collected_at: "2026-04-17T10:29:05.254693+00:00"
 ---
 
 ## 문제

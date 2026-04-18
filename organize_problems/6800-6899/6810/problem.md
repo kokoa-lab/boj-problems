@@ -1,13 +1,13 @@
 ---
-title: ISBN
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "ISBN"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 5523
 accepted: 3783
 solved_users: 3554
-acceptance_rate: 68.729%
-collected_at: 2026-04-17T11:38:33.813494+00:00
+acceptance_rate: "68.729%"
+collected_at: "2026-04-17T11:38:33.813494+00:00"
 ---
 
 ## 문제

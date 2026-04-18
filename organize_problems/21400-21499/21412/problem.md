@@ -1,13 +1,13 @@
 ---
-title: Дробь
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Дробь"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 207
 accepted: 162
 solved_users: 153
-acceptance_rate: 80.952%
-collected_at: 2026-04-17T15:57:53.265714+00:00
+acceptance_rate: "80.952%"
+collected_at: "2026-04-17T15:57:53.265714+00:00"
 ---
 
 ## 문제

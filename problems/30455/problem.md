@@ -1,13 +1,13 @@
 ---
-title: 이제는 더 이상 물러날 곳이 없다
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "이제는 더 이상 물러날 곳이 없다"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 2175
 accepted: 1852
 solved_users: 1748
-acceptance_rate: 86.492%
-collected_at: 2026-04-17T19:07:05.243036+00:00
+acceptance_rate: "86.492%"
+collected_at: "2026-04-17T19:07:05.243036+00:00"
 ---
 
 ## 문제

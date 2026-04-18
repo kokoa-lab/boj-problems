@@ -1,13 +1,13 @@
 ---
-title: 돌아온 똥게임
-special_judge: false
-time_limit: 0.5 초
-memory_limit: 1024 MB
+title: "돌아온 똥게임"
+special_judge: "false"
+time_limit: "0.5 초"
+memory_limit: "1024 MB"
 submissions: 1535
 accepted: 423
 solved_users: 354
-acceptance_rate: 30.570%
-collected_at: 2026-04-17T19:12:44.144082+00:00
+acceptance_rate: "30.570%"
+collected_at: "2026-04-17T19:12:44.144082+00:00"
 ---
 
 ## 문제

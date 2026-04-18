@@ -1,13 +1,13 @@
 ---
-title: 송도고 레일 정비 사업
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "송도고 레일 정비 사업"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 21
 accepted: 9
 solved_users: 8
-acceptance_rate: 44.444%
-collected_at: 2026-04-17T19:45:54.568553+00:00
+acceptance_rate: "44.444%"
+collected_at: "2026-04-17T19:45:54.568553+00:00"
 ---
 
 ## 문제

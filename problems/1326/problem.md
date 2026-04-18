@@ -1,13 +1,13 @@
 ---
-title: 폴짝폴짝
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "폴짝폴짝"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 9778
 accepted: 2804
 solved_users: 2205
-acceptance_rate: 28.143%
-collected_at: 2026-04-17T10:29:28.730812+00:00
+acceptance_rate: "28.143%"
+collected_at: "2026-04-17T10:29:28.730812+00:00"
 ---
 
 ## 문제

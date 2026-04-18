@@ -1,13 +1,13 @@
 ---
-title: Relocation
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Relocation"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 262
 accepted: 222
 solved_users: 192
-acceptance_rate: 84.956%
-collected_at: 2026-04-17T19:20:26.192989+00:00
+acceptance_rate: "84.956%"
+collected_at: "2026-04-17T19:20:26.192989+00:00"
 ---
 
 ## 문제

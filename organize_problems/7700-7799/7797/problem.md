@@ -1,13 +1,13 @@
 ---
-title: In Queries
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "In Queries"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 45
 accepted: 13
 solved_users: 12
-acceptance_rate: 27.907%
-collected_at: 2026-04-17T11:53:06.119195+00:00
+acceptance_rate: "27.907%"
+collected_at: "2026-04-17T11:53:06.119195+00:00"
 ---
 
 ## 문제

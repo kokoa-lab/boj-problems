@@ -1,13 +1,13 @@
 ---
-title: 멋진 연결 요소와 쿼리
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "멋진 연결 요소와 쿼리"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 160
 accepted: 46
 solved_users: 37
-acceptance_rate: 35.238%
-collected_at: 2026-04-17T19:39:29.637338+00:00
+acceptance_rate: "35.238%"
+collected_at: "2026-04-17T19:39:29.637338+00:00"
 ---
 
 ## 문제

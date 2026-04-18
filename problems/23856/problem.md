@@ -1,13 +1,13 @@
 ---
-title: Optimal Truck
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Optimal Truck"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 17
 accepted: 15
 solved_users: 15
-acceptance_rate: 88.235%
-collected_at: 2026-04-17T16:56:02.965478+00:00
+acceptance_rate: "88.235%"
+collected_at: "2026-04-17T16:56:02.965478+00:00"
 ---
 
 ## 문제

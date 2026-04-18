@@ -1,13 +1,13 @@
 ---
-title: 러버덕을 사랑하는 모임
-special_judge: true
-time_limit: 1 초
-memory_limit: 512 MB
+title: "러버덕을 사랑하는 모임"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 1146
 accepted: 409
 solved_users: 323
-acceptance_rate: 35.495%
-collected_at: 2026-04-17T14:57:43.873950+00:00
+acceptance_rate: "35.495%"
+collected_at: "2026-04-17T14:57:43.873950+00:00"
 ---
 
 ## 문제

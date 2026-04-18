@@ -1,13 +1,13 @@
 ---
-title: Knockout, swiss and other kinds of tournaments
-special_judge: false
-time_limit: 0.5 초
-memory_limit: 2048 MB
+title: "Knockout, swiss and other kinds of tournaments"
+special_judge: "false"
+time_limit: "0.5 초"
+memory_limit: "2048 MB"
 submissions: 1
 accepted: 1
 solved_users: 1
-acceptance_rate: 100.000%
-collected_at: 2026-04-17T20:48:28.205882+00:00
+acceptance_rate: "100.000%"
+collected_at: "2026-04-17T20:48:28.205882+00:00"
 ---
 
 ## 문제

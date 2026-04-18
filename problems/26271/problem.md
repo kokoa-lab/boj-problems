@@ -1,13 +1,13 @@
 ---
-title: LFIS
-special_judge: false
-time_limit: 3 초
-memory_limit: 256 MB
+title: "LFIS"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "256 MB"
 submissions: 171
 accepted: 22
 solved_users: 13
-acceptance_rate: 11.712%
-collected_at: 2026-04-17T17:42:51.149953+00:00
+acceptance_rate: "11.712%"
+collected_at: "2026-04-17T17:42:51.149953+00:00"
 ---
 
 ## 문제

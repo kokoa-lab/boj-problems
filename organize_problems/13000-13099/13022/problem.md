@@ -1,13 +1,13 @@
 ---
-title: 늑대와 올바른 단어
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "늑대와 올바른 단어"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 3311
 accepted: 1040
 solved_users: 835
-acceptance_rate: 32.264%
-collected_at: 2026-04-17T13:06:06.601190+00:00
+acceptance_rate: "32.264%"
+collected_at: "2026-04-17T13:06:06.601190+00:00"
 ---
 
 ## 문제

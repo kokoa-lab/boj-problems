@@ -1,13 +1,13 @@
 ---
-title: Miser
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Miser"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 132
 accepted: 44
 solved_users: 39
-acceptance_rate: 48.148%
-collected_at: 2026-04-17T15:40:17.643807+00:00
+acceptance_rate: "48.148%"
+collected_at: "2026-04-17T15:40:17.643807+00:00"
 ---
 
 ## 문제

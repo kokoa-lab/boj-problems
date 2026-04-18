@@ -1,13 +1,13 @@
 ---
-title: Square in Circles
-special_judge: true
-time_limit: 8 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "Square in Circles"
+special_judge: "true"
+time_limit: "8 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 36
 accepted: 10
 solved_users: 9
-acceptance_rate: 28.125%
-collected_at: 2026-04-17T13:07:34.687315+00:00
+acceptance_rate: "28.125%"
+collected_at: "2026-04-17T13:07:34.687315+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: g-raph 신앙 (Easy)
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "g-raph 신앙 (Easy)"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 46
 accepted: 21
 solved_users: 19
-acceptance_rate: 51.351%
-collected_at: 2026-04-17T20:27:30.679101+00:00
+acceptance_rate: "51.351%"
+collected_at: "2026-04-17T20:27:30.679101+00:00"
 ---
 
 ## 문제

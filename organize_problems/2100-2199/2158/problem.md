@@ -1,13 +1,13 @@
 ---
-title: 산악자전거
-special_judge: true
-time_limit: 2 초
-memory_limit: 128 MB
+title: "산악자전거"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 415
 accepted: 129
 solved_users: 97
-acceptance_rate: 36.466%
-collected_at: 2026-04-17T10:39:04.227722+00:00
+acceptance_rate: "36.466%"
+collected_at: "2026-04-17T10:39:04.227722+00:00"
 ---
 
 ## 문제

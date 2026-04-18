@@ -1,13 +1,13 @@
 ---
-title: 가희와 쓰레기 놀이
-special_judge: false
-time_limit: 3.5 초
-memory_limit: 512 MB
+title: "가희와 쓰레기 놀이"
+special_judge: "false"
+time_limit: "3.5 초"
+memory_limit: "512 MB"
 submissions: 259
 accepted: 68
 solved_users: 39
-acceptance_rate: 23.926%
-collected_at: 2026-04-17T17:07:46.584365+00:00
+acceptance_rate: "23.926%"
+collected_at: "2026-04-17T17:07:46.584365+00:00"
 ---
 
 ## 문제

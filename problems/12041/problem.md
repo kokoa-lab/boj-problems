@@ -1,13 +1,13 @@
 ---
-title: Password Security (Small2)
-special_judge: true
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Password Security (Small2)"
+special_judge: "true"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 208
 accepted: 62
 solved_users: 42
-acceptance_rate: 29.577%
-collected_at: 2026-04-17T12:49:14.231528+00:00
+acceptance_rate: "29.577%"
+collected_at: "2026-04-17T12:49:14.231528+00:00"
 ---
 
 ## 문제

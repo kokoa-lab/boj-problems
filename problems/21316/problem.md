@@ -1,13 +1,13 @@
 ---
-title: 스피카
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "스피카"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 1021
 accepted: 743
 solved_users: 657
-acceptance_rate: 73.490%
-collected_at: 2026-04-17T15:55:00.872800+00:00
+acceptance_rate: "73.490%"
+collected_at: "2026-04-17T15:55:00.872800+00:00"
 ---
 
 ## 문제

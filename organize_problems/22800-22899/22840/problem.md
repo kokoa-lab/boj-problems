@@ -1,13 +1,13 @@
 ---
-title: Die Game
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Die Game"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 110
 accepted: 64
 solved_users: 57
-acceptance_rate: 66.279%
-collected_at: 2026-04-17T16:37:05.879920+00:00
+acceptance_rate: "66.279%"
+collected_at: "2026-04-17T16:37:05.879920+00:00"
 ---
 
 ## 문제

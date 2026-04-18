@@ -1,13 +1,13 @@
 ---
-title: JOI ソート (JOI Sort)
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "JOI ソート (JOI Sort)"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 437
 accepted: 372
 solved_users: 333
-acceptance_rate: 86.269%
-collected_at: 2026-04-17T15:44:27.580944+00:00
+acceptance_rate: "86.269%"
+collected_at: "2026-04-17T15:44:27.580944+00:00"
 ---
 
 ## 문제

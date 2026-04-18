@@ -1,13 +1,13 @@
 ---
-title: 장난감
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "장난감"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 335
 accepted: 45
 solved_users: 34
-acceptance_rate: 24.638%
-collected_at: 2026-04-17T10:28:31.047998+00:00
+acceptance_rate: "24.638%"
+collected_at: "2026-04-17T10:28:31.047998+00:00"
 ---
 
 ## 문제

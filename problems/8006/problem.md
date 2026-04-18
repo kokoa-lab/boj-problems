@@ -1,13 +1,13 @@
 ---
-title: Connections
-special_judge: false
-time_limit: 3 초
-memory_limit: 128 MB
+title: "Connections"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "128 MB"
 submissions: 55
 accepted: 20
 solved_users: 16
-acceptance_rate: 45.714%
-collected_at: 2026-04-17T11:55:05.522042+00:00
+acceptance_rate: "45.714%"
+collected_at: "2026-04-17T11:55:05.522042+00:00"
 ---
 
 ## 문제

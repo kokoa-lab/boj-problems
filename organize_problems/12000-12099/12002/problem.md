@@ -1,13 +1,13 @@
 ---
-title: Field Reduction (Silver)
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Field Reduction (Silver)"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 415
 accepted: 168
 solved_users: 138
-acceptance_rate: 46.309%
-collected_at: 2026-04-17T12:48:47.416692+00:00
+acceptance_rate: "46.309%"
+collected_at: "2026-04-17T12:48:47.416692+00:00"
 ---
 
 ## 문제

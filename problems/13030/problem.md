@@ -1,13 +1,13 @@
 ---
-title: 홍준이와 트리
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "홍준이와 트리"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 353
 accepted: 109
 solved_users: 46
-acceptance_rate: 23.232%
-collected_at: 2026-04-17T13:06:21.154175+00:00
+acceptance_rate: "23.232%"
+collected_at: "2026-04-17T13:06:21.154175+00:00"
 ---
 
 ## 문제

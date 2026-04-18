@@ -1,13 +1,13 @@
 ---
-title: 숫자 카드로 덧셈 놀이
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "숫자 카드로 덧셈 놀이"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 25
 accepted: 14
 solved_users: 11
-acceptance_rate: 52.381%
-collected_at: 2026-04-17T19:28:39.359990+00:00
+acceptance_rate: "52.381%"
+collected_at: "2026-04-17T19:28:39.359990+00:00"
 ---
 
 ## 문제

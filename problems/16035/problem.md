@@ -1,13 +1,13 @@
 ---
-title: Playoff by all the teams
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Playoff by all the teams"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 71
 accepted: 38
 solved_users: 37
-acceptance_rate: 55.224%
-collected_at: 2026-04-17T14:10:20.758576+00:00
+acceptance_rate: "55.224%"
+collected_at: "2026-04-17T14:10:20.758576+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: High Card Low Card (Gold)
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "High Card Low Card (Gold)"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 552
 accepted: 257
 solved_users: 235
-acceptance_rate: 48.354%
-collected_at: 2026-04-17T12:48:18.329163+00:00
+acceptance_rate: "48.354%"
+collected_at: "2026-04-17T12:48:18.329163+00:00"
 ---
 
 ## 문제

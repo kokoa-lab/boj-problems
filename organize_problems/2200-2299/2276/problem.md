@@ -1,13 +1,13 @@
 ---
-title: 물 채우기
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "물 채우기"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 740
 accepted: 361
 solved_users: 283
-acceptance_rate: 51.927%
-collected_at: 2026-04-17T10:40:11.049817+00:00
+acceptance_rate: "51.927%"
+collected_at: "2026-04-17T10:40:11.049817+00:00"
 ---
 
 ## 문제

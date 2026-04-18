@@ -1,13 +1,13 @@
 ---
-title: Travel Plan (Small)
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Travel Plan (Small)"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 39
 accepted: 22
 solved_users: 18
-acceptance_rate: 54.545%
-collected_at: 2026-04-17T12:57:27.902564+00:00
+acceptance_rate: "54.545%"
+collected_at: "2026-04-17T12:57:27.902564+00:00"
 ---
 
 ## 문제

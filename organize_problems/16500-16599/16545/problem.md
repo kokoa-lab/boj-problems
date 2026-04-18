@@ -1,13 +1,13 @@
 ---
-title: Crypto
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Crypto"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 9
 accepted: 2
 solved_users: 2
-acceptance_rate: 40.000%
-collected_at: 2026-04-17T14:19:47.262974+00:00
+acceptance_rate: "40.000%"
+collected_at: "2026-04-17T14:19:47.262974+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 애너그램
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "애너그램"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 8218
 accepted: 2840
 solved_users: 2062
-acceptance_rate: 34.015%
-collected_at: 2026-04-17T11:28:21.384093+00:00
+acceptance_rate: "34.015%"
+collected_at: "2026-04-17T11:28:21.384093+00:00"
 ---
 
 ## 문제

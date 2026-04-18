@@ -1,13 +1,13 @@
 ---
-title: 사각형 찾기
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "사각형 찾기"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 515
 accepted: 192
 solved_users: 155
-acceptance_rate: 43.539%
-collected_at: 2026-04-17T12:49:07.254446+00:00
+acceptance_rate: "43.539%"
+collected_at: "2026-04-17T12:49:07.254446+00:00"
 ---
 
 ## 문제

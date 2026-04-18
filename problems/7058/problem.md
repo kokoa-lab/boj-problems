@@ -1,13 +1,13 @@
 ---
-title: Royal guards
-special_judge: true
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Royal guards"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 156
 accepted: 56
 solved_users: 48
-acceptance_rate: 35.556%
-collected_at: 2026-04-17T11:44:16.298321+00:00
+acceptance_rate: "35.556%"
+collected_at: "2026-04-17T11:44:16.298321+00:00"
 ---
 
 ## 문제

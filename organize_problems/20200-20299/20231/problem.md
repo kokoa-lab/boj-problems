@@ -1,13 +1,13 @@
 ---
-title: Idealistic Canister
-special_judge: true
-time_limit: 9 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "Idealistic Canister"
+special_judge: "true"
+time_limit: "9 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 43
 accepted: 7
 solved_users: 4
-acceptance_rate: 80.000%
-collected_at: 2026-04-17T15:33:20.550810+00:00
+acceptance_rate: "80.000%"
+collected_at: "2026-04-17T15:33:20.550810+00:00"
 ---
 
 ## 문제

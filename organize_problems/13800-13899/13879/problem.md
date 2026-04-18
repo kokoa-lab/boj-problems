@@ -1,13 +1,13 @@
 ---
-title: m-ary Partitions
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "m-ary Partitions"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 61
 accepted: 50
 solved_users: 45
-acceptance_rate: 84.906%
-collected_at: 2026-04-17T13:21:34.023792+00:00
+acceptance_rate: "84.906%"
+collected_at: "2026-04-17T13:21:34.023792+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 채플이 너무해
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "채플이 너무해"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 1866
 accepted: 1420
 solved_users: 1347
-acceptance_rate: 77.682%
-collected_at: 2026-04-17T20:52:27.523595+00:00
+acceptance_rate: "77.682%"
+collected_at: "2026-04-17T20:52:27.523595+00:00"
 ---
 
 ## 문제

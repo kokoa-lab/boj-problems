@@ -1,13 +1,13 @@
 ---
-title: 수식 표현
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "수식 표현"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 677
 accepted: 191
 solved_users: 148
-acceptance_rate: 26.288%
-collected_at: 2026-04-17T10:36:19.324424+00:00
+acceptance_rate: "26.288%"
+collected_at: "2026-04-17T10:36:19.324424+00:00"
 ---
 
 ## 문제

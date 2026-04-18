@@ -1,13 +1,13 @@
 ---
-title: Треугольники
-special_judge: false
-time_limit: 3 초
-memory_limit: 512 MB
+title: "Треугольники"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "512 MB"
 submissions: 56
 accepted: 21
 solved_users: 16
-acceptance_rate: 43.243%
-collected_at: 2026-04-17T16:03:25.770970+00:00
+acceptance_rate: "43.243%"
+collected_at: "2026-04-17T16:03:25.770970+00:00"
 ---
 
 ## 문제

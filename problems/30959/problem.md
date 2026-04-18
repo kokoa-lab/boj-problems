@@ -1,13 +1,13 @@
 ---
-title: 앙상블할래?
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "앙상블할래?"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 416
 accepted: 224
 solved_users: 181
-acceptance_rate: 55.692%
-collected_at: 2026-04-17T19:18:54.040133+00:00
+acceptance_rate: "55.692%"
+collected_at: "2026-04-17T19:18:54.040133+00:00"
 ---
 
 ## 문제

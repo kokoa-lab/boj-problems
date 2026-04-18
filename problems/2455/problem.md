@@ -1,13 +1,13 @@
 ---
-title: 지능형 기차
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "지능형 기차"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 34804
 accepted: 25468
 solved_users: 22675
-acceptance_rate: 75.775%
-collected_at: 2026-04-17T10:41:45.448610+00:00
+acceptance_rate: "75.775%"
+collected_at: "2026-04-17T10:41:45.448610+00:00"
 ---
 
 ## 문제

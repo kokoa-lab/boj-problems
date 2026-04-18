@@ -1,13 +1,13 @@
 ---
-title: Three Dice
-special_judge: true
-time_limit: 5 초
-memory_limit: 1024 MB
+title: "Three Dice"
+special_judge: "true"
+time_limit: "5 초"
+memory_limit: "1024 MB"
 submissions: 54
 accepted: 30
 solved_users: 28
-acceptance_rate: 63.636%
-collected_at: 2026-04-17T18:07:10.973080+00:00
+acceptance_rate: "63.636%"
+collected_at: "2026-04-17T18:07:10.973080+00:00"
 ---
 
 ## 문제

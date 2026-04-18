@@ -1,13 +1,13 @@
 ---
-title: 간선 파괴
-special_judge: false
-time_limit: 3 초
-memory_limit: 128 MB
+title: "간선 파괴"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "128 MB"
 submissions: 530
 accepted: 141
 solved_users: 104
-acceptance_rate: 24.940%
-collected_at: 2026-04-17T12:47:26.114002+00:00
+acceptance_rate: "24.940%"
+collected_at: "2026-04-17T12:47:26.114002+00:00"
 ---
 
 ## 문제

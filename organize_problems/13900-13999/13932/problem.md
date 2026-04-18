@@ -1,13 +1,13 @@
 ---
-title: Exam Redistribution
-special_judge: true
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Exam Redistribution"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 144
 accepted: 101
 solved_users: 96
-acceptance_rate: 74.419%
-collected_at: 2026-04-17T13:22:32.642368+00:00
+acceptance_rate: "74.419%"
+collected_at: "2026-04-17T13:22:32.642368+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Generating Cool Passwords Company
-special_judge: true
-time_limit: 1 초
-memory_limit: 2048 MB
+title: "Generating Cool Passwords Company"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "2048 MB"
 submissions: 65
 accepted: 42
 solved_users: 32
-acceptance_rate: 59.259%
-collected_at: 2026-04-17T20:55:27.207917+00:00
+acceptance_rate: "59.259%"
+collected_at: "2026-04-17T20:55:27.207917+00:00"
 ---
 
 ## 문제

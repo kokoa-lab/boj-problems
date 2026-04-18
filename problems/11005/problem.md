@@ -1,13 +1,13 @@
 ---
-title: 진법 변환 2
-special_judge: false
-time_limit: 0.5 초 (추가 시간 없음)
-memory_limit: 256 MB
+title: "진법 변환 2"
+special_judge: "false"
+time_limit: "0.5 초 (추가 시간 없음)"
+memory_limit: "256 MB"
 submissions: 85849
 accepted: 40434
 solved_users: 34751
-acceptance_rate: 46.691%
-collected_at: 2026-04-17T12:34:46.432472+00:00
+acceptance_rate: "46.691%"
+collected_at: "2026-04-17T12:34:46.432472+00:00"
 ---
 
 ## 문제

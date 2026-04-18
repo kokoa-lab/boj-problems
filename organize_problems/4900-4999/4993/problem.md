@@ -1,13 +1,13 @@
 ---
-title: Red and Black
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Red and Black"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 300
 accepted: 219
 solved_users: 204
-acceptance_rate: 75.277%
-collected_at: 2026-04-17T11:10:41.258627+00:00
+acceptance_rate: "75.277%"
+collected_at: "2026-04-17T11:10:41.258627+00:00"
 ---
 
 ## 문제

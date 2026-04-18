@@ -1,13 +1,13 @@
 ---
-title: 수열 축소
-special_judge: true
-time_limit: 2 초
-memory_limit: 128 MB
+title: "수열 축소"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 750
 accepted: 268
 solved_users: 203
-acceptance_rate: 44.812%
-collected_at: 2026-04-17T10:39:53.116379+00:00
+acceptance_rate: "44.812%"
+collected_at: "2026-04-17T10:39:53.116379+00:00"
 ---
 
 ## 문제

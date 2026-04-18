@@ -1,13 +1,13 @@
 ---
-title: Fire on Field
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Fire on Field"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 826
 accepted: 574
 solved_users: 486
-acceptance_rate: 69.628%
-collected_at: 2026-04-17T14:51:08.698402+00:00
+acceptance_rate: "69.628%"
+collected_at: "2026-04-17T14:51:08.698402+00:00"
 ---
 
 ## 문제

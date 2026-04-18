@@ -1,13 +1,13 @@
 ---
-title: 완전 그래프와 쿼리
-special_judge: true
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "완전 그래프와 쿼리"
+special_judge: "true"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 161
 accepted: 74
 solved_users: 63
-acceptance_rate: 44.366%
-collected_at: 2026-04-17T20:18:15.223284+00:00
+acceptance_rate: "44.366%"
+collected_at: "2026-04-17T20:18:15.223284+00:00"
 ---
 
 ## 문제

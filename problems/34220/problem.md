@@ -1,13 +1,13 @@
 ---
-title: 그래프 리뷰 유튜버
-special_judge: true
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "그래프 리뷰 유튜버"
+special_judge: "true"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 209
 accepted: 108
 solved_users: 99
-acceptance_rate: 54.098%
-collected_at: 2026-04-17T20:33:22.098492+00:00
+acceptance_rate: "54.098%"
+collected_at: "2026-04-17T20:33:22.098492+00:00"
 ---
 
 ## 문제

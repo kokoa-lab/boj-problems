@@ -1,13 +1,13 @@
 ---
-title: Counting Greedily Increasing Supersequences
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Counting Greedily Increasing Supersequences"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 86
 accepted: 37
 solved_users: 26
-acceptance_rate: 37.143%
-collected_at: 2026-04-17T14:50:15.072656+00:00
+acceptance_rate: "37.143%"
+collected_at: "2026-04-17T14:50:15.072656+00:00"
 ---
 
 ## 문제

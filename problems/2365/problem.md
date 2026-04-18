@@ -1,13 +1,13 @@
 ---
-title: 숫자판 만들기
-special_judge: true
-time_limit: 5 초
-memory_limit: 128 MB
+title: "숫자판 만들기"
+special_judge: "true"
+time_limit: "5 초"
+memory_limit: "128 MB"
 submissions: 1547
 accepted: 684
 solved_users: 480
-acceptance_rate: 39.409%
-collected_at: 2026-04-17T10:41:04.639060+00:00
+acceptance_rate: "39.409%"
+collected_at: "2026-04-17T10:41:04.639060+00:00"
 ---
 
 ## 문제

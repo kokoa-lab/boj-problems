@@ -1,13 +1,13 @@
 ---
-title: 암호 해독가 최준민
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "암호 해독가 최준민"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 193
 accepted: 27
 solved_users: 24
-acceptance_rate: 35.821%
-collected_at: 2026-04-17T10:45:02.363659+00:00
+acceptance_rate: "35.821%"
+collected_at: "2026-04-17T10:45:02.363659+00:00"
 ---
 
 ## 문제

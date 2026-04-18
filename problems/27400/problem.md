@@ -1,13 +1,13 @@
 ---
-title: Restore Array
-special_judge: true
-time_limit: 0.6 초
-memory_limit: 1024 MB
+title: "Restore Array"
+special_judge: "true"
+time_limit: "0.6 초"
+memory_limit: "1024 MB"
 submissions: 222
 accepted: 66
 solved_users: 43
-acceptance_rate: 25.444%
-collected_at: 2026-04-17T18:02:19.063711+00:00
+acceptance_rate: "25.444%"
+collected_at: "2026-04-17T18:02:19.063711+00:00"
 ---
 
 ## 문제

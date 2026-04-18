@@ -1,13 +1,13 @@
 ---
-title: СМС
-special_judge: true
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "СМС"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 13
 accepted: 7
 solved_users: 3
-acceptance_rate: 37.500%
-collected_at: 2026-04-17T18:44:17.556235+00:00
+acceptance_rate: "37.500%"
+collected_at: "2026-04-17T18:44:17.556235+00:00"
 ---
 
 ## 문제

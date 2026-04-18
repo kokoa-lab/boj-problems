@@ -1,13 +1,13 @@
 ---
-title: Unlucky
-special_judge: true
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Unlucky"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 108
 accepted: 28
 solved_users: 18
-acceptance_rate: 29.508%
-collected_at: 2026-04-17T11:57:52.605608+00:00
+acceptance_rate: "29.508%"
+collected_at: "2026-04-17T11:57:52.605608+00:00"
 ---
 
 ## 문제

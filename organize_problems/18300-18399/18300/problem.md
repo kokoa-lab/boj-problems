@@ -1,13 +1,13 @@
 ---
-title: Pseudo-Random Number Generator
-special_judge: false
-time_limit: 0.3 초
-memory_limit: 512 MB
+title: "Pseudo-Random Number Generator"
+special_judge: "false"
+time_limit: "0.3 초"
+memory_limit: "512 MB"
 submissions: 150
 accepted: 50
 solved_users: 33
-acceptance_rate: 29.730%
-collected_at: 2026-04-17T14:58:57.561758+00:00
+acceptance_rate: "29.730%"
+collected_at: "2026-04-17T14:58:57.561758+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Caesar Cipher
-special_judge: false
-time_limit: 1 초
-memory_limit: 64 MB
+title: "Caesar Cipher"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "64 MB"
 submissions: 1819
 accepted: 880
 solved_users: 757
-acceptance_rate: 50.232%
-collected_at: 2026-04-17T14:08:04.076097+00:00
+acceptance_rate: "50.232%"
+collected_at: "2026-04-17T14:08:04.076097+00:00"
 ---
 
 ## 문제

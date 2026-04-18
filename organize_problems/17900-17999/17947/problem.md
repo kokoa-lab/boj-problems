@@ -1,13 +1,13 @@
 ---
-title: 상남자 곽철용
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "상남자 곽철용"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 1247
 accepted: 226
 solved_users: 142
-acceptance_rate: 16.667%
-collected_at: 2026-04-17T14:50:37.777857+00:00
+acceptance_rate: "16.667%"
+collected_at: "2026-04-17T14:50:37.777857+00:00"
 ---
 
 ## 문제

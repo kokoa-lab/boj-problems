@@ -1,13 +1,13 @@
 ---
-title: 현대모비스 부품 조립
-special_judge: true
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "현대모비스 부품 조립"
+special_judge: "true"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 531
 accepted: 201
 solved_users: 180
-acceptance_rate: 38.462%
-collected_at: 2026-04-17T20:33:39.531815+00:00
+acceptance_rate: "38.462%"
+collected_at: "2026-04-17T20:33:39.531815+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Diameter
-special_judge: true
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Diameter"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 506
 accepted: 185
 solved_users: 143
-acceptance_rate: 35.396%
-collected_at: 2026-04-17T13:11:37.521059+00:00
+acceptance_rate: "35.396%"
+collected_at: "2026-04-17T13:11:37.521059+00:00"
 ---
 
 ## 문제

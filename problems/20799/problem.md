@@ -1,13 +1,13 @@
 ---
-title: Rikka with Maximum Subsegment Sum
-special_judge: false
-time_limit: 3 초
-memory_limit: 512 MB
+title: "Rikka with Maximum Subsegment Sum"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "512 MB"
 submissions: 13
 accepted: 9
 solved_users: 9
-acceptance_rate: 69.231%
-collected_at: 2026-04-17T15:41:30.859069+00:00
+acceptance_rate: "69.231%"
+collected_at: "2026-04-17T15:41:30.859069+00:00"
 ---
 
 ## 문제

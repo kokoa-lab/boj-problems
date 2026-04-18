@@ -1,13 +1,13 @@
 ---
-title: 사칙연산
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "사칙연산"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 724456
 accepted: 322914
 solved_users: 267292
-acceptance_rate: 44.353%
-collected_at: 2026-04-17T12:30:41.912910+00:00
+acceptance_rate: "44.353%"
+collected_at: "2026-04-17T12:30:41.912910+00:00"
 ---
 
 ## 문제

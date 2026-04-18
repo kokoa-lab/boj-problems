@@ -1,13 +1,13 @@
 ---
-title: 공강 사수
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "공강 사수"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 612
 accepted: 476
 solved_users: 444
-acceptance_rate: 78.032%
-collected_at: 2026-04-17T20:46:28.301273+00:00
+acceptance_rate: "78.032%"
+collected_at: "2026-04-17T20:46:28.301273+00:00"
 ---
 
 ## 문제

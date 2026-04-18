@@ -1,13 +1,13 @@
 ---
-title: So Sleepy
-special_judge: false
-time_limit: 8 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "So Sleepy"
+special_judge: "false"
+time_limit: "8 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 8
 accepted: 2
 solved_users: 2
-acceptance_rate: 33.333%
-collected_at: 2026-04-18T09:50:12.089306+00:00
+acceptance_rate: "33.333%"
+collected_at: "2026-04-18T09:50:12.089306+00:00"
 ---
 
 ## 문제

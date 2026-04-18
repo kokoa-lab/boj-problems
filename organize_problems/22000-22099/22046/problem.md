@@ -1,13 +1,13 @@
 ---
-title: Mutating DNA
-special_judge: false
-time_limit: 1 초
-memory_limit: 2048 MB
+title: "Mutating DNA"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "2048 MB"
 submissions: 140
 accepted: 87
 solved_users: 83
-acceptance_rate: 61.940%
-collected_at: 2026-04-17T16:12:17.499372+00:00
+acceptance_rate: "61.940%"
+collected_at: "2026-04-17T16:12:17.499372+00:00"
 ---
 
 ## 문제

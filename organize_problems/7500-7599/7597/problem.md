@@ -1,13 +1,13 @@
 ---
-title: Tennis
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Tennis"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 256
 accepted: 226
 solved_users: 201
-acceptance_rate: 88.546%
-collected_at: 2026-04-17T11:50:58.904630+00:00
+acceptance_rate: "88.546%"
+collected_at: "2026-04-17T11:50:58.904630+00:00"
 ---
 
 ## 문제

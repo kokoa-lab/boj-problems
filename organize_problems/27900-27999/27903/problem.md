@@ -1,13 +1,13 @@
 ---
-title: 인생
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "인생"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 4868
 accepted: 1250
 solved_users: 989
-acceptance_rate: 31.760%
-collected_at: 2026-04-17T18:14:16.045133+00:00
+acceptance_rate: "31.760%"
+collected_at: "2026-04-17T18:14:16.045133+00:00"
 ---
 
 ## 문제

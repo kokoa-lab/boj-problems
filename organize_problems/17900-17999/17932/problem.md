@@ -1,13 +1,13 @@
 ---
-title: Haiku
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Haiku"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 86
 accepted: 30
 solved_users: 20
-acceptance_rate: 28.986%
-collected_at: 2026-04-17T14:50:27.960961+00:00
+acceptance_rate: "28.986%"
+collected_at: "2026-04-17T14:50:27.960961+00:00"
 ---
 
 ## 문제

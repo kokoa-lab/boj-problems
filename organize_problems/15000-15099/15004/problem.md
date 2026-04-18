@@ -1,13 +1,13 @@
 ---
-title: Bearly Made It
-special_judge: true
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Bearly Made It"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 181
 accepted: 55
 solved_users: 30
-acceptance_rate: 26.549%
-collected_at: 2026-04-17T13:47:56.643963+00:00
+acceptance_rate: "26.549%"
+collected_at: "2026-04-17T13:47:56.643963+00:00"
 ---
 
 ## 문제

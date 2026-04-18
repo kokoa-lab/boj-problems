@@ -1,13 +1,13 @@
 ---
-title: Election Queries
-special_judge: false
-time_limit: 3 초
-memory_limit: 2048 MB
+title: "Election Queries"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "2048 MB"
 submissions: 92
 accepted: 27
 solved_users: 23
-acceptance_rate: 26.437%
-collected_at: 2026-04-17T20:23:12.012639+00:00
+acceptance_rate: "26.437%"
+collected_at: "2026-04-17T20:23:12.012639+00:00"
 ---
 
 ## 문제

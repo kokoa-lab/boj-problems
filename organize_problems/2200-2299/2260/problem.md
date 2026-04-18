@@ -1,13 +1,13 @@
 ---
-title: 핵폭탄
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "핵폭탄"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 516
 accepted: 21
 solved_users: 13
-acceptance_rate: 10.156%
-collected_at: 2026-04-17T10:40:02.852449+00:00
+acceptance_rate: "10.156%"
+collected_at: "2026-04-17T10:40:02.852449+00:00"
 ---
 
 ## 문제

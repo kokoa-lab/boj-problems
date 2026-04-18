@@ -1,13 +1,13 @@
 ---
-title: 코코의 노래
-special_judge: false
-time_limit: 10 초 (추가 시간 없음)
-memory_limit: 1536 MB (추가 메모리 없음)
+title: "코코의 노래"
+special_judge: "false"
+time_limit: "10 초 (추가 시간 없음)"
+memory_limit: "1536 MB (추가 메모리 없음)"
 submissions: 24
 accepted: 8
 solved_users: 5
-acceptance_rate: 55.556%
-collected_at: 2026-04-17T20:35:59.100710+00:00
+acceptance_rate: "55.556%"
+collected_at: "2026-04-17T20:35:59.100710+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Bessie Goes Moo
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Bessie Goes Moo"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 227
 accepted: 95
 solved_users: 80
-acceptance_rate: 43.478%
-collected_at: 2026-04-17T12:29:11.046340+00:00
+acceptance_rate: "43.478%"
+collected_at: "2026-04-17T12:29:11.046340+00:00"
 ---
 
 ## 문제

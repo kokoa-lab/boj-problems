@@ -1,13 +1,13 @@
 ---
-title: Back to the Bones
-special_judge: true
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Back to the Bones"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 882
 accepted: 183
 solved_users: 140
-acceptance_rate: 26.465%
-collected_at: 2026-04-17T14:22:11.905317+00:00
+acceptance_rate: "26.465%"
+collected_at: "2026-04-17T14:22:11.905317+00:00"
 ---
 
 ## 문제

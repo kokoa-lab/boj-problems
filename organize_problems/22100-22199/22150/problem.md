@@ -1,13 +1,13 @@
 ---
-title: Шоколадка
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "Шоколадка"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 386
 accepted: 259
 solved_users: 229
-acceptance_rate: 70.679%
-collected_at: 2026-04-17T16:16:03.751088+00:00
+acceptance_rate: "70.679%"
+collected_at: "2026-04-17T16:16:03.751088+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 형광펜 강민우
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "형광펜 강민우"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 64
 accepted: 31
 solved_users: 24
-acceptance_rate: 45.283%
-collected_at: 2026-04-17T17:48:36.325722+00:00
+acceptance_rate: "45.283%"
+collected_at: "2026-04-17T17:48:36.325722+00:00"
 ---
 
 ## 문제

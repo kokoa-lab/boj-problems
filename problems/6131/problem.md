@@ -1,13 +1,13 @@
 ---
-title: 완전 제곱수
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "완전 제곱수"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 5216
 accepted: 3847
 solved_users: 3382
-acceptance_rate: 73.811%
-collected_at: 2026-04-17T11:20:50.435677+00:00
+acceptance_rate: "73.811%"
+collected_at: "2026-04-17T11:20:50.435677+00:00"
 ---
 
 ## 문제

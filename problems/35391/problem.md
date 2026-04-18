@@ -1,13 +1,13 @@
 ---
-title: Hussites
-special_judge: false
-time_limit: 5 초
-memory_limit: 2048 MB
+title: "Hussites"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "2048 MB"
 submissions: 6
 accepted: 4
 solved_users: 4
-acceptance_rate: 66.667%
-collected_at: 2026-04-18T09:51:51.626294+00:00
+acceptance_rate: "66.667%"
+collected_at: "2026-04-18T09:51:51.626294+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Yonsei TOTO
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Yonsei TOTO"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 7363
 accepted: 2744
 solved_users: 2336
-acceptance_rate: 36.460%
-collected_at: 2026-04-17T12:48:59.288989+00:00
+acceptance_rate: "36.460%"
+collected_at: "2026-04-17T12:48:59.288989+00:00"
 ---
 
 ## 문제

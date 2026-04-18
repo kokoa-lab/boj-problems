@@ -1,13 +1,13 @@
 ---
-title: 숫자 만들기
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "숫자 만들기"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 592
 accepted: 159
 solved_users: 132
-acceptance_rate: 32.836%
-collected_at: 2026-04-17T10:30:45.289117+00:00
+acceptance_rate: "32.836%"
+collected_at: "2026-04-17T10:30:45.289117+00:00"
 ---
 
 ## 문제

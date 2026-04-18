@@ -1,13 +1,13 @@
 ---
-title: How I Mathematician Wonder What You Are!
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "How I Mathematician Wonder What You Are!"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 57
 accepted: 53
 solved_users: 42
-acceptance_rate: 91.304%
-collected_at: 2026-04-17T10:53:15.018021+00:00
+acceptance_rate: "91.304%"
+collected_at: "2026-04-17T10:53:15.018021+00:00"
 ---
 
 ## 문제

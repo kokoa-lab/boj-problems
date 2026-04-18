@@ -1,13 +1,13 @@
 ---
-title: 달팽이 리스트
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "달팽이 리스트"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 3099
 accepted: 1078
 solved_users: 883
-acceptance_rate: 38.242%
-collected_at: 2026-04-17T14:47:59.869526+00:00
+acceptance_rate: "38.242%"
+collected_at: "2026-04-17T14:47:59.869526+00:00"
 ---
 
 ## 문제

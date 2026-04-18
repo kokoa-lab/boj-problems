@@ -1,13 +1,13 @@
 ---
-title: Shirts
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Shirts"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 244
 accepted: 111
 solved_users: 100
-acceptance_rate: 50.251%
-collected_at: 2026-04-17T11:11:20.150664+00:00
+acceptance_rate: "50.251%"
+collected_at: "2026-04-17T11:11:20.150664+00:00"
 ---
 
 ## 문제

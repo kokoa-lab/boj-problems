@@ -1,13 +1,13 @@
 ---
-title: 폰의 각성
-special_judge: false
-time_limit: 3 초
-memory_limit: 512 MB
+title: "폰의 각성"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "512 MB"
 submissions: 232
 accepted: 55
 solved_users: 41
-acceptance_rate: 21.354%
-collected_at: 2026-04-17T17:37:45.765242+00:00
+acceptance_rate: "21.354%"
+collected_at: "2026-04-17T17:37:45.765242+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Magical, Marvelous Tour (Small)
-special_judge: true
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Magical, Marvelous Tour (Small)"
+special_judge: "true"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 12
 accepted: 9
 solved_users: 9
-acceptance_rate: 75.000%
-collected_at: 2026-04-17T12:52:07.677042+00:00
+acceptance_rate: "75.000%"
+collected_at: "2026-04-17T12:52:07.677042+00:00"
 ---
 
 ## 문제

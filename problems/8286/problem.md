@@ -1,13 +1,13 @@
 ---
-title: Road Network 2
-special_judge: true
-time_limit: 5 초
-memory_limit: 128 MB
+title: "Road Network 2"
+special_judge: "true"
+time_limit: "5 초"
+memory_limit: "128 MB"
 submissions: 396
 accepted: 98
 solved_users: 79
-acceptance_rate: 27.431%
-collected_at: 2026-04-17T11:58:03.224776+00:00
+acceptance_rate: "27.431%"
+collected_at: "2026-04-17T11:58:03.224776+00:00"
 ---
 
 ## 문제

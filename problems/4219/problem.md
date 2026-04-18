@@ -1,13 +1,13 @@
 ---
-title: 커피 전문점
-special_judge: false
-time_limit: 5 초
-memory_limit: 128 MB
+title: "커피 전문점"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "128 MB"
 submissions: 373
 accepted: 72
 solved_users: 62
-acceptance_rate: 20.805%
-collected_at: 2026-04-17T10:57:26.470076+00:00
+acceptance_rate: "20.805%"
+collected_at: "2026-04-17T10:57:26.470076+00:00"
 ---
 
 ## 문제

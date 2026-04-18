@@ -1,13 +1,13 @@
 ---
-title: Counting Liars
-special_judge: false
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Counting Liars"
+special_judge: "false"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 717
 accepted: 319
 solved_users: 282
-acceptance_rate: 47.716%
-collected_at: 2026-04-17T17:18:05.065149+00:00
+acceptance_rate: "47.716%"
+collected_at: "2026-04-17T17:18:05.065149+00:00"
 ---
 
 ## 문제

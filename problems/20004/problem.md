@@ -1,13 +1,13 @@
 ---
-title: 베스킨라빈스 31
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "베스킨라빈스 31"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 1651
 accepted: 972
 solved_users: 866
-acceptance_rate: 60.602%
-collected_at: 2026-04-17T15:30:24.484186+00:00
+acceptance_rate: "60.602%"
+collected_at: "2026-04-17T15:30:24.484186+00:00"
 ---
 
 ## 문제

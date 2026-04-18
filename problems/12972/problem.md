@@ -1,13 +1,13 @@
 ---
-title: GCD 테이블
-special_judge: true
-time_limit: 2 초
-memory_limit: 512 MB
+title: "GCD 테이블"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 346
 accepted: 161
 solved_users: 120
-acceptance_rate: 47.059%
-collected_at: 2026-04-17T13:05:00.611707+00:00
+acceptance_rate: "47.059%"
+collected_at: "2026-04-17T13:05:00.611707+00:00"
 ---
 
 ## 문제

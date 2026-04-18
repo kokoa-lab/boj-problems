@@ -1,13 +1,13 @@
 ---
-title: 이야기 배열
-special_judge: false
-time_limit: 1.5 초
-memory_limit: 1024 MB
+title: "이야기 배열"
+special_judge: "false"
+time_limit: "1.5 초"
+memory_limit: "1024 MB"
 submissions: 160
 accepted: 58
 solved_users: 44
-acceptance_rate: 37.288%
-collected_at: 2026-04-17T17:10:43.409296+00:00
+acceptance_rate: "37.288%"
+collected_at: "2026-04-17T17:10:43.409296+00:00"
 ---
 
 ## 문제

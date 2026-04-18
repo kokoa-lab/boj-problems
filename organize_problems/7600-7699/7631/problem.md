@@ -1,13 +1,13 @@
 ---
-title: Drunken Walk
-special_judge: true
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Drunken Walk"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 31
 accepted: 11
 solved_users: 11
-acceptance_rate: 40.741%
-collected_at: 2026-04-17T11:51:18.162999+00:00
+acceptance_rate: "40.741%"
+collected_at: "2026-04-17T11:51:18.162999+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 종이접기
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "종이접기"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 425
 accepted: 119
 solved_users: 94
-acceptance_rate: 59.873%
-collected_at: 2026-04-17T10:29:52.568158+00:00
+acceptance_rate: "59.873%"
+collected_at: "2026-04-17T10:29:52.568158+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Integer Flipping
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Integer Flipping"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 264
 accepted: 214
 solved_users: 182
-acceptance_rate: 81.982%
-collected_at: 2026-04-17T12:08:48.760243+00:00
+acceptance_rate: "81.982%"
+collected_at: "2026-04-17T12:08:48.760243+00:00"
 ---
 
 ## 문제

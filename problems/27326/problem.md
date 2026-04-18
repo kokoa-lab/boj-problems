@@ -1,13 +1,13 @@
 ---
-title: 二人三脚 (Three-Legged Race)
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "二人三脚 (Three-Legged Race)"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 419
 accepted: 369
 solved_users: 330
-acceptance_rate: 89.918%
-collected_at: 2026-04-17T18:00:51.060791+00:00
+acceptance_rate: "89.918%"
+collected_at: "2026-04-17T18:00:51.060791+00:00"
 ---
 
 ## 문제

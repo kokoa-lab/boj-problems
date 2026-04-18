@@ -1,13 +1,13 @@
 ---
-title: $K+1$의 배수
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "$K+1$의 배수"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 346
 accepted: 165
 solved_users: 147
-acceptance_rate: 48.515%
-collected_at: 2026-04-17T20:49:20.407627+00:00
+acceptance_rate: "48.515%"
+collected_at: "2026-04-17T20:49:20.407627+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Amy, Soup is Salty!
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Amy, Soup is Salty!"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 209
 accepted: 50
 solved_users: 28
-acceptance_rate: 17.722%
-collected_at: 2026-04-17T15:37:13.145901+00:00
+acceptance_rate: "17.722%"
+collected_at: "2026-04-17T15:37:13.145901+00:00"
 ---
 
 ## 문제

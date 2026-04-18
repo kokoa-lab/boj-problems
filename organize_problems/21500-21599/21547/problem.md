@@ -1,13 +1,13 @@
 ---
-title: Игра с тайным смыслом
-special_judge: false
-time_limit: 3 초
-memory_limit: 1024 MB
+title: "Игра с тайным смыслом"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "1024 MB"
 submissions: 128
 accepted: 6
 solved_users: 1
-acceptance_rate: 3.846%
-collected_at: 2026-04-17T15:59:55.843887+00:00
+acceptance_rate: "3.846%"
+collected_at: "2026-04-17T15:59:55.843887+00:00"
 ---
 
 ## 문제

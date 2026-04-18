@@ -1,13 +1,13 @@
 ---
-title: Campeonato de SMS
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Campeonato de SMS"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 10
 accepted: 5
 solved_users: 4
-acceptance_rate: 57.143%
-collected_at: 2026-04-17T13:16:44.015703+00:00
+acceptance_rate: "57.143%"
+collected_at: "2026-04-17T13:16:44.015703+00:00"
 ---
 
 ## 문제

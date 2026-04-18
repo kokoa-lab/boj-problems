@@ -1,13 +1,13 @@
 ---
-title: 바보 자물쇠
-special_judge: false
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "바보 자물쇠"
+special_judge: "false"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 323
 accepted: 98
 solved_users: 80
-acceptance_rate: 41.667%
-collected_at: 2026-04-17T18:23:14.265175+00:00
+acceptance_rate: "41.667%"
+collected_at: "2026-04-17T18:23:14.265175+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: SAFE
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "SAFE"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 24
 accepted: 15
 solved_users: 12
-acceptance_rate: 66.667%
-collected_at: 2026-04-17T10:47:49.583294+00:00
+acceptance_rate: "66.667%"
+collected_at: "2026-04-17T10:47:49.583294+00:00"
 ---
 
 ## 문제

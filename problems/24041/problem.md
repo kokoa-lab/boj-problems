@@ -1,13 +1,13 @@
 ---
-title: 성싶당 밀키트
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "성싶당 밀키트"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 3371
 accepted: 864
 solved_users: 592
-acceptance_rate: 22.955%
-collected_at: 2026-04-17T17:01:56.357315+00:00
+acceptance_rate: "22.955%"
+collected_at: "2026-04-17T17:01:56.357315+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: String Puzzle
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "String Puzzle"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 121
 accepted: 78
 solved_users: 71
-acceptance_rate: 63.393%
-collected_at: 2026-04-17T13:57:26.237925+00:00
+acceptance_rate: "63.393%"
+collected_at: "2026-04-17T13:57:26.237925+00:00"
 ---
 
 ## 문제

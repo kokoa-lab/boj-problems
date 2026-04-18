@@ -1,13 +1,13 @@
 ---
-title: 오각형, 오각형, 오각형…
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "오각형, 오각형, 오각형…"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 14279
 accepted: 6713
 solved_users: 5806
-acceptance_rate: 47.704%
-collected_at: 2026-04-17T10:36:28.281597+00:00
+acceptance_rate: "47.704%"
+collected_at: "2026-04-17T10:36:28.281597+00:00"
 ---
 
 ## 문제

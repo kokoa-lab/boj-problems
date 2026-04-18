@@ -1,13 +1,13 @@
 ---
-title: 여행 가자
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "여행 가자"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 63724
 accepted: 25888
 solved_users: 18848
-acceptance_rate: 38.851%
-collected_at: 2026-04-17T10:36:31.543308+00:00
+acceptance_rate: "38.851%"
+collected_at: "2026-04-17T10:36:31.543308+00:00"
 ---
 
 ## 문제

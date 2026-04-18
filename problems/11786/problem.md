@@ -1,13 +1,13 @@
 ---
-title: Terrorists
-special_judge: false
-time_limit: 5 초
-memory_limit: 256 MB
+title: "Terrorists"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "256 MB"
 submissions: 238
 accepted: 46
 solved_users: 23
-acceptance_rate: 12.778%
-collected_at: 2026-04-17T12:45:58.293585+00:00
+acceptance_rate: "12.778%"
+collected_at: "2026-04-17T12:45:58.293585+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Since 1973
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Since 1973"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 1871
 accepted: 1002
 solved_users: 901
-acceptance_rate: 55.859%
-collected_at: 2026-04-17T18:18:43.067768+00:00
+acceptance_rate: "55.859%"
+collected_at: "2026-04-17T18:18:43.067768+00:00"
 ---
 
 ## 문제

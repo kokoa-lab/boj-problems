@@ -1,13 +1,13 @@
 ---
-title: 곰곰이와 GGANALi
-special_judge: false
-time_limit: 5 초
-memory_limit: 1024 MB
+title: "곰곰이와 GGANALi"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "1024 MB"
 submissions: 89
 accepted: 37
 solved_users: 24
-acceptance_rate: 32.877%
-collected_at: 2026-04-17T17:39:52.518694+00:00
+acceptance_rate: "32.877%"
+collected_at: "2026-04-17T17:39:52.518694+00:00"
 ---
 
 ## 문제

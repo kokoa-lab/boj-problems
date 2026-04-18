@@ -1,13 +1,13 @@
 ---
-title: The Monkey Dance
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "The Monkey Dance"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 47
 accepted: 37
 solved_users: 37
-acceptance_rate: 78.723%
-collected_at: 2026-04-17T11:41:04.279721+00:00
+acceptance_rate: "78.723%"
+collected_at: "2026-04-17T11:41:04.279721+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Waterpark
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Waterpark"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 75
 accepted: 60
 solved_users: 48
-acceptance_rate: 78.689%
-collected_at: 2026-04-17T11:39:30.901982+00:00
+acceptance_rate: "78.689%"
+collected_at: "2026-04-17T11:39:30.901982+00:00"
 ---
 
 ## 문제

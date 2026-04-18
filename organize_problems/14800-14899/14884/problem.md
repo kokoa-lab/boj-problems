@@ -1,13 +1,13 @@
 ---
-title: ACG
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "ACG"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 124
 accepted: 33
 solved_users: 28
-acceptance_rate: 32.184%
-collected_at: 2026-04-17T13:43:54.512231+00:00
+acceptance_rate: "32.184%"
+collected_at: "2026-04-17T13:43:54.512231+00:00"
 ---
 
 ## 문제

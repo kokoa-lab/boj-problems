@@ -1,13 +1,13 @@
 ---
-title: Mnogokut
-special_judge: false
-time_limit: 0.5 초
-memory_limit: 128 MB
+title: "Mnogokut"
+special_judge: "false"
+time_limit: "0.5 초"
+memory_limit: "128 MB"
 submissions: 54
 accepted: 0
 solved_users: 0
-acceptance_rate: 0.000%
-collected_at: 2026-04-17T13:26:02.368176+00:00
+acceptance_rate: "0.000%"
+collected_at: "2026-04-17T13:26:02.368176+00:00"
 ---
 
 ## 문제

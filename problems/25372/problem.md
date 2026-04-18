@@ -1,13 +1,13 @@
 ---
-title: 성택이의 은밀한 비밀번호
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "성택이의 은밀한 비밀번호"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 14939
 accepted: 9865
 solved_users: 9264
-acceptance_rate: 67.414%
-collected_at: 2026-04-17T17:25:44.571686+00:00
+acceptance_rate: "67.414%"
+collected_at: "2026-04-17T17:25:44.571686+00:00"
 ---
 
 ## 문제

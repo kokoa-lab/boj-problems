@@ -1,13 +1,13 @@
 ---
-title: 체리 컴퍼니
-special_judge: false
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "체리 컴퍼니"
+special_judge: "false"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 126
 accepted: 88
 solved_users: 69
-acceptance_rate: 76.667%
-collected_at: 2026-04-17T20:18:14.674346+00:00
+acceptance_rate: "76.667%"
+collected_at: "2026-04-17T20:18:14.674346+00:00"
 ---
 
 ## 문제

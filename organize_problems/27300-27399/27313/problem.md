@@ -1,13 +1,13 @@
 ---
-title: 효율적인 애니메이션 감상
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "효율적인 애니메이션 감상"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 1012
 accepted: 294
 solved_users: 231
-acceptance_rate: 33.723%
-collected_at: 2026-04-17T18:00:39.504107+00:00
+acceptance_rate: "33.723%"
+collected_at: "2026-04-17T18:00:39.504107+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 스키테일 암호
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "스키테일 암호"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 2537
 accepted: 1829
 solved_users: 1685
-acceptance_rate: 74.393%
-collected_at: 2026-04-17T16:41:30.782483+00:00
+acceptance_rate: "74.393%"
+collected_at: "2026-04-17T16:41:30.782483+00:00"
 ---
 
 ## 문제

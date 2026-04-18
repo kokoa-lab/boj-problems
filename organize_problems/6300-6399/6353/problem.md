@@ -1,13 +1,13 @@
 ---
-title: Packets
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Packets"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 39
 accepted: 20
 solved_users: 20
-acceptance_rate: 54.054%
-collected_at: 2026-04-17T11:26:03.115756+00:00
+acceptance_rate: "54.054%"
+collected_at: "2026-04-17T11:26:03.115756+00:00"
 ---
 
 ## 문제

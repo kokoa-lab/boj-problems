@@ -1,13 +1,13 @@
 ---
-title: 홍익 댄스파티
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "홍익 댄스파티"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 732
 accepted: 509
 solved_users: 454
-acceptance_rate: 72.293%
-collected_at: 2026-04-17T16:46:20.426388+00:00
+acceptance_rate: "72.293%"
+collected_at: "2026-04-17T16:46:20.426388+00:00"
 ---
 
 ## 문제

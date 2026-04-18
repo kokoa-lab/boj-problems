@@ -1,13 +1,13 @@
 ---
-title: 나이트 이야기
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "나이트 이야기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 124
 accepted: 12
 solved_users: 7
-acceptance_rate: 26.923%
-collected_at: 2026-04-17T11:09:41.440127+00:00
+acceptance_rate: "26.923%"
+collected_at: "2026-04-17T11:09:41.440127+00:00"
 ---
 
 ## 문제

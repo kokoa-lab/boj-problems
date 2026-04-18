@@ -1,13 +1,13 @@
 ---
-title: 카잉 달력
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "카잉 달력"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 85137
 accepted: 23294
 solved_users: 17448
-acceptance_rate: 27.622%
-collected_at: 2026-04-17T11:19:50.465891+00:00
+acceptance_rate: "27.622%"
+collected_at: "2026-04-17T11:19:50.465891+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 욱제는 건축왕이야!!
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "욱제는 건축왕이야!!"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 1717
 accepted: 1431
 solved_users: 1327
-acceptance_rate: 84.576%
-collected_at: 2026-04-17T14:08:42.397165+00:00
+acceptance_rate: "84.576%"
+collected_at: "2026-04-17T14:08:42.397165+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Bajtokrąg
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Bajtokrąg"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 28
 accepted: 3
 solved_users: 3
-acceptance_rate: 13.043%
-collected_at: 2026-04-17T12:17:47.169398+00:00
+acceptance_rate: "13.043%"
+collected_at: "2026-04-17T12:17:47.169398+00:00"
 ---
 
 ## 문제

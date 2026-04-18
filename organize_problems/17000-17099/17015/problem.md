@@ -1,13 +1,13 @@
 ---
-title: Arithmetic Square
-special_judge: true
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Arithmetic Square"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 52
 accepted: 20
 solved_users: 12
-acceptance_rate: 44.444%
-collected_at: 2026-04-17T14:27:38.681322+00:00
+acceptance_rate: "44.444%"
+collected_at: "2026-04-17T14:27:38.681322+00:00"
 ---
 
 ## 문제

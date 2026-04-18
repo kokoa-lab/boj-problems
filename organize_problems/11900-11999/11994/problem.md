@@ -1,13 +1,13 @@
 ---
-title: Circular Barn Revisited
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Circular Barn Revisited"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 300
 accepted: 147
 solved_users: 120
-acceptance_rate: 48.980%
-collected_at: 2026-04-17T12:48:41.718095+00:00
+acceptance_rate: "48.980%"
+collected_at: "2026-04-17T12:48:41.718095+00:00"
 ---
 
 ## 문제

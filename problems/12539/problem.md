@@ -1,13 +1,13 @@
 ---
-title: Investing at the Market (Small)
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Investing at the Market (Small)"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 336
 accepted: 129
 solved_users: 112
-acceptance_rate: 38.889%
-collected_at: 2026-04-17T12:57:05.432410+00:00
+acceptance_rate: "38.889%"
+collected_at: "2026-04-17T12:57:05.432410+00:00"
 ---
 
 ## 문제

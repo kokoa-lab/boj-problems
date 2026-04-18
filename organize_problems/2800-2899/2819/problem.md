@@ -1,13 +1,13 @@
 ---
-title: 상근이의 로봇
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "상근이의 로봇"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 1201
 accepted: 418
 solved_users: 305
-acceptance_rate: 39.003%
-collected_at: 2026-04-17T10:45:04.374055+00:00
+acceptance_rate: "39.003%"
+collected_at: "2026-04-17T10:45:04.374055+00:00"
 ---
 
 ## 문제

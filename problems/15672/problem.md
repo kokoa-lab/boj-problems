@@ -1,13 +1,13 @@
 ---
-title: 시공스톤
-special_judge: true
-time_limit: 1 초
-memory_limit: 128 MB
+title: "시공스톤"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 190
 accepted: 45
 solved_users: 41
-acceptance_rate: 24.699%
-collected_at: 2026-04-17T14:03:49.603694+00:00
+acceptance_rate: "24.699%"
+collected_at: "2026-04-17T14:03:49.603694+00:00"
 ---
 
 ## 문제

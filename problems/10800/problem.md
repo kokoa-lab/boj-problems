@@ -1,13 +1,13 @@
 ---
-title: 컬러볼
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "컬러볼"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 21091
 accepted: 4669
 solved_users: 3357
-acceptance_rate: 24.298%
-collected_at: 2026-04-17T12:29:43.924505+00:00
+acceptance_rate: "24.298%"
+collected_at: "2026-04-17T12:29:43.924505+00:00"
 ---
 
 ## 문제

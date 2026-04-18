@@ -1,13 +1,13 @@
 ---
-title: Decelerating Jump
-special_judge: false
-time_limit: 3 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Decelerating Jump"
+special_judge: "false"
+time_limit: "3 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 266
 accepted: 118
 solved_users: 102
-acceptance_rate: 52.308%
-collected_at: 2026-04-17T16:47:05.249358+00:00
+acceptance_rate: "52.308%"
+collected_at: "2026-04-17T16:47:05.249358+00:00"
 ---
 
 ## 문제

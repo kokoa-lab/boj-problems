@@ -1,13 +1,13 @@
 ---
-title: Cow Steeplechase II
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Cow Steeplechase II"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 296
 accepted: 52
 solved_users: 37
-acceptance_rate: 19.372%
-collected_at: 2026-04-17T14:32:32.767676+00:00
+acceptance_rate: "19.372%"
+collected_at: "2026-04-17T14:32:32.767676+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Beer Coasters
-special_judge: true
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Beer Coasters"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 39
 accepted: 11
 solved_users: 11
-acceptance_rate: 31.429%
-collected_at: 2026-04-17T14:47:46.098416+00:00
+acceptance_rate: "31.429%"
+collected_at: "2026-04-17T14:47:46.098416+00:00"
 ---
 
 ## 문제

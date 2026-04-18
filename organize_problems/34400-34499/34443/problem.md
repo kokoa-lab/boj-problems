@@ -1,13 +1,13 @@
 ---
-title: Hack-a-Holics
-special_judge: false
-time_limit: 1 초
-memory_limit: 2048 MB
+title: "Hack-a-Holics"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "2048 MB"
 submissions: 970
 accepted: 882
 solved_users: 856
-acceptance_rate: 91.355%
-collected_at: 2026-04-17T20:39:02.701199+00:00
+acceptance_rate: "91.355%"
+collected_at: "2026-04-17T20:39:02.701199+00:00"
 ---
 
 ## 문제

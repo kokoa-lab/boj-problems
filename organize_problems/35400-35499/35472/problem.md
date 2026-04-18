@@ -1,13 +1,13 @@
 ---
-title: 쉽고 간단한 문제
-special_judge: false
-time_limit: 3 초
-memory_limit: 1024 MB
+title: "쉽고 간단한 문제"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "1024 MB"
 submissions: 125
 accepted: 70
 solved_users: 63
-acceptance_rate: 59.434%
-collected_at: 2026-04-17T21:09:16.617507+00:00
+acceptance_rate: "59.434%"
+collected_at: "2026-04-17T21:09:16.617507+00:00"
 ---
 
 ## 문제

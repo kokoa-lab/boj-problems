@@ -1,13 +1,13 @@
 ---
-title: 바이러스 복제
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "바이러스 복제"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 1064
 accepted: 323
 solved_users: 271
-acceptance_rate: 30.212%
-collected_at: 2026-04-17T12:08:10.143263+00:00
+acceptance_rate: "30.212%"
+collected_at: "2026-04-17T12:08:10.143263+00:00"
 ---
 
 ## 문제

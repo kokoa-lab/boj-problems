@@ -1,13 +1,13 @@
 ---
-title: 피보나치 단어
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "피보나치 단어"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 961
 accepted: 316
 solved_users: 212
-acceptance_rate: 30.028%
-collected_at: 2026-04-17T10:57:16.835106+00:00
+acceptance_rate: "30.028%"
+collected_at: "2026-04-17T10:57:16.835106+00:00"
 ---
 
 ## 문제

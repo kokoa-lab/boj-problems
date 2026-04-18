@@ -1,13 +1,13 @@
 ---
-title: 줄자접기
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "줄자접기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 1833
 accepted: 728
 solved_users: 616
-acceptance_rate: 44.348%
-collected_at: 2026-04-17T10:43:05.961573+00:00
+acceptance_rate: "44.348%"
+collected_at: "2026-04-17T10:43:05.961573+00:00"
 ---
 
 ## 문제

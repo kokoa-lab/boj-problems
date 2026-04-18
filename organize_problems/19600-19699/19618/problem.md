@@ -1,13 +1,13 @@
 ---
-title: 벽 칠하기
-special_judge: false
-time_limit: 1.5 초
-memory_limit: 512 MB
+title: "벽 칠하기"
+special_judge: "false"
+time_limit: "1.5 초"
+memory_limit: "512 MB"
 submissions: 257
 accepted: 61
 solved_users: 54
-acceptance_rate: 22.689%
-collected_at: 2026-04-17T15:25:12.449480+00:00
+acceptance_rate: "22.689%"
+collected_at: "2026-04-17T15:25:12.449480+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 신년 파티
-special_judge: true
-time_limit: 2 초
-memory_limit: 128 MB
+title: "신년 파티"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 875
 accepted: 267
 solved_users: 211
-acceptance_rate: 36.632%
-collected_at: 2026-04-17T10:31:42.652013+00:00
+acceptance_rate: "36.632%"
+collected_at: "2026-04-17T10:31:42.652013+00:00"
 ---
 
 ## 문제

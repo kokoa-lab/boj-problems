@@ -1,13 +1,13 @@
 ---
-title: De-RNG-ed (Large)
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "De-RNG-ed (Large)"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 164
 accepted: 62
 solved_users: 53
-acceptance_rate: 38.406%
-collected_at: 2026-04-17T12:57:26.194620+00:00
+acceptance_rate: "38.406%"
+collected_at: "2026-04-17T12:57:26.194620+00:00"
 ---
 
 ## 문제

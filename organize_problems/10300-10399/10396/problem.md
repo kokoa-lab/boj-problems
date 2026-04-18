@@ -1,13 +1,13 @@
 ---
-title: Black and white stones
-special_judge: false
-time_limit: 3 초
-memory_limit: 256 MB
+title: "Black and white stones"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "256 MB"
 submissions: 90
 accepted: 52
 solved_users: 46
-acceptance_rate: 58.228%
-collected_at: 2026-04-17T12:22:59.223714+00:00
+acceptance_rate: "58.228%"
+collected_at: "2026-04-17T12:22:59.223714+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: PJESMA
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "PJESMA"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 269
 accepted: 203
 solved_users: 177
-acceptance_rate: 78.667%
-collected_at: 2026-04-17T12:05:37.278131+00:00
+acceptance_rate: "78.667%"
+collected_at: "2026-04-17T12:05:37.278131+00:00"
 ---
 
 ## 문제

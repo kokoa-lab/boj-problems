@@ -1,13 +1,13 @@
 ---
-title: Hard Rocks and Atomic Clocks
-special_judge: false
-time_limit: 1 초
-memory_limit: 2048 MB
+title: "Hard Rocks and Atomic Clocks"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "2048 MB"
 submissions: 141
 accepted: 113
 solved_users: 98
-acceptance_rate: 79.675%
-collected_at: 2026-04-17T20:37:13.024948+00:00
+acceptance_rate: "79.675%"
+collected_at: "2026-04-17T20:37:13.024948+00:00"
 ---
 
 ## 문제

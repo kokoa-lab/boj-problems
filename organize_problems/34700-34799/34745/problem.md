@@ -1,13 +1,13 @@
 ---
-title: Matrix Addition
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Matrix Addition"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 31
 accepted: 27
 solved_users: 23
-acceptance_rate: 92.000%
-collected_at: 2026-04-17T20:47:39.909780+00:00
+acceptance_rate: "92.000%"
+collected_at: "2026-04-17T20:47:39.909780+00:00"
 ---
 
 ## 문제

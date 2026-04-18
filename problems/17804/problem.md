@@ -1,13 +1,13 @@
 ---
-title: Knocked Ink
-special_judge: true
-time_limit: 3 초
-memory_limit: 512 MB
+title: "Knocked Ink"
+special_judge: "true"
+time_limit: "3 초"
+memory_limit: "512 MB"
 submissions: 273
 accepted: 101
 solved_users: 47
-acceptance_rate: 29.560%
-collected_at: 2026-04-17T14:47:33.808837+00:00
+acceptance_rate: "29.560%"
+collected_at: "2026-04-17T14:47:33.808837+00:00"
 ---
 
 ## 문제

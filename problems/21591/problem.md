@@ -1,13 +1,13 @@
 ---
-title: Laptop Sticker
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Laptop Sticker"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 3046
 accepted: 2188
 solved_users: 2112
-acceptance_rate: 72.503%
-collected_at: 2026-04-17T16:00:55.868571+00:00
+acceptance_rate: "72.503%"
+collected_at: "2026-04-17T16:00:55.868571+00:00"
 ---
 
 ## 문제

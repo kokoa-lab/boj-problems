@@ -1,13 +1,13 @@
 ---
-title: Collecting Bugs
-special_judge: true
-time_limit: 2 초
-memory_limit: 64 MB
+title: "Collecting Bugs"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "64 MB"
 submissions: 19
 accepted: 10
 solved_users: 6
-acceptance_rate: 100.000%
-collected_at: 2026-04-17T11:49:38.295814+00:00
+acceptance_rate: "100.000%"
+collected_at: "2026-04-17T11:49:38.295814+00:00"
 ---
 
 ## 문제

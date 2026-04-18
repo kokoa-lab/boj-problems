@@ -1,13 +1,13 @@
 ---
-title: 졸업
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "졸업"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 385
 accepted: 114
 solved_users: 45
-acceptance_rate: 25.862%
-collected_at: 2026-04-17T10:31:18.268146+00:00
+acceptance_rate: "25.862%"
+collected_at: "2026-04-17T10:31:18.268146+00:00"
 ---
 
 ## 문제

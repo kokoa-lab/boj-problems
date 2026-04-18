@@ -1,13 +1,13 @@
 ---
-title: Ahmed Aly
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Ahmed Aly"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 1413
 accepted: 1128
 solved_users: 1046
-acceptance_rate: 81.211%
-collected_at: 2026-04-17T12:27:39.203284+00:00
+acceptance_rate: "81.211%"
+collected_at: "2026-04-17T12:27:39.203284+00:00"
 ---
 
 ## 문제

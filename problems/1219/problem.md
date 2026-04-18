@@ -1,13 +1,13 @@
 ---
-title: 오민식의 고민
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "오민식의 고민"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 21257
 accepted: 4733
 solved_users: 3060
-acceptance_rate: 20.116%
-collected_at: 2026-04-17T10:28:54.951839+00:00
+acceptance_rate: "20.116%"
+collected_at: "2026-04-17T10:28:54.951839+00:00"
 ---
 
 ## 문제

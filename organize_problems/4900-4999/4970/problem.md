@@ -1,13 +1,13 @@
 ---
-title: 디지털 회로 개론
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "디지털 회로 개론"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 287
 accepted: 144
 solved_users: 101
-acceptance_rate: 46.759%
-collected_at: 2026-04-17T11:10:28.640979+00:00
+acceptance_rate: "46.759%"
+collected_at: "2026-04-17T11:10:28.640979+00:00"
 ---
 
 ## 문제

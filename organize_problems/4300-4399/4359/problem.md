@@ -1,13 +1,13 @@
 ---
-title: Forests
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Forests"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 288
 accepted: 101
 solved_users: 74
-acceptance_rate: 36.098%
-collected_at: 2026-04-17T11:00:05.509954+00:00
+acceptance_rate: "36.098%"
+collected_at: "2026-04-17T11:00:05.509954+00:00"
 ---
 
 ## 문제

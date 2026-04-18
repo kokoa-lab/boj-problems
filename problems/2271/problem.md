@@ -1,13 +1,13 @@
 ---
-title: 암호화 알고리즘의 약점
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "암호화 알고리즘의 약점"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 531
 accepted: 96
 solved_users: 70
-acceptance_rate: 20.231%
-collected_at: 2026-04-17T10:40:09.920381+00:00
+acceptance_rate: "20.231%"
+collected_at: "2026-04-17T10:40:09.920381+00:00"
 ---
 
 ## 문제

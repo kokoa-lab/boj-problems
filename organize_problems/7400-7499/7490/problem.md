@@ -1,13 +1,13 @@
 ---
-title: 0 만들기
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "0 만들기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 13878
 accepted: 7099
 solved_users: 5353
-acceptance_rate: 49.786%
-collected_at: 2026-04-17T11:49:52.229385+00:00
+acceptance_rate: "49.786%"
+collected_at: "2026-04-17T11:49:52.229385+00:00"
 ---
 
 ## 문제

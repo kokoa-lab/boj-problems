@@ -1,13 +1,13 @@
 ---
-title: 크리보드
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "크리보드"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 9005
 accepted: 4121
 solved_users: 3281
-acceptance_rate: 44.829%
-collected_at: 2026-04-17T12:35:50.051376+00:00
+acceptance_rate: "44.829%"
+collected_at: "2026-04-17T12:35:50.051376+00:00"
 ---
 
 ## 문제

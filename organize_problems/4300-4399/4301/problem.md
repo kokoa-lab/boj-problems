@@ -1,13 +1,13 @@
 ---
-title: Practice
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Practice"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 112
 accepted: 14
 solved_users: 10
-acceptance_rate: 11.236%
-collected_at: 2026-04-17T10:59:09.070029+00:00
+acceptance_rate: "11.236%"
+collected_at: "2026-04-17T10:59:09.070029+00:00"
 ---
 
 ## 문제

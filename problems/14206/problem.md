@@ -1,13 +1,13 @@
 ---
-title: 선데이 코딩
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "선데이 코딩"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 70
 accepted: 35
 solved_users: 28
-acceptance_rate: 50.909%
-collected_at: 2026-04-17T13:27:52.247970+00:00
+acceptance_rate: "50.909%"
+collected_at: "2026-04-17T13:27:52.247970+00:00"
 ---
 
 ## 문제

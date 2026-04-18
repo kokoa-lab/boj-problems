@@ -1,13 +1,13 @@
 ---
-title: Truth Tellers
-special_judge: false
-time_limit: 3.5 초 (추가 시간 없음)
-memory_limit: 256 MB
+title: "Truth Tellers"
+special_judge: "false"
+time_limit: "3.5 초 (추가 시간 없음)"
+memory_limit: "256 MB"
 submissions: 252
 accepted: 108
 solved_users: 82
-acceptance_rate: 44.565%
-collected_at: 2026-04-17T14:29:28.696949+00:00
+acceptance_rate: "44.565%"
+collected_at: "2026-04-17T14:29:28.696949+00:00"
 ---
 
 ## 문제

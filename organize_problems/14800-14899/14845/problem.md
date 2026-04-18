@@ -1,13 +1,13 @@
 ---
-title: 컵과 구슬
-special_judge: false
-time_limit: 4 초
-memory_limit: 256 MB
+title: "컵과 구슬"
+special_judge: "false"
+time_limit: "4 초"
+memory_limit: "256 MB"
 submissions: 116
 accepted: 32
 solved_users: 24
-acceptance_rate: 41.379%
-collected_at: 2026-04-17T13:42:53.762061+00:00
+acceptance_rate: "41.379%"
+collected_at: "2026-04-17T13:42:53.762061+00:00"
 ---
 
 ## 문제

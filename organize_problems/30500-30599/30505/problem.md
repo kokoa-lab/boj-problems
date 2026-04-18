@@ -1,13 +1,13 @@
 ---
-title: SASA 마니또
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "SASA 마니또"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 280
 accepted: 97
 solved_users: 69
-acceptance_rate: 46.000%
-collected_at: 2026-04-17T19:08:10.867643+00:00
+acceptance_rate: "46.000%"
+collected_at: "2026-04-17T19:08:10.867643+00:00"
 ---
 
 ## 문제

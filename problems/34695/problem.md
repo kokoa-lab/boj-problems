@@ -1,13 +1,13 @@
 ---
-title: 이름 짓기
-special_judge: false
-time_limit: 1.5 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "이름 짓기"
+special_judge: "false"
+time_limit: "1.5 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 230
 accepted: 123
 solved_users: 83
-acceptance_rate: 51.553%
-collected_at: 2026-04-17T20:46:12.499581+00:00
+acceptance_rate: "51.553%"
+collected_at: "2026-04-17T20:46:12.499581+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 골롱 수열
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "골롱 수열"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 1536
 accepted: 676
 solved_users: 525
-acceptance_rate: 45.652%
-collected_at: 2026-04-17T10:37:35.750237+00:00
+acceptance_rate: "45.652%"
+collected_at: "2026-04-17T10:37:35.750237+00:00"
 ---
 
 ## 문제

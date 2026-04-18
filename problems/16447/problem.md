@@ -1,13 +1,13 @@
 ---
-title: Festival
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Festival"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 26
 accepted: 16
 solved_users: 14
-acceptance_rate: 66.667%
-collected_at: 2026-04-17T14:18:10.133916+00:00
+acceptance_rate: "66.667%"
+collected_at: "2026-04-17T14:18:10.133916+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 단절점과 단절선
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "단절점과 단절선"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 4928
 accepted: 2653
 solved_users: 2100
-acceptance_rate: 52.963%
-collected_at: 2026-04-17T13:40:08.573508+00:00
+acceptance_rate: "52.963%"
+collected_at: "2026-04-17T13:40:08.573508+00:00"
 ---
 
 ## 문제

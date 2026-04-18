@@ -1,13 +1,13 @@
 ---
-title: 기숙사 바닥
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "기숙사 바닥"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 6099
 accepted: 3503
 solved_users: 2926
-acceptance_rate: 58.403%
-collected_at: 2026-04-17T10:45:18.563921+00:00
+acceptance_rate: "58.403%"
+collected_at: "2026-04-17T10:45:18.563921+00:00"
 ---
 
 ## 문제

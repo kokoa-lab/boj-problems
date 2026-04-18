@@ -1,13 +1,13 @@
 ---
-title: Convention
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Convention"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 1278
 accepted: 559
 solved_users: 445
-acceptance_rate: 46.695%
-collected_at: 2026-04-17T14:23:32.365145+00:00
+acceptance_rate: "46.695%"
+collected_at: "2026-04-17T14:23:32.365145+00:00"
 ---
 
 ## 문제

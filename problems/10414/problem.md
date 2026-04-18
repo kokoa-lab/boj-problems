@@ -1,13 +1,13 @@
 ---
-title: Landline Telephone Network
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "Landline Telephone Network"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 111
 accepted: 37
 solved_users: 32
-acceptance_rate: 34.043%
-collected_at: 2026-04-17T12:23:17.505423+00:00
+acceptance_rate: "34.043%"
+collected_at: "2026-04-17T12:23:17.505423+00:00"
 ---
 
 ## 문제

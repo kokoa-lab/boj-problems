@@ -1,13 +1,13 @@
 ---
-title: 사수아탕
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "사수아탕"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 3578
 accepted: 1103
 solved_users: 832
-acceptance_rate: 32.833%
-collected_at: 2026-04-17T10:41:28.115422+00:00
+acceptance_rate: "32.833%"
+collected_at: "2026-04-17T10:41:28.115422+00:00"
 ---
 
 ## 문제

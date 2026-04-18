@@ -1,13 +1,13 @@
 ---
-title: 포지션 제로
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "포지션 제로"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 589
 accepted: 462
 solved_users: 430
-acceptance_rate: 79.482%
-collected_at: 2026-04-17T18:57:25.274090+00:00
+acceptance_rate: "79.482%"
+collected_at: "2026-04-17T18:57:25.274090+00:00"
 ---
 
 ## 문제

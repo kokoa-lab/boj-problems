@@ -1,13 +1,13 @@
 ---
-title: X X glued
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "X X glued"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 252
 accepted: 172
 solved_users: 149
-acceptance_rate: 73.039%
-collected_at: 2026-04-17T13:37:43.676829+00:00
+acceptance_rate: "73.039%"
+collected_at: "2026-04-17T13:37:43.676829+00:00"
 ---
 
 ## 문제

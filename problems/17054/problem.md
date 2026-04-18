@@ -1,13 +1,13 @@
 ---
-title: Sličice
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Sličice"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 34
 accepted: 20
 solved_users: 20
-acceptance_rate: 74.074%
-collected_at: 2026-04-17T14:28:37.053987+00:00
+acceptance_rate: "74.074%"
+collected_at: "2026-04-17T14:28:37.053987+00:00"
 ---
 
 ## 문제

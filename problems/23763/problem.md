@@ -1,13 +1,13 @@
 ---
-title: 괄호 문자열 이동하기
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "괄호 문자열 이동하기"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 189
 accepted: 44
 solved_users: 37
-acceptance_rate: 30.579%
-collected_at: 2026-04-17T16:53:18.956100+00:00
+acceptance_rate: "30.579%"
+collected_at: "2026-04-17T16:53:18.956100+00:00"
 ---
 
 ## 문제

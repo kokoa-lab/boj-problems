@@ -1,13 +1,13 @@
 ---
-title: 원, 탁!
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "원, 탁!"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 1706
 accepted: 618
 solved_users: 524
-acceptance_rate: 35.940%
-collected_at: 2026-04-17T18:18:34.720757+00:00
+acceptance_rate: "35.940%"
+collected_at: "2026-04-17T18:18:34.720757+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: K-th path
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "K-th path"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 44
 accepted: 13
 solved_users: 11
-acceptance_rate: 57.895%
-collected_at: 2026-04-17T12:46:47.661589+00:00
+acceptance_rate: "57.895%"
+collected_at: "2026-04-17T12:46:47.661589+00:00"
 ---
 
 ## 문제

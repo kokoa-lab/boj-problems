@@ -1,13 +1,13 @@
 ---
-title: Who is taller?
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Who is taller?"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 203
 accepted: 102
 solved_users: 66
-acceptance_rate: 49.624%
-collected_at: 2026-04-17T11:35:51.992657+00:00
+acceptance_rate: "49.624%"
+collected_at: "2026-04-17T11:35:51.992657+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 도영이가 만든 맛있는 음식
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "도영이가 만든 맛있는 음식"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 22991
 accepted: 13303
 solved_users: 9688
-acceptance_rate: 56.681%
-collected_at: 2026-04-17T10:45:57.455441+00:00
+acceptance_rate: "56.681%"
+collected_at: "2026-04-17T10:45:57.455441+00:00"
 ---
 
 ## 문제

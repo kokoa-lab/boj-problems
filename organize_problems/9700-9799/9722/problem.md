@@ -1,13 +1,13 @@
 ---
-title: Qurban 2011
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Qurban 2011"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 17
 accepted: 0
 solved_users: 0
-acceptance_rate: 0.000%
-collected_at: 2026-04-17T12:13:40.675206+00:00
+acceptance_rate: "0.000%"
+collected_at: "2026-04-17T12:13:40.675206+00:00"
 ---
 
 ## 문제

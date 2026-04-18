@@ -1,13 +1,13 @@
 ---
-title: School Colors
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "School Colors"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 232
 accepted: 186
 solved_users: 153
-acceptance_rate: 80.952%
-collected_at: 2026-04-17T11:12:17.975666+00:00
+acceptance_rate: "80.952%"
+collected_at: "2026-04-17T11:12:17.975666+00:00"
 ---
 
 ## 문제

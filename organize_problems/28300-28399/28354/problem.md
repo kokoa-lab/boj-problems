@@ -1,13 +1,13 @@
 ---
-title: 링크 컷 토마토
-special_judge: false
-time_limit: 3.5 초 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "링크 컷 토마토"
+special_judge: "false"
+time_limit: "3.5 초 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 549
 accepted: 84
 solved_users: 67
-acceptance_rate: 17.678%
-collected_at: 2026-04-17T18:24:20.326975+00:00
+acceptance_rate: "17.678%"
+collected_at: "2026-04-17T18:24:20.326975+00:00"
 ---
 
 ## 문제

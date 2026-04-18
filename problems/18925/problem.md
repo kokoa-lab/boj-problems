@@ -1,13 +1,13 @@
 ---
-title: Game With Permutations
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Game With Permutations"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 40
 accepted: 12
 solved_users: 11
-acceptance_rate: 64.706%
-collected_at: 2026-04-17T15:11:26.825929+00:00
+acceptance_rate: "64.706%"
+collected_at: "2026-04-17T15:11:26.825929+00:00"
 ---
 
 ## 문제

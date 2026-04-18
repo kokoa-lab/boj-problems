@@ -1,13 +1,13 @@
 ---
-title: Uplifting Excursion
-special_judge: false
-time_limit: 4 초
-memory_limit: 512 MB
+title: "Uplifting Excursion"
+special_judge: "false"
+time_limit: "4 초"
+memory_limit: "512 MB"
 submissions: 118
 accepted: 18
 solved_users: 13
-acceptance_rate: 12.745%
-collected_at: 2026-04-17T17:23:34.809459+00:00
+acceptance_rate: "12.745%"
+collected_at: "2026-04-17T17:23:34.809459+00:00"
 ---
 
 ## 문제

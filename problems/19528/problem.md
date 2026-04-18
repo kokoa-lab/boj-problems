@@ -1,13 +1,13 @@
 ---
-title: Travel in Sugar Country
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Travel in Sugar Country"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 48
 accepted: 12
 solved_users: 10
-acceptance_rate: 27.778%
-collected_at: 2026-04-17T15:22:07.642153+00:00
+acceptance_rate: "27.778%"
+collected_at: "2026-04-17T15:22:07.642153+00:00"
 ---
 
 ## 문제

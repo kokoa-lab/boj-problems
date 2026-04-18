@@ -1,13 +1,13 @@
 ---
-title: 숫자 쌍
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "숫자 쌍"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 205
 accepted: 64
 solved_users: 56
-acceptance_rate: 43.411%
-collected_at: 2026-04-17T11:49:16.079969+00:00
+acceptance_rate: "43.411%"
+collected_at: "2026-04-17T11:49:16.079969+00:00"
 ---
 
 ## 문제

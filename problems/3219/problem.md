@@ -1,13 +1,13 @@
 ---
-title: novci
-special_judge: true
-time_limit: 1 초
-memory_limit: 128 MB
+title: "novci"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 54
 accepted: 11
 solved_users: 10
-acceptance_rate: 25.000%
-collected_at: 2026-04-17T10:47:28.467705+00:00
+acceptance_rate: "25.000%"
+collected_at: "2026-04-17T10:47:28.467705+00:00"
 ---
 
 ## 문제

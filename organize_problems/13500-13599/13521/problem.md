@@ -1,13 +1,13 @@
 ---
-title: Build a Boat
-special_judge: true
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Build a Boat"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 34
 accepted: 11
 solved_users: 7
-acceptance_rate: 36.842%
-collected_at: 2026-04-17T13:14:32.725650+00:00
+acceptance_rate: "36.842%"
+collected_at: "2026-04-17T13:14:32.725650+00:00"
 ---
 
 ## 문제

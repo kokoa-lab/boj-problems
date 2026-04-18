@@ -1,13 +1,13 @@
 ---
-title: 중복 빼고 정렬하기
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "중복 빼고 정렬하기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 26668
 accepted: 15594
 solved_users: 13294
-acceptance_rate: 58.774%
-collected_at: 2026-04-17T12:30:46.981556+00:00
+acceptance_rate: "58.774%"
+collected_at: "2026-04-17T12:30:46.981556+00:00"
 ---
 
 ## 문제

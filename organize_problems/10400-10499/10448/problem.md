@@ -1,13 +1,13 @@
 ---
-title: 유레카 이론
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "유레카 이론"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 18775
 accepted: 11009
 solved_users: 8551
-acceptance_rate: 57.855%
-collected_at: 2026-04-17T12:23:50.218303+00:00
+acceptance_rate: "57.855%"
+collected_at: "2026-04-17T12:23:50.218303+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: bit gisect
-special_judge: false
-time_limit: 20 초
-memory_limit: 256 MB
+title: "bit gisect"
+special_judge: "false"
+time_limit: "20 초"
+memory_limit: "256 MB"
 submissions: 13
 accepted: 2
 solved_users: 2
-acceptance_rate: 15.385%
-collected_at: 2026-04-17T16:47:50.394046+00:00
+acceptance_rate: "15.385%"
+collected_at: "2026-04-17T16:47:50.394046+00:00"
 ---
 
 ## 문제

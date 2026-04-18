@@ -1,13 +1,13 @@
 ---
-title: Boring Lectures
-special_judge: false
-time_limit: 8 초
-memory_limit: 512 MB
+title: "Boring Lectures"
+special_judge: "false"
+time_limit: "8 초"
+memory_limit: "512 MB"
 submissions: 30
 accepted: 10
 solved_users: 9
-acceptance_rate: 60.000%
-collected_at: 2026-04-17T15:25:38.093586+00:00
+acceptance_rate: "60.000%"
+collected_at: "2026-04-17T15:25:38.093586+00:00"
 ---
 
 ## 문제

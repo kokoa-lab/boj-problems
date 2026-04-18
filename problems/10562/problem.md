@@ -1,13 +1,13 @@
 ---
-title: 나이트
-special_judge: false
-time_limit: 60 초
-memory_limit: 256 MB
+title: "나이트"
+special_judge: "false"
+time_limit: "60 초"
+memory_limit: "256 MB"
 submissions: 311
 accepted: 178
 solved_users: 119
-acceptance_rate: 62.304%
-collected_at: 2026-04-17T12:25:41.940533+00:00
+acceptance_rate: "62.304%"
+collected_at: "2026-04-17T12:25:41.940533+00:00"
 ---
 
 ## 문제

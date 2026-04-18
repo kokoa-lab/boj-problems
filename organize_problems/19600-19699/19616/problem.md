@@ -1,13 +1,13 @@
 ---
-title: Shopping Plans
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Shopping Plans"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 117
 accepted: 22
 solved_users: 20
-acceptance_rate: 19.417%
-collected_at: 2026-04-17T15:25:18.663613+00:00
+acceptance_rate: "19.417%"
+collected_at: "2026-04-17T15:25:18.663613+00:00"
 ---
 
 ## 문제

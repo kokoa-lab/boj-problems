@@ -1,13 +1,13 @@
 ---
-title: Grp
-special_judge: true
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Grp"
+special_judge: "true"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 7
 accepted: 4
 solved_users: 4
-acceptance_rate: 57.143%
-collected_at: 2026-04-17T15:09:09.988648+00:00
+acceptance_rate: "57.143%"
+collected_at: "2026-04-17T15:09:09.988648+00:00"
 ---
 
 ## 문제

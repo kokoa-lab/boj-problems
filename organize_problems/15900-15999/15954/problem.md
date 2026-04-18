@@ -1,13 +1,13 @@
 ---
-title: 인형들
-special_judge: true
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "인형들"
+special_judge: "true"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 15932
 accepted: 2717
 solved_users: 1954
-acceptance_rate: 18.578%
-collected_at: 2026-04-17T14:09:06.758012+00:00
+acceptance_rate: "18.578%"
+collected_at: "2026-04-17T14:09:06.758012+00:00"
 ---
 
 ## 문제

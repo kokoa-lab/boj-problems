@@ -1,13 +1,13 @@
 ---
-title: 가희와 열리지 않는 건널목
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "가희와 열리지 않는 건널목"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 660
 accepted: 356
 solved_users: 309
-acceptance_rate: 59.309%
-collected_at: 2026-04-17T18:13:41.573706+00:00
+acceptance_rate: "59.309%"
+collected_at: "2026-04-17T18:13:41.573706+00:00"
 ---
 
 ## 문제

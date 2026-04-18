@@ -1,13 +1,13 @@
 ---
-title: Max
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Max"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 396
 accepted: 337
 solved_users: 302
-acceptance_rate: 90.691%
-collected_at: 2026-04-17T12:16:30.817912+00:00
+acceptance_rate: "90.691%"
+collected_at: "2026-04-17T12:16:30.817912+00:00"
 ---
 
 ## 문제

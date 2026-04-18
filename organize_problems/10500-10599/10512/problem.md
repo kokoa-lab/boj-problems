@@ -1,13 +1,13 @@
 ---
-title: The Imp
-special_judge: false
-time_limit: 15 초
-memory_limit: 256 MB
+title: "The Imp"
+special_judge: "false"
+time_limit: "15 초"
+memory_limit: "256 MB"
 submissions: 183
 accepted: 64
 solved_users: 44
-acceptance_rate: 36.975%
-collected_at: 2026-04-17T12:24:50.883246+00:00
+acceptance_rate: "36.975%"
+collected_at: "2026-04-17T12:24:50.883246+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 조약돌
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "조약돌"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 3157
 accepted: 1219
 solved_users: 1006
-acceptance_rate: 41.485%
-collected_at: 2026-04-17T10:38:16.644497+00:00
+acceptance_rate: "41.485%"
+collected_at: "2026-04-17T10:38:16.644497+00:00"
 ---
 
 ## 문제

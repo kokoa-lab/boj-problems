@@ -1,13 +1,13 @@
 ---
-title: 우체국 2
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "우체국 2"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 743
 accepted: 177
 solved_users: 95
-acceptance_rate: 41.850%
-collected_at: 2026-04-17T15:04:47.770905+00:00
+acceptance_rate: "41.850%"
+collected_at: "2026-04-17T15:04:47.770905+00:00"
 ---
 
 ## 문제

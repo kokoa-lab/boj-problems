@@ -1,13 +1,13 @@
 ---
-title: 최종병기 활
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "최종병기 활"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 663
 accepted: 193
 solved_users: 143
-acceptance_rate: 31.498%
-collected_at: 2026-04-17T14:06:42.129591+00:00
+acceptance_rate: "31.498%"
+collected_at: "2026-04-17T14:06:42.129591+00:00"
 ---
 
 ## 문제

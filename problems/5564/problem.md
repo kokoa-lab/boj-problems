@@ -1,13 +1,13 @@
 ---
-title: ダンジョン
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "ダンジョン"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 49
 accepted: 30
 solved_users: 18
-acceptance_rate: 66.667%
-collected_at: 2026-04-17T11:15:30.468461+00:00
+acceptance_rate: "66.667%"
+collected_at: "2026-04-17T11:15:30.468461+00:00"
 ---
 
 ## 문제

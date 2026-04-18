@@ -1,13 +1,13 @@
 ---
-title: 빠른 오름차순 메시지 전달
-special_judge: false
-time_limit: 3 초
-memory_limit: 512 MB
+title: "빠른 오름차순 메시지 전달"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "512 MB"
 submissions: 218
 accepted: 177
 solved_users: 151
-acceptance_rate: 87.791%
-collected_at: 2026-04-17T17:33:51.264172+00:00
+acceptance_rate: "87.791%"
+collected_at: "2026-04-17T17:33:51.264172+00:00"
 ---
 
 ## 문제

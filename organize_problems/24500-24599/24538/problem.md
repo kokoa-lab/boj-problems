@@ -1,13 +1,13 @@
 ---
-title: 작업 일지
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "작업 일지"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 271
 accepted: 130
 solved_users: 107
-acceptance_rate: 52.451%
-collected_at: 2026-04-17T17:10:52.249613+00:00
+acceptance_rate: "52.451%"
+collected_at: "2026-04-17T17:10:52.249613+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Sequence Construction
-special_judge: true
-time_limit: 2 초
-memory_limit: 2048 MB
+title: "Sequence Construction"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "2048 MB"
 submissions: 133
 accepted: 54
 solved_users: 48
-acceptance_rate: 40.336%
-collected_at: 2026-04-17T20:23:10.039223+00:00
+acceptance_rate: "40.336%"
+collected_at: "2026-04-17T20:23:10.039223+00:00"
 ---
 
 ## 문제

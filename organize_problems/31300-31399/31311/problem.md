@@ -1,13 +1,13 @@
 ---
-title: Very Important Edge
-special_judge: false
-time_limit: 3 초
-memory_limit: 2048 MB
+title: "Very Important Edge"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "2048 MB"
 submissions: 216
 accepted: 44
 solved_users: 35
-acceptance_rate: 23.973%
-collected_at: 2026-04-17T19:25:42.250878+00:00
+acceptance_rate: "23.973%"
+collected_at: "2026-04-17T19:25:42.250878+00:00"
 ---
 
 ## 문제

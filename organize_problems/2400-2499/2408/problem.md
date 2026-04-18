@@ -1,13 +1,13 @@
 ---
-title: 큰 수 계산
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "큰 수 계산"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 2497
 accepted: 864
 solved_users: 712
-acceptance_rate: 38.843%
-collected_at: 2026-04-17T10:41:22.871856+00:00
+acceptance_rate: "38.843%"
+collected_at: "2026-04-17T10:41:22.871856+00:00"
 ---
 
 ## 문제

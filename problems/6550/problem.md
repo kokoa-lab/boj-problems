@@ -1,13 +1,13 @@
 ---
-title: 부분 문자열
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "부분 문자열"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 9904
 accepted: 3998
 solved_users: 3263
-acceptance_rate: 40.839%
-collected_at: 2026-04-17T11:30:19.247297+00:00
+acceptance_rate: "40.839%"
+collected_at: "2026-04-17T11:30:19.247297+00:00"
 ---
 
 ## 문제

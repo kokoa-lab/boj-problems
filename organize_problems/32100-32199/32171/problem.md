@@ -1,13 +1,13 @@
 ---
-title: 울타리 공사
-special_judge: false
-time_limit: 0.1 초
-memory_limit: 1024 MB
+title: "울타리 공사"
+special_judge: "false"
+time_limit: "0.1 초"
+memory_limit: "1024 MB"
 submissions: 706
 accepted: 513
 solved_users: 480
-acceptance_rate: 73.960%
-collected_at: 2026-04-17T19:44:50.852300+00:00
+acceptance_rate: "73.960%"
+collected_at: "2026-04-17T19:44:50.852300+00:00"
 ---
 
 ## 문제

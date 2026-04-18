@@ -1,13 +1,13 @@
 ---
-title: 안 보고 정렬
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "안 보고 정렬"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 123
 accepted: 74
 solved_users: 71
-acceptance_rate: 62.832%
-collected_at: 2026-04-17T20:56:59.067694+00:00
+acceptance_rate: "62.832%"
+collected_at: "2026-04-17T20:56:59.067694+00:00"
 ---
 
 ## 문제

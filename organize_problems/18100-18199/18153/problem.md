@@ -1,13 +1,13 @@
 ---
-title: Coloring Contention
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Coloring Contention"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 159
 accepted: 122
 solved_users: 111
-acceptance_rate: 78.169%
-collected_at: 2026-04-17T14:56:30.657997+00:00
+acceptance_rate: "78.169%"
+collected_at: "2026-04-17T14:56:30.657997+00:00"
 ---
 
 ## 문제

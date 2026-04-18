@@ -1,13 +1,13 @@
 ---
-title: Geometry PTSD
-special_judge: true
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Geometry PTSD"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 314
 accepted: 54
 solved_users: 44
-acceptance_rate: 22.449%
-collected_at: 2026-04-17T15:09:18.217715+00:00
+acceptance_rate: "22.449%"
+collected_at: "2026-04-17T15:09:18.217715+00:00"
 ---
 
 ## 문제

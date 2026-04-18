@@ -1,13 +1,13 @@
 ---
-title: 분단의 슬픔
-special_judge: true
-time_limit: 1 초
-memory_limit: 512 MB
+title: "분단의 슬픔"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 6007
 accepted: 1720
 solved_users: 817
-acceptance_rate: 22.256%
-collected_at: 2026-04-17T13:08:27.382709+00:00
+acceptance_rate: "22.256%"
+collected_at: "2026-04-17T13:08:27.382709+00:00"
 ---
 
 ## 문제

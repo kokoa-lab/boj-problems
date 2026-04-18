@@ -1,13 +1,13 @@
 ---
-title: Optimized Cheating
-special_judge: true
-time_limit: 1 초
-memory_limit: 2048 MB
+title: "Optimized Cheating"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "2048 MB"
 submissions: 22
 accepted: 9
 solved_users: 9
-acceptance_rate: 50.000%
-collected_at: 2026-04-17T20:02:41.617259+00:00
+acceptance_rate: "50.000%"
+collected_at: "2026-04-17T20:02:41.617259+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 섬 여행
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "섬 여행"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 937
 accepted: 277
 solved_users: 230
-acceptance_rate: 32.033%
-collected_at: 2026-04-17T13:39:24.252822+00:00
+acceptance_rate: "32.033%"
+collected_at: "2026-04-17T13:39:24.252822+00:00"
 ---
 
 ## 문제

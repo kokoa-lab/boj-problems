@@ -1,13 +1,13 @@
 ---
-title: 밤(Time For The Moon Night)
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "밤(Time For The Moon Night)"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 254
 accepted: 111
 solved_users: 96
-acceptance_rate: 44.444%
-collected_at: 2026-04-17T20:29:43.682295+00:00
+acceptance_rate: "44.444%"
+collected_at: "2026-04-17T20:29:43.682295+00:00"
 ---
 
 ## 문제

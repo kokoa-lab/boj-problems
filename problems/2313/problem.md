@@ -1,13 +1,13 @@
 ---
-title: 보석 구매하기
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "보석 구매하기"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 1863
 accepted: 496
 solved_users: 405
-acceptance_rate: 28.361%
-collected_at: 2026-04-17T10:40:32.051165+00:00
+acceptance_rate: "28.361%"
+collected_at: "2026-04-17T10:40:32.051165+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Illumination
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Illumination"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 142
 accepted: 79
 solved_users: 67
-acceptance_rate: 57.265%
-collected_at: 2026-04-17T13:18:25.310202+00:00
+acceptance_rate: "57.265%"
+collected_at: "2026-04-17T13:18:25.310202+00:00"
 ---
 
 ## 문제

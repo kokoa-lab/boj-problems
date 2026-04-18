@@ -1,13 +1,13 @@
 ---
-title: Just So You Know
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Just So You Know"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 16
 accepted: 6
 solved_users: 6
-acceptance_rate: 46.154%
-collected_at: 2026-04-17T15:06:37.835879+00:00
+acceptance_rate: "46.154%"
+collected_at: "2026-04-17T15:06:37.835879+00:00"
 ---
 
 ## 문제

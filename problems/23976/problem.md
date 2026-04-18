@@ -1,13 +1,13 @@
 ---
-title: 문자열 나누기
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "문자열 나누기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 271
 accepted: 104
 solved_users: 75
-acceptance_rate: 44.910%
-collected_at: 2026-04-17T16:59:50.371205+00:00
+acceptance_rate: "44.910%"
+collected_at: "2026-04-17T16:59:50.371205+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 1, 3, 모 나누기
-special_judge: false
-time_limit: 1.35 초
-memory_limit: 1024 MB
+title: "1, 3, 모 나누기"
+special_judge: "false"
+time_limit: "1.35 초"
+memory_limit: "1024 MB"
 submissions: 227
 accepted: 163
 solved_users: 134
-acceptance_rate: 72.826%
-collected_at: 2026-04-17T17:22:18.017714+00:00
+acceptance_rate: "72.826%"
+collected_at: "2026-04-17T17:22:18.017714+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Easy Trading
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "Easy Trading"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 123
 accepted: 57
 solved_users: 39
-acceptance_rate: 41.053%
-collected_at: 2026-04-17T11:48:59.263084+00:00
+acceptance_rate: "41.053%"
+collected_at: "2026-04-17T11:48:59.263084+00:00"
 ---
 
 ## 문제

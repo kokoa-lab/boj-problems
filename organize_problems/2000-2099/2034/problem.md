@@ -1,13 +1,13 @@
 ---
-title: 반음
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "반음"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 720
 accepted: 392
 solved_users: 297
-acceptance_rate: 52.847%
-collected_at: 2026-04-17T10:37:26.835138+00:00
+acceptance_rate: "52.847%"
+collected_at: "2026-04-17T10:37:26.835138+00:00"
 ---
 
 ## 문제

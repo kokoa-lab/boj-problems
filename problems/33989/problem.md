@@ -1,13 +1,13 @@
 ---
-title: 벚꽃과 단풍
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "벚꽃과 단풍"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 580
 accepted: 242
 solved_users: 204
-acceptance_rate: 46.050%
-collected_at: 2026-04-17T20:27:58.012786+00:00
+acceptance_rate: "46.050%"
+collected_at: "2026-04-17T20:27:58.012786+00:00"
 ---
 
 ## 문제

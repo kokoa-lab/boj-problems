@@ -1,13 +1,13 @@
 ---
-title: 포켓몬 GO
-special_judge: false
-time_limit: 1 초
-memory_limit: 32 MB
+title: "포켓몬 GO"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "32 MB"
 submissions: 1624
 accepted: 1062
 solved_users: 945
-acceptance_rate: 68.035%
-collected_at: 2026-04-17T13:17:52.569091+00:00
+acceptance_rate: "68.035%"
+collected_at: "2026-04-17T13:17:52.569091+00:00"
 ---
 
 ## 문제

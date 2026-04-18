@@ -1,13 +1,13 @@
 ---
-title: 숏코딩의 왕 브실이
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "숏코딩의 왕 브실이"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 962
 accepted: 325
 solved_users: 249
-acceptance_rate: 33.603%
-collected_at: 2026-04-17T18:51:34.075639+00:00
+acceptance_rate: "33.603%"
+collected_at: "2026-04-17T18:51:34.075639+00:00"
 ---
 
 ## 문제

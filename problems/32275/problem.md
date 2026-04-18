@@ -1,13 +1,13 @@
 ---
-title: 보물 찾기 게임
-special_judge: false
-time_limit: 4 초
-memory_limit: 1024 MB
+title: "보물 찾기 게임"
+special_judge: "false"
+time_limit: "4 초"
+memory_limit: "1024 MB"
 submissions: 78
 accepted: 32
 solved_users: 21
-acceptance_rate: 53.846%
-collected_at: 2026-04-17T19:47:48.922982+00:00
+acceptance_rate: "53.846%"
+collected_at: "2026-04-17T19:47:48.922982+00:00"
 ---
 
 ## 문제

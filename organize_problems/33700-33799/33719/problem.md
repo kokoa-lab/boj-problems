@@ -1,13 +1,13 @@
 ---
-title: [I] I'm GM!
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "[I] I'm GM!"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 68
 accepted: 53
 solved_users: 37
-acceptance_rate: 88.095%
-collected_at: 2026-04-17T20:22:15.532226+00:00
+acceptance_rate: "88.095%"
+collected_at: "2026-04-17T20:22:15.532226+00:00"
 ---
 
 ## 문제

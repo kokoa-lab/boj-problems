@@ -1,13 +1,13 @@
 ---
-title: Interval-Free Permutations
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Interval-Free Permutations"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 90
 accepted: 44
 solved_users: 38
-acceptance_rate: 46.341%
-collected_at: 2026-04-17T14:22:06.474487+00:00
+acceptance_rate: "46.341%"
+collected_at: "2026-04-17T14:22:06.474487+00:00"
 ---
 
 ## 문제

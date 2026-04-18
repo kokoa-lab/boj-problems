@@ -1,13 +1,13 @@
 ---
-title: 치킨 먹고 싶다
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 256 MB
+title: "치킨 먹고 싶다"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "256 MB"
 submissions: 7326
 accepted: 564
 solved_users: 407
-acceptance_rate: 13.981%
-collected_at: 2026-04-17T13:09:09.973113+00:00
+acceptance_rate: "13.981%"
+collected_at: "2026-04-17T13:09:09.973113+00:00"
 ---
 
 ## 문제

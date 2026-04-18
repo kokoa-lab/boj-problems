@@ -1,13 +1,13 @@
 ---
-title: ビリヤード (Billiards)
-special_judge: false
-time_limit: 1 초
-memory_limit: 2048 MB
+title: "ビリヤード (Billiards)"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "2048 MB"
 submissions: 123
 accepted: 55
 solved_users: 47
-acceptance_rate: 66.197%
-collected_at: 2026-04-17T20:10:46.492521+00:00
+acceptance_rate: "66.197%"
+collected_at: "2026-04-17T20:10:46.492521+00:00"
 ---
 
 ## 문제

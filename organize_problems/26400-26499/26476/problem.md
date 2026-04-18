@@ -1,13 +1,13 @@
 ---
-title: 動く点 P と愉快な仲間たち Q, R
-special_judge: true
-time_limit: 8 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "動く点 P と愉快な仲間たち Q, R"
+special_judge: "true"
+time_limit: "8 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 8
 accepted: 5
 solved_users: 5
-acceptance_rate: 71.429%
-collected_at: 2026-04-17T17:46:22.245521+00:00
+acceptance_rate: "71.429%"
+collected_at: "2026-04-17T17:46:22.245521+00:00"
 ---
 
 ## 문제

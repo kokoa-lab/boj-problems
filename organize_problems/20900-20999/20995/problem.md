@@ -1,13 +1,13 @@
 ---
-title: Power Plant
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Power Plant"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 56
 accepted: 36
 solved_users: 36
-acceptance_rate: 69.231%
-collected_at: 2026-04-17T15:44:58.396641+00:00
+acceptance_rate: "69.231%"
+collected_at: "2026-04-17T15:44:58.396641+00:00"
 ---
 
 ## 문제

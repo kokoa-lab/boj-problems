@@ -1,13 +1,13 @@
 ---
-title: Metroidvania Extreme
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Metroidvania Extreme"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 375
 accepted: 138
 solved_users: 103
-acceptance_rate: 34.680%
-collected_at: 2026-04-17T15:32:02.726988+00:00
+acceptance_rate: "34.680%"
+collected_at: "2026-04-17T15:32:02.726988+00:00"
 ---
 
 ## 문제

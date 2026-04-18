@@ -1,13 +1,13 @@
 ---
-title: GIANT MIN COST BIPARTITE MATCHING
-special_judge: false
-time_limit: 4.2 초 (추가 시간 없음)
-memory_limit: 512 MB (추가 메모리 없음)
+title: "GIANT MIN COST BIPARTITE MATCHING"
+special_judge: "false"
+time_limit: "4.2 초 (추가 시간 없음)"
+memory_limit: "512 MB (추가 메모리 없음)"
 submissions: 142
 accepted: 29
 solved_users: 22
-acceptance_rate: 18.333%
-collected_at: 2026-04-17T16:46:13.586701+00:00
+acceptance_rate: "18.333%"
+collected_at: "2026-04-17T16:46:13.586701+00:00"
 ---
 
 ## 문제

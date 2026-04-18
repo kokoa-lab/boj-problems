@@ -1,13 +1,13 @@
 ---
-title: 팰린드롬
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "팰린드롬"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 1992
 accepted: 927
 solved_users: 732
-acceptance_rate: 49.029%
-collected_at: 2026-04-17T11:14:47.109177+00:00
+acceptance_rate: "49.029%"
+collected_at: "2026-04-17T11:14:47.109177+00:00"
 ---
 
 ## 문제

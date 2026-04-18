@@ -1,13 +1,13 @@
 ---
-title: Rummy Score
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Rummy Score"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 19
 accepted: 16
 solved_users: 12
-acceptance_rate: 85.714%
-collected_at: 2026-04-17T17:44:08.744566+00:00
+acceptance_rate: "85.714%"
+collected_at: "2026-04-17T17:44:08.744566+00:00"
 ---
 
 ## 문제

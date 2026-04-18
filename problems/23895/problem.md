@@ -1,13 +1,13 @@
 ---
-title: Allocation
-special_judge: false
-time_limit: 15 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Allocation"
+special_judge: "false"
+time_limit: "15 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 332
 accepted: 225
 solved_users: 198
-acceptance_rate: 69.474%
-collected_at: 2026-04-17T16:57:10.078855+00:00
+acceptance_rate: "69.474%"
+collected_at: "2026-04-17T16:57:10.078855+00:00"
 ---
 
 ## 문제

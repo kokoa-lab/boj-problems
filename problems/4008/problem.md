@@ -1,13 +1,13 @@
 ---
-title: 특공대
-special_judge: false
-time_limit: 1 초
-memory_limit: 64 MB
+title: "특공대"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "64 MB"
 submissions: 5597
 accepted: 2043
 solved_users: 1251
-acceptance_rate: 32.895%
-collected_at: 2026-04-17T10:54:29.009231+00:00
+acceptance_rate: "32.895%"
+collected_at: "2026-04-17T10:54:29.009231+00:00"
 ---
 
 ## 문제

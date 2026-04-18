@@ -1,13 +1,13 @@
 ---
-title: 보이는 정사각형
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "보이는 정사각형"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 266
 accepted: 47
 solved_users: 44
-acceptance_rate: 21.569%
-collected_at: 2026-04-17T10:41:19.028351+00:00
+acceptance_rate: "21.569%"
+collected_at: "2026-04-17T10:41:19.028351+00:00"
 ---
 
 ## 문제

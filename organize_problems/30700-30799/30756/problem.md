@@ -1,13 +1,13 @@
 ---
-title: Gleb and Two Numbers
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Gleb and Two Numbers"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 50
 accepted: 40
 solved_users: 36
-acceptance_rate: 80.000%
-collected_at: 2026-04-17T19:14:45.568059+00:00
+acceptance_rate: "80.000%"
+collected_at: "2026-04-17T19:14:45.568059+00:00"
 ---
 
 ## 문제

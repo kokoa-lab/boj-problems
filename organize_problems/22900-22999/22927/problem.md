@@ -1,13 +1,13 @@
 ---
-title: Mountainous Palindromic Subarray
-special_judge: false
-time_limit: 2 초
-memory_limit: 2048 MB (추가 메모리 없음)
+title: "Mountainous Palindromic Subarray"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "2048 MB (추가 메모리 없음)"
 submissions: 120
 accepted: 67
 solved_users: 58
-acceptance_rate: 59.794%
-collected_at: 2026-04-17T16:38:49.093294+00:00
+acceptance_rate: "59.794%"
+collected_at: "2026-04-17T16:38:49.093294+00:00"
 ---
 
 ## 문제

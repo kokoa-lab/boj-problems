@@ -1,13 +1,13 @@
 ---
-title: Guessing Game
-special_judge: false
-time_limit: 3 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Guessing Game"
+special_judge: "false"
+time_limit: "3 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 46
 accepted: 25
 solved_users: 23
-acceptance_rate: 52.273%
-collected_at: 2026-04-17T17:38:46.378837+00:00
+acceptance_rate: "52.273%"
+collected_at: "2026-04-17T17:38:46.378837+00:00"
 ---
 
 ## 문제

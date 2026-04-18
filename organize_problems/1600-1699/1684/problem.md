@@ -1,13 +1,13 @@
 ---
-title: 같은 나머지
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "같은 나머지"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 1892
 accepted: 887
 solved_users: 720
-acceptance_rate: 49.281%
-collected_at: 2026-04-17T10:32:18.130515+00:00
+acceptance_rate: "49.281%"
+collected_at: "2026-04-17T10:32:18.130515+00:00"
 ---
 
 ## 문제

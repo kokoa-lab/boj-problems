@@ -1,13 +1,13 @@
 ---
-title: Easiest Sum
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Easiest Sum"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 32
 accepted: 9
 solved_users: 9
-acceptance_rate: 42.857%
-collected_at: 2026-04-17T15:11:18.370075+00:00
+acceptance_rate: "42.857%"
+collected_at: "2026-04-17T15:11:18.370075+00:00"
 ---
 
 ## 문제

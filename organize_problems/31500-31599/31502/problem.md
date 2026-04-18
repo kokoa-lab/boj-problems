@@ -1,13 +1,13 @@
 ---
-title: 만화에서 나오는 거 따라하고 그러면 안 된다
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "만화에서 나오는 거 따라하고 그러면 안 된다"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 354
 accepted: 77
 solved_users: 60
-acceptance_rate: 20.761%
-collected_at: 2026-04-17T19:29:19.924955+00:00
+acceptance_rate: "20.761%"
+collected_at: "2026-04-17T19:29:19.924955+00:00"
 ---
 
 ## 문제

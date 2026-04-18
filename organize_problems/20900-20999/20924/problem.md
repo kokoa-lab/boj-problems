@@ -1,13 +1,13 @@
 ---
-title: 트리의 기둥과 가지
-special_judge: false
-time_limit: 2.5 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "트리의 기둥과 가지"
+special_judge: "false"
+time_limit: "2.5 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 3247
 accepted: 1116
 solved_users: 850
-acceptance_rate: 33.584%
-collected_at: 2026-04-17T15:43:24.699739+00:00
+acceptance_rate: "33.584%"
+collected_at: "2026-04-17T15:43:24.699739+00:00"
 ---
 
 ## 문제

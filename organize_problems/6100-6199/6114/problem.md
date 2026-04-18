@@ -1,13 +1,13 @@
 ---
-title: Ski Lessons
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Ski Lessons"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 95
 accepted: 48
 solved_users: 40
-acceptance_rate: 48.780%
-collected_at: 2026-04-17T11:20:24.285529+00:00
+acceptance_rate: "48.780%"
+collected_at: "2026-04-17T11:20:24.285529+00:00"
 ---
 
 ## 문제

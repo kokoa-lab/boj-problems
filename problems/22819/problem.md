@@ -1,13 +1,13 @@
 ---
-title: Enclosing Circles
-special_judge: true
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Enclosing Circles"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 203
 accepted: 31
 solved_users: 20
-acceptance_rate: 20.000%
-collected_at: 2026-04-17T16:36:34.950466+00:00
+acceptance_rate: "20.000%"
+collected_at: "2026-04-17T16:36:34.950466+00:00"
 ---
 
 ## 문제

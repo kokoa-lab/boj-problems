@@ -1,13 +1,13 @@
 ---
-title: Nim without Zero
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Nim without Zero"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 185
 accepted: 73
 solved_users: 59
-acceptance_rate: 40.972%
-collected_at: 2026-04-17T14:24:48.837402+00:00
+acceptance_rate: "40.972%"
+collected_at: "2026-04-17T14:24:48.837402+00:00"
 ---
 
 ## 문제

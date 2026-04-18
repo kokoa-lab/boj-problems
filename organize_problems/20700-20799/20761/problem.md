@@ -1,13 +1,13 @@
 ---
-title: Alloys
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Alloys"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 310
 accepted: 110
 solved_users: 92
-acceptance_rate: 35.521%
-collected_at: 2026-04-17T15:41:01.065701+00:00
+acceptance_rate: "35.521%"
+collected_at: "2026-04-17T15:41:01.065701+00:00"
 ---
 
 ## 문제

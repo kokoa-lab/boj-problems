@@ -1,13 +1,13 @@
 ---
-title: K-onstruction
-special_judge: true
-time_limit: 2 초
-memory_limit: 512 MB
+title: "K-onstruction"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 42
 accepted: 12
 solved_users: 10
-acceptance_rate: 27.027%
-collected_at: 2026-04-17T16:42:31.383973+00:00
+acceptance_rate: "27.027%"
+collected_at: "2026-04-17T16:42:31.383973+00:00"
 ---
 
 ## 문제

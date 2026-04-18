@@ -1,13 +1,13 @@
 ---
-title: 촌수계산
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "촌수계산"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 70552
 accepted: 37435
 solved_users: 27828
-acceptance_rate: 52.188%
-collected_at: 2026-04-17T10:43:35.639739+00:00
+acceptance_rate: "52.188%"
+collected_at: "2026-04-17T10:43:35.639739+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 집들이
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "집들이"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 499
 accepted: 236
 solved_users: 196
-acceptance_rate: 47.343%
-collected_at: 2026-04-17T10:46:25.416018+00:00
+acceptance_rate: "47.343%"
+collected_at: "2026-04-17T10:46:25.416018+00:00"
 ---
 
 ## 문제

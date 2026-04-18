@@ -1,13 +1,13 @@
 ---
-title: 복권
-special_judge: true
-time_limit: 2 초
-memory_limit: 128 MB
+title: "복권"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 3168
 accepted: 1434
 solved_users: 1270
-acceptance_rate: 50.841%
-collected_at: 2026-04-17T10:29:38.909233+00:00
+acceptance_rate: "50.841%"
+collected_at: "2026-04-17T10:29:38.909233+00:00"
 ---
 
 ## 문제

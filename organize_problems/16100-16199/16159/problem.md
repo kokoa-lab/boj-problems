@@ -1,13 +1,13 @@
 ---
-title: 전광판의 숫자
-special_judge: false
-time_limit: 1.5 초
-memory_limit: 512 MB
+title: "전광판의 숫자"
+special_judge: "false"
+time_limit: "1.5 초"
+memory_limit: "512 MB"
 submissions: 398
 accepted: 157
 solved_users: 138
-acceptance_rate: 44.951%
-collected_at: 2026-04-17T14:12:34.567662+00:00
+acceptance_rate: "44.951%"
+collected_at: "2026-04-17T14:12:34.567662+00:00"
 ---
 
 ## 문제

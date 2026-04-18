@@ -1,13 +1,13 @@
 ---
-title: 일차원 세포 자동자
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "일차원 세포 자동자"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 395
 accepted: 194
 solved_users: 110
-acceptance_rate: 45.082%
-collected_at: 2026-04-17T10:52:16.184121+00:00
+acceptance_rate: "45.082%"
+collected_at: "2026-04-17T10:52:16.184121+00:00"
 ---
 
 ## 문제

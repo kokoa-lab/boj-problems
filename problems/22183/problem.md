@@ -1,13 +1,13 @@
 ---
-title: Приготовление десертов
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "Приготовление десертов"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 66
 accepted: 53
 solved_users: 45
-acceptance_rate: 77.586%
-collected_at: 2026-04-17T16:16:41.485837+00:00
+acceptance_rate: "77.586%"
+collected_at: "2026-04-17T16:16:41.485837+00:00"
 ---
 
 ## 문제

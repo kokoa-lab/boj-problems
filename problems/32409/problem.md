@@ -1,13 +1,13 @@
 ---
-title: 멜로디
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "멜로디"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 177
 accepted: 66
 solved_users: 60
-acceptance_rate: 42.857%
-collected_at: 2026-04-17T19:50:28.348972+00:00
+acceptance_rate: "42.857%"
+collected_at: "2026-04-17T19:50:28.348972+00:00"
 ---
 
 ## 문제

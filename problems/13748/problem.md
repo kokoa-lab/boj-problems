@@ -1,13 +1,13 @@
 ---
-title: Periodic Strings
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Periodic Strings"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 108
 accepted: 79
 solved_users: 75
-acceptance_rate: 75.758%
-collected_at: 2026-04-17T13:18:45.711713+00:00
+acceptance_rate: "75.758%"
+collected_at: "2026-04-17T13:18:45.711713+00:00"
 ---
 
 ## 문제

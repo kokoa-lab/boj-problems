@@ -1,13 +1,13 @@
 ---
-title: Tom and Jerry
-special_judge: true
-time_limit: 2 초
-memory_limit: 256 MB
+title: "Tom and Jerry"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 204
 accepted: 116
 solved_users: 83
-acceptance_rate: 58.451%
-collected_at: 2026-04-17T12:46:04.924711+00:00
+acceptance_rate: "58.451%"
+collected_at: "2026-04-17T12:46:04.924711+00:00"
 ---
 
 ## 문제

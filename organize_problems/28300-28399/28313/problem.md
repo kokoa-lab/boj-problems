@@ -1,13 +1,13 @@
 ---
-title: Symmetric Mountains
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Symmetric Mountains"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 81
 accepted: 48
 solved_users: 46
-acceptance_rate: 67.647%
-collected_at: 2026-04-17T18:22:36.331276+00:00
+acceptance_rate: "67.647%"
+collected_at: "2026-04-17T18:22:36.331276+00:00"
 ---
 
 ## 문제

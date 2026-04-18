@@ -1,13 +1,13 @@
 ---
-title: 두 단계 최단 경로 1
-special_judge: false
-time_limit: 0.3 초
-memory_limit: 512 MB
+title: "두 단계 최단 경로 1"
+special_judge: "false"
+time_limit: "0.3 초"
+memory_limit: "512 MB"
 submissions: 2209
 accepted: 695
 solved_users: 544
-acceptance_rate: 30.122%
-collected_at: 2026-04-17T16:54:01.553746+00:00
+acceptance_rate: "30.122%"
+collected_at: "2026-04-17T16:54:01.553746+00:00"
 ---
 
 ## 문제

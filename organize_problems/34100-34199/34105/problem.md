@@ -1,13 +1,13 @@
 ---
-title: Bitaro’s Travel 2
-special_judge: false
-time_limit: 4 초
-memory_limit: 2048 MB
+title: "Bitaro’s Travel 2"
+special_judge: "false"
+time_limit: "4 초"
+memory_limit: "2048 MB"
 submissions: 38
 accepted: 17
 solved_users: 15
-acceptance_rate: 44.118%
-collected_at: 2026-04-17T20:30:41.272705+00:00
+acceptance_rate: "44.118%"
+collected_at: "2026-04-17T20:30:41.272705+00:00"
 ---
 
 ## 문제

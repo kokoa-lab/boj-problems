@@ -1,13 +1,13 @@
 ---
-title: 이진 행렬
-special_judge: true
-time_limit: 2 초
-memory_limit: 128 MB
+title: "이진 행렬"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 194
 accepted: 38
 solved_users: 31
-acceptance_rate: 36.047%
-collected_at: 2026-04-17T10:40:38.598962+00:00
+acceptance_rate: "36.047%"
+collected_at: "2026-04-17T10:40:38.598962+00:00"
 ---
 
 ## 문제

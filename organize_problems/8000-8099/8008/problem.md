@@ -1,13 +1,13 @@
 ---
-title: Sums
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Sums"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 184
 accepted: 61
 solved_users: 42
-acceptance_rate: 37.168%
-collected_at: 2026-04-17T11:55:07.226899+00:00
+acceptance_rate: "37.168%"
+collected_at: "2026-04-17T11:55:07.226899+00:00"
 ---
 
 ## 문제

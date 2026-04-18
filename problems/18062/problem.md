@@ -1,13 +1,13 @@
 ---
-title: Insertion Order
-special_judge: true
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Insertion Order"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 68
 accepted: 33
 solved_users: 31
-acceptance_rate: 55.357%
-collected_at: 2026-04-17T14:54:49.780710+00:00
+acceptance_rate: "55.357%"
+collected_at: "2026-04-17T14:54:49.780710+00:00"
 ---
 
 ## 문제

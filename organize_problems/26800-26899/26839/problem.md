@@ -1,13 +1,13 @@
 ---
-title: Flappy Bird
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Flappy Bird"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 23
 accepted: 8
 solved_users: 8
-acceptance_rate: 57.143%
-collected_at: 2026-04-17T17:52:10.070044+00:00
+acceptance_rate: "57.143%"
+collected_at: "2026-04-17T17:52:10.070044+00:00"
 ---
 
 ## 문제

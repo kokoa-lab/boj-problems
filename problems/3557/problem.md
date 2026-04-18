@@ -1,13 +1,13 @@
 ---
-title: Homo or Hetero?
-special_judge: false
-time_limit: 3 초
-memory_limit: 256 MB
+title: "Homo or Hetero?"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "256 MB"
 submissions: 136
 accepted: 66
 solved_users: 45
-acceptance_rate: 52.941%
-collected_at: 2026-04-17T10:49:49.302753+00:00
+acceptance_rate: "52.941%"
+collected_at: "2026-04-17T10:49:49.302753+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 벡터의 합
-special_judge: true
-time_limit: 0.5 초
-memory_limit: 512 MB
+title: "벡터의 합"
+special_judge: "true"
+time_limit: "0.5 초"
+memory_limit: "512 MB"
 submissions: 182
 accepted: 59
 solved_users: 48
-acceptance_rate: 30.189%
-collected_at: 2026-04-17T14:25:42.494297+00:00
+acceptance_rate: "30.189%"
+collected_at: "2026-04-17T14:25:42.494297+00:00"
 ---
 
 ## 문제

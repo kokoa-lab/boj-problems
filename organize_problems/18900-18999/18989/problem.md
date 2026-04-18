@@ -1,13 +1,13 @@
 ---
-title: Product
-special_judge: false
-time_limit: 2 초
-memory_limit: 8 MB ( 하단 참고 )
+title: "Product"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "8 MB ( 하단 참고 )"
 submissions: 125
 accepted: 11
 solved_users: 6
-acceptance_rate: 8.333%
-collected_at: 2026-04-17T15:12:12.639614+00:00
+acceptance_rate: "8.333%"
+collected_at: "2026-04-17T15:12:12.639614+00:00"
 ---
 
 ## 문제

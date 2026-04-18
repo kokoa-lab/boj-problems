@@ -1,13 +1,13 @@
 ---
-title: 방법을 출력하지 않는 숫자 맞추기
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "방법을 출력하지 않는 숫자 맞추기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 2958
 accepted: 1304
 solved_users: 978
-acceptance_rate: 44.739%
-collected_at: 2026-04-17T13:12:36.391114+00:00
+acceptance_rate: "44.739%"
+collected_at: "2026-04-17T13:12:36.391114+00:00"
 ---
 
 ## 문제

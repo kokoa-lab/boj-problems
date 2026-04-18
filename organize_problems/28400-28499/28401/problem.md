@@ -1,13 +1,13 @@
 ---
-title: 격자 속의 직선 경로
-special_judge: false
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "격자 속의 직선 경로"
+special_judge: "false"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 197
 accepted: 59
 solved_users: 37
-acceptance_rate: 33.333%
-collected_at: 2026-04-17T18:26:08.106816+00:00
+acceptance_rate: "33.333%"
+collected_at: "2026-04-17T18:26:08.106816+00:00"
 ---
 
 ## 문제

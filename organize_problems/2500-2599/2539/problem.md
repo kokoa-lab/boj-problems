@@ -1,13 +1,13 @@
 ---
-title: 모자이크
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "모자이크"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 4218
 accepted: 1522
 solved_users: 1079
-acceptance_rate: 33.313%
-collected_at: 2026-04-17T10:42:31.948528+00:00
+acceptance_rate: "33.313%"
+collected_at: "2026-04-17T10:42:31.948528+00:00"
 ---
 
 ## 문제

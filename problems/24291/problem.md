@@ -1,13 +1,13 @@
 ---
-title: QUEUE
-special_judge: false
-time_limit: 0.5 초
-memory_limit: 1024 MB
+title: "QUEUE"
+special_judge: "false"
+time_limit: "0.5 초"
+memory_limit: "1024 MB"
 submissions: 45
 accepted: 29
 solved_users: 22
-acceptance_rate: 75.862%
-collected_at: 2026-04-17T17:07:00.356405+00:00
+acceptance_rate: "75.862%"
+collected_at: "2026-04-17T17:07:00.356405+00:00"
 ---
 
 ## 문제

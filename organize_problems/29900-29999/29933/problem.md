@@ -1,13 +1,13 @@
 ---
-title: Neutriinoradar
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Neutriinoradar"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 14
 accepted: 4
 solved_users: 4
-acceptance_rate: 28.571%
-collected_at: 2026-04-17T18:55:48.046710+00:00
+acceptance_rate: "28.571%"
+collected_at: "2026-04-17T18:55:48.046710+00:00"
 ---
 
 ## 문제

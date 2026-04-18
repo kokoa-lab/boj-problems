@@ -1,13 +1,13 @@
 ---
-title: GCC의 유산
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "GCC의 유산"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 294
 accepted: 125
 solved_users: 95
-acceptance_rate: 44.393%
-collected_at: 2026-04-17T14:14:03.199305+00:00
+acceptance_rate: "44.393%"
+collected_at: "2026-04-17T14:14:03.199305+00:00"
 ---
 
 ## 문제

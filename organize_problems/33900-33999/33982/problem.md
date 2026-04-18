@@ -1,13 +1,13 @@
 ---
-title: 모모카와 열차 운행표
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "모모카와 열차 운행표"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 40
 accepted: 11
 solved_users: 7
-acceptance_rate: 25.926%
-collected_at: 2026-04-17T20:27:46.974825+00:00
+acceptance_rate: "25.926%"
+collected_at: "2026-04-17T20:27:46.974825+00:00"
 ---
 
 ## 문제

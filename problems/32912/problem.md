@@ -1,13 +1,13 @@
 ---
-title: Wooden Matrix
-special_judge: true
-time_limit: 2 초
-memory_limit: 2048 MB
+title: "Wooden Matrix"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "2048 MB"
 submissions: 58
 accepted: 32
 solved_users: 25
-acceptance_rate: 60.976%
-collected_at: 2026-04-17T20:04:16.793122+00:00
+acceptance_rate: "60.976%"
+collected_at: "2026-04-17T20:04:16.793122+00:00"
 ---
 
 ## 문제

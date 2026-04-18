@@ -1,13 +1,13 @@
 ---
-title: Zoltan
-special_judge: false
-time_limit: 1 초
-memory_limit: 32 MB
+title: "Zoltan"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "32 MB"
 submissions: 25
 accepted: 10
 solved_users: 10
-acceptance_rate: 71.429%
-collected_at: 2026-04-17T13:22:39.502361+00:00
+acceptance_rate: "71.429%"
+collected_at: "2026-04-17T13:22:39.502361+00:00"
 ---
 
 ## 문제

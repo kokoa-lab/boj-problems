@@ -1,13 +1,13 @@
 ---
-title: Poker Game: Decision
-special_judge: false
-time_limit: 8 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Poker Game: Decision"
+special_judge: "false"
+time_limit: "8 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 83
 accepted: 11
 solved_users: 8
-acceptance_rate: 10.526%
-collected_at: 2026-04-17T17:31:51.769627+00:00
+acceptance_rate: "10.526%"
+collected_at: "2026-04-17T17:31:51.769627+00:00"
 ---
 
 ## 문제

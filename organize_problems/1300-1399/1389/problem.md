@@ -1,13 +1,13 @@
 ---
-title: 케빈 베이컨의 6단계 법칙
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "케빈 베이컨의 6단계 법칙"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 59312
 accepted: 31093
 solved_users: 24518
-acceptance_rate: 54.608%
-collected_at: 2026-04-17T10:29:50.652547+00:00
+acceptance_rate: "54.608%"
+collected_at: "2026-04-17T10:29:50.652547+00:00"
 ---
 
 ## 문제

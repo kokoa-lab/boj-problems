@@ -1,13 +1,13 @@
 ---
-title: 정기검진
-special_judge: false
-time_limit: 1.5 초
-memory_limit: 256 MB
+title: "정기검진"
+special_judge: "false"
+time_limit: "1.5 초"
+memory_limit: "256 MB"
 submissions: 531
 accepted: 182
 solved_users: 132
-acceptance_rate: 30.626%
-collected_at: 2026-04-17T14:04:41.321005+00:00
+acceptance_rate: "30.626%"
+collected_at: "2026-04-17T14:04:41.321005+00:00"
 ---
 
 ## 문제

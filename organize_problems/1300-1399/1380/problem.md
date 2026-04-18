@@ -1,13 +1,13 @@
 ---
-title: 귀걸이
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "귀걸이"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 5750
 accepted: 2704
 solved_users: 2405
-acceptance_rate: 50.251%
-collected_at: 2026-04-17T10:29:47.294265+00:00
+acceptance_rate: "50.251%"
+collected_at: "2026-04-17T10:29:47.294265+00:00"
 ---
 
 ## 문제

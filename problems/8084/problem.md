@@ -1,13 +1,13 @@
 ---
-title: The Number of Symmetrical Choices
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "The Number of Symmetrical Choices"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 18
 accepted: 6
 solved_users: 6
-acceptance_rate: 50.000%
-collected_at: 2026-04-17T11:55:51.374744+00:00
+acceptance_rate: "50.000%"
+collected_at: "2026-04-17T11:55:51.374744+00:00"
 ---
 
 ## 문제

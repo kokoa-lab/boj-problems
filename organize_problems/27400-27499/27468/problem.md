@@ -1,13 +1,13 @@
 ---
-title: 2배 또는 0.5배
-special_judge: true
-time_limit: 1.5 초
-memory_limit: 1024 MB
+title: "2배 또는 0.5배"
+special_judge: "true"
+time_limit: "1.5 초"
+memory_limit: "1024 MB"
 submissions: 1089
 accepted: 575
 solved_users: 416
-acceptance_rate: 51.043%
-collected_at: 2026-04-17T18:03:48.499203+00:00
+acceptance_rate: "51.043%"
+collected_at: "2026-04-17T18:03:48.499203+00:00"
 ---
 
 ## 문제

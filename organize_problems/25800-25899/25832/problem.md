@@ -1,13 +1,13 @@
 ---
-title: Making Connections
-special_judge: false
-time_limit: 3 초
-memory_limit: 1024 MB
+title: "Making Connections"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "1024 MB"
 submissions: 71
 accepted: 27
 solved_users: 22
-acceptance_rate: 34.375%
-collected_at: 2026-04-17T17:34:01.790789+00:00
+acceptance_rate: "34.375%"
+collected_at: "2026-04-17T17:34:01.790789+00:00"
 ---
 
 ## 문제

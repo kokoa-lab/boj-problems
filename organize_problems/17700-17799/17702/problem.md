@@ -1,13 +1,13 @@
 ---
-title: City
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "City"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 54
 accepted: 14
 solved_users: 12
-acceptance_rate: 27.907%
-collected_at: 2026-04-17T14:45:49.752342+00:00
+acceptance_rate: "27.907%"
+collected_at: "2026-04-17T14:45:49.752342+00:00"
 ---
 
 ## 문제

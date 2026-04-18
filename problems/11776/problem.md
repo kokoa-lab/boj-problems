@@ -1,13 +1,13 @@
 ---
-title: NEKAMELEONI
-special_judge: false
-time_limit: 3 초
-memory_limit: 512 MB
+title: "NEKAMELEONI"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "512 MB"
 submissions: 259
 accepted: 72
 solved_users: 59
-acceptance_rate: 31.720%
-collected_at: 2026-04-17T12:45:46.615950+00:00
+acceptance_rate: "31.720%"
+collected_at: "2026-04-17T12:45:46.615950+00:00"
 ---
 
 ## 문제

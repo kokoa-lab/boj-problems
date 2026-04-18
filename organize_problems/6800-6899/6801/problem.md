@@ -1,13 +1,13 @@
 ---
-title: Firehose
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Firehose"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 55
 accepted: 25
 solved_users: 20
-acceptance_rate: 46.512%
-collected_at: 2026-04-17T11:38:21.591370+00:00
+acceptance_rate: "46.512%"
+collected_at: "2026-04-17T11:38:21.591370+00:00"
 ---
 
 ## 문제

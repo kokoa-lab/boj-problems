@@ -1,13 +1,13 @@
 ---
-title: 보석 상자
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "보석 상자"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 13263
 accepted: 5530
 solved_users: 3951
-acceptance_rate: 41.307%
-collected_at: 2026-04-17T10:44:51.299918+00:00
+acceptance_rate: "41.307%"
+collected_at: "2026-04-17T10:44:51.299918+00:00"
 ---
 
 ## 문제

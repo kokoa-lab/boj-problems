@@ -1,13 +1,13 @@
 ---
-title: Monkey and Apple-trees
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "Monkey and Apple-trees"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 181
 accepted: 71
 solved_users: 41
-acceptance_rate: 34.746%
-collected_at: 2026-04-17T12:46:48.958478+00:00
+acceptance_rate: "34.746%"
+collected_at: "2026-04-17T12:46:48.958478+00:00"
 ---
 
 ## 문제

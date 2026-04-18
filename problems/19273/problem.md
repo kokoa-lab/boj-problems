@@ -1,13 +1,13 @@
 ---
-title: XorTree
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "XorTree"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 44
 accepted: 19
 solved_users: 19
-acceptance_rate: 65.517%
-collected_at: 2026-04-17T15:16:13.056695+00:00
+acceptance_rate: "65.517%"
+collected_at: "2026-04-17T15:16:13.056695+00:00"
 ---
 
 ## 문제

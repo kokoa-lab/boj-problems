@@ -1,13 +1,13 @@
 ---
-title: 수라도
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "수라도"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 459
 accepted: 165
 solved_users: 138
-acceptance_rate: 37.808%
-collected_at: 2026-04-17T20:29:22.830241+00:00
+acceptance_rate: "37.808%"
+collected_at: "2026-04-17T20:29:22.830241+00:00"
 ---
 
 ## 문제

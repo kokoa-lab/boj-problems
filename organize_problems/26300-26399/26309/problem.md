@@ -1,13 +1,13 @@
 ---
-title: Etched Emerald Orbs
-special_judge: false
-time_limit: 3 초
-memory_limit: 1024 MB
+title: "Etched Emerald Orbs"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "1024 MB"
 submissions: 584
 accepted: 97
 solved_users: 46
-acceptance_rate: 10.648%
-collected_at: 2026-04-17T17:43:25.344043+00:00
+acceptance_rate: "10.648%"
+collected_at: "2026-04-17T17:43:25.344043+00:00"
 ---
 
 ## 문제

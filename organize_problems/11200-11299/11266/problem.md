@@ -1,13 +1,13 @@
 ---
-title: 단절점
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "단절점"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 17766
 accepted: 6702
 solved_users: 4005
-acceptance_rate: 35.321%
-collected_at: 2026-04-17T12:38:51.578559+00:00
+acceptance_rate: "35.321%"
+collected_at: "2026-04-17T12:38:51.578559+00:00"
 ---
 
 ## 문제

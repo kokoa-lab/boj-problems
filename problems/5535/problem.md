@@ -1,13 +1,13 @@
 ---
-title: 패셔니스타
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "패셔니스타"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 401
 accepted: 261
 solved_users: 237
-acceptance_rate: 72.699%
-collected_at: 2026-04-17T11:15:08.967487+00:00
+acceptance_rate: "72.699%"
+collected_at: "2026-04-17T11:15:08.967487+00:00"
 ---
 
 ## 문제

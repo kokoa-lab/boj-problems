@@ -1,13 +1,13 @@
 ---
-title: 앳코더 스터디
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "앳코더 스터디"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 158
 accepted: 31
 solved_users: 23
-acceptance_rate: 25.000%
-collected_at: 2026-04-17T19:38:29.045232+00:00
+acceptance_rate: "25.000%"
+collected_at: "2026-04-17T19:38:29.045232+00:00"
 ---
 
 ## 문제

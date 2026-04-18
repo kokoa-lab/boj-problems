@@ -1,13 +1,13 @@
 ---
-title: 진한이의 지뢰찾기
-special_judge: true
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "진한이의 지뢰찾기"
+special_judge: "true"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 146
 accepted: 12
 solved_users: 9
-acceptance_rate: 22.500%
-collected_at: 2026-04-17T20:17:22.472241+00:00
+acceptance_rate: "22.500%"
+collected_at: "2026-04-17T20:17:22.472241+00:00"
 ---
 
 ## 문제

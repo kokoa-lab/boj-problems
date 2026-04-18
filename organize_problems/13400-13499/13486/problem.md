@@ -1,13 +1,13 @@
 ---
-title: Cezar
-special_judge: true
-time_limit: 1 초
-memory_limit: 64 MB
+title: "Cezar"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "64 MB"
 submissions: 152
 accepted: 49
 solved_users: 42
-acceptance_rate: 31.343%
-collected_at: 2026-04-17T13:13:56.543009+00:00
+acceptance_rate: "31.343%"
+collected_at: "2026-04-17T13:13:56.543009+00:00"
 ---
 
 ## 문제

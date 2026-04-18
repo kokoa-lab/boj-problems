@@ -1,13 +1,13 @@
 ---
-title: Amusement Anticipation
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Amusement Anticipation"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 231
 accepted: 121
 solved_users: 106
-acceptance_rate: 57.923%
-collected_at: 2026-04-17T13:47:37.952348+00:00
+acceptance_rate: "57.923%"
+collected_at: "2026-04-17T13:47:37.952348+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Izhevsk Training Camp
-special_judge: true
-time_limit: 3 초
-memory_limit: 256 MB
+title: "Izhevsk Training Camp"
+special_judge: "true"
+time_limit: "3 초"
+memory_limit: "256 MB"
 submissions: 29
 accepted: 9
 solved_users: 7
-acceptance_rate: 36.842%
-collected_at: 2026-04-17T15:20:18.201083+00:00
+acceptance_rate: "36.842%"
+collected_at: "2026-04-17T15:20:18.201083+00:00"
 ---
 
 ## 문제

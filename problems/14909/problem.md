@@ -1,13 +1,13 @@
 ---
-title: 양수 개수 세기
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "양수 개수 세기"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 4279
 accepted: 3133
 solved_users: 2708
-acceptance_rate: 76.844%
-collected_at: 2026-04-17T13:45:06.777119+00:00
+acceptance_rate: "76.844%"
+collected_at: "2026-04-17T13:45:06.777119+00:00"
 ---
 
 ## 문제

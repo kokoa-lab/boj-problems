@@ -1,13 +1,13 @@
 ---
-title: Light Up
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Light Up"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 69
 accepted: 50
 solved_users: 48
-acceptance_rate: 75.000%
-collected_at: 2026-04-17T19:53:00.814189+00:00
+acceptance_rate: "75.000%"
+collected_at: "2026-04-17T19:53:00.814189+00:00"
 ---
 
 ## 문제

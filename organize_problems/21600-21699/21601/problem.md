@@ -1,13 +1,13 @@
 ---
-title: 수건 돌리기
-special_judge: false
-time_limit: 0.25 초
-memory_limit: 256 MB
+title: "수건 돌리기"
+special_judge: "false"
+time_limit: "0.25 초"
+memory_limit: "256 MB"
 submissions: 317
 accepted: 72
 solved_users: 55
-acceptance_rate: 45.455%
-collected_at: 2026-04-17T16:01:12.702603+00:00
+acceptance_rate: "45.455%"
+collected_at: "2026-04-17T16:01:12.702603+00:00"
 ---
 
 ## 문제

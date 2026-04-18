@@ -1,13 +1,13 @@
 ---
-title: 락페스티벌
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "락페스티벌"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 761
 accepted: 231
 solved_users: 137
-acceptance_rate: 25.607%
-collected_at: 2026-04-17T12:25:03.331635+00:00
+acceptance_rate: "25.607%"
+collected_at: "2026-04-17T12:25:03.331635+00:00"
 ---
 
 ## 문제

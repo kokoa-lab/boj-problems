@@ -1,13 +1,13 @@
 ---
-title: Рамазан и капуста
-special_judge: false
-time_limit: 4 초
-memory_limit: 2048 MB
+title: "Рамазан и капуста"
+special_judge: "false"
+time_limit: "4 초"
+memory_limit: "2048 MB"
 submissions: 15
 accepted: 3
 solved_users: 2
-acceptance_rate: 16.667%
-collected_at: 2026-04-17T20:25:07.007197+00:00
+acceptance_rate: "16.667%"
+collected_at: "2026-04-17T20:25:07.007197+00:00"
 ---
 
 ## 문제

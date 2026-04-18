@@ -1,13 +1,13 @@
 ---
-title: Žarulje
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Žarulje"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 27
 accepted: 18
 solved_users: 15
-acceptance_rate: 88.235%
-collected_at: 2026-04-17T12:30:35.840829+00:00
+acceptance_rate: "88.235%"
+collected_at: "2026-04-17T12:30:35.840829+00:00"
 ---
 
 ## 문제

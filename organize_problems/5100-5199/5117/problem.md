@@ -1,13 +1,13 @@
 ---
-title: Martian Pranks
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Martian Pranks"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 10
 accepted: 7
 solved_users: 6
-acceptance_rate: 66.667%
-collected_at: 2026-04-17T11:11:36.797186+00:00
+acceptance_rate: "66.667%"
+collected_at: "2026-04-17T11:11:36.797186+00:00"
 ---
 
 ## 문제

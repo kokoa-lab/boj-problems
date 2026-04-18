@@ -1,13 +1,13 @@
 ---
-title: Problem Setting
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Problem Setting"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 81
 accepted: 55
 solved_users: 46
-acceptance_rate: 68.657%
-collected_at: 2026-04-17T18:12:24.642088+00:00
+acceptance_rate: "68.657%"
+collected_at: "2026-04-17T18:12:24.642088+00:00"
 ---
 
 ## 문제

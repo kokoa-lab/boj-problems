@@ -1,13 +1,13 @@
 ---
-title: Horrible Cycles
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Horrible Cycles"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 68
 accepted: 45
 solved_users: 36
-acceptance_rate: 80.000%
-collected_at: 2026-04-17T15:05:13.287755+00:00
+acceptance_rate: "80.000%"
+collected_at: "2026-04-17T15:05:13.287755+00:00"
 ---
 
 ## 문제

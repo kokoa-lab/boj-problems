@@ -1,13 +1,13 @@
 ---
-title: 두부 게임 (Tofu Game)
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "두부 게임 (Tofu Game)"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 507
 accepted: 323
 solved_users: 293
-acceptance_rate: 70.944%
-collected_at: 2026-04-17T13:38:08.324866+00:00
+acceptance_rate: "70.944%"
+collected_at: "2026-04-17T13:38:08.324866+00:00"
 ---
 
 ## 문제

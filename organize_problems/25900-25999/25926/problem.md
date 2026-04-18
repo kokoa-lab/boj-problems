@@ -1,13 +1,13 @@
 ---
-title: 기러기 토마토 스위스 인도인 별똥별
-special_judge: false
-time_limit: 0.5 초
-memory_limit: 1024 MB
+title: "기러기 토마토 스위스 인도인 별똥별"
+special_judge: "false"
+time_limit: "0.5 초"
+memory_limit: "1024 MB"
 submissions: 85
 accepted: 40
 solved_users: 24
-acceptance_rate: 42.857%
-collected_at: 2026-04-17T17:37:01.635141+00:00
+acceptance_rate: "42.857%"
+collected_at: "2026-04-17T17:37:01.635141+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: N! mod P (2)
-special_judge: false
-time_limit: 3 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "N! mod P (2)"
+special_judge: "false"
+time_limit: "3 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 1900
 accepted: 633
 solved_users: 178
-acceptance_rate: 24.317%
-collected_at: 2026-04-17T14:39:52.874135+00:00
+acceptance_rate: "24.317%"
+collected_at: "2026-04-17T14:39:52.874135+00:00"
 ---
 
 ## 문제

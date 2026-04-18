@@ -1,13 +1,13 @@
 ---
-title: 아이그루스와 화장실
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "아이그루스와 화장실"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 1600
 accepted: 915
 solved_users: 805
-acceptance_rate: 58.802%
-collected_at: 2026-04-17T19:11:19.846553+00:00
+acceptance_rate: "58.802%"
+collected_at: "2026-04-17T19:11:19.846553+00:00"
 ---
 
 ## 문제

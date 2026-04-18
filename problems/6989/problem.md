@@ -1,13 +1,13 @@
 ---
-title: 채점
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "채점"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 1867
 accepted: 507
 solved_users: 301
-acceptance_rate: 27.589%
-collected_at: 2026-04-17T11:42:06.673213+00:00
+acceptance_rate: "27.589%"
+collected_at: "2026-04-17T11:42:06.673213+00:00"
 ---
 
 ## 문제

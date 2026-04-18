@@ -1,13 +1,13 @@
 ---
-title: 이미지 보정 작업
-special_judge: false
-time_limit: 3 초
-memory_limit: 1024 MB
+title: "이미지 보정 작업"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "1024 MB"
 submissions: 421
 accepted: 165
 solved_users: 120
-acceptance_rate: 37.855%
-collected_at: 2026-04-17T17:55:55.182354+00:00
+acceptance_rate: "37.855%"
+collected_at: "2026-04-17T17:55:55.182354+00:00"
 ---
 
 ## 문제

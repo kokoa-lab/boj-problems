@@ -1,13 +1,13 @@
 ---
-title: 눈부신 조명
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "눈부신 조명"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 130
 accepted: 41
 solved_users: 39
-acceptance_rate: 39.000%
-collected_at: 2026-04-17T21:05:40.616388+00:00
+acceptance_rate: "39.000%"
+collected_at: "2026-04-17T21:05:40.616388+00:00"
 ---
 
 ## 문제

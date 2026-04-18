@@ -1,13 +1,13 @@
 ---
-title: 어른 상어
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "어른 상어"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 18892
 accepted: 8179
 solved_users: 5088
-acceptance_rate: 40.519%
-collected_at: 2026-04-17T15:15:28.136369+00:00
+acceptance_rate: "40.519%"
+collected_at: "2026-04-17T15:15:28.136369+00:00"
 ---
 
 ## 문제

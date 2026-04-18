@@ -1,13 +1,13 @@
 ---
-title: 카멜레온 부분 문자열
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "카멜레온 부분 문자열"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 1868
 accepted: 842
 solved_users: 647
-acceptance_rate: 45.087%
-collected_at: 2026-04-17T13:14:17.970621+00:00
+acceptance_rate: "45.087%"
+collected_at: "2026-04-17T13:14:17.970621+00:00"
 ---
 
 ## 문제

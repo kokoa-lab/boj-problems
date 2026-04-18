@@ -1,13 +1,13 @@
 ---
-title: 9-퍼즐
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "9-퍼즐"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 339
 accepted: 251
 solved_users: 228
-acceptance_rate: 75.748%
-collected_at: 2026-04-17T13:31:54.478408+00:00
+acceptance_rate: "75.748%"
+collected_at: "2026-04-17T13:31:54.478408+00:00"
 ---
 
 ## 문제

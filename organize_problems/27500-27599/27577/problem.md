@@ -1,13 +1,13 @@
 ---
-title: Everything Is A Nail
-special_judge: false
-time_limit: 5 초
-memory_limit: 1024 MB
+title: "Everything Is A Nail"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "1024 MB"
 submissions: 121
 accepted: 49
 solved_users: 38
-acceptance_rate: 54.286%
-collected_at: 2026-04-17T18:06:51.914385+00:00
+acceptance_rate: "54.286%"
+collected_at: "2026-04-17T18:06:51.914385+00:00"
 ---
 
 ## 문제

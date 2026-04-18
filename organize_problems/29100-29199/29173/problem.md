@@ -1,13 +1,13 @@
 ---
-title: Занимательная игра
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Занимательная игра"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 12
 accepted: 7
 solved_users: 5
-acceptance_rate: 50.000%
-collected_at: 2026-04-17T18:38:21.639036+00:00
+acceptance_rate: "50.000%"
+collected_at: "2026-04-17T18:38:21.639036+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Labyrinth
-special_judge: true
-time_limit: 3 초
-memory_limit: 512 MB
+title: "Labyrinth"
+special_judge: "true"
+time_limit: "3 초"
+memory_limit: "512 MB"
 submissions: 98
 accepted: 37
 solved_users: 35
-acceptance_rate: 41.667%
-collected_at: 2026-04-17T17:25:44.454051+00:00
+acceptance_rate: "41.667%"
+collected_at: "2026-04-17T17:25:44.454051+00:00"
 ---
 
 ## 문제

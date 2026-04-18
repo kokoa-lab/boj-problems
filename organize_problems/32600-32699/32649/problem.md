@@ -1,13 +1,13 @@
 ---
-title: GLCCDM
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "GLCCDM"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 399
 accepted: 181
 solved_users: 142
-acceptance_rate: 43.293%
-collected_at: 2026-04-17T19:58:25.206697+00:00
+acceptance_rate: "43.293%"
+collected_at: "2026-04-17T19:58:25.206697+00:00"
 ---
 
 ## 문제

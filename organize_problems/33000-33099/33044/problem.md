@@ -1,13 +1,13 @@
 ---
-title: 이 시합에, 동2국은 오지 않아! 1
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "이 시합에, 동2국은 오지 않아! 1"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 71
 accepted: 56
 solved_users: 48
-acceptance_rate: 94.118%
-collected_at: 2026-04-17T20:08:13.419714+00:00
+acceptance_rate: "94.118%"
+collected_at: "2026-04-17T20:08:13.419714+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Ant Colonies
-special_judge: false
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Ant Colonies"
+special_judge: "false"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 259
 accepted: 64
 solved_users: 52
-acceptance_rate: 23.963%
-collected_at: 2026-04-17T16:50:13.684976+00:00
+acceptance_rate: "23.963%"
+collected_at: "2026-04-17T16:50:13.684976+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Segments
-special_judge: false
-time_limit: 5 초
-memory_limit: 2048 MB
+title: "Segments"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "2048 MB"
 submissions: 141
 accepted: 90
 solved_users: 79
-acceptance_rate: 68.696%
-collected_at: 2026-04-17T20:51:05.416520+00:00
+acceptance_rate: "68.696%"
+collected_at: "2026-04-17T20:51:05.416520+00:00"
 ---
 
 ## 문제

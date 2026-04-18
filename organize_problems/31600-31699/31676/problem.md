@@ -1,13 +1,13 @@
 ---
-title: 특별한 케이크 (hard)
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "특별한 케이크 (hard)"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 146
 accepted: 54
 solved_users: 44
-acceptance_rate: 42.718%
-collected_at: 2026-04-17T19:34:12.968861+00:00
+acceptance_rate: "42.718%"
+collected_at: "2026-04-17T19:34:12.968861+00:00"
 ---
 
 ## 문제

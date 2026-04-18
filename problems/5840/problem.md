@@ -1,13 +1,13 @@
 ---
-title: Breed Proximity
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Breed Proximity"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 312
 accepted: 164
 solved_users: 148
-acceptance_rate: 58.039%
-collected_at: 2026-04-17T11:17:54.298877+00:00
+acceptance_rate: "58.039%"
+collected_at: "2026-04-17T11:17:54.298877+00:00"
 ---
 
 ## 문제

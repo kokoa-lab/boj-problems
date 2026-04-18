@@ -1,13 +1,13 @@
 ---
-title: Jump Jump Championship
-special_judge: true
-time_limit: 2 초
-memory_limit: 128 MB
+title: "Jump Jump Championship"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 326
 accepted: 158
 solved_users: 128
-acceptance_rate: 53.112%
-collected_at: 2026-04-17T10:36:33.704550+00:00
+acceptance_rate: "53.112%"
+collected_at: "2026-04-17T10:36:33.704550+00:00"
 ---
 
 ## 문제

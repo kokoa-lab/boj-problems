@@ -1,13 +1,13 @@
 ---
-title: 오늘 날짜
-special_judge: true
-time_limit: 1 초
-memory_limit: 256 MB
+title: "오늘 날짜"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 100292
 accepted: 51078
 solved_users: 46555
-acceptance_rate: 53.720%
-collected_at: 2026-04-17T12:27:39.503997+00:00
+acceptance_rate: "53.720%"
+collected_at: "2026-04-17T12:27:39.503997+00:00"
 ---
 
 ## 문제

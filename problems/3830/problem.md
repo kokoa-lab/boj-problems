@@ -1,13 +1,13 @@
 ---
-title: 교수님은 기다리지 않는다
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "교수님은 기다리지 않는다"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 12835
 accepted: 3824
 solved_users: 2569
-acceptance_rate: 28.421%
-collected_at: 2026-04-17T10:52:18.334867+00:00
+acceptance_rate: "28.421%"
+collected_at: "2026-04-17T10:52:18.334867+00:00"
 ---
 
 ## 문제

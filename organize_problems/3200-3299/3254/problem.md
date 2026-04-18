@@ -1,13 +1,13 @@
 ---
-title: 김밥 21개
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "김밥 21개"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 610
 accepted: 236
 solved_users: 203
-acceptance_rate: 39.961%
-collected_at: 2026-04-17T10:47:40.118454+00:00
+acceptance_rate: "39.961%"
+collected_at: "2026-04-17T10:47:40.118454+00:00"
 ---
 
 ## 문제

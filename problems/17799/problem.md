@@ -1,13 +1,13 @@
 ---
-title: Feeding Seals
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Feeding Seals"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 226
 accepted: 129
 solved_users: 104
-acceptance_rate: 62.275%
-collected_at: 2026-04-17T14:47:25.847800+00:00
+acceptance_rate: "62.275%"
+collected_at: "2026-04-17T14:47:25.847800+00:00"
 ---
 
 ## 문제

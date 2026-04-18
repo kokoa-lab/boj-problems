@@ -1,13 +1,13 @@
 ---
-title: 가희와 철도역
-special_judge: true
-time_limit: 1 초
-memory_limit: 512 MB
+title: "가희와 철도역"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 305
 accepted: 254
 solved_users: 236
-acceptance_rate: 85.199%
-collected_at: 2026-04-17T20:45:26.339328+00:00
+acceptance_rate: "85.199%"
+collected_at: "2026-04-17T20:45:26.339328+00:00"
 ---
 
 ## 문제

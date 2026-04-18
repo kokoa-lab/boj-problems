@@ -1,13 +1,13 @@
 ---
-title: 셔틀버스
-special_judge: false
-time_limit: 1.5 초
-memory_limit: 512 MB
+title: "셔틀버스"
+special_judge: "false"
+time_limit: "1.5 초"
+memory_limit: "512 MB"
 submissions: 603
 accepted: 124
 solved_users: 98
-acceptance_rate: 25.654%
-collected_at: 2026-04-17T13:40:40.349700+00:00
+acceptance_rate: "25.654%"
+collected_at: "2026-04-17T13:40:40.349700+00:00"
 ---
 
 ## 문제

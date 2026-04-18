@@ -1,13 +1,13 @@
 ---
-title: Rätta fel
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Rätta fel"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 144
 accepted: 6
 solved_users: 6
-acceptance_rate: 33.333%
-collected_at: 2026-04-17T15:57:20.811703+00:00
+acceptance_rate: "33.333%"
+collected_at: "2026-04-17T15:57:20.811703+00:00"
 ---
 
 ## 문제

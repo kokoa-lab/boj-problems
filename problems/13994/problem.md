@@ -1,13 +1,13 @@
 ---
-title: Foreign Postcards
-special_judge: true
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Foreign Postcards"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 78
 accepted: 58
 solved_users: 46
-acceptance_rate: 75.410%
-collected_at: 2026-04-17T13:23:37.666903+00:00
+acceptance_rate: "75.410%"
+collected_at: "2026-04-17T13:23:37.666903+00:00"
 ---
 
 ## 문제

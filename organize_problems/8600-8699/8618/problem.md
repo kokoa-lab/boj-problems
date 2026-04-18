@@ -1,13 +1,13 @@
 ---
-title: Taśma
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Taśma"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 43
 accepted: 28
 solved_users: 24
-acceptance_rate: 75.000%
-collected_at: 2026-04-17T12:01:24.604455+00:00
+acceptance_rate: "75.000%"
+collected_at: "2026-04-17T12:01:24.604455+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 정원장어
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "정원장어"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 194
 accepted: 86
 solved_users: 78
-acceptance_rate: 46.988%
-collected_at: 2026-04-17T17:10:47.670277+00:00
+acceptance_rate: "46.988%"
+collected_at: "2026-04-17T17:10:47.670277+00:00"
 ---
 
 ## 문제

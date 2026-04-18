@@ -1,13 +1,13 @@
 ---
-title: Ставка
-special_judge: true
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Ставка"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 334
 accepted: 254
 solved_users: 215
-acceptance_rate: 75.972%
-collected_at: 2026-04-17T15:27:39.584713+00:00
+acceptance_rate: "75.972%"
+collected_at: "2026-04-17T15:27:39.584713+00:00"
 ---
 
 ## 문제

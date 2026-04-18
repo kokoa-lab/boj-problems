@@ -1,13 +1,13 @@
 ---
-title: 좋은 수
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "좋은 수"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 3249
 accepted: 1147
 solved_users: 888
-acceptance_rate: 35.778%
-collected_at: 2026-04-17T11:16:05.518397+00:00
+acceptance_rate: "35.778%"
+collected_at: "2026-04-17T11:16:05.518397+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Lowest Common Ancestor
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Lowest Common Ancestor"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 161
 accepted: 39
 solved_users: 26
-acceptance_rate: 18.310%
-collected_at: 2026-04-17T15:18:13.893615+00:00
+acceptance_rate: "18.310%"
+collected_at: "2026-04-17T15:18:13.893615+00:00"
 ---
 
 ## 문제

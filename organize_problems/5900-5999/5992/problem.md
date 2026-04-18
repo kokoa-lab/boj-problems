@@ -1,13 +1,13 @@
 ---
-title: The Leisurely Stroll
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "The Leisurely Stroll"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 114
 accepted: 99
 solved_users: 81
-acceptance_rate: 88.043%
-collected_at: 2026-04-17T11:19:09.461386+00:00
+acceptance_rate: "88.043%"
+collected_at: "2026-04-17T11:19:09.461386+00:00"
 ---
 
 ## 문제

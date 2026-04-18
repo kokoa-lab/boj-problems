@@ -1,13 +1,13 @@
 ---
-title: Algorist Club
-special_judge: true
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Algorist Club"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 241
 accepted: 42
 solved_users: 29
-acceptance_rate: 25.217%
-collected_at: 2026-04-17T12:23:49.014224+00:00
+acceptance_rate: "25.217%"
+collected_at: "2026-04-17T12:23:49.014224+00:00"
 ---
 
 ## 문제

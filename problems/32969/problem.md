@@ -1,13 +1,13 @@
 ---
-title: 학술대회 참가신청
-special_judge: false
-time_limit: 1 초
-memory_limit: 2048 MB
+title: "학술대회 참가신청"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "2048 MB"
 submissions: 1035
 accepted: 509
 solved_users: 427
-acceptance_rate: 49.024%
-collected_at: 2026-04-17T20:06:31.165053+00:00
+acceptance_rate: "49.024%"
+collected_at: "2026-04-17T20:06:31.165053+00:00"
 ---
 
 ## 문제

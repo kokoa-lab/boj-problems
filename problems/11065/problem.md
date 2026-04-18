@@ -1,13 +1,13 @@
 ---
-title: Grid Aliens
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Grid Aliens"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 188
 accepted: 48
 solved_users: 31
-acceptance_rate: 20.261%
-collected_at: 2026-04-17T12:35:56.758689+00:00
+acceptance_rate: "20.261%"
+collected_at: "2026-04-17T12:35:56.758689+00:00"
 ---
 
 ## 문제

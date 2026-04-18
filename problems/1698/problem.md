@@ -1,13 +1,13 @@
 ---
-title: 보안 패널
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "보안 패널"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 24
 accepted: 4
 solved_users: 4
-acceptance_rate: 22.222%
-collected_at: 2026-04-17T10:32:25.124231+00:00
+acceptance_rate: "22.222%"
+collected_at: "2026-04-17T10:32:25.124231+00:00"
 ---
 
 ## 문제

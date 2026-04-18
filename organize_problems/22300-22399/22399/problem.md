@@ -1,13 +1,13 @@
 ---
-title: 夏合宿の朝は早い
-special_judge: true
-time_limit: 8 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "夏合宿の朝は早い"
+special_judge: "true"
+time_limit: "8 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 69
 accepted: 38
 solved_users: 31
-acceptance_rate: 58.491%
-collected_at: 2026-04-17T16:20:08.172975+00:00
+acceptance_rate: "58.491%"
+collected_at: "2026-04-17T16:20:08.172975+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: [Q] Quick Subtraction Trick
-special_judge: true
-time_limit: 1 초
-memory_limit: 512 MB
+title: "[Q] Quick Subtraction Trick"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 79
 accepted: 42
 solved_users: 32
-acceptance_rate: 50.794%
-collected_at: 2026-04-17T20:28:52.105266+00:00
+acceptance_rate: "50.794%"
+collected_at: "2026-04-17T20:28:52.105266+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Imena
-special_judge: false
-time_limit: 1 초
-memory_limit: 32 MB
+title: "Imena"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "32 MB"
 submissions: 428
 accepted: 243
 solved_users: 192
-acceptance_rate: 55.977%
-collected_at: 2026-04-17T13:22:35.340992+00:00
+acceptance_rate: "55.977%"
+collected_at: "2026-04-17T13:22:35.340992+00:00"
 ---
 
 ## 문제

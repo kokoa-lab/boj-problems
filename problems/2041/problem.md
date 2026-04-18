@@ -1,13 +1,13 @@
 ---
-title: 숫자채우기
-special_judge: true
-time_limit: 1 초
-memory_limit: 128 MB
+title: "숫자채우기"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 580
 accepted: 293
 solved_users: 219
-acceptance_rate: 55.443%
-collected_at: 2026-04-17T10:37:30.719608+00:00
+acceptance_rate: "55.443%"
+collected_at: "2026-04-17T10:37:30.719608+00:00"
 ---
 
 ## 문제

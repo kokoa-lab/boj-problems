@@ -1,13 +1,13 @@
 ---
-title: Free Weights
-special_judge: false
-time_limit: 4 초
-memory_limit: 512 MB
+title: "Free Weights"
+special_judge: "false"
+time_limit: "4 초"
+memory_limit: "512 MB"
 submissions: 214
 accepted: 85
 solved_users: 79
-acceptance_rate: 43.889%
-collected_at: 2026-04-17T13:22:31.029974+00:00
+acceptance_rate: "43.889%"
+collected_at: "2026-04-17T13:22:31.029974+00:00"
 ---
 
 ## 문제

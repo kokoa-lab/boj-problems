@@ -1,13 +1,13 @@
 ---
-title: 하이퍼 삼각형 자르기
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "하이퍼 삼각형 자르기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 212
 accepted: 71
 solved_users: 43
-acceptance_rate: 42.157%
-collected_at: 2026-04-17T19:08:25.026511+00:00
+acceptance_rate: "42.157%"
+collected_at: "2026-04-17T19:08:25.026511+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Escultura a Laser
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Escultura a Laser"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 64
 accepted: 49
 solved_users: 36
-acceptance_rate: 78.261%
-collected_at: 2026-04-17T13:17:04.396396+00:00
+acceptance_rate: "78.261%"
+collected_at: "2026-04-17T13:17:04.396396+00:00"
 ---
 
 ## 문제

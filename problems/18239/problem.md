@@ -1,13 +1,13 @@
 ---
-title: 편안한 수열 만들기
-special_judge: true
-time_limit: 1 초
-memory_limit: 512 MB
+title: "편안한 수열 만들기"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 944
 accepted: 231
 solved_users: 214
-acceptance_rate: 26.066%
-collected_at: 2026-04-17T14:57:46.060742+00:00
+acceptance_rate: "26.066%"
+collected_at: "2026-04-17T14:57:46.060742+00:00"
 ---
 
 ## 문제

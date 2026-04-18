@@ -1,13 +1,13 @@
 ---
-title: 트리 경로
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "트리 경로"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 283
 accepted: 52
 solved_users: 38
-acceptance_rate: 26.573%
-collected_at: 2026-04-17T11:16:15.593061+00:00
+acceptance_rate: "26.573%"
+collected_at: "2026-04-17T11:16:15.593061+00:00"
 ---
 
 ## 문제

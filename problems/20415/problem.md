@@ -1,13 +1,13 @@
 ---
-title: MVP 다이아몬드 (Hard)
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "MVP 다이아몬드 (Hard)"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 320
 accepted: 173
 solved_users: 147
-acceptance_rate: 59.514%
-collected_at: 2026-04-17T15:36:09.302204+00:00
+acceptance_rate: "59.514%"
+collected_at: "2026-04-17T15:36:09.302204+00:00"
 ---
 
 ## 문제

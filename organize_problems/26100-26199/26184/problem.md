@@ -1,13 +1,13 @@
 ---
-title: Kebab Pizza
-special_judge: false
-time_limit: 3 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Kebab Pizza"
+special_judge: "false"
+time_limit: "3 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 209
 accepted: 49
 solved_users: 47
-acceptance_rate: 27.168%
-collected_at: 2026-04-17T17:41:27.639422+00:00
+acceptance_rate: "27.168%"
+collected_at: "2026-04-17T17:41:27.639422+00:00"
 ---
 
 ## 문제

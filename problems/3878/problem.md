@@ -1,13 +1,13 @@
 ---
-title: 점 분리
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "점 분리"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 4497
 accepted: 1383
 solved_users: 948
-acceptance_rate: 28.815%
-collected_at: 2026-04-17T10:52:56.291310+00:00
+acceptance_rate: "28.815%"
+collected_at: "2026-04-17T10:52:56.291310+00:00"
 ---
 
 ## 문제

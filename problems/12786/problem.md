@@ -1,13 +1,13 @@
 ---
-title: INHA SUIT
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "INHA SUIT"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 1873
 accepted: 424
 solved_users: 343
-acceptance_rate: 23.509%
-collected_at: 2026-04-17T13:01:20.363030+00:00
+acceptance_rate: "23.509%"
+collected_at: "2026-04-17T13:01:20.363030+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Worst Reporter 4
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Worst Reporter 4"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 64
 accepted: 21
 solved_users: 21
-acceptance_rate: 33.333%
-collected_at: 2026-04-17T16:07:57.628366+00:00
+acceptance_rate: "33.333%"
+collected_at: "2026-04-17T16:07:57.628366+00:00"
 ---
 
 ## 문제

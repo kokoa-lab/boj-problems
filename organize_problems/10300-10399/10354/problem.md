@@ -1,13 +1,13 @@
 ---
-title: Points
-special_judge: true
-time_limit: 5 초
-memory_limit: 256 MB
+title: "Points"
+special_judge: "true"
+time_limit: "5 초"
+memory_limit: "256 MB"
 submissions: 107
 accepted: 41
 solved_users: 23
-acceptance_rate: 29.114%
-collected_at: 2026-04-17T12:22:30.050942+00:00
+acceptance_rate: "29.114%"
+collected_at: "2026-04-17T12:22:30.050942+00:00"
 ---
 
 ## 문제

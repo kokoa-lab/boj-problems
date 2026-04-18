@@ -1,13 +1,13 @@
 ---
-title: Brick in the Wall, Part 2
-special_judge: false
-time_limit: 5 초
-memory_limit: 2048 MB
+title: "Brick in the Wall, Part 2"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "2048 MB"
 submissions: 8
 accepted: 4
 solved_users: 3
-acceptance_rate: 50.000%
-collected_at: 2026-04-17T20:04:36.278541+00:00
+acceptance_rate: "50.000%"
+collected_at: "2026-04-17T20:04:36.278541+00:00"
 ---
 
 ## 문제

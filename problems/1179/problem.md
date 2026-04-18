@@ -1,13 +1,13 @@
 ---
-title: 마지막 요세푸스 문제
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "마지막 요세푸스 문제"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 2318
 accepted: 653
 solved_users: 480
-acceptance_rate: 35.556%
-collected_at: 2026-04-17T10:28:38.509430+00:00
+acceptance_rate: "35.556%"
+collected_at: "2026-04-17T10:28:38.509430+00:00"
 ---
 
 ## 문제

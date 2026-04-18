@@ -1,13 +1,13 @@
 ---
-title: 우유 도시
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "우유 도시"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 4436
 accepted: 1268
 solved_users: 954
-acceptance_rate: 29.859%
-collected_at: 2026-04-17T13:40:59.074144+00:00
+acceptance_rate: "29.859%"
+collected_at: "2026-04-17T13:40:59.074144+00:00"
 ---
 
 ## 문제

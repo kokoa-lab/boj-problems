@@ -1,13 +1,13 @@
 ---
-title: DKSH를 찾아라
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "DKSH를 찾아라"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 1043
 accepted: 477
 solved_users: 373
-acceptance_rate: 47.516%
-collected_at: 2026-04-17T17:26:29.839087+00:00
+acceptance_rate: "47.516%"
+collected_at: "2026-04-17T17:26:29.839087+00:00"
 ---
 
 ## 문제

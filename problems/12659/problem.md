@@ -1,13 +1,13 @@
 ---
-title: Welcome to Code Jam (Small)
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Welcome to Code Jam (Small)"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 173
 accepted: 115
 solved_users: 102
-acceptance_rate: 71.329%
-collected_at: 2026-04-17T12:59:12.016746+00:00
+acceptance_rate: "71.329%"
+collected_at: "2026-04-17T12:59:12.016746+00:00"
 ---
 
 ## 문제

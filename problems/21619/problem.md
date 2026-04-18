@@ -1,13 +1,13 @@
 ---
-title: Daily Commute
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Daily Commute"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 38
 accepted: 22
 solved_users: 17
-acceptance_rate: 53.125%
-collected_at: 2026-04-17T16:01:43.874069+00:00
+acceptance_rate: "53.125%"
+collected_at: "2026-04-17T16:01:43.874069+00:00"
 ---
 
 ## 문제

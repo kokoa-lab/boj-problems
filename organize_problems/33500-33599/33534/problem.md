@@ -1,13 +1,13 @@
 ---
-title: Hungry Wolves
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 2048 MB
+title: "Hungry Wolves"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "2048 MB"
 submissions: 187
 accepted: 109
 solved_users: 77
-acceptance_rate: 58.779%
-collected_at: 2026-04-17T20:18:22.103832+00:00
+acceptance_rate: "58.779%"
+collected_at: "2026-04-17T20:18:22.103832+00:00"
 ---
 
 ## 문제

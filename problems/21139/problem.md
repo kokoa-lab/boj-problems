@@ -1,13 +1,13 @@
 ---
-title: Exam Manipulation
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Exam Manipulation"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 158
 accepted: 97
 solved_users: 86
-acceptance_rate: 82.692%
-collected_at: 2026-04-17T15:48:51.488153+00:00
+acceptance_rate: "82.692%"
+collected_at: "2026-04-17T15:48:51.488153+00:00"
 ---
 
 ## 문제

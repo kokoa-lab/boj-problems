@@ -1,13 +1,13 @@
 ---
-title: LUKA
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "LUKA"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 298
 accepted: 223
 solved_users: 183
-acceptance_rate: 79.913%
-collected_at: 2026-04-17T10:47:31.282982+00:00
+acceptance_rate: "79.913%"
+collected_at: "2026-04-17T10:47:31.282982+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 토지 판매
-special_judge: false
-time_limit: 5 초 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "토지 판매"
+special_judge: "false"
+time_limit: "5 초 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 113
 accepted: 42
 solved_users: 25
-acceptance_rate: 28.409%
-collected_at: 2026-04-17T19:27:54.120374+00:00
+acceptance_rate: "28.409%"
+collected_at: "2026-04-17T19:27:54.120374+00:00"
 ---
 
 ## 문제

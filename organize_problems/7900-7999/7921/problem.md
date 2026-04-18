@@ -1,13 +1,13 @@
 ---
-title: Dziadkowie
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Dziadkowie"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 267
 accepted: 58
 solved_users: 38
-acceptance_rate: 17.195%
-collected_at: 2026-04-17T11:54:12.486116+00:00
+acceptance_rate: "17.195%"
+collected_at: "2026-04-17T11:54:12.486116+00:00"
 ---
 
 ## 문제

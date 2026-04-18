@@ -1,13 +1,13 @@
 ---
-title: Directions
-special_judge: false
-time_limit: 4 초
-memory_limit: 512 MB
+title: "Directions"
+special_judge: "false"
+time_limit: "4 초"
+memory_limit: "512 MB"
 submissions: 36
 accepted: 13
 solved_users: 13
-acceptance_rate: 40.625%
-collected_at: 2026-04-17T14:24:56.605774+00:00
+acceptance_rate: "40.625%"
+collected_at: "2026-04-17T14:24:56.605774+00:00"
 ---
 
 ## 문제

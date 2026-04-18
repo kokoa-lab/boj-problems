@@ -1,13 +1,13 @@
 ---
-title: Оригами
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "Оригами"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 75
 accepted: 54
 solved_users: 36
-acceptance_rate: 66.667%
-collected_at: 2026-04-17T16:14:08.761936+00:00
+acceptance_rate: "66.667%"
+collected_at: "2026-04-17T16:14:08.761936+00:00"
 ---
 
 ## 문제

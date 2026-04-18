@@ -1,13 +1,13 @@
 ---
-title: 표 정렬
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "표 정렬"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 367
 accepted: 177
 solved_users: 155
-acceptance_rate: 52.013%
-collected_at: 2026-04-17T13:27:45.761339+00:00
+acceptance_rate: "52.013%"
+collected_at: "2026-04-17T13:27:45.761339+00:00"
 ---
 
 ## 문제

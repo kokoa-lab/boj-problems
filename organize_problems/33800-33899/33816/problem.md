@@ -1,13 +1,13 @@
 ---
-title: Zbiory 2
-special_judge: true
-time_limit: 6 초 (추가 시간 없음)
-memory_limit: 2048 MB
+title: "Zbiory 2"
+special_judge: "true"
+time_limit: "6 초 (추가 시간 없음)"
+memory_limit: "2048 MB"
 submissions: 7
 accepted: 6
 solved_users: 5
-acceptance_rate: 83.333%
-collected_at: 2026-04-17T20:24:06.197158+00:00
+acceptance_rate: "83.333%"
+collected_at: "2026-04-17T20:24:06.197158+00:00"
 ---
 
 ## 문제

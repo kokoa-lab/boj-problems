@@ -1,13 +1,13 @@
 ---
-title: 캠프 준비
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "캠프 준비"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 5873
 accepted: 4091
 solved_users: 3149
-acceptance_rate: 69.591%
-collected_at: 2026-04-17T14:26:35.762615+00:00
+acceptance_rate: "69.591%"
+collected_at: "2026-04-17T14:26:35.762615+00:00"
 ---
 
 ## 문제

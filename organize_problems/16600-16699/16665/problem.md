@@ -1,13 +1,13 @@
 ---
-title: Fractions
-special_judge: true
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Fractions"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 115
 accepted: 59
 solved_users: 50
-acceptance_rate: 54.945%
-collected_at: 2026-04-17T14:21:53.378991+00:00
+acceptance_rate: "54.945%"
+collected_at: "2026-04-17T14:21:53.378991+00:00"
 ---
 
 ## 문제

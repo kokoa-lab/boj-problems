@@ -1,13 +1,13 @@
 ---
-title: Rainbow Beads
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Rainbow Beads"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 633
 accepted: 291
 solved_users: 238
-acceptance_rate: 49.275%
-collected_at: 2026-04-17T14:31:42.882474+00:00
+acceptance_rate: "49.275%"
+collected_at: "2026-04-17T14:31:42.882474+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 심심한 준규
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "심심한 준규"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 780
 accepted: 349
 solved_users: 289
-acceptance_rate: 48.735%
-collected_at: 2026-04-17T10:45:30.814546+00:00
+acceptance_rate: "48.735%"
+collected_at: "2026-04-17T10:45:30.814546+00:00"
 ---
 
 ## 문제
@@ -20,7 +20,12 @@ collected_at: 2026-04-17T10:45:30.814546+00:00
 
 |  |  |  |
 | --- | --- | --- |
-| ```  abc efg 0120123 ``` | ```  61 62 63 20 65 66 67 30 31 32 30 31 32 33 ``` | ```  51 53 51 10 54 54 54 ``` |
+| ``` 
+ abc efg
+ 0120123 ``` | ``` 
+ 61 62 63 20 65 66 67
+ 30 31 32 30 31 32 33 ``` | ``` 
+ 51 53 51 10 54 54 54 ``` |
 | Start | ASCII hexadecimal | excrypted message |
 | --- | --- | --- |
 

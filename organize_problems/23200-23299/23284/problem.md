@@ -1,13 +1,13 @@
 ---
-title: 모든 스택 수열
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "모든 스택 수열"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 840
 accepted: 384
 solved_users: 283
-acceptance_rate: 55.382%
-collected_at: 2026-04-17T16:45:38.292447+00:00
+acceptance_rate: "55.382%"
+collected_at: "2026-04-17T16:45:38.292447+00:00"
 ---
 
 ## 문제

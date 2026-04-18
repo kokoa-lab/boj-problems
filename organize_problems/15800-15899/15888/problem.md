@@ -1,13 +1,13 @@
 ---
-title: 정답은 이수근이야!!
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "정답은 이수근이야!!"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 2328
 accepted: 478
 solved_users: 383
-acceptance_rate: 22.358%
-collected_at: 2026-04-17T14:08:08.721494+00:00
+acceptance_rate: "22.358%"
+collected_at: "2026-04-17T14:08:08.721494+00:00"
 ---
 
 ## 문제

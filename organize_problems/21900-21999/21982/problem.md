@@ -1,13 +1,13 @@
 ---
-title: 상자 빌리기
-special_judge: false
-time_limit: 3 초  ( 하단 참고 )
-memory_limit: 512 MB
+title: "상자 빌리기"
+special_judge: "false"
+time_limit: "3 초  ( 하단 참고 )"
+memory_limit: "512 MB"
 submissions: 148
 accepted: 70
 solved_users: 45
-acceptance_rate: 42.056%
-collected_at: 2026-04-17T16:11:10.533000+00:00
+acceptance_rate: "42.056%"
+collected_at: "2026-04-17T16:11:10.533000+00:00"
 ---
 
 ## 문제
@@ -66,4 +66,46 @@ Alice는 흔쾌히 승낙했고, 물건을 옮길 때 사용해야 하기 때문
 |  |  |  |
 | --- | --- | --- |
 | C/C++ | Java | Pypy3 |
-| ```  int n, x; long long hs, ha, hb, hc,            ws, wa, wb, wc; // stdin에서 입력을 받는다.  long long H[n], W[n];  H[0] = hs % hc + 1; W[0] = ws % wc + 1; for(int i = 1; i <= n-1; i++) {   H[i] = H[i-1] + 1         + (H[i-1] * ha + hb) % hc;   W[i] = (W[i-1] * wa + wb) % wc + 1; } ``` | ```  int n, x; long hs, ha, hb, hc,      ws, wa, wb, wc; // stdin에서 입력을 받는다.  long[] H = new long[n], W = new long[n];  H[0] = hs % hc + 1; W[0] = ws % wc + 1; for(int i = 1; i <= n-1; i++) {   H[i] = H[i-1] + 1         + (H[i-1] * ha + hb) % hc;   W[i] = (W[i-1] * wa + wb) % wc + 1; } ``` | ```  n,x = # stdin에서 입력을 받는다. hs,ha,hb,hc = # stdin에서 입력을 받는다. ws,wa,wb,wc = # stdin에서 입력을 받는다.  H, W = [0 for i in range(n)], [0 for i in range(n)]  H[0] = hs % hc + 1 W[0] = ws % wc + 1 for i in range(1, n):   H[i] = H[i-1] + 1 + (H[i-1] * ha + hb) % hc   W[i] = (W[i-1] * wa + wb) % wc + 1 ``` |
+| ``` 
+ int n, x;
+ long long hs, ha, hb, hc, 
+           ws, wa, wb, wc;
+ // stdin에서 입력을 받는다.
+ 
+ long long H[n], W[n];
+ 
+ H[0] = hs % hc + 1;
+ W[0] = ws % wc + 1;
+ for(int i = 1; i <= n-1; i++) {
+   H[i] = H[i-1] + 1 
+        + (H[i-1] * ha + hb) % hc;
+   W[i] = (W[i-1] * wa + wb) % wc + 1;
+ }
+ ``` | ``` 
+ int n, x;
+ long hs, ha, hb, hc,
+      ws, wa, wb, wc;
+ // stdin에서 입력을 받는다.
+ 
+ long[] H = new long[n], W = new long[n];
+ 
+ H[0] = hs % hc + 1;
+ W[0] = ws % wc + 1;
+ for(int i = 1; i <= n-1; i++) {
+   H[i] = H[i-1] + 1 
+        + (H[i-1] * ha + hb) % hc;
+   W[i] = (W[i-1] * wa + wb) % wc + 1;
+ }
+ ``` | ``` 
+ n,x = # stdin에서 입력을 받는다.
+ hs,ha,hb,hc = # stdin에서 입력을 받는다.
+ ws,wa,wb,wc = # stdin에서 입력을 받는다.
+ 
+ H, W = [0 for i in range(n)], [0 for i in range(n)]
+ 
+ H[0] = hs % hc + 1
+ W[0] = ws % wc + 1
+ for i in range(1, n):
+   H[i] = H[i-1] + 1 + (H[i-1] * ha + hb) % hc
+   W[i] = (W[i-1] * wa + wb) % wc + 1
+ ``` |

@@ -1,13 +1,13 @@
 ---
-title: Mount Marathon
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Mount Marathon"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 224
 accepted: 186
 solved_users: 172
-acceptance_rate: 86.869%
-collected_at: 2026-04-17T14:19:35.034467+00:00
+acceptance_rate: "86.869%"
+collected_at: "2026-04-17T14:19:35.034467+00:00"
 ---
 
 ## 문제

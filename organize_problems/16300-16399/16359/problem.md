@@ -1,13 +1,13 @@
 ---
-title: Disks Arrangement
-special_judge: true
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Disks Arrangement"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 515
 accepted: 133
 solved_users: 77
-acceptance_rate: 23.054%
-collected_at: 2026-04-17T14:16:28.478889+00:00
+acceptance_rate: "23.054%"
+collected_at: "2026-04-17T14:16:28.478889+00:00"
 ---
 
 ## 문제

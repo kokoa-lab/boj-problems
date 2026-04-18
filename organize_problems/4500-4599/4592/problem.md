@@ -1,13 +1,13 @@
 ---
-title: 중복을 없애자
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "중복을 없애자"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 3710
 accepted: 2310
 solved_users: 2101
-acceptance_rate: 63.705%
-collected_at: 2026-04-17T11:05:11.224568+00:00
+acceptance_rate: "63.705%"
+collected_at: "2026-04-17T11:05:11.224568+00:00"
 ---
 
 ## 문제

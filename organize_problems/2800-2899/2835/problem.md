@@ -1,13 +1,13 @@
 ---
-title: 인기도 조사
-special_judge: true
-time_limit: 1 초
-memory_limit: 128 MB
+title: "인기도 조사"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 791
 accepted: 213
 solved_users: 178
-acceptance_rate: 28.896%
-collected_at: 2026-04-17T10:45:13.087464+00:00
+acceptance_rate: "28.896%"
+collected_at: "2026-04-17T10:45:13.087464+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Flight Turbulence
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "Flight Turbulence"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 217
 accepted: 107
 solved_users: 79
-acceptance_rate: 47.305%
-collected_at: 2026-04-17T14:48:29.712194+00:00
+acceptance_rate: "47.305%"
+collected_at: "2026-04-17T14:48:29.712194+00:00"
 ---
 
 ## 문제

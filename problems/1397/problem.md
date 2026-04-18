@@ -1,13 +1,13 @@
 ---
-title: 인화철도 구구칠
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "인화철도 구구칠"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 290
 accepted: 9
 solved_users: 6
-acceptance_rate: 6.383%
-collected_at: 2026-04-17T10:29:54.959666+00:00
+acceptance_rate: "6.383%"
+collected_at: "2026-04-17T10:29:54.959666+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Space Junk
-special_judge: true
-time_limit: 4 초
-memory_limit: 256 MB
+title: "Space Junk"
+special_judge: "true"
+time_limit: "4 초"
+memory_limit: "256 MB"
 submissions: 69
 accepted: 28
 solved_users: 23
-acceptance_rate: 41.818%
-collected_at: 2026-04-17T12:43:21.998268+00:00
+acceptance_rate: "41.818%"
+collected_at: "2026-04-17T12:43:21.998268+00:00"
 ---
 
 ## 문제

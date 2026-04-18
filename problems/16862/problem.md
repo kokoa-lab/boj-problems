@@ -1,13 +1,13 @@
 ---
-title: An I for an Eye
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "An I for an Eye"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 69
 accepted: 35
 solved_users: 29
-acceptance_rate: 54.717%
-collected_at: 2026-04-17T14:25:18.464942+00:00
+acceptance_rate: "54.717%"
+collected_at: "2026-04-17T14:25:18.464942+00:00"
 ---
 
 ## 문제

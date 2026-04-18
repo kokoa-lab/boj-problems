@@ -1,13 +1,13 @@
 ---
-title: 수익
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "수익"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 2841
 accepted: 1504
 solved_users: 1203
-acceptance_rate: 51.720%
-collected_at: 2026-04-17T10:55:52.064545+00:00
+acceptance_rate: "51.720%"
+collected_at: "2026-04-17T10:55:52.064545+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Flat
-special_judge: true
-time_limit: 3 초
-memory_limit: 256 MB
+title: "Flat"
+special_judge: "true"
+time_limit: "3 초"
+memory_limit: "256 MB"
 submissions: 975
 accepted: 634
 solved_users: 572
-acceptance_rate: 65.672%
-collected_at: 2026-04-17T10:49:24.457066+00:00
+acceptance_rate: "65.672%"
+collected_at: "2026-04-17T10:49:24.457066+00:00"
 ---
 
 ## 문제

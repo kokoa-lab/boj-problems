@@ -1,13 +1,13 @@
 ---
-title: Призы
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Призы"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 131
 accepted: 83
 solved_users: 69
-acceptance_rate: 61.607%
-collected_at: 2026-04-17T15:37:26.658774+00:00
+acceptance_rate: "61.607%"
+collected_at: "2026-04-17T15:37:26.658774+00:00"
 ---
 
 ## 문제

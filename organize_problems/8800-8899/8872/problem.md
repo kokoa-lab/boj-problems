@@ -1,13 +1,13 @@
 ---
-title: 빌라봉
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "빌라봉"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 2419
 accepted: 698
 solved_users: 560
-acceptance_rate: 28.197%
-collected_at: 2026-04-17T12:04:21.680176+00:00
+acceptance_rate: "28.197%"
+collected_at: "2026-04-17T12:04:21.680176+00:00"
 ---
 
 ## 문제

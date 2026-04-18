@@ -1,13 +1,13 @@
 ---
-title: Tiling Terrace
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Tiling Terrace"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 57
 accepted: 31
 solved_users: 30
-acceptance_rate: 65.217%
-collected_at: 2026-04-17T15:14:25.011037+00:00
+acceptance_rate: "65.217%"
+collected_at: "2026-04-17T15:14:25.011037+00:00"
 ---
 
 ## 문제

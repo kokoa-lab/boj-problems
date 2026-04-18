@@ -1,13 +1,13 @@
 ---
-title: Jacana Numbers
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Jacana Numbers"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 53
 accepted: 11
 solved_users: 7
-acceptance_rate: 14.894%
-collected_at: 2026-04-17T15:13:40.739250+00:00
+acceptance_rate: "14.894%"
+collected_at: "2026-04-17T15:13:40.739250+00:00"
 ---
 
 ## 문제

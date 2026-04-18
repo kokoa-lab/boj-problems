@@ -1,13 +1,13 @@
 ---
-title: 미션 도네이션
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "미션 도네이션"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 2255
 accepted: 1013
 solved_users: 922
-acceptance_rate: 45.757%
-collected_at: 2026-04-17T17:37:51.736173+00:00
+acceptance_rate: "45.757%"
+collected_at: "2026-04-17T17:37:51.736173+00:00"
 ---
 
 ## 문제

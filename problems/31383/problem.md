@@ -1,13 +1,13 @@
 ---
-title: Rotation Transformation
-special_judge: true
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Rotation Transformation"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 42
 accepted: 14
 solved_users: 12
-acceptance_rate: 38.710%
-collected_at: 2026-04-17T19:27:11.600663+00:00
+acceptance_rate: "38.710%"
+collected_at: "2026-04-17T19:27:11.600663+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Hobbiton Farms
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Hobbiton Farms"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 49
 accepted: 29
 solved_users: 22
-acceptance_rate: 56.410%
-collected_at: 2026-04-17T11:42:15.851027+00:00
+acceptance_rate: "56.410%"
+collected_at: "2026-04-17T11:42:15.851027+00:00"
 ---
 
 ## 문제

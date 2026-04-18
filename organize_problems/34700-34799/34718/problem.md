@@ -1,13 +1,13 @@
 ---
-title: 불 뿌리기
-special_judge: false
-time_limit: 3 초
-memory_limit: 1024 MB
+title: "불 뿌리기"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "1024 MB"
 submissions: 55
 accepted: 28
 solved_users: 12
-acceptance_rate: 36.364%
-collected_at: 2026-04-17T20:46:46.604195+00:00
+acceptance_rate: "36.364%"
+collected_at: "2026-04-17T20:46:46.604195+00:00"
 ---
 
 ## 문제

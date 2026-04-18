@@ -1,13 +1,13 @@
 ---
-title: Vertex Merge Game
-special_judge: false
-time_limit: 3 초 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "Vertex Merge Game"
+special_judge: "false"
+time_limit: "3 초 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 93
 accepted: 53
 solved_users: 49
-acceptance_rate: 59.036%
-collected_at: 2026-04-17T16:52:52.835140+00:00
+acceptance_rate: "59.036%"
+collected_at: "2026-04-17T16:52:52.835140+00:00"
 ---
 
 ## 문제

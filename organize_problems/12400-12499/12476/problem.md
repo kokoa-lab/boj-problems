@@ -1,13 +1,13 @@
 ---
-title: Irregular Cakes (Large)
-special_judge: true
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Irregular Cakes (Large)"
+special_judge: "true"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 54
 accepted: 26
 solved_users: 22
-acceptance_rate: 100.000%
-collected_at: 2026-04-17T12:55:57.902226+00:00
+acceptance_rate: "100.000%"
+collected_at: "2026-04-17T12:55:57.902226+00:00"
 ---
 
 ## 문제

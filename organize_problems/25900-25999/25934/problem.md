@@ -1,13 +1,13 @@
 ---
-title: Brownies vs. Candies vs. Cookies
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Brownies vs. Candies vs. Cookies"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 93
 accepted: 82
 solved_users: 76
-acceptance_rate: 87.356%
-collected_at: 2026-04-17T17:37:05.588139+00:00
+acceptance_rate: "87.356%"
+collected_at: "2026-04-17T17:37:05.588139+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 악덕 영주 혜유
-special_judge: false
-time_limit: 0.5 초
-memory_limit: 512 MB
+title: "악덕 영주 혜유"
+special_judge: "false"
+time_limit: "0.5 초"
+memory_limit: "512 MB"
 submissions: 1204
 accepted: 698
 solved_users: 551
-acceptance_rate: 59.311%
-collected_at: 2026-04-17T15:30:32.419130+00:00
+acceptance_rate: "59.311%"
+collected_at: "2026-04-17T15:30:32.419130+00:00"
 ---
 
 ## 문제

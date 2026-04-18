@@ -1,13 +1,13 @@
 ---
-title: Xorderable Array
-special_judge: false
-time_limit: 1 초
-memory_limit: 2048 MB
+title: "Xorderable Array"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "2048 MB"
 submissions: 59
 accepted: 25
 solved_users: 24
-acceptance_rate: 45.283%
-collected_at: 2026-04-17T20:09:55.871813+00:00
+acceptance_rate: "45.283%"
+collected_at: "2026-04-17T20:09:55.871813+00:00"
 ---
 
 ## 문제

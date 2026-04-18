@@ -1,13 +1,13 @@
 ---
-title: Dreamy Putata
-special_judge: false
-time_limit: 6 초
-memory_limit: 2048 MB
+title: "Dreamy Putata"
+special_judge: "false"
+time_limit: "6 초"
+memory_limit: "2048 MB"
 submissions: 6
 accepted: 1
 solved_users: 1
-acceptance_rate: 16.667%
-collected_at: 2026-04-17T20:15:53.736742+00:00
+acceptance_rate: "16.667%"
+collected_at: "2026-04-17T20:15:53.736742+00:00"
 ---
 
 ## 문제

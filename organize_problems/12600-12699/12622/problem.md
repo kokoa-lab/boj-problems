@@ -1,13 +1,13 @@
 ---
-title: EZ-Sokoban (Large)
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "EZ-Sokoban (Large)"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 47
 accepted: 21
 solved_users: 17
-acceptance_rate: 39.535%
-collected_at: 2026-04-17T12:58:37.316397+00:00
+acceptance_rate: "39.535%"
+collected_at: "2026-04-17T12:58:37.316397+00:00"
 ---
 
 ## 문제

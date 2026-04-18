@@ -1,13 +1,13 @@
 ---
-title: 마비노기 가방 정리하기
-special_judge: false
-time_limit: 4 초 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "마비노기 가방 정리하기"
+special_judge: "false"
+time_limit: "4 초 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 46
 accepted: 4
 solved_users: 4
-acceptance_rate: 50.000%
-collected_at: 2026-04-17T19:20:00.874730+00:00
+acceptance_rate: "50.000%"
+collected_at: "2026-04-17T19:20:00.874730+00:00"
 ---
 
 ## 문제

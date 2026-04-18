@@ -1,13 +1,13 @@
 ---
-title: Mate
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "Mate"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 82
 accepted: 34
 solved_users: 28
-acceptance_rate: 50.000%
-collected_at: 2026-04-17T14:00:20.997250+00:00
+acceptance_rate: "50.000%"
+collected_at: "2026-04-17T14:00:20.997250+00:00"
 ---
 
 ## 문제

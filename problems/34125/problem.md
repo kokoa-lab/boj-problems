@@ -1,13 +1,13 @@
 ---
-title: 래환이의 아이브 콘서트 이야기
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "래환이의 아이브 콘서트 이야기"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 300
 accepted: 210
 solved_users: 191
-acceptance_rate: 71.536%
-collected_at: 2026-04-17T20:31:17.968923+00:00
+acceptance_rate: "71.536%"
+collected_at: "2026-04-17T20:31:17.968923+00:00"
 ---
 
 ## 문제

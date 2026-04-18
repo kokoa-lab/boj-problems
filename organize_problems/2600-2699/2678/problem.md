@@ -1,13 +1,13 @@
 ---
-title: 에드삭 데이터 디코딩하기
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "에드삭 데이터 디코딩하기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 132
 accepted: 66
 solved_users: 57
-acceptance_rate: 53.271%
-collected_at: 2026-04-17T10:43:54.091843+00:00
+acceptance_rate: "53.271%"
+collected_at: "2026-04-17T10:43:54.091843+00:00"
 ---
 
 ## 문제

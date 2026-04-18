@@ -1,13 +1,13 @@
 ---
-title: 도망자 원숭이
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "도망자 원숭이"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 2475
 accepted: 733
 solved_users: 474
-acceptance_rate: 27.833%
-collected_at: 2026-04-17T10:31:33.899447+00:00
+acceptance_rate: "27.833%"
+collected_at: "2026-04-17T10:31:33.899447+00:00"
 ---
 
 ## 문제

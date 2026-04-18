@@ -1,13 +1,13 @@
 ---
-title: Adjacent Rooks
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Adjacent Rooks"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 37
 accepted: 25
 solved_users: 22
-acceptance_rate: 70.968%
-collected_at: 2026-04-17T15:46:44.577452+00:00
+acceptance_rate: "70.968%"
+collected_at: "2026-04-17T15:46:44.577452+00:00"
 ---
 
 ## 문제

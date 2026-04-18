@@ -1,13 +1,13 @@
 ---
-title: Y
-special_judge: false
-time_limit: 1.5 초 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "Y"
+special_judge: "false"
+time_limit: "1.5 초 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 658
 accepted: 239
 solved_users: 180
-acceptance_rate: 33.835%
-collected_at: 2026-04-17T17:10:56.098536+00:00
+acceptance_rate: "33.835%"
+collected_at: "2026-04-17T17:10:56.098536+00:00"
 ---
 
 ## 문제

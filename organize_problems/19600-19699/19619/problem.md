@@ -1,13 +1,13 @@
 ---
-title: 자매 도시
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "자매 도시"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 249
 accepted: 82
 solved_users: 63
-acceptance_rate: 34.054%
-collected_at: 2026-04-17T15:25:18.728550+00:00
+acceptance_rate: "34.054%"
+collected_at: "2026-04-17T15:25:18.728550+00:00"
 ---
 
 ## 문제

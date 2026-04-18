@@ -1,13 +1,13 @@
 ---
-title: Picnic Planning
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Picnic Planning"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 121
 accepted: 5
 solved_users: 5
-acceptance_rate: 5.435%
-collected_at: 2026-04-17T11:48:39.509494+00:00
+acceptance_rate: "5.435%"
+collected_at: "2026-04-17T11:48:39.509494+00:00"
 ---
 
 ## 문제

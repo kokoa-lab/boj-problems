@@ -1,13 +1,13 @@
 ---
-title: Routing a Marathon Race
-special_judge: false
-time_limit: 3 초
-memory_limit: 256 MB
+title: "Routing a Marathon Race"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "256 MB"
 submissions: 130
 accepted: 61
 solved_users: 58
-acceptance_rate: 49.573%
-collected_at: 2026-04-17T12:45:26.708338+00:00
+acceptance_rate: "49.573%"
+collected_at: "2026-04-17T12:45:26.708338+00:00"
 ---
 
 ## 문제

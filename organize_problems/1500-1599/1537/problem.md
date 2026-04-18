@@ -1,13 +1,13 @@
 ---
-title: 새로운 연산자
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "새로운 연산자"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 338
 accepted: 56
 solved_users: 32
-acceptance_rate: 20.513%
-collected_at: 2026-04-17T10:30:58.704945+00:00
+acceptance_rate: "20.513%"
+collected_at: "2026-04-17T10:30:58.704945+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Overwriting Game
-special_judge: true
-time_limit: 8 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "Overwriting Game"
+special_judge: "true"
+time_limit: "8 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 7
 accepted: 3
 solved_users: 2
-acceptance_rate: 40.000%
-collected_at: 2026-04-17T12:27:26.629003+00:00
+acceptance_rate: "40.000%"
+collected_at: "2026-04-17T12:27:26.629003+00:00"
 ---
 
 ## 문제

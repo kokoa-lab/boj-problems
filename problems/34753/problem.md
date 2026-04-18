@@ -1,13 +1,13 @@
 ---
-title: 백준 빙고 스피드러너
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "백준 빙고 스피드러너"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 123
 accepted: 51
 solved_users: 44
-acceptance_rate: 39.286%
-collected_at: 2026-04-17T20:47:49.797186+00:00
+acceptance_rate: "39.286%"
+collected_at: "2026-04-17T20:47:49.797186+00:00"
 ---
 
 ## 문제

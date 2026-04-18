@@ -1,13 +1,13 @@
 ---
-title: Antiprime Numbers
-special_judge: false
-time_limit: 3 초
-memory_limit: 512 MB
+title: "Antiprime Numbers"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "512 MB"
 submissions: 76
 accepted: 54
 solved_users: 39
-acceptance_rate: 72.222%
-collected_at: 2026-04-17T11:55:16.200006+00:00
+acceptance_rate: "72.222%"
+collected_at: "2026-04-17T11:55:16.200006+00:00"
 ---
 
 ## 문제

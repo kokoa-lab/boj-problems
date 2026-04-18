@@ -1,13 +1,13 @@
 ---
-title: Warp Points
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Warp Points"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 25
 accepted: 13
 solved_users: 12
-acceptance_rate: 57.143%
-collected_at: 2026-04-17T16:19:48.142151+00:00
+acceptance_rate: "57.143%"
+collected_at: "2026-04-17T16:19:48.142151+00:00"
 ---
 
 ## 문제

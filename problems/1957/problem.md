@@ -1,13 +1,13 @@
 ---
-title: 앉았다 일어나기
-special_judge: false
-time_limit: 10 초
-memory_limit: 128 MB
+title: "앉았다 일어나기"
+special_judge: "false"
+time_limit: "10 초"
+memory_limit: "128 MB"
 submissions: 169
 accepted: 56
 solved_users: 52
-acceptance_rate: 53.608%
-collected_at: 2026-04-17T10:36:20.341500+00:00
+acceptance_rate: "53.608%"
+collected_at: "2026-04-17T10:36:20.341500+00:00"
 ---
 
 ## 문제

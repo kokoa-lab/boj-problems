@@ -1,13 +1,13 @@
 ---
-title: Greedy Algorithm
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Greedy Algorithm"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 139
 accepted: 33
 solved_users: 25
-acceptance_rate: 22.523%
-collected_at: 2026-04-17T15:05:44.564268+00:00
+acceptance_rate: "22.523%"
+collected_at: "2026-04-17T15:05:44.564268+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Cyclic Marathon
-special_judge: true
-time_limit: 3 초
-memory_limit: 256 MB
+title: "Cyclic Marathon"
+special_judge: "true"
+time_limit: "3 초"
+memory_limit: "256 MB"
 submissions: 16
 accepted: 9
 solved_users: 8
-acceptance_rate: 53.333%
-collected_at: 2026-04-17T12:18:55.269479+00:00
+acceptance_rate: "53.333%"
+collected_at: "2026-04-17T12:18:55.269479+00:00"
 ---
 
 ## 문제

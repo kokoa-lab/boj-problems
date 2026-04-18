@@ -1,13 +1,13 @@
 ---
-title: Birthday Cake
-special_judge: false
-time_limit: 10 초 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "Birthday Cake"
+special_judge: "false"
+time_limit: "10 초 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 17
 accepted: 8
 solved_users: 7
-acceptance_rate: 70.000%
-collected_at: 2026-04-17T16:40:17.069287+00:00
+acceptance_rate: "70.000%"
+collected_at: "2026-04-17T16:40:17.069287+00:00"
 ---
 
 ## 문제

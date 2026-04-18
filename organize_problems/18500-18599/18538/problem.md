@@ -1,13 +1,13 @@
 ---
-title: Medium Hadron Collider
-special_judge: false
-time_limit: 4 초
-memory_limit: 512 MB
+title: "Medium Hadron Collider"
+special_judge: "false"
+time_limit: "4 초"
+memory_limit: "512 MB"
 submissions: 16
 accepted: 1
 solved_users: 1
-acceptance_rate: 100.000%
-collected_at: 2026-04-17T15:06:12.168491+00:00
+acceptance_rate: "100.000%"
+collected_at: "2026-04-17T15:06:12.168491+00:00"
 ---
 
 ## 문제

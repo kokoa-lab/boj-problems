@@ -1,13 +1,13 @@
 ---
-title: Strfry
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "Strfry"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 20795
 accepted: 9132
 solved_users: 7098
-acceptance_rate: 42.293%
-collected_at: 2026-04-17T12:39:43.867266+00:00
+acceptance_rate: "42.293%"
+collected_at: "2026-04-17T12:39:43.867266+00:00"
 ---
 
 ## 문제

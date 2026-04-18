@@ -1,13 +1,13 @@
 ---
-title: 나의 행렬곱셈 답사기
-special_judge: true
-time_limit: 1 초
-memory_limit: 128 MB
+title: "나의 행렬곱셈 답사기"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 924
 accepted: 604
 solved_users: 523
-acceptance_rate: 65.212%
-collected_at: 2026-04-17T13:01:29.762612+00:00
+acceptance_rate: "65.212%"
+collected_at: "2026-04-17T13:01:29.762612+00:00"
 ---
 
 ## 문제

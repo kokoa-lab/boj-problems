@@ -1,13 +1,13 @@
 ---
-title: Star Wars (Large)
-special_judge: true
-time_limit: 30 초
-memory_limit: 512 MB
+title: "Star Wars (Large)"
+special_judge: "true"
+time_limit: "30 초"
+memory_limit: "512 MB"
 submissions: 57
 accepted: 17
 solved_users: 16
-acceptance_rate: 38.095%
-collected_at: 2026-04-17T13:00:04.879262+00:00
+acceptance_rate: "38.095%"
+collected_at: "2026-04-17T13:00:04.879262+00:00"
 ---
 
 ## 문제

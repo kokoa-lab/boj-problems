@@ -1,13 +1,13 @@
 ---
-title: Good morning!
-special_judge: true
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Good morning!"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 214
 accepted: 122
 solved_users: 110
-acceptance_rate: 56.995%
-collected_at: 2026-04-17T12:24:45.187895+00:00
+acceptance_rate: "56.995%"
+collected_at: "2026-04-17T12:24:45.187895+00:00"
 ---
 
 ## 문제

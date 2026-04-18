@@ -1,13 +1,13 @@
 ---
-title: Ingredients
-special_judge: false
-time_limit: 4 초
-memory_limit: 512 MB
+title: "Ingredients"
+special_judge: "false"
+time_limit: "4 초"
+memory_limit: "512 MB"
 submissions: 124
 accepted: 58
 solved_users: 50
-acceptance_rate: 45.872%
-collected_at: 2026-04-17T13:58:55.102751+00:00
+acceptance_rate: "45.872%"
+collected_at: "2026-04-17T13:58:55.102751+00:00"
 ---
 
 ## 문제

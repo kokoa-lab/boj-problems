@@ -1,13 +1,13 @@
 ---
-title: 추석은 언제나 좋아
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "추석은 언제나 좋아"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 779
 accepted: 585
 solved_users: 548
-acceptance_rate: 76.858%
-collected_at: 2026-04-17T20:47:43.181837+00:00
+acceptance_rate: "76.858%"
+collected_at: "2026-04-17T20:47:43.181837+00:00"
 ---
 
 ## 문제

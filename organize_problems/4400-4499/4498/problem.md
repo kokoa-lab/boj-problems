@@ -1,13 +1,13 @@
 ---
-title: Geek Challenge [SKRZAT] (Base Minus Two)
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Geek Challenge [SKRZAT] (Base Minus Two)"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 43
 accepted: 23
 solved_users: 23
-acceptance_rate: 60.526%
-collected_at: 2026-04-17T11:02:50.121864+00:00
+acceptance_rate: "60.526%"
+collected_at: "2026-04-17T11:02:50.121864+00:00"
 ---
 
 ## 문제

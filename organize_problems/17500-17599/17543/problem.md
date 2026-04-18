@@ -1,13 +1,13 @@
 ---
-title: Bracket Sequence
-special_judge: false
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "Bracket Sequence"
+special_judge: "false"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 198
 accepted: 92
 solved_users: 84
-acceptance_rate: 47.727%
-collected_at: 2026-04-17T14:41:31.786784+00:00
+acceptance_rate: "47.727%"
+collected_at: "2026-04-17T14:41:31.786784+00:00"
 ---
 
 ## 문제

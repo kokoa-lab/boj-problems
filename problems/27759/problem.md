@@ -1,13 +1,13 @@
 ---
-title: Costume Change
-special_judge: false
-time_limit: 15 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Costume Change"
+special_judge: "false"
+time_limit: "15 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 38
 accepted: 30
 solved_users: 14
-acceptance_rate: 70.000%
-collected_at: 2026-04-17T18:10:28.848844+00:00
+acceptance_rate: "70.000%"
+collected_at: "2026-04-17T18:10:28.848844+00:00"
 ---
 
 ## 문제

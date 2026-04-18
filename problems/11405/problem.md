@@ -1,13 +1,13 @@
 ---
-title: 책 구매하기
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "책 구매하기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 2718
 accepted: 1736
 solved_users: 1220
-acceptance_rate: 64.756%
-collected_at: 2026-04-17T12:40:18.531770+00:00
+acceptance_rate: "64.756%"
+collected_at: "2026-04-17T12:40:18.531770+00:00"
 ---
 
 ## 문제

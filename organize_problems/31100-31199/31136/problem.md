@@ -1,13 +1,13 @@
 ---
-title: AC Automaton
-special_judge: false
-time_limit: 13 초
-memory_limit: 1024 MB
+title: "AC Automaton"
+special_judge: "false"
+time_limit: "13 초"
+memory_limit: "1024 MB"
 submissions: 2
 accepted: 2
 solved_users: 1
-acceptance_rate: 100.000%
-collected_at: 2026-04-17T19:21:58.140647+00:00
+acceptance_rate: "100.000%"
+collected_at: "2026-04-17T19:21:58.140647+00:00"
 ---
 
 ## 문제

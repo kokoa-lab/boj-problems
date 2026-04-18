@@ -1,13 +1,13 @@
 ---
-title: Non-Interactive Guessing Number
-special_judge: true
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Non-Interactive Guessing Number"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 91
 accepted: 29
 solved_users: 18
-acceptance_rate: 33.962%
-collected_at: 2026-04-17T14:07:36.134489+00:00
+acceptance_rate: "33.962%"
+collected_at: "2026-04-17T14:07:36.134489+00:00"
 ---
 
 ## 문제

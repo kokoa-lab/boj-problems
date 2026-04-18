@@ -1,13 +1,13 @@
 ---
-title: 수 게임
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "수 게임"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 382
 accepted: 167
 solved_users: 134
-acceptance_rate: 51.341%
-collected_at: 2026-04-17T10:37:33.118421+00:00
+acceptance_rate: "51.341%"
+collected_at: "2026-04-17T10:37:33.118421+00:00"
 ---
 
 ## 문제

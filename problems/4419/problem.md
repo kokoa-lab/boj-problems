@@ -1,13 +1,13 @@
 ---
-title: Australian Voting
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Australian Voting"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 2222
 accepted: 619
 solved_users: 163
-acceptance_rate: 24.148%
-collected_at: 2026-04-17T11:01:21.513948+00:00
+acceptance_rate: "24.148%"
+collected_at: "2026-04-17T11:01:21.513948+00:00"
 ---
 
 ## 문제

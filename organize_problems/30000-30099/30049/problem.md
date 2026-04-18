@@ -1,13 +1,13 @@
 ---
-title: 영업의 신
-special_judge: false
-time_limit: 1.5 초
-memory_limit: 1024 MB
+title: "영업의 신"
+special_judge: "false"
+time_limit: "1.5 초"
+memory_limit: "1024 MB"
 submissions: 320
 accepted: 101
 solved_users: 89
-acceptance_rate: 33.969%
-collected_at: 2026-04-17T18:58:01.287753+00:00
+acceptance_rate: "33.969%"
+collected_at: "2026-04-17T18:58:01.287753+00:00"
 ---
 
 ## 문제

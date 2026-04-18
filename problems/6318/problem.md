@@ -1,13 +1,13 @@
 ---
-title: Box of Bricks
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Box of Bricks"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 800
 accepted: 332
 solved_users: 286
-acceptance_rate: 39.833%
-collected_at: 2026-04-17T11:24:59.034569+00:00
+acceptance_rate: "39.833%"
+collected_at: "2026-04-17T11:24:59.034569+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Simon the Spider
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "Simon the Spider"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 44
 accepted: 12
 solved_users: 12
-acceptance_rate: 31.579%
-collected_at: 2026-04-17T11:31:30.769832+00:00
+acceptance_rate: "31.579%"
+collected_at: "2026-04-17T11:31:30.769832+00:00"
 ---
 
 ## 문제

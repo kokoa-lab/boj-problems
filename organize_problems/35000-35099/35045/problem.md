@@ -1,13 +1,13 @@
 ---
-title: Greta's Game
-special_judge: false
-time_limit: 3 초
-memory_limit: 2048 MB
+title: "Greta's Game"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "2048 MB"
 submissions: 17
 accepted: 11
 solved_users: 11
-acceptance_rate: 64.706%
-collected_at: 2026-04-17T20:54:30.254102+00:00
+acceptance_rate: "64.706%"
+collected_at: "2026-04-17T20:54:30.254102+00:00"
 ---
 
 ## 문제

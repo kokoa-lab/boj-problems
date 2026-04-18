@@ -1,13 +1,13 @@
 ---
-title: Trokut
-special_judge: false
-time_limit: 0.5 초
-memory_limit: 256 MB
+title: "Trokut"
+special_judge: "false"
+time_limit: "0.5 초"
+memory_limit: "256 MB"
 submissions: 22
 accepted: 13
 solved_users: 12
-acceptance_rate: 60.000%
-collected_at: 2026-04-17T13:26:27.375995+00:00
+acceptance_rate: "60.000%"
+collected_at: "2026-04-17T13:26:27.375995+00:00"
 ---
 
 ## 문제

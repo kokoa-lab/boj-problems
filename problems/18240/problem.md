@@ -1,13 +1,13 @@
 ---
-title: 이진 탐색 트리 복원하기
-special_judge: true
-time_limit: 1 초
-memory_limit: 512 MB
+title: "이진 탐색 트리 복원하기"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 553
 accepted: 185
 solved_users: 143
-acceptance_rate: 42.560%
-collected_at: 2026-04-17T14:57:47.467102+00:00
+acceptance_rate: "42.560%"
+collected_at: "2026-04-17T14:57:47.467102+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 사과를 더 많이 먹자
-special_judge: false
-time_limit: 3 초
-memory_limit: 512 MB
+title: "사과를 더 많이 먹자"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "512 MB"
 submissions: 190
 accepted: 37
 solved_users: 26
-acceptance_rate: 22.807%
-collected_at: 2026-04-17T17:25:43.075404+00:00
+acceptance_rate: "22.807%"
+collected_at: "2026-04-17T17:25:43.075404+00:00"
 ---
 
 ## 문제

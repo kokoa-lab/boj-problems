@@ -1,13 +1,13 @@
 ---
-title: 두 로봇
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "두 로봇"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 9451
 accepted: 3513
 solved_users: 2597
-acceptance_rate: 37.852%
-collected_at: 2026-04-17T14:09:21.741831+00:00
+acceptance_rate: "37.852%"
+collected_at: "2026-04-17T14:09:21.741831+00:00"
 ---
 
 ## 문제

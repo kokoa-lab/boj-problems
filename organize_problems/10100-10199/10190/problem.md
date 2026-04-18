@@ -1,13 +1,13 @@
 ---
-title: Acronyms
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Acronyms"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 118
 accepted: 106
 solved_users: 94
-acceptance_rate: 92.157%
-collected_at: 2026-04-17T12:20:12.077230+00:00
+acceptance_rate: "92.157%"
+collected_at: "2026-04-17T12:20:12.077230+00:00"
 ---
 
 ## 문제

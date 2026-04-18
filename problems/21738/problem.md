@@ -1,13 +1,13 @@
 ---
-title: 얼음깨기 펭귄
-special_judge: false
-time_limit: 1 초  ( 하단 참고 )
-memory_limit: 1024 MB
+title: "얼음깨기 펭귄"
+special_judge: "false"
+time_limit: "1 초  ( 하단 참고 )"
+memory_limit: "1024 MB"
 submissions: 1219
 accepted: 575
 solved_users: 429
-acceptance_rate: 46.885%
-collected_at: 2026-04-17T16:05:56.898938+00:00
+acceptance_rate: "46.885%"
+collected_at: "2026-04-17T16:05:56.898938+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: GPA
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "GPA"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 33
 accepted: 11
 solved_users: 10
-acceptance_rate: 32.258%
-collected_at: 2026-04-17T14:44:29.714353+00:00
+acceptance_rate: "32.258%"
+collected_at: "2026-04-17T14:44:29.714353+00:00"
 ---
 
 ## 문제

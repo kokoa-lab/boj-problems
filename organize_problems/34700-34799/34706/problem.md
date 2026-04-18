@@ -1,13 +1,13 @@
 ---
-title: dongshop
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "dongshop"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 248
 accepted: 147
 solved_users: 131
-acceptance_rate: 63.902%
-collected_at: 2026-04-17T20:46:33.118854+00:00
+acceptance_rate: "63.902%"
+collected_at: "2026-04-17T20:46:33.118854+00:00"
 ---
 
 ## 문제

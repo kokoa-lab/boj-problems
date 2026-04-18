@@ -1,13 +1,13 @@
 ---
-title: Marathon
-special_judge: true
-time_limit: 0.2 초
-memory_limit: 256 MB
+title: "Marathon"
+special_judge: "true"
+time_limit: "0.2 초"
+memory_limit: "256 MB"
 submissions: 34
 accepted: 7
 solved_users: 7
-acceptance_rate: 26.923%
-collected_at: 2026-04-17T13:20:56.643956+00:00
+acceptance_rate: "26.923%"
+collected_at: "2026-04-17T13:20:56.643956+00:00"
 ---
 
 ## 문제

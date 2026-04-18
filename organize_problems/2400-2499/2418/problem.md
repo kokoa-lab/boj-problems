@@ -1,13 +1,13 @@
 ---
-title: 단어 격자
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "단어 격자"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 734
 accepted: 323
 solved_users: 277
-acceptance_rate: 46.949%
-collected_at: 2026-04-17T10:41:27.285474+00:00
+acceptance_rate: "46.949%"
+collected_at: "2026-04-17T10:41:27.285474+00:00"
 ---
 
 ## 문제

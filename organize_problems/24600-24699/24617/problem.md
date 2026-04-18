@@ -1,13 +1,13 @@
 ---
-title: Redistributing Gifts
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Redistributing Gifts"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 277
 accepted: 157
 solved_users: 138
-acceptance_rate: 60.262%
-collected_at: 2026-04-17T17:12:04.973130+00:00
+acceptance_rate: "60.262%"
+collected_at: "2026-04-17T17:12:04.973130+00:00"
 ---
 
 ## 문제

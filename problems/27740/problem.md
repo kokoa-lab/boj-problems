@@ -1,13 +1,13 @@
 ---
-title: 시프트 연산
-special_judge: true
-time_limit: 2 초
-memory_limit: 512 MB
+title: "시프트 연산"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 983
 accepted: 231
 solved_users: 187
-acceptance_rate: 27.663%
-collected_at: 2026-04-17T18:09:58.933019+00:00
+acceptance_rate: "27.663%"
+collected_at: "2026-04-17T18:09:58.933019+00:00"
 ---
 
 ## 문제

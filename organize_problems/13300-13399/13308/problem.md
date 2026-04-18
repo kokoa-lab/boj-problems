@@ -1,13 +1,13 @@
 ---
-title: 주유소
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "주유소"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 7566
 accepted: 2127
 solved_users: 1348
-acceptance_rate: 24.940%
-collected_at: 2026-04-17T13:11:18.180894+00:00
+acceptance_rate: "24.940%"
+collected_at: "2026-04-17T13:11:18.180894+00:00"
 ---
 
 ## 문제

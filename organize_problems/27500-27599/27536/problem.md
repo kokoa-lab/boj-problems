@@ -1,13 +1,13 @@
 ---
-title: Stone Arranging 2
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Stone Arranging 2"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 196
 accepted: 126
 solved_users: 104
-acceptance_rate: 65.823%
-collected_at: 2026-04-17T18:05:53.817709+00:00
+acceptance_rate: "65.823%"
+collected_at: "2026-04-17T18:05:53.817709+00:00"
 ---
 
 ## 문제

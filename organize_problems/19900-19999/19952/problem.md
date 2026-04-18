@@ -1,13 +1,13 @@
 ---
-title: 인성 문제 있어??
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "인성 문제 있어??"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 2589
 accepted: 566
 solved_users: 440
-acceptance_rate: 22.506%
-collected_at: 2026-04-17T15:29:46.985811+00:00
+acceptance_rate: "22.506%"
+collected_at: "2026-04-17T15:29:46.985811+00:00"
 ---
 
 ## 문제

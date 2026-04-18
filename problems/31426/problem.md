@@ -1,13 +1,13 @@
 ---
-title: 신촌방위본부: 지하 벙커의 비밀
-special_judge: false
-time_limit: 10 초 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "신촌방위본부: 지하 벙커의 비밀"
+special_judge: "false"
+time_limit: "10 초 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 94
 accepted: 16
 solved_users: 8
-acceptance_rate: 11.268%
-collected_at: 2026-04-17T19:27:56.203306+00:00
+acceptance_rate: "11.268%"
+collected_at: "2026-04-17T19:27:56.203306+00:00"
 ---
 
 ## 문제

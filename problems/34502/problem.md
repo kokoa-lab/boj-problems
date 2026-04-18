@@ -1,13 +1,13 @@
 ---
-title: Indivisible Inversions
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "Indivisible Inversions"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 15
 accepted: 6
 solved_users: 6
-acceptance_rate: 40.000%
-collected_at: 2026-04-17T20:41:12.950860+00:00
+acceptance_rate: "40.000%"
+collected_at: "2026-04-17T20:41:12.950860+00:00"
 ---
 
 ## 문제

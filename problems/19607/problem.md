@@ -1,13 +1,13 @@
 ---
-title: Surmising a Sprinter’s Speed
-special_judge: true
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Surmising a Sprinter’s Speed"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 125
 accepted: 92
 solved_users: 64
-acceptance_rate: 83.117%
-collected_at: 2026-04-17T15:24:50.379786+00:00
+acceptance_rate: "83.117%"
+collected_at: "2026-04-17T15:24:50.379786+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Checking Answers to Test
-special_judge: true
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Checking Answers to Test"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 110
 accepted: 51
 solved_users: 44
-acceptance_rate: 44.898%
-collected_at: 2026-04-17T15:26:53.013061+00:00
+acceptance_rate: "44.898%"
+collected_at: "2026-04-17T15:26:53.013061+00:00"
 ---
 
 ## 문제

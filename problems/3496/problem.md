@@ -1,13 +1,13 @@
 ---
-title: Binary Encoding
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Binary Encoding"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 66
 accepted: 42
 solved_users: 34
-acceptance_rate: 68.000%
-collected_at: 2026-04-17T10:49:17.522306+00:00
+acceptance_rate: "68.000%"
+collected_at: "2026-04-17T10:49:17.522306+00:00"
 ---
 
 ## 문제

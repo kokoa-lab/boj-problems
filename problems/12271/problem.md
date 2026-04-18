@@ -1,13 +1,13 @@
 ---
-title: Hex (Large)
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Hex (Large)"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 57
 accepted: 14
 solved_users: 13
-acceptance_rate: 25.490%
-collected_at: 2026-04-17T12:52:51.613617+00:00
+acceptance_rate: "25.490%"
+collected_at: "2026-04-17T12:52:51.613617+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 라디오
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "라디오"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 5559
 accepted: 3494
 solved_users: 3154
-acceptance_rate: 63.512%
-collected_at: 2026-04-17T10:46:56.780124+00:00
+acceptance_rate: "63.512%"
+collected_at: "2026-04-17T10:46:56.780124+00:00"
 ---
 
 ## 문제

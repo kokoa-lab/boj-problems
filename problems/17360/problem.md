@@ -1,13 +1,13 @@
 ---
-title: 팰린드롬과 관련된 수열의 개수
-special_judge: false
-time_limit: 0.25 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "팰린드롬과 관련된 수열의 개수"
+special_judge: "false"
+time_limit: "0.25 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 311
 accepted: 142
 solved_users: 109
-acceptance_rate: 40.672%
-collected_at: 2026-04-17T14:37:53.098749+00:00
+acceptance_rate: "40.672%"
+collected_at: "2026-04-17T14:37:53.098749+00:00"
 ---
 
 ## 문제

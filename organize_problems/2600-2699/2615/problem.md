@@ -1,13 +1,13 @@
 ---
-title: 오목
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "오목"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 50159
 accepted: 10241
 solved_users: 7075
-acceptance_rate: 19.390%
-collected_at: 2026-04-17T10:43:20.501626+00:00
+acceptance_rate: "19.390%"
+collected_at: "2026-04-17T10:43:20.501626+00:00"
 ---
 
 ## 문제

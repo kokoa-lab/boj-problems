@@ -1,13 +1,13 @@
 ---
-title: Basic Basis
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Basic Basis"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 40
 accepted: 16
 solved_users: 14
-acceptance_rate: 46.667%
-collected_at: 2026-04-17T15:49:51.954429+00:00
+acceptance_rate: "46.667%"
+collected_at: "2026-04-17T15:49:51.954429+00:00"
 ---
 
 ## 문제

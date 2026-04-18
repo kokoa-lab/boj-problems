@@ -1,13 +1,13 @@
 ---
-title: 가장 큰 원
-special_judge: false
-time_limit: 5 초
-memory_limit: 128 MB
+title: "가장 큰 원"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "128 MB"
 submissions: 18
 accepted: 8
 solved_users: 5
-acceptance_rate: 50.000%
-collected_at: 2026-04-17T10:51:23.103498+00:00
+acceptance_rate: "50.000%"
+collected_at: "2026-04-17T10:51:23.103498+00:00"
 ---
 
 ## 문제

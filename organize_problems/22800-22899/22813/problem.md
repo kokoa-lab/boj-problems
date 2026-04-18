@@ -1,13 +1,13 @@
 ---
-title: Building a Space Station
-special_judge: true
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Building a Space Station"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 21
 accepted: 18
 solved_users: 16
-acceptance_rate: 84.211%
-collected_at: 2026-04-17T16:36:32.219428+00:00
+acceptance_rate: "84.211%"
+collected_at: "2026-04-17T16:36:32.219428+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 평가
-special_judge: true
-time_limit: 1 초
-memory_limit: 512 MB
+title: "평가"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 917
 accepted: 626
 solved_users: 560
-acceptance_rate: 75.676%
-collected_at: 2026-04-17T14:30:16.692820+00:00
+acceptance_rate: "75.676%"
+collected_at: "2026-04-17T14:30:16.692820+00:00"
 ---
 
 ## 문제

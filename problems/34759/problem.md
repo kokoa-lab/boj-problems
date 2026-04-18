@@ -1,13 +1,13 @@
 ---
-title: 얼룩말과 사자
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "얼룩말과 사자"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 557
 accepted: 445
 solved_users: 412
-acceptance_rate: 80.000%
-collected_at: 2026-04-17T20:47:53.529398+00:00
+acceptance_rate: "80.000%"
+collected_at: "2026-04-17T20:47:53.529398+00:00"
 ---
 
 ## 문제

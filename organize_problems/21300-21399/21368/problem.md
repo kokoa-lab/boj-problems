@@ -1,13 +1,13 @@
 ---
-title: Ekorren i trädet
-special_judge: false
-time_limit: 4 초
-memory_limit: 1024 MB
+title: "Ekorren i trädet"
+special_judge: "false"
+time_limit: "4 초"
+memory_limit: "1024 MB"
 submissions: 6
 accepted: 2
 solved_users: 2
-acceptance_rate: 33.333%
-collected_at: 2026-04-17T15:57:11.496059+00:00
+acceptance_rate: "33.333%"
+collected_at: "2026-04-17T15:57:11.496059+00:00"
 ---
 
 ## 문제

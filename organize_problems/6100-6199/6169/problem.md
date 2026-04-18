@@ -1,13 +1,13 @@
 ---
-title: Long Distance Racing
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Long Distance Racing"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 288
 accepted: 180
 solved_users: 158
-acceptance_rate: 64.490%
-collected_at: 2026-04-17T11:21:48.033957+00:00
+acceptance_rate: "64.490%"
+collected_at: "2026-04-17T11:21:48.033957+00:00"
 ---
 
 ## 문제

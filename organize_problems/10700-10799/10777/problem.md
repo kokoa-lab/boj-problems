@@ -1,13 +1,13 @@
 ---
-title: 허니버터칩
-special_judge: false
-time_limit: 5 초
-memory_limit: 256 MB
+title: "허니버터칩"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "256 MB"
 submissions: 617
 accepted: 181
 solved_users: 137
-acceptance_rate: 27.789%
-collected_at: 2026-04-17T12:29:23.545743+00:00
+acceptance_rate: "27.789%"
+collected_at: "2026-04-17T12:29:23.545743+00:00"
 ---
 
 ## 문제

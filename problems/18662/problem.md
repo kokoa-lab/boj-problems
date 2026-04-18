@@ -1,13 +1,13 @@
 ---
-title: Alexey the Sage of The Six Paths
-special_judge: true
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Alexey the Sage of The Six Paths"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 38
 accepted: 16
 solved_users: 4
-acceptance_rate: 21.053%
-collected_at: 2026-04-17T15:07:44.000512+00:00
+acceptance_rate: "21.053%"
+collected_at: "2026-04-17T15:07:44.000512+00:00"
 ---
 
 ## 문제

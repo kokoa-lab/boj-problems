@@ -1,13 +1,13 @@
 ---
-title: A+B - 6
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "A+B - 6"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 50858
 accepted: 34533
 solved_users: 30566
-acceptance_rate: 69.110%
-collected_at: 2026-04-17T12:32:21.453603+00:00
+acceptance_rate: "69.110%"
+collected_at: "2026-04-17T12:32:21.453603+00:00"
 ---
 
 ## 문제

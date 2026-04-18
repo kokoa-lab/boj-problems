@@ -1,13 +1,13 @@
 ---
-title: Value of the Array
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Value of the Array"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 27
 accepted: 15
 solved_users: 14
-acceptance_rate: 70.000%
-collected_at: 2026-04-17T15:20:53.556514+00:00
+acceptance_rate: "70.000%"
+collected_at: "2026-04-17T15:20:53.556514+00:00"
 ---
 
 ## 문제

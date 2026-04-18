@@ -1,13 +1,13 @@
 ---
-title: Cactus Jubilee
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Cactus Jubilee"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 58
 accepted: 20
 solved_users: 18
-acceptance_rate: 32.727%
-collected_at: 2026-04-17T12:45:07.148117+00:00
+acceptance_rate: "32.727%"
+collected_at: "2026-04-17T12:45:07.148117+00:00"
 ---
 
 ## 문제

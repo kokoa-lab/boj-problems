@@ -1,13 +1,13 @@
 ---
-title: 피이보나치 트리
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "피이보나치 트리"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 622
 accepted: 230
 solved_users: 192
-acceptance_rate: 39.834%
-collected_at: 2026-04-17T10:31:55.861351+00:00
+acceptance_rate: "39.834%"
+collected_at: "2026-04-17T10:31:55.861351+00:00"
 ---
 
 ## 문제

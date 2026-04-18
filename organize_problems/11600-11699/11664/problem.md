@@ -1,13 +1,13 @@
 ---
-title: 선분과 점
-special_judge: true
-time_limit: 1 초
-memory_limit: 256 MB
+title: "선분과 점"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 2351
 accepted: 1299
 solved_users: 939
-acceptance_rate: 55.398%
-collected_at: 2026-04-17T12:43:50.596022+00:00
+acceptance_rate: "55.398%"
+collected_at: "2026-04-17T12:43:50.596022+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 던전 지도
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "던전 지도"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 825
 accepted: 310
 solved_users: 257
-acceptance_rate: 37.683%
-collected_at: 2026-04-17T15:22:37.576058+00:00
+acceptance_rate: "37.683%"
+collected_at: "2026-04-17T15:22:37.576058+00:00"
 ---
 
 ## 문제

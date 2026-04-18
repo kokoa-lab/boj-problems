@@ -1,13 +1,13 @@
 ---
-title: 일기예보
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "일기예보"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 1573
 accepted: 425
 solved_users: 269
-acceptance_rate: 21.711%
-collected_at: 2026-04-17T13:38:31.065493+00:00
+acceptance_rate: "21.711%"
+collected_at: "2026-04-17T13:38:31.065493+00:00"
 ---
 
 ## 문제

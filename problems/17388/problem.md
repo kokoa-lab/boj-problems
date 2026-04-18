@@ -1,13 +1,13 @@
 ---
-title: 와글와글 숭고한
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "와글와글 숭고한"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 11962
 accepted: 8347
 solved_users: 7654
-acceptance_rate: 70.583%
-collected_at: 2026-04-17T14:38:17.979959+00:00
+acceptance_rate: "70.583%"
+collected_at: "2026-04-17T14:38:17.979959+00:00"
 ---
 
 ## 문제

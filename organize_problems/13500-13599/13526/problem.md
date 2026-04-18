@@ -1,13 +1,13 @@
 ---
-title: Gondolas
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Gondolas"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 24
 accepted: 8
 solved_users: 6
-acceptance_rate: 35.294%
-collected_at: 2026-04-17T13:14:35.188951+00:00
+acceptance_rate: "35.294%"
+collected_at: "2026-04-17T13:14:35.188951+00:00"
 ---
 
 ## 문제

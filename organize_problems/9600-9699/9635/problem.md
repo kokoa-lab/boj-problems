@@ -1,13 +1,13 @@
 ---
-title: Balloons Colors
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Balloons Colors"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 471
 accepted: 419
 solved_users: 386
-acceptance_rate: 90.398%
-collected_at: 2026-04-17T12:12:13.345495+00:00
+acceptance_rate: "90.398%"
+collected_at: "2026-04-17T12:12:13.345495+00:00"
 ---
 
 ## 문제

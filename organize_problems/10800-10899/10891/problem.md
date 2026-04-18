@@ -1,13 +1,13 @@
 ---
-title: Cactus? Not cactus?
-special_judge: false
-time_limit: 1 초
-memory_limit: 32 MB
+title: "Cactus? Not cactus?"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "32 MB"
 submissions: 1523
 accepted: 531
 solved_users: 377
-acceptance_rate: 36.602%
-collected_at: 2026-04-17T12:31:11.906370+00:00
+acceptance_rate: "36.602%"
+collected_at: "2026-04-17T12:31:11.906370+00:00"
 ---
 
 ## 문제

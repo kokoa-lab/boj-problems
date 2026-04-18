@@ -1,13 +1,13 @@
 ---
-title: Expected Shopping
-special_judge: false
-time_limit: 4 초
-memory_limit: 256 MB
+title: "Expected Shopping"
+special_judge: "false"
+time_limit: "4 초"
+memory_limit: "256 MB"
 submissions: 4
 accepted: 0
 solved_users: 0
-acceptance_rate: 0.000%
-collected_at: 2026-04-17T15:17:12.952489+00:00
+acceptance_rate: "0.000%"
+collected_at: "2026-04-17T15:17:12.952489+00:00"
 ---
 
 ## 문제

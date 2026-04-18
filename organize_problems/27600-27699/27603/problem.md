@@ -1,13 +1,13 @@
 ---
-title: Train Splitting
-special_judge: true
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Train Splitting"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 96
 accepted: 50
 solved_users: 45
-acceptance_rate: 51.136%
-collected_at: 2026-04-17T18:07:23.477055+00:00
+acceptance_rate: "51.136%"
+collected_at: "2026-04-17T18:07:23.477055+00:00"
 ---
 
 ## 문제

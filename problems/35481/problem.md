@@ -1,13 +1,13 @@
 ---
-title: 루미와 블록 쌓기 게임
-special_judge: false
-time_limit: 2.9 초
-memory_limit: 329 MB
+title: "루미와 블록 쌓기 게임"
+special_judge: "false"
+time_limit: "2.9 초"
+memory_limit: "329 MB"
 submissions: 76
 accepted: 40
 solved_users: 36
-acceptance_rate: 67.925%
-collected_at: 2026-04-17T21:09:58.344686+00:00
+acceptance_rate: "67.925%"
+collected_at: "2026-04-17T21:09:58.344686+00:00"
 ---
 
 ## 문제

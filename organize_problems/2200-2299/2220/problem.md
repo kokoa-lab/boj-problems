@@ -1,13 +1,13 @@
 ---
-title: 힙 정렬
-special_judge: true
-time_limit: 2 초
-memory_limit: 128 MB
+title: "힙 정렬"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 1867
 accepted: 884
 solved_users: 687
-acceptance_rate: 56.036%
-collected_at: 2026-04-17T10:39:40.229629+00:00
+acceptance_rate: "56.036%"
+collected_at: "2026-04-17T10:39:40.229629+00:00"
 ---
 
 ## 문제

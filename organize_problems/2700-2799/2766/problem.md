@@ -1,13 +1,13 @@
 ---
-title: Candy Sharing Game
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Candy Sharing Game"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 131
 accepted: 103
 solved_users: 86
-acceptance_rate: 78.899%
-collected_at: 2026-04-17T10:44:41.808554+00:00
+acceptance_rate: "78.899%"
+collected_at: "2026-04-17T10:44:41.808554+00:00"
 ---
 
 ## 문제

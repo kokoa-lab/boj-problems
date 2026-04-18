@@ -1,13 +1,13 @@
 ---
-title: 크냐?
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "크냐?"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 62590
 accepted: 31029
 solved_users: 28830
-acceptance_rate: 50.560%
-collected_at: 2026-04-17T10:55:55.258164+00:00
+acceptance_rate: "50.560%"
+collected_at: "2026-04-17T10:55:55.258164+00:00"
 ---
 
 ## 문제

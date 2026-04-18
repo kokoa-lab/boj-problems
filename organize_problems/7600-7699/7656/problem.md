@@ -1,13 +1,13 @@
 ---
-title: 만능 오라클
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "만능 오라클"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 1705
 accepted: 370
 solved_users: 319
-acceptance_rate: 25.726%
-collected_at: 2026-04-17T11:51:35.530102+00:00
+acceptance_rate: "25.726%"
+collected_at: "2026-04-17T11:51:35.530102+00:00"
 ---
 
 ## 문제

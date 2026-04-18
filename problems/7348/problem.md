@@ -1,13 +1,13 @@
 ---
-title: 테이블 옮기기
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "테이블 옮기기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 1107
 accepted: 300
 solved_users: 248
-acceptance_rate: 29.040%
-collected_at: 2026-04-17T11:48:32.158909+00:00
+acceptance_rate: "29.040%"
+collected_at: "2026-04-17T11:48:32.158909+00:00"
 ---
 
 ## 문제

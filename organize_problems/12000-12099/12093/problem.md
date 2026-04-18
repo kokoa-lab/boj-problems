@@ -1,13 +1,13 @@
 ---
-title: 최댓값은 곧 페널티 감소
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "최댓값은 곧 페널티 감소"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 12754
 accepted: 12471
 solved_users: 429
-acceptance_rate: 3.973%
-collected_at: 2026-04-17T12:50:04.707781+00:00
+acceptance_rate: "3.973%"
+collected_at: "2026-04-17T12:50:04.707781+00:00"
 ---
 
 ## 문제

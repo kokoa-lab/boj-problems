@@ -1,13 +1,13 @@
 ---
-title: Date bugs
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Date bugs"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 99
 accepted: 53
 solved_users: 51
-acceptance_rate: 55.435%
-collected_at: 2026-04-17T11:25:33.163190+00:00
+acceptance_rate: "55.435%"
+collected_at: "2026-04-17T11:25:33.163190+00:00"
 ---
 
 ## 문제

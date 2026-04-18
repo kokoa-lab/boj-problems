@@ -1,13 +1,13 @@
 ---
-title: Sunny Days
-special_judge: false
-time_limit: 1 초
-memory_limit: 2048 MB
+title: "Sunny Days"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "2048 MB"
 submissions: 90
 accepted: 30
 solved_users: 24
-acceptance_rate: 35.294%
-collected_at: 2026-04-17T20:39:32.952284+00:00
+acceptance_rate: "35.294%"
+collected_at: "2026-04-17T20:39:32.952284+00:00"
 ---
 
 ## 문제

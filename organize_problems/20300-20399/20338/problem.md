@@ -1,13 +1,13 @@
 ---
-title: Jigsaw
-special_judge: true
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Jigsaw"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 316
 accepted: 112
 solved_users: 100
-acceptance_rate: 35.842%
-collected_at: 2026-04-17T15:35:21.627251+00:00
+acceptance_rate: "35.842%"
+collected_at: "2026-04-17T15:35:21.627251+00:00"
 ---
 
 ## 문제

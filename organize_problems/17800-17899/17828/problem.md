@@ -1,13 +1,13 @@
 ---
-title: 문자열 화폐
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "문자열 화폐"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 2903
 accepted: 991
 solved_users: 804
-acceptance_rate: 33.682%
-collected_at: 2026-04-17T14:48:03.366534+00:00
+acceptance_rate: "33.682%"
+collected_at: "2026-04-17T14:48:03.366534+00:00"
 ---
 
 ## 문제

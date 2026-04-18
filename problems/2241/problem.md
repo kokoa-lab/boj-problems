@@ -1,13 +1,13 @@
 ---
-title: 카멜롯
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "카멜롯"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 167
 accepted: 15
 solved_users: 9
-acceptance_rate: 10.112%
-collected_at: 2026-04-17T10:39:51.178385+00:00
+acceptance_rate: "10.112%"
+collected_at: "2026-04-17T10:39:51.178385+00:00"
 ---
 
 ## 문제

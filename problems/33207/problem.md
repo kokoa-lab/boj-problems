@@ -1,13 +1,13 @@
 ---
-title: Hora
-special_judge: false
-time_limit: 1 초
-memory_limit: 2048 MB
+title: "Hora"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "2048 MB"
 submissions: 109
 accepted: 0
 solved_users: 0
-acceptance_rate: 0.000%
-collected_at: 2026-04-17T20:11:18.217252+00:00
+acceptance_rate: "0.000%"
+collected_at: "2026-04-17T20:11:18.217252+00:00"
 ---
 
 ## 문제

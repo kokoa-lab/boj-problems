@@ -1,13 +1,13 @@
 ---
-title: 정보보호학부 동아리 소개
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "정보보호학부 동아리 소개"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 6613
 accepted: 5009
 solved_users: 4835
-acceptance_rate: 76.166%
-collected_at: 2026-04-17T18:30:46.785044+00:00
+acceptance_rate: "76.166%"
+collected_at: "2026-04-17T18:30:46.785044+00:00"
 ---
 
 ## 문제

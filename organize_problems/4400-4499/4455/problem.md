@@ -1,13 +1,13 @@
 ---
-title: The Status is Not Quo
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "The Status is Not Quo"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 51
 accepted: 25
 solved_users: 20
-acceptance_rate: 46.512%
-collected_at: 2026-04-17T11:02:03.530390+00:00
+acceptance_rate: "46.512%"
+collected_at: "2026-04-17T11:02:03.530390+00:00"
 ---
 
 ## 문제

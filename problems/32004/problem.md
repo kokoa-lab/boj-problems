@@ -1,13 +1,13 @@
 ---
-title: ALGEBRA
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "ALGEBRA"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 37
 accepted: 32
 solved_users: 29
-acceptance_rate: 85.294%
-collected_at: 2026-04-17T19:40:39.444262+00:00
+acceptance_rate: "85.294%"
+collected_at: "2026-04-17T19:40:39.444262+00:00"
 ---
 
 ## 문제
@@ -52,4 +52,11 @@ Opis drugog probnog primjera: Kada bi jedan iza drugoga napisali sva četiri niz
 
 | Prva četiri niza | Spojeni prvi i drugi, treći i četvrti | spajanje dva nova niza |
 | --- | --- | --- |
-| ```  6 3 2 4 5 4 7 2 1 3 4 2 7 2 3 2 1 2 3 2 1 ``` | ```  6 7 2 4 5 2 3 3 4 2 7 2 1 ``` | ```  6 7 3 4 5 7 2 1 ``` |
+| ``` 
+ 6 3 2 4 5
+ 4 7
+ 2 1 3 4 2 7
+ 2 3 2 1 2 3 2 1 ``` | ``` 
+ 6 7 2 4 5
+ 2 3 3 4 2 7 2 1 ``` | ``` 
+ 6 7 3 4 5 7 2 1 ``` |

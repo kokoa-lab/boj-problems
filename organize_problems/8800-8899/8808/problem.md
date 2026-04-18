@@ -1,13 +1,13 @@
 ---
-title: Malowane liczby
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Malowane liczby"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 63
 accepted: 26
 solved_users: 21
-acceptance_rate: 36.842%
-collected_at: 2026-04-17T12:03:36.327300+00:00
+acceptance_rate: "36.842%"
+collected_at: "2026-04-17T12:03:36.327300+00:00"
 ---
 
 ## 문제

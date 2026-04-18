@@ -1,13 +1,13 @@
 ---
-title: 개미여행
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "개미여행"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 280
 accepted: 42
 solved_users: 32
-acceptance_rate: 13.913%
-collected_at: 2026-04-17T15:25:56.034316+00:00
+acceptance_rate: "13.913%"
+collected_at: "2026-04-17T15:25:56.034316+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 色紙 (Sheet)
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "色紙 (Sheet)"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 46
 accepted: 31
 solved_users: 23
-acceptance_rate: 62.162%
-collected_at: 2026-04-17T17:04:59.621694+00:00
+acceptance_rate: "62.162%"
+collected_at: "2026-04-17T17:04:59.621694+00:00"
 ---
 
 ## 문제

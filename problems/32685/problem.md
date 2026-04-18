@@ -1,13 +1,13 @@
 ---
-title: 4-LSB
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "4-LSB"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 603
 accepted: 433
 solved_users: 374
-acceptance_rate: 70.833%
-collected_at: 2026-04-17T19:59:09.873471+00:00
+acceptance_rate: "70.833%"
+collected_at: "2026-04-17T19:59:09.873471+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Фибоначчиевы суммы
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Фибоначчиевы суммы"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 40
 accepted: 31
 solved_users: 24
-acceptance_rate: 82.759%
-collected_at: 2026-04-17T17:59:18.317921+00:00
+acceptance_rate: "82.759%"
+collected_at: "2026-04-17T17:59:18.317921+00:00"
 ---
 
 ## 문제

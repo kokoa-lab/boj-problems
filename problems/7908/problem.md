@@ -1,13 +1,13 @@
 ---
-title: Will It Stop?
-special_judge: false
-time_limit: 3 초
-memory_limit: 64 MB
+title: "Will It Stop?"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "64 MB"
 submissions: 185
 accepted: 118
 solved_users: 93
-acceptance_rate: 64.583%
-collected_at: 2026-04-17T11:54:04.537039+00:00
+acceptance_rate: "64.583%"
+collected_at: "2026-04-17T11:54:04.537039+00:00"
 ---
 
 ## 문제

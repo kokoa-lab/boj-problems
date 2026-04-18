@@ -1,13 +1,13 @@
 ---
-title: Assigning Partners
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Assigning Partners"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 389
 accepted: 195
 solved_users: 174
-acceptance_rate: 50.729%
-collected_at: 2026-04-17T12:19:05.467574+00:00
+acceptance_rate: "50.729%"
+collected_at: "2026-04-17T12:19:05.467574+00:00"
 ---
 
 ## 문제

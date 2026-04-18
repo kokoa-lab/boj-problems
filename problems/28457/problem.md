@@ -1,13 +1,13 @@
 ---
-title: Every? Only One's Marble
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Every? Only One's Marble"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 1278
 accepted: 227
 solved_users: 171
-acceptance_rate: 18.427%
-collected_at: 2026-04-17T18:27:09.789448+00:00
+acceptance_rate: "18.427%"
+collected_at: "2026-04-17T18:27:09.789448+00:00"
 ---
 
 ## 문제

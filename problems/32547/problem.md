@@ -1,13 +1,13 @@
 ---
-title: Kitchens of Königsberg
-special_judge: true
-time_limit: 8 초
-memory_limit: 1024 MB
+title: "Kitchens of Königsberg"
+special_judge: "true"
+time_limit: "8 초"
+memory_limit: "1024 MB"
 submissions: 35
 accepted: 6
 solved_users: 4
-acceptance_rate: 13.793%
-collected_at: 2026-04-17T19:55:07.768947+00:00
+acceptance_rate: "13.793%"
+collected_at: "2026-04-17T19:55:07.768947+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Divide into triangle
-special_judge: true
-time_limit: 1 초
-memory_limit: 16 MB
+title: "Divide into triangle"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "16 MB"
 submissions: 394
 accepted: 274
 solved_users: 225
-acceptance_rate: 71.203%
-collected_at: 2026-04-17T12:31:08.732773+00:00
+acceptance_rate: "71.203%"
+collected_at: "2026-04-17T12:31:08.732773+00:00"
 ---
 
 ## 문제

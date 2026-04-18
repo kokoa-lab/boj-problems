@@ -1,13 +1,13 @@
 ---
-title: XYZ 문자열
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "XYZ 문자열"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 1266
 accepted: 295
 solved_users: 228
-acceptance_rate: 26.792%
-collected_at: 2026-04-17T10:32:06.776322+00:00
+acceptance_rate: "26.792%"
+collected_at: "2026-04-17T10:32:06.776322+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Help the Museum
-special_judge: true
-time_limit: 8 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "Help the Museum"
+special_judge: "true"
+time_limit: "8 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 17
 accepted: 1
 solved_users: 1
-acceptance_rate: 5.882%
-collected_at: 2026-04-17T16:35:26.319198+00:00
+acceptance_rate: "5.882%"
+collected_at: "2026-04-17T16:35:26.319198+00:00"
 ---
 
 ## 문제

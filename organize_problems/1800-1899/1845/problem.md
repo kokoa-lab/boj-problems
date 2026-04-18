@@ -1,13 +1,13 @@
 ---
-title: 배열 회전
-special_judge: true
-time_limit: 10 초
-memory_limit: 128 MB
+title: "배열 회전"
+special_judge: "true"
+time_limit: "10 초"
+memory_limit: "128 MB"
 submissions: 3542
 accepted: 99
 solved_users: 45
-acceptance_rate: 11.873%
-collected_at: 2026-04-17T10:34:41.443154+00:00
+acceptance_rate: "11.873%"
+collected_at: "2026-04-17T10:34:41.443154+00:00"
 ---
 
 ## 문제

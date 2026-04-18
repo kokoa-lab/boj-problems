@@ -1,13 +1,13 @@
 ---
-title: 마블
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "마블"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 1368
 accepted: 417
 solved_users: 303
-acceptance_rate: 32.441%
-collected_at: 2026-04-17T10:45:15.668189+00:00
+acceptance_rate: "32.441%"
+collected_at: "2026-04-17T10:45:15.668189+00:00"
 ---
 
 ## 문제

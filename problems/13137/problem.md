@@ -1,13 +1,13 @@
 ---
-title: Exchange Problem
-special_judge: false
-time_limit: 1 초
-memory_limit: 64 MB
+title: "Exchange Problem"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "64 MB"
 submissions: 711
 accepted: 209
 solved_users: 162
-acceptance_rate: 39.225%
-collected_at: 2026-04-17T13:07:57.542449+00:00
+acceptance_rate: "39.225%"
+collected_at: "2026-04-17T13:07:57.542449+00:00"
 ---
 
 ## 문제

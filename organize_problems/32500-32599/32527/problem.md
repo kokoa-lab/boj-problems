@@ -1,13 +1,13 @@
 ---
-title: Insane Drift
-special_judge: true
-time_limit: 0.5 초
-memory_limit: 1024 MB
+title: "Insane Drift"
+special_judge: "true"
+time_limit: "0.5 초"
+memory_limit: "1024 MB"
 submissions: 208
 accepted: 48
 solved_users: 39
-acceptance_rate: 24.074%
-collected_at: 2026-04-18T09:51:34.581330+00:00
+acceptance_rate: "24.074%"
+collected_at: "2026-04-18T09:51:34.581330+00:00"
 ---
 
 ## 문제

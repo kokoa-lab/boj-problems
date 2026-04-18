@@ -1,13 +1,13 @@
 ---
-title: Punched Cards
-special_judge: false
-time_limit: 5 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Punched Cards"
+special_judge: "false"
+time_limit: "5 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 251
 accepted: 219
 solved_users: 197
-acceptance_rate: 88.341%
-collected_at: 2026-04-17T17:20:26.098137+00:00
+acceptance_rate: "88.341%"
+collected_at: "2026-04-17T17:20:26.098137+00:00"
 ---
 
 ## 문제

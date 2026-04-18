@@ -1,13 +1,13 @@
 ---
-title: Tide Goes In, Tide Goes Out (Small)
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Tide Goes In, Tide Goes Out (Small)"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 37
 accepted: 22
 solved_users: 18
-acceptance_rate: 58.065%
-collected_at: 2026-04-17T12:54:38.074114+00:00
+acceptance_rate: "58.065%"
+collected_at: "2026-04-17T12:54:38.074114+00:00"
 ---
 
 ## 문제

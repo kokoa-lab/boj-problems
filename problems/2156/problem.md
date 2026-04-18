@@ -1,13 +1,13 @@
 ---
-title: 포도주 시식
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "포도주 시식"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 173585
 accepted: 60722
 solved_users: 44183
-acceptance_rate: 33.403%
-collected_at: 2026-04-17T10:39:01.051599+00:00
+acceptance_rate: "33.403%"
+collected_at: "2026-04-17T10:39:01.051599+00:00"
 ---
 
 ## 문제

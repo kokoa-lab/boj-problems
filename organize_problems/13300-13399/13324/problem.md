@@ -1,13 +1,13 @@
 ---
-title: BOJ 수열 2
-special_judge: true
-time_limit: 2 초
-memory_limit: 512 MB
+title: "BOJ 수열 2"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 1275
 accepted: 663
 solved_users: 537
-acceptance_rate: 55.590%
-collected_at: 2026-04-17T13:11:35.063747+00:00
+acceptance_rate: "55.590%"
+collected_at: "2026-04-17T13:11:35.063747+00:00"
 ---
 
 ## 문제

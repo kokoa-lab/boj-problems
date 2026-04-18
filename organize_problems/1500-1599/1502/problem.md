@@ -1,13 +1,13 @@
 ---
-title: 숫자 퍼즐 ≤ 8
-special_judge: true
-time_limit: 5 초
-memory_limit: 128 MB
+title: "숫자 퍼즐 ≤ 8"
+special_judge: "true"
+time_limit: "5 초"
+memory_limit: "128 MB"
 submissions: 579
 accepted: 132
 solved_users: 80
-acceptance_rate: 22.039%
-collected_at: 2026-04-18T09:57:03.511890+00:00
+acceptance_rate: "22.039%"
+collected_at: "2026-04-18T09:57:03.511890+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: CLARKSON
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "CLARKSON"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 298
 accepted: 108
 solved_users: 76
-acceptance_rate: 32.900%
-collected_at: 2026-04-17T12:42:09.463126+00:00
+acceptance_rate: "32.900%"
+collected_at: "2026-04-17T12:42:09.463126+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Easy Problem
-special_judge: false
-time_limit: 5 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "Easy Problem"
+special_judge: "false"
+time_limit: "5 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 3060
 accepted: 534
 solved_users: 82
-acceptance_rate: 4.316%
-collected_at: 2026-04-17T14:21:41.008963+00:00
+acceptance_rate: "4.316%"
+collected_at: "2026-04-17T14:21:41.008963+00:00"
 ---
 
 ## 문제

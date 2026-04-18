@@ -1,13 +1,13 @@
 ---
-title: 숫자세는 양 (Large)
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "숫자세는 양 (Large)"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 932
 accepted: 702
 solved_users: 625
-acceptance_rate: 75.666%
-collected_at: 2026-04-17T13:31:41.378818+00:00
+acceptance_rate: "75.666%"
+collected_at: "2026-04-17T13:31:41.378818+00:00"
 ---
 
 ## 문제

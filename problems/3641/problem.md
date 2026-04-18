@@ -1,13 +1,13 @@
 ---
-title: 호프집 선택
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "호프집 선택"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 181
 accepted: 22
 solved_users: 16
-acceptance_rate: 17.021%
-collected_at: 2026-04-17T10:50:27.938010+00:00
+acceptance_rate: "17.021%"
+collected_at: "2026-04-17T10:50:27.938010+00:00"
 ---
 
 ## 문제

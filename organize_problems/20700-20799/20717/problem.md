@@ -1,13 +1,13 @@
 ---
-title: Modular Reverse Engineering
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Modular Reverse Engineering"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 64
 accepted: 28
 solved_users: 24
-acceptance_rate: 42.857%
-collected_at: 2026-04-17T15:40:26.541968+00:00
+acceptance_rate: "42.857%"
+collected_at: "2026-04-17T15:40:26.541968+00:00"
 ---
 
 ## 문제

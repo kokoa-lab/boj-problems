@@ -1,13 +1,13 @@
 ---
-title: 의좋은 형제
-special_judge: true
-time_limit: 1 초
-memory_limit: 256 MB
+title: "의좋은 형제"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 1188
 accepted: 366
 solved_users: 252
-acceptance_rate: 34.855%
-collected_at: 2026-04-17T10:42:10.103842+00:00
+acceptance_rate: "34.855%"
+collected_at: "2026-04-17T10:42:10.103842+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 구간 합 최대? 1
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "구간 합 최대? 1"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 867
 accepted: 342
 solved_users: 302
-acceptance_rate: 46.967%
-collected_at: 2026-04-17T14:01:35.416434+00:00
+acceptance_rate: "46.967%"
+collected_at: "2026-04-17T14:01:35.416434+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Turing’s Challenge
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Turing’s Challenge"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 37
 accepted: 12
 solved_users: 10
-acceptance_rate: 50.000%
-collected_at: 2026-04-17T17:37:14.351733+00:00
+acceptance_rate: "50.000%"
+collected_at: "2026-04-17T17:37:14.351733+00:00"
 ---
 
 ## 문제

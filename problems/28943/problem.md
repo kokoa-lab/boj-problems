@@ -1,13 +1,13 @@
 ---
-title: В поисках неизведанного
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "В поисках неизведанного"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 114
 accepted: 68
 solved_users: 59
-acceptance_rate: 58.416%
-collected_at: 2026-04-17T18:34:59.273714+00:00
+acceptance_rate: "58.416%"
+collected_at: "2026-04-17T18:34:59.273714+00:00"
 ---
 
 ## 문제

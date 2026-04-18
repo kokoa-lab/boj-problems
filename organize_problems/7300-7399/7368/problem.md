@@ -1,13 +1,13 @@
 ---
-title: Untidy Desktops
-special_judge: false
-time_limit: 7 초
-memory_limit: 128 MB
+title: "Untidy Desktops"
+special_judge: "false"
+time_limit: "7 초"
+memory_limit: "128 MB"
 submissions: 156
 accepted: 56
 solved_users: 54
-acceptance_rate: 44.262%
-collected_at: 2026-04-17T11:48:42.638269+00:00
+acceptance_rate: "44.262%"
+collected_at: "2026-04-17T11:48:42.638269+00:00"
 ---
 
 ## 문제

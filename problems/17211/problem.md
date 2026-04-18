@@ -1,13 +1,13 @@
 ---
-title: 좋은 날 싫은 날
-special_judge: true
-time_limit: 1 초
-memory_limit: 256 MB
+title: "좋은 날 싫은 날"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 2332
 accepted: 1277
 solved_users: 938
-acceptance_rate: 53.600%
-collected_at: 2026-04-17T14:33:07.813893+00:00
+acceptance_rate: "53.600%"
+collected_at: "2026-04-17T14:33:07.813893+00:00"
 ---
 
 ## 문제

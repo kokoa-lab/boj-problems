@@ -1,13 +1,13 @@
 ---
-title: Funicular Frenzy
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Funicular Frenzy"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 64
 accepted: 51
 solved_users: 50
-acceptance_rate: 83.333%
-collected_at: 2026-04-17T19:08:02.354543+00:00
+acceptance_rate: "83.333%"
+collected_at: "2026-04-17T19:08:02.354543+00:00"
 ---
 
 ## 문제

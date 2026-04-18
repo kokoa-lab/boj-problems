@@ -1,13 +1,13 @@
 ---
-title: 모여라
-special_judge: true
-time_limit: 5 초
-memory_limit: 512 MB
+title: "모여라"
+special_judge: "true"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 90
 accepted: 29
 solved_users: 26
-acceptance_rate: 30.233%
-collected_at: 2026-04-17T13:44:21.861728+00:00
+acceptance_rate: "30.233%"
+collected_at: "2026-04-17T13:44:21.861728+00:00"
 ---
 
 ## 문제

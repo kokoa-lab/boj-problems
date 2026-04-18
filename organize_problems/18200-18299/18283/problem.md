@@ -1,13 +1,13 @@
 ---
-title: Herojski Histogram
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Herojski Histogram"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 117
 accepted: 50
 solved_users: 48
-acceptance_rate: 45.714%
-collected_at: 2026-04-17T14:58:31.993863+00:00
+acceptance_rate: "45.714%"
+collected_at: "2026-04-17T14:58:31.993863+00:00"
 ---
 
 ## 문제

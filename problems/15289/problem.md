@@ -1,13 +1,13 @@
 ---
-title: The Great Wall
-special_judge: false
-time_limit: 3 초
-memory_limit: 512 MB
+title: "The Great Wall"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "512 MB"
 submissions: 89
 accepted: 43
 solved_users: 20
-acceptance_rate: 33.333%
-collected_at: 2026-04-17T13:56:31.669615+00:00
+acceptance_rate: "33.333%"
+collected_at: "2026-04-17T13:56:31.669615+00:00"
 ---
 
 ## 문제

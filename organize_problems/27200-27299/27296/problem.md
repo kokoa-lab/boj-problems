@@ -1,13 +1,13 @@
 ---
-title: 카탈란 마스터의 선분 그리기 게임
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "카탈란 마스터의 선분 그리기 게임"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 516
 accepted: 262
 solved_users: 229
-acceptance_rate: 53.256%
-collected_at: 2026-04-17T18:00:15.670758+00:00
+acceptance_rate: "53.256%"
+collected_at: "2026-04-17T18:00:15.670758+00:00"
 ---
 
 ## 문제

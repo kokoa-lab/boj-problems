@@ -1,13 +1,13 @@
 ---
-title: 질투진서
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "질투진서"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 2843
 accepted: 1734
 solved_users: 1532
-acceptance_rate: 62.658%
-collected_at: 2026-04-17T14:06:26.576945+00:00
+acceptance_rate: "62.658%"
+collected_at: "2026-04-17T14:06:26.576945+00:00"
 ---
 
 ## 문제

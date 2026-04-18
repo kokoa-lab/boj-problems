@@ -1,13 +1,13 @@
 ---
-title: 2차원 배열의 합
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "2차원 배열의 합"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 39152
 accepted: 22385
 solved_users: 18080
-acceptance_rate: 58.770%
-collected_at: 2026-04-17T10:39:08.765134+00:00
+acceptance_rate: "58.770%"
+collected_at: "2026-04-17T10:39:08.765134+00:00"
 ---
 
 ## 문제

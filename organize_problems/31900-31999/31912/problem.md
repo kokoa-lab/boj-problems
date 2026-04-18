@@ -1,13 +1,13 @@
 ---
-title: 유리병 속 무한히 터지는 기포
-special_judge: false
-time_limit: 3 초
-memory_limit: 1024 MB
+title: "유리병 속 무한히 터지는 기포"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "1024 MB"
 submissions: 198
 accepted: 72
 solved_users: 50
-acceptance_rate: 36.765%
-collected_at: 2026-04-17T19:38:56.707784+00:00
+acceptance_rate: "36.765%"
+collected_at: "2026-04-17T19:38:56.707784+00:00"
 ---
 
 ## 문제

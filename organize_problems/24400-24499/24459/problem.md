@@ -1,13 +1,13 @@
 ---
-title: 회로의 저항
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "회로의 저항"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 283
 accepted: 105
 solved_users: 95
-acceptance_rate: 43.182%
-collected_at: 2026-04-17T17:09:50.741543+00:00
+acceptance_rate: "43.182%"
+collected_at: "2026-04-17T17:09:50.741543+00:00"
 ---
 
 ## 문제

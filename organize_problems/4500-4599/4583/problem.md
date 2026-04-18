@@ -1,13 +1,13 @@
 ---
-title: 거울상
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "거울상"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 1619
 accepted: 989
 solved_users: 892
-acceptance_rate: 62.421%
-collected_at: 2026-04-17T11:04:56.537659+00:00
+acceptance_rate: "62.421%"
+collected_at: "2026-04-17T11:04:56.537659+00:00"
 ---
 
 ## 문제

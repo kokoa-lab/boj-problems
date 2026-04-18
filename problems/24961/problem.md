@@ -1,13 +1,13 @@
 ---
-title: Planning Railroad Discontinuation
-special_judge: false
-time_limit: 5 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Planning Railroad Discontinuation"
+special_judge: "false"
+time_limit: "5 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 32
 accepted: 11
 solved_users: 9
-acceptance_rate: 30.000%
-collected_at: 2026-04-17T17:17:44.613467+00:00
+acceptance_rate: "30.000%"
+collected_at: "2026-04-17T17:17:44.613467+00:00"
 ---
 
 ## 문제

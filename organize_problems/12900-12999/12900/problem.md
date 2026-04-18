@@ -1,13 +1,13 @@
 ---
-title: Cheating a Boolean Tree
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Cheating a Boolean Tree"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 121
 accepted: 76
 solved_users: 73
-acceptance_rate: 63.478%
-collected_at: 2026-04-17T13:03:36.128539+00:00
+acceptance_rate: "63.478%"
+collected_at: "2026-04-17T13:03:36.128539+00:00"
 ---
 
 ## 문제

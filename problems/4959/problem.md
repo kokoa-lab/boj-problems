@@ -1,13 +1,13 @@
 ---
-title: The Most Powerful Spell
-special_judge: false
-time_limit: 5 초
-memory_limit: 128 MB
+title: "The Most Powerful Spell"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "128 MB"
 submissions: 9
 accepted: 6
 solved_users: 1
-acceptance_rate: 100.000%
-collected_at: 2026-04-17T11:10:22.930288+00:00
+acceptance_rate: "100.000%"
+collected_at: "2026-04-17T11:10:22.930288+00:00"
 ---
 
 ## 문제

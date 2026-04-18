@@ -1,13 +1,13 @@
 ---
-title: 별별별
-special_judge: false
-time_limit: 5 초
-memory_limit: 1024 MB
+title: "별별별"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "1024 MB"
 submissions: 91
 accepted: 16
 solved_users: 11
-acceptance_rate: 39.286%
-collected_at: 2026-04-17T21:00:10.352375+00:00
+acceptance_rate: "39.286%"
+collected_at: "2026-04-17T21:00:10.352375+00:00"
 ---
 
 ## 문제

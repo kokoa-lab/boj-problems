@@ -1,13 +1,13 @@
 ---
-title: 새치기하지 마!!!
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "새치기하지 마!!!"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 275
 accepted: 227
 solved_users: 187
-acceptance_rate: 86.175%
-collected_at: 2026-04-17T20:20:13.221442+00:00
+acceptance_rate: "86.175%"
+collected_at: "2026-04-17T20:20:13.221442+00:00"
 ---
 
 ## 문제

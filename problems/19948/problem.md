@@ -1,13 +1,13 @@
 ---
-title: 음유시인 영재
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "음유시인 영재"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 2125
 accepted: 528
 solved_users: 439
-acceptance_rate: 25.733%
-collected_at: 2026-04-17T15:29:44.129644+00:00
+acceptance_rate: "25.733%"
+collected_at: "2026-04-17T15:29:44.129644+00:00"
 ---
 
 ## 문제

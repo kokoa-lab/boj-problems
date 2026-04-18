@@ -1,13 +1,13 @@
 ---
-title: 배열 점수 최대화
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "배열 점수 최대화"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 138
 accepted: 74
 solved_users: 68
-acceptance_rate: 54.839%
-collected_at: 2026-04-17T20:48:06.117943+00:00
+acceptance_rate: "54.839%"
+collected_at: "2026-04-17T20:48:06.117943+00:00"
 ---
 
 ## 문제

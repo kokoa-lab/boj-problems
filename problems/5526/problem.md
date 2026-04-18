@@ -1,13 +1,13 @@
 ---
-title: ダーツ (Darts)
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "ダーツ (Darts)"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 170
 accepted: 106
 solved_users: 89
-acceptance_rate: 72.951%
-collected_at: 2026-04-17T11:14:58.617482+00:00
+acceptance_rate: "72.951%"
+collected_at: "2026-04-17T11:14:58.617482+00:00"
 ---
 
 ## 문제

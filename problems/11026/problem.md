@@ -1,13 +1,13 @@
 ---
-title: BIẾN ĐỔI CẶP SỐ
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "BIẾN ĐỔI CẶP SỐ"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 225
 accepted: 38
 solved_users: 19
-acceptance_rate: 13.475%
-collected_at: 2026-04-17T12:35:15.125835+00:00
+acceptance_rate: "13.475%"
+collected_at: "2026-04-17T12:35:15.125835+00:00"
 ---
 
 ## 문제

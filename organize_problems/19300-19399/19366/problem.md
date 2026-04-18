@@ -1,13 +1,13 @@
 ---
-title: Permutation and noitatumreP
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Permutation and noitatumreP"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 31
 accepted: 19
 solved_users: 16
-acceptance_rate: 69.565%
-collected_at: 2026-04-17T15:18:14.613184+00:00
+acceptance_rate: "69.565%"
+collected_at: "2026-04-17T15:18:14.613184+00:00"
 ---
 
 ## 문제

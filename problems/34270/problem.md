@@ -1,13 +1,13 @@
 ---
-title: Mob Grinder
-special_judge: true
-time_limit: 5 초
-memory_limit: 2048 MB
+title: "Mob Grinder"
+special_judge: "true"
+time_limit: "5 초"
+memory_limit: "2048 MB"
 submissions: 26
 accepted: 16
 solved_users: 16
-acceptance_rate: 61.538%
-collected_at: 2026-04-17T20:34:24.137065+00:00
+acceptance_rate: "61.538%"
+collected_at: "2026-04-17T20:34:24.137065+00:00"
 ---
 
 ## 문제

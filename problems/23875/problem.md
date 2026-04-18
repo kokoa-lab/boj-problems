@@ -1,13 +1,13 @@
 ---
-title: Closest Cow Wins
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Closest Cow Wins"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 288
 accepted: 113
 solved_users: 102
-acceptance_rate: 43.220%
-collected_at: 2026-04-17T16:56:32.219496+00:00
+acceptance_rate: "43.220%"
+collected_at: "2026-04-17T16:56:32.219496+00:00"
 ---
 
 ## 문제

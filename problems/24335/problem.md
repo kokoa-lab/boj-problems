@@ -1,13 +1,13 @@
 ---
-title: ЧАСОВНИК
-special_judge: false
-time_limit: 0.1 초
-memory_limit: 1024 MB
+title: "ЧАСОВНИК"
+special_judge: "false"
+time_limit: "0.1 초"
+memory_limit: "1024 MB"
 submissions: 96
 accepted: 66
 solved_users: 62
-acceptance_rate: 68.132%
-collected_at: 2026-04-17T17:07:42.544476+00:00
+acceptance_rate: "68.132%"
+collected_at: "2026-04-17T17:07:42.544476+00:00"
 ---
 
 ## 문제

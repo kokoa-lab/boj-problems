@@ -1,13 +1,13 @@
 ---
-title: カジノ
-special_judge: true
-time_limit: 8 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "カジノ"
+special_judge: "true"
+time_limit: "8 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 11
 accepted: 2
 solved_users: 1
-acceptance_rate: 50.000%
-collected_at: 2026-04-17T16:20:07.283947+00:00
+acceptance_rate: "50.000%"
+collected_at: "2026-04-17T16:20:07.283947+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 우체국 4
-special_judge: true
-time_limit: 10 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "우체국 4"
+special_judge: "true"
+time_limit: "10 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 666
 accepted: 81
 solved_users: 28
-acceptance_rate: 12.389%
-collected_at: 2026-04-17T15:04:56.267819+00:00
+acceptance_rate: "12.389%"
+collected_at: "2026-04-17T15:04:56.267819+00:00"
 ---
 
 ## 문제

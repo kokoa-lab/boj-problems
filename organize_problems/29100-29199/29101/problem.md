@@ -1,13 +1,13 @@
 ---
-title: Крестики-нолики
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Крестики-нолики"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 60
 accepted: 41
 solved_users: 12
-acceptance_rate: 66.667%
-collected_at: 2026-04-17T18:37:23.699685+00:00
+acceptance_rate: "66.667%"
+collected_at: "2026-04-17T18:37:23.699685+00:00"
 ---
 
 ## 문제

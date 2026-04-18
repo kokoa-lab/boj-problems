@@ -1,13 +1,13 @@
 ---
-title: Bardzo brudny łańcuch
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Bardzo brudny łańcuch"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 152
 accepted: 47
 solved_users: 19
-acceptance_rate: 26.027%
-collected_at: 2026-04-17T11:54:18.361055+00:00
+acceptance_rate: "26.027%"
+collected_at: "2026-04-17T11:54:18.361055+00:00"
 ---
 
 ## 문제

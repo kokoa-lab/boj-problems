@@ -1,13 +1,13 @@
 ---
-title: MST 게임
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "MST 게임"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 2203
 accepted: 1475
 solved_users: 1099
-acceptance_rate: 67.506%
-collected_at: 2026-04-17T14:13:21.532571+00:00
+acceptance_rate: "67.506%"
+collected_at: "2026-04-17T14:13:21.532571+00:00"
 ---
 
 ## 문제

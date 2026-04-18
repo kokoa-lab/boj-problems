@@ -1,13 +1,13 @@
 ---
-title: Optimal Milking
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Optimal Milking"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 350
 accepted: 178
 solved_users: 150
-acceptance_rate: 58.594%
-collected_at: 2026-04-17T12:15:46.836010+00:00
+acceptance_rate: "58.594%"
+collected_at: "2026-04-17T12:15:46.836010+00:00"
 ---
 
 ## 문제

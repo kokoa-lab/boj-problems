@@ -1,13 +1,13 @@
 ---
-title: 댄스타임
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "댄스타임"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 654
 accepted: 234
 solved_users: 204
-acceptance_rate: 39.231%
-collected_at: 2026-04-17T19:11:01.125248+00:00
+acceptance_rate: "39.231%"
+collected_at: "2026-04-17T19:11:01.125248+00:00"
 ---
 
 ## 문제

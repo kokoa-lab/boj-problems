@@ -1,13 +1,13 @@
 ---
-title: 할 일 정하기 2
-special_judge: false
-time_limit: 0.5 초
-memory_limit: 512 MB
+title: "할 일 정하기 2"
+special_judge: "false"
+time_limit: "0.5 초"
+memory_limit: "512 MB"
 submissions: 1489
 accepted: 328
 solved_users: 177
-acceptance_rate: 27.231%
-collected_at: 2026-04-17T13:27:58.082668+00:00
+acceptance_rate: "27.231%"
+collected_at: "2026-04-17T13:27:58.082668+00:00"
 ---
 
 ## 문제

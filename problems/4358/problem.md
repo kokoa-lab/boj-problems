@@ -1,13 +1,13 @@
 ---
-title: 생태학
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "생태학"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 24711
 accepted: 9683
 solved_users: 7155
-acceptance_rate: 37.785%
-collected_at: 2026-04-17T11:00:04.936364+00:00
+acceptance_rate: "37.785%"
+collected_at: "2026-04-17T11:00:04.936364+00:00"
 ---
 
 ## 문제

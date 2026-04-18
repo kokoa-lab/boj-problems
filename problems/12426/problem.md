@@ -1,13 +1,13 @@
 ---
-title: 윷놀이 (Large)
-special_judge: false
-time_limit: 10 초
-memory_limit: 512 MB
+title: "윷놀이 (Large)"
+special_judge: "false"
+time_limit: "10 초"
+memory_limit: "512 MB"
 submissions: 50
 accepted: 6
 solved_users: 6
-acceptance_rate: 21.429%
-collected_at: 2026-04-17T12:55:16.941995+00:00
+acceptance_rate: "21.429%"
+collected_at: "2026-04-17T12:55:16.941995+00:00"
 ---
 
 ## 문제

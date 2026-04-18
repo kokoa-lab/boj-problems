@@ -1,13 +1,13 @@
 ---
-title: Icebergs
-special_judge: false
-time_limit: 3 초
-memory_limit: 512 MB
+title: "Icebergs"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "512 MB"
 submissions: 579
 accepted: 214
 solved_users: 184
-acceptance_rate: 41.441%
-collected_at: 2026-04-17T14:58:55.744791+00:00
+acceptance_rate: "41.441%"
+collected_at: "2026-04-17T14:58:55.744791+00:00"
 ---
 
 ## 문제

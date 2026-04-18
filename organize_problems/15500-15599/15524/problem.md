@@ -1,13 +1,13 @@
 ---
-title: Coin Slider
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Coin Slider"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 109
 accepted: 51
 solved_users: 45
-acceptance_rate: 45.000%
-collected_at: 2026-04-17T14:00:52.640976+00:00
+acceptance_rate: "45.000%"
+collected_at: "2026-04-17T14:00:52.640976+00:00"
 ---
 
 ## 문제

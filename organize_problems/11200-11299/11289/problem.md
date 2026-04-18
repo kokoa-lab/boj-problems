@@ -1,13 +1,13 @@
 ---
-title: Boolean Postfix
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Boolean Postfix"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 195
 accepted: 117
 solved_users: 75
-acceptance_rate: 63.025%
-collected_at: 2026-04-17T12:39:13.424319+00:00
+acceptance_rate: "63.025%"
+collected_at: "2026-04-17T12:39:13.424319+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 시리얼 넘버
-special_judge: false
-time_limit: 3 초
-memory_limit: 128 MB
+title: "시리얼 넘버"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "128 MB"
 submissions: 478
 accepted: 207
 solved_users: 136
-acceptance_rate: 38.418%
-collected_at: 2026-04-17T11:14:00.888891+00:00
+acceptance_rate: "38.418%"
+collected_at: "2026-04-17T11:14:00.888891+00:00"
 ---
 
 ## 문제

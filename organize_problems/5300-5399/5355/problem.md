@@ -1,13 +1,13 @@
 ---
-title: 화성 수학
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "화성 수학"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 21969
 accepted: 12145
 solved_users: 10914
-acceptance_rate: 56.900%
-collected_at: 2026-04-17T11:13:11.283426+00:00
+acceptance_rate: "56.900%"
+collected_at: "2026-04-17T11:13:11.283426+00:00"
 ---
 
 ## 문제

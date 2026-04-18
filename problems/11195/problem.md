@@ -1,13 +1,13 @@
 ---
-title: Peragrams
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Peragrams"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 376
 accepted: 285
 solved_users: 266
-acceptance_rate: 75.568%
-collected_at: 2026-04-17T12:37:54.667148+00:00
+acceptance_rate: "75.568%"
+collected_at: "2026-04-17T12:37:54.667148+00:00"
 ---
 
 ## 문제

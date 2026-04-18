@@ -1,13 +1,13 @@
 ---
-title: 짝수? 홀수?
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "짝수? 홀수?"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 3694
 accepted: 1076
 solved_users: 915
-acceptance_rate: 32.150%
-collected_at: 2026-04-17T12:46:27.060758+00:00
+acceptance_rate: "32.150%"
+collected_at: "2026-04-17T12:46:27.060758+00:00"
 ---
 
 ## 문제

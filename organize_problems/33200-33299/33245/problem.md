@@ -1,13 +1,13 @@
 ---
-title: Halt and Catch Fire
-special_judge: false
-time_limit: 1 초
-memory_limit: 2048 MB
+title: "Halt and Catch Fire"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "2048 MB"
 submissions: 53
 accepted: 20
 solved_users: 8
-acceptance_rate: 30.769%
-collected_at: 2026-04-17T20:12:01.808909+00:00
+acceptance_rate: "30.769%"
+collected_at: "2026-04-17T20:12:01.808909+00:00"
 ---
 
 ## 문제

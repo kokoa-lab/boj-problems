@@ -1,13 +1,13 @@
 ---
-title: DFS 스페셜 저지
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "DFS 스페셜 저지"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 8098
 accepted: 2831
 solved_users: 2047
-acceptance_rate: 35.699%
-collected_at: 2026-04-17T14:26:48.667868+00:00
+acceptance_rate: "35.699%"
+collected_at: "2026-04-17T14:26:48.667868+00:00"
 ---
 
 ## 문제

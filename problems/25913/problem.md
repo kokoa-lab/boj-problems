@@ -1,13 +1,13 @@
 ---
-title: 전투 시뮬레이션
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "전투 시뮬레이션"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 328
 accepted: 66
 solved_users: 54
-acceptance_rate: 32.530%
-collected_at: 2026-04-17T17:36:43.898115+00:00
+acceptance_rate: "32.530%"
+collected_at: "2026-04-17T17:36:43.898115+00:00"
 ---
 
 ## 문제

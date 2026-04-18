@@ -1,13 +1,13 @@
 ---
-title: Laundry
-special_judge: false
-time_limit: 3 초
-memory_limit: 128 MB
+title: "Laundry"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "128 MB"
 submissions: 111
 accepted: 37
 solved_users: 33
-acceptance_rate: 32.353%
-collected_at: 2026-04-17T11:54:05.365124+00:00
+acceptance_rate: "32.353%"
+collected_at: "2026-04-17T11:54:05.365124+00:00"
 ---
 
 ## 문제

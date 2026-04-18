@@ -1,13 +1,13 @@
 ---
-title: Marvelous Marathon
-special_judge: false
-time_limit: 5 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Marvelous Marathon"
+special_judge: "false"
+time_limit: "5 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 14
 accepted: 3
 solved_users: 3
-acceptance_rate: 21.429%
-collected_at: 2026-04-17T16:45:31.859892+00:00
+acceptance_rate: "21.429%"
+collected_at: "2026-04-17T16:45:31.859892+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: To and Fro
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "To and Fro"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 684
 accepted: 483
 solved_users: 445
-acceptance_rate: 72.831%
-collected_at: 2026-04-17T10:58:07.898581+00:00
+acceptance_rate: "72.831%"
+collected_at: "2026-04-17T10:58:07.898581+00:00"
 ---
 
 ## 문제

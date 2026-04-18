@@ -1,13 +1,13 @@
 ---
-title: 귀납법
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "귀납법"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 389
 accepted: 183
 solved_users: 142
-acceptance_rate: 45.955%
-collected_at: 2026-04-17T18:21:45.498929+00:00
+acceptance_rate: "45.955%"
+collected_at: "2026-04-17T18:21:45.498929+00:00"
 ---
 
 ## 문제

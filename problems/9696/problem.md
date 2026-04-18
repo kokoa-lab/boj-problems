@@ -1,13 +1,13 @@
 ---
-title: Show Me The Operators
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Show Me The Operators"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 193
 accepted: 82
 solved_users: 62
-acceptance_rate: 48.438%
-collected_at: 2026-04-17T12:13:10.159004+00:00
+acceptance_rate: "48.438%"
+collected_at: "2026-04-17T12:13:10.159004+00:00"
 ---
 
 ## 문제

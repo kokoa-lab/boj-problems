@@ -1,13 +1,13 @@
 ---
-title: Iron and Coal
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Iron and Coal"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 166
 accepted: 71
 solved_users: 67
-acceptance_rate: 45.270%
-collected_at: 2026-04-17T13:22:32.758637+00:00
+acceptance_rate: "45.270%"
+collected_at: "2026-04-17T13:22:32.758637+00:00"
 ---
 
 ## 문제

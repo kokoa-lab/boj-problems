@@ -1,13 +1,13 @@
 ---
-title: 피보나치 수 4
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "피보나치 수 4"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 33199
 accepted: 11431
 solved_users: 9847
-acceptance_rate: 38.896%
-collected_at: 2026-04-17T12:30:09.327839+00:00
+acceptance_rate: "38.896%"
+collected_at: "2026-04-17T12:30:09.327839+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 킥
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "킥"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 531
 accepted: 222
 solved_users: 186
-acceptance_rate: 48.312%
-collected_at: 2026-04-17T12:42:16.907682+00:00
+acceptance_rate: "48.312%"
+collected_at: "2026-04-17T12:42:16.907682+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 화분 부수기
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "화분 부수기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 1421
 accepted: 581
 solved_users: 418
-acceptance_rate: 40.270%
-collected_at: 2026-04-17T10:46:36.689016+00:00
+acceptance_rate: "40.270%"
+collected_at: "2026-04-17T10:46:36.689016+00:00"
 ---
 
 ## 문제

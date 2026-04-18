@@ -1,13 +1,13 @@
 ---
-title: Array GCD
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Array GCD"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 118
 accepted: 33
 solved_users: 30
-acceptance_rate: 32.967%
-collected_at: 2026-04-17T13:05:02.047797+00:00
+acceptance_rate: "32.967%"
+collected_at: "2026-04-17T13:05:02.047797+00:00"
 ---
 
 ## 문제

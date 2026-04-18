@@ -1,13 +1,13 @@
 ---
-title: Robot Motion
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Robot Motion"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 54
 accepted: 33
 solved_users: 31
-acceptance_rate: 67.391%
-collected_at: 2026-04-17T11:06:52.416839+00:00
+acceptance_rate: "67.391%"
+collected_at: "2026-04-17T11:06:52.416839+00:00"
 ---
 
 ## 문제

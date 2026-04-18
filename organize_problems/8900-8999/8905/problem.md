@@ -1,13 +1,13 @@
 ---
-title: 리트
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "리트"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 234
 accepted: 86
 solved_users: 66
-acceptance_rate: 33.846%
-collected_at: 2026-04-17T12:04:43.461181+00:00
+acceptance_rate: "33.846%"
+collected_at: "2026-04-17T12:04:43.461181+00:00"
 ---
 
 ## 문제

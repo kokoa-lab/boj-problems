@@ -1,13 +1,13 @@
 ---
-title: 알바생 강호
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "알바생 강호"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 13698
 accepted: 6420
 solved_users: 5361
-acceptance_rate: 45.626%
-collected_at: 2026-04-17T10:33:10.471691+00:00
+acceptance_rate: "45.626%"
+collected_at: "2026-04-17T10:33:10.471691+00:00"
 ---
 
 ## 문제

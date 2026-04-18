@@ -1,13 +1,13 @@
 ---
-title: Automorphism
-special_judge: false
-time_limit: 8 초
-memory_limit: 512 MB
+title: "Automorphism"
+special_judge: "false"
+time_limit: "8 초"
+memory_limit: "512 MB"
 submissions: 29
 accepted: 8
 solved_users: 6
-acceptance_rate: 24.000%
-collected_at: 2026-04-17T15:12:27.802645+00:00
+acceptance_rate: "24.000%"
+collected_at: "2026-04-17T15:12:27.802645+00:00"
 ---
 
 ## 문제

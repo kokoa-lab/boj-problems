@@ -1,13 +1,13 @@
 ---
-title: Boys and Girls
-special_judge: true
-time_limit: 2 초
-memory_limit: 256 MB
+title: "Boys and Girls"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 128
 accepted: 24
 solved_users: 23
-acceptance_rate: 21.495%
-collected_at: 2026-04-17T13:13:52.264270+00:00
+acceptance_rate: "21.495%"
+collected_at: "2026-04-17T13:13:52.264270+00:00"
 ---
 
 ## 문제

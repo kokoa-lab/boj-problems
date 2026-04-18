@@ -1,13 +1,13 @@
 ---
-title: 방문 판매
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "방문 판매"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 467
 accepted: 146
 solved_users: 125
-acceptance_rate: 32.723%
-collected_at: 2026-04-17T16:53:02.583761+00:00
+acceptance_rate: "32.723%"
+collected_at: "2026-04-17T16:53:02.583761+00:00"
 ---
 
 ## 문제

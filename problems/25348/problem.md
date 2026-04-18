@@ -1,13 +1,13 @@
 ---
-title: 등산 게임
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "등산 게임"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 123
 accepted: 23
 solved_users: 21
-acceptance_rate: 32.812%
-collected_at: 2026-04-17T17:25:20.453799+00:00
+acceptance_rate: "32.812%"
+collected_at: "2026-04-17T17:25:20.453799+00:00"
 ---
 
 ## 문제

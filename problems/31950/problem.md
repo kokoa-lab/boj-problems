@@ -1,13 +1,13 @@
 ---
-title: Champernowne Substring
-special_judge: false
-time_limit: 10 초 (추가 시간 없음)
-memory_limit: 2048 MB (추가 메모리 없음)
+title: "Champernowne Substring"
+special_judge: "false"
+time_limit: "10 초 (추가 시간 없음)"
+memory_limit: "2048 MB (추가 메모리 없음)"
 submissions: 72
 accepted: 23
 solved_users: 17
-acceptance_rate: 35.417%
-collected_at: 2026-04-17T19:39:36.730206+00:00
+acceptance_rate: "35.417%"
+collected_at: "2026-04-17T19:39:36.730206+00:00"
 ---
 
 ## 문제

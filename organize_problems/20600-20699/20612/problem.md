@@ -1,13 +1,13 @@
 ---
-title: String Distance
-special_judge: false
-time_limit: 4 초
-memory_limit: 512 MB
+title: "String Distance"
+special_judge: "false"
+time_limit: "4 초"
+memory_limit: "512 MB"
 submissions: 15
 accepted: 2
 solved_users: 2
-acceptance_rate: 100.000%
-collected_at: 2026-04-17T15:38:53.331854+00:00
+acceptance_rate: "100.000%"
+collected_at: "2026-04-17T15:38:53.331854+00:00"
 ---
 
 ## 문제

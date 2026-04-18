@@ -1,13 +1,13 @@
 ---
-title: Jewels Building
-special_judge: false
-time_limit: 5 초
-memory_limit: 2048 MB
+title: "Jewels Building"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "2048 MB"
 submissions: 11
 accepted: 7
 solved_users: 7
-acceptance_rate: 63.636%
-collected_at: 2026-04-17T20:58:38.023977+00:00
+acceptance_rate: "63.636%"
+collected_at: "2026-04-17T20:58:38.023977+00:00"
 ---
 
 ## 문제

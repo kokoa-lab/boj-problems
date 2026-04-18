@@ -1,13 +1,13 @@
 ---
-title: 주말 여행 계획
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "주말 여행 계획"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 592
 accepted: 181
 solved_users: 114
-acceptance_rate: 26.512%
-collected_at: 2026-04-17T14:06:52.356280+00:00
+acceptance_rate: "26.512%"
+collected_at: "2026-04-17T14:06:52.356280+00:00"
 ---
 
 ## 문제

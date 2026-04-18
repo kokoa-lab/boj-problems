@@ -1,13 +1,13 @@
 ---
-title: Поиск корабля
-special_judge: false
-time_limit: 3 초
-memory_limit: 1024 MB
+title: "Поиск корабля"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "1024 MB"
 submissions: 10
 accepted: 6
 solved_users: 5
-acceptance_rate: 62.500%
-collected_at: 2026-04-17T18:34:43.096586+00:00
+acceptance_rate: "62.500%"
+collected_at: "2026-04-17T18:34:43.096586+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Paths on a Grid
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Paths on a Grid"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 370
 accepted: 86
 solved_users: 73
-acceptance_rate: 24.915%
-collected_at: 2026-04-17T11:30:27.386250+00:00
+acceptance_rate: "24.915%"
+collected_at: "2026-04-17T11:30:27.386250+00:00"
 ---
 
 ## 문제

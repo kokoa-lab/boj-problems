@@ -1,13 +1,13 @@
 ---
-title: 전함
-special_judge: false
-time_limit: 6 초
-memory_limit: 256 MB
+title: "전함"
+special_judge: "false"
+time_limit: "6 초"
+memory_limit: "256 MB"
 submissions: 1965
 accepted: 388
 solved_users: 208
-acceptance_rate: 23.690%
-collected_at: 2026-04-17T11:14:24.211666+00:00
+acceptance_rate: "23.690%"
+collected_at: "2026-04-17T11:14:24.211666+00:00"
 ---
 
 ## 문제

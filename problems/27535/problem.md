@@ -1,13 +1,13 @@
 ---
-title: 제주 초콜릿 지키기
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "제주 초콜릿 지키기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 410
 accepted: 148
 solved_users: 119
-acceptance_rate: 37.072%
-collected_at: 2026-04-17T18:05:52.147932+00:00
+acceptance_rate: "37.072%"
+collected_at: "2026-04-17T18:05:52.147932+00:00"
 ---
 
 ## 문제

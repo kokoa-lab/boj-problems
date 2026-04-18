@@ -1,13 +1,13 @@
 ---
-title: 휴가 나가기
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "휴가 나가기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 303
 accepted: 124
 solved_users: 102
-acceptance_rate: 43.220%
-collected_at: 2026-04-17T19:00:47.792586+00:00
+acceptance_rate: "43.220%"
+collected_at: "2026-04-17T19:00:47.792586+00:00"
 ---
 
 ## 문제

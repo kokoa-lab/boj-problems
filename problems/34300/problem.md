@@ -1,13 +1,13 @@
 ---
-title: New Professor
-special_judge: false
-time_limit: 1 초
-memory_limit: 2048 MB
+title: "New Professor"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "2048 MB"
 submissions: 39
 accepted: 33
 solved_users: 28
-acceptance_rate: 87.500%
-collected_at: 2026-04-17T20:34:53.227453+00:00
+acceptance_rate: "87.500%"
+collected_at: "2026-04-17T20:34:53.227453+00:00"
 ---
 
 ## 문제

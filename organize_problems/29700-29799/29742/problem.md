@@ -1,13 +1,13 @@
 ---
-title: A Light Inconvenience
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "A Light Inconvenience"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 100
 accepted: 22
 solved_users: 20
-acceptance_rate: 29.851%
-collected_at: 2026-04-17T18:51:58.425283+00:00
+acceptance_rate: "29.851%"
+collected_at: "2026-04-17T18:51:58.425283+00:00"
 ---
 
 ## 문제

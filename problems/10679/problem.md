@@ -1,13 +1,13 @@
 ---
-title: Broken Audio Signal
-special_judge: false
-time_limit: 8 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "Broken Audio Signal"
+special_judge: "false"
+time_limit: "8 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 68
 accepted: 41
 solved_users: 34
-acceptance_rate: 55.738%
-collected_at: 2026-04-17T12:27:22.695490+00:00
+acceptance_rate: "55.738%"
+collected_at: "2026-04-17T12:27:22.695490+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: ACM-ICPC
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "ACM-ICPC"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 2039
 accepted: 596
 solved_users: 479
-acceptance_rate: 30.336%
-collected_at: 2026-04-17T12:48:03.244288+00:00
+acceptance_rate: "30.336%"
+collected_at: "2026-04-17T12:48:03.244288+00:00"
 ---
 
 ## 문제

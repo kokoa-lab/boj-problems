@@ -1,13 +1,13 @@
 ---
-title: Injecting DNA
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Injecting DNA"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 66
 accepted: 15
 solved_users: 12
-acceptance_rate: 25.532%
-collected_at: 2026-04-17T14:11:31.641768+00:00
+acceptance_rate: "25.532%"
+collected_at: "2026-04-17T14:11:31.641768+00:00"
 ---
 
 ## 문제

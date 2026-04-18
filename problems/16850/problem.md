@@ -1,13 +1,13 @@
 ---
-title: Siblings
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Siblings"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 96
 accepted: 57
 solved_users: 41
-acceptance_rate: 53.947%
-collected_at: 2026-04-17T14:25:05.024825+00:00
+acceptance_rate: "53.947%"
+collected_at: "2026-04-17T14:25:05.024825+00:00"
 ---
 
 ## 문제

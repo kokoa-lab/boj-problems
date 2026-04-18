@@ -1,13 +1,13 @@
 ---
-title: 좌석 배치도
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "좌석 배치도"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 1293
 accepted: 888
 solved_users: 831
-acceptance_rate: 68.963%
-collected_at: 2026-04-17T19:17:38.795008+00:00
+acceptance_rate: "68.963%"
+collected_at: "2026-04-17T19:17:38.795008+00:00"
 ---
 
 ## 문제

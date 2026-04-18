@@ -1,13 +1,13 @@
 ---
-title: Drink Responsibly
-special_judge: true
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Drink Responsibly"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 38
 accepted: 21
 solved_users: 19
-acceptance_rate: 55.882%
-collected_at: 2026-04-17T12:41:21.572040+00:00
+acceptance_rate: "55.882%"
+collected_at: "2026-04-17T12:41:21.572040+00:00"
 ---
 
 ## 문제

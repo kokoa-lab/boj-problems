@@ -1,13 +1,13 @@
 ---
-title: Circle
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Circle"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 86
 accepted: 10
 solved_users: 7
-acceptance_rate: 12.069%
-collected_at: 2026-04-17T19:21:04.340045+00:00
+acceptance_rate: "12.069%"
+collected_at: "2026-04-17T19:21:04.340045+00:00"
 ---
 
 ## 문제

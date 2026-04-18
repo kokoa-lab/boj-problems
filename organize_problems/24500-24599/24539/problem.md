@@ -1,13 +1,13 @@
 ---
-title: 암호 해독
-special_judge: true
-time_limit: 2 초
-memory_limit: 512 MB
+title: "암호 해독"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 71
 accepted: 28
 solved_users: 25
-acceptance_rate: 42.373%
-collected_at: 2026-04-17T17:10:49.856471+00:00
+acceptance_rate: "42.373%"
+collected_at: "2026-04-17T17:10:49.856471+00:00"
 ---
 
 ## 문제

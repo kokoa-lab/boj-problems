@@ -1,13 +1,13 @@
 ---
-title: 손이 닿는 범위
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "손이 닿는 범위"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 331
 accepted: 196
 solved_users: 131
-acceptance_rate: 62.679%
-collected_at: 2026-04-17T20:00:29.576159+00:00
+acceptance_rate: "62.679%"
+collected_at: "2026-04-17T20:00:29.576159+00:00"
 ---
 
 ## 문제

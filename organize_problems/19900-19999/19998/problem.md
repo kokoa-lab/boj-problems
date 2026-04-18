@@ -1,13 +1,13 @@
 ---
-title: 스도쿠 (Hard)
-special_judge: true
-time_limit: 0.1 초
-memory_limit: 512 MB
+title: "스도쿠 (Hard)"
+special_judge: "true"
+time_limit: "0.1 초"
+memory_limit: "512 MB"
 submissions: 1068
 accepted: 243
 solved_users: 133
-acceptance_rate: 31.667%
-collected_at: 2026-04-17T15:30:18.785278+00:00
+acceptance_rate: "31.667%"
+collected_at: "2026-04-17T15:30:18.785278+00:00"
 ---
 
 ## 문제

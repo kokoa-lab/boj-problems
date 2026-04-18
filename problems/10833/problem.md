@@ -1,13 +1,13 @@
 ---
-title: 사과
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "사과"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 15959
 accepted: 13087
 solved_users: 11655
-acceptance_rate: 83.429%
-collected_at: 2026-04-17T12:30:11.611629+00:00
+acceptance_rate: "83.429%"
+collected_at: "2026-04-17T12:30:11.611629+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Cowreography
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Cowreography"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 156
 accepted: 46
 solved_users: 41
-acceptance_rate: 33.607%
-collected_at: 2026-04-17T19:36:06.329418+00:00
+acceptance_rate: "33.607%"
+collected_at: "2026-04-17T19:36:06.329418+00:00"
 ---
 
 ## 문제

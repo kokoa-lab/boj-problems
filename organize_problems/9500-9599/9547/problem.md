@@ -1,13 +1,13 @@
 ---
-title: 대통령 선거
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "대통령 선거"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 847
 accepted: 272
 solved_users: 231
-acceptance_rate: 32.627%
-collected_at: 2026-04-17T12:11:10.242381+00:00
+acceptance_rate: "32.627%"
+collected_at: "2026-04-17T12:11:10.242381+00:00"
 ---
 
 ## 문제

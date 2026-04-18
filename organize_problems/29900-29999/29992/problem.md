@@ -1,13 +1,13 @@
 ---
-title: Great Treaty of Byteland
-special_judge: false
-time_limit: 0.5 초
-memory_limit: 1024 MB
+title: "Great Treaty of Byteland"
+special_judge: "false"
+time_limit: "0.5 초"
+memory_limit: "1024 MB"
 submissions: 133
 accepted: 42
 solved_users: 32
-acceptance_rate: 33.333%
-collected_at: 2026-04-17T18:56:55.772234+00:00
+acceptance_rate: "33.333%"
+collected_at: "2026-04-17T18:56:55.772234+00:00"
 ---
 
 ## 문제

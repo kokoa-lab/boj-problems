@@ -1,13 +1,13 @@
 ---
-title: 펭귄추락대책위원회
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "펭귄추락대책위원회"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 1670
 accepted: 1222
 solved_users: 1045
-acceptance_rate: 74.910%
-collected_at: 2026-04-17T14:57:35.434661+00:00
+acceptance_rate: "74.910%"
+collected_at: "2026-04-17T14:57:35.434661+00:00"
 ---
 
 ## 문제

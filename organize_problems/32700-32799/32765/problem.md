@@ -1,13 +1,13 @@
 ---
-title: 연봉 998244353원 주세요
-special_judge: false
-time_limit: 0.5 초
-memory_limit: 512 MB
+title: "연봉 998244353원 주세요"
+special_judge: "false"
+time_limit: "0.5 초"
+memory_limit: "512 MB"
 submissions: 474
 accepted: 124
 solved_users: 103
-acceptance_rate: 41.700%
-collected_at: 2026-04-17T20:00:48.107467+00:00
+acceptance_rate: "41.700%"
+collected_at: "2026-04-17T20:00:48.107467+00:00"
 ---
 
 ## 문제

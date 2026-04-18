@@ -1,13 +1,13 @@
 ---
-title: Плащ для Абсолема
-special_judge: true
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Плащ для Абсолема"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 9
 accepted: 7
 solved_users: 7
-acceptance_rate: 77.778%
-collected_at: 2026-04-17T19:15:19.541455+00:00
+acceptance_rate: "77.778%"
+collected_at: "2026-04-17T19:15:19.541455+00:00"
 ---
 
 ## 문제

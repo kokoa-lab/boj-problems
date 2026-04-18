@@ -1,13 +1,13 @@
 ---
-title: Import Spaghetti
-special_judge: true
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Import Spaghetti"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 140
 accepted: 57
 solved_users: 50
-acceptance_rate: 43.478%
-collected_at: 2026-04-17T13:48:26.546505+00:00
+acceptance_rate: "43.478%"
+collected_at: "2026-04-17T13:48:26.546505+00:00"
 ---
 
 ## 문제

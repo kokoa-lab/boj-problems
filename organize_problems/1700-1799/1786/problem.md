@@ -1,13 +1,13 @@
 ---
-title: 찾기
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "찾기"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 52313
 accepted: 16725
 solved_users: 10181
-acceptance_rate: 31.743%
-collected_at: 2026-04-17T10:33:36.328363+00:00
+acceptance_rate: "31.743%"
+collected_at: "2026-04-17T10:33:36.328363+00:00"
 ---
 
 ## 문제

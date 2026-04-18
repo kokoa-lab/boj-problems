@@ -1,13 +1,13 @@
 ---
-title: Compatible Pairs
-special_judge: false
-time_limit: 2 초
-memory_limit: 2048 MB
+title: "Compatible Pairs"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "2048 MB"
 submissions: 130
 accepted: 45
 solved_users: 38
-acceptance_rate: 33.628%
-collected_at: 2026-04-17T20:23:12.215628+00:00
+acceptance_rate: "33.628%"
+collected_at: "2026-04-17T20:23:12.215628+00:00"
 ---
 
 ## 문제

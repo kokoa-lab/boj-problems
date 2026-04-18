@@ -1,13 +1,13 @@
 ---
-title: LED-led Paths
-special_judge: true
-time_limit: 3 초
-memory_limit: 512 MB
+title: "LED-led Paths"
+special_judge: "true"
+time_limit: "3 초"
+memory_limit: "512 MB"
 submissions: 300
 accepted: 92
 solved_users: 78
-acceptance_rate: 33.333%
-collected_at: 2026-04-17T14:21:52.016884+00:00
+acceptance_rate: "33.333%"
+collected_at: "2026-04-17T14:21:52.016884+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 座席 2 (Seats 2)
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "座席 2 (Seats 2)"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 43
 accepted: 33
 solved_users: 25
-acceptance_rate: 80.645%
-collected_at: 2026-04-17T19:32:34.528364+00:00
+acceptance_rate: "80.645%"
+collected_at: "2026-04-17T19:32:34.528364+00:00"
 ---
 
 ## 문제

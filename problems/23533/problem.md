@@ -1,13 +1,13 @@
 ---
-title: Chess Positions
-special_judge: true
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 256 MB
+title: "Chess Positions"
+special_judge: "true"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "256 MB"
 submissions: 11
 accepted: 5
 solved_users: 3
-acceptance_rate: 42.857%
-collected_at: 2026-04-17T16:49:44.188655+00:00
+acceptance_rate: "42.857%"
+collected_at: "2026-04-17T16:49:44.188655+00:00"
 ---
 
 ## 문제

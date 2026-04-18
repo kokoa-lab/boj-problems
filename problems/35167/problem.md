@@ -1,13 +1,13 @@
 ---
-title: Burning Blocks
-special_judge: false
-time_limit: 1 초
-memory_limit: 2048 MB
+title: "Burning Blocks"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "2048 MB"
 submissions: 16
 accepted: 13
 solved_users: 13
-acceptance_rate: 81.250%
-collected_at: 2026-04-17T20:57:13.162818+00:00
+acceptance_rate: "81.250%"
+collected_at: "2026-04-17T20:57:13.162818+00:00"
 ---
 
 ## 문제

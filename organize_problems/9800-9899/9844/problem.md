@@ -1,13 +1,13 @@
 ---
-title: Gecko
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Gecko"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 136
 accepted: 110
 solved_users: 93
-acceptance_rate: 83.784%
-collected_at: 2026-04-17T12:15:28.088752+00:00
+acceptance_rate: "83.784%"
+collected_at: "2026-04-17T12:15:28.088752+00:00"
 ---
 
 ## 문제

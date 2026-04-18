@@ -1,13 +1,13 @@
 ---
-title: Deli Deli
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Deli Deli"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 146
 accepted: 109
 solved_users: 91
-acceptance_rate: 74.590%
-collected_at: 2026-04-17T11:29:26.992458+00:00
+acceptance_rate: "74.590%"
+collected_at: "2026-04-17T11:29:26.992458+00:00"
 ---
 
 ## 문제

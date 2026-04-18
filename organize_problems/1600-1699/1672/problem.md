@@ -1,13 +1,13 @@
 ---
-title: DNA 해독
-special_judge: false
-time_limit: 5 초
-memory_limit: 16 MB
+title: "DNA 해독"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "16 MB"
 submissions: 6999
 accepted: 2690
 solved_users: 2227
-acceptance_rate: 42.589%
-collected_at: 2026-04-17T10:32:11.645529+00:00
+acceptance_rate: "42.589%"
+collected_at: "2026-04-17T10:32:11.645529+00:00"
 ---
 
 ## 문제

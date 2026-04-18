@@ -1,13 +1,13 @@
 ---
-title: 유닛 이동시키기
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "유닛 이동시키기"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 4302
 accepted: 1227
 solved_users: 951
-acceptance_rate: 29.719%
-collected_at: 2026-04-17T10:39:22.769047+00:00
+acceptance_rate: "29.719%"
+collected_at: "2026-04-17T10:39:22.769047+00:00"
 ---
 
 ## 문제

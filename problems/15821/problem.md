@@ -1,13 +1,13 @@
 ---
-title: 낚이고 낚아라
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "낚이고 낚아라"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 1382
 accepted: 493
 solved_users: 385
-acceptance_rate: 41.265%
-collected_at: 2026-04-17T14:07:05.592554+00:00
+acceptance_rate: "41.265%"
+collected_at: "2026-04-17T14:07:05.592554+00:00"
 ---
 
 ## 문제

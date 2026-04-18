@@ -1,13 +1,13 @@
 ---
-title: 바바와 깃발 게임
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "바바와 깃발 게임"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 208
 accepted: 113
 solved_users: 101
-acceptance_rate: 55.801%
-collected_at: 2026-04-17T20:57:32.073153+00:00
+acceptance_rate: "55.801%"
+collected_at: "2026-04-17T20:57:32.073153+00:00"
 ---
 
 ## 문제

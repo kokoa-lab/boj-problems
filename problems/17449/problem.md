@@ -1,13 +1,13 @@
 ---
-title: 순위 계산
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "순위 계산"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 594
 accepted: 184
 solved_users: 163
-acceptance_rate: 37.995%
-collected_at: 2026-04-17T14:39:38.468275+00:00
+acceptance_rate: "37.995%"
+collected_at: "2026-04-17T14:39:38.468275+00:00"
 ---
 
 ## 문제

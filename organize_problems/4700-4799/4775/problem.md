@@ -1,13 +1,13 @@
 ---
-title: Spelling Be
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Spelling Be"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 316
 accepted: 138
 solved_users: 121
-acceptance_rate: 44.000%
-collected_at: 2026-04-17T11:08:17.801898+00:00
+acceptance_rate: "44.000%"
+collected_at: "2026-04-17T11:08:17.801898+00:00"
 ---
 
 ## 문제

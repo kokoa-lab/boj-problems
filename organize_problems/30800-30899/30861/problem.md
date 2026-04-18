@@ -1,13 +1,13 @@
 ---
-title: Special Numbers
-special_judge: false
-time_limit: 1.5 초
-memory_limit: 2048 MB
+title: "Special Numbers"
+special_judge: "false"
+time_limit: "1.5 초"
+memory_limit: "2048 MB"
 submissions: 527
 accepted: 183
 solved_users: 104
-acceptance_rate: 26.396%
-collected_at: 2026-04-17T19:17:00.429088+00:00
+acceptance_rate: "26.396%"
+collected_at: "2026-04-17T19:17:00.429088+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 경계 로봇
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "경계 로봇"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 443
 accepted: 85
 solved_users: 54
-acceptance_rate: 19.853%
-collected_at: 2026-04-17T15:32:56.536482+00:00
+acceptance_rate: "19.853%"
+collected_at: "2026-04-17T15:32:56.536482+00:00"
 ---
 
 ## 문제

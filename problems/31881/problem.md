@@ -1,13 +1,13 @@
 ---
-title: K512에 바이러스 퍼뜨리기
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "K512에 바이러스 퍼뜨리기"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 995
 accepted: 494
 solved_users: 435
-acceptance_rate: 50.173%
-collected_at: 2026-04-17T19:38:22.478132+00:00
+acceptance_rate: "50.173%"
+collected_at: "2026-04-17T19:38:22.478132+00:00"
 ---
 
 ## 문제

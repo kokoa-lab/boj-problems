@@ -1,13 +1,13 @@
 ---
-title: Security Gate
-special_judge: false
-time_limit: 5 초
-memory_limit: 1536 MB
+title: "Security Gate"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "1536 MB"
 submissions: 9
 accepted: 4
 solved_users: 4
-acceptance_rate: 100.000%
-collected_at: 2026-04-17T14:45:32.504647+00:00
+acceptance_rate: "100.000%"
+collected_at: "2026-04-17T14:45:32.504647+00:00"
 ---
 
 ## 문제

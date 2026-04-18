@@ -1,13 +1,13 @@
 ---
-title: 피자 (Large)
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "피자 (Large)"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 2887
 accepted: 1279
 solved_users: 1108
-acceptance_rate: 45.503%
-collected_at: 2026-04-17T13:39:19.348429+00:00
+acceptance_rate: "45.503%"
+collected_at: "2026-04-17T13:39:19.348429+00:00"
 ---
 
 ## 문제

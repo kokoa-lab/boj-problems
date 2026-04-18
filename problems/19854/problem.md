@@ -1,13 +1,13 @@
 ---
-title: 직선형 분자 만들기
-special_judge: false
-time_limit: 5 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "직선형 분자 만들기"
+special_judge: "false"
+time_limit: "5 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 149
 accepted: 35
 solved_users: 23
-acceptance_rate: 18.852%
-collected_at: 2026-04-17T15:28:30.342934+00:00
+acceptance_rate: "18.852%"
+collected_at: "2026-04-17T15:28:30.342934+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Cats
-special_judge: false
-time_limit: 1 초
-memory_limit: 16 MB
+title: "Cats"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "16 MB"
 submissions: 69
 accepted: 10
 solved_users: 9
-acceptance_rate: 23.077%
-collected_at: 2026-04-17T13:43:33.233438+00:00
+acceptance_rate: "23.077%"
+collected_at: "2026-04-17T13:43:33.233438+00:00"
 ---
 
 ## 문제

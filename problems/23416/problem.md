@@ -1,13 +1,13 @@
 ---
-title: Two Slicers
-special_judge: false
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "Two Slicers"
+special_judge: "false"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 35
 accepted: 21
 solved_users: 19
-acceptance_rate: 76.000%
-collected_at: 2026-04-17T16:47:53.059192+00:00
+acceptance_rate: "76.000%"
+collected_at: "2026-04-17T16:47:53.059192+00:00"
 ---
 
 ## 문제

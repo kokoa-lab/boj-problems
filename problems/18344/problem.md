@@ -1,13 +1,13 @@
 ---
-title: 가장 짧은 순례
-special_judge: false
-time_limit: 5 초
-memory_limit: 1024 MB
+title: "가장 짧은 순례"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "1024 MB"
 submissions: 443
 accepted: 43
 solved_users: 24
-acceptance_rate: 7.571%
-collected_at: 2026-04-17T15:00:22.218627+00:00
+acceptance_rate: "7.571%"
+collected_at: "2026-04-17T15:00:22.218627+00:00"
 ---
 
 ## 문제

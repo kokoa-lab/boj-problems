@@ -1,13 +1,13 @@
 ---
-title: Beautiful Sequence
-special_judge: false
-time_limit: 3 초
-memory_limit: 1024 MB
+title: "Beautiful Sequence"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "1024 MB"
 submissions: 101
 accepted: 27
 solved_users: 23
-acceptance_rate: 25.556%
-collected_at: 2026-04-17T18:19:13.164241+00:00
+acceptance_rate: "25.556%"
+collected_at: "2026-04-17T18:19:13.164241+00:00"
 ---
 
 ## 문제

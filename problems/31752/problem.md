@@ -1,13 +1,13 @@
 ---
-title: Beating the Record
-special_judge: true
-time_limit: 3 초
-memory_limit: 1024 MB
+title: "Beating the Record"
+special_judge: "true"
+time_limit: "3 초"
+memory_limit: "1024 MB"
 submissions: 109
 accepted: 22
 solved_users: 16
-acceptance_rate: 26.230%
-collected_at: 2026-04-17T19:35:50.661466+00:00
+acceptance_rate: "26.230%"
+collected_at: "2026-04-17T19:35:50.661466+00:00"
 ---
 
 ## 문제

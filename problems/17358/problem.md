@@ -1,13 +1,13 @@
 ---
-title: 복불복으로 지구 멸망
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "복불복으로 지구 멸망"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 1359
 accepted: 639
 solved_users: 567
-acceptance_rate: 48.628%
-collected_at: 2026-04-17T14:37:45.630277+00:00
+acceptance_rate: "48.628%"
+collected_at: "2026-04-17T14:37:45.630277+00:00"
 ---
 
 ## 문제

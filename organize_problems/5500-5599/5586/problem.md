@@ -1,13 +1,13 @@
 ---
-title: JOI와 IOI
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "JOI와 IOI"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 6179
 accepted: 4811
 solved_users: 4437
-acceptance_rate: 79.035%
-collected_at: 2026-04-17T11:15:44.559801+00:00
+acceptance_rate: "79.035%"
+collected_at: "2026-04-17T11:15:44.559801+00:00"
 ---
 
 ## 문제

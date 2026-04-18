@@ -1,13 +1,13 @@
 ---
-title: 리스크
-special_judge: false
-time_limit: 3 초
-memory_limit: 128 MB
+title: "리스크"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "128 MB"
 submissions: 496
 accepted: 200
 solved_users: 150
-acceptance_rate: 37.783%
-collected_at: 2026-04-17T10:50:42.611992+00:00
+acceptance_rate: "37.783%"
+collected_at: "2026-04-17T10:50:42.611992+00:00"
 ---
 
 ## 문제

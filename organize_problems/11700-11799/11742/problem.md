@@ -1,13 +1,13 @@
 ---
-title: Hypercube
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Hypercube"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 115
 accepted: 64
 solved_users: 33
-acceptance_rate: 54.098%
-collected_at: 2026-04-17T12:45:11.171617+00:00
+acceptance_rate: "54.098%"
+collected_at: "2026-04-17T12:45:11.171617+00:00"
 ---
 
 ## 문제

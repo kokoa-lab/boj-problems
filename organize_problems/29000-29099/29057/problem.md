@@ -1,13 +1,13 @@
 ---
-title: Сытая игра
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Сытая игра"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 37
 accepted: 33
 solved_users: 28
-acceptance_rate: 87.500%
-collected_at: 2026-04-17T18:36:41.886995+00:00
+acceptance_rate: "87.500%"
+collected_at: "2026-04-17T18:36:41.886995+00:00"
 ---
 
 ## 문제

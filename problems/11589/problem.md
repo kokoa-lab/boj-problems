@@ -1,13 +1,13 @@
 ---
-title: ARTUR
-special_judge: true
-time_limit: 1 초
-memory_limit: 64 MB
+title: "ARTUR"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "64 MB"
 submissions: 202
 accepted: 50
 solved_users: 38
-acceptance_rate: 21.714%
-collected_at: 2026-04-17T12:42:36.082210+00:00
+acceptance_rate: "21.714%"
+collected_at: "2026-04-17T12:42:36.082210+00:00"
 ---
 
 ## 문제

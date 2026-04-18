@@ -1,13 +1,13 @@
 ---
-title: 계산 문제
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "계산 문제"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 186
 accepted: 84
 solved_users: 70
-acceptance_rate: 47.619%
-collected_at: 2026-04-17T10:37:41.689112+00:00
+acceptance_rate: "47.619%"
+collected_at: "2026-04-17T10:37:41.689112+00:00"
 ---
 
 ## 문제

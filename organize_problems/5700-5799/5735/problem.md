@@ -1,13 +1,13 @@
 ---
-title: Emoticons :-)
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Emoticons :-)"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 832
 accepted: 251
 solved_users: 181
-acceptance_rate: 29.770%
-collected_at: 2026-04-17T11:16:58.287073+00:00
+acceptance_rate: "29.770%"
+collected_at: "2026-04-17T11:16:58.287073+00:00"
 ---
 
 ## 문제

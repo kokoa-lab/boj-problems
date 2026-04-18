@@ -1,13 +1,13 @@
 ---
-title: 피타고라스 쌍
-special_judge: false
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "피타고라스 쌍"
+special_judge: "false"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 569
 accepted: 183
 solved_users: 69
-acceptance_rate: 21.296%
-collected_at: 2026-04-17T14:11:47.692886+00:00
+acceptance_rate: "21.296%"
+collected_at: "2026-04-17T14:11:47.692886+00:00"
 ---
 
 ## 문제

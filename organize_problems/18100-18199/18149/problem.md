@@ -1,13 +1,13 @@
 ---
-title: Length of Bundle Rope
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Length of Bundle Rope"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 97
 accepted: 95
 solved_users: 88
-acceptance_rate: 97.778%
-collected_at: 2026-04-17T14:56:28.430179+00:00
+acceptance_rate: "97.778%"
+collected_at: "2026-04-17T14:56:28.430179+00:00"
 ---
 
 ## 문제

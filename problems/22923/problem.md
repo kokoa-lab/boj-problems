@@ -1,13 +1,13 @@
 ---
-title: Apple Orchard
-special_judge: true
-time_limit: 15 초
-memory_limit: 2048 MB (추가 메모리 없음)
+title: "Apple Orchard"
+special_judge: "true"
+time_limit: "15 초"
+memory_limit: "2048 MB (추가 메모리 없음)"
 submissions: 91
 accepted: 26
 solved_users: 11
-acceptance_rate: 34.375%
-collected_at: 2026-04-17T16:38:48.395081+00:00
+acceptance_rate: "34.375%"
+collected_at: "2026-04-17T16:38:48.395081+00:00"
 ---
 
 ## 문제

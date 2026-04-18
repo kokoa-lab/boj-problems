@@ -1,13 +1,13 @@
 ---
-title: Обратная задача о черепашке
-special_judge: true
-time_limit: 3 초
-memory_limit: 256 MB
+title: "Обратная задача о черепашке"
+special_judge: "true"
+time_limit: "3 초"
+memory_limit: "256 MB"
 submissions: 8
 accepted: 0
 solved_users: 0
-acceptance_rate: 0.000%
-collected_at: 2026-04-17T16:16:22.317664+00:00
+acceptance_rate: "0.000%"
+collected_at: "2026-04-17T16:16:22.317664+00:00"
 ---
 
 ## 문제

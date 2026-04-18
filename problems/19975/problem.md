@@ -1,13 +1,13 @@
 ---
-title: Википедия
-special_judge: true
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Википедия"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 77
 accepted: 17
 solved_users: 15
-acceptance_rate: 20.270%
-collected_at: 2026-04-17T15:30:04.847788+00:00
+acceptance_rate: "20.270%"
+collected_at: "2026-04-17T15:30:04.847788+00:00"
 ---
 
 ## 문제

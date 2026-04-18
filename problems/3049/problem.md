@@ -1,13 +1,13 @@
 ---
-title: 다각형의 대각선
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "다각형의 대각선"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 4801
 accepted: 3556
 solved_users: 3278
-acceptance_rate: 76.162%
-collected_at: 2026-04-17T10:46:24.399787+00:00
+acceptance_rate: "76.162%"
+collected_at: "2026-04-17T10:46:24.399787+00:00"
 ---
 
 ## 문제

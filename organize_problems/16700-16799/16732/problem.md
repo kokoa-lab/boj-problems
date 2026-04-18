@@ -1,13 +1,13 @@
 ---
-title: Imputation
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Imputation"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 44
 accepted: 19
 solved_users: 17
-acceptance_rate: 43.590%
-collected_at: 2026-04-17T14:23:08.115405+00:00
+acceptance_rate: "43.590%"
+collected_at: "2026-04-17T14:23:08.115405+00:00"
 ---
 
 ## 문제

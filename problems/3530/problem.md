@@ -1,13 +1,13 @@
 ---
-title: Bug2
-special_judge: true
-time_limit: 3 초
-memory_limit: 256 MB
+title: "Bug2"
+special_judge: "true"
+time_limit: "3 초"
+memory_limit: "256 MB"
 submissions: 5
 accepted: 1
 solved_users: 1
-acceptance_rate: 20.000%
-collected_at: 2026-04-17T10:49:34.657202+00:00
+acceptance_rate: "20.000%"
+collected_at: "2026-04-17T10:49:34.657202+00:00"
 ---
 
 ## 문제

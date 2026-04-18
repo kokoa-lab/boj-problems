@@ -1,13 +1,13 @@
 ---
-title: Greedy Gift Takers
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Greedy Gift Takers"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 303
 accepted: 139
 solved_users: 110
-acceptance_rate: 49.107%
-collected_at: 2026-04-17T13:59:40.674753+00:00
+acceptance_rate: "49.107%"
+collected_at: "2026-04-17T13:59:40.674753+00:00"
 ---
 
 ## 문제

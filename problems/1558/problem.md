@@ -1,13 +1,13 @@
 ---
-title: 그림의 개수
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "그림의 개수"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 68
 accepted: 17
 solved_users: 12
-acceptance_rate: 26.667%
-collected_at: 2026-04-17T10:31:10.763303+00:00
+acceptance_rate: "26.667%"
+collected_at: "2026-04-17T10:31:10.763303+00:00"
 ---
 
 ## 문제

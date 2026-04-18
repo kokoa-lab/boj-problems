@@ -1,13 +1,13 @@
 ---
-title: 106 miles to Chicago
-special_judge: true
-time_limit: 1 초
-memory_limit: 128 MB
+title: "106 miles to Chicago"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 104
 accepted: 72
 solved_users: 58
-acceptance_rate: 70.732%
-collected_at: 2026-04-17T11:29:50.026157+00:00
+acceptance_rate: "70.732%"
+collected_at: "2026-04-17T11:29:50.026157+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 피자 배틀
-special_judge: false
-time_limit: 5 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "피자 배틀"
+special_judge: "false"
+time_limit: "5 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 493
 accepted: 172
 solved_users: 121
-acceptance_rate: 33.705%
-collected_at: 2026-04-17T15:22:53.534580+00:00
+acceptance_rate: "33.705%"
+collected_at: "2026-04-17T15:22:53.534580+00:00"
 ---
 
 ## 문제

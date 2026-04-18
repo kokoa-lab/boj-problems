@@ -1,13 +1,13 @@
 ---
-title: 약수 지우기 게임 2
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "약수 지우기 게임 2"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 133
 accepted: 62
 solved_users: 36
-acceptance_rate: 41.860%
-collected_at: 2026-04-17T12:50:17.528324+00:00
+acceptance_rate: "41.860%"
+collected_at: "2026-04-17T12:50:17.528324+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Cleaning Robot
-special_judge: false
-time_limit: 8 초
-memory_limit: 2048 MB (추가 메모리 없음)
+title: "Cleaning Robot"
+special_judge: "false"
+time_limit: "8 초"
+memory_limit: "2048 MB (추가 메모리 없음)"
 submissions: 98
 accepted: 44
 solved_users: 40
-acceptance_rate: 48.780%
-collected_at: 2026-04-17T16:38:48.962471+00:00
+acceptance_rate: "48.780%"
+collected_at: "2026-04-17T16:38:48.962471+00:00"
 ---
 
 ## 문제

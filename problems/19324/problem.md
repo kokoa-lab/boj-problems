@@ -1,13 +1,13 @@
 ---
-title: Three Arrays
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "Three Arrays"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 56
 accepted: 34
 solved_users: 32
-acceptance_rate: 60.377%
-collected_at: 2026-04-17T15:17:12.829602+00:00
+acceptance_rate: "60.377%"
+collected_at: "2026-04-17T15:17:12.829602+00:00"
 ---
 
 ## 문제

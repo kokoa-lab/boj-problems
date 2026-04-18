@@ -1,13 +1,13 @@
 ---
-title: Antisort
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Antisort"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 290
 accepted: 136
 solved_users: 118
-acceptance_rate: 52.212%
-collected_at: 2026-04-17T18:09:13.429720+00:00
+acceptance_rate: "52.212%"
+collected_at: "2026-04-17T18:09:13.429720+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 암호화의 취약점 찾기
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "암호화의 취약점 찾기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 103
 accepted: 71
 solved_users: 53
-acceptance_rate: 81.538%
-collected_at: 2026-04-17T10:53:27.034528+00:00
+acceptance_rate: "81.538%"
+collected_at: "2026-04-17T10:53:27.034528+00:00"
 ---
 
 ## 문제

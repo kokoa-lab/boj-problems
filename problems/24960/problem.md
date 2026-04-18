@@ -1,13 +1,13 @@
 ---
-title: Wireless Communication Network
-special_judge: false
-time_limit: 5 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Wireless Communication Network"
+special_judge: "false"
+time_limit: "5 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 206
 accepted: 64
 solved_users: 50
-acceptance_rate: 46.296%
-collected_at: 2026-04-17T17:17:39.414125+00:00
+acceptance_rate: "46.296%"
+collected_at: "2026-04-17T17:17:39.414125+00:00"
 ---
 
 ## 문제

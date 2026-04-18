@@ -1,13 +1,13 @@
 ---
-title: 꽃바구니
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "꽃바구니"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 38
 accepted: 22
 solved_users: 19
-acceptance_rate: 57.576%
-collected_at: 2026-04-17T20:10:23.805541+00:00
+acceptance_rate: "57.576%"
+collected_at: "2026-04-17T20:10:23.805541+00:00"
 ---
 
 ## 문제

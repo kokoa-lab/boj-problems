@@ -1,13 +1,13 @@
 ---
-title: 십자가 찾기
-special_judge: true
-time_limit: 2 초
-memory_limit: 512 MB
+title: "십자가 찾기"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 4435
 accepted: 1789
 solved_users: 1318
-acceptance_rate: 39.168%
-collected_at: 2026-04-17T14:26:14.103555+00:00
+acceptance_rate: "39.168%"
+collected_at: "2026-04-17T14:26:14.103555+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 바나나킥을 잡아라!
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "바나나킥을 잡아라!"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 77
 accepted: 43
 solved_users: 30
-acceptance_rate: 51.724%
-collected_at: 2026-04-17T15:29:49.723160+00:00
+acceptance_rate: "51.724%"
+collected_at: "2026-04-17T15:29:49.723160+00:00"
 ---
 
 ## 문제

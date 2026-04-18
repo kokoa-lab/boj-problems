@@ -1,13 +1,13 @@
 ---
-title: Islands
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Islands"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 209
 accepted: 155
 solved_users: 143
-acceptance_rate: 74.869%
-collected_at: 2026-04-17T13:18:29.260877+00:00
+acceptance_rate: "74.869%"
+collected_at: "2026-04-17T13:18:29.260877+00:00"
 ---
 
 ## 문제

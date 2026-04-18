@@ -1,13 +1,13 @@
 ---
-title: Deck of Cards
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Deck of Cards"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 17
 accepted: 5
 solved_users: 5
-acceptance_rate: 55.556%
-collected_at: 2026-04-17T13:52:20.094802+00:00
+acceptance_rate: "55.556%"
+collected_at: "2026-04-17T13:52:20.094802+00:00"
 ---
 
 ## 문제

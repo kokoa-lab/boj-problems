@@ -1,13 +1,13 @@
 ---
-title: Seesaw
-special_judge: true
-time_limit: 2 초
-memory_limit: 2048 MB
+title: "Seesaw"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "2048 MB"
 submissions: 41
 accepted: 12
 solved_users: 11
-acceptance_rate: 44.000%
-collected_at: 2026-04-17T20:44:46.324845+00:00
+acceptance_rate: "44.000%"
+collected_at: "2026-04-17T20:44:46.324845+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 욱제는 결정장애야!!
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "욱제는 결정장애야!!"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 2376
 accepted: 1274
 solved_users: 1042
-acceptance_rate: 54.102%
-collected_at: 2026-04-17T13:39:48.881165+00:00
+acceptance_rate: "54.102%"
+collected_at: "2026-04-17T13:39:48.881165+00:00"
 ---
 
 ## 문제

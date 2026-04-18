@@ -1,13 +1,13 @@
 ---
-title: 지금 만나러 갑니다
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "지금 만나러 갑니다"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 2049
 accepted: 622
 solved_users: 447
-acceptance_rate: 29.603%
-collected_at: 2026-04-17T14:57:40.607628+00:00
+acceptance_rate: "29.603%"
+collected_at: "2026-04-17T14:57:40.607628+00:00"
 ---
 
 ## 문제

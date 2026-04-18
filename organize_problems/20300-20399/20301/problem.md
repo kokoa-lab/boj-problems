@@ -1,13 +1,13 @@
 ---
-title: 반전 요세푸스
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "반전 요세푸스"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 4675
 accepted: 2160
 solved_users: 1787
-acceptance_rate: 47.200%
-collected_at: 2026-04-17T15:34:28.855313+00:00
+acceptance_rate: "47.200%"
+collected_at: "2026-04-17T15:34:28.855313+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Задача
-special_judge: true
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Задача"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 51
 accepted: 38
 solved_users: 33
-acceptance_rate: 73.333%
-collected_at: 2026-04-17T18:37:23.161218+00:00
+acceptance_rate: "73.333%"
+collected_at: "2026-04-17T18:37:23.161218+00:00"
 ---
 
 ## 문제

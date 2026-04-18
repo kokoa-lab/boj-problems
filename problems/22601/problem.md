@@ -1,13 +1,13 @@
 ---
-title: Exportation in Space
-special_judge: true
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Exportation in Space"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 61
 accepted: 26
 solved_users: 16
-acceptance_rate: 50.000%
-collected_at: 2026-04-17T16:27:50.902786+00:00
+acceptance_rate: "50.000%"
+collected_at: "2026-04-17T16:27:50.902786+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Mountain Biking
-special_judge: true
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Mountain Biking"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 132
 accepted: 71
 solved_users: 63
-acceptance_rate: 54.310%
-collected_at: 2026-04-17T12:41:19.352310+00:00
+acceptance_rate: "54.310%"
+collected_at: "2026-04-17T12:41:19.352310+00:00"
 ---
 
 ## 문제

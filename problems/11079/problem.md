@@ -1,13 +1,13 @@
 ---
-title: Diana and the Golden Apples
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "Diana and the Golden Apples"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 17
 accepted: 14
 solved_users: 10
-acceptance_rate: 76.923%
-collected_at: 2026-04-17T12:36:10.166661+00:00
+acceptance_rate: "76.923%"
+collected_at: "2026-04-17T12:36:10.166661+00:00"
 ---
 
 ## 문제

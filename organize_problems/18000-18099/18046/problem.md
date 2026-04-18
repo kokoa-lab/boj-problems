@@ -1,13 +1,13 @@
 ---
-title: The Great Drone Show
-special_judge: false
-time_limit: 30 초
-memory_limit: 512 MB
+title: "The Great Drone Show"
+special_judge: "false"
+time_limit: "30 초"
+memory_limit: "512 MB"
 submissions: 269
 accepted: 130
 solved_users: 27
-acceptance_rate: 29.032%
-collected_at: 2026-04-17T14:53:55.629105+00:00
+acceptance_rate: "29.032%"
+collected_at: "2026-04-17T14:53:55.629105+00:00"
 ---
 
 ## 문제

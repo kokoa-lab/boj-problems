@@ -1,13 +1,13 @@
 ---
-title: 알파카 문장
-special_judge: false
-time_limit: 3 초
-memory_limit: 256 MB
+title: "알파카 문장"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "256 MB"
 submissions: 121
 accepted: 66
 solved_users: 62
-acceptance_rate: 53.913%
-collected_at: 2026-04-17T12:45:24.743878+00:00
+acceptance_rate: "53.913%"
+collected_at: "2026-04-17T12:45:24.743878+00:00"
 ---
 
 ## 문제

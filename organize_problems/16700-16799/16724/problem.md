@@ -1,13 +1,13 @@
 ---
-title: 피리 부는 사나이
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "피리 부는 사나이"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 14762
 accepted: 6892
 solved_users: 5149
-acceptance_rate: 43.470%
-collected_at: 2026-04-17T14:23:02.937429+00:00
+acceptance_rate: "43.470%"
+collected_at: "2026-04-17T14:23:02.937429+00:00"
 ---
 
 ## 문제

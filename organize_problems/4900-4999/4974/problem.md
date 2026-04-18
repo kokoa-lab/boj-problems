@@ -1,13 +1,13 @@
 ---
-title: ICPC Score Totalizer Software
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "ICPC Score Totalizer Software"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 225
 accepted: 199
 solved_users: 176
-acceptance_rate: 89.796%
-collected_at: 2026-04-17T11:10:32.088800+00:00
+acceptance_rate: "89.796%"
+collected_at: "2026-04-17T11:10:32.088800+00:00"
 ---
 
 ## 문제

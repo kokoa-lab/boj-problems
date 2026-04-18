@@ -1,13 +1,13 @@
 ---
-title: Elevated Rails
-special_judge: false
-time_limit: 2 초
-memory_limit: 2048 MB
+title: "Elevated Rails"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "2048 MB"
 submissions: 36
 accepted: 21
 solved_users: 12
-acceptance_rate: 54.545%
-collected_at: 2026-04-17T20:02:33.586233+00:00
+acceptance_rate: "54.545%"
+collected_at: "2026-04-17T20:02:33.586233+00:00"
 ---
 
 ## 문제

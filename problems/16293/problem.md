@@ -1,13 +1,13 @@
 ---
-title: Appalling Architecture
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Appalling Architecture"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 160
 accepted: 77
 solved_users: 65
-acceptance_rate: 46.429%
-collected_at: 2026-04-17T14:15:08.343539+00:00
+acceptance_rate: "46.429%"
+collected_at: "2026-04-17T14:15:08.343539+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 균형 발전
-special_judge: false
-time_limit: 5 초 (추가 시간 없음)
-memory_limit: 512 MB (추가 메모리 없음)
+title: "균형 발전"
+special_judge: "false"
+time_limit: "5 초 (추가 시간 없음)"
+memory_limit: "512 MB (추가 메모리 없음)"
 submissions: 134
 accepted: 22
 solved_users: 17
-acceptance_rate: 16.667%
-collected_at: 2026-04-17T17:17:10.834307+00:00
+acceptance_rate: "16.667%"
+collected_at: "2026-04-17T17:17:10.834307+00:00"
 ---
 
 ## 문제

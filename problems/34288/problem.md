@@ -1,13 +1,13 @@
 ---
-title: Hill Climb Racing
-special_judge: false
-time_limit: 1 초
-memory_limit: 2048 MB
+title: "Hill Climb Racing"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "2048 MB"
 submissions: 137
 accepted: 108
 solved_users: 103
-acceptance_rate: 79.231%
-collected_at: 2026-04-17T20:34:42.629695+00:00
+acceptance_rate: "79.231%"
+collected_at: "2026-04-17T20:34:42.629695+00:00"
 ---
 
 ## 문제

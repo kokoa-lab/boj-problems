@@ -1,13 +1,13 @@
 ---
-title: Isn’t It Funny How a Bear Likes Honey?
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Isn’t It Funny How a Bear Likes Honey?"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 979
 accepted: 464
 solved_users: 368
-acceptance_rate: 45.885%
-collected_at: 2026-04-17T11:11:56.370594+00:00
+acceptance_rate: "45.885%"
+collected_at: "2026-04-17T11:11:56.370594+00:00"
 ---
 
 ## 문제

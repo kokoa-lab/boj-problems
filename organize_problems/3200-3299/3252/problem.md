@@ -1,13 +1,13 @@
 ---
-title: JANICA
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "JANICA"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 35
 accepted: 28
 solved_users: 28
-acceptance_rate: 84.848%
-collected_at: 2026-04-17T10:47:38.985122+00:00
+acceptance_rate: "84.848%"
+collected_at: "2026-04-17T10:47:38.985122+00:00"
 ---
 
 ## 문제

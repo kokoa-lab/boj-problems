@@ -1,13 +1,13 @@
 ---
-title: 도로 네트워크
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "도로 네트워크"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 14554
 accepted: 5843
 solved_users: 3995
-acceptance_rate: 39.247%
-collected_at: 2026-04-17T10:47:14.242451+00:00
+acceptance_rate: "39.247%"
+collected_at: "2026-04-17T10:47:14.242451+00:00"
 ---
 
 ## 문제

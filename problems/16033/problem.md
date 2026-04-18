@@ -1,13 +1,13 @@
 ---
-title: Origami, or the art of folding paper
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Origami, or the art of folding paper"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 66
 accepted: 39
 solved_users: 38
-acceptance_rate: 61.290%
-collected_at: 2026-04-17T14:10:14.476981+00:00
+acceptance_rate: "61.290%"
+collected_at: "2026-04-17T14:10:14.476981+00:00"
 ---
 
 ## 문제

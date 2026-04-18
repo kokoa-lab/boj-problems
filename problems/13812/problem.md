@@ -1,13 +1,13 @@
 ---
-title: Water Tank
-special_judge: true
-time_limit: 8 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "Water Tank"
+special_judge: "true"
+time_limit: "8 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 35
 accepted: 6
 solved_users: 3
-acceptance_rate: 11.111%
-collected_at: 2026-04-17T13:19:55.087597+00:00
+acceptance_rate: "11.111%"
+collected_at: "2026-04-17T13:19:55.087597+00:00"
 ---
 
 ## 문제

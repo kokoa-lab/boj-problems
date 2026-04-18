@@ -1,13 +1,13 @@
 ---
-title: 양말 짝 맞추기
-special_judge: false
-time_limit: 0.5 초
-memory_limit: 1024 MB
+title: "양말 짝 맞추기"
+special_judge: "false"
+time_limit: "0.5 초"
+memory_limit: "1024 MB"
 submissions: 5273
 accepted: 3376
 solved_users: 3135
-acceptance_rate: 64.613%
-collected_at: 2026-04-17T18:26:40.325531+00:00
+acceptance_rate: "64.613%"
+collected_at: "2026-04-17T18:26:40.325531+00:00"
 ---
 
 ## 문제

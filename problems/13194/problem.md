@@ -1,13 +1,13 @@
 ---
-title: Router 3
-special_judge: true
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Router 3"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 79
 accepted: 35
 solved_users: 31
-acceptance_rate: 44.928%
-collected_at: 2026-04-17T13:09:05.389822+00:00
+acceptance_rate: "44.928%"
+collected_at: "2026-04-17T13:09:05.389822+00:00"
 ---
 
 ## 문제

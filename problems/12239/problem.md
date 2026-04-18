@@ -1,13 +1,13 @@
 ---
-title: Don't Break The Nile (Large)
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Don't Break The Nile (Large)"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 38
 accepted: 19
 solved_users: 17
-acceptance_rate: 51.515%
-collected_at: 2026-04-17T12:52:18.046930+00:00
+acceptance_rate: "51.515%"
+collected_at: "2026-04-17T12:52:18.046930+00:00"
 ---
 
 ## 문제

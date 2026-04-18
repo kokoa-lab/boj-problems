@@ -1,13 +1,13 @@
 ---
-title: Landscaping
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Landscaping"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 145
 accepted: 85
 solved_users: 71
-acceptance_rate: 57.724%
-collected_at: 2026-04-17T12:43:59.564232+00:00
+acceptance_rate: "57.724%"
+collected_at: "2026-04-17T12:43:59.564232+00:00"
 ---
 
 ## 문제

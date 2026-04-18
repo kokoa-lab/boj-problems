@@ -1,13 +1,13 @@
 ---
-title: Sweep Stakes
-special_judge: true
-time_limit: 20 초 (추가 시간 없음)
-memory_limit: 2048 MB
+title: "Sweep Stakes"
+special_judge: "true"
+time_limit: "20 초 (추가 시간 없음)"
+memory_limit: "2048 MB"
 submissions: 54
 accepted: 13
 solved_users: 12
-acceptance_rate: 30.000%
-collected_at: 2026-04-17T16:44:07.177479+00:00
+acceptance_rate: "30.000%"
+collected_at: "2026-04-17T16:44:07.177479+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Fewest Moves Challenge
-special_judge: false
-time_limit: 1.08 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Fewest Moves Challenge"
+special_judge: "false"
+time_limit: "1.08 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 193
 accepted: 58
 solved_users: 11
-acceptance_rate: 16.667%
-collected_at: 2026-04-17T17:16:50.970049+00:00
+acceptance_rate: "16.667%"
+collected_at: "2026-04-17T17:16:50.970049+00:00"
 ---
 
 ## 문제

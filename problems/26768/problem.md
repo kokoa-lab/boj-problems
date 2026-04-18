@@ -1,13 +1,13 @@
 ---
-title: H4x0r
-special_judge: false
-time_limit: 10 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "H4x0r"
+special_judge: "false"
+time_limit: "10 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 1582
 accepted: 1158
 solved_users: 1024
-acceptance_rate: 72.986%
-collected_at: 2026-04-17T17:51:06.063457+00:00
+acceptance_rate: "72.986%"
+collected_at: "2026-04-17T17:51:06.063457+00:00"
 ---
 
 ## 문제

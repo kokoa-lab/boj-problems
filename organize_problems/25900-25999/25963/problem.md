@@ -1,13 +1,13 @@
 ---
-title: 계단 만들기 (Small)
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "계단 만들기 (Small)"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 148
 accepted: 76
 solved_users: 56
-acceptance_rate: 51.852%
-collected_at: 2026-04-17T17:37:43.051943+00:00
+acceptance_rate: "51.852%"
+collected_at: "2026-04-17T17:37:43.051943+00:00"
 ---
 
 ## 문제

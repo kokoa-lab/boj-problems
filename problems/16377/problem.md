@@ -1,13 +1,13 @@
 ---
-title: Prime Tree - 5
-special_judge: false
-time_limit: 10 초
-memory_limit: 512 MB
+title: "Prime Tree - 5"
+special_judge: "false"
+time_limit: "10 초"
+memory_limit: "512 MB"
 submissions: 75
 accepted: 62
 solved_users: 50
-acceptance_rate: 71.429%
-collected_at: 2026-04-17T14:16:55.844808+00:00
+acceptance_rate: "71.429%"
+collected_at: "2026-04-17T14:16:55.844808+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 칸토어 집합
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "칸토어 집합"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 32515
 accepted: 15483
 solved_users: 12274
-acceptance_rate: 46.468%
-collected_at: 2026-04-17T11:08:25.081427+00:00
+acceptance_rate: "46.468%"
+collected_at: "2026-04-17T11:08:25.081427+00:00"
 ---
 
 ## 문제

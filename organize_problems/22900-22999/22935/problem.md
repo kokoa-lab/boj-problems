@@ -1,13 +1,13 @@
 ---
-title: 이진 딸기
-special_judge: false
-time_limit: 0.5 초
-memory_limit: 512 MB
+title: "이진 딸기"
+special_judge: "false"
+time_limit: "0.5 초"
+memory_limit: "512 MB"
 submissions: 1955
 accepted: 743
 solved_users: 655
-acceptance_rate: 38.988%
-collected_at: 2026-04-17T16:38:56.202786+00:00
+acceptance_rate: "38.988%"
+collected_at: "2026-04-17T16:38:56.202786+00:00"
 ---
 
 ## 문제

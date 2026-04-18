@@ -1,13 +1,13 @@
 ---
-title: 크로스 컨트리
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "크로스 컨트리"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 8636
 accepted: 3214
 solved_users: 2659
-acceptance_rate: 38.419%
-collected_at: 2026-04-17T12:06:09.845471+00:00
+acceptance_rate: "38.419%"
+collected_at: "2026-04-17T12:06:09.845471+00:00"
 ---
 
 ## 문제

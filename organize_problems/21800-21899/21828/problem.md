@@ -1,13 +1,13 @@
 ---
-title: Loop Town
-special_judge: false
-time_limit: 4 초
-memory_limit: 512 MB
+title: "Loop Town"
+special_judge: "false"
+time_limit: "4 초"
+memory_limit: "512 MB"
 submissions: 62
 accepted: 39
 solved_users: 19
-acceptance_rate: 67.857%
-collected_at: 2026-04-17T16:08:32.172025+00:00
+acceptance_rate: "67.857%"
+collected_at: "2026-04-17T16:08:32.172025+00:00"
 ---
 
 ## 문제

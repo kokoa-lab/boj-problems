@@ -1,13 +1,13 @@
 ---
-title: Cows on a Leash
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Cows on a Leash"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 108
 accepted: 63
 solved_users: 53
-acceptance_rate: 58.242%
-collected_at: 2026-04-17T13:41:48.584705+00:00
+acceptance_rate: "58.242%"
+collected_at: "2026-04-17T13:41:48.584705+00:00"
 ---
 
 ## 문제

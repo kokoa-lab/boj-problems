@@ -1,13 +1,13 @@
 ---
-title: Zipline
-special_judge: true
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Zipline"
+special_judge: "true"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 157
 accepted: 60
 solved_users: 59
-acceptance_rate: 50.862%
-collected_at: 2026-04-17T14:42:23.984811+00:00
+acceptance_rate: "50.862%"
+collected_at: "2026-04-17T14:42:23.984811+00:00"
 ---
 
 ## 문제

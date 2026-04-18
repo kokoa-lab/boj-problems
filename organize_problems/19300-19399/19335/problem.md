@@ -1,13 +1,13 @@
 ---
-title: Increasing Costs
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "Increasing Costs"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 81
 accepted: 47
 solved_users: 36
-acceptance_rate: 64.286%
-collected_at: 2026-04-17T15:17:24.219289+00:00
+acceptance_rate: "64.286%"
+collected_at: "2026-04-17T15:17:24.219289+00:00"
 ---
 
 ## 문제

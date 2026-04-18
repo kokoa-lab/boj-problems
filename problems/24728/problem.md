@@ -1,13 +1,13 @@
 ---
-title: 팬케이크맛 쿠키
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "팬케이크맛 쿠키"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 289
 accepted: 93
 solved_users: 47
-acceptance_rate: 23.858%
-collected_at: 2026-04-17T17:14:03.007391+00:00
+acceptance_rate: "23.858%"
+collected_at: "2026-04-17T17:14:03.007391+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 🧩 N-Queen (Area)
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "🧩 N-Queen (Area)"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 184
 accepted: 95
 solved_users: 71
-acceptance_rate: 53.383%
-collected_at: 2026-04-17T19:18:06.427992+00:00
+acceptance_rate: "53.383%"
+collected_at: "2026-04-17T19:18:06.427992+00:00"
 ---
 
 ## 문제

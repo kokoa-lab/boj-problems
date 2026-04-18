@@ -1,13 +1,13 @@
 ---
-title: Failing Factory
-special_judge: true
-time_limit: 4 초
-memory_limit: 1024 MB
+title: "Failing Factory"
+special_judge: "true"
+time_limit: "4 초"
+memory_limit: "1024 MB"
 submissions: 92
 accepted: 39
 solved_users: 29
-acceptance_rate: 36.709%
-collected_at: 2026-04-17T19:57:16.069033+00:00
+acceptance_rate: "36.709%"
+collected_at: "2026-04-17T19:57:16.069033+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Minion Walk
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Minion Walk"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 235
 accepted: 87
 solved_users: 68
-acceptance_rate: 35.979%
-collected_at: 2026-04-17T12:20:19.448622+00:00
+acceptance_rate: "35.979%"
+collected_at: "2026-04-17T12:20:19.448622+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 섬
-special_judge: false
-time_limit: 5 초 (추가 시간 없음)
-memory_limit: 768 MB
+title: "섬"
+special_judge: "false"
+time_limit: "5 초 (추가 시간 없음)"
+memory_limit: "768 MB"
 submissions: 1562
 accepted: 206
 solved_users: 123
-acceptance_rate: 15.491%
-collected_at: 2026-04-17T14:09:47.095344+00:00
+acceptance_rate: "15.491%"
+collected_at: "2026-04-17T14:09:47.095344+00:00"
 ---
 
 ## 문제

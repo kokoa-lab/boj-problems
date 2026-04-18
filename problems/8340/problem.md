@@ -1,13 +1,13 @@
 ---
-title: Colouring
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Colouring"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 81
 accepted: 40
 solved_users: 36
-acceptance_rate: 50.704%
-collected_at: 2026-04-17T11:58:36.940779+00:00
+acceptance_rate: "50.704%"
+collected_at: "2026-04-17T11:58:36.940779+00:00"
 ---
 
 ## 문제

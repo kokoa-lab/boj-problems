@@ -1,13 +1,13 @@
 ---
-title: 3-SAT
-special_judge: true
-time_limit: 2 초
-memory_limit: 512 MB
+title: "3-SAT"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 2534
 accepted: 511
 solved_users: 62
-acceptance_rate: 4.309%
-collected_at: 2026-04-17T14:27:17.096196+00:00
+acceptance_rate: "4.309%"
+collected_at: "2026-04-17T14:27:17.096196+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 차수열
-special_judge: true
-time_limit: 2 초
-memory_limit: 128 MB
+title: "차수열"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 417
 accepted: 181
 solved_users: 132
-acceptance_rate: 46.809%
-collected_at: 2026-04-17T10:38:02.518167+00:00
+acceptance_rate: "46.809%"
+collected_at: "2026-04-17T10:38:02.518167+00:00"
 ---
 
 ## 문제

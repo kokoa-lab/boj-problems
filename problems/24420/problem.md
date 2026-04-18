@@ -1,13 +1,13 @@
 ---
-title: ピアノコンクール (Piano Competition)
-special_judge: false
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "ピアノコンクール (Piano Competition)"
+special_judge: "false"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 304
 accepted: 278
 solved_users: 248
-acceptance_rate: 93.233%
-collected_at: 2026-04-17T17:09:09.297705+00:00
+acceptance_rate: "93.233%"
+collected_at: "2026-04-17T17:09:09.297705+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 두 동전 언리미티드
-special_judge: false
-time_limit: 0.5 초
-memory_limit: 512 MB
+title: "두 동전 언리미티드"
+special_judge: "false"
+time_limit: "0.5 초"
+memory_limit: "512 MB"
 submissions: 234
 accepted: 145
 solved_users: 130
-acceptance_rate: 65.000%
-collected_at: 2026-04-17T14:56:44.494329+00:00
+acceptance_rate: "65.000%"
+collected_at: "2026-04-17T14:56:44.494329+00:00"
 ---
 
 ## 문제

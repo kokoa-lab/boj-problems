@@ -1,13 +1,13 @@
 ---
-title: 굴려라 주사위!
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "굴려라 주사위!"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 302
 accepted: 39
 solved_users: 37
-acceptance_rate: 20.670%
-collected_at: 2026-04-18T09:51:55.933529+00:00
+acceptance_rate: "20.670%"
+collected_at: "2026-04-18T09:51:55.933529+00:00"
 ---
 
 ## 문제

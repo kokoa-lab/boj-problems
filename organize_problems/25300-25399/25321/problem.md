@@ -1,13 +1,13 @@
 ---
-title: yo, i herd u liek ternary operators, so..
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "yo, i herd u liek ternary operators, so.."
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 372
 accepted: 143
 solved_users: 108
-acceptance_rate: 40.000%
-collected_at: 2026-04-17T17:24:43.401213+00:00
+acceptance_rate: "40.000%"
+collected_at: "2026-04-17T17:24:43.401213+00:00"
 ---
 
 ## 문제

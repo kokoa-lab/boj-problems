@@ -1,13 +1,13 @@
 ---
-title: Carnival Tickets
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Carnival Tickets"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 230
 accepted: 106
 solved_users: 96
-acceptance_rate: 47.525%
-collected_at: 2026-04-17T15:29:34.131616+00:00
+acceptance_rate: "47.525%"
+collected_at: "2026-04-17T15:29:34.131616+00:00"
 ---
 
 ## 문제

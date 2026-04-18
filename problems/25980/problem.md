@@ -1,13 +1,13 @@
 ---
-title: Abbreviated Aliases
-special_judge: false
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 2048 MB
+title: "Abbreviated Aliases"
+special_judge: "false"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "2048 MB"
 submissions: 145
 accepted: 62
 solved_users: 58
-acceptance_rate: 55.769%
-collected_at: 2026-04-17T17:38:12.525346+00:00
+acceptance_rate: "55.769%"
+collected_at: "2026-04-17T17:38:12.525346+00:00"
 ---
 
 ## 문제

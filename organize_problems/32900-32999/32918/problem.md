@@ -1,13 +1,13 @@
 ---
-title: Capybara Cozy Carnival
-special_judge: false
-time_limit: 4 초
-memory_limit: 2048 MB
+title: "Capybara Cozy Carnival"
+special_judge: "false"
+time_limit: "4 초"
+memory_limit: "2048 MB"
 submissions: 22
 accepted: 16
 solved_users: 14
-acceptance_rate: 87.500%
-collected_at: 2026-04-17T20:04:33.132860+00:00
+acceptance_rate: "87.500%"
+collected_at: "2026-04-17T20:04:33.132860+00:00"
 ---
 
 ## 문제

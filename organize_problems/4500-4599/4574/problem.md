@@ -1,13 +1,13 @@
 ---
-title: 스도미노쿠
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "스도미노쿠"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 3045
 accepted: 1443
 solved_users: 977
-acceptance_rate: 46.281%
-collected_at: 2026-04-17T11:04:36.761035+00:00
+acceptance_rate: "46.281%"
+collected_at: "2026-04-17T11:04:36.761035+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 시철이가 사랑한 수식
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "시철이가 사랑한 수식"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 247
 accepted: 77
 solved_users: 50
-acceptance_rate: 27.473%
-collected_at: 2026-04-17T15:43:44.736059+00:00
+acceptance_rate: "27.473%"
+collected_at: "2026-04-17T15:43:44.736059+00:00"
 ---
 
 ## 문제

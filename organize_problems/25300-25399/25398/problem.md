@@ -1,13 +1,13 @@
 ---
-title: 트리와 집합과 쿼리
-special_judge: false
-time_limit: 4 초
-memory_limit: 512 MB
+title: "트리와 집합과 쿼리"
+special_judge: "false"
+time_limit: "4 초"
+memory_limit: "512 MB"
 submissions: 21
 accepted: 8
 solved_users: 6
-acceptance_rate: 37.500%
-collected_at: 2026-04-17T17:26:08.576073+00:00
+acceptance_rate: "37.500%"
+collected_at: "2026-04-17T17:26:08.576073+00:00"
 ---
 
 ## 문제

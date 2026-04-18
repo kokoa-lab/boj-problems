@@ -1,13 +1,13 @@
 ---
-title: 민호의 소원
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "민호의 소원"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 266
 accepted: 179
 solved_users: 152
-acceptance_rate: 68.161%
-collected_at: 2026-04-17T13:06:08.159098+00:00
+acceptance_rate: "68.161%"
+collected_at: "2026-04-17T13:06:08.159098+00:00"
 ---
 
 ## 문제

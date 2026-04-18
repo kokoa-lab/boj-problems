@@ -1,13 +1,13 @@
 ---
-title: Magical Mystery Knight’s Tour
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Magical Mystery Knight’s Tour"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 79
 accepted: 3
 solved_users: 2
-acceptance_rate: 11.765%
-collected_at: 2026-04-17T13:21:27.226132+00:00
+acceptance_rate: "11.765%"
+collected_at: "2026-04-17T13:21:27.226132+00:00"
 ---
 
 ## 문제

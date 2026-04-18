@@ -1,13 +1,13 @@
 ---
-title: 시계 맞추기
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "시계 맞추기"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 590
 accepted: 183
 solved_users: 165
-acceptance_rate: 36.830%
-collected_at: 2026-04-17T18:05:42.030431+00:00
+acceptance_rate: "36.830%"
+collected_at: "2026-04-17T18:05:42.030431+00:00"
 ---
 
 ## 문제

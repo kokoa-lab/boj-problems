@@ -1,13 +1,13 @@
 ---
-title: Algebra is Awesome
-special_judge: false
-time_limit: 1.5 초
-memory_limit: 512 MB
+title: "Algebra is Awesome"
+special_judge: "false"
+time_limit: "1.5 초"
+memory_limit: "512 MB"
 submissions: 101
 accepted: 20
 solved_users: 13
-acceptance_rate: 16.049%
-collected_at: 2026-04-17T15:14:43.601160+00:00
+acceptance_rate: "16.049%"
+collected_at: "2026-04-17T15:14:43.601160+00:00"
 ---
 
 ## 문제

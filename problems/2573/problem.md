@@ -1,13 +1,13 @@
 ---
-title: 빙산
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "빙산"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 103494
 accepted: 31436
 solved_users: 20896
-acceptance_rate: 27.683%
-collected_at: 2026-04-17T10:42:52.238511+00:00
+acceptance_rate: "27.683%"
+collected_at: "2026-04-17T10:42:52.238511+00:00"
 ---
 
 ## 문제

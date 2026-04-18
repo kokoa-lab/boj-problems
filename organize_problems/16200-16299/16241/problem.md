@@ -1,13 +1,13 @@
 ---
-title: Cipele
-special_judge: false
-time_limit: 1 초
-memory_limit: 64 MB
+title: "Cipele"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "64 MB"
 submissions: 65
 accepted: 47
 solved_users: 42
-acceptance_rate: 76.364%
-collected_at: 2026-04-17T14:14:13.220508+00:00
+acceptance_rate: "76.364%"
+collected_at: "2026-04-17T14:14:13.220508+00:00"
 ---
 
 ## 문제

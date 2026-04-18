@@ -1,13 +1,13 @@
 ---
-title: 최소 환승 경로
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "최소 환승 경로"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 3279
 accepted: 851
 solved_users: 541
-acceptance_rate: 26.769%
-collected_at: 2026-04-17T10:37:16.621697+00:00
+acceptance_rate: "26.769%"
+collected_at: "2026-04-17T10:37:16.621697+00:00"
 ---
 
 ## 문제

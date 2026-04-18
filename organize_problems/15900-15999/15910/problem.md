@@ -1,13 +1,13 @@
 ---
-title: 바나나나빠나나
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "바나나나빠나나"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 191
 accepted: 120
 solved_users: 100
-acceptance_rate: 66.225%
-collected_at: 2026-04-17T14:08:33.145729+00:00
+acceptance_rate: "66.225%"
+collected_at: "2026-04-17T14:08:33.145729+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Mole Tunnels
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Mole Tunnels"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 179
 accepted: 72
 solved_users: 62
-acceptance_rate: 40.523%
-collected_at: 2026-04-17T13:24:02.017262+00:00
+acceptance_rate: "40.523%"
+collected_at: "2026-04-17T13:24:02.017262+00:00"
 ---
 
 ## 문제

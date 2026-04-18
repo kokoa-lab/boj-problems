@@ -1,13 +1,13 @@
 ---
-title: 고양이 우선 탐색
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "고양이 우선 탐색"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 243
 accepted: 22
 solved_users: 21
-acceptance_rate: 14.483%
-collected_at: 2026-04-17T14:28:56.824548+00:00
+acceptance_rate: "14.483%"
+collected_at: "2026-04-17T14:28:56.824548+00:00"
 ---
 
 ## 문제

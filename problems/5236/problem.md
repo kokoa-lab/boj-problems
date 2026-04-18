@@ -1,13 +1,13 @@
 ---
-title: Longest Decreasing Suffix
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Longest Decreasing Suffix"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 285
 accepted: 163
 solved_users: 146
-acceptance_rate: 57.031%
-collected_at: 2026-04-17T11:12:30.916643+00:00
+acceptance_rate: "57.031%"
+collected_at: "2026-04-17T11:12:30.916643+00:00"
 ---
 
 ## 문제

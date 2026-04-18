@@ -1,13 +1,13 @@
 ---
-title: Too Many Traps
-special_judge: true
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Too Many Traps"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 479
 accepted: 41
 solved_users: 32
-acceptance_rate: 12.403%
-collected_at: 2026-04-17T13:37:58.398107+00:00
+acceptance_rate: "12.403%"
+collected_at: "2026-04-17T13:37:58.398107+00:00"
 ---
 
 ## 문제

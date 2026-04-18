@@ -1,13 +1,13 @@
 ---
-title: No Description
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "No Description"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 1423
 accepted: 685
 solved_users: 620
-acceptance_rate: 53.356%
-collected_at: 2026-04-17T14:03:04.163507+00:00
+acceptance_rate: "53.356%"
+collected_at: "2026-04-17T14:03:04.163507+00:00"
 ---
 
 ## 문제

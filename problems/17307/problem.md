@@ -1,13 +1,13 @@
 ---
-title: 색깔 통일하기
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "색깔 통일하기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 470
 accepted: 261
 solved_users: 214
-acceptance_rate: 56.464%
-collected_at: 2026-04-17T14:36:48.557525+00:00
+acceptance_rate: "56.464%"
+collected_at: "2026-04-17T14:36:48.557525+00:00"
 ---
 
 ## 문제

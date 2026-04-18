@@ -1,13 +1,13 @@
 ---
-title: Inquiry I
-special_judge: false
-time_limit: 3 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "Inquiry I"
+special_judge: "false"
+time_limit: "3 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 386
 accepted: 245
 solved_users: 199
-acceptance_rate: 61.801%
-collected_at: 2026-04-17T14:41:40.960164+00:00
+acceptance_rate: "61.801%"
+collected_at: "2026-04-17T14:41:40.960164+00:00"
 ---
 
 ## 문제

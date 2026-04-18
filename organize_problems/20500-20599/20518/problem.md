@@ -1,13 +1,13 @@
 ---
-title: Интересные числа
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Интересные числа"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 49
 accepted: 27
 solved_users: 26
-acceptance_rate: 56.522%
-collected_at: 2026-04-17T15:37:25.316735+00:00
+acceptance_rate: "56.522%"
+collected_at: "2026-04-17T15:37:25.316735+00:00"
 ---
 
 ## 문제

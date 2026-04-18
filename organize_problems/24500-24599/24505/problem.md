@@ -1,13 +1,13 @@
 ---
-title: blobhyperthink
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "blobhyperthink"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 1588
 accepted: 752
 solved_users: 592
-acceptance_rate: 46.910%
-collected_at: 2026-04-17T17:10:20.701589+00:00
+acceptance_rate: "46.910%"
+collected_at: "2026-04-17T17:10:20.701589+00:00"
 ---
 
 ## 문제

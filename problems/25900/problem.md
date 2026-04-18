@@ -1,13 +1,13 @@
 ---
-title: Count the Dividing Pairs
-special_judge: false
-time_limit: 4 초
-memory_limit: 1024 MB
+title: "Count the Dividing Pairs"
+special_judge: "false"
+time_limit: "4 초"
+memory_limit: "1024 MB"
 submissions: 49
 accepted: 18
 solved_users: 14
-acceptance_rate: 32.558%
-collected_at: 2026-04-17T17:36:20.098975+00:00
+acceptance_rate: "32.558%"
+collected_at: "2026-04-17T17:36:20.098975+00:00"
 ---
 
 ## 문제

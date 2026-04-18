@@ -1,13 +1,13 @@
 ---
-title: 중앙 트리
-special_judge: false
-time_limit: 3 초
-memory_limit: 128 MB
+title: "중앙 트리"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "128 MB"
 submissions: 2610
 accepted: 952
 solved_users: 683
-acceptance_rate: 35.297%
-collected_at: 2026-04-17T11:53:13.927101+00:00
+acceptance_rate: "35.297%"
+collected_at: "2026-04-17T11:53:13.927101+00:00"
 ---
 
 ## 문제

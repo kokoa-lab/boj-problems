@@ -1,13 +1,13 @@
 ---
-title: 양파 실험
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "양파 실험"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 2022
 accepted: 1552
 solved_users: 1478
-acceptance_rate: 77.749%
-collected_at: 2026-04-17T19:49:43.819756+00:00
+acceptance_rate: "77.749%"
+collected_at: "2026-04-17T19:49:43.819756+00:00"
 ---
 
 ## 문제

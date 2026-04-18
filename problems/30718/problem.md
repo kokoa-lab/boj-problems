@@ -1,13 +1,13 @@
 ---
-title: Дима и массив
-special_judge: false
-time_limit: 6.5 초
-memory_limit: 1024 MB
+title: "Дима и массив"
+special_judge: "false"
+time_limit: "6.5 초"
+memory_limit: "1024 MB"
 submissions: 74
 accepted: 12
 solved_users: 6
-acceptance_rate: 9.231%
-collected_at: 2026-04-17T19:13:20.573168+00:00
+acceptance_rate: "9.231%"
+collected_at: "2026-04-17T19:13:20.573168+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: POPCOUNT
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "POPCOUNT"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 129
 accepted: 99
 solved_users: 79
-acceptance_rate: 73.148%
-collected_at: 2026-04-17T18:59:06.758798+00:00
+acceptance_rate: "73.148%"
+collected_at: "2026-04-17T18:59:06.758798+00:00"
 ---
 
 ## 문제

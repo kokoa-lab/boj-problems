@@ -1,13 +1,13 @@
 ---
-title: 스코어보드 보기 귀찮아
-special_judge: false
-time_limit: 3 초
-memory_limit: 512 MB
+title: "스코어보드 보기 귀찮아"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "512 MB"
 submissions: 146
 accepted: 72
 solved_users: 47
-acceptance_rate: 47.959%
-collected_at: 2026-04-17T17:37:47.571857+00:00
+acceptance_rate: "47.959%"
+collected_at: "2026-04-17T17:37:47.571857+00:00"
 ---
 
 ## 문제

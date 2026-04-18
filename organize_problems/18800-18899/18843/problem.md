@@ -1,13 +1,13 @@
 ---
-title: Making Friends on Joitter is Fun
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Making Friends on Joitter is Fun"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 153
 accepted: 37
 solved_users: 36
-acceptance_rate: 29.508%
-collected_at: 2026-04-17T15:10:17.347266+00:00
+acceptance_rate: "29.508%"
+collected_at: "2026-04-17T15:10:17.347266+00:00"
 ---
 
 ## 문제

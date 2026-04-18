@@ -1,13 +1,13 @@
 ---
-title: Output Limit Exceeded
-special_judge: true
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Output Limit Exceeded"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 45
 accepted: 15
 solved_users: 12
-acceptance_rate: 31.579%
-collected_at: 2026-04-17T15:47:14.317831+00:00
+acceptance_rate: "31.579%"
+collected_at: "2026-04-17T15:47:14.317831+00:00"
 ---
 
 ## 문제

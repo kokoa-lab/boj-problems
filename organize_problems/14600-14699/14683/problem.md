@@ -1,13 +1,13 @@
 ---
-title: Exactly Electrical
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Exactly Electrical"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 670
 accepted: 383
 solved_users: 353
-acceptance_rate: 58.155%
-collected_at: 2026-04-17T13:40:12.080499+00:00
+acceptance_rate: "58.155%"
+collected_at: "2026-04-17T13:40:12.080499+00:00"
 ---
 
 ## 문제

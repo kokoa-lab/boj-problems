@@ -1,13 +1,13 @@
 ---
-title: 양말 부자 동우와 츤데레 재우
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "양말 부자 동우와 츤데레 재우"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 49
 accepted: 19
 solved_users: 15
-acceptance_rate: 40.541%
-collected_at: 2026-04-17T18:30:48.767895+00:00
+acceptance_rate: "40.541%"
+collected_at: "2026-04-17T18:30:48.767895+00:00"
 ---
 
 ## 문제

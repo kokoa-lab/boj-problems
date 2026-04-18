@@ -1,13 +1,13 @@
 ---
-title: Integral Pyramid
-special_judge: true
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Integral Pyramid"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 174
 accepted: 115
 solved_users: 82
-acceptance_rate: 65.079%
-collected_at: 2026-04-17T14:47:38.395293+00:00
+acceptance_rate: "65.079%"
+collected_at: "2026-04-17T14:47:38.395293+00:00"
 ---
 
 ## 문제

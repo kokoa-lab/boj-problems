@@ -1,13 +1,13 @@
 ---
-title: Prime Tree - 8
-special_judge: false
-time_limit: 10 초
-memory_limit: 512 MB
+title: "Prime Tree - 8"
+special_judge: "false"
+time_limit: "10 초"
+memory_limit: "512 MB"
 submissions: 134
 accepted: 61
 solved_users: 47
-acceptance_rate: 40.870%
-collected_at: 2026-04-17T14:16:59.851142+00:00
+acceptance_rate: "40.870%"
+collected_at: "2026-04-17T14:16:59.851142+00:00"
 ---
 
 ## 문제

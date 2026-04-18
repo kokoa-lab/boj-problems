@@ -1,13 +1,13 @@
 ---
-title: Matching Palindrome
-special_judge: false
-time_limit: 서브태스크 참고 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Matching Palindrome"
+special_judge: "false"
+time_limit: "서브태스크 참고 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 26
 accepted: 19
 solved_users: 16
-acceptance_rate: 88.889%
-collected_at: 2026-04-17T17:45:37.041918+00:00
+acceptance_rate: "88.889%"
+collected_at: "2026-04-17T17:45:37.041918+00:00"
 ---
 
 ## 문제

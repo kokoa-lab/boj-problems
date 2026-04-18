@@ -1,13 +1,13 @@
 ---
-title: 플립과 시프트
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "플립과 시프트"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 598
 accepted: 231
 solved_users: 175
-acceptance_rate: 42.579%
-collected_at: 2026-04-17T11:48:31.104305+00:00
+acceptance_rate: "42.579%"
+collected_at: "2026-04-17T11:48:31.104305+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Большие перемены
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Большие перемены"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 241
 accepted: 109
 solved_users: 85
-acceptance_rate: 44.041%
-collected_at: 2026-04-17T14:55:40.397337+00:00
+acceptance_rate: "44.041%"
+collected_at: "2026-04-17T14:55:40.397337+00:00"
 ---
 
 ## 문제

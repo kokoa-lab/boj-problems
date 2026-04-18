@@ -1,13 +1,13 @@
 ---
-title: 이분 그래프
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "이분 그래프"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 119837
 accepted: 34974
 solved_users: 22192
-acceptance_rate: 26.431%
-collected_at: 2026-04-17T10:32:34.827576+00:00
+acceptance_rate: "26.431%"
+collected_at: "2026-04-17T10:32:34.827576+00:00"
 ---
 
 ## 문제

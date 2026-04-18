@@ -1,13 +1,13 @@
 ---
-title: Party Invitation
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "Party Invitation"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 686
 accepted: 441
 solved_users: 364
-acceptance_rate: 69.333%
-collected_at: 2026-04-17T12:19:04.644057+00:00
+acceptance_rate: "69.333%"
+collected_at: "2026-04-17T12:19:04.644057+00:00"
 ---
 
 ## 문제

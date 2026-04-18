@@ -1,13 +1,13 @@
 ---
-title: Think I’ll Buy Me a Football Team
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Think I’ll Buy Me a Football Team"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 30
 accepted: 22
 solved_users: 21
-acceptance_rate: 72.414%
-collected_at: 2026-04-17T11:09:55.355278+00:00
+acceptance_rate: "72.414%"
+collected_at: "2026-04-17T11:09:55.355278+00:00"
 ---
 
 ## 문제

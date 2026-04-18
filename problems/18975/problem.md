@@ -1,13 +1,13 @@
 ---
-title: Jaw-Dropping Set
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Jaw-Dropping Set"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 136
 accepted: 55
 solved_users: 44
-acceptance_rate: 42.718%
-collected_at: 2026-04-17T15:12:00.415526+00:00
+acceptance_rate: "42.718%"
+collected_at: "2026-04-17T15:12:00.415526+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 가리기
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "가리기"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 837
 accepted: 74
 solved_users: 46
-acceptance_rate: 13.731%
-collected_at: 2026-04-17T10:28:34.812789+00:00
+acceptance_rate: "13.731%"
+collected_at: "2026-04-17T10:28:34.812789+00:00"
 ---
 
 ## 문제

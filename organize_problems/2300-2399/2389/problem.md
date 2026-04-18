@@ -1,13 +1,13 @@
 ---
-title: 세상의 중심에서...
-special_judge: true
-time_limit: 2 초
-memory_limit: 128 MB
+title: "세상의 중심에서..."
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 2286
 accepted: 809
 solved_users: 532
-acceptance_rate: 33.907%
-collected_at: 2026-04-17T10:41:16.640209+00:00
+acceptance_rate: "33.907%"
+collected_at: "2026-04-17T10:41:16.640209+00:00"
 ---
 
 ## 문제

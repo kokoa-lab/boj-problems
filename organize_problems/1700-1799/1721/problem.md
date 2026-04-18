@@ -1,13 +1,13 @@
 ---
-title: 상자퍼즐
-special_judge: true
-time_limit: 2 초
-memory_limit: 128 MB
+title: "상자퍼즐"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 177
 accepted: 60
 solved_users: 44
-acceptance_rate: 32.836%
-collected_at: 2026-04-17T10:32:43.165696+00:00
+acceptance_rate: "32.836%"
+collected_at: "2026-04-17T10:32:43.165696+00:00"
 ---
 
 ## 문제

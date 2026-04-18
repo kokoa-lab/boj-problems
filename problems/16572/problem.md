@@ -1,13 +1,13 @@
 ---
-title: Pixel Triangles
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Pixel Triangles"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 481
 accepted: 222
 solved_users: 122
-acceptance_rate: 44.689%
-collected_at: 2026-04-17T14:20:13.573798+00:00
+acceptance_rate: "44.689%"
+collected_at: "2026-04-17T14:20:13.573798+00:00"
 ---
 
 ## 문제

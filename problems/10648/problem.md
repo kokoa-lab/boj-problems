@@ -1,13 +1,13 @@
 ---
-title: DIVLJAK
-special_judge: false
-time_limit: 4 초
-memory_limit: 768 MB
+title: "DIVLJAK"
+special_judge: "false"
+time_limit: "4 초"
+memory_limit: "768 MB"
 submissions: 86
 accepted: 26
 solved_users: 13
-acceptance_rate: 23.636%
-collected_at: 2026-04-17T12:26:51.713398+00:00
+acceptance_rate: "23.636%"
+collected_at: "2026-04-17T12:26:51.713398+00:00"
 ---
 
 ## 문제

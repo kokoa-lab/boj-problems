@@ -1,13 +1,13 @@
 ---
-title: 게나디는 머리가 좋습니다
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "게나디는 머리가 좋습니다"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 210
 accepted: 40
 solved_users: 27
-acceptance_rate: 28.421%
-collected_at: 2026-04-17T13:01:34.782774+00:00
+acceptance_rate: "28.421%"
+collected_at: "2026-04-17T13:01:34.782774+00:00"
 ---
 
 ## 문제

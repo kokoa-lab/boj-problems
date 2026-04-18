@@ -1,13 +1,13 @@
 ---
-title: Numbers Combination
-special_judge: false
-time_limit: 2 초
-memory_limit: 2048 MB
+title: "Numbers Combination"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "2048 MB"
 submissions: 78
 accepted: 44
 solved_users: 20
-acceptance_rate: 50.000%
-collected_at: 2026-04-17T20:09:36.208191+00:00
+acceptance_rate: "50.000%"
+collected_at: "2026-04-17T20:09:36.208191+00:00"
 ---
 
 ## 문제

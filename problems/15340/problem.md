@@ -1,13 +1,13 @@
 ---
-title: Sim Card
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Sim Card"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 794
 accepted: 717
 solved_users: 675
-acceptance_rate: 90.848%
-collected_at: 2026-04-17T13:57:36.375631+00:00
+acceptance_rate: "90.848%"
+collected_at: "2026-04-17T13:57:36.375631+00:00"
 ---
 
 ## 문제

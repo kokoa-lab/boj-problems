@@ -1,13 +1,13 @@
 ---
-title: 하늘에서 떨어지는 $N$개의 별
-special_judge: false
-time_limit: 0.2 초
-memory_limit: 1024 MB
+title: "하늘에서 떨어지는 $N$개의 별"
+special_judge: "false"
+time_limit: "0.2 초"
+memory_limit: "1024 MB"
 submissions: 1063
 accepted: 463
 solved_users: 413
-acceptance_rate: 44.504%
-collected_at: 2026-04-17T20:21:21.203806+00:00
+acceptance_rate: "44.504%"
+collected_at: "2026-04-17T20:21:21.203806+00:00"
 ---
 
 ## 문제

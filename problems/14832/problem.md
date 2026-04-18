@@ -1,13 +1,13 @@
 ---
-title: Dice Straight (Large)
-special_judge: false
-time_limit: 30 초
-memory_limit: 512 MB
+title: "Dice Straight (Large)"
+special_judge: "false"
+time_limit: "30 초"
+memory_limit: "512 MB"
 submissions: 136
 accepted: 54
 solved_users: 32
-acceptance_rate: 31.683%
-collected_at: 2026-04-17T13:42:39.655421+00:00
+acceptance_rate: "31.683%"
+collected_at: "2026-04-17T13:42:39.655421+00:00"
 ---
 
 ## 문제

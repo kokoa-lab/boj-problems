@@ -1,13 +1,13 @@
 ---
-title: Rabid Rabbit
-special_judge: false
-time_limit: 10 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Rabid Rabbit"
+special_judge: "false"
+time_limit: "10 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 34
 accepted: 16
 solved_users: 10
-acceptance_rate: 55.556%
-collected_at: 2026-04-17T19:56:39.750380+00:00
+acceptance_rate: "55.556%"
+collected_at: "2026-04-17T19:56:39.750380+00:00"
 ---
 
 ## 문제

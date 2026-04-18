@@ -1,13 +1,13 @@
 ---
-title: 출퇴근
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "출퇴근"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 771
 accepted: 232
 solved_users: 160
-acceptance_rate: 27.682%
-collected_at: 2026-04-17T15:34:45.361488+00:00
+acceptance_rate: "27.682%"
+collected_at: "2026-04-17T15:34:45.361488+00:00"
 ---
 
 ## 문제

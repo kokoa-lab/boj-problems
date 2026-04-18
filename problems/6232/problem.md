@@ -1,13 +1,13 @@
 ---
-title: Ranking the Cows
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Ranking the Cows"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 62
 accepted: 38
 solved_users: 37
-acceptance_rate: 63.793%
-collected_at: 2026-04-17T11:23:30.739710+00:00
+acceptance_rate: "63.793%"
+collected_at: "2026-04-17T11:23:30.739710+00:00"
 ---
 
 ## 문제

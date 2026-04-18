@@ -1,13 +1,13 @@
 ---
-title: 오렌지 키우기
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "오렌지 키우기"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 252
 accepted: 39
 solved_users: 32
-acceptance_rate: 23.022%
-collected_at: 2026-04-17T16:38:33.125556+00:00
+acceptance_rate: "23.022%"
+collected_at: "2026-04-17T16:38:33.125556+00:00"
 ---
 
 ## 문제

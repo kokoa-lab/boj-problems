@@ -1,13 +1,13 @@
 ---
-title: 도미노 찾기
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "도미노 찾기"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 560
 accepted: 397
 solved_users: 332
-acceptance_rate: 74.439%
-collected_at: 2026-04-17T10:31:06.914705+00:00
+acceptance_rate: "74.439%"
+collected_at: "2026-04-17T10:31:06.914705+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 🎵니가 싫어 싫어 너무 싫어 싫어 오지 마 내게 찝쩍대지마🎵 - 1
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "🎵니가 싫어 싫어 너무 싫어 싫어 오지 마 내게 찝쩍대지마🎵 - 1"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 3638
 accepted: 1287
 solved_users: 972
-acceptance_rate: 35.116%
-collected_at: 2026-04-17T15:36:23.758958+00:00
+acceptance_rate: "35.116%"
+collected_at: "2026-04-17T15:36:23.758958+00:00"
 ---
 
 ## 문제

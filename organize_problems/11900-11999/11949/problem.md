@@ -1,13 +1,13 @@
 ---
-title: 번호표 교환
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "번호표 교환"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 875
 accepted: 736
 solved_users: 682
-acceptance_rate: 86.220%
-collected_at: 2026-04-17T12:48:04.145616+00:00
+acceptance_rate: "86.220%"
+collected_at: "2026-04-17T12:48:04.145616+00:00"
 ---
 
 ## 문제

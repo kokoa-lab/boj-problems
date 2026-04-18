@@ -1,13 +1,13 @@
 ---
-title: 디지털 시계
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "디지털 시계"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 122
 accepted: 42
 solved_users: 26
-acceptance_rate: 28.261%
-collected_at: 2026-04-17T10:50:31.943446+00:00
+acceptance_rate: "28.261%"
+collected_at: "2026-04-17T10:50:31.943446+00:00"
 ---
 
 ## 문제

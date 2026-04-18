@@ -1,13 +1,13 @@
 ---
-title: 스위치 켜고 끄기
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "스위치 켜고 끄기"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 97497
 accepted: 23010
 solved_users: 17303
-acceptance_rate: 21.762%
-collected_at: 2026-04-17T10:29:02.328857+00:00
+acceptance_rate: "21.762%"
+collected_at: "2026-04-17T10:29:02.328857+00:00"
 ---
 
 ## 문제

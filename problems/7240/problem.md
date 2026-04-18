@@ -1,13 +1,13 @@
 ---
-title: Rogutės
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Rogutės"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 368
 accepted: 280
 solved_users: 266
-acceptance_rate: 78.235%
-collected_at: 2026-04-17T11:47:32.970285+00:00
+acceptance_rate: "78.235%"
+collected_at: "2026-04-17T11:47:32.970285+00:00"
 ---
 
 ## 문제

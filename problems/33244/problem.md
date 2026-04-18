@@ -1,13 +1,13 @@
 ---
-title: Group Activities
-special_judge: false
-time_limit: 1 초
-memory_limit: 2048 MB
+title: "Group Activities"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "2048 MB"
 submissions: 111
 accepted: 75
 solved_users: 62
-acceptance_rate: 68.132%
-collected_at: 2026-04-17T20:12:03.303431+00:00
+acceptance_rate: "68.132%"
+collected_at: "2026-04-17T20:12:03.303431+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: New Year and Ascent Sequence
-special_judge: false
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "New Year and Ascent Sequence"
+special_judge: "false"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 158
 accepted: 87
 solved_users: 83
-acceptance_rate: 61.029%
-collected_at: 2026-04-17T15:10:53.832287+00:00
+acceptance_rate: "61.029%"
+collected_at: "2026-04-17T15:10:53.832287+00:00"
 ---
 
 ## 문제

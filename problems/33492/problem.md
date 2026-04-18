@@ -1,13 +1,13 @@
 ---
-title: 멀티버스를 여행하는 한별이를 위한 안내서
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "멀티버스를 여행하는 한별이를 위한 안내서"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 166
 accepted: 40
 solved_users: 35
-acceptance_rate: 23.810%
-collected_at: 2026-04-17T20:17:33.036458+00:00
+acceptance_rate: "23.810%"
+collected_at: "2026-04-17T20:17:33.036458+00:00"
 ---
 
 ## 문제

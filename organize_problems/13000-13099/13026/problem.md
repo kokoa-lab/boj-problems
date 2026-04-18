@@ -1,13 +1,13 @@
 ---
-title: 저녁 식사
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "저녁 식사"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 57
 accepted: 25
 solved_users: 22
-acceptance_rate: 55.000%
-collected_at: 2026-04-17T13:06:09.856187+00:00
+acceptance_rate: "55.000%"
+collected_at: "2026-04-17T13:06:09.856187+00:00"
 ---
 
 ## 문제

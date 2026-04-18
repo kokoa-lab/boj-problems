@@ -1,13 +1,13 @@
 ---
-title: Hilbert’s Hash Browns
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Hilbert’s Hash Browns"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 19
 accepted: 8
 solved_users: 7
-acceptance_rate: 38.889%
-collected_at: 2026-04-17T13:53:46.886380+00:00
+acceptance_rate: "38.889%"
+collected_at: "2026-04-17T13:53:46.886380+00:00"
 ---
 
 ## 문제

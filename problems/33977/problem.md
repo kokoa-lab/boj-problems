@@ -1,13 +1,13 @@
 ---
-title: $K$-POP
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "$K$-POP"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 263
 accepted: 162
 solved_users: 145
-acceptance_rate: 65.611%
-collected_at: 2026-04-17T20:27:42.865032+00:00
+acceptance_rate: "65.611%"
+collected_at: "2026-04-17T20:27:42.865032+00:00"
 ---
 
 ## 문제

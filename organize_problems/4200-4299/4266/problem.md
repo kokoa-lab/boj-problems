@@ -1,13 +1,13 @@
 ---
-title: Rinse
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Rinse"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 54
 accepted: 3
 solved_users: 3
-acceptance_rate: 10.345%
-collected_at: 2026-04-17T10:58:26.356760+00:00
+acceptance_rate: "10.345%"
+collected_at: "2026-04-17T10:58:26.356760+00:00"
 ---
 
 ## 문제

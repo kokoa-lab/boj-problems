@@ -1,13 +1,13 @@
 ---
-title: 좀비 바이러스
-special_judge: false
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "좀비 바이러스"
+special_judge: "false"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 1969
 accepted: 713
 solved_users: 516
-acceptance_rate: 34.865%
-collected_at: 2026-04-17T17:10:29.749591+00:00
+acceptance_rate: "34.865%"
+collected_at: "2026-04-17T17:10:29.749591+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Domino tiling
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Domino tiling"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 80
 accepted: 25
 solved_users: 14
-acceptance_rate: 29.787%
-collected_at: 2026-04-17T11:31:44.648057+00:00
+acceptance_rate: "29.787%"
+collected_at: "2026-04-17T11:31:44.648057+00:00"
 ---
 
 ## 문제

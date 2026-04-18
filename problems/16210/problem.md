@@ -1,13 +1,13 @@
 ---
-title: DSHS Bank
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "DSHS Bank"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 681
 accepted: 172
 solved_users: 135
-acceptance_rate: 29.476%
-collected_at: 2026-04-17T14:13:32.417985+00:00
+acceptance_rate: "29.476%"
+collected_at: "2026-04-17T14:13:32.417985+00:00"
 ---
 
 ## 문제

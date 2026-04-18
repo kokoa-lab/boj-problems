@@ -1,13 +1,13 @@
 ---
-title: Фоторобот Грин-де-Вальда
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Фоторобот Грин-де-Вальда"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 43
 accepted: 35
 solved_users: 34
-acceptance_rate: 80.952%
-collected_at: 2026-04-17T18:33:18.121954+00:00
+acceptance_rate: "80.952%"
+collected_at: "2026-04-17T18:33:18.121954+00:00"
 ---
 
 ## 문제

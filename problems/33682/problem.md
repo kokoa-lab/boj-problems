@@ -1,13 +1,13 @@
 ---
-title: 하늘에서 떨어지는 $\infty$개의 별
-special_judge: false
-time_limit: 0.2 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "하늘에서 떨어지는 $\\infty$개의 별"
+special_judge: "false"
+time_limit: "0.2 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 238
 accepted: 78
 solved_users: 66
-acceptance_rate: 35.676%
-collected_at: 2026-04-17T20:21:27.069170+00:00
+acceptance_rate: "35.676%"
+collected_at: "2026-04-17T20:21:27.069170+00:00"
 ---
 
 ## 문제

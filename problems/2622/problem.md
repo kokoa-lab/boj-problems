@@ -1,13 +1,13 @@
 ---
-title: 삼각형만들기
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "삼각형만들기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 7494
 accepted: 3221
 solved_users: 2513
-acceptance_rate: 44.620%
-collected_at: 2026-04-17T10:43:23.316636+00:00
+acceptance_rate: "44.620%"
+collected_at: "2026-04-17T10:43:23.316636+00:00"
 ---
 
 ## 문제

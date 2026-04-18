@@ -1,13 +1,13 @@
 ---
-title: KMP는 왜 KMP일까?
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "KMP는 왜 KMP일까?"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 19881
 accepted: 16226
 solved_users: 14672
-acceptance_rate: 82.888%
-collected_at: 2026-04-17T10:45:35.809987+00:00
+acceptance_rate: "82.888%"
+collected_at: "2026-04-17T10:45:35.809987+00:00"
 ---
 
 ## 문제

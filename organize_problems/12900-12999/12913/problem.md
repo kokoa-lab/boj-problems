@@ -1,13 +1,13 @@
 ---
-title: 매직 포션
-special_judge: true
-time_limit: 2 초
-memory_limit: 512 MB
+title: "매직 포션"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 575
 accepted: 210
 solved_users: 141
-acceptance_rate: 34.559%
-collected_at: 2026-04-17T13:03:47.049511+00:00
+acceptance_rate: "34.559%"
+collected_at: "2026-04-17T13:03:47.049511+00:00"
 ---
 
 ## 문제

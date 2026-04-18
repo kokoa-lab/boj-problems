@@ -1,13 +1,13 @@
 ---
-title: 키 순서
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "키 순서"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 23832
 accepted: 13127
 solved_users: 9588
-acceptance_rate: 54.580%
-collected_at: 2026-04-17T10:41:47.023275+00:00
+acceptance_rate: "54.580%"
+collected_at: "2026-04-17T10:41:47.023275+00:00"
 ---
 
 ## 문제

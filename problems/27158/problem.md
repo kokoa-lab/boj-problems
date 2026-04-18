@@ -1,13 +1,13 @@
 ---
-title: 펜토미노
-special_judge: true
-time_limit: 1 초  ( 하단 참고 )
-memory_limit: 512 MB
+title: "펜토미노"
+special_judge: "true"
+time_limit: "1 초  ( 하단 참고 )"
+memory_limit: "512 MB"
 submissions: 174
 accepted: 46
 solved_users: 35
-acceptance_rate: 26.515%
-collected_at: 2026-04-17T17:57:18.996078+00:00
+acceptance_rate: "26.515%"
+collected_at: "2026-04-17T17:57:18.996078+00:00"
 ---
 
 ## 문제

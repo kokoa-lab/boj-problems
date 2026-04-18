@@ -1,13 +1,13 @@
 ---
-title: 알고리즘 수업 - 병합 정렬 3
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "알고리즘 수업 - 병합 정렬 3"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 1648
 accepted: 241
 solved_users: 175
-acceptance_rate: 19.752%
-collected_at: 2026-04-17T17:02:50.785178+00:00
+acceptance_rate: "19.752%"
+collected_at: "2026-04-17T17:02:50.785178+00:00"
 ---
 
 ## 문제

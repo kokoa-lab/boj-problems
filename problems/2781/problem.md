@@ -1,13 +1,13 @@
 ---
-title: 놀이 동산
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "놀이 동산"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 257
 accepted: 29
 solved_users: 19
-acceptance_rate: 12.338%
-collected_at: 2026-04-17T10:44:45.971155+00:00
+acceptance_rate: "12.338%"
+collected_at: "2026-04-17T10:44:45.971155+00:00"
 ---
 
 ## 문제

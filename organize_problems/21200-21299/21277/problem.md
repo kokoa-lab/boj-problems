@@ -1,13 +1,13 @@
 ---
-title: 짠돌이 호석
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "짠돌이 호석"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 1499
 accepted: 464
 solved_users: 232
-acceptance_rate: 25.579%
-collected_at: 2026-04-17T15:52:51.641431+00:00
+acceptance_rate: "25.579%"
+collected_at: "2026-04-17T15:52:51.641431+00:00"
 ---
 
 ## 문제

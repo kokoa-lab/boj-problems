@@ -1,13 +1,13 @@
 ---
-title: 자석
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "자석"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 223
 accepted: 59
 solved_users: 52
-acceptance_rate: 28.729%
-collected_at: 2026-04-17T10:47:00.767766+00:00
+acceptance_rate: "28.729%"
+collected_at: "2026-04-17T10:47:00.767766+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Time to Eat
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Time to Eat"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 37
 accepted: 22
 solved_users: 18
-acceptance_rate: 58.065%
-collected_at: 2026-04-17T17:33:42.216218+00:00
+acceptance_rate: "58.065%"
+collected_at: "2026-04-17T17:33:42.216218+00:00"
 ---
 
 ## 문제

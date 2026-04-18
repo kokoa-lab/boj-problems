@@ -1,13 +1,13 @@
 ---
-title: 불필요한 수
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "불필요한 수"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 302
 accepted: 111
 solved_users: 84
-acceptance_rate: 38.532%
-collected_at: 2026-04-17T10:41:10.969986+00:00
+acceptance_rate: "38.532%"
+collected_at: "2026-04-17T10:41:10.969986+00:00"
 ---
 
 ## 문제

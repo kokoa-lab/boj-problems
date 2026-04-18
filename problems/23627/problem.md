@@ -1,13 +1,13 @@
 ---
-title: driip
-special_judge: false
-time_limit: 0.5 초
-memory_limit: 16 MB
+title: "driip"
+special_judge: "false"
+time_limit: "0.5 초"
+memory_limit: "16 MB"
 submissions: 1680
 accepted: 1123
 solved_users: 1040
-acceptance_rate: 69.103%
-collected_at: 2026-04-17T16:51:14.831238+00:00
+acceptance_rate: "69.103%"
+collected_at: "2026-04-17T16:51:14.831238+00:00"
 ---
 
 ## 문제

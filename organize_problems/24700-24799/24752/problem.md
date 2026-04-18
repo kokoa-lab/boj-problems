@@ -1,13 +1,13 @@
 ---
-title: Antialiasing
-special_judge: false
-time_limit: 4 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Antialiasing"
+special_judge: "false"
+time_limit: "4 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 8
 accepted: 4
 solved_users: 4
-acceptance_rate: 66.667%
-collected_at: 2026-04-17T17:14:18.552037+00:00
+acceptance_rate: "66.667%"
+collected_at: "2026-04-17T17:14:18.552037+00:00"
 ---
 
 ## 문제

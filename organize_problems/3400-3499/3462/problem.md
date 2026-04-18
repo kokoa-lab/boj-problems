@@ -1,13 +1,13 @@
 ---
-title: 이진 스털링 수
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "이진 스털링 수"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 526
 accepted: 170
 solved_users: 125
-acceptance_rate: 40.453%
-collected_at: 2026-04-17T10:49:04.430339+00:00
+acceptance_rate: "40.453%"
+collected_at: "2026-04-17T10:49:04.430339+00:00"
 ---
 
 ## 문제

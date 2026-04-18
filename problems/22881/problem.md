@@ -1,13 +1,13 @@
 ---
-title: 붉은색 푸른색
-special_judge: true
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 32 MB (추가 메모리 없음)
+title: "붉은색 푸른색"
+special_judge: "true"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "32 MB (추가 메모리 없음)"
 submissions: 109
 accepted: 36
 solved_users: 19
-acceptance_rate: 33.333%
-collected_at: 2026-04-17T16:37:58.984967+00:00
+acceptance_rate: "33.333%"
+collected_at: "2026-04-17T16:37:58.984967+00:00"
 ---
 
 ## 문제

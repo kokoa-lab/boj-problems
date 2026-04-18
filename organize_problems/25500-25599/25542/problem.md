@@ -1,13 +1,13 @@
 ---
-title: 약속 장소
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "약속 장소"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 1342
 accepted: 325
 solved_users: 281
-acceptance_rate: 30.053%
-collected_at: 2026-04-17T17:28:27.857777+00:00
+acceptance_rate: "30.053%"
+collected_at: "2026-04-17T17:28:27.857777+00:00"
 ---
 
 ## 문제

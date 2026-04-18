@@ -1,13 +1,13 @@
 ---
-title: 표본의 수 구하기
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "표본의 수 구하기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 949
 accepted: 150
 solved_users: 107
-acceptance_rate: 20.537%
-collected_at: 2026-04-17T13:09:16.351659+00:00
+acceptance_rate: "20.537%"
+collected_at: "2026-04-17T13:09:16.351659+00:00"
 ---
 
 ## 문제

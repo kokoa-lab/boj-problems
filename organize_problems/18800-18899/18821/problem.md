@@ -1,13 +1,13 @@
 ---
-title: 홀수와 짝수의 대결
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "홀수와 짝수의 대결"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 7307
 accepted: 631
 solved_users: 509
-acceptance_rate: 15.986%
-collected_at: 2026-04-17T15:09:58.319128+00:00
+acceptance_rate: "15.986%"
+collected_at: "2026-04-17T15:09:58.319128+00:00"
 ---
 
 ## 문제

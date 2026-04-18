@@ -1,13 +1,13 @@
 ---
-title: 여기는 몇 층일까
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "여기는 몇 층일까"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 100
 accepted: 69
 solved_users: 63
-acceptance_rate: 72.414%
-collected_at: 2026-04-17T21:11:08.502956+00:00
+acceptance_rate: "72.414%"
+collected_at: "2026-04-17T21:11:08.502956+00:00"
 ---
 
 ## 문제

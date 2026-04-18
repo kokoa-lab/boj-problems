@@ -1,13 +1,13 @@
 ---
-title: 판게아 1
-special_judge: false
-time_limit: 20 초
-memory_limit: 256 MB
+title: "판게아 1"
+special_judge: "false"
+time_limit: "20 초"
+memory_limit: "256 MB"
 submissions: 831
 accepted: 259
 solved_users: 169
-acceptance_rate: 28.840%
-collected_at: 2026-04-17T12:27:59.564056+00:00
+acceptance_rate: "28.840%"
+collected_at: "2026-04-17T12:27:59.564056+00:00"
 ---
 
 ## 문제

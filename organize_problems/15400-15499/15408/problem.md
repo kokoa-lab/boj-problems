@@ -1,13 +1,13 @@
 ---
-title: French Dinner
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "French Dinner"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 20
 accepted: 17
 solved_users: 6
-acceptance_rate: 75.000%
-collected_at: 2026-04-17T13:58:46.261599+00:00
+acceptance_rate: "75.000%"
+collected_at: "2026-04-17T13:58:46.261599+00:00"
 ---
 
 ## 문제

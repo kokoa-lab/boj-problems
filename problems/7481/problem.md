@@ -1,13 +1,13 @@
 ---
-title: ATM놀이
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "ATM놀이"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 1274
 accepted: 195
 solved_users: 153
-acceptance_rate: 29.709%
-collected_at: 2026-04-17T11:49:48.395197+00:00
+acceptance_rate: "29.709%"
+collected_at: "2026-04-17T11:49:48.395197+00:00"
 ---
 
 ## 문제

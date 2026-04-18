@@ -1,13 +1,13 @@
 ---
-title: 말파티 원
-special_judge: true
-time_limit: 1 초
-memory_limit: 128 MB
+title: "말파티 원"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 36
 accepted: 31
 solved_users: 28
-acceptance_rate: 84.848%
-collected_at: 2026-04-17T10:52:57.560329+00:00
+acceptance_rate: "84.848%"
+collected_at: "2026-04-17T10:52:57.560329+00:00"
 ---
 
 ## 문제

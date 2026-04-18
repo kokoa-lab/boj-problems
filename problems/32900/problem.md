@@ -1,13 +1,13 @@
 ---
-title: Limited Library
-special_judge: false
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 2048 MB
+title: "Limited Library"
+special_judge: "false"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "2048 MB"
 submissions: 70
 accepted: 52
 solved_users: 50
-acceptance_rate: 74.627%
-collected_at: 2026-04-17T20:03:59.737707+00:00
+acceptance_rate: "74.627%"
+collected_at: "2026-04-17T20:03:59.737707+00:00"
 ---
 
 ## 문제

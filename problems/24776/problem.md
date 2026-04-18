@@ -1,13 +1,13 @@
 ---
-title: Recount
-special_judge: false
-time_limit: 3 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Recount"
+special_judge: "false"
+time_limit: "3 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 216
 accepted: 137
 solved_users: 113
-acceptance_rate: 63.483%
-collected_at: 2026-04-17T17:14:44.957605+00:00
+acceptance_rate: "63.483%"
+collected_at: "2026-04-17T17:14:44.957605+00:00"
 ---
 
 ## 문제

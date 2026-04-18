@@ -1,13 +1,13 @@
 ---
-title: Masquerade Party
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Masquerade Party"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 25
 accepted: 4
 solved_users: 4
-acceptance_rate: 22.222%
-collected_at: 2026-04-17T14:37:14.497824+00:00
+acceptance_rate: "22.222%"
+collected_at: "2026-04-17T14:37:14.497824+00:00"
 ---
 
 ## 문제

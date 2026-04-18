@@ -1,13 +1,13 @@
 ---
-title: Symmetry
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Symmetry"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 692
 accepted: 326
 solved_users: 293
-acceptance_rate: 47.488%
-collected_at: 2026-04-17T11:18:50.822081+00:00
+acceptance_rate: "47.488%"
+collected_at: "2026-04-17T11:18:50.822081+00:00"
 ---
 
 ## 문제

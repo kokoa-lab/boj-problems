@@ -1,13 +1,13 @@
 ---
-title: 집 주소
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "집 주소"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 12727
 accepted: 8704
 solved_users: 8003
-acceptance_rate: 70.103%
-collected_at: 2026-04-17T10:29:16.060772+00:00
+acceptance_rate: "70.103%"
+collected_at: "2026-04-17T10:29:16.060772+00:00"
 ---
 
 ## 문제

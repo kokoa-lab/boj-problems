@@ -1,13 +1,13 @@
 ---
-title: 정육면체
-special_judge: false
-time_limit: 10 초
-memory_limit: 128 MB
+title: "정육면체"
+special_judge: "false"
+time_limit: "10 초"
+memory_limit: "128 MB"
 submissions: 1296
 accepted: 504
 solved_users: 278
-acceptance_rate: 32.363%
-collected_at: 2026-04-17T12:06:17.003301+00:00
+acceptance_rate: "32.363%"
+collected_at: "2026-04-17T12:06:17.003301+00:00"
 ---
 
 ## 문제

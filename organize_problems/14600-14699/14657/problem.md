@@ -1,13 +1,13 @@
 ---
-title: 준오는 최종인재야!!
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "준오는 최종인재야!!"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 1126
 accepted: 320
 solved_users: 224
-acceptance_rate: 26.794%
-collected_at: 2026-04-17T13:40:03.165291+00:00
+acceptance_rate: "26.794%"
+collected_at: "2026-04-17T13:40:03.165291+00:00"
 ---
 
 ## 문제

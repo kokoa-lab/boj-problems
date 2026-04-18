@@ -1,13 +1,13 @@
 ---
-title: K-Path
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "K-Path"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 970
 accepted: 456
 solved_users: 310
-acceptance_rate: 43.296%
-collected_at: 2026-04-17T13:03:53.977561+00:00
+acceptance_rate: "43.296%"
+collected_at: "2026-04-17T13:03:53.977561+00:00"
 ---
 
 ## 문제

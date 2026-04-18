@@ -1,13 +1,13 @@
 ---
-title: 즐거운 단어
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "즐거운 단어"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 1776
 accepted: 871
 solved_users: 627
-acceptance_rate: 48.756%
-collected_at: 2026-04-17T10:45:44.046889+00:00
+acceptance_rate: "48.756%"
+collected_at: "2026-04-17T10:45:44.046889+00:00"
 ---
 
 ## 문제

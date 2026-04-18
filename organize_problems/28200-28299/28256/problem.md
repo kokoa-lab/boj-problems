@@ -1,13 +1,13 @@
 ---
-title: 초콜릿 보관함
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "초콜릿 보관함"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 1083
 accepted: 495
 solved_users: 454
-acceptance_rate: 48.712%
-collected_at: 2026-04-17T18:21:20.894705+00:00
+acceptance_rate: "48.712%"
+collected_at: "2026-04-17T18:21:20.894705+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 나무 조각
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "나무 조각"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 12699
 accepted: 7271
 solved_users: 6507
-acceptance_rate: 58.569%
-collected_at: 2026-04-17T10:45:54.089082+00:00
+acceptance_rate: "58.569%"
+collected_at: "2026-04-17T10:45:54.089082+00:00"
 ---
 
 ## 문제

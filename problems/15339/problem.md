@@ -1,13 +1,13 @@
 ---
-title: Counting Cycles
-special_judge: false
-time_limit: 4 초
-memory_limit: 512 MB
+title: "Counting Cycles"
+special_judge: "false"
+time_limit: "4 초"
+memory_limit: "512 MB"
 submissions: 113
 accepted: 41
 solved_users: 29
-acceptance_rate: 40.278%
-collected_at: 2026-04-17T13:57:32.983302+00:00
+acceptance_rate: "40.278%"
+collected_at: "2026-04-17T13:57:32.983302+00:00"
 ---
 
 ## 문제

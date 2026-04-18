@@ -1,13 +1,13 @@
 ---
-title: Horse Race
-special_judge: true
-time_limit: 0.1 초
-memory_limit: 1024 MB
+title: "Horse Race"
+special_judge: "true"
+time_limit: "0.1 초"
+memory_limit: "1024 MB"
 submissions: 103
 accepted: 58
 solved_users: 52
-acceptance_rate: 59.770%
-collected_at: 2026-04-17T18:17:16.673826+00:00
+acceptance_rate: "59.770%"
+collected_at: "2026-04-17T18:17:16.673826+00:00"
 ---
 
 ## 문제

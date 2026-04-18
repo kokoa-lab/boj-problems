@@ -1,13 +1,13 @@
 ---
-title: Harumachi Kaze
-special_judge: false
-time_limit: 90 초 (추가 시간 없음)
-memory_limit: 2048 MB
+title: "Harumachi Kaze"
+special_judge: "false"
+time_limit: "90 초 (추가 시간 없음)"
+memory_limit: "2048 MB"
 submissions: 1
 accepted: 1
 solved_users: 1
-acceptance_rate: 100.000%
-collected_at: 2026-04-17T20:14:57.591845+00:00
+acceptance_rate: "100.000%"
+collected_at: "2026-04-17T20:14:57.591845+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: しりとり (Shiritori)
-special_judge: false
-time_limit: 5 초
-memory_limit: 1024 MB
+title: "しりとり (Shiritori)"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "1024 MB"
 submissions: 74
 accepted: 20
 solved_users: 16
-acceptance_rate: 30.189%
-collected_at: 2026-04-17T17:03:53.207315+00:00
+acceptance_rate: "30.189%"
+collected_at: "2026-04-17T17:03:53.207315+00:00"
 ---
 
 ## 문제

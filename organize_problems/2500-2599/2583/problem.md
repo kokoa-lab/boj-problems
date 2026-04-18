@@ -1,13 +1,13 @@
 ---
-title: 영역 구하기
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "영역 구하기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 63451
 accepted: 37284
 solved_users: 28524
-acceptance_rate: 58.688%
-collected_at: 2026-04-17T10:43:00.092398+00:00
+acceptance_rate: "58.688%"
+collected_at: "2026-04-17T10:43:00.092398+00:00"
 ---
 
 ## 문제

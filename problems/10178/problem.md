@@ -1,13 +1,13 @@
 ---
-title: 할로윈의 사탕
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "할로윈의 사탕"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 9174
 accepted: 6701
 solved_users: 6371
-acceptance_rate: 74.228%
-collected_at: 2026-04-17T12:20:03.931273+00:00
+acceptance_rate: "74.228%"
+collected_at: "2026-04-17T12:20:03.931273+00:00"
 ---
 
 ## 문제

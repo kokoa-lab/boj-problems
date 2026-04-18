@@ -1,13 +1,13 @@
 ---
-title: 피보나치와 수열과 쿼리
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "피보나치와 수열과 쿼리"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 919
 accepted: 378
 solved_users: 281
-acceptance_rate: 44.182%
-collected_at: 2026-04-17T15:34:37.165492+00:00
+acceptance_rate: "44.182%"
+collected_at: "2026-04-17T15:34:37.165492+00:00"
 ---
 
 ## 문제

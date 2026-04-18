@@ -1,13 +1,13 @@
 ---
-title: The Hardest Problem Ever
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "The Hardest Problem Ever"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 759
 accepted: 494
 solved_users: 427
-acceptance_rate: 66.511%
-collected_at: 2026-04-17T12:17:15.570171+00:00
+acceptance_rate: "66.511%"
+collected_at: "2026-04-17T12:17:15.570171+00:00"
 ---
 
 ## 문제

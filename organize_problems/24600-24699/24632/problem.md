@@ -1,13 +1,13 @@
 ---
-title: Столетний дятел
-special_judge: false
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "Столетний дятел"
+special_judge: "false"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 22
 accepted: 15
 solved_users: 14
-acceptance_rate: 66.667%
-collected_at: 2026-04-17T17:12:18.852810+00:00
+acceptance_rate: "66.667%"
+collected_at: "2026-04-17T17:12:18.852810+00:00"
 ---
 
 ## 문제

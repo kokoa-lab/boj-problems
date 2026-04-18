@@ -1,13 +1,13 @@
 ---
-title: Ponk Warshall
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Ponk Warshall"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 58
 accepted: 47
 solved_users: 44
-acceptance_rate: 80.000%
-collected_at: 2026-04-17T14:56:54.145707+00:00
+acceptance_rate: "80.000%"
+collected_at: "2026-04-17T14:56:54.145707+00:00"
 ---
 
 ## 문제

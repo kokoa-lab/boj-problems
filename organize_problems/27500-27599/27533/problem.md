@@ -1,13 +1,13 @@
 ---
-title: 따로 걸어가기
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "따로 걸어가기"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 255
 accepted: 187
 solved_users: 140
-acceptance_rate: 77.348%
-collected_at: 2026-04-17T18:05:50.951142+00:00
+acceptance_rate: "77.348%"
+collected_at: "2026-04-17T18:05:50.951142+00:00"
 ---
 
 ## 문제

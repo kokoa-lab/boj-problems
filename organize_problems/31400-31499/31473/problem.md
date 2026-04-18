@@ -1,13 +1,13 @@
 ---
-title: 하늘과 핑크
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "하늘과 핑크"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 920
 accepted: 544
 solved_users: 478
-acceptance_rate: 59.975%
-collected_at: 2026-04-17T19:28:51.457012+00:00
+acceptance_rate: "59.975%"
+collected_at: "2026-04-17T19:28:51.457012+00:00"
 ---
 
 ## 문제

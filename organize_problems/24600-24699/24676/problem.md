@@ -1,13 +1,13 @@
 ---
-title: Fancy Arrays
-special_judge: false
-time_limit: 2.5 초
-memory_limit: 256 MB
+title: "Fancy Arrays"
+special_judge: "false"
+time_limit: "2.5 초"
+memory_limit: "256 MB"
 submissions: 58
 accepted: 12
 solved_users: 10
-acceptance_rate: 20.833%
-collected_at: 2026-04-17T17:13:10.902383+00:00
+acceptance_rate: "20.833%"
+collected_at: "2026-04-17T17:13:10.902383+00:00"
 ---
 
 ## 문제

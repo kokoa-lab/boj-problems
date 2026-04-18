@@ -1,13 +1,13 @@
 ---
-title: Коллайдер 2.0
-special_judge: true
-time_limit: 3 초
-memory_limit: 1024 MB
+title: "Коллайдер 2.0"
+special_judge: "true"
+time_limit: "3 초"
+memory_limit: "1024 MB"
 submissions: 7
 accepted: 0
 solved_users: 0
-acceptance_rate: 0.000%
-collected_at: 2026-04-17T15:59:29.007859+00:00
+acceptance_rate: "0.000%"
+collected_at: "2026-04-17T15:59:29.007859+00:00"
 ---
 
 ## 문제

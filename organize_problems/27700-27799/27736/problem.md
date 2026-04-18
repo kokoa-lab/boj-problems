@@ -1,13 +1,13 @@
 ---
-title: 찬반투표
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "찬반투표"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 3328
 accepted: 1398
 solved_users: 1325
-acceptance_rate: 43.686%
-collected_at: 2026-04-17T18:09:52.737672+00:00
+acceptance_rate: "43.686%"
+collected_at: "2026-04-17T18:09:52.737672+00:00"
 ---
 
 ## 문제

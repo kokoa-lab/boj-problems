@@ -1,13 +1,13 @@
 ---
-title: Class Photo
-special_judge: false
-time_limit: 1 초
-memory_limit: 2048 MB
+title: "Class Photo"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "2048 MB"
 submissions: 1234
 accepted: 1140
 solved_users: 1079
-acceptance_rate: 92.777%
-collected_at: 2026-04-17T20:34:34.833352+00:00
+acceptance_rate: "92.777%"
+collected_at: "2026-04-17T20:34:34.833352+00:00"
 ---
 
 ## 문제

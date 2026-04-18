@@ -1,13 +1,13 @@
 ---
-title: 2루수 이름이 뭐야
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "2루수 이름이 뭐야"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 3140
 accepted: 2083
 solved_users: 1912
-acceptance_rate: 66.947%
-collected_at: 2026-04-17T14:37:41.019537+00:00
+acceptance_rate: "66.947%"
+collected_at: "2026-04-17T14:37:41.019537+00:00"
 ---
 
 ## 문제

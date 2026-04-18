@@ -1,13 +1,13 @@
 ---
-title: 더해
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "더해"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 28
 accepted: 7
 solved_users: 7
-acceptance_rate: 43.750%
-collected_at: 2026-04-17T11:53:20.214859+00:00
+acceptance_rate: "43.750%"
+collected_at: "2026-04-17T11:53:20.214859+00:00"
 ---
 
 ## 문제

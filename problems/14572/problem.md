@@ -1,13 +1,13 @@
 ---
-title: 스터디 그룹
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "스터디 그룹"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 3261
 accepted: 1301
 solved_users: 1060
-acceptance_rate: 38.034%
-collected_at: 2026-04-17T13:38:21.100467+00:00
+acceptance_rate: "38.034%"
+collected_at: "2026-04-17T13:38:21.100467+00:00"
 ---
 
 ## 문제

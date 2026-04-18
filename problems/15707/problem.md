@@ -1,13 +1,13 @@
 ---
-title: exceed or not
-special_judge: false
-time_limit: 0.5 초
-memory_limit: 128 MB
+title: "exceed or not"
+special_judge: "false"
+time_limit: "0.5 초"
+memory_limit: "128 MB"
 submissions: 1171
 accepted: 291
 solved_users: 255
-acceptance_rate: 32.443%
-collected_at: 2026-04-17T14:04:50.097763+00:00
+acceptance_rate: "32.443%"
+collected_at: "2026-04-17T14:04:50.097763+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 흔한 수열 문제
-special_judge: true
-time_limit: 1 초
-memory_limit: 128 MB
+title: "흔한 수열 문제"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 1095
 accepted: 419
 solved_users: 272
-acceptance_rate: 34.343%
-collected_at: 2026-04-17T10:44:51.285072+00:00
+acceptance_rate: "34.343%"
+collected_at: "2026-04-17T10:44:51.285072+00:00"
 ---
 
 ## 문제

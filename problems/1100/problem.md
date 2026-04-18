@@ -1,13 +1,13 @@
 ---
-title: 하얀 칸
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "하얀 칸"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 34149
 accepted: 23987
 solved_users: 21306
-acceptance_rate: 72.423%
-collected_at: 2026-04-17T10:28:14.922825+00:00
+acceptance_rate: "72.423%"
+collected_at: "2026-04-17T10:28:14.922825+00:00"
 ---
 
 ## 문제

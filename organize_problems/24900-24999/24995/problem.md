@@ -1,13 +1,13 @@
 ---
-title: Most Ordered Way
-special_judge: false
-time_limit: 0.3 초
-memory_limit: 1024 MB
+title: "Most Ordered Way"
+special_judge: "false"
+time_limit: "0.3 초"
+memory_limit: "1024 MB"
 submissions: 85
 accepted: 39
 solved_users: 34
-acceptance_rate: 50.746%
-collected_at: 2026-04-17T17:18:21.096980+00:00
+acceptance_rate: "50.746%"
+collected_at: "2026-04-17T17:18:21.096980+00:00"
 ---
 
 ## 문제

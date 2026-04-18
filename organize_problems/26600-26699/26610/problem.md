@@ -1,13 +1,13 @@
 ---
-title: 돌게임과 쿼리
-special_judge: false
-time_limit: 1.5 초
-memory_limit: 512 MB
+title: "돌게임과 쿼리"
+special_judge: "false"
+time_limit: "1.5 초"
+memory_limit: "512 MB"
 submissions: 109
 accepted: 13
 solved_users: 9
-acceptance_rate: 13.636%
-collected_at: 2026-04-17T17:48:43.621957+00:00
+acceptance_rate: "13.636%"
+collected_at: "2026-04-17T17:48:43.621957+00:00"
 ---
 
 ## 문제

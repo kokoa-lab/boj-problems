@@ -1,13 +1,13 @@
 ---
-title: CosmoCraft
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "CosmoCraft"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 170
 accepted: 37
 solved_users: 19
-acceptance_rate: 30.159%
-collected_at: 2026-04-17T11:08:30.385461+00:00
+acceptance_rate: "30.159%"
+collected_at: "2026-04-17T11:08:30.385461+00:00"
 ---
 
 ## 문제

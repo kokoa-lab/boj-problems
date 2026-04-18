@@ -1,13 +1,13 @@
 ---
-title: 황금 칵테일
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "황금 칵테일"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 1007
 accepted: 424
 solved_users: 368
-acceptance_rate: 43.345%
-collected_at: 2026-04-17T17:48:24.061798+00:00
+acceptance_rate: "43.345%"
+collected_at: "2026-04-17T17:48:24.061798+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Watermelons of the Field of Wonder of the Fool's Land
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "Watermelons of the Field of Wonder of the Fool's Land"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 201
 accepted: 15
 solved_users: 13
-acceptance_rate: 8.904%
-collected_at: 2026-04-17T12:46:30.345451+00:00
+acceptance_rate: "8.904%"
+collected_at: "2026-04-17T12:46:30.345451+00:00"
 ---
 
 ## 문제

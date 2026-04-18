@@ -1,13 +1,13 @@
 ---
-title: Panokseon
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Panokseon"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 299
 accepted: 93
 solved_users: 74
-acceptance_rate: 30.453%
-collected_at: 2026-04-17T14:15:02.702669+00:00
+acceptance_rate: "30.453%"
+collected_at: "2026-04-17T14:15:02.702669+00:00"
 ---
 
 ## 문제

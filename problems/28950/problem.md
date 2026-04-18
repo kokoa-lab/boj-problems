@@ -1,13 +1,13 @@
 ---
-title: Древнее заклинание
-special_judge: true
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Древнее заклинание"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 27
 accepted: 3
 solved_users: 2
-acceptance_rate: 8.696%
-collected_at: 2026-04-17T18:35:06.295809+00:00
+acceptance_rate: "8.696%"
+collected_at: "2026-04-17T18:35:06.295809+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Занос
-special_judge: true
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Занос"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 11
 accepted: 10
 solved_users: 9
-acceptance_rate: 90.000%
-collected_at: 2026-04-17T15:36:53.689036+00:00
+acceptance_rate: "90.000%"
+collected_at: "2026-04-17T15:36:53.689036+00:00"
 ---
 
 ## 문제

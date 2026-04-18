@@ -1,13 +1,13 @@
 ---
-title: Loading Cargo
-special_judge: false
-time_limit: 3 초
-memory_limit: 512 MB
+title: "Loading Cargo"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "512 MB"
 submissions: 90
 accepted: 24
 solved_users: 20
-acceptance_rate: 32.787%
-collected_at: 2026-04-17T13:53:28.909618+00:00
+acceptance_rate: "32.787%"
+collected_at: "2026-04-17T13:53:28.909618+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Banking
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "Banking"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 141
 accepted: 100
 solved_users: 93
-acceptance_rate: 72.656%
-collected_at: 2026-04-17T12:36:08.271510+00:00
+acceptance_rate: "72.656%"
+collected_at: "2026-04-17T12:36:08.271510+00:00"
 ---
 
 ## 문제

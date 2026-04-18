@@ -1,13 +1,13 @@
 ---
-title: Ancient Towers
-special_judge: false
-time_limit: 7 초
-memory_limit: 1024 MB
+title: "Ancient Towers"
+special_judge: "false"
+time_limit: "7 초"
+memory_limit: "1024 MB"
 submissions: 56
 accepted: 12
 solved_users: 8
-acceptance_rate: 17.778%
-collected_at: 2026-04-17T17:18:06.520334+00:00
+acceptance_rate: "17.778%"
+collected_at: "2026-04-17T17:18:06.520334+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: All Your Base (Small)
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "All Your Base (Small)"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 117
 accepted: 52
 solved_users: 51
-acceptance_rate: 50.495%
-collected_at: 2026-04-17T12:58:51.313170+00:00
+acceptance_rate: "50.495%"
+collected_at: "2026-04-17T12:58:51.313170+00:00"
 ---
 
 ## 문제

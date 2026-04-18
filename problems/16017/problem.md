@@ -1,13 +1,13 @@
 ---
-title: Telemarketer or not?
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Telemarketer or not?"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 3938
 accepted: 2768
 solved_users: 2597
-acceptance_rate: 70.532%
-collected_at: 2026-04-17T14:09:59.138246+00:00
+acceptance_rate: "70.532%"
+collected_at: "2026-04-17T14:09:59.138246+00:00"
 ---
 
 ## 문제

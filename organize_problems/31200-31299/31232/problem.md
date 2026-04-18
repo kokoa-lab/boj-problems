@@ -1,13 +1,13 @@
 ---
-title: 삼국지
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "삼국지"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 151
 accepted: 42
 solved_users: 33
-acceptance_rate: 35.484%
-collected_at: 2026-04-17T19:24:14.601620+00:00
+acceptance_rate: "35.484%"
+collected_at: "2026-04-17T19:24:14.601620+00:00"
 ---
 
 ## 문제

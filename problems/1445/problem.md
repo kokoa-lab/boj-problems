@@ -1,13 +1,13 @@
 ---
-title: 일요일 아침의 데이트
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "일요일 아침의 데이트"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 5768
 accepted: 1717
 solved_users: 1202
-acceptance_rate: 26.753%
-collected_at: 2026-04-17T10:30:15.211425+00:00
+acceptance_rate: "26.753%"
+collected_at: "2026-04-17T10:30:15.211425+00:00"
 ---
 
 ## 문제

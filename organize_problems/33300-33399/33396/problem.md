@@ -1,13 +1,13 @@
 ---
-title: Billiard
-special_judge: false
-time_limit: 1 초
-memory_limit: 2048 MB
+title: "Billiard"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "2048 MB"
 submissions: 83
 accepted: 48
 solved_users: 31
-acceptance_rate: 52.542%
-collected_at: 2026-04-17T20:15:06.857052+00:00
+acceptance_rate: "52.542%"
+collected_at: "2026-04-17T20:15:06.857052+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Chaarshanbegaan at Cafebazaar
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Chaarshanbegaan at Cafebazaar"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 286
 accepted: 214
 solved_users: 189
-acceptance_rate: 75.000%
-collected_at: 2026-04-17T14:23:04.811608+00:00
+acceptance_rate: "75.000%"
+collected_at: "2026-04-17T14:23:04.811608+00:00"
 ---
 
 ## 문제

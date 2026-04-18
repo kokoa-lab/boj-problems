@@ -1,13 +1,13 @@
 ---
-title: Palindromic Distance
-special_judge: false
-time_limit: 1 초
-memory_limit: 2048 MB
+title: "Palindromic Distance"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "2048 MB"
 submissions: 92
 accepted: 67
 solved_users: 55
-acceptance_rate: 72.368%
-collected_at: 2026-04-17T20:43:16.723685+00:00
+acceptance_rate: "72.368%"
+collected_at: "2026-04-17T20:43:16.723685+00:00"
 ---
 
 ## 문제

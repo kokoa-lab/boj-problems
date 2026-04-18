@@ -1,13 +1,13 @@
 ---
-title: 두 원
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "두 원"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 6467
 accepted: 2169
 solved_users: 1754
-acceptance_rate: 32.494%
-collected_at: 2026-04-17T11:53:40.262617+00:00
+acceptance_rate: "32.494%"
+collected_at: "2026-04-17T11:53:40.262617+00:00"
 ---
 
 ## 문제

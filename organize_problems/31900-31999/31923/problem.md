@@ -1,13 +1,13 @@
 ---
-title: 마라탕후루
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "마라탕후루"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 1445
 accepted: 622
 solved_users: 563
-acceptance_rate: 47.152%
-collected_at: 2026-04-17T19:39:12.208891+00:00
+acceptance_rate: "47.152%"
+collected_at: "2026-04-17T19:39:12.208891+00:00"
 ---
 
 ## 문제

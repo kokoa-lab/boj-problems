@@ -1,13 +1,13 @@
 ---
-title: Friends
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Friends"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 61
 accepted: 32
 solved_users: 30
-acceptance_rate: 51.724%
-collected_at: 2026-04-17T11:30:54.813941+00:00
+acceptance_rate: "51.724%"
+collected_at: "2026-04-17T11:30:54.813941+00:00"
 ---
 
 ## 문제

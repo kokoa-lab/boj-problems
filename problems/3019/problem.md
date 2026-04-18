@@ -1,13 +1,13 @@
 ---
-title: 테트리스
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "테트리스"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 3070
 accepted: 1557
 solved_users: 1235
-acceptance_rate: 49.440%
-collected_at: 2026-04-17T10:46:13.958687+00:00
+acceptance_rate: "49.440%"
+collected_at: "2026-04-17T10:46:13.958687+00:00"
 ---
 
 ## 문제

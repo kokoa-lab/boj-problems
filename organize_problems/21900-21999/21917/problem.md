@@ -1,13 +1,13 @@
 ---
-title: Mistake
-special_judge: true
-time_limit: 3 초
-memory_limit: 256 MB
+title: "Mistake"
+special_judge: "true"
+time_limit: "3 초"
+memory_limit: "256 MB"
 submissions: 91
 accepted: 53
 solved_users: 50
-acceptance_rate: 72.464%
-collected_at: 2026-04-17T16:09:56.473107+00:00
+acceptance_rate: "72.464%"
+collected_at: "2026-04-17T16:09:56.473107+00:00"
 ---
 
 ## 문제

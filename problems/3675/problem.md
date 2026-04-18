@@ -1,13 +1,13 @@
 ---
-title: Mountain Road
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "Mountain Road"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 62
 accepted: 14
 solved_users: 13
-acceptance_rate: 26.531%
-collected_at: 2026-04-17T10:50:49.299980+00:00
+acceptance_rate: "26.531%"
+collected_at: "2026-04-17T10:50:49.299980+00:00"
 ---
 
 ## 문제

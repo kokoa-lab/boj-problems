@@ -1,13 +1,13 @@
 ---
-title: 정사각형 만들기
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "정사각형 만들기"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 4221
 accepted: 1222
 solved_users: 800
-acceptance_rate: 27.992%
-collected_at: 2026-04-17T12:29:43.568912+00:00
+acceptance_rate: "27.992%"
+collected_at: "2026-04-17T12:29:43.568912+00:00"
 ---
 
 ## 문제

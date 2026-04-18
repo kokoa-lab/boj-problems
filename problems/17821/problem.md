@@ -1,13 +1,13 @@
 ---
-title: Zoo
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Zoo"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 28
 accepted: 19
 solved_users: 17
-acceptance_rate: 73.913%
-collected_at: 2026-04-17T14:47:52.835015+00:00
+acceptance_rate: "73.913%"
+collected_at: "2026-04-17T14:47:52.835015+00:00"
 ---
 
 ## 문제

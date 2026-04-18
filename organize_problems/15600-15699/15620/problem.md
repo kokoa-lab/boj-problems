@@ -1,13 +1,13 @@
 ---
-title: Hit of the Season
-special_judge: true
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Hit of the Season"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 1
 accepted: 1
 solved_users: 1
-acceptance_rate: 100.000%
-collected_at: 2026-04-17T14:02:44.356346+00:00
+acceptance_rate: "100.000%"
+collected_at: "2026-04-17T14:02:44.356346+00:00"
 ---
 
 ## 문제

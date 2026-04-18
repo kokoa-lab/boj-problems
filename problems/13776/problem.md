@@ -1,13 +1,13 @@
 ---
-title: Alpha Puzzle
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Alpha Puzzle"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 175
 accepted: 146
 solved_users: 122
-acceptance_rate: 84.138%
-collected_at: 2026-04-17T13:19:08.645752+00:00
+acceptance_rate: "84.138%"
+collected_at: "2026-04-17T13:19:08.645752+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Straight Shot
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Straight Shot"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 61
 accepted: 48
 solved_users: 46
-acceptance_rate: 79.310%
-collected_at: 2026-04-17T13:51:19.634137+00:00
+acceptance_rate: "79.310%"
+collected_at: "2026-04-17T13:51:19.634137+00:00"
 ---
 
 ## 문제

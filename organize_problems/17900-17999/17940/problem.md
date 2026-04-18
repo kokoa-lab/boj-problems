@@ -1,13 +1,13 @@
 ---
-title: 지하철
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "지하철"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 1340
 accepted: 599
 solved_users: 405
-acceptance_rate: 40.581%
-collected_at: 2026-04-17T14:50:34.033821+00:00
+acceptance_rate: "40.581%"
+collected_at: "2026-04-17T14:50:34.033821+00:00"
 ---
 
 ## 문제

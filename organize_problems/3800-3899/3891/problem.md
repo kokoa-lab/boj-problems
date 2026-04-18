@@ -1,13 +1,13 @@
 ---
-title: 키워드 검색
-special_judge: false
-time_limit: 10 초
-memory_limit: 128 MB
+title: "키워드 검색"
+special_judge: "false"
+time_limit: "10 초"
+memory_limit: "128 MB"
 submissions: 26
 accepted: 6
 solved_users: 5
-acceptance_rate: 100.000%
-collected_at: 2026-04-17T10:53:06.972793+00:00
+acceptance_rate: "100.000%"
+collected_at: "2026-04-17T10:53:06.972793+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 합분해 2
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "합분해 2"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 1778
 accepted: 783
 solved_users: 588
-acceptance_rate: 43.014%
-collected_at: 2026-04-17T13:17:38.158548+00:00
+acceptance_rate: "43.014%"
+collected_at: "2026-04-17T13:17:38.158548+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 신아를 만나러
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "신아를 만나러"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 769
 accepted: 540
 solved_users: 482
-acceptance_rate: 72.372%
-collected_at: 2026-04-17T11:21:16.228347+00:00
+acceptance_rate: "72.372%"
+collected_at: "2026-04-17T11:21:16.228347+00:00"
 ---
 
 ## 문제

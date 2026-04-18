@@ -1,13 +1,13 @@
 ---
-title: Even More Odd Photos
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Even More Odd Photos"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 1003
 accepted: 489
 solved_users: 449
-acceptance_rate: 50.336%
-collected_at: 2026-04-17T15:44:31.494890+00:00
+acceptance_rate: "50.336%"
+collected_at: "2026-04-17T15:44:31.494890+00:00"
 ---
 
 ## 문제

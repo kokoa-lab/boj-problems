@@ -1,13 +1,13 @@
 ---
-title: Even Harder
-special_judge: false
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "Even Harder"
+special_judge: "false"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 85
 accepted: 58
 solved_users: 26
-acceptance_rate: 66.667%
-collected_at: 2026-04-17T18:04:05.342935+00:00
+acceptance_rate: "66.667%"
+collected_at: "2026-04-17T18:04:05.342935+00:00"
 ---
 
 ## 문제

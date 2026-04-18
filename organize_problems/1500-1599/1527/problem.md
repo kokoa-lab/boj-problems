@@ -1,13 +1,13 @@
 ---
-title: 금민수의 개수
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "금민수의 개수"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 5511
 accepted: 2282
 solved_users: 1912
-acceptance_rate: 43.092%
-collected_at: 2026-04-17T10:30:53.217837+00:00
+acceptance_rate: "43.092%"
+collected_at: "2026-04-17T10:30:53.217837+00:00"
 ---
 
 ## 문제

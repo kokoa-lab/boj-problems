@@ -1,13 +1,13 @@
 ---
-title: 좋은 단어
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "좋은 단어"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 35197
 accepted: 20277
 solved_users: 15890
-acceptance_rate: 57.889%
-collected_at: 2026-04-17T10:54:10.314894+00:00
+acceptance_rate: "57.889%"
+collected_at: "2026-04-17T10:54:10.314894+00:00"
 ---
 
 ## 문제

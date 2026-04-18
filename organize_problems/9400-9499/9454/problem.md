@@ -1,13 +1,13 @@
 ---
-title: Lonely Mountain
-special_judge: true
-time_limit: 2 초
-memory_limit: 256 MB
+title: "Lonely Mountain"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 11
 accepted: 7
 solved_users: 4
-acceptance_rate: 66.667%
-collected_at: 2026-04-17T12:10:02.309202+00:00
+acceptance_rate: "66.667%"
+collected_at: "2026-04-17T12:10:02.309202+00:00"
 ---
 
 ## 문제

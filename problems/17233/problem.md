@@ -1,13 +1,13 @@
 ---
-title: 문자열 장식
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "문자열 장식"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 345
 accepted: 67
 solved_users: 58
-acceptance_rate: 25.217%
-collected_at: 2026-04-17T14:33:56.476670+00:00
+acceptance_rate: "25.217%"
+collected_at: "2026-04-17T14:33:56.476670+00:00"
 ---
 
 ## 문제

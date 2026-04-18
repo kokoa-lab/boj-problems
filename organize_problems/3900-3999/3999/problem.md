@@ -1,13 +1,13 @@
 ---
-title: 텔레점프
-special_judge: true
-time_limit: 1 초
-memory_limit: 128 MB
+title: "텔레점프"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 93
 accepted: 51
 solved_users: 47
-acceptance_rate: 58.750%
-collected_at: 2026-04-17T10:54:23.857851+00:00
+acceptance_rate: "58.750%"
+collected_at: "2026-04-17T10:54:23.857851+00:00"
 ---
 
 ## 문제

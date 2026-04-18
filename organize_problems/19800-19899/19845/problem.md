@@ -1,13 +1,13 @@
 ---
-title: 넴모넴모 2020
-special_judge: false
-time_limit: 3 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "넴모넴모 2020"
+special_judge: "false"
+time_limit: "3 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 795
 accepted: 320
 solved_users: 266
-acceptance_rate: 40.986%
-collected_at: 2026-04-17T15:28:25.743513+00:00
+acceptance_rate: "40.986%"
+collected_at: "2026-04-17T15:28:25.743513+00:00"
 ---
 
 ## 문제

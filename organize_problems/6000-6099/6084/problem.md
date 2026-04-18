@@ -1,13 +1,13 @@
 ---
-title: Safe Travel
-special_judge: false
-time_limit: 3 초
-memory_limit: 128 MB
+title: "Safe Travel"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "128 MB"
 submissions: 31
 accepted: 8
 solved_users: 6
-acceptance_rate: 50.000%
-collected_at: 2026-04-17T11:20:08.121754+00:00
+acceptance_rate: "50.000%"
+collected_at: "2026-04-17T11:20:08.121754+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 과자 사기
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "과자 사기"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 3053
 accepted: 1468
 solved_users: 1315
-acceptance_rate: 50.114%
-collected_at: 2026-04-17T14:39:36.111383+00:00
+acceptance_rate: "50.114%"
+collected_at: "2026-04-17T14:39:36.111383+00:00"
 ---
 
 ## 문제

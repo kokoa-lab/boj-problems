@@ -1,13 +1,13 @@
 ---
-title: Knight Moves
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Knight Moves"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 140
 accepted: 96
 solved_users: 90
-acceptance_rate: 75.000%
-collected_at: 2026-04-17T12:14:29.512148+00:00
+acceptance_rate: "75.000%"
+collected_at: "2026-04-17T12:14:29.512148+00:00"
 ---
 
 ## 문제

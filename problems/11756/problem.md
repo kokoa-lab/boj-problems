@@ -1,13 +1,13 @@
 ---
-title: Post Office Investigation
-special_judge: false
-time_limit: 3 초
-memory_limit: 256 MB
+title: "Post Office Investigation"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "256 MB"
 submissions: 32
 accepted: 20
 solved_users: 18
-acceptance_rate: 66.667%
-collected_at: 2026-04-17T12:45:24.271290+00:00
+acceptance_rate: "66.667%"
+collected_at: "2026-04-17T12:45:24.271290+00:00"
 ---
 
 ## 문제

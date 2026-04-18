@@ -1,13 +1,13 @@
 ---
-title: Klee in Solitary Confinement
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Klee in Solitary Confinement"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 212
 accepted: 64
 solved_users: 43
-acceptance_rate: 26.061%
-collected_at: 2026-04-17T19:22:41.806716+00:00
+acceptance_rate: "26.061%"
+collected_at: "2026-04-17T19:22:41.806716+00:00"
 ---
 
 ## 문제

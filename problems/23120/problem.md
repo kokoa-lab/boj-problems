@@ -1,13 +1,13 @@
 ---
-title: Eulerian?
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Eulerian?"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 54
 accepted: 32
 solved_users: 28
-acceptance_rate: 57.143%
-collected_at: 2026-04-17T16:42:34.869424+00:00
+acceptance_rate: "57.143%"
+collected_at: "2026-04-17T16:42:34.869424+00:00"
 ---
 
 ## 문제

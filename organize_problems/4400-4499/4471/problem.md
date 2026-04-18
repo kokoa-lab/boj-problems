@@ -1,13 +1,13 @@
 ---
-title: The Navi-Computer is Down!
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "The Navi-Computer is Down!"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 335
 accepted: 216
 solved_users: 195
-acceptance_rate: 65.878%
-collected_at: 2026-04-17T11:02:21.771813+00:00
+acceptance_rate: "65.878%"
+collected_at: "2026-04-17T11:02:21.771813+00:00"
 ---
 
 ## 문제

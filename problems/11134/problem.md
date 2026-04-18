@@ -1,13 +1,13 @@
 ---
-title: 쿠키애호가
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "쿠키애호가"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 4048
 accepted: 3197
 solved_users: 3018
-acceptance_rate: 80.096%
-collected_at: 2026-04-17T12:37:02.585762+00:00
+acceptance_rate: "80.096%"
+collected_at: "2026-04-17T12:37:02.585762+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Fractionstellar
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Fractionstellar"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 96
 accepted: 31
 solved_users: 28
-acceptance_rate: 43.077%
-collected_at: 2026-04-17T15:08:14.066697+00:00
+acceptance_rate: "43.077%"
+collected_at: "2026-04-17T15:08:14.066697+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 벽과 못
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "벽과 못"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 114
 accepted: 35
 solved_users: 22
-acceptance_rate: 39.286%
-collected_at: 2026-04-17T10:45:58.149400+00:00
+acceptance_rate: "39.286%"
+collected_at: "2026-04-17T10:45:58.149400+00:00"
 ---
 
 ## 문제

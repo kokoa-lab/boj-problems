@@ -1,13 +1,13 @@
 ---
-title: Forest Task
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "Forest Task"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 73
 accepted: 27
 solved_users: 27
-acceptance_rate: 37.500%
-collected_at: 2026-04-17T15:16:15.714143+00:00
+acceptance_rate: "37.500%"
+collected_at: "2026-04-17T15:16:15.714143+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 문제지 나르기
-special_judge: false
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "문제지 나르기"
+special_judge: "false"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 277
 accepted: 91
 solved_users: 59
-acceptance_rate: 26.697%
-collected_at: 2026-04-17T15:28:28.095515+00:00
+acceptance_rate: "26.697%"
+collected_at: "2026-04-17T15:28:28.095515+00:00"
 ---
 
 ## 문제

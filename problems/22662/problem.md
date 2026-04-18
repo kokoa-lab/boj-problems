@@ -1,13 +1,13 @@
 ---
-title: Pi is Three
-special_judge: false
-time_limit: 8 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "Pi is Three"
+special_judge: "false"
+time_limit: "8 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 76
 accepted: 60
 solved_users: 42
-acceptance_rate: 76.364%
-collected_at: 2026-04-17T16:31:06.935732+00:00
+acceptance_rate: "76.364%"
+collected_at: "2026-04-17T16:31:06.935732+00:00"
 ---
 
 ## 문제

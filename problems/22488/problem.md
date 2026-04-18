@@ -1,13 +1,13 @@
 ---
-title: Move on Dice
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Move on Dice"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 0
 accepted: 0
 solved_users: 0
-acceptance_rate: 0.000%
-collected_at: 2026-04-18T09:51:11.874478+00:00
+acceptance_rate: "0.000%"
+collected_at: "2026-04-18T09:51:11.874478+00:00"
 ---
 
 ## 문제

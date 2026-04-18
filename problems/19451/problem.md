@@ -1,13 +1,13 @@
 ---
-title: Guess the Data Structure
-special_judge: false
-time_limit: 5 초
-memory_limit: 256 MB
+title: "Guess the Data Structure"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "256 MB"
 submissions: 48
 accepted: 3
 solved_users: 3
-acceptance_rate: 7.500%
-collected_at: 2026-04-17T15:20:18.233228+00:00
+acceptance_rate: "7.500%"
+collected_at: "2026-04-17T15:20:18.233228+00:00"
 ---
 
 ## 문제

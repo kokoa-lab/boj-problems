@@ -1,13 +1,13 @@
 ---
-title: $B$끼$B$끼 $A$끼$A$끼 수열 찾기
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "$B$끼$B$끼 $A$끼$A$끼 수열 찾기"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 77
 accepted: 19
 solved_users: 18
-acceptance_rate: 26.866%
-collected_at: 2026-04-17T19:46:01.804632+00:00
+acceptance_rate: "26.866%"
+collected_at: "2026-04-17T19:46:01.804632+00:00"
 ---
 
 ## 문제

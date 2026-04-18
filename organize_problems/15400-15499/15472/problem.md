@@ -1,13 +1,13 @@
 ---
-title: The Jet-Black Wings
-special_judge: false
-time_limit: 3 초
-memory_limit: 512 MB
+title: "The Jet-Black Wings"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "512 MB"
 submissions: 18
 accepted: 3
 solved_users: 1
-acceptance_rate: 25.000%
-collected_at: 2026-04-17T14:00:02.254801+00:00
+acceptance_rate: "25.000%"
+collected_at: "2026-04-17T14:00:02.254801+00:00"
 ---
 
 ## 문제

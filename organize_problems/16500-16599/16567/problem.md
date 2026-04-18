@@ -1,13 +1,13 @@
 ---
-title: 바이너리 왕국
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "바이너리 왕국"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 1676
 accepted: 597
 solved_users: 487
-acceptance_rate: 36.262%
-collected_at: 2026-04-17T14:20:10.751381+00:00
+acceptance_rate: "36.262%"
+collected_at: "2026-04-17T14:20:10.751381+00:00"
 ---
 
 ## 문제

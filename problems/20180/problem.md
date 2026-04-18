@@ -1,13 +1,13 @@
 ---
-title: Two Buildings
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Two Buildings"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 443
 accepted: 180
 solved_users: 145
-acceptance_rate: 45.597%
-collected_at: 2026-04-17T15:32:43.711288+00:00
+acceptance_rate: "45.597%"
+collected_at: "2026-04-17T15:32:43.711288+00:00"
 ---
 
 ## 문제

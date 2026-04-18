@@ -1,13 +1,13 @@
 ---
-title: 바벨탑의 저주
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "바벨탑의 저주"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 520
 accepted: 95
 solved_users: 77
-acceptance_rate: 18.160%
-collected_at: 2026-04-17T17:22:41.772833+00:00
+acceptance_rate: "18.160%"
+collected_at: "2026-04-17T17:22:41.772833+00:00"
 ---
 
 ## 문제

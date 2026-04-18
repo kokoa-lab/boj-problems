@@ -1,13 +1,13 @@
 ---
-title: BASE16 인코딩
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "BASE16 인코딩"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 601
 accepted: 456
 solved_users: 412
-acceptance_rate: 77.444%
-collected_at: 2026-04-17T12:31:57.208006+00:00
+acceptance_rate: "77.444%"
+collected_at: "2026-04-17T12:31:57.208006+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 시간표 만들기
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "시간표 만들기"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 209
 accepted: 121
 solved_users: 103
-acceptance_rate: 59.195%
-collected_at: 2026-04-17T19:37:29.498517+00:00
+acceptance_rate: "59.195%"
+collected_at: "2026-04-17T19:37:29.498517+00:00"
 ---
 
 ## 문제

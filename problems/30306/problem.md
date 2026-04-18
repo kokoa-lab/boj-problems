@@ -1,13 +1,13 @@
 ---
-title: Better Dice
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Better Dice"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 530
 accepted: 314
 solved_users: 263
-acceptance_rate: 59.234%
-collected_at: 2026-04-17T19:02:52.490938+00:00
+acceptance_rate: "59.234%"
+collected_at: "2026-04-17T19:02:52.490938+00:00"
 ---
 
 ## 문제

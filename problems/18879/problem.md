@@ -1,13 +1,13 @@
 ---
-title: The Moo Particle
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "The Moo Particle"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 427
 accepted: 189
 solved_users: 168
-acceptance_rate: 47.592%
-collected_at: 2026-04-17T15:10:48.677384+00:00
+acceptance_rate: "47.592%"
+collected_at: "2026-04-17T15:10:48.677384+00:00"
 ---
 
 ## 문제

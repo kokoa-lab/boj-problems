@@ -1,13 +1,13 @@
 ---
-title: Treating Fractions Irrationally
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Treating Fractions Irrationally"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 147
 accepted: 51
 solved_users: 36
-acceptance_rate: 34.286%
-collected_at: 2026-04-17T13:50:18.171913+00:00
+acceptance_rate: "34.286%"
+collected_at: "2026-04-17T13:50:18.171913+00:00"
 ---
 
 ## 문제

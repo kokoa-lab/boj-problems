@@ -1,13 +1,13 @@
 ---
-title: 택시 기하학
-special_judge: true
-time_limit: 1 초
-memory_limit: 128 MB
+title: "택시 기하학"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 52398
 accepted: 25854
 solved_users: 22925
-acceptance_rate: 49.257%
-collected_at: 2026-04-17T10:46:26.336930+00:00
+acceptance_rate: "49.257%"
+collected_at: "2026-04-17T10:46:26.336930+00:00"
 ---
 
 ## 문제

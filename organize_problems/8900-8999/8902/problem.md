@@ -1,13 +1,13 @@
 ---
-title: 색상의 길이
-special_judge: false
-time_limit: 10 초
-memory_limit: 128 MB
+title: "색상의 길이"
+special_judge: "false"
+time_limit: "10 초"
+memory_limit: "128 MB"
 submissions: 583
 accepted: 244
 solved_users: 185
-acceptance_rate: 47.680%
-collected_at: 2026-04-17T12:04:40.550415+00:00
+acceptance_rate: "47.680%"
+collected_at: "2026-04-17T12:04:40.550415+00:00"
 ---
 
 ## 문제

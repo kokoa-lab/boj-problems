@@ -1,13 +1,13 @@
 ---
-title: Positioning Peter’s Paintings
-special_judge: false
-time_limit: 2 초
-memory_limit: 2048 MB
+title: "Positioning Peter’s Paintings"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "2048 MB"
 submissions: 217
 accepted: 151
 solved_users: 139
-acceptance_rate: 68.473%
-collected_at: 2026-04-17T20:39:57.572445+00:00
+acceptance_rate: "68.473%"
+collected_at: "2026-04-17T20:39:57.572445+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 분할하기
-special_judge: true
-time_limit: 0.5 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "분할하기"
+special_judge: "true"
+time_limit: "0.5 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 319
 accepted: 144
 solved_users: 132
-acceptance_rate: 49.624%
-collected_at: 2026-04-17T14:56:58.560037+00:00
+acceptance_rate: "49.624%"
+collected_at: "2026-04-17T14:56:58.560037+00:00"
 ---
 
 ## 문제

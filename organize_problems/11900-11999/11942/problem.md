@@ -1,13 +1,13 @@
 ---
-title: 고려대는 사랑입니다
-special_judge: false
-time_limit: 1 초
-memory_limit: 32 MB
+title: "고려대는 사랑입니다"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "32 MB"
 submissions: 27952
 accepted: 23926
 solved_users: 22297
-acceptance_rate: 86.816%
-collected_at: 2026-04-17T12:47:59.830760+00:00
+acceptance_rate: "86.816%"
+collected_at: "2026-04-17T12:47:59.830760+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 8진수 2진수
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "8진수 2진수"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 57070
 accepted: 19941
 solved_users: 16763
-acceptance_rate: 36.804%
-collected_at: 2026-04-17T10:28:51.386842+00:00
+acceptance_rate: "36.804%"
+collected_at: "2026-04-17T10:28:51.386842+00:00"
 ---
 
 ## 문제

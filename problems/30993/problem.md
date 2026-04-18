@@ -1,13 +1,13 @@
 ---
-title: 자동차 주차
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "자동차 주차"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 1060
 accepted: 761
 solved_users: 685
-acceptance_rate: 73.656%
-collected_at: 2026-04-17T19:19:19.971038+00:00
+acceptance_rate: "73.656%"
+collected_at: "2026-04-17T19:19:19.971038+00:00"
 ---
 
 ## 문제

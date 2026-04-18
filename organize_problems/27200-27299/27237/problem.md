@@ -1,13 +1,13 @@
 ---
-title: 정밀지도 제작
-special_judge: false
-time_limit: 2.5 초
-memory_limit: 1024 MB
+title: "정밀지도 제작"
+special_judge: "false"
+time_limit: "2.5 초"
+memory_limit: "1024 MB"
 submissions: 40
 accepted: 14
 solved_users: 6
-acceptance_rate: 60.000%
-collected_at: 2026-04-17T17:58:49.572507+00:00
+acceptance_rate: "60.000%"
+collected_at: "2026-04-17T17:58:49.572507+00:00"
 ---
 
 ## 문제

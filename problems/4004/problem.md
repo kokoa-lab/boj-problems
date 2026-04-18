@@ -1,13 +1,13 @@
 ---
-title: 쿠나이
-special_judge: false
-time_limit: 3 초
-memory_limit: 256 MB
+title: "쿠나이"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "256 MB"
 submissions: 430
 accepted: 79
 solved_users: 53
-acceptance_rate: 19.343%
-collected_at: 2026-04-17T10:54:28.133391+00:00
+acceptance_rate: "19.343%"
+collected_at: "2026-04-17T10:54:28.133391+00:00"
 ---
 
 ## 문제

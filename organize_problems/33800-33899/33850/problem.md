@@ -1,13 +1,13 @@
 ---
-title: Chill...은 내가 가장 좋아하는 소수
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Chill...은 내가 가장 좋아하는 소수"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 361
 accepted: 184
 solved_users: 151
-acceptance_rate: 52.249%
-collected_at: 2026-04-17T20:24:50.637946+00:00
+acceptance_rate: "52.249%"
+collected_at: "2026-04-17T20:24:50.637946+00:00"
 ---
 
 ## 문제

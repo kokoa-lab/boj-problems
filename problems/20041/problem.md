@@ -1,13 +1,13 @@
 ---
-title: Escaping
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Escaping"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 990
 accepted: 486
 solved_users: 395
-acceptance_rate: 49.937%
-collected_at: 2026-04-17T15:30:51.171716+00:00
+acceptance_rate: "49.937%"
+collected_at: "2026-04-17T15:30:51.171716+00:00"
 ---
 
 ## 문제

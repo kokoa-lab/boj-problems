@@ -1,13 +1,13 @@
 ---
-title: 히든 넘버
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "히든 넘버"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 9825
 accepted: 3405
 solved_users: 2618
-acceptance_rate: 33.060%
-collected_at: 2026-04-17T12:01:11.358123+00:00
+acceptance_rate: "33.060%"
+collected_at: "2026-04-17T12:01:11.358123+00:00"
 ---
 
 ## 문제

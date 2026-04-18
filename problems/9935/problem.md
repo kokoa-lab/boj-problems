@@ -1,13 +1,13 @@
 ---
-title: 문자열 폭발
-special_judge: false
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 128 MB
+title: "문자열 폭발"
+special_judge: "false"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "128 MB"
 submissions: 112296
 accepted: 33077
 solved_users: 23394
-acceptance_rate: 28.331%
-collected_at: 2026-04-17T12:16:51.180276+00:00
+acceptance_rate: "28.331%"
+collected_at: "2026-04-17T12:16:51.180276+00:00"
 ---
 
 ## 문제

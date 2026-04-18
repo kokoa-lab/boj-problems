@@ -1,13 +1,13 @@
 ---
-title: K번째 수
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "K번째 수"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 57533
 accepted: 22147
 solved_users: 16316
-acceptance_rate: 39.015%
-collected_at: 2026-04-17T10:29:21.603218+00:00
+acceptance_rate: "39.015%"
+collected_at: "2026-04-17T10:29:21.603218+00:00"
 ---
 
 ## 문제

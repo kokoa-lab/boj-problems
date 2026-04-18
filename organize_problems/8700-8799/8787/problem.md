@@ -1,13 +1,13 @@
 ---
-title: Paweł i Gaweł
-special_judge: false
-time_limit: 3 초
-memory_limit: 128 MB
+title: "Paweł i Gaweł"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "128 MB"
 submissions: 6
 accepted: 3
 solved_users: 3
-acceptance_rate: 75.000%
-collected_at: 2026-04-17T12:03:27.164960+00:00
+acceptance_rate: "75.000%"
+collected_at: "2026-04-17T12:03:27.164960+00:00"
 ---
 
 ## 문제

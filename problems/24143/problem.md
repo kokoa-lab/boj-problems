@@ -1,13 +1,13 @@
 ---
-title: カンニング対策 (Cheating)
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "カンニング対策 (Cheating)"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 47
 accepted: 26
 solved_users: 24
-acceptance_rate: 54.545%
-collected_at: 2026-04-17T17:05:08.030206+00:00
+acceptance_rate: "54.545%"
+collected_at: "2026-04-17T17:05:08.030206+00:00"
 ---
 
 ## 문제

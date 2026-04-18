@@ -1,13 +1,13 @@
 ---
-title: 최단 비행 경로
-special_judge: false
-time_limit: 5 초
-memory_limit: 128 MB
+title: "최단 비행 경로"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "128 MB"
 submissions: 149
 accepted: 32
 solved_users: 21
-acceptance_rate: 26.923%
-collected_at: 2026-04-17T10:57:22.580432+00:00
+acceptance_rate: "26.923%"
+collected_at: "2026-04-17T10:57:22.580432+00:00"
 ---
 
 ## 문제

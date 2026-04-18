@@ -1,13 +1,13 @@
 ---
-title: 직각 삼각형의 두 변
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "직각 삼각형의 두 변"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 7238
 accepted: 2546
 solved_users: 2370
-acceptance_rate: 36.563%
-collected_at: 2026-04-17T11:25:09.166222+00:00
+acceptance_rate: "36.563%"
+collected_at: "2026-04-17T11:25:09.166222+00:00"
 ---
 
 ## 문제

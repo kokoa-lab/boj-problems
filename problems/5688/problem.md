@@ -1,13 +1,13 @@
 ---
-title: In Braille
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "In Braille"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 53
 accepted: 44
 solved_users: 41
-acceptance_rate: 83.673%
-collected_at: 2026-04-17T11:16:36.139788+00:00
+acceptance_rate: "83.673%"
+collected_at: "2026-04-17T11:16:36.139788+00:00"
 ---
 
 ## 문제

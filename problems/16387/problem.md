@@ -1,13 +1,13 @@
 ---
-title: Smooth Array
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Smooth Array"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 29
 accepted: 16
 solved_users: 16
-acceptance_rate: 57.143%
-collected_at: 2026-04-17T14:17:02.958408+00:00
+acceptance_rate: "57.143%"
+collected_at: "2026-04-17T14:17:02.958408+00:00"
 ---
 
 ## 문제

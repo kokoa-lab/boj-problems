@@ -1,13 +1,13 @@
 ---
-title: 본대 산책 3
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "본대 산책 3"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 1334
 accepted: 931
 solved_users: 782
-acceptance_rate: 70.261%
-collected_at: 2026-04-17T13:29:31.941023+00:00
+acceptance_rate: "70.261%"
+collected_at: "2026-04-17T13:29:31.941023+00:00"
 ---
 
 ## 문제

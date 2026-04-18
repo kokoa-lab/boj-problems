@@ -1,13 +1,13 @@
 ---
-title: 심준의 병역판정검사
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "심준의 병역판정검사"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 2369
 accepted: 1230
 solved_users: 1074
-acceptance_rate: 55.332%
-collected_at: 2026-04-17T17:24:00.947164+00:00
+acceptance_rate: "55.332%"
+collected_at: "2026-04-17T17:24:00.947164+00:00"
 ---
 
 ## 문제

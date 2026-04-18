@@ -1,13 +1,13 @@
 ---
-title: 마트료시카 합치기
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "마트료시카 합치기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 2148
 accepted: 1273
 solved_users: 1117
-acceptance_rate: 60.773%
-collected_at: 2026-04-17T17:30:22.721570+00:00
+acceptance_rate: "60.773%"
+collected_at: "2026-04-17T17:30:22.721570+00:00"
 ---
 
 ## 문제

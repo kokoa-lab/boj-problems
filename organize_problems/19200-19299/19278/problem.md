@@ -1,13 +1,13 @@
 ---
-title: Simple APSP Problem
-special_judge: false
-time_limit: 3 초
-memory_limit: 256 MB
+title: "Simple APSP Problem"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "256 MB"
 submissions: 12
 accepted: 8
 solved_users: 7
-acceptance_rate: 100.000%
-collected_at: 2026-04-17T15:16:13.074642+00:00
+acceptance_rate: "100.000%"
+collected_at: "2026-04-17T15:16:13.074642+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Halting Wolf
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Halting Wolf"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 49
 accepted: 43
 solved_users: 42
-acceptance_rate: 89.362%
-collected_at: 2026-04-17T16:18:13.942725+00:00
+acceptance_rate: "89.362%"
+collected_at: "2026-04-17T16:18:13.942725+00:00"
 ---
 
 ## 문제
@@ -23,7 +23,22 @@ I know, Senoof is crazy, but it’s not that difficult. The picture below shows 
 
 |  |  |  |
 | --- | --- | --- |
-| ```  ▷ 1: 2 1 2     2: * 3       3: 3 4 3 4   4: 2 1 1   ``` | ```    1: 2 1 ⊔   ▷ 2: * 3       3: 3 4 3 4   4: 2 1 1   ``` | ```  ▷ 1: 2 ⊔ ⊔     2: * 3       3: 3 ⊔ 3 4   4: 2 ⊔ 1   ``` |
+| ``` 
+ ▷ 1: 2 1 2  
+   2: * 3    
+   3: 3 4 3 4
+   4: 2 1 1  
+ ``` | ``` 
+   1: 2 1 ⊔  
+ ▷ 2: * 3    
+   3: 3 4 3 4
+   4: 2 1 1  
+ ``` | ``` 
+ ▷ 1: 2 ⊔ ⊔  
+   2: * 3    
+   3: 3 ⊔ 3 4
+   4: 2 ⊔ 1  
+ ``` |
 | (a) | (b) | (c) |
 
 After some playing around, Senoof noticed that programs written in Wolf may run forever, which does not imply that a given instruction can be executed infinitely many times. He kindly just sent us the following example of a program that may run forever, although instruction 1 can be executed at most twice.

@@ -1,13 +1,13 @@
 ---
-title: 세 수의 합
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "세 수의 합"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 22992
 accepted: 7487
 solved_users: 5028
-acceptance_rate: 30.018%
-collected_at: 2026-04-17T10:40:20.605563+00:00
+acceptance_rate: "30.018%"
+collected_at: "2026-04-17T10:40:20.605563+00:00"
 ---
 
 ## 문제

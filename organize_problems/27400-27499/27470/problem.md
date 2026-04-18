@@ -1,13 +1,13 @@
 ---
-title: 멋진 부분집합
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "멋진 부분집합"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 998
 accepted: 193
 solved_users: 121
-acceptance_rate: 16.418%
-collected_at: 2026-04-17T18:03:50.282396+00:00
+acceptance_rate: "16.418%"
+collected_at: "2026-04-17T18:03:50.282396+00:00"
 ---
 
 ## 문제

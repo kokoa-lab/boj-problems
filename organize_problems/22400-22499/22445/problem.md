@@ -1,13 +1,13 @@
 ---
-title: Fast Division
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Fast Division"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 106
 accepted: 70
 solved_users: 57
-acceptance_rate: 70.370%
-collected_at: 2026-04-17T16:21:21.938276+00:00
+acceptance_rate: "70.370%"
+collected_at: "2026-04-17T16:21:21.938276+00:00"
 ---
 
 ## 문제

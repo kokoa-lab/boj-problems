@@ -1,13 +1,13 @@
 ---
-title: Dorm Room Divide
-special_judge: true
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Dorm Room Divide"
+special_judge: "true"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 400
 accepted: 110
 solved_users: 81
-acceptance_rate: 26.471%
-collected_at: 2026-04-17T17:11:47.696347+00:00
+acceptance_rate: "26.471%"
+collected_at: "2026-04-17T17:11:47.696347+00:00"
 ---
 
 ## 문제

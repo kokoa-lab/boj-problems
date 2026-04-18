@@ -1,13 +1,13 @@
 ---
-title: Dominating Subarray
-special_judge: true
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "Dominating Subarray"
+special_judge: "true"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 26
 accepted: 5
 solved_users: 4
-acceptance_rate: 18.182%
-collected_at: 2026-04-17T16:50:28.909805+00:00
+acceptance_rate: "18.182%"
+collected_at: "2026-04-17T16:50:28.909805+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 트리 정리하기
-special_judge: true
-time_limit: 1 초
-memory_limit: 256 MB
+title: "트리 정리하기"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 95
 accepted: 42
 solved_users: 38
-acceptance_rate: 51.351%
-collected_at: 2026-04-17T16:00:23.715159+00:00
+acceptance_rate: "51.351%"
+collected_at: "2026-04-17T16:00:23.715159+00:00"
 ---
 
 ## 문제

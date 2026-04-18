@@ -1,13 +1,13 @@
 ---
-title: Ловить или не ловить
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Ловить или не ловить"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 65
 accepted: 21
 solved_users: 12
-acceptance_rate: 32.432%
-collected_at: 2026-04-17T15:37:29.144642+00:00
+acceptance_rate: "32.432%"
+collected_at: "2026-04-17T15:37:29.144642+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Zliczacz liter
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Zliczacz liter"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 154
 accepted: 134
 solved_users: 122
-acceptance_rate: 86.525%
-collected_at: 2026-04-17T12:01:36.042237+00:00
+acceptance_rate: "86.525%"
+collected_at: "2026-04-17T12:01:36.042237+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 수열과 최대 상승 쿼리
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "수열과 최대 상승 쿼리"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 703
 accepted: 367
 solved_users: 288
-acceptance_rate: 49.741%
-collected_at: 2026-04-17T17:30:32.521555+00:00
+acceptance_rate: "49.741%"
+collected_at: "2026-04-17T17:30:32.521555+00:00"
 ---
 
 ## 문제

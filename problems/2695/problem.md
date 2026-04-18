@@ -1,13 +1,13 @@
 ---
-title: 공
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "공"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 364
 accepted: 220
 solved_users: 178
-acceptance_rate: 68.199%
-collected_at: 2026-04-17T10:44:02.298926+00:00
+acceptance_rate: "68.199%"
+collected_at: "2026-04-17T10:44:02.298926+00:00"
 ---
 
 ## 문제

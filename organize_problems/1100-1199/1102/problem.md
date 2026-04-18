@@ -1,13 +1,13 @@
 ---
-title: 발전소
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "발전소"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 14092
 accepted: 4062
 solved_users: 2907
-acceptance_rate: 28.199%
-collected_at: 2026-04-17T10:28:14.136632+00:00
+acceptance_rate: "28.199%"
+collected_at: "2026-04-17T10:28:14.136632+00:00"
 ---
 
 ## 문제

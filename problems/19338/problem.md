@@ -1,13 +1,13 @@
 ---
-title: Flip a Coin
-special_judge: true
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Flip a Coin"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 119
 accepted: 36
 solved_users: 23
-acceptance_rate: 25.843%
-collected_at: 2026-04-17T15:17:28.928876+00:00
+acceptance_rate: "25.843%"
+collected_at: "2026-04-17T15:17:28.928876+00:00"
 ---
 
 ## 문제

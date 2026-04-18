@@ -1,13 +1,13 @@
 ---
-title: Speed Limit
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Speed Limit"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 882
 accepted: 706
 solved_users: 630
-acceptance_rate: 81.501%
-collected_at: 2026-04-17T13:37:37.474628+00:00
+acceptance_rate: "81.501%"
+collected_at: "2026-04-17T13:37:37.474628+00:00"
 ---
 
 ## 문제

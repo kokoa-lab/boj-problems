@@ -1,13 +1,13 @@
 ---
-title: カードの並び替え
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "カードの並び替え"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 217
 accepted: 186
 solved_users: 155
-acceptance_rate: 87.079%
-collected_at: 2026-04-17T11:15:54.837689+00:00
+acceptance_rate: "87.079%"
+collected_at: "2026-04-17T11:15:54.837689+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 루미의 생일파티장 꾸미기
-special_judge: false
-time_limit: 2.8 초
-memory_limit: 1329 MB
+title: "루미의 생일파티장 꾸미기"
+special_judge: "false"
+time_limit: "2.8 초"
+memory_limit: "1329 MB"
 submissions: 114
 accepted: 56
 solved_users: 33
-acceptance_rate: 51.562%
-collected_at: 2026-04-17T20:21:12.869876+00:00
+acceptance_rate: "51.562%"
+collected_at: "2026-04-17T20:21:12.869876+00:00"
 ---
 
 ## 문제

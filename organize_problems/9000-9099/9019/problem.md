@@ -1,13 +1,13 @@
 ---
-title: DSLR
-special_judge: true
-time_limit: 6 초
-memory_limit: 256 MB
+title: "DSLR"
+special_judge: "true"
+time_limit: "6 초"
+memory_limit: "256 MB"
 submissions: 105988
 accepted: 27150
 solved_users: 18019
-acceptance_rate: 21.908%
-collected_at: 2026-04-17T12:06:11.840292+00:00
+acceptance_rate: "21.908%"
+collected_at: "2026-04-17T12:06:11.840292+00:00"
 ---
 
 ## 문제

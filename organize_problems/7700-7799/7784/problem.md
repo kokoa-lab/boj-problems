@@ -1,13 +1,13 @@
 ---
-title: 서로 다른 숫자
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "서로 다른 숫자"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 202
 accepted: 62
 solved_users: 53
-acceptance_rate: 40.152%
-collected_at: 2026-04-17T11:52:57.721567+00:00
+acceptance_rate: "40.152%"
+collected_at: "2026-04-17T11:52:57.721567+00:00"
 ---
 
 ## 문제

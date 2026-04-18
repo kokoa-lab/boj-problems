@@ -1,13 +1,13 @@
 ---
-title: 쿠폰
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "쿠폰"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 7906
 accepted: 4396
 solved_users: 4117
-acceptance_rate: 56.755%
-collected_at: 2026-04-17T12:20:04.755996+00:00
+acceptance_rate: "56.755%"
+collected_at: "2026-04-17T12:20:04.755996+00:00"
 ---
 
 ## 문제

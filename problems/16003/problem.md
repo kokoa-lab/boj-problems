@@ -1,13 +1,13 @@
 ---
-title: 자석 장난감
-special_judge: true
-time_limit: 1.5 초 (추가 시간 없음)
-memory_limit: 256 MB
+title: "자석 장난감"
+special_judge: "true"
+time_limit: "1.5 초 (추가 시간 없음)"
+memory_limit: "256 MB"
 submissions: 522
 accepted: 101
 solved_users: 51
-acceptance_rate: 25.123%
-collected_at: 2026-04-17T14:09:48.534659+00:00
+acceptance_rate: "25.123%"
+collected_at: "2026-04-17T14:09:48.534659+00:00"
 ---
 
 ## 문제

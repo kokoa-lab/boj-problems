@@ -1,13 +1,13 @@
 ---
-title: Šibice
-special_judge: false
-time_limit: 1.5 초
-memory_limit: 256 MB
+title: "Šibice"
+special_judge: "false"
+time_limit: "1.5 초"
+memory_limit: "256 MB"
 submissions: 0
 accepted: 0
 solved_users: 0
-acceptance_rate: 0.000%
-collected_at: 2026-04-17T13:26:36.192372+00:00
+acceptance_rate: "0.000%"
+collected_at: "2026-04-17T13:26:36.192372+00:00"
 ---
 
 ## 문제

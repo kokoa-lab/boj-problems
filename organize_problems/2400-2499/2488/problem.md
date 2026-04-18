@@ -1,13 +1,13 @@
 ---
-title: 줄다리기
-special_judge: true
-time_limit: 1 초
-memory_limit: 128 MB
+title: "줄다리기"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 389
 accepted: 102
 solved_users: 75
-acceptance_rate: 34.884%
-collected_at: 2026-04-17T10:42:01.720111+00:00
+acceptance_rate: "34.884%"
+collected_at: "2026-04-17T10:42:01.720111+00:00"
 ---
 
 ## 문제

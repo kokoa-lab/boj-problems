@@ -1,13 +1,13 @@
 ---
-title: Sushi
-special_judge: false
-time_limit: 9 초
-memory_limit: 256 MB
+title: "Sushi"
+special_judge: "false"
+time_limit: "9 초"
+memory_limit: "256 MB"
 submissions: 162
 accepted: 75
 solved_users: 53
-acceptance_rate: 39.850%
-collected_at: 2026-04-17T14:46:00.306180+00:00
+acceptance_rate: "39.850%"
+collected_at: "2026-04-17T14:46:00.306180+00:00"
 ---
 
 ## 문제

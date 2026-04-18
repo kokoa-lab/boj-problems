@@ -1,13 +1,13 @@
 ---
-title: Insects, Mathematics, Accuracy, and Efficiency
-special_judge: true
-time_limit: 0.5 초
-memory_limit: 1024 MB
+title: "Insects, Mathematics, Accuracy, and Efficiency"
+special_judge: "true"
+time_limit: "0.5 초"
+memory_limit: "1024 MB"
 submissions: 118
 accepted: 20
 solved_users: 11
-acceptance_rate: 14.103%
-collected_at: 2026-04-17T19:36:02.079310+00:00
+acceptance_rate: "14.103%"
+collected_at: "2026-04-17T19:36:02.079310+00:00"
 ---
 
 ## 문제

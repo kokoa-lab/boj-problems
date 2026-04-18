@@ -1,13 +1,13 @@
 ---
-title: Canvas Line
-special_judge: true
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Canvas Line"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 275
 accepted: 92
 solved_users: 83
-acceptance_rate: 35.776%
-collected_at: 2026-04-17T14:55:24.127154+00:00
+acceptance_rate: "35.776%"
+collected_at: "2026-04-17T14:55:24.127154+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Bojanje stabla
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Bojanje stabla"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 42
 accepted: 20
 solved_users: 19
-acceptance_rate: 50.000%
-collected_at: 2026-04-17T18:28:58.930980+00:00
+acceptance_rate: "50.000%"
+collected_at: "2026-04-17T18:28:58.930980+00:00"
 ---
 
 ## 문제

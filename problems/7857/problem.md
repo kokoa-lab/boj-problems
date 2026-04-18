@@ -1,13 +1,13 @@
 ---
-title: Simple prefix compression
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Simple prefix compression"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 124
 accepted: 75
 solved_users: 72
-acceptance_rate: 62.069%
-collected_at: 2026-04-17T11:53:32.000866+00:00
+acceptance_rate: "62.069%"
+collected_at: "2026-04-17T11:53:32.000866+00:00"
 ---
 
 ## 문제

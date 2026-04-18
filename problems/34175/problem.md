@@ -1,13 +1,13 @@
 ---
-title: 포켓몬 카드 게임
-special_judge: true
-time_limit: 0.4 초 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "포켓몬 카드 게임"
+special_judge: "true"
+time_limit: "0.4 초 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 99
 accepted: 7
 solved_users: 7
-acceptance_rate: 30.435%
-collected_at: 2026-04-17T20:32:20.756461+00:00
+acceptance_rate: "30.435%"
+collected_at: "2026-04-17T20:32:20.756461+00:00"
 ---
 
 ## 문제

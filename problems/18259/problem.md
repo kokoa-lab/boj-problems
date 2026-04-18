@@ -1,13 +1,13 @@
 ---
-title: Greedy Pie Eaters
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Greedy Pie Eaters"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 189
 accepted: 70
 solved_users: 58
-acceptance_rate: 40.000%
-collected_at: 2026-04-17T14:58:09.898687+00:00
+acceptance_rate: "40.000%"
+collected_at: "2026-04-17T14:58:09.898687+00:00"
 ---
 
 ## 문제

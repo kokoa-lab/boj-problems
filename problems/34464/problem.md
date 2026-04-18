@@ -1,13 +1,13 @@
 ---
-title: Grid and Numbers Game
-special_judge: false
-time_limit: 2 초
-memory_limit: 2048 MB
+title: "Grid and Numbers Game"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "2048 MB"
 submissions: 12
 accepted: 8
 solved_users: 7
-acceptance_rate: 63.636%
-collected_at: 2026-04-17T20:39:47.424341+00:00
+acceptance_rate: "63.636%"
+collected_at: "2026-04-17T20:39:47.424341+00:00"
 ---
 
 ## 문제

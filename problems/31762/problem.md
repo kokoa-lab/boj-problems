@@ -1,13 +1,13 @@
 ---
-title: LED Matrix
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "LED Matrix"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 90
 accepted: 78
 solved_users: 62
-acceptance_rate: 91.176%
-collected_at: 2026-04-17T19:36:06.349896+00:00
+acceptance_rate: "91.176%"
+collected_at: "2026-04-17T19:36:06.349896+00:00"
 ---
 
 ## 문제

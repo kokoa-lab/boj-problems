@@ -1,13 +1,13 @@
 ---
-title: 장비 강화하기
-special_judge: false
-time_limit: 3 초
-memory_limit: 1024 MB
+title: "장비 강화하기"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "1024 MB"
 submissions: 112
 accepted: 52
 solved_users: 43
-acceptance_rate: 51.807%
-collected_at: 2026-04-17T20:18:12.805669+00:00
+acceptance_rate: "51.807%"
+collected_at: "2026-04-17T20:18:12.805669+00:00"
 ---
 
 ## 문제

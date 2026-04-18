@@ -1,13 +1,13 @@
 ---
-title: 수조
-special_judge: true
-time_limit: 2 초
-memory_limit: 128 MB
+title: "수조"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 1078
 accepted: 236
 solved_users: 126
-acceptance_rate: 19.535%
-collected_at: 2026-04-17T10:38:39.559372+00:00
+acceptance_rate: "19.535%"
+collected_at: "2026-04-17T10:38:39.559372+00:00"
 ---
 
 ## 문제

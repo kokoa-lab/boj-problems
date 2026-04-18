@@ -1,13 +1,13 @@
 ---
-title: Sewing Graph
-special_judge: true
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Sewing Graph"
+special_judge: "true"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 123
 accepted: 82
 solved_users: 79
-acceptance_rate: 68.103%
-collected_at: 2026-04-17T15:30:44.612300+00:00
+acceptance_rate: "68.103%"
+collected_at: "2026-04-17T15:30:44.612300+00:00"
 ---
 
 ## 문제

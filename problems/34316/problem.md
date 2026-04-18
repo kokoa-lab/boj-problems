@@ -1,13 +1,13 @@
 ---
-title: 사각형 개수 세기
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "사각형 개수 세기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 149
 accepted: 67
 solved_users: 49
-acceptance_rate: 44.144%
-collected_at: 2026-04-17T20:35:24.718278+00:00
+acceptance_rate: "44.144%"
+collected_at: "2026-04-17T20:35:24.718278+00:00"
 ---
 
 ## 문제

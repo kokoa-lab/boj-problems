@@ -1,13 +1,13 @@
 ---
-title: Mixture
-special_judge: false
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 256 MB
+title: "Mixture"
+special_judge: "false"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "256 MB"
 submissions: 27
 accepted: 8
 solved_users: 7
-acceptance_rate: 41.176%
-collected_at: 2026-04-17T15:22:49.797295+00:00
+acceptance_rate: "41.176%"
+collected_at: "2026-04-17T15:22:49.797295+00:00"
 ---
 
 ## 문제

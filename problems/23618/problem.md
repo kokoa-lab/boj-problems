@@ -1,13 +1,13 @@
 ---
-title: Error in code
-special_judge: false
-time_limit: 5 초 (추가 시간 없음)
-memory_limit: 256 MB
+title: "Error in code"
+special_judge: "false"
+time_limit: "5 초 (추가 시간 없음)"
+memory_limit: "256 MB"
 submissions: 44
 accepted: 13
 solved_users: 12
-acceptance_rate: 34.286%
-collected_at: 2026-04-17T16:51:07.569653+00:00
+acceptance_rate: "34.286%"
+collected_at: "2026-04-17T16:51:07.569653+00:00"
 ---
 
 ## 문제

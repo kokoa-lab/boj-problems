@@ -1,13 +1,13 @@
 ---
-title: 사탕의 밀도
-special_judge: true
-time_limit: 2 초
-memory_limit: 512 MB
+title: "사탕의 밀도"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 602
 accepted: 149
 solved_users: 108
-acceptance_rate: 23.947%
-collected_at: 2026-04-17T13:05:51.081679+00:00
+acceptance_rate: "23.947%"
+collected_at: "2026-04-17T13:05:51.081679+00:00"
 ---
 
 ## 문제

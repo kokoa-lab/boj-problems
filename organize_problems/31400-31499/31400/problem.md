@@ -1,13 +1,13 @@
 ---
-title: 헤네시스 오솔길 (Hard)
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "헤네시스 오솔길 (Hard)"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 86
 accepted: 21
 solved_users: 20
-acceptance_rate: 36.364%
-collected_at: 2026-04-17T19:27:32.203706+00:00
+acceptance_rate: "36.364%"
+collected_at: "2026-04-17T19:27:32.203706+00:00"
 ---
 
 ## 문제

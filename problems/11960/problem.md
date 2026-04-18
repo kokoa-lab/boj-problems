@@ -1,13 +1,13 @@
 ---
-title: Max Flow
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Max Flow"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 402
 accepted: 215
 solved_users: 170
-acceptance_rate: 55.195%
-collected_at: 2026-04-17T12:48:14.961324+00:00
+acceptance_rate: "55.195%"
+collected_at: "2026-04-17T12:48:14.961324+00:00"
 ---
 
 ## 문제

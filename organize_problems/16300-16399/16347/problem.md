@@ -1,13 +1,13 @@
 ---
-title: Alloc
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Alloc"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 75
 accepted: 40
 solved_users: 32
-acceptance_rate: 51.613%
-collected_at: 2026-04-17T14:16:14.626786+00:00
+acceptance_rate: "51.613%"
+collected_at: "2026-04-17T14:16:14.626786+00:00"
 ---
 
 ## 문제

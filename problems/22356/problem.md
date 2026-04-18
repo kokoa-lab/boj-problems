@@ -1,13 +1,13 @@
 ---
-title: 종이, 펜, 삼각형
-special_judge: false
-time_limit: 3 초 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "종이, 펜, 삼각형"
+special_judge: "false"
+time_limit: "3 초 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 254
 accepted: 98
 solved_users: 80
-acceptance_rate: 43.956%
-collected_at: 2026-04-17T16:19:30.236512+00:00
+acceptance_rate: "43.956%"
+collected_at: "2026-04-17T16:19:30.236512+00:00"
 ---
 
 ## 문제

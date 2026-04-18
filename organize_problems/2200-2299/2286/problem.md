@@ -1,13 +1,13 @@
 ---
-title: 비선형 수열
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "비선형 수열"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 34
 accepted: 15
 solved_users: 12
-acceptance_rate: 44.444%
-collected_at: 2026-04-17T10:40:16.631052+00:00
+acceptance_rate: "44.444%"
+collected_at: "2026-04-17T10:40:16.631052+00:00"
 ---
 
 ## 문제

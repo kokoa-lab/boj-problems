@@ -1,13 +1,13 @@
 ---
-title: 수열의 구간 평균
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "수열의 구간 평균"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 1052
 accepted: 547
 solved_users: 404
-acceptance_rate: 50.186%
-collected_at: 2026-04-17T15:23:04.136794+00:00
+acceptance_rate: "50.186%"
+collected_at: "2026-04-17T15:23:04.136794+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 초콜릿 놓기
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "초콜릿 놓기"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 57
 accepted: 12
 solved_users: 12
-acceptance_rate: 52.174%
-collected_at: 2026-04-17T20:49:47.342576+00:00
+acceptance_rate: "52.174%"
+collected_at: "2026-04-17T20:49:47.342576+00:00"
 ---
 
 ## 문제

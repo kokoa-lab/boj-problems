@@ -1,13 +1,13 @@
 ---
-title: 여우의 꿈
-special_judge: false
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "여우의 꿈"
+special_judge: "false"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 428
 accepted: 180
 solved_users: 131
-acceptance_rate: 38.304%
-collected_at: 2026-04-17T19:00:27.456002+00:00
+acceptance_rate: "38.304%"
+collected_at: "2026-04-17T19:00:27.456002+00:00"
 ---
 
 ## 문제

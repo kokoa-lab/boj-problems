@@ -1,13 +1,13 @@
 ---
-title: 젠장
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "젠장"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 677
 accepted: 103
 solved_users: 78
-acceptance_rate: 26.174%
-collected_at: 2026-04-17T10:29:27.755668+00:00
+acceptance_rate: "26.174%"
+collected_at: "2026-04-17T10:29:27.755668+00:00"
 ---
 
 ## 문제

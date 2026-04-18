@@ -1,13 +1,13 @@
 ---
-title: Bike Sharing
-special_judge: false
-time_limit: 10 초
-memory_limit: 256 MB
+title: "Bike Sharing"
+special_judge: "false"
+time_limit: "10 초"
+memory_limit: "256 MB"
 submissions: 22
 accepted: 6
 solved_users: 4
-acceptance_rate: 50.000%
-collected_at: 2026-04-17T12:46:14.243353+00:00
+acceptance_rate: "50.000%"
+collected_at: "2026-04-17T12:46:14.243353+00:00"
 ---
 
 ## 문제

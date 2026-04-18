@@ -1,13 +1,13 @@
 ---
-title: Move One Coin
-special_judge: true
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Move One Coin"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 153
 accepted: 55
 solved_users: 50
-acceptance_rate: 35.461%
-collected_at: 2026-04-17T18:02:34.171845+00:00
+acceptance_rate: "35.461%"
+collected_at: "2026-04-17T18:02:34.171845+00:00"
 ---
 
 ## 문제

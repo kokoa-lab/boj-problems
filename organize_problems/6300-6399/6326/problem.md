@@ -1,13 +1,13 @@
 ---
-title: Atlantis
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Atlantis"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 59
 accepted: 22
 solved_users: 22
-acceptance_rate: 42.308%
-collected_at: 2026-04-17T11:25:18.105397+00:00
+acceptance_rate: "42.308%"
+collected_at: "2026-04-17T11:25:18.105397+00:00"
 ---
 
 ## 문제

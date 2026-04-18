@@ -1,13 +1,13 @@
 ---
-title: Ball Painting
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Ball Painting"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 55
 accepted: 42
 solved_users: 37
-acceptance_rate: 75.510%
-collected_at: 2026-04-17T11:51:18.080391+00:00
+acceptance_rate: "75.510%"
+collected_at: "2026-04-17T11:51:18.080391+00:00"
 ---
 
 ## 문제

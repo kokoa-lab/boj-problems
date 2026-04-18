@@ -1,13 +1,13 @@
 ---
-title: 서로소 게임
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "서로소 게임"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 72
 accepted: 28
 solved_users: 9
-acceptance_rate: 31.034%
-collected_at: 2026-04-17T16:53:21.115464+00:00
+acceptance_rate: "31.034%"
+collected_at: "2026-04-17T16:53:21.115464+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 우주왕자 사교파티
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "우주왕자 사교파티"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 466
 accepted: 164
 solved_users: 135
-acceptance_rate: 38.136%
-collected_at: 2026-04-17T19:05:52.486999+00:00
+acceptance_rate: "38.136%"
+collected_at: "2026-04-17T19:05:52.486999+00:00"
 ---
 
 ## 문제

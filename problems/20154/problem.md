@@ -1,13 +1,13 @@
 ---
-title: 이 구역의 승자는 누구야?!
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "이 구역의 승자는 누구야?!"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 2279
 accepted: 1423
 solved_users: 1157
-acceptance_rate: 62.507%
-collected_at: 2026-04-17T15:32:20.971194+00:00
+acceptance_rate: "62.507%"
+collected_at: "2026-04-17T15:32:20.971194+00:00"
 ---
 
 ## 문제

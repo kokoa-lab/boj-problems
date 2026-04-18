@@ -1,13 +1,13 @@
 ---
-title: 네 번째 점
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "네 번째 점"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 78469
 accepted: 57160
 solved_users: 51036
-acceptance_rate: 73.504%
-collected_at: 2026-04-17T10:46:12.049195+00:00
+acceptance_rate: "73.504%"
+collected_at: "2026-04-17T10:46:12.049195+00:00"
 ---
 
 ## 문제

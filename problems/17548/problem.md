@@ -1,13 +1,13 @@
 ---
-title: Greetings!
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "Greetings!"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 1705
 accepted: 1466
 solved_users: 1382
-acceptance_rate: 86.973%
-collected_at: 2026-04-17T14:41:34.938306+00:00
+acceptance_rate: "86.973%"
+collected_at: "2026-04-17T14:41:34.938306+00:00"
 ---
 
 ## 문제

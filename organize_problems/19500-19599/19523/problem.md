@@ -1,13 +1,13 @@
 ---
-title: Eel and Grid
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Eel and Grid"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 25
 accepted: 22
 solved_users: 15
-acceptance_rate: 88.235%
-collected_at: 2026-04-17T15:21:58.950617+00:00
+acceptance_rate: "88.235%"
+collected_at: "2026-04-17T15:21:58.950617+00:00"
 ---
 
 ## 문제

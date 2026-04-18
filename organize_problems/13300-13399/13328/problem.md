@@ -1,13 +1,13 @@
 ---
-title: Message Passing
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Message Passing"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 989
 accepted: 419
 solved_users: 321
-acceptance_rate: 43.320%
-collected_at: 2026-04-17T13:11:38.818609+00:00
+acceptance_rate: "43.320%"
+collected_at: "2026-04-17T13:11:38.818609+00:00"
 ---
 
 ## 문제

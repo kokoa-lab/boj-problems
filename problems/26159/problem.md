@@ -1,13 +1,13 @@
 ---
-title: 트리와 수열
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "트리와 수열"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 502
 accepted: 211
 solved_users: 165
-acceptance_rate: 40.049%
-collected_at: 2026-04-17T17:41:02.351232+00:00
+acceptance_rate: "40.049%"
+collected_at: "2026-04-17T17:41:02.351232+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 종이의 개수
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "종이의 개수"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 56282
 accepted: 34940
 solved_users: 26279
-acceptance_rate: 61.209%
-collected_at: 2026-04-17T10:33:29.172009+00:00
+acceptance_rate: "61.209%"
+collected_at: "2026-04-17T10:33:29.172009+00:00"
 ---
 
 ## 문제

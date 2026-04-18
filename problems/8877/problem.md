@@ -1,13 +1,13 @@
 ---
-title: Self-Assembly
-special_judge: false
-time_limit: 3 초
-memory_limit: 128 MB
+title: "Self-Assembly"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "128 MB"
 submissions: 104
 accepted: 39
 solved_users: 34
-acceptance_rate: 51.515%
-collected_at: 2026-04-17T12:04:26.825912+00:00
+acceptance_rate: "51.515%"
+collected_at: "2026-04-17T12:04:26.825912+00:00"
 ---
 
 ## 문제

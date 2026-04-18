@@ -1,13 +1,13 @@
 ---
-title: 공중도시
-special_judge: true
-time_limit: 1 초
-memory_limit: 256 MB
+title: "공중도시"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 2157
 accepted: 365
 solved_users: 239
-acceptance_rate: 17.678%
-collected_at: 2026-04-17T12:29:51.731152+00:00
+acceptance_rate: "17.678%"
+collected_at: "2026-04-17T12:29:51.731152+00:00"
 ---
 
 ## 문제

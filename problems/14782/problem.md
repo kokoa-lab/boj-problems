@@ -1,13 +1,13 @@
 ---
-title: Bedtime Reading, I
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Bedtime Reading, I"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 1321
 accepted: 1183
 solved_users: 1100
-acceptance_rate: 90.834%
-collected_at: 2026-04-17T13:41:47.299595+00:00
+acceptance_rate: "90.834%"
+collected_at: "2026-04-17T13:41:47.299595+00:00"
 ---
 
 ## 문제

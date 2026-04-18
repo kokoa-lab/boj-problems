@@ -1,13 +1,13 @@
 ---
-title: 소가 길을 건너간 이유 2020
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "소가 길을 건너간 이유 2020"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 325
 accepted: 108
 solved_users: 96
-acceptance_rate: 36.502%
-collected_at: 2026-04-17T15:22:36.252607+00:00
+acceptance_rate: "36.502%"
+collected_at: "2026-04-17T15:22:36.252607+00:00"
 ---
 
 ## 문제

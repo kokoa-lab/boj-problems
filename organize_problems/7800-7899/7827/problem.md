@@ -1,13 +1,13 @@
 ---
-title: Transitive Closure
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Transitive Closure"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 189
 accepted: 102
 solved_users: 81
-acceptance_rate: 52.258%
-collected_at: 2026-04-18T09:58:18.127792+00:00
+acceptance_rate: "52.258%"
+collected_at: "2026-04-18T09:58:18.127792+00:00"
 ---
 
 ## 문제

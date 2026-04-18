@@ -1,13 +1,13 @@
 ---
-title: 겹치는 건 싫어
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "겹치는 건 싫어"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 21108
 accepted: 8387
 solved_users: 6455
-acceptance_rate: 38.315%
-collected_at: 2026-04-17T15:43:19.760399+00:00
+acceptance_rate: "38.315%"
+collected_at: "2026-04-17T15:43:19.760399+00:00"
 ---
 
 ## 문제

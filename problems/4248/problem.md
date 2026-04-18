@@ -1,13 +1,13 @@
 ---
-title: Chat Rooms
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Chat Rooms"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 277
 accepted: 58
 solved_users: 22
-acceptance_rate: 16.296%
-collected_at: 2026-04-17T10:58:11.096856+00:00
+acceptance_rate: "16.296%"
+collected_at: "2026-04-17T10:58:11.096856+00:00"
 ---
 
 ## 문제

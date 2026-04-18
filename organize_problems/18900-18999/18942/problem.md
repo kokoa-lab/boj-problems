@@ -1,13 +1,13 @@
 ---
-title: 고인물의 새로운 리듬게임
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "고인물의 새로운 리듬게임"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 422
 accepted: 45
 solved_users: 32
-acceptance_rate: 13.008%
-collected_at: 2026-04-17T15:11:40.385935+00:00
+acceptance_rate: "13.008%"
+collected_at: "2026-04-17T15:11:40.385935+00:00"
 ---
 
 ## 문제

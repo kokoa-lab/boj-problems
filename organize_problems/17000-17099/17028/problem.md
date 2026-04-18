@@ -1,13 +1,13 @@
 ---
-title: Sleepy Cow Sorting
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Sleepy Cow Sorting"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 1231
 accepted: 620
 solved_users: 547
-acceptance_rate: 52.495%
-collected_at: 2026-04-17T14:27:58.809333+00:00
+acceptance_rate: "52.495%"
+collected_at: "2026-04-17T14:27:58.809333+00:00"
 ---
 
 ## 문제

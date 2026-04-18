@@ -1,13 +1,13 @@
 ---
-title: 뒤집어진 소수
-special_judge: false
-time_limit: 3 초
-memory_limit: 256 MB
+title: "뒤집어진 소수"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "256 MB"
 submissions: 3847
 accepted: 916
 solved_users: 656
-acceptance_rate: 22.636%
-collected_at: 2026-04-17T12:30:34.432670+00:00
+acceptance_rate: "22.636%"
+collected_at: "2026-04-17T12:30:34.432670+00:00"
 ---
 
 ## 문제

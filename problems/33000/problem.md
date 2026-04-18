@@ -1,13 +1,13 @@
 ---
-title: The Sparsest Number in Between
-special_judge: false
-time_limit: 2 초
-memory_limit: 2048 MB
+title: "The Sparsest Number in Between"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "2048 MB"
 submissions: 101
 accepted: 67
 solved_users: 62
-acceptance_rate: 65.263%
-collected_at: 2026-04-17T20:07:08.017574+00:00
+acceptance_rate: "65.263%"
+collected_at: "2026-04-17T20:07:08.017574+00:00"
 ---
 
 ## 문제

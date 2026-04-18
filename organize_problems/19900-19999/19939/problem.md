@@ -1,13 +1,13 @@
 ---
-title: 박 터뜨리기
-special_judge: false
-time_limit: 0.25 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "박 터뜨리기"
+special_judge: "false"
+time_limit: "0.25 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 17003
 accepted: 6496
 solved_users: 5129
-acceptance_rate: 38.108%
-collected_at: 2026-04-17T15:29:37.641638+00:00
+acceptance_rate: "38.108%"
+collected_at: "2026-04-17T15:29:37.641638+00:00"
 ---
 
 ## 문제

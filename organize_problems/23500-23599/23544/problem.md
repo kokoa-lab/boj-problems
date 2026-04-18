@@ -1,13 +1,13 @@
 ---
-title: Kinder Surprise
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 64 MB
+title: "Kinder Surprise"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "64 MB"
 submissions: 221
 accepted: 189
 solved_users: 176
-acceptance_rate: 89.340%
-collected_at: 2026-04-17T16:49:51.365076+00:00
+acceptance_rate: "89.340%"
+collected_at: "2026-04-17T16:49:51.365076+00:00"
 ---
 
 ## 문제

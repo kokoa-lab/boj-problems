@@ -1,13 +1,13 @@
 ---
-title: Square, Not Rectangle
-special_judge: false
-time_limit: 1.5 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Square, Not Rectangle"
+special_judge: "false"
+time_limit: "1.5 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 661
 accepted: 316
 solved_users: 245
-acceptance_rate: 49.197%
-collected_at: 2026-04-17T15:30:46.725361+00:00
+acceptance_rate: "49.197%"
+collected_at: "2026-04-17T15:30:46.725361+00:00"
 ---
 
 ## 문제

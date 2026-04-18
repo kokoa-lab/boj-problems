@@ -1,13 +1,13 @@
 ---
-title: 직선 찾기
-special_judge: false
-time_limit: 4 초
-memory_limit: 256 MB
+title: "직선 찾기"
+special_judge: "false"
+time_limit: "4 초"
+memory_limit: "256 MB"
 submissions: 2597
 accepted: 525
 solved_users: 327
-acceptance_rate: 18.126%
-collected_at: 2026-04-17T12:24:57.283200+00:00
+acceptance_rate: "18.126%"
+collected_at: "2026-04-17T12:24:57.283200+00:00"
 ---
 
 ## 문제

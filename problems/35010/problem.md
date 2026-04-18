@@ -1,13 +1,13 @@
 ---
-title: Out of Bounds Piano
-special_judge: true
-time_limit: 1 초
-memory_limit: 2048 MB
+title: "Out of Bounds Piano"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "2048 MB"
 submissions: 18
 accepted: 13
 solved_users: 13
-acceptance_rate: 76.471%
-collected_at: 2026-04-17T20:53:52.185670+00:00
+acceptance_rate: "76.471%"
+collected_at: "2026-04-17T20:53:52.185670+00:00"
 ---
 
 ## 문제

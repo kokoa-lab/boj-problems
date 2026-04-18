@@ -1,13 +1,13 @@
 ---
-title: 정수론 싫어
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "정수론 싫어"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 310
 accepted: 125
 solved_users: 94
-acceptance_rate: 39.831%
-collected_at: 2026-04-17T11:10:04.766589+00:00
+acceptance_rate: "39.831%"
+collected_at: "2026-04-17T11:10:04.766589+00:00"
 ---
 
 ## 문제

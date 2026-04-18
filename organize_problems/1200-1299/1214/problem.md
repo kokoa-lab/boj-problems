@@ -1,13 +1,13 @@
 ---
-title: 쿨한 물건 구매
-special_judge: false
-time_limit: 0.5 초
-memory_limit: 128 MB
+title: "쿨한 물건 구매"
+special_judge: "false"
+time_limit: "0.5 초"
+memory_limit: "128 MB"
 submissions: 8832
 accepted: 2029
 solved_users: 1575
-acceptance_rate: 23.111%
-collected_at: 2026-04-17T10:28:52.330800+00:00
+acceptance_rate: "23.111%"
+collected_at: "2026-04-17T10:28:52.330800+00:00"
 ---
 
 ## 문제

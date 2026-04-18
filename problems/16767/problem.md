@@ -1,13 +1,13 @@
 ---
-title: Convention II
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Convention II"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 679
 accepted: 346
 solved_users: 289
-acceptance_rate: 53.420%
-collected_at: 2026-04-17T14:23:41.212271+00:00
+acceptance_rate: "53.420%"
+collected_at: "2026-04-17T14:23:41.212271+00:00"
 ---
 
 ## 문제

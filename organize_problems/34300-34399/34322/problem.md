@@ -1,13 +1,13 @@
 ---
-title: Boardgame Expo
-special_judge: false
-time_limit: 2 초
-memory_limit: 2048 MB
+title: "Boardgame Expo"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "2048 MB"
 submissions: 20
 accepted: 2
 solved_users: 2
-acceptance_rate: 40.000%
-collected_at: 2026-04-17T20:35:30.204959+00:00
+acceptance_rate: "40.000%"
+collected_at: "2026-04-17T20:35:30.204959+00:00"
 ---
 
 ## 문제

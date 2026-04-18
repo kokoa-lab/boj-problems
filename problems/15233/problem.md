@@ -1,13 +1,13 @@
 ---
-title: Final Score
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Final Score"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 562
 accepted: 440
 solved_users: 365
-acceptance_rate: 80.931%
-collected_at: 2026-04-17T13:55:36.643275+00:00
+acceptance_rate: "80.931%"
+collected_at: "2026-04-17T13:55:36.643275+00:00"
 ---
 
 ## 문제

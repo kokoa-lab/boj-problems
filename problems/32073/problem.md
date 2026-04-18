@@ -1,13 +1,13 @@
 ---
-title: XOR 최대
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "XOR 최대"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 1219
 accepted: 385
 solved_users: 291
-acceptance_rate: 32.807%
-collected_at: 2026-04-17T19:42:07.128333+00:00
+acceptance_rate: "32.807%"
+collected_at: "2026-04-17T19:42:07.128333+00:00"
 ---
 
 ## 문제

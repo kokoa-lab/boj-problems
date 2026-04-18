@@ -1,13 +1,13 @@
 ---
-title: 로마의 휴일
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "로마의 휴일"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 543
 accepted: 210
 solved_users: 185
-acceptance_rate: 40.570%
-collected_at: 2026-04-17T20:21:19.811061+00:00
+acceptance_rate: "40.570%"
+collected_at: "2026-04-17T20:21:19.811061+00:00"
 ---
 
 ## 문제

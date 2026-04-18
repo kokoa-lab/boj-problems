@@ -1,13 +1,13 @@
 ---
-title: 최소공배수 찾기
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "최소공배수 찾기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 1483
 accepted: 514
 solved_users: 411
-acceptance_rate: 39.634%
-collected_at: 2026-04-17T12:44:07.875657+00:00
+acceptance_rate: "39.634%"
+collected_at: "2026-04-17T12:44:07.875657+00:00"
 ---
 
 ## 문제

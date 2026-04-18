@@ -1,13 +1,13 @@
 ---
-title: 행복
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "행복"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 12100
 accepted: 8482
 solved_users: 7390
-acceptance_rate: 73.139%
-collected_at: 2026-04-17T14:09:18.217247+00:00
+acceptance_rate: "73.139%"
+collected_at: "2026-04-17T14:09:18.217247+00:00"
 ---
 
 ## 문제

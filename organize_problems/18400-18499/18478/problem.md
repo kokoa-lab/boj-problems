@@ -1,13 +1,13 @@
 ---
-title: K-pop Strings
-special_judge: false
-time_limit: 7 초
-memory_limit: 512 MB
+title: "K-pop Strings"
+special_judge: "false"
+time_limit: "7 초"
+memory_limit: "512 MB"
 submissions: 8
 accepted: 8
 solved_users: 7
-acceptance_rate: 100.000%
-collected_at: 2026-04-17T15:05:25.983989+00:00
+acceptance_rate: "100.000%"
+collected_at: "2026-04-17T15:05:25.983989+00:00"
 ---
 
 ## 문제

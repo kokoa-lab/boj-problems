@@ -1,13 +1,13 @@
 ---
-title: 랜덤 게임~~
-special_judge: true
-time_limit: 1 초
-memory_limit: 256 MB
+title: "랜덤 게임~~"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 977749
 accepted: 90
 solved_users: 87
-acceptance_rate: 0.015%
-collected_at: 2026-04-17T12:31:59.279352+00:00
+acceptance_rate: "0.015%"
+collected_at: "2026-04-17T12:31:59.279352+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: MooTube (Silver)
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "MooTube (Silver)"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 12565
 accepted: 5051
 solved_users: 3748
-acceptance_rate: 40.266%
-collected_at: 2026-04-17T14:02:09.711090+00:00
+acceptance_rate: "40.266%"
+collected_at: "2026-04-17T14:02:09.711090+00:00"
 ---
 
 ## 문제

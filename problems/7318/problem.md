@@ -1,13 +1,13 @@
 ---
-title: Parencodings
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Parencodings"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 31
 accepted: 30
 solved_users: 27
-acceptance_rate: 96.429%
-collected_at: 2026-04-17T11:48:15.213933+00:00
+acceptance_rate: "96.429%"
+collected_at: "2026-04-17T11:48:15.213933+00:00"
 ---
 
 ## 문제

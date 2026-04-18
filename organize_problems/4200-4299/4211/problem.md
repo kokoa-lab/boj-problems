@@ -1,13 +1,13 @@
 ---
-title: 금고 회사
-special_judge: false
-time_limit: 5 초
-memory_limit: 256 MB
+title: "금고 회사"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "256 MB"
 submissions: 351
 accepted: 72
 solved_users: 45
-acceptance_rate: 16.729%
-collected_at: 2026-04-17T10:57:19.358892+00:00
+acceptance_rate: "16.729%"
+collected_at: "2026-04-17T10:57:19.358892+00:00"
 ---
 
 ## 문제

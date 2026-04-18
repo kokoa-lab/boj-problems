@@ -1,13 +1,13 @@
 ---
-title: Advertising Revenue
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Advertising Revenue"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 146
 accepted: 117
 solved_users: 105
-acceptance_rate: 84.677%
-collected_at: 2026-04-17T13:41:38.474157+00:00
+acceptance_rate: "84.677%"
+collected_at: "2026-04-17T13:41:38.474157+00:00"
 ---
 
 ## 문제

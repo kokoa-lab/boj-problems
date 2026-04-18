@@ -1,13 +1,13 @@
 ---
-title: 영희의 심부름
-special_judge: false
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "영희의 심부름"
+special_judge: "false"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 71
 accepted: 21
 solved_users: 21
-acceptance_rate: 53.846%
-collected_at: 2026-04-17T17:29:54.930323+00:00
+acceptance_rate: "53.846%"
+collected_at: "2026-04-17T17:29:54.930323+00:00"
 ---
 
 ## 문제

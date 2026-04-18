@@ -1,13 +1,13 @@
 ---
-title: Muffinspelet
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Muffinspelet"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 311
 accepted: 265
 solved_users: 241
-acceptance_rate: 90.262%
-collected_at: 2026-04-17T17:05:48.253645+00:00
+acceptance_rate: "90.262%"
+collected_at: "2026-04-17T17:05:48.253645+00:00"
 ---
 
 ## 문제

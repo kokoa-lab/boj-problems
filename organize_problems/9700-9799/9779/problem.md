@@ -1,13 +1,13 @@
 ---
-title: Jane’s First Words
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Jane’s First Words"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 196
 accepted: 88
 solved_users: 73
-acceptance_rate: 47.403%
-collected_at: 2026-04-17T12:14:25.731798+00:00
+acceptance_rate: "47.403%"
+collected_at: "2026-04-17T12:14:25.731798+00:00"
 ---
 
 ## 문제

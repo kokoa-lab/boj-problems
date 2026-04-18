@@ -1,13 +1,13 @@
 ---
-title: Бактерии
-special_judge: true
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Бактерии"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 19
 accepted: 6
 solved_users: 6
-acceptance_rate: 40.000%
-collected_at: 2026-04-17T15:29:53.567724+00:00
+acceptance_rate: "40.000%"
+collected_at: "2026-04-17T15:29:53.567724+00:00"
 ---
 
 ## 문제

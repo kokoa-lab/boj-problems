@@ -1,13 +1,13 @@
 ---
-title: Godfather
-special_judge: false
-time_limit: 2 초
-memory_limit: 64 MB
+title: "Godfather"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "64 MB"
 submissions: 61
 accepted: 29
 solved_users: 28
-acceptance_rate: 49.123%
-collected_at: 2026-04-17T10:50:28.012049+00:00
+acceptance_rate: "49.123%"
+collected_at: "2026-04-17T10:50:28.012049+00:00"
 ---
 
 ## 문제

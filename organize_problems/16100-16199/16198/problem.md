@@ -1,13 +1,13 @@
 ---
-title: 에너지 모으기
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "에너지 모으기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 7169
 accepted: 5426
 solved_users: 4402
-acceptance_rate: 76.717%
-collected_at: 2026-04-17T14:13:21.569482+00:00
+acceptance_rate: "76.717%"
+collected_at: "2026-04-17T14:13:21.569482+00:00"
 ---
 
 ## 문제

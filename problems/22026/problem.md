@@ -1,13 +1,13 @@
 ---
-title: 카드 뒤집기 게임
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "카드 뒤집기 게임"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 117
 accepted: 55
 solved_users: 52
-acceptance_rate: 51.485%
-collected_at: 2026-04-17T16:11:42.353820+00:00
+acceptance_rate: "51.485%"
+collected_at: "2026-04-17T16:11:42.353820+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Plus or Times
-special_judge: false
-time_limit: 1 초
-memory_limit: 2048 MB
+title: "Plus or Times"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "2048 MB"
 submissions: 49
 accepted: 23
 solved_users: 19
-acceptance_rate: 57.576%
-collected_at: 2026-04-17T20:08:59.532058+00:00
+acceptance_rate: "57.576%"
+collected_at: "2026-04-17T20:08:59.532058+00:00"
 ---
 
 ## 문제

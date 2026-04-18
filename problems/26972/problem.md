@@ -1,13 +1,13 @@
 ---
-title: Barn Tree
-special_judge: true
-time_limit: 4 초
-memory_limit: 1024 MB
+title: "Barn Tree"
+special_judge: "true"
+time_limit: "4 초"
+memory_limit: "1024 MB"
 submissions: 535
 accepted: 167
 solved_users: 140
-acceptance_rate: 34.739%
-collected_at: 2026-04-17T17:54:15.581939+00:00
+acceptance_rate: "34.739%"
+collected_at: "2026-04-17T17:54:15.581939+00:00"
 ---
 
 ## 문제

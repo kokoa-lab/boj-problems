@@ -1,13 +1,13 @@
 ---
-title: Historical Research
-special_judge: false
-time_limit: 4 초
-memory_limit: 512 MB
+title: "Historical Research"
+special_judge: "false"
+time_limit: "4 초"
+memory_limit: "512 MB"
 submissions: 591
 accepted: 166
 solved_users: 101
-acceptance_rate: 22.101%
-collected_at: 2026-04-17T14:46:21.728923+00:00
+acceptance_rate: "22.101%"
+collected_at: "2026-04-17T14:46:21.728923+00:00"
 ---
 
 ## 문제

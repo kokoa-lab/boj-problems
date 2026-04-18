@@ -1,13 +1,13 @@
 ---
-title: Yangjojang of The Year
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Yangjojang of The Year"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 14361
 accepted: 10317
 solved_users: 9430
-acceptance_rate: 73.209%
-collected_at: 2026-04-17T12:42:11.575762+00:00
+acceptance_rate: "73.209%"
+collected_at: "2026-04-17T12:42:11.575762+00:00"
 ---
 
 ## 문제

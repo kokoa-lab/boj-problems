@@ -1,13 +1,13 @@
 ---
-title: Transportation
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Transportation"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 70
 accepted: 23
 solved_users: 19
-acceptance_rate: 38.000%
-collected_at: 2026-04-17T11:48:44.626625+00:00
+acceptance_rate: "38.000%"
+collected_at: "2026-04-17T11:48:44.626625+00:00"
 ---
 
 ## 문제

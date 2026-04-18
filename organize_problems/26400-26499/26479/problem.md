@@ -1,13 +1,13 @@
 ---
-title: 巡回勇者問題
-special_judge: true
-time_limit: 8 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "巡回勇者問題"
+special_judge: "true"
+time_limit: "8 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 2
 accepted: 0
 solved_users: 0
-acceptance_rate: 0.000%
-collected_at: 2026-04-17T17:46:26.774733+00:00
+acceptance_rate: "0.000%"
+collected_at: "2026-04-17T17:46:26.774733+00:00"
 ---
 
 ## 문제

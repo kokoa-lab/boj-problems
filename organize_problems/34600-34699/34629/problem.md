@@ -1,13 +1,13 @@
 ---
-title: Division Versus Addition
-special_judge: false
-time_limit: 2 초
-memory_limit: 2048 MB
+title: "Division Versus Addition"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "2048 MB"
 submissions: 95
 accepted: 87
 solved_users: 72
-acceptance_rate: 93.506%
-collected_at: 2026-04-17T20:44:21.876502+00:00
+acceptance_rate: "93.506%"
+collected_at: "2026-04-17T20:44:21.876502+00:00"
 ---
 
 ## 문제

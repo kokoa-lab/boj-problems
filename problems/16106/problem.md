@@ -1,13 +1,13 @@
 ---
-title: Grievous Loss of Data
-special_judge: false
-time_limit: 6 초
-memory_limit: 512 MB
+title: "Grievous Loss of Data"
+special_judge: "false"
+time_limit: "6 초"
+memory_limit: "512 MB"
 submissions: 89
 accepted: 29
 solved_users: 21
-acceptance_rate: 56.757%
-collected_at: 2026-04-17T14:11:31.811887+00:00
+acceptance_rate: "56.757%"
+collected_at: "2026-04-17T14:11:31.811887+00:00"
 ---
 
 ## 문제

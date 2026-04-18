@@ -1,13 +1,13 @@
 ---
-title: Headshot
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Headshot"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 247
 accepted: 146
 solved_users: 136
-acceptance_rate: 59.130%
-collected_at: 2026-04-17T10:49:42.180015+00:00
+acceptance_rate: "59.130%"
+collected_at: "2026-04-17T10:49:42.180015+00:00"
 ---
 
 ## 문제

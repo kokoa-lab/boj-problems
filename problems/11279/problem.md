@@ -1,13 +1,13 @@
 ---
-title: 최대 힙
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)  ( 하단 참고 )
-memory_limit: 256 MB
+title: "최대 힙"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)  ( 하단 참고 )"
+memory_limit: "256 MB"
 submissions: 105655
 accepted: 53069
 solved_users: 42287
-acceptance_rate: 51.494%
-collected_at: 2026-04-17T12:39:02.824380+00:00
+acceptance_rate: "51.494%"
+collected_at: "2026-04-17T12:39:02.824380+00:00"
 ---
 
 ## 문제

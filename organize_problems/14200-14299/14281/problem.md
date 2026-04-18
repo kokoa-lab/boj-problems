@@ -1,13 +1,13 @@
 ---
-title: 볼록 수열
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "볼록 수열"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 553
 accepted: 202
 solved_users: 162
-acceptance_rate: 37.241%
-collected_at: 2026-04-17T13:29:28.022256+00:00
+acceptance_rate: "37.241%"
+collected_at: "2026-04-17T13:29:28.022256+00:00"
 ---
 
 ## 문제

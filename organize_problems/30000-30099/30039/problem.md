@@ -1,13 +1,13 @@
 ---
-title: Queueueue
-special_judge: false
-time_limit: 2.5 초
-memory_limit: 1024 MB
+title: "Queueueue"
+special_judge: "false"
+time_limit: "2.5 초"
+memory_limit: "1024 MB"
 submissions: 510
 accepted: 137
 solved_users: 92
-acceptance_rate: 27.139%
-collected_at: 2026-04-17T18:57:56.708345+00:00
+acceptance_rate: "27.139%"
+collected_at: "2026-04-17T18:57:56.708345+00:00"
 ---
 
 ## 문제

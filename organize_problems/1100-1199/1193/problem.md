@@ -1,13 +1,13 @@
 ---
-title: 분수찾기
-special_judge: false
-time_limit: 0.5 초 (추가 시간 없음)
-memory_limit: 256 MB
+title: "분수찾기"
+special_judge: "false"
+time_limit: "0.5 초 (추가 시간 없음)"
+memory_limit: "256 MB"
 submissions: 155077
 accepted: 80218
 solved_users: 68684
-acceptance_rate: 52.348%
-collected_at: 2026-04-17T10:28:42.744513+00:00
+acceptance_rate: "52.348%"
+collected_at: "2026-04-17T10:28:42.744513+00:00"
 ---
 
 ## 문제

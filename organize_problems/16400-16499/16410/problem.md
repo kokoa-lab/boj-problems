@@ -1,13 +1,13 @@
 ---
-title: Goat Rope
-special_judge: true
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Goat Rope"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 191
 accepted: 159
 solved_users: 148
-acceptance_rate: 83.146%
-collected_at: 2026-04-17T14:17:29.695086+00:00
+acceptance_rate: "83.146%"
+collected_at: "2026-04-17T14:17:29.695086+00:00"
 ---
 
 ## 문제

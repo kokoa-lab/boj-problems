@@ -1,13 +1,13 @@
 ---
-title: 타슈
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "타슈"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 1865
 accepted: 1576
 solved_users: 1426
-acceptance_rate: 85.492%
-collected_at: 2026-04-17T18:57:31.265267+00:00
+acceptance_rate: "85.492%"
+collected_at: "2026-04-17T18:57:31.265267+00:00"
 ---
 
 ## 문제

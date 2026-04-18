@@ -1,13 +1,13 @@
 ---
-title: 대세는 바이러스야
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "대세는 바이러스야"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 36
 accepted: 14
 solved_users: 12
-acceptance_rate: 42.857%
-collected_at: 2026-04-17T15:39:47.780369+00:00
+acceptance_rate: "42.857%"
+collected_at: "2026-04-17T15:39:47.780369+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Adjusting passwords
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Adjusting passwords"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 76
 accepted: 50
 solved_users: 37
-acceptance_rate: 59.677%
-collected_at: 2026-04-17T18:08:49.559545+00:00
+acceptance_rate: "59.677%"
+collected_at: "2026-04-17T18:08:49.559545+00:00"
 ---
 
 ## 문제

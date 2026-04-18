@@ -1,13 +1,13 @@
 ---
-title: A Cappella Recording
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 2048 MB
+title: "A Cappella Recording"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "2048 MB"
 submissions: 91
 accepted: 73
 solved_users: 61
-acceptance_rate: 81.333%
-collected_at: 2026-04-17T19:29:48.114365+00:00
+acceptance_rate: "81.333%"
+collected_at: "2026-04-17T19:29:48.114365+00:00"
 ---
 
 ## 문제

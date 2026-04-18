@@ -1,13 +1,13 @@
 ---
-title: 중간 뒤집기
-special_judge: false
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "중간 뒤집기"
+special_judge: "false"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 256
 accepted: 166
 solved_users: 139
-acceptance_rate: 65.566%
-collected_at: 2026-04-17T20:30:18.938347+00:00
+acceptance_rate: "65.566%"
+collected_at: "2026-04-17T20:30:18.938347+00:00"
 ---
 
 ## 문제

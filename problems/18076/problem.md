@@ -1,13 +1,13 @@
 ---
-title: Just the Last Digit
-special_judge: true
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "Just the Last Digit"
+special_judge: "true"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 87
 accepted: 51
 solved_users: 48
-acceptance_rate: 59.259%
-collected_at: 2026-04-17T14:55:09.432928+00:00
+acceptance_rate: "59.259%"
+collected_at: "2026-04-17T14:55:09.432928+00:00"
 ---
 
 ## 문제

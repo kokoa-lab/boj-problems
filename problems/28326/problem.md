@@ -1,13 +1,13 @@
 ---
-title: 고기 파티
-special_judge: false
-time_limit: 3 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "고기 파티"
+special_judge: "false"
+time_limit: "3 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 1200
 accepted: 290
 solved_users: 195
-acceptance_rate: 29.018%
-collected_at: 2026-04-17T18:23:07.779730+00:00
+acceptance_rate: "29.018%"
+collected_at: "2026-04-17T18:23:07.779730+00:00"
 ---
 
 ## 문제

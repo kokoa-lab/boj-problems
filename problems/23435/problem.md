@@ -1,13 +1,13 @@
 ---
-title: Cloud computing
-special_judge: false
-time_limit: 10 초 (추가 시간 없음)
-memory_limit: 256 MB
+title: "Cloud computing"
+special_judge: "false"
+time_limit: "10 초 (추가 시간 없음)"
+memory_limit: "256 MB"
 submissions: 356
 accepted: 157
 solved_users: 121
-acceptance_rate: 40.199%
-collected_at: 2026-04-17T16:48:09.931115+00:00
+acceptance_rate: "40.199%"
+collected_at: "2026-04-17T16:48:09.931115+00:00"
 ---
 
 ## 문제

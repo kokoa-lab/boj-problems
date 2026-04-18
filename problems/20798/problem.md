@@ -1,13 +1,13 @@
 ---
-title: Rikka with Game
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Rikka with Game"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 80
 accepted: 15
 solved_users: 10
-acceptance_rate: 19.231%
-collected_at: 2026-04-17T15:41:29.712925+00:00
+acceptance_rate: "19.231%"
+collected_at: "2026-04-17T15:41:29.712925+00:00"
 ---
 
 ## 문제

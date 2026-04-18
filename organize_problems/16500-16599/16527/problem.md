@@ -1,13 +1,13 @@
 ---
-title: Gathering Red-Black Fruits
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Gathering Red-Black Fruits"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 28
 accepted: 6
 solved_users: 6
-acceptance_rate: 35.294%
-collected_at: 2026-04-17T14:19:36.390028+00:00
+acceptance_rate: "35.294%"
+collected_at: "2026-04-17T14:19:36.390028+00:00"
 ---
 
 ## 문제

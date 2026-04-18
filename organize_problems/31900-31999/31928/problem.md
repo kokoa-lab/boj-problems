@@ -1,13 +1,13 @@
 ---
-title: 이상한 트리 해싱
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "이상한 트리 해싱"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 239
 accepted: 106
 solved_users: 89
-acceptance_rate: 46.114%
-collected_at: 2026-04-17T19:39:11.471746+00:00
+acceptance_rate: "46.114%"
+collected_at: "2026-04-17T19:39:11.471746+00:00"
 ---
 
 ## 문제

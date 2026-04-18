@@ -1,13 +1,13 @@
 ---
-title: Oil Deposits
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Oil Deposits"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 683
 accepted: 531
 solved_users: 468
-acceptance_rate: 78.000%
-collected_at: 2026-04-17T11:06:57.039174+00:00
+acceptance_rate: "78.000%"
+collected_at: "2026-04-17T11:06:57.039174+00:00"
 ---
 
 ## 문제

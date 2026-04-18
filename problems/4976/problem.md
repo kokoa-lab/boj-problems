@@ -1,13 +1,13 @@
 ---
-title: Cut the Cake
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Cut the Cake"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 26
 accepted: 18
 solved_users: 18
-acceptance_rate: 69.231%
-collected_at: 2026-04-17T11:10:34.080156+00:00
+acceptance_rate: "69.231%"
+collected_at: "2026-04-17T11:10:34.080156+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 붕어빵타이쿤
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "붕어빵타이쿤"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 1029
 accepted: 216
 solved_users: 180
-acceptance_rate: 22.843%
-collected_at: 2026-04-17T10:32:28.755558+00:00
+acceptance_rate: "22.843%"
+collected_at: "2026-04-17T10:32:28.755558+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Who is in the middle?
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Who is in the middle?"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 9402
 accepted: 6874
 solved_users: 6531
-acceptance_rate: 74.292%
-collected_at: 2026-04-17T11:39:27.614174+00:00
+acceptance_rate: "74.292%"
+collected_at: "2026-04-17T11:39:27.614174+00:00"
 ---
 
 ## 문제

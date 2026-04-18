@@ -1,13 +1,13 @@
 ---
-title: 어두운 굴다리
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "어두운 굴다리"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 14558
 accepted: 5869
 solved_users: 4679
-acceptance_rate: 39.445%
-collected_at: 2026-04-17T14:35:44.163503+00:00
+acceptance_rate: "39.445%"
+collected_at: "2026-04-17T14:35:44.163503+00:00"
 ---
 
 ## 문제

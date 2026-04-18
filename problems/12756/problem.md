@@ -1,13 +1,13 @@
 ---
-title: 고급 여관
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "고급 여관"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 5228
 accepted: 2720
 solved_users: 2515
-acceptance_rate: 53.093%
-collected_at: 2026-04-17T13:00:50.037180+00:00
+acceptance_rate: "53.093%"
+collected_at: "2026-04-17T13:00:50.037180+00:00"
 ---
 
 ## 문제

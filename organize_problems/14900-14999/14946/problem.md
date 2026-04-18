@@ -1,13 +1,13 @@
 ---
-title: 누가 크리스마스 소리를 내었는가
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "누가 크리스마스 소리를 내었는가"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 141
 accepted: 73
 solved_users: 61
-acceptance_rate: 64.211%
-collected_at: 2026-04-17T13:46:22.517511+00:00
+acceptance_rate: "64.211%"
+collected_at: "2026-04-17T13:46:22.517511+00:00"
 ---
 
 ## 문제

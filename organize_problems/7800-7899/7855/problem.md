@@ -1,13 +1,13 @@
 ---
-title: One is good, but two is better
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "One is good, but two is better"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 22
 accepted: 3
 solved_users: 1
-acceptance_rate: 6.250%
-collected_at: 2026-04-17T11:53:31.290416+00:00
+acceptance_rate: "6.250%"
+collected_at: "2026-04-17T11:53:31.290416+00:00"
 ---
 
 ## 문제

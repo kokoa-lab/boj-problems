@@ -1,13 +1,13 @@
 ---
-title: The Year of Code Jam (Small)
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "The Year of Code Jam (Small)"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 61
 accepted: 41
 solved_users: 36
-acceptance_rate: 87.805%
-collected_at: 2026-04-17T12:59:27.034178+00:00
+acceptance_rate: "87.805%"
+collected_at: "2026-04-17T12:59:27.034178+00:00"
 ---
 
 ## 문제

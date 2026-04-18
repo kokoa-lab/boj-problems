@@ -1,13 +1,13 @@
 ---
-title: Squarks
-special_judge: true
-time_limit: 2 초
-memory_limit: 128 MB
+title: "Squarks"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 216
 accepted: 88
 solved_users: 50
-acceptance_rate: 34.483%
-collected_at: 2026-04-17T11:57:27.281523+00:00
+acceptance_rate: "34.483%"
+collected_at: "2026-04-17T11:57:27.281523+00:00"
 ---
 
 ## 문제

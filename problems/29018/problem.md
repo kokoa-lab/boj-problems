@@ -1,13 +1,13 @@
 ---
-title: クレヨンの並べ替え
-special_judge: false
-time_limit: 8 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "クレヨンの並べ替え"
+special_judge: "false"
+time_limit: "8 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 189
 accepted: 169
 solved_users: 124
-acceptance_rate: 87.943%
-collected_at: 2026-04-17T18:36:09.154729+00:00
+acceptance_rate: "87.943%"
+collected_at: "2026-04-17T18:36:09.154729+00:00"
 ---
 
 ## 문제

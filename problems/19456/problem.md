@@ -1,13 +1,13 @@
 ---
-title: Cocktails
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "Cocktails"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 95
 accepted: 19
 solved_users: 16
-acceptance_rate: 24.242%
-collected_at: 2026-04-17T15:20:27.337386+00:00
+acceptance_rate: "24.242%"
+collected_at: "2026-04-17T15:20:27.337386+00:00"
 ---
 
 ## 문제

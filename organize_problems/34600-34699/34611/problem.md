@@ -1,13 +1,13 @@
 ---
-title: Gathering Sharks
-special_judge: false
-time_limit: 2 초
-memory_limit: 2048 MB
+title: "Gathering Sharks"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "2048 MB"
 submissions: 23
 accepted: 23
 solved_users: 23
-acceptance_rate: 100.000%
-collected_at: 2026-04-17T20:43:56.094589+00:00
+acceptance_rate: "100.000%"
+collected_at: "2026-04-17T20:43:56.094589+00:00"
 ---
 
 ## 문제

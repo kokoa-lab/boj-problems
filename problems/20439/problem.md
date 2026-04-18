@@ -1,13 +1,13 @@
 ---
-title: 계획왕
-special_judge: false
-time_limit: 3 초
-memory_limit: 1024 MB
+title: "계획왕"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "1024 MB"
 submissions: 397
 accepted: 103
 solved_users: 76
-acceptance_rate: 32.068%
-collected_at: 2026-04-17T15:36:24.346580+00:00
+acceptance_rate: "32.068%"
+collected_at: "2026-04-17T15:36:24.346580+00:00"
 ---
 
 ## 문제

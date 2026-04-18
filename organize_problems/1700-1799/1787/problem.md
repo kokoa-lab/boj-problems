@@ -1,13 +1,13 @@
 ---
-title: 문자열의 주기 예측
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "문자열의 주기 예측"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 1980
 accepted: 725
 solved_users: 538
-acceptance_rate: 35.629%
-collected_at: 2026-04-17T10:33:34.475066+00:00
+acceptance_rate: "35.629%"
+collected_at: "2026-04-17T10:33:34.475066+00:00"
 ---
 
 ## 문제

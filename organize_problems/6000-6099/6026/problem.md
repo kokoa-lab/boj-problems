@@ -1,13 +1,13 @@
 ---
-title: Slowing down
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Slowing down"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 40
 accepted: 23
 solved_users: 18
-acceptance_rate: 56.250%
-collected_at: 2026-04-17T11:19:30.338069+00:00
+acceptance_rate: "56.250%"
+collected_at: "2026-04-17T11:19:30.338069+00:00"
 ---
 
 ## 문제

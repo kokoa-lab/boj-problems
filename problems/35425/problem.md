@@ -1,13 +1,13 @@
 ---
-title: Split the GSHS 5
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Split the GSHS 5"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 33
 accepted: 26
 solved_users: 18
-acceptance_rate: 90.000%
-collected_at: 2026-04-17T21:05:15.871843+00:00
+acceptance_rate: "90.000%"
+collected_at: "2026-04-17T21:05:15.871843+00:00"
 ---
 
 ## 문제

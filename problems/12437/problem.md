@@ -1,13 +1,13 @@
 ---
-title: 새로운 달력 (Small)
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "새로운 달력 (Small)"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 564
 accepted: 315
 solved_users: 287
-acceptance_rate: 60.549%
-collected_at: 2026-04-17T12:55:27.502639+00:00
+acceptance_rate: "60.549%"
+collected_at: "2026-04-17T12:55:27.502639+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Kitten's Computer
-special_judge: true
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Kitten's Computer"
+special_judge: "true"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 9
 accepted: 8
 solved_users: 3
-acceptance_rate: 75.000%
-collected_at: 2026-04-17T17:30:59.968241+00:00
+acceptance_rate: "75.000%"
+collected_at: "2026-04-17T17:30:59.968241+00:00"
 ---
 
 ## 문제

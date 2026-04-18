@@ -1,13 +1,13 @@
 ---
-title: 반복하지 않는 수
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "반복하지 않는 수"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 3918
 accepted: 883
 solved_users: 634
-acceptance_rate: 24.152%
-collected_at: 2026-04-17T11:52:07.633906+00:00
+acceptance_rate: "24.152%"
+collected_at: "2026-04-17T11:52:07.633906+00:00"
 ---
 
 ## 문제

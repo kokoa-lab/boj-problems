@@ -1,13 +1,13 @@
 ---
-title: Cow Pizza
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "Cow Pizza"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 220
 accepted: 194
 solved_users: 167
-acceptance_rate: 88.360%
-collected_at: 2026-04-17T10:35:22.611894+00:00
+acceptance_rate: "88.360%"
+collected_at: "2026-04-17T10:35:22.611894+00:00"
 ---
 
 ## 문제

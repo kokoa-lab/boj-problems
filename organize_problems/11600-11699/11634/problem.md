@@ -1,13 +1,13 @@
 ---
-title: Tour de France
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "Tour de France"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 105
 accepted: 13
 solved_users: 12
-acceptance_rate: 16.901%
-collected_at: 2026-04-17T12:43:14.949445+00:00
+acceptance_rate: "16.901%"
+collected_at: "2026-04-17T12:43:14.949445+00:00"
 ---
 
 ## 문제

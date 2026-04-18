@@ -1,13 +1,13 @@
 ---
-title: Sounds fishy!
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Sounds fishy!"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 7287
 accepted: 3079
 solved_users: 2856
-acceptance_rate: 42.595%
-collected_at: 2026-04-17T11:36:11.555460+00:00
+acceptance_rate: "42.595%"
+collected_at: "2026-04-17T11:36:11.555460+00:00"
 ---
 
 ## 문제

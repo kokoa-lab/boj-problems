@@ -1,13 +1,13 @@
 ---
-title: 성장의 비약 선택권
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "성장의 비약 선택권"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 2341
 accepted: 1094
 solved_users: 1004
-acceptance_rate: 47.719%
-collected_at: 2026-04-17T17:49:12.401659+00:00
+acceptance_rate: "47.719%"
+collected_at: "2026-04-17T17:49:12.401659+00:00"
 ---
 
 ## 문제

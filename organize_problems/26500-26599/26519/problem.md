@@ -1,13 +1,13 @@
 ---
-title: 함수와 최소 스패닝 트리
-special_judge: false
-time_limit: 3 초
-memory_limit: 1024 MB
+title: "함수와 최소 스패닝 트리"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "1024 MB"
 submissions: 344
 accepted: 59
 solved_users: 31
-acceptance_rate: 14.027%
-collected_at: 2026-04-17T17:47:05.949925+00:00
+acceptance_rate: "14.027%"
+collected_at: "2026-04-17T17:47:05.949925+00:00"
 ---
 
 ## 문제

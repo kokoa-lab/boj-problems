@@ -1,13 +1,13 @@
 ---
-title: Duplicate SSN
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Duplicate SSN"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 314
 accepted: 237
 solved_users: 214
-acceptance_rate: 76.429%
-collected_at: 2026-04-17T11:13:06.832421+00:00
+acceptance_rate: "76.429%"
+collected_at: "2026-04-17T11:13:06.832421+00:00"
 ---
 
 ## 문제

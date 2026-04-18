@@ -1,13 +1,13 @@
 ---
-title: Orbit
-special_judge: true
-time_limit: 2 초
-memory_limit: 256 MB
+title: "Orbit"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 52
 accepted: 10
 solved_users: 6
-acceptance_rate: 17.143%
-collected_at: 2026-04-17T12:18:52.241546+00:00
+acceptance_rate: "17.143%"
+collected_at: "2026-04-17T12:18:52.241546+00:00"
 ---
 
 ## 문제

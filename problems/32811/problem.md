@@ -1,13 +1,13 @@
 ---
-title: Letter Balloons
-special_judge: false
-time_limit: 1 초
-memory_limit: 2048 MB
+title: "Letter Balloons"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "2048 MB"
 submissions: 51
 accepted: 38
 solved_users: 34
-acceptance_rate: 73.913%
-collected_at: 2026-04-17T20:01:50.988163+00:00
+acceptance_rate: "73.913%"
+collected_at: "2026-04-17T20:01:50.988163+00:00"
 ---
 
 ## 문제

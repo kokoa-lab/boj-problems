@@ -1,13 +1,13 @@
 ---
-title: 사각형과 도형
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "사각형과 도형"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 54
 accepted: 17
 solved_users: 7
-acceptance_rate: 43.750%
-collected_at: 2026-04-17T10:40:13.266615+00:00
+acceptance_rate: "43.750%"
+collected_at: "2026-04-17T10:40:13.266615+00:00"
 ---
 
 ## 문제

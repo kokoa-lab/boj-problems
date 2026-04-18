@@ -1,13 +1,13 @@
 ---
-title: Long Long Strings
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Long Long Strings"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 116
 accepted: 34
 solved_users: 29
-acceptance_rate: 35.366%
-collected_at: 2026-04-17T13:51:23.175608+00:00
+acceptance_rate: "35.366%"
+collected_at: "2026-04-17T13:51:23.175608+00:00"
 ---
 
 ## 문제

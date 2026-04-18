@@ -1,13 +1,13 @@
 ---
-title: Penguin Bashing
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Penguin Bashing"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 31
 accepted: 15
 solved_users: 12
-acceptance_rate: 48.000%
-collected_at: 2026-04-17T11:13:35.417014+00:00
+acceptance_rate: "48.000%"
+collected_at: "2026-04-17T11:13:35.417014+00:00"
 ---
 
 ## 문제

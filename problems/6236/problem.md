@@ -1,13 +1,13 @@
 ---
-title: 용돈 관리
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "용돈 관리"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 27910
 accepted: 8891
 solved_users: 6194
-acceptance_rate: 30.446%
-collected_at: 2026-04-17T11:23:45.232740+00:00
+acceptance_rate: "30.446%"
+collected_at: "2026-04-17T11:23:45.232740+00:00"
 ---
 
 ## 문제

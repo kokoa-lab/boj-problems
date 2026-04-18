@@ -1,13 +1,13 @@
 ---
-title: Decoding Task
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "Decoding Task"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 153
 accepted: 76
 solved_users: 69
-acceptance_rate: 50.365%
-collected_at: 2026-04-17T11:49:11.830441+00:00
+acceptance_rate: "50.365%"
+collected_at: "2026-04-17T11:49:11.830441+00:00"
 ---
 
 ## 문제

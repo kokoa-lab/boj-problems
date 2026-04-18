@@ -1,13 +1,13 @@
 ---
-title: 수상자 수 결정하기
-special_judge: false
-time_limit: 4 초
-memory_limit: 2048 MB
+title: "수상자 수 결정하기"
+special_judge: "false"
+time_limit: "4 초"
+memory_limit: "2048 MB"
 submissions: 81
 accepted: 12
 solved_users: 11
-acceptance_rate: 18.966%
-collected_at: 2026-04-17T20:51:19.462332+00:00
+acceptance_rate: "18.966%"
+collected_at: "2026-04-17T20:51:19.462332+00:00"
 ---
 
 ## 문제

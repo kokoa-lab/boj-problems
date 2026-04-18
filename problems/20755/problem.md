@@ -1,13 +1,13 @@
 ---
-title: Fix the heap 32-bit
-special_judge: false
-time_limit: 13 초
-memory_limit: 256 MB
+title: "Fix the heap 32-bit"
+special_judge: "false"
+time_limit: "13 초"
+memory_limit: "256 MB"
 submissions: 31
 accepted: 6
 solved_users: 5
-acceptance_rate: 26.316%
-collected_at: 2026-04-17T15:40:59.174315+00:00
+acceptance_rate: "26.316%"
+collected_at: "2026-04-17T15:40:59.174315+00:00"
 ---
 
 ## 문제

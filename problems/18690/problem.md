@@ -1,13 +1,13 @@
 ---
-title: Football Hooliganism
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Football Hooliganism"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 16
 accepted: 7
 solved_users: 7
-acceptance_rate: 43.750%
-collected_at: 2026-04-17T15:08:26.512480+00:00
+acceptance_rate: "43.750%"
+collected_at: "2026-04-17T15:08:26.512480+00:00"
 ---
 
 ## 문제

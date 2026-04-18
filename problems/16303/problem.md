@@ -1,13 +1,13 @@
 ---
-title: KALLAX Construction
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "KALLAX Construction"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 120
 accepted: 34
 solved_users: 28
-acceptance_rate: 29.474%
-collected_at: 2026-04-17T14:15:17.664624+00:00
+acceptance_rate: "29.474%"
+collected_at: "2026-04-17T14:15:17.664624+00:00"
 ---
 
 ## 문제

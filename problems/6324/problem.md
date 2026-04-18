@@ -1,13 +1,13 @@
 ---
-title: URLs
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "URLs"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 2061
 accepted: 576
 solved_users: 404
-acceptance_rate: 27.614%
-collected_at: 2026-04-17T11:25:19.969084+00:00
+acceptance_rate: "27.614%"
+collected_at: "2026-04-17T11:25:19.969084+00:00"
 ---
 
 ## 문제

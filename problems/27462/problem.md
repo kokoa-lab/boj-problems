@@ -1,13 +1,13 @@
 ---
-title: Game With Numbers
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Game With Numbers"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 69
 accepted: 29
 solved_users: 19
-acceptance_rate: 35.849%
-collected_at: 2026-04-17T18:03:39.391741+00:00
+acceptance_rate: "35.849%"
+collected_at: "2026-04-17T18:03:39.391741+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 두 도로
-special_judge: false
-time_limit: 3 초 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "두 도로"
+special_judge: "false"
+time_limit: "3 초 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 673
 accepted: 165
 solved_users: 146
-acceptance_rate: 26.165%
-collected_at: 2026-04-17T17:40:33.236296+00:00
+acceptance_rate: "26.165%"
+collected_at: "2026-04-17T17:40:33.236296+00:00"
 ---
 
 ## 문제

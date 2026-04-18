@@ -1,13 +1,13 @@
 ---
-title: 최대 페이지 수
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "최대 페이지 수"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 3080
 accepted: 2001
 solved_users: 1641
-acceptance_rate: 65.483%
-collected_at: 2026-04-17T14:18:55.099586+00:00
+acceptance_rate: "65.483%"
+collected_at: "2026-04-17T14:18:55.099586+00:00"
 ---
 
 ## 문제

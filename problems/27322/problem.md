@@ -1,13 +1,13 @@
 ---
-title: 한별이의 퍼펙트 수열과 쿼리 교실
-special_judge: false
-time_limit: 6 초
-memory_limit: 1024 MB
+title: "한별이의 퍼펙트 수열과 쿼리 교실"
+special_judge: "false"
+time_limit: "6 초"
+memory_limit: "1024 MB"
 submissions: 262
 accepted: 49
 solved_users: 38
-acceptance_rate: 26.027%
-collected_at: 2026-04-17T18:00:49.638755+00:00
+acceptance_rate: "26.027%"
+collected_at: "2026-04-17T18:00:49.638755+00:00"
 ---
 
 ## 문제

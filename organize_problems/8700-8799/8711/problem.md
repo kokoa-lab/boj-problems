@@ -1,13 +1,13 @@
 ---
-title: Odchudzanie
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Odchudzanie"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 568
 accepted: 174
 solved_users: 120
-acceptance_rate: 27.972%
-collected_at: 2026-04-17T12:02:28.698440+00:00
+acceptance_rate: "27.972%"
+collected_at: "2026-04-17T12:02:28.698440+00:00"
 ---
 
 ## 문제

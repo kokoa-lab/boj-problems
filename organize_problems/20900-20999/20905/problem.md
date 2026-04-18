@@ -1,13 +1,13 @@
 ---
-title: Exhausting Errands
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "Exhausting Errands"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 23
 accepted: 9
 solved_users: 9
-acceptance_rate: 56.250%
-collected_at: 2026-04-17T15:43:08.061047+00:00
+acceptance_rate: "56.250%"
+collected_at: "2026-04-17T15:43:08.061047+00:00"
 ---
 
 ## 문제

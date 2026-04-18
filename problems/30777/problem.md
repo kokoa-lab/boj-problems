@@ -1,13 +1,13 @@
 ---
-title: DDR
-special_judge: true
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "DDR"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 10
 accepted: 9
 solved_users: 7
-acceptance_rate: 87.500%
-collected_at: 2026-04-17T19:15:13.235818+00:00
+acceptance_rate: "87.500%"
+collected_at: "2026-04-17T19:15:13.235818+00:00"
 ---
 
 ## 문제

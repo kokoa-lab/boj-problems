@@ -1,13 +1,13 @@
 ---
-title: 수학 숙제
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "수학 숙제"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 186
 accepted: 53
 solved_users: 42
-acceptance_rate: 36.842%
-collected_at: 2026-04-17T12:11:16.161163+00:00
+acceptance_rate: "36.842%"
+collected_at: "2026-04-17T12:11:16.161163+00:00"
 ---
 
 ## 문제

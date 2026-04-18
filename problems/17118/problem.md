@@ -1,13 +1,13 @@
 ---
-title: 갓 소수
-special_judge: false
-time_limit: -2 초
-memory_limit: 512 MB
+title: "갓 소수"
+special_judge: "false"
+time_limit: "-2 초"
+memory_limit: "512 MB"
 submissions: 952
 accepted: 123
 solved_users: 95
-acceptance_rate: 15.574%
-collected_at: 2026-04-17T14:30:13.707257+00:00
+acceptance_rate: "15.574%"
+collected_at: "2026-04-17T14:30:13.707257+00:00"
 ---
 
 ## 문제

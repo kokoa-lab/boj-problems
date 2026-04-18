@@ -1,13 +1,13 @@
 ---
-title: Nice Shape
-special_judge: false
-time_limit: 4 초
-memory_limit: 512 MB
+title: "Nice Shape"
+special_judge: "false"
+time_limit: "4 초"
+memory_limit: "512 MB"
 submissions: 5
 accepted: 1
 solved_users: 1
-acceptance_rate: 25.000%
-collected_at: 2026-04-17T16:55:57.083250+00:00
+acceptance_rate: "25.000%"
+collected_at: "2026-04-17T16:55:57.083250+00:00"
 ---
 
 ## 문제

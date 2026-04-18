@@ -1,13 +1,13 @@
 ---
-title: But when she jumps it gets faster
-special_judge: false
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "But when she jumps it gets faster"
+special_judge: "false"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 284
 accepted: 117
 solved_users: 97
-acceptance_rate: 41.102%
-collected_at: 2026-04-17T20:54:14.685966+00:00
+acceptance_rate: "41.102%"
+collected_at: "2026-04-17T20:54:14.685966+00:00"
 ---
 
 ## 문제

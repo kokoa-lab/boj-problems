@@ -1,13 +1,13 @@
 ---
-title: Where To Go?
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Where To Go?"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 66
 accepted: 46
 solved_users: 44
-acceptance_rate: 70.968%
-collected_at: 2026-04-17T13:24:03.257384+00:00
+acceptance_rate: "70.968%"
+collected_at: "2026-04-17T13:24:03.257384+00:00"
 ---
 
 ## 문제

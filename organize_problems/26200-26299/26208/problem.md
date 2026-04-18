@@ -1,13 +1,13 @@
 ---
-title: Helping the Transit
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Helping the Transit"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 24
 accepted: 17
 solved_users: 17
-acceptance_rate: 73.913%
-collected_at: 2026-04-17T17:41:51.130252+00:00
+acceptance_rate: "73.913%"
+collected_at: "2026-04-17T17:41:51.130252+00:00"
 ---
 
 ## 문제

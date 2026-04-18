@@ -1,13 +1,13 @@
 ---
-title: The Lightest Language
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "The Lightest Language"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 42
 accepted: 8
 solved_users: 6
-acceptance_rate: 31.579%
-collected_at: 2026-04-17T11:55:51.357843+00:00
+acceptance_rate: "31.579%"
+collected_at: "2026-04-17T11:55:51.357843+00:00"
 ---
 
 ## 문제

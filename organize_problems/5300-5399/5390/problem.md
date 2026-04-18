@@ -1,13 +1,13 @@
 ---
-title: Gene Shuffle
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Gene Shuffle"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 240
 accepted: 162
 solved_users: 58
-acceptance_rate: 72.500%
-collected_at: 2026-04-17T11:13:27.626139+00:00
+acceptance_rate: "72.500%"
+collected_at: "2026-04-17T11:13:27.626139+00:00"
 ---
 
 ## 문제

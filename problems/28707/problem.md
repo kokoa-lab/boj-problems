@@ -1,13 +1,13 @@
 ---
-title: 배열 정렬
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "배열 정렬"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 3623
 accepted: 1776
 solved_users: 1291
-acceptance_rate: 45.764%
-collected_at: 2026-04-17T18:31:07.882051+00:00
+acceptance_rate: "45.764%"
+collected_at: "2026-04-17T18:31:07.882051+00:00"
 ---
 
 ## 문제

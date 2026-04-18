@@ -1,13 +1,13 @@
 ---
-title: 무한 수열
-special_judge: false
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "무한 수열"
+special_judge: "false"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 378
 accepted: 63
 solved_users: 42
-acceptance_rate: 23.204%
-collected_at: 2026-04-17T18:24:16.065551+00:00
+acceptance_rate: "23.204%"
+collected_at: "2026-04-17T18:24:16.065551+00:00"
 ---
 
 ## 문제

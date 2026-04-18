@@ -1,13 +1,13 @@
 ---
-title: HIPERPROSTOR
-special_judge: false
-time_limit: 5 초
-memory_limit: 64 MB
+title: "HIPERPROSTOR"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "64 MB"
 submissions: 100
 accepted: 28
 solved_users: 19
-acceptance_rate: 29.688%
-collected_at: 2026-04-17T11:17:39.343066+00:00
+acceptance_rate: "29.688%"
+collected_at: "2026-04-17T11:17:39.343066+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Clearing Space
-special_judge: true
-time_limit: 3 초
-memory_limit: 1024 MB
+title: "Clearing Space"
+special_judge: "true"
+time_limit: "3 초"
+memory_limit: "1024 MB"
 submissions: 105
 accepted: 31
 solved_users: 18
-acceptance_rate: 22.222%
-collected_at: 2026-04-17T19:09:30.599545+00:00
+acceptance_rate: "22.222%"
+collected_at: "2026-04-17T19:09:30.599545+00:00"
 ---
 
 ## 문제

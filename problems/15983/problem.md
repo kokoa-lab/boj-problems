@@ -1,13 +1,13 @@
 ---
-title: 순간이동 발판
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "순간이동 발판"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 167
 accepted: 44
 solved_users: 39
-acceptance_rate: 27.465%
-collected_at: 2026-04-17T14:09:33.235507+00:00
+acceptance_rate: "27.465%"
+collected_at: "2026-04-17T14:09:33.235507+00:00"
 ---
 
 ## 문제

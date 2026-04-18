@@ -1,13 +1,13 @@
 ---
-title: 베라의 패션
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "베라의 패션"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 23352
 accepted: 20035
 solved_users: 18966
-acceptance_rate: 86.264%
-collected_at: 2026-04-17T13:59:23.558372+00:00
+acceptance_rate: "86.264%"
+collected_at: "2026-04-17T13:59:23.558372+00:00"
 ---
 
 ## 문제

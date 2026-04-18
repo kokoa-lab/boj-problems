@@ -1,13 +1,13 @@
 ---
-title: 소음
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "소음"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 26564
 accepted: 15287
 solved_users: 14341
-acceptance_rate: 61.276%
-collected_at: 2026-04-17T10:45:47.169210+00:00
+acceptance_rate: "61.276%"
+collected_at: "2026-04-17T10:45:47.169210+00:00"
 ---
 
 ## 문제

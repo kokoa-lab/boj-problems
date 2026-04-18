@@ -1,13 +1,13 @@
 ---
-title: 수학 선생님의 고민(Hard)
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "수학 선생님의 고민(Hard)"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 587
 accepted: 308
 solved_users: 268
-acceptance_rate: 53.707%
-collected_at: 2026-04-17T18:20:52.395374+00:00
+acceptance_rate: "53.707%"
+collected_at: "2026-04-17T18:20:52.395374+00:00"
 ---
 
 ## 문제

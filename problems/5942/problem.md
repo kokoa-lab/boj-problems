@@ -1,13 +1,13 @@
 ---
-title: Big Macs Around the World
-special_judge: true
-time_limit: 2 초
-memory_limit: 128 MB
+title: "Big Macs Around the World"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 196
 accepted: 73
 solved_users: 40
-acceptance_rate: 27.972%
-collected_at: 2026-04-17T11:18:44.316006+00:00
+acceptance_rate: "27.972%"
+collected_at: "2026-04-17T11:18:44.316006+00:00"
 ---
 
 ## 문제

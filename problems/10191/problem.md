@@ -1,13 +1,13 @@
 ---
-title: Clean Up
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Clean Up"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 66
 accepted: 55
 solved_users: 46
-acceptance_rate: 82.143%
-collected_at: 2026-04-17T12:20:13.858232+00:00
+acceptance_rate: "82.143%"
+collected_at: "2026-04-17T12:20:13.858232+00:00"
 ---
 
 ## 문제

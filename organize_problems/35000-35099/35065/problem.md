@@ -1,13 +1,13 @@
 ---
-title: 움직이지 않고 여행하는 법
-special_judge: false
-time_limit: 3 초
-memory_limit: 1024 MB
+title: "움직이지 않고 여행하는 법"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "1024 MB"
 submissions: 119
 accepted: 60
 solved_users: 53
-acceptance_rate: 54.082%
-collected_at: 2026-04-17T20:55:00.398498+00:00
+acceptance_rate: "54.082%"
+collected_at: "2026-04-17T20:55:00.398498+00:00"
 ---
 
 ## 문제

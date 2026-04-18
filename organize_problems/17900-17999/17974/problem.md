@@ -1,13 +1,13 @@
 ---
-title: Same Color
-special_judge: false
-time_limit: 0.5 초
-memory_limit: 512 MB
+title: "Same Color"
+special_judge: "false"
+time_limit: "0.5 초"
+memory_limit: "512 MB"
 submissions: 412
 accepted: 118
 solved_users: 95
-acceptance_rate: 28.358%
-collected_at: 2026-04-17T14:51:17.122217+00:00
+acceptance_rate: "28.358%"
+collected_at: "2026-04-17T14:51:17.122217+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Split The GSHS 4
-special_judge: false
-time_limit: 1 초
-memory_limit: 2048 MB
+title: "Split The GSHS 4"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "2048 MB"
 submissions: 155
 accepted: 76
 solved_users: 63
-acceptance_rate: 50.400%
-collected_at: 2026-04-17T20:24:02.463261+00:00
+acceptance_rate: "50.400%"
+collected_at: "2026-04-17T20:24:02.463261+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Square Annulus
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Square Annulus"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 212
 accepted: 86
 solved_users: 33
-acceptance_rate: 24.812%
-collected_at: 2026-04-17T12:04:41.751112+00:00
+acceptance_rate: "24.812%"
+collected_at: "2026-04-17T12:04:41.751112+00:00"
 ---
 
 ## 문제

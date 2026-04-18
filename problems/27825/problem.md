@@ -1,13 +1,13 @@
 ---
-title: Goose, Goose, Ducks?
-special_judge: false
-time_limit: 서브태스크 참고 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Goose, Goose, Ducks?"
+special_judge: "false"
+time_limit: "서브태스크 참고 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 8
 accepted: 2
 solved_users: 2
-acceptance_rate: 100.000%
-collected_at: 2026-04-17T18:12:06.113507+00:00
+acceptance_rate: "100.000%"
+collected_at: "2026-04-17T18:12:06.113507+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Social Dancers
-special_judge: true
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Social Dancers"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 117
 accepted: 41
 solved_users: 26
-acceptance_rate: 29.885%
-collected_at: 2026-04-17T15:38:07.197081+00:00
+acceptance_rate: "29.885%"
+collected_at: "2026-04-17T15:38:07.197081+00:00"
 ---
 
 ## 문제

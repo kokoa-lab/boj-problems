@@ -1,13 +1,13 @@
 ---
-title: 더치 페이
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "더치 페이"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 524
 accepted: 318
 solved_users: 239
-acceptance_rate: 64.946%
-collected_at: 2026-04-17T20:00:49.060734+00:00
+acceptance_rate: "64.946%"
+collected_at: "2026-04-17T20:00:49.060734+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: SCSC 문자열 놀이
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "SCSC 문자열 놀이"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 137
 accepted: 28
 solved_users: 25
-acceptance_rate: 23.585%
-collected_at: 2026-04-17T20:27:36.069941+00:00
+acceptance_rate: "23.585%"
+collected_at: "2026-04-17T20:27:36.069941+00:00"
 ---
 
 ## 문제

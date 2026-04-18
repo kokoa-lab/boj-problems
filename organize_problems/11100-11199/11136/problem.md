@@ -1,13 +1,13 @@
 ---
-title: The Diligent Cryptographer
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "The Diligent Cryptographer"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 44
 accepted: 26
 solved_users: 23
-acceptance_rate: 74.194%
-collected_at: 2026-04-17T12:37:05.404358+00:00
+acceptance_rate: "74.194%"
+collected_at: "2026-04-17T12:37:05.404358+00:00"
 ---
 
 ## 문제

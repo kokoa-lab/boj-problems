@@ -1,13 +1,13 @@
 ---
-title: Индекс примечательности
-special_judge: false
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "Индекс примечательности"
+special_judge: "false"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 50
 accepted: 17
 solved_users: 12
-acceptance_rate: 38.710%
-collected_at: 2026-04-17T17:12:28.092316+00:00
+acceptance_rate: "38.710%"
+collected_at: "2026-04-17T17:12:28.092316+00:00"
 ---
 
 ## 문제

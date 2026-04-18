@@ -1,13 +1,13 @@
 ---
-title: Kosminė asamblėja
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Kosminė asamblėja"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 23
 accepted: 17
 solved_users: 15
-acceptance_rate: 78.947%
-collected_at: 2026-04-17T11:47:15.281185+00:00
+acceptance_rate: "78.947%"
+collected_at: "2026-04-17T11:47:15.281185+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 마법사 상어와 토네이도
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "마법사 상어와 토네이도"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 14255
 accepted: 9884
 solved_users: 6716
-acceptance_rate: 70.046%
-collected_at: 2026-04-17T15:31:02.826704+00:00
+acceptance_rate: "70.046%"
+collected_at: "2026-04-17T15:31:02.826704+00:00"
 ---
 
 ## 문제

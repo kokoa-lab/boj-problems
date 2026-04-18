@@ -1,13 +1,13 @@
 ---
-title: Balancing a Tree
-special_judge: true
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Balancing a Tree"
+special_judge: "true"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 132
 accepted: 54
 solved_users: 47
-acceptance_rate: 48.958%
-collected_at: 2026-04-17T17:17:57.613854+00:00
+acceptance_rate: "48.958%"
+collected_at: "2026-04-17T17:17:57.613854+00:00"
 ---
 
 ## 문제

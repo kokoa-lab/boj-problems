@@ -1,13 +1,13 @@
 ---
-title: Bracelets
-special_judge: false
-time_limit: 30 초
-memory_limit: 256 MB
+title: "Bracelets"
+special_judge: "false"
+time_limit: "30 초"
+memory_limit: "256 MB"
 submissions: 193
 accepted: 79
 solved_users: 58
-acceptance_rate: 37.179%
-collected_at: 2026-04-17T11:01:56.799636+00:00
+acceptance_rate: "37.179%"
+collected_at: "2026-04-17T11:01:56.799636+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Monety
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Monety"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 709
 accepted: 576
 solved_users: 503
-acceptance_rate: 83.140%
-collected_at: 2026-04-17T12:02:34.858860+00:00
+acceptance_rate: "83.140%"
+collected_at: "2026-04-17T12:02:34.858860+00:00"
 ---
 
 ## 문제

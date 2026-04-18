@@ -1,13 +1,13 @@
 ---
-title: BOJ 소풍
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "BOJ 소풍"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 249
 accepted: 59
 solved_users: 53
-acceptance_rate: 36.054%
-collected_at: 2026-04-17T10:28:27.065956+00:00
+acceptance_rate: "36.054%"
+collected_at: "2026-04-17T10:28:27.065956+00:00"
 ---
 
 ## 문제

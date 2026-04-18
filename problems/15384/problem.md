@@ -1,13 +1,13 @@
 ---
-title: Disco Dance Debacle
-special_judge: false
-time_limit: 5 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "Disco Dance Debacle"
+special_judge: "false"
+time_limit: "5 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 8
 accepted: 3
 solved_users: 3
-acceptance_rate: 100.000%
-collected_at: 2026-04-17T13:58:20.039265+00:00
+acceptance_rate: "100.000%"
+collected_at: "2026-04-17T13:58:20.039265+00:00"
 ---
 
 ## 문제

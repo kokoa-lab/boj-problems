@@ -1,13 +1,13 @@
 ---
-title: Count Vowels
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Count Vowels"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 759
 accepted: 620
 solved_users: 548
-acceptance_rate: 81.791%
-collected_at: 2026-04-17T12:20:22.415493+00:00
+acceptance_rate: "81.791%"
+collected_at: "2026-04-17T12:20:22.415493+00:00"
 ---
 
 ## 문제

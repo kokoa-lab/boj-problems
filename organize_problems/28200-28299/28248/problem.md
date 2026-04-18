@@ -1,13 +1,13 @@
 ---
-title: Deliv-e-droid
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Deliv-e-droid"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 1313
 accepted: 1111
 solved_users: 1066
-acceptance_rate: 85.417%
-collected_at: 2026-04-17T18:20:58.194780+00:00
+acceptance_rate: "85.417%"
+collected_at: "2026-04-17T18:20:58.194780+00:00"
 ---
 
 ## 문제

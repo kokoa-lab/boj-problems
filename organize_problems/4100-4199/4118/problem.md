@@ -1,13 +1,13 @@
 ---
-title: Fred’s Lotto Tickets
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Fred’s Lotto Tickets"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 515
 accepted: 419
 solved_users: 363
-acceptance_rate: 81.573%
-collected_at: 2026-04-17T10:56:03.426040+00:00
+acceptance_rate: "81.573%"
+collected_at: "2026-04-17T10:56:03.426040+00:00"
 ---
 
 ## 문제

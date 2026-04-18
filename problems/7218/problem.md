@@ -1,13 +1,13 @@
 ---
-title: Pasislėpę romėniški skaičiai
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Pasislėpę romėniški skaičiai"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 302
 accepted: 242
 solved_users: 212
-acceptance_rate: 80.608%
-collected_at: 2026-04-17T11:47:19.827807+00:00
+acceptance_rate: "80.608%"
+collected_at: "2026-04-17T11:47:19.827807+00:00"
 ---
 
 ## 문제

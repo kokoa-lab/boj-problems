@@ -1,13 +1,13 @@
 ---
-title: F7
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "F7"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 2591
 accepted: 874
 solved_users: 720
-acceptance_rate: 35.732%
-collected_at: 2026-04-17T10:44:51.266629+00:00
+acceptance_rate: "35.732%"
+collected_at: "2026-04-17T10:44:51.266629+00:00"
 ---
 
 ## 문제

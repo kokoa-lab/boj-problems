@@ -1,13 +1,13 @@
 ---
-title: Police Stations
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Police Stations"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 128
 accepted: 111
 solved_users: 88
-acceptance_rate: 88.889%
-collected_at: 2026-04-17T15:40:09.632387+00:00
+acceptance_rate: "88.889%"
+collected_at: "2026-04-17T15:40:09.632387+00:00"
 ---
 
 ## 문제

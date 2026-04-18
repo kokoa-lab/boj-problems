@@ -1,13 +1,13 @@
 ---
-title: 점프 숨바꼭질
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "점프 숨바꼭질"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 1380
 accepted: 373
 solved_users: 301
-acceptance_rate: 31.551%
-collected_at: 2026-04-17T16:39:37.264705+00:00
+acceptance_rate: "31.551%"
+collected_at: "2026-04-17T16:39:37.264705+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 정렬
-special_judge: true
-time_limit: 0.5 초
-memory_limit: 256 MB
+title: "정렬"
+special_judge: "true"
+time_limit: "0.5 초"
+memory_limit: "256 MB"
 submissions: 206
 accepted: 116
 solved_users: 96
-acceptance_rate: 69.065%
-collected_at: 2026-04-17T14:39:11.135587+00:00
+acceptance_rate: "69.065%"
+collected_at: "2026-04-17T14:39:11.135587+00:00"
 ---
 
 ## 문제
@@ -16,7 +16,18 @@ collected_at: 2026-04-17T14:39:11.135587+00:00
 
 |  |  |
 | --- | --- |
-| ```  input: n, a[1 .. n] cnt = 0 for j = 2 to n:   x = a[j]   i = j - 1   while i >= 1 and a[i] > x:     cnt = cnt + 1     a[i+1] = a[i]     i = i-1   a[i+1] = x ``` || 의사코드 |
+| ``` 
+ input: n, a[1 .. n]
+ cnt = 0
+ for j = 2 to n:
+   x = a[j]
+   i = j - 1
+   while i >= 1 and a[i] > x:
+     cnt = cnt + 1
+     a[i+1] = a[i]
+     i = i-1
+   a[i+1] = x
+ ``` || 의사코드 |
 
 길이가 N인 순열을 정렬하는 경우 cnt는 항상 0 이상 N×(N-1)/2 이하이다. 두 정수 N과 M이 주어졌을 때, 위의 코드를 이용해 정렬이 완료된 후의 cnt의 값이 M이 되는 길이가 N인 순열을 찾아보자.
 

@@ -1,13 +1,13 @@
 ---
-title: Stock Market
-special_judge: false
-time_limit: 1 초
-memory_limit: 2048 MB
+title: "Stock Market"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "2048 MB"
 submissions: 56
 accepted: 17
 solved_users: 14
-acceptance_rate: 26.923%
-collected_at: 2026-04-17T20:09:04.299999+00:00
+acceptance_rate: "26.923%"
+collected_at: "2026-04-17T20:09:04.299999+00:00"
 ---
 
 ## 문제

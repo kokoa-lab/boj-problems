@@ -1,13 +1,13 @@
 ---
-title: Eli's Curious Mind
-special_judge: false
-time_limit: 3 초
-memory_limit: 512 MB
+title: "Eli's Curious Mind"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "512 MB"
 submissions: 83
 accepted: 57
 solved_users: 52
-acceptance_rate: 71.233%
-collected_at: 2026-04-17T14:07:24.112172+00:00
+acceptance_rate: "71.233%"
+collected_at: "2026-04-17T14:07:24.112172+00:00"
 ---
 
 ## 문제

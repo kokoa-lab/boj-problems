@@ -1,13 +1,13 @@
 ---
-title: 생일 멘션이 너무 많아
-special_judge: false
-time_limit: 2.8 초
-memory_limit: 329 MB
+title: "생일 멘션이 너무 많아"
+special_judge: "false"
+time_limit: "2.8 초"
+memory_limit: "329 MB"
 submissions: 383
 accepted: 117
 solved_users: 81
-acceptance_rate: 32.794%
-collected_at: 2026-04-17T20:21:10.683769+00:00
+acceptance_rate: "32.794%"
+collected_at: "2026-04-17T20:21:10.683769+00:00"
 ---
 
 ## 문제

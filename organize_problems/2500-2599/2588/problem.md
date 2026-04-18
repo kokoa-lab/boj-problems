@@ -1,13 +1,13 @@
 ---
-title: 곱셈
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "곱셈"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 515885
 accepted: 240670
 solved_users: 198817
-acceptance_rate: 46.472%
-collected_at: 2026-04-17T10:43:04.423450+00:00
+acceptance_rate: "46.472%"
+collected_at: "2026-04-17T10:43:04.423450+00:00"
 ---
 
 ## 문제

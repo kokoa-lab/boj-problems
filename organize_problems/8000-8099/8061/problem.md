@@ -1,13 +1,13 @@
 ---
-title: Bitmap
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Bitmap"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 776
 accepted: 393
 solved_users: 315
-acceptance_rate: 51.220%
-collected_at: 2026-04-17T11:55:37.488033+00:00
+acceptance_rate: "51.220%"
+collected_at: "2026-04-17T11:55:37.488033+00:00"
 ---
 
 ## 문제

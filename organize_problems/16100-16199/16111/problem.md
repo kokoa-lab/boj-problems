@@ -1,13 +1,13 @@
 ---
-title: Last Casino
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Last Casino"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 21
 accepted: 3
 solved_users: 3
-acceptance_rate: 33.333%
-collected_at: 2026-04-17T14:11:35.043051+00:00
+acceptance_rate: "33.333%"
+collected_at: "2026-04-17T14:11:35.043051+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 별자리가 될 수 있다면
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "별자리가 될 수 있다면"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 1365
 accepted: 1002
 solved_users: 907
-acceptance_rate: 74.959%
-collected_at: 2026-04-17T19:16:14.131020+00:00
+acceptance_rate: "74.959%"
+collected_at: "2026-04-17T19:16:14.131020+00:00"
 ---
 
 ## 문제

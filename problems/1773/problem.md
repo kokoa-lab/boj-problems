@@ -1,13 +1,13 @@
 ---
-title: 폭죽쇼
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "폭죽쇼"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 10503
 accepted: 4762
 solved_users: 3582
-acceptance_rate: 45.509%
-collected_at: 2026-04-17T10:33:24.793261+00:00
+acceptance_rate: "45.509%"
+collected_at: "2026-04-17T10:33:24.793261+00:00"
 ---
 
 ## 문제

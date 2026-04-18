@@ -1,13 +1,13 @@
 ---
-title: 트리 만들기
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "트리 만들기"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 346
 accepted: 51
 solved_users: 40
-acceptance_rate: 33.333%
-collected_at: 2026-04-17T10:40:01.350681+00:00
+acceptance_rate: "33.333%"
+collected_at: "2026-04-17T10:40:01.350681+00:00"
 ---
 
 ## 문제

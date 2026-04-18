@@ -1,13 +1,13 @@
 ---
-title: Balancing the Barns
-special_judge: false
-time_limit: 2 초
-memory_limit: 2048 MB
+title: "Balancing the Barns"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "2048 MB"
 submissions: 39
 accepted: 7
 solved_users: 7
-acceptance_rate: 17.949%
-collected_at: 2026-04-17T21:00:24.124846+00:00
+acceptance_rate: "17.949%"
+collected_at: "2026-04-17T21:00:24.124846+00:00"
 ---
 
 ## 문제

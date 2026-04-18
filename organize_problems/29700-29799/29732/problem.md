@@ -1,13 +1,13 @@
 ---
-title: Rick-Roll Virus
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Rick-Roll Virus"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 687
 accepted: 347
 solved_users: 292
-acceptance_rate: 48.505%
-collected_at: 2026-04-17T18:51:42.791860+00:00
+acceptance_rate: "48.505%"
+collected_at: "2026-04-17T18:51:42.791860+00:00"
 ---
 
 ## 문제

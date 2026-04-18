@@ -1,13 +1,13 @@
 ---
-title: 격자점 컨벡스헐
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "격자점 컨벡스헐"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 1907
 accepted: 1043
 solved_users: 815
-acceptance_rate: 57.516%
-collected_at: 2026-04-17T10:44:04.129737+00:00
+acceptance_rate: "57.516%"
+collected_at: "2026-04-17T10:44:04.129737+00:00"
 ---
 
 ## 문제

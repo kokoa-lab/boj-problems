@@ -1,13 +1,13 @@
 ---
-title: And Then, How Many Are There?
-special_judge: false
-time_limit: 5 초
-memory_limit: 128 MB
+title: "And Then, How Many Are There?"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "128 MB"
 submissions: 50
 accepted: 24
 solved_users: 10
-acceptance_rate: 34.483%
-collected_at: 2026-04-17T11:10:19.047812+00:00
+acceptance_rate: "34.483%"
+collected_at: "2026-04-17T11:10:19.047812+00:00"
 ---
 
 ## 문제

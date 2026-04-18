@@ -1,13 +1,13 @@
 ---
-title: 3인통화
-special_judge: true
-time_limit: 2 초
-memory_limit: 128 MB
+title: "3인통화"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 913
 accepted: 410
 solved_users: 288
-acceptance_rate: 42.229%
-collected_at: 2026-04-17T10:41:19.364074+00:00
+acceptance_rate: "42.229%"
+collected_at: "2026-04-17T10:41:19.364074+00:00"
 ---
 
 ## 문제

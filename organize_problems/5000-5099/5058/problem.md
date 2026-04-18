@@ -1,13 +1,13 @@
 ---
-title: Nested Dolls
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Nested Dolls"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 346
 accepted: 100
 solved_users: 72
-acceptance_rate: 26.866%
-collected_at: 2026-04-17T11:11:12.208905+00:00
+acceptance_rate: "26.866%"
+collected_at: "2026-04-17T11:11:12.208905+00:00"
 ---
 
 ## 문제

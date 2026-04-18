@@ -1,13 +1,13 @@
 ---
-title: Letter Cookies
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Letter Cookies"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 1294
 accepted: 622
 solved_users: 536
-acceptance_rate: 47.986%
-collected_at: 2026-04-17T12:36:46.511601+00:00
+acceptance_rate: "47.986%"
+collected_at: "2026-04-17T12:36:46.511601+00:00"
 ---
 
 ## 문제

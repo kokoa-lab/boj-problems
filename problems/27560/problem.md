@@ -1,13 +1,13 @@
 ---
-title: Moo Route
-special_judge: true
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Moo Route"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 347
 accepted: 169
 solved_users: 145
-acceptance_rate: 53.506%
-collected_at: 2026-04-17T18:06:29.883740+00:00
+acceptance_rate: "53.506%"
+collected_at: "2026-04-17T18:06:29.883740+00:00"
 ---
 
 ## 문제

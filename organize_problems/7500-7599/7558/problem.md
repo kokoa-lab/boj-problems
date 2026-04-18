@@ -1,13 +1,13 @@
 ---
-title: 제곱잉여
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "제곱잉여"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 231
 accepted: 84
 solved_users: 69
-acceptance_rate: 38.333%
-collected_at: 2026-04-17T11:50:37.466205+00:00
+acceptance_rate: "38.333%"
+collected_at: "2026-04-17T11:50:37.466205+00:00"
 ---
 
 ## 문제

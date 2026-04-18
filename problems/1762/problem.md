@@ -1,13 +1,13 @@
 ---
-title: 평면그래프와 삼각형
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "평면그래프와 삼각형"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 1334
 accepted: 498
 solved_users: 234
-acceptance_rate: 35.135%
-collected_at: 2026-04-17T10:33:16.845839+00:00
+acceptance_rate: "35.135%"
+collected_at: "2026-04-17T10:33:16.845839+00:00"
 ---
 
 ## 문제

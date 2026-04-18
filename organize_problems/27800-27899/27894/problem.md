@@ -1,13 +1,13 @@
 ---
-title: 특별한 숙제 순서 바꾸기
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "특별한 숙제 순서 바꾸기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 339
 accepted: 147
 solved_users: 114
-acceptance_rate: 40.569%
-collected_at: 2026-04-17T18:13:59.319504+00:00
+acceptance_rate: "40.569%"
+collected_at: "2026-04-17T18:13:59.319504+00:00"
 ---
 
 ## 문제

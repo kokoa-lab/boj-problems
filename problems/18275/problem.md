@@ -1,13 +1,13 @@
 ---
-title: Sob
-special_judge: true
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Sob"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 73
 accepted: 39
 solved_users: 39
-acceptance_rate: 63.934%
-collected_at: 2026-04-17T14:58:26.203741+00:00
+acceptance_rate: "63.934%"
+collected_at: "2026-04-17T14:58:26.203741+00:00"
 ---
 
 ## 문제

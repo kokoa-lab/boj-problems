@@ -1,13 +1,13 @@
 ---
-title: Прибытие Таноса
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Прибытие Таноса"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 59
 accepted: 20
 solved_users: 14
-acceptance_rate: 31.111%
-collected_at: 2026-04-17T18:34:41.882645+00:00
+acceptance_rate: "31.111%"
+collected_at: "2026-04-17T18:34:41.882645+00:00"
 ---
 
 ## 문제

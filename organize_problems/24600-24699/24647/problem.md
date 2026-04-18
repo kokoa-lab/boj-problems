@@ -1,13 +1,13 @@
 ---
-title: Journey in Fog
-special_judge: true
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "Journey in Fog"
+special_judge: "true"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 34
 accepted: 10
 solved_users: 8
-acceptance_rate: 40.000%
-collected_at: 2026-04-17T17:12:36.704932+00:00
+acceptance_rate: "40.000%"
+collected_at: "2026-04-17T17:12:36.704932+00:00"
 ---
 
 ## 문제

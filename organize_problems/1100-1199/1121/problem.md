@@ -1,13 +1,13 @@
 ---
-title: 도형
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "도형"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 901
 accepted: 228
 solved_users: 150
-acceptance_rate: 26.690%
-collected_at: 2026-04-17T10:28:19.380760+00:00
+acceptance_rate: "26.690%"
+collected_at: "2026-04-17T10:28:19.380760+00:00"
 ---
 
 ## 문제

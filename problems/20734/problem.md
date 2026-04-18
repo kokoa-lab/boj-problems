@@ -1,13 +1,13 @@
 ---
-title: Winning the Vote
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Winning the Vote"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 1
 accepted: 0
 solved_users: 0
-acceptance_rate: 0.000%
-collected_at: 2026-04-17T15:40:43.604021+00:00
+acceptance_rate: "0.000%"
+collected_at: "2026-04-17T15:40:43.604021+00:00"
 ---
 
 ## 문제

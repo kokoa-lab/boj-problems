@@ -1,13 +1,13 @@
 ---
-title: Die
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Die"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 384
 accepted: 203
 solved_users: 160
-acceptance_rate: 53.691%
-collected_at: 2026-04-17T14:15:57.330328+00:00
+acceptance_rate: "53.691%"
+collected_at: "2026-04-17T14:15:57.330328+00:00"
 ---
 
 ## 문제

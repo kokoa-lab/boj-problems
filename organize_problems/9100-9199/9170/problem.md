@@ -1,13 +1,13 @@
 ---
-title: Single Digit Adder
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Single Digit Adder"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 177
 accepted: 98
 solved_users: 77
-acceptance_rate: 61.111%
-collected_at: 2026-04-17T12:07:43.652605+00:00
+acceptance_rate: "61.111%"
+collected_at: "2026-04-17T12:07:43.652605+00:00"
 ---
 
 ## 문제

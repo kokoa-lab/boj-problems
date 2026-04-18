@@ -1,13 +1,13 @@
 ---
-title: Tournament Wins
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Tournament Wins"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 60
 accepted: 43
 solved_users: 37
-acceptance_rate: 69.811%
-collected_at: 2026-04-17T13:23:28.494466+00:00
+acceptance_rate: "69.811%"
+collected_at: "2026-04-17T13:23:28.494466+00:00"
 ---
 
 ## 문제

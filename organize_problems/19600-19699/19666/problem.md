@@ -1,13 +1,13 @@
 ---
-title: Cryptography
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Cryptography"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 45
 accepted: 36
 solved_users: 34
-acceptance_rate: 79.070%
-collected_at: 2026-04-17T15:26:16.283732+00:00
+acceptance_rate: "79.070%"
+collected_at: "2026-04-17T15:26:16.283732+00:00"
 ---
 
 ## 문제

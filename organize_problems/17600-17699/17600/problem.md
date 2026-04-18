@@ -1,13 +1,13 @@
 ---
-title: Change Making
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Change Making"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 124
 accepted: 103
 solved_users: 80
-acceptance_rate: 86.957%
-collected_at: 2026-04-17T14:42:29.285087+00:00
+acceptance_rate: "86.957%"
+collected_at: "2026-04-17T14:42:29.285087+00:00"
 ---
 
 ## 문제

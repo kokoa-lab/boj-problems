@@ -1,13 +1,13 @@
 ---
-title: Polyline Simplification
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Polyline Simplification"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 65
 accepted: 19
 solved_users: 19
-acceptance_rate: 31.667%
-collected_at: 2026-04-17T13:56:17.025096+00:00
+acceptance_rate: "31.667%"
+collected_at: "2026-04-17T13:56:17.025096+00:00"
 ---
 
 ## 문제

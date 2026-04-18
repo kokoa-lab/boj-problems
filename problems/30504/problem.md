@@ -1,13 +1,13 @@
 ---
-title: 세과영엔 슬픈 전설이 있어
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "세과영엔 슬픈 전설이 있어"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 702
 accepted: 277
 solved_users: 235
-acceptance_rate: 41.519%
-collected_at: 2026-04-17T19:08:07.543951+00:00
+acceptance_rate: "41.519%"
+collected_at: "2026-04-17T19:08:07.543951+00:00"
 ---
 
 ## 문제

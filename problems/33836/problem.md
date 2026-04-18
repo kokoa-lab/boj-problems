@@ -1,13 +1,13 @@
 ---
-title: 벌집우주와 쿼리
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "벌집우주와 쿼리"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 602
 accepted: 249
 solved_users: 150
-acceptance_rate: 36.145%
-collected_at: 2026-04-17T20:24:34.316890+00:00
+acceptance_rate: "36.145%"
+collected_at: "2026-04-17T20:24:34.316890+00:00"
 ---
 
 ## 문제

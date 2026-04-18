@@ -1,13 +1,13 @@
 ---
-title: 그레이 코드
-special_judge: true
-time_limit: 1 초
-memory_limit: 128 MB
+title: "그레이 코드"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 376
 accepted: 126
 solved_users: 32
-acceptance_rate: 19.632%
-collected_at: 2026-04-17T10:42:03.011816+00:00
+acceptance_rate: "19.632%"
+collected_at: "2026-04-17T10:42:03.011816+00:00"
 ---
 
 ## 문제

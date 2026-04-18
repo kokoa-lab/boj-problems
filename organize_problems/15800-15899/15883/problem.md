@@ -1,13 +1,13 @@
 ---
-title: First In Last Out
-special_judge: false
-time_limit: 1 초
-memory_limit: 32 MB
+title: "First In Last Out"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "32 MB"
 submissions: 474
 accepted: 188
 solved_users: 125
-acceptance_rate: 36.127%
-collected_at: 2026-04-17T14:08:07.686406+00:00
+acceptance_rate: "36.127%"
+collected_at: "2026-04-17T14:08:07.686406+00:00"
 ---
 
 ## 문제

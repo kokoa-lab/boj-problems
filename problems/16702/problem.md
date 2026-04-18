@@ -1,13 +1,13 @@
 ---
-title: The Silence of the Lamps
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "The Silence of the Lamps"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 207
 accepted: 107
 solved_users: 91
-acceptance_rate: 51.412%
-collected_at: 2026-04-17T14:22:42.942960+00:00
+acceptance_rate: "51.412%"
+collected_at: "2026-04-17T14:22:42.942960+00:00"
 ---
 
 ## 문제

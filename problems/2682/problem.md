@@ -1,13 +1,13 @@
 ---
-title: 최대 사이클 1
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "최대 사이클 1"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 182
 accepted: 112
 solved_users: 97
-acceptance_rate: 61.392%
-collected_at: 2026-04-17T10:43:54.303944+00:00
+acceptance_rate: "61.392%"
+collected_at: "2026-04-17T10:43:54.303944+00:00"
 ---
 
 ## 문제

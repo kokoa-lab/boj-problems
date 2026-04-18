@@ -1,13 +1,13 @@
 ---
-title: Range Reconstruction
-special_judge: true
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Range Reconstruction"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 301
 accepted: 163
 solved_users: 135
-acceptance_rate: 53.150%
-collected_at: 2026-04-17T17:54:13.020651+00:00
+acceptance_rate: "53.150%"
+collected_at: "2026-04-17T17:54:13.020651+00:00"
 ---
 
 ## 문제

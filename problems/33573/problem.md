@@ -1,13 +1,13 @@
 ---
-title: 대칭제곱수
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "대칭제곱수"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 771
 accepted: 379
 solved_users: 335
-acceptance_rate: 49.925%
-collected_at: 2026-04-17T20:19:16.763790+00:00
+acceptance_rate: "49.925%"
+collected_at: "2026-04-17T20:19:16.763790+00:00"
 ---
 
 ## 문제

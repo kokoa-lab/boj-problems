@@ -1,13 +1,13 @@
 ---
-title: Frequent Flier
-special_judge: false
-time_limit: 2 초
-memory_limit: 2048 MB
+title: "Frequent Flier"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "2048 MB"
 submissions: 104
 accepted: 56
 solved_users: 52
-acceptance_rate: 56.522%
-collected_at: 2026-04-17T18:18:55.075261+00:00
+acceptance_rate: "56.522%"
+collected_at: "2026-04-17T18:18:55.075261+00:00"
 ---
 
 ## 문제

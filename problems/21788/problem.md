@@ -1,13 +1,13 @@
 ---
-title: Road Construction
-special_judge: false
-time_limit: 10 초
-memory_limit: 2048 MB
+title: "Road Construction"
+special_judge: "false"
+time_limit: "10 초"
+memory_limit: "2048 MB"
 submissions: 132
 accepted: 50
 solved_users: 41
-acceptance_rate: 40.594%
-collected_at: 2026-04-17T16:07:44.916751+00:00
+acceptance_rate: "40.594%"
+collected_at: "2026-04-17T16:07:44.916751+00:00"
 ---
 
 ## 문제

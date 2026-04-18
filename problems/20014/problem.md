@@ -1,13 +1,13 @@
 ---
-title: Лесопосадки
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Лесопосадки"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 25
 accepted: 5
 solved_users: 5
-acceptance_rate: 33.333%
-collected_at: 2026-04-17T15:30:33.377580+00:00
+acceptance_rate: "33.333%"
+collected_at: "2026-04-17T15:30:33.377580+00:00"
 ---
 
 ## 문제

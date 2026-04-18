@@ -1,13 +1,13 @@
 ---
-title: 돌다리 건너기
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "돌다리 건너기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 6819
 accepted: 3327
 solved_users: 2522
-acceptance_rate: 51.649%
-collected_at: 2026-04-17T10:43:11.024619+00:00
+acceptance_rate: "51.649%"
+collected_at: "2026-04-17T10:43:11.024619+00:00"
 ---
 
 ## 문제

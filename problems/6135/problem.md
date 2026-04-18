@@ -1,13 +1,13 @@
 ---
-title: Cow Hurdles
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Cow Hurdles"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 304
 accepted: 193
 solved_users: 160
-acceptance_rate: 62.992%
-collected_at: 2026-04-17T11:21:01.393802+00:00
+acceptance_rate: "62.992%"
+collected_at: "2026-04-17T11:21:01.393802+00:00"
 ---
 
 ## 문제

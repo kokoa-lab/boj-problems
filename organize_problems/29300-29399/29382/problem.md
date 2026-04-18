@@ -1,13 +1,13 @@
 ---
-title: Гарри Поттер и битва за Хогвартс
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Гарри Поттер и битва за Хогвартс"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 8
 accepted: 5
 solved_users: 5
-acceptance_rate: 71.429%
-collected_at: 2026-04-17T18:41:40.854966+00:00
+acceptance_rate: "71.429%"
+collected_at: "2026-04-17T18:41:40.854966+00:00"
 ---
 
 ## 문제

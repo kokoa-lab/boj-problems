@@ -1,13 +1,13 @@
 ---
-title: 적당한 휴식은 필수
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "적당한 휴식은 필수"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 247
 accepted: 161
 solved_users: 118
-acceptance_rate: 69.412%
-collected_at: 2026-04-17T20:12:39.536092+00:00
+acceptance_rate: "69.412%"
+collected_at: "2026-04-17T20:12:39.536092+00:00"
 ---
 
 ## 문제

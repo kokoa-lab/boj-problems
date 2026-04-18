@@ -1,13 +1,13 @@
 ---
-title: 정점들의 거리
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "정점들의 거리"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 17101
 accepted: 6308
 solved_users: 4328
-acceptance_rate: 37.556%
-collected_at: 2026-04-17T10:33:16.868669+00:00
+acceptance_rate: "37.556%"
+collected_at: "2026-04-17T10:33:16.868669+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Pilots
-special_judge: false
-time_limit: 3 초
-memory_limit: 128 MB
+title: "Pilots"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "128 MB"
 submissions: 1197
 accepted: 382
 solved_users: 280
-acceptance_rate: 32.000%
-collected_at: 2026-04-17T11:57:07.562108+00:00
+acceptance_rate: "32.000%"
+collected_at: "2026-04-17T11:57:07.562108+00:00"
 ---
 
 ## 문제

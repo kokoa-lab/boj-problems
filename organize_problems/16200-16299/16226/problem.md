@@ -1,13 +1,13 @@
 ---
-title: 거울냥이는 죽어서 거울을 남긴다
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "거울냥이는 죽어서 거울을 남긴다"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 396
 accepted: 120
 solved_users: 78
-acceptance_rate: 39.000%
-collected_at: 2026-04-17T14:13:53.528671+00:00
+acceptance_rate: "39.000%"
+collected_at: "2026-04-17T14:13:53.528671+00:00"
 ---
 
 ## 문제

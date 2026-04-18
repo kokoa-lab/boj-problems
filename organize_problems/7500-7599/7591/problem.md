@@ -1,13 +1,13 @@
 ---
-title: Circles
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Circles"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 77
 accepted: 5
 solved_users: 2
-acceptance_rate: 3.030%
-collected_at: 2026-04-17T11:50:57.017981+00:00
+acceptance_rate: "3.030%"
+collected_at: "2026-04-17T11:50:57.017981+00:00"
 ---
 
 ## 문제

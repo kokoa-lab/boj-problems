@@ -1,13 +1,13 @@
 ---
-title: Koszulki
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Koszulki"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 82
 accepted: 63
 solved_users: 54
-acceptance_rate: 80.597%
-collected_at: 2026-04-17T17:50:02.230601+00:00
+acceptance_rate: "80.597%"
+collected_at: "2026-04-17T17:50:02.230601+00:00"
 ---
 
 ## 문제

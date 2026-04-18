@@ -1,13 +1,13 @@
 ---
-title: 미로
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "미로"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 184
 accepted: 52
 solved_users: 37
-acceptance_rate: 38.947%
-collected_at: 2026-04-17T10:37:36.106650+00:00
+acceptance_rate: "38.947%"
+collected_at: "2026-04-17T10:37:36.106650+00:00"
 ---
 
 ## 문제

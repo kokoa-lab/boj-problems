@@ -1,13 +1,13 @@
 ---
-title: EVANESCENT
-special_judge: true
-time_limit: 3 초
-memory_limit: 1024 MB
+title: "EVANESCENT"
+special_judge: "true"
+time_limit: "3 초"
+memory_limit: "1024 MB"
 submissions: 29
 accepted: 15
 solved_users: 14
-acceptance_rate: 66.667%
-collected_at: 2026-04-17T20:45:02.680470+00:00
+acceptance_rate: "66.667%"
+collected_at: "2026-04-17T20:45:02.680470+00:00"
 ---
 
 ## 문제

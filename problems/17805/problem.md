@@ -1,13 +1,13 @@
 ---
-title: Low Effort League
-special_judge: false
-time_limit: 3 초
-memory_limit: 512 MB
+title: "Low Effort League"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "512 MB"
 submissions: 64
 accepted: 33
 solved_users: 30
-acceptance_rate: 60.000%
-collected_at: 2026-04-17T14:47:35.341325+00:00
+acceptance_rate: "60.000%"
+collected_at: "2026-04-17T14:47:35.341325+00:00"
 ---
 
 ## 문제

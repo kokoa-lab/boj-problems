@@ -1,13 +1,13 @@
 ---
-title: 바닥 장식
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "바닥 장식"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 511
 accepted: 81
 solved_users: 68
-acceptance_rate: 20.118%
-collected_at: 2026-04-17T10:28:21.104848+00:00
+acceptance_rate: "20.118%"
+collected_at: "2026-04-17T10:28:21.104848+00:00"
 ---
 
 ## 문제

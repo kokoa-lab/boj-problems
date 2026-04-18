@@ -1,13 +1,13 @@
 ---
-title: Kernel Scheduler
-special_judge: true
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Kernel Scheduler"
+special_judge: "true"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 45
 accepted: 34
 solved_users: 29
-acceptance_rate: 76.316%
-collected_at: 2026-04-17T19:09:46.423714+00:00
+acceptance_rate: "76.316%"
+collected_at: "2026-04-17T19:09:46.423714+00:00"
 ---
 
 ## 문제

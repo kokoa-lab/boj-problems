@@ -1,13 +1,13 @@
 ---
-title: Diverse T-Shirts
-special_judge: false
-time_limit: 0.5 초 (추가 시간 없음)
-memory_limit: 2048 MB
+title: "Diverse T-Shirts"
+special_judge: "false"
+time_limit: "0.5 초 (추가 시간 없음)"
+memory_limit: "2048 MB"
 submissions: 40
 accepted: 13
 solved_users: 12
-acceptance_rate: 44.444%
-collected_at: 2026-04-17T20:10:03.969830+00:00
+acceptance_rate: "44.444%"
+collected_at: "2026-04-17T20:10:03.969830+00:00"
 ---
 
 ## 문제

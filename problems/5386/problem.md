@@ -1,13 +1,13 @@
 ---
-title: 금화 게임
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "금화 게임"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 927
 accepted: 477
 solved_users: 388
-acceptance_rate: 53.151%
-collected_at: 2026-04-17T11:13:27.666426+00:00
+acceptance_rate: "53.151%"
+collected_at: "2026-04-17T11:13:27.666426+00:00"
 ---
 
 ## 문제

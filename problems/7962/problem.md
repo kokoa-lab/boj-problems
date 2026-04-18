@@ -1,13 +1,13 @@
 ---
-title: A Journey to Mars
-special_judge: false
-time_limit: 3 초
-memory_limit: 512 MB
+title: "A Journey to Mars"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "512 MB"
 submissions: 41
 accepted: 21
 solved_users: 15
-acceptance_rate: 51.724%
-collected_at: 2026-04-17T11:54:41.446038+00:00
+acceptance_rate: "51.724%"
+collected_at: "2026-04-17T11:54:41.446038+00:00"
 ---
 
 ## 문제

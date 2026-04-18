@@ -1,13 +1,13 @@
 ---
-title: MP3-плеер
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "MP3-плеер"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 13
 accepted: 11
 solved_users: 7
-acceptance_rate: 87.500%
-collected_at: 2026-04-17T18:48:14.400007+00:00
+acceptance_rate: "87.500%"
+collected_at: "2026-04-17T18:48:14.400007+00:00"
 ---
 
 ## 문제

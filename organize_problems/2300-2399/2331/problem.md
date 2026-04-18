@@ -1,13 +1,13 @@
 ---
-title: 반복수열
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "반복수열"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 19038
 accepted: 9607
 solved_users: 7355
-acceptance_rate: 50.010%
-collected_at: 2026-04-17T10:40:42.270412+00:00
+acceptance_rate: "50.010%"
+collected_at: "2026-04-17T10:40:42.270412+00:00"
 ---
 
 ## 문제

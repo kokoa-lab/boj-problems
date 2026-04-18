@@ -1,13 +1,13 @@
 ---
-title: Barsik
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Barsik"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 173
 accepted: 78
 solved_users: 70
-acceptance_rate: 48.611%
-collected_at: 2026-04-17T15:40:54.419495+00:00
+acceptance_rate: "48.611%"
+collected_at: "2026-04-17T15:40:54.419495+00:00"
 ---
 
 ## 문제

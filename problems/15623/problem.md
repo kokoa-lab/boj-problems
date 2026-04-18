@@ -1,13 +1,13 @@
 ---
-title: The Captain
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "The Captain"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 19
 accepted: 12
 solved_users: 11
-acceptance_rate: 61.111%
-collected_at: 2026-04-17T14:02:59.566799+00:00
+acceptance_rate: "61.111%"
+collected_at: "2026-04-17T14:02:59.566799+00:00"
 ---
 
 ## 문제

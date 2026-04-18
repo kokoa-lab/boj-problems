@@ -1,13 +1,13 @@
 ---
-title: 한국이 그리울 땐 서버에 접속하지
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "한국이 그리울 땐 서버에 접속하지"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 35703
 accepted: 10529
 solved_users: 7150
-acceptance_rate: 27.490%
-collected_at: 2026-04-17T12:17:38.831115+00:00
+acceptance_rate: "27.490%"
+collected_at: "2026-04-17T12:17:38.831115+00:00"
 ---
 
 ## 문제

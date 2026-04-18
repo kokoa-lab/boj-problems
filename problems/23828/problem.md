@@ -1,13 +1,13 @@
 ---
-title: 수열 (Hard)
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "수열 (Hard)"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 279
 accepted: 133
 solved_users: 120
-acceptance_rate: 49.793%
-collected_at: 2026-04-17T16:54:55.325244+00:00
+acceptance_rate: "49.793%"
+collected_at: "2026-04-17T16:54:55.325244+00:00"
 ---
 
 ## 문제

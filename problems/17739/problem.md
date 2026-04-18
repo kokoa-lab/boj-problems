@@ -1,13 +1,13 @@
 ---
-title: Constellation 2
-special_judge: false
-time_limit: 9 초
-memory_limit: 512 MB
+title: "Constellation 2"
+special_judge: "false"
+time_limit: "9 초"
+memory_limit: "512 MB"
 submissions: 76
 accepted: 48
 solved_users: 42
-acceptance_rate: 76.364%
-collected_at: 2026-04-17T14:46:28.349898+00:00
+acceptance_rate: "76.364%"
+collected_at: "2026-04-17T14:46:28.349898+00:00"
 ---
 
 ## 문제

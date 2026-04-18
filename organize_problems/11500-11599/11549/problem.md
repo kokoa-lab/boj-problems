@@ -1,13 +1,13 @@
 ---
-title: Identifying tea
-special_judge: false
-time_limit: 3 초
-memory_limit: 256 MB
+title: "Identifying tea"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "256 MB"
 submissions: 5226
 accepted: 4630
 solved_users: 4397
-acceptance_rate: 89.370%
-collected_at: 2026-04-17T12:42:06.606072+00:00
+acceptance_rate: "89.370%"
+collected_at: "2026-04-17T12:42:06.606072+00:00"
 ---
 
 ## 문제

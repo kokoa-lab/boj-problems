@@ -1,13 +1,13 @@
 ---
-title: Broken trophy
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Broken trophy"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 76
 accepted: 41
 solved_users: 41
-acceptance_rate: 59.420%
-collected_at: 2026-04-17T19:29:08.900750+00:00
+acceptance_rate: "59.420%"
+collected_at: "2026-04-17T19:29:08.900750+00:00"
 ---
 
 ## 문제

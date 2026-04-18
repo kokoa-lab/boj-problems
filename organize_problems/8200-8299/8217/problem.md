@@ -1,13 +1,13 @@
 ---
-title: 유성
-special_judge: false
-time_limit: 5 초
-memory_limit: 256 MB
+title: "유성"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "256 MB"
 submissions: 2835
 accepted: 840
 solved_users: 533
-acceptance_rate: 23.532%
-collected_at: 2026-04-17T11:57:20.036032+00:00
+acceptance_rate: "23.532%"
+collected_at: "2026-04-17T11:57:20.036032+00:00"
 ---
 
 ## 문제

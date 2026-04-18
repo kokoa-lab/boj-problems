@@ -1,13 +1,13 @@
 ---
-title: 마트료시카
-special_judge: false
-time_limit: 5 초
-memory_limit: 128 MB
+title: "마트료시카"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "128 MB"
 submissions: 211
 accepted: 77
 solved_users: 62
-acceptance_rate: 38.509%
-collected_at: 2026-04-17T12:04:29.217665+00:00
+acceptance_rate: "38.509%"
+collected_at: "2026-04-17T12:04:29.217665+00:00"
 ---
 
 ## 문제

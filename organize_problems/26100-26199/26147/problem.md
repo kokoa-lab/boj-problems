@@ -1,13 +1,13 @@
 ---
-title: Wordle 찍기
-special_judge: true
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Wordle 찍기"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 391
 accepted: 129
 solved_users: 101
-acceptance_rate: 36.462%
-collected_at: 2026-04-17T17:40:51.408337+00:00
+acceptance_rate: "36.462%"
+collected_at: "2026-04-17T17:40:51.408337+00:00"
 ---
 
 ## 문제

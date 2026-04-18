@@ -1,13 +1,13 @@
 ---
-title: 샤워실 바닥 깔기 (Small)
-special_judge: true
-time_limit: 2 초
-memory_limit: 512 MB
+title: "샤워실 바닥 깔기 (Small)"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 1176
 accepted: 764
 solved_users: 689
-acceptance_rate: 67.285%
-collected_at: 2026-04-17T13:39:04.705235+00:00
+acceptance_rate: "67.285%"
+collected_at: "2026-04-17T13:39:04.705235+00:00"
 ---
 
 ## 문제

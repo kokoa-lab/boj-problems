@@ -1,13 +1,13 @@
 ---
-title: Stół
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Stół"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 922
 accepted: 318
 solved_users: 260
-acceptance_rate: 33.548%
-collected_at: 2026-04-17T11:57:40.478290+00:00
+acceptance_rate: "33.548%"
+collected_at: "2026-04-17T11:57:40.478290+00:00"
 ---
 
 ## 문제

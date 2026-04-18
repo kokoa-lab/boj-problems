@@ -1,13 +1,13 @@
 ---
-title: Building a New Depot
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Building a New Depot"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 35
 accepted: 19
 solved_users: 18
-acceptance_rate: 64.286%
-collected_at: 2026-04-17T11:32:54.330665+00:00
+acceptance_rate: "64.286%"
+collected_at: "2026-04-17T11:32:54.330665+00:00"
 ---
 
 ## 문제

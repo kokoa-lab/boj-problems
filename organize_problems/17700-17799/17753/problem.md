@@ -1,13 +1,13 @@
 ---
-title: Presents
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Presents"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 64
 accepted: 28
 solved_users: 24
-acceptance_rate: 42.105%
-collected_at: 2026-04-17T14:46:35.243866+00:00
+acceptance_rate: "42.105%"
+collected_at: "2026-04-17T14:46:35.243866+00:00"
 ---
 
 ## 문제

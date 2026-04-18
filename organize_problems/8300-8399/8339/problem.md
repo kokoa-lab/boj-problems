@@ -1,13 +1,13 @@
 ---
-title: Fibonacci Machine
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Fibonacci Machine"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 212
 accepted: 98
 solved_users: 65
-acceptance_rate: 44.828%
-collected_at: 2026-04-17T11:58:36.985507+00:00
+acceptance_rate: "44.828%"
+collected_at: "2026-04-17T11:58:36.985507+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: What is n, Daddy?
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "What is n, Daddy?"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 1497
 accepted: 809
 solved_users: 739
-acceptance_rate: 53.590%
-collected_at: 2026-04-17T11:37:54.855246+00:00
+acceptance_rate: "53.590%"
+collected_at: "2026-04-17T11:37:54.855246+00:00"
 ---
 
 ## 문제

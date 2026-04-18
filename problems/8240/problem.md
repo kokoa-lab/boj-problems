@@ -1,13 +1,13 @@
 ---
-title: Take-out
-special_judge: true
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Take-out"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 94
 accepted: 48
 solved_users: 43
-acceptance_rate: 53.086%
-collected_at: 2026-04-17T11:57:34.020739+00:00
+acceptance_rate: "53.086%"
+collected_at: "2026-04-17T11:57:34.020739+00:00"
 ---
 
 ## 문제

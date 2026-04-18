@@ -1,13 +1,13 @@
 ---
-title: Mousetrap (Large)
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Mousetrap (Large)"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 103
 accepted: 37
 solved_users: 26
-acceptance_rate: 33.333%
-collected_at: 2026-04-17T13:00:18.475207+00:00
+acceptance_rate: "33.333%"
+collected_at: "2026-04-17T13:00:18.475207+00:00"
 ---
 
 ## 문제

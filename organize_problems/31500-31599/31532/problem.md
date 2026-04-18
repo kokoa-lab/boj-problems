@@ -1,13 +1,13 @@
 ---
-title: 선형 회귀는 너무 쉬워 3
-special_judge: true
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "선형 회귀는 너무 쉬워 3"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 300
 accepted: 84
 solved_users: 42
-acceptance_rate: 24.000%
-collected_at: 2026-04-17T19:29:59.180089+00:00
+acceptance_rate: "24.000%"
+collected_at: "2026-04-17T19:29:59.180089+00:00"
 ---
 
 ## 문제

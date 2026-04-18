@@ -1,13 +1,13 @@
 ---
-title: Barbells
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Barbells"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 202
 accepted: 128
 solved_users: 104
-acceptance_rate: 60.819%
-collected_at: 2026-04-17T13:18:33.228258+00:00
+acceptance_rate: "60.819%"
+collected_at: "2026-04-17T13:18:33.228258+00:00"
 ---
 
 ## 문제

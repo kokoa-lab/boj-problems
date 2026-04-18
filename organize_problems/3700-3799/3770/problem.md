@@ -1,13 +1,13 @@
 ---
-title: 대한민국
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "대한민국"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 1106
 accepted: 455
 solved_users: 379
-acceptance_rate: 40.362%
-collected_at: 2026-04-17T10:51:52.901656+00:00
+acceptance_rate: "40.362%"
+collected_at: "2026-04-17T10:51:52.901656+00:00"
 ---
 
 ## 문제

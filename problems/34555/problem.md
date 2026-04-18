@@ -1,13 +1,13 @@
 ---
-title: INU 순열
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "INU 순열"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 370
 accepted: 260
 solved_users: 209
-acceptance_rate: 68.750%
-collected_at: 2026-04-17T20:42:44.371183+00:00
+acceptance_rate: "68.750%"
+collected_at: "2026-04-17T20:42:44.371183+00:00"
 ---
 
 ## 문제

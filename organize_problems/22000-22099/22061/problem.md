@@ -1,13 +1,13 @@
 ---
-title: Покупка велосипеда
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "Покупка велосипеда"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 612
 accepted: 294
 solved_users: 225
-acceptance_rate: 44.910%
-collected_at: 2026-04-17T16:12:28.075845+00:00
+acceptance_rate: "44.910%"
+collected_at: "2026-04-17T16:12:28.075845+00:00"
 ---
 
 ## 문제

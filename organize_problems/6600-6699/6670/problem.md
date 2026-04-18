@@ -1,13 +1,13 @@
 ---
-title: C Looooops
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "C Looooops"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 172
 accepted: 52
 solved_users: 34
-acceptance_rate: 30.357%
-collected_at: 2026-04-17T11:32:33.573632+00:00
+acceptance_rate: "30.357%"
+collected_at: "2026-04-17T11:32:33.573632+00:00"
 ---
 
 ## 문제

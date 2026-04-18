@@ -1,13 +1,13 @@
 ---
-title: Barbara Bennett's Wild Numbers
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Barbara Bennett's Wild Numbers"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 86
 accepted: 31
 solved_users: 26
-acceptance_rate: 37.681%
-collected_at: 2026-04-18T09:48:59.868469+00:00
+acceptance_rate: "37.681%"
+collected_at: "2026-04-18T09:48:59.868469+00:00"
 ---
 
 ## 문제

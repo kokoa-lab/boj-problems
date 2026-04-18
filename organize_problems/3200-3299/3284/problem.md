@@ -1,13 +1,13 @@
 ---
-title: MASS
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "MASS"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 59
 accepted: 52
 solved_users: 39
-acceptance_rate: 90.698%
-collected_at: 2026-04-17T10:47:54.828533+00:00
+acceptance_rate: "90.698%"
+collected_at: "2026-04-17T10:47:54.828533+00:00"
 ---
 
 ## 문제

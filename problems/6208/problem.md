@@ -1,13 +1,13 @@
 ---
-title: Cow Roller Coaster
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Cow Roller Coaster"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 379
 accepted: 170
 solved_users: 131
-acceptance_rate: 45.486%
-collected_at: 2026-04-17T11:22:45.581698+00:00
+acceptance_rate: "45.486%"
+collected_at: "2026-04-17T11:22:45.581698+00:00"
 ---
 
 ## 문제

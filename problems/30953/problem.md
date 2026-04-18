@@ -1,13 +1,13 @@
 ---
-title: Interactive Reconstruction
-special_judge: false
-time_limit: 10 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Interactive Reconstruction"
+special_judge: "false"
+time_limit: "10 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 40
 accepted: 28
 solved_users: 27
-acceptance_rate: 71.053%
-collected_at: 2026-04-17T19:18:43.435916+00:00
+acceptance_rate: "71.053%"
+collected_at: "2026-04-17T19:18:43.435916+00:00"
 ---
 
 ## 문제

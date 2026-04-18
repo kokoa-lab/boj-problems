@@ -1,13 +1,13 @@
 ---
-title: Earl’s Extremely Efficient Encryption
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Earl’s Extremely Efficient Encryption"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 45
 accepted: 29
 solved_users: 19
-acceptance_rate: 61.290%
-collected_at: 2026-04-17T13:18:59.392512+00:00
+acceptance_rate: "61.290%"
+collected_at: "2026-04-17T13:18:59.392512+00:00"
 ---
 
 ## 문제

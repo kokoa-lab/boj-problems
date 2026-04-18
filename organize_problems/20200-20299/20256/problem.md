@@ -1,13 +1,13 @@
 ---
-title: Right-Coupled Numbers
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Right-Coupled Numbers"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 148
 accepted: 104
 solved_users: 97
-acceptance_rate: 71.324%
-collected_at: 2026-04-17T15:33:47.922157+00:00
+acceptance_rate: "71.324%"
+collected_at: "2026-04-17T15:33:47.922157+00:00"
 ---
 
 ## 문제

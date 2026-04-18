@@ -1,13 +1,13 @@
 ---
-title: 레몬 경로
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "레몬 경로"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 445
 accepted: 134
 solved_users: 123
-acceptance_rate: 40.594%
-collected_at: 2026-04-17T20:34:04.157527+00:00
+acceptance_rate: "40.594%"
+collected_at: "2026-04-17T20:34:04.157527+00:00"
 ---
 
 ## 문제

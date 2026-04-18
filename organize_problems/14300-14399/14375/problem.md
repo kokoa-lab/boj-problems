@@ -1,13 +1,13 @@
 ---
-title: The Last Word (Small)
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "The Last Word (Small)"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 128
 accepted: 103
 solved_users: 99
-acceptance_rate: 80.488%
-collected_at: 2026-04-17T13:31:24.330032+00:00
+acceptance_rate: "80.488%"
+collected_at: "2026-04-17T13:31:24.330032+00:00"
 ---
 
 ## 문제

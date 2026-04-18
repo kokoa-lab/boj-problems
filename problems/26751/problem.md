@@ -1,13 +1,13 @@
 ---
-title: Najmniejsza liczba
-special_judge: false
-time_limit: 5 초
-memory_limit: 1024 MB
+title: "Najmniejsza liczba"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "1024 MB"
 submissions: 168
 accepted: 139
 solved_users: 106
-acceptance_rate: 79.699%
-collected_at: 2026-04-17T17:50:51.356829+00:00
+acceptance_rate: "79.699%"
+collected_at: "2026-04-17T17:50:51.356829+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Digi Comp II
-special_judge: false
-time_limit: 7 초
-memory_limit: 256 MB
+title: "Digi Comp II"
+special_judge: "false"
+time_limit: "7 초"
+memory_limit: "256 MB"
 submissions: 311
 accepted: 100
 solved_users: 88
-acceptance_rate: 31.769%
-collected_at: 2026-04-17T12:24:57.882991+00:00
+acceptance_rate: "31.769%"
+collected_at: "2026-04-17T12:24:57.882991+00:00"
 ---
 
 ## 문제

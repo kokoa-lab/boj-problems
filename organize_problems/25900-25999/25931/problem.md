@@ -1,13 +1,13 @@
 ---
-title: Water Flow
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Water Flow"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 31
 accepted: 2
 solved_users: 1
-acceptance_rate: 16.667%
-collected_at: 2026-04-17T17:37:11.841820+00:00
+acceptance_rate: "16.667%"
+collected_at: "2026-04-17T17:37:11.841820+00:00"
 ---
 
 ## 문제

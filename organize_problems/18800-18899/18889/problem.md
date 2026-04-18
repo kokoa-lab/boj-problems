@@ -1,13 +1,13 @@
 ---
-title: New Year and Social Network
-special_judge: true
-time_limit: 4 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "New Year and Social Network"
+special_judge: "true"
+time_limit: "4 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 105
 accepted: 26
 solved_users: 16
-acceptance_rate: 34.043%
-collected_at: 2026-04-17T15:10:56.765034+00:00
+acceptance_rate: "34.043%"
+collected_at: "2026-04-17T15:10:56.765034+00:00"
 ---
 
 ## 문제

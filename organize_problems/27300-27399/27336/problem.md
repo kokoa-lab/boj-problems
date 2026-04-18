@@ -1,13 +1,13 @@
 ---
-title: ジョイ四人組 (JOI04)
-special_judge: false
-time_limit: 3 초
-memory_limit: 1024 MB
+title: "ジョイ四人組 (JOI04)"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "1024 MB"
 submissions: 87
 accepted: 57
 solved_users: 52
-acceptance_rate: 68.421%
-collected_at: 2026-04-17T18:01:04.181735+00:00
+acceptance_rate: "68.421%"
+collected_at: "2026-04-17T18:01:04.181735+00:00"
 ---
 
 ## 문제

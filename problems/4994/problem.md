@@ -1,13 +1,13 @@
 ---
-title: 배수 찾기
-special_judge: true
-time_limit: 1 초
-memory_limit: 128 MB
+title: "배수 찾기"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 887
 accepted: 413
 solved_users: 271
-acceptance_rate: 49.273%
-collected_at: 2026-04-17T11:10:43.868483+00:00
+acceptance_rate: "49.273%"
+collected_at: "2026-04-17T11:10:43.868483+00:00"
 ---
 
 ## 문제

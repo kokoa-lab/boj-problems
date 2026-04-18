@@ -1,13 +1,13 @@
 ---
-title: 문자열 회전
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "문자열 회전"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 207
 accepted: 157
 solved_users: 148
-acceptance_rate: 78.723%
-collected_at: 2026-04-18T09:52:00.306924+00:00
+acceptance_rate: "78.723%"
+collected_at: "2026-04-18T09:52:00.306924+00:00"
 ---
 
 ## 문제

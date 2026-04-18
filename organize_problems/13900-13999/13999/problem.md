@@ -1,13 +1,13 @@
 ---
-title: Kids Designing Kids
-special_judge: true
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Kids Designing Kids"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 35
 accepted: 13
 solved_users: 12
-acceptance_rate: 41.379%
-collected_at: 2026-04-17T13:23:49.370153+00:00
+acceptance_rate: "41.379%"
+collected_at: "2026-04-17T13:23:49.370153+00:00"
 ---
 
 ## 문제

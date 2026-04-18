@@ -1,13 +1,13 @@
 ---
-title: 試験 (Exam)
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "試験 (Exam)"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 3236
 accepted: 2683
 solved_users: 2518
-acceptance_rate: 83.710%
-collected_at: 2026-04-18T09:51:00.601448+00:00
+acceptance_rate: "83.710%"
+collected_at: "2026-04-18T09:51:00.601448+00:00"
 ---
 
 ## 문제

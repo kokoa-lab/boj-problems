@@ -1,13 +1,13 @@
 ---
-title: 3의 배수
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "3의 배수"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 25609
 accepted: 8093
 solved_users: 6768
-acceptance_rate: 32.542%
-collected_at: 2026-04-17T10:33:23.758009+00:00
+acceptance_rate: "32.542%"
+collected_at: "2026-04-17T10:33:23.758009+00:00"
 ---
 
 ## 문제

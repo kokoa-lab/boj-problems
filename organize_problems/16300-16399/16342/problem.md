@@ -1,13 +1,13 @@
 ---
-title: Lighting
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Lighting"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 21
 accepted: 18
 solved_users: 18
-acceptance_rate: 85.714%
-collected_at: 2026-04-17T14:16:10.403465+00:00
+acceptance_rate: "85.714%"
+collected_at: "2026-04-17T14:16:10.403465+00:00"
 ---
 
 ## 문제

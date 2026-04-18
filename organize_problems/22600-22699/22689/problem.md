@@ -1,13 +1,13 @@
 ---
-title: Goofy Converter
-special_judge: true
-time_limit: 8 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "Goofy Converter"
+special_judge: "true"
+time_limit: "8 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 50
 accepted: 24
 solved_users: 22
-acceptance_rate: 46.809%
-collected_at: 2026-04-17T16:31:57.728405+00:00
+acceptance_rate: "46.809%"
+collected_at: "2026-04-17T16:31:57.728405+00:00"
 ---
 
 ## 문제

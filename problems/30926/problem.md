@@ -1,13 +1,13 @@
 ---
-title: 파티
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "파티"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 40
 accepted: 4
 solved_users: 3
-acceptance_rate: 10.345%
-collected_at: 2026-04-17T19:18:14.416048+00:00
+acceptance_rate: "10.345%"
+collected_at: "2026-04-17T19:18:14.416048+00:00"
 ---
 
 ## 문제

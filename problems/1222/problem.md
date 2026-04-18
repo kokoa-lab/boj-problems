@@ -1,13 +1,13 @@
 ---
-title: 홍준 프로그래밍 대회
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "홍준 프로그래밍 대회"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 3291
 accepted: 891
 solved_users: 629
-acceptance_rate: 25.600%
-collected_at: 2026-04-17T10:28:55.955664+00:00
+acceptance_rate: "25.600%"
+collected_at: "2026-04-17T10:28:55.955664+00:00"
 ---
 
 ## 문제

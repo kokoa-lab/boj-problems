@@ -1,13 +1,13 @@
 ---
-title: 아기돼지와 늑대
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "아기돼지와 늑대"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 1559
 accepted: 590
 solved_users: 442
-acceptance_rate: 34.913%
-collected_at: 2026-04-17T14:18:00.518922+00:00
+acceptance_rate: "34.913%"
+collected_at: "2026-04-17T14:18:00.518922+00:00"
 ---
 
 ## 문제

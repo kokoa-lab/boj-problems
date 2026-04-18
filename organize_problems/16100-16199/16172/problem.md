@@ -1,13 +1,13 @@
 ---
-title: 나는 친구가 적다 (Large)
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 128 MB
+title: "나는 친구가 적다 (Large)"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "128 MB"
 submissions: 5727
 accepted: 2037
 solved_users: 1622
-acceptance_rate: 40.089%
-collected_at: 2026-04-17T14:12:49.010354+00:00
+acceptance_rate: "40.089%"
+collected_at: "2026-04-17T14:12:49.010354+00:00"
 ---
 
 ## 문제

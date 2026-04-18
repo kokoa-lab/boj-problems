@@ -1,13 +1,13 @@
 ---
-title: 고압선
-special_judge: true
-time_limit: 2 초
-memory_limit: 512 MB
+title: "고압선"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 939
 accepted: 244
 solved_users: 134
-acceptance_rate: 25.331%
-collected_at: 2026-04-17T14:42:58.013320+00:00
+acceptance_rate: "25.331%"
+collected_at: "2026-04-17T14:42:58.013320+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 눈덩이 굴리기
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "눈덩이 굴리기"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 2939
 accepted: 1213
 solved_users: 1005
-acceptance_rate: 42.967%
-collected_at: 2026-04-17T16:05:47.837484+00:00
+acceptance_rate: "42.967%"
+collected_at: "2026-04-17T16:05:47.837484+00:00"
 ---
 
 ## 문제

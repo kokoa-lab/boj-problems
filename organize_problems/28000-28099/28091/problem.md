@@ -1,13 +1,13 @@
 ---
-title: 사각형 분할
-special_judge: true
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "사각형 분할"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 59
 accepted: 13
 solved_users: 10
-acceptance_rate: 27.027%
-collected_at: 2026-04-17T18:18:01.527793+00:00
+acceptance_rate: "27.027%"
+collected_at: "2026-04-17T18:18:01.527793+00:00"
 ---
 
 ## 문제

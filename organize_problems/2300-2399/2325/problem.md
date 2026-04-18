@@ -1,13 +1,13 @@
 ---
-title: 개코전쟁
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "개코전쟁"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 2000
 accepted: 849
 solved_users: 631
-acceptance_rate: 42.954%
-collected_at: 2026-04-17T10:40:39.470327+00:00
+acceptance_rate: "42.954%"
+collected_at: "2026-04-17T10:40:39.470327+00:00"
 ---
 
 ## 문제

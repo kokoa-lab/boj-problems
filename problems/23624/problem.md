@@ -1,13 +1,13 @@
 ---
-title: Subsequences
-special_judge: false
-time_limit: 5 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "Subsequences"
+special_judge: "false"
+time_limit: "5 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 15
 accepted: 6
 solved_users: 5
-acceptance_rate: 55.556%
-collected_at: 2026-04-17T16:51:16.386331+00:00
+acceptance_rate: "55.556%"
+collected_at: "2026-04-17T16:51:16.386331+00:00"
 ---
 
 ## 문제

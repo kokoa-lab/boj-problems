@@ -1,13 +1,13 @@
 ---
-title: A Garden with Ponds
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "A Garden with Ponds"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 43
 accepted: 39
 solved_users: 36
-acceptance_rate: 90.000%
-collected_at: 2026-04-17T13:47:27.514276+00:00
+acceptance_rate: "90.000%"
+collected_at: "2026-04-17T13:47:27.514276+00:00"
 ---
 
 ## 문제

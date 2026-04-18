@@ -1,13 +1,13 @@
 ---
-title: Glad You Came
-special_judge: false
-time_limit: 4 초
-memory_limit: 512 MB
+title: "Glad You Came"
+special_judge: "false"
+time_limit: "4 초"
+memory_limit: "512 MB"
 submissions: 17
 accepted: 9
 solved_users: 9
-acceptance_rate: 100.000%
-collected_at: 2026-04-17T15:06:36.612605+00:00
+acceptance_rate: "100.000%"
+collected_at: "2026-04-17T15:06:36.612605+00:00"
 ---
 
 ## 문제

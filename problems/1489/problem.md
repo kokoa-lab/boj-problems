@@ -1,13 +1,13 @@
 ---
-title: 대결
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "대결"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 1129
 accepted: 417
 solved_users: 346
-acceptance_rate: 41.637%
-collected_at: 2026-04-17T10:30:34.632645+00:00
+acceptance_rate: "41.637%"
+collected_at: "2026-04-17T10:30:34.632645+00:00"
 ---
 
 ## 문제

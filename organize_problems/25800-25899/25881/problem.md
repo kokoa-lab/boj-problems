@@ -1,13 +1,13 @@
 ---
-title: Electric Bill
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Electric Bill"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 1560
 accepted: 1207
 solved_users: 1136
-acceptance_rate: 77.279%
-collected_at: 2026-04-17T17:35:37.578746+00:00
+acceptance_rate: "77.279%"
+collected_at: "2026-04-17T17:35:37.578746+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 목걸이 수열
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "목걸이 수열"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 226
 accepted: 76
 solved_users: 64
-acceptance_rate: 36.364%
-collected_at: 2026-04-17T10:37:53.648733+00:00
+acceptance_rate: "36.364%"
+collected_at: "2026-04-17T10:37:53.648733+00:00"
 ---
 
 ## 문제

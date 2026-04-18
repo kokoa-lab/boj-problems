@@ -1,13 +1,13 @@
 ---
-title: 두 트리
-special_judge: true
-time_limit: 1.5 초
-memory_limit: 1024 MB
+title: "두 트리"
+special_judge: "true"
+time_limit: "1.5 초"
+memory_limit: "1024 MB"
 submissions: 170
 accepted: 46
 solved_users: 16
-acceptance_rate: 28.070%
-collected_at: 2026-04-17T16:40:59.256130+00:00
+acceptance_rate: "28.070%"
+collected_at: "2026-04-17T16:40:59.256130+00:00"
 ---
 
 ## 문제

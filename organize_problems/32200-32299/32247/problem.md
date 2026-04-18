@@ -1,13 +1,13 @@
 ---
-title: 이상한 나라의 끈끈이주걱
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "이상한 나라의 끈끈이주걱"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 1100
 accepted: 251
 solved_users: 194
-acceptance_rate: 25.695%
-collected_at: 2026-04-17T19:46:54.906105+00:00
+acceptance_rate: "25.695%"
+collected_at: "2026-04-17T19:46:54.906105+00:00"
 ---
 
 ## 문제

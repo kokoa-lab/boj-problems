@@ -1,13 +1,13 @@
 ---
-title: 그래프와 쿼리
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "그래프와 쿼리"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 1392
 accepted: 370
 solved_users: 296
-acceptance_rate: 27.433%
-collected_at: 2026-04-17T11:59:42.352623+00:00
+acceptance_rate: "27.433%"
+collected_at: "2026-04-17T11:59:42.352623+00:00"
 ---
 
 ## 문제

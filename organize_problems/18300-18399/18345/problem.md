@@ -1,13 +1,13 @@
 ---
-title: 순례자의 기억과 감명받은 신
-special_judge: false
-time_limit: 8 초
-memory_limit: 1024 MB
+title: "순례자의 기억과 감명받은 신"
+special_judge: "false"
+time_limit: "8 초"
+memory_limit: "1024 MB"
 submissions: 57
 accepted: 19
 solved_users: 13
-acceptance_rate: 39.394%
-collected_at: 2026-04-17T15:00:18.020110+00:00
+acceptance_rate: "39.394%"
+collected_at: "2026-04-17T15:00:18.020110+00:00"
 ---
 
 ## 문제

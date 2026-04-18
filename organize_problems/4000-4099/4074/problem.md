@@ -1,13 +1,13 @@
 ---
-title: 약어
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "약어"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 91
 accepted: 14
 solved_users: 14
-acceptance_rate: 58.333%
-collected_at: 2026-04-17T10:55:31.172180+00:00
+acceptance_rate: "58.333%"
+collected_at: "2026-04-17T10:55:31.172180+00:00"
 ---
 
 ## 문제

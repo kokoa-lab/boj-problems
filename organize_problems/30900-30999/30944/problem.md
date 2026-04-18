@@ -1,13 +1,13 @@
 ---
-title: 수열과 쿼리 44
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "수열과 쿼리 44"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 29
 accepted: 10
 solved_users: 7
-acceptance_rate: 53.846%
-collected_at: 2026-04-17T19:18:35.717001+00:00
+acceptance_rate: "53.846%"
+collected_at: "2026-04-17T19:18:35.717001+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Marching Course
-special_judge: true
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Marching Course"
+special_judge: "true"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 26
 accepted: 13
 solved_users: 13
-acceptance_rate: 59.091%
-collected_at: 2026-04-17T14:24:33.171036+00:00
+acceptance_rate: "59.091%"
+collected_at: "2026-04-17T14:24:33.171036+00:00"
 ---
 
 ## 문제

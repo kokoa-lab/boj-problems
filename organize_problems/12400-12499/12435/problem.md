@@ -1,13 +1,13 @@
 ---
-title: 한강 (Small)
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "한강 (Small)"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 448
 accepted: 138
 solved_users: 112
-acceptance_rate: 36.013%
-collected_at: 2026-04-17T12:55:22.363965+00:00
+acceptance_rate: "36.013%"
+collected_at: "2026-04-17T12:55:22.363965+00:00"
 ---
 
 ## 문제

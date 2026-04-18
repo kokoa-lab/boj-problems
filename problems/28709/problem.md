@@ -1,13 +1,13 @@
 ---
-title: 와일드카드 괄호 문자열
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "와일드카드 괄호 문자열"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 1192
 accepted: 273
 solved_users: 236
-acceptance_rate: 26.020%
-collected_at: 2026-04-17T18:31:09.249495+00:00
+acceptance_rate: "26.020%"
+collected_at: "2026-04-17T18:31:09.249495+00:00"
 ---
 
 ## 문제

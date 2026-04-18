@@ -1,13 +1,13 @@
 ---
-title: Cactus
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Cactus"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 18
 accepted: 2
 solved_users: 2
-acceptance_rate: 20.000%
-collected_at: 2026-04-17T15:39:18.344961+00:00
+acceptance_rate: "20.000%"
+collected_at: "2026-04-17T15:39:18.344961+00:00"
 ---
 
 ## 문제

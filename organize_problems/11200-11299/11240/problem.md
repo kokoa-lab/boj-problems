@@ -1,13 +1,13 @@
 ---
-title: Flower
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Flower"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 31
 accepted: 21
 solved_users: 15
-acceptance_rate: 75.000%
-collected_at: 2026-04-17T12:38:33.116011+00:00
+acceptance_rate: "75.000%"
+collected_at: "2026-04-17T12:38:33.116011+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Клавиатура и вирус
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Клавиатура и вирус"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 20
 accepted: 3
 solved_users: 2
-acceptance_rate: 10.526%
-collected_at: 2026-04-17T19:14:53.364382+00:00
+acceptance_rate: "10.526%"
+collected_at: "2026-04-17T19:14:53.364382+00:00"
 ---
 
 ## 문제

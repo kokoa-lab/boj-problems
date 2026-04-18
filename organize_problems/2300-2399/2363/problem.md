@@ -1,13 +1,13 @@
 ---
-title: 약수부분수열
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "약수부분수열"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 100
 accepted: 22
 solved_users: 19
-acceptance_rate: 35.849%
-collected_at: 2026-04-17T10:41:05.410359+00:00
+acceptance_rate: "35.849%"
+collected_at: "2026-04-17T10:41:05.410359+00:00"
 ---
 
 ## 문제

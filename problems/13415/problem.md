@@ -1,13 +1,13 @@
 ---
-title: 정렬 게임
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "정렬 게임"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 2750
 accepted: 461
 solved_users: 351
-acceptance_rate: 27.273%
-collected_at: 2026-04-17T13:12:56.471859+00:00
+acceptance_rate: "27.273%"
+collected_at: "2026-04-17T13:12:56.471859+00:00"
 ---
 
 ## 문제

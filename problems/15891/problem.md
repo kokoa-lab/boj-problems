@@ -1,13 +1,13 @@
 ---
-title: 스타트링크 사무실을 파헤쳐보자
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "스타트링크 사무실을 파헤쳐보자"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 18304
 accepted: 1018
 solved_users: 880
-acceptance_rate: 5.588%
-collected_at: 2026-04-17T14:08:21.888089+00:00
+acceptance_rate: "5.588%"
+collected_at: "2026-04-17T14:08:21.888089+00:00"
 ---
 
 ## 문제

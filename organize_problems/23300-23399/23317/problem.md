@@ -1,13 +1,13 @@
 ---
-title: 구슬 굴리기
-special_judge: false
-time_limit: 0.5 초
-memory_limit: 1024 MB
+title: "구슬 굴리기"
+special_judge: "false"
+time_limit: "0.5 초"
+memory_limit: "1024 MB"
 submissions: 441
 accepted: 145
 solved_users: 123
-acceptance_rate: 34.358%
-collected_at: 2026-04-17T16:46:19.359607+00:00
+acceptance_rate: "34.358%"
+collected_at: "2026-04-17T16:46:19.359607+00:00"
 ---
 
 ## 문제

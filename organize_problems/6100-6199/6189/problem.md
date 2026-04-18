@@ -1,13 +1,13 @@
 ---
-title: Munching
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Munching"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 319
 accepted: 198
 solved_users: 167
-acceptance_rate: 64.231%
-collected_at: 2026-04-17T11:22:20.991354+00:00
+acceptance_rate: "64.231%"
+collected_at: "2026-04-17T11:22:20.991354+00:00"
 ---
 
 ## 문제

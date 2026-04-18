@@ -1,13 +1,13 @@
 ---
-title: Xedni Drawkcab
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Xedni Drawkcab"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 239
 accepted: 170
 solved_users: 157
-acceptance_rate: 73.364%
-collected_at: 2026-04-17T12:43:29.184089+00:00
+acceptance_rate: "73.364%"
+collected_at: "2026-04-17T12:43:29.184089+00:00"
 ---
 
 ## 문제

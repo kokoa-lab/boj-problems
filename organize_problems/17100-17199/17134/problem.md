@@ -1,13 +1,13 @@
 ---
-title: 르모앙의 추측
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "르모앙의 추측"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 2607
 accepted: 1222
 solved_users: 866
-acceptance_rate: 46.162%
-collected_at: 2026-04-17T14:30:41.886459+00:00
+acceptance_rate: "46.162%"
+collected_at: "2026-04-17T14:30:41.886459+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 나이트의 경로
-special_judge: false
-time_limit: 0.5 초
-memory_limit: 256 MB
+title: "나이트의 경로"
+special_judge: "false"
+time_limit: "0.5 초"
+memory_limit: "256 MB"
 submissions: 139
 accepted: 110
 solved_users: 84
-acceptance_rate: 83.168%
-collected_at: 2026-04-17T14:56:20.269520+00:00
+acceptance_rate: "83.168%"
+collected_at: "2026-04-17T14:56:20.269520+00:00"
 ---
 
 ## 문제

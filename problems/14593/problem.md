@@ -1,13 +1,13 @@
 ---
-title: 2017 아주대학교 프로그래밍 경시대회 (Large)
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "2017 아주대학교 프로그래밍 경시대회 (Large)"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 1534
 accepted: 1062
 solved_users: 961
-acceptance_rate: 71.716%
-collected_at: 2026-04-17T13:38:51.373695+00:00
+acceptance_rate: "71.716%"
+collected_at: "2026-04-17T13:38:51.373695+00:00"
 ---
 
 ## 문제

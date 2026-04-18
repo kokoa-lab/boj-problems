@@ -1,13 +1,13 @@
 ---
-title: 뚜기뚜기메뚜기
-special_judge: false
-time_limit: 1 초
-memory_limit: 32 MB
+title: "뚜기뚜기메뚜기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "32 MB"
 submissions: 743
 accepted: 518
 solved_users: 477
-acceptance_rate: 73.385%
-collected_at: 2026-04-17T12:25:19.331640+00:00
+acceptance_rate: "73.385%"
+collected_at: "2026-04-17T12:25:19.331640+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 포켓몬 마스터
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "포켓몬 마스터"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 2895
 accepted: 851
 solved_users: 697
-acceptance_rate: 32.524%
-collected_at: 2026-04-17T12:17:28.578005+00:00
+acceptance_rate: "32.524%"
+collected_at: "2026-04-17T12:17:28.578005+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: When Can We Meet?
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "When Can We Meet?"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 104
 accepted: 63
 solved_users: 59
-acceptance_rate: 60.825%
-collected_at: 2026-04-17T16:36:33.027042+00:00
+acceptance_rate: "60.825%"
+collected_at: "2026-04-17T16:36:33.027042+00:00"
 ---
 
 ## 문제

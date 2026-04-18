@@ -1,13 +1,13 @@
 ---
-title: 피앳산 청정수
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "피앳산 청정수"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 454
 accepted: 98
 solved_users: 85
-acceptance_rate: 24.011%
-collected_at: 2026-04-17T17:22:22.198496+00:00
+acceptance_rate: "24.011%"
+collected_at: "2026-04-17T17:22:22.198496+00:00"
 ---
 
 ## 문제

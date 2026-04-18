@@ -1,13 +1,13 @@
 ---
-title: 출입 기록
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "출입 기록"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 2244
 accepted: 1118
 solved_users: 949
-acceptance_rate: 51.548%
-collected_at: 2026-04-17T17:56:39.845847+00:00
+acceptance_rate: "51.548%"
+collected_at: "2026-04-17T17:56:39.845847+00:00"
 ---
 
 ## 문제

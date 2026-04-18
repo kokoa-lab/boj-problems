@@ -1,13 +1,13 @@
 ---
-title: 규현이의 사랑을 담은 문자메시지
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "규현이의 사랑을 담은 문자메시지"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 793
 accepted: 233
 solved_users: 202
-acceptance_rate: 33.779%
-collected_at: 2026-04-17T10:44:10.241670+00:00
+acceptance_rate: "33.779%"
+collected_at: "2026-04-17T10:44:10.241670+00:00"
 ---
 
 ## 문제

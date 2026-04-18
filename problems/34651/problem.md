@@ -1,13 +1,13 @@
 ---
-title: Don't Fight The Music
-special_judge: false
-time_limit: 3 초
-memory_limit: 1024 MB
+title: "Don't Fight The Music"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "1024 MB"
 submissions: 28
 accepted: 13
 solved_users: 12
-acceptance_rate: 44.444%
-collected_at: 2026-04-17T20:44:56.126713+00:00
+acceptance_rate: "44.444%"
+collected_at: "2026-04-17T20:44:56.126713+00:00"
 ---
 
 ## 문제

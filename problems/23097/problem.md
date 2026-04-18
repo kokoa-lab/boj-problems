@@ -1,13 +1,13 @@
 ---
-title: Rescue Mission
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Rescue Mission"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 58
 accepted: 55
 solved_users: 53
-acceptance_rate: 96.364%
-collected_at: 2026-04-17T16:41:57.039283+00:00
+acceptance_rate: "96.364%"
+collected_at: "2026-04-17T16:41:57.039283+00:00"
 ---
 
 ## 문제

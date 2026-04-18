@@ -1,13 +1,13 @@
 ---
-title: '한국디지털미디어고등학교'는 너무 길다.
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "'한국디지털미디어고등학교'는 너무 길다."
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 277
 accepted: 100
 solved_users: 85
-acceptance_rate: 49.133%
-collected_at: 2026-04-17T19:45:17.668681+00:00
+acceptance_rate: "49.133%"
+collected_at: "2026-04-17T19:45:17.668681+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Nawiasowania
-special_judge: true
-time_limit: 4 초
-memory_limit: 1024 MB
+title: "Nawiasowania"
+special_judge: "true"
+time_limit: "4 초"
+memory_limit: "1024 MB"
 submissions: 64
 accepted: 26
 solved_users: 20
-acceptance_rate: 46.512%
-collected_at: 2026-04-17T17:51:40.734495+00:00
+acceptance_rate: "46.512%"
+collected_at: "2026-04-17T17:51:40.734495+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Gem Island
-special_judge: true
-time_limit: 3 초
-memory_limit: 1024 MB
+title: "Gem Island"
+special_judge: "true"
+time_limit: "3 초"
+memory_limit: "1024 MB"
 submissions: 298
 accepted: 140
 solved_users: 94
-acceptance_rate: 43.925%
-collected_at: 2026-04-17T14:04:26.580247+00:00
+acceptance_rate: "43.925%"
+collected_at: "2026-04-17T14:04:26.580247+00:00"
 ---
 
 ## 문제

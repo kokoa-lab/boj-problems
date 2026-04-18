@@ -1,13 +1,13 @@
 ---
-title: 없는 등수 찾기
-special_judge: false
-time_limit: 2 초
-memory_limit: 32 MB
+title: "없는 등수 찾기"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "32 MB"
 submissions: 78
 accepted: 36
 solved_users: 12
-acceptance_rate: 30.000%
-collected_at: 2026-04-17T12:47:30.114220+00:00
+acceptance_rate: "30.000%"
+collected_at: "2026-04-17T12:47:30.114220+00:00"
 ---
 
 ## 문제

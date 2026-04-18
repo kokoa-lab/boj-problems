@@ -1,13 +1,13 @@
 ---
-title: 영원한 젊음
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "영원한 젊음"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 404
 accepted: 61
 solved_users: 54
-acceptance_rate: 21.862%
-collected_at: 2026-04-17T13:01:08.314997+00:00
+acceptance_rate: "21.862%"
+collected_at: "2026-04-17T13:01:08.314997+00:00"
 ---
 
 ## 문제

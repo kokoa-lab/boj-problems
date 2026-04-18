@@ -1,13 +1,13 @@
 ---
-title: 일하는 세포
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "일하는 세포"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 2102
 accepted: 1100
 solved_users: 894
-acceptance_rate: 49.365%
-collected_at: 2026-04-17T14:38:43.931769+00:00
+acceptance_rate: "49.365%"
+collected_at: "2026-04-17T14:38:43.931769+00:00"
 ---
 
 ## 문제

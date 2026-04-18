@@ -1,13 +1,13 @@
 ---
-title: Restricted Arrays
-special_judge: false
-time_limit: 4 초
-memory_limit: 256 MB
+title: "Restricted Arrays"
+special_judge: "false"
+time_limit: "4 초"
+memory_limit: "256 MB"
 submissions: 59
 accepted: 30
 solved_users: 30
-acceptance_rate: 50.847%
-collected_at: 2026-04-17T17:13:05.521923+00:00
+acceptance_rate: "50.847%"
+collected_at: "2026-04-17T17:13:05.521923+00:00"
 ---
 
 ## 문제

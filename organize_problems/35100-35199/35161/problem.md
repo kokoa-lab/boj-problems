@@ -1,13 +1,13 @@
 ---
-title: 세진아, 향기가 세진 꽃밭에서, 지는 꽃잎을 세진 않으려 해
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "세진아, 향기가 세진 꽃밭에서, 지는 꽃잎을 세진 않으려 해"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 69
 accepted: 57
 solved_users: 43
-acceptance_rate: 84.314%
-collected_at: 2026-04-18T09:59:30.357033+00:00
+acceptance_rate: "84.314%"
+collected_at: "2026-04-18T09:59:30.357033+00:00"
 ---
 
 ## 문제

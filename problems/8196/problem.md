@@ -1,13 +1,13 @@
 ---
-title: The Minima Game
-special_judge: false
-time_limit: 3 초
-memory_limit: 512 MB
+title: "The Minima Game"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "512 MB"
 submissions: 190
 accepted: 112
 solved_users: 81
-acceptance_rate: 57.042%
-collected_at: 2026-04-17T11:57:05.824302+00:00
+acceptance_rate: "57.042%"
+collected_at: "2026-04-17T11:57:05.824302+00:00"
 ---
 
 ## 문제

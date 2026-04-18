@@ -1,13 +1,13 @@
 ---
-title: A Bit Palindromic Numbers
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "A Bit Palindromic Numbers"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 44
 accepted: 19
 solved_users: 14
-acceptance_rate: 63.636%
-collected_at: 2026-04-17T14:14:47.549144+00:00
+acceptance_rate: "63.636%"
+collected_at: "2026-04-17T14:14:47.549144+00:00"
 ---
 
 ## 문제

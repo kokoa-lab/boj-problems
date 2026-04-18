@@ -1,13 +1,13 @@
 ---
-title: 쿠옹이의 궁금증
-special_judge: false
-time_limit: 4 초
-memory_limit: 1024 MB
+title: "쿠옹이의 궁금증"
+special_judge: "false"
+time_limit: "4 초"
+memory_limit: "1024 MB"
 submissions: 78
 accepted: 24
 solved_users: 16
-acceptance_rate: 33.333%
-collected_at: 2026-04-17T20:26:58.573627+00:00
+acceptance_rate: "33.333%"
+collected_at: "2026-04-17T20:26:58.573627+00:00"
 ---
 
 ## 문제

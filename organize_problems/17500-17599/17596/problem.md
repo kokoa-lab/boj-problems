@@ -1,13 +1,13 @@
 ---
-title: Traveling Merchant
-special_judge: false
-time_limit: 10 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Traveling Merchant"
+special_judge: "false"
+time_limit: "10 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 65
 accepted: 31
 solved_users: 28
-acceptance_rate: 53.846%
-collected_at: 2026-04-17T14:42:22.904984+00:00
+acceptance_rate: "53.846%"
+collected_at: "2026-04-17T14:42:22.904984+00:00"
 ---
 
 ## 문제

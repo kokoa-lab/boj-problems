@@ -1,13 +1,13 @@
 ---
-title: Milo of Croton and the Calf
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Milo of Croton and the Calf"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 33
 accepted: 20
 solved_users: 13
-acceptance_rate: 50.000%
-collected_at: 2026-04-17T12:20:25.714529+00:00
+acceptance_rate: "50.000%"
+collected_at: "2026-04-17T12:20:25.714529+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Mini-Tetris 3023
-special_judge: false
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Mini-Tetris 3023"
+special_judge: "false"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 213
 accepted: 115
 solved_users: 103
-acceptance_rate: 53.927%
-collected_at: 2026-04-17T19:09:42.530463+00:00
+acceptance_rate: "53.927%"
+collected_at: "2026-04-17T19:09:42.530463+00:00"
 ---
 
 ## 문제

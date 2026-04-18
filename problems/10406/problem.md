@@ -1,13 +1,13 @@
 ---
-title: The fellowship of the ring
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "The fellowship of the ring"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 892
 accepted: 787
 solved_users: 758
-acceptance_rate: 89.072%
-collected_at: 2026-04-17T12:23:05.418280+00:00
+acceptance_rate: "89.072%"
+collected_at: "2026-04-17T12:23:05.418280+00:00"
 ---
 
 ## 문제

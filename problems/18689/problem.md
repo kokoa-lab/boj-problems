@@ -1,13 +1,13 @@
 ---
-title: Baklawa
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Baklawa"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 80
 accepted: 30
 solved_users: 27
-acceptance_rate: 36.486%
-collected_at: 2026-04-17T15:08:27.608551+00:00
+acceptance_rate: "36.486%"
+collected_at: "2026-04-17T15:08:27.608551+00:00"
 ---
 
 ## 문제

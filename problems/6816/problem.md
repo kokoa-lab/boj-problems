@@ -1,13 +1,13 @@
 ---
-title: The Lights Going On and Off
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "The Lights Going On and Off"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 25
 accepted: 21
 solved_users: 20
-acceptance_rate: 86.957%
-collected_at: 2026-04-17T11:38:48.813682+00:00
+acceptance_rate: "86.957%"
+collected_at: "2026-04-17T11:38:48.813682+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: I Could Have Won
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "I Could Have Won"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 67
 accepted: 54
 solved_users: 50
-acceptance_rate: 79.365%
-collected_at: 2026-04-17T18:07:04.011894+00:00
+acceptance_rate: "79.365%"
+collected_at: "2026-04-17T18:07:04.011894+00:00"
 ---
 
 ## 문제

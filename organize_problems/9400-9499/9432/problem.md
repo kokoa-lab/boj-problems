@@ -1,13 +1,13 @@
 ---
-title: Worst Case Scenario
-special_judge: false
-time_limit: 5 초
-memory_limit: 128 MB
+title: "Worst Case Scenario"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "128 MB"
 submissions: 25
 accepted: 11
 solved_users: 11
-acceptance_rate: 44.000%
-collected_at: 2026-04-17T12:09:44.445430+00:00
+acceptance_rate: "44.000%"
+collected_at: "2026-04-17T12:09:44.445430+00:00"
 ---
 
 ## 문제

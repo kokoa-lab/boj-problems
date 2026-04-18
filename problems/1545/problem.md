@@ -1,13 +1,13 @@
 ---
-title: 안티 팰린드롬
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "안티 팰린드롬"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 1044
 accepted: 316
 solved_users: 249
-acceptance_rate: 35.319%
-collected_at: 2026-04-17T10:31:05.187012+00:00
+acceptance_rate: "35.319%"
+collected_at: "2026-04-17T10:31:05.187012+00:00"
 ---
 
 ## 문제

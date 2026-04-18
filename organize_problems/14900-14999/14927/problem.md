@@ -1,13 +1,13 @@
 ---
-title: 전구 끄기
-special_judge: false
-time_limit: 4 초
-memory_limit: 512 MB
+title: "전구 끄기"
+special_judge: "false"
+time_limit: "4 초"
+memory_limit: "512 MB"
 submissions: 1638
 accepted: 947
 solved_users: 661
-acceptance_rate: 57.982%
-collected_at: 2026-04-17T13:46:01.427174+00:00
+acceptance_rate: "57.982%"
+collected_at: "2026-04-17T13:46:01.427174+00:00"
 ---
 
 ## 문제

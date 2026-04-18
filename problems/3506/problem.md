@@ -1,13 +1,13 @@
 ---
-title: Lanes
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Lanes"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 99
 accepted: 2
 solved_users: 2
-acceptance_rate: 7.143%
-collected_at: 2026-04-17T10:49:21.181723+00:00
+acceptance_rate: "7.143%"
+collected_at: "2026-04-17T10:49:21.181723+00:00"
 ---
 
 ## 문제

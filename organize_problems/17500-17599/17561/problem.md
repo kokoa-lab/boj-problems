@@ -1,13 +1,13 @@
 ---
-title: Travel Guide
-special_judge: false
-time_limit: 6 초
-memory_limit: 512 MB
+title: "Travel Guide"
+special_judge: "false"
+time_limit: "6 초"
+memory_limit: "512 MB"
 submissions: 121
 accepted: 59
 solved_users: 37
-acceptance_rate: 51.389%
-collected_at: 2026-04-17T14:41:47.121636+00:00
+acceptance_rate: "51.389%"
+collected_at: "2026-04-17T14:41:47.121636+00:00"
 ---
 
 ## 문제

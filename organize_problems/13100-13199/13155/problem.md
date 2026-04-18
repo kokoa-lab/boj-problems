@@ -1,13 +1,13 @@
 ---
-title: Common Knowledge
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Common Knowledge"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 244
 accepted: 221
 solved_users: 205
-acceptance_rate: 93.607%
-collected_at: 2026-04-17T13:08:19.851237+00:00
+acceptance_rate: "93.607%"
+collected_at: "2026-04-17T13:08:19.851237+00:00"
 ---
 
 ## 문제

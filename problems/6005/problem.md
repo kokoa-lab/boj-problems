@@ -1,13 +1,13 @@
 ---
-title: Cow Pinball
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Cow Pinball"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 165
 accepted: 142
 solved_users: 134
-acceptance_rate: 87.013%
-collected_at: 2026-04-17T11:19:18.888046+00:00
+acceptance_rate: "87.013%"
+collected_at: "2026-04-17T11:19:18.888046+00:00"
 ---
 
 ## 문제

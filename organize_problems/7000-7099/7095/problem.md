@@ -1,13 +1,13 @@
 ---
-title: Factorials
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Factorials"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 276
 accepted: 114
 solved_users: 85
-acceptance_rate: 43.367%
-collected_at: 2026-04-17T11:44:46.095004+00:00
+acceptance_rate: "43.367%"
+collected_at: "2026-04-17T11:44:46.095004+00:00"
 ---
 
 ## 문제

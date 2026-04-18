@@ -1,13 +1,13 @@
 ---
-title: Gold Bandits
-special_judge: false
-time_limit: 5 초
-memory_limit: 256 MB
+title: "Gold Bandits"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "256 MB"
 submissions: 20
 accepted: 11
 solved_users: 9
-acceptance_rate: 64.286%
-collected_at: 2026-04-17T12:20:57.132591+00:00
+acceptance_rate: "64.286%"
+collected_at: "2026-04-17T12:20:57.132591+00:00"
 ---
 
 ## 문제

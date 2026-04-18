@@ -1,13 +1,13 @@
 ---
-title: 님 무기가 좀 나쁘시네여
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "님 무기가 좀 나쁘시네여"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 1119
 accepted: 300
 solved_users: 246
-acceptance_rate: 27.609%
-collected_at: 2026-04-17T12:40:08.167308+00:00
+acceptance_rate: "27.609%"
+collected_at: "2026-04-17T12:40:08.167308+00:00"
 ---
 
 ## 문제

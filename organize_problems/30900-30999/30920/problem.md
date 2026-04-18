@@ -1,13 +1,13 @@
 ---
-title: 수열 선물받기
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "수열 선물받기"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 166
 accepted: 83
 solved_users: 70
-acceptance_rate: 52.632%
-collected_at: 2026-04-17T19:18:02.975536+00:00
+acceptance_rate: "52.632%"
+collected_at: "2026-04-17T19:18:02.975536+00:00"
 ---
 
 ## 문제

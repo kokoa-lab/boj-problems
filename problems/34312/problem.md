@@ -1,13 +1,13 @@
 ---
-title: Procrastination
-special_judge: false
-time_limit: 2 초
-memory_limit: 2048 MB
+title: "Procrastination"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "2048 MB"
 submissions: 47
 accepted: 39
 solved_users: 31
-acceptance_rate: 91.176%
-collected_at: 2026-04-17T20:35:12.382844+00:00
+acceptance_rate: "91.176%"
+collected_at: "2026-04-17T20:35:12.382844+00:00"
 ---
 
 ## 문제

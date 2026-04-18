@@ -1,13 +1,13 @@
 ---
-title: 이 사람 왜 이렇게 1122를 좋아함?
-special_judge: false
-time_limit: 1.122 초
-memory_limit: 1122 MB
+title: "이 사람 왜 이렇게 1122를 좋아함?"
+special_judge: "false"
+time_limit: "1.122 초"
+memory_limit: "1122 MB"
 submissions: 1587
 accepted: 336
 solved_users: 286
-acceptance_rate: 22.467%
-collected_at: 2026-04-17T17:48:25.125103+00:00
+acceptance_rate: "22.467%"
+collected_at: "2026-04-17T17:48:25.125103+00:00"
 ---
 
 ## 문제

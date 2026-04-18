@@ -1,13 +1,13 @@
 ---
-title: 최대공약수 행렬식
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "최대공약수 행렬식"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 559
 accepted: 274
 solved_users: 227
-acceptance_rate: 51.591%
-collected_at: 2026-04-17T10:51:43.988426+00:00
+acceptance_rate: "51.591%"
+collected_at: "2026-04-17T10:51:43.988426+00:00"
 ---
 
 ## 문제

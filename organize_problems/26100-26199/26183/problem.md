@@ -1,13 +1,13 @@
 ---
-title: Justice Served
-special_judge: false
-time_limit: 5 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Justice Served"
+special_judge: "false"
+time_limit: "5 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 176
 accepted: 97
 solved_users: 76
-acceptance_rate: 53.901%
-collected_at: 2026-04-17T17:41:27.650953+00:00
+acceptance_rate: "53.901%"
+collected_at: "2026-04-17T17:41:27.650953+00:00"
 ---
 
 ## 문제

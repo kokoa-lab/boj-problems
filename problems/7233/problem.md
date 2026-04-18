@@ -1,13 +1,13 @@
 ---
-title: Medžiai
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Medžiai"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 25
 accepted: 10
 solved_users: 7
-acceptance_rate: 31.818%
-collected_at: 2026-04-17T11:47:29.019122+00:00
+acceptance_rate: "31.818%"
+collected_at: "2026-04-17T11:47:29.019122+00:00"
 ---
 
 ## 문제

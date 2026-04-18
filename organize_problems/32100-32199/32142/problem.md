@@ -1,13 +1,13 @@
 ---
-title: 서바이벌
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "서바이벌"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 544
 accepted: 419
 solved_users: 322
-acceptance_rate: 77.778%
-collected_at: 2026-04-17T19:44:06.910987+00:00
+acceptance_rate: "77.778%"
+collected_at: "2026-04-17T19:44:06.910987+00:00"
 ---
 
 ## 문제

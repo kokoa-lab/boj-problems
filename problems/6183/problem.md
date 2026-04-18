@@ -1,13 +1,13 @@
 ---
-title: Word Power
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Word Power"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 109
 accepted: 85
 solved_users: 74
-acceptance_rate: 81.319%
-collected_at: 2026-04-17T11:21:57.181707+00:00
+acceptance_rate: "81.319%"
+collected_at: "2026-04-17T11:21:57.181707+00:00"
 ---
 
 ## 문제

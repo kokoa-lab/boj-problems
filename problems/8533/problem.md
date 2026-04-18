@@ -1,13 +1,13 @@
 ---
-title: Zachody Słońca 2
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Zachody Słońca 2"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 47
 accepted: 3
 solved_users: 3
-acceptance_rate: 6.667%
-collected_at: 2026-04-17T12:00:34.868121+00:00
+acceptance_rate: "6.667%"
+collected_at: "2026-04-17T12:00:34.868121+00:00"
 ---
 
 ## 문제

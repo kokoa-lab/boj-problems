@@ -1,13 +1,13 @@
 ---
-title: Bovine Genomics (Silver)
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Bovine Genomics (Silver)"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 362
 accepted: 234
 solved_users: 187
-acceptance_rate: 63.605%
-collected_at: 2026-04-17T13:37:28.270593+00:00
+acceptance_rate: "63.605%"
+collected_at: "2026-04-17T13:37:28.270593+00:00"
 ---
 
 ## 문제

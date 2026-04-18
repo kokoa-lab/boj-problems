@@ -1,13 +1,13 @@
 ---
-title: 색칠 공부
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "색칠 공부"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 1849
 accepted: 370
 solved_users: 250
-acceptance_rate: 19.904%
-collected_at: 2026-04-17T12:10:49.132395+00:00
+acceptance_rate: "19.904%"
+collected_at: "2026-04-17T12:10:49.132395+00:00"
 ---
 
 ## 문제

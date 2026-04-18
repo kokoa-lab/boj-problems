@@ -1,13 +1,13 @@
 ---
-title: Binary Witch
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Binary Witch"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 35
 accepted: 16
 solved_users: 14
-acceptance_rate: 53.846%
-collected_at: 2026-04-17T11:53:37.260107+00:00
+acceptance_rate: "53.846%"
+collected_at: "2026-04-17T11:53:37.260107+00:00"
 ---
 
 ## 문제

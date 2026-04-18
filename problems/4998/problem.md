@@ -1,13 +1,13 @@
 ---
-title: 저금
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "저금"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 2375
 accepted: 1271
 solved_users: 1084
-acceptance_rate: 58.595%
-collected_at: 2026-04-17T11:10:45.258935+00:00
+acceptance_rate: "58.595%"
+collected_at: "2026-04-17T11:10:45.258935+00:00"
 ---
 
 ## 문제

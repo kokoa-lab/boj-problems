@@ -1,13 +1,13 @@
 ---
-title: Charles in Charge
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Charles in Charge"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 131
 accepted: 80
 solved_users: 76
-acceptance_rate: 59.843%
-collected_at: 2026-04-17T13:13:34.323559+00:00
+acceptance_rate: "59.843%"
+collected_at: "2026-04-17T13:13:34.323559+00:00"
 ---
 
 ## 문제

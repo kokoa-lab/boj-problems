@@ -1,13 +1,13 @@
 ---
-title: IP Address Summarization (Large)
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "IP Address Summarization (Large)"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 74
 accepted: 40
 solved_users: 33
-acceptance_rate: 64.706%
-collected_at: 2026-04-17T12:49:29.395715+00:00
+acceptance_rate: "64.706%"
+collected_at: "2026-04-17T12:49:29.395715+00:00"
 ---
 
 ## 문제

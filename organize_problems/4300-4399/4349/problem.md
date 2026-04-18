@@ -1,13 +1,13 @@
 ---
-title: Blocks
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Blocks"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 332
 accepted: 210
 solved_users: 168
-acceptance_rate: 64.865%
-collected_at: 2026-04-17T10:59:53.354374+00:00
+acceptance_rate: "64.865%"
+collected_at: "2026-04-17T10:59:53.354374+00:00"
 ---
 
 ## 문제

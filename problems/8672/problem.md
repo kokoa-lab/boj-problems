@@ -1,13 +1,13 @@
 ---
-title: Drabina
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Drabina"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 120
 accepted: 49
 solved_users: 40
-acceptance_rate: 43.011%
-collected_at: 2026-04-17T12:01:58.563814+00:00
+acceptance_rate: "43.011%"
+collected_at: "2026-04-17T12:01:58.563814+00:00"
 ---
 
 ## 문제

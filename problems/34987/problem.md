@@ -1,13 +1,13 @@
 ---
-title: 급식 뭐 먹지
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "급식 뭐 먹지"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 125
 accepted: 72
 solved_users: 66
-acceptance_rate: 59.459%
-collected_at: 2026-04-17T20:53:14.694177+00:00
+acceptance_rate: "59.459%"
+collected_at: "2026-04-17T20:53:14.694177+00:00"
 ---
 
 ## 문제

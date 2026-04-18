@@ -1,13 +1,13 @@
 ---
-title: Автоматизированное управление доставкой
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Автоматизированное управление доставкой"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 100
 accepted: 34
 solved_users: 30
-acceptance_rate: 36.585%
-collected_at: 2026-04-17T15:36:38.146338+00:00
+acceptance_rate: "36.585%"
+collected_at: "2026-04-17T15:36:38.146338+00:00"
 ---
 
 ## 문제

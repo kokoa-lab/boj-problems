@@ -1,13 +1,13 @@
 ---
-title: 인증된 쉬운 게임
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "인증된 쉬운 게임"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 1506
 accepted: 525
 solved_users: 411
-acceptance_rate: 35.646%
-collected_at: 2026-04-17T16:37:11.117573+00:00
+acceptance_rate: "35.646%"
+collected_at: "2026-04-17T16:37:11.117573+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Big Money
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "Big Money"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 1640
 accepted: 413
 solved_users: 333
-acceptance_rate: 24.594%
-collected_at: 2026-04-17T15:35:41.807335+00:00
+acceptance_rate: "24.594%"
+collected_at: "2026-04-17T15:35:41.807335+00:00"
 ---
 
 ## 문제

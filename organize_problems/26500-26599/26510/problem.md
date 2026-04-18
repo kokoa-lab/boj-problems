@@ -1,13 +1,13 @@
 ---
-title: V for Vendetta
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "V for Vendetta"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 380
 accepted: 291
 solved_users: 259
-acceptance_rate: 76.627%
-collected_at: 2026-04-17T17:46:56.570225+00:00
+acceptance_rate: "76.627%"
+collected_at: "2026-04-17T17:46:56.570225+00:00"
 ---
 
 ## 문제

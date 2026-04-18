@@ -1,13 +1,13 @@
 ---
-title: 트리 안에 트리
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "트리 안에 트리"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 185
 accepted: 77
 solved_users: 62
-acceptance_rate: 44.928%
-collected_at: 2026-04-17T19:15:36.913345+00:00
+acceptance_rate: "44.928%"
+collected_at: "2026-04-17T19:15:36.913345+00:00"
 ---
 
 ## 문제

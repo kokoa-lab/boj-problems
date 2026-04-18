@@ -1,13 +1,13 @@
 ---
-title: 공통 부분 문자열 쿼리
-special_judge: false
-time_limit: 4 초 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "공통 부분 문자열 쿼리"
+special_judge: "false"
+time_limit: "4 초 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 99
 accepted: 16
 solved_users: 9
-acceptance_rate: 15.789%
-collected_at: 2026-04-17T17:27:44.510524+00:00
+acceptance_rate: "15.789%"
+collected_at: "2026-04-17T17:27:44.510524+00:00"
 ---
 
 ## 문제

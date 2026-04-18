@@ -1,13 +1,13 @@
 ---
-title: 친구 팰린드롬
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "친구 팰린드롬"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 1748
 accepted: 500
 solved_users: 329
-acceptance_rate: 30.719%
-collected_at: 2026-04-17T13:56:16.176001+00:00
+acceptance_rate: "30.719%"
+collected_at: "2026-04-17T13:56:16.176001+00:00"
 ---
 
 ## 문제

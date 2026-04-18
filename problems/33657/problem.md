@@ -1,13 +1,13 @@
 ---
-title: Tracing (Laser) Pointers
-special_judge: false
-time_limit: 2 초
-memory_limit: 2048 MB
+title: "Tracing (Laser) Pointers"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "2048 MB"
 submissions: 38
 accepted: 29
 solved_users: 23
-acceptance_rate: 82.143%
-collected_at: 2026-04-17T20:20:55.029313+00:00
+acceptance_rate: "82.143%"
+collected_at: "2026-04-17T20:20:55.029313+00:00"
 ---
 
 ## 문제

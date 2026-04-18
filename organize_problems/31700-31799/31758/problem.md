@@ -1,13 +1,13 @@
 ---
-title: Harmonic Operations
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Harmonic Operations"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 53
 accepted: 16
 solved_users: 15
-acceptance_rate: 28.846%
-collected_at: 2026-04-17T19:35:56.761905+00:00
+acceptance_rate: "28.846%"
+collected_at: "2026-04-17T19:35:56.761905+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 이진 탐색 트리
-special_judge: false
-time_limit: 1 초  ( 하단 참고 )
-memory_limit: 128 MB
+title: "이진 탐색 트리"
+special_judge: "false"
+time_limit: "1 초  ( 하단 참고 )"
+memory_limit: "128 MB"
 submissions: 8180
 accepted: 1469
 solved_users: 1058
-acceptance_rate: 27.093%
-collected_at: 2026-04-17T10:45:55.785776+00:00
+acceptance_rate: "27.093%"
+collected_at: "2026-04-17T10:45:55.785776+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 국영수
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "국영수"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 45652
 accepted: 25385
 solved_users: 18666
-acceptance_rate: 55.630%
-collected_at: 2026-04-17T12:30:07.590864+00:00
+acceptance_rate: "55.630%"
+collected_at: "2026-04-17T12:30:07.590864+00:00"
 ---
 
 ## 문제

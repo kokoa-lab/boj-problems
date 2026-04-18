@@ -1,13 +1,13 @@
 ---
-title: One Step Closer
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "One Step Closer"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 4
 accepted: 2
 solved_users: 2
-acceptance_rate: 100.000%
-collected_at: 2026-04-17T15:13:17.980531+00:00
+acceptance_rate: "100.000%"
+collected_at: "2026-04-17T15:13:17.980531+00:00"
 ---
 
 ## 문제

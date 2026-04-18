@@ -1,13 +1,13 @@
 ---
-title: 1학년
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "1학년"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 23569
 accepted: 11561
 solved_users: 9116
-acceptance_rate: 49.108%
-collected_at: 2026-04-17T11:15:27.361552+00:00
+acceptance_rate: "49.108%"
+collected_at: "2026-04-17T11:15:27.361552+00:00"
 ---
 
 ## 문제

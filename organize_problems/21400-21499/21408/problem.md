@@ -1,13 +1,13 @@
 ---
-title: Провода
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Провода"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 22
 accepted: 19
 solved_users: 14
-acceptance_rate: 87.500%
-collected_at: 2026-04-17T15:57:45.656107+00:00
+acceptance_rate: "87.500%"
+collected_at: "2026-04-17T15:57:45.656107+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 다중 항목 선호도 조사 (Small)
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "다중 항목 선호도 조사 (Small)"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 493
 accepted: 388
 solved_users: 318
-acceptance_rate: 84.127%
-collected_at: 2026-04-17T17:24:53.767953+00:00
+acceptance_rate: "84.127%"
+collected_at: "2026-04-17T17:24:53.767953+00:00"
 ---
 
 ## 문제

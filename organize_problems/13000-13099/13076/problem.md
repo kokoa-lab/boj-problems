@@ -1,13 +1,13 @@
 ---
-title: Distinct rational numbers
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Distinct rational numbers"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 510
 accepted: 323
 solved_users: 274
-acceptance_rate: 64.169%
-collected_at: 2026-04-17T13:07:05.802863+00:00
+acceptance_rate: "64.169%"
+collected_at: "2026-04-17T13:07:05.802863+00:00"
 ---
 
 ## 문제

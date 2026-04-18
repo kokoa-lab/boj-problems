@@ -1,13 +1,13 @@
 ---
-title: 홍삼 게임 (Easy)
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "홍삼 게임 (Easy)"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 722
 accepted: 196
 solved_users: 146
-acceptance_rate: 28.185%
-collected_at: 2026-04-17T13:40:50.355833+00:00
+acceptance_rate: "28.185%"
+collected_at: "2026-04-17T13:40:50.355833+00:00"
 ---
 
 ## 문제

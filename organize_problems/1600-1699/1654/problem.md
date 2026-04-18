@@ -1,13 +1,13 @@
 ---
-title: 랜선 자르기
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "랜선 자르기"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 290215
 accepted: 72844
 solved_users: 49218
-acceptance_rate: 22.673%
-collected_at: 2026-04-17T10:31:59.428592+00:00
+acceptance_rate: "22.673%"
+collected_at: "2026-04-17T10:31:59.428592+00:00"
 ---
 
 ## 문제

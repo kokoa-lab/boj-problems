@@ -1,13 +1,13 @@
 ---
-title: Congruence Equation
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Congruence Equation"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 214
 accepted: 76
 solved_users: 42
-acceptance_rate: 26.582%
-collected_at: 2026-04-17T14:22:48.602189+00:00
+acceptance_rate: "26.582%"
+collected_at: "2026-04-17T14:22:48.602189+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Good arrays
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Good arrays"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 200
 accepted: 59
 solved_users: 25
-acceptance_rate: 18.797%
-collected_at: 2026-04-17T19:12:00.253654+00:00
+acceptance_rate: "18.797%"
+collected_at: "2026-04-17T19:12:00.253654+00:00"
 ---
 
 ## 문제

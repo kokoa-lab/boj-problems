@@ -1,13 +1,13 @@
 ---
-title: 푸앙이와 레벨업
-special_judge: false
-time_limit: 3 초
-memory_limit: 1024 MB
+title: "푸앙이와 레벨업"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "1024 MB"
 submissions: 175
 accepted: 70
 solved_users: 52
-acceptance_rate: 40.000%
-collected_at: 2026-04-17T17:29:43.772549+00:00
+acceptance_rate: "40.000%"
+collected_at: "2026-04-17T17:29:43.772549+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Double Knockout Competition
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Double Knockout Competition"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 117
 accepted: 17
 solved_users: 16
-acceptance_rate: 18.391%
-collected_at: 2026-04-17T11:41:47.512180+00:00
+acceptance_rate: "18.391%"
+collected_at: "2026-04-17T11:41:47.512180+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 1D Spreadsheet
-special_judge: false
-time_limit: 10 초
-memory_limit: 512 MB
+title: "1D Spreadsheet"
+special_judge: "false"
+time_limit: "10 초"
+memory_limit: "512 MB"
 submissions: 61
 accepted: 6
 solved_users: 6
-acceptance_rate: 14.286%
-collected_at: 2026-04-17T15:15:06.321991+00:00
+acceptance_rate: "14.286%"
+collected_at: "2026-04-17T15:15:06.321991+00:00"
 ---
 
 ## 문제

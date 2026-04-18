@@ -1,13 +1,13 @@
 ---
-title: Leapcow
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Leapcow"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 112
 accepted: 84
 solved_users: 69
-acceptance_rate: 74.194%
-collected_at: 2026-04-17T17:55:27.527375+00:00
+acceptance_rate: "74.194%"
+collected_at: "2026-04-17T17:55:27.527375+00:00"
 ---
 
 ## 문제

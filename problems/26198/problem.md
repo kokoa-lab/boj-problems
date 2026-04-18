@@ -1,13 +1,13 @@
 ---
-title: Chronogram
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Chronogram"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 416
 accepted: 336
 solved_users: 277
-acceptance_rate: 81.711%
-collected_at: 2026-04-17T17:41:43.790836+00:00
+acceptance_rate: "81.711%"
+collected_at: "2026-04-17T17:41:43.790836+00:00"
 ---
 
 ## 문제

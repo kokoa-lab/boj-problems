@@ -1,13 +1,13 @@
 ---
-title: X-percent Blooming
-special_judge: true
-time_limit: 2 초
-memory_limit: 512 MB
+title: "X-percent Blooming"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 10
 accepted: 3
 solved_users: 3
-acceptance_rate: 50.000%
-collected_at: 2026-04-17T16:19:46.703286+00:00
+acceptance_rate: "50.000%"
+collected_at: "2026-04-17T16:19:46.703286+00:00"
 ---
 
 ## 문제

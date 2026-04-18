@@ -1,13 +1,13 @@
 ---
-title: MMSQ
-special_judge: false
-time_limit: 3 초
-memory_limit: 1024 MB
+title: "MMSQ"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "1024 MB"
 submissions: 22
 accepted: 13
 solved_users: 13
-acceptance_rate: 72.222%
-collected_at: 2026-04-17T20:27:08.658400+00:00
+acceptance_rate: "72.222%"
+collected_at: "2026-04-17T20:27:08.658400+00:00"
 ---
 
 ## 문제

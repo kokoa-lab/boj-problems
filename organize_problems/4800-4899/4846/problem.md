@@ -1,13 +1,13 @@
 ---
-title: Team Work
-special_judge: false
-time_limit: 5 초
-memory_limit: 128 MB
+title: "Team Work"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "128 MB"
 submissions: 83
 accepted: 29
 solved_users: 10
-acceptance_rate: 21.277%
-collected_at: 2026-04-17T11:09:18.551864+00:00
+acceptance_rate: "21.277%"
+collected_at: "2026-04-17T11:09:18.551864+00:00"
 ---
 
 ## 문제

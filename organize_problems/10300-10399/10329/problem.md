@@ -1,13 +1,13 @@
 ---
-title: Key to Knowledge
-special_judge: false
-time_limit: 10 초
-memory_limit: 256 MB
+title: "Key to Knowledge"
+special_judge: "false"
+time_limit: "10 초"
+memory_limit: "256 MB"
 submissions: 82
 accepted: 45
 solved_users: 38
-acceptance_rate: 56.716%
-collected_at: 2026-04-17T12:22:00.788359+00:00
+acceptance_rate: "56.716%"
+collected_at: "2026-04-17T12:22:00.788359+00:00"
 ---
 
 ## 문제

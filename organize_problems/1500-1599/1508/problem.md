@@ -1,13 +1,13 @@
 ---
-title: 레이스
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "레이스"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 2280
 accepted: 873
 solved_users: 667
-acceptance_rate: 37.748%
-collected_at: 2026-04-17T10:30:45.317403+00:00
+acceptance_rate: "37.748%"
+collected_at: "2026-04-17T10:30:45.317403+00:00"
 ---
 
 ## 문제

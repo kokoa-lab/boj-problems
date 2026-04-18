@@ -1,13 +1,13 @@
 ---
-title: Gather the Maps!
-special_judge: false
-time_limit: 8 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "Gather the Maps!"
+special_judge: "false"
+time_limit: "8 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 29
 accepted: 6
 solved_users: 6
-acceptance_rate: 33.333%
-collected_at: 2026-04-17T16:34:52.314819+00:00
+acceptance_rate: "33.333%"
+collected_at: "2026-04-17T16:34:52.314819+00:00"
 ---
 
 ## 문제

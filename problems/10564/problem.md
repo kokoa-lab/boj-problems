@@ -1,13 +1,13 @@
 ---
-title: 팔굽혀펴기
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "팔굽혀펴기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 1992
 accepted: 623
 solved_users: 422
-acceptance_rate: 30.057%
-collected_at: 2026-04-17T12:25:40.520956+00:00
+acceptance_rate: "30.057%"
+collected_at: "2026-04-17T12:25:40.520956+00:00"
 ---
 
 ## 문제

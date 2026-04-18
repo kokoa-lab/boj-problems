@@ -1,13 +1,13 @@
 ---
-title: 미국 스타일
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "미국 스타일"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 4630
 accepted: 2945
 solved_users: 2623
-acceptance_rate: 65.871%
-collected_at: 2026-04-17T10:44:08.760603+00:00
+acceptance_rate: "65.871%"
+collected_at: "2026-04-17T10:44:08.760603+00:00"
 ---
 
 ## 문제

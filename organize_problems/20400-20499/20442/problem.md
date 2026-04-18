@@ -1,13 +1,13 @@
 ---
-title: ㅋㅋ루ㅋㅋ
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "ㅋㅋ루ㅋㅋ"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 1704
 accepted: 651
 solved_users: 485
-acceptance_rate: 36.995%
-collected_at: 2026-04-17T15:36:23.915509+00:00
+acceptance_rate: "36.995%"
+collected_at: "2026-04-17T15:36:23.915509+00:00"
 ---
 
 ## 문제

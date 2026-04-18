@@ -1,13 +1,13 @@
 ---
-title: Magic Cards
-special_judge: false
-time_limit: 3 초
-memory_limit: 2048 MB
+title: "Magic Cards"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "2048 MB"
 submissions: 611
 accepted: 278
 solved_users: 155
-acceptance_rate: 41.114%
-collected_at: 2026-04-17T19:17:06.878666+00:00
+acceptance_rate: "41.114%"
+collected_at: "2026-04-17T19:17:06.878666+00:00"
 ---
 
 ## 문제

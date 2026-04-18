@@ -1,13 +1,13 @@
 ---
-title: Abandon Ship
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Abandon Ship"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 76
 accepted: 20
 solved_users: 18
-acceptance_rate: 24.324%
-collected_at: 2026-04-17T12:37:29.123747+00:00
+acceptance_rate: "24.324%"
+collected_at: "2026-04-17T12:37:29.123747+00:00"
 ---
 
 ## 문제

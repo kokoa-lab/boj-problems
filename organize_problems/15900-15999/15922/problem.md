@@ -1,13 +1,13 @@
 ---
-title: 아우으 우아으이야!!
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "아우으 우아으이야!!"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 3627
 accepted: 2356
 solved_users: 1899
-acceptance_rate: 66.608%
-collected_at: 2026-04-17T14:08:38.943965+00:00
+acceptance_rate: "66.608%"
+collected_at: "2026-04-17T14:08:38.943965+00:00"
 ---
 
 ## 문제

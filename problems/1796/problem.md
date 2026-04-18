@@ -1,13 +1,13 @@
 ---
-title: 신기한 키보드
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "신기한 키보드"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 1274
 accepted: 498
 solved_users: 367
-acceptance_rate: 40.109%
-collected_at: 2026-04-17T10:33:47.769035+00:00
+acceptance_rate: "40.109%"
+collected_at: "2026-04-17T10:33:47.769035+00:00"
 ---
 
 ## 문제

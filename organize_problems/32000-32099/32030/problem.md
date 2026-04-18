@@ -1,13 +1,13 @@
 ---
-title: 두 배
-special_judge: false
-time_limit: 3 초 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "두 배"
+special_judge: "false"
+time_limit: "3 초 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 168
 accepted: 49
 solved_users: 48
-acceptance_rate: 38.095%
-collected_at: 2026-04-17T19:41:13.065808+00:00
+acceptance_rate: "38.095%"
+collected_at: "2026-04-17T19:41:13.065808+00:00"
 ---
 
 ## 문제

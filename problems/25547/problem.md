@@ -1,13 +1,13 @@
 ---
-title: 신기한 숫자
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "신기한 숫자"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 583
 accepted: 185
 solved_users: 155
-acceptance_rate: 32.563%
-collected_at: 2026-04-17T17:28:30.782691+00:00
+acceptance_rate: "32.563%"
+collected_at: "2026-04-17T17:28:30.782691+00:00"
 ---
 
 ## 문제

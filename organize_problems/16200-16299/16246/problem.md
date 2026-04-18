@@ -1,13 +1,13 @@
 ---
-title: Magic Weapon
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Magic Weapon"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 54
 accepted: 13
 solved_users: 11
-acceptance_rate: 23.404%
-collected_at: 2026-04-17T14:14:22.768872+00:00
+acceptance_rate: "23.404%"
+collected_at: "2026-04-17T14:14:22.768872+00:00"
 ---
 
 ## 문제

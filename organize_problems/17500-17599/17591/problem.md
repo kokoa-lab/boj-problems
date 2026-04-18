@@ -1,13 +1,13 @@
 ---
-title: Research Productivity Index
-special_judge: true
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Research Productivity Index"
+special_judge: "true"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 45
 accepted: 38
 solved_users: 36
-acceptance_rate: 85.714%
-collected_at: 2026-04-17T14:42:19.010236+00:00
+acceptance_rate: "85.714%"
+collected_at: "2026-04-17T14:42:19.010236+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 얼룩말 아트
-special_judge: false
-time_limit: 1.5 초
-memory_limit: 512 MB
+title: "얼룩말 아트"
+special_judge: "false"
+time_limit: "1.5 초"
+memory_limit: "512 MB"
 submissions: 517
 accepted: 158
 solved_users: 123
-acceptance_rate: 32.283%
-collected_at: 2026-04-17T14:17:59.001541+00:00
+acceptance_rate: "32.283%"
+collected_at: "2026-04-17T14:17:59.001541+00:00"
 ---
 
 ## 문제

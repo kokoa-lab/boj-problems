@@ -1,13 +1,13 @@
 ---
-title: Simplifying the Farm
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Simplifying the Farm"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 187
 accepted: 57
 solved_users: 51
-acceptance_rate: 32.278%
-collected_at: 2026-04-17T11:18:30.172743+00:00
+acceptance_rate: "32.278%"
+collected_at: "2026-04-17T11:18:30.172743+00:00"
 ---
 
 ## 문제

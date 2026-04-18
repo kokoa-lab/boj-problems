@@ -1,13 +1,13 @@
 ---
-title: 민준이와 마산 그리고 건우
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "민준이와 마산 그리고 건우"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 4408
 accepted: 2346
 solved_users: 1868
-acceptance_rate: 52.428%
-collected_at: 2026-04-17T14:57:36.661086+00:00
+acceptance_rate: "52.428%"
+collected_at: "2026-04-17T14:57:36.661086+00:00"
 ---
 
 ## 문제

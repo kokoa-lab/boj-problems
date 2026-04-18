@@ -1,13 +1,13 @@
 ---
-title: Bribing Eve
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Bribing Eve"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 118
 accepted: 50
 solved_users: 38
-acceptance_rate: 43.678%
-collected_at: 2026-04-17T13:22:56.343014+00:00
+acceptance_rate: "43.678%"
+collected_at: "2026-04-17T13:22:56.343014+00:00"
 ---
 
 ## 문제

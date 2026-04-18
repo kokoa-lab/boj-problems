@@ -1,13 +1,13 @@
 ---
-title: False Alarm
-special_judge: false
-time_limit: 2 초
-memory_limit: 2048 MB
+title: "False Alarm"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "2048 MB"
 submissions: 143
 accepted: 104
 solved_users: 73
-acceptance_rate: 73.737%
-collected_at: 2026-04-17T20:04:39.214465+00:00
+acceptance_rate: "73.737%"
+collected_at: "2026-04-17T20:04:39.214465+00:00"
 ---
 
 ## 문제

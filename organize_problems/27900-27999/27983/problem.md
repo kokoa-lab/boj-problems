@@ -1,13 +1,13 @@
 ---
-title: 리본 (Easy)
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "리본 (Easy)"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 924
 accepted: 521
 solved_users: 445
-acceptance_rate: 56.116%
-collected_at: 2026-04-17T18:16:04.653254+00:00
+acceptance_rate: "56.116%"
+collected_at: "2026-04-17T18:16:04.653254+00:00"
 ---
 
 ## 문제

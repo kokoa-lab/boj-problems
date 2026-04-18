@@ -1,13 +1,13 @@
 ---
-title: Charming Meals
-special_judge: false
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 2048 MB
+title: "Charming Meals"
+special_judge: "false"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "2048 MB"
 submissions: 21
 accepted: 18
 solved_users: 18
-acceptance_rate: 90.000%
-collected_at: 2026-04-17T20:19:30.743020+00:00
+acceptance_rate: "90.000%"
+collected_at: "2026-04-17T20:19:30.743020+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Flipping Cards
-special_judge: false
-time_limit: 3 초
-memory_limit: 256 MB
+title: "Flipping Cards"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "256 MB"
 submissions: 65
 accepted: 40
 solved_users: 34
-acceptance_rate: 62.963%
-collected_at: 2026-04-17T12:43:21.513322+00:00
+acceptance_rate: "62.963%"
+collected_at: "2026-04-17T12:43:21.513322+00:00"
 ---
 
 ## 문제

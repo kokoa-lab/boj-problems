@@ -1,13 +1,13 @@
 ---
-title: Messed up Pictures
-special_judge: false
-time_limit: 3 초
-memory_limit: 256 MB
+title: "Messed up Pictures"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "256 MB"
 submissions: 34
 accepted: 10
 solved_users: 9
-acceptance_rate: 27.273%
-collected_at: 2026-04-17T12:46:17.372331+00:00
+acceptance_rate: "27.273%"
+collected_at: "2026-04-17T12:46:17.372331+00:00"
 ---
 
 ## 문제

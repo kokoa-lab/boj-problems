@@ -1,13 +1,13 @@
 ---
-title: 더위 피하기
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "더위 피하기"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 2018
 accepted: 375
 solved_users: 279
-acceptance_rate: 19.815%
-collected_at: 2026-04-17T14:08:52.587628+00:00
+acceptance_rate: "19.815%"
+collected_at: "2026-04-17T14:08:52.587628+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Excluded Min
-special_judge: false
-time_limit: 10 초
-memory_limit: 512 MB
+title: "Excluded Min"
+special_judge: "false"
+time_limit: "10 초"
+memory_limit: "512 MB"
 submissions: 96
 accepted: 31
 solved_users: 21
-acceptance_rate: 27.632%
-collected_at: 2026-04-17T15:47:21.586432+00:00
+acceptance_rate: "27.632%"
+collected_at: "2026-04-17T15:47:21.586432+00:00"
 ---
 
 ## 문제

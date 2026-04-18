@@ -1,13 +1,13 @@
 ---
-title: ASCII Expression
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "ASCII Expression"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 48
 accepted: 19
 solved_users: 13
-acceptance_rate: 34.211%
-collected_at: 2026-04-17T11:10:15.528720+00:00
+acceptance_rate: "34.211%"
+collected_at: "2026-04-17T11:10:15.528720+00:00"
 ---
 
 ## 문제

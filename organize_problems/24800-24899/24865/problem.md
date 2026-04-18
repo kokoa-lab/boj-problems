@@ -1,13 +1,13 @@
 ---
-title: Railroad sorting
-special_judge: true
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Railroad sorting"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 37
 accepted: 31
 solved_users: 30
-acceptance_rate: 83.333%
-collected_at: 2026-04-17T17:16:24.425515+00:00
+acceptance_rate: "83.333%"
+collected_at: "2026-04-17T17:16:24.425515+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 병약한 영정
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "병약한 영정"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 2116
 accepted: 701
 solved_users: 617
-acceptance_rate: 35.665%
-collected_at: 2026-04-17T13:40:01.687618+00:00
+acceptance_rate: "35.665%"
+collected_at: "2026-04-17T13:40:01.687618+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 바둑돌 게임
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "바둑돌 게임"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 1738
 accepted: 939
 solved_users: 829
-acceptance_rate: 57.015%
-collected_at: 2026-04-17T17:29:24.530685+00:00
+acceptance_rate: "57.015%"
+collected_at: "2026-04-17T17:29:24.530685+00:00"
 ---
 
 ## 문제

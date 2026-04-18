@@ -1,13 +1,13 @@
 ---
-title: STUDENTSKO
-special_judge: false
-time_limit: 1 초
-memory_limit: 64 MB
+title: "STUDENTSKO"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "64 MB"
 submissions: 154
 accepted: 84
 solved_users: 74
-acceptance_rate: 52.482%
-collected_at: 2026-04-17T12:25:22.434296+00:00
+acceptance_rate: "52.482%"
+collected_at: "2026-04-17T12:25:22.434296+00:00"
 ---
 
 ## 문제

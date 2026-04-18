@@ -1,13 +1,13 @@
 ---
-title: Xoracle
-special_judge: false
-time_limit: 7 초 (추가 시간 없음)
-memory_limit: 2048 MB
+title: "Xoracle"
+special_judge: "false"
+time_limit: "7 초 (추가 시간 없음)"
+memory_limit: "2048 MB"
 submissions: 46
 accepted: 24
 solved_users: 11
-acceptance_rate: 39.286%
-collected_at: 2026-04-17T20:57:25.897272+00:00
+acceptance_rate: "39.286%"
+collected_at: "2026-04-17T20:57:25.897272+00:00"
 ---
 
 ## 문제

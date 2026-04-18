@@ -1,13 +1,13 @@
 ---
-title: 누적 합과 쿼리
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "누적 합과 쿼리"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 113
 accepted: 53
 solved_users: 48
-acceptance_rate: 50.000%
-collected_at: 2026-04-17T18:13:37.056691+00:00
+acceptance_rate: "50.000%"
+collected_at: "2026-04-17T18:13:37.056691+00:00"
 ---
 
 ## 문제

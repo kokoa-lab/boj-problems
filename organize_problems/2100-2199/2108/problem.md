@@ -1,13 +1,13 @@
 ---
-title: 통계학
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "통계학"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 204094
 accepted: 55271
 solved_users: 44361
-acceptance_rate: 28.548%
-collected_at: 2026-04-17T10:38:23.709909+00:00
+acceptance_rate: "28.548%"
+collected_at: "2026-04-17T10:38:23.709909+00:00"
 ---
 
 ## 문제

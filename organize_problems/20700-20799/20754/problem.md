@@ -1,13 +1,13 @@
 ---
-title: Fix the heap 8-bit
-special_judge: true
-time_limit: 1 초
-memory_limit: 64 MB
+title: "Fix the heap 8-bit"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "64 MB"
 submissions: 46
 accepted: 8
 solved_users: 2
-acceptance_rate: 10.000%
-collected_at: 2026-04-17T15:40:56.857954+00:00
+acceptance_rate: "10.000%"
+collected_at: "2026-04-17T15:40:56.857954+00:00"
 ---
 
 ## 문제

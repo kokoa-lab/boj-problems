@@ -1,13 +1,13 @@
 ---
-title: mapa
-special_judge: true
-time_limit: 4 초
-memory_limit: 128 MB
+title: "mapa"
+special_judge: "true"
+time_limit: "4 초"
+memory_limit: "128 MB"
 submissions: 167
 accepted: 112
 solved_users: 11
-acceptance_rate: 50.000%
-collected_at: 2026-04-17T10:47:29.152589+00:00
+acceptance_rate: "50.000%"
+collected_at: "2026-04-17T10:47:29.152589+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Fastestest Function
-special_judge: true
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 2048 MB
+title: "Fastestest Function"
+special_judge: "true"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "2048 MB"
 submissions: 385
 accepted: 248
 solved_users: 210
-acceptance_rate: 66.879%
-collected_at: 2026-04-17T17:38:15.496732+00:00
+acceptance_rate: "66.879%"
+collected_at: "2026-04-17T17:38:15.496732+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Cow Routing
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Cow Routing"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 1391
 accepted: 634
 solved_users: 565
-acceptance_rate: 46.464%
-collected_at: 2026-04-17T12:27:17.587824+00:00
+acceptance_rate: "46.464%"
+collected_at: "2026-04-17T12:27:17.587824+00:00"
 ---
 
 ## 문제

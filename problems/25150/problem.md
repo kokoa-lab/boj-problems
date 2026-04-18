@@ -1,13 +1,13 @@
 ---
-title: FIBA
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "FIBA"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 14
 accepted: 13
 solved_users: 13
-acceptance_rate: 92.857%
-collected_at: 2026-04-17T17:21:49.043090+00:00
+acceptance_rate: "92.857%"
+collected_at: "2026-04-17T17:21:49.043090+00:00"
 ---
 
 ## 문제

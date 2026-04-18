@@ -1,13 +1,13 @@
 ---
-title: Jack the Mole
-special_judge: false
-time_limit: 6.5 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Jack the Mole"
+special_judge: "false"
+time_limit: "6.5 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 194
 accepted: 78
 solved_users: 49
-acceptance_rate: 40.164%
-collected_at: 2026-04-17T16:47:03.476133+00:00
+acceptance_rate: "40.164%"
+collected_at: "2026-04-17T16:47:03.476133+00:00"
 ---
 
 ## 문제

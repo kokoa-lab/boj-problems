@@ -1,13 +1,13 @@
 ---
-title: Yalda
-special_judge: false
-time_limit: 1 초
-memory_limit: 2048 MB
+title: "Yalda"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "2048 MB"
 submissions: 664
 accepted: 514
 solved_users: 491
-acceptance_rate: 78.309%
-collected_at: 2026-04-17T20:10:59.432837+00:00
+acceptance_rate: "78.309%"
+collected_at: "2026-04-17T20:10:59.432837+00:00"
 ---
 
 ## 문제

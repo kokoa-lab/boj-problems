@@ -1,13 +1,13 @@
 ---
-title: 쇼핑몰
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "쇼핑몰"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 5887
 accepted: 2226
 solved_users: 1552
-acceptance_rate: 38.397%
-collected_at: 2026-04-17T14:42:37.937971+00:00
+acceptance_rate: "38.397%"
+collected_at: "2026-04-17T14:42:37.937971+00:00"
 ---
 
 ## 문제

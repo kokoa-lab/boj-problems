@@ -1,13 +1,13 @@
 ---
-title: 특별한 학교 이름
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "특별한 학교 이름"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 9804
 accepted: 6749
 solved_users: 6478
-acceptance_rate: 70.344%
-collected_at: 2026-04-17T18:13:45.643477+00:00
+acceptance_rate: "70.344%"
+collected_at: "2026-04-17T18:13:45.643477+00:00"
 ---
 
 ## 문제

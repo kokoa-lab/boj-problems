@@ -1,13 +1,13 @@
 ---
-title: Victorious Coloring (Hard Version)
-special_judge: false
-time_limit: 3 초
-memory_limit: 2048 MB
+title: "Victorious Coloring (Hard Version)"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "2048 MB"
 submissions: 10
 accepted: 9
 solved_users: 7
-acceptance_rate: 100.000%
-collected_at: 2026-04-17T20:44:35.120614+00:00
+acceptance_rate: "100.000%"
+collected_at: "2026-04-17T20:44:35.120614+00:00"
 ---
 
 ## 문제

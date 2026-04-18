@@ -1,13 +1,13 @@
 ---
-title: Balloon Connect-the-Dots
-special_judge: true
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Balloon Connect-the-Dots"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 12
 accepted: 8
 solved_users: 4
-acceptance_rate: 57.143%
-collected_at: 2026-04-17T13:52:51.419673+00:00
+acceptance_rate: "57.143%"
+collected_at: "2026-04-17T13:52:51.419673+00:00"
 ---
 
 ## 문제

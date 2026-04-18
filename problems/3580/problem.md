@@ -1,13 +1,13 @@
 ---
-title: Just Too Lucky
-special_judge: false
-time_limit: 3 초
-memory_limit: 256 MB
+title: "Just Too Lucky"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "256 MB"
 submissions: 36
 accepted: 16
 solved_users: 12
-acceptance_rate: 57.143%
-collected_at: 2026-04-17T10:49:58.027366+00:00
+acceptance_rate: "57.143%"
+collected_at: "2026-04-17T10:49:58.027366+00:00"
 ---
 
 ## 문제

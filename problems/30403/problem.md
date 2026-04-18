@@ -1,13 +1,13 @@
 ---
-title: 무지개 만들기
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "무지개 만들기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 1397
 accepted: 804
 solved_users: 724
-acceptance_rate: 59.687%
-collected_at: 2026-04-17T19:06:09.030870+00:00
+acceptance_rate: "59.687%"
+collected_at: "2026-04-17T19:06:09.030870+00:00"
 ---
 
 ## 문제

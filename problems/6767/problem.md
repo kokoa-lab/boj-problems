@@ -1,13 +1,13 @@
 ---
-title: A Coin Game
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "A Coin Game"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 18
 accepted: 14
 solved_users: 14
-acceptance_rate: 77.778%
-collected_at: 2026-04-17T11:36:31.021204+00:00
+acceptance_rate: "77.778%"
+collected_at: "2026-04-17T11:36:31.021204+00:00"
 ---
 
 ## 문제

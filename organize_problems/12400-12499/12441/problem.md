@@ -1,13 +1,13 @@
 ---
-title: 약속장소 정하기 (Small)
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "약속장소 정하기 (Small)"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 347
 accepted: 135
 solved_users: 111
-acceptance_rate: 38.676%
-collected_at: 2026-04-17T12:55:29.429695+00:00
+acceptance_rate: "38.676%"
+collected_at: "2026-04-17T12:55:29.429695+00:00"
 ---
 
 ## 문제

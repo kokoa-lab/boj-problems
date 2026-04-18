@@ -1,13 +1,13 @@
 ---
-title: Monotonicity
-special_judge: true
-time_limit: 3 초
-memory_limit: 512 MB
+title: "Monotonicity"
+special_judge: "true"
+time_limit: "3 초"
+memory_limit: "512 MB"
 submissions: 21
 accepted: 8
 solved_users: 8
-acceptance_rate: 38.095%
-collected_at: 2026-04-17T11:57:06.494842+00:00
+acceptance_rate: "38.095%"
+collected_at: "2026-04-17T11:57:06.494842+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 팔정도 모니터링
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "팔정도 모니터링"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 152
 accepted: 73
 solved_users: 65
-acceptance_rate: 50.388%
-collected_at: 2026-04-17T20:47:05.854512+00:00
+acceptance_rate: "50.388%"
+collected_at: "2026-04-17T20:47:05.854512+00:00"
 ---
 
 ## 문제

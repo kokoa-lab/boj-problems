@@ -1,13 +1,13 @@
 ---
-title: 비밀번호 찾기
-special_judge: false
-time_limit: 5 초
-memory_limit: 256 MB
+title: "비밀번호 찾기"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "256 MB"
 submissions: 40487
 accepted: 29066
 solved_users: 24731
-acceptance_rate: 72.444%
-collected_at: 2026-04-17T14:33:28.449813+00:00
+acceptance_rate: "72.444%"
+collected_at: "2026-04-17T14:33:28.449813+00:00"
 ---
 
 ## 문제

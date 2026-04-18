@@ -1,13 +1,13 @@
 ---
-title: Very Sparse Table
-special_judge: false
-time_limit: 30 초 (추가 시간 없음)
-memory_limit: 2048 MB
+title: "Very Sparse Table"
+special_judge: "false"
+time_limit: "30 초 (추가 시간 없음)"
+memory_limit: "2048 MB"
 submissions: 16
 accepted: 2
 solved_users: 2
-acceptance_rate: 12.500%
-collected_at: 2026-04-17T20:14:27.352147+00:00
+acceptance_rate: "12.500%"
+collected_at: "2026-04-17T20:14:27.352147+00:00"
 ---
 
 ## 문제

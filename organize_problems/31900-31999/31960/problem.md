@@ -1,13 +1,13 @@
 ---
-title: Square of Triangles
-special_judge: false
-time_limit: 5 초 (추가 시간 없음)
-memory_limit: 2048 MB (추가 메모리 없음)
+title: "Square of Triangles"
+special_judge: "false"
+time_limit: "5 초 (추가 시간 없음)"
+memory_limit: "2048 MB (추가 메모리 없음)"
 submissions: 10
 accepted: 8
 solved_users: 7
-acceptance_rate: 100.000%
-collected_at: 2026-04-17T19:39:50.972925+00:00
+acceptance_rate: "100.000%"
+collected_at: "2026-04-17T19:39:50.972925+00:00"
 ---
 
 ## 문제

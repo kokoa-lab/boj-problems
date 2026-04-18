@@ -1,13 +1,13 @@
 ---
-title: 바이러스
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "바이러스"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 2980
 accepted: 1131
 solved_users: 851
-acceptance_rate: 40.659%
-collected_at: 2026-04-17T11:50:46.925731+00:00
+acceptance_rate: "40.659%"
+collected_at: "2026-04-17T11:50:46.925731+00:00"
 ---
 
 ## 문제

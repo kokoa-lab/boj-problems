@@ -1,13 +1,13 @@
 ---
-title: 길면 기차, 기차는 빨라, 빠른 것은 비행기
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "길면 기차, 기차는 빨라, 빠른 것은 비행기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 2472
 accepted: 1077
 solved_users: 938
-acceptance_rate: 44.582%
-collected_at: 2026-04-17T12:10:33.642506+00:00
+acceptance_rate: "44.582%"
+collected_at: "2026-04-17T12:10:33.642506+00:00"
 ---
 
 ## 문제

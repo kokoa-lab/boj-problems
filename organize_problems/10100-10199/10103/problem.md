@@ -1,13 +1,13 @@
 ---
-title: 주사위 게임
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "주사위 게임"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 13647
 accepted: 11179
 solved_users: 10604
-acceptance_rate: 83.019%
-collected_at: 2026-04-17T12:19:04.328352+00:00
+acceptance_rate: "83.019%"
+collected_at: "2026-04-17T12:19:04.328352+00:00"
 ---
 
 ## 문제

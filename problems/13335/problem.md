@@ -1,13 +1,13 @@
 ---
-title: 트럭
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "트럭"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 22255
 accepted: 12621
 solved_users: 9987
-acceptance_rate: 57.886%
-collected_at: 2026-04-17T13:11:44.596399+00:00
+acceptance_rate: "57.886%"
+collected_at: "2026-04-17T13:11:44.596399+00:00"
 ---
 
 ## 문제

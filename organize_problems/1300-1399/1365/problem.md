@@ -1,13 +1,13 @@
 ---
-title: 꼬인 전깃줄
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "꼬인 전깃줄"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 9045
 accepted: 5116
 solved_users: 4189
-acceptance_rate: 58.579%
-collected_at: 2026-04-17T10:29:40.987543+00:00
+acceptance_rate: "58.579%"
+collected_at: "2026-04-17T10:29:40.987543+00:00"
 ---
 
 ## 문제

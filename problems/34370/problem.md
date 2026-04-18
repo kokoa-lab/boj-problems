@@ -1,13 +1,13 @@
 ---
-title: Fixing Figures
-special_judge: false
-time_limit: 1 초
-memory_limit: 2048 MB
+title: "Fixing Figures"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "2048 MB"
 submissions: 25
 accepted: 13
 solved_users: 10
-acceptance_rate: 45.455%
-collected_at: 2026-04-17T20:36:48.452558+00:00
+acceptance_rate: "45.455%"
+collected_at: "2026-04-17T20:36:48.452558+00:00"
 ---
 
 ## 문제

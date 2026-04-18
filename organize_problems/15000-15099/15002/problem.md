@@ -1,13 +1,13 @@
 ---
-title: Soccer Skills
-special_judge: true
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Soccer Skills"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 45
 accepted: 25
 solved_users: 22
-acceptance_rate: 61.111%
-collected_at: 2026-04-17T13:48:01.289901+00:00
+acceptance_rate: "61.111%"
+collected_at: "2026-04-17T13:48:01.289901+00:00"
 ---
 
 ## 문제

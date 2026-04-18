@@ -1,13 +1,13 @@
 ---
-title: SMUPC 계산기
-special_judge: false
-time_limit: 1.2 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "SMUPC 계산기"
+special_judge: "false"
+time_limit: "1.2 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 1773
 accepted: 536
 solved_users: 348
-acceptance_rate: 27.423%
-collected_at: 2026-04-17T16:05:56.914709+00:00
+acceptance_rate: "27.423%"
+collected_at: "2026-04-17T16:05:56.914709+00:00"
 ---
 
 ## 문제

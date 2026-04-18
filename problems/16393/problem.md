@@ -1,13 +1,13 @@
 ---
-title: Lost Map
-special_judge: true
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Lost Map"
+special_judge: "true"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 288
 accepted: 192
 solved_users: 139
-acceptance_rate: 68.137%
-collected_at: 2026-04-17T14:17:11.480933+00:00
+acceptance_rate: "68.137%"
+collected_at: "2026-04-17T14:17:11.480933+00:00"
 ---
 
 ## 문제

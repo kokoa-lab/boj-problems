@@ -1,13 +1,13 @@
 ---
-title: Matrix Transformation
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Matrix Transformation"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 71
 accepted: 62
 solved_users: 58
-acceptance_rate: 89.231%
-collected_at: 2026-04-17T12:13:33.454179+00:00
+acceptance_rate: "89.231%"
+collected_at: "2026-04-17T12:13:33.454179+00:00"
 ---
 
 ## 문제

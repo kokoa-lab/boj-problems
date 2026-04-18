@@ -1,13 +1,13 @@
 ---
-title: 정렬된 프랙탈 수열
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "정렬된 프랙탈 수열"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 117
 accepted: 19
 solved_users: 18
-acceptance_rate: 20.690%
-collected_at: 2026-04-17T19:29:22.550965+00:00
+acceptance_rate: "20.690%"
+collected_at: "2026-04-17T19:29:22.550965+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 양팔저울
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "양팔저울"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 8932
 accepted: 3644
 solved_users: 2560
-acceptance_rate: 41.164%
-collected_at: 2026-04-17T14:42:41.536822+00:00
+acceptance_rate: "41.164%"
+collected_at: "2026-04-17T14:42:41.536822+00:00"
 ---
 
 ## 문제

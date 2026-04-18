@@ -1,13 +1,13 @@
 ---
-title: Christmas Gifts
-special_judge: false
-time_limit: 3 초
-memory_limit: 128 MB
+title: "Christmas Gifts"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "128 MB"
 submissions: 52
 accepted: 16
 solved_users: 10
-acceptance_rate: 25.641%
-collected_at: 2026-04-17T10:50:04.123355+00:00
+acceptance_rate: "25.641%"
+collected_at: "2026-04-17T10:50:04.123355+00:00"
 ---
 
 ## 문제

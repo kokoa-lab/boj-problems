@@ -1,13 +1,13 @@
 ---
-title: 민혁이의 게임 파티
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "민혁이의 게임 파티"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 291
 accepted: 131
 solved_users: 90
-acceptance_rate: 42.254%
-collected_at: 2026-04-17T14:27:00.310657+00:00
+acceptance_rate: "42.254%"
+collected_at: "2026-04-17T14:27:00.310657+00:00"
 ---
 
 ## 문제

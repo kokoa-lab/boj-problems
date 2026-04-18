@@ -1,13 +1,13 @@
 ---
-title: Inquiry II
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Inquiry II"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 167
 accepted: 72
 solved_users: 65
-acceptance_rate: 48.872%
-collected_at: 2026-04-17T14:47:13.795727+00:00
+acceptance_rate: "48.872%"
+collected_at: "2026-04-17T14:47:13.795727+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 로맨틱 왕
-special_judge: false
-time_limit: 10 초
-memory_limit: 128 MB
+title: "로맨틱 왕"
+special_judge: "false"
+time_limit: "10 초"
+memory_limit: "128 MB"
 submissions: 378
 accepted: 36
 solved_users: 27
-acceptance_rate: 10.112%
-collected_at: 2026-04-17T10:44:47.519339+00:00
+acceptance_rate: "10.112%"
+collected_at: "2026-04-17T10:44:47.519339+00:00"
 ---
 
 ## 문제

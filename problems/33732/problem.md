@@ -1,13 +1,13 @@
 ---
-title: The Best Lineup
-special_judge: false
-time_limit: 2 초
-memory_limit: 2048 MB
+title: "The Best Lineup"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "2048 MB"
 submissions: 123
 accepted: 51
 solved_users: 41
-acceptance_rate: 49.398%
-collected_at: 2026-04-17T20:22:28.677055+00:00
+acceptance_rate: "49.398%"
+collected_at: "2026-04-17T20:22:28.677055+00:00"
 ---
 
 ## 문제

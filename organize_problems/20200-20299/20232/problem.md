@@ -1,13 +1,13 @@
 ---
-title: Archivist
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Archivist"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 2420
 accepted: 1957
 solved_users: 1852
-acceptance_rate: 81.407%
-collected_at: 2026-04-17T15:33:21.933479+00:00
+acceptance_rate: "81.407%"
+collected_at: "2026-04-17T15:33:21.933479+00:00"
 ---
 
 ## 문제

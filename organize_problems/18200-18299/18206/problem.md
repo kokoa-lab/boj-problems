@@ -1,13 +1,13 @@
 ---
-title: Soft Passwords
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "Soft Passwords"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 131
 accepted: 76
 solved_users: 72
-acceptance_rate: 58.065%
-collected_at: 2026-04-17T14:57:13.095024+00:00
+acceptance_rate: "58.065%"
+collected_at: "2026-04-17T14:57:13.095024+00:00"
 ---
 
 ## 문제

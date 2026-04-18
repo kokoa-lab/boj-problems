@@ -1,13 +1,13 @@
 ---
-title: Horrendous Mistake
-special_judge: false
-time_limit: 8 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Horrendous Mistake"
+special_judge: "false"
+time_limit: "8 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 8
 accepted: 7
 solved_users: 6
-acceptance_rate: 85.714%
-collected_at: 2026-04-17T19:56:57.564369+00:00
+acceptance_rate: "85.714%"
+collected_at: "2026-04-17T19:56:57.564369+00:00"
 ---
 
 ## 문제
@@ -16,8 +16,31 @@ While looking through the Grand Archive of Problematic Code, you found this horr
 
 |  |  |
 | --- | --- |
-| ```  long long sum(vector<int> a) {     long long ans = 0;     for (int x : a)         ans += a[x];     return ans; } ``` | ```  def sum(a: list[int]) -> int:     ans = 0     for x in a:         ans += a[x]     return ans ``` |
-| ```  long sum(int[] a) {     long ans = 0;     for (int x : a)         ans += a[x];     return ans; } ``` | ```  fun sum(a: List<Int>): Long {     var ans = 0L     for (x in a)         ans += a[x]     return ans } ``` |
+| ``` 
+ long long sum(vector<int> a) {
+     long long ans = 0;
+     for (int x : a)
+         ans += a[x];
+     return ans;
+ } ``` | ``` 
+ def sum(a: list[int]) -> int:
+     ans = 0
+     for x in a:
+         ans += a[x]
+     return ans ``` |
+| ``` 
+ long sum(int[] a) {
+     long ans = 0;
+     for (int x : a)
+         ans += a[x];
+     return ans;
+ } ``` | ``` 
+ fun sum(a: List<Int>): Long {
+     var ans = 0L
+     for (x in a)
+         ans += a[x]
+     return ans
+ } ``` |
 
 Figure H.1: The function `sum` intends to calculate the sum of an array, but `x` refers to a value in the array, instead of an index. The code is shown in C++ and Python in the top row, and Java and Kotlin in the bottom row.
 

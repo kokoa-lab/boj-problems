@@ -1,13 +1,13 @@
 ---
-title: 네트워크 연결
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "네트워크 연결"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 5321
 accepted: 1444
 solved_users: 979
-acceptance_rate: 24.766%
-collected_at: 2026-04-17T10:51:57.237358+00:00
+acceptance_rate: "24.766%"
+collected_at: "2026-04-17T10:51:57.237358+00:00"
 ---
 
 ## 문제

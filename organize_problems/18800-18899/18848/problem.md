@@ -1,13 +1,13 @@
 ---
-title: Capital City
-special_judge: false
-time_limit: 2.5 초
-memory_limit: 512 MB
+title: "Capital City"
+special_judge: "false"
+time_limit: "2.5 초"
+memory_limit: "512 MB"
 submissions: 169
 accepted: 51
 solved_users: 46
-acceptance_rate: 31.944%
-collected_at: 2026-04-17T15:10:16.379698+00:00
+acceptance_rate: "31.944%"
+collected_at: "2026-04-17T15:10:16.379698+00:00"
 ---
 
 ## 문제

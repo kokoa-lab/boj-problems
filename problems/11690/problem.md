@@ -1,13 +1,13 @@
 ---
-title: LCM(1, 2, ..., n)
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "LCM(1, 2, ..., n)"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 2454
 accepted: 834
 solved_users: 502
-acceptance_rate: 31.258%
-collected_at: 2026-04-17T12:44:06.443046+00:00
+acceptance_rate: "31.258%"
+collected_at: "2026-04-17T12:44:06.443046+00:00"
 ---
 
 ## 문제

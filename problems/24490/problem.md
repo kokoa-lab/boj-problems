@@ -1,13 +1,13 @@
 ---
-title: Tests for Haybales
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Tests for Haybales"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 131
 accepted: 52
 solved_users: 44
-acceptance_rate: 40.000%
-collected_at: 2026-04-17T17:10:07.662094+00:00
+acceptance_rate: "40.000%"
+collected_at: "2026-04-17T17:10:07.662094+00:00"
 ---
 
 ## 문제

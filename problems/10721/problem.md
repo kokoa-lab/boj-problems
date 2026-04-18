@@ -1,13 +1,13 @@
 ---
-title: Revenge of the ants 2
-special_judge: false
-time_limit: 5 초
-memory_limit: 256 MB
+title: "Revenge of the ants 2"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "256 MB"
 submissions: 144
 accepted: 26
 solved_users: 19
-acceptance_rate: 26.027%
-collected_at: 2026-04-17T12:27:58.493747+00:00
+acceptance_rate: "26.027%"
+collected_at: "2026-04-17T12:27:58.493747+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Painters' Duel
-special_judge: false
-time_limit: 40 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Painters' Duel"
+special_judge: "false"
+time_limit: "40 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 17
 accepted: 8
 solved_users: 8
-acceptance_rate: 50.000%
-collected_at: 2026-04-17T16:57:54.439822+00:00
+acceptance_rate: "50.000%"
+collected_at: "2026-04-17T16:57:54.439822+00:00"
 ---
 
 ## 문제

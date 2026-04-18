@@ -1,13 +1,13 @@
 ---
-title: Infinite Pattern Matching
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Infinite Pattern Matching"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 12
 accepted: 3
 solved_users: 3
-acceptance_rate: 60.000%
-collected_at: 2026-04-17T15:12:52.458692+00:00
+acceptance_rate: "60.000%"
+collected_at: "2026-04-17T15:12:52.458692+00:00"
 ---
 
 ## 문제

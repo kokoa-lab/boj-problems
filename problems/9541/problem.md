@@ -1,13 +1,13 @@
 ---
-title: 역사 시간
-special_judge: true
-time_limit: 10 초
-memory_limit: 128 MB
+title: "역사 시간"
+special_judge: "true"
+time_limit: "10 초"
+memory_limit: "128 MB"
 submissions: 81
 accepted: 21
 solved_users: 15
-acceptance_rate: 31.915%
-collected_at: 2026-04-17T12:11:06.030094+00:00
+acceptance_rate: "31.915%"
+collected_at: "2026-04-17T12:11:06.030094+00:00"
 ---
 
 ## 문제

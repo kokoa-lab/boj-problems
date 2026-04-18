@@ -1,13 +1,13 @@
 ---
-title: Legendary Dango Maker 4
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Legendary Dango Maker 4"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 24
 accepted: 16
 solved_users: 15
-acceptance_rate: 93.750%
-collected_at: 2026-04-17T15:10:24.511513+00:00
+acceptance_rate: "93.750%"
+collected_at: "2026-04-17T15:10:24.511513+00:00"
 ---
 
 ## 문제

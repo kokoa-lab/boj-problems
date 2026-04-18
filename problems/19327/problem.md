@@ -1,13 +1,13 @@
 ---
-title: Elevator
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Elevator"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 34
 accepted: 22
 solved_users: 20
-acceptance_rate: 62.500%
-collected_at: 2026-04-17T15:17:19.440473+00:00
+acceptance_rate: "62.500%"
+collected_at: "2026-04-17T15:17:19.440473+00:00"
 ---
 
 ## 문제

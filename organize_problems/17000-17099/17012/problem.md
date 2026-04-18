@@ -1,13 +1,13 @@
 ---
-title: Rule of Three
-special_judge: true
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Rule of Three"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 13
 accepted: 6
 solved_users: 5
-acceptance_rate: 62.500%
-collected_at: 2026-04-17T14:27:36.425127+00:00
+acceptance_rate: "62.500%"
+collected_at: "2026-04-17T14:27:36.425127+00:00"
 ---
 
 ## 문제

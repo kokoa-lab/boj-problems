@@ -1,13 +1,13 @@
 ---
-title: 여중생 파댕이와 공부를
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "여중생 파댕이와 공부를"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 813
 accepted: 431
 solved_users: 369
-acceptance_rate: 55.740%
-collected_at: 2026-04-17T19:19:09.391814+00:00
+acceptance_rate: "55.740%"
+collected_at: "2026-04-17T19:19:09.391814+00:00"
 ---
 
 ## 문제

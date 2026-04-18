@@ -1,13 +1,13 @@
 ---
-title: Chill and Netflix
-special_judge: false
-time_limit: 2 초
-memory_limit: 2048 MB
+title: "Chill and Netflix"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "2048 MB"
 submissions: 9
 accepted: 7
 solved_users: 6
-acceptance_rate: 75.000%
-collected_at: 2026-04-17T20:12:01.292276+00:00
+acceptance_rate: "75.000%"
+collected_at: "2026-04-17T20:12:01.292276+00:00"
 ---
 
 ## 문제

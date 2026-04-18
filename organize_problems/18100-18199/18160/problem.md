@@ -1,13 +1,13 @@
 ---
-title: 숫자 야구 F
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "숫자 야구 F"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 277
 accepted: 78
 solved_users: 32
-acceptance_rate: 16.080%
-collected_at: 2026-04-17T14:56:38.592842+00:00
+acceptance_rate: "16.080%"
+collected_at: "2026-04-17T14:56:38.592842+00:00"
 ---
 
 ## 문제

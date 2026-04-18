@@ -1,13 +1,13 @@
 ---
-title: SWAPC
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "SWAPC"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 900
 accepted: 535
 solved_users: 489
-acceptance_rate: 62.293%
-collected_at: 2026-04-17T19:44:27.722810+00:00
+acceptance_rate: "62.293%"
+collected_at: "2026-04-17T19:44:27.722810+00:00"
 ---
 
 ## 문제

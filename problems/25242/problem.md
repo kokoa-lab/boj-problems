@@ -1,13 +1,13 @@
 ---
-title: 가희와 지하철
-special_judge: false
-time_limit: 1.5 초
-memory_limit: 512 MB
+title: "가희와 지하철"
+special_judge: "false"
+time_limit: "1.5 초"
+memory_limit: "512 MB"
 submissions: 363
 accepted: 48
 solved_users: 34
-acceptance_rate: 12.274%
-collected_at: 2026-04-17T17:23:11.881643+00:00
+acceptance_rate: "12.274%"
+collected_at: "2026-04-17T17:23:11.881643+00:00"
 ---
 
 ## 문제

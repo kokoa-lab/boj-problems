@@ -1,13 +1,13 @@
 ---
-title: 워크샵으로 가는 버스에 타고 안녕.
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "워크샵으로 가는 버스에 타고 안녕."
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 234
 accepted: 58
 solved_users: 45
-acceptance_rate: 27.439%
-collected_at: 2026-04-17T19:42:56.342863+00:00
+acceptance_rate: "27.439%"
+collected_at: "2026-04-17T19:42:56.342863+00:00"
 ---
 
 ## 문제

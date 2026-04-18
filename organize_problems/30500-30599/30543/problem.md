@@ -1,13 +1,13 @@
 ---
-title: Bombardment
-special_judge: false
-time_limit: 7 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Bombardment"
+special_judge: "false"
+time_limit: "7 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 17
 accepted: 16
 solved_users: 14
-acceptance_rate: 93.333%
-collected_at: 2026-04-17T19:09:03.541289+00:00
+acceptance_rate: "93.333%"
+collected_at: "2026-04-17T19:09:03.541289+00:00"
 ---
 
 ## 문제

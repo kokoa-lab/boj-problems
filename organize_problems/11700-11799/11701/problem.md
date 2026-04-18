@@ -1,13 +1,13 @@
 ---
-title: Longest Lane
-special_judge: true
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Longest Lane"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 43
 accepted: 9
 solved_users: 8
-acceptance_rate: 36.364%
-collected_at: 2026-04-17T12:44:16.202648+00:00
+acceptance_rate: "36.364%"
+collected_at: "2026-04-17T12:44:16.202648+00:00"
 ---
 
 ## 문제

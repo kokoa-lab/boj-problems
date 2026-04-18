@@ -1,13 +1,13 @@
 ---
-title: Common Anagrams
-special_judge: false
-time_limit: 20 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Common Anagrams"
+special_judge: "false"
+time_limit: "20 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 45
 accepted: 39
 solved_users: 35
-acceptance_rate: 85.366%
-collected_at: 2026-04-17T17:00:03.530378+00:00
+acceptance_rate: "85.366%"
+collected_at: "2026-04-17T17:00:03.530378+00:00"
 ---
 
 ## 문제

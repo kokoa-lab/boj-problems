@@ -1,13 +1,13 @@
 ---
-title: 監獄
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "監獄"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 63
 accepted: 36
 solved_users: 27
-acceptance_rate: 58.696%
-collected_at: 2026-04-17T16:20:24.178419+00:00
+acceptance_rate: "58.696%"
+collected_at: "2026-04-17T16:20:24.178419+00:00"
 ---
 
 ## 문제

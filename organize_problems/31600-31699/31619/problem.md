@@ -1,13 +1,13 @@
 ---
-title: 買い物 2 (Shopping 2)
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "買い物 2 (Shopping 2)"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 152
 accepted: 55
 solved_users: 48
-acceptance_rate: 64.865%
-collected_at: 2026-04-17T19:32:07.189028+00:00
+acceptance_rate: "64.865%"
+collected_at: "2026-04-17T19:32:07.189028+00:00"
 ---
 
 ## 문제

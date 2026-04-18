@@ -1,13 +1,13 @@
 ---
-title: ntopia
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "ntopia"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 149
 accepted: 102
 solved_users: 70
-acceptance_rate: 76.087%
-collected_at: 2026-04-17T13:05:42.874805+00:00
+acceptance_rate: "76.087%"
+collected_at: "2026-04-17T13:05:42.874805+00:00"
 ---
 
 ## 문제

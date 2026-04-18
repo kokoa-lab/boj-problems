@@ -1,13 +1,13 @@
 ---
-title: Lunch Queue
-special_judge: false
-time_limit: 2.5 초
-memory_limit: 512 MB
+title: "Lunch Queue"
+special_judge: "false"
+time_limit: "2.5 초"
+memory_limit: "512 MB"
 submissions: 84
 accepted: 19
 solved_users: 16
-acceptance_rate: 26.230%
-collected_at: 2026-04-17T15:16:17.264644+00:00
+acceptance_rate: "26.230%"
+collected_at: "2026-04-17T15:16:17.264644+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 맑은 하늘 프로젝트
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "맑은 하늘 프로젝트"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 221
 accepted: 31
 solved_users: 22
-acceptance_rate: 11.518%
-collected_at: 2026-04-17T18:23:30.616202+00:00
+acceptance_rate: "11.518%"
+collected_at: "2026-04-17T18:23:30.616202+00:00"
 ---
 
 ## 문제

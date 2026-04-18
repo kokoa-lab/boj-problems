@@ -1,13 +1,13 @@
 ---
-title: 원숭이 땅을 옮기다
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "원숭이 땅을 옮기다"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 441
 accepted: 119
 solved_users: 85
-acceptance_rate: 26.480%
-collected_at: 2026-04-17T10:30:07.353903+00:00
+acceptance_rate: "26.480%"
+collected_at: "2026-04-17T10:30:07.353903+00:00"
 ---
 
 ## 문제

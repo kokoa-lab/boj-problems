@@ -1,13 +1,13 @@
 ---
-title: Keys and Locks Boolean Logic
-special_judge: true
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Keys and Locks Boolean Logic"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 64
 accepted: 7
 solved_users: 7
-acceptance_rate: 10.938%
-collected_at: 2026-04-17T15:33:35.063631+00:00
+acceptance_rate: "10.938%"
+collected_at: "2026-04-17T15:33:35.063631+00:00"
 ---
 
 ## 문제

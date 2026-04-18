@@ -1,13 +1,13 @@
 ---
-title: Drunk Passenger
-special_judge: true
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Drunk Passenger"
+special_judge: "true"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 357
 accepted: 274
 solved_users: 182
-acceptance_rate: 78.112%
-collected_at: 2026-04-17T16:46:29.406735+00:00
+acceptance_rate: "78.112%"
+collected_at: "2026-04-17T16:46:29.406735+00:00"
 ---
 
 ## 문제

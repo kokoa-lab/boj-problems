@@ -1,13 +1,13 @@
 ---
-title: 징검다리 뒤로 건너기
-special_judge: false
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "징검다리 뒤로 건너기"
+special_judge: "false"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 85
 accepted: 55
 solved_users: 47
-acceptance_rate: 72.308%
-collected_at: 2026-04-17T19:00:32.165145+00:00
+acceptance_rate: "72.308%"
+collected_at: "2026-04-17T19:00:32.165145+00:00"
 ---
 
 ## 문제

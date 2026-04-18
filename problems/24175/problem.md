@@ -1,13 +1,13 @@
 ---
-title: Tokyo2020
-special_judge: false
-time_limit: 8 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Tokyo2020"
+special_judge: "false"
+time_limit: "8 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 153
 accepted: 130
 solved_users: 98
-acceptance_rate: 82.353%
-collected_at: 2026-04-17T17:05:30.302244+00:00
+acceptance_rate: "82.353%"
+collected_at: "2026-04-17T17:05:30.302244+00:00"
 ---
 
 ## 문제

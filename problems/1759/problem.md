@@ -1,13 +1,13 @@
 ---
-title: 암호 만들기
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "암호 만들기"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 96056
 accepted: 46737
 solved_users: 32129
-acceptance_rate: 45.611%
-collected_at: 2026-04-17T10:33:14.217852+00:00
+acceptance_rate: "45.611%"
+collected_at: "2026-04-17T10:33:14.217852+00:00"
 ---
 
 ## 문제

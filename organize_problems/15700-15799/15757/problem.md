@@ -1,13 +1,13 @@
 ---
-title: Out of Sorts
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Out of Sorts"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 256
 accepted: 80
 solved_users: 67
-acceptance_rate: 33.838%
-collected_at: 2026-04-17T14:05:50.099742+00:00
+acceptance_rate: "33.838%"
+collected_at: "2026-04-17T14:05:50.099742+00:00"
 ---
 
 ## 문제

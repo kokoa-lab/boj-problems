@@ -1,13 +1,13 @@
 ---
-title: 문장
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "문장"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 641
 accepted: 278
 solved_users: 201
-acceptance_rate: 42.405%
-collected_at: 2026-04-17T12:12:08.052621+00:00
+acceptance_rate: "42.405%"
+collected_at: "2026-04-17T12:12:08.052621+00:00"
 ---
 
 ## 문제

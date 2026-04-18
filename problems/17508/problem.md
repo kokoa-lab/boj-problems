@@ -1,13 +1,13 @@
 ---
-title: 6789
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "6789"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 469
 accepted: 193
 solved_users: 167
-acceptance_rate: 40.241%
-collected_at: 2026-04-17T14:40:47.165756+00:00
+acceptance_rate: "40.241%"
+collected_at: "2026-04-17T14:40:47.165756+00:00"
 ---
 
 ## 문제

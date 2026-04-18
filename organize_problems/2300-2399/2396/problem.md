@@ -1,13 +1,13 @@
 ---
-title: 같은 길이 막대기 만들기
-special_judge: false
-time_limit: 3 초
-memory_limit: 128 MB
+title: "같은 길이 막대기 만들기"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "128 MB"
 submissions: 1384
 accepted: 76
 solved_users: 34
-acceptance_rate: 9.019%
-collected_at: 2026-04-17T10:41:18.696562+00:00
+acceptance_rate: "9.019%"
+collected_at: "2026-04-17T10:41:18.696562+00:00"
 ---
 
 ## 문제

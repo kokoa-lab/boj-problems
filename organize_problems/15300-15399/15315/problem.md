@@ -1,13 +1,13 @@
 ---
-title: 태풍의 아들 KDH
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "태풍의 아들 KDH"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 227
 accepted: 88
 solved_users: 58
-acceptance_rate: 34.731%
-collected_at: 2026-04-17T13:56:55.866145+00:00
+acceptance_rate: "34.731%"
+collected_at: "2026-04-17T13:56:55.866145+00:00"
 ---
 
 ## 문제

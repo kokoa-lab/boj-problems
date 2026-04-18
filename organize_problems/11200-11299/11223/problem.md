@@ -1,13 +1,13 @@
 ---
-title: Magic Checkerboard
-special_judge: false
-time_limit: 5 초
-memory_limit: 256 MB
+title: "Magic Checkerboard"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "256 MB"
 submissions: 76
 accepted: 23
 solved_users: 20
-acceptance_rate: 28.986%
-collected_at: 2026-04-17T12:38:15.985735+00:00
+acceptance_rate: "28.986%"
+collected_at: "2026-04-17T12:38:15.985735+00:00"
 ---
 
 ## 문제

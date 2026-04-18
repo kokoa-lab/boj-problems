@@ -1,13 +1,13 @@
 ---
-title: Traffic Congestion
-special_judge: false
-time_limit: 3 초
-memory_limit: 256 MB
+title: "Traffic Congestion"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "256 MB"
 submissions: 60
 accepted: 25
 solved_users: 24
-acceptance_rate: 43.636%
-collected_at: 2026-04-17T12:20:43.225109+00:00
+acceptance_rate: "43.636%"
+collected_at: "2026-04-17T12:20:43.225109+00:00"
 ---
 
 ## 문제

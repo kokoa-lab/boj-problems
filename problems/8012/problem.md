@@ -1,13 +1,13 @@
 ---
-title: 한동이는 영업사원!
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "한동이는 영업사원!"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 1997
 accepted: 1161
 solved_users: 950
-acceptance_rate: 58.175%
-collected_at: 2026-04-17T11:55:07.559850+00:00
+acceptance_rate: "58.175%"
+collected_at: "2026-04-17T11:55:07.559850+00:00"
 ---
 
 ## 문제

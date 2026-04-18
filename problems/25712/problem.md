@@ -1,13 +1,13 @@
 ---
-title: 인경강
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "인경강"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 253
 accepted: 130
 solved_users: 93
-acceptance_rate: 53.448%
-collected_at: 2026-04-17T17:31:47.547454+00:00
+acceptance_rate: "53.448%"
+collected_at: "2026-04-17T17:31:47.547454+00:00"
 ---
 
 ## 문제

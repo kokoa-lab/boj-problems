@@ -1,13 +1,13 @@
 ---
-title: Zombie Swallows
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Zombie Swallows"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 44
 accepted: 12
 solved_users: 5
-acceptance_rate: 27.778%
-collected_at: 2026-04-17T11:02:15.211162+00:00
+acceptance_rate: "27.778%"
+collected_at: "2026-04-17T11:02:15.211162+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Brainf**k 인터프리터
-special_judge: false
-time_limit: 7 초
-memory_limit: 128 MB
+title: "Brainf**k 인터프리터"
+special_judge: "false"
+time_limit: "7 초"
+memory_limit: "128 MB"
 submissions: 9161
 accepted: 904
 solved_users: 483
-acceptance_rate: 12.318%
-collected_at: 2026-04-17T10:53:40.647578+00:00
+acceptance_rate: "12.318%"
+collected_at: "2026-04-17T10:53:40.647578+00:00"
 ---
 
 ## 문제

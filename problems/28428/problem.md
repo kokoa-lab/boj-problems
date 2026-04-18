@@ -1,13 +1,13 @@
 ---
-title: Catch-Up
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Catch-Up"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 228
 accepted: 98
 solved_users: 89
-acceptance_rate: 49.721%
-collected_at: 2026-04-17T18:26:31.839972+00:00
+acceptance_rate: "49.721%"
+collected_at: "2026-04-17T18:26:31.839972+00:00"
 ---
 
 ## 문제

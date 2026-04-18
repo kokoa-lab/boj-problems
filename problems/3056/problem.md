@@ -1,13 +1,13 @@
 ---
-title: 007
-special_judge: true
-time_limit: 1 초
-memory_limit: 128 MB
+title: "007"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 2714
 accepted: 786
 solved_users: 576
-acceptance_rate: 28.945%
-collected_at: 2026-04-17T10:46:27.101673+00:00
+acceptance_rate: "28.945%"
+collected_at: "2026-04-17T10:46:27.101673+00:00"
 ---
 
 ## 문제

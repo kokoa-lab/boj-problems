@@ -1,13 +1,13 @@
 ---
-title: K-th order statistic
-special_judge: true
-time_limit: 2 초
-memory_limit: 512 MB
+title: "K-th order statistic"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 55
 accepted: 10
 solved_users: 9
-acceptance_rate: 18.000%
-collected_at: 2026-04-17T16:09:30.681404+00:00
+acceptance_rate: "18.000%"
+collected_at: "2026-04-17T16:09:30.681404+00:00"
 ---
 
 ## 문제

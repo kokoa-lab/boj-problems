@@ -1,13 +1,13 @@
 ---
-title: Stamp Painting
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Stamp Painting"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 455
 accepted: 179
 solved_users: 154
-acceptance_rate: 40.420%
-collected_at: 2026-04-17T14:02:10.475957+00:00
+acceptance_rate: "40.420%"
+collected_at: "2026-04-17T14:02:10.475957+00:00"
 ---
 
 ## 문제

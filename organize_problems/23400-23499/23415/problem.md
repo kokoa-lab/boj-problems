@@ -1,13 +1,13 @@
 ---
-title: Boxes on a Shelf
-special_judge: false
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "Boxes on a Shelf"
+special_judge: "false"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 124
 accepted: 38
 solved_users: 32
-acceptance_rate: 33.684%
-collected_at: 2026-04-17T16:47:47.929587+00:00
+acceptance_rate: "33.684%"
+collected_at: "2026-04-17T16:47:47.929587+00:00"
 ---
 
 ## 문제

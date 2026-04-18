@@ -1,13 +1,13 @@
 ---
-title: #15164번_제보
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "#15164번_제보"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 2759
 accepted: 1187
 solved_users: 971
-acceptance_rate: 41.710%
-collected_at: 2026-04-17T14:12:37.413865+00:00
+acceptance_rate: "41.710%"
+collected_at: "2026-04-17T14:12:37.413865+00:00"
 ---
 
 ## 문제

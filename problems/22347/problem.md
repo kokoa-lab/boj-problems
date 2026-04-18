@@ -1,13 +1,13 @@
 ---
-title: 공통 괄호 문자열 사전
-special_judge: false
-time_limit: 5 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "공통 괄호 문자열 사전"
+special_judge: "false"
+time_limit: "5 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 303
 accepted: 68
 solved_users: 42
-acceptance_rate: 22.951%
-collected_at: 2026-04-17T16:19:20.434879+00:00
+acceptance_rate: "22.951%"
+collected_at: "2026-04-17T16:19:20.434879+00:00"
 ---
 
 ## 문제

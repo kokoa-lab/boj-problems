@@ -1,13 +1,13 @@
 ---
-title: 삼색 그래프
-special_judge: false
-time_limit: 7 초
-memory_limit: 1024 MB
+title: "삼색 그래프"
+special_judge: "false"
+time_limit: "7 초"
+memory_limit: "1024 MB"
 submissions: 594
 accepted: 162
 solved_users: 125
-acceptance_rate: 27.233%
-collected_at: 2026-04-17T17:01:30.342917+00:00
+acceptance_rate: "27.233%"
+collected_at: "2026-04-17T17:01:30.342917+00:00"
 ---
 
 ## 문제

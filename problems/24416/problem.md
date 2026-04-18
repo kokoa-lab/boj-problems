@@ -1,13 +1,13 @@
 ---
-title: 알고리즘 수업 - 피보나치 수 1
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "알고리즘 수업 - 피보나치 수 1"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 33461
 accepted: 19244
 solved_users: 16907
-acceptance_rate: 58.387%
-collected_at: 2026-04-17T17:09:06.257761+00:00
+acceptance_rate: "58.387%"
+collected_at: "2026-04-17T17:09:06.257761+00:00"
 ---
 
 ## 문제

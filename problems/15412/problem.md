@@ -1,13 +1,13 @@
 ---
-title: Macarons
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Macarons"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 71
 accepted: 51
 solved_users: 31
-acceptance_rate: 64.583%
-collected_at: 2026-04-17T13:58:51.357658+00:00
+acceptance_rate: "64.583%"
+collected_at: "2026-04-17T13:58:51.357658+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 1&&3
-special_judge: false
-time_limit: 4 초
-memory_limit: 1024 MB
+title: "1&&3"
+special_judge: "false"
+time_limit: "4 초"
+memory_limit: "1024 MB"
 submissions: 87
 accepted: 44
 solved_users: 20
-acceptance_rate: 39.216%
-collected_at: 2026-04-17T10:35:20.901244+00:00
+acceptance_rate: "39.216%"
+collected_at: "2026-04-17T10:35:20.901244+00:00"
 ---
 
 ## 문제

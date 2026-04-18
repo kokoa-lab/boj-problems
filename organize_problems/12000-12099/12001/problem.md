@@ -1,13 +1,13 @@
 ---
-title: Load Balancing (Bronze)
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Load Balancing (Bronze)"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 1320
 accepted: 490
 solved_users: 415
-acceptance_rate: 38.355%
-collected_at: 2026-04-17T12:48:48.011220+00:00
+acceptance_rate: "38.355%"
+collected_at: "2026-04-17T12:48:48.011220+00:00"
 ---
 
 ## 문제

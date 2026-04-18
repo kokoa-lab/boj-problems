@@ -1,13 +1,13 @@
 ---
-title: Abdelrahman
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Abdelrahman"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 421
 accepted: 344
 solved_users: 323
-acceptance_rate: 81.980%
-collected_at: 2026-04-17T12:27:33.824248+00:00
+acceptance_rate: "81.980%"
+collected_at: "2026-04-17T12:27:33.824248+00:00"
 ---
 
 ## 문제

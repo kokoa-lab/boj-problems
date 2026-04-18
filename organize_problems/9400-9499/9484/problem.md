@@ -1,13 +1,13 @@
 ---
-title: 최대삼각형, 최소삼각형
-special_judge: false
-time_limit: 6 초
-memory_limit: 128 MB
+title: "최대삼각형, 최소삼각형"
+special_judge: "false"
+time_limit: "6 초"
+memory_limit: "128 MB"
 submissions: 1452
 accepted: 437
 solved_users: 194
-acceptance_rate: 26.944%
-collected_at: 2026-04-17T12:10:24.975482+00:00
+acceptance_rate: "26.944%"
+collected_at: "2026-04-17T12:10:24.975482+00:00"
 ---
 
 ## 문제

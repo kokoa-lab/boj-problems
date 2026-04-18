@@ -1,13 +1,13 @@
 ---
-title: 다운로드
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "다운로드"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 750
 accepted: 442
 solved_users: 333
-acceptance_rate: 59.677%
-collected_at: 2026-04-17T10:47:27.345314+00:00
+acceptance_rate: "59.677%"
+collected_at: "2026-04-17T10:47:27.345314+00:00"
 ---
 
 ## 문제

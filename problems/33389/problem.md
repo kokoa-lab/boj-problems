@@ -1,13 +1,13 @@
 ---
-title: Joining Cats
-special_judge: false
-time_limit: 2 초
-memory_limit: 2048 MB
+title: "Joining Cats"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "2048 MB"
 submissions: 25
 accepted: 13
 solved_users: 3
-acceptance_rate: 33.333%
-collected_at: 2026-04-17T20:14:58.811966+00:00
+acceptance_rate: "33.333%"
+collected_at: "2026-04-17T20:14:58.811966+00:00"
 ---
 
 ## 문제

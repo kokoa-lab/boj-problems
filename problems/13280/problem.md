@@ -1,13 +1,13 @@
 ---
-title: Selection of Participants of an Experiment
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Selection of Participants of an Experiment"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 245
 accepted: 214
 solved_users: 191
-acceptance_rate: 86.818%
-collected_at: 2026-04-17T13:10:46.316966+00:00
+acceptance_rate: "86.818%"
+collected_at: "2026-04-17T13:10:46.316966+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Wielomian
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Wielomian"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 140
 accepted: 29
 solved_users: 18
-acceptance_rate: 15.517%
-collected_at: 2026-04-17T11:59:23.178284+00:00
+acceptance_rate: "15.517%"
+collected_at: "2026-04-17T11:59:23.178284+00:00"
 ---
 
 ## 문제

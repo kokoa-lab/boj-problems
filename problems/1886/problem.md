@@ -1,13 +1,13 @@
 ---
-title: 프리즌 브레이크
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "프리즌 브레이크"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 926
 accepted: 198
 solved_users: 126
-acceptance_rate: 18.103%
-collected_at: 2026-04-17T10:35:23.346677+00:00
+acceptance_rate: "18.103%"
+collected_at: "2026-04-17T10:35:23.346677+00:00"
 ---
 
 ## 문제

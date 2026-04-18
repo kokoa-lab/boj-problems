@@ -1,13 +1,13 @@
 ---
-title: Maximum Multiple
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "Maximum Multiple"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 137
 accepted: 56
 solved_users: 50
-acceptance_rate: 42.373%
-collected_at: 2026-04-17T15:12:03.759805+00:00
+acceptance_rate: "42.373%"
+collected_at: "2026-04-17T15:12:03.759805+00:00"
 ---
 
 ## 문제

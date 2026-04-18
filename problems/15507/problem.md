@@ -1,13 +1,13 @@
 ---
-title: 연산 최적화
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "연산 최적화"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 542
 accepted: 119
 solved_users: 90
-acceptance_rate: 25.937%
-collected_at: 2026-04-17T14:00:36.786086+00:00
+acceptance_rate: "25.937%"
+collected_at: "2026-04-17T14:00:36.786086+00:00"
 ---
 
 ## 문제

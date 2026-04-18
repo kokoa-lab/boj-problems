@@ -1,13 +1,13 @@
 ---
-title: Build the Perfect House
-special_judge: false
-time_limit: 1.5 초
-memory_limit: 512 MB
+title: "Build the Perfect House"
+special_judge: "false"
+time_limit: "1.5 초"
+memory_limit: "512 MB"
 submissions: 217
 accepted: 36
 solved_users: 17
-acceptance_rate: 11.724%
-collected_at: 2026-04-17T14:53:07.578914+00:00
+acceptance_rate: "11.724%"
+collected_at: "2026-04-17T14:53:07.578914+00:00"
 ---
 
 ## 문제

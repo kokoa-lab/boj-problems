@@ -1,13 +1,13 @@
 ---
-title: Overtaking
-special_judge: false
-time_limit: 8 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Overtaking"
+special_judge: "false"
+time_limit: "8 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 146
 accepted: 109
 solved_users: 98
-acceptance_rate: 75.969%
-collected_at: 2026-04-17T19:41:41.961311+00:00
+acceptance_rate: "75.969%"
+collected_at: "2026-04-17T19:41:41.961311+00:00"
 ---
 
 ## 문제

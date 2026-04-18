@@ -1,13 +1,13 @@
 ---
-title: 그대, 그머가 되어
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "그대, 그머가 되어"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 5494
 accepted: 2527
 solved_users: 2090
-acceptance_rate: 46.056%
-collected_at: 2026-04-17T13:36:23.643581+00:00
+acceptance_rate: "46.056%"
+collected_at: "2026-04-17T13:36:23.643581+00:00"
 ---
 
 ## 문제

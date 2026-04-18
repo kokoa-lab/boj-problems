@@ -1,13 +1,13 @@
 ---
-title: 토크나이저
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "토크나이저"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 1001
 accepted: 455
 solved_users: 332
-acceptance_rate: 45.479%
-collected_at: 2026-04-17T18:08:17.498953+00:00
+acceptance_rate: "45.479%"
+collected_at: "2026-04-17T18:08:17.498953+00:00"
 ---
 
 ## 문제

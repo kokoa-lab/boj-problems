@@ -1,13 +1,13 @@
 ---
-title: 멀티팩토리얼
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "멀티팩토리얼"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 136
 accepted: 83
 solved_users: 68
-acceptance_rate: 76.404%
-collected_at: 2026-04-17T20:49:42.739339+00:00
+acceptance_rate: "76.404%"
+collected_at: "2026-04-17T20:49:42.739339+00:00"
 ---
 
 ## 문제

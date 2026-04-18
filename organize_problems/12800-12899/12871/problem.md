@@ -1,13 +1,13 @@
 ---
-title: 무한 문자열
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "무한 문자열"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 7495
 accepted: 2802
 solved_users: 2407
-acceptance_rate: 38.359%
-collected_at: 2026-04-17T13:02:55.518495+00:00
+acceptance_rate: "38.359%"
+collected_at: "2026-04-17T13:02:55.518495+00:00"
 ---
 
 ## 문제

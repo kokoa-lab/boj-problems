@@ -1,13 +1,13 @@
 ---
-title: 리그전 오브 레전드
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "리그전 오브 레전드"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 799
 accepted: 383
 solved_users: 323
-acceptance_rate: 50.786%
-collected_at: 2026-04-17T16:46:26.019270+00:00
+acceptance_rate: "50.786%"
+collected_at: "2026-04-17T16:46:26.019270+00:00"
 ---
 
 ## 문제

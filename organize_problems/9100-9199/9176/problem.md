@@ -1,13 +1,13 @@
 ---
-title: 메르센 합성수
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "메르센 합성수"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 411
 accepted: 179
 solved_users: 151
-acceptance_rate: 48.243%
-collected_at: 2026-04-17T12:07:45.882304+00:00
+acceptance_rate: "48.243%"
+collected_at: "2026-04-17T12:07:45.882304+00:00"
 ---
 
 ## 문제

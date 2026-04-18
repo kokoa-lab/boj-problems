@@ -1,13 +1,13 @@
 ---
-title: Retype
-special_judge: false
-time_limit: 20 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Retype"
+special_judge: "false"
+time_limit: "20 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 437
 accepted: 300
 solved_users: 271
-acceptance_rate: 69.133%
-collected_at: 2026-04-17T16:58:10.282539+00:00
+acceptance_rate: "69.133%"
+collected_at: "2026-04-17T16:58:10.282539+00:00"
 ---
 
 ## 문제

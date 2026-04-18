@@ -1,13 +1,13 @@
 ---
-title: Everyone Loves Playing Games
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 256 MB
+title: "Everyone Loves Playing Games"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "256 MB"
 submissions: 28
 accepted: 10
 solved_users: 9
-acceptance_rate: 40.909%
-collected_at: 2026-04-17T16:49:53.709381+00:00
+acceptance_rate: "40.909%"
+collected_at: "2026-04-17T16:49:53.709381+00:00"
 ---
 
 ## 문제

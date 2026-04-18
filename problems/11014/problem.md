@@ -1,13 +1,13 @@
 ---
-title: 컨닝 2
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "컨닝 2"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 3199
 accepted: 1460
 solved_users: 1073
-acceptance_rate: 44.990%
-collected_at: 2026-04-17T12:35:13.575664+00:00
+acceptance_rate: "44.990%"
+collected_at: "2026-04-17T12:35:13.575664+00:00"
 ---
 
 ## 문제

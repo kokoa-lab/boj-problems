@@ -1,13 +1,13 @@
 ---
-title: Namje Adventure
-special_judge: false
-time_limit: 3 초
-memory_limit: 512 MB
+title: "Namje Adventure"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "512 MB"
 submissions: 138
 accepted: 27
 solved_users: 13
-acceptance_rate: 16.456%
-collected_at: 2026-04-17T14:07:14.014201+00:00
+acceptance_rate: "16.456%"
+collected_at: "2026-04-17T14:07:14.014201+00:00"
 ---
 
 ## 문제

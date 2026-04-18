@@ -1,13 +1,13 @@
 ---
-title: 현대모비스와 함께하는 부품 관리
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "현대모비스와 함께하는 부품 관리"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 2416
 accepted: 1519
 solved_users: 1348
-acceptance_rate: 63.675%
-collected_at: 2026-04-17T17:13:59.764287+00:00
+acceptance_rate: "63.675%"
+collected_at: "2026-04-17T17:13:59.764287+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Insulator
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Insulator"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 183
 accepted: 114
 solved_users: 83
-acceptance_rate: 66.935%
-collected_at: 2026-04-17T11:55:09.222078+00:00
+acceptance_rate: "66.935%"
+collected_at: "2026-04-17T11:55:09.222078+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: ABCD-код
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "ABCD-код"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 473
 accepted: 412
 solved_users: 376
-acceptance_rate: 88.471%
-collected_at: 2026-04-17T15:27:29.009434+00:00
+acceptance_rate: "88.471%"
+collected_at: "2026-04-17T15:27:29.009434+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 마지막 수강신청
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "마지막 수강신청"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 263
 accepted: 179
 solved_users: 146
-acceptance_rate: 73.367%
-collected_at: 2026-04-17T20:25:44.408893+00:00
+acceptance_rate: "73.367%"
+collected_at: "2026-04-17T20:25:44.408893+00:00"
 ---
 
 ## 문제

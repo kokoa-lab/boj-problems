@@ -1,13 +1,13 @@
 ---
-title: 오셀로 재배치
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "오셀로 재배치"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 5863
 accepted: 3490
 solved_users: 2714
-acceptance_rate: 59.570%
-collected_at: 2026-04-17T13:12:54.372288+00:00
+acceptance_rate: "59.570%"
+collected_at: "2026-04-17T13:12:54.372288+00:00"
 ---
 
 ## 문제

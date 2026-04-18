@@ -1,13 +1,13 @@
 ---
-title: Going to the Movies
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Going to the Movies"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 289
 accepted: 188
 solved_users: 165
-acceptance_rate: 65.217%
-collected_at: 2026-04-17T11:22:09.713042+00:00
+acceptance_rate: "65.217%"
+collected_at: "2026-04-17T11:22:09.713042+00:00"
 ---
 
 ## 문제

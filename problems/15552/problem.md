@@ -1,13 +1,13 @@
 ---
-title: 빠른 A+B
-special_judge: false
-time_limit: 1 초  ( 하단 참고 )
-memory_limit: 512 MB
+title: "빠른 A+B"
+special_judge: "false"
+time_limit: "1 초  ( 하단 참고 )"
+memory_limit: "512 MB"
 submissions: 413705
 accepted: 188384
 solved_users: 151159
-acceptance_rate: 45.678%
-collected_at: 2026-04-18T09:59:09.151245+00:00
+acceptance_rate: "45.678%"
+collected_at: "2026-04-18T09:59:09.151245+00:00"
 ---
 
 ## 문제

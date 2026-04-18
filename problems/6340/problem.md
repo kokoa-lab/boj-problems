@@ -1,13 +1,13 @@
 ---
-title: Dividing
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Dividing"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 36
 accepted: 19
 solved_users: 14
-acceptance_rate: 45.161%
-collected_at: 2026-04-17T11:25:41.646049+00:00
+acceptance_rate: "45.161%"
+collected_at: "2026-04-17T11:25:41.646049+00:00"
 ---
 
 ## 문제

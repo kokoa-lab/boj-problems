@@ -1,13 +1,13 @@
 ---
-title: Rainbow Bowl Ranges
-special_judge: false
-time_limit: 2 초
-memory_limit: 2048 MB
+title: "Rainbow Bowl Ranges"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "2048 MB"
 submissions: 93
 accepted: 24
 solved_users: 20
-acceptance_rate: 28.986%
-collected_at: 2026-04-17T20:01:34.654917+00:00
+acceptance_rate: "28.986%"
+collected_at: "2026-04-17T20:01:34.654917+00:00"
 ---
 
 ## 문제

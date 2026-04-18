@@ -1,13 +1,13 @@
 ---
-title: 내리막 길
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "내리막 길"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 106933
 accepted: 29485
 solved_users: 21424
-acceptance_rate: 28.949%
-collected_at: 2026-04-17T10:30:49.107907+00:00
+acceptance_rate: "28.949%"
+collected_at: "2026-04-17T10:30:49.107907+00:00"
 ---
 
 ## 문제

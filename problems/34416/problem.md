@@ -1,13 +1,13 @@
 ---
-title: Follow The Prize
-special_judge: false
-time_limit: 7 초
-memory_limit: 2048 MB
+title: "Follow The Prize"
+special_judge: "false"
+time_limit: "7 초"
+memory_limit: "2048 MB"
 submissions: 166
 accepted: 132
 solved_users: 111
-acceptance_rate: 80.435%
-collected_at: 2026-04-17T20:38:05.293168+00:00
+acceptance_rate: "80.435%"
+collected_at: "2026-04-17T20:38:05.293168+00:00"
 ---
 
 ## 문제

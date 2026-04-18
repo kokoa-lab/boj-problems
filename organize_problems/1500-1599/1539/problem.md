@@ -1,13 +1,13 @@
 ---
-title: 이진 검색 트리
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "이진 검색 트리"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 2981
 accepted: 849
 solved_users: 583
-acceptance_rate: 34.558%
-collected_at: 2026-04-17T10:31:02.900022+00:00
+acceptance_rate: "34.558%"
+collected_at: "2026-04-17T10:31:02.900022+00:00"
 ---
 
 ## 문제

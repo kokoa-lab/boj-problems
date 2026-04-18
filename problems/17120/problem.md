@@ -1,13 +1,13 @@
 ---
-title: 이모지
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "이모지"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 2676
 accepted: 11
 solved_users: 5
-acceptance_rate: 1.066%
-collected_at: 2026-04-17T14:30:10.425868+00:00
+acceptance_rate: "1.066%"
+collected_at: "2026-04-17T14:30:10.425868+00:00"
 ---
 
 ## 문제

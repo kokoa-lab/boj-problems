@@ -1,13 +1,13 @@
 ---
-title: 鉛筆 2 (Pencils 2)
-special_judge: false
-time_limit: 2 초
-memory_limit: 2048 MB
+title: "鉛筆 2 (Pencils 2)"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "2048 MB"
 submissions: 1726
 accepted: 1573
 solved_users: 1505
-acceptance_rate: 91.489%
-collected_at: 2026-04-17T20:10:32.236476+00:00
+acceptance_rate: "91.489%"
+collected_at: "2026-04-17T20:10:32.236476+00:00"
 ---
 
 ## 문제

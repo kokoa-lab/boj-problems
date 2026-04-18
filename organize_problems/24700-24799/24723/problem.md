@@ -1,13 +1,13 @@
 ---
-title: 녹색거탑
-special_judge: false
-time_limit: 2.022 초 (추가 시간 없음)
-memory_limit: 319 MB (추가 메모리 없음)
+title: "녹색거탑"
+special_judge: "false"
+time_limit: "2.022 초 (추가 시간 없음)"
+memory_limit: "319 MB (추가 메모리 없음)"
 submissions: 23958
 accepted: 15925
 solved_users: 14955
-acceptance_rate: 66.973%
-collected_at: 2026-04-17T17:13:57.247115+00:00
+acceptance_rate: "66.973%"
+collected_at: "2026-04-17T17:13:57.247115+00:00"
 ---
 
 ## 문제

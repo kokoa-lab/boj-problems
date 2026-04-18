@@ -1,13 +1,13 @@
 ---
-title: Diameter Two
-special_judge: true
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Diameter Two"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 24
 accepted: 10
 solved_users: 9
-acceptance_rate: 50.000%
-collected_at: 2026-04-17T17:13:15.100199+00:00
+acceptance_rate: "50.000%"
+collected_at: "2026-04-17T17:13:15.100199+00:00"
 ---
 
 ## 문제

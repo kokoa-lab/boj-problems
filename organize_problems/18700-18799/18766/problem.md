@@ -1,13 +1,13 @@
 ---
-title: 카드 바꿔치기
-special_judge: false
-time_limit: 0.3 초
-memory_limit: 256 MB
+title: "카드 바꿔치기"
+special_judge: "false"
+time_limit: "0.3 초"
+memory_limit: "256 MB"
 submissions: 857
 accepted: 645
 solved_users: 588
-acceptance_rate: 75.481%
-collected_at: 2026-04-17T15:09:23.795127+00:00
+acceptance_rate: "75.481%"
+collected_at: "2026-04-17T15:09:23.795127+00:00"
 ---
 
 ## 문제

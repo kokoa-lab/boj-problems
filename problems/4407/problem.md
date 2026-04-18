@@ -1,13 +1,13 @@
 ---
-title: The Brick Stops Here
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "The Brick Stops Here"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 41
 accepted: 17
 solved_users: 16
-acceptance_rate: 51.613%
-collected_at: 2026-04-17T11:01:04.556287+00:00
+acceptance_rate: "51.613%"
+collected_at: "2026-04-17T11:01:04.556287+00:00"
 ---
 
 ## 문제

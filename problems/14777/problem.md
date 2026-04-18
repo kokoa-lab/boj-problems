@@ -1,13 +1,13 @@
 ---
-title: The County Fair
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "The County Fair"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 98
 accepted: 40
 solved_users: 35
-acceptance_rate: 50.725%
-collected_at: 2026-04-17T13:41:48.733829+00:00
+acceptance_rate: "50.725%"
+collected_at: "2026-04-17T13:41:48.733829+00:00"
 ---
 
 ## 문제

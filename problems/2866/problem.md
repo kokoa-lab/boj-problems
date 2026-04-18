@@ -1,13 +1,13 @@
 ---
-title: 문자열 잘라내기
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "문자열 잘라내기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 5548
 accepted: 2329
 solved_users: 1648
-acceptance_rate: 41.501%
-collected_at: 2026-04-17T10:45:22.714315+00:00
+acceptance_rate: "41.501%"
+collected_at: "2026-04-17T10:45:22.714315+00:00"
 ---
 
 ## 문제

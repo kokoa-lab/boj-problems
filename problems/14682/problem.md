@@ -1,13 +1,13 @@
 ---
-title: Shifty Sum
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Shifty Sum"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 1292
 accepted: 1080
 solved_users: 1022
-acceptance_rate: 85.167%
-collected_at: 2026-04-17T13:40:13.056571+00:00
+acceptance_rate: "85.167%"
+collected_at: "2026-04-17T13:40:13.056571+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Raper
-special_judge: false
-time_limit: 3 초
-memory_limit: 128 MB
+title: "Raper"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "128 MB"
 submissions: 42
 accepted: 12
 solved_users: 5
-acceptance_rate: 38.462%
-collected_at: 2026-04-17T12:01:45.088888+00:00
+acceptance_rate: "38.462%"
+collected_at: "2026-04-17T12:01:45.088888+00:00"
 ---
 
 ## 문제

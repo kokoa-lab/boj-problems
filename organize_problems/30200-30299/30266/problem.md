@@ -1,13 +1,13 @@
 ---
-title: Hurricane Warning
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Hurricane Warning"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 340
 accepted: 222
 solved_users: 188
-acceptance_rate: 64.384%
-collected_at: 2026-04-17T19:02:04.046227+00:00
+acceptance_rate: "64.384%"
+collected_at: "2026-04-17T19:02:04.046227+00:00"
 ---
 
 ## 문제

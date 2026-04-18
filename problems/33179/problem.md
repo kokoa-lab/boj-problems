@@ -1,13 +1,13 @@
 ---
-title: Hezardastan’s Annual Report
-special_judge: false
-time_limit: 1 초
-memory_limit: 2048 MB
+title: "Hezardastan’s Annual Report"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "2048 MB"
 submissions: 649
 accepted: 573
 solved_users: 543
-acceptance_rate: 88.581%
-collected_at: 2026-04-17T20:10:55.930617+00:00
+acceptance_rate: "88.581%"
+collected_at: "2026-04-17T20:10:55.930617+00:00"
 ---
 
 ## 문제

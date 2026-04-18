@@ -1,13 +1,13 @@
 ---
-title: 시간을 달려서 (Rough)
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "시간을 달려서 (Rough)"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 597
 accepted: 85
 solved_users: 54
-acceptance_rate: 15.698%
-collected_at: 2026-04-17T19:47:58.788414+00:00
+acceptance_rate: "15.698%"
+collected_at: "2026-04-17T19:47:58.788414+00:00"
 ---
 
 ## 문제

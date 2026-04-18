@@ -1,13 +1,13 @@
 ---
-title: Pinball Ranking
-special_judge: true
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Pinball Ranking"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 43
 accepted: 20
 solved_users: 20
-acceptance_rate: 46.512%
-collected_at: 2026-04-17T11:40:03.897132+00:00
+acceptance_rate: "46.512%"
+collected_at: "2026-04-17T11:40:03.897132+00:00"
 ---
 
 ## 문제

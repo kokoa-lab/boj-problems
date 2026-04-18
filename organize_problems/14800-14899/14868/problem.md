@@ -1,13 +1,13 @@
 ---
-title: 문명
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "문명"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 8971
 accepted: 2481
 solved_users: 1504
-acceptance_rate: 24.479%
-collected_at: 2026-04-17T13:43:26.726605+00:00
+acceptance_rate: "24.479%"
+collected_at: "2026-04-17T13:43:26.726605+00:00"
 ---
 
 ## 문제

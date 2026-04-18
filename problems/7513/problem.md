@@ -1,13 +1,13 @@
 ---
-title: 준살 프로그래밍 대회
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "준살 프로그래밍 대회"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 798
 accepted: 541
 solved_users: 487
-acceptance_rate: 68.112%
-collected_at: 2026-04-17T11:50:07.979056+00:00
+acceptance_rate: "68.112%"
+collected_at: "2026-04-17T11:50:07.979056+00:00"
 ---
 
 ## 문제

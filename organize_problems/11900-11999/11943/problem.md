@@ -1,13 +1,13 @@
 ---
-title: 파일 옮기기
-special_judge: false
-time_limit: 1 초
-memory_limit: 32 MB
+title: "파일 옮기기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "32 MB"
 submissions: 14185
 accepted: 9456
 solved_users: 8960
-acceptance_rate: 67.971%
-collected_at: 2026-04-17T12:47:58.713928+00:00
+acceptance_rate: "67.971%"
+collected_at: "2026-04-17T12:47:58.713928+00:00"
 ---
 
 ## 문제

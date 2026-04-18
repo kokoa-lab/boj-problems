@@ -1,13 +1,13 @@
 ---
-title: 구슬 발사기
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "구슬 발사기"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 220
 accepted: 82
 solved_users: 50
-acceptance_rate: 29.762%
-collected_at: 2026-04-17T16:46:24.279197+00:00
+acceptance_rate: "29.762%"
+collected_at: "2026-04-17T16:46:24.279197+00:00"
 ---
 
 ## 문제

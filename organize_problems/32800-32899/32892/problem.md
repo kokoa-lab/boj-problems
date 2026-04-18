@@ -1,13 +1,13 @@
 ---
-title: Dutch Democracy
-special_judge: false
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Dutch Democracy"
+special_judge: "false"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 117
 accepted: 67
 solved_users: 46
-acceptance_rate: 69.697%
-collected_at: 2026-04-17T20:03:42.823532+00:00
+acceptance_rate: "69.697%"
+collected_at: "2026-04-17T20:03:42.823532+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Rotating Scoreboard
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Rotating Scoreboard"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 74
 accepted: 22
 solved_users: 14
-acceptance_rate: 28.000%
-collected_at: 2026-04-17T11:35:12.494152+00:00
+acceptance_rate: "28.000%"
+collected_at: "2026-04-17T11:35:12.494152+00:00"
 ---
 
 ## 문제

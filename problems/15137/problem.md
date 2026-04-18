@@ -1,13 +1,13 @@
 ---
-title: Grand Test
-special_judge: true
-time_limit: 3 초
-memory_limit: 512 MB
+title: "Grand Test"
+special_judge: "true"
+time_limit: "3 초"
+memory_limit: "512 MB"
 submissions: 123
 accepted: 27
 solved_users: 25
-acceptance_rate: 23.585%
-collected_at: 2026-04-17T13:52:06.301360+00:00
+acceptance_rate: "23.585%"
+collected_at: "2026-04-17T13:52:06.301360+00:00"
 ---
 
 ## 문제

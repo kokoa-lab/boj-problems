@@ -1,13 +1,13 @@
 ---
-title: Making Chess Boards (Large)
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Making Chess Boards (Large)"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 51
 accepted: 26
 solved_users: 24
-acceptance_rate: 51.064%
-collected_at: 2026-04-17T12:57:46.624858+00:00
+acceptance_rate: "51.064%"
+collected_at: "2026-04-17T12:57:46.624858+00:00"
 ---
 
 ## 문제

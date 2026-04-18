@@ -1,13 +1,13 @@
 ---
-title: Kolekcjoner Bajtemonów 2
-special_judge: false
-time_limit: 4 초
-memory_limit: 1024 MB
+title: "Kolekcjoner Bajtemonów 2"
+special_judge: "false"
+time_limit: "4 초"
+memory_limit: "1024 MB"
 submissions: 79
 accepted: 27
 solved_users: 14
-acceptance_rate: 25.000%
-collected_at: 2026-04-17T17:51:36.096905+00:00
+acceptance_rate: "25.000%"
+collected_at: "2026-04-17T17:51:36.096905+00:00"
 ---
 
 ## 문제

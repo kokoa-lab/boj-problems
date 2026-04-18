@@ -1,13 +1,13 @@
 ---
-title: 팩토리얼
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "팩토리얼"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 203027
 accepted: 114476
 solved_users: 94677
-acceptance_rate: 56.635%
-collected_at: 2026-04-17T12:30:50.950014+00:00
+acceptance_rate: "56.635%"
+collected_at: "2026-04-17T12:30:50.950014+00:00"
 ---
 
 ## 문제

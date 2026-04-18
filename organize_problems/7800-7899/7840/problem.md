@@ -1,13 +1,13 @@
 ---
-title: Texture Tile
-special_judge: true
-time_limit: 2 초
-memory_limit: 256 MB
+title: "Texture Tile"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 30
 accepted: 11
 solved_users: 10
-acceptance_rate: 43.478%
-collected_at: 2026-04-17T11:53:21.984334+00:00
+acceptance_rate: "43.478%"
+collected_at: "2026-04-17T11:53:21.984334+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 전기 요금
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "전기 요금"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 1462
 accepted: 542
 solved_users: 432
-acceptance_rate: 37.209%
-collected_at: 2026-04-17T11:16:46.964264+00:00
+acceptance_rate: "37.209%"
+collected_at: "2026-04-17T11:16:46.964264+00:00"
 ---
 
 ## 문제

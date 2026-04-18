@@ -1,13 +1,13 @@
 ---
-title: 격자의 분리자
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "격자의 분리자"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 337
 accepted: 84
 solved_users: 58
-acceptance_rate: 26.009%
-collected_at: 2026-04-17T10:40:17.682233+00:00
+acceptance_rate: "26.009%"
+collected_at: "2026-04-17T10:40:17.682233+00:00"
 ---
 
 ## 문제

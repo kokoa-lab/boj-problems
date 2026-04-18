@@ -1,13 +1,13 @@
 ---
-title: Longest Prefix Match
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Longest Prefix Match"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 42
 accepted: 19
 solved_users: 7
-acceptance_rate: 36.842%
-collected_at: 2026-04-17T12:40:37.751861+00:00
+acceptance_rate: "36.842%"
+collected_at: "2026-04-17T12:40:37.751861+00:00"
 ---
 
 ## 문제

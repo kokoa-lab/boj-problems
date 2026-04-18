@@ -1,13 +1,13 @@
 ---
-title: M-Climb Road
-special_judge: false
-time_limit: 1 초
-memory_limit: 2048 MB
+title: "M-Climb Road"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "2048 MB"
 submissions: 395
 accepted: 365
 solved_users: 346
-acceptance_rate: 92.267%
-collected_at: 2026-04-17T20:35:08.137421+00:00
+acceptance_rate: "92.267%"
+collected_at: "2026-04-17T20:35:08.137421+00:00"
 ---
 
 ## 문제

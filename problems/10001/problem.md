@@ -1,13 +1,13 @@
 ---
-title: Hash
-special_judge: false
-time_limit: 3 초
-memory_limit: 256 MB
+title: "Hash"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "256 MB"
 submissions: 329
 accepted: 58
 solved_users: 47
-acceptance_rate: 20.982%
-collected_at: 2026-04-17T12:17:38.565596+00:00
+acceptance_rate: "20.982%"
+collected_at: "2026-04-17T12:17:38.565596+00:00"
 ---
 
 ## 문제

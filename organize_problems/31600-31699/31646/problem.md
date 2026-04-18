@@ -1,13 +1,13 @@
 ---
-title: Test Tubes
-special_judge: true
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Test Tubes"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 134
 accepted: 35
 solved_users: 34
-acceptance_rate: 28.099%
-collected_at: 2026-04-17T19:32:57.118743+00:00
+acceptance_rate: "28.099%"
+collected_at: "2026-04-17T19:32:57.118743+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: HQ0-9+-INCOMPUTABLE?!
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "HQ0-9+-INCOMPUTABLE?!"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 77
 accepted: 14
 solved_users: 13
-acceptance_rate: 41.935%
-collected_at: 2026-04-17T16:46:56.003345+00:00
+acceptance_rate: "41.935%"
+collected_at: "2026-04-17T16:46:56.003345+00:00"
 ---
 
 ## 문제
@@ -36,7 +36,9 @@ HQ0-9+-INCOMPUTABLE?! supports the following commands:
 | `a`, `A` | replaces every character in the buffer with its ASCII value in decimal (1–3 digits) |
 | `b`, `B` | replaces every character in the buffer with its ASCII value in binary (exactly eight ‘0’/‘1’ characters) |
 | `l`, `L` | converts the buffer to lowercase |
-| `e`, `E` | translates every character in the buffer to l33t using the following table:  ```  ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz 0123456789 48(03=6#|JXLM 09Q257UVW%Y2 a6<d3f9hijk1m^0p9r57uvw*y2 O!ZEA$G/B9 ``` |
+| `e`, `E` | translates every character in the buffer to l33t using the following table:  ``` 
+ ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz 0123456789
+ 48(03=6#|JXLM 09Q257UVW%Y2 a6<d3f9hijk1m^0p9r57uvw*y2 O!ZEA$G/B9 ``` |
 | `?` | removes 47 characters from the end of the buffer (or everything if it is too short) |
 | `!` | removes 47 characters from the beginning of the buffer (or everything if it is too short) |
 

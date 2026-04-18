@@ -1,13 +1,13 @@
 ---
-title: TV 전쟁
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "TV 전쟁"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 354
 accepted: 154
 solved_users: 115
-acceptance_rate: 42.910%
-collected_at: 2026-04-17T12:36:37.030060+00:00
+acceptance_rate: "42.910%"
+collected_at: "2026-04-17T12:36:37.030060+00:00"
 ---
 
 ## 문제

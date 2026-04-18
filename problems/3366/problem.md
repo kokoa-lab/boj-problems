@@ -1,13 +1,13 @@
 ---
-title: 수열 줄이기
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "수열 줄이기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 824
 accepted: 291
 solved_users: 223
-acceptance_rate: 35.680%
-collected_at: 2026-04-17T10:48:27.851729+00:00
+acceptance_rate: "35.680%"
+collected_at: "2026-04-17T10:48:27.851729+00:00"
 ---
 
 ## 문제

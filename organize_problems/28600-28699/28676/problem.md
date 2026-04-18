@@ -1,13 +1,13 @@
 ---
-title: Игра с массивом
-special_judge: false
-time_limit: 4 초
-memory_limit: 1024 MB
+title: "Игра с массивом"
+special_judge: "false"
+time_limit: "4 초"
+memory_limit: "1024 MB"
 submissions: 14
 accepted: 9
 solved_users: 9
-acceptance_rate: 64.286%
-collected_at: 2026-04-17T18:30:27.343312+00:00
+acceptance_rate: "64.286%"
+collected_at: "2026-04-17T18:30:27.343312+00:00"
 ---
 
 ## 문제

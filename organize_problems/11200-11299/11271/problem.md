@@ -1,13 +1,13 @@
 ---
-title: Entertainment Box
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "Entertainment Box"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 177
 accepted: 48
 solved_users: 47
-acceptance_rate: 32.414%
-collected_at: 2026-04-17T12:38:56.969995+00:00
+acceptance_rate: "32.414%"
+collected_at: "2026-04-17T12:38:56.969995+00:00"
 ---
 
 ## 문제

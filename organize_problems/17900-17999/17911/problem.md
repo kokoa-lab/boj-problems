@@ -1,13 +1,13 @@
 ---
-title: Keyboards in Concert
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Keyboards in Concert"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 70
 accepted: 49
 solved_users: 46
-acceptance_rate: 71.875%
-collected_at: 2026-04-17T14:49:56.170367+00:00
+acceptance_rate: "71.875%"
+collected_at: "2026-04-17T14:49:56.170367+00:00"
 ---
 
 ## 문제

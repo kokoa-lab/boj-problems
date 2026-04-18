@@ -1,13 +1,13 @@
 ---
-title: Collecting Images is Fun
-special_judge: false
-time_limit: 5 초
-memory_limit: 256 MB
+title: "Collecting Images is Fun"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "256 MB"
 submissions: 68
 accepted: 47
 solved_users: 44
-acceptance_rate: 81.481%
-collected_at: 2026-04-17T14:46:31.460888+00:00
+acceptance_rate: "81.481%"
+collected_at: "2026-04-17T14:46:31.460888+00:00"
 ---
 
 ## 문제

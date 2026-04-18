@@ -1,13 +1,13 @@
 ---
-title: 맥주 냉장고
-special_judge: true
-time_limit: 1 초
-memory_limit: 128 MB
+title: "맥주 냉장고"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 1809
 accepted: 803
 solved_users: 675
-acceptance_rate: 46.424%
-collected_at: 2026-04-17T10:50:03.914108+00:00
+acceptance_rate: "46.424%"
+collected_at: "2026-04-17T10:50:03.914108+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: RGB거리 2
-special_judge: false
-time_limit: 0.5 초 (추가 시간 없음)
-memory_limit: 128 MB
+title: "RGB거리 2"
+special_judge: "false"
+time_limit: "0.5 초 (추가 시간 없음)"
+memory_limit: "128 MB"
 submissions: 23460
 accepted: 14296
 solved_users: 11858
-acceptance_rate: 61.143%
-collected_at: 2026-04-17T14:38:43.906844+00:00
+acceptance_rate: "61.143%"
+collected_at: "2026-04-17T14:38:43.906844+00:00"
 ---
 
 ## 문제

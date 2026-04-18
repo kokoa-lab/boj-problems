@@ -1,13 +1,13 @@
 ---
-title: 역학 조사
-special_judge: true
-time_limit: 3 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "역학 조사"
+special_judge: "true"
+time_limit: "3 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 1712
 accepted: 524
 solved_users: 421
-acceptance_rate: 32.064%
-collected_at: 2026-04-17T15:22:28.579182+00:00
+acceptance_rate: "32.064%"
+collected_at: "2026-04-17T15:22:28.579182+00:00"
 ---
 
 ## 문제

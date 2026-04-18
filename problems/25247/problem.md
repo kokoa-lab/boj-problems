@@ -1,13 +1,13 @@
 ---
-title: Card Trading
-special_judge: true
-time_limit: 4 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Card Trading"
+special_judge: "true"
+time_limit: "4 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 77
 accepted: 29
 solved_users: 29
-acceptance_rate: 46.774%
-collected_at: 2026-04-17T17:23:21.013405+00:00
+acceptance_rate: "46.774%"
+collected_at: "2026-04-17T17:23:21.013405+00:00"
 ---
 
 ## 문제

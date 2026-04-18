@@ -1,13 +1,13 @@
 ---
-title: Cul-De-Sac Parades
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Cul-De-Sac Parades"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 54
 accepted: 38
 solved_users: 33
-acceptance_rate: 70.213%
-collected_at: 2026-04-17T15:40:01.091732+00:00
+acceptance_rate: "70.213%"
+collected_at: "2026-04-17T15:40:01.091732+00:00"
 ---
 
 ## 문제

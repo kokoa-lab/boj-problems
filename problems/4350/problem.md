@@ -1,13 +1,13 @@
 ---
-title: Faucet Flow
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Faucet Flow"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 30
 accepted: 6
 solved_users: 6
-acceptance_rate: 23.077%
-collected_at: 2026-04-17T10:59:58.027815+00:00
+acceptance_rate: "23.077%"
+collected_at: "2026-04-17T10:59:58.027815+00:00"
 ---
 
 ## 문제

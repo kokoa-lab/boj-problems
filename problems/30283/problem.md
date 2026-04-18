@@ -1,13 +1,13 @@
 ---
-title: Smiginis
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Smiginis"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 52
 accepted: 10
 solved_users: 10
-acceptance_rate: 20.408%
-collected_at: 2026-04-17T19:02:23.638966+00:00
+acceptance_rate: "20.408%"
+collected_at: "2026-04-17T19:02:23.638966+00:00"
 ---
 
 ## 문제

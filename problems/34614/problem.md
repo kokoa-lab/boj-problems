@@ -1,13 +1,13 @@
 ---
-title: Can You Reach There?
-special_judge: false
-time_limit: 2 초
-memory_limit: 2048 MB
+title: "Can You Reach There?"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "2048 MB"
 submissions: 19
 accepted: 8
 solved_users: 8
-acceptance_rate: 42.105%
-collected_at: 2026-04-17T20:44:04.856513+00:00
+acceptance_rate: "42.105%"
+collected_at: "2026-04-17T20:44:04.856513+00:00"
 ---
 
 ## 문제

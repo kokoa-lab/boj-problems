@@ -1,13 +1,13 @@
 ---
-title: 파급효과
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "파급효과"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 84
 accepted: 44
 solved_users: 43
-acceptance_rate: 56.579%
-collected_at: 2026-04-17T10:35:30.391614+00:00
+acceptance_rate: "56.579%"
+collected_at: "2026-04-17T10:35:30.391614+00:00"
 ---
 
 ## 문제

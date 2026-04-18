@@ -1,13 +1,13 @@
 ---
-title: 비밀의 레시피
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "비밀의 레시피"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 432
 accepted: 121
 solved_users: 104
-acceptance_rate: 30.058%
-collected_at: 2026-04-17T17:36:53.878168+00:00
+acceptance_rate: "30.058%"
+collected_at: "2026-04-17T17:36:53.878168+00:00"
 ---
 
 ## 문제

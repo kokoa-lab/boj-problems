@@ -1,13 +1,13 @@
 ---
-title: 계란으로 계란치기
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "계란으로 계란치기"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 16911
 accepted: 8936
 solved_users: 6213
-acceptance_rate: 52.044%
-collected_at: 2026-04-17T14:27:10.463949+00:00
+acceptance_rate: "52.044%"
+collected_at: "2026-04-17T14:27:10.463949+00:00"
 ---
 
 ## 문제

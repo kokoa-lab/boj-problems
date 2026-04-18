@@ -1,13 +1,13 @@
 ---
-title: 자료 구조의 왕
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "자료 구조의 왕"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 585
 accepted: 306
 solved_users: 255
-acceptance_rate: 49.515%
-collected_at: 2026-04-17T19:23:50.835985+00:00
+acceptance_rate: "49.515%"
+collected_at: "2026-04-17T19:23:50.835985+00:00"
 ---
 
 ## 문제

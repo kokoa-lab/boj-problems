@@ -1,13 +1,13 @@
 ---
-title: Akvizna
-special_judge: true
-time_limit: 1.5 초
-memory_limit: 512 MB
+title: "Akvizna"
+special_judge: "true"
+time_limit: "1.5 초"
+memory_limit: "512 MB"
 submissions: 97
 accepted: 30
 solved_users: 18
-acceptance_rate: 25.714%
-collected_at: 2026-04-17T14:28:35.200409+00:00
+acceptance_rate: "25.714%"
+collected_at: "2026-04-17T14:28:35.200409+00:00"
 ---
 
 ## 문제

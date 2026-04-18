@@ -1,13 +1,13 @@
 ---
-title: ОБЛЕКЛА НА УЧЕБНИЦИ
-special_judge: false
-time_limit: 0.5 초
-memory_limit: 1024 MB
+title: "ОБЛЕКЛА НА УЧЕБНИЦИ"
+special_judge: "false"
+time_limit: "0.5 초"
+memory_limit: "1024 MB"
 submissions: 141
 accepted: 71
 solved_users: 68
-acceptance_rate: 50.000%
-collected_at: 2026-04-17T17:07:04.402684+00:00
+acceptance_rate: "50.000%"
+collected_at: "2026-04-17T17:07:04.402684+00:00"
 ---
 
 ## 문제

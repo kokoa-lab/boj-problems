@@ -1,13 +1,13 @@
 ---
-title: Byephone
-special_judge: true
-time_limit: 2 초
-memory_limit: 3 MB
+title: "Byephone"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "3 MB"
 submissions: 349
 accepted: 181
 solved_users: 164
-acceptance_rate: 60.517%
-collected_at: 2026-04-17T11:52:11.336856+00:00
+acceptance_rate: "60.517%"
+collected_at: "2026-04-17T11:52:11.336856+00:00"
 ---
 
 ## 문제

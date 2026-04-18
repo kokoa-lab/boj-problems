@@ -1,13 +1,13 @@
 ---
-title: 체인점
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "체인점"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 2531
 accepted: 522
 solved_users: 349
-acceptance_rate: 21.557%
-collected_at: 2026-04-17T10:41:54.992738+00:00
+acceptance_rate: "21.557%"
+collected_at: "2026-04-17T10:41:54.992738+00:00"
 ---
 
 ## 문제

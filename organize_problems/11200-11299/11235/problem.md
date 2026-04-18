@@ -1,13 +1,13 @@
 ---
-title: Polling
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Polling"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 360
 accepted: 276
 solved_users: 248
-acceptance_rate: 76.308%
-collected_at: 2026-04-17T12:38:26.874955+00:00
+acceptance_rate: "76.308%"
+collected_at: "2026-04-17T12:38:26.874955+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Glen
-special_judge: true
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Glen"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 225
 accepted: 64
 solved_users: 52
-acceptance_rate: 30.769%
-collected_at: 2026-04-17T14:03:03.261656+00:00
+acceptance_rate: "30.769%"
+collected_at: "2026-04-17T14:03:03.261656+00:00"
 ---
 
 ## 문제

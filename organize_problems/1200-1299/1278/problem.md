@@ -1,13 +1,13 @@
 ---
-title: 연극
-special_judge: true
-time_limit: 2 초
-memory_limit: 128 MB
+title: "연극"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 453
 accepted: 200
 solved_users: 152
-acceptance_rate: 50.667%
-collected_at: 2026-04-17T10:29:13.958081+00:00
+acceptance_rate: "50.667%"
+collected_at: "2026-04-17T10:29:13.958081+00:00"
 ---
 
 ## 문제

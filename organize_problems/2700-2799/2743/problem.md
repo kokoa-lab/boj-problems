@@ -1,13 +1,13 @@
 ---
-title: 단어 길이 재기
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "단어 길이 재기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 128618
 accepted: 101546
 solved_users: 90215
-acceptance_rate: 79.851%
-collected_at: 2026-04-17T10:44:28.404320+00:00
+acceptance_rate: "79.851%"
+collected_at: "2026-04-17T10:44:28.404320+00:00"
 ---
 
 ## 문제

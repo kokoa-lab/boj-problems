@@ -1,13 +1,13 @@
 ---
-title: Virtual Reality Playspace
-special_judge: false
-time_limit: 4 초
-memory_limit: 2048 MB
+title: "Virtual Reality Playspace"
+special_judge: "false"
+time_limit: "4 초"
+memory_limit: "2048 MB"
 submissions: 3
 accepted: 1
 solved_users: 1
-acceptance_rate: 50.000%
-collected_at: 2026-04-17T20:02:43.646247+00:00
+acceptance_rate: "50.000%"
+collected_at: "2026-04-17T20:02:43.646247+00:00"
 ---
 
 ## 문제

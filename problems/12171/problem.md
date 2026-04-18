@@ -1,13 +1,13 @@
 ---
-title: Dijkstra (Large)
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Dijkstra (Large)"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 101
 accepted: 48
 solved_users: 44
-acceptance_rate: 50.575%
-collected_at: 2026-04-17T12:51:19.609650+00:00
+acceptance_rate: "50.575%"
+collected_at: "2026-04-17T12:51:19.609650+00:00"
 ---
 
 ## 문제

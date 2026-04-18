@@ -1,13 +1,13 @@
 ---
-title: 행성 X3
-special_judge: false
-time_limit: 1 초
-memory_limit: 192 MB
+title: "행성 X3"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "192 MB"
 submissions: 3823
 accepted: 1192
 solved_users: 859
-acceptance_rate: 32.513%
-collected_at: 2026-04-17T10:45:10.885418+00:00
+acceptance_rate: "32.513%"
+collected_at: "2026-04-17T10:45:10.885418+00:00"
 ---
 
 ## 문제

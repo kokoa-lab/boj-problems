@@ -1,13 +1,13 @@
 ---
-title: Craftsman
-special_judge: false
-time_limit: 8 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "Craftsman"
+special_judge: "false"
+time_limit: "8 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 15
 accepted: 6
 solved_users: 6
-acceptance_rate: 40.000%
-collected_at: 2026-04-17T16:30:25.868356+00:00
+acceptance_rate: "40.000%"
+collected_at: "2026-04-17T16:30:25.868356+00:00"
 ---
 
 ## 문제

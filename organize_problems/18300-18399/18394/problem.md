@@ -1,13 +1,13 @@
 ---
-title: DUP
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "DUP"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 10
 accepted: 2
 solved_users: 2
-acceptance_rate: 40.000%
-collected_at: 2026-04-17T15:02:29.598061+00:00
+acceptance_rate: "40.000%"
+collected_at: "2026-04-17T15:02:29.598061+00:00"
 ---
 
 ## 문제
@@ -44,8 +44,28 @@ Based on the input, there are 3 images, each has a 4x3 or 3x4 dimension. In the 
 |  |  |  |  |
 | --- | --- | --- | --- |
 | File Name | untitled.png | trip2019.png | game.png |
-| Input | ```  345+ 2344 3455 ``` | ```  323 434 545 54+ ``` | ```  +10 210 351 445 ``` |
+| Input | ``` 
+ 345+
+ 2344
+ 3455 ``` | ``` 
+ 323
+ 434
+ 545
+ 54+ ``` | ``` 
+ +10
+ 210
+ 351
+ 445 ``` |
 | Note | Originally the + sign should be in bottom-left, but because it is rotated +/-180 degrees it is now in top-right. | The image was rotated 90 degrees (or - 270). | The image is rotated 270 (or -90) degrees. |
-| After Rotation | ```  5543 4432 +543 ``` | ```  5543 4432 +543 ``` | ```  0015 1154 +234 ``` |
+| After Rotation | ``` 
+ 5543
+ 4432
+ +543 ``` | ``` 
+ 5543
+ 4432
+ +543 ``` | ``` 
+ 0015
+ 1154
+ +234 ``` |
 
 So [untitled.png, and trip2019.png] are duplicate because they have the same content (pixels).

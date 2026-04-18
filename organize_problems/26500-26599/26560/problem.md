@@ -1,13 +1,13 @@
 ---
-title: Periods
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Periods"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 1862
 accepted: 1394
 solved_users: 1324
-acceptance_rate: 75.657%
-collected_at: 2026-04-17T17:47:49.751606+00:00
+acceptance_rate: "75.657%"
+collected_at: "2026-04-17T17:47:49.751606+00:00"
 ---
 
 ## 문제

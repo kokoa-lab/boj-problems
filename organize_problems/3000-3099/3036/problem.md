@@ -1,13 +1,13 @@
 ---
-title: 링
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "링"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 17554
 accepted: 13316
 solved_users: 12190
-acceptance_rate: 77.167%
-collected_at: 2026-04-17T10:46:20.684708+00:00
+acceptance_rate: "77.167%"
+collected_at: "2026-04-17T10:46:20.684708+00:00"
 ---
 
 ## 문제

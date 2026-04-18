@@ -1,13 +1,13 @@
 ---
-title: Магазин
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Магазин"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 37
 accepted: 28
 solved_users: 25
-acceptance_rate: 75.758%
-collected_at: 2026-04-17T15:36:51.473747+00:00
+acceptance_rate: "75.758%"
+collected_at: "2026-04-17T15:36:51.473747+00:00"
 ---
 
 ## 문제

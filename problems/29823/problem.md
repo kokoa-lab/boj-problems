@@ -1,13 +1,13 @@
 ---
-title: Pakirobot Manhattanis
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Pakirobot Manhattanis"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 819
 accepted: 654
 solved_users: 619
-acceptance_rate: 79.461%
-collected_at: 2026-04-17T18:53:46.717950+00:00
+acceptance_rate: "79.461%"
+collected_at: "2026-04-17T18:53:46.717950+00:00"
 ---
 
 ## 문제

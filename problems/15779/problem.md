@@ -1,13 +1,13 @@
 ---
-title: Zigzag
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Zigzag"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 1340
 accepted: 497
 solved_users: 406
-acceptance_rate: 44.323%
-collected_at: 2026-04-17T14:06:15.151225+00:00
+acceptance_rate: "44.323%"
+collected_at: "2026-04-17T14:06:15.151225+00:00"
 ---
 
 ## 문제

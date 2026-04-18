@@ -1,13 +1,13 @@
 ---
-title: 이제 다시 시작이다
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "이제 다시 시작이다"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 75
 accepted: 37
 solved_users: 25
-acceptance_rate: 43.860%
-collected_at: 2026-04-17T15:10:37.950047+00:00
+acceptance_rate: "43.860%"
+collected_at: "2026-04-17T15:10:37.950047+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Colourful Chameleons
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Colourful Chameleons"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 48
 accepted: 26
 solved_users: 25
-acceptance_rate: 67.568%
-collected_at: 2026-04-18T09:54:21.077944+00:00
+acceptance_rate: "67.568%"
+collected_at: "2026-04-18T09:54:21.077944+00:00"
 ---
 
 ## 문제

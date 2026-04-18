@@ -1,13 +1,13 @@
 ---
-title: 재료 사러 가는 길
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "재료 사러 가는 길"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 48
 accepted: 18
 solved_users: 16
-acceptance_rate: 43.243%
-collected_at: 2026-04-17T10:45:36.756917+00:00
+acceptance_rate: "43.243%"
+collected_at: "2026-04-17T10:45:36.756917+00:00"
 ---
 
 ## 문제

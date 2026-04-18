@@ -1,13 +1,13 @@
 ---
-title: 되먹임 (Feedback)
-special_judge: false
-time_limit: 1 초
-memory_limit: 2048 MB
+title: "되먹임 (Feedback)"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "2048 MB"
 submissions: 32
 accepted: 15
 solved_users: 12
-acceptance_rate: 42.857%
-collected_at: 2026-04-17T20:24:04.390591+00:00
+acceptance_rate: "42.857%"
+collected_at: "2026-04-17T20:24:04.390591+00:00"
 ---
 
 ## 문제

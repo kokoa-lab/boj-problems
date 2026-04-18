@@ -1,13 +1,13 @@
 ---
-title: Word Ladder
-special_judge: true
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Word Ladder"
+special_judge: "true"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 330
 accepted: 106
 solved_users: 60
-acceptance_rate: 45.802%
-collected_at: 2026-04-17T17:23:12.846842+00:00
+acceptance_rate: "45.802%"
+collected_at: "2026-04-17T17:23:12.846842+00:00"
 ---
 
 ## 문제

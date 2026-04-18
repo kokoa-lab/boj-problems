@@ -1,13 +1,13 @@
 ---
-title: 맛있는 사과
-special_judge: false
-time_limit: 2 초
-memory_limit: 2048 MB
+title: "맛있는 사과"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "2048 MB"
 submissions: 1256
 accepted: 251
 solved_users: 187
-acceptance_rate: 29.356%
-collected_at: 2026-04-17T20:06:13.129042+00:00
+acceptance_rate: "29.356%"
+collected_at: "2026-04-17T20:06:13.129042+00:00"
 ---
 
 ## 문제

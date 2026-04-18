@@ -1,13 +1,13 @@
 ---
-title: 도미노 무너트리기
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "도미노 무너트리기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 1122
 accepted: 487
 solved_users: 395
-acceptance_rate: 43.792%
-collected_at: 2026-04-17T17:38:04.350417+00:00
+acceptance_rate: "43.792%"
+collected_at: "2026-04-17T17:38:04.350417+00:00"
 ---
 
 ## 문제

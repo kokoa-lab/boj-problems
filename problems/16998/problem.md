@@ -1,13 +1,13 @@
 ---
-title: It’s a Mod, Mod, Mod, Mod World
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "It’s a Mod, Mod, Mod, Mod World"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 1115
 accepted: 517
 solved_users: 357
-acceptance_rate: 49.930%
-collected_at: 2026-04-17T14:27:19.760017+00:00
+acceptance_rate: "49.930%"
+collected_at: "2026-04-17T14:27:19.760017+00:00"
 ---
 
 ## 문제

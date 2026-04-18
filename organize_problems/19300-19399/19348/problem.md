@@ -1,13 +1,13 @@
 ---
-title: Dissertation
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Dissertation"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 77
 accepted: 30
 solved_users: 21
-acceptance_rate: 39.623%
-collected_at: 2026-04-17T15:17:43.446628+00:00
+acceptance_rate: "39.623%"
+collected_at: "2026-04-17T15:17:43.446628+00:00"
 ---
 
 ## 문제

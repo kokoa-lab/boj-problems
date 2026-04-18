@@ -1,13 +1,13 @@
 ---
-title: 피자는 나눌 수록 커지잖아요
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "피자는 나눌 수록 커지잖아요"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 1468
 accepted: 911
 solved_users: 766
-acceptance_rate: 62.890%
-collected_at: 2026-04-17T14:50:40.366078+00:00
+acceptance_rate: "62.890%"
+collected_at: "2026-04-17T14:50:40.366078+00:00"
 ---
 
 ## 문제

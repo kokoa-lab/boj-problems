@@ -1,13 +1,13 @@
 ---
-title: E-Casino
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "E-Casino"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 19
 accepted: 15
 solved_users: 14
-acceptance_rate: 77.778%
-collected_at: 2026-04-17T12:16:08.802780+00:00
+acceptance_rate: "77.778%"
+collected_at: "2026-04-17T12:16:08.802780+00:00"
 ---
 
 ## 문제

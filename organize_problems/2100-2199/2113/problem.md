@@ -1,13 +1,13 @@
 ---
-title: 행렬과 피보나치 수
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "행렬과 피보나치 수"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 165
 accepted: 26
 solved_users: 11
-acceptance_rate: 22.449%
-collected_at: 2026-04-17T10:38:29.998121+00:00
+acceptance_rate: "22.449%"
+collected_at: "2026-04-17T10:38:29.998121+00:00"
 ---
 
 ## 문제

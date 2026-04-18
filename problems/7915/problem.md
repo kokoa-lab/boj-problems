@@ -1,13 +1,13 @@
 ---
-title: Cave
-special_judge: false
-time_limit: 3 초
-memory_limit: 256 MB
+title: "Cave"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "256 MB"
 submissions: 197
 accepted: 47
 solved_users: 30
-acceptance_rate: 20.690%
-collected_at: 2026-04-17T11:54:06.459044+00:00
+acceptance_rate: "20.690%"
+collected_at: "2026-04-17T11:54:06.459044+00:00"
 ---
 
 ## 문제

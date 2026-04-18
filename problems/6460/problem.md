@@ -1,13 +1,13 @@
 ---
-title: Pizza Anyone?
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Pizza Anyone?"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 47
 accepted: 21
 solved_users: 17
-acceptance_rate: 45.946%
-collected_at: 2026-04-17T11:28:31.777953+00:00
+acceptance_rate: "45.946%"
+collected_at: "2026-04-17T11:28:31.777953+00:00"
 ---
 
 ## 문제

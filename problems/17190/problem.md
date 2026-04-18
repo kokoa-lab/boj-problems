@@ -1,13 +1,13 @@
 ---
-title: Compound Escape
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Compound Escape"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 50
 accepted: 21
 solved_users: 16
-acceptance_rate: 57.143%
-collected_at: 2026-04-17T14:32:26.975250+00:00
+acceptance_rate: "57.143%"
+collected_at: "2026-04-17T14:32:26.975250+00:00"
 ---
 
 ## 문제

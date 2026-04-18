@@ -1,13 +1,13 @@
 ---
-title: 월간 향유회 시즌 종료
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "월간 향유회 시즌 종료"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 436
 accepted: 267
 solved_users: 216
-acceptance_rate: 60.845%
-collected_at: 2026-04-17T20:59:56.038536+00:00
+acceptance_rate: "60.845%"
+collected_at: "2026-04-17T20:59:56.038536+00:00"
 ---
 
 ## 문제

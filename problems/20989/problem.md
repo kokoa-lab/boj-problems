@@ -1,13 +1,13 @@
 ---
-title: Drawing Circles
-special_judge: true
-time_limit: 5 초
-memory_limit: 1024 MB
+title: "Drawing Circles"
+special_judge: "true"
+time_limit: "5 초"
+memory_limit: "1024 MB"
 submissions: 33
 accepted: 20
 solved_users: 7
-acceptance_rate: 36.842%
-collected_at: 2026-04-17T15:44:52.026379+00:00
+acceptance_rate: "36.842%"
+collected_at: "2026-04-17T15:44:52.026379+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 또 전자레인지야?
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "또 전자레인지야?"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 2074
 accepted: 793
 solved_users: 660
-acceptance_rate: 38.261%
-collected_at: 2026-04-17T17:08:42.590948+00:00
+acceptance_rate: "38.261%"
+collected_at: "2026-04-17T17:08:42.590948+00:00"
 ---
 
 ## 문제

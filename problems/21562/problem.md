@@ -1,13 +1,13 @@
 ---
-title: 우물 유적 발굴하기
-special_judge: true
-time_limit: 4 초
-memory_limit: 256 MB
+title: "우물 유적 발굴하기"
+special_judge: "true"
+time_limit: "4 초"
+memory_limit: "256 MB"
 submissions: 189
 accepted: 30
 solved_users: 28
-acceptance_rate: 18.792%
-collected_at: 2026-04-17T16:00:20.518429+00:00
+acceptance_rate: "18.792%"
+collected_at: "2026-04-17T16:00:20.518429+00:00"
 ---
 
 ## 문제

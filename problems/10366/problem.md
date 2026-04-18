@@ -1,13 +1,13 @@
 ---
-title: Hari Merdeka
-special_judge: false
-time_limit: 3 초
-memory_limit: 256 MB
+title: "Hari Merdeka"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "256 MB"
 submissions: 21
 accepted: 13
 solved_users: 12
-acceptance_rate: 63.158%
-collected_at: 2026-04-17T12:22:41.543013+00:00
+acceptance_rate: "63.158%"
+collected_at: "2026-04-17T12:22:41.543013+00:00"
 ---
 
 ## 문제

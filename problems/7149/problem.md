@@ -1,13 +1,13 @@
 ---
-title: Can of Worms
-special_judge: false
-time_limit: 3 초
-memory_limit: 128 MB
+title: "Can of Worms"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "128 MB"
 submissions: 143
 accepted: 54
 solved_users: 36
-acceptance_rate: 36.735%
-collected_at: 2026-04-17T11:46:31.254652+00:00
+acceptance_rate: "36.735%"
+collected_at: "2026-04-17T11:46:31.254652+00:00"
 ---
 
 ## 문제

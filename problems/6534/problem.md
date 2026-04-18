@@ -1,13 +1,13 @@
 ---
-title: All Discs Considered
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "All Discs Considered"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 78
 accepted: 17
 solved_users: 13
-acceptance_rate: 22.807%
-collected_at: 2026-04-17T11:29:57.958448+00:00
+acceptance_rate: "22.807%"
+collected_at: "2026-04-17T11:29:57.958448+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: The ABCD Murderer
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "The ABCD Murderer"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 350
 accepted: 85
 solved_users: 70
-acceptance_rate: 25.180%
-collected_at: 2026-04-17T14:22:39.074287+00:00
+acceptance_rate: "25.180%"
+collected_at: "2026-04-17T14:22:39.074287+00:00"
 ---
 
 ## 문제

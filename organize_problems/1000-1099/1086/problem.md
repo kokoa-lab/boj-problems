@@ -1,13 +1,13 @@
 ---
-title: 박성원
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "박성원"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 14355
 accepted: 4697
 solved_users: 3190
-acceptance_rate: 29.614%
-collected_at: 2026-04-17T10:28:09.518526+00:00
+acceptance_rate: "29.614%"
+collected_at: "2026-04-17T10:28:09.518526+00:00"
 ---
 
 ## 문제

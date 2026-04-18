@@ -1,13 +1,13 @@
 ---
-title: Pyramids
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Pyramids"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 9408
 accepted: 6630
 solved_users: 6302
-acceptance_rate: 71.257%
-collected_at: 2026-04-17T11:13:02.461483+00:00
+acceptance_rate: "71.257%"
+collected_at: "2026-04-17T11:13:02.461483+00:00"
 ---
 
 ## 문제

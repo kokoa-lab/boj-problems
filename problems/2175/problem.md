@@ -1,13 +1,13 @@
 ---
-title: 땅 자르기
-special_judge: true
-time_limit: 2 초
-memory_limit: 128 MB
+title: "땅 자르기"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 208
 accepted: 119
 solved_users: 99
-acceptance_rate: 57.895%
-collected_at: 2026-04-17T10:39:15.249060+00:00
+acceptance_rate: "57.895%"
+collected_at: "2026-04-17T10:39:15.249060+00:00"
 ---
 
 ## 문제

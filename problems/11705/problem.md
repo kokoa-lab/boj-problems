@@ -1,13 +1,13 @@
 ---
-title: Tree Allocation
-special_judge: false
-time_limit: 10 초
-memory_limit: 64 MB
+title: "Tree Allocation"
+special_judge: "false"
+time_limit: "10 초"
+memory_limit: "64 MB"
 submissions: 5
 accepted: 0
 solved_users: 0
-acceptance_rate: 0.000%
-collected_at: 2026-04-17T12:44:25.190646+00:00
+acceptance_rate: "0.000%"
+collected_at: "2026-04-17T12:44:25.190646+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 지각하면 안 돼
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "지각하면 안 돼"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 2119
 accepted: 740
 solved_users: 480
-acceptance_rate: 31.475%
-collected_at: 2026-04-17T13:00:59.333520+00:00
+acceptance_rate: "31.475%"
+collected_at: "2026-04-17T13:00:59.333520+00:00"
 ---
 
 ## 문제

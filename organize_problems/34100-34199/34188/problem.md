@@ -1,13 +1,13 @@
 ---
-title: Tri-Tree XOR
-special_judge: true
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "Tri-Tree XOR"
+special_judge: "true"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 233
 accepted: 75
 solved_users: 42
-acceptance_rate: 26.415%
-collected_at: 2026-04-17T20:32:48.545381+00:00
+acceptance_rate: "26.415%"
+collected_at: "2026-04-17T20:32:48.545381+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: PRIPREME
-special_judge: false
-time_limit: 2 초
-memory_limit: 32 MB
+title: "PRIPREME"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "32 MB"
 submissions: 51
 accepted: 39
 solved_users: 35
-acceptance_rate: 83.333%
-collected_at: 2026-04-17T12:26:17.691546+00:00
+acceptance_rate: "83.333%"
+collected_at: "2026-04-17T12:26:17.691546+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 약속
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "약속"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 3308
 accepted: 1347
 solved_users: 1189
-acceptance_rate: 44.868%
-collected_at: 2026-04-17T10:28:40.169988+00:00
+acceptance_rate: "44.868%"
+collected_at: "2026-04-17T10:28:40.169988+00:00"
 ---
 
 ## 문제

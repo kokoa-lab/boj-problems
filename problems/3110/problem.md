@@ -1,13 +1,13 @@
 ---
-title: 부등식
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "부등식"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 491
 accepted: 143
 solved_users: 101
-acceptance_rate: 37.407%
-collected_at: 2026-04-17T10:46:46.001144+00:00
+acceptance_rate: "37.407%"
+collected_at: "2026-04-17T10:46:46.001144+00:00"
 ---
 
 ## 문제

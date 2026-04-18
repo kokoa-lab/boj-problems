@@ -1,13 +1,13 @@
 ---
-title: 노래 오래 부를래
-special_judge: true
-time_limit: 1 초
-memory_limit: 16 MB
+title: "노래 오래 부를래"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "16 MB"
 submissions: 195
 accepted: 75
 solved_users: 50
-acceptance_rate: 34.247%
-collected_at: 2026-04-17T20:31:25.347743+00:00
+acceptance_rate: "34.247%"
+collected_at: "2026-04-17T20:31:25.347743+00:00"
 ---
 
 ## 문제

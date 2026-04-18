@@ -1,13 +1,13 @@
 ---
-title: 모르고리즘 회장 정하기
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "모르고리즘 회장 정하기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 1158
 accepted: 878
 solved_users: 760
-acceptance_rate: 78.838%
-collected_at: 2026-04-17T19:12:24.284505+00:00
+acceptance_rate: "78.838%"
+collected_at: "2026-04-17T19:12:24.284505+00:00"
 ---
 
 ## 문제

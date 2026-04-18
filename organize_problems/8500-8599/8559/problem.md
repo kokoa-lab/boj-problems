@@ -1,13 +1,13 @@
 ---
-title: Potęga
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Potęga"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 376
 accepted: 163
 solved_users: 143
-acceptance_rate: 41.813%
-collected_at: 2026-04-17T12:00:47.926160+00:00
+acceptance_rate: "41.813%"
+collected_at: "2026-04-17T12:00:47.926160+00:00"
 ---
 
 ## 문제

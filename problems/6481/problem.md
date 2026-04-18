@@ -1,13 +1,13 @@
 ---
-title: Extrapolation Using a Difference Table
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Extrapolation Using a Difference Table"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 11
 accepted: 7
 solved_users: 4
-acceptance_rate: 66.667%
-collected_at: 2026-04-17T11:28:49.588177+00:00
+acceptance_rate: "66.667%"
+collected_at: "2026-04-17T11:28:49.588177+00:00"
 ---
 
 ## 문제

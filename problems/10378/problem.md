@@ -1,13 +1,13 @@
 ---
-title: Grave
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "Grave"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 179
 accepted: 95
 solved_users: 89
-acceptance_rate: 54.601%
-collected_at: 2026-04-17T12:22:45.232311+00:00
+acceptance_rate: "54.601%"
+collected_at: "2026-04-17T12:22:45.232311+00:00"
 ---
 
 ## 문제

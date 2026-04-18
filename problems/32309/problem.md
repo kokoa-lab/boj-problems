@@ -1,13 +1,13 @@
 ---
-title: What's the Order Anyway?
-special_judge: false
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "What's the Order Anyway?"
+special_judge: "false"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 40
 accepted: 25
 solved_users: 22
-acceptance_rate: 64.706%
-collected_at: 2026-04-17T19:48:34.117588+00:00
+acceptance_rate: "64.706%"
+collected_at: "2026-04-17T19:48:34.117588+00:00"
 ---
 
 ## 문제

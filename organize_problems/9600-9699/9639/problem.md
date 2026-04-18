@@ -1,13 +1,13 @@
 ---
-title: Omar Loves Candies
-special_judge: false
-time_limit: 3 초
-memory_limit: 128 MB
+title: "Omar Loves Candies"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "128 MB"
 submissions: 113
 accepted: 45
 solved_users: 38
-acceptance_rate: 37.624%
-collected_at: 2026-04-17T12:12:20.578901+00:00
+acceptance_rate: "37.624%"
+collected_at: "2026-04-17T12:12:20.578901+00:00"
 ---
 
 ## 문제

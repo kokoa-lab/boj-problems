@@ -1,13 +1,13 @@
 ---
-title: 수확
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "수확"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 2092
 accepted: 923
 solved_users: 676
-acceptance_rate: 44.474%
-collected_at: 2026-04-17T10:34:13.103643+00:00
+acceptance_rate: "44.474%"
+collected_at: "2026-04-17T10:34:13.103643+00:00"
 ---
 
 ## 문제

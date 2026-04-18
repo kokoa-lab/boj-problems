@@ -1,13 +1,13 @@
 ---
-title: 군사 기지
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "군사 기지"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 89
 accepted: 34
 solved_users: 27
-acceptance_rate: 43.548%
-collected_at: 2026-04-17T10:46:25.458522+00:00
+acceptance_rate: "43.548%"
+collected_at: "2026-04-17T10:46:25.458522+00:00"
 ---
 
 ## 문제

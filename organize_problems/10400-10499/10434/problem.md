@@ -1,13 +1,13 @@
 ---
-title: 행복한 소수
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "행복한 소수"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 1962
 accepted: 814
 solved_users: 598
-acceptance_rate: 40.215%
-collected_at: 2026-04-17T12:23:35.209620+00:00
+acceptance_rate: "40.215%"
+collected_at: "2026-04-17T12:23:35.209620+00:00"
 ---
 
 ## 문제

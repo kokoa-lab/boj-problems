@@ -1,13 +1,13 @@
 ---
-title: Aligned Typesetting
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Aligned Typesetting"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 319
 accepted: 94
 solved_users: 87
-acceptance_rate: 29.693%
-collected_at: 2026-04-17T14:20:59.910045+00:00
+acceptance_rate: "29.693%"
+collected_at: "2026-04-17T14:20:59.910045+00:00"
 ---
 
 ## 문제

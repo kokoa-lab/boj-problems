@@ -1,13 +1,13 @@
 ---
-title: Necklace of Beads
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Necklace of Beads"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 235
 accepted: 164
 solved_users: 116
-acceptance_rate: 72.956%
-collected_at: 2026-04-17T12:14:59.745157+00:00
+acceptance_rate: "72.956%"
+collected_at: "2026-04-17T12:14:59.745157+00:00"
 ---
 
 ## 문제

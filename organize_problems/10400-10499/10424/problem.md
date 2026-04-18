@@ -1,13 +1,13 @@
 ---
-title: 알고리즘 기말고사
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "알고리즘 기말고사"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 1744
 accepted: 407
 solved_users: 340
-acceptance_rate: 31.835%
-collected_at: 2026-04-17T12:23:26.794051+00:00
+acceptance_rate: "31.835%"
+collected_at: "2026-04-17T12:23:26.794051+00:00"
 ---
 
 ## 문제

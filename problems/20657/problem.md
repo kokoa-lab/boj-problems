@@ -1,13 +1,13 @@
 ---
-title: 가챠를 돌려 동료를 늘리고 최강의 PS 군단을 만들자.
-special_judge: true
-time_limit: 10 초
-memory_limit: 1024 MB
+title: "가챠를 돌려 동료를 늘리고 최강의 PS 군단을 만들자."
+special_judge: "true"
+time_limit: "10 초"
+memory_limit: "1024 MB"
 submissions: 79
 accepted: 36
 solved_users: 16
-acceptance_rate: 35.556%
-collected_at: 2026-04-17T15:39:32.835480+00:00
+acceptance_rate: "35.556%"
+collected_at: "2026-04-17T15:39:32.835480+00:00"
 ---
 
 ## 문제

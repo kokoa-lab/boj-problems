@@ -1,13 +1,13 @@
 ---
-title: 너의 티어는?
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "너의 티어는?"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 1250
 accepted: 673
 solved_users: 548
-acceptance_rate: 58.988%
-collected_at: 2026-04-17T13:39:22.626677+00:00
+acceptance_rate: "58.988%"
+collected_at: "2026-04-17T13:39:22.626677+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 달팽이팽이
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "달팽이팽이"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 405
 accepted: 129
 solved_users: 112
-acceptance_rate: 35.783%
-collected_at: 2026-04-17T16:56:57.755346+00:00
+acceptance_rate: "35.783%"
+collected_at: "2026-04-17T16:56:57.755346+00:00"
 ---
 
 ## 문제

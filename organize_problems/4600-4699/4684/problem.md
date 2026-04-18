@@ -1,13 +1,13 @@
 ---
-title: Mapmaker
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Mapmaker"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 21
 accepted: 15
 solved_users: 15
-acceptance_rate: 88.235%
-collected_at: 2026-04-17T11:07:06.081644+00:00
+acceptance_rate: "88.235%"
+collected_at: "2026-04-17T11:07:06.081644+00:00"
 ---
 
 ## 문제

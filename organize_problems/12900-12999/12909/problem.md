@@ -1,13 +1,13 @@
 ---
-title: 그래프 만들기
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "그래프 만들기"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 207
 accepted: 104
 solved_users: 82
-acceptance_rate: 54.667%
-collected_at: 2026-04-17T13:03:53.999751+00:00
+acceptance_rate: "54.667%"
+collected_at: "2026-04-17T13:03:53.999751+00:00"
 ---
 
 ## 문제

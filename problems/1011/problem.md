@@ -1,13 +1,13 @@
 ---
-title: Fly me to the Alpha Centauri
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Fly me to the Alpha Centauri"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 106809
 accepted: 33868
 solved_users: 26753
-acceptance_rate: 32.800%
-collected_at: 2026-04-17T10:27:39.674681+00:00
+acceptance_rate: "32.800%"
+collected_at: "2026-04-17T10:27:39.674681+00:00"
 ---
 
 ## 문제

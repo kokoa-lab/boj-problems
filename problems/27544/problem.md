@@ -1,13 +1,13 @@
 ---
-title: コイン集め 2 (Coin Collecting 2)
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "コイン集め 2 (Coin Collecting 2)"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 38
 accepted: 31
 solved_users: 30
-acceptance_rate: 88.235%
-collected_at: 2026-04-17T18:06:05.639660+00:00
+acceptance_rate: "88.235%"
+collected_at: "2026-04-17T18:06:05.639660+00:00"
 ---
 
 ## 문제

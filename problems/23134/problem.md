@@ -1,13 +1,13 @@
 ---
-title: Interval Shuffle
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Interval Shuffle"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 37
 accepted: 20
 solved_users: 20
-acceptance_rate: 60.606%
-collected_at: 2026-04-17T16:42:43.845478+00:00
+acceptance_rate: "60.606%"
+collected_at: "2026-04-17T16:42:43.845478+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 부분 문자열 변환
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "부분 문자열 변환"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 285
 accepted: 34
 solved_users: 26
-acceptance_rate: 17.333%
-collected_at: 2026-04-17T14:26:08.581164+00:00
+acceptance_rate: "17.333%"
+collected_at: "2026-04-17T14:26:08.581164+00:00"
 ---
 
 ## 문제

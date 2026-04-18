@@ -1,13 +1,13 @@
 ---
-title: 홍준이는 색칠을 좋아해
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "홍준이는 색칠을 좋아해"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 162
 accepted: 41
 solved_users: 26
-acceptance_rate: 20.472%
-collected_at: 2026-04-17T13:02:40.052348+00:00
+acceptance_rate: "20.472%"
+collected_at: "2026-04-17T13:02:40.052348+00:00"
 ---
 
 ## 문제

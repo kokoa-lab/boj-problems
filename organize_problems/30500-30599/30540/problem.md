@@ -1,13 +1,13 @@
 ---
-title: A Complex Problem
-special_judge: false
-time_limit: 3 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "A Complex Problem"
+special_judge: "false"
+time_limit: "3 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 6
 accepted: 5
 solved_users: 5
-acceptance_rate: 83.333%
-collected_at: 2026-04-17T19:08:59.825501+00:00
+acceptance_rate: "83.333%"
+collected_at: "2026-04-17T19:08:59.825501+00:00"
 ---
 
 ## 문제

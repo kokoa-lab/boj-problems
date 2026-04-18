@@ -1,13 +1,13 @@
 ---
-title: NM과 K (1)
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "NM과 K (1)"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 12417
 accepted: 3827
 solved_users: 2332
-acceptance_rate: 27.019%
-collected_at: 2026-04-17T14:58:40.375859+00:00
+acceptance_rate: "27.019%"
+collected_at: "2026-04-17T14:58:40.375859+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 팀배분
-special_judge: true
-time_limit: 2 초
-memory_limit: 128 MB
+title: "팀배분"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 2618
 accepted: 1097
 solved_users: 885
-acceptance_rate: 43.986%
-collected_at: 2026-04-17T10:36:18.469415+00:00
+acceptance_rate: "43.986%"
+collected_at: "2026-04-17T10:36:18.469415+00:00"
 ---
 
 ## 문제

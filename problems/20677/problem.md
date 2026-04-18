@@ -1,13 +1,13 @@
 ---
-title: Social Distancing
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Social Distancing"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 107
 accepted: 26
 solved_users: 22
-acceptance_rate: 23.404%
-collected_at: 2026-04-17T15:39:52.986854+00:00
+acceptance_rate: "23.404%"
+collected_at: "2026-04-17T15:39:52.986854+00:00"
 ---
 
 ## 문제

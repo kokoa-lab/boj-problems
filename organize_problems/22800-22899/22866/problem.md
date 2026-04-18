@@ -1,13 +1,13 @@
 ---
-title: 탑 보기
-special_judge: false
-time_limit: 1.5 초
-memory_limit: 1024 MB
+title: "탑 보기"
+special_judge: "false"
+time_limit: "1.5 초"
+memory_limit: "1024 MB"
 submissions: 5899
 accepted: 2121
 solved_users: 1566
-acceptance_rate: 33.999%
-collected_at: 2026-04-17T16:37:42.151552+00:00
+acceptance_rate: "33.999%"
+collected_at: "2026-04-17T16:37:42.151552+00:00"
 ---
 
 ## 문제

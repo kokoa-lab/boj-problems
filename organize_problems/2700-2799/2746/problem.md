@@ -1,13 +1,13 @@
 ---
-title: 좋은 배열 만들기
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "좋은 배열 만들기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 1141
 accepted: 210
 solved_users: 148
-acceptance_rate: 20.728%
-collected_at: 2026-04-17T10:44:28.101996+00:00
+acceptance_rate: "20.728%"
+collected_at: "2026-04-17T10:44:28.101996+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 말
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "말"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 375
 accepted: 88
 solved_users: 70
-acceptance_rate: 24.561%
-collected_at: 2026-04-17T12:31:41.686558+00:00
+acceptance_rate: "24.561%"
+collected_at: "2026-04-17T12:31:41.686558+00:00"
 ---
 
 ## 문제

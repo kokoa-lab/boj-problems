@@ -1,13 +1,13 @@
 ---
-title: Closing the Farm (Silver)
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Closing the Farm (Silver)"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 502
 accepted: 323
 solved_users: 282
-acceptance_rate: 66.825%
-collected_at: 2026-04-17T12:48:50.844409+00:00
+acceptance_rate: "66.825%"
+collected_at: "2026-04-17T12:48:50.844409+00:00"
 ---
 
 ## 문제

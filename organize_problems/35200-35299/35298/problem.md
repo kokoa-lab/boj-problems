@@ -1,13 +1,13 @@
 ---
-title: 책 정렬하기
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "책 정렬하기"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 222
 accepted: 78
 solved_users: 71
-acceptance_rate: 43.293%
-collected_at: 2026-04-17T20:59:44.848958+00:00
+acceptance_rate: "43.293%"
+collected_at: "2026-04-17T20:59:44.848958+00:00"
 ---
 
 ## 문제

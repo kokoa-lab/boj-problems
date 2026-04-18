@@ -1,13 +1,13 @@
 ---
-title: 줄번호
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "줄번호"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 17638
 accepted: 10211
 solved_users: 9499
-acceptance_rate: 59.859%
-collected_at: 2026-04-17T11:02:18.034177+00:00
+acceptance_rate: "59.859%"
+collected_at: "2026-04-17T11:02:18.034177+00:00"
 ---
 
 ## 문제

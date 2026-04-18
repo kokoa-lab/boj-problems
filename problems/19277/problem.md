@@ -1,13 +1,13 @@
 ---
-title: ADD, DIV, MAX
-special_judge: false
-time_limit: 5 초
-memory_limit: 256 MB
+title: "ADD, DIV, MAX"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "256 MB"
 submissions: 582
 accepted: 245
 solved_users: 206
-acceptance_rate: 48.131%
-collected_at: 2026-04-17T15:16:13.171716+00:00
+acceptance_rate: "48.131%"
+collected_at: "2026-04-17T15:16:13.171716+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 덧셈과 곱셈
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "덧셈과 곱셈"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 3332
 accepted: 1886
 solved_users: 1732
-acceptance_rate: 59.274%
-collected_at: 2026-04-17T13:38:36.756932+00:00
+acceptance_rate: "59.274%"
+collected_at: "2026-04-17T13:38:36.756932+00:00"
 ---
 
 ## 문제

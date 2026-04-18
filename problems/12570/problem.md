@@ -1,13 +1,13 @@
 ---
-title: Grazing Google Goats (Large)
-special_judge: true
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Grazing Google Goats (Large)"
+special_judge: "true"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 17
 accepted: 9
 solved_users: 5
-acceptance_rate: 38.462%
-collected_at: 2026-04-17T12:57:40.550433+00:00
+acceptance_rate: "38.462%"
+collected_at: "2026-04-17T12:57:40.550433+00:00"
 ---
 
 ## 문제

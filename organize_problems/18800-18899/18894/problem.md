@@ -1,13 +1,13 @@
 ---
-title: Alternative Permutations
-special_judge: false
-time_limit: 8 초
-memory_limit: 256 MB
+title: "Alternative Permutations"
+special_judge: "false"
+time_limit: "8 초"
+memory_limit: "256 MB"
 submissions: 73
 accepted: 4
 solved_users: 4
-acceptance_rate: 12.903%
-collected_at: 2026-04-17T15:11:01.860572+00:00
+acceptance_rate: "12.903%"
+collected_at: "2026-04-17T15:11:01.860572+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 자원 캐기
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "자원 캐기"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 4833
 accepted: 2828
 solved_users: 2327
-acceptance_rate: 58.001%
-collected_at: 2026-04-17T13:33:18.258797+00:00
+acceptance_rate: "58.001%"
+collected_at: "2026-04-17T13:33:18.258797+00:00"
 ---
 
 ## 문제

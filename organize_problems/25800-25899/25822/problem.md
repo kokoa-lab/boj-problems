@@ -1,13 +1,13 @@
 ---
-title: 2000문제 푼 임스
-special_judge: false
-time_limit: 1 초
-memory_limit: 1000 MB
+title: "2000문제 푼 임스"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1000 MB"
 submissions: 790
 accepted: 285
 solved_users: 199
-acceptance_rate: 33.002%
-collected_at: 2026-04-17T17:33:45.048144+00:00
+acceptance_rate: "33.002%"
+collected_at: "2026-04-17T17:33:45.048144+00:00"
 ---
 
 ## 문제

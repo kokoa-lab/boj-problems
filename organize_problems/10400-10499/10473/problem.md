@@ -1,13 +1,13 @@
 ---
-title: 인간 대포
-special_judge: true
-time_limit: 1 초
-memory_limit: 256 MB
+title: "인간 대포"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 2432
 accepted: 1258
 solved_users: 941
-acceptance_rate: 50.810%
-collected_at: 2026-04-17T12:24:12.081955+00:00
+acceptance_rate: "50.810%"
+collected_at: "2026-04-17T12:24:12.081955+00:00"
 ---
 
 ## 문제

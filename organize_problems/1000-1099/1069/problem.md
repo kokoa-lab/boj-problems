@@ -1,13 +1,13 @@
 ---
-title: 집으로
-special_judge: true
-time_limit: 2 초
-memory_limit: 128 MB
+title: "집으로"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 9067
 accepted: 3100
 solved_users: 2521
-acceptance_rate: 35.517%
-collected_at: 2026-04-17T10:28:02.232430+00:00
+acceptance_rate: "35.517%"
+collected_at: "2026-04-17T10:28:02.232430+00:00"
 ---
 
 ## 문제

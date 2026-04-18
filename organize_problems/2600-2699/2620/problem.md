@@ -1,13 +1,13 @@
 ---
-title: 직각다각형의 면적 구하기
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "직각다각형의 면적 구하기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 183
 accepted: 69
 solved_users: 47
-acceptance_rate: 37.600%
-collected_at: 2026-04-17T10:43:21.198596+00:00
+acceptance_rate: "37.600%"
+collected_at: "2026-04-17T10:43:21.198596+00:00"
 ---
 
 ## 문제

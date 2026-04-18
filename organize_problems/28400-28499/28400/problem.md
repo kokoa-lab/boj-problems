@@ -1,13 +1,13 @@
 ---
-title: 거대 로봇 전투
-special_judge: false
-time_limit: 3 초 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "거대 로봇 전투"
+special_judge: "false"
+time_limit: "3 초 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 77
 accepted: 7
 solved_users: 5
-acceptance_rate: 38.462%
-collected_at: 2026-04-17T18:25:56.943663+00:00
+acceptance_rate: "38.462%"
+collected_at: "2026-04-17T18:25:56.943663+00:00"
 ---
 
 ## 문제

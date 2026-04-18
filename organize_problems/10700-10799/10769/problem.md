@@ -1,13 +1,13 @@
 ---
-title: 행복한지 슬픈지
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "행복한지 슬픈지"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 6066
 accepted: 3892
 solved_users: 3536
-acceptance_rate: 65.579%
-collected_at: 2026-04-17T12:29:20.437208+00:00
+acceptance_rate: "65.579%"
+collected_at: "2026-04-17T12:29:20.437208+00:00"
 ---
 
 ## 문제

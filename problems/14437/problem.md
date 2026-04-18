@@ -1,13 +1,13 @@
 ---
-title: 준오는 심술쟁이!!
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "준오는 심술쟁이!!"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 1214
 accepted: 297
 solved_users: 216
-acceptance_rate: 28.235%
-collected_at: 2026-04-17T13:33:26.213771+00:00
+acceptance_rate: "28.235%"
+collected_at: "2026-04-17T13:33:26.213771+00:00"
 ---
 
 ## 문제

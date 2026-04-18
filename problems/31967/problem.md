@@ -1,13 +1,13 @@
 ---
-title: 오름차순
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "오름차순"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 695
 accepted: 152
 solved_users: 112
-acceptance_rate: 26.794%
-collected_at: 2026-04-17T19:39:53.251368+00:00
+acceptance_rate: "26.794%"
+collected_at: "2026-04-17T19:39:53.251368+00:00"
 ---
 
 ## 문제

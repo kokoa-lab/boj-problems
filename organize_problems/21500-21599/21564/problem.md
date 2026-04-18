@@ -1,13 +1,13 @@
 ---
-title: 평화롭게 전쟁하기
-special_judge: false
-time_limit: 5 초
-memory_limit: 256 MB
+title: "평화롭게 전쟁하기"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "256 MB"
 submissions: 35
 accepted: 9
 solved_users: 9
-acceptance_rate: 42.857%
-collected_at: 2026-04-17T16:00:21.997011+00:00
+acceptance_rate: "42.857%"
+collected_at: "2026-04-17T16:00:21.997011+00:00"
 ---
 
 ## 문제

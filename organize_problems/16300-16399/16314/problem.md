@@ -1,13 +1,13 @@
 ---
-title: Kingpin Escape
-special_judge: true
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Kingpin Escape"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 382
 accepted: 138
 solved_users: 108
-acceptance_rate: 37.631%
-collected_at: 2026-04-17T14:15:39.274519+00:00
+acceptance_rate: "37.631%"
+collected_at: "2026-04-17T14:15:39.274519+00:00"
 ---
 
 ## 문제

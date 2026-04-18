@@ -1,13 +1,13 @@
 ---
-title: 가희와 탑
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "가희와 탑"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 4831
 accepted: 1307
 solved_users: 986
-acceptance_rate: 25.147%
-collected_at: 2026-04-17T17:07:46.927251+00:00
+acceptance_rate: "25.147%"
+collected_at: "2026-04-17T17:07:46.927251+00:00"
 ---
 
 ## 문제

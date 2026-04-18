@@ -1,13 +1,13 @@
 ---
-title: Streets Behind
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 2048 MB
+title: "Streets Behind"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "2048 MB"
 submissions: 52
 accepted: 14
 solved_users: 14
-acceptance_rate: 35.000%
-collected_at: 2026-04-17T19:29:49.302480+00:00
+acceptance_rate: "35.000%"
+collected_at: "2026-04-17T19:29:49.302480+00:00"
 ---
 
 ## 문제

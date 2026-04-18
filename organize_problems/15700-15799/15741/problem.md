@@ -1,13 +1,13 @@
 ---
-title: 일반 그래프 최대 가중치 매칭
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "일반 그래프 최대 가중치 매칭"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 272
 accepted: 83
 solved_users: 42
-acceptance_rate: 31.343%
-collected_at: 2026-04-17T14:05:27.109321+00:00
+acceptance_rate: "31.343%"
+collected_at: "2026-04-17T14:05:27.109321+00:00"
 ---
 
 ## 문제

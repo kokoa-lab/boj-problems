@@ -1,13 +1,13 @@
 ---
-title: Odometer
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Odometer"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 275
 accepted: 103
 solved_users: 94
-acceptance_rate: 39.167%
-collected_at: 2026-04-17T12:18:09.071774+00:00
+acceptance_rate: "39.167%"
+collected_at: "2026-04-17T12:18:09.071774+00:00"
 ---
 
 ## 문제

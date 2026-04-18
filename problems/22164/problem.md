@@ -1,13 +1,13 @@
 ---
-title: Джавайское оружие
-special_judge: false
-time_limit: 3 초
-memory_limit: 256 MB
+title: "Джавайское оружие"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "256 MB"
 submissions: 6
 accepted: 2
 solved_users: 2
-acceptance_rate: 100.000%
-collected_at: 2026-04-17T16:16:17.208953+00:00
+acceptance_rate: "100.000%"
+collected_at: "2026-04-17T16:16:17.208953+00:00"
 ---
 
 ## 문제

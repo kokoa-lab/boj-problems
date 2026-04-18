@@ -1,13 +1,13 @@
 ---
-title: Expanding Rods
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Expanding Rods"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 200
 accepted: 41
 solved_users: 35
-acceptance_rate: 22.436%
-collected_at: 2026-04-17T10:59:21.668556+00:00
+acceptance_rate: "22.436%"
+collected_at: "2026-04-17T10:59:21.668556+00:00"
 ---
 
 ## 문제

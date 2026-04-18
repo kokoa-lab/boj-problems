@@ -1,13 +1,13 @@
 ---
-title: Figurines
-special_judge: false
-time_limit: 3 초
-memory_limit: 512 MB
+title: "Figurines"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "512 MB"
 submissions: 146
 accepted: 48
 solved_users: 44
-acceptance_rate: 41.509%
-collected_at: 2026-04-17T15:50:37.288752+00:00
+acceptance_rate: "41.509%"
+collected_at: "2026-04-17T15:50:37.288752+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Conquest
-special_judge: false
-time_limit: 4 초
-memory_limit: 1024 MB
+title: "Conquest"
+special_judge: "false"
+time_limit: "4 초"
+memory_limit: "1024 MB"
 submissions: 110
 accepted: 69
 solved_users: 61
-acceptance_rate: 61.000%
-collected_at: 2026-04-17T15:50:14.229684+00:00
+acceptance_rate: "61.000%"
+collected_at: "2026-04-17T15:50:14.229684+00:00"
 ---
 
 ## 문제

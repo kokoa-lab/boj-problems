@@ -1,13 +1,13 @@
 ---
-title: Counting Peaks of Infection
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Counting Peaks of Infection"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 433
 accepted: 357
 solved_users: 309
-acceptance_rate: 85.124%
-collected_at: 2026-04-17T17:28:09.443127+00:00
+acceptance_rate: "85.124%"
+collected_at: "2026-04-17T17:28:09.443127+00:00"
 ---
 
 ## 문제

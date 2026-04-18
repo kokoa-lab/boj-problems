@@ -1,13 +1,13 @@
 ---
-title: Drawn and Quartered
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Drawn and Quartered"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 261
 accepted: 158
 solved_users: 139
-acceptance_rate: 58.898%
-collected_at: 2026-04-17T14:11:26.973391+00:00
+acceptance_rate: "58.898%"
+collected_at: "2026-04-17T14:11:26.973391+00:00"
 ---
 
 ## 문제

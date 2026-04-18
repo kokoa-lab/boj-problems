@@ -1,13 +1,13 @@
 ---
-title: 사전의 크기
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "사전의 크기"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 135
 accepted: 23
 solved_users: 20
-acceptance_rate: 22.472%
-collected_at: 2026-04-17T10:49:18.156529+00:00
+acceptance_rate: "22.472%"
+collected_at: "2026-04-17T10:49:18.156529+00:00"
 ---
 
 ## 문제

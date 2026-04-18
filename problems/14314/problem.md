@@ -1,13 +1,13 @@
 ---
-title: Sherlock and Parentheses (Small)
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Sherlock and Parentheses (Small)"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 88
 accepted: 72
 solved_users: 60
-acceptance_rate: 81.081%
-collected_at: 2026-04-17T13:30:03.219055+00:00
+acceptance_rate: "81.081%"
+collected_at: "2026-04-17T13:30:03.219055+00:00"
 ---
 
 ## 문제

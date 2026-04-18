@@ -1,13 +1,13 @@
 ---
-title: A Treasure Or A Bomb
-special_judge: false
-time_limit: 8 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "A Treasure Or A Bomb"
+special_judge: "false"
+time_limit: "8 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 5
 accepted: 5
 solved_users: 2
-acceptance_rate: 100.000%
-collected_at: 2026-04-17T16:35:17.311430+00:00
+acceptance_rate: "100.000%"
+collected_at: "2026-04-17T16:35:17.311430+00:00"
 ---
 
 ## 문제

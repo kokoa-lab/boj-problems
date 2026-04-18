@@ -1,13 +1,13 @@
 ---
-title: 고인물의 마지막 리듬게임
-special_judge: true
-time_limit: 3 초
-memory_limit: 1024 MB
+title: "고인물의 마지막 리듬게임"
+special_judge: "true"
+time_limit: "3 초"
+memory_limit: "1024 MB"
 submissions: 94
 accepted: 23
 solved_users: 18
-acceptance_rate: 24.324%
-collected_at: 2026-04-17T20:57:32.946295+00:00
+acceptance_rate: "24.324%"
+collected_at: "2026-04-17T20:57:32.946295+00:00"
 ---
 
 ## 문제

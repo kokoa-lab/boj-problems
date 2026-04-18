@@ -1,13 +1,13 @@
 ---
-title: 타브 악보
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "타브 악보"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 41
 accepted: 12
 solved_users: 10
-acceptance_rate: 28.571%
-collected_at: 2026-04-17T10:29:41.306726+00:00
+acceptance_rate: "28.571%"
+collected_at: "2026-04-17T10:29:41.306726+00:00"
 ---
 
 ## 문제

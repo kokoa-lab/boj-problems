@@ -1,13 +1,13 @@
 ---
-title: 폐쇄회로
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "폐쇄회로"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 96
 accepted: 34
 solved_users: 10
-acceptance_rate: 34.483%
-collected_at: 2026-04-17T10:36:51.888403+00:00
+acceptance_rate: "34.483%"
+collected_at: "2026-04-17T10:36:51.888403+00:00"
 ---
 
 ## 문제

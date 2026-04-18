@@ -1,13 +1,13 @@
 ---
-title: 단백질 식별
-special_judge: true
-time_limit: 1 초
-memory_limit: 512 MB
+title: "단백질 식별"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 209
 accepted: 60
 solved_users: 30
-acceptance_rate: 17.341%
-collected_at: 2026-04-17T10:54:19.993304+00:00
+acceptance_rate: "17.341%"
+collected_at: "2026-04-17T10:54:19.993304+00:00"
 ---
 
 ## 문제

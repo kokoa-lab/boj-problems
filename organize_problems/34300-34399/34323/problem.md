@@ -1,13 +1,13 @@
 ---
-title: 할인이 필요해
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "할인이 필요해"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 1340
 accepted: 683
 solved_users: 636
-acceptance_rate: 52.389%
-collected_at: 2026-04-17T20:35:34.513871+00:00
+acceptance_rate: "52.389%"
+collected_at: "2026-04-17T20:35:34.513871+00:00"
 ---
 
 ## 문제

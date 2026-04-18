@@ -1,13 +1,13 @@
 ---
-title: 가장 긴 짝수 연속한 부분 수열 (large)
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "가장 긴 짝수 연속한 부분 수열 (large)"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 8043
 accepted: 3631
 solved_users: 2725
-acceptance_rate: 43.489%
-collected_at: 2026-04-17T16:37:34.939217+00:00
+acceptance_rate: "43.489%"
+collected_at: "2026-04-17T16:37:34.939217+00:00"
 ---
 
 ## 문제

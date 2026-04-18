@@ -1,13 +1,13 @@
 ---
-title: 대흥민 카페 다녀왔습니다
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "대흥민 카페 다녀왔습니다"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 68
 accepted: 18
 solved_users: 14
-acceptance_rate: 25.926%
-collected_at: 2026-04-17T20:25:44.646074+00:00
+acceptance_rate: "25.926%"
+collected_at: "2026-04-17T20:25:44.646074+00:00"
 ---
 
 ## 문제

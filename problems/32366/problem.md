@@ -1,13 +1,13 @@
 ---
-title: Swipe
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Swipe"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 76
 accepted: 19
 solved_users: 17
-acceptance_rate: 27.419%
-collected_at: 2026-04-17T19:49:40.240293+00:00
+acceptance_rate: "27.419%"
+collected_at: "2026-04-17T19:49:40.240293+00:00"
 ---
 
 ## 문제

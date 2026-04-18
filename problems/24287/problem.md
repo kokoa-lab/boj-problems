@@ -1,13 +1,13 @@
 ---
-title: Field
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Field"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 87
 accepted: 33
 solved_users: 29
-acceptance_rate: 44.615%
-collected_at: 2026-04-17T17:07:05.798697+00:00
+acceptance_rate: "44.615%"
+collected_at: "2026-04-17T17:07:05.798697+00:00"
 ---
 
 ## 문제

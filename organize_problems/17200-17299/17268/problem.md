@@ -1,13 +1,13 @@
 ---
-title: 미팅의 저주
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "미팅의 저주"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 1356
 accepted: 675
 solved_users: 601
-acceptance_rate: 52.489%
-collected_at: 2026-04-17T14:35:51.314096+00:00
+acceptance_rate: "52.489%"
+collected_at: "2026-04-17T14:35:51.314096+00:00"
 ---
 
 ## 문제

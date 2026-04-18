@@ -1,13 +1,13 @@
 ---
-title: 쓰레기 치우기
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "쓰레기 치우기"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 1414
 accepted: 574
 solved_users: 457
-acceptance_rate: 44.980%
-collected_at: 2026-04-17T10:32:50.115550+00:00
+acceptance_rate: "44.980%"
+collected_at: "2026-04-17T10:32:50.115550+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Pique Esconde
-special_judge: false
-time_limit: 0.5 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Pique Esconde"
+special_judge: "false"
+time_limit: "0.5 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 276
 accepted: 194
 solved_users: 174
-acceptance_rate: 73.109%
-collected_at: 2026-04-17T19:11:41.340764+00:00
+acceptance_rate: "73.109%"
+collected_at: "2026-04-17T19:11:41.340764+00:00"
 ---
 
 ## 문제

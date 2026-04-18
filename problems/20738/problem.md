@@ -1,13 +1,13 @@
 ---
-title: Tram
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Tram"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 50
 accepted: 40
 solved_users: 36
-acceptance_rate: 80.000%
-collected_at: 2026-04-17T15:40:42.542130+00:00
+acceptance_rate: "80.000%"
+collected_at: "2026-04-17T15:40:42.542130+00:00"
 ---
 
 ## 문제

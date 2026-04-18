@@ -1,13 +1,13 @@
 ---
-title: Endless Knight (Small)
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Endless Knight (Small)"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 176
 accepted: 103
 solved_users: 32
-acceptance_rate: 49.231%
-collected_at: 2026-04-17T13:00:01.535643+00:00
+acceptance_rate: "49.231%"
+collected_at: "2026-04-17T13:00:01.535643+00:00"
 ---
 
 ## 문제

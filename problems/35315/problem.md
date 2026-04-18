@@ -1,13 +1,13 @@
 ---
-title: LRU와 쿼리
-special_judge: false
-time_limit: 3 초
-memory_limit: 1024 MB
+title: "LRU와 쿼리"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "1024 MB"
 submissions: 42
 accepted: 14
 solved_users: 10
-acceptance_rate: 66.667%
-collected_at: 2026-04-17T21:00:05.907229+00:00
+acceptance_rate: "66.667%"
+collected_at: "2026-04-17T21:00:05.907229+00:00"
 ---
 
 ## 문제

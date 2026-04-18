@@ -1,13 +1,13 @@
 ---
-title: 브실이의 구슬 아이스크림
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "브실이의 구슬 아이스크림"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 394
 accepted: 193
 solved_users: 170
-acceptance_rate: 47.887%
-collected_at: 2026-04-17T18:51:16.798331+00:00
+acceptance_rate: "47.887%"
+collected_at: "2026-04-17T18:51:16.798331+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: ビルの飾りつけ (Building)
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "ビルの飾りつけ (Building)"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 103
 accepted: 80
 solved_users: 71
-acceptance_rate: 78.022%
-collected_at: 2026-04-17T17:05:16.051047+00:00
+acceptance_rate: "78.022%"
+collected_at: "2026-04-17T17:05:16.051047+00:00"
 ---
 
 ## 문제

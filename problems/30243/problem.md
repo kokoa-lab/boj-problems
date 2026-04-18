@@ -1,13 +1,13 @@
 ---
-title: 🧩 N-Queen (Hard)
-special_judge: true
-time_limit: 5 초
-memory_limit: 512 MB
+title: "🧩 N-Queen (Hard)"
+special_judge: "true"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 264
 accepted: 36
 solved_users: 23
-acceptance_rate: 12.707%
-collected_at: 2026-04-17T19:01:36.928486+00:00
+acceptance_rate: "12.707%"
+collected_at: "2026-04-17T19:01:36.928486+00:00"
 ---
 
 ## 문제

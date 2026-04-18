@@ -1,13 +1,13 @@
 ---
-title: Finding Celebrities
-special_judge: false
-time_limit: 20 초 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "Finding Celebrities"
+special_judge: "false"
+time_limit: "20 초 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 258
 accepted: 48
 solved_users: 36
-acceptance_rate: 20.339%
-collected_at: 2026-04-17T20:03:16.746961+00:00
+acceptance_rate: "20.339%"
+collected_at: "2026-04-17T20:03:16.746961+00:00"
 ---
 
 ## 문제

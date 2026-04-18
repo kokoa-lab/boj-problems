@@ -1,13 +1,13 @@
 ---
-title: 복날
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "복날"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 724
 accepted: 278
 solved_users: 192
-acceptance_rate: 38.095%
-collected_at: 2026-04-17T10:32:19.775733+00:00
+acceptance_rate: "38.095%"
+collected_at: "2026-04-17T10:32:19.775733+00:00"
 ---
 
 ## 문제

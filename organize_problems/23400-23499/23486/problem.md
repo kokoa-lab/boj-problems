@@ -1,13 +1,13 @@
 ---
-title: Game and Queries
-special_judge: false
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Game and Queries"
+special_judge: "false"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 5
 accepted: 2
 solved_users: 2
-acceptance_rate: 50.000%
-collected_at: 2026-04-17T16:48:58.257397+00:00
+acceptance_rate: "50.000%"
+collected_at: "2026-04-17T16:48:58.257397+00:00"
 ---
 
 ## 문제

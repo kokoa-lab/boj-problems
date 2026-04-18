@@ -1,13 +1,13 @@
 ---
-title: 거짓말쟁이 효빈이
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "거짓말쟁이 효빈이"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 202
 accepted: 63
 solved_users: 41
-acceptance_rate: 26.623%
-collected_at: 2026-04-17T13:28:49.346127+00:00
+acceptance_rate: "26.623%"
+collected_at: "2026-04-17T13:28:49.346127+00:00"
 ---
 
 ## 문제

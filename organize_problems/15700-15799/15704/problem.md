@@ -1,13 +1,13 @@
 ---
-title: 백준 마라톤 대회
-special_judge: false
-time_limit: 2 초  ( 하단 참고 )
-memory_limit: 512 MB
+title: "백준 마라톤 대회"
+special_judge: "false"
+time_limit: "2 초  ( 하단 참고 )"
+memory_limit: "512 MB"
 submissions: 694
 accepted: 158
 solved_users: 108
-acceptance_rate: 20.971%
-collected_at: 2026-04-17T14:04:45.321831+00:00
+acceptance_rate: "20.971%"
+collected_at: "2026-04-17T14:04:45.321831+00:00"
 ---
 
 ## 문제

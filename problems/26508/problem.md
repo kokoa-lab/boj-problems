@@ -1,13 +1,13 @@
 ---
-title: Semmy
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Semmy"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 47
 accepted: 40
 solved_users: 27
-acceptance_rate: 84.375%
-collected_at: 2026-04-17T17:46:53.034053+00:00
+acceptance_rate: "84.375%"
+collected_at: "2026-04-17T17:46:53.034053+00:00"
 ---
 
 ## 문제

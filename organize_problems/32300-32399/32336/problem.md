@@ -1,13 +1,13 @@
 ---
-title: 효율적으로 감찰하기
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "효율적으로 감찰하기"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 65
 accepted: 46
 solved_users: 42
-acceptance_rate: 79.245%
-collected_at: 2026-04-17T19:49:12.468967+00:00
+acceptance_rate: "79.245%"
+collected_at: "2026-04-17T19:49:12.468967+00:00"
 ---
 
 ## 문제

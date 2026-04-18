@@ -1,13 +1,13 @@
 ---
-title: Junior price robot
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Junior price robot"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 215
 accepted: 119
 solved_users: 109
-acceptance_rate: 57.672%
-collected_at: 2026-04-17T17:06:16.356437+00:00
+acceptance_rate: "57.672%"
+collected_at: "2026-04-17T17:06:16.356437+00:00"
 ---
 
 ## 문제

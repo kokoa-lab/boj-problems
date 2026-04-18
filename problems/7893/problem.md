@@ -1,13 +1,13 @@
 ---
-title: Vase collection
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Vase collection"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 38
 accepted: 15
 solved_users: 11
-acceptance_rate: 40.741%
-collected_at: 2026-04-17T11:53:55.047571+00:00
+acceptance_rate: "40.741%"
+collected_at: "2026-04-17T11:53:55.047571+00:00"
 ---
 
 ## 문제

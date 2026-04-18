@@ -1,13 +1,13 @@
 ---
-title: Target Practice II
-special_judge: false
-time_limit: 2.5 초
-memory_limit: 1024 MB
+title: "Target Practice II"
+special_judge: "false"
+time_limit: "2.5 초"
+memory_limit: "1024 MB"
 submissions: 57
 accepted: 24
 solved_users: 23
-acceptance_rate: 43.396%
-collected_at: 2026-04-17T19:32:53.565396+00:00
+acceptance_rate: "43.396%"
+collected_at: "2026-04-17T19:32:53.565396+00:00"
 ---
 
 ## 문제

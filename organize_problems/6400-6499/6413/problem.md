@@ -1,13 +1,13 @@
 ---
-title: Clock Patience
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Clock Patience"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 192
 accepted: 68
 solved_users: 59
-acceptance_rate: 32.418%
-collected_at: 2026-04-17T11:27:37.387172+00:00
+acceptance_rate: "32.418%"
+collected_at: "2026-04-17T11:27:37.387172+00:00"
 ---
 
 ## 문제

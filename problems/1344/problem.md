@@ -1,13 +1,13 @@
 ---
-title: 축구
-special_judge: true
-time_limit: 2 초
-memory_limit: 128 MB
+title: "축구"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 3523
 accepted: 2301
 solved_users: 1752
-acceptance_rate: 66.998%
-collected_at: 2026-04-17T10:29:33.936955+00:00
+acceptance_rate: "66.998%"
+collected_at: "2026-04-17T10:29:33.936955+00:00"
 ---
 
 ## 문제

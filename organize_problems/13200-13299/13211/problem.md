@@ -1,13 +1,13 @@
 ---
-title: Passport Checking
-special_judge: false
-time_limit: 1 초
-memory_limit: 64 MB
+title: "Passport Checking"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "64 MB"
 submissions: 500
 accepted: 295
 solved_users: 247
-acceptance_rate: 63.496%
-collected_at: 2026-04-17T13:09:18.842999+00:00
+acceptance_rate: "63.496%"
+collected_at: "2026-04-17T13:09:18.842999+00:00"
 ---
 
 ## 문제

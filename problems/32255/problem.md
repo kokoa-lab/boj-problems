@@ -1,13 +1,13 @@
 ---
-title: 지그재그 히스토그램 나누기
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "지그재그 히스토그램 나누기"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 38
 accepted: 7
 solved_users: 7
-acceptance_rate: 25.926%
-collected_at: 2026-04-17T19:47:08.454702+00:00
+acceptance_rate: "25.926%"
+collected_at: "2026-04-17T19:47:08.454702+00:00"
 ---
 
 ## 문제

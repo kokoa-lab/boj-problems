@@ -1,13 +1,13 @@
 ---
-title: 조별 수업
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "조별 수업"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 187
 accepted: 75
 solved_users: 60
-acceptance_rate: 39.735%
-collected_at: 2026-04-17T18:21:02.006143+00:00
+acceptance_rate: "39.735%"
+collected_at: "2026-04-17T18:21:02.006143+00:00"
 ---
 
 ## 문제

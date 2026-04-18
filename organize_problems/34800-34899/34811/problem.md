@@ -1,13 +1,13 @@
 ---
-title: 붉은색 푸른색 그 사이 $i$초 그 짧은 시간
-special_judge: false
-time_limit: 3 초
-memory_limit: 1024 MB
+title: "붉은색 푸른색 그 사이 $i$초 그 짧은 시간"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "1024 MB"
 submissions: 47
 accepted: 25
 solved_users: 23
-acceptance_rate: 67.647%
-collected_at: 2026-04-17T20:49:15.005359+00:00
+acceptance_rate: "67.647%"
+collected_at: "2026-04-17T20:49:15.005359+00:00"
 ---
 
 ## 문제

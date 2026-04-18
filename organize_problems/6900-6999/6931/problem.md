@@ -1,13 +1,13 @@
 ---
-title: Keeping Score
-special_judge: true
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Keeping Score"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 38
 accepted: 28
 solved_users: 24
-acceptance_rate: 77.419%
-collected_at: 2026-04-17T11:41:04.438845+00:00
+acceptance_rate: "77.419%"
+collected_at: "2026-04-17T11:41:04.438845+00:00"
 ---
 
 ## 문제

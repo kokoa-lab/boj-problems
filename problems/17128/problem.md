@@ -1,13 +1,13 @@
 ---
-title: 소가 정보섬에 올라온 이유
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "소가 정보섬에 올라온 이유"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 1801
 accepted: 823
 solved_users: 645
-acceptance_rate: 48.206%
-collected_at: 2026-04-17T14:30:31.183580+00:00
+acceptance_rate: "48.206%"
+collected_at: "2026-04-17T14:30:31.183580+00:00"
 ---
 
 ## 문제

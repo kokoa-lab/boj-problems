@@ -1,13 +1,13 @@
 ---
-title: 정수 수열
-special_judge: false
-time_limit: 0.25 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "정수 수열"
+special_judge: "false"
+time_limit: "0.25 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 1921
 accepted: 464
 solved_users: 403
-acceptance_rate: 30.392%
-collected_at: 2026-04-17T13:33:31.947113+00:00
+acceptance_rate: "30.392%"
+collected_at: "2026-04-17T13:33:31.947113+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Acowdemia
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "Acowdemia"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 365
 accepted: 119
 solved_users: 103
-acceptance_rate: 32.492%
-collected_at: 2026-04-17T16:08:20.320788+00:00
+acceptance_rate: "32.492%"
+collected_at: "2026-04-17T16:08:20.320788+00:00"
 ---
 
 ## 문제

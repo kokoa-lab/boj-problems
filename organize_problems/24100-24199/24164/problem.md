@@ -1,13 +1,13 @@
 ---
-title: 光ファイバー網の整備 (Fiber)
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "光ファイバー網の整備 (Fiber)"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 105
 accepted: 94
 solved_users: 81
-acceptance_rate: 88.043%
-collected_at: 2026-04-17T17:05:19.783271+00:00
+acceptance_rate: "88.043%"
+collected_at: "2026-04-17T17:05:19.783271+00:00"
 ---
 
 ## 문제

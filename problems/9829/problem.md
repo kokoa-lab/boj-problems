@@ -1,13 +1,13 @@
 ---
-title: Change
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Change"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 49
 accepted: 19
 solved_users: 18
-acceptance_rate: 46.154%
-collected_at: 2026-04-17T12:15:16.209640+00:00
+acceptance_rate: "46.154%"
+collected_at: "2026-04-17T12:15:16.209640+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 큐 2
-special_judge: false
-time_limit: 1 초  ( 하단 참고 )
-memory_limit: 512 MB
+title: "큐 2"
+special_judge: "false"
+time_limit: "1 초  ( 하단 참고 )"
+memory_limit: "512 MB"
 submissions: 139168
 accepted: 47590
 solved_users: 38428
-acceptance_rate: 34.117%
-collected_at: 2026-04-17T14:58:10.697499+00:00
+acceptance_rate: "34.117%"
+collected_at: "2026-04-17T14:58:10.697499+00:00"
 ---
 
 ## 문제

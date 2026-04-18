@@ -1,13 +1,13 @@
 ---
-title: 학교 탐방하기
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "학교 탐방하기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 8246
 accepted: 3449
 solved_users: 2514
-acceptance_rate: 38.965%
-collected_at: 2026-04-17T13:12:59.001187+00:00
+acceptance_rate: "38.965%"
+collected_at: "2026-04-17T13:12:59.001187+00:00"
 ---
 
 ## 문제

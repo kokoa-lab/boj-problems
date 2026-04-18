@@ -1,13 +1,13 @@
 ---
-title: 숫자고르기
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "숫자고르기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 26564
 accepted: 12386
 solved_users: 9519
-acceptance_rate: 46.993%
-collected_at: 2026-04-17T10:43:47.208642+00:00
+acceptance_rate: "46.993%"
+collected_at: "2026-04-17T10:43:47.208642+00:00"
 ---
 
 ## 문제

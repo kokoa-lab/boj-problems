@@ -1,13 +1,13 @@
 ---
-title: 짝 정하기
-special_judge: true
-time_limit: 1 초
-memory_limit: 128 MB
+title: "짝 정하기"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 2046
 accepted: 556
 solved_users: 440
-acceptance_rate: 34.429%
-collected_at: 2026-04-17T10:43:06.443888+00:00
+acceptance_rate: "34.429%"
+collected_at: "2026-04-17T10:43:06.443888+00:00"
 ---
 
 ## 문제

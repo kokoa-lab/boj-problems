@@ -1,13 +1,13 @@
 ---
-title: Eurokod
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Eurokod"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 68
 accepted: 55
 solved_users: 53
-acceptance_rate: 82.812%
-collected_at: 2026-04-17T19:24:57.505620+00:00
+acceptance_rate: "82.812%"
+collected_at: "2026-04-17T19:24:57.505620+00:00"
 ---
 
 ## 문제

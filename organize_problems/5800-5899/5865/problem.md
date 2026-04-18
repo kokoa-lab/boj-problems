@@ -1,13 +1,13 @@
 ---
-title: Milk Routing
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Milk Routing"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 86
 accepted: 71
 solved_users: 64
-acceptance_rate: 82.051%
-collected_at: 2026-04-17T11:18:07.153568+00:00
+acceptance_rate: "82.051%"
+collected_at: "2026-04-17T11:18:07.153568+00:00"
 ---
 
 ## 문제

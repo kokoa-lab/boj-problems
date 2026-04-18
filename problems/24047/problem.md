@@ -1,13 +1,13 @@
 ---
-title: 알고리즘 수업 - 버블 정렬 5
-special_judge: false
-time_limit: 3 초
-memory_limit: 512 MB
+title: "알고리즘 수업 - 버블 정렬 5"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "512 MB"
 submissions: 299
 accepted: 47
 solved_users: 42
-acceptance_rate: 48.837%
-collected_at: 2026-04-17T17:02:18.529363+00:00
+acceptance_rate: "48.837%"
+collected_at: "2026-04-17T17:02:18.529363+00:00"
 ---
 
 ## 문제

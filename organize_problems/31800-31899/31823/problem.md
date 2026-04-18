@@ -1,13 +1,13 @@
 ---
-title: 악질 검거
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "악질 검거"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 1022
 accepted: 501
 solved_users: 441
-acceptance_rate: 49.774%
-collected_at: 2026-04-17T19:37:19.090413+00:00
+acceptance_rate: "49.774%"
+collected_at: "2026-04-17T19:37:19.090413+00:00"
 ---
 
 ## 문제

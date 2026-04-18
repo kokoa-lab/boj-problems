@@ -1,13 +1,13 @@
 ---
-title: 주차 요금 정산하기
-special_judge: false
-time_limit: 1 초
-memory_limit: 2048 MB
+title: "주차 요금 정산하기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "2048 MB"
 submissions: 1103
 accepted: 681
 solved_users: 620
-acceptance_rate: 65.332%
-collected_at: 2026-04-17T20:22:55.023249+00:00
+acceptance_rate: "65.332%"
+collected_at: "2026-04-17T20:22:55.023249+00:00"
 ---
 
 ## 문제

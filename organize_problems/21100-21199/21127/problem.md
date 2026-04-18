@@ -1,13 +1,13 @@
 ---
-title: Binary Supersonic Utahraptors
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Binary Supersonic Utahraptors"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 72
 accepted: 62
 solved_users: 53
-acceptance_rate: 89.831%
-collected_at: 2026-04-17T15:48:28.195308+00:00
+acceptance_rate: "89.831%"
+collected_at: "2026-04-17T15:48:28.195308+00:00"
 ---
 
 ## 문제

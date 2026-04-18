@@ -1,13 +1,13 @@
 ---
-title: Biochips
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Biochips"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 223
 accepted: 131
 solved_users: 33
-acceptance_rate: 44.000%
-collected_at: 2026-04-17T12:46:48.489551+00:00
+acceptance_rate: "44.000%"
+collected_at: "2026-04-17T12:46:48.489551+00:00"
 ---
 
 ## 문제

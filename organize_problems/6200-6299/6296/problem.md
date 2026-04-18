@@ -1,13 +1,13 @@
 ---
-title: Crazy Search
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Crazy Search"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 194
 accepted: 138
 solved_users: 91
-acceptance_rate: 80.531%
-collected_at: 2026-04-18T09:49:15.993540+00:00
+acceptance_rate: "80.531%"
+collected_at: "2026-04-18T09:49:15.993540+00:00"
 ---
 
 ## 문제

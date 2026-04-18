@@ -1,13 +1,13 @@
 ---
-title: 신나는 함수 실행
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "신나는 함수 실행"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 59063
 accepted: 26997
 solved_users: 20494
-acceptance_rate: 44.005%
-collected_at: 2026-04-17T12:07:49.001282+00:00
+acceptance_rate: "44.005%"
+collected_at: "2026-04-17T12:07:49.001282+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 반지
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "반지"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 6918
 accepted: 4322
 solved_users: 3891
-acceptance_rate: 64.282%
-collected_at: 2026-04-17T11:15:23.726876+00:00
+acceptance_rate: "64.282%"
+collected_at: "2026-04-17T11:15:23.726876+00:00"
 ---
 
 ## 문제

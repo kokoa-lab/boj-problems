@@ -1,13 +1,13 @@
 ---
-title: 부분 수열의 점수
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "부분 수열의 점수"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 860
 accepted: 279
 solved_users: 220
-acceptance_rate: 33.486%
-collected_at: 2026-04-17T13:28:29.531064+00:00
+acceptance_rate: "33.486%"
+collected_at: "2026-04-17T13:28:29.531064+00:00"
 ---
 
 ## 문제

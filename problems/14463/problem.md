@@ -1,13 +1,13 @@
 ---
-title: 소가 길을 건너간 이유 9
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "소가 길을 건너간 이유 9"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 792
 accepted: 442
 solved_users: 372
-acceptance_rate: 58.491%
-collected_at: 2026-04-17T13:34:12.339802+00:00
+acceptance_rate: "58.491%"
+collected_at: "2026-04-17T13:34:12.339802+00:00"
 ---
 
 ## 문제

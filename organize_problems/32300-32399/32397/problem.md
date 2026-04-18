@@ -1,13 +1,13 @@
 ---
-title: 차이를 $M$ 이하로
-special_judge: false
-time_limit: 3 초
-memory_limit: 1024 MB
+title: "차이를 $M$ 이하로"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "1024 MB"
 submissions: 132
 accepted: 58
 solved_users: 46
-acceptance_rate: 46.465%
-collected_at: 2026-04-17T19:50:14.945667+00:00
+acceptance_rate: "46.465%"
+collected_at: "2026-04-17T19:50:14.945667+00:00"
 ---
 
 ## 문제

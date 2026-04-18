@@ -1,13 +1,13 @@
 ---
-title: Steve's perfectionism
-special_judge: true
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 256 MB
+title: "Steve's perfectionism"
+special_judge: "true"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "256 MB"
 submissions: 76
 accepted: 51
 solved_users: 45
-acceptance_rate: 77.586%
-collected_at: 2026-04-17T16:48:07.837651+00:00
+acceptance_rate: "77.586%"
+collected_at: "2026-04-17T16:48:07.837651+00:00"
 ---
 
 ## 문제

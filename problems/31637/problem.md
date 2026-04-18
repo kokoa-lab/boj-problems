@@ -1,13 +1,13 @@
 ---
-title: ダンス (Dance)
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "ダンス (Dance)"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 105
 accepted: 84
 solved_users: 76
-acceptance_rate: 82.609%
-collected_at: 2026-04-17T19:32:31.319984+00:00
+acceptance_rate: "82.609%"
+collected_at: "2026-04-17T19:32:31.319984+00:00"
 ---
 
 ## 문제

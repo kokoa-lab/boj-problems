@@ -1,13 +1,13 @@
 ---
-title: Words
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Words"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 81
 accepted: 11
 solved_users: 5
-acceptance_rate: 20.000%
-collected_at: 2026-04-17T11:56:55.704837+00:00
+acceptance_rate: "20.000%"
+collected_at: "2026-04-17T11:56:55.704837+00:00"
 ---
 
 ## 문제

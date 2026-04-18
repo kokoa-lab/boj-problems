@@ -1,13 +1,13 @@
 ---
-title: 수 (Hard)
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "수 (Hard)"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 1047
 accepted: 276
 solved_users: 177
-acceptance_rate: 36.570%
-collected_at: 2026-04-17T10:32:04.433630+00:00
+acceptance_rate: "36.570%"
+collected_at: "2026-04-17T10:32:04.433630+00:00"
 ---
 
 ## 문제

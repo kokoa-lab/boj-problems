@@ -1,13 +1,13 @@
 ---
-title: mars
-special_judge: true
-time_limit: 2 초
-memory_limit: 128 MB
+title: "mars"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 46
 accepted: 9
 solved_users: 7
-acceptance_rate: 17.500%
-collected_at: 2026-04-17T10:47:28.722162+00:00
+acceptance_rate: "17.500%"
+collected_at: "2026-04-17T10:47:28.722162+00:00"
 ---
 
 ## 문제

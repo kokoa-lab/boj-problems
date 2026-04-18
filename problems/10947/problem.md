@@ -1,13 +1,13 @@
 ---
-title: 로또
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "로또"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 273072
 accepted: 6542
 solved_users: 455
-acceptance_rate: 0.356%
-collected_at: 2026-04-17T12:32:03.771544+00:00
+acceptance_rate: "0.356%"
+collected_at: "2026-04-17T12:32:03.771544+00:00"
 ---
 
 ## 문제

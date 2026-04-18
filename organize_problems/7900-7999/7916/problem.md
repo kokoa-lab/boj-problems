@@ -1,13 +1,13 @@
 ---
-title: Cross Spider
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Cross Spider"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 355
 accepted: 79
 solved_users: 70
-acceptance_rate: 23.973%
-collected_at: 2026-04-17T11:54:08.032209+00:00
+acceptance_rate: "23.973%"
+collected_at: "2026-04-17T11:54:08.032209+00:00"
 ---
 
 ## 문제

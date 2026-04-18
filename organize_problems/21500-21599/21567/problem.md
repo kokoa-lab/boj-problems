@@ -1,13 +1,13 @@
 ---
-title: 숫자의 개수 2
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 128 MB
+title: "숫자의 개수 2"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "128 MB"
 submissions: 1892
 accepted: 1445
 solved_users: 1326
-acceptance_rate: 77.908%
-collected_at: 2026-04-17T16:00:30.475250+00:00
+acceptance_rate: "77.908%"
+collected_at: "2026-04-17T16:00:30.475250+00:00"
 ---
 
 ## 문제

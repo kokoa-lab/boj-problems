@@ -1,13 +1,13 @@
 ---
-title: 실수
-special_judge: false
-time_limit: 0.5 초
-memory_limit: 512 MB
+title: "실수"
+special_judge: "false"
+time_limit: "0.5 초"
+memory_limit: "512 MB"
 submissions: 409
 accepted: 147
 solved_users: 96
-acceptance_rate: 33.566%
-collected_at: 2026-04-17T17:02:35.374207+00:00
+acceptance_rate: "33.566%"
+collected_at: "2026-04-17T17:02:35.374207+00:00"
 ---
 
 ## 문제

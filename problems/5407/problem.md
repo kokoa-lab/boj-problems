@@ -1,13 +1,13 @@
 ---
-title: Song contest
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Song contest"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 5
 accepted: 2
 solved_users: 2
-acceptance_rate: 40.000%
-collected_at: 2026-04-17T11:13:40.437311+00:00
+acceptance_rate: "40.000%"
+collected_at: "2026-04-17T11:13:40.437311+00:00"
 ---
 
 ## 문제

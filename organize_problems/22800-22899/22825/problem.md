@@ -1,13 +1,13 @@
 ---
-title: Fermat's Last Theorem
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Fermat's Last Theorem"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 258
 accepted: 141
 solved_users: 107
-acceptance_rate: 55.440%
-collected_at: 2026-04-17T16:36:50.271821+00:00
+acceptance_rate: "55.440%"
+collected_at: "2026-04-17T16:36:50.271821+00:00"
 ---
 
 ## 문제

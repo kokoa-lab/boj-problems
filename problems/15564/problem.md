@@ -1,13 +1,13 @@
 ---
-title: Äventyr 2
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Äventyr 2"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 540
 accepted: 194
 solved_users: 136
-acceptance_rate: 32.692%
-collected_at: 2026-04-17T14:01:40.713727+00:00
+acceptance_rate: "32.692%"
+collected_at: "2026-04-17T14:01:40.713727+00:00"
 ---
 
 ## 문제

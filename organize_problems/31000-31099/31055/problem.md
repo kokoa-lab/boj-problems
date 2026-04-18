@@ -1,13 +1,13 @@
 ---
-title: A Graph Problem
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "A Graph Problem"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 97
 accepted: 59
 solved_users: 51
-acceptance_rate: 62.963%
-collected_at: 2026-04-17T19:20:29.120717+00:00
+acceptance_rate: "62.963%"
+collected_at: "2026-04-17T19:20:29.120717+00:00"
 ---
 
 ## 문제

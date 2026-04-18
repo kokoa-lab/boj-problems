@@ -1,13 +1,13 @@
 ---
-title: 나무 탈출
-special_judge: false
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "나무 탈출"
+special_judge: "false"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 12079
 accepted: 3792
 solved_users: 2807
-acceptance_rate: 35.313%
-collected_at: 2026-04-17T14:08:20.943758+00:00
+acceptance_rate: "35.313%"
+collected_at: "2026-04-17T14:08:20.943758+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Zakład
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Zakład"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 114
 accepted: 65
 solved_users: 53
-acceptance_rate: 55.208%
-collected_at: 2026-04-17T12:01:56.650525+00:00
+acceptance_rate: "55.208%"
+collected_at: "2026-04-17T12:01:56.650525+00:00"
 ---
 
 ## 문제

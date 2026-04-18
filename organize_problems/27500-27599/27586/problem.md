@@ -1,13 +1,13 @@
 ---
-title: Profitable Trip
-special_judge: false
-time_limit: 7 초
-memory_limit: 1024 MB
+title: "Profitable Trip"
+special_judge: "false"
+time_limit: "7 초"
+memory_limit: "1024 MB"
 submissions: 26
 accepted: 8
 solved_users: 7
-acceptance_rate: 63.636%
-collected_at: 2026-04-17T18:07:01.012983+00:00
+acceptance_rate: "63.636%"
+collected_at: "2026-04-17T18:07:01.012983+00:00"
 ---
 
 ## 문제

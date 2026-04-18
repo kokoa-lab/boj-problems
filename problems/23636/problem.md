@@ -1,13 +1,13 @@
 ---
-title: 배열 알아맞히기
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "배열 알아맞히기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 630
 accepted: 73
 solved_users: 52
-acceptance_rate: 11.429%
-collected_at: 2026-04-17T16:51:24.957985+00:00
+acceptance_rate: "11.429%"
+collected_at: "2026-04-17T16:51:24.957985+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 기타 레슨
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "기타 레슨"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 50503
 accepted: 18524
 solved_users: 12921
-acceptance_rate: 34.856%
-collected_at: 2026-04-17T10:40:48.733015+00:00
+acceptance_rate: "34.856%"
+collected_at: "2026-04-17T10:40:48.733015+00:00"
 ---
 
 ## 문제

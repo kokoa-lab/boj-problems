@@ -1,13 +1,13 @@
 ---
-title: Feeding Beavers
-special_judge: true
-time_limit: 2.5 초
-memory_limit: 256 MB
+title: "Feeding Beavers"
+special_judge: "true"
+time_limit: "2.5 초"
+memory_limit: "256 MB"
 submissions: 51
 accepted: 34
 solved_users: 30
-acceptance_rate: 63.830%
-collected_at: 2026-04-17T20:23:26.175773+00:00
+acceptance_rate: "63.830%"
+collected_at: "2026-04-17T20:23:26.175773+00:00"
 ---
 
 ## 문제

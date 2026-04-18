@@ -1,13 +1,13 @@
 ---
-title: Score!
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Score!"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 95
 accepted: 45
 solved_users: 42
-acceptance_rate: 51.220%
-collected_at: 2026-04-17T14:25:17.751083+00:00
+acceptance_rate: "51.220%"
+collected_at: "2026-04-17T14:25:17.751083+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: The Bus
-special_judge: false
-time_limit: 3 초
-memory_limit: 512 MB
+title: "The Bus"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "512 MB"
 submissions: 41
 accepted: 32
 solved_users: 30
-acceptance_rate: 76.923%
-collected_at: 2026-04-17T11:54:45.153384+00:00
+acceptance_rate: "76.923%"
+collected_at: "2026-04-17T11:54:45.153384+00:00"
 ---
 
 ## 문제

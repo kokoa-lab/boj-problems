@@ -1,13 +1,13 @@
 ---
-title: 초콜릿과 나이트 게임
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "초콜릿과 나이트 게임"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 324
 accepted: 136
 solved_users: 132
-acceptance_rate: 44.295%
-collected_at: 2026-04-17T17:32:56.537796+00:00
+acceptance_rate: "44.295%"
+collected_at: "2026-04-17T17:32:56.537796+00:00"
 ---
 
 ## 문제

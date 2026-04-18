@@ -1,13 +1,13 @@
 ---
-title: 이미지 축소
-special_judge: true
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "이미지 축소"
+special_judge: "true"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 587
 accepted: 231
 solved_users: 189
-acceptance_rate: 45.652%
-collected_at: 2026-04-17T16:39:56.332079+00:00
+acceptance_rate: "45.652%"
+collected_at: "2026-04-17T16:39:56.332079+00:00"
 ---
 
 ## 문제

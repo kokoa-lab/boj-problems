@@ -1,13 +1,13 @@
 ---
-title: 점 숫자
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "점 숫자"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 1428
 accepted: 704
 solved_users: 572
-acceptance_rate: 54.476%
-collected_at: 2026-04-17T12:04:33.898647+00:00
+acceptance_rate: "54.476%"
+collected_at: "2026-04-17T12:04:33.898647+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Zamknąć Godzillę!
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Zamknąć Godzillę!"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 46
 accepted: 10
 solved_users: 10
-acceptance_rate: 27.027%
-collected_at: 2026-04-17T12:00:13.477871+00:00
+acceptance_rate: "27.027%"
+collected_at: "2026-04-17T12:00:13.477871+00:00"
 ---
 
 ## 문제

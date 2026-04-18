@@ -1,13 +1,13 @@
 ---
-title: 가장 긴 증가하는 팰린드롬 부분수열
-special_judge: false
-time_limit: 1.5 초
-memory_limit: 512 MB
+title: "가장 긴 증가하는 팰린드롬 부분수열"
+special_judge: "false"
+time_limit: "1.5 초"
+memory_limit: "512 MB"
 submissions: 1469
 accepted: 499
 solved_users: 393
-acceptance_rate: 33.909%
-collected_at: 2026-04-17T14:12:45.430212+00:00
+acceptance_rate: "33.909%"
+collected_at: "2026-04-17T14:12:45.430212+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Nim/3
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Nim/3"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 63
 accepted: 12
 solved_users: 12
-acceptance_rate: 20.000%
-collected_at: 2026-04-17T11:14:08.602747+00:00
+acceptance_rate: "20.000%"
+collected_at: "2026-04-17T11:14:08.602747+00:00"
 ---
 
 ## 문제

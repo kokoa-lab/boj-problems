@@ -1,13 +1,13 @@
 ---
-title: 여름나기
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "여름나기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 1347
 accepted: 376
 solved_users: 322
-acceptance_rate: 31.787%
-collected_at: 2026-04-17T14:56:07.633478+00:00
+acceptance_rate: "31.787%"
+collected_at: "2026-04-17T14:56:07.633478+00:00"
 ---
 
 ## 문제

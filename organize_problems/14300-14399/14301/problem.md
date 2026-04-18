@@ -1,13 +1,13 @@
 ---
-title: Sitting (Large)
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Sitting (Large)"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 90
 accepted: 38
 solved_users: 33
-acceptance_rate: 44.595%
-collected_at: 2026-04-17T13:29:45.192451+00:00
+acceptance_rate: "44.595%"
+collected_at: "2026-04-17T13:29:45.192451+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 약물 복용
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "약물 복용"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 690
 accepted: 171
 solved_users: 136
-acceptance_rate: 28.099%
-collected_at: 2026-04-17T20:06:46.131112+00:00
+acceptance_rate: "28.099%"
+collected_at: "2026-04-17T20:06:46.131112+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 놀라운 문자열
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "놀라운 문자열"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 3070
 accepted: 1838
 solved_users: 1588
-acceptance_rate: 61.670%
-collected_at: 2026-04-17T10:36:31.873958+00:00
+acceptance_rate: "61.670%"
+collected_at: "2026-04-17T10:36:31.873958+00:00"
 ---
 
 ## 문제

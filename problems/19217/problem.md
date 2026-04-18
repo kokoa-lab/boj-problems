@@ -1,13 +1,13 @@
 ---
-title: Jitterbug
-special_judge: true
-time_limit: 2 초
-memory_limit: 256 MB
+title: "Jitterbug"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 162
 accepted: 40
 solved_users: 36
-acceptance_rate: 36.735%
-collected_at: 2026-04-17T15:15:09.842738+00:00
+acceptance_rate: "36.735%"
+collected_at: "2026-04-17T15:15:09.842738+00:00"
 ---
 
 ## 문제

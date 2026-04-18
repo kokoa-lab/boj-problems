@@ -1,13 +1,13 @@
 ---
-title: The Teacher's Side of Math
-special_judge: false
-time_limit: 5 초
-memory_limit: 128 MB
+title: "The Teacher's Side of Math"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "128 MB"
 submissions: 102
 accepted: 54
 solved_users: 37
-acceptance_rate: 52.113%
-collected_at: 2026-04-17T10:53:15.364202+00:00
+acceptance_rate: "52.113%"
+collected_at: "2026-04-17T10:53:15.364202+00:00"
 ---
 
 ## 문제

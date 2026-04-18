@@ -1,13 +1,13 @@
 ---
-title: Canyon Mapping
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Canyon Mapping"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 9
 accepted: 1
 solved_users: 1
-acceptance_rate: 12.500%
-collected_at: 2026-04-17T12:38:16.049745+00:00
+acceptance_rate: "12.500%"
+collected_at: "2026-04-17T12:38:16.049745+00:00"
 ---
 
 ## 문제

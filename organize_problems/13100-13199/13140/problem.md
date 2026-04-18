@@ -1,13 +1,13 @@
 ---
-title: Hello World!
-special_judge: true
-time_limit: 1 초
-memory_limit: 32 MB
+title: "Hello World!"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "32 MB"
 submissions: 2861
 accepted: 1029
 solved_users: 806
-acceptance_rate: 35.258%
-collected_at: 2026-04-17T13:08:07.600247+00:00
+acceptance_rate: "35.258%"
+collected_at: "2026-04-17T13:08:07.600247+00:00"
 ---
 
 ## 문제

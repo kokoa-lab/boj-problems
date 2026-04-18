@@ -1,13 +1,13 @@
 ---
-title: Tawla
-special_judge: false
-time_limit: 3 초
-memory_limit: 256 MB
+title: "Tawla"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "256 MB"
 submissions: 2468
 accepted: 1280
 solved_users: 1206
-acceptance_rate: 52.526%
-collected_at: 2026-04-17T12:46:09.531519+00:00
+acceptance_rate: "52.526%"
+collected_at: "2026-04-17T12:46:09.531519+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: The King’s Walk
-special_judge: false
-time_limit: 4 초
-memory_limit: 256 MB
+title: "The King’s Walk"
+special_judge: "false"
+time_limit: "4 초"
+memory_limit: "256 MB"
 submissions: 114
 accepted: 32
 solved_users: 25
-acceptance_rate: 39.683%
-collected_at: 2026-04-17T12:43:11.722195+00:00
+acceptance_rate: "39.683%"
+collected_at: "2026-04-17T12:43:11.722195+00:00"
 ---
 
 ## 문제

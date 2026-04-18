@@ -1,13 +1,13 @@
 ---
-title: 행렬과 쿼리
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "행렬과 쿼리"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 109
 accepted: 36
 solved_users: 29
-acceptance_rate: 32.222%
-collected_at: 2026-04-17T20:24:55.451886+00:00
+acceptance_rate: "32.222%"
+collected_at: "2026-04-17T20:24:55.451886+00:00"
 ---
 
 ## 문제

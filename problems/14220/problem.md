@@ -1,13 +1,13 @@
 ---
-title: 양아치 집배원
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "양아치 집배원"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 345
 accepted: 132
 solved_users: 100
-acceptance_rate: 45.872%
-collected_at: 2026-04-17T13:28:01.514360+00:00
+acceptance_rate: "45.872%"
+collected_at: "2026-04-17T13:28:01.514360+00:00"
 ---
 
 ## 문제

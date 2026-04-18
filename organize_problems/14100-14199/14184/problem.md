@@ -1,13 +1,13 @@
 ---
-title: IOI 2017 Logo
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "IOI 2017 Logo"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 296
 accepted: 121
 solved_users: 111
-acceptance_rate: 41.729%
-collected_at: 2026-04-17T13:27:25.739519+00:00
+acceptance_rate: "41.729%"
+collected_at: "2026-04-17T13:27:25.739519+00:00"
 ---
 
 ## 문제

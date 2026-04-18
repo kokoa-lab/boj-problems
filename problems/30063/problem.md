@@ -1,13 +1,13 @@
 ---
-title: Pabėgimo kambarys
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Pabėgimo kambarys"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 72
 accepted: 62
 solved_users: 52
-acceptance_rate: 83.871%
-collected_at: 2026-04-17T18:58:16.485474+00:00
+acceptance_rate: "83.871%"
+collected_at: "2026-04-17T18:58:16.485474+00:00"
 ---
 
 ## 문제

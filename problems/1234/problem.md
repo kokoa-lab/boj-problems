@@ -1,13 +1,13 @@
 ---
-title: 크리스마스 트리
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "크리스마스 트리"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 2634
 accepted: 1278
 solved_users: 995
-acceptance_rate: 49.380%
-collected_at: 2026-04-17T10:28:58.785408+00:00
+acceptance_rate: "49.380%"
+collected_at: "2026-04-17T10:28:58.785408+00:00"
 ---
 
 ## 문제

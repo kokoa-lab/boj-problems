@@ -1,13 +1,13 @@
 ---
-title: Eatcoin
-special_judge: false
-time_limit: 3 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Eatcoin"
+special_judge: "false"
+time_limit: "3 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 77
 accepted: 44
 solved_users: 38
-acceptance_rate: 57.576%
-collected_at: 2026-04-17T16:46:37.819777+00:00
+acceptance_rate: "57.576%"
+collected_at: "2026-04-17T16:46:37.819777+00:00"
 ---
 
 ## 문제

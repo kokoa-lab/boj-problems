@@ -1,13 +1,13 @@
 ---
-title: Roses
-special_judge: false
-time_limit: 0.5 초 (추가 시간 없음)
-memory_limit: 256 MB
+title: "Roses"
+special_judge: "false"
+time_limit: "0.5 초 (추가 시간 없음)"
+memory_limit: "256 MB"
 submissions: 211
 accepted: 92
 solved_users: 79
-acceptance_rate: 45.930%
-collected_at: 2026-04-17T15:22:50.219227+00:00
+acceptance_rate: "45.930%"
+collected_at: "2026-04-17T15:22:50.219227+00:00"
 ---
 
 ## 문제

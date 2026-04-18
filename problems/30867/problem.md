@@ -1,13 +1,13 @@
 ---
-title: 과제가 너무 많아
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "과제가 너무 많아"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 343
 accepted: 135
 solved_users: 84
-acceptance_rate: 46.409%
-collected_at: 2026-04-17T19:17:08.541149+00:00
+acceptance_rate: "46.409%"
+collected_at: "2026-04-17T19:17:08.541149+00:00"
 ---
 
 ## 문제

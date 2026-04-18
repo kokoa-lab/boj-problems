@@ -1,13 +1,13 @@
 ---
-title: Drop The Byte!
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Drop The Byte!"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 819
 accepted: 371
 solved_users: 310
-acceptance_rate: 49.679%
-collected_at: 2026-04-17T14:50:47.445109+00:00
+acceptance_rate: "49.679%"
+collected_at: "2026-04-17T14:50:47.445109+00:00"
 ---
 
 ## 문제

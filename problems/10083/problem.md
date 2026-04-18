@@ -1,13 +1,13 @@
 ---
-title: Strategy
-special_judge: false
-time_limit: 1 초
-memory_limit: 16 MB
+title: "Strategy"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "16 MB"
 submissions: 37
 accepted: 14
 solved_users: 11
-acceptance_rate: 50.000%
-collected_at: 2026-04-17T12:18:48.591875+00:00
+acceptance_rate: "50.000%"
+collected_at: "2026-04-17T12:18:48.591875+00:00"
 ---
 
 ## 문제

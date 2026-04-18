@@ -1,13 +1,13 @@
 ---
-title: 오아시스 재결합
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "오아시스 재결합"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 36579
 accepted: 10412
 solved_users: 7868
-acceptance_rate: 28.484%
-collected_at: 2026-04-17T10:46:13.200211+00:00
+acceptance_rate: "28.484%"
+collected_at: "2026-04-17T10:46:13.200211+00:00"
 ---
 
 ## 문제

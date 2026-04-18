@@ -1,13 +1,13 @@
 ---
-title: 쿠의 용돈 인상 계획
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "쿠의 용돈 인상 계획"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 143
 accepted: 67
 solved_users: 57
-acceptance_rate: 47.899%
-collected_at: 2026-04-17T20:48:02.943221+00:00
+acceptance_rate: "47.899%"
+collected_at: "2026-04-17T20:48:02.943221+00:00"
 ---
 
 ## 문제

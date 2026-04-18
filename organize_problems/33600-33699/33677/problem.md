@@ -1,13 +1,13 @@
 ---
-title: 푸앙이와 콩나무
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "푸앙이와 콩나무"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 684
 accepted: 288
 solved_users: 237
-acceptance_rate: 44.299%
-collected_at: 2026-04-17T20:21:23.071262+00:00
+acceptance_rate: "44.299%"
+collected_at: "2026-04-17T20:21:23.071262+00:00"
 ---
 
 ## 문제

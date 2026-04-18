@@ -1,13 +1,13 @@
 ---
-title: NBA 농구
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "NBA 농구"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 12276
 accepted: 5860
 solved_users: 4086
-acceptance_rate: 47.210%
-collected_at: 2026-04-17T10:45:16.997644+00:00
+acceptance_rate: "47.210%"
+collected_at: "2026-04-17T10:45:16.997644+00:00"
 ---
 
 ## 문제

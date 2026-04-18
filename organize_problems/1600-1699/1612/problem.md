@@ -1,13 +1,13 @@
 ---
-title: 가지고 노는 1
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "가지고 노는 1"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 2644
 accepted: 975
 solved_users: 809
-acceptance_rate: 38.178%
-collected_at: 2026-04-17T10:31:36.615020+00:00
+acceptance_rate: "38.178%"
+collected_at: "2026-04-17T10:31:36.615020+00:00"
 ---
 
 ## 문제

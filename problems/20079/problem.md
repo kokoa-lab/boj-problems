@@ -1,13 +1,13 @@
 ---
-title: The Big Prize
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "The Big Prize"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 229
 accepted: 52
 solved_users: 46
-acceptance_rate: 25.137%
-collected_at: 2026-04-17T15:31:26.275988+00:00
+acceptance_rate: "25.137%"
+collected_at: "2026-04-17T15:31:26.275988+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Repairing
-special_judge: true
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Repairing"
+special_judge: "true"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 9
 accepted: 1
 solved_users: 1
-acceptance_rate: 14.286%
-collected_at: 2026-04-18T09:51:11.119132+00:00
+acceptance_rate: "14.286%"
+collected_at: "2026-04-18T09:51:11.119132+00:00"
 ---
 
 ## 문제

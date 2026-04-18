@@ -1,13 +1,13 @@
 ---
-title: Inglish-Number Translator
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Inglish-Number Translator"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 136
 accepted: 45
 solved_users: 30
-acceptance_rate: 28.037%
-collected_at: 2026-04-17T11:32:46.432243+00:00
+acceptance_rate: "28.037%"
+collected_at: "2026-04-17T11:32:46.432243+00:00"
 ---
 
 ## 문제

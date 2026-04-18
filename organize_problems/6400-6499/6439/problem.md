@@ -1,13 +1,13 @@
 ---
-title: 교차
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "교차"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 4397
 accepted: 1106
 solved_users: 890
-acceptance_rate: 25.626%
-collected_at: 2026-04-17T11:28:10.229210+00:00
+acceptance_rate: "25.626%"
+collected_at: "2026-04-17T11:28:10.229210+00:00"
 ---
 
 ## 문제

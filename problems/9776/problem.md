@@ -1,13 +1,13 @@
 ---
-title: Max Volume
-special_judge: true
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Max Volume"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 482
 accepted: 391
 solved_users: 335
-acceptance_rate: 83.127%
-collected_at: 2026-04-17T12:14:22.021125+00:00
+acceptance_rate: "83.127%"
+collected_at: "2026-04-17T12:14:22.021125+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Boatherds
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Boatherds"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 22
 accepted: 6
 solved_users: 5
-acceptance_rate: 27.778%
-collected_at: 2026-04-17T11:32:38.791741+00:00
+acceptance_rate: "27.778%"
+collected_at: "2026-04-17T11:32:38.791741+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Cool Numbers
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Cool Numbers"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 321
 accepted: 184
 solved_users: 144
-acceptance_rate: 64.000%
-collected_at: 2026-04-17T11:38:42.126065+00:00
+acceptance_rate: "64.000%"
+collected_at: "2026-04-17T11:38:42.126065+00:00"
 ---
 
 ## 문제

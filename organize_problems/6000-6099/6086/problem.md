@@ -1,13 +1,13 @@
 ---
-title: 최대 유량
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "최대 유량"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 17531
 accepted: 5463
 solved_users: 3045
-acceptance_rate: 28.392%
-collected_at: 2026-04-17T11:20:02.547938+00:00
+acceptance_rate: "28.392%"
+collected_at: "2026-04-17T11:20:02.547938+00:00"
 ---
 
 ## 문제

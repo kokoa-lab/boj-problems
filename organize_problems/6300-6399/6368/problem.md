@@ -1,13 +1,13 @@
 ---
-title: P,MTHBGWB
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "P,MTHBGWB"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 171
 accepted: 140
 solved_users: 93
-acceptance_rate: 76.860%
-collected_at: 2026-04-17T11:26:35.728823+00:00
+acceptance_rate: "76.860%"
+collected_at: "2026-04-17T11:26:35.728823+00:00"
 ---
 
 ## 문제

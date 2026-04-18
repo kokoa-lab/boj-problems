@@ -1,13 +1,13 @@
 ---
-title: False Sense of Security
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "False Sense of Security"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 104
 accepted: 68
 solved_users: 58
-acceptance_rate: 65.169%
-collected_at: 2026-04-17T12:08:32.300078+00:00
+acceptance_rate: "65.169%"
+collected_at: "2026-04-17T12:08:32.300078+00:00"
 ---
 
 ## 문제

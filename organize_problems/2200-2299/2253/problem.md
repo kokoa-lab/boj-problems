@@ -1,13 +1,13 @@
 ---
-title: 점프
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "점프"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 7697
 accepted: 1970
 solved_users: 1270
-acceptance_rate: 23.083%
-collected_at: 2026-04-17T10:39:58.985436+00:00
+acceptance_rate: "23.083%"
+collected_at: "2026-04-17T10:39:58.985436+00:00"
 ---
 
 ## 문제

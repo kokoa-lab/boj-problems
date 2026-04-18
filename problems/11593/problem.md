@@ -1,13 +1,13 @@
 ---
-title: Airports
-special_judge: false
-time_limit: 3 초
-memory_limit: 256 MB
+title: "Airports"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "256 MB"
 submissions: 173
 accepted: 39
 solved_users: 36
-acceptance_rate: 25.352%
-collected_at: 2026-04-17T12:42:40.297341+00:00
+acceptance_rate: "25.352%"
+collected_at: "2026-04-17T12:42:40.297341+00:00"
 ---
 
 ## 문제

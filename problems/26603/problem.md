@@ -1,13 +1,13 @@
 ---
-title: 사기 주사위
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "사기 주사위"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 213
 accepted: 56
 solved_users: 48
-acceptance_rate: 40.000%
-collected_at: 2026-04-17T17:48:32.292165+00:00
+acceptance_rate: "40.000%"
+collected_at: "2026-04-17T17:48:32.292165+00:00"
 ---
 
 ## 문제

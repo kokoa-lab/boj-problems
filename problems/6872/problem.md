@@ -1,13 +1,13 @@
 ---
-title: RSA Numbers
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "RSA Numbers"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 332
 accepted: 187
 solved_users: 153
-acceptance_rate: 57.519%
-collected_at: 2026-04-17T11:39:59.769544+00:00
+acceptance_rate: "57.519%"
+collected_at: "2026-04-17T11:39:59.769544+00:00"
 ---
 
 ## 문제

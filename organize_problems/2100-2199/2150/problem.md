@@ -1,13 +1,13 @@
 ---
-title: Strongly Connected Component
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "Strongly Connected Component"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 19879
 accepted: 9800
 solved_users: 5644
-acceptance_rate: 45.671%
-collected_at: 2026-04-17T10:38:54.206839+00:00
+acceptance_rate: "45.671%"
+collected_at: "2026-04-17T10:38:54.206839+00:00"
 ---
 
 ## 문제

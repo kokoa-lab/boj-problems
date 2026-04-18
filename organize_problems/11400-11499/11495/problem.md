@@ -1,13 +1,13 @@
 ---
-title: 격자 0 만들기
-special_judge: false
-time_limit: 7 초
-memory_limit: 256 MB
+title: "격자 0 만들기"
+special_judge: "false"
+time_limit: "7 초"
+memory_limit: "256 MB"
 submissions: 3738
 accepted: 1307
 solved_users: 785
-acceptance_rate: 32.199%
-collected_at: 2026-04-17T12:41:27.729699+00:00
+acceptance_rate: "32.199%"
+collected_at: "2026-04-17T12:41:27.729699+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Four Points
-special_judge: true
-time_limit: 3 초
-memory_limit: 256 MB
+title: "Four Points"
+special_judge: "true"
+time_limit: "3 초"
+memory_limit: "256 MB"
 submissions: 32
 accepted: 6
 solved_users: 5
-acceptance_rate: 16.667%
-collected_at: 2026-04-17T10:49:46.796385+00:00
+acceptance_rate: "16.667%"
+collected_at: "2026-04-17T10:49:46.796385+00:00"
 ---
 
 ## 문제

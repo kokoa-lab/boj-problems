@@ -1,13 +1,13 @@
 ---
-title: 이면수와 임현수
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "이면수와 임현수"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 1574
 accepted: 387
 solved_users: 348
-acceptance_rate: 25.874%
-collected_at: 2026-04-17T10:29:19.100535+00:00
+acceptance_rate: "25.874%"
+collected_at: "2026-04-17T10:29:19.100535+00:00"
 ---
 
 ## 문제

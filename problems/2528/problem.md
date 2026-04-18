@@ -1,13 +1,13 @@
 ---
-title: 사다리
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "사다리"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 1835
 accepted: 716
 solved_users: 588
-acceptance_rate: 38.684%
-collected_at: 2026-04-17T10:42:27.843295+00:00
+acceptance_rate: "38.684%"
+collected_at: "2026-04-17T10:42:27.843295+00:00"
 ---
 
 ## 문제

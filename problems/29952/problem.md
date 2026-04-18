@@ -1,13 +1,13 @@
 ---
-title: Veider funktsioon
-special_judge: false
-time_limit: 0.1 초
-memory_limit: 1024 MB
+title: "Veider funktsioon"
+special_judge: "false"
+time_limit: "0.1 초"
+memory_limit: "1024 MB"
 submissions: 12
 accepted: 11
 solved_users: 7
-acceptance_rate: 87.500%
-collected_at: 2026-04-17T18:56:02.883405+00:00
+acceptance_rate: "87.500%"
+collected_at: "2026-04-17T18:56:02.883405+00:00"
 ---
 
 ## 문제

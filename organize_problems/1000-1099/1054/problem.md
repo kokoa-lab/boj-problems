@@ -1,13 +1,13 @@
 ---
-title: 팰린드롬 문장
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "팰린드롬 문장"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 1197
 accepted: 175
 solved_users: 132
-acceptance_rate: 29.268%
-collected_at: 2026-04-17T10:27:55.694203+00:00
+acceptance_rate: "29.268%"
+collected_at: "2026-04-17T10:27:55.694203+00:00"
 ---
 
 ## 문제

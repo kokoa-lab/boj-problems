@@ -1,13 +1,13 @@
 ---
-title: Cow Photography
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Cow Photography"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 330
 accepted: 164
 solved_users: 134
-acceptance_rate: 54.251%
-collected_at: 2026-04-17T11:18:30.113911+00:00
+acceptance_rate: "54.251%"
+collected_at: "2026-04-17T11:18:30.113911+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: X부터 시작하는 2세계 생활
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "X부터 시작하는 2세계 생활"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 34
 accepted: 22
 solved_users: 18
-acceptance_rate: 72.000%
-collected_at: 2026-04-17T15:35:38.243438+00:00
+acceptance_rate: "72.000%"
+collected_at: "2026-04-17T15:35:38.243438+00:00"
 ---
 
 ## 문제

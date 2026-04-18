@@ -1,13 +1,13 @@
 ---
-title: 역사
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "역사"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 19460
 accepted: 6719
 solved_users: 4956
-acceptance_rate: 35.471%
-collected_at: 2026-04-17T10:31:37.432701+00:00
+acceptance_rate: "35.471%"
+collected_at: "2026-04-17T10:31:37.432701+00:00"
 ---
 
 ## 문제

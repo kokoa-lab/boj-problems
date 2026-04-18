@@ -1,13 +1,13 @@
 ---
-title: The Euclidean Algorithm
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "The Euclidean Algorithm"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 774
 accepted: 373
 solved_users: 338
-acceptance_rate: 49.128%
-collected_at: 2026-04-17T12:16:45.613806+00:00
+acceptance_rate: "49.128%"
+collected_at: "2026-04-17T12:16:45.613806+00:00"
 ---
 
 ## 문제

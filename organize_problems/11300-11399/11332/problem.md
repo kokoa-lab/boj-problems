@@ -1,13 +1,13 @@
 ---
-title: 시간초과
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "시간초과"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 5660
 accepted: 1409
 solved_users: 1121
-acceptance_rate: 27.348%
-collected_at: 2026-04-17T12:39:46.245751+00:00
+acceptance_rate: "27.348%"
+collected_at: "2026-04-17T12:39:46.245751+00:00"
 ---
 
 ## 문제

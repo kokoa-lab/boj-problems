@@ -1,13 +1,13 @@
 ---
-title: Thistle Darkwater
-special_judge: false
-time_limit: 3 초
-memory_limit: 512 MB
+title: "Thistle Darkwater"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "512 MB"
 submissions: 33
 accepted: 16
 solved_users: 16
-acceptance_rate: 61.538%
-collected_at: 2026-04-18T09:54:21.592199+00:00
+acceptance_rate: "61.538%"
+collected_at: "2026-04-18T09:54:21.592199+00:00"
 ---
 
 ## 문제

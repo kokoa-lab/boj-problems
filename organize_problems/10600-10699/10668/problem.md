@@ -1,13 +1,13 @@
 ---
-title: Ancient Scrolls
-special_judge: false
-time_limit: 8 초 (추가 시간 없음)
-memory_limit: 256 MB
+title: "Ancient Scrolls"
+special_judge: "false"
+time_limit: "8 초 (추가 시간 없음)"
+memory_limit: "256 MB"
 submissions: 6
 accepted: 3
 solved_users: 3
-acceptance_rate: 50.000%
-collected_at: 2026-04-17T12:27:09.709311+00:00
+acceptance_rate: "50.000%"
+collected_at: "2026-04-17T12:27:09.709311+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Distance on Triangulation
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "Distance on Triangulation"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 165
 accepted: 42
 solved_users: 29
-acceptance_rate: 28.713%
-collected_at: 2026-04-17T12:45:05.085780+00:00
+acceptance_rate: "28.713%"
+collected_at: "2026-04-17T12:45:05.085780+00:00"
 ---
 
 ## 문제

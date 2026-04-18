@@ -1,13 +1,13 @@
 ---
-title: std::정렬부터 시작하는 디버깅 생활
-special_judge: true
-time_limit: 2 초
-memory_limit: 512 MB
+title: "std::정렬부터 시작하는 디버깅 생활"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 1525
 accepted: 517
 solved_users: 432
-acceptance_rate: 38.675%
-collected_at: 2026-04-17T13:11:21.007090+00:00
+acceptance_rate: "38.675%"
+collected_at: "2026-04-17T13:11:21.007090+00:00"
 ---
 
 ## 문제

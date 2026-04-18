@@ -1,13 +1,13 @@
 ---
-title: Supermarket
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Supermarket"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 161
 accepted: 136
 solved_users: 115
-acceptance_rate: 87.121%
-collected_at: 2026-04-17T11:54:36.563962+00:00
+acceptance_rate: "87.121%"
+collected_at: "2026-04-17T11:54:36.563962+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 치노의 라떼 아트 (Hard)
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "치노의 라떼 아트 (Hard)"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 278
 accepted: 80
 solved_users: 68
-acceptance_rate: 27.530%
-collected_at: 2026-04-17T18:00:41.487847+00:00
+acceptance_rate: "27.530%"
+collected_at: "2026-04-17T18:00:41.487847+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Good Grass
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Good Grass"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 318
 accepted: 248
 solved_users: 223
-acceptance_rate: 80.797%
-collected_at: 2026-04-17T11:20:38.517228+00:00
+acceptance_rate: "80.797%"
+collected_at: "2026-04-17T11:20:38.517228+00:00"
 ---
 
 ## 문제

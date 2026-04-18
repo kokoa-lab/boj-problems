@@ -1,13 +1,13 @@
 ---
-title: 습격자 초라기와 쿼리 (Normal)
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "습격자 초라기와 쿼리 (Normal)"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 120
 accepted: 65
 solved_users: 39
-acceptance_rate: 46.429%
-collected_at: 2026-04-17T14:30:50.836006+00:00
+acceptance_rate: "46.429%"
+collected_at: "2026-04-17T14:30:50.836006+00:00"
 ---
 
 ## 문제

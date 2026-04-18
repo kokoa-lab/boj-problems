@@ -1,13 +1,13 @@
 ---
-title: New Island
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "New Island"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 71
 accepted: 21
 solved_users: 5
-acceptance_rate: 20.000%
-collected_at: 2026-04-18T09:48:41.819793+00:00
+acceptance_rate: "20.000%"
+collected_at: "2026-04-18T09:48:41.819793+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Generations of Tribbles
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "Generations of Tribbles"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 7357
 accepted: 5391
 solved_users: 4956
-acceptance_rate: 75.193%
-collected_at: 2026-04-17T12:10:40.656936+00:00
+acceptance_rate: "75.193%"
+collected_at: "2026-04-17T12:10:40.656936+00:00"
 ---
 
 ## 문제

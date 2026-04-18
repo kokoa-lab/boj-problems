@@ -1,13 +1,13 @@
 ---
-title: Train Boarding
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Train Boarding"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 152
 accepted: 79
 solved_users: 66
-acceptance_rate: 54.098%
-collected_at: 2026-04-17T15:50:23.102399+00:00
+acceptance_rate: "54.098%"
+collected_at: "2026-04-17T15:50:23.102399+00:00"
 ---
 
 ## 문제

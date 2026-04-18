@@ -1,13 +1,13 @@
 ---
-title: Heraldic Prediction
-special_judge: true
-time_limit: 0.5 초
-memory_limit: 2048 MB
+title: "Heraldic Prediction"
+special_judge: "true"
+time_limit: "0.5 초"
+memory_limit: "2048 MB"
 submissions: 92
 accepted: 41
 solved_users: 19
-acceptance_rate: 37.255%
-collected_at: 2026-04-17T20:11:59.043697+00:00
+acceptance_rate: "37.255%"
+collected_at: "2026-04-17T20:11:59.043697+00:00"
 ---
 
 ## 문제

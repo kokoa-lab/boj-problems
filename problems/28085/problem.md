@@ -1,13 +1,13 @@
 ---
-title: 배 옮기기 (Hard)
-special_judge: false
-time_limit: 3 초
-memory_limit: 1024 MB
+title: "배 옮기기 (Hard)"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "1024 MB"
 submissions: 245
 accepted: 23
 solved_users: 19
-acceptance_rate: 32.203%
-collected_at: 2026-04-17T18:17:55.755805+00:00
+acceptance_rate: "32.203%"
+collected_at: "2026-04-17T18:17:55.755805+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Equilateral Triangles
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Equilateral Triangles"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 134
 accepted: 53
 solved_users: 42
-acceptance_rate: 46.667%
-collected_at: 2026-04-17T15:09:35.242099+00:00
+acceptance_rate: "46.667%"
+collected_at: "2026-04-17T15:09:35.242099+00:00"
 ---
 
 ## 문제

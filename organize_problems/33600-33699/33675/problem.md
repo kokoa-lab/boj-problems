@@ -1,13 +1,13 @@
 ---
-title: L-트로미노 타일링
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "L-트로미노 타일링"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 745
 accepted: 397
 solved_users: 368
-acceptance_rate: 58.044%
-collected_at: 2026-04-17T20:21:24.225966+00:00
+acceptance_rate: "58.044%"
+collected_at: "2026-04-17T20:21:24.225966+00:00"
 ---
 
 ## 문제

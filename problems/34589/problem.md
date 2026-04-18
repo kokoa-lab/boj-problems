@@ -1,13 +1,13 @@
 ---
-title: Fruitful Compression
-special_judge: false
-time_limit: 3 초
-memory_limit: 2048 MB
+title: "Fruitful Compression"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "2048 MB"
 submissions: 9
 accepted: 7
 solved_users: 7
-acceptance_rate: 77.778%
-collected_at: 2026-04-17T20:43:23.003878+00:00
+acceptance_rate: "77.778%"
+collected_at: "2026-04-17T20:43:23.003878+00:00"
 ---
 
 ## 문제

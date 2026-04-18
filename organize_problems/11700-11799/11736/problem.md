@@ -1,13 +1,13 @@
 ---
-title: Binary vs Decimal
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Binary vs Decimal"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 143
 accepted: 74
 solved_users: 42
-acceptance_rate: 48.276%
-collected_at: 2026-04-17T12:45:04.547803+00:00
+acceptance_rate: "48.276%"
+collected_at: "2026-04-17T12:45:04.547803+00:00"
 ---
 
 ## 문제

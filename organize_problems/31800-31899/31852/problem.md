@@ -1,13 +1,13 @@
 ---
-title: 벽록의 가면 (Hard)
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "벽록의 가면 (Hard)"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 96
 accepted: 32
 solved_users: 30
-acceptance_rate: 42.254%
-collected_at: 2026-04-17T19:37:48.361132+00:00
+acceptance_rate: "42.254%"
+collected_at: "2026-04-17T19:37:48.361132+00:00"
 ---
 
 ## 문제

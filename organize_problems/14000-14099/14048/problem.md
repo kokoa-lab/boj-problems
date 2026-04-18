@@ -1,13 +1,13 @@
 ---
-title: Through A Maze Darkly
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Through A Maze Darkly"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 1
 accepted: 1
 solved_users: 1
-acceptance_rate: 100.000%
-collected_at: 2026-04-17T13:24:49.692679+00:00
+acceptance_rate: "100.000%"
+collected_at: "2026-04-17T13:24:49.692679+00:00"
 ---
 
 ## 문제

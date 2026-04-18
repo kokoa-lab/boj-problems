@@ -1,13 +1,13 @@
 ---
-title: Baklava Tray
-special_judge: true
-time_limit: 12 초
-memory_limit: 512 MB
+title: "Baklava Tray"
+special_judge: "true"
+time_limit: "12 초"
+memory_limit: "512 MB"
 submissions: 90
 accepted: 53
 solved_users: 31
-acceptance_rate: 65.957%
-collected_at: 2026-04-17T15:08:37.635652+00:00
+acceptance_rate: "65.957%"
+collected_at: "2026-04-17T15:08:37.635652+00:00"
 ---
 
 ## 문제

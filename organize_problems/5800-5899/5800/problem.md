@@ -1,13 +1,13 @@
 ---
-title: 성적 통계
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "성적 통계"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 15012
 accepted: 7748
 solved_users: 6952
-acceptance_rate: 53.040%
-collected_at: 2026-04-17T11:17:33.370688+00:00
+acceptance_rate: "53.040%"
+collected_at: "2026-04-17T11:17:33.370688+00:00"
 ---
 
 ## 문제

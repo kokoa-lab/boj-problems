@@ -1,13 +1,13 @@
 ---
-title: Between
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)  ( 하단 참고 )
-memory_limit: 1024 MB
+title: "Between"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)  ( 하단 참고 )"
+memory_limit: "1024 MB"
 submissions: 168
 accepted: 60
 solved_users: 53
-acceptance_rate: 40.152%
-collected_at: 2026-04-17T20:46:20.014160+00:00
+acceptance_rate: "40.152%"
+collected_at: "2026-04-17T20:46:20.014160+00:00"
 ---
 
 ## 문제

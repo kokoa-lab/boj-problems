@@ -1,13 +1,13 @@
 ---
-title: Penalty calculation
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Penalty calculation"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 918
 accepted: 549
 solved_users: 494
-acceptance_rate: 63.990%
-collected_at: 2026-04-17T12:31:23.027410+00:00
+acceptance_rate: "63.990%"
+collected_at: "2026-04-17T12:31:23.027410+00:00"
 ---
 
 ## 문제

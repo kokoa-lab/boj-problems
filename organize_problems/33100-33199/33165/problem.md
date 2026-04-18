@@ -1,13 +1,13 @@
 ---
-title: 徒競走 (Footrace)
-special_judge: false
-time_limit: 2 초
-memory_limit: 2048 MB
+title: "徒競走 (Footrace)"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "2048 MB"
 submissions: 1713
 accepted: 1591
 solved_users: 1505
-acceptance_rate: 93.016%
-collected_at: 2026-04-17T20:10:30.395229+00:00
+acceptance_rate: "93.016%"
+collected_at: "2026-04-17T20:10:30.395229+00:00"
 ---
 
 ## 문제

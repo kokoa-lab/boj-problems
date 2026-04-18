@@ -1,13 +1,13 @@
 ---
-title: What Goes Up Must Come Down
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "What Goes Up Must Come Down"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 216
 accepted: 146
 solved_users: 138
-acceptance_rate: 71.134%
-collected_at: 2026-04-17T14:23:24.857517+00:00
+acceptance_rate: "71.134%"
+collected_at: "2026-04-17T14:23:24.857517+00:00"
 ---
 
 ## 문제

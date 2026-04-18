@@ -1,13 +1,13 @@
 ---
-title: 문자열의 개수
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "문자열의 개수"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 444
 accepted: 14
 solved_users: 9
-acceptance_rate: 25.714%
-collected_at: 2026-04-17T13:04:32.824251+00:00
+acceptance_rate: "25.714%"
+collected_at: "2026-04-17T13:04:32.824251+00:00"
 ---
 
 ## 문제

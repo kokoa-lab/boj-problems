@@ -1,13 +1,13 @@
 ---
-title: Duplicates
-special_judge: true
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Duplicates"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 163
 accepted: 74
 solved_users: 68
-acceptance_rate: 45.946%
-collected_at: 2026-04-17T19:31:45.360547+00:00
+acceptance_rate: "45.946%"
+collected_at: "2026-04-17T19:31:45.360547+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Ω
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Ω"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 236
 accepted: 80
 solved_users: 70
-acceptance_rate: 33.175%
-collected_at: 2026-04-17T13:08:43.064777+00:00
+acceptance_rate: "33.175%"
+collected_at: "2026-04-17T13:08:43.064777+00:00"
 ---
 
 ## 문제

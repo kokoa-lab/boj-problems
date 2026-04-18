@@ -1,13 +1,13 @@
 ---
-title: 문제 제목 뭐라 짓지
-special_judge: true
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "문제 제목 뭐라 짓지"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 88
 accepted: 16
 solved_users: 10
-acceptance_rate: 25.641%
-collected_at: 2026-04-17T19:40:21.020082+00:00
+acceptance_rate: "25.641%"
+collected_at: "2026-04-17T19:40:21.020082+00:00"
 ---
 
 ## 문제

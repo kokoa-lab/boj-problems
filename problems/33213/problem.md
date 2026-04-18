@@ -1,13 +1,13 @@
 ---
-title: Fermatovi Fakini
-special_judge: false
-time_limit: 1 초
-memory_limit: 2048 MB
+title: "Fermatovi Fakini"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "2048 MB"
 submissions: 187
 accepted: 143
 solved_users: 125
-acceptance_rate: 79.114%
-collected_at: 2026-04-17T20:11:34.506573+00:00
+acceptance_rate: "79.114%"
+collected_at: "2026-04-17T20:11:34.506573+00:00"
 ---
 
 ## 문제

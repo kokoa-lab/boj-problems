@@ -1,13 +1,13 @@
 ---
-title: 숫자 카드 제거 게임
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "숫자 카드 제거 게임"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 542
 accepted: 225
 solved_users: 166
-acceptance_rate: 42.025%
-collected_at: 2026-04-17T15:11:39.674813+00:00
+acceptance_rate: "42.025%"
+collected_at: "2026-04-17T15:11:39.674813+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Champernowne Count
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Champernowne Count"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 104
 accepted: 85
 solved_users: 78
-acceptance_rate: 84.783%
-collected_at: 2026-04-17T18:06:44.869296+00:00
+acceptance_rate: "84.783%"
+collected_at: "2026-04-17T18:06:44.869296+00:00"
 ---
 
 ## 문제

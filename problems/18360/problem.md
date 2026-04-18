@@ -1,13 +1,13 @@
 ---
-title: Logistics
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Logistics"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 60
 accepted: 32
 solved_users: 24
-acceptance_rate: 57.143%
-collected_at: 2026-04-17T15:00:52.449974+00:00
+acceptance_rate: "57.143%"
+collected_at: "2026-04-17T15:00:52.449974+00:00"
 ---
 
 ## 문제

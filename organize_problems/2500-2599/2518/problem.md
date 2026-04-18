@@ -1,13 +1,13 @@
 ---
-title: 회전 테이블
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "회전 테이블"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 873
 accepted: 396
 solved_users: 314
-acceptance_rate: 47.720%
-collected_at: 2026-04-17T10:42:19.264833+00:00
+acceptance_rate: "47.720%"
+collected_at: "2026-04-17T10:42:19.264833+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 마트료시카 박스 II
-special_judge: true
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "마트료시카 박스 II"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 133
 accepted: 71
 solved_users: 59
-acceptance_rate: 55.660%
-collected_at: 2026-04-17T17:29:28.963014+00:00
+acceptance_rate: "55.660%"
+collected_at: "2026-04-17T17:29:28.963014+00:00"
 ---
 
 ## 문제

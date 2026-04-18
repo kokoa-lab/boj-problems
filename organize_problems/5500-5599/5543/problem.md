@@ -1,13 +1,13 @@
 ---
-title: 상근날드
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "상근날드"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 51162
 accepted: 33772
 solved_users: 30651
-acceptance_rate: 68.393%
-collected_at: 2026-04-17T11:15:17.242771+00:00
+acceptance_rate: "68.393%"
+collected_at: "2026-04-17T11:15:17.242771+00:00"
 ---
 
 ## 문제

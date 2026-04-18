@@ -1,13 +1,13 @@
 ---
-title: Coin
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Coin"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 50
 accepted: 29
 solved_users: 24
-acceptance_rate: 58.537%
-collected_at: 2026-04-17T12:16:40.310156+00:00
+acceptance_rate: "58.537%"
+collected_at: "2026-04-17T12:16:40.310156+00:00"
 ---
 
 ## 문제

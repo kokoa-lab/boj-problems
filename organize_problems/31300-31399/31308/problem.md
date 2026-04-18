@@ -1,13 +1,13 @@
 ---
-title: Magnesium Supplementation
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Magnesium Supplementation"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 98
 accepted: 58
 solved_users: 47
-acceptance_rate: 57.317%
-collected_at: 2026-04-17T19:25:35.899171+00:00
+acceptance_rate: "57.317%"
+collected_at: "2026-04-17T19:25:35.899171+00:00"
 ---
 
 ## 문제

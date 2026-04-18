@@ -1,13 +1,13 @@
 ---
-title: 욘세이대학교
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "욘세이대학교"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 221
 accepted: 111
 solved_users: 96
-acceptance_rate: 53.631%
-collected_at: 2026-04-17T20:49:33.275189+00:00
+acceptance_rate: "53.631%"
+collected_at: "2026-04-17T20:49:33.275189+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 히오스 프로게이머
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "히오스 프로게이머"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 7219
 accepted: 2487
 solved_users: 1810
-acceptance_rate: 34.701%
-collected_at: 2026-04-17T14:20:12.011216+00:00
+acceptance_rate: "34.701%"
+collected_at: "2026-04-17T14:20:12.011216+00:00"
 ---
 
 ## 문제

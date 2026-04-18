@@ -1,13 +1,13 @@
 ---
-title: 이상한 토너먼트
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "이상한 토너먼트"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 365
 accepted: 159
 solved_users: 138
-acceptance_rate: 51.880%
-collected_at: 2026-04-17T13:57:04.096396+00:00
+acceptance_rate: "51.880%"
+collected_at: "2026-04-17T13:57:04.096396+00:00"
 ---
 
 ## 문제

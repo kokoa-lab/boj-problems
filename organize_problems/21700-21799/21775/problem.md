@@ -1,13 +1,13 @@
 ---
-title: 가희와 자원 놀이
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "가희와 자원 놀이"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 539
 accepted: 270
 solved_users: 180
-acceptance_rate: 46.512%
-collected_at: 2026-04-17T16:07:21.729274+00:00
+acceptance_rate: "46.512%"
+collected_at: "2026-04-17T16:07:21.729274+00:00"
 ---
 
 ## 문제

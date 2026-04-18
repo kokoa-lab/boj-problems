@@ -1,13 +1,13 @@
 ---
-title: Questionnaire
-special_judge: true
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Questionnaire"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 721
 accepted: 378
 solved_users: 290
-acceptance_rate: 54.104%
-collected_at: 2026-04-17T15:11:52.906931+00:00
+acceptance_rate: "54.104%"
+collected_at: "2026-04-17T15:11:52.906931+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: On My Way Dorm
-special_judge: true
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "On My Way Dorm"
+special_judge: "true"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 549
 accepted: 250
 solved_users: 216
-acceptance_rate: 53.465%
-collected_at: 2026-04-17T18:13:13.251582+00:00
+acceptance_rate: "53.465%"
+collected_at: "2026-04-17T18:13:13.251582+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Supporting everyone
-special_judge: false
-time_limit: 0.25 초
-memory_limit: 1024 MB
+title: "Supporting everyone"
+special_judge: "false"
+time_limit: "0.25 초"
+memory_limit: "1024 MB"
 submissions: 70
 accepted: 65
 solved_users: 63
-acceptance_rate: 92.647%
-collected_at: 2026-04-17T19:28:57.730173+00:00
+acceptance_rate: "92.647%"
+collected_at: "2026-04-17T19:28:57.730173+00:00"
 ---
 
 ## 문제

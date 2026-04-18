@@ -1,13 +1,13 @@
 ---
-title: 座席 (Seats)
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "座席 (Seats)"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 54
 accepted: 13
 solved_users: 10
-acceptance_rate: 52.632%
-collected_at: 2026-04-17T14:24:09.901922+00:00
+acceptance_rate: "52.632%"
+collected_at: "2026-04-17T14:24:09.901922+00:00"
 ---
 
 ## 문제

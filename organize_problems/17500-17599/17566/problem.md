@@ -1,13 +1,13 @@
 ---
-title: Bus Logic
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "Bus Logic"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 183
 accepted: 92
 solved_users: 83
-acceptance_rate: 49.701%
-collected_at: 2026-04-17T14:41:54.615751+00:00
+acceptance_rate: "49.701%"
+collected_at: "2026-04-17T14:41:54.615751+00:00"
 ---
 
 ## 문제

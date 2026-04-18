@@ -1,13 +1,13 @@
 ---
-title: 커플 파괴자 민욱이 (Small)
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "커플 파괴자 민욱이 (Small)"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 290
 accepted: 83
 solved_users: 56
-acceptance_rate: 27.723%
-collected_at: 2026-04-17T19:08:29.820450+00:00
+acceptance_rate: "27.723%"
+collected_at: "2026-04-17T19:08:29.820450+00:00"
 ---
 
 ## 문제

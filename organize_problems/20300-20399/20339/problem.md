@@ -1,13 +1,13 @@
 ---
-title: Kleptocrat
-special_judge: false
-time_limit: 7 초
-memory_limit: 512 MB
+title: "Kleptocrat"
+special_judge: "false"
+time_limit: "7 초"
+memory_limit: "512 MB"
 submissions: 77
 accepted: 54
 solved_users: 49
-acceptance_rate: 71.014%
-collected_at: 2026-04-17T15:35:20.898998+00:00
+acceptance_rate: "71.014%"
+collected_at: "2026-04-17T15:35:20.898998+00:00"
 ---
 
 ## 문제

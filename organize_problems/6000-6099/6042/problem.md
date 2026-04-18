@@ -1,13 +1,13 @@
 ---
-title: Longest Contiguous Subsequence
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Longest Contiguous Subsequence"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 125
 accepted: 90
 solved_users: 81
-acceptance_rate: 72.973%
-collected_at: 2026-04-17T11:19:38.312826+00:00
+acceptance_rate: "72.973%"
+collected_at: "2026-04-17T11:19:38.312826+00:00"
 ---
 
 ## 문제

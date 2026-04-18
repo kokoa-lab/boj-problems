@@ -1,13 +1,13 @@
 ---
-title: 사서왕 준서
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "사서왕 준서"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 190
 accepted: 115
 solved_users: 91
-acceptance_rate: 58.710%
-collected_at: 2026-04-17T13:02:44.527587+00:00
+acceptance_rate: "58.710%"
+collected_at: "2026-04-17T13:02:44.527587+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 괴도 강산
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "괴도 강산"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 666
 accepted: 377
 solved_users: 257
-acceptance_rate: 53.320%
-collected_at: 2026-04-17T14:03:56.078980+00:00
+acceptance_rate: "53.320%"
+collected_at: "2026-04-17T14:03:56.078980+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Collider
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "Collider"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 46
 accepted: 24
 solved_users: 22
-acceptance_rate: 66.667%
-collected_at: 2026-04-17T12:46:43.949669+00:00
+acceptance_rate: "66.667%"
+collected_at: "2026-04-17T12:46:43.949669+00:00"
 ---
 
 ## 문제

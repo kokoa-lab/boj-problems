@@ -1,13 +1,13 @@
 ---
-title: Galactic taxes
-special_judge: false
-time_limit: 3 초
-memory_limit: 256 MB
+title: "Galactic taxes"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "256 MB"
 submissions: 104
 accepted: 32
 solved_users: 27
-acceptance_rate: 31.034%
-collected_at: 2026-04-17T12:42:03.651698+00:00
+acceptance_rate: "31.034%"
+collected_at: "2026-04-17T12:42:03.651698+00:00"
 ---
 
 ## 문제

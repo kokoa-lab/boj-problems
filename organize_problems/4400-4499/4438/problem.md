@@ -1,13 +1,13 @@
 ---
-title: 팡고른 숲
-special_judge: true
-time_limit: 3 초
-memory_limit: 128 MB
+title: "팡고른 숲"
+special_judge: "true"
+time_limit: "3 초"
+memory_limit: "128 MB"
 submissions: 66
 accepted: 21
 solved_users: 16
-acceptance_rate: 42.105%
-collected_at: 2026-04-17T11:01:42.785812+00:00
+acceptance_rate: "42.105%"
+collected_at: "2026-04-17T11:01:42.785812+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 버스 탈주 전쟁
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "버스 탈주 전쟁"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 224
 accepted: 132
 solved_users: 112
-acceptance_rate: 58.639%
-collected_at: 2026-04-17T20:53:10.567598+00:00
+acceptance_rate: "58.639%"
+collected_at: "2026-04-17T20:53:10.567598+00:00"
 ---
 
 ## 문제

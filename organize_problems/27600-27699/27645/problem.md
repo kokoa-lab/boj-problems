@@ -1,13 +1,13 @@
 ---
-title: Internet problem (Hard)
-special_judge: false
-time_limit: 5 초
-memory_limit: 1024 MB
+title: "Internet problem (Hard)"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "1024 MB"
 submissions: 6
 accepted: 2
 solved_users: 2
-acceptance_rate: 40.000%
-collected_at: 2026-04-17T18:08:09.968018+00:00
+acceptance_rate: "40.000%"
+collected_at: "2026-04-17T18:08:09.968018+00:00"
 ---
 
 ## 문제

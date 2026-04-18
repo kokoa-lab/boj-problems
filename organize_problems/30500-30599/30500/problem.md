@@ -1,13 +1,13 @@
 ---
-title: Locking Doors
-special_judge: false
-time_limit: 5 초
-memory_limit: 1024 MB
+title: "Locking Doors"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "1024 MB"
 submissions: 78
 accepted: 66
 solved_users: 62
-acceptance_rate: 86.111%
-collected_at: 2026-04-17T19:08:03.231794+00:00
+acceptance_rate: "86.111%"
+collected_at: "2026-04-17T19:08:03.231794+00:00"
 ---
 
 ## 문제

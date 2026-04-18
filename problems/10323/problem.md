@@ -1,13 +1,13 @@
 ---
-title: Excellent Engineers
-special_judge: false
-time_limit: 3 초
-memory_limit: 256 MB
+title: "Excellent Engineers"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "256 MB"
 submissions: 64
 accepted: 31
 solved_users: 28
-acceptance_rate: 82.353%
-collected_at: 2026-04-17T12:21:56.060259+00:00
+acceptance_rate: "82.353%"
+collected_at: "2026-04-17T12:21:56.060259+00:00"
 ---
 
 ## 문제

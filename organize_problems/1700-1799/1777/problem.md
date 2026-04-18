@@ -1,13 +1,13 @@
 ---
-title: 순열복원
-special_judge: false
-time_limit: 0.55 초
-memory_limit: 128 MB
+title: "순열복원"
+special_judge: "false"
+time_limit: "0.55 초"
+memory_limit: "128 MB"
 submissions: 1981
 accepted: 1184
 solved_users: 928
-acceptance_rate: 67.688%
-collected_at: 2026-04-17T10:33:29.548452+00:00
+acceptance_rate: "67.688%"
+collected_at: "2026-04-17T10:33:29.548452+00:00"
 ---
 
 ## 문제

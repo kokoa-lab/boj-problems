@@ -1,13 +1,13 @@
 ---
-title: Bronze Cow Party
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Bronze Cow Party"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 554
 accepted: 340
 solved_users: 298
-acceptance_rate: 61.954%
-collected_at: 2026-04-17T11:24:02.651087+00:00
+acceptance_rate: "61.954%"
+collected_at: "2026-04-17T11:24:02.651087+00:00"
 ---
 
 ## 문제

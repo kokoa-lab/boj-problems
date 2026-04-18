@@ -1,13 +1,13 @@
 ---
-title: Desert Travel
-special_judge: true
-time_limit: 8 초
-memory_limit: 1024 MB
+title: "Desert Travel"
+special_judge: "true"
+time_limit: "8 초"
+memory_limit: "1024 MB"
 submissions: 44
 accepted: 23
 solved_users: 15
-acceptance_rate: 50.000%
-collected_at: 2026-04-17T17:32:48.857671+00:00
+acceptance_rate: "50.000%"
+collected_at: "2026-04-17T17:32:48.857671+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: PLU Count
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "PLU Count"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 221
 accepted: 158
 solved_users: 130
-acceptance_rate: 77.381%
-collected_at: 2026-04-17T11:13:04.138968+00:00
+acceptance_rate: "77.381%"
+collected_at: "2026-04-17T11:13:04.138968+00:00"
 ---
 
 ## 문제

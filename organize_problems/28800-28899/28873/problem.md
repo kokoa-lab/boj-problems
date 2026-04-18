@@ -1,13 +1,13 @@
 ---
-title: Игра с числами
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Игра с числами"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 26
 accepted: 12
 solved_users: 12
-acceptance_rate: 50.000%
-collected_at: 2026-04-17T18:33:57.084671+00:00
+acceptance_rate: "50.000%"
+collected_at: "2026-04-17T18:33:57.084671+00:00"
 ---
 
 ## 문제

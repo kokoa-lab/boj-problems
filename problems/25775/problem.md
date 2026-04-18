@@ -1,13 +1,13 @@
 ---
-title: Letter Frequency
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Letter Frequency"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 188
 accepted: 146
 solved_users: 122
-acceptance_rate: 81.333%
-collected_at: 2026-04-17T17:32:36.908613+00:00
+acceptance_rate: "81.333%"
+collected_at: "2026-04-17T17:32:36.908613+00:00"
 ---
 
 ## 문제

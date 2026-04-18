@@ -1,13 +1,13 @@
 ---
-title: K보다 큰 구간
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "K보다 큰 구간"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 2930
 accepted: 995
 solved_users: 785
-acceptance_rate: 34.889%
-collected_at: 2026-04-17T13:28:31.896555+00:00
+acceptance_rate: "34.889%"
+collected_at: "2026-04-17T13:28:31.896555+00:00"
 ---
 
 ## 문제

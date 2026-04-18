@@ -1,13 +1,13 @@
 ---
-title: Persistent Bits
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Persistent Bits"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 82
 accepted: 64
 solved_users: 26
-acceptance_rate: 89.655%
-collected_at: 2026-04-17T11:05:31.618535+00:00
+acceptance_rate: "89.655%"
+collected_at: "2026-04-17T11:05:31.618535+00:00"
 ---
 
 ## 문제

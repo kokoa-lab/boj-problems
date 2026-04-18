@@ -1,13 +1,13 @@
 ---
-title: Switches
-special_judge: true
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Switches"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 320
 accepted: 183
 solved_users: 144
-acceptance_rate: 58.537%
-collected_at: 2026-04-17T15:32:42.295938+00:00
+acceptance_rate: "58.537%"
+collected_at: "2026-04-17T15:32:42.295938+00:00"
 ---
 
 ## 문제

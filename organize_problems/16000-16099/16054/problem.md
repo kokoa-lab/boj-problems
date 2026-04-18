@@ -1,13 +1,13 @@
 ---
-title: Pants On Fire
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Pants On Fire"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 97
 accepted: 68
 solved_users: 64
-acceptance_rate: 71.111%
-collected_at: 2026-04-17T14:10:47.863109+00:00
+acceptance_rate: "71.111%"
+collected_at: "2026-04-17T14:10:47.863109+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Tournament turn-around
-special_judge: true
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Tournament turn-around"
+special_judge: "true"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 11
 accepted: 2
 solved_users: 2
-acceptance_rate: 100.000%
-collected_at: 2026-04-17T15:34:00.316211+00:00
+acceptance_rate: "100.000%"
+collected_at: "2026-04-17T15:34:00.316211+00:00"
 ---
 
 ## 문제

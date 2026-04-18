@@ -1,13 +1,13 @@
 ---
-title: BFS 스페셜 저지
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "BFS 스페셜 저지"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 12535
 accepted: 3522
 solved_users: 2230
-acceptance_rate: 25.733%
-collected_at: 2026-04-17T14:26:33.741088+00:00
+acceptance_rate: "25.733%"
+collected_at: "2026-04-17T14:26:33.741088+00:00"
 ---
 
 ## 문제

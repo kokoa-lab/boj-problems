@@ -1,13 +1,13 @@
 ---
-title: Team Change
-special_judge: true
-time_limit: 3 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Team Change"
+special_judge: "true"
+time_limit: "3 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 38
 accepted: 18
 solved_users: 14
-acceptance_rate: 42.424%
-collected_at: 2026-04-17T17:14:29.412921+00:00
+acceptance_rate: "42.424%"
+collected_at: "2026-04-17T17:14:29.412921+00:00"
 ---
 
 ## 문제

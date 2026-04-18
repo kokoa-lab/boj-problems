@@ -1,13 +1,13 @@
 ---
-title: 광부가 될 수 있다면
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "광부가 될 수 있다면"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 96
 accepted: 33
 solved_users: 27
-acceptance_rate: 32.530%
-collected_at: 2026-04-17T20:28:17.917562+00:00
+acceptance_rate: "32.530%"
+collected_at: "2026-04-17T20:28:17.917562+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 시간표 짜기
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "시간표 짜기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 1651
 accepted: 1087
 solved_users: 928
-acceptance_rate: 66.715%
-collected_at: 2026-04-17T13:38:17.756127+00:00
+acceptance_rate: "66.715%"
+collected_at: "2026-04-17T13:38:17.756127+00:00"
 ---
 
 ## 문제

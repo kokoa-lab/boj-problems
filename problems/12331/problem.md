@@ -1,13 +1,13 @@
 ---
-title: Manage your Energy (Small)
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Manage your Energy (Small)"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 110
 accepted: 59
 solved_users: 41
-acceptance_rate: 54.667%
-collected_at: 2026-04-17T12:53:42.094645+00:00
+acceptance_rate: "54.667%"
+collected_at: "2026-04-17T12:53:42.094645+00:00"
 ---
 
 ## 문제

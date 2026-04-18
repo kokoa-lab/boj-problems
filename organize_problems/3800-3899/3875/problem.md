@@ -1,13 +1,13 @@
 ---
-title: Cubist Artwork
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Cubist Artwork"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 52
 accepted: 39
 solved_users: 38
-acceptance_rate: 82.609%
-collected_at: 2026-04-17T10:52:54.186567+00:00
+acceptance_rate: "82.609%"
+collected_at: "2026-04-17T10:52:54.186567+00:00"
 ---
 
 ## 문제

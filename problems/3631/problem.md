@@ -1,13 +1,13 @@
 ---
-title: Cutting a Block
-special_judge: true
-time_limit: 2 초
-memory_limit: 64 MB
+title: "Cutting a Block"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "64 MB"
 submissions: 137
 accepted: 84
 solved_users: 78
-acceptance_rate: 60.938%
-collected_at: 2026-04-17T10:50:24.503524+00:00
+acceptance_rate: "60.938%"
+collected_at: "2026-04-17T10:50:24.503524+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Музей
-special_judge: true
-time_limit: 4 초
-memory_limit: 512 MB
+title: "Музей"
+special_judge: "true"
+time_limit: "4 초"
+memory_limit: "512 MB"
 submissions: 1
 accepted: 0
 solved_users: 0
-acceptance_rate: 0.000%
-collected_at: 2026-04-17T15:28:41.380081+00:00
+acceptance_rate: "0.000%"
+collected_at: "2026-04-17T15:28:41.380081+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Safe Racing
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Safe Racing"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 75
 accepted: 58
 solved_users: 55
-acceptance_rate: 80.882%
-collected_at: 2026-04-17T13:13:39.685012+00:00
+acceptance_rate: "80.882%"
+collected_at: "2026-04-17T13:13:39.685012+00:00"
 ---
 
 ## 문제

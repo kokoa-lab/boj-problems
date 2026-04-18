@@ -1,13 +1,13 @@
 ---
-title: 휴가 계획
-special_judge: false
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "휴가 계획"
+special_judge: "false"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 129
 accepted: 99
 solved_users: 85
-acceptance_rate: 80.189%
-collected_at: 2026-04-17T20:12:49.145784+00:00
+acceptance_rate: "80.189%"
+collected_at: "2026-04-17T20:12:49.145784+00:00"
 ---
 
 ## 문제

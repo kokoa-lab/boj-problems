@@ -1,13 +1,13 @@
 ---
-title: Phylogenetics
-special_judge: false
-time_limit: 5 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Phylogenetics"
+special_judge: "false"
+time_limit: "5 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 1
 accepted: 0
 solved_users: 0
-acceptance_rate: 0.000%
-collected_at: 2026-04-17T19:18:40.218162+00:00
+acceptance_rate: "0.000%"
+collected_at: "2026-04-17T19:18:40.218162+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 모두싸인 출근길
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "모두싸인 출근길"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 1133
 accepted: 411
 solved_users: 322
-acceptance_rate: 35.191%
-collected_at: 2026-04-17T17:06:02.898705+00:00
+acceptance_rate: "35.191%"
+collected_at: "2026-04-17T17:06:02.898705+00:00"
 ---
 
 ## 문제

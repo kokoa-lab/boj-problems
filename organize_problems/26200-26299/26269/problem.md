@@ -1,13 +1,13 @@
 ---
-title: 간단한 수학 문제
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "간단한 수학 문제"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 336
 accepted: 56
 solved_users: 45
-acceptance_rate: 18.595%
-collected_at: 2026-04-17T17:42:47.994851+00:00
+acceptance_rate: "18.595%"
+collected_at: "2026-04-17T17:42:47.994851+00:00"
 ---
 
 ## 문제

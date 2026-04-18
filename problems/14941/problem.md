@@ -1,13 +1,13 @@
 ---
-title: 호기심
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "호기심"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 655
 accepted: 254
 solved_users: 189
-acceptance_rate: 36.138%
-collected_at: 2026-04-17T13:46:12.190467+00:00
+acceptance_rate: "36.138%"
+collected_at: "2026-04-17T13:46:12.190467+00:00"
 ---
 
 ## 문제

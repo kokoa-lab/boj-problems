@@ -1,13 +1,13 @@
 ---
-title: Sweets
-special_judge: false
-time_limit: 3 초
-memory_limit: 2048 MB
+title: "Sweets"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "2048 MB"
 submissions: 34
 accepted: 9
 solved_users: 9
-acceptance_rate: 28.125%
-collected_at: 2026-04-17T20:11:17.876538+00:00
+acceptance_rate: "28.125%"
+collected_at: "2026-04-17T20:11:17.876538+00:00"
 ---
 
 ## 문제

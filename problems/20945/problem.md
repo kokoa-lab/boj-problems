@@ -1,13 +1,13 @@
 ---
-title: 의자 게임
-special_judge: false
-time_limit: 3 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "의자 게임"
+special_judge: "false"
+time_limit: "3 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 244
 accepted: 73
 solved_users: 64
-acceptance_rate: 35.754%
-collected_at: 2026-04-17T15:43:55.533415+00:00
+acceptance_rate: "35.754%"
+collected_at: "2026-04-17T15:43:55.533415+00:00"
 ---
 
 ## 문제

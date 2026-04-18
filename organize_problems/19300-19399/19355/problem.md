@@ -1,13 +1,13 @@
 ---
-title: A Really Odd Sequence
-special_judge: false
-time_limit: 6 초
-memory_limit: 512 MB
+title: "A Really Odd Sequence"
+special_judge: "false"
+time_limit: "6 초"
+memory_limit: "512 MB"
 submissions: 121
 accepted: 52
 solved_users: 43
-acceptance_rate: 46.739%
-collected_at: 2026-04-17T15:18:00.642797+00:00
+acceptance_rate: "46.739%"
+collected_at: "2026-04-17T15:18:00.642797+00:00"
 ---
 
 ## 문제

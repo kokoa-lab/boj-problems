@@ -1,13 +1,13 @@
 ---
-title: KCPC 스티커 만들기
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "KCPC 스티커 만들기"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 184
 accepted: 67
 solved_users: 58
-acceptance_rate: 57.426%
-collected_at: 2026-04-17T20:57:04.900394+00:00
+acceptance_rate: "57.426%"
+collected_at: "2026-04-17T20:57:04.900394+00:00"
 ---
 
 ## 문제

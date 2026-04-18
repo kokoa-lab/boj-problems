@@ -1,13 +1,13 @@
 ---
-title: 나무 옮기기
-special_judge: true
-time_limit: 1 초
-memory_limit: 128 MB
+title: "나무 옮기기"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 234
 accepted: 91
 solved_users: 77
-acceptance_rate: 44.509%
-collected_at: 2026-04-17T11:11:05.602479+00:00
+acceptance_rate: "44.509%"
+collected_at: "2026-04-17T11:11:05.602479+00:00"
 ---
 
 ## 문제

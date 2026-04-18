@@ -1,13 +1,13 @@
 ---
-title: LCA와 쿼리
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "LCA와 쿼리"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 3017
 accepted: 1460
 solved_users: 1071
-acceptance_rate: 47.327%
-collected_at: 2026-04-17T14:00:08.945614+00:00
+acceptance_rate: "47.327%"
+collected_at: "2026-04-17T14:00:08.945614+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 가희와 btd5 2
-special_judge: false
-time_limit: 4 초
-memory_limit: 1000 MB
+title: "가희와 btd5 2"
+special_judge: "false"
+time_limit: "4 초"
+memory_limit: "1000 MB"
 submissions: 82
 accepted: 7
 solved_users: 6
-acceptance_rate: 7.792%
-collected_at: 2026-04-17T17:07:48.180127+00:00
+acceptance_rate: "7.792%"
+collected_at: "2026-04-17T17:07:48.180127+00:00"
 ---
 
 ## 문제

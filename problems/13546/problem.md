@@ -1,13 +1,13 @@
 ---
-title: 수열과 쿼리 4
-special_judge: false
-time_limit: 4 초
-memory_limit: 512 MB
+title: "수열과 쿼리 4"
+special_judge: "false"
+time_limit: "4 초"
+memory_limit: "512 MB"
 submissions: 7855
 accepted: 2161
 solved_users: 992
-acceptance_rate: 18.049%
-collected_at: 2026-04-17T13:15:03.431054+00:00
+acceptance_rate: "18.049%"
+collected_at: "2026-04-17T13:15:03.431054+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 학급비 낭비하기
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "학급비 낭비하기"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 421
 accepted: 197
 solved_users: 160
-acceptance_rate: 48.780%
-collected_at: 2026-04-17T13:36:31.102821+00:00
+acceptance_rate: "48.780%"
+collected_at: "2026-04-17T13:36:31.102821+00:00"
 ---
 
 ## 문제

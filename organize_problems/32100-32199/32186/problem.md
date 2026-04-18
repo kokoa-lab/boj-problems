@@ -1,13 +1,13 @@
 ---
-title: 역시 내 이세계 수열은 잘못됐다
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "역시 내 이세계 수열은 잘못됐다"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 1055
 accepted: 341
 solved_users: 295
-acceptance_rate: 34.870%
-collected_at: 2026-04-17T19:45:11.297065+00:00
+acceptance_rate: "34.870%"
+collected_at: "2026-04-17T19:45:11.297065+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 1-Trees and Queries
-special_judge: true
-time_limit: 4 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "1-Trees and Queries"
+special_judge: "true"
+time_limit: "4 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 74
 accepted: 54
 solved_users: 43
-acceptance_rate: 71.667%
-collected_at: 2026-04-17T17:15:54.721408+00:00
+acceptance_rate: "71.667%"
+collected_at: "2026-04-17T17:15:54.721408+00:00"
 ---
 
 ## 문제

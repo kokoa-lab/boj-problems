@@ -1,13 +1,13 @@
 ---
-title: 월향 가설 (Large)
-special_judge: true
-time_limit: 0.5 초
-memory_limit: 128 MB
+title: "월향 가설 (Large)"
+special_judge: "true"
+time_limit: "0.5 초"
+memory_limit: "128 MB"
 submissions: 111
 accepted: 44
 solved_users: 31
-acceptance_rate: 34.444%
-collected_at: 2026-04-17T20:49:10.853098+00:00
+acceptance_rate: "34.444%"
+collected_at: "2026-04-17T20:49:10.853098+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 배열값
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "배열값"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 976
 accepted: 267
 solved_users: 209
-acceptance_rate: 31.957%
-collected_at: 2026-04-17T10:29:41.951035+00:00
+acceptance_rate: "31.957%"
+collected_at: "2026-04-17T10:29:41.951035+00:00"
 ---
 
 ## 문제

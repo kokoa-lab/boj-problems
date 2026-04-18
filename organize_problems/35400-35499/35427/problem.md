@@ -1,13 +1,13 @@
 ---
-title: 매치메이킹
-special_judge: true
-time_limit: 1.5 초
-memory_limit: 1024 MB
+title: "매치메이킹"
+special_judge: "true"
+time_limit: "1.5 초"
+memory_limit: "1024 MB"
 submissions: 132
 accepted: 49
 solved_users: 29
-acceptance_rate: 40.278%
-collected_at: 2026-04-18T09:51:59.427671+00:00
+acceptance_rate: "40.278%"
+collected_at: "2026-04-18T09:51:59.427671+00:00"
 ---
 
 ## 문제

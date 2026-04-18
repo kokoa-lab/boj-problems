@@ -1,13 +1,13 @@
 ---
-title: 범죄 파티
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "범죄 파티"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 1881
 accepted: 507
 solved_users: 258
-acceptance_rate: 22.552%
-collected_at: 2026-04-17T13:08:29.629621+00:00
+acceptance_rate: "22.552%"
+collected_at: "2026-04-17T13:08:29.629621+00:00"
 ---
 
 ## 문제

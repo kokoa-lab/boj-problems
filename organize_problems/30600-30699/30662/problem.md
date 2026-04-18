@@ -1,13 +1,13 @@
 ---
-title: O Jogo
-special_judge: false
-time_limit: 26 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "O Jogo"
+special_judge: "false"
+time_limit: "26 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 42
 accepted: 16
 solved_users: 12
-acceptance_rate: 31.579%
-collected_at: 2026-04-17T19:11:52.186614+00:00
+acceptance_rate: "31.579%"
+collected_at: "2026-04-17T19:11:52.186614+00:00"
 ---
 
 ## 문제

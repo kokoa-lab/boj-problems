@@ -1,13 +1,13 @@
 ---
-title: iCow
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "iCow"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 371
 accepted: 146
 solved_users: 131
-acceptance_rate: 41.325%
-collected_at: 2026-04-17T11:21:37.447958+00:00
+acceptance_rate: "41.325%"
+collected_at: "2026-04-17T11:21:37.447958+00:00"
 ---
 
 ## 문제

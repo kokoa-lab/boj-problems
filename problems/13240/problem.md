@@ -1,13 +1,13 @@
 ---
-title: Chessboard
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Chessboard"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 1120
 accepted: 916
 solved_users: 860
-acceptance_rate: 82.534%
-collected_at: 2026-04-17T13:09:55.281977+00:00
+acceptance_rate: "82.534%"
+collected_at: "2026-04-17T13:09:55.281977+00:00"
 ---
 
 ## 문제

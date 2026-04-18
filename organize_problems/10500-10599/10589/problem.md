@@ -1,13 +1,13 @@
 ---
-title: 마법의 체스판
-special_judge: true
-time_limit: 1 초
-memory_limit: 256 MB
+title: "마법의 체스판"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 677
 accepted: 316
 solved_users: 281
-acceptance_rate: 48.616%
-collected_at: 2026-04-17T12:25:55.573778+00:00
+acceptance_rate: "48.616%"
+collected_at: "2026-04-17T12:25:55.573778+00:00"
 ---
 
 ## 문제

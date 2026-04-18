@@ -1,13 +1,13 @@
 ---
-title: Polygons
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Polygons"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 105
 accepted: 30
 solved_users: 18
-acceptance_rate: 26.471%
-collected_at: 2026-04-17T11:59:17.492187+00:00
+acceptance_rate: "26.471%"
+collected_at: "2026-04-17T11:59:17.492187+00:00"
 ---
 
 ## 문제

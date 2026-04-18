@@ -1,13 +1,13 @@
 ---
-title: 숫자 맞추기
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "숫자 맞추기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 2601
 accepted: 846
 solved_users: 696
-acceptance_rate: 34.118%
-collected_at: 2026-04-17T10:59:45.946256+00:00
+acceptance_rate: "34.118%"
+collected_at: "2026-04-17T10:59:45.946256+00:00"
 ---
 
 ## 문제

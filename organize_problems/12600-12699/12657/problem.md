@@ -1,13 +1,13 @@
 ---
-title: Watersheds (Small)
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Watersheds (Small)"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 111
 accepted: 81
 solved_users: 71
-acceptance_rate: 83.529%
-collected_at: 2026-04-17T12:59:14.227475+00:00
+acceptance_rate: "83.529%"
+collected_at: "2026-04-17T12:59:14.227475+00:00"
 ---
 
 ## 문제

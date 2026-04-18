@@ -1,13 +1,13 @@
 ---
-title: 김밥천국의 계단
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "김밥천국의 계단"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 2977
 accepted: 911
 solved_users: 727
-acceptance_rate: 30.004%
-collected_at: 2026-04-17T18:17:43.844218+00:00
+acceptance_rate: "30.004%"
+collected_at: "2026-04-17T18:17:43.844218+00:00"
 ---
 
 ## 문제

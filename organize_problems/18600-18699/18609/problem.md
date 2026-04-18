@@ -1,13 +1,13 @@
 ---
-title: Square Root Partitioning
-special_judge: false
-time_limit: 3 초
-memory_limit: 512 MB
+title: "Square Root Partitioning"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "512 MB"
 submissions: 98
 accepted: 24
 solved_users: 16
-acceptance_rate: 24.615%
-collected_at: 2026-04-17T15:07:10.303330+00:00
+acceptance_rate: "24.615%"
+collected_at: "2026-04-17T15:07:10.303330+00:00"
 ---
 
 ## 문제

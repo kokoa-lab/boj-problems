@@ -1,13 +1,13 @@
 ---
-title: 골드바흐 트리플
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "골드바흐 트리플"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 688
 accepted: 241
 solved_users: 160
-acceptance_rate: 37.825%
-collected_at: 2026-04-17T14:29:43.890172+00:00
+acceptance_rate: "37.825%"
+collected_at: "2026-04-17T14:29:43.890172+00:00"
 ---
 
 ## 문제

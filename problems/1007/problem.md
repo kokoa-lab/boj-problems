@@ -1,13 +1,13 @@
 ---
-title: 벡터 매칭
-special_judge: true
-time_limit: 2 초
-memory_limit: 512 MB
+title: "벡터 매칭"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 15823
 accepted: 6105
 solved_users: 4525
-acceptance_rate: 39.592%
-collected_at: 2026-04-17T10:27:36.669306+00:00
+acceptance_rate: "39.592%"
+collected_at: "2026-04-17T10:27:36.669306+00:00"
 ---
 
 ## 문제

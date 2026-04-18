@@ -1,13 +1,13 @@
 ---
-title: 동우의 화학교실
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "동우의 화학교실"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 78
 accepted: 15
 solved_users: 11
-acceptance_rate: 15.942%
-collected_at: 2026-04-17T19:46:46.024902+00:00
+acceptance_rate: "15.942%"
+collected_at: "2026-04-17T19:46:46.024902+00:00"
 ---
 
 ## 문제

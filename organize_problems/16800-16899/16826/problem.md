@@ -1,13 +1,13 @@
 ---
-title: GuruGuru
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "GuruGuru"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 105
 accepted: 68
 solved_users: 65
-acceptance_rate: 66.327%
-collected_at: 2026-04-17T14:24:43.911877+00:00
+acceptance_rate: "66.327%"
+collected_at: "2026-04-17T14:24:43.911877+00:00"
 ---
 
 ## 문제

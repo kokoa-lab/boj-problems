@@ -1,13 +1,13 @@
 ---
-title: JOI 紋章 (JOI Emblem)
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "JOI 紋章 (JOI Emblem)"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 147
 accepted: 86
 solved_users: 77
-acceptance_rate: 62.097%
-collected_at: 2026-04-17T12:18:14.520467+00:00
+acceptance_rate: "62.097%"
+collected_at: "2026-04-17T12:18:14.520467+00:00"
 ---
 
 ## 문제

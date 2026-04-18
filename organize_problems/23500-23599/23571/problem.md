@@ -1,13 +1,13 @@
 ---
-title: John’s Gift
-special_judge: false
-time_limit: 1.2 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "John’s Gift"
+special_judge: "false"
+time_limit: "1.2 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 723
 accepted: 165
 solved_users: 132
-acceptance_rate: 24.309%
-collected_at: 2026-04-17T16:50:20.879721+00:00
+acceptance_rate: "24.309%"
+collected_at: "2026-04-17T16:50:20.879721+00:00"
 ---
 
 ## 문제

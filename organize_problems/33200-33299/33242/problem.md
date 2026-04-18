@@ -1,13 +1,13 @@
 ---
-title: Excursion
-special_judge: false
-time_limit: 7 초
-memory_limit: 2048 MB
+title: "Excursion"
+special_judge: "false"
+time_limit: "7 초"
+memory_limit: "2048 MB"
 submissions: 24
 accepted: 10
 solved_users: 9
-acceptance_rate: 47.368%
-collected_at: 2026-04-17T20:12:00.701837+00:00
+acceptance_rate: "47.368%"
+collected_at: "2026-04-17T20:12:00.701837+00:00"
 ---
 
 ## 문제

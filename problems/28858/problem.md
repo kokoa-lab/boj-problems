@@ -1,13 +1,13 @@
 ---
-title: Пасьянс
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Пасьянс"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 57
 accepted: 41
 solved_users: 37
-acceptance_rate: 71.154%
-collected_at: 2026-04-17T18:33:40.764433+00:00
+acceptance_rate: "71.154%"
+collected_at: "2026-04-17T18:33:40.764433+00:00"
 ---
 
 ## 문제

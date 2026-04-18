@@ -1,13 +1,13 @@
 ---
-title: 프로세서 디자인
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "프로세서 디자인"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 63
 accepted: 13
 solved_users: 11
-acceptance_rate: 25.581%
-collected_at: 2026-04-17T10:46:34.644546+00:00
+acceptance_rate: "25.581%"
+collected_at: "2026-04-17T10:46:34.644546+00:00"
 ---
 
 ## 문제

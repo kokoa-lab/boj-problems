@@ -1,13 +1,13 @@
 ---
-title: 좋은 구간
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "좋은 구간"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 23044
 accepted: 6938
 solved_users: 5937
-acceptance_rate: 30.870%
-collected_at: 2026-04-17T10:27:57.503111+00:00
+acceptance_rate: "30.870%"
+collected_at: "2026-04-17T10:27:57.503111+00:00"
 ---
 
 ## 문제

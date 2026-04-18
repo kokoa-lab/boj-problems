@@ -1,13 +1,13 @@
 ---
-title: 새천년관
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "새천년관"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 2133
 accepted: 1624
 solved_users: 1506
-acceptance_rate: 76.292%
-collected_at: 2026-04-17T20:21:52.882152+00:00
+acceptance_rate: "76.292%"
+collected_at: "2026-04-17T20:21:52.882152+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Пишущая машинка
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Пишущая машинка"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 103
 accepted: 62
 solved_users: 37
-acceptance_rate: 53.623%
-collected_at: 2026-04-17T18:41:07.438450+00:00
+acceptance_rate: "53.623%"
+collected_at: "2026-04-17T18:41:07.438450+00:00"
 ---
 
 ## 문제

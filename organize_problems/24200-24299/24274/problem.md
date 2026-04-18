@@ -1,13 +1,13 @@
 ---
-title: 구불구불 경주 트랙
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "구불구불 경주 트랙"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 24
 accepted: 16
 solved_users: 15
-acceptance_rate: 75.000%
-collected_at: 2026-04-17T17:06:46.527734+00:00
+acceptance_rate: "75.000%"
+collected_at: "2026-04-17T17:06:46.527734+00:00"
 ---
 
 ## 문제

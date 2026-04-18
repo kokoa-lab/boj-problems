@@ -1,13 +1,13 @@
 ---
-title: Safe Passage
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "Safe Passage"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 196
 accepted: 121
 solved_users: 96
-acceptance_rate: 59.259%
-collected_at: 2026-04-17T12:36:23.057888+00:00
+acceptance_rate: "59.259%"
+collected_at: "2026-04-17T12:36:23.057888+00:00"
 ---
 
 ## 문제

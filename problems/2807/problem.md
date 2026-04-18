@@ -1,13 +1,13 @@
 ---
-title: 정사각형 크로스워드
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "정사각형 크로스워드"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 117
 accepted: 46
 solved_users: 38
-acceptance_rate: 45.783%
-collected_at: 2026-04-17T10:44:58.001987+00:00
+acceptance_rate: "45.783%"
+collected_at: "2026-04-17T10:44:58.001987+00:00"
 ---
 
 ## 문제

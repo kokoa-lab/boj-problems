@@ -1,13 +1,13 @@
 ---
-title: Sales
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Sales"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 464
 accepted: 406
 solved_users: 335
-acceptance_rate: 92.033%
-collected_at: 2026-04-17T12:04:49.391293+00:00
+acceptance_rate: "92.033%"
+collected_at: "2026-04-17T12:04:49.391293+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Estimathon
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Estimathon"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 197
 accepted: 101
 solved_users: 91
-acceptance_rate: 50.276%
-collected_at: 2026-04-17T18:01:13.981231+00:00
+acceptance_rate: "50.276%"
+collected_at: "2026-04-17T18:01:13.981231+00:00"
 ---
 
 ## 문제

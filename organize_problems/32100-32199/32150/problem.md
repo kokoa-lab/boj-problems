@@ -1,13 +1,13 @@
 ---
-title: 마음대로 움직이기
-special_judge: false
-time_limit: 4 초
-memory_limit: 1024 MB
+title: "마음대로 움직이기"
+special_judge: "false"
+time_limit: "4 초"
+memory_limit: "1024 MB"
 submissions: 120
 accepted: 32
 solved_users: 29
-acceptance_rate: 36.709%
-collected_at: 2026-04-17T19:44:09.112437+00:00
+acceptance_rate: "36.709%"
+collected_at: "2026-04-17T19:44:09.112437+00:00"
 ---
 
 ## 문제

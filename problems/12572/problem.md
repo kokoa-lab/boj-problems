@@ -1,13 +1,13 @@
 ---
-title: Rope Intranet (Large)
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Rope Intranet (Large)"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 300
 accepted: 226
 solved_users: 195
-acceptance_rate: 76.772%
-collected_at: 2026-04-17T12:57:38.481160+00:00
+acceptance_rate: "76.772%"
+collected_at: "2026-04-17T12:57:38.481160+00:00"
 ---
 
 ## 문제

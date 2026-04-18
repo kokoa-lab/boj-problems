@@ -1,13 +1,13 @@
 ---
-title: 삼각형
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "삼각형"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 2277
 accepted: 214
 solved_users: 158
-acceptance_rate: 15.266%
-collected_at: 2026-04-17T10:27:57.820784+00:00
+acceptance_rate: "15.266%"
+collected_at: "2026-04-17T10:27:57.820784+00:00"
 ---
 
 ## 문제

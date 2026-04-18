@@ -1,13 +1,13 @@
 ---
-title: 다각형의 개수
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "다각형의 개수"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 84
 accepted: 10
 solved_users: 10
-acceptance_rate: 20.408%
-collected_at: 2026-04-17T10:30:07.700330+00:00
+acceptance_rate: "20.408%"
+collected_at: "2026-04-17T10:30:07.700330+00:00"
 ---
 
 ## 문제

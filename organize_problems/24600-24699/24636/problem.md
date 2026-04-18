@@ -1,13 +1,13 @@
 ---
-title: N-интересные числа
-special_judge: false
-time_limit: 5 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "N-интересные числа"
+special_judge: "false"
+time_limit: "5 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 4
 accepted: 1
 solved_users: 1
-acceptance_rate: 100.000%
-collected_at: 2026-04-17T17:12:20.968256+00:00
+acceptance_rate: "100.000%"
+collected_at: "2026-04-17T17:12:20.968256+00:00"
 ---
 
 ## 문제

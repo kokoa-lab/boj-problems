@@ -1,13 +1,13 @@
 ---
-title: 움직이는 미로 탈출
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "움직이는 미로 탈출"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 18102
 accepted: 6180
 solved_users: 3918
-acceptance_rate: 29.729%
-collected_at: 2026-04-17T14:26:42.221328+00:00
+acceptance_rate: "29.729%"
+collected_at: "2026-04-17T14:26:42.221328+00:00"
 ---
 
 ## 문제

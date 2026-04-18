@@ -1,13 +1,13 @@
 ---
-title: Connectivity
-special_judge: false
-time_limit: 10 초
-memory_limit: 512 MB
+title: "Connectivity"
+special_judge: "false"
+time_limit: "10 초"
+memory_limit: "512 MB"
 submissions: 13
 accepted: 1
 solved_users: 1
-acceptance_rate: 16.667%
-collected_at: 2026-04-17T16:47:43.529118+00:00
+acceptance_rate: "16.667%"
+collected_at: "2026-04-17T16:47:43.529118+00:00"
 ---
 
 ## 문제

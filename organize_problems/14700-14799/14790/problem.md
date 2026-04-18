@@ -1,13 +1,13 @@
 ---
-title: Tidy Numbers (Small)
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Tidy Numbers (Small)"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 435
 accepted: 335
 solved_users: 304
-acceptance_rate: 78.553%
-collected_at: 2026-04-17T13:41:56.058819+00:00
+acceptance_rate: "78.553%"
+collected_at: "2026-04-17T13:41:56.058819+00:00"
 ---
 
 ## 문제

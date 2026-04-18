@@ -1,13 +1,13 @@
 ---
-title: 바코드 찢기
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "바코드 찢기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 138
 accepted: 66
 solved_users: 59
-acceptance_rate: 45.385%
-collected_at: 2026-04-17T16:57:00.591651+00:00
+acceptance_rate: "45.385%"
+collected_at: "2026-04-17T16:57:00.591651+00:00"
 ---
 
 ## 문제

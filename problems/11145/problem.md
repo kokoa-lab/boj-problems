@@ -1,13 +1,13 @@
 ---
-title: Is it a Number?
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Is it a Number?"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 1135
 accepted: 404
 solved_users: 346
-acceptance_rate: 38.487%
-collected_at: 2026-04-17T12:37:10.565101+00:00
+acceptance_rate: "38.487%"
+collected_at: "2026-04-17T12:37:10.565101+00:00"
 ---
 
 ## 문제

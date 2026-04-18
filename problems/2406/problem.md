@@ -1,13 +1,13 @@
 ---
-title: 안정적인 네트워크
-special_judge: true
-time_limit: 2 초
-memory_limit: 128 MB
+title: "안정적인 네트워크"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 2389
 accepted: 1090
 solved_users: 741
-acceptance_rate: 42.660%
-collected_at: 2026-04-17T10:41:21.356553+00:00
+acceptance_rate: "42.660%"
+collected_at: "2026-04-17T10:41:21.356553+00:00"
 ---
 
 ## 문제

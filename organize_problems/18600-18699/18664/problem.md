@@ -1,13 +1,13 @@
 ---
-title: Minimums on the Edges
-special_judge: true
-time_limit: 4 초
-memory_limit: 512 MB
+title: "Minimums on the Edges"
+special_judge: "true"
+time_limit: "4 초"
+memory_limit: "512 MB"
 submissions: 167
 accepted: 48
 solved_users: 37
-acceptance_rate: 25.342%
-collected_at: 2026-04-17T15:07:45.150955+00:00
+acceptance_rate: "25.342%"
+collected_at: "2026-04-17T15:07:45.150955+00:00"
 ---
 
 ## 문제

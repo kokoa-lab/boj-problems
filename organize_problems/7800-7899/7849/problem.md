@@ -1,13 +1,13 @@
 ---
-title: Radio Coverage
-special_judge: true
-time_limit: 3 초
-memory_limit: 128 MB
+title: "Radio Coverage"
+special_judge: "true"
+time_limit: "3 초"
+memory_limit: "128 MB"
 submissions: 4
 accepted: 1
 solved_users: 1
-acceptance_rate: 25.000%
-collected_at: 2026-04-17T11:53:27.305182+00:00
+acceptance_rate: "25.000%"
+collected_at: "2026-04-17T11:53:27.305182+00:00"
 ---
 
 ## 문제

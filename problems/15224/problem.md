@@ -1,13 +1,13 @@
 ---
-title: EvenOdd
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "EvenOdd"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 130
 accepted: 47
 solved_users: 41
-acceptance_rate: 41.000%
-collected_at: 2026-04-17T13:55:20.492798+00:00
+acceptance_rate: "41.000%"
+collected_at: "2026-04-17T13:55:20.492798+00:00"
 ---
 
 ## 문제

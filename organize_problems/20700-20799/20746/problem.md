@@ -1,13 +1,13 @@
 ---
-title: Entering the Time
-special_judge: true
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Entering the Time"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 103
 accepted: 41
 solved_users: 23
-acceptance_rate: 38.983%
-collected_at: 2026-04-17T15:40:50.914854+00:00
+acceptance_rate: "38.983%"
+collected_at: "2026-04-17T15:40:50.914854+00:00"
 ---
 
 ## 문제

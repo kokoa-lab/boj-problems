@@ -1,13 +1,13 @@
 ---
-title: 한글 LCS
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "한글 LCS"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 1956
 accepted: 1087
 solved_users: 893
-acceptance_rate: 58.866%
-collected_at: 2026-04-17T14:00:10.495448+00:00
+acceptance_rate: "58.866%"
+collected_at: "2026-04-17T14:00:10.495448+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Airport Construction
-special_judge: true
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Airport Construction"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 240
 accepted: 61
 solved_users: 40
-acceptance_rate: 30.534%
-collected_at: 2026-04-17T13:39:38.349605+00:00
+acceptance_rate: "30.534%"
+collected_at: "2026-04-17T13:39:38.349605+00:00"
 ---
 
 ## 문제

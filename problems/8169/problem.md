@@ -1,13 +1,13 @@
 ---
-title: 소화기 설치
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "소화기 설치"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 381
 accepted: 64
 solved_users: 36
-acceptance_rate: 12.903%
-collected_at: 2026-04-17T11:56:49.891502+00:00
+acceptance_rate: "12.903%"
+collected_at: "2026-04-17T11:56:49.891502+00:00"
 ---
 
 ## 문제

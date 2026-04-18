@@ -1,13 +1,13 @@
 ---
-title: 삼원색
-special_judge: false
-time_limit: 3 초
-memory_limit: 256 MB
+title: "삼원색"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "256 MB"
 submissions: 147
 accepted: 48
 solved_users: 35
-acceptance_rate: 38.462%
-collected_at: 2026-04-17T14:22:17.237850+00:00
+acceptance_rate: "38.462%"
+collected_at: "2026-04-17T14:22:17.237850+00:00"
 ---
 
 ## 문제

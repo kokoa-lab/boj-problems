@@ -1,13 +1,13 @@
 ---
-title: $K$-정렬
-special_judge: false
-time_limit: 1.5 초
-memory_limit: 1024 MB
+title: "$K$-정렬"
+special_judge: "false"
+time_limit: "1.5 초"
+memory_limit: "1024 MB"
 submissions: 933
 accepted: 357
 solved_users: 287
-acceptance_rate: 42.082%
-collected_at: 2026-04-17T20:10:12.460813+00:00
+acceptance_rate: "42.082%"
+collected_at: "2026-04-17T20:10:12.460813+00:00"
 ---
 
 ## 문제

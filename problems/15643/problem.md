@@ -1,13 +1,13 @@
 ---
-title: Yee
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Yee"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 11121
 accepted: 2526
 solved_users: 2473
-acceptance_rate: 29.557%
-collected_at: 2026-04-17T14:03:07.988921+00:00
+acceptance_rate: "29.557%"
+collected_at: "2026-04-17T14:03:07.988921+00:00"
 ---
 
 ## 문제

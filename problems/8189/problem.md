@@ -1,13 +1,13 @@
 ---
-title: Antisymmetry
-special_judge: false
-time_limit: 3 초
-memory_limit: 512 MB
+title: "Antisymmetry"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "512 MB"
 submissions: 200
 accepted: 96
 solved_users: 86
-acceptance_rate: 51.497%
-collected_at: 2026-04-17T11:56:59.386345+00:00
+acceptance_rate: "51.497%"
+collected_at: "2026-04-17T11:56:59.386345+00:00"
 ---
 
 ## 문제

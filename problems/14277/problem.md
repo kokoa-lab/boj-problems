@@ -1,13 +1,13 @@
 ---
-title: 등차 수열과 등비 수열
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "등차 수열과 등비 수열"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 769
 accepted: 166
 solved_users: 148
-acceptance_rate: 23.089%
-collected_at: 2026-04-17T13:29:17.780103+00:00
+acceptance_rate: "23.089%"
+collected_at: "2026-04-17T13:29:17.780103+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 이진수 변환
-special_judge: true
-time_limit: 1 초
-memory_limit: 512 MB
+title: "이진수 변환"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 621
 accepted: 270
 solved_users: 239
-acceptance_rate: 44.424%
-collected_at: 2026-04-17T14:38:30.946214+00:00
+acceptance_rate: "44.424%"
+collected_at: "2026-04-17T14:38:30.946214+00:00"
 ---
 
 ## 문제

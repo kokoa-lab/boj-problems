@@ -1,13 +1,13 @@
 ---
-title: Полет мечты
-special_judge: true
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Полет мечты"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 19
 accepted: 8
 solved_users: 7
-acceptance_rate: 41.176%
-collected_at: 2026-04-17T15:28:59.924278+00:00
+acceptance_rate: "41.176%"
+collected_at: "2026-04-17T15:28:59.924278+00:00"
 ---
 
 ## 문제

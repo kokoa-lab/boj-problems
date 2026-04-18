@@ -1,13 +1,13 @@
 ---
-title: 트리 문제
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "트리 문제"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 391
 accepted: 142
 solved_users: 97
-acceptance_rate: 35.273%
-collected_at: 2026-04-17T13:13:07.377764+00:00
+acceptance_rate: "35.273%"
+collected_at: "2026-04-17T13:13:07.377764+00:00"
 ---
 
 ## 문제

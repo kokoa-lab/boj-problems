@@ -1,13 +1,13 @@
 ---
-title: 문자를 받은 승환이
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "문자를 받은 승환이"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 811
 accepted: 288
 solved_users: 253
-acceptance_rate: 36.403%
-collected_at: 2026-04-17T10:44:09.654509+00:00
+acceptance_rate: "36.403%"
+collected_at: "2026-04-17T10:44:09.654509+00:00"
 ---
 
 ## 문제

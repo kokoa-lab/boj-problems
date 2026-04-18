@@ -1,13 +1,13 @@
 ---
-title: Inverse Divisor Sums
-special_judge: false
-time_limit: 3 초
-memory_limit: 256 MB
+title: "Inverse Divisor Sums"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "256 MB"
 submissions: 68
 accepted: 19
 solved_users: 16
-acceptance_rate: 29.091%
-collected_at: 2026-04-17T12:37:19.817084+00:00
+acceptance_rate: "29.091%"
+collected_at: "2026-04-17T12:37:19.817084+00:00"
 ---
 
 ## 문제

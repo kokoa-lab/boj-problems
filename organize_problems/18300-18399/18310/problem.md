@@ -1,13 +1,13 @@
 ---
-title: 안테나
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "안테나"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 23489
 accepted: 8698
 solved_users: 6943
-acceptance_rate: 36.917%
-collected_at: 2026-04-17T14:59:16.640959+00:00
+acceptance_rate: "36.917%"
+collected_at: "2026-04-17T14:59:16.640959+00:00"
 ---
 
 ## 문제

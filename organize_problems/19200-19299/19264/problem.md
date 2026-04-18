@@ -1,13 +1,13 @@
 ---
-title: Hung Fu
-special_judge: true
-time_limit: 2 초
-memory_limit: 256 MB
+title: "Hung Fu"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 37
 accepted: 10
 solved_users: 10
-acceptance_rate: 45.455%
-collected_at: 2026-04-17T15:15:59.408968+00:00
+acceptance_rate: "45.455%"
+collected_at: "2026-04-17T15:15:59.408968+00:00"
 ---
 
 ## 문제

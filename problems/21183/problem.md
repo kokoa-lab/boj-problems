@@ -1,13 +1,13 @@
 ---
-title: Code Names
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Code Names"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 25
 accepted: 21
 solved_users: 20
-acceptance_rate: 86.957%
-collected_at: 2026-04-17T15:49:52.992522+00:00
+acceptance_rate: "86.957%"
+collected_at: "2026-04-17T15:49:52.992522+00:00"
 ---
 
 ## 문제

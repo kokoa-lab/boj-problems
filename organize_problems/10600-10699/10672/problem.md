@@ -1,13 +1,13 @@
 ---
-title: Stampede
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Stampede"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 423
 accepted: 105
 solved_users: 81
-acceptance_rate: 23.754%
-collected_at: 2026-04-17T12:27:18.263198+00:00
+acceptance_rate: "23.754%"
+collected_at: "2026-04-17T12:27:18.263198+00:00"
 ---
 
 ## 문제

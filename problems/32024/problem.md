@@ -1,13 +1,13 @@
 ---
-title: 복사 붙여넣기
-special_judge: false
-time_limit: 3 초 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "복사 붙여넣기"
+special_judge: "false"
+time_limit: "3 초 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 30
 accepted: 26
 solved_users: 21
-acceptance_rate: 87.500%
-collected_at: 2026-04-17T19:41:02.389791+00:00
+acceptance_rate: "87.500%"
+collected_at: "2026-04-17T19:41:02.389791+00:00"
 ---
 
 ## 문제

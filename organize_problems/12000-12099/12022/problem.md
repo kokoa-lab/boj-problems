@@ -1,13 +1,13 @@
 ---
-title: 짝
-special_judge: true
-time_limit: 3 초
-memory_limit: 128 MB
+title: "짝"
+special_judge: "true"
+time_limit: "3 초"
+memory_limit: "128 MB"
 submissions: 494
 accepted: 285
 solved_users: 185
-acceptance_rate: 58.360%
-collected_at: 2026-04-17T12:49:03.877416+00:00
+acceptance_rate: "58.360%"
+collected_at: "2026-04-17T12:49:03.877416+00:00"
 ---
 
 ## 문제

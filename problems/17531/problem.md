@@ -1,13 +1,13 @@
 ---
-title: Crossings With Danger
-special_judge: false
-time_limit: 1.5 초
-memory_limit: 512 MB
+title: "Crossings With Danger"
+special_judge: "false"
+time_limit: "1.5 초"
+memory_limit: "512 MB"
 submissions: 23
 accepted: 14
 solved_users: 1
-acceptance_rate: 100.000%
-collected_at: 2026-04-17T14:41:18.679720+00:00
+acceptance_rate: "100.000%"
+collected_at: "2026-04-17T14:41:18.679720+00:00"
 ---
 
 ## 문제

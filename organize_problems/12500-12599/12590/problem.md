@@ -1,13 +1,13 @@
 ---
-title: Snapper Chain (Large)
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Snapper Chain (Large)"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 96
 accepted: 72
 solved_users: 66
-acceptance_rate: 75.000%
-collected_at: 2026-04-17T12:58:04.005319+00:00
+acceptance_rate: "75.000%"
+collected_at: "2026-04-17T12:58:04.005319+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Cow Lineup
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Cow Lineup"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 895
 accepted: 366
 solved_users: 265
-acceptance_rate: 44.020%
-collected_at: 2026-04-17T11:18:36.604999+00:00
+acceptance_rate: "44.020%"
+collected_at: "2026-04-17T11:18:36.604999+00:00"
 ---
 
 ## 문제

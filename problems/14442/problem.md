@@ -1,13 +1,13 @@
 ---
-title: 벽 부수고 이동하기 2
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "벽 부수고 이동하기 2"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 42832
 accepted: 12644
 solved_users: 8468
-acceptance_rate: 28.090%
-collected_at: 2026-04-17T13:33:29.290388+00:00
+acceptance_rate: "28.090%"
+collected_at: "2026-04-17T13:33:29.290388+00:00"
 ---
 
 ## 문제

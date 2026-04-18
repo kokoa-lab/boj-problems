@@ -1,13 +1,13 @@
 ---
-title: Consecutive Ordering
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Consecutive Ordering"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 315
 accepted: 115
 solved_users: 40
-acceptance_rate: 19.704%
-collected_at: 2026-04-17T12:35:52.709874+00:00
+acceptance_rate: "19.704%"
+collected_at: "2026-04-17T12:35:52.709874+00:00"
 ---
 
 ## 문제

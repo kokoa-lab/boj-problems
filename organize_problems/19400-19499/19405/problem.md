@@ -1,13 +1,13 @@
 ---
-title: Exclusive Training
-special_judge: false
-time_limit: 3 초
-memory_limit: 512 MB
+title: "Exclusive Training"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "512 MB"
 submissions: 154
 accepted: 41
 solved_users: 37
-acceptance_rate: 28.030%
-collected_at: 2026-04-17T15:19:20.729954+00:00
+acceptance_rate: "28.030%"
+collected_at: "2026-04-17T15:19:20.729954+00:00"
 ---
 
 ## 문제

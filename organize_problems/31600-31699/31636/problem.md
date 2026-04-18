@@ -1,13 +1,13 @@
 ---
-title: 三連続 (Three Consecutive)
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "三連続 (Three Consecutive)"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 1025
 accepted: 777
 solved_users: 729
-acceptance_rate: 75.622%
-collected_at: 2026-04-17T19:32:34.968031+00:00
+acceptance_rate: "75.622%"
+collected_at: "2026-04-17T19:32:34.968031+00:00"
 ---
 
 ## 문제

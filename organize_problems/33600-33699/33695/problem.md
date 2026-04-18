@@ -1,13 +1,13 @@
 ---
-title: 선물 보내기
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "선물 보내기"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 146
 accepted: 59
 solved_users: 47
-acceptance_rate: 39.831%
-collected_at: 2026-04-17T20:21:45.834488+00:00
+acceptance_rate: "39.831%"
+collected_at: "2026-04-17T20:21:45.834488+00:00"
 ---
 
 ## 문제

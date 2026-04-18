@@ -1,13 +1,13 @@
 ---
-title: Grid Forest
-special_judge: false
-time_limit: 1 초
-memory_limit: 32 MB
+title: "Grid Forest"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "32 MB"
 submissions: 395
 accepted: 81
 solved_users: 60
-acceptance_rate: 26.201%
-collected_at: 2026-04-17T13:07:59.865939+00:00
+acceptance_rate: "26.201%"
+collected_at: "2026-04-17T13:07:59.865939+00:00"
 ---
 
 ## 문제

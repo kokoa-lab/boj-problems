@@ -1,13 +1,13 @@
 ---
-title: 돌 게임
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "돌 게임"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 45164
 accepted: 29628
 solved_users: 24936
-acceptance_rate: 66.397%
-collected_at: 2026-04-17T12:12:32.180175+00:00
+acceptance_rate: "66.397%"
+collected_at: "2026-04-17T12:12:32.180175+00:00"
 ---
 
 ## 문제

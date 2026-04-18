@@ -1,13 +1,13 @@
 ---
-title: Acka
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Acka"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 1613
 accepted: 1206
 solved_users: 916
-acceptance_rate: 76.333%
-collected_at: 2026-04-17T13:05:33.388213+00:00
+acceptance_rate: "76.333%"
+collected_at: "2026-04-17T13:05:33.388213+00:00"
 ---
 
 ## 문제

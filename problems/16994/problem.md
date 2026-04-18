@@ -1,13 +1,13 @@
 ---
-title: 로프와 쿼리
-special_judge: false
-time_limit: 0.3 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "로프와 쿼리"
+special_judge: "false"
+time_limit: "0.3 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 864
 accepted: 445
 solved_users: 314
-acceptance_rate: 58.692%
-collected_at: 2026-04-17T14:27:16.726572+00:00
+acceptance_rate: "58.692%"
+collected_at: "2026-04-17T14:27:16.726572+00:00"
 ---
 
 ## 문제

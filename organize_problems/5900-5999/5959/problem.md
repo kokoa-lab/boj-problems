@@ -1,13 +1,13 @@
 ---
-title: Crop Circles
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Crop Circles"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 247
 accepted: 222
 solved_users: 197
-acceptance_rate: 89.545%
-collected_at: 2026-04-17T11:18:52.610240+00:00
+acceptance_rate: "89.545%"
+collected_at: "2026-04-17T11:18:52.610240+00:00"
 ---
 
 ## 문제

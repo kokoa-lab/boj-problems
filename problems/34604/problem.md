@@ -1,13 +1,13 @@
 ---
-title: Cactus Connectivity
-special_judge: false
-time_limit: 2 초
-memory_limit: 2048 MB
+title: "Cactus Connectivity"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "2048 MB"
 submissions: 24
 accepted: 16
 solved_users: 16
-acceptance_rate: 66.667%
-collected_at: 2026-04-17T20:43:49.535144+00:00
+acceptance_rate: "66.667%"
+collected_at: "2026-04-17T20:43:49.535144+00:00"
 ---
 
 ## 문제

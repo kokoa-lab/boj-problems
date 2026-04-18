@@ -1,13 +1,13 @@
 ---
-title: Troublesome Tools
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "Troublesome Tools"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 13
 accepted: 6
 solved_users: 4
-acceptance_rate: 36.364%
-collected_at: 2026-04-17T12:37:16.606862+00:00
+acceptance_rate: "36.364%"
+collected_at: "2026-04-17T12:37:16.606862+00:00"
 ---
 
 ## 문제

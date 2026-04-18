@@ -1,13 +1,13 @@
 ---
-title: 최단경로와 쿼리
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "최단경로와 쿼리"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 771
 accepted: 175
 solved_users: 118
-acceptance_rate: 19.504%
-collected_at: 2026-04-17T14:58:02.720721+00:00
+acceptance_rate: "19.504%"
+collected_at: "2026-04-17T14:58:02.720721+00:00"
 ---
 
 ## 문제

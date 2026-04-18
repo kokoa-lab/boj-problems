@@ -1,13 +1,13 @@
 ---
-title: 걸그룹 마스터 준석이
-special_judge: false
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 128 MB
+title: "걸그룹 마스터 준석이"
+special_judge: "false"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "128 MB"
 submissions: 6524
 accepted: 4583
 solved_users: 3862
-acceptance_rate: 70.733%
-collected_at: 2026-04-17T14:12:46.154991+00:00
+acceptance_rate: "70.733%"
+collected_at: "2026-04-17T14:12:46.154991+00:00"
 ---
 
 ## 문제

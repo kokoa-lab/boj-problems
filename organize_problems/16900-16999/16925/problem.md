@@ -1,13 +1,13 @@
 ---
-title: 문자열 추측
-special_judge: true
-time_limit: 2 초
-memory_limit: 512 MB
+title: "문자열 추측"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 1090
 accepted: 308
 solved_users: 237
-acceptance_rate: 30.268%
-collected_at: 2026-04-17T14:26:16.436790+00:00
+acceptance_rate: "30.268%"
+collected_at: "2026-04-17T14:26:16.436790+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 부끄러운 다각형
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "부끄러운 다각형"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 97
 accepted: 6
 solved_users: 5
-acceptance_rate: 38.462%
-collected_at: 2026-04-17T10:35:08.692442+00:00
+acceptance_rate: "38.462%"
+collected_at: "2026-04-17T10:35:08.692442+00:00"
 ---
 
 ## 문제

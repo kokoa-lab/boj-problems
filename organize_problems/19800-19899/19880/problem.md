@@ -1,13 +1,13 @@
 ---
-title: Номер страницы
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Номер страницы"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 306
 accepted: 75
 solved_users: 53
-acceptance_rate: 21.633%
-collected_at: 2026-04-17T15:28:48.488354+00:00
+acceptance_rate: "21.633%"
+collected_at: "2026-04-17T15:28:48.488354+00:00"
 ---
 
 ## 문제

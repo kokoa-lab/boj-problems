@@ -1,13 +1,13 @@
 ---
-title: 올바른 괄호 문자열
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "올바른 괄호 문자열"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 4166
 accepted: 809
 solved_users: 565
-acceptance_rate: 22.501%
-collected_at: 2026-04-17T10:46:13.027302+00:00
+acceptance_rate: "22.501%"
+collected_at: "2026-04-17T10:46:13.027302+00:00"
 ---
 
 ## 문제

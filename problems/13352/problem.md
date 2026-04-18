@@ -1,13 +1,13 @@
 ---
-title: 석양이 진다...
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "석양이 진다..."
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 1123
 accepted: 405
 solved_users: 260
-acceptance_rate: 33.376%
-collected_at: 2026-04-17T13:12:00.946535+00:00
+acceptance_rate: "33.376%"
+collected_at: "2026-04-17T13:12:00.946535+00:00"
 ---
 
 ## 문제

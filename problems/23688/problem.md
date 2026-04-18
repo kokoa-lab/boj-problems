@@ -1,13 +1,13 @@
 ---
-title: Kutije
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Kutije"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 58
 accepted: 29
 solved_users: 23
-acceptance_rate: 54.762%
-collected_at: 2026-04-17T16:52:07.790375+00:00
+acceptance_rate: "54.762%"
+collected_at: "2026-04-17T16:52:07.790375+00:00"
 ---
 
 ## 문제

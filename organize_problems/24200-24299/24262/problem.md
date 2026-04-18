@@ -1,13 +1,13 @@
 ---
-title: 알고리즘 수업 - 알고리즘의 수행 시간 1
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "알고리즘 수업 - 알고리즘의 수행 시간 1"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 38112
 accepted: 28630
 solved_users: 26789
-acceptance_rate: 76.055%
-collected_at: 2026-04-17T17:06:35.878320+00:00
+acceptance_rate: "76.055%"
+collected_at: "2026-04-17T17:06:35.878320+00:00"
 ---
 
 ## 문제

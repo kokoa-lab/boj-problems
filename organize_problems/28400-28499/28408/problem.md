@@ -1,13 +1,13 @@
 ---
-title: 나무늘보
-special_judge: false
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "나무늘보"
+special_judge: "false"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 814
 accepted: 290
 solved_users: 143
-acceptance_rate: 39.286%
-collected_at: 2026-04-17T18:26:10.096427+00:00
+acceptance_rate: "39.286%"
+collected_at: "2026-04-17T18:26:10.096427+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: KOREA 문자열 만들기
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "KOREA 문자열 만들기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 1746
 accepted: 1146
 solved_users: 1018
-acceptance_rate: 65.720%
-collected_at: 2026-04-17T19:12:49.432878+00:00
+acceptance_rate: "65.720%"
+collected_at: "2026-04-17T19:12:49.432878+00:00"
 ---
 
 ## 문제

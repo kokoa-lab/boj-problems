@@ -1,13 +1,13 @@
 ---
-title: Dueling Philosophers
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Dueling Philosophers"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 42
 accepted: 21
 solved_users: 17
-acceptance_rate: 45.946%
-collected_at: 2026-04-17T13:41:24.755311+00:00
+acceptance_rate: "45.946%"
+collected_at: "2026-04-17T13:41:24.755311+00:00"
 ---
 
 ## 문제

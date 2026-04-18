@@ -1,13 +1,13 @@
 ---
-title: Banana
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Banana"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 537
 accepted: 414
 solved_users: 362
-acceptance_rate: 78.696%
-collected_at: 2026-04-17T15:08:19.199474+00:00
+acceptance_rate: "78.696%"
+collected_at: "2026-04-17T15:08:19.199474+00:00"
 ---
 
 ## 문제

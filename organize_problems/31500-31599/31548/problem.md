@@ -1,13 +1,13 @@
 ---
-title: 하늘아 군대 잘 가고
-special_judge: false
-time_limit: 0.5 초
-memory_limit: 1024 MB
+title: "하늘아 군대 잘 가고"
+special_judge: "false"
+time_limit: "0.5 초"
+memory_limit: "1024 MB"
 submissions: 191
 accepted: 64
 solved_users: 21
-acceptance_rate: 35.000%
-collected_at: 2026-04-17T19:30:32.228226+00:00
+acceptance_rate: "35.000%"
+collected_at: "2026-04-17T19:30:32.228226+00:00"
 ---
 
 ## 문제

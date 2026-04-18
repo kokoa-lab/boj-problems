@@ -1,13 +1,13 @@
 ---
-title: 꿈틀꿈틀 호석 애벌레 - 효율성
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "꿈틀꿈틀 호석 애벌레 - 효율성"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 1687
 accepted: 667
 solved_users: 474
-acceptance_rate: 40.272%
-collected_at: 2026-04-17T15:32:44.105155+00:00
+acceptance_rate: "40.272%"
+collected_at: "2026-04-17T15:32:44.105155+00:00"
 ---
 
 ## 문제

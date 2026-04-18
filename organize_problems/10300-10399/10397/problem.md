@@ -1,13 +1,13 @@
 ---
-title: Counting substhreengs
-special_judge: false
-time_limit: 3 초
-memory_limit: 256 MB
+title: "Counting substhreengs"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "256 MB"
 submissions: 94
 accepted: 71
 solved_users: 67
-acceptance_rate: 80.723%
-collected_at: 2026-04-17T12:22:58.865793+00:00
+acceptance_rate: "80.723%"
+collected_at: "2026-04-17T12:22:58.865793+00:00"
 ---
 
 ## 문제

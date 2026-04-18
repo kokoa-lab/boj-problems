@@ -1,13 +1,13 @@
 ---
-title: 새 앨범
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "새 앨범"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 2205
 accepted: 308
 solved_users: 244
-acceptance_rate: 20.182%
-collected_at: 2026-04-17T10:30:05.860364+00:00
+acceptance_rate: "20.182%"
+collected_at: "2026-04-17T10:30:05.860364+00:00"
 ---
 
 ## 문제

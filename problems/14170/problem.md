@@ -1,13 +1,13 @@
 ---
-title: Counting Haybales
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Counting Haybales"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 1294
 accepted: 741
 solved_users: 604
-acceptance_rate: 58.077%
-collected_at: 2026-04-17T13:27:13.151383+00:00
+acceptance_rate: "58.077%"
+collected_at: "2026-04-17T13:27:13.151383+00:00"
 ---
 
 ## 문제

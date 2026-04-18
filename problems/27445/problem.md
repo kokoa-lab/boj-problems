@@ -1,13 +1,13 @@
 ---
-title: Gorani Command
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Gorani Command"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 1244
 accepted: 786
 solved_users: 714
-acceptance_rate: 65.205%
-collected_at: 2026-04-17T18:03:09.564645+00:00
+acceptance_rate: "65.205%"
+collected_at: "2026-04-17T18:03:09.564645+00:00"
 ---
 
 ## 문제

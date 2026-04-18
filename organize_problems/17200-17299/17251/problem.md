@@ -1,13 +1,13 @@
 ---
-title: 힘 겨루기
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "힘 겨루기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 1121
 accepted: 583
 solved_users: 458
-acceptance_rate: 51.810%
-collected_at: 2026-04-17T14:35:22.646632+00:00
+acceptance_rate: "51.810%"
+collected_at: "2026-04-17T14:35:22.646632+00:00"
 ---
 
 ## 문제

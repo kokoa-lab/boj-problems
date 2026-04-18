@@ -1,13 +1,13 @@
 ---
-title: 세준세비
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "세준세비"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 5197
 accepted: 2290
 solved_users: 1816
-acceptance_rate: 45.951%
-collected_at: 2026-04-17T10:30:52.003265+00:00
+acceptance_rate: "45.951%"
+collected_at: "2026-04-17T10:30:52.003265+00:00"
 ---
 
 ## 문제

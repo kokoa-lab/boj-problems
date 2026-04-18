@@ -1,13 +1,13 @@
 ---
-title: 문자열 변환과 쿼리 2
-special_judge: false
-time_limit: 3 초
-memory_limit: 512 MB
+title: "문자열 변환과 쿼리 2"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "512 MB"
 submissions: 165
 accepted: 66
 solved_users: 57
-acceptance_rate: 41.606%
-collected_at: 2026-04-17T18:02:12.008601+00:00
+acceptance_rate: "41.606%"
+collected_at: "2026-04-17T18:02:12.008601+00:00"
 ---
 
 ## 문제

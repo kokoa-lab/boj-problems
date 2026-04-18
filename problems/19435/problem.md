@@ -1,13 +1,13 @@
 ---
-title: Differencia
-special_judge: false
-time_limit: 14 초
-memory_limit: 256 MB
+title: "Differencia"
+special_judge: "false"
+time_limit: "14 초"
+memory_limit: "256 MB"
 submissions: 31
 accepted: 15
 solved_users: 10
-acceptance_rate: 45.455%
-collected_at: 2026-04-17T15:19:58.794626+00:00
+acceptance_rate: "45.455%"
+collected_at: "2026-04-17T15:19:58.794626+00:00"
 ---
 
 ## 문제

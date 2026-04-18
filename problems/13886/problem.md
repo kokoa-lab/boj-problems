@@ -1,13 +1,13 @@
 ---
-title: Smoothed Gardens
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Smoothed Gardens"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 17
 accepted: 7
 solved_users: 5
-acceptance_rate: 62.500%
-collected_at: 2026-04-17T13:21:28.925367+00:00
+acceptance_rate: "62.500%"
+collected_at: "2026-04-17T13:21:28.925367+00:00"
 ---
 
 ## 문제

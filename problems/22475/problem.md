@@ -1,13 +1,13 @@
 ---
-title: YAML
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "YAML"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 36
 accepted: 9
 solved_users: 9
-acceptance_rate: 29.032%
-collected_at: 2026-04-17T16:22:14.013184+00:00
+acceptance_rate: "29.032%"
+collected_at: "2026-04-17T16:22:14.013184+00:00"
 ---
 
 ## 문제

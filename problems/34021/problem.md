@@ -1,13 +1,13 @@
 ---
-title: [T] 스코어보드가 121분 남은 시점에서 프리즈되었습니다.
-special_judge: false
-time_limit: 1.21 초
-memory_limit: 512 MB
+title: "[T] 스코어보드가 121분 남은 시점에서 프리즈되었습니다."
+special_judge: "false"
+time_limit: "1.21 초"
+memory_limit: "512 MB"
 submissions: 404
 accepted: 244
 solved_users: 199
-acceptance_rate: 59.226%
-collected_at: 2026-04-17T20:28:54.604432+00:00
+acceptance_rate: "59.226%"
+collected_at: "2026-04-17T20:28:54.604432+00:00"
 ---
 
 ## 문제

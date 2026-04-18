@@ -1,13 +1,13 @@
 ---
-title: 마지막 팩토리얼 수
-special_judge: false
-time_limit: 0.3 초 (추가 시간 없음)
-memory_limit: 128 MB
+title: "마지막 팩토리얼 수"
+special_judge: "false"
+time_limit: "0.3 초 (추가 시간 없음)"
+memory_limit: "128 MB"
 submissions: 8834
 accepted: 2428
 solved_users: 1983
-acceptance_rate: 31.541%
-collected_at: 2026-04-17T10:42:39.486916+00:00
+acceptance_rate: "31.541%"
+collected_at: "2026-04-17T10:42:39.486916+00:00"
 ---
 
 ## 문제

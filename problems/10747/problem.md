@@ -1,13 +1,13 @@
 ---
-title: Censoring
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Censoring"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 1312
 accepted: 399
 solved_users: 241
-acceptance_rate: 28.253%
-collected_at: 2026-04-17T12:28:57.770041+00:00
+acceptance_rate: "28.253%"
+collected_at: "2026-04-17T12:28:57.770041+00:00"
 ---
 
 ## 문제

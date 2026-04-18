@@ -1,13 +1,13 @@
 ---
-title: 터치스크린 키보드
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "터치스크린 키보드"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 337
 accepted: 251
 solved_users: 215
-acceptance_rate: 76.786%
-collected_at: 2026-04-17T10:53:51.394922+00:00
+acceptance_rate: "76.786%"
+collected_at: "2026-04-17T10:53:51.394922+00:00"
 ---
 
 ## 문제

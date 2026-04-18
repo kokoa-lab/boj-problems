@@ -1,13 +1,13 @@
 ---
-title: Relax! It’s just a game
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Relax! It’s just a game"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 425
 accepted: 200
 solved_users: 169
-acceptance_rate: 48.011%
-collected_at: 2026-04-17T11:09:53.341387+00:00
+acceptance_rate: "48.011%"
+collected_at: "2026-04-17T11:09:53.341387+00:00"
 ---
 
 ## 문제

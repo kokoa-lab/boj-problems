@@ -1,13 +1,13 @@
 ---
-title: Ir e Vir
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Ir e Vir"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 57
 accepted: 50
 solved_users: 43
-acceptance_rate: 86.000%
-collected_at: 2026-04-17T13:16:57.533545+00:00
+acceptance_rate: "86.000%"
+collected_at: "2026-04-17T13:16:57.533545+00:00"
 ---
 
 ## 문제

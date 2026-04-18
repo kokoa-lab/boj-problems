@@ -1,13 +1,13 @@
 ---
-title: Sascha
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "Sascha"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 678
 accepted: 277
 solved_users: 218
-acceptance_rate: 42.578%
-collected_at: 2026-04-17T10:41:17.623054+00:00
+acceptance_rate: "42.578%"
+collected_at: "2026-04-17T10:41:17.623054+00:00"
 ---
 
 ## 문제

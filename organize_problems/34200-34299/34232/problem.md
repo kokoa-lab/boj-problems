@@ -1,13 +1,13 @@
 ---
-title: 네모난 순열 찾기 2
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "네모난 순열 찾기 2"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 149
 accepted: 89
 solved_users: 83
-acceptance_rate: 62.406%
-collected_at: 2026-04-17T20:33:41.690968+00:00
+acceptance_rate: "62.406%"
+collected_at: "2026-04-17T20:33:41.690968+00:00"
 ---
 
 ## 문제

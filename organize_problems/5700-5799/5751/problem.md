@@ -1,13 +1,13 @@
 ---
-title: Head or Tail
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Head or Tail"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 1080
 accepted: 887
 solved_users: 837
-acceptance_rate: 82.708%
-collected_at: 2026-04-17T11:17:05.034844+00:00
+acceptance_rate: "82.708%"
+collected_at: "2026-04-17T11:17:05.034844+00:00"
 ---
 
 ## 문제

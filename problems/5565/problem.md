@@ -1,13 +1,13 @@
 ---
-title: 영수증
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "영수증"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 19838
 accepted: 17189
 solved_users: 15982
-acceptance_rate: 87.496%
-collected_at: 2026-04-17T11:15:33.673124+00:00
+acceptance_rate: "87.496%"
+collected_at: "2026-04-17T11:15:33.673124+00:00"
 ---
 
 ## 문제

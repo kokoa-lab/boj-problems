@@ -1,13 +1,13 @@
 ---
-title: Bessie Gets Even
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Bessie Gets Even"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 312
 accepted: 124
 solved_users: 99
-acceptance_rate: 37.786%
-collected_at: 2026-04-17T12:29:15.772355+00:00
+acceptance_rate: "37.786%"
+collected_at: "2026-04-17T12:29:15.772355+00:00"
 ---
 
 ## 문제

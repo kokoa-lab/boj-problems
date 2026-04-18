@@ -1,13 +1,13 @@
 ---
-title: 에르다 노바와 오리진 스킬
-special_judge: false
-time_limit: 1.5 초
-memory_limit: 1024 MB
+title: "에르다 노바와 오리진 스킬"
+special_judge: "false"
+time_limit: "1.5 초"
+memory_limit: "1024 MB"
 submissions: 2042
 accepted: 771
 solved_users: 676
-acceptance_rate: 38.629%
-collected_at: 2026-04-17T18:52:56.886724+00:00
+acceptance_rate: "38.629%"
+collected_at: "2026-04-17T18:52:56.886724+00:00"
 ---
 
 ## 문제

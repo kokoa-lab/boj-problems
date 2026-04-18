@@ -1,13 +1,13 @@
 ---
-title: 빵
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "빵"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 11647
 accepted: 5633
 solved_users: 4811
-acceptance_rate: 51.587%
-collected_at: 2026-04-17T17:25:51.632414+00:00
+acceptance_rate: "51.587%"
+collected_at: "2026-04-17T17:25:51.632414+00:00"
 ---
 
 ## 문제

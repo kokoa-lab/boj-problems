@@ -1,13 +1,13 @@
 ---
-title: 태보태보 총난타
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "태보태보 총난타"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 3205
 accepted: 2496
 solved_users: 2280
-acceptance_rate: 79.002%
-collected_at: 2026-04-18T09:50:40.432602+00:00
+acceptance_rate: "79.002%"
+collected_at: "2026-04-18T09:50:40.432602+00:00"
 ---
 
 ## 문제

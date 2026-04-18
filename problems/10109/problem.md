@@ -1,13 +1,13 @@
 ---
-title: Troyangles
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Troyangles"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 108
 accepted: 61
 solved_users: 44
-acceptance_rate: 51.765%
-collected_at: 2026-04-17T12:19:07.156284+00:00
+acceptance_rate: "51.765%"
+collected_at: "2026-04-17T12:19:07.156284+00:00"
 ---
 
 ## 문제

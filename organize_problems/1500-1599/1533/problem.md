@@ -1,13 +1,13 @@
 ---
-title: 길의 개수
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "길의 개수"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 4317
 accepted: 1714
 solved_users: 1372
-acceptance_rate: 38.507%
-collected_at: 2026-04-17T10:30:54.997946+00:00
+acceptance_rate: "38.507%"
+collected_at: "2026-04-17T10:30:54.997946+00:00"
 ---
 
 ## 문제

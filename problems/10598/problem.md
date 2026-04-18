@@ -1,13 +1,13 @@
 ---
-title: Knockout Racing
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Knockout Racing"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 163
 accepted: 126
 solved_users: 109
-acceptance_rate: 81.343%
-collected_at: 2026-04-17T12:26:01.304572+00:00
+acceptance_rate: "81.343%"
+collected_at: "2026-04-17T12:26:01.304572+00:00"
 ---
 
 ## 문제

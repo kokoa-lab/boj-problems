@@ -1,13 +1,13 @@
 ---
-title: Word Clock
-special_judge: true
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Word Clock"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 29
 accepted: 13
 solved_users: 7
-acceptance_rate: 70.000%
-collected_at: 2026-04-17T14:10:55.584264+00:00
+acceptance_rate: "70.000%"
+collected_at: "2026-04-17T14:10:55.584264+00:00"
 ---
 
 ## 문제

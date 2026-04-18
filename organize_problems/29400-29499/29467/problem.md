@@ -1,13 +1,13 @@
 ---
-title: Шифровка
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Шифровка"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 272
 accepted: 222
 solved_users: 192
-acceptance_rate: 82.403%
-collected_at: 2026-04-17T18:44:52.461949+00:00
+acceptance_rate: "82.403%"
+collected_at: "2026-04-17T18:44:52.461949+00:00"
 ---
 
 ## 문제

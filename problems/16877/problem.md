@@ -1,13 +1,13 @@
 ---
-title: 핌버
-special_judge: false
-time_limit: 0.5 초
-memory_limit: 512 MB
+title: "핌버"
+special_judge: "false"
+time_limit: "0.5 초"
+memory_limit: "512 MB"
 submissions: 2522
 accepted: 1028
 solved_users: 743
-acceptance_rate: 37.094%
-collected_at: 2026-04-17T14:25:32.386656+00:00
+acceptance_rate: "37.094%"
+collected_at: "2026-04-17T14:25:32.386656+00:00"
 ---
 
 ## 문제

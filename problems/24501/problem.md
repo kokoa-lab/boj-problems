@@ -1,13 +1,13 @@
 ---
-title: blobaww
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "blobaww"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 1263
 accepted: 365
 solved_users: 299
-acceptance_rate: 27.970%
-collected_at: 2026-04-17T17:10:20.450472+00:00
+acceptance_rate: "27.970%"
+collected_at: "2026-04-17T17:10:20.450472+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: За гробоцветами
-special_judge: true
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "За гробоцветами"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 46
 accepted: 33
 solved_users: 22
-acceptance_rate: 64.706%
-collected_at: 2026-04-17T18:31:31.611462+00:00
+acceptance_rate: "64.706%"
+collected_at: "2026-04-17T18:31:31.611462+00:00"
 ---
 
 ## 문제

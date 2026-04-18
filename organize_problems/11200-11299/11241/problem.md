@@ -1,13 +1,13 @@
 ---
-title: Hive
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Hive"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 30
 accepted: 14
 solved_users: 11
-acceptance_rate: 45.833%
-collected_at: 2026-04-17T12:38:29.440038+00:00
+acceptance_rate: "45.833%"
+collected_at: "2026-04-17T12:38:29.440038+00:00"
 ---
 
 ## 문제

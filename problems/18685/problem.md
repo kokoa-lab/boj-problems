@@ -1,13 +1,13 @@
 ---
-title: Scrambled Digits
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Scrambled Digits"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 28
 accepted: 5
 solved_users: 4
-acceptance_rate: 30.769%
-collected_at: 2026-04-17T15:08:22.554220+00:00
+acceptance_rate: "30.769%"
+collected_at: "2026-04-17T15:08:22.554220+00:00"
 ---
 
 ## 문제

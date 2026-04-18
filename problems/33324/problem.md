@@ -1,13 +1,13 @@
 ---
-title: The Romanian Sieve
-special_judge: false
-time_limit: 2 초
-memory_limit: 2048 MB
+title: "The Romanian Sieve"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "2048 MB"
 submissions: 56
 accepted: 23
 solved_users: 12
-acceptance_rate: 38.710%
-collected_at: 2026-04-17T20:13:40.833400+00:00
+acceptance_rate: "38.710%"
+collected_at: "2026-04-17T20:13:40.833400+00:00"
 ---
 
 ## 문제

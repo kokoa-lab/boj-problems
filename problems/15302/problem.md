@@ -1,13 +1,13 @@
 ---
-title: Triangle to Hexagon
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Triangle to Hexagon"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 42
 accepted: 12
 solved_users: 11
-acceptance_rate: 100.000%
-collected_at: 2026-04-17T13:56:44.935184+00:00
+acceptance_rate: "100.000%"
+collected_at: "2026-04-17T13:56:44.935184+00:00"
 ---
 
 ## 문제

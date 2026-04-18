@@ -1,13 +1,13 @@
 ---
-title: 독특한 계산기
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "독특한 계산기"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 2366
 accepted: 625
 solved_users: 460
-acceptance_rate: 27.316%
-collected_at: 2026-04-17T15:24:12.349364+00:00
+acceptance_rate: "27.316%"
+collected_at: "2026-04-17T15:24:12.349364+00:00"
 ---
 
 ## 문제

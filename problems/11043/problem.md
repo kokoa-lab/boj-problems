@@ -1,13 +1,13 @@
 ---
-title: Bridge Construction Planning
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Bridge Construction Planning"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 36
 accepted: 16
 solved_users: 12
-acceptance_rate: 70.588%
-collected_at: 2026-04-17T12:35:37.666015+00:00
+acceptance_rate: "70.588%"
+collected_at: "2026-04-17T12:35:37.666015+00:00"
 ---
 
 ## 문제

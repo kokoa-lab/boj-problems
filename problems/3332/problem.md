@@ -1,13 +1,13 @@
 ---
-title: Royal treasury
-special_judge: true
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Royal treasury"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 52
 accepted: 16
 solved_users: 14
-acceptance_rate: 34.146%
-collected_at: 2026-04-17T10:48:12.681306+00:00
+acceptance_rate: "34.146%"
+collected_at: "2026-04-17T10:48:12.681306+00:00"
 ---
 
 ## 문제

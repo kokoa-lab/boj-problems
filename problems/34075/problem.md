@@ -1,13 +1,13 @@
 ---
-title: 세그먼트 트리보다도 바･로･너･♡
-special_judge: false
-time_limit: 1.01 초
-memory_limit: 1024 MB
+title: "세그먼트 트리보다도 바･로･너･♡"
+special_judge: "false"
+time_limit: "1.01 초"
+memory_limit: "1024 MB"
 submissions: 634
 accepted: 324
 solved_users: 286
-acceptance_rate: 52.963%
-collected_at: 2026-04-17T20:30:00.354326+00:00
+acceptance_rate: "52.963%"
+collected_at: "2026-04-17T20:30:00.354326+00:00"
 ---
 
 ## 문제

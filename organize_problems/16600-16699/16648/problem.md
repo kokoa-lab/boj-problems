@@ -1,13 +1,13 @@
 ---
-title: Accumulator Battery
-special_judge: true
-time_limit: 3 초
-memory_limit: 512 MB
+title: "Accumulator Battery"
+special_judge: "true"
+time_limit: "3 초"
+memory_limit: "512 MB"
 submissions: 752
 accepted: 488
 solved_users: 433
-acceptance_rate: 65.606%
-collected_at: 2026-04-17T14:21:36.610953+00:00
+acceptance_rate: "65.606%"
+collected_at: "2026-04-17T14:21:36.610953+00:00"
 ---
 
 ## 문제

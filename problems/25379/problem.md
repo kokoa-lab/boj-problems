@@ -1,13 +1,13 @@
 ---
-title: 피하자
-special_judge: false
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "피하자"
+special_judge: "false"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 11511
 accepted: 3559
 solved_users: 2610
-acceptance_rate: 32.318%
-collected_at: 2026-04-17T17:25:55.304603+00:00
+acceptance_rate: "32.318%"
+collected_at: "2026-04-17T17:25:55.304603+00:00"
 ---
 
 ## 문제

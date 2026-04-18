@@ -1,13 +1,13 @@
 ---
-title: Single Cut of Failure
-special_judge: true
-time_limit: 6 초
-memory_limit: 1024 MB
+title: "Single Cut of Failure"
+special_judge: "true"
+time_limit: "6 초"
+memory_limit: "1024 MB"
 submissions: 117
 accepted: 40
 solved_users: 31
-acceptance_rate: 41.892%
-collected_at: 2026-04-17T14:04:28.157274+00:00
+acceptance_rate: "41.892%"
+collected_at: "2026-04-17T14:04:28.157274+00:00"
 ---
 
 ## 문제

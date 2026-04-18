@@ -1,13 +1,13 @@
 ---
-title: even 하게 익은 SCON
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "even 하게 익은 SCON"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 297
 accepted: 218
 solved_users: 169
-acceptance_rate: 74.779%
-collected_at: 2026-04-17T20:26:15.361676+00:00
+acceptance_rate: "74.779%"
+collected_at: "2026-04-17T20:26:15.361676+00:00"
 ---
 
 ## 문제

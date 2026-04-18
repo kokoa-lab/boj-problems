@@ -1,13 +1,13 @@
 ---
-title: Rendezvous on a Tetrahedron
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Rendezvous on a Tetrahedron"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 59
 accepted: 27
 solved_users: 26
-acceptance_rate: 47.273%
-collected_at: 2026-04-17T13:57:19.503758+00:00
+acceptance_rate: "47.273%"
+collected_at: "2026-04-17T13:57:19.503758+00:00"
 ---
 
 ## 문제

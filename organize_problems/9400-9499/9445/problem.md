@@ -1,13 +1,13 @@
 ---
-title: Correcting Curiosity
-special_judge: true
-time_limit: 2 초
-memory_limit: 256 MB
+title: "Correcting Curiosity"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 2
 accepted: 2
 solved_users: 2
-acceptance_rate: 100.000%
-collected_at: 2026-04-17T12:09:58.181658+00:00
+acceptance_rate: "100.000%"
+collected_at: "2026-04-17T12:09:58.181658+00:00"
 ---
 
 ## 문제

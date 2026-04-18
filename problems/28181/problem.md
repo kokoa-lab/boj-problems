@@ -1,13 +1,13 @@
 ---
-title: Two Missing Numbers
-special_judge: false
-time_limit: 1 초
-memory_limit: 64 MB
+title: "Two Missing Numbers"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "64 MB"
 submissions: 117
 accepted: 35
 solved_users: 32
-acceptance_rate: 40.506%
-collected_at: 2026-04-17T18:19:33.529930+00:00
+acceptance_rate: "40.506%"
+collected_at: "2026-04-17T18:19:33.529930+00:00"
 ---
 
 ## 문제

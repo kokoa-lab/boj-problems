@@ -1,13 +1,13 @@
 ---
-title: Jackdaws And Crows
-special_judge: false
-time_limit: 6 초
-memory_limit: 512 MB
+title: "Jackdaws And Crows"
+special_judge: "false"
+time_limit: "6 초"
+memory_limit: "512 MB"
 submissions: 117
 accepted: 46
 solved_users: 42
-acceptance_rate: 40.777%
-collected_at: 2026-04-17T14:55:31.257019+00:00
+acceptance_rate: "40.777%"
+collected_at: "2026-04-17T14:55:31.257019+00:00"
 ---
 
 ## 문제

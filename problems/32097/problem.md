@@ -1,13 +1,13 @@
 ---
-title: 橋の建造計画 2
-special_judge: true
-time_limit: 8 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "橋の建造計画 2"
+special_judge: "true"
+time_limit: "8 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 3
 accepted: 0
 solved_users: 0
-acceptance_rate: 0.000%
-collected_at: 2026-04-17T19:42:48.315504+00:00
+acceptance_rate: "0.000%"
+collected_at: "2026-04-17T19:42:48.315504+00:00"
 ---
 
 ## 문제

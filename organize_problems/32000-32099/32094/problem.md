@@ -1,13 +1,13 @@
 ---
-title: スライムの合成
-special_judge: false
-time_limit: 8 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "スライムの合成"
+special_judge: "false"
+time_limit: "8 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 11
 accepted: 4
 solved_users: 4
-acceptance_rate: 36.364%
-collected_at: 2026-04-17T19:42:39.995222+00:00
+acceptance_rate: "36.364%"
+collected_at: "2026-04-17T19:42:39.995222+00:00"
 ---
 
 ## 문제

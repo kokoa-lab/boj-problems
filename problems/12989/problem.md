@@ -1,13 +1,13 @@
 ---
-title: LCS Again
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "LCS Again"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 46
 accepted: 29
 solved_users: 24
-acceptance_rate: 82.759%
-collected_at: 2026-04-17T13:05:22.444803+00:00
+acceptance_rate: "82.759%"
+collected_at: "2026-04-17T13:05:22.444803+00:00"
 ---
 
 ## 문제

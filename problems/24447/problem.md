@@ -1,13 +1,13 @@
 ---
-title: 알고리즘 수업 - 너비 우선 탐색 4
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "알고리즘 수업 - 너비 우선 탐색 4"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 2759
 accepted: 1160
 solved_users: 1016
-acceptance_rate: 41.001%
-collected_at: 2026-04-17T17:09:36.680761+00:00
+acceptance_rate: "41.001%"
+collected_at: "2026-04-17T17:09:36.680761+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Antiplagiarism
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Antiplagiarism"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 50
 accepted: 35
 solved_users: 33
-acceptance_rate: 70.213%
-collected_at: 2026-04-17T15:41:12.129162+00:00
+acceptance_rate: "70.213%"
+collected_at: "2026-04-17T15:41:12.129162+00:00"
 ---
 
 ## 문제

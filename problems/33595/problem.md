@@ -1,13 +1,13 @@
 ---
-title: Amanda the Amoeba
-special_judge: true
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 2048 MB
+title: "Amanda the Amoeba"
+special_judge: "true"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "2048 MB"
 submissions: 31
 accepted: 8
 solved_users: 7
-acceptance_rate: 70.000%
-collected_at: 2026-04-17T20:19:45.161120+00:00
+acceptance_rate: "70.000%"
+collected_at: "2026-04-17T20:19:45.161120+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Island Exploration
-special_judge: false
-time_limit: 1 초
-memory_limit: 2048 MB
+title: "Island Exploration"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "2048 MB"
 submissions: 88
 accepted: 78
 solved_users: 70
-acceptance_rate: 89.744%
-collected_at: 2026-04-17T20:20:50.439366+00:00
+acceptance_rate: "89.744%"
+collected_at: "2026-04-17T20:20:50.439366+00:00"
 ---
 
 ## 문제

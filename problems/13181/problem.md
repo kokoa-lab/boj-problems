@@ -1,13 +1,13 @@
 ---
-title: 악수
-special_judge: false
-time_limit: 4 초
-memory_limit: 512 MB
+title: "악수"
+special_judge: "false"
+time_limit: "4 초"
+memory_limit: "512 MB"
 submissions: 71
 accepted: 32
 solved_users: 26
-acceptance_rate: 63.415%
-collected_at: 2026-04-17T13:08:53.639473+00:00
+acceptance_rate: "63.415%"
+collected_at: "2026-04-17T13:08:53.639473+00:00"
 ---
 
 ## 문제

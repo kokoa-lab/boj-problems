@@ -1,13 +1,13 @@
 ---
-title: 경찰
-special_judge: true
-time_limit: 2 초
-memory_limit: 128 MB
+title: "경찰"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 466
 accepted: 124
 solved_users: 97
-acceptance_rate: 31.090%
-collected_at: 2026-04-17T10:28:25.769692+00:00
+acceptance_rate: "31.090%"
+collected_at: "2026-04-17T10:28:25.769692+00:00"
 ---
 
 ## 문제

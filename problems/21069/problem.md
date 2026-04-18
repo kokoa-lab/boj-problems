@@ -1,13 +1,13 @@
 ---
-title: Joyful Numbers
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Joyful Numbers"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 196
 accepted: 91
 solved_users: 62
-acceptance_rate: 40.523%
-collected_at: 2026-04-17T15:46:55.251805+00:00
+acceptance_rate: "40.523%"
+collected_at: "2026-04-17T15:46:55.251805+00:00"
 ---
 
 ## 문제

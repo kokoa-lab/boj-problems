@@ -1,13 +1,13 @@
 ---
-title: Balanced Animals
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "Balanced Animals"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 115
 accepted: 84
 solved_users: 58
-acceptance_rate: 71.605%
-collected_at: 2026-04-17T14:52:27.121861+00:00
+acceptance_rate: "71.605%"
+collected_at: "2026-04-17T14:52:27.121861+00:00"
 ---
 
 ## 문제

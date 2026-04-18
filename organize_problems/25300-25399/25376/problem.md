@@ -1,13 +1,13 @@
 ---
-title: 이상한 스위치
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "이상한 스위치"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 530
 accepted: 174
 solved_users: 132
-acceptance_rate: 32.117%
-collected_at: 2026-04-17T17:25:46.190289+00:00
+acceptance_rate: "32.117%"
+collected_at: "2026-04-17T17:25:46.190289+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 달려라 IOI 열차
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "달려라 IOI 열차"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 713
 accepted: 189
 solved_users: 157
-acceptance_rate: 27.986%
-collected_at: 2026-04-18T09:58:06.917988+00:00
+acceptance_rate: "27.986%"
+collected_at: "2026-04-18T09:58:06.917988+00:00"
 ---
 
 ## 문제

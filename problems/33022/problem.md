@@ -1,13 +1,13 @@
 ---
-title: Hypercatapult Commute
-special_judge: true
-time_limit: 3 초
-memory_limit: 2048 MB
+title: "Hypercatapult Commute"
+special_judge: "true"
+time_limit: "3 초"
+memory_limit: "2048 MB"
 submissions: 61
 accepted: 39
 solved_users: 23
-acceptance_rate: 54.762%
-collected_at: 2026-04-17T20:07:31.300806+00:00
+acceptance_rate: "54.762%"
+collected_at: "2026-04-17T20:07:31.300806+00:00"
 ---
 
 ## 문제

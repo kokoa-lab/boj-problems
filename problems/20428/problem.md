@@ -1,13 +1,13 @@
 ---
-title: Улучшение успеваемости
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Улучшение успеваемости"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 156
 accepted: 50
 solved_users: 40
-acceptance_rate: 32.787%
-collected_at: 2026-04-17T15:36:13.299969+00:00
+acceptance_rate: "32.787%"
+collected_at: "2026-04-17T15:36:13.299969+00:00"
 ---
 
 ## 문제

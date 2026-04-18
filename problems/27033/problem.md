@@ -1,13 +1,13 @@
 ---
-title: Pesky Parentheses
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Pesky Parentheses"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 32
 accepted: 11
 solved_users: 9
-acceptance_rate: 39.130%
-collected_at: 2026-04-17T17:55:15.984548+00:00
+acceptance_rate: "39.130%"
+collected_at: "2026-04-17T17:55:15.984548+00:00"
 ---
 
 ## 문제

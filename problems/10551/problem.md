@@ -1,13 +1,13 @@
 ---
-title: STROJOPIS
-special_judge: false
-time_limit: 1 초
-memory_limit: 32 MB
+title: "STROJOPIS"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "32 MB"
 submissions: 625
 accepted: 522
 solved_users: 473
-acceptance_rate: 82.982%
-collected_at: 2026-04-17T12:25:25.798080+00:00
+acceptance_rate: "82.982%"
+collected_at: "2026-04-17T12:25:25.798080+00:00"
 ---
 
 ## 문제

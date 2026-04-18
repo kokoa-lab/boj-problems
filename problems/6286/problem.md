@@ -1,13 +1,13 @@
 ---
-title: 리벤지 오브 피보나치
-special_judge: false
-time_limit: 5 초
-memory_limit: 128 MB
+title: "리벤지 오브 피보나치"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "128 MB"
 submissions: 513
 accepted: 44
 solved_users: 28
-acceptance_rate: 8.974%
-collected_at: 2026-04-18T09:49:10.212561+00:00
+acceptance_rate: "8.974%"
+collected_at: "2026-04-18T09:49:10.212561+00:00"
 ---
 
 ## 문제

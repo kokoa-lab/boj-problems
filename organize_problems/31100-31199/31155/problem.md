@@ -1,13 +1,13 @@
 ---
-title: Jason ABC
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Jason ABC"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 92
 accepted: 35
 solved_users: 25
-acceptance_rate: 36.232%
-collected_at: 2026-04-17T19:22:22.125193+00:00
+acceptance_rate: "36.232%"
+collected_at: "2026-04-17T19:22:22.125193+00:00"
 ---
 
 ## 문제

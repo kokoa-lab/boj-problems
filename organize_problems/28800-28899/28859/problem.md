@@ -1,13 +1,13 @@
 ---
-title: Капли
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Капли"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 59
 accepted: 48
 solved_users: 43
-acceptance_rate: 82.692%
-collected_at: 2026-04-17T18:33:48.147817+00:00
+acceptance_rate: "82.692%"
+collected_at: "2026-04-17T18:33:48.147817+00:00"
 ---
 
 ## 문제

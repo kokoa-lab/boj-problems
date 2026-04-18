@@ -1,13 +1,13 @@
 ---
-title: 사격 연습
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "사격 연습"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 1080
 accepted: 376
 solved_users: 245
-acceptance_rate: 38.401%
-collected_at: 2026-04-17T18:15:31.585960+00:00
+acceptance_rate: "38.401%"
+collected_at: "2026-04-17T18:15:31.585960+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 리스트 계산기
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "리스트 계산기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 89
 accepted: 30
 solved_users: 18
-acceptance_rate: 29.508%
-collected_at: 2026-04-17T11:51:03.297462+00:00
+acceptance_rate: "29.508%"
+collected_at: "2026-04-17T11:51:03.297462+00:00"
 ---
 
 ## 문제

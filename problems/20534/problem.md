@@ -1,13 +1,13 @@
 ---
-title: PCB 설계
-special_judge: true
-time_limit: 1 초
-memory_limit: 1536 MB
+title: "PCB 설계"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1536 MB"
 submissions: 60
 accepted: 23
 solved_users: 18
-acceptance_rate: 51.429%
-collected_at: 2026-04-17T15:37:37.173555+00:00
+acceptance_rate: "51.429%"
+collected_at: "2026-04-17T15:37:37.173555+00:00"
 ---
 
 ## 문제

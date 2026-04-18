@@ -1,13 +1,13 @@
 ---
-title: 수학적인 최소 공통 조상
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "수학적인 최소 공통 조상"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 687
 accepted: 266
 solved_users: 219
-acceptance_rate: 38.489%
-collected_at: 2026-04-17T17:40:03.014978+00:00
+acceptance_rate: "38.489%"
+collected_at: "2026-04-17T17:40:03.014978+00:00"
 ---
 
 ## 문제

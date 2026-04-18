@@ -1,13 +1,13 @@
 ---
-title: 사사의 사차원 사탕 봉지
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "사사의 사차원 사탕 봉지"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 1020
 accepted: 510
 solved_users: 439
-acceptance_rate: 49.661%
-collected_at: 2026-04-17T18:15:49.295364+00:00
+acceptance_rate: "49.661%"
+collected_at: "2026-04-17T18:15:49.295364+00:00"
 ---
 
 ## 문제

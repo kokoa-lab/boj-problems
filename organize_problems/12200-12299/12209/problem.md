@@ -1,13 +1,13 @@
 ---
-title: Super 2048 (Large)
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Super 2048 (Large)"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 300
 accepted: 213
 solved_users: 183
-acceptance_rate: 70.656%
-collected_at: 2026-04-17T12:51:54.886136+00:00
+acceptance_rate: "70.656%"
+collected_at: "2026-04-17T12:51:54.886136+00:00"
 ---
 
 ## 문제

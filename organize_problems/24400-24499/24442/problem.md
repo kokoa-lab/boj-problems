@@ -1,13 +1,13 @@
 ---
-title: 수열 쪼개기
-special_judge: false
-time_limit: 5 초
-memory_limit: 1024 MB
+title: "수열 쪼개기"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "1024 MB"
 submissions: 283
 accepted: 80
 solved_users: 57
-acceptance_rate: 25.446%
-collected_at: 2026-04-17T17:09:30.889305+00:00
+acceptance_rate: "25.446%"
+collected_at: "2026-04-17T17:09:30.889305+00:00"
 ---
 
 ## 문제

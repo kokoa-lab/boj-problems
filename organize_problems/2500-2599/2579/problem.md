@@ -1,13 +1,13 @@
 ---
-title: 계단 오르기
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "계단 오르기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 250794
 accepted: 90447
 solved_users: 65127
-acceptance_rate: 35.271%
-collected_at: 2026-04-17T10:42:57.326033+00:00
+acceptance_rate: "35.271%"
+collected_at: "2026-04-17T10:42:57.326033+00:00"
 ---
 
 ## 문제

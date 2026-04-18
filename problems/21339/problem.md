@@ -1,13 +1,13 @@
 ---
-title: Contest Struggles
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Contest Struggles"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 560
 accepted: 348
 solved_users: 317
-acceptance_rate: 61.315%
-collected_at: 2026-04-17T15:56:08.654599+00:00
+acceptance_rate: "61.315%"
+collected_at: "2026-04-17T15:56:08.654599+00:00"
 ---
 
 ## 문제

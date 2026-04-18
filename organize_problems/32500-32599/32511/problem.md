@@ -1,13 +1,13 @@
 ---
-title: 작업 처리
-special_judge: false
-time_limit: 4 초
-memory_limit: 1024 MB
+title: "작업 처리"
+special_judge: "false"
+time_limit: "4 초"
+memory_limit: "1024 MB"
 submissions: 105
 accepted: 46
 solved_users: 37
-acceptance_rate: 41.111%
-collected_at: 2026-04-17T19:53:22.696779+00:00
+acceptance_rate: "41.111%"
+collected_at: "2026-04-17T19:53:22.696779+00:00"
 ---
 
 ## 문제

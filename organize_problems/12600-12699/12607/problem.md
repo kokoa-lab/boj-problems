@@ -1,13 +1,13 @@
 ---
-title: T9 Spelling (Small)
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "T9 Spelling (Small)"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 265
 accepted: 152
 solved_users: 133
-acceptance_rate: 63.636%
-collected_at: 2026-04-17T12:58:21.037308+00:00
+acceptance_rate: "63.636%"
+collected_at: "2026-04-17T12:58:21.037308+00:00"
 ---
 
 ## 문제

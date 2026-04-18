@@ -1,13 +1,13 @@
 ---
-title: Historic Exhibition
-special_judge: true
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Historic Exhibition"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 284
 accepted: 99
 solved_users: 94
-acceptance_rate: 44.340%
-collected_at: 2026-04-17T14:47:14.818580+00:00
+acceptance_rate: "44.340%"
+collected_at: "2026-04-17T14:47:14.818580+00:00"
 ---
 
 ## 문제

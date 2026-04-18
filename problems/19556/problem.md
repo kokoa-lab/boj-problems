@@ -1,13 +1,13 @@
 ---
-title: Colors
-special_judge: false
-time_limit: 0.3 초 (추가 시간 없음)
-memory_limit: 256 MB
+title: "Colors"
+special_judge: "false"
+time_limit: "0.3 초 (추가 시간 없음)"
+memory_limit: "256 MB"
 submissions: 162
 accepted: 21
 solved_users: 20
-acceptance_rate: 21.739%
-collected_at: 2026-04-17T15:22:47.722857+00:00
+acceptance_rate: "21.739%"
+collected_at: "2026-04-17T15:22:47.722857+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Почтовое отправление
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "Почтовое отправление"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 34
 accepted: 15
 solved_users: 10
-acceptance_rate: 45.455%
-collected_at: 2026-04-17T16:16:35.954706+00:00
+acceptance_rate: "45.455%"
+collected_at: "2026-04-17T16:16:35.954706+00:00"
 ---
 
 ## 문제

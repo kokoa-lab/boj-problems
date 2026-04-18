@@ -1,13 +1,13 @@
 ---
-title: 트리와 XOR
-special_judge: false
-time_limit: 3 초
-memory_limit: 1024 MB
+title: "트리와 XOR"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "1024 MB"
 submissions: 162
 accepted: 110
 solved_users: 101
-acceptance_rate: 66.013%
-collected_at: 2026-04-17T19:01:33.409973+00:00
+acceptance_rate: "66.013%"
+collected_at: "2026-04-17T19:01:33.409973+00:00"
 ---
 
 ## 문제

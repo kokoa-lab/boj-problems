@@ -1,13 +1,13 @@
 ---
-title: Circular Shortcut
-special_judge: true
-time_limit: 1 초
-memory_limit: 2048 MB
+title: "Circular Shortcut"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "2048 MB"
 submissions: 123
 accepted: 101
 solved_users: 79
-acceptance_rate: 88.764%
-collected_at: 2026-04-17T20:55:07.098634+00:00
+acceptance_rate: "88.764%"
+collected_at: "2026-04-17T20:55:07.098634+00:00"
 ---
 
 ## 문제

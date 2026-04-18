@@ -1,13 +1,13 @@
 ---
-title: 한조서열정리하고옴ㅋㅋ
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "한조서열정리하고옴ㅋㅋ"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 13735
 accepted: 5707
 solved_users: 4664
-acceptance_rate: 41.223%
-collected_at: 2026-04-17T13:40:00.029531+00:00
+acceptance_rate: "41.223%"
+collected_at: "2026-04-17T13:40:00.029531+00:00"
 ---
 
 ## 문제

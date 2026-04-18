@@ -1,13 +1,13 @@
 ---
-title: 정수 게임
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "정수 게임"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 876
 accepted: 356
 solved_users: 279
-acceptance_rate: 44.498%
-collected_at: 2026-04-17T13:43:03.006861+00:00
+acceptance_rate: "44.498%"
+collected_at: "2026-04-17T13:43:03.006861+00:00"
 ---
 
 ## 문제

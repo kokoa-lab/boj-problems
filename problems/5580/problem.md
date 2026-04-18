@@ -1,13 +1,13 @@
 ---
-title: 빙고 게임
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "빙고 게임"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 238
 accepted: 108
 solved_users: 77
-acceptance_rate: 45.294%
-collected_at: 2026-04-18T09:58:04.041234+00:00
+acceptance_rate: "45.294%"
+collected_at: "2026-04-18T09:58:04.041234+00:00"
 ---
 
 ## 문제

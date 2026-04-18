@@ -1,13 +1,13 @@
 ---
-title: Palindromic DNA
-special_judge: false
-time_limit: 3 초
-memory_limit: 128 MB
+title: "Palindromic DNA"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "128 MB"
 submissions: 61
 accepted: 22
 solved_users: 18
-acceptance_rate: 37.500%
-collected_at: 2026-04-17T10:52:33.340606+00:00
+acceptance_rate: "37.500%"
+collected_at: "2026-04-17T10:52:33.340606+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 신호등
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "신호등"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 389
 accepted: 72
 solved_users: 50
-acceptance_rate: 18.587%
-collected_at: 2026-04-17T12:42:19.982795+00:00
+acceptance_rate: "18.587%"
+collected_at: "2026-04-17T12:42:19.982795+00:00"
 ---
 
 ## 문제

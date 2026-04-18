@@ -1,13 +1,13 @@
 ---
-title: A Homogeneous Country
-special_judge: true
-time_limit: 1 초
-memory_limit: 256 MB
+title: "A Homogeneous Country"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 360
 accepted: 143
 solved_users: 112
-acceptance_rate: 40.727%
-collected_at: 2026-04-17T14:18:35.495814+00:00
+acceptance_rate: "40.727%"
+collected_at: "2026-04-17T14:18:35.495814+00:00"
 ---
 
 ## 문제

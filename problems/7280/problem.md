@@ -1,13 +1,13 @@
 ---
-title: Kortos
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Kortos"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 362
 accepted: 282
 solved_users: 246
-acceptance_rate: 79.100%
-collected_at: 2026-04-17T11:47:55.600553+00:00
+acceptance_rate: "79.100%"
+collected_at: "2026-04-17T11:47:55.600553+00:00"
 ---
 
 ## 문제

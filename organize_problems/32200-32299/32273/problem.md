@@ -1,13 +1,13 @@
 ---
-title: Tromino (트로미노) 타일 채우기
-special_judge: true
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Tromino (트로미노) 타일 채우기"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 19
 accepted: 8
 solved_users: 8
-acceptance_rate: 50.000%
-collected_at: 2026-04-17T19:47:35.167671+00:00
+acceptance_rate: "50.000%"
+collected_at: "2026-04-17T19:47:35.167671+00:00"
 ---
 
 ## 문제

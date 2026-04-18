@@ -1,13 +1,13 @@
 ---
-title: Remove Exactly Two
-special_judge: false
-time_limit: 2 초
-memory_limit: 2048 MB
+title: "Remove Exactly Two"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "2048 MB"
 submissions: 103
 accepted: 61
 solved_users: 59
-acceptance_rate: 61.458%
-collected_at: 2026-04-17T20:13:30.455233+00:00
+acceptance_rate: "61.458%"
+collected_at: "2026-04-17T20:13:30.455233+00:00"
 ---
 
 ## 문제

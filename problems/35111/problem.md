@@ -1,13 +1,13 @@
 ---
-title: 제목은 나무 키우기로 하겠습니다. 근데 이제 삼각형을 곁들인
-special_judge: false
-time_limit: 3 초
-memory_limit: 1024 MB
+title: "제목은 나무 키우기로 하겠습니다. 근데 이제 삼각형을 곁들인"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "1024 MB"
 submissions: 63
 accepted: 40
 solved_users: 33
-acceptance_rate: 64.706%
-collected_at: 2026-04-17T20:55:57.696906+00:00
+acceptance_rate: "64.706%"
+collected_at: "2026-04-17T20:55:57.696906+00:00"
 ---
 
 ## 문제

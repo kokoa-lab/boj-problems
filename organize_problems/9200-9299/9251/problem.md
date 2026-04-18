@@ -1,13 +1,13 @@
 ---
-title: LCS
-special_judge: false
-time_limit: 0.1 초  ( 하단 참고 )
-memory_limit: 256 MB
+title: "LCS"
+special_judge: "false"
+time_limit: "0.1 초  ( 하단 참고 )"
+memory_limit: "256 MB"
 submissions: 115450
 accepted: 50302
 solved_users: 36814
-acceptance_rate: 42.771%
-collected_at: 2026-04-17T12:08:18.643722+00:00
+acceptance_rate: "42.771%"
+collected_at: "2026-04-17T12:08:18.643722+00:00"
 ---
 
 ## 문제

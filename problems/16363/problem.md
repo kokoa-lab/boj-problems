@@ -1,13 +1,13 @@
 ---
-title: Secret Code
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Secret Code"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 170
 accepted: 59
 solved_users: 53
-acceptance_rate: 54.639%
-collected_at: 2026-04-17T14:16:30.946917+00:00
+acceptance_rate: "54.639%"
+collected_at: "2026-04-17T14:16:30.946917+00:00"
 ---
 
 ## 문제

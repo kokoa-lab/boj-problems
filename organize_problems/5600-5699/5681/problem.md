@@ -1,13 +1,13 @@
 ---
-title: 공 쌓기
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "공 쌓기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 145
 accepted: 72
 solved_users: 60
-acceptance_rate: 63.830%
-collected_at: 2026-04-17T11:16:35.989949+00:00
+acceptance_rate: "63.830%"
+collected_at: "2026-04-17T11:16:35.989949+00:00"
 ---
 
 ## 문제

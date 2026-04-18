@@ -1,13 +1,13 @@
 ---
-title: Easy Arithmetic
-special_judge: true
-time_limit: 2 초
-memory_limit: 256 MB
+title: "Easy Arithmetic"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 208
 accepted: 63
 solved_users: 52
-acceptance_rate: 36.620%
-collected_at: 2026-04-17T12:41:09.406985+00:00
+acceptance_rate: "36.620%"
+collected_at: "2026-04-17T12:41:09.406985+00:00"
 ---
 
 ## 문제

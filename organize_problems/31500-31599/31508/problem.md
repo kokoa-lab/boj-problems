@@ -1,13 +1,13 @@
 ---
-title: Candy Factory
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 2048 MB
+title: "Candy Factory"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "2048 MB"
 submissions: 200
 accepted: 55
 solved_users: 47
-acceptance_rate: 33.099%
-collected_at: 2026-04-17T19:29:31.095667+00:00
+acceptance_rate: "33.099%"
+collected_at: "2026-04-17T19:29:31.095667+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Quality-Adjusted Life-Year
-special_judge: true
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Quality-Adjusted Life-Year"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 792
 accepted: 739
 solved_users: 707
-acceptance_rate: 93.395%
-collected_at: 2026-04-17T16:18:25.072045+00:00
+acceptance_rate: "93.395%"
+collected_at: "2026-04-17T16:18:25.072045+00:00"
 ---
 
 ## 문제

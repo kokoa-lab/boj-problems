@@ -1,13 +1,13 @@
 ---
-title: 텔레포트 3
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "텔레포트 3"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 1631
 accepted: 755
 solved_users: 620
-acceptance_rate: 47.546%
-collected_at: 2026-04-17T13:03:46.512194+00:00
+acceptance_rate: "47.546%"
+collected_at: "2026-04-17T13:03:46.512194+00:00"
 ---
 
 ## 문제

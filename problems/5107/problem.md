@@ -1,13 +1,13 @@
 ---
-title: 마니또
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "마니또"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 1579
 accepted: 882
 solved_users: 715
-acceptance_rate: 57.522%
-collected_at: 2026-04-17T11:11:30.484259+00:00
+acceptance_rate: "57.522%"
+collected_at: "2026-04-17T11:11:30.484259+00:00"
 ---
 
 ## 문제

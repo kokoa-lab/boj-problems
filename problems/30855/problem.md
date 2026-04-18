@@ -1,13 +1,13 @@
 ---
-title: Fraction
-special_judge: false
-time_limit: 0.5 초
-memory_limit: 2048 MB
+title: "Fraction"
+special_judge: "false"
+time_limit: "0.5 초"
+memory_limit: "2048 MB"
 submissions: 633
 accepted: 328
 solved_users: 254
-acceptance_rate: 54.506%
-collected_at: 2026-04-17T19:16:58.770769+00:00
+acceptance_rate: "54.506%"
+collected_at: "2026-04-17T19:16:58.770769+00:00"
 ---
 
 ## 문제

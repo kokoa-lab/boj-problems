@@ -1,13 +1,13 @@
 ---
-title: Reasonable Workplace Relationship
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "Reasonable Workplace Relationship"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 57
 accepted: 17
 solved_users: 16
-acceptance_rate: 30.769%
-collected_at: 2026-04-17T16:42:56.814129+00:00
+acceptance_rate: "30.769%"
+collected_at: "2026-04-17T16:42:56.814129+00:00"
 ---
 
 ## 문제

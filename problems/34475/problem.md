@@ -1,13 +1,13 @@
 ---
-title: 배달
-special_judge: false
-time_limit: 9 초 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "배달"
+special_judge: "false"
+time_limit: "9 초 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 39
 accepted: 11
 solved_users: 5
-acceptance_rate: 15.625%
-collected_at: 2026-04-17T20:40:13.492186+00:00
+acceptance_rate: "15.625%"
+collected_at: "2026-04-17T20:40:13.492186+00:00"
 ---
 
 ## 문제

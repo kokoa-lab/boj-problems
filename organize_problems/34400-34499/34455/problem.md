@@ -1,13 +1,13 @@
 ---
-title: Donut Shop
-special_judge: false
-time_limit: 1 초
-memory_limit: 2048 MB
+title: "Donut Shop"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "2048 MB"
 submissions: 435
 accepted: 409
 solved_users: 387
-acceptance_rate: 94.390%
-collected_at: 2026-04-17T20:39:30.639261+00:00
+acceptance_rate: "94.390%"
+collected_at: "2026-04-17T20:39:30.639261+00:00"
 ---
 
 ## 문제

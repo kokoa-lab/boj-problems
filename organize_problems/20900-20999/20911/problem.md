@@ -1,13 +1,13 @@
 ---
-title: Knightly Knowledge
-special_judge: true
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "Knightly Knowledge"
+special_judge: "true"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 149
 accepted: 51
 solved_users: 40
-acceptance_rate: 34.783%
-collected_at: 2026-04-17T15:43:13.597087+00:00
+acceptance_rate: "34.783%"
+collected_at: "2026-04-17T15:43:13.597087+00:00"
 ---
 
 ## 문제

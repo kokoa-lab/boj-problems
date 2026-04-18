@@ -1,13 +1,13 @@
 ---
-title: Matrix
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Matrix"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 24
 accepted: 18
 solved_users: 15
-acceptance_rate: 88.235%
-collected_at: 2026-04-17T12:16:13.332497+00:00
+acceptance_rate: "88.235%"
+collected_at: "2026-04-17T12:16:13.332497+00:00"
 ---
 
 ## 문제

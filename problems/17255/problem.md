@@ -1,13 +1,13 @@
 ---
-title: N으로 만들기
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "N으로 만들기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 2045
 accepted: 1037
 solved_users: 794
-acceptance_rate: 50.158%
-collected_at: 2026-04-17T14:35:24.668440+00:00
+acceptance_rate: "50.158%"
+collected_at: "2026-04-17T14:35:24.668440+00:00"
 ---
 
 ## 문제

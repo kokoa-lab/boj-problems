@@ -1,13 +1,13 @@
 ---
-title: Ping!
-special_judge: false
-time_limit: 3 초
-memory_limit: 128 MB
+title: "Ping!"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "128 MB"
 submissions: 121
 accepted: 92
 solved_users: 81
-acceptance_rate: 76.415%
-collected_at: 2026-04-17T12:10:21.343613+00:00
+acceptance_rate: "76.415%"
+collected_at: "2026-04-17T12:10:21.343613+00:00"
 ---
 
 ## 문제

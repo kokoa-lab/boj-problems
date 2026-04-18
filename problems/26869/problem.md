@@ -1,13 +1,13 @@
 ---
-title: Greatest Common Divisor
-special_judge: false
-time_limit: 5 초
-memory_limit: 1024 MB
+title: "Greatest Common Divisor"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "1024 MB"
 submissions: 21
 accepted: 15
 solved_users: 14
-acceptance_rate: 77.778%
-collected_at: 2026-04-17T17:52:42.873731+00:00
+acceptance_rate: "77.778%"
+collected_at: "2026-04-17T17:52:42.873731+00:00"
 ---
 
 ## 문제

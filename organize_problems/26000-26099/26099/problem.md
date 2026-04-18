@@ -1,13 +1,13 @@
 ---
-title: 설탕 배달 2
-special_judge: false
-time_limit: 0.25 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "설탕 배달 2"
+special_judge: "false"
+time_limit: "0.25 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 2589
 accepted: 1081
 solved_users: 920
-acceptance_rate: 46.629%
-collected_at: 2026-04-17T17:40:11.124655+00:00
+acceptance_rate: "46.629%"
+collected_at: "2026-04-17T17:40:11.124655+00:00"
 ---
 
 ## 문제

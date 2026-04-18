@@ -1,13 +1,13 @@
 ---
-title: Repeating Goldbachs
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Repeating Goldbachs"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 169
 accepted: 115
 solved_users: 101
-acceptance_rate: 67.785%
-collected_at: 2026-04-17T14:17:45.949684+00:00
+acceptance_rate: "67.785%"
+collected_at: "2026-04-17T14:17:45.949684+00:00"
 ---
 
 ## 문제

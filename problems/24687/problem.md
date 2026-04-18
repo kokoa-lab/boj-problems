@@ -1,13 +1,13 @@
 ---
-title: Casual Dancers
-special_judge: false
-time_limit: 4 초
-memory_limit: 512 MB
+title: "Casual Dancers"
+special_judge: "false"
+time_limit: "4 초"
+memory_limit: "512 MB"
 submissions: 18
 accepted: 16
 solved_users: 12
-acceptance_rate: 92.308%
-collected_at: 2026-04-17T17:13:15.572924+00:00
+acceptance_rate: "92.308%"
+collected_at: "2026-04-17T17:13:15.572924+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 직사각형에서 탈출
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "직사각형에서 탈출"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 123781
 accepted: 81545
 solved_users: 72167
-acceptance_rate: 66.123%
-collected_at: 2026-04-17T10:28:07.466402+00:00
+acceptance_rate: "66.123%"
+collected_at: "2026-04-17T10:28:07.466402+00:00"
 ---
 
 ## 문제

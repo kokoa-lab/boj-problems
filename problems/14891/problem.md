@@ -1,13 +1,13 @@
 ---
-title: 톱니바퀴
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "톱니바퀴"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 49652
 accepted: 27900
 solved_users: 20815
-acceptance_rate: 56.420%
-collected_at: 2026-04-17T13:44:14.186615+00:00
+acceptance_rate: "56.420%"
+collected_at: "2026-04-17T13:44:14.186615+00:00"
 ---
 
 ## 문제

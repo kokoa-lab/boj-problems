@@ -1,13 +1,13 @@
 ---
-title: 행렬 연산 (연산 찾기)
-special_judge: true
-time_limit: 3 초
-memory_limit: 1024 MB
+title: "행렬 연산 (연산 찾기)"
+special_judge: "true"
+time_limit: "3 초"
+memory_limit: "1024 MB"
 submissions: 825
 accepted: 260
 solved_users: 214
-acceptance_rate: 33.281%
-collected_at: 2026-04-17T18:26:47.354845+00:00
+acceptance_rate: "33.281%"
+collected_at: "2026-04-17T18:26:47.354845+00:00"
 ---
 
 ## 문제

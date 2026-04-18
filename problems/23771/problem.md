@@ -1,13 +1,13 @@
 ---
-title: Exchange Students
-special_judge: true
-time_limit: 4 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Exchange Students"
+special_judge: "true"
+time_limit: "4 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 86
 accepted: 25
 solved_users: 24
-acceptance_rate: 30.000%
-collected_at: 2026-04-17T16:53:28.451962+00:00
+acceptance_rate: "30.000%"
+collected_at: "2026-04-17T16:53:28.451962+00:00"
 ---
 
 ## 문제

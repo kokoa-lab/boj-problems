@@ -1,13 +1,13 @@
 ---
-title: 반복 부분문자열
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "반복 부분문자열"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 5368
 accepted: 1986
 solved_users: 1339
-acceptance_rate: 44.104%
-collected_at: 2026-04-17T10:31:32.859065+00:00
+acceptance_rate: "44.104%"
+collected_at: "2026-04-17T10:31:32.859065+00:00"
 ---
 
 ## 문제

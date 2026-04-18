@@ -1,13 +1,13 @@
 ---
-title: Isaac’s Queries
-special_judge: false
-time_limit: 2 초
-memory_limit: 2048 MB
+title: "Isaac’s Queries"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "2048 MB"
 submissions: 71
 accepted: 45
 solved_users: 6
-acceptance_rate: 66.667%
-collected_at: 2026-04-17T20:58:39.622897+00:00
+acceptance_rate: "66.667%"
+collected_at: "2026-04-17T20:58:39.622897+00:00"
 ---
 
 ## 문제

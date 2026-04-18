@@ -1,13 +1,13 @@
 ---
-title: 두 수의 곱
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "두 수의 곱"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 291
 accepted: 124
 solved_users: 105
-acceptance_rate: 48.387%
-collected_at: 2026-04-17T13:29:22.991062+00:00
+acceptance_rate: "48.387%"
+collected_at: "2026-04-17T13:29:22.991062+00:00"
 ---
 
 ## 문제

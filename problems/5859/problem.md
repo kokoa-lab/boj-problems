@@ -1,13 +1,13 @@
 ---
-title: Liars and Truth Tellers
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Liars and Truth Tellers"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 402
 accepted: 139
 solved_users: 115
-acceptance_rate: 35.061%
-collected_at: 2026-04-17T11:18:01.928023+00:00
+acceptance_rate: "35.061%"
+collected_at: "2026-04-17T11:18:01.928023+00:00"
 ---
 
 ## 문제

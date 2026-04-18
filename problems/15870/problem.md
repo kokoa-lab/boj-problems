@@ -1,13 +1,13 @@
 ---
-title: Nordic Camping
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Nordic Camping"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 168
 accepted: 60
 solved_users: 44
-acceptance_rate: 38.261%
-collected_at: 2026-04-17T14:07:55.338240+00:00
+acceptance_rate: "38.261%"
+collected_at: "2026-04-17T14:07:55.338240+00:00"
 ---
 
 ## 문제

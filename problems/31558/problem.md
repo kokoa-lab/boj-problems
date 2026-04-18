@@ -1,13 +1,13 @@
 ---
-title: Majority Opinion
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Majority Opinion"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 584
 accepted: 233
 solved_users: 189
-acceptance_rate: 44.159%
-collected_at: 2026-04-17T19:30:50.237646+00:00
+acceptance_rate: "44.159%"
+collected_at: "2026-04-17T19:30:50.237646+00:00"
 ---
 
 ## 문제

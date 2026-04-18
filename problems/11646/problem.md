@@ -1,13 +1,13 @@
 ---
-title: Bundles of Joy
-special_judge: false
-time_limit: 3 초
-memory_limit: 256 MB
+title: "Bundles of Joy"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "256 MB"
 submissions: 18
 accepted: 7
 solved_users: 7
-acceptance_rate: 41.176%
-collected_at: 2026-04-17T12:43:26.126111+00:00
+acceptance_rate: "41.176%"
+collected_at: "2026-04-17T12:43:26.126111+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Networking Company
-special_judge: true
-time_limit: 8 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "Networking Company"
+special_judge: "true"
+time_limit: "8 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 35
 accepted: 4
 solved_users: 3
-acceptance_rate: 15.000%
-collected_at: 2026-04-17T16:32:46.535457+00:00
+acceptance_rate: "15.000%"
+collected_at: "2026-04-17T16:32:46.535457+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 알고리즘 수업 - 삽입 정렬 1
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "알고리즘 수업 - 삽입 정렬 1"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 4541
 accepted: 1618
 solved_users: 1322
-acceptance_rate: 39.055%
-collected_at: 2026-04-17T17:02:24.833036+00:00
+acceptance_rate: "39.055%"
+collected_at: "2026-04-17T17:02:24.833036+00:00"
 ---
 
 ## 문제

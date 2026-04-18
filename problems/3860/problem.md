@@ -1,13 +1,13 @@
 ---
-title: 할로윈 묘지
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "할로윈 묘지"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 8391
 accepted: 1606
 solved_users: 961
-acceptance_rate: 16.478%
-collected_at: 2026-04-17T10:52:42.380226+00:00
+acceptance_rate: "16.478%"
+collected_at: "2026-04-17T10:52:42.380226+00:00"
 ---
 
 ## 문제

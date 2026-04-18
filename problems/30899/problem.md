@@ -1,13 +1,13 @@
 ---
-title: Brickwork
-special_judge: true
-time_limit: 7 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Brickwork"
+special_judge: "true"
+time_limit: "7 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 116
 accepted: 30
 solved_users: 18
-acceptance_rate: 33.962%
-collected_at: 2026-04-17T19:17:44.833256+00:00
+acceptance_rate: "33.962%"
+collected_at: "2026-04-17T19:17:44.833256+00:00"
 ---
 
 ## 문제

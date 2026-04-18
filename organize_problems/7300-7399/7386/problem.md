@@ -1,13 +1,13 @@
 ---
-title: Ancient Cipher
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "Ancient Cipher"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 109
 accepted: 75
 solved_users: 66
-acceptance_rate: 71.739%
-collected_at: 2026-04-17T11:48:54.439946+00:00
+acceptance_rate: "71.739%"
+collected_at: "2026-04-17T11:48:54.439946+00:00"
 ---
 
 ## 문제

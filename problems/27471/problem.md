@@ -1,13 +1,13 @@
 ---
-title: 시그마 시그마 시그마 시그마
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "시그마 시그마 시그마 시그마"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 377
 accepted: 139
 solved_users: 99
-acceptance_rate: 39.286%
-collected_at: 2026-04-17T18:03:52.981156+00:00
+acceptance_rate: "39.286%"
+collected_at: "2026-04-17T18:03:52.981156+00:00"
 ---
 
 ## 문제

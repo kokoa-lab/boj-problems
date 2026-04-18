@@ -1,13 +1,13 @@
 ---
-title: Work or Sleep!
-special_judge: true
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Work or Sleep!"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 48
 accepted: 32
 solved_users: 31
-acceptance_rate: 77.500%
-collected_at: 2026-04-17T17:16:12.676558+00:00
+acceptance_rate: "77.500%"
+collected_at: "2026-04-17T17:16:12.676558+00:00"
 ---
 
 ## 문제

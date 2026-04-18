@@ -1,13 +1,13 @@
 ---
-title: 작곡가 A의 시창 평가
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "작곡가 A의 시창 평가"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 206
 accepted: 82
 solved_users: 77
-acceptance_rate: 49.045%
-collected_at: 2026-04-17T18:38:04.634992+00:00
+acceptance_rate: "49.045%"
+collected_at: "2026-04-17T18:38:04.634992+00:00"
 ---
 
 ## 문제

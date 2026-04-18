@@ -1,13 +1,13 @@
 ---
-title: 오늘은 OS 숙제 제출일
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "오늘은 OS 숙제 제출일"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 631
 accepted: 158
 solved_users: 131
-acceptance_rate: 31.340%
-collected_at: 2026-04-17T10:44:20.495492+00:00
+acceptance_rate: "31.340%"
+collected_at: "2026-04-17T10:44:20.495492+00:00"
 ---
 
 ## 문제

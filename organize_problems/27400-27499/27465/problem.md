@@ -1,13 +1,13 @@
 ---
-title: 소수가 아닌 수
-special_judge: true
-time_limit: 0.5 초
-memory_limit: 1024 MB
+title: "소수가 아닌 수"
+special_judge: "true"
+time_limit: "0.5 초"
+memory_limit: "1024 MB"
 submissions: 5624
 accepted: 2288
 solved_users: 1894
-acceptance_rate: 40.178%
-collected_at: 2026-04-17T18:03:41.998563+00:00
+acceptance_rate: "40.178%"
+collected_at: "2026-04-17T18:03:41.998563+00:00"
 ---
 
 ## 문제

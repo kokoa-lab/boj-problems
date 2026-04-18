@@ -1,13 +1,13 @@
 ---
-title: 월간 훈수회
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "월간 훈수회"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 152
 accepted: 33
 solved_users: 28
-acceptance_rate: 25.926%
-collected_at: 2026-04-17T19:54:27.077348+00:00
+acceptance_rate: "25.926%"
+collected_at: "2026-04-17T19:54:27.077348+00:00"
 ---
 
 ## 문제

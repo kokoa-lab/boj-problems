@@ -1,13 +1,13 @@
 ---
-title: 준하의 정수론 과제 (Divmaster)
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 256 MB
+title: "준하의 정수론 과제 (Divmaster)"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "256 MB"
 submissions: 1012
 accepted: 259
 solved_users: 203
-acceptance_rate: 27.544%
-collected_at: 2026-04-17T14:12:19.128251+00:00
+acceptance_rate: "27.544%"
+collected_at: "2026-04-17T14:12:19.128251+00:00"
 ---
 
 ## 문제

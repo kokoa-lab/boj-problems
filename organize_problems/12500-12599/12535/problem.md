@@ -1,13 +1,13 @@
 ---
-title: Radio Receiver (Small)
-special_judge: true
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Radio Receiver (Small)"
+special_judge: "true"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 50
 accepted: 21
 solved_users: 18
-acceptance_rate: 60.000%
-collected_at: 2026-04-17T12:56:59.391436+00:00
+acceptance_rate: "60.000%"
+collected_at: "2026-04-17T12:56:59.391436+00:00"
 ---
 
 ## 문제

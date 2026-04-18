@@ -1,13 +1,13 @@
 ---
-title: 버블버블
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "버블버블"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 530
 accepted: 254
 solved_users: 185
-acceptance_rate: 54.252%
-collected_at: 2026-04-17T15:32:49.203371+00:00
+acceptance_rate: "54.252%"
+collected_at: "2026-04-17T15:32:49.203371+00:00"
 ---
 
 ## 문제

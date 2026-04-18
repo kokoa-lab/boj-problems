@@ -1,13 +1,13 @@
 ---
-title: Sort of Sort
-special_judge: false
-time_limit: 1 초
-memory_limit: 2048 MB
+title: "Sort of Sort"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "2048 MB"
 submissions: 202
 accepted: 145
 solved_users: 121
-acceptance_rate: 69.143%
-collected_at: 2026-04-17T20:20:51.529990+00:00
+acceptance_rate: "69.143%"
+collected_at: "2026-04-17T20:20:51.529990+00:00"
 ---
 
 ## 문제

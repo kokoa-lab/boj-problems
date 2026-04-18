@@ -1,13 +1,13 @@
 ---
-title: Paint bucket
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Paint bucket"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 907
 accepted: 359
 solved_users: 277
-acceptance_rate: 38.687%
-collected_at: 2026-04-17T13:55:45.299697+00:00
+acceptance_rate: "38.687%"
+collected_at: "2026-04-17T13:55:45.299697+00:00"
 ---
 
 ## 문제

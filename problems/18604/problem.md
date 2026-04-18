@@ -1,13 +1,13 @@
 ---
-title: Closest Pair of Segments
-special_judge: true
-time_limit: 12 초
-memory_limit: 512 MB
+title: "Closest Pair of Segments"
+special_judge: "true"
+time_limit: "12 초"
+memory_limit: "512 MB"
 submissions: 46
 accepted: 6
 solved_users: 5
-acceptance_rate: 16.667%
-collected_at: 2026-04-17T15:07:06.050403+00:00
+acceptance_rate: "16.667%"
+collected_at: "2026-04-17T15:07:06.050403+00:00"
 ---
 
 ## 문제

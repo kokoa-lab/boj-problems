@@ -1,13 +1,13 @@
 ---
-title: 꿀잼 루비 문제
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "꿀잼 루비 문제"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 675
 accepted: 193
 solved_users: 123
-acceptance_rate: 24.308%
-collected_at: 2026-04-17T19:45:31.999332+00:00
+acceptance_rate: "24.308%"
+collected_at: "2026-04-17T19:45:31.999332+00:00"
 ---
 
 ## 문제

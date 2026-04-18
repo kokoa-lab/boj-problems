@@ -1,13 +1,13 @@
 ---
-title: Knapsack Collection
-special_judge: false
-time_limit: 4 초
-memory_limit: 512 MB
+title: "Knapsack Collection"
+special_judge: "false"
+time_limit: "4 초"
+memory_limit: "512 MB"
 submissions: 123
 accepted: 45
 solved_users: 40
-acceptance_rate: 35.714%
-collected_at: 2026-04-17T12:25:01.991153+00:00
+acceptance_rate: "35.714%"
+collected_at: "2026-04-17T12:25:01.991153+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Jõululaul
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Jõululaul"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 338
 accepted: 225
 solved_users: 174
-acceptance_rate: 69.880%
-collected_at: 2026-04-17T18:55:04.499504+00:00
+acceptance_rate: "69.880%"
+collected_at: "2026-04-17T18:55:04.499504+00:00"
 ---
 
 ## 문제

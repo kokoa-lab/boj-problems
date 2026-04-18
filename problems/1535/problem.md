@@ -1,13 +1,13 @@
 ---
-title: 안녕
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "안녕"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 15867
 accepted: 8941
 solved_users: 6833
-acceptance_rate: 57.922%
-collected_at: 2026-04-17T10:30:57.951394+00:00
+acceptance_rate: "57.922%"
+collected_at: "2026-04-17T10:30:57.951394+00:00"
 ---
 
 ## 문제

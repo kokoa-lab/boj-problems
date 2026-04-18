@@ -1,13 +1,13 @@
 ---
-title: Ferry Loading
-special_judge: true
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Ferry Loading"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 39
 accepted: 13
 solved_users: 11
-acceptance_rate: 44.000%
-collected_at: 2026-04-17T11:01:00.113178+00:00
+acceptance_rate: "44.000%"
+collected_at: "2026-04-17T11:01:00.113178+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 과제
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "과제"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 13667
 accepted: 7558
 solved_users: 6020
-acceptance_rate: 54.967%
-collected_at: 2026-04-17T13:21:52.369278+00:00
+acceptance_rate: "54.967%"
+collected_at: "2026-04-17T13:21:52.369278+00:00"
 ---
 
 ## 문제

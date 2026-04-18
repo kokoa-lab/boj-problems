@@ -1,13 +1,13 @@
 ---
-title: Class Time
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "Class Time"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 487
 accepted: 279
 solved_users: 252
-acceptance_rate: 59.434%
-collected_at: 2026-04-17T12:42:52.793158+00:00
+acceptance_rate: "59.434%"
+collected_at: "2026-04-17T12:42:52.793158+00:00"
 ---
 
 ## 문제

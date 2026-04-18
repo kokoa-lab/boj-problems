@@ -1,13 +1,13 @@
 ---
-title: Cookie Crumbs
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Cookie Crumbs"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 22
 accepted: 7
 solved_users: 7
-acceptance_rate: 35.000%
-collected_at: 2026-04-17T10:56:08.595039+00:00
+acceptance_rate: "35.000%"
+collected_at: "2026-04-17T10:56:08.595039+00:00"
 ---
 
 ## 문제

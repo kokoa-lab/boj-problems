@@ -1,13 +1,13 @@
 ---
-title: Coordinates
-special_judge: true
-time_limit: 3 초
-memory_limit: 512 MB
+title: "Coordinates"
+special_judge: "true"
+time_limit: "3 초"
+memory_limit: "512 MB"
 submissions: 189
 accepted: 106
 solved_users: 75
-acceptance_rate: 51.020%
-collected_at: 2026-04-17T13:21:46.852790+00:00
+acceptance_rate: "51.020%"
+collected_at: "2026-04-17T13:21:46.852790+00:00"
 ---
 
 ## 문제

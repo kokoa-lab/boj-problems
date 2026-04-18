@@ -1,13 +1,13 @@
 ---
-title: Cheap Deliveries
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Cheap Deliveries"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 64
 accepted: 24
 solved_users: 22
-acceptance_rate: 41.509%
-collected_at: 2026-04-17T14:07:22.844364+00:00
+acceptance_rate: "41.509%"
+collected_at: "2026-04-17T14:07:22.844364+00:00"
 ---
 
 ## 문제

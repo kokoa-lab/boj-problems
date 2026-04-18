@@ -1,13 +1,13 @@
 ---
-title: 시각
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "시각"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 6290
 accepted: 2629
 solved_users: 2190
-acceptance_rate: 41.399%
-collected_at: 2026-04-17T14:59:19.982556+00:00
+acceptance_rate: "41.399%"
+collected_at: "2026-04-17T14:59:19.982556+00:00"
 ---
 
 ## 문제

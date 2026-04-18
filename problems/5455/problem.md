@@ -1,13 +1,13 @@
 ---
-title: Mandalas
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Mandalas"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 105
 accepted: 19
 solved_users: 10
-acceptance_rate: 15.385%
-collected_at: 2026-04-17T11:14:06.538113+00:00
+acceptance_rate: "15.385%"
+collected_at: "2026-04-17T11:14:06.538113+00:00"
 ---
 
 ## 문제

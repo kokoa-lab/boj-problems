@@ -1,13 +1,13 @@
 ---
-title: Mini Tetris
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Mini Tetris"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 21
 accepted: 9
 solved_users: 9
-acceptance_rate: 52.941%
-collected_at: 2026-04-17T15:31:28.550576+00:00
+acceptance_rate: "52.941%"
+collected_at: "2026-04-17T15:31:28.550576+00:00"
 ---
 
 ## 문제

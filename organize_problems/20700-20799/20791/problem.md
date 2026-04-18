@@ -1,13 +1,13 @@
 ---
-title: Determinant Strikes Back
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Determinant Strikes Back"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 53
 accepted: 41
 solved_users: 31
-acceptance_rate: 72.093%
-collected_at: 2026-04-17T15:41:24.869698+00:00
+acceptance_rate: "72.093%"
+collected_at: "2026-04-17T15:41:24.869698+00:00"
 ---
 
 ## 문제

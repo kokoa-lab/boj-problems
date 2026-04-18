@@ -1,13 +1,13 @@
 ---
-title: Heroes of Coin Flipping
-special_judge: true
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Heroes of Coin Flipping"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 36
 accepted: 11
 solved_users: 8
-acceptance_rate: 27.586%
-collected_at: 2026-04-17T15:33:34.729248+00:00
+acceptance_rate: "27.586%"
+collected_at: "2026-04-17T15:33:34.729248+00:00"
 ---
 
 ## 문제

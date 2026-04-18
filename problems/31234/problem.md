@@ -1,13 +1,13 @@
 ---
-title: 대역폭 관리
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "대역폭 관리"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 342
 accepted: 118
 solved_users: 95
-acceptance_rate: 34.420%
-collected_at: 2026-04-17T19:24:26.479248+00:00
+acceptance_rate: "34.420%"
+collected_at: "2026-04-17T19:24:26.479248+00:00"
 ---
 
 ## 문제

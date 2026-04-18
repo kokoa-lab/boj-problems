@@ -1,13 +1,13 @@
 ---
-title: 회귀의 그래프
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "회귀의 그래프"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 88
 accepted: 43
 solved_users: 41
-acceptance_rate: 50.000%
-collected_at: 2026-04-18T09:51:56.758437+00:00
+acceptance_rate: "50.000%"
+collected_at: "2026-04-18T09:51:56.758437+00:00"
 ---
 
 ## 문제

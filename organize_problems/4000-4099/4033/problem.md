@@ -1,13 +1,13 @@
 ---
-title: Have You Driven a Fjord Lately?
-special_judge: false
-time_limit: 5 초
-memory_limit: 128 MB
+title: "Have You Driven a Fjord Lately?"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "128 MB"
 submissions: 20
 accepted: 2
 solved_users: 2
-acceptance_rate: 12.500%
-collected_at: 2026-04-17T10:54:53.879700+00:00
+acceptance_rate: "12.500%"
+collected_at: "2026-04-17T10:54:53.879700+00:00"
 ---
 
 ## 문제

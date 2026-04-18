@@ -1,13 +1,13 @@
 ---
-title: 팰린드롬 보행
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "팰린드롬 보행"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 505
 accepted: 175
 solved_users: 138
-acceptance_rate: 34.243%
-collected_at: 2026-04-17T13:04:36.143597+00:00
+acceptance_rate: "34.243%"
+collected_at: "2026-04-17T13:04:36.143597+00:00"
 ---
 
 ## 문제

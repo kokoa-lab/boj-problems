@@ -1,13 +1,13 @@
 ---
-title: Wildcard and Query
-special_judge: false
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "Wildcard and Query"
+special_judge: "false"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 220
 accepted: 31
 solved_users: 18
-acceptance_rate: 9.945%
-collected_at: 2026-04-17T20:30:22.476025+00:00
+acceptance_rate: "9.945%"
+collected_at: "2026-04-17T20:30:22.476025+00:00"
 ---
 
 ## 문제

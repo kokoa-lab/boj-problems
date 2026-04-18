@@ -1,13 +1,13 @@
 ---
-title: 그 정수의 개수를 구해줘
-special_judge: false
-time_limit: 5 초
-memory_limit: 1024 MB
+title: "그 정수의 개수를 구해줘"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "1024 MB"
 submissions: 148
 accepted: 33
 solved_users: 26
-acceptance_rate: 34.667%
-collected_at: 2026-04-17T18:21:06.752113+00:00
+acceptance_rate: "34.667%"
+collected_at: "2026-04-17T18:21:06.752113+00:00"
 ---
 
 ## 문제

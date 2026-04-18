@@ -1,13 +1,13 @@
 ---
-title: 이미지 압축
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "이미지 압축"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 556
 accepted: 116
 solved_users: 75
-acceptance_rate: 21.307%
-collected_at: 2026-04-17T10:36:54.158894+00:00
+acceptance_rate: "21.307%"
+collected_at: "2026-04-17T10:36:54.158894+00:00"
 ---
 
 ## 문제

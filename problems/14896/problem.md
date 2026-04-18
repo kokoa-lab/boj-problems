@@ -1,13 +1,13 @@
 ---
-title: 만들 수 없는 부분 수열의 합
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "만들 수 없는 부분 수열의 합"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 55
 accepted: 16
 solved_users: 15
-acceptance_rate: 78.947%
-collected_at: 2026-04-17T13:44:44.314314+00:00
+acceptance_rate: "78.947%"
+collected_at: "2026-04-17T13:44:44.314314+00:00"
 ---
 
 ## 문제

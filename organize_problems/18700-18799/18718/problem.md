@@ -1,13 +1,13 @@
 ---
-title: Bags of Candies
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Bags of Candies"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 86
 accepted: 22
 solved_users: 16
-acceptance_rate: 30.769%
-collected_at: 2026-04-17T15:08:47.228416+00:00
+acceptance_rate: "30.769%"
+collected_at: "2026-04-17T15:08:47.228416+00:00"
 ---
 
 ## 문제

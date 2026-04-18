@@ -1,13 +1,13 @@
 ---
-title: 문자열 찾기
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "문자열 찾기"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 51
 accepted: 13
 solved_users: 12
-acceptance_rate: 85.714%
-collected_at: 2026-04-17T13:02:53.733735+00:00
+acceptance_rate: "85.714%"
+collected_at: "2026-04-17T13:02:53.733735+00:00"
 ---
 
 ## 문제

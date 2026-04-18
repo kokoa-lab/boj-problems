@@ -1,13 +1,13 @@
 ---
-title: CTP 왕국은 한솔 왕국을 이길 수 있을까?
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "CTP 왕국은 한솔 왕국을 이길 수 있을까?"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 1441
 accepted: 637
 solved_users: 516
-acceptance_rate: 44.909%
-collected_at: 2026-04-17T14:06:35.647201+00:00
+acceptance_rate: "44.909%"
+collected_at: "2026-04-17T14:06:35.647201+00:00"
 ---
 
 ## 문제

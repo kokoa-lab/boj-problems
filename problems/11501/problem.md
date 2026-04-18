@@ -1,13 +1,13 @@
 ---
-title: 주식
-special_judge: false
-time_limit: 5 초
-memory_limit: 256 MB
+title: "주식"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "256 MB"
 submissions: 35449
 accepted: 13525
 solved_users: 10407
-acceptance_rate: 36.429%
-collected_at: 2026-04-17T12:41:31.930515+00:00
+acceptance_rate: "36.429%"
+collected_at: "2026-04-17T12:41:31.930515+00:00"
 ---
 
 ## 문제

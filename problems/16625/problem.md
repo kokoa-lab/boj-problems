@@ -1,13 +1,13 @@
 ---
-title: Das Blinkenlights
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Das Blinkenlights"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 677
 accepted: 418
 solved_users: 384
-acceptance_rate: 62.848%
-collected_at: 2026-04-17T14:21:14.568449+00:00
+acceptance_rate: "62.848%"
+collected_at: "2026-04-17T14:21:14.568449+00:00"
 ---
 
 ## 문제

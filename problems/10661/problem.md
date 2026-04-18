@@ -1,13 +1,13 @@
 ---
-title: Median Tree
-special_judge: false
-time_limit: 8 초 (추가 시간 없음)
-memory_limit: 256 MB
+title: "Median Tree"
+special_judge: "false"
+time_limit: "8 초 (추가 시간 없음)"
+memory_limit: "256 MB"
 submissions: 106
 accepted: 86
 solved_users: 77
-acceptance_rate: 81.915%
-collected_at: 2026-04-17T12:27:06.383866+00:00
+acceptance_rate: "81.915%"
+collected_at: "2026-04-17T12:27:06.383866+00:00"
 ---
 
 ## 문제

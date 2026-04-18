@@ -1,13 +1,13 @@
 ---
-title: Accurate Movement
-special_judge: false
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "Accurate Movement"
+special_judge: "false"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 192
 accepted: 132
 solved_users: 113
-acceptance_rate: 72.436%
-collected_at: 2026-04-17T14:54:51.088728+00:00
+acceptance_rate: "72.436%"
+collected_at: "2026-04-17T14:54:51.088728+00:00"
 ---
 
 ## 문제

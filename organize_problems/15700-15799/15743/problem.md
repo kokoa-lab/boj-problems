@@ -1,13 +1,13 @@
 ---
-title: New Barns
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "New Barns"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 301
 accepted: 95
 solved_users: 81
-acceptance_rate: 30.000%
-collected_at: 2026-04-17T14:05:38.093630+00:00
+acceptance_rate: "30.000%"
+collected_at: "2026-04-17T14:05:38.093630+00:00"
 ---
 
 ## 문제

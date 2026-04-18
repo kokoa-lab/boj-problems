@@ -1,13 +1,13 @@
 ---
-title: Escape Route
-special_judge: false
-time_limit: 9 초
-memory_limit: 2048 MB
+title: "Escape Route"
+special_judge: "false"
+time_limit: "9 초"
+memory_limit: "2048 MB"
 submissions: 26
 accepted: 10
 solved_users: 7
-acceptance_rate: 58.333%
-collected_at: 2026-04-17T16:07:39.348066+00:00
+acceptance_rate: "58.333%"
+collected_at: "2026-04-17T16:07:39.348066+00:00"
 ---
 
 ## 문제

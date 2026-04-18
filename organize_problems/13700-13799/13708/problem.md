@@ -1,13 +1,13 @@
 ---
-title: 모든 점을 포함하는 원
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "모든 점을 포함하는 원"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 2011
 accepted: 632
 solved_users: 440
-acceptance_rate: 29.024%
-collected_at: 2026-04-17T13:17:50.916151+00:00
+acceptance_rate: "29.024%"
+collected_at: "2026-04-17T13:17:50.916151+00:00"
 ---
 
 ## 문제

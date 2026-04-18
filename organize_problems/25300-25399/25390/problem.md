@@ -1,13 +1,13 @@
 ---
-title: Traveling Junkman Problem
-special_judge: false
-time_limit: 3 초 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "Traveling Junkman Problem"
+special_judge: "false"
+time_limit: "3 초 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 104
 accepted: 45
 solved_users: 41
-acceptance_rate: 64.062%
-collected_at: 2026-04-17T17:26:06.818863+00:00
+acceptance_rate: "64.062%"
+collected_at: "2026-04-17T17:26:06.818863+00:00"
 ---
 
 ## 문제

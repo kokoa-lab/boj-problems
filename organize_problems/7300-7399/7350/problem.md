@@ -1,13 +1,13 @@
 ---
-title: 정사각형 부수기
-special_judge: false
-time_limit: 5 초
-memory_limit: 128 MB
+title: "정사각형 부수기"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "128 MB"
 submissions: 49
 accepted: 2
 solved_users: 2
-acceptance_rate: 16.667%
-collected_at: 2026-04-17T11:48:35.321366+00:00
+acceptance_rate: "16.667%"
+collected_at: "2026-04-17T11:48:35.321366+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 알래스카
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "알래스카"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 1196
 accepted: 472
 solved_users: 403
-acceptance_rate: 40.139%
-collected_at: 2026-04-17T10:56:32.595208+00:00
+acceptance_rate: "40.139%"
+collected_at: "2026-04-17T10:56:32.595208+00:00"
 ---
 
 ## 문제

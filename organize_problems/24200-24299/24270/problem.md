@@ -1,13 +1,13 @@
 ---
-title: 미니 버킷 리스트
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "미니 버킷 리스트"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 937
 accepted: 296
 solved_users: 226
-acceptance_rate: 34.191%
-collected_at: 2026-04-17T17:06:42.225183+00:00
+acceptance_rate: "34.191%"
+collected_at: "2026-04-17T17:06:42.225183+00:00"
 ---
 
 ## 문제

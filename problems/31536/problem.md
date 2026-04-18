@@ -1,13 +1,13 @@
 ---
-title: 멈뭄미믜 저주 탈출
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "멈뭄미믜 저주 탈출"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 282
 accepted: 57
 solved_users: 43
-acceptance_rate: 25.904%
-collected_at: 2026-04-17T19:29:59.768283+00:00
+acceptance_rate: "25.904%"
+collected_at: "2026-04-17T19:29:59.768283+00:00"
 ---
 
 ## 문제

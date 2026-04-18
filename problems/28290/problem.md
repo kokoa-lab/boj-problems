@@ -1,13 +1,13 @@
 ---
-title: 안밖? 밖안? 계단? 역계단?
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "안밖? 밖안? 계단? 역계단?"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 3375
 accepted: 2164
 solved_users: 2026
-acceptance_rate: 65.355%
-collected_at: 2026-04-17T18:21:58.956264+00:00
+acceptance_rate: "65.355%"
+collected_at: "2026-04-17T18:21:58.956264+00:00"
 ---
 
 ## 문제

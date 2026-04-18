@@ -1,13 +1,13 @@
 ---
-title: 악마 게임
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "악마 게임"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 1198
 accepted: 443
 solved_users: 397
-acceptance_rate: 38.284%
-collected_at: 2026-04-17T14:22:15.591744+00:00
+acceptance_rate: "38.284%"
+collected_at: "2026-04-17T14:22:15.591744+00:00"
 ---
 
 ## 문제

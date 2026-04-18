@@ -1,13 +1,13 @@
 ---
-title: 아이템 먹기
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "아이템 먹기"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 1468
 accepted: 633
 solved_users: 500
-acceptance_rate: 45.372%
-collected_at: 2026-04-17T10:41:24.175598+00:00
+acceptance_rate: "45.372%"
+collected_at: "2026-04-17T10:41:24.175598+00:00"
 ---
 
 ## 문제

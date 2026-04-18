@@ -1,13 +1,13 @@
 ---
-title: Cataloguing numbers
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Cataloguing numbers"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 162
 accepted: 78
 solved_users: 70
-acceptance_rate: 48.611%
-collected_at: 2026-04-17T16:17:52.232323+00:00
+acceptance_rate: "48.611%"
+collected_at: "2026-04-17T16:17:52.232323+00:00"
 ---
 
 ## 문제

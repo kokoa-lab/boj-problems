@@ -1,13 +1,13 @@
 ---
-title: 간단한 동전 문제 (Hard)
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "간단한 동전 문제 (Hard)"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 444
 accepted: 196
 solved_users: 146
-acceptance_rate: 40.556%
-collected_at: 2026-04-17T20:26:50.831718+00:00
+acceptance_rate: "40.556%"
+collected_at: "2026-04-17T20:26:50.831718+00:00"
 ---
 
 ## 문제

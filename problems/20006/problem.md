@@ -1,13 +1,13 @@
 ---
-title: 랭킹전 대기열
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "랭킹전 대기열"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 10209
 accepted: 4294
 solved_users: 3325
-acceptance_rate: 40.445%
-collected_at: 2026-04-17T15:30:23.899626+00:00
+acceptance_rate: "40.445%"
+collected_at: "2026-04-17T15:30:23.899626+00:00"
 ---
 
 ## 문제

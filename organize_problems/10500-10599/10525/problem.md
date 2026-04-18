@@ -1,13 +1,13 @@
 ---
-title: Hyacinth
-special_judge: true
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Hyacinth"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 193
 accepted: 74
 solved_users: 67
-acceptance_rate: 40.854%
-collected_at: 2026-04-17T12:24:59.520049+00:00
+acceptance_rate: "40.854%"
+collected_at: "2026-04-17T12:24:59.520049+00:00"
 ---
 
 ## 문제

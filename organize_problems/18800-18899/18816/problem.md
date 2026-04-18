@@ -1,13 +1,13 @@
 ---
-title: Grid City
-special_judge: false
-time_limit: 3 초
-memory_limit: 512 MB
+title: "Grid City"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "512 MB"
 submissions: 10
 accepted: 3
 solved_users: 3
-acceptance_rate: 33.333%
-collected_at: 2026-04-17T15:09:56.170175+00:00
+acceptance_rate: "33.333%"
+collected_at: "2026-04-17T15:09:56.170175+00:00"
 ---
 
 ## 문제

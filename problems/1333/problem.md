@@ -1,13 +1,13 @@
 ---
-title: 부재중 전화
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "부재중 전화"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 11098
 accepted: 3548
 solved_users: 2903
-acceptance_rate: 34.555%
-collected_at: 2026-04-17T10:29:30.181393+00:00
+acceptance_rate: "34.555%"
+collected_at: "2026-04-17T10:29:30.181393+00:00"
 ---
 
 ## 문제

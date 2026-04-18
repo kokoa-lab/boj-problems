@@ -1,13 +1,13 @@
 ---
-title: Hunt The Rabbit
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Hunt The Rabbit"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 1053
 accepted: 662
 solved_users: 564
-acceptance_rate: 62.667%
-collected_at: 2026-04-17T13:19:11.229422+00:00
+acceptance_rate: "62.667%"
+collected_at: "2026-04-17T13:19:11.229422+00:00"
 ---
 
 ## 문제

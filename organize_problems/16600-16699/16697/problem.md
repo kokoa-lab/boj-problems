@@ -1,13 +1,13 @@
 ---
-title: Reservoir Dog
-special_judge: true
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Reservoir Dog"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 239
 accepted: 34
 solved_users: 28
-acceptance_rate: 16.867%
-collected_at: 2026-04-17T14:22:33.293945+00:00
+acceptance_rate: "16.867%"
+collected_at: "2026-04-17T14:22:33.293945+00:00"
 ---
 
 ## 문제

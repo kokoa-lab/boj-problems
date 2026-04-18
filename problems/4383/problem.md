@@ -1,13 +1,13 @@
 ---
-title: 점프는 즐거워
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "점프는 즐거워"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 4538
 accepted: 1206
 solved_users: 927
-acceptance_rate: 28.541%
-collected_at: 2026-04-17T11:00:36.585313+00:00
+acceptance_rate: "28.541%"
+collected_at: "2026-04-17T11:00:36.585313+00:00"
 ---
 
 ## 문제

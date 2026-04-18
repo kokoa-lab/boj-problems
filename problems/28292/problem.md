@@ -1,13 +1,13 @@
 ---
-title: 개미 수열
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "개미 수열"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 1403
 accepted: 632
 solved_users: 549
-acceptance_rate: 47.450%
-collected_at: 2026-04-17T18:21:57.680531+00:00
+acceptance_rate: "47.450%"
+collected_at: "2026-04-17T18:21:57.680531+00:00"
 ---
 
 ## 문제

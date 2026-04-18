@@ -1,13 +1,13 @@
 ---
-title: Конкатенация строк
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "Конкатенация строк"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 118
 accepted: 108
 solved_users: 73
-acceptance_rate: 96.053%
-collected_at: 2026-04-17T16:16:50.345356+00:00
+acceptance_rate: "96.053%"
+collected_at: "2026-04-17T16:16:50.345356+00:00"
 ---
 
 ## 문제

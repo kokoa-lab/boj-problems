@@ -1,13 +1,13 @@
 ---
-title: DnD Dice
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "DnD Dice"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 160
 accepted: 79
 solved_users: 70
-acceptance_rate: 54.264%
-collected_at: 2026-04-17T18:25:11.731111+00:00
+acceptance_rate: "54.264%"
+collected_at: "2026-04-17T18:25:11.731111+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 단순한 문제 (Small)
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "단순한 문제 (Small)"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 5048
 accepted: 3964
 solved_users: 3564
-acceptance_rate: 79.660%
-collected_at: 2026-04-17T17:27:38.712542+00:00
+acceptance_rate: "79.660%"
+collected_at: "2026-04-17T17:27:38.712542+00:00"
 ---
 
 ## 문제

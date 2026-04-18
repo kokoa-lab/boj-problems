@@ -1,13 +1,13 @@
 ---
-title: Busy Beaver's Faulty Machine
-special_judge: true
-time_limit: 1 초
-memory_limit: 2048 MB
+title: "Busy Beaver's Faulty Machine"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "2048 MB"
 submissions: 22
 accepted: 8
 solved_users: 8
-acceptance_rate: 36.364%
-collected_at: 2026-04-17T20:51:44.524386+00:00
+acceptance_rate: "36.364%"
+collected_at: "2026-04-17T20:51:44.524386+00:00"
 ---
 
 ## 문제

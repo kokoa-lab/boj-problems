@@ -1,13 +1,13 @@
 ---
-title: Serious Problem
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 256 MB
+title: "Serious Problem"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "256 MB"
 submissions: 3159
 accepted: 2264
 solved_users: 2096
-acceptance_rate: 73.031%
-collected_at: 2026-04-17T14:29:25.743811+00:00
+acceptance_rate: "73.031%"
+collected_at: "2026-04-17T14:29:25.743811+00:00"
 ---
 
 ## 문제

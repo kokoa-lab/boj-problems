@@ -1,13 +1,13 @@
 ---
-title: Koto Distance
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Koto Distance"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 29
 accepted: 22
 solved_users: 19
-acceptance_rate: 73.077%
-collected_at: 2026-04-17T16:21:12.641389+00:00
+acceptance_rate: "73.077%"
+collected_at: "2026-04-17T16:21:12.641389+00:00"
 ---
 
 ## 문제

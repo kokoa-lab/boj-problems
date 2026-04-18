@@ -1,13 +1,13 @@
 ---
-title: 정사면체
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "정사면체"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 1165
 accepted: 385
 solved_users: 298
-acceptance_rate: 36.836%
-collected_at: 2026-04-17T10:36:00.881926+00:00
+acceptance_rate: "36.836%"
+collected_at: "2026-04-17T10:36:00.881926+00:00"
 ---
 
 ## 문제

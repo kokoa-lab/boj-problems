@@ -1,13 +1,13 @@
 ---
-title: Pikimad teed puus
-special_judge: true
-time_limit: 5 초
-memory_limit: 1024 MB
+title: "Pikimad teed puus"
+special_judge: "true"
+time_limit: "5 초"
+memory_limit: "1024 MB"
 submissions: 47
 accepted: 10
 solved_users: 10
-acceptance_rate: 21.277%
-collected_at: 2026-04-17T11:47:11.811515+00:00
+acceptance_rate: "21.277%"
+collected_at: "2026-04-17T11:47:11.811515+00:00"
 ---
 
 ## 문제

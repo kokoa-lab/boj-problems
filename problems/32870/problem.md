@@ -1,13 +1,13 @@
 ---
-title: 수열과 쿼리 HY
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "수열과 쿼리 HY"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 605
 accepted: 175
 solved_users: 121
-acceptance_rate: 25.690%
-collected_at: 2026-04-17T20:03:06.946480+00:00
+acceptance_rate: "25.690%"
+collected_at: "2026-04-17T20:03:06.946480+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 최단 경로 아니면 음수 사이클
-special_judge: true
-time_limit: 4 초
-memory_limit: 128 MB
+title: "최단 경로 아니면 음수 사이클"
+special_judge: "true"
+time_limit: "4 초"
+memory_limit: "128 MB"
 submissions: 502
 accepted: 109
 solved_users: 46
-acceptance_rate: 16.487%
-collected_at: 2026-04-17T19:53:27.347469+00:00
+acceptance_rate: "16.487%"
+collected_at: "2026-04-17T19:53:27.347469+00:00"
 ---
 
 ## 문제

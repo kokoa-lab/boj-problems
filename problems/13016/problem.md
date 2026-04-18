@@ -1,13 +1,13 @@
 ---
-title: 내 왼손에는 흑염룡이 잠들어 있다
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "내 왼손에는 흑염룡이 잠들어 있다"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 1057
 accepted: 494
 solved_users: 404
-acceptance_rate: 49.631%
-collected_at: 2026-04-17T13:06:02.259519+00:00
+acceptance_rate: "49.631%"
+collected_at: "2026-04-17T13:06:02.259519+00:00"
 ---
 
 ## 문제

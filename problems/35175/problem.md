@@ -1,13 +1,13 @@
 ---
-title: AND and/or OR
-special_judge: true
-time_limit: 1 초
-memory_limit: 2048 MB
+title: "AND and/or OR"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "2048 MB"
 submissions: 19
 accepted: 16
 solved_users: 13
-acceptance_rate: 92.857%
-collected_at: 2026-04-17T20:57:16.829540+00:00
+acceptance_rate: "92.857%"
+collected_at: "2026-04-17T20:57:16.829540+00:00"
 ---
 
 ## 문제

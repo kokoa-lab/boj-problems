@@ -1,13 +1,13 @@
 ---
-title: 후임 간식 뺏어먹기
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "후임 간식 뺏어먹기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 20
 accepted: 9
 solved_users: 8
-acceptance_rate: 66.667%
-collected_at: 2026-04-17T14:40:36.648316+00:00
+acceptance_rate: "66.667%"
+collected_at: "2026-04-17T14:40:36.648316+00:00"
 ---
 
 ## 문제

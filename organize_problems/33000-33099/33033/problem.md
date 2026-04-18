@@ -1,13 +1,13 @@
 ---
-title: Geometric Balance
-special_judge: false
-time_limit: 3 초
-memory_limit: 2048 MB
+title: "Geometric Balance"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "2048 MB"
 submissions: 32
 accepted: 14
 solved_users: 13
-acceptance_rate: 76.471%
-collected_at: 2026-04-17T20:07:56.760126+00:00
+acceptance_rate: "76.471%"
+collected_at: "2026-04-17T20:07:56.760126+00:00"
 ---
 
 ## 문제

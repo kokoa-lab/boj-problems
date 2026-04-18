@@ -1,13 +1,13 @@
 ---
-title: Inversions
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Inversions"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 114
 accepted: 37
 solved_users: 33
-acceptance_rate: 34.375%
-collected_at: 2026-04-17T11:59:06.252343+00:00
+acceptance_rate: "34.375%"
+collected_at: "2026-04-17T11:59:06.252343+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Sum Source Detection
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Sum Source Detection"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 10
 accepted: 9
 solved_users: 9
-acceptance_rate: 90.000%
-collected_at: 2026-04-17T14:24:43.374127+00:00
+acceptance_rate: "90.000%"
+collected_at: "2026-04-17T14:24:43.374127+00:00"
 ---
 
 ## 문제

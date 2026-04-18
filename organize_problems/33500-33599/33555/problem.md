@@ -1,13 +1,13 @@
 ---
-title: Hypotenuse
-special_judge: false
-time_limit: 1 초
-memory_limit: 2048 MB
+title: "Hypotenuse"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "2048 MB"
 submissions: 80
 accepted: 44
 solved_users: 40
-acceptance_rate: 56.338%
-collected_at: 2026-04-17T20:18:50.971362+00:00
+acceptance_rate: "56.338%"
+collected_at: "2026-04-17T20:18:50.971362+00:00"
 ---
 
 ## 문제

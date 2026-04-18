@@ -1,13 +1,13 @@
 ---
-title: SÀNG
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "SÀNG"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 210
 accepted: 148
 solved_users: 93
-acceptance_rate: 63.699%
-collected_at: 2026-04-17T12:35:25.129273+00:00
+acceptance_rate: "63.699%"
+collected_at: "2026-04-17T12:35:25.129273+00:00"
 ---
 
 ## 문제

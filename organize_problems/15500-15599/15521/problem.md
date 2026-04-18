@@ -1,13 +1,13 @@
 ---
-title: Revenge of the Broken Door
-special_judge: false
-time_limit: 10 초
-memory_limit: 512 MB
+title: "Revenge of the Broken Door"
+special_judge: "false"
+time_limit: "10 초"
+memory_limit: "512 MB"
 submissions: 255
 accepted: 37
 solved_users: 32
-acceptance_rate: 14.286%
-collected_at: 2026-04-17T14:00:53.519318+00:00
+acceptance_rate: "14.286%"
+collected_at: "2026-04-17T14:00:53.519318+00:00"
 ---
 
 ## 문제

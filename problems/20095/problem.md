@@ -1,13 +1,13 @@
 ---
-title: Sudoku 2
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Sudoku 2"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 276
 accepted: 209
 solved_users: 201
-acceptance_rate: 78.516%
-collected_at: 2026-04-17T15:31:37.008788+00:00
+acceptance_rate: "78.516%"
+collected_at: "2026-04-17T15:31:37.008788+00:00"
 ---
 
 ## 문제

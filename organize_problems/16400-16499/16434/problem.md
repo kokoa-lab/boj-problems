@@ -1,13 +1,13 @@
 ---
-title: 드래곤 앤 던전
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "드래곤 앤 던전"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 12574
 accepted: 4008
 solved_users: 2659
-acceptance_rate: 28.715%
-collected_at: 2026-04-17T14:17:54.095727+00:00
+acceptance_rate: "28.715%"
+collected_at: "2026-04-17T14:17:54.095727+00:00"
 ---
 
 ## 문제

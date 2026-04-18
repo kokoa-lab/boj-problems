@@ -1,13 +1,13 @@
 ---
-title: Grand Prix of Array Count
-special_judge: false
-time_limit: 1 초
-memory_limit: 2048 MB
+title: "Grand Prix of Array Count"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "2048 MB"
 submissions: 31
 accepted: 17
 solved_users: 15
-acceptance_rate: 51.724%
-collected_at: 2026-04-17T20:12:54.752717+00:00
+acceptance_rate: "51.724%"
+collected_at: "2026-04-17T20:12:54.752717+00:00"
 ---
 
 ## 문제

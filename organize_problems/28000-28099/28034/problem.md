@@ -1,13 +1,13 @@
 ---
-title: FEB
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "FEB"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 288
 accepted: 102
 solved_users: 88
-acceptance_rate: 43.350%
-collected_at: 2026-04-17T18:17:01.531403+00:00
+acceptance_rate: "43.350%"
+collected_at: "2026-04-17T18:17:01.531403+00:00"
 ---
 
 ## 문제

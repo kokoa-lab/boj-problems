@@ -1,13 +1,13 @@
 ---
-title: Edit Distance
-special_judge: true
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Edit Distance"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 227
 accepted: 100
 solved_users: 88
-acceptance_rate: 47.568%
-collected_at: 2026-04-17T14:20:17.976818+00:00
+acceptance_rate: "47.568%"
+collected_at: "2026-04-17T14:20:17.976818+00:00"
 ---
 
 ## 문제

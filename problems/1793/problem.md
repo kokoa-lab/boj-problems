@@ -1,13 +1,13 @@
 ---
-title: 타일링
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "타일링"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 11722
 accepted: 3880
 solved_users: 3253
-acceptance_rate: 33.184%
-collected_at: 2026-04-17T10:33:42.912470+00:00
+acceptance_rate: "33.184%"
+collected_at: "2026-04-17T10:33:42.912470+00:00"
 ---
 
 ## 문제

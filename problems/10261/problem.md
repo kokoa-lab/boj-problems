@@ -1,13 +1,13 @@
 ---
-title: Catalan Square
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Catalan Square"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 259
 accepted: 130
 solved_users: 95
-acceptance_rate: 47.739%
-collected_at: 2026-04-17T12:21:11.450141+00:00
+acceptance_rate: "47.739%"
+collected_at: "2026-04-17T12:21:11.450141+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Lysergic Acid Diethylamide
-special_judge: true
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Lysergic Acid Diethylamide"
+special_judge: "true"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 37
 accepted: 11
 solved_users: 11
-acceptance_rate: 29.730%
-collected_at: 2026-04-17T17:45:21.611939+00:00
+acceptance_rate: "29.730%"
+collected_at: "2026-04-17T17:45:21.611939+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 교통 체계
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "교통 체계"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 1174
 accepted: 268
 solved_users: 134
-acceptance_rate: 20.807%
-collected_at: 2026-04-17T10:32:47.162847+00:00
+acceptance_rate: "20.807%"
+collected_at: "2026-04-17T10:32:47.162847+00:00"
 ---
 
 ## 문제

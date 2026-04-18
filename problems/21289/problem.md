@@ -1,13 +1,13 @@
 ---
-title: Solnedgång
-special_judge: false
-time_limit: 9 초
-memory_limit: 1024 MB
+title: "Solnedgång"
+special_judge: "false"
+time_limit: "9 초"
+memory_limit: "1024 MB"
 submissions: 121
 accepted: 31
 solved_users: 25
-acceptance_rate: 30.864%
-collected_at: 2026-04-17T15:53:23.082966+00:00
+acceptance_rate: "30.864%"
+collected_at: "2026-04-17T15:53:23.082966+00:00"
 ---
 
 ## 문제

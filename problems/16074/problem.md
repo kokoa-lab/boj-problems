@@ -1,13 +1,13 @@
 ---
-title: Mountaineers
-special_judge: false
-time_limit: 7 초
-memory_limit: 512 MB
+title: "Mountaineers"
+special_judge: "false"
+time_limit: "7 초"
+memory_limit: "512 MB"
 submissions: 1720
 accepted: 567
 solved_users: 442
-acceptance_rate: 29.330%
-collected_at: 2026-04-17T14:11:00.932159+00:00
+acceptance_rate: "29.330%"
+collected_at: "2026-04-17T14:11:00.932159+00:00"
 ---
 
 ## 문제

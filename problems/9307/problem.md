@@ -1,13 +1,13 @@
 ---
-title: Geometric Inflation
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Geometric Inflation"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 272
 accepted: 57
 solved_users: 46
-acceptance_rate: 22.330%
-collected_at: 2026-04-17T12:08:46.075925+00:00
+acceptance_rate: "22.330%"
+collected_at: "2026-04-17T12:08:46.075925+00:00"
 ---
 
 ## 문제

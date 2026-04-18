@@ -1,13 +1,13 @@
 ---
-title: 레몬컵 출제하기
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "레몬컵 출제하기"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 289
 accepted: 106
 solved_users: 97
-acceptance_rate: 49.490%
-collected_at: 2026-04-17T20:34:02.442060+00:00
+acceptance_rate: "49.490%"
+collected_at: "2026-04-17T20:34:02.442060+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Cup of Cowards
-special_judge: false
-time_limit: 3 초
-memory_limit: 128 MB
+title: "Cup of Cowards"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "128 MB"
 submissions: 65
 accepted: 10
 solved_users: 8
-acceptance_rate: 30.769%
-collected_at: 2026-04-17T12:12:10.745531+00:00
+acceptance_rate: "30.769%"
+collected_at: "2026-04-17T12:12:10.745531+00:00"
 ---
 
 ## 문제

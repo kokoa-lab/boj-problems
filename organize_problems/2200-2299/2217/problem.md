@@ -1,13 +1,13 @@
 ---
-title: 로프
-special_judge: false
-time_limit: 2 초
-memory_limit: 192 MB
+title: "로프"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "192 MB"
 submissions: 83366
 accepted: 38090
 solved_users: 30453
-acceptance_rate: 44.592%
-collected_at: 2026-04-17T10:39:36.599840+00:00
+acceptance_rate: "44.592%"
+collected_at: "2026-04-17T10:39:36.599840+00:00"
 ---
 
 ## 문제

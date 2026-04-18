@@ -1,13 +1,13 @@
 ---
-title: Saruman’s Level Up
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Saruman’s Level Up"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 69
 accepted: 21
 solved_users: 20
-acceptance_rate: 38.462%
-collected_at: 2026-04-17T11:01:56.035680+00:00
+acceptance_rate: "38.462%"
+collected_at: "2026-04-17T11:01:56.035680+00:00"
 ---
 
 ## 문제

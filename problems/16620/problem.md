@@ -1,13 +1,13 @@
 ---
-title: Interesting World of Arrays
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Interesting World of Arrays"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 48
 accepted: 20
 solved_users: 15
-acceptance_rate: 39.474%
-collected_at: 2026-04-17T14:21:09.754126+00:00
+acceptance_rate: "39.474%"
+collected_at: "2026-04-17T14:21:09.754126+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 놀이기구 줄서기
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "놀이기구 줄서기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 447
 accepted: 112
 solved_users: 94
-acceptance_rate: 30.421%
-collected_at: 2026-04-17T20:37:42.256372+00:00
+acceptance_rate: "30.421%"
+collected_at: "2026-04-17T20:37:42.256372+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 행렬식과 GCD
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "행렬식과 GCD"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 771
 accepted: 322
 solved_users: 263
-acceptance_rate: 40.649%
-collected_at: 2026-04-17T13:18:06.757057+00:00
+acceptance_rate: "40.649%"
+collected_at: "2026-04-17T13:18:06.757057+00:00"
 ---
 
 ## 문제

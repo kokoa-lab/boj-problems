@@ -1,13 +1,13 @@
 ---
-title: 원교수님 과제가 너무 많아요
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "원교수님 과제가 너무 많아요"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 282
 accepted: 76
 solved_users: 70
-acceptance_rate: 34.146%
-collected_at: 2026-04-17T18:53:27.643539+00:00
+acceptance_rate: "34.146%"
+collected_at: "2026-04-17T18:53:27.643539+00:00"
 ---
 
 ## 문제

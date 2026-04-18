@@ -1,13 +1,13 @@
 ---
-title: 영역 색칠
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "영역 색칠"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 1456
 accepted: 443
 solved_users: 379
-acceptance_rate: 35.924%
-collected_at: 2026-04-17T18:16:44.762392+00:00
+acceptance_rate: "35.924%"
+collected_at: "2026-04-17T18:16:44.762392+00:00"
 ---
 
 ## 문제

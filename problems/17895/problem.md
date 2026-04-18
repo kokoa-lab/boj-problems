@@ -1,13 +1,13 @@
 ---
-title: Loo Rolls
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Loo Rolls"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 70
 accepted: 52
 solved_users: 48
-acceptance_rate: 72.727%
-collected_at: 2026-04-17T14:49:32.804249+00:00
+acceptance_rate: "72.727%"
+collected_at: "2026-04-17T14:49:32.804249+00:00"
 ---
 
 ## 문제

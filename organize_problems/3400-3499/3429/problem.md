@@ -1,13 +1,13 @@
 ---
-title: 방어선
-special_judge: false
-time_limit: 3 초
-memory_limit: 128 MB
+title: "방어선"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "128 MB"
 submissions: 685
 accepted: 182
 solved_users: 134
-acceptance_rate: 31.529%
-collected_at: 2026-04-17T10:48:49.061648+00:00
+acceptance_rate: "31.529%"
+collected_at: "2026-04-17T10:48:49.061648+00:00"
 ---
 
 ## 문제

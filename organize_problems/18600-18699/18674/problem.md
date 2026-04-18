@@ -1,13 +1,13 @@
 ---
-title: The Minions Quiz
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "The Minions Quiz"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 43
 accepted: 41
 solved_users: 38
-acceptance_rate: 95.000%
-collected_at: 2026-04-17T15:08:15.616950+00:00
+acceptance_rate: "95.000%"
+collected_at: "2026-04-17T15:08:15.616950+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Abstract Circular Cover
-special_judge: false
-time_limit: 20 초
-memory_limit: 512 MB
+title: "Abstract Circular Cover"
+special_judge: "false"
+time_limit: "20 초"
+memory_limit: "512 MB"
 submissions: 48
 accepted: 5
 solved_users: 5
-acceptance_rate: 17.857%
-collected_at: 2026-04-17T15:38:34.404238+00:00
+acceptance_rate: "17.857%"
+collected_at: "2026-04-17T15:38:34.404238+00:00"
 ---
 
 ## 문제

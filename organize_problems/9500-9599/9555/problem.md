@@ -1,13 +1,13 @@
 ---
-title: 대회 장소 준비
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "대회 장소 준비"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 369
 accepted: 245
 solved_users: 193
-acceptance_rate: 63.072%
-collected_at: 2026-04-17T12:11:16.908519+00:00
+acceptance_rate: "63.072%"
+collected_at: "2026-04-17T12:11:16.908519+00:00"
 ---
 
 ## 문제

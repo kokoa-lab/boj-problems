@@ -1,13 +1,13 @@
 ---
-title: Dominos
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Dominos"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 1061
 accepted: 939
 solved_users: 865
-acceptance_rate: 90.198%
-collected_at: 2026-04-17T13:55:40.943119+00:00
+acceptance_rate: "90.198%"
+collected_at: "2026-04-17T13:55:40.943119+00:00"
 ---
 
 ## 문제

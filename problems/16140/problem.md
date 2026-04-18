@@ -1,13 +1,13 @@
 ---
-title: 정수론과 응용
-special_judge: false
-time_limit: 0.2 초 (추가 시간 없음)
-memory_limit: 16 MB
+title: "정수론과 응용"
+special_judge: "false"
+time_limit: "0.2 초 (추가 시간 없음)"
+memory_limit: "16 MB"
 submissions: 310
 accepted: 67
 solved_users: 55
-acceptance_rate: 20.522%
-collected_at: 2026-04-17T14:12:06.831589+00:00
+acceptance_rate: "20.522%"
+collected_at: "2026-04-17T14:12:06.831589+00:00"
 ---
 
 ## 문제

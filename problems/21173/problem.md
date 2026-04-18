@@ -1,13 +1,13 @@
 ---
-title: ICPC Record Matching
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "ICPC Record Matching"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 65
 accepted: 23
 solved_users: 21
-acceptance_rate: 42.857%
-collected_at: 2026-04-17T15:49:47.539249+00:00
+acceptance_rate: "42.857%"
+collected_at: "2026-04-17T15:49:47.539249+00:00"
 ---
 
 ## 문제

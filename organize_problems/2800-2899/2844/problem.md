@@ -1,13 +1,13 @@
 ---
-title: 자료 구조
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "자료 구조"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 772
 accepted: 134
 solved_users: 78
-acceptance_rate: 17.849%
-collected_at: 2026-04-17T10:45:15.111656+00:00
+acceptance_rate: "17.849%"
+collected_at: "2026-04-17T10:45:15.111656+00:00"
 ---
 
 ## 문제

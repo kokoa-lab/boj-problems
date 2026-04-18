@@ -1,13 +1,13 @@
 ---
-title: Determining Duos
-special_judge: false
-time_limit: 3 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Determining Duos"
+special_judge: "false"
+time_limit: "3 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 74
 accepted: 36
 solved_users: 28
-acceptance_rate: 52.830%
-collected_at: 2026-04-17T19:02:59.791100+00:00
+acceptance_rate: "52.830%"
+collected_at: "2026-04-17T19:02:59.791100+00:00"
 ---
 
 ## 문제

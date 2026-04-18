@@ -1,13 +1,13 @@
 ---
-title: Subway
-special_judge: false
-time_limit: 3 초
-memory_limit: 128 MB
+title: "Subway"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "128 MB"
 submissions: 481
 accepted: 80
 solved_users: 62
-acceptance_rate: 14.727%
-collected_at: 2026-04-17T11:56:20.479159+00:00
+acceptance_rate: "14.727%"
+collected_at: "2026-04-17T11:56:20.479159+00:00"
 ---
 
 ## 문제

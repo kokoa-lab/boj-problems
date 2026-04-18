@@ -1,13 +1,13 @@
 ---
-title: Odd and Even Zeroes
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Odd and Even Zeroes"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 52
 accepted: 36
 solved_users: 29
-acceptance_rate: 87.879%
-collected_at: 2026-04-17T12:11:43.537207+00:00
+acceptance_rate: "87.879%"
+collected_at: "2026-04-17T12:11:43.537207+00:00"
 ---
 
 ## 문제

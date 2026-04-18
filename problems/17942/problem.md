@@ -1,13 +1,13 @@
 ---
-title: 알고리즘 공부
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "알고리즘 공부"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 582
 accepted: 256
 solved_users: 184
-acceptance_rate: 41.723%
-collected_at: 2026-04-17T14:50:35.426052+00:00
+acceptance_rate: "41.723%"
+collected_at: "2026-04-17T14:50:35.426052+00:00"
 ---
 
 ## 문제

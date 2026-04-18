@@ -1,13 +1,13 @@
 ---
-title: 저울 추 만들기
-special_judge: true
-time_limit: 2 초
-memory_limit: 256 MB
+title: "저울 추 만들기"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 713
 accepted: 298
 solved_users: 259
-acceptance_rate: 46.168%
-collected_at: 2026-04-17T10:39:30.605427+00:00
+acceptance_rate: "46.168%"
+collected_at: "2026-04-17T10:39:30.605427+00:00"
 ---
 
 ## 문제

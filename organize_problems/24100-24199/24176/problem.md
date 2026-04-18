@@ -1,13 +1,13 @@
 ---
-title: 出前配達
-special_judge: true
-time_limit: 8 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "出前配達"
+special_judge: "true"
+time_limit: "8 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 61
 accepted: 57
 solved_users: 52
-acceptance_rate: 94.545%
-collected_at: 2026-04-17T17:05:28.070699+00:00
+acceptance_rate: "94.545%"
+collected_at: "2026-04-17T17:05:28.070699+00:00"
 ---
 
 ## 문제

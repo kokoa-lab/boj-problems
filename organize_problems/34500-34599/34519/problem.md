@@ -1,13 +1,13 @@
 ---
-title: 바보
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "바보"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 80
 accepted: 53
 solved_users: 43
-acceptance_rate: 69.355%
-collected_at: 2026-04-17T20:41:52.183871+00:00
+acceptance_rate: "69.355%"
+collected_at: "2026-04-17T20:41:52.183871+00:00"
 ---
 
 ## 문제

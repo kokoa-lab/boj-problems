@@ -1,13 +1,13 @@
 ---
-title: 떨어지는 개미
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "떨어지는 개미"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 4249
 accepted: 1386
 solved_users: 1002
-acceptance_rate: 33.004%
-collected_at: 2026-04-17T10:47:09.923353+00:00
+acceptance_rate: "33.004%"
+collected_at: "2026-04-17T10:47:09.923353+00:00"
 ---
 
 ## 문제

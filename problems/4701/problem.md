@@ -1,13 +1,13 @@
 ---
-title: Party Games
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Party Games"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 128
 accepted: 30
 solved_users: 29
-acceptance_rate: 29.000%
-collected_at: 2026-04-17T11:07:25.301082+00:00
+acceptance_rate: "29.000%"
+collected_at: "2026-04-17T11:07:25.301082+00:00"
 ---
 
 ## 문제

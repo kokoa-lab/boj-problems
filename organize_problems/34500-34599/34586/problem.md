@@ -1,13 +1,13 @@
 ---
-title: One-Way Abyss
-special_judge: false
-time_limit: 1 초
-memory_limit: 2048 MB
+title: "One-Way Abyss"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "2048 MB"
 submissions: 54
 accepted: 34
 solved_users: 33
-acceptance_rate: 62.264%
-collected_at: 2026-04-17T20:43:20.282425+00:00
+acceptance_rate: "62.264%"
+collected_at: "2026-04-17T20:43:20.282425+00:00"
 ---
 
 ## 문제

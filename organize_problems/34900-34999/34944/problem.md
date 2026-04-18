@@ -1,13 +1,13 @@
 ---
-title: 트리의 최대 비용
-special_judge: false
-time_limit: 2 초
-memory_limit: 1536 MB
+title: "트리의 최대 비용"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1536 MB"
 submissions: 48
 accepted: 28
 solved_users: 23
-acceptance_rate: 56.098%
-collected_at: 2026-04-17T20:52:28.595722+00:00
+acceptance_rate: "56.098%"
+collected_at: "2026-04-17T20:52:28.595722+00:00"
 ---
 
 ## 문제

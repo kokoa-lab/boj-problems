@@ -1,13 +1,13 @@
 ---
-title: 피보나치 치킨
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "피보나치 치킨"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 1200
 accepted: 557
 solved_users: 434
-acceptance_rate: 49.714%
-collected_at: 2026-04-17T13:10:37.537288+00:00
+acceptance_rate: "49.714%"
+collected_at: "2026-04-17T13:10:37.537288+00:00"
 ---
 
 ## 문제

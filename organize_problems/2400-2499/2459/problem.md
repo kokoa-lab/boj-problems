@@ -1,13 +1,13 @@
 ---
-title: 철사 자르기
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "철사 자르기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 870
 accepted: 234
 solved_users: 200
-acceptance_rate: 32.841%
-collected_at: 2026-04-17T10:41:48.420245+00:00
+acceptance_rate: "32.841%"
+collected_at: "2026-04-17T10:41:48.420245+00:00"
 ---
 
 ## 문제

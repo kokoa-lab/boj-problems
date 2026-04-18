@@ -1,13 +1,13 @@
 ---
-title: 두 번 뒤집기
-special_judge: true
-time_limit: 1 초
-memory_limit: 128 MB
+title: "두 번 뒤집기"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 5736
 accepted: 1370
 solved_users: 1036
-acceptance_rate: 26.341%
-collected_at: 2026-04-17T10:42:11.831564+00:00
+acceptance_rate: "26.341%"
+collected_at: "2026-04-17T10:42:11.831564+00:00"
 ---
 
 ## 문제

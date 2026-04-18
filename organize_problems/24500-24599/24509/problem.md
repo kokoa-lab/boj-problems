@@ -1,13 +1,13 @@
 ---
-title: 상품의 주인은?
-special_judge: false
-time_limit: 4 초 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "상품의 주인은?"
+special_judge: "false"
+time_limit: "4 초 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 1909
 accepted: 814
 solved_users: 676
-acceptance_rate: 45.339%
-collected_at: 2026-04-17T17:10:24.071296+00:00
+acceptance_rate: "45.339%"
+collected_at: "2026-04-17T17:10:24.071296+00:00"
 ---
 
 ## 문제

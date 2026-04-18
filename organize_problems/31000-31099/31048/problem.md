@@ -1,13 +1,13 @@
 ---
-title: Last Factorial Digit
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Last Factorial Digit"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 1142
 accepted: 931
 solved_users: 851
-acceptance_rate: 82.782%
-collected_at: 2026-04-17T19:20:23.286872+00:00
+acceptance_rate: "82.782%"
+collected_at: "2026-04-17T19:20:23.286872+00:00"
 ---
 
 ## 문제

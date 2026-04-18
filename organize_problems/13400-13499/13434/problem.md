@@ -1,13 +1,13 @@
 ---
-title: 영역의 개수
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "영역의 개수"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 28
 accepted: 8
 solved_users: 5
-acceptance_rate: 83.333%
-collected_at: 2026-04-17T13:13:10.315968+00:00
+acceptance_rate: "83.333%"
+collected_at: "2026-04-17T13:13:10.315968+00:00"
 ---
 
 ## 문제

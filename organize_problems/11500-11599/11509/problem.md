@@ -1,13 +1,13 @@
 ---
-title: 풍선 맞추기
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "풍선 맞추기"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 9007
 accepted: 3310
 solved_users: 2491
-acceptance_rate: 38.317%
-collected_at: 2026-04-17T12:41:38.097035+00:00
+acceptance_rate: "38.317%"
+collected_at: "2026-04-17T12:41:38.097035+00:00"
 ---
 
 ## 문제

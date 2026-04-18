@@ -1,13 +1,13 @@
 ---
-title: Jigsaw Present
-special_judge: true
-time_limit: 5 초 (추가 시간 없음)
-memory_limit: 2048 MB
+title: "Jigsaw Present"
+special_judge: "true"
+time_limit: "5 초 (추가 시간 없음)"
+memory_limit: "2048 MB"
 submissions: 44
 accepted: 14
 solved_users: 14
-acceptance_rate: 48.276%
-collected_at: 2026-04-17T19:52:19.502972+00:00
+acceptance_rate: "48.276%"
+collected_at: "2026-04-17T19:52:19.502972+00:00"
 ---
 
 ## 문제

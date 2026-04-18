@@ -1,13 +1,13 @@
 ---
-title: COW Traversals
-special_judge: false
-time_limit: 2 초
-memory_limit: 2048 MB
+title: "COW Traversals"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "2048 MB"
 submissions: 26
 accepted: 12
 solved_users: 9
-acceptance_rate: 40.909%
-collected_at: 2026-04-17T21:00:09.316524+00:00
+acceptance_rate: "40.909%"
+collected_at: "2026-04-17T21:00:09.316524+00:00"
 ---
 
 ## 문제

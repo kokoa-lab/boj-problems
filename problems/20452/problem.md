@@ -1,13 +1,13 @@
 ---
-title: Робомарафон
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Робомарафон"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 133
 accepted: 12
 solved_users: 7
-acceptance_rate: 12.069%
-collected_at: 2026-04-17T15:36:33.132960+00:00
+acceptance_rate: "12.069%"
+collected_at: "2026-04-17T15:36:33.132960+00:00"
 ---
 
 ## 문제

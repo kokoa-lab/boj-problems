@@ -1,13 +1,13 @@
 ---
-title: Group Project
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Group Project"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 122
 accepted: 49
 solved_users: 47
-acceptance_rate: 44.762%
-collected_at: 2026-04-17T15:33:11.020287+00:00
+acceptance_rate: "44.762%"
+collected_at: "2026-04-17T15:33:11.020287+00:00"
 ---
 
 ## 문제

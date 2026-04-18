@@ -1,13 +1,13 @@
 ---
-title: Flipping El-fetiera
-special_judge: false
-time_limit: 10 초
-memory_limit: 512 MB
+title: "Flipping El-fetiera"
+special_judge: "false"
+time_limit: "10 초"
+memory_limit: "512 MB"
 submissions: 85
 accepted: 32
 solved_users: 24
-acceptance_rate: 51.064%
-collected_at: 2026-04-17T15:08:42.677792+00:00
+acceptance_rate: "51.064%"
+collected_at: "2026-04-17T15:08:42.677792+00:00"
 ---
 
 ## 문제

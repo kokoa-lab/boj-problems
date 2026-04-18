@@ -1,13 +1,13 @@
 ---
-title: 대표값2
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "대표값2"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 74000
 accepted: 45816
 solved_users: 41491
-acceptance_rate: 62.185%
-collected_at: 2026-04-17T10:43:00.937751+00:00
+acceptance_rate: "62.185%"
+collected_at: "2026-04-17T10:43:00.937751+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 앵그리 창영
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "앵그리 창영"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 8791
 accepted: 6832
 solved_users: 6453
-acceptance_rate: 78.161%
-collected_at: 2026-04-17T10:46:18.944618+00:00
+acceptance_rate: "78.161%"
+collected_at: "2026-04-17T10:46:18.944618+00:00"
 ---
 
 ## 문제

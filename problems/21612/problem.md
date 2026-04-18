@@ -1,13 +1,13 @@
 ---
-title: Boiling Water
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Boiling Water"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 3398
 accepted: 2439
 solved_users: 2324
-acceptance_rate: 71.618%
-collected_at: 2026-04-17T16:01:30.501133+00:00
+acceptance_rate: "71.618%"
+collected_at: "2026-04-17T16:01:30.501133+00:00"
 ---
 
 ## 문제

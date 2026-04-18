@@ -1,13 +1,13 @@
 ---
-title: 엄청난 부자
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "엄청난 부자"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 1516
 accepted: 276
 solved_users: 181
-acceptance_rate: 29.194%
-collected_at: 2026-04-17T10:29:06.661338+00:00
+acceptance_rate: "29.194%"
+collected_at: "2026-04-17T10:29:06.661338+00:00"
 ---
 
 ## 문제

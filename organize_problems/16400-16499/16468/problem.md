@@ -1,13 +1,13 @@
 ---
-title: 크리스마스 트리 꾸미기
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "크리스마스 트리 꾸미기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 712
 accepted: 291
 solved_users: 215
-acceptance_rate: 40.037%
-collected_at: 2026-04-17T14:18:36.078301+00:00
+acceptance_rate: "40.037%"
+collected_at: "2026-04-17T14:18:36.078301+00:00"
 ---
 
 ## 문제

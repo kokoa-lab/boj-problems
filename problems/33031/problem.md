@@ -1,13 +1,13 @@
 ---
-title: Expression Correction
-special_judge: true
-time_limit: 3 초
-memory_limit: 2048 MB
+title: "Expression Correction"
+special_judge: "true"
+time_limit: "3 초"
+memory_limit: "2048 MB"
 submissions: 34
 accepted: 22
 solved_users: 22
-acceptance_rate: 66.667%
-collected_at: 2026-04-17T20:07:46.434897+00:00
+acceptance_rate: "66.667%"
+collected_at: "2026-04-17T20:07:46.434897+00:00"
 ---
 
 ## 문제

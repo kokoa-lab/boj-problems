@@ -1,13 +1,13 @@
 ---
-title: Tax
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Tax"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 1088
 accepted: 827
 solved_users: 789
-acceptance_rate: 78.429%
-collected_at: 2026-04-17T13:27:27.920121+00:00
+acceptance_rate: "78.429%"
+collected_at: "2026-04-17T13:27:27.920121+00:00"
 ---
 
 ## 문제

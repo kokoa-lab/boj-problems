@@ -1,13 +1,13 @@
 ---
-title: Letters
-special_judge: false
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 256 MB
+title: "Letters"
+special_judge: "false"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "256 MB"
 submissions: 70
 accepted: 54
 solved_users: 49
-acceptance_rate: 79.032%
-collected_at: 2026-04-17T17:20:54.301922+00:00
+acceptance_rate: "79.032%"
+collected_at: "2026-04-17T17:20:54.301922+00:00"
 ---
 
 ## 문제

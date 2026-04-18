@@ -1,13 +1,13 @@
 ---
-title: 고창영 비밀번호의 비밀
-special_judge: false
-time_limit: 5 초
-memory_limit: 128 MB
+title: "고창영 비밀번호의 비밀"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "128 MB"
 submissions: 300
 accepted: 72
 solved_users: 56
-acceptance_rate: 41.481%
-collected_at: 2026-04-17T10:52:11.793527+00:00
+acceptance_rate: "41.481%"
+collected_at: "2026-04-17T10:52:11.793527+00:00"
 ---
 
 ## 문제

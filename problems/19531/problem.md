@@ -1,13 +1,13 @@
 ---
-title: 적절한 문자열 문제
-special_judge: false
-time_limit: 9 초
-memory_limit: 1024 MB
+title: "적절한 문자열 문제"
+special_judge: "false"
+time_limit: "9 초"
+memory_limit: "1024 MB"
 submissions: 284
 accepted: 53
 solved_users: 19
-acceptance_rate: 11.656%
-collected_at: 2026-04-17T15:22:13.833890+00:00
+acceptance_rate: "11.656%"
+collected_at: "2026-04-17T15:22:13.833890+00:00"
 ---
 
 ## 문제

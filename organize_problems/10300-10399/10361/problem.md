@@ -1,13 +1,13 @@
 ---
-title: Sequence
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Sequence"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 94
 accepted: 47
 solved_users: 42
-acceptance_rate: 61.765%
-collected_at: 2026-04-17T12:22:32.507257+00:00
+acceptance_rate: "61.765%"
+collected_at: "2026-04-17T12:22:32.507257+00:00"
 ---
 
 ## 문제

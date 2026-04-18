@@ -1,13 +1,13 @@
 ---
-title: 해커톤
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "해커톤"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 1059
 accepted: 582
 solved_users: 485
-acceptance_rate: 58.717%
-collected_at: 2026-04-17T14:13:22.889707+00:00
+acceptance_rate: "58.717%"
+collected_at: "2026-04-17T14:13:22.889707+00:00"
 ---
 
 ## 문제

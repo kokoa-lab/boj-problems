@@ -1,13 +1,13 @@
 ---
-title: Present
-special_judge: false
-time_limit: 3 초
-memory_limit: 1024 MB
+title: "Present"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "1024 MB"
 submissions: 36
 accepted: 22
 solved_users: 19
-acceptance_rate: 63.333%
-collected_at: 2026-04-17T19:12:47.031064+00:00
+acceptance_rate: "63.333%"
+collected_at: "2026-04-17T19:12:47.031064+00:00"
 ---
 
 ## 문제

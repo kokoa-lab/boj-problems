@@ -1,13 +1,13 @@
 ---
-title: 룬 숲
-special_judge: false
-time_limit: 3 초
-memory_limit: 1024 MB
+title: "룬 숲"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "1024 MB"
 submissions: 61
 accepted: 24
 solved_users: 15
-acceptance_rate: 40.541%
-collected_at: 2026-04-17T17:42:45.712333+00:00
+acceptance_rate: "40.541%"
+collected_at: "2026-04-17T17:42:45.712333+00:00"
 ---
 
 ## 문제

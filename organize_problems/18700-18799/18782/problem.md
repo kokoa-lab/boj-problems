@@ -1,13 +1,13 @@
 ---
-title: Delegation (Gold)
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Delegation (Gold)"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 403
 accepted: 178
 solved_users: 125
-acceptance_rate: 42.955%
-collected_at: 2026-04-17T15:09:34.870483+00:00
+acceptance_rate: "42.955%"
+collected_at: "2026-04-17T15:09:34.870483+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Social Network
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Social Network"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 24
 accepted: 7
 solved_users: 6
-acceptance_rate: 26.087%
-collected_at: 2026-04-17T14:37:23.170612+00:00
+acceptance_rate: "26.087%"
+collected_at: "2026-04-17T14:37:23.170612+00:00"
 ---
 
 ## 문제

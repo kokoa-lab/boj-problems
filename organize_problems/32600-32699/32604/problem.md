@@ -1,13 +1,13 @@
 ---
-title: Jumbled Scoreboards
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Jumbled Scoreboards"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 820
 accepted: 564
 solved_users: 518
-acceptance_rate: 69.530%
-collected_at: 2026-04-17T19:57:18.586614+00:00
+acceptance_rate: "69.530%"
+collected_at: "2026-04-17T19:57:18.586614+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Enemy Division
-special_judge: true
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Enemy Division"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 48
 accepted: 17
 solved_users: 10
-acceptance_rate: 27.027%
-collected_at: 2026-04-17T11:10:54.995836+00:00
+acceptance_rate: "27.027%"
+collected_at: "2026-04-17T11:10:54.995836+00:00"
 ---
 
 ## 문제

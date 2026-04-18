@@ -1,13 +1,13 @@
 ---
-title: 떡장수와 호랑이
-special_judge: true
-time_limit: 1 초
-memory_limit: 128 MB
+title: "떡장수와 호랑이"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 3660
 accepted: 1030
 solved_users: 813
-acceptance_rate: 28.034%
-collected_at: 2026-04-17T14:17:55.050365+00:00
+acceptance_rate: "28.034%"
+collected_at: "2026-04-17T14:17:55.050365+00:00"
 ---
 
 ## 문제

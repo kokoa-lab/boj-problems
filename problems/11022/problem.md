@@ -1,13 +1,13 @@
 ---
-title: A+B - 8
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "A+B - 8"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 258351
 accepted: 174284
 solved_users: 153852
-acceptance_rate: 67.927%
-collected_at: 2026-04-17T12:35:13.585334+00:00
+acceptance_rate: "67.927%"
+collected_at: "2026-04-17T12:35:13.585334+00:00"
 ---
 
 ## 문제

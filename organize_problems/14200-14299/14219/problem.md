@@ -1,13 +1,13 @@
 ---
-title: 막대과자 포장
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "막대과자 포장"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 1236
 accepted: 923
 solved_users: 835
-acceptance_rate: 76.256%
-collected_at: 2026-04-17T13:27:59.134548+00:00
+acceptance_rate: "76.256%"
+collected_at: "2026-04-17T13:27:59.134548+00:00"
 ---
 
 ## 문제

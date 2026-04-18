@@ -1,13 +1,13 @@
 ---
-title: 건포도
-special_judge: false
-time_limit: 3 초
-memory_limit: 128 MB
+title: "건포도"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "128 MB"
 submissions: 698
 accepted: 415
 solved_users: 332
-acceptance_rate: 58.761%
-collected_at: 2026-04-17T11:14:14.370984+00:00
+acceptance_rate: "58.761%"
+collected_at: "2026-04-17T11:14:14.370984+00:00"
 ---
 
 ## 문제

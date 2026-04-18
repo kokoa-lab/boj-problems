@@ -1,13 +1,13 @@
 ---
-title: Horse Habitat
-special_judge: false
-time_limit: 25 초
-memory_limit: 2048 MB
+title: "Horse Habitat"
+special_judge: "false"
+time_limit: "25 초"
+memory_limit: "2048 MB"
 submissions: 65
 accepted: 27
 solved_users: 18
-acceptance_rate: 48.649%
-collected_at: 2026-04-17T19:57:13.606264+00:00
+acceptance_rate: "48.649%"
+collected_at: "2026-04-17T19:57:13.606264+00:00"
 ---
 
 ## 문제

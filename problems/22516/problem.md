@@ -1,13 +1,13 @@
 ---
-title: Magical Girl Sayaka-chan
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Magical Girl Sayaka-chan"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 66
 accepted: 25
 solved_users: 23
-acceptance_rate: 53.488%
-collected_at: 2026-04-17T16:24:39.808245+00:00
+acceptance_rate: "53.488%"
+collected_at: "2026-04-17T16:24:39.808245+00:00"
 ---
 
 ## 문제

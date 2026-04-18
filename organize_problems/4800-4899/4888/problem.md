@@ -1,13 +1,13 @@
 ---
-title: 문시티 건설
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "문시티 건설"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 102
 accepted: 32
 solved_users: 20
-acceptance_rate: 37.037%
-collected_at: 2026-04-17T11:09:44.157219+00:00
+acceptance_rate: "37.037%"
+collected_at: "2026-04-17T11:09:44.157219+00:00"
 ---
 
 ## 문제

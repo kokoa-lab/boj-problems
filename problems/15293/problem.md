@@ -1,13 +1,13 @@
 ---
-title: Knapsack Cryptosystem
-special_judge: false
-time_limit: 3 초
-memory_limit: 512 MB
+title: "Knapsack Cryptosystem"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "512 MB"
 submissions: 185
 accepted: 33
 solved_users: 14
-acceptance_rate: 13.462%
-collected_at: 2026-04-17T13:56:36.235309+00:00
+acceptance_rate: "13.462%"
+collected_at: "2026-04-17T13:56:36.235309+00:00"
 ---
 
 ## 문제

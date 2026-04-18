@@ -1,13 +1,13 @@
 ---
-title: 복슬복슬 여우꼬리
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "복슬복슬 여우꼬리"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 349
 accepted: 42
 solved_users: 35
-acceptance_rate: 16.355%
-collected_at: 2026-04-17T18:00:39.989133+00:00
+acceptance_rate: "16.355%"
+collected_at: "2026-04-17T18:00:39.989133+00:00"
 ---
 
 ## 문제

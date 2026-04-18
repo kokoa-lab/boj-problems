@@ -1,13 +1,13 @@
 ---
-title: 3000번 버스
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "3000번 버스"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 3021
 accepted: 2163
 solved_users: 1956
-acceptance_rate: 72.444%
-collected_at: 2026-04-17T12:11:10.262887+00:00
+acceptance_rate: "72.444%"
+collected_at: "2026-04-17T12:11:10.262887+00:00"
 ---
 
 ## 문제

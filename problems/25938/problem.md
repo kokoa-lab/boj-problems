@@ -1,13 +1,13 @@
 ---
-title: Towers of Hanoi Grid
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Towers of Hanoi Grid"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 53
 accepted: 31
 solved_users: 28
-acceptance_rate: 56.000%
-collected_at: 2026-04-17T17:37:09.601312+00:00
+acceptance_rate: "56.000%"
+collected_at: "2026-04-17T17:37:09.601312+00:00"
 ---
 
 ## 문제

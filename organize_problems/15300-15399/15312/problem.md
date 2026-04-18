@@ -1,13 +1,13 @@
 ---
-title: 이름 궁합
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "이름 궁합"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 5016
 accepted: 2899
 solved_users: 2444
-acceptance_rate: 58.066%
-collected_at: 2026-04-17T13:56:52.731816+00:00
+acceptance_rate: "58.066%"
+collected_at: "2026-04-17T13:56:52.731816+00:00"
 ---
 
 ## 문제

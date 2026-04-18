@@ -1,13 +1,13 @@
 ---
-title: Formula 42
-special_judge: true
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Formula 42"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 6
 accepted: 2
 solved_users: 1
-acceptance_rate: 25.000%
-collected_at: 2026-04-17T15:27:01.174767+00:00
+acceptance_rate: "25.000%"
+collected_at: "2026-04-17T15:27:01.174767+00:00"
 ---
 
 ## 문제

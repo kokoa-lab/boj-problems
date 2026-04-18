@@ -1,13 +1,13 @@
 ---
-title: Symmetric Boundary
-special_judge: true
-time_limit: 12 초
-memory_limit: 1024 MB
+title: "Symmetric Boundary"
+special_judge: "true"
+time_limit: "12 초"
+memory_limit: "1024 MB"
 submissions: 50
 accepted: 25
 solved_users: 15
-acceptance_rate: 44.118%
-collected_at: 2026-04-17T19:31:45.377317+00:00
+acceptance_rate: "44.118%"
+collected_at: "2026-04-17T19:31:45.377317+00:00"
 ---
 
 ## 문제

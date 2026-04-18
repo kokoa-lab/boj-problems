@@ -1,13 +1,13 @@
 ---
-title: Smol Vertex Cover
-special_judge: true
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Smol Vertex Cover"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 70
 accepted: 16
 solved_users: 14
-acceptance_rate: 35.000%
-collected_at: 2026-04-17T15:47:22.011757+00:00
+acceptance_rate: "35.000%"
+collected_at: "2026-04-17T15:47:22.011757+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 개구리 공주
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "개구리 공주"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 2490
 accepted: 603
 solved_users: 403
-acceptance_rate: 31.216%
-collected_at: 2026-04-17T10:46:03.743264+00:00
+acceptance_rate: "31.216%"
+collected_at: "2026-04-17T10:46:03.743264+00:00"
 ---
 
 ## 문제

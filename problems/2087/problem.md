@@ -1,13 +1,13 @@
 ---
-title: 암호문
-special_judge: true
-time_limit: 2 초
-memory_limit: 128 MB
+title: "암호문"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 834
 accepted: 287
 solved_users: 200
-acceptance_rate: 36.036%
-collected_at: 2026-04-17T10:38:09.431590+00:00
+acceptance_rate: "36.036%"
+collected_at: "2026-04-17T10:38:09.431590+00:00"
 ---
 
 ## 문제

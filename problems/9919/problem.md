@@ -1,13 +1,13 @@
 ---
-title: Route
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Route"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 108
 accepted: 81
 solved_users: 73
-acceptance_rate: 76.042%
-collected_at: 2026-04-17T12:16:40.461574+00:00
+acceptance_rate: "76.042%"
+collected_at: "2026-04-17T12:16:40.461574+00:00"
 ---
 
 ## 문제

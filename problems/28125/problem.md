@@ -1,13 +1,13 @@
 ---
-title: 2023 아주머학교 프로그래딩 정시머힌
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "2023 아주머학교 프로그래딩 정시머힌"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 2481
 accepted: 559
 solved_users: 482
-acceptance_rate: 23.885%
-collected_at: 2026-04-17T18:18:26.918421+00:00
+acceptance_rate: "23.885%"
+collected_at: "2026-04-17T18:18:26.918421+00:00"
 ---
 
 ## 문제

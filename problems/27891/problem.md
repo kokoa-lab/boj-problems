@@ -1,13 +1,13 @@
 ---
-title: 특별한 학교 이름 암호화
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "특별한 학교 이름 암호화"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 773
 accepted: 454
 solved_users: 394
-acceptance_rate: 62.639%
-collected_at: 2026-04-17T18:13:50.596776+00:00
+acceptance_rate: "62.639%"
+collected_at: "2026-04-17T18:13:50.596776+00:00"
 ---
 
 ## 문제

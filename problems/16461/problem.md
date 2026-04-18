@@ -1,13 +1,13 @@
 ---
-title: 듀얼 채널 VHF 무전기
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "듀얼 채널 VHF 무전기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 659
 accepted: 196
 solved_users: 175
-acceptance_rate: 35.642%
-collected_at: 2026-04-17T14:18:30.468865+00:00
+acceptance_rate: "35.642%"
+collected_at: "2026-04-17T14:18:30.468865+00:00"
 ---
 
 ## 문제

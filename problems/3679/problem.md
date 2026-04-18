@@ -1,13 +1,13 @@
 ---
-title: 단순 다각형
-special_judge: true
-time_limit: 1 초
-memory_limit: 128 MB
+title: "단순 다각형"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 6296
 accepted: 1734
 solved_users: 1356
-acceptance_rate: 26.233%
-collected_at: 2026-04-17T10:50:50.999285+00:00
+acceptance_rate: "26.233%"
+collected_at: "2026-04-17T10:50:50.999285+00:00"
 ---
 
 ## 문제

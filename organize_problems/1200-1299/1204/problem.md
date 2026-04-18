@@ -1,13 +1,13 @@
 ---
-title: 팰린드롬의 개수
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "팰린드롬의 개수"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 323
 accepted: 111
 solved_users: 66
-acceptance_rate: 50.769%
-collected_at: 2026-04-17T10:28:47.716327+00:00
+acceptance_rate: "50.769%"
+collected_at: "2026-04-17T10:28:47.716327+00:00"
 ---
 
 ## 문제

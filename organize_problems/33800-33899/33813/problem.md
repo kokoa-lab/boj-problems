@@ -1,13 +1,13 @@
 ---
-title: 홀수 학번은 홀수 문제만
-special_judge: false
-time_limit: 2 초
-memory_limit: 2048 MB
+title: "홀수 학번은 홀수 문제만"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "2048 MB"
 submissions: 174
 accepted: 24
 solved_users: 13
-acceptance_rate: 19.118%
-collected_at: 2026-04-17T20:24:05.512079+00:00
+acceptance_rate: "19.118%"
+collected_at: "2026-04-17T20:24:05.512079+00:00"
 ---
 
 ## 문제

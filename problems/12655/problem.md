@@ -1,13 +1,13 @@
 ---
-title: Alien Language (Small)
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Alien Language (Small)"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 94
 accepted: 55
 solved_users: 50
-acceptance_rate: 63.291%
-collected_at: 2026-04-17T12:59:07.270409+00:00
+acceptance_rate: "63.291%"
+collected_at: "2026-04-17T12:59:07.270409+00:00"
 ---
 
 ## 문제

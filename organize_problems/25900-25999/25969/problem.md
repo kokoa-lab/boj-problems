@@ -1,13 +1,13 @@
 ---
-title: 현대 모비스 자율 주행 시스템
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "현대 모비스 자율 주행 시스템"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 312
 accepted: 105
 solved_users: 93
-acceptance_rate: 38.912%
-collected_at: 2026-04-17T17:37:56.946692+00:00
+acceptance_rate: "38.912%"
+collected_at: "2026-04-17T17:37:56.946692+00:00"
 ---
 
 ## 문제

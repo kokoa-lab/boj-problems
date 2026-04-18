@@ -1,13 +1,13 @@
 ---
-title: Skyscraper “MinatoHarukas”
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Skyscraper “MinatoHarukas”"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 143
 accepted: 77
 solved_users: 64
-acceptance_rate: 54.701%
-collected_at: 2026-04-17T14:10:12.109520+00:00
+acceptance_rate: "54.701%"
+collected_at: "2026-04-17T14:10:12.109520+00:00"
 ---
 
 ## 문제

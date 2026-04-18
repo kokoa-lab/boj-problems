@@ -1,13 +1,13 @@
 ---
-title: 자바의 형변환
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "자바의 형변환"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 960
 accepted: 517
 solved_users: 397
-acceptance_rate: 53.217%
-collected_at: 2026-04-17T17:29:47.114281+00:00
+acceptance_rate: "53.217%"
+collected_at: "2026-04-17T17:29:47.114281+00:00"
 ---
 
 ## 문제

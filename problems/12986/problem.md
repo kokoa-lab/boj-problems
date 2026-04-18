@@ -1,13 +1,13 @@
 ---
-title: 화려한 마을2
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "화려한 마을2"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 831
 accepted: 447
 solved_users: 366
-acceptance_rate: 55.539%
-collected_at: 2026-04-17T13:05:19.931613+00:00
+acceptance_rate: "55.539%"
+collected_at: "2026-04-17T13:05:19.931613+00:00"
 ---
 
 ## 문제

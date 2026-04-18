@@ -1,13 +1,13 @@
 ---
-title: Pipe Fitter and the Fierce Dogs
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Pipe Fitter and the Fierce Dogs"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 31
 accepted: 20
 solved_users: 17
-acceptance_rate: 70.833%
-collected_at: 2026-04-17T14:01:15.808942+00:00
+acceptance_rate: "70.833%"
+collected_at: "2026-04-17T14:01:15.808942+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Sun and Moon
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Sun and Moon"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 1715
 accepted: 1015
 solved_users: 943
-acceptance_rate: 61.115%
-collected_at: 2026-04-17T18:07:11.779661+00:00
+acceptance_rate: "61.115%"
+collected_at: "2026-04-17T18:07:11.779661+00:00"
 ---
 
 ## 문제

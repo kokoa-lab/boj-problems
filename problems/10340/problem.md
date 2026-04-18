@@ -1,13 +1,13 @@
 ---
-title: L∞ Jumps
-special_judge: false
-time_limit: 3 초
-memory_limit: 256 MB
+title: "L∞ Jumps"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "256 MB"
 submissions: 18
 accepted: 6
 solved_users: 5
-acceptance_rate: 71.429%
-collected_at: 2026-04-17T12:22:14.281542+00:00
+acceptance_rate: "71.429%"
+collected_at: "2026-04-17T12:22:14.281542+00:00"
 ---
 
 ## 문제

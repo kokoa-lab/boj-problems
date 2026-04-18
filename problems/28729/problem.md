@@ -1,13 +1,13 @@
 ---
-title: Беспорядочное выступление
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Беспорядочное выступление"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 61
 accepted: 32
 solved_users: 22
-acceptance_rate: 47.826%
-collected_at: 2026-04-17T18:31:24.683398+00:00
+acceptance_rate: "47.826%"
+collected_at: "2026-04-17T18:31:24.683398+00:00"
 ---
 
 ## 문제

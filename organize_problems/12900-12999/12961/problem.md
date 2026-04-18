@@ -1,13 +1,13 @@
 ---
-title: 체스판 2
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "체스판 2"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 223
 accepted: 123
 solved_users: 101
-acceptance_rate: 56.111%
-collected_at: 2026-04-17T13:04:46.948127+00:00
+acceptance_rate: "56.111%"
+collected_at: "2026-04-17T13:04:46.948127+00:00"
 ---
 
 ## 문제

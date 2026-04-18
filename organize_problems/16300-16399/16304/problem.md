@@ -1,13 +1,13 @@
 ---
-title: A Prize No One Can Win
-special_judge: false
-time_limit: 1.5 초
-memory_limit: 512 MB
+title: "A Prize No One Can Win"
+special_judge: "false"
+time_limit: "1.5 초"
+memory_limit: "512 MB"
 submissions: 394
 accepted: 250
 solved_users: 220
-acceptance_rate: 65.672%
-collected_at: 2026-04-17T14:15:22.089163+00:00
+acceptance_rate: "65.672%"
+collected_at: "2026-04-17T14:15:22.089163+00:00"
 ---
 
 ## 문제

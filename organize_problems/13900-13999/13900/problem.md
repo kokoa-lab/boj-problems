@@ -1,13 +1,13 @@
 ---
-title: 순서쌍의 곱의 합
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 256 MB
+title: "순서쌍의 곱의 합"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "256 MB"
 submissions: 10309
 accepted: 3572
 solved_users: 2989
-acceptance_rate: 36.482%
-collected_at: 2026-04-17T13:21:52.290813+00:00
+acceptance_rate: "36.482%"
+collected_at: "2026-04-17T13:21:52.290813+00:00"
 ---
 
 ## 문제

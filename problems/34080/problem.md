@@ -1,13 +1,13 @@
 ---
-title: 일천광년
-special_judge: false
-time_limit: 3.9 초
-memory_limit: 1000 MB
+title: "일천광년"
+special_judge: "false"
+time_limit: "3.9 초"
+memory_limit: "1000 MB"
 submissions: 181
 accepted: 112
 solved_users: 86
-acceptance_rate: 63.704%
-collected_at: 2026-04-17T20:29:59.066915+00:00
+acceptance_rate: "63.704%"
+collected_at: "2026-04-17T20:29:59.066915+00:00"
 ---
 
 ## 문제

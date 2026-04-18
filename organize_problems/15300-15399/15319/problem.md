@@ -1,13 +1,13 @@
 ---
-title: 동혁이의 생일선물
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "동혁이의 생일선물"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 306
 accepted: 171
 solved_users: 142
-acceptance_rate: 57.258%
-collected_at: 2026-04-17T13:57:03.421499+00:00
+acceptance_rate: "57.258%"
+collected_at: "2026-04-17T13:57:03.421499+00:00"
 ---
 
 ## 문제

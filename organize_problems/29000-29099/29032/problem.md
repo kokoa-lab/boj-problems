@@ -1,13 +1,13 @@
 ---
-title: Счастливые билеты
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Счастливые билеты"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 84
 accepted: 44
 solved_users: 29
-acceptance_rate: 45.312%
-collected_at: 2026-04-17T18:36:23.366797+00:00
+acceptance_rate: "45.312%"
+collected_at: "2026-04-17T18:36:23.366797+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Biodiversity
-special_judge: false
-time_limit: 3 초
-memory_limit: 512 MB
+title: "Biodiversity"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "512 MB"
 submissions: 478
 accepted: 252
 solved_users: 197
-acceptance_rate: 50.384%
-collected_at: 2026-04-17T14:58:48.772696+00:00
+acceptance_rate: "50.384%"
+collected_at: "2026-04-17T14:58:48.772696+00:00"
 ---
 
 ## 문제

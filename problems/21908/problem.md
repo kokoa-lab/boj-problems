@@ -1,13 +1,13 @@
 ---
-title: Disk Sort
-special_judge: true
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Disk Sort"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 116
 accepted: 35
 solved_users: 31
-acceptance_rate: 27.679%
-collected_at: 2026-04-17T16:09:50.661339+00:00
+acceptance_rate: "27.679%"
+collected_at: "2026-04-17T16:09:50.661339+00:00"
 ---
 
 ## 문제

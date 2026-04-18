@@ -1,13 +1,13 @@
 ---
-title: 이산수학 과제
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "이산수학 과제"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 1459
 accepted: 1079
 solved_users: 990
-acceptance_rate: 76.037%
-collected_at: 2026-04-17T13:41:04.396833+00:00
+acceptance_rate: "76.037%"
+collected_at: "2026-04-17T13:41:04.396833+00:00"
 ---
 
 ## 문제

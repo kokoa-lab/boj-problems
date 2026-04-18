@@ -1,13 +1,13 @@
 ---
-title: The Ultimate Wine Tasting Event
-special_judge: false
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 2048 MB
+title: "The Ultimate Wine Tasting Event"
+special_judge: "false"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "2048 MB"
 submissions: 36
 accepted: 23
 solved_users: 20
-acceptance_rate: 62.500%
-collected_at: 2026-04-17T20:19:55.032589+00:00
+acceptance_rate: "62.500%"
+collected_at: "2026-04-17T20:19:55.032589+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 가까운 만유인력
-special_judge: false
-time_limit: 5 초
-memory_limit: 128 MB
+title: "가까운 만유인력"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "128 MB"
 submissions: 98
 accepted: 39
 solved_users: 25
-acceptance_rate: 56.818%
-collected_at: 2026-04-17T12:10:23.754475+00:00
+acceptance_rate: "56.818%"
+collected_at: "2026-04-17T12:10:23.754475+00:00"
 ---
 
 ## 문제

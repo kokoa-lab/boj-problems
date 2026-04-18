@@ -1,13 +1,13 @@
 ---
-title: 볼록 정다각형
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "볼록 정다각형"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 341
 accepted: 65
 solved_users: 41
-acceptance_rate: 17.749%
-collected_at: 2026-04-17T10:52:27.591604+00:00
+acceptance_rate: "17.749%"
+collected_at: "2026-04-17T10:52:27.591604+00:00"
 ---
 
 ## 문제

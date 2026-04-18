@@ -1,13 +1,13 @@
 ---
-title: Olympiad Pizza
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Olympiad Pizza"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 1363
 accepted: 984
 solved_users: 881
-acceptance_rate: 73.051%
-collected_at: 2026-04-17T13:55:33.276626+00:00
+acceptance_rate: "73.051%"
+collected_at: "2026-04-17T13:55:33.276626+00:00"
 ---
 
 ## 문제

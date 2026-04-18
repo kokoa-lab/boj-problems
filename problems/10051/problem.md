@@ -1,13 +1,13 @@
 ---
-title: Buffed Buffet
-special_judge: true
-time_limit: 4 초
-memory_limit: 128 MB
+title: "Buffed Buffet"
+special_judge: "true"
+time_limit: "4 초"
+memory_limit: "128 MB"
 submissions: 123
 accepted: 37
 solved_users: 25
-acceptance_rate: 32.051%
-collected_at: 2026-04-17T12:18:23.469381+00:00
+acceptance_rate: "32.051%"
+collected_at: "2026-04-17T12:18:23.469381+00:00"
 ---
 
 ## 문제

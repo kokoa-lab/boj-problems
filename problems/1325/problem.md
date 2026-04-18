@@ -1,13 +1,13 @@
 ---
-title: 효율적인 해킹
-special_judge: false
-time_limit: 5 초
-memory_limit: 256 MB
+title: "효율적인 해킹"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "256 MB"
 submissions: 125125
 accepted: 20928
 solved_users: 13935
-acceptance_rate: 19.646%
-collected_at: 2026-04-17T10:29:27.875032+00:00
+acceptance_rate: "19.646%"
+collected_at: "2026-04-17T10:29:27.875032+00:00"
 ---
 
 ## 문제

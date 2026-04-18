@@ -1,13 +1,13 @@
 ---
-title: IOI Fever
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "IOI Fever"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 29
 accepted: 13
 solved_users: 13
-acceptance_rate: 44.828%
-collected_at: 2026-04-17T16:07:50.001339+00:00
+acceptance_rate: "44.828%"
+collected_at: "2026-04-17T16:07:50.001339+00:00"
 ---
 
 ## 문제

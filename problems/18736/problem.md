@@ -1,13 +1,13 @@
 ---
-title: Football Match
-special_judge: true
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Football Match"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 78
 accepted: 13
 solved_users: 13
-acceptance_rate: 18.841%
-collected_at: 2026-04-17T15:09:01.449312+00:00
+acceptance_rate: "18.841%"
+collected_at: "2026-04-17T15:09:01.449312+00:00"
 ---
 
 ## 문제

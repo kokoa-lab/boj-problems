@@ -1,13 +1,13 @@
 ---
-title: 업적의 노예 1
-special_judge: false
-time_limit: 3 초
-memory_limit: 256 MB
+title: "업적의 노예 1"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "256 MB"
 submissions: 147
 accepted: 68
 solved_users: 48
-acceptance_rate: 44.037%
-collected_at: 2026-04-17T12:28:14.791647+00:00
+acceptance_rate: "44.037%"
+collected_at: "2026-04-17T12:28:14.791647+00:00"
 ---
 
 ## 문제

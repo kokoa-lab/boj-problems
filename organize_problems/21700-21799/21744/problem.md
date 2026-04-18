@@ -1,13 +1,13 @@
 ---
-title: Красивые числа
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Красивые числа"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 48
 accepted: 19
 solved_users: 3
-acceptance_rate: 17.647%
-collected_at: 2026-04-17T16:06:15.683031+00:00
+acceptance_rate: "17.647%"
+collected_at: "2026-04-17T16:06:15.683031+00:00"
 ---
 
 ## 문제

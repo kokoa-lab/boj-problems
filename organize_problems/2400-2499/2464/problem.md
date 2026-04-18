@@ -1,13 +1,13 @@
 ---
-title: 비밀번호
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "비밀번호"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 2673
 accepted: 661
 solved_users: 571
-acceptance_rate: 30.037%
-collected_at: 2026-04-17T10:41:50.065813+00:00
+acceptance_rate: "30.037%"
+collected_at: "2026-04-17T10:41:50.065813+00:00"
 ---
 
 ## 문제

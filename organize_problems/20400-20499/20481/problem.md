@@ -1,13 +1,13 @@
 ---
-title: Арифметическая прогрессия
-special_judge: true
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Арифметическая прогрессия"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 297
 accepted: 59
 solved_users: 26
-acceptance_rate: 13.402%
-collected_at: 2026-04-17T15:36:54.591504+00:00
+acceptance_rate: "13.402%"
+collected_at: "2026-04-17T15:36:54.591504+00:00"
 ---
 
 ## 문제

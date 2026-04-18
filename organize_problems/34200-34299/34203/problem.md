@@ -1,13 +1,13 @@
 ---
-title: 통행료
-special_judge: false
-time_limit: 1 초
-memory_limit: 2048 MB
+title: "통행료"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "2048 MB"
 submissions: 309
 accepted: 95
 solved_users: 79
-acceptance_rate: 33.617%
-collected_at: 2026-04-17T20:33:04.764264+00:00
+acceptance_rate: "33.617%"
+collected_at: "2026-04-17T20:33:04.764264+00:00"
 ---
 
 ## 문제

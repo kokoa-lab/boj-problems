@@ -1,13 +1,13 @@
 ---
-title: Correcting Cheeseburgers
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Correcting Cheeseburgers"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 211
 accepted: 36
 solved_users: 27
-acceptance_rate: 15.882%
-collected_at: 2026-04-17T13:08:16.890479+00:00
+acceptance_rate: "15.882%"
+collected_at: "2026-04-17T13:08:16.890479+00:00"
 ---
 
 ## 문제

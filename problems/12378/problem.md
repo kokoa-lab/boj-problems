@@ -1,13 +1,13 @@
 ---
-title: Mountain View (Small)
-special_judge: true
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Mountain View (Small)"
+special_judge: "true"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 4
 accepted: 3
 solved_users: 2
-acceptance_rate: 66.667%
-collected_at: 2026-04-17T12:54:31.672107+00:00
+acceptance_rate: "66.667%"
+collected_at: "2026-04-17T12:54:31.672107+00:00"
 ---
 
 ## 문제

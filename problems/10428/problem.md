@@ -1,13 +1,13 @@
 ---
-title: 마법의 약
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "마법의 약"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 111
 accepted: 71
 solved_users: 55
-acceptance_rate: 74.324%
-collected_at: 2026-04-17T12:23:32.410135+00:00
+acceptance_rate: "74.324%"
+collected_at: "2026-04-17T12:23:32.410135+00:00"
 ---
 
 ## 문제

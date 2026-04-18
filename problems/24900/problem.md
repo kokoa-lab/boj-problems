@@ -1,13 +1,13 @@
 ---
-title: 한별 찍기
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "한별 찍기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 17149
 accepted: 10232
 solved_users: 9315
-acceptance_rate: 62.517%
-collected_at: 2026-04-17T17:16:51.546084+00:00
+acceptance_rate: "62.517%"
+collected_at: "2026-04-17T17:16:51.546084+00:00"
 ---
 
 ## 문제

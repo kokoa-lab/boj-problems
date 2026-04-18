@@ -1,13 +1,13 @@
 ---
-title: Jogging Tour
-special_judge: true
-time_limit: 8 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Jogging Tour"
+special_judge: "true"
+time_limit: "8 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 159
 accepted: 71
 solved_users: 63
-acceptance_rate: 54.783%
-collected_at: 2026-04-17T19:17:51.984731+00:00
+acceptance_rate: "54.783%"
+collected_at: "2026-04-17T19:17:51.984731+00:00"
 ---
 
 ## 문제

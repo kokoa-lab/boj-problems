@@ -1,13 +1,13 @@
 ---
-title: Math Homework
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Math Homework"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 570
 accepted: 307
 solved_users: 263
-acceptance_rate: 52.390%
-collected_at: 2026-04-17T17:15:28.952047+00:00
+acceptance_rate: "52.390%"
+collected_at: "2026-04-17T17:15:28.952047+00:00"
 ---
 
 ## 문제

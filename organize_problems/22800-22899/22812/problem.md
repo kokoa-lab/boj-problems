@@ -1,13 +1,13 @@
 ---
-title: The Secret Number
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "The Secret Number"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 29
 accepted: 21
 solved_users: 18
-acceptance_rate: 69.231%
-collected_at: 2026-04-17T16:36:28.754874+00:00
+acceptance_rate: "69.231%"
+collected_at: "2026-04-17T16:36:28.754874+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 창업
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "창업"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 2164
 accepted: 386
 solved_users: 292
-acceptance_rate: 18.575%
-collected_at: 2026-04-17T14:25:51.125600+00:00
+acceptance_rate: "18.575%"
+collected_at: "2026-04-17T14:25:51.125600+00:00"
 ---
 
 ## 문제

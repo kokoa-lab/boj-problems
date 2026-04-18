@@ -1,13 +1,13 @@
 ---
-title: 배열에서 이동
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "배열에서 이동"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 11943
 accepted: 3315
 solved_users: 2213
-acceptance_rate: 25.706%
-collected_at: 2026-04-17T10:36:40.235141+00:00
+acceptance_rate: "25.706%"
+collected_at: "2026-04-17T10:36:40.235141+00:00"
 ---
 
 ## 문제

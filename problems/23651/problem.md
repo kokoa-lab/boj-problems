@@ -1,13 +1,13 @@
 ---
-title: Anti-Distance
-special_judge: false
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 256 MB
+title: "Anti-Distance"
+special_judge: "false"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "256 MB"
 submissions: 12
 accepted: 4
 solved_users: 4
-acceptance_rate: 40.000%
-collected_at: 2026-04-17T16:51:44.262713+00:00
+acceptance_rate: "40.000%"
+collected_at: "2026-04-17T16:51:44.262713+00:00"
 ---
 
 ## 문제

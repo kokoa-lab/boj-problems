@@ -1,13 +1,13 @@
 ---
-title: 카드 숫자 곱을 최소로 만들기
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "카드 숫자 곱을 최소로 만들기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 345
 accepted: 198
 solved_users: 163
-acceptance_rate: 58.423%
-collected_at: 2026-04-17T17:25:44.011363+00:00
+acceptance_rate: "58.423%"
+collected_at: "2026-04-17T17:25:44.011363+00:00"
 ---
 
 ## 문제

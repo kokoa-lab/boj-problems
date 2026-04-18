@@ -1,13 +1,13 @@
 ---
-title: 요새 건설
-special_judge: false
-time_limit: 7 초
-memory_limit: 256 MB
+title: "요새 건설"
+special_judge: "false"
+time_limit: "7 초"
+memory_limit: "256 MB"
 submissions: 613
 accepted: 211
 solved_users: 146
-acceptance_rate: 35.181%
-collected_at: 2026-04-17T12:21:56.140485+00:00
+acceptance_rate: "35.181%"
+collected_at: "2026-04-17T12:21:56.140485+00:00"
 ---
 
 ## 문제

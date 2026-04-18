@@ -1,13 +1,13 @@
 ---
-title: 비트 문자열 재배열하기
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "비트 문자열 재배열하기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 370
 accepted: 247
 solved_users: 206
-acceptance_rate: 68.439%
-collected_at: 2026-04-17T12:22:02.094279+00:00
+acceptance_rate: "68.439%"
+collected_at: "2026-04-17T12:22:02.094279+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: National Treasures
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "National Treasures"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 10
 accepted: 4
 solved_users: 4
-acceptance_rate: 57.143%
-collected_at: 2026-04-17T11:09:51.739430+00:00
+acceptance_rate: "57.143%"
+collected_at: "2026-04-17T11:09:51.739430+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 도서실카펫
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "도서실카펫"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 865
 accepted: 257
 solved_users: 165
-acceptance_rate: 28.846%
-collected_at: 2026-04-17T10:43:08.360775+00:00
+acceptance_rate: "28.846%"
+collected_at: "2026-04-17T10:43:08.360775+00:00"
 ---
 
 ## 문제

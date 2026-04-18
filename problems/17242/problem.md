@@ -1,13 +1,13 @@
 ---
-title: Kaka & Bebe
-special_judge: false
-time_limit: 2.5 초
-memory_limit: 512 MB
+title: "Kaka & Bebe"
+special_judge: "false"
+time_limit: "2.5 초"
+memory_limit: "512 MB"
 submissions: 245
 accepted: 90
 solved_users: 67
-acceptance_rate: 33.838%
-collected_at: 2026-04-17T14:34:31.243799+00:00
+acceptance_rate: "33.838%"
+collected_at: "2026-04-17T14:34:31.243799+00:00"
 ---
 
 ## 문제

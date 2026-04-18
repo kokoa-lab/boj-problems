@@ -1,13 +1,13 @@
 ---
-title: 이중 우선순위 큐
-special_judge: false
-time_limit: 6 초
-memory_limit: 256 MB
+title: "이중 우선순위 큐"
+special_judge: "false"
+time_limit: "6 초"
+memory_limit: "256 MB"
 submissions: 94140
 accepted: 23147
 solved_users: 17062
-acceptance_rate: 23.587%
-collected_at: 2026-04-17T11:51:38.989326+00:00
+acceptance_rate: "23.587%"
+collected_at: "2026-04-17T11:51:38.989326+00:00"
 ---
 
 ## 문제

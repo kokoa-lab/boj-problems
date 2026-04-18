@@ -1,13 +1,13 @@
 ---
-title: 나노의 머리 속 시곗바늘
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "나노의 머리 속 시곗바늘"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 161
 accepted: 30
 solved_users: 24
-acceptance_rate: 28.571%
-collected_at: 2026-04-17T18:39:25.462084+00:00
+acceptance_rate: "28.571%"
+collected_at: "2026-04-17T18:39:25.462084+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Messenger
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Messenger"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 169
 accepted: 36
 solved_users: 32
-acceptance_rate: 23.358%
-collected_at: 2026-04-17T14:46:38.862200+00:00
+acceptance_rate: "23.358%"
+collected_at: "2026-04-17T14:46:38.862200+00:00"
 ---
 
 ## 문제

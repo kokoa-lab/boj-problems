@@ -1,13 +1,13 @@
 ---
-title: 초콜릿 먹기
-special_judge: true
-time_limit: 3 초
-memory_limit: 1024 MB
+title: "초콜릿 먹기"
+special_judge: "true"
+time_limit: "3 초"
+memory_limit: "1024 MB"
 submissions: 161
 accepted: 27
 solved_users: 21
-acceptance_rate: 20.192%
-collected_at: 2026-04-17T20:49:47.584270+00:00
+acceptance_rate: "20.192%"
+collected_at: "2026-04-17T20:49:47.584270+00:00"
 ---
 
 ## 문제

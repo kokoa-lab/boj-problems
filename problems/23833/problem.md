@@ -1,13 +1,13 @@
 ---
-title: F1ow3rC0n
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "F1ow3rC0n"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 184
 accepted: 98
 solved_users: 81
-acceptance_rate: 54.730%
-collected_at: 2026-04-17T16:55:02.559125+00:00
+acceptance_rate: "54.730%"
+collected_at: "2026-04-17T16:55:02.559125+00:00"
 ---
 
 ## 문제

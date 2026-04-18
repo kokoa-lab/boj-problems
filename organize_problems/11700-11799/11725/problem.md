@@ -1,13 +1,13 @@
 ---
-title: 트리의 부모 찾기
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "트리의 부모 찾기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 119228
 accepted: 56194
 solved_users: 39346
-acceptance_rate: 44.549%
-collected_at: 2026-04-17T12:44:50.646570+00:00
+acceptance_rate: "44.549%"
+collected_at: "2026-04-17T12:44:50.646570+00:00"
 ---
 
 ## 문제

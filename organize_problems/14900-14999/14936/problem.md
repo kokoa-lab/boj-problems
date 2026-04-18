@@ -1,13 +1,13 @@
 ---
-title: 엘리베이터 장난
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "엘리베이터 장난"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 1216
 accepted: 363
 solved_users: 275
-acceptance_rate: 30.320%
-collected_at: 2026-04-17T13:46:09.516067+00:00
+acceptance_rate: "30.320%"
+collected_at: "2026-04-17T13:46:09.516067+00:00"
 ---
 
 ## 문제

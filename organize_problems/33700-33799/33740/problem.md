@@ -1,13 +1,13 @@
 ---
-title: True or False Test
-special_judge: false
-time_limit: 3 초
-memory_limit: 2048 MB
+title: "True or False Test"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "2048 MB"
 submissions: 34
 accepted: 13
 solved_users: 13
-acceptance_rate: 38.235%
-collected_at: 2026-04-17T20:22:35.063393+00:00
+acceptance_rate: "38.235%"
+collected_at: "2026-04-17T20:22:35.063393+00:00"
 ---
 
 ## 문제

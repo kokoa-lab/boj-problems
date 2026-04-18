@@ -1,13 +1,13 @@
 ---
-title: 메이플스토리
-special_judge: false
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "메이플스토리"
+special_judge: "false"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 1032
 accepted: 340
 solved_users: 267
-acceptance_rate: 32.482%
-collected_at: 2026-04-17T15:43:21.989338+00:00
+acceptance_rate: "32.482%"
+collected_at: "2026-04-17T15:43:21.989338+00:00"
 ---
 
 ## 문제

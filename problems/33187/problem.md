@@ -1,13 +1,13 @@
 ---
-title: Cafebazaar’s Applications
-special_judge: false
-time_limit: 1 초
-memory_limit: 2048 MB
+title: "Cafebazaar’s Applications"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "2048 MB"
 submissions: 20
 accepted: 12
 solved_users: 12
-acceptance_rate: 60.000%
-collected_at: 2026-04-17T20:11:02.010477+00:00
+acceptance_rate: "60.000%"
+collected_at: "2026-04-17T20:11:02.010477+00:00"
 ---
 
 ## 문제

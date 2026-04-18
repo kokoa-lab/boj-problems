@@ -1,13 +1,13 @@
 ---
-title: GIST 찍기
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "GIST 찍기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 1014
 accepted: 850
 solved_users: 775
-acceptance_rate: 85.447%
-collected_at: 2026-04-17T19:38:54.191465+00:00
+acceptance_rate: "85.447%"
+collected_at: "2026-04-17T19:38:54.191465+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 문제 셋 만들기
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "문제 셋 만들기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 453
 accepted: 278
 solved_users: 230
-acceptance_rate: 63.014%
-collected_at: 2026-04-17T21:10:49.081731+00:00
+acceptance_rate: "63.014%"
+collected_at: "2026-04-17T21:10:49.081731+00:00"
 ---
 
 ## 문제

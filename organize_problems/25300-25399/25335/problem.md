@@ -1,13 +1,13 @@
 ---
-title: Gravity Hackenbush
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "Gravity Hackenbush"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 637
 accepted: 395
 solved_users: 265
-acceptance_rate: 63.397%
-collected_at: 2026-04-17T17:25:08.564411+00:00
+acceptance_rate: "63.397%"
+collected_at: "2026-04-17T17:25:08.564411+00:00"
 ---
 
 ## 문제

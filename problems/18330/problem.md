@@ -1,13 +1,13 @@
 ---
-title: Petrol
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Petrol"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 2606
 accepted: 1902
 solved_users: 1803
-acceptance_rate: 73.263%
-collected_at: 2026-04-17T14:59:56.688287+00:00
+acceptance_rate: "73.263%"
+collected_at: "2026-04-17T14:59:56.688287+00:00"
 ---
 
 ## 문제

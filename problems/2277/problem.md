@@ -1,13 +1,13 @@
 ---
-title: 금고 털기
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "금고 털기"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 1132
 accepted: 10
 solved_users: 6
-acceptance_rate: 14.286%
-collected_at: 2026-04-17T10:40:12.383996+00:00
+acceptance_rate: "14.286%"
+collected_at: "2026-04-17T10:40:12.383996+00:00"
 ---
 
 ## 문제

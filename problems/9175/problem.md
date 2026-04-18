@@ -1,13 +1,13 @@
 ---
-title: Who needs 8 Queens when you can have N?
-special_judge: true
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Who needs 8 Queens when you can have N?"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 203
 accepted: 92
 solved_users: 83
-acceptance_rate: 47.159%
-collected_at: 2026-04-17T12:07:46.851250+00:00
+acceptance_rate: "47.159%"
+collected_at: "2026-04-17T12:07:46.851250+00:00"
 ---
 
 ## 문제

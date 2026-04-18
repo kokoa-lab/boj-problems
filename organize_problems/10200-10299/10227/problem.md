@@ -1,13 +1,13 @@
 ---
-title: 삶의 질
-special_judge: false
-time_limit: 5 초
-memory_limit: 256 MB
+title: "삶의 질"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "256 MB"
 submissions: 856
 accepted: 371
 solved_users: 266
-acceptance_rate: 43.112%
-collected_at: 2026-04-17T12:20:41.291964+00:00
+acceptance_rate: "43.112%"
+collected_at: "2026-04-17T12:20:41.291964+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: The World Responds
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "The World Responds"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 8636
 accepted: 8032
 solved_users: 7752
-acceptance_rate: 93.398%
-collected_at: 2026-04-17T16:44:40.081363+00:00
+acceptance_rate: "93.398%"
+collected_at: "2026-04-17T16:44:40.081363+00:00"
 ---
 
 ## 문제

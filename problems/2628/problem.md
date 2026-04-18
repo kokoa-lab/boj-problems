@@ -1,13 +1,13 @@
 ---
-title: 종이자르기
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "종이자르기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 15347
 accepted: 8574
 solved_users: 7152
-acceptance_rate: 56.546%
-collected_at: 2026-04-17T10:43:27.152450+00:00
+acceptance_rate: "56.546%"
+collected_at: "2026-04-17T10:43:27.152450+00:00"
 ---
 
 ## 문제

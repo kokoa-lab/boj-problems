@@ -1,13 +1,13 @@
 ---
-title: Pahom on Water
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Pahom on Water"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 8
 accepted: 2
 solved_users: 2
-acceptance_rate: 66.667%
-collected_at: 2026-04-17T11:17:35.860432+00:00
+acceptance_rate: "66.667%"
+collected_at: "2026-04-17T11:17:35.860432+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: MR.DR 문자열
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "MR.DR 문자열"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 181
 accepted: 94
 solved_users: 84
-acceptance_rate: 59.155%
-collected_at: 2026-04-17T19:37:20.955416+00:00
+acceptance_rate: "59.155%"
+collected_at: "2026-04-17T19:37:20.955416+00:00"
 ---
 
 ## 문제

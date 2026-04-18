@@ -1,13 +1,13 @@
 ---
-title: 최소비용 구하기
-special_judge: false
-time_limit: 0.5 초
-memory_limit: 128 MB
+title: "최소비용 구하기"
+special_judge: "false"
+time_limit: "0.5 초"
+memory_limit: "128 MB"
 submissions: 130746
 accepted: 46254
 solved_users: 30541
-acceptance_rate: 34.245%
-collected_at: 2026-04-17T10:35:43.273839+00:00
+acceptance_rate: "34.245%"
+collected_at: "2026-04-17T10:35:43.273839+00:00"
 ---
 
 ## 문제

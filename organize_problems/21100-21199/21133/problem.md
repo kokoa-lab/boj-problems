@@ -1,13 +1,13 @@
 ---
-title: N-Queen 2
-special_judge: true
-time_limit: 0.1 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "N-Queen 2"
+special_judge: "true"
+time_limit: "0.1 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 1459
 accepted: 346
 solved_users: 312
-acceptance_rate: 34.705%
-collected_at: 2026-04-17T15:48:39.135856+00:00
+acceptance_rate: "34.705%"
+collected_at: "2026-04-17T15:48:39.135856+00:00"
 ---
 
 ## 문제

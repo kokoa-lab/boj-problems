@@ -1,13 +1,13 @@
 ---
-title: 양갈래 바이러스
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "양갈래 바이러스"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 119
 accepted: 58
 solved_users: 43
-acceptance_rate: 48.864%
-collected_at: 2026-04-17T19:28:56.190576+00:00
+acceptance_rate: "48.864%"
+collected_at: "2026-04-17T19:28:56.190576+00:00"
 ---
 
 ## 문제

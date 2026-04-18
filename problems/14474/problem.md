@@ -1,13 +1,13 @@
 ---
-title: 尾根 (Ridge)
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "尾根 (Ridge)"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 95
 accepted: 54
 solved_users: 48
-acceptance_rate: 62.338%
-collected_at: 2026-04-17T13:35:26.741158+00:00
+acceptance_rate: "62.338%"
+collected_at: "2026-04-17T13:35:26.741158+00:00"
 ---
 
 ## 문제

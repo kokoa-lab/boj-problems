@@ -1,13 +1,13 @@
 ---
-title: 모형 로켓의 높이
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "모형 로켓의 높이"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 133
 accepted: 65
 solved_users: 59
-acceptance_rate: 63.441%
-collected_at: 2026-04-17T10:44:38.179139+00:00
+acceptance_rate: "63.441%"
+collected_at: "2026-04-17T10:44:38.179139+00:00"
 ---
 
 ## 문제

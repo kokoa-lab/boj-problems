@@ -1,13 +1,13 @@
 ---
-title: Graph
-special_judge: true
-time_limit: 2 초
-memory_limit: 256 MB
+title: "Graph"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 144
 accepted: 26
 solved_users: 24
-acceptance_rate: 22.642%
-collected_at: 2026-04-17T12:41:10.579735+00:00
+acceptance_rate: "22.642%"
+collected_at: "2026-04-17T12:41:10.579735+00:00"
 ---
 
 ## 문제

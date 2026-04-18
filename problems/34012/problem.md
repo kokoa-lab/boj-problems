@@ -1,13 +1,13 @@
 ---
-title: DagDag구리
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "DagDag구리"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 211
 accepted: 109
 solved_users: 70
-acceptance_rate: 46.980%
-collected_at: 2026-04-17T20:28:34.148916+00:00
+acceptance_rate: "46.980%"
+collected_at: "2026-04-17T20:28:34.148916+00:00"
 ---
 
 ## 문제

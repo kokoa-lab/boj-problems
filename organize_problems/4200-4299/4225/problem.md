@@ -1,13 +1,13 @@
 ---
-title: 쓰레기 슈트
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "쓰레기 슈트"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 5380
 accepted: 1390
 solved_users: 986
-acceptance_rate: 23.782%
-collected_at: 2026-04-17T10:57:37.601693+00:00
+acceptance_rate: "23.782%"
+collected_at: "2026-04-17T10:57:37.601693+00:00"
 ---
 
 ## 문제

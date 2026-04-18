@@ -1,13 +1,13 @@
 ---
-title: E-Days Ore Cart Pull
-special_judge: false
-time_limit: 1 초
-memory_limit: 2048 MB
+title: "E-Days Ore Cart Pull"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "2048 MB"
 submissions: 959
 accepted: 876
 solved_users: 828
-acceptance_rate: 92.411%
-collected_at: 2026-04-17T20:39:10.344165+00:00
+acceptance_rate: "92.411%"
+collected_at: "2026-04-17T20:39:10.344165+00:00"
 ---
 
 ## 문제

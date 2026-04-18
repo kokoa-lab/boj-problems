@@ -1,13 +1,13 @@
 ---
-title: 사회망 서비스(SNS)
-special_judge: false
-time_limit: 3 초
-memory_limit: 256 MB
+title: "사회망 서비스(SNS)"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "256 MB"
 submissions: 32501
 accepted: 13664
 solved_users: 9272
-acceptance_rate: 39.639%
-collected_at: 2026-04-17T10:42:27.102501+00:00
+acceptance_rate: "39.639%"
+collected_at: "2026-04-17T10:42:27.102501+00:00"
 ---
 
 ## 문제

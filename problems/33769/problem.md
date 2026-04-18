@@ -1,13 +1,13 @@
 ---
-title: Hoof Paper Scissors Minus One
-special_judge: false
-time_limit: 3 초
-memory_limit: 2048 MB
+title: "Hoof Paper Scissors Minus One"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "2048 MB"
 submissions: 237
 accepted: 115
 solved_users: 71
-acceptance_rate: 43.293%
-collected_at: 2026-04-17T20:23:14.602090+00:00
+acceptance_rate: "43.293%"
+collected_at: "2026-04-17T20:23:14.602090+00:00"
 ---
 
 ## 문제

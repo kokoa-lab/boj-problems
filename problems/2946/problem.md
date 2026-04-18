@@ -1,13 +1,13 @@
 ---
-title: 알라딘과 램프
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "알라딘과 램프"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 53
 accepted: 12
 solved_users: 11
-acceptance_rate: 45.833%
-collected_at: 2026-04-17T10:45:51.333292+00:00
+acceptance_rate: "45.833%"
+collected_at: "2026-04-17T10:45:51.333292+00:00"
 ---
 
 ## 문제

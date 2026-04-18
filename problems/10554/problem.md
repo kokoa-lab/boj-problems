@@ -1,13 +1,13 @@
 ---
-title: COCI
-special_judge: false
-time_limit: 1 초
-memory_limit: 32 MB
+title: "COCI"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "32 MB"
 submissions: 96
 accepted: 31
 solved_users: 28
-acceptance_rate: 32.558%
-collected_at: 2026-04-17T12:25:34.397795+00:00
+acceptance_rate: "32.558%"
+collected_at: "2026-04-17T12:25:34.397795+00:00"
 ---
 
 ## 문제

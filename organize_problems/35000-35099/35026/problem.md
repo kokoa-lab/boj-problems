@@ -1,13 +1,13 @@
 ---
-title: Infection Investigation
-special_judge: true
-time_limit: 3 초
-memory_limit: 2048 MB
+title: "Infection Investigation"
+special_judge: "true"
+time_limit: "3 초"
+memory_limit: "2048 MB"
 submissions: 37
 accepted: 11
 solved_users: 7
-acceptance_rate: 26.923%
-collected_at: 2026-04-17T20:54:13.554641+00:00
+acceptance_rate: "26.923%"
+collected_at: "2026-04-17T20:54:13.554641+00:00"
 ---
 
 ## 문제

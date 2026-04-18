@@ -1,13 +1,13 @@
 ---
-title: 가장 높고 넓은 성
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "가장 높고 넓은 성"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 1010
 accepted: 440
 solved_users: 369
-acceptance_rate: 42.512%
-collected_at: 2026-04-17T14:38:41.154030+00:00
+acceptance_rate: "42.512%"
+collected_at: "2026-04-17T14:38:41.154030+00:00"
 ---
 
 ## 문제

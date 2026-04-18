@@ -1,13 +1,13 @@
 ---
-title: Dice Encryption Algorithm
-special_judge: false
-time_limit: 3 초 (추가 시간 없음)
-memory_limit: 2048 MB
+title: "Dice Encryption Algorithm"
+special_judge: "false"
+time_limit: "3 초 (추가 시간 없음)"
+memory_limit: "2048 MB"
 submissions: 64
 accepted: 9
 solved_users: 5
-acceptance_rate: 8.929%
-collected_at: 2026-04-17T20:13:19.999658+00:00
+acceptance_rate: "8.929%"
+collected_at: "2026-04-17T20:13:19.999658+00:00"
 ---
 
 ## 문제

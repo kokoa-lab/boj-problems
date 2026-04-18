@@ -1,13 +1,13 @@
 ---
-title: 선물
-special_judge: true
-time_limit: 2 초
-memory_limit: 128 MB
+title: "선물"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 9865
 accepted: 2669
 solved_users: 1881
-acceptance_rate: 25.103%
-collected_at: 2026-04-17T10:28:34.730425+00:00
+acceptance_rate: "25.103%"
+collected_at: "2026-04-17T10:28:34.730425+00:00"
 ---
 
 ## 문제

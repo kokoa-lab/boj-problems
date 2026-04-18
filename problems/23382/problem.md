@@ -1,13 +1,13 @@
 ---
-title: Hamiltooonian Hike
-special_judge: true
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Hamiltooonian Hike"
+special_judge: "true"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 147
 accepted: 74
 solved_users: 68
-acceptance_rate: 53.968%
-collected_at: 2026-04-17T16:47:08.395003+00:00
+acceptance_rate: "53.968%"
+collected_at: "2026-04-17T16:47:08.395003+00:00"
 ---
 
 ## 문제

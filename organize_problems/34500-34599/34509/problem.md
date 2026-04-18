@@ -1,13 +1,13 @@
 ---
-title: 2, 4, 6, 8
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "2, 4, 6, 8"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 1584
 accepted: 1278
 solved_users: 1153
-acceptance_rate: 82.240%
-collected_at: 2026-04-17T20:41:31.301715+00:00
+acceptance_rate: "82.240%"
+collected_at: "2026-04-17T20:41:31.301715+00:00"
 ---
 
 ## 문제

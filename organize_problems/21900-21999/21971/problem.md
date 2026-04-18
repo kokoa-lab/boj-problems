@@ -1,13 +1,13 @@
 ---
-title: Table Tennis
-special_judge: true
-time_limit: 3 초
-memory_limit: 512 MB
+title: "Table Tennis"
+special_judge: "true"
+time_limit: "3 초"
+memory_limit: "512 MB"
 submissions: 138
 accepted: 13
 solved_users: 5
-acceptance_rate: 9.615%
-collected_at: 2026-04-17T16:10:49.697225+00:00
+acceptance_rate: "9.615%"
+collected_at: "2026-04-17T16:10:49.697225+00:00"
 ---
 
 ## 문제

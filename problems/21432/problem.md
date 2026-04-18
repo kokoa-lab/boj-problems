@@ -1,13 +1,13 @@
 ---
-title: Нефть
-special_judge: true
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Нефть"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 147
 accepted: 66
 solved_users: 62
-acceptance_rate: 44.604%
-collected_at: 2026-04-17T15:58:12.918262+00:00
+acceptance_rate: "44.604%"
+collected_at: "2026-04-17T15:58:12.918262+00:00"
 ---
 
 ## 문제

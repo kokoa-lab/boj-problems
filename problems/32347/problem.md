@@ -1,13 +1,13 @@
 ---
-title: 시간을 돌리고 싶어
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "시간을 돌리고 싶어"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 878
 accepted: 289
 solved_users: 237
-acceptance_rate: 34.199%
-collected_at: 2026-04-17T19:49:21.469590+00:00
+acceptance_rate: "34.199%"
+collected_at: "2026-04-17T19:49:21.469590+00:00"
 ---
 
 ## 문제

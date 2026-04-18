@@ -1,13 +1,13 @@
 ---
-title: Perfect Cube
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Perfect Cube"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 733
 accepted: 548
 solved_users: 489
-acceptance_rate: 76.050%
-collected_at: 2026-04-17T12:13:37.701966+00:00
+acceptance_rate: "76.050%"
+collected_at: "2026-04-17T12:13:37.701966+00:00"
 ---
 
 ## 문제

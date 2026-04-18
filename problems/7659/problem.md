@@ -1,13 +1,13 @@
 ---
-title: Rubik 2^3
-special_judge: true
-time_limit: 10 초
-memory_limit: 1024 MB
+title: "Rubik 2^3"
+special_judge: "true"
+time_limit: "10 초"
+memory_limit: "1024 MB"
 submissions: 104
 accepted: 26
 solved_users: 15
-acceptance_rate: 16.484%
-collected_at: 2026-04-17T11:51:40.461505+00:00
+acceptance_rate: "16.484%"
+collected_at: "2026-04-17T11:51:40.461505+00:00"
 ---
 
 ## 문제

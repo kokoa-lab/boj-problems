@@ -1,13 +1,13 @@
 ---
-title: Hundraelva kronor
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Hundraelva kronor"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 89
 accepted: 68
 solved_users: 60
-acceptance_rate: 76.923%
-collected_at: 2026-04-17T15:56:47.759750+00:00
+acceptance_rate: "76.923%"
+collected_at: "2026-04-17T15:56:47.759750+00:00"
 ---
 
 ## 문제

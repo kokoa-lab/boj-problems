@@ -1,13 +1,13 @@
 ---
-title: 가장 큰 L
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "가장 큰 L"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 71
 accepted: 29
 solved_users: 19
-acceptance_rate: 48.718%
-collected_at: 2026-04-17T10:37:24.640719+00:00
+acceptance_rate: "48.718%"
+collected_at: "2026-04-17T10:37:24.640719+00:00"
 ---
 
 ## 문제

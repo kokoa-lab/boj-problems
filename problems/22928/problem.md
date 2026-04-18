@@ -1,13 +1,13 @@
 ---
-title: Permutation CFG
-special_judge: false
-time_limit: 4 초
-memory_limit: 2048 MB (추가 메모리 없음)
+title: "Permutation CFG"
+special_judge: "false"
+time_limit: "4 초"
+memory_limit: "2048 MB (추가 메모리 없음)"
 submissions: 25
 accepted: 7
 solved_users: 7
-acceptance_rate: 30.435%
-collected_at: 2026-04-17T16:38:52.539020+00:00
+acceptance_rate: "30.435%"
+collected_at: "2026-04-17T16:38:52.539020+00:00"
 ---
 
 ## 문제

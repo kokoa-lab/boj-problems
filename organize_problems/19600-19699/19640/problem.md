@@ -1,13 +1,13 @@
 ---
-title: 화장실의 규칙
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "화장실의 규칙"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 2067
 accepted: 779
 solved_users: 627
-acceptance_rate: 37.862%
-collected_at: 2026-04-17T15:25:48.135262+00:00
+acceptance_rate: "37.862%"
+collected_at: "2026-04-17T15:25:48.135262+00:00"
 ---
 
 ## 문제

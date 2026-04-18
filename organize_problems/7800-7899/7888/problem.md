@@ -1,13 +1,13 @@
 ---
-title: 두 교수
-special_judge: false
-time_limit: 3 초
-memory_limit: 128 MB
+title: "두 교수"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "128 MB"
 submissions: 244
 accepted: 53
 solved_users: 24
-acceptance_rate: 28.235%
-collected_at: 2026-04-17T11:53:48.249822+00:00
+acceptance_rate: "28.235%"
+collected_at: "2026-04-17T11:53:48.249822+00:00"
 ---
 
 ## 문제

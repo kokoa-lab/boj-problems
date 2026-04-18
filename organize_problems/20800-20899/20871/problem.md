@@ -1,13 +1,13 @@
 ---
-title: Vilse i tidtabellen
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Vilse i tidtabellen"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 13
 accepted: 3
 solved_users: 3
-acceptance_rate: 25.000%
-collected_at: 2026-04-17T15:42:32.632779+00:00
+acceptance_rate: "25.000%"
+collected_at: "2026-04-17T15:42:32.632779+00:00"
 ---
 
 ## 문제

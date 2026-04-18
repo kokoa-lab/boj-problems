@@ -1,13 +1,13 @@
 ---
-title: Нюхли в министерстве
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Нюхли в министерстве"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 30
 accepted: 12
 solved_users: 8
-acceptance_rate: 38.095%
-collected_at: 2026-04-17T18:33:04.680592+00:00
+acceptance_rate: "38.095%"
+collected_at: "2026-04-17T18:33:04.680592+00:00"
 ---
 
 ## 문제

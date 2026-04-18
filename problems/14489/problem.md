@@ -1,13 +1,13 @@
 ---
-title: 치킨 두 마리 (...)
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "치킨 두 마리 (...)"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 12617
 accepted: 7486
 solved_users: 7093
-acceptance_rate: 59.897%
-collected_at: 2026-04-17T13:36:15.517684+00:00
+acceptance_rate: "59.897%"
+collected_at: "2026-04-17T13:36:15.517684+00:00"
 ---
 
 ## 문제

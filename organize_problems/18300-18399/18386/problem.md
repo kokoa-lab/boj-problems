@@ -1,13 +1,13 @@
 ---
-title: BNKQ
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "BNKQ"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 18
 accepted: 12
 solved_users: 11
-acceptance_rate: 64.706%
-collected_at: 2026-04-18T09:50:54.603543+00:00
+acceptance_rate: "64.706%"
+collected_at: "2026-04-18T09:50:54.603543+00:00"
 ---
 
 ## 문제

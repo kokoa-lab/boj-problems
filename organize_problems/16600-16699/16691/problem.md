@@ -1,13 +1,13 @@
 ---
-title: House Numbers
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 512 MB (추가 메모리 없음)
+title: "House Numbers"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "512 MB (추가 메모리 없음)"
 submissions: 127
 accepted: 93
 solved_users: 81
-acceptance_rate: 79.412%
-collected_at: 2026-04-17T14:22:27.973899+00:00
+acceptance_rate: "79.412%"
+collected_at: "2026-04-17T14:22:27.973899+00:00"
 ---
 
 ## 문제

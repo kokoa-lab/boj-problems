@@ -1,13 +1,13 @@
 ---
-title: Manhattan Mornings
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Manhattan Mornings"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 186
 accepted: 98
 solved_users: 82
-acceptance_rate: 59.854%
-collected_at: 2026-04-17T13:48:18.112860+00:00
+acceptance_rate: "59.854%"
+collected_at: "2026-04-17T13:48:18.112860+00:00"
 ---
 
 ## 문제

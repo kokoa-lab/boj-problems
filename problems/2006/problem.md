@@ -1,13 +1,13 @@
 ---
-title: Chemistry 101
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Chemistry 101"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 131
 accepted: 47
 solved_users: 44
-acceptance_rate: 41.509%
-collected_at: 2026-04-17T10:36:57.595946+00:00
+acceptance_rate: "41.509%"
+collected_at: "2026-04-17T10:36:57.595946+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Archaeological Digs
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Archaeological Digs"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 185
 accepted: 111
 solved_users: 99
-acceptance_rate: 66.443%
-collected_at: 2026-04-17T11:11:24.935928+00:00
+acceptance_rate: "66.443%"
+collected_at: "2026-04-17T11:11:24.935928+00:00"
 ---
 
 ## 문제

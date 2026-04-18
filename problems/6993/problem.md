@@ -1,13 +1,13 @@
 ---
-title: Shift Letters
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Shift Letters"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 277
 accepted: 222
 solved_users: 197
-acceptance_rate: 81.405%
-collected_at: 2026-04-17T11:42:13.051463+00:00
+acceptance_rate: "81.405%"
+collected_at: "2026-04-17T11:42:13.051463+00:00"
 ---
 
 ## 문제

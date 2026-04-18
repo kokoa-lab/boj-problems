@@ -1,13 +1,13 @@
 ---
-title: San
-special_judge: false
-time_limit: 1 초
-memory_limit: 64 MB
+title: "San"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "64 MB"
 submissions: 132
 accepted: 51
 solved_users: 44
-acceptance_rate: 41.509%
-collected_at: 2026-04-17T13:57:07.942606+00:00
+acceptance_rate: "41.509%"
+collected_at: "2026-04-17T13:57:07.942606+00:00"
 ---
 
 ## 문제

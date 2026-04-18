@@ -1,13 +1,13 @@
 ---
-title: Count on Canton
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Count on Canton"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 347
 accepted: 205
 solved_users: 171
-acceptance_rate: 65.019%
-collected_at: 2026-04-17T10:52:02.376404+00:00
+acceptance_rate: "65.019%"
+collected_at: "2026-04-17T10:52:02.376404+00:00"
 ---
 
 ## 문제

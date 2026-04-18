@@ -1,13 +1,13 @@
 ---
-title: Suffix reconstruction
-special_judge: true
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Suffix reconstruction"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 12
 accepted: 5
 solved_users: 5
-acceptance_rate: 41.667%
-collected_at: 2026-04-17T11:53:47.079624+00:00
+acceptance_rate: "41.667%"
+collected_at: "2026-04-17T11:53:47.079624+00:00"
 ---
 
 ## 문제

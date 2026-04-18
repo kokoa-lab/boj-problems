@@ -1,13 +1,13 @@
 ---
-title: 매력있는 울타리
-special_judge: true
-time_limit: 1 초
-memory_limit: 128 MB
+title: "매력있는 울타리"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 267
 accepted: 105
 solved_users: 86
-acceptance_rate: 35.983%
-collected_at: 2026-04-17T10:45:03.818413+00:00
+acceptance_rate: "35.983%"
+collected_at: "2026-04-17T10:45:03.818413+00:00"
 ---
 
 ## 문제

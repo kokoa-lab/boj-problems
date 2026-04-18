@@ -1,13 +1,13 @@
 ---
-title: Tecle & Some
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Tecle & Some"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 2
 accepted: 1
 solved_users: 1
-acceptance_rate: 100.000%
-collected_at: 2026-04-17T13:17:27.876099+00:00
+acceptance_rate: "100.000%"
+collected_at: "2026-04-17T13:17:27.876099+00:00"
 ---
 
 ## 문제

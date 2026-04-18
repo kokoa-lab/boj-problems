@@ -1,13 +1,13 @@
 ---
-title: Workout for a Dumbbell
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Workout for a Dumbbell"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 59
 accepted: 28
 solved_users: 25
-acceptance_rate: 53.191%
-collected_at: 2026-04-17T13:50:37.438649+00:00
+acceptance_rate: "53.191%"
+collected_at: "2026-04-17T13:50:37.438649+00:00"
 ---
 
 ## 문제

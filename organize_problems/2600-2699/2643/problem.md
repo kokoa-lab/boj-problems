@@ -1,13 +1,13 @@
 ---
-title: 색종이 올려 놓기
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "색종이 올려 놓기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 6663
 accepted: 2399
 solved_users: 1872
-acceptance_rate: 36.843%
-collected_at: 2026-04-17T10:43:34.494478+00:00
+acceptance_rate: "36.843%"
+collected_at: "2026-04-17T10:43:34.494478+00:00"
 ---
 
 ## 문제

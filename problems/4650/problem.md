@@ -1,13 +1,13 @@
 ---
-title: Jungle Roads
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Jungle Roads"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 227
 accepted: 181
 solved_users: 162
-acceptance_rate: 82.234%
-collected_at: 2026-04-17T11:06:38.175061+00:00
+acceptance_rate: "82.234%"
+collected_at: "2026-04-17T11:06:38.175061+00:00"
 ---
 
 ## 문제

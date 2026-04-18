@@ -1,13 +1,13 @@
 ---
-title: Chairs
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Chairs"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 54
 accepted: 33
 solved_users: 26
-acceptance_rate: 63.415%
-collected_at: 2026-04-17T16:17:56.642415+00:00
+acceptance_rate: "63.415%"
+collected_at: "2026-04-17T16:17:56.642415+00:00"
 ---
 
 ## 문제

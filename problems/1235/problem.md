@@ -1,13 +1,13 @@
 ---
-title: 학생 번호
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "학생 번호"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 9169
 accepted: 4608
 solved_users: 4040
-acceptance_rate: 51.250%
-collected_at: 2026-04-17T10:29:00.304587+00:00
+acceptance_rate: "51.250%"
+collected_at: "2026-04-17T10:29:00.304587+00:00"
 ---
 
 ## 문제

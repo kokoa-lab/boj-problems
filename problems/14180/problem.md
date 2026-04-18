@@ -1,13 +1,13 @@
 ---
-title: 배열의 특징
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "배열의 특징"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 532
 accepted: 193
 solved_users: 157
-acceptance_rate: 34.967%
-collected_at: 2026-04-17T13:27:31.502709+00:00
+acceptance_rate: "34.967%"
+collected_at: "2026-04-17T13:27:31.502709+00:00"
 ---
 
 ## 문제

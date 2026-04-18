@@ -1,13 +1,13 @@
 ---
-title: 트리와 쿼리 4
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "트리와 쿼리 4"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 1656
 accepted: 243
 solved_users: 145
-acceptance_rate: 12.185%
-collected_at: 2026-04-17T13:14:20.787815+00:00
+acceptance_rate: "12.185%"
+collected_at: "2026-04-17T13:14:20.787815+00:00"
 ---
 
 ## 문제

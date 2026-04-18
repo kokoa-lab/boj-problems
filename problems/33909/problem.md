@@ -1,13 +1,13 @@
 ---
-title: 알파벳 블록
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "알파벳 블록"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 713
 accepted: 523
 solved_users: 450
-acceptance_rate: 75.758%
-collected_at: 2026-04-17T20:26:05.505075+00:00
+acceptance_rate: "75.758%"
+collected_at: "2026-04-17T20:26:05.505075+00:00"
 ---
 
 ## 문제

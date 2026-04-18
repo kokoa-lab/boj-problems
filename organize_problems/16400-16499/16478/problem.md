@@ -1,13 +1,13 @@
 ---
-title: 원의 분할
-special_judge: true
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "원의 분할"
+special_judge: "true"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 1436
 accepted: 970
 solved_users: 877
-acceptance_rate: 72.241%
-collected_at: 2026-04-17T14:18:44.241925+00:00
+acceptance_rate: "72.241%"
+collected_at: "2026-04-17T14:18:44.241925+00:00"
 ---
 
 ## 문제

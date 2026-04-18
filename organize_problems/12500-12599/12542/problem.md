@@ -1,13 +1,13 @@
 ---
-title: Building a House (Large)
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Building a House (Large)"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 73
 accepted: 62
 solved_users: 56
-acceptance_rate: 84.848%
-collected_at: 2026-04-17T12:57:07.114024+00:00
+acceptance_rate: "84.848%"
+collected_at: "2026-04-17T12:57:07.114024+00:00"
 ---
 
 ## 문제

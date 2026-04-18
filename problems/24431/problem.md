@@ -1,13 +1,13 @@
 ---
-title: 유사 라임 게임
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "유사 라임 게임"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 465
 accepted: 346
 solved_users: 259
-acceptance_rate: 74.425%
-collected_at: 2026-04-17T17:09:18.285730+00:00
+acceptance_rate: "74.425%"
+collected_at: "2026-04-17T17:09:18.285730+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Permutation Period
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Permutation Period"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 225
 accepted: 33
 solved_users: 20
-acceptance_rate: 11.364%
-collected_at: 2026-04-17T14:24:49.015416+00:00
+acceptance_rate: "11.364%"
+collected_at: "2026-04-17T14:24:49.015416+00:00"
 ---
 
 ## 문제

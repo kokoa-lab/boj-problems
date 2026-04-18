@@ -1,13 +1,13 @@
 ---
-title: I번은 쉬운 문제
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "I번은 쉬운 문제"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 388
 accepted: 176
 solved_users: 151
-acceptance_rate: 45.345%
-collected_at: 2026-04-17T15:37:14.419050+00:00
+acceptance_rate: "45.345%"
+collected_at: "2026-04-17T15:37:14.419050+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Euclid
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Euclid"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 573
 accepted: 481
 solved_users: 452
-acceptance_rate: 85.283%
-collected_at: 2026-04-17T12:16:04.732291+00:00
+acceptance_rate: "85.283%"
+collected_at: "2026-04-17T12:16:04.732291+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Die Hard
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Die Hard"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 118
 accepted: 90
 solved_users: 89
-acceptance_rate: 77.391%
-collected_at: 2026-04-17T19:06:41.411907+00:00
+acceptance_rate: "77.391%"
+collected_at: "2026-04-17T19:06:41.411907+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Inner Product
-special_judge: true
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Inner Product"
+special_judge: "true"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 115
 accepted: 16
 solved_users: 11
-acceptance_rate: 22.449%
-collected_at: 2026-04-17T14:36:56.212250+00:00
+acceptance_rate: "22.449%"
+collected_at: "2026-04-17T14:36:56.212250+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Pyro Tubes
-special_judge: false
-time_limit: 13 초
-memory_limit: 256 MB
+title: "Pyro Tubes"
+special_judge: "false"
+time_limit: "13 초"
+memory_limit: "256 MB"
 submissions: 124
 accepted: 73
 solved_users: 41
-acceptance_rate: 50.000%
-collected_at: 2026-04-17T12:41:58.608601+00:00
+acceptance_rate: "50.000%"
+collected_at: "2026-04-17T12:41:58.608601+00:00"
 ---
 
 ## 문제

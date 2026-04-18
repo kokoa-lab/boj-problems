@@ -1,13 +1,13 @@
 ---
-title: 최대공약수 맞추기 게임
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "최대공약수 맞추기 게임"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 256
 accepted: 88
 solved_users: 65
-acceptance_rate: 46.429%
-collected_at: 2026-04-17T10:49:19.958504+00:00
+acceptance_rate: "46.429%"
+collected_at: "2026-04-17T10:49:19.958504+00:00"
 ---
 
 ## 문제

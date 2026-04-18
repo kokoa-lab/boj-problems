@@ -1,13 +1,13 @@
 ---
-title: Рыцарский щит
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Рыцарский щит"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 177
 accepted: 152
 solved_users: 141
-acceptance_rate: 85.976%
-collected_at: 2026-04-17T15:37:05.293058+00:00
+acceptance_rate: "85.976%"
+collected_at: "2026-04-17T15:37:05.293058+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Explosion
-special_judge: true
-time_limit: 3 초
-memory_limit: 512 MB
+title: "Explosion"
+special_judge: "true"
+time_limit: "3 초"
+memory_limit: "512 MB"
 submissions: 280
 accepted: 8
 solved_users: 5
-acceptance_rate: 3.086%
-collected_at: 2026-04-17T14:42:32.918182+00:00
+acceptance_rate: "3.086%"
+collected_at: "2026-04-17T14:42:32.918182+00:00"
 ---
 
 ## 문제

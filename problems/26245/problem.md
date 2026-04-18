@@ -1,13 +1,13 @@
 ---
-title: Virus
-special_judge: true
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Virus"
+special_judge: "true"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 13
 accepted: 10
 solved_users: 10
-acceptance_rate: 76.923%
-collected_at: 2026-04-17T17:42:28.973689+00:00
+acceptance_rate: "76.923%"
+collected_at: "2026-04-17T17:42:28.973689+00:00"
 ---
 
 ## 문제

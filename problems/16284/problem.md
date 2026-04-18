@@ -1,13 +1,13 @@
 ---
-title: Lucid Strings
-special_judge: false
-time_limit: 0.5 초
-memory_limit: 512 MB
+title: "Lucid Strings"
+special_judge: "false"
+time_limit: "0.5 초"
+memory_limit: "512 MB"
 submissions: 177
 accepted: 20
 solved_users: 4
-acceptance_rate: 6.250%
-collected_at: 2026-04-17T14:14:59.732388+00:00
+acceptance_rate: "6.250%"
+collected_at: "2026-04-17T14:14:59.732388+00:00"
 ---
 
 ## 문제

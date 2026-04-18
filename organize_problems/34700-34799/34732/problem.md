@@ -1,13 +1,13 @@
 ---
-title: Ananna
-special_judge: false
-time_limit: 0.5 초
-memory_limit: 2048 MB
+title: "Ananna"
+special_judge: "false"
+time_limit: "0.5 초"
+memory_limit: "2048 MB"
 submissions: 49
 accepted: 17
 solved_users: 13
-acceptance_rate: 32.500%
-collected_at: 2026-04-17T20:47:19.090303+00:00
+acceptance_rate: "32.500%"
+collected_at: "2026-04-17T20:47:19.090303+00:00"
 ---
 
 ## 문제

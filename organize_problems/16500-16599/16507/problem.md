@@ -1,13 +1,13 @@
 ---
-title: 어두운 건 무서워
-special_judge: false
-time_limit: 1 초  ( 하단 참고 )
-memory_limit: 512 MB
+title: "어두운 건 무서워"
+special_judge: "false"
+time_limit: "1 초  ( 하단 참고 )"
+memory_limit: "512 MB"
 submissions: 3743
 accepted: 2378
 solved_users: 2039
-acceptance_rate: 65.563%
-collected_at: 2026-04-17T14:19:10.739307+00:00
+acceptance_rate: "65.563%"
+collected_at: "2026-04-17T14:19:10.739307+00:00"
 ---
 
 ## 문제

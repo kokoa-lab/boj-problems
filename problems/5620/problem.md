@@ -1,13 +1,13 @@
 ---
-title: 가장 가까운 두 점의 거리
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "가장 가까운 두 점의 거리"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 3759
 accepted: 1321
 solved_users: 835
-acceptance_rate: 44.203%
-collected_at: 2026-04-17T11:16:02.680915+00:00
+acceptance_rate: "44.203%"
+collected_at: "2026-04-17T11:16:02.680915+00:00"
 ---
 
 ## 문제

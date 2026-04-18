@@ -1,13 +1,13 @@
 ---
-title: Kingdom Subdivision
-special_judge: true
-time_limit: 2 초
-memory_limit: 256 MB
+title: "Kingdom Subdivision"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 7
 accepted: 1
 solved_users: 1
-acceptance_rate: 33.333%
-collected_at: 2026-04-17T11:52:53.843374+00:00
+acceptance_rate: "33.333%"
+collected_at: "2026-04-17T11:52:53.843374+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 프로도의 100일 준비
-special_judge: false
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "프로도의 100일 준비"
+special_judge: "false"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 618
 accepted: 74
 solved_users: 49
-acceptance_rate: 23.113%
-collected_at: 2026-04-17T14:09:13.789760+00:00
+acceptance_rate: "23.113%"
+collected_at: "2026-04-17T14:09:13.789760+00:00"
 ---
 
 ## 문제

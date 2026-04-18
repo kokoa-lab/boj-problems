@@ -1,13 +1,13 @@
 ---
-title: Hop — Don’t Walk!
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Hop — Don’t Walk!"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 54
 accepted: 24
 solved_users: 20
-acceptance_rate: 44.444%
-collected_at: 2026-04-17T11:09:46.598599+00:00
+acceptance_rate: "44.444%"
+collected_at: "2026-04-17T11:09:46.598599+00:00"
 ---
 
 ## 문제

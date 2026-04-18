@@ -1,13 +1,13 @@
 ---
-title: Ancient symbol
-special_judge: false
-time_limit: 1 초
-memory_limit: 2 MB
+title: "Ancient symbol"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "2 MB"
 submissions: 916
 accepted: 471
 solved_users: 429
-acceptance_rate: 55.787%
-collected_at: 2026-04-17T12:31:10.416767+00:00
+acceptance_rate: "55.787%"
+collected_at: "2026-04-17T12:31:10.416767+00:00"
 ---
 
 ## 문제

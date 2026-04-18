@@ -1,13 +1,13 @@
 ---
-title: Pantun Grader
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Pantun Grader"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 68
 accepted: 12
 solved_users: 10
-acceptance_rate: 30.303%
-collected_at: 2026-04-17T12:22:35.054121+00:00
+acceptance_rate: "30.303%"
+collected_at: "2026-04-17T12:22:35.054121+00:00"
 ---
 
 ## 문제

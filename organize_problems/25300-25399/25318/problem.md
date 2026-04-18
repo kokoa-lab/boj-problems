@@ -1,13 +1,13 @@
 ---
-title: solved.ac 2022
-special_judge: true
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "solved.ac 2022"
+special_judge: "true"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 1218
 accepted: 371
 solved_users: 307
-acceptance_rate: 32.147%
-collected_at: 2026-04-17T17:24:41.009803+00:00
+acceptance_rate: "32.147%"
+collected_at: "2026-04-17T17:24:41.009803+00:00"
 ---
 
 ## 문제

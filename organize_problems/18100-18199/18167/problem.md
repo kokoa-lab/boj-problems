@@ -1,13 +1,13 @@
 ---
-title: Functional Analysis
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Functional Analysis"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 52
 accepted: 5
 solved_users: 5
-acceptance_rate: 19.231%
-collected_at: 2026-04-17T14:56:42.056702+00:00
+acceptance_rate: "19.231%"
+collected_at: "2026-04-17T14:56:42.056702+00:00"
 ---
 
 ## 문제

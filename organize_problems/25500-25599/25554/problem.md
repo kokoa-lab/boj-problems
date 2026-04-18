@@ -1,13 +1,13 @@
 ---
-title: 포닉스의 신비한 분자 보고서
-special_judge: true
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "포닉스의 신비한 분자 보고서"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 60
 accepted: 21
 solved_users: 20
-acceptance_rate: 37.037%
-collected_at: 2026-04-17T17:28:39.123057+00:00
+acceptance_rate: "37.037%"
+collected_at: "2026-04-17T17:28:39.123057+00:00"
 ---
 
 ## 문제

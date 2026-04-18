@@ -1,13 +1,13 @@
 ---
-title: 이런 반전이
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "이런 반전이"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 3085
 accepted: 993
 solved_users: 836
-acceptance_rate: 35.349%
-collected_at: 2026-04-17T12:48:04.383628+00:00
+acceptance_rate: "35.349%"
+collected_at: "2026-04-17T12:48:04.383628+00:00"
 ---
 
 ## 문제

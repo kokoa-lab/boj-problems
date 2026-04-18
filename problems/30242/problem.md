@@ -1,13 +1,13 @@
 ---
-title: 🧩 N-Queen (Easy)
-special_judge: true
-time_limit: 0.5 초
-memory_limit: 512 MB
+title: "🧩 N-Queen (Easy)"
+special_judge: "true"
+time_limit: "0.5 초"
+memory_limit: "512 MB"
 submissions: 544
 accepted: 226
 solved_users: 128
-acceptance_rate: 38.554%
-collected_at: 2026-04-17T19:01:34.710205+00:00
+acceptance_rate: "38.554%"
+collected_at: "2026-04-17T19:01:34.710205+00:00"
 ---
 
 ## 문제

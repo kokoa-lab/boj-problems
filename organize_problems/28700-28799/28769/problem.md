@@ -1,13 +1,13 @@
 ---
-title: Ловушка для Джерри
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Ловушка для Джерри"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 15
 accepted: 11
 solved_users: 11
-acceptance_rate: 73.333%
-collected_at: 2026-04-17T18:32:06.380172+00:00
+acceptance_rate: "73.333%"
+collected_at: "2026-04-17T18:32:06.380172+00:00"
 ---
 
 ## 문제

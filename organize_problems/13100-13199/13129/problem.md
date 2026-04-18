@@ -1,13 +1,13 @@
 ---
-title: Disposable Cup
-special_judge: false
-time_limit: 1 초
-memory_limit: 32 MB
+title: "Disposable Cup"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "32 MB"
 submissions: 926
 accepted: 711
 solved_users: 649
-acceptance_rate: 78.954%
-collected_at: 2026-04-17T13:07:51.044076+00:00
+acceptance_rate: "78.954%"
+collected_at: "2026-04-17T13:07:51.044076+00:00"
 ---
 
 ## 문제

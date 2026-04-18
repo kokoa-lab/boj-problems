@@ -1,13 +1,13 @@
 ---
-title: Hanging Hats
-special_judge: false
-time_limit: 3 초
-memory_limit: 128 MB
+title: "Hanging Hats"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "128 MB"
 submissions: 75
 accepted: 15
 solved_users: 11
-acceptance_rate: 22.449%
-collected_at: 2026-04-17T10:48:51.834801+00:00
+acceptance_rate: "22.449%"
+collected_at: "2026-04-17T10:48:51.834801+00:00"
 ---
 
 ## 문제

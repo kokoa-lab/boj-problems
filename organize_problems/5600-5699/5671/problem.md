@@ -1,13 +1,13 @@
 ---
-title: 호텔 방 번호
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "호텔 방 번호"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 3725
 accepted: 2142
 solved_users: 1803
-acceptance_rate: 58.425%
-collected_at: 2026-04-17T11:16:28.662477+00:00
+acceptance_rate: "58.425%"
+collected_at: "2026-04-17T11:16:28.662477+00:00"
 ---
 
 ## 문제

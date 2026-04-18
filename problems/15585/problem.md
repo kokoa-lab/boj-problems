@@ -1,13 +1,13 @@
 ---
-title: Sprinklers
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Sprinklers"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 60
 accepted: 36
 solved_users: 30
-acceptance_rate: 58.824%
-collected_at: 2026-04-17T14:02:04.184302+00:00
+acceptance_rate: "58.824%"
+collected_at: "2026-04-17T14:02:04.184302+00:00"
 ---
 
 ## 문제

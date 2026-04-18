@@ -1,13 +1,13 @@
 ---
-title: Ложки
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Ложки"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 496
 accepted: 199
 solved_users: 173
-acceptance_rate: 38.530%
-collected_at: 2026-04-17T19:16:43.035330+00:00
+acceptance_rate: "38.530%"
+collected_at: "2026-04-17T19:16:43.035330+00:00"
 ---
 
 ## 문제

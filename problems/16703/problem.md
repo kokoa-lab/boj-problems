@@ -1,13 +1,13 @@
 ---
-title: Matrice
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Matrice"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 79
 accepted: 67
 solved_users: 62
-acceptance_rate: 89.855%
-collected_at: 2026-04-17T14:22:44.463129+00:00
+acceptance_rate: "89.855%"
+collected_at: "2026-04-17T14:22:44.463129+00:00"
 ---
 
 ## 문제

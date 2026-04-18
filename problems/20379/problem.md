@@ -1,13 +1,13 @@
 ---
-title: Deer Me
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "Deer Me"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 80
 accepted: 18
 solved_users: 15
-acceptance_rate: 21.429%
-collected_at: 2026-04-17T15:35:47.770298+00:00
+acceptance_rate: "21.429%"
+collected_at: "2026-04-17T15:35:47.770298+00:00"
 ---
 
 ## 문제

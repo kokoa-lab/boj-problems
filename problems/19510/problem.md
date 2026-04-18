@@ -1,13 +1,13 @@
 ---
-title: Easy Homework
-special_judge: false
-time_limit: 1.5 초
-memory_limit: 256 MB
+title: "Easy Homework"
+special_judge: "false"
+time_limit: "1.5 초"
+memory_limit: "256 MB"
 submissions: 131
 accepted: 22
 solved_users: 9
-acceptance_rate: 12.857%
-collected_at: 2026-04-17T15:21:39.173561+00:00
+acceptance_rate: "12.857%"
+collected_at: "2026-04-17T15:21:39.173561+00:00"
 ---
 
 ## 문제

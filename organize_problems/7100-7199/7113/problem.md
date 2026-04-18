@@ -1,13 +1,13 @@
 ---
-title: Rectangle
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Rectangle"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 616
 accepted: 367
 solved_users: 307
-acceptance_rate: 60.552%
-collected_at: 2026-04-17T11:45:00.507448+00:00
+acceptance_rate: "60.552%"
+collected_at: "2026-04-17T11:45:00.507448+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Red Black Tree
-special_judge: false
-time_limit: 4 초
-memory_limit: 512 MB
+title: "Red Black Tree"
+special_judge: "false"
+time_limit: "4 초"
+memory_limit: "512 MB"
 submissions: 76
 accepted: 16
 solved_users: 15
-acceptance_rate: 39.474%
-collected_at: 2026-04-17T14:10:28.383082+00:00
+acceptance_rate: "39.474%"
+collected_at: "2026-04-17T14:10:28.383082+00:00"
 ---
 
 ## 문제

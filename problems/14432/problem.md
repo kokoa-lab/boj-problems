@@ -1,13 +1,13 @@
 ---
-title: 우물
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "우물"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 298
 accepted: 183
 solved_users: 132
-acceptance_rate: 60.829%
-collected_at: 2026-04-17T13:33:13.224185+00:00
+acceptance_rate: "60.829%"
+collected_at: "2026-04-17T13:33:13.224185+00:00"
 ---
 
 ## 문제

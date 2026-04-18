@@ -1,13 +1,13 @@
 ---
-title: 체스판 여행 1
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "체스판 여행 1"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 1736
 accepted: 783
 solved_users: 521
-acceptance_rate: 42.496%
-collected_at: 2026-04-17T14:26:47.818448+00:00
+acceptance_rate: "42.496%"
+collected_at: "2026-04-17T14:26:47.818448+00:00"
 ---
 
 ## 문제

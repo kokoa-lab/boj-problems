@@ -1,13 +1,13 @@
 ---
-title: Acid Text
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Acid Text"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 82
 accepted: 16
 solved_users: 11
-acceptance_rate: 14.474%
-collected_at: 2026-04-17T11:50:25.997268+00:00
+acceptance_rate: "14.474%"
+collected_at: "2026-04-17T11:50:25.997268+00:00"
 ---
 
 ## 문제

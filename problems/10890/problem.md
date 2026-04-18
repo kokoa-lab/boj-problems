@@ -1,13 +1,13 @@
 ---
-title: Block stacker
-special_judge: false
-time_limit: 1 초
-memory_limit: 32 MB
+title: "Block stacker"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "32 MB"
 submissions: 120
 accepted: 12
 solved_users: 10
-acceptance_rate: 8.475%
-collected_at: 2026-04-17T12:31:08.743268+00:00
+acceptance_rate: "8.475%"
+collected_at: "2026-04-17T12:31:08.743268+00:00"
 ---
 
 ## 문제

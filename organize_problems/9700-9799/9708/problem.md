@@ -1,13 +1,13 @@
 ---
-title: Charles Babbage's Difference Engine
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Charles Babbage's Difference Engine"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 62
 accepted: 53
 solved_users: 42
-acceptance_rate: 82.353%
-collected_at: 2026-04-17T12:13:23.125065+00:00
+acceptance_rate: "82.353%"
+collected_at: "2026-04-17T12:13:23.125065+00:00"
 ---
 
 ## 문제

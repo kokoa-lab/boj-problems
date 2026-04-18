@@ -1,13 +1,13 @@
 ---
-title: 색칠 1
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "색칠 1"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 3341
 accepted: 1036
 solved_users: 832
-acceptance_rate: 32.086%
-collected_at: 2026-04-17T10:28:17.776515+00:00
+acceptance_rate: "32.086%"
+collected_at: "2026-04-17T10:28:17.776515+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 트라이슬
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "트라이슬"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 188
 accepted: 76
 solved_users: 58
-acceptance_rate: 47.934%
-collected_at: 2026-04-17T13:05:10.492158+00:00
+acceptance_rate: "47.934%"
+collected_at: "2026-04-17T13:05:10.492158+00:00"
 ---
 
 ## 문제

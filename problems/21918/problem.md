@@ -1,13 +1,13 @@
 ---
-title: 전구
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "전구"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 4736
 accepted: 2749
 solved_users: 2252
-acceptance_rate: 57.937%
-collected_at: 2026-04-17T16:09:56.554766+00:00
+acceptance_rate: "57.937%"
+collected_at: "2026-04-17T16:09:56.554766+00:00"
 ---
 
 ## 문제

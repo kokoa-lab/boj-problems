@@ -1,13 +1,13 @@
 ---
-title: Choose your own path
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Choose your own path"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 181
 accepted: 94
 solved_users: 79
-acceptance_rate: 51.974%
-collected_at: 2026-04-17T14:10:05.112041+00:00
+acceptance_rate: "51.974%"
+collected_at: "2026-04-17T14:10:05.112041+00:00"
 ---
 
 ## 문제

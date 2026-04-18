@@ -1,13 +1,13 @@
 ---
-title: 팀 배정
-special_judge: false
-time_limit: 0.7 초
-memory_limit: 256 MB
+title: "팀 배정"
+special_judge: "false"
+time_limit: "0.7 초"
+memory_limit: "256 MB"
 submissions: 335
 accepted: 134
 solved_users: 97
-acceptance_rate: 38.189%
-collected_at: 2026-04-17T15:09:25.232606+00:00
+acceptance_rate: "38.189%"
+collected_at: "2026-04-17T15:09:25.232606+00:00"
 ---
 
 ## 문제

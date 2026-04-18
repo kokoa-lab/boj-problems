@@ -1,13 +1,13 @@
 ---
-title: 폭발 속에서 살아남기
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "폭발 속에서 살아남기"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 637
 accepted: 142
 solved_users: 107
-acceptance_rate: 29.235%
-collected_at: 2026-04-17T18:18:09.158402+00:00
+acceptance_rate: "29.235%"
+collected_at: "2026-04-17T18:18:09.158402+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Longest Common Substring
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Longest Common Substring"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 278
 accepted: 131
 solved_users: 103
-acceptance_rate: 47.907%
-collected_at: 2026-04-17T16:00:54.537114+00:00
+acceptance_rate: "47.907%"
+collected_at: "2026-04-17T16:00:54.537114+00:00"
 ---
 
 ## 문제

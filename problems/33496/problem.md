@@ -1,13 +1,13 @@
 ---
-title: 미술 수업
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "미술 수업"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 428
 accepted: 167
 solved_users: 150
-acceptance_rate: 47.619%
-collected_at: 2026-04-17T20:17:36.141920+00:00
+acceptance_rate: "47.619%"
+collected_at: "2026-04-17T20:17:36.141920+00:00"
 ---
 
 ## 문제

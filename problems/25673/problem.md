@@ -1,13 +1,13 @@
 ---
-title: Find the Parts
-special_judge: false
-time_limit: 4 초 (추가 시간 없음)
-memory_limit: 2048 MB
+title: "Find the Parts"
+special_judge: "false"
+time_limit: "4 초 (추가 시간 없음)"
+memory_limit: "2048 MB"
 submissions: 65
 accepted: 21
 solved_users: 6
-acceptance_rate: 23.077%
-collected_at: 2026-04-17T17:31:12.687966+00:00
+acceptance_rate: "23.077%"
+collected_at: "2026-04-17T17:31:12.687966+00:00"
 ---
 
 ## 문제

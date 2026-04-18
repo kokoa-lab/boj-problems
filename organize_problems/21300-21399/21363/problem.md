@@ -1,13 +1,13 @@
 ---
-title: Kontringsattack
-special_judge: false
-time_limit: 4 초
-memory_limit: 1024 MB
+title: "Kontringsattack"
+special_judge: "false"
+time_limit: "4 초"
+memory_limit: "1024 MB"
 submissions: 33
 accepted: 21
 solved_users: 14
-acceptance_rate: 58.333%
-collected_at: 2026-04-17T15:57:00.663359+00:00
+acceptance_rate: "58.333%"
+collected_at: "2026-04-17T15:57:00.663359+00:00"
 ---
 
 ## 문제

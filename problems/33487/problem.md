@@ -1,13 +1,13 @@
 ---
-title: 대회 운영에 있어 제일 귀찮은 것...
-special_judge: true
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "대회 운영에 있어 제일 귀찮은 것..."
+special_judge: "true"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 10
 accepted: 7
 solved_users: 7
-acceptance_rate: 100.000%
-collected_at: 2026-04-17T20:17:27.425522+00:00
+acceptance_rate: "100.000%"
+collected_at: "2026-04-17T20:17:27.425522+00:00"
 ---
 
 ## 문제

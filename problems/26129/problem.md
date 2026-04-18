@@ -1,13 +1,13 @@
 ---
-title: 과속카메라
-special_judge: true
-time_limit: 3 초 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "과속카메라"
+special_judge: "true"
+time_limit: "3 초 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 153
 accepted: 31
 solved_users: 21
-acceptance_rate: 21.429%
-collected_at: 2026-04-17T17:40:35.199706+00:00
+acceptance_rate: "21.429%"
+collected_at: "2026-04-17T17:40:35.199706+00:00"
 ---
 
 ## 문제

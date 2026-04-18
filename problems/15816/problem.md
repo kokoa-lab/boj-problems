@@ -1,13 +1,13 @@
 ---
-title: 퀘스트 중인 모험가
-special_judge: false
-time_limit: 3 초
-memory_limit: 256 MB
+title: "퀘스트 중인 모험가"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "256 MB"
 submissions: 1098
 accepted: 295
 solved_users: 181
-acceptance_rate: 23.537%
-collected_at: 2026-04-17T14:07:02.331941+00:00
+acceptance_rate: "23.537%"
+collected_at: "2026-04-17T14:07:02.331941+00:00"
 ---
 
 ## 문제

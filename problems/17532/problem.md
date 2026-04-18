@@ -1,13 +1,13 @@
 ---
-title: Denouncing Mafia
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "Denouncing Mafia"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 62
 accepted: 43
 solved_users: 38
-acceptance_rate: 80.851%
-collected_at: 2026-04-17T14:41:21.793729+00:00
+acceptance_rate: "80.851%"
+collected_at: "2026-04-17T14:41:21.793729+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 5교시: 과학
-special_judge: false
-time_limit: 5 초 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "5교시: 과학"
+special_judge: "false"
+time_limit: "5 초 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 164
 accepted: 45
 solved_users: 39
-acceptance_rate: 31.707%
-collected_at: 2026-04-17T20:20:29.238958+00:00
+acceptance_rate: "31.707%"
+collected_at: "2026-04-17T20:20:29.238958+00:00"
 ---
 
 ## 문제

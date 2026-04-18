@@ -1,13 +1,13 @@
 ---
-title: XOR 수열
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "XOR 수열"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 228
 accepted: 91
 solved_users: 60
-acceptance_rate: 41.096%
-collected_at: 2026-04-17T13:11:56.670346+00:00
+acceptance_rate: "41.096%"
+collected_at: "2026-04-17T13:11:56.670346+00:00"
 ---
 
 ## 문제

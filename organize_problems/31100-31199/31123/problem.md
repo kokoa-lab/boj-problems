@@ -1,13 +1,13 @@
 ---
-title: Scalar Product
-special_judge: false
-time_limit: 3 초
-memory_limit: 1024 MB
+title: "Scalar Product"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "1024 MB"
 submissions: 23
 accepted: 3
 solved_users: 3
-acceptance_rate: 15.789%
-collected_at: 2026-04-17T19:21:41.911554+00:00
+acceptance_rate: "15.789%"
+collected_at: "2026-04-17T19:21:41.911554+00:00"
 ---
 
 ## 문제

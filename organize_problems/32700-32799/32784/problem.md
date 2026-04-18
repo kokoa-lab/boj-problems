@@ -1,13 +1,13 @@
 ---
-title: 가희와 신칸센 1
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "가희와 신칸센 1"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 40
 accepted: 11
 solved_users: 4
-acceptance_rate: 28.571%
-collected_at: 2026-04-17T20:01:02.425094+00:00
+acceptance_rate: "28.571%"
+collected_at: "2026-04-17T20:01:02.425094+00:00"
 ---
 
 ## 문제

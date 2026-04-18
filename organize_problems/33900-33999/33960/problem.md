@@ -1,13 +1,13 @@
 ---
-title: 사과 게임
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "사과 게임"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 191
 accepted: 48
 solved_users: 45
-acceptance_rate: 36.000%
-collected_at: 2026-04-17T20:27:14.723544+00:00
+acceptance_rate: "36.000%"
+collected_at: "2026-04-17T20:27:14.723544+00:00"
 ---
 
 ## 문제

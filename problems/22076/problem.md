@@ -1,13 +1,13 @@
 ---
-title: Воздушные шарики
-special_judge: true
-time_limit: 2 초
-memory_limit: 256 MB
+title: "Воздушные шарики"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 137
 accepted: 87
 solved_users: 71
-acceptance_rate: 65.138%
-collected_at: 2026-04-17T16:12:58.887049+00:00
+acceptance_rate: "65.138%"
+collected_at: "2026-04-17T16:12:58.887049+00:00"
 ---
 
 ## 문제

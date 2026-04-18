@@ -1,13 +1,13 @@
 ---
-title: Spock
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Spock"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 26
 accepted: 6
 solved_users: 6
-acceptance_rate: 23.077%
-collected_at: 2026-04-17T12:38:06.688158+00:00
+acceptance_rate: "23.077%"
+collected_at: "2026-04-17T12:38:06.688158+00:00"
 ---
 
 ## 문제

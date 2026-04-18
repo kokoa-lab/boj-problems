@@ -1,13 +1,13 @@
 ---
-title: 친구 네트워크
-special_judge: false
-time_limit: 3 초
-memory_limit: 256 MB
+title: "친구 네트워크"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "256 MB"
 submissions: 58236
 accepted: 18076
 solved_users: 11558
-acceptance_rate: 29.070%
-collected_at: 2026-04-17T10:57:07.340798+00:00
+acceptance_rate: "29.070%"
+collected_at: "2026-04-17T10:57:07.340798+00:00"
 ---
 
 ## 문제

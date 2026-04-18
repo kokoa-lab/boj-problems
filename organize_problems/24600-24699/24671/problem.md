@@ -1,13 +1,13 @@
 ---
-title: Kill All Termites
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Kill All Termites"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 112
 accepted: 41
 solved_users: 37
-acceptance_rate: 40.217%
-collected_at: 2026-04-17T17:13:04.338401+00:00
+acceptance_rate: "40.217%"
+collected_at: "2026-04-17T17:13:04.338401+00:00"
 ---
 
 ## 문제

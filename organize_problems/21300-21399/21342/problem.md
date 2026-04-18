@@ -1,13 +1,13 @@
 ---
-title: Flight Collision
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Flight Collision"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 270
 accepted: 81
 solved_users: 73
-acceptance_rate: 30.041%
-collected_at: 2026-04-17T15:56:19.652147+00:00
+acceptance_rate: "30.041%"
+collected_at: "2026-04-17T15:56:19.652147+00:00"
 ---
 
 ## 문제

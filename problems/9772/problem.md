@@ -1,13 +1,13 @@
 ---
-title: Quadrants
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Quadrants"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 3681
 accepted: 1925
 solved_users: 1841
-acceptance_rate: 53.830%
-collected_at: 2026-04-17T12:14:19.221785+00:00
+acceptance_rate: "53.830%"
+collected_at: "2026-04-17T12:14:19.221785+00:00"
 ---
 
 ## 문제

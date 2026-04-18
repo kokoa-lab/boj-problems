@@ -1,13 +1,13 @@
 ---
-title: 생일
-special_judge: true
-time_limit: 1 초
-memory_limit: 128 MB
+title: "생일"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 447
 accepted: 199
 solved_users: 175
-acceptance_rate: 45.692%
-collected_at: 2026-04-17T10:46:09.428516+00:00
+acceptance_rate: "45.692%"
+collected_at: "2026-04-17T10:46:09.428516+00:00"
 ---
 
 ## 문제

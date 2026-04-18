@@ -1,13 +1,13 @@
 ---
-title: 뮤탈리스크
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "뮤탈리스크"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 14521
 accepted: 7202
 solved_users: 4904
-acceptance_rate: 47.980%
-collected_at: 2026-04-17T13:02:52.211330+00:00
+acceptance_rate: "47.980%"
+collected_at: "2026-04-17T13:02:52.211330+00:00"
 ---
 
 ## 문제

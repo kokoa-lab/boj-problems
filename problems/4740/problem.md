@@ -1,13 +1,13 @@
 ---
-title: 거울, 오! 거울
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "거울, 오! 거울"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 4879
 accepted: 2859
 solved_users: 2623
-acceptance_rate: 61.256%
-collected_at: 2026-04-17T11:07:54.711333+00:00
+acceptance_rate: "61.256%"
+collected_at: "2026-04-17T11:07:54.711333+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 팰린드롬 행렬
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "팰린드롬 행렬"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 11
 accepted: 2
 solved_users: 2
-acceptance_rate: 100.000%
-collected_at: 2026-04-17T13:12:37.633903+00:00
+acceptance_rate: "100.000%"
+collected_at: "2026-04-17T13:12:37.633903+00:00"
 ---
 
 ## 문제

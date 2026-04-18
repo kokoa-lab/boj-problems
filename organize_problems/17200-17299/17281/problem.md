@@ -1,13 +1,13 @@
 ---
-title: ⚾
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)  ( 하단 참고 )
-memory_limit: 512 MB
+title: "⚾"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)  ( 하단 참고 )"
+memory_limit: "512 MB"
 submissions: 22356
 accepted: 10462
 solved_users: 6847
-acceptance_rate: 44.001%
-collected_at: 2026-04-17T14:36:11.712623+00:00
+acceptance_rate: "44.001%"
+collected_at: "2026-04-17T14:36:11.712623+00:00"
 ---
 
 ## 문제

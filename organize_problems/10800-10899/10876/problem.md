@@ -1,13 +1,13 @@
 ---
-title: 사전 조사
-special_judge: false
-time_limit: 3 초
-memory_limit: 256 MB
+title: "사전 조사"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "256 MB"
 submissions: 446
 accepted: 30
 solved_users: 21
-acceptance_rate: 14.483%
-collected_at: 2026-04-17T12:30:49.372177+00:00
+acceptance_rate: "14.483%"
+collected_at: "2026-04-17T12:30:49.372177+00:00"
 ---
 
 ## 문제

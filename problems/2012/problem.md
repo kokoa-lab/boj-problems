@@ -1,13 +1,13 @@
 ---
-title: 등수 매기기
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "등수 매기기"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 19847
 accepted: 7924
 solved_users: 6562
-acceptance_rate: 39.511%
-collected_at: 2026-04-17T10:37:05.380023+00:00
+acceptance_rate: "39.511%"
+collected_at: "2026-04-17T10:37:05.380023+00:00"
 ---
 
 ## 문제

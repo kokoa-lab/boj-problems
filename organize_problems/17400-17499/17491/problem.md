@@ -1,13 +1,13 @@
 ---
-title: 고양이 밥주기
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "고양이 밥주기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 80
 accepted: 10
 solved_users: 10
-acceptance_rate: 33.333%
-collected_at: 2026-04-17T14:40:24.992409+00:00
+acceptance_rate: "33.333%"
+collected_at: "2026-04-17T14:40:24.992409+00:00"
 ---
 
 ## 문제

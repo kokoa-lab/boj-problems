@@ -1,13 +1,13 @@
 ---
-title: 토달기
-special_judge: true
-time_limit: 2 초
-memory_limit: 128 MB
+title: "토달기"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 1596
 accepted: 527
 solved_users: 387
-acceptance_rate: 32.277%
-collected_at: 2026-04-17T10:35:28.084318+00:00
+acceptance_rate: "32.277%"
+collected_at: "2026-04-17T10:35:28.084318+00:00"
 ---
 
 ## 문제

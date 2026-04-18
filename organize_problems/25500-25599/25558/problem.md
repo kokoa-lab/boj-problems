@@ -1,13 +1,13 @@
 ---
-title: 내비게이션
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "내비게이션"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 1481
 accepted: 585
 solved_users: 496
-acceptance_rate: 39.241%
-collected_at: 2026-04-17T17:28:42.388157+00:00
+acceptance_rate: "39.241%"
+collected_at: "2026-04-17T17:28:42.388157+00:00"
 ---
 
 ## 문제

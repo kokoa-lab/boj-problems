@@ -1,13 +1,13 @@
 ---
-title: 단조증가 수열과 OR
-special_judge: true
-time_limit: 2 초
-memory_limit: 512 MB
+title: "단조증가 수열과 OR"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 227
 accepted: 35
 solved_users: 26
-acceptance_rate: 21.488%
-collected_at: 2026-04-17T18:01:48.963590+00:00
+acceptance_rate: "21.488%"
+collected_at: "2026-04-17T18:01:48.963590+00:00"
 ---
 
 ## 문제

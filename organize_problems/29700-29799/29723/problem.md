@@ -1,13 +1,13 @@
 ---
-title: 브실이의 입시전략
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "브실이의 입시전략"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 1719
 accepted: 890
 solved_users: 765
-acceptance_rate: 51.136%
-collected_at: 2026-04-17T18:51:35.681929+00:00
+acceptance_rate: "51.136%"
+collected_at: "2026-04-17T18:51:35.681929+00:00"
 ---
 
 ## 문제

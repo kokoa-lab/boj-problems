@@ -1,13 +1,13 @@
 ---
-title: 엉성한 도토리 분류기
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "엉성한 도토리 분류기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 1264
 accepted: 434
 solved_users: 351
-acceptance_rate: 37.261%
-collected_at: 2026-04-17T19:37:38.993812+00:00
+acceptance_rate: "37.261%"
+collected_at: "2026-04-17T19:37:38.993812+00:00"
 ---
 
 ## 문제

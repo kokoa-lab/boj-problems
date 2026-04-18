@@ -1,13 +1,13 @@
 ---
-title: 브루와 오렌지 나누기
-special_judge: true
-time_limit: 0.1 초
-memory_limit: 1024 MB
+title: "브루와 오렌지 나누기"
+special_judge: "true"
+time_limit: "0.1 초"
+memory_limit: "1024 MB"
 submissions: 156
 accepted: 31
 solved_users: 27
-acceptance_rate: 26.733%
-collected_at: 2026-04-17T16:38:29.680697+00:00
+acceptance_rate: "26.733%"
+collected_at: "2026-04-17T16:38:29.680697+00:00"
 ---
 
 ## 문제

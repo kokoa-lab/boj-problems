@@ -1,13 +1,13 @@
 ---
-title: Quadratics
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Quadratics"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 488
 accepted: 285
 solved_users: 261
-acceptance_rate: 58.916%
-collected_at: 2026-04-17T17:47:42.604759+00:00
+acceptance_rate: "58.916%"
+collected_at: "2026-04-17T17:47:42.604759+00:00"
 ---
 
 ## 문제

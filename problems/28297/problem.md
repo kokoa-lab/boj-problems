@@ -1,13 +1,13 @@
 ---
-title: 차량 모듈 제작
-special_judge: true
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "차량 모듈 제작"
+special_judge: "true"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 863
 accepted: 353
 solved_users: 282
-acceptance_rate: 41.471%
-collected_at: 2026-04-17T18:22:11.034560+00:00
+acceptance_rate: "41.471%"
+collected_at: "2026-04-17T18:22:11.034560+00:00"
 ---
 
 ## 문제

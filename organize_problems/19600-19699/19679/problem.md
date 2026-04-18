@@ -1,13 +1,13 @@
 ---
-title: Fancy Fence
-special_judge: false
-time_limit: 1 초
-memory_limit: 32 MB
+title: "Fancy Fence"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "32 MB"
 submissions: 228
 accepted: 61
 solved_users: 52
-acceptance_rate: 30.588%
-collected_at: 2026-04-17T15:26:19.548578+00:00
+acceptance_rate: "30.588%"
+collected_at: "2026-04-17T15:26:19.548578+00:00"
 ---
 
 ## 문제

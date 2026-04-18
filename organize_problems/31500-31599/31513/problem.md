@@ -1,13 +1,13 @@
 ---
-title: On-Call Team
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 2048 MB
+title: "On-Call Team"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "2048 MB"
 submissions: 39
 accepted: 22
 solved_users: 20
-acceptance_rate: 57.143%
-collected_at: 2026-04-17T19:29:37.515469+00:00
+acceptance_rate: "57.143%"
+collected_at: "2026-04-17T19:29:37.515469+00:00"
 ---
 
 ## 문제

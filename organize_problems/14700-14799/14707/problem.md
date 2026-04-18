@@ -1,13 +1,13 @@
 ---
-title: 그림 그리기
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "그림 그리기"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 413
 accepted: 104
 solved_users: 60
-acceptance_rate: 21.277%
-collected_at: 2026-04-17T13:40:46.557577+00:00
+acceptance_rate: "21.277%"
+collected_at: "2026-04-17T13:40:46.557577+00:00"
 ---
 
 ## 문제

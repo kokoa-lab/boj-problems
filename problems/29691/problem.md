@@ -1,13 +1,13 @@
 ---
-title: Стадион
-special_judge: true
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Стадион"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 42
 accepted: 3
 solved_users: 2
-acceptance_rate: 40.000%
-collected_at: 2026-04-17T18:50:57.482593+00:00
+acceptance_rate: "40.000%"
+collected_at: "2026-04-17T18:50:57.482593+00:00"
 ---
 
 ## 문제

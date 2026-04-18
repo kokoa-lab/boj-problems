@@ -1,13 +1,13 @@
 ---
-title: Lorem ipsum
-special_judge: false
-time_limit: 0.1 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "Lorem ipsum"
+special_judge: "false"
+time_limit: "0.1 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 1653
 accepted: 400
 solved_users: 210
-acceptance_rate: 24.764%
-collected_at: 2026-04-17T14:01:24.347442+00:00
+acceptance_rate: "24.764%"
+collected_at: "2026-04-17T14:01:24.347442+00:00"
 ---
 
 ## 문제

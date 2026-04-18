@@ -1,13 +1,13 @@
 ---
-title: 빛의 돌 시뮬레이션
-special_judge: false
-time_limit: 1.5 초
-memory_limit: 256 MB
+title: "빛의 돌 시뮬레이션"
+special_judge: "false"
+time_limit: "1.5 초"
+memory_limit: "256 MB"
 submissions: 19
 accepted: 3
 solved_users: 3
-acceptance_rate: 27.273%
-collected_at: 2026-04-17T16:00:17.240796+00:00
+acceptance_rate: "27.273%"
+collected_at: "2026-04-17T16:00:17.240796+00:00"
 ---
 
 ## 문제

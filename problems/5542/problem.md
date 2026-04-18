@@ -1,13 +1,13 @@
 ---
-title: JOI 국가의 행사
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "JOI 국가의 행사"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 1199
 accepted: 659
 solved_users: 491
-acceptance_rate: 51.360%
-collected_at: 2026-04-17T11:15:13.388994+00:00
+acceptance_rate: "51.360%"
+collected_at: "2026-04-17T11:15:13.388994+00:00"
 ---
 
 ## 문제

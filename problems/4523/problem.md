@@ -1,13 +1,13 @@
 ---
-title: Filtration
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Filtration"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 9
 accepted: 2
 solved_users: 2
-acceptance_rate: 66.667%
-collected_at: 2026-04-17T11:03:21.908805+00:00
+acceptance_rate: "66.667%"
+collected_at: "2026-04-17T11:03:21.908805+00:00"
 ---
 
 ## 문제

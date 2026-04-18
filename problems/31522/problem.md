@@ -1,13 +1,13 @@
 ---
-title: Ordered Problem Set
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 2048 MB
+title: "Ordered Problem Set"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "2048 MB"
 submissions: 72
 accepted: 49
 solved_users: 48
-acceptance_rate: 68.571%
-collected_at: 2026-04-17T19:29:44.868956+00:00
+acceptance_rate: "68.571%"
+collected_at: "2026-04-17T19:29:44.868956+00:00"
 ---
 
 ## 문제

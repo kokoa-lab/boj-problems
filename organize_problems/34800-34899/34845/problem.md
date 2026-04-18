@@ -1,13 +1,13 @@
 ---
-title: 강의평
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "강의평"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 532
 accepted: 344
 solved_users: 285
-acceptance_rate: 67.059%
-collected_at: 2026-04-17T20:50:21.381784+00:00
+acceptance_rate: "67.059%"
+collected_at: "2026-04-17T20:50:21.381784+00:00"
 ---
 
 ## 문제

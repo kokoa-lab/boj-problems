@@ -1,13 +1,13 @@
 ---
-title: Chessboard in FEN
-special_judge: false
-time_limit: 1 초
-memory_limit: 32 MB
+title: "Chessboard in FEN"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "32 MB"
 submissions: 186
 accepted: 77
 solved_users: 58
-acceptance_rate: 45.312%
-collected_at: 2026-04-17T10:32:23.446688+00:00
+acceptance_rate: "45.312%"
+collected_at: "2026-04-17T10:32:23.446688+00:00"
 ---
 
 ## 문제

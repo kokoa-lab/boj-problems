@@ -1,13 +1,13 @@
 ---
-title: Missing Number
-special_judge: false
-time_limit: 2 초
-memory_limit: 2048 MB
+title: "Missing Number"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "2048 MB"
 submissions: 54
 accepted: 24
 solved_users: 20
-acceptance_rate: 51.282%
-collected_at: 2026-04-17T19:25:37.244777+00:00
+acceptance_rate: "51.282%"
+collected_at: "2026-04-17T19:25:37.244777+00:00"
 ---
 
 ## 문제

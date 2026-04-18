@@ -1,13 +1,13 @@
 ---
-title: Cooking Steaks
-special_judge: false
-time_limit: 1 초
-memory_limit: 2048 MB
+title: "Cooking Steaks"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "2048 MB"
 submissions: 23
 accepted: 15
 solved_users: 15
-acceptance_rate: 65.217%
-collected_at: 2026-04-17T20:08:52.946672+00:00
+acceptance_rate: "65.217%"
+collected_at: "2026-04-17T20:08:52.946672+00:00"
 ---
 
 ## 문제

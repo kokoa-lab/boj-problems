@@ -1,13 +1,13 @@
 ---
-title: 너의 수능 점수가 궁금해
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "너의 수능 점수가 궁금해"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 990
 accepted: 300
 solved_users: 264
-acceptance_rate: 30.986%
-collected_at: 2026-04-17T18:53:17.424571+00:00
+acceptance_rate: "30.986%"
+collected_at: "2026-04-17T18:53:17.424571+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 남극 탐험
-special_judge: false
-time_limit: 30 초
-memory_limit: 512 MB
+title: "남극 탐험"
+special_judge: "false"
+time_limit: "30 초"
+memory_limit: "512 MB"
 submissions: 444
 accepted: 115
 solved_users: 89
-acceptance_rate: 25.575%
-collected_at: 2026-04-17T16:10:57.222431+00:00
+acceptance_rate: "25.575%"
+collected_at: "2026-04-17T16:10:57.222431+00:00"
 ---
 
 ## 문제

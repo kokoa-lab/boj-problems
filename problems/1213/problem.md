@@ -1,13 +1,13 @@
 ---
-title: 팰린드롬 만들기
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "팰린드롬 만들기"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 40692
 accepted: 18411
 solved_users: 13596
-acceptance_rate: 44.398%
-collected_at: 2026-04-17T10:28:52.957896+00:00
+acceptance_rate: "44.398%"
+collected_at: "2026-04-17T10:28:52.957896+00:00"
 ---
 
 ## 문제

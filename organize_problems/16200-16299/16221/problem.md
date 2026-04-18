@@ -1,13 +1,13 @@
 ---
-title: 모독
-special_judge: false
-time_limit: 3 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "모독"
+special_judge: "false"
+time_limit: "3 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 452
 accepted: 179
 solved_users: 156
-acceptance_rate: 48.148%
-collected_at: 2026-04-17T14:13:44.954218+00:00
+acceptance_rate: "48.148%"
+collected_at: "2026-04-17T14:13:44.954218+00:00"
 ---
 
 ## 문제

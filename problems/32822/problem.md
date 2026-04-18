@@ -1,13 +1,13 @@
 ---
-title: 행렬 게임
-special_judge: false
-time_limit: 1 초
-memory_limit: 2048 MB
+title: "행렬 게임"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "2048 MB"
 submissions: 358
 accepted: 269
 solved_users: 217
-acceptance_rate: 76.408%
-collected_at: 2026-04-17T20:02:05.076553+00:00
+acceptance_rate: "76.408%"
+collected_at: "2026-04-17T20:02:05.076553+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Rigged Roads
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Rigged Roads"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 26
 accepted: 13
 solved_users: 7
-acceptance_rate: 70.000%
-collected_at: 2026-04-17T15:26:16.263134+00:00
+acceptance_rate: "70.000%"
+collected_at: "2026-04-17T15:26:16.263134+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Crazy Rows (Large)
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Crazy Rows (Large)"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 96
 accepted: 69
 solved_users: 61
-acceptance_rate: 76.250%
-collected_at: 2026-04-17T12:58:45.284628+00:00
+acceptance_rate: "76.250%"
+collected_at: "2026-04-17T12:58:45.284628+00:00"
 ---
 
 ## 문제

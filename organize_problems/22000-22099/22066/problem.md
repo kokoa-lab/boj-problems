@@ -1,13 +1,13 @@
 ---
-title: Турникеты в метро
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "Турникеты в метро"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 160
 accepted: 52
 solved_users: 42
-acceptance_rate: 29.787%
-collected_at: 2026-04-17T16:12:32.463268+00:00
+acceptance_rate: "29.787%"
+collected_at: "2026-04-17T16:12:32.463268+00:00"
 ---
 
 ## 문제

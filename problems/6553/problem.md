@@ -1,13 +1,13 @@
 ---
-title: Diplomatic License
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Diplomatic License"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 144
 accepted: 90
 solved_users: 77
-acceptance_rate: 62.097%
-collected_at: 2026-04-17T11:30:32.396557+00:00
+acceptance_rate: "62.097%"
+collected_at: "2026-04-17T11:30:32.396557+00:00"
 ---
 
 ## 문제

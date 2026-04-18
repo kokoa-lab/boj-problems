@@ -1,13 +1,13 @@
 ---
-title: Integers in Rational Bases
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Integers in Rational Bases"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 75
 accepted: 61
 solved_users: 50
-acceptance_rate: 78.125%
-collected_at: 2026-04-17T14:48:54.737235+00:00
+acceptance_rate: "78.125%"
+collected_at: "2026-04-17T14:48:54.737235+00:00"
 ---
 
 ## 문제

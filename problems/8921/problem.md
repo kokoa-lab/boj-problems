@@ -1,13 +1,13 @@
 ---
-title: KTX 열차 기지
-special_judge: false
-time_limit: 5 초
-memory_limit: 128 MB
+title: "KTX 열차 기지"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "128 MB"
 submissions: 140
 accepted: 22
 solved_users: 15
-acceptance_rate: 18.519%
-collected_at: 2026-04-17T12:05:00.246100+00:00
+acceptance_rate: "18.519%"
+collected_at: "2026-04-17T12:05:00.246100+00:00"
 ---
 
 ## 문제

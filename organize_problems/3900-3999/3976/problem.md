@@ -1,13 +1,13 @@
 ---
-title: 역습
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "역습"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 403
 accepted: 300
 solved_users: 250
-acceptance_rate: 79.872%
-collected_at: 2026-04-17T10:54:04.552419+00:00
+acceptance_rate: "79.872%"
+collected_at: "2026-04-17T10:54:04.552419+00:00"
 ---
 
 ## 문제

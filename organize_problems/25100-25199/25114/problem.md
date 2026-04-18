@@ -1,13 +1,13 @@
 ---
-title: Sequence Conversion
-special_judge: false
-time_limit: 3 초
-memory_limit: 1024 MB
+title: "Sequence Conversion"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "1024 MB"
 submissions: 429
 accepted: 287
 solved_users: 213
-acceptance_rate: 64.350%
-collected_at: 2026-04-17T17:21:00.714728+00:00
+acceptance_rate: "64.350%"
+collected_at: "2026-04-17T17:21:00.714728+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Tin Can Telephone
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Tin Can Telephone"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 21
 accepted: 15
 solved_users: 12
-acceptance_rate: 70.588%
-collected_at: 2026-04-17T11:39:49.387911+00:00
+acceptance_rate: "70.588%"
+collected_at: "2026-04-17T11:39:49.387911+00:00"
 ---
 
 ## 문제

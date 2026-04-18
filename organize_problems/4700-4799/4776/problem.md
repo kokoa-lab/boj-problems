@@ -1,13 +1,13 @@
 ---
-title: Apply a Cold Compress
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Apply a Cold Compress"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 11
 accepted: 6
 solved_users: 6
-acceptance_rate: 75.000%
-collected_at: 2026-04-17T11:08:23.236231+00:00
+acceptance_rate: "75.000%"
+collected_at: "2026-04-17T11:08:23.236231+00:00"
 ---
 
 ## 문제

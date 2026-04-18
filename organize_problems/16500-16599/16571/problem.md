@@ -1,13 +1,13 @@
 ---
-title: 알파 틱택토
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "알파 틱택토"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 1328
 accepted: 557
 solved_users: 371
-acceptance_rate: 41.360%
-collected_at: 2026-04-17T14:20:13.205340+00:00
+acceptance_rate: "41.360%"
+collected_at: "2026-04-17T14:20:13.205340+00:00"
 ---
 
 ## 문제

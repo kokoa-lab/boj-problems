@@ -1,13 +1,13 @@
 ---
-title: Word Processor
-special_judge: true
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Word Processor"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 1726
 accepted: 717
 solved_users: 636
-acceptance_rate: 43.472%
-collected_at: 2026-04-17T14:59:36.563440+00:00
+acceptance_rate: "43.472%"
+collected_at: "2026-04-17T14:59:36.563440+00:00"
 ---
 
 ## 문제

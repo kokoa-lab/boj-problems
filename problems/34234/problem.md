@@ -1,13 +1,13 @@
 ---
-title: 받아쓰기
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "받아쓰기"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 97
 accepted: 34
 solved_users: 24
-acceptance_rate: 35.294%
-collected_at: 2026-04-17T20:33:42.134506+00:00
+acceptance_rate: "35.294%"
+collected_at: "2026-04-17T20:33:42.134506+00:00"
 ---
 
 ## 문제

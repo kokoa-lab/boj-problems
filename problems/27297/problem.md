@@ -1,13 +1,13 @@
 ---
-title: 맨해튼에서의 모임
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "맨해튼에서의 모임"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 675
 accepted: 311
 solved_users: 255
-acceptance_rate: 45.863%
-collected_at: 2026-04-17T18:00:09.505259+00:00
+acceptance_rate: "45.863%"
+collected_at: "2026-04-17T18:00:09.505259+00:00"
 ---
 
 ## 문제

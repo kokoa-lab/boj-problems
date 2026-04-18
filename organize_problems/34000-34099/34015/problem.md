@@ -1,13 +1,13 @@
 ---
-title: 어려운 문자열 문제
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "어려운 문자열 문제"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 41
 accepted: 11
 solved_users: 10
-acceptance_rate: 40.000%
-collected_at: 2026-04-17T20:28:44.061890+00:00
+acceptance_rate: "40.000%"
+collected_at: "2026-04-17T20:28:44.061890+00:00"
 ---
 
 ## 문제

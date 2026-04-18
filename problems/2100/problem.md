@@ -1,13 +1,13 @@
 ---
-title: 감시 로봇
-special_judge: true
-time_limit: 2 초
-memory_limit: 128 MB
+title: "감시 로봇"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 213
 accepted: 30
 solved_users: 18
-acceptance_rate: 11.043%
-collected_at: 2026-04-17T10:38:17.556519+00:00
+acceptance_rate: "11.043%"
+collected_at: "2026-04-17T10:38:17.556519+00:00"
 ---
 
 ## 문제

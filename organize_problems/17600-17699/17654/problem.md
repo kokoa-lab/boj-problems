@@ -1,13 +1,13 @@
 ---
-title: Resistance
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Resistance"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 42
 accepted: 1
 solved_users: 1
-acceptance_rate: 6.250%
-collected_at: 2026-04-17T14:44:02.861601+00:00
+acceptance_rate: "6.250%"
+collected_at: "2026-04-17T14:44:02.861601+00:00"
 ---
 
 ## 문제

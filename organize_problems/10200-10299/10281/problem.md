@@ -1,13 +1,13 @@
 ---
-title: Choosing Ice Cream
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Choosing Ice Cream"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 343
 accepted: 65
 solved_users: 57
-acceptance_rate: 24.569%
-collected_at: 2026-04-17T12:21:26.551023+00:00
+acceptance_rate: "24.569%"
+collected_at: "2026-04-17T12:21:26.551023+00:00"
 ---
 
 ## 문제

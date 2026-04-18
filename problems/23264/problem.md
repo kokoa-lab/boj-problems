@@ -1,13 +1,13 @@
 ---
-title: Simple Polygon
-special_judge: true
-time_limit: 서브태스크 참고 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Simple Polygon"
+special_judge: "true"
+time_limit: "서브태스크 참고 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 21
 accepted: 9
 solved_users: 8
-acceptance_rate: 42.105%
-collected_at: 2026-04-17T16:45:19.167093+00:00
+acceptance_rate: "42.105%"
+collected_at: "2026-04-17T16:45:19.167093+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Morning Exercises
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Morning Exercises"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 73
 accepted: 59
 solved_users: 50
-acceptance_rate: 79.365%
-collected_at: 2026-04-17T17:55:07.870323+00:00
+acceptance_rate: "79.365%"
+collected_at: "2026-04-17T17:55:07.870323+00:00"
 ---
 
 ## 문제

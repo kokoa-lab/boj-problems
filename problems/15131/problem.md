@@ -1,13 +1,13 @@
 ---
-title: Auxiliary Project
-special_judge: false
-time_limit: 3 초
-memory_limit: 512 MB
+title: "Auxiliary Project"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "512 MB"
 submissions: 301
 accepted: 202
 solved_users: 174
-acceptance_rate: 68.775%
-collected_at: 2026-04-17T13:51:47.628987+00:00
+acceptance_rate: "68.775%"
+collected_at: "2026-04-17T13:51:47.628987+00:00"
 ---
 
 ## 문제

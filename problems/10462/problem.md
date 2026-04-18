@@ -1,13 +1,13 @@
 ---
-title: Matryoshka Dolls
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Matryoshka Dolls"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 235
 accepted: 71
 solved_users: 39
-acceptance_rate: 27.083%
-collected_at: 2026-04-17T12:24:04.112059+00:00
+acceptance_rate: "27.083%"
+collected_at: "2026-04-17T12:24:04.112059+00:00"
 ---
 
 ## 문제

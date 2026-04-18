@@ -1,13 +1,13 @@
 ---
-title: Sleeping in Class
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Sleeping in Class"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 128
 accepted: 34
 solved_users: 26
-acceptance_rate: 29.545%
-collected_at: 2026-04-17T17:12:03.723067+00:00
+acceptance_rate: "29.545%"
+collected_at: "2026-04-17T17:12:03.723067+00:00"
 ---
 
 ## 문제

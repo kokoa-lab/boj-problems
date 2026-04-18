@@ -1,13 +1,13 @@
 ---
-title: Team Building
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Team Building"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 641
 accepted: 294
 solved_users: 216
-acceptance_rate: 43.725%
-collected_at: 2026-04-17T13:27:10.157229+00:00
+acceptance_rate: "43.725%"
+collected_at: "2026-04-17T13:27:10.157229+00:00"
 ---
 
 ## 문제

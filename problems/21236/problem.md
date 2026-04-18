@@ -1,13 +1,13 @@
 ---
-title: Comfortable Cows
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Comfortable Cows"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 1093
 accepted: 328
 solved_users: 254
-acceptance_rate: 32.690%
-collected_at: 2026-04-17T15:51:08.590427+00:00
+acceptance_rate: "32.690%"
+collected_at: "2026-04-17T15:51:08.590427+00:00"
 ---
 
 ## 문제

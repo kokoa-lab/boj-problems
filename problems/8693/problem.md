@@ -1,13 +1,13 @@
 ---
-title: Hodowla
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Hodowla"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 76
 accepted: 48
 solved_users: 34
-acceptance_rate: 57.627%
-collected_at: 2026-04-17T12:02:13.815162+00:00
+acceptance_rate: "57.627%"
+collected_at: "2026-04-17T12:02:13.815162+00:00"
 ---
 
 ## 문제

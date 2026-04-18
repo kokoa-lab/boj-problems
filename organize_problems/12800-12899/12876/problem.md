@@ -1,13 +1,13 @@
 ---
-title: 반평면 땅따먹기 2
-special_judge: false
-time_limit: 4 초
-memory_limit: 512 MB
+title: "반평면 땅따먹기 2"
+special_judge: "false"
+time_limit: "4 초"
+memory_limit: "512 MB"
 submissions: 1037
 accepted: 368
 solved_users: 209
-acceptance_rate: 28.016%
-collected_at: 2026-04-17T13:03:03.140188+00:00
+acceptance_rate: "28.016%"
+collected_at: "2026-04-17T13:03:03.140188+00:00"
 ---
 
 ## 문제

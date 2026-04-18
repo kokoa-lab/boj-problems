@@ -1,13 +1,13 @@
 ---
-title: 123456789 찾기
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "123456789 찾기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 162
 accepted: 103
 solved_users: 82
-acceptance_rate: 65.600%
-collected_at: 2026-04-17T12:50:17.812194+00:00
+acceptance_rate: "65.600%"
+collected_at: "2026-04-17T12:50:17.812194+00:00"
 ---
 
 ## 문제

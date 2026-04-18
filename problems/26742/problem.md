@@ -1,13 +1,13 @@
 ---
-title: Skarpetki
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Skarpetki"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 1215
 accepted: 1000
 solved_users: 939
-acceptance_rate: 84.291%
-collected_at: 2026-04-17T17:50:45.902385+00:00
+acceptance_rate: "84.291%"
+collected_at: "2026-04-17T17:50:45.902385+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 뜨거운 붕어빵
-special_judge: false
-time_limit: 1 초
-memory_limit: 32 MB
+title: "뜨거운 붕어빵"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "32 MB"
 submissions: 16198
 accepted: 9635
 solved_users: 8679
-acceptance_rate: 62.246%
-collected_at: 2026-04-17T12:48:01.848858+00:00
+acceptance_rate: "62.246%"
+collected_at: "2026-04-17T12:48:01.848858+00:00"
 ---
 
 ## 문제

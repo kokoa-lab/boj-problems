@@ -1,13 +1,13 @@
 ---
-title: Вася и Циклические Сдвиги
-special_judge: false
-time_limit: 0.6 초
-memory_limit: 1024 MB
+title: "Вася и Циклические Сдвиги"
+special_judge: "false"
+time_limit: "0.6 초"
+memory_limit: "1024 MB"
 submissions: 84
 accepted: 41
 solved_users: 28
-acceptance_rate: 63.636%
-collected_at: 2026-04-17T19:16:50.397013+00:00
+acceptance_rate: "63.636%"
+collected_at: "2026-04-17T19:16:50.397013+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 그림 교환
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "그림 교환"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 8865
 accepted: 2652
 solved_users: 2053
-acceptance_rate: 31.068%
-collected_at: 2026-04-17T10:27:47.202012+00:00
+acceptance_rate: "31.068%"
+collected_at: "2026-04-17T10:27:47.202012+00:00"
 ---
 
 ## 문제

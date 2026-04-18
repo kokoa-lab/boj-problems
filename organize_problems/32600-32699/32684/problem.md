@@ -1,13 +1,13 @@
 ---
-title: 장기
-special_judge: false
-time_limit: 0.3 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "장기"
+special_judge: "false"
+time_limit: "0.3 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 1767
 accepted: 1166
 solved_users: 1083
-acceptance_rate: 66.158%
-collected_at: 2026-04-17T19:59:08.044936+00:00
+acceptance_rate: "66.158%"
+collected_at: "2026-04-17T19:59:08.044936+00:00"
 ---
 
 ## 문제

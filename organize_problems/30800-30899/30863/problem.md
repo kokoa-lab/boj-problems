@@ -1,13 +1,13 @@
 ---
-title: Walk Swapping
-special_judge: false
-time_limit: 1 초
-memory_limit: 2048 MB
+title: "Walk Swapping"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "2048 MB"
 submissions: 173
 accepted: 29
 solved_users: 21
-acceptance_rate: 15.217%
-collected_at: 2026-04-17T19:17:04.403297+00:00
+acceptance_rate: "15.217%"
+collected_at: "2026-04-17T19:17:04.403297+00:00"
 ---
 
 ## 문제

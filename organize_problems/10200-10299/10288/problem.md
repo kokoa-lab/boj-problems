@@ -1,13 +1,13 @@
 ---
-title: Talent Selection
-special_judge: false
-time_limit: 3 초
-memory_limit: 256 MB
+title: "Talent Selection"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "256 MB"
 submissions: 46
 accepted: 19
 solved_users: 16
-acceptance_rate: 47.059%
-collected_at: 2026-04-17T12:21:32.163603+00:00
+acceptance_rate: "47.059%"
+collected_at: "2026-04-17T12:21:32.163603+00:00"
 ---
 
 ## 문제

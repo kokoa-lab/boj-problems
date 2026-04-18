@@ -1,13 +1,13 @@
 ---
-title: Underground Cables
-special_judge: true
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Underground Cables"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 150
 accepted: 105
 solved_users: 98
-acceptance_rate: 76.562%
-collected_at: 2026-04-17T11:07:37.375750+00:00
+acceptance_rate: "76.562%"
+collected_at: "2026-04-17T11:07:37.375750+00:00"
 ---
 
 ## 문제

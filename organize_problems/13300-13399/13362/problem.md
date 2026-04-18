@@ -1,13 +1,13 @@
 ---
-title: Interception
-special_judge: true
-time_limit: 8 초
-memory_limit: 512 MB
+title: "Interception"
+special_judge: "true"
+time_limit: "8 초"
+memory_limit: "512 MB"
 submissions: 65
 accepted: 6
 solved_users: 5
-acceptance_rate: 7.812%
-collected_at: 2026-04-17T13:12:03.853295+00:00
+acceptance_rate: "7.812%"
+collected_at: "2026-04-17T13:12:03.853295+00:00"
 ---
 
 ## 문제

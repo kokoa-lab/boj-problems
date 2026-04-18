@@ -1,13 +1,13 @@
 ---
-title: Voting
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Voting"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 446
 accepted: 359
 solved_users: 328
-acceptance_rate: 80.988%
-collected_at: 2026-04-17T11:04:49.190648+00:00
+acceptance_rate: "80.988%"
+collected_at: "2026-04-17T11:04:49.190648+00:00"
 ---
 
 ## 문제

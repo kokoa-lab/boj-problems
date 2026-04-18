@@ -1,13 +1,13 @@
 ---
-title: 스시스시 아일랜드 (Hard)
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "스시스시 아일랜드 (Hard)"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 27
 accepted: 4
 solved_users: 4
-acceptance_rate: 16.667%
-collected_at: 2026-04-17T19:40:10.437262+00:00
+acceptance_rate: "16.667%"
+collected_at: "2026-04-17T19:40:10.437262+00:00"
 ---
 
 ## 문제

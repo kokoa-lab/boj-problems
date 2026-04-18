@@ -1,13 +1,13 @@
 ---
-title: 주행시험장
-special_judge: false
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "주행시험장"
+special_judge: "false"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 660
 accepted: 138
 solved_users: 128
-acceptance_rate: 28.381%
-collected_at: 2026-04-17T19:24:35.633162+00:00
+acceptance_rate: "28.381%"
+collected_at: "2026-04-17T19:24:35.633162+00:00"
 ---
 
 ## 문제

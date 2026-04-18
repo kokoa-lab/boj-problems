@@ -1,13 +1,13 @@
 ---
-title: 돌멩이 게임
-special_judge: false
-time_limit: 3 초
-memory_limit: 256 MB
+title: "돌멩이 게임"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "256 MB"
 submissions: 310
 accepted: 146
 solved_users: 99
-acceptance_rate: 45.622%
-collected_at: 2026-04-17T15:23:18.529459+00:00
+acceptance_rate: "45.622%"
+collected_at: "2026-04-17T15:23:18.529459+00:00"
 ---
 
 ## 문제

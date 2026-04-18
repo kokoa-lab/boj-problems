@@ -1,13 +1,13 @@
 ---
-title: 문자열 생성 2
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "문자열 생성 2"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 757
 accepted: 179
 solved_users: 139
-acceptance_rate: 27.912%
-collected_at: 2026-04-17T11:21:12.435741+00:00
+acceptance_rate: "27.912%"
+collected_at: "2026-04-17T11:21:12.435741+00:00"
 ---
 
 ## 문제

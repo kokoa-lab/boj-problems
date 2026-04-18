@@ -1,13 +1,13 @@
 ---
-title: 틱택토 이기기
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "틱택토 이기기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 685
 accepted: 402
 solved_users: 366
-acceptance_rate: 61.616%
-collected_at: 2026-04-17T12:08:37.328615+00:00
+acceptance_rate: "61.616%"
+collected_at: "2026-04-17T12:08:37.328615+00:00"
 ---
 
 ## 문제

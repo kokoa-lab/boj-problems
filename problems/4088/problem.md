@@ -1,13 +1,13 @@
 ---
-title: Family Fortune
-special_judge: false
-time_limit: 10 초
-memory_limit: 128 MB
+title: "Family Fortune"
+special_judge: "false"
+time_limit: "10 초"
+memory_limit: "128 MB"
 submissions: 30
 accepted: 12
 solved_users: 9
-acceptance_rate: 37.500%
-collected_at: 2026-04-17T10:55:47.111338+00:00
+acceptance_rate: "37.500%"
+collected_at: "2026-04-17T10:55:47.111338+00:00"
 ---
 
 ## 문제

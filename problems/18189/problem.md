@@ -1,13 +1,13 @@
 ---
-title: 참 어려운 문제
-special_judge: false
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "참 어려운 문제"
+special_judge: "false"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 505
 accepted: 115
 solved_users: 91
-acceptance_rate: 21.615%
-collected_at: 2026-04-17T14:56:59.252544+00:00
+acceptance_rate: "21.615%"
+collected_at: "2026-04-17T14:56:59.252544+00:00"
 ---
 
 ## 문제

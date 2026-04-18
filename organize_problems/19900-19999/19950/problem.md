@@ -1,13 +1,13 @@
 ---
-title: 3차원 막대기 연결하기
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "3차원 막대기 연결하기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 436
 accepted: 228
 solved_users: 191
-acceptance_rate: 61.415%
-collected_at: 2026-04-17T15:29:45.247149+00:00
+acceptance_rate: "61.415%"
+collected_at: "2026-04-17T15:29:45.247149+00:00"
 ---
 
 ## 문제

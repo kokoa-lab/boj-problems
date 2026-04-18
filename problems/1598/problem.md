@@ -1,13 +1,13 @@
 ---
-title: 꼬리를 무는 숫자 나열
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "꼬리를 무는 숫자 나열"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 16009
 accepted: 6926
 solved_users: 6211
-acceptance_rate: 44.507%
-collected_at: 2026-04-17T10:31:32.066763+00:00
+acceptance_rate: "44.507%"
+collected_at: "2026-04-17T10:31:32.066763+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: SLIKAR
-special_judge: true
-time_limit: 1 초
-memory_limit: 128 MB
+title: "SLIKAR"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 23
 accepted: 12
 solved_users: 12
-acceptance_rate: 85.714%
-collected_at: 2026-04-17T10:45:52.916647+00:00
+acceptance_rate: "85.714%"
+collected_at: "2026-04-17T10:45:52.916647+00:00"
 ---
 
 ## 문제

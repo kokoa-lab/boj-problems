@@ -1,13 +1,13 @@
 ---
-title: Adjusting Drones
-special_judge: false
-time_limit: 4 초
-memory_limit: 2048 MB
+title: "Adjusting Drones"
+special_judge: "false"
+time_limit: "4 초"
+memory_limit: "2048 MB"
 submissions: 16
 accepted: 15
 solved_users: 15
-acceptance_rate: 93.750%
-collected_at: 2026-04-17T20:58:37.365300+00:00
+acceptance_rate: "93.750%"
+collected_at: "2026-04-17T20:58:37.365300+00:00"
 ---
 
 ## 문제

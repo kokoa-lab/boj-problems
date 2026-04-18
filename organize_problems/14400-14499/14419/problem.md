@@ -1,13 +1,13 @@
 ---
-title: Foehn Phenomena
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Foehn Phenomena"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 194
 accepted: 136
 solved_users: 125
-acceptance_rate: 69.444%
-collected_at: 2026-04-17T13:32:45.139518+00:00
+acceptance_rate: "69.444%"
+collected_at: "2026-04-17T13:32:45.139518+00:00"
 ---
 
 ## 문제

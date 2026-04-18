@@ -1,13 +1,13 @@
 ---
-title: Late Larry
-special_judge: false
-time_limit: 1 초
-memory_limit: 2048 MB
+title: "Late Larry"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "2048 MB"
 submissions: 190
 accepted: 82
 solved_users: 79
-acceptance_rate: 43.889%
-collected_at: 2026-04-17T20:38:39.765816+00:00
+acceptance_rate: "43.889%"
+collected_at: "2026-04-17T20:38:39.765816+00:00"
 ---
 
 ## 문제

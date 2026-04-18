@@ -1,13 +1,13 @@
 ---
-title: 달리기
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "달리기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 12343
 accepted: 5031
 solved_users: 3477
-acceptance_rate: 44.922%
-collected_at: 2026-04-17T10:42:16.627623+00:00
+acceptance_rate: "44.922%"
+collected_at: "2026-04-17T10:42:16.627623+00:00"
 ---
 
 ## 문제

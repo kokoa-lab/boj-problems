@@ -1,13 +1,13 @@
 ---
-title: Battleships
-special_judge: false
-time_limit: 10 초
-memory_limit: 128 MB
+title: "Battleships"
+special_judge: "false"
+time_limit: "10 초"
+memory_limit: "128 MB"
 submissions: 15
 accepted: 4
 solved_users: 4
-acceptance_rate: 26.667%
-collected_at: 2026-04-17T12:15:33.591156+00:00
+acceptance_rate: "26.667%"
+collected_at: "2026-04-17T12:15:33.591156+00:00"
 ---
 
 ## 문제

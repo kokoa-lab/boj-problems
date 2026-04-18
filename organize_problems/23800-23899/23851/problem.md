@@ -1,13 +1,13 @@
 ---
-title: Akcija
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Akcija"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 51
 accepted: 7
 solved_users: 6
-acceptance_rate: 13.636%
-collected_at: 2026-04-17T16:55:54.638223+00:00
+acceptance_rate: "13.636%"
+collected_at: "2026-04-17T16:55:54.638223+00:00"
 ---
 
 ## 문제

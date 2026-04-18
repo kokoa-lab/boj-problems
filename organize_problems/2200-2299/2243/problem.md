@@ -1,13 +1,13 @@
 ---
-title: 사탕상자
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "사탕상자"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 19123
 accepted: 7920
 solved_users: 5390
-acceptance_rate: 40.140%
-collected_at: 2026-04-17T10:39:51.164792+00:00
+acceptance_rate: "40.140%"
+collected_at: "2026-04-17T10:39:51.164792+00:00"
 ---
 
 ## 문제

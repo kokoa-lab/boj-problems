@@ -1,13 +1,13 @@
 ---
-title: 단축키 지정
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "단축키 지정"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 9448
 accepted: 4150
 solved_users: 3371
-acceptance_rate: 44.513%
-collected_at: 2026-04-17T10:29:15.972264+00:00
+acceptance_rate: "44.513%"
+collected_at: "2026-04-17T10:29:15.972264+00:00"
 ---
 
 ## 문제

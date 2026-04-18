@@ -1,13 +1,13 @@
 ---
-title: Simple Encryption
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Simple Encryption"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 129
 accepted: 114
 solved_users: 100
-acceptance_rate: 86.957%
-collected_at: 2026-04-17T11:40:14.704639+00:00
+acceptance_rate: "86.957%"
+collected_at: "2026-04-17T11:40:14.704639+00:00"
 ---
 
 ## 문제

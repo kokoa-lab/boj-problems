@@ -1,13 +1,13 @@
 ---
-title: Letters Q and F
-special_judge: false
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "Letters Q and F"
+special_judge: "false"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 84
 accepted: 36
 solved_users: 34
-acceptance_rate: 51.515%
-collected_at: 2026-04-17T17:12:36.676130+00:00
+acceptance_rate: "51.515%"
+collected_at: "2026-04-17T17:12:36.676130+00:00"
 ---
 
 ## 문제

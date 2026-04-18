@@ -1,13 +1,13 @@
 ---
-title: 다중 항목 선호도 조사 (Large)
-special_judge: false
-time_limit: 3 초
-memory_limit: 512 MB
+title: "다중 항목 선호도 조사 (Large)"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "512 MB"
 submissions: 718
 accepted: 344
 solved_users: 217
-acceptance_rate: 44.559%
-collected_at: 2026-04-17T17:24:56.360054+00:00
+acceptance_rate: "44.559%"
+collected_at: "2026-04-17T17:24:56.360054+00:00"
 ---
 
 ## 문제

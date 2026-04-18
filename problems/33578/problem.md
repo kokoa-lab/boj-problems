@@ -1,13 +1,13 @@
 ---
-title: 누가 이름 안 적고 나갔어
-special_judge: false
-time_limit: 3 초
-memory_limit: 1024 MB
+title: "누가 이름 안 적고 나갔어"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "1024 MB"
 submissions: 527
 accepted: 153
 solved_users: 112
-acceptance_rate: 27.861%
-collected_at: 2026-04-17T20:19:19.220338+00:00
+acceptance_rate: "27.861%"
+collected_at: "2026-04-17T20:19:19.220338+00:00"
 ---
 
 ## 문제

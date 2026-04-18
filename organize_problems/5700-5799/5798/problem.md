@@ -1,13 +1,13 @@
 ---
-title: Esspe-Peasee
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Esspe-Peasee"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 74
 accepted: 15
 solved_users: 13
-acceptance_rate: 32.500%
-collected_at: 2026-04-17T11:17:30.547890+00:00
+acceptance_rate: "32.500%"
+collected_at: "2026-04-17T11:17:30.547890+00:00"
 ---
 
 ## 문제

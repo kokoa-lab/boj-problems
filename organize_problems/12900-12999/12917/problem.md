@@ -1,13 +1,13 @@
 ---
-title: 문자열 함수 계산
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "문자열 함수 계산"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 428
 accepted: 123
 solved_users: 98
-acceptance_rate: 33.447%
-collected_at: 2026-04-17T13:03:57.485731+00:00
+acceptance_rate: "33.447%"
+collected_at: "2026-04-17T13:03:57.485731+00:00"
 ---
 
 ## 문제

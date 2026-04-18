@@ -1,13 +1,13 @@
 ---
-title: Fleecing the Raffle
-special_judge: true
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Fleecing the Raffle"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 129
 accepted: 59
 solved_users: 51
-acceptance_rate: 44.348%
-collected_at: 2026-04-17T13:12:03.624456+00:00
+acceptance_rate: "44.348%"
+collected_at: "2026-04-17T13:12:03.624456+00:00"
 ---
 
 ## 문제

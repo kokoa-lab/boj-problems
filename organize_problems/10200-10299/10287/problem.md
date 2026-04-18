@@ -1,13 +1,13 @@
 ---
-title: Spy Network
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "Spy Network"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 60
 accepted: 33
 solved_users: 28
-acceptance_rate: 51.852%
-collected_at: 2026-04-18T10:04:04.825400+00:00
+acceptance_rate: "51.852%"
+collected_at: "2026-04-18T10:04:04.825400+00:00"
 ---
 
 ## 문제

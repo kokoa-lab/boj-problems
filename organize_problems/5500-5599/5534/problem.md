@@ -1,13 +1,13 @@
 ---
-title: 간판
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "간판"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 1729
 accepted: 858
 solved_users: 727
-acceptance_rate: 53.574%
-collected_at: 2026-04-17T11:15:07.835142+00:00
+acceptance_rate: "53.574%"
+collected_at: "2026-04-17T11:15:07.835142+00:00"
 ---
 
 ## 문제

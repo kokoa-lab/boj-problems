@@ -1,13 +1,13 @@
 ---
-title: K의 배수 Extreme
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "K의 배수 Extreme"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 111
 accepted: 60
 solved_users: 44
-acceptance_rate: 53.012%
-collected_at: 2026-04-17T19:30:25.902891+00:00
+acceptance_rate: "53.012%"
+collected_at: "2026-04-17T19:30:25.902891+00:00"
 ---
 
 ## 문제

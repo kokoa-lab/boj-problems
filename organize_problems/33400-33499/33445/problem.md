@@ -1,13 +1,13 @@
 ---
-title: Majority
-special_judge: true
-time_limit: 2 초
-memory_limit: 2048 MB
+title: "Majority"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "2048 MB"
 submissions: 12
 accepted: 6
 solved_users: 4
-acceptance_rate: 40.000%
-collected_at: 2026-04-17T20:16:05.554387+00:00
+acceptance_rate: "40.000%"
+collected_at: "2026-04-17T20:16:05.554387+00:00"
 ---
 
 ## 문제

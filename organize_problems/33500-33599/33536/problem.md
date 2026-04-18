@@ -1,13 +1,13 @@
 ---
-title: A Match of Table Tennis
-special_judge: false
-time_limit: 1 초
-memory_limit: 2048 MB
+title: "A Match of Table Tennis"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "2048 MB"
 submissions: 32
 accepted: 21
 solved_users: 10
-acceptance_rate: 66.667%
-collected_at: 2026-04-17T20:18:27.457017+00:00
+acceptance_rate: "66.667%"
+collected_at: "2026-04-17T20:18:27.457017+00:00"
 ---
 
 ## 문제

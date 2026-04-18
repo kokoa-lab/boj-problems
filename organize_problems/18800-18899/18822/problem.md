@@ -1,13 +1,13 @@
 ---
-title: Beginning the Hunt
-special_judge: true
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Beginning the Hunt"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 858
 accepted: 134
 solved_users: 132
-acceptance_rate: 25.095%
-collected_at: 2026-04-17T15:10:01.852332+00:00
+acceptance_rate: "25.095%"
+collected_at: "2026-04-17T15:10:01.852332+00:00"
 ---
 
 ## 문제

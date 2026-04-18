@@ -1,13 +1,13 @@
 ---
-title: Szlaczek
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Szlaczek"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 71
 accepted: 43
 solved_users: 25
-acceptance_rate: 51.020%
-collected_at: 2026-04-17T12:03:17.299716+00:00
+acceptance_rate: "51.020%"
+collected_at: "2026-04-17T12:03:17.299716+00:00"
 ---
 
 ## 문제

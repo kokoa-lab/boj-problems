@@ -1,13 +1,13 @@
 ---
-title: MI6
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "MI6"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 162
 accepted: 93
 solved_users: 84
-acceptance_rate: 63.636%
-collected_at: 2026-04-17T12:08:57.262071+00:00
+acceptance_rate: "63.636%"
+collected_at: "2026-04-17T12:08:57.262071+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: DJ Darko
-special_judge: false
-time_limit: 4 초 (추가 시간 없음)
-memory_limit: 256 MB
+title: "DJ Darko"
+special_judge: "false"
+time_limit: "4 초 (추가 시간 없음)"
+memory_limit: "256 MB"
 submissions: 39
 accepted: 18
 solved_users: 15
-acceptance_rate: 42.857%
-collected_at: 2026-04-17T17:20:57.372175+00:00
+acceptance_rate: "42.857%"
+collected_at: "2026-04-17T17:20:57.372175+00:00"
 ---
 
 ## 문제

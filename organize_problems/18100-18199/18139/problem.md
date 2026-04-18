@@ -1,13 +1,13 @@
 ---
-title: Rush Hour Puzzle
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Rush Hour Puzzle"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 431
 accepted: 172
 solved_users: 74
-acceptance_rate: 38.947%
-collected_at: 2026-04-17T14:56:23.781072+00:00
+acceptance_rate: "38.947%"
+collected_at: "2026-04-17T14:56:23.781072+00:00"
 ---
 
 ## 문제

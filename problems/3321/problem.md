@@ -1,13 +1,13 @@
 ---
-title: 가장 큰 직사각형
-special_judge: false
-time_limit: 0.6 초
-memory_limit: 128 MB
+title: "가장 큰 직사각형"
+special_judge: "false"
+time_limit: "0.6 초"
+memory_limit: "128 MB"
 submissions: 1141
 accepted: 294
 solved_users: 169
-acceptance_rate: 24.006%
-collected_at: 2026-04-17T10:48:08.095915+00:00
+acceptance_rate: "24.006%"
+collected_at: "2026-04-17T10:48:08.095915+00:00"
 ---
 
 ## 문제

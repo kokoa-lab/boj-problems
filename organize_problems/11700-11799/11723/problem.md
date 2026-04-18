@@ -1,13 +1,13 @@
 ---
-title: 집합
-special_judge: false
-time_limit: 1.5 초
-memory_limit: 4 MB ( 하단 참고 )
+title: "집합"
+special_judge: "false"
+time_limit: "1.5 초"
+memory_limit: "4 MB ( 하단 참고 )"
 submissions: 162439
 accepted: 51424
 solved_users: 38232
-acceptance_rate: 30.357%
-collected_at: 2026-04-17T12:44:46.774306+00:00
+acceptance_rate: "30.357%"
+collected_at: "2026-04-17T12:44:46.774306+00:00"
 ---
 
 ## 문제

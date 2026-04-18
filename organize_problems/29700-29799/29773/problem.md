@@ -1,13 +1,13 @@
 ---
-title: 2023년은 검은 토끼의 해 (Hard)
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "2023년은 검은 토끼의 해 (Hard)"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 59
 accepted: 29
 solved_users: 27
-acceptance_rate: 81.818%
-collected_at: 2026-04-17T18:52:35.245563+00:00
+acceptance_rate: "81.818%"
+collected_at: "2026-04-17T18:52:35.245563+00:00"
 ---
 
 ## 문제

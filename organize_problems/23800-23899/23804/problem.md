@@ -1,13 +1,13 @@
 ---
-title: 골뱅이 찍기 - ㄷ
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "골뱅이 찍기 - ㄷ"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 2315
 accepted: 1857
 solved_users: 1761
-acceptance_rate: 80.854%
-collected_at: 2026-04-17T16:54:15.361566+00:00
+acceptance_rate: "80.854%"
+collected_at: "2026-04-17T16:54:15.361566+00:00"
 ---
 
 ## 문제

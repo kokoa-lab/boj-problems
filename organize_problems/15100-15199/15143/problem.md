@@ -1,13 +1,13 @@
 ---
-title: Atomic Mass
-special_judge: true
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Atomic Mass"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 84
 accepted: 49
 solved_users: 44
-acceptance_rate: 61.972%
-collected_at: 2026-04-17T13:52:19.225433+00:00
+acceptance_rate: "61.972%"
+collected_at: "2026-04-17T13:52:19.225433+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 수리공 항승
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "수리공 항승"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 28039
 accepted: 14286
 solved_users: 11812
-acceptance_rate: 51.132%
-collected_at: 2026-04-17T10:30:16.225776+00:00
+acceptance_rate: "51.132%"
+collected_at: "2026-04-17T10:30:16.225776+00:00"
 ---
 
 ## 문제

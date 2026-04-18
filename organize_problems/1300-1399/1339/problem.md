@@ -1,13 +1,13 @@
 ---
-title: 단어 수학
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "단어 수학"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 43160
 accepted: 20503
 solved_users: 15640
-acceptance_rate: 47.072%
-collected_at: 2026-04-17T10:29:32.398264+00:00
+acceptance_rate: "47.072%"
+collected_at: "2026-04-17T10:29:32.398264+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 위너의 반대말은?
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "위너의 반대말은?"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 105
 accepted: 16
 solved_users: 8
-acceptance_rate: 9.302%
-collected_at: 2026-04-17T20:16:51.708312+00:00
+acceptance_rate: "9.302%"
+collected_at: "2026-04-17T20:16:51.708312+00:00"
 ---
 
 ## 문제

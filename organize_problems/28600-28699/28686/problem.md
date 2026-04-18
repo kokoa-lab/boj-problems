@@ -1,13 +1,13 @@
 ---
-title: 감소하는 성장률의 비극 3
-special_judge: true
-time_limit: 3 초
-memory_limit: 1024 MB
+title: "감소하는 성장률의 비극 3"
+special_judge: "true"
+time_limit: "3 초"
+memory_limit: "1024 MB"
 submissions: 8
 accepted: 4
 solved_users: 4
-acceptance_rate: 100.000%
-collected_at: 2026-04-17T18:30:37.762292+00:00
+acceptance_rate: "100.000%"
+collected_at: "2026-04-17T18:30:37.762292+00:00"
 ---
 
 ## 문제

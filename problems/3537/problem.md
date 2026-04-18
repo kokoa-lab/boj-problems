@@ -1,13 +1,13 @@
 ---
-title: Ideal Contest
-special_judge: true
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Ideal Contest"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 21
 accepted: 4
 solved_users: 2
-acceptance_rate: 28.571%
-collected_at: 2026-04-17T10:49:37.790874+00:00
+acceptance_rate: "28.571%"
+collected_at: "2026-04-17T10:49:37.790874+00:00"
 ---
 
 ## 문제

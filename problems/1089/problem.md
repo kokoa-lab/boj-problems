@@ -1,13 +1,13 @@
 ---
-title: 스타트링크 타워
-special_judge: true
-time_limit: 2 초
-memory_limit: 128 MB
+title: "스타트링크 타워"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 4279
 accepted: 1329
 solved_users: 986
-acceptance_rate: 30.329%
-collected_at: 2026-04-17T10:28:09.353485+00:00
+acceptance_rate: "30.329%"
+collected_at: "2026-04-17T10:28:09.353485+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Tapioka
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Tapioka"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 268
 accepted: 206
 solved_users: 183
-acceptance_rate: 76.891%
-collected_at: 2026-04-17T14:56:18.808869+00:00
+acceptance_rate: "76.891%"
+collected_at: "2026-04-17T14:56:18.808869+00:00"
 ---
 
 ## 문제

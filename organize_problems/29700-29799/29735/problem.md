@@ -1,13 +1,13 @@
 ---
-title: 택배가 안와잉
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "택배가 안와잉"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 805
 accepted: 316
 solved_users: 272
-acceptance_rate: 43.312%
-collected_at: 2026-04-17T18:51:47.179274+00:00
+acceptance_rate: "43.312%"
+collected_at: "2026-04-17T18:51:47.179274+00:00"
 ---
 
 ## 문제

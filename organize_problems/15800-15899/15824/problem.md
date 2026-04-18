@@ -1,13 +1,13 @@
 ---
-title: 너 봄에는 캡사이신이 맛있단다
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "너 봄에는 캡사이신이 맛있단다"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 11280
 accepted: 3544
 solved_users: 2616
-acceptance_rate: 28.999%
-collected_at: 2026-04-17T14:07:14.089262+00:00
+acceptance_rate: "28.999%"
+collected_at: "2026-04-17T14:07:14.089262+00:00"
 ---
 
 ## 문제

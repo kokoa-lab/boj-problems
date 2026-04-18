@@ -1,13 +1,13 @@
 ---
-title: Med
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Med"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 44
 accepted: 36
 solved_users: 32
-acceptance_rate: 82.051%
-collected_at: 2026-04-17T17:19:22.410928+00:00
+acceptance_rate: "82.051%"
+collected_at: "2026-04-17T17:19:22.410928+00:00"
 ---
 
 ## 문제

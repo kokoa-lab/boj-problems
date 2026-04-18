@@ -1,13 +1,13 @@
 ---
-title: 증가하는 부분 수열
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "증가하는 부분 수열"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 1152
 accepted: 424
 solved_users: 304
-acceptance_rate: 39.327%
-collected_at: 2026-04-17T13:15:12.236585+00:00
+acceptance_rate: "39.327%"
+collected_at: "2026-04-17T13:15:12.236585+00:00"
 ---
 
 ## 문제

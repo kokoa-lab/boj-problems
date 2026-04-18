@@ -1,13 +1,13 @@
 ---
-title: Time to Graduate
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Time to Graduate"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 13
 accepted: 5
 solved_users: 5
-acceptance_rate: 62.500%
-collected_at: 2026-04-17T11:06:03.681924+00:00
+acceptance_rate: "62.500%"
+collected_at: "2026-04-17T11:06:03.681924+00:00"
 ---
 
 ## 문제

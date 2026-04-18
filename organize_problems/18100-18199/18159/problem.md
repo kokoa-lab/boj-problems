@@ -1,13 +1,13 @@
 ---
-title: Have You Ever Sorted an Array?
-special_judge: false
-time_limit: 4 초
-memory_limit: 512 MB
+title: "Have You Ever Sorted an Array?"
+special_judge: "false"
+time_limit: "4 초"
+memory_limit: "512 MB"
 submissions: 196
 accepted: 36
 solved_users: 24
-acceptance_rate: 20.000%
-collected_at: 2026-04-17T14:56:39.765220+00:00
+acceptance_rate: "20.000%"
+collected_at: "2026-04-17T14:56:39.765220+00:00"
 ---
 
 ## 문제

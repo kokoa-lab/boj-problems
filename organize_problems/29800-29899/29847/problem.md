@@ -1,13 +1,13 @@
 ---
-title: Character Frequencies
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Character Frequencies"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 174
 accepted: 135
 solved_users: 116
-acceptance_rate: 79.452%
-collected_at: 2026-04-17T18:54:04.834628+00:00
+acceptance_rate: "79.452%"
+collected_at: "2026-04-17T18:54:04.834628+00:00"
 ---
 
 ## 문제

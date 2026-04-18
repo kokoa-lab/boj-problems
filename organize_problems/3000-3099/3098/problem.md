@@ -1,13 +1,13 @@
 ---
-title: 소셜네트워크
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "소셜네트워크"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 845
 accepted: 432
 solved_users: 328
-acceptance_rate: 52.396%
-collected_at: 2026-04-17T10:46:39.905944+00:00
+acceptance_rate: "52.396%"
+collected_at: "2026-04-17T10:46:39.905944+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 돌 가져가기 게임
-special_judge: false
-time_limit: 0.5 초
-memory_limit: 256 MB
+title: "돌 가져가기 게임"
+special_judge: "false"
+time_limit: "0.5 초"
+memory_limit: "256 MB"
 submissions: 81
 accepted: 27
 solved_users: 15
-acceptance_rate: 23.810%
-collected_at: 2026-04-17T18:20:51.829550+00:00
+acceptance_rate: "23.810%"
+collected_at: "2026-04-17T18:20:51.829550+00:00"
 ---
 
 ## 문제

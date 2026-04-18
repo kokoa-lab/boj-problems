@@ -1,13 +1,13 @@
 ---
-title: 가위바위보
-special_judge: true
-time_limit: 2 초
-memory_limit: 512 MB
+title: "가위바위보"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 544
 accepted: 75
 solved_users: 30
-acceptance_rate: 41.667%
-collected_at: 2026-04-17T13:07:40.320378+00:00
+acceptance_rate: "41.667%"
+collected_at: "2026-04-17T13:07:40.320378+00:00"
 ---
 
 ## 문제

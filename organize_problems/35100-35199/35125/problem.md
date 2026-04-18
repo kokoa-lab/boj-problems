@@ -1,13 +1,13 @@
 ---
-title: Charity Raffle
-special_judge: false
-time_limit: 3 초
-memory_limit: 2048 MB
+title: "Charity Raffle"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "2048 MB"
 submissions: 17
 accepted: 14
 solved_users: 13
-acceptance_rate: 81.250%
-collected_at: 2026-04-17T20:56:18.802121+00:00
+acceptance_rate: "81.250%"
+collected_at: "2026-04-17T20:56:18.802121+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Sumy i różnice
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Sumy i różnice"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 263
 accepted: 122
 solved_users: 96
-acceptance_rate: 46.829%
-collected_at: 2026-04-17T12:01:52.702856+00:00
+acceptance_rate: "46.829%"
+collected_at: "2026-04-17T12:01:52.702856+00:00"
 ---
 
 ## 문제

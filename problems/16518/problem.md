@@ -1,13 +1,13 @@
 ---
-title: New Salaries
-special_judge: true
-time_limit: 2 초
-memory_limit: 512 MB
+title: "New Salaries"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 20
 accepted: 6
 solved_users: 6
-acceptance_rate: 35.294%
-collected_at: 2026-04-17T14:19:30.361989+00:00
+acceptance_rate: "35.294%"
+collected_at: "2026-04-17T14:19:30.361989+00:00"
 ---
 
 ## 문제

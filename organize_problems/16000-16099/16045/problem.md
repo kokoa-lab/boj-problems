@@ -1,13 +1,13 @@
 ---
-title: Probe Droids
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Probe Droids"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 30
 accepted: 10
 solved_users: 10
-acceptance_rate: 41.667%
-collected_at: 2026-04-17T14:10:29.143313+00:00
+acceptance_rate: "41.667%"
+collected_at: "2026-04-17T14:10:29.143313+00:00"
 ---
 
 ## 문제

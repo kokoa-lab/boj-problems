@@ -1,13 +1,13 @@
 ---
-title: Clock Catchup
-special_judge: false
-time_limit: 1 초
-memory_limit: 2048 MB
+title: "Clock Catchup"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "2048 MB"
 submissions: 132
 accepted: 109
 solved_users: 91
-acceptance_rate: 83.486%
-collected_at: 2026-04-17T20:34:57.376748+00:00
+acceptance_rate: "83.486%"
+collected_at: "2026-04-17T20:34:57.376748+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Strahler 순서
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Strahler 순서"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 5347
 accepted: 2228
 solved_users: 1770
-acceptance_rate: 41.192%
-collected_at: 2026-04-17T12:10:14.797276+00:00
+acceptance_rate: "41.192%"
+collected_at: "2026-04-17T12:10:14.797276+00:00"
 ---
 
 ## 문제

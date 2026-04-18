@@ -1,13 +1,13 @@
 ---
-title: Figure Skating Judging
-special_judge: true
-time_limit: 2 초
-memory_limit: 2048 MB
+title: "Figure Skating Judging"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "2048 MB"
 submissions: 22
 accepted: 14
 solved_users: 13
-acceptance_rate: 72.222%
-collected_at: 2026-04-17T20:44:41.893285+00:00
+acceptance_rate: "72.222%"
+collected_at: "2026-04-17T20:44:41.893285+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 숫자
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "숫자"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 1570
 accepted: 632
 solved_users: 359
-acceptance_rate: 36.008%
-collected_at: 2026-04-17T10:28:23.045979+00:00
+acceptance_rate: "36.008%"
+collected_at: "2026-04-17T10:28:23.045979+00:00"
 ---
 
 ## 문제

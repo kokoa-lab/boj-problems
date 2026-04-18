@@ -1,13 +1,13 @@
 ---
-title: Changing the Sitting Arrangement
-special_judge: true
-time_limit: 8 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Changing the Sitting Arrangement"
+special_judge: "true"
+time_limit: "8 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 31
 accepted: 19
 solved_users: 19
-acceptance_rate: 76.000%
-collected_at: 2026-04-17T18:51:08.196875+00:00
+acceptance_rate: "76.000%"
+collected_at: "2026-04-17T18:51:08.196875+00:00"
 ---
 
 ## 문제

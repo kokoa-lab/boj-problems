@@ -1,13 +1,13 @@
 ---
-title: Bus Routes
-special_judge: false
-time_limit: 10 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Bus Routes"
+special_judge: "false"
+time_limit: "10 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 70
 accepted: 51
 solved_users: 45
-acceptance_rate: 70.312%
-collected_at: 2026-04-17T16:57:19.534603+00:00
+acceptance_rate: "70.312%"
+collected_at: "2026-04-17T16:57:19.534603+00:00"
 ---
 
 ## 문제

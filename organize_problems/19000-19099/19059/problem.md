@@ -1,13 +1,13 @@
 ---
-title: Octopus
-special_judge: true
-time_limit: 2 초
-memory_limit: 256 MB
+title: "Octopus"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 11
 accepted: 6
 solved_users: 5
-acceptance_rate: 55.556%
-collected_at: 2026-04-17T15:12:58.510978+00:00
+acceptance_rate: "55.556%"
+collected_at: "2026-04-17T15:12:58.510978+00:00"
 ---
 
 ## 문제

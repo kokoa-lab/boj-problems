@@ -1,13 +1,13 @@
 ---
-title: Claustrophobic Cows
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Claustrophobic Cows"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 442
 accepted: 221
 solved_users: 199
-acceptance_rate: 51.026%
-collected_at: 2026-04-17T11:19:18.926095+00:00
+acceptance_rate: "51.026%"
+collected_at: "2026-04-17T11:19:18.926095+00:00"
 ---
 
 ## 문제

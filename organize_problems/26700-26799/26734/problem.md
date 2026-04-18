@@ -1,13 +1,13 @@
 ---
-title: Stabilny ciąg
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Stabilny ciąg"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 34
 accepted: 20
 solved_users: 13
-acceptance_rate: 52.000%
-collected_at: 2026-04-17T17:50:37.780203+00:00
+acceptance_rate: "52.000%"
+collected_at: "2026-04-17T17:50:37.780203+00:00"
 ---
 
 ## 문제

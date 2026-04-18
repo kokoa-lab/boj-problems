@@ -1,13 +1,13 @@
 ---
-title: 4 thought
-special_judge: true
-time_limit: 2 초
-memory_limit: 256 MB
+title: "4 thought"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 165
 accepted: 94
 solved_users: 79
-acceptance_rate: 53.020%
-collected_at: 2026-04-17T12:24:27.604347+00:00
+acceptance_rate: "53.020%"
+collected_at: "2026-04-17T12:24:27.604347+00:00"
 ---
 
 ## 문제

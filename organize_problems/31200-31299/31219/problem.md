@@ -1,13 +1,13 @@
 ---
-title: 세계 일주
-special_judge: true
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "세계 일주"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 405
 accepted: 193
 solved_users: 150
-acceptance_rate: 51.195%
-collected_at: 2026-04-17T19:23:46.379604+00:00
+acceptance_rate: "51.195%"
+collected_at: "2026-04-17T19:23:46.379604+00:00"
 ---
 
 ## 문제

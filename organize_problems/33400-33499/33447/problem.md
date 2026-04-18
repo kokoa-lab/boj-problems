@@ -1,13 +1,13 @@
 ---
-title: Matrices and Sums
-special_judge: true
-time_limit: 1 초
-memory_limit: 2048 MB
+title: "Matrices and Sums"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "2048 MB"
 submissions: 28
 accepted: 15
 solved_users: 14
-acceptance_rate: 60.870%
-collected_at: 2026-04-17T20:16:12.476692+00:00
+acceptance_rate: "60.870%"
+collected_at: "2026-04-17T20:16:12.476692+00:00"
 ---
 
 ## 문제

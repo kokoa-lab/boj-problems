@@ -1,13 +1,13 @@
 ---
-title: Celestial Map
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Celestial Map"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 99
 accepted: 36
 solved_users: 31
-acceptance_rate: 41.892%
-collected_at: 2026-04-17T13:08:20.412400+00:00
+acceptance_rate: "41.892%"
+collected_at: "2026-04-17T13:08:20.412400+00:00"
 ---
 
 ## 문제

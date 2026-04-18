@@ -1,13 +1,13 @@
 ---
-title: Шахматы
-special_judge: true
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Шахматы"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 60
 accepted: 36
 solved_users: 29
-acceptance_rate: 70.732%
-collected_at: 2026-04-17T15:27:29.451731+00:00
+acceptance_rate: "70.732%"
+collected_at: "2026-04-17T15:27:29.451731+00:00"
 ---
 
 ## 문제

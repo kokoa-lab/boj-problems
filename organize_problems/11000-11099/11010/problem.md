@@ -1,13 +1,13 @@
 ---
-title: Explosive Materials
-special_judge: false
-time_limit: 3 초
-memory_limit: 256 MB
+title: "Explosive Materials"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "256 MB"
 submissions: 137
 accepted: 56
 solved_users: 48
-acceptance_rate: 41.379%
-collected_at: 2026-04-17T12:34:56.481502+00:00
+acceptance_rate: "41.379%"
+collected_at: "2026-04-17T12:34:56.481502+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Keep Calm and Sell Balloons
-special_judge: false
-time_limit: 0.5 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "Keep Calm and Sell Balloons"
+special_judge: "false"
+time_limit: "0.5 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 46
 accepted: 37
 solved_users: 31
-acceptance_rate: 81.579%
-collected_at: 2026-04-17T14:41:31.236780+00:00
+acceptance_rate: "81.579%"
+collected_at: "2026-04-17T14:41:31.236780+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Logical Moos
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Logical Moos"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 174
 accepted: 66
 solved_users: 48
-acceptance_rate: 43.243%
-collected_at: 2026-04-17T19:36:13.730426+00:00
+acceptance_rate: "43.243%"
+collected_at: "2026-04-17T19:36:13.730426+00:00"
 ---
 
 ## 문제

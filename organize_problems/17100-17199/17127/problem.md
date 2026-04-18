@@ -1,13 +1,13 @@
 ---
-title: 벚꽃이 정보섬에 피어난 이유
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "벚꽃이 정보섬에 피어난 이유"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 2257
 accepted: 1552
 solved_users: 1366
-acceptance_rate: 71.706%
-collected_at: 2026-04-17T14:30:22.225735+00:00
+acceptance_rate: "71.706%"
+collected_at: "2026-04-17T14:30:22.225735+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 좋은 친구
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "좋은 친구"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 12002
 accepted: 3954
 solved_users: 2978
-acceptance_rate: 32.787%
-collected_at: 2026-04-17T10:46:32.670261+00:00
+acceptance_rate: "32.787%"
+collected_at: "2026-04-17T10:46:32.670261+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Circle of Cows
-special_judge: false
-time_limit: 2 초
-memory_limit: 2048 MB
+title: "Circle of Cows"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "2048 MB"
 submissions: 1
 accepted: 0
 solved_users: 0
-acceptance_rate: 0.000%
-collected_at: 2026-04-17T21:00:21.142214+00:00
+acceptance_rate: "0.000%"
+collected_at: "2026-04-17T21:00:21.142214+00:00"
 ---
 
 ## 문제

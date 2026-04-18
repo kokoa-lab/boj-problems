@@ -1,13 +1,13 @@
 ---
-title: Pizza Boxes
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Pizza Boxes"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 2487
 accepted: 1141
 solved_users: 928
-acceptance_rate: 48.183%
-collected_at: 2026-04-17T13:41:27.806690+00:00
+acceptance_rate: "48.183%"
+collected_at: "2026-04-17T13:41:27.806690+00:00"
 ---
 
 ## 문제

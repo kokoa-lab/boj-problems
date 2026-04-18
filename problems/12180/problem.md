@@ -1,13 +1,13 @@
 ---
-title: Googlander (Small)
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Googlander (Small)"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 139
 accepted: 93
 solved_users: 78
-acceptance_rate: 66.102%
-collected_at: 2026-04-17T12:51:26.640051+00:00
+acceptance_rate: "66.102%"
+collected_at: "2026-04-17T12:51:26.640051+00:00"
 ---
 
 ## 문제

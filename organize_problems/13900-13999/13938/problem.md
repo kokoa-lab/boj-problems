@@ -1,13 +1,13 @@
 ---
-title: Kiwi Trees
-special_judge: true
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Kiwi Trees"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 237
 accepted: 28
 solved_users: 23
-acceptance_rate: 10.648%
-collected_at: 2026-04-17T13:22:41.031832+00:00
+acceptance_rate: "10.648%"
+collected_at: "2026-04-17T13:22:41.031832+00:00"
 ---
 
 ## 문제

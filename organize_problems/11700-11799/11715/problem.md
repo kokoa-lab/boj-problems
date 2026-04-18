@@ -1,13 +1,13 @@
 ---
-title: New Game AI
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "New Game AI"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 18
 accepted: 6
 solved_users: 5
-acceptance_rate: 41.667%
-collected_at: 2026-04-17T12:44:43.429886+00:00
+acceptance_rate: "41.667%"
+collected_at: "2026-04-17T12:44:43.429886+00:00"
 ---
 
 ## 문제

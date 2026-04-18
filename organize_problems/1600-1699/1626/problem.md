@@ -1,13 +1,13 @@
 ---
-title: 두 번째로 작은 스패닝 트리
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "두 번째로 작은 스패닝 트리"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 9671
 accepted: 1621
 solved_users: 848
-acceptance_rate: 15.715%
-collected_at: 2026-04-17T10:31:45.726829+00:00
+acceptance_rate: "15.715%"
+collected_at: "2026-04-17T10:31:45.726829+00:00"
 ---
 
 ## 문제

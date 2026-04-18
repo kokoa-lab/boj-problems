@@ -1,13 +1,13 @@
 ---
-title: Jogging
-special_judge: false
-time_limit: 1 초
-memory_limit: 16 MB
+title: "Jogging"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "16 MB"
 submissions: 182
 accepted: 27
 solved_users: 20
-acceptance_rate: 20.000%
-collected_at: 2026-04-17T12:31:17.953692+00:00
+acceptance_rate: "20.000%"
+collected_at: "2026-04-17T12:31:17.953692+00:00"
 ---
 
 ## 문제

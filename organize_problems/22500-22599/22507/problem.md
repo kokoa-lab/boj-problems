@@ -1,13 +1,13 @@
 ---
-title: Marathon Match
-special_judge: true
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Marathon Match"
+special_judge: "true"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 15
 accepted: 11
 solved_users: 9
-acceptance_rate: 69.231%
-collected_at: 2026-04-17T16:23:55.432409+00:00
+acceptance_rate: "69.231%"
+collected_at: "2026-04-17T16:23:55.432409+00:00"
 ---
 
 ## 문제

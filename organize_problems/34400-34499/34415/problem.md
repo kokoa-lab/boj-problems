@@ -1,13 +1,13 @@
 ---
-title: marblemaze
-special_judge: false
-time_limit: 1 초
-memory_limit: 2048 MB
+title: "marblemaze"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "2048 MB"
 submissions: 19
 accepted: 17
 solved_users: 15
-acceptance_rate: 100.000%
-collected_at: 2026-04-17T20:38:04.597468+00:00
+acceptance_rate: "100.000%"
+collected_at: "2026-04-17T20:38:04.597468+00:00"
 ---
 
 ## 문제

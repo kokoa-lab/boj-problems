@@ -1,13 +1,13 @@
 ---
-title: K-세준수
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "K-세준수"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 4056
 accepted: 2140
 solved_users: 1825
-acceptance_rate: 56.414%
-collected_at: 2026-04-17T10:30:03.946593+00:00
+acceptance_rate: "56.414%"
+collected_at: "2026-04-17T10:30:03.946593+00:00"
 ---
 
 ## 문제

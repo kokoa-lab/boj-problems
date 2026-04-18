@@ -1,13 +1,13 @@
 ---
-title: Шахматные баталии
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Шахматные баталии"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 59
 accepted: 42
 solved_users: 30
-acceptance_rate: 68.182%
-collected_at: 2026-04-17T15:57:52.155156+00:00
+acceptance_rate: "68.182%"
+collected_at: "2026-04-17T15:57:52.155156+00:00"
 ---
 
 ## 문제

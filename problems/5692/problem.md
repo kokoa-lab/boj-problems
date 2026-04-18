@@ -1,13 +1,13 @@
 ---
-title: 팩토리얼 진법
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "팩토리얼 진법"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 6458
 accepted: 2884
 solved_users: 2325
-acceptance_rate: 45.401%
-collected_at: 2026-04-17T11:16:37.588956+00:00
+acceptance_rate: "45.401%"
+collected_at: "2026-04-17T11:16:37.588956+00:00"
 ---
 
 ## 문제

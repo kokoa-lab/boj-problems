@@ -1,13 +1,13 @@
 ---
-title: Another Wine Tasting Event
-special_judge: true
-time_limit: 0.5 초
-memory_limit: 1024 MB
+title: "Another Wine Tasting Event"
+special_judge: "true"
+time_limit: "0.5 초"
+memory_limit: "1024 MB"
 submissions: 129
 accepted: 65
 solved_users: 61
-acceptance_rate: 54.464%
-collected_at: 2026-04-17T18:07:16.298130+00:00
+acceptance_rate: "54.464%"
+collected_at: "2026-04-17T18:07:16.298130+00:00"
 ---
 
 ## 문제

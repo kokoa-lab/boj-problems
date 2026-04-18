@@ -1,13 +1,13 @@
 ---
-title: Hyper-minimum
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "Hyper-minimum"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 14
 accepted: 11
 solved_users: 9
-acceptance_rate: 75.000%
-collected_at: 2026-04-17T12:46:41.541009+00:00
+acceptance_rate: "75.000%"
+collected_at: "2026-04-17T12:46:41.541009+00:00"
 ---
 
 ## 문제

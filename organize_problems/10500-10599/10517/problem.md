@@ -1,13 +1,13 @@
 ---
-title: Radar Coverage
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Radar Coverage"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 206
 accepted: 116
 solved_users: 103
-acceptance_rate: 60.234%
-collected_at: 2026-04-17T12:24:56.438631+00:00
+acceptance_rate: "60.234%"
+collected_at: "2026-04-17T12:24:56.438631+00:00"
 ---
 
 ## 문제

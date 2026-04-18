@@ -1,13 +1,13 @@
 ---
-title: Removal Game
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Removal Game"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 33
 accepted: 17
 solved_users: 9
-acceptance_rate: 47.368%
-collected_at: 2026-04-17T13:50:01.889450+00:00
+acceptance_rate: "47.368%"
+collected_at: "2026-04-17T13:50:01.889450+00:00"
 ---
 
 ## 문제

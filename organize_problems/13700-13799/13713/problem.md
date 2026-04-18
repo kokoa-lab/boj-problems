@@ -1,13 +1,13 @@
 ---
-title: 문자열과 쿼리
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "문자열과 쿼리"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 1428
 accepted: 678
 solved_users: 466
-acceptance_rate: 50.000%
-collected_at: 2026-04-17T13:17:54.693890+00:00
+acceptance_rate: "50.000%"
+collected_at: "2026-04-17T13:17:54.693890+00:00"
 ---
 
 ## 문제

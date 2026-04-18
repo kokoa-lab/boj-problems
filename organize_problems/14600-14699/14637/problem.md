@@ -1,13 +1,13 @@
 ---
-title: Need for Speed
-special_judge: true
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Need for Speed"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 463
 accepted: 144
 solved_users: 127
-acceptance_rate: 33.333%
-collected_at: 2026-04-17T13:39:40.383987+00:00
+acceptance_rate: "33.333%"
+collected_at: "2026-04-17T13:39:40.383987+00:00"
 ---
 
 ## 문제

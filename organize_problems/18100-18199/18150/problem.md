@@ -1,13 +1,13 @@
 ---
-title: Largest Quadrilateral
-special_judge: false
-time_limit: 6 초
-memory_limit: 1024 MB
+title: "Largest Quadrilateral"
+special_judge: "false"
+time_limit: "6 초"
+memory_limit: "1024 MB"
 submissions: 102
 accepted: 43
 solved_users: 31
-acceptance_rate: 41.892%
-collected_at: 2026-04-17T14:56:26.669261+00:00
+acceptance_rate: "41.892%"
+collected_at: "2026-04-17T14:56:26.669261+00:00"
 ---
 
 ## 문제

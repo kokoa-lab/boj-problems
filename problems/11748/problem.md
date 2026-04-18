@@ -1,13 +1,13 @@
 ---
-title: Squeeze the Cylinders
-special_judge: true
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Squeeze the Cylinders"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 200
 accepted: 118
 solved_users: 95
-acceptance_rate: 65.972%
-collected_at: 2026-04-17T12:45:17.213016+00:00
+acceptance_rate: "65.972%"
+collected_at: "2026-04-17T12:45:17.213016+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 댓글, 구독, 크리에이터와의 교류
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "댓글, 구독, 크리에이터와의 교류"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 206
 accepted: 51
 solved_users: 41
-acceptance_rate: 40.594%
-collected_at: 2026-04-17T15:53:49.190594+00:00
+acceptance_rate: "40.594%"
+collected_at: "2026-04-17T15:53:49.190594+00:00"
 ---
 
 ## 문제

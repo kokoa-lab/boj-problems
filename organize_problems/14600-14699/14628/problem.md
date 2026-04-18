@@ -1,13 +1,13 @@
 ---
-title: 입 챌린저
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "입 챌린저"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 513
 accepted: 246
 solved_users: 196
-acceptance_rate: 45.794%
-collected_at: 2026-04-17T13:39:30.874780+00:00
+acceptance_rate: "45.794%"
+collected_at: "2026-04-17T13:39:30.874780+00:00"
 ---
 
 ## 문제

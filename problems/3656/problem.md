@@ -1,13 +1,13 @@
 ---
-title: 수영장 만들기
-special_judge: false
-time_limit: 2.5 초
-memory_limit: 128 MB
+title: "수영장 만들기"
+special_judge: "false"
+time_limit: "2.5 초"
+memory_limit: "128 MB"
 submissions: 186
 accepted: 94
 solved_users: 65
-acceptance_rate: 47.794%
-collected_at: 2026-04-17T10:50:34.851218+00:00
+acceptance_rate: "47.794%"
+collected_at: "2026-04-17T10:50:34.851218+00:00"
 ---
 
 ## 문제

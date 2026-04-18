@@ -1,13 +1,13 @@
 ---
-title: Moving Furniture
-special_judge: true
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Moving Furniture"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 24
 accepted: 7
 solved_users: 6
-acceptance_rate: 66.667%
-collected_at: 2026-04-17T14:16:06.486847+00:00
+acceptance_rate: "66.667%"
+collected_at: "2026-04-17T14:16:06.486847+00:00"
 ---
 
 ## 문제

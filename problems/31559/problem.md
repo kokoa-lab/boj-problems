@@ -1,13 +1,13 @@
 ---
-title: Cannonball
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Cannonball"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 691
 accepted: 225
 solved_users: 188
-acceptance_rate: 33.752%
-collected_at: 2026-04-17T19:30:54.960366+00:00
+acceptance_rate: "33.752%"
+collected_at: "2026-04-17T19:30:54.960366+00:00"
 ---
 
 ## 문제

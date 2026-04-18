@@ -1,13 +1,13 @@
 ---
-title: 신촌지역 초중고등학생 프로그래밍 대회 동아리 연합 대회
-special_judge: true
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "신촌지역 초중고등학생 프로그래밍 대회 동아리 연합 대회"
+special_judge: "true"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 292
 accepted: 102
 solved_users: 86
-acceptance_rate: 38.914%
-collected_at: 2026-04-17T15:43:48.406671+00:00
+acceptance_rate: "38.914%"
+collected_at: "2026-04-17T15:43:48.406671+00:00"
 ---
 
 ## 문제

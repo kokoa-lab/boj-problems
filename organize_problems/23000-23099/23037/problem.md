@@ -1,13 +1,13 @@
 ---
-title: 5의 수난
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "5의 수난"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 5401
 accepted: 4389
 solved_users: 4049
-acceptance_rate: 82.063%
-collected_at: 2026-04-17T16:40:40.672183+00:00
+acceptance_rate: "82.063%"
+collected_at: "2026-04-17T16:40:40.672183+00:00"
 ---
 
 ## 문제

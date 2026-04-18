@@ -1,13 +1,13 @@
 ---
-title: Vrtić
-special_judge: true
-time_limit: 2 초
-memory_limit: 256 MB
+title: "Vrtić"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 30
 accepted: 7
 solved_users: 6
-acceptance_rate: 27.273%
-collected_at: 2026-04-17T14:00:22.875952+00:00
+acceptance_rate: "27.273%"
+collected_at: "2026-04-17T14:00:22.875952+00:00"
 ---
 
 ## 문제

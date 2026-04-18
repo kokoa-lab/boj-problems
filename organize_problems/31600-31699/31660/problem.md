@@ -1,13 +1,13 @@
 ---
-title: Mirror Strings
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Mirror Strings"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 36
 accepted: 33
 solved_users: 27
-acceptance_rate: 90.000%
-collected_at: 2026-04-17T19:33:23.157936+00:00
+acceptance_rate: "90.000%"
+collected_at: "2026-04-17T19:33:23.157936+00:00"
 ---
 
 ## 문제

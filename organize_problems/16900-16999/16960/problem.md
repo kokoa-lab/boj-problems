@@ -1,13 +1,13 @@
 ---
-title: 스위치와 램프
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "스위치와 램프"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 1269
 accepted: 695
 solved_users: 579
-acceptance_rate: 56.709%
-collected_at: 2026-04-17T14:26:48.693466+00:00
+acceptance_rate: "56.709%"
+collected_at: "2026-04-17T14:26:48.693466+00:00"
 ---
 
 ## 문제

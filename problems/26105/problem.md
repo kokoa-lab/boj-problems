@@ -1,13 +1,13 @@
 ---
-title: Folding Stick
-special_judge: false
-time_limit: 0.4 초
-memory_limit: 1024 MB
+title: "Folding Stick"
+special_judge: "false"
+time_limit: "0.4 초"
+memory_limit: "1024 MB"
 submissions: 507
 accepted: 229
 solved_users: 185
-acceptance_rate: 45.679%
-collected_at: 2026-04-17T17:40:17.571337+00:00
+acceptance_rate: "45.679%"
+collected_at: "2026-04-17T17:40:17.571337+00:00"
 ---
 
 ## 문제

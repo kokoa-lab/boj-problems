@@ -1,13 +1,13 @@
 ---
-title: 해적과 보석
-special_judge: false
-time_limit: 1 초  ( 하단 참고 )
-memory_limit: 256 MB
+title: "해적과 보석"
+special_judge: "false"
+time_limit: "1 초  ( 하단 참고 )"
+memory_limit: "256 MB"
 submissions: 285
 accepted: 128
 solved_users: 108
-acceptance_rate: 49.091%
-collected_at: 2026-04-17T15:15:39.599627+00:00
+acceptance_rate: "49.091%"
+collected_at: "2026-04-17T15:15:39.599627+00:00"
 ---
 
 ## 문제

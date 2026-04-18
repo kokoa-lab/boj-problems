@@ -1,13 +1,13 @@
 ---
-title: 세 부분
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "세 부분"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 2315
 accepted: 1333
 solved_users: 1204
-acceptance_rate: 62.254%
-collected_at: 2026-04-17T10:46:07.455739+00:00
+acceptance_rate: "62.254%"
+collected_at: "2026-04-17T10:46:07.455739+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 구분구적법 (Large)
-special_judge: true
-time_limit: 1 초
-memory_limit: 512 MB
+title: "구분구적법 (Large)"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 365
 accepted: 178
 solved_users: 142
-acceptance_rate: 53.585%
-collected_at: 2026-04-17T13:39:16.558527+00:00
+acceptance_rate: "53.585%"
+collected_at: "2026-04-17T13:39:16.558527+00:00"
 ---
 
 ## 문제

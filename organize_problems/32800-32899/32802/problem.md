@@ -1,13 +1,13 @@
 ---
-title: Mouse Pursuit
-special_judge: false
-time_limit: 3 초
-memory_limit: 2048 MB
+title: "Mouse Pursuit"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "2048 MB"
 submissions: 129
 accepted: 87
 solved_users: 69
-acceptance_rate: 67.647%
-collected_at: 2026-04-17T20:01:39.887557+00:00
+acceptance_rate: "67.647%"
+collected_at: "2026-04-17T20:01:39.887557+00:00"
 ---
 
 ## 문제

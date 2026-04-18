@@ -1,13 +1,13 @@
 ---
-title: Photo Encoding
-special_judge: false
-time_limit: 1 초
-memory_limit: 2048 MB
+title: "Photo Encoding"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "2048 MB"
 submissions: 15
 accepted: 13
 solved_users: 12
-acceptance_rate: 92.308%
-collected_at: 2026-04-18T09:51:43.988118+00:00
+acceptance_rate: "92.308%"
+collected_at: "2026-04-18T09:51:43.988118+00:00"
 ---
 
 ## 문제

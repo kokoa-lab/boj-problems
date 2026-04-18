@@ -1,13 +1,13 @@
 ---
-title: Mowing the Field (Bronze)
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Mowing the Field (Bronze)"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 1082
 accepted: 349
 solved_users: 297
-acceptance_rate: 35.357%
-collected_at: 2026-04-17T12:48:28.028461+00:00
+acceptance_rate: "35.357%"
+collected_at: "2026-04-17T12:48:28.028461+00:00"
 ---
 
 ## 문제

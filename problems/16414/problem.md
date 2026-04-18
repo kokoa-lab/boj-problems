@@ -1,13 +1,13 @@
 ---
-title: Mobilization
-special_judge: true
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Mobilization"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 84
 accepted: 31
 solved_users: 20
-acceptance_rate: 36.364%
-collected_at: 2026-04-17T14:17:35.750230+00:00
+acceptance_rate: "36.364%"
+collected_at: "2026-04-17T14:17:35.750230+00:00"
 ---
 
 ## 문제

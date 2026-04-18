@@ -1,13 +1,13 @@
 ---
-title: Judicious Watching
-special_judge: false
-time_limit: 3 초
-memory_limit: 2048 MB
+title: "Judicious Watching"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "2048 MB"
 submissions: 39
 accepted: 30
 solved_users: 30
-acceptance_rate: 76.923%
-collected_at: 2026-04-17T20:07:52.081202+00:00
+acceptance_rate: "76.923%"
+collected_at: "2026-04-17T20:07:52.081202+00:00"
 ---
 
 ## 문제

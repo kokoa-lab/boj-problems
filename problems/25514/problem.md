@@ -1,13 +1,13 @@
 ---
-title: 고속의 오름차순 숫자 탐색
-special_judge: false
-time_limit: 3 초
-memory_limit: 512 MB
+title: "고속의 오름차순 숫자 탐색"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "512 MB"
 submissions: 170
 accepted: 73
 solved_users: 63
-acceptance_rate: 49.606%
-collected_at: 2026-04-17T17:27:50.385039+00:00
+acceptance_rate: "49.606%"
+collected_at: "2026-04-17T17:27:50.385039+00:00"
 ---
 
 ## 문제

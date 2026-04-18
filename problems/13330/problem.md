@@ -1,13 +1,13 @@
 ---
-title: 유사 팰린드롬
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "유사 팰린드롬"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 795
 accepted: 214
 solved_users: 156
-acceptance_rate: 31.579%
-collected_at: 2026-04-17T13:11:42.181735+00:00
+acceptance_rate: "31.579%"
+collected_at: "2026-04-17T13:11:42.181735+00:00"
 ---
 
 ## 문제

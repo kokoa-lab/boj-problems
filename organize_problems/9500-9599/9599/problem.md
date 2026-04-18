@@ -1,13 +1,13 @@
 ---
-title: Equal Sum Sets
-special_judge: false
-time_limit: 3 초
-memory_limit: 128 MB
+title: "Equal Sum Sets"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "128 MB"
 submissions: 133
 accepted: 123
 solved_users: 104
-acceptance_rate: 92.857%
-collected_at: 2026-04-17T12:11:44.679607+00:00
+acceptance_rate: "92.857%"
+collected_at: "2026-04-17T12:11:44.679607+00:00"
 ---
 
 ## 문제

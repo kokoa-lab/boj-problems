@@ -1,13 +1,13 @@
 ---
-title: 곱의 합 쿼리
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "곱의 합 쿼리"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 1764
 accepted: 457
 solved_users: 271
-acceptance_rate: 22.323%
-collected_at: 2026-04-17T13:10:46.027782+00:00
+acceptance_rate: "22.323%"
+collected_at: "2026-04-17T13:10:46.027782+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Lottery for Vitcoins at Moloco (Easy)
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Lottery for Vitcoins at Moloco (Easy)"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 96
 accepted: 71
 solved_users: 68
-acceptance_rate: 80.952%
-collected_at: 2026-04-17T14:00:42.347902+00:00
+acceptance_rate: "80.952%"
+collected_at: "2026-04-17T14:00:42.347902+00:00"
 ---
 
 ## 문제

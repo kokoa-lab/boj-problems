@@ -1,13 +1,13 @@
 ---
-title: Yet Another Problem on Empodia 2
-special_judge: true
-time_limit: 5 초
-memory_limit: 1024 MB
+title: "Yet Another Problem on Empodia 2"
+special_judge: "true"
+time_limit: "5 초"
+memory_limit: "1024 MB"
 submissions: 2
 accepted: 2
 solved_users: 2
-acceptance_rate: 100.000%
-collected_at: 2026-04-17T18:25:37.228132+00:00
+acceptance_rate: "100.000%"
+collected_at: "2026-04-17T18:25:37.228132+00:00"
 ---
 
 ## 문제

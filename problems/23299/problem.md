@@ -1,13 +1,13 @@
 ---
-title: 화질 - 자동 (480p)
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "화질 - 자동 (480p)"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 105
 accepted: 45
 solved_users: 33
-acceptance_rate: 50.769%
-collected_at: 2026-04-17T16:45:55.016434+00:00
+acceptance_rate: "50.769%"
+collected_at: "2026-04-17T16:45:55.016434+00:00"
 ---
 
 ## 문제

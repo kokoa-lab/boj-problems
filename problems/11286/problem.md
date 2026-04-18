@@ -1,13 +1,13 @@
 ---
-title: 절댓값 힙
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)  ( 하단 참고 )
-memory_limit: 256 MB
+title: "절댓값 힙"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)  ( 하단 참고 )"
+memory_limit: "256 MB"
 submissions: 81905
 accepted: 47669
 solved_users: 37303
-acceptance_rate: 58.000%
-collected_at: 2026-04-17T12:39:12.365601+00:00
+acceptance_rate: "58.000%"
+collected_at: "2026-04-17T12:39:12.365601+00:00"
 ---
 
 ## 문제

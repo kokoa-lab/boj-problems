@@ -1,13 +1,13 @@
 ---
-title: 트리와 가희
-special_judge: false
-time_limit: 1.5 초
-memory_limit: 512 MB
+title: "트리와 가희"
+special_judge: "false"
+time_limit: "1.5 초"
+memory_limit: "512 MB"
 submissions: 264
 accepted: 43
 solved_users: 31
-acceptance_rate: 17.416%
-collected_at: 2026-04-17T14:12:34.650173+00:00
+acceptance_rate: "17.416%"
+collected_at: "2026-04-17T14:12:34.650173+00:00"
 ---
 
 ## 문제

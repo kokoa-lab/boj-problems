@@ -1,13 +1,13 @@
 ---
-title: 식당 입구 대기 줄
-special_judge: false
-time_limit: 0.1 초
-memory_limit: 512 MB
+title: "식당 입구 대기 줄"
+special_judge: "false"
+time_limit: "0.1 초"
+memory_limit: "512 MB"
 submissions: 4179
 accepted: 1466
 solved_users: 1200
-acceptance_rate: 34.286%
-collected_at: 2026-04-17T17:39:19.209281+00:00
+acceptance_rate: "34.286%"
+collected_at: "2026-04-17T17:39:19.209281+00:00"
 ---
 
 ## 문제

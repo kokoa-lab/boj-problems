@@ -1,13 +1,13 @@
 ---
-title: Доклад инвесторам
-special_judge: true
-time_limit: 3 초
-memory_limit: 1024 MB
+title: "Доклад инвесторам"
+special_judge: "true"
+time_limit: "3 초"
+memory_limit: "1024 MB"
 submissions: 131
 accepted: 14
 solved_users: 11
-acceptance_rate: 14.667%
-collected_at: 2026-04-17T16:00:06.815335+00:00
+acceptance_rate: "14.667%"
+collected_at: "2026-04-17T16:00:06.815335+00:00"
 ---
 
 ## 문제

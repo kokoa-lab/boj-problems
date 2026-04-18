@@ -1,13 +1,13 @@
 ---
-title: Garden
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Garden"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 30
 accepted: 14
 solved_users: 14
-acceptance_rate: 48.276%
-collected_at: 2026-04-17T18:26:49.039524+00:00
+acceptance_rate: "48.276%"
+collected_at: "2026-04-17T18:26:49.039524+00:00"
 ---
 
 ## 문제

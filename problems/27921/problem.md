@@ -1,13 +1,13 @@
 ---
-title: 동전 퍼즐
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "동전 퍼즐"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 493
 accepted: 278
 solved_users: 246
-acceptance_rate: 56.422%
-collected_at: 2026-04-17T18:14:39.924404+00:00
+acceptance_rate: "56.422%"
+collected_at: "2026-04-17T18:14:39.924404+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: RGB트리
-special_judge: true
-time_limit: 1.5 초
-memory_limit: 1024 MB
+title: "RGB트리"
+special_judge: "true"
+time_limit: "1.5 초"
+memory_limit: "1024 MB"
 submissions: 766
 accepted: 360
 solved_users: 275
-acceptance_rate: 43.930%
-collected_at: 2026-04-17T18:04:37.948672+00:00
+acceptance_rate: "43.930%"
+collected_at: "2026-04-17T18:04:37.948672+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 외계인의 기타 연주
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "외계인의 기타 연주"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 13712
 accepted: 6829
 solved_users: 5197
-acceptance_rate: 48.210%
-collected_at: 2026-04-17T10:45:14.129386+00:00
+acceptance_rate: "48.210%"
+collected_at: "2026-04-17T10:45:14.129386+00:00"
 ---
 
 ## 문제

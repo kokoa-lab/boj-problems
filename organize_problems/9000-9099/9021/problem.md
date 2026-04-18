@@ -1,13 +1,13 @@
 ---
-title: 숫자 퍼즐
-special_judge: true
-time_limit: 5 초
-memory_limit: 128 MB
+title: "숫자 퍼즐"
+special_judge: "true"
+time_limit: "5 초"
+memory_limit: "128 MB"
 submissions: 121
 accepted: 26
 solved_users: 19
-acceptance_rate: 43.182%
-collected_at: 2026-04-18T09:58:19.149656+00:00
+acceptance_rate: "43.182%"
+collected_at: "2026-04-18T09:58:19.149656+00:00"
 ---
 
 ## 문제

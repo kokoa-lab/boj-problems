@@ -1,13 +1,13 @@
 ---
-title: 기부왕의 님게임
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "기부왕의 님게임"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 123
 accepted: 72
 solved_users: 56
-acceptance_rate: 58.333%
-collected_at: 2026-04-17T19:25:16.426981+00:00
+acceptance_rate: "58.333%"
+collected_at: "2026-04-17T19:25:16.426981+00:00"
 ---
 
 ## 문제

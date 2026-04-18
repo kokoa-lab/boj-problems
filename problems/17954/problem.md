@@ -1,13 +1,13 @@
 ---
-title: 투튜브
-special_judge: true
-time_limit: 1 초
-memory_limit: 256 MB
+title: "투튜브"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 669
 accepted: 234
 solved_users: 203
-acceptance_rate: 34.820%
-collected_at: 2026-04-17T14:50:49.505466+00:00
+acceptance_rate: "34.820%"
+collected_at: "2026-04-17T14:50:49.505466+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 소수 징글벨
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "소수 징글벨"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 270
 accepted: 103
 solved_users: 84
-acceptance_rate: 45.405%
-collected_at: 2026-04-17T16:51:21.152675+00:00
+acceptance_rate: "45.405%"
+collected_at: "2026-04-17T16:51:21.152675+00:00"
 ---
 
 ## 문제

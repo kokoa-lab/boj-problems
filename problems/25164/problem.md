@@ -1,13 +1,13 @@
 ---
-title: Stipe
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Stipe"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 34
 accepted: 16
 solved_users: 14
-acceptance_rate: 50.000%
-collected_at: 2026-04-17T17:21:57.121383+00:00
+acceptance_rate: "50.000%"
+collected_at: "2026-04-17T17:21:57.121383+00:00"
 ---
 
 ## 문제

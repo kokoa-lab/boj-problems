@@ -1,13 +1,13 @@
 ---
-title: Connected or Not Connected
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Connected or Not Connected"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 368
 accepted: 246
 solved_users: 198
-acceptance_rate: 68.750%
-collected_at: 2026-04-17T11:12:32.732190+00:00
+acceptance_rate: "68.750%"
+collected_at: "2026-04-17T11:12:32.732190+00:00"
 ---
 
 ## 문제

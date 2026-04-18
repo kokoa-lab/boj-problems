@@ -1,13 +1,13 @@
 ---
-title: Optimal Array Multiplication Sequence
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Optimal Array Multiplication Sequence"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 34
 accepted: 2
 solved_users: 2
-acceptance_rate: 15.385%
-collected_at: 2026-04-17T11:27:54.884403+00:00
+acceptance_rate: "15.385%"
+collected_at: "2026-04-17T11:27:54.884403+00:00"
 ---
 
 ## 문제

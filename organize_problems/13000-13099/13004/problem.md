@@ -1,13 +1,13 @@
 ---
-title: 비밀 임무
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "비밀 임무"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 45
 accepted: 12
 solved_users: 11
-acceptance_rate: 31.429%
-collected_at: 2026-04-17T13:05:45.999080+00:00
+acceptance_rate: "31.429%"
+collected_at: "2026-04-17T13:05:45.999080+00:00"
 ---
 
 ## 문제

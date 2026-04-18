@@ -1,13 +1,13 @@
 ---
-title: Fifty Coats of Gray
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Fifty Coats of Gray"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 191
 accepted: 168
 solved_users: 150
-acceptance_rate: 89.286%
-collected_at: 2026-04-17T11:07:18.625359+00:00
+acceptance_rate: "89.286%"
+collected_at: "2026-04-17T11:07:18.625359+00:00"
 ---
 
 ## 문제

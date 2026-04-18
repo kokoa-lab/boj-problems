@@ -1,13 +1,13 @@
 ---
-title: 고층 빌딩
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "고층 빌딩"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 12192
 accepted: 5250
 solved_users: 3979
-acceptance_rate: 41.375%
-collected_at: 2026-04-17T10:29:28.827299+00:00
+acceptance_rate: "41.375%"
+collected_at: "2026-04-17T10:29:28.827299+00:00"
 ---
 
 ## 문제

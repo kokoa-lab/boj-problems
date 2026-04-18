@@ -1,13 +1,13 @@
 ---
-title: 염소 줄서기
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "염소 줄서기"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 151
 accepted: 30
 solved_users: 23
-acceptance_rate: 26.744%
-collected_at: 2026-04-17T10:37:45.641375+00:00
+acceptance_rate: "26.744%"
+collected_at: "2026-04-17T10:37:45.641375+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Balloon Warehouse
-special_judge: false
-time_limit: 7 초
-memory_limit: 512 MB
+title: "Balloon Warehouse"
+special_judge: "false"
+time_limit: "7 초"
+memory_limit: "512 MB"
 submissions: 107
 accepted: 30
 solved_users: 25
-acceptance_rate: 28.090%
-collected_at: 2026-04-17T13:53:25.646177+00:00
+acceptance_rate: "28.090%"
+collected_at: "2026-04-17T13:53:25.646177+00:00"
 ---
 
 ## 문제

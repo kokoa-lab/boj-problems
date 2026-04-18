@@ -1,13 +1,13 @@
 ---
-title: 자라나는 직교 나선
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "자라나는 직교 나선"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 141
 accepted: 87
 solved_users: 56
-acceptance_rate: 61.538%
-collected_at: 2026-04-17T12:23:37.799518+00:00
+acceptance_rate: "61.538%"
+collected_at: "2026-04-17T12:23:37.799518+00:00"
 ---
 
 ## 문제

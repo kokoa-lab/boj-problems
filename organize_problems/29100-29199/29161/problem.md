@@ -1,13 +1,13 @@
 ---
-title: 트리와 케이
-special_judge: false
-time_limit: 3 초
-memory_limit: 1024 MB
+title: "트리와 케이"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "1024 MB"
 submissions: 306
 accepted: 55
 solved_users: 43
-acceptance_rate: 16.863%
-collected_at: 2026-04-17T18:38:11.075836+00:00
+acceptance_rate: "16.863%"
+collected_at: "2026-04-17T18:38:11.075836+00:00"
 ---
 
 ## 문제

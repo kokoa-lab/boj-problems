@@ -1,13 +1,13 @@
 ---
-title: Temple Build
-special_judge: false
-time_limit: 3 초
-memory_limit: 128 MB
+title: "Temple Build"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "128 MB"
 submissions: 97
 accepted: 25
 solved_users: 19
-acceptance_rate: 39.583%
-collected_at: 2026-04-17T11:01:50.444107+00:00
+acceptance_rate: "39.583%"
+collected_at: "2026-04-17T11:01:50.444107+00:00"
 ---
 
 ## 문제

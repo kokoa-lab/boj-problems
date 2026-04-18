@@ -1,13 +1,13 @@
 ---
-title: Mniam mniam
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Mniam mniam"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 136
 accepted: 70
 solved_users: 45
-acceptance_rate: 60.811%
-collected_at: 2026-04-17T11:54:24.663850+00:00
+acceptance_rate: "60.811%"
+collected_at: "2026-04-17T11:54:24.663850+00:00"
 ---
 
 ## 문제

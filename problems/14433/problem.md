@@ -1,13 +1,13 @@
 ---
-title: 한조 대기 중
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "한조 대기 중"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 1134
 accepted: 504
 solved_users: 466
-acceptance_rate: 47.406%
-collected_at: 2026-04-17T13:33:15.203028+00:00
+acceptance_rate: "47.406%"
+collected_at: "2026-04-17T13:33:15.203028+00:00"
 ---
 
 ## 문제

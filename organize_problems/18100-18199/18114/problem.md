@@ -1,13 +1,13 @@
 ---
-title: 블랙 프라이데이
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "블랙 프라이데이"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 5353
 accepted: 1335
 solved_users: 979
-acceptance_rate: 24.281%
-collected_at: 2026-04-17T14:55:52.389741+00:00
+acceptance_rate: "24.281%"
+collected_at: "2026-04-17T14:55:52.389741+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 성적
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "성적"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 297
 accepted: 68
 solved_users: 36
-acceptance_rate: 24.000%
-collected_at: 2026-04-17T10:34:54.480138+00:00
+acceptance_rate: "24.000%"
+collected_at: "2026-04-17T10:34:54.480138+00:00"
 ---
 
 ## 문제

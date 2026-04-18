@@ -1,13 +1,13 @@
 ---
-title: Vista 5
-special_judge: false
-time_limit: 0.1 초
-memory_limit: 128 MB
+title: "Vista 5"
+special_judge: "false"
+time_limit: "0.1 초"
+memory_limit: "128 MB"
 submissions: 27
 accepted: 14
 solved_users: 12
-acceptance_rate: 48.000%
-collected_at: 2026-04-17T15:32:10.816886+00:00
+acceptance_rate: "48.000%"
+collected_at: "2026-04-17T15:32:10.816886+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 숫자 골라내기
-special_judge: true
-time_limit: 2 초
-memory_limit: 512 MB
+title: "숫자 골라내기"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 136
 accepted: 33
 solved_users: 29
-acceptance_rate: 23.387%
-collected_at: 2026-04-17T13:06:13.523202+00:00
+acceptance_rate: "23.387%"
+collected_at: "2026-04-17T13:06:13.523202+00:00"
 ---
 
 ## 문제

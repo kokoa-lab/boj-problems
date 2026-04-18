@@ -1,13 +1,13 @@
 ---
-title: 양 구출 작전
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "양 구출 작전"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 9178
 accepted: 2684
 solved_users: 1957
-acceptance_rate: 28.215%
-collected_at: 2026-04-17T14:17:55.201008+00:00
+acceptance_rate: "28.215%"
+collected_at: "2026-04-17T14:17:55.201008+00:00"
 ---
 
 ## 문제

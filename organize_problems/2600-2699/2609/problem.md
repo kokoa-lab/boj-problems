@@ -1,13 +1,13 @@
 ---
-title: 최대공약수와 최소공배수
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "최대공약수와 최소공배수"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 148352
 accepted: 86217
 solved_users: 70273
-acceptance_rate: 57.819%
-collected_at: 2026-04-17T10:43:16.222973+00:00
+acceptance_rate: "57.819%"
+collected_at: "2026-04-17T10:43:16.222973+00:00"
 ---
 
 ## 문제

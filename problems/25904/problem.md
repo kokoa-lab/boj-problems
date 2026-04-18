@@ -1,13 +1,13 @@
 ---
-title: 안녕 클레오파트라 세상에서 제일가는 포테이토칩
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "안녕 클레오파트라 세상에서 제일가는 포테이토칩"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 2152
 accepted: 1359
 solved_users: 1251
-acceptance_rate: 65.395%
-collected_at: 2026-04-17T17:36:21.057513+00:00
+acceptance_rate: "65.395%"
+collected_at: "2026-04-17T17:36:21.057513+00:00"
 ---
 
 ## 문제

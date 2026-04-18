@@ -1,13 +1,13 @@
 ---
-title: 약 팔기
-special_judge: true
-time_limit: 1 초
-memory_limit: 512 MB
+title: "약 팔기"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 5971
 accepted: 2863
 solved_users: 2324
-acceptance_rate: 47.633%
-collected_at: 2026-04-17T13:56:58.706822+00:00
+acceptance_rate: "47.633%"
+collected_at: "2026-04-17T13:56:58.706822+00:00"
 ---
 
 ## 문제

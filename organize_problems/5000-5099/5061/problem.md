@@ -1,13 +1,13 @@
 ---
-title: Amphiphilic Carbon Molecules
-special_judge: false
-time_limit: 5 초
-memory_limit: 128 MB
+title: "Amphiphilic Carbon Molecules"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "128 MB"
 submissions: 52
 accepted: 15
 solved_users: 8
-acceptance_rate: 25.000%
-collected_at: 2026-04-17T11:11:15.588551+00:00
+acceptance_rate: "25.000%"
+collected_at: "2026-04-17T11:11:15.588551+00:00"
 ---
 
 ## 문제

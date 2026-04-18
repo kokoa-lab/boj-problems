@@ -1,13 +1,13 @@
 ---
-title: Round Table
-special_judge: false
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 2048 MB
+title: "Round Table"
+special_judge: "false"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "2048 MB"
 submissions: 12
 accepted: 11
 solved_users: 11
-acceptance_rate: 100.000%
-collected_at: 2026-04-17T17:19:53.191435+00:00
+acceptance_rate: "100.000%"
+collected_at: "2026-04-17T17:19:53.191435+00:00"
 ---
 
 ## 문제

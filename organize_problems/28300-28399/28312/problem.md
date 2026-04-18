@@ -1,13 +1,13 @@
 ---
-title: 감시 구역 나누기
-special_judge: false
-time_limit: 1.5 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "감시 구역 나누기"
+special_judge: "false"
+time_limit: "1.5 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 172
 accepted: 61
 solved_users: 39
-acceptance_rate: 38.614%
-collected_at: 2026-04-17T18:22:49.135877+00:00
+acceptance_rate: "38.614%"
+collected_at: "2026-04-17T18:22:49.135877+00:00"
 ---
 
 ## 문제

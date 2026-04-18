@@ -1,13 +1,13 @@
 ---
-title: 프로그램
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "프로그램"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 906
 accepted: 341
 solved_users: 264
-acceptance_rate: 37.877%
-collected_at: 2026-04-17T10:45:35.358607+00:00
+acceptance_rate: "37.877%"
+collected_at: "2026-04-17T10:45:35.358607+00:00"
 ---
 
 ## 문제

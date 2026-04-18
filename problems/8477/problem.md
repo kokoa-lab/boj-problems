@@ -1,13 +1,13 @@
 ---
-title: Palindromic Equivalence
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Palindromic Equivalence"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 50
 accepted: 24
 solved_users: 14
-acceptance_rate: 46.667%
-collected_at: 2026-04-17T11:59:59.154785+00:00
+acceptance_rate: "46.667%"
+collected_at: "2026-04-17T11:59:59.154785+00:00"
 ---
 
 ## 문제

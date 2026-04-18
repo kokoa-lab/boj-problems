@@ -1,13 +1,13 @@
 ---
-title: Bubble-bubble Sort
-special_judge: false
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 2048 MB
+title: "Bubble-bubble Sort"
+special_judge: "false"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "2048 MB"
 submissions: 140
 accepted: 94
 solved_users: 72
-acceptance_rate: 76.596%
-collected_at: 2026-04-17T17:38:06.318075+00:00
+acceptance_rate: "76.596%"
+collected_at: "2026-04-17T17:38:06.318075+00:00"
 ---
 
 ## 문제

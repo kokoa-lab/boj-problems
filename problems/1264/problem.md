@@ -1,13 +1,13 @@
 ---
-title: 모음의 개수
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "모음의 개수"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 37590
 accepted: 19406
 solved_users: 17463
-acceptance_rate: 53.847%
-collected_at: 2026-04-17T10:29:09.020947+00:00
+acceptance_rate: "53.847%"
+collected_at: "2026-04-17T10:29:09.020947+00:00"
 ---
 
 ## 문제

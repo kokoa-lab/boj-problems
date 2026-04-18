@@ -1,13 +1,13 @@
 ---
-title: Partitioning a Queue
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Partitioning a Queue"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 76
 accepted: 63
 solved_users: 53
-acceptance_rate: 86.885%
-collected_at: 2026-04-17T13:07:12.894136+00:00
+acceptance_rate: "86.885%"
+collected_at: "2026-04-17T13:07:12.894136+00:00"
 ---
 
 ## 문제

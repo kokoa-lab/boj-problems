@@ -1,13 +1,13 @@
 ---
-title: Simurgh
-special_judge: false
-time_limit: 3 초
-memory_limit: 512 MB
+title: "Simurgh"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "512 MB"
 submissions: 42
 accepted: 25
 solved_users: 25
-acceptance_rate: 62.500%
-collected_at: 2026-04-17T15:31:25.973809+00:00
+acceptance_rate: "62.500%"
+collected_at: "2026-04-17T15:31:25.973809+00:00"
 ---
 
 ## 문제

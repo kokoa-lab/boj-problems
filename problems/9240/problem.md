@@ -1,13 +1,13 @@
 ---
-title: 로버트 후드
-special_judge: true
-time_limit: 1 초
-memory_limit: 256 MB
+title: "로버트 후드"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 8556
 accepted: 2931
 solved_users: 1789
-acceptance_rate: 37.193%
-collected_at: 2026-04-17T12:08:13.283150+00:00
+acceptance_rate: "37.193%"
+collected_at: "2026-04-17T12:08:13.283150+00:00"
 ---
 
 ## 문제

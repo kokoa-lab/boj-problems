@@ -1,13 +1,13 @@
 ---
-title: Lemonade Trade
-special_judge: true
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Lemonade Trade"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 400
 accepted: 107
 solved_users: 89
-acceptance_rate: 29.373%
-collected_at: 2026-04-17T13:48:15.893544+00:00
+acceptance_rate: "29.373%"
+collected_at: "2026-04-17T13:48:15.893544+00:00"
 ---
 
 ## 문제

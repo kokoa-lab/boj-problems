@@ -1,13 +1,13 @@
 ---
-title: ATM
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "ATM"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 9696
 accepted: 2698
 solved_users: 1712
-acceptance_rate: 24.478%
-collected_at: 2026-04-17T10:54:33.007519+00:00
+acceptance_rate: "24.478%"
+collected_at: "2026-04-17T10:54:33.007519+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 요요 시뮬레이션
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "요요 시뮬레이션"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 2086
 accepted: 641
 solved_users: 432
-acceptance_rate: 28.609%
-collected_at: 2026-04-17T15:25:41.745894+00:00
+acceptance_rate: "28.609%"
+collected_at: "2026-04-17T15:25:41.745894+00:00"
 ---
 
 ## 문제

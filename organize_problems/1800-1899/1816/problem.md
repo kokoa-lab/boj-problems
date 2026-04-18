@@ -1,13 +1,13 @@
 ---
-title: 암호 키
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "암호 키"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 6288
 accepted: 3165
 solved_users: 2434
-acceptance_rate: 52.064%
-collected_at: 2026-04-17T10:34:09.750369+00:00
+acceptance_rate: "52.064%"
+collected_at: "2026-04-17T10:34:09.750369+00:00"
 ---
 
 ## 문제

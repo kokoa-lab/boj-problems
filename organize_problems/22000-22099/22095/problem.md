@@ -1,13 +1,13 @@
 ---
-title: Поход в гости
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "Поход в гости"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 57
 accepted: 42
 solved_users: 36
-acceptance_rate: 70.588%
-collected_at: 2026-04-17T16:13:57.298261+00:00
+acceptance_rate: "70.588%"
+collected_at: "2026-04-17T16:13:57.298261+00:00"
 ---
 
 ## 문제

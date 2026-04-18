@@ -1,13 +1,13 @@
 ---
-title: SPIJUNI
-special_judge: false
-time_limit: 5 초
-memory_limit: 128 MB
+title: "SPIJUNI"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "128 MB"
 submissions: 95
 accepted: 66
 solved_users: 64
-acceptance_rate: 73.563%
-collected_at: 2026-04-17T11:17:41.471174+00:00
+acceptance_rate: "73.563%"
+collected_at: "2026-04-17T11:17:41.471174+00:00"
 ---
 
 ## 문제

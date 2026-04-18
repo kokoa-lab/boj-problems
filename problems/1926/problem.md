@@ -1,13 +1,13 @@
 ---
-title: 그림
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "그림"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 69516
 accepted: 32323
 solved_users: 21744
-acceptance_rate: 44.889%
-collected_at: 2026-04-17T10:35:57.292482+00:00
+acceptance_rate: "44.889%"
+collected_at: "2026-04-17T10:35:57.292482+00:00"
 ---
 
 ## 문제

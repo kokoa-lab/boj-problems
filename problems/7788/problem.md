@@ -1,13 +1,13 @@
 ---
-title: 복도
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "복도"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 74
 accepted: 23
 solved_users: 19
-acceptance_rate: 36.538%
-collected_at: 2026-04-17T11:53:00.545422+00:00
+acceptance_rate: "36.538%"
+collected_at: "2026-04-17T11:53:00.545422+00:00"
 ---
 
 ## 문제

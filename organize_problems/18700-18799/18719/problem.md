@@ -1,13 +1,13 @@
 ---
-title: Binomial
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Binomial"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 364
 accepted: 207
 solved_users: 130
-acceptance_rate: 51.383%
-collected_at: 2026-04-17T15:08:47.467018+00:00
+acceptance_rate: "51.383%"
+collected_at: "2026-04-17T15:08:47.467018+00:00"
 ---
 
 ## 문제

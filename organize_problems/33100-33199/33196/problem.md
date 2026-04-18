@@ -1,13 +1,13 @@
 ---
-title: I am Sherlocked
-special_judge: false
-time_limit: 1 초
-memory_limit: 2048 MB
+title: "I am Sherlocked"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "2048 MB"
 submissions: 35
 accepted: 2
 solved_users: 2
-acceptance_rate: 11.765%
-collected_at: 2026-04-17T20:11:10.109610+00:00
+acceptance_rate: "11.765%"
+collected_at: "2026-04-17T20:11:10.109610+00:00"
 ---
 
 ## 문제

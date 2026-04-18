@@ -1,13 +1,13 @@
 ---
-title: 팀 배틀
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "팀 배틀"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 66
 accepted: 25
 solved_users: 23
-acceptance_rate: 56.098%
-collected_at: 2026-04-17T16:46:18.108309+00:00
+acceptance_rate: "56.098%"
+collected_at: "2026-04-17T16:46:18.108309+00:00"
 ---
 
 ## 문제

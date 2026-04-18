@@ -1,13 +1,13 @@
 ---
-title: 직사각형 피자
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "직사각형 피자"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 950
 accepted: 272
 solved_users: 206
-acceptance_rate: 26.581%
-collected_at: 2026-04-17T18:17:58.476167+00:00
+acceptance_rate: "26.581%"
+collected_at: "2026-04-17T18:17:58.476167+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Two-Stacks Solitaire
-special_judge: true
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Two-Stacks Solitaire"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 2
 accepted: 0
 solved_users: 0
-acceptance_rate: 0.000%
-collected_at: 2026-04-17T11:17:10.475191+00:00
+acceptance_rate: "0.000%"
+collected_at: "2026-04-17T11:17:10.475191+00:00"
 ---
 
 ## 문제

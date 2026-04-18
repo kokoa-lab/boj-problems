@@ -1,13 +1,13 @@
 ---
-title: Eroding Pillars
-special_judge: true
-time_limit: 10 초
-memory_limit: 1024 MB
+title: "Eroding Pillars"
+special_judge: "true"
+time_limit: "10 초"
+memory_limit: "1024 MB"
 submissions: 43
 accepted: 15
 solved_users: 14
-acceptance_rate: 35.000%
-collected_at: 2026-04-17T18:06:52.740759+00:00
+acceptance_rate: "35.000%"
+collected_at: "2026-04-17T18:06:52.740759+00:00"
 ---
 
 ## 문제

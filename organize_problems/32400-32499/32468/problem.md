@@ -1,13 +1,13 @@
 ---
-title: Mosaic
-special_judge: true
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "Mosaic"
+special_judge: "true"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 117
 accepted: 11
 solved_users: 8
-acceptance_rate: 8.163%
-collected_at: 2026-04-17T19:51:52.986136+00:00
+acceptance_rate: "8.163%"
+collected_at: "2026-04-17T19:51:52.986136+00:00"
 ---
 
 ## 문제

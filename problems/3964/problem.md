@@ -1,13 +1,13 @@
 ---
-title: 팩토리얼과 거듭제곱
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "팩토리얼과 거듭제곱"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 1976
 accepted: 367
 solved_users: 277
-acceptance_rate: 20.308%
-collected_at: 2026-04-17T10:53:52.332196+00:00
+acceptance_rate: "20.308%"
+collected_at: "2026-04-17T10:53:52.332196+00:00"
 ---
 
 ## 문제

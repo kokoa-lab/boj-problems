@@ -1,13 +1,13 @@
 ---
-title: Highway Track
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Highway Track"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 396
 accepted: 152
 solved_users: 126
-acceptance_rate: 41.584%
-collected_at: 2026-04-17T13:41:13.136201+00:00
+acceptance_rate: "41.584%"
+collected_at: "2026-04-17T13:41:13.136201+00:00"
 ---
 
 ## 문제

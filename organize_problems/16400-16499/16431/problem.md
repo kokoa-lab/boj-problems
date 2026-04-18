@@ -1,13 +1,13 @@
 ---
-title: 베시와 데이지
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "베시와 데이지"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 6010
 accepted: 3638
 solved_users: 3141
-acceptance_rate: 60.392%
-collected_at: 2026-04-17T14:17:50.818164+00:00
+acceptance_rate: "60.392%"
+collected_at: "2026-04-17T14:17:50.818164+00:00"
 ---
 
 ## 문제

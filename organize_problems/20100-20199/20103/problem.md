@@ -1,13 +1,13 @@
 ---
-title: Sudoku 10
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Sudoku 10"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 29
 accepted: 11
 solved_users: 11
-acceptance_rate: 91.667%
-collected_at: 2026-04-17T15:31:43.081340+00:00
+acceptance_rate: "91.667%"
+collected_at: "2026-04-17T15:31:43.081340+00:00"
 ---
 
 ## 문제

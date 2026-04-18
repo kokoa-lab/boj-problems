@@ -1,13 +1,13 @@
 ---
-title: Laserschack
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Laserschack"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 54
 accepted: 6
 solved_users: 6
-acceptance_rate: 12.000%
-collected_at: 2026-04-17T17:52:46.296663+00:00
+acceptance_rate: "12.000%"
+collected_at: "2026-04-17T17:52:46.296663+00:00"
 ---
 
 ## 문제

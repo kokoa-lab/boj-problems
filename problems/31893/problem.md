@@ -1,13 +1,13 @@
 ---
-title: Bridging the Gap
-special_judge: false
-time_limit: 4 초
-memory_limit: 1024 MB
+title: "Bridging the Gap"
+special_judge: "false"
+time_limit: "4 초"
+memory_limit: "1024 MB"
 submissions: 105
 accepted: 36
 solved_users: 29
-acceptance_rate: 52.727%
-collected_at: 2026-04-17T19:38:37.147018+00:00
+acceptance_rate: "52.727%"
+collected_at: "2026-04-17T19:38:37.147018+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: N M 찍기
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "N M 찍기"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 5939
 accepted: 2610
 solved_users: 2212
-acceptance_rate: 44.046%
-collected_at: 2026-04-17T15:10:53.813271+00:00
+acceptance_rate: "44.046%"
+collected_at: "2026-04-17T15:10:53.813271+00:00"
 ---
 
 ## 문제

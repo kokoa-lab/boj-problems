@@ -1,13 +1,13 @@
 ---
-title: Pyramid Base
-special_judge: false
-time_limit: 5 초
-memory_limit: 128 MB
+title: "Pyramid Base"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "128 MB"
 submissions: 101
 accepted: 61
 solved_users: 41
-acceptance_rate: 55.405%
-collected_at: 2026-04-17T11:14:19.080964+00:00
+acceptance_rate: "55.405%"
+collected_at: "2026-04-17T11:14:19.080964+00:00"
 ---
 
 ## 문제

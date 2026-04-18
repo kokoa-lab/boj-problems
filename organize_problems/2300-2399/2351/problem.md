@@ -1,13 +1,13 @@
 ---
-title: 미지의 다각형
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "미지의 다각형"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 202
 accepted: 32
 solved_users: 20
-acceptance_rate: 18.692%
-collected_at: 2026-04-17T10:40:55.446916+00:00
+acceptance_rate: "18.692%"
+collected_at: "2026-04-17T10:40:55.446916+00:00"
 ---
 
 ## 문제

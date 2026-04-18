@@ -1,13 +1,13 @@
 ---
-title: Strange Antennas
-special_judge: false
-time_limit: 5 초
-memory_limit: 256 MB
+title: "Strange Antennas"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "256 MB"
 submissions: 19
 accepted: 7
 solved_users: 7
-acceptance_rate: 50.000%
-collected_at: 2026-04-17T12:22:28.748254+00:00
+acceptance_rate: "50.000%"
+collected_at: "2026-04-17T12:22:28.748254+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Decompose and Concatenate
-special_judge: false
-time_limit: 2 초
-memory_limit: 2048 MB
+title: "Decompose and Concatenate"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "2048 MB"
 submissions: 54
 accepted: 36
 solved_users: 30
-acceptance_rate: 63.830%
-collected_at: 2026-04-17T20:56:08.983432+00:00
+acceptance_rate: "63.830%"
+collected_at: "2026-04-17T20:56:08.983432+00:00"
 ---
 
 ## 문제

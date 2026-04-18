@@ -1,13 +1,13 @@
 ---
-title: 팬케이크 사랑
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "팬케이크 사랑"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 1417
 accepted: 597
 solved_users: 532
-acceptance_rate: 48.188%
-collected_at: 2026-04-17T10:42:21.114587+00:00
+acceptance_rate: "48.188%"
+collected_at: "2026-04-17T10:42:21.114587+00:00"
 ---
 
 ## 문제

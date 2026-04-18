@@ -1,13 +1,13 @@
 ---
-title: 승현이와 승현이
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "승현이와 승현이"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 637
 accepted: 184
 solved_users: 113
-acceptance_rate: 24.945%
-collected_at: 2026-04-17T13:09:22.036812+00:00
+acceptance_rate: "24.945%"
+collected_at: "2026-04-17T13:09:22.036812+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: CYK의 너무너무 재밌는 그래프 만들기 놀이
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "CYK의 너무너무 재밌는 그래프 만들기 놀이"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 200
 accepted: 110
 solved_users: 78
-acceptance_rate: 50.000%
-collected_at: 2026-04-17T12:42:23.950550+00:00
+acceptance_rate: "50.000%"
+collected_at: "2026-04-17T12:42:23.950550+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Triangle of Triangles
-special_judge: false
-time_limit: 2 초
-memory_limit: 2048 MB
+title: "Triangle of Triangles"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "2048 MB"
 submissions: 45
 accepted: 44
 solved_users: 18
-acceptance_rate: 94.737%
-collected_at: 2026-04-17T20:48:49.339612+00:00
+acceptance_rate: "94.737%"
+collected_at: "2026-04-17T20:48:49.339612+00:00"
 ---
 
 ## 문제

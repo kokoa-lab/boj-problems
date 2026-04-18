@@ -1,13 +1,13 @@
 ---
-title: 나쁜 과학자
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "나쁜 과학자"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 313
 accepted: 54
 solved_users: 39
-acceptance_rate: 26.897%
-collected_at: 2026-04-17T11:13:20.496638+00:00
+acceptance_rate: "26.897%"
+collected_at: "2026-04-17T11:13:20.496638+00:00"
 ---
 
 ## 문제

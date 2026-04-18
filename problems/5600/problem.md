@@ -1,13 +1,13 @@
 ---
-title: 품질검사
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "품질검사"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 694
 accepted: 396
 solved_users: 323
-acceptance_rate: 57.473%
-collected_at: 2026-04-17T11:15:54.263576+00:00
+acceptance_rate: "57.473%"
+collected_at: "2026-04-17T11:15:54.263576+00:00"
 ---
 
 ## 문제

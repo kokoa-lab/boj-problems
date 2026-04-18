@@ -1,13 +1,13 @@
 ---
-title: 꽃 장식하기
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "꽃 장식하기"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 23
 accepted: 15
 solved_users: 10
-acceptance_rate: 71.429%
-collected_at: 2026-04-17T13:05:32.911254+00:00
+acceptance_rate: "71.429%"
+collected_at: "2026-04-17T13:05:32.911254+00:00"
 ---
 
 ## 문제

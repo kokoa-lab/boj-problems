@@ -1,13 +1,13 @@
 ---
-title: Classy
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "Classy"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 81
 accepted: 49
 solved_users: 39
-acceptance_rate: 58.209%
-collected_at: 2026-04-17T12:42:43.732511+00:00
+acceptance_rate: "58.209%"
+collected_at: "2026-04-17T12:42:43.732511+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 반짝반짝 3
-special_judge: true
-time_limit: 4 초
-memory_limit: 1536 MB
+title: "반짝반짝 3"
+special_judge: "true"
+time_limit: "4 초"
+memory_limit: "1536 MB"
 submissions: 375
 accepted: 113
 solved_users: 71
-acceptance_rate: 25.540%
-collected_at: 2026-04-17T17:27:27.310170+00:00
+acceptance_rate: "25.540%"
+collected_at: "2026-04-17T17:27:27.310170+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Intuidiff II
-special_judge: false
-time_limit: 4 초
-memory_limit: 512 MB
+title: "Intuidiff II"
+special_judge: "false"
+time_limit: "4 초"
+memory_limit: "512 MB"
 submissions: 25
 accepted: 18
 solved_users: 18
-acceptance_rate: 75.000%
-collected_at: 2026-04-17T13:53:45.194287+00:00
+acceptance_rate: "75.000%"
+collected_at: "2026-04-17T13:53:45.194287+00:00"
 ---
 
 ## 문제

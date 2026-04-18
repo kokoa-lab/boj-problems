@@ -1,13 +1,13 @@
 ---
-title: We Want You Happy!
-special_judge: false
-time_limit: 5 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "We Want You Happy!"
+special_judge: "false"
+time_limit: "5 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 76
 accepted: 54
 solved_users: 38
-acceptance_rate: 70.370%
-collected_at: 2026-04-17T19:01:15.231810+00:00
+acceptance_rate: "70.370%"
+collected_at: "2026-04-17T19:01:15.231810+00:00"
 ---
 
 ## 문제

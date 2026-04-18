@@ -1,13 +1,13 @@
 ---
-title: Because, Art!
-special_judge: false
-time_limit: 0.3 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Because, Art!"
+special_judge: "false"
+time_limit: "0.3 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 45
 accepted: 21
 solved_users: 19
-acceptance_rate: 63.333%
-collected_at: 2026-04-17T17:18:06.503091+00:00
+acceptance_rate: "63.333%"
+collected_at: "2026-04-17T17:18:06.503091+00:00"
 ---
 
 ## 문제

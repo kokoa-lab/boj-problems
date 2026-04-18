@@ -1,13 +1,13 @@
 ---
-title: 회색 영역
-special_judge: true
-time_limit: 1 초
-memory_limit: 128 MB
+title: "회색 영역"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 158
 accepted: 112
 solved_users: 105
-acceptance_rate: 70.946%
-collected_at: 2026-04-17T10:53:01.100765+00:00
+acceptance_rate: "70.946%"
+collected_at: "2026-04-17T10:53:01.100765+00:00"
 ---
 
 ## 문제

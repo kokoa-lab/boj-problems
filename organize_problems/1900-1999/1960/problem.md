@@ -1,13 +1,13 @@
 ---
-title: 행렬만들기
-special_judge: true
-time_limit: 2 초
-memory_limit: 128 MB
+title: "행렬만들기"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 1561
 accepted: 455
 solved_users: 340
-acceptance_rate: 31.250%
-collected_at: 2026-04-17T10:36:24.249505+00:00
+acceptance_rate: "31.250%"
+collected_at: "2026-04-17T10:36:24.249505+00:00"
 ---
 
 ## 문제

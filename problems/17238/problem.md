@@ -1,13 +1,13 @@
 ---
-title: Delicious Pineapple Pizza
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Delicious Pineapple Pizza"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 127
 accepted: 67
 solved_users: 61
-acceptance_rate: 53.509%
-collected_at: 2026-04-17T14:34:22.056661+00:00
+acceptance_rate: "53.509%"
+collected_at: "2026-04-17T14:34:22.056661+00:00"
 ---
 
 ## 문제

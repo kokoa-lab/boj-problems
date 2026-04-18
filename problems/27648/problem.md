@@ -1,13 +1,13 @@
 ---
-title: 증가 배열 만들기
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "증가 배열 만들기"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 1944
 accepted: 1123
 solved_users: 990
-acceptance_rate: 57.659%
-collected_at: 2026-04-17T18:08:23.842292+00:00
+acceptance_rate: "57.659%"
+collected_at: "2026-04-17T18:08:23.842292+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: gCampus (Small)
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "gCampus (Small)"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 47
 accepted: 23
 solved_users: 21
-acceptance_rate: 48.837%
-collected_at: 2026-04-17T12:49:53.761765+00:00
+acceptance_rate: "48.837%"
+collected_at: "2026-04-17T12:49:53.761765+00:00"
 ---
 
 ## 문제

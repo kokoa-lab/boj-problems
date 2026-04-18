@@ -1,13 +1,13 @@
 ---
-title: 2016 KBO 한국시리즈 우승팀
-special_judge: true
-time_limit: 2 초
-memory_limit: 512 MB
+title: "2016 KBO 한국시리즈 우승팀"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 148
 accepted: 60
 solved_users: 60
-acceptance_rate: 76.923%
-collected_at: 2026-04-17T13:06:46.612018+00:00
+acceptance_rate: "76.923%"
+collected_at: "2026-04-17T13:06:46.612018+00:00"
 ---
 
 ## 문제

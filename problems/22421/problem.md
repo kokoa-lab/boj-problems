@@ -1,13 +1,13 @@
 ---
-title: Koto Municipal Subway
-special_judge: true
-time_limit: 8 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "Koto Municipal Subway"
+special_judge: "true"
+time_limit: "8 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 307
 accepted: 253
 solved_users: 235
-acceptance_rate: 82.168%
-collected_at: 2026-04-17T16:20:38.823886+00:00
+acceptance_rate: "82.168%"
+collected_at: "2026-04-17T16:20:38.823886+00:00"
 ---
 
 ## 문제

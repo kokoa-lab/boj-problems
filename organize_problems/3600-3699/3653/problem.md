@@ -1,13 +1,13 @@
 ---
-title: 영화 수집
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "영화 수집"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 10660
 accepted: 4805
 solved_users: 3387
-acceptance_rate: 46.493%
-collected_at: 2026-04-17T10:50:36.420116+00:00
+acceptance_rate: "46.493%"
+collected_at: "2026-04-17T10:50:36.420116+00:00"
 ---
 
 ## 문제

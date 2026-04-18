@@ -1,13 +1,13 @@
 ---
-title: Fludtown
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Fludtown"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 9
 accepted: 7
 solved_users: 6
-acceptance_rate: 85.714%
-collected_at: 2026-04-17T12:16:12.332539+00:00
+acceptance_rate: "85.714%"
+collected_at: "2026-04-17T12:16:12.332539+00:00"
 ---
 
 ## 문제

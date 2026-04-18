@@ -1,13 +1,13 @@
 ---
-title: 함수 복원
-special_judge: false
-time_limit: 1.5 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "함수 복원"
+special_judge: "false"
+time_limit: "1.5 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 508
 accepted: 221
 solved_users: 202
-acceptance_rate: 45.190%
-collected_at: 2026-04-17T15:22:37.982487+00:00
+acceptance_rate: "45.190%"
+collected_at: "2026-04-17T15:22:37.982487+00:00"
 ---
 
 ## 문제

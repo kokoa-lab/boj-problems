@@ -1,13 +1,13 @@
 ---
-title: Roller Coaster
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Roller Coaster"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 380
 accepted: 262
 solved_users: 224
-acceptance_rate: 67.267%
-collected_at: 2026-04-17T19:04:55.769192+00:00
+acceptance_rate: "67.267%"
+collected_at: "2026-04-17T19:04:55.769192+00:00"
 ---
 
 ## 문제

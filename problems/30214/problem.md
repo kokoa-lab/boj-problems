@@ -1,13 +1,13 @@
 ---
-title: An Easy-Peasy Problem
-special_judge: false
-time_limit: 5 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "An Easy-Peasy Problem"
+special_judge: "false"
+time_limit: "5 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 4596
 accepted: 3139
 solved_users: 3019
-acceptance_rate: 68.551%
-collected_at: 2026-04-17T19:00:49.613087+00:00
+acceptance_rate: "68.551%"
+collected_at: "2026-04-17T19:00:49.613087+00:00"
 ---
 
 ## 문제

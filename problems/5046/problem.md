@@ -1,13 +1,13 @@
 ---
-title: 전국 대학생 프로그래밍 대회 동아리 연합
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "전국 대학생 프로그래밍 대회 동아리 연합"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 2353
 accepted: 1124
 solved_users: 1046
-acceptance_rate: 49.857%
-collected_at: 2026-04-17T11:11:07.365156+00:00
+acceptance_rate: "49.857%"
+collected_at: "2026-04-17T11:11:07.365156+00:00"
 ---
 
 ## 문제

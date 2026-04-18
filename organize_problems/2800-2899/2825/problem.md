@@ -1,13 +1,13 @@
 ---
-title: 수업시간에 교수님 몰래 교실을 나간 상근이
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "수업시간에 교수님 몰래 교실을 나간 상근이"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 1034
 accepted: 357
 solved_users: 246
-acceptance_rate: 35.043%
-collected_at: 2026-04-17T10:45:07.312411+00:00
+acceptance_rate: "35.043%"
+collected_at: "2026-04-17T10:45:07.312411+00:00"
 ---
 
 ## 문제

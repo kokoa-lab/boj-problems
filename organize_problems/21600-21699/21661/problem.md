@@ -1,13 +1,13 @@
 ---
-title: Соревнование картингистов
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Соревнование картингистов"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 54
 accepted: 24
 solved_users: 21
-acceptance_rate: 46.667%
-collected_at: 2026-04-17T16:02:48.205327+00:00
+acceptance_rate: "46.667%"
+collected_at: "2026-04-17T16:02:48.205327+00:00"
 ---
 
 ## 문제

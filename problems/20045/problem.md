@@ -1,13 +1,13 @@
 ---
-title: Trading System
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Trading System"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 625
 accepted: 156
 solved_users: 104
-acceptance_rate: 20.884%
-collected_at: 2026-04-17T15:30:55.690139+00:00
+acceptance_rate: "20.884%"
+collected_at: "2026-04-17T15:30:55.690139+00:00"
 ---
 
 ## 문제

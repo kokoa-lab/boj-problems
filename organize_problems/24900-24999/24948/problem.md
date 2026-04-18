@@ -1,13 +1,13 @@
 ---
-title: Broken Device 2
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Broken Device 2"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 179
 accepted: 17
 solved_users: 14
-acceptance_rate: 9.722%
-collected_at: 2026-04-17T17:17:32.461595+00:00
+acceptance_rate: "9.722%"
+collected_at: "2026-04-17T17:17:32.461595+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Double Up 2
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Double Up 2"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 143
 accepted: 28
 solved_users: 24
-acceptance_rate: 18.462%
-collected_at: 2026-04-17T19:59:18.630085+00:00
+acceptance_rate: "18.462%"
+collected_at: "2026-04-17T19:59:18.630085+00:00"
 ---
 
 ## 문제

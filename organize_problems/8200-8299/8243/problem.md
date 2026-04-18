@@ -1,13 +1,13 @@
 ---
-title: Triumphal arch
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Triumphal arch"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 326
 accepted: 92
 solved_users: 76
-acceptance_rate: 29.572%
-collected_at: 2026-04-17T11:57:37.283862+00:00
+acceptance_rate: "29.572%"
+collected_at: "2026-04-17T11:57:37.283862+00:00"
 ---
 
 ## 문제

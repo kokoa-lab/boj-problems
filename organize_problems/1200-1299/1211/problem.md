@@ -1,13 +1,13 @@
 ---
-title: 보일의 법칙
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "보일의 법칙"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 641
 accepted: 84
 solved_users: 58
-acceptance_rate: 20.789%
-collected_at: 2026-04-17T10:28:51.612554+00:00
+acceptance_rate: "20.789%"
+collected_at: "2026-04-17T10:28:51.612554+00:00"
 ---
 
 ## 문제

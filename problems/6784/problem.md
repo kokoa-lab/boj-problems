@@ -1,13 +1,13 @@
 ---
-title: Multiple Choice
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Multiple Choice"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 1196
 accepted: 1000
 solved_users: 946
-acceptance_rate: 85.149%
-collected_at: 2026-04-17T11:36:55.407872+00:00
+acceptance_rate: "85.149%"
+collected_at: "2026-04-17T11:36:55.407872+00:00"
 ---
 
 ## 문제

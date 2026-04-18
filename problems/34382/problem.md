@@ -1,13 +1,13 @@
 ---
-title: Weather Nodes
-special_judge: false
-time_limit: 1 초
-memory_limit: 2048 MB
+title: "Weather Nodes"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "2048 MB"
 submissions: 151
 accepted: 105
 solved_users: 102
-acceptance_rate: 69.388%
-collected_at: 2026-04-17T20:37:08.793062+00:00
+acceptance_rate: "69.388%"
+collected_at: "2026-04-17T20:37:08.793062+00:00"
 ---
 
 ## 문제

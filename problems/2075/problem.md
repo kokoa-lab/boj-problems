@@ -1,13 +1,13 @@
 ---
-title: N번째 큰 수
-special_judge: false
-time_limit: 1 초
-memory_limit: 12 MB ( 하단 참고 )
+title: "N번째 큰 수"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "12 MB ( 하단 참고 )"
 submissions: 52752
 accepted: 21881
 solved_users: 16207
-acceptance_rate: 40.181%
-collected_at: 2026-04-17T10:38:00.589167+00:00
+acceptance_rate: "40.181%"
+collected_at: "2026-04-17T10:38:00.589167+00:00"
 ---
 
 ## 문제

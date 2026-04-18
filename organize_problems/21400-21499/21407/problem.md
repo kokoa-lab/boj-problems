@@ -1,13 +1,13 @@
 ---
-title: Театр
-special_judge: true
-time_limit: 5 초
-memory_limit: 1024 MB
+title: "Театр"
+special_judge: "true"
+time_limit: "5 초"
+memory_limit: "1024 MB"
 submissions: 2
 accepted: 0
 solved_users: 0
-acceptance_rate: 0.000%
-collected_at: 2026-04-17T15:57:45.886519+00:00
+acceptance_rate: "0.000%"
+collected_at: "2026-04-17T15:57:45.886519+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 인터뷰
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "인터뷰"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 603
 accepted: 234
 solved_users: 213
-acceptance_rate: 41.440%
-collected_at: 2026-04-17T18:14:28.492896+00:00
+acceptance_rate: "41.440%"
+collected_at: "2026-04-17T18:14:28.492896+00:00"
 ---
 
 ## 문제

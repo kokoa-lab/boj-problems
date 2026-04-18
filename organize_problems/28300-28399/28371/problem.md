@@ -1,13 +1,13 @@
 ---
-title: Cosmic Commute
-special_judge: false
-time_limit: 3 초
-memory_limit: 1024 MB
+title: "Cosmic Commute"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "1024 MB"
 submissions: 69
 accepted: 50
 solved_users: 45
-acceptance_rate: 76.271%
-collected_at: 2026-04-17T18:25:17.960302+00:00
+acceptance_rate: "76.271%"
+collected_at: "2026-04-17T18:25:17.960302+00:00"
 ---
 
 ## 문제

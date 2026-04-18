@@ -1,13 +1,13 @@
 ---
-title: Infix to Prefix
-special_judge: false
-time_limit: 5 초
-memory_limit: 128 MB
+title: "Infix to Prefix"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "128 MB"
 submissions: 45
 accepted: 14
 solved_users: 12
-acceptance_rate: 35.294%
-collected_at: 2026-04-17T12:12:32.450698+00:00
+acceptance_rate: "35.294%"
+collected_at: "2026-04-17T12:12:32.450698+00:00"
 ---
 
 ## 문제

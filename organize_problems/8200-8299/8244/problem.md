@@ -1,13 +1,13 @@
 ---
-title: Tales of seafaring
-special_judge: false
-time_limit: 5 초
-memory_limit: 128 MB
+title: "Tales of seafaring"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "128 MB"
 submissions: 413
 accepted: 88
 solved_users: 79
-acceptance_rate: 21.237%
-collected_at: 2026-04-17T11:57:37.590432+00:00
+acceptance_rate: "21.237%"
+collected_at: "2026-04-17T11:57:37.590432+00:00"
 ---
 
 ## 문제

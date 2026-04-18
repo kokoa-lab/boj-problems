@@ -1,13 +1,13 @@
 ---
-title: Mixing Milk
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Mixing Milk"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 2678
 accepted: 1845
 solved_users: 1568
-acceptance_rate: 69.906%
-collected_at: 2026-04-17T14:23:38.723893+00:00
+acceptance_rate: "69.906%"
+collected_at: "2026-04-17T14:23:38.723893+00:00"
 ---
 
 ## 문제

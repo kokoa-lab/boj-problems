@@ -1,13 +1,13 @@
 ---
-title: Flexible Segments
-special_judge: true
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Flexible Segments"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 58
 accepted: 26
 solved_users: 25
-acceptance_rate: 48.077%
-collected_at: 2026-04-17T15:26:58.574798+00:00
+acceptance_rate: "48.077%"
+collected_at: "2026-04-17T15:26:58.574798+00:00"
 ---
 
 ## 문제

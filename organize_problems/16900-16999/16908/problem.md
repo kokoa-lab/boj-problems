@@ -1,13 +1,13 @@
 ---
-title: 가장 긴 공통 부분 문자열
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "가장 긴 공통 부분 문자열"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 741
 accepted: 133
 solved_users: 88
-acceptance_rate: 16.923%
-collected_at: 2026-04-17T14:26:07.874731+00:00
+acceptance_rate: "16.923%"
+collected_at: "2026-04-17T14:26:07.874731+00:00"
 ---
 
 ## 문제

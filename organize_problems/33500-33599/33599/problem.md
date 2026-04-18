@@ -1,13 +1,13 @@
 ---
-title: Ads
-special_judge: false
-time_limit: 3 초 (추가 시간 없음)
-memory_limit: 2048 MB
+title: "Ads"
+special_judge: "false"
+time_limit: "3 초 (추가 시간 없음)"
+memory_limit: "2048 MB"
 submissions: 37
 accepted: 22
 solved_users: 21
-acceptance_rate: 61.765%
-collected_at: 2026-04-17T20:19:42.948685+00:00
+acceptance_rate: "61.765%"
+collected_at: "2026-04-17T20:19:42.948685+00:00"
 ---
 
 ## 문제

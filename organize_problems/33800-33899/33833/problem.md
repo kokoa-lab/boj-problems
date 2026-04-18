@@ -1,13 +1,13 @@
 ---
-title: Gładkie permutacje
-special_judge: false
-time_limit: 3 초 (추가 시간 없음)
-memory_limit: 2048 MB
+title: "Gładkie permutacje"
+special_judge: "false"
+time_limit: "3 초 (추가 시간 없음)"
+memory_limit: "2048 MB"
 submissions: 1
 accepted: 0
 solved_users: 0
-acceptance_rate: 0.000%
-collected_at: 2026-04-17T20:24:30.987071+00:00
+acceptance_rate: "0.000%"
+collected_at: "2026-04-17T20:24:30.987071+00:00"
 ---
 
 ## 문제

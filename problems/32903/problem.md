@@ -1,13 +1,13 @@
 ---
-title: Application List
-special_judge: false
-time_limit: 2 초
-memory_limit: 2048 MB
+title: "Application List"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "2048 MB"
 submissions: 112
 accepted: 94
 solved_users: 83
-acceptance_rate: 84.694%
-collected_at: 2026-04-17T20:04:12.174034+00:00
+acceptance_rate: "84.694%"
+collected_at: "2026-04-17T20:04:12.174034+00:00"
 ---
 
 ## 문제

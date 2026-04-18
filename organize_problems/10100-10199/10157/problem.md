@@ -1,13 +1,13 @@
 ---
-title: 자리배정
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "자리배정"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 18402
 accepted: 7501
 solved_users: 6033
-acceptance_rate: 41.809%
-collected_at: 2026-04-17T12:19:44.956603+00:00
+acceptance_rate: "41.809%"
+collected_at: "2026-04-17T12:19:44.956603+00:00"
 ---
 
 ## 문제

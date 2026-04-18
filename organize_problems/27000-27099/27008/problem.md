@@ -1,13 +1,13 @@
 ---
-title: Checking an Alibi
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Checking an Alibi"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 122
 accepted: 78
 solved_users: 68
-acceptance_rate: 62.385%
-collected_at: 2026-04-17T17:54:51.823443+00:00
+acceptance_rate: "62.385%"
+collected_at: "2026-04-17T17:54:51.823443+00:00"
 ---
 
 ## 문제

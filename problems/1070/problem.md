@@ -1,13 +1,13 @@
 ---
-title: 김지민의 침략
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "김지민의 침략"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 643
 accepted: 173
 solved_users: 126
-acceptance_rate: 31.818%
-collected_at: 2026-04-17T10:28:01.499093+00:00
+acceptance_rate: "31.818%"
+collected_at: "2026-04-17T10:28:01.499093+00:00"
 ---
 
 ## 문제

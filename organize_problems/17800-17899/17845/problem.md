@@ -1,13 +1,13 @@
 ---
-title: 수강 과목
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "수강 과목"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 4013
 accepted: 2558
 solved_users: 2139
-acceptance_rate: 63.927%
-collected_at: 2026-04-17T14:48:23.099044+00:00
+acceptance_rate: "63.927%"
+collected_at: "2026-04-17T14:48:23.099044+00:00"
 ---
 
 ## 문제

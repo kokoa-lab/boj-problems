@@ -1,13 +1,13 @@
 ---
-title: Eevee
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Eevee"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 14
 accepted: 9
 solved_users: 9
-acceptance_rate: 64.286%
-collected_at: 2026-04-17T15:07:14.926970+00:00
+acceptance_rate: "64.286%"
+collected_at: "2026-04-17T15:07:14.926970+00:00"
 ---
 
 ## 문제

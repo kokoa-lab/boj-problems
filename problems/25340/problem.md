@@ -1,13 +1,13 @@
 ---
-title: 시간딱딱충
-special_judge: false
-time_limit: 3 초
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "시간딱딱충"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 242
 accepted: 66
 solved_users: 51
-acceptance_rate: 27.869%
-collected_at: 2026-04-17T17:25:13.420108+00:00
+acceptance_rate: "27.869%"
+collected_at: "2026-04-17T17:25:13.420108+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Восстановление пароля
-special_judge: true
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Восстановление пароля"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 75
 accepted: 17
 solved_users: 14
-acceptance_rate: 29.787%
-collected_at: 2026-04-17T18:34:33.297597+00:00
+acceptance_rate: "29.787%"
+collected_at: "2026-04-17T18:34:33.297597+00:00"
 ---
 
 ## 문제

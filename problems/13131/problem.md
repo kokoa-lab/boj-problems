@@ -1,13 +1,13 @@
 ---
-title: HicCup
-special_judge: false
-time_limit: 1 초
-memory_limit: 32 MB
+title: "HicCup"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "32 MB"
 submissions: 793
 accepted: 234
 solved_users: 186
-acceptance_rate: 33.274%
-collected_at: 2026-04-17T13:07:59.794551+00:00
+acceptance_rate: "33.274%"
+collected_at: "2026-04-17T13:07:59.794551+00:00"
 ---
 
 ## 문제

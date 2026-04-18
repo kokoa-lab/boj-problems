@@ -1,13 +1,13 @@
 ---
-title: CountDownUp 2020
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "CountDownUp 2020"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 239
 accepted: 205
 solved_users: 186
-acceptance_rate: 86.916%
-collected_at: 2026-04-17T15:33:14.115766+00:00
+acceptance_rate: "86.916%"
+collected_at: "2026-04-17T15:33:14.115766+00:00"
 ---
 
 ## 문제

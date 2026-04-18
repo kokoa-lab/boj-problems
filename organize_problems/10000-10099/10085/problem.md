@@ -1,13 +1,13 @@
 ---
-title: Tickets
-special_judge: false
-time_limit: 1 초
-memory_limit: 64 MB
+title: "Tickets"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "64 MB"
 submissions: 40
 accepted: 33
 solved_users: 23
-acceptance_rate: 79.310%
-collected_at: 2026-04-17T12:18:49.463010+00:00
+acceptance_rate: "79.310%"
+collected_at: "2026-04-17T12:18:49.463010+00:00"
 ---
 
 ## 문제

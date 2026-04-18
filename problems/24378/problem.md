@@ -1,13 +1,13 @@
 ---
-title: КАСТИНГ
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "КАСТИНГ"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 220
 accepted: 136
 solved_users: 119
-acceptance_rate: 61.026%
-collected_at: 2026-04-17T17:08:24.621519+00:00
+acceptance_rate: "61.026%"
+collected_at: "2026-04-17T17:08:24.621519+00:00"
 ---
 
 ## 문제

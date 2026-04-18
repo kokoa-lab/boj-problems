@@ -1,13 +1,13 @@
 ---
-title: High-quality Tree
-special_judge: false
-time_limit: 3 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "High-quality Tree"
+special_judge: "false"
+time_limit: "3 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 123
 accepted: 78
 solved_users: 62
-acceptance_rate: 65.957%
-collected_at: 2026-04-17T17:41:25.035677+00:00
+acceptance_rate: "65.957%"
+collected_at: "2026-04-17T17:41:25.035677+00:00"
 ---
 
 ## 문제

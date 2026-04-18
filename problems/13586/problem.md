@@ -1,13 +1,13 @@
 ---
-title: Go--
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Go--"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 29
 accepted: 28
 solved_users: 23
-acceptance_rate: 95.833%
-collected_at: 2026-04-17T13:15:35.092405+00:00
+acceptance_rate: "95.833%"
+collected_at: "2026-04-17T13:15:35.092405+00:00"
 ---
 
 ## 문제

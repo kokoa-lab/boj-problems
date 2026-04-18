@@ -1,13 +1,13 @@
 ---
-title: Gambling Guide
-special_judge: true
-time_limit: 3 초
-memory_limit: 512 MB
+title: "Gambling Guide"
+special_judge: "true"
+time_limit: "3 초"
+memory_limit: "512 MB"
 submissions: 154
 accepted: 64
 solved_users: 56
-acceptance_rate: 43.077%
-collected_at: 2026-04-17T13:56:12.557040+00:00
+acceptance_rate: "43.077%"
+collected_at: "2026-04-17T13:56:12.557040+00:00"
 ---
 
 ## 문제

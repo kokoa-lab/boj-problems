@@ -1,13 +1,13 @@
 ---
-title: Four Square
-special_judge: false
-time_limit: 4 초
-memory_limit: 2048 MB
+title: "Four Square"
+special_judge: "false"
+time_limit: "4 초"
+memory_limit: "2048 MB"
 submissions: 205
 accepted: 75
 solved_users: 64
-acceptance_rate: 36.571%
-collected_at: 2026-04-17T18:18:49.812645+00:00
+acceptance_rate: "36.571%"
+collected_at: "2026-04-17T18:18:49.812645+00:00"
 ---
 
 ## 문제

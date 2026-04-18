@@ -1,13 +1,13 @@
 ---
-title: ソフトクリーム (Softcream)
-special_judge: false
-time_limit: 2 초
-memory_limit: 2048 MB
+title: "ソフトクリーム (Softcream)"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "2048 MB"
 submissions: 60
 accepted: 31
 solved_users: 20
-acceptance_rate: 43.478%
-collected_at: 2026-04-17T20:10:46.598795+00:00
+acceptance_rate: "43.478%"
+collected_at: "2026-04-17T20:10:46.598795+00:00"
 ---
 
 ## 문제

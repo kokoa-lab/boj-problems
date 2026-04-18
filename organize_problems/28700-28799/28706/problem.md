@@ -1,13 +1,13 @@
 ---
-title: 럭키 세븐
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "럭키 세븐"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 1742
 accepted: 885
 solved_users: 610
-acceptance_rate: 49.553%
-collected_at: 2026-04-17T18:31:10.460558+00:00
+acceptance_rate: "49.553%"
+collected_at: "2026-04-17T18:31:10.460558+00:00"
 ---
 
 ## 문제

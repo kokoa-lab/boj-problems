@@ -1,13 +1,13 @@
 ---
-title: 슈퍼 학생
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "슈퍼 학생"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 109
 accepted: 62
 solved_users: 55
-acceptance_rate: 61.798%
-collected_at: 2026-04-17T20:46:12.924777+00:00
+acceptance_rate: "61.798%"
+collected_at: "2026-04-17T20:46:12.924777+00:00"
 ---
 
 ## 문제

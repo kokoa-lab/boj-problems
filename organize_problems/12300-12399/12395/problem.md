@@ -1,13 +1,13 @@
 ---
-title: Password Problem (Large)
-special_judge: true
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Password Problem (Large)"
+special_judge: "true"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 96
 accepted: 62
 solved_users: 46
-acceptance_rate: 71.875%
-collected_at: 2026-04-17T12:54:41.205410+00:00
+acceptance_rate: "71.875%"
+collected_at: "2026-04-17T12:54:41.205410+00:00"
 ---
 
 ## 문제

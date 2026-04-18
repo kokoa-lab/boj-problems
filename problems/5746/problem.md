@@ -1,13 +1,13 @@
 ---
-title: Onion Layers
-special_judge: false
-time_limit: 3 초
-memory_limit: 128 MB
+title: "Onion Layers"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "128 MB"
 submissions: 170
 accepted: 45
 solved_users: 33
-acceptance_rate: 28.947%
-collected_at: 2026-04-17T11:17:03.872608+00:00
+acceptance_rate: "28.947%"
+collected_at: "2026-04-17T11:17:03.872608+00:00"
 ---
 
 ## 문제

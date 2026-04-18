@@ -1,13 +1,13 @@
 ---
-title: CDVII
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "CDVII"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 196
 accepted: 43
 solved_users: 26
-acceptance_rate: 23.009%
-collected_at: 2026-04-17T11:01:12.392496+00:00
+acceptance_rate: "23.009%"
+collected_at: "2026-04-17T11:01:12.392496+00:00"
 ---
 
 ## 문제

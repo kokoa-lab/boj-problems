@@ -1,13 +1,13 @@
 ---
-title: Cities and States
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Cities and States"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 2243
 accepted: 685
 solved_users: 518
-acceptance_rate: 30.999%
-collected_at: 2026-04-17T13:27:15.632202+00:00
+acceptance_rate: "30.999%"
+collected_at: "2026-04-17T13:27:15.632202+00:00"
 ---
 
 ## 문제

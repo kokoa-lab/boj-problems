@@ -1,13 +1,13 @@
 ---
-title: Delightful (Easy)
-special_judge: true
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Delightful (Easy)"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 52
 accepted: 22
 solved_users: 20
-acceptance_rate: 43.478%
-collected_at: 2026-04-17T15:09:26.470609+00:00
+acceptance_rate: "43.478%"
+collected_at: "2026-04-17T15:09:26.470609+00:00"
 ---
 
 ## 문제

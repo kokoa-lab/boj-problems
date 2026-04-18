@@ -1,13 +1,13 @@
 ---
-title: 순간이동 여행
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "순간이동 여행"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 283
 accepted: 104
 solved_users: 92
-acceptance_rate: 41.818%
-collected_at: 2026-04-17T15:55:19.573974+00:00
+acceptance_rate: "41.818%"
+collected_at: "2026-04-17T15:55:19.573974+00:00"
 ---
 
 ## 문제

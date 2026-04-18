@@ -1,13 +1,13 @@
 ---
-title: Hour for a Run
-special_judge: false
-time_limit: 0.5 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "Hour for a Run"
+special_judge: "false"
+time_limit: "0.5 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 281
 accepted: 163
 solved_users: 136
-acceptance_rate: 59.130%
-collected_at: 2026-04-17T14:41:26.044874+00:00
+acceptance_rate: "59.130%"
+collected_at: "2026-04-17T14:41:26.044874+00:00"
 ---
 
 ## 문제

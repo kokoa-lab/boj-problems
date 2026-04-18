@@ -1,13 +1,13 @@
 ---
-title: 연산자 파티
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "연산자 파티"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 620
 accepted: 235
 solved_users: 199
-acceptance_rate: 42.704%
-collected_at: 2026-04-17T18:09:54.402851+00:00
+acceptance_rate: "42.704%"
+collected_at: "2026-04-17T18:09:54.402851+00:00"
 ---
 
 ## 문제

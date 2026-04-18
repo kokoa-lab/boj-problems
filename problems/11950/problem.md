@@ -1,13 +1,13 @@
 ---
-title: 2016 IOI
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "2016 IOI"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 756
 accepted: 540
 solved_users: 457
-acceptance_rate: 72.310%
-collected_at: 2026-04-17T12:48:06.421353+00:00
+acceptance_rate: "72.310%"
+collected_at: "2026-04-17T12:48:06.421353+00:00"
 ---
 
 ## 문제

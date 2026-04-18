@@ -1,13 +1,13 @@
 ---
-title: Long Distance Taxi
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Long Distance Taxi"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 104
 accepted: 16
 solved_users: 11
-acceptance_rate: 26.829%
-collected_at: 2026-04-17T11:10:15.270593+00:00
+acceptance_rate: "26.829%"
+collected_at: "2026-04-17T11:10:15.270593+00:00"
 ---
 
 ## 문제

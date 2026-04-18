@@ -1,13 +1,13 @@
 ---
-title: Common Fraction
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Common Fraction"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 204
 accepted: 180
 solved_users: 162
-acceptance_rate: 88.525%
-collected_at: 2026-04-17T12:14:39.811586+00:00
+acceptance_rate: "88.525%"
+collected_at: "2026-04-17T12:14:39.811586+00:00"
 ---
 
 ## 문제

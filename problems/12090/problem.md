@@ -1,13 +1,13 @@
 ---
-title: 초성 변환
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "초성 변환"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 746
 accepted: 345
 solved_users: 292
-acceptance_rate: 53.578%
-collected_at: 2026-04-17T12:50:03.764001+00:00
+acceptance_rate: "53.578%"
+collected_at: "2026-04-17T12:50:03.764001+00:00"
 ---
 
 ## 문제

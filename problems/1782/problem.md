@@ -1,13 +1,13 @@
 ---
-title: 거울 숫자
-special_judge: false
-time_limit: 1 초
-memory_limit: 64 MB
+title: "거울 숫자"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "64 MB"
 submissions: 695
 accepted: 76
 solved_users: 58
-acceptance_rate: 20.939%
-collected_at: 2026-04-17T10:33:28.604276+00:00
+acceptance_rate: "20.939%"
+collected_at: "2026-04-17T10:33:28.604276+00:00"
 ---
 
 ## 문제

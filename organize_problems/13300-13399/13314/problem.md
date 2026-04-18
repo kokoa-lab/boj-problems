@@ -1,13 +1,13 @@
 ---
-title: 플로이드에 오타가?
-special_judge: true
-time_limit: 2 초
-memory_limit: 512 MB
+title: "플로이드에 오타가?"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 716
 accepted: 378
 solved_users: 293
-acceptance_rate: 53.761%
-collected_at: 2026-04-17T13:11:25.364262+00:00
+acceptance_rate: "53.761%"
+collected_at: "2026-04-17T13:11:25.364262+00:00"
 ---
 
 ## 문제

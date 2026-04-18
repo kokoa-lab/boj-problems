@@ -1,13 +1,13 @@
 ---
-title: 영일랜드
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "영일랜드"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 582
 accepted: 272
 solved_users: 220
-acceptance_rate: 43.825%
-collected_at: 2026-04-17T19:38:03.278409+00:00
+acceptance_rate: "43.825%"
+collected_at: "2026-04-17T19:38:03.278409+00:00"
 ---
 
 ## 문제

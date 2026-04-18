@@ -1,13 +1,13 @@
 ---
-title: 보이는 점의 개수
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "보이는 점의 개수"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 4688
 accepted: 2415
 solved_users: 1865
-acceptance_rate: 52.212%
-collected_at: 2026-04-17T10:44:16.867762+00:00
+acceptance_rate: "52.212%"
+collected_at: "2026-04-17T10:44:16.867762+00:00"
 ---
 
 ## 문제

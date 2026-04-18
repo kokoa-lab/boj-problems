@@ -1,13 +1,13 @@
 ---
-title: Snow
-special_judge: false
-time_limit: 5 초
-memory_limit: 2048 MB
+title: "Snow"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "2048 MB"
 submissions: 40
 accepted: 33
 solved_users: 13
-acceptance_rate: 92.857%
-collected_at: 2026-04-18T09:51:52.848659+00:00
+acceptance_rate: "92.857%"
+collected_at: "2026-04-18T09:51:52.848659+00:00"
 ---
 
 ## 문제

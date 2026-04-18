@@ -1,13 +1,13 @@
 ---
-title: Galactic Collegiate Programming Contest
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Galactic Collegiate Programming Contest"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 207
 accepted: 89
 solved_users: 80
-acceptance_rate: 50.955%
-collected_at: 2026-04-17T13:48:25.818913+00:00
+acceptance_rate: "50.955%"
+collected_at: "2026-04-17T13:48:25.818913+00:00"
 ---
 
 ## 문제

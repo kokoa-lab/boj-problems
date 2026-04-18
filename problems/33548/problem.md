@@ -1,13 +1,13 @@
 ---
-title: Alcatraz
-special_judge: false
-time_limit: 1 초
-memory_limit: 2048 MB
+title: "Alcatraz"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "2048 MB"
 submissions: 9
 accepted: 6
 solved_users: 6
-acceptance_rate: 75.000%
-collected_at: 2026-04-17T20:18:47.414957+00:00
+acceptance_rate: "75.000%"
+collected_at: "2026-04-17T20:18:47.414957+00:00"
 ---
 
 ## 문제

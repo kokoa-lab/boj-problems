@@ -1,13 +1,13 @@
 ---
-title: Game Design
-special_judge: true
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Game Design"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 107
 accepted: 53
 solved_users: 47
-acceptance_rate: 55.952%
-collected_at: 2026-04-17T14:20:56.092216+00:00
+acceptance_rate: "55.952%"
+collected_at: "2026-04-17T14:20:56.092216+00:00"
 ---
 
 ## 문제

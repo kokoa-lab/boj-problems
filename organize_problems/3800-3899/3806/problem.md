@@ -1,13 +1,13 @@
 ---
-title: S를 T로
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "S를 T로"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 706
 accepted: 222
 solved_users: 176
-acceptance_rate: 35.130%
-collected_at: 2026-04-17T10:52:10.170251+00:00
+acceptance_rate: "35.130%"
+collected_at: "2026-04-17T10:52:10.170251+00:00"
 ---
 
 ## 문제

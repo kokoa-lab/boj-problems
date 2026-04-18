@@ -1,13 +1,13 @@
 ---
-title: 나의 라임 오렌지 나무
-special_judge: false
-time_limit: 3 초
-memory_limit: 1024 MB
+title: "나의 라임 오렌지 나무"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "1024 MB"
 submissions: 222
 accepted: 101
 solved_users: 76
-acceptance_rate: 46.626%
-collected_at: 2026-04-17T16:38:22.523281+00:00
+acceptance_rate: "46.626%"
+collected_at: "2026-04-17T16:38:22.523281+00:00"
 ---
 
 ## 문제

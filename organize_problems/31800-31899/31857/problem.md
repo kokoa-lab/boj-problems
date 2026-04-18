@@ -1,13 +1,13 @@
 ---
-title: 사탕 공장
-special_judge: false
-time_limit: 0.5 초
-memory_limit: 1024 MB
+title: "사탕 공장"
+special_judge: "false"
+time_limit: "0.5 초"
+memory_limit: "1024 MB"
 submissions: 354
 accepted: 81
 solved_users: 62
-acceptance_rate: 23.938%
-collected_at: 2026-04-17T19:37:49.455473+00:00
+acceptance_rate: "23.938%"
+collected_at: "2026-04-17T19:37:49.455473+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Ferries (Hard)
-special_judge: true
-time_limit: 10 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Ferries (Hard)"
+special_judge: "true"
+time_limit: "10 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 32
 accepted: 8
 solved_users: 6
-acceptance_rate: 24.000%
-collected_at: 2026-04-17T18:08:36.882365+00:00
+acceptance_rate: "24.000%"
+collected_at: "2026-04-17T18:08:36.882365+00:00"
 ---
 
 ## 문제

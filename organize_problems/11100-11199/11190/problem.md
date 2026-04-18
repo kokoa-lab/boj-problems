@@ -1,13 +1,13 @@
 ---
-title: Pub-lic Good
-special_judge: true
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Pub-lic Good"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 91
 accepted: 46
 solved_users: 38
-acceptance_rate: 49.351%
-collected_at: 2026-04-17T12:37:50.178936+00:00
+acceptance_rate: "49.351%"
+collected_at: "2026-04-17T12:37:50.178936+00:00"
 ---
 
 ## 문제

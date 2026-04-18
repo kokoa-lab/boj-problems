@@ -1,13 +1,13 @@
 ---
-title: 방벽 게임
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "방벽 게임"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 310
 accepted: 200
 solved_users: 183
-acceptance_rate: 67.033%
-collected_at: 2026-04-17T19:59:38.464109+00:00
+acceptance_rate: "67.033%"
+collected_at: "2026-04-17T19:59:38.464109+00:00"
 ---
 
 ## 문제

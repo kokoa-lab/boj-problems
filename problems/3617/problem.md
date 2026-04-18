@@ -1,13 +1,13 @@
 ---
-title: Confectionery
-special_judge: true
-time_limit: 2 초
-memory_limit: 64 MB
+title: "Confectionery"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "64 MB"
 submissions: 16
 accepted: 7
 solved_users: 4
-acceptance_rate: 33.333%
-collected_at: 2026-04-17T10:50:16.047816+00:00
+acceptance_rate: "33.333%"
+collected_at: "2026-04-17T10:50:16.047816+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 주사위 굴리기
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "주사위 굴리기"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 62582
 accepted: 29466
 solved_users: 21757
-acceptance_rate: 46.386%
-collected_at: 2026-04-17T13:36:30.906447+00:00
+acceptance_rate: "46.386%"
+collected_at: "2026-04-17T13:36:30.906447+00:00"
 ---
 
 ## 문제

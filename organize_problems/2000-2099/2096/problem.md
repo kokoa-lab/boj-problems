@@ -1,13 +1,13 @@
 ---
-title: 내려가기
-special_judge: false
-time_limit: 1 초
-memory_limit: 4 MB ( 하단 참고 )
+title: "내려가기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "4 MB ( 하단 참고 )"
 submissions: 62733
 accepted: 24393
 solved_users: 19163
-acceptance_rate: 37.011%
-collected_at: 2026-04-17T10:38:15.246628+00:00
+acceptance_rate: "37.011%"
+collected_at: "2026-04-17T10:38:15.246628+00:00"
 ---
 
 ## 문제

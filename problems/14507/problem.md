@@ -1,13 +1,13 @@
 ---
-title: Stars in a Can
-special_judge: true
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Stars in a Can"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 199
 accepted: 79
 solved_users: 41
-acceptance_rate: 30.370%
-collected_at: 2026-04-17T13:36:41.075974+00:00
+acceptance_rate: "30.370%"
+collected_at: "2026-04-17T13:36:41.075974+00:00"
 ---
 
 ## 문제

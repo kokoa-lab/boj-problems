@@ -1,13 +1,13 @@
 ---
-title: Cruel Math Teacher, II
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Cruel Math Teacher, II"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 147
 accepted: 47
 solved_users: 42
-acceptance_rate: 36.207%
-collected_at: 2026-04-17T11:20:10.674978+00:00
+acceptance_rate: "36.207%"
+collected_at: "2026-04-17T11:20:10.674978+00:00"
 ---
 
 ## 문제

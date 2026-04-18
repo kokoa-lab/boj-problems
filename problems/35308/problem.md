@@ -1,13 +1,13 @@
 ---
-title: PPPP
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "PPPP"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 377
 accepted: 160
 solved_users: 151
-acceptance_rate: 43.768%
-collected_at: 2026-04-17T20:59:56.703625+00:00
+acceptance_rate: "43.768%"
+collected_at: "2026-04-17T20:59:56.703625+00:00"
 ---
 
 ## 문제

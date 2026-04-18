@@ -1,13 +1,13 @@
 ---
-title: Contest Advancement
-special_judge: false
-time_limit: 2 초
-memory_limit: 2048 MB
+title: "Contest Advancement"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "2048 MB"
 submissions: 125
 accepted: 61
 solved_users: 51
-acceptance_rate: 45.133%
-collected_at: 2026-04-17T19:25:38.587572+00:00
+acceptance_rate: "45.133%"
+collected_at: "2026-04-17T19:25:38.587572+00:00"
 ---
 
 ## 문제

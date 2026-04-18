@@ -1,13 +1,13 @@
 ---
-title: 금공강 사수
-special_judge: false
-time_limit: 3 초
-memory_limit: 512 MB
+title: "금공강 사수"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "512 MB"
 submissions: 809
 accepted: 439
 solved_users: 343
-acceptance_rate: 59.036%
-collected_at: 2026-04-17T18:01:47.774721+00:00
+acceptance_rate: "59.036%"
+collected_at: "2026-04-17T18:01:47.774721+00:00"
 ---
 
 ## 문제

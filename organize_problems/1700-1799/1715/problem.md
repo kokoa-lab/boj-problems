@@ -1,13 +1,13 @@
 ---
-title: 카드 정렬하기
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "카드 정렬하기"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 91837
 accepted: 34353
 solved_users: 26232
-acceptance_rate: 36.388%
-collected_at: 2026-04-17T10:32:35.700097+00:00
+acceptance_rate: "36.388%"
+collected_at: "2026-04-17T10:32:35.700097+00:00"
 ---
 
 ## 문제

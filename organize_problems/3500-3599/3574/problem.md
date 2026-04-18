@@ -1,13 +1,13 @@
 ---
-title: Deposits
-special_judge: false
-time_limit: 3 초
-memory_limit: 256 MB
+title: "Deposits"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "256 MB"
 submissions: 11
 accepted: 7
 solved_users: 7
-acceptance_rate: 63.636%
-collected_at: 2026-04-17T10:49:55.091815+00:00
+acceptance_rate: "63.636%"
+collected_at: "2026-04-17T10:49:55.091815+00:00"
 ---
 
 ## 문제

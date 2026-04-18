@@ -1,13 +1,13 @@
 ---
-title: 표 게임
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "표 게임"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 703
 accepted: 361
 solved_users: 335
-acceptance_rate: 52.673%
-collected_at: 2026-04-17T12:44:11.357291+00:00
+acceptance_rate: "52.673%"
+collected_at: "2026-04-17T12:44:11.357291+00:00"
 ---
 
 ## 문제

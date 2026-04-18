@@ -1,13 +1,13 @@
 ---
-title: 홍준이의 친위대
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "홍준이의 친위대"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 726
 accepted: 491
 solved_users: 395
-acceptance_rate: 68.103%
-collected_at: 2026-04-17T10:53:37.401580+00:00
+acceptance_rate: "68.103%"
+collected_at: "2026-04-17T10:53:37.401580+00:00"
 ---
 
 ## 문제

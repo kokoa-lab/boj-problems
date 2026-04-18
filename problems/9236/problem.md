@@ -1,13 +1,13 @@
 ---
-title: 고급 레스토랑
-special_judge: false
-time_limit: 3 초
-memory_limit: 128 MB
+title: "고급 레스토랑"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "128 MB"
 submissions: 89
 accepted: 18
 solved_users: 16
-acceptance_rate: 27.119%
-collected_at: 2026-04-17T12:08:08.627236+00:00
+acceptance_rate: "27.119%"
+collected_at: "2026-04-17T12:08:08.627236+00:00"
 ---
 
 ## 문제

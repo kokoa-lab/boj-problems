@@ -1,13 +1,13 @@
 ---
-title: 결전의 금요일
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "결전의 금요일"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 2346
 accepted: 759
 solved_users: 605
-acceptance_rate: 35.735%
-collected_at: 2026-04-17T17:22:25.554309+00:00
+acceptance_rate: "35.735%"
+collected_at: "2026-04-17T17:22:25.554309+00:00"
 ---
 
 ## 문제

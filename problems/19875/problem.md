@@ -1,13 +1,13 @@
 ---
-title: Планировка участка
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Планировка участка"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 32
 accepted: 8
 solved_users: 8
-acceptance_rate: 40.000%
-collected_at: 2026-04-17T15:28:47.910755+00:00
+acceptance_rate: "40.000%"
+collected_at: "2026-04-17T15:28:47.910755+00:00"
 ---
 
 ## 문제

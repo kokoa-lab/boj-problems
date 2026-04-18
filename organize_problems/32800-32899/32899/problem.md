@@ -1,13 +1,13 @@
 ---
-title: Kruidnoten
-special_judge: true
-time_limit: 4 초 (추가 시간 없음)
-memory_limit: 2048 MB
+title: "Kruidnoten"
+special_judge: "true"
+time_limit: "4 초 (추가 시간 없음)"
+memory_limit: "2048 MB"
 submissions: 108
 accepted: 59
 solved_users: 51
-acceptance_rate: 54.255%
-collected_at: 2026-04-17T20:03:57.559085+00:00
+acceptance_rate: "54.255%"
+collected_at: "2026-04-17T20:03:57.559085+00:00"
 ---
 
 ## 문제

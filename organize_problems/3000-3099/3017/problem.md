@@ -1,13 +1,13 @@
 ---
-title: 가까운 수 찾기
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "가까운 수 찾기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 314
 accepted: 61
 solved_users: 48
-acceptance_rate: 22.535%
-collected_at: 2026-04-17T10:46:13.843394+00:00
+acceptance_rate: "22.535%"
+collected_at: "2026-04-17T10:46:13.843394+00:00"
 ---
 
 ## 문제

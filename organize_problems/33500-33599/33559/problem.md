@@ -1,13 +1,13 @@
 ---
-title: Infinite Array Swaps
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Infinite Array Swaps"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 606
 accepted: 374
 solved_users: 318
-acceptance_rate: 63.095%
-collected_at: 2026-04-17T20:18:55.706595+00:00
+acceptance_rate: "63.095%"
+collected_at: "2026-04-17T20:18:55.706595+00:00"
 ---
 
 ## 문제

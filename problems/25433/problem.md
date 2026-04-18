@@ -1,13 +1,13 @@
 ---
-title: PLCS
-special_judge: false
-time_limit: 1 초
-memory_limit: 16 MB
+title: "PLCS"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "16 MB"
 submissions: 428
 accepted: 142
 solved_users: 114
-acceptance_rate: 34.132%
-collected_at: 2026-04-17T17:26:39.038392+00:00
+acceptance_rate: "34.132%"
+collected_at: "2026-04-17T17:26:39.038392+00:00"
 ---
 
 ## 문제

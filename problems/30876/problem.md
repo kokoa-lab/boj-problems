@@ -1,13 +1,13 @@
 ---
-title: Tren del Fin del Mundo
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Tren del Fin del Mundo"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 1655
 accepted: 1220
 solved_users: 1150
-acceptance_rate: 74.241%
-collected_at: 2026-04-17T19:17:17.667868+00:00
+acceptance_rate: "74.241%"
+collected_at: "2026-04-17T19:17:17.667868+00:00"
 ---
 
 ## 문제

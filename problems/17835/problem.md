@@ -1,13 +1,13 @@
 ---
-title: 면접보는 승범이네
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "면접보는 승범이네"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 8647
 accepted: 2493
 solved_users: 1869
-acceptance_rate: 26.324%
-collected_at: 2026-04-17T14:48:19.036322+00:00
+acceptance_rate: "26.324%"
+collected_at: "2026-04-17T14:48:19.036322+00:00"
 ---
 
 ## 문제

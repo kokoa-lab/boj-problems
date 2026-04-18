@@ -1,13 +1,13 @@
 ---
-title: Bouquet of Balloons
-special_judge: false
-time_limit: 2 초
-memory_limit: 2048 MB
+title: "Bouquet of Balloons"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "2048 MB"
 submissions: 29
 accepted: 17
 solved_users: 15
-acceptance_rate: 55.556%
-collected_at: 2026-04-17T20:48:28.643604+00:00
+acceptance_rate: "55.556%"
+collected_at: "2026-04-17T20:48:28.643604+00:00"
 ---
 
 ## 문제

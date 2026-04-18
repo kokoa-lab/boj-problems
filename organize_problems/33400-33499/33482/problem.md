@@ -1,13 +1,13 @@
 ---
-title: 나무들이 불타는 것을 봤을 때 해야 하는 말은?
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "나무들이 불타는 것을 봤을 때 해야 하는 말은?"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 73
 accepted: 9
 solved_users: 6
-acceptance_rate: 8.696%
-collected_at: 2026-04-17T20:17:05.528744+00:00
+acceptance_rate: "8.696%"
+collected_at: "2026-04-17T20:17:05.528744+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Power Levels (Large)
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Power Levels (Large)"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 107
 accepted: 80
 solved_users: 63
-acceptance_rate: 77.778%
-collected_at: 2026-04-17T12:51:27.627109+00:00
+acceptance_rate: "77.778%"
+collected_at: "2026-04-17T12:51:27.627109+00:00"
 ---
 
 ## 문제

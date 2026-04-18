@@ -1,13 +1,13 @@
 ---
-title: Knapsack and Queries
-special_judge: false
-time_limit: 10 초
-memory_limit: 1024 MB
+title: "Knapsack and Queries"
+special_judge: "false"
+time_limit: "10 초"
+memory_limit: "1024 MB"
 submissions: 7
 accepted: 6
 solved_users: 4
-acceptance_rate: 80.000%
-collected_at: 2026-04-17T15:16:12.417393+00:00
+acceptance_rate: "80.000%"
+collected_at: "2026-04-17T15:16:12.417393+00:00"
 ---
 
 ## 문제

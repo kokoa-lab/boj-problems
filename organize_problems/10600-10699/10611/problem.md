@@ -1,13 +1,13 @@
 ---
-title: PŠENICA
-special_judge: false
-time_limit: 1 초
-memory_limit: 32 MB
+title: "PŠENICA"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "32 MB"
 submissions: 143
 accepted: 37
 solved_users: 33
-acceptance_rate: 29.730%
-collected_at: 2026-04-17T12:26:13.575721+00:00
+acceptance_rate: "29.730%"
+collected_at: "2026-04-17T12:26:13.575721+00:00"
 ---
 
 ## 문제

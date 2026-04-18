@@ -1,13 +1,13 @@
 ---
-title: Impressive Beers
-special_judge: false
-time_limit: 3 초 (추가 시간 없음)
-memory_limit: 2048 MB
+title: "Impressive Beers"
+special_judge: "false"
+time_limit: "3 초 (추가 시간 없음)"
+memory_limit: "2048 MB"
 submissions: 39
 accepted: 29
 solved_users: 26
-acceptance_rate: 72.222%
-collected_at: 2026-04-17T20:18:25.762082+00:00
+acceptance_rate: "72.222%"
+collected_at: "2026-04-17T20:18:25.762082+00:00"
 ---
 
 ## 문제

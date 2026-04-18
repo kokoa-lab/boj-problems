@@ -1,13 +1,13 @@
 ---
-title: 데스스타
-special_judge: true
-time_limit: 1 초
-memory_limit: 256 MB
+title: "데스스타"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 1203
 accepted: 922
 solved_users: 719
-acceptance_rate: 78.322%
-collected_at: 2026-04-17T12:46:24.871991+00:00
+acceptance_rate: "78.322%"
+collected_at: "2026-04-17T12:46:24.871991+00:00"
 ---
 
 ## 문제

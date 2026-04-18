@@ -1,13 +1,13 @@
 ---
-title: Dragon Maze (Small)
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Dragon Maze (Small)"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 86
 accepted: 43
 solved_users: 38
-acceptance_rate: 55.882%
-collected_at: 2026-04-17T12:52:52.545693+00:00
+acceptance_rate: "55.882%"
+collected_at: "2026-04-17T12:52:52.545693+00:00"
 ---
 
 ## 문제

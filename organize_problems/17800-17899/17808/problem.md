@@ -1,13 +1,13 @@
 ---
-title: Beer Bill
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Beer Bill"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 76
 accepted: 35
 solved_users: 29
-acceptance_rate: 45.312%
-collected_at: 2026-04-17T14:47:37.350431+00:00
+acceptance_rate: "45.312%"
+collected_at: "2026-04-17T14:47:37.350431+00:00"
 ---
 
 ## 문제

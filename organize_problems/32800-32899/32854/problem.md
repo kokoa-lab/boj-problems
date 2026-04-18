@@ -1,13 +1,13 @@
 ---
-title: Traffic Lights
-special_judge: false
-time_limit: 1 초
-memory_limit: 2048 MB
+title: "Traffic Lights"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "2048 MB"
 submissions: 101
 accepted: 69
 solved_users: 41
-acceptance_rate: 65.079%
-collected_at: 2026-04-17T20:02:44.326991+00:00
+acceptance_rate: "65.079%"
+collected_at: "2026-04-17T20:02:44.326991+00:00"
 ---
 
 ## 문제

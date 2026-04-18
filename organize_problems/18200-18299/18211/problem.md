@@ -1,13 +1,13 @@
 ---
-title: Estimating the Flood Risk
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Estimating the Flood Risk"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 84
 accepted: 67
 solved_users: 66
-acceptance_rate: 79.518%
-collected_at: 2026-04-17T14:57:15.816363+00:00
+acceptance_rate: "79.518%"
+collected_at: "2026-04-17T14:57:15.816363+00:00"
 ---
 
 ## 문제

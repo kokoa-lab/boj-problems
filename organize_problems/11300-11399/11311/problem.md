@@ -1,13 +1,13 @@
 ---
-title: Jug Hard
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "Jug Hard"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 212
 accepted: 123
 solved_users: 103
-acceptance_rate: 58.192%
-collected_at: 2026-04-17T12:39:32.597650+00:00
+acceptance_rate: "58.192%"
+collected_at: "2026-04-17T12:39:32.597650+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Eleven Lover
-special_judge: false
-time_limit: 8 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "Eleven Lover"
+special_judge: "false"
+time_limit: "8 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 29
 accepted: 24
 solved_users: 19
-acceptance_rate: 79.167%
-collected_at: 2026-04-17T13:20:04.677523+00:00
+acceptance_rate: "79.167%"
+collected_at: "2026-04-17T13:20:04.677523+00:00"
 ---
 
 ## 문제

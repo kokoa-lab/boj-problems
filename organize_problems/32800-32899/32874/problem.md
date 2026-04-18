@@ -1,13 +1,13 @@
 ---
-title: 간선을 하나 그어서 루트까지 거리의 합을 최소로 만들기로 했습니다
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "간선을 하나 그어서 루트까지 거리의 합을 최소로 만들기로 했습니다"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 63
 accepted: 26
 solved_users: 18
-acceptance_rate: 43.902%
-collected_at: 2026-04-17T20:03:07.065419+00:00
+acceptance_rate: "43.902%"
+collected_at: "2026-04-17T20:03:07.065419+00:00"
 ---
 
 ## 문제

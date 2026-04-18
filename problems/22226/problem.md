@@ -1,13 +1,13 @@
 ---
-title: Table 5
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Table 5"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 102
 accepted: 69
 solved_users: 64
-acceptance_rate: 68.085%
-collected_at: 2026-04-17T16:17:36.192026+00:00
+acceptance_rate: "68.085%"
+collected_at: "2026-04-17T16:17:36.192026+00:00"
 ---
 
 ## 문제

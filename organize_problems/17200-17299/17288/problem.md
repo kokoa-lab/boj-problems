@@ -1,13 +1,13 @@
 ---
-title: 3개만!
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "3개만!"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 1158
 accepted: 648
 solved_users: 575
-acceptance_rate: 59.647%
-collected_at: 2026-04-17T14:36:21.195339+00:00
+acceptance_rate: "59.647%"
+collected_at: "2026-04-17T14:36:21.195339+00:00"
 ---
 
 ## 문제

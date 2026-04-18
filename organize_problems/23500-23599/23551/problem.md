@@ -1,13 +1,13 @@
 ---
-title: Girlfriend
-special_judge: false
-time_limit: 7 초 (추가 시간 없음)
-memory_limit: 256 MB
+title: "Girlfriend"
+special_judge: "false"
+time_limit: "7 초 (추가 시간 없음)"
+memory_limit: "256 MB"
 submissions: 8
 accepted: 4
 solved_users: 2
-acceptance_rate: 100.000%
-collected_at: 2026-04-17T16:49:58.046544+00:00
+acceptance_rate: "100.000%"
+collected_at: "2026-04-17T16:49:58.046544+00:00"
 ---
 
 ## 문제

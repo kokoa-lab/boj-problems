@@ -1,13 +1,13 @@
 ---
-title: Tidy Numbers (Large)
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Tidy Numbers (Large)"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 492
 accepted: 266
 solved_users: 223
-acceptance_rate: 57.772%
-collected_at: 2026-04-17T13:41:54.236521+00:00
+acceptance_rate: "57.772%"
+collected_at: "2026-04-17T13:41:54.236521+00:00"
 ---
 
 ## 문제

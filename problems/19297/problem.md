@@ -1,13 +1,13 @@
 ---
-title: Logistical Metropolis
-special_judge: false
-time_limit: 3 초
-memory_limit: 1024 MB
+title: "Logistical Metropolis"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "1024 MB"
 submissions: 245
 accepted: 62
 solved_users: 48
-acceptance_rate: 25.668%
-collected_at: 2026-04-17T15:16:29.461314+00:00
+acceptance_rate: "25.668%"
+collected_at: "2026-04-17T15:16:29.461314+00:00"
 ---
 
 ## 문제

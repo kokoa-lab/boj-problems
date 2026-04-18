@@ -1,13 +1,13 @@
 ---
-title: 패리티
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "패리티"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 2319
 accepted: 1820
 solved_users: 1671
-acceptance_rate: 79.458%
-collected_at: 2026-04-17T11:05:15.963387+00:00
+acceptance_rate: "79.458%"
+collected_at: "2026-04-17T11:05:15.963387+00:00"
 ---
 
 ## 문제

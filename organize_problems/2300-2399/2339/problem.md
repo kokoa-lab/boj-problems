@@ -1,13 +1,13 @@
 ---
-title: 석판 자르기
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "석판 자르기"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 2610
 accepted: 928
 solved_users: 668
-acceptance_rate: 36.011%
-collected_at: 2026-04-17T10:40:48.508743+00:00
+acceptance_rate: "36.011%"
+collected_at: "2026-04-17T10:40:48.508743+00:00"
 ---
 
 ## 문제

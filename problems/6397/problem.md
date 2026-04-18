@@ -1,13 +1,13 @@
 ---
-title: Bit Maps
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Bit Maps"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 719
 accepted: 142
 solved_users: 77
-acceptance_rate: 20.157%
-collected_at: 2026-04-17T11:27:07.633955+00:00
+acceptance_rate: "20.157%"
+collected_at: "2026-04-17T11:27:07.633955+00:00"
 ---
 
 ## 문제

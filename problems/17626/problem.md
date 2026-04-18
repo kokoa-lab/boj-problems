@@ -1,13 +1,13 @@
 ---
-title: Four Squares
-special_judge: false
-time_limit: 0.5 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "Four Squares"
+special_judge: "false"
+time_limit: "0.5 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 45695
 accepted: 20317
 solved_users: 16098
-acceptance_rate: 44.080%
-collected_at: 2026-04-17T14:43:02.402400+00:00
+acceptance_rate: "44.080%"
+collected_at: "2026-04-17T14:43:02.402400+00:00"
 ---
 
 ## 문제

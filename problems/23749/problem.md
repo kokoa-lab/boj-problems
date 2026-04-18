@@ -1,13 +1,13 @@
 ---
-title: 카드컨트롤
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "카드컨트롤"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 488
 accepted: 200
 solved_users: 169
-acceptance_rate: 45.308%
-collected_at: 2026-04-17T16:53:06.278512+00:00
+acceptance_rate: "45.308%"
+collected_at: "2026-04-17T16:53:06.278512+00:00"
 ---
 
 ## 문제

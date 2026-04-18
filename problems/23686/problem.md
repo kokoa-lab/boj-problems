@@ -1,13 +1,13 @@
 ---
-title: Number Of Vertices
-special_judge: false
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "Number Of Vertices"
+special_judge: "false"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 18
 accepted: 13
 solved_users: 13
-acceptance_rate: 81.250%
-collected_at: 2026-04-17T16:52:05.621695+00:00
+acceptance_rate: "81.250%"
+collected_at: "2026-04-17T16:52:05.621695+00:00"
 ---
 
 ## 문제

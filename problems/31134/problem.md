@@ -1,13 +1,13 @@
 ---
-title: A Hero Named Magnus
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "A Hero Named Magnus"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 1273
 accepted: 618
 solved_users: 559
-acceptance_rate: 49.733%
-collected_at: 2026-04-17T19:21:55.296793+00:00
+acceptance_rate: "49.733%"
+collected_at: "2026-04-17T19:21:55.296793+00:00"
 ---
 
 ## 문제

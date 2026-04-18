@@ -1,13 +1,13 @@
 ---
-title: 격자 연결하기
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "격자 연결하기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 175
 accepted: 89
 solved_users: 76
-acceptance_rate: 54.286%
-collected_at: 2026-04-17T19:59:43.391895+00:00
+acceptance_rate: "54.286%"
+collected_at: "2026-04-17T19:59:43.391895+00:00"
 ---
 
 ## 문제

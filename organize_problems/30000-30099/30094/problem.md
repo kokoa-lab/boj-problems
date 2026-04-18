@@ -1,13 +1,13 @@
 ---
-title: 그래서 나는 사진을 그만두었다
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "그래서 나는 사진을 그만두었다"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 227
 accepted: 83
 solved_users: 77
-acceptance_rate: 39.086%
-collected_at: 2026-04-17T18:58:51.778395+00:00
+acceptance_rate: "39.086%"
+collected_at: "2026-04-17T18:58:51.778395+00:00"
 ---
 
 ## 문제

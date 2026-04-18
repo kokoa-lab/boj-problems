@@ -1,13 +1,13 @@
 ---
-title: 벌집 2
-special_judge: false
-time_limit: 0.25 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "벌집 2"
+special_judge: "false"
+time_limit: "0.25 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 1116
 accepted: 250
 solved_users: 170
-acceptance_rate: 24.079%
-collected_at: 2026-04-17T18:03:04.048243+00:00
+acceptance_rate: "24.079%"
+collected_at: "2026-04-17T18:03:04.048243+00:00"
 ---
 
 ## 문제

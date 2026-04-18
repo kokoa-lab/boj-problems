@@ -1,13 +1,13 @@
 ---
-title: TOLLS
-special_judge: false
-time_limit: 0.25 초
-memory_limit: 1024 MB
+title: "TOLLS"
+special_judge: "false"
+time_limit: "0.25 초"
+memory_limit: "1024 MB"
 submissions: 48
 accepted: 25
 solved_users: 22
-acceptance_rate: 48.889%
-collected_at: 2026-04-17T19:52:37.623109+00:00
+acceptance_rate: "48.889%"
+collected_at: "2026-04-17T19:52:37.623109+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Jumping Cows
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Jumping Cows"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 88
 accepted: 75
 solved_users: 37
-acceptance_rate: 90.244%
-collected_at: 2026-04-17T17:55:37.864159+00:00
+acceptance_rate: "90.244%"
+collected_at: "2026-04-17T17:55:37.864159+00:00"
 ---
 
 ## 문제

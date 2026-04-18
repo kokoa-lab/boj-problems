@@ -1,13 +1,13 @@
 ---
-title: Holodeck Hacking
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "Holodeck Hacking"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 24
 accepted: 15
 solved_users: 15
-acceptance_rate: 78.947%
-collected_at: 2026-04-17T12:10:41.654256+00:00
+acceptance_rate: "78.947%"
+collected_at: "2026-04-17T12:10:41.654256+00:00"
 ---
 
 ## 문제

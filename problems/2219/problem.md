@@ -1,13 +1,13 @@
 ---
-title: 보안 시스템 설치
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "보안 시스템 설치"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 607
 accepted: 311
 solved_users: 240
-acceptance_rate: 47.714%
-collected_at: 2026-04-17T10:39:40.374632+00:00
+acceptance_rate: "47.714%"
+collected_at: "2026-04-17T10:39:40.374632+00:00"
 ---
 
 ## 문제

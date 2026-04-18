@@ -1,13 +1,13 @@
 ---
-title: 소트 게임
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "소트 게임"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 4451
 accepted: 2293
 solved_users: 1670
-acceptance_rate: 49.955%
-collected_at: 2026-04-17T10:29:28.712737+00:00
+acceptance_rate: "49.955%"
+collected_at: "2026-04-17T10:29:28.712737+00:00"
 ---
 
 ## 문제

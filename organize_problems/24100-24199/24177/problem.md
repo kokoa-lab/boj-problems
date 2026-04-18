@@ -1,13 +1,13 @@
 ---
-title: 引っ越し
-special_judge: false
-time_limit: 8 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "引っ越し"
+special_judge: "false"
+time_limit: "8 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 22
 accepted: 15
 solved_users: 15
-acceptance_rate: 88.235%
-collected_at: 2026-04-17T17:05:27.125731+00:00
+acceptance_rate: "88.235%"
+collected_at: "2026-04-17T17:05:27.125731+00:00"
 ---
 
 ## 문제

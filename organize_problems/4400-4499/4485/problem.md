@@ -1,13 +1,13 @@
 ---
-title: 녹색 옷 입은 애가 젤다지?
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "녹색 옷 입은 애가 젤다지?"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 40528
 accepted: 22394
 solved_users: 15167
-acceptance_rate: 52.801%
-collected_at: 2026-04-17T11:02:34.500593+00:00
+acceptance_rate: "52.801%"
+collected_at: "2026-04-17T11:02:34.500593+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 0과 1 - 2
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "0과 1 - 2"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 1536
 accepted: 524
 solved_users: 404
-acceptance_rate: 34.619%
-collected_at: 2026-04-17T11:56:08.176041+00:00
+acceptance_rate: "34.619%"
+collected_at: "2026-04-17T11:56:08.176041+00:00"
 ---
 
 ## 문제

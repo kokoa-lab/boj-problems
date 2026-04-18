@@ -1,13 +1,13 @@
 ---
-title: Saraga
-special_judge: true
-time_limit: 1 초
-memory_limit: 2048 MB
+title: "Saraga"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "2048 MB"
 submissions: 101
 accepted: 70
 solved_users: 45
-acceptance_rate: 69.231%
-collected_at: 2026-04-17T20:09:47.934933+00:00
+acceptance_rate: "69.231%"
+collected_at: "2026-04-17T20:09:47.934933+00:00"
 ---
 
 ## 문제

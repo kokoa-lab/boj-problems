@@ -1,13 +1,13 @@
 ---
-title: 먹을 것인가 먹힐 것인가
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "먹을 것인가 먹힐 것인가"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 23763
 accepted: 12385
 solved_users: 9108
-acceptance_rate: 51.762%
-collected_at: 2026-04-17T11:53:04.174445+00:00
+acceptance_rate: "51.762%"
+collected_at: "2026-04-17T11:53:04.174445+00:00"
 ---
 
 ## 문제

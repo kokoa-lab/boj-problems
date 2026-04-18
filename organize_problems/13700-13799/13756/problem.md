@@ -1,13 +1,13 @@
 ---
-title: 완벽한 구사과의 집합
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "완벽한 구사과의 집합"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 127
 accepted: 66
 solved_users: 31
-acceptance_rate: 56.364%
-collected_at: 2026-04-17T13:18:47.286000+00:00
+acceptance_rate: "56.364%"
+collected_at: "2026-04-17T13:18:47.286000+00:00"
 ---
 
 ## 문제

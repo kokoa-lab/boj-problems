@@ -1,13 +1,13 @@
 ---
-title: 기하가 너무 좋아
-special_judge: false
-time_limit: 3 초
-memory_limit: 1024 MB
+title: "기하가 너무 좋아"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "1024 MB"
 submissions: 438
 accepted: 212
 solved_users: 173
-acceptance_rate: 52.584%
-collected_at: 2026-04-17T18:17:39.663348+00:00
+acceptance_rate: "52.584%"
+collected_at: "2026-04-17T18:17:39.663348+00:00"
 ---
 
 ## 문제

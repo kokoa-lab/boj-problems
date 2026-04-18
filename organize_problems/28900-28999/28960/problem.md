@@ -1,13 +1,13 @@
 ---
-title: Плащ левитации
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Плащ левитации"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 1237
 accepted: 568
 solved_users: 538
-acceptance_rate: 47.737%
-collected_at: 2026-04-17T18:35:16.265763+00:00
+acceptance_rate: "47.737%"
+collected_at: "2026-04-17T18:35:16.265763+00:00"
 ---
 
 ## 문제

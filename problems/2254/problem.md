@@ -1,13 +1,13 @@
 ---
-title: 감옥 건설
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "감옥 건설"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 3042
 accepted: 1079
 solved_users: 778
-acceptance_rate: 33.149%
-collected_at: 2026-04-17T10:39:59.449465+00:00
+acceptance_rate: "33.149%"
+collected_at: "2026-04-17T10:39:59.449465+00:00"
 ---
 
 ## 문제

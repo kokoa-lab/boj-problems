@@ -1,13 +1,13 @@
 ---
-title: Relay
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Relay"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 88
 accepted: 48
 solved_users: 39
-acceptance_rate: 63.934%
-collected_at: 2026-04-17T17:58:18.080127+00:00
+acceptance_rate: "63.934%"
+collected_at: "2026-04-17T17:58:18.080127+00:00"
 ---
 
 ## 문제

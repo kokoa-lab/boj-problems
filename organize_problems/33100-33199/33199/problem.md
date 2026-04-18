@@ -1,13 +1,13 @@
 ---
-title: Conference Rides
-special_judge: true
-time_limit: 1 초
-memory_limit: 2048 MB
+title: "Conference Rides"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "2048 MB"
 submissions: 45
 accepted: 18
 solved_users: 15
-acceptance_rate: 42.857%
-collected_at: 2026-04-17T20:11:12.855696+00:00
+acceptance_rate: "42.857%"
+collected_at: "2026-04-17T20:11:12.855696+00:00"
 ---
 
 ## 문제

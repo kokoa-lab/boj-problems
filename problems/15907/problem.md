@@ -1,13 +1,13 @@
 ---
-title: Acka의 리듬 세상
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Acka의 리듬 세상"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 1485
 accepted: 319
 solved_users: 203
-acceptance_rate: 19.444%
-collected_at: 2026-04-17T14:08:29.989974+00:00
+acceptance_rate: "19.444%"
+collected_at: "2026-04-17T14:08:29.989974+00:00"
 ---
 
 ## 문제

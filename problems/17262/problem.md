@@ -1,13 +1,13 @@
 ---
-title: 팬덤이 넘쳐흘러
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "팬덤이 넘쳐흘러"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 2379
 accepted: 1247
 solved_users: 1014
-acceptance_rate: 51.446%
-collected_at: 2026-04-17T14:35:39.578858+00:00
+acceptance_rate: "51.446%"
+collected_at: "2026-04-17T14:35:39.578858+00:00"
 ---
 
 ## 문제

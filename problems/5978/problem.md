@@ -1,13 +1,13 @@
 ---
-title: Odd degrees
-special_judge: true
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Odd degrees"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 154
 accepted: 75
 solved_users: 64
-acceptance_rate: 50.394%
-collected_at: 2026-04-17T11:19:02.318357+00:00
+acceptance_rate: "50.394%"
+collected_at: "2026-04-17T11:19:02.318357+00:00"
 ---
 
 ## 문제

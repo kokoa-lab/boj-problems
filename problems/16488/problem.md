@@ -1,13 +1,13 @@
 ---
-title: 피카츄가 낸 어려운 문제
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "피카츄가 낸 어려운 문제"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 1068
 accepted: 746
 solved_users: 691
-acceptance_rate: 70.582%
-collected_at: 2026-04-17T14:18:51.973850+00:00
+acceptance_rate: "70.582%"
+collected_at: "2026-04-17T14:18:51.973850+00:00"
 ---
 
 ## 문제

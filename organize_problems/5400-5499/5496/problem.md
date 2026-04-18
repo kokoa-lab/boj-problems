@@ -1,13 +1,13 @@
 ---
-title: Utopia Divided
-special_judge: true
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Utopia Divided"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 95
 accepted: 47
 solved_users: 39
-acceptance_rate: 58.209%
-collected_at: 2026-04-17T11:14:39.214106+00:00
+acceptance_rate: "58.209%"
+collected_at: "2026-04-17T11:14:39.214106+00:00"
 ---
 
 ## 문제

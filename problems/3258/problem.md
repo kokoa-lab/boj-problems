@@ -1,13 +1,13 @@
 ---
-title: 컴포트
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "컴포트"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 1133
 accepted: 403
 solved_users: 331
-acceptance_rate: 36.017%
-collected_at: 2026-04-17T10:47:43.050969+00:00
+acceptance_rate: "36.017%"
+collected_at: "2026-04-17T10:47:43.050969+00:00"
 ---
 
 ## 문제

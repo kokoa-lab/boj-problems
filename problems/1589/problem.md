@@ -1,13 +1,13 @@
 ---
-title: 레이저
-special_judge: false
-time_limit: 5 초
-memory_limit: 128 MB
+title: "레이저"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "128 MB"
 submissions: 29
 accepted: 3
 solved_users: 3
-acceptance_rate: 14.286%
-collected_at: 2026-04-17T10:31:26.479164+00:00
+acceptance_rate: "14.286%"
+collected_at: "2026-04-17T10:31:26.479164+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Pattern Lock
-special_judge: true
-time_limit: 3 초
-memory_limit: 128 MB
+title: "Pattern Lock"
+special_judge: "true"
+time_limit: "3 초"
+memory_limit: "128 MB"
 submissions: 304
 accepted: 62
 solved_users: 47
-acceptance_rate: 21.759%
-collected_at: 2026-04-17T12:04:36.761179+00:00
+acceptance_rate: "21.759%"
+collected_at: "2026-04-17T12:04:36.761179+00:00"
 ---
 
 ## 문제

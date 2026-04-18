@@ -1,13 +1,13 @@
 ---
-title: Bomboni
-special_judge: false
-time_limit: 2 초
-memory_limit: 64 MB
+title: "Bomboni"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "64 MB"
 submissions: 49
 accepted: 32
 solved_users: 25
-acceptance_rate: 64.103%
-collected_at: 2026-04-17T13:26:44.445839+00:00
+acceptance_rate: "64.103%"
+collected_at: "2026-04-17T13:26:44.445839+00:00"
 ---
 
 ## 문제

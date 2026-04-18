@@ -1,13 +1,13 @@
 ---
-title: Tons Of Damage
-special_judge: true
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Tons Of Damage"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 335
 accepted: 58
 solved_users: 44
-acceptance_rate: 20.952%
-collected_at: 2026-04-17T12:20:38.417537+00:00
+acceptance_rate: "20.952%"
+collected_at: "2026-04-17T12:20:38.417537+00:00"
 ---
 
 ## 문제

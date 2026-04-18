@@ -1,13 +1,13 @@
 ---
-title: Bubbles
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Bubbles"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 109
 accepted: 50
 solved_users: 47
-acceptance_rate: 48.454%
-collected_at: 2026-04-17T16:08:44.732069+00:00
+acceptance_rate: "48.454%"
+collected_at: "2026-04-17T16:08:44.732069+00:00"
 ---
 
 ## 문제

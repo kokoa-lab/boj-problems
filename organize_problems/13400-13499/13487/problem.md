@@ -1,13 +1,13 @@
 ---
-title: Mag
-special_judge: false
-time_limit: 4 초
-memory_limit: 256 MB
+title: "Mag"
+special_judge: "false"
+time_limit: "4 초"
+memory_limit: "256 MB"
 submissions: 133
 accepted: 27
 solved_users: 25
-acceptance_rate: 24.272%
-collected_at: 2026-04-17T13:13:59.130219+00:00
+acceptance_rate: "24.272%"
+collected_at: "2026-04-17T13:13:59.130219+00:00"
 ---
 
 ## 문제

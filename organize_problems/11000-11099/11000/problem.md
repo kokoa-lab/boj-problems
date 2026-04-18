@@ -1,13 +1,13 @@
 ---
-title: 강의실 배정
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "강의실 배정"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 67667
 accepted: 21363
 solved_users: 15806
-acceptance_rate: 30.869%
-collected_at: 2026-04-17T12:34:42.637370+00:00
+acceptance_rate: "30.869%"
+collected_at: "2026-04-17T12:34:42.637370+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 유물 복원
-special_judge: true
-time_limit: 1 초
-memory_limit: 512 MB
+title: "유물 복원"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 623
 accepted: 180
 solved_users: 143
-acceptance_rate: 28.889%
-collected_at: 2026-04-17T14:29:10.902113+00:00
+acceptance_rate: "28.889%"
+collected_at: "2026-04-17T14:29:10.902113+00:00"
 ---
 
 ## 문제

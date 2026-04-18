@@ -1,13 +1,13 @@
 ---
-title: 이주 계획 세우기 4
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "이주 계획 세우기 4"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 66
 accepted: 17
 solved_users: 12
-acceptance_rate: 66.667%
-collected_at: 2026-04-17T12:47:55.145131+00:00
+acceptance_rate: "66.667%"
+collected_at: "2026-04-17T12:47:55.145131+00:00"
 ---
 
 ## 문제

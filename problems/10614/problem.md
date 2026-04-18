@@ -1,13 +1,13 @@
 ---
-title: SABOR
-special_judge: true
-time_limit: 1 초
-memory_limit: 64 MB
+title: "SABOR"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "64 MB"
 submissions: 14
 accepted: 9
 solved_users: 8
-acceptance_rate: 66.667%
-collected_at: 2026-04-17T12:26:15.478803+00:00
+acceptance_rate: "66.667%"
+collected_at: "2026-04-17T12:26:15.478803+00:00"
 ---
 
 ## 문제

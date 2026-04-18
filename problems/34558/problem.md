@@ -1,13 +1,13 @@
 ---
-title: Prime Median
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Prime Median"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 511
 accepted: 242
 solved_users: 167
-acceptance_rate: 43.717%
-collected_at: 2026-04-17T20:42:46.636010+00:00
+acceptance_rate: "43.717%"
+collected_at: "2026-04-17T20:42:46.636010+00:00"
 ---
 
 ## 문제

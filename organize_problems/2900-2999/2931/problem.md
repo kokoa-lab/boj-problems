@@ -1,13 +1,13 @@
 ---
-title: 가스관
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "가스관"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 11543
 accepted: 2943
 solved_users: 2091
-acceptance_rate: 27.784%
-collected_at: 2026-04-17T10:45:46.083701+00:00
+acceptance_rate: "27.784%"
+collected_at: "2026-04-17T10:45:46.083701+00:00"
 ---
 
 ## 문제

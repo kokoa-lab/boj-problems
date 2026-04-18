@@ -1,13 +1,13 @@
 ---
-title: DNA 복사
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "DNA 복사"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 37
 accepted: 6
 solved_users: 6
-acceptance_rate: 27.273%
-collected_at: 2026-04-17T11:11:11.153319+00:00
+acceptance_rate: "27.273%"
+collected_at: "2026-04-17T11:11:11.153319+00:00"
 ---
 
 ## 문제

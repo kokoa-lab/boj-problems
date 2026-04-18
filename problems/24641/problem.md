@@ -1,13 +1,13 @@
 ---
-title: Day Streak
-special_judge: true
-time_limit: 4 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "Day Streak"
+special_judge: "true"
+time_limit: "4 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 35
 accepted: 13
 solved_users: 10
-acceptance_rate: 34.483%
-collected_at: 2026-04-17T17:12:32.727420+00:00
+acceptance_rate: "34.483%"
+collected_at: "2026-04-17T17:12:32.727420+00:00"
 ---
 
 ## 문제

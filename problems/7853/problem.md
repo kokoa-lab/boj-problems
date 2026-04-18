@@ -1,13 +1,13 @@
 ---
-title: Advanced ASCII Cubes
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Advanced ASCII Cubes"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 56
 accepted: 53
 solved_users: 46
-acceptance_rate: 97.872%
-collected_at: 2026-04-17T11:53:29.114282+00:00
+acceptance_rate: "97.872%"
+collected_at: "2026-04-17T11:53:29.114282+00:00"
 ---
 
 ## 문제

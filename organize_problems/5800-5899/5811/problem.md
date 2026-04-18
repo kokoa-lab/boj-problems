@@ -1,13 +1,13 @@
 ---
-title: 낙하산 고리들
-special_judge: false
-time_limit: 3 초
-memory_limit: 128 MB
+title: "낙하산 고리들"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "128 MB"
 submissions: 362
 accepted: 66
 solved_users: 44
-acceptance_rate: 17.886%
-collected_at: 2026-04-17T11:17:40.830381+00:00
+acceptance_rate: "17.886%"
+collected_at: "2026-04-17T11:17:40.830381+00:00"
 ---
 
 ## 문제

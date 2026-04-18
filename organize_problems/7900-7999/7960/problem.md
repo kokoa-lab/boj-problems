@@ -1,13 +1,13 @@
 ---
-title: Piggy Banks
-special_judge: false
-time_limit: 3 초
-memory_limit: 128 MB
+title: "Piggy Banks"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "128 MB"
 submissions: 37
 accepted: 23
 solved_users: 22
-acceptance_rate: 62.857%
-collected_at: 2026-04-17T11:54:39.899922+00:00
+acceptance_rate: "62.857%"
+collected_at: "2026-04-17T11:54:39.899922+00:00"
 ---
 
 ## 문제

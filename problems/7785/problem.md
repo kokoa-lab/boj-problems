@@ -1,13 +1,13 @@
 ---
-title: 회사에 있는 사람
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "회사에 있는 사람"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 89330
 accepted: 38592
 solved_users: 29614
-acceptance_rate: 42.111%
-collected_at: 2026-04-17T11:52:57.886608+00:00
+acceptance_rate: "42.111%"
+collected_at: "2026-04-17T11:52:57.886608+00:00"
 ---
 
 ## 문제

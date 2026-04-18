@@ -1,13 +1,13 @@
 ---
-title: How to escape the maze
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "How to escape the maze"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 125
 accepted: 89
 solved_users: 81
-acceptance_rate: 72.973%
-collected_at: 2026-04-17T20:35:40.266046+00:00
+acceptance_rate: "72.973%"
+collected_at: "2026-04-17T20:35:40.266046+00:00"
 ---
 
 ## 문제

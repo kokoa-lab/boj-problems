@@ -1,13 +1,13 @@
 ---
-title: Card Game Is Great Fun
-special_judge: false
-time_limit: 3 초
-memory_limit: 1280 MB
+title: "Card Game Is Great Fun"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "1280 MB"
 submissions: 73
 accepted: 25
 solved_users: 22
-acceptance_rate: 44.000%
-collected_at: 2026-04-17T14:46:16.249837+00:00
+acceptance_rate: "44.000%"
+collected_at: "2026-04-17T14:46:16.249837+00:00"
 ---
 
 ## 문제

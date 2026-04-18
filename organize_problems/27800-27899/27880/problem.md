@@ -1,13 +1,13 @@
 ---
-title: Gahui and Soongsil University station
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Gahui and Soongsil University station"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 1359
 accepted: 1100
 solved_users: 1033
-acceptance_rate: 82.508%
-collected_at: 2026-04-17T18:13:29.512589+00:00
+acceptance_rate: "82.508%"
+collected_at: "2026-04-17T18:13:29.512589+00:00"
 ---
 
 ## 문제

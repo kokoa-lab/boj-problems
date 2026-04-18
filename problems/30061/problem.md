@@ -1,13 +1,13 @@
 ---
-title: Dvejeto laipsniai
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Dvejeto laipsniai"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 67
 accepted: 3
 solved_users: 2
-acceptance_rate: 7.692%
-collected_at: 2026-04-17T18:58:21.610213+00:00
+acceptance_rate: "7.692%"
+collected_at: "2026-04-17T18:58:21.610213+00:00"
 ---
 
 ## 문제

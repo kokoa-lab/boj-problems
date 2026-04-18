@@ -1,13 +1,13 @@
 ---
-title: 선로에 마네킹이야!!
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "선로에 마네킹이야!!"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 949
 accepted: 565
 solved_users: 502
-acceptance_rate: 59.338%
-collected_at: 2026-04-17T14:08:36.592897+00:00
+acceptance_rate: "59.338%"
+collected_at: "2026-04-17T14:08:36.592897+00:00"
 ---
 
 ## 문제

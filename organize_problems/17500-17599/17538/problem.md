@@ -1,13 +1,13 @@
 ---
-title: Jar of Water Game
-special_judge: false
-time_limit: 0.5 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "Jar of Water Game"
+special_judge: "false"
+time_limit: "0.5 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 60
 accepted: 19
 solved_users: 16
-acceptance_rate: 30.769%
-collected_at: 2026-04-17T14:41:28.279097+00:00
+acceptance_rate: "30.769%"
+collected_at: "2026-04-17T14:41:28.279097+00:00"
 ---
 
 ## 문제

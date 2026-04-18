@@ -1,13 +1,13 @@
 ---
-title: 경숲길 재개발 2
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "경숲길 재개발 2"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 90
 accepted: 23
 solved_users: 19
-acceptance_rate: 38.000%
-collected_at: 2026-04-17T20:46:47.518922+00:00
+acceptance_rate: "38.000%"
+collected_at: "2026-04-17T20:46:47.518922+00:00"
 ---
 
 ## 문제

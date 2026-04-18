@@ -1,13 +1,13 @@
 ---
-title: Misha's Product
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Misha's Product"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 65
 accepted: 33
 solved_users: 31
-acceptance_rate: 57.407%
-collected_at: 2026-04-17T15:28:22.948176+00:00
+acceptance_rate: "57.407%"
+collected_at: "2026-04-17T15:28:22.948176+00:00"
 ---
 
 ## 문제

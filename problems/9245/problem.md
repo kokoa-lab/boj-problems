@@ -1,13 +1,13 @@
 ---
-title: 댄스
-special_judge: true
-time_limit: 1 초
-memory_limit: 128 MB
+title: "댄스"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 33
 accepted: 10
 solved_users: 9
-acceptance_rate: 34.615%
-collected_at: 2026-04-17T12:08:13.241904+00:00
+acceptance_rate: "34.615%"
+collected_at: "2026-04-17T12:08:13.241904+00:00"
 ---
 
 ## 문제

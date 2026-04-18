@@ -1,13 +1,13 @@
 ---
-title: 팩맨
-special_judge: true
-time_limit: 1 초
-memory_limit: 256 MB
+title: "팩맨"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 878
 accepted: 309
 solved_users: 198
-acceptance_rate: 35.420%
-collected_at: 2026-04-17T12:40:57.778842+00:00
+acceptance_rate: "35.420%"
+collected_at: "2026-04-17T12:40:57.778842+00:00"
 ---
 
 ## 문제

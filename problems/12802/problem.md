@@ -1,13 +1,13 @@
 ---
-title: Torrent
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Torrent"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 134
 accepted: 50
 solved_users: 41
-acceptance_rate: 39.806%
-collected_at: 2026-04-17T13:01:41.123031+00:00
+acceptance_rate: "39.806%"
+collected_at: "2026-04-17T13:01:41.123031+00:00"
 ---
 
 ## 문제

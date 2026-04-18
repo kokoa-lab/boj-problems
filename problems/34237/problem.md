@@ -1,13 +1,13 @@
 ---
-title: 호참전
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "호참전"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 265
 accepted: 195
 solved_users: 174
-acceptance_rate: 75.652%
-collected_at: 2026-04-17T20:33:46.591821+00:00
+acceptance_rate: "75.652%"
+collected_at: "2026-04-17T20:33:46.591821+00:00"
 ---
 
 ## 문제

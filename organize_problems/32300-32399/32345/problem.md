@@ -1,13 +1,13 @@
 ---
-title: 혼긱대학교
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "혼긱대학교"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 575
 accepted: 228
 solved_users: 185
-acceptance_rate: 39.785%
-collected_at: 2026-04-17T19:49:17.871323+00:00
+acceptance_rate: "39.785%"
+collected_at: "2026-04-17T19:49:17.871323+00:00"
 ---
 
 ## 문제

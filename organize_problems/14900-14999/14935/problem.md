@@ -1,13 +1,13 @@
 ---
-title: FA
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "FA"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 6876
 accepted: 5690
 solved_users: 4996
-acceptance_rate: 83.142%
-collected_at: 2026-04-17T13:45:58.622340+00:00
+acceptance_rate: "83.142%"
+collected_at: "2026-04-17T13:45:58.622340+00:00"
 ---
 
 ## 문제

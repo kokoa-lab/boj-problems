@@ -1,13 +1,13 @@
 ---
-title: True/False Worksheet
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "True/False Worksheet"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 66
 accepted: 28
 solved_users: 23
-acceptance_rate: 44.231%
-collected_at: 2026-04-17T14:57:14.305852+00:00
+acceptance_rate: "44.231%"
+collected_at: "2026-04-17T14:57:14.305852+00:00"
 ---
 
 ## 문제

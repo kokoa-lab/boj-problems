@@ -1,13 +1,13 @@
 ---
-title: Recycling
-special_judge: false
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Recycling"
+special_judge: "false"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 169
 accepted: 58
 solved_users: 50
-acceptance_rate: 31.847%
-collected_at: 2026-04-17T17:11:14.290678+00:00
+acceptance_rate: "31.847%"
+collected_at: "2026-04-17T17:11:14.290678+00:00"
 ---
 
 ## 문제

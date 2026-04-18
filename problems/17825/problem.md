@@ -1,13 +1,13 @@
 ---
-title: 주사위 윷놀이
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "주사위 윷놀이"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 17581
 accepted: 8083
 solved_users: 5076
-acceptance_rate: 42.789%
-collected_at: 2026-04-17T14:48:05.527253+00:00
+acceptance_rate: "42.789%"
+collected_at: "2026-04-17T14:48:05.527253+00:00"
 ---
 
 ## 문제

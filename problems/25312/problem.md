@@ -1,13 +1,13 @@
 ---
-title: 200% Mixed Juice!
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "200% Mixed Juice!"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 1160
 accepted: 272
 solved_users: 216
-acceptance_rate: 25.899%
-collected_at: 2026-04-17T17:24:34.851637+00:00
+acceptance_rate: "25.899%"
+collected_at: "2026-04-17T17:24:34.851637+00:00"
 ---
 
 ## 문제

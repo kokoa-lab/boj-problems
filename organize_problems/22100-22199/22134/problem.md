@@ -1,13 +1,13 @@
 ---
-title: Трапецоидная карта и трапеции
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "Трапецоидная карта и трапеции"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 10
 accepted: 1
 solved_users: 1
-acceptance_rate: 100.000%
-collected_at: 2026-04-17T16:15:42.883311+00:00
+acceptance_rate: "100.000%"
+collected_at: "2026-04-17T16:15:42.883311+00:00"
 ---
 
 ## 문제

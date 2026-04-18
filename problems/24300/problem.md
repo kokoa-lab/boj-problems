@@ -1,13 +1,13 @@
 ---
-title: НАЙ-ГОЛЯМ ОСТАТЪК
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "НАЙ-ГОЛЯМ ОСТАТЪК"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 160
 accepted: 105
 solved_users: 47
-acceptance_rate: 52.222%
-collected_at: 2026-04-17T17:07:07.205919+00:00
+acceptance_rate: "52.222%"
+collected_at: "2026-04-17T17:07:07.205919+00:00"
 ---
 
 ## 문제

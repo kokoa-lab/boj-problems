@@ -1,13 +1,13 @@
 ---
-title: FBI Universal Control Numbers
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "FBI Universal Control Numbers"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 110
 accepted: 75
 solved_users: 63
-acceptance_rate: 67.021%
-collected_at: 2026-04-17T13:21:29.896662+00:00
+acceptance_rate: "67.021%"
+collected_at: "2026-04-17T13:21:29.896662+00:00"
 ---
 
 ## 문제

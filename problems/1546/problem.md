@@ -1,13 +1,13 @@
 ---
-title: 평균
-special_judge: true
-time_limit: 2 초
-memory_limit: 128 MB
+title: "평균"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 364309
 accepted: 187340
 solved_users: 150091
-acceptance_rate: 50.821%
-collected_at: 2026-04-17T10:31:06.291718+00:00
+acceptance_rate: "50.821%"
+collected_at: "2026-04-17T10:31:06.291718+00:00"
 ---
 
 ## 문제

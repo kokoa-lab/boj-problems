@@ -1,13 +1,13 @@
 ---
-title: Отель <<Континенталь>>
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Отель <<Континенталь>>"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 8
 accepted: 5
 solved_users: 5
-acceptance_rate: 62.500%
-collected_at: 2026-04-17T18:28:28.451681+00:00
+acceptance_rate: "62.500%"
+collected_at: "2026-04-17T18:28:28.451681+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 연속합과 쿼리
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "연속합과 쿼리"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 2870
 accepted: 1700
 solved_users: 1085
-acceptance_rate: 54.937%
-collected_at: 2026-04-17T14:27:14.380198+00:00
+acceptance_rate: "54.937%"
+collected_at: "2026-04-17T14:27:14.380198+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 스파이
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "스파이"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 914
 accepted: 709
 solved_users: 598
-acceptance_rate: 81.471%
-collected_at: 2026-04-17T18:17:43.866258+00:00
+acceptance_rate: "81.471%"
+collected_at: "2026-04-17T18:17:43.866258+00:00"
 ---
 
 ## 문제

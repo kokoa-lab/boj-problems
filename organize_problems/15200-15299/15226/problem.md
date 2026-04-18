@@ -1,13 +1,13 @@
 ---
-title: House of Cards
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "House of Cards"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 248
 accepted: 128
 solved_users: 117
-acceptance_rate: 53.182%
-collected_at: 2026-04-17T13:55:22.165651+00:00
+acceptance_rate: "53.182%"
+collected_at: "2026-04-17T13:55:22.165651+00:00"
 ---
 
 ## 문제

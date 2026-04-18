@@ -1,13 +1,13 @@
 ---
-title: Text Messaging Outrage (Small)
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Text Messaging Outrage (Small)"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 79
 accepted: 74
 solved_users: 70
-acceptance_rate: 97.222%
-collected_at: 2026-04-17T13:00:07.919399+00:00
+acceptance_rate: "97.222%"
+collected_at: "2026-04-17T13:00:07.919399+00:00"
 ---
 
 ## 문제

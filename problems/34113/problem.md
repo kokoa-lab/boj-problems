@@ -1,13 +1,13 @@
 ---
-title: Migration Plan
-special_judge: false
-time_limit: 7.5 초
-memory_limit: 2048 MB
+title: "Migration Plan"
+special_judge: "false"
+time_limit: "7.5 초"
+memory_limit: "2048 MB"
 submissions: 44
 accepted: 16
 solved_users: 15
-acceptance_rate: 38.462%
-collected_at: 2026-04-17T20:30:57.206760+00:00
+acceptance_rate: "38.462%"
+collected_at: "2026-04-17T20:30:57.206760+00:00"
 ---
 
 ## 문제

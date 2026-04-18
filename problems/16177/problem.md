@@ -1,13 +1,13 @@
 ---
-title: Why is Math Book So Sad?
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Why is Math Book So Sad?"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 77
 accepted: 43
 solved_users: 26
-acceptance_rate: 48.148%
-collected_at: 2026-04-17T14:13:00.761765+00:00
+acceptance_rate: "48.148%"
+collected_at: "2026-04-17T14:13:00.761765+00:00"
 ---
 
 ## 문제

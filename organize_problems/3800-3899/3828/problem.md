@@ -1,13 +1,13 @@
 ---
-title: 잘못된 계산
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "잘못된 계산"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 152
 accepted: 67
 solved_users: 59
-acceptance_rate: 52.212%
-collected_at: 2026-04-17T10:52:15.697461+00:00
+acceptance_rate: "52.212%"
+collected_at: "2026-04-17T10:52:15.697461+00:00"
 ---
 
 ## 문제

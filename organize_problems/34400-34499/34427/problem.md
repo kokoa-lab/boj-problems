@@ -1,13 +1,13 @@
 ---
-title: paintbucket
-special_judge: false
-time_limit: 3 초
-memory_limit: 2048 MB
+title: "paintbucket"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "2048 MB"
 submissions: 24
 accepted: 20
 solved_users: 18
-acceptance_rate: 85.714%
-collected_at: 2026-04-17T20:38:28.075743+00:00
+acceptance_rate: "85.714%"
+collected_at: "2026-04-17T20:38:28.075743+00:00"
 ---
 
 ## 문제

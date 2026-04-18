@@ -1,13 +1,13 @@
 ---
-title: Testify
-special_judge: false
-time_limit: 5 초
-memory_limit: 1024 MB
+title: "Testify"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "1024 MB"
 submissions: 301
 accepted: 9
 solved_users: 6
-acceptance_rate: 10.909%
-collected_at: 2026-04-17T20:23:54.618105+00:00
+acceptance_rate: "10.909%"
+collected_at: "2026-04-17T20:23:54.618105+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Reavers
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Reavers"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 68
 accepted: 45
 solved_users: 36
-acceptance_rate: 81.818%
-collected_at: 2026-04-17T19:06:33.949050+00:00
+acceptance_rate: "81.818%"
+collected_at: "2026-04-17T19:06:33.949050+00:00"
 ---
 
 ## 문제

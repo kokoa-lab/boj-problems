@@ -1,13 +1,13 @@
 ---
-title: Independent Set
-special_judge: false
-time_limit: 1 초
-memory_limit: 2048 MB
+title: "Independent Set"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "2048 MB"
 submissions: 0
 accepted: 0
 solved_users: 0
-acceptance_rate: 0.000%
-collected_at: 2026-04-17T20:15:14.678651+00:00
+acceptance_rate: "0.000%"
+collected_at: "2026-04-17T20:15:14.678651+00:00"
 ---
 
 ## 문제

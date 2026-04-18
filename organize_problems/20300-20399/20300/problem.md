@@ -1,13 +1,13 @@
 ---
-title: 서강근육맨
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "서강근육맨"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 8166
 accepted: 3081
 solved_users: 2588
-acceptance_rate: 37.448%
-collected_at: 2026-04-17T15:34:30.883278+00:00
+acceptance_rate: "37.448%"
+collected_at: "2026-04-17T15:34:30.883278+00:00"
 ---
 
 ## 문제

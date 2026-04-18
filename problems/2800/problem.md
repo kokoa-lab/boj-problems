@@ -1,13 +1,13 @@
 ---
-title: 괄호 제거
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "괄호 제거"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 9419
 accepted: 3799
 solved_users: 2777
-acceptance_rate: 38.399%
-collected_at: 2026-04-17T10:44:54.733975+00:00
+acceptance_rate: "38.399%"
+collected_at: "2026-04-17T10:44:54.733975+00:00"
 ---
 
 ## 문제

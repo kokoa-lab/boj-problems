@@ -1,13 +1,13 @@
 ---
-title: Fenwick Tree
-special_judge: true
-time_limit: 3 초
-memory_limit: 256 MB
+title: "Fenwick Tree"
+special_judge: "true"
+time_limit: "3 초"
+memory_limit: "256 MB"
 submissions: 139
 accepted: 70
 solved_users: 47
-acceptance_rate: 47.959%
-collected_at: 2026-04-17T10:49:57.345540+00:00
+acceptance_rate: "47.959%"
+collected_at: "2026-04-17T10:49:57.345540+00:00"
 ---
 
 ## 문제

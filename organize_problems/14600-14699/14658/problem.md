@@ -1,13 +1,13 @@
 ---
-title: 하늘에서 별똥별이 빗발친다
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "하늘에서 별똥별이 빗발친다"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 7491
 accepted: 2634
 solved_users: 2080
-acceptance_rate: 34.690%
-collected_at: 2026-04-17T13:40:03.186396+00:00
+acceptance_rate: "34.690%"
+collected_at: "2026-04-17T13:40:03.186396+00:00"
 ---
 
 ## 문제

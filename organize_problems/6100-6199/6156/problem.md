@@ -1,13 +1,13 @@
 ---
-title: Cow Contest
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Cow Contest"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 610
 accepted: 391
 solved_users: 338
-acceptance_rate: 65.000%
-collected_at: 2026-04-17T11:21:32.188655+00:00
+acceptance_rate: "65.000%"
+collected_at: "2026-04-17T11:21:32.188655+00:00"
 ---
 
 ## 문제

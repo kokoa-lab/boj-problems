@@ -1,13 +1,13 @@
 ---
-title: Chocolate Chip Fabrication
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Chocolate Chip Fabrication"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 129
 accepted: 73
 solved_users: 64
-acceptance_rate: 60.952%
-collected_at: 2026-04-17T18:06:48.880983+00:00
+acceptance_rate: "60.952%"
+collected_at: "2026-04-17T18:06:48.880983+00:00"
 ---
 
 ## 문제

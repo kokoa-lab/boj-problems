@@ -1,13 +1,13 @@
 ---
-title: Trolley Troubles
-special_judge: true
-time_limit: 2 초
-memory_limit: 2048 MB
+title: "Trolley Troubles"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "2048 MB"
 submissions: 30
 accepted: 14
 solved_users: 12
-acceptance_rate: 42.857%
-collected_at: 2026-04-17T20:35:07.145466+00:00
+acceptance_rate: "42.857%"
+collected_at: "2026-04-17T20:35:07.145466+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 칩 만들기 2
-special_judge: true
-time_limit: 1 초
-memory_limit: 128 MB
+title: "칩 만들기 2"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 157
 accepted: 31
 solved_users: 24
-acceptance_rate: 25.000%
-collected_at: 2026-04-17T16:46:25.836529+00:00
+acceptance_rate: "25.000%"
+collected_at: "2026-04-17T16:46:25.836529+00:00"
 ---
 
 ## 문제

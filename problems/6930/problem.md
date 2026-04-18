@@ -1,13 +1,13 @@
 ---
-title: Mod Inverse
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Mod Inverse"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 284
 accepted: 221
 solved_users: 190
-acceptance_rate: 76.923%
-collected_at: 2026-04-17T11:40:59.300041+00:00
+acceptance_rate: "76.923%"
+collected_at: "2026-04-17T11:40:59.300041+00:00"
 ---
 
 ## 문제

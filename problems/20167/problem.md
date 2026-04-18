@@ -1,13 +1,13 @@
 ---
-title: 꿈틀꿈틀 호석 애벌레 - 기능성
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "꿈틀꿈틀 호석 애벌레 - 기능성"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 1002
 accepted: 524
 solved_users: 404
-acceptance_rate: 56.503%
-collected_at: 2026-04-17T15:32:35.211470+00:00
+acceptance_rate: "56.503%"
+collected_at: "2026-04-17T15:32:35.211470+00:00"
 ---
 
 ## 문제

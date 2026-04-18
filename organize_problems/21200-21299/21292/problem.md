@@ -1,13 +1,13 @@
 ---
-title: le français
-special_judge: true
-time_limit: 1.789 초
-memory_limit: 512 MB
+title: "le français"
+special_judge: "true"
+time_limit: "1.789 초"
+memory_limit: "512 MB"
 submissions: 974
 accepted: 125
 solved_users: 43
-acceptance_rate: 7.203%
-collected_at: 2026-04-17T15:53:35.738039+00:00
+acceptance_rate: "7.203%"
+collected_at: "2026-04-17T15:53:35.738039+00:00"
 ---
 
 ## 문제

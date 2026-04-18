@@ -1,13 +1,13 @@
 ---
-title: Clock Breaking
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Clock Breaking"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 35
 accepted: 24
 solved_users: 23
-acceptance_rate: 79.310%
-collected_at: 2026-04-17T13:01:08.014942+00:00
+acceptance_rate: "79.310%"
+collected_at: "2026-04-17T13:01:08.014942+00:00"
 ---
 
 ## 문제

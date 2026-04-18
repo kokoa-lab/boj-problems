@@ -1,13 +1,13 @@
 ---
-title: 미적분학 입문하기 2
-special_judge: true
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "미적분학 입문하기 2"
+special_judge: "true"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 552
 accepted: 307
 solved_users: 253
-acceptance_rate: 64.051%
-collected_at: 2026-04-17T17:13:55.115365+00:00
+acceptance_rate: "64.051%"
+collected_at: "2026-04-17T17:13:55.115365+00:00"
 ---
 
 ## 문제

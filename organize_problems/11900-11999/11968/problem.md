@@ -1,13 +1,13 @@
 ---
-title: High Card Wins
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "High Card Wins"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 922
 accepted: 480
 solved_users: 405
-acceptance_rate: 52.803%
-collected_at: 2026-04-17T12:48:18.172253+00:00
+acceptance_rate: "52.803%"
+collected_at: "2026-04-17T12:48:18.172253+00:00"
 ---
 
 ## 문제

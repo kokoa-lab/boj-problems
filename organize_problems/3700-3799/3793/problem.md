@@ -1,13 +1,13 @@
 ---
-title: Common Subsequence
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Common Subsequence"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 889
 accepted: 282
 solved_users: 232
-acceptance_rate: 41.727%
-collected_at: 2026-04-17T10:52:05.382720+00:00
+acceptance_rate: "41.727%"
+collected_at: "2026-04-17T10:52:05.382720+00:00"
 ---
 
 ## 문제

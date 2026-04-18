@@ -1,13 +1,13 @@
 ---
-title: いちご (Strawberry)
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "いちご (Strawberry)"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 140
 accepted: 101
 solved_users: 89
-acceptance_rate: 74.167%
-collected_at: 2026-04-18T09:51:02.537460+00:00
+acceptance_rate: "74.167%"
+collected_at: "2026-04-18T09:51:02.537460+00:00"
 ---
 
 ## 문제

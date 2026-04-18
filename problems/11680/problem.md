@@ -1,13 +1,13 @@
 ---
-title: Dice Cup
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Dice Cup"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 312
 accepted: 288
 solved_users: 264
-acceptance_rate: 91.986%
-collected_at: 2026-04-17T12:43:58.439776+00:00
+acceptance_rate: "91.986%"
+collected_at: "2026-04-17T12:43:58.439776+00:00"
 ---
 
 ## 문제

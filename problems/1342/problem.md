@@ -1,13 +1,13 @@
 ---
-title: 행운의 문자열
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "행운의 문자열"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 9131
 accepted: 3938
 solved_users: 2899
-acceptance_rate: 43.561%
-collected_at: 2026-04-17T10:29:33.978849+00:00
+acceptance_rate: "43.561%"
+collected_at: "2026-04-17T10:29:33.978849+00:00"
 ---
 
 ## 문제

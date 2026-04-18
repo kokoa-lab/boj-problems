@@ -1,13 +1,13 @@
 ---
-title: 격자판 채우기
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "격자판 채우기"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 4385
 accepted: 2502
 solved_users: 1695
-acceptance_rate: 56.746%
-collected_at: 2026-04-17T10:31:55.871329+00:00
+acceptance_rate: "56.746%"
+collected_at: "2026-04-17T10:31:55.871329+00:00"
 ---
 
 ## 문제

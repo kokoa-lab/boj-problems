@@ -1,13 +1,13 @@
 ---
-title: 전화선
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "전화선"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 257
 accepted: 115
 solved_users: 89
-acceptance_rate: 47.090%
-collected_at: 2026-04-17T11:20:54.258692+00:00
+acceptance_rate: "47.090%"
+collected_at: "2026-04-17T11:20:54.258692+00:00"
 ---
 
 ## 문제

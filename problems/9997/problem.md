@@ -1,13 +1,13 @@
 ---
-title: 폰트
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "폰트"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 2560
 accepted: 990
 solved_users: 719
-acceptance_rate: 37.389%
-collected_at: 2026-04-17T12:17:40.409631+00:00
+acceptance_rate: "37.389%"
+collected_at: "2026-04-17T12:17:40.409631+00:00"
 ---
 
 ## 문제

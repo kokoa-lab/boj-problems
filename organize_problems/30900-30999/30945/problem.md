@@ -1,13 +1,13 @@
 ---
-title: Attendance
-special_judge: false
-time_limit: 8 초 (추가 시간 없음)
-memory_limit: 128 MB
+title: "Attendance"
+special_judge: "false"
+time_limit: "8 초 (추가 시간 없음)"
+memory_limit: "128 MB"
 submissions: 51
 accepted: 11
 solved_users: 5
-acceptance_rate: 13.889%
-collected_at: 2026-04-17T19:18:34.803887+00:00
+acceptance_rate: "13.889%"
+collected_at: "2026-04-17T19:18:34.803887+00:00"
 ---
 
 ## 문제

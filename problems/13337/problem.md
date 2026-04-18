@@ -1,13 +1,13 @@
 ---
-title: 거의 오일러 그래프
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "거의 오일러 그래프"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 41
 accepted: 16
 solved_users: 15
-acceptance_rate: 57.692%
-collected_at: 2026-04-17T13:11:48.114838+00:00
+acceptance_rate: "57.692%"
+collected_at: "2026-04-17T13:11:48.114838+00:00"
 ---
 
 ## 문제

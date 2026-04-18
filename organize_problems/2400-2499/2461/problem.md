@@ -1,13 +1,13 @@
 ---
-title: 대표 선수
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "대표 선수"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 4709
 accepted: 2282
 solved_users: 1608
-acceptance_rate: 48.434%
-collected_at: 2026-04-17T10:41:50.049106+00:00
+acceptance_rate: "48.434%"
+collected_at: "2026-04-17T10:41:50.049106+00:00"
 ---
 
 ## 문제

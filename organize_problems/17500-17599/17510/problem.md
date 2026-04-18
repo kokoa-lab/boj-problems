@@ -1,13 +1,13 @@
 ---
-title: Bigger Sokoban 40k
-special_judge: true
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Bigger Sokoban 40k"
+special_judge: "true"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 629
 accepted: 176
 solved_users: 123
-acceptance_rate: 27.703%
-collected_at: 2026-04-17T14:40:50.687422+00:00
+acceptance_rate: "27.703%"
+collected_at: "2026-04-17T14:40:50.687422+00:00"
 ---
 
 ## 문제

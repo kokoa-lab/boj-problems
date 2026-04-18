@@ -1,13 +1,13 @@
 ---
-title: 아시아 정보올림피아드
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "아시아 정보올림피아드"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 7820
 accepted: 4406
 solved_users: 3871
-acceptance_rate: 60.221%
-collected_at: 2026-04-17T10:42:28.588117+00:00
+acceptance_rate: "60.221%"
+collected_at: "2026-04-17T10:42:28.588117+00:00"
 ---
 
 ## 문제

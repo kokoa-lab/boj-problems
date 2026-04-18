@@ -1,13 +1,13 @@
 ---
-title: Wheel of Fortune
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Wheel of Fortune"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 63
 accepted: 15
 solved_users: 14
-acceptance_rate: 22.581%
-collected_at: 2026-04-17T17:16:19.245886+00:00
+acceptance_rate: "22.581%"
+collected_at: "2026-04-17T17:16:19.245886+00:00"
 ---
 
 ## 문제

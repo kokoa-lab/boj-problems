@@ -1,13 +1,13 @@
 ---
-title: 특별한 학교 탈출
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "특별한 학교 탈출"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 955
 accepted: 677
 solved_users: 637
-acceptance_rate: 71.573%
-collected_at: 2026-04-17T19:33:52.939261+00:00
+acceptance_rate: "71.573%"
+collected_at: "2026-04-17T19:33:52.939261+00:00"
 ---
 
 ## 문제

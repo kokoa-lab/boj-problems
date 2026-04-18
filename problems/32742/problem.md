@@ -1,13 +1,13 @@
 ---
-title: Domino Swap
-special_judge: true
-time_limit: 4 초
-memory_limit: 1024 MB
+title: "Domino Swap"
+special_judge: "true"
+time_limit: "4 초"
+memory_limit: "1024 MB"
 submissions: 7
 accepted: 2
 solved_users: 2
-acceptance_rate: 100.000%
-collected_at: 2026-04-17T20:00:16.190957+00:00
+acceptance_rate: "100.000%"
+collected_at: "2026-04-17T20:00:16.190957+00:00"
 ---
 
 ## 문제

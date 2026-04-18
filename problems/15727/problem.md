@@ -1,13 +1,13 @@
 ---
-title: 조별과제를 하려는데 조장이 사라졌다
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "조별과제를 하려는데 조장이 사라졌다"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 22029
 accepted: 13522
 solved_users: 12728
-acceptance_rate: 61.637%
-collected_at: 2026-04-17T14:05:14.592312+00:00
+acceptance_rate: "61.637%"
+collected_at: "2026-04-17T14:05:14.592312+00:00"
 ---
 
 ## 문제

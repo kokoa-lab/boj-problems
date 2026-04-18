@@ -1,13 +1,13 @@
 ---
-title: 문자열 접기 (Hard)
-special_judge: false
-time_limit: 1.5 초
-memory_limit: 1024 MB
+title: "문자열 접기 (Hard)"
+special_judge: "false"
+time_limit: "1.5 초"
+memory_limit: "1024 MB"
 submissions: 384
 accepted: 110
 solved_users: 85
-acceptance_rate: 28.428%
-collected_at: 2026-04-17T19:37:35.429114+00:00
+acceptance_rate: "28.428%"
+collected_at: "2026-04-17T19:37:35.429114+00:00"
 ---
 
 ## 문제

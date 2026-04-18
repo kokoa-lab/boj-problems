@@ -1,13 +1,13 @@
 ---
-title: 쌍의 합
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "쌍의 합"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 7919
 accepted: 4328
 solved_users: 3939
-acceptance_rate: 57.487%
-collected_at: 2026-04-17T11:12:23.667526+00:00
+acceptance_rate: "57.487%"
+collected_at: "2026-04-17T11:12:23.667526+00:00"
 ---
 
 ## 문제

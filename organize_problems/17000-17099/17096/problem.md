@@ -1,13 +1,13 @@
 ---
-title: Tourist
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "Tourist"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 260
 accepted: 81
 solved_users: 63
-acceptance_rate: 31.658%
-collected_at: 2026-04-17T14:29:31.412884+00:00
+acceptance_rate: "31.658%"
+collected_at: "2026-04-17T14:29:31.412884+00:00"
 ---
 
 ## 문제

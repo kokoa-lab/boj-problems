@@ -1,13 +1,13 @@
 ---
-title: 업과 격의 그래프
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "업과 격의 그래프"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 75
 accepted: 16
 solved_users: 16
-acceptance_rate: 22.857%
-collected_at: 2026-04-17T15:00:25.447520+00:00
+acceptance_rate: "22.857%"
+collected_at: "2026-04-17T15:00:25.447520+00:00"
 ---
 
 ## 문제

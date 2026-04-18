@@ -1,13 +1,13 @@
 ---
-title: 2025는 무엇이 특별할까?
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "2025는 무엇이 특별할까?"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 1523
 accepted: 1030
 solved_users: 945
-acceptance_rate: 67.986%
-collected_at: 2026-04-17T20:18:28.342745+00:00
+acceptance_rate: "67.986%"
+collected_at: "2026-04-17T20:18:28.342745+00:00"
 ---
 
 ## 문제

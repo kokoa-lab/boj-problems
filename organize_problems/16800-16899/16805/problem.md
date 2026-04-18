@@ -1,13 +1,13 @@
 ---
-title: Where is the Boundary
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Where is the Boundary"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 80
 accepted: 60
 solved_users: 41
-acceptance_rate: 68.333%
-collected_at: 2026-04-17T14:24:26.743227+00:00
+acceptance_rate: "68.333%"
+collected_at: "2026-04-17T14:24:26.743227+00:00"
 ---
 
 ## 문제

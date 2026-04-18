@@ -1,13 +1,13 @@
 ---
-title: Go와 함께하는 전화망 서비스
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Go와 함께하는 전화망 서비스"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 37
 accepted: 17
 solved_users: 16
-acceptance_rate: 45.714%
-collected_at: 2026-04-17T15:43:54.366598+00:00
+acceptance_rate: "45.714%"
+collected_at: "2026-04-17T15:43:54.366598+00:00"
 ---
 
 ## 문제

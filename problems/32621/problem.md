@@ -1,13 +1,13 @@
 ---
-title: 동아리비 횡령
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "동아리비 횡령"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 1119
 accepted: 373
 solved_users: 330
-acceptance_rate: 36.026%
-collected_at: 2026-04-17T19:57:43.652061+00:00
+acceptance_rate: "36.026%"
+collected_at: "2026-04-17T19:57:43.652061+00:00"
 ---
 
 ## 문제

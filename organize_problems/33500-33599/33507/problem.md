@@ -1,13 +1,13 @@
 ---
-title: Astral Superposition
-special_judge: false
-time_limit: 4 초
-memory_limit: 2048 MB
+title: "Astral Superposition"
+special_judge: "false"
+time_limit: "4 초"
+memory_limit: "2048 MB"
 submissions: 224
 accepted: 94
 solved_users: 89
-acceptance_rate: 49.444%
-collected_at: 2026-04-17T20:17:57.185115+00:00
+acceptance_rate: "49.444%"
+collected_at: "2026-04-17T20:17:57.185115+00:00"
 ---
 
 ## 문제

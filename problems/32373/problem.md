@@ -1,13 +1,13 @@
 ---
-title: 장난감 자물쇠
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "장난감 자물쇠"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 595
 accepted: 297
 solved_users: 246
-acceptance_rate: 53.595%
-collected_at: 2026-04-17T19:49:49.263178+00:00
+acceptance_rate: "53.595%"
+collected_at: "2026-04-17T19:49:49.263178+00:00"
 ---
 
 ## 문제

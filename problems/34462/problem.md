@@ -1,13 +1,13 @@
 ---
-title: Missing Number Queries
-special_judge: true
-time_limit: 2 초
-memory_limit: 256 MB
+title: "Missing Number Queries"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 68
 accepted: 21
 solved_users: 14
-acceptance_rate: 28.571%
-collected_at: 2026-04-17T20:39:42.754077+00:00
+acceptance_rate: "28.571%"
+collected_at: "2026-04-17T20:39:42.754077+00:00"
 ---
 
 ## 문제

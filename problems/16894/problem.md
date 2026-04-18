@@ -1,13 +1,13 @@
 ---
-title: 약수 게임
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "약수 게임"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 1149
 accepted: 410
 solved_users: 317
-acceptance_rate: 36.818%
-collected_at: 2026-04-17T14:25:53.760453+00:00
+acceptance_rate: "36.818%"
+collected_at: "2026-04-17T14:25:53.760453+00:00"
 ---
 
 ## 문제

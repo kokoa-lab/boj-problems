@@ -1,13 +1,13 @@
 ---
-title: LaLa and Magic Circle (LaLa Version)
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "LaLa and Magic Circle (LaLa Version)"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 85
 accepted: 24
 solved_users: 6
-acceptance_rate: 22.222%
-collected_at: 2026-04-17T18:16:29.105116+00:00
+acceptance_rate: "22.222%"
+collected_at: "2026-04-17T18:16:29.105116+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 삼각형 개수 세기
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "삼각형 개수 세기"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 53
 accepted: 21
 solved_users: 11
-acceptance_rate: 45.833%
-collected_at: 2026-04-17T10:31:51.987801+00:00
+acceptance_rate: "45.833%"
+collected_at: "2026-04-17T10:31:51.987801+00:00"
 ---
 
 ## 문제

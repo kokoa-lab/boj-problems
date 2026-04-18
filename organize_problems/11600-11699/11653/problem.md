@@ -1,13 +1,13 @@
 ---
-title: 소인수분해
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "소인수분해"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 147019
 accepted: 82205
 solved_users: 63416
-acceptance_rate: 54.429%
-collected_at: 2026-04-17T12:43:35.440383+00:00
+acceptance_rate: "54.429%"
+collected_at: "2026-04-17T12:43:35.440383+00:00"
 ---
 
 ## 문제

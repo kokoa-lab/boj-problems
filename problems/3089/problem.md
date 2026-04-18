@@ -1,13 +1,13 @@
 ---
-title: 네잎 클로버를 찾아서
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "네잎 클로버를 찾아서"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 537
 accepted: 277
 solved_users: 221
-acceptance_rate: 55.949%
-collected_at: 2026-04-17T10:46:37.355427+00:00
+acceptance_rate: "55.949%"
+collected_at: "2026-04-17T10:46:37.355427+00:00"
 ---
 
 ## 문제

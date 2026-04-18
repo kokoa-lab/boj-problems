@@ -1,13 +1,13 @@
 ---
-title: 프렉탈 평면
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "프렉탈 평면"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 4379
 accepted: 1989
 solved_users: 1615
-acceptance_rate: 47.250%
-collected_at: 2026-04-17T10:27:47.224259+00:00
+acceptance_rate: "47.250%"
+collected_at: "2026-04-17T10:27:47.224259+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Truck History
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Truck History"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 34
 accepted: 14
 solved_users: 11
-acceptance_rate: 40.741%
-collected_at: 2026-04-17T11:32:54.286326+00:00
+acceptance_rate: "40.741%"
+collected_at: "2026-04-17T11:32:54.286326+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Запасы на зиму
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Запасы на зиму"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 48
 accepted: 38
 solved_users: 28
-acceptance_rate: 77.778%
-collected_at: 2026-04-17T18:41:52.656544+00:00
+acceptance_rate: "77.778%"
+collected_at: "2026-04-17T18:41:52.656544+00:00"
 ---
 
 ## 문제

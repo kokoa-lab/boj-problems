@@ -1,13 +1,13 @@
 ---
-title: 헌내기는 친구가 필요해
-special_judge: false
-time_limit: 1 초  ( 하단 참고 )
-memory_limit: 1024 MB
+title: "헌내기는 친구가 필요해"
+special_judge: "false"
+time_limit: "1 초  ( 하단 참고 )"
+memory_limit: "1024 MB"
 submissions: 23546
 accepted: 14350
 solved_users: 11912
-acceptance_rate: 60.427%
-collected_at: 2026-04-17T16:05:50.490433+00:00
+acceptance_rate: "60.427%"
+collected_at: "2026-04-17T16:05:50.490433+00:00"
 ---
 
 ## 문제

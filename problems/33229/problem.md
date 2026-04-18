@@ -1,13 +1,13 @@
 ---
-title: Alleys Construction
-special_judge: false
-time_limit: 1 초
-memory_limit: 2048 MB
+title: "Alleys Construction"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "2048 MB"
 submissions: 77
 accepted: 33
 solved_users: 26
-acceptance_rate: 37.681%
-collected_at: 2026-04-17T20:11:53.891151+00:00
+acceptance_rate: "37.681%"
+collected_at: "2026-04-17T20:11:53.891151+00:00"
 ---
 
 ## 문제

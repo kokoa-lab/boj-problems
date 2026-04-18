@@ -1,13 +1,13 @@
 ---
-title: Canvas Painting
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Canvas Painting"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 124
 accepted: 70
 solved_users: 65
-acceptance_rate: 59.633%
-collected_at: 2026-04-17T12:43:53.589681+00:00
+acceptance_rate: "59.633%"
+collected_at: "2026-04-17T12:43:53.589681+00:00"
 ---
 
 ## 문제

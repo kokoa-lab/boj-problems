@@ -1,13 +1,13 @@
 ---
-title: Train Passengers
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Train Passengers"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 236
 accepted: 131
 solved_users: 107
-acceptance_rate: 56.316%
-collected_at: 2026-04-17T12:21:20.933879+00:00
+acceptance_rate: "56.316%"
+collected_at: "2026-04-17T12:21:20.933879+00:00"
 ---
 
 ## 문제

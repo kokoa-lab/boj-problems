@@ -1,13 +1,13 @@
 ---
-title: XOR 쿼리
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "XOR 쿼리"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 1990
 accepted: 724
 solved_users: 483
-acceptance_rate: 32.992%
-collected_at: 2026-04-17T13:14:51.865606+00:00
+acceptance_rate: "32.992%"
+collected_at: "2026-04-17T13:14:51.865606+00:00"
 ---
 
 ## 문제

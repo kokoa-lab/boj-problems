@@ -1,13 +1,13 @@
 ---
-title: Jack Edmonds
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "Jack Edmonds"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 74
 accepted: 19
 solved_users: 15
-acceptance_rate: 27.273%
-collected_at: 2026-04-17T13:13:20.821254+00:00
+acceptance_rate: "27.273%"
+collected_at: "2026-04-17T13:13:20.821254+00:00"
 ---
 
 ## 문제

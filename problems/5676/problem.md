@@ -1,13 +1,13 @@
 ---
-title: 음주 코딩
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "음주 코딩"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 11043
 accepted: 3780
 solved_users: 3028
-acceptance_rate: 33.882%
-collected_at: 2026-04-17T11:16:27.966881+00:00
+acceptance_rate: "33.882%"
+collected_at: "2026-04-17T11:16:27.966881+00:00"
 ---
 
 ## 문제

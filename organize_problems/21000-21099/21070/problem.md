@@ -1,13 +1,13 @@
 ---
-title: Königsberg Bridges
-special_judge: false
-time_limit: 3 초
-memory_limit: 512 MB
+title: "Königsberg Bridges"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "512 MB"
 submissions: 141
 accepted: 51
 solved_users: 46
-acceptance_rate: 41.818%
-collected_at: 2026-04-17T15:46:56.430978+00:00
+acceptance_rate: "41.818%"
+collected_at: "2026-04-17T15:46:56.430978+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 스네이크버드
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "스네이크버드"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 12306
 accepted: 9226
 solved_users: 8171
-acceptance_rate: 75.378%
-collected_at: 2026-04-17T14:17:59.860732+00:00
+acceptance_rate: "75.378%"
+collected_at: "2026-04-17T14:17:59.860732+00:00"
 ---
 
 ## 문제

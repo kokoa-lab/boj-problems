@@ -1,13 +1,13 @@
 ---
-title: Over the Hill, Part 1
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Over the Hill, Part 1"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 87
 accepted: 53
 solved_users: 51
-acceptance_rate: 63.750%
-collected_at: 2026-04-17T15:49:13.150924+00:00
+acceptance_rate: "63.750%"
+collected_at: "2026-04-17T15:49:13.150924+00:00"
 ---
 
 ## 문제

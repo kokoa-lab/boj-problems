@@ -1,13 +1,13 @@
 ---
-title: 운전 브이로그
-special_judge: false
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 1536 MB
+title: "운전 브이로그"
+special_judge: "false"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "1536 MB"
 submissions: 94
 accepted: 16
 solved_users: 12
-acceptance_rate: 17.143%
-collected_at: 2026-04-17T16:05:14.536247+00:00
+acceptance_rate: "17.143%"
+collected_at: "2026-04-17T16:05:14.536247+00:00"
 ---
 
 ## 문제

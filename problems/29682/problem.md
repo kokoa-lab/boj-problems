@@ -1,13 +1,13 @@
 ---
-title: Обратные числа
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Обратные числа"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 70
 accepted: 60
 solved_users: 49
-acceptance_rate: 89.091%
-collected_at: 2026-04-17T18:50:46.548640+00:00
+acceptance_rate: "89.091%"
+collected_at: "2026-04-17T18:50:46.548640+00:00"
 ---
 
 ## 문제

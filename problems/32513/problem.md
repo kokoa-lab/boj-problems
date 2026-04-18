@@ -1,13 +1,13 @@
 ---
-title: 동적 사이클 계산 쿼리
-special_judge: false
-time_limit: 6 초
-memory_limit: 1024 MB
+title: "동적 사이클 계산 쿼리"
+special_judge: "false"
+time_limit: "6 초"
+memory_limit: "1024 MB"
 submissions: 14
 accepted: 4
 solved_users: 3
-acceptance_rate: 25.000%
-collected_at: 2026-04-17T19:53:29.178665+00:00
+acceptance_rate: "25.000%"
+collected_at: "2026-04-17T19:53:29.178665+00:00"
 ---
 
 ## 문제

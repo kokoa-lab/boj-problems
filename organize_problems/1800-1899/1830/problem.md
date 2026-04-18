@@ -1,13 +1,13 @@
 ---
-title: 거리
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "거리"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 460
 accepted: 95
 solved_users: 62
-acceptance_rate: 17.614%
-collected_at: 2026-04-17T10:34:23.175565+00:00
+acceptance_rate: "17.614%"
+collected_at: "2026-04-17T10:34:23.175565+00:00"
 ---
 
 ## 문제

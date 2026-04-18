@@ -1,13 +1,13 @@
 ---
-title: Intersegment Activation
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Intersegment Activation"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 82
 accepted: 30
 solved_users: 23
-acceptance_rate: 35.938%
-collected_at: 2026-04-17T19:10:27.604840+00:00
+acceptance_rate: "35.938%"
+collected_at: "2026-04-17T19:10:27.604840+00:00"
 ---
 
 ## 문제

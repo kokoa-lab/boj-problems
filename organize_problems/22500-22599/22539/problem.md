@@ -1,13 +1,13 @@
 ---
-title: Testing Circuits
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Testing Circuits"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 1
 accepted: 1
 solved_users: 1
-acceptance_rate: 100.000%
-collected_at: 2026-04-17T16:25:49.724235+00:00
+acceptance_rate: "100.000%"
+collected_at: "2026-04-17T16:25:49.724235+00:00"
 ---
 
 ## 문제

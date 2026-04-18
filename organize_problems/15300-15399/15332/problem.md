@@ -1,13 +1,13 @@
 ---
-title: Making Perimeter of the Convex Hull Shortest
-special_judge: true
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Making Perimeter of the Convex Hull Shortest"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 32
 accepted: 7
 solved_users: 7
-acceptance_rate: 58.333%
-collected_at: 2026-04-17T13:57:18.061639+00:00
+acceptance_rate: "58.333%"
+collected_at: "2026-04-17T13:57:18.061639+00:00"
 ---
 
 ## 문제

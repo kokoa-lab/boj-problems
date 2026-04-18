@@ -1,13 +1,13 @@
 ---
-title: 얼음마법사 동우의 대회 검수
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "얼음마법사 동우의 대회 검수"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 157
 accepted: 61
 solved_users: 45
-acceptance_rate: 36.290%
-collected_at: 2026-04-17T19:50:08.010450+00:00
+acceptance_rate: "36.290%"
+collected_at: "2026-04-17T19:50:08.010450+00:00"
 ---
 
 ## 문제

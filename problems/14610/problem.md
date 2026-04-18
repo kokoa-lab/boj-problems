@@ -1,13 +1,13 @@
 ---
-title: 좋은 대회
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "좋은 대회"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 468
 accepted: 159
 solved_users: 136
-acceptance_rate: 36.658%
-collected_at: 2026-04-17T13:39:23.683575+00:00
+acceptance_rate: "36.658%"
+collected_at: "2026-04-17T13:39:23.683575+00:00"
 ---
 
 ## 문제

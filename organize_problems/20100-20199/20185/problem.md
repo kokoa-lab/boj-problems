@@ -1,13 +1,13 @@
 ---
-title: 814 - 3
-special_judge: false
-time_limit: 4.814 초
-memory_limit: 814 MB
+title: "814 - 3"
+special_judge: "false"
+time_limit: "4.814 초"
+memory_limit: "814 MB"
 submissions: 4837
 accepted: 29
 solved_users: 5
-acceptance_rate: 0.334%
-collected_at: 2026-04-17T15:32:48.387107+00:00
+acceptance_rate: "0.334%"
+collected_at: "2026-04-17T15:32:48.387107+00:00"
 ---
 
 ## 문제

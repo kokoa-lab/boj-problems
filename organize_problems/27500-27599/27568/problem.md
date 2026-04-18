@@ -1,13 +1,13 @@
 ---
-title: Branch Manager
-special_judge: false
-time_limit: 4 초
-memory_limit: 1024 MB
+title: "Branch Manager"
+special_judge: "false"
+time_limit: "4 초"
+memory_limit: "1024 MB"
 submissions: 95
 accepted: 44
 solved_users: 35
-acceptance_rate: 56.452%
-collected_at: 2026-04-17T18:06:53.806370+00:00
+acceptance_rate: "56.452%"
+collected_at: "2026-04-17T18:06:53.806370+00:00"
 ---
 
 ## 문제

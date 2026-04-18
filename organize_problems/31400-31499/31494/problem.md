@@ -1,13 +1,13 @@
 ---
-title: In-order
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "In-order"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 23
 accepted: 9
 solved_users: 9
-acceptance_rate: 39.130%
-collected_at: 2026-04-17T19:29:08.281572+00:00
+acceptance_rate: "39.130%"
+collected_at: "2026-04-17T19:29:08.281572+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Robotic Cow Herd
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Robotic Cow Herd"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 629
 accepted: 208
 solved_users: 133
-acceptance_rate: 32.203%
-collected_at: 2026-04-17T13:27:08.480176+00:00
+acceptance_rate: "32.203%"
+collected_at: "2026-04-17T13:27:08.480176+00:00"
 ---
 
 ## 문제

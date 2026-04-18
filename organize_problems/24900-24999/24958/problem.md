@@ -1,13 +1,13 @@
 ---
-title: Lottery Fun Time
-special_judge: false
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Lottery Fun Time"
+special_judge: "false"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 122
 accepted: 59
 solved_users: 56
-acceptance_rate: 52.830%
-collected_at: 2026-04-17T17:17:42.604458+00:00
+acceptance_rate: "52.830%"
+collected_at: "2026-04-17T17:17:42.604458+00:00"
 ---
 
 ## 문제

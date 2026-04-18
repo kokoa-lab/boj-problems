@@ -1,13 +1,13 @@
 ---
-title: 모닝커피 (Large)
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "모닝커피 (Large)"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 761
 accepted: 225
 solved_users: 192
-acceptance_rate: 31.527%
-collected_at: 2026-04-17T12:55:41.642306+00:00
+acceptance_rate: "31.527%"
+collected_at: "2026-04-17T12:55:41.642306+00:00"
 ---
 
 ## 문제

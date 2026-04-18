@@ -1,13 +1,13 @@
 ---
-title: 연세 마스크 공장
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "연세 마스크 공장"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 313
 accepted: 114
 solved_users: 86
-acceptance_rate: 34.959%
-collected_at: 2026-04-17T15:32:10.124471+00:00
+acceptance_rate: "34.959%"
+collected_at: "2026-04-17T15:32:10.124471+00:00"
 ---
 
 ## 문제

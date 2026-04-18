@@ -1,13 +1,13 @@
 ---
-title: Curling 2.0
-special_judge: false
-time_limit: 3 초
-memory_limit: 128 MB
+title: "Curling 2.0"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "128 MB"
 submissions: 50
 accepted: 28
 solved_users: 22
-acceptance_rate: 57.895%
-collected_at: 2026-04-17T11:10:37.489987+00:00
+acceptance_rate: "57.895%"
+collected_at: "2026-04-17T11:10:37.489987+00:00"
 ---
 
 ## 문제

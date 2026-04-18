@@ -1,13 +1,13 @@
 ---
-title: 과제는 끝나지 않아!
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "과제는 끝나지 않아!"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 9966
 accepted: 4985
 solved_users: 3662
-acceptance_rate: 49.400%
-collected_at: 2026-04-17T14:50:51.757763+00:00
+acceptance_rate: "49.400%"
+collected_at: "2026-04-17T14:50:51.757763+00:00"
 ---
 
 ## 문제

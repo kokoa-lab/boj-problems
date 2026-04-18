@@ -1,13 +1,13 @@
 ---
-title: Highway Tolls
-special_judge: false
-time_limit: 1.5 초
-memory_limit: 512 MB
+title: "Highway Tolls"
+special_judge: "false"
+time_limit: "1.5 초"
+memory_limit: "512 MB"
 submissions: 194
 accepted: 56
 solved_users: 48
-acceptance_rate: 30.189%
-collected_at: 2026-04-17T15:31:16.736006+00:00
+acceptance_rate: "30.189%"
+collected_at: "2026-04-17T15:31:16.736006+00:00"
 ---
 
 ## 문제

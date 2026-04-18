@@ -1,13 +1,13 @@
 ---
-title: Convex Quadrilateral
-special_judge: true
-time_limit: 9 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "Convex Quadrilateral"
+special_judge: "true"
+time_limit: "9 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 32
 accepted: 2
 solved_users: 2
-acceptance_rate: 7.143%
-collected_at: 2026-04-17T13:58:16.862477+00:00
+acceptance_rate: "7.143%"
+collected_at: "2026-04-17T13:58:16.862477+00:00"
 ---
 
 ## 문제

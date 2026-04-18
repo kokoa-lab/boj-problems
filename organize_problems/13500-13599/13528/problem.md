@@ -1,13 +1,13 @@
 ---
-title: Grass Seed Inc.
-special_judge: true
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Grass Seed Inc."
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 482
 accepted: 420
 solved_users: 400
-acceptance_rate: 87.719%
-collected_at: 2026-04-17T13:14:40.747366+00:00
+acceptance_rate: "87.719%"
+collected_at: "2026-04-17T13:14:40.747366+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: The Addition Game
-special_judge: true
-time_limit: 1 초
-memory_limit: 256 MB
+title: "The Addition Game"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 35
 accepted: 8
 solved_users: 7
-acceptance_rate: 29.167%
-collected_at: 2026-04-17T12:38:13.086472+00:00
+acceptance_rate: "29.167%"
+collected_at: "2026-04-17T12:38:13.086472+00:00"
 ---
 
 ## 문제

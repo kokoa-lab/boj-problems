@@ -1,13 +1,13 @@
 ---
-title: 탐사
-special_judge: true
-time_limit: 1 초
-memory_limit: 128 MB
+title: "탐사"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 1738
 accepted: 721
 solved_users: 515
-acceptance_rate: 47.075%
-collected_at: 2026-04-17T11:50:48.531174+00:00
+acceptance_rate: "47.075%"
+collected_at: "2026-04-17T11:50:48.531174+00:00"
 ---
 
 ## 문제

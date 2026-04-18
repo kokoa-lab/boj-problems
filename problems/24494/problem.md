@@ -1,13 +1,13 @@
 ---
-title: Herdle
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Herdle"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 996
 accepted: 495
 solved_users: 443
-acceptance_rate: 50.745%
-collected_at: 2026-04-17T17:10:09.707032+00:00
+acceptance_rate: "50.745%"
+collected_at: "2026-04-17T17:10:09.707032+00:00"
 ---
 
 ## 문제

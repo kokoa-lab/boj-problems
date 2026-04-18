@@ -1,13 +1,13 @@
 ---
-title: 착한 말 나쁜 말
-special_judge: false
-time_limit: 2.5 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "착한 말 나쁜 말"
+special_judge: "false"
+time_limit: "2.5 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 98
 accepted: 22
 solved_users: 16
-acceptance_rate: 25.000%
-collected_at: 2026-04-18T09:50:49.177958+00:00
+acceptance_rate: "25.000%"
+collected_at: "2026-04-18T09:50:49.177958+00:00"
 ---
 
 ## 문제

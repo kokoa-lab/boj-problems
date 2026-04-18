@@ -1,13 +1,13 @@
 ---
-title: 쉬운 최단경로 문제
-special_judge: false
-time_limit: 5 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "쉬운 최단경로 문제"
+special_judge: "false"
+time_limit: "5 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 490
 accepted: 148
 solved_users: 63
-acceptance_rate: 21.429%
-collected_at: 2026-04-17T14:08:56.772357+00:00
+acceptance_rate: "21.429%"
+collected_at: "2026-04-17T14:08:56.772357+00:00"
 ---
 
 ## 문제

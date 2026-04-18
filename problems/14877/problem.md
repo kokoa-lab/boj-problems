@@ -1,13 +1,13 @@
 ---
-title: 순열 교환
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "순열 교환"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 28
 accepted: 9
 solved_users: 9
-acceptance_rate: 56.250%
-collected_at: 2026-04-17T13:43:52.438694+00:00
+acceptance_rate: "56.250%"
+collected_at: "2026-04-17T13:43:52.438694+00:00"
 ---
 
 ## 문제

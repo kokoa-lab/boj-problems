@@ -1,13 +1,13 @@
 ---
-title: Journey to Jupiter
-special_judge: false
-time_limit: 6 초
-memory_limit: 512 MB
+title: "Journey to Jupiter"
+special_judge: "false"
+time_limit: "6 초"
+memory_limit: "512 MB"
 submissions: 34
 accepted: 16
 solved_users: 12
-acceptance_rate: 44.444%
-collected_at: 2026-04-17T15:08:43.826061+00:00
+acceptance_rate: "44.444%"
+collected_at: "2026-04-17T15:08:43.826061+00:00"
 ---
 
 ## 문제

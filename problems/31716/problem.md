@@ -1,13 +1,13 @@
 ---
-title: 현대모비스 자율 주행 테스팅 1
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "현대모비스 자율 주행 테스팅 1"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 679
 accepted: 124
 solved_users: 103
-acceptance_rate: 22.788%
-collected_at: 2026-04-17T19:35:10.308410+00:00
+acceptance_rate: "22.788%"
+collected_at: "2026-04-17T19:35:10.308410+00:00"
 ---
 
 ## 문제

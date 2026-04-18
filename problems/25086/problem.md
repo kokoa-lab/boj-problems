@@ -1,13 +1,13 @@
 ---
-title: Unlock the Padlock
-special_judge: false
-time_limit: 30 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Unlock the Padlock"
+special_judge: "false"
+time_limit: "30 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 58
 accepted: 26
 solved_users: 22
-acceptance_rate: 47.826%
-collected_at: 2026-04-17T17:20:23.220134+00:00
+acceptance_rate: "47.826%"
+collected_at: "2026-04-17T17:20:23.220134+00:00"
 ---
 
 ## 문제

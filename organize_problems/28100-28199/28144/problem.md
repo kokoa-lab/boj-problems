@@ -1,13 +1,13 @@
 ---
-title: Allergen Testing
-special_judge: false
-time_limit: 1 초
-memory_limit: 2048 MB
+title: "Allergen Testing"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "2048 MB"
 submissions: 290
 accepted: 84
 solved_users: 78
-acceptance_rate: 34.978%
-collected_at: 2026-04-17T18:18:48.462359+00:00
+acceptance_rate: "34.978%"
+collected_at: "2026-04-17T18:18:48.462359+00:00"
 ---
 
 ## 문제

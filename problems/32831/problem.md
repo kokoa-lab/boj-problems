@@ -1,13 +1,13 @@
 ---
-title: Colorful Quadrants
-special_judge: false
-time_limit: 1 초
-memory_limit: 2048 MB
+title: "Colorful Quadrants"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "2048 MB"
 submissions: 480
 accepted: 138
 solved_users: 53
-acceptance_rate: 17.667%
-collected_at: 2026-04-17T20:02:12.002795+00:00
+acceptance_rate: "17.667%"
+collected_at: "2026-04-17T20:02:12.002795+00:00"
 ---
 
 ## 문제

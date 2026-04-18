@@ -1,13 +1,13 @@
 ---
-title: 시험 점수
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "시험 점수"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 19204
 accepted: 15496
 solved_users: 14353
-acceptance_rate: 81.970%
-collected_at: 2026-04-17T11:15:51.179079+00:00
+acceptance_rate: "81.970%"
+collected_at: "2026-04-17T11:15:51.179079+00:00"
 ---
 
 ## 문제

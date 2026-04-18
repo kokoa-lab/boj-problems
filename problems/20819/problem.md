@@ -1,13 +1,13 @@
 ---
-title: TV-tittande
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "TV-tittande"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 13
 accepted: 9
 solved_users: 9
-acceptance_rate: 69.231%
-collected_at: 2026-04-17T15:41:48.473716+00:00
+acceptance_rate: "69.231%"
+collected_at: "2026-04-17T15:41:48.473716+00:00"
 ---
 
 ## 문제

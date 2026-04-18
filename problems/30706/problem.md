@@ -1,13 +1,13 @@
 ---
-title: KCPC 개최하기
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "KCPC 개최하기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 132
 accepted: 46
 solved_users: 37
-acceptance_rate: 38.542%
-collected_at: 2026-04-17T19:12:59.885722+00:00
+acceptance_rate: "38.542%"
+collected_at: "2026-04-17T19:12:59.885722+00:00"
 ---
 
 ## 문제

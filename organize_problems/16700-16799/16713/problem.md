@@ -1,13 +1,13 @@
 ---
-title: Generic Queries
-special_judge: false
-time_limit: 2.5 초
-memory_limit: 512 MB
+title: "Generic Queries"
+special_judge: "false"
+time_limit: "2.5 초"
+memory_limit: "512 MB"
 submissions: 1814
 accepted: 1108
 solved_users: 871
-acceptance_rate: 58.891%
-collected_at: 2026-04-17T14:22:54.350963+00:00
+acceptance_rate: "58.891%"
+collected_at: "2026-04-17T14:22:54.350963+00:00"
 ---
 
 ## 문제

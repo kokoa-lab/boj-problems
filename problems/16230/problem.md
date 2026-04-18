@@ -1,13 +1,13 @@
 ---
-title: 우리는 진실을 잊고 살잖아
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "우리는 진실을 잊고 살잖아"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 145
 accepted: 40
 solved_users: 35
-acceptance_rate: 27.778%
-collected_at: 2026-04-17T14:14:09.360102+00:00
+acceptance_rate: "27.778%"
+collected_at: "2026-04-17T14:14:09.360102+00:00"
 ---
 
 ## 문제

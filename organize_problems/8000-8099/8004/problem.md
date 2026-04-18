@@ -1,13 +1,13 @@
 ---
-title: Trinomial
-special_judge: false
-time_limit: 3 초
-memory_limit: 128 MB
+title: "Trinomial"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "128 MB"
 submissions: 133
 accepted: 68
 solved_users: 39
-acceptance_rate: 46.988%
-collected_at: 2026-04-17T11:55:03.141937+00:00
+acceptance_rate: "46.988%"
+collected_at: "2026-04-17T11:55:03.141937+00:00"
 ---
 
 ## 문제

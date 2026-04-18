@@ -1,13 +1,13 @@
 ---
-title: Airport Walkways (Large)
-special_judge: true
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Airport Walkways (Large)"
+special_judge: "true"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 35
 accepted: 25
 solved_users: 22
-acceptance_rate: 68.750%
-collected_at: 2026-04-17T12:56:11.735533+00:00
+acceptance_rate: "68.750%"
+collected_at: "2026-04-17T12:56:11.735533+00:00"
 ---
 
 ## 문제

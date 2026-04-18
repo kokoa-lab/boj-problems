@@ -1,13 +1,13 @@
 ---
-title: Bytelandia States Union
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Bytelandia States Union"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 9
 accepted: 3
 solved_users: 3
-acceptance_rate: 100.000%
-collected_at: 2026-04-17T15:48:27.438164+00:00
+acceptance_rate: "100.000%"
+collected_at: "2026-04-17T15:48:27.438164+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 소수마을
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "소수마을"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 1878
 accepted: 632
 solved_users: 428
-acceptance_rate: 32.156%
-collected_at: 2026-04-17T13:33:28.337058+00:00
+acceptance_rate: "32.156%"
+collected_at: "2026-04-17T13:33:28.337058+00:00"
 ---
 
 ## 문제

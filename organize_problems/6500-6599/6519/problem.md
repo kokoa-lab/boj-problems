@@ -1,13 +1,13 @@
 ---
-title: Basic wall maze
-special_judge: true
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Basic wall maze"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 27
 accepted: 17
 solved_users: 10
-acceptance_rate: 52.632%
-collected_at: 2026-04-17T11:29:37.901403+00:00
+acceptance_rate: "52.632%"
+collected_at: "2026-04-17T11:29:37.901403+00:00"
 ---
 
 ## 문제

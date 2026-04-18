@@ -1,13 +1,13 @@
 ---
-title: Geopeitus
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Geopeitus"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 26
 accepted: 11
 solved_users: 11
-acceptance_rate: 57.895%
-collected_at: 2026-04-17T11:46:54.178529+00:00
+acceptance_rate: "57.895%"
+collected_at: "2026-04-17T11:46:54.178529+00:00"
 ---
 
 ## 문제

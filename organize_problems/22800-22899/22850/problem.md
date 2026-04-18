@@ -1,13 +1,13 @@
 ---
-title: 초콜릿 쪼개기 게임
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "초콜릿 쪼개기 게임"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 322
 accepted: 128
 solved_users: 103
-acceptance_rate: 43.096%
-collected_at: 2026-04-17T16:37:16.577726+00:00
+acceptance_rate: "43.096%"
+collected_at: "2026-04-17T16:37:16.577726+00:00"
 ---
 
 ## 문제

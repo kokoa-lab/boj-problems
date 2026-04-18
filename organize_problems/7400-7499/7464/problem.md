@@ -1,13 +1,13 @@
 ---
-title: Fool’s Day
-special_judge: false
-time_limit: 2 초
-memory_limit: 64 MB
+title: "Fool’s Day"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "64 MB"
 submissions: 56
 accepted: 2
 solved_users: 1
-acceptance_rate: 6.667%
-collected_at: 2026-04-17T11:49:40.947306+00:00
+acceptance_rate: "6.667%"
+collected_at: "2026-04-17T11:49:40.947306+00:00"
 ---
 
 ## 문제

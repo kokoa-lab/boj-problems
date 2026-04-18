@@ -1,13 +1,13 @@
 ---
-title: UOSPC 세기
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "UOSPC 세기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 1282
 accepted: 990
 solved_users: 893
-acceptance_rate: 77.316%
-collected_at: 2026-04-17T19:16:15.596163+00:00
+acceptance_rate: "77.316%"
+collected_at: "2026-04-17T19:16:15.596163+00:00"
 ---
 
 ## 문제

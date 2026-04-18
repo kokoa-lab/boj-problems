@@ -1,13 +1,13 @@
 ---
-title: Ride-Hailing
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Ride-Hailing"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 43
 accepted: 11
 solved_users: 11
-acceptance_rate: 28.205%
-collected_at: 2026-04-17T15:49:27.581077+00:00
+acceptance_rate: "28.205%"
+collected_at: "2026-04-17T15:49:27.581077+00:00"
 ---
 
 ## 문제

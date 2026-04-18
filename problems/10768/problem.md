@@ -1,13 +1,13 @@
 ---
-title: 특별한 날
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "특별한 날"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 15636
 accepted: 9800
 solved_users: 9250
-acceptance_rate: 63.361%
-collected_at: 2026-04-17T12:29:15.729661+00:00
+acceptance_rate: "63.361%"
+collected_at: "2026-04-17T12:29:15.729661+00:00"
 ---
 
 ## 문제

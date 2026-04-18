@@ -1,13 +1,13 @@
 ---
-title: 絶対階差数列 (Sequence of Absolute Differences)
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "絶対階差数列 (Sequence of Absolute Differences)"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 211
 accepted: 184
 solved_users: 168
-acceptance_rate: 87.047%
-collected_at: 2026-04-17T18:06:11.721008+00:00
+acceptance_rate: "87.047%"
+collected_at: "2026-04-17T18:06:11.721008+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Binarytreefication
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Binarytreefication"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 53
 accepted: 14
 solved_users: 14
-acceptance_rate: 32.558%
-collected_at: 2026-04-17T20:24:03.747342+00:00
+acceptance_rate: "32.558%"
+collected_at: "2026-04-17T20:24:03.747342+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Ruins
-special_judge: false
-time_limit: 8 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "Ruins"
+special_judge: "false"
+time_limit: "8 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 34
 accepted: 31
 solved_users: 28
-acceptance_rate: 90.323%
-collected_at: 2026-04-17T13:20:32.795818+00:00
+acceptance_rate: "90.323%"
+collected_at: "2026-04-17T13:20:32.795818+00:00"
 ---
 
 ## 문제

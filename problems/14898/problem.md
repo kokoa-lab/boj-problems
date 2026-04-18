@@ -1,13 +1,13 @@
 ---
-title: 서로 다른 수와 쿼리 2
-special_judge: false
-time_limit: 5 초
-memory_limit: 1024 MB
+title: "서로 다른 수와 쿼리 2"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "1024 MB"
 submissions: 2191
 accepted: 841
 solved_users: 469
-acceptance_rate: 29.759%
-collected_at: 2026-04-17T13:44:40.180587+00:00
+acceptance_rate: "29.759%"
+collected_at: "2026-04-17T13:44:40.180587+00:00"
 ---
 
 ## 문제

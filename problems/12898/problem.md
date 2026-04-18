@@ -1,13 +1,13 @@
 ---
-title: Selling RNA Strands
-special_judge: false
-time_limit: 2 초
-memory_limit: 1536 MB
+title: "Selling RNA Strands"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1536 MB"
 submissions: 320
 accepted: 141
 solved_users: 112
-acceptance_rate: 46.473%
-collected_at: 2026-04-17T13:03:30.319871+00:00
+acceptance_rate: "46.473%"
+collected_at: "2026-04-17T13:03:30.319871+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Have a Nice Day
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Have a Nice Day"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 70
 accepted: 52
 solved_users: 39
-acceptance_rate: 72.222%
-collected_at: 2026-04-17T11:13:58.231264+00:00
+acceptance_rate: "72.222%"
+collected_at: "2026-04-17T11:13:58.231264+00:00"
 ---
 
 ## 문제

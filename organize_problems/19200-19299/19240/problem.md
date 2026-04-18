@@ -1,13 +1,13 @@
 ---
-title: 장난감 동맹군
-special_judge: false
-time_limit: 1.5 초  ( 하단 참고 )
-memory_limit: 256 MB
+title: "장난감 동맹군"
+special_judge: "false"
+time_limit: "1.5 초  ( 하단 참고 )"
+memory_limit: "256 MB"
 submissions: 633
 accepted: 237
 solved_users: 181
-acceptance_rate: 37.708%
-collected_at: 2026-04-17T15:15:31.921069+00:00
+acceptance_rate: "37.708%"
+collected_at: "2026-04-17T15:15:31.921069+00:00"
 ---
 
 ## 문제

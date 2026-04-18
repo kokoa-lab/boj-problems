@@ -1,13 +1,13 @@
 ---
-title: Large PhD Restaurant
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Large PhD Restaurant"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 201
 accepted: 127
 solved_users: 115
-acceptance_rate: 65.714%
-collected_at: 2026-04-17T13:24:14.855010+00:00
+acceptance_rate: "65.714%"
+collected_at: "2026-04-17T13:24:14.855010+00:00"
 ---
 
 ## 문제

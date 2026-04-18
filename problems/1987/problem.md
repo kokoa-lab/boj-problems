@@ -1,13 +1,13 @@
 ---
-title: 알파벳
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "알파벳"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 156258
 accepted: 49832
 solved_users: 30179
-acceptance_rate: 29.316%
-collected_at: 2026-04-17T10:36:42.981706+00:00
+acceptance_rate: "29.316%"
+collected_at: "2026-04-17T10:36:42.981706+00:00"
 ---
 
 ## 문제

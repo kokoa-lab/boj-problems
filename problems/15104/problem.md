@@ -1,13 +1,13 @@
 ---
-title: Odd Palindrome
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Odd Palindrome"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 423
 accepted: 280
 solved_users: 258
-acceptance_rate: 69.542%
-collected_at: 2026-04-17T13:51:00.250754+00:00
+acceptance_rate: "69.542%"
+collected_at: "2026-04-17T13:51:00.250754+00:00"
 ---
 
 ## 문제

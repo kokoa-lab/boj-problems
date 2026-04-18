@@ -1,13 +1,13 @@
 ---
-title: 분수 계산
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "분수 계산"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 365
 accepted: 50
 solved_users: 41
-acceptance_rate: 18.894%
-collected_at: 2026-04-17T14:57:10.829880+00:00
+acceptance_rate: "18.894%"
+collected_at: "2026-04-17T14:57:10.829880+00:00"
 ---
 
 ## 문제

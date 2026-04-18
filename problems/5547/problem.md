@@ -1,13 +1,13 @@
 ---
-title: 일루미네이션
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "일루미네이션"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 2124
 accepted: 1250
 solved_users: 955
-acceptance_rate: 61.218%
-collected_at: 2026-04-17T11:15:17.309337+00:00
+acceptance_rate: "61.218%"
+collected_at: "2026-04-17T11:15:17.309337+00:00"
 ---
 
 ## 문제

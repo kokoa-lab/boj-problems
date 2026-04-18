@@ -1,13 +1,13 @@
 ---
-title: 세 수
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "세 수"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 146272
 accepted: 73099
 solved_users: 64085
-acceptance_rate: 51.279%
-collected_at: 2026-04-17T12:30:04.053976+00:00
+acceptance_rate: "51.279%"
+collected_at: "2026-04-17T12:30:04.053976+00:00"
 ---
 
 ## 문제

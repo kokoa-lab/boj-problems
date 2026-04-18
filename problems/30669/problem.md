@@ -1,13 +1,13 @@
 ---
-title: Two avenues
-special_judge: true
-time_limit: 6 초
-memory_limit: 1024 MB
+title: "Two avenues"
+special_judge: "true"
+time_limit: "6 초"
+memory_limit: "1024 MB"
 submissions: 22
 accepted: 2
 solved_users: 1
-acceptance_rate: 12.500%
-collected_at: 2026-04-17T19:11:58.968773+00:00
+acceptance_rate: "12.500%"
+collected_at: "2026-04-17T19:11:58.968773+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 빌런 호석
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "빌런 호석"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 5271
 accepted: 2562
 solved_users: 1806
-acceptance_rate: 46.001%
-collected_at: 2026-04-17T16:17:53.375400+00:00
+acceptance_rate: "46.001%"
+collected_at: "2026-04-17T16:17:53.375400+00:00"
 ---
 
 ## 문제

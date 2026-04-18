@@ -1,13 +1,13 @@
 ---
-title: Trener
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Trener"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 59
 accepted: 25
 solved_users: 22
-acceptance_rate: 46.809%
-collected_at: 2026-04-17T15:15:36.496134+00:00
+acceptance_rate: "46.809%"
+collected_at: "2026-04-17T15:15:36.496134+00:00"
 ---
 
 ## 문제

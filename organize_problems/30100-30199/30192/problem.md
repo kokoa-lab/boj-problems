@@ -1,13 +1,13 @@
 ---
-title: 소설
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "소설"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 420
 accepted: 66
 solved_users: 56
-acceptance_rate: 21.961%
-collected_at: 2026-04-17T19:00:31.244970+00:00
+acceptance_rate: "21.961%"
+collected_at: "2026-04-17T19:00:31.244970+00:00"
 ---
 
 ## 문제

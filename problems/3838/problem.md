@@ -1,13 +1,13 @@
 ---
-title: Distributing Ballot Boxes
-special_judge: false
-time_limit: 3 초
-memory_limit: 128 MB
+title: "Distributing Ballot Boxes"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "128 MB"
 submissions: 98
 accepted: 52
 solved_users: 46
-acceptance_rate: 54.762%
-collected_at: 2026-04-17T10:52:24.372624+00:00
+acceptance_rate: "54.762%"
+collected_at: "2026-04-17T10:52:24.372624+00:00"
 ---
 
 ## 문제

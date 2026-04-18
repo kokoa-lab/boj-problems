@@ -1,13 +1,13 @@
 ---
-title: Impact
-special_judge: true
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Impact"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 84
 accepted: 29
 solved_users: 27
-acceptance_rate: 37.500%
-collected_at: 2026-04-17T20:45:19.355894+00:00
+acceptance_rate: "37.500%"
+collected_at: "2026-04-17T20:45:19.355894+00:00"
 ---
 
 ## 문제

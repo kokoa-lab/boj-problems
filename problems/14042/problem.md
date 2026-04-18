@@ -1,13 +1,13 @@
 ---
-title: Tandem Bicycle
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Tandem Bicycle"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 112
 accepted: 105
 solved_users: 79
-acceptance_rate: 96.341%
-collected_at: 2026-04-17T13:24:36.326098+00:00
+acceptance_rate: "96.341%"
+collected_at: "2026-04-17T13:24:36.326098+00:00"
 ---
 
 ## 문제

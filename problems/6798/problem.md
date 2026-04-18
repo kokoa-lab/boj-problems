@@ -1,13 +1,13 @@
 ---
-title: Knight Hop
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Knight Hop"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 370
 accepted: 217
 solved_users: 195
-acceptance_rate: 62.701%
-collected_at: 2026-04-17T11:37:55.774377+00:00
+acceptance_rate: "62.701%"
+collected_at: "2026-04-17T11:37:55.774377+00:00"
 ---
 
 ## 문제

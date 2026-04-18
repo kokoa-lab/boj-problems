@@ -1,13 +1,13 @@
 ---
-title: 뱀 찾기
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "뱀 찾기"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 52
 accepted: 7
 solved_users: 6
-acceptance_rate: 20.000%
-collected_at: 2026-04-17T10:37:32.523117+00:00
+acceptance_rate: "20.000%"
+collected_at: "2026-04-17T10:37:32.523117+00:00"
 ---
 
 ## 문제

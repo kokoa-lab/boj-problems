@@ -1,13 +1,13 @@
 ---
-title: 동혁 천문 관측소
-special_judge: true
-time_limit: 1 초
-memory_limit: 128 MB
+title: "동혁 천문 관측소"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 109
 accepted: 10
 solved_users: 10
-acceptance_rate: 29.412%
-collected_at: 2026-04-17T10:45:38.796278+00:00
+acceptance_rate: "29.412%"
+collected_at: "2026-04-17T10:45:38.796278+00:00"
 ---
 
 ## 문제

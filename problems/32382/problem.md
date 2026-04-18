@@ -1,13 +1,13 @@
 ---
-title: 돌무더기의 정상화
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "돌무더기의 정상화"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 102
 accepted: 43
 solved_users: 39
-acceptance_rate: 51.316%
-collected_at: 2026-04-17T19:49:56.198755+00:00
+acceptance_rate: "51.316%"
+collected_at: "2026-04-17T19:49:56.198755+00:00"
 ---
 
 ## 문제

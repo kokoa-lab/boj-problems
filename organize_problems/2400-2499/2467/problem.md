@@ -1,13 +1,13 @@
 ---
-title: 용액
-special_judge: true
-time_limit: 1 초
-memory_limit: 128 MB
+title: "용액"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 59975
 accepted: 23996
 solved_users: 18458
-acceptance_rate: 38.582%
-collected_at: 2026-04-17T10:41:51.725292+00:00
+acceptance_rate: "38.582%"
+collected_at: "2026-04-17T10:41:51.725292+00:00"
 ---
 
 ## 문제

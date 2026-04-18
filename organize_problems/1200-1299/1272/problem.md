@@ -1,13 +1,13 @@
 ---
-title: 특별 노드
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "특별 노드"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 442
 accepted: 131
 solved_users: 105
-acceptance_rate: 36.585%
-collected_at: 2026-04-17T10:29:11.630894+00:00
+acceptance_rate: "36.585%"
+collected_at: "2026-04-17T10:29:11.630894+00:00"
 ---
 
 ## 문제

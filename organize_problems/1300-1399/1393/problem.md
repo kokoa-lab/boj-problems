@@ -1,13 +1,13 @@
 ---
-title: 음하철도 구구팔
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "음하철도 구구팔"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 3562
 accepted: 1003
 solved_users: 841
-acceptance_rate: 30.750%
-collected_at: 2026-04-17T10:29:52.114611+00:00
+acceptance_rate: "30.750%"
+collected_at: "2026-04-17T10:29:52.114611+00:00"
 ---
 
 ## 문제

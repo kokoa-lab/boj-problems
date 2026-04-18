@@ -1,13 +1,13 @@
 ---
-title: So You Like Your Food Hot?
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "So You Like Your Food Hot?"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 481
 accepted: 157
 solved_users: 142
-acceptance_rate: 32.127%
-collected_at: 2026-04-17T14:25:21.392702+00:00
+acceptance_rate: "32.127%"
+collected_at: "2026-04-17T14:25:21.392702+00:00"
 ---
 
 ## 문제

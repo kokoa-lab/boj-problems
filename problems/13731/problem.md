@@ -1,13 +1,13 @@
 ---
-title: As Easy as CAB
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "As Easy as CAB"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 100
 accepted: 44
 solved_users: 37
-acceptance_rate: 48.052%
-collected_at: 2026-04-17T13:18:08.813619+00:00
+acceptance_rate: "48.052%"
+collected_at: "2026-04-17T13:18:08.813619+00:00"
 ---
 
 ## 문제

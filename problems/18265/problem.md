@@ -1,13 +1,13 @@
 ---
-title: MooBuzz
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "MooBuzz"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 1350
 accepted: 562
 solved_users: 487
-acceptance_rate: 42.533%
-collected_at: 2026-04-17T14:58:15.369941+00:00
+acceptance_rate: "42.533%"
+collected_at: "2026-04-17T14:58:15.369941+00:00"
 ---
 
 ## 문제

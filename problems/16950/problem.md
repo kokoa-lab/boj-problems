@@ -1,13 +1,13 @@
 ---
-title: 레드 블루 스패닝 트리 2
-special_judge: true
-time_limit: 1 초
-memory_limit: 128 MB
+title: "레드 블루 스패닝 트리 2"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 891
 accepted: 249
 solved_users: 152
-acceptance_rate: 26.620%
-collected_at: 2026-04-17T14:26:41.626093+00:00
+acceptance_rate: "26.620%"
+collected_at: "2026-04-17T14:26:41.626093+00:00"
 ---
 
 ## 문제

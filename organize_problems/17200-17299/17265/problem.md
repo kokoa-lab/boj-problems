@@ -1,13 +1,13 @@
 ---
-title: 나의 인생에는 수학과 함께
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "나의 인생에는 수학과 함께"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 3593
 accepted: 1943
 solved_users: 1579
-acceptance_rate: 53.489%
-collected_at: 2026-04-18T09:58:52.843270+00:00
+acceptance_rate: "53.489%"
+collected_at: "2026-04-18T09:58:52.843270+00:00"
 ---
 
 ## 문제

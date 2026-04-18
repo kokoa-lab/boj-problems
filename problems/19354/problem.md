@@ -1,13 +1,13 @@
 ---
-title: Education Nightmare
-special_judge: false
-time_limit: 10 초
-memory_limit: 512 MB
+title: "Education Nightmare"
+special_judge: "false"
+time_limit: "10 초"
+memory_limit: "512 MB"
 submissions: 13
 accepted: 3
 solved_users: 3
-acceptance_rate: 100.000%
-collected_at: 2026-04-17T15:17:57.348624+00:00
+acceptance_rate: "100.000%"
+collected_at: "2026-04-17T15:17:57.348624+00:00"
 ---
 
 ## 문제

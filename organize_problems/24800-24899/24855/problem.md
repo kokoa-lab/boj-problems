@@ -1,13 +1,13 @@
 ---
-title: Natives
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Natives"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 215
 accepted: 149
 solved_users: 139
-acceptance_rate: 70.918%
-collected_at: 2026-04-17T17:16:12.843638+00:00
+acceptance_rate: "70.918%"
+collected_at: "2026-04-17T17:16:12.843638+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 미네랄 2
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "미네랄 2"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 4313
 accepted: 1529
 solved_users: 1190
-acceptance_rate: 35.941%
-collected_at: 2026-04-17T15:05:50.461680+00:00
+acceptance_rate: "35.941%"
+collected_at: "2026-04-17T15:05:50.461680+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Remittance
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Remittance"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 179
 accepted: 59
 solved_users: 53
-acceptance_rate: 33.544%
-collected_at: 2026-04-17T14:44:42.229559+00:00
+acceptance_rate: "33.544%"
+collected_at: "2026-04-17T14:44:42.229559+00:00"
 ---
 
 ## 문제

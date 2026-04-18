@@ -1,13 +1,13 @@
 ---
-title: Necklace Factory
-special_judge: false
-time_limit: 3 초
-memory_limit: 256 MB
+title: "Necklace Factory"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "256 MB"
 submissions: 6
 accepted: 2
 solved_users: 2
-acceptance_rate: 100.000%
-collected_at: 2026-04-17T14:37:23.937739+00:00
+acceptance_rate: "100.000%"
+collected_at: "2026-04-17T14:37:23.937739+00:00"
 ---
 
 ## 문제

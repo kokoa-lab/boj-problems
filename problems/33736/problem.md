@@ -1,13 +1,13 @@
 ---
-title: Making Mexes
-special_judge: false
-time_limit: 2 초
-memory_limit: 2048 MB
+title: "Making Mexes"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "2048 MB"
 submissions: 106
 accepted: 78
 solved_users: 70
-acceptance_rate: 74.468%
-collected_at: 2026-04-17T20:22:35.237589+00:00
+acceptance_rate: "74.468%"
+collected_at: "2026-04-17T20:22:35.237589+00:00"
 ---
 
 ## 문제

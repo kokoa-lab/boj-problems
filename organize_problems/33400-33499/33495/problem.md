@@ -1,13 +1,13 @@
 ---
-title: KSA 문자열 2
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "KSA 문자열 2"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 340
 accepted: 86
 solved_users: 84
-acceptance_rate: 32.558%
-collected_at: 2026-04-17T20:17:35.798528+00:00
+acceptance_rate: "32.558%"
+collected_at: "2026-04-17T20:17:35.798528+00:00"
 ---
 
 ## 문제

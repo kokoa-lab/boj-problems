@@ -1,13 +1,13 @@
 ---
-title: 좋은 자동차 번호판
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "좋은 자동차 번호판"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 5758
 accepted: 3586
 solved_users: 3264
-acceptance_rate: 64.138%
-collected_at: 2026-04-17T10:35:04.860254+00:00
+acceptance_rate: "64.138%"
+collected_at: "2026-04-17T10:35:04.860254+00:00"
 ---
 
 ## 문제

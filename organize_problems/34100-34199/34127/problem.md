@@ -1,13 +1,13 @@
 ---
-title: 래환이의 블록 쌓기 이야기
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "래환이의 블록 쌓기 이야기"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 63
 accepted: 23
 solved_users: 17
-acceptance_rate: 36.170%
-collected_at: 2026-04-17T20:31:20.494156+00:00
+acceptance_rate: "36.170%"
+collected_at: "2026-04-17T20:31:20.494156+00:00"
 ---
 
 ## 문제

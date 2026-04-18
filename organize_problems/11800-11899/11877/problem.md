@@ -1,13 +1,13 @@
 ---
-title: 홍수
-special_judge: true
-time_limit: 1 초
-memory_limit: 64 MB
+title: "홍수"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "64 MB"
 submissions: 554
 accepted: 288
 solved_users: 227
-acceptance_rate: 48.712%
-collected_at: 2026-04-18T10:04:06.996738+00:00
+acceptance_rate: "48.712%"
+collected_at: "2026-04-18T10:04:06.996738+00:00"
 ---
 
 ## 문제

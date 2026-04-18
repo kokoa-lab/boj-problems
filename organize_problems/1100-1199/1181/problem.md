@@ -1,13 +1,13 @@
 ---
-title: 단어 정렬
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "단어 정렬"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 253558
 accepted: 109894
 solved_users: 82041
-acceptance_rate: 41.470%
-collected_at: 2026-04-17T10:28:39.228756+00:00
+acceptance_rate: "41.470%"
+collected_at: "2026-04-17T10:28:39.228756+00:00"
 ---
 
 ## 문제

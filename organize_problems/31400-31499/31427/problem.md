@@ -1,13 +1,13 @@
 ---
-title: 신촌 도로망 관리와 쿼리
-special_judge: false
-time_limit: 2.5 초 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "신촌 도로망 관리와 쿼리"
+special_judge: "false"
+time_limit: "2.5 초 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 498
 accepted: 173
 solved_users: 141
-acceptance_rate: 35.696%
-collected_at: 2026-04-17T19:28:04.383639+00:00
+acceptance_rate: "35.696%"
+collected_at: "2026-04-17T19:28:04.383639+00:00"
 ---
 
 ## 문제

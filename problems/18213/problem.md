@@ -1,13 +1,13 @@
 ---
-title: Twin Trees Bros.
-special_judge: false
-time_limit: 3 초
-memory_limit: 512 MB
+title: "Twin Trees Bros."
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "512 MB"
 submissions: 44
 accepted: 24
 solved_users: 18
-acceptance_rate: 48.649%
-collected_at: 2026-04-17T14:57:16.851487+00:00
+acceptance_rate: "48.649%"
+collected_at: "2026-04-17T14:57:16.851487+00:00"
 ---
 
 ## 문제

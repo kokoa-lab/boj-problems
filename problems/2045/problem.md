@@ -1,13 +1,13 @@
 ---
-title: 마방진
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "마방진"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 1204
 accepted: 324
 solved_users: 274
-acceptance_rate: 28.933%
-collected_at: 2026-04-17T10:37:34.735119+00:00
+acceptance_rate: "28.933%"
+collected_at: "2026-04-17T10:37:34.735119+00:00"
 ---
 
 ## 문제

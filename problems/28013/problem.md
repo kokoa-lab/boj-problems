@@ -1,13 +1,13 @@
 ---
-title: LaLa and Magical Beast Summoning
-special_judge: false
-time_limit: 5 초
-memory_limit: 1024 MB
+title: "LaLa and Magical Beast Summoning"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "1024 MB"
 submissions: 8
 accepted: 2
 solved_users: 2
-acceptance_rate: 25.000%
-collected_at: 2026-04-17T18:16:36.980788+00:00
+acceptance_rate: "25.000%"
+collected_at: "2026-04-17T18:16:36.980788+00:00"
 ---
 
 ## 문제

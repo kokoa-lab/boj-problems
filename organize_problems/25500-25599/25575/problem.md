@@ -1,13 +1,13 @@
 ---
-title: 이분 그래프 놀이
-special_judge: false
-time_limit: 1 초  ( 하단 참고 )
-memory_limit: 512 MB
+title: "이분 그래프 놀이"
+special_judge: "false"
+time_limit: "1 초  ( 하단 참고 )"
+memory_limit: "512 MB"
 submissions: 109
 accepted: 58
 solved_users: 49
-acceptance_rate: 59.756%
-collected_at: 2026-04-17T17:29:01.357346+00:00
+acceptance_rate: "59.756%"
+collected_at: "2026-04-17T17:29:01.357346+00:00"
 ---
 
 ## 문제

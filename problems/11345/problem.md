@@ -1,13 +1,13 @@
 ---
-title: Cornell Party
-special_judge: false
-time_limit: 3 초
-memory_limit: 256 MB
+title: "Cornell Party"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "256 MB"
 submissions: 140
 accepted: 100
 solved_users: 60
-acceptance_rate: 65.217%
-collected_at: 2026-04-17T12:39:53.872851+00:00
+acceptance_rate: "65.217%"
+collected_at: "2026-04-17T12:39:53.872851+00:00"
 ---
 
 ## 문제

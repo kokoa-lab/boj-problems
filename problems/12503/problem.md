@@ -1,13 +1,13 @@
 ---
-title: FreeCell Statistics (Small)
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "FreeCell Statistics (Small)"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 231
 accepted: 88
 solved_users: 64
-acceptance_rate: 34.973%
-collected_at: 2026-04-17T12:56:28.155865+00:00
+acceptance_rate: "34.973%"
+collected_at: "2026-04-17T12:56:28.155865+00:00"
 ---
 
 ## 문제

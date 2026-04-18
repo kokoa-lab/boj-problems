@@ -1,13 +1,13 @@
 ---
-title: Alex Origami Squares
-special_judge: true
-time_limit: 2 초
-memory_limit: 256 MB
+title: "Alex Origami Squares"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 1796
 accepted: 834
 solved_users: 761
-acceptance_rate: 47.444%
-collected_at: 2026-04-17T12:41:08.787374+00:00
+acceptance_rate: "47.444%"
+collected_at: "2026-04-17T12:41:08.787374+00:00"
 ---
 
 ## 문제

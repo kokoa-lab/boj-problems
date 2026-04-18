@@ -1,13 +1,13 @@
 ---
-title: Dihotomna Dioba
-special_judge: false
-time_limit: 4 초
-memory_limit: 1024 MB
+title: "Dihotomna Dioba"
+special_judge: "false"
+time_limit: "4 초"
+memory_limit: "1024 MB"
 submissions: 45
 accepted: 40
 solved_users: 40
-acceptance_rate: 88.889%
-collected_at: 2026-04-17T17:43:11.637914+00:00
+acceptance_rate: "88.889%"
+collected_at: "2026-04-17T17:43:11.637914+00:00"
 ---
 
 ## 문제

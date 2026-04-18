@@ -1,13 +1,13 @@
 ---
-title: 난개발
-special_judge: false
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "난개발"
+special_judge: "false"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 754
 accepted: 281
 solved_users: 225
-acceptance_rate: 36.290%
-collected_at: 2026-04-17T15:23:45.711175+00:00
+acceptance_rate: "36.290%"
+collected_at: "2026-04-17T15:23:45.711175+00:00"
 ---
 
 ## 문제

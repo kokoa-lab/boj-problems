@@ -1,13 +1,13 @@
 ---
-title: UNIST는 무엇의 약자일까?
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "UNIST는 무엇의 약자일까?"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 566
 accepted: 252
 solved_users: 203
-acceptance_rate: 43.939%
-collected_at: 2026-04-17T14:48:22.279352+00:00
+acceptance_rate: "43.939%"
+collected_at: "2026-04-17T14:48:22.279352+00:00"
 ---
 
 ## 문제

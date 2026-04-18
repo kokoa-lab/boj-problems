@@ -1,13 +1,13 @@
 ---
-title: 문자열 로또
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "문자열 로또"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 206
 accepted: 174
 solved_users: 159
-acceptance_rate: 86.413%
-collected_at: 2026-04-17T20:49:06.436760+00:00
+acceptance_rate: "86.413%"
+collected_at: "2026-04-17T20:49:06.436760+00:00"
 ---
 
 ## 문제

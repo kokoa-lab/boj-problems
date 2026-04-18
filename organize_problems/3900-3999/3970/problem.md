@@ -1,13 +1,13 @@
 ---
-title: 안전 구역
-special_judge: true
-time_limit: 1 초
-memory_limit: 128 MB
+title: "안전 구역"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 302
 accepted: 78
 solved_users: 44
-acceptance_rate: 24.581%
-collected_at: 2026-04-17T10:53:54.934469+00:00
+acceptance_rate: "24.581%"
+collected_at: "2026-04-17T10:53:54.934469+00:00"
 ---
 
 ## 문제

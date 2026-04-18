@@ -1,13 +1,13 @@
 ---
-title: 텀 프로젝트
-special_judge: false
-time_limit: 3 초
-memory_limit: 256 MB
+title: "텀 프로젝트"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "256 MB"
 submissions: 88957
 accepted: 24824
 solved_users: 15929
-acceptance_rate: 25.248%
-collected_at: 2026-04-17T12:10:12.633177+00:00
+acceptance_rate: "25.248%"
+collected_at: "2026-04-17T12:10:12.633177+00:00"
 ---
 
 ## 문제

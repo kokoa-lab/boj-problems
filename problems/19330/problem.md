@@ -1,13 +1,13 @@
 ---
-title: Berland Post
-special_judge: true
-time_limit: 3 초
-memory_limit: 256 MB
+title: "Berland Post"
+special_judge: "true"
+time_limit: "3 초"
+memory_limit: "256 MB"
 submissions: 61
 accepted: 16
 solved_users: 12
-acceptance_rate: 23.077%
-collected_at: 2026-04-17T15:17:15.719298+00:00
+acceptance_rate: "23.077%"
+collected_at: "2026-04-17T15:17:15.719298+00:00"
 ---
 
 ## 문제

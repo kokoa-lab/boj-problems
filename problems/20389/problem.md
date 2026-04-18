@@ -1,13 +1,13 @@
 ---
-title: ICC
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "ICC"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 66
 accepted: 14
 solved_users: 14
-acceptance_rate: 25.926%
-collected_at: 2026-04-17T15:35:52.036937+00:00
+acceptance_rate: "25.926%"
+collected_at: "2026-04-17T15:35:52.036937+00:00"
 ---
 
 ## 문제

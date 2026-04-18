@@ -1,13 +1,13 @@
 ---
-title: 그게 무슨 코드니..
-special_judge: false
-time_limit: 0.5 초
-memory_limit: 1024 MB
+title: "그게 무슨 코드니.."
+special_judge: "false"
+time_limit: "0.5 초"
+memory_limit: "1024 MB"
 submissions: 6531
 accepted: 2214
 solved_users: 2050
-acceptance_rate: 34.483%
-collected_at: 2026-04-17T19:29:12.901115+00:00
+acceptance_rate: "34.483%"
+collected_at: "2026-04-17T19:29:12.901115+00:00"
 ---
 
 ## 문제

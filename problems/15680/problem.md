@@ -1,13 +1,13 @@
 ---
-title: 연세대학교
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "연세대학교"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 21627
 accepted: 16275
 solved_users: 15212
-acceptance_rate: 76.174%
-collected_at: 2026-04-17T14:04:08.676766+00:00
+acceptance_rate: "76.174%"
+collected_at: "2026-04-17T14:04:08.676766+00:00"
 ---
 
 ## 문제

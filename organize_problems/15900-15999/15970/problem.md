@@ -1,13 +1,13 @@
 ---
-title: 화살표 그리기
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "화살표 그리기"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 9283
 accepted: 4638
 solved_users: 3499
-acceptance_rate: 51.983%
-collected_at: 2026-04-17T14:09:19.311019+00:00
+acceptance_rate: "51.983%"
+collected_at: "2026-04-17T14:09:19.311019+00:00"
 ---
 
 ## 문제

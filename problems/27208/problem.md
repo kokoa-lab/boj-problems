@@ -1,13 +1,13 @@
 ---
-title: Melons
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Melons"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 85
 accepted: 48
 solved_users: 41
-acceptance_rate: 58.571%
-collected_at: 2026-04-17T17:58:16.615852+00:00
+acceptance_rate: "58.571%"
+collected_at: "2026-04-17T17:58:16.615852+00:00"
 ---
 
 ## 문제

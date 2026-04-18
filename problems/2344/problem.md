@@ -1,13 +1,13 @@
 ---
-title: 거울
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "거울"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 854
 accepted: 606
 solved_users: 475
-acceptance_rate: 71.644%
-collected_at: 2026-04-17T10:40:49.629756+00:00
+acceptance_rate: "71.644%"
+collected_at: "2026-04-17T10:40:49.629756+00:00"
 ---
 
 ## 문제

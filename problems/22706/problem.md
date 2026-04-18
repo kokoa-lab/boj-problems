@@ -1,13 +1,13 @@
 ---
-title: Walk under a Scorching Sun
-special_judge: true
-time_limit: 8 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "Walk under a Scorching Sun"
+special_judge: "true"
+time_limit: "8 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 3
 accepted: 0
 solved_users: 0
-acceptance_rate: 0.000%
-collected_at: 2026-04-17T16:32:18.045121+00:00
+acceptance_rate: "0.000%"
+collected_at: "2026-04-17T16:32:18.045121+00:00"
 ---
 
 ## 문제

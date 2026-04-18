@@ -1,13 +1,13 @@
 ---
-title: 평균 점수
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "평균 점수"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 85529
 accepted: 52824
 solved_users: 47801
-acceptance_rate: 62.523%
-collected_at: 2026-04-17T12:18:08.885175+00:00
+acceptance_rate: "62.523%"
+collected_at: "2026-04-17T12:18:08.885175+00:00"
 ---
 
 ## 문제

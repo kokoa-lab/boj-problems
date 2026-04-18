@@ -1,13 +1,13 @@
 ---
-title: Simplified Keyboard
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Simplified Keyboard"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 65
 accepted: 47
 solved_users: 39
-acceptance_rate: 70.909%
-collected_at: 2026-04-17T17:35:45.828912+00:00
+acceptance_rate: "70.909%"
+collected_at: "2026-04-17T17:35:45.828912+00:00"
 ---
 
 ## 문제

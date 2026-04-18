@@ -1,13 +1,13 @@
 ---
-title: 정열적인 정렬
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "정열적인 정렬"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 5358
 accepted: 3713
 solved_users: 3029
-acceptance_rate: 74.386%
-collected_at: 2026-04-17T14:13:36.295701+00:00
+acceptance_rate: "74.386%"
+collected_at: "2026-04-17T14:13:36.295701+00:00"
 ---
 
 ## 문제

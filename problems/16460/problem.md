@@ -1,13 +1,13 @@
 ---
-title: Cupid
-special_judge: false
-time_limit: 1.004 초
-memory_limit: 512 MB
+title: "Cupid"
+special_judge: "false"
+time_limit: "1.004 초"
+memory_limit: "512 MB"
 submissions: 578
 accepted: 256
 solved_users: 216
-acceptance_rate: 44.536%
-collected_at: 2026-04-17T14:18:21.301130+00:00
+acceptance_rate: "44.536%"
+collected_at: "2026-04-17T14:18:21.301130+00:00"
 ---
 
 ## 문제

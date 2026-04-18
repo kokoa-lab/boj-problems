@@ -1,13 +1,13 @@
 ---
-title: The Rock Game
-special_judge: true
-time_limit: 1 초
-memory_limit: 128 MB
+title: "The Rock Game"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 97
 accepted: 77
 solved_users: 54
-acceptance_rate: 81.818%
-collected_at: 2026-04-17T11:19:35.974369+00:00
+acceptance_rate: "81.818%"
+collected_at: "2026-04-17T11:19:35.974369+00:00"
 ---
 
 ## 문제

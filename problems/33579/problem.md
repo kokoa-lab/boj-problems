@@ -1,13 +1,13 @@
 ---
-title: 디미 그래프
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "디미 그래프"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 235
 accepted: 100
 solved_users: 83
-acceptance_rate: 39.151%
-collected_at: 2026-04-17T20:19:23.152402+00:00
+acceptance_rate: "39.151%"
+collected_at: "2026-04-17T20:19:23.152402+00:00"
 ---
 
 ## 문제

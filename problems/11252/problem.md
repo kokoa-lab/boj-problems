@@ -1,13 +1,13 @@
 ---
-title: Finding something
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "Finding something"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 50
 accepted: 14
 solved_users: 8
-acceptance_rate: 21.622%
-collected_at: 2026-04-17T12:38:42.586795+00:00
+acceptance_rate: "21.622%"
+collected_at: "2026-04-17T12:38:42.586795+00:00"
 ---
 
 ## 문제

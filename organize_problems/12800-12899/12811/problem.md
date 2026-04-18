@@ -1,13 +1,13 @@
 ---
-title: Problem Preparation
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "Problem Preparation"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 45
 accepted: 6
 solved_users: 4
-acceptance_rate: 11.765%
-collected_at: 2026-04-17T13:01:49.932651+00:00
+acceptance_rate: "11.765%"
+collected_at: "2026-04-17T13:01:49.932651+00:00"
 ---
 
 ## 문제

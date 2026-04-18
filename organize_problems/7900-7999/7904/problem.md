@@ -1,13 +1,13 @@
 ---
-title: 허프만 트리
-special_judge: false
-time_limit: 3 초
-memory_limit: 128 MB
+title: "허프만 트리"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "128 MB"
 submissions: 574
 accepted: 26
 solved_users: 9
-acceptance_rate: 7.965%
-collected_at: 2026-04-17T11:53:59.857539+00:00
+acceptance_rate: "7.965%"
+collected_at: "2026-04-17T11:53:59.857539+00:00"
 ---
 
 ## 문제

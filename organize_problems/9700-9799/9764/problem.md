@@ -1,13 +1,13 @@
 ---
-title: 서로 다른 자연수의 합
-special_judge: false
-time_limit: 7 초
-memory_limit: 128 MB
+title: "서로 다른 자연수의 합"
+special_judge: "false"
+time_limit: "7 초"
+memory_limit: "128 MB"
 submissions: 1129
 accepted: 731
 solved_users: 550
-acceptance_rate: 68.069%
-collected_at: 2026-04-17T12:14:12.226899+00:00
+acceptance_rate: "68.069%"
+collected_at: "2026-04-17T12:14:12.226899+00:00"
 ---
 
 ## 문제

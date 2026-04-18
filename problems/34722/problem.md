@@ -1,13 +1,13 @@
 ---
-title: 출제자가 몇 명
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "출제자가 몇 명"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 1044
 accepted: 700
 solved_users: 650
-acceptance_rate: 66.462%
-collected_at: 2026-04-17T20:46:53.726588+00:00
+acceptance_rate: "66.462%"
+collected_at: "2026-04-17T20:46:53.726588+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 여우는 어떻게 울지?
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "여우는 어떻게 울지?"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 6502
 accepted: 3109
 solved_users: 2581
-acceptance_rate: 48.162%
-collected_at: 2026-04-17T12:10:58.806375+00:00
+acceptance_rate: "48.162%"
+collected_at: "2026-04-17T12:10:58.806375+00:00"
 ---
 
 ## 문제

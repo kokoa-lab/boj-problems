@@ -1,13 +1,13 @@
 ---
-title: LCM
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "LCM"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 12474
 accepted: 5927
 solved_users: 5238
-acceptance_rate: 51.063%
-collected_at: 2026-04-17T11:13:11.148165+00:00
+acceptance_rate: "51.063%"
+collected_at: "2026-04-17T11:13:11.148165+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Speleology
-special_judge: false
-time_limit: 3 초
-memory_limit: 512 MB
+title: "Speleology"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "512 MB"
 submissions: 86
 accepted: 34
 solved_users: 27
-acceptance_rate: 37.500%
-collected_at: 2026-04-17T11:55:37.891888+00:00
+acceptance_rate: "37.500%"
+collected_at: "2026-04-17T11:55:37.891888+00:00"
 ---
 
 ## 문제

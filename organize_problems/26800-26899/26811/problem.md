@@ -1,13 +1,13 @@
 ---
-title: Tablica binarna
-special_judge: false
-time_limit: 6 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Tablica binarna"
+special_judge: "false"
+time_limit: "6 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 3
 accepted: 1
 solved_users: 1
-acceptance_rate: 100.000%
-collected_at: 2026-04-17T17:51:46.105886+00:00
+acceptance_rate: "100.000%"
+collected_at: "2026-04-17T17:51:46.105886+00:00"
 ---
 
 ## 문제

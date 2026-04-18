@@ -1,13 +1,13 @@
 ---
-title: Growing Vegetables is Fun 5
-special_judge: false
-time_limit: 5 초
-memory_limit: 1024 MB
+title: "Growing Vegetables is Fun 5"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "1024 MB"
 submissions: 15
 accepted: 10
 solved_users: 8
-acceptance_rate: 80.000%
-collected_at: 2026-04-17T19:35:26.512006+00:00
+acceptance_rate: "80.000%"
+collected_at: "2026-04-17T19:35:26.512006+00:00"
 ---
 
 ## 문제

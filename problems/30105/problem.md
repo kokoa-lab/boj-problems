@@ -1,13 +1,13 @@
 ---
-title: 아즈버의 이빨 자국
-special_judge: false
-time_limit: 3 초
-memory_limit: 1024 MB
+title: "아즈버의 이빨 자국"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "1024 MB"
 submissions: 908
 accepted: 317
 solved_users: 226
-acceptance_rate: 34.347%
-collected_at: 2026-04-17T18:58:58.612290+00:00
+acceptance_rate: "34.347%"
+collected_at: "2026-04-17T18:58:58.612290+00:00"
 ---
 
 ## 문제

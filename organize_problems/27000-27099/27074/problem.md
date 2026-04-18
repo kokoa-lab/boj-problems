@@ -1,13 +1,13 @@
 ---
-title: Strolling Cows
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Strolling Cows"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 35
 accepted: 23
 solved_users: 15
-acceptance_rate: 78.947%
-collected_at: 2026-04-17T17:56:04.505160+00:00
+acceptance_rate: "78.947%"
+collected_at: "2026-04-17T17:56:04.505160+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Бесквадратные числа
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Бесквадратные числа"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 29
 accepted: 17
 solved_users: 15
-acceptance_rate: 57.692%
-collected_at: 2026-04-17T18:42:53.177064+00:00
+acceptance_rate: "57.692%"
+collected_at: "2026-04-17T18:42:53.177064+00:00"
 ---
 
 ## 문제

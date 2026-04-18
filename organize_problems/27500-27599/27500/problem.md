@@ -1,13 +1,13 @@
 ---
-title: 이 게임에서 진정한 탑은 누구인가
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "이 게임에서 진정한 탑은 누구인가"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 275
 accepted: 42
 solved_users: 31
-acceptance_rate: 17.127%
-collected_at: 2026-04-17T18:04:38.903885+00:00
+acceptance_rate: "17.127%"
+collected_at: "2026-04-17T18:04:38.903885+00:00"
 ---
 
 ## 문제

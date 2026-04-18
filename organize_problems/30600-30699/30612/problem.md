@@ -1,13 +1,13 @@
 ---
-title: Heavy Rainfall
-special_judge: false
-time_limit: 10 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Heavy Rainfall"
+special_judge: "false"
+time_limit: "10 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 82
 accepted: 37
 solved_users: 35
-acceptance_rate: 47.945%
-collected_at: 2026-04-17T19:10:37.667379+00:00
+acceptance_rate: "47.945%"
+collected_at: "2026-04-17T19:10:37.667379+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 영정이의 청소
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "영정이의 청소"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 983
 accepted: 399
 solved_users: 315
-acceptance_rate: 42.568%
-collected_at: 2026-04-17T13:40:05.503914+00:00
+acceptance_rate: "42.568%"
+collected_at: "2026-04-17T13:40:05.503914+00:00"
 ---
 
 ## 문제

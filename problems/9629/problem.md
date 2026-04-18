@@ -1,13 +1,13 @@
 ---
-title: 두 정수의 거리
-special_judge: false
-time_limit: 3 초
-memory_limit: 128 MB
+title: "두 정수의 거리"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "128 MB"
 submissions: 111
 accepted: 64
 solved_users: 47
-acceptance_rate: 61.039%
-collected_at: 2026-04-17T12:12:10.766517+00:00
+acceptance_rate: "61.039%"
+collected_at: "2026-04-17T12:12:10.766517+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 주사위 던지기
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "주사위 던지기"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 115
 accepted: 36
 solved_users: 33
-acceptance_rate: 41.250%
-collected_at: 2026-04-17T19:19:24.794258+00:00
+acceptance_rate: "41.250%"
+collected_at: "2026-04-17T19:19:24.794258+00:00"
 ---
 
 ## 문제

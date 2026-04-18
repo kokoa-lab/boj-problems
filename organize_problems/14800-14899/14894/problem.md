@@ -1,13 +1,13 @@
 ---
-title: 퀵 소트 cnt++
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "퀵 소트 cnt++"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 426
 accepted: 111
 solved_users: 88
-acceptance_rate: 50.867%
-collected_at: 2026-04-17T13:44:33.919800+00:00
+acceptance_rate: "50.867%"
+collected_at: "2026-04-17T13:44:33.919800+00:00"
 ---
 
 ## 문제

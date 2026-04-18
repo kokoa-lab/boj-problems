@@ -1,13 +1,13 @@
 ---
-title: 군사 이동
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "군사 이동"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 1942
 accepted: 1254
 solved_users: 1042
-acceptance_rate: 64.281%
-collected_at: 2026-04-17T12:36:12.989567+00:00
+acceptance_rate: "64.281%"
+collected_at: "2026-04-17T12:36:12.989567+00:00"
 ---
 
 ## 문제

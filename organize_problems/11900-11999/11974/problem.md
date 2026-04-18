@@ -1,13 +1,13 @@
 ---
-title: Subsequences Summing to Sevens
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Subsequences Summing to Sevens"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 1425
 accepted: 560
 solved_users: 451
-acceptance_rate: 40.018%
-collected_at: 2026-04-17T12:48:27.164711+00:00
+acceptance_rate: "40.018%"
+collected_at: "2026-04-17T12:48:27.164711+00:00"
 ---
 
 ## 문제

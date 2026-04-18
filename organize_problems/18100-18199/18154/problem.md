@@ -1,13 +1,13 @@
 ---
-title: Speeding
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Speeding"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 271
 accepted: 243
 solved_users: 216
-acceptance_rate: 91.139%
-collected_at: 2026-04-17T14:56:32.273769+00:00
+acceptance_rate: "91.139%"
+collected_at: "2026-04-17T14:56:32.273769+00:00"
 ---
 
 ## 문제

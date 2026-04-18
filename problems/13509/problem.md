@@ -1,13 +1,13 @@
 ---
-title: 가장 가까운 두 점 2
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "가장 가까운 두 점 2"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 205
 accepted: 68
 solved_users: 53
-acceptance_rate: 38.129%
-collected_at: 2026-04-17T13:14:30.460830+00:00
+acceptance_rate: "38.129%"
+collected_at: "2026-04-17T13:14:30.460830+00:00"
 ---
 
 ## 문제

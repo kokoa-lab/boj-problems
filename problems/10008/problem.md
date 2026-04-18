@@ -1,13 +1,13 @@
 ---
-title: Polarization
-special_judge: false
-time_limit: 3 초
-memory_limit: 512 MB
+title: "Polarization"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "512 MB"
 submissions: 218
 accepted: 83
 solved_users: 58
-acceptance_rate: 37.419%
-collected_at: 2026-04-17T12:17:42.315530+00:00
+acceptance_rate: "37.419%"
+collected_at: "2026-04-17T12:17:42.315530+00:00"
 ---
 
 ## 문제

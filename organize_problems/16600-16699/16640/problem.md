@@ -1,13 +1,13 @@
 ---
-title: Awesome Numbers
-special_judge: false
-time_limit: 0.5 초
-memory_limit: 512 MB
+title: "Awesome Numbers"
+special_judge: "false"
+time_limit: "0.5 초"
+memory_limit: "512 MB"
 submissions: 22
 accepted: 8
 solved_users: 8
-acceptance_rate: 61.538%
-collected_at: 2026-04-17T14:21:32.515870+00:00
+acceptance_rate: "61.538%"
+collected_at: "2026-04-17T14:21:32.515870+00:00"
 ---
 
 ## 문제

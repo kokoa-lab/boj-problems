@@ -1,13 +1,13 @@
 ---
-title: 문제없는 문제
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "문제없는 문제"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 281
 accepted: 118
 solved_users: 105
-acceptance_rate: 48.387%
-collected_at: 2026-04-17T11:12:03.737398+00:00
+acceptance_rate: "48.387%"
+collected_at: "2026-04-17T11:12:03.737398+00:00"
 ---
 
 ## 문제

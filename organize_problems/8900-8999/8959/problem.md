@@ -1,13 +1,13 @@
 ---
-title: Stuttering Strings
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Stuttering Strings"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 122
 accepted: 47
 solved_users: 39
-acceptance_rate: 41.935%
-collected_at: 2026-04-17T12:05:27.267749+00:00
+acceptance_rate: "41.935%"
+collected_at: "2026-04-17T12:05:27.267749+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 최후의 승자는 누구?
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "최후의 승자는 누구?"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 1970
 accepted: 1075
 solved_users: 954
-acceptance_rate: 58.492%
-collected_at: 2026-04-17T13:00:56.351695+00:00
+acceptance_rate: "58.492%"
+collected_at: "2026-04-17T13:00:56.351695+00:00"
 ---
 
 ## 문제

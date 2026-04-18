@@ -1,13 +1,13 @@
 ---
-title: Sub-dictionary
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Sub-dictionary"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 545
 accepted: 126
 solved_users: 90
-acceptance_rate: 22.613%
-collected_at: 2026-04-18T09:48:43.434654+00:00
+acceptance_rate: "22.613%"
+collected_at: "2026-04-18T09:48:43.434654+00:00"
 ---
 
 ## 문제

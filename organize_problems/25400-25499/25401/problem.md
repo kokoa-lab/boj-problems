@@ -1,13 +1,13 @@
 ---
-title: 카드 바꾸기
-special_judge: false
-time_limit: 1.5 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "카드 바꾸기"
+special_judge: "false"
+time_limit: "1.5 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 4507
 accepted: 1578
 solved_users: 1180
-acceptance_rate: 38.151%
-collected_at: 2026-04-17T17:26:21.306311+00:00
+acceptance_rate: "38.151%"
+collected_at: "2026-04-17T17:26:21.306311+00:00"
 ---
 
 ## 문제

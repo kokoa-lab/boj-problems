@@ -1,13 +1,13 @@
 ---
-title: 보스몬스터 전리품
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "보스몬스터 전리품"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 1394
 accepted: 600
 solved_users: 422
-acceptance_rate: 39.292%
-collected_at: 2026-04-17T15:30:21.553774+00:00
+acceptance_rate: "39.292%"
+collected_at: "2026-04-17T15:30:21.553774+00:00"
 ---
 
 ## 문제

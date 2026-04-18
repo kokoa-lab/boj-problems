@@ -1,13 +1,13 @@
 ---
-title: 소진법
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "소진법"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 350
 accepted: 183
 solved_users: 166
-acceptance_rate: 54.605%
-collected_at: 2026-04-17T11:09:14.886275+00:00
+acceptance_rate: "54.605%"
+collected_at: "2026-04-17T11:09:14.886275+00:00"
 ---
 
 ## 문제

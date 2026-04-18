@@ -1,13 +1,13 @@
 ---
-title: 태양광 충전
-special_judge: false
-time_limit: 0.5 초
-memory_limit: 512 MB
+title: "태양광 충전"
+special_judge: "false"
+time_limit: "0.5 초"
+memory_limit: "512 MB"
 submissions: 20
 accepted: 17
 solved_users: 17
-acceptance_rate: 85.000%
-collected_at: 2026-04-17T18:01:30.289035+00:00
+acceptance_rate: "85.000%"
+collected_at: "2026-04-17T18:01:30.289035+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 홍익 절대평가
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "홍익 절대평가"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 1305
 accepted: 803
 solved_users: 735
-acceptance_rate: 62.928%
-collected_at: 2026-04-17T16:46:16.615137+00:00
+acceptance_rate: "62.928%"
+collected_at: "2026-04-17T16:46:16.615137+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 달빛 여우
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "달빛 여우"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 11866
 accepted: 2811
 solved_users: 1835
-acceptance_rate: 21.253%
-collected_at: 2026-04-17T14:11:43.016720+00:00
+acceptance_rate: "21.253%"
+collected_at: "2026-04-17T14:11:43.016720+00:00"
 ---
 
 ## 문제

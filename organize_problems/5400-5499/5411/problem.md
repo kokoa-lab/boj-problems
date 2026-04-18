@@ -1,13 +1,13 @@
 ---
-title: Warfare
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Warfare"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 2
 accepted: 1
 solved_users: 1
-acceptance_rate: 50.000%
-collected_at: 2026-04-17T11:13:42.041515+00:00
+acceptance_rate: "50.000%"
+collected_at: "2026-04-17T11:13:42.041515+00:00"
 ---
 
 ## 문제

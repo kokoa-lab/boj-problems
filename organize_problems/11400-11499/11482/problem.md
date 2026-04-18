@@ -1,13 +1,13 @@
 ---
-title: Conversation Log
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "Conversation Log"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 121
 accepted: 57
 solved_users: 51
-acceptance_rate: 54.839%
-collected_at: 2026-04-17T12:41:20.121813+00:00
+acceptance_rate: "54.839%"
+collected_at: "2026-04-17T12:41:20.121813+00:00"
 ---
 
 ## 문제

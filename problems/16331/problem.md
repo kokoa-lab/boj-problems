@@ -1,13 +1,13 @@
 ---
-title: Min Max Convert
-special_judge: true
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Min Max Convert"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 129
 accepted: 50
 solved_users: 40
-acceptance_rate: 36.364%
-collected_at: 2026-04-17T14:16:02.067372+00:00
+acceptance_rate: "36.364%"
+collected_at: "2026-04-17T14:16:02.067372+00:00"
 ---
 
 ## 문제

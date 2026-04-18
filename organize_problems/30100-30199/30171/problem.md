@@ -1,13 +1,13 @@
 ---
-title: Another Filling the Grid
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Another Filling the Grid"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 25
 accepted: 19
 solved_users: 17
-acceptance_rate: 89.474%
-collected_at: 2026-04-17T19:00:04.652100+00:00
+acceptance_rate: "89.474%"
+collected_at: "2026-04-17T19:00:04.652100+00:00"
 ---
 
 ## 문제

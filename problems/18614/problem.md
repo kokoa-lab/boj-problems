@@ -1,13 +1,13 @@
 ---
-title: Cosmic Crossroads
-special_judge: true
-time_limit: 4 초
-memory_limit: 512 MB
+title: "Cosmic Crossroads"
+special_judge: "true"
+time_limit: "4 초"
+memory_limit: "512 MB"
 submissions: 47
 accepted: 3
 solved_users: 2
-acceptance_rate: 4.545%
-collected_at: 2026-04-17T15:07:10.051528+00:00
+acceptance_rate: "4.545%"
+collected_at: "2026-04-17T15:07:10.051528+00:00"
 ---
 
 ## 문제

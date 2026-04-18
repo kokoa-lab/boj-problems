@@ -1,13 +1,13 @@
 ---
-title: 비밀 회선
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "비밀 회선"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 279
 accepted: 105
 solved_users: 78
-acceptance_rate: 37.681%
-collected_at: 2026-04-17T13:05:16.993319+00:00
+acceptance_rate: "37.681%"
+collected_at: "2026-04-17T13:05:16.993319+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Cribbage On Steroids
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Cribbage On Steroids"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 51
 accepted: 30
 solved_users: 30
-acceptance_rate: 62.500%
-collected_at: 2026-04-17T18:07:34.923763+00:00
+acceptance_rate: "62.500%"
+collected_at: "2026-04-17T18:07:34.923763+00:00"
 ---
 
 ## 문제

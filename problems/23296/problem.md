@@ -1,13 +1,13 @@
 ---
-title: 엘리베이터 조작
-special_judge: true
-time_limit: 1 초
-memory_limit: 512 MB
+title: "엘리베이터 조작"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 557
 accepted: 144
 solved_users: 109
-acceptance_rate: 28.385%
-collected_at: 2026-04-17T16:45:53.379379+00:00
+acceptance_rate: "28.385%"
+collected_at: "2026-04-17T16:45:53.379379+00:00"
 ---
 
 ## 문제

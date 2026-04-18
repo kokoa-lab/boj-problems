@@ -1,13 +1,13 @@
 ---
-title: Beautiful Numbers (Small)
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Beautiful Numbers (Small)"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 122
 accepted: 85
 solved_users: 72
-acceptance_rate: 72.000%
-collected_at: 2026-04-17T13:29:36.197853+00:00
+acceptance_rate: "72.000%"
+collected_at: "2026-04-17T13:29:36.197853+00:00"
 ---
 
 ## 문제

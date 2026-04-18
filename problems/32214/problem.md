@@ -1,13 +1,13 @@
 ---
-title: 코코아와 마법사의 돌
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "코코아와 마법사의 돌"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 185
 accepted: 53
 solved_users: 47
-acceptance_rate: 31.126%
-collected_at: 2026-04-17T19:45:45.678888+00:00
+acceptance_rate: "31.126%"
+collected_at: "2026-04-17T19:45:45.678888+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 당근과 채찍
-special_judge: false
-time_limit: 4 초
-memory_limit: 1024 MB
+title: "당근과 채찍"
+special_judge: "false"
+time_limit: "4 초"
+memory_limit: "1024 MB"
 submissions: 106
 accepted: 57
 solved_users: 48
-acceptance_rate: 56.471%
-collected_at: 2026-04-17T17:47:16.746328+00:00
+acceptance_rate: "56.471%"
+collected_at: "2026-04-17T17:47:16.746328+00:00"
 ---
 
 ## 문제

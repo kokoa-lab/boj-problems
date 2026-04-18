@@ -1,13 +1,13 @@
 ---
-title: 옷걸이걸이걸이
-special_judge: false
-time_limit: 0.5 초
-memory_limit: 1024 MB
+title: "옷걸이걸이걸이"
+special_judge: "false"
+time_limit: "0.5 초"
+memory_limit: "1024 MB"
 submissions: 540
 accepted: 111
 solved_users: 84
-acceptance_rate: 21.932%
-collected_at: 2026-04-17T16:54:39.089562+00:00
+acceptance_rate: "21.932%"
+collected_at: "2026-04-17T16:54:39.089562+00:00"
 ---
 
 ## 문제

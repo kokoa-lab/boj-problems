@@ -1,13 +1,13 @@
 ---
-title: 도서관
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "도서관"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 14586
 accepted: 7698
 solved_users: 6148
-acceptance_rate: 52.569%
-collected_at: 2026-04-17T10:30:21.866289+00:00
+acceptance_rate: "52.569%"
+collected_at: "2026-04-17T10:30:21.866289+00:00"
 ---
 
 ## 문제

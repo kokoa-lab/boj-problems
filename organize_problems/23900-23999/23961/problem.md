@@ -1,13 +1,13 @@
 ---
-title: Kickstart Alarm
-special_judge: false
-time_limit: 90 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Kickstart Alarm"
+special_judge: "false"
+time_limit: "90 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 36
 accepted: 4
 solved_users: 4
-acceptance_rate: 40.000%
-collected_at: 2026-04-17T16:59:24.231358+00:00
+acceptance_rate: "40.000%"
+collected_at: "2026-04-17T16:59:24.231358+00:00"
 ---
 
 ## 문제

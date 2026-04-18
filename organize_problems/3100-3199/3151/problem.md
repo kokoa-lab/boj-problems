@@ -1,13 +1,13 @@
 ---
-title: 합이 0
-special_judge: false
-time_limit: 4 초
-memory_limit: 128 MB
+title: "합이 0"
+special_judge: "false"
+time_limit: "4 초"
+memory_limit: "128 MB"
 submissions: 16285
 accepted: 4313
 solved_users: 2989
-acceptance_rate: 25.006%
-collected_at: 2026-04-17T10:47:03.057064+00:00
+acceptance_rate: "25.006%"
+collected_at: "2026-04-17T10:47:03.057064+00:00"
 ---
 
 ## 문제

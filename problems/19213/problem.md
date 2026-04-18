@@ -1,13 +1,13 @@
 ---
-title: Fibonacci's Nightmare
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "Fibonacci's Nightmare"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 47
 accepted: 29
 solved_users: 19
-acceptance_rate: 65.517%
-collected_at: 2026-04-17T15:15:07.250098+00:00
+acceptance_rate: "65.517%"
+collected_at: "2026-04-17T15:15:07.250098+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Crazed Boar
-special_judge: true
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Crazed Boar"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 154
 accepted: 23
 solved_users: 20
-acceptance_rate: 35.088%
-collected_at: 2026-04-17T14:57:09.250399+00:00
+acceptance_rate: "35.088%"
+collected_at: "2026-04-17T14:57:09.250399+00:00"
 ---
 
 ## 문제

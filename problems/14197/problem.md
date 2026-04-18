@@ -1,13 +1,13 @@
 ---
-title: Son of Durin
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Son of Durin"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 36
 accepted: 3
 solved_users: 3
-acceptance_rate: 14.286%
-collected_at: 2026-04-17T13:27:43.573850+00:00
+acceptance_rate: "14.286%"
+collected_at: "2026-04-17T13:27:43.573850+00:00"
 ---
 
 ## 문제

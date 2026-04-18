@@ -1,13 +1,13 @@
 ---
-title: 미역은 식물 아닌데요
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "미역은 식물 아닌데요"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 1199
 accepted: 573
 solved_users: 519
-acceptance_rate: 51.642%
-collected_at: 2026-04-17T19:08:07.350928+00:00
+acceptance_rate: "51.642%"
+collected_at: "2026-04-17T19:08:07.350928+00:00"
 ---
 
 ## 문제

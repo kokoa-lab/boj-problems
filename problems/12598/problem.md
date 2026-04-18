@@ -1,13 +1,13 @@
 ---
-title: Get to Work (Large)
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Get to Work (Large)"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 61
 accepted: 49
 solved_users: 45
-acceptance_rate: 80.357%
-collected_at: 2026-04-17T12:58:11.417510+00:00
+acceptance_rate: "80.357%"
+collected_at: "2026-04-17T12:58:11.417510+00:00"
 ---
 
 ## 문제

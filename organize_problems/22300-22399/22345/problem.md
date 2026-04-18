@@ -1,13 +1,13 @@
 ---
-title: 누적 거리
-special_judge: false
-time_limit: 3 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "누적 거리"
+special_judge: "false"
+time_limit: "3 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 2338
 accepted: 740
 solved_users: 565
-acceptance_rate: 40.647%
-collected_at: 2026-04-17T16:19:14.977932+00:00
+acceptance_rate: "40.647%"
+collected_at: "2026-04-17T16:19:14.977932+00:00"
 ---
 
 ## 문제

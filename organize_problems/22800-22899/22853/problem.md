@@ -1,13 +1,13 @@
 ---
-title: 기둥과 성벽 디펜스 게임
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "기둥과 성벽 디펜스 게임"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 36
 accepted: 22
 solved_users: 15
-acceptance_rate: 57.692%
-collected_at: 2026-04-17T16:37:22.153443+00:00
+acceptance_rate: "57.692%"
+collected_at: "2026-04-17T16:37:22.153443+00:00"
 ---
 
 ## 문제

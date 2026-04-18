@@ -1,13 +1,13 @@
 ---
-title: Vera and Trail Building
-special_judge: true
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Vera and Trail Building"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 65
 accepted: 34
 solved_users: 29
-acceptance_rate: 59.184%
-collected_at: 2026-04-17T13:40:22.656879+00:00
+acceptance_rate: "59.184%"
+collected_at: "2026-04-17T13:40:22.656879+00:00"
 ---
 
 ## 문제

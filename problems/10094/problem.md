@@ -1,13 +1,13 @@
 ---
-title: Computer Network
-special_judge: false
-time_limit: 1 초
-memory_limit: 64 MB
+title: "Computer Network"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "64 MB"
 submissions: 171
 accepted: 47
 solved_users: 32
-acceptance_rate: 21.918%
-collected_at: 2026-04-17T12:18:55.898340+00:00
+acceptance_rate: "21.918%"
+collected_at: "2026-04-17T12:18:55.898340+00:00"
 ---
 
 ## 문제

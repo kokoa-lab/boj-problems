@@ -1,13 +1,13 @@
 ---
-title: Lawnmower
-special_judge: false
-time_limit: 5 초 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "Lawnmower"
+special_judge: "false"
+time_limit: "5 초 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 21
 accepted: 5
 solved_users: 4
-acceptance_rate: 36.364%
-collected_at: 2026-04-17T20:29:47.197163+00:00
+acceptance_rate: "36.364%"
+collected_at: "2026-04-17T20:29:47.197163+00:00"
 ---
 
 ## 문제

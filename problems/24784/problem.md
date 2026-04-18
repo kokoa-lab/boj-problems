@@ -1,13 +1,13 @@
 ---
-title: Linden Mayor System
-special_judge: false
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Linden Mayor System"
+special_judge: "false"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 67
 accepted: 34
 solved_users: 32
-acceptance_rate: 57.143%
-collected_at: 2026-04-17T17:15:03.869529+00:00
+acceptance_rate: "57.143%"
+collected_at: "2026-04-17T17:15:03.869529+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 토렌트
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "토렌트"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 1652
 accepted: 608
 solved_users: 471
-acceptance_rate: 35.254%
-collected_at: 2026-04-17T12:11:33.242553+00:00
+acceptance_rate: "35.254%"
+collected_at: "2026-04-17T12:11:33.242553+00:00"
 ---
 
 ## 문제

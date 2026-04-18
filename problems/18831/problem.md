@@ -1,13 +1,13 @@
 ---
-title: 문제를 푸는 문제
-special_judge: false
-time_limit: 3 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "문제를 푸는 문제"
+special_judge: "false"
+time_limit: "3 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 410
 accepted: 8
 solved_users: 6
-acceptance_rate: 2.575%
-collected_at: 2026-04-17T15:10:08.588133+00:00
+acceptance_rate: "2.575%"
+collected_at: "2026-04-17T15:10:08.588133+00:00"
 ---
 
 ## 문제

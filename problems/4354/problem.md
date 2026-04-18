@@ -1,13 +1,13 @@
 ---
-title: 문자열 제곱
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "문자열 제곱"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 11113
 accepted: 3871
 solved_users: 2851
-acceptance_rate: 35.421%
-collected_at: 2026-04-17T11:00:00.945891+00:00
+acceptance_rate: "35.421%"
+collected_at: "2026-04-17T11:00:00.945891+00:00"
 ---
 
 ## 문제

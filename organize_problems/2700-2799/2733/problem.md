@@ -1,13 +1,13 @@
 ---
-title: Brainf*ck
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Brainf*ck"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 2026
 accepted: 489
 solved_users: 294
-acceptance_rate: 21.491%
-collected_at: 2026-04-17T10:44:20.517364+00:00
+acceptance_rate: "21.491%"
+collected_at: "2026-04-17T10:44:20.517364+00:00"
 ---
 
 ## 문제

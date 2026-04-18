@@ -1,13 +1,13 @@
 ---
-title: marukaite
-special_judge: true
-time_limit: 8 초
-memory_limit: 512 MB
+title: "marukaite"
+special_judge: "true"
+time_limit: "8 초"
+memory_limit: "512 MB"
 submissions: 24
 accepted: 16
 solved_users: 11
-acceptance_rate: 64.706%
-collected_at: 2026-04-17T16:21:57.475760+00:00
+acceptance_rate: "64.706%"
+collected_at: "2026-04-17T16:21:57.475760+00:00"
 ---
 
 ## 문제

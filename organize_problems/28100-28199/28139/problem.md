@@ -1,13 +1,13 @@
 ---
-title: 평균 구하기
-special_judge: true
-time_limit: 2.5 초
-memory_limit: 1024 MB
+title: "평균 구하기"
+special_judge: "true"
+time_limit: "2.5 초"
+memory_limit: "1024 MB"
 submissions: 698
 accepted: 400
 solved_users: 312
-acceptance_rate: 61.782%
-collected_at: 2026-04-17T18:18:47.121149+00:00
+acceptance_rate: "61.782%"
+collected_at: "2026-04-17T18:18:47.121149+00:00"
 ---
 
 ## 문제

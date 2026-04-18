@@ -1,13 +1,13 @@
 ---
-title: 리오와 리쿠의 대난투
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "리오와 리쿠의 대난투"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 324
 accepted: 106
 solved_users: 102
-acceptance_rate: 35.417%
-collected_at: 2026-04-17T20:29:56.996103+00:00
+acceptance_rate: "35.417%"
+collected_at: "2026-04-17T20:29:56.996103+00:00"
 ---
 
 ## 문제

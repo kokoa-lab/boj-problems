@@ -1,13 +1,13 @@
 ---
-title: 재귀의 귀재
-special_judge: false
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "재귀의 귀재"
+special_judge: "false"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 38083
 accepted: 21178
 solved_users: 18317
-acceptance_rate: 56.637%
-collected_at: 2026-04-17T17:27:41.683734+00:00
+acceptance_rate: "56.637%"
+collected_at: "2026-04-17T17:27:41.683734+00:00"
 ---
 
 ## 문제

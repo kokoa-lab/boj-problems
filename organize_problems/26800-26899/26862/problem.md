@@ -1,13 +1,13 @@
 ---
-title: Maxdifficent Group
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Maxdifficent Group"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 57
 accepted: 49
 solved_users: 43
-acceptance_rate: 84.314%
-collected_at: 2026-04-17T17:52:25.463649+00:00
+acceptance_rate: "84.314%"
+collected_at: "2026-04-17T17:52:25.463649+00:00"
 ---
 
 ## 문제

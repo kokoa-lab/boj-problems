@@ -1,13 +1,13 @@
 ---
-title: Cutting a polygon
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Cutting a polygon"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 27
 accepted: 9
 solved_users: 8
-acceptance_rate: 50.000%
-collected_at: 2026-04-17T10:59:00.647626+00:00
+acceptance_rate: "50.000%"
+collected_at: "2026-04-17T10:59:00.647626+00:00"
 ---
 
 ## 문제

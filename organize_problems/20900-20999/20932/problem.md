@@ -1,13 +1,13 @@
 ---
-title: 약수 의식
-special_judge: true
-time_limit: 1.75 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "약수 의식"
+special_judge: "true"
+time_limit: "1.75 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 200
 accepted: 116
 solved_users: 90
-acceptance_rate: 65.217%
-collected_at: 2026-04-17T15:43:43.266016+00:00
+acceptance_rate: "65.217%"
+collected_at: "2026-04-17T15:43:43.266016+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Not One Bit More
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Not One Bit More"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 87
 accepted: 45
 solved_users: 40
-acceptance_rate: 57.143%
-collected_at: 2026-04-17T11:07:35.523569+00:00
+acceptance_rate: "57.143%"
+collected_at: "2026-04-17T11:07:35.523569+00:00"
 ---
 
 ## 문제

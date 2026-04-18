@@ -1,13 +1,13 @@
 ---
-title: 오타 자동 수정
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "오타 자동 수정"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 260
 accepted: 85
 solved_users: 48
-acceptance_rate: 32.215%
-collected_at: 2026-04-17T11:29:35.960888+00:00
+acceptance_rate: "32.215%"
+collected_at: "2026-04-17T11:29:35.960888+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 뱀파이어 숫자
-special_judge: false
-time_limit: 10 초
-memory_limit: 128 MB
+title: "뱀파이어 숫자"
+special_judge: "false"
+time_limit: "10 초"
+memory_limit: "128 MB"
 submissions: 451
 accepted: 156
 solved_users: 116
-acceptance_rate: 39.057%
-collected_at: 2026-04-17T10:55:47.177426+00:00
+acceptance_rate: "39.057%"
+collected_at: "2026-04-17T10:55:47.177426+00:00"
 ---
 
 ## 문제

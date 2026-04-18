@@ -1,13 +1,13 @@
 ---
-title: Olivander
-special_judge: false
-time_limit: 1 초
-memory_limit: 64 MB
+title: "Olivander"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "64 MB"
 submissions: 277
 accepted: 239
 solved_users: 218
-acceptance_rate: 88.980%
-collected_at: 2026-04-17T13:58:02.593126+00:00
+acceptance_rate: "88.980%"
+collected_at: "2026-04-17T13:58:02.593126+00:00"
 ---
 
 ## 문제

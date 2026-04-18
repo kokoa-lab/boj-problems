@@ -1,13 +1,13 @@
 ---
-title: Social running
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Social running"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 81
 accepted: 67
 solved_users: 54
-acceptance_rate: 79.412%
-collected_at: 2026-04-17T15:40:43.286466+00:00
+acceptance_rate: "79.412%"
+collected_at: "2026-04-17T15:40:43.286466+00:00"
 ---
 
 ## 문제

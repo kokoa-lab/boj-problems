@@ -1,13 +1,13 @@
 ---
-title: 다면체
-special_judge: false
-time_limit: 5 초
-memory_limit: 256 MB
+title: "다면체"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "256 MB"
 submissions: 10002
 accepted: 8758
 solved_users: 8368
-acceptance_rate: 88.112%
-collected_at: 2026-04-17T12:25:50.459171+00:00
+acceptance_rate: "88.112%"
+collected_at: "2026-04-17T12:25:50.459171+00:00"
 ---
 
 ## 문제

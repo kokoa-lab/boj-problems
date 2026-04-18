@@ -1,13 +1,13 @@
 ---
-title: Edge Coloring
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "Edge Coloring"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 236
 accepted: 85
 solved_users: 71
-acceptance_rate: 45.223%
-collected_at: 2026-04-17T14:08:02.339610+00:00
+acceptance_rate: "45.223%"
+collected_at: "2026-04-17T14:08:02.339610+00:00"
 ---
 
 ## 문제

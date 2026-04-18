@@ -1,13 +1,13 @@
 ---
-title: ビ太郎と IOI (Bitaro and IOI)
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "ビ太郎と IOI (Bitaro and IOI)"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 247
 accepted: 176
 solved_users: 162
-acceptance_rate: 70.435%
-collected_at: 2026-04-17T17:03:14.529288+00:00
+acceptance_rate: "70.435%"
+collected_at: "2026-04-17T17:03:14.529288+00:00"
 ---
 
 ## 문제

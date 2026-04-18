@@ -1,13 +1,13 @@
 ---
-title: Partioning Number (Small)
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Partioning Number (Small)"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 48
 accepted: 28
 solved_users: 21
-acceptance_rate: 63.636%
-collected_at: 2026-04-17T13:29:38.238383+00:00
+acceptance_rate: "63.636%"
+collected_at: "2026-04-17T13:29:38.238383+00:00"
 ---
 
 ## 문제

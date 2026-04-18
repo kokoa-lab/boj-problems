@@ -1,13 +1,13 @@
 ---
-title: Andrew’s Amazing Architecture
-special_judge: false
-time_limit: 3 초
-memory_limit: 512 MB
+title: "Andrew’s Amazing Architecture"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "512 MB"
 submissions: 39
 accepted: 22
 solved_users: 22
-acceptance_rate: 56.410%
-collected_at: 2026-04-17T14:11:24.755628+00:00
+acceptance_rate: "56.410%"
+collected_at: "2026-04-17T14:11:24.755628+00:00"
 ---
 
 ## 문제

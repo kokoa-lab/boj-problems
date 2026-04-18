@@ -1,13 +1,13 @@
 ---
-title: 반복되는 부분 문자열
-special_judge: false
-time_limit: 5 초
-memory_limit: 256 MB
+title: "반복되는 부분 문자열"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "256 MB"
 submissions: 839
 accepted: 447
 solved_users: 320
-acceptance_rate: 58.501%
-collected_at: 2026-04-17T12:23:19.250578+00:00
+acceptance_rate: "58.501%"
+collected_at: "2026-04-17T12:23:19.250578+00:00"
 ---
 
 ## 문제

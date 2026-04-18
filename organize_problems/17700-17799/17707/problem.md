@@ -1,13 +1,13 @@
 ---
-title: Employment
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Employment"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 167
 accepted: 72
 solved_users: 58
-acceptance_rate: 46.032%
-collected_at: 2026-04-17T14:46:00.609811+00:00
+acceptance_rate: "46.032%"
+collected_at: "2026-04-17T14:46:00.609811+00:00"
 ---
 
 ## 문제

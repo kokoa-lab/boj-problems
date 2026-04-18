@@ -1,13 +1,13 @@
 ---
-title: Brexit
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Brexit"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 294
 accepted: 177
 solved_users: 143
-acceptance_rate: 60.851%
-collected_at: 2026-04-17T13:13:29.231632+00:00
+acceptance_rate: "60.851%"
+collected_at: "2026-04-17T13:13:29.231632+00:00"
 ---
 
 ## 문제

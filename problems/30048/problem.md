@@ -1,13 +1,13 @@
 ---
-title: 함수 문자열이 너무 많아!!
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "함수 문자열이 너무 많아!!"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 100
 accepted: 53
 solved_users: 50
-acceptance_rate: 58.140%
-collected_at: 2026-04-17T18:58:04.533319+00:00
+acceptance_rate: "58.140%"
+collected_at: "2026-04-17T18:58:04.533319+00:00"
 ---
 
 ## 문제

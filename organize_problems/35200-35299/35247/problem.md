@@ -1,13 +1,13 @@
 ---
-title: Itsy Bits
-special_judge: false
-time_limit: 1 초
-memory_limit: 2048 MB
+title: "Itsy Bits"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "2048 MB"
 submissions: 195
 accepted: 119
 solved_users: 110
-acceptance_rate: 61.798%
-collected_at: 2026-04-17T20:58:49.581681+00:00
+acceptance_rate: "61.798%"
+collected_at: "2026-04-17T20:58:49.581681+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: DRM Messages
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "DRM Messages"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 251
 accepted: 216
 solved_users: 173
-acceptance_rate: 85.644%
-collected_at: 2026-04-17T13:50:19.104759+00:00
+acceptance_rate: "85.644%"
+collected_at: "2026-04-17T13:50:19.104759+00:00"
 ---
 
 ## 문제

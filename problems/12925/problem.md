@@ -1,13 +1,13 @@
 ---
-title: Numbers
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Numbers"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 1239
 accepted: 667
 solved_users: 567
-acceptance_rate: 65.930%
-collected_at: 2026-04-17T13:04:07.134291+00:00
+acceptance_rate: "65.930%"
+collected_at: "2026-04-17T13:04:07.134291+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 신성 문자
-special_judge: false
-time_limit: 1 초
-memory_limit: 192 MB
+title: "신성 문자"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "192 MB"
 submissions: 973
 accepted: 290
 solved_users: 206
-acceptance_rate: 24.909%
-collected_at: 2026-04-17T10:57:26.878466+00:00
+acceptance_rate: "24.909%"
+collected_at: "2026-04-17T10:57:26.878466+00:00"
 ---
 
 ## 문제

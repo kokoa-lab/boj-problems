@@ -1,13 +1,13 @@
 ---
-title: どら焼き (Dorayaki)
-special_judge: false
-time_limit: 2 초
-memory_limit: 2048 MB
+title: "どら焼き (Dorayaki)"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "2048 MB"
 submissions: 271
 accepted: 233
 solved_users: 217
-acceptance_rate: 86.800%
-collected_at: 2026-04-17T20:10:31.248415+00:00
+acceptance_rate: "86.800%"
+collected_at: "2026-04-17T20:10:31.248415+00:00"
 ---
 
 ## 문제

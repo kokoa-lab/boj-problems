@@ -1,13 +1,13 @@
 ---
-title: Liczenie punktów
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Liczenie punktów"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 339
 accepted: 233
 solved_users: 216
-acceptance_rate: 69.231%
-collected_at: 2026-04-17T17:50:24.447426+00:00
+acceptance_rate: "69.231%"
+collected_at: "2026-04-17T17:50:24.447426+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Skyscrapers
-special_judge: false
-time_limit: 6 초
-memory_limit: 512 MB
+title: "Skyscrapers"
+special_judge: "false"
+time_limit: "6 초"
+memory_limit: "512 MB"
 submissions: 118
 accepted: 41
 solved_users: 32
-acceptance_rate: 38.095%
-collected_at: 2026-04-17T12:10:23.545323+00:00
+acceptance_rate: "38.095%"
+collected_at: "2026-04-17T12:10:23.545323+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 최솟값
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "최솟값"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 24139
 accepted: 12666
 solved_users: 9420
-acceptance_rate: 56.001%
-collected_at: 2026-04-17T12:30:43.805566+00:00
+acceptance_rate: "56.001%"
+collected_at: "2026-04-17T12:30:43.805566+00:00"
 ---
 
 ## 문제

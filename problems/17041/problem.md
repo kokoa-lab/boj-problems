@@ -1,13 +1,13 @@
 ---
-title: Measuring Traffic
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Measuring Traffic"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 783
 accepted: 248
 solved_users: 229
-acceptance_rate: 35.559%
-collected_at: 2026-04-17T14:28:20.851590+00:00
+acceptance_rate: "35.559%"
+collected_at: "2026-04-17T14:28:20.851590+00:00"
 ---
 
 ## 문제

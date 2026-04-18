@@ -1,13 +1,13 @@
 ---
-title: 자율 주행 프로그램 개발
-special_judge: true
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "자율 주행 프로그램 개발"
+special_judge: "true"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 261
 accepted: 65
 solved_users: 29
-acceptance_rate: 14.948%
-collected_at: 2026-04-17T20:30:23.032032+00:00
+acceptance_rate: "14.948%"
+collected_at: "2026-04-17T20:30:23.032032+00:00"
 ---
 
 ## 문제

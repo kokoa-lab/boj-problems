@@ -1,13 +1,13 @@
 ---
-title: 스택 재정렬
-special_judge: true
-time_limit: 3 초
-memory_limit: 1024 MB
+title: "스택 재정렬"
+special_judge: "true"
+time_limit: "3 초"
+memory_limit: "1024 MB"
 submissions: 49
 accepted: 11
 solved_users: 8
-acceptance_rate: 29.630%
-collected_at: 2026-04-17T17:37:57.336354+00:00
+acceptance_rate: "29.630%"
+collected_at: "2026-04-17T17:37:57.336354+00:00"
 ---
 
 ## 문제

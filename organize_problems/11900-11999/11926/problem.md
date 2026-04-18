@@ -1,13 +1,13 @@
 ---
-title: KRUMPIRKO
-special_judge: false
-time_limit: 1 초
-memory_limit: 64 MB
+title: "KRUMPIRKO"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "64 MB"
 submissions: 55
 accepted: 19
 solved_users: 18
-acceptance_rate: 35.294%
-collected_at: 2026-04-17T12:47:45.940516+00:00
+acceptance_rate: "35.294%"
+collected_at: "2026-04-17T12:47:45.940516+00:00"
 ---
 
 ## 문제

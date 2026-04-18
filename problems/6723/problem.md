@@ -1,13 +1,13 @@
 ---
-title: Tournament ranking
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Tournament ranking"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 22
 accepted: 16
 solved_users: 11
-acceptance_rate: 73.333%
-collected_at: 2026-04-17T11:34:42.273725+00:00
+acceptance_rate: "73.333%"
+collected_at: "2026-04-17T11:34:42.273725+00:00"
 ---
 
 ## 문제

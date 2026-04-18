@@ -1,13 +1,13 @@
 ---
-title: 같이 눈사람 만들래?
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "같이 눈사람 만들래?"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 8606
 accepted: 3100
 solved_users: 2192
-acceptance_rate: 33.937%
-collected_at: 2026-04-17T15:35:35.680462+00:00
+acceptance_rate: "33.937%"
+collected_at: "2026-04-17T15:35:35.680462+00:00"
 ---
 
 ## 문제

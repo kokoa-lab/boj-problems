@@ -1,13 +1,13 @@
 ---
-title: 자리 배치
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "자리 배치"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 1363
 accepted: 520
 solved_users: 428
-acceptance_rate: 43.058%
-collected_at: 2026-04-17T10:40:26.350334+00:00
+acceptance_rate: "43.058%"
+collected_at: "2026-04-17T10:40:26.350334+00:00"
 ---
 
 ## 문제

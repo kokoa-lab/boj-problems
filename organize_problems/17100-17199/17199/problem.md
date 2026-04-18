@@ -1,13 +1,13 @@
 ---
-title: Milk Factory
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Milk Factory"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 1211
 accepted: 666
 solved_users: 552
-acceptance_rate: 54.331%
-collected_at: 2026-04-17T14:32:53.861934+00:00
+acceptance_rate: "54.331%"
+collected_at: "2026-04-17T14:32:53.861934+00:00"
 ---
 
 ## 문제

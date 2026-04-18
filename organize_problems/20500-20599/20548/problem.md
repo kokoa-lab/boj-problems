@@ -1,13 +1,13 @@
 ---
-title: 칠리소스
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "칠리소스"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 838
 accepted: 305
 solved_users: 266
-acceptance_rate: 38.719%
-collected_at: 2026-04-17T15:37:49.360956+00:00
+acceptance_rate: "38.719%"
+collected_at: "2026-04-17T15:37:49.360956+00:00"
 ---
 
 ## 문제

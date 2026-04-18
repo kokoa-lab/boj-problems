@@ -1,13 +1,13 @@
 ---
-title: Identity Function
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Identity Function"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 93
 accepted: 44
 solved_users: 35
-acceptance_rate: 47.945%
-collected_at: 2026-04-17T14:24:25.938654+00:00
+acceptance_rate: "47.945%"
+collected_at: "2026-04-17T14:24:25.938654+00:00"
 ---
 
 ## 문제

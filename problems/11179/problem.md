@@ -1,13 +1,13 @@
 ---
-title: 2진수 뒤집기
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "2진수 뒤집기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 3239
 accepted: 2634
 solved_users: 2424
-acceptance_rate: 83.014%
-collected_at: 2026-04-17T12:37:41.526069+00:00
+acceptance_rate: "83.014%"
+collected_at: "2026-04-17T12:37:41.526069+00:00"
 ---
 
 ## 문제

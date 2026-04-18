@@ -1,13 +1,13 @@
 ---
-title: One-Way Streets
-special_judge: false
-time_limit: 3 초
-memory_limit: 256 MB
+title: "One-Way Streets"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "256 MB"
 submissions: 154
 accepted: 41
 solved_users: 35
-acceptance_rate: 26.718%
-collected_at: 2026-04-17T13:55:54.972259+00:00
+acceptance_rate: "26.718%"
+collected_at: "2026-04-17T13:55:54.972259+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Baaaaaaaaaduk2 (Hard)
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Baaaaaaaaaduk2 (Hard)"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 885
 accepted: 206
 solved_users: 125
-acceptance_rate: 26.882%
-collected_at: 2026-04-17T14:27:11.818543+00:00
+acceptance_rate: "26.882%"
+collected_at: "2026-04-17T14:27:11.818543+00:00"
 ---
 
 ## 문제

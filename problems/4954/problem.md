@@ -1,13 +1,13 @@
 ---
-title: A Broken Door
-special_judge: false
-time_limit: 3 초
-memory_limit: 128 MB
+title: "A Broken Door"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "128 MB"
 submissions: 12
 accepted: 11
 solved_users: 8
-acceptance_rate: 88.889%
-collected_at: 2026-04-17T11:10:20.194144+00:00
+acceptance_rate: "88.889%"
+collected_at: "2026-04-17T11:10:20.194144+00:00"
 ---
 
 ## 문제

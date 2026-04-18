@@ -1,13 +1,13 @@
 ---
-title: 대소문자 바꾸기
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "대소문자 바꾸기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 47634
 accepted: 35319
 solved_users: 31895
-acceptance_rate: 75.086%
-collected_at: 2026-04-17T10:44:32.013597+00:00
+acceptance_rate: "75.086%"
+collected_at: "2026-04-17T10:44:32.013597+00:00"
 ---
 
 ## 문제

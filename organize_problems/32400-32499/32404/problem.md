@@ -1,13 +1,13 @@
 ---
-title: 일이 커졌어
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "일이 커졌어"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 571
 accepted: 283
 solved_users: 243
-acceptance_rate: 51.592%
-collected_at: 2026-04-17T19:50:24.585189+00:00
+acceptance_rate: "51.592%"
+collected_at: "2026-04-17T19:50:24.585189+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Keep Him Inside
-special_judge: true
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Keep Him Inside"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 235
 accepted: 72
 solved_users: 62
-acceptance_rate: 33.514%
-collected_at: 2026-04-17T14:47:12.545326+00:00
+acceptance_rate: "33.514%"
+collected_at: "2026-04-17T14:47:12.545326+00:00"
 ---
 
 ## 문제

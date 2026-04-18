@@ -1,13 +1,13 @@
 ---
-title: Equal Sums (Large)
-special_judge: true
-time_limit: 20 초
-memory_limit: 512 MB
+title: "Equal Sums (Large)"
+special_judge: "true"
+time_limit: "20 초"
+memory_limit: "512 MB"
 submissions: 362
 accepted: 52
 solved_users: 27
-acceptance_rate: 11.538%
-collected_at: 2026-04-17T12:54:41.226854+00:00
+acceptance_rate: "11.538%"
+collected_at: "2026-04-17T12:54:41.226854+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: OZLJEDA
-special_judge: false
-time_limit: 1 초
-memory_limit: 64 MB
+title: "OZLJEDA"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "64 MB"
 submissions: 191
 accepted: 82
 solved_users: 67
-acceptance_rate: 38.953%
-collected_at: 2026-04-17T12:48:10.673621+00:00
+acceptance_rate: "38.953%"
+collected_at: "2026-04-17T12:48:10.673621+00:00"
 ---
 
 ## 문제

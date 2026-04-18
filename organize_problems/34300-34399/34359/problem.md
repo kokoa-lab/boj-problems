@@ -1,13 +1,13 @@
 ---
-title: Currents
-special_judge: false
-time_limit: 3 초
-memory_limit: 2048 MB
+title: "Currents"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "2048 MB"
 submissions: 15
 accepted: 8
 solved_users: 8
-acceptance_rate: 53.333%
-collected_at: 2026-04-17T20:36:27.975394+00:00
+acceptance_rate: "53.333%"
+collected_at: "2026-04-17T20:36:27.975394+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 수열과 시프트 쿼리
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "수열과 시프트 쿼리"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 2339
 accepted: 948
 solved_users: 779
-acceptance_rate: 40.807%
-collected_at: 2026-04-17T14:40:39.062431+00:00
+acceptance_rate: "40.807%"
+collected_at: "2026-04-17T14:40:39.062431+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: $N-1$ Truths and a Lie
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "$N-1$ Truths and a Lie"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 52
 accepted: 25
 solved_users: 13
-acceptance_rate: 37.143%
-collected_at: 2026-04-17T17:46:13.168353+00:00
+acceptance_rate: "37.143%"
+collected_at: "2026-04-17T17:46:13.168353+00:00"
 ---
 
 ## 문제

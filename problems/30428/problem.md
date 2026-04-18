@@ -1,13 +1,13 @@
 ---
-title: Reversal
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Reversal"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 130
 accepted: 44
 solved_users: 37
-acceptance_rate: 35.238%
-collected_at: 2026-04-17T19:06:29.273190+00:00
+acceptance_rate: "35.238%"
+collected_at: "2026-04-17T19:06:29.273190+00:00"
 ---
 
 ## 문제

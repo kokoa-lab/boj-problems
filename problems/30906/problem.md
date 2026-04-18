@@ -1,13 +1,13 @@
 ---
-title: Isolated Island
-special_judge: false
-time_limit: 8 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Isolated Island"
+special_judge: "false"
+time_limit: "8 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 129
 accepted: 67
 solved_users: 48
-acceptance_rate: 59.259%
-collected_at: 2026-04-17T19:17:48.558545+00:00
+acceptance_rate: "59.259%"
+collected_at: "2026-04-17T19:17:48.558545+00:00"
 ---
 
 ## 문제

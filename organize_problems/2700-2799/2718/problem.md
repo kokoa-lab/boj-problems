@@ -1,13 +1,13 @@
 ---
-title: 타일 채우기
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "타일 채우기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 3337
 accepted: 2165
 solved_users: 1646
-acceptance_rate: 66.992%
-collected_at: 2026-04-17T10:44:13.671029+00:00
+acceptance_rate: "66.992%"
+collected_at: "2026-04-17T10:44:13.671029+00:00"
 ---
 
 ## 문제

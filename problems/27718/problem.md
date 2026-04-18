@@ -1,13 +1,13 @@
 ---
-title: 선분 교차 EX
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "선분 교차 EX"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 1432
 accepted: 424
 solved_users: 230
-acceptance_rate: 24.520%
-collected_at: 2026-04-17T18:09:32.087111+00:00
+acceptance_rate: "24.520%"
+collected_at: "2026-04-17T18:09:32.087111+00:00"
 ---
 
 ## 문제

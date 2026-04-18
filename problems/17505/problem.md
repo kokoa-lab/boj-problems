@@ -1,13 +1,13 @@
 ---
-title: 링고와 순열
-special_judge: true
-time_limit: 1 초
-memory_limit: 256 MB
+title: "링고와 순열"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 835
 accepted: 411
 solved_users: 346
-acceptance_rate: 49.288%
-collected_at: 2026-04-17T14:40:46.568763+00:00
+acceptance_rate: "49.288%"
+collected_at: "2026-04-17T14:40:46.568763+00:00"
 ---
 
 ## 문제

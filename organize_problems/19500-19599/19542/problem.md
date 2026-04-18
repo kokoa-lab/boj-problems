@@ -1,13 +1,13 @@
 ---
-title: 전단지 돌리기
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "전단지 돌리기"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 3139
 accepted: 1247
 solved_users: 919
-acceptance_rate: 40.044%
-collected_at: 2026-04-17T15:22:31.427597+00:00
+acceptance_rate: "40.044%"
+collected_at: "2026-04-17T15:22:31.427597+00:00"
 ---
 
 ## 문제

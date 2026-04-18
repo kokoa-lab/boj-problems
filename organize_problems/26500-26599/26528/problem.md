@@ -1,13 +1,13 @@
 ---
-title: 이항분포에서 가장 큰 직사각형
-special_judge: true
-time_limit: 1.5 초
-memory_limit: 1024 MB
+title: "이항분포에서 가장 큰 직사각형"
+special_judge: "true"
+time_limit: "1.5 초"
+memory_limit: "1024 MB"
 submissions: 143
 accepted: 19
 solved_users: 13
-acceptance_rate: 25.490%
-collected_at: 2026-04-17T17:47:16.864881+00:00
+acceptance_rate: "25.490%"
+collected_at: "2026-04-17T17:47:16.864881+00:00"
 ---
 
 ## 문제

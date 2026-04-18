@@ -1,13 +1,13 @@
 ---
-title: 수열의 장인
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "수열의 장인"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 1970
 accepted: 358
 solved_users: 278
-acceptance_rate: 19.199%
-collected_at: 2026-04-18T09:49:44.994343+00:00
+acceptance_rate: "19.199%"
+collected_at: "2026-04-18T09:49:44.994343+00:00"
 ---
 
 ## 문제

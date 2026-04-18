@@ -1,13 +1,13 @@
 ---
-title: Grand Opening
-special_judge: false
-time_limit: 1 초
-memory_limit: 2048 MB
+title: "Grand Opening"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "2048 MB"
 submissions: 51
 accepted: 39
 solved_users: 19
-acceptance_rate: 79.167%
-collected_at: 2026-04-17T20:18:50.372467+00:00
+acceptance_rate: "79.167%"
+collected_at: "2026-04-17T20:18:50.372467+00:00"
 ---
 
 ## 문제

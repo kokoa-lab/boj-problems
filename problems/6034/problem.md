@@ -1,13 +1,13 @@
 ---
-title: Barn Allocation
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "Barn Allocation"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 25
 accepted: 16
 solved_users: 14
-acceptance_rate: 70.000%
-collected_at: 2026-04-17T11:19:36.008797+00:00
+acceptance_rate: "70.000%"
+collected_at: "2026-04-17T11:19:36.008797+00:00"
 ---
 
 ## 문제

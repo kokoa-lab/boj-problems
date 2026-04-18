@@ -1,13 +1,13 @@
 ---
-title: shapex
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "shapex"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 743
 accepted: 144
 solved_users: 121
-acceptance_rate: 19.548%
-collected_at: 2026-04-17T20:18:59.339551+00:00
+acceptance_rate: "19.548%"
+collected_at: "2026-04-17T20:18:59.339551+00:00"
 ---
 
 ## 문제

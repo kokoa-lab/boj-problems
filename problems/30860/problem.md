@@ -1,13 +1,13 @@
 ---
-title: Product Delivery
-special_judge: false
-time_limit: 1 초
-memory_limit: 2048 MB
+title: "Product Delivery"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "2048 MB"
 submissions: 474
 accepted: 253
 solved_users: 171
-acceptance_rate: 54.633%
-collected_at: 2026-04-17T19:16:59.451345+00:00
+acceptance_rate: "54.633%"
+collected_at: "2026-04-17T19:16:59.451345+00:00"
 ---
 
 ## 문제

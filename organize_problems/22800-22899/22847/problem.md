@@ -1,13 +1,13 @@
 ---
-title: 루미너스와 모험 중 마주친 퍼즐게임
-special_judge: true
-time_limit: 4 초
-memory_limit: 1024 MB
+title: "루미너스와 모험 중 마주친 퍼즐게임"
+special_judge: "true"
+time_limit: "4 초"
+memory_limit: "1024 MB"
 submissions: 74
 accepted: 9
 solved_users: 6
-acceptance_rate: 12.000%
-collected_at: 2026-04-17T16:37:22.176509+00:00
+acceptance_rate: "12.000%"
+collected_at: "2026-04-17T16:37:22.176509+00:00"
 ---
 
 ## 문제

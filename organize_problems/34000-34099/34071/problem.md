@@ -1,13 +1,13 @@
 ---
-title: 첫 번째 문제는 정말 쉬운 문제일까?
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "첫 번째 문제는 정말 쉬운 문제일까?"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 1333
 accepted: 1040
 solved_users: 973
-acceptance_rate: 78.090%
-collected_at: 2026-04-17T20:29:54.913852+00:00
+acceptance_rate: "78.090%"
+collected_at: "2026-04-17T20:29:54.913852+00:00"
 ---
 
 ## 문제

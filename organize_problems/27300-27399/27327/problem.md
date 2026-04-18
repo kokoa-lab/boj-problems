@@ -1,13 +1,13 @@
 ---
-title: 時間 (Hour)
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "時間 (Hour)"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 4014
 accepted: 3676
 solved_users: 3560
-acceptance_rate: 92.013%
-collected_at: 2026-04-17T18:00:56.042371+00:00
+acceptance_rate: "92.013%"
+collected_at: "2026-04-17T18:00:56.042371+00:00"
 ---
 
 ## 문제

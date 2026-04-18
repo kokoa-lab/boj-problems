@@ -1,13 +1,13 @@
 ---
-title: 디지털 루트
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "디지털 루트"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 7915
 accepted: 3596
 solved_users: 3258
-acceptance_rate: 48.096%
-collected_at: 2026-04-17T11:26:44.537955+00:00
+acceptance_rate: "48.096%"
+collected_at: "2026-04-17T11:26:44.537955+00:00"
 ---
 
 ## 문제

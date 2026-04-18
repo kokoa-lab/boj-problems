@@ -1,13 +1,13 @@
 ---
-title: Sumujący Jaś
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Sumujący Jaś"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 119
 accepted: 25
 solved_users: 19
-acceptance_rate: 17.757%
-collected_at: 2026-04-17T12:01:35.932188+00:00
+acceptance_rate: "17.757%"
+collected_at: "2026-04-17T12:01:35.932188+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 조옮김
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "조옮김"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 572
 accepted: 403
 solved_users: 349
-acceptance_rate: 73.474%
-collected_at: 2026-04-17T11:07:48.449831+00:00
+acceptance_rate: "73.474%"
+collected_at: "2026-04-17T11:07:48.449831+00:00"
 ---
 
 ## 문제

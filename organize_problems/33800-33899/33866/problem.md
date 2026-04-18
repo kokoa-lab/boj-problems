@@ -1,13 +1,13 @@
 ---
-title: Гонка дронов
-special_judge: false
-time_limit: 2 초
-memory_limit: 2048 MB
+title: "Гонка дронов"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "2048 MB"
 submissions: 69
 accepted: 5
 solved_users: 3
-acceptance_rate: 5.455%
-collected_at: 2026-04-17T20:25:11.557251+00:00
+acceptance_rate: "5.455%"
+collected_at: "2026-04-17T20:25:11.557251+00:00"
 ---
 
 ## 문제

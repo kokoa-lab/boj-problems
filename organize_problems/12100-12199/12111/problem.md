@@ -1,13 +1,13 @@
 ---
-title: Turnir
-special_judge: false
-time_limit: 3 초
-memory_limit: 64 MB
+title: "Turnir"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "64 MB"
 submissions: 110
 accepted: 72
 solved_users: 59
-acceptance_rate: 76.623%
-collected_at: 2026-04-17T12:50:20.888896+00:00
+acceptance_rate: "76.623%"
+collected_at: "2026-04-17T12:50:20.888896+00:00"
 ---
 
 ## 문제

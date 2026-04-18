@@ -1,13 +1,13 @@
 ---
-title: Software Company
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Software Company"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 11
 accepted: 7
 solved_users: 7
-acceptance_rate: 63.636%
-collected_at: 2026-04-17T11:35:26.223366+00:00
+acceptance_rate: "63.636%"
+collected_at: "2026-04-17T11:35:26.223366+00:00"
 ---
 
 ## 문제

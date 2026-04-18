@@ -1,13 +1,13 @@
 ---
-title: 연속 합
-special_judge: false
-time_limit: 5 초
-memory_limit: 256 MB
+title: "연속 합"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "256 MB"
 submissions: 924
 accepted: 221
 solved_users: 151
-acceptance_rate: 21.664%
-collected_at: 2026-04-17T11:16:16.532258+00:00
+acceptance_rate: "21.664%"
+collected_at: "2026-04-17T11:16:16.532258+00:00"
 ---
 
 ## 문제

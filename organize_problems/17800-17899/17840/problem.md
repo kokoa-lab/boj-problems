@@ -1,13 +1,13 @@
 ---
-title: 피보나치 음악
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "피보나치 음악"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 2270
 accepted: 482
 solved_users: 353
-acceptance_rate: 20.103%
-collected_at: 2026-04-17T14:48:16.828669+00:00
+acceptance_rate: "20.103%"
+collected_at: "2026-04-17T14:48:16.828669+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 시식 코너는 나의 것
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "시식 코너는 나의 것"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 1052
 accepted: 444
 solved_users: 356
-acceptance_rate: 42.130%
-collected_at: 2026-04-17T16:40:30.528950+00:00
+acceptance_rate: "42.130%"
+collected_at: "2026-04-17T16:40:30.528950+00:00"
 ---
 
 ## 문제

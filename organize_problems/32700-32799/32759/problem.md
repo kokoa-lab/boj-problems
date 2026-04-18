@@ -1,13 +1,13 @@
 ---
-title: 준근이와 마법 공방
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "준근이와 마법 공방"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 318
 accepted: 89
 solved_users: 72
-acceptance_rate: 28.916%
-collected_at: 2026-04-17T20:00:37.681666+00:00
+acceptance_rate: "28.916%"
+collected_at: "2026-04-17T20:00:37.681666+00:00"
 ---
 
 ## 문제

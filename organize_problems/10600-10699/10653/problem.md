@@ -1,13 +1,13 @@
 ---
-title: 마라톤 2
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "마라톤 2"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 2645
 accepted: 1023
 solved_users: 744
-acceptance_rate: 39.386%
-collected_at: 2026-04-17T12:26:54.284376+00:00
+acceptance_rate: "39.386%"
+collected_at: "2026-04-17T12:26:54.284376+00:00"
 ---
 
 ## 문제

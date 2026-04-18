@@ -1,13 +1,13 @@
 ---
-title: Collecting Stamps 3
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Collecting Stamps 3"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 227
 accepted: 102
 solved_users: 88
-acceptance_rate: 47.312%
-collected_at: 2026-04-17T15:04:37.298494+00:00
+acceptance_rate: "47.312%"
+collected_at: "2026-04-17T15:04:37.298494+00:00"
 ---
 
 ## 문제

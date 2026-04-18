@@ -1,13 +1,13 @@
 ---
-title: 집합의 표현
-special_judge: true
-time_limit: 2 초
-memory_limit: 128 MB
+title: "집합의 표현"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 133528
 accepted: 45083
 solved_users: 27544
-acceptance_rate: 29.795%
-collected_at: 2026-04-17T10:32:36.037827+00:00
+acceptance_rate: "29.795%"
+collected_at: "2026-04-17T10:32:36.037827+00:00"
 ---
 
 ## 문제

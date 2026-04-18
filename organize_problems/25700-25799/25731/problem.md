@@ -1,13 +1,13 @@
 ---
-title: Making Number
-special_judge: false
-time_limit: 1.5 초 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "Making Number"
+special_judge: "false"
+time_limit: "1.5 초 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 73
 accepted: 23
 solved_users: 21
-acceptance_rate: 36.207%
-collected_at: 2026-04-17T17:31:59.463675+00:00
+acceptance_rate: "36.207%"
+collected_at: "2026-04-17T17:31:59.463675+00:00"
 ---
 
 ## 문제

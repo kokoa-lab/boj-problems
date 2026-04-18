@@ -1,13 +1,13 @@
 ---
-title: Freight
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Freight"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 340
 accepted: 100
 solved_users: 60
-acceptance_rate: 25.862%
-collected_at: 2026-04-17T12:19:28.313158+00:00
+acceptance_rate: "25.862%"
+collected_at: "2026-04-17T12:19:28.313158+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 핑거 스냅
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "핑거 스냅"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 1813
 accepted: 813
 solved_users: 588
-acceptance_rate: 40.468%
-collected_at: 2026-04-17T14:38:29.701195+00:00
+acceptance_rate: "40.468%"
+collected_at: "2026-04-17T14:38:29.701195+00:00"
 ---
 
 ## 문제

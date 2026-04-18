@@ -1,13 +1,13 @@
 ---
-title: Zbiory 1
-special_judge: false
-time_limit: 20 초 (추가 시간 없음)
-memory_limit: 2048 MB
+title: "Zbiory 1"
+special_judge: "false"
+time_limit: "20 초 (추가 시간 없음)"
+memory_limit: "2048 MB"
 submissions: 17
 accepted: 6
 solved_users: 6
-acceptance_rate: 50.000%
-collected_at: 2026-04-17T20:24:06.575527+00:00
+acceptance_rate: "50.000%"
+collected_at: "2026-04-17T20:24:06.575527+00:00"
 ---
 
 ## 문제

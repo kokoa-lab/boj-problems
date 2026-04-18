@@ -1,13 +1,13 @@
 ---
-title: Going Dutch
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Going Dutch"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 165
 accepted: 61
 solved_users: 52
-acceptance_rate: 36.364%
-collected_at: 2026-04-17T13:48:06.489478+00:00
+acceptance_rate: "36.364%"
+collected_at: "2026-04-17T13:48:06.489478+00:00"
 ---
 
 ## 문제

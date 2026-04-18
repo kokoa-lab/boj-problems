@@ -1,13 +1,13 @@
 ---
-title: Game
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Game"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 262
 accepted: 97
 solved_users: 92
-acceptance_rate: 38.819%
-collected_at: 2026-04-17T16:01:46.607243+00:00
+acceptance_rate: "38.819%"
+collected_at: "2026-04-17T16:01:46.607243+00:00"
 ---
 
 ## 문제

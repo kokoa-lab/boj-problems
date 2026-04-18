@@ -1,13 +1,13 @@
 ---
-title: 사분면 고르기
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "사분면 고르기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 360678
 accepted: 218037
 solved_users: 186439
-acceptance_rate: 60.981%
-collected_at: 2026-04-17T13:40:15.649897+00:00
+acceptance_rate: "60.981%"
+collected_at: "2026-04-17T13:40:15.649897+00:00"
 ---
 
 ## 문제

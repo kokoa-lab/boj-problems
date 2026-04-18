@@ -1,13 +1,13 @@
 ---
-title: Who Goes There?
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Who Goes There?"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 267
 accepted: 117
 solved_users: 104
-acceptance_rate: 44.828%
-collected_at: 2026-04-17T17:11:59.547235+00:00
+acceptance_rate: "44.828%"
+collected_at: "2026-04-17T17:11:59.547235+00:00"
 ---
 
 ## 문제

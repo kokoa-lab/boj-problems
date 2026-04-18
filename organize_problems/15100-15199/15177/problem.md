@@ -1,13 +1,13 @@
 ---
-title: Kiwis vs Kangaroos
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Kiwis vs Kangaroos"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 225
 accepted: 170
 solved_users: 141
-acceptance_rate: 76.630%
-collected_at: 2026-04-17T13:53:44.922194+00:00
+acceptance_rate: "76.630%"
+collected_at: "2026-04-17T13:53:44.922194+00:00"
 ---
 
 ## 문제

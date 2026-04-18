@@ -1,13 +1,13 @@
 ---
-title: Locust Locus
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Locust Locus"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 207
 accepted: 167
 solved_users: 155
-acceptance_rate: 83.333%
-collected_at: 2026-04-17T16:45:26.360100+00:00
+acceptance_rate: "83.333%"
+collected_at: "2026-04-17T16:45:26.360100+00:00"
 ---
 
 ## 문제

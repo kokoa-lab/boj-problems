@@ -1,13 +1,13 @@
 ---
-title: 강강술래
-special_judge: true
-time_limit: 2 초
-memory_limit: 128 MB
+title: "강강술래"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 224
 accepted: 76
 solved_users: 54
-acceptance_rate: 47.788%
-collected_at: 2026-04-17T10:31:37.974681+00:00
+acceptance_rate: "47.788%"
+collected_at: "2026-04-17T10:31:37.974681+00:00"
 ---
 
 ## 문제

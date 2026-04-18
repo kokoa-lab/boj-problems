@@ -1,13 +1,13 @@
 ---
-title: 막대기
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "막대기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 2236
 accepted: 789
 solved_users: 612
-acceptance_rate: 38.131%
-collected_at: 2026-04-17T12:05:47.907456+00:00
+acceptance_rate: "38.131%"
+collected_at: "2026-04-17T12:05:47.907456+00:00"
 ---
 
 ## 문제

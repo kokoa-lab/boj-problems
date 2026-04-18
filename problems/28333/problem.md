@@ -1,13 +1,13 @@
 ---
-title: 화이트 칼라
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "화이트 칼라"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 412
 accepted: 112
 solved_users: 91
-acceptance_rate: 31.707%
-collected_at: 2026-04-17T18:23:23.105303+00:00
+acceptance_rate: "31.707%"
+collected_at: "2026-04-17T18:23:23.105303+00:00"
 ---
 
 ## 문제

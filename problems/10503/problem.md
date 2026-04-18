@@ -1,13 +1,13 @@
 ---
-title: Mountainous landscape
-special_judge: false
-time_limit: 10 초
-memory_limit: 256 MB
+title: "Mountainous landscape"
+special_judge: "false"
+time_limit: "10 초"
+memory_limit: "256 MB"
 submissions: 65
 accepted: 35
 solved_users: 23
-acceptance_rate: 56.098%
-collected_at: 2026-04-17T12:24:40.990592+00:00
+acceptance_rate: "56.098%"
+collected_at: "2026-04-17T12:24:40.990592+00:00"
 ---
 
 ## 문제

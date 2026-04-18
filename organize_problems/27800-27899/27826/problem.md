@@ -1,13 +1,13 @@
 ---
-title: Slide Parade
-special_judge: true
-time_limit: 서브태스크 참고 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Slide Parade"
+special_judge: "true"
+time_limit: "서브태스크 참고 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 0
 accepted: 0
 solved_users: 0
-acceptance_rate: 0.000%
-collected_at: 2026-04-17T18:12:07.094950+00:00
+acceptance_rate: "0.000%"
+collected_at: "2026-04-17T18:12:07.094950+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 궁핍한 모그
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "궁핍한 모그"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 415
 accepted: 316
 solved_users: 286
-acceptance_rate: 80.112%
-collected_at: 2026-04-17T20:42:54.193533+00:00
+acceptance_rate: "80.112%"
+collected_at: "2026-04-17T20:42:54.193533+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 자동 광고 배치 시스템
-special_judge: false
-time_limit: 5 초 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "자동 광고 배치 시스템"
+special_judge: "false"
+time_limit: "5 초 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 83
 accepted: 47
 solved_users: 38
-acceptance_rate: 60.317%
-collected_at: 2026-04-17T20:30:27.444978+00:00
+acceptance_rate: "60.317%"
+collected_at: "2026-04-17T20:30:27.444978+00:00"
 ---
 
 ## 문제

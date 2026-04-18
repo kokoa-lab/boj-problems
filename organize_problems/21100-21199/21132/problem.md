@@ -1,13 +1,13 @@
 ---
-title: Best Solution Unknown
-special_judge: false
-time_limit: 3 초
-memory_limit: 512 MB
+title: "Best Solution Unknown"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "512 MB"
 submissions: 100
 accepted: 57
 solved_users: 47
-acceptance_rate: 56.627%
-collected_at: 2026-04-17T15:48:41.272389+00:00
+acceptance_rate: "56.627%"
+collected_at: "2026-04-17T15:48:41.272389+00:00"
 ---
 
 ## 문제

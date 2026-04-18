@@ -1,13 +1,13 @@
 ---
-title: 민호와 강호
-special_judge: true
-time_limit: 1 초
-memory_limit: 256 MB
+title: "민호와 강호"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 2682
 accepted: 1369
 solved_users: 974
-acceptance_rate: 51.947%
-collected_at: 2026-04-17T12:43:42.272715+00:00
+acceptance_rate: "51.947%"
+collected_at: "2026-04-17T12:43:42.272715+00:00"
 ---
 
 ## 문제

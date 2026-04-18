@@ -1,13 +1,13 @@
 ---
-title: Hard Cuts
-special_judge: true
-time_limit: 2 초
-memory_limit: 256 MB
+title: "Hard Cuts"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 67
 accepted: 15
 solved_users: 14
-acceptance_rate: 27.451%
-collected_at: 2026-04-17T13:13:52.133197+00:00
+acceptance_rate: "27.451%"
+collected_at: "2026-04-17T13:13:52.133197+00:00"
 ---
 
 ## 문제

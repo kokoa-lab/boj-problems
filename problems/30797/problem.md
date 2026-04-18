@@ -1,13 +1,13 @@
 ---
-title: 가희와 여행가요
-special_judge: false
-time_limit: 1.5 초
-memory_limit: 512 MB
+title: "가희와 여행가요"
+special_judge: "false"
+time_limit: "1.5 초"
+memory_limit: "512 MB"
 submissions: 587
 accepted: 217
 solved_users: 181
-acceptance_rate: 37.397%
-collected_at: 2026-04-17T19:15:49.537812+00:00
+acceptance_rate: "37.397%"
+collected_at: "2026-04-17T19:15:49.537812+00:00"
 ---
 
 ## 문제

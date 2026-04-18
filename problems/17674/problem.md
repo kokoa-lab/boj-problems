@@ -1,13 +1,13 @@
 ---
-title: 특별관광도시
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "특별관광도시"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 142
 accepted: 51
 solved_users: 42
-acceptance_rate: 36.842%
-collected_at: 2026-04-17T14:45:02.242618+00:00
+acceptance_rate: "36.842%"
+collected_at: "2026-04-17T14:45:02.242618+00:00"
 ---
 
 ## 문제

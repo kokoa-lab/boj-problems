@@ -1,13 +1,13 @@
 ---
-title: 트리 노드 합의 최댓값
-special_judge: false
-time_limit: 3 초
-memory_limit: 512 MB
+title: "트리 노드 합의 최댓값"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "512 MB"
 submissions: 1064
 accepted: 513
 solved_users: 379
-acceptance_rate: 44.484%
-collected_at: 2026-04-17T17:27:52.449487+00:00
+acceptance_rate: "44.484%"
+collected_at: "2026-04-17T17:27:52.449487+00:00"
 ---
 
 ## 문제

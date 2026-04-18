@@ -1,13 +1,13 @@
 ---
-title: Оптимизация закупок
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Оптимизация закупок"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 71
 accepted: 24
 solved_users: 22
-acceptance_rate: 37.288%
-collected_at: 2026-04-17T17:57:36.578655+00:00
+acceptance_rate: "37.288%"
+collected_at: "2026-04-17T17:57:36.578655+00:00"
 ---
 
 ## 문제

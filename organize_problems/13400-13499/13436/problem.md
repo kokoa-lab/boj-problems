@@ -1,13 +1,13 @@
 ---
-title: 정다각형 선분
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "정다각형 선분"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 59
 accepted: 22
 solved_users: 16
-acceptance_rate: 39.024%
-collected_at: 2026-04-17T13:13:08.889121+00:00
+acceptance_rate: "39.024%"
+collected_at: "2026-04-17T13:13:08.889121+00:00"
 ---
 
 ## 문제

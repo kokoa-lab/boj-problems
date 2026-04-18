@@ -1,13 +1,13 @@
 ---
-title: １０歳の動的計画
-special_judge: false
-time_limit: 8 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "１０歳の動的計画"
+special_judge: "false"
+time_limit: "8 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 11
 accepted: 10
 solved_users: 7
-acceptance_rate: 87.500%
-collected_at: 2026-04-17T16:26:13.451187+00:00
+acceptance_rate: "87.500%"
+collected_at: "2026-04-17T16:26:13.451187+00:00"
 ---
 
 ## 문제

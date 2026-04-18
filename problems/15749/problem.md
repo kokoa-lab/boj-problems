@@ -1,13 +1,13 @@
 ---
-title: Snow Boots
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Snow Boots"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 664
 accepted: 256
 solved_users: 203
-acceptance_rate: 38.815%
-collected_at: 2026-04-17T14:05:46.738342+00:00
+acceptance_rate: "38.815%"
+collected_at: "2026-04-17T14:05:46.738342+00:00"
 ---
 
 ## 문제

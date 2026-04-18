@@ -1,13 +1,13 @@
 ---
-title: 밸런스 스톤
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "밸런스 스톤"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 1317
 accepted: 393
 solved_users: 282
-acceptance_rate: 30.160%
-collected_at: 2026-04-17T14:06:29.039152+00:00
+acceptance_rate: "30.160%"
+collected_at: "2026-04-17T14:06:29.039152+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 프린트 전달
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "프린트 전달"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 380
 accepted: 161
 solved_users: 91
-acceptance_rate: 40.088%
-collected_at: 2026-04-17T16:56:53.711130+00:00
+acceptance_rate: "40.088%"
+collected_at: "2026-04-17T16:56:53.711130+00:00"
 ---
 
 ## 문제

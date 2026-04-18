@@ -1,13 +1,13 @@
 ---
-title: 이친수 찾기
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "이친수 찾기"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 1626
 accepted: 780
 solved_users: 639
-acceptance_rate: 51.825%
-collected_at: 2026-04-17T10:39:28.538822+00:00
+acceptance_rate: "51.825%"
+collected_at: "2026-04-17T10:39:28.538822+00:00"
 ---
 
 ## 문제

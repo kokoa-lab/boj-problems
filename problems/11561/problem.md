@@ -1,13 +1,13 @@
 ---
-title: 징검다리
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "징검다리"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 5186
 accepted: 1775
 solved_users: 1268
-acceptance_rate: 32.605%
-collected_at: 2026-04-17T12:42:13.314139+00:00
+acceptance_rate: "32.605%"
+collected_at: "2026-04-17T12:42:13.314139+00:00"
 ---
 
 ## 문제

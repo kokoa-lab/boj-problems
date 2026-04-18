@@ -1,13 +1,13 @@
 ---
-title: 개구리 징검다리 건너기
-special_judge: true
-time_limit: 1.2 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "개구리 징검다리 건너기"
+special_judge: "true"
+time_limit: "1.2 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 300
 accepted: 170
 solved_users: 136
-acceptance_rate: 59.649%
-collected_at: 2026-04-17T16:09:15.202779+00:00
+acceptance_rate: "59.649%"
+collected_at: "2026-04-17T16:09:15.202779+00:00"
 ---
 
 ## 문제

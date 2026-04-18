@@ -1,13 +1,13 @@
 ---
-title: Blame Game
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Blame Game"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 41
 accepted: 16
 solved_users: 13
-acceptance_rate: 37.143%
-collected_at: 2026-04-17T16:27:36.926379+00:00
+acceptance_rate: "37.143%"
+collected_at: "2026-04-17T16:27:36.926379+00:00"
 ---
 
 ## 문제

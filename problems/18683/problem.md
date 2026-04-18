@@ -1,13 +1,13 @@
 ---
-title: Man in the middle
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Man in the middle"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 44
 accepted: 6
 solved_users: 6
-acceptance_rate: 15.385%
-collected_at: 2026-04-17T15:08:21.305201+00:00
+acceptance_rate: "15.385%"
+collected_at: "2026-04-17T15:08:21.305201+00:00"
 ---
 
 ## 문제

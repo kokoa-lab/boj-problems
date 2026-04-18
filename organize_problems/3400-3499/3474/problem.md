@@ -1,13 +1,13 @@
 ---
-title: 교수가 된 현우
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "교수가 된 현우"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 12200
 accepted: 5193
 solved_users: 3751
-acceptance_rate: 41.995%
-collected_at: 2026-04-17T10:49:09.008021+00:00
+acceptance_rate: "41.995%"
+collected_at: "2026-04-17T10:49:09.008021+00:00"
 ---
 
 ## 문제

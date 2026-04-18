@@ -1,13 +1,13 @@
 ---
-title: 아이스크림
-special_judge: true
-time_limit: 2 초
-memory_limit: 128 MB
+title: "아이스크림"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 99
 accepted: 53
 solved_users: 44
-acceptance_rate: 49.438%
-collected_at: 2026-04-17T10:39:38.589089+00:00
+acceptance_rate: "49.438%"
+collected_at: "2026-04-17T10:39:38.589089+00:00"
 ---
 
 ## 문제

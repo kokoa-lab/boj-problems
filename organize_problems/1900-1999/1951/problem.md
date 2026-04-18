@@ -1,13 +1,13 @@
 ---
-title: 활자
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "활자"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 1817
 accepted: 699
 solved_users: 598
-acceptance_rate: 40.763%
-collected_at: 2026-04-17T10:36:14.908613+00:00
+acceptance_rate: "40.763%"
+collected_at: "2026-04-17T10:36:14.908613+00:00"
 ---
 
 ## 문제

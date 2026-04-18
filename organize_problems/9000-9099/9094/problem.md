@@ -1,13 +1,13 @@
 ---
-title: 수학적 호기심
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "수학적 호기심"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 7620
 accepted: 4345
 solved_users: 3737
-acceptance_rate: 58.592%
-collected_at: 2026-04-17T12:07:06.347785+00:00
+acceptance_rate: "58.592%"
+collected_at: "2026-04-17T12:07:06.347785+00:00"
 ---
 
 ## 문제

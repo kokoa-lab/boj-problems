@@ -1,13 +1,13 @@
 ---
-title: HDRF
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "HDRF"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 19
 accepted: 12
 solved_users: 9
-acceptance_rate: 64.286%
-collected_at: 2026-04-17T15:18:57.417782+00:00
+acceptance_rate: "64.286%"
+collected_at: "2026-04-17T15:18:57.417782+00:00"
 ---
 
 ## 문제

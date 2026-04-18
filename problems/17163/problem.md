@@ -1,13 +1,13 @@
 ---
-title: 가희의 수열놀이 (Large)
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "가희의 수열놀이 (Large)"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 700
 accepted: 170
 solved_users: 96
-acceptance_rate: 20.870%
-collected_at: 2026-04-17T14:31:29.629043+00:00
+acceptance_rate: "20.870%"
+collected_at: "2026-04-17T14:31:29.629043+00:00"
 ---
 
 ## 문제

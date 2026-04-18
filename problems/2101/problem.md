@@ -1,13 +1,13 @@
 ---
-title: 이미지의 에너지
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "이미지의 에너지"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 85
 accepted: 16
 solved_users: 15
-acceptance_rate: 19.231%
-collected_at: 2026-04-17T10:38:20.555310+00:00
+acceptance_rate: "19.231%"
+collected_at: "2026-04-17T10:38:20.555310+00:00"
 ---
 
 ## 문제

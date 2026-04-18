@@ -1,13 +1,13 @@
 ---
-title: String Algorithm
-special_judge: false
-time_limit: 20 초
-memory_limit: 512 MB
+title: "String Algorithm"
+special_judge: "false"
+time_limit: "20 초"
+memory_limit: "512 MB"
 submissions: 80
 accepted: 13
 solved_users: 12
-acceptance_rate: 17.143%
-collected_at: 2026-04-17T15:05:39.227821+00:00
+acceptance_rate: "17.143%"
+collected_at: "2026-04-17T15:05:39.227821+00:00"
 ---
 
 ## 문제

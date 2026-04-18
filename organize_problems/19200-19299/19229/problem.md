@@ -1,13 +1,13 @@
 ---
-title: Lexicography
-special_judge: true
-time_limit: 3 초
-memory_limit: 512 MB
+title: "Lexicography"
+special_judge: "true"
+time_limit: "3 초"
+memory_limit: "512 MB"
 submissions: 113
 accepted: 66
 solved_users: 62
-acceptance_rate: 60.784%
-collected_at: 2026-04-17T15:15:20.129067+00:00
+acceptance_rate: "60.784%"
+collected_at: "2026-04-17T15:15:20.129067+00:00"
 ---
 
 ## 문제

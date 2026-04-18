@@ -1,13 +1,13 @@
 ---
-title: 포함하는 구간
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "포함하는 구간"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 694
 accepted: 360
 solved_users: 279
-acceptance_rate: 51.476%
-collected_at: 2026-04-17T10:38:22.868263+00:00
+acceptance_rate: "51.476%"
+collected_at: "2026-04-17T10:38:22.868263+00:00"
 ---
 
 ## 문제

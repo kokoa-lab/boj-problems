@@ -1,13 +1,13 @@
 ---
-title: Piece of Cake!
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Piece of Cake!"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 2640
 accepted: 2305
 solved_users: 2213
-acceptance_rate: 87.783%
-collected_at: 2026-04-17T14:48:58.012834+00:00
+acceptance_rate: "87.783%"
+collected_at: "2026-04-17T14:48:58.012834+00:00"
 ---
 
 ## 문제

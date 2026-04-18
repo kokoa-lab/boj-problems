@@ -1,13 +1,13 @@
 ---
-title: 공원 산책
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "공원 산책"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 68
 accepted: 24
 solved_users: 22
-acceptance_rate: 41.509%
-collected_at: 2026-04-17T10:46:51.860997+00:00
+acceptance_rate: "41.509%"
+collected_at: "2026-04-17T10:46:51.860997+00:00"
 ---
 
 ## 문제

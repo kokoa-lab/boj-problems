@@ -1,13 +1,13 @@
 ---
-title: Consonant Fencity
-special_judge: true
-time_limit: 3 초
-memory_limit: 512 MB
+title: "Consonant Fencity"
+special_judge: "true"
+time_limit: "3 초"
+memory_limit: "512 MB"
 submissions: 103
 accepted: 54
 solved_users: 40
-acceptance_rate: 48.193%
-collected_at: 2026-04-17T13:51:56.934785+00:00
+acceptance_rate: "48.193%"
+collected_at: "2026-04-17T13:51:56.934785+00:00"
 ---
 
 ## 문제

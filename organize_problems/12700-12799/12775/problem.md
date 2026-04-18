@@ -1,13 +1,13 @@
 ---
-title: String Theory
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "String Theory"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 156
 accepted: 53
 solved_users: 45
-acceptance_rate: 37.500%
-collected_at: 2026-04-17T13:01:12.390727+00:00
+acceptance_rate: "37.500%"
+collected_at: "2026-04-17T13:01:12.390727+00:00"
 ---
 
 ## 문제

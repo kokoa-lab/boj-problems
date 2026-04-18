@@ -1,13 +1,13 @@
 ---
-title: Tiling
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Tiling"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 298
 accepted: 191
 solved_users: 176
-acceptance_rate: 65.672%
-collected_at: 2026-04-17T13:55:46.574474+00:00
+acceptance_rate: "65.672%"
+collected_at: "2026-04-17T13:55:46.574474+00:00"
 ---
 
 ## 문제

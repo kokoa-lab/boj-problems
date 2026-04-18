@@ -1,13 +1,13 @@
 ---
-title: Non-negative Partial Sums
-special_judge: false
-time_limit: 3 초
-memory_limit: 128 MB
+title: "Non-negative Partial Sums"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "128 MB"
 submissions: 189
 accepted: 67
 solved_users: 52
-acceptance_rate: 40.625%
-collected_at: 2026-04-17T10:52:24.648559+00:00
+acceptance_rate: "40.625%"
+collected_at: "2026-04-17T10:52:24.648559+00:00"
 ---
 
 ## 문제

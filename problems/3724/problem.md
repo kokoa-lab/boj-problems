@@ -1,13 +1,13 @@
 ---
-title: 표
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "표"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 1393
 accepted: 462
 solved_users: 373
-acceptance_rate: 35.969%
-collected_at: 2026-04-17T10:51:24.692558+00:00
+acceptance_rate: "35.969%"
+collected_at: "2026-04-17T10:51:24.692558+00:00"
 ---
 
 ## 문제

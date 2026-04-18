@@ -1,13 +1,13 @@
 ---
-title: 마법사 상어와 비바라기
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "마법사 상어와 비바라기"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 21367
 accepted: 11447
 solved_users: 7840
-acceptance_rate: 51.369%
-collected_at: 2026-04-17T16:01:19.092386+00:00
+acceptance_rate: "51.369%"
+collected_at: "2026-04-17T16:01:19.092386+00:00"
 ---
 
 ## 문제

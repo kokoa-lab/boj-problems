@@ -1,13 +1,13 @@
 ---
-title: 나이트의 염탐
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "나이트의 염탐"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 582
 accepted: 216
 solved_users: 168
-acceptance_rate: 35.294%
-collected_at: 2026-04-17T12:36:14.668468+00:00
+acceptance_rate: "35.294%"
+collected_at: "2026-04-17T12:36:14.668468+00:00"
 ---
 
 ## 문제

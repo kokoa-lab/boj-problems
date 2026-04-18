@@ -1,13 +1,13 @@
 ---
-title: Guessing Primes
-special_judge: false
-time_limit: 10 초 (추가 시간 없음)
-memory_limit: 2048 MB
+title: "Guessing Primes"
+special_judge: "false"
+time_limit: "10 초 (추가 시간 없음)"
+memory_limit: "2048 MB"
 submissions: 141
 accepted: 17
 solved_users: 16
-acceptance_rate: 14.679%
-collected_at: 2026-04-17T17:38:16.644746+00:00
+acceptance_rate: "14.679%"
+collected_at: "2026-04-17T17:38:16.644746+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: The Bored Traveling Salesman (Small)
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "The Bored Traveling Salesman (Small)"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 16
 accepted: 10
 solved_users: 10
-acceptance_rate: 62.500%
-collected_at: 2026-04-17T12:52:34.423807+00:00
+acceptance_rate: "62.500%"
+collected_at: "2026-04-17T12:52:34.423807+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 우주비행사 정민
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "우주비행사 정민"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 330
 accepted: 70
 solved_users: 46
-acceptance_rate: 19.328%
-collected_at: 2026-04-17T18:58:10.948767+00:00
+acceptance_rate: "19.328%"
+collected_at: "2026-04-17T18:58:10.948767+00:00"
 ---
 
 ## 문제

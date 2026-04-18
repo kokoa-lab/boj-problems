@@ -1,13 +1,13 @@
 ---
-title: 최소공배수
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "최소공배수"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 103335
 accepted: 56279
 solved_users: 47659
-acceptance_rate: 55.152%
-collected_at: 2026-04-17T10:36:04.297048+00:00
+acceptance_rate: "55.152%"
+collected_at: "2026-04-17T10:36:04.297048+00:00"
 ---
 
 ## 문제

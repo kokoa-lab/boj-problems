@@ -1,13 +1,13 @@
 ---
-title: 바구니 순서 바꾸기
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "바구니 순서 바꾸기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 11993
 accepted: 7396
 solved_users: 6632
-acceptance_rate: 63.397%
-collected_at: 2026-04-17T12:29:54.150328+00:00
+acceptance_rate: "63.397%"
+collected_at: "2026-04-17T12:29:54.150328+00:00"
 ---
 
 ## 문제

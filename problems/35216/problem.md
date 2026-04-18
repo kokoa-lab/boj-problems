@@ -1,13 +1,13 @@
 ---
-title: Arithmetic Adaptation
-special_judge: true
-time_limit: 1 초
-memory_limit: 2048 MB
+title: "Arithmetic Adaptation"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "2048 MB"
 submissions: 99
 accepted: 63
 solved_users: 50
-acceptance_rate: 62.500%
-collected_at: 2026-04-17T20:58:07.610711+00:00
+acceptance_rate: "62.500%"
+collected_at: "2026-04-17T20:58:07.610711+00:00"
 ---
 
 ## 문제

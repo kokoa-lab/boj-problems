@@ -1,13 +1,13 @@
 ---
-title: Power of Function
-special_judge: false
-time_limit: 4 초
-memory_limit: 512 MB
+title: "Power of Function"
+special_judge: "false"
+time_limit: "4 초"
+memory_limit: "512 MB"
 submissions: 19
 accepted: 6
 solved_users: 6
-acceptance_rate: 46.154%
-collected_at: 2026-04-17T15:07:35.881585+00:00
+acceptance_rate: "46.154%"
+collected_at: "2026-04-17T15:07:35.881585+00:00"
 ---
 
 ## 문제

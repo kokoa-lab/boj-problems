@@ -1,13 +1,13 @@
 ---
-title: 배낭 문제 준비하기
-special_judge: true
-time_limit: 1 초
-memory_limit: 32 MB
+title: "배낭 문제 준비하기"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "32 MB"
 submissions: 61
 accepted: 22
 solved_users: 22
-acceptance_rate: 62.857%
-collected_at: 2026-04-17T12:47:37.345181+00:00
+acceptance_rate: "62.857%"
+collected_at: "2026-04-17T12:47:37.345181+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Tree Product
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "Tree Product"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 112
 accepted: 30
 solved_users: 27
-acceptance_rate: 27.273%
-collected_at: 2026-04-17T15:39:00.663254+00:00
+acceptance_rate: "27.273%"
+collected_at: "2026-04-17T15:39:00.663254+00:00"
 ---
 
 ## 문제

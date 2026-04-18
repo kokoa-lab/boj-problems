@@ -1,13 +1,13 @@
 ---
-title: Макс и расстояния
-special_judge: true
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Макс и расстояния"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 8
 accepted: 5
 solved_users: 5
-acceptance_rate: 62.500%
-collected_at: 2026-04-17T18:34:45.469517+00:00
+acceptance_rate: "62.500%"
+collected_at: "2026-04-17T18:34:45.469517+00:00"
 ---
 
 ## 문제

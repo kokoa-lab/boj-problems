@@ -1,13 +1,13 @@
 ---
-title: Light Switches
-special_judge: false
-time_limit: 5 초
-memory_limit: 128 MB
+title: "Light Switches"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "128 MB"
 submissions: 103
 accepted: 24
 solved_users: 18
-acceptance_rate: 33.962%
-collected_at: 2026-04-17T12:16:53.944895+00:00
+acceptance_rate: "33.962%"
+collected_at: "2026-04-17T12:16:53.944895+00:00"
 ---
 
 ## 문제

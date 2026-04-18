@@ -1,13 +1,13 @@
 ---
-title: Polynomial Remains
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Polynomial Remains"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 268
 accepted: 155
 solved_users: 91
-acceptance_rate: 63.636%
-collected_at: 2026-04-17T10:32:38.337784+00:00
+acceptance_rate: "63.636%"
+collected_at: "2026-04-17T10:32:38.337784+00:00"
 ---
 
 ## 문제

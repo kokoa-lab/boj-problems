@@ -1,13 +1,13 @@
 ---
-title: -2진수
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "-2진수"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 13843
 accepted: 6592
 solved_users: 5483
-acceptance_rate: 46.972%
-collected_at: 2026-04-17T10:38:10.811313+00:00
+acceptance_rate: "46.972%"
+collected_at: "2026-04-17T10:38:10.811313+00:00"
 ---
 
 ## 문제

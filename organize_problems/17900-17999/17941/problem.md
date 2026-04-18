@@ -1,13 +1,13 @@
 ---
-title: 목장 CCTV
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "목장 CCTV"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 367
 accepted: 58
 solved_users: 44
-acceptance_rate: 16.988%
-collected_at: 2026-04-17T14:50:36.342126+00:00
+acceptance_rate: "16.988%"
+collected_at: "2026-04-17T14:50:36.342126+00:00"
 ---
 
 ## 문제

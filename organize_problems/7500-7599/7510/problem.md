@@ -1,13 +1,13 @@
 ---
-title: 고급 수학
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "고급 수학"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 9146
 accepted: 4590
 solved_users: 4084
-acceptance_rate: 50.092%
-collected_at: 2026-04-17T11:50:09.847927+00:00
+acceptance_rate: "50.092%"
+collected_at: "2026-04-17T11:50:09.847927+00:00"
 ---
 
 ## 문제

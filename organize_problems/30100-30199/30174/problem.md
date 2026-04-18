@@ -1,13 +1,13 @@
 ---
-title: Filling Diamonds
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Filling Diamonds"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 268
 accepted: 163
 solved_users: 136
-acceptance_rate: 67.327%
-collected_at: 2026-04-17T19:00:09.533096+00:00
+acceptance_rate: "67.327%"
+collected_at: "2026-04-17T19:00:09.533096+00:00"
 ---
 
 ## 문제

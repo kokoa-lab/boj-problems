@@ -1,13 +1,13 @@
 ---
-title: Banks
-special_judge: false
-time_limit: 5 초
-memory_limit: 256 MB
+title: "Banks"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "256 MB"
 submissions: 5691
 accepted: 1210
 solved_users: 825
-acceptance_rate: 23.246%
-collected_at: 2026-04-17T12:22:25.436031+00:00
+acceptance_rate: "23.246%"
+collected_at: "2026-04-17T12:22:25.436031+00:00"
 ---
 
 ## 문제

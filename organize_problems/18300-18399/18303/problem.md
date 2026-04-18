@@ -1,13 +1,13 @@
 ---
-title: Bird Watching
-special_judge: false
-time_limit: 3 초
-memory_limit: 512 MB
+title: "Bird Watching"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "512 MB"
 submissions: 201
 accepted: 74
 solved_users: 61
-acceptance_rate: 41.781%
-collected_at: 2026-04-17T14:59:03.221145+00:00
+acceptance_rate: "41.781%"
+collected_at: "2026-04-17T14:59:03.221145+00:00"
 ---
 
 ## 문제

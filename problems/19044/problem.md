@@ -1,13 +1,13 @@
 ---
-title: Entanglement
-special_judge: false
-time_limit: 3 초
-memory_limit: 256 MB
+title: "Entanglement"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "256 MB"
 submissions: 97
 accepted: 18
 solved_users: 14
-acceptance_rate: 18.182%
-collected_at: 2026-04-17T15:12:46.486083+00:00
+acceptance_rate: "18.182%"
+collected_at: "2026-04-17T15:12:46.486083+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 도로
-special_judge: false
-time_limit: 2 초
-memory_limit: 64 MB
+title: "도로"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "64 MB"
 submissions: 699
 accepted: 444
 solved_users: 394
-acceptance_rate: 64.696%
-collected_at: 2026-04-17T12:09:05.814142+00:00
+acceptance_rate: "64.696%"
+collected_at: "2026-04-17T12:09:05.814142+00:00"
 ---
 
 ## 문제

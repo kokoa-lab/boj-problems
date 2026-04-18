@@ -1,13 +1,13 @@
 ---
-title: Rain (Large)
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Rain (Large)"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 170
 accepted: 103
 solved_users: 89
-acceptance_rate: 62.238%
-collected_at: 2026-04-17T13:30:21.172201+00:00
+acceptance_rate: "62.238%"
+collected_at: "2026-04-17T13:30:21.172201+00:00"
 ---
 
 ## 문제

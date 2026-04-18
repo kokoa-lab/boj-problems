@@ -1,13 +1,13 @@
 ---
-title: 꼬마 미타
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "꼬마 미타"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 308
 accepted: 198
 solved_users: 184
-acceptance_rate: 68.401%
-collected_at: 2026-04-17T20:51:57.358323+00:00
+acceptance_rate: "68.401%"
+collected_at: "2026-04-17T20:51:57.358323+00:00"
 ---
 
 ## 문제

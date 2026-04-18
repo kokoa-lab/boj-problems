@@ -1,13 +1,13 @@
 ---
-title: Color the Tree
-special_judge: true
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Color the Tree"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 52
 accepted: 33
 solved_users: 31
-acceptance_rate: 62.000%
-collected_at: 2026-04-17T15:40:12.333739+00:00
+acceptance_rate: "62.000%"
+collected_at: "2026-04-17T15:40:12.333739+00:00"
 ---
 
 ## 문제

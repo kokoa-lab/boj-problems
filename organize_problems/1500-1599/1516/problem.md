@@ -1,13 +1,13 @@
 ---
-title: 게임 개발
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "게임 개발"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 30125
 accepted: 14867
 solved_users: 11519
-acceptance_rate: 49.191%
-collected_at: 2026-04-17T10:30:47.084029+00:00
+acceptance_rate: "49.191%"
+collected_at: "2026-04-17T10:30:47.084029+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Dishwashing
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Dishwashing"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 244
 accepted: 117
 solved_users: 99
-acceptance_rate: 49.010%
-collected_at: 2026-04-17T14:28:09.905996+00:00
+acceptance_rate: "49.010%"
+collected_at: "2026-04-17T14:28:09.905996+00:00"
 ---
 
 ## 문제

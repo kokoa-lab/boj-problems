@@ -1,13 +1,13 @@
 ---
-title: Random Points
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Random Points"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 25
 accepted: 2
 solved_users: 2
-acceptance_rate: 8.333%
-collected_at: 2026-04-17T15:13:48.940212+00:00
+acceptance_rate: "8.333%"
+collected_at: "2026-04-17T15:13:48.940212+00:00"
 ---
 
 ## 문제

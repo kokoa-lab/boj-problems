@@ -1,13 +1,13 @@
 ---
-title: Slate Modern (Large)
-special_judge: false
-time_limit: 80 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "Slate Modern (Large)"
+special_judge: "false"
+time_limit: "80 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 1
 accepted: 1
 solved_users: 1
-acceptance_rate: 100.000%
-collected_at: 2026-04-17T13:42:31.556359+00:00
+acceptance_rate: "100.000%"
+collected_at: "2026-04-17T13:42:31.556359+00:00"
 ---
 
 ## 문제

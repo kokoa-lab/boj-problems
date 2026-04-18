@@ -1,13 +1,13 @@
 ---
-title: 이항 계수 1
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "이항 계수 1"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 95070
 accepted: 61810
 solved_users: 53443
-acceptance_rate: 64.767%
-collected_at: 2026-04-17T12:35:41.763077+00:00
+acceptance_rate: "64.767%"
+collected_at: "2026-04-17T12:35:41.763077+00:00"
 ---
 
 ## 문제

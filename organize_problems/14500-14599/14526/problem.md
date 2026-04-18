@@ -1,13 +1,13 @@
 ---
-title: Modern Art 2
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Modern Art 2"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 428
 accepted: 135
 solved_users: 105
-acceptance_rate: 33.654%
-collected_at: 2026-04-17T13:37:16.167036+00:00
+acceptance_rate: "33.654%"
+collected_at: "2026-04-17T13:37:16.167036+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 변형 하노이
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "변형 하노이"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 580
 accepted: 231
 solved_users: 167
-acceptance_rate: 46.260%
-collected_at: 2026-04-17T10:28:31.080886+00:00
+acceptance_rate: "46.260%"
+collected_at: "2026-04-17T10:28:31.080886+00:00"
 ---
 
 ## 문제

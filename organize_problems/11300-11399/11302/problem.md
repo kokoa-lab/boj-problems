@@ -1,13 +1,13 @@
 ---
-title: Koch
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Koch"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 54
 accepted: 16
 solved_users: 7
-acceptance_rate: 28.000%
-collected_at: 2026-04-17T12:39:24.391016+00:00
+acceptance_rate: "28.000%"
+collected_at: "2026-04-17T12:39:24.391016+00:00"
 ---
 
 ## 문제

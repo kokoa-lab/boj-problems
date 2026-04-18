@@ -1,13 +1,13 @@
 ---
-title: Field Navigation
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Field Navigation"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 41
 accepted: 32
 solved_users: 24
-acceptance_rate: 88.889%
-collected_at: 2026-04-17T17:47:29.045357+00:00
+acceptance_rate: "88.889%"
+collected_at: "2026-04-17T17:47:29.045357+00:00"
 ---
 
 ## 문제

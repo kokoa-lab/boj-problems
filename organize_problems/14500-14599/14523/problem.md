@@ -1,13 +1,13 @@
 ---
-title: Switch Grass
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Switch Grass"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 136
 accepted: 39
 solved_users: 34
-acceptance_rate: 37.778%
-collected_at: 2026-04-17T13:37:16.032776+00:00
+acceptance_rate: "37.778%"
+collected_at: "2026-04-17T13:37:16.032776+00:00"
 ---
 
 ## 문제

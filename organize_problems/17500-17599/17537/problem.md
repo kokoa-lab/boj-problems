@@ -1,13 +1,13 @@
 ---
-title: Interplanetary
-special_judge: false
-time_limit: 1.5 초
-memory_limit: 512 MB
+title: "Interplanetary"
+special_judge: "false"
+time_limit: "1.5 초"
+memory_limit: "512 MB"
 submissions: 36
 accepted: 12
 solved_users: 10
-acceptance_rate: 40.000%
-collected_at: 2026-04-17T14:41:25.318919+00:00
+acceptance_rate: "40.000%"
+collected_at: "2026-04-17T14:41:25.318919+00:00"
 ---
 
 ## 문제

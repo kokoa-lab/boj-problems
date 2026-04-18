@@ -1,13 +1,13 @@
 ---
-title: Product
-special_judge: true
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 256 MB
+title: "Product"
+special_judge: "true"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "256 MB"
 submissions: 163
 accepted: 43
 solved_users: 33
-acceptance_rate: 27.273%
-collected_at: 2026-04-17T16:51:02.748418+00:00
+acceptance_rate: "27.273%"
+collected_at: "2026-04-17T16:51:02.748418+00:00"
 ---
 
 ## 문제

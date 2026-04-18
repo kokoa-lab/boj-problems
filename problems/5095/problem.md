@@ -1,13 +1,13 @@
 ---
-title: Matrix Powers
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Matrix Powers"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 1219
 accepted: 364
 solved_users: 290
-acceptance_rate: 29.990%
-collected_at: 2026-04-17T11:11:26.339360+00:00
+acceptance_rate: "29.990%"
+collected_at: "2026-04-17T11:11:26.339360+00:00"
 ---
 
 ## 문제

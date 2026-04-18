@@ -1,13 +1,13 @@
 ---
-title: 스네이크
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "스네이크"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 1243
 accepted: 774
 solved_users: 696
-acceptance_rate: 65.352%
-collected_at: 2026-04-17T18:05:10.801516+00:00
+acceptance_rate: "65.352%"
+collected_at: "2026-04-17T18:05:10.801516+00:00"
 ---
 
 ## 문제

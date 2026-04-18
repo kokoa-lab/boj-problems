@@ -1,13 +1,13 @@
 ---
-title: Bounded Spanning Tree
-special_judge: true
-time_limit: 2.5 초
-memory_limit: 1024 MB
+title: "Bounded Spanning Tree"
+special_judge: "true"
+time_limit: "2.5 초"
+memory_limit: "1024 MB"
 submissions: 143
 accepted: 22
 solved_users: 19
-acceptance_rate: 14.615%
-collected_at: 2026-04-17T18:03:39.289631+00:00
+acceptance_rate: "14.615%"
+collected_at: "2026-04-17T18:03:39.289631+00:00"
 ---
 
 ## 문제

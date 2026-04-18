@@ -1,13 +1,13 @@
 ---
-title: WiFi
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "WiFi"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 85
 accepted: 39
 solved_users: 27
-acceptance_rate: 49.091%
-collected_at: 2026-04-17T10:57:01.619691+00:00
+acceptance_rate: "49.091%"
+collected_at: "2026-04-17T10:57:01.619691+00:00"
 ---
 
 ## 문제

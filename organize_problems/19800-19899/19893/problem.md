@@ -1,13 +1,13 @@
 ---
-title: Фишки
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Фишки"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 25
 accepted: 5
 solved_users: 5
-acceptance_rate: 38.462%
-collected_at: 2026-04-17T15:29:01.836950+00:00
+acceptance_rate: "38.462%"
+collected_at: "2026-04-17T15:29:01.836950+00:00"
 ---
 
 ## 문제

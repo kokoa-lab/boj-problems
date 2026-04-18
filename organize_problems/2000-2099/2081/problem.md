@@ -1,13 +1,13 @@
 ---
-title: 저울추
-special_judge: true
-time_limit: 2 초
-memory_limit: 128 MB
+title: "저울추"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 270
 accepted: 89
 solved_users: 62
-acceptance_rate: 27.803%
-collected_at: 2026-04-17T10:38:03.598237+00:00
+acceptance_rate: "27.803%"
+collected_at: "2026-04-17T10:38:03.598237+00:00"
 ---
 
 ## 문제

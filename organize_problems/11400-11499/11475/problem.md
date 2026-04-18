@@ -1,13 +1,13 @@
 ---
-title: Journey to the “The World’s Start”
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "Journey to the “The World’s Start”"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 142
 accepted: 56
 solved_users: 51
-acceptance_rate: 39.844%
-collected_at: 2026-04-17T12:41:13.770854+00:00
+acceptance_rate: "39.844%"
+collected_at: "2026-04-17T12:41:13.770854+00:00"
 ---
 
 ## 문제

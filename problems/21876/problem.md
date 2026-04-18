@@ -1,13 +1,13 @@
 ---
-title: Squarow
-special_judge: true
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Squarow"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 27
 accepted: 21
 solved_users: 20
-acceptance_rate: 76.923%
-collected_at: 2026-04-17T16:09:16.143020+00:00
+acceptance_rate: "76.923%"
+collected_at: "2026-04-17T16:09:16.143020+00:00"
 ---
 
 ## 문제

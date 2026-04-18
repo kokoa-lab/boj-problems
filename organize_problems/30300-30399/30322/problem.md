@@ -1,13 +1,13 @@
 ---
-title: Divide a Convex
-special_judge: true
-time_limit: 3 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Divide a Convex"
+special_judge: "true"
+time_limit: "3 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 39
 accepted: 20
 solved_users: 20
-acceptance_rate: 64.516%
-collected_at: 2026-04-17T19:03:12.234495+00:00
+acceptance_rate: "64.516%"
+collected_at: "2026-04-17T19:03:12.234495+00:00"
 ---
 
 ## 문제

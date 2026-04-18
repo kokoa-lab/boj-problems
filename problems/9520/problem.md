@@ -1,13 +1,13 @@
 ---
-title: NP-hard
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "NP-hard"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 957
 accepted: 487
 solved_users: 389
-acceptance_rate: 52.568%
-collected_at: 2026-04-17T12:10:49.889024+00:00
+acceptance_rate: "52.568%"
+collected_at: "2026-04-17T12:10:49.889024+00:00"
 ---
 
 ## 문제

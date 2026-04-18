@@ -1,13 +1,13 @@
 ---
-title: Сообщение
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Сообщение"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 54
 accepted: 30
 solved_users: 21
-acceptance_rate: 63.636%
-collected_at: 2026-04-17T18:45:02.727279+00:00
+acceptance_rate: "63.636%"
+collected_at: "2026-04-17T18:45:02.727279+00:00"
 ---
 
 ## 문제

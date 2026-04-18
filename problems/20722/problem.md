@@ -1,13 +1,13 @@
 ---
-title: Spaceman Spoof's Functions
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Spaceman Spoof's Functions"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 11
 accepted: 1
 solved_users: 1
-acceptance_rate: 100.000%
-collected_at: 2026-04-17T15:40:30.911894+00:00
+acceptance_rate: "100.000%"
+collected_at: "2026-04-17T15:40:30.911894+00:00"
 ---
 
 ## 문제

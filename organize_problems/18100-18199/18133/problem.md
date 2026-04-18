@@ -1,13 +1,13 @@
 ---
-title: 가톨릭대학교에 워터 슬라이드를??
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "가톨릭대학교에 워터 슬라이드를??"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 476
 accepted: 266
 solved_users: 215
-acceptance_rate: 56.430%
-collected_at: 2026-04-17T14:56:14.862002+00:00
+acceptance_rate: "56.430%"
+collected_at: "2026-04-17T14:56:14.862002+00:00"
 ---
 
 ## 문제

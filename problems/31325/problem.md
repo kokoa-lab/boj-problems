@@ -1,13 +1,13 @@
 ---
-title: Devil's Hell deLivery
-special_judge: true
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Devil's Hell deLivery"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 2
 accepted: 1
 solved_users: 1
-acceptance_rate: 100.000%
-collected_at: 2026-04-17T19:25:58.758544+00:00
+acceptance_rate: "100.000%"
+collected_at: "2026-04-17T19:25:58.758544+00:00"
 ---
 
 ## 문제

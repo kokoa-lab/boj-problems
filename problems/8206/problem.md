@@ -1,13 +1,13 @@
 ---
-title: Plot
-special_judge: true
-time_limit: 30 초
-memory_limit: 128 MB
+title: "Plot"
+special_judge: "true"
+time_limit: "30 초"
+memory_limit: "128 MB"
 submissions: 61
 accepted: 6
 solved_users: 2
-acceptance_rate: 6.667%
-collected_at: 2026-04-17T11:57:10.494135+00:00
+acceptance_rate: "6.667%"
+collected_at: "2026-04-17T11:57:10.494135+00:00"
 ---
 
 ## 문제

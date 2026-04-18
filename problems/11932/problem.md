@@ -1,13 +1,13 @@
 ---
-title: 트리와 K번째 수
-special_judge: false
-time_limit: 1.5 초
-memory_limit: 512 MB
+title: "트리와 K번째 수"
+special_judge: "false"
+time_limit: "1.5 초"
+memory_limit: "512 MB"
 submissions: 3250
 accepted: 929
 solved_users: 543
-acceptance_rate: 23.446%
-collected_at: 2026-04-17T12:47:49.421854+00:00
+acceptance_rate: "23.446%"
+collected_at: "2026-04-17T12:47:49.421854+00:00"
 ---
 
 ## 문제

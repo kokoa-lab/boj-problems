@@ -1,13 +1,13 @@
 ---
-title: Number Tricks
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Number Tricks"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 70
 accepted: 31
 solved_users: 25
-acceptance_rate: 40.323%
-collected_at: 2026-04-17T11:50:18.972816+00:00
+acceptance_rate: "40.323%"
+collected_at: "2026-04-17T11:50:18.972816+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Paper Snowflakes
-special_judge: false
-time_limit: 5 초
-memory_limit: 1024 MB
+title: "Paper Snowflakes"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "1024 MB"
 submissions: 17
 accepted: 14
 solved_users: 14
-acceptance_rate: 82.353%
-collected_at: 2026-04-17T15:50:14.518711+00:00
+acceptance_rate: "82.353%"
+collected_at: "2026-04-17T15:50:14.518711+00:00"
 ---
 
 ## 문제

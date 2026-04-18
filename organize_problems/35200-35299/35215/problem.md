@@ -1,13 +1,13 @@
 ---
-title: Linguistic Labyrinth
-special_judge: false
-time_limit: 15 초
-memory_limit: 2048 MB
+title: "Linguistic Labyrinth"
+special_judge: "false"
+time_limit: "15 초"
+memory_limit: "2048 MB"
 submissions: 10
 accepted: 7
 solved_users: 7
-acceptance_rate: 87.500%
-collected_at: 2026-04-17T20:58:08.223067+00:00
+acceptance_rate: "87.500%"
+collected_at: "2026-04-17T20:58:08.223067+00:00"
 ---
 
 ## 문제

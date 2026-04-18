@@ -1,13 +1,13 @@
 ---
-title: Karl's shopping
-special_judge: false
-time_limit: 12 초
-memory_limit: 1024 MB
+title: "Karl's shopping"
+special_judge: "false"
+time_limit: "12 초"
+memory_limit: "1024 MB"
 submissions: 11
 accepted: 8
 solved_users: 8
-acceptance_rate: 72.727%
-collected_at: 2026-04-17T18:09:35.309038+00:00
+acceptance_rate: "72.727%"
+collected_at: "2026-04-17T18:09:35.309038+00:00"
 ---
 
 ## 문제

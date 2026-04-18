@@ -1,13 +1,13 @@
 ---
-title: Vista 8
-special_judge: false
-time_limit: 0.1 초
-memory_limit: 128 MB
+title: "Vista 8"
+special_judge: "false"
+time_limit: "0.1 초"
+memory_limit: "128 MB"
 submissions: 13
 accepted: 3
 solved_users: 3
-acceptance_rate: 42.857%
-collected_at: 2026-04-17T15:32:13.697825+00:00
+acceptance_rate: "42.857%"
+collected_at: "2026-04-17T15:32:13.697825+00:00"
 ---
 
 ## 문제

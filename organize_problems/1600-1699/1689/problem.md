@@ -1,13 +1,13 @@
 ---
-title: 겹치는 선분
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "겹치는 선분"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 4439
 accepted: 1883
 solved_users: 1402
-acceptance_rate: 42.901%
-collected_at: 2026-04-17T10:32:23.992375+00:00
+acceptance_rate: "42.901%"
+collected_at: "2026-04-17T10:32:23.992375+00:00"
 ---
 
 ## 문제

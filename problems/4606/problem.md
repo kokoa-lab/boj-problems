@@ -1,13 +1,13 @@
 ---
-title: The Seven Percent Solution
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "The Seven Percent Solution"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 651
 accepted: 518
 solved_users: 480
-acceptance_rate: 81.911%
-collected_at: 2026-04-17T11:05:31.602336+00:00
+acceptance_rate: "81.911%"
+collected_at: "2026-04-17T11:05:31.602336+00:00"
 ---
 
 ## 문제

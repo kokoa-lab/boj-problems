@@ -1,13 +1,13 @@
 ---
-title: N포커
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "N포커"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 4491
 accepted: 2186
 solved_users: 1806
-acceptance_rate: 48.250%
-collected_at: 2026-04-17T14:20:10.725749+00:00
+acceptance_rate: "48.250%"
+collected_at: "2026-04-17T14:20:10.725749+00:00"
 ---
 
 ## 문제

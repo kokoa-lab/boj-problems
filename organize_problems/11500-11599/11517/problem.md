@@ -1,13 +1,13 @@
 ---
-title: Positive Con Sequences
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Positive Con Sequences"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 553
 accepted: 160
 solved_users: 133
-acceptance_rate: 30.435%
-collected_at: 2026-04-17T12:41:43.013060+00:00
+acceptance_rate: "30.435%"
+collected_at: "2026-04-17T12:41:43.013060+00:00"
 ---
 
 ## 문제

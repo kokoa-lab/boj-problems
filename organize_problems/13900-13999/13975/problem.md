@@ -1,13 +1,13 @@
 ---
-title: 파일 합치기 3
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "파일 합치기 3"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 13441
 accepted: 6856
 solved_users: 5603
-acceptance_rate: 49.690%
-collected_at: 2026-04-17T13:23:10.605716+00:00
+acceptance_rate: "49.690%"
+collected_at: "2026-04-17T13:23:10.605716+00:00"
 ---
 
 ## 문제

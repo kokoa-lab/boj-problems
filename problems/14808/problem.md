@@ -1,13 +1,13 @@
 ---
-title: Pony Express (Large)
-special_judge: true
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Pony Express (Large)"
+special_judge: "true"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 93
 accepted: 53
 solved_users: 47
-acceptance_rate: 54.023%
-collected_at: 2026-04-17T13:42:08.690662+00:00
+acceptance_rate: "54.023%"
+collected_at: "2026-04-17T13:42:08.690662+00:00"
 ---
 
 ## 문제

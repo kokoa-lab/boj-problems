@@ -1,13 +1,13 @@
 ---
-title: 수열의 비밀 (Easy)
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "수열의 비밀 (Easy)"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 533
 accepted: 400
 solved_users: 372
-acceptance_rate: 75.152%
-collected_at: 2026-04-17T19:47:48.034831+00:00
+acceptance_rate: "75.152%"
+collected_at: "2026-04-17T19:47:48.034831+00:00"
 ---
 
 ## 문제

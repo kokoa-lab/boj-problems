@@ -1,13 +1,13 @@
 ---
-title: \(\text{Con}+\cfrac{\text{tin}}{\text{ued}+\cfrac{\text{Frac}}{\text{tions}}}\)
-special_judge: false
-time_limit: 3 초
-memory_limit: 256 MB
+title: "\\(\\text{Con}+\\cfrac{\\text{tin}}{\\text{ued}+\\cfrac{\\text{Frac}}{\\text{tions}}}\\)"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "256 MB"
 submissions: 440
 accepted: 103
 solved_users: 85
-acceptance_rate: 25.074%
-collected_at: 2026-04-17T12:22:54.196251+00:00
+acceptance_rate: "25.074%"
+collected_at: "2026-04-17T12:22:54.196251+00:00"
 ---
 
 ## 문제

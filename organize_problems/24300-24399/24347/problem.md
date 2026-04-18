@@ -1,13 +1,13 @@
 ---
-title: КАРТИ
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "КАРТИ"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 141
 accepted: 113
 solved_users: 97
-acceptance_rate: 84.348%
-collected_at: 2026-04-17T17:07:50.964192+00:00
+acceptance_rate: "84.348%"
+collected_at: "2026-04-17T17:07:50.964192+00:00"
 ---
 
 ## 문제

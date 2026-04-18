@@ -1,13 +1,13 @@
 ---
-title: 독서실 거리두기
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "독서실 거리두기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 1863
 accepted: 425
 solved_users: 329
-acceptance_rate: 23.433%
-collected_at: 2026-04-17T15:39:41.073670+00:00
+acceptance_rate: "23.433%"
+collected_at: "2026-04-17T15:39:41.073670+00:00"
 ---
 
 ## 문제

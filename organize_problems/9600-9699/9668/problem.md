@@ -1,13 +1,13 @@
 ---
-title: ČOKOLADE
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "ČOKOLADE"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 53
 accepted: 23
 solved_users: 21
-acceptance_rate: 46.667%
-collected_at: 2026-04-17T12:12:42.760547+00:00
+acceptance_rate: "46.667%"
+collected_at: "2026-04-17T12:12:42.760547+00:00"
 ---
 
 ## 문제

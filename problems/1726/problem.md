@@ -1,13 +1,13 @@
 ---
-title: 로봇
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "로봇"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 21410
 accepted: 6158
 solved_users: 4278
-acceptance_rate: 28.161%
-collected_at: 2026-04-17T10:32:44.387870+00:00
+acceptance_rate: "28.161%"
+collected_at: "2026-04-17T10:32:44.387870+00:00"
 ---
 
 ## 문제

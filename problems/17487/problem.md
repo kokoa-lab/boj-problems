@@ -1,13 +1,13 @@
 ---
-title: 타자 연습
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "타자 연습"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 1138
 accepted: 586
 solved_users: 508
-acceptance_rate: 55.886%
-collected_at: 2026-04-18T09:59:02.163420+00:00
+acceptance_rate: "55.886%"
+collected_at: "2026-04-18T09:59:02.163420+00:00"
 ---
 
 ## 문제

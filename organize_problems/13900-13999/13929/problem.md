@@ -1,13 +1,13 @@
 ---
-title: British Menu
-special_judge: false
-time_limit: 5 초
-memory_limit: 1024 MB
+title: "British Menu"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "1024 MB"
 submissions: 119
 accepted: 47
 solved_users: 31
-acceptance_rate: 43.662%
-collected_at: 2026-04-17T13:22:26.136252+00:00
+acceptance_rate: "43.662%"
+collected_at: "2026-04-17T13:22:26.136252+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 2022 APC가 어려웠다고요?
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "2022 APC가 어려웠다고요?"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 547
 accepted: 150
 solved_users: 126
-acceptance_rate: 32.391%
-collected_at: 2026-04-17T18:18:32.379054+00:00
+acceptance_rate: "32.391%"
+collected_at: "2026-04-17T18:18:32.379054+00:00"
 ---
 
 ## 문제

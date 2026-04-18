@@ -1,13 +1,13 @@
 ---
-title: 오직 5%의 사람들만이 이 문제를 풀 수 있습니다
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "오직 5%의 사람들만이 이 문제를 풀 수 있습니다"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 34
 accepted: 18
 solved_users: 16
-acceptance_rate: 59.259%
-collected_at: 2026-04-17T19:21:14.652912+00:00
+acceptance_rate: "59.259%"
+collected_at: "2026-04-17T19:21:14.652912+00:00"
 ---
 
 ## 문제

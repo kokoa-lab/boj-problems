@@ -1,13 +1,13 @@
 ---
-title: Fence
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Fence"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 136
 accepted: 81
 solved_users: 72
-acceptance_rate: 61.017%
-collected_at: 2026-04-17T13:07:01.995078+00:00
+acceptance_rate: "61.017%"
+collected_at: "2026-04-17T13:07:01.995078+00:00"
 ---
 
 ## 문제

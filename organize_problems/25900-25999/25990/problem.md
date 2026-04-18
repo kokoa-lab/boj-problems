@@ -1,13 +1,13 @@
 ---
-title: Knitting Patterns
-special_judge: false
-time_limit: 3 초 (추가 시간 없음)
-memory_limit: 2048 MB
+title: "Knitting Patterns"
+special_judge: "false"
+time_limit: "3 초 (추가 시간 없음)"
+memory_limit: "2048 MB"
 submissions: 90
 accepted: 35
 solved_users: 29
-acceptance_rate: 53.704%
-collected_at: 2026-04-17T17:38:17.730758+00:00
+acceptance_rate: "53.704%"
+collected_at: "2026-04-17T17:38:17.730758+00:00"
 ---
 
 ## 문제

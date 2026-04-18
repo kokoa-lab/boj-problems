@@ -1,13 +1,13 @@
 ---
-title: 앉았다
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "앉았다"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 1339
 accepted: 723
 solved_users: 627
-acceptance_rate: 56.537%
-collected_at: 2026-04-17T13:40:56.046512+00:00
+acceptance_rate: "56.537%"
+collected_at: "2026-04-17T13:40:56.046512+00:00"
 ---
 
 ## 문제

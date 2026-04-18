@@ -1,13 +1,13 @@
 ---
-title: 수들의 합 5
-special_judge: false
-time_limit: 2 초
-memory_limit: 32 MB
+title: "수들의 합 5"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "32 MB"
 submissions: 37050
 accepted: 18211
 solved_users: 13307
-acceptance_rate: 49.207%
-collected_at: 2026-04-17T10:37:10.911755+00:00
+acceptance_rate: "49.207%"
+collected_at: "2026-04-17T10:37:10.911755+00:00"
 ---
 
 ## 문제

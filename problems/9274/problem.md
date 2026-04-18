@@ -1,13 +1,13 @@
 ---
-title: 종이 지도
-special_judge: false
-time_limit: 3 초
-memory_limit: 128 MB
+title: "종이 지도"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "128 MB"
 submissions: 140
 accepted: 34
 solved_users: 26
-acceptance_rate: 43.333%
-collected_at: 2026-04-17T12:08:29.984019+00:00
+acceptance_rate: "43.333%"
+collected_at: "2026-04-17T12:08:29.984019+00:00"
 ---
 
 ## 문제

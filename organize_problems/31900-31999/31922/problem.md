@@ -1,13 +1,13 @@
 ---
-title: 이 대회는 이제 제 겁니다
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "이 대회는 이제 제 겁니다"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 3028
 accepted: 2124
 solved_users: 2047
-acceptance_rate: 70.855%
-collected_at: 2026-04-17T19:39:09.880335+00:00
+acceptance_rate: "70.855%"
+collected_at: "2026-04-17T19:39:09.880335+00:00"
 ---
 
 ## 문제

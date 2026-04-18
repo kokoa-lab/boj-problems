@@ -1,13 +1,13 @@
 ---
-title: 방 번호
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "방 번호"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 9376
 accepted: 3274
 solved_users: 2580
-acceptance_rate: 35.198%
-collected_at: 2026-04-17T10:28:06.389598+00:00
+acceptance_rate: "35.198%"
+collected_at: "2026-04-17T10:28:06.389598+00:00"
 ---
 
 ## 문제

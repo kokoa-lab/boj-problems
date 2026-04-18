@@ -1,13 +1,13 @@
 ---
-title: 논리의 돌
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "논리의 돌"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 222
 accepted: 35
 solved_users: 21
-acceptance_rate: 26.923%
-collected_at: 2026-04-17T16:00:20.079994+00:00
+acceptance_rate: "26.923%"
+collected_at: "2026-04-17T16:00:20.079994+00:00"
 ---
 
 ## 문제

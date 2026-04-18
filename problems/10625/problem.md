@@ -1,13 +1,13 @@
 ---
-title: Decoding Ancient Messages
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "Decoding Ancient Messages"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 134
 accepted: 31
 solved_users: 24
-acceptance_rate: 39.344%
-collected_at: 2026-04-17T12:26:33.373782+00:00
+acceptance_rate: "39.344%"
+collected_at: "2026-04-17T12:26:33.373782+00:00"
 ---
 
 ## 문제

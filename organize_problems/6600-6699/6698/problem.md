@@ -1,13 +1,13 @@
 ---
-title: Ball bearings
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Ball bearings"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 25
 accepted: 17
 solved_users: 13
-acceptance_rate: 76.471%
-collected_at: 2026-04-17T11:33:27.677117+00:00
+acceptance_rate: "76.471%"
+collected_at: "2026-04-17T11:33:27.677117+00:00"
 ---
 
 ## 문제

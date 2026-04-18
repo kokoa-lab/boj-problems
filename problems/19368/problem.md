@@ -1,13 +1,13 @@
 ---
-title: Circular Sectors
-special_judge: true
-time_limit: 2 초
-memory_limit: 256 MB
+title: "Circular Sectors"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 166
 accepted: 47
 solved_users: 8
-acceptance_rate: 10.811%
-collected_at: 2026-04-17T15:18:22.629827+00:00
+acceptance_rate: "10.811%"
+collected_at: "2026-04-17T15:18:22.629827+00:00"
 ---
 
 ## 문제

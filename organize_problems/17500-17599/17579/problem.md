@@ -1,13 +1,13 @@
 ---
-title: Balance Scale
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Balance Scale"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 162
 accepted: 37
 solved_users: 34
-acceptance_rate: 26.562%
-collected_at: 2026-04-17T14:42:05.339983+00:00
+acceptance_rate: "26.562%"
+collected_at: "2026-04-17T14:42:05.339983+00:00"
 ---
 
 ## 문제

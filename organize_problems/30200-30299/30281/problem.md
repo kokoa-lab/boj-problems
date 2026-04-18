@@ -1,13 +1,13 @@
 ---
-title: Saldainiai
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Saldainiai"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 531
 accepted: 172
 solved_users: 148
-acceptance_rate: 37.186%
-collected_at: 2026-04-17T19:02:21.479682+00:00
+acceptance_rate: "37.186%"
+collected_at: "2026-04-17T19:02:21.479682+00:00"
 ---
 
 ## 문제

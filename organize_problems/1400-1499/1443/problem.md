@@ -1,13 +1,13 @@
 ---
-title: 망가진 계산기
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "망가진 계산기"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 1055
 accepted: 438
 solved_users: 343
-acceptance_rate: 42.503%
-collected_at: 2026-04-17T10:30:12.686282+00:00
+acceptance_rate: "42.503%"
+collected_at: "2026-04-17T10:30:12.686282+00:00"
 ---
 
 ## 문제

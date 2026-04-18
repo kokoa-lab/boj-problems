@@ -1,13 +1,13 @@
 ---
-title: SciComLove (2022)
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "SciComLove (2022)"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 1312
 accepted: 868
 solved_users: 785
-acceptance_rate: 67.324%
-collected_at: 2026-04-17T17:17:29.989091+00:00
+acceptance_rate: "67.324%"
+collected_at: "2026-04-17T17:17:29.989091+00:00"
 ---
 
 ## 문제

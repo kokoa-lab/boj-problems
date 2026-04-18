@@ -1,13 +1,13 @@
 ---
-title: 주차 타워
-special_judge: false
-time_limit: 1.5 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "주차 타워"
+special_judge: "false"
+time_limit: "1.5 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 890
 accepted: 152
 solved_users: 83
-acceptance_rate: 24.925%
-collected_at: 2026-04-17T17:26:15.312369+00:00
+acceptance_rate: "24.925%"
+collected_at: "2026-04-17T17:26:15.312369+00:00"
 ---
 
 ## 문제

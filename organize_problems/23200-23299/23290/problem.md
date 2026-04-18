@@ -1,13 +1,13 @@
 ---
-title: 마법사 상어와 복제
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "마법사 상어와 복제"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 8358
 accepted: 4575
 solved_users: 2651
-acceptance_rate: 53.062%
-collected_at: 2026-04-17T16:45:48.304634+00:00
+acceptance_rate: "53.062%"
+collected_at: "2026-04-17T16:45:48.304634+00:00"
 ---
 
 ## 문제

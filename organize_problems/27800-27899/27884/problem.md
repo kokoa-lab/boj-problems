@@ -1,13 +1,13 @@
 ---
-title: 가희와 서울 지하철 3호선
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "가희와 서울 지하철 3호선"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 194
 accepted: 96
 solved_users: 81
-acceptance_rate: 52.597%
-collected_at: 2026-04-17T18:13:39.493190+00:00
+acceptance_rate: "52.597%"
+collected_at: "2026-04-17T18:13:39.493190+00:00"
 ---
 
 ## 문제

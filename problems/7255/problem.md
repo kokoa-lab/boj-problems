@@ -1,13 +1,13 @@
 ---
-title: Sujungimas
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Sujungimas"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 132
 accepted: 40
 solved_users: 32
-acceptance_rate: 31.068%
-collected_at: 2026-04-17T11:47:41.526832+00:00
+acceptance_rate: "31.068%"
+collected_at: "2026-04-17T11:47:41.526832+00:00"
 ---
 
 ## 문제

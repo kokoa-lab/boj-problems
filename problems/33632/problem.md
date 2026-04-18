@@ -1,13 +1,13 @@
 ---
-title: 2교시: 체육
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "2교시: 체육"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 516
 accepted: 142
 solved_users: 120
-acceptance_rate: 30.000%
-collected_at: 2026-04-17T20:20:25.422736+00:00
+acceptance_rate: "30.000%"
+collected_at: "2026-04-17T20:20:25.422736+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 移動 (Moving)
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "移動 (Moving)"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 2093
 accepted: 1697
 solved_users: 1607
-acceptance_rate: 81.244%
-collected_at: 2026-04-17T17:03:22.278372+00:00
+acceptance_rate: "81.244%"
+collected_at: "2026-04-17T17:03:22.278372+00:00"
 ---
 
 ## 문제

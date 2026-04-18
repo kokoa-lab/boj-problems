@@ -1,13 +1,13 @@
 ---
-title: Жребий Крижановского
-special_judge: false
-time_limit: 2.002 초
-memory_limit: 1024 MB
+title: "Жребий Крижановского"
+special_judge: "false"
+time_limit: "2.002 초"
+memory_limit: "1024 MB"
 submissions: 98
 accepted: 39
 solved_users: 30
-acceptance_rate: 37.975%
-collected_at: 2026-04-17T15:58:42.538316+00:00
+acceptance_rate: "37.975%"
+collected_at: "2026-04-17T15:58:42.538316+00:00"
 ---
 
 ## 문제

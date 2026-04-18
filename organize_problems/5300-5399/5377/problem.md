@@ -1,13 +1,13 @@
 ---
-title: 승혁이의 과외돌이네 집 탈출하기
-special_judge: true
-time_limit: 1 초
-memory_limit: 128 MB
+title: "승혁이의 과외돌이네 집 탈출하기"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 999
 accepted: 117
 solved_users: 70
-acceptance_rate: 13.780%
-collected_at: 2026-04-17T11:13:23.427433+00:00
+acceptance_rate: "13.780%"
+collected_at: "2026-04-17T11:13:23.427433+00:00"
 ---
 
 ## 문제

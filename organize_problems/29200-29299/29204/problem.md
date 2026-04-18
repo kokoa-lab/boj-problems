@@ -1,13 +1,13 @@
 ---
-title: KSA에서 숨바꼭질
-special_judge: false
-time_limit: 1.5 초
-memory_limit: 1024 MB
+title: "KSA에서 숨바꼭질"
+special_judge: "false"
+time_limit: "1.5 초"
+memory_limit: "1024 MB"
 submissions: 235
 accepted: 32
 solved_users: 29
-acceptance_rate: 23.770%
-collected_at: 2026-04-17T18:38:41.264736+00:00
+acceptance_rate: "23.770%"
+collected_at: "2026-04-17T18:38:41.264736+00:00"
 ---
 
 ## 문제

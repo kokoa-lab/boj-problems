@@ -1,13 +1,13 @@
 ---
-title: Cabin Baggage
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Cabin Baggage"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 919
 accepted: 499
 solved_users: 468
-acceptance_rate: 54.994%
-collected_at: 2026-04-17T12:12:00.712780+00:00
+acceptance_rate: "54.994%"
+collected_at: "2026-04-17T12:12:00.712780+00:00"
 ---
 
 ## 문제

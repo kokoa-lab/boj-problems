@@ -1,13 +1,13 @@
 ---
-title: 강아지 기다리기
-special_judge: true
-time_limit: 1 초
-memory_limit: 256 MB
+title: "강아지 기다리기"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 38
 accepted: 2
 solved_users: 2
-acceptance_rate: 100.000%
-collected_at: 2026-04-17T10:46:38.209177+00:00
+acceptance_rate: "100.000%"
+collected_at: "2026-04-17T10:46:38.209177+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Warehouse Store
-special_judge: true
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Warehouse Store"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 156
 accepted: 55
 solved_users: 50
-acceptance_rate: 36.765%
-collected_at: 2026-04-17T11:57:32.097615+00:00
+acceptance_rate: "36.765%"
+collected_at: "2026-04-17T11:57:32.097615+00:00"
 ---
 
 ## 문제

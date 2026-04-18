@@ -1,13 +1,13 @@
 ---
-title: 가희의 고구마 먹방
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "가희의 고구마 먹방"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 2310
 accepted: 834
 solved_users: 593
-acceptance_rate: 32.263%
-collected_at: 2026-04-17T16:07:21.412964+00:00
+acceptance_rate: "32.263%"
+collected_at: "2026-04-17T16:07:21.412964+00:00"
 ---
 
 ## 문제

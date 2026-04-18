@@ -1,13 +1,13 @@
 ---
-title: 드라이브 파이널
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "드라이브 파이널"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 291
 accepted: 63
 solved_users: 35
-acceptance_rate: 16.588%
-collected_at: 2026-04-17T10:38:47.007089+00:00
+acceptance_rate: "16.588%"
+collected_at: "2026-04-17T10:38:47.007089+00:00"
 ---
 
 ## 문제

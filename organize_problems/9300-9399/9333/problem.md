@@ -1,13 +1,13 @@
 ---
-title: 돈 갚기
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "돈 갚기"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 1396
 accepted: 239
 solved_users: 185
-acceptance_rate: 19.515%
-collected_at: 2026-04-17T12:09:01.066779+00:00
+acceptance_rate: "19.515%"
+collected_at: "2026-04-17T12:09:01.066779+00:00"
 ---
 
 ## 문제

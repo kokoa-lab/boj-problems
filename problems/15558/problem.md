@@ -1,13 +1,13 @@
 ---
-title: 점프 게임
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "점프 게임"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 7093
 accepted: 2425
 solved_users: 1832
-acceptance_rate: 32.673%
-collected_at: 2026-04-17T14:01:31.431462+00:00
+acceptance_rate: "32.673%"
+collected_at: "2026-04-17T14:01:31.431462+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Imperfect GPS
-special_judge: true
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Imperfect GPS"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 88
 accepted: 41
 solved_users: 38
-acceptance_rate: 52.778%
-collected_at: 2026-04-17T13:59:09.415241+00:00
+acceptance_rate: "52.778%"
+collected_at: "2026-04-17T13:59:09.415241+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Koreografija
-special_judge: false
-time_limit: 8 초
-memory_limit: 1024 MB
+title: "Koreografija"
+special_judge: "false"
+time_limit: "8 초"
+memory_limit: "1024 MB"
 submissions: 97
 accepted: 28
 solved_users: 23
-acceptance_rate: 24.731%
-collected_at: 2026-04-17T19:40:12.263285+00:00
+acceptance_rate: "24.731%"
+collected_at: "2026-04-17T19:40:12.263285+00:00"
 ---
 
 ## 문제

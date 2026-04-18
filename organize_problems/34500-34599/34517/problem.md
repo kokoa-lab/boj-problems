@@ -1,13 +1,13 @@
 ---
-title: 프랙탈과 점
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "프랙탈과 점"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 183
 accepted: 71
 solved_users: 53
-acceptance_rate: 39.259%
-collected_at: 2026-04-17T20:41:47.224093+00:00
+acceptance_rate: "39.259%"
+collected_at: "2026-04-17T20:41:47.224093+00:00"
 ---
 
 ## 문제

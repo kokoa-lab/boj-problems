@@ -1,13 +1,13 @@
 ---
-title: 패스 구입
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "패스 구입"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 162
 accepted: 20
 solved_users: 16
-acceptance_rate: 15.534%
-collected_at: 2026-04-17T20:32:55.316302+00:00
+acceptance_rate: "15.534%"
+collected_at: "2026-04-17T20:32:55.316302+00:00"
 ---
 
 ## 문제

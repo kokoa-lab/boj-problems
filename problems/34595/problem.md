@@ -1,13 +1,13 @@
 ---
-title: Stapler
-special_judge: false
-time_limit: 2 초
-memory_limit: 2048 MB
+title: "Stapler"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "2048 MB"
 submissions: 46
 accepted: 29
 solved_users: 29
-acceptance_rate: 65.909%
-collected_at: 2026-04-17T20:43:32.188801+00:00
+acceptance_rate: "65.909%"
+collected_at: "2026-04-17T20:43:32.188801+00:00"
 ---
 
 ## 문제

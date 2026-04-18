@@ -1,13 +1,13 @@
 ---
-title: 삼분 그래프
-special_judge: false
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "삼분 그래프"
+special_judge: "false"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 358
 accepted: 58
 solved_users: 52
-acceptance_rate: 15.522%
-collected_at: 2026-04-17T14:39:23.794172+00:00
+acceptance_rate: "15.522%"
+collected_at: "2026-04-17T14:39:23.794172+00:00"
 ---
 
 ## 문제

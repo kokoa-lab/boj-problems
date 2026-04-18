@@ -1,13 +1,13 @@
 ---
-title: Tree Construction
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Tree Construction"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 21
 accepted: 4
 solved_users: 3
-acceptance_rate: 42.857%
-collected_at: 2026-04-17T16:28:06.896427+00:00
+acceptance_rate: "42.857%"
+collected_at: "2026-04-17T16:28:06.896427+00:00"
 ---
 
 ## 문제

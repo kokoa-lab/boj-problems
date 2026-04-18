@@ -1,13 +1,13 @@
 ---
-title: 말아톤
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "말아톤"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 625
 accepted: 235
 solved_users: 186
-acceptance_rate: 38.669%
-collected_at: 2026-04-17T10:40:40.412464+00:00
+acceptance_rate: "38.669%"
+collected_at: "2026-04-17T10:40:40.412464+00:00"
 ---
 
 ## 문제

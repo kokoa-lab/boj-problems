@@ -1,13 +1,13 @@
 ---
-title: Дома
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Дома"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 119
 accepted: 77
 solved_users: 68
-acceptance_rate: 62.385%
-collected_at: 2026-04-17T18:42:25.487712+00:00
+acceptance_rate: "62.385%"
+collected_at: "2026-04-17T18:42:25.487712+00:00"
 ---
 
 ## 문제

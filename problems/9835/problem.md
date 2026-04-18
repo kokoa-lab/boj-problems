@@ -1,13 +1,13 @@
 ---
-title: BESTP
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "BESTP"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 56
 accepted: 27
 solved_users: 24
-acceptance_rate: 48.980%
-collected_at: 2026-04-17T12:15:16.412004+00:00
+acceptance_rate: "48.980%"
+collected_at: "2026-04-17T12:15:16.412004+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Jump
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Jump"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 206
 accepted: 74
 solved_users: 56
-acceptance_rate: 33.735%
-collected_at: 2026-04-17T12:45:13.204137+00:00
+acceptance_rate: "33.735%"
+collected_at: "2026-04-17T12:45:13.204137+00:00"
 ---
 
 ## 문제

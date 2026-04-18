@@ -1,13 +1,13 @@
 ---
-title: Mine Layer (Small)
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Mine Layer (Small)"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 60
 accepted: 37
 solved_users: 28
-acceptance_rate: 65.116%
-collected_at: 2026-04-17T12:59:15.939658+00:00
+acceptance_rate: "65.116%"
+collected_at: "2026-04-17T12:59:15.939658+00:00"
 ---
 
 ## 문제

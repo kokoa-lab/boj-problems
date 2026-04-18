@@ -1,13 +1,13 @@
 ---
-title: ZAMKA
-special_judge: false
-time_limit: 1 초
-memory_limit: 64 MB
+title: "ZAMKA"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "64 MB"
 submissions: 965
 accepted: 753
 solved_users: 707
-acceptance_rate: 80.068%
-collected_at: 2026-04-17T12:47:16.708974+00:00
+acceptance_rate: "80.068%"
+collected_at: "2026-04-17T12:47:16.708974+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 학교 가지마!
-special_judge: false
-time_limit: 2 초
-memory_limit: 160 MB
+title: "학교 가지마!"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "160 MB"
 submissions: 6512
 accepted: 1812
 solved_users: 1278
-acceptance_rate: 25.473%
-collected_at: 2026-04-17T10:30:05.766300+00:00
+acceptance_rate: "25.473%"
+collected_at: "2026-04-17T10:30:05.766300+00:00"
 ---
 
 ## 문제

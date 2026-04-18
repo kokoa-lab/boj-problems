@@ -1,13 +1,13 @@
 ---
-title: Open Intervals
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Open Intervals"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 62
 accepted: 42
 solved_users: 40
-acceptance_rate: 67.797%
-collected_at: 2026-04-17T11:13:08.246924+00:00
+acceptance_rate: "67.797%"
+collected_at: "2026-04-17T11:13:08.246924+00:00"
 ---
 
 ## 문제

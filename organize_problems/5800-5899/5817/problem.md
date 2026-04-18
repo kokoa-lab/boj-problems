@@ -1,13 +1,13 @@
 ---
-title: 고통받는 난쟁이들
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "고통받는 난쟁이들"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 715
 accepted: 307
 solved_users: 260
-acceptance_rate: 46.512%
-collected_at: 2026-04-17T11:17:39.364626+00:00
+acceptance_rate: "46.512%"
+collected_at: "2026-04-17T11:17:39.364626+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 땅따먹기
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "땅따먹기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 3005
 accepted: 1032
 solved_users: 767
-acceptance_rate: 32.200%
-collected_at: 2026-04-17T11:21:43.265432+00:00
+acceptance_rate: "32.200%"
+collected_at: "2026-04-17T11:21:43.265432+00:00"
 ---
 
 ## 문제

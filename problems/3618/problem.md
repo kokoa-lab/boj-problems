@@ -1,13 +1,13 @@
 ---
-title: Deciphering
-special_judge: true
-time_limit: 2 초
-memory_limit: 64 MB
+title: "Deciphering"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "64 MB"
 submissions: 2
 accepted: 0
 solved_users: 0
-acceptance_rate: 0.000%
-collected_at: 2026-04-17T10:50:17.068307+00:00
+acceptance_rate: "0.000%"
+collected_at: "2026-04-17T10:50:17.068307+00:00"
 ---
 
 ## 문제

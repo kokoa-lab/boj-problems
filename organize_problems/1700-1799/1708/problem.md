@@ -1,13 +1,13 @@
 ---
-title: 볼록 껍질
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "볼록 껍질"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 32757
 accepted: 10363
 solved_users: 5409
-acceptance_rate: 28.116%
-collected_at: 2026-04-17T10:32:32.109862+00:00
+acceptance_rate: "28.116%"
+collected_at: "2026-04-17T10:32:32.109862+00:00"
 ---
 
 ## 문제

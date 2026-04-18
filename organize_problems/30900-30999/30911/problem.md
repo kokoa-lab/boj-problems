@@ -1,13 +1,13 @@
 ---
-title: 🧩 NL-Queen (mod N)
-special_judge: true
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "🧩 NL-Queen (mod N)"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 93
 accepted: 17
 solved_users: 15
-acceptance_rate: 25.862%
-collected_at: 2026-04-17T19:17:50.352688+00:00
+acceptance_rate: "25.862%"
+collected_at: "2026-04-17T19:17:50.352688+00:00"
 ---
 
 ## 문제

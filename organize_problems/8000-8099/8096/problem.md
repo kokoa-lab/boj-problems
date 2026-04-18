@@ -1,13 +1,13 @@
 ---
-title: Monochromatic Triangles
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Monochromatic Triangles"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 231
 accepted: 182
 solved_users: 134
-acceptance_rate: 89.933%
-collected_at: 2026-04-17T11:55:58.218354+00:00
+acceptance_rate: "89.933%"
+collected_at: "2026-04-17T11:55:58.218354+00:00"
 ---
 
 ## 문제

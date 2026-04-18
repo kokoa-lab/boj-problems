@@ -1,13 +1,13 @@
 ---
-title: 계단 수열과 쿼리
-special_judge: false
-time_limit: 2.5 초
-memory_limit: 1024 MB
+title: "계단 수열과 쿼리"
+special_judge: "false"
+time_limit: "2.5 초"
+memory_limit: "1024 MB"
 submissions: 175
 accepted: 54
 solved_users: 48
-acceptance_rate: 29.448%
-collected_at: 2026-04-17T19:50:32.992548+00:00
+acceptance_rate: "29.448%"
+collected_at: "2026-04-17T19:50:32.992548+00:00"
 ---
 
 ## 문제

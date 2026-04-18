@@ -1,13 +1,13 @@
 ---
-title: K번째 스페이드 찾기
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "K번째 스페이드 찾기"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 287
 accepted: 163
 solved_users: 149
-acceptance_rate: 63.136%
-collected_at: 2026-04-17T18:26:00.790718+00:00
+acceptance_rate: "63.136%"
+collected_at: "2026-04-17T18:26:00.790718+00:00"
 ---
 
 ## 문제

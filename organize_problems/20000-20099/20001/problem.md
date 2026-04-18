@@ -1,13 +1,13 @@
 ---
-title: 고무오리 디버깅
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "고무오리 디버깅"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 3134
 accepted: 1890
 solved_users: 1701
-acceptance_rate: 63.613%
-collected_at: 2026-04-17T15:30:21.132980+00:00
+acceptance_rate: "63.613%"
+collected_at: "2026-04-17T15:30:21.132980+00:00"
 ---
 
 ## 문제

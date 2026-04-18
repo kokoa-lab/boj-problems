@@ -1,13 +1,13 @@
 ---
-title: 흰색으로 만들기
-special_judge: true
-time_limit: 1 초
-memory_limit: 512 MB
+title: "흰색으로 만들기"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 647
 accepted: 353
 solved_users: 300
-acceptance_rate: 55.147%
-collected_at: 2026-04-17T14:36:37.704603+00:00
+acceptance_rate: "55.147%"
+collected_at: "2026-04-17T14:36:37.704603+00:00"
 ---
 
 ## 문제

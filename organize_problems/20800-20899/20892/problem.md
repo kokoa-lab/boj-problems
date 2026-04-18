@@ -1,13 +1,13 @@
 ---
-title: Julklappsköp
-special_judge: false
-time_limit: 4 초
-memory_limit: 1024 MB
+title: "Julklappsköp"
+special_judge: "false"
+time_limit: "4 초"
+memory_limit: "1024 MB"
 submissions: 11
 accepted: 6
 solved_users: 6
-acceptance_rate: 75.000%
-collected_at: 2026-04-17T15:42:49.476930+00:00
+acceptance_rate: "75.000%"
+collected_at: "2026-04-17T15:42:49.476930+00:00"
 ---
 
 ## 문제

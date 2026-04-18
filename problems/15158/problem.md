@@ -1,13 +1,13 @@
 ---
-title: Dangerous Discus
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Dangerous Discus"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 5
 accepted: 2
 solved_users: 1
-acceptance_rate: 100.000%
-collected_at: 2026-04-17T13:53:02.097322+00:00
+acceptance_rate: "100.000%"
+collected_at: "2026-04-17T13:53:02.097322+00:00"
 ---
 
 ## 문제

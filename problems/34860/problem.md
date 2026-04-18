@@ -1,13 +1,13 @@
 ---
-title: Adventurer Dabi
-special_judge: false
-time_limit: 3 초
-memory_limit: 2048 MB
+title: "Adventurer Dabi"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "2048 MB"
 submissions: 24
 accepted: 6
 solved_users: 6
-acceptance_rate: 46.154%
-collected_at: 2026-04-17T20:50:45.645616+00:00
+acceptance_rate: "46.154%"
+collected_at: "2026-04-17T20:50:45.645616+00:00"
 ---
 
 ## 문제

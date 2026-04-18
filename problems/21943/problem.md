@@ -1,13 +1,13 @@
 ---
-title: 연산 최대로
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "연산 최대로"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 725
 accepted: 353
 solved_users: 230
-acceptance_rate: 48.729%
-collected_at: 2026-04-17T16:10:19.982537+00:00
+acceptance_rate: "48.729%"
+collected_at: "2026-04-17T16:10:19.982537+00:00"
 ---
 
 ## 문제

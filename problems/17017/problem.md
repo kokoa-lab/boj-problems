@@ -1,13 +1,13 @@
 ---
-title: Triangle: The Data Structure
-special_judge: false
-time_limit: 4 초
-memory_limit: 512 MB
+title: "Triangle: The Data Structure"
+special_judge: "false"
+time_limit: "4 초"
+memory_limit: "512 MB"
 submissions: 135
 accepted: 41
 solved_users: 31
-acceptance_rate: 27.928%
-collected_at: 2026-04-17T14:27:45.593378+00:00
+acceptance_rate: "27.928%"
+collected_at: "2026-04-17T14:27:45.593378+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 야구 시즌
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "야구 시즌"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 3913
 accepted: 1564
 solved_users: 1248
-acceptance_rate: 42.148%
-collected_at: 2026-04-17T16:06:56.992079+00:00
+acceptance_rate: "42.148%"
+collected_at: "2026-04-17T16:06:56.992079+00:00"
 ---
 
 ## 문제

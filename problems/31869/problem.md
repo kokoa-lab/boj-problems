@@ -1,13 +1,13 @@
 ---
-title: 선배님 밥 사주세요!
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "선배님 밥 사주세요!"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 1417
 accepted: 401
 solved_users: 336
-acceptance_rate: 31.256%
-collected_at: 2026-04-17T19:38:01.830708+00:00
+acceptance_rate: "31.256%"
+collected_at: "2026-04-17T19:38:01.830708+00:00"
 ---
 
 ## 문제

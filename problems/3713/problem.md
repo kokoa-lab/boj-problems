@@ -1,13 +1,13 @@
 ---
-title: 당일치기
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "당일치기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 140
 accepted: 55
 solved_users: 44
-acceptance_rate: 53.012%
-collected_at: 2026-04-17T10:51:18.156980+00:00
+acceptance_rate: "53.012%"
+collected_at: "2026-04-17T10:51:18.156980+00:00"
 ---
 
 ## 문제

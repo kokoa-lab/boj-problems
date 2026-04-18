@@ -1,13 +1,13 @@
 ---
-title: 공 칠하기
-special_judge: true
-time_limit: 2 초
-memory_limit: 128 MB
+title: "공 칠하기"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 81
 accepted: 28
 solved_users: 24
-acceptance_rate: 38.710%
-collected_at: 2026-04-17T10:30:59.563652+00:00
+acceptance_rate: "38.710%"
+collected_at: "2026-04-17T10:30:59.563652+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 욱제가 풀어야 하는 문제
-special_judge: false
-time_limit: 0.5 초
-memory_limit: 512 MB
+title: "욱제가 풀어야 하는 문제"
+special_judge: "false"
+time_limit: "0.5 초"
+memory_limit: "512 MB"
 submissions: 1219
 accepted: 467
 solved_users: 418
-acceptance_rate: 41.468%
-collected_at: 2026-04-17T14:57:58.726180+00:00
+acceptance_rate: "41.468%"
+collected_at: "2026-04-17T14:57:58.726180+00:00"
 ---
 
 ## 문제

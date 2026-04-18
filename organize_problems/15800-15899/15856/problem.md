@@ -1,13 +1,13 @@
 ---
-title: Sacred Scarecrows
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Sacred Scarecrows"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 101
 accepted: 34
 solved_users: 27
-acceptance_rate: 31.395%
-collected_at: 2026-04-17T14:07:40.608689+00:00
+acceptance_rate: "31.395%"
+collected_at: "2026-04-17T14:07:40.608689+00:00"
 ---
 
 ## 문제

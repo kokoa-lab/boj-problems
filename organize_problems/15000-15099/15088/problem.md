@@ -1,13 +1,13 @@
 ---
-title: Game of Throwns
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Game of Throwns"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 197
 accepted: 103
 solved_users: 89
-acceptance_rate: 51.149%
-collected_at: 2026-04-17T13:50:22.618570+00:00
+acceptance_rate: "51.149%"
+collected_at: "2026-04-17T13:50:22.618570+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Greater Number Wins
-special_judge: true
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Greater Number Wins"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 15
 accepted: 2
 solved_users: 2
-acceptance_rate: 66.667%
-collected_at: 2026-04-17T15:14:56.921038+00:00
+acceptance_rate: "66.667%"
+collected_at: "2026-04-17T15:14:56.921038+00:00"
 ---
 
 ## 문제

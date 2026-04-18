@@ -1,13 +1,13 @@
 ---
-title: 균형
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "균형"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 917
 accepted: 510
 solved_users: 425
-acceptance_rate: 57.823%
-collected_at: 2026-04-17T16:39:34.821057+00:00
+acceptance_rate: "57.823%"
+collected_at: "2026-04-17T16:39:34.821057+00:00"
 ---
 
 ## 문제

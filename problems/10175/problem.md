@@ -1,13 +1,13 @@
 ---
-title: Dominant Species
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Dominant Species"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 402
 accepted: 277
 solved_users: 257
-acceptance_rate: 70.994%
-collected_at: 2026-04-17T12:19:59.472122+00:00
+acceptance_rate: "70.994%"
+collected_at: "2026-04-17T12:19:59.472122+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Lost Civilization
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Lost Civilization"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 216
 accepted: 72
 solved_users: 68
-acceptance_rate: 45.033%
-collected_at: 2026-04-17T20:23:50.828316+00:00
+acceptance_rate: "45.033%"
+collected_at: "2026-04-17T20:23:50.828316+00:00"
 ---
 
 ## 문제

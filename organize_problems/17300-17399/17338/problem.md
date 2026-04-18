@@ -1,13 +1,13 @@
 ---
-title: Candy Rain
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "Candy Rain"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 18
 accepted: 4
 solved_users: 4
-acceptance_rate: 57.143%
-collected_at: 2026-04-17T14:37:20.371985+00:00
+acceptance_rate: "57.143%"
+collected_at: "2026-04-17T14:37:20.371985+00:00"
 ---
 
 ## 문제

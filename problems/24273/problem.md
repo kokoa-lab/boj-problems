@@ -1,13 +1,13 @@
 ---
-title: 교통량 분석
-special_judge: false
-time_limit: 3 초
-memory_limit: 1024 MB
+title: "교통량 분석"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "1024 MB"
 submissions: 43
 accepted: 20
 solved_users: 13
-acceptance_rate: 56.522%
-collected_at: 2026-04-17T17:06:47.761743+00:00
+acceptance_rate: "56.522%"
+collected_at: "2026-04-17T17:06:47.761743+00:00"
 ---
 
 ## 문제

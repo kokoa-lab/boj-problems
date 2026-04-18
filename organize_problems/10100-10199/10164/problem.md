@@ -1,13 +1,13 @@
 ---
-title: 격자상의 경로
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "격자상의 경로"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 20780
 accepted: 7983
 solved_users: 6247
-acceptance_rate: 38.562%
-collected_at: 2026-04-17T12:19:48.677438+00:00
+acceptance_rate: "38.562%"
+collected_at: "2026-04-17T12:19:48.677438+00:00"
 ---
 
 ## 문제

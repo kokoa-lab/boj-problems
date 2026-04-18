@@ -1,13 +1,13 @@
 ---
-title: Wipe Your Whiteboards
-special_judge: false
-time_limit: 5 초
-memory_limit: 256 MB
+title: "Wipe Your Whiteboards"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "256 MB"
 submissions: 418
 accepted: 163
 solved_users: 127
-acceptance_rate: 38.138%
-collected_at: 2026-04-17T12:43:16.975315+00:00
+acceptance_rate: "38.138%"
+collected_at: "2026-04-17T12:43:16.975315+00:00"
 ---
 
 ## 문제

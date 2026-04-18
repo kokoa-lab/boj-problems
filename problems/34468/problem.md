@@ -1,13 +1,13 @@
 ---
-title: Pretty Pens
-special_judge: false
-time_limit: 2 초
-memory_limit: 2048 MB
+title: "Pretty Pens"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "2048 MB"
 submissions: 33
 accepted: 20
 solved_users: 19
-acceptance_rate: 63.333%
-collected_at: 2026-04-17T20:39:58.930446+00:00
+acceptance_rate: "63.333%"
+collected_at: "2026-04-17T20:39:58.930446+00:00"
 ---
 
 ## 문제

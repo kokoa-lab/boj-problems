@@ -1,13 +1,13 @@
 ---
-title: Generating patterns
-special_judge: false
-time_limit: 1.5 초
-memory_limit: 2048 MB
+title: "Generating patterns"
+special_judge: "false"
+time_limit: "1.5 초"
+memory_limit: "2048 MB"
 submissions: 4
 accepted: 3
 solved_users: 1
-acceptance_rate: 100.000%
-collected_at: 2026-04-17T20:48:17.218404+00:00
+acceptance_rate: "100.000%"
+collected_at: "2026-04-17T20:48:17.218404+00:00"
 ---
 
 ## 문제

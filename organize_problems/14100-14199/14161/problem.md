@@ -1,13 +1,13 @@
 ---
-title: Spoj
-special_judge: false
-time_limit: 1 초
-memory_limit: 64 MB
+title: "Spoj"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "64 MB"
 submissions: 39
 accepted: 27
 solved_users: 23
-acceptance_rate: 67.647%
-collected_at: 2026-04-17T13:27:08.959491+00:00
+acceptance_rate: "67.647%"
+collected_at: "2026-04-17T13:27:08.959491+00:00"
 ---
 
 ## 문제

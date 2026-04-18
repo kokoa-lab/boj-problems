@@ -1,13 +1,13 @@
 ---
-title: Fox Buki
-special_judge: true
-time_limit: 2 초
-memory_limit: 2048 MB
+title: "Fox Buki"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "2048 MB"
 submissions: 40
 accepted: 14
 solved_users: 12
-acceptance_rate: 35.294%
-collected_at: 2026-04-17T20:45:48.971649+00:00
+acceptance_rate: "35.294%"
+collected_at: "2026-04-17T20:45:48.971649+00:00"
 ---
 
 ## 문제

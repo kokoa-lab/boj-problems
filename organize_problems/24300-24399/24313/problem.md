@@ -1,13 +1,13 @@
 ---
-title: 알고리즘 수업 - 점근적 표기 1
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "알고리즘 수업 - 점근적 표기 1"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 53442
 accepted: 18899
 solved_users: 17135
-acceptance_rate: 35.055%
-collected_at: 2026-04-17T17:07:19.160985+00:00
+acceptance_rate: "35.055%"
+collected_at: "2026-04-17T17:07:19.160985+00:00"
 ---
 
 ## 문제

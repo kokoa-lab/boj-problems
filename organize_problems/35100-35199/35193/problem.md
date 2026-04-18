@@ -1,13 +1,13 @@
 ---
-title: Bottle of New Port
-special_judge: true
-time_limit: 1 초
-memory_limit: 2048 MB
+title: "Bottle of New Port"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "2048 MB"
 submissions: 107
 accepted: 53
 solved_users: 41
-acceptance_rate: 51.250%
-collected_at: 2026-04-17T20:57:39.657606+00:00
+acceptance_rate: "51.250%"
+collected_at: "2026-04-17T20:57:39.657606+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Building the Moat
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Building the Moat"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 569
 accepted: 369
 solved_users: 341
-acceptance_rate: 64.461%
-collected_at: 2026-04-17T11:22:26.236819+00:00
+acceptance_rate: "64.461%"
+collected_at: "2026-04-17T11:22:26.236819+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Nine Judges
-special_judge: true
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Nine Judges"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 104
 accepted: 54
 solved_users: 46
-acceptance_rate: 59.740%
-collected_at: 2026-04-17T15:05:33.076742+00:00
+acceptance_rate: "59.740%"
+collected_at: "2026-04-17T15:05:33.076742+00:00"
 ---
 
 ## 문제

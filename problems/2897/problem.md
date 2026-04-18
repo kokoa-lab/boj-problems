@@ -1,13 +1,13 @@
 ---
-title: 몬스터 트럭
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "몬스터 트럭"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 1906
 accepted: 1488
 solved_users: 1370
-acceptance_rate: 79.559%
-collected_at: 2026-04-17T10:45:33.553293+00:00
+acceptance_rate: "79.559%"
+collected_at: "2026-04-17T10:45:33.553293+00:00"
 ---
 
 ## 문제

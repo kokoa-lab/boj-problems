@@ -1,13 +1,13 @@
 ---
-title: Засада
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Засада"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 13
 accepted: 9
 solved_users: 8
-acceptance_rate: 66.667%
-collected_at: 2026-04-17T18:36:36.098660+00:00
+acceptance_rate: "66.667%"
+collected_at: "2026-04-17T18:36:36.098660+00:00"
 ---
 
 ## 문제

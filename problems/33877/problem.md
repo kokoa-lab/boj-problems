@@ -1,13 +1,13 @@
 ---
-title: Сочи Парк
-special_judge: false
-time_limit: 1 초
-memory_limit: 2048 MB
+title: "Сочи Парк"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "2048 MB"
 submissions: 35
 accepted: 3
 solved_users: 3
-acceptance_rate: 8.571%
-collected_at: 2026-04-17T20:25:28.670771+00:00
+acceptance_rate: "8.571%"
+collected_at: "2026-04-17T20:25:28.670771+00:00"
 ---
 
 ## 문제

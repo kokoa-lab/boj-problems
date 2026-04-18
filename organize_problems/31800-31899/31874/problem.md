@@ -1,13 +1,13 @@
 ---
-title: 땅땅바 나누기
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "땅땅바 나누기"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 378
 accepted: 26
 solved_users: 20
-acceptance_rate: 6.211%
-collected_at: 2026-04-17T19:38:13.626578+00:00
+acceptance_rate: "6.211%"
+collected_at: "2026-04-17T19:38:13.626578+00:00"
 ---
 
 ## 문제

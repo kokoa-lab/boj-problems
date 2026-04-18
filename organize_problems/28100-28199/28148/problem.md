@@ -1,13 +1,13 @@
 ---
-title: First Last
-special_judge: false
-time_limit: 1 초
-memory_limit: 2048 MB
+title: "First Last"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "2048 MB"
 submissions: 71
 accepted: 27
 solved_users: 25
-acceptance_rate: 44.643%
-collected_at: 2026-04-17T18:18:53.591079+00:00
+acceptance_rate: "44.643%"
+collected_at: "2026-04-17T18:18:53.591079+00:00"
 ---
 
 ## 문제

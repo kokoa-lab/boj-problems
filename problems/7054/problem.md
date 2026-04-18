@@ -1,13 +1,13 @@
 ---
-title: Trip
-special_judge: true
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Trip"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 39
 accepted: 13
 solved_users: 10
-acceptance_rate: 37.037%
-collected_at: 2026-04-17T11:44:07.337501+00:00
+acceptance_rate: "37.037%"
+collected_at: "2026-04-17T11:44:07.337501+00:00"
 ---
 
 ## 문제

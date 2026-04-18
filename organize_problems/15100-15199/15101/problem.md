@@ -1,13 +1,13 @@
 ---
-title: Faulty Robot
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Faulty Robot"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 30
 accepted: 25
 solved_users: 23
-acceptance_rate: 82.143%
-collected_at: 2026-04-17T13:50:58.334229+00:00
+acceptance_rate: "82.143%"
+collected_at: "2026-04-17T13:50:58.334229+00:00"
 ---
 
 ## 문제

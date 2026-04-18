@@ -1,13 +1,13 @@
 ---
-title: Bækj00n Online RPG
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Bækj00n Online RPG"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 530
 accepted: 227
 solved_users: 220
-acceptance_rate: 52.632%
-collected_at: 2026-04-17T18:14:13.076604+00:00
+acceptance_rate: "52.632%"
+collected_at: "2026-04-17T18:14:13.076604+00:00"
 ---
 
 ## 문제

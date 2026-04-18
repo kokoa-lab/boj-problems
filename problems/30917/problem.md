@@ -1,13 +1,13 @@
 ---
-title: A+B - 10 (제1편)
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "A+B - 10 (제1편)"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 2397
 accepted: 1435
 solved_users: 1232
-acceptance_rate: 61.785%
-collected_at: 2026-04-17T19:17:58.570714+00:00
+acceptance_rate: "61.785%"
+collected_at: "2026-04-17T19:17:58.570714+00:00"
 ---
 
 ## 문제

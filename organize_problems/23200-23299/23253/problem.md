@@ -1,13 +1,13 @@
 ---
-title: 자료구조는 정말 최고야
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "자료구조는 정말 최고야"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 5964
 accepted: 2238
 solved_users: 1742
-acceptance_rate: 37.318%
-collected_at: 2026-04-17T16:45:01.411075+00:00
+acceptance_rate: "37.318%"
+collected_at: "2026-04-17T16:45:01.411075+00:00"
 ---
 
 ## 문제

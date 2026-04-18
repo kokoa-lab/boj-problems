@@ -1,13 +1,13 @@
 ---
-title: Dongjak N1
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Dongjak N1"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 399
 accepted: 326
 solved_users: 300
-acceptance_rate: 82.192%
-collected_at: 2026-04-17T13:38:15.100133+00:00
+acceptance_rate: "82.192%"
+collected_at: "2026-04-17T13:38:15.100133+00:00"
 ---
 
 ## 문제

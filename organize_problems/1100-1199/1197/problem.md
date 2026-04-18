@@ -1,13 +1,13 @@
 ---
-title: 최소 스패닝 트리
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "최소 스패닝 트리"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 122417
 accepted: 45567
 solved_users: 26889
-acceptance_rate: 38.515%
-collected_at: 2026-04-17T10:28:43.557643+00:00
+acceptance_rate: "38.515%"
+collected_at: "2026-04-17T10:28:43.557643+00:00"
 ---
 
 ## 문제

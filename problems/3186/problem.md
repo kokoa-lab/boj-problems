@@ -1,13 +1,13 @@
 ---
-title: 소변기
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "소변기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 940
 accepted: 404
 solved_users: 327
-acceptance_rate: 41.132%
-collected_at: 2026-04-17T10:47:17.614702+00:00
+acceptance_rate: "41.132%"
+collected_at: "2026-04-17T10:47:17.614702+00:00"
 ---
 
 ## 문제

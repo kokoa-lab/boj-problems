@@ -1,13 +1,13 @@
 ---
-title: Contact Tracer
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Contact Tracer"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 105
 accepted: 96
 solved_users: 87
-acceptance_rate: 90.625%
-collected_at: 2026-04-17T15:33:13.606451+00:00
+acceptance_rate: "90.625%"
+collected_at: "2026-04-17T15:33:13.606451+00:00"
 ---
 
 ## 문제

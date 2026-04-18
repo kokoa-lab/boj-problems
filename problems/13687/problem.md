@@ -1,13 +1,13 @@
 ---
-title: Copa do Mundo
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Copa do Mundo"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 94
 accepted: 69
 solved_users: 59
-acceptance_rate: 72.840%
-collected_at: 2026-04-17T13:17:15.383687+00:00
+acceptance_rate: "72.840%"
+collected_at: "2026-04-17T13:17:15.383687+00:00"
 ---
 
 ## 문제

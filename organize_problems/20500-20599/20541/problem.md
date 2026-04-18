@@ -1,13 +1,13 @@
 ---
-title: 앨범정리
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "앨범정리"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 1190
 accepted: 308
 solved_users: 206
-acceptance_rate: 25.091%
-collected_at: 2026-04-17T15:37:48.249617+00:00
+acceptance_rate: "25.091%"
+collected_at: "2026-04-17T15:37:48.249617+00:00"
 ---
 
 ## 문제

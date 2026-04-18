@@ -1,13 +1,13 @@
 ---
-title: Balanced Paths
-special_judge: false
-time_limit: 3 초
-memory_limit: 256 MB
+title: "Balanced Paths"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "256 MB"
 submissions: 80
 accepted: 40
 solved_users: 33
-acceptance_rate: 61.111%
-collected_at: 2026-04-17T12:44:23.423752+00:00
+acceptance_rate: "61.111%"
+collected_at: "2026-04-17T12:44:23.423752+00:00"
 ---
 
 ## 문제

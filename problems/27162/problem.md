@@ -1,13 +1,13 @@
 ---
-title: Yacht Dice
-special_judge: false
-time_limit: 0.5 초
-memory_limit: 1024 MB
+title: "Yacht Dice"
+special_judge: "false"
+time_limit: "0.5 초"
+memory_limit: "1024 MB"
 submissions: 2073
 accepted: 600
 solved_users: 524
-acceptance_rate: 29.790%
-collected_at: 2026-04-17T17:57:29.304928+00:00
+acceptance_rate: "29.790%"
+collected_at: "2026-04-17T17:57:29.304928+00:00"
 ---
 
 ## 문제

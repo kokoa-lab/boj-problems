@@ -1,13 +1,13 @@
 ---
-title: Longest Progression
-special_judge: false
-time_limit: 30 초 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "Longest Progression"
+special_judge: "false"
+time_limit: "30 초 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 87
 accepted: 37
 solved_users: 32
-acceptance_rate: 48.485%
-collected_at: 2026-04-18T09:59:21.745878+00:00
+acceptance_rate: "48.485%"
+collected_at: "2026-04-18T09:59:21.745878+00:00"
 ---
 
 ## 문제

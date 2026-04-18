@@ -1,13 +1,13 @@
 ---
-title: 왕위 계승
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "왕위 계승"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 2107
 accepted: 801
 solved_users: 617
-acceptance_rate: 41.188%
-collected_at: 2026-04-17T11:10:54.309646+00:00
+acceptance_rate: "41.188%"
+collected_at: "2026-04-17T11:10:54.309646+00:00"
 ---
 
 ## 문제

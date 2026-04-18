@@ -1,13 +1,13 @@
 ---
-title: 레슬링 팀 선발
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "레슬링 팀 선발"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 209
 accepted: 50
 solved_users: 37
-acceptance_rate: 31.356%
-collected_at: 2026-04-17T12:09:43.138477+00:00
+acceptance_rate: "31.356%"
+collected_at: "2026-04-17T12:09:43.138477+00:00"
 ---
 
 ## 문제

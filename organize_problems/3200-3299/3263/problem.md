@@ -1,13 +1,13 @@
 ---
-title: LIGNJA
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "LIGNJA"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 27
 accepted: 19
 solved_users: 19
-acceptance_rate: 73.077%
-collected_at: 2026-04-17T10:47:45.084728+00:00
+acceptance_rate: "73.077%"
+collected_at: "2026-04-17T10:47:45.084728+00:00"
 ---
 
 ## 문제

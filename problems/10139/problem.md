@@ -1,13 +1,13 @@
 ---
-title: Lustra
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Lustra"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 58
 accepted: 37
 solved_users: 32
-acceptance_rate: 68.085%
-collected_at: 2026-04-17T12:19:31.104587+00:00
+acceptance_rate: "68.085%"
+collected_at: "2026-04-17T12:19:31.104587+00:00"
 ---
 
 ## 문제

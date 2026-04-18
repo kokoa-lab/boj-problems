@@ -1,13 +1,13 @@
 ---
-title: 특별한 가지
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "특별한 가지"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 2310
 accepted: 1957
 solved_users: 1857
-acceptance_rate: 86.372%
-collected_at: 2026-04-17T19:33:51.631352+00:00
+acceptance_rate: "86.372%"
+collected_at: "2026-04-17T19:33:51.631352+00:00"
 ---
 
 ## 문제

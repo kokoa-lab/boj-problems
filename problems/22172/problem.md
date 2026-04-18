@@ -1,13 +1,13 @@
 ---
-title: Веревочная почта
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "Веревочная почта"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 96
 accepted: 55
 solved_users: 41
-acceptance_rate: 52.564%
-collected_at: 2026-04-17T16:16:27.318994+00:00
+acceptance_rate: "52.564%"
+collected_at: "2026-04-17T16:16:27.318994+00:00"
 ---
 
 ## 문제

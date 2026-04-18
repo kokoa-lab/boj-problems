@@ -1,13 +1,13 @@
 ---
-title: 행성 터널
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "행성 터널"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 32088
 accepted: 12696
 solved_users: 8994
-acceptance_rate: 37.270%
-collected_at: 2026-04-17T10:45:28.796239+00:00
+acceptance_rate: "37.270%"
+collected_at: "2026-04-17T10:45:28.796239+00:00"
 ---
 
 ## 문제

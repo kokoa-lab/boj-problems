@@ -1,13 +1,13 @@
 ---
-title: 경곽 침공
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "경곽 침공"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 115
 accepted: 37
 solved_users: 29
-acceptance_rate: 50.877%
-collected_at: 2026-04-17T13:56:48.039542+00:00
+acceptance_rate: "50.877%"
+collected_at: "2026-04-17T13:56:48.039542+00:00"
 ---
 
 ## 문제

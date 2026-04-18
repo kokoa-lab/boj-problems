@@ -1,13 +1,13 @@
 ---
-title: 이장님 초대
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "이장님 초대"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 9844
 accepted: 6163
 solved_users: 5389
-acceptance_rate: 64.132%
-collected_at: 2026-04-17T12:08:09.007729+00:00
+acceptance_rate: "64.132%"
+collected_at: "2026-04-17T12:08:09.007729+00:00"
 ---
 
 ## 문제

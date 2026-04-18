@@ -1,13 +1,13 @@
 ---
-title: Fun Region
-special_judge: true
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Fun Region"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 86
 accepted: 27
 solved_users: 15
-acceptance_rate: 32.609%
-collected_at: 2026-04-17T14:57:28.395018+00:00
+acceptance_rate: "32.609%"
+collected_at: "2026-04-17T14:57:28.395018+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 어려운 소인수분해
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "어려운 소인수분해"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 10515
 accepted: 3023
 solved_users: 1851
-acceptance_rate: 25.283%
-collected_at: 2026-04-17T14:20:08.841532+00:00
+acceptance_rate: "25.283%"
+collected_at: "2026-04-17T14:20:08.841532+00:00"
 ---
 
 ## 문제

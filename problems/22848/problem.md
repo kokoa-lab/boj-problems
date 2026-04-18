@@ -1,13 +1,13 @@
 ---
-title: 조화로운 마법 농구 게임
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "조화로운 마법 농구 게임"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 54
 accepted: 16
 solved_users: 13
-acceptance_rate: 30.233%
-collected_at: 2026-04-17T16:37:18.309531+00:00
+acceptance_rate: "30.233%"
+collected_at: "2026-04-17T16:37:18.309531+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 소수의 연속합
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "소수의 연속합"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 64797
 accepted: 28687
 solved_users: 19989
-acceptance_rate: 42.129%
-collected_at: 2026-04-17T10:31:55.637314+00:00
+acceptance_rate: "42.129%"
+collected_at: "2026-04-17T10:31:55.637314+00:00"
 ---
 
 ## 문제

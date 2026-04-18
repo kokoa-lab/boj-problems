@@ -1,13 +1,13 @@
 ---
-title: 카우버거
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "카우버거"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 3080
 accepted: 2133
 solved_users: 1919
-acceptance_rate: 70.969%
-collected_at: 2026-04-17T14:05:03.431978+00:00
+acceptance_rate: "70.969%"
+collected_at: "2026-04-17T14:05:03.431978+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Large Ping Pong Tournament
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Large Ping Pong Tournament"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 252
 accepted: 98
 solved_users: 85
-acceptance_rate: 39.171%
-collected_at: 2026-04-17T13:23:54.115398+00:00
+acceptance_rate: "39.171%"
+collected_at: "2026-04-17T13:23:54.115398+00:00"
 ---
 
 ## 문제

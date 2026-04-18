@@ -1,13 +1,13 @@
 ---
-title: 국회
-special_judge: true
-time_limit: 2 초
-memory_limit: 128 MB
+title: "국회"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 1319
 accepted: 428
 solved_users: 330
-acceptance_rate: 32.869%
-collected_at: 2026-04-17T10:28:56.899013+00:00
+acceptance_rate: "32.869%"
+collected_at: "2026-04-17T10:28:56.899013+00:00"
 ---
 
 ## 문제

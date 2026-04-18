@@ -1,13 +1,13 @@
 ---
-title: Avg
-special_judge: true
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Avg"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 76
 accepted: 25
 solved_users: 24
-acceptance_rate: 38.710%
-collected_at: 2026-04-17T15:09:03.876473+00:00
+acceptance_rate: "38.710%"
+collected_at: "2026-04-17T15:09:03.876473+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 히스토그램 K개 빼기
-special_judge: false
-time_limit: 6 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "히스토그램 K개 빼기"
+special_judge: "false"
+time_limit: "6 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 41
 accepted: 16
 solved_users: 13
-acceptance_rate: 37.143%
-collected_at: 2026-04-17T19:00:21.954558+00:00
+acceptance_rate: "37.143%"
+collected_at: "2026-04-17T19:00:21.954558+00:00"
 ---
 
 ## 문제

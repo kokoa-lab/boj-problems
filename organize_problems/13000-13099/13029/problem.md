@@ -1,13 +1,13 @@
 ---
-title: 홍준이와 반물질
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "홍준이와 반물질"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 137
 accepted: 68
 solved_users: 49
-acceptance_rate: 45.794%
-collected_at: 2026-04-17T13:06:11.347006+00:00
+acceptance_rate: "45.794%"
+collected_at: "2026-04-17T13:06:11.347006+00:00"
 ---
 
 ## 문제

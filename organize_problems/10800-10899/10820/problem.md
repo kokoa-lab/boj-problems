@@ -1,13 +1,13 @@
 ---
-title: 문자열 분석
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "문자열 분석"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 38962
 accepted: 16014
 solved_users: 13280
-acceptance_rate: 41.562%
-collected_at: 2026-04-17T12:30:07.568461+00:00
+acceptance_rate: "41.562%"
+collected_at: "2026-04-17T12:30:07.568461+00:00"
 ---
 
 ## 문제

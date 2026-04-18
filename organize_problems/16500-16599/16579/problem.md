@@ -1,13 +1,13 @@
 ---
-title: Go Make It Complete
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Go Make It Complete"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 132
 accepted: 51
 solved_users: 42
-acceptance_rate: 41.176%
-collected_at: 2026-04-17T14:20:27.241562+00:00
+acceptance_rate: "41.176%"
+collected_at: "2026-04-17T14:20:27.241562+00:00"
 ---
 
 ## 문제

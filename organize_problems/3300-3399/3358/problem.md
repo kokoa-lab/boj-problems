@@ -1,13 +1,13 @@
 ---
-title: Towers of coins
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Towers of coins"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 81
 accepted: 69
 solved_users: 60
-acceptance_rate: 89.552%
-collected_at: 2026-04-17T10:48:26.589024+00:00
+acceptance_rate: "89.552%"
+collected_at: "2026-04-17T10:48:26.589024+00:00"
 ---
 
 ## 문제

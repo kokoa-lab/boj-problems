@@ -1,13 +1,13 @@
 ---
-title: Робот-сборщик
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Робот-сборщик"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 21
 accepted: 12
 solved_users: 12
-acceptance_rate: 66.667%
-collected_at: 2026-04-17T15:59:53.701615+00:00
+acceptance_rate: "66.667%"
+collected_at: "2026-04-17T15:59:53.701615+00:00"
 ---
 
 ## 문제

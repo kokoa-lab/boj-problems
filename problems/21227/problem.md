@@ -1,13 +1,13 @@
 ---
-title: Minimizing Edges
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Minimizing Edges"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 59
 accepted: 12
 solved_users: 12
-acceptance_rate: 22.642%
-collected_at: 2026-04-17T15:50:51.541148+00:00
+acceptance_rate: "22.642%"
+collected_at: "2026-04-17T15:50:51.541148+00:00"
 ---
 
 ## 문제

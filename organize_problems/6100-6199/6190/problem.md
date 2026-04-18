@@ -1,13 +1,13 @@
 ---
-title: Another Cow Number Game
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Another Cow Number Game"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 1045
 accepted: 653
 solved_users: 607
-acceptance_rate: 65.199%
-collected_at: 2026-04-17T11:22:14.141307+00:00
+acceptance_rate: "65.199%"
+collected_at: "2026-04-17T11:22:14.141307+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 노엣지 피자
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "노엣지 피자"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 137
 accepted: 46
 solved_users: 41
-acceptance_rate: 37.615%
-collected_at: 2026-04-17T17:26:37.671472+00:00
+acceptance_rate: "37.615%"
+collected_at: "2026-04-17T17:26:37.671472+00:00"
 ---
 
 ## 문제

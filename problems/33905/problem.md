@@ -1,13 +1,13 @@
 ---
-title: 영일 마을에 살고 있는 엄은 친구의 집에 가고 싶다
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "영일 마을에 살고 있는 엄은 친구의 집에 가고 싶다"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 276
 accepted: 169
 solved_users: 145
-acceptance_rate: 58.943%
-collected_at: 2026-04-17T20:26:02.794989+00:00
+acceptance_rate: "58.943%"
+collected_at: "2026-04-17T20:26:02.794989+00:00"
 ---
 
 ## 문제

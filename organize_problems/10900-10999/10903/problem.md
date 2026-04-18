@@ -1,13 +1,13 @@
 ---
-title: Wall construction
-special_judge: true
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Wall construction"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 638
 accepted: 388
 solved_users: 364
-acceptance_rate: 61.383%
-collected_at: 2026-04-17T12:31:21.172655+00:00
+acceptance_rate: "61.383%"
+collected_at: "2026-04-17T12:31:21.172655+00:00"
 ---
 
 ## 문제

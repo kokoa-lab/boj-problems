@@ -1,13 +1,13 @@
 ---
-title: 소수상근수
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "소수상근수"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 2697
 accepted: 1462
 solved_users: 1042
-acceptance_rate: 55.367%
-collected_at: 2026-04-17T12:09:42.553895+00:00
+acceptance_rate: "55.367%"
+collected_at: "2026-04-17T12:09:42.553895+00:00"
 ---
 
 ## 문제

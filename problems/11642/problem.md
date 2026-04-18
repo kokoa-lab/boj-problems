@@ -1,13 +1,13 @@
 ---
-title: Rubik’s Revenge in ... 2D!? 3D?
-special_judge: false
-time_limit: 5 초
-memory_limit: 256 MB
+title: "Rubik’s Revenge in ... 2D!? 3D?"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "256 MB"
 submissions: 53
 accepted: 18
 solved_users: 12
-acceptance_rate: 29.268%
-collected_at: 2026-04-17T12:43:28.698991+00:00
+acceptance_rate: "29.268%"
+collected_at: "2026-04-17T12:43:28.698991+00:00"
 ---
 
 ## 문제

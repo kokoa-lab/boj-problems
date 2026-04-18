@@ -1,13 +1,13 @@
 ---
-title: 제이크와 케이크
-special_judge: true
-time_limit: 1 초
-memory_limit: 128 MB
+title: "제이크와 케이크"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 711
 accepted: 375
 solved_users: 319
-acceptance_rate: 55.190%
-collected_at: 2026-04-17T14:17:59.410210+00:00
+acceptance_rate: "55.190%"
+collected_at: "2026-04-17T14:17:59.410210+00:00"
 ---
 
 ## 문제

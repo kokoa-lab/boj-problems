@@ -1,13 +1,13 @@
 ---
-title: Dirigent
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Dirigent"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 42
 accepted: 29
 solved_users: 27
-acceptance_rate: 67.500%
-collected_at: 2026-04-17T18:01:17.931299+00:00
+acceptance_rate: "67.500%"
+collected_at: "2026-04-17T18:01:17.931299+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Math Contest
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Math Contest"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 812
 accepted: 388
 solved_users: 307
-acceptance_rate: 47.377%
-collected_at: 2026-04-17T13:12:06.467378+00:00
+acceptance_rate: "47.377%"
+collected_at: "2026-04-17T13:12:06.467378+00:00"
 ---
 
 ## 문제

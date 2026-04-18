@@ -1,13 +1,13 @@
 ---
-title: 버섯이 나 있어!!!
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "버섯이 나 있어!!!"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 321
 accepted: 137
 solved_users: 60
-acceptance_rate: 30.612%
-collected_at: 2026-04-17T20:20:16.613460+00:00
+acceptance_rate: "30.612%"
+collected_at: "2026-04-17T20:20:16.613460+00:00"
 ---
 
 ## 문제

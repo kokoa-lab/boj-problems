@@ -1,13 +1,13 @@
 ---
-title: 전구와 스위치
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "전구와 스위치"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 18415
 accepted: 7216
 solved_users: 5567
-acceptance_rate: 39.569%
-collected_at: 2026-04-17T10:38:51.222762+00:00
+acceptance_rate: "39.569%"
+collected_at: "2026-04-17T10:38:51.222762+00:00"
 ---
 
 ## 문제

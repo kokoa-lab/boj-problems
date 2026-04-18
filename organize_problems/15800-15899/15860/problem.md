@@ -1,13 +1,13 @@
 ---
-title: Ninety-nine
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Ninety-nine"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 431
 accepted: 143
 solved_users: 100
-acceptance_rate: 27.778%
-collected_at: 2026-04-17T14:07:42.727478+00:00
+acceptance_rate: "27.778%"
+collected_at: "2026-04-17T14:07:42.727478+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Three-Axis Views
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Three-Axis Views"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 121
 accepted: 94
 solved_users: 84
-acceptance_rate: 77.064%
-collected_at: 2026-04-17T16:10:05.519701+00:00
+acceptance_rate: "77.064%"
+collected_at: "2026-04-17T16:10:05.519701+00:00"
 ---
 
 ## 문제
@@ -68,7 +68,17 @@ The following figure depicts the three silhouettes of the ICPC given in the Samp
 | --- | --- | --- |
 |  |  |  |
 | ⇓ | ⇓ | ⇓ |
-| ```  0 1 0 0 1 0 1 1 1 ```   (yz-plane) | ```  1 0 0 1 1 1 1 0 1 ```   (zx-plane) | ```  0 1 1 1 1 1 0 1 0 ```   (xy-plane) |
+| ``` 
+ 0 1 0
+ 0 1 0
+ 1 1 1
+ ```   (yz-plane) | ``` 
+ 1 0 0
+ 1 1 1
+ 1 0 1 ```   (zx-plane) | ``` 
+ 0 1 1
+ 1 1 1
+ 0 1 0 ```   (xy-plane) |
 
 Figure A.3. 0-1 representations of silhouettes (Sample Input 1)
 

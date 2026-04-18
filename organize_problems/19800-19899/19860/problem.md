@@ -1,13 +1,13 @@
 ---
-title: Горные лыжи
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Горные лыжи"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 15
 accepted: 6
 solved_users: 6
-acceptance_rate: 46.154%
-collected_at: 2026-04-17T15:28:35.909625+00:00
+acceptance_rate: "46.154%"
+collected_at: "2026-04-17T15:28:35.909625+00:00"
 ---
 
 ## 문제

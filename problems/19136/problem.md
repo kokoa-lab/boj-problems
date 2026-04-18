@@ -1,13 +1,13 @@
 ---
-title: Balls and Holes
-special_judge: false
-time_limit: 0.5 초
-memory_limit: 512 MB
+title: "Balls and Holes"
+special_judge: "false"
+time_limit: "0.5 초"
+memory_limit: "512 MB"
 submissions: 80
 accepted: 37
 solved_users: 19
-acceptance_rate: 47.500%
-collected_at: 2026-04-17T15:13:56.319841+00:00
+acceptance_rate: "47.500%"
+collected_at: "2026-04-17T15:13:56.319841+00:00"
 ---
 
 ## 문제

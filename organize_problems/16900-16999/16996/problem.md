@@ -1,13 +1,13 @@
 ---
-title: Busy Board
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Busy Board"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 67
 accepted: 26
 solved_users: 21
-acceptance_rate: 46.667%
-collected_at: 2026-04-17T14:27:15.247358+00:00
+acceptance_rate: "46.667%"
+collected_at: "2026-04-17T14:27:15.247358+00:00"
 ---
 
 ## 문제

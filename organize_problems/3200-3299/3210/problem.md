@@ -1,13 +1,13 @@
 ---
-title: piloti
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "piloti"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 107
 accepted: 48
 solved_users: 37
-acceptance_rate: 53.623%
-collected_at: 2026-04-17T10:47:24.497242+00:00
+acceptance_rate: "53.623%"
+collected_at: "2026-04-17T10:47:24.497242+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 조약돌 꺼내기
-special_judge: true
-time_limit: 2 초
-memory_limit: 512 MB
+title: "조약돌 꺼내기"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 7618
 accepted: 3178
 solved_users: 2612
-acceptance_rate: 43.252%
-collected_at: 2026-04-17T13:10:15.470423+00:00
+acceptance_rate: "43.252%"
+collected_at: "2026-04-17T13:10:15.470423+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Граненые стаканы
-special_judge: true
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Граненые стаканы"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 40
 accepted: 30
 solved_users: 21
-acceptance_rate: 67.742%
-collected_at: 2026-04-17T18:35:18.161679+00:00
+acceptance_rate: "67.742%"
+collected_at: "2026-04-17T18:35:18.161679+00:00"
 ---
 
 ## 문제

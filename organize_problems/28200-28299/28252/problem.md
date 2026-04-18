@@ -1,13 +1,13 @@
 ---
-title: 리프 수열
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "리프 수열"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 330
 accepted: 125
 solved_users: 95
-acceptance_rate: 38.153%
-collected_at: 2026-04-17T18:21:10.180441+00:00
+acceptance_rate: "38.153%"
+collected_at: "2026-04-17T18:21:10.180441+00:00"
 ---
 
 ## 문제

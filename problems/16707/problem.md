@@ -1,13 +1,13 @@
 ---
-title: American Tour
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "American Tour"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 427
 accepted: 114
 solved_users: 89
-acceptance_rate: 38.865%
-collected_at: 2026-04-17T14:22:46.231420+00:00
+acceptance_rate: "38.865%"
+collected_at: "2026-04-17T14:22:46.231420+00:00"
 ---
 
 ## 문제

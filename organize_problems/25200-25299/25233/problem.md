@@ -1,13 +1,13 @@
 ---
-title: Reset
-special_judge: false
-time_limit: 7 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Reset"
+special_judge: "false"
+time_limit: "7 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 268
 accepted: 40
 solved_users: 32
-acceptance_rate: 18.824%
-collected_at: 2026-04-17T17:23:05.846842+00:00
+acceptance_rate: "18.824%"
+collected_at: "2026-04-17T17:23:05.846842+00:00"
 ---
 
 ## 문제

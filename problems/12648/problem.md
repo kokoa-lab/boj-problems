@@ -1,13 +1,13 @@
 ---
-title: Square Math (Large)
-special_judge: false
-time_limit: 15 초
-memory_limit: 512 MB
+title: "Square Math (Large)"
+special_judge: "false"
+time_limit: "15 초"
+memory_limit: "512 MB"
 submissions: 54
 accepted: 13
 solved_users: 10
-acceptance_rate: 27.027%
-collected_at: 2026-04-17T12:59:03.263676+00:00
+acceptance_rate: "27.027%"
+collected_at: "2026-04-17T12:59:03.263676+00:00"
 ---
 
 ## 문제

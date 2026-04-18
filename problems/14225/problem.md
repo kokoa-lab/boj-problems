@@ -1,13 +1,13 @@
 ---
-title: 부분수열의 합
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "부분수열의 합"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 14890
 accepted: 7230
 solved_users: 4993
-acceptance_rate: 45.108%
-collected_at: 2026-04-17T13:28:08.410521+00:00
+acceptance_rate: "45.108%"
+collected_at: "2026-04-17T13:28:08.410521+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Game on Graph
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Game on Graph"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 36
 accepted: 19
 solved_users: 19
-acceptance_rate: 65.517%
-collected_at: 2026-04-17T13:23:47.417682+00:00
+acceptance_rate: "65.517%"
+collected_at: "2026-04-17T13:23:47.417682+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 시저 암호
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "시저 암호"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 2488
 accepted: 1001
 solved_users: 697
-acceptance_rate: 38.679%
-collected_at: 2026-04-17T10:35:28.722273+00:00
+acceptance_rate: "38.679%"
+collected_at: "2026-04-17T10:35:28.722273+00:00"
 ---
 
 ## 문제

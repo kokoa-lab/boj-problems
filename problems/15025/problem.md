@@ -1,13 +1,13 @@
 ---
-title: Judging Moose
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Judging Moose"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 3464
 accepted: 2222
 solved_users: 2104
-acceptance_rate: 64.599%
-collected_at: 2026-04-17T13:48:31.198363+00:00
+acceptance_rate: "64.599%"
+collected_at: "2026-04-17T13:48:31.198363+00:00"
 ---
 
 ## 문제

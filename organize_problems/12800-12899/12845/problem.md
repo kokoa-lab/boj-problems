@@ -1,13 +1,13 @@
 ---
-title: 모두의 마블
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "모두의 마블"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 3049
 accepted: 1983
 solved_users: 1656
-acceptance_rate: 63.790%
-collected_at: 2026-04-17T13:02:28.860192+00:00
+acceptance_rate: "63.790%"
+collected_at: "2026-04-17T13:02:28.860192+00:00"
 ---
 
 ## 문제

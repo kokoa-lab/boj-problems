@@ -1,13 +1,13 @@
 ---
-title: One Walk
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "One Walk"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 320
 accepted: 103
 solved_users: 83
-acceptance_rate: 37.387%
-collected_at: 2026-04-17T18:40:33.007708+00:00
+acceptance_rate: "37.387%"
+collected_at: "2026-04-17T18:40:33.007708+00:00"
 ---
 
 ## 문제

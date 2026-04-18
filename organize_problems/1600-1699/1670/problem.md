@@ -1,13 +1,13 @@
 ---
-title: 정상 회담 2
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "정상 회담 2"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 4583
 accepted: 1918
 solved_users: 1497
-acceptance_rate: 40.361%
-collected_at: 2026-04-17T10:32:11.285396+00:00
+acceptance_rate: "40.361%"
+collected_at: "2026-04-17T10:32:11.285396+00:00"
 ---
 
 ## 문제

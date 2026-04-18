@@ -1,13 +1,13 @@
 ---
-title: Two Trees
-special_judge: false
-time_limit: 4 초
-memory_limit: 512 MB
+title: "Two Trees"
+special_judge: "false"
+time_limit: "4 초"
+memory_limit: "512 MB"
 submissions: 104
 accepted: 14
 solved_users: 10
-acceptance_rate: 19.231%
-collected_at: 2026-04-17T14:14:51.037285+00:00
+acceptance_rate: "19.231%"
+collected_at: "2026-04-17T14:14:51.037285+00:00"
 ---
 
 ## 문제

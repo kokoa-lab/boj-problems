@@ -1,13 +1,13 @@
 ---
-title: Inherited disease
-special_judge: false
-time_limit: 1 초
-memory_limit: 16 MB
+title: "Inherited disease"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "16 MB"
 submissions: 352
 accepted: 130
 solved_users: 101
-acceptance_rate: 39.921%
-collected_at: 2026-04-17T12:31:16.767703+00:00
+acceptance_rate: "39.921%"
+collected_at: "2026-04-17T12:31:16.767703+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Дом семьи Гарнетт
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Дом семьи Гарнетт"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 77
 accepted: 51
 solved_users: 33
-acceptance_rate: 58.929%
-collected_at: 2026-04-17T18:41:12.215262+00:00
+acceptance_rate: "58.929%"
+collected_at: "2026-04-17T18:41:12.215262+00:00"
 ---
 
 ## 문제

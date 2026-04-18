@@ -1,13 +1,13 @@
 ---
-title: Coins
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Coins"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 237
 accepted: 125
 solved_users: 103
-acceptance_rate: 52.551%
-collected_at: 2026-04-17T15:31:34.854054+00:00
+acceptance_rate: "52.551%"
+collected_at: "2026-04-17T15:31:34.854054+00:00"
 ---
 
 ## 문제

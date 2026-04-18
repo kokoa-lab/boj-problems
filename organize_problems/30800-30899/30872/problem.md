@@ -1,13 +1,13 @@
 ---
-title: Hanyang Cherry Picking Contest
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Hanyang Cherry Picking Contest"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 152
 accepted: 50
 solved_users: 45
-acceptance_rate: 43.689%
-collected_at: 2026-04-17T19:17:14.592448+00:00
+acceptance_rate: "43.689%"
+collected_at: "2026-04-17T19:17:14.592448+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 전기 회로 배치
-special_judge: true
-time_limit: 1 초
-memory_limit: 2048 MB
+title: "전기 회로 배치"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "2048 MB"
 submissions: 23
 accepted: 10
 solved_users: 10
-acceptance_rate: 43.478%
-collected_at: 2026-04-17T20:51:10.341327+00:00
+acceptance_rate: "43.478%"
+collected_at: "2026-04-17T20:51:10.341327+00:00"
 ---
 
 ## 문제

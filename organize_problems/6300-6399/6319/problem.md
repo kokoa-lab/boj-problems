@@ -1,13 +1,13 @@
 ---
-title: Island of Logic
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Island of Logic"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 40
 accepted: 11
 solved_users: 10
-acceptance_rate: 25.641%
-collected_at: 2026-04-17T11:25:09.174739+00:00
+acceptance_rate: "25.641%"
+collected_at: "2026-04-17T11:25:09.174739+00:00"
 ---
 
 ## 문제

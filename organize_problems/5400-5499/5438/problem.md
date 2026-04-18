@@ -1,13 +1,13 @@
 ---
-title: Secret Island Base
-special_judge: true
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Secret Island Base"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 58
 accepted: 11
 solved_users: 4
-acceptance_rate: 10.256%
-collected_at: 2026-04-17T11:13:56.324968+00:00
+acceptance_rate: "10.256%"
+collected_at: "2026-04-17T11:13:56.324968+00:00"
 ---
 
 ## 문제

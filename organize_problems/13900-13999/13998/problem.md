@@ -1,13 +1,13 @@
 ---
-title: Jenga Boom
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Jenga Boom"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 113
 accepted: 45
 solved_users: 28
-acceptance_rate: 32.941%
-collected_at: 2026-04-17T13:23:42.208204+00:00
+acceptance_rate: "32.941%"
+collected_at: "2026-04-17T13:23:42.208204+00:00"
 ---
 
 ## 문제

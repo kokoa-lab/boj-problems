@@ -1,13 +1,13 @@
 ---
-title: 평범한 배낭
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "평범한 배낭"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 188480
 accepted: 75107
 solved_users: 46558
-acceptance_rate: 37.652%
-collected_at: 2026-04-17T13:02:49.248435+00:00
+acceptance_rate: "37.652%"
+collected_at: "2026-04-17T13:02:49.248435+00:00"
 ---
 
 ## 문제

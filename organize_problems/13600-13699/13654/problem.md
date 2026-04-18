@@ -1,13 +1,13 @@
 ---
-title: Foco
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Foco"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 38
 accepted: 19
 solved_users: 15
-acceptance_rate: 50.000%
-collected_at: 2026-04-17T13:16:46.725868+00:00
+acceptance_rate: "50.000%"
+collected_at: "2026-04-17T13:16:46.725868+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 반도체 설계
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "반도체 설계"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 14542
 accepted: 7295
 solved_users: 5861
-acceptance_rate: 54.592%
-collected_at: 2026-04-17T10:40:55.068450+00:00
+acceptance_rate: "54.592%"
+collected_at: "2026-04-17T10:40:55.068450+00:00"
 ---
 
 ## 문제

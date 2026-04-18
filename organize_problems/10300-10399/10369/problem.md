@@ -1,13 +1,13 @@
 ---
-title: Spokes Wheel
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Spokes Wheel"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 107
 accepted: 51
 solved_users: 48
-acceptance_rate: 48.485%
-collected_at: 2026-04-17T12:22:41.033787+00:00
+acceptance_rate: "48.485%"
+collected_at: "2026-04-17T12:22:41.033787+00:00"
 ---
 
 ## 문제

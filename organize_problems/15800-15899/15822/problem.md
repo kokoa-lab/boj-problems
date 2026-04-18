@@ -1,13 +1,13 @@
 ---
-title: Ah-Choo!
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Ah-Choo!"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 326
 accepted: 208
 solved_users: 175
-acceptance_rate: 67.829%
-collected_at: 2026-04-17T14:07:11.571905+00:00
+acceptance_rate: "67.829%"
+collected_at: "2026-04-17T14:07:11.571905+00:00"
 ---
 
 ## 문제

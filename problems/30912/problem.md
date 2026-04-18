@@ -1,13 +1,13 @@
 ---
-title: 위잉위잉
-special_judge: true
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "위잉위잉"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 821
 accepted: 166
 solved_users: 126
-acceptance_rate: 22.500%
-collected_at: 2026-04-17T19:17:57.768313+00:00
+acceptance_rate: "22.500%"
+collected_at: "2026-04-17T19:17:57.768313+00:00"
 ---
 
 ## 문제

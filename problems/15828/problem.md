@@ -1,13 +1,13 @@
 ---
-title: Router
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Router"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 6797
 accepted: 3957
 solved_users: 3277
-acceptance_rate: 59.865%
-collected_at: 2026-04-17T14:07:19.845637+00:00
+acceptance_rate: "59.865%"
+collected_at: "2026-04-17T14:07:19.845637+00:00"
 ---
 
 ## 문제

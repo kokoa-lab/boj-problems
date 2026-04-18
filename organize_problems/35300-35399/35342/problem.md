@@ -1,13 +1,13 @@
 ---
-title: 통신망 2
-special_judge: false
-time_limit: 6 초
-memory_limit: 2048 MB
+title: "통신망 2"
+special_judge: "false"
+time_limit: "6 초"
+memory_limit: "2048 MB"
 submissions: 29
 accepted: 2
 solved_users: 2
-acceptance_rate: 9.091%
-collected_at: 2026-04-17T21:00:56.055893+00:00
+acceptance_rate: "9.091%"
+collected_at: "2026-04-17T21:00:56.055893+00:00"
 ---
 
 ## 문제

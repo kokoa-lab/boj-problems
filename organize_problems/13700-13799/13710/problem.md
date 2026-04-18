@@ -1,13 +1,13 @@
 ---
-title: XOR 합 3
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "XOR 합 3"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 775
 accepted: 421
 solved_users: 290
-acceptance_rate: 52.441%
-collected_at: 2026-04-17T13:17:43.419766+00:00
+acceptance_rate: "52.441%"
+collected_at: "2026-04-17T13:17:43.419766+00:00"
 ---
 
 ## 문제

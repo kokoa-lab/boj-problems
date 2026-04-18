@@ -1,13 +1,13 @@
 ---
-title: Word Amalgamation
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Word Amalgamation"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 257
 accepted: 172
 solved_users: 143
-acceptance_rate: 67.453%
-collected_at: 2026-04-17T11:07:03.716150+00:00
+acceptance_rate: "67.453%"
+collected_at: "2026-04-17T11:07:03.716150+00:00"
 ---
 
 ## 문제

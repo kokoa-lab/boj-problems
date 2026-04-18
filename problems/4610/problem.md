@@ -1,13 +1,13 @@
 ---
-title: Electronic Document Security
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Electronic Document Security"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 18
 accepted: 15
 solved_users: 15
-acceptance_rate: 83.333%
-collected_at: 2026-04-17T11:05:39.520420+00:00
+acceptance_rate: "83.333%"
+collected_at: "2026-04-17T11:05:39.520420+00:00"
 ---
 
 ## 문제

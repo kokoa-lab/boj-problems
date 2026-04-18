@@ -1,13 +1,13 @@
 ---
-title: Cable TV Network
-special_judge: false
-time_limit: 5 초
-memory_limit: 128 MB
+title: "Cable TV Network"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "128 MB"
 submissions: 14
 accepted: 4
 solved_users: 4
-acceptance_rate: 36.364%
-collected_at: 2026-04-17T10:51:59.329869+00:00
+acceptance_rate: "36.364%"
+collected_at: "2026-04-17T10:51:59.329869+00:00"
 ---
 
 ## 문제

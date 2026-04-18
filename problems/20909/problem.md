@@ -1,13 +1,13 @@
 ---
-title: Impressive Integers
-special_judge: true
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "Impressive Integers"
+special_judge: "true"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 114
 accepted: 36
 solved_users: 36
-acceptance_rate: 33.962%
-collected_at: 2026-04-17T15:43:15.381939+00:00
+acceptance_rate: "33.962%"
+collected_at: "2026-04-17T15:43:15.381939+00:00"
 ---
 
 ## 문제

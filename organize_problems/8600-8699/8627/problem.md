@@ -1,13 +1,13 @@
 ---
-title: Żabka Bajtozja
-special_judge: true
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Żabka Bajtozja"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 55
 accepted: 21
 solved_users: 18
-acceptance_rate: 38.298%
-collected_at: 2026-04-17T12:01:33.090665+00:00
+acceptance_rate: "38.298%"
+collected_at: "2026-04-17T12:01:33.090665+00:00"
 ---
 
 ## 문제

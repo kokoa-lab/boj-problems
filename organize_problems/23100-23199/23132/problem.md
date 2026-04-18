@@ -1,13 +1,13 @@
 ---
-title: Nimber Sequence
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Nimber Sequence"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 74
 accepted: 30
 solved_users: 14
-acceptance_rate: 42.424%
-collected_at: 2026-04-17T16:42:42.603773+00:00
+acceptance_rate: "42.424%"
+collected_at: "2026-04-17T16:42:42.603773+00:00"
 ---
 
 ## 문제

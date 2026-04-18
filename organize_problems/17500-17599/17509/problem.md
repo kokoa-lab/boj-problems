@@ -1,13 +1,13 @@
 ---
-title: And the Winner Is... Ourselves!
-special_judge: false
-time_limit: 4 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "And the Winner Is... Ourselves!"
+special_judge: "false"
+time_limit: "4 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 1203
 accepted: 1029
 solved_users: 924
-acceptance_rate: 87.666%
-collected_at: 2026-04-17T14:40:47.660794+00:00
+acceptance_rate: "87.666%"
+collected_at: "2026-04-17T14:40:47.660794+00:00"
 ---
 
 ## 문제

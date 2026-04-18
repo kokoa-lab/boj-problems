@@ -1,13 +1,13 @@
 ---
-title: Termites 2
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Termites 2"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 87
 accepted: 15
 solved_users: 11
-acceptance_rate: 30.556%
-collected_at: 2026-04-17T11:58:26.835916+00:00
+acceptance_rate: "30.556%"
+collected_at: "2026-04-17T11:58:26.835916+00:00"
 ---
 
 ## 문제

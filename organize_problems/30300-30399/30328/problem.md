@@ -1,13 +1,13 @@
 ---
-title: Java Warriors
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Java Warriors"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 3836
 accepted: 3457
 solved_users: 3308
-acceptance_rate: 90.854%
-collected_at: 2026-04-17T19:03:33.638813+00:00
+acceptance_rate: "90.854%"
+collected_at: "2026-04-17T19:03:33.638813+00:00"
 ---
 
 ## 문제

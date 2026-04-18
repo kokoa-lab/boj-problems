@@ -1,13 +1,13 @@
 ---
-title: Telephone
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Telephone"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 311
 accepted: 87
 solved_users: 77
-acceptance_rate: 28.413%
-collected_at: 2026-04-17T15:44:21.599259+00:00
+acceptance_rate: "28.413%"
+collected_at: "2026-04-17T15:44:21.599259+00:00"
 ---
 
 ## 문제

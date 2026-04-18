@@ -1,13 +1,13 @@
 ---
-title: 찾아오시는 길
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "찾아오시는 길"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 2188
 accepted: 1570
 solved_users: 1516
-acceptance_rate: 72.087%
-collected_at: 2026-04-17T20:33:22.382332+00:00
+acceptance_rate: "72.087%"
+collected_at: "2026-04-17T20:33:22.382332+00:00"
 ---
 
 ## 문제

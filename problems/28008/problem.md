@@ -1,13 +1,13 @@
 ---
-title: LaLa and Monster Hunting (Part 1)
-special_judge: true
-time_limit: 5 초
-memory_limit: 1024 MB
+title: "LaLa and Monster Hunting (Part 1)"
+special_judge: "true"
+time_limit: "5 초"
+memory_limit: "1024 MB"
 submissions: 51
 accepted: 18
 solved_users: 12
-acceptance_rate: 29.268%
-collected_at: 2026-04-17T18:16:34.060245+00:00
+acceptance_rate: "29.268%"
+collected_at: "2026-04-17T18:16:34.060245+00:00"
 ---
 
 ## 문제

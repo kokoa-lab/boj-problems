@@ -1,13 +1,13 @@
 ---
-title: Minerals
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Minerals"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 167
 accepted: 24
 solved_users: 21
-acceptance_rate: 13.291%
-collected_at: 2026-04-17T14:45:24.012738+00:00
+acceptance_rate: "13.291%"
+collected_at: "2026-04-17T14:45:24.012738+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Rączy jelonek
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Rączy jelonek"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 24
 accepted: 6
 solved_users: 6
-acceptance_rate: 60.000%
-collected_at: 2026-04-17T11:59:38.901905+00:00
+acceptance_rate: "60.000%"
+collected_at: "2026-04-17T11:59:38.901905+00:00"
 ---
 
 ## 문제

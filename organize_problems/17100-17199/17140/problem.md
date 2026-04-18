@@ -1,13 +1,13 @@
 ---
-title: 이차원 배열과 연산
-special_judge: false
-time_limit: 0.5 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "이차원 배열과 연산"
+special_judge: "false"
+time_limit: "0.5 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 26777
 accepted: 12991
 solved_users: 8792
-acceptance_rate: 45.768%
-collected_at: 2026-04-17T14:31:08.749488+00:00
+acceptance_rate: "45.768%"
+collected_at: "2026-04-17T14:31:08.749488+00:00"
 ---
 
 ## 문제

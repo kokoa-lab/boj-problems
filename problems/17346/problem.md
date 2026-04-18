@@ -1,13 +1,13 @@
 ---
-title: Maintaining a Sequence
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "Maintaining a Sequence"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 331
 accepted: 61
 solved_users: 34
-acceptance_rate: 17.000%
-collected_at: 2026-04-17T14:37:28.210584+00:00
+acceptance_rate: "17.000%"
+collected_at: "2026-04-17T14:37:28.210584+00:00"
 ---
 
 ## 문제

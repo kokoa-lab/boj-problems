@@ -1,13 +1,13 @@
 ---
-title: 카드 교환
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "카드 교환"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 760
 accepted: 310
 solved_users: 269
-acceptance_rate: 43.040%
-collected_at: 2026-04-17T19:37:41.089058+00:00
+acceptance_rate: "43.040%"
+collected_at: "2026-04-17T19:37:41.089058+00:00"
 ---
 
 ## 문제

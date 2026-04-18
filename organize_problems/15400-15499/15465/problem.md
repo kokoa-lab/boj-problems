@@ -1,13 +1,13 @@
 ---
-title: Milk Measurement
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Milk Measurement"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 1419
 accepted: 559
 solved_users: 497
-acceptance_rate: 42.661%
-collected_at: 2026-04-17T13:59:53.655561+00:00
+acceptance_rate: "42.661%"
+collected_at: "2026-04-17T13:59:53.655561+00:00"
 ---
 
 ## 문제

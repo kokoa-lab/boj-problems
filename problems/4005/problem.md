@@ -1,13 +1,13 @@
 ---
-title: 테이블 색칠하기
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "테이블 색칠하기"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 345
 accepted: 113
 solved_users: 96
-acceptance_rate: 36.226%
-collected_at: 2026-04-17T10:54:26.955082+00:00
+acceptance_rate: "36.226%"
+collected_at: "2026-04-17T10:54:26.955082+00:00"
 ---
 
 ## 문제

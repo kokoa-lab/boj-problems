@@ -1,13 +1,13 @@
 ---
-title: Let it Bead
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Let it Bead"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 176
 accepted: 141
 solved_users: 128
-acceptance_rate: 85.906%
-collected_at: 2026-04-17T11:30:38.655402+00:00
+acceptance_rate: "85.906%"
+collected_at: "2026-04-17T11:30:38.655402+00:00"
 ---
 
 ## 문제

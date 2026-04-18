@@ -1,13 +1,13 @@
 ---
-title: 영웅은 죽지 않아요
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "영웅은 죽지 않아요"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 285
 accepted: 125
 solved_users: 84
-acceptance_rate: 43.077%
-collected_at: 2026-04-17T13:04:10.074483+00:00
+acceptance_rate: "43.077%"
+collected_at: "2026-04-17T13:04:10.074483+00:00"
 ---
 
 ## 문제

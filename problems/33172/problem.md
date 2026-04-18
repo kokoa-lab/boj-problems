@@ -1,13 +1,13 @@
 ---
-title: 周期文字列 (Cycle String)
-special_judge: false
-time_limit: 2 초
-memory_limit: 2048 MB
+title: "周期文字列 (Cycle String)"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "2048 MB"
 submissions: 139
 accepted: 102
 solved_users: 90
-acceptance_rate: 78.947%
-collected_at: 2026-04-17T20:10:41.349106+00:00
+acceptance_rate: "78.947%"
+collected_at: "2026-04-17T20:10:41.349106+00:00"
 ---
 
 ## 문제

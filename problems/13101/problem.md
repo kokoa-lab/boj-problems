@@ -1,13 +1,13 @@
 ---
-title: Color the Map Extreme
-special_judge: false
-time_limit: 8 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "Color the Map Extreme"
+special_judge: "false"
+time_limit: "8 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 42
 accepted: 17
 solved_users: 5
-acceptance_rate: 27.778%
-collected_at: 2026-04-17T13:07:39.787504+00:00
+acceptance_rate: "27.778%"
+collected_at: "2026-04-17T13:07:39.787504+00:00"
 ---
 
 ## 문제

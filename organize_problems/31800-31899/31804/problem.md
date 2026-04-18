@@ -1,13 +1,13 @@
 ---
-title: Chance!
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Chance!"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 487
 accepted: 265
 solved_users: 214
-acceptance_rate: 53.500%
-collected_at: 2026-04-17T19:36:45.343575+00:00
+acceptance_rate: "53.500%"
+collected_at: "2026-04-17T19:36:45.343575+00:00"
 ---
 
 ## 문제

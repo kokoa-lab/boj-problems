@@ -1,13 +1,13 @@
 ---
-title: 족보
-special_judge: false
-time_limit: 2 초
-memory_limit: 64 MB
+title: "족보"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "64 MB"
 submissions: 620
 accepted: 216
 solved_users: 181
-acceptance_rate: 35.078%
-collected_at: 2026-04-17T10:50:19.236786+00:00
+acceptance_rate: "35.078%"
+collected_at: "2026-04-17T10:50:19.236786+00:00"
 ---
 
 ## 문제

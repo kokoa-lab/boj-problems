@@ -1,13 +1,13 @@
 ---
-title: Równanie
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Równanie"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 61
 accepted: 25
 solved_users: 23
-acceptance_rate: 51.111%
-collected_at: 2026-04-17T14:46:40.711516+00:00
+acceptance_rate: "51.111%"
+collected_at: "2026-04-17T14:46:40.711516+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 도로 위의 표지판
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "도로 위의 표지판"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 348
 accepted: 198
 solved_users: 168
-acceptance_rate: 54.902%
-collected_at: 2026-04-17T18:27:18.669580+00:00
+acceptance_rate: "54.902%"
+collected_at: "2026-04-17T18:27:18.669580+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 이차원 배열의 합
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "이차원 배열의 합"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 317
 accepted: 102
 solved_users: 62
-acceptance_rate: 34.831%
-collected_at: 2026-04-17T10:32:45.036466+00:00
+acceptance_rate: "34.831%"
+collected_at: "2026-04-17T10:32:45.036466+00:00"
 ---
 
 ## 문제

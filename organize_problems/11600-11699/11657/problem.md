@@ -1,13 +1,13 @@
 ---
-title: 타임머신
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "타임머신"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 82666
 accepted: 22008
 solved_users: 14222
-acceptance_rate: 27.378%
-collected_at: 2026-04-17T12:43:40.960865+00:00
+acceptance_rate: "27.378%"
+collected_at: "2026-04-17T12:43:40.960865+00:00"
 ---
 
 ## 문제

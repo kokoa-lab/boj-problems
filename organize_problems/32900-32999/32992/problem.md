@@ -1,13 +1,13 @@
 ---
-title: 나는 애니메이션에 열정적인 사람이 아니야
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "나는 애니메이션에 열정적인 사람이 아니야"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 124
 accepted: 30
 solved_users: 26
-acceptance_rate: 32.911%
-collected_at: 2026-04-17T20:07:01.029851+00:00
+acceptance_rate: "32.911%"
+collected_at: "2026-04-17T20:07:01.029851+00:00"
 ---
 
 ## 문제

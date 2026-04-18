@@ -1,13 +1,13 @@
 ---
-title: 빨간점, 파란점
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "빨간점, 파란점"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 434
 accepted: 218
 solved_users: 154
-acceptance_rate: 52.560%
-collected_at: 2026-04-17T10:46:50.349849+00:00
+acceptance_rate: "52.560%"
+collected_at: "2026-04-17T10:46:50.349849+00:00"
 ---
 
 ## 문제

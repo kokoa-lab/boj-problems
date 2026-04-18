@@ -1,13 +1,13 @@
 ---
-title: 경고
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "경고"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 10222
 accepted: 3922
 solved_users: 3502
-acceptance_rate: 38.898%
-collected_at: 2026-04-17T10:46:17.187299+00:00
+acceptance_rate: "38.898%"
+collected_at: "2026-04-17T10:46:17.187299+00:00"
 ---
 
 ## 문제

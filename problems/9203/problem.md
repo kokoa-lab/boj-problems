@@ -1,13 +1,13 @@
 ---
-title: 호텔 예약
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "호텔 예약"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 3117
 accepted: 742
 solved_users: 162
-acceptance_rate: 8.385%
-collected_at: 2026-04-17T12:07:53.020416+00:00
+acceptance_rate: "8.385%"
+collected_at: "2026-04-17T12:07:53.020416+00:00"
 ---
 
 ## 문제

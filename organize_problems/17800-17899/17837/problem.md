@@ -1,13 +1,13 @@
 ---
-title: 새로운 게임 2
-special_judge: false
-time_limit: 0.5 초
-memory_limit: 512 MB
+title: "새로운 게임 2"
+special_judge: "false"
+time_limit: "0.5 초"
+memory_limit: "512 MB"
 submissions: 17740
 accepted: 9023
 solved_users: 5786
-acceptance_rate: 49.167%
-collected_at: 2026-04-17T14:48:11.243337+00:00
+acceptance_rate: "49.167%"
+collected_at: "2026-04-17T14:48:11.243337+00:00"
 ---
 
 ## 문제

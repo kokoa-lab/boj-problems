@@ -1,13 +1,13 @@
 ---
-title: A Rational Sequence (Take 3)
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "A Rational Sequence (Take 3)"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 64
 accepted: 48
 solved_users: 44
-acceptance_rate: 91.667%
-collected_at: 2026-04-17T13:21:27.259862+00:00
+acceptance_rate: "91.667%"
+collected_at: "2026-04-17T13:21:27.259862+00:00"
 ---
 
 ## 문제

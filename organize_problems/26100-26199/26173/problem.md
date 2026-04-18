@@ -1,13 +1,13 @@
 ---
-title: Cup Covering
-special_judge: true
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Cup Covering"
+special_judge: "true"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 194
 accepted: 158
 solved_users: 127
-acceptance_rate: 90.714%
-collected_at: 2026-04-17T17:41:21.611782+00:00
+acceptance_rate: "90.714%"
+collected_at: "2026-04-17T17:41:21.611782+00:00"
 ---
 
 ## 문제

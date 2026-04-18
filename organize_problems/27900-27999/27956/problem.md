@@ -1,13 +1,13 @@
 ---
-title: 정화조
-special_judge: false
-time_limit: 3 초
-memory_limit: 512 MB
+title: "정화조"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "512 MB"
 submissions: 32
 accepted: 9
 solved_users: 7
-acceptance_rate: 25.000%
-collected_at: 2026-04-17T18:15:28.031858+00:00
+acceptance_rate: "25.000%"
+collected_at: "2026-04-17T18:15:28.031858+00:00"
 ---
 
 ## 문제

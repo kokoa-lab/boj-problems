@@ -1,13 +1,13 @@
 ---
-title: 삼각형 찾기
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "삼각형 찾기"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 797
 accepted: 222
 solved_users: 98
-acceptance_rate: 27.528%
-collected_at: 2026-04-17T10:37:44.396250+00:00
+acceptance_rate: "27.528%"
+collected_at: "2026-04-17T10:37:44.396250+00:00"
 ---
 
 ## 문제

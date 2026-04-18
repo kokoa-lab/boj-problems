@@ -1,13 +1,13 @@
 ---
-title: 행복한 전화 통화
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "행복한 전화 통화"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 771
 accepted: 395
 solved_users: 310
-acceptance_rate: 54.965%
-collected_at: 2026-04-17T10:52:44.183053+00:00
+acceptance_rate: "54.965%"
+collected_at: "2026-04-17T10:52:44.183053+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 조사전달
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "조사전달"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 396
 accepted: 169
 solved_users: 131
-acceptance_rate: 42.951%
-collected_at: 2026-04-17T17:59:43.820085+00:00
+acceptance_rate: "42.951%"
+collected_at: "2026-04-17T17:59:43.820085+00:00"
 ---
 
 ## 문제

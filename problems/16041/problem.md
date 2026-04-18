@@ -1,13 +1,13 @@
 ---
-title: Double Clique
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Double Clique"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 348
 accepted: 116
 solved_users: 91
-acceptance_rate: 34.733%
-collected_at: 2026-04-17T14:10:26.018084+00:00
+acceptance_rate: "34.733%"
+collected_at: "2026-04-17T14:10:26.018084+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Sortowanie
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Sortowanie"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 33
 accepted: 13
 solved_users: 12
-acceptance_rate: 60.000%
-collected_at: 2026-04-17T11:54:26.028896+00:00
+acceptance_rate: "60.000%"
+collected_at: "2026-04-17T11:54:26.028896+00:00"
 ---
 
 ## 문제

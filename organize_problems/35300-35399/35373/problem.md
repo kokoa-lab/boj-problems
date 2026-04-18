@@ -1,13 +1,13 @@
 ---
-title: A Little Leftover Pizza
-special_judge: false
-time_limit: 1 초
-memory_limit: 2048 MB
+title: "A Little Leftover Pizza"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "2048 MB"
 submissions: 131
 accepted: 114
 solved_users: 106
-acceptance_rate: 86.885%
-collected_at: 2026-04-18T09:51:47.652930+00:00
+acceptance_rate: "86.885%"
+collected_at: "2026-04-18T09:51:47.652930+00:00"
 ---
 
 ## 문제

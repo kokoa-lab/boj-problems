@@ -1,13 +1,13 @@
 ---
-title: 어려운 정수 맞히기 게임
-special_judge: false
-time_limit: 3 초
-memory_limit: 1024 MB
+title: "어려운 정수 맞히기 게임"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "1024 MB"
 submissions: 419
 accepted: 106
 solved_users: 77
-acceptance_rate: 25.413%
-collected_at: 2026-04-17T19:23:50.393575+00:00
+acceptance_rate: "25.413%"
+collected_at: "2026-04-17T19:23:50.393575+00:00"
 ---
 
 ## 문제

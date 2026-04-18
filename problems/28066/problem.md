@@ -1,13 +1,13 @@
 ---
-title: 타노스는 요세푸스가 밉다
-special_judge: false
-time_limit: 0.1 초
-memory_limit: 512 MB
+title: "타노스는 요세푸스가 밉다"
+special_judge: "false"
+time_limit: "0.1 초"
+memory_limit: "512 MB"
 submissions: 1844
 accepted: 1113
 solved_users: 948
-acceptance_rate: 64.315%
-collected_at: 2026-04-17T18:17:33.966197+00:00
+acceptance_rate: "64.315%"
+collected_at: "2026-04-17T18:17:33.966197+00:00"
 ---
 
 ## 문제

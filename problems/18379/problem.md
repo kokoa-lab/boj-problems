@@ -1,13 +1,13 @@
 ---
-title: 이메이미의 수쿼 노트
-special_judge: false
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "이메이미의 수쿼 노트"
+special_judge: "false"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 150
 accepted: 28
 solved_users: 17
-acceptance_rate: 13.821%
-collected_at: 2026-04-18T09:50:55.121667+00:00
+acceptance_rate: "13.821%"
+collected_at: "2026-04-18T09:50:55.121667+00:00"
 ---
 
 ## 문제

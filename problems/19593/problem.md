@@ -1,13 +1,13 @@
 ---
-title: 다도해
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 256 MB
+title: "다도해"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "256 MB"
 submissions: 252
 accepted: 121
 solved_users: 78
-acceptance_rate: 39.394%
-collected_at: 2026-04-17T15:24:12.324769+00:00
+acceptance_rate: "39.394%"
+collected_at: "2026-04-17T15:24:12.324769+00:00"
 ---
 
 ## 문제

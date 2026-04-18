@@ -1,13 +1,13 @@
 ---
-title: Gamer Bafuko
-special_judge: false
-time_limit: 2 초
-memory_limit: 2048 MB
+title: "Gamer Bafuko"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "2048 MB"
 submissions: 18
 accepted: 6
 solved_users: 6
-acceptance_rate: 33.333%
-collected_at: 2026-04-17T20:43:32.203626+00:00
+acceptance_rate: "33.333%"
+collected_at: "2026-04-17T20:43:32.203626+00:00"
 ---
 
 ## 문제

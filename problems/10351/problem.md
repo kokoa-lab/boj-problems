@@ -1,13 +1,13 @@
 ---
-title: Circle of digits
-special_judge: false
-time_limit: 5 초
-memory_limit: 256 MB
+title: "Circle of digits"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "256 MB"
 submissions: 41
 accepted: 13
 solved_users: 7
-acceptance_rate: 36.842%
-collected_at: 2026-04-17T12:22:22.132670+00:00
+acceptance_rate: "36.842%"
+collected_at: "2026-04-17T12:22:22.132670+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Navigation 2
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Navigation 2"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 71
 accepted: 15
 solved_users: 13
-acceptance_rate: 20.312%
-collected_at: 2026-04-17T16:07:57.072491+00:00
+acceptance_rate: "20.312%"
+collected_at: "2026-04-17T16:07:57.072491+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Impartial Offerings
-special_judge: false
-time_limit: 10 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Impartial Offerings"
+special_judge: "false"
+time_limit: "10 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 81
 accepted: 67
 solved_users: 62
-acceptance_rate: 81.579%
-collected_at: 2026-04-17T17:01:48.674857+00:00
+acceptance_rate: "81.579%"
+collected_at: "2026-04-17T17:01:48.674857+00:00"
 ---
 
 ## 문제

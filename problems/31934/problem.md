@@ -1,13 +1,13 @@
 ---
-title: 최소 문자열 뽑기
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "최소 문자열 뽑기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 153
 accepted: 21
 solved_users: 19
-acceptance_rate: 20.652%
-collected_at: 2026-04-17T19:39:15.165932+00:00
+acceptance_rate: "20.652%"
+collected_at: "2026-04-17T19:39:15.165932+00:00"
 ---
 
 ## 문제

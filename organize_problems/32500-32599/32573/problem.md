@@ -1,13 +1,13 @@
 ---
-title: Cowpproximation
-special_judge: true
-time_limit: 4 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Cowpproximation"
+special_judge: "true"
+time_limit: "4 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 137
 accepted: 50
 solved_users: 30
-acceptance_rate: 30.303%
-collected_at: 2026-04-17T19:56:19.229428+00:00
+acceptance_rate: "30.303%"
+collected_at: "2026-04-17T19:56:19.229428+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Strike Zone
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Strike Zone"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 891
 accepted: 493
 solved_users: 427
-acceptance_rate: 55.963%
-collected_at: 2026-04-17T14:51:15.448935+00:00
+acceptance_rate: "55.963%"
+collected_at: "2026-04-17T14:51:15.448935+00:00"
 ---
 
 ## 문제

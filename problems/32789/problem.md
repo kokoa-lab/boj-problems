@@ -1,13 +1,13 @@
 ---
-title: Champernowne Subsequence
-special_judge: false
-time_limit: 2 초
-memory_limit: 2048 MB
+title: "Champernowne Subsequence"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "2048 MB"
 submissions: 49
 accepted: 31
 solved_users: 27
-acceptance_rate: 60.000%
-collected_at: 2026-04-17T20:01:22.808945+00:00
+acceptance_rate: "60.000%"
+collected_at: "2026-04-17T20:01:22.808945+00:00"
 ---
 
 ## 문제

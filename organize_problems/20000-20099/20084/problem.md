@@ -1,13 +1,13 @@
 ---
-title: Martian DNA
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Martian DNA"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 138
 accepted: 42
 solved_users: 37
-acceptance_rate: 30.579%
-collected_at: 2026-04-17T15:31:29.915586+00:00
+acceptance_rate: "30.579%"
+collected_at: "2026-04-17T15:31:29.915586+00:00"
 ---
 
 ## 문제

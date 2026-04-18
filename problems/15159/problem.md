@@ -1,13 +1,13 @@
 ---
-title: Exciting Startup
-special_judge: false
-time_limit: 3 초
-memory_limit: 512 MB
+title: "Exciting Startup"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "512 MB"
 submissions: 4
 accepted: 4
 solved_users: 4
-acceptance_rate: 100.000%
-collected_at: 2026-04-17T13:53:07.982004+00:00
+acceptance_rate: "100.000%"
+collected_at: "2026-04-17T13:53:07.982004+00:00"
 ---
 
 ## 문제

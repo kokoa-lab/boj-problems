@@ -1,13 +1,13 @@
 ---
-title: Draw Your Deck
-special_judge: true
-time_limit: 5 초
-memory_limit: 2048 MB
+title: "Draw Your Deck"
+special_judge: "true"
+time_limit: "5 초"
+memory_limit: "2048 MB"
 submissions: 14
 accepted: 5
 solved_users: 5
-acceptance_rate: 100.000%
-collected_at: 2026-04-17T21:06:37.495851+00:00
+acceptance_rate: "100.000%"
+collected_at: "2026-04-17T21:06:37.495851+00:00"
 ---
 
 ## 문제

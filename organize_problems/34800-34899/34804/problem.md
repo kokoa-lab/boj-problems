@@ -1,13 +1,13 @@
 ---
-title: 배점 배정하기
-special_judge: true
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "배점 배정하기"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 157
 accepted: 98
 solved_users: 81
-acceptance_rate: 61.364%
-collected_at: 2026-04-17T20:49:04.302146+00:00
+acceptance_rate: "61.364%"
+collected_at: "2026-04-17T20:49:04.302146+00:00"
 ---
 
 ## 문제

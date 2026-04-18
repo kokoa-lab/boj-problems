@@ -1,13 +1,13 @@
 ---
-title: 도장 도장
-special_judge: false
-time_limit: 10 초
-memory_limit: 256 MB
+title: "도장 도장"
+special_judge: "false"
+time_limit: "10 초"
+memory_limit: "256 MB"
 submissions: 147
 accepted: 49
 solved_users: 37
-acceptance_rate: 31.897%
-collected_at: 2026-04-17T12:25:43.445812+00:00
+acceptance_rate: "31.897%"
+collected_at: "2026-04-17T12:25:43.445812+00:00"
 ---
 
 ## 문제

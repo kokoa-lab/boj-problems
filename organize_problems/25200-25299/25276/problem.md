@@ -1,13 +1,13 @@
 ---
-title: Sperhling
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Sperhling"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 75
 accepted: 45
 solved_users: 37
-acceptance_rate: 71.154%
-collected_at: 2026-04-17T17:23:46.302888+00:00
+acceptance_rate: "71.154%"
+collected_at: "2026-04-17T17:23:46.302888+00:00"
 ---
 
 ## 문제

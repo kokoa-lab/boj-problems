@@ -1,13 +1,13 @@
 ---
-title: 자물쇠
-special_judge: true
-time_limit: 1 초
-memory_limit: 128 MB
+title: "자물쇠"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 2722
 accepted: 341
 solved_users: 245
-acceptance_rate: 17.049%
-collected_at: 2026-04-17T10:41:57.413048+00:00
+acceptance_rate: "17.049%"
+collected_at: "2026-04-17T10:41:57.413048+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: XORXORXOR
-special_judge: false
-time_limit: 0.2 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "XORXORXOR"
+special_judge: "false"
+time_limit: "0.2 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 4888
 accepted: 2591
 solved_users: 2326
-acceptance_rate: 55.873%
-collected_at: 2026-04-17T13:02:10.524745+00:00
+acceptance_rate: "55.873%"
+collected_at: "2026-04-17T13:02:10.524745+00:00"
 ---
 
 ## 문제

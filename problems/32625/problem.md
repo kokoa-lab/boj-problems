@@ -1,13 +1,13 @@
 ---
-title: 분할
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "분할"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 284
 accepted: 164
 solved_users: 146
-acceptance_rate: 59.592%
-collected_at: 2026-04-17T19:57:51.570492+00:00
+acceptance_rate: "59.592%"
+collected_at: "2026-04-17T19:57:51.570492+00:00"
 ---
 
 ## 문제

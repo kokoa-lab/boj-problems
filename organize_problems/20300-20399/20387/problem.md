@@ -1,13 +1,13 @@
 ---
-title: A Logical Problem
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "A Logical Problem"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 50
 accepted: 12
 solved_users: 7
-acceptance_rate: 46.667%
-collected_at: 2026-04-17T15:35:54.341793+00:00
+acceptance_rate: "46.667%"
+collected_at: "2026-04-17T15:35:54.341793+00:00"
 ---
 
 ## 문제
@@ -32,8 +32,25 @@ The following circuits illustrate some legal and illegal circuit paths
 
 |  |  |  |  |
 | --- | --- | --- | --- |
-| ```     ---+    --+|      || ``` | >These two paths are both legal | ```        |    ---+       | ``` | Illegal, only one 90 degree turn at each junction |
-| ```        |    ---+    ---+       | ``` | Illegal, no two junctions may be adjacent to one another in a horizontal or vertical direction | ```        |    ---+---       | ``` | Illegal, no 2 paths may cross |
+| ``` 
+    ---+
+    --+|
+      ||
+ ``` | >These two paths are both legal | ``` 
+       |
+    ---+
+       |
+ ``` | Illegal, only one 90 degree turn at each junction |
+| ``` 
+       |
+    ---+
+    ---+
+       |
+ ``` | Illegal, no two junctions may be adjacent to one another in a horizontal or vertical direction | ``` 
+       |
+    ---+---
+       |
+ ``` | Illegal, no 2 paths may cross |
 
 The two inputs for a specific logic gate always approach horizontally from the left. One input is adjacent to the leftmost character of the first row of the gate, and the other input is adjacent to the leftmost character of the third row. The output for a gate always leaves horizontally to the right and is adjacent to the rightmost character of the second row of the gate. The positions of these inputs and output locations are indicated by the dash characters ('-') in the diagram below:
 

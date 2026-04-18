@@ -1,13 +1,13 @@
 ---
-title: 게리맨더링
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "게리맨더링"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 1543
 accepted: 385
 solved_users: 301
-acceptance_rate: 27.364%
-collected_at: 2026-04-17T18:26:40.726863+00:00
+acceptance_rate: "27.364%"
+collected_at: "2026-04-17T18:26:40.726863+00:00"
 ---
 
 ## 문제

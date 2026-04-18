@@ -1,13 +1,13 @@
 ---
-title: 너의 집에 가까워졌어 너의 이름을 크게 불러봐도 너는 너무 멀어
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "너의 집에 가까워졌어 너의 이름을 크게 불러봐도 너는 너무 멀어"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 43
 accepted: 24
 solved_users: 21
-acceptance_rate: 58.333%
-collected_at: 2026-04-17T18:18:40.618537+00:00
+acceptance_rate: "58.333%"
+collected_at: "2026-04-17T18:18:40.618537+00:00"
 ---
 
 ## 문제

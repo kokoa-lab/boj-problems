@@ -1,13 +1,13 @@
 ---
-title: Contest Construction
-special_judge: false
-time_limit: 1 초
-memory_limit: 2048 MB (추가 메모리 없음)
+title: "Contest Construction"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "2048 MB (추가 메모리 없음)"
 submissions: 90
 accepted: 55
 solved_users: 52
-acceptance_rate: 67.532%
-collected_at: 2026-04-17T16:38:47.377428+00:00
+acceptance_rate: "67.532%"
+collected_at: "2026-04-17T16:38:47.377428+00:00"
 ---
 
 ## 문제

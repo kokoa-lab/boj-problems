@@ -1,13 +1,13 @@
 ---
-title: Shopping Malls
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Shopping Malls"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 72
 accepted: 41
 solved_users: 35
-acceptance_rate: 58.333%
-collected_at: 2026-04-17T12:11:41.939739+00:00
+acceptance_rate: "58.333%"
+collected_at: "2026-04-17T12:11:41.939739+00:00"
 ---
 
 ## 문제

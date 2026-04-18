@@ -1,13 +1,13 @@
 ---
-title: 테트리스 게임
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "테트리스 게임"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 4011
 accepted: 824
 solved_users: 605
-acceptance_rate: 22.466%
-collected_at: 2026-04-17T11:10:04.231667+00:00
+acceptance_rate: "22.466%"
+collected_at: "2026-04-17T11:10:04.231667+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: NPM998244353 (Easy)
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "NPM998244353 (Easy)"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 117
 accepted: 49
 solved_users: 24
-acceptance_rate: 33.803%
-collected_at: 2026-04-17T13:44:03.802023+00:00
+acceptance_rate: "33.803%"
+collected_at: "2026-04-17T13:44:03.802023+00:00"
 ---
 
 ## 문제

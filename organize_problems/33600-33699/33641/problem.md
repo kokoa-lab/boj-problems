@@ -1,13 +1,13 @@
 ---
-title: Evacuation
-special_judge: false
-time_limit: 1 초
-memory_limit: 2048 MB
+title: "Evacuation"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "2048 MB"
 submissions: 22
 accepted: 6
 solved_users: 6
-acceptance_rate: 27.273%
-collected_at: 2026-04-17T20:20:34.288601+00:00
+acceptance_rate: "27.273%"
+collected_at: "2026-04-17T20:20:34.288601+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 상자의 균형
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "상자의 균형"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 1835
 accepted: 647
 solved_users: 531
-acceptance_rate: 36.470%
-collected_at: 2026-04-17T15:31:51.844762+00:00
+acceptance_rate: "36.470%"
+collected_at: "2026-04-17T15:31:51.844762+00:00"
 ---
 
 ## 문제

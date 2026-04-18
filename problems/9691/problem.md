@@ -1,13 +1,13 @@
 ---
-title: Janosik
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Janosik"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 62
 accepted: 41
 solved_users: 31
-acceptance_rate: 63.265%
-collected_at: 2026-04-17T12:13:07.920747+00:00
+acceptance_rate: "63.265%"
+collected_at: "2026-04-17T12:13:07.920747+00:00"
 ---
 
 ## 문제

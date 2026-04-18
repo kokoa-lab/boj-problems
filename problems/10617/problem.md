@@ -1,13 +1,13 @@
 ---
-title: Magnetos
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Magnetos"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 37
 accepted: 24
 solved_users: 16
-acceptance_rate: 57.143%
-collected_at: 2026-04-17T12:26:19.954877+00:00
+acceptance_rate: "57.143%"
+collected_at: "2026-04-17T12:26:19.954877+00:00"
 ---
 
 ## 문제

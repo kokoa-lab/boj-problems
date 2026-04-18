@@ -1,13 +1,13 @@
 ---
-title: 高速道路の通行料金 (Highway Tolls)
-special_judge: false
-time_limit: 4 초
-memory_limit: 1024 MB
+title: "高速道路の通行料金 (Highway Tolls)"
+special_judge: "false"
+time_limit: "4 초"
+memory_limit: "1024 MB"
 submissions: 38
 accepted: 19
 solved_users: 16
-acceptance_rate: 53.333%
-collected_at: 2026-04-17T19:32:18.099448+00:00
+acceptance_rate: "53.333%"
+collected_at: "2026-04-17T19:32:18.099448+00:00"
 ---
 
 ## 문제

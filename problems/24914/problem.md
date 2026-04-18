@@ -1,13 +1,13 @@
 ---
-title: Split the SSHS
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 512 MB (추가 메모리 없음)
+title: "Split the SSHS"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "512 MB (추가 메모리 없음)"
 submissions: 234
 accepted: 96
 solved_users: 85
-acceptance_rate: 49.419%
-collected_at: 2026-04-17T17:16:59.659108+00:00
+acceptance_rate: "49.419%"
+collected_at: "2026-04-17T17:16:59.659108+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 시설물 사용 신청
-special_judge: true
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "시설물 사용 신청"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 167
 accepted: 95
 solved_users: 86
-acceptance_rate: 64.179%
-collected_at: 2026-04-17T20:06:59.709034+00:00
+acceptance_rate: "64.179%"
+collected_at: "2026-04-17T20:06:59.709034+00:00"
 ---
 
 ## 문제

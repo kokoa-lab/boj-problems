@@ -1,13 +1,13 @@
 ---
-title: 여우 국수
-special_judge: false
-time_limit: 0.5 초
-memory_limit: 1024 MB
+title: "여우 국수"
+special_judge: "false"
+time_limit: "0.5 초"
+memory_limit: "1024 MB"
 submissions: 400
 accepted: 58
 solved_users: 46
-acceptance_rate: 19.247%
-collected_at: 2026-04-17T16:40:54.003747+00:00
+acceptance_rate: "19.247%"
+collected_at: "2026-04-17T16:40:54.003747+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Jumping Frog
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Jumping Frog"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 66
 accepted: 45
 solved_users: 41
-acceptance_rate: 67.213%
-collected_at: 2026-04-17T13:49:39.741110+00:00
+acceptance_rate: "67.213%"
+collected_at: "2026-04-17T13:49:39.741110+00:00"
 ---
 
 ## 문제

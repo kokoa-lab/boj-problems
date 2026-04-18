@@ -1,13 +1,13 @@
 ---
-title: Jumbled Communication
-special_judge: false
-time_limit: 5 초
-memory_limit: 256 MB
+title: "Jumbled Communication"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "256 MB"
 submissions: 354
 accepted: 246
 solved_users: 195
-acceptance_rate: 70.144%
-collected_at: 2026-04-17T12:43:52.069655+00:00
+acceptance_rate: "70.144%"
+collected_at: "2026-04-17T12:43:52.069655+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 스-스-스도쿠
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "스-스-스도쿠"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 1676
 accepted: 343
 solved_users: 285
-acceptance_rate: 22.745%
-collected_at: 2026-04-17T10:55:16.635499+00:00
+acceptance_rate: "22.745%"
+collected_at: "2026-04-17T10:55:16.635499+00:00"
 ---
 
 ## 문제

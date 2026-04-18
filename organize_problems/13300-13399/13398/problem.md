@@ -1,13 +1,13 @@
 ---
-title: 연속합 2
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "연속합 2"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 31736
 accepted: 10128
 solved_users: 7540
-acceptance_rate: 31.103%
-collected_at: 2026-04-17T13:12:46.876361+00:00
+acceptance_rate: "31.103%"
+collected_at: "2026-04-17T13:12:46.876361+00:00"
 ---
 
 ## 문제

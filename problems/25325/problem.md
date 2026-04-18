@@ -1,13 +1,13 @@
 ---
-title: 학생 인기도 측정
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "학생 인기도 측정"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 2291
 accepted: 1478
 solved_users: 1314
-acceptance_rate: 66.701%
-collected_at: 2026-04-17T17:24:47.676043+00:00
+acceptance_rate: "66.701%"
+collected_at: "2026-04-17T17:24:47.676043+00:00"
 ---
 
 ## 문제

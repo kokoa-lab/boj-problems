@@ -1,13 +1,13 @@
 ---
-title: Censor
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Censor"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 398
 accepted: 257
 solved_users: 222
-acceptance_rate: 63.977%
-collected_at: 2026-04-17T11:41:34.385038+00:00
+acceptance_rate: "63.977%"
+collected_at: "2026-04-17T11:41:34.385038+00:00"
 ---
 
 ## 문제

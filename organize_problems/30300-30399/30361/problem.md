@@ -1,13 +1,13 @@
 ---
-title: Empty Quartz
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Empty Quartz"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 41
 accepted: 27
 solved_users: 24
-acceptance_rate: 77.419%
-collected_at: 2026-04-17T19:04:34.142785+00:00
+acceptance_rate: "77.419%"
+collected_at: "2026-04-17T19:04:34.142785+00:00"
 ---
 
 ## 문제

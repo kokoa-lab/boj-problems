@@ -1,13 +1,13 @@
 ---
-title: 다이버전스 미터
-special_judge: true
-time_limit: 2 초
-memory_limit: 512 MB
+title: "다이버전스 미터"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 75
 accepted: 6
 solved_users: 5
-acceptance_rate: 31.250%
-collected_at: 2026-04-18T09:59:02.152909+00:00
+acceptance_rate: "31.250%"
+collected_at: "2026-04-18T09:59:02.152909+00:00"
 ---
 
 ## 문제

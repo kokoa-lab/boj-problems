@@ -1,13 +1,13 @@
 ---
-title: Construct BFS Graph
-special_judge: true
-time_limit: 1 초
-memory_limit: 2048 MB
+title: "Construct BFS Graph"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "2048 MB"
 submissions: 10
 accepted: 4
 solved_users: 3
-acceptance_rate: 42.857%
-collected_at: 2026-04-17T20:56:28.155382+00:00
+acceptance_rate: "42.857%"
+collected_at: "2026-04-17T20:56:28.155382+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 올바른 괄호 문자열 찾기
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "올바른 괄호 문자열 찾기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 65
 accepted: 31
 solved_users: 31
-acceptance_rate: 50.000%
-collected_at: 2026-04-17T20:50:06.232892+00:00
+acceptance_rate: "50.000%"
+collected_at: "2026-04-17T20:50:06.232892+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Черные и белые
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Черные и белые"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 40
 accepted: 28
 solved_users: 22
-acceptance_rate: 66.667%
-collected_at: 2026-04-17T18:30:16.995899+00:00
+acceptance_rate: "66.667%"
+collected_at: "2026-04-17T18:30:16.995899+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Forming Groups
-special_judge: false
-time_limit: 5 초
-memory_limit: 1024 MB
+title: "Forming Groups"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "1024 MB"
 submissions: 201
 accepted: 64
 solved_users: 59
-acceptance_rate: 33.333%
-collected_at: 2026-04-17T19:31:47.912854+00:00
+acceptance_rate: "33.333%"
+collected_at: "2026-04-17T19:31:47.912854+00:00"
 ---
 
 ## 문제

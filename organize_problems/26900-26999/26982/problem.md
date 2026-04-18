@@ -1,13 +1,13 @@
 ---
-title: Stall Reservations
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Stall Reservations"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 91
 accepted: 41
 solved_users: 38
-acceptance_rate: 50.000%
-collected_at: 2026-04-17T17:54:23.794737+00:00
+acceptance_rate: "50.000%"
+collected_at: "2026-04-17T17:54:23.794737+00:00"
 ---
 
 ## 문제

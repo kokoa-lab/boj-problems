@@ -1,13 +1,13 @@
 ---
-title: 최대 곱
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "최대 곱"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 4496
 accepted: 2732
 solved_users: 2452
-acceptance_rate: 63.001%
-collected_at: 2026-04-17T10:30:42.105796+00:00
+acceptance_rate: "63.001%"
+collected_at: "2026-04-17T10:30:42.105796+00:00"
 ---
 
 ## 문제

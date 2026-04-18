@@ -1,13 +1,13 @@
 ---
-title: 공정한 회의
-special_judge: false
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "공정한 회의"
+special_judge: "false"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 87
 accepted: 39
 solved_users: 37
-acceptance_rate: 47.436%
-collected_at: 2026-04-17T15:28:34.133547+00:00
+acceptance_rate: "47.436%"
+collected_at: "2026-04-17T15:28:34.133547+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Poniedziałki
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Poniedziałki"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 434
 accepted: 248
 solved_users: 221
-acceptance_rate: 56.667%
-collected_at: 2026-04-17T12:03:29.633981+00:00
+acceptance_rate: "56.667%"
+collected_at: "2026-04-17T12:03:29.633981+00:00"
 ---
 
 ## 문제

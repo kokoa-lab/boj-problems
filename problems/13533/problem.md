@@ -1,13 +1,13 @@
 ---
-title: 꽃 구매하기
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "꽃 구매하기"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 84
 accepted: 35
 solved_users: 24
-acceptance_rate: 53.333%
-collected_at: 2026-04-17T13:14:43.811181+00:00
+acceptance_rate: "53.333%"
+collected_at: "2026-04-17T13:14:43.811181+00:00"
 ---
 
 ## 문제

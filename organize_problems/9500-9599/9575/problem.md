@@ -1,13 +1,13 @@
 ---
-title: 행운의 수
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "행운의 수"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 1585
 accepted: 975
 solved_users: 794
-acceptance_rate: 65.029%
-collected_at: 2026-04-17T12:11:30.573056+00:00
+acceptance_rate: "65.029%"
+collected_at: "2026-04-17T12:11:30.573056+00:00"
 ---
 
 ## 문제

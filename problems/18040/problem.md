@@ -1,13 +1,13 @@
 ---
-title: Leverage MDT
-special_judge: false
-time_limit: 0.2 초
-memory_limit: 512 MB
+title: "Leverage MDT"
+special_judge: "false"
+time_limit: "0.2 초"
+memory_limit: "512 MB"
 submissions: 111
 accepted: 60
 solved_users: 59
-acceptance_rate: 59.000%
-collected_at: 2026-04-17T14:53:47.679647+00:00
+acceptance_rate: "59.000%"
+collected_at: "2026-04-17T14:53:47.679647+00:00"
 ---
 
 ## 문제

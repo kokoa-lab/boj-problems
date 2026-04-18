@@ -1,13 +1,13 @@
 ---
-title: 구호물자
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "구호물자"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 2905
 accepted: 800
 solved_users: 592
-acceptance_rate: 27.977%
-collected_at: 2026-04-17T12:42:28.012905+00:00
+acceptance_rate: "27.977%"
+collected_at: "2026-04-17T12:42:28.012905+00:00"
 ---
 
 ## 문제

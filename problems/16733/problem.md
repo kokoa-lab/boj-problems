@@ -1,13 +1,13 @@
 ---
-title: Relay Race
-special_judge: true
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Relay Race"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 70
 accepted: 18
 solved_users: 12
-acceptance_rate: 21.429%
-collected_at: 2026-04-17T14:23:14.260707+00:00
+acceptance_rate: "21.429%"
+collected_at: "2026-04-17T14:23:14.260707+00:00"
 ---
 
 ## 문제

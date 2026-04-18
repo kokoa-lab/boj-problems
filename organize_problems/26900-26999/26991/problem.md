@@ -1,13 +1,13 @@
 ---
-title: Finicky Grazers
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Finicky Grazers"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 59
 accepted: 15
 solved_users: 11
-acceptance_rate: 35.484%
-collected_at: 2026-04-17T17:54:33.833755+00:00
+acceptance_rate: "35.484%"
+collected_at: "2026-04-17T17:54:33.833755+00:00"
 ---
 
 ## 문제

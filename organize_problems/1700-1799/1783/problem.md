@@ -1,13 +1,13 @@
 ---
-title: 병든 나이트
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "병든 나이트"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 18671
 accepted: 8309
 solved_users: 7081
-acceptance_rate: 44.462%
-collected_at: 2026-04-17T10:33:31.484274+00:00
+acceptance_rate: "44.462%"
+collected_at: "2026-04-17T10:33:31.484274+00:00"
 ---
 
 ## 문제

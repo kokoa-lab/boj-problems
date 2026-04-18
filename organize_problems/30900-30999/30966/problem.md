@@ -1,13 +1,13 @@
 ---
-title: 관심사
-special_judge: false
-time_limit: 3 초
-memory_limit: 512 MB
+title: "관심사"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "512 MB"
 submissions: 140
 accepted: 47
 solved_users: 35
-acceptance_rate: 38.043%
-collected_at: 2026-04-17T19:18:57.575591+00:00
+acceptance_rate: "38.043%"
+collected_at: "2026-04-17T19:18:57.575591+00:00"
 ---
 
 ## 문제

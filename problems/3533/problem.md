@@ -1,13 +1,13 @@
 ---
-title: Explicit Formula
-special_judge: false
-time_limit: 3 초
-memory_limit: 256 MB
+title: "Explicit Formula"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "256 MB"
 submissions: 1074
 accepted: 632
 solved_users: 548
-acceptance_rate: 61.024%
-collected_at: 2026-04-17T10:49:37.392928+00:00
+acceptance_rate: "61.024%"
+collected_at: "2026-04-17T10:49:37.392928+00:00"
 ---
 
 ## 문제

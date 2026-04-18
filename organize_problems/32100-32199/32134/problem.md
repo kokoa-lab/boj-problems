@@ -1,13 +1,13 @@
 ---
-title: 짚단 베기
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "짚단 베기"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 515
 accepted: 148
 solved_users: 126
-acceptance_rate: 31.658%
-collected_at: 2026-04-17T19:43:39.900289+00:00
+acceptance_rate: "31.658%"
+collected_at: "2026-04-17T19:43:39.900289+00:00"
 ---
 
 ## 문제

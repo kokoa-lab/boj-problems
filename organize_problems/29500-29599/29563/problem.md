@@ -1,13 +1,13 @@
 ---
-title: Передача данных
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Передача данных"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 78
 accepted: 40
 solved_users: 25
-acceptance_rate: 56.818%
-collected_at: 2026-04-17T18:47:28.962804+00:00
+acceptance_rate: "56.818%"
+collected_at: "2026-04-17T18:47:28.962804+00:00"
 ---
 
 ## 문제

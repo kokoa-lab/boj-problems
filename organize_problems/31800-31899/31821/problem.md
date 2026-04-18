@@ -1,13 +1,13 @@
 ---
-title: 학식 사주기
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "학식 사주기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 2441
 accepted: 2001
 solved_users: 1918
-acceptance_rate: 82.424%
-collected_at: 2026-04-17T19:37:07.413209+00:00
+acceptance_rate: "82.424%"
+collected_at: "2026-04-17T19:37:07.413209+00:00"
 ---
 
 ## 문제

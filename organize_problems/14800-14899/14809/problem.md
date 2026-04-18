@@ -1,13 +1,13 @@
 ---
-title: Ample Syrup (Small)
-special_judge: true
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Ample Syrup (Small)"
+special_judge: "true"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 118
 accepted: 77
 solved_users: 71
-acceptance_rate: 73.958%
-collected_at: 2026-04-17T13:42:15.412180+00:00
+acceptance_rate: "73.958%"
+collected_at: "2026-04-17T13:42:15.412180+00:00"
 ---
 
 ## 문제

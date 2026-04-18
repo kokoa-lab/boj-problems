@@ -1,13 +1,13 @@
 ---
-title: CPEquivalence
-special_judge: false
-time_limit: 2 초
-memory_limit: 2048 MB
+title: "CPEquivalence"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "2048 MB"
 submissions: 21
 accepted: 12
 solved_users: 11
-acceptance_rate: 68.750%
-collected_at: 2026-04-17T20:50:52.061996+00:00
+acceptance_rate: "68.750%"
+collected_at: "2026-04-17T20:50:52.061996+00:00"
 ---
 
 ## 문제

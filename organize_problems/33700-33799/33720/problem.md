@@ -1,13 +1,13 @@
 ---
-title: [P] Peeling Primes
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "[P] Peeling Primes"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 203
 accepted: 80
 solved_users: 63
-acceptance_rate: 36.842%
-collected_at: 2026-04-17T20:22:14.930461+00:00
+acceptance_rate: "36.842%"
+collected_at: "2026-04-17T20:22:14.930461+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 인기가 넘쳐흘러
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "인기가 넘쳐흘러"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 835
 accepted: 424
 solved_users: 280
-acceptance_rate: 51.756%
-collected_at: 2026-04-17T14:35:28.939252+00:00
+acceptance_rate: "51.756%"
+collected_at: "2026-04-17T14:35:28.939252+00:00"
 ---
 
 ## 문제

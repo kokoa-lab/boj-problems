@@ -1,13 +1,13 @@
 ---
-title: Chokladkartongen
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Chokladkartongen"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 357
 accepted: 318
 solved_users: 284
-acceptance_rate: 90.735%
-collected_at: 2026-04-17T17:53:42.371238+00:00
+acceptance_rate: "90.735%"
+collected_at: "2026-04-17T17:53:42.371238+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 공주님을 구해라!
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "공주님을 구해라!"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 21949
 accepted: 6080
 solved_users: 4555
-acceptance_rate: 25.669%
-collected_at: 2026-04-17T14:48:08.574986+00:00
+acceptance_rate: "25.669%"
+collected_at: "2026-04-17T14:48:08.574986+00:00"
 ---
 
 ## 문제

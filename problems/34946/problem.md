@@ -1,13 +1,13 @@
 ---
-title: 셔틀 탈래 말래 탈래 말래 애매하긴 해
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "셔틀 탈래 말래 탈래 말래 애매하긴 해"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 893
 accepted: 691
 solved_users: 643
-acceptance_rate: 79.187%
-collected_at: 2026-04-17T20:52:28.816328+00:00
+acceptance_rate: "79.187%"
+collected_at: "2026-04-17T20:52:28.816328+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: NASSA’s Robot
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "NASSA’s Robot"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 222
 accepted: 202
 solved_users: 179
-acceptance_rate: 90.863%
-collected_at: 2026-04-17T12:12:14.796708+00:00
+acceptance_rate: "90.863%"
+collected_at: "2026-04-17T12:12:14.796708+00:00"
 ---
 
 ## 문제

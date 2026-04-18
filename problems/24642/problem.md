@@ -1,13 +1,13 @@
 ---
-title: Extreme Problem
-special_judge: true
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "Extreme Problem"
+special_judge: "true"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 17
 accepted: 10
 solved_users: 9
-acceptance_rate: 90.000%
-collected_at: 2026-04-17T17:12:28.801463+00:00
+acceptance_rate: "90.000%"
+collected_at: "2026-04-17T17:12:28.801463+00:00"
 ---
 
 ## 문제

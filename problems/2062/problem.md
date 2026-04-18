@@ -1,13 +1,13 @@
 ---
-title: 곱하기 게임
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "곱하기 게임"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 238
 accepted: 38
 solved_users: 24
-acceptance_rate: 16.107%
-collected_at: 2026-04-17T10:37:51.602740+00:00
+acceptance_rate: "16.107%"
+collected_at: "2026-04-17T10:37:51.602740+00:00"
 ---
 
 ## 문제

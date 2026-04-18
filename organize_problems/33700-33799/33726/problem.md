@@ -1,13 +1,13 @@
 ---
-title: Mi Teleférico
-special_judge: false
-time_limit: 2 초
-memory_limit: 2048 MB
+title: "Mi Teleférico"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "2048 MB"
 submissions: 90
 accepted: 26
 solved_users: 25
-acceptance_rate: 33.333%
-collected_at: 2026-04-17T20:22:23.250992+00:00
+acceptance_rate: "33.333%"
+collected_at: "2026-04-17T20:22:23.250992+00:00"
 ---
 
 ## 문제

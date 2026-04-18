@@ -1,13 +1,13 @@
 ---
-title: 시소 배열
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "시소 배열"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 765
 accepted: 302
 solved_users: 233
-acceptance_rate: 42.596%
-collected_at: 2026-04-17T19:36:28.119746+00:00
+acceptance_rate: "42.596%"
+collected_at: "2026-04-17T19:36:28.119746+00:00"
 ---
 
 ## 문제

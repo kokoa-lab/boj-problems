@@ -1,13 +1,13 @@
 ---
-title: Balanced String
-special_judge: false
-time_limit: 0.5 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "Balanced String"
+special_judge: "false"
+time_limit: "0.5 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 1895
 accepted: 1238
 solved_users: 1011
-acceptance_rate: 67.087%
-collected_at: 2026-04-17T14:41:04.020789+00:00
+acceptance_rate: "67.087%"
+collected_at: "2026-04-17T14:41:04.020789+00:00"
 ---
 
 ## 문제

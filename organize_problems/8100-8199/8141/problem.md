@@ -1,13 +1,13 @@
 ---
-title: Axes of Symmetry
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Axes of Symmetry"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 129
 accepted: 33
 solved_users: 28
-acceptance_rate: 35.897%
-collected_at: 2026-04-17T11:56:29.328993+00:00
+acceptance_rate: "35.897%"
+collected_at: "2026-04-17T11:56:29.328993+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: KSA 수열과 쿼리
-special_judge: false
-time_limit: 6 초
-memory_limit: 1024 MB
+title: "KSA 수열과 쿼리"
+special_judge: "false"
+time_limit: "6 초"
+memory_limit: "1024 MB"
 submissions: 628
 accepted: 161
 solved_users: 41
-acceptance_rate: 13.399%
-collected_at: 2026-04-17T20:17:39.601713+00:00
+acceptance_rate: "13.399%"
+collected_at: "2026-04-17T20:17:39.601713+00:00"
 ---
 
 ## 문제

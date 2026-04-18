@@ -1,13 +1,13 @@
 ---
-title: 행운의 바퀴
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "행운의 바퀴"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 10840
 accepted: 2989
 solved_users: 2147
-acceptance_rate: 25.553%
-collected_at: 2026-04-17T10:45:14.205925+00:00
+acceptance_rate: "25.553%"
+collected_at: "2026-04-17T10:45:14.205925+00:00"
 ---
 
 ## 문제

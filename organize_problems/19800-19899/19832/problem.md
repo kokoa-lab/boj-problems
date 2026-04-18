@@ -1,13 +1,13 @@
 ---
-title: Configuration file
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Configuration file"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 108
 accepted: 28
 solved_users: 21
-acceptance_rate: 25.610%
-collected_at: 2026-04-17T15:28:19.171352+00:00
+acceptance_rate: "25.610%"
+collected_at: "2026-04-17T15:28:19.171352+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 큐브 모으기
-special_judge: true
-time_limit: 1 초
-memory_limit: 128 MB
+title: "큐브 모으기"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 61
 accepted: 17
 solved_users: 16
-acceptance_rate: 38.095%
-collected_at: 2026-04-17T10:46:08.692570+00:00
+acceptance_rate: "38.095%"
+collected_at: "2026-04-17T10:46:08.692570+00:00"
 ---
 
 ## 문제

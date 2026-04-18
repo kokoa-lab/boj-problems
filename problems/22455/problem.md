@@ -1,13 +1,13 @@
 ---
-title: You Are the Judge
-special_judge: false
-time_limit: 8 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "You Are the Judge"
+special_judge: "false"
+time_limit: "8 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 20
 accepted: 19
 solved_users: 18
-acceptance_rate: 94.737%
-collected_at: 2026-04-17T16:21:48.436508+00:00
+acceptance_rate: "94.737%"
+collected_at: "2026-04-17T16:21:48.436508+00:00"
 ---
 
 ## 문제

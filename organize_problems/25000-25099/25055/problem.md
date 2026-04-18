@@ -1,13 +1,13 @@
 ---
-title: Il Derby della Madonnina
-special_judge: false
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 2048 MB
+title: "Il Derby della Madonnina"
+special_judge: "false"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "2048 MB"
 submissions: 124
 accepted: 59
 solved_users: 55
-acceptance_rate: 49.107%
-collected_at: 2026-04-17T17:19:48.291296+00:00
+acceptance_rate: "49.107%"
+collected_at: "2026-04-17T17:19:48.291296+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Shiritori
-special_judge: false
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Shiritori"
+special_judge: "false"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 152
 accepted: 109
 solved_users: 90
-acceptance_rate: 69.231%
-collected_at: 2026-04-17T17:15:13.420741+00:00
+acceptance_rate: "69.231%"
+collected_at: "2026-04-17T17:15:13.420741+00:00"
 ---
 
 ## 문제

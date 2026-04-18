@@ -1,13 +1,13 @@
 ---
-title: Computer Purchase
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Computer Purchase"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 442
 accepted: 170
 solved_users: 152
-acceptance_rate: 38.481%
-collected_at: 2026-04-17T11:37:56.897115+00:00
+acceptance_rate: "38.481%"
+collected_at: "2026-04-17T11:37:56.897115+00:00"
 ---
 
 ## 문제

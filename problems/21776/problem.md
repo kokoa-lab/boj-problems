@@ -1,13 +1,13 @@
 ---
-title: 가희와 읽기 쓰기 놀이
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "가희와 읽기 쓰기 놀이"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 385
 accepted: 150
 solved_users: 85
-acceptance_rate: 30.686%
-collected_at: 2026-04-17T16:07:18.251658+00:00
+acceptance_rate: "30.686%"
+collected_at: "2026-04-17T16:07:18.251658+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 상근이의 친구들
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "상근이의 친구들"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 22542
 accepted: 16955
 solved_users: 16196
-acceptance_rate: 76.156%
-collected_at: 2026-04-17T11:16:51.154250+00:00
+acceptance_rate: "76.156%"
+collected_at: "2026-04-17T11:16:51.154250+00:00"
 ---
 
 ## 문제

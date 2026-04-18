@@ -1,13 +1,13 @@
 ---
-title: 막대 배치
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "막대 배치"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 1871
 accepted: 1092
 solved_users: 865
-acceptance_rate: 59.820%
-collected_at: 2026-04-17T12:04:37.957881+00:00
+acceptance_rate: "59.820%"
+collected_at: "2026-04-17T12:04:37.957881+00:00"
 ---
 
 ## 문제

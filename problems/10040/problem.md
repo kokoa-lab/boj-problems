@@ -1,13 +1,13 @@
 ---
-title: 투표
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "투표"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 1930
 accepted: 1171
 solved_users: 1070
-acceptance_rate: 62.354%
-collected_at: 2026-04-17T12:18:08.983629+00:00
+acceptance_rate: "62.354%"
+collected_at: "2026-04-17T12:18:08.983629+00:00"
 ---
 
 ## 문제

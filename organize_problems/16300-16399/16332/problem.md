@@ -1,13 +1,13 @@
 ---
-title: Matrix Queries
-special_judge: false
-time_limit: 1.5 초
-memory_limit: 512 MB
+title: "Matrix Queries"
+special_judge: "false"
+time_limit: "1.5 초"
+memory_limit: "512 MB"
 submissions: 139
 accepted: 81
 solved_users: 59
-acceptance_rate: 55.140%
-collected_at: 2026-04-17T14:15:52.749864+00:00
+acceptance_rate: "55.140%"
+collected_at: "2026-04-17T14:15:52.749864+00:00"
 ---
 
 ## 문제

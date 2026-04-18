@@ -1,13 +1,13 @@
 ---
-title: 대회 자리
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "대회 자리"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 5107
 accepted: 3460
 solved_users: 3171
-acceptance_rate: 69.494%
-collected_at: 2026-04-17T11:12:03.639247+00:00
+acceptance_rate: "69.494%"
+collected_at: "2026-04-17T11:12:03.639247+00:00"
 ---
 
 ## 문제

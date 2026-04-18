@@ -1,13 +1,13 @@
 ---
-title: Naming Wine Bottles
-special_judge: true
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Naming Wine Bottles"
+special_judge: "true"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 65
 accepted: 50
 solved_users: 44
-acceptance_rate: 83.019%
-collected_at: 2026-04-17T19:09:43.740767+00:00
+acceptance_rate: "83.019%"
+collected_at: "2026-04-17T19:09:43.740767+00:00"
 ---
 
 ## 문제

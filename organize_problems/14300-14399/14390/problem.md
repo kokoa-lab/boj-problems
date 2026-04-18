@@ -1,13 +1,13 @@
 ---
-title: 타일 놓기
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "타일 놓기"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 191
 accepted: 116
 solved_users: 98
-acceptance_rate: 67.123%
-collected_at: 2026-04-17T13:31:48.735917+00:00
+acceptance_rate: "67.123%"
+collected_at: "2026-04-17T13:31:48.735917+00:00"
 ---
 
 ## 문제

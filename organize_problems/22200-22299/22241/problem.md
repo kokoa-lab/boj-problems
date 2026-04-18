@@ -1,13 +1,13 @@
 ---
-title: HAPPINESS
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "HAPPINESS"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 9
 accepted: 4
 solved_users: 4
-acceptance_rate: 44.444%
-collected_at: 2026-04-17T16:17:50.643554+00:00
+acceptance_rate: "44.444%"
+collected_at: "2026-04-17T16:17:50.643554+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Tetrooj Box
-special_judge: false
-time_limit: 5 초
-memory_limit: 1024 MB
+title: "Tetrooj Box"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "1024 MB"
 submissions: 50
 accepted: 47
 solved_users: 42
-acceptance_rate: 93.333%
-collected_at: 2026-04-17T17:34:32.722672+00:00
+acceptance_rate: "93.333%"
+collected_at: "2026-04-17T17:34:32.722672+00:00"
 ---
 
 ## 문제

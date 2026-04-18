@@ -1,13 +1,13 @@
 ---
-title: 배틀쉽
-special_judge: true
-time_limit: 2 초
-memory_limit: 256 MB
+title: "배틀쉽"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 283
 accepted: 164
 solved_users: 139
-acceptance_rate: 55.600%
-collected_at: 2026-04-17T11:52:45.372052+00:00
+acceptance_rate: "55.600%"
+collected_at: "2026-04-17T11:52:45.372052+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Stacking Cubes
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Stacking Cubes"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 56
 accepted: 17
 solved_users: 13
-acceptance_rate: 31.707%
-collected_at: 2026-04-17T11:42:36.643657+00:00
+acceptance_rate: "31.707%"
+collected_at: "2026-04-17T11:42:36.643657+00:00"
 ---
 
 ## 문제

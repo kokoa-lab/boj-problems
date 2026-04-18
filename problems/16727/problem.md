@@ -1,13 +1,13 @@
 ---
-title: ICPC
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "ICPC"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 3000
 accepted: 1940
 solved_users: 1847
-acceptance_rate: 65.127%
-collected_at: 2026-04-17T14:23:07.621688+00:00
+acceptance_rate: "65.127%"
+collected_at: "2026-04-17T14:23:07.621688+00:00"
 ---
 
 ## 문제

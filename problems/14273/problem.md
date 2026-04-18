@@ -1,13 +1,13 @@
 ---
-title: 영선이의 생일
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "영선이의 생일"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 21
 accepted: 5
 solved_users: 4
-acceptance_rate: 33.333%
-collected_at: 2026-04-17T13:29:16.611752+00:00
+acceptance_rate: "33.333%"
+collected_at: "2026-04-17T13:29:16.611752+00:00"
 ---
 
 ## 문제

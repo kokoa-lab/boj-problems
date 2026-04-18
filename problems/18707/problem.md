@@ -1,13 +1,13 @@
 ---
-title: Dull Chocolates
-special_judge: false
-time_limit: 9 초
-memory_limit: 512 MB
+title: "Dull Chocolates"
+special_judge: "false"
+time_limit: "9 초"
+memory_limit: "512 MB"
 submissions: 55
 accepted: 20
 solved_users: 20
-acceptance_rate: 47.619%
-collected_at: 2026-04-17T15:08:38.720847+00:00
+acceptance_rate: "47.619%"
+collected_at: "2026-04-17T15:08:38.720847+00:00"
 ---
 
 ## 문제

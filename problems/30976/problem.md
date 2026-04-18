@@ -1,13 +1,13 @@
 ---
-title: 사랑의 큐피드
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "사랑의 큐피드"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 264
 accepted: 142
 solved_users: 118
-acceptance_rate: 51.982%
-collected_at: 2026-04-17T19:19:08.742618+00:00
+acceptance_rate: "51.982%"
+collected_at: "2026-04-17T19:19:08.742618+00:00"
 ---
 
 ## 문제

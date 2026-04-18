@@ -1,13 +1,13 @@
 ---
-title: Chopsticks
-special_judge: false
-time_limit: 2 초
-memory_limit: 2048 MB
+title: "Chopsticks"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "2048 MB"
 submissions: 36
 accepted: 8
 solved_users: 7
-acceptance_rate: 23.333%
-collected_at: 2026-04-17T20:43:22.747375+00:00
+acceptance_rate: "23.333%"
+collected_at: "2026-04-17T20:43:22.747375+00:00"
 ---
 
 ## 문제

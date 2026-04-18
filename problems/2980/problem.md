@@ -1,13 +1,13 @@
 ---
-title: 도로와 신호등
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "도로와 신호등"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 4940
 accepted: 2723
 solved_users: 2251
-acceptance_rate: 55.870%
-collected_at: 2026-04-17T10:46:03.835622+00:00
+acceptance_rate: "55.870%"
+collected_at: "2026-04-17T10:46:03.835622+00:00"
 ---
 
 ## 문제

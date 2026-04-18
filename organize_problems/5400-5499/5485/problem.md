@@ -1,13 +1,13 @@
 ---
-title: 평균값 수열
-special_judge: false
-time_limit: 5 초
-memory_limit: 256 MB
+title: "평균값 수열"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "256 MB"
 submissions: 1339
 accepted: 485
 solved_users: 305
-acceptance_rate: 31.804%
-collected_at: 2026-04-17T11:14:24.936294+00:00
+acceptance_rate: "31.804%"
+collected_at: "2026-04-17T11:14:24.936294+00:00"
 ---
 
 ## 문제

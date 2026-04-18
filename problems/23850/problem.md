@@ -1,13 +1,13 @@
 ---
-title: Cijanobakterije
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Cijanobakterije"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 39
 accepted: 27
 solved_users: 27
-acceptance_rate: 75.000%
-collected_at: 2026-04-17T16:55:42.873428+00:00
+acceptance_rate: "75.000%"
+collected_at: "2026-04-17T16:55:42.873428+00:00"
 ---
 
 ## 문제

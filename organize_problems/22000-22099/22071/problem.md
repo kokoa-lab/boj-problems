@@ -1,13 +1,13 @@
 ---
-title: Магические карточки
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "Магические карточки"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 82
 accepted: 68
 solved_users: 61
-acceptance_rate: 83.562%
-collected_at: 2026-04-17T16:12:49.457556+00:00
+acceptance_rate: "83.562%"
+collected_at: "2026-04-17T16:12:49.457556+00:00"
 ---
 
 ## 문제

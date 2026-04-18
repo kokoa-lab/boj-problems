@@ -1,13 +1,13 @@
 ---
-title: 포닉스와 달구
-special_judge: false
-time_limit: 1.5 초
-memory_limit: 1024 MB
+title: "포닉스와 달구"
+special_judge: "false"
+time_limit: "1.5 초"
+memory_limit: "1024 MB"
 submissions: 117
 accepted: 58
 solved_users: 49
-acceptance_rate: 50.000%
-collected_at: 2026-04-17T19:35:22.350255+00:00
+acceptance_rate: "50.000%"
+collected_at: "2026-04-17T19:35:22.350255+00:00"
 ---
 
 ## 문제

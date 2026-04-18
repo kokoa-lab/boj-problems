@@ -1,13 +1,13 @@
 ---
-title: 포커
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "포커"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 686
 accepted: 171
 solved_users: 150
-acceptance_rate: 33.482%
-collected_at: 2026-04-17T10:29:26.795376+00:00
+acceptance_rate: "33.482%"
+collected_at: "2026-04-17T10:29:26.795376+00:00"
 ---
 
 ## 문제

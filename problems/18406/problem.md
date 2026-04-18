@@ -1,13 +1,13 @@
 ---
-title: 럭키 스트레이트
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "럭키 스트레이트"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 11000
 accepted: 7944
 solved_users: 6504
-acceptance_rate: 72.420%
-collected_at: 2026-04-18T09:50:56.745285+00:00
+acceptance_rate: "72.420%"
+collected_at: "2026-04-18T09:50:56.745285+00:00"
 ---
 
 ## 문제

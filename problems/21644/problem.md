@@ -1,13 +1,13 @@
 ---
-title: The Firm Knapsack Problem
-special_judge: true
-time_limit: 1 초
-memory_limit: 512 MB
+title: "The Firm Knapsack Problem"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 276
 accepted: 66
 solved_users: 57
-acceptance_rate: 23.554%
-collected_at: 2026-04-17T16:02:17.063388+00:00
+acceptance_rate: "23.554%"
+collected_at: "2026-04-17T16:02:17.063388+00:00"
 ---
 
 ## 문제

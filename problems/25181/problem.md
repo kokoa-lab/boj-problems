@@ -1,13 +1,13 @@
 ---
-title: Swap the elements
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Swap the elements"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 960
 accepted: 273
 solved_users: 226
-acceptance_rate: 30.376%
-collected_at: 2026-04-17T17:22:11.340165+00:00
+acceptance_rate: "30.376%"
+collected_at: "2026-04-17T17:22:11.340165+00:00"
 ---
 
 ## 문제

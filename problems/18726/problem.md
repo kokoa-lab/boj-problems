@@ -1,13 +1,13 @@
 ---
-title: Sum of Palindromes
-special_judge: true
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Sum of Palindromes"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 139
 accepted: 37
 solved_users: 34
-acceptance_rate: 28.333%
-collected_at: 2026-04-17T15:08:55.436918+00:00
+acceptance_rate: "28.333%"
+collected_at: "2026-04-17T15:08:55.436918+00:00"
 ---
 
 ## 문제

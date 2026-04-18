@@ -1,13 +1,13 @@
 ---
-title: Bottle Return
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Bottle Return"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 7463
 accepted: 6435
 solved_users: 6147
-acceptance_rate: 86.663%
-collected_at: 2026-04-17T15:54:03.970493+00:00
+acceptance_rate: "86.663%"
+collected_at: "2026-04-17T15:54:03.970493+00:00"
 ---
 
 ## 문제

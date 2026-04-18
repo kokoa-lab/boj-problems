@@ -1,13 +1,13 @@
 ---
-title: Sheba’s Amoebas
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Sheba’s Amoebas"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 365
 accepted: 313
 solved_users: 282
-acceptance_rate: 85.714%
-collected_at: 2026-04-17T13:50:41.680696+00:00
+acceptance_rate: "85.714%"
+collected_at: "2026-04-17T13:50:41.680696+00:00"
 ---
 
 ## 문제

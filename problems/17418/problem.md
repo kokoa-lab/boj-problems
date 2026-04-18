@@ -1,13 +1,13 @@
 ---
-title: G++ Language
-special_judge: true
-time_limit: 0.1 초 (추가 시간 없음)
-memory_limit: 256 MB
+title: "G++ Language"
+special_judge: "true"
+time_limit: "0.1 초 (추가 시간 없음)"
+memory_limit: "256 MB"
 submissions: 168
 accepted: 41
 solved_users: 17
-acceptance_rate: 17.000%
-collected_at: 2026-04-17T14:38:55.812953+00:00
+acceptance_rate: "17.000%"
+collected_at: "2026-04-17T14:38:55.812953+00:00"
 ---
 
 ## 문제

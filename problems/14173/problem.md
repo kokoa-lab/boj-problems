@@ -1,13 +1,13 @@
 ---
-title: Square Pasture
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Square Pasture"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 3095
 accepted: 2206
 solved_users: 2059
-acceptance_rate: 71.943%
-collected_at: 2026-04-17T13:27:14.268640+00:00
+acceptance_rate: "71.943%"
+collected_at: "2026-04-17T13:27:14.268640+00:00"
 ---
 
 ## 문제

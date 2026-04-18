@@ -1,13 +1,13 @@
 ---
-title: 님 게임 홀짝
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "님 게임 홀짝"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 1314
 accepted: 747
 solved_users: 674
-acceptance_rate: 58.865%
-collected_at: 2026-04-17T12:47:14.806530+00:00
+acceptance_rate: "58.865%"
+collected_at: "2026-04-17T12:47:14.806530+00:00"
 ---
 
 ## 문제

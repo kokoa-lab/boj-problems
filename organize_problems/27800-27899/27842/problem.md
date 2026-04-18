@@ -1,13 +1,13 @@
 ---
-title: Watching Cowflix
-special_judge: false
-time_limit: 3 초
-memory_limit: 1024 MB
+title: "Watching Cowflix"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "1024 MB"
 submissions: 179
 accepted: 27
 solved_users: 16
-acceptance_rate: 10.256%
-collected_at: 2026-04-17T18:12:27.736264+00:00
+acceptance_rate: "10.256%"
+collected_at: "2026-04-17T18:12:27.736264+00:00"
 ---
 
 ## 문제

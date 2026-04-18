@@ -1,13 +1,13 @@
 ---
-title: Zuma 2.0: Возвращение лягушки-идола
-special_judge: false
-time_limit: 5 초
-memory_limit: 1024 MB
+title: "Zuma 2.0: Возвращение лягушки-идола"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "1024 MB"
 submissions: 24
 accepted: 9
 solved_users: 4
-acceptance_rate: 23.529%
-collected_at: 2026-04-17T18:50:27.854520+00:00
+acceptance_rate: "23.529%"
+collected_at: "2026-04-17T18:50:27.854520+00:00"
 ---
 
 ## 문제

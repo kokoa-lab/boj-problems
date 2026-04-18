@@ -1,13 +1,13 @@
 ---
-title: 트럭 운전사 상근
-special_judge: false
-time_limit: 3 초
-memory_limit: 128 MB
+title: "트럭 운전사 상근"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "128 MB"
 submissions: 60
 accepted: 13
 solved_users: 8
-acceptance_rate: 24.242%
-collected_at: 2026-04-17T10:45:12.700184+00:00
+acceptance_rate: "24.242%"
+collected_at: "2026-04-17T10:45:12.700184+00:00"
 ---
 
 ## 문제

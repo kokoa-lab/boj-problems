@@ -1,13 +1,13 @@
 ---
-title: Boring Card Game
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Boring Card Game"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 219
 accepted: 13
 solved_users: 10
-acceptance_rate: 5.917%
-collected_at: 2026-04-17T10:48:44.739432+00:00
+acceptance_rate: "5.917%"
+collected_at: "2026-04-17T10:48:44.739432+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 프로게이머 영식
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "프로게이머 영식"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 187
 accepted: 3
 solved_users: 3
-acceptance_rate: 18.750%
-collected_at: 2026-04-17T10:31:36.059777+00:00
+acceptance_rate: "18.750%"
+collected_at: "2026-04-17T10:31:36.059777+00:00"
 ---
 
 ## 문제

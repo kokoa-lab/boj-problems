@@ -1,13 +1,13 @@
 ---
-title: 경로 게임
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "경로 게임"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 859
 accepted: 407
 solved_users: 343
-acceptance_rate: 47.573%
-collected_at: 2026-04-17T13:03:16.521953+00:00
+acceptance_rate: "47.573%"
+collected_at: "2026-04-17T13:03:16.521953+00:00"
 ---
 
 ## 문제

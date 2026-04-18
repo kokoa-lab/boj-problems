@@ -1,13 +1,13 @@
 ---
-title: 올바른 바이너리 문자열
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "올바른 바이너리 문자열"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 80
 accepted: 25
 solved_users: 16
-acceptance_rate: 40.000%
-collected_at: 2026-04-17T11:13:20.261027+00:00
+acceptance_rate: "40.000%"
+collected_at: "2026-04-17T11:13:20.261027+00:00"
 ---
 
 ## 문제

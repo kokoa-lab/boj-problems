@@ -1,13 +1,13 @@
 ---
-title: 동규가 설치한 그림판
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "동규가 설치한 그림판"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 51
 accepted: 12
 solved_users: 10
-acceptance_rate: 38.462%
-collected_at: 2026-04-17T10:45:17.697126+00:00
+acceptance_rate: "38.462%"
+collected_at: "2026-04-17T10:45:17.697126+00:00"
 ---
 
 ## 문제

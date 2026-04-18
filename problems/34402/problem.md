@@ -1,13 +1,13 @@
 ---
-title: 2vs2 배스킨라빈스 31
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "2vs2 배스킨라빈스 31"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 108
 accepted: 50
 solved_users: 40
-acceptance_rate: 43.956%
-collected_at: 2026-04-17T20:37:46.978442+00:00
+acceptance_rate: "43.956%"
+collected_at: "2026-04-17T20:37:46.978442+00:00"
 ---
 
 ## 문제

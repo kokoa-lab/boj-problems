@@ -1,13 +1,13 @@
 ---
-title: Word Extraction
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Word Extraction"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 313
 accepted: 114
 solved_users: 96
-acceptance_rate: 38.095%
-collected_at: 2026-04-17T12:17:05.708588+00:00
+acceptance_rate: "38.095%"
+collected_at: "2026-04-17T12:17:05.708588+00:00"
 ---
 
 ## 문제

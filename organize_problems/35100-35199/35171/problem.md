@@ -1,13 +1,13 @@
 ---
-title: Two Sets
-special_judge: true
-time_limit: 2.5 초
-memory_limit: 2048 MB
+title: "Two Sets"
+special_judge: "true"
+time_limit: "2.5 초"
+memory_limit: "2048 MB"
 submissions: 121
 accepted: 49
 solved_users: 39
-acceptance_rate: 50.649%
-collected_at: 2026-04-17T20:57:14.268011+00:00
+acceptance_rate: "50.649%"
+collected_at: "2026-04-17T20:57:14.268011+00:00"
 ---
 
 ## 문제

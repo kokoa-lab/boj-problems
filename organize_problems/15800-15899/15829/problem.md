@@ -1,13 +1,13 @@
 ---
-title: Hashing
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Hashing"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 96939
 accepted: 29773
 solved_users: 25808
-acceptance_rate: 30.340%
-collected_at: 2026-04-17T14:07:22.322504+00:00
+acceptance_rate: "30.340%"
+collected_at: "2026-04-17T14:07:22.322504+00:00"
 ---
 
 ## 문제

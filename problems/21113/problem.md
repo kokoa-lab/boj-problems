@@ -1,13 +1,13 @@
 ---
-title: Returning Lights To Box
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Returning Lights To Box"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 44
 accepted: 20
 solved_users: 18
-acceptance_rate: 46.154%
-collected_at: 2026-04-17T15:48:06.939582+00:00
+acceptance_rate: "46.154%"
+collected_at: "2026-04-17T15:48:06.939582+00:00"
 ---
 
 ## 문제

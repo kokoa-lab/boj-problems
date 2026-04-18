@@ -1,13 +1,13 @@
 ---
-title: Три сына
-special_judge: true
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Три сына"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 33
 accepted: 28
 solved_users: 23
-acceptance_rate: 82.143%
-collected_at: 2026-04-17T15:37:27.621817+00:00
+acceptance_rate: "82.143%"
+collected_at: "2026-04-17T15:37:27.621817+00:00"
 ---
 
 ## 문제

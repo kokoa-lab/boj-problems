@@ -1,13 +1,13 @@
 ---
-title: 마상시합 토너먼트
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "마상시합 토너먼트"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 378
 accepted: 88
 solved_users: 70
-acceptance_rate: 20.772%
-collected_at: 2026-04-17T11:17:38.215242+00:00
+acceptance_rate: "20.772%"
+collected_at: "2026-04-17T11:17:38.215242+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: City Game
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "City Game"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 50
 accepted: 16
 solved_users: 7
-acceptance_rate: 21.875%
-collected_at: 2026-04-17T10:51:59.090192+00:00
+acceptance_rate: "21.875%"
+collected_at: "2026-04-17T10:51:59.090192+00:00"
 ---
 
 ## 문제

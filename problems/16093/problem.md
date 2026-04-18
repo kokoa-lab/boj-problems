@@ -1,13 +1,13 @@
 ---
-title: The Total is Right
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "The Total is Right"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 101
 accepted: 32
 solved_users: 15
-acceptance_rate: 31.915%
-collected_at: 2026-04-17T14:11:21.353459+00:00
+acceptance_rate: "31.915%"
+collected_at: "2026-04-17T14:11:21.353459+00:00"
 ---
 
 ## 문제

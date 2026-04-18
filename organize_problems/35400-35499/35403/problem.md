@@ -1,13 +1,13 @@
 ---
-title: Gridoland Power Gauge
-special_judge: false
-time_limit: 5.5 초
-memory_limit: 2048 MB
+title: "Gridoland Power Gauge"
+special_judge: "false"
+time_limit: "5.5 초"
+memory_limit: "2048 MB"
 submissions: 27
 accepted: 2
 solved_users: 2
-acceptance_rate: 33.333%
-collected_at: 2026-04-18T09:51:54.374100+00:00
+acceptance_rate: "33.333%"
+collected_at: "2026-04-18T09:51:54.374100+00:00"
 ---
 
 ## 문제

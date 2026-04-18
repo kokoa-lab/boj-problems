@@ -1,13 +1,13 @@
 ---
-title: Keyboard Queries
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Keyboard Queries"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 203
 accepted: 31
 solved_users: 22
-acceptance_rate: 15.942%
-collected_at: 2026-04-17T17:39:08.563378+00:00
+acceptance_rate: "15.942%"
+collected_at: "2026-04-17T17:39:08.563378+00:00"
 ---
 
 ## 문제

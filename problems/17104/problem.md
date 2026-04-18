@@ -1,13 +1,13 @@
 ---
-title: 골드바흐 파티션 2
-special_judge: false
-time_limit: 0.5 초
-memory_limit: 512 MB
+title: "골드바흐 파티션 2"
+special_judge: "false"
+time_limit: "0.5 초"
+memory_limit: "512 MB"
 submissions: 4086
 accepted: 1089
 solved_users: 771
-acceptance_rate: 25.890%
-collected_at: 2026-04-17T14:29:53.022385+00:00
+acceptance_rate: "25.890%"
+collected_at: "2026-04-17T14:29:53.022385+00:00"
 ---
 
 ## 문제

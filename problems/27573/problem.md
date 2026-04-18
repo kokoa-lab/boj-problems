@@ -1,13 +1,13 @@
 ---
-title: Creative Accounting
-special_judge: false
-time_limit: 5 초
-memory_limit: 1024 MB
+title: "Creative Accounting"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "1024 MB"
 submissions: 80
 accepted: 43
 solved_users: 40
-acceptance_rate: 59.701%
-collected_at: 2026-04-17T18:06:50.291908+00:00
+acceptance_rate: "59.701%"
+collected_at: "2026-04-17T18:06:50.291908+00:00"
 ---
 
 ## 문제

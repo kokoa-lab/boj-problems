@@ -1,13 +1,13 @@
 ---
-title: Line Gimmick
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Line Gimmick"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 99
 accepted: 57
 solved_users: 44
-acceptance_rate: 57.143%
-collected_at: 2026-04-17T13:07:16.955422+00:00
+acceptance_rate: "57.143%"
+collected_at: "2026-04-17T13:07:16.955422+00:00"
 ---
 
 ## 문제

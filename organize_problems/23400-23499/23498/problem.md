@@ -1,13 +1,13 @@
 ---
-title: Fraction Reduction
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 256 MB
+title: "Fraction Reduction"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "256 MB"
 submissions: 66
 accepted: 13
 solved_users: 10
-acceptance_rate: 22.727%
-collected_at: 2026-04-17T16:49:09.011013+00:00
+acceptance_rate: "22.727%"
+collected_at: "2026-04-17T16:49:09.011013+00:00"
 ---
 
 ## 문제

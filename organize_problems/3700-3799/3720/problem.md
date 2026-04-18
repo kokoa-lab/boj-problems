@@ -1,13 +1,13 @@
 ---
-title: Choosing a camera
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Choosing a camera"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 167
 accepted: 9
 solved_users: 7
-acceptance_rate: 14.000%
-collected_at: 2026-04-17T10:51:21.388894+00:00
+acceptance_rate: "14.000%"
+collected_at: "2026-04-17T10:51:21.388894+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Amusement Park Adventure
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Amusement Park Adventure"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 1040
 accepted: 888
 solved_users: 836
-acceptance_rate: 85.744%
-collected_at: 2026-04-17T18:56:48.203485+00:00
+acceptance_rate: "85.744%"
+collected_at: "2026-04-17T18:56:48.203485+00:00"
 ---
 
 ## 문제

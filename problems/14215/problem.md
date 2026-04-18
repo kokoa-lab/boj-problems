@@ -1,13 +1,13 @@
 ---
-title: 세 막대
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "세 막대"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 35892
 accepted: 24529
 solved_users: 22691
-acceptance_rate: 68.877%
-collected_at: 2026-04-17T13:27:58.055980+00:00
+acceptance_rate: "68.877%"
+collected_at: "2026-04-17T13:27:58.055980+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Partioning Number (Large)
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Partioning Number (Large)"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 45
 accepted: 24
 solved_users: 19
-acceptance_rate: 63.333%
-collected_at: 2026-04-17T13:29:39.793456+00:00
+acceptance_rate: "63.333%"
+collected_at: "2026-04-17T13:29:39.793456+00:00"
 ---
 
 ## 문제

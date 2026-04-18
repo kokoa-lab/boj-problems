@@ -1,13 +1,13 @@
 ---
-title: Water Knows The Answers
-special_judge: false
-time_limit: 3 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Water Knows The Answers"
+special_judge: "false"
+time_limit: "3 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 469
 accepted: 115
 solved_users: 79
-acceptance_rate: 24.765%
-collected_at: 2026-04-17T14:31:39.390261+00:00
+acceptance_rate: "24.765%"
+collected_at: "2026-04-17T14:31:39.390261+00:00"
 ---
 
 ## 문제

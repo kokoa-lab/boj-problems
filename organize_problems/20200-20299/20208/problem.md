@@ -1,13 +1,13 @@
 ---
-title: 진우의 민트초코우유
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "진우의 민트초코우유"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 2908
 accepted: 1184
 solved_users: 841
-acceptance_rate: 39.670%
-collected_at: 2026-04-17T15:33:09.308797+00:00
+acceptance_rate: "39.670%"
+collected_at: "2026-04-17T15:33:09.308797+00:00"
 ---
 
 ## 문제

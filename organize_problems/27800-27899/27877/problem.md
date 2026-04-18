@@ -1,13 +1,13 @@
 ---
-title: 제곱수 덱 2
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "제곱수 덱 2"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 185
 accepted: 69
 solved_users: 51
-acceptance_rate: 32.075%
-collected_at: 2026-04-17T18:13:28.194227+00:00
+acceptance_rate: "32.075%"
+collected_at: "2026-04-17T18:13:28.194227+00:00"
 ---
 
 ## 문제

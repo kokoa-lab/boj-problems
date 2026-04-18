@@ -1,13 +1,13 @@
 ---
-title: 전생했더니 슬라임 연구자가 아니었던 건에 대하여
-special_judge: true
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "전생했더니 슬라임 연구자가 아니었던 건에 대하여"
+special_judge: "true"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 159
 accepted: 37
 solved_users: 24
-acceptance_rate: 21.429%
-collected_at: 2026-04-17T14:39:22.322618+00:00
+acceptance_rate: "21.429%"
+collected_at: "2026-04-17T14:39:22.322618+00:00"
 ---
 
 ## 문제

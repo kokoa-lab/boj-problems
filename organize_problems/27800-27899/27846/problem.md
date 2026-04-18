@@ -1,13 +1,13 @@
 ---
-title: Bakery
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Bakery"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 350
 accepted: 107
 solved_users: 92
-acceptance_rate: 31.724%
-collected_at: 2026-04-17T18:12:33.595592+00:00
+acceptance_rate: "31.724%"
+collected_at: "2026-04-17T18:12:33.595592+00:00"
 ---
 
 ## 문제

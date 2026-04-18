@@ -1,13 +1,13 @@
 ---
-title: 여우 신탁
-special_judge: true
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "여우 신탁"
+special_judge: "true"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 727
 accepted: 241
 solved_users: 182
-acceptance_rate: 33.829%
-collected_at: 2026-04-17T15:28:26.382468+00:00
+acceptance_rate: "33.829%"
+collected_at: "2026-04-17T15:28:26.382468+00:00"
 ---
 
 ## 문제

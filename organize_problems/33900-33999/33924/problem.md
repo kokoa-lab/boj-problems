@@ -1,13 +1,13 @@
 ---
-title: 신묘마루의 요술망치
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "신묘마루의 요술망치"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 395
 accepted: 309
 solved_users: 242
-acceptance_rate: 82.594%
-collected_at: 2026-04-17T20:26:28.970301+00:00
+acceptance_rate: "82.594%"
+collected_at: "2026-04-17T20:26:28.970301+00:00"
 ---
 
 ## 문제

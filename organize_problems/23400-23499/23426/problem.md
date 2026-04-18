@@ -1,13 +1,13 @@
 ---
-title: Team order
-special_judge: true
-time_limit: 6 초 (추가 시간 없음)
-memory_limit: 256 MB
+title: "Team order"
+special_judge: "true"
+time_limit: "6 초 (추가 시간 없음)"
+memory_limit: "256 MB"
 submissions: 11
 accepted: 2
 solved_users: 2
-acceptance_rate: 28.571%
-collected_at: 2026-04-17T16:47:58.169056+00:00
+acceptance_rate: "28.571%"
+collected_at: "2026-04-17T16:47:58.169056+00:00"
 ---
 
 ## 문제

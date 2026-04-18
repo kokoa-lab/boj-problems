@@ -1,13 +1,13 @@
 ---
-title: 로스팅하는 엠마도 바리스타입니다
-special_judge: false
-time_limit: 1.5 초
-memory_limit: 128 MB
+title: "로스팅하는 엠마도 바리스타입니다"
+special_judge: "false"
+time_limit: "1.5 초"
+memory_limit: "128 MB"
 submissions: 1726
 accepted: 754
 solved_users: 627
-acceptance_rate: 43.938%
-collected_at: 2026-04-17T14:03:14.753396+00:00
+acceptance_rate: "43.938%"
+collected_at: "2026-04-17T14:03:14.753396+00:00"
 ---
 
 ## 문제

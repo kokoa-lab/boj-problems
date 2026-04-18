@@ -1,13 +1,13 @@
 ---
-title: 시간 구간 다중 업데이트 다중 합
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "시간 구간 다중 업데이트 다중 합"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 366
 accepted: 118
 solved_users: 90
-acceptance_rate: 32.727%
-collected_at: 2026-04-17T17:33:59.028969+00:00
+acceptance_rate: "32.727%"
+collected_at: "2026-04-17T17:33:59.028969+00:00"
 ---
 
 ## 문제

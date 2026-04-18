@@ -1,13 +1,13 @@
 ---
-title: 중앙값의 함정
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "중앙값의 함정"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 270
 accepted: 184
 solved_users: 146
-acceptance_rate: 72.277%
-collected_at: 2026-04-17T20:52:06.373247+00:00
+acceptance_rate: "72.277%"
+collected_at: "2026-04-17T20:52:06.373247+00:00"
 ---
 
 ## 문제

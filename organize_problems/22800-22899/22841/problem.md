@@ -1,13 +1,13 @@
 ---
-title: Trapezoids
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Trapezoids"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 1
 accepted: 1
 solved_users: 1
-acceptance_rate: 100.000%
-collected_at: 2026-04-17T16:37:04.351982+00:00
+acceptance_rate: "100.000%"
+collected_at: "2026-04-17T16:37:04.351982+00:00"
 ---
 
 ## 문제
@@ -24,7 +24,23 @@ We are interested in simple pictures of trapezoids, consisting only of asterisk 
 
 |  |  |  |
 | --- | --- | --- |
-| ```     ****    *  *    **** **** *  * **** ``` | ```  **** *   * *** ******* *       *** ``` | ```  ****** *   * ****     ****     *  *     **** ``` |
+| ``` 
+    ****
+    *  *
+    ****
+ ****
+ *  *
+ **** ``` | ``` 
+ ****
+ *   * ***
+ ******* *
+       *** ``` | ``` 
+ ******
+ *   *
+ ****
+     ****
+     *  *
+     **** ``` |
 
 Some trapezoids may appear inside others. For example, the following is a valid picture.
 

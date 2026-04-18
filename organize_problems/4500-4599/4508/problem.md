@@ -1,13 +1,13 @@
 ---
-title: This is Halloween: Saving Money
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "This is Halloween: Saving Money"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 65
 accepted: 40
 solved_users: 24
-acceptance_rate: 60.000%
-collected_at: 2026-04-17T11:03:04.789557+00:00
+acceptance_rate: "60.000%"
+collected_at: "2026-04-17T11:03:04.789557+00:00"
 ---
 
 ## 문제

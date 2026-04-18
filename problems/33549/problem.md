@@ -1,13 +1,13 @@
 ---
-title: Bad English
-special_judge: false
-time_limit: 2 초
-memory_limit: 2048 MB
+title: "Bad English"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "2048 MB"
 submissions: 102
 accepted: 46
 solved_users: 18
-acceptance_rate: 28.571%
-collected_at: 2026-04-17T20:18:38.883128+00:00
+acceptance_rate: "28.571%"
+collected_at: "2026-04-17T20:18:38.883128+00:00"
 ---
 
 ## 문제

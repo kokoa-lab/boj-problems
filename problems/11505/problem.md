@@ -1,13 +1,13 @@
 ---
-title: 구간 곱 구하기
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "구간 곱 구하기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 36170
 accepted: 13185
 solved_users: 9957
-acceptance_rate: 34.632%
-collected_at: 2026-04-17T12:41:34.615893+00:00
+acceptance_rate: "34.632%"
+collected_at: "2026-04-17T12:41:34.615893+00:00"
 ---
 
 ## 문제
