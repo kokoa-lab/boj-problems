@@ -1,0 +1,30 @@
+# macOS
+.DS_Store
+
+# Python cache/build artifacts
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Virtual environment
+.venv/
+venv/
+
+# Environment/config
+.env
+.env.*
+
+# Crawler outputs (generated)
+problems/
+logs.txt
+crawler.log
+
+# Playwright / local browser artifacts
+playwright-report/
+test-results/
+
