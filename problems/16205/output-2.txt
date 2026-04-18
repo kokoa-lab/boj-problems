@@ -1,3 +1,0 @@
-camelCase
-camel_case
-CamelCase

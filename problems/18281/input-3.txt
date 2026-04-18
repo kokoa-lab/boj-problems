@@ -1,5 +1,0 @@
-4 10
-wa
-tle
-mle
-sigsegv

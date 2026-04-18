@@ -1,6 +1,0 @@
-Data Set 1:
-No violations
-Data Set 2:
-Violators:
-1
-2

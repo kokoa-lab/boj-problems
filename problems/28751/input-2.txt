@@ -1,3 +1,0 @@
-withdraw 1
-
-finish

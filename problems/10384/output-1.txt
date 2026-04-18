@@ -1,3 +1,0 @@
-Case 1: Pangram!
-Case 2: Not a pangram
-Case 3: Double pangram!!

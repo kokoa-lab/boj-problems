@@ -1,3 +1,0 @@
-0000020a7f0000000007000a00
-3
-int char long_long

@@ -1,4 +1,0 @@
-4
-abcd
-6
-aacdbc

@@ -1,9 +1,0 @@
-10 3
-CCC
-CCR
-CRS
-CRS
-RSC
-RSR
-SCC
-SRR

@@ -1,9 +1,0 @@
-6 2
-repeat 5
-xor ax bx
-xori ax 3
-and cx ax
-xor cx dx
-end
-10 1 2 4 3
-8 4 1 2 3

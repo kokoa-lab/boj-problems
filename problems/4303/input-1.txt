@@ -1,5 +1,0 @@
-2
-A(B(C,D),E)
-E(A,B(C,D))
-A(B(C,D),E)
-E(A(B(C,D)))

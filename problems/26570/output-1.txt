@@ -1,4 +1,0 @@
-NOT Semiperfect
-Semiperfect
-NOT Semiperfect
-Semiperfect

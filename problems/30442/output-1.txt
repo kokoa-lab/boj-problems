@@ -1,5 +1,0 @@
-buf[1]
-
-buf[2]
-
-strlen(buf) = 2

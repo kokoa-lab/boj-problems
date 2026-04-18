@@ -1,5 +1,0 @@
-Case #1:
-| 40 46 |
-| 32 38 |
-Case #2:
-undefined

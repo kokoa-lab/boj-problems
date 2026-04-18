@@ -1,5 +1,0 @@
-2 3 4
-EEE 1
-EIA 1
-IAE 1
-AAA 1

@@ -1,5 +1,0 @@
-a+b+c
-ace+ade+bce+bde
-c+cb+a+c
-ae+be+ce+de
-aa+aa+aa+aa

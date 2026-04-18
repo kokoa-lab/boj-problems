@@ -1,2 +1,0 @@
-Case #1: 100000004
-Case #2: IMPOSSIBLE

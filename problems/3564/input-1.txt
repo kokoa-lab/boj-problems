@@ -1,9 +1,0 @@
-4 4
-1 NCS 2
-2 TEST C 3 2
-3 CS 4
-4 SET C 1 1
-1 NCS 2
-2 TEST C 2 3
-3 CS 4
-4 SET C 0 1

@@ -1,8 +1,0 @@
-a
-b
-abb
-baa
-abcdef
-axcyd
-0
-0

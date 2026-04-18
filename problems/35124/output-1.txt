@@ -1,9 +1,0 @@
-measure 1 2
-
-measure 2 3
-
-measure 3 1
-
-answer
-14 9
-11

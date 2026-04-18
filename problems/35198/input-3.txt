@@ -1,4 +1,0 @@
-3
-Alvin, son of Bert
-Bert, son of Charles
-Charles, son of Alvin

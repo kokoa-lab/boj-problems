@@ -1,9 +1,0 @@
-3 3 5
-ABC
-BCD
-DAB
-ABC
-BC
-BD
-AC
-A

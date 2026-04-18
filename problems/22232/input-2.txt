@@ -1,7 +1,0 @@
-5 1
-vvv.busan
-dongdaegu.miryang
-gupo.busan
-train1225.mugunghwa
-trainer.jpg
-jpg

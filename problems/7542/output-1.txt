@@ -1,5 +1,0 @@
-Data Set 1:
-5
-
-Data Set 2:
-25

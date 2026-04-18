@@ -1,3 +1,0 @@
-10 discard 1 2
-impossible
-8 discard none

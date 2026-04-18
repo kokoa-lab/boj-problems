@@ -1,4 +1,0 @@
-3
-3 AppA AppB AppC
-1 AppD
-4 AppA AppE AppD AppF

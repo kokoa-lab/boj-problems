@@ -1,8 +1,0 @@
-5 50 2
-flight
-
-flight
-
-flight
-
-end

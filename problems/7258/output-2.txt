@@ -1,5 +1,0 @@
-4
-multiply 2
-print
-add 3
-print

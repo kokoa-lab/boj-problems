@@ -1,3 +1,0 @@
-Case 1: OKAY
-Case 2: OKAY
-Case 3: DOES NOT COMPUTE

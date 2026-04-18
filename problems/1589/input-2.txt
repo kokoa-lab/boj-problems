@@ -1,7 +1,0 @@
-3 3
-abc
-def
-ghi
-1
-abc
-3

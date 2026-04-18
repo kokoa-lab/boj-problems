@@ -1,4 +1,0 @@
-Data Set 1:
-0.00
-Data Set 2:
-1.41

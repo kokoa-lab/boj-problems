@@ -1,3 +1,0 @@
-Case #1: NO YES YES
-Case #2: NO YES NO
-Case #3: YES YES YES

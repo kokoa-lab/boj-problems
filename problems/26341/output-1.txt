@@ -1,5 +1,0 @@
-Trail #1:
-BFS hike will cost 16
-
-Trail #2:
-BFS hike will cost 64

@@ -1,3 +1,0 @@
-Network 1: yes
-Network 2: yes
-Network 3: no

@@ -1,7 +1,0 @@
-3
-abcdef
-aaa
-bab
-AbAb
-xyzxyz
-X

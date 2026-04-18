@@ -1,4 +1,0 @@
-safe
-safe
-unsafe
-invalid

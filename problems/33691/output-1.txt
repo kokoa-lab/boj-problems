@@ -1,4 +1,0 @@
-auth
-dashboard
-chat
-billing

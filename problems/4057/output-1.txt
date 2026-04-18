@@ -1,2 +1,0 @@
-Case 1: 2 C 4 CC 9 C
-Case 2: 0 CCC 1 CCC 2 CCC 3 CCC 4 CCC

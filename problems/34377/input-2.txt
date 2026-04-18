@@ -1,5 +1,0 @@
-3
-apples
-apples banana
-banana clementine
-clementine date

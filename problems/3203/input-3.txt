@@ -1,9 +1,0 @@
-BEGIN
-   x = 1
-   REPEAT 4
-      REPEAT 99999
-         x = 2x
-      STOP
-      PRINT x
-   STOP
-STOP

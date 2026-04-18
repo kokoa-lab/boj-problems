@@ -1,6 +1,0 @@
-5
-ABC
-ABEF
-DEF
-ABCDE
-FGH

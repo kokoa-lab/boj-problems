@@ -1,2 +1,0 @@
-Escape is possible.
-Box cannot be dropped.

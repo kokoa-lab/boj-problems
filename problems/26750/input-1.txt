@@ -1,9 +1,0 @@
-1
-3 4
-XXX.
-XXXX
-XX..
-3 4
-.XXX
-..XX
-XXXX

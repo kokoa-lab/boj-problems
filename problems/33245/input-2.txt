@@ -1,5 +1,0 @@
-4
-mov 3 $cmp
-mov 2 $out
-add $cmp $out
-hcf 0 0

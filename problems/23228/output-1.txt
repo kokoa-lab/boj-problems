@@ -1,2 +1,0 @@
-Case 1: length = 29.13
-Case 2: length = 45.13

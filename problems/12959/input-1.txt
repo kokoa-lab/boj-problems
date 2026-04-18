@@ -1,5 +1,0 @@
-4 4
-RRRD
-URDD
-UULD
-ULLL

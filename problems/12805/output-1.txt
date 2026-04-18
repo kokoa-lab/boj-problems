@@ -1,8 +1,0 @@
-YES
-a
-aa
-NO
-YES
-a
-b
-c

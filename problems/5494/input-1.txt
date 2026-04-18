@@ -1,8 +1,0 @@
-4 3
-RA = RB + RC
-RC = D + RE
-RF = RF + RJ
-RE = RF + RF
-HD = HE + HF
-HM = HN + D
-HN = HA + HB

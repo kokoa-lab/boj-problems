@@ -1,4 +1,0 @@
-program Hello (output):
-begin
-WriteLn('Hello ,  ''quaint'' world !');
-end.

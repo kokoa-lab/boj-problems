@@ -1,9 +1,0 @@
-8
-Alice
-Alice - Bob
-Alice - Carol
-Alice - Dave
-Bob - Eve
-Bob - Frank
-Carol - Grace
-Carol - Heidi

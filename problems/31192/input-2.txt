@@ -1,9 +1,0 @@
-5 3
-bbbbb
-bbccb
-bccbb
-bbbbb
-bbbbb
-3 1
-4
-URRU

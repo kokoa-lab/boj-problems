@@ -1,5 +1,0 @@
-abcdef
-3 3
-abcefx
-abcdfab
-abcdf

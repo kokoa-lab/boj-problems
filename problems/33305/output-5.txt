@@ -1,9 +1,0 @@
-OK
-Protocol violation
-Protocol violation
-Memory limit exceeded
-Protocol violation
-OK
-Protocol violation
-Wrong answer
-Run-time error

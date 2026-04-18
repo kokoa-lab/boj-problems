@@ -1,9 +1,0 @@
-3
-Stark
-Barateon
-Lannister
-4
-3:0 Stark
-3:2 Barateon
-4:2 Lannister
-7:2 Lannister

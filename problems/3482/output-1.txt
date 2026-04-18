@@ -1,2 +1,0 @@
-Maximum rope length is 0.
-Maximum rope length is 8.

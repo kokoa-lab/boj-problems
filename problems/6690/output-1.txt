@@ -1,2 +1,0 @@
-Minimal badness is 12.
-Minimal badness is 14.

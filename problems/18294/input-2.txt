@@ -1,5 +1,0 @@
-4
-cat
-mouse
-mouse
-cat

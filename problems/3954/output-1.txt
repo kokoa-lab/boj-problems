@@ -1,4 +1,0 @@
-Terminates
-Loops 1 4
-Terminates
-Terminates

@@ -1,5 +1,0 @@
-unique
-duplicate
-not exist
-not exist
-unique

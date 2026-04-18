@@ -1,5 +1,0 @@
-3
-a d
-b e
-f c
-abcdefg

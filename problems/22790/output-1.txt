@@ -1,2 +1,0 @@
-Data set 1: 4
-Data set 2: 0

@@ -1,4 +1,0 @@
-BOTH
-EASY
-HARD
-OKAY

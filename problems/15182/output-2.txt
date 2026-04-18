@@ -1,3 +1,0 @@
-Even
-Byte 2 is broken
-Bit 2 is broken

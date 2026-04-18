@@ -1,7 +1,0 @@
-{ The famous 'Hello world' program }
-
-program  Hello  (output):
-  (* no declarations *)
-begin
-  WriteLn('Hello ,  ''quaint'' world !');
-end.

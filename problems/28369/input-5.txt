@@ -1,4 +1,0 @@
-3
-square 539715887
-circle 518408351
-triangle 348712924

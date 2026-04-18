@@ -1,7 +1,0 @@
-The launderer gives ticket 0.
-The launderer gives ticket 2.
-The launderer gives back batch 0.
-0 is freed.
-1 is freed.
-The launderer gives ticket 6.
-The launderer gives ticket 10.

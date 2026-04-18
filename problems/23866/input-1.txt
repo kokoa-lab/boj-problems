@@ -1,5 +1,0 @@
-4
-1 rpspp
-2 pps
-1 rpsps
-2 rpssprsrr

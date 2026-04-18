@@ -1,3 +1,0 @@
-Plan A costs 51.25
-Plan B costs 18.95
-Plan B is cheapest.

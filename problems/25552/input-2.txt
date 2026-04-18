@@ -1,8 +1,0 @@
-3 3
-XXX
-OXX
-XXO
-1
-OXO
-OOX
-XXO

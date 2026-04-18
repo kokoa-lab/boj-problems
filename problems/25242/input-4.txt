@@ -1,5 +1,0 @@
-2 2
-2 dongdae miryang
-2 gupo busan
-dongdae busan
-miryang dongdae

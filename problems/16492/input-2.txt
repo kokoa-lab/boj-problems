@@ -1,4 +1,0 @@
-gen: A -> AB
-gen: B -> A
-del: AA
-target: ABAAB

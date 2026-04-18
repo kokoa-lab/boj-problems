@@ -1,2 +1,0 @@
-homogeneous
-not homogeneous

@@ -1,5 +1,0 @@
-Data Set 1:
-No Alarm
-
-Data Set 2:
-Alarm

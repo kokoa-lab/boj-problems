@@ -1,9 +1,0 @@
-4
-magnesium
-mg
-silver
-ag
-aabb
-bbb
-aabb
-ba

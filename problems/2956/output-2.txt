@@ -1,4 +1,0 @@
-AABB
-AACC
-BCDD
-BCDD

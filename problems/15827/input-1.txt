@@ -1,4 +1,0 @@
-3
-A E 17
-B E 13
-HAPPY M A B

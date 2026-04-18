@@ -1,4 +1,0 @@
-The lost value is 9.
-The lost value is 20.
-The lost value is 4.
-The lost value is 8.

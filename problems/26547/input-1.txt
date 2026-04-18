@@ -1,4 +1,0 @@
-3
-one
-three
-fifteen

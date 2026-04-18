@@ -1,4 +1,0 @@
-2 3
-5 2 5
-pppp  pq pqab
-ppppp    xyzff

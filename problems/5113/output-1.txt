@@ -1,2 +1,0 @@
-Flight 0 value = 0
-Flight 3 value = 12

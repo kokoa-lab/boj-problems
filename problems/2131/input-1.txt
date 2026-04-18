@@ -1,9 +1,0 @@
-8
-Forward
-Forward
-Turn Left
-Forward
-Scan
-Turn Right
-Scan
-Forward

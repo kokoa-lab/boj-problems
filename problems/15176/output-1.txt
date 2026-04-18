@@ -1,2 +1,0 @@
-Cars without trailers: 2
-Cars with trailers: 1

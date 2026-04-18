@@ -1,7 +1,0 @@
-1 P P P I I I I I F 1
-V P P 1 T 1 X 1 F F F
-V 1 T T T X X X Z 1 F
-V V V 1 T 1 X 1 Z Z Z
-W 1 L L L L U U U 1 Z
-W W L 1 Y 1 U 1 U N N
-1 W W Y Y Y Y N N N 1

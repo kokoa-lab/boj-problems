@@ -1,4 +1,0 @@
-3 5
-CC__C
-_C_CC
-CCCCC

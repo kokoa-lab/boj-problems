@@ -1,3 +1,0 @@
-:cat: goes meow.
-:dog: goes woof.
-cat and dog fought. who won?

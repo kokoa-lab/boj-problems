@@ -1,4 +1,0 @@
-query(0, 3) = true
-query(1, 1) = true
-query(0, 2) = false
-query(3, 2) = true

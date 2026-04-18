@@ -1,2 +1,0 @@
-Minimum Number of Pieces to be removed: 1
-Minimum Number of Pieces to be removed: 5

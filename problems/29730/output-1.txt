@@ -1,3 +1,0 @@
-study gc
-read book
-boj.kr/1307

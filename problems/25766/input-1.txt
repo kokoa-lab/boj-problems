@@ -1,9 +1,0 @@
-8
-aa
-ab
-ababa
-abaaba
-abacaba
-abaaababaab
-aababcabcbc
-abcdabcabaabcd

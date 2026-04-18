@@ -1,7 +1,0 @@
-cat
-dog
-4
-dot
-pot
-rat
-oat

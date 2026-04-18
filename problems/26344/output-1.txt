@@ -1,7 +1,0 @@
-Inscription #1:
-17
-hello world
-
-Inscription #2:
-40
-a t a t a t a

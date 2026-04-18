@@ -1,4 +1,0 @@
-boxwood
-ibid
-INVALID
-ddd

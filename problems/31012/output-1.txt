@@ -1,7 +1,0 @@
-Case 1
-vampire : [ Antonio Zeppeli, Jonathan Joestar, Dio Brando]
-stone : [ Jonathan Joestar, Dio Brando]
-Case 2
-you : [ Isaac Traxler, Kathy Traxler]
-ask : [ Isaac Traxler, Kathy Traxler] 
-words : [ Ken Don]

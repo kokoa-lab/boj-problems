@@ -1,3 +1,0 @@
-Test 1: 4
-Test 2: 6
-Test 3: 14

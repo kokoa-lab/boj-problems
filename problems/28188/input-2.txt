@@ -1,3 +1,0 @@
-2
-deserialize serialize:aabcbcbcdf
-print 0 10

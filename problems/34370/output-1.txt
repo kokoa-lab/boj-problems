@@ -1,4 +1,0 @@
-zero
-five
-ten
-eighteen

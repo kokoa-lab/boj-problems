@@ -1,8 +1,0 @@
-Scenario #1:
-172
-
-Scenario #2:
-9
-
-Scenario #3:
-101

@@ -1,8 +1,0 @@
-Data Set 1:
-no drought
-
-Data Set 2:
-mega mega drought
-
-Data Set 3:
-drought

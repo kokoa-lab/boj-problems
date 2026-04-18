@@ -1,4 +1,0 @@
-Case #1
-BBAAB
-Case #2
-BBABA

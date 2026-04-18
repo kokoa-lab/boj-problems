@@ -1,4 +1,0 @@
-mark 7000000
-andrew 7000000
-dustin 6000000
-eduardo 6000000

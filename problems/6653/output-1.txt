@@ -1,9 +1,0 @@
-A has no intersections
-B intersects with S, W, and X
-F intersects with W
-S intersects with B
-W intersects with B and F
-X intersects with B
-
-A has no intersections
-B has no intersections

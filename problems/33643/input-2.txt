@@ -1,5 +1,0 @@
-4
-phone
-toque
-wallet
-keys

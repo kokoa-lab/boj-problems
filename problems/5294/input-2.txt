@@ -1,5 +1,0 @@
-Sam 60
-Dan 52
-Bob 54
-Kim 70
-Art 61

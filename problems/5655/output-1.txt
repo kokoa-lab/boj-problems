@@ -1,5 +1,0 @@
-Case 1: 13
-Case 2: 847
-Case 3: 190
-Case 4: 3
-Case 5: 29

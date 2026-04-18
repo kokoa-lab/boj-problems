@@ -1,5 +1,0 @@
-4
-imm r3, 42
-imm r1, 6
-st r3, r1
-ld r0, r3

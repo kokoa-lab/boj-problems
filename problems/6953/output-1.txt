@@ -1,1 +1,0 @@
-Harry can connect to outlets at (100.0, 106.0) and (110.0, 90.0).

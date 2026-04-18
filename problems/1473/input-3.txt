@@ -1,6 +1,0 @@
-5 3
-AAA
-BBA
-AAA
-ABB
-AAA

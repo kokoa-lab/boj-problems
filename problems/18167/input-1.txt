@@ -1,3 +1,0 @@
-FUNCTION kipa { FUNCTION minty { REFER minty } { REFER kipa } }
-FUNCTION silver { FUNCTION kipa { REFER kipa } REFER kipa }
-FUNCTION minty { DEFINE silver REFER kipa REFER silver }

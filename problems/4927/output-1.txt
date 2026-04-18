@@ -1,3 +1,0 @@
-1. PASS
-2. NOT!
-3. PASS

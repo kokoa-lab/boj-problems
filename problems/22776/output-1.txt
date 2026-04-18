@@ -1,4 +1,0 @@
-Toy 1: Yes
-Toy 2: Yes
-Toy 3: No
-Toy 4: Yes

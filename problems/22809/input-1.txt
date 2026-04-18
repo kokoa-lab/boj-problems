@@ -1,6 +1,0 @@
-4 3 5.0
-N C N C
-N B B
-5 3 4.5
-B B N N B
-N C C

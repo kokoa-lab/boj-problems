@@ -1,7 +1,0 @@
-5
-a a
-a b
-a c
-b b
-c c
-abcaccaab

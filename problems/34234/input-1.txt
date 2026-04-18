@@ -1,4 +1,0 @@
-5
-abcde
-efgtb
-abgte

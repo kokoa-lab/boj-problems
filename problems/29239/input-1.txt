@@ -1,6 +1,0 @@
-2
-Colder
-1
-Warmer
-2
-Success

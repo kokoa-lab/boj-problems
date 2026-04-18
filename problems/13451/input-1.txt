@@ -1,7 +1,0 @@
-3
-1
-A and not A
-1
-A or not A
-3
-( A or C ) and B

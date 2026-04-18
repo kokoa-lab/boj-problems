@@ -1,5 +1,0 @@
-4
-1 A 2 3C no
-2 A 3 3A yes
-2 A 4 3D yes
-2 A 1 3C no

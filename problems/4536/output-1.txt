@@ -1,9 +1,0 @@
-DATA SET #1
-bob REQUESTED at
-FOUND oat IN food
-bob REQUESTED cat
-FOUND cat IN animal
-bill REQUESTED goat
-bill REQUESTED at
-FOUND cat IN animal
-FOUND rat IN animal

@@ -1,5 +1,0 @@
-2
-icpc
-ICPC
-a
-bc

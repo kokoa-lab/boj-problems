@@ -1,2 +1,0 @@
-The two trees are not isomorphic.
-The two trees are isomorphic.

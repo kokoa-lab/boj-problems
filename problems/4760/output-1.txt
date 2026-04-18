@@ -1,3 +1,0 @@
-ar e
-a p
-ax Challenge

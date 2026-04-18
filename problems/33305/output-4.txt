@@ -1,6 +1,0 @@
-OK
-Exchange limit exceeded
-Exchange limit exceeded
-Protocol violation
-Time-limit exceeded
-Protocol violation

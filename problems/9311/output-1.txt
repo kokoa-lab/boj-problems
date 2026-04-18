@@ -1,3 +1,0 @@
-Shortest Path: 11
-Shortest Path: 1
-No Exit

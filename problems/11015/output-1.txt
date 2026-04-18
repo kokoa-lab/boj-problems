@@ -1,6 +1,0 @@
-Data Set 1:
-studENt aeRoSpace laBoratory
-salVAtori
-
-Data Set 2:
-

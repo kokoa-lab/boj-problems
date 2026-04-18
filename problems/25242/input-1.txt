@@ -1,5 +1,0 @@
-2 2
-2 nkn mrk
-3 nkn gil mrk
-nkn mrk
-mrk gil

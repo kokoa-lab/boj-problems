@@ -1,5 +1,0 @@
-abc
-cba
-acb
-bdca
-fedcba

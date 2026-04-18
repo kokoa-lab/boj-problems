@@ -1,7 +1,0 @@
-3 3
-fourthstreet fifthstreet parallel
-fifthstreet sixthstreet parallel
-fourthavenue fifthstreet intersect
-sixthstreet fourthstreet
-sixthstreet fourthavenue
-sixthstreet King

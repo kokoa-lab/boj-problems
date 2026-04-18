@@ -1,4 +1,0 @@
-ac
-cd
-ce
-de

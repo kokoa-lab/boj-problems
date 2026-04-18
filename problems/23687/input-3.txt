@@ -1,5 +1,0 @@
-4
-section zivotinje
-subsection psi
-section voce
-subsection ananas

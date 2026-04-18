@@ -1,3 +1,0 @@
-Multiple local maxima: No
-Multiple local minima: No
-Plateaus: Yes

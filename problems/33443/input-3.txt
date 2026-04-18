@@ -1,9 +1,0 @@
-y = ~x << 3
-z = ~x >> 2
-w = x & ~0xa
-k = ~x ^ 0xc
-k = k << 1
-k = k >> 2
-x = y ^ z
-p = k ^ w
-x = x ^ p

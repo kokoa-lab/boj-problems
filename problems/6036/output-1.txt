@@ -1,9 +1,0 @@
-OOO
-OXO
-OXX
-OOX
-XOX
-XXX
-XXO
-XOO
-OOO

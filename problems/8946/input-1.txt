@@ -1,6 +1,0 @@
-5
-a(b|d)c (ab|ad)c
-(a|b)aa a(a|b|1)b
-a|b a
-a1c a(1|b|bb)c
-b(a|1) b(1|b)(1|b)

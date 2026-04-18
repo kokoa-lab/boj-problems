@@ -1,3 +1,0 @@
-nozomi
-ERROR 200
-ERROR 400

@@ -1,4 +1,0 @@
-3
-A+B->AB
-AB+CD->AC+DB
-AB+B->AB

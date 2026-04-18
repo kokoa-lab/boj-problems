@@ -1,6 +1,0 @@
-5
-abba
-abbab
-abac
-abcd
-bbabab

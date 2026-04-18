@@ -1,8 +1,0 @@
-ababa
-6
-aa
-aba
-abb
-baa
-aabb
-xyz

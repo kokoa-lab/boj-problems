@@ -1,6 +1,0 @@
-longlong
-double
-3
-doublon
-longleng
-dongle

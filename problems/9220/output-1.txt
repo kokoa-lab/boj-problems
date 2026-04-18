@@ -1,3 +1,0 @@
-Tank 1: 6
-Tank 2: 16
-Tank 3: 8

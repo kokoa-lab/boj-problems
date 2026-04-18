@@ -1,1 +1,0 @@
-./gen -n 1000 sample

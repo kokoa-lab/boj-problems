@@ -1,4 +1,0 @@
-DEAD
-ALIVE
-SAME
-DEAD

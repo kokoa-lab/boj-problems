@@ -1,5 +1,0 @@
-22 is self-inventorying
-31123314 is self-inventorying
-314213241519 enters an inventory loop of length 2
-21221314 becomes self-inventorying after 2 steps
-111222234459 enters an inventory loop of length 2

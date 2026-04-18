@@ -1,9 +1,0 @@
-1
-A GC
-A AA
-G TA
-$
-A TAGCC
-A A
-A AB
-#

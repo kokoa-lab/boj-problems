@@ -1,4 +1,0 @@
-3
-31 aaa
-37 abc
-29 hello*earth

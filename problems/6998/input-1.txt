@@ -1,5 +1,0 @@
-2
-a b d # e # # c # #
-x y u # # z # #
-a b d # e # # c f # # g # #
-x y v # # u # z w # t # # #

@@ -1,5 +1,0 @@
-b
-s
-bak
-be
-baekjoon2

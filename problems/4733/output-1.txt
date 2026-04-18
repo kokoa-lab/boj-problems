@@ -1,2 +1,0 @@
-Bar 1 must be tied 0.7 from one end.
-Bar 2 must be tied 1.0 from one end.

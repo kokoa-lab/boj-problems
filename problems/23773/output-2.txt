@@ -1,6 +1,0 @@
-4 2
-3 5
-aaa ccccc
-bb  ddd
-    eeeee
-    fffff

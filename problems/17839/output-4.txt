@@ -1,4 +1,0 @@
-Cat
-Rabbit
-Unist
-Wall

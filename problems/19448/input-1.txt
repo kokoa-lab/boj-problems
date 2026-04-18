@@ -1,8 +1,0 @@
-4 4
-GWWW
-GWWB
-BWWB
-BWWG
-1 3
-WGW
-0 0

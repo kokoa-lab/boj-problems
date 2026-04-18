@@ -1,7 +1,0 @@
-6
-aaaaba
-hello
-palindrome
-abba
-x
-bababac

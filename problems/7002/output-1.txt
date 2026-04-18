@@ -1,2 +1,0 @@
-Maximum damage = 4
-Maximum damage = 8

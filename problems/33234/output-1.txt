@@ -1,4 +1,0 @@
-3
-42 1337
-i j
-subtract add

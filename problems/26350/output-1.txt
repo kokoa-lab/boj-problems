@@ -1,5 +1,0 @@
-Denominations: 1 5 10 25
-Good coin denominations!
-
-Denominations: 1 5 6
-Bad coin denominations! 

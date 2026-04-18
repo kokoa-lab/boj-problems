@@ -1,3 +1,0 @@
-2 stone
-stone 64
-cobblestone 32

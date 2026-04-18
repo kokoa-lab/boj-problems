@@ -1,7 +1,0 @@
-3
-abcdef
-ecd
-cde
-ecd
-abcdef
-fcd

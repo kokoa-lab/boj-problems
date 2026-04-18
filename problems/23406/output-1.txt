@@ -1,9 +1,0 @@
-ask 1
-
-ask 3
-
-ask 6
-
-ask 10
-
-degree 2

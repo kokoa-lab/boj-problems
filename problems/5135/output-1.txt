@@ -1,8 +1,0 @@
-Data Set 1:
-40
-
-Data Set 2:
-140
-
-Data Set 3:
-58

@@ -1,8 +1,0 @@
-Scenario 1:
-The earliest  arrival: 300 minutes, fuel 6.25 gallons
-The economical travel: 318 minutes, fuel 5.60 gallons
-Scenario 2:
-IMPOSSIBLE
-Scenario 3:
-The earliest  arrival: 405 minutes, fuel 4.14 gallons
-The economical travel: 498 minutes, fuel 2.76 gallons

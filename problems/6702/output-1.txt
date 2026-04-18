@@ -1,6 +1,0 @@
-operator lazy_evaluation strict_evaluation
-add             7		8
-sub             4		7
-mult            0		1
-div             0		0
-rem             0		0

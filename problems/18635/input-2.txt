@@ -1,4 +1,0 @@
-7 4
-3 4 2 1
-dcabadc
-abcd

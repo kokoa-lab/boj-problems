@@ -1,4 +1,0 @@
-1
-2
-A B 2 10Af, B C 5 40Af, C D 20 60Af
-A F 1 40Af, F C 1 50Af, C D 20 30Af

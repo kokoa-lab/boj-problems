@@ -1,6 +1,0 @@
-5
-There are ___ Os and ___ Ts in this sentence.
-There are ___ Ts and ___ Es in this sentence.
-Hey, ___ letters here
-And ___ vowels here
-with ___ consonants here

@@ -1,4 +1,0 @@
-3
-section zivotinje
-section boje
-section voce

@@ -1,8 +1,0 @@
-Data Set 1:
-7 1
-
-Data Set 2:
-11 2
-
-Data Set 3:
-3 3

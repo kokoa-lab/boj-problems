@@ -1,4 +1,0 @@
-3
-cube 4
-cylinder 2
-cube 4

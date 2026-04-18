@@ -1,5 +1,0 @@
-4
-abab
-2
-bac
-baba

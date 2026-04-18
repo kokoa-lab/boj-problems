@@ -1,5 +1,0 @@
-CBACAB
-3
-BA=AB
-CA=AC
-CB=BC

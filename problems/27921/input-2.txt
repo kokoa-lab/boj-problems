@@ -1,8 +1,0 @@
-2 5
-OOO.O
-O.OOO
-4 3
-.OO
-OO.
-.OO
-OO.

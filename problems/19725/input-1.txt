@@ -1,7 +1,0 @@
-3
-AAA
-4
-ABA
-ABA
-CBA
-CAA

@@ -1,3 +1,0 @@
-Case 1: 0 2 2S 2
-Case 2: impossible
-Case 3: none 1

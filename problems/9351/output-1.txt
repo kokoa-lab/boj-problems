@@ -1,4 +1,0 @@
-Case #1:
-abcba
-Case #2:
-abba

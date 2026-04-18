@@ -1,9 +1,0 @@
-2
-4
-Tokyo
-Shinagawa
-Shin-Yokohama
-Nagoya
-2
-Nagoya
-Shin-Yokohama

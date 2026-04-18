@@ -1,6 +1,0 @@
-Data Set 1:
-1.55
-
-Data Set 2:
-1.60
-

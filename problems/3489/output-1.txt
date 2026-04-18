@@ -1,2 +1,0 @@
-Puzzle is unsolvable.
-Puzzle can be solved.

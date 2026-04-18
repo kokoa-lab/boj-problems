@@ -1,4 +1,0 @@
-Ime: Pajo
-Prezime: Patak
-Datum rodjenja: 04-03-1998
-OIB: 12345678901

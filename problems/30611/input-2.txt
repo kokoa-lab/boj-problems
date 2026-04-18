@@ -1,4 +1,0 @@
-6
-CourseA CourseB CourseD CourseE CourseO CourseI
-4
-CourseD CourseE CourseO CourseG

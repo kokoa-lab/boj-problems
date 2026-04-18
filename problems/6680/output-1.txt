@@ -1,1 +1,0 @@
-The length of the fence will be 8 units.

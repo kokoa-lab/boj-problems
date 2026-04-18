@@ -1,4 +1,0 @@
-3 8
-1 GRAD
-5 UAL
-6 ATE

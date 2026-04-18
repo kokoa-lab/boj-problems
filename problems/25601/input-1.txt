@@ -1,4 +1,0 @@
-3
-number object
-string object
-number string

@@ -1,8 +1,0 @@
-V V V I I I I I U U U
-V 1 1 1 1 1 1 1 U X U
-V 1 1 1 1 1 1 1 X X X
-Y 1 1 1 1 1 1 1 F X N
-Y 1 1 1 1 1 1 1 F F N
-Y Y W Z Z P T F F N N
-Y W W Z P P T T T N L
-W W Z Z P P T L L L L

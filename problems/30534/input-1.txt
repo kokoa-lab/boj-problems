@@ -1,6 +1,0 @@
-5
-CELL
-GULL
-GUSH
-HALL
-HASH

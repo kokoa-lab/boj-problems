@@ -1,1 +1,0 @@
-The temperature in the jar will change by at most 150 degrees.

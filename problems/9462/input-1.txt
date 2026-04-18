@@ -1,9 +1,0 @@
-2
-3
-abcabe
-defg
-bcabab
-3
-abcdef
-ghijkl
-mnopqr

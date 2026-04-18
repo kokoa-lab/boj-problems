@@ -1,5 +1,0 @@
-Scenario #1:
-5
-
-Scenario #2:
-2

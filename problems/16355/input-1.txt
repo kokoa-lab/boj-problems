@@ -1,9 +1,0 @@
-2
-ankica
-brankica
-1
-mirko
-3
-ankica mirko
-brankica mirko
-mirko brankica

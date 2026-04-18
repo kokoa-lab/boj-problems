@@ -1,6 +1,0 @@
-5
-Alice
-Alice
-Bob
-Bob
-Carol

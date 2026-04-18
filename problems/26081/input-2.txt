@@ -1,5 +1,0 @@
-3 5
-3
-New window
-Add Window window
-SetProperty window SIZE 1 1

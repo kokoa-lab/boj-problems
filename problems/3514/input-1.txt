@@ -1,4 +1,0 @@
-3
-abcde
-ABCDE
-12345

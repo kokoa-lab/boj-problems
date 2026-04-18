@@ -1,6 +1,0 @@
-0
-NO: Edge Absence
-NO: Collision
-NO: Collision
-NO: Duplicate Visit
-unfilled

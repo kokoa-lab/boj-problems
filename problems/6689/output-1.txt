@@ -1,2 +1,0 @@
-We need 9 move operations.
-No optimization needed.

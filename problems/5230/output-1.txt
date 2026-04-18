@@ -1,4 +1,0 @@
-a b c
-cab abba
-a b c d e f
-face a bad cafe bee

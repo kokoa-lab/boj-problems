@@ -1,3 +1,0 @@
-Case 1: Off
-Case 2: On
-Case 3: Off

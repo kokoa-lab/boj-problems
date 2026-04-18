@@ -1,5 +1,0 @@
-Data Set 1:
-No suspect.
-
-Data Set 2:
-1

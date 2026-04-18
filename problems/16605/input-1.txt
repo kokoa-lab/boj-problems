@@ -1,2 +1,0 @@
-concat(shuffle([1,2]),shuffle([1,2]))
-shuffle([1,2,1,2])

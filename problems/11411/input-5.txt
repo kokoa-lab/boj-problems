@@ -1,2 +1,0 @@
-a ^ b ^ c ^ d
-a V b V c V d

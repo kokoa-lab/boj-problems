@@ -1,1 +1,0 @@
-[ [ runtime is short ] you [ need [ cpp 20 ] ] ]

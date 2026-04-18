@@ -1,2 +1,0 @@
-Module 1: Longest railroad has 14 rails.
-Module 2: No such railroad.

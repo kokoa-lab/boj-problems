@@ -1,3 +1,0 @@
-I can read this sentence, so my algorithm works.
-Fred Hamilton-Jones is 85 today! Happy birthday, Fred.
-The quick, brown fox jumped over the lazy dogs.

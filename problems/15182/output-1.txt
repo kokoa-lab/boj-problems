@@ -1,3 +1,0 @@
-Odd
-Byte 3 is broken
-Bit 5 is broken

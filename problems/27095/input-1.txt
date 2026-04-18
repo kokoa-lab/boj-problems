@@ -1,7 +1,0 @@
-vsplit
-5
-hsplit
-vsplit
-37
-6
-5

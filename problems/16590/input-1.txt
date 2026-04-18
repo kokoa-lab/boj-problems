@@ -1,7 +1,0 @@
-3 3
-Donald Knuth
-Vaughan Pratt
-James Hiram Morris
-KMP
-DVJ
-LHO

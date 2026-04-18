@@ -1,3 +1,0 @@
-75,41N
-90,0N
-undefined

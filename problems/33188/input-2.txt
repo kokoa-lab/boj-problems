@@ -1,7 +1,0 @@
-BUY (apple, (banana, 3 carrot))
-BUY ((banana, apple), (banana, carrot))
-? MIN apple
-UNPACK 1
-? COUNT apple
-? COUNT carrot
-? CONTAINS banana

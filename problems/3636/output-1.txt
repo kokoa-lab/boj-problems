@@ -1,2 +1,0 @@
-A=true,C=false,B=false,QQQQ=false
-unsatisfiable

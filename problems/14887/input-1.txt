@@ -1,8 +1,0 @@
-1
-cacca
-5
-3 c a b
-2 c b
-2 a b
-3 c b a
-2 a b

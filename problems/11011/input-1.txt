@@ -1,9 +1,0 @@
-2
-3
-ABC
-BCD
-CDA
-4
-AABC
-AACD
-BBAA

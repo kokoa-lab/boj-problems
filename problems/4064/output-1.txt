@@ -1,3 +1,0 @@
-Case 1: Open
-Case 2: Closed
-Case 3: Open

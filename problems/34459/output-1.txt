@@ -1,5 +1,0 @@
-MIT time
-MIT time
-MIT^2 time
-MIT^4 time
-MIT time

@@ -1,9 +1,0 @@
-3
-kati@eesti.ee
-lauri@arvuti.net
-mati@eesti.ee
-4
-unknown@somewhere.com
-robot@spam.com
-kati@eesti.ee
-mati@xxx.org

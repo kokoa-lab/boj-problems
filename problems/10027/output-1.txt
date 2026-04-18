@@ -1,5 +1,0 @@
-4 a c i j
-0
-2 c j
-1 e
-3 c i j

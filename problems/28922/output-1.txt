@@ -1,7 +1,0 @@
-Move
-Reverse
-Move
-Up 4
-Reverse
-Move
-Finish

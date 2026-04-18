@@ -1,2 +1,0 @@
-fire 2
-water 1

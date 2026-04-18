@@ -1,5 +1,0 @@
-3
-fish 2 2 6
-fish 8
-fish 7
-29

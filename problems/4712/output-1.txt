@@ -1,9 +1,0 @@
-=====
- B
-ABBB
-AAAB
-ACCB
-ACBB
-AAAB
-=====
-The window cannot be repaired.

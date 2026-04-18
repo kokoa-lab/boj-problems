@@ -1,8 +1,0 @@
-Sequence set 1
-*
-!
-Sequence set 2
-Sequence set 3
-**
-*!
-!*

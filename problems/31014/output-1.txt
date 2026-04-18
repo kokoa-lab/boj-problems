@@ -1,5 +1,0 @@
-Case 1:
-Atlantis sank
-
-Case 2:
-Atlantis survived

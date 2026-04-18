@@ -1,3 +1,0 @@
-Case 1: unknown
-Case 2: true
-Case 3: false

@@ -1,8 +1,0 @@
-Scenario #1:
-5050
-
-Scenario #2:
--11
-
-Scenario #3:
-440625159107385260

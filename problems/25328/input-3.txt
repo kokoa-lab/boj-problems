@@ -1,4 +1,0 @@
-abc
-acde
-cde
-2

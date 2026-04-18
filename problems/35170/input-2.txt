@@ -1,6 +1,0 @@
-ab
-4
-aaa
-abab
-baba
-bbb

@@ -1,6 +1,0 @@
-Case 1:
-30.000 N 84.736 E
-30.000 N 24.736 W
-
-Case 2:
-No intersection.

@@ -1,3 +1,0 @@
-Player 1 wins game number 3.
-Neverending game.
-Player 2 wins game number 153.

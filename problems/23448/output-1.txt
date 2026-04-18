@@ -1,4 +1,0 @@
-Wire-format compatible.
-Wire-format incompatible.
-Wire-format incompatible.
-Wire-format incompatible.

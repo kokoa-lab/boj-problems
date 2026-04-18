@@ -1,8 +1,0 @@
-3 6
-1 2 3
-get 1
-get 3
-shuffle 1 2
-shuffle 2 3
-get 1
-get 3

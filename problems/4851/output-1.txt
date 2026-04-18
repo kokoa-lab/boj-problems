@@ -1,3 +1,0 @@
-14 toothpicks: |||||||x|||||=35
-17 toothpicks: ||||||x||||||+|=37
-21 toothpicks: |||||x|||||x||+|||=53

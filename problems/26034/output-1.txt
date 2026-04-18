@@ -1,6 +1,0 @@
-Equal
-Unknown
-Not equal
-Equal
-Equal
-Unknown

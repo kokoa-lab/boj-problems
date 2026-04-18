@@ -1,5 +1,0 @@
-4 2
-abba
-a.bB
-Abbb
-a.a.

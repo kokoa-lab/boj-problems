@@ -1,7 +1,0 @@
-3 3
-abb
-bbb
-bbb
-1
-aaa
-2

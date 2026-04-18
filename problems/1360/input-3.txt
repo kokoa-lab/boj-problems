@@ -1,4 +1,0 @@
-3
-type a 1
-undo 1 2
-undo 1 3

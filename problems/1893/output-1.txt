@@ -1,4 +1,0 @@
-no solution
-unique: 1
-ambiguous: 1 2
-unique: 0

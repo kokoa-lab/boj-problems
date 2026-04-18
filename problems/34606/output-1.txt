@@ -1,5 +1,0 @@
-
-
-query 111
-
-answer ((x-x)-x)

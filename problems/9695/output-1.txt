@@ -1,3 +1,0 @@
-Case #1: 18 1
-Case #2: 2.53bc DAf g
-Case #3: 2.533e2 6.7e-4

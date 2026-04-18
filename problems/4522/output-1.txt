@@ -1,7 +1,0 @@
-DATA SET #1
-radfsdoc M 1 1-38
-DATA SET #2
-tinyfile M 1 1-4
-swapfile I 3 5-10 25-50 80-95
-bigfile M 2 15-24 51-60
-smallfile M 1 61-67

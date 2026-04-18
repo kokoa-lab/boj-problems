@@ -1,4 +1,0 @@
-Jury #1
-Best jury has value 6 for prosecution
-and 4 for defence:
- 2 3

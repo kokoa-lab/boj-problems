@@ -1,5 +1,0 @@
-Problem 1
-cat
-a#o
-row
-e##

@@ -1,8 +1,0 @@
-7
-UofX
-UofA
-UofC
-UofB
-UofA
-UofB
-UofY

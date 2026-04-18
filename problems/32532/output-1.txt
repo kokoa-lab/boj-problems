@@ -1,4 +1,0 @@
-Ime: Toni
-Prezime: Honi
-Datum rodjenja: 03-02-2001
-OIB: 33333333333

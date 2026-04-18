@@ -1,7 +1,0 @@
-commit
-apple
-apple
-orange
-ieee
-acted
-banana

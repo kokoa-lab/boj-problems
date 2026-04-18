@@ -1,5 +1,0 @@
-6
-abcabc
-2
-abca
-cab

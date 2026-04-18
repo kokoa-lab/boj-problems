@@ -1,8 +1,0 @@
-MX Mechanical
-6
-1 M
-12 A
-2 N
-3 O
-12 C
-100 Y

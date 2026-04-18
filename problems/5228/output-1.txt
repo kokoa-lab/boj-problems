@@ -1,6 +1,0 @@
-Base-10 representation of 100 is 100; does not contain all digits.
-Base-7 representation of 343 is 1000; does not contain all digits.
-Base-5 representation of 240 is 1430; does not contain all digits.
-Base-10 representation of 1234567890 is 1234567890; contains all digits.
-Base-2 representation of 1 is 1; does not contain all digits.
-Base-2 representation of 2 is 10; contains all digits.

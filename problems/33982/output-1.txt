@@ -1,6 +1,0 @@
-1
-YES
-NO: Collision
-NO: Edge Absence
-NO: Collision
-filled

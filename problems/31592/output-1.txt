@@ -1,5 +1,0 @@
-rejected 4
-
-rejected 3
-
-completed

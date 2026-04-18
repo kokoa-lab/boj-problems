@@ -1,8 +1,0 @@
-3
-JOI
-JOI
-JOI
-2
-OJI
-1 2 O
-1 1 J

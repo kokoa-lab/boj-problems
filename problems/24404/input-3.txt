@@ -1,6 +1,0 @@
-5
-time * power = energy
-energy = work
-work = force * distance
-distance = distance
-1 / 1 = 1 * 1 / 1

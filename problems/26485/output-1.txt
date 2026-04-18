@@ -1,9 +1,0 @@
-BSSS#TT#T
-T####TT#T
-BSBBSBB#T
-T#BB#T##T
-T#BB#BSSB
-########T
-SSBS#BSSB
-##B##B##T
-SSBSSBS#T

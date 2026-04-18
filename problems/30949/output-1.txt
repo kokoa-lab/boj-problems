@@ -1,2 +1,0 @@
-jure -1
-tomaz +1

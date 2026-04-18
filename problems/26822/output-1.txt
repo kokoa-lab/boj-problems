@@ -1,6 +1,0 @@
-TAK
-NIE
-TAK
-TAK
-TAK
-NIE

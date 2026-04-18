@@ -1,1 +1,0 @@
-Queen can not escape and Army can not catch Queen.

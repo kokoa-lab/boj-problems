@@ -1,2 +1,0 @@
-Data set 1: Valid set of patterns
-Data set 2: Impossible combination

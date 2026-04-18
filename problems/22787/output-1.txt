@@ -1,3 +1,0 @@
-Data set #1: Total area = 5.0548 square meters.
-
-Data set #2: Total area = 6.8402 square meters.

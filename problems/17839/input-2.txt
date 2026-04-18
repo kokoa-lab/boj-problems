@@ -1,4 +1,0 @@
-3
-Rabbit is Carrot
-Baba is Cat
-Cat is Rabbit

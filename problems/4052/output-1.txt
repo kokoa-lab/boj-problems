@@ -1,7 +1,0 @@
-Case 1:
-  Perimeters: 340 420
-  Areas: 3000 3800
-
-Case 2:
-  Perimeters: 380
-  Areas: 2660

@@ -1,5 +1,0 @@
-2
-9 3 2
-bbbaababb
-9 3 2
-aaabbabaa

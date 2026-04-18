@@ -1,5 +1,0 @@
-Pmin  Rmin(Pmin)  Pmax(Pmin)
-   1           4           5
-   3           6           5
-   4           8           5
-   5          10           5

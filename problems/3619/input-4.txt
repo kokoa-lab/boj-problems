@@ -1,2 +1,0 @@
-Omega ^Omega = Omega
-Omega=123 234 345 456

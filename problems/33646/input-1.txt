@@ -1,3 +1,0 @@
-2 3
-red blue red
-green green blue

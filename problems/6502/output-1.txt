@@ -1,3 +1,0 @@
-Pizza 1 fits on the table.
-Pizza 2 does not fit on the table.
-Pizza 3 fits on the table.

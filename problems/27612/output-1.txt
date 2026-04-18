@@ -1,3 +1,0 @@
-TACG
-TCGA
-GATC

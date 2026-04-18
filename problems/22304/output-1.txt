@@ -1,9 +1,0 @@
-B: ["HELLO", "WORLD"]
-
-A: ["ARE", "NOT"]
-B: ["YOU"]
-C: ["YOU", "ARE"]
-D: ["YOU", "ARE", "NOT"]
-E: ["YOU", "ARE", "NOT"]
-F: ["YOU", "ARE", "NOT"]
-H: ["ALONE"]

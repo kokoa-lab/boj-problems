@@ -1,5 +1,0 @@
-Minimum base = 3.
-Minimum base = 6.
-Minimum base = 8.
-Minimum base = 7.
-No base <= 10 can be found.

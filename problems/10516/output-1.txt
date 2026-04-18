@@ -1,4 +1,0 @@
-Case #1: Match
-Case #2: Bad
-Case #3: Match
-Case #4: No Match

@@ -1,3 +1,0 @@
-2
-cube 5
-cylinder 3

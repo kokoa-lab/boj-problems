@@ -1,3 +1,0 @@
-4 5 C
-AS 6S 7S 8S
-9S TS JS QS KS

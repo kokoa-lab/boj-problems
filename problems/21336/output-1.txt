@@ -1,7 +1,0 @@
-accp
-
-cacp
-
-ocpc
-
-icpc

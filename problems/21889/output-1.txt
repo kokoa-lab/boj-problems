@@ -1,1 +1,0 @@
-abs(-a+b+(a*a-b*b)/abs(b-a))/2

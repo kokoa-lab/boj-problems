@@ -1,7 +1,0 @@
-6 4
-calf
-palm
-book
-icpc
-ball
-room

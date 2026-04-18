@@ -1,5 +1,0 @@
-yes
-need quorum
-tie
-no
-need quorum

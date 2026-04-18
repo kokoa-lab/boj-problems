@@ -1,5 +1,0 @@
-4
-foo
-bar
-ala
-pod

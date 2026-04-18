@@ -1,4 +1,0 @@
-3 2
-orange white
-orange orange
-white white

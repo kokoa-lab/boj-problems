@@ -1,8 +1,0 @@
-Scenario #1:
-EEE
-
-Scenario #2:
-EES
-
-Scenario #3:
-ESE

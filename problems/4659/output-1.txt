@@ -1,8 +1,0 @@
-<a> is acceptable.
-<tv> is not acceptable.
-<ptoui> is not acceptable.
-<bontres> is not acceptable.
-<zoggax> is not acceptable.
-<wiinq> is not acceptable.
-<eep> is acceptable.
-<houctuh> is acceptable.

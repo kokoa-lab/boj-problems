@@ -1,3 +1,0 @@
-32 60
-...
-The complete data are in the samples archive!

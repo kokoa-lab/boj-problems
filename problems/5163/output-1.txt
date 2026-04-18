@@ -1,5 +1,0 @@
-Data Set 1:
-Yes
-
-Data Set 2:
-No

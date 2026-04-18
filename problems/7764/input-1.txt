@@ -1,5 +1,0 @@
-sin
-cos
-sin
-max
-10
