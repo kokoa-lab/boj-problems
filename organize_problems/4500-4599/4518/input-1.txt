@@ -1,0 +1,20 @@
+3
+5
+Bob N F E N N
+Friend F N N N N
+Enemy E N N F E
+FriendOfEnemy N N F N N
+EnemyOfEnemy N N E N N
+Bob
+4
+Bob N F F F
+Tom F N E E
+Tim F E N F
+Joe F E F N
+Bob
+4
+Spy1 N E F N
+Spy2 E N E N
+Spy3 F E N N
+Spy4 N N N N
+Spy3

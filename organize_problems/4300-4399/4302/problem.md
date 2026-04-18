@@ -1,0 +1,41 @@
+---
+title: Help!
+special_judge: true
+time_limit: 1 초
+memory_limit: 128 MB
+submissions: 9
+accepted: 2
+solved_users: 2
+acceptance_rate: 100.000%
+collected_at: 2026-04-17T10:59:10.513399+00:00
+---
+
+## 문제
+
+MegaFirm Inc. has created a set of patterns to aid its telephone help-desk operators in responding to customers. A pattern is a phrase consisting of words and placeholders. A word is simply a string of letters. A placeholder is a word enclosed in angle brackets (that is < ... >). A phrase *matches* a pattern if each placeholder in the pattern can be systematically replaced by a word so as to make the pattern and phrase equal. By "systematically replaced" we mean that all placeholders enclosing the same word are replaced by the same word.
+
+For example, the phrase
+
+```
+
+to be or not to be
+```
+
+matches the pattern
+
+```
+
+<foo> be <bar> not <foo> <baf>
+```
+
+because we can replace <foo> by to, <bar> by or, and <baf> by be.
+
+Given two patterns, you are to find a phrase that matches both.
+
+## 입력
+
+The first line of input contains *n*, the number of test cases. Each test case consists of two lines of input; each a pattern. Patterns consist of lowercase words, and placeholders containing lowercase words. No pattern exceeds 100 characters. Words contain at most 16 characters. A single space separates adjacent words and placeholders.
+
+## 출력
+
+For each test case, output a phrase that matches both patterns. If several phrases match, any will do. If no phrase matches, output a line containing "-" (a single minus sign).

@@ -1,0 +1,3 @@
+Restaurant at (3,5) serves 38% of the population.
+Restaurant at (5,7) serves 25% of the population.
+Restaurant at (7,5) serves 38% of the population.

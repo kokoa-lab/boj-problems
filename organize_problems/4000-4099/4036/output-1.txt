@@ -1,0 +1,7 @@
+Case 1:
+Hole 1: 1, 2
+
+Case 2:
+Hole 1: 3, 5
+Hole 2: 2, 6
+Hole 3: 1, 4

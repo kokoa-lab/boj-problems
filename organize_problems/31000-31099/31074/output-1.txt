@@ -1,0 +1,5 @@
+diff 1 2
+
+count 1 2
+
+answer 2 0 0 0

@@ -1,0 +1,33 @@
+---
+title: Loan
+special_judge: true
+time_limit: 1 초
+memory_limit: 128 MB
+submissions: 0
+accepted: 0
+solved_users: 0
+acceptance_rate: 0.000%
+collected_at: 2026-04-17T11:49:23.486042+00:00
+---
+
+## 문제
+
+Mr. Smith received a loan for *Q* dollars. He plans to pay off this loan in *K* years at an interest rate of *P* percent per year. That means that, after each year, Mr. Smith's debt grows by *P\*Q'/100* dollars (*Q'* being the debt at the beginning of that year) and his annual payment is deducted from his debt.
+
+For the first year, Mr. Smith wants to pay minimal amount that will allow him to pay off the loan within exactly *K* years. For each subsequent year, he is willing to pay either the same amount as the previous year or one cent less than the previous year's payment. He wants the loan to be completely paid off without overpayment of even a single cent by the end of the *K*th year.
+
+The bank performs all transactions with a precision of one cent, and calculates interest due at the end of each year. Whenever interest is calculated, the result is immediately rounded to the nearest cent, with 0.5 cents rounded up.
+
+## 입력
+
+The input file contains a single line with three numbers *Q*, *P* and *K*, separated by spaces. *Q* is a real number (10 ≤ *Q* ≤ 1000000) given with no more than two digits to the right of the decimal point. This value represents the amount of the loan in dollars. One one-hundredth of a dollar is a cent. *P* and *K* are integers (0 ≤ *P* ≤ 100, 1 ≤ *K* ≤ 100).
+
+## 출력
+
+Write to the output file a schedule of payments for Mr. Smith. You should write the amount of each payment and number of years that payment should be made, thus effectively grouping equal payments. Each group of equal payments must be written on separate line, with no blank lines between them. The output format for each group of payments is:
+
+`$X for Y year(s)`
+
+where *X* is payment amount in dollars printed with exactly two digits after decimal point. *Y* is a number of years for which this payment should be made. The dollar value given on each line must be one cent less than the dollar value printed above it.
+
+If there are multiple correct payment schedules, you can output any one of them, but the first payment should be the minimal possible one. If no solution can be found for the given input, then the output file shall contain only the word "Impossible".

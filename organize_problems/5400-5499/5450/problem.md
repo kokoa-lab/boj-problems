@@ -1,0 +1,40 @@
+---
+title: Imagine
+special_judge: false
+time_limit: 1 초
+memory_limit: 256 MB
+submissions: 28
+accepted: 15
+solved_users: 13
+acceptance_rate: 54.167%
+collected_at: 2026-04-17T11:14:03.347250+00:00
+---
+
+## 문제
+
+In some imaginary city made up especially for this problem, there are two fictional political parties that were named A and B (because these names are conveniently short and also nobody really cared).
+
+In the centre of this non-existent city you are supposed to imagine a large billboard of 10.24 metres in width and 10.24 metres in height, essentially a 1024 × 1024 grid of square centimetres. Every now and then a political activist comes around and puts a 1cm × 1cm sticker with either an A or a B, depending on his or her assumed political orientation, on the grid. Any sticker that was put on that particular position before, no matter from which of the parties, becomes invisible. This might all sound a wee bit unrealistic, but you need to keep in mind that it is in fact not real. It is just for the problem.
+
+Now, for some obscure reason, that could have been totally justified had someone put a bit more effort into writing this assignment, a list is maintained with the exact location and denomination of every single sticker that was put up, in chronological order.
+
+At any moment one might wonder how many A’s and B’s there currently are within some subrectangle of the grid. Such question may come up, for example, when someone looks at the billboard from a large distance, with a rectangular telescope. You will find such queries in the input, mixed with the information about when what kind of sticker was put where, all in chronological order. Can you write a program that can handle such queries quickly?
+
+You may assume that the grid has been initialized like a checker board with an A in the top left corner at x = y = 1, hence in the following way:
+
+![](./001_imagine.png)
+
+## 입력
+
+The input consists of a single test case, which has the following format:
+
+* One line with an integer N, satisfying 1 ≤ N ≤ 1, 000, 000: the total number of stickers and queries in the input.
+* N lines, each of which is formatted as one of two alternatives:
+  + A line starting with the character ’A’ or ’B’ followed by two integers x and y, satisfying 1 ≤ x,y ≤ 1024, denoting a sticker which is put on the grid.
+  + A line with the character ’R’ followed by four integers x1, y1, x2 and y2, satisfying 1 ≤ x1 ≤ x2 ≤ 1024 and 1 ≤ y1 ≤ y2 ≤ 1024, denoting the top left and bottom right coordinates of a queried subrectangle.
+
+Alphabetic characters and integers on the same line are separated by single spaces. You can make no assumptions about the way the stickers and queries are interleaved in the input.
+
+## 출력
+
+For every query in the input, the output should contain two numbers, on a single line: the numbers of A’s and B’s in the queried subrectangle at the moment of the query, separated by a single space.

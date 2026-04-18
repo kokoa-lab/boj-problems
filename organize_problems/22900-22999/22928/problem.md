@@ -1,0 +1,46 @@
+---
+title: Permutation CFG
+special_judge: false
+time_limit: 4 초
+memory_limit: 2048 MB (추가 메모리 없음)
+submissions: 25
+accepted: 7
+solved_users: 7
+acceptance_rate: 30.435%
+collected_at: 2026-04-17T16:38:52.539020+00:00
+---
+
+## 문제
+
+Consider a permutation of the integers $1$ to $n$. Now, consider each number $1$ through $n$ to be a non-terminal in a *Context-Free Grammar* (CFG). Each number $k$ expands a list of the integers from $1$ to $k$ in the order of the permutation. For example, if $n=4$ and the permutation is $1$ $4$ $3$ $2$:
+
+* $1 \implies 1$
+* $2 \implies 1$ $2$
+* $3 \implies 1$ $3$ $2$
+* $4 \implies 1$ $4$ $3$ $2$
+
+Now, consider a process of starting with $n$, and at each step, applying these rules to create a new list of integers. In the above example, at the first step:
+
+$$\overbrace{1 \; 4 \; 3 \; 2}^{4}$$
+
+At the second step:
+
+$$\overbrace{1}^{1} \overbrace{1 \; 4 \; 3 \; 2}^{4} \; \overbrace{1 \; 3 \; 2}^{3} \; \overbrace{1 \; 2}^{2}$$
+
+At the third step:
+
+$$ \overbrace{1}^{1} \overbrace{1}^{1} \overbrace{1 \; 4 \; 3 \; 2}^{4} \; \overbrace{1 \; 3 \; 2}^{3} \; \overbrace{1 \; 2}^{2} \overbrace{1}^{1} \overbrace{1 \; 3 \; 2}^{3} \; \overbrace{1 \; 2}^{2} \overbrace{1}^{1} \overbrace{1 \; 2}^{2}$$
+
+Given a permutation, a number of steps, and a list of queries asking for the number of occurrences of a particular integer in a prefix of the list created by the process, answer all of the queries.
+
+## 입력
+
+The first line of input contains three integers, $n$ ($2 \le n \le 10^5$), $s$ ($1 \le s \le 5 $) and \mbox{$q$ ($1 \le q \le 2 \cdot 10^5$)}, where $n$ is the size of the permutation, $s$ is the number of steps to apply the process, and $q$ is the number of queries.
+
+Each of the next $n$ lines contains a single integer $p$ ($1 \le p \le n$). This is the permutation, in order. All of the values of $p$ will be distinct.
+
+Each of the next $q$ lines contains two integers $k$ ($1 \le k \le n$) and $a$ ($1 \le a \le 10^{9}$, $a$ will not exceed the length of the final list). This is a query for the number of occurrences of the integer $k$ in the first $a$ elements of the list created by the process.
+
+## 출력
+
+Output $q$ lines, each with a single integer, which are the answers to the queries in the order that they appear in the input.

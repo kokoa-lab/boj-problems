@@ -1,0 +1,17 @@
+Scenario #1:
+Germany     17.69
+Sweden       3.45
+Argentina   12.32
+Mexico       2.65
+Italy        7.04
+Australia    1.81
+Switzerl     2.43
+Ukraine      3.46
+England      7.75
+Ecuador      1.83
+Portugal     5.19
+Holland      6.36
+Brazil      12.20
+Ghana        0.89
+Spain       11.47
+France       3.46

@@ -1,0 +1,4 @@
+3
+f3 f1 f4 g2 w
+f3 f1 e1 g2 b
+a1 c3 e5 h8 b

@@ -1,0 +1,616 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+	<title>33563번: shapey</title><meta name="viewport" content="width=device-width, initial-scale=1.0"><meta charset="utf-8"><meta name="author" content="스타트링크 (Startlink)"><meta name="keywords" content="ACM-ICPC, ICPC, 프로그래밍, 온라인 저지, 정보올림피아드, 코딩, 알고리즘, 대회, 올림피아드, 자료구조"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta property="og:type" content="website"><meta property="og:image" content="https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/images/boj-og.png"><meta property="og:site_name" content="Baekjoon Online Judge"><meta name="format-detection" content = "telephone=no"><meta name="msapplication-config" content="none"><link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png"><link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png"><link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png"><link rel="manifest" href="/site.webmanifest"><link rel="mask-icon" href="/safari-pinned-tab.svg" color="#0076c0"><meta name="msapplication-TileColor" content="#00aba9"><meta name="theme-color" content="#ffffff"><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.2.0/css/bootstrap.min.css"><link rel="stylesheet" href="https://ddo7jzca0m2vt.cloudfront.net/unify/css/style.css?version=20240112"><link href="https://fonts.googleapis.com/css?family=Noto+Sans+KR:400,700|Open+Sans:400,400i,700,700i|Source+Code+Pro&amp;subset=korean" rel="stylesheet"><link rel="stylesheet" href="https://ddo7jzca0m2vt.cloudfront.net/css/connect.css?version=20240112"><link rel="stylesheet" href="https://ddo7jzca0m2vt.cloudfront.net/css/result.css?version=20240112"><link rel="stylesheet" href="https://ddo7jzca0m2vt.cloudfront.net/css/label.css?version=20240112"><link rel="stylesheet" href="https://ddo7jzca0m2vt.cloudfront.net/unify/css/custom.css?version=20240112"><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.css"><link rel="stylesheet" href="https://ddo7jzca0m2vt.cloudfront.net/unify/css/theme-colors/blue.css?version=20240112"><link rel="stylesheet" href="https://ddo7jzca0m2vt.cloudfront.net/css/pace.css">
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-C81GGQEMJZ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-C81GGQEMJZ');
+</script>
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/noty/3.1.4/noty.min.css" /><meta name="username" content="">
+    
+<link type="text/css" rel="stylesheet" href="https://ddo7jzca0m2vt.cloudfront.net/css/problem-print.css" media="print">
+<link type="text/css" rel="stylesheet" href="https://ddo7jzca0m2vt.cloudfront.net/css/problem.css?version=20240112">
+	<link type="text/css" rel="stylesheet" href="https://ddo7jzca0m2vt.cloudfront.net/css/problem-font.css?version=20240112">
+<meta name="problem-id" content="33563">
+<meta name="user-id" content="">
+
+
+</head>
+<body >
+    <div class="wrapper">
+        <div class="header no-print"><div class="topbar"><div class="container"><ul class="loginbar pull-right"><li><a href="/register">회원가입</a></li><li class="topbar-devider"></li><li><a href="/login?next=%2Fproblem%2F33563">로그인</a></li></ul></div></div><div class="navbar navbar-default mega-menu" role="navigation"><div class="container"><div class="navbar-header"><button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-responsive-collapse"><span class="sr-only">Toggle navigation</span><span class="fa fa-bars"></span></button><a class="navbar-brand" href="/"><img id="logo-header" src="https://d2gd6pc034wcta.cloudfront.net/images/logo@2x.png" alt="Logo" data-retina></a></div><div class="collapse navbar-collapse navbar-responsive-collapse"><ul class="nav navbar-nav"><li class="dropdown mega-menu-fullwidth active"><a href="javascript:void(0);" class="dropdown-toggle" data-toggle="dropdown">문제</a><ul class="dropdown-menu"><li><div class="mega-menu-content"><div class="container"><div class="row equal-height"><div class="col-md-3 equal-height-in"><ul class="list-unstyled equal-height-list"><li><h3>문제</h3></li><li><a href="/problemset">전체 문제</a></li><li><a href="/category">문제 출처</a></li><li><a href="/step">단계별로 풀어보기</a></li><li><a href="/problem/tags">알고리즘 분류</a></li><li><a href="/problem/added">추가된 문제</a></li><li><a href="/problem/ranking">문제 순위</a></li></ul></div><div class="col-md-3 equal-height-in"><ul class="list-unstyled equal-height-list"><li><h3>문제</h3></li><li><a href="/problem/only">푼 사람이 한 명인 문제</a></li><li><a href="/problem/nobody">아무도 못 푼 문제</a></li><li><a href="/problem/recent/submit">최근 제출된 문제</a></li><li><a href="/problem/recent/accepted">최근 풀린 문제</a></li><li><a href="/problem/random">랜덤</a></li></ul></div><div class="col-md-3 equal-height-in"><ul class="list-unstyled equal-height-list"><li><h3>출처</h3></li><li><a href="/category/1">ICPC</a></li><li><a href="/category/2">Olympiad</a></li><li><a href="/category/55">한국정보올림피아드</a></li><li><a href="/category/57">한국정보올림피아드시․도지역본선</a></li><li><a href="/category/318">전국 대학생 프로그래밍 대회 동아리 연합</a></li><li><a href="/category/5">대학교 대회</a></li><li><a href="/category/428">카카오 코드 페스티벌</a></li><li><a href="/category/215">Coder's High</a></li></ul></div><div class="col-md-3 equal-height-in"><ul class="list-unstyled equal-height-list"><li><h3>ICPC</h3></li><li><a href="/category/7">Regionals</a></li><li><a href="/category/4">World Finals</a></li><li><a href="/category/211">Korea Regional</a></li><li><a href="/category/34">Africa and the Middle East Regionals</a></li><li><a href="/category/10">Europe Regionals</a></li><li><a href="/category/103">Latin America Regionals</a></li><li><a href="/category/8">North America Regionals</a></li><li><a href="/category/92">South Pacific Regionals</a></li></ul></div></div></div></div></li></ul></li><li><a href="/workbook/top"  >문제집</a></li><li><a href="/contest/official/list"  >대회</a></li><li><a href="/status"  >채점 현황</a></li><li><a href="/ranklist"  >랭킹</a></li><li><a href="/board/list/all"  >게시판</a></li><li><a href="/group/list/all"  >그룹</a></li><li class="dropdown "><a href="javascript:void(0);" class="dropdown-toggle" data-toggle="dropdown">더 보기</a><ul class="dropdown-menu"><li><a href="/change"  >재채점 기록</a></li><li><a href="/blog/list"  >블로그</a></li><li><a href="/lectures"  >강의</a></li><li><a href="/labs"  >실험실</a></li><li><a href="https://help.acmicpc.net/" target="_blank" >도움말 &nbsp;<i class="fa fa-external-link"></i></a></li><li><a href="https://stack.acmicpc.net/" target="_blank" >BOJ Stack &nbsp;<i class="fa fa-external-link"></i></a></li><li><a href="https://book.acmicpc.net/" target="_blank" >BOJ Book &nbsp;<i class="fa fa-external-link"></i></a></li></ul></li><li><a href="/search"  ><i class="fa fa-search search-btn"></i></a></li></ul></div></div></div></div><form action="/logout" method="post" id="logout_form"><input type='hidden' value='%2Fproblem%2F33563' name="next"></form>
+        
+<div class="container content">
+				<div style="width: 100%;" class="no-print"><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8806842758252812"
+ crossorigin="anonymous"></script><ins class="adsbygoogle" style="display:block;" data-ad-client="ca-pub-8806842758252812" data-ad-slot="1129585289" data-ad-format="horizontal"data-full-width-responsive="true"></ins><script>
+(adsbygoogle = window.adsbygoogle || []).push({ });
+</script></div><div class="margin-bottom-20 no-print"></div>
+	
+	<div class="row">
+		<div class="col-md-12">
+			<div id="result_log"></div>
+		</div>
+		<div class="col-md-12">
+							<ul class="nav nav-pills no-print problem-menu" ><li class="active">
+		<a href="/problem/33563">33563번</a>
+</li><li><a href="/submit/33563"  >제출</a></li><li><a href="/problem/status/33563"  >맞힌 사람</a></li><li><a href="/short/status/33563"  >숏코딩</a></li><li><a href="/problem/history/33563"  >재채점 결과</a></li><li><a href="/status?from_problem=1&amp;problem_id=33563"  >채점 현황</a></li><li><a href="/board/search/all/problem/33563"  >질문 게시판</a></li></ul>
+					</div>
+		<div class="col-md-12">
+			<div class="page-header">
+				<h1><span class="printable">
+	33563번
+ - </span><span id="problem_title">shapey</span>
+				<span class="problem-label problem-label-spj">스페셜 저지</span>				<div class="btn-group pull-right problem-button">
+														</div>
+				</h1>
+									
+							</div>
+		</div>
+		<div class="col-md-12"><div class="table-responsive"><table class="table" id="problem-info"><thead><tr><th style="width:16%;">시간 제한</th><th style="width:16%;">메모리 제한</th><th style="width:17%;">제출</th><th style="width:17%;">정답</th><th style="width:17%;">맞힌 사람</th><th style="width:17%;">정답 비율</th></tr></thead><tbody><tr><td>1 초 </td><td>1024 MB</td><td>255</td><td>65</td><td>45</td><td>20.737%</td></tr></tbody></table></div></div>
+						<div id="problem-body" class="">
+			<div class="col-md-12">
+				<section id="description"  class="problem-section">
+				<div class="headline">
+				<h2>문제</h2>
+				</div>
+				<div id="problem_description" class="problem-text">
+				<blockquote>
+<p><strong>이 문제는 <a href="/problem/33569" target="_blank">shapez</a>와 만들어야 하는 도형의 조건만 다른 하위 문제이고, <a href="/problem/33569" target="_blank">shapez</a>의 정답 코드를 제출해 이 문제를 맞힐 수 있다.</strong></p>
+</blockquote>
+
+<p>shapey는 각 사분면에 원형, 사각형, 풍차, 별 모양이 배치된 도형들을 자르고, 합치고, 색칠하여 복잡하고 다채로운 도형들을 만들어내는 것이 목표인 게임이다.</p>
+
+<p>주어진 도형들을 조작해 최종적으로 만들어야 하는 도형을 만드는 프로그램을 작성해 보자.</p>
+
+<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/30207acd-8681-4122-a573-b5166dd78e35/-/preview/" style="height: 150px; width: 150px;" /><img alt="" src="https://upload.acmicpc.net/42b125a4-b2ba-4a9f-97cd-bdc815b5a692/-/preview/" style="height: 150px; width: 150px;" /><img alt="" src="https://upload.acmicpc.net/424e5dc5-2637-4e4d-a8e2-b40bdddabb45/-/preview/" style="height: 150px; width: 150px;" /><img alt="" src="https://upload.acmicpc.net/499fb235-ef9d-488f-b5fc-421eebe2ba00/-/preview/" style="height: 150px; width: 150px;" /></p>
+
+<p>shapey에서는 도형을 쉽게 나타내기 위해 도형 코드를 사용한다. 다음은 도형 코드에 대한 설명이다.</p>
+
+<ul>
+	<li><strong>기본 도형</strong>
+
+	<ul>
+		<li>기본 도형은 총 네 가지로 종류와 코드는 다음과 같다.
+		<ul>
+			<li>원형(<img alt="" src="https://upload.acmicpc.net/f5108496-562c-4b2c-b176-127de5a60cfc/-/preview/" style="height: 22px; width: 22px;" />, Circle): <code>C</code></li>
+			<li>사각형(<img alt="" src="https://upload.acmicpc.net/90659ce7-561a-477b-a593-fd0548b716a3/-/preview/" style="height: 22px; width: 22px;" />, Rectangle): <code>R</code></li>
+			<li>풍차(<img alt="" src="https://upload.acmicpc.net/134fe5c9-bdda-4c5a-8120-86f57a31156e/-/preview/" style="height: 22px; width: 22px;" />, Windmill): <code>W</code></li>
+			<li>별(<img alt="" src="https://upload.acmicpc.net/d4105358-4f7c-4777-938b-c44a01a29c09/-/preview/" style="height: 22px; width: 22px;" />, Star): <code>S</code></li>
+		</ul>
+		</li>
+	</ul>
+	</li>
+	<li><strong>색상</strong>
+	<ul>
+		<li>색상은 총 여덟 가지로 종류와 코드는 다음과 같다.
+		<ul>
+			<li>빨강(<img alt="" src="https://upload.acmicpc.net/85a8ca4f-888a-4c5f-8e06-328919232c1a/-/preview/" style="height: 13px; width: 13px;" />, Red): <code>r</code></li>
+			<li>초록(<img alt="" src="https://upload.acmicpc.net/d01e0932-c7db-4990-8680-a3e7904fa108/-/preview/" style="height: 13px; width: 13px;" />, Green): <code>g</code></li>
+			<li>파랑(<img alt="" src="https://upload.acmicpc.net/72344ab5-c92d-4e2f-bb29-97e4bd31c2a9/-/preview/" style="height: 13px; width: 13px;" />, Blue): <code>b</code></li>
+			<li>노랑(<img alt="" src="https://upload.acmicpc.net/1dc2df88-2aed-4780-90df-b9063291ffc5/-/preview/" style="height: 13px; width: 13px;" />, Yellow): <code>y</code></li>
+			<li>보라(<img alt="" src="https://upload.acmicpc.net/a009075e-700f-41c2-86b2-57d688de566a/-/preview/" style="height: 13px; width: 13px;" />, Purple): <code>p</code></li>
+			<li>시안(<img alt="" src="https://upload.acmicpc.net/944db7d1-3214-43cd-9eac-82cf50a8692b/-/preview/" style="height: 13px; width: 13px;" />, Cyan): <code>c</code></li>
+			<li>색칠되지 않음(<img alt="" src="https://upload.acmicpc.net/e42fe37e-6103-4e75-a7d5-67ff5b7f6c5a/-/preview/" style="height: 13px; width: 13px;" />, Uncolored): <code>u</code></li>
+			<li>하양(<img alt="" src="https://upload.acmicpc.net/a25a916b-707e-4f33-a052-6df1634cf49a/-/preview/" style="height: 13px; width: 13px;" />, White): <code>w</code></li>
+		</ul>
+		</li>
+	</ul>
+	</li>
+	<li><strong>도형</strong>
+	<ul>
+		<li>기본 도형과 색상을 조합하여 하나의 완전한 도형을 만들 수 있다.</li>
+		<li>도형 한 층은 북동쪽, 남동쪽, 남서쪽, 북서쪽 사분면으로 나뉜다.</li>
+		<li>한 사분면에는 하나의 기본 도형이 존재하거나 비어 있을 수 있다.</li>
+		<li>하나의 기본 도형은 하나의 색상을 가진다.</li>
+		<li>이런 층들을 최소 1층부터 최대 4층까지 쌓아 한 도형을 만들 수 있다.</li>
+		<li>최고층 이하에 모든 사분면이 비어 있는 층이 있는 도형은 올바르지 않은 도형이다.</li>
+		<li>그림에서 높은 층의 도형은 아래층보다 작게 보인다. 도형의 크기는 그림에만 나타나며 문제 풀이와 관련이 없다.</li>
+	</ul>
+	</li>
+	<li><strong>도형 코드</strong>
+	<ul>
+		<li>기본 도형과 색상의 코드를 조합하여 도형을 코드로 나타낼 수 있다.</li>
+		<li>도형 한 층의 코드는 &#39;(기본 도형)(색상)(기본 도형)(색상)(기본 도형)(색상)(기본 도형)(색상)&#39;의 형식으로 나타낼 수 있다. 이때 (기본 도형)(색상) 쌍은 순서대로 북동쪽, 남동쪽, 남서쪽, 북서쪽 사분면의 정보를 나타낸다.</li>
+		<li>비어 있는 사분면의 코드는 &#39;<code>--</code>&#39;으로 나타낸다.</li>
+		<li>1층부터 가장 높은 층까지 각 층의 코드를 &#39;<code>:</code>&#39;로 구분하여 나타낸다.</li>
+		<li>다음은 문제 상단에 있는 도형들의 코드 예시이다.</li>
+	</ul>
+	</li>
+</ul>
+
+<table align="center" border="1" cellpadding="1" cellspacing="1" class="table table-bordered td-center th-center" style="width: 500px;">
+	<thead>
+		<tr>
+			<th scope="col" style="text-align: center;">도형</th>
+			<th scope="col" style="text-align: center;">도형 코드</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/30207acd-8681-4122-a573-b5166dd78e35/-/preview/" style="height: 22px; width: 22px;" /></td>
+			<td style="text-align: center;"><code>CuCuCuCu</code></td>
+		</tr>
+		<tr>
+			<td style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/42b125a4-b2ba-4a9f-97cd-bdc815b5a692/-/preview/" style="height: 22px; width: 22px;" /></td>
+			<td style="text-align: center;"><code>SrSrSrSr:CyCyCyCy</code></td>
+		</tr>
+		<tr>
+			<td style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/424e5dc5-2637-4e4d-a8e2-b40bdddabb45/-/preview/" style="height: 22px; width: 22px;" /></td>
+			<td style="text-align: center;"><code>CcSyCcSy:SyCcSyCc:CcSyCcSy</code></td>
+		</tr>
+		<tr>
+			<td style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/499fb235-ef9d-488f-b5fc-421eebe2ba00/-/preview/" style="height: 22px; width: 22px;" /></td>
+			<td style="text-align: center;"><code>CcRcCcRc:RwCwRwCw:Sr--Sw--:CyCyCyCy</code></td>
+		</tr>
+	</tbody>
+</table>
+
+<p>도형을 조작하는 여러 가지 기계로 더욱 복잡한 도형을 만들 수 있다. 다음은 도형 조작을 위한 기계들에 대한 설명이다.</p>
+
+<ul>
+	<li><strong>절단기</strong>
+
+	<ul>
+		<li>한 도형을 서쪽 절반과 동쪽 절반으로 나눈다.</li>
+		<li>절단 후 어떤 층이 완전히 빈 경우, 즉 &#39;<code>--------</code>&#39;이 되는 경우에는 그 층이 사라지고 그 층보다 높은 층들을 한 층씩 내린다.</li>
+		<li>절단 후 모든 층이 완전히 빈 경우, 아무런 도형도 생성되지 않는다.</li>
+	</ul>
+	</li>
+	<li><strong>회전기</strong>
+	<ul>
+		<li>한 도형을 정해진 각도(90도, 180도, 270도)만큼 시계방향으로 회전시킨다.</li>
+	</ul>
+	</li>
+	<li><strong>결합기</strong>
+	<ul>
+		<li>두 도형을 하나의 도형으로 결합한다.</li>
+		<li>즉, 두 번째로 입력된 도형을 첫 번째로 입력된 도형의 위에서부터, 두 도형에 포함된 기본 도형이 서로 겹쳐 더이상 내리지 못하거나 가장 낮은 층이 1층에 도달할 때까지 내린 후 한 도형으로 합친다.</li>
+		<li>결합 후 도형이 4층을 초과할 경우, 초과한 층은 사라진다.</li>
+	</ul>
+	</li>
+	<li><strong>색칠기</strong>
+	<ul>
+		<li>한 도형의 비어 있지 않은 모든 층, 모든 사분면에 색을 칠한다.</li>
+		<li>기존에 있던 색은 모두 새로운 색으로 덮어씌워진다.</li>
+		<li>&#39;색칠되지 않음&#39;으로는 색칠할 수 없다.</li>
+	</ul>
+	</li>
+</ul>
+
+<p>다음은 기계의 작동 예시이다.</p>
+
+<table align="center" class="table table-bordered td-center th-center">
+	<thead>
+		<tr>
+			<th colspan="3" scope="col">절단기</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td style="text-align: center;">입력</td>
+			<td style="text-align: center;">서쪽 절반 출력</td>
+			<td style="text-align: center;">동쪽 절반 출력</td>
+		</tr>
+		<tr>
+			<td style="text-align: center;"><code>CrRwWu--</code></td>
+			<td style="text-align: center;"><code>----Wu--</code></td>
+			<td style="text-align: center;"><code>CrRw----</code></td>
+		</tr>
+		<tr>
+			<td style="text-align: center;"><code>CuCu----:--RuRu--:Wu------</code></td>
+			<td style="text-align: center;"><code>----Ru--</code></td>
+			<td style="text-align: center;"><code>CuCu----:--Ru----:Wu------</code></td>
+		</tr>
+		<tr>
+			<td style="text-align: center;"><code>--Rc----:Sw------</code></td>
+			<td style="text-align: center;">생성되지 않음</td>
+			<td style="text-align: center;"><code>--Rc----:Sw------</code></td>
+		</tr>
+	</tbody>
+</table>
+
+<table align="center" class="table table-bordered td-center th-center">
+	<thead>
+		<tr>
+			<th colspan="3" scope="col">회전기</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td style="text-align: center;">입력</td>
+			<td style="text-align: center;">회전 각도</td>
+			<td style="text-align: center;">출력</td>
+		</tr>
+		<tr>
+			<td style="text-align: center;"><code>CrRwWu--</code></td>
+			<td style="text-align: center;">90도</td>
+			<td style="text-align: center;"><code>--CrRwWu</code></td>
+		</tr>
+		<tr>
+			<td style="text-align: center;"><code>CuCu----:--RuRu--:Wu------</code></td>
+			<td style="text-align: center;">180도</td>
+			<td style="text-align: center;"><code>----CuCu:Ru----Ru:----Wu--</code></td>
+		</tr>
+		<tr>
+			<td style="text-align: center;"><code>CuCu----:--RuRu--:Wu------</code></td>
+			<td style="text-align: center;">270도</td>
+			<td style="text-align: center;"><code>Cu----Cu:RuRu----:------Wu</code></td>
+		</tr>
+	</tbody>
+</table>
+
+<table align="center" class="table table-bordered td-center th-center">
+	<thead>
+		<tr>
+			<th colspan="3" scope="col">결합기</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td style="text-align: center;">첫 번째 입력</td>
+			<td style="text-align: center;">두 번째 입력</td>
+			<td style="text-align: center;">출력</td>
+		</tr>
+		<tr>
+			<td style="text-align: center;"><code>CuCu----</code></td>
+			<td style="text-align: center;"><code>----RuRu</code></td>
+			<td style="text-align: center;"><code>CuCuRuRu</code></td>
+		</tr>
+		<tr>
+			<td style="text-align: center;"><code>CuCu----</code></td>
+			<td style="text-align: center;"><code>--RuRu--</code></td>
+			<td style="text-align: center;"><code>CuCu----:--RuRu--</code></td>
+		</tr>
+		<tr>
+			<td style="text-align: center;"><code>Ru----Ru:Ru----Ru:RuRuRuRu</code></td>
+			<td style="text-align: center;"><code>--CuCu--:--CuCu--</code></td>
+			<td style="text-align: center;"><code>Ru----Ru:Ru----Ru:RuRuRuRu:--CuCu--</code></td>
+		</tr>
+		<tr>
+			<td style="text-align: center;"><code>RuRuRuRu:RuRuRuRu:RuRu----:RuRu----</code></td>
+			<td style="text-align: center;"><code>----CuCu:CuCuCuCu:CuCuCuCu</code></td>
+			<td style="text-align: center;"><code>RuRuRuRu:RuRuRuRu:RuRu----:RuRuCuCu</code></td>
+		</tr>
+	</tbody>
+</table>
+
+<table align="center" class="table table-bordered td-center th-center">
+	<thead>
+		<tr>
+			<th colspan="3" scope="col">색칠기</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td style="text-align: center;">입력</td>
+			<td style="text-align: center;">색상</td>
+			<td style="text-align: center;">출력</td>
+		</tr>
+		<tr>
+			<td style="text-align: center;"><code>CrRwWu--</code></td>
+			<td style="text-align: center;"><code>c</code></td>
+			<td style="text-align: center;"><code>CcRcWc--</code></td>
+		</tr>
+		<tr>
+			<td style="text-align: center;"><code>CuCw----:--RyRg--:Wb------</code></td>
+			<td style="text-align: center;"><code>b</code></td>
+			<td style="text-align: center;"><code>CbCb----:--RbRb--:Wb------</code></td>
+		</tr>
+	</tbody>
+</table>
+
+<p>도형 조작을 위해 레지스터를 사용한다. 다음은 레지스터에 대한 설명이다.</p>
+
+<ul>
+	<li>도형 조작을 위해 $100$개의 레지스터를 사용할 수 있다.</li>
+	<li>레지스터에는 순서대로 $R_1$, $R_2$, $\cdots$, $R_{100}$으로 이름이 매겨져 있다.</li>
+	<li>처음 주어지는 $N$개의 도형은 $R_1$, $R_2$, $\cdots$, $R_N$에 저장되어 있다.</li>
+	<li>나머지 $100&minus;N$개의 레지스터에는 <em>None</em>이 저장되어 있다.</li>
+	<li>레지스터에 저장된 값은 다른 값이 저장되지 않는 이상 유지된다.</li>
+</ul>
+
+				</div>
+				</section>
+			</div>
+										<div class="col-md-12">
+					<section id="input"  class="problem-section">
+					<div class="headline">
+					<h2>입력</h2>
+					</div>
+					<div id="problem_input" class="problem-text">
+					<p>첫 번째 줄에 주어지는 도형의 개수 $N$($1 \le N \le 10$)이 주어진다.</p>
+
+<p>다음 $N$개의 줄에 처음 주어지는 도형의 코드가 순서대로 주어진다. 주어지는 도형들은 모두 1층만 있다.</p>
+
+<p>다음 줄에 만들어야 하는 도형의 코드가 주어진다. 만들어야 하는 도형은 4층까지 있을 수 있다. 1층과 2층, 2층과 3층, 3층과 4층을 인접하다고 할 때, <strong>최고 층 이하의 인접한 두 층의 적어도 한 사분면은 두 층 모두 기본 도형이 존재한다.</strong></p>
+
+<p>올바른 도형 코드만 입력으로 주어진다.</p>
+
+					</div>
+					</section>
+				</div>
+	
+				<div class="col-md-12">
+					<section id="output"  class="problem-section">
+					<div class="headline">
+					<h2>출력</h2>
+					</div>
+					<div id="problem_output" class="problem-text">
+					<p>첫째 줄에 사용할 조작의 개수 $M$($1 \le M \le 10\,000$)을 출력한다. 다음 $M$개의 줄에 적용할 조작을 다음과 같은 형식으로 순서대로 한 줄에 하나씩 출력한다. 모든 레지스터 번호는 $1$ 이상 $100$ 이하의 정수여야 한다.</p>
+
+<ul>
+	<li>$1$ $i$ $j$ $k$ $(j \neq k)$
+	<ul>
+		<li>$R_i$에 저장된 도형을 절단기에 넣어 서쪽 절반을 $R_j$에, 동쪽 절반을 $R_k$에 저장한다.</li>
+		<li>$R_i$에 저장된 값이 <em>None</em>일 경우 $R_j$, $R_k$에 저장되는 값도 <em>None</em>이다.</li>
+		<li>어느 쪽 절반에서 도형이 생성되지 않을 경우 그 절반에 해당하는 레지스터에 저장되는 값도 <em>None</em>이다.</li>
+	</ul>
+	</li>
+	<li>$2$ $i$ $j$ $k$ ($k \in$ {$1$, $2$, $3$})
+	<ul>
+		<li>$R_i$에 저장된 도형을 $k \times 90$도 회전기에 넣어 생성되는 도형을 $R_j$에 저장한다.</li>
+		<li>$R_i$에 저장된 값이 <em>None</em>일 경우 $R_j$에 저장되는 값도 <em>None</em>이다.</li>
+	</ul>
+	</li>
+	<li>$3$ $i$ $j$ $k$
+	<ul>
+		<li>$R_i$, $R_j$에 저장된 도형을 순서대로 결합기에 넣어 생성되는 도형을 $R_k$에 저장한다.</li>
+		<li>$R_i$, $R_j$에 저장된 값 중에 <em>None</em>이 있을 경우 $R_k$에 저장되는 값도 <em>None</em>이다.</li>
+	</ul>
+	</li>
+	<li>$4$ $i$ $j$ $k$ ($k \in$ {&#39;<code>r</code>&#39;, &#39;<code>g</code>&#39;, &#39;<code>b</code>&#39;, &#39;<code>y</code>&#39;, &#39;<code>p</code>&#39;, &#39;<code>c</code>&#39;, &#39;<code>w</code>&#39;})
+	<ul>
+		<li>$R_i$에 저장된 도형을 색칠기에 넣어 색상 $k$로 칠해서 $R_j$에 저장한다.</li>
+		<li>$R_i$에 저장된 값이 <em>None</em>일 경우 $R_j$에 저장되는 값도 <em>None</em>이다.</li>
+	</ul>
+	</li>
+</ul>
+
+<p>출력한 조작들을 전부 완료한 후에 $R_{100}$에 만들어야 하는 도형이 저장되어 있어야 한다. 만약 가능한 방법이 여러 가지인 경우 그중 아무거나 출력한다. 주어진 도형들을 조작하여 만들어야 하는 도형을 만들 수 없는 경우 <span style="color:#e74c3c;"><code>-1</code></span>을 출력한다.</p>
+
+					</div>
+					</section>
+				</div>
+						<div class="col-md-12">
+			<section id="limit" style="display:none;" class="problem-section">
+			<div class="headline">
+			<h2>제한</h2>
+			</div>
+			<div id="problem_limit" class="problem-text">
+						</div>
+			</section>
+			</div>
+																	<div class="col-md-12">
+				<div class="row">
+					<div class="col-md-6">
+						<section id="sampleinput1">
+						<div class="headline">
+						<h2>예제 입력 1
+							<button type="button" class="btn btn-link copy-button" style="padding: 0px;" data-clipboard-target="#sample-input-1">복사</button>
+						</h2>
+						</div>
+						<pre class="sampledata" id="sample-input-1">1
+CuRuWuSu
+CuCuCuCu
+</pre>
+						</section>
+					</div>
+					<div class="col-md-6">
+						<section id="sampleoutput1">
+						<div class="headline">
+						<h2>예제 출력 1
+							<button type="button" class="btn btn-link copy-button" style="padding: 0px;" data-clipboard-target="#sample-output-1">복사</button>
+						</h2>
+						</div>
+						<pre class="sampledata" id="sample-output-1">7
+1 1 2 3
+2 3 4 1
+1 4 5 6
+2 6 7 3
+3 6 7 8
+2 8 9 2
+3 8 9 100
+</pre>
+						</section>
+					</div>
+									</div>
+				</div>
+								<div class="col-md-12">
+				<div class="row">
+					<div class="col-md-6">
+						<section id="sampleinput2">
+						<div class="headline">
+						<h2>예제 입력 2
+							<button type="button" class="btn btn-link copy-button" style="padding: 0px;" data-clipboard-target="#sample-input-2">복사</button>
+						</h2>
+						</div>
+						<pre class="sampledata" id="sample-input-2">2
+CrCgCbCy
+RpRcRuRw
+SrSrSrSr:CyCyCyCy
+</pre>
+						</section>
+					</div>
+					<div class="col-md-6">
+						<section id="sampleoutput2">
+						<div class="headline">
+						<h2>예제 출력 2
+							<button type="button" class="btn btn-link copy-button" style="padding: 0px;" data-clipboard-target="#sample-output-2">복사</button>
+						</h2>
+						</div>
+						<pre class="sampledata" id="sample-output-2">-1
+</pre>
+						</section>
+					</div>
+									</div>
+				</div>
+								<div class="col-md-12">
+				<div class="row">
+					<div class="col-md-6">
+						<section id="sampleinput3">
+						<div class="headline">
+						<h2>예제 입력 3
+							<button type="button" class="btn btn-link copy-button" style="padding: 0px;" data-clipboard-target="#sample-input-3">복사</button>
+						</h2>
+						</div>
+						<pre class="sampledata" id="sample-input-3">4
+--Cr----
+Rw------
+----Su--
+------Ww
+CcSyCcSy:SyCcSyCc:CcSyCcSy
+</pre>
+						</section>
+					</div>
+					<div class="col-md-6">
+						<section id="sampleoutput3">
+						<div class="headline">
+						<h2>예제 출력 3
+							<button type="button" class="btn btn-link copy-button" style="padding: 0px;" data-clipboard-target="#sample-output-3">복사</button>
+						</h2>
+						</div>
+						<pre class="sampledata" id="sample-output-3">8
+4 1 2 c
+4 3 4 y
+3 2 4 5
+2 5 6 2
+3 5 6 7
+2 7 8 1
+3 8 7 9
+3 9 8 100
+</pre>
+						</section>
+					</div>
+									</div>
+				</div>
+								<div class="col-md-12">
+				<div class="row">
+					<div class="col-md-6">
+						<section id="sampleinput4">
+						<div class="headline">
+						<h2>예제 입력 4
+							<button type="button" class="btn btn-link copy-button" style="padding: 0px;" data-clipboard-target="#sample-input-4">복사</button>
+						</h2>
+						</div>
+						<pre class="sampledata" id="sample-input-4">3
+CcRcCcRc
+Sr--Sw--
+CyCyCyCy
+CcRcCcRc:RwCwRwCw:Sr--Sw--:CyCyCyCy
+</pre>
+						</section>
+					</div>
+					<div class="col-md-6">
+						<section id="sampleoutput4">
+						<div class="headline">
+						<h2>예제 출력 4
+							<button type="button" class="btn btn-link copy-button" style="padding: 0px;" data-clipboard-target="#sample-output-4">복사</button>
+						</h2>
+						</div>
+						<pre class="sampledata" id="sample-output-4">5
+2 1 4 1
+4 4 4 w
+3 1 4 100
+3 100 2 100
+3 100 3 100
+</pre>
+						</section>
+					</div>
+									</div>
+				</div>
+										<div class="col-md-12">
+				<section id="hint" style="display: none;" class="problem-section">
+				<div class="headline">
+				<h2>힌트</h2>
+				</div>
+				<div id="problem_hint" class="problem-text">
+				
+				</div>
+				</section>
+			</div>
+								</div>
+									<div class="col-md-12"><section id="source"><div class="headline"><h2>출처</h2></div><p><a href="/category/45">Contest</a>&nbsp;&gt;&nbsp;<a href="/category/984">BOJ User Contest</a>&nbsp;&gt;&nbsp;<a href="/category/867">유틸컵</a>&nbsp;&gt;&nbsp;<a href="/category/detail/4443">제2회 유틸컵</a>&nbsp;🏭🔺번</p><ul><li>문제를 만든 사람:&nbsp;<a href="/user/dong5995">dong5995</a></li><li>문제를 검수한 사람:&nbsp;<a href="/user/dkim110807">dkim110807</a>, <a href="/user/jinhan814">jinhan814</a>, <a href="/user/kidw0124">kidw0124</a>, <a href="/user/utilforever">utilforever</a>, <a href="/user/yijw0930">yijw0930</a></li></ul></section></div>
+																											</div>
+    <div class="margin-bottom-20"></div>
+				<div style="width: 100%;" class="no-print"><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8806842758252812"
+ crossorigin="anonymous"></script><ins class="adsbygoogle" style="display:block;" data-ad-client="ca-pub-8806842758252812" data-ad-slot="1129585289" data-ad-format="auto"data-full-width-responsive="true"></ins><script>
+(adsbygoogle = window.adsbygoogle || []).push({ });
+</script></div><div class="margin-bottom-20 no-print"></div>
+	
+</div>
+
+
+        <div class="footer-v3 no-print"><div class="footer"><div class="container"><div class="row"><div class="col-sm-3 md-margin-bottom-40"><div class="thumb-headline"><h2>Baekjoon Online Judge</h2></div><ul class="list-unstyled simple-list margin-bottom-10"><li><a href="/about">소개</a></li><li><a href="/news">뉴스</a></li><li><a href="/live">생중계</a></li><li><a href="/poll">설문조사</a></li><li><a href="/blog">블로그</a></li><li><a href="/board/view/70222">디스코드 서버</a></li><li><a href="/donate">기부하기</a></li><li><a href="https://github.com/Startlink/BOJ-Feature-Request">기능 추가 요청</a></li><li><a href="https://github.com/Startlink/BOJ-spj">스페셜 저지 제작</a></li><li><a href="/labs">실험실</a></li></ul><div class="thumb-headline"><h2>채점 현황</h2></div><ul class="list-unstyled simple-list"><li><a href="/status">채점 현황</a></li></ul></div><div class="col-sm-3 md-margin-bottom-40"><div class="thumb-headline"><h2>문제</h2></div><ul class="list-unstyled simple-list margin-bottom-10"><li><a href="/problemset">문제</a></li><li><a href="/step">단계</a></li><li><a href="/problem/tags">분류</a></li><li><a href="/problem/added">추가된 문제</a></li><li><a href="/problem/ranking">문제 순위</a></li><li><a href="/problem/recent/submit">최근 제출된 문제</a></li><li><a href="/problem/recent/accepted">최근 풀린 문제</a></li><li><a href="/change">재채점 및 문제 수정</a></li></ul><div class="thumb-headline"><h2>유저 대회</h2></div><ul class="list-inline simple-list margin-bottom"><li><a href="/category/353">FunctionCup</a></li><li><a href="/category/469">Good Bye, BOJ</a></li><li><a href="/category/476">IDTcup</a></li><li><a href="/category/319">kriiicon</a></li><li><a href="/category/489">Semi-Game Cup</a></li><li><a href="/category/420">구데기컵</a></li><li><a href="/category/358">꼬마컵</a></li><li><a href="/category/421">네블컵</a></li><li><a href="/category/413">소프트콘</a></li><li><a href="/category/776">아니메컵</a></li><li><a href="/category/850">월간 향유회</a></li><li><a href="/category/416">웰노운컵</a></li><li><a href="/category/867">유틸컵</a></li><li><a href="/category/441">키파컵</a></li><li><a href="/category/1045">피갤컵</a></li><li><a href="/category/829">흐즈로컵</a></li><li><a href="/category/detail/1743">HYEA Cup</a></li></ul><div class="thumb-headline"><h2>고등학교 대회</h2></div><ul class="list-inline simple-list margin-bottom"><li><a href="/category/836">NLCS Jeju</a></li><li><a href="/category/364">경기과학고등학교</a></li><li><a href="/category/630">경기북과학고등학교</a></li><li><a href="/category/669">단국대학교부속소프트웨어고등학교</a></li><li><a href="/category/417">대구과학고등학교</a></li><li><a href="/category/1074">대전과학고등학교</a></li><li><a href="/category/435">서울과학고등학교</a></li><li><a href="/category/394">선린인터넷고등학교</a></li><li><a href="/category/610">세종과학예술영재학교</a></li><li><a href="/category/854">송도고등학교</a></li><li><a href="/category/542">한국과학영재학교</a></li><li><a href="/category/1053">한국디지털미디어고등학교</a></li></ul></div><div class="col-sm-3 md-margin-bottom-40"><div class="thumb-headline"><h2>출처</h2></div><ul class="list-unstyled simple-list margin-bottom-10"><li><a href="/category/1">ICPC</a></li><li><a href="/category/211">ICPC Korea Regional</a></li><li><a href="/category/2">Olympiad</a></li><li><a href="/category/55">한국정보올림피아드</a></li><li><a href="/category/57">한국정보올림피아드시․도지역본선</a></li><li><a href="/category/428">카카오 코드 페스티벌</a></li><li><a href="/category/215">Coder's High</a></li><li><a href="/category/485">Open Cup</a></li><li><a href="/category/477">Petrozavodsk Programming Camp</a></li></ul><div class="thumb-headline"><h2>대학교 대회</h2></div><ul class="list-inline simple-list"><li><a href="/category/662">DGIST</a></li><li><a href="/category/320">KAIST</a></li><li><a href="/category/426">POSTECH</a></li><li><a href="/category/461">UNIST</a></li><li><a href="/category/466">가톨릭대학교</a></li><li><a href="/category/518">강원대학교</a></li><li><a href="/category/454">건국대학교</a></li><li><a href="/category/438">경북대학교</a></li><li><a href="/category/409">경인지역 대학 연합</a></li><li><a href="/category/341">고려대학교</a></li><li><a href="/category/434">광주과학기술원</a></li><li><a href="/category/361">국민대학교</a></li><li><a href="/category/671">부산대학교</a></li><li><a href="/category/83">서강대학교</a></li><li><a href="/category/674">서울과학기술대학교</a></li><li><a href="/category/354">서울대학교</a></li><li><a href="/category/709">서울사이버대학교</a></li><li><a href="/category/1004">서울시립대학교</a></li><li><a href="/category/468">성균관대학교</a></li><li><a href="/category/527">숙명여자대학교</a></li><li><a href="/category/352">숭실대학교</a></li><li><a href="/category/408">아주대학교</a></li><li><a href="/category/334">연세대학교</a></li><li><a href="/category/541">연세대학교 미래캠퍼스</a></li><li><a href="/category/467">인천대학교</a></li><li><a href="/category/336">인하대학교</a></li><li><a href="/category/925">전남대학교</a></li><li><a href="/category/347">전북대학교</a></li><li><a href="/category/400">중앙대학교</a></li><li><a href="/category/402">충남대학교</a></li><li><a href="/category/607">한국항공대학교</a></li><li><a href="/category/440">한양대학교</a></li><li><a href="/category/418">한양대학교 ERICA 캠퍼스</a></li><li><a href="/category/363">홍익대학교</a></li><li><a href="/category/318">전국 대학생 프로그래밍 대회 동아리 연합</a></li><li><a href="/category/497">신촌지역 대학생 프로그래밍 대회 동아리 연합</a></li></ul></div><div class="col-sm-3 md-margin-bottom-40"><div class="thumb-headline"><h2><a href="https://help.acmicpc.net">도움말</a></h2></div><ul class="list-unstyled simple-list margin-bottom-10"><li><a href="https://help.acmicpc.net/judge/info">채점 도움말 및 채점 환경</a></li><li><a href="https://help.acmicpc.net/judge/rejudge">재채점 안내</a></li><li><a href="https://help.acmicpc.net/judge/rte">런타임 에러 도움말</a></li><li><a href="https://help.acmicpc.net/problem/style">문제 스타일 안내</a></li><li><a href="https://help.acmicpc.net/language/info">컴파일 또는 실행 옵션, 컴파일러 버전, 언어 도움말</a></li><li><a href="https://help.acmicpc.net/workbook">문제집 도움말</a></li><li><a href="https://help.acmicpc.net/contest/open">대회 개최 안내</a></li><li><a href="https://help.acmicpc.net/problem/add">문제 출제 안내</a></li><li><a href="https://help.acmicpc.net/rule">이용 규칙</a></li><li><a href="https://help.acmicpc.net/stats">통계 도움말</a></li><li><a href="https://help.acmicpc.net/question">질문 도움말</a></li><li><a href="https://help.acmicpc.net/faq">자주묻는 질문</a></li><li><a href="https://help.acmicpc.net/etc/short">짧은 주소 안내</a></li><li><a href="https://help.acmicpc.net/ad">광고 안내</a></li></ul></div></div></div></div><div class="copyright"><div class="container"><div class="row"><div class="col-md-9 col-sm-12"><p>&copy; 2026 All Rights Reserved. <a href="https://startlink.io">주식회사 스타트링크</a>&nbsp;|&nbsp;<a href="/terms">서비스 약관</a>&nbsp;|&nbsp;<a href="/privacy">개인정보 보호</a>&nbsp;|&nbsp;<a href="/terms/payment">결제 이용 약관</a>&nbsp;|&nbsp;<a href="https://help.acmicpc.net">도움말</a>&nbsp;|&nbsp;<a href="https://help.acmicpc.net/ad">광고 문의</a>&nbsp;|&nbsp;<a href="https://github.com/Startlink/update-note/blob/master/boj.md">업데이트 노트</a>&nbsp;|&nbsp;<a href="https://github.com/Startlink/update-note/blob/master/boj-issues.md">이슈</a>&nbsp;|&nbsp;<a href="https://github.com/Startlink/update-note/blob/master/boj-todo.md">TODO</a></p></div><div class="col-md-3 col-sm-12"><ul class="social-icons pull-right"><li><a href="https://www.facebook.com/onlinejudge" data-original-title="Facebook" class="rounded-x social_facebook"></a></li><li><a href="https://startlink.blog" data-original-title="Wordpress" class="rounded-x social_wordpress"></a></li></ul></div></div><div class="row"><div class="col-sm-12"><a href="https://startlink.io" class="hidden-xs"><img src="https://d2gd6pc034wcta.cloudfront.net/logo/startlink-logo-white-only.png" class="pull-right startlink-logo"></a><ul class="list-unstyled simple-list"><li>사업자 등록 번호: 541-88-00682</li><li>대표자명: 최백준</li><li>주소: 서울시 서초구 서초대로74길 29 서초파라곤 412호</li><li>전화번호: 02-521-0487 (이메일로 연락 주세요)</li><li>이메일: <a href="mailto:contacts@startlink.io">contacts@startlink.io</a></li><li>통신판매신고번호: 제 2017-서울서초-2193 호</li></ul></div><div class="col-sm-9"><p id="no-acm-icpc"></p></div><div class="col-sm-3"><p class="pull-right"><a href="/lang?lang=0&next=%2Fproblem%2F33563">한국어</a>&nbsp;|&nbsp;<a href="/lang?lang=1&next=%2Fproblem%2F33563">English (Beta)</a></p></div></div></div></div></div>
+    </div>
+    <div id="fb-root"></div><script>
+window.fbAsyncInit = function() {
+  FB.init({
+    appId      : '322026491226049',
+    cookie     : true,
+    xfbml      : true,
+    version    : 'v2.8'
+});
+};
+(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/ko_KR/sdk.js";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+</script>
+<script>
+!function(f,b,e,v,n,t,s){ if(f.fbq)return;n=f.fbq=function(){ n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments) };if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s) }(window,
+document,'script','//connect.facebook.net/en_US/fbevents.js');
+
+fbq('init', '1670563073163149');
+fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1670563073163149&ev=PageView&noscript=1"/></noscript><script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-migrate/3.0.1/jquery-migrate.min.js"></script><script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.2.0/js/bootstrap.min.js"></script><script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.29.1/moment.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.29.1/locale/ko.js"></script>
+<script type="text/javascript" src="https://ddo7jzca0m2vt.cloudfront.net/unify/js/app.min.js?version=20240112"></script><script type="text/javascript">jQuery(document).ready(function() {App.init(0);});</script><!--[if lt IE 9]><script src="https://ddo7jzca0m2vt.cloudfront.net/unify/plugins/respond.js"></script><script src="https://ddo7jzca0m2vt.cloudfront.net/unify/plugins/html5shiv.js"></script><script src="https://ddo7jzca0m2vt.cloudfront.net/unify/js/plugins/placeholder-IE-fixes.js"></script><![endif]--><script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/pace/1.0.2/pace.min.js"></script><script src="https://js.pusher.com/4.2/pusher.min.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/noty/3.1.4/noty.min.js"></script>
+    <script src="https://ddo7jzca0m2vt.cloudfront.net/js/mathjax.js"></script><script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+    
+
+
+<script type="text/javascript" src="https://ddo7jzca0m2vt.cloudfront.net/js/detectmobilebrowser.js"></script>
+<script type="text/javascript">
+	function update_image_responsive() {
+		if ($.browser.mobile) {
+			$(".problem-text img").each(function(index) {
+				if (!$(this).hasClass('no-responsive')) {
+					$(this).addClass("img-responsive").css('width', 'auto').css('height', 'auto').css('max-width','100%');
+				}
+			});
+			$(".problem-text table[class^='table-'], .problem-text table[class*=' table-']").each(function(index) {
+				$(this).css('margin-left',0);
+				$(this).css('margin-right',0);
+			});
+		}
+	}
+	$(document).ready(function() {
+		update_image_responsive();
+	});
+</script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/2.0.11/clipboard.min.js"></script>
+<script src="https://ddo7jzca0m2vt.cloudfront.net/js/problem/clipboard.js"></script>
+<script type="text/javascript">
+  $(document).ready(function() {
+    $('.show-spoiler').click(function(e) {
+    	e.preventDefault();
+    	$(this).hide();
+    	$('#problem_tags div.spoiler').show();
+    });
+	});
+</script>
+
+</body>
+</html>

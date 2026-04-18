@@ -1,0 +1,1 @@
+Synchronous design. Maximum delay: 28.

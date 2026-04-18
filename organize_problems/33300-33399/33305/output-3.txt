@@ -1,0 +1,6 @@
+OK
+Incorrect solution
+Exchange limit exceeded
+Run-time error
+Exchange limit exceeded
+Run-time error

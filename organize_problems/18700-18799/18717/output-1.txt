@@ -1,0 +1,20 @@
+mov B A
+shl B 63
+shr B 63
+
+mov C A
+shl C 62
+shr C 63
+
+mov D A
+shl D 61
+shr D 63
+
+mov E A
+shl E 60
+shr E 63
+
+mov Z B
+xor Z C
+xor Z D
+xor Z E

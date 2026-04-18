@@ -1,0 +1,578 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>User rpeng - DMOJ: Modern Online Judge</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <meta name="keywords" content="DMOJ,Canadian,online judge,programming,code,contest,CCC,CCC Solutions,CCC 2015,CCO,IOI,JOI,COCI,DMOPC,Canada,Ontario,Toronto,grade,interactive">
+    <meta id="viewport" name="viewport" content="width=device-width, initial-scale=1">
+    <!-- Favicons-->
+    <link rel="icon" type="image/png" href="/favicon-96x96.png" sizes="96x96">
+    <link rel="icon" type="image/svg+xml" href="/icon.svg">
+    <link rel="shortcut icon" href="/favicon.ico">
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+    <link rel="manifest" href="/site.webmanifest">
+    <meta name="theme-color" content="#FFBB33">
+    <meta property="og:site_name" content="DMOJ: Modern Online Judge">
+    <meta property="og:url"
+          content="https://dmoj.ca/user/rpeng">
+<link rel="stylesheet" href="https://static.dmoj.ca/static/cache/css/output.f4de119ea58b.css" type="text/css">    <link rel="canonical"
+          href="https://dmoj.ca/user/rpeng">
+
+<script src="https://static.dmoj.ca/static/cache/js/output.c381b7d93fc7.js"></script>
+        <script>window.user = {};</script>
+
+        <script>window.user && Raven.setUserContext(window.user)</script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-JGLJBRF2NF"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-JGLJBRF2NF');
+</script>
+
+
+    <noscript>
+        <style>
+            #content {
+                margin: 80px auto auto;
+            }
+
+            #navigation {
+                top: 27px;
+            }
+        </style>
+    </noscript>
+</head>
+<body>
+<svg width="0" height="0" style="display: block">
+    <defs>
+        <clipPath id="rating-clip"><circle cx="8" cy="8" r="7"/></clipPath>
+    </defs>
+</svg>
+<nav id="navigation" class="unselectable">
+    <div id="nav-container">
+        <a id="navicon" href="javascript:void(0)"><i class="fa fa-bars"></i></a>
+        <ul id="nav-list">
+            <li class="home-nav-element"><a href="/">    <img src="https://static.dmoj.ca/static/icons/logo.021be82ad4a6.svg" alt="DMOJ" width="160" height="44"
+         onerror="this.src=&quot;https://static.dmoj.ca/static/icons/logo.6ced6e9f0399.png&quot;; this.onerror=null" style="border: none">
+</a></li>
+            <li class="home-nav-element"><span class="nav-divider"></span></li>
+            <li class="home-menu-item"><a href="/" class="nav-home">Home</a></li>
+                <li>
+                    <a href="/problems/" class="nav-problem">
+                        Problems
+                    </a>
+                </li>
+                <li>
+                    <a href="/submissions/" class="nav-submit">
+                        Submissions
+                    </a>
+                </li>
+                <li>
+                    <a href="/users/" class="nav-user active">
+                        Users
+                    </a>
+                </li>
+                <li>
+                    <a href="/contests/" class="nav-contest">
+                        Contests
+                    </a>
+                </li>
+                <li>
+                    <a href="/about/" class="nav-about">
+                        About
+                            <div class="nav-expand">&gt;</div>
+                    </a>
+<ul>                <li>
+                    <a href="/status/" class="nav-status">
+                        Status
+                    </a>
+                </li>
+                <li>
+                    <a href="/tips/" class="nav-tips">
+                        Tips
+                    </a>
+                </li>
+                <li>
+                    <a href="https://docs.dmoj.ca/#/site/api" class="nav-api">
+                        API
+                    </a>
+                </li>
+                <li>
+                    <a href="https://github.com/DMOJ/" class="nav-github">
+                        Github
+                    </a>
+                </li>
+</ul>                </li>
+        </ul>
+
+        <span id="user-links">
+                <span class="anon">
+                    <a href="/accounts/login/?next=/user/rpeng"><b>Log in</b></a>
+                        &nbsp;or&nbsp;
+                        <a href="/accounts/register/"><b>Sign up</b></a>
+                </span>
+        </span>
+    </div>
+    <div id="nav-shadow"></div>
+</nav>
+<div id="page-container">
+    <noscript>
+        <div id="noscript">This site works best with JavaScript enabled.</div>
+    </noscript>
+    <br>
+    <main id="content">
+
+<div class="tabs">
+    <h2>User rpeng</h2>
+    <ul>
+        <li class="tab active"><a href="/user/rpeng"><i class="tab-icon fa fa-info-circle"></i> About</a></li>
+
+        <li class="tab"><a href="/user/rpeng/solved"><i class="tab-icon fa fa-puzzle-piece"></i> Problems</a></li>
+
+    </ul>
+</div>        <div id="content-body">    <div class="user-info-page">
+        <div class="user-sidebar">
+            <img src="https://www.gravatar.com/avatar/ba9ff8d7020f7a1b68fa3eac210e5d57?d=identicon&amp;s=135" class="user-gravatar">
+            <br>
+
+            <div><b>106 problems solved</b></div>
+
+                <div><b class="semibold">Rank by points:</b> #183</div>
+            <div>
+                <b class="semibold">Total points:</b>
+                <span title="548.66">
+                    549
+                </span>
+            </div>
+
+            <br>
+            <div>
+                <a href="/submissions/user/rpeng/">View submissions</a>
+            </div>
+
+                <br>
+                <div><b>2 contests written</b></div>
+                    <div><b class="semibold">Rank by rating:</b> #18</div>
+                <div><b class="semibold">Rating:</b> <span class="rate-group" title="Grandmaster"><svg class="rate-box rate-grandmaster" viewBox="0 0 16 16"><circle cx="8" cy="8" r="7"></circle><path clip-path="url(#rating-clip)"
+                      d="M0 16v-15.89h16 0v16z"></path></svg><span class="rating rate-grandmaster">2996</span></span></div>
+                <div><b class="semibold">Min. rating:</b> <span class="rate-group" title="Grandmaster"><svg class="rate-box rate-grandmaster" viewBox="0 0 16 16"><circle cx="8" cy="8" r="7"></circle><path clip-path="url(#rating-clip)"
+                      d="M0 16v-7.28h16 0v16z"></path></svg><span class="rating rate-grandmaster">2673</span></span></div>
+                <div><b class="semibold">Max rating:</b> <span class="rate-group" title="Grandmaster"><svg class="rate-box rate-grandmaster" viewBox="0 0 16 16"><circle cx="8" cy="8" r="7"></circle><path clip-path="url(#rating-clip)"
+                      d="M0 16v-15.89h16 0v16z"></path></svg><span class="rating rate-grandmaster">2996</span></span></div>
+        </div>
+        <div class="user-content">    <div class="content-description">
+                <p style="margin-top: 0"><b>From</b>
+<a href="/organization/185-996">##996......</a>, <a href="/organization/42-university-of-waterloo">University of Waterloo</a>, <a href="/organization/188-eoi">EOI</a>, <a href="/organization/187-carnegie-mellon-university">Carnegie Mellon University</a>                </p>
+
+            <h4>About</h4>
+                <div><p>mo2ItWN4ZsujlhQwM+xp517ez4WFC3v4pLFkaTNy+rY=</p>
+<p>Working in the silver mining industry for almost three decades.</p>
+<ul>
+<li>2025: 2 former students received silver* medal at the ICPC Shanghai Regional Contests.</li>
+<li>2025: coach for CMU ICPC team that place 2nd at the NAEAST Regional Contest.</li>
+<li>2025: coach for CMU ICPC team that placed 2nd and received silver medal at the ICPC North America Championship Contest, 2 years since the previous occurrence.</li>
+<li>2024: ICPC WF22: coach for CMU team that got 2 first-to-solve prizes and ranked 22nd. Also was head trainer for NAPC22: 2 of teams from there got 2nd place and silver medal last place.</li>
+<li>2023: on-site coach for CMU ICPC team (<span class="rating rate-grandmaster user"><a href="/user/4fecta">4fecta</a></span>, <span class="rating rate-grandmaster user"><a href="/user/BucketPotato">BucketPotato</a></span>, <span class="rating rate-grandmaster user"><a href="/user/kobortor">kobortor</a></span>) that placed 2nd and received silver medal at the ICPC North America Championship Contest.</li>
+<li>2022: on-site coach for CMU ICPC team that received silver medal at the ICPC World Finals.</li>
+<li>2022: coauthor of the second <a href="https://www.quantamagazine.org/researchers-achieve-absurdly-fast-algorithm-for-network-flow-20220608/" rel="nofollow">almost-linear time neg-weighted shortest path paper</a> presented at a conference.</li>
+<li>2021: advisor for GT ICPC team that received silver medal at the North American Championship, for second year in a row.</li>
+<li>2020: advisor for GT ICPC team that placed 2nd (w. silver medal) at the North American Championship.</li>
+<li>2018: silver medal distributor at IOI.</li>
+<li>2018: NAIPC online open division 2nd place team, after tying first place team in problems AND penalty minutes.</li>
+<li>2017: TLE `17 December 2nd place.</li>
+<li>2017: DMOPC `17 December 2nd place.</li>
+<li>2017: silver medal distributor at IOI.</li>
+<li>2015: silver medal distributor at IOI.</li>
+<li>2014: deputy leader for US IOI team, whose total score ranked 2nd overall.</li>
+<li>2013: second <a href="https://www.youtube.com/watch?v=DqxWWpOBq6M" rel="nofollow">input-sparsity time</a> framework for solving regression problems.</li>
+<li>2010: second nearly-linear time <a href="http://theory.epfl.ch/vishnoi/Lxb-Web.pdf" rel="nofollow">Laplacian solver</a>, running time: <span class="inline-math"><img class="tex-image" src="https://static.dmoj.ca/mathoid/4e628c451b1b2661a8521b89cdd29c471f512736/svg" style="vertical-align: -0.671ex; width:8.235ex; height:3.009ex;" alt="m\log^2n"><span class="tex-text" style="display:none">~m\log^2n~</span></span>.</li>
+<li>2009: Croatian Olympiad in Informatics online round 2nd place.</li>
+<li>2008: Waterloo Local Programming Contest, Spring, 2nd place.</li>
+<li>2008: TopCoder SRM 405 2nd place.</li>
+<li>2007: Waterloo Local Programming Contest, Fall 1, 2nd place.</li>
+<li>2006: IOI silver medal.</li>
+<li>2006: USAICO (USACO Camp) silver medal.</li>
+<li>2006: CCC stage 2 2nd place.</li>
+<li>2006: ECOO regional contest 2nd place.</li>
+<li>2006: CMC Euclid contest group 2.</li>
+<li>2005: IMO silver medal.</li>
+<li>2005: ECOO 2nd place.</li>
+<li>2005: CMO 2nd place.</li>
+<li>2005: CCC stage 2 2nd place.</li>
+<li>2004: IOI silver medal.</li>
+<li>2004: ECOO boardwide contest 2nd place.</li>
+<li>2003: ECOO regional contest 2nd place.</li>
+<li>2002: CCC Junior division group 2.</li>
+<li>2001: TDSB chess middle school teams 2nd place.</li>
+<li>2001: CMC Pascal contest 2nd place.</li>
+<li>1999: Jiangsu NOIP elementary school division 2nd place.</li>
+</ul>
+</div>
+
+        <h4 id="submission-activity-header"></h4>
+        <div id="submission-activity" style="display: none;">
+            <div id="submission-activity-actions">
+                <a href="javascript:void(0)" id="prev-year-action">&laquo;</a>
+                &nbsp;<span id="year"></span>&nbsp;
+                <a href="javascript:void(0)" id="next-year-action">&raquo;</a>
+            </div>
+            <div id="submission-activity-display">
+                <table id="submission-activity-table">
+                    <tr id="submission-0">
+                        <th class="submission-date-col info-text">
+                            Sun
+                        </th>
+                    </tr>
+                    <tr id="submission-1">
+                        <th class="submission-date-col info-text">
+                            Mon
+                        </th>
+                    </tr>
+                    <tr id="submission-2">
+                        <th class="submission-date-col info-text">
+                            Tues
+                        </th>
+                    </tr>
+                    <tr id="submission-3">
+                        <th class="submission-date-col info-text">
+                            Wed
+                        </th>
+                    </tr>
+                    <tr id="submission-4">
+                        <th class="submission-date-col info-text">
+                            Thurs
+                        </th>
+                    </tr>
+                    <tr id="submission-5">
+                        <th class="submission-date-col info-text">
+                            Fri
+                        </th>
+                    </tr>
+                    <tr id="submission-6">
+                        <th class="submission-date-col info-text">
+                            Sat
+                        </th>
+                    </tr>
+                </table>
+                <div class="info-bar">
+                    <span id="submission-total-count" class="info-text">
+                    </span>
+                    <table class="info-table">
+                        <tr>
+                            <th class="info-table-text info-text">Less</th>
+                            <td class="activity-0"><div></div></td>
+                            <td class="activity-1"><div></div></td>
+                            <td class="activity-2"><div></div></td>
+                            <td class="activity-3"><div></div></td>
+                            <td class="activity-4"><div></div></td>
+                            <th class="info-table-text info-text">More</th>
+                        <tr>
+                    </table>
+                </div>
+            </div>
+        </div>
+
+            <h4>Rating history</h4>
+            <div id="rating-chart">
+                <canvas></canvas>
+            </div>
+            <div id="rating-tooltip">
+                <div class="contest"></div>
+                <div class="date"></div>
+                <div class="rate-group">
+                    <span class="rate-box"><span></span></span>
+                    <span class="rating"></span>, #<span class="rank"></span>
+                </div>
+            </div>
+    </div>
+</div>
+    </div>
+</div>
+    </main>
+
+
+<script type="text/javascript" src="https://static.dmoj.ca/static/mathjax_config.05b06deb82aa.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/3.2.0/es5/tex-chtml.min.js"></script>
+<script type="text/javascript">
+    MathJax.typesetPromise().then(function () {
+        $('.tex-image').hide();
+        $('.tex-text').show();
+    });
+</script>
+    <script type="text/javascript" src="https://static.dmoj.ca/static/user_profile.a1429590b724.js"></script>
+    <script type="text/javascript">
+        $(function () {
+            window.init_submission_table($, {"2017-03-30": 1, "2017-12-12": 5, "2017-12-13": 7, "2017-12-14": 5, "2017-12-22": 12, "2018-01-03": 52, "2018-01-04": 37, "2018-01-06": 8, "2018-01-26": 1, "2018-05-25": 34, "2018-05-26": 1, "2018-11-21": 5, "2020-02-14": 4, "2020-02-17": 25, "2020-02-18": 30, "2020-02-19": 10, "2020-02-21": 23, "2020-03-02": 1, "2020-03-18": 1, "2020-05-01": 26, "2020-05-27": 10, "2020-05-29": 17, "2020-06-01": 2, "2020-08-25": 2, "2020-12-14": 13, "2020-12-15": 3, "2021-01-13": 7, "2021-01-15": 3, "2021-01-22": 18, "2021-01-28": 6, "2021-01-29": 19, "2021-02-20": 10, "2021-04-02": 3, "2021-04-21": 3, "2021-04-23": 2, "2021-04-27": 5, "2021-06-04": 9, "2021-06-15": 3, "2021-06-16": 6, "2021-06-28": 5, "2021-06-29": 4, "2021-07-12": 4, "2021-07-15": 3, "2021-07-17": 21, "2021-07-28": 29, "2021-07-30": 28, "2021-08-06": 24, "2021-08-07": 44, "2021-08-08": 54, "2021-08-09": 14, "2021-08-10": 16, "2021-08-19": 10, "2021-08-21": 39, "2021-08-22": 18, "2021-08-23": 27, "2021-10-31": 1, "2022-01-24": 1, "2022-03-05": 14, "2022-07-11": 2, "2022-08-19": 27, "2022-09-12": 1, "2022-10-02": 8, "2022-11-22": 8, "2022-11-23": 1, "2022-11-24": 6, "2022-12-13": 11, "2023-01-05": 11, "2023-01-06": 6, "2023-01-10": 2, "2023-01-18": 1, "2023-04-28": 37, "2023-05-01": 4, "2023-05-31": 8, "2023-06-20": 1, "2023-07-31": 3, "2024-12-04": 2, "2020-09-01": 2, "2021-06-17": 9, "2021-08-02": 15, "2021-08-11": 34, "2023-04-29": 1, "2023-08-13": 2, "2021-06-26": 2, "2021-06-27": 5, "2021-07-07": 2, "2021-08-03": 7, "2021-07-27": 9, "2022-11-21": 11, "2022-12-18": 2, "2022-12-27": 2, "2019-09-12": 1, "2019-09-13": 1, "2021-01-30": 2, "2021-04-13": 1, "2021-07-29": 5, "2021-08-05": 1, "2021-08-12": 8, "2021-08-18": 11, "2021-08-25": 6, "2023-01-08": 1, "2023-01-17": 2, "2023-05-21": 2, "2023-06-06": 3, "2023-06-18": 4, "2020-02-20": 1, "2021-02-09": 1, "2021-07-16": 2, "2021-08-01": 2, "2022-04-30": 2, "2022-09-05": 2, "2022-09-09": 4, "2022-09-14": 1, "2022-10-06": 5}, {"min_year": 2017}, "en");
+        });
+    </script>
+
+        <script type="text/javascript" src="https://static.dmoj.ca/static/libs/chart.js/Chart.cb8360dfd5c5.js"></script>
+        <script type="text/javascript">
+            var rating_history = [{"label": "TLE '17 December Contest", "rating": 2996, "ranking": 2, "link": "/contest/tle17c4/ranking/#!rpeng", "timestamp": 1514048400000.0, "date": "Dec 23, 2017, 12:00", "class": "rate-grandmaster", "height": "0.993em"}, {"label": "DMOPC '17 December Contest", "rating": 2673, "ranking": 2, "link": "/contest/dmopc17c3/ranking/#!rpeng", "timestamp": 1513184400000.0, "date": "Dec 13, 2017, 12:00", "class": "rate-grandmaster", "height": "0.455em"}];
+
+            $.each(rating_history, function (index, item) {
+                item.x = new Date(item.timestamp);
+                item.y = item.rating;
+            });
+
+            $(function () {
+                var $canvas = $('#rating-chart').find('canvas');
+                var ctx = $canvas.get(0).getContext('2d');
+
+                var getItem = function (index) {
+                    return rating_history[index];
+                };
+                var ratings = rating_history.map(function (x) {
+                    return x.rating;
+                });
+
+                var originalDraw = Chart.controllers.scatter.prototype.draw;
+                Chart.helpers.extend(Chart.controllers.scatter.prototype, {
+                    draw: function () {
+                        var chart = this.chart;
+                        var yHighlight = chart.config.options.yHighlight;
+
+                        if (yHighlight != null) {
+                            var ctx = chart.chart.ctx;
+                            var xaxis = chart.scales['x-axis-1'];
+                            var yaxis = chart.scales['y-axis-1'];
+
+                            ctx.save();
+                            yHighlight.forEach(range => {
+                                var yRangeBeginPixel = yaxis.getPixelForValue(range.begin);
+                                var yRangeEndPixel = yaxis.getPixelForValue(range.end);
+
+                                if (range.begin >= yaxis.end || range.end <= yaxis.begin) {
+                                    return;
+                                }
+
+                                yRangeEndPixel = Math.max(yaxis.top + 1, yRangeEndPixel);
+                                yRangeBeginPixel = Math.min(yaxis.bottom - 1, yRangeBeginPixel);
+
+                                if (yRangeBeginPixel < yRangeEndPixel) {
+                                    return;
+                                }
+
+                                ctx.fillStyle = range.color;
+                                ctx.fillRect(
+                                    xaxis.left + 1,
+                                    yRangeEndPixel,
+                                    xaxis.right - xaxis.left,
+                                    yRangeBeginPixel - yRangeEndPixel,
+                                );
+                            });
+                            ctx.restore();
+                        }
+                        originalDraw.apply(this, arguments);
+                    }
+                });
+
+                window.rating_chart = new Chart(ctx, {
+                    type: 'scatter',
+                    data: {
+                        datasets: [{
+                            label: 'rating',
+                            backgroundColor: 'rgb(0, 0, 0, 0)',
+                            borderColor: '#A31515',
+                            pointBackgroundColor: '#FFF',
+                            pointHoverBackgroundColor: '#A31515',
+                            pointRadius: 5,
+                            pointHoverRadius: 5,
+                            showLine: true,
+                            data: rating_history,
+                        }]
+                    },
+                    options: {
+                        responsive: true,
+                        maintainAspectRatio: false,
+                        elements: {
+                            line: {
+                                tension: 0,
+                            },
+                        },
+                        legend: {
+                            display: false,
+                        },
+                        layout: {
+                            padding: {
+                                right: 10,
+                            },
+                        },
+                        scales: {
+                            xAxes: [{
+                                type: 'time',
+                                distribution: 'linear',
+                            }],
+                            yAxes: [{
+                                ticks: {
+                                    precision: 0,
+                                    suggestedMin: Math.max(0, Math.min.apply(null, ratings) - 50),
+                                    suggestedMax: Math.max.apply(null, ratings) + 50,
+                                },
+                            }],
+                        },
+                        tooltips: {
+                            enabled: false,
+                            custom: function (tooltipModel) {
+                                var $tooltip = $('#rating-tooltip');
+
+                                if (tooltipModel.opacity == 0) {
+                                    $tooltip.hide();
+                                    return;
+                                }
+
+                                var element = tooltipModel.dataPoints[0]
+                                var item = getItem(element.index);
+
+                                $tooltip.find('.contest').text(item.label);
+                                $tooltip.find('.date').text(item.date);
+                                $tooltip.find('.rate-box').attr('class', 'rate-box ' + item.class)
+                                        .find('span').css('height', item.height);
+                                $tooltip.find('.rating').text(item.rating).attr('class', 'rating ' + item.class);
+                                $tooltip.find('.rank').text(item.ranking);
+
+                                $tooltip.removeClass('above below');
+                                $tooltip.addClass(element.y < $tooltip.height() ? 'below' : 'above');
+
+                                var position = $canvas.offset();
+                                var container = $('#page-container').offset();
+                                $tooltip.css({
+                                    left: position.left - container.left + element.x + $tooltip.width() / 2,
+                                    top: position.top - container.top + element.y - $tooltip.height() - 13,
+                                    fontFamily: tooltipModel._bodyFontFamily,
+                                    fontSize: tooltipModel._bodyFontSize,
+                                    fontStyle: tooltipModel._bodyFontStyle,
+                                }).show();
+                            },
+                        },
+                        yHighlight: [
+                            {
+                                begin: 0,
+                                end: 1000,
+                                color: 'rgb(153, 153, 153, 0.43)'
+                            },
+                            {
+                                begin: 1000,
+                                end: 1300,
+                                color: 'rgb(0, 169, 0, 0.4)'
+                            },
+                            {
+                                begin: 1300,
+                                end: 1600,
+                                color: 'rgb(0, 0, 255, 0.4)'
+                            },
+                            {
+                                begin: 1600,
+                                end: 1900,
+                                color: 'rgb(128, 0, 128, 0.37)'
+                            },
+                            {
+                                begin: 1900,
+                                end: 2400,
+                                color: 'rgb(255, 177, 0, 0.4)'
+                            },
+                            {
+                                begin: 2400,
+                                end: 3000,
+                                color: 'rgb(238, 0, 0, 0.4)'
+                            },
+                            {
+                                begin: 3000,
+                                end: 4000,
+                                color: 'rgb(160, 0, 0, 0.6)'
+                            }
+                        ],
+                    }
+                });
+
+                $canvas.click(function (evt) {
+                    var elements = window.rating_chart.getElementsAtEvent(evt);
+                    if (elements.length > 0) {
+                        var item = getItem(elements[0]._index);
+                        window.location.href = item.link;
+                    }
+                });
+
+                $canvas.mousemove(function (evt) {
+                    var elements = window.rating_chart.getElementsAtEvent(evt);
+                    if (elements.length > 0) {
+                        $canvas.css('cursor', 'pointer');
+                    } else {
+                        $canvas.css('cursor', '');
+                    }
+                });
+            });
+        </script>
+
+    <footer>
+        <span id="footer-content">
+            <br>
+                <a style="color: rgb(128, 128, 128)" href="//github.com/DMOJ/">fork us on <span style="font-weight:bold">Github</span></a> <!--| <a style="color: rgb(128, 128, 128); font-weight:bold" href="http://dmojsites2fpbeve.onion">onion</a> (<a style="color: rgb(128, 128, 128); font-weight:bold" href="http://dmojsiteox2gl6n5sj6aslbchjma3gyvon2rdawb625p4f2dd434i6ad.onion">v3</a>)--> | <a style="color: rgb(128, 128, 128);" href="//www.facebook.com/dmoj.ca">like us on <span style="font-weight: bold;">Facebook</span></a> | <a style="color: rgb(128, 128, 128)" href="https://translate.dmoj.ca/">help us <span style="font-weight: bold;">translate</span></a> | <a style="color: rgb(128, 128, 128)" href="https://dmoj.ca/tos/">terms of service</a> |
+            <form action="/i18n/setlang/" method="post" style="display: inline">
+<input type='hidden' name='csrfmiddlewaretoken' value='ICZYzAB3pKe6YEhxmuJPtfoFHAhn9Vstt6SCaam07dDAsqEx3XFyxksYAG57sKi9' />            <input name="next" type="hidden" value="/user/rpeng">
+            <select name="language" onchange="form.submit()" style="height: 1.5em">
+                    <option value="ca" >
+                        català (ca)
+                    </option>
+                    <option value="de" >
+                        Deutsch (de)
+                    </option>
+                    <option value="el" >
+                        Ελληνικά (el)
+                    </option>
+                    <option value="en" selected>
+                        English (en)
+                    </option>
+                    <option value="es" >
+                        español (es)
+                    </option>
+                    <option value="fr" >
+                        français (fr)
+                    </option>
+                    <option value="hr" >
+                        Hrvatski (hr)
+                    </option>
+                    <option value="hu" >
+                        Magyar (hu)
+                    </option>
+                    <option value="ja" >
+                        日本語 (ja)
+                    </option>
+                    <option value="kk" >
+                        Қазақ (kk)
+                    </option>
+                    <option value="ko" >
+                        한국어 (ko)
+                    </option>
+                    <option value="pt" >
+                        Português (pt)
+                    </option>
+                    <option value="ro" >
+                        Română (ro)
+                    </option>
+                    <option value="ru" >
+                        Русский (ru)
+                    </option>
+                    <option value="sr-latn" >
+                        srpski (latinica) (sr-latn)
+                    </option>
+                    <option value="tr" >
+                        Türkçe (tr)
+                    </option>
+                    <option value="vi" >
+                        Tiếng Việt (vi)
+                    </option>
+                    <option value="zh-hans" >
+                        简体中文 (zh-hans)
+                    </option>
+                    <option value="zh-hant" >
+                        繁體中文 (zh-hant)
+                    </option>
+            </select>
+          </form>
+        </span>
+    </footer>
+</div>
+<script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'9edd19117c622f3c',t:'MTc3NjQ0NjQwMA=='};var a=document.createElement('script');a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
+</html>

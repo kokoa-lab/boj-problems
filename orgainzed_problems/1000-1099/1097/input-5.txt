@@ -1,6 +1,0 @@
-4
-ABC
-AB
-ABC
-CA
-3

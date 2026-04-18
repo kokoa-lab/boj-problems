@@ -1,0 +1,24 @@
+16
+Bart 1
+Bart 0
+Bart 1
+Lisa 0
+Lisa 1
+Lisa 1
+Bart 1
+Bart 0
+Bart 1
+Lisa 0
+Lisa 1
+Lisa 1
+Lisa 0
+Lisa 1
+Lisa 0
+Lisa 0
+2
+Lisa 1
+Bart 1
+2
+Lisa 0
+Bart 1
+0

@@ -1,0 +1,11 @@
+.abc....abc..
+aabcc..aabcc.
+..baaacccb...
+...dddeee....
+.abfffgggbc..
+aab+a..aabcc.
+..baa...abaaa
+...ccc....ddd
+.abddd..abccc
+aabee..aabee.
+..be.....be..

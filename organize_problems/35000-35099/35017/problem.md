@@ -1,0 +1,31 @@
+---
+title: Wanted: Second Sock
+special_judge: false
+time_limit: 1 초
+memory_limit: 2048 MB
+submissions: 5
+accepted: 4
+solved_users: 3
+acceptance_rate: 100.000%
+collected_at: 2026-04-17T20:53:59.860493+00:00
+---
+
+## 문제
+
+Nikita is preparing for a competition. The most challenging part of this task is to find a pair of matching socks. In the drawer, there are $p$ different pairs of socks, as well as $m$ single socks whose pairs he has lost long ago. Nikita takes socks one by one until he finds two matching socks among those he has pulled out. What is the expected number of socks Nikita will pull out?
+
+Calculate this expected value modulo the prime number $10^9 + 7$. Specifically, if the answer is a rational number $x / y$, you need to output a number $a$ such that $0 \le a < 10^9 + 7$ and $a \cdot y = x \pmod{10^9 + 7}$.
+
+## 입력
+
+The first line contains an integer $t$: the number of test cases ($1 \le t \le 10^4$). The following lines describe the test cases.
+
+Each test case is given on a separate line containing two integers $p$ and $m$: the number of pairs of socks and the number of single socks in the drawer ($1 \le p \le 10^6$; $0 \le m \le 10^6$).
+
+## 출력
+
+For each test case, output a line containing a single integer: the answer to the problem.
+
+## 힌트
+
+In the first test case, the expected value is $8 / 3$, which equals $666\,666\,674$ modulo $10^9 + 7$.

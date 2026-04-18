@@ -1,0 +1,2 @@
+If not found: move x; else move -x
+If found: move x; else move -x

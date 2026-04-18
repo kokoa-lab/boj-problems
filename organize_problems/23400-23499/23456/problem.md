@@ -1,0 +1,68 @@
+---
+title: Game
+special_judge: true
+time_limit: 2 초 (추가 시간 없음)
+memory_limit: 256 MB
+submissions: 2
+accepted: 1
+solved_users: 1
+acceptance_rate: 100.000%
+collected_at: 2026-04-17T16:48:39.547380+00:00
+---
+
+## 문제
+
+Alice and Bob are playing *Luzhanqi*. Each of them has a *permutation* of the following $24$ pieces:
+
+* one Field Marshal, order 9
+* one General, order 8
+* two Major Generals, order 7
+* two Brigadier Generals, order 6
+* two Colonels, order 5
+* two Majors, order 4
+* three Captains, order 3
+* three Lieutenants, order 2
+* three Engineers, order 1
+* two Bombs
+* three Landmines
+
+To determine the winner, we repeat the following process until someone wins the game or the game ends in a draw:
+
+* If both permutations are empty, the game ends in a draw.
+* If Alice's permutation is empty, Bob wins the game.
+* If Bob's permutation is empty, Alice wins the game.
+* Let the first piece in Alice's permutation be $A$ and the first piece in Bob's permutation be $B$. The following is the outcome of the battle between $A$ and $B$:
+  1. If $A$ and $B$ are the same types of pieces, or if one of $A$ and $B$ is Bomb, they are both removed.
+  2. Otherwise, if one of $A$ and $B$ is Landmine and the other is Engineer, the Landmine is removed and the Engineer stays alive.
+  3. Otherwise, if one of $A$ and $B$ is Landmine and the other's order is greater than 1, the Landmine stays alive and the other one is removed.
+  4. Otherwise, we compare the order of $A$ and $B$ and the piece with smaller order is removed.
+
+Bob knows Alice's permutation in advance and can decide his permutation based on that information. After Bob deciding his permutation, Alice can swap two pieces in Bob's permutation. Can Bob construct a permutation that wins against Alice's permutation no matter which pair of pieces she swaps?
+
+## 입력
+
+The first line contains one integer $T$ denoting the number of test cases ($1\le T\le 100$).
+
+Each of the next $T$ lines contains $24$ integers denoting Alice's permutation:
+
+* $40$ represents Field Marshal
+* $39$ represents General
+* $38$ represents Major Generals
+* $37$ represents Brigadier Generals
+* $36$ represents Colonels
+* $35$ represents Majors
+* $34$ represents Captains
+* $33$ represents Lieutenants
+* $32$ represents Engineers
+* $31$ represents Landmines
+* $30$ represents Bombs
+
+It is guaranteed that all permutations are chosen uniformly at random and contains exactly the $24$ pieces described in the statement.
+
+## 출력
+
+Output one line for each test case.
+
+If Bob cannot construct the required permutation, print $-1$.
+
+Otherwise, print $24$ integers representing Bob's permutation in the same format as in the input. If there are multiple solutions, print any. Bob's permutation must contain exactly the $24$ pieces described in the statement.

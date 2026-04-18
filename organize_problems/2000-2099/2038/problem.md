@@ -1,0 +1,27 @@
+---
+title: 골롱 수열
+special_judge: false
+time_limit: 2 초
+memory_limit: 128 MB
+submissions: 1536
+accepted: 676
+solved_users: 525
+acceptance_rate: 45.652%
+collected_at: 2026-04-17T10:37:35.750237+00:00
+---
+
+## 문제
+
+Golomb 수열이란 모든 k에 대해 k가 수열상에서 f(k)번 등장하는 단조증가 수열이다. 단조증가 수열이란 k값이 증가함에 따라 f(k)값이 감소하지 않는 수열을 말한다. 여기서 k와 f(k)는 모두 자연수이다.
+
+골롱 수열은 유일하게 결정될 수밖에 없다. 잘 생각해 보시길 ..
+
+n이 주어졌을 때 f(n)을 구하는 프로그램을 작성하시오.
+
+## 입력
+
+첫째 줄에 n이 주어진다.
+
+## 출력
+
+첫째 줄에 f(n)을 출력한다.

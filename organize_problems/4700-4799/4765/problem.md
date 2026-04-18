@@ -1,0 +1,62 @@
+---
+title: Balanced Budget Initiative
+special_judge: false
+time_limit: 1 초
+memory_limit: 128 MB
+submissions: 1
+accepted: 1
+solved_users: 1
+acceptance_rate: 100.000%
+collected_at: 2026-04-17T11:08:21.836811+00:00
+---
+
+## 문제
+
+After bouncing 10 checks last month, you feel compelled to do something about your financial management. Your bank has started providing you with your statement online, and you believe that this is the opportunity to get your account in order by making sure you have the money to cover the checks you write.
+
+Your bank provides you with a monthly statement that lists your starting balance, each transaction, and final balance. Your task is to compare the statement with the transactions from your checkbook register over the same time interval. You will identify transactions that appear in only the statement or register, as well as incorrect amounts recorded in the register (naturally the bank’s statement is always correct) and math mistakes in your register.
+
+## 입력
+
+The bank statement appears first. It begins and ends with lines of the form:
+
+balance <X>
+
+with the first line indicating the starting balance and the second line indicating the final balance. In between the balances is the list of transactions, one per line, in the form:
+
+{check|deposit} <N> <X>
+
+Where N is the integer check or deposit number (the same check or deposit number will only appear once, although the same number can apply to both a check and deposit), and X is the amount of the transaction.
+
+Following the final balance the register entries appear. The first line of the register is the starting balance
+
+<X>
+
+Following are pairs of lines, with the next transaction appearing followed by the balance you calculated by hand after entering the transaction.
+
+{check | deposit} <N> <X>  
+<X>
+
+The pairs repeat until the end of the input file.
+
+For all input numbers and intermediates, |X| < 1000000. All dollar amounts are given to the penny (0.01).
+
+## 출력
+
+For ease correcting your register, the output for each transaction occurs in the order it appears in the register. Each register entry receives exactly one line in the output.
+
+If the register entry is entirely correct, meaning that it is found in the statement for the same amount, the math in the register is correct, and it is not a duplicate entry for a transaction previously found in the register, then output the line
+
+{check|deposit} <N> is correct
+
+However, if the transaction is not entirely correct, you will output a single line beginning with the transaction type and number, and one or more of the following mistakes, whitespace separated, in this order:
+
+* is not in statement the transaction type and number do not occur in the statement
+* repeated transaction the transaction has occurred previously in the register
+* incorrect amount the register amount is different than the statement amount
+* math uses correct value the math uses the value from the statement, although the actual transaction amount is recorded incorrectly in the register. This can only appear if incorrect amount is also displayed.
+* math mistake the register balance after the transaction matches neither the statement amount for the transaction, nor the register entry for the transaction (if different than the statement amount)
+
+Following the line for the final entry in the register, a listing of all transactions missing from the register will be printed. These items may be printed in any order, one per line:
+
+missed {check|deposit} <N>

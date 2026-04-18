@@ -1,0 +1,20 @@
+1
+    U U U W W
+   U F F F F W
+  W F H H H F W
+ W F H F F H F W
+W F H F F F F F W
+ W F H F F H H H
+  W F H M M M M
+   W F F F F F
+    W W W W W
+3 3
+G E5
+M D5
+S F4
+G F8
+M A8
+S C4
+2
+E5 E9
+D5 F8

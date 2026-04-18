@@ -1,0 +1,6 @@
+5
+4 P R R R
+12 P P R R P P R P R P P R
+13 P P R R P P R P R P P R L
+12 R L L P L P L P L C C L
+12 R L L P L P L P L C C R

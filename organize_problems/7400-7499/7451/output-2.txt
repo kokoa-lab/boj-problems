@@ -1,0 +1,14 @@
+The launderer gives ticket 0.
+The launderer gives ticket 3.
+The launderer gives back batch 0.
+0 is freed.
+1 is freed.
+2 is freed.
+The launderer gives ticket 5.
+No space left, please come back later.
+The launderer gives back batch 5.
+6 is freed.
+0 is freed.
+1 is freed.
+2 is freed.
+The launderer gives ticket 5.

@@ -1,0 +1,7 @@
+1 3 S
+RSR
+3 3 R
+RSR
+RSS
+SRR
+0 0 #

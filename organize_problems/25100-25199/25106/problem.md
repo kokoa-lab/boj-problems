@@ -1,0 +1,43 @@
+---
+title: Fishing
+special_judge: false
+time_limit: 10 초 (추가 시간 없음)
+memory_limit: 1024 MB
+submissions: 63
+accepted: 43
+solved_users: 34
+acceptance_rate: 64.151%
+collected_at: 2026-04-17T17:20:49.393185+00:00
+---
+
+## 문제
+
+There is a small village situated on the coast of the Adriatic Sea. The fishermen map the sea as a grid of $N × M$ cells such that the first row is adjacent to the coast and the last row is the furthest away. They track the movement of fish and other items floating in the sea. The sea is mostly empty, but there are $K$ grid cells of interest. The location of each such point is denoted by row $R\_i$ and column $C\_i$. The fishermen estimate that their catch from fishing in the $i$-th cell is going to be worth $V\_i$. Note that $V\_i$ can be zero or negative if the corresponding area is predominantly occupied by undesired items. All other cells are considered to have a value of $0$.
+
+Every day, the local council approves a rectangular fishing area that includes columns from $X$ to $Y$ and extends $H$ rows from the shore into the sea. To fish in the selected area, the fishermen will prepare a fishing net that is exactly $H$ units long. Although the net has a fixed length, it can be rolled out to an arbitrary width $W$ that doesn’t exceed $Y - X + 1$. Based on their information about the sea, they will drop the net somewhere within the approved fishing area to maximize the catch defined as the sum of cell values covered by the net.
+
+The fishermen aim to choose the optimal fishing location every day. Write a program that will find the best value of their catch for the approved fishing areas for the next $Q$ days. You may assume that the cell values are constant; they are not depleted from fishing on previous days.
+
+## 입력
+
+The first line contains the number of rows $N$, the number of columns $M$ and the number of non-empty cells $K$. These cells are described in the following $K$ lines with their row $R\_i$, column $C\_i$ and value $V\_i$, separated by a space. Rows are numbered from $1$ to $N$ and columns from $1$ to $M$. All values $V\_i$ are integers.
+
+The next line contains the number of queries $Q$. The $j$-th query is described by three integers $A'\_j$, $X'\_j$ and $Y'\_j$. To ensure that your solution answers queries in the given order, the queries are given in an encoded form. The actual query can be computed as $$H\_j = H'\_j ⊕ A\_{j−3}\text{,}$$ $$X\_j = X'\_j ⊕ A\_{j−2}\text{,}$$ $$Y\_j = Y'\_j ⊕ A\_{j−1}\text{,}$$ where $A\_j$ denotes the answer to the $j$-th query (or $0$ if $j ≤ 0$) and $⊕$ denotes a bitwise xor operation. Your program should find the region with the maximum catch value that spans the first $H\_j$ rows and some subrange of columns from $X\_j$ to $Y\_j$.
+
+## 출력
+
+For each query, output a single line with the maximum value of the catch. Note that the fishermen can always choose to keep an empty net with the value of $0$.
+
+## 힌트
+
+The decoded list of queries:
+
+```
+
+5 1 5
+10 1 7
+7 6 6
+8 2 6
+4 1 6
+3 1 2
+```

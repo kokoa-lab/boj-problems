@@ -1,0 +1,7 @@
+Race 1
+Chris: 230
+Karl: 180
+Tania: 140
+Race 2
+Hanny: 20
+Lizzie: 20

@@ -1,0 +1,5 @@
+axbbc
+3
+abc
+a*c
+a*b*c

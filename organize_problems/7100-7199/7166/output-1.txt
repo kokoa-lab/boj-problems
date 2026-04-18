@@ -1,0 +1,5 @@
+init(2, 3)
+add(1)
+find(0) = 1
+find(1) = 1
+done()

@@ -1,0 +1,18 @@
+B S W
+B Y R W B B
+W B B Y Y R
+R B Y Y B W
+B Y R W B B
+W B B Y Y R
+B B W R Y Y
+R B Y Y B W
+B W B Y R Y
+T S E
+B Y R W B B
+W B B Y Y R
+R B Y Y B W
+B Y R W B B
+W B B Y Y R
+B B W R Y Y
+R B Y Y B W
+B W B Y R Y

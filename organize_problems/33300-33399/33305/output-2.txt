@@ -1,0 +1,14 @@
+OK
+Wrong answer
+Unexpected termination
+Protocol violation
+Protocol violation
+Memory limit exceeded
+Memory limit exceeded
+Protocol violation
+Protocol violation
+Memory limit exceeded
+Protocol violation
+OK
+Protocol violation
+Unexpected termination

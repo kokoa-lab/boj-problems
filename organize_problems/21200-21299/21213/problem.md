@@ -1,0 +1,31 @@
+---
+title: Mentors
+special_judge: false
+time_limit: 3 초
+memory_limit: 512 MB
+submissions: 112
+accepted: 56
+solved_users: 50
+acceptance_rate: 54.945%
+collected_at: 2026-04-17T15:50:33.710376+00:00
+---
+
+## 문제
+
+The Happy Tree Friends have gathered for their annual meeting, in which they take their most important decisions for the year to come. This year, they will set up a mentoring program to help each other take better care of their loved ones. This programme follows a tree-like hierarchical structure as follows.
+
+The $N$ members of the programme are ranked from $1$ to $N$ (each rank is assigned once), by increasing seniority. For the mentorship programme to be efficient, a person ranked $A$ can mentor a person ranked $B$ only if $A > B$. The most senior Happy Tree Friend can have no mentor, but everybody else has a unique mentor. Conversely, everybody is allowed to mentor from zero to two people.
+
+However, Mr. Pickles, who was assigned the rank $R$, plans to take a sabbatical this year. Thus, he will not be able to mentor anybody, and the Happy Tree Friends should choose their hierarchical structure among those trees in which the node labelled $R$ is a leaf.
+
+Aiming to help his friends to choose such a tree, Mr. Pickles decides to first count how many trees would match his constraint. Unfortunately, he stopped school early, and thus did not learn how to manipulate integers of arbitrary size. Instead, he counts modulo $M$, where $M$ is a fixed positive integer: this is already enough for most purposes in life.
+
+What is the number $L$ that Mr. Pickles will obtain after counting all suitable trees?
+
+## 입력
+
+The input consists of a single line, with three space-separated integers: $R$, $N$, $M$, in that order.
+
+## 출력
+
+The output should contain a single line with the single integer $L$, which is the number of tree-like hierarchical structures that would match Mr. Pickles' constraints, counted modulo $M$.

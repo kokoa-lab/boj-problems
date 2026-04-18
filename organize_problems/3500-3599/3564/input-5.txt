@@ -1,0 +1,7 @@
+3 3
+1 SET A 0 1
+2 CS 2
+3 NCS 3
+1 TEST A 1 1
+2 CS 2
+3 NCS 3

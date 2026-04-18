@@ -1,0 +1,43 @@
+---
+title: Flood Fill
+special_judge: false
+time_limit: 2 초
+memory_limit: 1024 MB
+submissions: 110
+accepted: 34
+solved_users: 29
+acceptance_rate: 63.043%
+collected_at: 2026-04-17T19:22:17.939966+00:00
+---
+
+## 문제
+
+Given are two black and white $N \times M$ images $A$ and $B$.
+
+The "flood fill" tool works as follows: you choose any cell $(x, y)$, locate its connected component and flip the colors of all the cells in the component (if the cell was black, it becomes white, and if it was white, it becomes black). The connected component of the cell is the set of cells you can reach by going up/down/left/right without changing color.
+
+You can apply the "flood fill" tool to image $A$ any number of times. What is the minimum number of cells in which $A$ can be different from $B$ after some sequence of operations?
+
+## 입력
+
+The first line of input contains two integers $N$ and $M$ ($1 \le N, M \le 100$) --- the dimensions of the images.
+
+Each of the next $N$ lines contains a binary string of length $M$, describing the corresponding row of the image $A$.
+
+Each of the next $N$ lines contains a binary string of length $M$, describing the corresponding row of the image $B$.
+
+Here `0` corresponds to the cell colored white, `1` corresponds to the cell colored black.
+
+## 출력
+
+Output a single integer --- the minimum possible number of cells in which $A$ can be different from $B$ after some sequence of operations.
+
+## 힌트
+
+In the first example, you can apply the tool to the middle cell twice. This way, two images will differ only in $1$ cell.
+
+![](./001_preview)
+
+In the second example, you can just make the entire image black. This way, two images will differ in $7$ cells.
+
+![](./002_preview)

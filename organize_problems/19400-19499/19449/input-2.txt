@@ -1,0 +1,9 @@
+4 6
+aaaaaa
+abbaaa
+aaacba
+aaabba
+3
+a 0 1
+b 3 2
+c 12 5

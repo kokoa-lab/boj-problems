@@ -1,0 +1,41 @@
+---
+title: Pinned Files
+special_judge: false
+time_limit: 1 초 (추가 시간 없음)
+memory_limit: 1024 MB
+submissions: 23
+accepted: 12
+solved_users: 11
+acceptance_rate: 68.750%
+collected_at: 2026-04-17T17:11:10.980718+00:00
+---
+
+## 문제
+
+You recently discovered a new feature in Visual Studio --- pinned files! You have no idea what pinned files are good for --- uou could hear a pin drop when you asked your friends about it --- but that doesn't stop you from pinning and unpinning files all day and night.
+
+Visual Studio maintains a list of the files you currently have open. The list starts with the pinned files and is followed by the unpinned files. Changing the order of the list is done not by click-and-drag operations but by toggling whether a file is pinned or not. If a pinned file is unpinned it is removed from the list and then added before the first unpinned file. If an unpinned file is pinned it is removed and then added after the last pinned file.
+
+Consider the following example with four files labeled $1$ through $4$. The starting configuration is $2, 1, 4, 3$ and files $1$ and $2$ are pinned. If the desired ending configuration is $4, 2, 3, 1$ with only file $4$ pinned, it can be accomplished with the following five toggle operations:
+
+```
+
+2∗ 1∗ 4  3  Initial State (∗ represents a pinned file)
+2∗ 1∗ 3∗ 4  Pin file 3
+2∗ 1∗ 3∗ 4∗ Pin file 4
+2∗ 3∗ 4∗ 1  Unpin file 1
+2∗ 4∗ 3  1  Unpin file 3
+4∗ 2  3  1  Unpin file 2
+```
+
+These five operations are the minimum number to get from the starting configuration to the ending configuration.
+
+Given the initial list of files, determine the minimum number of moves to reach a different ordering of the list. The files are conveniently numbered $1$ to $n$.
+
+## 입력
+
+Input consists of four lines. The first line contains two non-negative integers, $p$, the number of pinned files, and $u$, the number of unpinned files. The total number of files $n=p+u$ satisfies $1\le n\le 100$. The next line consists of $n$ numbers representing the list. The first $p$ numbers will be pinned files and the next $u$ numbers will be unpinned files. The next two lines will be the ending configuration in the same format as the first two lines. The number of files will be the same for the starting and ending configurations. The numbers $1$ through $n$ will appear once in each file list.
+
+## 출력
+
+Output the minimum number of moves to get from the starting configuration to the ending configuration.

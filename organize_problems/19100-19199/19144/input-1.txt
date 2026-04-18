@@ -1,0 +1,12 @@
+3 7
+No
+Yes
+No
+Yes
+Yes
+Yes
+No
+No
+Yes
+Yes
+Yes

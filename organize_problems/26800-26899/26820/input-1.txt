@@ -1,0 +1,7 @@
+6 5
+3 2 4 2 9 1
+najtaniej 2 5 3
+najszybciej 3 4 3
+najtaniej 1 6 9
+zmiana 4 10
+najtaniej 1 6 9

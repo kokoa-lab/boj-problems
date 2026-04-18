@@ -1,0 +1,29 @@
+---
+title: Cubic Rube
+special_judge: false
+time_limit: 1 초
+memory_limit: 128 MB
+submissions: 12
+accepted: 2
+solved_users: 2
+acceptance_rate: 40.000%
+collected_at: 2026-04-17T11:04:09.064531+00:00
+---
+
+## 문제
+
+Working in a Rubik's Cube factory has always been your dream job, but you're a clumsy rube. Now you're trying to invent a new variation, a 5x5x5 Rubik's Cube! You just walked into the research lab with a working prototype and accidentally dropped it, breaking it into 2 pieces. You have one piece in your left hand and are trying to find the other. Unfortunately, the floor is littered with parts from previous attempts, making it difficult to find the missing piece. Luckily, you know how to program...
+
+Given two solids composed of unit cubes, determine if they can be fit together to form a solid 5x5x5 cube.
+
+## 입력
+
+The first line contains a single integer *n* indicating the number of data sets. The following lines contain the data sets.
+
+Each data set will show side-by-side top-down views of each of the solids as a 5x5 array of numbers 0-9. Each number represents the height of the solid at that point (the number of unit cubes stacked at that point). If the height is 0, there is no solid present at that point. This is similar to providing a topographical map of each solid, and it is valid to assume that there are no gaps "under" any part of a solid that cannot be seen.
+
+Note that each solid will be connected (i.e., a single piece) and may require translations (not just rotations) to join with a compatible solid.
+
+## 출력
+
+For each data set, print, "Yes" if a solid 5x5x5 cube can be formed by fitting together the two halves, and print, "No" if a cube cannot be formed. Each word should appear on its own line.

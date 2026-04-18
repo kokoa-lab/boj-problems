@@ -1,0 +1,29 @@
+---
+title: Lying about Your Age
+special_judge: false
+time_limit: 8 초 (추가 시간 없음)
+memory_limit: 512 MB
+submissions: 13
+accepted: 4
+solved_users: 4
+acceptance_rate: 36.364%
+collected_at: 2026-04-17T13:20:21.545448+00:00
+---
+
+## 문제
+
+You have moved to a new town. As starting a new life, you have made up your mind to do one thing: lying about your age. Since no person in this town knows your history, you don’t have to worry about immediate exposure. Also, in order to ease your conscience somewhat, you have decided to claim ages that represent your real ages when interpreted as the base-M numbers (2 ≤ M ≤ 16). People will misunderstand your age as they interpret the claimed age as a decimal number (i.e. of the base 10).
+
+Needless to say, you don’t want to have your real age revealed to the people in the future. So you should claim only one age each year, it should contain digits of decimal numbers (i.e. ‘0’ through ‘9’), and it should always be equal to or greater than that of the previous year (when interpreted as decimal).
+
+How old can you claim you are, after some years?
+
+## 입력
+
+The input consists of multiple datasets. Each dataset is a single line that contains three integers A, B, and C, where A is the present real age (in decimal), B is the age you presently claim (which can be a non-decimal number), and C is the real age at which you are to find the age you will claim (in decimal). It is guaranteed that 0 ≤ A < C ≤ 200, while B may contain up to eight digits. No digits other than ‘0’ through ‘9’ appear in those numbers.
+
+The end of input is indicated by A = B = C = −1, which should not be processed.
+
+## 출력
+
+For each dataset, print in a line the minimum age you can claim when you become C years old. In case the age you presently claim cannot be interpreted as your real age with the base from 2 through 16, print −1 instead.

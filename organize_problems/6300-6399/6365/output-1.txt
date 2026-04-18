@@ -1,0 +1,28 @@
+1:
+   CL      KR      KL
+PR 6 BR BL 2 CL CR 7 BL
+   PL      PR      PR
+
+   PR      PL      PL
+KR 3 CR CL 4 KR KL 8 BL
+   BL      BL      CR
+
+   BR      BR      CL
+PL 5 CL CR 1 KR KL 9 PR
+   KR      PL      BL
+
+2:
+No Solution
+
+3:
+   KL      BR      BL
+BL 6 CR CL 5 KR KL 9 CL
+   PR      PR      PL
+
+   PL      PL      PR
+KR 7 BL BR 1 KL KR 3 BR
+   CL      CL      CL
+
+   CR      CR      CR
+PL 2 KL KR 4 PL PR 8 KL
+   BL      BR      BR

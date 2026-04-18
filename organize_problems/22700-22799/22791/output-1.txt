@@ -1,0 +1,8 @@
+Input set 1:
+Longest trip: 299 minutes
+Origin Montgomery 12:01 AM, destination Wetumpka 5:00 AM.
+
+Input set 2:
+Longest trip: 434 minutes
+Origin BCity 12:16 AM, destination CCity 7:30 AM
+

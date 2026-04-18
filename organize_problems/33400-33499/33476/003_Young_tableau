@@ -1,0 +1,1250 @@
+<!DOCTYPE html>
+<html class="client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-sticky-header-enabled vector-toc-available skin-theme-clientpref-thumb-standard" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<title>Young tableau - Wikipedia</title>
+<script>(function(){var className="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-sticky-header-enabled vector-toc-available skin-theme-clientpref-thumb-standard";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"8af7cec7-e1fc-4022-ac42-9040e3a80bdd","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Young_tableau","wgTitle":"Young tableau","wgCurRevisionId":1345272320,"wgRevisionId":1345272320,"wgArticleId":683368,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with short description","Short description is different from Wikidata","Template SpringerEOM with broken ref","Webarchive template wayback links","Representation theory of finite groups","Symmetric functions","Integer partitions"],"wgPageViewLanguage":"en","wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Young_tableau","wgRelevantArticleId":683368,"wgTempUserName":null,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgNoticeProject":"wikipedia","wgFlaggedRevsParams":{"tags":{"status":{"levels":1}}},"wgConfirmEditCaptchaNeededForGenericEdit":"hcaptcha","wgConfirmEditHCaptchaVisualEditorOnLoadIntegrationEnabled":false,"wgConfirmEditHCaptchaSiteKey":"5d0c670e-a5f4-4258-ad16-1f42792c9c62","wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":0,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":false,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":20000,"wgEditSubmitButtonLabelPublish":true,"wgVisualEditorPageIsDisambiguation":false,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":false,"wgVector2022LanguageInHeader":true,"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q2166280","wgCheckUserClientHintsHeadersJsApi":["brands","architecture","bitness","fullVersionList","mobile","model","platform","platformVersion"],"GEHomepageSuggestedEditsEnableTopics":true,"wgGESuggestedEditsTaskTypes":{"taskTypes":["copyedit","link-recommendation"],"unavailableTaskTypes":[]},"wgGETopicsMatchModeEnabled":false,"wgGELevelingUpEnabledForUser":false,"wgTestKitchenUserExperiments":{"overrides":[],"enrolled":[],"assigned":[],"subject_ids":[]}};
+RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.wikimediamessages.styles":"ready","ext.cite.styles":"ready","ext.math.styles":"ready","skins.vector.search.codex.styles":"ready","skins.vector.styles":"ready","skins.vector.icons":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.parsermigration.survey","ext.cite.ux-enhancements","ext.math.polyfills","mediawiki.page.media","site","mediawiki.page.ready","mediawiki.toc","skins.vector.js","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.gadget.ReferenceTooltips","ext.gadget.switcher","ext.urlShortener.toolbar","ext.centralauth.centralautologin","mmv.bootstrap","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.echo.centralauth","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.cx.uls.quick.actions","wikibase.client.vector-2022","wikibase.databox.fromWikidata","ext.checkUser.clientHints","ext.quicksurveys.init","ext.growthExperiments.SuggestedEditSession","ext.testKitchen"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+}];});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediamessages.styles%7Cskins.vector.icons%2Cstyles%7Cskins.vector.search.codex.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector-2022">
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector-2022"></script>
+<meta name="ResourceLoaderDynamicStyles" content="">
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector-2022">
+<meta name="generator" content="MediaWiki 1.46.0-wmf.24">
+<meta name="referrer" content="origin">
+<meta name="referrer" content="origin-when-cross-origin">
+<meta name="robots" content="max-image-preview:standard">
+<meta name="format-detection" content="telephone=no">
+<meta name="viewport" content="width=1120">
+<meta property="og:title" content="Young tableau - Wikipedia">
+<meta property="og:type" content="website">
+<link rel="preconnect" href="//upload.wikimedia.org">
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Young_tableau&amp;action=edit">
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png">
+<link rel="icon" href="/static/favicon/wikipedia.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="/w/rest.php/v1/search" title="Wikipedia (en)">
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd">
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Young_tableau">
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.en">
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom">
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="auth.wikimedia.org">
+</head>
+<body class="skin--responsive skin-vector skin-vector-search-vue mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Young_tableau rootpage-Young_tableau skin-vector-2022 action-view">
+<div id="mw-aria-live-region" class="mw-aria-live-region" aria-live="polite"></div><a class="mw-jump-link" href="#bodyContent">Jump to content</a>
+<div class="vector-header-container">
+	<header class="vector-header mw-header no-font-mode-scale">
+		<div class="vector-header-start">
+			<nav class="vector-main-menu-landmark" aria-label="Site">
+				
+<div id="vector-main-menu-dropdown" class="vector-dropdown vector-main-menu-dropdown vector-button-flush-left vector-button-flush-right"  title="Main menu" >
+	<input type="checkbox" id="vector-main-menu-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-main-menu-dropdown" class="vector-dropdown-checkbox "  aria-label="Main menu"  >
+	<label id="vector-main-menu-dropdown-label" for="vector-main-menu-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-menu mw-ui-icon-wikimedia-menu"></span>
+
+<span class="vector-dropdown-label-text">Main menu</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+				<div id="vector-main-menu-unpinned-container" class="vector-unpinned-container">
+		
+<div id="vector-main-menu" class="vector-main-menu vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-main-menu-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="main-menu-pinned"
+	data-pinnable-element-id="vector-main-menu"
+	data-pinned-container-id="vector-main-menu-pinned-container"
+	data-unpinned-container-id="vector-main-menu-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Main menu</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-main-menu.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-main-menu.unpin">hide</button>
+</div>
+
+	
+<div id="p-navigation" class="vector-menu mw-portlet mw-portlet-navigation"  >
+	<div class="vector-menu-heading">
+		Navigation
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z"><span>Main page</span></a></li><li id="n-contents" class="mw-list-item"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia"><span>Contents</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/Portal:Current_events" title="Articles related to current events"><span>Current events</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x"><span>Random article</span></a></li><li id="n-aboutsite" class="mw-list-item"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works"><span>About Wikipedia</span></a></li><li id="n-contactpage" class="mw-list-item"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia"><span>Contact us</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-interaction" class="vector-menu mw-portlet mw-portlet-interaction"  >
+	<div class="vector-menu-heading">
+		Contribute
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-help" class="mw-list-item"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia"><span>Help</span></a></li><li id="n-introduction" class="mw-list-item"><a href="/wiki/Help:Introduction" title="Learn how to edit Wikipedia"><span>Learn to edit</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/Wikipedia:Community_portal" title="The hub for editors"><span>Community portal</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r"><span>Recent changes</span></a></li><li id="n-upload" class="mw-list-item"><a href="/wiki/Wikipedia:File_upload_wizard" title="Add images or other media for use on Wikipedia"><span>Upload file</span></a></li><li id="n-specialpages" class="mw-list-item"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q"><span>Special pages</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+</div>
+
+				</div>
+
+	</div>
+</div>
+
+		</nav>
+			
+<a href="/wiki/Main_Page" class="mw-logo">
+	<img class="mw-logo-icon" src="/static/images/icons/enwiki-25.svg" alt="" aria-hidden="true" height="50" width="50">
+	<span class="mw-logo-container skin-invert">
+		<img class="mw-logo-wordmark" alt="Wikipedia" src="/static/images/mobile/copyright/wikipedia-wordmark-en-25.svg" style="width: 8.75em; height: 1.375em;">
+		<img class="mw-logo-tagline" alt="The Free Encyclopedia" src="/static/images/mobile/copyright/wikipedia-tagline-en-25.svg" width="140" height="11" style="width: 8.75em; height: 0.6875em;">
+	</span>
+</a>
+
+		</div>
+		<div class="vector-header-end">
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-collapses vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<a href="/wiki/Special:Search" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only search-toggle" title="Search Wikipedia [f]" accesskey="f"><span class="vector-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
+
+<span>Search</span>
+	</a>
+	<div class="vector-typeahead-search-container">
+		<div class="cdx-typeahead-search cdx-typeahead-search--show-thumbnail cdx-typeahead-search--auto-expand-width">
+			<form action="/w/index.php" id="searchform" class="cdx-search-input cdx-search-input--has-end-button">
+				<div id="simpleSearch" class="cdx-search-input__input-wrapper"  data-search-loc="header-moved">
+					<div class="cdx-text-input cdx-text-input--has-start-icon">
+						<input
+							class="cdx-text-input__input mw-searchInput" autocomplete="off"
+							 type="search" name="search" placeholder="Search Wikipedia" aria-label="Search Wikipedia" autocapitalize="none" spellcheck="false" title="Search Wikipedia [f]" accesskey="f" id="searchInput"
+							>
+						<span class="cdx-text-input__icon cdx-text-input__start-icon"></span>
+					</div>
+					<input type="hidden" name="title" value="Special:Search">
+				</div>
+				<button class="cdx-button cdx-search-input__end-button">Search</button>
+			</form>
+		</div>
+	</div>
+</div>
+
+			<nav class="vector-user-links vector-user-links-wide" aria-label="Personal tools">
+	<div class="vector-user-links-main">
+	
+<div id="p-vector-user-menu-preferences" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-userpage" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	<nav class="vector-appearance-landmark" aria-label="Appearance">
+		
+<div id="vector-appearance-dropdown" class="vector-dropdown "  title="Change the appearance of the page&#039;s font size, width, and color" >
+	<input type="checkbox" id="vector-appearance-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-appearance-dropdown" class="vector-dropdown-checkbox "  aria-label="Appearance"  >
+	<label id="vector-appearance-dropdown-label" for="vector-appearance-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-appearance mw-ui-icon-wikimedia-appearance"></span>
+
+<span class="vector-dropdown-label-text">Appearance</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+			<div id="vector-appearance-unpinned-container" class="vector-unpinned-container">
+				
+			</div>
+		
+	</div>
+</div>
+
+	</nav>
+	
+<div id="p-vector-user-menu-notifications" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-overflow" class="vector-menu mw-portlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			<li id="pt-sitesupport-2" class="mw-list-item user-links-collapsible-item"><a data-mw-interface  href="https://donate.wikimedia.org/?wmf_source=donate&amp;wmf_medium=sidebar&amp;wmf_campaign=en.wikipedia.org&amp;uselang=en" class=" cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet"><span class="vector-icon mw-ui-icon-heart mw-ui-icon-wikimedia-heart"></span>
+
+<span>Donate</span></a>
+</li>
+<li id="pt-createaccount-2" class="mw-list-item user-links-collapsible-item"><a data-mw-interface  href="/w/index.php?title=Special:CreateAccount&amp;returnto=Young+tableau" title="You are encouraged to create an account and log in; however, it is not mandatory" class=""><span>Create account</span></a>
+</li>
+<li id="pt-login-2" class="mw-list-item user-links-collapsible-item"><a data-mw-interface  href="/w/index.php?title=Special:UserLogin&amp;returnto=Young+tableau" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o" class=""><span>Log in</span></a>
+</li>
+
+			
+		</ul>
+		
+	</div>
+</div>
+
+	</div>
+	
+<div id="vector-user-links-dropdown" class="vector-dropdown vector-user-menu vector-button-flush-right vector-user-menu-logged-out user-links-collapsible-item"  title="Log in and more options" >
+	<input type="checkbox" id="vector-user-links-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-user-links-dropdown" class="vector-dropdown-checkbox "  aria-label="Personal tools"  >
+	<label id="vector-user-links-dropdown-label" for="vector-user-links-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-ellipsis mw-ui-icon-wikimedia-ellipsis"></span>
+
+<span class="vector-dropdown-label-text">Personal tools</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+		
+<div id="p-personal" class="vector-menu mw-portlet mw-portlet-personal user-links-collapsible-item"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			<li id="pt-sitesupport" class="mw-list-item user-links-collapsible-item"><a data-mw-interface  href="https://donate.wikimedia.org/?wmf_source=donate&amp;wmf_medium=sidebar&amp;wmf_campaign=en.wikipedia.org&amp;uselang=en" class=""><span class="vector-icon mw-ui-icon-heart mw-ui-icon-wikimedia-heart"></span>
+
+<span>Donate</span></a>
+</li>
+<li id="pt-createaccount" class="mw-list-item user-links-collapsible-item"><a data-mw-interface  href="/w/index.php?title=Special:CreateAccount&amp;returnto=Young+tableau" title="You are encouraged to create an account and log in; however, it is not mandatory" class=""><span class="vector-icon mw-ui-icon-userAdd mw-ui-icon-wikimedia-userAdd"></span>
+
+<span>Create account</span></a>
+</li>
+<li id="pt-login" class="mw-list-item user-links-collapsible-item"><a data-mw-interface  href="/w/index.php?title=Special:UserLogin&amp;returnto=Young+tableau" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o" class=""><span class="vector-icon mw-ui-icon-logIn mw-ui-icon-wikimedia-logIn"></span>
+
+<span>Log in</span></a>
+</li>
+
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+	</div>
+</div>
+
+</nav>
+
+		</div>
+	</header>
+</div>
+<div class="mw-page-container">
+	<div class="mw-page-container-inner">
+		<div class="vector-sitenotice-container">
+			<div id="siteNotice"><!-- CentralNotice --></div>
+		</div>
+		<div class="vector-column-start">
+			<div class="vector-main-menu-container">
+		<div id="mw-navigation">
+			<nav id="mw-panel" class="vector-main-menu-landmark" aria-label="Site">
+				<div id="vector-main-menu-pinned-container" class="vector-pinned-container">
+				
+				</div>
+		</nav>
+		</div>
+	</div>
+	<div class="vector-sticky-pinned-container">
+				<nav id="mw-panel-toc" aria-label="Contents" data-event-name="ui.sidebar-toc" class="mw-table-of-contents-container vector-toc-landmark">
+					<div id="vector-toc-pinned-container" class="vector-pinned-container">
+					<div id="vector-toc" class="vector-toc vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-toc-pinnable-header vector-pinnable-header-pinned"
+	data-feature-name="toc-pinned"
+	data-pinnable-element-id="vector-toc"
+	data-pinned-container-id="vector-toc-pinned-container"
+	data-unpinned-container-id="vector-toc-unpinned-container"
+>
+	<h2 class="vector-pinnable-header-label">Contents</h2>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-toc.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-toc.unpin">hide</button>
+</div>
+
+
+	<ul class="vector-toc-contents" id="mw-panel-toc-list">
+		<li id="toc-mw-content-text"
+			class="vector-toc-list-item vector-toc-level-1">
+			<a href="#" class="vector-toc-link">
+				<div class="vector-toc-text">(Top)</div>
+			</a>
+		</li>
+		<li id="toc-Definitions"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Definitions">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">1</span>
+				<span>Definitions</span>
+			</div>
+		</a>
+		
+			<button aria-controls="toc-Definitions-sublist" class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-toc-toggle">
+				<span class="vector-icon mw-ui-icon-wikimedia-expand"></span>
+				<span>Toggle Definitions subsection</span>
+			</button>
+		
+		<ul id="toc-Definitions-sublist" class="vector-toc-list">
+			<li id="toc-Diagrams"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Diagrams">
+				<div class="vector-toc-text">
+					<span class="vector-toc-numb">1.1</span>
+					<span>Diagrams</span>
+				</div>
+			</a>
+			
+			<ul id="toc-Diagrams-sublist" class="vector-toc-list">
+				<li id="toc-Arm_and_leg_length"
+			class="vector-toc-list-item vector-toc-level-3">
+			<a class="vector-toc-link" href="#Arm_and_leg_length">
+				<div class="vector-toc-text">
+					<span class="vector-toc-numb">1.1.1</span>
+					<span>Arm and leg length</span>
+				</div>
+			</a>
+			
+			<ul id="toc-Arm_and_leg_length-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+		</li>
+		<li id="toc-Tableaux"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Tableaux">
+				<div class="vector-toc-text">
+					<span class="vector-toc-numb">1.2</span>
+					<span>Tableaux</span>
+				</div>
+			</a>
+			
+			<ul id="toc-Tableaux-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Variations"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Variations">
+				<div class="vector-toc-text">
+					<span class="vector-toc-numb">1.3</span>
+					<span>Variations</span>
+				</div>
+			</a>
+			
+			<ul id="toc-Variations-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Skew_tableaux"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Skew_tableaux">
+				<div class="vector-toc-text">
+					<span class="vector-toc-numb">1.4</span>
+					<span>Skew tableaux</span>
+				</div>
+			</a>
+			
+			<ul id="toc-Skew_tableaux-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="toc-Overview_of_applications"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Overview_of_applications">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">2</span>
+				<span>Overview of applications</span>
+			</div>
+		</a>
+		
+		<ul id="toc-Overview_of_applications-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Applications_in_representation_theory"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Applications_in_representation_theory">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">3</span>
+				<span>Applications in representation theory</span>
+			</div>
+		</a>
+		
+			<button aria-controls="toc-Applications_in_representation_theory-sublist" class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-toc-toggle">
+				<span class="vector-icon mw-ui-icon-wikimedia-expand"></span>
+				<span>Toggle Applications in representation theory subsection</span>
+			</button>
+		
+		<ul id="toc-Applications_in_representation_theory-sublist" class="vector-toc-list">
+			<li id="toc-Dimension_of_a_representation"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Dimension_of_a_representation">
+				<div class="vector-toc-text">
+					<span class="vector-toc-numb">3.1</span>
+					<span>Dimension of a representation</span>
+				</div>
+			</a>
+			
+			<ul id="toc-Dimension_of_a_representation-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Restricted_representations"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Restricted_representations">
+				<div class="vector-toc-text">
+					<span class="vector-toc-numb">3.2</span>
+					<span>Restricted representations</span>
+				</div>
+			</a>
+			
+			<ul id="toc-Restricted_representations-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="toc-See_also"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#See_also">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">4</span>
+				<span>See also</span>
+			</div>
+		</a>
+		
+		<ul id="toc-See_also-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Notes"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Notes">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">5</span>
+				<span>Notes</span>
+			</div>
+		</a>
+		
+		<ul id="toc-Notes-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-References"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#References">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">6</span>
+				<span>References</span>
+			</div>
+		</a>
+		
+		<ul id="toc-References-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-External_links"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#External_links">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">7</span>
+				<span>External links</span>
+			</div>
+		</a>
+		
+		<ul id="toc-External_links-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+</ul>
+</div>
+
+					</div>
+		</nav>
+			</div>
+		</div>
+		<div class="mw-content-container">
+			<main id="content" class="mw-body">
+				<header class="mw-body-header vector-page-titlebar no-font-mode-scale">
+					<nav aria-label="Contents" class="vector-toc-landmark">
+						
+<div id="vector-page-titlebar-toc" class="vector-dropdown vector-page-titlebar-toc vector-button-flush-left"  title="Table of Contents" >
+	<input type="checkbox" id="vector-page-titlebar-toc-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-titlebar-toc" class="vector-dropdown-checkbox "  aria-label="Toggle the table of contents"  >
+	<label id="vector-page-titlebar-toc-label" for="vector-page-titlebar-toc-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-listBullet mw-ui-icon-wikimedia-listBullet"></span>
+
+<span class="vector-dropdown-label-text">Toggle the table of contents</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+							<div id="vector-page-titlebar-toc-unpinned-container" class="vector-unpinned-container">
+			</div>
+		
+	</div>
+</div>
+
+					</nav>
+					<h1 id="firstHeading" class="firstHeading mw-first-heading"><span class="mw-page-title-main">Young tableau</span></h1>
+							
+<div id="p-lang-btn" class="vector-dropdown mw-portlet mw-portlet-lang"  >
+	<input type="checkbox" id="p-lang-btn-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-lang-btn" class="vector-dropdown-checkbox mw-interlanguage-selector" aria-label="Go to an article in another language. Available in 13 languages"   >
+	<label id="p-lang-btn-label" for="p-lang-btn-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive mw-portlet-lang-heading-13" aria-hidden="true"  ><span class="vector-icon mw-ui-icon-language-progressive mw-ui-icon-wikimedia-language-progressive"></span>
+
+<span class="vector-dropdown-label-text">13 languages</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+		<div class="vector-menu-content">
+			
+			<ul class="vector-menu-content-list">
+				
+				<li class="interlanguage-link interwiki-ca mw-list-item"><a href="https://ca.wikipedia.org/wiki/Taules_de_Young" title="Taules de Young – Catalan" lang="ca" hreflang="ca" data-title="Taules de Young" data-language-autonym="Català" data-language-local-name="Catalan" class="interlanguage-link-target"><span>Català</span></a></li><li class="interlanguage-link interwiki-de mw-list-item"><a href="https://de.wikipedia.org/wiki/Young-Tableau" title="Young-Tableau – German" lang="de" hreflang="de" data-title="Young-Tableau" data-language-autonym="Deutsch" data-language-local-name="German" class="interlanguage-link-target"><span>Deutsch</span></a></li><li class="interlanguage-link interwiki-es mw-list-item"><a href="https://es.wikipedia.org/wiki/Tabla_de_Young" title="Tabla de Young – Spanish" lang="es" hreflang="es" data-title="Tabla de Young" data-language-autonym="Español" data-language-local-name="Spanish" class="interlanguage-link-target"><span>Español</span></a></li><li class="interlanguage-link interwiki-fr mw-list-item"><a href="https://fr.wikipedia.org/wiki/Tableau_de_Young" title="Tableau de Young – French" lang="fr" hreflang="fr" data-title="Tableau de Young" data-language-autonym="Français" data-language-local-name="French" class="interlanguage-link-target"><span>Français</span></a></li><li class="interlanguage-link interwiki-it mw-list-item"><a href="https://it.wikipedia.org/wiki/Tabella_di_Young" title="Tabella di Young – Italian" lang="it" hreflang="it" data-title="Tabella di Young" data-language-autonym="Italiano" data-language-local-name="Italian" class="interlanguage-link-target"><span>Italiano</span></a></li><li class="interlanguage-link interwiki-ja mw-list-item"><a href="https://ja.wikipedia.org/wiki/%E3%83%A4%E3%83%B3%E3%82%B0%E5%9B%B3%E5%BD%A2" title="ヤング図形 – Japanese" lang="ja" hreflang="ja" data-title="ヤング図形" data-language-autonym="日本語" data-language-local-name="Japanese" class="interlanguage-link-target"><span>日本語</span></a></li><li class="interlanguage-link interwiki-ko mw-list-item"><a href="https://ko.wikipedia.org/wiki/%EC%98%81_%ED%83%80%EB%B8%94%EB%A1%9C" title="영 타블로 – Korean" lang="ko" hreflang="ko" data-title="영 타블로" data-language-autonym="한국어" data-language-local-name="Korean" class="interlanguage-link-target"><span>한국어</span></a></li><li class="interlanguage-link interwiki-nl mw-list-item"><a href="https://nl.wikipedia.org/wiki/Young-tableau" title="Young-tableau – Dutch" lang="nl" hreflang="nl" data-title="Young-tableau" data-language-autonym="Nederlands" data-language-local-name="Dutch" class="interlanguage-link-target"><span>Nederlands</span></a></li><li class="interlanguage-link interwiki-pt mw-list-item"><a href="https://pt.wikipedia.org/wiki/Diagrama_de_Young" title="Diagrama de Young – Portuguese" lang="pt" hreflang="pt" data-title="Diagrama de Young" data-language-autonym="Português" data-language-local-name="Portuguese" class="interlanguage-link-target"><span>Português</span></a></li><li class="interlanguage-link interwiki-ru mw-list-item"><a href="https://ru.wikipedia.org/wiki/%D0%94%D0%B8%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0_%D0%AE%D0%BD%D0%B3%D0%B0" title="Диаграмма Юнга – Russian" lang="ru" hreflang="ru" data-title="Диаграмма Юнга" data-language-autonym="Русский" data-language-local-name="Russian" class="interlanguage-link-target"><span>Русский</span></a></li><li class="interlanguage-link interwiki-ta mw-list-item"><a href="https://ta.wikipedia.org/wiki/%E0%AE%AF%E0%AE%99%E0%AF%8D_%E0%AE%9F%E0%AE%BE%E0%AE%AA%E0%AE%BF%E0%AE%B2%E0%AF%82" title="யங் டாபிலூ – Tamil" lang="ta" hreflang="ta" data-title="யங் டாபிலூ" data-language-autonym="தமிழ்" data-language-local-name="Tamil" class="interlanguage-link-target"><span>தமிழ்</span></a></li><li class="interlanguage-link interwiki-uk mw-list-item"><a href="https://uk.wikipedia.org/wiki/%D0%94%D1%96%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%B0_%D0%AE%D0%BD%D0%B3%D0%B0" title="Діаграма Юнга – Ukrainian" lang="uk" hreflang="uk" data-title="Діаграма Юнга" data-language-autonym="Українська" data-language-local-name="Ukrainian" class="interlanguage-link-target"><span>Українська</span></a></li><li class="interlanguage-link interwiki-zh mw-list-item"><a href="https://zh.wikipedia.org/wiki/%E6%9D%A8%E8%A1%A8" title="杨表 – Chinese" lang="zh" hreflang="zh" data-title="杨表" data-language-autonym="中文" data-language-local-name="Chinese" class="interlanguage-link-target"><span>中文</span></a></li>
+			</ul>
+			<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q2166280#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>
+		</div>
+
+	</div>
+</div>
+</header>
+				<div class="vector-page-toolbar vector-feature-custom-font-size-clientpref--excluded">
+					<div class="vector-page-toolbar-container">
+						<div id="left-navigation">
+							<nav aria-label="Namespaces">
+								
+<div id="p-associated-pages" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-associated-pages"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-nstab-main" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/Young_tableau" title="View the content page [c]" accesskey="c"><span>Article</span></a></li><li id="ca-talk" class="vector-tab-noicon mw-list-item"><a href="/wiki/Talk:Young_tableau" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t"><span>Talk</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+								
+<div id="vector-variants-dropdown" class="vector-dropdown emptyPortlet"  >
+	<input type="checkbox" id="vector-variants-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-variants-dropdown" class="vector-dropdown-checkbox " aria-label="Change language variant"   >
+	<label id="vector-variants-dropdown-label" for="vector-variants-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">English</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+					
+<div id="p-variants" class="vector-menu mw-portlet mw-portlet-variants emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+						<div id="right-navigation" class="vector-collapsible">
+							<nav aria-label="Views">
+								
+<div id="p-views" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-views"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-view" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/Young_tableau"><span>Read</span></a></li><li id="ca-edit" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=Young_tableau&amp;action=edit" title="Edit this page [e]" accesskey="e"><span>Edit</span></a></li><li id="ca-history" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=Young_tableau&amp;action=history" title="Past revisions of this page [h]" accesskey="h"><span>View history</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+							</nav>
+				
+							<nav class="vector-page-tools-landmark" aria-label="Page tools">
+								
+<div id="vector-page-tools-dropdown" class="vector-dropdown vector-page-tools-dropdown"  >
+	<input type="checkbox" id="vector-page-tools-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-tools-dropdown" class="vector-dropdown-checkbox "  aria-label="Tools"  >
+	<label id="vector-page-tools-dropdown-label" for="vector-page-tools-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">Tools</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+									<div id="vector-page-tools-unpinned-container" class="vector-unpinned-container">
+						
+<div id="vector-page-tools" class="vector-page-tools vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-page-tools-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="page-tools-pinned"
+	data-pinnable-element-id="vector-page-tools"
+	data-pinned-container-id="vector-page-tools-pinned-container"
+	data-unpinned-container-id="vector-page-tools-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Tools</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-page-tools.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-page-tools.unpin">hide</button>
+</div>
+
+	
+<div id="p-cactions" class="vector-menu mw-portlet mw-portlet-cactions emptyPortlet vector-has-collapsible-items"  title="More options" >
+	<div class="vector-menu-heading">
+		Actions
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-more-view" class="selected vector-more-collapsible-item mw-list-item"><a href="/wiki/Young_tableau"><span>Read</span></a></li><li id="ca-more-edit" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=Young_tableau&amp;action=edit" title="Edit this page [e]" accesskey="e"><span>Edit</span></a></li><li id="ca-more-history" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=Young_tableau&amp;action=history"><span>View history</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-tb" class="vector-menu mw-portlet mw-portlet-tb"  >
+	<div class="vector-menu-heading">
+		General
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/Special:WhatLinksHere/Young_tableau" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j"><span>What links here</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/Special:RecentChangesLinked/Young_tableau" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k"><span>Related changes</span></a></li><li id="t-upload" class="mw-list-item"><a href="//en.wikipedia.org/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u"><span>Upload file</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=Young_tableau&amp;oldid=1345272320" title="Permanent link to this revision of this page"><span>Permanent link</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=Young_tableau&amp;action=info" title="More information about this page"><span>Page information</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Young_tableau&amp;id=1345272320&amp;wpFormIdentifier=titleform" title="Information on how to cite this page"><span>Cite this page</span></a></li><li id="t-urlshortener" class="mw-list-item"><a href="/w/index.php?title=Special:UrlShortener&amp;url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FYoung_tableau"><span>Get shortened URL</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-coll-print_export" class="vector-menu mw-portlet mw-portlet-coll-print_export"  >
+	<div class="vector-menu-heading">
+		Print/export
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="coll-download-as-rl" class="mw-list-item"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=Young_tableau&amp;action=show-download-screen" title="Download this page as a PDF file"><span>Download as PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="/w/index.php?title=Young_tableau&amp;printable=yes" title="Printable version of this page [p]" accesskey="p"><span>Printable version</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-wikibase-otherprojects" class="vector-menu mw-portlet mw-portlet-wikibase-otherprojects"  >
+	<div class="vector-menu-heading">
+		In other projects
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li class="wb-otherproject-link wb-otherproject-commons mw-list-item"><a href="https://commons.wikimedia.org/wiki/Category:Young_tableaux" hreflang="en"><span>Wikimedia Commons</span></a></li><li id="t-wikibase" class="wb-otherproject-link wb-otherproject-wikibase-dataitem mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q2166280" title="Structured data on this page hosted by Wikidata [g]" accesskey="g"><span>Wikidata item</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+</div>
+
+									</div>
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+					</div>
+				</div>
+				<div class="vector-column-end no-font-mode-scale">
+					<div class="vector-sticky-pinned-container">
+						<div class="wp25eastereggs-vector-sitenotice-landmark"></div>
+						<nav class="vector-page-tools-landmark" aria-label="Page tools">
+							<div id="vector-page-tools-pinned-container" class="vector-pinned-container">
+				
+							</div>
+		</nav>
+						<nav class="vector-appearance-landmark" aria-label="Appearance">
+							<div id="vector-appearance-pinned-container" class="vector-pinned-container">
+				<div id="vector-appearance" class="vector-appearance vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-appearance-pinnable-header vector-pinnable-header-pinned"
+	data-feature-name="appearance-pinned"
+	data-pinnable-element-id="vector-appearance"
+	data-pinned-container-id="vector-appearance-pinned-container"
+	data-unpinned-container-id="vector-appearance-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Appearance</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-appearance.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-appearance.unpin">hide</button>
+</div>
+
+
+</div>
+
+							</div>
+		</nav>
+					</div>
+				</div>
+				<div id="bodyContent" class="vector-body" aria-labelledby="firstHeading" data-mw-ve-target-container>
+					<div class="vector-body-before-content">
+							<div class="mw-indicators">
+		</div>
+
+						<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+					</div>
+					<div id="contentSub"><div id="mw-content-subtitle"></div></div>
+					
+					
+					<div id="mw-content-text" class="mw-body-content"><div class="mw-subjectpageheader">
+</div><div class="mw-content-ltr mw-parser-output" lang="en" dir="ltr"><div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">Combinatorial object in representation theory</div>
+<p>In <a href="/wiki/Mathematics" title="Mathematics">mathematics</a>, a <b>Young tableau</b> (<span class="rt-commentedText nowrap"><span class="IPA nopopups noexcerpt" lang="en-fonipa"><a href="/wiki/Help:IPA/English" title="Help:IPA/English">/<span style="border-bottom:1px dotted"><span title="&#39;t&#39; in &#39;tie&#39;">t</span><span title="/æ/: &#39;a&#39; in &#39;bad&#39;">æ</span><span title="/ˈ/: primary stress follows">ˈ</span><span title="&#39;b&#39; in &#39;buy&#39;">b</span><span title="&#39;l&#39; in &#39;lie&#39;">l</span><span title="/oʊ/: &#39;o&#39; in &#39;code&#39;">oʊ</span></span>,<span class="wrap"> </span><span style="border-bottom:1px dotted"><span title="/ˈ/: primary stress follows">ˈ</span><span title="&#39;t&#39; in &#39;tie&#39;">t</span><span title="/æ/: &#39;a&#39; in &#39;bad&#39;">æ</span><span title="&#39;b&#39; in &#39;buy&#39;">b</span><span title="&#39;l&#39; in &#39;lie&#39;">l</span><span title="/oʊ/: &#39;o&#39; in &#39;code&#39;">oʊ</span></span>/</a></span></span>; plural: <b>tableaux</b>) is a <a href="/wiki/Combinatorics" title="Combinatorics">combinatorial</a> object useful in <a href="/wiki/Representation_theory" title="Representation theory">representation theory</a> and <a href="/wiki/Schubert_calculus" title="Schubert calculus">Schubert calculus</a>. It provides a convenient way to describe the <a href="/wiki/Group_representation" title="Group representation">group representations</a> of the <a href="/wiki/Symmetric_group" title="Symmetric group">symmetric</a> and <a href="/wiki/General_linear_group" title="General linear group">general linear</a> <a href="/wiki/Group_(mathematics)" title="Group (mathematics)">groups</a> and to study their properties.
+</p><p>Young tableaux were introduced by <a href="/wiki/Alfred_Young_(mathematician)" title="Alfred Young (mathematician)">Alfred Young</a>, a <a href="/wiki/Mathematician" title="Mathematician">mathematician</a> at <a href="/wiki/University_of_Cambridge" title="University of Cambridge">Cambridge University</a>, in 1900.<sup id="cite&#95;ref-1" class="reference"><a href="#cite_note-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup><sup id="cite&#95;ref-2" class="reference"><a href="#cite_note-2"><span class="cite-bracket">&#91;</span>2<span class="cite-bracket">&#93;</span></a></sup> They were then applied to the study of the symmetric group by <a href="/wiki/Georg_Frobenius" class="mw-redirect" title="Georg Frobenius">Georg Frobenius</a> in 1903. Their theory was further developed by many mathematicians, including <a href="/wiki/Percy_MacMahon" class="mw-redirect" title="Percy MacMahon">Percy MacMahon</a>, <a href="/wiki/W._V._D._Hodge" title="W. V. D. Hodge">W. V. D. Hodge</a>, <a href="/wiki/Gilbert_de_Beauregard_Robinson" title="Gilbert de Beauregard Robinson">G. de B. Robinson</a>, <a href="/wiki/Gian-Carlo_Rota" title="Gian-Carlo Rota">Gian-Carlo Rota</a>, <a href="/wiki/Alain_Lascoux" title="Alain Lascoux">Alain Lascoux</a>, <a href="/wiki/Marcel-Paul_Sch%C3%BCtzenberger" title="Marcel-Paul Schützenberger">Marcel-Paul Schützenberger</a> and <a href="/wiki/Richard_P._Stanley" title="Richard P. Stanley">Richard P. Stanley</a>.
+</p>
+<meta property="mw:PageProp/toc" />
+<div class="mw-heading mw-heading2"><h2 id="Definitions">Definitions</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Young_tableau&amp;action=edit&amp;section=1" title="Edit section: Definitions"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p><i>Note: this article uses the English convention for displaying Young diagrams and tableaux</i>.
+</p>
+<div class="mw-heading mw-heading3"><h3 id="Diagrams">Diagrams</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Young_tableau&amp;action=edit&amp;section=2" title="Edit section: Diagrams"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<figure class="mw-halign-right" typeof="mw:File/Thumb"><a href="/wiki/File:Young_diagram_for_541_partition.svg" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Young_diagram_for_541_partition.svg/250px-Young_diagram_for_541_partition.svg.png" decoding="async" width="150" height="90" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Young_diagram_for_541_partition.svg/330px-Young_diagram_for_541_partition.svg.png 2x" data-file-width="180" data-file-height="108" /></a><figcaption>Young diagram of shape (5, 4, 1), English notation</figcaption></figure>
+<figure class="mw-halign-right" typeof="mw:File/Thumb"><a href="/wiki/File:Young_diagram_for_541_partition-French.svg" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Young_diagram_for_541_partition-French.svg/250px-Young_diagram_for_541_partition-French.svg.png" decoding="async" width="150" height="91" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Young_diagram_for_541_partition-French.svg/330px-Young_diagram_for_541_partition-French.svg.png 2x" data-file-width="205" data-file-height="125" /></a><figcaption>Young diagram of shape (5, 4, 1), French notation</figcaption></figure>
+<p>A <b>Young diagram</b> (also called a <a href="/wiki/Ferrers_diagram" class="mw-redirect" title="Ferrers diagram">Ferrers diagram</a>, particularly when represented using dots) is a finite collection of boxes, or cells, arranged in left-justified rows, with the row lengths in non-increasing order. Listing the number of boxes in each row gives a <a href="/wiki/Integer_partition" title="Integer partition">partition</a> <span class="texhtml mvar" style="font-style:italic;"><i>λ</i></span> of a non-negative integer <span class="texhtml mvar" style="font-style:italic;"><i>n</i></span>, the total number of boxes of the diagram. The Young diagram is said to be of shape <span class="texhtml mvar" style="font-style:italic;"><i>λ</i></span>, and it carries the same information as that partition. Containment of one Young diagram in another defines a <a href="/wiki/Partial_ordering" class="mw-redirect" title="Partial ordering">partial ordering</a> on the set of all partitions, which is in fact a <a href="/wiki/Lattice_(order)" title="Lattice (order)">lattice</a> structure, known as <a href="/wiki/Young%27s_lattice" title="Young&#39;s lattice">Young's lattice</a>. Listing the number of boxes of a Young diagram in each column gives another partition, the <b>conjugate</b> or <i>transpose</i> partition of <span class="texhtml mvar" style="font-style:italic;"><i>λ</i></span>; one obtains a Young diagram of that shape by reflecting the original diagram along its main diagonal.
+</p><p>There is almost universal agreement that in labeling boxes of Young diagrams by pairs of integers, the first index selects the row of the diagram, and the second index selects the box within the row. Nevertheless, two distinct conventions exist to display these diagrams, and consequently tableaux: the first places each row below the previous one, the second stacks each row on top of the previous one. Since the former convention is mainly used by <a href="/wiki/English-speaking_world" title="English-speaking world">Anglophones</a> while the latter is often preferred by <a href="/wiki/Francophone" class="mw-redirect" title="Francophone">Francophones</a>, it is customary to refer to these conventions respectively as the <i>English notation</i> and the <i>French notation</i>; for instance, in his book on <a href="/wiki/Symmetric_function" title="Symmetric function">symmetric functions</a>, <a href="/wiki/Ian_G._Macdonald" title="Ian G. Macdonald">Macdonald</a> advises readers preferring the French convention to "read this book upside down in a mirror" (Macdonald 1979, p.&#160;2). This nomenclature probably started out as jocular. The English notation corresponds to the one universally used for matrices, while the French notation is closer to the convention of <a href="/wiki/Cartesian_coordinates" class="mw-redirect" title="Cartesian coordinates">Cartesian coordinates</a>; however, French notation differs from that convention by placing the vertical coordinate first. The figure on the right shows, using the English notation, the Young diagram corresponding to the partition (5, 4, 1) of the number 10. The conjugate partition, measuring the column lengths, is (3, 2, 2, 2, 1).
+</p>
+<div class="mw-heading mw-heading4"><h4 id="Arm_and_leg_length">Arm and leg length</h4><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Young_tableau&amp;action=edit&amp;section=3" title="Edit section: Arm and leg length"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>In many applications, for example when defining <a href="/wiki/Jack_function" title="Jack function">Jack functions</a>, it is convenient to define the <b>arm length</b> <i>a</i><sub>λ</sub>(<i>s</i>) of a box <i>s</i> as the number of boxes to the right of <i>s</i> in the diagram λ in English notation. Similarly, the <b>leg length</b> <i>l</i><sub>λ</sub>(<i>s</i>) is the number of boxes below <i>s</i>. The <b>hook length</b> of a box <i>s</i> is the number of boxes to the right of <i>s</i> or below <i>s</i> in English notation, including the box <i>s</i> itself; in other words, the hook length is <i>a</i><sub>λ</sub>(<i>s</i>) + <i>l</i><sub>λ</sub>(<i>s</i>) + 1.
+</p>
+<div class="mw-heading mw-heading3"><h3 id="Tableaux">Tableaux</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Young_tableau&amp;action=edit&amp;section=4" title="Edit section: Tableaux"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<figure class="mw-halign-right" typeof="mw:File/Thumb"><a href="/wiki/File:Young_tableaux_for_541_partition.svg" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/4/40/Young_tableaux_for_541_partition.svg/250px-Young_tableaux_for_541_partition.svg.png" decoding="async" width="150" height="90" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/40/Young_tableaux_for_541_partition.svg/330px-Young_tableaux_for_541_partition.svg.png 2x" data-file-width="180" data-file-height="108" /></a><figcaption>A standard Young tableau of shape (5, 4, 1): the numbers 1–10 in the boxes increase in every row and every column.</figcaption></figure>
+<p>A <b>Young tableau</b> is obtained by filling in the boxes of the Young diagram with symbols taken from some <i>alphabet</i>, which is usually required to be a <a href="/wiki/Totally_ordered_set" class="mw-redirect" title="Totally ordered set">totally ordered set</a>. Originally that alphabet was a set of indexed variables <span class="texhtml mvar" style="font-style:italic;"><i>x</i><sub>1</sub></span>, <span class="texhtml mvar" style="font-style:italic;"><i>x</i><sub>2</sub></span>, <span class="texhtml mvar" style="font-style:italic;"><i>x</i><sub>3</sub></span>..., but now one usually uses a set of numbers for brevity. In their original application to <a href="/wiki/Representations_of_the_symmetric_group" class="mw-redirect" title="Representations of the symmetric group">representations of the symmetric group</a>, Young tableaux have <span class="texhtml mvar" style="font-style:italic;"><i>n</i></span> distinct entries, arbitrarily assigned to boxes of the diagram.  A tableau is called <b>standard</b> if the entries in each row and each column are increasing. The number of distinct standard Young tableaux on <span class="texhtml mvar" style="font-style:italic;"><i>n</i></span> entries is given by the <a href="/wiki/Involution_number" class="mw-redirect" title="Involution number">involution numbers</a>
+</p>
+<dl><dd>1, 1, 2, 4, 10, 26, 76, 232, 764, 2620, 9496, ... (sequence <span class="nowrap external"><a href="//oeis.org/A000085" class="extiw" title="oeis:A000085">A000085</a></span> in the <a href="/wiki/On-Line_Encyclopedia_of_Integer_Sequences" title="On-Line Encyclopedia of Integer Sequences">OEIS</a>).<figure class="mw-default-size" typeof="mw:File/Thumb"><a href="/wiki/File:Standard_Young_Tableaux.png" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Standard_Young_Tableaux.png/250px-Standard_Young_Tableaux.png" decoding="async" width="250" height="250" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Standard_Young_Tableaux.png/500px-Standard_Young_Tableaux.png 2x" data-file-width="850" data-file-height="850" /></a><figcaption>All standard Young tableaux with at most 5 boxes</figcaption></figure></dd></dl>
+<p>In other applications, it is natural to allow the same number to appear more than once (or not at all) in a tableau.  A tableau is called <b>semistandard</b>, or <i>column strict</i>, if the entries weakly increase along each row and strictly increase down each column.  Recording the number of times each number appears in a tableau gives a sequence known as the <b>weight</b> of the tableau.   Thus the standard Young tableaux are precisely the semistandard tableaux of weight (1,1,...,1), which requires every integer up to <span class="texhtml mvar" style="font-style:italic;"><i>n</i></span> to occur exactly once.
+</p><p>In a standard Young tableau, the integer <span class="mwe-math-element mwe-math-element-inline"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle k}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>k</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle k}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/c3c9a2c7b599b37105512c5d570edc034056dd40" class="mwe-math-fallback-image-inline mw-invert skin-invert" aria-hidden="true" style="vertical-align: -0.338ex; width:1.211ex; height:2.176ex;" alt="{\displaystyle k}"></span> is a <b>descent</b> if <span class="mwe-math-element mwe-math-element-inline"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle k+1}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>k</mi>
+        <mo>+</mo>
+        <mn>1</mn>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle k+1}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/552a558062ed4c0486297b5b5531c5ee044dbd9b" class="mwe-math-fallback-image-inline mw-invert skin-invert" aria-hidden="true" style="vertical-align: -0.505ex; width:5.214ex; height:2.343ex;" alt="{\displaystyle k+1}"></span> appears in a row strictly below <span class="mwe-math-element mwe-math-element-inline"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle k}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>k</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle k}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/c3c9a2c7b599b37105512c5d570edc034056dd40" class="mwe-math-fallback-image-inline mw-invert skin-invert" aria-hidden="true" style="vertical-align: -0.338ex; width:1.211ex; height:2.176ex;" alt="{\displaystyle k}"></span>. The sum of the descents is called the <b>major index</b> of the tableau.<sup id="cite&#95;ref-ste89&#95;3-0" class="reference"><a href="#cite_note-ste89-3"><span class="cite-bracket">&#91;</span>3<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<div class="mw-heading mw-heading3"><h3 id="Variations">Variations</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Young_tableau&amp;action=edit&amp;section=5" title="Edit section: Variations"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>There are several variations of this definition: for example, in a row-strict tableau the entries strictly increase along the rows and weakly increase down the columns. Also, tableaux with <i>decreasing</i> entries have been considered, notably, in the theory of <a href="/wiki/Plane_partition" title="Plane partition">plane partitions</a>. There are also generalizations such as domino tableaux or ribbon tableaux, in which several boxes may be grouped together before assigning entries to them.
+</p>
+<div class="mw-heading mw-heading3"><h3 id="Skew_tableaux">Skew tableaux</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Young_tableau&amp;action=edit&amp;section=6" title="Edit section: Skew tableaux"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<figure class="mw-halign-right" typeof="mw:File/Thumb"><a href="/wiki/File:Skew_tableau_5422-21.svg" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Skew_tableau_5422-21.svg/250px-Skew_tableau_5422-21.svg.png" decoding="async" width="150" height="125" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Skew_tableau_5422-21.svg/330px-Skew_tableau_5422-21.svg.png 2x" data-file-width="600" data-file-height="500" /></a><figcaption>Skew tableau of shape (5, 4, 2, 2) / (2, 1), English notation</figcaption></figure>
+<p>A <b>skew shape</b> is a pair of partitions (<span class="texhtml"><i>λ</i></span>, <span class="texhtml"><i>μ</i></span>) such that the Young diagram of <span class="texhtml"><i>λ</i></span> contains the Young diagram of <span class="texhtml"><i>μ</i></span>; it is denoted by <span class="texhtml"><i>λ</i>/<i>μ</i></span>.  If <span class="texhtml"><i>λ</i> = (<i>λ</i><sub>1</sub>, <i>λ</i><sub>2</sub>, ...)</span> and <span class="texhtml"><i>μ</i> = (<i>μ</i><sub>1</sub>, <i>μ</i><sub>2</sub>, ...)</span>, then the containment of diagrams means that <span class="texhtml"><i>μ</i><sub><i>i</i></sub>&#160;≤&#160;<i>λ</i><sub><i>i</i></sub></span> for all <span class="texhtml mvar" style="font-style:italic;">i</span>. The <b>skew diagram</b> of a skew shape <span class="texhtml"><i>λ</i>/<i>μ</i></span> is the set-theoretic difference of the Young diagrams of <span class="texhtml mvar" style="font-style:italic;"><i>λ</i></span> and <span class="texhtml mvar" style="font-style:italic;"><i>μ</i></span>: the set of squares that belong to the diagram of <span class="texhtml mvar" style="font-style:italic;"><i>λ</i></span> but not to that of <span class="texhtml mvar" style="font-style:italic;"><i>μ</i></span>. A <b>skew tableau</b> of shape <span class="texhtml"><i>λ</i>/<i>μ</i></span> is obtained by filling the squares of the corresponding skew diagram; such a tableau is semistandard if entries increase weakly along each row, and increase strictly down each column, and it is standard if moreover all numbers from 1 to the number of squares of the skew diagram occur exactly once. While the map from partitions to their Young diagrams is injective, this is not the case for the map from skew shapes to skew diagrams;<sup id="cite&#95;ref-4" class="reference"><a href="#cite_note-4"><span class="cite-bracket">&#91;</span>4<span class="cite-bracket">&#93;</span></a></sup> therefore the shape of a skew diagram cannot always be determined from the set of filled squares only. Although many properties of skew tableaux only depend on the filled squares, some operations defined on them do require explicit knowledge of <span class="texhtml mvar" style="font-style:italic;"><i>λ</i></span> and <span class="texhtml mvar" style="font-style:italic;"><i>μ</i></span>, so it is important that skew tableaux do record this information: two distinct skew tableaux may differ only in their shape, while they occupy the same set of squares, each filled with the same entries.<sup id="cite&#95;ref-5" class="reference"><a href="#cite_note-5"><span class="cite-bracket">&#91;</span>5<span class="cite-bracket">&#93;</span></a></sup> Young tableaux can be identified with skew tableaux in which <span class="texhtml mvar" style="font-style:italic;"><i>μ</i></span> is the empty partition (0) (the unique partition of 0).
+</p><p>Any skew semistandard tableau <span class="texhtml mvar" style="font-style:italic;"><i>T</i></span> of shape <span class="texhtml"><i>λ</i>/<i>μ</i></span> with positive integer entries gives rise to a sequence of partitions (or Young diagrams), by starting with <span class="texhtml mvar" style="font-style:italic;"><i>μ</i></span>, and taking for the partition <span class="texhtml mvar" style="font-style:italic;"><i>i</i></span> places further in the sequence the one whose diagram is obtained from that of <span class="texhtml mvar" style="font-style:italic;"><i>μ</i></span> by adding all the boxes that contain a value&#160; ≤&#160;<span class="texhtml mvar" style="font-style:italic;"><i>i</i></span> in <span class="texhtml mvar" style="font-style:italic;"><i>T</i></span>; this partition eventually becomes equal to&#160;<span class="texhtml mvar" style="font-style:italic;"><i>λ</i></span>. Any pair of successive shapes in such a sequence is a skew shape whose diagram contains at most one box in each column; such shapes are called <b>horizontal strips</b>. This sequence of partitions completely determines <span class="texhtml mvar" style="font-style:italic;"><i>T</i></span>, and it is in fact possible to define (skew) semistandard tableaux as such sequences, as is done by Macdonald (Macdonald 1979, p.&#160;4). This definition incorporates the partitions <span class="texhtml mvar" style="font-style:italic;"><i>λ</i></span> and <span class="texhtml mvar" style="font-style:italic;"><i>μ</i></span> in the data comprising the skew tableau.
+</p>
+<div class="mw-heading mw-heading2"><h2 id="Overview_of_applications">Overview of applications</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Young_tableau&amp;action=edit&amp;section=7" title="Edit section: Overview of applications"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Young tableaux have numerous applications in <a href="/wiki/Combinatorics" title="Combinatorics">combinatorics</a>, <a href="/wiki/Representation_theory" title="Representation theory">representation theory</a>, and <a href="/wiki/Algebraic_geometry" title="Algebraic geometry">algebraic geometry</a>. Various ways of counting Young tableaux have been explored and lead to the definition of and identities for <a href="/wiki/Schur_polynomial" title="Schur polynomial">Schur functions</a>.
+</p><p>Many combinatorial algorithms on tableaux are known, including Schützenberger's <a href="/wiki/Jeu_de_taquin" title="Jeu de taquin">jeu de taquin</a> and the <a href="/wiki/Robinson%E2%80%93Schensted%E2%80%93Knuth_correspondence" title="Robinson–Schensted–Knuth correspondence">Robinson–Schensted–Knuth correspondence</a>. Lascoux and Schützenberger studied an <a href="/wiki/Associative" class="mw-redirect" title="Associative">associative</a> product on the set of all semistandard Young tableaux, giving it the structure called the <i><a href="/wiki/Plactic_monoid" title="Plactic monoid">plactic monoid</a></i> (French: <i>le monoïde plaxique</i>).
+</p><p>In representation theory, standard Young tableaux of size <span class="texhtml mvar" style="font-style:italic;"><i>k</i></span> describe bases in irreducible representations of the <a href="/wiki/Symmetric_group" title="Symmetric group">symmetric group</a> on <span class="texhtml mvar" style="font-style:italic;"><i>k</i></span> letters. The <a href="/wiki/Standard_monomial_basis" class="mw-redirect" title="Standard monomial basis">standard monomial basis</a> in a finite-dimensional <a href="/wiki/Irreducible_representation" title="Irreducible representation">irreducible representation</a> of the <a href="/wiki/General_linear_group" title="General linear group">general linear group</a> <span class="texhtml"><i>GL</i><sub><i>n</i></sub></span> are parametrized by the set of semistandard Young tableaux of a fixed shape over the alphabet {1, 2, ..., <span class="texhtml mvar" style="font-style:italic;"><i>n</i></span>}. This has important consequences for <a href="/wiki/Invariant_theory" title="Invariant theory">invariant theory</a>, starting from the work of <a href="/wiki/W._V._D._Hodge" title="W. V. D. Hodge">Hodge</a> on the <a href="/wiki/Homogeneous_coordinate_ring" title="Homogeneous coordinate ring">homogeneous coordinate ring</a> of the <a href="/wiki/Grassmannian" title="Grassmannian">Grassmannian</a> and further explored by <a href="/wiki/Gian-Carlo_Rota" title="Gian-Carlo Rota">Gian-Carlo Rota</a> with collaborators, <a href="/wiki/Corrado_de_Concini" title="Corrado de Concini">de Concini</a> and <a href="/wiki/Claudio_Procesi" title="Claudio Procesi">Procesi</a>, and <a href="/wiki/David_Eisenbud" title="David Eisenbud">Eisenbud</a>. The <a href="/wiki/Littlewood%E2%80%93Richardson_rule" title="Littlewood–Richardson rule">Littlewood–Richardson rule</a> describing (among other things) the decomposition of <a href="/wiki/Tensor_product" title="Tensor product">tensor products</a> of irreducible representations of <span class="texhtml"><i>GL</i><sub><i>n</i></sub></span> into irreducible components is formulated in terms of certain skew semistandard tableaux.
+</p><p>Applications to algebraic geometry center around <a href="/wiki/Schubert_calculus" title="Schubert calculus">Schubert calculus</a> on Grassmannians and <a href="/wiki/Flag_varieties" class="mw-redirect" title="Flag varieties">flag varieties</a>. Certain important <a href="/wiki/Cohomology_class" class="mw-redirect" title="Cohomology class">cohomology classes</a> can be represented by <a href="/wiki/Schubert_polynomial" title="Schubert polynomial">Schubert polynomials</a> and described in terms of Young tableaux.
+</p>
+<div class="mw-heading mw-heading2"><h2 id="Applications_in_representation_theory">Applications in representation theory</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Young_tableau&amp;action=edit&amp;section=8" title="Edit section: Applications in representation theory"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<style data-mw-deduplicate="TemplateStyles:r1320445320">.mw-parser-output .hatnote{font-style:italic}.mw-parser-output div.hatnote{padding-left:1.6em;margin-bottom:0.5em}.mw-parser-output .hatnote i{font-style:normal}.mw-parser-output .hatnote+link+.hatnote{margin-top:-0.5em}@media print{body.ns-0 .mw-parser-output .hatnote{display:none!important}}</style><div role="note" class="hatnote navigation-not-searchable">See also: <a href="/wiki/Representation_theory_of_the_symmetric_group" title="Representation theory of the symmetric group">Representation theory of the symmetric group</a></div>
+<p>Young diagrams are in one-to-one correspondence with <a href="/wiki/Irreducible_representation" title="Irreducible representation">irreducible representations</a> of the <a href="/wiki/Symmetric_group" title="Symmetric group">symmetric group</a> over the <a href="/wiki/Complex_number" title="Complex number">complex numbers</a>. They provide a convenient way of specifying the <a href="/wiki/Young_symmetrizer" title="Young symmetrizer">Young symmetrizers</a> from which the <a href="/wiki/Representation_theory_of_the_symmetric_group" title="Representation theory of the symmetric group">irreducible representations</a> are built. Many facts about a representation can be deduced from the corresponding diagram. Below, we describe two examples: determining the dimension of a representation and restricted representations. In both cases, we will see that some properties of a representation can be determined by using just its diagram. Young tableaux are involved in the use of the symmetric group in
+quantum chemistry studies of atoms, molecules and solids.<sup id="cite&#95;ref-6" class="reference"><a href="#cite_note-6"><span class="cite-bracket">&#91;</span>6<span class="cite-bracket">&#93;</span></a></sup><sup id="cite&#95;ref-7" class="reference"><a href="#cite_note-7"><span class="cite-bracket">&#91;</span>7<span class="cite-bracket">&#93;</span></a></sup>
+</p><p>Young diagrams also parametrize the irreducible polynomial representations of the <a href="/wiki/General_linear_group" title="General linear group">general linear group</a> <span class="texhtml"><i>GL</i><sub><i>n</i></sub></span> (when they have at most <span class="texhtml mvar" style="font-style:italic;"><i>n</i></span> nonempty rows), or the irreducible representations of the <a href="/wiki/Special_linear_group" title="Special linear group">special linear group</a> <span class="texhtml"><i>SL</i><sub><i>n</i></sub></span> (when they have at most <span class="texhtml"><i>n</i> − 1</span> nonempty rows), or the irreducible complex representations of the <a href="/wiki/Special_unitary_group" title="Special unitary group">special unitary group</a> <span class="texhtml"><i>SU</i><sub><i>n</i></sub></span> (again when they have at most <span class="texhtml"><i>n</i> − 1</span> nonempty rows). In these cases semistandard tableaux with entries up to <span class="texhtml mvar" style="font-style:italic;"><i>n</i></span> play a central role, rather than standard tableaux; in particular it is the number of those tableaux that determines the dimension of the representation.
+</p>
+<div class="mw-heading mw-heading3"><h3 id="Dimension_of_a_representation">Dimension of a representation</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Young_tableau&amp;action=edit&amp;section=9" title="Edit section: Dimension of a representation"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1320445320" /><div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Hook_length_formula" title="Hook length formula">Hook length formula</a></div>
+<style data-mw-deduplicate="TemplateStyles:r1341655071">@media all and (max-width:720px){.mw-parser-output .content .thumb>div:not(.thumbinner){display:flex;justify-content:center;flex-wrap:wrap;align-content:flex-start;flex-direction:column}}body.skin-vector .mw-parser-output div.thumb>div:not(.thumbinner){font-size:94%;text-align:center;overflow:hidden;min-width:100px}body.skin-minerva .mw-parser-output div.thumb>div:not(.thumbinner){margin:0 auto;max-width:100%!important}</style> 
+<div class="thumb tright">
+<div style="display:table;">
+<span class="mw-default-size" typeof="mw:File/Frameless"><a href="/wiki/File:Hook_length_for_541_partition.svg" class="mw-file-description" title="Hook-lengths of the boxes for the partition 10&#160;=&#160;5&#160;+&#160;4&#160;+&#160;1"><img alt="Hook-lengths of the boxes for the partition 10&#160;=&#160;5&#160;+&#160;4&#160;+&#160;1" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Hook_length_for_541_partition.svg/250px-Hook_length_for_541_partition.svg.png" decoding="async" width="250" height="150" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Hook_length_for_541_partition.svg/500px-Hook_length_for_541_partition.svg.png 2x" data-file-width="180" data-file-height="108" /></a></span><div class="thumbcaption" style="display:table-caption;caption-side:bottom;box-sizing:border-box;"><i>Hook-lengths</i> of the boxes for the partition 10&#160;=&#160;5&#160;+&#160;4&#160;+&#160;1 </div>
+</div>
+</div>
+<p>The dimension of the irreducible representation <span class="texhtml"><span class="texhtml mvar" style="font-style:italic;">π</span><sub><i>λ</i></sub></span> of the symmetric group <span class="texhtml"><i>S</i><sub><i>n</i></sub></span> corresponding to a partition <span class="texhtml mvar" style="font-style:italic;"><i>λ</i></span> of <span class="texhtml mvar" style="font-style:italic;"><i>n</i></span> is equal to the number of different standard Young tableaux that can be obtained from the diagram of the representation. This number can be calculated by the <a href="/wiki/Hook_length_formula" title="Hook length formula">hook length formula</a>.
+</p><p>A <b>hook length</b> <span class="texhtml">hook(<i>x</i>)</span> of a box <span class="texhtml mvar" style="font-style:italic;"><i>x</i></span> in Young diagram <span class="texhtml"><i>Y</i>(<i>λ</i>)</span> of shape <span class="texhtml mvar" style="font-style:italic;"><i>λ</i></span> is the number of boxes that are in the same row to the right of it plus those boxes in the same column below it, plus one (for the box itself). By the hook-length formula, the dimension of an irreducible representation is <span class="texhtml"><i>n</i>!</span> divided by the product of the hook lengths of all boxes in the diagram of the representation:
+</p>
+<dl><dd><span class="mwe-math-element mwe-math-element-inline"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \dim \pi _{\lambda }={\frac {n!}{\prod _{x\in Y(\lambda )}\operatorname {hook} (x)}}.}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>dim</mi>
+        <mo>&#x2061;<!-- ⁡ --></mo>
+        <msub>
+          <mi>&#x03C0;<!-- π --></mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>&#x03BB;<!-- λ --></mi>
+          </mrow>
+        </msub>
+        <mo>=</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mrow>
+              <mi>n</mi>
+              <mo>!</mo>
+            </mrow>
+            <mrow>
+              <munder>
+                <mo>&#x220F;<!-- ∏ --></mo>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mi>x</mi>
+                  <mo>&#x2208;<!-- ∈ --></mo>
+                  <mi>Y</mi>
+                  <mo stretchy="false">(</mo>
+                  <mi>&#x03BB;<!-- λ --></mi>
+                  <mo stretchy="false">)</mo>
+                </mrow>
+              </munder>
+              <mi>hook</mi>
+              <mo>&#x2061;<!-- ⁡ --></mo>
+              <mo stretchy="false">(</mo>
+              <mi>x</mi>
+              <mo stretchy="false">)</mo>
+            </mrow>
+          </mfrac>
+        </mrow>
+        <mo>.</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \dim \pi _{\lambda }={\frac {n!}{\prod _{x\in Y(\lambda )}\operatorname {hook} (x)}}.}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/424aa0cfde01f35c7c1e2eab06633fc72e3fe54a" class="mwe-math-fallback-image-inline mw-invert skin-invert" aria-hidden="true" style="vertical-align: -3.171ex; width:27.684ex; height:6.676ex;" alt="{\displaystyle \dim \pi _{\lambda }={\frac {n!}{\prod _{x\in Y(\lambda )}\operatorname {hook} (x)}}.}"></span></dd></dl>
+<p>The figure on the right shows hook-lengths for all boxes in the diagram of the partition 10 = 5 + 4 + 1. Thus
+</p>
+<dl><dd><span class="mwe-math-element mwe-math-element-inline"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \dim \pi _{\lambda }={\frac {10!}{7\cdot 5\cdot 4\cdot 3\cdot 1\cdot 5\cdot 3\cdot 2\cdot 1\cdot 1}}=288.}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>dim</mi>
+        <mo>&#x2061;<!-- ⁡ --></mo>
+        <msub>
+          <mi>&#x03C0;<!-- π --></mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>&#x03BB;<!-- λ --></mi>
+          </mrow>
+        </msub>
+        <mo>=</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mrow>
+              <mn>10</mn>
+              <mo>!</mo>
+            </mrow>
+            <mrow>
+              <mn>7</mn>
+              <mo>&#x22C5;<!-- ⋅ --></mo>
+              <mn>5</mn>
+              <mo>&#x22C5;<!-- ⋅ --></mo>
+              <mn>4</mn>
+              <mo>&#x22C5;<!-- ⋅ --></mo>
+              <mn>3</mn>
+              <mo>&#x22C5;<!-- ⋅ --></mo>
+              <mn>1</mn>
+              <mo>&#x22C5;<!-- ⋅ --></mo>
+              <mn>5</mn>
+              <mo>&#x22C5;<!-- ⋅ --></mo>
+              <mn>3</mn>
+              <mo>&#x22C5;<!-- ⋅ --></mo>
+              <mn>2</mn>
+              <mo>&#x22C5;<!-- ⋅ --></mo>
+              <mn>1</mn>
+              <mo>&#x22C5;<!-- ⋅ --></mo>
+              <mn>1</mn>
+            </mrow>
+          </mfrac>
+        </mrow>
+        <mo>=</mo>
+        <mn>288.</mn>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \dim \pi _{\lambda }={\frac {10!}{7\cdot 5\cdot 4\cdot 3\cdot 1\cdot 5\cdot 3\cdot 2\cdot 1\cdot 1}}=288.}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/098e91eed61c790e029b6ede831a77327c70d522" class="mwe-math-fallback-image-inline mw-invert skin-invert" aria-hidden="true" style="vertical-align: -2.005ex; width:44.682ex; height:5.509ex;" alt="{\displaystyle \dim \pi _{\lambda }={\frac {10!}{7\cdot 5\cdot 4\cdot 3\cdot 1\cdot 5\cdot 3\cdot 2\cdot 1\cdot 1}}=288.}"></span></dd></dl>
+<p>Similarly, the dimension of the irreducible representation <span class="texhtml"><i>W</i>(<i>λ</i>)</span> of <span class="texhtml">GL<sub><i>r</i></sub></span> corresponding to the partition <i>λ</i> of <i>n</i> (with at most <i>r</i> parts) is the number of semistandard Young tableaux of shape <i>λ</i> (containing only the entries from 1 to <i>r</i>), which is given by the hook-length formula:
+</p>
+<dl><dd><span class="mwe-math-element mwe-math-element-inline"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \dim W(\lambda )=\prod _{(i,j)\in Y(\lambda )}{\frac {r+j-i}{\operatorname {hook} (i,j)}},}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>dim</mi>
+        <mo>&#x2061;<!-- ⁡ --></mo>
+        <mi>W</mi>
+        <mo stretchy="false">(</mo>
+        <mi>&#x03BB;<!-- λ --></mi>
+        <mo stretchy="false">)</mo>
+        <mo>=</mo>
+        <munder>
+          <mo>&#x220F;<!-- ∏ --></mo>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mo stretchy="false">(</mo>
+            <mi>i</mi>
+            <mo>,</mo>
+            <mi>j</mi>
+            <mo stretchy="false">)</mo>
+            <mo>&#x2208;<!-- ∈ --></mo>
+            <mi>Y</mi>
+            <mo stretchy="false">(</mo>
+            <mi>&#x03BB;<!-- λ --></mi>
+            <mo stretchy="false">)</mo>
+          </mrow>
+        </munder>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mrow>
+              <mi>r</mi>
+              <mo>+</mo>
+              <mi>j</mi>
+              <mo>&#x2212;<!-- − --></mo>
+              <mi>i</mi>
+            </mrow>
+            <mrow>
+              <mi>hook</mi>
+              <mo>&#x2061;<!-- ⁡ --></mo>
+              <mo stretchy="false">(</mo>
+              <mi>i</mi>
+              <mo>,</mo>
+              <mi>j</mi>
+              <mo stretchy="false">)</mo>
+            </mrow>
+          </mfrac>
+        </mrow>
+        <mo>,</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \dim W(\lambda )=\prod _{(i,j)\in Y(\lambda )}{\frac {r+j-i}{\operatorname {hook} (i,j)}},}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/fcfdb86751116b356098be3ccbca4fc456059c54" class="mwe-math-fallback-image-inline mw-invert skin-invert" aria-hidden="true" style="vertical-align: -3.505ex; width:31.849ex; height:7.009ex;" alt="{\displaystyle \dim W(\lambda )=\prod _{(i,j)\in Y(\lambda )}{\frac {r+j-i}{\operatorname {hook} (i,j)}},}"></span></dd></dl>
+<p>where the index <i>i</i> gives the row and <i>j</i> the column of a box.<sup id="cite&#95;ref-8" class="reference"><a href="#cite_note-8"><span class="cite-bracket">&#91;</span>8<span class="cite-bracket">&#93;</span></a></sup> For instance, for the partition (5,4,1) we get as dimension of the corresponding irreducible representation of <span class="texhtml">GL<sub>7</sub></span> (traversing the boxes by rows):
+</p>
+<dl><dd><span class="mwe-math-element mwe-math-element-inline"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \dim W(\lambda )={\frac {7\cdot 8\cdot 9\cdot 10\cdot 11\cdot 6\cdot 7\cdot 8\cdot 9\cdot 5}{7\cdot 5\cdot 4\cdot 3\cdot 1\cdot 5\cdot 3\cdot 2\cdot 1\cdot 1}}=66528.}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>dim</mi>
+        <mo>&#x2061;<!-- ⁡ --></mo>
+        <mi>W</mi>
+        <mo stretchy="false">(</mo>
+        <mi>&#x03BB;<!-- λ --></mi>
+        <mo stretchy="false">)</mo>
+        <mo>=</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mrow>
+              <mn>7</mn>
+              <mo>&#x22C5;<!-- ⋅ --></mo>
+              <mn>8</mn>
+              <mo>&#x22C5;<!-- ⋅ --></mo>
+              <mn>9</mn>
+              <mo>&#x22C5;<!-- ⋅ --></mo>
+              <mn>10</mn>
+              <mo>&#x22C5;<!-- ⋅ --></mo>
+              <mn>11</mn>
+              <mo>&#x22C5;<!-- ⋅ --></mo>
+              <mn>6</mn>
+              <mo>&#x22C5;<!-- ⋅ --></mo>
+              <mn>7</mn>
+              <mo>&#x22C5;<!-- ⋅ --></mo>
+              <mn>8</mn>
+              <mo>&#x22C5;<!-- ⋅ --></mo>
+              <mn>9</mn>
+              <mo>&#x22C5;<!-- ⋅ --></mo>
+              <mn>5</mn>
+            </mrow>
+            <mrow>
+              <mn>7</mn>
+              <mo>&#x22C5;<!-- ⋅ --></mo>
+              <mn>5</mn>
+              <mo>&#x22C5;<!-- ⋅ --></mo>
+              <mn>4</mn>
+              <mo>&#x22C5;<!-- ⋅ --></mo>
+              <mn>3</mn>
+              <mo>&#x22C5;<!-- ⋅ --></mo>
+              <mn>1</mn>
+              <mo>&#x22C5;<!-- ⋅ --></mo>
+              <mn>5</mn>
+              <mo>&#x22C5;<!-- ⋅ --></mo>
+              <mn>3</mn>
+              <mo>&#x22C5;<!-- ⋅ --></mo>
+              <mn>2</mn>
+              <mo>&#x22C5;<!-- ⋅ --></mo>
+              <mn>1</mn>
+              <mo>&#x22C5;<!-- ⋅ --></mo>
+              <mn>1</mn>
+            </mrow>
+          </mfrac>
+        </mrow>
+        <mo>=</mo>
+        <mn>66528.</mn>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \dim W(\lambda )={\frac {7\cdot 8\cdot 9\cdot 10\cdot 11\cdot 6\cdot 7\cdot 8\cdot 9\cdot 5}{7\cdot 5\cdot 4\cdot 3\cdot 1\cdot 5\cdot 3\cdot 2\cdot 1\cdot 1}}=66528.}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/592c595edbbc1c836b3c57c35ded41d2ec0f39bb" class="mwe-math-fallback-image-inline mw-invert skin-invert" aria-hidden="true" style="vertical-align: -2.005ex; width:52.416ex; height:5.343ex;" alt="{\displaystyle \dim W(\lambda )={\frac {7\cdot 8\cdot 9\cdot 10\cdot 11\cdot 6\cdot 7\cdot 8\cdot 9\cdot 5}{7\cdot 5\cdot 4\cdot 3\cdot 1\cdot 5\cdot 3\cdot 2\cdot 1\cdot 1}}=66528.}"></span></dd></dl>
+<div class="mw-heading mw-heading3"><h3 id="Restricted_representations">Restricted representations</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Young_tableau&amp;action=edit&amp;section=10" title="Edit section: Restricted representations"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>A representation of the symmetric group on <span class="texhtml mvar" style="font-style:italic;"><i>n</i></span> elements, <span class="texhtml"><i>S</i><sub><i>n</i></sub></span> is also a representation of the symmetric group on <span class="texhtml"><i>n</i> − 1</span> elements, <span class="texhtml"><i>S</i><sub><i>n</i>−1</sub></span>. However, an irreducible representation of <span class="texhtml"><i>S</i><sub><i>n</i></sub></span> may not be irreducible for <span class="texhtml"><i>S</i><sub><i>n</i>−1</sub></span>. Instead, it may be a <a href="/wiki/Direct_sum_of_representations" class="mw-redirect" title="Direct sum of representations">direct sum</a> of several representations that are irreducible for <span class="texhtml"><i>S</i><sub><i>n</i>−1</sub></span>. These representations are then called the factors of the <a href="/wiki/Restricted_representation" title="Restricted representation">restricted representation</a> (see also <a href="/wiki/Induced_representation" title="Induced representation">induced representation</a>).
+</p><p>The question of determining this decomposition of the restricted representation of a given irreducible representation of <i>S</i><sub><i>n</i></sub>, corresponding to a partition <span class="texhtml mvar" style="font-style:italic;"><i>λ</i></span> of <span class="texhtml mvar" style="font-style:italic;"><i>n</i></span>, is answered as follows. One forms the set of all Young diagrams that can be obtained from the diagram of shape <span class="texhtml mvar" style="font-style:italic;"><i>λ</i></span> by removing just one box (which must be at the end both of its row and of its column); the restricted representation then decomposes as a direct sum of the irreducible representations of <span class="texhtml"><i>S</i><sub><i>n</i>−1</sub></span> corresponding to those diagrams, each occurring exactly once in the sum.
+</p>
+<div class="mw-heading mw-heading2"><h2 id="See_also">See also</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Young_tableau&amp;action=edit&amp;section=11" title="Edit section: See also"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<ul><li><a href="/wiki/Robinson%E2%80%93Schensted_correspondence" title="Robinson–Schensted correspondence">Robinson–Schensted correspondence</a></li>
+<li><a href="/wiki/Schur%E2%80%93Weyl_duality" title="Schur–Weyl duality">Schur–Weyl duality</a></li></ul>
+<div class="mw-heading mw-heading2"><h2 id="Notes">Notes</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Young_tableau&amp;action=edit&amp;section=12" title="Edit section: Notes"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<style data-mw-deduplicate="TemplateStyles:r1327269900">.mw-parser-output .reflist-columns-2{column-width:30em}.mw-parser-output .reflist-columns-3{column-width:25em}body.skin-vector-2022 .mw-parser-output .reflist-columns-2{column-width:27em}body.skin-vector-2022 .mw-parser-output .reflist-columns-3{column-width:22.5em}.mw-parser-output .references[data-mw-group=upper-alpha]{list-style-type:upper-alpha}.mw-parser-output .references[data-mw-group=upper-roman]{list-style-type:upper-roman}.mw-parser-output .references[data-mw-group=lower-alpha]{list-style-type:lower-alpha}.mw-parser-output .references[data-mw-group=lower-greek]{list-style-type:lower-greek}.mw-parser-output .references[data-mw-group=lower-roman]{list-style-type:lower-roman}.mw-parser-output div.reflist-liststyle-upper-alpha .references{list-style-type:upper-alpha}.mw-parser-output div.reflist-liststyle-upper-roman .references{list-style-type:upper-roman}.mw-parser-output div.reflist-liststyle-lower-alpha .references{list-style-type:lower-alpha}.mw-parser-output div.reflist-liststyle-lower-greek .references{list-style-type:lower-greek}.mw-parser-output div.reflist-liststyle-lower-roman .references{list-style-type:lower-roman}</style><div>
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite&#95;note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r1333433106">.mw-parser-output cite.citation{font-style:inherit;word-wrap:break-word}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation:target{background-color:rgba(0,127,255,0.133)}.mw-parser-output .id-lock-free.id-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited.id-lock-limited a,.mw-parser-output .id-lock-registration.id-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription.id-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .id-lock-free a,body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .id-lock-limited a,body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .id-lock-registration a,body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .id-lock-subscription a,body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .cs1-ws-icon a{background-size:contain;padding:0 1em 0 0}.mw-parser-output .cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;color:var(--color-error,#bf3c2c)}.mw-parser-output .cs1-visible-error{color:var(--color-error,#bf3c2c)}.mw-parser-output .cs1-maint{display:none;color:#085;margin-left:0.3em}.mw-parser-output .cs1-kern-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}@media screen{.mw-parser-output .cs1-format{font-size:95%}html.skin-theme-clientpref-night .mw-parser-output .cs1-maint{color:#18911f}}@media screen and (prefers-color-scheme:dark){html.skin-theme-clientpref-os .mw-parser-output .cs1-maint{color:#18911f}}</style><cite id="CITEREFKnuth1973" class="citation cs2"><a href="/wiki/Donald_Knuth" title="Donald Knuth">Knuth, Donald E.</a> (1973), <a href="/wiki/The_Art_of_Computer_Programming" title="The Art of Computer Programming"><i>The Art of Computer Programming, Vol. III: Sorting and Searching</i></a> (2nd&#160;ed.), Addison-Wesley, p.&#160;48, <q>Such arrangements were introduced by Alfred Young in 1900</q></cite><span title="ctx&#95;ver=Z39.88-2004&amp;rft&#95;val&#95;fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Art+of+Computer+Programming%2C+Vol.+III%3A+Sorting+and+Searching&amp;rft.pages=48&amp;rft.edition=2nd&amp;rft.pub=Addison-Wesley&amp;rft.date=1973&amp;rft.aulast=Knuth&amp;rft.aufirst=Donald+E.&amp;rfr&#95;id=info%3Asid%2Fen.wikipedia.org%3AYoung+tableau" class="Z3988"></span>.</span>
+</li>
+<li id="cite&#95;note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1333433106" /><cite id="CITEREFYoung1900" class="citation cs2">Young, A. (1900), <a rel="nofollow" class="external text" href="https://zenodo.org/record/1447746">"On quantitative substitutional analysis"</a>, <i>Proceedings of the London Mathematical Society</i>, Series 1, <b>33</b> (1): <span class="nowrap">97–</span>145, <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1112%2Fplms%2Fs1-33.1.97">10.1112/plms/s1-33.1.97</a></cite><span title="ctx&#95;ver=Z39.88-2004&amp;rft&#95;val&#95;fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Proceedings+of+the+London+Mathematical+Society&amp;rft.atitle=On+quantitative+substitutional+analysis&amp;rft.volume=33&amp;rft.issue=1&amp;rft.pages=97-145&amp;rft.date=1900&amp;rft&#95;id=info%3Adoi%2F10.1112%2Fplms%2Fs1-33.1.97&amp;rft.aulast=Young&amp;rft.aufirst=A.&amp;rft&#95;id=https%3A%2F%2Fzenodo.org%2Frecord%2F1447746&amp;rfr&#95;id=info%3Asid%2Fen.wikipedia.org%3AYoung+tableau" class="Z3988"></span>. See in particular p.&#160;133.</span>
+</li>
+<li id="cite&#95;note-ste89-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-ste89_3-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1333433106" /><cite id="CITEREFStembridge1989" class="citation journal cs1">Stembridge, John (1989-12-01). <a rel="nofollow" class="external text" href="https://doi.org/10.2140%2Fpjm.1989.140.353">"On the eigenvalues of representations of reflection groups and wreath products"</a>. <i>Pacific Journal of Mathematics</i>. <b>140</b> (2). Mathematical Sciences Publishers: <span class="nowrap">353–</span>396. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<span class="id-lock-free" title="Freely accessible"><a rel="nofollow" class="external text" href="https://doi.org/10.2140%2Fpjm.1989.140.353">10.2140/pjm.1989.140.353</a></span>. <a href="/wiki/ISSN_(identifier)" class="mw-redirect" title="ISSN (identifier)">ISSN</a>&#160;<a rel="nofollow" class="external text" href="https://search.worldcat.org/issn/0030-8730">0030-8730</a>.</cite><span title="ctx&#95;ver=Z39.88-2004&amp;rft&#95;val&#95;fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Pacific+Journal+of+Mathematics&amp;rft.atitle=On+the+eigenvalues+of+representations+of+reflection+groups+and+wreath+products&amp;rft.volume=140&amp;rft.issue=2&amp;rft.pages=353-396&amp;rft.date=1989-12-01&amp;rft&#95;id=info%3Adoi%2F10.2140%2Fpjm.1989.140.353&amp;rft.issn=0030-8730&amp;rft.aulast=Stembridge&amp;rft.aufirst=John&amp;rft&#95;id=https%3A%2F%2Fdoi.org%2F10.2140%252Fpjm.1989.140.353&amp;rfr&#95;id=info%3Asid%2Fen.wikipedia.org%3AYoung+tableau" class="Z3988"></span></span>
+</li>
+<li id="cite&#95;note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">For instance the skew diagram consisting of a single square at position (2,4) can be obtained by removing the diagram of <span class="texhtml"><i>μ</i>&#160;=&#160;(5,3,2,1)</span> from the one of <span class="texhtml"><i>λ</i> = (5,4,2,1)</span>, but also in (infinitely) many other ways. In general any skew diagram whose set of non-empty rows (or of non-empty columns) is not contiguous or does not contain the first row (respectively column) will be associated to more than one skew shape.</span>
+</li>
+<li id="cite&#95;note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text">A somewhat similar situation arises for matrices: the 3-by-0 matrix <span class="texhtml mvar" style="font-style:italic;"><i>A</i></span> must be distinguished from the 0-by-3 matrix <span class="texhtml mvar" style="font-style:italic;"><i>B</i></span>, since <span class="texhtml"><i>AB</i></span> is a 3-by-3 (zero) matrix while <span class="texhtml"><i>BA</i></span> is the 0-by-0 matrix, but both <span class="texhtml mvar" style="font-style:italic;"><i>A</i></span> and <span class="texhtml mvar" style="font-style:italic;"><i>B</i></span> have the same (empty) set of entries; for skew tableaux however such distinction is necessary even in cases where the set of entries is not empty.</span>
+</li>
+<li id="cite&#95;note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text">Philip R. Bunker and Per Jensen (1998) <i>Molecular Symmetry and Spectroscopy</i>, 
+2nd ed.  NRC Research Press, Ottawa <a rel="nofollow" class="external autonumber" href="https://volumesdirect.com/products/molecular-symmetry-and-spectroscopy?_pos=1&amp;_sid=ed0cc0319&amp;_ss=r">[1]</a>
+pp.198-202.<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1333433106" /><a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/9780660196282" title="Special:BookSources/9780660196282"><bdi>9780660196282</bdi></a></span>
+</li>
+<li id="cite&#95;note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text">R.Pauncz (1995) <i>The Symmetric Group in Quantum Chemistry</i>,
+CRC Press, Boca Raton, Florida</span>
+</li>
+<li id="cite&#95;note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1333433106" /><cite id="CITEREFPredrag&#95;Cvitanović2008" class="citation book cs1"><a href="/wiki/Predrag_Cvitanovi%C4%87" title="Predrag Cvitanović">Predrag Cvitanović</a> (2008). <a rel="nofollow" class="external text" href="http://birdtracks.eu/"><i>Group Theory: Birdtracks, Lie's, and Exceptional Groups</i></a>. Princeton University Press.</cite><span title="ctx&#95;ver=Z39.88-2004&amp;rft&#95;val&#95;fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Group+Theory%3A+Birdtracks%2C+Lie%27s%2C+and+Exceptional+Groups&amp;rft.pub=Princeton+University+Press&amp;rft.date=2008&amp;rft.au=Predrag+Cvitanovi%C4%87&amp;rft&#95;id=http%3A%2F%2Fbirdtracks.eu%2F&amp;rfr&#95;id=info%3Asid%2Fen.wikipedia.org%3AYoung+tableau" class="Z3988"></span>, eq. 9.28 and appendix B.4</span>
+</li>
+</ol></div></div>
+<div class="mw-heading mw-heading2"><h2 id="References">References</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Young_tableau&amp;action=edit&amp;section=13" title="Edit section: References"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<ul><li><a href="/wiki/William_Fulton_(mathematician)" title="William Fulton (mathematician)">William Fulton</a>. <i>Young Tableaux, with Applications to Representation Theory and Geometry</i>. Cambridge University Press, 1997, <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1333433106" /><a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-521-56724-6" title="Special:BookSources/0-521-56724-6"><bdi>0-521-56724-6</bdi></a>.</li>
+<li><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1333433106" /><cite id="CITEREFFultonHarris1991" class="citation book cs1"><a href="/wiki/William_Fulton_(mathematician)" title="William Fulton (mathematician)">Fulton, William</a>; <a href="/wiki/Joe_Harris_(mathematician)" title="Joe Harris (mathematician)">Harris, Joe</a> (1991). <i>Representation theory. A first course</i>. <a href="/wiki/Graduate_Texts_in_Mathematics" title="Graduate Texts in Mathematics">Graduate Texts in Mathematics</a>, Readings in Mathematics. Vol.&#160;129. New York: Springer-Verlag. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1007%2F978-1-4612-0979-9">10.1007/978-1-4612-0979-9</a>. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-387-97495-8" title="Special:BookSources/978-0-387-97495-8"><bdi>978-0-387-97495-8</bdi></a>. <a href="/wiki/MR_(identifier)" class="mw-redirect" title="MR (identifier)">MR</a>&#160;<a rel="nofollow" class="external text" href="https://mathscinet.ams.org/mathscinet-getitem?mr=1153249">1153249</a>. <a href="/wiki/OCLC_(identifier)" class="mw-redirect" title="OCLC (identifier)">OCLC</a>&#160;<a rel="nofollow" class="external text" href="https://search.worldcat.org/oclc/246650103">246650103</a>.</cite><span title="ctx&#95;ver=Z39.88-2004&amp;rft&#95;val&#95;fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Representation+theory.+A+first+course&amp;rft.place=New+York&amp;rft.series=Graduate+Texts+in+Mathematics%2C+Readings+in+Mathematics&amp;rft.pub=Springer-Verlag&amp;rft.date=1991&amp;rft&#95;id=info%3Aoclcnum%2F246650103&amp;rft&#95;id=https%3A%2F%2Fmathscinet.ams.org%2Fmathscinet-getitem%3Fmr%3D1153249%23id-name%3DMR&amp;rft&#95;id=info%3Adoi%2F10.1007%2F978-1-4612-0979-9&amp;rft.isbn=978-0-387-97495-8&amp;rft.aulast=Fulton&amp;rft.aufirst=William&amp;rft.au=Harris%2C+Joe&amp;rfr&#95;id=info%3Asid%2Fen.wikipedia.org%3AYoung+tableau" class="Z3988"></span> Lecture 4</li>
+<li>Howard Georgi, Lie Algebras in Particle Physics, 2nd Edition - Westview</li>
+<li><a href="/wiki/Ian_G._Macdonald" title="Ian G. Macdonald">Macdonald, I. G.</a> <i>Symmetric functions and Hall polynomials.</i> Oxford Mathematical Monographs. The Clarendon Press, Oxford University Press, Oxford, 1979. viii+180 pp. <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1333433106" /><a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-19-853530-9" title="Special:BookSources/0-19-853530-9"><bdi>0-19-853530-9</bdi></a> <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1333433106" /><a href="/wiki/MR_(identifier)" class="mw-redirect" title="MR (identifier)">MR</a>&#160;<a rel="nofollow" class="external text" href="https://mathscinet.ams.org/mathscinet-getitem?mr=0553598">0553598</a></li>
+<li>Laurent Manivel. <i>Symmetric Functions, Schubert Polynomials, and Degeneracy Loci</i>.  American Mathematical Society.</li>
+<li><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1333433106" /><cite id="CITEREFGreeneNijenhuisWilf1979" class="citation journal cs1"><a href="/wiki/Curtis_Greene" title="Curtis Greene">Greene, Curtis</a>; <a href="/wiki/Albert_Nijenhuis" title="Albert Nijenhuis">Nijenhuis, Albert</a>; <a href="/wiki/Herbert_Wilf" title="Herbert Wilf">Wilf, Herbert S.</a> (1979). <a rel="nofollow" class="external text" href="https://doi.org/10.1016%2F0001-8708%2879%2990023-9">"A probabilistic proof of a formula for the number of Young tableaux of a given shape"</a>. <i><a href="/wiki/Advances_in_Mathematics" title="Advances in Mathematics">Advances in Mathematics</a></i>. <b>31</b> (1). Amsterdam: <a href="/wiki/Elsevier" title="Elsevier">Elsevier</a>: <span class="nowrap">104–</span>109. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<span class="id-lock-free" title="Freely accessible"><a rel="nofollow" class="external text" href="https://doi.org/10.1016%2F0001-8708%2879%2990023-9">10.1016/0001-8708(79)90023-9</a></span>. <a href="/wiki/MR_(identifier)" class="mw-redirect" title="MR (identifier)">MR</a>&#160;<a rel="nofollow" class="external text" href="https://mathscinet.ams.org/mathscinet-getitem?mr=0521470">0521470</a>. <a href="/wiki/Zbl_(identifier)" class="mw-redirect" title="Zbl (identifier)">Zbl</a>&#160;<a rel="nofollow" class="external text" href="https://zbmath.org/?format=complete&amp;q=an:0398.05008">0398.05008</a>.</cite><span title="ctx&#95;ver=Z39.88-2004&amp;rft&#95;val&#95;fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Advances+in+Mathematics&amp;rft.atitle=A+probabilistic+proof+of+a+formula+for+the+number+of+Young+tableaux+of+a+given+shape&amp;rft.volume=31&amp;rft.issue=1&amp;rft.pages=104-109&amp;rft.date=1979&amp;rft&#95;id=https%3A%2F%2Fzbmath.org%2F%3Fformat%3Dcomplete%26q%3Dan%3A0398.05008%23id-name%3DZbl&amp;rft&#95;id=https%3A%2F%2Fmathscinet.ams.org%2Fmathscinet-getitem%3Fmr%3D0521470%23id-name%3DMR&amp;rft&#95;id=info%3Adoi%2F10.1016%2F0001-8708%2879%2990023-9&amp;rft.aulast=Greene&amp;rft.aufirst=Curtis&amp;rft.au=Nijenhuis%2C+Albert&amp;rft.au=Wilf%2C+Herbert+S.&amp;rft&#95;id=https%3A%2F%2Fdoi.org%2F10.1016%252F0001-8708%252879%252990023-9&amp;rfr&#95;id=info%3Asid%2Fen.wikipedia.org%3AYoung+tableau" class="Z3988"></span></li>
+<li>Jean-Christophe Novelli, <a href="/wiki/Igor_Pak" title="Igor Pak">Igor Pak</a>, Alexander V. Stoyanovskii, "<a rel="nofollow" class="external text" href="https://dmtcs.episciences.org/239">A direct bijective proof of the Hook-length formula</a>", <i>Discrete Mathematics and Theoretical Computer Science</i> <b>1</b> (1997), pp.&#160;53–67.</li>
+<li><a href="/wiki/Bruce_Sagan" title="Bruce Sagan">Bruce E. Sagan</a>. <i>The Symmetric Group</i>. Springer, 2001, <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1333433106" /><a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-387-95067-2" title="Special:BookSources/0-387-95067-2"><bdi>0-387-95067-2</bdi></a></li>
+<li><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1333433106" /><cite id="CITEREFVinberg2001" class="citation cs2"><a href="/wiki/Ernest_Vinberg" title="Ernest Vinberg">Vinberg, E.B.</a> (2001) [1994], <a rel="nofollow" class="external text" href="https://www.encyclopediaofmath.org/index.php?title=Young_tableau">"Young tableau"</a>, <i><a href="/wiki/Encyclopedia_of_Mathematics" title="Encyclopedia of Mathematics">Encyclopedia of Mathematics</a></i>, <a href="/wiki/European_Mathematical_Society" title="European Mathematical Society">EMS Press</a></cite><span title="ctx&#95;ver=Z39.88-2004&amp;rft&#95;val&#95;fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Young+tableau&amp;rft.btitle=Encyclopedia+of+Mathematics&amp;rft.pub=EMS+Press&amp;rft.date=2001&amp;rft.aulast=Vinberg&amp;rft.aufirst=E.B.&amp;rft&#95;id=https%3A%2F%2Fwww.encyclopediaofmath.org%2Findex.php%3Ftitle%3DYoung&#95;tableau&amp;rfr&#95;id=info%3Asid%2Fen.wikipedia.org%3AYoung+tableau" class="Z3988"></span></li>
+<li><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1333433106" /><cite id="CITEREFYong2007" class="citation journal cs1">Yong, Alexander (February 2007). <a rel="nofollow" class="external text" href="https://web.archive.org/web/20080725151338/http://www.ams.org/notices/200702/whatis-yong.pdf">"What is...a Young Tableau?"</a> <span class="cs1-format">(PDF)</span>. <i><a href="/wiki/Notices_of_the_American_Mathematical_Society" title="Notices of the American Mathematical Society">Notices of the American Mathematical Society</a></i>. <b>54</b> (2): <span class="nowrap">240–</span>241. Archived from <a rel="nofollow" class="external text" href="http://www.ams.org/notices/200702/whatis-yong.pdf">the original</a> <span class="cs1-format">(PDF)</span> on 2008-07-25<span class="reference-accessdate">. Retrieved <span class="nowrap">2008-01-16</span></span>.</cite><span title="ctx&#95;ver=Z39.88-2004&amp;rft&#95;val&#95;fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Notices+of+the+American+Mathematical+Society&amp;rft.atitle=What+is...a+Young+Tableau%3F&amp;rft.volume=54&amp;rft.issue=2&amp;rft.pages=240-241&amp;rft.date=2007-02&amp;rft.aulast=Yong&amp;rft.aufirst=Alexander&amp;rft&#95;id=http%3A%2F%2Fwww.ams.org%2Fnotices%2F200702%2Fwhatis-yong.pdf&amp;rfr&#95;id=info%3Asid%2Fen.wikipedia.org%3AYoung+tableau" class="Z3988"></span></li>
+<li><a href="/wiki/Predrag_Cvitanovi%C4%87" title="Predrag Cvitanović">Predrag Cvitanović</a>, <i>Group Theory: Birdtracks, Lie's, and Exceptional Groups</i>. Princeton University Press, 2008.</li></ul>
+<div class="mw-heading mw-heading2"><h2 id="External_links">External links</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Young_tableau&amp;action=edit&amp;section=14" title="Edit section: External links"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<ul><li>Eric W. Weisstein. "<a rel="nofollow" class="external text" href="http://mathworld.wolfram.com/FerrersDiagram.html">Ferrers Diagram</a>". From MathWorld—A Wolfram Web Resource.</li>
+<li>Eric W. Weisstein. "<a rel="nofollow" class="external text" href="http://mathworld.wolfram.com/YoungTableau.html">Young Tableau</a>." From MathWorld—A Wolfram Web Resource.</li>
+<li><a rel="nofollow" class="external text" href="http://www.findstat.org/SemistandardTableaux">Semistandard tableaux</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20180804131636/http://www.findstat.org/SemistandardTableaux">Archived</a> 2018-08-04 at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a> entry in the <a rel="nofollow" class="external text" href="http://www.findstat.org/">FindStat</a> database</li>
+<li><a rel="nofollow" class="external text" href="http://www.findstat.org/StandardTableaux">Standard tableaux</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20171222120508/http://www.findstat.org/StandardTableaux">Archived</a> 2017-12-22 at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a> entry in the <a rel="nofollow" class="external text" href="http://www.findstat.org/">FindStat</a> database</li></ul>
+<!-- 
+NewPP limit report
+Parsed by mw‐web.eqiad.main‐6897878f94‐qvvf9
+Cached time: 20260403021301
+Cache expiry: 2592000
+Cache expiry source: Module:Citation/CS1 (os.date(%Y))
+Reduced expiry: false
+Complications: [vary‐revision‐sha1, prevent‐selective‐update, show‐toc]
+CPU time usage: 0.351 seconds
+Real time usage: 0.500 seconds
+Preprocessor visited node count: 3150/1000000
+Revision size: 22611/2097152 bytes
+Post‐expand include size: 35236/2097152 bytes
+Template argument size: 4232/2097152 bytes
+Highest expansion depth: 11/100
+Expensive parser function count: 3/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 39634/5000000 bytes
+Lua time usage: 0.176/10.000 seconds
+Lua memory usage: 5948801/52428800 bytes
+Number of Wikibase entities loaded: 0/500
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  380.281      1 -total
+ 32.49%  123.543      1 Template:Reflist
+ 21.37%   81.272      2 Template:Citation
+ 19.35%   73.598      1 Template:Short_description
+ 11.06%   42.052      2 Template:Pagetype
+ 10.31%   39.195     37 Template:Math
+  8.15%   31.011      1 Template:IPAc-en
+  6.68%   25.386     41 Template:Main_other
+  5.63%   21.402      1 Template:See_also
+  4.79%   18.226      3 Template:Cite_journal
+-->
+
+<!-- Render ID a3d0b7ae-2f02-11f1-9036-b1911032069d -->
+
+<!-- Saved in parser cache with key enwiki:pcache:683368:|#|:idhash:canonical and timestamp 20260403021301 and revision id 1345272320. Rendering was triggered because: page_view
+ -->
+</div><noscript><img src="https://en.wikipedia.org/wiki/Special:CentralAutoLogin/start?useformat=desktop&amp;type=1x1&amp;usesul3=1" alt="" width="1" height="1" style="border: none; position: absolute;"></noscript>
+<div class="printfooter" data-nosnippet="">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Young_tableau&amp;oldid=1345272320">https://en.wikipedia.org/w/index.php?title=Young_tableau&amp;oldid=1345272320</a>"</div></div>
+					<div id="catlinks" class="catlinks" data-mw-interface=""><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Representation_theory_of_finite_groups" title="Category:Representation theory of finite groups">Representation theory of finite groups</a></li><li><a href="/wiki/Category:Symmetric_functions" title="Category:Symmetric functions">Symmetric functions</a></li><li><a href="/wiki/Category:Integer_partitions" title="Category:Integer partitions">Integer partitions</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:Short_description_is_different_from_Wikidata" title="Category:Short description is different from Wikidata">Short description is different from Wikidata</a></li><li><a href="/wiki/Category:Template_SpringerEOM_with_broken_ref" title="Category:Template SpringerEOM with broken ref">Template SpringerEOM with broken ref</a></li><li><a href="/wiki/Category:Webarchive_template_wayback_links" title="Category:Webarchive template wayback links">Webarchive template wayback links</a></li></ul></div></div>
+				</div>
+			</main>
+			
+		</div>
+		<div class="mw-footer-container">
+			
+<footer id="footer" class="mw-footer" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> This page was last edited on 25 March 2026, at 07:53<span class="anonymous-show">&#160;(UTC)</span>.</li>
+	<li id="footer-info-copyright">Text is available under the <a href="/wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License" title="Wikipedia:Text of the Creative Commons Attribution-ShareAlike 4.0 International License">Creative Commons Attribution-ShareAlike 4.0 License</a>;
+additional terms may apply. By using this site, you agree to the <a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use" class="extiw" title="foundation:Special:MyLanguage/Policy:Terms of Use">Terms of Use</a> and <a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy" class="extiw" title="foundation:Special:MyLanguage/Policy:Privacy policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a rel="nofollow" class="external text" href="https://wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy">Privacy policy</a></li>
+	<li id="footer-places-about"><a href="/wiki/Wikipedia:About">About Wikipedia</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/Wikipedia:General_disclaimer">Disclaimers</a></li>
+	<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+	<li id="footer-places-legal-safety-contacts"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:Wikimedia_Foundation_Legal_and_Safety_Contact_Information">Legal &amp; safety contacts</a></li>
+	<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct">Code of Conduct</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Developers</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Cookie statement</a></li>
+	<li id="footer-places-mobileview"><a href="//en.wikipedia.org/w/index.php?title=Young_tableau&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://www.wikimedia.org/" class="cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"><picture><source media="(min-width: 500px)" srcset="/static/images/footer/wikimedia-button.svg" width="84" height="29"><img src="/static/images/footer/wikimedia.svg" width="25" height="25" alt="Wikimedia Foundation" lang="en" loading="lazy"></picture></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/" class="cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"><picture><source media="(min-width: 500px)" srcset="/w/resources/assets/poweredby_mediawiki.svg" width="88" height="31"><img src="/w/resources/assets/mediawiki_compact.svg" alt="Powered by MediaWiki" lang="en" width="25" height="25" loading="lazy"></picture></a></li>
+</ul>
+
+</footer>
+
+		</div>
+	</div> 
+</div> 
+<div class="vector-header-container vector-sticky-header-container no-font-mode-scale">
+	<div id="vector-sticky-header" class="vector-sticky-header">
+		<div class="vector-sticky-header-start">
+			<div class="vector-sticky-header-icon-start vector-button-flush-left" aria-hidden="true">
+				<button class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-sticky-header-search-toggle" tabindex="-1" data-event-name="ui.vector-sticky-search-form.icon"><span class="vector-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
+
+<span>Search</span>
+			</button>
+		</div>
+			
+		<div role="search" class="vector-search-box-vue  vector-search-box-show-thumbnail vector-search-box">
+			<div class="vector-typeahead-search-container">
+				<div class="cdx-typeahead-search cdx-typeahead-search--show-thumbnail">
+					<form action="/w/index.php" id="vector-sticky-search-form" class="cdx-search-input cdx-search-input--has-end-button">
+						<div  class="cdx-search-input__input-wrapper"  data-search-loc="header-moved">
+							<div class="cdx-text-input cdx-text-input--has-start-icon">
+								<input
+									class="cdx-text-input__input mw-searchInput" autocomplete="off"
+									
+									type="search" name="search" placeholder="Search Wikipedia">
+								<span class="cdx-text-input__icon cdx-text-input__start-icon"></span>
+							</div>
+							<input type="hidden" name="title" value="Special:Search">
+						</div>
+						<button class="cdx-button cdx-search-input__end-button">Search</button>
+					</form>
+				</div>
+			</div>
+		</div>
+		<div class="vector-sticky-header-context-bar">
+				<nav aria-label="Contents" class="vector-toc-landmark">
+						
+					<div id="vector-sticky-header-toc" class="vector-dropdown mw-portlet mw-portlet-sticky-header-toc vector-sticky-header-toc vector-button-flush-left"  >
+						<input type="checkbox" id="vector-sticky-header-toc-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-sticky-header-toc" class="vector-dropdown-checkbox "  aria-label="Toggle the table of contents"  >
+						<label id="vector-sticky-header-toc-label" for="vector-sticky-header-toc-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-listBullet mw-ui-icon-wikimedia-listBullet"></span>
+
+<span class="vector-dropdown-label-text">Toggle the table of contents</span>
+						</label>
+						<div class="vector-dropdown-content">
+					
+						<div id="vector-sticky-header-toc-unpinned-container" class="vector-unpinned-container">
+						</div>
+					
+						</div>
+					</div>
+			</nav>
+				<div class="vector-sticky-header-context-bar-primary" aria-hidden="true" ><span class="mw-page-title-main">Young tableau</span></div>
+			</div>
+		</div>
+		<div class="vector-sticky-header-end" aria-hidden="true">
+			<div class="vector-sticky-header-icons">
+				<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-talk-sticky-header" tabindex="-1" data-event-name="talk-sticky-header"><span class="vector-icon mw-ui-icon-speechBubbles mw-ui-icon-wikimedia-speechBubbles"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-subject-sticky-header" tabindex="-1" data-event-name="subject-sticky-header"><span class="vector-icon mw-ui-icon-article mw-ui-icon-wikimedia-article"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-history-sticky-header" tabindex="-1" data-event-name="history-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-history mw-ui-icon-wikimedia-wikimedia-history"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only mw-watchlink" id="ca-watchstar-sticky-header" tabindex="-1" data-event-name="watch-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-star mw-ui-icon-wikimedia-wikimedia-star"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-edit-sticky-header" tabindex="-1" data-event-name="wikitext-edit-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-wikiText mw-ui-icon-wikimedia-wikimedia-wikiText"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-ve-edit-sticky-header" tabindex="-1" data-event-name="ve-edit-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-edit mw-ui-icon-wikimedia-wikimedia-edit"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-viewsource-sticky-header" tabindex="-1" data-event-name="ve-edit-protected-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-editLock mw-ui-icon-wikimedia-wikimedia-editLock"></span>
+
+<span></span>
+			</a>
+		</div>
+			<div class="vector-sticky-header-buttons">
+				<button class="cdx-button cdx-button--weight-quiet mw-interlanguage-selector" id="p-lang-btn-sticky-header" tabindex="-1" data-event-name="ui.dropdown-p-lang-btn-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-language mw-ui-icon-wikimedia-wikimedia-language"></span>
+
+<span>13 languages</span>
+			</button>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive" id="ca-addsection-sticky-header" tabindex="-1" data-event-name="addsection-sticky-header"><span class="vector-icon mw-ui-icon-speechBubbleAdd-progressive mw-ui-icon-wikimedia-speechBubbleAdd-progressive"></span>
+
+<span>Add topic</span>
+			</a>
+		</div>
+			<div class="vector-sticky-header-icon-end">
+				<div class="vector-user-links">
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="mw-portlet mw-portlet-dock-bottom emptyPortlet" id="p-dock-bottom">
+	<ul>
+		
+	</ul>
+</div>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw-web.codfw.main-5f848bdcd5-hjjt6","wgBackendResponseTime":120,"wgPageParseReport":{"limitreport":{"cputime":"0.351","walltime":"0.500","ppvisitednodes":{"value":3150,"limit":1000000},"revisionsize":{"value":22611,"limit":2097152},"postexpandincludesize":{"value":35236,"limit":2097152},"templateargumentsize":{"value":4232,"limit":2097152},"expansiondepth":{"value":11,"limit":100},"expensivefunctioncount":{"value":3,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":39634,"limit":5000000},"entityaccesscount":{"value":0,"limit":500},"timingprofile":["100.00%  380.281      1 -total"," 32.49%  123.543      1 Template:Reflist"," 21.37%   81.272      2 Template:Citation"," 19.35%   73.598      1 Template:Short_description"," 11.06%   42.052      2 Template:Pagetype"," 10.31%   39.195     37 Template:Math","  8.15%   31.011      1 Template:IPAc-en","  6.68%   25.386     41 Template:Main_other","  5.63%   21.402      1 Template:See_also","  4.79%   18.226      3 Template:Cite_journal"]},"scribunto":{"limitreport-timeusage":{"value":"0.176","limit":"10.000"},"limitreport-memusage":{"value":5948801,"limit":52428800}},"cachereport":{"origin":"mw-web.eqiad.main-6897878f94-qvvf9","timestamp":"20260403021301","ttl":2592000,"transientcontent":false,"expiry-source":"Module:Citation/CS1 (os.date(%Y))"}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Young tableau","url":"https:\/\/en.wikipedia.org\/wiki\/Young_tableau","sameAs":"http:\/\/www.wikidata.org\/entity\/Q2166280","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q2166280","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2004-05-27T21:57:40Z","dateModified":"2026-03-25T07:53:25Z","headline":"a combinatorial object useful in representation theory"}</script>
+</body>
+</html>

@@ -1,0 +1,45 @@
+---
+title: Offices
+special_judge: false
+time_limit: 2 초
+memory_limit: 1024 MB
+submissions: 16
+accepted: 2
+solved_users: 2
+acceptance_rate: 28.571%
+collected_at: 2026-04-17T16:41:58.817389+00:00
+---
+
+## 문제
+
+The network of detective offices is growing. New offices are connected to the already existing offices via computer cables. There are two types of cables – optical and quantum – which propagate signal at different speeds. It takes time T1 and T2 for a signal to travel between two offices connected by an optical cable and by a quantum cable, respectively. There can be at most one cable between any two offices and it must be of one of the two types.
+
+There are two ranks of detectives, Technical rank and Social rank. Each detective belongs to exactly one rank.
+
+The process of building and installing a new office is the following. When a request for a new office is raised and it complies with the request rules, a new office is built and gradually populated by detectives of both ranks.
+
+The request for a new office comes from two detectives, say A and B, who have different ranks and who also reside in different offices. Suppose the first detective resides in office OA and the second one in office OB. For safety reasons, the offices OA and OB must not share a connection. It is guaranteed by the administration that no request from two offices sharing a connection is possible, as every officer understands the dangers of such a request.
+
+Suppose that ON is the office that will be newly built. Office ON can be connected only to those already existing offices (denote by OE any one of them), to which at least one of OA and OB is already connected. Office ON will be connected to all offices satisfying the conditions and specifications given below.
+
+The members of both ranks have opposing views on the reliability of the cables. A member of the Technical rank thinks that the type of connection between ON and OE should be the same as the type of connection of his current office to OE. A member of the Social rank thinks that the type of connection between ON and OE should not be the same type as the type of connection of his current office to OE. Therefore, the Headquarters have set the rules regarding new cables:
+
+* When OE is connected to only one of the offices OA and OB, the type of the connection between ON and OE is decided by the detective in the respective office connected to OE.
+* When OE is connected to both offices OA and OB, and the detectives A and B disagree on the type of the connection between ON and OE, then the connection is not built.
+* When OE is connected to both offices OA and OB, and the detectives A and B agree on the type of connection between ON and OE, then the connection is built. However, it should be stressed, it is of the other type than the one which A and B agree on.
+
+Now, there is a need of an application which keeps track of all the offices and the cables connecting them.
+
+The Headquarters are located in the office labeled 0. After building a new office, the headquarters must be informed on the total sum of distances between the Headquarters and all the other offices that can be reached from it by a sequence of connections. The distance between two offices is the shortest time in which the signal can travel via cables from one office to another, supposing it spends no additional time inside any office on its path.
+
+## 입력
+
+The first line of input contains five integers N, M, R, T1, T2 (1 < N ≤ 5; 0 ≤ M ≤ N(N-1)/2; 0 ≤ R ≤ 105; 0 ≤ T1, T2 ≤ 100), N is the number of existing offices, M is the total number of cables between the existing offices, R is the number of new office requests, T1 and T2 is the time a signal travels through an optical and a quantum cable, respectively.
+
+The offices are labeled as 0, 1, · · · , N − 1. Each of the next M lines contains two integers a and b (0 ≤ a ≠ b < N) and a character “O” or “Q”. Integers determine the labels of the connected offices, the character determines the type of the cable which connects them (optical or quantum).
+
+Next, there are R lines, each of which represents one request to build a new office. The i-th request line (request counter i starts from 0) contains two integers a and b (0 ≤ a ≠ b < N + i), the labels of the offices in which resides the requesting pair of detectives. It is assumed that the office occupied by the detective of Technical rank is always listed first. Furthermore, it is guaranteed that no request will be between two offices that share a direct connection
+
+## 출력
+
+For each request in the input, print on a separate line the sum of distances from the Headquarters to all other offices that can be reached from the Headquarters by a sequence of connections

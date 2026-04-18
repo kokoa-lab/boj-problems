@@ -1,0 +1,2 @@
+Scenario #1 requires 8 moves.
+Scenario #2 requires 25 moves.

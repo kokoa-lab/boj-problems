@@ -1,0 +1,10 @@
+fill 2
+transfer 2 1
+transfer 2 0
+discard 1
+fill 2
+transfer 2 1
+transfer 2 0
+discard 1
+fill 2
+transfer 2 0

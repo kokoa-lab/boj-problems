@@ -1,0 +1,69 @@
+---
+title: Reverse Engineering
+special_judge: false
+time_limit: 2 초
+memory_limit: 1024 MB
+submissions: 439
+accepted: 174
+solved_users: 142
+acceptance_rate: 45.659%
+collected_at: 2026-04-17T17:54:19.022453+00:00
+---
+
+## 문제
+
+Elsie has a program that takes as input an array of $N$ ($1\le N\le 100$) variables $b[0],\dots,b[N-1]$, each equal to zero or one, and returns the result of applying a sequence of if / else if / else statements on the input. Each statement examines the value of at most one input variable, and returns either zero or one. An example of such a program might be:
+
+```
+
+if (b[1] == 1) return 1;
+else if (b[0] == 0) return 0;
+else return 1;
+```
+
+For example, if the input to the program above is "10" (that is, $b[0] = 1$ and $b[1] = 0$), then the output should be 1.
+
+Elsie has told Bessie the correct output for $M$ ($1\le M\le 100$) different inputs. Bessie is now trying to reverse engineer Elsie's program. Unfortunately, Elsie might have lied; it may be the case that no program of the form above is consistent with what Elsie said.
+
+For each of $T$ ($1\le T\le 10$) test cases, determine whether Elsie must be lying or not.
+
+## 입력
+
+The first line contains $T$, the number of test cases.
+
+Each test case starts with two integers $N$ and $M$, followed by $M$ lines, each containing a string of $N$ zeros and ones representing an input (that is, the values of $b[0] \ldots b[N-1]$) and an additional character (zero or one) representing the output. Consecutive test cases are separated by newlines.
+
+## 출력
+
+For each test case, output "OK" or "LIE" on a separate line.
+
+## 힌트
+
+Here's a valid program for the first test case:
+
+```
+
+if (b[0] == 0) return 0;
+else return 1;
+```
+
+Another valid program for the first test case:
+
+```
+
+if (b[0] == 1) return 1;
+else return 0;
+```
+
+A valid program for the second test case:
+
+```
+
+if (b[1] == 1) return 1;
+else if (b[0] == 0) return 0;
+else return 1;
+```
+
+Clearly, there is no valid program corresponding to the third test case, because Elsie's program must always produce the same output for the same input.
+
+It may be shown that there is no valid program corresponding to the last test case.

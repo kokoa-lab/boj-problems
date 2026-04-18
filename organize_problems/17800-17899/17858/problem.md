@@ -1,0 +1,40 @@
+---
+title: Out of Sorts
+special_judge: false
+time_limit: 1 초 (추가 시간 없음)
+memory_limit: 512 MB
+submissions: 121
+accepted: 69
+solved_users: 35
+acceptance_rate: 51.471%
+collected_at: 2026-04-17T14:48:37.885435+00:00
+---
+
+## 문제
+
+Ann Logan is fascinated with finite sequences of integers. She is particularly interested in sequences of the form x1, x2, . . . , xn where:
+
+* xi = (axi−1 + c) mod m,
+* n, m, a, and c are positive integer constants,
+* x0 is a non-negative integer constant, and
+* all n values are unique.
+
+For example, if n = 5, m = 8, a = 1, c = 3, and x0 = 3, the sequence is 6, 1, 4, 7, 2 (x1 = (1 · 3 + 3) mod 8 = 6, x2 = (1 · 6 + 3) mod 8 = 1, and so on). Note that she does not consider the initial value x0 to be part of the sequence.
+
+Ann wants to be able to quickly determine, for any integer value, whether or not it appears within a finite sequence of this form. Given values of n, m, a, c, and x0, she plans to follow this list of steps:
+
+1. Generate the sequence x1, · · · , xn and store it in an array.
+2. Sort the array.
+3. Perform a binary search of the array for each integer of interest to her.
+
+Ann’s search algorithm, while not the most efficient possible, is pretty straightforward and understandable to anyone familiar with binary search: after calculating the midpoint mid at each step of the calculation (using mid = (low+high)/2), she first checks whether or not the value at location mid is equal to the search value x. If not, she then narrows the search according to whether x is strictly less than or strictly greater than the value at location mid.
+
+Unfortunately, Ann is absent-minded and she lost her list of steps. She managed to remember the first and last step, but . . . she forgot to sort the array before performing her binary search! Needless to say, this means that many values that are in the (unsorted) array will not be found by a binary search, although surprisingly some can. In the example above, both 4 and 7 can be found with Ann’s binary search. How many values can be found for various sequences? Don’t botch it up!
+
+## 입력
+
+Input consists of a line containing five integers n, m, a, c, and x0 (1 ≤ n ≤ 106, 1 ≤ m, a, c ≤ 231 − 1, 0 ≤ x0 ≤ 231 − 1), where n is the length of the sequence x1, . . . , xn to be generated and m, a, c, and x0 are the constants used for generating the sequence. All values in the generated sequence are guaranteed to be unique.
+
+## 출력
+
+Output the number of sequence values that could be found using Ann’s version of binary search, assuming she forgot to sort the sequence.

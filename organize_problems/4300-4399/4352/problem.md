@@ -1,0 +1,23 @@
+---
+title: Jogging Trails
+special_judge: false
+time_limit: 1 초
+memory_limit: 128 MB
+submissions: 24
+accepted: 8
+solved_users: 6
+acceptance_rate: 30.000%
+collected_at: 2026-04-17T11:00:04.247505+00:00
+---
+
+## 문제
+
+Gord is training for a marathon. Behind his house is a park with a large network of jogging trails connecting water stations. Gord wants to find the shortest jogging route that travels along every trail at least once.
+
+## 입력
+
+Input consists of several test cases. The first line of input for each case contains two positive integers: n <= 15, the number of water stations, and m < 1000, the number of trails. For each trail, there is one subsequent line of input containing three positive integers: the first two, between 1 and n, indicating the water stations at the end points of the trail; the third indicates the length of the trail, in cubits. There may be more than one trail between any two stations; each different trail is given only once in the input; each trail can be travelled in either direction. It is possible to reach any trail from any other trail by visiting a sequence of water stations connected by trails. Gord's route may start at any water station, and must end at the same station. A single line containing 0 follows the last test case.
+
+## 출력
+
+For each case, there should be one line of output giving the length of Gord's jogging route.

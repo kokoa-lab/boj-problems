@@ -1,0 +1,855 @@
+<!doctype html>
+<html lang="ko">
+
+                                                                                <head>
+                <script type="text/javascript">if (!window.T) { window.T = {} }
+window.T.config = {"TOP_SSL_URL":"https://www.tistory.com","PREVIEW":false,"ROLE":"guest","PREV_PAGE":"","NEXT_PAGE":"","BLOG":{"id":6802676,"name":"yurims-diary","title":"Yurim's Diary","isDormancy":false,"nickName":"yurim0930","status":"open","profileStatus":"normal"},"NEED_COMMENT_LOGIN":false,"COMMENT_LOGIN_CONFIRM_MESSAGE":"","LOGIN_URL":"https://www.tistory.com/auth/login/?redirectUrl=https://yurims-diary.tistory.com/3","DEFAULT_URL":"https://yurims-diary.tistory.com","USER":{"name":null,"homepage":null,"id":0,"profileImage":null},"SUBSCRIPTION":{"status":"none","isConnected":false,"isPending":false,"isWait":false,"isProcessing":false,"isNone":true},"IS_LOGIN":false,"HAS_BLOG":false,"IS_SUPPORT":false,"IS_SCRAPABLE":false,"TOP_URL":"http://www.tistory.com","JOIN_URL":"https://www.tistory.com/member/join","PHASE":"prod","ROLE_GROUP":"visitor"};
+window.T.entryInfo = {"entryId":3,"isAuthor":false,"categoryId":1077245,"categoryLabel":"후기"};
+window.appInfo = {"domain":"tistory.com","topUrl":"https://www.tistory.com","loginUrl":"https://www.tistory.com/auth/login","logoutUrl":"https://www.tistory.com/auth/logout"};
+window.initData = {};
+
+window.TistoryBlog = {
+    basePath: "",
+    url: "https://yurims-diary.tistory.com",
+    tistoryUrl: "https://yurims-diary.tistory.com",
+    manageUrl: "https://yurims-diary.tistory.com/manage",
+    token: "XS56D+SY+sXrvNGxcDmw02jX+Jpb3CyKL1VH2puGnM970//EjJxsgo/cg6qFdJDd"
+};
+var servicePath = "";
+var blogURL = "";</script>
+
+                
+                
+                
+                        <!-- BusinessLicenseInfo - START -->
+        
+            <link href="https://tistory1.daumcdn.net/tistory_admin/userblog/userblog-91597a4fd4b809d820e03b8cb7c3f10bb5ffa703/static/plugin/BusinessLicenseInfo/style.css" rel="stylesheet" type="text/css"/>
+
+            <script>function switchFold(entryId) {
+    var businessLayer = document.getElementById("businessInfoLayer_" + entryId);
+
+    if (businessLayer) {
+        if (businessLayer.className.indexOf("unfold_license") > 0) {
+            businessLayer.className = "business_license_layer";
+        } else {
+            businessLayer.className = "business_license_layer unfold_license";
+        }
+    }
+}
+</script>
+
+        
+        <!-- BusinessLicenseInfo - END -->
+        <!-- DaumShow - START -->
+        <style type="text/css">#daumSearchBox {
+    height: 21px;
+    background-image: url(//i1.daumcdn.net/imgsrc.search/search_all/show/tistory/plugin/bg_search2_2.gif);
+    margin: 5px auto;
+    padding: 0;
+}
+
+#daumSearchBox input {
+    background: none;
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+#daumSearchBox #daumLogo {
+    width: 34px;
+    height: 21px;
+    float: left;
+    margin-right: 5px;
+    background-image: url(//i1.daumcdn.net/img-media/tistory/img/bg_search1_2_2010ci.gif);
+}
+
+#daumSearchBox #show_q {
+    background-color: transparent;
+    border: none;
+    font: 12px Gulim, Sans-serif;
+    color: #555;
+    margin-top: 4px;
+    margin-right: 15px;
+    float: left;
+}
+
+#daumSearchBox #show_btn {
+    background-image: url(//i1.daumcdn.net/imgsrc.search/search_all/show/tistory/plugin/bt_search_2.gif);
+    width: 37px;
+    height: 21px;
+    float: left;
+    margin: 0;
+    cursor: pointer;
+    text-indent: -1000em;
+}
+</style>
+
+        <!-- DaumShow - END -->
+
+<!-- System - START -->
+
+<!-- System - END -->
+
+        <!-- TistoryProfileLayer - START -->
+        <link href="https://tistory1.daumcdn.net/tistory_admin/userblog/userblog-91597a4fd4b809d820e03b8cb7c3f10bb5ffa703/static/plugin/TistoryProfileLayer/style.css" rel="stylesheet" type="text/css"/>
+<script type="text/javascript" src="https://tistory1.daumcdn.net/tistory_admin/userblog/userblog-91597a4fd4b809d820e03b8cb7c3f10bb5ffa703/static/plugin/TistoryProfileLayer/script.js"></script>
+
+        <!-- TistoryProfileLayer - END -->
+
+                
+                <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+<meta name="format-detection" content="telephone=no">
+<script src="//t1.daumcdn.net/tistory_admin/lib/jquery/jquery-3.5.1.min.js" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
+<script type="text/javascript" src="//t1.daumcdn.net/tiara/js/v1/tiara-1.2.0.min.js"></script><meta name="referrer" content="always"/>
+<meta name="google-adsense-platform-account" content="ca-host-pub-9691043933427338"/>
+<meta name="google-adsense-platform-domain" content="tistory.com"/>
+<meta name="description" content="나의 첫 번째 프로젝트, &quot;네모데믹&quot;의 출시 후기를 적어보려고 한다. 시작하게 된 동기는 꽤 우연이었다. 하필 회사 이직 과정중에 추석연휴가 겹쳐서, 뜻하지 않은 2주의 공백이 생겨버렸다. 원래는 tanstack 관련 강의를 쭉 들으려고 했는데, 심심할 것 같아서 강한 동기부여를 주는 무언가를 만들고 싶었다. 그러다가 문득(?) dfs 관련 게임을 만들어보면 좋겠다고 생각했다. 이 사고가 어떻게 연결되었는지는 아직도 잘 기억이 안난다 ㅋㅋ 그래서 무작정 기획을 시작했고, 이 때의 목표는 &quot;나의 리소스 만으로 1원 벌어보기&quot;로 잡았다. 이런 미니게임류에서 성공하기는 굉장히 어렵기 때문에, 성공을 목표로 한다기보단 재미삼아 광고를 달아서 10원이라도 벌어보는 경험을 하고 싶었다. 처음부터 DFS 알고리즘을 .."/>
+<meta property="og:type" content="article"/>
+<meta property="og:url" content="https://yurims-diary.tistory.com/3"/>
+<meta property="og.article.author" content="yurim0930"/>
+<meta property="og:site_name" content="Yurim's Diary"/>
+<meta property="og:title" content="NEMODEMIC 출시 후기 (1) - 기획+디자인"/>
+<meta name="by" content="yurim0930"/>
+<meta property="og:description" content="나의 첫 번째 프로젝트, &quot;네모데믹&quot;의 출시 후기를 적어보려고 한다. 시작하게 된 동기는 꽤 우연이었다. 하필 회사 이직 과정중에 추석연휴가 겹쳐서, 뜻하지 않은 2주의 공백이 생겨버렸다. 원래는 tanstack 관련 강의를 쭉 들으려고 했는데, 심심할 것 같아서 강한 동기부여를 주는 무언가를 만들고 싶었다. 그러다가 문득(?) dfs 관련 게임을 만들어보면 좋겠다고 생각했다. 이 사고가 어떻게 연결되었는지는 아직도 잘 기억이 안난다 ㅋㅋ 그래서 무작정 기획을 시작했고, 이 때의 목표는 &quot;나의 리소스 만으로 1원 벌어보기&quot;로 잡았다. 이런 미니게임류에서 성공하기는 굉장히 어렵기 때문에, 성공을 목표로 한다기보단 재미삼아 광고를 달아서 10원이라도 벌어보는 경험을 하고 싶었다. 처음부터 DFS 알고리즘을 .."/>
+<meta property="og:image" content="https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2F6JbcK%2FdJMcaf6pOnI%2FAAAAAAAAAAAAAAAAAAAAAAvrBmSZDjn9kpxyyxqb7Tc7Cu7okY-u_3M9FqupGiaI%2Fimg.png%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1777561199%26allow_ip%3D%26allow_referer%3D%26signature%3D%252FoF0VmuXR4KV4W4BegvHx%252BS0Bmo%253D"/>
+<meta property="article:section" content="'IT 인터넷'"/>
+<meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:site" content="@TISTORY"/>
+<meta name="twitter:title" content="NEMODEMIC 출시 후기 (1) - 기획+디자인"/>
+<meta name="twitter:description" content="나의 첫 번째 프로젝트, &quot;네모데믹&quot;의 출시 후기를 적어보려고 한다. 시작하게 된 동기는 꽤 우연이었다. 하필 회사 이직 과정중에 추석연휴가 겹쳐서, 뜻하지 않은 2주의 공백이 생겨버렸다. 원래는 tanstack 관련 강의를 쭉 들으려고 했는데, 심심할 것 같아서 강한 동기부여를 주는 무언가를 만들고 싶었다. 그러다가 문득(?) dfs 관련 게임을 만들어보면 좋겠다고 생각했다. 이 사고가 어떻게 연결되었는지는 아직도 잘 기억이 안난다 ㅋㅋ 그래서 무작정 기획을 시작했고, 이 때의 목표는 &quot;나의 리소스 만으로 1원 벌어보기&quot;로 잡았다. 이런 미니게임류에서 성공하기는 굉장히 어렵기 때문에, 성공을 목표로 한다기보단 재미삼아 광고를 달아서 10원이라도 벌어보는 경험을 하고 싶었다. 처음부터 DFS 알고리즘을 .."/>
+<meta property="twitter:image" content="https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2F6JbcK%2FdJMcaf6pOnI%2FAAAAAAAAAAAAAAAAAAAAAAvrBmSZDjn9kpxyyxqb7Tc7Cu7okY-u_3M9FqupGiaI%2Fimg.png%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1777561199%26allow_ip%3D%26allow_referer%3D%26signature%3D%252FoF0VmuXR4KV4W4BegvHx%252BS0Bmo%253D"/>
+<meta content="https://yurims-diary.tistory.com/3" property="dg:plink" content="https://yurims-diary.tistory.com/3"/>
+<meta name="plink"/>
+<meta name="title" content="NEMODEMIC 출시 후기 (1) - 기획+디자인"/>
+<meta name="article:media_name" content="Yurim's Diary"/>
+<meta property="article:mobile_url" content="https://yurims-diary.tistory.com/m/3"/>
+<meta property="article:pc_url" content="https://yurims-diary.tistory.com/3"/>
+<meta property="article:mobile_view_url" content="https://yurims-diary.tistory.com/m/3"/>
+<meta property="article:pc_view_url" content="https://yurims-diary.tistory.com/3"/>
+<meta property="article:talk_channel_view_url" content="https://yurims-diary.tistory.com/m/3"/>
+<meta property="article:pc_service_home" content="https://www.tistory.com"/>
+<meta property="article:mobile_service_home" content="https://www.tistory.com/m"/>
+<meta property="article:txid" content="6802676_3"/>
+<meta property="article:published_time" content="2026-01-13T01:42:18+09:00"/>
+<meta property="og:regDate" content="20260113014218"/>
+<meta property="article:modified_time" content="2026-01-17T16:04:06+09:00"/>
+<script type="module" src="https://tistory1.daumcdn.net/tistory_admin/userblog/userblog-91597a4fd4b809d820e03b8cb7c3f10bb5ffa703/static/pc/dist/index.js" defer=""></script>
+<script type="text/javascript" src="https://tistory1.daumcdn.net/tistory_admin/userblog/userblog-91597a4fd4b809d820e03b8cb7c3f10bb5ffa703/static/pc/dist/index-legacy.js" defer="" nomodule="true"></script>
+<script type="text/javascript" src="https://tistory1.daumcdn.net/tistory_admin/userblog/userblog-91597a4fd4b809d820e03b8cb7c3f10bb5ffa703/static/pc/dist/polyfills-legacy.js" defer="" nomodule="true"></script>
+<link rel="icon" sizes="any" href="https://t1.daumcdn.net/tistory_admin/favicon/tistory_favicon_32x32.ico"/>
+<link rel="icon" type="image/svg+xml" href="https://t1.daumcdn.net/tistory_admin/top_v2/bi-tistory-favicon.svg"/>
+<link rel="apple-touch-icon" href="https://t1.daumcdn.net/tistory_admin/top_v2/tistory-apple-touch-favicon.png"/>
+<link rel="stylesheet" type="text/css" href="https://t1.daumcdn.net/tistory_admin/www/style/font.css"/>
+<link rel="stylesheet" type="text/css" href="https://tistory1.daumcdn.net/tistory_admin/userblog/userblog-91597a4fd4b809d820e03b8cb7c3f10bb5ffa703/static/style/content.css"/>
+<link rel="stylesheet" type="text/css" href="https://tistory1.daumcdn.net/tistory_admin/userblog/userblog-91597a4fd4b809d820e03b8cb7c3f10bb5ffa703/static/pc/dist/index.css"/>
+<link rel="stylesheet" type="text/css" href="https://tistory1.daumcdn.net/tistory_admin/userblog/userblog-91597a4fd4b809d820e03b8cb7c3f10bb5ffa703/static/style/uselessPMargin.css"/>
+<script type="text/javascript">(function() {
+    var tjQuery = jQuery.noConflict(true);
+    window.tjQuery = tjQuery;
+    window.orgjQuery = window.jQuery; window.jQuery = tjQuery;
+    window.jQuery = window.orgjQuery; delete window.orgjQuery;
+})()</script>
+<script type="text/javascript" src="https://tistory1.daumcdn.net/tistory_admin/userblog/userblog-91597a4fd4b809d820e03b8cb7c3f10bb5ffa703/static/script/base.js"></script>
+<script type="text/javascript" src="//developers.kakao.com/sdk/js/kakao.min.js"></script>
+
+                
+  <meta charset="UTF-8">
+  <meta name="viewport"
+    content="user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, width=device-width">
+  <title>NEMODEMIC 출시 후기 (1) - 기획+디자인</title>
+  <link rel="stylesheet" href="https://tistory1.daumcdn.net/tistory/6802676/skin/style.css?_version_=1703760346">
+  <script src="//t1.daumcdn.net/tistory_admin/lib/jquery/jquery-1.12.4.min.js"></script>
+  <style type="text/css">
+    .entry-content a,
+    .post-header h1 em,
+    .comments h2 .count {
+      color: #5B9AFF
+    }
+
+    .comment-form .submit button:hover,
+    .comment-form .submit button:focus {
+      background-color: #5B9AFF
+    }
+
+    
+  </style>
+
+                
+                
+                <style type="text/css">.another_category {
+    border: 1px solid #E5E5E5;
+    padding: 10px 10px 5px;
+    margin: 10px 0;
+    clear: both;
+}
+
+.another_category h4 {
+    font-size: 12px !important;
+    margin: 0 !important;
+    border-bottom: 1px solid #E5E5E5 !important;
+    padding: 2px 0 6px !important;
+}
+
+.another_category h4 a {
+    font-weight: bold !important;
+}
+
+.another_category table {
+    table-layout: fixed;
+    border-collapse: collapse;
+    width: 100% !important;
+    margin-top: 10px !important;
+}
+
+* html .another_category table {
+    width: auto !important;
+}
+
+*:first-child + html .another_category table {
+    width: auto !important;
+}
+
+.another_category th, .another_category td {
+    padding: 0 0 4px !important;
+}
+
+.another_category th {
+    text-align: left;
+    font-size: 12px !important;
+    font-weight: normal;
+    word-break: break-all;
+    overflow: hidden;
+    line-height: 1.5;
+}
+
+.another_category td {
+    text-align: right;
+    width: 80px;
+    font-size: 11px;
+}
+
+.another_category th a {
+    font-weight: normal;
+    text-decoration: none;
+    border: none !important;
+}
+
+.another_category th a.current {
+    font-weight: bold;
+    text-decoration: none !important;
+    border-bottom: 1px solid !important;
+}
+
+.another_category th span {
+    font-weight: normal;
+    text-decoration: none;
+    font: 10px Tahoma, Sans-serif;
+    border: none !important;
+}
+
+.another_category_color_gray, .another_category_color_gray h4 {
+    border-color: #E5E5E5 !important;
+}
+
+.another_category_color_gray * {
+    color: #909090 !important;
+}
+
+.another_category_color_gray th a.current {
+    border-color: #909090 !important;
+}
+
+.another_category_color_gray h4, .another_category_color_gray h4 a {
+    color: #737373 !important;
+}
+
+.another_category_color_red, .another_category_color_red h4 {
+    border-color: #F6D4D3 !important;
+}
+
+.another_category_color_red * {
+    color: #E86869 !important;
+}
+
+.another_category_color_red th a.current {
+    border-color: #E86869 !important;
+}
+
+.another_category_color_red h4, .another_category_color_red h4 a {
+    color: #ED0908 !important;
+}
+
+.another_category_color_green, .another_category_color_green h4 {
+    border-color: #CCE7C8 !important;
+}
+
+.another_category_color_green * {
+    color: #64C05B !important;
+}
+
+.another_category_color_green th a.current {
+    border-color: #64C05B !important;
+}
+
+.another_category_color_green h4, .another_category_color_green h4 a {
+    color: #3EA731 !important;
+}
+
+.another_category_color_blue, .another_category_color_blue h4 {
+    border-color: #C8DAF2 !important;
+}
+
+.another_category_color_blue * {
+    color: #477FD6 !important;
+}
+
+.another_category_color_blue th a.current {
+    border-color: #477FD6 !important;
+}
+
+.another_category_color_blue h4, .another_category_color_blue h4 a {
+    color: #1960CA !important;
+}
+
+.another_category_color_violet, .another_category_color_violet h4 {
+    border-color: #E1CEEC !important;
+}
+
+.another_category_color_violet * {
+    color: #9D64C5 !important;
+}
+
+.another_category_color_violet th a.current {
+    border-color: #9D64C5 !important;
+}
+
+.another_category_color_violet h4, .another_category_color_violet h4 a {
+    color: #7E2CB5 !important;
+}
+</style>
+
+                
+                <link rel="stylesheet" type="text/css" href="https://tistory1.daumcdn.net/tistory_admin/userblog/userblog-91597a4fd4b809d820e03b8cb7c3f10bb5ffa703/static/style/revenue.css"/>
+<link rel="canonical" href="https://yurims-diary.tistory.com/3"/>
+
+<!-- BEGIN STRUCTURED_DATA -->
+<script type="application/ld+json">
+    {"@context":"http://schema.org","@type":"BlogPosting","mainEntityOfPage":{"@id":"https://yurims-diary.tistory.com/3","name":null},"url":"https://yurims-diary.tistory.com/3","headline":"NEMODEMIC 출시 후기 (1) - 기획+디자인","description":"나의 첫 번째 프로젝트, &quot;네모데믹&quot;의 출시 후기를 적어보려고 한다. 시작하게 된 동기는 꽤 우연이었다. 하필 회사 이직 과정중에 추석연휴가 겹쳐서, 뜻하지 않은 2주의 공백이 생겨버렸다. 원래는 tanstack 관련 강의를 쭉 들으려고 했는데, 심심할 것 같아서 강한 동기부여를 주는 무언가를 만들고 싶었다. 그러다가 문득(?) dfs 관련 게임을 만들어보면 좋겠다고 생각했다. 이 사고가 어떻게 연결되었는지는 아직도 잘 기억이 안난다 ㅋㅋ 그래서 무작정 기획을 시작했고, 이 때의 목표는 &quot;나의 리소스 만으로 1원 벌어보기&quot;로 잡았다. 이런 미니게임류에서 성공하기는 굉장히 어렵기 때문에, 성공을 목표로 한다기보단 재미삼아 광고를 달아서 10원이라도 벌어보는 경험을 하고 싶었다. 처음부터 DFS 알고리즘을 ..","author":{"@type":"Person","name":"yurim0930","logo":null},"image":{"@type":"ImageObject","url":"https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2F6JbcK%2FdJMcaf6pOnI%2FAAAAAAAAAAAAAAAAAAAAAAvrBmSZDjn9kpxyyxqb7Tc7Cu7okY-u_3M9FqupGiaI%2Fimg.png%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1777561199%26allow_ip%3D%26allow_referer%3D%26signature%3D%252FoF0VmuXR4KV4W4BegvHx%252BS0Bmo%253D","width":"800px","height":"800px"},"datePublished":"2026-01-13T01:42:18+09:00","dateModified":"2026-01-17T16:04:06+09:00","publisher":{"@type":"Organization","name":"TISTORY","logo":{"@type":"ImageObject","url":"https://t1.daumcdn.net/tistory_admin/static/images/openGraph/opengraph.png","width":"800px","height":"800px"}}}
+</script>
+<!-- END STRUCTURED_DATA -->
+<link rel="stylesheet" type="text/css" href="https://tistory1.daumcdn.net/tistory_admin/userblog/userblog-91597a4fd4b809d820e03b8cb7c3f10bb5ffa703/static/style/dialog.css"/>
+<link rel="stylesheet" type="text/css" href="//t1.daumcdn.net/tistory_admin/www/style/top/font.css"/>
+<link rel="stylesheet" type="text/css" href="https://tistory1.daumcdn.net/tistory_admin/userblog/userblog-91597a4fd4b809d820e03b8cb7c3f10bb5ffa703/static/style/postBtn.css"/>
+<link rel="stylesheet" type="text/css" href="https://tistory1.daumcdn.net/tistory_admin/userblog/userblog-91597a4fd4b809d820e03b8cb7c3f10bb5ffa703/static/style/tistory.css"/>
+<script type="text/javascript" src="https://tistory1.daumcdn.net/tistory_admin/userblog/userblog-91597a4fd4b809d820e03b8cb7c3f10bb5ffa703/static/script/common.js"></script>
+
+                
+                </head>
+
+                                                <body id="tt-body-page"
+  class="layout-aside-right paging-number">
+                
+                
+                
+  
+    <div id="acc-nav">
+      <a href="#content">본문 바로가기</a>
+    </div>
+    <div id="wrap">
+      <header id="header">
+        <div class="inner">
+          <h1>
+            <a href="https://yurims-diary.tistory.com/">
+              
+              
+                Yurim's Diary
+              
+            </a>
+          </h1>
+          <div class="util">
+            <div class="search">
+              
+                <label for="search" class="screen_out">블로그 내 검색</label>
+                <input id="search" type="text" name="search" value=""
+                  placeholder="검색내용을 입력하세요." onkeypress="if (event.keyCode == 13) { try {
+    window.location.href = '/search' + '/' + looseURIEncode(document.getElementsByName('search')[0].value);
+    document.getElementsByName('search')[0].value = '';
+    return false;
+} catch (e) {} }">
+                <button type="submit" onclick="try {
+    window.location.href = '/search' + '/' + looseURIEncode(document.getElementsByName('search')[0].value);
+    document.getElementsByName('search')[0].value = '';
+    return false;
+} catch (e) {}">검색</button>
+              
+            </div>
+            <div class="profile">
+              <button type="button"><img alt="블로그 이미지" src="https://tistory1.daumcdn.net/tistory/6802676/attach/17e51f22791f48219b2332f6590bf6ce"/></button>
+              <nav>
+                <ul>
+                  <li><a href="https://yurims-diary.tistory.com/manage">관리</a></li>
+                  <li><a href="https://yurims-diary.tistory.com/manage/entry/post ">글쓰기</a></li>
+                  <li class="login"><a href="#">로그인</a></li>
+                  <li class="logout"><a href="#">로그아웃</a></li>
+                </ul>
+              </nav>
+            </div>
+            <button type="button" class="menu"><span>메뉴</span></button>
+          </div>
+          <nav id="gnb">
+            <ul>
+  <li class="t_menu_home first"><a href="/" target="">홈</a></li>
+  <li class="t_menu_tag last"><a href="/tag" target="">태그</a></li>
+</ul>
+          </nav>
+        </div>
+      </header>
+      <section id="container">
+        
+        <div class="content-wrap">
+          <article id="content">
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            <div class="inner">
+                  
+        
+
+    
+
+    
+      <div class="post-cover" 
+        style="background-image:url(https://blog.kakaocdn.net/dna/6JbcK/dJMcaf6pOnI/AAAAAAAAAAAAAAAAAAAAAAvrBmSZDjn9kpxyyxqb7Tc7Cu7okY-u_3M9FqupGiaI/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&expires=1777561199&allow_ip=&allow_referer=&signature=%2FoF0VmuXR4KV4W4BegvHx%2BS0Bmo%3D)">
+        <div class="inner">
+          <span class="category">후기</span>
+          <h1>NEMODEMIC 출시 후기 (1) - 기획+디자인</h1>
+          <span class="meta">
+            <span class="author">by yurim0930</span>
+            <span class="date">2026. 1. 13.</span>
+            
+          </span>
+        </div>
+      </div>
+      <div class="entry-content" id="article-view">
+                    <!-- System - START -->
+
+<!-- System - END -->
+
+            <div class="tt_article_useless_p_margin contents_style"><p data-ke-size="size16">나의 첫 번째 프로젝트, "네모데믹"의 출시 후기를 적어보려고 한다.</p>
+<p><figure class="imageblock alignCenter" data-ke-mobileStyle="widthOrigin" data-filename="bg.png" data-origin-width="2048" data-origin-height="822"><span data-url="https://blog.kakaocdn.net/dna/6JbcK/dJMcaf6pOnI/AAAAAAAAAAAAAAAAAAAAAAvrBmSZDjn9kpxyyxqb7Tc7Cu7okY-u_3M9FqupGiaI/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&expires=1777561199&allow_ip=&allow_referer=&signature=%2FoF0VmuXR4KV4W4BegvHx%2BS0Bmo%3D" data-phocus="https://blog.kakaocdn.net/dna/6JbcK/dJMcaf6pOnI/AAAAAAAAAAAAAAAAAAAAAAvrBmSZDjn9kpxyyxqb7Tc7Cu7okY-u_3M9FqupGiaI/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&expires=1777561199&allow_ip=&allow_referer=&signature=%2FoF0VmuXR4KV4W4BegvHx%2BS0Bmo%3D"><img src="https://blog.kakaocdn.net/dna/6JbcK/dJMcaf6pOnI/AAAAAAAAAAAAAAAAAAAAAAvrBmSZDjn9kpxyyxqb7Tc7Cu7okY-u_3M9FqupGiaI/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&expires=1777561199&allow_ip=&allow_referer=&signature=%2FoF0VmuXR4KV4W4BegvHx%2BS0Bmo%3D" srcset="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2F6JbcK%2FdJMcaf6pOnI%2FAAAAAAAAAAAAAAAAAAAAAAvrBmSZDjn9kpxyyxqb7Tc7Cu7okY-u_3M9FqupGiaI%2Fimg.png%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1777561199%26allow_ip%3D%26allow_referer%3D%26signature%3D%252FoF0VmuXR4KV4W4BegvHx%252BS0Bmo%253D" onerror="this.onerror=null; this.src='//t1.daumcdn.net/tistory_admin/static/images/no-image-v1.png'; this.srcset='//t1.daumcdn.net/tistory_admin/static/images/no-image-v1.png';" loading="lazy" width="2048" height="822" data-filename="bg.png" data-origin-width="2048" data-origin-height="822"/></span></figure>
+</p>
+<p data-ke-size="size16">&nbsp;</p>
+<p data-ke-size="size16">시작하게 된 동기는 꽤 우연이었다. 하필 회사 이직 과정중에 추석연휴가 겹쳐서, 뜻하지 않은 2주의 공백이 생겨버렸다.&nbsp;</p>
+<p data-ke-size="size16">원래는 tanstack 관련 강의를 쭉 들으려고 했는데, 심심할 것 같아서 강한 동기부여를 주는 무언가를 만들고 싶었다.</p>
+<p data-ke-size="size16">&nbsp;</p>
+<p data-ke-size="size16">그러다가 문득(?) dfs 관련 게임을 만들어보면 좋겠다고 생각했다. 이 사고가 어떻게 연결되었는지는 아직도 잘 기억이 안난다 ㅋㅋ 그래서 무작정 기획을 시작했고, 이 때의 목표는 <b>"나의 리소스 만으로 1원 벌어보기"</b>로 잡았다. 이런 미니게임류에서 성공하기는 굉장히 어렵기 때문에, 성공을 목표로 한다기보단 재미삼아 광고를 달아서 10원이라도 벌어보는 경험을 하고 싶었다.</p>
+<p data-ke-size="size16">&nbsp;</p>
+<p data-ke-size="size16">처음부터 DFS 알고리즘을 생각하고 만든 문제였기 때문에, 게임 규칙을 정하는건 생각보다 쉬웠다. 이번 프로젝트를 하면서 다양한 친구들(chatGPT, gemini, claude, midjourney... 등등..) 과 함께했다. 원래 gpt 말고 인공지능에 돈을 안썼는데, 이번 프로젝트하면서 거의 10만원 이상은 인공지능에 투자한 것 같다.</p>
+<p data-ke-size="size16"><a style="background-color: #ffffff; color: #1a0dab; text-align: start;" href="https://artlist.io/text-to-image-ai" data-ved="2ahUKEwjNhs7M-JGSAxXXZ_UHHaQFJ50Q0Qx6BAg6EAE" data-al="1" data-ae="1" data-rw="https://www.google.com/aclk?sa=L&amp;pf=1&amp;ai=DChsSEwjT9dPM-JGSAxXjF3sHHX5iLU8YACICCAEQABoCdG0&amp;co=1&amp;ase=2&amp;gclid=CjwKCAiA4KfLBhB0EiwAUY7GAXiK0ga7ImWndgUmxy841gIqpKkaeTCDIZmQC685DWeNZx_gX5VDHBoC67IQAvD_BwE&amp;ei=kStraY36ONfP1e8PpIuc6Qk&amp;cid=CAASugHkaMiYYdOHLVOsGPdWn0K1mZiDoB4UAJjJKIPQ6e7RIDO5JViN2gDgE7SIiOkVuDPwXvFHdXxgcrDlbN1rrqcA67OwADcV3UL_uPeRiwhgXxYO0p6UH_s2jKo5r1oquEGY5A4CKOAIJ4ckhxLH65pgyOAclXdKGlc5zDo3eMxt_aeB6hXu6gQhqKdYQxPAVZrSEmptJkC6MuNobcoJTEBsU5QdADCPhmOFuGj50UWwRd3mCkPSWdnWLvc&amp;cce=2&amp;category=acrcp_v1_32&amp;sig=AOD64_0CbrcSaQVT7PEPuG15V6TrFhTnqw&amp;q&amp;sqi=2&amp;nis=4&amp;adurl=https://artlist.io/text-to-image-ai?utm_source%3Dgoogle%26utm_medium%3Dcpc%26utm_campaign%3D22359389894%26utm_content%3D183013771866%26utm_term%3Dmidjourney%2520ai%26keyword%3Dmidjourney%2520ai%26ad%3D767975102344%26matchtype%3Db%26device%3Dc%26gad_source%3D1%26gad_campaignid%3D22359389894%26gbraid%3D0AAAAACuwFJ0u_lEXfNl6J6qmqBIxGqfpt%26gclid%3DCjwKCAiA4KfLBhB0EiwAUY7GAXiK0ga7ImWndgUmxy841gIqpKkaeTCDIZmQC685DWeNZx_gX5VDHBoC67IQAvD_BwE" data-agdh="fvd3vc" data-pcu="https://artlist.io/" data-impdclcc="1" data-agch="HJ3bqe"><br /></a>&nbsp;프레임워크는 유니티로 잡았는데, 게임 특성상 맵을 조작하거나, 카메라 초점을 조작하는 상황이 있어야 했고 관련 기능을 다루기 좋을 것 같았다. 그리고 게임을 검증하는 알고리즘이 DFS, BFS라서 평소 알고리즘 문제 풀 때 사용하던 c++을 택했다. (<s>사실 c#인데</s> <s>뭐 거기서 거기</s>) 유니티도 예전에 한번 깔짝 해본 경험이 있어서 인공지능과 함께라면 단순한 게임 정도는 쉽게 만들 수 있을 줄 알았다.</p>
+<p data-ke-size="size16">&nbsp;</p>
+<p data-ke-size="size16">시작할때는 아래 보드의 절반 정도만 있었던 것 같은데, 지금 보니까 이렇게 많아져 버렸다... 타임라인과 순서를 저렇게 잡고 시작했다.</p>
+<p><figure class="imageblock alignCenter" data-ke-mobileStyle="widthOrigin" data-filename="스크린샷 2026-01-17 오후 3.20.04.png" data-origin-width="1529" data-origin-height="1201"><span data-url="https://blog.kakaocdn.net/dna/bXaQnM/dJMcagYxzQ0/AAAAAAAAAAAAAAAAAAAAAGjvARTTdjbWDGH2lf9zM4KjYIpXy1e2sALGTfI9pjvl/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&expires=1777561199&allow_ip=&allow_referer=&signature=SSu1BUjYkrJqLNAu7faPeeB6Nww%3D" data-phocus="https://blog.kakaocdn.net/dna/bXaQnM/dJMcagYxzQ0/AAAAAAAAAAAAAAAAAAAAAGjvARTTdjbWDGH2lf9zM4KjYIpXy1e2sALGTfI9pjvl/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&expires=1777561199&allow_ip=&allow_referer=&signature=SSu1BUjYkrJqLNAu7faPeeB6Nww%3D" data-alt="최종 노션 대시보드"><img src="https://blog.kakaocdn.net/dna/bXaQnM/dJMcagYxzQ0/AAAAAAAAAAAAAAAAAAAAAGjvARTTdjbWDGH2lf9zM4KjYIpXy1e2sALGTfI9pjvl/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&expires=1777561199&allow_ip=&allow_referer=&signature=SSu1BUjYkrJqLNAu7faPeeB6Nww%3D" srcset="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FbXaQnM%2FdJMcagYxzQ0%2FAAAAAAAAAAAAAAAAAAAAAGjvARTTdjbWDGH2lf9zM4KjYIpXy1e2sALGTfI9pjvl%2Fimg.png%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1777561199%26allow_ip%3D%26allow_referer%3D%26signature%3DSSu1BUjYkrJqLNAu7faPeeB6Nww%253D" onerror="this.onerror=null; this.src='//t1.daumcdn.net/tistory_admin/static/images/no-image-v1.png'; this.srcset='//t1.daumcdn.net/tistory_admin/static/images/no-image-v1.png';" loading="lazy" width="1529" height="1201" data-filename="스크린샷 2026-01-17 오후 3.20.04.png" data-origin-width="1529" data-origin-height="1201"/></span><figcaption>최종 노션 대시보드</figcaption>
+</figure>
+</p>
+<p data-ke-size="size16">일정 잡는데만 거의 하루 넘게 걸린 것 같다. 문서 작성이랑 브랜딩은 chatGPT와 토론하면서 정했다. 얘의 단점은 내 의견에 동의만 해준다는 거였다... 결국에는 그냥 내 생각을 음슴체로 쓰면 기획 문서로 잘 정리해 주는 용도로만 사용하게 된 것 같다.</p>
+<p data-ke-size="size16">&nbsp;</p>
+<p data-ke-size="size16">대충 기획을 끝내고, 디자인을 시작했는데, 생각보다 막막했다. 처음에 지오멘트리 대시 같은 네온 테마에, 요즘 애플에서 핫(?)한 글래스 효과를 넣은 mz 한 디자인을 만들고 싶었는데, 디자이너가 아니다 보니.. 머릿속에 생각한 분위기를 잘 풀어내는게 너무 어려웠다.</p>
+<p><figure class="imageblock alignCenter" data-ke-mobileStyle="widthOrigin" data-filename="스크린샷 2026-01-17 오후 3.43.27.png" data-origin-width="1720" data-origin-height="620"><span data-url="https://blog.kakaocdn.net/dna/bnLOpe/dJMcahiR6Ru/AAAAAAAAAAAAAAAAAAAAACNUd60p7pr4hwOiUIRn4_UA125hi5FoiUeBV4dVMmnm/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&expires=1777561199&allow_ip=&allow_referer=&signature=w4toW0qHh0%2BKtYp5%2FRP3pBpUY84%3D" data-phocus="https://blog.kakaocdn.net/dna/bnLOpe/dJMcahiR6Ru/AAAAAAAAAAAAAAAAAAAAACNUd60p7pr4hwOiUIRn4_UA125hi5FoiUeBV4dVMmnm/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&expires=1777561199&allow_ip=&allow_referer=&signature=w4toW0qHh0%2BKtYp5%2FRP3pBpUY84%3D" data-alt="최종 피그마 파일의 일부.."><img src="https://blog.kakaocdn.net/dna/bnLOpe/dJMcahiR6Ru/AAAAAAAAAAAAAAAAAAAAACNUd60p7pr4hwOiUIRn4_UA125hi5FoiUeBV4dVMmnm/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&expires=1777561199&allow_ip=&allow_referer=&signature=w4toW0qHh0%2BKtYp5%2FRP3pBpUY84%3D" srcset="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FbnLOpe%2FdJMcahiR6Ru%2FAAAAAAAAAAAAAAAAAAAAACNUd60p7pr4hwOiUIRn4_UA125hi5FoiUeBV4dVMmnm%2Fimg.png%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1777561199%26allow_ip%3D%26allow_referer%3D%26signature%3Dw4toW0qHh0%252BKtYp5%252FRP3pBpUY84%253D" onerror="this.onerror=null; this.src='//t1.daumcdn.net/tistory_admin/static/images/no-image-v1.png'; this.srcset='//t1.daumcdn.net/tistory_admin/static/images/no-image-v1.png';" loading="lazy" width="1720" height="620" data-filename="스크린샷 2026-01-17 오후 3.43.27.png" data-origin-width="1720" data-origin-height="620"/></span><figcaption>최종 피그마 파일의 일부..</figcaption>
+</figure>
+</p>
+<p data-ke-size="size16">나름 컴포넌트랑 시멘틱 컬러 등 구조는 잘 잡고 출발했다. 나중에 fimga mcp를 쓰기 위해서 신경을 써야했다. 위의 피그마 파일에 보이는 보라색 덩어리들이 초기 디자인이었는데, 나중에 과감하게 폐기했다. (이유는 나중에..)</p>
+<p data-ke-size="size16">&nbsp;</p>
+<p data-ke-size="size16">그리고 열심히 개발을 했더니, 추석연휴가 다 지나가버려서 회사 입사일이 다가왔다. 결국 1차 목표를 달성하지 못했다. 그래서 잠시 덮어두고 나중에 여유가 되면 하기로 했는데... 한가지 <b>변수</b>가 생겼다.</p>
+<p data-ke-size="size16">&nbsp;</p>
+<p data-ke-size="size16">사실 맨 처음 DFS 게임을 만들때부터 백준 문제로 만들어서, 홍보하면 좋겠다는 생각을 가지고 있긴 했는데, 대회류가 아닌 일반 문제 출제 자격은 가지고 있지 않아 그냥 먼 꿈처럼 남겨두고 있었다. 근데, 어쩌다보니(?) 고려대학교&nbsp;<span style="color: #333333; text-align: start;">kcpc 2025 에 문제를 출제할 수 있는 기회를 얻게 되었다.<span> 다행히 대회의 다른 고수분들과 함께라면 문제 출제자에 이름을 올리는 자격은 가지고 있었다. 그래서.. 프로젝트가 다시 재개되었다...</span></span></p>
+<p data-ke-size="size16">&nbsp;</p>
+<p data-ke-size="size16"><span style="color: #333333; text-align: start;"><span>기능 자체는 다 만들어놔서, 배포만 하면 될 줄 알았는데, 게임 이름이랑 브랜딩이 계속 걸렸다. 뭔가 느낌이 안살아서, 게임 이름부터 다시 정해보기로 했다. 내가 사랑하는 친구 한명이 굉장한 아이디어맨+영어 강자라서, 좋은 게임 이름을 생각해보라고 시켰다. 그랬더니..! 마음에 드는게 나왔다. 사랑해 친구야ㅋㅋ 사진은 기념으로 박제하는 새벽 6시까지 토의하는 우리인데... 너무 날것이니 적당히 넘겨주세요&nbsp;</span></span><span style="color: #333333; text-align: start;"><span></span></span></p>
+<p><figure class="imagegridblock">
+  <div class="image-container"><span data-url="https://blog.kakaocdn.net/dna/cL7SSN/dJMcagK2nBe/AAAAAAAAAAAAAAAAAAAAAK39BkIueX6N3iYntbiV8CXCQEcHGbR_UZKhM9COUyCU/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&expires=1777561199&allow_ip=&allow_referer=&signature=SMSjCqYgIVPMoodw4PD0vcrE6es%3D" data-phocus="https://blog.kakaocdn.net/dna/cL7SSN/dJMcagK2nBe/AAAAAAAAAAAAAAAAAAAAAK39BkIueX6N3iYntbiV8CXCQEcHGbR_UZKhM9COUyCU/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&expires=1777561199&allow_ip=&allow_referer=&signature=SMSjCqYgIVPMoodw4PD0vcrE6es%3D" data-is-animation="false" data-origin-width="760" data-origin-height="1430" data-filename="KakaoTalk_Snapshot_20260117_155508.png" style="width: 36.7664%; margin-right: 10px;" data-widthpercent="37.64"><img src="https://blog.kakaocdn.net/dna/cL7SSN/dJMcagK2nBe/AAAAAAAAAAAAAAAAAAAAAK39BkIueX6N3iYntbiV8CXCQEcHGbR_UZKhM9COUyCU/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&expires=1777561199&allow_ip=&allow_referer=&signature=SMSjCqYgIVPMoodw4PD0vcrE6es%3D" srcset="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&amp;fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FcL7SSN%2FdJMcagK2nBe%2FAAAAAAAAAAAAAAAAAAAAAK39BkIueX6N3iYntbiV8CXCQEcHGbR_UZKhM9COUyCU%2Fimg.png%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1777561199%26allow_ip%3D%26allow_referer%3D%26signature%3DSMSjCqYgIVPMoodw4PD0vcrE6es%253D" onerror="this.onerror=null; this.src='//t1.daumcdn.net/tistory_admin/static/images/no-image-v1.png'; this.srcset='//t1.daumcdn.net/tistory_admin/static/images/no-image-v1.png';" loading="lazy" width="760" height="1430"/></span><span data-url="https://blog.kakaocdn.net/dna/xpWDD/dJMcagK2nBf/AAAAAAAAAAAAAAAAAAAAAGPtJRlvQTFXebJrCJko1KqPamBFvTId8BXzTh5ACKLK/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&expires=1777561199&allow_ip=&allow_referer=&signature=7x%2BuUOhNocBgnohqlWBt2lKQ6qs%3D" data-phocus="https://blog.kakaocdn.net/dna/xpWDD/dJMcagK2nBf/AAAAAAAAAAAAAAAAAAAAAGPtJRlvQTFXebJrCJko1KqPamBFvTId8BXzTh5ACKLK/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&expires=1777561199&allow_ip=&allow_referer=&signature=7x%2BuUOhNocBgnohqlWBt2lKQ6qs%3D" data-is-animation="false" data-origin-width="760" data-origin-height="1796" data-filename="KakaoTalk_Snapshot_20260117_155635.png" style="width: 29.2739%; margin-right: 10px;" data-widthpercent="29.97"><img src="https://blog.kakaocdn.net/dna/xpWDD/dJMcagK2nBf/AAAAAAAAAAAAAAAAAAAAAGPtJRlvQTFXebJrCJko1KqPamBFvTId8BXzTh5ACKLK/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&expires=1777561199&allow_ip=&allow_referer=&signature=7x%2BuUOhNocBgnohqlWBt2lKQ6qs%3D" srcset="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&amp;fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FxpWDD%2FdJMcagK2nBf%2FAAAAAAAAAAAAAAAAAAAAAGPtJRlvQTFXebJrCJko1KqPamBFvTId8BXzTh5ACKLK%2Fimg.png%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1777561199%26allow_ip%3D%26allow_referer%3D%26signature%3D7x%252BuUOhNocBgnohqlWBt2lKQ6qs%253D" onerror="this.onerror=null; this.src='//t1.daumcdn.net/tistory_admin/static/images/no-image-v1.png'; this.srcset='//t1.daumcdn.net/tistory_admin/static/images/no-image-v1.png';" loading="lazy" width="760" height="1796"/></span><span data-url="https://blog.kakaocdn.net/dna/baEvhX/dJMcaajJYLf/AAAAAAAAAAAAAAAAAAAAAL6gtpfxOb_We3eiKEmh_nlB8hjQG10bguTfoM5U4Be2/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&expires=1777561199&allow_ip=&allow_referer=&signature=p6L%2BW5RxRFfu9qc9lu%2BCDluMV0I%3D" data-phocus="https://blog.kakaocdn.net/dna/baEvhX/dJMcaajJYLf/AAAAAAAAAAAAAAAAAAAAAL6gtpfxOb_We3eiKEmh_nlB8hjQG10bguTfoM5U4Be2/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&expires=1777561199&allow_ip=&allow_referer=&signature=p6L%2BW5RxRFfu9qc9lu%2BCDluMV0I%3D" data-is-animation="false" data-origin-width="760" data-origin-height="1662" data-filename="KakaoTalk_Snapshot_20260117_155726.png" style="width: 31.6341%;" data-widthpercent="32.39"><img src="https://blog.kakaocdn.net/dna/baEvhX/dJMcaajJYLf/AAAAAAAAAAAAAAAAAAAAAL6gtpfxOb_We3eiKEmh_nlB8hjQG10bguTfoM5U4Be2/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&expires=1777561199&allow_ip=&allow_referer=&signature=p6L%2BW5RxRFfu9qc9lu%2BCDluMV0I%3D" srcset="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&amp;fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FbaEvhX%2FdJMcaajJYLf%2FAAAAAAAAAAAAAAAAAAAAAL6gtpfxOb_We3eiKEmh_nlB8hjQG10bguTfoM5U4Be2%2Fimg.png%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1777561199%26allow_ip%3D%26allow_referer%3D%26signature%3Dp6L%252BW5RxRFfu9qc9lu%252BCDluMV0I%253D" onerror="this.onerror=null; this.src='//t1.daumcdn.net/tistory_admin/static/images/no-image-v1.png'; this.srcset='//t1.daumcdn.net/tistory_admin/static/images/no-image-v1.png';" loading="lazy" width="760" height="1662"/></span></div>
+</figure>
+</p>
+<p data-ke-size="size16">&nbsp;</p>
+<p data-ke-size="size16">게임 이름이 바뀌니 브랜딩이 더 쉬워졌고, 디자인도 빠르게 다시 만들었다. 처음에 디자인할때는 거의 일주일 걸렸는데, 새로 바뀐 디자인은 거의 하루만에 다했다. 그래서 지금의 네모데믹 디자인이 탄생하게 되었다.</p>
+<p data-ke-size="size16">&nbsp;</p>
+<p data-ke-size="size16">kcpc나 개발 이야기는 다음편에 계속...</p>
+<p data-ke-size="size16"><br />게임은 다음 스토어 링크에서 다운받을 수 있다. <br />현재(2026-1-17) 기준으로 apple에서 맵 버그가 하나 있는데, (2026-1-20) 버전 업데이트 예정입니다.. ㅜㅜ</p>
+<p data-ke-size="size16">&nbsp;</p>
+<h3 data-ke-size="size23"><span style="color: #409d00; background-color: #f6e199;"><b>아래 링크에서 다운받고 별점 5점 Please ㅎㅎ</b></span></h3>
+<figure id="og_1768631745191" contenteditable="false" data-ke-type="opengraph" data-ke-align="alignCenter" data-og-type="website" data-og-title="네모데믹 앱 - App Store" data-og-description="App&nbsp;Store에서 yurim lee의 네모데믹 앱을 다운로드하십시오. 스크린샷, 평가 및 리뷰, 사용자 팁, 네모데믹 앱과 비슷한 다른 게임들도 만나볼 수 있습니다." data-og-host="apps.apple.com" data-og-source-url="https://apps.apple.com/kr/app/네모데믹/id6757725643" data-og-url="https://apps.apple.com/kr/app/%EB%84%A4%EB%AA%A8%EB%8D%B0%EB%AF%B9/id6757725643" data-og-image="https://blog.kakaocdn.net/dna/bAq8tr/dJMb9g44MPn/AAAAAAAAAAAAAAAAAAAAAH-U0W-MGGHSHnyMrbihEWmepl7VOP_WQCjcI_Dh8Dzm/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&expires=1777561199&allow_ip=&allow_referer=&signature=AcflfJwU1CPX8s0crKClSvdiQAA%3D"><a href="https://apps.apple.com/kr/app/네모데믹/id6757725643" target="_blank" rel="noopener" data-source-url="https://apps.apple.com/kr/app/네모데믹/id6757725643">
+<div class="og-image" style="background-image: url('https://blog.kakaocdn.net/dna/bAq8tr/dJMb9g44MPn/AAAAAAAAAAAAAAAAAAAAAH-U0W-MGGHSHnyMrbihEWmepl7VOP_WQCjcI_Dh8Dzm/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&expires=1777561199&allow_ip=&allow_referer=&signature=AcflfJwU1CPX8s0crKClSvdiQAA%3D');">&nbsp;</div>
+<div class="og-text">
+<p class="og-title" data-ke-size="size16">네모데믹 앱 - App Store</p>
+<p class="og-desc" data-ke-size="size16">App&nbsp;Store에서 yurim lee의 네모데믹 앱을 다운로드하십시오. 스크린샷, 평가 및 리뷰, 사용자 팁, 네모데믹 앱과 비슷한 다른 게임들도 만나볼 수 있습니다.</p>
+<p class="og-host" data-ke-size="size16">apps.apple.com</p>
+</div>
+</a></figure>
+<p data-ke-size="size16">&nbsp;</p>
+<figure id="og_1768631751979" contenteditable="false" data-ke-type="opengraph" data-ke-align="alignCenter" data-og-type="website" data-og-title="네모데믹 - Google Play 앱" data-og-description="바이러스를 피해 탈출하라! 전략적 사고력을 키우는 퍼즐 게임. 매 턴 확산되는 감염을 예측하고, 최적의 경로를 찾아 탈출구에 도달하세요." data-og-host="play.google.com" data-og-source-url="https://play.google.com/store/apps/details?id=kr.yurim.nemodemic" data-og-url="https://play.google.com/store/apps/details?id=kr.yurim.nemodemic&amp;hl=ko" data-og-image="https://blog.kakaocdn.net/dna/iKKuJ/dJMb9lL5fFl/AAAAAAAAAAAAAAAAAAAAACsqvlJkGi-hFwaU1tPoBxryoMTxHKdEvCSdxH8-WCyJ/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&expires=1777561199&allow_ip=&allow_referer=&signature=K6zhjXyouSPG5dV3Bnu5MdclQ2g%3D"><a href="https://play.google.com/store/apps/details?id=kr.yurim.nemodemic" target="_blank" rel="noopener" data-source-url="https://play.google.com/store/apps/details?id=kr.yurim.nemodemic">
+<div class="og-image" style="background-image: url('https://blog.kakaocdn.net/dna/iKKuJ/dJMb9lL5fFl/AAAAAAAAAAAAAAAAAAAAACsqvlJkGi-hFwaU1tPoBxryoMTxHKdEvCSdxH8-WCyJ/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&expires=1777561199&allow_ip=&allow_referer=&signature=K6zhjXyouSPG5dV3Bnu5MdclQ2g%3D');">&nbsp;</div>
+<div class="og-text">
+<p class="og-title" data-ke-size="size16">네모데믹 - Google Play 앱</p>
+<p class="og-desc" data-ke-size="size16">바이러스를 피해 탈출하라! 전략적 사고력을 키우는 퍼즐 게임. 매 턴 확산되는 감염을 예측하고, 최적의 경로를 찾아 탈출구에 도달하세요.</p>
+<p class="og-host" data-ke-size="size16">play.google.com</p>
+</div>
+</a></figure>
+<p data-ke-size="size16">&nbsp;</p></div>
+            <!-- System - START -->
+
+<!-- System - END -->
+
+                    <div class="container_postbtn #post_button_group">
+  <div class="postbtn_like"><script>window.ReactionButtonType = 'reaction';
+window.ReactionApiUrl = '//yurims-diary.tistory.com/reaction';
+window.ReactionReqBody = {
+    entryId: 3
+}</script>
+<div class="wrap_btn" id="reaction-3" data-tistory-react-app="Reaction"></div><div class="wrap_btn wrap_btn_share"><button type="button" class="btn_post sns_btn btn_share" aria-expanded="false" data-thumbnail-url="https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&amp;fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2F6JbcK%2FdJMcaf6pOnI%2FAAAAAAAAAAAAAAAAAAAAAAvrBmSZDjn9kpxyyxqb7Tc7Cu7okY-u_3M9FqupGiaI%2Fimg.png%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1777561199%26allow_ip%3D%26allow_referer%3D%26signature%3D%252FoF0VmuXR4KV4W4BegvHx%252BS0Bmo%253D" data-title="NEMODEMIC 출시 후기 (1) - 기획+디자인" data-description="나의 첫 번째 프로젝트, &quot;네모데믹&quot;의 출시 후기를 적어보려고 한다. 시작하게 된 동기는 꽤 우연이었다. 하필 회사 이직 과정중에 추석연휴가 겹쳐서, 뜻하지 않은 2주의 공백이 생겨버렸다. 원래는 tanstack 관련 강의를 쭉 들으려고 했는데, 심심할 것 같아서 강한 동기부여를 주는 무언가를 만들고 싶었다. 그러다가 문득(?) dfs 관련 게임을 만들어보면 좋겠다고 생각했다. 이 사고가 어떻게 연결되었는지는 아직도 잘 기억이 안난다 ㅋㅋ 그래서 무작정 기획을 시작했고, 이 때의 목표는 &quot;나의 리소스 만으로 1원 벌어보기&quot;로 잡았다. 이런 미니게임류에서 성공하기는 굉장히 어렵기 때문에, 성공을 목표로 한다기보단 재미삼아 광고를 달아서 10원이라도 벌어보는 경험을 하고 싶었다. 처음부터 DFS 알고리즘을 .." data-profile-image="https://tistory1.daumcdn.net/tistory/6802676/attach/17e51f22791f48219b2332f6590bf6ce" data-profile-name="yurim0930" data-pc-url="https://yurims-diary.tistory.com/3" data-relative-pc-url="/3" data-blog-title="Yurim's Diary"><span class="ico_postbtn ico_share">공유하기</span></button>
+  <div class="layer_post" id="tistorySnsLayer"></div>
+</div><div class="wrap_btn wrap_btn_etc" data-entry-id="3" data-entry-visibility="public" data-category-visibility="public"><button type="button" class="btn_post btn_etc2" aria-expanded="false"><span class="ico_postbtn ico_etc">게시글 관리</span></button>
+  <div class="layer_post" id="tistoryEtcLayer"></div>
+</div></div>
+<button type="button" class="btn_menu_toolbar btn_subscription #subscribe" data-blog-id="6802676" data-url="https://yurims-diary.tistory.com/3" data-device="web_pc" data-tiara-action-name="구독 버튼_클릭"><em class="txt_state"></em><strong class="txt_tool_id">Yurim's Diary</strong><span class="img_common_tistory ico_check_type1"></span></button><div class="postbtn_ccl" data-ccl-type="1" data-ccl-derive="2">
+    <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.ko" target="_blank" class="link_ccl" rel="license">
+        <span class="bundle_ccl">
+            <span class="ico_postbtn ico_ccl1">저작자표시</span> <span class="ico_postbtn ico_ccl2">비영리</span> <span class="ico_postbtn ico_ccl3">변경금지</span> 
+        </span>
+        <span class="screen_out">(새창열림)</span>
+    </a>
+</div>
+<!--
+<rdf:RDF xmlns="https://web.resource.org/cc/" xmlns:dc="https://purl.org/dc/elements/1.1/" xmlns:rdf="https://www.w3.org/1999/02/22-rdf-syntax-ns#">
+    <Work rdf:about="">
+        <license rdf:resource="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.ko" />
+    </Work>
+    <License rdf:about="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.ko">
+        <permits rdf:resource="https://web.resource.org/cc/Reproduction"/>
+        <permits rdf:resource="https://web.resource.org/cc/Distribution"/>
+        <requires rdf:resource="https://web.resource.org/cc/Notice"/>
+        <requires rdf:resource="https://web.resource.org/cc/Attribution"/>
+        <prohibits rdf:resource="https://web.resource.org/cc/CommercialUse"/>
+
+    </License>
+</rdf:RDF>
+-->  <div data-tistory-react-app="SupportButton"></div>
+</div>
+
+                    <!-- PostListinCategory - START -->
+<div class="another_category another_category_color_gray">
+  <h4>'<a href="/category/%ED%9B%84%EA%B8%B0">후기</a>' 카테고리의 다른 글</h4>
+  <table>
+    <tr>
+      <th><a href="/2">2025 FEConf 후기 + 혼퍼런스 꿀팁</a>&nbsp;&nbsp;<span>(6)</span></th>
+      <td>2025.08.27</td>
+    </tr>
+  </table>
+</div>
+
+<!-- PostListinCategory - END -->
+
+      </div>
+
+      
+        <div class="tags">
+          <h2>태그</h2>
+          <a href="/tag/1%EC%9D%B8%EA%B0%9C%EB%B0%9C" rel="tag">1인개발</a>, <a href="/tag/Nemodemic" rel="tag">Nemodemic</a>, <a href="/tag/%EA%B0%9C%EB%B0%9C" rel="tag">개발</a>, <a href="/tag/%EA%B2%8C%EC%9E%84" rel="tag">게임</a>, <a href="/tag/%EB%84%A4%EB%AA%A8%EB%8D%B0%EB%AF%B9" rel="tag">네모데믹</a>, <a href="/tag/%EB%B0%94%EC%9D%B4%EB%B8%8C%EC%BD%94%EB%94%A9" rel="tag">바이브코딩</a>, <a href="/tag/%EC%82%AC%EC%9D%B4%EB%93%9C%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8" rel="tag">사이드프로젝트</a>, <a href="/tag/%EC%9C%A0%EB%8B%88%ED%8B%B0" rel="tag">유니티</a>
+        </div>
+      
+
+      
+        <div class="related-articles">
+          <h2>관련글</h2>
+          <ul>
+            
+              <li>
+                <a href="/2?category=1077245">
+                  <figure>
+                    
+                      <img
+                        src="//i1.daumcdn.net/thumb/C176x120/?fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FtUVYx%2FbtsP5MyxF1r%2FAAAAAAAAAAAAAAAAAAAAAEIf_edEAof9gGHJARsqasuIgq9gc79wtNCtLYhBVTLa%2Fimg.png%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1777561199%26allow_ip%3D%26allow_referer%3D%26signature%3Db2ZNCtPkqxWHDCsnMjsCrMP%252BWA4%253D"
+                        alt="">
+                    
+                  </figure>
+                  <span class="title">2025 FEConf 후기 + 혼퍼런스 꿀팁</span>
+                </a>
+              </li>
+            
+          </ul>
+        </div>
+      
+
+      <div class="comments">
+        <div data-tistory-react-app="Namecard"></div><div id="entry3Comment">
+          <div class="tt-comments-wrap">
+            <div data-tistory-react-app="Comment"></div>
+
+          </div>
+        </div>
+<script type="text/javascript">loadedComments[3]=true;
+findFragmentAndHighlight(3);</script>
+
+      </div>
+    
+
+  
+        
+    
+
+            </div>
+
+            
+
+            
+
+            
+
+            
+
+          </article>
+          <aside id="aside" class="sidebar">
+
+            <div class="sidebar-1">
+              
+                  <!-- 카테고리 -->
+                  <nav class="category">
+                    <ul class="tt_category"><li class=""><a href="/category" class="link_tit"> 분류 전체보기 </a>
+  <ul class="category_list"><li class=""><a href="/category/react" class="link_item"> react </a></li>
+<li class=""><a href="/category/flutter" class="link_item"> flutter </a></li>
+<li class=""><a href="/category/%ED%9B%84%EA%B8%B0" class="link_item"> 후기 </a></li>
+</ul>
+</li>
+</ul>
+
+                  </nav>
+                
+            </div>
+            <div class="sidebar-2">
+              
+                  <!-- 공지사항 -->
+                  
+                    <div class="notice">
+                      <h2>공지사항</h2>
+                      <ul>
+                        
+                      </ul>
+                    </div>
+                  
+                
+                  <!-- 최근글/인기글 -->
+                  <div class="post-list tab-ui">
+                    <div id="recent" class="tab-list">
+                      <h2>최근글</h2>
+                      <ul>
+                        
+                          <li>
+                            <a href="/3">
+                              
+                                <img src="//i1.daumcdn.net/thumb/C58x58/?fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2F6JbcK%2FdJMcaf6pOnI%2FAAAAAAAAAAAAAAAAAAAAAAvrBmSZDjn9kpxyyxqb7Tc7Cu7okY-u_3M9FqupGiaI%2Fimg.png%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1777561199%26allow_ip%3D%26allow_referer%3D%26signature%3D%252FoF0VmuXR4KV4W4BegvHx%252BS0Bmo%253D" alt="" />
+                              
+                              <span class="title">NEMODEMIC 출시 후기 (1) - 기획+디자⋯</span>
+                              <span class="date">2026.01.13</span>
+                            </a>
+                          </li>
+                        
+                          <li>
+                            <a href="/2">
+                              
+                                <img src="//i1.daumcdn.net/thumb/C58x58/?fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FtUVYx%2FbtsP5MyxF1r%2FAAAAAAAAAAAAAAAAAAAAAEIf_edEAof9gGHJARsqasuIgq9gc79wtNCtLYhBVTLa%2Fimg.png%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1777561199%26allow_ip%3D%26allow_referer%3D%26signature%3Db2ZNCtPkqxWHDCsnMjsCrMP%252BWA4%253D" alt="" />
+                              
+                              <span class="title">2025 FEConf 후기 + 혼퍼런스 꿀팁</span>
+                              <span class="date">2025.08.27</span>
+                            </a>
+                          </li>
+                        
+                      </ul>
+                    </div>
+                    <div id="popular" class="tab-list">
+                      <h2>인기글</h2>
+                      <ul>
+                        
+                          <li>
+                            <a href="/3">
+                              
+                                <img src="//i1.daumcdn.net/thumb/C58x58/?fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2F6JbcK%2FdJMcaf6pOnI%2FAAAAAAAAAAAAAAAAAAAAAAvrBmSZDjn9kpxyyxqb7Tc7Cu7okY-u_3M9FqupGiaI%2Fimg.png%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1777561199%26allow_ip%3D%26allow_referer%3D%26signature%3D%252FoF0VmuXR4KV4W4BegvHx%252BS0Bmo%253D" alt="" />
+                              
+                              <span class="title">NEMODEMIC 출시 후기 (1) - 기획+디자⋯</span>
+                              <span class="date">2026.01.13</span>
+                            </a>
+                          </li>
+                        
+                          <li>
+                            <a href="/2">
+                              
+                                <img src="//i1.daumcdn.net/thumb/C58x58/?fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FtUVYx%2FbtsP5MyxF1r%2FAAAAAAAAAAAAAAAAAAAAAEIf_edEAof9gGHJARsqasuIgq9gc79wtNCtLYhBVTLa%2Fimg.png%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1777561199%26allow_ip%3D%26allow_referer%3D%26signature%3Db2ZNCtPkqxWHDCsnMjsCrMP%252BWA4%253D" alt="" />
+                              
+                              <span class="title">2025 FEConf 후기 + 혼퍼런스 꿀팁</span>
+                              <span class="date">2025.08.27</span>
+                            </a>
+                          </li>
+                        
+                      </ul>
+                    </div>
+                  </div>
+                
+                  <!-- 최근댓글 -->
+                  <div class="recent-comment">
+                    <h2>최근댓글</h2>
+                    <ul>
+                      
+                        <li><a href="/2#comment18870281">방문도장 쾅!</a></li>
+                      
+                        <li><a href="/2#comment18829005">유익한 정보 감사합니다! 제 블로그도 방문 부탁드려요 ⋯</a></li>
+                      
+                        <li><a href="/2#comment18787176">들렸다 갑니다~</a></li>
+                      
+                        <li><a href="/2#comment18784793">잘 읽고 갑니다.</a></li>
+                      
+                    </ul>
+                  </div>
+                
+                  <!-- Facebook/Twitter -->
+                  <div class="social-list tab-ui">
+                    
+                    
+                  </div>
+                
+              
+                  <!-- 태그 -->
+                  <div class="tags">
+                    <h2>태그</h2>
+                    
+                      <a href="/tag/Nemodemic">Nemodemic</a>
+                    
+                      <a href="/tag/%EC%82%AC%EC%9D%B4%EB%93%9C%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8">사이드프로젝트</a>
+                    
+                      <a href="/tag/%EA%B2%8C%EC%9E%84">게임</a>
+                    
+                      <a href="/tag/FECONF">FECONF</a>
+                    
+                      <a href="/tag/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%82%B9">네트워킹</a>
+                    
+                      <a href="/tag/%EC%A3%BC%EB%8B%88%EC%96%B4%20%EA%B0%9C%EB%B0%9C%EC%9E%90">주니어 개발자</a>
+                    
+                      <a href="/tag/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C%20%EC%BB%A8%ED%8D%BC%EB%9F%B0%EC%8A%A4">프론트엔드 컨퍼런스</a>
+                    
+                      <a href="/tag/%EB%84%A4%EB%AA%A8%EB%8D%B0%EB%AF%B9">네모데믹</a>
+                    
+                      <a href="/tag/FEConf%202025">FEConf 2025</a>
+                    
+                      <a href="/tag/1%EC%9D%B8%EA%B0%9C%EB%B0%9C">1인개발</a>
+                    
+                      <a href="/tag/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C">프론트엔드</a>
+                    
+                      <a href="/tag/%EB%B0%94%EC%9D%B4%EB%B8%8C%EC%BD%94%EB%94%A9">바이브코딩</a>
+                    
+                      <a href="/tag/%EA%B0%9C%EB%B0%9C">개발</a>
+                    
+                      <a href="/tag/%EC%9C%A0%EB%8B%88%ED%8B%B0">유니티</a>
+                    
+                      <a href="/tag/Frontend%20Conference">Frontend Conference</a>
+                    
+                      <a href="/tag/%EC%B7%A8%EC%97%85">취업</a>
+                    
+                      <a href="/tag/%EC%BB%A8%ED%8D%BC%EB%9F%B0%EC%8A%A4">컨퍼런스</a>
+                    
+                  </div>
+                
+                  <!-- 전체 방문자 -->
+                  <div class="count">
+                    <h2>전체 방문자</h2>
+                    <p class="total">304</p>
+                    <p>Today : 0</p>
+                    <p>Yesterday : 0</p>
+                  </div>
+                
+                  <!-- 소셜 채널 -->
+                  <div class="social-channel">
+                    <ul>
+                      
+                      
+                      
+                      
+                    </ul>
+                  </div>
+                
+            </div>
+          </aside>
+        </div>
+      </section>
+      <hr>
+      <footer id="footer">
+        <div class="inner">
+          <div class="order-menu">
+            
+              <a href="https://www.&#108;&#105;&#110;&#107;edin.com/in/yurim-lee-82b99a240/">&#76;&#105;&#110;&#107;edIn</a>
+            
+            
+              <a href="https://github.com/yurimn">Github</a>
+            
+            
+            
+          </div>
+          <a href="#" class="page-top">TOP</a>
+          <p class="meta">leeyou6757@gamil.com</p>
+          <p class="copyright"></p>
+        </div>
+      </footer>
+    </div>
+  
+  <script src="https://tistory1.daumcdn.net/tistory/6802676/skin/images/script.js?_version_=1703760346"></script>
+<div class="#menubar menu_toolbar ">
+  <h2 class="screen_out">티스토리툴바</h2>
+<div class="btn_tool"><button class="btn_menu_toolbar btn_subscription  #subscribe" data-blog-id="6802676" data-url="https://yurims-diary.tistory.com" data-device="web_pc"><strong class="txt_tool_id">Yurim's Diary</strong><em class="txt_state">구독하기</em><span class="img_common_tistory ico_check_type1"></span></button></div></div>
+<div class="#menubar menu_toolbar toolbar_rc"></div>
+<div class="layer_tooltip">
+  <div class="inner_layer_tooltip">
+    <p class="desc_g"></p>
+  </div>
+</div>
+<div id="editEntry" style="position:absolute;width:1px;height:1px;left:-100px;top:-100px"></div>
+
+
+                <!-- DragSearchHandler - START -->
+<script src="//search1.daumcdn.net/search/statics/common/js/g/search_dragselection.min.js"></script>
+
+<!-- DragSearchHandler - END -->
+
+        <!-- SyntaxHighlight - START -->
+        <link href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/10.7.3/styles/atom-one-light.min.css" rel="stylesheet"/><script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/10.7.3/highlight.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/10.7.3/languages/delphi.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/10.7.3/languages/php.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/10.7.3/languages/python.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/10.7.3/languages/r.min.js" defer></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/10.7.3/languages/ruby.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/10.7.3/languages/scala.min.js" defer></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/10.7.3/languages/shell.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/10.7.3/languages/sql.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/10.7.3/languages/swift.min.js" defer></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/10.7.3/languages/typescript.min.js" defer></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/10.7.3/languages/vbnet.min.js" defer></script>
+  <script>hljs.initHighlightingOnLoad();</script>
+
+
+        <!-- SyntaxHighlight - END -->
+
+                
+                <div style="margin:0; padding:0; border:none; background:none; float:none; clear:none; z-index:0"></div>
+<script type="text/javascript" src="https://tistory1.daumcdn.net/tistory_admin/userblog/userblog-91597a4fd4b809d820e03b8cb7c3f10bb5ffa703/static/script/common.js"></script>
+
+                
+                <script>window.tiara = {"svcDomain":"user.tistory.com","section":"글뷰","trackPage":"글뷰_보기","page":"글뷰","key":"6802676-3","customProps":{"userId":"0","blogId":"6802676","entryId":"3","role":"guest","trackPage":"글뷰_보기","filterTarget":false},"entry":{"entryId":"3","entryTitle":"NEMODEMIC 출시 후기 (1) - 기획+디자인","entryType":"POST","categoryName":"후기","categoryId":"1077245","serviceCategoryName":"IT 인터넷","serviceCategoryId":401,"author":"6512521","authorNickname":"yurim0930","blogNmae":"Yurim's Diary","image":"kage@6JbcK/dJMcaf6pOnI/gpa2KGvC0ypAzZgYKQjU3k","plink":"/3","tags":["1인개발","Nemodemic","개발","게임","네모데믹","바이브코딩","사이드프로젝트","유니티"]},"kakaoAppKey":"3e6ddd834b023f24221217e370daed18","appUserId":"null","thirdProvideAgree":null}</script>
+<script type="module" src="https://t1.daumcdn.net/tistory_admin/frontend/tiara/v1.0.7/index.js"></script>
+<script src="https://t1.daumcdn.net/tistory_admin/frontend/tiara/v1.0.7/polyfills-legacy.js" nomodule="true" defer="true"></script>
+<script src="https://t1.daumcdn.net/tistory_admin/frontend/tiara/v1.0.7/index-legacy.js" nomodule="true" defer="true"></script>
+
+                </body>
+
+</html>

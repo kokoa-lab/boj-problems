@@ -1,0 +1,36 @@
+---
+title: Balanced Cow Subsets
+special_judge: false
+time_limit: 1 초
+memory_limit: 128 MB
+submissions: 411
+accepted: 95
+solved_users: 71
+acceptance_rate: 21.846%
+collected_at: 2026-04-17T11:18:13.766386+00:00
+---
+
+## 문제
+
+Farmer John's owns N cows (2 <= N <= 20), where cow i produces M(i) units of milk each day (1 <= M(i) <= 100,000,000). FJ wants to streamline the process of milking his cows every day, so he installs a brand new milking machine in his barn. Unfortunately, the machine turns out to be far too sensitive: it only works properly if the cows on the left side of the barn have the exact same total milk output as the cows on the right side of the barn!
+
+Let us call a subset of cows "balanced" if it can be partitioned into two groups having equal milk output. Since only a balanced subset of cows can make the milking machine work, FJ wonders how many subsets of his N cows are balanced. Please help him compute this quantity.
+
+## 입력
+
+* Line 1: The integer N.
+* Lines 2..1+N: Line i+1 contains M(i).
+
+## 출력
+
+* Line 1: The number of balanced subsets of cows.
+
+## 힌트
+
+#### Input Details
+
+There are 4 cows, with milk outputs 1, 2, 3, and 4.
+
+#### Output Details
+
+There are three balanced subsets: the subset {1,2,3}, which can be partitioned into {1,2} and {3}, the subset {1,3,4}, which can be partitioned into {1,3} and {4}, and the subset {1,2,3,4} which can be partitioned into {1,4} and {2,3}.

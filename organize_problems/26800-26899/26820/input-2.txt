@@ -1,0 +1,8 @@
+4 6
+7 3 1 2
+najtaniej 1 2 0
+najtaniej 2 3 0
+najtaniej 3 4 0
+najszybciej 1 2 0
+najszybciej 2 3 0
+najszybciej 3 4 0

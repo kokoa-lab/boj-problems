@@ -1,5 +1,0 @@
-4 3
-CDB
-DAC
-BAD
-ABC

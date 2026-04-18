@@ -1,0 +1,5 @@
+query(0, 0) returns 0
+query(1, 1) returns 0
+the lines are(
+/* a = */ {1},
+/* b = */ {0})

@@ -1,0 +1,18 @@
+2
+8 3
+news
+perusal
+symbolic
+newspaper
+salon
+longstreet
+cartoon
+streetcar
+news cartoon 3 8
+news cartoon 3 4
+news cartoon 1 4
+2 2
+link
+blink
+blink link 3 10
+link blink 2 100

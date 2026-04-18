@@ -1,0 +1,36 @@
+---
+title: Getting in Shape
+special_judge: false
+time_limit: 1 초
+memory_limit: 1024 MB
+submissions: 81
+accepted: 9
+solved_users: 9
+acceptance_rate: 17.647%
+collected_at: 2026-04-17T16:47:27.645509+00:00
+---
+
+## 문제
+
+Juan decided to start working out and is willing to prepare a workout session.
+
+He knows that some days he might not want to do all exercises from his workout session. He decided on some rules to avoid skipping the whole session and not exercising at all, while still allowing him to optionally skip some exercises.
+
+The rules are:
+
+* There will be only two types of exercises: A and B.
+* After finishing an exercise of type B he moves to the next exercise, if there is one. Otherwise, the workout session ends.
+* After finishing an exercise of type A there are two possibilities: he can move to the next exercise, or he can skip the next exercise and move to the one after that.
+* The last exercise in a workout session must always be of type B.
+
+Therefore, there might be different ways in which the workout session can be completed. For example, if the types of exercises in a workout session are `BAAB`, there are 3 ways in which the session can be completed: by doing all exercises, by skipping the 3rd one or by skipping the last one.
+
+Juan wants to prepare his workout session in such a way that there are exactly N different ways in which the workout session can be completed. Can you help him?
+
+## 입력
+
+One positive integer N (2 ≤ N ≤ 1015), representing the number of ways in which the workout session can be completed.
+
+## 출력
+
+Output a line containing a string, formed only with characters ‘`A`’ and ‘`B`’, representing the types of the exercises in the workout session. If there are multiple valid answers, output the lexicographically smallest answer. If there is no valid workout sessions, output a line containing the string “IMPOSSIBLE” (without quotes).

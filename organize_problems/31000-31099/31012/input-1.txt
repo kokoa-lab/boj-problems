@@ -1,0 +1,39 @@
+2
+3
+2
+Dio Brando, Jonathan Joestar,
+The stone mask caused Dio to turn into a vampire. Jonathan became a ripple warrior
+and destroyed stone mask. Dio was then put into a stone casket, sealed away for 150 
+Dio Brando,
+My father Darius abused me and my mother for years, so I poisoned him and 
+killed him. I used the stone mask to transcend humanity and become a vampire.|
+Antonio Zeppeli,
+I became a vampire hunter because a vampire killed my fellow shipmen. Death 
+to the vampire that killed my family.|
+4
+3
+Isaac Traxler,
+The world of Cyberpunk is a good illustration of where America's youth is headed for.
+constant information bombardment.  Each youth has at least a smart phone and a constant
+need to check for texts, missed calls, Twitter, etc.   This need leads to texting when
+Ken Don,
+The first line of output should start with the word "Case" followed by the number 
+representing which collection you are working on.  The next F lines are the words 
+using that word, and at the end of the author list a closing square bracket (']'). 
+Each line above is printed in order of the frequency of the words from the most 
+frequent word first down to the least frequent of the F words requested.  In the 
+example below 'F' is 2 so you will have two lines in the first collection.  If there 
+is words with the same frequency you will print them in alphabetic order.
+Isaac Traxler, Kathy Traxler,
+There is only one dumb question.  This is the question that you don't ask.  You want 
+to, you are pretty sure that the answer is important but you just can't ask.  
+Whether you are a student, and employee or an employer if you don't ask that question 
+you will never know the answer and the answer can change how your whole world is 
+shaped.  This answer could connect you and change the way the person you are talking 
+to views their world.  So ask the question!
+Isaac Traxler, Ken Don,
+Programming Contest is an excellent way to learn the skills required for the "real 
+world" of programmers, team leads, architects and plain old problem solvers.  
+Programming contest is on place where you actually have to work on a team.  One 
+computer, 8 problems, three contestants and you have a scheduling nightmare, a time 
+time management skill and many others.

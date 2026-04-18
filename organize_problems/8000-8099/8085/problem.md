@@ -1,0 +1,34 @@
+---
+title: Jumps
+special_judge: false
+time_limit: 1 초
+memory_limit: 128 MB
+submissions: 18
+accepted: 11
+solved_users: 10
+acceptance_rate: 62.500%
+collected_at: 2026-04-17T11:55:51.846018+00:00
+---
+
+## 문제
+
+“Jumps” is a board game played on an infinite tape of squares. The board has neither left nor right limit. On the squares there is finitely many pieces (more than one piece on a square is allowed). We assume that the most left, non-empty square is numbered 0. Squares on the right are denoted by consecutive natural numbers 1, 2, 3, ..., squares on the left — by negative numbers: -1, -2, -3, .... The configuration of pieces on the board can be described in the following way: for every square occupied by at least one piece we give the number of the square and the number of pieces standing on this square.
+
+There are two kinds of moves that can change the configuration: jump right and jump left. Jump right consists of removing two pieces from the board: one from a square p and the other from the square p+1, and placing one piece on the square p+2. Jump left consists of removing a piece from a square p+2 and placing two pieces on the board: one on the square p+1 and the other on the square p.
+
+We say that a configuration is final if each pair of neighbouring squares contains at most one piece. For every configuration there is exactly one final configuration that can be reached after finite number of moves (jumps).
+
+Write a program that:
+
+* reads a description of an initial configuration from the standard input,
+* finds the final configuration that can be reached from the given initial configuration and writes the result to the standard output.
+
+## 입력
+
+In the first line of the standard input there is one positive integer n, 1 ≤ n ≤ 10,000, which equals the number of non-empty squares of the given initial configuration.
+
+In each of the following n lines there is a description of one non-empty square of the initial configuration. Such a description consists of two integers. First is the number of the square, second — the number of pieces standing on this square. The descriptions are given in increasing order with respect to numbers of squares. The biggest number of a square is not greater than 10,000 and the number of pieces on a single square is not greater than 108.
+
+## 출력
+
+In the first line of the standard output there should be written the final configuration that can be reached from the given initial configuration. More precisely the line should contain the numbers of non-empty squares (in increasing order) of the final configuration. The numbers should be separated by single spaces.

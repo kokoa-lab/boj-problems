@@ -1,0 +1,6 @@
+Kaks matkajat väljusid ühel ja samal ajal asulatest A ja B teineteisele vastu ning kohtusid #a=3 tunni pärast. Asulast A väljunud matkaja käis igas tunnis #b=4 km, asulast B väljunud matkaja #c=5 km. Kui suur oli asulatevaheline kaugus?
+4
+D=a*b
+E=a*c
+F=b+c
+S=E+D 

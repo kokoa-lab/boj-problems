@@ -1,0 +1,12 @@
+3
+Auburn Wetumpka 0 60 45
+Wetumpka Montgomery 15 30 60
+Montgomery Auburn 0 120 80
+6
+ACity BCity 60 120 200
+ACity CCity 120 240 75
+BCity ACity 0 180 240
+BCity CCity 15 240 180
+CCity ACity 30 90 60
+CCity BCity 120 360 180
+0

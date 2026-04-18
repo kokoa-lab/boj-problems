@@ -1,0 +1,3 @@
+Scenario 1 top cocktails:
+1 White_Russian 2 12340
+2 Pina_Collada 2 15790

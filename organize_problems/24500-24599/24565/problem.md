@@ -1,0 +1,34 @@
+---
+title: Stable Table
+special_judge: false
+time_limit: 1 초 (추가 시간 없음)
+memory_limit: 1024 MB
+submissions: 54
+accepted: 14
+solved_users: 14
+acceptance_rate: 35.000%
+collected_at: 2026-04-17T17:11:11.960457+00:00
+---
+
+## 문제
+
+Avant-garde carpenter Mort S. Tenon specializes in assembling furniture out of odd-shaped pieces of wood. Using strong glue and cleverly-hidden weights and floor anchors, Tenon can make tables that appear to defy gravity, as shown in Figure 1(b). He begins by creating a rectangular block composed of pieces of wood whose vertical cross-sections are rectilinear polygons, that is, polygons whose sides are either horizontal or vertical. Some of these pieces may have holes containing other pieces. Then he removes as many pieces as possible, leaving a structure consisting of the smallest possible number of stable pieces that include the entire top surface of the rectangular block. For aesthetic reasons (something having to do with patterns of wood grain), Mort never has more than two pieces forming the table's top surface.
+
+Figure 1(a) shows an initial rectangular block with cuts. By removing the pieces numbered $1$ and $2$, $4$ through $7$, and $11$ and $12$, he produces the stable table shown in Figure 1(b). A piece is considered stable if either it is directly in contact with the floor or at least one of its horizontal edges lies above and is in contact with a horizontal edge of a stable piece. The region of contact between two adjacent pieces must have positive area in order for the contact to be stable; contact only along a corner is not sufficient.
+
+|  |  |
+| --- | --- |
+|  |  |
+| (a) Original rectangular block | (b) A five-piece stable table |
+
+Figure K.1: Illustration of Sample Input 1
+
+Given a description of the initial rectangular block of pieces, help Mort determine a stable table with the minimum number of pieces.
+
+## 입력
+
+The first line of input contains two positive integers $h$ and $w$ ($1 \le h,w \le 100$), the height and width of the initial block of pieces. Each of the remaining $h$ lines contains $w$ positive integers describing which piece is associated with each $1\times 1$ unit of the block. Pieces all have distinct numbers from $1$ up through the number of pieces in the block. There can be at most $9\,902$ pieces since the first row of input can have at most two piece numbers. Pieces may have holes containing other pieces; each piece is connected using shared edges among the $1\times 1$ units comprising the piece.
+
+## 출력
+
+Output a single integer equal to the minimum number of pieces in a stable table.

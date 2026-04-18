@@ -1,0 +1,21 @@
+3
+3 5
+abbba
+bccab
+cabcc
+2
+0 1
+1 0
+3 4
+aaba
+bbaa
+abab
+1
+1 1
+4 4
+abca
+cxxb
+bxxc
+acba
+1
+0 1

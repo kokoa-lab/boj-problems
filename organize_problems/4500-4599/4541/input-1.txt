@@ -1,0 +1,29 @@
+2
+9 7
+..#......
+#.#......
+#########
+#.#.#...#
+#.#.....#
+######..#
+#.#......
+6
+COMPUTE
+LAMPSHADE
+EDIT
+SO
+PLAYER
+ESTEEM
+5 5
+#####
+#.#.#
+#####
+#.#.#
+#####
+6
+ADAGE
+ANGRY
+YEARN
+NEEDS
+FLUTE
+XYZZY

@@ -1,0 +1,17 @@
+vehicle: "1000105", day: 2, offence: "Outlawed entrance to CTRZ", penalty: 30000
+photo: 1004, time: "13:18:43", road: "Enghelab"
+vehicle: "1000105", day: 3, offence: "Outlawed entrance to CTRZ", penalty: 30000
+photo: 1003, time: "11:55:12", road: "Behesht"
+vehicle: "1000120", day: 2, offence: "Outlawed entrance to EORZ", penalty: 25000
+photo: 1002, time: "06:30:00", road: "Resalat"
+vehicle: "1000400", day: 2, offence: "Outlawed entrance to CTRZ & EORZ", penalty: 30000
+photo: 1002, time: "06:30:00", road: "Resalat"
+photo: 1004, time: "13:18:43", road: "Enghelab"
+vehicle: "1000400", day: 3, offence: "Outlawed entrance to CTRZ", penalty: 30000
+photo: 1003, time: "11:55:12", road: "Behesht"
+###
+###
+vehicle: "1000001", day: 14, offence: "Outlawed entrance to CTRZ", penalty: 1000
+photo: 102, time: "10:00:00", road: "Azadi"
+vehicle: "1000001", day: 15, offence: "Outlawed entrance to CTRZ", penalty: 1000
+photo: 103, time: "10:00:00", road: "Azadi"

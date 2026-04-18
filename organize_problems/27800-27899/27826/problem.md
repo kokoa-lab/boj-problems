@@ -1,0 +1,54 @@
+---
+title: Slide Parade
+special_judge: true
+time_limit: 서브태스크 참고 (추가 시간 없음)
+memory_limit: 1024 MB
+submissions: 0
+accepted: 0
+solved_users: 0
+acceptance_rate: 0.000%
+collected_at: 2026-04-17T18:12:07.094950+00:00
+---
+
+## 문제
+
+Gooli is a huge company that owns $\mathbf{B}$ buildings in a hilly area, numbered $1$ through $\mathbf{B}$. Six years ago, Gooli [built slides](./001_14366) that allowed employees to go from one building to another. Each slide allows anyone to go from the slide's origin building to the slide's destination building, but not the other way around. Gooli's CEO is very proud of their slides and wants to organize a parade through the slides. She has tasked Melek, Gooli's Head of Transportation and a problem-solving enthusiast, with designing the parade's route.
+
+![](./002_preview)
+
+She has some requirements for the parade route in mind:
+
+* It must start and end at building $1$, where her office is located.
+* It must visit each building the same number of times. Being in building $1$ at the start of the route does not count as a visit.
+* It must use each slide at least once.
+* It must have at most $10^6$ steps.
+
+Given the layout of buildings and slides, help Melek find a route that satisfies all of the CEO's requirements, if one exists.
+
+## 입력
+
+The first line of the input gives the number of test cases, $\mathbf{T}$. $\mathbf{T}$ test cases follow. Each test case starts with a line containing two integers $\mathbf{B}$ and $\mathbf{S}$: the number of buildings and slides, respectively. Then, $\mathbf{S}$ lines follow. The $i$⁠-⁠th of these lines contains two integers $\mathbf{U\_i}$ and $\mathbf{V\_i}$, indicating that the $i$⁠-⁠th slide goes from building $\mathbf{U\_i}$ to building $\mathbf{V\_i}$.
+
+## 출력
+
+For each test case, output one line containing `Case #x: y`, where $x$ is the test case number (starting from 1). If there is no route that fulfills all the requirements, $y$ must be `IMPOSSIBLE`. If there is, $y$ must be an integer between $\mathbf{S}+1$ and $10^6+1$, inclusive, representing the length of one such route you want to exhibit. In that case, output another line containing $y$ integers $z\_1\ z\_2\ \dots\ z\_y$, where $z\_j$ is the $j$⁠-⁠th building in your proposed route. Notice that $z\_1 = z\_y = 1$ and that each building must appear the same number of times among the $z\_j$, except for building $1$, which appears exactly one extra time.
+
+## 힌트
+
+In Sample Case #1, another acceptable parade route is one that goes from building $1$ to building $2$ and then back for a total of $2$ steps.
+
+![](./001_preview)
+
+In Sample Case #2, there are no slides leading to building $1$, so no valid parade can exist.
+
+![](./002_preview)
+
+In Sample Case #3, the parade route the sample output exhibits goes through each building twice.
+
+![](./003_preview)
+
+Sample Case #4 is pictured below.
+
+![](./004_preview)
+
+Sample Case #5 is the one illustrated in the problem statement. In the parade route in the sample output, the slides from $2$ to $3$ and from $4$ to $1$ are used twice, but the rest of the slides are used only once each.

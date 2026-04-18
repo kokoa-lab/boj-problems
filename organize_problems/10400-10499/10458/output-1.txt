@@ -1,0 +1,8 @@
+Data Set 1:
+0.00
+
+Data Set 2:
+0.04
+
+Data Set 3:
+2.30

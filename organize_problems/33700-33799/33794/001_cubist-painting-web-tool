@@ -1,0 +1,243 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel='stylesheet' href='style.css'>
+        <title>
+            Cubist Painting
+        </title>
+    </head>
+    <body>
+        <h1>Cubist Painting Interactive Tool</h1>
+        <h2>Move: WASD</h2>
+        <h2>Reset: R</h2>
+        <h3>Number of columns:
+            <select id='nselector' onchange='setN()'>
+                <option value='1'>1</option>
+                <option value='2'>2</option>
+                <option value='3'>3</option>
+                <option value='4'>4</option>
+                <option value='5'>5</option>
+                <option value='6'>6</option>
+                <option value='7'>7</option>
+                <option value='8'>8</option>
+                <option value='9'>9</option>
+                <option value='10' selected='selected'>10</option>
+                <option value='11'>11</option>
+                <option value='12'>12</option>
+                <option value='13'>13</option>
+                <option value='14'>14</option>
+                <option value='15'>15</option>
+                <option value='16'>16</option>
+            </select>
+        </h3>
+        <h3>Starting row:
+            <select id='srowselector' onchange='setSRow()'>
+                <option value='1' selected='selected'>1</option>
+                <option value='2'>2</option>
+            </select>
+            Starting column:
+            <select id='scolselector' onchange='setSCol()'>
+            </select>
+        </h3>
+        <h3>Bottom color:
+            <select id='bottomselector' onchange='setBottomColor()'>
+                <option value='red' selected='selected'>Red</option>
+                <option value='blue'>Blue</option>
+                <option value='yellow'>Yellow</option>
+                <option value='green'>Green</option>
+                <option value='purple'>Purple</option>
+                <option value='pink'>Pink</option>
+            </select>
+            Front color:
+            <select id='frontselector' onchange='setFrontColor()'>
+            </select>
+        </h3>
+        <div id='board'></div>
+        <script>
+            const BOTTOM = 0;
+            const TOP = 1;
+            const FRONT = 2;
+            const BACK = 3;
+            const RIGHT = 4;
+            const LEFT = 5;
+            const colorMap = {
+                'red': '#d70000',
+                'blue': '#6587e7',
+                'green': '#81a853',
+                'yellow': '#f3d868',
+                'purple': '#830bfd',
+                'pink': '#d800fc',
+                'white': '#ffffff'
+            };
+            const orientations = [
+                ['red', 'blue', 'yellow', 'green', 'purple', 'pink'],
+                ['red', 'blue', 'green', 'yellow', 'pink', 'purple'],
+                ['blue', 'red', 'yellow', 'green', 'pink', 'purple'],
+                ['blue', 'red', 'green', 'yellow', 'purple', 'pink'],
+                ['yellow', 'green', 'red', 'blue', 'pink', 'purple'],
+                ['yellow', 'green', 'blue', 'red', 'purple', 'pink'],
+                ['green', 'yellow', 'red', 'blue', 'purple', 'pink'],
+                ['green', 'yellow', 'blue', 'red', 'pink', 'purple'],
+                ['red', 'blue', 'purple', 'pink', 'green', 'yellow'],
+                ['red', 'blue', 'pink', 'purple', 'yellow', 'green'],
+                ['blue', 'red', 'purple', 'pink', 'yellow', 'green'],
+                ['blue', 'red', 'pink', 'purple', 'green', 'yellow'],
+                ['purple', 'pink', 'red', 'blue', 'yellow', 'green'],
+                ['purple', 'pink', 'blue', 'red', 'green', 'yellow'],
+                ['pink', 'purple', 'red', 'blue', 'green', 'yellow'],
+                ['pink', 'purple', 'blue', 'red', 'yellow', 'green'],
+                ['purple', 'pink', 'yellow', 'green', 'blue', 'red'],
+                ['purple', 'pink', 'green', 'yellow', 'red', 'blue'],
+                ['pink', 'purple', 'yellow', 'green', 'red', 'blue'],
+                ['pink', 'purple', 'green', 'yellow', 'blue', 'red'],
+                ['yellow', 'green', 'purple', 'pink', 'red', 'blue'],
+                ['yellow', 'green', 'pink', 'purple', 'blue', 'red'],
+                ['green', 'yellow', 'purple', 'pink', 'blue', 'red'],
+                ['green', 'yellow', 'pink', 'purple', 'red', 'blue']
+            ];
+            const nSelector = document.getElementById('nselector');
+            const sRowSelector = document.getElementById('srowselector');
+            const sColSelector = document.getElementById('scolselector');
+            const bottomSelector = document.getElementById('bottomselector');
+            const frontSelector = document.getElementById('frontselector');
+            const boardDiv = document.getElementById('board');
+
+            let n = 0;
+            let sRow = 0, sCol = 0;
+            let cRow = 0, cCol = 0;
+            let bottomColor = '';
+            let frontColor = '';
+            let faces = [];
+            let board = [];
+
+            function setN() {
+                n = Number(nSelector.value);
+                while(sColSelector.firstChild)
+                    sColSelector.removeChild(sColSelector.firstChild);
+                for(let i = 1; i <= n; ++i) {
+                    const option = document.createElement('option');
+                    option.value = option.textContent = i.toString();
+                    sColSelector.appendChild(option);
+                }
+                sCol = Math.min(sCol, n - 1);
+                sColSelector.children[sCol].selected = 'selected';
+                createBoard();
+            }
+
+            function setSRow() {
+                sRow = Number(sRowSelector.value - 1);
+                createBoard();
+            }
+
+            function setSCol() {
+                sCol = Number(sColSelector.value - 1);
+                createBoard();
+            }
+
+            function setBottomColor() {
+                bottomColor = bottomSelector.value;
+                while(frontSelector.firstChild)
+                    frontSelector.removeChild(frontSelector.firstChild);
+                for(let i = 0; i < 6; ++i)
+                    if(orientations[0][i] !== bottomColor && orientations[0][1 ^ i] !== bottomColor) {
+                        const option = document.createElement('option');
+                        option.value = orientations[0][i];
+                        option.textContent = orientations[0][i];
+                        option.textContent = option.textContent.substring(0, 1).toUpperCase() + option.textContent.substring(1);
+                        frontSelector.appendChild(option);
+                    }
+                frontSelector.firstChild.selected = 'selected';
+                setFrontColor();
+            }
+
+            function setFrontColor() {
+                frontColor = frontSelector.value;
+                createBoard();
+            }
+
+            document.addEventListener('keydown', (event) => {
+                switch (event.key) {
+                    case 'a':
+                        tryrotate(cRow, cCol - 1, BOTTOM, RIGHT, TOP, LEFT);
+                        break;
+                    case 'd':
+                        tryrotate(cRow, cCol + 1, BOTTOM, LEFT, TOP, RIGHT);
+                        break;
+                    case 'w':
+                        tryrotate(cRow - 1, cCol, BOTTOM, FRONT, TOP, BACK);
+                        break;
+                    case 's':
+                        tryrotate(cRow + 1, cCol, BOTTOM, BACK, TOP, FRONT);
+                        break;
+                    case 'r':
+                        createBoard();
+                        break;
+                }
+            });
+
+            function tryrotate(i, j, a, b, c, d) {
+                if(i < 0 || i > 1 || j < 0 || j >= n)
+                    return;
+                if(board[i][j] !== 'white' && board[i][j] !== faces[d])
+                    return;
+                const temp = faces[d];
+                faces[d] = faces[c];
+                faces[c] = faces[b];
+                faces[b] = faces[a];
+                faces[a] = temp;
+                const squareDiv = boardDiv.children[cRow].children[cCol];
+                squareDiv.removeChild(squareDiv.firstChild);
+                cRow = i;
+                cCol = j;
+                makeCube();
+            }
+
+            function createBoard() {
+                while(boardDiv.firstChild)
+                    boardDiv.removeChild(boardDiv.firstChild);
+
+                board = [[], []];
+                for (let i = 0; i < n; i++) {
+                    board[0].push('white');
+                    board[1].push('white');
+                }
+
+                for(let i = 0; i < orientations.length; ++i)
+                    if(orientations[i][BOTTOM] === bottomColor && orientations[i][FRONT] === frontColor)
+                        faces = orientations[i].slice();
+                cRow = sRow;
+                cCol = sCol;
+
+                board.forEach((row) => {
+                    const rowDiv = document.createElement('div');
+                    rowDiv.className = 'row';
+                    row.forEach((cell) => {
+                        const cellDiv = document.createElement('div');
+                        cellDiv.className = 'cell';
+                        cellDiv.style.backgroundColor = colorMap[cell];
+                        rowDiv.appendChild(cellDiv);
+                    });
+                    boardDiv.appendChild(rowDiv);
+                });
+                makeCube();
+            }
+
+            function makeCube() {
+                const cubeDiv = document.createElement('div');
+                cubeDiv.className = 'cube';
+                cubeDiv.style.backgroundColor = colorMap[faces[TOP]];
+                cubeDiv.style.borderLeftColor = colorMap[faces[LEFT]];
+                cubeDiv.style.borderRightColor = colorMap[faces[RIGHT]];
+                cubeDiv.style.borderTopColor = colorMap[faces[BACK]];
+                cubeDiv.style.borderBottomColor = colorMap[faces[FRONT]];
+                boardDiv.children[cRow].children[cCol].appendChild(cubeDiv);
+                board[cRow][cCol] = faces[BOTTOM];
+                boardDiv.children[cRow].children[cCol].style.backgroundColor = colorMap[faces[BOTTOM]];
+            }
+
+            setN();
+            setBottomColor();
+            createBoard();
+        </script>
+    </body>
+</html>

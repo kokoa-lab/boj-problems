@@ -1,0 +1,8 @@
+                          Originality  Clarity  Mathematics  Engagement  Effort
+Surrounding Chess Pieces   1               5      1              2          3
+The Great Lever Challenge    4           2                1        4        5
+Interactive Problems           2             1     1            1          4
+Coin Game                    3              2       1               3      2
+Dice Encryption Algorithm  4             3      1            3               3
+Rock, Paper, Scissors      4               4    1                   4       2
+We Were Here to Code      5               2               1          5   5

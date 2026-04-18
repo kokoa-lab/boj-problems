@@ -1,0 +1,14 @@
+Leftover Pizza Stacking Order for Semester 1:
+veggie
+sausagemushroom
+pepperoni
+
+Leftover Pizza Stacking Order for Semester 2:
+anchovy
+buffalochicken
+chorizo
+
+Leftover Pizza Stacking Order for Semester 3:
+hawaiian
+spinnocoli
+feta

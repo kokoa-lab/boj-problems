@@ -1,0 +1,43 @@
+---
+title: Where Ya Gonna Call?
+special_judge: true
+time_limit: 100 초 (추가 시간 없음)
+memory_limit: 1024 MB
+submissions: 0
+accepted: 0
+solved_users: 0
+acceptance_rate: 0.000%
+collected_at: 2026-04-17T17:01:12.040910+00:00
+---
+
+## 문제
+
+Gooli is a huge company that owns **B** buildings in a hilly area. The buildings are numbered from 1 to **B**.
+
+Last year, they built a set of slides between buildings that are now the favorite form of transportation between buildings. Slides have been upgraded with suction technology to make them two-way, so a slide between two buildings can be used to travel between those buildings in either direction. Some slides were built with turns, so their lengths do not necessarily follow common sense; for instance, they do not necessarily comply with the triangle inequality. Also, there is at most one slide between any pair of buildings.
+
+Gooli is going to choose a location to install a special super secure phone for the CEO to talk to other important people. They want to minimize the distance by slide from any building to the meeting location, so as to minimize the time that it would take the CEO to reach it from any building. Gooli does not have any more carbon kilotubes to build more slides, and the CEO refuses any other type of transportation, so Gooli's communication security team needs to find the best location that is reachable using only already existing slides. The location could be in a building or a point somewhere within a slide.
+
+When traveling using the slides, the CEO may use a slide, arrive at a building, then use a slide that starts there, arrive at another building, and so on, until she arrives at the desired location. Slides used from end to end contribute their full length to the total distance. If the CEO enters a slide and stops inside it because she found the phone, on the other hand, only the used part of the slide contributes to the total distance. When measuring distance, only the slide distance is important. Distance traveled within buildings to connect to a new slide or reach the phone is considered to be zero.
+
+Given the buildings and slides in existence, can you find any optimal location for the super secure phone and return the distance from a farthest building to it? Note that the distance is the same for any optimal location.
+
+## 입력
+
+The first line of the input gives the number of test cases, **T**. **T** lines follow. Each test case starts with one line with a single integer **B**, the number of buildings on Gooli's campus. Then, **B** - 1 lines follow. For i = 2, 3, ..., **B**, the (i-1)-th of these lines contains (i-1) integers **D**i1, **D**i2, ..., **D**i(i-1). **D**ij is -1 if there is no slide between the i-th building and the j-th building, or the length of that slide otherwise. All buildings are reachable from any other building using only slides, possibly passing through intermediate buildings.
+
+## 출력
+
+For each test case, output one line containing `Case #x: y`, where `x` is the test case number (starting from 1) and `y` is the distance from an optimal location for the phone to a building farthest from it. `y` will be considered correct if it is within an absolute or relative error of 10-6 of the correct answer.
+
+## 힌트
+
+Note that the last two cases would not appear in the Small dataset.
+
+In Case #1, all buildings are in a line. The only optimal location is of course the middle point of the line, as any other location would make one of the buildings at the end of the line be farther away.
+
+Case #2 depicts an equilateral triangle. Any of the three buildings would be an optimal location for the phone.
+
+Case #3 is also a triangle, but with sides of different lengths. If we pick any building, the farthest building would be at distance at least 3 from it. On the other hand, if we choose a location inside the slide of size 3, at distance 0.5 from building 3, the distance to a farthest building is improved to 2.5.
+
+In Case #4, the optimal location is inside the slide of length 10 between buildings 1 and 3, at distance 1.5 from building 3 and distance 8.5 from building 1.

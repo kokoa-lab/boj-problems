@@ -1,0 +1,31 @@
+---
+title: To Play or not to Play
+special_judge: false
+time_limit: 4 초
+memory_limit: 512 MB
+submissions: 1
+accepted: 0
+solved_users: 0
+acceptance_rate: 0.000%
+collected_at: 2026-04-17T14:14:55.602310+00:00
+---
+
+## 문제
+
+Vasya and Petya are playing an online game. As most online games, it has hero progress system that allows players to gain experience that make their heroes stronger. Of course, Vasya would like to get as many experience points as possible. After careful study of experience points allocation, he found out that if he plays the game alone, he gets one experience point each second. However, if two players are playing together, and their current experience values differ by at most C points, they can boost their progress, and each of them gets 2 experience points each second.
+
+Since Vasya and Petya are middle school students, their parents don't allow them to play all the day around. Each of the friends has his own schedule: Vasya can only play during intervals [a1;b1], [a2;bœ], ..., [an;bn], and Petya can only play during intervals [c1;d1], [c2;d2], ..., [cm;dm]. All time periods are given in seconds from the current moment. Vasya is good in math, so he has noticed that sometimes it can be profitable not to play alone, because experience difference could become too big, and progress would not be boosted even when played together.
+
+Now they would like to create such schedule of playing that Vasya's final experience was greatest possible. The current players experience is the same. Petya is not so concerned about his experience, so he is ready to cooperate and play when needed to maximize Vasya's experience.
+
+## 입력
+
+The first line of input data contains integers n, m and C — the number of intervals when Vasya can play, the number of intervals when Petya can play, and the maximal difference in experience level when playing together still gives a progress boost (1 ≤ n, m ≤ 2·105, 0 ≤ C ≤ 1018).
+
+The following n lines contain two integers each: ai, bi — intervals when Vasya can play (0 ≤ ai < bi ≤ 1018, bi < ai + 1).
+
+The following m lines contain two integers each: ci, di — intervals when Petya can play (0 ≤ ci < di ≤ 1018, di < ci + 1).
+
+## 출력
+
+Output one integer — the maximal experience that Vasya can have in the end, if both players try to maximize this value.

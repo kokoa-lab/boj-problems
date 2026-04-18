@@ -1,4 +1,0 @@
-Case #1: first
-Case #2: second
-Case #3: first
-Case #4: first

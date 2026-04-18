@@ -1,0 +1,3 @@
+GameFan
+Max happiness:231
+Cost:55

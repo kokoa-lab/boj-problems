@@ -1,0 +1,1466 @@
+<!DOCTYPE html>
+<html class="client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-sticky-header-enabled vector-toc-available skin-theme-clientpref-thumb-standard" lang="ko" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<title>배타적 논리합 - 위키백과, 우리 모두의 백과사전</title>
+<script>(function(){var className="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-sticky-header-enabled vector-toc-available skin-theme-clientpref-thumb-standard";var cookie=document.cookie.match(/(?:^|; )kowikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"ko","wgMonthNames":["","1월","2월","3월","4월","5월","6월","7월","8월","9월","10월","11월","12월"],"wgRequestId":"f4ab45e3-cec0-4232-bef7-fa6ca12c644b","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"배타적_논리합","wgTitle":"배타적 논리합","wgCurRevisionId":39044482,"wgRevisionId":39044482,"wgArticleId":95469,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["영어 표기를 포함한 문서","위키데이터 속성 P18을 사용하는 문서","위키데이터 속성 P373을 사용하는 문서","이분법"],"wgPageViewLanguage":"ko","wgPageContentLanguage":"ko","wgPageContentModel":"wikitext","wgRelevantPageName":"배타적_논리합","wgRelevantArticleId":95469,"wgTempUserName":null,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgNoticeProject":"wikipedia","wgCiteReferencePreviewsActive":true,"wgConfirmEditCaptchaNeededForGenericEdit":false,"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":0,"wgVisualEditor":{"pageLanguageCode":"ko","pageLanguageDir":"ltr","pageVariantFallbacks":"ko"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":true,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":6000,"wgParsoidHtmlVersion":"2.8.0","parsermigration-parsoid":true,"wgEditSubmitButtonLabelPublish":true,"wgVisualEditorPageIsDisambiguation":false,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":false,"wgVector2022LanguageInHeader":true,"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q498186","wgCheckUserClientHintsHeadersJsApi":["brands","architecture","bitness","fullVersionList","mobile","model","platform","platformVersion"],"GEHomepageSuggestedEditsEnableTopics":true,"wgGESuggestedEditsTaskTypes":{"taskTypes":["copyedit","link-recommendation"],"unavailableTaskTypes":[]},"wgGETopicsMatchModeEnabled":false,"wgGELevelingUpEnabledForUser":false,"wgTestKitchenUserExperiments":{"overrides":[],"enrolled":[],"assigned":[],"subject_ids":[]}};
+RLSTATE={"ext.gadget.SectionFont":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.math.styles":"ready","mediawiki.skinning.content.parsoid":"ready","ext.wikimediamessages.styles":"ready","skins.vector.search.codex.styles":"ready","skins.vector.styles":"ready","skins.vector.icons":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.math.polyfills","site","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","skins.vector.js","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.gadget.directcommons","ext.gadget.edittools","ext.gadget.refToolbar","ext.gadget.siteNotice","ext.gadget.scrollUpButton","ext.gadget.strikethroughTOC","ext.gadget.switcher","ext.gadget.WikiMiniAtlas","ext.gadget.Calculator","ext.gadget.protectionIndicator","ext.gadget.owidslider","ext.urlShortener.toolbar","ext.centralauth.centralautologin","mmv.bootstrap","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.echo.centralauth","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.cx.uls.quick.actions","wikibase.client.vector-2022","wikibase.databox.fromWikidata","ext.checkUser.clientHints","ext.quicksurveys.init","ext.growthExperiments.SuggestedEditSession","ext.testKitchen"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+}];});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=ko&amp;modules=ext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediamessages.styles%7Cjquery.makeCollapsible.styles%7Cmediawiki.skinning.content.parsoid%7Cskins.vector.icons%2Cstyles%7Cskins.vector.search.codex.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector-2022">
+<script async="" src="/w/load.php?lang=ko&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector-2022"></script>
+<meta name="ResourceLoaderDynamicStyles" content="">
+<link rel="stylesheet" href="/w/load.php?lang=ko&amp;modules=ext.gadget.SectionFont&amp;only=styles&amp;skin=vector-2022">
+<link rel="stylesheet" href="/w/load.php?lang=ko&amp;modules=site.styles&amp;only=styles&amp;skin=vector-2022">
+<meta name="generator" content="MediaWiki 1.46.0-wmf.23">
+<meta name="referrer" content="origin">
+<meta name="referrer" content="origin-when-cross-origin">
+<meta name="robots" content="max-image-preview:standard">
+<meta name="format-detection" content="telephone=no">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Venn0110.svg/1280px-Venn0110.svg.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="875">
+<meta name="viewport" content="width=1120">
+<meta property="og:title" content="배타적 논리합 - 위키백과, 우리 모두의 백과사전">
+<meta property="og:type" content="website">
+<link rel="preconnect" href="//upload.wikimedia.org">
+<link rel="alternate" type="application/x-wiki" title="편집" href="/w/index.php?title=%EB%B0%B0%ED%83%80%EC%A0%81_%EB%85%BC%EB%A6%AC%ED%95%A9&amp;action=edit">
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png">
+<link rel="icon" href="/static/favicon/wikipedia.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="/w/rest.php/v1/search" title="위키백과 (ko)">
+<link rel="EditURI" type="application/rsd+xml" href="//ko.wikipedia.org/w/api.php?action=rsd">
+<link rel="canonical" href="https://ko.wikipedia.org/wiki/%EB%B0%B0%ED%83%80%EC%A0%81_%EB%85%BC%EB%A6%AC%ED%95%A9">
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.ko">
+<link rel="alternate" type="application/atom+xml" title="위키백과 아톰 피드" href="/w/index.php?title=%ED%8A%B9%EC%88%98:%EC%B5%9C%EA%B7%BC%EB%B0%94%EB%80%9C&amp;feed=atom">
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="auth.wikimedia.org">
+</head>
+<body class="skin--responsive skin-vector skin-vector-search-vue mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-배타적_논리합 rootpage-배타적_논리합 skin-vector-2022 action-view">
+<div id="mw-aria-live-region" class="mw-aria-live-region" aria-live="polite"></div><a class="mw-jump-link" href="#bodyContent">본문으로 이동</a>
+<div class="vector-header-container">
+	<header class="vector-header mw-header no-font-mode-scale">
+		<div class="vector-header-start">
+			<nav class="vector-main-menu-landmark" aria-label="사이트">
+				
+<div id="vector-main-menu-dropdown" class="vector-dropdown vector-main-menu-dropdown vector-button-flush-left vector-button-flush-right"  title="주 메뉴" >
+	<input type="checkbox" id="vector-main-menu-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-main-menu-dropdown" class="vector-dropdown-checkbox "  aria-label="주 메뉴"  >
+	<label id="vector-main-menu-dropdown-label" for="vector-main-menu-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-menu mw-ui-icon-wikimedia-menu"></span>
+
+<span class="vector-dropdown-label-text">주 메뉴</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+				<div id="vector-main-menu-unpinned-container" class="vector-unpinned-container">
+		
+<div id="vector-main-menu" class="vector-main-menu vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-main-menu-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="main-menu-pinned"
+	data-pinnable-element-id="vector-main-menu"
+	data-pinned-container-id="vector-main-menu-pinned-container"
+	data-unpinned-container-id="vector-main-menu-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">주 메뉴</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-main-menu.pin">사이드바로 이동</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-main-menu.unpin">숨기기</button>
+</div>
+
+	
+<div id="p-navigation" class="vector-menu mw-portlet mw-portlet-navigation"  >
+	<div class="vector-menu-heading">
+		둘러보기
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/%EC%9C%84%ED%82%A4%EB%B0%B1%EA%B3%BC:%EB%8C%80%EB%AC%B8" title="대문으로 가기 [z]" accesskey="z"><span>대문</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/%ED%8A%B9%EC%88%98:%EC%B5%9C%EA%B7%BC%EB%B0%94%EB%80%9C" title="위키의 최근 바뀐 목록 [r]" accesskey="r"><span>최근 바뀜</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/%ED%8F%AC%ED%84%B8:%EC%9A%94%EC%A6%98_%ED%99%94%EC%A0%9C" title="최근의 소식 알아 보기"><span>요즘 화제</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/%ED%8A%B9%EC%88%98:%EC%9E%84%EC%9D%98%EB%AC%B8%EC%84%9C" title="무작위로 선택된 문서 불러오기 [x]" accesskey="x"><span>임의 문서로</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-사용자_모임" class="vector-menu mw-portlet mw-portlet-사용자_모임"  >
+	<div class="vector-menu-heading">
+		사용자 모임
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-projectchat" class="mw-list-item"><a href="/wiki/%EC%9C%84%ED%82%A4%EB%B0%B1%EA%B3%BC:%EC%82%AC%EB%9E%91%EB%B0%A9"><span>사랑방</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/%EC%9C%84%ED%82%A4%EB%B0%B1%EA%B3%BC:%EC%82%AC%EC%9A%A9%EC%9E%90_%EB%AA%A8%EC%9E%84" title="위키백과 참여자를 위한 토론/대화 공간입니다."><span>사용자 모임</span></a></li><li id="n-request" class="mw-list-item"><a href="/wiki/%EC%9C%84%ED%82%A4%EB%B0%B1%EA%B3%BC:%EC%9A%94%EC%B2%AD"><span>관리 요청</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-편집_안내" class="vector-menu mw-portlet mw-portlet-편집_안내"  >
+	<div class="vector-menu-heading">
+		편집 안내
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-helpintro" class="mw-list-item"><a href="/wiki/%EB%8F%84%EC%9B%80%EB%A7%90:%EC%86%8C%EA%B0%9C"><span>소개</span></a></li><li id="n-help" class="mw-list-item"><a href="/wiki/%EC%9C%84%ED%82%A4%EB%B0%B1%EA%B3%BC:%EB%8F%84%EC%9B%80%EB%A7%90" title="도움말"><span>도움말</span></a></li><li id="n-policy" class="mw-list-item"><a href="/wiki/%EC%9C%84%ED%82%A4%EB%B0%B1%EA%B3%BC:%EC%A0%95%EC%B1%85%EA%B3%BC_%EC%A7%80%EC%B9%A8"><span>정책과 지침</span></a></li><li id="n-qna" class="mw-list-item"><a href="/wiki/%EC%9C%84%ED%82%A4%EB%B0%B1%EA%B3%BC:%EC%A7%88%EB%AC%B8%EB%B0%A9"><span>질문방</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+</div>
+
+				</div>
+
+	</div>
+</div>
+
+		</nav>
+			
+<a href="/wiki/%EC%9C%84%ED%82%A4%EB%B0%B1%EA%B3%BC:%EB%8C%80%EB%AC%B8" class="mw-logo">
+	<img class="mw-logo-icon" src="/static/images/icons/wikipedia.png" alt="" aria-hidden="true" height="50" width="50">
+	<span class="mw-logo-container skin-invert">
+		<img class="mw-logo-wordmark" alt="위키백과" src="/static/images/mobile/copyright/wikipedia-wordmark-ko.svg" style="width: 7.5em; height: 1.75em;">
+		<img class="mw-logo-tagline" alt="" src="/static/images/mobile/copyright/wikipedia-tagline-ko.svg" width="120" height="13" style="width: 7.5em; height: 0.8125em;">
+	</span>
+</a>
+
+		</div>
+		<div class="vector-header-end">
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-collapses vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<a href="/wiki/%ED%8A%B9%EC%88%98:%EA%B2%80%EC%83%89" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only search-toggle" title="위키백과 검색 [f]" accesskey="f"><span class="vector-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
+
+<span>검색</span>
+	</a>
+	<div class="vector-typeahead-search-container">
+		<div class="cdx-typeahead-search cdx-typeahead-search--show-thumbnail cdx-typeahead-search--auto-expand-width">
+			<form action="/w/index.php" id="searchform" class="cdx-search-input cdx-search-input--has-end-button">
+				<div id="simpleSearch" class="cdx-search-input__input-wrapper"  data-search-loc="header-moved">
+					<div class="cdx-text-input cdx-text-input--has-start-icon">
+						<input
+							class="cdx-text-input__input mw-searchInput" autocomplete="off"
+							 type="search" name="search" placeholder="위키백과 검색" aria-label="위키백과 검색" autocapitalize="none" spellcheck="false" title="위키백과 검색 [f]" accesskey="f" id="searchInput"
+							>
+						<span class="cdx-text-input__icon cdx-text-input__start-icon"></span>
+					</div>
+					<input type="hidden" name="title" value="특수:검색">
+				</div>
+				<button class="cdx-button cdx-search-input__end-button">검색</button>
+			</form>
+		</div>
+	</div>
+</div>
+
+			<nav class="vector-user-links vector-user-links-wide" aria-label="개인 도구">
+	<div class="vector-user-links-main">
+	
+<div id="p-vector-user-menu-preferences" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-userpage" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	<nav class="vector-appearance-landmark" aria-label="보이기">
+		
+<div id="vector-appearance-dropdown" class="vector-dropdown "  title="문서의 글꼴 크기, 폭, 색의 모습을 변경합니다" >
+	<input type="checkbox" id="vector-appearance-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-appearance-dropdown" class="vector-dropdown-checkbox "  aria-label="보이기"  >
+	<label id="vector-appearance-dropdown-label" for="vector-appearance-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-appearance mw-ui-icon-wikimedia-appearance"></span>
+
+<span class="vector-dropdown-label-text">보이기</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+			<div id="vector-appearance-unpinned-container" class="vector-unpinned-container">
+				
+			</div>
+		
+	</div>
+</div>
+
+	</nav>
+	
+<div id="p-vector-user-menu-notifications" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-overflow" class="vector-menu mw-portlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			<li id="pt-sitesupport-2" class="mw-list-item user-links-collapsible-item"><a data-mw-interface  href="https://donate.wikimedia.org/?wmf_source=donate&amp;wmf_medium=sidebar&amp;wmf_campaign=ko.wikipedia.org&amp;uselang=ko" class=" cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet"><span class="vector-icon mw-ui-icon-heart mw-ui-icon-wikimedia-heart"></span>
+
+<span>기부</span></a>
+</li>
+<li id="pt-createaccount-2" class="mw-list-item user-links-collapsible-item"><a data-mw-interface  href="/w/index.php?title=%ED%8A%B9%EC%88%98:%EA%B3%84%EC%A0%95%EB%A7%8C%EB%93%A4%EA%B8%B0&amp;returnto=%EB%B0%B0%ED%83%80%EC%A0%81+%EB%85%BC%EB%A6%AC%ED%95%A9" title="계정을 만들고 로그인하는 것이 좋습니다. 하지만 필수는 아닙니다" class=""><span>계정 만들기</span></a>
+</li>
+<li id="pt-login-2" class="mw-list-item user-links-collapsible-item"><a data-mw-interface  href="/w/index.php?title=%ED%8A%B9%EC%88%98:%EB%A1%9C%EA%B7%B8%EC%9D%B8&amp;returnto=%EB%B0%B0%ED%83%80%EC%A0%81+%EB%85%BC%EB%A6%AC%ED%95%A9" title="위키백과에 로그인하면 여러가지 편리한 기능을 사용할 수 있습니다. [o]" accesskey="o" class=""><span>로그인</span></a>
+</li>
+
+			
+		</ul>
+		
+	</div>
+</div>
+
+	</div>
+	
+<div id="vector-user-links-dropdown" class="vector-dropdown vector-user-menu vector-button-flush-right vector-user-menu-logged-out user-links-collapsible-item"  title="더 많은 옵션" >
+	<input type="checkbox" id="vector-user-links-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-user-links-dropdown" class="vector-dropdown-checkbox "  aria-label="개인 도구"  >
+	<label id="vector-user-links-dropdown-label" for="vector-user-links-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-ellipsis mw-ui-icon-wikimedia-ellipsis"></span>
+
+<span class="vector-dropdown-label-text">개인 도구</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+		
+<div id="" class="vector-menu mw-portlet mw-portlet-personal user-links-collapsible-item"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			<li id="pt-sitesupport" class="mw-list-item user-links-collapsible-item"><a data-mw-interface  href="https://donate.wikimedia.org/?wmf_source=donate&amp;wmf_medium=sidebar&amp;wmf_campaign=ko.wikipedia.org&amp;uselang=ko" class=""><span class="vector-icon mw-ui-icon-heart mw-ui-icon-wikimedia-heart"></span>
+
+<span>기부</span></a>
+</li>
+<li id="pt-createaccount" class="mw-list-item user-links-collapsible-item"><a data-mw-interface  href="/w/index.php?title=%ED%8A%B9%EC%88%98:%EA%B3%84%EC%A0%95%EB%A7%8C%EB%93%A4%EA%B8%B0&amp;returnto=%EB%B0%B0%ED%83%80%EC%A0%81+%EB%85%BC%EB%A6%AC%ED%95%A9" title="계정을 만들고 로그인하는 것이 좋습니다. 하지만 필수는 아닙니다" class=""><span class="vector-icon mw-ui-icon-userAdd mw-ui-icon-wikimedia-userAdd"></span>
+
+<span>계정 만들기</span></a>
+</li>
+<li id="pt-login" class="mw-list-item user-links-collapsible-item"><a data-mw-interface  href="/w/index.php?title=%ED%8A%B9%EC%88%98:%EB%A1%9C%EA%B7%B8%EC%9D%B8&amp;returnto=%EB%B0%B0%ED%83%80%EC%A0%81+%EB%85%BC%EB%A6%AC%ED%95%A9" title="위키백과에 로그인하면 여러가지 편리한 기능을 사용할 수 있습니다. [o]" accesskey="o" class=""><span class="vector-icon mw-ui-icon-logIn mw-ui-icon-wikimedia-logIn"></span>
+
+<span>로그인</span></a>
+</li>
+
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+	</div>
+</div>
+
+</nav>
+
+		</div>
+	</header>
+</div>
+<div class="mw-page-container">
+	<div class="mw-page-container-inner">
+		<div class="vector-sitenotice-container">
+			<div id="siteNotice"><!-- CentralNotice --></div>
+		</div>
+		<div class="vector-column-start">
+			<div class="vector-main-menu-container">
+		<div id="mw-navigation">
+			<nav id="mw-panel" class="vector-main-menu-landmark" aria-label="사이트">
+				<div id="vector-main-menu-pinned-container" class="vector-pinned-container">
+				
+				</div>
+		</nav>
+		</div>
+	</div>
+	<div class="vector-sticky-pinned-container">
+				<nav id="mw-panel-toc" aria-label="목차" data-event-name="ui.sidebar-toc" class="mw-table-of-contents-container vector-toc-landmark">
+					<div id="vector-toc-pinned-container" class="vector-pinned-container">
+					<div id="vector-toc" class="vector-toc vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-toc-pinnable-header vector-pinnable-header-pinned"
+	data-feature-name="toc-pinned"
+	data-pinnable-element-id="vector-toc"
+	data-pinned-container-id="vector-toc-pinned-container"
+	data-unpinned-container-id="vector-toc-unpinned-container"
+>
+	<h2 class="vector-pinnable-header-label">목차</h2>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-toc.pin">사이드바로 이동</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-toc.unpin">숨기기</button>
+</div>
+
+
+	<ul class="vector-toc-contents" id="mw-panel-toc-list">
+		<li id="toc-mw-content-text"
+			class="vector-toc-list-item vector-toc-level-1">
+			<a href="#" class="vector-toc-link">
+				<div class="vector-toc-text">처음 위치</div>
+			</a>
+		</li>
+		<li id="toc-예시"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#예시">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">1</span>
+				<span>예시</span>
+			</div>
+		</a>
+		
+		<ul id="toc-예시-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-특징"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#특징">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">2</span>
+				<span>특징</span>
+			</div>
+		</a>
+		
+			<button aria-controls="toc-특징-sublist" class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-toc-toggle">
+				<span class="vector-icon mw-ui-icon-wikimedia-expand"></span>
+				<span>특징 하위섹션 토글하기</span>
+			</button>
+		
+		<ul id="toc-특징-sublist" class="vector-toc-list">
+			<li id="toc-진리표"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#진리표">
+				<div class="vector-toc-text">
+					<span class="vector-toc-numb">2.1</span>
+					<span>진리표</span>
+				</div>
+			</a>
+			
+			<ul id="toc-진리표-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="toc-비트간_배타적_논리합"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#비트간_배타적_논리합">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">3</span>
+				<span>비트간 배타적 논리합</span>
+			</div>
+		</a>
+		
+			<button aria-controls="toc-비트간_배타적_논리합-sublist" class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-toc-toggle">
+				<span class="vector-icon mw-ui-icon-wikimedia-expand"></span>
+				<span>비트간 배타적 논리합 하위섹션 토글하기</span>
+			</button>
+		
+		<ul id="toc-비트간_배타적_논리합-sublist" class="vector-toc-list">
+			<li id="toc-암호_키에_사용"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#암호_키에_사용">
+				<div class="vector-toc-text">
+					<span class="vector-toc-numb">3.1</span>
+					<span>암호 키에 사용</span>
+				</div>
+			</a>
+			
+			<ul id="toc-암호_키에_사용-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="toc-같이_보기"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#같이_보기">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">4</span>
+				<span>같이 보기</span>
+			</div>
+		</a>
+		
+		<ul id="toc-같이_보기-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+</ul>
+</div>
+
+					</div>
+		</nav>
+			</div>
+		</div>
+		<div class="mw-content-container">
+			<main id="content" class="mw-body">
+				<header class="mw-body-header vector-page-titlebar no-font-mode-scale">
+					<nav aria-label="목차" class="vector-toc-landmark">
+						
+<div id="vector-page-titlebar-toc" class="vector-dropdown vector-page-titlebar-toc vector-button-flush-left"  title="목차" >
+	<input type="checkbox" id="vector-page-titlebar-toc-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-titlebar-toc" class="vector-dropdown-checkbox "  aria-label="목차 토글"  >
+	<label id="vector-page-titlebar-toc-label" for="vector-page-titlebar-toc-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-listBullet mw-ui-icon-wikimedia-listBullet"></span>
+
+<span class="vector-dropdown-label-text">목차 토글</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+							<div id="vector-page-titlebar-toc-unpinned-container" class="vector-unpinned-container">
+			</div>
+		
+	</div>
+</div>
+
+					</nav>
+					<h1 id="firstHeading" class="firstHeading mw-first-heading"><span lang="ko" dir="ltr"><span class="mw-page-title-main">배타적 논리합</span></span></h1>
+							
+<div id="p-lang-btn" class="vector-dropdown mw-portlet mw-portlet-lang"  >
+	<input type="checkbox" id="p-lang-btn-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-lang-btn" class="vector-dropdown-checkbox mw-interlanguage-selector" aria-label="다른 언어로 문서를 방문합니다. 34개 언어로 읽을 수 있습니다"   >
+	<label id="p-lang-btn-label" for="p-lang-btn-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive mw-portlet-lang-heading-34" aria-hidden="true"  ><span class="vector-icon mw-ui-icon-language-progressive mw-ui-icon-wikimedia-language-progressive"></span>
+
+<span class="vector-dropdown-label-text">34개 언어</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+		<div class="vector-menu-content">
+			
+			<ul class="vector-menu-content-list">
+				
+				<li class="interlanguage-link interwiki-ar mw-list-item"><a href="https://ar.wikipedia.org/wiki/%D9%81%D8%B5%D9%84_%D8%A5%D9%82%D8%B5%D8%A7%D8%A6%D9%8A" title="فصل إقصائي – 아랍어" lang="ar" hreflang="ar" data-title="فصل إقصائي" data-language-autonym="العربية" data-language-local-name="아랍어" class="interlanguage-link-target"><span>العربية</span></a></li><li class="interlanguage-link interwiki-ca mw-list-item"><a href="https://ca.wikipedia.org/wiki/Disjunci%C3%B3_exclusiva" title="Disjunció exclusiva – 카탈로니아어" lang="ca" hreflang="ca" data-title="Disjunció exclusiva" data-language-autonym="Català" data-language-local-name="카탈로니아어" class="interlanguage-link-target"><span>Català</span></a></li><li class="interlanguage-link interwiki-cs mw-list-item"><a href="https://cs.wikipedia.org/wiki/Exkluzivn%C3%AD_disjunkce" title="Exkluzivní disjunkce – 체코어" lang="cs" hreflang="cs" data-title="Exkluzivní disjunkce" data-language-autonym="Čeština" data-language-local-name="체코어" class="interlanguage-link-target"><span>Čeština</span></a></li><li class="interlanguage-link interwiki-de mw-list-item"><a href="https://de.wikipedia.org/wiki/Kontravalenz" title="Kontravalenz – 독일어" lang="de" hreflang="de" data-title="Kontravalenz" data-language-autonym="Deutsch" data-language-local-name="독일어" class="interlanguage-link-target"><span>Deutsch</span></a></li><li class="interlanguage-link interwiki-el mw-list-item"><a href="https://el.wikipedia.org/wiki/%CE%91%CF%80%CE%BF%CE%BA%CE%BB%CE%B5%CE%B9%CF%83%CF%84%CE%B9%CE%BA%CE%AE_%CE%B4%CE%B9%CE%AC%CE%B6%CE%B5%CF%85%CE%BE%CE%B7" title="Αποκλειστική διάζευξη – 그리스어" lang="el" hreflang="el" data-title="Αποκλειστική διάζευξη" data-language-autonym="Ελληνικά" data-language-local-name="그리스어" class="interlanguage-link-target"><span>Ελληνικά</span></a></li><li class="interlanguage-link interwiki-en mw-list-item"><a href="https://en.wikipedia.org/wiki/Exclusive_or" title="Exclusive or – 영어" lang="en" hreflang="en" data-title="Exclusive or" data-language-autonym="English" data-language-local-name="영어" class="interlanguage-link-target"><span>English</span></a></li><li class="interlanguage-link interwiki-eo mw-list-item"><a href="https://eo.wikipedia.org/wiki/Disa%C5%ADo" title="Disaŭo – 에스페란토어" lang="eo" hreflang="eo" data-title="Disaŭo" data-language-autonym="Esperanto" data-language-local-name="에스페란토어" class="interlanguage-link-target"><span>Esperanto</span></a></li><li class="interlanguage-link interwiki-es mw-list-item"><a href="https://es.wikipedia.org/wiki/Disyunci%C3%B3n_exclusiva" title="Disyunción exclusiva – 스페인어" lang="es" hreflang="es" data-title="Disyunción exclusiva" data-language-autonym="Español" data-language-local-name="스페인어" class="interlanguage-link-target"><span>Español</span></a></li><li class="interlanguage-link interwiki-et mw-list-item"><a href="https://et.wikipedia.org/wiki/V%C3%A4listav_disjunktsioon" title="Välistav disjunktsioon – 에스토니아어" lang="et" hreflang="et" data-title="Välistav disjunktsioon" data-language-autonym="Eesti" data-language-local-name="에스토니아어" class="interlanguage-link-target"><span>Eesti</span></a></li><li class="interlanguage-link interwiki-fa mw-list-item"><a href="https://fa.wikipedia.org/wiki/%DB%8C%D8%A7%DB%8C_%D8%A7%D9%86%D8%AD%D8%B5%D8%A7%D8%B1%DB%8C" title="یای انحصاری – 페르시아어" lang="fa" hreflang="fa" data-title="یای انحصاری" data-language-autonym="فارسی" data-language-local-name="페르시아어" class="interlanguage-link-target"><span>فارسی</span></a></li><li class="interlanguage-link interwiki-fi mw-list-item"><a href="https://fi.wikipedia.org/wiki/Eksklusiivinen_disjunktio" title="Eksklusiivinen disjunktio – 핀란드어" lang="fi" hreflang="fi" data-title="Eksklusiivinen disjunktio" data-language-autonym="Suomi" data-language-local-name="핀란드어" class="interlanguage-link-target"><span>Suomi</span></a></li><li class="interlanguage-link interwiki-fr mw-list-item"><a href="https://fr.wikipedia.org/wiki/Fonction_logique_OU_exclusif" title="Fonction logique OU exclusif – 프랑스어" lang="fr" hreflang="fr" data-title="Fonction logique OU exclusif" data-language-autonym="Français" data-language-local-name="프랑스어" class="interlanguage-link-target"><span>Français</span></a></li><li class="interlanguage-link interwiki-gl mw-list-item"><a href="https://gl.wikipedia.org/wiki/OR_exclusivo" title="OR exclusivo – 갈리시아어" lang="gl" hreflang="gl" data-title="OR exclusivo" data-language-autonym="Galego" data-language-local-name="갈리시아어" class="interlanguage-link-target"><span>Galego</span></a></li><li class="interlanguage-link interwiki-he mw-list-item"><a href="https://he.wikipedia.org/wiki/XOR" title="XOR – 히브리어" lang="he" hreflang="he" data-title="XOR" data-language-autonym="עברית" data-language-local-name="히브리어" class="interlanguage-link-target"><span>עברית</span></a></li><li class="interlanguage-link interwiki-io mw-list-item"><a href="https://io.wikipedia.org/wiki/Kontrevalenco" title="Kontrevalenco – 이도어" lang="io" hreflang="io" data-title="Kontrevalenco" data-language-autonym="Ido" data-language-local-name="이도어" class="interlanguage-link-target"><span>Ido</span></a></li><li class="interlanguage-link interwiki-it mw-list-item"><a href="https://it.wikipedia.org/wiki/Disgiunzione_esclusiva" title="Disgiunzione esclusiva – 이탈리아어" lang="it" hreflang="it" data-title="Disgiunzione esclusiva" data-language-autonym="Italiano" data-language-local-name="이탈리아어" class="interlanguage-link-target"><span>Italiano</span></a></li><li class="interlanguage-link interwiki-ja mw-list-item"><a href="https://ja.wikipedia.org/wiki/%E6%8E%92%E4%BB%96%E7%9A%84%E8%AB%96%E7%90%86%E5%92%8C" title="排他的論理和 – 일본어" lang="ja" hreflang="ja" data-title="排他的論理和" data-language-autonym="日本語" data-language-local-name="일본어" class="interlanguage-link-target"><span>日本語</span></a></li><li class="interlanguage-link interwiki-mk mw-list-item"><a href="https://mk.wikipedia.org/wiki/%D0%98%D1%81%D0%BA%D0%BB%D1%83%D1%87%D0%B8%D1%82%D0%B5%D0%BB%D0%BD%D0%B0_%D0%B4%D0%B8%D1%81%D1%98%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D1%98%D0%B0" title="Исклучителна дисјункција – 마케도니아어" lang="mk" hreflang="mk" data-title="Исклучителна дисјункција" data-language-autonym="Македонски" data-language-local-name="마케도니아어" class="interlanguage-link-target"><span>Македонски</span></a></li><li class="interlanguage-link interwiki-nl mw-list-item"><a href="https://nl.wikipedia.org/wiki/Exclusieve_disjunctie" title="Exclusieve disjunctie – 네덜란드어" lang="nl" hreflang="nl" data-title="Exclusieve disjunctie" data-language-autonym="Nederlands" data-language-local-name="네덜란드어" class="interlanguage-link-target"><span>Nederlands</span></a></li><li class="interlanguage-link interwiki-no mw-list-item"><a href="https://no.wikipedia.org/wiki/Eksklusiv_disjunksjon" title="Eksklusiv disjunksjon – 노르웨이어(보크말)" lang="nb" hreflang="nb" data-title="Eksklusiv disjunksjon" data-language-autonym="Norsk bokmål" data-language-local-name="노르웨이어(보크말)" class="interlanguage-link-target"><span>Norsk bokmål</span></a></li><li class="interlanguage-link interwiki-pl mw-list-item"><a href="https://pl.wikipedia.org/wiki/Alternatywa_roz%C5%82%C4%85czna" title="Alternatywa rozłączna – 폴란드어" lang="pl" hreflang="pl" data-title="Alternatywa rozłączna" data-language-autonym="Polski" data-language-local-name="폴란드어" class="interlanguage-link-target"><span>Polski</span></a></li><li class="interlanguage-link interwiki-pms mw-list-item"><a href="https://pms.wikipedia.org/wiki/Disgionsion_esclusiva" title="Disgionsion esclusiva – Piedmontese" lang="pms" hreflang="pms" data-title="Disgionsion esclusiva" data-language-autonym="Piemontèis" data-language-local-name="Piedmontese" class="interlanguage-link-target"><span>Piemontèis</span></a></li><li class="interlanguage-link interwiki-pt mw-list-item"><a href="https://pt.wikipedia.org/wiki/Ou_exclusivo" title="Ou exclusivo – 포르투갈어" lang="pt" hreflang="pt" data-title="Ou exclusivo" data-language-autonym="Português" data-language-local-name="포르투갈어" class="interlanguage-link-target"><span>Português</span></a></li><li class="interlanguage-link interwiki-ro mw-list-item"><a href="https://ro.wikipedia.org/wiki/Disjunc%C8%9Bie_exclusiv%C4%83" title="Disjuncție exclusivă – 루마니아어" lang="ro" hreflang="ro" data-title="Disjuncție exclusivă" data-language-autonym="Română" data-language-local-name="루마니아어" class="interlanguage-link-target"><span>Română</span></a></li><li class="interlanguage-link interwiki-ru mw-list-item"><a href="https://ru.wikipedia.org/wiki/%D0%98%D1%81%D0%BA%D0%BB%D1%8E%D1%87%D0%B0%D1%8E%D1%89%D0%B5%D0%B5_%C2%AB%D0%B8%D0%BB%D0%B8%C2%BB" title="Исключающее «или» – 러시아어" lang="ru" hreflang="ru" data-title="Исключающее «или»" data-language-autonym="Русский" data-language-local-name="러시아어" class="interlanguage-link-target"><span>Русский</span></a></li><li class="interlanguage-link interwiki-simple mw-list-item"><a href="https://simple.wikipedia.org/wiki/Exclusive_disjunction" title="Exclusive disjunction – 쉬운 영어" lang="en-simple" hreflang="en-simple" data-title="Exclusive disjunction" data-language-autonym="Simple English" data-language-local-name="쉬운 영어" class="interlanguage-link-target"><span>Simple English</span></a></li><li class="interlanguage-link interwiki-sk mw-list-item"><a href="https://sk.wikipedia.org/wiki/Vylu%C4%8Duj%C3%BAce_alebo" title="Vylučujúce alebo – 슬로바키아어" lang="sk" hreflang="sk" data-title="Vylučujúce alebo" data-language-autonym="Slovenčina" data-language-local-name="슬로바키아어" class="interlanguage-link-target"><span>Slovenčina</span></a></li><li class="interlanguage-link interwiki-sq mw-list-item"><a href="https://sq.wikipedia.org/wiki/XOR" title="XOR – 알바니아어" lang="sq" hreflang="sq" data-title="XOR" data-language-autonym="Shqip" data-language-local-name="알바니아어" class="interlanguage-link-target"><span>Shqip</span></a></li><li class="interlanguage-link interwiki-sr mw-list-item"><a href="https://sr.wikipedia.org/wiki/%D0%98%D1%81%D0%BA%D1%99%D1%83%D1%87%D0%B8%D0%B2%D0%B0_%D0%B4%D0%B8%D1%81%D1%98%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D1%98%D0%B0" title="Искључива дисјункција – 세르비아어" lang="sr" hreflang="sr" data-title="Искључива дисјункција" data-language-autonym="Српски / srpski" data-language-local-name="세르비아어" class="interlanguage-link-target"><span>Српски / srpski</span></a></li><li class="interlanguage-link interwiki-sv mw-list-item"><a href="https://sv.wikipedia.org/wiki/Exklusiv_disjunktion" title="Exklusiv disjunktion – 스웨덴어" lang="sv" hreflang="sv" data-title="Exklusiv disjunktion" data-language-autonym="Svenska" data-language-local-name="스웨덴어" class="interlanguage-link-target"><span>Svenska</span></a></li><li class="interlanguage-link interwiki-uk mw-list-item"><a href="https://uk.wikipedia.org/wiki/%D0%92%D0%B8%D0%BA%D0%BB%D1%8E%D1%87%D0%BD%D0%B0_%D0%B4%D0%B8%D0%B7%27%D1%8E%D0%BD%D0%BA%D1%86%D1%96%D1%8F" title="Виключна диз&#039;юнкція – 우크라이나어" lang="uk" hreflang="uk" data-title="Виключна диз&#039;юнкція" data-language-autonym="Українська" data-language-local-name="우크라이나어" class="interlanguage-link-target"><span>Українська</span></a></li><li class="interlanguage-link interwiki-vi mw-list-item"><a href="https://vi.wikipedia.org/wiki/Tuy%E1%BB%83n_lo%E1%BA%A1i" title="Tuyển loại – 베트남어" lang="vi" hreflang="vi" data-title="Tuyển loại" data-language-autonym="Tiếng Việt" data-language-local-name="베트남어" class="interlanguage-link-target"><span>Tiếng Việt</span></a></li><li class="interlanguage-link interwiki-zh-yue mw-list-item"><a href="https://zh-yue.wikipedia.org/wiki/%E9%82%8F%E8%BC%AF%E7%95%B0%E6%88%96" title="邏輯異或 – 광둥어" lang="yue" hreflang="yue" data-title="邏輯異或" data-language-autonym="粵語" data-language-local-name="광둥어" class="interlanguage-link-target"><span>粵語</span></a></li><li class="interlanguage-link interwiki-zh mw-list-item"><a href="https://zh.wikipedia.org/wiki/%E9%80%BB%E8%BE%91%E5%BC%82%E6%88%96" title="逻辑异或 – 중국어" lang="zh" hreflang="zh" data-title="逻辑异或" data-language-autonym="中文" data-language-local-name="중국어" class="interlanguage-link-target"><span>中文</span></a></li>
+			</ul>
+			<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q498186#sitelinks-wikipedia" title="언어 간 링크 편집" class="wbc-editpage">링크 편집</a></span></div>
+		</div>
+
+	</div>
+</div>
+</header>
+				<div class="vector-page-toolbar vector-feature-custom-font-size-clientpref--excluded">
+					<div class="vector-page-toolbar-container">
+						<div id="left-navigation">
+							<nav aria-label="이름공간">
+								
+<div id="p-associated-pages" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-associated-pages"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-nstab-main" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/%EB%B0%B0%ED%83%80%EC%A0%81_%EB%85%BC%EB%A6%AC%ED%95%A9" title="본문 보기 [c]" accesskey="c"><span>문서</span></a></li><li id="ca-talk" class="vector-tab-noicon mw-list-item"><a href="/wiki/%ED%86%A0%EB%A1%A0:%EB%B0%B0%ED%83%80%EC%A0%81_%EB%85%BC%EB%A6%AC%ED%95%A9" rel="discussion" title="문서의 내용에 대한 토론 문서 [t]" accesskey="t"><span>토론</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+								
+<div id="vector-variants-dropdown" class="vector-dropdown emptyPortlet"  >
+	<input type="checkbox" id="vector-variants-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-variants-dropdown" class="vector-dropdown-checkbox " aria-label="언어 변종 바꾸기"   >
+	<label id="vector-variants-dropdown-label" for="vector-variants-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">한국어</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+					
+<div id="p-variants" class="vector-menu mw-portlet mw-portlet-variants emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+						<div id="right-navigation" class="vector-collapsible">
+							<nav aria-label="보기">
+								
+<div id="p-views" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-views"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-view" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/%EB%B0%B0%ED%83%80%EC%A0%81_%EB%85%BC%EB%A6%AC%ED%95%A9"><span>읽기</span></a></li><li id="ca-edit" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=%EB%B0%B0%ED%83%80%EC%A0%81_%EB%85%BC%EB%A6%AC%ED%95%A9&amp;action=edit" title="이 문서의 원본 코드를 편집 [e]" accesskey="e"><span>편집</span></a></li><li id="ca-history" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=%EB%B0%B0%ED%83%80%EC%A0%81_%EB%85%BC%EB%A6%AC%ED%95%A9&amp;action=history" title="이 문서의 과거 편집 내역입니다. [h]" accesskey="h"><span>역사 보기</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+							</nav>
+				
+							<nav class="vector-page-tools-landmark" aria-label="페이지 도구">
+								
+<div id="vector-page-tools-dropdown" class="vector-dropdown vector-page-tools-dropdown"  >
+	<input type="checkbox" id="vector-page-tools-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-tools-dropdown" class="vector-dropdown-checkbox "  aria-label="도구"  >
+	<label id="vector-page-tools-dropdown-label" for="vector-page-tools-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">도구</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+									<div id="vector-page-tools-unpinned-container" class="vector-unpinned-container">
+						
+<div id="vector-page-tools" class="vector-page-tools vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-page-tools-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="page-tools-pinned"
+	data-pinnable-element-id="vector-page-tools"
+	data-pinned-container-id="vector-page-tools-pinned-container"
+	data-unpinned-container-id="vector-page-tools-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">도구</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-page-tools.pin">사이드바로 이동</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-page-tools.unpin">숨기기</button>
+</div>
+
+	
+<div id="p-cactions" class="vector-menu mw-portlet mw-portlet-cactions emptyPortlet vector-has-collapsible-items"  title="더 많은 옵션" >
+	<div class="vector-menu-heading">
+		동작
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-more-view" class="selected vector-more-collapsible-item mw-list-item"><a href="/wiki/%EB%B0%B0%ED%83%80%EC%A0%81_%EB%85%BC%EB%A6%AC%ED%95%A9"><span>읽기</span></a></li><li id="ca-more-edit" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=%EB%B0%B0%ED%83%80%EC%A0%81_%EB%85%BC%EB%A6%AC%ED%95%A9&amp;action=edit" title="이 문서의 원본 코드를 편집 [e]" accesskey="e"><span>편집</span></a></li><li id="ca-more-history" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=%EB%B0%B0%ED%83%80%EC%A0%81_%EB%85%BC%EB%A6%AC%ED%95%A9&amp;action=history"><span>역사 보기</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-tb" class="vector-menu mw-portlet mw-portlet-tb"  >
+	<div class="vector-menu-heading">
+		일반
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/%ED%8A%B9%EC%88%98:%EA%B0%80%EB%A6%AC%ED%82%A4%EB%8A%94%EB%AC%B8%EC%84%9C/%EB%B0%B0%ED%83%80%EC%A0%81_%EB%85%BC%EB%A6%AC%ED%95%A9" title="여기를 가리키는 모든 위키 문서의 목록 [j]" accesskey="j"><span>여기를 가리키는 문서</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/%ED%8A%B9%EC%88%98:%EB%A7%81%ED%81%AC%EC%B5%9C%EA%B7%BC%EB%B0%94%EB%80%9C/%EB%B0%B0%ED%83%80%EC%A0%81_%EB%85%BC%EB%A6%AC%ED%95%A9" rel="nofollow" title="이 문서에서 링크한 문서의 최근 바뀜 [k]" accesskey="k"><span>가리키는 글의 최근 바뀜</span></a></li><li id="t-upload" class="mw-list-item"><a href="//ko.wikipedia.org/wiki/위키백과:파일_올리기" title="파일 업로드 [u]" accesskey="u"><span>파일 올리기</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=%EB%B0%B0%ED%83%80%EC%A0%81_%EB%85%BC%EB%A6%AC%ED%95%A9&amp;oldid=39044482" title="이 문서의 이 판에 대한 고유 링크"><span>고유 링크</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=%EB%B0%B0%ED%83%80%EC%A0%81_%EB%85%BC%EB%A6%AC%ED%95%A9&amp;action=info" title="이 문서에 대한 자세한 정보"><span>문서 정보</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=%ED%8A%B9%EC%88%98:%EC%9D%B4%EB%AC%B8%EC%84%9C%EC%9D%B8%EC%9A%A9&amp;page=%EB%B0%B0%ED%83%80%EC%A0%81_%EB%85%BC%EB%A6%AC%ED%95%A9&amp;id=39044482&amp;wpFormIdentifier=titleform" title="이 문서를 인용하는 방법에 대한 정보"><span>이 문서 인용하기</span></a></li><li id="t-urlshortener" class="mw-list-item"><a href="/w/index.php?title=%ED%8A%B9%EC%88%98:UrlShortener&amp;url=https%3A%2F%2Fko.wikipedia.org%2Fwiki%2F%25EB%25B0%25B0%25ED%2583%2580%25EC%25A0%2581_%25EB%2585%25BC%25EB%25A6%25AC%25ED%2595%25A9"><span>축약된 URL 얻기</span></a></li><li class="mw-list-item"><a href="/w/index.php?title=%EB%B0%B0%ED%83%80%EC%A0%81_%EB%85%BC%EB%A6%AC%ED%95%A9&amp;useparsoid=0"><span>기존 파서로 전환</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-coll-print_export" class="vector-menu mw-portlet mw-portlet-coll-print_export"  >
+	<div class="vector-menu-heading">
+		인쇄/내보내기
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="coll-create_a_book" class="mw-list-item"><a href="/w/index.php?title=%ED%8A%B9%EC%88%98:%EC%B1%85&amp;bookcmd=book_creator&amp;referer=%EB%B0%B0%ED%83%80%EC%A0%81+%EB%85%BC%EB%A6%AC%ED%95%A9"><span>책 만들기</span></a></li><li id="coll-download-as-rl" class="mw-list-item"><a href="/w/index.php?title=%ED%8A%B9%EC%88%98:DownloadAsPdf&amp;page=%EB%B0%B0%ED%83%80%EC%A0%81_%EB%85%BC%EB%A6%AC%ED%95%A9&amp;action=show-download-screen"><span>PDF로 다운로드</span></a></li><li id="t-print" class="mw-list-item"><a href="/w/index.php?title=%EB%B0%B0%ED%83%80%EC%A0%81_%EB%85%BC%EB%A6%AC%ED%95%A9&amp;printable=yes" title="이 문서의 인쇄용 판 [p]" accesskey="p"><span>인쇄용 판</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-wikibase-otherprojects" class="vector-menu mw-portlet mw-portlet-wikibase-otherprojects"  >
+	<div class="vector-menu-heading">
+		다른 프로젝트
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li class="wb-otherproject-link wb-otherproject-commons mw-list-item"><a href="https://commons.wikimedia.org/wiki/Category:Exclusive_disjunction" hreflang="en"><span>위키미디어 공용</span></a></li><li id="t-wikibase" class="wb-otherproject-link wb-otherproject-wikibase-dataitem mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q498186" title="데이터 저장소에 연결된 항목을 가리키는 링크 [g]" accesskey="g"><span>위키데이터 항목</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+</div>
+
+									</div>
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+					</div>
+				</div>
+				<div class="vector-column-end no-font-mode-scale">
+					<div class="vector-sticky-pinned-container">
+						<div class="wp25eastereggs-vector-sitenotice-landmark"></div>
+						<nav class="vector-page-tools-landmark" aria-label="페이지 도구">
+							<div id="vector-page-tools-pinned-container" class="vector-pinned-container">
+				
+							</div>
+		</nav>
+						<nav class="vector-appearance-landmark" aria-label="보이기">
+							<div id="vector-appearance-pinned-container" class="vector-pinned-container">
+				<div id="vector-appearance" class="vector-appearance vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-appearance-pinnable-header vector-pinnable-header-pinned"
+	data-feature-name="appearance-pinned"
+	data-pinnable-element-id="vector-appearance"
+	data-pinned-container-id="vector-appearance-pinned-container"
+	data-unpinned-container-id="vector-appearance-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">보이기</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-appearance.pin">사이드바로 이동</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-appearance.unpin">숨기기</button>
+</div>
+
+
+</div>
+
+							</div>
+		</nav>
+					</div>
+				</div>
+				<div id="bodyContent" class="vector-body" aria-labelledby="firstHeading" data-mw-ve-target-container>
+					<div class="vector-body-before-content">
+							<div class="mw-indicators">
+		</div>
+
+						<div id="siteSub" class="noprint">위키백과, 우리 모두의 백과사전.</div>
+					</div>
+					<div id="contentSub"><div id="mw-content-subtitle"></div></div>
+					
+					
+					<div id="mw-content-text" class="mw-body-content"><div class="mw-content-ltr mw-parser-output" lang="ko" dir="ltr" data-mw-parsoid-version="0.23.0.0-alpha24" data-mw-html-version="2.8.0"><section data-mw-section-id="0" id="mwAQ"><table style="background:#f9f9f9; border:1px solid #ccc; float:right;" id="mwAg">
+<tbody id="mwAw"><tr id="mwBA">
+<td id="mwBQ"><span typeof="mw:File" id="mwBg"><a href="//ko.wikipedia.org/wiki/파일:Venn0110.svg" class="mw-file-description" id="mwBw"><img resource="//ko.wikipedia.org/wiki/파일:Venn0110.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/46/Venn0110.svg/250px-Venn0110.svg.png" decoding="async" data-file-width="384" data-file-height="280" data-file-type="drawing" height="160" width="220" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/46/Venn0110.svg/500px-Venn0110.svg.png 2x" class="mw-file-element" id="mwCA"></a></span></td></tr>
+<tr id="mwCQ">
+<td id="mwCg"><span class="mwe-math-element mwe-math-element-inline" typeof="mw:Extension/math" about="#mwt1" data-mw="{&quot;name&quot;:&quot;math&quot;,&quot;attrs&quot;:{},&quot;body&quot;:{&quot;extsrc&quot;:&quot;\\scriptstyle A \\oplus B&quot;}}" id="mwCw"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle \scriptstyle A\oplus B}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mstyle displaystyle="false" scriptlevel="1">
+          <mi>A</mi>
+          <mo>⊕<!-- ⊕ --></mo>
+          <mi>B</mi>
+        </mstyle>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \scriptstyle A\oplus B}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/7f5b30d64b628f8e9c30aae22fee22549ac90f29" class="mwe-math-fallback-image-inline mw-invert skin-invert" aria-hidden="true" style="vertical-align: -0.338ex; width:3.758ex; height:1.843ex;" alt="{\displaystyle \scriptstyle A\oplus B}"></span>의 벤 다이어그램</td></tr>
+<tr id="mwDA">
+<td id="mwDQ"><span typeof="mw:File" id="mwDg"><a href="//ko.wikipedia.org/wiki/파일:Venn_0110_1001.svg" class="mw-file-description" id="mwDw"><img resource="//ko.wikipedia.org/wiki/파일:Venn_0110_1001.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Venn_0110_1001.svg/250px-Venn_0110_1001.svg.png" decoding="async" data-file-width="200" data-file-height="200" data-file-type="drawing" height="220" width="220" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Venn_0110_1001.svg/500px-Venn_0110_1001.svg.png 2x" class="mw-file-element" id="mwEA"></a></span></td></tr>
+<tr id="mwEQ">
+<td id="mwEg"><span class="mwe-math-element mwe-math-element-inline" typeof="mw:Extension/math" about="#mwt2" data-mw="{&quot;name&quot;:&quot;math&quot;,&quot;attrs&quot;:{},&quot;body&quot;:{&quot;extsrc&quot;:&quot;\\scriptstyle A \\oplus B \\oplus C&quot;}}" id="mwEw"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle \scriptstyle A\oplus B\oplus C}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mstyle displaystyle="false" scriptlevel="1">
+          <mi>A</mi>
+          <mo>⊕<!-- ⊕ --></mo>
+          <mi>B</mi>
+          <mo>⊕<!-- ⊕ --></mo>
+          <mi>C</mi>
+        </mstyle>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \scriptstyle A\oplus B\oplus C}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/02629a027cceb69bbe18ce4dbb2ac8a19e3579dc" class="mwe-math-fallback-image-inline mw-invert skin-invert" aria-hidden="true" style="vertical-align: -0.338ex; width:6.286ex; height:1.843ex;" alt="{\displaystyle \scriptstyle A\oplus B\oplus C}"></span>의 벤 다이어그램<br id="mwFA">
+<p id="mwFQ"><span typeof="mw:File" id="mwFg"><a href="//ko.wikipedia.org/wiki/파일:Venn_0110_0110.svg" class="mw-file-description" id="mwFw"><img resource="//ko.wikipedia.org/wiki/파일:Venn_0110_0110.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Venn_0110_0110.svg/40px-Venn_0110_0110.svg.png" decoding="async" data-file-width="200" data-file-height="200" data-file-type="drawing" height="40" width="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Venn_0110_0110.svg/120px-Venn_0110_0110.svg.png 2x" class="mw-file-element" id="mwGA"></a></span> <span class="mwe-math-element mwe-math-element-inline" typeof="mw:Extension/math" about="#mwt3" data-mw="{&quot;name&quot;:&quot;math&quot;,&quot;attrs&quot;:{},&quot;body&quot;:{&quot;extsrc&quot;:&quot;~\\oplus~&quot;}}" id="mwGQ"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle ~\oplus ~}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mtext>&nbsp;</mtext>
+        <mo>⊕<!-- ⊕ --></mo>
+        <mtext>&nbsp;</mtext>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle ~\oplus ~}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/c767eb37cbb7ba0cb1dd95c05efe9daf890806a2" class="mwe-math-fallback-image-inline mw-invert skin-invert" aria-hidden="true" style="vertical-align: -0.505ex; width:4.002ex; height:2.176ex;" alt="{\displaystyle ~\oplus ~}"></span> <span typeof="mw:File" id="mwGg"><a href="//ko.wikipedia.org/wiki/파일:Venn_0000_1111.svg" class="mw-file-description" id="mwGw"><img resource="//ko.wikipedia.org/wiki/파일:Venn_0000_1111.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Venn_0000_1111.svg/40px-Venn_0000_1111.svg.png" decoding="async" data-file-width="200" data-file-height="200" data-file-type="drawing" height="40" width="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Venn_0000_1111.svg/120px-Venn_0000_1111.svg.png 2x" class="mw-file-element" id="mwHA"></a></span> <span class="mwe-math-element mwe-math-element-inline" typeof="mw:Extension/math" about="#mwt4" data-mw="{&quot;name&quot;:&quot;math&quot;,&quot;attrs&quot;:{},&quot;body&quot;:{&quot;extsrc&quot;:&quot;~\\Leftrightarrow~&quot;}}" id="mwHQ"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle ~\Leftrightarrow ~}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mtext>&nbsp;</mtext>
+        <mo stretchy="false">⇔<!-- ⇔ --></mo>
+        <mtext>&nbsp;</mtext>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle ~\Leftrightarrow ~}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/a2bb31f1ac4db02ffdbeb50c9369b8c78eec14d7" class="mwe-math-fallback-image-inline mw-invert skin-invert" aria-hidden="true" style="vertical-align: -0.338ex; width:4.775ex; height:1.843ex;" alt="{\displaystyle ~\Leftrightarrow ~}"></span> <span typeof="mw:File" id="mwHg"><a href="//ko.wikipedia.org/wiki/파일:Venn_0110_1001.svg" class="mw-file-description" id="mwHw"><img resource="//ko.wikipedia.org/wiki/파일:Venn_0110_1001.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Venn_0110_1001.svg/40px-Venn_0110_1001.svg.png" decoding="async" data-file-width="200" data-file-height="200" data-file-type="drawing" height="40" width="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Venn_0110_1001.svg/120px-Venn_0110_1001.svg.png 2x" class="mw-file-element" id="mwIA"></a></span></p></td></tr>
+</tbody></table>
+<p id="mwIQ"><b id="mwIg">배타적 논리합</b>(排他的論理合, <span lang="en" about="#mwt5" typeof="mw:Transclusion" data-mw="{&quot;parts&quot;:[{&quot;template&quot;:{&quot;target&quot;:{&quot;wt&quot;:&quot;lang&quot;,&quot;href&quot;:&quot;./틀:Lang&quot;},&quot;params&quot;:{&quot;1&quot;:{&quot;wt&quot;:&quot;en&quot;},&quot;2&quot;:{&quot;wt&quot;:&quot;exclusive or&quot;}},&quot;i&quot;:0}}]}" id="mwIw">exclusive or</span><link rel="mw:PageProp/Category" href="./분류:영어_표기를_포함한_문서#배타적%20논리합" about="#mwt5" id="mwJA">)은 <a rel="mw:WikiLink" href="//ko.wikipedia.org/wiki/수리_논리학" title="수리 논리학" class="mw-redirect" id="mwJQ">수리 논리학</a>에서 주어진 2개의 명제 가운데 1개만 참일 경우를 판단하는 <a rel="mw:WikiLink" href="//ko.wikipedia.org/wiki/논리_연산" title="논리 연산" id="mwJg">논리 연산</a>이다. 약칭으로 <b id="mwJw">XOR</b>, <b id="mwKA">EOR</b>, <b id="mwKQ">EXOR</b>라고도 쓴다.</p>
+
+<p id="mwKg"><a rel="mw:WikiLink" href="//ko.wikipedia.org/wiki/연산자" title="연산자" id="mwKw">연산자</a>는 <span class="mwe-math-element mwe-math-element-inline" typeof="mw:Extension/math" about="#mwt6" data-mw="{&quot;name&quot;:&quot;math&quot;,&quot;attrs&quot;:{},&quot;body&quot;:{&quot;extsrc&quot;:&quot;\\veebar&quot;}}" id="mwLA"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle \veebar }">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mo>⊻<!-- ⊻ --></mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \veebar }</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/04d326b0ae464569ba667f5b56e0541a4efe6bb4" class="mwe-math-fallback-image-inline mw-invert skin-invert" aria-hidden="true" style="vertical-align: -0.338ex; width:1.42ex; height:2.176ex;" alt="{\displaystyle \veebar }"></span> (<a rel="mw:WikiLink" href="//ko.wikipedia.org/wiki/유니코드" title="유니코드" id="mwLQ">유니코드</a>: U+22BB ⊻), <span class="mwe-math-element mwe-math-element-inline" typeof="mw:Extension/math" about="#mwt7" data-mw="{&quot;name&quot;:&quot;math&quot;,&quot;attrs&quot;:{},&quot;body&quot;:{&quot;extsrc&quot;:&quot;\\dot\\vee&quot;}}" id="mwLg"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle {\dot {\vee }}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mrow class="MJX-TeXAtom-ORD">
+            <mover>
+              <mo>∨<!-- ∨ --></mo>
+              <mo>˙<!-- ˙ --></mo>
+            </mover>
+          </mrow>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle {\dot {\vee }}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/e489691ea7d6ac0c6598efef8525ed22d1b54c9c" class="mwe-math-fallback-image-inline mw-invert skin-invert" aria-hidden="true" style="vertical-align: -0.338ex; width:1.55ex; height:2.509ex;" alt="{\displaystyle {\dot {\vee }}}"></span>이다. 혼동이 되지 않을 경우, XOR, xor, <span class="mwe-math-element mwe-math-element-inline" typeof="mw:Extension/math" about="#mwt8" data-mw="{&quot;name&quot;:&quot;math&quot;,&quot;attrs&quot;:{},&quot;body&quot;:{&quot;extsrc&quot;:&quot;\\oplus&quot;}}" id="mwLw"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle \oplus }">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mo>⊕<!-- ⊕ --></mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \oplus }</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/8b16e2bdaefee9eed86d866e6eba3ac47c710f60" class="mwe-math-fallback-image-inline mw-invert skin-invert" aria-hidden="true" style="vertical-align: -0.505ex; width:1.808ex; height:2.176ex;" alt="{\displaystyle \oplus }"></span> (유니코드: U+2295 ⊕), <a rel="mw:WikiLink" href="//ko.wikipedia.org/wiki/+" title="+" class="mw-redirect" id="mwMA">+</a>, <a rel="mw:WikiLink" href="//ko.wikipedia.org/wiki/≠" title="≠" class="mw-redirect" id="mwMQ">≠</a>라고도 쓴다.</p>
+
+<p id="mwMg">추가로 <a rel="mw:WikiLink" href="//ko.wikipedia.org/wiki/컴퓨터_프로그래밍" title="컴퓨터 프로그래밍" id="mwMw">컴퓨터 프로그래밍</a> 등에서 <a rel="mw:WikiLink" href="//ko.wikipedia.org/wiki/응용_수학" title="응용 수학" class="mw-redirect" id="mwNA">응용 수학</a>으로, 비트간 배타적 논리합(<span lang="en" about="#mwt9" typeof="mw:Transclusion" data-mw="{&quot;parts&quot;:[{&quot;template&quot;:{&quot;target&quot;:{&quot;wt&quot;:&quot;lang&quot;,&quot;href&quot;:&quot;./틀:Lang&quot;},&quot;params&quot;:{&quot;1&quot;:{&quot;wt&quot;:&quot;en&quot;},&quot;2&quot;:{&quot;wt&quot;:&quot;'''bitwise exclusive or'''&quot;}},&quot;i&quot;:0}}]}" id="mwNQ"><b>bitwise exclusive or</b></span><link rel="mw:PageProp/Category" href="./분류:영어_표기를_포함한_문서#배타적%20논리합" about="#mwt9" id="mwNg">)을 간단히 배타적 논리합, XOR이라고 부르는 경우가 있다. 연산자는 XOR, xor, <span class="mwe-math-element mwe-math-element-inline" typeof="mw:Extension/math" about="#mwt10" data-mw="{&quot;name&quot;:&quot;math&quot;,&quot;attrs&quot;:{},&quot;body&quot;:{&quot;extsrc&quot;:&quot;\\oplus&quot;}}" id="mwNw"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle \oplus }">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mo>⊕<!-- ⊕ --></mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \oplus }</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/8b16e2bdaefee9eed86d866e6eba3ac47c710f60" class="mwe-math-fallback-image-inline mw-invert skin-invert" aria-hidden="true" style="vertical-align: -0.505ex; width:1.808ex; height:2.176ex;" alt="{\displaystyle \oplus }"></span>, <a rel="mw:WikiLink" href="//ko.wikipedia.org/wiki/^" title="^" class="mw-redirect" id="mwOA">^</a> 등이 사용된다.</p>
+
+<meta property="mw:PageProp/toc" data-mw="{&quot;autoGenerated&quot;:true}" id="mwOQ"></section><section data-mw-section-id="1" id="mwOg" aria-labelledby="예시"><div class="mw-heading mw-heading2"><h2 id="예시"><span id=".EC.98.88.EC.8B.9C" typeof="mw:FallbackId"></span>예시</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="//ko.wikipedia.org/w/index.php?title=%EB%B0%B0%ED%83%80%EC%A0%81_%EB%85%BC%EB%A6%AC%ED%95%A9&amp;action=edit&amp;section=1" title="부분 편집: 예시"><span>편집</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p id="mwOw">“내 키는 160cm 이상이다.”와 “내 몸무게는 60kg 미만이다.” 이 두 명제의 배타적 논리합은, “내 키는 160cm 이상이고 몸무게는 60kg 이상이다. 혹은, 내 키는 160cm 미만이고 몸무게는 60kg 미만이다.”가 된다.</p>
+
+<p id="mwPA">추가로, 두 명제 <i id="mwPQ">A</i>,<i id="mwPg">B</i>에 대한 <a rel="mw:WikiLink" href="//ko.wikipedia.org/wiki/교집합" title="교집합" id="mwPw">교집합</a> (<i id="mwQA">A</i> ∧ <i id="mwQQ">B</i>)이 <a rel="mw:WikiLink" href="//ko.wikipedia.org/wiki/공집합" title="공집합" id="mwQg">공집합</a>이면, 배타적 논리합은 <a rel="mw:WikiLink" href="//ko.wikipedia.org/wiki/논리합" title="논리합" id="mwQw">논리합</a>과 같게 된다. 예를 들어, <i id="mwRA">A</i> = “내 키는 160cm이다.”와 <i id="mwRQ">B</i> = “내 키는 170cm이다.”는 동시에 성립할 수 없기 때문에(교집합이 없음), (<i id="mwRg">A</i> xor <i id="mwRw">B</i>)와 (<i id="mwSA">A</i> ∨ <i id="mwSQ">B</i>)는 동일하게 “내 키는 160cm와 170cm 중 하나다.”가 된다.</p>
+
+</section><section data-mw-section-id="2" id="mwSg" aria-labelledby="특징"><div class="mw-heading mw-heading2"><h2 id="특징"><span id=".ED.8A.B9.EC.A7.95" typeof="mw:FallbackId"></span>특징</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="//ko.wikipedia.org/w/index.php?title=%EB%B0%B0%ED%83%80%EC%A0%81_%EB%85%BC%EB%A6%AC%ED%95%A9&amp;action=edit&amp;section=2" title="부분 편집: 특징"><span>편집</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p id="mwSw">배타적 논리합은 <a rel="mw:WikiLink" href="//ko.wikipedia.org/wiki/논리합" title="논리합" id="mwTA">논리합</a>, <a rel="mw:WikiLink" href="//ko.wikipedia.org/wiki/논리곱" title="논리곱" id="mwTQ">논리곱</a>, <a rel="mw:WikiLink" href="//ko.wikipedia.org/wiki/부정" title="부정" class="mw-disambig" id="mwTg">부정</a>을 사용하여</p>
+<dl id="mwTw"><dd id="mwUA"><span class="mwe-math-element mwe-math-element-inline" typeof="mw:Extension/math" about="#mwt11" data-mw="{&quot;name&quot;:&quot;math&quot;,&quot;attrs&quot;:{},&quot;body&quot;:{&quot;extsrc&quot;:&quot;P \\veebar Q = (P \\land \\lnot Q) \\lor (\\lnot P \\land Q)&quot;}}" id="mwUQ"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle P\veebar Q=(P\land \lnot Q)\lor (\lnot P\land Q)}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>P</mi>
+        <mo>⊻<!-- ⊻ --></mo>
+        <mi>Q</mi>
+        <mo>=</mo>
+        <mo stretchy="false">(</mo>
+        <mi>P</mi>
+        <mo>∧<!-- ∧ --></mo>
+        <mi mathvariant="normal">¬<!-- ¬ --></mi>
+        <mi>Q</mi>
+        <mo stretchy="false">)</mo>
+        <mo>∨<!-- ∨ --></mo>
+        <mo stretchy="false">(</mo>
+        <mi mathvariant="normal">¬<!-- ¬ --></mi>
+        <mi>P</mi>
+        <mo>∧<!-- ∧ --></mo>
+        <mi>Q</mi>
+        <mo stretchy="false">)</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle P\veebar Q=(P\land \lnot Q)\lor (\lnot P\land Q)}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/c9b9f8f17bc1a2287e7930ab48ef3377a416f150" class="mwe-math-fallback-image-inline mw-invert skin-invert" aria-hidden="true" style="vertical-align: -0.838ex; width:30.769ex; height:2.843ex;" alt="{\displaystyle P\veebar Q=(P\land \lnot Q)\lor (\lnot P\land Q)}"></span></dd>
+<dd id="mwUg"><span class="mwe-math-element mwe-math-element-inline" typeof="mw:Extension/math" about="#mwt12" data-mw="{&quot;name&quot;:&quot;math&quot;,&quot;attrs&quot;:{},&quot;body&quot;:{&quot;extsrc&quot;:&quot;P \\veebar Q = (P \\lor Q) \\land (\\lnot P \\lor \\lnot Q)&quot;}}" id="mwUw"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle P\veebar Q=(P\lor Q)\land (\lnot P\lor \lnot Q)}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>P</mi>
+        <mo>⊻<!-- ⊻ --></mo>
+        <mi>Q</mi>
+        <mo>=</mo>
+        <mo stretchy="false">(</mo>
+        <mi>P</mi>
+        <mo>∨<!-- ∨ --></mo>
+        <mi>Q</mi>
+        <mo stretchy="false">)</mo>
+        <mo>∧<!-- ∧ --></mo>
+        <mo stretchy="false">(</mo>
+        <mi mathvariant="normal">¬<!-- ¬ --></mi>
+        <mi>P</mi>
+        <mo>∨<!-- ∨ --></mo>
+        <mi mathvariant="normal">¬<!-- ¬ --></mi>
+        <mi>Q</mi>
+        <mo stretchy="false">)</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle P\veebar Q=(P\lor Q)\land (\lnot P\lor \lnot Q)}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/f31053b92aadd2abcb2176e414e19625abc7b470" class="mwe-math-fallback-image-inline mw-invert skin-invert" aria-hidden="true" style="vertical-align: -0.838ex; width:30.769ex; height:2.843ex;" alt="{\displaystyle P\veebar Q=(P\lor Q)\land (\lnot P\lor \lnot Q)}"></span></dd>
+<dd id="mwVA"><span class="mwe-math-element mwe-math-element-inline" typeof="mw:Extension/math" about="#mwt13" data-mw="{&quot;name&quot;:&quot;math&quot;,&quot;attrs&quot;:{},&quot;body&quot;:{&quot;extsrc&quot;:&quot;P \\veebar Q = (P \\lor Q) \\land \\lnot (P \\land Q)&quot;}}" id="mwVQ"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle P\veebar Q=(P\lor Q)\land \lnot (P\land Q)}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>P</mi>
+        <mo>⊻<!-- ⊻ --></mo>
+        <mi>Q</mi>
+        <mo>=</mo>
+        <mo stretchy="false">(</mo>
+        <mi>P</mi>
+        <mo>∨<!-- ∨ --></mo>
+        <mi>Q</mi>
+        <mo stretchy="false">)</mo>
+        <mo>∧<!-- ∧ --></mo>
+        <mi mathvariant="normal">¬<!-- ¬ --></mi>
+        <mo stretchy="false">(</mo>
+        <mi>P</mi>
+        <mo>∧<!-- ∧ --></mo>
+        <mi>Q</mi>
+        <mo stretchy="false">)</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle P\veebar Q=(P\lor Q)\land \lnot (P\land Q)}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/1dd1c8031910393d3bf74149596e7d5a785743a8" class="mwe-math-fallback-image-inline mw-invert skin-invert" aria-hidden="true" style="vertical-align: -0.838ex; width:29.219ex; height:2.843ex;" alt="{\displaystyle P\veebar Q=(P\lor Q)\land \lnot (P\land Q)}"></span></dd></dl>
+<p id="mwVg">라고 표현할 수 있다.</p>
+
+<p id="mwVw">2를 몫으로 하는 <a rel="mw:WikiLink" href="//ko.wikipedia.org/wiki/환_(수학)" title="환 (수학)" id="mwWA">잉여류체</a> <span class="mwe-math-element mwe-math-element-inline" typeof="mw:Extension/math" about="#mwt14" data-mw="{&quot;name&quot;:&quot;math&quot;,&quot;attrs&quot;:{},&quot;body&quot;:{&quot;extsrc&quot;:&quot;\\mathbb{Z} / [2]&quot;}}" id="mwWQ"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle \mathbb {Z} /[2]}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mi mathvariant="double-struck">Z</mi>
+        </mrow>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mo>/</mo>
+        </mrow>
+        <mo stretchy="false">[</mo>
+        <mn>2</mn>
+        <mo stretchy="false">]</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \mathbb {Z} /[2]}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/716f29dd6f4027abef803cd813ca8c62efb2c897" class="mwe-math-fallback-image-inline mw-invert skin-invert" aria-hidden="true" style="vertical-align: -0.838ex; width:5.169ex; height:2.843ex;" alt="{\displaystyle \mathbb {Z} /[2]}"></span>의 가감산(이 체에서는 덧셈과 뺄셈이 같다)은 0을 거짓, 1을 참으로 생각하면 배타적 논리합이 된다. 같은 종류(거짓이나 참)를 더하면 거짓이 되고 다른 종류를 더하면 참이 된다.</p>
+
+<section data-mw-section-id="3" id="mwWg" aria-labelledby="진리표"><div class="mw-heading mw-heading3"><h3 id="진리표"><span id=".EC.A7.84.EB.A6.AC.ED.91.9C" typeof="mw:FallbackId"></span>진리표</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="//ko.wikipedia.org/w/index.php?title=%EB%B0%B0%ED%83%80%EC%A0%81_%EB%85%BC%EB%A6%AC%ED%95%A9&amp;action=edit&amp;section=3" title="부분 편집: 진리표"><span>편집</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<!-- border=1 cellpadding=2 cellspacing=0 style="margin&#x2D;left:40px" -->
+<table class="wikitable" id="mwWw">
+<tbody id="mwXA"><tr style="background-color:#ccccff" id="mwXQ">
+<th id="mwXg">명제 <i id="mwXw">P</i></th><th id="mwYA">명제 <i id="mwYQ">Q</i></th><th id="mwYg"><i id="mwYw">P ⊻ Q</i></th></tr>
+<tr align="center" id="mwZA">
+<td id="mwZQ">1</td><td id="mwZg">1</td><td id="mwZw">0</td></tr>
+<tr align="center" id="mwaA">
+<td id="mwaQ">1</td><td id="mwag">0</td><td id="mwaw">1</td></tr>
+<tr align="center" id="mwbA">
+<td id="mwbQ">0</td><td id="mwbg">1</td><td id="mwbw">1</td></tr>
+<tr align="center" id="mwcA">
+<td id="mwcQ">0</td><td id="mwcg">0</td><td id="mwcw">0</td></tr>
+</tbody></table>
+
+</section></section><section data-mw-section-id="4" id="mwdA" aria-labelledby="비트간_배타적_논리합"><div class="mw-heading mw-heading2"><h2 id="비트간_배타적_논리합"><span id=".EB.B9.84.ED.8A.B8.EA.B0.84_.EB.B0.B0.ED.83.80.EC.A0.81_.EB.85.BC.EB.A6.AC.ED.95.A9" typeof="mw:FallbackId"></span>비트간 배타적 논리합</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="//ko.wikipedia.org/w/index.php?title=%EB%B0%B0%ED%83%80%EC%A0%81_%EB%85%BC%EB%A6%AC%ED%95%A9&amp;action=edit&amp;section=4" title="부분 편집: 비트간 배타적 논리합"><span>편집</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p id="mwdQ"><a rel="mw:WikiLink" href="//ko.wikipedia.org/wiki/이진법" title="이진법" id="mwdg">이진법</a>으로 표현한 수의 각 <a rel="mw:WikiLink" href="//ko.wikipedia.org/wiki/비트_(단위)" title="비트 (단위)" id="mwdw">비트</a>에 대한 2진 집합체 <span class="mwe-math-element mwe-math-element-inline" typeof="mw:Extension/math" about="#mwt15" data-mw="{&quot;name&quot;:&quot;math&quot;,&quot;attrs&quot;:{},&quot;body&quot;:{&quot;extsrc&quot;:&quot;\\mathbb{Z} / [2]&quot;}}" id="mweA"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle \mathbb {Z} /[2]}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mi mathvariant="double-struck">Z</mi>
+        </mrow>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mo>/</mo>
+        </mrow>
+        <mo stretchy="false">[</mo>
+        <mn>2</mn>
+        <mo stretchy="false">]</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \mathbb {Z} /[2]}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/716f29dd6f4027abef803cd813ca8c62efb2c897" class="mwe-math-fallback-image-inline mw-invert skin-invert" aria-hidden="true" style="vertical-align: -0.838ex; width:5.169ex; height:2.843ex;" alt="{\displaystyle \mathbb {Z} /[2]}"></span> 에 가감산(0은 거짓, 1은 참으로 생각하고 배타적 논리합을 함)의 결과를 <b id="mweQ">비트간 배타적 논리합</b>, <b id="mweg">배타적 비트화</b>라고 하며 단순하게 <b id="mwew">배타적 논리합</b>이라고도 한다.</p>
+
+<p id="mwfA">비트간 배타적 논리합은 이진 <a rel="mw:WikiLink" href="//ko.wikipedia.org/wiki/유한체" title="유한체" id="mwfQ">유한체</a> <span class="mwe-math-element mwe-math-element-inline" typeof="mw:Extension/math" about="#mwt16" data-mw="{&quot;name&quot;:&quot;math&quot;,&quot;attrs&quot;:{},&quot;body&quot;:{&quot;extsrc&quot;:&quot;\\mathrm{GF}(2^n), n \\in \\mathbb{N}&quot;}}" id="mwfg"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle \mathrm {GF} (2^{n}),n\in \mathbb {N} }">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mi mathvariant="normal">G</mi>
+          <mi mathvariant="normal">F</mi>
+        </mrow>
+        <mo stretchy="false">(</mo>
+        <msup>
+          <mn>2</mn>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>n</mi>
+          </mrow>
+        </msup>
+        <mo stretchy="false">)</mo>
+        <mo>,</mo>
+        <mi>n</mi>
+        <mo>∈<!-- ∈ --></mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mi mathvariant="double-struck">N</mi>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \mathrm {GF} (2^{n}),n\in \mathbb {N} }</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/2d294d1f91c1aa64bfac8bfb1d2376413880934f" class="mwe-math-fallback-image-inline mw-invert skin-invert" aria-hidden="true" style="vertical-align: -0.838ex; width:14.48ex; height:2.843ex;" alt="{\displaystyle \mathrm {GF} (2^{n}),n\in \mathbb {N} }"></span> 로 가감산(덧셈과 뺄셈이 같음)에 동일하다. 추가로, <span class="mwe-math-element mwe-math-element-inline" typeof="mw:Extension/math" about="#mwt17" data-mw="{&quot;name&quot;:&quot;math&quot;,&quot;attrs&quot;:{},&quot;body&quot;:{&quot;extsrc&quot;:&quot;\\mathbb{Z} / [2]&quot;}}" id="mwfw"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle \mathbb {Z} /[2]}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mi mathvariant="double-struck">Z</mi>
+        </mrow>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mo>/</mo>
+        </mrow>
+        <mo stretchy="false">[</mo>
+        <mn>2</mn>
+        <mo stretchy="false">]</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \mathbb {Z} /[2]}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/716f29dd6f4027abef803cd813ca8c62efb2c897" class="mwe-math-fallback-image-inline mw-invert skin-invert" aria-hidden="true" style="vertical-align: -0.838ex; width:5.169ex; height:2.843ex;" alt="{\displaystyle \mathbb {Z} /[2]}"></span>는, 이진 유한체 <span class="mwe-math-element mwe-math-element-inline" typeof="mw:Extension/math" about="#mwt18" data-mw="{&quot;name&quot;:&quot;math&quot;,&quot;attrs&quot;:{},&quot;body&quot;:{&quot;extsrc&quot;:&quot;\\mathrm{GF}(2)\\,&quot;}}" id="mwgA"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle \mathrm {GF} (2)\,}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mi mathvariant="normal">G</mi>
+          <mi mathvariant="normal">F</mi>
+        </mrow>
+        <mo stretchy="false">(</mo>
+        <mn>2</mn>
+        <mo stretchy="false">)</mo>
+        <mspace width="thinmathspace"></mspace>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \mathrm {GF} (2)\,}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/9529a3f496e99a8198a0914be6dcee3d5145daed" class="mwe-math-fallback-image-inline mw-invert skin-invert" aria-hidden="true" style="vertical-align: -0.838ex; width:6.701ex; height:2.843ex;" alt="{\displaystyle \mathrm {GF} (2)\,}"></span>이다.</p>
+
+<p id="mwgQ">0(거짓)과 1(참)에 대한 배타적 논리합과 비트간 배타적 논리합은 같다. 하지만 0과 1이외 다른 형태의 데이터가 있는 환경에서는 다른 형태의 데이터와 배타적 논리합(비트간 배타적 논리합이 아님)이 되어 결과적으로는 비트간 배타적 논리합과 다른 결과가 나오므로 주의해야 한다.</p>
+
+<p id="mwgg">비트간 배타적 논리합은 비트 연산에서 특정 비트를 반전시키는 데 사용된다. 어느 수에서 반전을 하고 싶은 부분의 비트를 1로이 채워진 수와 배타적 논리합을 하면 지정된 부분이 반전된 수를 얻을 수 있다</p>
+<dl id="mwgw"><dd id="mwhA"><span class="mwe-math-element mwe-math-element-inline" typeof="mw:Extension/math" about="#mwt19" data-mw="{&quot;name&quot;:&quot;math&quot;,&quot;attrs&quot;:{},&quot;body&quot;:{&quot;extsrc&quot;:&quot;0011_{(2)} \\oplus 0110_{(2)} = 0101_{(2)}&quot;}}" id="mwhQ"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle 0011_{(2)}\oplus 0110_{(2)}=0101_{(2)}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mn>0011</mn>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mo stretchy="false">(</mo>
+            <mn>2</mn>
+            <mo stretchy="false">)</mo>
+          </mrow>
+        </msub>
+        <mo>⊕<!-- ⊕ --></mo>
+        <msub>
+          <mn>0110</mn>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mo stretchy="false">(</mo>
+            <mn>2</mn>
+            <mo stretchy="false">)</mo>
+          </mrow>
+        </msub>
+        <mo>=</mo>
+        <msub>
+          <mn>0101</mn>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mo stretchy="false">(</mo>
+            <mn>2</mn>
+            <mo stretchy="false">)</mo>
+          </mrow>
+        </msub>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle 0011_{(2)}\oplus 0110_{(2)}=0101_{(2)}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/abfe6543f0f3a19aabe42d6df5a656665c2f5401" class="mwe-math-fallback-image-inline mw-invert skin-invert" aria-hidden="true" style="vertical-align: -1.171ex; width:26.889ex; height:3.009ex;" alt="{\displaystyle 0011_{(2)}\oplus 0110_{(2)}=0101_{(2)}}"></span> .</dd></dl>
+
+<p id="mwhg">비트간 배타적 논리합으로, 다수의 입력에 대한 오류 <a rel="mw:WikiLink" href="//ko.wikipedia.org/wiki/짝수" title="짝수" class="mw-redirect" id="mwhw">짝수</a> <a rel="mw:WikiLink" href="//ko.wikipedia.org/wiki/홀수" title="홀수" class="mw-redirect" id="mwiA">홀수</a> <a rel="mw:WikiLink" href="//ko.wikipedia.org/wiki/패리티" title="패리티" class="mw-disambig" id="mwiQ">패리티</a>를 계산하여 <a rel="mw:WikiLink" href="//ko.wikipedia.org/wiki/오류_검출" title="오류 검출" class="mw-redirect" id="mwig">오류 검출</a>에 사용된다. 이 목적으로 배타적 논리합(<a rel="mw:WikiLink" href="//ko.wikipedia.org/wiki/논리_게이트" title="논리 게이트" class="mw-redirect" id="mwiw">논리 게이트</a>)을 트리 구조로 접속된 회로를 <a rel="mw:WikiLink" href="//ko.wikipedia.org/wiki/패리티_트리?action=edit&amp;redlink=1" title="패리티 트리 (없는 문서)" class="new" typeof="mw:LocalizedAttrs" id="mwjA" data-mw-i18n="{&quot;title&quot;:{&quot;lang&quot;:&quot;x-page&quot;,&quot;key&quot;:&quot;red-link-title&quot;,&quot;params&quot;:[&quot;패리티 트리&quot;]}}">패리티 트리</a>라고 한다.</p>
+
+<section data-mw-section-id="5" id="mwjQ" aria-labelledby="암호_키에_사용"><div class="mw-heading mw-heading3"><h3 id="암호_키에_사용"><span id=".EC.95.94.ED.98.B8_.ED.82.A4.EC.97.90_.EC.82.AC.EC.9A.A9" typeof="mw:FallbackId"></span>암호 키에 사용</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="//ko.wikipedia.org/w/index.php?title=%EB%B0%B0%ED%83%80%EC%A0%81_%EB%85%BC%EB%A6%AC%ED%95%A9&amp;action=edit&amp;section=5" title="부분 편집: 암호 키에 사용"><span>편집</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p id="mwjg">비트간 배타적 논리합은 특정 비트의 반전이므로, 2회 반복하면 원래대로 된다. 즉</p>
+<dl id="mwjw"><dd id="mwkA"><span class="mwe-math-element mwe-math-element-inline" typeof="mw:Extension/math" about="#mwt20" data-mw="{&quot;name&quot;:&quot;math&quot;,&quot;attrs&quot;:{},&quot;body&quot;:{&quot;extsrc&quot;:&quot;(P \\oplus K) \\oplus K = P&quot;}}" id="mwkQ"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle (P\oplus K)\oplus K=P}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mo stretchy="false">(</mo>
+        <mi>P</mi>
+        <mo>⊕<!-- ⊕ --></mo>
+        <mi>K</mi>
+        <mo stretchy="false">)</mo>
+        <mo>⊕<!-- ⊕ --></mo>
+        <mi>K</mi>
+        <mo>=</mo>
+        <mi>P</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle (P\oplus K)\oplus K=P}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/38e5063e443ced8f3eed4c0b01482bc171489d4d" class="mwe-math-fallback-image-inline mw-invert skin-invert" aria-hidden="true" style="vertical-align: -0.838ex; width:18.211ex; height:2.843ex;" alt="{\displaystyle (P\oplus K)\oplus K=P}"></span></dd></dl>
+<p id="mwkg">이것을 이용하여, <span class="mwe-math-element mwe-math-element-inline" typeof="mw:Extension/math" about="#mwt21" data-mw="{&quot;name&quot;:&quot;math&quot;,&quot;attrs&quot;:{},&quot;body&quot;:{&quot;extsrc&quot;:&quot;K&quot;}}" id="mwkw"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle K}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>K</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle K}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/2b76fce82a62ed5461908f0dc8f037de4e3686b0" class="mwe-math-fallback-image-inline mw-invert skin-invert" aria-hidden="true" style="vertical-align: -0.338ex; width:2.066ex; height:2.176ex;" alt="{\displaystyle K}"></span>의 키를 사용하여 <a rel="mw:WikiLink" href="//ko.wikipedia.org/wiki/암호" title="암호" class="mw-disambig" id="mwlA">암호</a>화할 수 있다. <span class="mwe-math-element mwe-math-element-inline" typeof="mw:Extension/math" about="#mwt22" data-mw="{&quot;name&quot;:&quot;math&quot;,&quot;attrs&quot;:{},&quot;body&quot;:{&quot;extsrc&quot;:&quot;P\\,&quot;}}" id="mwlQ"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle P\,}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>P</mi>
+        <mspace width="thinmathspace"></mspace>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle P\,}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/f60e07ebc2aadee94e4cbbccef71fd9bcf44f5f9" class="mwe-math-fallback-image-inline mw-invert skin-invert" aria-hidden="true" style="vertical-align: -0.338ex; width:2.133ex; height:2.176ex;" alt="{\displaystyle P\,}"></span>를 암호화하면 <span class="mwe-math-element mwe-math-element-inline" typeof="mw:Extension/math" about="#mwt23" data-mw="{&quot;name&quot;:&quot;math&quot;,&quot;attrs&quot;:{},&quot;body&quot;:{&quot;extsrc&quot;:&quot;P \\oplus K&quot;}}" id="mwlg"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle P\oplus K}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>P</mi>
+        <mo>⊕<!-- ⊕ --></mo>
+        <mi>K</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle P\oplus K}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/0d84e36a40cbde907dc07eb7b69c41afc854613c" class="mwe-math-fallback-image-inline mw-invert skin-invert" aria-hidden="true" style="vertical-align: -0.505ex; width:6.652ex; height:2.343ex;" alt="{\displaystyle P\oplus K}"></span>가 된다.</p>
+
+<p id="mwlw">위의 예시를 들자면, <span class="mwe-math-element mwe-math-element-inline" typeof="mw:Extension/math" about="#mwt24" data-mw="{&quot;name&quot;:&quot;math&quot;,&quot;attrs&quot;:{},&quot;body&quot;:{&quot;extsrc&quot;:&quot;0011_{(2)}&quot;}}" id="mwmA"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle 0011_{(2)}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mn>0011</mn>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mo stretchy="false">(</mo>
+            <mn>2</mn>
+            <mo stretchy="false">)</mo>
+          </mrow>
+        </msub>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle 0011_{(2)}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/b2a3c949eb0ab5530159b3220f6f7e40f73b509f" class="mwe-math-fallback-image-inline mw-invert skin-invert" aria-hidden="true" style="vertical-align: -1.171ex; width:6.983ex; height:3.009ex;" alt="{\displaystyle 0011_{(2)}}"></span>는 키 <span class="mwe-math-element mwe-math-element-inline" typeof="mw:Extension/math" about="#mwt25" data-mw="{&quot;name&quot;:&quot;math&quot;,&quot;attrs&quot;:{},&quot;body&quot;:{&quot;extsrc&quot;:&quot;0110_{(2)}&quot;}}" id="mwmQ"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle 0110_{(2)}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mn>0110</mn>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mo stretchy="false">(</mo>
+            <mn>2</mn>
+            <mo stretchy="false">)</mo>
+          </mrow>
+        </msub>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle 0110_{(2)}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/dba40e261c19f813b830f2e1368043ff7c967d8f" class="mwe-math-fallback-image-inline mw-invert skin-invert" aria-hidden="true" style="vertical-align: -1.171ex; width:6.983ex; height:3.009ex;" alt="{\displaystyle 0110_{(2)}}"></span>를 이용하여 <span class="mwe-math-element mwe-math-element-inline" typeof="mw:Extension/math" about="#mwt26" data-mw="{&quot;name&quot;:&quot;math&quot;,&quot;attrs&quot;:{},&quot;body&quot;:{&quot;extsrc&quot;:&quot;0101_{(2)}&quot;}}" id="mwmg"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle 0101_{(2)}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mn>0101</mn>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mo stretchy="false">(</mo>
+            <mn>2</mn>
+            <mo stretchy="false">)</mo>
+          </mrow>
+        </msub>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle 0101_{(2)}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/3ae71056c71c48f1157a263620536dbffb76ab80" class="mwe-math-fallback-image-inline mw-invert skin-invert" aria-hidden="true" style="vertical-align: -1.171ex; width:6.983ex; height:3.009ex;" alt="{\displaystyle 0101_{(2)}}"></span>로 암호화되며,</p>
+<dl id="mwmw"><dd id="mwnA"><span class="mwe-math-element mwe-math-element-inline" typeof="mw:Extension/math" about="#mwt27" data-mw="{&quot;name&quot;:&quot;math&quot;,&quot;attrs&quot;:{},&quot;body&quot;:{&quot;extsrc&quot;:&quot;0101_{(2)} \\oplus 0110_{(2)} = 0011_{(2)}&quot;}}" id="mwnQ"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle 0101_{(2)}\oplus 0110_{(2)}=0011_{(2)}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mn>0101</mn>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mo stretchy="false">(</mo>
+            <mn>2</mn>
+            <mo stretchy="false">)</mo>
+          </mrow>
+        </msub>
+        <mo>⊕<!-- ⊕ --></mo>
+        <msub>
+          <mn>0110</mn>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mo stretchy="false">(</mo>
+            <mn>2</mn>
+            <mo stretchy="false">)</mo>
+          </mrow>
+        </msub>
+        <mo>=</mo>
+        <msub>
+          <mn>0011</mn>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mo stretchy="false">(</mo>
+            <mn>2</mn>
+            <mo stretchy="false">)</mo>
+          </mrow>
+        </msub>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle 0101_{(2)}\oplus 0110_{(2)}=0011_{(2)}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/ab57c8e7fbe6db93b8f90625ff66547c6accaf8c" class="mwe-math-fallback-image-inline mw-invert skin-invert" aria-hidden="true" style="vertical-align: -1.171ex; width:26.889ex; height:3.009ex;" alt="{\displaystyle 0101_{(2)}\oplus 0110_{(2)}=0011_{(2)}}"></span></dd></dl>
+<p id="mwng">라고 키를 이용하여 암호를 복원할 수 있다. 단지 이것만으로 쉽게 풀려버리기 때문에 실제 암호화에는 다른 여러 가지 연산을 같이 사용한다.</p>
+
+</section></section><section data-mw-section-id="6" id="mwnw" aria-labelledby="같이_보기"><div class="mw-heading mw-heading2"><h2 id="같이_보기"><span id=".EA.B0.99.EC.9D.B4_.EB.B3.B4.EA.B8.B0" typeof="mw:FallbackId"></span>같이 보기</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="//ko.wikipedia.org/w/index.php?title=%EB%B0%B0%ED%83%80%EC%A0%81_%EB%85%BC%EB%A6%AC%ED%95%A9&amp;action=edit&amp;section=6" title="부분 편집: 같이 보기"><span>편집</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<ul id="mwoA"><li id="mwoQ"><a rel="mw:WikiLink" href="//ko.wikipedia.org/wiki/진리값" title="진리값" class="mw-redirect" id="mwog">진리값</a></li>
+<li id="mwow"><a rel="mw:WikiLink" href="//ko.wikipedia.org/wiki/진리표" title="진리표" id="mwpA">진리표</a></li>
+<li id="mwpQ"><a rel="mw:WikiLink" href="//ko.wikipedia.org/wiki/불_대수" title="불 대수" id="mwpg">불 대수</a></li>
+<li id="mwpw"><a rel="mw:WikiLink" href="//ko.wikipedia.org/wiki/벤_다이어그램" title="벤 다이어그램" id="mwqA">벤 다이어그램</a></li>
+<li id="mwqQ"><a rel="mw:WikiLink" href="//ko.wikipedia.org/wiki/XOR_교체_알고리즘" title="XOR 교체 알고리즘" id="mwqg">XOR 스왑 알고리즘</a></li></ul>
+
+<div class="navbox-styles" about="#mwt28" typeof="mw:Transclusion" data-mw="{&quot;parts&quot;:[{&quot;template&quot;:{&quot;target&quot;:{&quot;wt&quot;:&quot;논리 연산&quot;,&quot;href&quot;:&quot;./틀:논리_연산&quot;},&quot;params&quot;:{},&quot;i&quot;:0}}]}" id="mwqw"><style data-mw-deduplicate="TemplateStyles:r40956656" typeof="mw:Extension/templatestyles" about="#mwt29" data-mw="{&quot;name&quot;:&quot;templatestyles&quot;,&quot;attrs&quot;:{&quot;src&quot;:&quot;Hlist/styles.css&quot;},&quot;body&quot;:{&quot;extsrc&quot;:&quot;&quot;}}">.mw-parser-output .hlist dl,.mw-parser-output .hlist ol,.mw-parser-output .hlist ul{margin:0;padding:0}.mw-parser-output .hlist dd,.mw-parser-output .hlist dt,.mw-parser-output .hlist li{margin:0;display:inline}.mw-parser-output .hlist.inline,.mw-parser-output .hlist.inline dl,.mw-parser-output .hlist.inline ol,.mw-parser-output .hlist.inline ul,.mw-parser-output .hlist dl dl,.mw-parser-output .hlist dl ol,.mw-parser-output .hlist dl ul,.mw-parser-output .hlist ol dl,.mw-parser-output .hlist ol ol,.mw-parser-output .hlist ol ul,.mw-parser-output .hlist ul dl,.mw-parser-output .hlist ul ol,.mw-parser-output .hlist ul ul{display:inline}.mw-parser-output .hlist .mw-empty-li{display:none}.mw-parser-output .hlist dt::after{content:": "}.mw-parser-output .hlist dd::after,.mw-parser-output .hlist li::after{content:" · ";font-weight:bold}.mw-parser-output .hlist dd:last-child::after,.mw-parser-output .hlist dt:last-child::after,.mw-parser-output .hlist li:last-child::after{content:none}.mw-parser-output .hlist dd dd:first-child::before,.mw-parser-output .hlist dd dt:first-child::before,.mw-parser-output .hlist dd li:first-child::before,.mw-parser-output .hlist dt dd:first-child::before,.mw-parser-output .hlist dt dt:first-child::before,.mw-parser-output .hlist dt li:first-child::before,.mw-parser-output .hlist li dd:first-child::before,.mw-parser-output .hlist li dt:first-child::before,.mw-parser-output .hlist li li:first-child::before{content:" (";font-weight:normal}.mw-parser-output .hlist dd dd:last-child::after,.mw-parser-output .hlist dd dt:last-child::after,.mw-parser-output .hlist dd li:last-child::after,.mw-parser-output .hlist dt dd:last-child::after,.mw-parser-output .hlist dt dt:last-child::after,.mw-parser-output .hlist dt li:last-child::after,.mw-parser-output .hlist li dd:last-child::after,.mw-parser-output .hlist li dt:last-child::after,.mw-parser-output .hlist li li:last-child::after{content:")";font-weight:normal}.mw-parser-output .hlist ol{counter-reset:listitem}.mw-parser-output .hlist ol>li{counter-increment:listitem}.mw-parser-output .hlist ol>li::before{content:" "counter(listitem)"\a0 "}.mw-parser-output .hlist dd ol>li:first-child::before,.mw-parser-output .hlist dt ol>li:first-child::before,.mw-parser-output .hlist li ol>li:first-child::before{content:" ("counter(listitem)"\a0 "}.mw-parser-output .hlist-pipe dd:after,.mw-parser-output .hlist-pipe li:after{content:" | ";font-weight:normal}.mw-parser-output .hlist-hyphen dd:after,.mw-parser-output .hlist-hyphen li:after{content:" - ";font-weight:normal}.mw-parser-output .hlist-comma dd:after,.mw-parser-output .hlist-comma li:after{content:", ";font-weight:normal}.mw-parser-output .hlist-slash dd:after,.mw-parser-output .hlist-slash li:after{content:" / ";font-weight:normal}</style><style data-mw-deduplicate="TemplateStyles:r39133083" typeof="mw:Extension/templatestyles" about="#mwt30" data-mw="{&quot;name&quot;:&quot;templatestyles&quot;,&quot;attrs&quot;:{&quot;src&quot;:&quot;Module:Navbox/styles.css&quot;},&quot;body&quot;:{&quot;extsrc&quot;:&quot;&quot;}}">.mw-parser-output .navbox{box-sizing:border-box;border:1px solid #a2a9b1;width:100%;clear:both;font-size:88%;text-align:center;padding:1px;margin:1em auto 0}.mw-parser-output .navbox .navbox{margin-top:0}.mw-parser-output .navbox+.navbox,.mw-parser-output .navbox+.navbox-styles+.navbox{margin-top:-1px}.mw-parser-output .navbox-inner,.mw-parser-output .navbox-subgroup{width:100%}.mw-parser-output .navbox-group,.mw-parser-output .navbox-title,.mw-parser-output .navbox-abovebelow{padding:0.25em 1em;line-height:1.5em;text-align:center}.mw-parser-output .navbox-group{white-space:nowrap;text-align:right}.mw-parser-output .navbox,.mw-parser-output .navbox-subgroup{background-color:#fdfdfd}.mw-parser-output .navbox-list{line-height:1.5em;border-color:#fdfdfd}.mw-parser-output .navbox-list-with-group{text-align:left;border-left-width:2px;border-left-style:solid}.mw-parser-output tr+tr>.navbox-abovebelow,.mw-parser-output tr+tr>.navbox-group,.mw-parser-output tr+tr>.navbox-image,.mw-parser-output tr+tr>.navbox-list{border-top:2px solid #fdfdfd}.mw-parser-output .navbox-title{background-color:#ccf}.mw-parser-output .navbox-abovebelow,.mw-parser-output .navbox-group,.mw-parser-output .navbox-subgroup .navbox-title{background-color:#ddf}.mw-parser-output .navbox-subgroup .navbox-group,.mw-parser-output .navbox-subgroup .navbox-abovebelow{background-color:#e6e6ff}.mw-parser-output .navbox-even{background-color:#f7f7f7}.mw-parser-output .navbox-odd{background-color:transparent}.mw-parser-output .navbox .hlist td dl,.mw-parser-output .navbox .hlist td ol,.mw-parser-output .navbox .hlist td ul,.mw-parser-output .navbox td.hlist dl,.mw-parser-output .navbox td.hlist ol,.mw-parser-output .navbox td.hlist ul{padding:0.125em 0}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}body.skin--responsive .mw-parser-output .navbox-image img{max-width:none!important}@media print{body.ns-0 .mw-parser-output .navbox{display:none!important}}</style></div><div role="navigation" class="navbox" aria-labelledby="주요_논리_연산" style="padding:3px" about="#mwt28" id="mwrA"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r40956656" about="#mwt31" typeof="mw:Extension/templatestyles" data-mw="{&quot;name&quot;:&quot;templatestyles&quot;,&quot;attrs&quot;:{&quot;src&quot;:&quot;Hlist/styles.css&quot;},&quot;body&quot;:{&quot;extsrc&quot;:&quot;&quot;}}"><style data-mw-deduplicate="TemplateStyles:r40956686" typeof="mw:Extension/templatestyles" about="#mwt32" data-mw="{&quot;name&quot;:&quot;templatestyles&quot;,&quot;attrs&quot;:{&quot;src&quot;:&quot;Module:Navbar/styles.css&quot;},&quot;body&quot;:{&quot;extsrc&quot;:&quot;&quot;}}">.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar a>span,.mw-parser-output .navbar a>abbr{text-decoration:inherit}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}html.skin-theme-clientpref-night .mw-parser-output .navbar li a abbr{color:var(--color-base)!important}@media(prefers-color-scheme:dark){html.skin-theme-clientpref-os .mw-parser-output .navbar li a abbr{color:var(--color-base)!important}}@media print{.mw-parser-output .navbar{display:none!important}}</style><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv-보기"><a rel="mw:WikiLink" href="//ko.wikipedia.org/wiki/틀:논리_연산" title="틀:논리 연산"><abbr title="이 틀을 보기" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li><li class="nv-토론"><a rel="mw:WikiLink" href="//ko.wikipedia.org/wiki/틀토론:논리_연산?action=edit&amp;redlink=1" title="틀토론:논리 연산 (없는 문서)" class="new" typeof="mw:LocalizedAttrs" data-mw-i18n="{&quot;title&quot;:{&quot;lang&quot;:&quot;x-page&quot;,&quot;key&quot;:&quot;red-link-title&quot;,&quot;params&quot;:[&quot;틀토론:논리 연산&quot;]}}"><abbr title="이 틀에 관해 토론하기" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li><li class="nv-편집"><a rel="mw:WikiLink" href="//ko.wikipedia.org/wiki/특수:문서편집/틀:논리_연산" title="특수:문서편집/틀:논리 연산"><abbr title="이 틀을 편집하기" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li></ul></div><div id="주요_논리_연산" style="font-size:114%;margin:0 4em">주요 <a rel="mw:WikiLink" href="//ko.wikipedia.org/wiki/논리_연산" title="논리 연산">논리 연산</a></div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a rel="mw:WikiLink" href="//ko.wikipedia.org/wiki/항진식" title="항진식">항진</a>/<a rel="mw:WikiLink" href="//ko.wikipedia.org/wiki/논리적_참" title="논리적 참">참</a><span typeof="mw:Entity">&nbsp;</span><span class="mwe-math-element mwe-math-element-inline" typeof="mw:Extension/math" about="#mwt33" data-mw="{&quot;name&quot;:&quot;math&quot;,&quot;attrs&quot;:{},&quot;body&quot;:{&quot;extsrc&quot;:&quot;\\top&quot;}}"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle \top }">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi mathvariant="normal">⊤<!-- ⊤ --></mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \top }</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/cf12e436fef2365e76fcb1034a51179d8328bb33" class="mwe-math-fallback-image-inline mw-invert skin-invert" aria-hidden="true" style="vertical-align: -0.338ex; width:1.808ex; height:2.176ex;" alt="{\displaystyle \top }"></span></li></ul>
+</div></td></tr><tr><td colspan="2" class="navbox-list navbox-even hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a rel="mw:WikiLink" href="//ko.wikipedia.org/wiki/부정논리곱" title="부정논리곱">부정논리곱 (NAND)</a><span typeof="mw:Entity">&nbsp;</span>(<a rel="mw:WikiLink" href="//ko.wikipedia.org/wiki/NAND_게이트" title="NAND 게이트">NAND 게이트</a>)<span typeof="mw:Entity">&nbsp;</span><span class="mwe-math-element mwe-math-element-inline" typeof="mw:Extension/math" about="#mwt34" data-mw="{&quot;name&quot;:&quot;math&quot;,&quot;attrs&quot;:{},&quot;body&quot;:{&quot;extsrc&quot;:&quot;\\overline{\\wedge}&quot;}}"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle {\overline {\wedge }}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mover>
+            <mo>∧<!-- ∧ --></mo>
+            <mo accent="false">¯<!-- ¯ --></mo>
+          </mover>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle {\overline {\wedge }}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/2f076fb91b5d1276ab165ed8dfaa3cacab8d4cef" class="mwe-math-fallback-image-inline mw-invert skin-invert" aria-hidden="true" style="vertical-align: -0.338ex; width:1.665ex; height:2.843ex;" alt="{\displaystyle {\overline {\wedge }}}"></span></li>
+<li><a rel="mw:WikiLink" href="//ko.wikipedia.org/wiki/역_(논리학)" title="역 (논리학)">역 함의</a><span typeof="mw:Entity">&nbsp;</span><span class="mwe-math-element mwe-math-element-inline" typeof="mw:Extension/math" about="#mwt35" data-mw="{&quot;name&quot;:&quot;math&quot;,&quot;attrs&quot;:{},&quot;body&quot;:{&quot;extsrc&quot;:&quot;\\Leftarrow&quot;}}"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle \Leftarrow }">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mo stretchy="false">⇐<!-- ⇐ --></mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \Leftarrow }</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/682eb97b10e06ba3d2dcc642ecd753d34dbb4ef9" class="mwe-math-fallback-image-inline mw-invert skin-invert" aria-hidden="true" style="vertical-align: -0.338ex; width:2.324ex; height:1.843ex;" alt="{\displaystyle \Leftarrow }"></span></li>
+<li><a rel="mw:WikiLink" href="//ko.wikipedia.org/wiki/실질_조건문" title="실질 조건문">함의</a><span typeof="mw:Entity">&nbsp;</span>(<a rel="mw:WikiLink" href="//ko.wikipedia.org/wiki/IMPLY_게이트?action=edit&amp;redlink=1" title="IMPLY 게이트 (없는 문서)" class="new" typeof="mw:LocalizedAttrs" data-mw-i18n="{&quot;title&quot;:{&quot;lang&quot;:&quot;x-page&quot;,&quot;key&quot;:&quot;red-link-title&quot;,&quot;params&quot;:[&quot;IMPLY 게이트&quot;]}}">IMPLY 게이트</a>)<span typeof="mw:Entity">&nbsp;</span><span class="mwe-math-element mwe-math-element-inline" typeof="mw:Extension/math" about="#mwt36" data-mw="{&quot;name&quot;:&quot;math&quot;,&quot;attrs&quot;:{},&quot;body&quot;:{&quot;extsrc&quot;:&quot;\\Rightarrow&quot;}}"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle \Rightarrow }">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mo stretchy="false">⇒<!-- ⇒ --></mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \Rightarrow }</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/469b737d167b9b28a74e27c7f5e35b5ea9256100" class="mwe-math-fallback-image-inline mw-invert skin-invert" aria-hidden="true" style="vertical-align: -0.338ex; width:2.324ex; height:1.843ex;" alt="{\displaystyle \Rightarrow }"></span></li>
+<li><a rel="mw:WikiLink" href="//ko.wikipedia.org/wiki/논리합" title="논리합">논리합</a><span typeof="mw:Entity">&nbsp;</span>(<a rel="mw:WikiLink" href="//ko.wikipedia.org/wiki/OR_게이트" title="OR 게이트">OR 게이트</a>)<span typeof="mw:Entity">&nbsp;</span><span class="mwe-math-element mwe-math-element-inline" typeof="mw:Extension/math" about="#mwt37" data-mw="{&quot;name&quot;:&quot;math&quot;,&quot;attrs&quot;:{},&quot;body&quot;:{&quot;extsrc&quot;:&quot;\\lor&quot;}}"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle \lor }">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mo>∨<!-- ∨ --></mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \lor }</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/ab47f6b1f589aedcf14638df1d63049d233d851a" class="mwe-math-fallback-image-inline mw-invert skin-invert" aria-hidden="true" style="vertical-align: -0.338ex; width:1.55ex; height:2.009ex;" alt="{\displaystyle \lor }"></span></li></ul>
+</div></td></tr><tr><td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a rel="mw:WikiLink" href="//ko.wikipedia.org/wiki/부정_(논리학)" title="부정 (논리학)">부정</a><span typeof="mw:Entity">&nbsp;</span>(<a rel="mw:WikiLink" href="//ko.wikipedia.org/wiki/NOT_게이트" title="NOT 게이트">NOT 게이트</a>)<span typeof="mw:Entity">&nbsp;</span><span class="mwe-math-element mwe-math-element-inline" typeof="mw:Extension/math" about="#mwt38" data-mw="{&quot;name&quot;:&quot;math&quot;,&quot;attrs&quot;:{},&quot;body&quot;:{&quot;extsrc&quot;:&quot;\\neg&quot;}}"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle \neg }">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi mathvariant="normal">¬<!-- ¬ --></mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \neg }</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/fa78fd02085d39aa58c9e47a6d4033ce41e02fad" class="mwe-math-fallback-image-inline mw-invert skin-invert" aria-hidden="true" style="vertical-align: 0.204ex; margin-bottom: -0.376ex; width:1.55ex; height:1.176ex;" alt="{\displaystyle \neg }"></span></li>
+<li><a rel="mw:WikiLink" href="//ko.wikipedia.org/wiki/배타적_논리합" class="mw-selflink selflink">배타적 논리합</a><span typeof="mw:Entity">&nbsp;</span>(<a rel="mw:WikiLink" href="//ko.wikipedia.org/wiki/XOR_게이트" title="XOR 게이트">XOR 게이트</a>)<span typeof="mw:Entity">&nbsp;</span><span class="mwe-math-element mwe-math-element-inline" typeof="mw:Extension/math" about="#mwt39" data-mw="{&quot;name&quot;:&quot;math&quot;,&quot;attrs&quot;:{},&quot;body&quot;:{&quot;extsrc&quot;:&quot;\\oplus&quot;}}"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle \oplus }">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mo>⊕<!-- ⊕ --></mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \oplus }</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/8b16e2bdaefee9eed86d866e6eba3ac47c710f60" class="mwe-math-fallback-image-inline mw-invert skin-invert" aria-hidden="true" style="vertical-align: -0.505ex; width:1.808ex; height:2.176ex;" alt="{\displaystyle \oplus }"></span></li>
+<li><a rel="mw:WikiLink" href="//ko.wikipedia.org/wiki/논리적_쌍조건문?action=edit&amp;redlink=1" title="논리적 쌍조건문 (없는 문서)" class="new" typeof="mw:LocalizedAttrs" data-mw-i18n="{&quot;title&quot;:{&quot;lang&quot;:&quot;x-page&quot;,&quot;key&quot;:&quot;red-link-title&quot;,&quot;params&quot;:[&quot;논리적 쌍조건문&quot;]}}">쌍조건문</a><span typeof="mw:Entity">&nbsp;</span>(<a rel="mw:WikiLink" href="//ko.wikipedia.org/wiki/XNOR_게이트" title="XNOR 게이트">XNOR 게이트</a>)<span typeof="mw:Entity">&nbsp;</span><span class="mwe-math-element mwe-math-element-inline" typeof="mw:Extension/math" about="#mwt40" data-mw="{&quot;name&quot;:&quot;math&quot;,&quot;attrs&quot;:{},&quot;body&quot;:{&quot;extsrc&quot;:&quot;\\odot&quot;}}"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle \odot }">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mo>⊙<!-- ⊙ --></mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \odot }</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/e89e009eb8a8839c82aa5c76c15e9f2d67006276" class="mwe-math-fallback-image-inline mw-invert skin-invert" aria-hidden="true" style="vertical-align: -0.505ex; width:1.808ex; height:2.176ex;" alt="{\displaystyle \odot }"></span></li>
+<li><a rel="mw:WikiLink" href="//ko.wikipedia.org/wiki/진술_(논리학)?action=edit&amp;redlink=1" title="진술 (논리학) (없는 문서)" class="new" typeof="mw:LocalizedAttrs" data-mw-i18n="{&quot;title&quot;:{&quot;lang&quot;:&quot;x-page&quot;,&quot;key&quot;:&quot;red-link-title&quot;,&quot;params&quot;:[&quot;진술 (논리학)&quot;]}}">진술</a><span typeof="mw:Entity">&nbsp;</span>(<a rel="mw:WikiLink" href="//ko.wikipedia.org/wiki/버퍼_(논리_게이트)?action=edit&amp;redlink=1" title="버퍼 (논리 게이트) (없는 문서)" class="new" typeof="mw:LocalizedAttrs" data-mw-i18n="{&quot;title&quot;:{&quot;lang&quot;:&quot;x-page&quot;,&quot;key&quot;:&quot;red-link-title&quot;,&quot;params&quot;:[&quot;버퍼 (논리 게이트)&quot;]}}">디지털 버퍼</a>)</li></ul>
+</div></td></tr><tr><td colspan="2" class="navbox-list navbox-even hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a rel="mw:WikiLink" href="//ko.wikipedia.org/wiki/부정논리합" title="부정논리합">부정논리합 (NOR)</a><span typeof="mw:Entity">&nbsp;</span>(<a rel="mw:WikiLink" href="//ko.wikipedia.org/wiki/NOR_게이트" title="NOR 게이트">NOR 게이트</a>)<span typeof="mw:Entity">&nbsp;</span><span class="mwe-math-element mwe-math-element-inline" typeof="mw:Extension/math" about="#mwt41" data-mw="{&quot;name&quot;:&quot;math&quot;,&quot;attrs&quot;:{},&quot;body&quot;:{&quot;extsrc&quot;:&quot;\\overline{\\vee}&quot;}}"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle {\overline {\vee }}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mover>
+            <mo>∨<!-- ∨ --></mo>
+            <mo accent="false">¯<!-- ¯ --></mo>
+          </mover>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle {\overline {\vee }}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/a6f9bdf4cb18d1b79d370c396dc425e80f8340f7" class="mwe-math-fallback-image-inline mw-invert skin-invert" aria-hidden="true" style="vertical-align: -0.338ex; width:1.665ex; height:2.843ex;" alt="{\displaystyle {\overline {\vee }}}"></span></li>
+<li><a rel="mw:WikiLink" href="//ko.wikipedia.org/wiki/실질_비함의" title="실질 비함의">실질 비함의</a><span typeof="mw:Entity">&nbsp;</span>(<a rel="mw:WikiLink" href="//ko.wikipedia.org/wiki/NIMPLY_게이트?action=edit&amp;redlink=1" title="NIMPLY 게이트 (없는 문서)" class="new" typeof="mw:LocalizedAttrs" data-mw-i18n="{&quot;title&quot;:{&quot;lang&quot;:&quot;x-page&quot;,&quot;key&quot;:&quot;red-link-title&quot;,&quot;params&quot;:[&quot;NIMPLY 게이트&quot;]}}">NIMPLY 게이트</a>)<span typeof="mw:Entity">&nbsp;</span><span class="mwe-math-element mwe-math-element-inline" typeof="mw:Extension/math" about="#mwt42" data-mw="{&quot;name&quot;:&quot;math&quot;,&quot;attrs&quot;:{},&quot;body&quot;:{&quot;extsrc&quot;:&quot;\\nRightarrow&quot;}}"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle \nRightarrow }">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mo>⇏<!-- ⇏ --></mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \nRightarrow }</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/3e05a42e88f019861cf404b6f982d8f729a4c4ab" class="mwe-math-fallback-image-inline mw-invert skin-invert" aria-hidden="true" style="vertical-align: -0.338ex; width:2.324ex; height:1.843ex;" alt="{\displaystyle \nRightarrow }"></span></li>
+<li><a rel="mw:WikiLink" href="//ko.wikipedia.org/wiki/역_비함의?action=edit&amp;redlink=1" title="역 비함의 (없는 문서)" class="new" typeof="mw:LocalizedAttrs" data-mw-i18n="{&quot;title&quot;:{&quot;lang&quot;:&quot;x-page&quot;,&quot;key&quot;:&quot;red-link-title&quot;,&quot;params&quot;:[&quot;역 비함의&quot;]}}">역 비함의</a><span typeof="mw:Entity">&nbsp;</span><span class="mwe-math-element mwe-math-element-inline" typeof="mw:Extension/math" about="#mwt43" data-mw="{&quot;name&quot;:&quot;math&quot;,&quot;attrs&quot;:{},&quot;body&quot;:{&quot;extsrc&quot;:&quot;\\nLeftarrow&quot;}}"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle \nLeftarrow }">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mo>⇍<!-- ⇍ --></mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \nLeftarrow }</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/746948304d4d6a4903cc7bf82bf687b6f284eb92" class="mwe-math-fallback-image-inline mw-invert skin-invert" aria-hidden="true" style="vertical-align: -0.338ex; width:2.324ex; height:1.843ex;" alt="{\displaystyle \nLeftarrow }"></span></li>
+<li><a rel="mw:WikiLink" href="//ko.wikipedia.org/wiki/논리곱" title="논리곱">논리곱</a><span typeof="mw:Entity">&nbsp;</span>(<a rel="mw:WikiLink" href="//ko.wikipedia.org/wiki/AND_게이트" title="AND 게이트">AND 게이트</a>)<span typeof="mw:Entity">&nbsp;</span><span class="mwe-math-element mwe-math-element-inline" typeof="mw:Extension/math" about="#mwt44" data-mw="{&quot;name&quot;:&quot;math&quot;,&quot;attrs&quot;:{},&quot;body&quot;:{&quot;extsrc&quot;:&quot;\\land&quot;}}"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle \land }">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mo>∧<!-- ∧ --></mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \land }</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/d6823e5a222eb3ca49672818ac3d13ec607052c4" class="mwe-math-fallback-image-inline mw-invert skin-invert" aria-hidden="true" style="vertical-align: -0.338ex; width:1.55ex; height:2.009ex;" alt="{\displaystyle \land }"></span></li></ul>
+</div></td></tr><tr><td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a rel="mw:WikiLink" href="//ko.wikipedia.org/wiki/모순" title="모순">모순</a>/<a rel="mw:WikiLink" href="//ko.wikipedia.org/wiki/거짓" title="거짓">거짓</a><span typeof="mw:Entity">&nbsp;</span><span class="mwe-math-element mwe-math-element-inline" typeof="mw:Extension/math" about="#mwt45" data-mw="{&quot;name&quot;:&quot;math&quot;,&quot;attrs&quot;:{},&quot;body&quot;:{&quot;extsrc&quot;:&quot;\\bot&quot;}}"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle \bot }">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi mathvariant="normal">⊥<!-- ⊥ --></mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \bot }</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/f282c7bc331cc3bfcf1c57f1452cc23c022f58de" class="mwe-math-fallback-image-inline mw-invert skin-invert" aria-hidden="true" style="vertical-align: -0.338ex; width:1.808ex; height:2.176ex;" alt="{\displaystyle \bot }"></span></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div><span typeof="mw:File"><a href="//ko.wikipedia.org/wiki/파일:P_philosophy.png" class="mw-file-description"><img alt="Portal icon" resource="//ko.wikipedia.org/wiki/파일:P_philosophy.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bb/P_philosophy.png/40px-P_philosophy.png" decoding="async" data-file-width="77" data-file-height="68" data-file-type="bitmap" height="28" width="32" srcset="//upload.wikimedia.org/wikipedia/commons/b/bb/P_philosophy.png 2x" class="mw-file-element"></a></span> <a rel="mw:WikiLink" href="//ko.wikipedia.org/wiki/포털:철학" title="포털:철학">철학<span typeof="mw:Entity"> </span>포털</a></div></td></tr></tbody></table></div>
+<link rel="mw:PageProp/Category" href="./분류:위키데이터_속성_P18을_사용하는_문서" about="#mwt46" typeof="mw:Transclusion" data-mw="{&quot;parts&quot;:[{&quot;template&quot;:{&quot;target&quot;:{&quot;wt&quot;:&quot;위키데이터 속성 추적&quot;,&quot;href&quot;:&quot;./틀:위키데이터_속성_추적&quot;},&quot;params&quot;:{},&quot;i&quot;:0}}]}" id="mwrQ"><link rel="mw:PageProp/Category" href="./분류:위키데이터_속성_P373을_사용하는_문서" about="#mwt46" id="mwrg">
+
+<link rel="mw:PageProp/Category" href="./분류:이분법" id="mwrw"></section>
+<!-- 
+NewPP limit report
+Parsed by mw‐web.codfw.main‐6c5fccf66b‐kqpqn
+Cached time: 20260404074226
+Cache expiry: 2592000
+Reduced expiry: false
+Complications: [show‐toc, use‐parsoid]
+CPU time usage: 0.388 seconds
+Real time usage: 1.405 seconds
+Preprocessor visited node count: 830/1000000
+Revision size: 5521/2097152 bytes
+Post‐expand include size: 10661/2097152 bytes
+Template argument size: 198/2097152 bytes
+Highest expansion depth: 8/100
+Expensive parser function count: 0/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 11029/5000000 bytes
+Lua time usage: 0.013/10.000 seconds
+Lua memory usage: 978296/52428800 bytes
+Number of Wikibase entities loaded: 1/500
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00% 1154.515      1 -total
+  9.78%  112.936      1 틀:위키데이터_속성_추적
+  2.73%   31.471      1 틀:논리_연산
+  2.59%   29.951      1 틀:둘러보기_상자
+  0.45%    5.235      1 틀:포털-인라인
+  0.30%    3.499      2 틀:Lang
+  0.14%    1.672      2 틀:일반_기타
+-->
+
+<!-- Saved in parser cache with key kowiki:parsoid-pcache:95469:|#|:idhash:useParsoid=1 and timestamp 20260404074226 and revision id 39044482. Rendering was triggered because: page_view
+ -->
+
+<!--Parsoid 0.23.0.0-alpha24-->
+</div><!--
+Post‐processing cache key kowiki:postproc‐parsoid‐pcache:95469:|#|:idhash:injectTOC=0!postproc=1!skin=vector‐2022!useParsoid=1, generated at 20260404074226
+--><noscript><img src="https://ko.wikipedia.org/wiki/Special:CentralAutoLogin/start?useformat=desktop&amp;type=1x1&amp;usesul3=1" alt="" width="1" height="1" style="border: none; position: absolute;"></noscript>
+<div class="printfooter" data-nosnippet="">원본 주소 "<a dir="ltr" href="https://ko.wikipedia.org/w/index.php?title=배타적_논리합&amp;oldid=39044482">https://ko.wikipedia.org/w/index.php?title=배타적_논리합&amp;oldid=39044482</a>"</div></div>
+					<div id="catlinks" class="catlinks" data-mw-interface=""><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/%ED%8A%B9%EC%88%98:%EB%B6%84%EB%A5%98" title="특수:분류">분류</a>: <ul><li><a href="/wiki/%EB%B6%84%EB%A5%98:%EC%9D%B4%EB%B6%84%EB%B2%95" title="분류:이분법">이분법</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">숨은 분류: <ul><li><a href="/wiki/%EB%B6%84%EB%A5%98:%EC%98%81%EC%96%B4_%ED%91%9C%EA%B8%B0%EB%A5%BC_%ED%8F%AC%ED%95%A8%ED%95%9C_%EB%AC%B8%EC%84%9C" title="분류:영어 표기를 포함한 문서">영어 표기를 포함한 문서</a></li><li><a href="/wiki/%EB%B6%84%EB%A5%98:%EC%9C%84%ED%82%A4%EB%8D%B0%EC%9D%B4%ED%84%B0_%EC%86%8D%EC%84%B1_P18%EC%9D%84_%EC%82%AC%EC%9A%A9%ED%95%98%EB%8A%94_%EB%AC%B8%EC%84%9C" title="분류:위키데이터 속성 P18을 사용하는 문서">위키데이터 속성 P18을 사용하는 문서</a></li><li><a href="/wiki/%EB%B6%84%EB%A5%98:%EC%9C%84%ED%82%A4%EB%8D%B0%EC%9D%B4%ED%84%B0_%EC%86%8D%EC%84%B1_P373%EC%9D%84_%EC%82%AC%EC%9A%A9%ED%95%98%EB%8A%94_%EB%AC%B8%EC%84%9C" title="분류:위키데이터 속성 P373을 사용하는 문서">위키데이터 속성 P373을 사용하는 문서</a></li></ul></div></div>
+				</div>
+			</main>
+			
+		</div>
+		<div class="mw-footer-container">
+			
+<footer id="footer" class="mw-footer" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> 이 문서는 2025년 4월 4일 (금) 22:59에 마지막으로 편집되었습니다.</li>
+	<li id="footer-info-renderedwith">이 문서는 <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Parsoid" class="extiw" title="mw:Special:MyLanguage/Parsoid">Parsoid</a>로 렌더링되었습니다.</li>
+	<li id="footer-info-copyright">모든 문서는 <a rel="nofollow" class="external text" href="//creativecommons.org/licenses/by-sa/4.0/deed.ko">크리에이티브 커먼즈 저작자표시-동일조건변경허락 4.0</a>에 따라 사용할 수 있으며, 추가적인 조건이 적용될 수 있습니다. 자세한 내용은 <a class="external text" href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use/ko">이용 약관</a>을 참고하십시오.<br />Wikipedia®는 미국 및 다른 국가에 등록되어 있는 <a rel="nofollow" class="external text" href="https://www.wikimediafoundation.org">Wikimedia Foundation, Inc.</a> 소유의 등록 상표입니다.</li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy">개인정보처리방침</a></li>
+	<li id="footer-places-about"><a href="/wiki/%EC%9C%84%ED%82%A4%EB%B0%B1%EA%B3%BC:%EC%86%8C%EA%B0%9C">위키백과 소개</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/%EC%9C%84%ED%82%A4%EB%B0%B1%EA%B3%BC:%EB%A9%B4%EC%B1%85_%EC%A1%B0%ED%95%AD">면책 조항</a></li>
+	<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct">행동 강령</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">개발자</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/ko.wikipedia.org">통계</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">쿠키 정책</a></li>
+	<li id="footer-places-mobileview"><a href="//ko.wikipedia.org/w/index.php?title=%EB%B0%B0%ED%83%80%EC%A0%81_%EB%85%BC%EB%A6%AC%ED%95%A9&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">모바일 보기</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://www.wikimedia.org/" class="cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"><picture><source media="(min-width: 500px)" srcset="/static/images/footer/wikimedia-button.svg" width="84" height="29"><img src="/static/images/footer/wikimedia.svg" width="25" height="25" alt="Wikimedia Foundation" lang="en" loading="lazy"></picture></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/" class="cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"><picture><source media="(min-width: 500px)" srcset="/w/resources/assets/poweredby_mediawiki.svg" width="88" height="31"><img src="/w/resources/assets/mediawiki_compact.svg" alt="Powered by MediaWiki" lang="en" width="25" height="25" loading="lazy"></picture></a></li>
+</ul>
+
+</footer>
+
+		</div>
+	</div> 
+</div> 
+<div class="vector-header-container vector-sticky-header-container no-font-mode-scale">
+	<div id="vector-sticky-header" class="vector-sticky-header">
+		<div class="vector-sticky-header-start">
+			<div class="vector-sticky-header-icon-start vector-button-flush-left" aria-hidden="true">
+				<button class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-sticky-header-search-toggle" tabindex="-1" data-event-name="ui.vector-sticky-search-form.icon"><span class="vector-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
+
+<span>검색</span>
+			</button>
+		</div>
+			
+		<div role="search" class="vector-search-box-vue  vector-search-box-show-thumbnail vector-search-box">
+			<div class="vector-typeahead-search-container">
+				<div class="cdx-typeahead-search cdx-typeahead-search--show-thumbnail">
+					<form action="/w/index.php" id="vector-sticky-search-form" class="cdx-search-input cdx-search-input--has-end-button">
+						<div  class="cdx-search-input__input-wrapper"  data-search-loc="header-moved">
+							<div class="cdx-text-input cdx-text-input--has-start-icon">
+								<input
+									class="cdx-text-input__input mw-searchInput" autocomplete="off"
+									
+									type="search" name="search" placeholder="위키백과 검색">
+								<span class="cdx-text-input__icon cdx-text-input__start-icon"></span>
+							</div>
+							<input type="hidden" name="title" value="특수:검색">
+						</div>
+						<button class="cdx-button cdx-search-input__end-button">검색</button>
+					</form>
+				</div>
+			</div>
+		</div>
+		<div class="vector-sticky-header-context-bar">
+				<nav aria-label="목차" class="vector-toc-landmark">
+						
+					<div id="vector-sticky-header-toc" class="vector-dropdown mw-portlet mw-portlet-sticky-header-toc vector-sticky-header-toc vector-button-flush-left"  >
+						<input type="checkbox" id="vector-sticky-header-toc-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-sticky-header-toc" class="vector-dropdown-checkbox "  aria-label="목차 토글"  >
+						<label id="vector-sticky-header-toc-label" for="vector-sticky-header-toc-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-listBullet mw-ui-icon-wikimedia-listBullet"></span>
+
+<span class="vector-dropdown-label-text">목차 토글</span>
+						</label>
+						<div class="vector-dropdown-content">
+					
+						<div id="vector-sticky-header-toc-unpinned-container" class="vector-unpinned-container">
+						</div>
+					
+						</div>
+					</div>
+			</nav>
+				<div class="vector-sticky-header-context-bar-primary" aria-hidden="true" ><span lang="ko" dir="ltr"><span class="mw-page-title-main">배타적 논리합</span></span></div>
+			</div>
+		</div>
+		<div class="vector-sticky-header-end" aria-hidden="true">
+			<div class="vector-sticky-header-icons">
+				<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-talk-sticky-header" tabindex="-1" data-event-name="talk-sticky-header"><span class="vector-icon mw-ui-icon-speechBubbles mw-ui-icon-wikimedia-speechBubbles"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-subject-sticky-header" tabindex="-1" data-event-name="subject-sticky-header"><span class="vector-icon mw-ui-icon-article mw-ui-icon-wikimedia-article"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-history-sticky-header" tabindex="-1" data-event-name="history-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-history mw-ui-icon-wikimedia-wikimedia-history"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only mw-watchlink" id="ca-watchstar-sticky-header" tabindex="-1" data-event-name="watch-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-star mw-ui-icon-wikimedia-wikimedia-star"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-edit-sticky-header" tabindex="-1" data-event-name="wikitext-edit-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-wikiText mw-ui-icon-wikimedia-wikimedia-wikiText"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-ve-edit-sticky-header" tabindex="-1" data-event-name="ve-edit-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-edit mw-ui-icon-wikimedia-wikimedia-edit"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-viewsource-sticky-header" tabindex="-1" data-event-name="ve-edit-protected-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-editLock mw-ui-icon-wikimedia-wikimedia-editLock"></span>
+
+<span></span>
+			</a>
+		</div>
+			<div class="vector-sticky-header-buttons">
+				<button class="cdx-button cdx-button--weight-quiet mw-interlanguage-selector" id="p-lang-btn-sticky-header" tabindex="-1" data-event-name="ui.dropdown-p-lang-btn-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-language mw-ui-icon-wikimedia-wikimedia-language"></span>
+
+<span>34개 언어</span>
+			</button>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive" id="ca-addsection-sticky-header" tabindex="-1" data-event-name="addsection-sticky-header"><span class="vector-icon mw-ui-icon-speechBubbleAdd-progressive mw-ui-icon-wikimedia-speechBubbleAdd-progressive"></span>
+
+<span>새 주제</span>
+			</a>
+		</div>
+			<div class="vector-sticky-header-icon-end">
+				<div class="vector-user-links">
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="mw-portlet mw-portlet-dock-bottom emptyPortlet" id="p-dock-bottom">
+	<ul>
+		
+	</ul>
+</div>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw-web.codfw.main-6cf7b454cb-7nf6w","wgBackendResponseTime":96,"wgPageParseReport":{"limitreport":{"cputime":"0.388","walltime":"1.405","ppvisitednodes":{"value":830,"limit":1000000},"revisionsize":{"value":5521,"limit":2097152},"postexpandincludesize":{"value":10661,"limit":2097152},"templateargumentsize":{"value":198,"limit":2097152},"expansiondepth":{"value":8,"limit":100},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":11029,"limit":5000000},"entityaccesscount":{"value":1,"limit":500},"timingprofile":["100.00% 1154.515      1 -total","  9.78%  112.936      1 틀:위키데이터_속성_추적","  2.73%   31.471      1 틀:논리_연산","  2.59%   29.951      1 틀:둘러보기_상자","  0.45%    5.235      1 틀:포털-인라인","  0.30%    3.499      2 틀:Lang","  0.14%    1.672      2 틀:일반_기타"]},"scribunto":{"limitreport-timeusage":{"value":"0.013","limit":"10.000"},"limitreport-memusage":{"value":978296,"limit":52428800}},"cachereport":{"origin":"mw-web.codfw.main-6c5fccf66b-kqpqn","timestamp":"20260404074226","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"\ubc30\ud0c0\uc801 \ub17c\ub9ac\ud569","url":"https:\/\/ko.wikipedia.org\/wiki\/%EB%B0%B0%ED%83%80%EC%A0%81_%EB%85%BC%EB%A6%AC%ED%95%A9","sameAs":"http:\/\/www.wikidata.org\/entity\/Q498186","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q498186","author":{"@type":"Organization","name":"\uc704\ud0a4\ubbf8\ub514\uc5b4 \ud504\ub85c\uc81d\ud2b8 \uae30\uc5ec\uc790"},"publisher":{"@type":"Organization","name":"\uc704\ud0a4\ubbf8\ub514\uc5b4 \uc7ac\ub2e8","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2006-12-31T03:56:08Z","dateModified":"2025-04-04T13:59:33Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/4\/46\/Venn0110.svg"}</script>
+</body>
+</html>

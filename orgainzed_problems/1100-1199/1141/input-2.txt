@@ -1,7 +1,0 @@
-6
-a
-b
-cba
-cbc
-cbb
-ccc

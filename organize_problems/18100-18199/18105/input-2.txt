@@ -1,0 +1,10 @@
+7 6
+WWWWWW
+W..W.W
+W.W..W
+W.W..W
+W.WG.W
+W...WW
+WWWWWW
+2 3
+2 5

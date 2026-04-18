@@ -1,0 +1,9 @@
+5 3
+wwwww
+wrwrw
+wwwww
+wrrrw
+wwwww
+3 3
+2
+LU

@@ -1,0 +1,9 @@
+Scenario #1:
+112 cannot be encoded.
+5624-82: Mix Tor
+5624-82: mir Tor
+0721/608-4067 cannot be encoded.
+10/783--5: je Bo" da
+
+Scenario #2:
+12312312312312312312312312312312312312312312399 cannot be encoded.

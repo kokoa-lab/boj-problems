@@ -1,0 +1,29 @@
+---
+title: Find Terrorists
+special_judge: false
+time_limit: 5 초
+memory_limit: 1024 MB
+submissions: 79
+accepted: 46
+solved_users: 36
+acceptance_rate: 61.017%
+collected_at: 2026-04-17T18:59:38.493292+00:00
+---
+
+## 문제
+
+The Prime Minister and his Accumulated Council of Ministers (ACM) are trying hard to find all possible terrorist locations. In his dream, the Prime Minister gets a message from God suggesting that the answer to all terrorist problems are numbers (say one such number is X) such that the number of factors of X(including 1 and X) is prime. These numbers supposedly contain the encrypted locations of terrorists. Since the ACM has no programmer, the Prime Minister needs your help in finding out such numbers.
+
+Note: 1 is not considered a prime number.
+
+## 입력
+
+The first line of input will contain an integer T ≤ 20 denoting the number of test cases.
+
+T lines follow, one per test case.
+
+Each test case will be a line formatted as "L H" where L and H are integers and 0 ≤ H ≤ 10000
+
+## 출력
+
+Output one line per case a space separated list of all integers(sorted ascending) lying between L and H (both inclusive) such that the number of factors of each integer is prime. In case no such integer exist output -1.

@@ -1,0 +1,12 @@
+5
+melon
+lemon
+apple
+grape
+peach
+5
+1 2
+4 5
+2 4
+3 4
+3 3

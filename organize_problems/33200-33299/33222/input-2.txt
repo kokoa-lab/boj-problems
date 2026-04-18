@@ -1,0 +1,14 @@
+8
+Paper
+Rock
+Rock
+Rock
+Scissors
+Paper
+Scissors
+Paper
+4
+3 8
+4 6
+1 6
+2 7

@@ -1,0 +1,3 @@
+Case 1: 14.377
+
+Case 2: impossible

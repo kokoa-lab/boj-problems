@@ -1,0 +1,41 @@
+---
+title: Hora do rush
+special_judge: false
+time_limit: 0.5 초 (추가 시간 없음)
+memory_limit: 1024 MB
+submissions: 34
+accepted: 11
+solved_users: 10
+acceptance_rate: 32.258%
+collected_at: 2026-04-17T19:11:48.123499+00:00
+---
+
+## 문제
+
+Em toda cidade vemos que algumas vias são mais largas que outras. Isto é, algumas tem mais faixas de rolamento para veículos do que outras. Cada faixa de rolamento a mais numa via significa que mais carros podem ir de um extremo a outro desta via num mesmo intervalo de tempo.
+
+É comum termos a sensação de que, na hora do rush (aquele período em que a maior parte da população se desloca de casa para o trabalho ou vice-versa), nunca existem faixas de rolamento suficientes por conta do congestionamento que se forma.
+
+Roberval, nosso herói trabalhador, trabalha na companhia de engenharia de tráfego da SBCity. Seu chefe está muito preocupado com as condições de trânsito da cidade, pois, com a instalação iminente de uma nova empresa na cidade, a Empresa de Reciclagem Insubstituível do Rio de Janeiro, ERI-RJ, o número de veículos circulando aumentará consideravelmente. Assim, ele quer fazer uma análise sobre a possibilidade de surgimento de novos engarrafamentos e Roberval, claro, foi eleito para descobrir se eles ocorrerão.
+
+Sua idéia é bem simples: simular a situação do trânsito. Mais especificamente, o trânsito do local onde a ERI irá se instalar para alguns bairros de interesse, onde morarão os funcionários da empresa. A quantidade de funcionários morando em cada um desses bairros dependerá da facilidade de acesso a esses bairros. Portanto, você pode assumir que os funcionários são indiferentes ao bairro onde morarão.
+
+Quando der a hora de saída do trabalho, todos os funcionário da ERI-RJ começarão a sair furiosamente em direção 'as suas casas num fluxo constante de veículos que levará algumas horas para cessar. Como o estacionamento da empresa é bem grande mas com apenas uma saída para cada rua, a quantidade de carros saindo da empresa por segundo é limitada.
+
+Roberval fez uma modelagem simplificada da cidade e quer saber se existe capacidade para receber todos esses veículos sem criar gargalos nas ruas da cidade. Lembre-se que os motoristas de SBCity não se importam de percorrerem caminhos maiores desde que não encontrem gargalos pela frente nem de alterarem seus caminhos para que outros motoristas também possam chegar até suas casas sem trânsito.
+
+Dado um mapa de ruas da SBCity e a quantidade de carros por segundo que cada via comporta, diga se é possível que os funcionários da empresa saiam do trabalho ao mesmo tempo sem enfrentar os desagradáveis congestionamentos do dia-a-dia.
+
+## 입력
+
+A entrada é composta por vários casos de teste.
+
+A primeira linha de cada caso de teste contém três inteiros, p, n e m, (1 ≤ p ≤ 1000, 2 ≤ n ≤ 100, 1 ≤ m ≤ n(n − 1)) representando a quantidade máxima de carros saindo da empresa por segundo, o número de interseções e o número de vias existentes na cidade, respectivamente. As interseções são numeradas de 1 a n, onde 1 representa o local onde a ERI-RJ irá se instalar. As interseções que não possuem vias levando a outras interseções representam os bairros de interesse.
+
+Em seguida, seguem-se m linhas, cada uma contendo três inteiros u, v e w (1 ≤ u, v ≤ n, 1 ≤ w ≤ 10) representando uma via de mão única que leva da interseção u até a interseção v com capacidade para w veículos por segundo. Entre duas interseções existe, no máximo, uma única via em cada direção.
+
+A entrada termina com p = n = m = 0. Este caso não deverá ser processado.
+
+## 출력
+
+Para cada caso de teste haverá uma linha na saída. Caso seja possível que todos os funcionários saiam ao mesmo tempo do trabalho sem encontrar gargalos até suas casas, imprima “SEM GARGALOS”. Caso contrário, imprima “COM GARGALOS”. Atenção, não utilize acentuação!

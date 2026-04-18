@@ -1,0 +1,3 @@
+Case 1: R
+Case 2: LLLLRRLLRRLL
+Case 3: NONE

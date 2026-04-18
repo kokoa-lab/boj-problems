@@ -1,0 +1,12 @@
+5 4
+Naga City,City of Iriga,Northwest
+Masbate City,Naga City,Southeast
+Tabaco City,City of Ligao,Northeast
+Sorsogon City,Legazpi City,Southeast
+City of Ligao,Legazpi City,West
+Naga City,City of Iriga
+City of Iriga, Naga City
+Sorsogon City, Naga City
+Sorsogon City, City of Ligao
+
+0

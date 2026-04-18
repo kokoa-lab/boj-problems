@@ -1,0 +1,10 @@
+2
+2 TOYOTA
+toy
+yo
+5 CHEVROLET
+does
+he
+like
+her
+program

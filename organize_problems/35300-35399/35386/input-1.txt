@@ -1,0 +1,12 @@
+6 5
+banana
+3
+ana
+3
+ban
+2
+na
+1
+b
+5
+apple

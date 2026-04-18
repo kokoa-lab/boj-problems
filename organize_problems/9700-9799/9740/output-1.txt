@@ -1,0 +1,5 @@
+Case 1
+Naga City is northwest of City of Iriga
+City of Iriga is southeast of Naga City
+Relative location cannot be determined
+Sorsogon City is southeast of City of Ligao

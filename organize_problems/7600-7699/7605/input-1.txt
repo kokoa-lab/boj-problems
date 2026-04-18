@@ -1,0 +1,13 @@
+5
+Alice Bob
+Bob Charlie
+Alice Charlie
+Charlie Dave
+Dave Alice
+2
+Alice
+Bob
+2
+Alice Bob
+Bob Alice
+0

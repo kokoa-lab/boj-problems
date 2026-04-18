@@ -1,0 +1,4 @@
+sugar 20 38.9
+starch 0 18.9
+thickener 0 9.45
+glaze 0 6.3

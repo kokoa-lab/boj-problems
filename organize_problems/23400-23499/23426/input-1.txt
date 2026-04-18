@@ -1,0 +1,11 @@
+3
+1
+teamname
+2
+vanechka
+ivan
+4
+albatross
+teddybear
+vitalya
+pythonists

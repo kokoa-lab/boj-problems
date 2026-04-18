@@ -1,0 +1,21 @@
+1
+
+7
+bigman mangler sinbad fatman bigcheese frenchie capodicapo
+E mugsy
+E knuckles
+M bigman
+M mangler
+L mugsy
+E clyde
+E bonnie
+M bigman
+M fatman
+M frenchie
+L clyde
+M fatman
+E ugati
+M sinbad
+E moriarty
+E booth
+Q

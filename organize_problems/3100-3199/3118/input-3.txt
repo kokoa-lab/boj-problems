@@ -1,0 +1,10 @@
+6 4
+wwwwwr
+wwwrrr
+wrwwww
+wrrrrw
+wwwwrw
+wwwwww
+1 1
+4
+DRUR

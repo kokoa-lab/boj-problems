@@ -1,0 +1,7 @@
+2 5
+Mirko Slavko
+mirko, Ovo je poruka bez nadimaka
+mirko, ovo je poruka bez nadimaka
+Slavko, ovo je poruka s nadimcima
+Mirko, ovo je poruka s nadimcima
+mirko slavko ovo je poruka bez nadimaka

@@ -1,4 +1,0 @@
-3 2
-CountryA 10
-CountryB 20 CountryA
-CountryC 15
