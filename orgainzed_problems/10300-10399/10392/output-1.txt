@@ -1,0 +1,2 @@
+Case 1: Anna reaches her destination at time 27.0469 at a speed of 32
+Case 2: Anna reaches her destination at time 26.6667 at a speed of 30

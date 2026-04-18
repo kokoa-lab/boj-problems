@@ -1,0 +1,32 @@
+---
+title: Virus synthesis
+special_judge: false
+time_limit: 20 초
+memory_limit: 256 MB
+submissions: 47
+accepted: 25
+solved_users: 6
+acceptance_rate: 33.333%
+collected_at: 2026-04-17T12:24:44.812139+00:00
+---
+
+## 문제
+
+Viruses are usually bad for your health. How about fighting them with... other viruses? In this problem, you need to find out how to synthesize such good viruses.
+
+We have prepared for you a set of strings of the letters A, G, T and C. They correspond to the DNA nucleotide sequences of viruses that we want to synthesize, using the following operations:
+
+* Adding a nucleotide either to the beginning or the end of the existing sequence.
+* Replicating the sequence, reversing the copied piece, and gluing it either to the beginning or to the end of the original (so that e.g., AGTC can become AGTCCTGA or CTGAAGTC).
+
+We’re concerned about efficiency, since we have very many such sequences, some of them very long. Find a way to synthesize them in a minimum number of operations.
+
+## 입력
+
+The first line of input contains the number of test cases T. The descriptions of the test cases follow:
+
+Each test case consists of a single line containing a non-empty string. The string uses only the capital letters A, C, G and T and is not longer than 100 000 characters.
+
+## 출력
+
+For each test case, output a single line containing the minimum total number of operations necessary to construct the given sequence.

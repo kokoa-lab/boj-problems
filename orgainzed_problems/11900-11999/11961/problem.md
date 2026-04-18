@@ -1,0 +1,33 @@
+---
+title: High Card Low Card (Platinum)
+special_judge: false
+time_limit: 2 초
+memory_limit: 512 MB
+submissions: 218
+accepted: 111
+solved_users: 97
+acceptance_rate: 54.802%
+collected_at: 2026-04-17T12:48:14.230824+00:00
+---
+
+## 문제
+
+Bessie the cow is a huge fan of card games, which is quite surprising, given her lack of opposable thumbs. Unfortunately, none of the other cows in the herd are good opponents. They are so bad, in fact, that they always play in a completely predictable fashion! Nonetheless, it can still be a challenge for Bessie to figure out how to win.
+
+Bessie and her friend Elsie are currently playing a simple card game where they take a deck of \(2N\) cards, conveniently numbered \(1 \ldots 2N\), and divide them into \(N\) cards for Bessie and \(N\) cards for Elsie. The two then play \(N\) rounds, where in each round Bessie and Elsie both play a single card. Initially, the player who plays the highest card earns a point. However, at one point during the game, Bessie can decide to switch the rules so that for the rest of the game, the player who plays the lowest card wins a point. Bessie can choose not to use this option, leaving the entire game in "high card wins" mode, or she can even invoke the option right away, making the entire game follow the "low card wins" rule.
+
+Given that Bessie can predict the order in which Elsie will play her cards, please determine the maximum number of points Bessie can win.
+
+## 입력
+
+The first line of input contains the value of N (\(2 \leq N \leq 50,000\)).
+
+The next N lines contain the cards that Elsie will play in each of the successive rounds of the game. Note that it is easy to determine Bessie's cards from this information.
+
+## 출력
+
+Output a single line giving the maximum number of points Bessie can score.
+
+## 힌트
+
+Here, Bessie must have cards 2, 5, and 6, and 7 in her hand, and she can use these to win at most 3 points. For example, she can defeat the 1 card and then switch the rules to "low card wins", after which she can win two more rounds.

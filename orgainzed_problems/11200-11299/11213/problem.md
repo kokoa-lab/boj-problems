@@ -1,0 +1,27 @@
+---
+title: Black Friday
+special_judge: false
+time_limit: 1 초
+memory_limit: 256 MB
+submissions: 444
+accepted: 320
+solved_users: 295
+acceptance_rate: 72.482%
+collected_at: 2026-04-17T12:38:06.448571+00:00
+---
+
+## 문제
+
+Black Friday is the Friday following Thanksgiving Day in the United States (the fourth Thursday of November). Since the early 2000s, it has been regarded as the beginning of the Christmas shopping season in the US, and most major retailers open very early and offer promotional sales. (Source: Wikipedia)
+
+You work in the IT support division of an electronics store. This year, in an attempt to prevent overcrowding, the management has decided to limit the number of people entering the store. They divide the people at the entrance into groups of size n and process them as follows: all n participants roll a die, and report the outcomes a1, a2, . . . , an. To prevent cheating, instead of selecting the one with the highest outcome, the rule is to select the participant with the highest unique outcome. Everybody not selected has to move to the back of the queue. If there is no winner, the experiment is repeated.
+
+For example, if there are three players and the outcomes are 6, 6 and 5, then the third player wins, because the first and second player lose even though their outcomes are higher, since they both have the same outcome. If instead the third player also rolls 6, then nobody wins. They asked you to write a program for selecting the winner.
+
+## 입력
+
+The first line of the input contains one integer n, 1 ≤ n ≤ 100, the group size. The second line contains n integers a1, a2, . . . , an (1 ≤ ai ≤ 6 for all 1 ≤ i ≤ n): the outcome of each participant’s die roll.
+
+## 출력
+
+Output the index of the participant that has the highest unique outcome, or “none” (without the quotes) if nobody has a unique outcome.

@@ -1,0 +1,53 @@
+---
+title: Binary Roads
+special_judge: false
+time_limit: 3 초
+memory_limit: 64 MB
+submissions: 113
+accepted: 60
+solved_users: 52
+acceptance_rate: 65.823%
+collected_at: 2026-04-17T13:09:20.720549+00:00
+---
+
+## 문제
+
+Ali is out on a vacation and intends to visit a specific destination. However, he has trouble getting there in the shortest possible time and needs your help!
+
+For simplicity, the place can be treated as a graph with N nodes (places) and E edges (roads). Nodes will be labelled from 0 to N-1 and all edges are bi-directional. It can be assumed that it will take 1 hour to travel any edge and all nodes and edges can be visited more than once.
+
+Ali will start of at node 0 and his destination is node N-1. This seems like an easy problem, but things are much more complicated due to binary roads.
+
+Unlike normal roads, all of the E edges are binary roads. They either contain a value of 0 or 1. Similarly, Ali will also have a value of 0 or 1. When Ali has a value of 0, he can only travel on edges with a value of 0. When Ali has a value of 1, he can only travel on those edges with a value of 1. However, after travelling on a single edge, the value of Ali will be flipped. If it was originally 0, it will become 1. If it was originally 1, it will become 0. It will then flip again after he travels on another edge.
+
+Still, Ali wants to know the shortest possible time to reach his destination (in hours). Remember, Ali can choose to start with value 0 or 1 .
+
+## 입력
+
+The first line of input will contain 2 integers, N and E. (1 ≤ N ≤ 200,000, 0 ≤ E ≤ 1,000,000)
+
+The next E line of input will contain 3 integers: A, B, and V. This means that there is a bi-directional edge from node A to node B with a value of V. It is guaranteed that there will not be more than one edge connecting the same two nodes with the same value.
+
+It is guaranteed that A ≠ B, 0 ≤ A, B < N, V = 0 or 1 for all E lines describing the edges.
+
+## 출력
+
+Output a single integer, the shortest possible time for Ali to reach his destination (in hours). If it is not possible for Ali to reach his destination, output -1 instead.
+
+## 힌트
+
+Sample Input 1
+
+Notice that all edges come in pairs (0 1 0 and 0 1 1), (1 2 0 and 1 2 1), etc
+
+The fastest way for Ali is to move from node 0 -> 1 -> 4. This will traverse 2 edges and take 2 hours.
+
+Sample Input 2
+
+Ali must either move in the order of node 0 -> 1 -> 2 -> 3 -> 1 -> 4 or 0 -> 1 -> 3 -> 2 -> 1 -> 4.
+
+To do so, Ali must start out with a value of 1 at node 0. He will then travel along the edge (0 1 1) to node 1. After reaching node 1, he would have a value of 0. He then travels along the edge (1 2 0) as he is unable to travel on the edge (1 4 1) since the value of the road does not match his own value. After reaching node 2, he would have a value of 1 and he can travel along the edge (3 2 1) to reach node 3 with a value of 0. Subsequently, he can travel back to node 1 alone edge (3 1 0) and he would have reached node 1 with a value of 1. Lastly, he can travel the edge (1 4 1) to his destination, node 4.
+
+Sample Input 3
+
+There is no way for Ali to reach node 2 from node 0.

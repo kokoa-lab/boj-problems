@@ -1,0 +1,31 @@
+---
+title: Hogwarts
+special_judge: true
+time_limit: 1 초
+memory_limit: 256 MB
+submissions: 4
+accepted: 2
+solved_users: 2
+acceptance_rate: 50.000%
+collected_at: 2026-04-17T12:37:57.234683+00:00
+---
+
+## 문제
+
+The new semester at Hogwarts has just started, but something is not quite right – the staircases are not cooperating with the school administrators! Hogwarts has a single room of movable staircases connecting the N floors. There are M staircases in total, and no two staircases connect the same pair of floors (and, obviously, a staircase would not connect a floor to itself – these are smart magic staircases with dignity). The only way to manipulate the staircases is by pressing red and green buttons located on each floor. The floors are labeled in some manner by the integers 0 through N − 1. Pressing the red button on floor i (0 ≤ i ≤ N − 1) has the following effect on the staircases. Any staircase that is currently not connected to floor i does not move. Suppose a staircase connects floors i and j (j ≠ i). After pressing the red button on floor i, it will instead connect floors i and j + 1 mod N – unless j + 1 mod N = i, in which case it will connect floors i and j+2 mod N = i+1 mod N instead. Pressing the green button is simply the inverse operation of pressing the red one on the same floor (or, equivalently, the same as pressing the red one N − 2 times).
+
+While alone, the staircases got all messed up. The school adminstrators have presented a plan for how they would rather like the staircases to be placed.
+
+You, a low-ranking house elf, have been given the task to fix this.
+
+Find some sequence of at most 250 000 button presses that will change the staircase room from its current state to the desired state.
+
+## 입력
+
+There is a single test case. On the first line N and M are given (3 ≤ N ≤ 50, 0 ≤ M ≤ N(N − 1)/2).
+
+Then follow M lines with pairs of integers i, j (0 ≤ i, j ≤ N − 1), describing the current state of the room of staircases. Each such line means that there is a staircase connecting floors i and j. After this follow another M lines with pairs of integers i, j, describing the desired state of the room of staircases.
+
+## 출력
+
+On the first line of output, write a single integer Q (0 ≤ Q ≤ 250 000), the length of your sequence of button presses. Then print Q lines, each being either “R i” or “G i” for some i (0 ≤ i ≤ N − 1), meaning that the red or green button on floor i should be pressed.
