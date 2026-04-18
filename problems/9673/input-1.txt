@@ -1,0 +1,22 @@
+6
+Friday 30000 25000
+setRoadZone 1 "09:12:53" "CTRZ" "Enghelab" "Ferdowsi" "Behesht"
+setRoadZone 1 "14:32:01" "EORZ" "Resalat" "Damavand"
+addZoneException 1 "09:00:13" "1000100" "1000200" "1000300"
+addPhotoInfo 2 "13:18:43" 1004 "Enghelab" "1000100" "1000200" "1000400" "1000105"
+addPhotoInfo 3 "11:55:12" 1003 "Behesht" "1000400" "1000105"
+addPhotoInfo 2 "06:30:00" 1002 "Resalat" "1000100" "1000105" "1000120" "1000400"
+3
+Sunday 100 90
+setRoadZone 4 "01:02:03" "CTRZ" "16-e_Azar"
+addPhotoInfo 4 "10:15:13" 211 "16-e_Azar" "1010101"
+addPhotoInfo 5 "20:21:42" 212 "16-e_Azar" "2020202"
+6
+Monday 1000 900
+setRoadZone 13 "09:00:00" "CTRZ" "Azadi"
+addPhotoInfo 13 "10:00:00" 101 "Azadi" "1000001"
+addPhotoInfo 14 "10:00:00" 102 "Azadi" "1000001"
+setRoadZone 15 "09:00:00" "UZ" "Azadi"
+addPhotoInfo 15 "10:00:00" 103 "Azadi" "1000001"
+addPhotoInfo 16 "10:00:00" 104 "Azadi" "1000001"
+0

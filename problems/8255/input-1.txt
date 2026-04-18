@@ -1,0 +1,10 @@
+6 8
+2 7 3 0 5 6
+With 2
+With three
+P 3 of 5
+On the one
+With 5
+P 4 17
+With 2
+With 4

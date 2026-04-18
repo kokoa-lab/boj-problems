@@ -1,0 +1,41 @@
+Yes
+3
+No
+No
+Yes
+180
+2
+rotate %d[\n]
+done[\n]
+rotate 30
+rotate 60
+rotate 90
+done
+###
+rotate 10
+rotate 20
+rotate 30
+done
+###
+rotate 90
+rotate 90
+rotate 90
+rotate 90
+done
+###
+rotate 90
+rotate 90
+rotate 90
+done*RE*
+###
+rotate 90
+rotate 90
+rotate 90
+rotate 90
+*RE*
+###
+rotate 90
+rotate 90
+rotate 90
+rotate 90*RE*
+###

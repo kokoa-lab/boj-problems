@@ -1,0 +1,27 @@
+---
+title: Logland
+special_judge: false
+time_limit: 1 초
+memory_limit: 512 MB
+submissions: 75
+accepted: 38
+solved_users: 31
+acceptance_rate: 53.448%
+collected_at: 2026-04-17T14:50:31.024914+00:00
+---
+
+## 문제
+
+Two thieves (who strongly "recommended" us not to reveal their names) has broken into the central bank of Logland, where the country's cash reserve is stored. In Logland, the currency has the $k$ denominations $1, 2, 4, 8, \ldots, 2^{k - 1}$, and the bank currently stores $x\_i$ coins of denominations $2^i$.
+
+Thieves live by a very strict honor code, which stipulates that any loot grabbed must be divided evenly between the theives. Unfortunately (for the thieves), this may mean that some loot must be left behind. For example, if the bank contained a single coin of denomination $8$, and two coins of denomination $2$, there is no way they could bring the $8$ coin. Instead, they would have to take one coin of value $2$ each, leaving more than half of the possible loot!
+
+Since neither leaving loot nor solving NP-hard problems are things thieves like to do, they have asked you to compute the minimum value of the loot they must leave behind, in order to be able to split the remaining loot evenly.
+
+## 입력
+
+The first line of input contains the integer $1 \le k \le 10^6$ -- the number of denominations in Logland. The next line contains the $k$ integers $0 \le x\_0, x\_1, \dots, x\_{k-1} \le 2^{30}$, the number of coins of the denominations $2^0, 2^1, \dots, 2^{k - 1}$.
+
+## 출력
+
+Output a single line, the minimum amount of money the thieves must leave behind. Since this number may be very large, output it modulo the prime number $10^9 + 7$.

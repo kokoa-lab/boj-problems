@@ -1,0 +1,16 @@
+3
+5
+2
+abccd
+baabd
+cbdca
+abbca
+ccdcb
+acbcd
+dbaba
+cbcda
+acacd
+adbaa
+aaaba
+adccc
+abcdd

@@ -1,0 +1,2 @@
+Child 1 has a minimum of 1 mutations.
+Child 2 has a minimum of 0 mutations.

@@ -1,0 +1,25 @@
+---
+title: 1’s For All
+special_judge: false
+time_limit: 15 초 (추가 시간 없음)
+memory_limit: 1024 MB
+submissions: 175
+accepted: 42
+solved_users: 30
+acceptance_rate: 22.222%
+collected_at: 2026-04-17T17:11:03.296699+00:00
+---
+
+## 문제
+
+The *complexity* of an integer is the minimum number of $1$'s needed to represent it using only addition, multiplication and parentheses. For example, the complexity of $2$ is $2$ (writing $2$ as $1+1$) and the complexity of $12$ is $7$ (writing $12$ as $(1+1+1)\times (1+1+1+1)$). We'll modify this definition slightly to allow the concatenation operation as well. This operation (which we'll represent using ©) takes two integers and "glues" them together, so $12\ $©$\ 34$ becomes the four digit number $1234$. Using this operation, the complexity of $12$ is now $3$ (writing it either as $(1 \ $©$\ 1) + 1$ or $1\ $©$\ (1+1)$).  Note that the concatenation operation ignores any initial zeroes in the second operand: $1\ $©$\ 01$ does not result in $101$ but results in $11$.
+
+We'll give you $1$ guess what the object of this problem is.
+
+## 입력
+
+Each test case consists of a single line containing an integer $n$, where $0 < n \leq 100\, 000$.
+
+## 출력
+
+Output the complexity of the number, using the revised definition above.

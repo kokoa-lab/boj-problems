@@ -1,0 +1,43 @@
+---
+title: Cezar
+special_judge: true
+time_limit: 1 초
+memory_limit: 64 MB
+submissions: 152
+accepted: 49
+solved_users: 42
+acceptance_rate: 31.343%
+collected_at: 2026-04-17T13:13:56.543009+00:00
+---
+
+## 문제
+
+Mirko has an array of N different​ words that he wants to encrypt using a substitution cypher.
+
+We encrypt the text using a substitution cypher by first choosing a key – a permutation of the English alphabet. Then we replace all occurrences of letter ‘a’ with the first letter of the key, all occurrences of letter ‘b’ with the second letter of the key, and so on until letter ‘z’.
+
+Besides the words, Mirko has an array A consisting of numbers from 1 to N given in a certain order (in other words, array A is a permutation of numbers from 1 to N). Mirko wants to pick a key such that the array of words after encrypting and lexicographic sorting corresponds to array A. More precisely, he wants the word initially located at Ai to be at location i after encryption and sorting.
+
+Let’s recall that the lexicographic word order is the order in which the words appear in the dictionary. If we are comparing two words, going from left to right, we search for the first position in both words where the letters differ and, based on that, we determine which word is lexicographically smaller. If word X is the beginning of the word Y, then word X is lexicographically smaller than word Y.
+
+Mirko is currently not in the mood for encrypting, so he kindly asks you to do it for him.
+
+## 입력
+
+The first line of input contains the integer N (2 ≤ N ≤ 100).
+
+Each of the following N lines contains a single word that consists of at most 100 lowercase letters of the English alphabet. The words will be mutually distinct.
+
+The last line contains N integers – the elements of array A.
+
+## 출력
+
+In the case when a solution doesn’t exist, output “NE”.
+
+Otherwise, output “DA” in the first line, and in the second line output a word consisting of 26 different letters of the English alphabet – the key for the substitution cipher.
+
+If multiple solutions exist, output any.
+
+## 힌트
+
+After encrypting, the words become “ba”, “ac”, after lexicographic sorting, the array becomes “ac”, “ba”, which means the first word ended up in the second spot, and the second word in the first spot.

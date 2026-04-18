@@ -1,0 +1,25 @@
+
+
+wait 11
+
+
+wait 13
+
+
+right
+
+
+right
+
+
+switch
+
+
+left
+
+
+left
+
+
+left
+

@@ -1,0 +1,43 @@
+---
+title: It’s a Kind of Magic
+special_judge: false
+time_limit: 4 초 (추가 시간 없음)
+memory_limit: 2048 MB
+submissions: 27
+accepted: 20
+solved_users: 15
+acceptance_rate: 71.429%
+collected_at: 2026-04-17T20:03:54.446911+00:00
+---
+
+## 문제
+
+Everyone knows that a $3\times3$ magic square must meet two criteria:
+
+1. All nine numbers must be positive and distinct.
+2. The sums along all rows, columns, and diagonals are equal.
+
+Everyone, except maybe Matt Parker1. He wants to create a magic square of squares, that is, a magic square that also meets a third criterion:
+
+3. Each number is a square of a positive integer.
+
+His "result" can be seen in the picture in the corner. As you may notice, his square is not that magic... Not only do most of the values appear twice, it also has a diagonal with the wrong sum. To be honest, apart from containing non-square values, there is not much that could make this square worse. Well, at least he tried!
+
+But that is all in the past. After finding the *Parker Square*, he decided to completely ignore property $3$ from now on and to instead give property $2$ a new twist. He now considers multiplicative magic squares, which are exactly like normal magic squares except that the *products* along all rows, columns, and diagonals have to be equal, instead of the sums. Who knows, Matt might even manage to find a proper multiplicative magic square in the future!
+
+With this definition at hand, Matt wrote some terrible Python code -- his words, not ours -- to count the number of multiplicative magic $3\times 3$ squares where the product of the numbers in a single row, column, or diagonal is at most $n$. As you may have guessed by now, his code is way too slow. Therefore, we task you to do the same, just more efficiently. Given an integer $n$, count the number of multiplicative magic $3\times 3$ squares with product at most $n$.
+
+---
+
+1Recreational mathematician, author, comedian, YouTube personality, and science communicator.
+
+## 입력
+
+The input consists of:
+
+* One line with an integer $t$ ($1 \leq t \leq 10^5$), the number of test cases.
+* $t$ lines, each with an integer $n$ ($1 \leq n \leq 10^{18}$), the maximum product.
+
+## 출력
+
+For each test case, output the number of multiplicative magic squares with product at most $n$.

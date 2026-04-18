@@ -1,0 +1,977 @@
+<!DOCTYPE html>
+<html class="client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-sticky-header-enabled vector-toc-available skin-theme-clientpref-thumb-standard" lang="sv" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<title>Graf (grafteori) – Wikipedia</title>
+<script>(function(){var className="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-sticky-header-enabled vector-toc-available skin-theme-clientpref-thumb-standard";var cookie=document.cookie.match(/(?:^|; )svwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","januari","februari","mars","april","maj","juni","juli","augusti","september","oktober","november","december"],"wgRequestId":"793dc200-8ad1-46b0-8023-9df5bb964cc7","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Graf_(grafteori)","wgTitle":"Graf (grafteori)","wgCurRevisionId":57953033,"wgRevisionId":57953033,"wgArticleId":34838,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Sidor som använder magiska ISBN-länkar","Grafteori"],"wgPageViewLanguage":"sv","wgPageContentLanguage":"sv","wgPageContentModel":"wikitext","wgRelevantPageName":"Graf_(grafteori)","wgRelevantArticleId":34838,"wgTempUserName":null,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgNoticeProject":"wikipedia","wgCiteReferencePreviewsActive":true,"wgConfirmEditCaptchaNeededForGenericEdit":false,"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":0,"wgVisualEditor":{"pageLanguageCode":"sv","pageLanguageDir":"ltr","pageVariantFallbacks":"sv"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":true,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":5000,"wgParsoidHtmlVersion":"2.8.0","parsermigration-parsoid":true,"wgEditSubmitButtonLabelPublish":true,"wgVisualEditorPageIsDisambiguation":false,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":false,"wgVector2022LanguageInHeader":true,"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q141488","wgCheckUserClientHintsHeadersJsApi":["brands","architecture","bitness","fullVersionList","mobile","model","platform","platformVersion"],"GEHomepageSuggestedEditsEnableTopics":true,"wgGESuggestedEditsTaskTypes":{"taskTypes":["copyedit","link-recommendation"],"unavailableTaskTypes":[]},"wgGETopicsMatchModeEnabled":false,"wgGELevelingUpEnabledForUser":false,"wgTestKitchenUserExperiments":{"overrides":[],"enrolled":[],"assigned":[],"subject_ids":[]}};
+RLSTATE={"ext.gadget.WikidataDescriptionStyles":"ready","ext.gadget.babel":"ready","ext.gadget.geo":"ready","ext.gadget.warnings":"ready","ext.gadget.tags":"ready","ext.gadget.error":"ready","ext.gadget.referenser":"ready","ext.gadget.tables":"ready","ext.gadget.toccolours":"ready","ext.gadget.smallTagFontSize":"ready","ext.gadget.videoPlayButton":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.math.styles":"ready","ext.cite.parsoid.styles":"ready","ext.cite.styles":"ready","mediawiki.skinning.content.parsoid":"ready","ext.wikimediamessages.styles":"ready","skins.vector.search.codex.styles":"ready","skins.vector.styles":"ready","skins.vector.icons":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["ext.math.polyfills","ext.cite.ux-enhancements","mediawiki.page.media","site","mediawiki.page.ready","mediawiki.toc","skins.vector.js","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.gadget.WikidataDescription","ext.gadget.editsection0","ext.gadget.ProtectionIndicators","ext.gadget.GeoboxLocatorMulti","ext.gadget.InterwikiBadges","ext.gadget.collapsibleTables","ext.gadget.NewSection","ext.gadget.ExkluderaRobotskapadeSidor","ext.gadget.Nearby","ext.gadget.InterProjectLinks","ext.gadget.withJS","ext.gadget.CommonsFileLinks","ext.gadget.tableSorterCollation","ext.urlShortener.toolbar","ext.centralauth.centralautologin","mmv.bootstrap","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.echo.centralauth","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.cx.uls.quick.actions","wikibase.client.vector-2022","wikibase.databox.fromWikidata","ext.checkUser.clientHints","ext.quicksurveys.init","ext.growthExperiments.SuggestedEditSession","ext.testKitchen"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+}];});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=sv&amp;modules=ext.cite.parsoid.styles%7Cext.cite.styles%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cext.wikimediamessages.styles%7Cmediawiki.skinning.content.parsoid%7Cskins.vector.icons%2Cstyles%7Cskins.vector.search.codex.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector-2022">
+<script async="" src="/w/load.php?lang=sv&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector-2022"></script>
+<meta name="ResourceLoaderDynamicStyles" content="">
+<link rel="stylesheet" href="/w/load.php?lang=sv&amp;modules=ext.gadget.WikidataDescriptionStyles%2Cbabel%2Cerror%2Cgeo%2Creferenser%2CsmallTagFontSize%2Ctables%2Ctags%2Ctoccolours%2CvideoPlayButton%2Cwarnings&amp;only=styles&amp;skin=vector-2022">
+<link rel="stylesheet" href="/w/load.php?lang=sv&amp;modules=site.styles&amp;only=styles&amp;skin=vector-2022">
+<meta name="generator" content="MediaWiki 1.46.0-wmf.24">
+<meta name="referrer" content="origin">
+<meta name="referrer" content="origin-when-cross-origin">
+<meta name="robots" content="max-image-preview:standard">
+<meta name="format-detection" content="telephone=no">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/6n-graf.svg/1280px-6n-graf.svg.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="793">
+<meta name="viewport" content="width=1120">
+<meta property="og:title" content="Graf (grafteori) – Wikipedia">
+<meta property="og:type" content="website">
+<link rel="preconnect" href="//upload.wikimedia.org">
+<link rel="alternate" type="application/x-wiki" title="Redigera" href="/w/index.php?title=Graf_(grafteori)&amp;action=edit">
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png">
+<link rel="icon" href="/static/favicon/wikipedia.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="/w/rest.php/v1/search" title="Wikipedia (sv)">
+<link rel="EditURI" type="application/rsd+xml" href="//sv.wikipedia.org/w/api.php?action=rsd">
+<link rel="canonical" href="https://sv.wikipedia.org/wiki/Graf_(grafteori)">
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.sv">
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom-flöde" href="/w/index.php?title=Special:Senaste_%C3%A4ndringar&amp;feed=atom">
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="auth.wikimedia.org">
+</head>
+<body class="skin--responsive skin-vector skin-vector-search-vue mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Graf_grafteori rootpage-Graf_grafteori skin-vector-2022 action-view">
+<div id="mw-aria-live-region" class="mw-aria-live-region" aria-live="polite"></div><a class="mw-jump-link" href="#bodyContent">Hoppa till innehållet</a>
+<div class="vector-header-container">
+	<header class="vector-header mw-header no-font-mode-scale">
+		<div class="vector-header-start">
+			<nav class="vector-main-menu-landmark" aria-label="Webbplats">
+				
+<div id="vector-main-menu-dropdown" class="vector-dropdown vector-main-menu-dropdown vector-button-flush-left vector-button-flush-right"  title="Huvudmeny" >
+	<input type="checkbox" id="vector-main-menu-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-main-menu-dropdown" class="vector-dropdown-checkbox "  aria-label="Huvudmeny"  >
+	<label id="vector-main-menu-dropdown-label" for="vector-main-menu-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-menu mw-ui-icon-wikimedia-menu"></span>
+
+<span class="vector-dropdown-label-text">Huvudmeny</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+				<div id="vector-main-menu-unpinned-container" class="vector-unpinned-container">
+		
+<div id="vector-main-menu" class="vector-main-menu vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-main-menu-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="main-menu-pinned"
+	data-pinnable-element-id="vector-main-menu"
+	data-pinned-container-id="vector-main-menu-pinned-container"
+	data-unpinned-container-id="vector-main-menu-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Huvudmeny</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-main-menu.pin">flytta till sidofältet</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-main-menu.unpin">dölj</button>
+</div>
+
+	
+<div id="p-navigation" class="vector-menu mw-portlet mw-portlet-navigation"  >
+	<div class="vector-menu-heading">
+		Navigering
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/Portal:Huvudsida" title="Besök huvudsidan [z]" accesskey="z"><span>Huvudsida</span></a></li><li id="n-Introduktion" class="mw-list-item"><a href="/wiki/Wikipedia:Introduktion"><span>Introduktion</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/Wikipedia:Deltagarportalen" title="Om projektet, vad du kan göra, var man kan hitta saker"><span>Deltagarportalen</span></a></li><li id="n-Bybrunnen" class="mw-list-item"><a href="/wiki/Wikipedia:Bybrunnen"><span>Bybrunnen</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/Special:Senaste_%C3%A4ndringar" title="Lista över de senaste ändringarna på wikin [r]" accesskey="r"><span>Senaste ändringarna</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/Special:Slumpsida" title="Gå till en slumpmässigt vald sida [x]" accesskey="x"><span>Slumpartikel</span></a></li><li id="n-filuppladdning" class="mw-list-item"><a href="//commons.wikimedia.org/wiki/Special:UploadWizard" title="Ladda upp filer till Wikimedia Commons"><span>Ladda upp filer</span></a></li><li id="n-Kontakta-Wikipedia" class="mw-list-item"><a href="/wiki/Wikipedia:Kontakt"><span>Kontakta Wikipedia</span></a></li><li id="n-help" class="mw-list-item"><a href="/wiki/Wikipedia:Hj%C3%A4lp" title="Platsen där du hittar hjälp"><span>Hjälp</span></a></li><li id="n-specialpages" class="mw-list-item"><a href="/wiki/Special:Specialsidor" title="Lista över alla specialsidor [q]" accesskey="q"><span>Specialsidor</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+</div>
+
+				</div>
+
+	</div>
+</div>
+
+		</nav>
+			
+<a href="/wiki/Portal:Huvudsida" class="mw-logo">
+	<img class="mw-logo-icon" src="/static/images/icons/wikipedia.png" alt="" aria-hidden="true" height="50" width="50">
+	<span class="mw-logo-container skin-invert">
+		<img class="mw-logo-wordmark" alt="Wikipedia" src="/static/images/mobile/copyright/wikipedia-wordmark-en.svg" style="width: 7.5em; height: 1.125em;">
+		<img class="mw-logo-tagline" alt="" src="/static/images/mobile/copyright/wikipedia-tagline-sv.svg" width="120" height="13" style="width: 7.5em; height: 0.8125em;">
+	</span>
+</a>
+
+		</div>
+		<div class="vector-header-end">
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-collapses vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<a href="/wiki/Special:S%C3%B6k" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only search-toggle" title="Sök i svenskspråkiga Wikipedia [f]" accesskey="f"><span class="vector-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
+
+<span>Sök</span>
+	</a>
+	<div class="vector-typeahead-search-container">
+		<div class="cdx-typeahead-search cdx-typeahead-search--show-thumbnail cdx-typeahead-search--auto-expand-width">
+			<form action="/w/index.php" id="searchform" class="cdx-search-input cdx-search-input--has-end-button">
+				<div id="simpleSearch" class="cdx-search-input__input-wrapper"  data-search-loc="header-moved">
+					<div class="cdx-text-input cdx-text-input--has-start-icon">
+						<input
+							class="cdx-text-input__input mw-searchInput" autocomplete="off"
+							 type="search" name="search" placeholder="Sök på Wikipedia" aria-label="Sök på Wikipedia" autocapitalize="none" spellcheck="false" title="Sök i svenskspråkiga Wikipedia [f]" accesskey="f" id="searchInput"
+							>
+						<span class="cdx-text-input__icon cdx-text-input__start-icon"></span>
+					</div>
+					<input type="hidden" name="title" value="Special:Sök">
+				</div>
+				<button class="cdx-button cdx-search-input__end-button">Sök</button>
+			</form>
+		</div>
+	</div>
+</div>
+
+			<nav class="vector-user-links vector-user-links-wide" aria-label="Personliga verktyg">
+	<div class="vector-user-links-main">
+	
+<div id="p-vector-user-menu-preferences" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-userpage" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	<nav class="vector-appearance-landmark" aria-label="Utseende">
+		
+<div id="vector-appearance-dropdown" class="vector-dropdown "  title="Ändra utseendet på sidans teckenstorlek, bredd och färg" >
+	<input type="checkbox" id="vector-appearance-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-appearance-dropdown" class="vector-dropdown-checkbox "  aria-label="Utseende"  >
+	<label id="vector-appearance-dropdown-label" for="vector-appearance-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-appearance mw-ui-icon-wikimedia-appearance"></span>
+
+<span class="vector-dropdown-label-text">Utseende</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+			<div id="vector-appearance-unpinned-container" class="vector-unpinned-container">
+				
+			</div>
+		
+	</div>
+</div>
+
+	</nav>
+	
+<div id="p-vector-user-menu-notifications" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-overflow" class="vector-menu mw-portlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			<li id="pt-sitesupport-2" class="mw-list-item user-links-collapsible-item"><a data-mw-interface  href="https://donate.wikimedia.org/?wmf_source=donate&amp;wmf_medium=sidebar&amp;wmf_campaign=sv.wikipedia.org&amp;uselang=sv" class=" cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet"><span class="vector-icon mw-ui-icon-heart mw-ui-icon-wikimedia-heart"></span>
+
+<span>Stöd Wikipedia</span></a>
+</li>
+<li id="pt-createaccount-2" class="mw-list-item user-links-collapsible-item"><a data-mw-interface  href="/w/index.php?title=Special:Skapa_konto&amp;returnto=Graf+%28grafteori%29" title="Du uppmuntras att skapa ett konto och logga in, men det är inte obligatoriskt" class=""><span>Skapa konto</span></a>
+</li>
+<li id="pt-login-2" class="mw-list-item user-links-collapsible-item"><a data-mw-interface  href="/w/index.php?title=Special:Inloggning&amp;returnto=Graf+%28grafteori%29" title="Inloggning ger tillgång till fler funktioner för den som vill skriva och redigera artiklar. [o]" accesskey="o" class=""><span>Logga in</span></a>
+</li>
+
+			
+		</ul>
+		
+	</div>
+</div>
+
+	</div>
+	
+<div id="vector-user-links-dropdown" class="vector-dropdown vector-user-menu vector-button-flush-right vector-user-menu-logged-out user-links-collapsible-item"  title="Fler alternativ" >
+	<input type="checkbox" id="vector-user-links-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-user-links-dropdown" class="vector-dropdown-checkbox "  aria-label="Personliga verktyg"  >
+	<label id="vector-user-links-dropdown-label" for="vector-user-links-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-ellipsis mw-ui-icon-wikimedia-ellipsis"></span>
+
+<span class="vector-dropdown-label-text">Personliga verktyg</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+		
+<div id="p-personal" class="vector-menu mw-portlet mw-portlet-personal user-links-collapsible-item"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			<li id="pt-sitesupport" class="mw-list-item user-links-collapsible-item"><a data-mw-interface  href="https://donate.wikimedia.org/?wmf_source=donate&amp;wmf_medium=sidebar&amp;wmf_campaign=sv.wikipedia.org&amp;uselang=sv" class=""><span class="vector-icon mw-ui-icon-heart mw-ui-icon-wikimedia-heart"></span>
+
+<span>Stöd Wikipedia</span></a>
+</li>
+<li id="pt-createaccount" class="mw-list-item user-links-collapsible-item"><a data-mw-interface  href="/w/index.php?title=Special:Skapa_konto&amp;returnto=Graf+%28grafteori%29" title="Du uppmuntras att skapa ett konto och logga in, men det är inte obligatoriskt" class=""><span class="vector-icon mw-ui-icon-userAdd mw-ui-icon-wikimedia-userAdd"></span>
+
+<span>Skapa konto</span></a>
+</li>
+<li id="pt-login" class="mw-list-item user-links-collapsible-item"><a data-mw-interface  href="/w/index.php?title=Special:Inloggning&amp;returnto=Graf+%28grafteori%29" title="Inloggning ger tillgång till fler funktioner för den som vill skriva och redigera artiklar. [o]" accesskey="o" class=""><span class="vector-icon mw-ui-icon-logIn mw-ui-icon-wikimedia-logIn"></span>
+
+<span>Logga in</span></a>
+</li>
+
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+	</div>
+</div>
+
+</nav>
+
+		</div>
+	</header>
+</div>
+<div class="mw-page-container">
+	<div class="mw-page-container-inner">
+		<div class="vector-sitenotice-container">
+			<div id="siteNotice"><!-- CentralNotice --></div>
+		</div>
+		<div class="vector-column-start">
+			<div class="vector-main-menu-container">
+		<div id="mw-navigation">
+			<nav id="mw-panel" class="vector-main-menu-landmark" aria-label="Webbplats">
+				<div id="vector-main-menu-pinned-container" class="vector-pinned-container">
+				
+				</div>
+		</nav>
+		</div>
+	</div>
+	<div class="vector-sticky-pinned-container">
+				<nav id="mw-panel-toc" aria-label="Innehåll" data-event-name="ui.sidebar-toc" class="mw-table-of-contents-container vector-toc-landmark">
+					<div id="vector-toc-pinned-container" class="vector-pinned-container">
+					<div id="vector-toc" class="vector-toc vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-toc-pinnable-header vector-pinnable-header-pinned"
+	data-feature-name="toc-pinned"
+	data-pinnable-element-id="vector-toc"
+	data-pinned-container-id="vector-toc-pinned-container"
+	data-unpinned-container-id="vector-toc-unpinned-container"
+>
+	<h2 class="vector-pinnable-header-label">Innehåll</h2>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-toc.pin">flytta till sidofältet</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-toc.unpin">dölj</button>
+</div>
+
+
+	<ul class="vector-toc-contents" id="mw-panel-toc-list">
+		<li id="toc-mw-content-text"
+			class="vector-toc-list-item vector-toc-level-1">
+			<a href="#" class="vector-toc-link">
+				<div class="vector-toc-text">Inledning</div>
+			</a>
+		</li>
+		<li id="toc-Formella_definitioner"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Formella_definitioner">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">1</span>
+				<span>Formella definitioner</span>
+			</div>
+		</a>
+		
+		<ul id="toc-Formella_definitioner-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Benämningar_på_speciella_grafer"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Benämningar_på_speciella_grafer">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">2</span>
+				<span>Benämningar på speciella grafer</span>
+			</div>
+		</a>
+		
+		<ul id="toc-Benämningar_på_speciella_grafer-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Beteckningar"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Beteckningar">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">3</span>
+				<span>Beteckningar</span>
+			</div>
+		</a>
+		
+		<ul id="toc-Beteckningar-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Se_även"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Se_även">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">4</span>
+				<span>Se även</span>
+			</div>
+		</a>
+		
+		<ul id="toc-Se_även-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Referenser"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Referenser">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">5</span>
+				<span>Referenser</span>
+			</div>
+		</a>
+		
+			<button aria-controls="toc-Referenser-sublist" class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-toc-toggle">
+				<span class="vector-icon mw-ui-icon-wikimedia-expand"></span>
+				<span>Växla underavsnittet Referenser</span>
+			</button>
+		
+		<ul id="toc-Referenser-sublist" class="vector-toc-list">
+			<li id="toc-Källor"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Källor">
+				<div class="vector-toc-text">
+					<span class="vector-toc-numb">5.1</span>
+					<span>Källor</span>
+				</div>
+			</a>
+			
+			<ul id="toc-Källor-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="toc-Externa_länkar"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Externa_länkar">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">6</span>
+				<span>Externa länkar</span>
+			</div>
+		</a>
+		
+		<ul id="toc-Externa_länkar-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+</ul>
+</div>
+
+					</div>
+		</nav>
+			</div>
+		</div>
+		<div class="mw-content-container">
+			<main id="content" class="mw-body">
+				<header class="mw-body-header vector-page-titlebar no-font-mode-scale">
+					<nav aria-label="Innehåll" class="vector-toc-landmark">
+						
+<div id="vector-page-titlebar-toc" class="vector-dropdown vector-page-titlebar-toc vector-button-flush-left"  title="Innehållsförteckning" >
+	<input type="checkbox" id="vector-page-titlebar-toc-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-titlebar-toc" class="vector-dropdown-checkbox "  aria-label="Växla innehållsförteckningen"  >
+	<label id="vector-page-titlebar-toc-label" for="vector-page-titlebar-toc-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-listBullet mw-ui-icon-wikimedia-listBullet"></span>
+
+<span class="vector-dropdown-label-text">Växla innehållsförteckningen</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+							<div id="vector-page-titlebar-toc-unpinned-container" class="vector-unpinned-container">
+			</div>
+		
+	</div>
+</div>
+
+					</nav>
+					<h1 id="firstHeading" class="firstHeading mw-first-heading"><span lang="sv" dir="ltr"><span class="mw-page-title-main">Graf (grafteori)</span></span></h1>
+							
+<div id="p-lang-btn" class="vector-dropdown mw-portlet mw-portlet-lang"  >
+	<input type="checkbox" id="p-lang-btn-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-lang-btn" class="vector-dropdown-checkbox mw-interlanguage-selector" aria-label="Gå till en artikel på ett annat språk. Tillgänglig på 66 språk"   >
+	<label id="p-lang-btn-label" for="p-lang-btn-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive mw-portlet-lang-heading-66" aria-hidden="true"  ><span class="vector-icon mw-ui-icon-language-progressive mw-ui-icon-wikimedia-language-progressive"></span>
+
+<span class="vector-dropdown-label-text">66 språk</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+		<div class="vector-menu-content">
+			
+			<ul class="vector-menu-content-list">
+				
+				<li class="interlanguage-link interwiki-ar mw-list-item"><a href="https://ar.wikipedia.org/wiki/%D8%A8%D9%8A%D8%A7%D9%86_(%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A7%D8%AA_%D9%85%D8%AA%D9%82%D8%B7%D8%B9%D8%A9)" title="بيان (رياضيات متقطعة) – arabiska" lang="ar" hreflang="ar" data-title="بيان (رياضيات متقطعة)" data-language-autonym="العربية" data-language-local-name="arabiska" class="interlanguage-link-target"><span>العربية</span></a></li><li class="interlanguage-link interwiki-ast mw-list-item"><a href="https://ast.wikipedia.org/wiki/Grafu" title="Grafu – asturiska" lang="ast" hreflang="ast" data-title="Grafu" data-language-autonym="Asturianu" data-language-local-name="asturiska" class="interlanguage-link-target"><span>Asturianu</span></a></li><li class="interlanguage-link interwiki-az mw-list-item"><a href="https://az.wikipedia.org/wiki/Qraf_(riyaziyyat)" title="Qraf (riyaziyyat) – azerbajdzjanska" lang="az" hreflang="az" data-title="Qraf (riyaziyyat)" data-language-autonym="Azərbaycanca" data-language-local-name="azerbajdzjanska" class="interlanguage-link-target"><span>Azərbaycanca</span></a></li><li class="interlanguage-link interwiki-ba mw-list-item"><a href="https://ba.wikipedia.org/wiki/%D0%93%D1%80%D0%B0%D1%84_(%D0%BC%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0)" title="Граф (математика) – basjkiriska" lang="ba" hreflang="ba" data-title="Граф (математика)" data-language-autonym="Башҡортса" data-language-local-name="basjkiriska" class="interlanguage-link-target"><span>Башҡортса</span></a></li><li class="interlanguage-link interwiki-be mw-list-item"><a href="https://be.wikipedia.org/wiki/%D0%93%D1%80%D0%B0%D1%84_(%D0%BC%D0%B0%D1%82%D1%8D%D0%BC%D0%B0%D1%82%D1%8B%D0%BA%D0%B0)" title="Граф (матэматыка) – belarusiska" lang="be" hreflang="be" data-title="Граф (матэматыка)" data-language-autonym="Беларуская" data-language-local-name="belarusiska" class="interlanguage-link-target"><span>Беларуская</span></a></li><li class="interlanguage-link interwiki-bg mw-list-item"><a href="https://bg.wikipedia.org/wiki/%D0%93%D1%80%D0%B0%D1%84_(%D0%BC%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0)" title="Граф (математика) – bulgariska" lang="bg" hreflang="bg" data-title="Граф (математика)" data-language-autonym="Български" data-language-local-name="bulgariska" class="interlanguage-link-target"><span>Български</span></a></li><li class="interlanguage-link interwiki-bn mw-list-item"><a href="https://bn.wikipedia.org/wiki/%E0%A6%9A%E0%A6%BF%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%B2%E0%A7%87%E0%A6%96_(%E0%A6%97%E0%A6%A3%E0%A6%BF%E0%A6%A4)" title="চিত্রলেখ (গণিত) – bengali" lang="bn" hreflang="bn" data-title="চিত্রলেখ (গণিত)" data-language-autonym="বাংলা" data-language-local-name="bengali" class="interlanguage-link-target"><span>বাংলা</span></a></li><li class="interlanguage-link interwiki-ca mw-list-item"><a href="https://ca.wikipedia.org/wiki/Graf_(matem%C3%A0tiques)" title="Graf (matemàtiques) – katalanska" lang="ca" hreflang="ca" data-title="Graf (matemàtiques)" data-language-autonym="Català" data-language-local-name="katalanska" class="interlanguage-link-target"><span>Català</span></a></li><li class="interlanguage-link interwiki-ckb mw-list-item"><a href="https://ckb.wikipedia.org/wiki/%DA%AF%D8%B1%D8%A7%D9%81_(%D9%85%D8%A7%D8%AA%D9%85%D8%A7%D8%AA%DB%8C%DA%A9)" title="گراف (ماتماتیک) – centralkurdiska" lang="ckb" hreflang="ckb" data-title="گراف (ماتماتیک)" data-language-autonym="کوردی" data-language-local-name="centralkurdiska" class="interlanguage-link-target"><span>کوردی</span></a></li><li class="interlanguage-link interwiki-cs mw-list-item"><a href="https://cs.wikipedia.org/wiki/Graf_(teorie_graf%C5%AF)" title="Graf (teorie grafů) – tjeckiska" lang="cs" hreflang="cs" data-title="Graf (teorie grafů)" data-language-autonym="Čeština" data-language-local-name="tjeckiska" class="interlanguage-link-target"><span>Čeština</span></a></li><li class="interlanguage-link interwiki-cv mw-list-item"><a href="https://cv.wikipedia.org/wiki/%D0%93%D1%80%D0%B0%D1%84_(%D0%BC%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0)" title="Граф (математика) – tjuvasjiska" lang="cv" hreflang="cv" data-title="Граф (математика)" data-language-autonym="Чӑвашла" data-language-local-name="tjuvasjiska" class="interlanguage-link-target"><span>Чӑвашла</span></a></li><li class="interlanguage-link interwiki-cy mw-list-item"><a href="https://cy.wikipedia.org/wiki/Graff_(mathemateg_arwahanol)" title="Graff (mathemateg arwahanol) – walesiska" lang="cy" hreflang="cy" data-title="Graff (mathemateg arwahanol)" data-language-autonym="Cymraeg" data-language-local-name="walesiska" class="interlanguage-link-target"><span>Cymraeg</span></a></li><li class="interlanguage-link interwiki-da mw-list-item"><a href="https://da.wikipedia.org/wiki/Graf_(diskret_matematik)" title="Graf (diskret matematik) – danska" lang="da" hreflang="da" data-title="Graf (diskret matematik)" data-language-autonym="Dansk" data-language-local-name="danska" class="interlanguage-link-target"><span>Dansk</span></a></li><li class="interlanguage-link interwiki-de mw-list-item"><a href="https://de.wikipedia.org/wiki/Graph_(Graphentheorie)" title="Graph (Graphentheorie) – tyska" lang="de" hreflang="de" data-title="Graph (Graphentheorie)" data-language-autonym="Deutsch" data-language-local-name="tyska" class="interlanguage-link-target"><span>Deutsch</span></a></li><li class="interlanguage-link interwiki-el mw-list-item"><a href="https://el.wikipedia.org/wiki/%CE%93%CF%81%CE%AC%CF%86%CE%BF%CF%82" title="Γράφος – grekiska" lang="el" hreflang="el" data-title="Γράφος" data-language-autonym="Ελληνικά" data-language-local-name="grekiska" class="interlanguage-link-target"><span>Ελληνικά</span></a></li><li class="interlanguage-link interwiki-en mw-list-item"><a href="https://en.wikipedia.org/wiki/Graph_(discrete_mathematics)" title="Graph (discrete mathematics) – engelska" lang="en" hreflang="en" data-title="Graph (discrete mathematics)" data-language-autonym="English" data-language-local-name="engelska" class="interlanguage-link-target"><span>English</span></a></li><li class="interlanguage-link interwiki-eo mw-list-item"><a href="https://eo.wikipedia.org/wiki/Grafeo" title="Grafeo – esperanto" lang="eo" hreflang="eo" data-title="Grafeo" data-language-autonym="Esperanto" data-language-local-name="esperanto" class="interlanguage-link-target"><span>Esperanto</span></a></li><li class="interlanguage-link interwiki-es mw-list-item"><a href="https://es.wikipedia.org/wiki/Grafo" title="Grafo – spanska" lang="es" hreflang="es" data-title="Grafo" data-language-autonym="Español" data-language-local-name="spanska" class="interlanguage-link-target"><span>Español</span></a></li><li class="interlanguage-link interwiki-et mw-list-item"><a href="https://et.wikipedia.org/wiki/Graaf" title="Graaf – estniska" lang="et" hreflang="et" data-title="Graaf" data-language-autonym="Eesti" data-language-local-name="estniska" class="interlanguage-link-target"><span>Eesti</span></a></li><li class="interlanguage-link interwiki-eu mw-list-item"><a href="https://eu.wikipedia.org/wiki/Grafo" title="Grafo – baskiska" lang="eu" hreflang="eu" data-title="Grafo" data-language-autonym="Euskara" data-language-local-name="baskiska" class="interlanguage-link-target"><span>Euskara</span></a></li><li class="interlanguage-link interwiki-fa mw-list-item"><a href="https://fa.wikipedia.org/wiki/%DA%AF%D8%B1%D8%A7%D9%81_(%D8%B1%DB%8C%D8%A7%D8%B6%DB%8C)" title="گراف (ریاضی) – persiska" lang="fa" hreflang="fa" data-title="گراف (ریاضی)" data-language-autonym="فارسی" data-language-local-name="persiska" class="interlanguage-link-target"><span>فارسی</span></a></li><li class="interlanguage-link interwiki-fi mw-list-item"><a href="https://fi.wikipedia.org/wiki/Graafi" title="Graafi – finska" lang="fi" hreflang="fi" data-title="Graafi" data-language-autonym="Suomi" data-language-local-name="finska" class="interlanguage-link-target"><span>Suomi</span></a></li><li class="interlanguage-link interwiki-fr mw-list-item"><a href="https://fr.wikipedia.org/wiki/Graphe_(math%C3%A9matiques_discr%C3%A8tes)" title="Graphe (mathématiques discrètes) – franska" lang="fr" hreflang="fr" data-title="Graphe (mathématiques discrètes)" data-language-autonym="Français" data-language-local-name="franska" class="interlanguage-link-target"><span>Français</span></a></li><li class="interlanguage-link interwiki-gl mw-list-item"><a href="https://gl.wikipedia.org/wiki/Grafo" title="Grafo – galiciska" lang="gl" hreflang="gl" data-title="Grafo" data-language-autonym="Galego" data-language-local-name="galiciska" class="interlanguage-link-target"><span>Galego</span></a></li><li class="interlanguage-link interwiki-he mw-list-item"><a href="https://he.wikipedia.org/wiki/%D7%92%D7%A8%D7%A3_(%D7%AA%D7%95%D7%A8%D7%AA_%D7%94%D7%92%D7%A8%D7%A4%D7%99%D7%9D)" title="גרף (תורת הגרפים) – hebreiska" lang="he" hreflang="he" data-title="גרף (תורת הגרפים)" data-language-autonym="עברית" data-language-local-name="hebreiska" class="interlanguage-link-target"><span>עברית</span></a></li><li class="interlanguage-link interwiki-hr mw-list-item"><a href="https://hr.wikipedia.org/wiki/Graf_(teorija_grafova)" title="Graf (teorija grafova) – kroatiska" lang="hr" hreflang="hr" data-title="Graf (teorija grafova)" data-language-autonym="Hrvatski" data-language-local-name="kroatiska" class="interlanguage-link-target"><span>Hrvatski</span></a></li><li class="interlanguage-link interwiki-hu mw-list-item"><a href="https://hu.wikipedia.org/wiki/Gr%C3%A1f" title="Gráf – ungerska" lang="hu" hreflang="hu" data-title="Gráf" data-language-autonym="Magyar" data-language-local-name="ungerska" class="interlanguage-link-target"><span>Magyar</span></a></li><li class="interlanguage-link interwiki-hy mw-list-item"><a href="https://hy.wikipedia.org/wiki/%D4%B3%D6%80%D5%A1%D6%86%D5%B6%D5%A5%D6%80" title="Գրաֆներ – armeniska" lang="hy" hreflang="hy" data-title="Գրաֆներ" data-language-autonym="Հայերեն" data-language-local-name="armeniska" class="interlanguage-link-target"><span>Հայերեն</span></a></li><li class="interlanguage-link interwiki-id mw-list-item"><a href="https://id.wikipedia.org/wiki/Graf_(matematika)" title="Graf (matematika) – indonesiska" lang="id" hreflang="id" data-title="Graf (matematika)" data-language-autonym="Bahasa Indonesia" data-language-local-name="indonesiska" class="interlanguage-link-target"><span>Bahasa Indonesia</span></a></li><li class="interlanguage-link interwiki-io mw-list-item"><a href="https://io.wikipedia.org/wiki/Grafiko_(matematiko)" title="Grafiko (matematiko) – ido" lang="io" hreflang="io" data-title="Grafiko (matematiko)" data-language-autonym="Ido" data-language-local-name="ido" class="interlanguage-link-target"><span>Ido</span></a></li><li class="interlanguage-link interwiki-is mw-list-item"><a href="https://is.wikipedia.org/wiki/Net_(st%C3%A6r%C3%B0fr%C3%A6%C3%B0i)" title="Net (stærðfræði) – isländska" lang="is" hreflang="is" data-title="Net (stærðfræði)" data-language-autonym="Íslenska" data-language-local-name="isländska" class="interlanguage-link-target"><span>Íslenska</span></a></li><li class="interlanguage-link interwiki-it mw-list-item"><a href="https://it.wikipedia.org/wiki/Grafo" title="Grafo – italienska" lang="it" hreflang="it" data-title="Grafo" data-language-autonym="Italiano" data-language-local-name="italienska" class="interlanguage-link-target"><span>Italiano</span></a></li><li class="interlanguage-link interwiki-ja mw-list-item"><a href="https://ja.wikipedia.org/wiki/%E3%82%B0%E3%83%A9%E3%83%95_(%E9%9B%A2%E6%95%A3%E6%95%B0%E5%AD%A6)" title="グラフ (離散数学) – japanska" lang="ja" hreflang="ja" data-title="グラフ (離散数学)" data-language-autonym="日本語" data-language-local-name="japanska" class="interlanguage-link-target"><span>日本語</span></a></li><li class="interlanguage-link interwiki-kk mw-list-item"><a href="https://kk.wikipedia.org/wiki/%D0%93%D1%80%D0%B0%D1%84_(%D0%BC%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0)" title="Граф (математика) – kazakiska" lang="kk" hreflang="kk" data-title="Граф (математика)" data-language-autonym="Қазақша" data-language-local-name="kazakiska" class="interlanguage-link-target"><span>Қазақша</span></a></li><li class="interlanguage-link interwiki-ko mw-list-item"><a href="https://ko.wikipedia.org/wiki/%EA%B7%B8%EB%9E%98%ED%94%84_(%EC%A1%B0%ED%95%A9%EB%A1%A0)" title="그래프 (조합론) – koreanska" lang="ko" hreflang="ko" data-title="그래프 (조합론)" data-language-autonym="한국어" data-language-local-name="koreanska" class="interlanguage-link-target"><span>한국어</span></a></li><li class="interlanguage-link interwiki-lmo mw-list-item"><a href="https://lmo.wikipedia.org/wiki/Graf" title="Graf – lombardiska" lang="lmo" hreflang="lmo" data-title="Graf" data-language-autonym="Lombard" data-language-local-name="lombardiska" class="interlanguage-link-target"><span>Lombard</span></a></li><li class="interlanguage-link interwiki-lt mw-list-item"><a href="https://lt.wikipedia.org/wiki/Grafas_(matematika)" title="Grafas (matematika) – litauiska" lang="lt" hreflang="lt" data-title="Grafas (matematika)" data-language-autonym="Lietuvių" data-language-local-name="litauiska" class="interlanguage-link-target"><span>Lietuvių</span></a></li><li class="interlanguage-link interwiki-lv mw-list-item"><a href="https://lv.wikipedia.org/wiki/Grafs" title="Grafs – lettiska" lang="lv" hreflang="lv" data-title="Grafs" data-language-autonym="Latviešu" data-language-local-name="lettiska" class="interlanguage-link-target"><span>Latviešu</span></a></li><li class="interlanguage-link interwiki-mk mw-list-item"><a href="https://mk.wikipedia.org/wiki/%D0%93%D1%80%D0%B0%D1%84" title="Граф – makedonska" lang="mk" hreflang="mk" data-title="Граф" data-language-autonym="Македонски" data-language-local-name="makedonska" class="interlanguage-link-target"><span>Македонски</span></a></li><li class="interlanguage-link interwiki-ml mw-list-item"><a href="https://ml.wikipedia.org/wiki/%E0%B4%B2%E0%B5%87%E0%B4%96_(%E0%B4%B2%E0%B5%87%E0%B4%96%E0%B4%BE%E0%B4%B8%E0%B4%BF%E0%B4%A6%E0%B5%8D%E0%B4%A7%E0%B4%BE%E0%B4%A8%E0%B5%8D%E0%B4%A4%E0%B4%82)" title="ലേഖ (ലേഖാസിദ്ധാന്തം) – malayalam" lang="ml" hreflang="ml" data-title="ലേഖ (ലേഖാസിദ്ധാന്തം)" data-language-autonym="മലയാളം" data-language-local-name="malayalam" class="interlanguage-link-target"><span>മലയാളം</span></a></li><li class="interlanguage-link interwiki-mr mw-list-item"><a href="https://mr.wikipedia.org/wiki/%E0%A4%9C%E0%A4%BE%E0%A4%B2_(%E0%A4%97%E0%A4%A3%E0%A4%BF%E0%A4%A4)" title="जाल (गणित) – marathi" lang="mr" hreflang="mr" data-title="जाल (गणित)" data-language-autonym="मराठी" data-language-local-name="marathi" class="interlanguage-link-target"><span>मराठी</span></a></li><li class="interlanguage-link interwiki-nl badge-Q70894304 mw-list-item" title=""><a href="https://nl.wikipedia.org/wiki/Graaf_(wiskunde)" title="Graaf (wiskunde) – nederländska" lang="nl" hreflang="nl" data-title="Graaf (wiskunde)" data-language-autonym="Nederlands" data-language-local-name="nederländska" class="interlanguage-link-target"><span>Nederlands</span></a></li><li class="interlanguage-link interwiki-nn mw-list-item"><a href="https://nn.wikipedia.org/wiki/Graf_i_matematikk" title="Graf i matematikk – nynorska" lang="nn" hreflang="nn" data-title="Graf i matematikk" data-language-autonym="Norsk nynorsk" data-language-local-name="nynorska" class="interlanguage-link-target"><span>Norsk nynorsk</span></a></li><li class="interlanguage-link interwiki-pl mw-list-item"><a href="https://pl.wikipedia.org/wiki/Graf_(matematyka)" title="Graf (matematyka) – polska" lang="pl" hreflang="pl" data-title="Graf (matematyka)" data-language-autonym="Polski" data-language-local-name="polska" class="interlanguage-link-target"><span>Polski</span></a></li><li class="interlanguage-link interwiki-pms mw-list-item"><a href="https://pms.wikipedia.org/wiki/Graf" title="Graf – piemontesiska" lang="pms" hreflang="pms" data-title="Graf" data-language-autonym="Piemontèis" data-language-local-name="piemontesiska" class="interlanguage-link-target"><span>Piemontèis</span></a></li><li class="interlanguage-link interwiki-pt badge-Q70893996 mw-list-item" title=""><a href="https://pt.wikipedia.org/wiki/Grafo" title="Grafo – portugisiska" lang="pt" hreflang="pt" data-title="Grafo" data-language-autonym="Português" data-language-local-name="portugisiska" class="interlanguage-link-target"><span>Português</span></a></li><li class="interlanguage-link interwiki-ro mw-list-item"><a href="https://ro.wikipedia.org/wiki/Graf" title="Graf – rumänska" lang="ro" hreflang="ro" data-title="Graf" data-language-autonym="Română" data-language-local-name="rumänska" class="interlanguage-link-target"><span>Română</span></a></li><li class="interlanguage-link interwiki-ru mw-list-item"><a href="https://ru.wikipedia.org/wiki/%D0%93%D1%80%D0%B0%D1%84_(%D0%BC%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0)" title="Граф (математика) – ryska" lang="ru" hreflang="ru" data-title="Граф (математика)" data-language-autonym="Русский" data-language-local-name="ryska" class="interlanguage-link-target"><span>Русский</span></a></li><li class="interlanguage-link interwiki-sh mw-list-item"><a href="https://sh.wikipedia.org/wiki/Graf" title="Graf – serbokroatiska" lang="sh" hreflang="sh" data-title="Graf" data-language-autonym="Srpskohrvatski / српскохрватски" data-language-local-name="serbokroatiska" class="interlanguage-link-target"><span>Srpskohrvatski / српскохрватски</span></a></li><li class="interlanguage-link interwiki-simple mw-list-item"><a href="https://simple.wikipedia.org/wiki/Graph_(mathematics)" title="Graph (mathematics) – Simple English" lang="en-simple" hreflang="en-simple" data-title="Graph (mathematics)" data-language-autonym="Simple English" data-language-local-name="Simple English" class="interlanguage-link-target"><span>Simple English</span></a></li><li class="interlanguage-link interwiki-sk mw-list-item"><a href="https://sk.wikipedia.org/wiki/Graf_(matematika)" title="Graf (matematika) – slovakiska" lang="sk" hreflang="sk" data-title="Graf (matematika)" data-language-autonym="Slovenčina" data-language-local-name="slovakiska" class="interlanguage-link-target"><span>Slovenčina</span></a></li><li class="interlanguage-link interwiki-sl mw-list-item"><a href="https://sl.wikipedia.org/wiki/Graf_(matematika)" title="Graf (matematika) – slovenska" lang="sl" hreflang="sl" data-title="Graf (matematika)" data-language-autonym="Slovenščina" data-language-local-name="slovenska" class="interlanguage-link-target"><span>Slovenščina</span></a></li><li class="interlanguage-link interwiki-sq mw-list-item"><a href="https://sq.wikipedia.org/wiki/Grafi" title="Grafi – albanska" lang="sq" hreflang="sq" data-title="Grafi" data-language-autonym="Shqip" data-language-local-name="albanska" class="interlanguage-link-target"><span>Shqip</span></a></li><li class="interlanguage-link interwiki-sr mw-list-item"><a href="https://sr.wikipedia.org/wiki/%D0%93%D1%80%D0%B0%D1%84" title="Граф – serbiska" lang="sr" hreflang="sr" data-title="Граф" data-language-autonym="Српски / srpski" data-language-local-name="serbiska" class="interlanguage-link-target"><span>Српски / srpski</span></a></li><li class="interlanguage-link interwiki-ta mw-list-item"><a href="https://ta.wikipedia.org/wiki/%E0%AE%95%E0%AF%8B%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AF%81%E0%AE%B0%E0%AF%81_(%E0%AE%95%E0%AE%A3%E0%AE%BF%E0%AE%A4%E0%AE%AE%E0%AF%8D)" title="கோட்டுரு (கணிதம்) – tamil" lang="ta" hreflang="ta" data-title="கோட்டுரு (கணிதம்)" data-language-autonym="தமிழ்" data-language-local-name="tamil" class="interlanguage-link-target"><span>தமிழ்</span></a></li><li class="interlanguage-link interwiki-th mw-list-item"><a href="https://th.wikipedia.org/wiki/%E0%B8%81%E0%B8%A3%E0%B8%B2%E0%B8%9F_(%E0%B8%84%E0%B8%93%E0%B8%B4%E0%B8%95%E0%B8%A8%E0%B8%B2%E0%B8%AA%E0%B8%95%E0%B8%A3%E0%B9%8C)" title="กราฟ (คณิตศาสตร์) – thailändska" lang="th" hreflang="th" data-title="กราฟ (คณิตศาสตร์)" data-language-autonym="ไทย" data-language-local-name="thailändska" class="interlanguage-link-target"><span>ไทย</span></a></li><li class="interlanguage-link interwiki-tl mw-list-item"><a href="https://tl.wikipedia.org/wiki/Grap_(matematika)" title="Grap (matematika) – tagalog" lang="tl" hreflang="tl" data-title="Grap (matematika)" data-language-autonym="Tagalog" data-language-local-name="tagalog" class="interlanguage-link-target"><span>Tagalog</span></a></li><li class="interlanguage-link interwiki-tr mw-list-item"><a href="https://tr.wikipedia.org/wiki/Graf_(matematik)" title="Graf (matematik) – turkiska" lang="tr" hreflang="tr" data-title="Graf (matematik)" data-language-autonym="Türkçe" data-language-local-name="turkiska" class="interlanguage-link-target"><span>Türkçe</span></a></li><li class="interlanguage-link interwiki-uk mw-list-item"><a href="https://uk.wikipedia.org/wiki/%D0%93%D1%80%D0%B0%D1%84_(%D0%BC%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0)" title="Граф (математика) – ukrainska" lang="uk" hreflang="uk" data-title="Граф (математика)" data-language-autonym="Українська" data-language-local-name="ukrainska" class="interlanguage-link-target"><span>Українська</span></a></li><li class="interlanguage-link interwiki-ur mw-list-item"><a href="https://ur.wikipedia.org/wiki/%DA%AF%D8%B1%D8%A7%D9%81_(%D8%B1%DB%8C%D8%A7%D8%B6%DB%8C)" title="گراف (ریاضی) – urdu" lang="ur" hreflang="ur" data-title="گراف (ریاضی)" data-language-autonym="اردو" data-language-local-name="urdu" class="interlanguage-link-target"><span>اردو</span></a></li><li class="interlanguage-link interwiki-vi mw-list-item"><a href="https://vi.wikipedia.org/wiki/%C4%90%E1%BB%93_th%E1%BB%8B_(l%C3%BD_thuy%E1%BA%BFt_%C4%91%E1%BB%93_th%E1%BB%8B)" title="Đồ thị (lý thuyết đồ thị) – vietnamesiska" lang="vi" hreflang="vi" data-title="Đồ thị (lý thuyết đồ thị)" data-language-autonym="Tiếng Việt" data-language-local-name="vietnamesiska" class="interlanguage-link-target"><span>Tiếng Việt</span></a></li><li class="interlanguage-link interwiki-wuu mw-list-item"><a href="https://wuu.wikipedia.org/wiki/%E5%9B%BE%EF%BC%88%E6%95%B0%E5%AD%A6%EF%BC%89" title="图（数学） – wu" lang="wuu" hreflang="wuu" data-title="图（数学）" data-language-autonym="吴语" data-language-local-name="wu" class="interlanguage-link-target"><span>吴语</span></a></li><li class="interlanguage-link interwiki-yi mw-list-item"><a href="https://yi.wikipedia.org/wiki/%D7%92%D7%A8%D7%90%D7%A3_(%D7%9E%D7%90%D7%98%D7%A2%D7%9E%D7%90%D7%98%D7%99%D7%A7)" title="גראף (מאטעמאטיק) – jiddisch" lang="yi" hreflang="yi" data-title="גראף (מאטעמאטיק)" data-language-autonym="ייִדיש" data-language-local-name="jiddisch" class="interlanguage-link-target"><span>ייִדיש</span></a></li><li class="interlanguage-link interwiki-zh-min-nan mw-list-item"><a href="https://zh-min-nan.wikipedia.org/wiki/Graph_(l%C3%AE-s%C3%B2a%E2%81%BF_s%C3%B2%CD%98-ha%CC%8Dk)" title="Graph (lî-sòaⁿ sò͘-ha̍k) – min nan" lang="nan" hreflang="nan" data-title="Graph (lî-sòaⁿ sò͘-ha̍k)" data-language-autonym="閩南語 / Bân-lâm-gí" data-language-local-name="min nan" class="interlanguage-link-target"><span>閩南語 / Bân-lâm-gí</span></a></li><li class="interlanguage-link interwiki-zh-yue mw-list-item"><a href="https://zh-yue.wikipedia.org/wiki/%E5%9C%96_(%E5%9C%96%E8%AB%96)" title="圖 (圖論) – kantonesiska" lang="yue" hreflang="yue" data-title="圖 (圖論)" data-language-autonym="粵語" data-language-local-name="kantonesiska" class="interlanguage-link-target"><span>粵語</span></a></li><li class="interlanguage-link interwiki-zh mw-list-item"><a href="https://zh.wikipedia.org/wiki/%E5%9B%BE_(%E6%95%B0%E5%AD%A6)" title="图 (数学) – kinesiska" lang="zh" hreflang="zh" data-title="图 (数学)" data-language-autonym="中文" data-language-local-name="kinesiska" class="interlanguage-link-target"><span>中文</span></a></li>
+			</ul>
+			<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q141488#sitelinks-wikipedia" title="Redigera interwikilänkar" class="wbc-editpage">Redigera länkar</a></span></div>
+		</div>
+
+	</div>
+</div>
+</header>
+				<div class="vector-page-toolbar vector-feature-custom-font-size-clientpref--excluded">
+					<div class="vector-page-toolbar-container">
+						<div id="left-navigation">
+							<nav aria-label="Namnrymder">
+								
+<div id="p-associated-pages" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-associated-pages"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-nstab-main" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/Graf_(grafteori)" title="Visa innehållssidan [c]" accesskey="c"><span>Artikel</span></a></li><li id="ca-talk" class="vector-tab-noicon mw-list-item"><a href="/wiki/Diskussion:Graf_(grafteori)" rel="discussion" title="Diskussion om innehållssidan [t]" accesskey="t"><span>Diskussion</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+								
+<div id="vector-variants-dropdown" class="vector-dropdown emptyPortlet"  >
+	<input type="checkbox" id="vector-variants-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-variants-dropdown" class="vector-dropdown-checkbox " aria-label="Ändra språkvariant"   >
+	<label id="vector-variants-dropdown-label" for="vector-variants-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">svenska</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+					
+<div id="p-variants" class="vector-menu mw-portlet mw-portlet-variants emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+						<div id="right-navigation" class="vector-collapsible">
+							<nav aria-label="Visningar">
+								
+<div id="p-views" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-views"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-view" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/Graf_(grafteori)"><span>Läs</span></a></li><li id="ca-ve-edit" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=Graf_(grafteori)&amp;veaction=edit" title="Redigera denna sida [v]" accesskey="v"><span>Redigera</span></a></li><li id="ca-edit" class="collapsible vector-tab-noicon mw-list-item"><a href="/w/index.php?title=Graf_(grafteori)&amp;action=edit" title="Redigera wikitexten för den här sidan [e]" accesskey="e"><span>Redigera wikitext</span></a></li><li id="ca-history" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=Graf_(grafteori)&amp;action=history" title="Tidigare versioner av sidan [h]" accesskey="h"><span>Visa historik</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+							</nav>
+				
+							<nav class="vector-page-tools-landmark" aria-label="Sidverktyg">
+								
+<div id="vector-page-tools-dropdown" class="vector-dropdown vector-page-tools-dropdown"  >
+	<input type="checkbox" id="vector-page-tools-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-tools-dropdown" class="vector-dropdown-checkbox "  aria-label="Verktyg"  >
+	<label id="vector-page-tools-dropdown-label" for="vector-page-tools-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">Verktyg</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+									<div id="vector-page-tools-unpinned-container" class="vector-unpinned-container">
+						
+<div id="vector-page-tools" class="vector-page-tools vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-page-tools-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="page-tools-pinned"
+	data-pinnable-element-id="vector-page-tools"
+	data-pinned-container-id="vector-page-tools-pinned-container"
+	data-unpinned-container-id="vector-page-tools-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Verktyg</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-page-tools.pin">flytta till sidofältet</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-page-tools.unpin">dölj</button>
+</div>
+
+	
+<div id="p-cactions" class="vector-menu mw-portlet mw-portlet-cactions emptyPortlet vector-has-collapsible-items"  title="Fler alternativ" >
+	<div class="vector-menu-heading">
+		Åtgärder
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-more-view" class="selected vector-more-collapsible-item mw-list-item"><a href="/wiki/Graf_(grafteori)"><span>Läs</span></a></li><li id="ca-more-ve-edit" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=Graf_(grafteori)&amp;veaction=edit" title="Redigera denna sida [v]" accesskey="v"><span>Redigera</span></a></li><li id="ca-more-edit" class="collapsible vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=Graf_(grafteori)&amp;action=edit" title="Redigera wikitexten för den här sidan [e]" accesskey="e"><span>Redigera wikitext</span></a></li><li id="ca-more-history" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=Graf_(grafteori)&amp;action=history"><span>Visa historik</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-tb" class="vector-menu mw-portlet mw-portlet-tb"  >
+	<div class="vector-menu-heading">
+		Allmänt
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/Special:L%C3%A4nkar_hit/Graf_(grafteori)" title="Lista över alla wikisidor som länkar hit [j]" accesskey="j"><span>Sidor som länkar hit</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/Special:Senaste_relaterade_%C3%A4ndringar/Graf_(grafteori)" rel="nofollow" title="Visa senaste ändringarna av sidor som den här sidan länkar till [k]" accesskey="k"><span>Relaterade ändringar</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=Graf_(grafteori)&amp;oldid=57953033" title="Permanent länk till den här versionen av sidan"><span>Permanent länk</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=Graf_(grafteori)&amp;action=info" title="Mer information om denna sida"><span>Sidinformation</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=Special:Citera&amp;page=Graf_%28grafteori%29&amp;id=57953033&amp;wpFormIdentifier=titleform" title="Information om hur den här artikeln kan användas som referens"><span>Använd som referens</span></a></li><li id="t-urlshortener" class="mw-list-item"><a href="/w/index.php?title=Special:UrlShortener&amp;url=https%3A%2F%2Fsv.wikipedia.org%2Fwiki%2FGraf_%28grafteori%29"><span>Hämta förkortad url</span></a></li><li class="mw-list-item"><a href="/w/index.php?title=Graf_(grafteori)&amp;useparsoid=0"><span>Växla till äldre parser</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-coll-print_export" class="vector-menu mw-portlet mw-portlet-coll-print_export"  >
+	<div class="vector-menu-heading">
+		Skriv ut/exportera
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="coll-create_a_book" class="mw-list-item"><a href="/w/index.php?title=Special:Bok&amp;bookcmd=book_creator&amp;referer=Graf+%28grafteori%29"><span>Skapa en bok</span></a></li><li id="coll-download-as-rl" class="mw-list-item"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=Graf_%28grafteori%29&amp;action=show-download-screen"><span>Ladda ned som PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="/w/index.php?title=Graf_(grafteori)&amp;printable=yes" title="Utskriftsvänlig version av den här sidan [p]" accesskey="p"><span>Utskriftsvänlig version</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-wikibase-otherprojects" class="vector-menu mw-portlet mw-portlet-wikibase-otherprojects"  >
+	<div class="vector-menu-heading">
+		På andra projekt
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li class="wb-otherproject-link wb-otherproject-commons mw-list-item"><a href="https://commons.wikimedia.org/wiki/Category:Graph_(discrete_mathematics)" hreflang="en"><span>Commons</span></a></li><li id="t-wikibase" class="wb-otherproject-link wb-otherproject-wikibase-dataitem mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q141488" title="Länk till anslutet databasobjekt [g]" accesskey="g"><span>Wikidata-objekt</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+</div>
+
+									</div>
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+					</div>
+				</div>
+				<div class="vector-column-end no-font-mode-scale">
+					<div class="vector-sticky-pinned-container">
+						<div class="wp25eastereggs-vector-sitenotice-landmark"></div>
+						<nav class="vector-page-tools-landmark" aria-label="Sidverktyg">
+							<div id="vector-page-tools-pinned-container" class="vector-pinned-container">
+				
+							</div>
+		</nav>
+						<nav class="vector-appearance-landmark" aria-label="Utseende">
+							<div id="vector-appearance-pinned-container" class="vector-pinned-container">
+				<div id="vector-appearance" class="vector-appearance vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-appearance-pinnable-header vector-pinnable-header-pinned"
+	data-feature-name="appearance-pinned"
+	data-pinnable-element-id="vector-appearance"
+	data-pinned-container-id="vector-appearance-pinned-container"
+	data-unpinned-container-id="vector-appearance-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Utseende</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-appearance.pin">flytta till sidofältet</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-appearance.unpin">dölj</button>
+</div>
+
+
+</div>
+
+							</div>
+		</nav>
+					</div>
+				</div>
+				<div id="bodyContent" class="vector-body" aria-labelledby="firstHeading" data-mw-ve-target-container>
+					<div class="vector-body-before-content">
+							<div class="mw-indicators">
+		</div>
+
+						<div id="siteSub" class="noprint">Från Wikipedia</div>
+					</div>
+					<div id="contentSub"><div id="mw-content-subtitle"></div></div>
+					
+					
+					<div id="mw-content-text" class="mw-body-content"><div class="mw-content-ltr mw-parser-output" lang="sv" dir="ltr" data-mw-parsoid-version="0.23.0.0-alpha22" data-mw-html-version="2.8.0"><section data-mw-section-id="0" id="mwAQ"><dl class="noexcerpt dablink" about="#mwt1" typeof="mw:Transclusion" data-mw="{&quot;parts&quot;:[{&quot;template&quot;:{&quot;target&quot;:{&quot;wt&quot;:&quot;olika betydelser&quot;,&quot;href&quot;:&quot;./Mall:Olika_betydelser&quot;},&quot;params&quot;:{&quot;1&quot;:{&quot;wt&quot;:&quot;Graf&quot;}},&quot;i&quot;:0}}]}" id="mwAg"><dd><i>För andra betydelser, se <a rel="mw:WikiLink" href="//sv.wikipedia.org/wiki/Graf" title="Graf" class="mw-disambig">Graf</a>.</i></dd></dl>
+<p id="mwAw">En <b id="mwBA">graf</b> är det grundläggande begreppet inom grafteorin. Grafer definieras på olika sätt beroende på användningsområde. Den grundläggande idén är dock densamma: en graf består av ett par  (<i id="mwBQ">V</i>,<i id="mwBg">E</i>) av mängder, där <i id="mwBw">V</i> är en mängd av <i id="mwCA">hörn</i> (även kallade <i id="mwCQ">noder</i> eller <i id="mwCg">punkter</i>) och <i id="mwCw">E</i> en mängd av <i id="mwDA">kanter</i> (även kallade <i id="mwDQ">bågar</i>) mellan par av hörn. Ofta betecknar <i id="mwDg">uv</i> en kant mellan hörnen <i id="mwDw">u</i> och <i id="mwEA">v</i>, vilka utgör kantens <i id="mwEQ">ändpunkter</i>. I en <i id="mwEg">ändlig graf</i> är <i id="mwEw">E</i> och <i id="mwFA">V</i> ändliga. Grafer ritas ofta som punkter eller prickar som förbinds av raka eller krökta kurvor. Det är dock viktigt att grafens egenskaper inte bestäms av var dessa punkter (hörn) placeras eller av hur kurvorna (kanterna) löper, utan bara av på vilket sätt hörn förbinds med varandra.</p>
+
+<figure typeof="mw:File/Thumb" id="mwFQ"><a href="//sv.wikipedia.org/wiki/Fil:6n-graf.svg" class="mw-file-description" id="mwFg"><img resource="//sv.wikipedia.org/wiki/Fil:6n-graf.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5b/6n-graf.svg/250px-6n-graf.svg.png" decoding="async" data-file-width="333" data-file-height="220" data-file-type="drawing" height="165" width="250" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5b/6n-graf.svg/500px-6n-graf.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5b/6n-graf.svg/500px-6n-graf.svg.png 2x" class="mw-file-element" id="mwFw"></a><figcaption id="mwGA">En enkel oriktad graf med sex hörn och sju kanter.</figcaption></figure>
+<p id="mwGQ">För ändliga grafer används ibland beteckningen <i id="mwGg"><a rel="mw:WikiLink" href="//sv.wikipedia.org/wiki/Ordning_(grafteori)" title="Ordning (grafteori)" id="mwGw">ordning</a></i> för antalet hörn och <i id="mwHA">storlek</i> för antalet kanter.</p>
+
+<p id="mwHQ">Ibland tillåts grafer ha <b id="mwHg">öglor</b> eller <b id="mwHw">loopar</b>, vilket betyder kanter där båda ändarna utgörs av samma hörn. Om man inte särskilt anger detta, så brukar man dock anta att grafen saknar öglor (är <b id="mwIA">öglefri</b> eller <b id="mwIQ">loopfri</b>).<sup about="#mwt3" class="mw-ref reference" id="cite_ref-Eriksson_Gavel_145_1-0" rel="dc:references" typeof="mw:Extension/ref" data-mw="{&quot;name&quot;:&quot;ref&quot;,&quot;attrs&quot;:{&quot;name&quot;:&quot;Eriksson_Gavel_145&quot;},&quot;body&quot;:{&quot;id&quot;:&quot;mw-reference-text-cite_note-Eriksson_Gavel_145-1&quot;}}"><a href="#cite_note-Eriksson_Gavel_145-1" id="mwIg"><span class="mw-reflink-text" id="mwIw"><span class="cite-bracket" id="mwJA">[</span>1<span class="cite-bracket" id="mwJQ">]</span></span></a></sup></p>
+
+<p id="mwJg">Ibland tillåts grafer ha flera kanter mellan samma par av hörn, <i id="mwJw">parallella kanter</i>. Grafer som tillåts ha öglor och/eller parallella kanter kallas ibland <b id="mwKA">multigrafer</b>. Om man inte särskilt anger att sådant tillåts, så brukar dock grafen antas vara <b id="mwKQ">enkel</b>, det vill säga vara öglefri och sakna parallella kanter.<sup about="#mwt4" class="mw-ref reference" id="cite_ref-Eriksson_Gavel_145_1-1" rel="dc:references" typeof="mw:Extension/ref" data-mw="{&quot;name&quot;:&quot;ref&quot;,&quot;attrs&quot;:{&quot;name&quot;:&quot;Eriksson_Gavel_145&quot;}}"><a href="#cite_note-Eriksson_Gavel_145-1" id="mwKg"><span class="mw-reflink-text" id="mwKw"><span class="cite-bracket" id="mwLA">[</span>1<span class="cite-bracket" id="mwLQ">]</span></span></a></sup></p>
+
+<p id="mwLg">De vanligaste graferna har oriktade kanter. Det betyder att en kant från <i id="mwLw">u</i> till <i id="mwMA">v</i> är samma sak som en kant från <i id="mwMQ">v</i> till <i id="mwMg">u</i>. Samma kant kan då beskrivas på två sätt, med samma betydelse: <i id="mwMw">uv</i> och <i id="mwNA">vu</i>. Mer teoretiskt så innehåller kantmängden <i id="mwNQ">E</i> delmängder av <i id="mwNg">V</i> med två element.<sup about="#mwt6" class="mw-ref reference" id="cite_ref-Eriksson_Gavel_146_2-0" rel="dc:references" typeof="mw:Extension/ref" data-mw="{&quot;name&quot;:&quot;ref&quot;,&quot;attrs&quot;:{&quot;name&quot;:&quot;Eriksson_Gavel_146&quot;},&quot;body&quot;:{&quot;id&quot;:&quot;mw-reference-text-cite_note-Eriksson_Gavel_146-2&quot;}}"><a href="#cite_note-Eriksson_Gavel_146-2" id="mwNw"><span class="mw-reflink-text" id="mwOA"><span class="cite-bracket" id="mwOQ">[</span>2<span class="cite-bracket" id="mwOg">]</span></span></a></sup></p>
+
+<p id="mwOw">Det finns också <b id="mwPA"><a rel="mw:WikiLink" href="//sv.wikipedia.org/wiki/Riktad_graf" title="Riktad graf" id="mwPQ">riktade grafer</a></b> (ibland kallade <b id="mwPg">rigrafer</b>). Då är en kant från <i id="mwPw">u</i> till <i id="mwQA">v</i> inte detsamma som en kant från <i id="mwQQ">v</i> till <i id="mwQg">u</i>. Alltså är <i id="mwQw">uv</i> och <i id="mwRA">vu</i> olika kanter. Kanten <i id="mwRQ">uv</i> har <b id="mwRg">startpunkten</b> <i id="mwRw">u</i> och <b id="mwSA">ändpunkten</b> <i id="mwSQ">v</i>. Riktade grafer brukar ritas med pilar för att visa riktningen. I en riktad graf är alltså en kant (ett element i kantmängden) ett ordnat par av noder.<sup about="#mwt7" class="mw-ref reference" id="cite_ref-Eriksson_Gavel_146_2-1" rel="dc:references" typeof="mw:Extension/ref" data-mw="{&quot;name&quot;:&quot;ref&quot;,&quot;attrs&quot;:{&quot;name&quot;:&quot;Eriksson_Gavel_146&quot;}}"><a href="#cite_note-Eriksson_Gavel_146-2" id="mwSg"><span class="mw-reflink-text" id="mwSw"><span class="cite-bracket" id="mwTA">[</span>2<span class="cite-bracket" id="mwTQ">]</span></span></a></sup></p>
+
+<p id="mwTg">Det finns också <a rel="mw:WikiLink" href="//sv.wikipedia.org/wiki/Viktad_graf" title="Viktad graf" id="mwTw">viktade grafer</a>. Då har varje kant ett associerat värde (en <i id="mwUA">kostnad</i> eller <i id="mwUQ">längd</i>).</p>
+
+<meta property="mw:PageProp/toc" data-mw="{&quot;autoGenerated&quot;:true}" id="mwUg"></section><section data-mw-section-id="1" id="mwUw" aria-labelledby="Formella_definitioner"><div class="mw-heading mw-heading2"><h2 id="Formella_definitioner">Formella definitioner</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="//sv.wikipedia.org/w/index.php?title=Graf_(grafteori)&amp;veaction=edit&amp;section=1" title="Redigera avsnitt: Formella definitioner" class="mw-editsection-visualeditor"><span>redigera</span></a><span class="mw-editsection-divider"> | </span><a href="//sv.wikipedia.org/w/index.php?title=Graf_(grafteori)&amp;action=edit&amp;section=1" title="Redigera avsnitts källkod: Formella definitioner"><span>redigera wikitext</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p id="mwVA">Den vanligaste typen av grafer utgörs av de enkla och oriktade. I detta fall definieras oftast kanterna som 2-mängder av hörnmängden <i id="mwVQ">V</i>, alltså som vissa delmängder av <i id="mwVg">V</i> med precis två element var. Exempelvis kan grafen på bilden ovan formellt specificeras som</p>
+<dl id="mwVw"><dd id="mwWA"><dl id="mwWQ"><dd id="mwWg"><span class="mwe-math-element mwe-math-element-inline" typeof="mw:Extension/math" about="#mwt8" data-mw="{&quot;name&quot;:&quot;math&quot;,&quot;attrs&quot;:{},&quot;body&quot;:{&quot;extsrc&quot;:&quot;( \\{1,2,3,4,5,6\\},\\ \\{ \\{1,2\\}\\,, \\{1,5\\}\\,, \\{2,3\\}\\,, \\{2,5 \\}\\,, \\{3,4\\}\\,, \\{4,5\\}\\,, \\{4,6\\} \\} )&quot;}}" id="mwWw"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle (\{1,2,3,4,5,6\},\ \{\{1,2\}\,,\{1,5\}\,,\{2,3\}\,,\{2,5\}\,,\{3,4\}\,,\{4,5\}\,,\{4,6\}\})}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mo stretchy="false">(</mo>
+        <mo fence="false" stretchy="false">{</mo>
+        <mn>1</mn>
+        <mo>,</mo>
+        <mn>2</mn>
+        <mo>,</mo>
+        <mn>3</mn>
+        <mo>,</mo>
+        <mn>4</mn>
+        <mo>,</mo>
+        <mn>5</mn>
+        <mo>,</mo>
+        <mn>6</mn>
+        <mo fence="false" stretchy="false">}</mo>
+        <mo>,</mo>
+        <mtext>&nbsp;</mtext>
+        <mo fence="false" stretchy="false">{</mo>
+        <mo fence="false" stretchy="false">{</mo>
+        <mn>1</mn>
+        <mo>,</mo>
+        <mn>2</mn>
+        <mo fence="false" stretchy="false">}</mo>
+        <mspace width="thinmathspace"></mspace>
+        <mo>,</mo>
+        <mo fence="false" stretchy="false">{</mo>
+        <mn>1</mn>
+        <mo>,</mo>
+        <mn>5</mn>
+        <mo fence="false" stretchy="false">}</mo>
+        <mspace width="thinmathspace"></mspace>
+        <mo>,</mo>
+        <mo fence="false" stretchy="false">{</mo>
+        <mn>2</mn>
+        <mo>,</mo>
+        <mn>3</mn>
+        <mo fence="false" stretchy="false">}</mo>
+        <mspace width="thinmathspace"></mspace>
+        <mo>,</mo>
+        <mo fence="false" stretchy="false">{</mo>
+        <mn>2</mn>
+        <mo>,</mo>
+        <mn>5</mn>
+        <mo fence="false" stretchy="false">}</mo>
+        <mspace width="thinmathspace"></mspace>
+        <mo>,</mo>
+        <mo fence="false" stretchy="false">{</mo>
+        <mn>3</mn>
+        <mo>,</mo>
+        <mn>4</mn>
+        <mo fence="false" stretchy="false">}</mo>
+        <mspace width="thinmathspace"></mspace>
+        <mo>,</mo>
+        <mo fence="false" stretchy="false">{</mo>
+        <mn>4</mn>
+        <mo>,</mo>
+        <mn>5</mn>
+        <mo fence="false" stretchy="false">}</mo>
+        <mspace width="thinmathspace"></mspace>
+        <mo>,</mo>
+        <mo fence="false" stretchy="false">{</mo>
+        <mn>4</mn>
+        <mo>,</mo>
+        <mn>6</mn>
+        <mo fence="false" stretchy="false">}</mo>
+        <mo fence="false" stretchy="false">}</mo>
+        <mo stretchy="false">)</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle (\{1,2,3,4,5,6\},\ \{\{1,2\}\,,\{1,5\}\,,\{2,3\}\,,\{2,5\}\,,\{3,4\}\,,\{4,5\}\,,\{4,6\}\})}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/f4434bf5f67fa181794d101b267a0433bd2ec9a4" class="mwe-math-fallback-image-inline mw-invert skin-invert" aria-hidden="true" style="vertical-align: -0.838ex; width:68.531ex; height:2.843ex;" alt="{\displaystyle (\{1,2,3,4,5,6\},\ \{\{1,2\}\,,\{1,5\}\,,\{2,3\}\,,\{2,5\}\,,\{3,4\}\,,\{4,5\}\,,\{4,6\}\})}"></span>.</dd></dl></dd></dl>
+
+<p id="mwXA">Om grafen tillåts ha öglor, men inte parallella kanter, så kan en likartad definition tillämpas, där öglorna representeras av 1-mängder av <i id="mwXQ">V</i>.</p>
+
+<p id="mwXg">För enkla riktade grafer byter man helt enkelt ut 2-mängder mot (ordnade) par.</p>
+
+<p id="mwXw">Multigrafer kan definieras formellt med hjälp av multimängder, eller genom att man för varje kant anger dess ändpunkter.</p>
+
+</section><section data-mw-section-id="2" id="mwYA" aria-labelledby="Benämningar_på_speciella_grafer"><div class="mw-heading mw-heading2"><h2 id="Benämningar_på_speciella_grafer"><span id="Ben.C3.A4mningar_p.C3.A5_speciella_grafer" typeof="mw:FallbackId"></span>Benämningar på speciella grafer</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="//sv.wikipedia.org/w/index.php?title=Graf_(grafteori)&amp;veaction=edit&amp;section=2" title="Redigera avsnitt: Benämningar på speciella grafer" class="mw-editsection-visualeditor"><span>redigera</span></a><span class="mw-editsection-divider"> | </span><a href="//sv.wikipedia.org/w/index.php?title=Graf_(grafteori)&amp;action=edit&amp;section=2" title="Redigera avsnitts källkod: Benämningar på speciella grafer"><span>redigera wikitext</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p id="mwYQ">Inom <a rel="mw:WikiLink" href="//sv.wikipedia.org/wiki/Grafteori" title="Grafteori" id="mwYg">grafteorin</a> används ett antal benämningar på (enkla oriktade) grafer av särskilt intresse:</p>
+<ul id="mwYw"><li id="mwZA">I en <a rel="mw:WikiLink" href="//sv.wikipedia.org/wiki/Komplett_graf" title="Komplett graf" id="mwZQ">komplett graf</a> finns en kant mellan varje par av hörn.<sup about="#mwt10" class="mw-ref reference" id="cite_ref-Eriksson_Gavel_143_3-0" rel="dc:references" typeof="mw:Extension/ref" data-mw="{&quot;name&quot;:&quot;ref&quot;,&quot;attrs&quot;:{&quot;name&quot;:&quot;Eriksson_Gavel_143&quot;},&quot;body&quot;:{&quot;id&quot;:&quot;mw-reference-text-cite_note-Eriksson_Gavel_143-3&quot;}}"><a href="#cite_note-Eriksson_Gavel_143-3" id="mwZg"><span class="mw-reflink-text" id="mwZw"><span class="cite-bracket" id="mwaA">[</span>3<span class="cite-bracket" id="mwaQ">]</span></span></a></sup></li>
+<li id="mwag">I en <a rel="mw:WikiLink" href="//sv.wikipedia.org/wiki/Sammanhängande_graf?action=edit&amp;redlink=1" title="Sammanhängande graf [inte skriven än]" class="new" typeof="mw:LocalizedAttrs" id="mwaw" data-mw-i18n="{&quot;title&quot;:{&quot;lang&quot;:&quot;x-page&quot;,&quot;key&quot;:&quot;red-link-title&quot;,&quot;params&quot;:[&quot;Sammanhängande graf&quot;]}}">sammanhängande graf</a> finns minst en väg mellan varje par av hörn.<sup about="#mwt12" class="mw-ref reference" id="cite_ref-Eriksson_Gavel_142_4-0" rel="dc:references" typeof="mw:Extension/ref" data-mw="{&quot;name&quot;:&quot;ref&quot;,&quot;attrs&quot;:{&quot;name&quot;:&quot;Eriksson_Gavel_142&quot;},&quot;body&quot;:{&quot;id&quot;:&quot;mw-reference-text-cite_note-Eriksson_Gavel_142-4&quot;}}"><a href="#cite_note-Eriksson_Gavel_142-4" id="mwbA"><span class="mw-reflink-text" id="mwbQ"><span class="cite-bracket" id="mwbg">[</span>4<span class="cite-bracket" id="mwbw">]</span></span></a></sup></li>
+<li id="mwcA">I ett <a rel="mw:WikiLink" href="//sv.wikipedia.org/wiki/Träd_(graf)" title="Träd (graf)" id="mwcQ">träd</a> finns exakt en väg mellan varje par av noder.<sup about="#mwt14" class="mw-ref reference" id="cite_ref-Eriksson_Gavel_160_5-0" rel="dc:references" typeof="mw:Extension/ref" data-mw="{&quot;name&quot;:&quot;ref&quot;,&quot;attrs&quot;:{&quot;name&quot;:&quot;Eriksson_Gavel_160&quot;},&quot;body&quot;:{&quot;id&quot;:&quot;mw-reference-text-cite_note-Eriksson_Gavel_160-5&quot;}}"><a href="#cite_note-Eriksson_Gavel_160-5" id="mwcg"><span class="mw-reflink-text" id="mwcw"><span class="cite-bracket" id="mwdA">[</span>5<span class="cite-bracket" id="mwdQ">]</span></span></a></sup></li>
+<li id="mwdg">I en <a rel="mw:WikiLink" href="//sv.wikipedia.org/wiki/Skog_(graf)" title="Skog (graf)" class="mw-redirect" id="mwdw">skog</a> finns som mest en väg mellan varje par av noder.</li>
+<li id="mweA">I en <a rel="mw:WikiLink" href="//sv.wikipedia.org/wiki/Bipartit_graf" title="Bipartit graf" id="mweQ">bipartit graf</a> kan noderna delas upp i två grupper så att varje kant förbinder en nod i ena gruppen med en nod i den andra.<sup about="#mwt16" class="mw-ref reference" id="cite_ref-Eriksson_Gavel_144_6-0" rel="dc:references" typeof="mw:Extension/ref" data-mw="{&quot;name&quot;:&quot;ref&quot;,&quot;attrs&quot;:{&quot;name&quot;:&quot;Eriksson_Gavel_144&quot;},&quot;body&quot;:{&quot;id&quot;:&quot;mw-reference-text-cite_note-Eriksson_Gavel_144-6&quot;}}"><a href="#cite_note-Eriksson_Gavel_144-6" id="mweg"><span class="mw-reflink-text" id="mwew"><span class="cite-bracket" id="mwfA">[</span>6<span class="cite-bracket" id="mwfQ">]</span></span></a></sup></li></ul>
+
+</section><section data-mw-section-id="3" id="mwfg" aria-labelledby="Beteckningar"><div class="mw-heading mw-heading2"><h2 id="Beteckningar">Beteckningar</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="//sv.wikipedia.org/w/index.php?title=Graf_(grafteori)&amp;veaction=edit&amp;section=3" title="Redigera avsnitt: Beteckningar" class="mw-editsection-visualeditor"><span>redigera</span></a><span class="mw-editsection-divider"> | </span><a href="//sv.wikipedia.org/w/index.php?title=Graf_(grafteori)&amp;action=edit&amp;section=3" title="Redigera avsnitts källkod: Beteckningar"><span>redigera wikitext</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<table id="mwfw">
+<tbody id="mwgA"><tr id="mwgQ">
+<td id="mwgg"><i id="mwgw">V(G)</i></td>
+<td id="mwhA">Mängden av alla hörn i grafen <i id="mwhQ">G</i></td></tr>
+<tr id="mwhg">
+<td id="mwhw"><i id="mwiA">E(G)</i></td>
+<td id="mwiQ">Mängden av alla kanter i grafen <i id="mwig">G</i></td></tr>
+<tr id="mwiw">
+<td id="mwjA"><i id="mwjQ"><span typeof="mw:Entity" id="mwjg">δ</span>(G)</i></td>
+<td id="mwjw">Den minimala graden hos något hörn i grafen <i id="mwkA">G</i></td></tr>
+<tr id="mwkQ">
+<td id="mwkg"><i id="mwkw"><span typeof="mw:Entity" id="mwlA">Δ</span>(G)</i></td>
+<td id="mwlQ">Den maximala graden hos något hörn i grafen <i id="mwlg">G</i></td></tr>
+<tr id="mwlw">
+<td id="mwmA"><i id="mwmQ">K<sub id="mwmg">n</sub></i></td>
+<td id="mwmw">Komplett graf av ordning <i id="mwnA">n</i></td></tr>
+<tr id="mwnQ">
+<td id="mwng"><i id="mwnw">K<sub id="mwoA">n,m</sub> </i></td>
+<td id="mwoQ"><a rel="mw:WikiLink" href="//sv.wikipedia.org/wiki/Komplett_bipartit_graf" title="Komplett bipartit graf" id="mwog">Komplett bipartit graf</a> med <i id="mwow">n</i> respektive <i id="mwpA">m</i> hörn i varje del</td></tr>
+<tr id="mwpQ">
+<td id="mwpg"><span class="mwe-math-element mwe-math-element-inline" typeof="mw:Extension/math" about="#mwt17" data-mw="{&quot;name&quot;:&quot;math&quot;,&quot;attrs&quot;:{},&quot;body&quot;:{&quot;extsrc&quot;:&quot;\\omega_G&quot;}}" id="mwpw"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle \omega _{G}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>ω<!-- ω --></mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>G</mi>
+          </mrow>
+        </msub>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \omega _{G}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/25fcee59c286999bf481160d473a89f755c84e48" class="mwe-math-fallback-image-inline mw-invert skin-invert" aria-hidden="true" style="vertical-align: -0.671ex; width:2.97ex; height:2.009ex;" alt="{\displaystyle \omega _{G}}"></span></td>
+<td id="mwqA">Antalet <a rel="mw:WikiLink" href="//sv.wikipedia.org/wiki/Komponent_(grafteori)" title="Komponent (grafteori)" id="mwqQ">komponenter</a> i <span class="mwe-math-element mwe-math-element-inline" typeof="mw:Extension/math" about="#mwt18" data-mw="{&quot;name&quot;:&quot;math&quot;,&quot;attrs&quot;:{},&quot;body&quot;:{&quot;extsrc&quot;:&quot;G&quot;}}" id="mwqg"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle G}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>G</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle G}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/f5f3c8921a3b352de45446a6789b104458c9f90b" class="mwe-math-fallback-image-inline mw-invert skin-invert" aria-hidden="true" style="vertical-align: -0.338ex; width:1.827ex; height:2.176ex;" alt="{\displaystyle G}"></span>.</td></tr>
+<tr class="mw-empty-elt" id="mwqw"></tr>
+</tbody></table>
+
+</section><section data-mw-section-id="4" id="mwrA" aria-labelledby="Se_även"><div class="mw-heading mw-heading2"><h2 id="Se_även"><span id="Se_.C3.A4ven" typeof="mw:FallbackId"></span>Se även</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="//sv.wikipedia.org/w/index.php?title=Graf_(grafteori)&amp;veaction=edit&amp;section=4" title="Redigera avsnitt: Se även" class="mw-editsection-visualeditor"><span>redigera</span></a><span class="mw-editsection-divider"> | </span><a href="//sv.wikipedia.org/w/index.php?title=Graf_(grafteori)&amp;action=edit&amp;section=4" title="Redigera avsnitts källkod: Se även"><span>redigera wikitext</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<ul id="mwrQ"><li id="mwrg"><a rel="mw:WikiLink" href="//sv.wikipedia.org/wiki/Hypergraf" title="Hypergraf" id="mwrw">Hypergraf</a></li></ul>
+
+</section><section data-mw-section-id="5" id="mwsA" aria-labelledby="Referenser"><div class="mw-heading mw-heading2"><h2 id="Referenser">Referenser</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="//sv.wikipedia.org/w/index.php?title=Graf_(grafteori)&amp;veaction=edit&amp;section=5" title="Redigera avsnitt: Referenser" class="mw-editsection-visualeditor"><span>redigera</span></a><span class="mw-editsection-divider"> | </span><a href="//sv.wikipedia.org/w/index.php?title=Graf_(grafteori)&amp;action=edit&amp;section=5" title="Redigera avsnitts källkod: Referenser"><span>redigera wikitext</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<div class="mw-references-wrap" typeof="mw:Extension/references" about="#mwt19" id="mwsQ" data-mw="{&quot;name&quot;:&quot;references&quot;,&quot;attrs&quot;:{}}"><ol class="mw-references references" id="mwsg"><li about="#cite_note-Eriksson_Gavel_145-1" id="cite_note-Eriksson_Gavel_145-1" data-mw-footnote-number="1"><span rel="mw:referencedBy" class="mw-cite-backlink" id="mwsw"><a href="#cite_ref-Eriksson_Gavel_145_1-0" id="mwtA"><span class="mw-linkback-text" id="mwtQ">1</span></a> <a href="#cite_ref-Eriksson_Gavel_145_1-1" id="mwtg"><span class="mw-linkback-text" id="mwtw">2</span></a></span> <span id="mw-reference-text-cite_note-Eriksson_Gavel_145-1" class="mw-reference-text reference-text"><a rel="mw:WikiLink" href="#CITEREFEriksson_&amp;_Gavel2002" about="#mwt2" typeof="mw:Transclusion" class="mw-selflink-fragment" data-mw="{&quot;parts&quot;:[{&quot;template&quot;:{&quot;target&quot;:{&quot;wt&quot;:&quot;harvnb&quot;,&quot;href&quot;:&quot;./Mall:Harvnb&quot;},&quot;params&quot;:{&quot;1&quot;:{&quot;wt&quot;:&quot;Eriksson &amp; Gavel&quot;},&quot;2&quot;:{&quot;wt&quot;:&quot;2002&quot;},&quot;s&quot;:{&quot;wt&quot;:&quot;145&quot;}},&quot;i&quot;:0}}]}" id="mwuA">Eriksson &amp; Gavel 2002</a><span about="#mwt2" id="mwuQ">, s.</span><span typeof="mw:Entity" about="#mwt2" id="mwug">&nbsp;</span><span about="#mwt2" id="mwuw">145.</span></span></li>
+<li about="#cite_note-Eriksson_Gavel_146-2" id="cite_note-Eriksson_Gavel_146-2" data-mw-footnote-number="2"><span rel="mw:referencedBy" class="mw-cite-backlink" id="mwvA"><a href="#cite_ref-Eriksson_Gavel_146_2-0" id="mwvQ"><span class="mw-linkback-text" id="mwvg">1</span></a> <a href="#cite_ref-Eriksson_Gavel_146_2-1" id="mwvw"><span class="mw-linkback-text" id="mwwA">2</span></a></span> <span id="mw-reference-text-cite_note-Eriksson_Gavel_146-2" class="mw-reference-text reference-text"><a rel="mw:WikiLink" href="#CITEREFEriksson_&amp;_Gavel2002" about="#mwt5" typeof="mw:Transclusion" class="mw-selflink-fragment" data-mw="{&quot;parts&quot;:[{&quot;template&quot;:{&quot;target&quot;:{&quot;wt&quot;:&quot;harvnb&quot;,&quot;href&quot;:&quot;./Mall:Harvnb&quot;},&quot;params&quot;:{&quot;1&quot;:{&quot;wt&quot;:&quot;Eriksson &amp; Gavel&quot;},&quot;2&quot;:{&quot;wt&quot;:&quot;2002&quot;},&quot;s&quot;:{&quot;wt&quot;:&quot;146&quot;}},&quot;i&quot;:0}}]}" id="mwwQ">Eriksson &amp; Gavel 2002</a><span about="#mwt5" id="mwwg">, s.</span><span typeof="mw:Entity" about="#mwt5" id="mwww">&nbsp;</span><span about="#mwt5" id="mwxA">146.</span></span></li>
+<li about="#cite_note-Eriksson_Gavel_143-3" id="cite_note-Eriksson_Gavel_143-3" data-mw-footnote-number="3"><span class="mw-cite-backlink" id="mwxQ"><a href="#cite_ref-Eriksson_Gavel_143_3-0" rel="mw:referencedBy" id="mwxg"><span class="mw-linkback-text" id="mwxw">↑</span></a></span> <span id="mw-reference-text-cite_note-Eriksson_Gavel_143-3" class="mw-reference-text reference-text"><a rel="mw:WikiLink" href="#CITEREFEriksson_&amp;_Gavel2002" about="#mwt9" typeof="mw:Transclusion" class="mw-selflink-fragment" data-mw="{&quot;parts&quot;:[{&quot;template&quot;:{&quot;target&quot;:{&quot;wt&quot;:&quot;harvnb&quot;,&quot;href&quot;:&quot;./Mall:Harvnb&quot;},&quot;params&quot;:{&quot;1&quot;:{&quot;wt&quot;:&quot;Eriksson &amp; Gavel&quot;},&quot;2&quot;:{&quot;wt&quot;:&quot;2002&quot;},&quot;s&quot;:{&quot;wt&quot;:&quot;143&quot;}},&quot;i&quot;:0}}]}" id="mwyA">Eriksson &amp; Gavel 2002</a><span about="#mwt9" id="mwyQ">, s.</span><span typeof="mw:Entity" about="#mwt9" id="mwyg">&nbsp;</span><span about="#mwt9" id="mwyw">143.</span></span></li>
+<li about="#cite_note-Eriksson_Gavel_142-4" id="cite_note-Eriksson_Gavel_142-4" data-mw-footnote-number="4"><span class="mw-cite-backlink" id="mwzA"><a href="#cite_ref-Eriksson_Gavel_142_4-0" rel="mw:referencedBy" id="mwzQ"><span class="mw-linkback-text" id="mwzg">↑</span></a></span> <span id="mw-reference-text-cite_note-Eriksson_Gavel_142-4" class="mw-reference-text reference-text"><a rel="mw:WikiLink" href="#CITEREFEriksson_&amp;_Gavel2002" about="#mwt11" typeof="mw:Transclusion" class="mw-selflink-fragment" data-mw="{&quot;parts&quot;:[{&quot;template&quot;:{&quot;target&quot;:{&quot;wt&quot;:&quot;harvnb&quot;,&quot;href&quot;:&quot;./Mall:Harvnb&quot;},&quot;params&quot;:{&quot;1&quot;:{&quot;wt&quot;:&quot;Eriksson &amp; Gavel&quot;},&quot;2&quot;:{&quot;wt&quot;:&quot;2002&quot;},&quot;s&quot;:{&quot;wt&quot;:&quot;142&quot;}},&quot;i&quot;:0}}]}" id="mwzw">Eriksson &amp; Gavel 2002</a><span about="#mwt11" id="mw0A">, s.</span><span typeof="mw:Entity" about="#mwt11" id="mw0Q">&nbsp;</span><span about="#mwt11" id="mw0g">142.</span></span></li>
+<li about="#cite_note-Eriksson_Gavel_160-5" id="cite_note-Eriksson_Gavel_160-5" data-mw-footnote-number="5"><span class="mw-cite-backlink" id="mw0w"><a href="#cite_ref-Eriksson_Gavel_160_5-0" rel="mw:referencedBy" id="mw1A"><span class="mw-linkback-text" id="mw1Q">↑</span></a></span> <span id="mw-reference-text-cite_note-Eriksson_Gavel_160-5" class="mw-reference-text reference-text"><a rel="mw:WikiLink" href="#CITEREFEriksson_&amp;_Gavel2002" about="#mwt13" typeof="mw:Transclusion" class="mw-selflink-fragment" data-mw="{&quot;parts&quot;:[{&quot;template&quot;:{&quot;target&quot;:{&quot;wt&quot;:&quot;harvnb&quot;,&quot;href&quot;:&quot;./Mall:Harvnb&quot;},&quot;params&quot;:{&quot;1&quot;:{&quot;wt&quot;:&quot;Eriksson &amp; Gavel&quot;},&quot;2&quot;:{&quot;wt&quot;:&quot;2002&quot;},&quot;s&quot;:{&quot;wt&quot;:&quot;160&quot;}},&quot;i&quot;:0}}]}" id="mw1g">Eriksson &amp; Gavel 2002</a><span about="#mwt13" id="mw1w">, s.</span><span typeof="mw:Entity" about="#mwt13" id="mw2A">&nbsp;</span><span about="#mwt13" id="mw2Q">160.</span></span></li>
+<li about="#cite_note-Eriksson_Gavel_144-6" id="cite_note-Eriksson_Gavel_144-6" data-mw-footnote-number="6"><span class="mw-cite-backlink" id="mw2g"><a href="#cite_ref-Eriksson_Gavel_144_6-0" rel="mw:referencedBy" id="mw2w"><span class="mw-linkback-text" id="mw3A">↑</span></a></span> <span id="mw-reference-text-cite_note-Eriksson_Gavel_144-6" class="mw-reference-text reference-text"><a rel="mw:WikiLink" href="#CITEREFEriksson_&amp;_Gavel2002" about="#mwt15" typeof="mw:Transclusion" class="mw-selflink-fragment" data-mw="{&quot;parts&quot;:[{&quot;template&quot;:{&quot;target&quot;:{&quot;wt&quot;:&quot;harvnb&quot;,&quot;href&quot;:&quot;./Mall:Harvnb&quot;},&quot;params&quot;:{&quot;1&quot;:{&quot;wt&quot;:&quot;Eriksson &amp; Gavel&quot;},&quot;2&quot;:{&quot;wt&quot;:&quot;2002&quot;},&quot;s&quot;:{&quot;wt&quot;:&quot;144&quot;}},&quot;i&quot;:0}}]}" id="mw3Q">Eriksson &amp; Gavel 2002</a><span about="#mwt15" id="mw3g">, s.</span><span typeof="mw:Entity" about="#mwt15" id="mw3w">&nbsp;</span><span about="#mwt15" id="mw4A">144.</span></span></li>
+</ol></div>
+
+<section data-mw-section-id="6" id="mw4Q" aria-labelledby="Källor"><div class="mw-heading mw-heading3"><h3 id="Källor"><span id="K.C3.A4llor" typeof="mw:FallbackId"></span>Källor</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="//sv.wikipedia.org/w/index.php?title=Graf_(grafteori)&amp;veaction=edit&amp;section=6" title="Redigera avsnitt: Källor" class="mw-editsection-visualeditor"><span>redigera</span></a><span class="mw-editsection-divider"> | </span><a href="//sv.wikipedia.org/w/index.php?title=Graf_(grafteori)&amp;action=edit&amp;section=6" title="Redigera avsnitts källkod: Källor"><span>redigera wikitext</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<ul id="mw4g"><li id="mw4w"><style data-mw-deduplicate="TemplateStyles:r58662249" typeof="mw:Extension/templatestyles mw:Transclusion" about="#mwt20" data-mw="{&quot;name&quot;:&quot;templatestyles&quot;,&quot;attrs&quot;:{&quot;src&quot;:&quot;Mall:Citation/core/styles.css&quot;},&quot;parts&quot;:[{&quot;template&quot;:{&quot;target&quot;:{&quot;wt&quot;:&quot;Bokref &quot;,&quot;href&quot;:&quot;./Mall:Bokref&quot;},&quot;params&quot;:{&quot;titel&quot;:{&quot;wt&quot;:&quot;Diskret matematik och diskreta modeller&quot;},&quot;efternamn&quot;:{&quot;wt&quot;:&quot;Eriksson&quot;},&quot;förnamn&quot;:{&quot;wt&quot;:&quot;Kimmo&quot;},&quot;författarlänk&quot;:{&quot;wt&quot;:&quot;Kimmo Eriksson&quot;},&quot;medförfattare&quot;:{&quot;wt&quot;:&quot;Hillevi Gavel&quot;},&quot;år&quot;:{&quot;wt&quot;:&quot;2002&quot;},&quot;utgivare&quot;:{&quot;wt&quot;:&quot;Studentlitteratur&quot;},&quot;utgivningsort&quot;:{&quot;wt&quot;:&quot;Lund&quot;},&quot;isbn&quot;:{&quot;wt&quot;:&quot;91-44-02465-7&quot;},&quot;sid&quot;:{&quot;wt&quot;:&quot;&quot;}},&quot;i&quot;:0}}]}" id="mw5A">@media screen,handheld,projection{.mw-parser-output cite .printonly{display:none}}</style><cite style="font-style:normal" class="book" id="CITEREFErikssonHillevi_Gavel2002" about="#mwt20"><a rel="mw:WikiLink" href="//sv.wikipedia.org/wiki/Kimmo_Eriksson" title="Kimmo Eriksson">Eriksson, Kimmo</a>; Hillevi Gavel<span typeof="mw:Entity"> </span>(2002).<span typeof="mw:Entity"> </span><i><span>Diskret matematik och diskreta modeller</span></i>. Lund: Studentlitteratur. <a rel="mw:WikiLink" href="//sv.wikipedia.org/wiki/Special:Bokkällor/91-44-02465-7" title="Special:Bokkällor/91-44-02465-7">ISBN 91-44-02465-7</a></cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Diskret+matematik+och+diskreta+modeller&amp;rft.aulast=Eriksson&amp;rft.aufirst=Kimmo&amp;rft.au=Eriksson%2C+Kimmo&amp;rft.au=Hillevi+Gavel&amp;rft.date=2002&amp;rft.place=Lund&amp;rft.pub=Studentlitteratur&amp;rft.isbn=91-44-02465-7&amp;rfr_id=info:sid/en.wikipedia.org:Graf_(grafteori)" about="#mwt20" id="mw5Q"><span style="display: none;"><span typeof="mw:Entity">&nbsp;</span></span></span></li></ul>
+
+</section></section><section data-mw-section-id="7" id="mw5g" aria-labelledby="Externa_länkar"><div class="mw-heading mw-heading2"><h2 id="Externa_länkar"><span id="Externa_l.C3.A4nkar" typeof="mw:FallbackId"></span>Externa länkar</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="//sv.wikipedia.org/w/index.php?title=Graf_(grafteori)&amp;veaction=edit&amp;section=7" title="Redigera avsnitt: Externa länkar" class="mw-editsection-visualeditor"><span>redigera</span></a><span class="mw-editsection-divider"> | </span><a href="//sv.wikipedia.org/w/index.php?title=Graf_(grafteori)&amp;action=edit&amp;section=7" title="Redigera avsnitts källkod: Externa länkar"><span>redigera wikitext</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<ul id="mw5w"><li id="mw6A"><span typeof="mw:Transclusion mw:File" about="#mwt22" id="mw6Q" data-mw="{&quot;parts&quot;:[{&quot;template&quot;:{&quot;target&quot;:{&quot;wt&quot;:&quot;commonscat WD&quot;,&quot;href&quot;:&quot;./Mall:Commonscat_WD&quot;},&quot;params&quot;:{},&quot;i&quot;:0}}]}"><span><img resource="//sv.wikipedia.org/wiki/Fil:Commons-logo.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/20px-Commons-logo.svg.png" decoding="async" data-file-width="1024" data-file-height="1376" data-file-type="drawing" height="20" width="15" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/40px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/40px-Commons-logo.svg.png 2x" class="mw-file-element"></span></span><span about="#mwt22"> Wikimedia Commons har media som rör </span><a rel="mw:WikiLink/Interwiki" href="https://commons.wikimedia.org/wiki/Category:Graph%20(discrete%20mathematics)" title="commons:Category:Graph (discrete mathematics)" about="#mwt22" class="extiw">graf</a><span about="#mwt22">.﻿</span></li></ul>
+
+<link rel="mw:PageProp/Category" href="./Kategori:Grafteori" id="mw6g"></section>
+<!-- 
+NewPP limit report
+Parsed by mw‐api‐int.codfw.main‐dd6cd9cc8‐2pqkf
+Cached time: 20260320161911
+Cache expiry: 2592000
+Reduced expiry: false
+Complications: [show‐toc, use‐parsoid]
+CPU time usage: 0.244 seconds
+Real time usage: 0.363 seconds
+Preprocessor visited node count: 1051/1000000
+Revision size: 5392/2097152 bytes
+Post‐expand include size: 5885/2097152 bytes
+Template argument size: 1110/2097152 bytes
+Highest expansion depth: 15/100
+Expensive parser function count: 1/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 347/5000000 bytes
+Lua time usage: 0.041/10.000 seconds
+Lua memory usage: 1760701/52428800 bytes
+Number of Wikibase entities loaded: 2/500
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  267.189      1 -total
+ 19.51%   52.118      1 Mall:Commonscat_WD
+ 17.12%   45.749      1 Mall:Bokref
+ 16.10%   43.017      1 Mall:Cite_book
+ 14.75%   39.412      1 Mall:Citation/core
+  2.58%    6.894      1 Mall:ISBN
+  2.16%    5.770      1 Mall:Italiclink
+  1.94%    5.179      6 Mall:Harvnb
+  0.84%    2.256      1 Mall:Olika_betydelser
+-->
+
+<!-- Saved in parser cache with key svwiki:parsoid-pcache:34838:|#|:idhash:useParsoid=1 and timestamp 20260320161911 and revision id 57953033. Rendering was triggered because: MediaWiki\Rest\Handler\Helper\HtmlOutputRendererHelper::getParserOutput
+ -->
+
+<!--Parsoid 0.23.0.0-alpha22-->
+</div><!--
+Post‐processing cache key svwiki:postproc‐parsoid‐pcache:34838:|#|:idhash:injectTOC=0!postproc=1!skin=vector‐2022!useParsoid=1, generated at 20260320192049
+--><noscript><img src="https://sv.wikipedia.org/wiki/Special:CentralAutoLogin/start?useformat=desktop&amp;type=1x1&amp;usesul3=1" alt="" width="1" height="1" style="border: none; position: absolute;"></noscript>
+<div class="printfooter" data-nosnippet="">Hämtad från ”<a dir="ltr" href="https://sv.wikipedia.org/w/index.php?title=Graf_(grafteori)&amp;oldid=57953033">https://sv.wikipedia.org/w/index.php?title=Graf_(grafteori)&amp;oldid=57953033</a>”</div></div>
+					<div id="catlinks" class="catlinks" data-mw-interface=""><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Wikipedia:Kategorier" title="Wikipedia:Kategorier">Kategori</a>: <ul><li><a href="/wiki/Kategori:Grafteori" title="Kategori:Grafteori">Grafteori</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Dold kategori: <ul><li><a href="/wiki/Kategori:Sidor_som_anv%C3%A4nder_magiska_ISBN-l%C3%A4nkar" title="Kategori:Sidor som använder magiska ISBN-länkar">Sidor som använder magiska ISBN-länkar</a></li></ul></div></div>
+				</div>
+			</main>
+			
+		</div>
+		<div class="mw-footer-container">
+			
+<footer id="footer" class="mw-footer" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> Sidan redigerades senast den 28 augusti 2025 kl. 16.36.</li>
+	<li id="footer-info-renderedwith">Sidan renderades med <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Parsoid" class="extiw" title="mw:Special:MyLanguage/Parsoid">Parsoid</a>.</li>
+	<li id="footer-info-copyright">Wikipedias text är tillgänglig under licensen  <a rel="nofollow" class="external text" href="//creativecommons.org/licenses/by-sa/4.0/deed.sv">Creative Commons Erkännande-dela-lika 4.0 Unported</a>. För bilder, se respektive bildsida (klicka på bilden). Se vidare <a href="/wiki/Wikipedia:Upphovsr%C3%A4tt" title="Wikipedia:Upphovsrätt">Wikipedia:Upphovsrätt</a> och <a class="external text" href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use">användarvillkor</a>.</li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy">Wikimedias integritetspolicy</a></li>
+	<li id="footer-places-about"><a href="/wiki/Wikipedia:Om">Om Wikipedia</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/Wikipedia:Allm%C3%A4nt_f%C3%B6rbeh%C3%A5ll">Förbehåll</a></li>
+	<li id="footer-places-legal-safety-contacts"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:Wikimedia_Foundation_Legal_and_Safety_Contact_Information">Kontakt juridik och säkerhet</a></li>
+	<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct">Uppförandekod</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Utvecklare</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/sv.wikipedia.org">Statistik</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Information om kakor</a></li>
+	<li id="footer-places-mobileview"><a href="//sv.wikipedia.org/w/index.php?title=Graf_(grafteori)&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobilvy</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://www.wikimedia.org/" class="cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"><picture><source media="(min-width: 500px)" srcset="/static/images/footer/wikimedia-button.svg" width="84" height="29"><img src="/static/images/footer/wikimedia.svg" width="25" height="25" alt="Wikimedia Foundation" lang="en" loading="lazy"></picture></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/" class="cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"><picture><source media="(min-width: 500px)" srcset="/w/resources/assets/poweredby_mediawiki.svg" width="88" height="31"><img src="/w/resources/assets/mediawiki_compact.svg" alt="Powered by MediaWiki" lang="en" width="25" height="25" loading="lazy"></picture></a></li>
+</ul>
+
+</footer>
+
+		</div>
+	</div> 
+</div> 
+<div class="vector-header-container vector-sticky-header-container no-font-mode-scale">
+	<div id="vector-sticky-header" class="vector-sticky-header">
+		<div class="vector-sticky-header-start">
+			<div class="vector-sticky-header-icon-start vector-button-flush-left" aria-hidden="true">
+				<button class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-sticky-header-search-toggle" tabindex="-1" data-event-name="ui.vector-sticky-search-form.icon"><span class="vector-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
+
+<span>Sök</span>
+			</button>
+		</div>
+			
+		<div role="search" class="vector-search-box-vue  vector-search-box-show-thumbnail vector-search-box">
+			<div class="vector-typeahead-search-container">
+				<div class="cdx-typeahead-search cdx-typeahead-search--show-thumbnail">
+					<form action="/w/index.php" id="vector-sticky-search-form" class="cdx-search-input cdx-search-input--has-end-button">
+						<div  class="cdx-search-input__input-wrapper"  data-search-loc="header-moved">
+							<div class="cdx-text-input cdx-text-input--has-start-icon">
+								<input
+									class="cdx-text-input__input mw-searchInput" autocomplete="off"
+									
+									type="search" name="search" placeholder="Sök på Wikipedia">
+								<span class="cdx-text-input__icon cdx-text-input__start-icon"></span>
+							</div>
+							<input type="hidden" name="title" value="Special:Sök">
+						</div>
+						<button class="cdx-button cdx-search-input__end-button">Sök</button>
+					</form>
+				</div>
+			</div>
+		</div>
+		<div class="vector-sticky-header-context-bar">
+				<nav aria-label="Innehåll" class="vector-toc-landmark">
+						
+					<div id="vector-sticky-header-toc" class="vector-dropdown mw-portlet mw-portlet-sticky-header-toc vector-sticky-header-toc vector-button-flush-left"  >
+						<input type="checkbox" id="vector-sticky-header-toc-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-sticky-header-toc" class="vector-dropdown-checkbox "  aria-label="Växla innehållsförteckningen"  >
+						<label id="vector-sticky-header-toc-label" for="vector-sticky-header-toc-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-listBullet mw-ui-icon-wikimedia-listBullet"></span>
+
+<span class="vector-dropdown-label-text">Växla innehållsförteckningen</span>
+						</label>
+						<div class="vector-dropdown-content">
+					
+						<div id="vector-sticky-header-toc-unpinned-container" class="vector-unpinned-container">
+						</div>
+					
+						</div>
+					</div>
+			</nav>
+				<div class="vector-sticky-header-context-bar-primary" aria-hidden="true" ><span lang="sv" dir="ltr"><span class="mw-page-title-main">Graf (grafteori)</span></span></div>
+			</div>
+		</div>
+		<div class="vector-sticky-header-end" aria-hidden="true">
+			<div class="vector-sticky-header-icons">
+				<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-talk-sticky-header" tabindex="-1" data-event-name="talk-sticky-header"><span class="vector-icon mw-ui-icon-speechBubbles mw-ui-icon-wikimedia-speechBubbles"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-subject-sticky-header" tabindex="-1" data-event-name="subject-sticky-header"><span class="vector-icon mw-ui-icon-article mw-ui-icon-wikimedia-article"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-history-sticky-header" tabindex="-1" data-event-name="history-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-history mw-ui-icon-wikimedia-wikimedia-history"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only mw-watchlink" id="ca-watchstar-sticky-header" tabindex="-1" data-event-name="watch-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-star mw-ui-icon-wikimedia-wikimedia-star"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-ve-edit-sticky-header" tabindex="-1" data-event-name="ve-edit-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-edit mw-ui-icon-wikimedia-wikimedia-edit"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-edit-sticky-header" tabindex="-1" data-event-name="wikitext-edit-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-wikiText mw-ui-icon-wikimedia-wikimedia-wikiText"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-viewsource-sticky-header" tabindex="-1" data-event-name="ve-edit-protected-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-editLock mw-ui-icon-wikimedia-wikimedia-editLock"></span>
+
+<span></span>
+			</a>
+		</div>
+			<div class="vector-sticky-header-buttons">
+				<button class="cdx-button cdx-button--weight-quiet mw-interlanguage-selector" id="p-lang-btn-sticky-header" tabindex="-1" data-event-name="ui.dropdown-p-lang-btn-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-language mw-ui-icon-wikimedia-wikimedia-language"></span>
+
+<span>66 språk</span>
+			</button>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive" id="ca-addsection-sticky-header" tabindex="-1" data-event-name="addsection-sticky-header"><span class="vector-icon mw-ui-icon-speechBubbleAdd-progressive mw-ui-icon-wikimedia-speechBubbleAdd-progressive"></span>
+
+<span>Nytt ämne</span>
+			</a>
+		</div>
+			<div class="vector-sticky-header-icon-end">
+				<div class="vector-user-links">
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="mw-portlet mw-portlet-dock-bottom emptyPortlet" id="p-dock-bottom">
+	<ul>
+		
+	</ul>
+</div>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw-web.codfw.main-5f848bdcd5-lnxb2","wgBackendResponseTime":126,"wgPageParseReport":{"limitreport":{"cputime":"0.244","walltime":"0.363","ppvisitednodes":{"value":1051,"limit":1000000},"revisionsize":{"value":5392,"limit":2097152},"postexpandincludesize":{"value":5885,"limit":2097152},"templateargumentsize":{"value":1110,"limit":2097152},"expansiondepth":{"value":15,"limit":100},"expensivefunctioncount":{"value":1,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":347,"limit":5000000},"entityaccesscount":{"value":2,"limit":500},"timingprofile":["100.00%  267.189      1 -total"," 19.51%   52.118      1 Mall:Commonscat_WD"," 17.12%   45.749      1 Mall:Bokref"," 16.10%   43.017      1 Mall:Cite_book"," 14.75%   39.412      1 Mall:Citation/core","  2.58%    6.894      1 Mall:ISBN","  2.16%    5.770      1 Mall:Italiclink","  1.94%    5.179      6 Mall:Harvnb","  0.84%    2.256      1 Mall:Olika_betydelser"]},"scribunto":{"limitreport-timeusage":{"value":"0.041","limit":"10.000"},"limitreport-memusage":{"value":1760701,"limit":52428800}},"cachereport":{"origin":"mw-api-int.codfw.main-dd6cd9cc8-2pqkf","timestamp":"20260320161911","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Graf (grafteori)","url":"https:\/\/sv.wikipedia.org\/wiki\/Graf_(grafteori)","sameAs":"http:\/\/www.wikidata.org\/entity\/Q141488","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q141488","author":{"@type":"Organization","name":"Bidragsgivare till Wikimedia-projekten"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2004-03-04T15:11:22Z","dateModified":"2025-08-28T14:36:53Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/5\/5b\/6n-graf.svg"}</script>
+</body>
+</html>

@@ -1,0 +1,39 @@
+2
+
+Infernus     280
+Cheetah      285
+PCJ600       250
+Stallion     180
+HotRingRacer 300
+
+Mansion         Infernus
+CarShowRoom     HotRingRacer
+VicePort        Cheetah
+NorthPointMall  Infernus
+PayPhone        PCJ600
+WKCharriot      Stallion
+
+PayPhone       CarShowRoom    10
+PayPhone       VicePort       15
+VicePort       WKCharriot     20
+CarShowRoom    Mansion        15
+Mansion        WKCharriot     15
+Mansion        NorthPointMall 5
+NorthPointMall WKCharriot     5
+*
+Caddy        80
+MrWhoopie    60
+Stretch      120
+CubanHermes  160
+Voodoo       170
+
+CherryPoppy  MrWhoopie
+Mansion      Stretch
+PayPhone     CubanHermes
+LittleHaiti  Voodoo
+WKCharriot   Caddy
+
+PayPhone      CherryPoppy    10
+CherryPoppy   LittleHaiti    15
+Mansion       WKCharriot     20
+*

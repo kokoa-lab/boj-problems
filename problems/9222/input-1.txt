@@ -1,0 +1,18 @@
+PebblesFlintstone WilmaFlintstone FredFlintstone
+LisaRubble PebblesFlintstone BambamRubble
+Don Jane FredFlintstone
+Paul LisaRubble Don
+#
+Paul FredFlintstone
+FredFlintstone BambamRubble
+Jane Don
+#
+PebblesFlintstone WilmaFlintstone FredFlintstone
+LisaRubble PebblesFlintstone BambamRubble
+Don Jane FredFlintstone
+Paul LisaRubble Don
+#
+Paul Jane
+Jane Tarzan
+#
+#

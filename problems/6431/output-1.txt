@@ -1,0 +1,5 @@
+Pendulum #1
+Length of periodic orbit = 87.66
+
+Pendulum #2
+Length of periodic orbit = 31.42

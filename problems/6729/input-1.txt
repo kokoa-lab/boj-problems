@@ -1,0 +1,8 @@
+1 "Nordstrandveien" 1 5
+2 "Munkerudveien" 0
+3 "Oberst Rodes vei" 1 4
+4 "Jordbærveien"212
+5 "Nordsetergrenda" 0
+6 "Nordseter terasse" 0
+-1
+4

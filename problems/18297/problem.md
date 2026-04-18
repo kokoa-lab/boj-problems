@@ -1,0 +1,38 @@
+---
+title: Pixels
+special_judge: true
+time_limit: 3 초
+memory_limit: 512 MB
+submissions: 54
+accepted: 33
+solved_users: 18
+acceptance_rate: 52.941%
+collected_at: 2026-04-17T14:58:52.980038+00:00
+---
+
+## 문제
+
+There are various ways to protect wildlife. One is to make posters that will inspire people, and that is the job of artists. Some of those people that need to be inspired are geeks, and that is why some artists focus on pixel art.
+
+An artist prepared a pixel art drawing for depicting animals in black and white. These drawings should be displayed on a gigantic pixelated, rectangular screen, with K rows (ordered from 0 to K − 1, from top to bottom) and L columns (ordered from 0 to L − 1, from left to right): displaying drawings on such screens is your job.
+
+When you initialize the screen, it displays only white pixels. Then, its pixels should be controlled individually by switches, and pressing the switch of a pixel P ought to change the color of P, either from black to white or from white to black. However, the screen has a defect: pressing the switch of the pixel P also changes the color of those pixels that have an edge in common with P, i.e., those pixels that are adjacent horizontally or vertically (but not diagonally). Yet, it might still be possible that, by adequately choosing which switches you press, even this defective screen can display the drawing you were handed.
+
+Can you manage to display that drawing? If yes, which set of switches should you press?
+
+## 입력
+
+* Line 1 contains two integers K and L, separated by spaces.
+* For all i such that 0 ≤ i < K, line i + 2 contains L symbols “B” or “W”, separated by spaces: if the jth symbol (with 0 ≤ j < L) is a “B”, then the pixel that will be displayed on row i and column j should be black; otherwise, it should be a white pixel.
+
+## 출력
+
+If there is no way to display the desired drawing by pressing switches, your output should contain one line with the word “IMPOSSIBLE” and nothing else.
+
+Otherwise, your output should contain K lines, each one containing L symbols “A” or “P” and separated by spaces:
+
+* For all i and j such that 0 ≤ i < K and 0 ≤ j < L, if the jth symbol on line i + 1 is a “P”, then you should press the switch associated with the pixel on row i and column j; otherwise, you should avoid that switch.
+
+## 힌트
+
+Note that the order in which switches are pressed is not important, and that it is never necessary to press twice the same switch. Thus, a solution can be fully described by the set of switches pressed. There might be several solutions, i.e., several adequate sets of switches. In that case, your output should just represent one such solution.

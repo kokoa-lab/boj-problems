@@ -1,0 +1,47 @@
+---
+title: Bovine Bridge Battle
+special_judge: false
+time_limit: 1 초
+memory_limit: 128 MB
+submissions: 63
+accepted: 46
+solved_users: 37
+acceptance_rate: 84.091%
+collected_at: 2026-04-17T11:18:59.355339+00:00
+---
+
+## 문제
+
+Each of Farmer John's N (4 <= N <= 1,000) cows is patiently waiting in the main pasture with cow i at point with integer coordinates (X\_i, Y\_i) (-1,000,000,000 <= X\_i <= 1,000,000,000; -1,000,000,000 <= Y\_i <= 1,000,000,000).
+
+The cows wish to form into groups of four in order to play Bridge, their new favorite card game. Each group must satisfy an important constraint: four cows are allowed to team up if and only if there exists some point X somewhere in the plane (and not coincident with any of the four points of the potential group of four) such that rotating any of the group's cows 180 degrees about that point X gives the position of some other cow in the group.
+
+Please help the cows determine the number of sets of four cows that can form a Bridge group.
+
+By way of example, suppose eight cows are standing at eight points:
+
+```
+
+                  |
+                 f*
+                  |             a = (-3, 1)    e = (-1, 1)
+           b*     |             b = (-2, 2)    f = ( 0, 3)
+        a      e  |             c = (-3, 0)    g = ( 2, 0)
+         *     *  |             d = (-2, 0)    h = ( 3, 0)
+         c  d     |     g  h
+---------*--*-----+-----*--*---------
+                  |
+```
+
+Then the three legal sets of four cows are {a, b, e, d} (they rotate around point (-2, 1)), {b, c, e, f} (around the point (-1.5, 1.5)), and {c, d, g, h} (around (0,0)).
+
+The supplied locations of the cows given are all distinct, although they are supplied in no particular order. Furthermore, the answer will fit into a signed 32-bit integer.
+
+## 입력
+
+* Line 1: A single integer: N
+* Lines 2..N+1: Line i+1 contains two space-separated integers: X\_i and Y\_i
+
+## 출력
+
+* Line 1: A single integer that is the number of sets of 4 cows that form valid groups for bridge.

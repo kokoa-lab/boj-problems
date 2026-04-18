@@ -1,0 +1,4 @@
+white pawn
+rook
+queen
+king

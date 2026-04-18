@@ -1,0 +1,46 @@
+5
+#....
+.....
+.....
+.....
+..#..
+4 3
+1 5
+PLACE
+W
+1 5
+RAM
+S
+6 5
+6 5
+5 5
+RAM
+W
+5 3
+5 1
+5 2
+PLACE
+NE
+5 2
+RAM
+NE
+4 3
+2 5
+3 4
+REMOVE
+NE
+3 4
+PLACE
+S
+3 4
+SLIDE
+W
+3 1
+RAM
+S
+5 1
+5 1
+4 1
+SLIDE
+E
+-1 -1

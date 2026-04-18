@@ -1,0 +1,39 @@
+---
+title: Keyboard Consensus
+special_judge: false
+time_limit: 3 초
+memory_limit: 512 MB
+submissions: 79
+accepted: 15
+solved_users: 14
+acceptance_rate: 25.000%
+collected_at: 2026-04-17T14:21:49.191223+00:00
+---
+
+## 문제
+
+Famous young programmers Kolya and Kostya are preparing for the upcoming team contest. One of the important decisions they need to make is to pick a keyboard they both are comfortable with. To reach a consensus they have decided to use the following procedure.
+
+There are n keyboards numbered from 1 to n. Initially, the set of candidates contains all n keyboards. The programmers take turns, Kolya goes first. On his turn, the programmer removes one keyboard from the set. The last keyboard remaining in the set will be chosen for the contest.
+
+Each programmer has prepared a list containing all n keyboards, sorted from the one he likes the most to the one he likes the least. Both Kolya and Kostya want to minimize the position of the chosen keyboard in their list. They both know the lists of each other.
+
+Find the keyboard that will be chosen if both programmers play optimally, and all optimal first moves for Kolya — keyboards he can remove on his first turn to guarantee the best possible result for himself.
+
+## 입력
+
+The first line of the input contains an integer n — the number of keyboards (2 ≤ n ≤ 100). The second line contains n distinct integers between 1 and n, inclusive — the numbers of keyboards in Kolya’s list, in the order from the one he likes the most to the one he likes the least. The third line contains Kostya’s list in the same format.
+
+## 출력
+
+In the first line output one integer — the number of the chosen keyboard. In the second line output the number of optimal first moves for Kolya. In the third line output these moves in increasing order.
+
+## 힌트
+
+In the first example, Kolya will remove keyboards 4 and 5 in any order, and Kostya will remove keyboards 1 and 2 in any order. Thus, keyboard 3 will be chosen.
+
+In the second example, both of them like keyboard 1, so they will remove all other keyboards in any order.
+
+In the third example, the only optimal move for Kolya is to remove keyboard 1 on his turn. Kostya will choose between keyboards 2 and 3, and since keyboard 3 is better for him, he will remove keyboard 2.
+
+In the fourth example, a simple search through all possible moves shows that Kolya cannot force keyboard 4 to be chosen, and the answer is 1.

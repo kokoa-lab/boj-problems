@@ -1,0 +1,7 @@
+Exists
+1 4 2 3
+2 3 4 1
+Not exists
+Exists
+1 2 3 4
+1 2 3 4

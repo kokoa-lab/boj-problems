@@ -1,0 +1,34 @@
+---
+title: Skyscraper “MinatoHarukas”
+special_judge: false
+time_limit: 2 초
+memory_limit: 512 MB
+submissions: 143
+accepted: 77
+solved_users: 64
+acceptance_rate: 54.701%
+collected_at: 2026-04-17T14:10:12.109520+00:00
+---
+
+## 문제
+
+Mr. Port plans to start a new business renting one or more floors of the new skyscraper with one giga floors, MinatoHarukas. He wants to rent as many vertically adjacent floors as possible, because he wants to show advertisement on as many vertically adjacent windows as possible. The rent for one floor is proportional to the floor number, that is, the rent per month for the *n*-th floor is *n* times that of the first floor. Here, the ground floor is called the first floor in the American style, and basement floors are out of consideration for the renting. In order to help Mr. Port, you should write a program that computes the vertically adjacent floors satisfying his requirement and whose total rental cost per month is *exactly equal* to his budget.
+
+For example, when his budget is 15 units, with one unit being the rent of the first floor, there are four possible rent plans, 1+2+3+4+5, 4+5+6, 7+8, and 15. For all of them, the sums are equal to 15. Of course in this example the rent of maximal number of the floors is that of 1+2+3+4+5, that is, the rent from the first floor to the fifth floor.
+
+## 입력
+
+The input consists of multiple datasets, each in the following format.
+
+```
+
+b
+```
+
+A dataset consists of one line, the budget of Mr. Port *b* as multiples of the rent of the first floor. *b*  is a positive integer satisfying 1 < *b* < 109.
+
+The end of the input is indicated by a line containing a zero. The number of datasets does not exceed 1000.
+
+## 출력
+
+For each dataset, output a single line containing two positive integers representing the plan with the maximal number of vertically adjacent floors with its rent price exactly equal to the budget of Mr. Port. The first should be the lowest floor number and the second should be the number of floors.

@@ -1,0 +1,40 @@
+---
+title: Logo
+special_judge: true
+time_limit: 1 초
+memory_limit: 128 MB
+submissions: 320
+accepted: 119
+solved_users: 84
+acceptance_rate: 37.333%
+collected_at: 2026-04-17T10:57:14.593062+00:00
+---
+
+## 문제
+
+Logo is a programming language built around a turtle. Commands in the language cause the turtle to move. The turtle has a pen attached to it. As the turtle moves, it draw lines on the page. The turtle can be programmed to draw interesting pictures.
+
+We are interested in making the turtle draw a picture, then return to the point that it started from. For example, we could give the turtle the following program:
+
+```
+
+fd 100 lt 120 fd 100 lt 120 fd 100
+```
+
+The command fd causes the turtle to move forward by the specified number of units. The command lt causes the turtle to turn left by the specified number of degrees. Thus the above commands cause the turtle to draw an equilateral triangle with sides 100 units long. Notice that after executing the commands, the turtle ends up in the same place as it started. The turtle understands two additional commands. The command bk causes the turtle to move backward by the specified number of units. The command rt causes the turtle to turn right by the specified number of degrees.
+
+After executing many commands, the turtle can get lost, far away from its starting position. Your task is to determine the straight-line distance from the turtle's position at the end of its journey back to the position that it started from.
+
+## 입력
+
+The first line of input contains one integer specifying the number of test cases to follow. Each test case starts with a line containing one integer, the number of commands to follow. The commands follow, one on each line. Each test case will contain no more than 1000 commands.
+
+You can assume that the given degree is greater than or equal to 0 and less than 360.
+
+Also, you can assume that the given distance is greater than 0 and less than 1000000.
+
+## 출력
+
+For each test case, output a line containing a single integer, the distance rounded to the nearest unit.
+
+You can assume that answer does not change within an absolute error of 0.01.

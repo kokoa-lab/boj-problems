@@ -1,0 +1,8 @@
+5 5
+WWWWW
+W.G.W
+WW.GW
+W.G.W
+WWWWW
+2 2
+4 2

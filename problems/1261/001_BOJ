@@ -1,0 +1,653 @@
+
+
+<!doctype html>
+<!--[if IE 7 ]>    <html lang="en" class="no-js ie7"> <![endif]-->
+	<!--[if IE 8 ]>    <html lang="en" class="no-js ie8"> <![endif]-->
+		<!--[if IE 9 ]>    <html lang="en" class="no-js ie9"> <![endif]-->
+			<!--[if (gt IE 9)|!(IE)]><!-->
+<html lang="en" class="no-js"> <!--<![endif]-->
+	<head>
+		<title>algospot.com ::  
+	BOJ 
+</title>
+		<meta charset="UTF-8">
+		<meta name="description" content="">
+		<meta name="author" content="">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+		<link rel="shortcut icon" href="/favicon.ico">
+		<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+
+		<!-- CSS Styles -->
+		<link rel="stylesheet" href="/static/css/style.css?v=2">
+		<link rel="stylesheet" href="/static/css/colors.css?v=2">
+		<link rel="stylesheet" href="/static/css/algospot.css?v=2">
+		<link rel="stylesheet" href="/static/css/code.css?v=2">
+		<link rel="stylesheet" href="/static/css/jquery.tipsy.css">
+		<link rel="stylesheet" href="/static/css/jquery.wysiwyg.css">
+		<link rel="stylesheet" href="/static/css/jquery.datatables.css">
+		<link rel="stylesheet" href="/static/css/jquery.nyromodal.css">
+		<link rel="stylesheet" href="/static/css/jquery.datepicker.css">
+		<link rel="stylesheet" href="/static/css/jquery.fileinput.css">
+		<link rel="stylesheet" href="/static/css/jquery.fullcalendar.css">
+		<link rel="stylesheet" href="/static/css/jquery.visualize.css">
+		<link rel="stylesheet" href="/static/css/jquery-ui.css">
+		<link rel="stylesheet" href="/static/codemirror/lib/codemirror.css">
+
+		<!-- Google WebFonts -->
+		<link href='//fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic' rel='stylesheet' type='text/css'>
+
+		<script src="/static/codemirror/lib/codemirror.js"></script>
+		<script src="/static/codemirror/mode/markdown/markdown.js"></script>
+		<script src="/static/js/libs/modernizr-1.7.min.js"></script>
+		<script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+		<script>!window.jQuery && document.write(unescape('%3Cscript src="/static/js/jquery/jquery-1.7.2.min.js"%3E%3C/script%3E'))</script>
+		<script type="text/javascript">
+
+			var _gaq = _gaq || [];
+			_gaq.push(['_setAccount', 'UA-7621581-1']);
+			_gaq.push(['_trackPageview']);
+
+			(function() {
+			 var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			 ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			 var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+			 })();
+
+		</script>
+	</head>
+
+	<!-- Add class .fixed for fixed layout. You would need also edit CSS file for width -->
+	<body class="fixed">
+
+		<!-- Fixed Layout Wrapper -->
+		<div class="fixed-wraper">
+
+			<!-- Aside Block -->
+			<section role="navigation" class="navigation">
+				<!-- Header with logo and headline -->
+				<header>
+					<a href="/" title="처음으로"></a>
+					<h1>SINCE 2007</h1>
+				</header>
+
+				<!-- User Info -->
+				<section id="user-info">
+					
+						<img src="/static/images/unknown-user.png" alt="Not logged in yet">
+						<div>
+							<em class="kor">로그인하세요.</em>
+							<ul>
+								
+								
+								<li><a class="button-link" href="/accounts/login/?next=/judge/problem/read/BOJ" title="로그인" rel="tooltip">sign in</a></li>
+								
+								<li><a class="button-link" href="/accounts/register/" title="회원 가입" rel="tooltip">sign up</a></li>
+							</ul>
+						</div>
+					
+				</section>
+				<!-- /User Info -->
+
+				<!-- Main Navigation -->
+				<nav id="main-nav" class="kor">
+					<ul>
+						<li class="">
+							<a href="/newsfeed/" class="no-submenu">
+								뉴스 피드
+							</a>
+						</li>
+						<li class="">
+							<a href="/forum/all/1/">
+								포럼
+							</a>
+							<ul>
+								
+									<li class="">
+										<a href="/forum/list/news/1/">뉴스</a>
+									</li>
+								
+									<li class="">
+										<a href="/forum/list/free/1/">자유게시판</a>
+									</li>
+								
+									<li class="">
+										<a href="/forum/list/qna/1/">질문과 답변</a>
+									</li>
+								
+									<li class="">
+										<a href="/forum/list/old/1/">과거 게시판</a>
+									</li>
+								
+							</ul>
+						</li>
+						<li class="" >
+							<a href="/wiki/read/Main_Page" class="no-submenu">
+								위키
+							</a>
+							<ul>
+								<li class="">
+									<a href="/wiki/list/">
+										페이지 목록
+									</a>
+								</li>
+							</ul>
+						</li>
+						<li class="current">
+							<a href="/judge/problem/list/" class="">
+								온라인 저지
+							</a>
+							<ul>
+								<li class="current">
+									<a href="/judge/problem/list/">
+										문제 풀기
+									</a>
+								</li>
+								
+								<li class="">
+									<a href="/judge/problem/random/">
+										랜덤 문제 고르기
+									</a>
+								</li>
+								<li class=""><a href="/judge/submission/recent/">
+										최근 제출된 답안
+									</a>
+								</li>
+								<li class="">
+									<a href="/judge/ranking/">
+										사용자 랭킹
+									</a>
+								</li>
+								<!--<li>-->
+								<!--	<a href="/">-->
+								<!--		대회-->
+								<!--	</a>-->
+								<!--</li>-->
+								<li>
+									<a href="/wiki/read/%EC%95%8C%EA%B3%A0%EC%8A%A4%ED%8C%9F_%EC%98%A8%EB%9D%BC%EC%9D%B8_%EC%A0%80%EC%A7%80">
+										튜토리얼
+									</a>
+								</li>
+							</ul>
+						</li>
+						<li class=""><a href="/calendar/" class="no-submenu">캘린더</a></li>
+						<li>
+							<a href="https://algospot.slack.com/" class="">
+								알고스팟 대화방
+							</a>
+							<ul>
+								<li class="">
+									<a href="http://algospot-slack-invitation.herokuapp.com/">
+										초대장 받기
+									</a>
+								</li>
+								<li class="">
+									<a href="https://algospot.com/wiki/read/%EC%95%8C%EA%B3%A0%EC%8A%A4%ED%8C%9F_%EC%B1%84%ED%8C%85">
+										이용 안내
+									</a>
+								</li>
+							</ul>
+						</li>
+						
+					</ul>
+				</nav>
+				<!-- /Main Navigation -->
+
+				<!-- Search -->
+				<section id="search">
+					<form method="get" action="/search/">
+						<input name="q" class="search" id="search_query" placeholder="검색하기"/>
+					</form>
+					<form method="get" action="/judge/problem/list/goto">
+						<input name="slug" class="search problem_autocomplete" placeholder="AOJ 문제 바로가기"/>
+					</form>
+				</section>
+				<!-- /Search -->
+				
+				<!--Sidebar -->
+				<section class="sidebar nested" id="calendar_upcoming">
+					<h2>다가오는 이벤트들</h2>
+					<span id="calendar_events_container">
+						<p class="template">
+							<a href="#" class="anchor"></a>
+							<span class="starttime"></span>
+						</p>
+					<!-- <p class="separator"><a href="#">TCO11 Marathon Match R3</a> (6/30)</p> -->
+					<!-- <p>TCO11 Marathon Match R3 (6/30)</p> -->
+					<!-- <p class="separator">SRM 511 (7/2 11:00 AM)</p> -->
+					<!-- <p class="separator">TCO11 Online Round 3 (7/9 11:00 AM)</p> -->
+					<!-- <p class="separator">SRM 512 (7/13 10:00 AM)</p> -->
+					<!-- <p class="separator">TCO11 Online Round 4 (7/23 11:00 AM)</p> -->
+					<!-- <p class="separator">SRM 513 (7/26 6:00 AM)</p> -->
+					<!-- <p class="separator">TCO11 Online Round 5 (8/6 11:00 AM)</p> -->
+					<!-- <p class="separator">SRM 514 (8/9 8:00 PM)</p> -->
+					<!-- <p class="separator">SRM 515 (8/20 11:00 AM)</p> -->
+					</span>
+					<a class="button-link" href="/calendar/" title="See all events!">see all</a>
+				</section>
+				<section class="sidebar feed">
+
+					<a href="/feed/posts/"><img src="/static/images/rss.png"/></a>
+				</section>
+				<!-- /Sidebar -->
+			</section>
+
+			<!-- /Aside Block -->
+
+			<!-- Main Content -->
+			<section role="main" id="main_section">
+
+				<!-- Full Content Block -->
+				<!-- Note that only 1st article need clearfix class for clearing -->
+				<article class="full-block clearfix">
+
+					<!-- Article Container for safe floating -->
+					<div class="article-container">
+
+						<!-- Article Header -->
+						<header>
+							<h2>
+	Baekjoon Online Judge
+</h2>
+							<!-- Article Header Tab Navigation -->
+							
+	<nav>
+		<ul class="tab-switch">
+			<li>
+				<a class="current" href="/judge/problem/read/BOJ" rel="tooltip" title="Read problem">
+					문제
+				</a>
+			</li>
+			<li>
+				<a class="" href="/judge/problem/submit/BOJ" rel="tooltip" title="Submit a solution">
+					답안 제출
+				</a>
+			</li>
+			<li>
+				<a class="" href="/judge/problem/stat/BOJ/" rel="tooltip" title="Problem statistics">
+					통계
+				</a>
+			</li>
+			
+		</ul>
+	</nav>
+
+							<!-- /Article Header Tab Navigation -->
+						</header>
+						<!-- /Article Header -->
+
+						<!-- Article Content -->
+						 
+	
+	
+
+
+<section class="problem_info">
+	<h4>문제 정보</h4>
+	<ul class="problem_info tabular">
+		<li class="header">
+			<ul>
+				<li class="problemid">문제 ID</li>
+				<li class="timelimit">시간 제한</li>
+				<li class="memorylimit">메모리 제한</li>
+				<li class="submissions">제출 횟수</li>
+				<li class="accepted">정답 횟수 (비율)</li>
+			</ul>
+		</li>
+		<li class="content">
+			<ul>
+				<li class="problem-id"><a href="/judge/problem/read/BOJ">BOJ</a></li>
+				<li class="timelimit"><b>10000</b>ms</li>
+				<li class="memorylimit"><b>65536</b>kb</li>
+				<li class="submissions"><a href="/judge/submission/recent/?problem=BOJ"><b>1050</b></a></li>
+				<li class="accepted"><a href="/judge/problem/stat/BOJ/"><b>247</b> (<b>23</b>%)</a></li>
+			</ul>
+		</li>
+		<li class="header">
+			<ul>
+				<li class="author">출제자</li>
+				<li class="source">출처</li>
+				<li class="category">분류</li>
+			</ul>
+		</li>
+		<li class="content">
+			<ul>
+				<li class="author"><a href="/user/profile/2610" class="username">Baekjoon</a></li>
+				<li class="source"><a href="/judge/problem/list/?source="></a></li>
+				<li class="category">
+					<a href="#" id="show_category">보기</a>
+					
+					<span id="problem_category" style="display: none;">
+						
+						<a href="/judge/problem/list/?tag=BFS">BFS</a>
+						
+					</span>
+				</li>
+			</ul>
+			<script language="javascript">
+				$(function() {
+					$("#show_category").click(function() {
+						$(this).hide();
+						$("#problem_category").fadeIn("slow");
+					});
+				});
+			</script>
+		</li>
+		
+	</ul>
+</section>
+
+	<section class="problem_statement">
+		<h4>문제</h4>
+		<p class="kor">
+			<p>Baekjoon Online Judge의 운영자 백준이가 미로에 갇혔다. 미로는 N*M 크기이며, 총 1*1크기의 방으로 이루어져 있다. 미로는 빈 방 또는 벽으로 이루어져 있고, 빈 방은 자유롭게 다닐 수 있지만, 벽은 부수지 않으면 이동할 수 없다.</p>
+
+<p>어떤 방에서 이동할 수 있는 방은 상하좌우로 인접한 빈 방이다. 즉, 현재 백준이가 (x, y)에 있을 때, 이동할 수 있는 방은 (x+1, y), (x, y+1), (x-1, y), (x, y-1) 이다. 단, 미로의 밖으로 이동 할 수는 없다.</p>
+
+<p>벽은 평소에는 이동할 수 없지만, 백준이의 무기 BOJ를 이용해 벽을 부수어 버릴 수 있다. 벽을 부수면, 빈 방과 동일한 방으로 변한다.</p>
+
+<p>만약 이 문제가 <a href="https://www.acmicpc.net">Baekjoon Online Judge</a>에 있다면, 백준이는 궁극의 무기 sudo를 이용해 벽을 한 번에 다 없애버릴 수 있지만, 안타깝게도 이 문제는 <a href="https://www.algospot.com">알고스팟</a>에 수록되어 있기 때문에, sudo를 사용할 수 없다.</p>
+
+<p>현재 (1, 1)에 있는 백준이가 (N, M)으로 이동하려면 벽을 최소 몇 개 부수어야 하는지 구하는 프로그램을 작성하시오.</p>
+
+		</p>
+	</section>
+	<section class="problem_input">
+		<h4>입력</h4>
+		<p class="kor">
+			<p>첫째 줄에 미로의 크기를 나타내는 가로 크기 M, 세로 크기 N (1 ≤ N, M ≤ 100)이 주어진다. 다음 N개의 줄에는 미로의 상태를 나타내는 숫자 0과 1이 주어진다. 0은 빈 방을 의미하고, 1을 벽을 의미한다.</p>
+
+<p>(1, 1)과 (N, M)은 항상 뚫려있다.</p>
+
+		</p>
+	</section>
+	<section class="problem_output">
+		<h4>출력</h4>
+		<p class="kor">
+			<p>첫째 줄에 백준이가 (N, M)으로 이동하기 위해 벽을 최소 몇 개 부수어야 하는지 출력한다.</p>
+
+		</p>
+	</section>
+	<section class="problem_sample_input">
+		<h4>예제 입력</h4>
+		<pre>3 4
+011
+111
+110
+110
+</pre>
+	</section>
+	<section class="problem_sample_output">
+		<h4>예제 출력</h4>
+		<pre>3
+</pre>
+	</section>
+	<section class="problem_note">
+		<h4>노트</h4>
+		<p class="kor">
+			<p>이 문제는 <a href="https://www.acmicpc.net/problem/1261">Baekjoon Online Judge</a> 에서도 풀 수 있다.</p>
+
+		</p>
+	</section>
+
+
+						<!-- Article Footer -->
+
+						<footer>
+						</footer>
+						<!-- /Article Footer -->
+
+					</div>
+					<!-- /Article Container -->
+
+				</article>
+				<!-- /Full Content Block -->
+
+				
+	
+		
+
+
+<article class="full-block">
+	<div class="article-container">
+		
+		<section class="kor">
+			
+			<h5>
+				
+					<a href="javascript:;" id="toggle_comments">
+				
+					7개의 댓글이 있습니다.
+				
+					</a>
+				
+			</h5>
+			<ul id="comment_list" class="comments background-color" style="display: none;">
+				
+				<li class="comment">
+					<a name="c13924" id="c13924"></a>
+					<dl>
+						<dt class="comment_user">
+							<img src="/static/images/unknown-user.png" alt="kcm1700" width="45" height="45" /><br/>
+							<a href="/user/profile/36" class="username">kcm1700</a>
+						</dt>
+						<dd class="comment_content">
+							<p>크크 거울상이군요. 재밌네요</p>
+
+							<br/>
+							<span class="datetime"><span class="" title="2015/08/05 02:40">10년 전</span></span>
+							<span class="operations">
+								<a href="#c13924" class="button-link gray">link</a>
+								
+							</span>
+						</dd>
+					</dl>
+				</li>
+				
+				
+				<li class="comment">
+					<a name="c13925" id="c13925"></a>
+					<dl>
+						<dt class="comment_user">
+							<img src="/media/avatars/fleo0917/resized/45/11282680_1595175354076471_726413381_n.jpg" alt="fleo0917" width="45" height="45" /><br/>
+							<a href="/user/profile/13227" class="username">fleo0917</a>
+						</dt>
+						<dd class="comment_content">
+							<p>체점 방식이 다른가요? 파이썬으로 푸는데, BOJ쪽에서는 여유롭게 통과 하는 코드가 여기서는 죽어도 안 되네요.</p>
+
+							<br/>
+							<span class="datetime"><span class="" title="2015/08/05 03:20">10년 전</span></span>
+							<span class="operations">
+								<a href="#c13925" class="button-link gray">link</a>
+								
+							</span>
+						</dd>
+					</dl>
+				</li>
+				
+				
+				<li class="comment">
+					<a name="c13926" id="c13926"></a>
+					<dl>
+						<dt class="comment_user">
+							<img src="/media/avatars/JongMan/resized/45/unknown-user.png" alt="JongMan" width="45" height="45" /><br/>
+							<a href="/user/profile/2" class="username">JongMan</a>
+						</dt>
+						<dd class="comment_content">
+							<p>BOJ에서는 테스트 케이스별로 시간을 재고, 여기서는 전체 시간을 재서 그렇지 않나 싶습니다. 여기서는 시간 제한을 좀 늘리는 게 나을지도..</p>
+
+							<br/>
+							<span class="datetime"><span class="" title="2015/08/05 04:33">10년 전</span></span>
+							<span class="operations">
+								<a href="#c13926" class="button-link gray">link</a>
+								
+							</span>
+						</dd>
+					</dl>
+				</li>
+				
+				
+				<li class="comment">
+					<a name="c15298" id="c15298"></a>
+					<dl>
+						<dt class="comment_user">
+							<img src="/static/images/unknown-user.png" alt="luku756" width="45" height="45" /><br/>
+							<a href="/user/profile/4127" class="username">luku756</a>
+						</dt>
+						<dd class="comment_content">
+							<p>1을 지날 때 이동 코스트가 1씩 올라가는 방식으로 계산하면 안 되나요?<br>
+그렇게 해서 bfs로 최소값을 찾았는데 오답이라고 나오네요... 뭔가 예외가 있는지?</p>
+
+							<br/>
+							<span class="datetime"><span class="" title="2016/07/12 11:24">9년 전</span></span>
+							<span class="operations">
+								<a href="#c15298" class="button-link gray">link</a>
+								
+							</span>
+						</dd>
+					</dl>
+				</li>
+				
+				
+				<li class="comment">
+					<a name="c15330" id="c15330"></a>
+					<dl>
+						<dt class="comment_user">
+							<img src="/static/images/unknown-user.png" alt="heekyu" width="45" height="45" /><br/>
+							<a href="/user/profile/8139" class="username">heekyu</a>
+						</dt>
+						<dd class="comment_content">
+							<p>BOJ 에서는 144ms 로 통과하는데 여기서는 시간초과 납니다.<br>
+java 채점에 문제 있는지 확인해 주실 수 있나요?</p>
+
+							<br/>
+							<span class="datetime"><span class="" title="2016/07/25 13:47">9년 전</span></span>
+							<span class="operations">
+								<a href="#c15330" class="button-link gray">link</a>
+								
+							</span>
+						</dd>
+					</dl>
+				</li>
+				
+				
+				<li class="comment">
+					<a name="c15430" id="c15430"></a>
+					<dl>
+						<dt class="comment_user">
+							<img src="/static/images/unknown-user.png" alt="geesetower" width="45" height="45" /><br/>
+							<a href="/user/profile/25687" class="username">geesetower</a>
+						</dt>
+						<dd class="comment_content">
+							<p>저도 java에서 시간초과로 실패했습니다. <br>
+조사를 좀 해 봤는데, 이게 입력데이터 중 하나가 마지막에 개행문자를 안 넣어서 그런게 아닐까 합니다. java가 콘솔 입력은 엔터키까지 넘어가야 System.in에서 입력값을 가져올 수 있는데, 마지막 줄 입력에 개행문자가 없으면 계속 입력 대기상태로 멈춰있게 됩니다. <br>
+이것은 파이선도 마찬가지라고 하던데요. 위에 파이선에서도 통과를 못 한다는 것을 보니 이게 많이 의심이 됩니다. 테스트 입력 데이터를 확인 부탁합니다.</p>
+
+							<br/>
+							<span class="datetime"><span class="" title="2016/08/17 15:58">9년 전</span></span>
+							<span class="operations">
+								<a href="#c15430" class="button-link gray">link</a>
+								
+							</span>
+						</dd>
+					</dl>
+				</li>
+				
+				
+				<li class="comment">
+					<a name="c16104" id="c16104"></a>
+					<dl>
+						<dt class="comment_user">
+							<img src="/static/images/unknown-user.png" alt="JDragon0319" width="45" height="45" /><br/>
+							<a href="/user/profile/28851" class="username">JDragon0319</a>
+						</dt>
+						<dd class="comment_content">
+							<p>IDE에선 실행 잘되는데...<br>
+오답인 이유를 모르니 답답하네요ㅠㅠ</p>
+
+							<br/>
+							<span class="datetime"><span class="" title="2016/11/22 20:43">9년 전</span></span>
+							<span class="operations">
+								<a href="#c16104" class="button-link gray">link</a>
+								
+							</span>
+						</dd>
+					</dl>
+				</li>
+				
+				
+				
+				<li class="comment comment_form">
+					<p>
+						정회원 권한이 있어야 커멘트를 다실 수 있습니다. 정회원이 되시려면
+                        온라인 저지에서 5문제 이상을 푸시고, 가입 후 7일 이상이 지나셔야
+                        합니다. 현재 문제를 푸셨습니다.
+					</p>
+				</li>
+
+				
+			</ul>
+		</section>
+	</div>
+</article>
+
+<script language="javascript">
+	$(function() {
+		$("#toggle_comments").click(function(e) {
+			e.stopPropagation();
+			e.preventDefault();
+			$("#comment_list").slideToggle();
+			$('.CodeMirror').each(function(i, el){
+				el.CodeMirror.refresh();
+			});
+			return false;
+		});
+		if(window.location.hash) {
+			$("#comment_list").show();
+			var hash = window.location.hash;
+			var target_top = $(hash).offset().top;
+			$("html, body").animate({scrollTop: target_top}, 500);
+		}
+	});
+</script>
+
+
+	
+
+
+			</section>
+			<!-- /Main Content -->
+
+		</div>
+		<!-- /Fixed Layout Wrapper -->
+
+		<!-- JS Libs at the end for faster loading -->
+		<script src="/static/js/libs/selectivizr.js"></script>
+		<script src="/static/js/jquery/jquery.nyromodal.js"></script>
+		<script src="/static/js/jquery/jquery.tipsy.js"></script>
+		<script src="/static/js/jquery/jquery.wysiwyg.js"></script>
+		<script src="/static/js/jquery/jquery.datatables.js"></script>
+		<script src="/static/js/jquery/jquery.datepicker.js"></script>
+		<script src="/static/js/jquery/jquery.fileinput.js"></script>
+		<script src="/static/js/jquery/jquery.fullcalendar.min.js"></script>
+		<script src="/static/js/jquery/excanvas.js"></script>
+		<script src="/static/js/jquery/jquery.visualize.js"></script>
+		<script src="/static/js/jquery/jquery.visualize.tooltip.js"></script>
+		<script src="/static/js/jquery/superbly-tagfield.min.js"></script>
+		<script src="/static/js/jquery/jquery.cookie.js"></script>
+		<script src="/static/js/jquery/jquery.tools.overlay.min.js"></script>
+		<script src="/static/js/jquery/jquery-ui.min.js"></script>
+		<script src="/static/js/sundown.js"></script>
+		<script src="/static/js/script.js?ver=3"></script>
+		<script type="text/x-mathjax-config">
+			MathJax.Hub.Config({
+				extensions: [],
+				jax: ["input/TeX", "output/HTML-CSS"],
+				preRemoveClass: "mathjax-preview",
+				"HTML-CSS": { availableFonts: ["TeX"] }
+			});
+		</script>
+		<script type="text/javascript" src="https://cdn.mathjax.org/mathjax/latest/MathJax.js"></script>
+
+	</body>
+</html>

@@ -1,0 +1,8 @@
+300 300 moveto
+0 72 rlineto
+72 0 rlineto
+0 -72 rlineto
+300 300 moveto
+-72 0 rlineto
+0 72 rlineto
+72 0 rlineto

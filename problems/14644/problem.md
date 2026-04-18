@@ -1,0 +1,29 @@
+---
+title: Visual Python++
+special_judge: true
+time_limit: 5 초
+memory_limit: 512 MB
+submissions: 93
+accepted: 38
+solved_users: 33
+acceptance_rate: 50.769%
+collected_at: 2026-04-17T13:39:46.703150+00:00
+---
+
+## 문제
+
+In the recently proposed Visual Python++ programming language, a block of statements is represented as a rectangle of characters with top-left corner in row r1 and column c1, and bottom-right corner in row r2 and column c2. All characters at locations (r, c) with r1 ≤ r ≤ r2 and c1 ≤ c ≤ c2 are then considered to belong to that block. Among these locations, the ones with r = r1 or r = r2 or c = c1 or c = c2 are called a border.
+
+Statement blocks can be nested (rectangles contained in other rectangles) to an arbitrary level. In a syntactically correct program, every two statement blocks are either nested (one contained in the other) or disjoint (not overlapping). In both cases, their borders may not overlap.
+
+Programmers are not expected to draw the many rectangles contained in a typical program – this takes too long, and Visual Python++ would not have a chance to become the next ICPC programming language. So a programmer only has to put one character ‘p’ in the top-left corner of the rectangle and one character ‘y’ in the bottom-right corner. The parser will automatically match up the appropriate corners to obtain the nesting structure of the program.
+
+Your team has just been awarded a five-hour contract to develop this part of the parser.
+
+## 입력
+
+The first line of the input contains an integer n (1 ≤ n ≤ 105), the number of corner pairs. Each of the next n lines contains two integers r and c (1 ≤ r, c ≤ 109), specifying that there is a top-left corner in row r and column c of the program you are parsing. Following that are n lines specifying the bottom-right corners in the same way. All corner locations are distinct.
+
+## 출력
+
+Display n lines, each containing one integer. A number j in line i means that the ith top-left corner and the jth bottom-right corner form one rectangle. Top-left and bottom-right corners are each numbered from 1 to n in the order they appear in the input. The output must be a permutation of the numbers from 1 to n such that the matching results in properly nested rectangles. If there is more than one valid matching, any one will be accepted. If no such matching exists, display syntax error.

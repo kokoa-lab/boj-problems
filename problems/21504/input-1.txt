@@ -1,0 +1,9 @@
+2
+-10 1
+6 11
+aaaaaaaaaaa
+aaabaaaaaaa
+aaabaaaabaa
+abbbbbbbbba
+aaaaaaaabaa
+aaaaaaaaaaa

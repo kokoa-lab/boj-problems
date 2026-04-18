@@ -1,0 +1,38 @@
+---
+title: Directed mazes
+special_judge: false
+time_limit: 1 초
+memory_limit: 128 MB
+submissions: 34
+accepted: 9
+solved_users: 7
+acceptance_rate: 28.000%
+collected_at: 2026-04-17T11:34:43.879282+00:00
+---
+
+## 문제
+
+**Directed mazes** are—as most mazes—traversed by moving from intersec- tion to intersection until the goal intersection is reached. As each intersec- tion is approached from a given direction, a sign near the entry to the inter- section indicates in which directions the intersection can be exited. These directions are always left, forward, right, or any combination of these.
+
+Figure 1 on the following page illustrates a directed maze. The intersections are identified as “(row,column)” pairs, with the upper left being (1, 1). The “Entrance” intersection for Figure 1 is (3, 1) and the “Goal” intersection is (3, 3). You begin the maze by moving north from (3, 1). As you walk from (3, 1) to (2, 1), the sign at (2, 1) indicates that as you approach (2, 1) from the south (traveling north) you may continue to go only forward. Continuing forward takes you toward (1, 1). The sign at (1, 1) as you approach from the south indicates that you may exit (1, 1) only by making a right turn. This turns you to the east now walking from (1, 1) toward (1, 2). So far there have been no choices to be made. This is also the case as you continue to move from (1, 2) to (2, 2) to (2, 3) to (1, 3). Now, however, as you move west from (1, 3) toward (1, 2), you have the option of continuing straight on or turning left. Continuing straight on would take you on toward (1, 1), while turning left would take you south to (2, 2). The actual (unique) solution to this maze is the following sequence of intersections: (3, 1), (2, 1), (1, 1), (1, 2), (2, 2), (2, 3), (1, 3), (1, 2), (1, 1), (2, 1), (2, 2), (1, 2), (1, 3), (2, 3), (3, 3).
+
+If you arrive at an intersection having no sign for any direction (for instance, when traveling south to (3, 1) in Figure 1), you have come to a dead and may not proceed beyond that intersection.
+
+You must write a program to solve valid directed mazes. Solving a maze means (if possible) finding a route through the maze that leaves the Entrance in the prescribed direction, and ends in the Goal. This route should not be longer than necessary, of course.
+
+Figure 1: An example of a directed maze  
+![](./001_EC_8A_A4_ED_81_AC_EB_A6_B0_EC_83_B7_202016-06-13_20_EC_98_A4_ED_9B_84_205.40.08.png)
+
+## 입력
+
+The input file will consist of one or more directed mazes. The first line of each maze description contains the name of the maze, which is an alphanumeric string of no more than 20 characters. The next line contains, in the following order, the starting row, the starting column, the starting direction, the goal row, and finally the goal column. All are delimited by a single space. The maximum dimensions of a maze for this problem is 9 by 9, so all row and column numbers are single digits from 1 to 9. The starting direction is one of the characters N, S, E, or W, indicating north, south, east and west, respectively.
+
+All remaining input lines for a maze have this format: two integers, one or more groups of characters, and a sentinel asterisk, again all delimited by a single space. The integers represent the row and column, respectively, of a maze intersection. Each character group represents a sign at that intersection. The first character in the group is N, S, E or W to indicate in what direction of travel the sign post should be seen. For example, S indicates that this is the sign that is seen when traveling south. (This is the sign posted at the north entrance to the intersection.) Following this first direction character are one to three arrow characters. These can be L, F or R indicating left, forward, and right, respectively.
+
+The list of intersections is concluded by a line containing a single zero in the first column. The next line of input starts the next maze, and so on. The end of input is the word END on a single line by itself.
+
+## 출력
+
+For each maze, the output file should contain a line with the name of the maze, followed by one or more lines with either a solution to the maze or the phrase “No solution possible”. Maze names should start in column 1, and all other lines should start in column 3, i.e., indented two spaces. Solutions should be output as a list of intersections in the format “(R, C)” in the order they are visited from the entrance to the goal, should be delimited by a single space, and all but the last line of the solution should contain exactly 10 intersections.
+
+The first maze in the following sample input is the maze in Figure 1.

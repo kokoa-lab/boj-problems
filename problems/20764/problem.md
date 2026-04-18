@@ -1,0 +1,27 @@
+---
+title: Bonbons
+special_judge: true
+time_limit: 2 초
+memory_limit: 512 MB
+submissions: 9
+accepted: 4
+solved_users: 4
+acceptance_rate: 100.000%
+collected_at: 2026-04-17T15:41:04.208506+00:00
+---
+
+## 문제
+
+Ylva loves bonbons, probably more than anything else on this planet. She loves them so much that she made a large plate of $R \cdot C$ bonbons for her *fikaraster* ("Fikarast" is a Swedish word, meaning to take a break from work while enjoying coffee and pastries together with your colleagues.).
+
+Ylva has a large wooden tray which can fit $R$ rows of $C$ bonbons per row, that she will put the bonbons on. Her bonbons have three different fillings: Nutella Buttercream, Red Wine Chocolate Ganache, and Strawberry Whipped Cream. Since Ylva is a master chocolatier, she knows that presentation is $90\%$ of the execution. In particular, it looks very bad if two bonbons of the same color are adjacent to each other within a row or a column on the tray. We call an arrangement of bonbons where this is never the case a *good arrangement*.
+
+Given the number of bonbons of each flavour, and the size of Ylva's tray, can you help her find a good arrangement of the bonbons, or determine that no such arrangement exists?
+
+## 입력
+
+The first line of input contains the two space-separated integers $2 \le R, C \le 1000$. The next line contains three non-negative space-separated integers $a, b, c$ -- the number of bonbons of the three flavours which Ylva has baked. It is guaranteed that $a + b + c = R \cdot C$. Both $R$ and $C$ will be even.
+
+## 출력
+
+If no good arrangement can be found, output `impossible`. Otherwise, output $R$ lines, each containing $C$ characters, representing a good arrangement. Each row should contain only characters `A, B, C`, depending on which flavour should be placed on a certain position. The number of `A` bonbons placed must be equal to $A$, and so on.

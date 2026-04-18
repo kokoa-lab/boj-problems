@@ -1,0 +1,2088 @@
+<!DOCTYPE html>
+<html class="client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-sticky-header-enabled vector-toc-available skin-theme-clientpref-thumb-standard" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<title>Dragon curve - Wikipedia</title>
+<script>(function(){var className="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-sticky-header-enabled vector-toc-available skin-theme-clientpref-thumb-standard";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"0beeb5f3-13a0-48a8-b0bb-234f46f42365","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Dragon_curve","wgTitle":"Dragon curve","wgCurRevisionId":1342624560,"wgRevisionId":1342624560,"wgArticleId":367064,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with short description","Short description matches Wikidata","Use dmy dates from May 2019","Pages using multiple image with auto scaled images","Commons link from Wikidata","Fractal curves","Paper folding","L-systems"],"wgPageViewLanguage":"en","wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Dragon_curve","wgRelevantArticleId":367064,"wgTempUserName":null,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgNoticeProject":"wikipedia","wgFlaggedRevsParams":{"tags":{"status":{"levels":1}}},"wgConfirmEditCaptchaNeededForGenericEdit":"hcaptcha","wgConfirmEditHCaptchaVisualEditorOnLoadIntegrationEnabled":false,"wgConfirmEditHCaptchaSiteKey":"5d0c670e-a5f4-4258-ad16-1f42792c9c62","wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":0,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":false,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":10000,"wgEditSubmitButtonLabelPublish":true,"wgVisualEditorPageIsDisambiguation":false,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":false,"wgVector2022LanguageInHeader":true,"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q643749","wgCheckUserClientHintsHeadersJsApi":["brands","architecture","bitness","fullVersionList","mobile","model","platform","platformVersion"],"GEHomepageSuggestedEditsEnableTopics":true,"wgGESuggestedEditsTaskTypes":{"taskTypes":["copyedit","link-recommendation"],"unavailableTaskTypes":[]},"wgGETopicsMatchModeEnabled":false,"wgGELevelingUpEnabledForUser":false,"wgTestKitchenUserExperiments":{"overrides":[],"enrolled":[],"assigned":[],"subject_ids":[]}};
+RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.wikimediamessages.styles":"ready","ext.cite.styles":"ready","ext.math.styles":"ready","skins.vector.search.codex.styles":"ready","skins.vector.styles":"ready","skins.vector.icons":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.parsermigration.survey","ext.cite.ux-enhancements","ext.math.polyfills","mediawiki.page.media","ext.scribunto.logs","site","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","skins.vector.js","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.gadget.ReferenceTooltips","ext.gadget.switcher","ext.urlShortener.toolbar","ext.centralauth.centralautologin","mmv.bootstrap","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.echo.centralauth","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.cx.uls.quick.actions","wikibase.client.vector-2022","wikibase.databox.fromWikidata","ext.checkUser.clientHints","ext.quicksurveys.init","ext.growthExperiments.SuggestedEditSession","ext.testKitchen"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+}];});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediamessages.styles%7Cjquery.makeCollapsible.styles%7Cskins.vector.icons%2Cstyles%7Cskins.vector.search.codex.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector-2022">
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector-2022"></script>
+<meta name="ResourceLoaderDynamicStyles" content="">
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector-2022">
+<meta name="generator" content="MediaWiki 1.46.0-wmf.23">
+<meta name="referrer" content="origin">
+<meta name="referrer" content="origin-when-cross-origin">
+<meta name="robots" content="max-image-preview:standard">
+<meta name="format-detection" content="telephone=no">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/6/69/Fractal_dragon_curve.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="1198">
+<meta name="viewport" content="width=1120">
+<meta property="og:title" content="Dragon curve - Wikipedia">
+<meta property="og:type" content="website">
+<link rel="preconnect" href="//upload.wikimedia.org">
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Dragon_curve&amp;action=edit">
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png">
+<link rel="icon" href="/static/favicon/wikipedia.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="/w/rest.php/v1/search" title="Wikipedia (en)">
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd">
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Dragon_curve">
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.en">
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom">
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="auth.wikimedia.org">
+</head>
+<body class="skin--responsive skin-vector skin-vector-search-vue mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Dragon_curve rootpage-Dragon_curve skin-vector-2022 action-view">
+<div id="mw-aria-live-region" class="mw-aria-live-region" aria-live="polite"></div><a class="mw-jump-link" href="#bodyContent">Jump to content</a>
+<div class="vector-header-container">
+	<header class="vector-header mw-header no-font-mode-scale">
+		<div class="vector-header-start">
+			<nav class="vector-main-menu-landmark" aria-label="Site">
+				
+<div id="vector-main-menu-dropdown" class="vector-dropdown vector-main-menu-dropdown vector-button-flush-left vector-button-flush-right"  title="Main menu" >
+	<input type="checkbox" id="vector-main-menu-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-main-menu-dropdown" class="vector-dropdown-checkbox "  aria-label="Main menu"  >
+	<label id="vector-main-menu-dropdown-label" for="vector-main-menu-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-menu mw-ui-icon-wikimedia-menu"></span>
+
+<span class="vector-dropdown-label-text">Main menu</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+				<div id="vector-main-menu-unpinned-container" class="vector-unpinned-container">
+		
+<div id="vector-main-menu" class="vector-main-menu vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-main-menu-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="main-menu-pinned"
+	data-pinnable-element-id="vector-main-menu"
+	data-pinned-container-id="vector-main-menu-pinned-container"
+	data-unpinned-container-id="vector-main-menu-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Main menu</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-main-menu.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-main-menu.unpin">hide</button>
+</div>
+
+	
+<div id="p-navigation" class="vector-menu mw-portlet mw-portlet-navigation"  >
+	<div class="vector-menu-heading">
+		Navigation
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z"><span>Main page</span></a></li><li id="n-contents" class="mw-list-item"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia"><span>Contents</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/Portal:Current_events" title="Articles related to current events"><span>Current events</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x"><span>Random article</span></a></li><li id="n-aboutsite" class="mw-list-item"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works"><span>About Wikipedia</span></a></li><li id="n-contactpage" class="mw-list-item"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia"><span>Contact us</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-interaction" class="vector-menu mw-portlet mw-portlet-interaction"  >
+	<div class="vector-menu-heading">
+		Contribute
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-help" class="mw-list-item"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia"><span>Help</span></a></li><li id="n-introduction" class="mw-list-item"><a href="/wiki/Help:Introduction" title="Learn how to edit Wikipedia"><span>Learn to edit</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/Wikipedia:Community_portal" title="The hub for editors"><span>Community portal</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r"><span>Recent changes</span></a></li><li id="n-upload" class="mw-list-item"><a href="/wiki/Wikipedia:File_upload_wizard" title="Add images or other media for use on Wikipedia"><span>Upload file</span></a></li><li id="n-specialpages" class="mw-list-item"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q"><span>Special pages</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+</div>
+
+				</div>
+
+	</div>
+</div>
+
+		</nav>
+			
+<a href="/wiki/Main_Page" class="mw-logo">
+	<img class="mw-logo-icon" src="/static/images/icons/enwiki-25.svg" alt="" aria-hidden="true" height="50" width="50">
+	<span class="mw-logo-container skin-invert">
+		<img class="mw-logo-wordmark" alt="Wikipedia" src="/static/images/mobile/copyright/wikipedia-wordmark-en-25.svg" style="width: 8.75em; height: 1.375em;">
+		<img class="mw-logo-tagline" alt="The Free Encyclopedia" src="/static/images/mobile/copyright/wikipedia-tagline-en-25.svg" width="140" height="11" style="width: 8.75em; height: 0.6875em;">
+	</span>
+</a>
+
+		</div>
+		<div class="vector-header-end">
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-collapses vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<a href="/wiki/Special:Search" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only search-toggle" title="Search Wikipedia [f]" accesskey="f"><span class="vector-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
+
+<span>Search</span>
+	</a>
+	<div class="vector-typeahead-search-container">
+		<div class="cdx-typeahead-search cdx-typeahead-search--show-thumbnail cdx-typeahead-search--auto-expand-width">
+			<form action="/w/index.php" id="searchform" class="cdx-search-input cdx-search-input--has-end-button">
+				<div id="simpleSearch" class="cdx-search-input__input-wrapper"  data-search-loc="header-moved">
+					<div class="cdx-text-input cdx-text-input--has-start-icon">
+						<input
+							class="cdx-text-input__input mw-searchInput" autocomplete="off"
+							 type="search" name="search" placeholder="Search Wikipedia" aria-label="Search Wikipedia" autocapitalize="none" spellcheck="false" title="Search Wikipedia [f]" accesskey="f" id="searchInput"
+							>
+						<span class="cdx-text-input__icon cdx-text-input__start-icon"></span>
+					</div>
+					<input type="hidden" name="title" value="Special:Search">
+				</div>
+				<button class="cdx-button cdx-search-input__end-button">Search</button>
+			</form>
+		</div>
+	</div>
+</div>
+
+			<nav class="vector-user-links vector-user-links-wide" aria-label="Personal tools">
+	<div class="vector-user-links-main">
+	
+<div id="p-vector-user-menu-preferences" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-userpage" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	<nav class="vector-appearance-landmark" aria-label="Appearance">
+		
+<div id="vector-appearance-dropdown" class="vector-dropdown "  title="Change the appearance of the page&#039;s font size, width, and color" >
+	<input type="checkbox" id="vector-appearance-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-appearance-dropdown" class="vector-dropdown-checkbox "  aria-label="Appearance"  >
+	<label id="vector-appearance-dropdown-label" for="vector-appearance-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-appearance mw-ui-icon-wikimedia-appearance"></span>
+
+<span class="vector-dropdown-label-text">Appearance</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+			<div id="vector-appearance-unpinned-container" class="vector-unpinned-container">
+				
+			</div>
+		
+	</div>
+</div>
+
+	</nav>
+	
+<div id="p-vector-user-menu-notifications" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-overflow" class="vector-menu mw-portlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			<li id="pt-sitesupport-2" class="mw-list-item user-links-collapsible-item"><a data-mw-interface  href="https://donate.wikimedia.org/?wmf_source=donate&amp;wmf_medium=sidebar&amp;wmf_campaign=en.wikipedia.org&amp;uselang=en" class=" cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet"><span class="vector-icon mw-ui-icon-heart mw-ui-icon-wikimedia-heart"></span>
+
+<span>Donate</span></a>
+</li>
+<li id="pt-createaccount-2" class="mw-list-item user-links-collapsible-item"><a data-mw-interface  href="/w/index.php?title=Special:CreateAccount&amp;returnto=Dragon+curve" title="You are encouraged to create an account and log in; however, it is not mandatory" class=""><span>Create account</span></a>
+</li>
+<li id="pt-login-2" class="mw-list-item user-links-collapsible-item"><a data-mw-interface  href="/w/index.php?title=Special:UserLogin&amp;returnto=Dragon+curve" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o" class=""><span>Log in</span></a>
+</li>
+
+			
+		</ul>
+		
+	</div>
+</div>
+
+	</div>
+	
+<div id="vector-user-links-dropdown" class="vector-dropdown vector-user-menu vector-button-flush-right vector-user-menu-logged-out user-links-collapsible-item"  title="Log in and more options" >
+	<input type="checkbox" id="vector-user-links-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-user-links-dropdown" class="vector-dropdown-checkbox "  aria-label="Personal tools"  >
+	<label id="vector-user-links-dropdown-label" for="vector-user-links-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-ellipsis mw-ui-icon-wikimedia-ellipsis"></span>
+
+<span class="vector-dropdown-label-text">Personal tools</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+		
+<div id="" class="vector-menu mw-portlet mw-portlet-personal user-links-collapsible-item"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			<li id="pt-sitesupport" class="mw-list-item user-links-collapsible-item"><a data-mw-interface  href="https://donate.wikimedia.org/?wmf_source=donate&amp;wmf_medium=sidebar&amp;wmf_campaign=en.wikipedia.org&amp;uselang=en" class=""><span class="vector-icon mw-ui-icon-heart mw-ui-icon-wikimedia-heart"></span>
+
+<span>Donate</span></a>
+</li>
+<li id="pt-createaccount" class="mw-list-item user-links-collapsible-item"><a data-mw-interface  href="/w/index.php?title=Special:CreateAccount&amp;returnto=Dragon+curve" title="You are encouraged to create an account and log in; however, it is not mandatory" class=""><span class="vector-icon mw-ui-icon-userAdd mw-ui-icon-wikimedia-userAdd"></span>
+
+<span>Create account</span></a>
+</li>
+<li id="pt-login" class="mw-list-item user-links-collapsible-item"><a data-mw-interface  href="/w/index.php?title=Special:UserLogin&amp;returnto=Dragon+curve" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o" class=""><span class="vector-icon mw-ui-icon-logIn mw-ui-icon-wikimedia-logIn"></span>
+
+<span>Log in</span></a>
+</li>
+
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+	</div>
+</div>
+
+</nav>
+
+		</div>
+	</header>
+</div>
+<div class="mw-page-container">
+	<div class="mw-page-container-inner">
+		<div class="vector-sitenotice-container">
+			<div id="siteNotice"><!-- CentralNotice --></div>
+		</div>
+		<div class="vector-column-start">
+			<div class="vector-main-menu-container">
+		<div id="mw-navigation">
+			<nav id="mw-panel" class="vector-main-menu-landmark" aria-label="Site">
+				<div id="vector-main-menu-pinned-container" class="vector-pinned-container">
+				
+				</div>
+		</nav>
+		</div>
+	</div>
+	<div class="vector-sticky-pinned-container">
+				<nav id="mw-panel-toc" aria-label="Contents" data-event-name="ui.sidebar-toc" class="mw-table-of-contents-container vector-toc-landmark">
+					<div id="vector-toc-pinned-container" class="vector-pinned-container">
+					<div id="vector-toc" class="vector-toc vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-toc-pinnable-header vector-pinnable-header-pinned"
+	data-feature-name="toc-pinned"
+	data-pinnable-element-id="vector-toc"
+	data-pinned-container-id="vector-toc-pinned-container"
+	data-unpinned-container-id="vector-toc-unpinned-container"
+>
+	<h2 class="vector-pinnable-header-label">Contents</h2>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-toc.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-toc.unpin">hide</button>
+</div>
+
+
+	<ul class="vector-toc-contents" id="mw-panel-toc-list">
+		<li id="toc-mw-content-text"
+			class="vector-toc-list-item vector-toc-level-1">
+			<a href="#" class="vector-toc-link">
+				<div class="vector-toc-text">(Top)</div>
+			</a>
+		</li>
+		<li id="toc-Heighway_dragon"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Heighway_dragon">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">1</span>
+				<span>Heighway dragon</span>
+			</div>
+		</a>
+		
+			<button aria-controls="toc-Heighway_dragon-sublist" class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-toc-toggle">
+				<span class="vector-icon mw-ui-icon-wikimedia-expand"></span>
+				<span>Toggle Heighway dragon subsection</span>
+			</button>
+		
+		<ul id="toc-Heighway_dragon-sublist" class="vector-toc-list">
+			<li id="toc-Construction"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Construction">
+				<div class="vector-toc-text">
+					<span class="vector-toc-numb">1.1</span>
+					<span>Construction</span>
+				</div>
+			</a>
+			
+			<ul id="toc-Construction-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Folding_the_dragon"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Folding_the_dragon">
+				<div class="vector-toc-text">
+					<span class="vector-toc-numb">1.2</span>
+					<span>Folding the dragon</span>
+				</div>
+			</a>
+			
+			<ul id="toc-Folding_the_dragon-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Properties"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Properties">
+				<div class="vector-toc-text">
+					<span class="vector-toc-numb">1.3</span>
+					<span>Properties</span>
+				</div>
+			</a>
+			
+			<ul id="toc-Properties-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="toc-Twindragon"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Twindragon">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">2</span>
+				<span>Twindragon</span>
+			</div>
+		</a>
+		
+		<ul id="toc-Twindragon-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Terdragon"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Terdragon">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">3</span>
+				<span>Terdragon</span>
+			</div>
+		</a>
+		
+		<ul id="toc-Terdragon-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Lévy_dragon"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Lévy_dragon">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">4</span>
+				<span>Lévy dragon</span>
+			</div>
+		</a>
+		
+		<ul id="toc-Lévy_dragon-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Occurrences_of_the_dragon_curve_in_solution_sets"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Occurrences_of_the_dragon_curve_in_solution_sets">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">5</span>
+				<span>Occurrences of the dragon curve in solution sets</span>
+			</div>
+		</a>
+		
+		<ul id="toc-Occurrences_of_the_dragon_curve_in_solution_sets-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Variants"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Variants">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">6</span>
+				<span>Variants</span>
+			</div>
+		</a>
+		
+		<ul id="toc-Variants-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-See_also"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#See_also">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">7</span>
+				<span>See also</span>
+			</div>
+		</a>
+		
+		<ul id="toc-See_also-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-References"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#References">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">8</span>
+				<span>References</span>
+			</div>
+		</a>
+		
+		<ul id="toc-References-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-External_links"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#External_links">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">9</span>
+				<span>External links</span>
+			</div>
+		</a>
+		
+		<ul id="toc-External_links-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+</ul>
+</div>
+
+					</div>
+		</nav>
+			</div>
+		</div>
+		<div class="mw-content-container">
+			<main id="content" class="mw-body">
+				<header class="mw-body-header vector-page-titlebar no-font-mode-scale">
+					<nav aria-label="Contents" class="vector-toc-landmark">
+						
+<div id="vector-page-titlebar-toc" class="vector-dropdown vector-page-titlebar-toc vector-button-flush-left"  title="Table of Contents" >
+	<input type="checkbox" id="vector-page-titlebar-toc-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-titlebar-toc" class="vector-dropdown-checkbox "  aria-label="Toggle the table of contents"  >
+	<label id="vector-page-titlebar-toc-label" for="vector-page-titlebar-toc-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-listBullet mw-ui-icon-wikimedia-listBullet"></span>
+
+<span class="vector-dropdown-label-text">Toggle the table of contents</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+							<div id="vector-page-titlebar-toc-unpinned-container" class="vector-unpinned-container">
+			</div>
+		
+	</div>
+</div>
+
+					</nav>
+					<h1 id="firstHeading" class="firstHeading mw-first-heading"><span lang="en" dir="ltr"><span class="mw-page-title-main">Dragon curve</span></span></h1>
+							
+<div id="p-lang-btn" class="vector-dropdown mw-portlet mw-portlet-lang"  >
+	<input type="checkbox" id="p-lang-btn-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-lang-btn" class="vector-dropdown-checkbox mw-interlanguage-selector" aria-label="Go to an article in another language. Available in 20 languages"   >
+	<label id="p-lang-btn-label" for="p-lang-btn-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive mw-portlet-lang-heading-20" aria-hidden="true"  ><span class="vector-icon mw-ui-icon-language-progressive mw-ui-icon-wikimedia-language-progressive"></span>
+
+<span class="vector-dropdown-label-text">20 languages</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+		<div class="vector-menu-content">
+			
+			<ul class="vector-menu-content-list">
+				
+				<li class="interlanguage-link interwiki-ca mw-list-item"><a href="https://ca.wikipedia.org/wiki/Corba_del_drac" title="Corba del drac – Catalan" lang="ca" hreflang="ca" data-title="Corba del drac" data-language-autonym="Català" data-language-local-name="Catalan" class="interlanguage-link-target"><span>Català</span></a></li><li class="interlanguage-link interwiki-cs mw-list-item"><a href="https://cs.wikipedia.org/wiki/Dra%C4%8D%C3%AD_k%C5%99ivka" title="Dračí křivka – Czech" lang="cs" hreflang="cs" data-title="Dračí křivka" data-language-autonym="Čeština" data-language-local-name="Czech" class="interlanguage-link-target"><span>Čeština</span></a></li><li class="interlanguage-link interwiki-de mw-list-item"><a href="https://de.wikipedia.org/wiki/Drachenkurve" title="Drachenkurve – German" lang="de" hreflang="de" data-title="Drachenkurve" data-language-autonym="Deutsch" data-language-local-name="German" class="interlanguage-link-target"><span>Deutsch</span></a></li><li class="interlanguage-link interwiki-el mw-list-item"><a href="https://el.wikipedia.org/wiki/%CE%9A%CE%B1%CE%BC%CF%80%CF%8D%CE%BB%CE%B7_%CF%84%CE%BF%CF%85_%CE%B4%CF%81%CE%AC%CE%BA%CE%BF%CF%85" title="Καμπύλη του δράκου – Greek" lang="el" hreflang="el" data-title="Καμπύλη του δράκου" data-language-autonym="Ελληνικά" data-language-local-name="Greek" class="interlanguage-link-target"><span>Ελληνικά</span></a></li><li class="interlanguage-link interwiki-es mw-list-item"><a href="https://es.wikipedia.org/wiki/Curva_del_drag%C3%B3n" title="Curva del dragón – Spanish" lang="es" hreflang="es" data-title="Curva del dragón" data-language-autonym="Español" data-language-local-name="Spanish" class="interlanguage-link-target"><span>Español</span></a></li><li class="interlanguage-link interwiki-fa mw-list-item"><a href="https://fa.wikipedia.org/wiki/%D9%85%D9%86%D8%AD%D9%86%DB%8C_%D8%A7%DA%98%D8%AF%D9%87%D8%A7" title="منحنی اژدها – Persian" lang="fa" hreflang="fa" data-title="منحنی اژدها" data-language-autonym="فارسی" data-language-local-name="Persian" class="interlanguage-link-target"><span>فارسی</span></a></li><li class="interlanguage-link interwiki-fr mw-list-item"><a href="https://fr.wikipedia.org/wiki/Courbe_du_dragon" title="Courbe du dragon – French" lang="fr" hreflang="fr" data-title="Courbe du dragon" data-language-autonym="Français" data-language-local-name="French" class="interlanguage-link-target"><span>Français</span></a></li><li class="interlanguage-link interwiki-he mw-list-item"><a href="https://he.wikipedia.org/wiki/%D7%A2%D7%A7%D7%95%D7%9E%D7%AA_%D7%93%D7%A8%D7%A7%D7%95%D7%9F" title="עקומת דרקון – Hebrew" lang="he" hreflang="he" data-title="עקומת דרקון" data-language-autonym="עברית" data-language-local-name="Hebrew" class="interlanguage-link-target"><span>עברית</span></a></li><li class="interlanguage-link interwiki-hr mw-list-item"><a href="https://hr.wikipedia.org/wiki/Zmajolika_krivulja" title="Zmajolika krivulja – Croatian" lang="hr" hreflang="hr" data-title="Zmajolika krivulja" data-language-autonym="Hrvatski" data-language-local-name="Croatian" class="interlanguage-link-target"><span>Hrvatski</span></a></li><li class="interlanguage-link interwiki-id mw-list-item"><a href="https://id.wikipedia.org/wiki/Kurva_naga" title="Kurva naga – Indonesian" lang="id" hreflang="id" data-title="Kurva naga" data-language-autonym="Bahasa Indonesia" data-language-local-name="Indonesian" class="interlanguage-link-target"><span>Bahasa Indonesia</span></a></li><li class="interlanguage-link interwiki-it mw-list-item"><a href="https://it.wikipedia.org/wiki/Curva_del_drago_di_Heighway" title="Curva del drago di Heighway – Italian" lang="it" hreflang="it" data-title="Curva del drago di Heighway" data-language-autonym="Italiano" data-language-local-name="Italian" class="interlanguage-link-target"><span>Italiano</span></a></li><li class="interlanguage-link interwiki-ja mw-list-item"><a href="https://ja.wikipedia.org/wiki/%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E6%9B%B2%E7%B7%9A" title="ドラゴン曲線 – Japanese" lang="ja" hreflang="ja" data-title="ドラゴン曲線" data-language-autonym="日本語" data-language-local-name="Japanese" class="interlanguage-link-target"><span>日本語</span></a></li><li class="interlanguage-link interwiki-pl mw-list-item"><a href="https://pl.wikipedia.org/wiki/Smok_Heighwaya" title="Smok Heighwaya – Polish" lang="pl" hreflang="pl" data-title="Smok Heighwaya" data-language-autonym="Polski" data-language-local-name="Polish" class="interlanguage-link-target"><span>Polski</span></a></li><li class="interlanguage-link interwiki-pt mw-list-item"><a href="https://pt.wikipedia.org/wiki/Curva_de_drag%C3%A3o" title="Curva de dragão – Portuguese" lang="pt" hreflang="pt" data-title="Curva de dragão" data-language-autonym="Português" data-language-local-name="Portuguese" class="interlanguage-link-target"><span>Português</span></a></li><li class="interlanguage-link interwiki-ru mw-list-item"><a href="https://ru.wikipedia.org/wiki/%D0%9A%D1%80%D0%B8%D0%B2%D0%B0%D1%8F_%D0%B4%D1%80%D0%B0%D0%BA%D0%BE%D0%BD%D0%B0" title="Кривая дракона – Russian" lang="ru" hreflang="ru" data-title="Кривая дракона" data-language-autonym="Русский" data-language-local-name="Russian" class="interlanguage-link-target"><span>Русский</span></a></li><li class="interlanguage-link interwiki-sh mw-list-item"><a href="https://sh.wikipedia.org/wiki/Zmajolika_krivulja" title="Zmajolika krivulja – Serbo-Croatian" lang="sh" hreflang="sh" data-title="Zmajolika krivulja" data-language-autonym="Srpskohrvatski / српскохрватски" data-language-local-name="Serbo-Croatian" class="interlanguage-link-target"><span>Srpskohrvatski / српскохрватски</span></a></li><li class="interlanguage-link interwiki-sv mw-list-item"><a href="https://sv.wikipedia.org/wiki/Drakkurva" title="Drakkurva – Swedish" lang="sv" hreflang="sv" data-title="Drakkurva" data-language-autonym="Svenska" data-language-local-name="Swedish" class="interlanguage-link-target"><span>Svenska</span></a></li><li class="interlanguage-link interwiki-th mw-list-item"><a href="https://th.wikipedia.org/wiki/%E0%B9%80%E0%B8%AA%E0%B9%89%E0%B8%99%E0%B9%82%E0%B8%84%E0%B9%89%E0%B8%87%E0%B8%A1%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B8%A3" title="เส้นโค้งมังกร – Thai" lang="th" hreflang="th" data-title="เส้นโค้งมังกร" data-language-autonym="ไทย" data-language-local-name="Thai" class="interlanguage-link-target"><span>ไทย</span></a></li><li class="interlanguage-link interwiki-uk mw-list-item"><a href="https://uk.wikipedia.org/wiki/%D0%A4%D1%80%D0%B0%D0%BA%D1%82%D0%B0%D0%BB_%D0%93%D0%B0%D1%80%D1%82%D0%B5%D1%80%D0%B0_%E2%80%94_%D0%93%D0%B0%D0%B9%D0%B2%D0%B5%D1%8F" title="Фрактал Гартера — Гайвея – Ukrainian" lang="uk" hreflang="uk" data-title="Фрактал Гартера — Гайвея" data-language-autonym="Українська" data-language-local-name="Ukrainian" class="interlanguage-link-target"><span>Українська</span></a></li><li class="interlanguage-link interwiki-zh mw-list-item"><a href="https://zh.wikipedia.org/wiki/%E9%BE%8D%E5%BD%A2%E6%9B%B2%E7%B7%9A" title="龍形曲線 – Chinese" lang="zh" hreflang="zh" data-title="龍形曲線" data-language-autonym="中文" data-language-local-name="Chinese" class="interlanguage-link-target"><span>中文</span></a></li>
+			</ul>
+			<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q643749#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>
+		</div>
+
+	</div>
+</div>
+</header>
+				<div class="vector-page-toolbar vector-feature-custom-font-size-clientpref--excluded">
+					<div class="vector-page-toolbar-container">
+						<div id="left-navigation">
+							<nav aria-label="Namespaces">
+								
+<div id="p-associated-pages" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-associated-pages"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-nstab-main" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/Dragon_curve" title="View the content page [c]" accesskey="c"><span>Article</span></a></li><li id="ca-talk" class="vector-tab-noicon mw-list-item"><a href="/wiki/Talk:Dragon_curve" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t"><span>Talk</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+								
+<div id="vector-variants-dropdown" class="vector-dropdown emptyPortlet"  >
+	<input type="checkbox" id="vector-variants-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-variants-dropdown" class="vector-dropdown-checkbox " aria-label="Change language variant"   >
+	<label id="vector-variants-dropdown-label" for="vector-variants-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">English</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+					
+<div id="p-variants" class="vector-menu mw-portlet mw-portlet-variants emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+						<div id="right-navigation" class="vector-collapsible">
+							<nav aria-label="Views">
+								
+<div id="p-views" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-views"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-view" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/Dragon_curve"><span>Read</span></a></li><li id="ca-edit" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=Dragon_curve&amp;action=edit" title="Edit this page [e]" accesskey="e"><span>Edit</span></a></li><li id="ca-history" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=Dragon_curve&amp;action=history" title="Past revisions of this page [h]" accesskey="h"><span>View history</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+							</nav>
+				
+							<nav class="vector-page-tools-landmark" aria-label="Page tools">
+								
+<div id="vector-page-tools-dropdown" class="vector-dropdown vector-page-tools-dropdown"  >
+	<input type="checkbox" id="vector-page-tools-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-tools-dropdown" class="vector-dropdown-checkbox "  aria-label="Tools"  >
+	<label id="vector-page-tools-dropdown-label" for="vector-page-tools-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">Tools</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+									<div id="vector-page-tools-unpinned-container" class="vector-unpinned-container">
+						
+<div id="vector-page-tools" class="vector-page-tools vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-page-tools-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="page-tools-pinned"
+	data-pinnable-element-id="vector-page-tools"
+	data-pinned-container-id="vector-page-tools-pinned-container"
+	data-unpinned-container-id="vector-page-tools-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Tools</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-page-tools.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-page-tools.unpin">hide</button>
+</div>
+
+	
+<div id="p-cactions" class="vector-menu mw-portlet mw-portlet-cactions emptyPortlet vector-has-collapsible-items"  title="More options" >
+	<div class="vector-menu-heading">
+		Actions
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-more-view" class="selected vector-more-collapsible-item mw-list-item"><a href="/wiki/Dragon_curve"><span>Read</span></a></li><li id="ca-more-edit" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=Dragon_curve&amp;action=edit" title="Edit this page [e]" accesskey="e"><span>Edit</span></a></li><li id="ca-more-history" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=Dragon_curve&amp;action=history"><span>View history</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-tb" class="vector-menu mw-portlet mw-portlet-tb"  >
+	<div class="vector-menu-heading">
+		General
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/Special:WhatLinksHere/Dragon_curve" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j"><span>What links here</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/Special:RecentChangesLinked/Dragon_curve" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k"><span>Related changes</span></a></li><li id="t-upload" class="mw-list-item"><a href="//en.wikipedia.org/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u"><span>Upload file</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=Dragon_curve&amp;oldid=1342624560" title="Permanent link to this revision of this page"><span>Permanent link</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=Dragon_curve&amp;action=info" title="More information about this page"><span>Page information</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Dragon_curve&amp;id=1342624560&amp;wpFormIdentifier=titleform" title="Information on how to cite this page"><span>Cite this page</span></a></li><li id="t-urlshortener" class="mw-list-item"><a href="/w/index.php?title=Special:UrlShortener&amp;url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FDragon_curve"><span>Get shortened URL</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-coll-print_export" class="vector-menu mw-portlet mw-portlet-coll-print_export"  >
+	<div class="vector-menu-heading">
+		Print/export
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="coll-download-as-rl" class="mw-list-item"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=Dragon_curve&amp;action=show-download-screen" title="Download this page as a PDF file"><span>Download as PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="/w/index.php?title=Dragon_curve&amp;printable=yes" title="Printable version of this page [p]" accesskey="p"><span>Printable version</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-wikibase-otherprojects" class="vector-menu mw-portlet mw-portlet-wikibase-otherprojects"  >
+	<div class="vector-menu-heading">
+		In other projects
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li class="wb-otherproject-link wb-otherproject-commons mw-list-item"><a href="https://commons.wikimedia.org/wiki/Dragon_curve" hreflang="en"><span>Wikimedia Commons</span></a></li><li id="t-wikibase" class="wb-otherproject-link wb-otherproject-wikibase-dataitem mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q643749" title="Structured data on this page hosted by Wikidata [g]" accesskey="g"><span>Wikidata item</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+</div>
+
+									</div>
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+					</div>
+				</div>
+				<div class="vector-column-end no-font-mode-scale">
+					<div class="vector-sticky-pinned-container">
+						<div class="wp25eastereggs-vector-sitenotice-landmark"></div>
+						<nav class="vector-page-tools-landmark" aria-label="Page tools">
+							<div id="vector-page-tools-pinned-container" class="vector-pinned-container">
+				
+							</div>
+		</nav>
+						<nav class="vector-appearance-landmark" aria-label="Appearance">
+							<div id="vector-appearance-pinned-container" class="vector-pinned-container">
+				<div id="vector-appearance" class="vector-appearance vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-appearance-pinnable-header vector-pinnable-header-pinned"
+	data-feature-name="appearance-pinned"
+	data-pinnable-element-id="vector-appearance"
+	data-pinned-container-id="vector-appearance-pinned-container"
+	data-unpinned-container-id="vector-appearance-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Appearance</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-appearance.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-appearance.unpin">hide</button>
+</div>
+
+
+</div>
+
+							</div>
+		</nav>
+					</div>
+				</div>
+				<div id="bodyContent" class="vector-body" aria-labelledby="firstHeading" data-mw-ve-target-container>
+					<div class="vector-body-before-content">
+							<div class="mw-indicators">
+		</div>
+
+						<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+					</div>
+					<div id="contentSub"><div id="mw-content-subtitle"></div></div>
+					
+					
+					<div id="mw-content-text" class="mw-body-content"><div class="mw-subjectpageheader">
+</div><div class="mw-content-ltr mw-parser-output" lang="en" dir="ltr"><div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">Fractal constructible with L-systems</div>
+<style data-mw-deduplicate="TemplateStyles:r1320445320">.mw-parser-output .hatnote{font-style:italic}.mw-parser-output div.hatnote{padding-left:1.6em;margin-bottom:0.5em}.mw-parser-output .hatnote i{font-style:normal}.mw-parser-output .hatnote+link+.hatnote{margin-top:-0.5em}@media print{body.ns-0 .mw-parser-output .hatnote{display:none!important}}</style><div role="note" class="hatnote navigation-not-searchable">"Dragon fractal" redirects here. For the filled Julia sets, see <a href="/wiki/Douady_rabbit" title="Douady rabbit">Douady rabbit</a>.</div>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1320445320" /><div role="note" class="hatnote navigation-not-searchable">"Twindragon" redirects here. For other uses, see <a href="/wiki/Twin_Dragon_(disambiguation)" class="mw-redirect mw-disambig" title="Twin Dragon (disambiguation)">Twin Dragon (disambiguation)</a>.</div>
+<p class="mw-empty-elt">
+</p>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a href="/wiki/File:Fractal_dragon_curve.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/6/69/Fractal_dragon_curve.jpg/250px-Fractal_dragon_curve.jpg" decoding="async" width="250" height="250" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/69/Fractal_dragon_curve.jpg/500px-Fractal_dragon_curve.jpg 2x" data-file-width="590" data-file-height="589" /></a><figcaption>Heighway dragon curve</figcaption></figure>
+<p>A <b>dragon curve</b> is any member of a family of <a href="/wiki/Self-similarity" title="Self-similarity">self-similar</a> <a href="/wiki/Fractal_curves" class="mw-redirect" title="Fractal curves">fractal curves</a>, which can be approximated by <a href="/wiki/Recursion" title="Recursion">recursive</a> methods such as <a href="/wiki/Lindenmayer_system" class="mw-redirect" title="Lindenmayer system">Lindenmayer systems</a>. The dragon curve is probably most commonly thought of as the shape that is generated from repeatedly folding a strip of paper in half, although there are other curves that are called dragon curves that are generated differently.
+</p>
+<meta property="mw:PageProp/toc" />
+<div class="mw-heading mw-heading2"><h2 id="Heighway_dragon">Heighway dragon</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Dragon_curve&amp;action=edit&amp;section=1" title="Edit section: Heighway dragon"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>The <b>Heighway dragon</b> (also known as the <b>Harter–Heighway dragon</b> or the <b>Jurassic Park dragon</b>) was first investigated by <a href="/wiki/NASA" title="NASA">NASA</a> physicists John Heighway, Bruce Banks, and William Harter. It was described by <a href="/wiki/Martin_Gardner" title="Martin Gardner">Martin Gardner</a> in his <a href="/wiki/Scientific_American" title="Scientific American">Scientific American</a> column <i><a href="/wiki/Mathematical_Games_(column)" class="mw-redirect" title="Mathematical Games (column)">Mathematical Games</a></i> in 1967. Many of its properties were first published by <a href="/wiki/Chandler_Davis" title="Chandler Davis">Chandler Davis</a> and <a href="/wiki/Donald_Knuth" title="Donald Knuth">Donald Knuth</a>.  It appeared on the section title pages of the <a href="/wiki/Michael_Crichton" title="Michael Crichton">Michael Crichton</a> novel <i><a href="/wiki/Jurassic_Park_(novel)" title="Jurassic Park (novel)">Jurassic Park</a></i>.<sup id="cite&#95;ref-tabachnikov&#95;1-0" class="reference"><a href="#cite_note-tabachnikov-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<div class="mw-heading mw-heading3"><h3 id="Construction">Construction</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Dragon_curve&amp;action=edit&amp;section=2" title="Edit section: Construction"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<figure typeof="mw:File/Thumb"><a href="/wiki/File:Dragon_Curve_unfolding_zoom_numbered.gif" class="mw-file-description"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Dragon_Curve_unfolding_zoom_numbered.gif/330px-Dragon_Curve_unfolding_zoom_numbered.gif" decoding="async" width="300" height="300" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/a/a0/Dragon_Curve_unfolding_zoom_numbered.gif 2x" data-file-width="352" data-file-height="352" /></a><figcaption>Recursive construction of the curve</figcaption></figure>
+<figure typeof="mw:File/Thumb"><a href="/wiki/File:Dragon_Curve_adding_corners_trails_rectangular_numbered_R.gif" class="mw-file-description"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/72/Dragon_Curve_adding_corners_trails_rectangular_numbered_R.gif/330px-Dragon_Curve_adding_corners_trails_rectangular_numbered_R.gif" decoding="async" width="300" height="203" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/7/72/Dragon_Curve_adding_corners_trails_rectangular_numbered_R.gif 2x" data-file-width="504" data-file-height="341" /></a><figcaption>Recursive construction of the curve</figcaption></figure>
+<p>The Heighway dragon can be constructed from a base <a href="/wiki/Line_segment" title="Line segment">line segment</a> by repeatedly replacing each segment by two segments with a right angle and with a rotation of 45° alternatively to the right and to the left:<sup id="cite&#95;ref-2" class="reference"><a href="#cite_note-2"><span class="cite-bracket">&#91;</span>2<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<figure class="mw-halign-none" typeof="mw:File"><a href="/wiki/File:Dragon_curve_iterations_(2).svg" class="mw-file-description" title="The first 5 iterations and the 9th"><img alt="The first 5 iterations and the 9th" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/97/Dragon_curve_iterations_%282%29.svg/960px-Dragon_curve_iterations_%282%29.svg.png" decoding="async" width="700" height="83" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/97/Dragon_curve_iterations_%282%29.svg/1920px-Dragon_curve_iterations_%282%29.svg.png 2x" data-file-width="1574" data-file-height="186" /></a><figcaption>The first 5 iterations and the 9th</figcaption></figure>
+<p>The Heighway dragon is also the limit set of the following <a href="/wiki/Iterated_function_system" title="Iterated function system">iterated function system</a> in the complex plane:
+</p>
+<dl><dd><span class="mwe-math-element mwe-math-element-inline"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle f_{1}(z)={\frac {(1+i)z}{2}}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>f</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>1</mn>
+          </mrow>
+        </msub>
+        <mo stretchy="false">(</mo>
+        <mi>z</mi>
+        <mo stretchy="false">)</mo>
+        <mo>=</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mrow>
+              <mo stretchy="false">(</mo>
+              <mn>1</mn>
+              <mo>+</mo>
+              <mi>i</mi>
+              <mo stretchy="false">)</mo>
+              <mi>z</mi>
+            </mrow>
+            <mn>2</mn>
+          </mfrac>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle f_{1}(z)={\frac {(1+i)z}{2}}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/73d58f24596de176e109dac3acc70b2efb954ccb" class="mwe-math-fallback-image-inline mw-invert skin-invert" aria-hidden="true" style="vertical-align: -1.838ex; width:16.728ex; height:5.676ex;" alt="{\displaystyle f_{1}(z)={\frac {(1+i)z}{2}}}"></span></dd>
+<dd><span class="mwe-math-element mwe-math-element-inline"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle f_{2}(z)=1-{\frac {(1-i)z}{2}}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>f</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>2</mn>
+          </mrow>
+        </msub>
+        <mo stretchy="false">(</mo>
+        <mi>z</mi>
+        <mo stretchy="false">)</mo>
+        <mo>=</mo>
+        <mn>1</mn>
+        <mo>&#x2212;<!-- − --></mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mrow>
+              <mo stretchy="false">(</mo>
+              <mn>1</mn>
+              <mo>&#x2212;<!-- − --></mo>
+              <mi>i</mi>
+              <mo stretchy="false">)</mo>
+              <mi>z</mi>
+            </mrow>
+            <mn>2</mn>
+          </mfrac>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle f_{2}(z)=1-{\frac {(1-i)z}{2}}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/9b58506afa90881221f35ef2df83531a300c2176" class="mwe-math-fallback-image-inline mw-invert skin-invert" aria-hidden="true" style="vertical-align: -1.838ex; width:20.731ex; height:5.676ex;" alt="{\displaystyle f_{2}(z)=1-{\frac {(1-i)z}{2}}}"></span></dd></dl>
+<p>with the initial set of points <span class="mwe-math-element mwe-math-element-inline"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle S_{0}=\{0,1\}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>S</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>0</mn>
+          </mrow>
+        </msub>
+        <mo>=</mo>
+        <mo fence="false" stretchy="false">{</mo>
+        <mn>0</mn>
+        <mo>,</mo>
+        <mn>1</mn>
+        <mo fence="false" stretchy="false">}</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle S_{0}=\{0,1\}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/ec695e918a52247f22f5ca81bac38d10d9e68a7d" class="mwe-math-fallback-image-inline mw-invert skin-invert" aria-hidden="true" style="vertical-align: -0.838ex; width:11.261ex; height:2.843ex;" alt="{\displaystyle S_{0}=\{0,1\}}"></span>.
+</p><p>Using pairs of real numbers instead, this is the same as the two functions consisting of
+</p>
+<dl><dd><span class="mwe-math-element mwe-math-element-inline"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle f_{1}(x,y)={\frac {1}{\sqrt {2}}}{\begin{pmatrix}\cos 45^{\circ }&amp;-\sin 45^{\circ }\\\sin 45^{\circ }&amp;\cos 45^{\circ }\end{pmatrix}}{\begin{pmatrix}x\\y\end{pmatrix}}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>f</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>1</mn>
+          </mrow>
+        </msub>
+        <mo stretchy="false">(</mo>
+        <mi>x</mi>
+        <mo>,</mo>
+        <mi>y</mi>
+        <mo stretchy="false">)</mo>
+        <mo>=</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mn>1</mn>
+            <msqrt>
+              <mn>2</mn>
+            </msqrt>
+          </mfrac>
+        </mrow>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mrow>
+            <mo>(</mo>
+            <mtable rowspacing="4pt" columnspacing="1em">
+              <mtr>
+                <mtd>
+                  <mi>cos</mi>
+                  <mo>&#x2061;<!-- ⁡ --></mo>
+                  <msup>
+                    <mn>45</mn>
+                    <mrow class="MJX-TeXAtom-ORD">
+                      <mo>&#x2218;<!-- ∘ --></mo>
+                    </mrow>
+                  </msup>
+                </mtd>
+                <mtd>
+                  <mo>&#x2212;<!-- − --></mo>
+                  <mi>sin</mi>
+                  <mo>&#x2061;<!-- ⁡ --></mo>
+                  <msup>
+                    <mn>45</mn>
+                    <mrow class="MJX-TeXAtom-ORD">
+                      <mo>&#x2218;<!-- ∘ --></mo>
+                    </mrow>
+                  </msup>
+                </mtd>
+              </mtr>
+              <mtr>
+                <mtd>
+                  <mi>sin</mi>
+                  <mo>&#x2061;<!-- ⁡ --></mo>
+                  <msup>
+                    <mn>45</mn>
+                    <mrow class="MJX-TeXAtom-ORD">
+                      <mo>&#x2218;<!-- ∘ --></mo>
+                    </mrow>
+                  </msup>
+                </mtd>
+                <mtd>
+                  <mi>cos</mi>
+                  <mo>&#x2061;<!-- ⁡ --></mo>
+                  <msup>
+                    <mn>45</mn>
+                    <mrow class="MJX-TeXAtom-ORD">
+                      <mo>&#x2218;<!-- ∘ --></mo>
+                    </mrow>
+                  </msup>
+                </mtd>
+              </mtr>
+            </mtable>
+            <mo>)</mo>
+          </mrow>
+        </mrow>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mrow>
+            <mo>(</mo>
+            <mtable rowspacing="4pt" columnspacing="1em">
+              <mtr>
+                <mtd>
+                  <mi>x</mi>
+                </mtd>
+              </mtr>
+              <mtr>
+                <mtd>
+                  <mi>y</mi>
+                </mtd>
+              </mtr>
+            </mtable>
+            <mo>)</mo>
+          </mrow>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle f_{1}(x,y)={\frac {1}{\sqrt {2}}}{\begin{pmatrix}\cos 45^{\circ }&amp;-\sin 45^{\circ }\\\sin 45^{\circ }&amp;\cos 45^{\circ }\end{pmatrix}}{\begin{pmatrix}x\\y\end{pmatrix}}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/1b552c0b5bf4dd7cd75e120d63c73db65b535740" class="mwe-math-fallback-image-inline mw-invert skin-invert" aria-hidden="true" style="vertical-align: -2.838ex; width:42.247ex; height:6.509ex;" alt="{\displaystyle f_{1}(x,y)={\frac {1}{\sqrt {2}}}{\begin{pmatrix}\cos 45^{\circ }&amp;-\sin 45^{\circ }\\\sin 45^{\circ }&amp;\cos 45^{\circ }\end{pmatrix}}{\begin{pmatrix}x\\y\end{pmatrix}}}"></span></dd></dl>
+<dl><dd><span class="mwe-math-element mwe-math-element-inline"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle f_{2}(x,y)={\frac {1}{\sqrt {2}}}{\begin{pmatrix}\cos 135^{\circ }&amp;-\sin 135^{\circ }\\\sin 135^{\circ }&amp;\cos 135^{\circ }\end{pmatrix}}{\begin{pmatrix}x\\y\end{pmatrix}}+{\begin{pmatrix}1\\0\end{pmatrix}}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>f</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>2</mn>
+          </mrow>
+        </msub>
+        <mo stretchy="false">(</mo>
+        <mi>x</mi>
+        <mo>,</mo>
+        <mi>y</mi>
+        <mo stretchy="false">)</mo>
+        <mo>=</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mn>1</mn>
+            <msqrt>
+              <mn>2</mn>
+            </msqrt>
+          </mfrac>
+        </mrow>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mrow>
+            <mo>(</mo>
+            <mtable rowspacing="4pt" columnspacing="1em">
+              <mtr>
+                <mtd>
+                  <mi>cos</mi>
+                  <mo>&#x2061;<!-- ⁡ --></mo>
+                  <msup>
+                    <mn>135</mn>
+                    <mrow class="MJX-TeXAtom-ORD">
+                      <mo>&#x2218;<!-- ∘ --></mo>
+                    </mrow>
+                  </msup>
+                </mtd>
+                <mtd>
+                  <mo>&#x2212;<!-- − --></mo>
+                  <mi>sin</mi>
+                  <mo>&#x2061;<!-- ⁡ --></mo>
+                  <msup>
+                    <mn>135</mn>
+                    <mrow class="MJX-TeXAtom-ORD">
+                      <mo>&#x2218;<!-- ∘ --></mo>
+                    </mrow>
+                  </msup>
+                </mtd>
+              </mtr>
+              <mtr>
+                <mtd>
+                  <mi>sin</mi>
+                  <mo>&#x2061;<!-- ⁡ --></mo>
+                  <msup>
+                    <mn>135</mn>
+                    <mrow class="MJX-TeXAtom-ORD">
+                      <mo>&#x2218;<!-- ∘ --></mo>
+                    </mrow>
+                  </msup>
+                </mtd>
+                <mtd>
+                  <mi>cos</mi>
+                  <mo>&#x2061;<!-- ⁡ --></mo>
+                  <msup>
+                    <mn>135</mn>
+                    <mrow class="MJX-TeXAtom-ORD">
+                      <mo>&#x2218;<!-- ∘ --></mo>
+                    </mrow>
+                  </msup>
+                </mtd>
+              </mtr>
+            </mtable>
+            <mo>)</mo>
+          </mrow>
+        </mrow>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mrow>
+            <mo>(</mo>
+            <mtable rowspacing="4pt" columnspacing="1em">
+              <mtr>
+                <mtd>
+                  <mi>x</mi>
+                </mtd>
+              </mtr>
+              <mtr>
+                <mtd>
+                  <mi>y</mi>
+                </mtd>
+              </mtr>
+            </mtable>
+            <mo>)</mo>
+          </mrow>
+        </mrow>
+        <mo>+</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mrow>
+            <mo>(</mo>
+            <mtable rowspacing="4pt" columnspacing="1em">
+              <mtr>
+                <mtd>
+                  <mn>1</mn>
+                </mtd>
+              </mtr>
+              <mtr>
+                <mtd>
+                  <mn>0</mn>
+                </mtd>
+              </mtr>
+            </mtable>
+            <mo>)</mo>
+          </mrow>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle f_{2}(x,y)={\frac {1}{\sqrt {2}}}{\begin{pmatrix}\cos 135^{\circ }&amp;-\sin 135^{\circ }\\\sin 135^{\circ }&amp;\cos 135^{\circ }\end{pmatrix}}{\begin{pmatrix}x\\y\end{pmatrix}}+{\begin{pmatrix}1\\0\end{pmatrix}}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/1d69e488908d34fa9c5e9a11d75e35100dd27f54" class="mwe-math-fallback-image-inline mw-invert skin-invert" aria-hidden="true" style="vertical-align: -2.838ex; width:52.747ex; height:6.509ex;" alt="{\displaystyle f_{2}(x,y)={\frac {1}{\sqrt {2}}}{\begin{pmatrix}\cos 135^{\circ }&amp;-\sin 135^{\circ }\\\sin 135^{\circ }&amp;\cos 135^{\circ }\end{pmatrix}}{\begin{pmatrix}x\\y\end{pmatrix}}+{\begin{pmatrix}1\\0\end{pmatrix}}}"></span></dd></dl>
+<div class="mw-heading mw-heading3"><h3 id="Folding_the_dragon">Folding the dragon</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Dragon_curve&amp;action=edit&amp;section=3" title="Edit section: Folding the dragon"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>The Heighway dragon curve can be constructed by <a href="/wiki/Regular_paperfolding_sequence" title="Regular paperfolding sequence">folding a strip of paper</a>, which is how it was originally discovered.<sup id="cite&#95;ref-tabachnikov&#95;1-1" class="reference"><a href="#cite_note-tabachnikov-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup> Take a strip of paper and fold it in half to the right. Fold it in half again to the right. If the strip was opened out now, unbending each fold to become a 90-degree turn, the turn sequence would be RRL, i.e. the second iteration of the Heighway dragon. Fold the strip in half again to the right, and the turn sequence of the unfolded strip is now RRLRRLL – the third iteration of the Heighway dragon. Continuing folding the strip in half to the right to create further iterations of the Heighway dragon (in practice, the strip becomes too thick to fold sharply after four or five iterations).
+</p>
+<figure class="mw-halign-center" typeof="mw:File"><a href="/wiki/File:Dragon_curve_paper_strip.png" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Dragon_curve_paper_strip.png/960px-Dragon_curve_paper_strip.png" decoding="async" width="800" height="187" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/f/f1/Dragon_curve_paper_strip.png 2x" data-file-width="1714" data-file-height="400" /></a><figcaption></figcaption></figure>
+<p>The folding patterns of this sequence of paper strips, as sequences of right (R) and left (L) folds, are:
+</p>
+<ul><li>1st iteration:  R</li>
+<li>2nd iteration: <b>R</b> R <b>L</b></li>
+<li>3rd iteration:  <b>R</b> R <b>L</b> R <b>R</b> L <b>L</b></li>
+<li>4th iteration:  <b>R</b> R <b>L</b> R <b>R</b> L <b>L</b> R <b>R</b> R <b>L</b> L <b>R</b> L <b>L</b>.</li></ul>
+<p>Each iteration can be found by copying the previous iteration, then an R, then a second copy of the previous iteration in reverse order with the L and R letters swapped.<sup id="cite&#95;ref-tabachnikov&#95;1-2" class="reference"><a href="#cite_note-tabachnikov-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<div class="mw-heading mw-heading3"><h3 id="Properties">Properties</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Dragon_curve&amp;action=edit&amp;section=4" title="Edit section: Properties"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<ul><li>Many <b>self-similarities</b> can be seen in the Heighway dragon curve. The most obvious is the repetition of the same pattern tilted by 45° and with a reduction ratio of <span class="mwe-math-element mwe-math-element-inline"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \textstyle {\sqrt {2}}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mstyle displaystyle="false" scriptlevel="0">
+          <mrow class="MJX-TeXAtom-ORD">
+            <msqrt>
+              <mn>2</mn>
+            </msqrt>
+          </mrow>
+        </mstyle>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \textstyle {\sqrt {2}}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/5287e0a313d8c5505fcb11e3fb36d5026ff2ca3d" class="mwe-math-fallback-image-inline mw-invert skin-invert" aria-hidden="true" style="vertical-align: -0.671ex; width:3.098ex; height:3.009ex;" alt="{\displaystyle \textstyle {\sqrt {2}}}"></span>. Based on these self-similarities, many of its lengths are simple rational numbers.</li></ul>
+<style data-mw-deduplicate="TemplateStyles:r1273380762/mw-parser-output/.tmulti">.mw-parser-output .tmulti .multiimageinner{display:flex;flex-direction:column}.mw-parser-output .tmulti .trow{display:flex;flex-direction:row;clear:left;flex-wrap:wrap;width:100%;box-sizing:border-box}.mw-parser-output .tmulti .tsingle{margin:1px;float:left}.mw-parser-output .tmulti .theader{clear:both;font-weight:bold;text-align:center;align-self:center;background-color:transparent;width:100%}.mw-parser-output .tmulti .thumbcaption{background-color:transparent}.mw-parser-output .tmulti .text-align-left{text-align:left}.mw-parser-output .tmulti .text-align-right{text-align:right}.mw-parser-output .tmulti .text-align-center{text-align:center}@media all and (max-width:720px){.mw-parser-output .tmulti .thumbinner{width:100%!important;box-sizing:border-box;max-width:none!important;align-items:center}.mw-parser-output .tmulti .trow{justify-content:center}.mw-parser-output .tmulti .tsingle{float:none!important;max-width:100%!important;box-sizing:border-box;text-align:center}.mw-parser-output .tmulti .tsingle .thumbcaption{text-align:left}.mw-parser-output .tmulti .trow>.thumbcaption{text-align:center}}@media screen{html.skin-theme-clientpref-night .mw-parser-output .tmulti .multiimageinner span:not(.skin-invert-image):not(.skin-invert):not(.bg-transparent) img{background-color:white}}@media screen and (prefers-color-scheme:dark){html.skin-theme-clientpref-os .mw-parser-output .tmulti .multiimageinner span:not(.skin-invert-image):not(.skin-invert):not(.bg-transparent) img{background-color:white}}</style><div class="thumb tmulti tnone center"><div class="thumbinner multiimageinner" style="width:792px;max-width:792px"><div class="trow"><div class="tsingle" style="width:451px;max-width:451px"><div class="thumbimage" style="height:241px;overflow:hidden"><span typeof="mw:File"><a href="/wiki/File:Dimensions_fractale_dragon.png" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Dimensions_fractale_dragon.png/500px-Dimensions_fractale_dragon.png" decoding="async" width="449" height="241" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/d/d7/Dimensions_fractale_dragon.png 2x" data-file-width="849" data-file-height="456" /></a></span></div><div class="thumbcaption">Lengths</div></div><div class="tsingle" style="width:337px;max-width:337px"><div class="thumbimage" style="height:241px;overflow:hidden"><span typeof="mw:File"><a href="/wiki/File:Auto-similarity_dragon_curve.png" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Auto-similarity_dragon_curve.png/500px-Auto-similarity_dragon_curve.png" decoding="async" width="335" height="241" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/c/c4/Auto-similarity_dragon_curve.png 2x" data-file-width="808" data-file-height="582" /></a></span></div><div class="thumbcaption">Self-similarities</div></div></div></div></div>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a href="/wiki/File:Full_tiling_dragon.svg" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Full_tiling_dragon.svg/500px-Full_tiling_dragon.svg.png" decoding="async" width="340" height="205" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Full_tiling_dragon.svg/960px-Full_tiling_dragon.svg.png 2x" data-file-width="1435" data-file-height="866" /></a><figcaption>Tiling of the plane by dragon curves</figcaption></figure>
+<ul><li>The dragon curve can <a href="/wiki/Tessellation" title="Tessellation">tile the plane</a>. One possible tiling replaces each edge of a <a href="/wiki/Square_tiling" title="Square tiling">square tiling</a> with a dragon curve, using the recursive definition of the dragon starting from a line segment. The initial direction to expand each segment can be determined from a checkerboard coloring of a square tiling, expanding vertical segments into black tiles and out of white tiles, and expanding horizontal segments into white tiles and out of black ones.<sup id="cite&#95;ref-3" class="reference"><a href="#cite_note-3"><span class="cite-bracket">&#91;</span>3<span class="cite-bracket">&#93;</span></a></sup></li>
+<li>As a <a href="/wiki/Space-filling_curve" title="Space-filling curve">space-filling curve</a>, the dragon curve has <a href="/wiki/Fractal_dimension" title="Fractal dimension">fractal dimension</a> exactly 2. For a dragon curve with initial segment length 1, its area is 1/2, as can be seen from its tilings of the plane.<sup id="cite&#95;ref-tabachnikov&#95;1-3" class="reference"><a href="#cite_note-tabachnikov-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup></li>
+<li>The boundary of the set covered by the dragon curve has infinite length, with fractal dimension <span class="mwe-math-element mwe-math-element-block"><span class="mwe-math-mathml-display mwe-math-mathml-a11y" style="display: none;"><math display="block" xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle 2\log _{2}\lambda \approx 1.523627086202492,}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mn>2</mn>
+        <msub>
+          <mi>log</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>2</mn>
+          </mrow>
+        </msub>
+        <mo>&#x2061;<!-- ⁡ --></mo>
+        <mi>&#x03BB;<!-- λ --></mi>
+        <mo>&#x2248;<!-- ≈ --></mo>
+        <mn>1.523627086202492</mn>
+        <mo>,</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle 2\log _{2}\lambda \approx 1.523627086202492,}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/98a9b9e5686aa8217eccc7195a610a8dcccbf36b" class="mwe-math-fallback-image-display mw-invert skin-invert" aria-hidden="true" style="vertical-align: -0.838ex; width:30.309ex; height:2.676ex;" alt="{\displaystyle 2\log _{2}\lambda \approx 1.523627086202492,}"></span> where <span class="mwe-math-element mwe-math-element-block"><span class="mwe-math-mathml-display mwe-math-mathml-a11y" style="display: none;"><math display="block" xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \lambda ={\frac {1+(28-3{\sqrt {87}})^{1/3}+(28+3{\sqrt {87}})^{1/3}}{3}}\approx 1.69562076956}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>&#x03BB;<!-- λ --></mi>
+        <mo>=</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mrow>
+              <mn>1</mn>
+              <mo>+</mo>
+              <mo stretchy="false">(</mo>
+              <mn>28</mn>
+              <mo>&#x2212;<!-- − --></mo>
+              <mn>3</mn>
+              <mrow class="MJX-TeXAtom-ORD">
+                <msqrt>
+                  <mn>87</mn>
+                </msqrt>
+              </mrow>
+              <msup>
+                <mo stretchy="false">)</mo>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mn>1</mn>
+                  <mrow class="MJX-TeXAtom-ORD">
+                    <mo>/</mo>
+                  </mrow>
+                  <mn>3</mn>
+                </mrow>
+              </msup>
+              <mo>+</mo>
+              <mo stretchy="false">(</mo>
+              <mn>28</mn>
+              <mo>+</mo>
+              <mn>3</mn>
+              <mrow class="MJX-TeXAtom-ORD">
+                <msqrt>
+                  <mn>87</mn>
+                </msqrt>
+              </mrow>
+              <msup>
+                <mo stretchy="false">)</mo>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mn>1</mn>
+                  <mrow class="MJX-TeXAtom-ORD">
+                    <mo>/</mo>
+                  </mrow>
+                  <mn>3</mn>
+                </mrow>
+              </msup>
+            </mrow>
+            <mn>3</mn>
+          </mfrac>
+        </mrow>
+        <mo>&#x2248;<!-- ≈ --></mo>
+        <mn>1.69562076956</mn>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \lambda ={\frac {1+(28-3{\sqrt {87}})^{1/3}+(28+3{\sqrt {87}})^{1/3}}{3}}\approx 1.69562076956}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/af26bb2e7bd5112d2a1f5385d486fe54cb533449" class="mwe-math-fallback-image-display mw-invert skin-invert" aria-hidden="true" style="vertical-align: -1.838ex; width:60.02ex; height:6.009ex;" alt="{\displaystyle \lambda ={\frac {1+(28-3{\sqrt {87}})^{1/3}+(28+3{\sqrt {87}})^{1/3}}{3}}\approx 1.69562076956}"></span> is the real solution of the equation <span class="mwe-math-element mwe-math-element-inline"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \lambda ^{3}-\lambda ^{2}-2=0.}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msup>
+          <mi>&#x03BB;<!-- λ --></mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>3</mn>
+          </mrow>
+        </msup>
+        <mo>&#x2212;<!-- − --></mo>
+        <msup>
+          <mi>&#x03BB;<!-- λ --></mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>2</mn>
+          </mrow>
+        </msup>
+        <mo>&#x2212;<!-- − --></mo>
+        <mn>2</mn>
+        <mo>=</mo>
+        <mn>0.</mn>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \lambda ^{3}-\lambda ^{2}-2=0.}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/6622979e803ab024609ce7a7e1517a55ecb59b80" class="mwe-math-fallback-image-inline mw-invert skin-invert" aria-hidden="true" style="vertical-align: -0.505ex; width:16.57ex; height:2.843ex;" alt="{\displaystyle \lambda ^{3}-\lambda ^{2}-2=0.}"></span><sup id="cite&#95;ref-4" class="reference"><a href="#cite_note-4"><span class="cite-bracket">&#91;</span>4<span class="cite-bracket">&#93;</span></a></sup></li></ul>
+<div class="mw-heading mw-heading2"><h2 id="Twindragon">Twindragon</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Dragon_curve&amp;action=edit&amp;section=5" title="Edit section: Twindragon"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a href="/wiki/File:Twindragon.png" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Twindragon.png/250px-Twindragon.png" decoding="async" width="250" height="188" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Twindragon.png/500px-Twindragon.png 2x" data-file-width="800" data-file-height="600" /></a><figcaption>Twindragon curve constructed from two Heighway dragons</figcaption></figure><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1320445320" /><div role="note" class="hatnote navigation-not-searchable">See also: <a href="/wiki/Complex-base_system#Base_−1_±_i" title="Complex-base system">Complex-base system §&#160;Base −1 ± i</a></div>
+<p>The <b>twindragon</b> (also known as the <b>Davis–Knuth dragon</b>) can be constructed by placing two Heighway dragon curves back to back. It is also the limit set of the following iterated function system:
+</p>
+<dl><dd><span class="mwe-math-element mwe-math-element-inline"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle f_{1}(z)={\frac {(1+i)z}{2}}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>f</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>1</mn>
+          </mrow>
+        </msub>
+        <mo stretchy="false">(</mo>
+        <mi>z</mi>
+        <mo stretchy="false">)</mo>
+        <mo>=</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mrow>
+              <mo stretchy="false">(</mo>
+              <mn>1</mn>
+              <mo>+</mo>
+              <mi>i</mi>
+              <mo stretchy="false">)</mo>
+              <mi>z</mi>
+            </mrow>
+            <mn>2</mn>
+          </mfrac>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle f_{1}(z)={\frac {(1+i)z}{2}}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/73d58f24596de176e109dac3acc70b2efb954ccb" class="mwe-math-fallback-image-inline mw-invert skin-invert" aria-hidden="true" style="vertical-align: -1.838ex; width:16.728ex; height:5.676ex;" alt="{\displaystyle f_{1}(z)={\frac {(1+i)z}{2}}}"></span></dd>
+<dd><span class="mwe-math-element mwe-math-element-inline"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle f_{2}(z)=1-{\frac {(1+i)z}{2}}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>f</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>2</mn>
+          </mrow>
+        </msub>
+        <mo stretchy="false">(</mo>
+        <mi>z</mi>
+        <mo stretchy="false">)</mo>
+        <mo>=</mo>
+        <mn>1</mn>
+        <mo>&#x2212;<!-- − --></mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mrow>
+              <mo stretchy="false">(</mo>
+              <mn>1</mn>
+              <mo>+</mo>
+              <mi>i</mi>
+              <mo stretchy="false">)</mo>
+              <mi>z</mi>
+            </mrow>
+            <mn>2</mn>
+          </mfrac>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle f_{2}(z)=1-{\frac {(1+i)z}{2}}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/5db1550806fcc8f58e97d6be2100bf6f7c2c244a" class="mwe-math-fallback-image-inline mw-invert skin-invert" aria-hidden="true" style="vertical-align: -1.838ex; width:20.731ex; height:5.676ex;" alt="{\displaystyle f_{2}(z)=1-{\frac {(1+i)z}{2}}}"></span></dd></dl>
+<p>where the initial shape is defined by the following set <span class="mwe-math-element mwe-math-element-inline"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle S_{0}=\{0,1,1-i\}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>S</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>0</mn>
+          </mrow>
+        </msub>
+        <mo>=</mo>
+        <mo fence="false" stretchy="false">{</mo>
+        <mn>0</mn>
+        <mo>,</mo>
+        <mn>1</mn>
+        <mo>,</mo>
+        <mn>1</mn>
+        <mo>&#x2212;<!-- − --></mo>
+        <mi>i</mi>
+        <mo fence="false" stretchy="false">}</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle S_{0}=\{0,1,1-i\}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/0ce41850070bb2a202c2d32adf9aa455ed5ebc94" class="mwe-math-fallback-image-inline mw-invert skin-invert" aria-hidden="true" style="vertical-align: -0.838ex; width:17.101ex; height:2.843ex;" alt="{\displaystyle S_{0}=\{0,1,1-i\}}"></span>.
+</p><p>It can be also written as a <a href="/wiki/Lindenmayer_system" class="mw-redirect" title="Lindenmayer system">Lindenmayer system</a> – it only needs adding another section in the initial string:
+</p>
+<ul><li>angle 90°</li>
+<li>initial string <i>FX+FX+</i></li>
+<li>string rewriting rules
+<ul><li><i>X</i> ↦ <i>X</i>+<i>YF</i></li>
+<li><i>Y</i> ↦ <i>FX</i>−<i>Y</i>.</li></ul></li></ul>
+<p>It is also the locus of points in the complex plane with the same integer part when written in <a href="/wiki/Complex-base_system#Base_−1_±_i" title="Complex-base system">base <span class="mwe-math-element mwe-math-element-inline"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle (-1\pm i)}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mo stretchy="false">(</mo>
+        <mo>&#x2212;<!-- − --></mo>
+        <mn>1</mn>
+        <mo>&#x00B1;<!-- ± --></mo>
+        <mi>i</mi>
+        <mo stretchy="false">)</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle (-1\pm i)}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/41f063495834321148d570eda169b00162348a96" class="mwe-math-fallback-image-inline mw-invert skin-invert" aria-hidden="true" style="vertical-align: -0.838ex; width:8.423ex; height:2.843ex;" alt="{\displaystyle (-1\pm i)}"></span></a>.<sup id="cite&#95;ref-Knuth2&#95;5-0" class="reference"><a href="#cite_note-Knuth2-5"><span class="cite-bracket">&#91;</span>5<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<div class="mw-heading mw-heading2"><h2 id="Terdragon">Terdragon</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Dragon_curve&amp;action=edit&amp;section=6" title="Edit section: Terdragon"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<figure class="mw-halign-left" typeof="mw:File/Thumb"><a href="/wiki/File:Terdragon.png" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Terdragon.png/250px-Terdragon.png" decoding="async" width="200" height="300" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/e/e3/Terdragon.png 2x" data-file-width="400" data-file-height="600" /></a><figcaption>Terdragon curve.</figcaption></figure>
+<figure class="mw-halign-right" typeof="mw:File/Thumb"><a href="/wiki/File:Developing_Terdragon_Curve.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/0/05/Developing_Terdragon_Curve.jpg/330px-Developing_Terdragon_Curve.jpg" decoding="async" width="300" height="300" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/05/Developing_Terdragon_Curve.jpg/960px-Developing_Terdragon_Curve.jpg 2x" data-file-width="2171" data-file-height="2171" /></a><figcaption> A sculpture depicting multiple iterations of the Lindenmayer system that generates the terdragon curve.<br />by <a href="/wiki/Henry_Segerman" title="Henry Segerman">Henry Segerman</a></figcaption></figure>
+<p>The <b>terdragon</b> can be written as a <a href="/wiki/Lindenmayer_system" class="mw-redirect" title="Lindenmayer system">Lindenmayer system</a>:
+</p>
+<ul><li>angle 120°</li>
+<li>initial string <i>F</i></li>
+<li>string rewriting rules
+<ul><li><i>F</i> ↦ <i>F+F−F</i>.</li></ul></li></ul>
+<p>It is the limit set of the following iterated function system:
+</p>
+<dl><dd><span class="mwe-math-element mwe-math-element-inline"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle f_{1}(z)=\lambda z}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>f</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>1</mn>
+          </mrow>
+        </msub>
+        <mo stretchy="false">(</mo>
+        <mi>z</mi>
+        <mo stretchy="false">)</mo>
+        <mo>=</mo>
+        <mi>&#x03BB;<!-- λ --></mi>
+        <mi>z</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle f_{1}(z)=\lambda z}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/603fac378d1eb5c620333e8eaed25ec52cef119c" class="mwe-math-fallback-image-inline mw-invert skin-invert" aria-hidden="true" style="vertical-align: -0.838ex; width:10.633ex; height:2.843ex;" alt="{\displaystyle f_{1}(z)=\lambda z}"></span></dd>
+<dd><span class="mwe-math-element mwe-math-element-inline"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle f_{2}(z)={\frac {i}{\sqrt {3}}}z+\lambda }">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>f</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>2</mn>
+          </mrow>
+        </msub>
+        <mo stretchy="false">(</mo>
+        <mi>z</mi>
+        <mo stretchy="false">)</mo>
+        <mo>=</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mi>i</mi>
+            <msqrt>
+              <mn>3</mn>
+            </msqrt>
+          </mfrac>
+        </mrow>
+        <mi>z</mi>
+        <mo>+</mo>
+        <mi>&#x03BB;<!-- λ --></mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle f_{2}(z)={\frac {i}{\sqrt {3}}}z+\lambda }</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/420effe65ca3654fcd760805b67519ffe66d4d9e" class="mwe-math-fallback-image-inline mw-invert skin-invert" aria-hidden="true" style="vertical-align: -2.838ex; width:17.408ex; height:6.176ex;" alt="{\displaystyle f_{2}(z)={\frac {i}{\sqrt {3}}}z+\lambda }"></span></dd>
+<dd><span class="mwe-math-element mwe-math-element-inline"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle f_{3}(z)=\lambda z+\lambda ^{*}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>f</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>3</mn>
+          </mrow>
+        </msub>
+        <mo stretchy="false">(</mo>
+        <mi>z</mi>
+        <mo stretchy="false">)</mo>
+        <mo>=</mo>
+        <mi>&#x03BB;<!-- λ --></mi>
+        <mi>z</mi>
+        <mo>+</mo>
+        <msup>
+          <mi>&#x03BB;<!-- λ --></mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mo>&#x2217;<!-- ∗ --></mo>
+          </mrow>
+        </msup>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle f_{3}(z)=\lambda z+\lambda ^{*}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/201d93421e33daad1dd32367f21d231bec6ae848" class="mwe-math-fallback-image-inline mw-invert skin-invert" aria-hidden="true" style="vertical-align: -0.838ex; width:15.883ex; height:2.843ex;" alt="{\displaystyle f_{3}(z)=\lambda z+\lambda ^{*}}"></span></dd>
+<dd><span class="mwe-math-element mwe-math-element-inline"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle {\mbox{where }}\lambda ={\frac {1}{2}}-{\frac {i}{2{\sqrt {3}}}}{\text{ and }}\lambda ^{*}={\frac {1}{2}}+{\frac {i}{2{\sqrt {3}}}}.}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mstyle displaystyle="false" scriptlevel="0">
+            <mtext>where&#xA0;</mtext>
+          </mstyle>
+        </mrow>
+        <mi>&#x03BB;<!-- λ --></mi>
+        <mo>=</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mn>1</mn>
+            <mn>2</mn>
+          </mfrac>
+        </mrow>
+        <mo>&#x2212;<!-- − --></mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mi>i</mi>
+            <mrow>
+              <mn>2</mn>
+              <mrow class="MJX-TeXAtom-ORD">
+                <msqrt>
+                  <mn>3</mn>
+                </msqrt>
+              </mrow>
+            </mrow>
+          </mfrac>
+        </mrow>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mtext>&#xA0;and&#xA0;</mtext>
+        </mrow>
+        <msup>
+          <mi>&#x03BB;<!-- λ --></mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mo>&#x2217;<!-- ∗ --></mo>
+          </mrow>
+        </msup>
+        <mo>=</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mn>1</mn>
+            <mn>2</mn>
+          </mfrac>
+        </mrow>
+        <mo>+</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mi>i</mi>
+            <mrow>
+              <mn>2</mn>
+              <mrow class="MJX-TeXAtom-ORD">
+                <msqrt>
+                  <mn>3</mn>
+                </msqrt>
+              </mrow>
+            </mrow>
+          </mfrac>
+        </mrow>
+        <mo>.</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle {\mbox{where }}\lambda ={\frac {1}{2}}-{\frac {i}{2{\sqrt {3}}}}{\text{ and }}\lambda ^{*}={\frac {1}{2}}+{\frac {i}{2{\sqrt {3}}}}.}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/8bee375501597480f1b53f929ced70ac594b3940" class="mwe-math-fallback-image-inline mw-invert skin-invert" aria-hidden="true" style="vertical-align: -2.838ex; width:41.917ex; height:6.176ex;" alt="{\displaystyle {\mbox{where }}\lambda ={\frac {1}{2}}-{\frac {i}{2{\sqrt {3}}}}{\text{ and }}\lambda ^{*}={\frac {1}{2}}+{\frac {i}{2{\sqrt {3}}}}.}"></span></dd></dl>
+<div class="mw-heading mw-heading2"><h2 id="Lévy_dragon"><span id="L.C3.A9vy_dragon"></span>Lévy dragon</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Dragon_curve&amp;action=edit&amp;section=7" title="Edit section: Lévy dragon"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>The <a href="/wiki/L%C3%A9vy_C_curve" title="Lévy C curve">Lévy C curve</a> is sometimes known as the <b>Lévy dragon</b>.<sup id="cite&#95;ref-6" class="reference"><a href="#cite_note-6"><span class="cite-bracket">&#91;</span>6<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<table>
+<tbody><tr>
+<td><figure typeof="mw:File/Thumb"><a href="/wiki/File:L%C3%A9vy%27s_C-curve_(IFS).jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/L%C3%A9vy%27s_C-curve_%28IFS%29.jpg/250px-L%C3%A9vy%27s_C-curve_%28IFS%29.jpg" decoding="async" width="200" height="200" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/L%C3%A9vy%27s_C-curve_%28IFS%29.jpg/500px-L%C3%A9vy%27s_C-curve_%28IFS%29.jpg 2x" data-file-width="589" data-file-height="590" /></a><figcaption>Lévy C curve.</figcaption></figure>
+</td></tr></tbody></table>
+<div class="mw-heading mw-heading2"><h2 id="Occurrences_of_the_dragon_curve_in_solution_sets">Occurrences of the dragon curve in solution sets</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Dragon_curve&amp;action=edit&amp;section=8" title="Edit section: Occurrences of the dragon curve in solution sets"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Having obtained the set of solutions to a linear differential equation, any linear combination of the solutions will, because of the <a href="/wiki/Superposition_principle" title="Superposition principle">superposition principle</a>, also obey the original equation. In other words, new solutions are obtained by applying a function to the set of existing solutions. This is similar to how an iterated function system produces new points in a set, though not all IFS are linear functions.
+In a conceptually similar vein, a set of <a href="/wiki/Littlewood_polynomial" title="Littlewood polynomial">Littlewood polynomials</a> can be arrived at by such iterated applications of a set of functions.
+</p><p>A Littlewood polynomial is a polynomial: <span class="mwe-math-element mwe-math-element-inline"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle p(x)=\sum _{i=0}^{n}a_{i}x^{i}\,}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>p</mi>
+        <mo stretchy="false">(</mo>
+        <mi>x</mi>
+        <mo stretchy="false">)</mo>
+        <mo>=</mo>
+        <munderover>
+          <mo>&#x2211;<!-- ∑ --></mo>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>i</mi>
+            <mo>=</mo>
+            <mn>0</mn>
+          </mrow>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>n</mi>
+          </mrow>
+        </munderover>
+        <msub>
+          <mi>a</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>i</mi>
+          </mrow>
+        </msub>
+        <msup>
+          <mi>x</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>i</mi>
+          </mrow>
+        </msup>
+        <mspace width="thinmathspace" />
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle p(x)=\sum _{i=0}^{n}a_{i}x^{i}\,}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/cded56614f521734e88b3fee88352dded3e5e9f3" class="mwe-math-fallback-image-inline mw-invert skin-invert" aria-hidden="true" style="vertical-align: -3.005ex; margin-left: -0.089ex; width:15.784ex; height:6.843ex;" alt="{\displaystyle p(x)=\sum _{i=0}^{n}a_{i}x^{i}\,}"></span> where all <span class="mwe-math-element mwe-math-element-inline"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle a_{i}=\pm 1}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>a</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>i</mi>
+          </mrow>
+        </msub>
+        <mo>=</mo>
+        <mo>&#x00B1;<!-- ± --></mo>
+        <mn>1</mn>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle a_{i}=\pm 1}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/f88e23fcacf840db6d5ec37b0e5d9a20277b69e0" class="mwe-math-fallback-image-inline mw-invert skin-invert" aria-hidden="true" style="vertical-align: -0.671ex; width:8.099ex; height:2.509ex;" alt="{\displaystyle a_{i}=\pm 1}"></span>.
+</p><p>For some <span class="mwe-math-element mwe-math-element-inline"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle |w|&lt;1}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mo stretchy="false">|</mo>
+        </mrow>
+        <mi>w</mi>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mo stretchy="false">|</mo>
+        </mrow>
+        <mo>&lt;</mo>
+        <mn>1</mn>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle |w|&lt;1}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/3fd52cdea4952598ac35dd1ad3709c6669538122" class="mwe-math-fallback-image-inline mw-invert skin-invert" aria-hidden="true" style="vertical-align: -0.838ex; width:7.219ex; height:2.843ex;" alt="{\displaystyle |w|&lt;1}"></span> we define the following functions:
+</p>
+<dl><dd><span class="mwe-math-element mwe-math-element-inline"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle f_{+}(z)=1+wz}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>f</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mo>+</mo>
+          </mrow>
+        </msub>
+        <mo stretchy="false">(</mo>
+        <mi>z</mi>
+        <mo stretchy="false">)</mo>
+        <mo>=</mo>
+        <mn>1</mn>
+        <mo>+</mo>
+        <mi>w</mi>
+        <mi>z</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle f_{+}(z)=1+wz}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/b937f81c89118829e6cd3b8fa75fb0838a35d472" class="mwe-math-fallback-image-inline mw-invert skin-invert" aria-hidden="true" style="vertical-align: -0.838ex; width:15.401ex; height:2.843ex;" alt="{\displaystyle f_{+}(z)=1+wz}"></span></dd>
+<dd><span class="mwe-math-element mwe-math-element-inline"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle f_{-}(z)=1-wz}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>f</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mo>&#x2212;<!-- − --></mo>
+          </mrow>
+        </msub>
+        <mo stretchy="false">(</mo>
+        <mi>z</mi>
+        <mo stretchy="false">)</mo>
+        <mo>=</mo>
+        <mn>1</mn>
+        <mo>&#x2212;<!-- − --></mo>
+        <mi>w</mi>
+        <mi>z</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle f_{-}(z)=1-wz}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/ef3cd943adf53bc7182f27e8c0d1d064d2fc303e" class="mwe-math-fallback-image-inline mw-invert skin-invert" aria-hidden="true" style="vertical-align: -0.838ex; width:15.401ex; height:2.843ex;" alt="{\displaystyle f_{-}(z)=1-wz}"></span></dd></dl>
+<p>Starting at z=0 we can generate all Littlewood polynomials of degree d using these functions iteratively d+1 times.<sup id="cite&#95;ref-ncafe&#95;7-0" class="reference"><a href="#cite_note-ncafe-7"><span class="cite-bracket">&#91;</span>7<span class="cite-bracket">&#93;</span></a></sup> For instance: <span class="mwe-math-element mwe-math-element-inline"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle f_{+}(f_{-}(f_{-}(0)))=1+(1-w)w=1+1w-1w^{2}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>f</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mo>+</mo>
+          </mrow>
+        </msub>
+        <mo stretchy="false">(</mo>
+        <msub>
+          <mi>f</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mo>&#x2212;<!-- − --></mo>
+          </mrow>
+        </msub>
+        <mo stretchy="false">(</mo>
+        <msub>
+          <mi>f</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mo>&#x2212;<!-- − --></mo>
+          </mrow>
+        </msub>
+        <mo stretchy="false">(</mo>
+        <mn>0</mn>
+        <mo stretchy="false">)</mo>
+        <mo stretchy="false">)</mo>
+        <mo stretchy="false">)</mo>
+        <mo>=</mo>
+        <mn>1</mn>
+        <mo>+</mo>
+        <mo stretchy="false">(</mo>
+        <mn>1</mn>
+        <mo>&#x2212;<!-- − --></mo>
+        <mi>w</mi>
+        <mo stretchy="false">)</mo>
+        <mi>w</mi>
+        <mo>=</mo>
+        <mn>1</mn>
+        <mo>+</mo>
+        <mn>1</mn>
+        <mi>w</mi>
+        <mo>&#x2212;<!-- − --></mo>
+        <mn>1</mn>
+        <msup>
+          <mi>w</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>2</mn>
+          </mrow>
+        </msup>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle f_{+}(f_{-}(f_{-}(0)))=1+(1-w)w=1+1w-1w^{2}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/3c553836b7a888777d415606cc7789eebc2870a7" class="mwe-math-fallback-image-inline mw-invert skin-invert" aria-hidden="true" style="vertical-align: -0.838ex; width:47.431ex; height:3.176ex;" alt="{\displaystyle f_{+}(f_{-}(f_{-}(0)))=1+(1-w)w=1+1w-1w^{2}}"></span>
+</p><p>It can be seen that for <span class="mwe-math-element mwe-math-element-inline"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle w=(1+i)/2}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>w</mi>
+        <mo>=</mo>
+        <mo stretchy="false">(</mo>
+        <mn>1</mn>
+        <mo>+</mo>
+        <mi>i</mi>
+        <mo stretchy="false">)</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mo>/</mo>
+        </mrow>
+        <mn>2</mn>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle w=(1+i)/2}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/a9114ee9cf02e8888774f5d208d7127553005f50" class="mwe-math-fallback-image-inline mw-invert skin-invert" aria-hidden="true" style="vertical-align: -0.838ex; width:13.702ex; height:2.843ex;" alt="{\displaystyle w=(1+i)/2}"></span>, the above pair of functions is equivalent to the IFS formulation of the Heighway dragon. That is, the Heighway dragon, iterated to a certain iteration, describe the set of all Littlewood polynomials up to a certain degree, evaluated at the point <span class="mwe-math-element mwe-math-element-inline"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle w=(1+i)/2}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>w</mi>
+        <mo>=</mo>
+        <mo stretchy="false">(</mo>
+        <mn>1</mn>
+        <mo>+</mo>
+        <mi>i</mi>
+        <mo stretchy="false">)</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mo>/</mo>
+        </mrow>
+        <mn>2</mn>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle w=(1+i)/2}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/a9114ee9cf02e8888774f5d208d7127553005f50" class="mwe-math-fallback-image-inline mw-invert skin-invert" aria-hidden="true" style="vertical-align: -0.838ex; width:13.702ex; height:2.843ex;" alt="{\displaystyle w=(1+i)/2}"></span>.
+Indeed, when plotting a sufficiently high number of roots of the Littlewood polynomials, structures similar to the dragon curve appear at points close to these coordinates.<sup id="cite&#95;ref-ncafe&#95;7-1" class="reference"><a href="#cite_note-ncafe-7"><span class="cite-bracket">&#91;</span>7<span class="cite-bracket">&#93;</span></a></sup><sup id="cite&#95;ref-8" class="reference"><a href="#cite_note-8"><span class="cite-bracket">&#91;</span>8<span class="cite-bracket">&#93;</span></a></sup><sup id="cite&#95;ref-9" class="reference"><a href="#cite_note-9"><span class="cite-bracket">&#91;</span>9<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<div class="mw-heading mw-heading2"><h2 id="Variants">Variants</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Dragon_curve&amp;action=edit&amp;section=9" title="Edit section: Variants"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>The dragon curve belongs to a basic set of iteration functions consisting of two lines with four possible orientations at perpendicular angles 
+</p>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a href="/wiki/File:Dragon_Curves.pdf" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Dragon_Curves.pdf/page1-250px-Dragon_Curves.pdf.jpg" decoding="async" width="250" height="324" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Dragon_Curves.pdf/page1-500px-Dragon_Curves.pdf.jpg 2x" data-file-width="1275" data-file-height="1650" /></a><figcaption>Different types of Dragon Curve Variants</figcaption></figure> 
+<table class="wikitable">
+<caption>
+</caption>
+<tbody><tr>
+<th>Curve
+</th>
+<th>Creators and Creation Year of Dragon Family Members
+</th></tr>
+<tr>
+<td><a href="/wiki/L%C3%A9vy_C_curve" title="Lévy C curve">Lévy Curve</a>
+</td>
+<td><a href="/wiki/Ernesto_Ces%C3%A0ro" title="Ernesto Cesàro">Ernesto Cesàro</a> (1906), <a href="/wiki/Georg_Faber" title="Georg Faber">Georg Faber</a> (1910), <a href="/wiki/Paul_L%C3%A9vy_(mathematician)" title="Paul Lévy (mathematician)">Paul Lévy</a> (1914)
+</td></tr>
+<tr>
+<td>Dragon curve
+</td>
+<td>John Heighway (1966), Bruce Banks (1966), William Harter (1966)
+</td></tr>
+<tr>
+<td><a href="/wiki/Dragon_Curve" class="mw-redirect" title="Dragon Curve">Davis Diamond</a>
+</td>
+<td><a href="/wiki/Chandler_Davis" title="Chandler Davis">Chandler Davis</a> (1970), <a href="/wiki/Donald_Knuth" title="Donald Knuth">Donald J. Knuth</a> (1970)
+</td></tr>
+<tr>
+<td>Knuth Wedge
+</td>
+<td><a href="/wiki/Chandler_Davis" title="Chandler Davis">Chandler Davis</a> (1970), <a href="/wiki/Donald_Knuth" title="Donald Knuth">Donald J. Knuth</a> (1970)
+</td></tr>
+<tr>
+<td>Unicorn Curve
+</td>
+<td>Peter van Roy (1989)<sup id="cite&#95;ref-10" class="reference"><a href="#cite_note-10"><span class="cite-bracket">&#91;</span>10<span class="cite-bracket">&#93;</span></a></sup>
+</td></tr>
+<tr>
+<td>Lion Curve
+</td>
+<td><a href="/wiki/Bernt_Wahl" title="Bernt Wahl">Bernt Rainer Wahl</a> (1989)<sup id="cite&#95;ref-11" class="reference"><a href="#cite_note-11"><span class="cite-bracket">&#91;</span>11<span class="cite-bracket">&#93;</span></a></sup>
+</td></tr></tbody></table>
+<p>It is possible to change the turn angle from 90° to other angles. Changing to 120° yields a structure of triangles, while 60° gives the following curve: 
+</p><p>A discrete dragon curve can be converted to a dragon <a href="/wiki/Polyomino" title="Polyomino">polyomino</a> as shown. Like discrete dragon curves, dragon polyominoes approach the fractal dragon curve as a limit.
+</p>
+<div class="mw-heading mw-heading2"><h2 id="See_also">See also</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Dragon_curve&amp;action=edit&amp;section=10" title="Edit section: See also"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<ul><li><a href="/wiki/List_of_fractals_by_Hausdorff_dimension" title="List of fractals by Hausdorff dimension">List of fractals by Hausdorff dimension</a></li>
+<li><a href="/wiki/Complex-base_system" title="Complex-base system">Complex-base system</a></li></ul>
+<div class="mw-heading mw-heading2"><h2 id="References">References</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Dragon_curve&amp;action=edit&amp;section=11" title="Edit section: References"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<style data-mw-deduplicate="TemplateStyles:r1327269900">.mw-parser-output .reflist-columns-2{column-width:30em}.mw-parser-output .reflist-columns-3{column-width:25em}body.skin-vector-2022 .mw-parser-output .reflist-columns-2{column-width:27em}body.skin-vector-2022 .mw-parser-output .reflist-columns-3{column-width:22.5em}.mw-parser-output .references[data-mw-group=upper-alpha]{list-style-type:upper-alpha}.mw-parser-output .references[data-mw-group=upper-roman]{list-style-type:upper-roman}.mw-parser-output .references[data-mw-group=lower-alpha]{list-style-type:lower-alpha}.mw-parser-output .references[data-mw-group=lower-greek]{list-style-type:lower-greek}.mw-parser-output .references[data-mw-group=lower-roman]{list-style-type:lower-roman}.mw-parser-output div.reflist-liststyle-upper-alpha .references{list-style-type:upper-alpha}.mw-parser-output div.reflist-liststyle-upper-roman .references{list-style-type:upper-roman}.mw-parser-output div.reflist-liststyle-lower-alpha .references{list-style-type:lower-alpha}.mw-parser-output div.reflist-liststyle-lower-greek .references{list-style-type:lower-greek}.mw-parser-output div.reflist-liststyle-lower-roman .references{list-style-type:lower-roman}</style><div>
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite&#95;note-tabachnikov-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-tabachnikov_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-tabachnikov_1-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-tabachnikov_1-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-tabachnikov_1-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r1333433106">.mw-parser-output cite.citation{font-style:inherit;word-wrap:break-word}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation:target{background-color:rgba(0,127,255,0.133)}.mw-parser-output .id-lock-free.id-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited.id-lock-limited a,.mw-parser-output .id-lock-registration.id-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription.id-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .id-lock-free a,body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .id-lock-limited a,body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .id-lock-registration a,body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .id-lock-subscription a,body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .cs1-ws-icon a{background-size:contain;padding:0 1em 0 0}.mw-parser-output .cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;color:var(--color-error,#bf3c2c)}.mw-parser-output .cs1-visible-error{color:var(--color-error,#bf3c2c)}.mw-parser-output .cs1-maint{display:none;color:#085;margin-left:0.3em}.mw-parser-output .cs1-kern-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}@media screen{.mw-parser-output .cs1-format{font-size:95%}html.skin-theme-clientpref-night .mw-parser-output .cs1-maint{color:#18911f}}@media screen and (prefers-color-scheme:dark){html.skin-theme-clientpref-os .mw-parser-output .cs1-maint{color:#18911f}}</style><cite id="CITEREFTabachnikov2014" class="citation cs2">Tabachnikov, Sergei (2014), "Dragon curves revisited", <i>The Mathematical Intelligencer</i>, <b>36</b> (1): <span class="nowrap">13–</span>17, <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1007%2Fs00283-013-9428-y">10.1007/s00283-013-9428-y</a>, <a href="/wiki/MR_(identifier)" class="mw-redirect" title="MR (identifier)">MR</a>&#160;<a rel="nofollow" class="external text" href="https://mathscinet.ams.org/mathscinet-getitem?mr=3166985">3166985</a>, <a href="/wiki/S2CID_(identifier)" class="mw-redirect" title="S2CID (identifier)">S2CID</a>&#160;<a rel="nofollow" class="external text" href="https://api.semanticscholar.org/CorpusID:14420269">14420269</a></cite><span title="ctx&#95;ver=Z39.88-2004&amp;rft&#95;val&#95;fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Mathematical+Intelligencer&amp;rft.atitle=Dragon+curves+revisited&amp;rft.volume=36&amp;rft.issue=1&amp;rft.pages=13-17&amp;rft.date=2014&amp;rft&#95;id=https%3A%2F%2Fmathscinet.ams.org%2Fmathscinet-getitem%3Fmr%3D3166985%23id-name%3DMR&amp;rft&#95;id=https%3A%2F%2Fapi.semanticscholar.org%2FCorpusID%3A14420269%23id-name%3DS2CID&amp;rft&#95;id=info%3Adoi%2F10.1007%2Fs00283-013-9428-y&amp;rft.aulast=Tabachnikov&amp;rft.aufirst=Sergei&amp;rfr&#95;id=info%3Asid%2Fen.wikipedia.org%3ADragon+curve" class="Z3988"></span></span>
+</li>
+<li id="cite&#95;note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1333433106" /><cite id="CITEREFEdgar2008" class="citation cs2">Edgar, Gerald (2008), "Heighway's Dragon", in Edgar, Gerald (ed.), <i>Measure, Topology, and Fractal Geometry</i>, Undergraduate Texts in Mathematics (2nd&#160;ed.), New York: Springer, pp.&#160;<span class="nowrap">20–</span>22, <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1007%2F978-0-387-74749-1">10.1007/978-0-387-74749-1</a>, <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-387-74748-4" title="Special:BookSources/978-0-387-74748-4"><bdi>978-0-387-74748-4</bdi></a>, <a href="/wiki/MR_(identifier)" class="mw-redirect" title="MR (identifier)">MR</a>&#160;<a rel="nofollow" class="external text" href="https://mathscinet.ams.org/mathscinet-getitem?mr=2356043">2356043</a></cite><span title="ctx&#95;ver=Z39.88-2004&amp;rft&#95;val&#95;fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Heighway%27s+Dragon&amp;rft.btitle=Measure%2C+Topology%2C+and+Fractal+Geometry&amp;rft.place=New+York&amp;rft.series=Undergraduate+Texts+in+Mathematics&amp;rft.pages=20-22&amp;rft.edition=2nd&amp;rft.pub=Springer&amp;rft.date=2008&amp;rft&#95;id=https%3A%2F%2Fmathscinet.ams.org%2Fmathscinet-getitem%3Fmr%3D2356043%23id-name%3DMR&amp;rft&#95;id=info%3Adoi%2F10.1007%2F978-0-387-74749-1&amp;rft.isbn=978-0-387-74748-4&amp;rft.aulast=Edgar&amp;rft.aufirst=Gerald&amp;rfr&#95;id=info%3Asid%2Fen.wikipedia.org%3ADragon+curve" class="Z3988"></span></span>
+</li>
+<li id="cite&#95;note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><a href="#CITEREFEdgar2008">Edgar (2008)</a>, "Heighway’s Dragon Tiles the Plane", pp. 74–75.</span>
+</li>
+<li id="cite&#95;note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><a href="/wiki/Donald_Knuth" title="Donald Knuth">Knuth, Donald</a> (1998). "Positional Number Systems". <i>The art of computer programming</i>. Vol. 2 (3rd ed.). Boston: Addison-Wesley. p. 206. <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1333433106" /><a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-201-89684-2" title="Special:BookSources/0-201-89684-2"><bdi>0-201-89684-2</bdi></a>. <a href="/wiki/OCLC_(identifier)" class="mw-redirect" title="OCLC (identifier)">OCLC</a> 48246681.</span>
+</li>
+<li id="cite&#95;note-Knuth2-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-Knuth2_5-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1333433106" /><cite id="CITEREFBernt&#95;WahlPeter&#95;van&#95;RoyMichael&#95;LarsenEric&#95;Kampman1994" class="citation book cs1"><a href="/wiki/Bernt_Wahl" title="Bernt Wahl">Bernt Wahl</a>; Peter van Roy; Michael Larsen; Eric Kampman (1994). <i>Exploring Fractals on the Machintosh</i> (1st&#160;ed.). Boston: Addison-Wesley. pp.&#160;<span class="nowrap">1–</span>352. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0201626308" title="Special:BookSources/978-0201626308"><bdi>978-0201626308</bdi></a>.</cite><span title="ctx&#95;ver=Z39.88-2004&amp;rft&#95;val&#95;fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Exploring+Fractals+on+the+Machintosh&amp;rft.place=Boston&amp;rft.pages=1-352&amp;rft.edition=1st&amp;rft.pub=Addison-Wesley&amp;rft.date=1994&amp;rft.isbn=978-0201626308&amp;rft.au=Bernt+Wahl&amp;rft.au=Peter+van+Roy&amp;rft.au=Michael+Larsen&amp;rft.au=Eric+Kampman&amp;rfr&#95;id=info%3Asid%2Fen.wikipedia.org%3ADragon+curve" class="Z3988"></span></span>
+</li>
+<li id="cite&#95;note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1333433106" /><cite id="CITEREFBaileyKimStrichartz2002" class="citation cs2">Bailey, Scott; Kim, Theodore; Strichartz, Robert S. (2002), "Inside the Lévy dragon", <i><a href="/wiki/The_American_Mathematical_Monthly" title="The American Mathematical Monthly">The American Mathematical Monthly</a></i>, <b>109</b> (8): <span class="nowrap">689–</span>703, <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.2307%2F3072395">10.2307/3072395</a>, <a href="/wiki/JSTOR_(identifier)" class="mw-redirect" title="JSTOR (identifier)">JSTOR</a>&#160;<a rel="nofollow" class="external text" href="https://www.jstor.org/stable/3072395">3072395</a>, <a href="/wiki/MR_(identifier)" class="mw-redirect" title="MR (identifier)">MR</a>&#160;<a rel="nofollow" class="external text" href="https://mathscinet.ams.org/mathscinet-getitem?mr=1927621">1927621</a></cite><span title="ctx&#95;ver=Z39.88-2004&amp;rft&#95;val&#95;fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+American+Mathematical+Monthly&amp;rft.atitle=Inside+the+L%C3%A9vy+dragon&amp;rft.volume=109&amp;rft.issue=8&amp;rft.pages=689-703&amp;rft.date=2002&amp;rft&#95;id=https%3A%2F%2Fmathscinet.ams.org%2Fmathscinet-getitem%3Fmr%3D1927621%23id-name%3DMR&amp;rft&#95;id=https%3A%2F%2Fwww.jstor.org%2Fstable%2F3072395%23id-name%3DJSTOR&amp;rft&#95;id=info%3Adoi%2F10.2307%2F3072395&amp;rft.aulast=Bailey&amp;rft.aufirst=Scott&amp;rft.au=Kim%2C+Theodore&amp;rft.au=Strichartz%2C+Robert+S.&amp;rfr&#95;id=info%3Asid%2Fen.wikipedia.org%3ADragon+curve" class="Z3988"></span>.</span>
+</li>
+<li id="cite&#95;note-ncafe-7"><span class="mw-cite-backlink">^ <a href="#cite_ref-ncafe_7-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-ncafe_7-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1333433106" /><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://golem.ph.utexas.edu/category/2009/12/this_weeks_finds_in_mathematic_46.html">"The n-Category Café"</a>.</cite><span title="ctx&#95;ver=Z39.88-2004&amp;rft&#95;val&#95;fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=The+n-Category+Caf%C3%A9&amp;rft&#95;id=http%3A%2F%2Fgolem.ph.utexas.edu%2Fcategory%2F2009%2F12%2Fthis&#95;weeks&#95;finds&#95;in&#95;mathematic&#95;46.html&amp;rfr&#95;id=info%3Asid%2Fen.wikipedia.org%3ADragon+curve" class="Z3988"></span></span>
+</li>
+<li id="cite&#95;note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1333433106" /><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://math.ucr.edu/home/baez/week285.html">"Week285"</a>.</cite><span title="ctx&#95;ver=Z39.88-2004&amp;rft&#95;val&#95;fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Week285&amp;rft&#95;id=http%3A%2F%2Fmath.ucr.edu%2Fhome%2Fbaez%2Fweek285.html&amp;rfr&#95;id=info%3Asid%2Fen.wikipedia.org%3ADragon+curve" class="Z3988"></span></span>
+</li>
+<li id="cite&#95;note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1333433106" /><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://johncarlosbaez.wordpress.com/2011/12/11/the-beauty-of-roots/">"The Beauty of Roots"</a>.</cite><span title="ctx&#95;ver=Z39.88-2004&amp;rft&#95;val&#95;fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=The+Beauty+of+Roots&amp;rft&#95;id=http%3A%2F%2Fjohncarlosbaez.wordpress.com%2F2011%2F12%2F11%2Fthe-beauty-of-roots%2F&amp;rfr&#95;id=info%3Asid%2Fen.wikipedia.org%3ADragon+curve" class="Z3988"></span></span>
+</li>
+<li id="cite&#95;note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1333433106" /><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.wahl.org/fe/HTML_version/link/FE3W/c3.htm#dragon">"Chapter 3: Creating Classical Fractals on the Macintosh"</a>. <i>www.wahl.org</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2025-09-17</span></span>.</cite><span title="ctx&#95;ver=Z39.88-2004&amp;rft&#95;val&#95;fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.wahl.org&amp;rft.atitle=Chapter+3%3A+Creating+Classical+Fractals+on+the+Macintosh&amp;rft&#95;id=https%3A%2F%2Fwww.wahl.org%2Ffe%2FHTML&#95;version%2Flink%2FFE3W%2Fc3.htm%23dragon&amp;rfr&#95;id=info%3Asid%2Fen.wikipedia.org%3ADragon+curve" class="Z3988"></span></span>
+</li>
+<li id="cite&#95;note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1333433106" /><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.wahl.org/fe/HTML_version/link/FE3W/c3.htm#dragon">"Chapter 3: Creating Classical Fractals on the Macintosh"</a>. <i>www.wahl.org</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2025-09-17</span></span>.</cite><span title="ctx&#95;ver=Z39.88-2004&amp;rft&#95;val&#95;fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.wahl.org&amp;rft.atitle=Chapter+3%3A+Creating+Classical+Fractals+on+the+Macintosh&amp;rft&#95;id=https%3A%2F%2Fwww.wahl.org%2Ffe%2FHTML&#95;version%2Flink%2FFE3W%2Fc3.htm%23dragon&amp;rfr&#95;id=info%3Asid%2Fen.wikipedia.org%3ADragon+curve" class="Z3988"></span></span>
+</li>
+</ol></div></div>
+<div class="mw-heading mw-heading2"><h2 id="External_links">External links</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Dragon_curve&amp;action=edit&amp;section=12" title="Edit section: External links"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<style data-mw-deduplicate="TemplateStyles:r1314755338">.mw-parser-output .side-box{margin:4px 0;box-sizing:border-box;border:1px solid #aaa;font-size:88%;line-height:1.25em;background-color:var(--background-color-interactive-subtle,#f8f9fa);color:inherit;display:flow-root}.mw-parser-output .infobox .side-box{font-size:100%}.mw-parser-output .side-box-abovebelow,.mw-parser-output .side-box-text{padding:0.25em 0.9em}.mw-parser-output .side-box-image{padding:2px 0 2px 0.9em;text-align:center}.mw-parser-output .side-box-imageright{padding:2px 0.9em 2px 0;text-align:center}@media(min-width:500px){.mw-parser-output .side-box-flex{display:flex;align-items:center}.mw-parser-output .side-box-text{flex:1;min-width:0}}@media(min-width:640px){.mw-parser-output .side-box{width:238px}.mw-parser-output .side-box-right{clear:right;float:right;margin-left:1em}.mw-parser-output .side-box-left{margin-right:1em}}</style><style data-mw-deduplicate="TemplateStyles:r1311551236">@media print{body.ns-0 .mw-parser-output .sistersitebox{display:none!important}}@media screen{html.skin-theme-clientpref-night .mw-parser-output .sistersitebox img[src*="Wiktionary-logo-en-v2.svg"]{filter:invert(1)brightness(55%)contrast(250%)hue-rotate(180deg)}}@media screen and (prefers-color-scheme:dark){html.skin-theme-clientpref-os .mw-parser-output .sistersitebox img[src*="Wiktionary-logo-en-v2.svg"]{filter:invert(1)brightness(55%)contrast(250%)hue-rotate(180deg)}}</style><div class="side-box side-box-right plainlinks sistersitebox"><style data-mw-deduplicate="TemplateStyles:r1126788409">.mw-parser-output .plainlist ol,.mw-parser-output .plainlist ul{line-height:inherit;list-style:none;margin:0;padding:0}.mw-parser-output .plainlist ol li,.mw-parser-output .plainlist ul li{margin-bottom:0}</style>
+<div class="side-box-flex">
+<div class="side-box-image"><span class="noviewer" typeof="mw:File"><a href="/wiki/File:Commons-logo.svg" class="mw-file-description"><img alt="Wikimedia Commons logo" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/40px-Commons-logo.svg.png" decoding="async" width="30" height="40" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/60px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></a></span></div>
+<div class="side-box-text plainlist">Wikimedia Commons has media related to <a href="https://commons.wikimedia.org/wiki/Dragon_curve" class="extiw" title="commons:Dragon curve"><span style="font-style:italic; font-weight:bold;">Dragon curve</span></a>.</div></div>
+</div>
+<ul><li><span class="citation mathworld" id="Reference-Mathworld-Dragon&#95;Curve"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1333433106" /><cite id="CITEREFWeisstein" class="citation web cs2"><a href="/wiki/Eric_W._Weisstein" title="Eric W. Weisstein">Weisstein, Eric W.</a>, <a rel="nofollow" class="external text" href="https://mathworld.wolfram.com/DragonCurve.html">"Dragon Curve"</a>, <i><a href="/wiki/MathWorld" title="MathWorld">MathWorld</a></i></cite><span title="ctx&#95;ver=Z39.88-2004&amp;rft&#95;val&#95;fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=MathWorld&amp;rft.atitle=Dragon+Curve&amp;rft.au=Weisstein%2C+Eric+W.&amp;rft&#95;id=https%3A%2F%2Fmathworld.wolfram.com%2FDragonCurve.html&amp;rfr&#95;id=info%3Asid%2Fen.wikipedia.org%3ADragon+curve" class="Z3988"></span></span></li>
+<li><a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=v678Em6qyzk">Knuth on the Dragon Curve</a></li>
+<li><a rel="nofollow" class="external text" href="https://www.wahl.org/fe/HTML_version/link/FE3W/c3.htm#dragon">Dragon Curve</a></li></ul>
+<div class="navbox-styles"><style data-mw-deduplicate="TemplateStyles:r1333133064">.mw-parser-output .hlist dl,.mw-parser-output .hlist ol,.mw-parser-output .hlist ul{margin:0;padding:0}.mw-parser-output .hlist dd,.mw-parser-output .hlist dt,.mw-parser-output .hlist li{margin:0;display:inline}.mw-parser-output .hlist.inline,.mw-parser-output .hlist.inline dl,.mw-parser-output .hlist.inline ol,.mw-parser-output .hlist.inline ul,.mw-parser-output .hlist dl dl,.mw-parser-output .hlist dl ol,.mw-parser-output .hlist dl ul,.mw-parser-output .hlist ol dl,.mw-parser-output .hlist ol ol,.mw-parser-output .hlist ol ul,.mw-parser-output .hlist ul dl,.mw-parser-output .hlist ul ol,.mw-parser-output .hlist ul ul{display:inline}.mw-parser-output .hlist .mw-empty-li{display:none}.mw-parser-output .hlist dt::after{content:": "}.mw-parser-output .hlist dd::after,.mw-parser-output .hlist li::after{content:"\a0 · ";font-weight:bold}.mw-parser-output .hlist dd:last-child::after,.mw-parser-output .hlist dt:last-child::after,.mw-parser-output .hlist li:last-child::after{content:none}.mw-parser-output .hlist dd dd:first-child::before,.mw-parser-output .hlist dd dt:first-child::before,.mw-parser-output .hlist dd li:first-child::before,.mw-parser-output .hlist dt dd:first-child::before,.mw-parser-output .hlist dt dt:first-child::before,.mw-parser-output .hlist dt li:first-child::before,.mw-parser-output .hlist li dd:first-child::before,.mw-parser-output .hlist li dt:first-child::before,.mw-parser-output .hlist li li:first-child::before{content:" (";font-weight:normal}.mw-parser-output .hlist dd dd:last-child::after,.mw-parser-output .hlist dd dt:last-child::after,.mw-parser-output .hlist dd li:last-child::after,.mw-parser-output .hlist dt dd:last-child::after,.mw-parser-output .hlist dt dt:last-child::after,.mw-parser-output .hlist dt li:last-child::after,.mw-parser-output .hlist li dd:last-child::after,.mw-parser-output .hlist li dt:last-child::after,.mw-parser-output .hlist li li:last-child::after{content:")";font-weight:normal}.mw-parser-output .hlist ol{counter-reset:listitem}.mw-parser-output .hlist ol>li{counter-increment:listitem}.mw-parser-output .hlist ol>li::before{content:" "counter(listitem)"\a0 "}.mw-parser-output .hlist dd ol>li:first-child::before,.mw-parser-output .hlist dt ol>li:first-child::before,.mw-parser-output .hlist li ol>li:first-child::before{content:" ("counter(listitem)"\a0 "}</style><style data-mw-deduplicate="TemplateStyles:r1314944253">.mw-parser-output .navbox{box-sizing:border-box;border:1px solid #a2a9b1;width:100%;clear:both;font-size:88%;text-align:center;padding:1px;margin:1em auto 0}.mw-parser-output .navbox .navbox{margin-top:0}.mw-parser-output .navbox+.navbox,.mw-parser-output .navbox+.navbox-styles+.navbox{margin-top:-1px}.mw-parser-output .navbox-inner,.mw-parser-output .navbox-subgroup{width:100%}.mw-parser-output .navbox-group,.mw-parser-output .navbox-title,.mw-parser-output .navbox-abovebelow{padding:0.25em 1em;line-height:1.5em;text-align:center}.mw-parser-output .navbox-group{white-space:nowrap;text-align:right}.mw-parser-output .navbox,.mw-parser-output .navbox-subgroup{background-color:#fdfdfd;color:inherit}.mw-parser-output .navbox-list{line-height:1.5em;border-color:#fdfdfd}.mw-parser-output .navbox-list-with-group{text-align:left;border-left-width:2px;border-left-style:solid}.mw-parser-output tr+tr>.navbox-abovebelow,.mw-parser-output tr+tr>.navbox-group,.mw-parser-output tr+tr>.navbox-image,.mw-parser-output tr+tr>.navbox-list{border-top:2px solid #fdfdfd}.mw-parser-output .navbox-title{background-color:#ccf;color:inherit}.mw-parser-output .navbox-abovebelow,.mw-parser-output .navbox-group,.mw-parser-output .navbox-subgroup .navbox-title{background-color:#ddf;color:inherit}.mw-parser-output .navbox-subgroup .navbox-group,.mw-parser-output .navbox-subgroup .navbox-abovebelow{background-color:#e6e6ff;color:inherit}.mw-parser-output .navbox-even{background-color:#f7f7f7;color:inherit}.mw-parser-output .navbox-odd{background-color:transparent;color:inherit}.mw-parser-output .navbox .hlist td dl,.mw-parser-output .navbox .hlist td ol,.mw-parser-output .navbox .hlist td ul,.mw-parser-output .navbox td.hlist dl,.mw-parser-output .navbox td.hlist ol,.mw-parser-output .navbox td.hlist ul{padding:0.125em 0}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}body.skin--responsive .mw-parser-output .navbox-image img{max-width:none!important}@media print{body.ns-0 .mw-parser-output .navbox{display:none!important}}</style></div><div role="navigation" class="navbox" aria-labelledby="Fractals2562" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1333133064" /><style data-mw-deduplicate="TemplateStyles:r1239400231">.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar a>span,.mw-parser-output .navbar a>abbr{text-decoration:inherit}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}html.skin-theme-clientpref-night .mw-parser-output .navbar li a abbr{color:var(--color-base)!important}@media(prefers-color-scheme:dark){html.skin-theme-clientpref-os .mw-parser-output .navbar li a abbr{color:var(--color-base)!important}}@media print{.mw-parser-output .navbar{display:none!important}}</style><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv-view"><a href="/wiki/Template:Fractals" title="Template:Fractals"><abbr title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Fractals" title="Template talk:Fractals"><abbr title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a href="/wiki/Special:EditPage/Template:Fractals" title="Special:EditPage/Template:Fractals"><abbr title="Edit this template">e</abbr></a></li></ul></div><div id="Fractals2562" style="font-size:114%;margin:0 4em"><a href="/wiki/Fractal" title="Fractal">Fractals</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">Characteristics</th><td class="navbox-list-with-group navbox-list navbox-odd hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Fractal_dimension" title="Fractal dimension">Fractal dimensions</a>
+<ul><li><a href="/wiki/Assouad_dimension" title="Assouad dimension">Assouad</a></li>
+<li><a href="/wiki/Minkowski%E2%80%93Bouligand_dimension" title="Minkowski–Bouligand dimension">Box-counting</a>
+<ul><li><a href="/wiki/Higuchi_dimension" title="Higuchi dimension">Higuchi</a></li></ul></li>
+<li><a href="/wiki/Correlation_dimension" title="Correlation dimension">Correlation</a></li>
+<li><a href="/wiki/Hausdorff_dimension" title="Hausdorff dimension">Hausdorff</a></li>
+<li><a href="/wiki/Packing_dimension" title="Packing dimension">Packing</a></li>
+<li><a href="/wiki/Lebesgue_covering_dimension" title="Lebesgue covering dimension">Topological</a></li></ul></li>
+<li><a href="/wiki/Recursion" title="Recursion">Recursion</a></li>
+<li><a href="/wiki/Self-similarity" title="Self-similarity">Self-similarity</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Iterated_function_system" title="Iterated function system">Iterated function <br />system</a></th><td class="navbox-list-with-group navbox-list navbox-even hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Barnsley_fern" title="Barnsley fern">Barnsley fern</a></li>
+<li><a href="/wiki/Cantor_set" title="Cantor set">Cantor set</a></li>
+<li><a href="/wiki/Koch_snowflake" title="Koch snowflake">Koch snowflake</a></li>
+<li><a href="/wiki/Menger_sponge" title="Menger sponge">Menger sponge</a></li>
+<li><a href="/wiki/Sierpi%C5%84ski_carpet" title="Sierpiński carpet">Sierpiński carpet</a></li>
+<li><a href="/wiki/Sierpi%C5%84ski_triangle" title="Sierpiński triangle">Sierpiński triangle</a></li>
+<li><a href="/wiki/Apollonian_gasket" title="Apollonian gasket">Apollonian gasket</a></li>
+<li><a href="/wiki/Fibonacci_word_fractal" title="Fibonacci word fractal">Fibonacci word</a></li>
+<li><a href="/wiki/Space-filling_curve" title="Space-filling curve">Space-filling curve</a>
+<ul><li><a href="/wiki/Blancmange_curve" title="Blancmange curve">Blancmange curve</a></li>
+<li><a href="/wiki/De_Rham_curve" title="De Rham curve">De Rham curve</a>
+<ul><li><a href="/wiki/Minkowski_sausage" title="Minkowski sausage">Minkowski</a></li></ul></li>
+<li><a class="mw-selflink selflink">Dragon curve</a></li>
+<li><a href="/wiki/Hilbert_curve" title="Hilbert curve">Hilbert curve</a></li>
+<li><a href="/wiki/Koch_snowflake" title="Koch snowflake">Koch curve</a></li>
+<li><a href="/wiki/L%C3%A9vy_C_curve" title="Lévy C curve">Lévy C curve</a></li>
+<li><a href="/wiki/Moore_curve" title="Moore curve">Moore curve</a></li>
+<li><a href="/wiki/Peano_curve" title="Peano curve">Peano curve</a></li>
+<li><a href="/wiki/Sierpi%C5%84ski_curve" title="Sierpiński curve">Sierpiński curve</a></li>
+<li><a href="/wiki/Z-order_curve" title="Z-order curve">Z-order curve</a></li></ul></li>
+<li><a href="/wiki/Fractal_string" title="Fractal string">String</a></li>
+<li><a href="/wiki/T-square_(fractal)" title="T-square (fractal)">T-square</a></li>
+<li><a href="/wiki/N-flake" title="N-flake">n-flake</a></li>
+<li><a href="/wiki/Vicsek_fractal" title="Vicsek fractal">Vicsek fractal</a></li>
+<li><a href="/wiki/Gosper_curve" title="Gosper curve">Gosper curve</a></li>
+<li><a href="/wiki/Pythagoras_tree_(fractal)" title="Pythagoras tree (fractal)">Pythagoras tree</a></li>
+<li><a href="/wiki/Weierstrass_function" title="Weierstrass function">Weierstrass function</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Attractor#Strange_attractor" title="Attractor">Strange attractor</a></th><td class="navbox-list-with-group navbox-list navbox-odd hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Multifractal_system" title="Multifractal system">Multifractal system</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/L-system" title="L-system">L-system</a></th><td class="navbox-list-with-group navbox-list navbox-even hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Fractal_canopy" title="Fractal canopy">Fractal canopy</a></li>
+<li><a href="/wiki/Space-filling_curve" title="Space-filling curve">Space-filling curve</a>
+<ul><li><a href="/wiki/H_tree" title="H tree">H tree</a></li></ul></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Fractal#Common_techniques_for_generating_fractals" title="Fractal">Escape-time <br />fractals</a></th><td class="navbox-list-with-group navbox-list navbox-odd hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Burning_Ship_fractal" title="Burning Ship fractal">Burning Ship fractal</a></li>
+<li><a href="/wiki/Julia_set" title="Julia set">Julia set</a>
+<ul><li><a href="/wiki/Filled_Julia_set" title="Filled Julia set">Filled</a></li>
+<li><a href="/wiki/Newton_fractal" title="Newton fractal">Newton fractal</a></li>
+<li><a href="/wiki/Douady_rabbit" title="Douady rabbit">Douady rabbit</a></li></ul></li>
+<li><a href="/wiki/Lyapunov_fractal" title="Lyapunov fractal">Lyapunov fractal</a></li>
+<li><a href="/wiki/Mandelbrot_set" title="Mandelbrot set">Mandelbrot set</a>
+<ul><li><a href="/wiki/Misiurewicz_point" title="Misiurewicz point">Misiurewicz point</a></li></ul></li>
+<li><a href="/wiki/Multibrot_set" title="Multibrot set">Multibrot set</a></li>
+<li><a href="/wiki/Newton_fractal" title="Newton fractal">Newton fractal</a></li>
+<li><a href="/wiki/Tricorn_(mathematics)" title="Tricorn (mathematics)">Tricorn</a></li>
+<li><a href="/wiki/Mandelbox" title="Mandelbox">Mandelbox</a></li>
+<li><a href="/wiki/Mandelbulb" title="Mandelbulb">Mandelbulb</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Rendering_(computer_graphics)" title="Rendering (computer graphics)">Rendering</a> techniques</th><td class="navbox-list-with-group navbox-list navbox-even hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Buddhabrot" title="Buddhabrot">Buddhabrot</a></li>
+<li><a href="/wiki/Orbit_trap" title="Orbit trap">Orbit trap</a></li>
+<li><a href="/wiki/Pickover_stalk" title="Pickover stalk">Pickover stalk</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Chaos_game" title="Chaos game">Random</a> fractals</th><td class="navbox-list-with-group navbox-list navbox-odd hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Brownian_motion" title="Brownian motion">Brownian motion</a>
+<ul><li><a href="/wiki/Diffusion-limited_aggregation" title="Diffusion-limited aggregation">Brownian tree</a></li>
+<li><a href="/wiki/Brownian_motor" title="Brownian motor">Brownian motor</a></li></ul></li>
+<li><a href="/wiki/Fractal_landscape" title="Fractal landscape">Fractal landscape</a></li>
+<li><a href="/wiki/L%C3%A9vy_flight" title="Lévy flight">Lévy flight</a></li>
+<li><a href="/wiki/Percolation_theory" title="Percolation theory">Percolation theory</a></li>
+<li><a href="/wiki/Self-avoiding_walk" title="Self-avoiding walk">Self-avoiding walk</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">People</th><td class="navbox-list-with-group navbox-list navbox-even hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Michael_Barnsley" title="Michael Barnsley">Michael Barnsley</a></li>
+<li><a href="/wiki/Georg_Cantor" title="Georg Cantor">Georg Cantor</a></li>
+<li><a href="/wiki/Bill_Gosper" title="Bill Gosper">Bill Gosper</a></li>
+<li><a href="/wiki/Felix_Hausdorff" title="Felix Hausdorff">Felix Hausdorff</a></li>
+<li><a href="/wiki/Desmond_Paul_Henry" title="Desmond Paul Henry">Desmond Paul Henry</a></li>
+<li><a href="/wiki/Gaston_Julia" title="Gaston Julia">Gaston Julia</a></li>
+<li><a href="/wiki/Niels_Fabian_Helge_von_Koch" class="mw-redirect" title="Niels Fabian Helge von Koch">Niels Fabian Helge von Koch</a></li>
+<li><a href="/wiki/Paul_L%C3%A9vy_(mathematician)" title="Paul Lévy (mathematician)">Paul Lévy</a></li>
+<li><a href="/wiki/Aleksandr_Lyapunov" title="Aleksandr Lyapunov">Aleksandr Lyapunov</a></li>
+<li><a href="/wiki/Benoit_Mandelbrot" title="Benoit Mandelbrot">Benoit Mandelbrot</a></li>
+<li><a href="/wiki/Hamid_Naderi_Yeganeh" title="Hamid Naderi Yeganeh">Hamid Naderi Yeganeh</a></li>
+<li><a href="/wiki/Lewis_Fry_Richardson" title="Lewis Fry Richardson">Lewis Fry Richardson</a></li>
+<li><a href="/wiki/Wac%C5%82aw_Sierpi%C5%84ski" title="Wacław Sierpiński">Wacław Sierpiński</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Other</th><td class="navbox-list-with-group navbox-list navbox-odd hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Coastline_paradox" title="Coastline paradox">Coastline paradox</a></li>
+<li><a href="/wiki/Fractal_art" title="Fractal art">Fractal art</a></li>
+<li><a href="/wiki/List_of_fractals_by_Hausdorff_dimension" title="List of fractals by Hausdorff dimension">List of fractals by Hausdorff dimension</a></li>
+<li><i><a href="/wiki/The_Fractal_Geometry_of_Nature" title="The Fractal Geometry of Nature">The Fractal Geometry of Nature</a></i> (1982 book)</li>
+<li><i><a href="/wiki/The_Beauty_of_Fractals" title="The Beauty of Fractals">The Beauty of Fractals</a></i> (1986 book)</li>
+<li><i><a href="/wiki/Chaos:_Making_a_New_Science" title="Chaos: Making a New Science">Chaos: Making a New Science</a></i> (1987 book)</li>
+<li><a href="/wiki/Kaleidoscope" title="Kaleidoscope">Kaleidoscope</a></li>
+<li><a href="/wiki/Chaos_theory" title="Chaos theory">Chaos theory</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div class="navbox-styles"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1333133064" /><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1314944253" /></div><div role="navigation" class="navbox" aria-labelledby="Mathematics&#95;of&#95;paper&#95;folding1804" style="padding:3px"><table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1333133064" /><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1239400231" /><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv-view"><a href="/wiki/Template:Mathematics_of_paper_folding" title="Template:Mathematics of paper folding"><abbr title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Mathematics_of_paper_folding" title="Template talk:Mathematics of paper folding"><abbr title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a href="/wiki/Special:EditPage/Template:Mathematics_of_paper_folding" title="Special:EditPage/Template:Mathematics of paper folding"><abbr title="Edit this template">e</abbr></a></li></ul></div><div id="Mathematics&#95;of&#95;paper&#95;folding1804" style="font-size:114%;margin:0 4em"><a href="/wiki/Mathematics_of_paper_folding" title="Mathematics of paper folding">Mathematics of paper folding</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">Flat folding</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Big-little-big_lemma" title="Big-little-big lemma">Big-little-big lemma</a></li>
+<li><a href="/wiki/Crease_pattern" title="Crease pattern">Crease pattern</a></li>
+<li><a href="/wiki/Huzita%E2%80%93Hatori_axioms" title="Huzita–Hatori axioms">Huzita–Hatori axioms</a></li>
+<li><a href="/wiki/Kawasaki%27s_theorem" title="Kawasaki&#39;s theorem">Kawasaki's theorem</a></li>
+<li><a href="/wiki/Maekawa%27s_theorem" title="Maekawa&#39;s theorem">Maekawa's theorem</a></li>
+<li><a href="/wiki/Map_folding" title="Map folding">Map folding</a></li>
+<li><a href="/wiki/Napkin_folding_problem" title="Napkin folding problem">Napkin folding problem</a></li>
+<li><a href="/wiki/Pureland_origami" title="Pureland origami">Pureland origami</a></li>
+<li><a href="/wiki/Yoshizawa%E2%80%93Randlett_system" title="Yoshizawa–Randlett system">Yoshizawa–Randlett system</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Strip folding</th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a class="mw-selflink selflink">Dragon curve</a></li>
+<li><a href="/wiki/Flexagon" title="Flexagon">Flexagon</a></li>
+<li><a href="/wiki/M%C3%B6bius_strip" title="Möbius strip">Möbius strip</a></li>
+<li><a href="/wiki/Regular_paperfolding_sequence" title="Regular paperfolding sequence">Regular paperfolding sequence</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">3d structures</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Miura_fold" title="Miura fold">Miura fold</a></li>
+<li><a href="/wiki/Modular_origami" title="Modular origami">Modular origami</a></li>
+<li><a href="/wiki/Paper_bag_problem" title="Paper bag problem">Paper bag problem</a></li>
+<li><a href="/wiki/Rigid_origami" title="Rigid origami">Rigid origami</a></li>
+<li><a href="/wiki/Schwarz_lantern" title="Schwarz lantern">Schwarz lantern</a></li>
+<li><a href="/wiki/Sonobe" title="Sonobe">Sonobe</a></li>
+<li><a href="/wiki/Yoshimura_buckling" title="Yoshimura buckling">Yoshimura buckling</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Polyhedra</th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Alexandrov%27s_theorem_on_polyhedra" title="Alexandrov&#39;s theorem on polyhedra">Alexandrov's theorem on polyhedra</a></li>
+<li><a href="/wiki/Flexible_polyhedron" title="Flexible polyhedron">Flexible polyhedron</a> (<a href="/wiki/Bricard_octahedron" title="Bricard octahedron">Bricard octahedron</a>, <a href="/wiki/Kaleidocycle" title="Kaleidocycle">Kaleidocycle</a>, <a href="/wiki/Kokotsakis_polyhedron" title="Kokotsakis polyhedron">Kokotsakis polyhedron</a>, <a href="/wiki/Steffen%27s_polyhedron" title="Steffen&#39;s polyhedron">Steffen's polyhedron</a>)</li>
+<li><a href="/wiki/Net_(polyhedron)" title="Net (polyhedron)">Net</a>
+<ul><li><a href="/wiki/Blooming_(geometry)" title="Blooming (geometry)">Blooming</a></li>
+<li><a href="/wiki/Common_net" title="Common net">Common net</a></li>
+<li><a href="/wiki/Source_unfolding" title="Source unfolding">Source unfolding</a></li>
+<li><a href="/wiki/Star_unfolding" title="Star unfolding">Star unfolding</a></li></ul></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Miscellaneous</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Crossed_ladders_problem#Application_to_paper_folding" title="Crossed ladders problem">Crossed ladders problem §&#160;Application to paper folding</a></li>
+<li><a href="/wiki/Fold-and-cut_theorem" title="Fold-and-cut theorem">Fold-and-cut theorem</a></li>
+<li><a href="/wiki/Lill%27s_method" title="Lill&#39;s method">Lill's method</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Publications</th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><i><a href="/wiki/Geometric_Exercises_in_Paper_Folding" title="Geometric Exercises in Paper Folding">Geometric Exercises in Paper Folding</a></i></li>
+<li><i><a href="/wiki/Geometric_Folding_Algorithms" title="Geometric Folding Algorithms">Geometric Folding Algorithms</a></i></li>
+<li><i><a href="/wiki/Geometric_Origami" title="Geometric Origami">Geometric Origami</a></i></li>
+<li><i><a href="/wiki/A_History_of_Folding_in_Mathematics" title="A History of Folding in Mathematics">A History of Folding in Mathematics</a></i></li>
+<li><i><a href="/wiki/Origami_Polyhedra_Design" title="Origami Polyhedra Design">Origami Polyhedra Design</a></i></li>
+<li><i><a href="/wiki/Origamics" title="Origamics">Origamics</a></i></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">People</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Roger_C._Alperin" title="Roger C. Alperin">Roger C. Alperin</a></li>
+<li><a href="/wiki/Margherita_Piazzola_Beloch" title="Margherita Piazzola Beloch">Margherita Piazzola Beloch</a></li>
+<li><a href="/wiki/Bruno_Buchberger" title="Bruno Buchberger">Bruno Buchberger</a></li>
+<li><a href="/wiki/Yan_Chen_(mechanical_engineer)" title="Yan Chen (mechanical engineer)">Yan Chen</a></li>
+<li><a href="/wiki/Robert_Connelly" title="Robert Connelly">Robert Connelly</a></li>
+<li><a href="/wiki/Erik_Demaine" title="Erik Demaine">Erik Demaine</a></li>
+<li><a href="/wiki/Martin_Demaine" title="Martin Demaine">Martin Demaine</a></li>
+<li><a href="/wiki/Rona_Gurkewitz" title="Rona Gurkewitz">Rona Gurkewitz</a></li>
+<li><a href="/wiki/David_A._Huffman" title="David A. Huffman">David A. Huffman</a></li>
+<li><a href="/wiki/Tom_Hull_(mathematician)" title="Tom Hull (mathematician)">Tom Hull</a></li>
+<li><a href="/wiki/K%C3%B4di_Husimi" title="Kôdi Husimi">Kôdi Husimi</a></li>
+<li><a href="/wiki/Humiaki_Huzita" title="Humiaki Huzita">Humiaki Huzita</a></li>
+<li><a href="/wiki/Toshikazu_Kawasaki" title="Toshikazu Kawasaki">Toshikazu Kawasaki</a></li>
+<li><a href="/wiki/Robert_J._Lang" title="Robert J. Lang">Robert J. Lang</a></li>
+<li><a href="/wiki/Anna_Lubiw" title="Anna Lubiw">Anna Lubiw</a></li>
+<li><a href="/wiki/Jun_Maekawa" title="Jun Maekawa">Jun Maekawa</a></li>
+<li><a href="/wiki/K%C5%8Dry%C5%8D_Miura" title="Kōryō Miura">Kōryō Miura</a></li>
+<li><a href="/wiki/Joseph_O%27Rourke_(professor)" title="Joseph O&#39;Rourke (professor)">Joseph O'Rourke</a></li>
+<li><a href="/wiki/Robert_Rumely" title="Robert Rumely">Robert Rumely</a></li>
+<li><a href="/wiki/Tomohiro_Tachi" title="Tomohiro Tachi">Tomohiro Tachi</a></li>
+<li><a href="/wiki/Eve_Torrence" title="Eve Torrence">Eve Torrence</a></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw‐web.codfw.main‐6cf7b454cb‐sp48v
+Cached time: 20260412132738
+Cache expiry: 2592000
+Cache expiry source: Module:Citation/CS1 (os.date(%Y))
+Reduced expiry: false
+Complications: [vary‐revision‐sha1, prevent‐selective‐update, show‐toc]
+CPU time usage: 0.258 seconds
+Real time usage: 0.443 seconds
+Preprocessor visited node count: 1242/1000000
+Revision size: 13097/2097152 bytes
+Post‐expand include size: 51788/2097152 bytes
+Template argument size: 982/2097152 bytes
+Highest expansion depth: 12/100
+Expensive parser function count: 9/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 61064/5000000 bytes
+Lua time usage: 0.143/10.000 seconds
+Lua memory usage: 8026485/52428800 bytes
+Number of Wikibase entities loaded: 1/500
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  304.267      1 -total
+ 30.12%   91.638      1 Template:Reflist
+ 18.53%   56.392      2 Template:Navbox
+ 18.28%   55.634      1 Template:Short_description
+ 16.54%   50.335      1 Template:Fractals
+ 16.16%   49.170      3 Template:Citation
+  9.81%   29.840      1 Template:Commons
+  9.63%   29.307      2 Template:Pagetype
+  9.46%   28.775      1 Template:Sister_project
+  9.16%   27.884      1 Template:Side_box
+-->
+
+<!-- Render ID 5fb48560-3673-11f1-8f72-0db4f708a097 -->
+
+<!-- Saved in parser cache with key enwiki:pcache:367064:|#|:idhash:canonical and timestamp 20260412132738 and revision id 1342624560. Rendering was triggered because: page_view
+ -->
+</div><noscript><img src="https://en.wikipedia.org/wiki/Special:CentralAutoLogin/start?useformat=desktop&amp;type=1x1&amp;usesul3=1" alt="" width="1" height="1" style="border: none; position: absolute;"></noscript>
+<div class="printfooter" data-nosnippet="">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Dragon_curve&amp;oldid=1342624560">https://en.wikipedia.org/w/index.php?title=Dragon_curve&amp;oldid=1342624560</a>"</div></div>
+					<div id="catlinks" class="catlinks" data-mw-interface=""><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Fractal_curves" title="Category:Fractal curves">Fractal curves</a></li><li><a href="/wiki/Category:Paper_folding" title="Category:Paper folding">Paper folding</a></li><li><a href="/wiki/Category:L-systems" title="Category:L-systems">L-systems</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:Short_description_matches_Wikidata" title="Category:Short description matches Wikidata">Short description matches Wikidata</a></li><li><a href="/wiki/Category:Use_dmy_dates_from_May_2019" title="Category:Use dmy dates from May 2019">Use dmy dates from May 2019</a></li><li><a href="/wiki/Category:Pages_using_multiple_image_with_auto_scaled_images" title="Category:Pages using multiple image with auto scaled images">Pages using multiple image with auto scaled images</a></li><li><a href="/wiki/Category:Commons_link_from_Wikidata" title="Category:Commons link from Wikidata">Commons link from Wikidata</a></li></ul></div></div>
+				</div>
+			</main>
+			
+		</div>
+		<div class="mw-footer-container">
+			
+<footer id="footer" class="mw-footer" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> This page was last edited on 9 March 2026, at 23:34<span class="anonymous-show">&#160;(UTC)</span>.</li>
+	<li id="footer-info-copyright">Text is available under the <a href="/wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License" title="Wikipedia:Text of the Creative Commons Attribution-ShareAlike 4.0 International License">Creative Commons Attribution-ShareAlike 4.0 License</a>;
+additional terms may apply. By using this site, you agree to the <a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use" class="extiw" title="foundation:Special:MyLanguage/Policy:Terms of Use">Terms of Use</a> and <a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy" class="extiw" title="foundation:Special:MyLanguage/Policy:Privacy policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a rel="nofollow" class="external text" href="https://wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy">Privacy policy</a></li>
+	<li id="footer-places-about"><a href="/wiki/Wikipedia:About">About Wikipedia</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/Wikipedia:General_disclaimer">Disclaimers</a></li>
+	<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+	<li id="footer-places-legal-safety-contacts"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:Wikimedia_Foundation_Legal_and_Safety_Contact_Information">Legal &amp; safety contacts</a></li>
+	<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct">Code of Conduct</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Developers</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Cookie statement</a></li>
+	<li id="footer-places-mobileview"><a href="//en.wikipedia.org/w/index.php?title=Dragon_curve&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://www.wikimedia.org/" class="cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"><picture><source media="(min-width: 500px)" srcset="/static/images/footer/wikimedia-button.svg" width="84" height="29"><img src="/static/images/footer/wikimedia.svg" width="25" height="25" alt="Wikimedia Foundation" lang="en" loading="lazy"></picture></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/" class="cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"><picture><source media="(min-width: 500px)" srcset="/w/resources/assets/poweredby_mediawiki.svg" width="88" height="31"><img src="/w/resources/assets/mediawiki_compact.svg" alt="Powered by MediaWiki" lang="en" width="25" height="25" loading="lazy"></picture></a></li>
+</ul>
+
+</footer>
+
+		</div>
+	</div> 
+</div> 
+<div class="vector-header-container vector-sticky-header-container no-font-mode-scale">
+	<div id="vector-sticky-header" class="vector-sticky-header">
+		<div class="vector-sticky-header-start">
+			<div class="vector-sticky-header-icon-start vector-button-flush-left" aria-hidden="true">
+				<button class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-sticky-header-search-toggle" tabindex="-1" data-event-name="ui.vector-sticky-search-form.icon"><span class="vector-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
+
+<span>Search</span>
+			</button>
+		</div>
+			
+		<div role="search" class="vector-search-box-vue  vector-search-box-show-thumbnail vector-search-box">
+			<div class="vector-typeahead-search-container">
+				<div class="cdx-typeahead-search cdx-typeahead-search--show-thumbnail">
+					<form action="/w/index.php" id="vector-sticky-search-form" class="cdx-search-input cdx-search-input--has-end-button">
+						<div  class="cdx-search-input__input-wrapper"  data-search-loc="header-moved">
+							<div class="cdx-text-input cdx-text-input--has-start-icon">
+								<input
+									class="cdx-text-input__input mw-searchInput" autocomplete="off"
+									
+									type="search" name="search" placeholder="Search Wikipedia">
+								<span class="cdx-text-input__icon cdx-text-input__start-icon"></span>
+							</div>
+							<input type="hidden" name="title" value="Special:Search">
+						</div>
+						<button class="cdx-button cdx-search-input__end-button">Search</button>
+					</form>
+				</div>
+			</div>
+		</div>
+		<div class="vector-sticky-header-context-bar">
+				<nav aria-label="Contents" class="vector-toc-landmark">
+						
+					<div id="vector-sticky-header-toc" class="vector-dropdown mw-portlet mw-portlet-sticky-header-toc vector-sticky-header-toc vector-button-flush-left"  >
+						<input type="checkbox" id="vector-sticky-header-toc-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-sticky-header-toc" class="vector-dropdown-checkbox "  aria-label="Toggle the table of contents"  >
+						<label id="vector-sticky-header-toc-label" for="vector-sticky-header-toc-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-listBullet mw-ui-icon-wikimedia-listBullet"></span>
+
+<span class="vector-dropdown-label-text">Toggle the table of contents</span>
+						</label>
+						<div class="vector-dropdown-content">
+					
+						<div id="vector-sticky-header-toc-unpinned-container" class="vector-unpinned-container">
+						</div>
+					
+						</div>
+					</div>
+			</nav>
+				<div class="vector-sticky-header-context-bar-primary" aria-hidden="true" ><span lang="en" dir="ltr"><span class="mw-page-title-main">Dragon curve</span></span></div>
+			</div>
+		</div>
+		<div class="vector-sticky-header-end" aria-hidden="true">
+			<div class="vector-sticky-header-icons">
+				<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-talk-sticky-header" tabindex="-1" data-event-name="talk-sticky-header"><span class="vector-icon mw-ui-icon-speechBubbles mw-ui-icon-wikimedia-speechBubbles"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-subject-sticky-header" tabindex="-1" data-event-name="subject-sticky-header"><span class="vector-icon mw-ui-icon-article mw-ui-icon-wikimedia-article"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-history-sticky-header" tabindex="-1" data-event-name="history-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-history mw-ui-icon-wikimedia-wikimedia-history"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only mw-watchlink" id="ca-watchstar-sticky-header" tabindex="-1" data-event-name="watch-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-star mw-ui-icon-wikimedia-wikimedia-star"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-edit-sticky-header" tabindex="-1" data-event-name="wikitext-edit-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-wikiText mw-ui-icon-wikimedia-wikimedia-wikiText"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-ve-edit-sticky-header" tabindex="-1" data-event-name="ve-edit-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-edit mw-ui-icon-wikimedia-wikimedia-edit"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-viewsource-sticky-header" tabindex="-1" data-event-name="ve-edit-protected-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-editLock mw-ui-icon-wikimedia-wikimedia-editLock"></span>
+
+<span></span>
+			</a>
+		</div>
+			<div class="vector-sticky-header-buttons">
+				<button class="cdx-button cdx-button--weight-quiet mw-interlanguage-selector" id="p-lang-btn-sticky-header" tabindex="-1" data-event-name="ui.dropdown-p-lang-btn-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-language mw-ui-icon-wikimedia-wikimedia-language"></span>
+
+<span>20 languages</span>
+			</button>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive" id="ca-addsection-sticky-header" tabindex="-1" data-event-name="addsection-sticky-header"><span class="vector-icon mw-ui-icon-speechBubbleAdd-progressive mw-ui-icon-wikimedia-speechBubbleAdd-progressive"></span>
+
+<span>Add topic</span>
+			</a>
+		</div>
+			<div class="vector-sticky-header-icon-end">
+				<div class="vector-user-links">
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="mw-portlet mw-portlet-dock-bottom emptyPortlet" id="p-dock-bottom">
+	<ul>
+		
+	</ul>
+</div>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw-web.codfw.main-6cf7b454cb-l2sht","wgBackendResponseTime":124,"wgPageParseReport":{"limitreport":{"cputime":"0.258","walltime":"0.443","ppvisitednodes":{"value":1242,"limit":1000000},"revisionsize":{"value":13097,"limit":2097152},"postexpandincludesize":{"value":51788,"limit":2097152},"templateargumentsize":{"value":982,"limit":2097152},"expansiondepth":{"value":12,"limit":100},"expensivefunctioncount":{"value":9,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":61064,"limit":5000000},"entityaccesscount":{"value":1,"limit":500},"timingprofile":["100.00%  304.267      1 -total"," 30.12%   91.638      1 Template:Reflist"," 18.53%   56.392      2 Template:Navbox"," 18.28%   55.634      1 Template:Short_description"," 16.54%   50.335      1 Template:Fractals"," 16.16%   49.170      3 Template:Citation","  9.81%   29.840      1 Template:Commons","  9.63%   29.307      2 Template:Pagetype","  9.46%   28.775      1 Template:Sister_project","  9.16%   27.884      1 Template:Side_box"]},"scribunto":{"limitreport-timeusage":{"value":"0.143","limit":"10.000"},"limitreport-memusage":{"value":8026485,"limit":52428800},"limitreport-logs":"anchor_id_list = table#1 {\n    [\"CITEREFBaileyKimStrichartz2002\"] = 1,\n    [\"CITEREFBernt_WahlPeter_van_RoyMichael_LarsenEric_Kampman1994\"] = 1,\n    [\"CITEREFEdgar2008\"] = 1,\n    [\"CITEREFTabachnikov2014\"] = 1,\n}\ntemplate_list = table#1 {\n    [\"Citation\"] = 3,\n    [\"Cite book\"] = 1,\n    [\"Cite web\"] = 5,\n    [\"Commons\"] = 1,\n    [\"Fractals\"] = 1,\n    [\"Harvtxt\"] = 1,\n    [\"ISBN\"] = 1,\n    [\"Mapsto\"] = 3,\n    [\"Mathematics of paper folding\"] = 1,\n    [\"Mathworld\"] = 1,\n    [\"Multiple image\"] = 1,\n    [\"Redirect\"] = 1,\n    [\"Redirects\"] = 1,\n    [\"Reflist\"] = 1,\n    [\"See also\"] = 1,\n    [\"Short description\"] = 1,\n    [\"Use dmy dates\"] = 1,\n}\narticle_whitelist = table#1 {\n}\nciteref_patterns = table#1 {\n}\n"},"cachereport":{"origin":"mw-web.codfw.main-6cf7b454cb-sp48v","timestamp":"20260412132738","ttl":2592000,"transientcontent":false,"expiry-source":"Module:Citation/CS1 (os.date(%Y))"}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Dragon curve","url":"https:\/\/en.wikipedia.org\/wiki\/Dragon_curve","sameAs":"http:\/\/www.wikidata.org\/entity\/Q643749","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q643749","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2003-11-15T07:01:36Z","dateModified":"2026-03-09T23:34:26Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/6\/69\/Fractal_dragon_curve.jpg","headline":"fractal constructible with L-systems"}</script>
+</body>
+</html>

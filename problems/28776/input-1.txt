@@ -1,0 +1,9 @@
+2 1
+bba
+abacaba
+2
+4
+b
+ababbab
+abacabba
+caba

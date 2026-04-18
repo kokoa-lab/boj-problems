@@ -1,0 +1,41 @@
+---
+title: Growing Some Oobleck
+special_judge: true
+time_limit: 1 초 (추가 시간 없음)
+memory_limit: 1024 MB
+submissions: 29
+accepted: 10
+solved_users: 10
+acceptance_rate: 35.714%
+collected_at: 2026-04-17T17:11:13.366188+00:00
+---
+
+## 문제
+
+Oobleck is a fascinating magical substance --- leave it in sunlight and it grows in an ever-expanding circle.  If two circles ever manage to touch each other, both circles magically merge into one combined circle with area equal to the total of the combined areas of both circles and center at the midpoint of the centers of the two intersecting circles.  The expansion rate of this new circle is the maximum rate of both colliding circles.  An example of this is shown in Figures F.1 and F.2.
+
+![](./001_preview)
+
+Figure F.1: Circle A has center $(10,10)$, radius $6$ and area $36\pi$; circle B has center $(24,10)$, radius $8$ and area $64\pi$.
+
+![](./002_preview)
+
+Figure F.2: After they merge, they are replaced by circle C with center $(17,10)$, radius $10$ and area $100\pi$.
+
+After a new circle is created it may intersect other existing circles, causing a chain reaction of merges.  This combination of an intersection followed by one or more merges is technically known as an *ooblection*.  Ooblections occur instantaneously at the moment of the initial intersection even though they may contain a cascade of merges.  If three or more circles are involved in a merge  the resulting circle has its center at the average of the centers of all of the circles involved and the resulting area is the sum of all the areas of the circles involved.  The expansion rate of the final circle after an ooblection is the maximum rate of any circle involved.
+
+![](./003_preview)
+
+Figure F.3: A five-circle ooblection.
+
+An example of a five-circle ooblection is shown in Figure F.3 (described in Sample Input $2$).  At time $t=1$ the circles have expanded to the point shown in Figure F.3a.  At that time circles A and B merge to form circle F (Figure F.3b).  Circle F intersects circles C and D, merging to form circle G (Figure F.3c). Finally circle G intersects circle E resulting in the final circle H (Figure F.3d).  All of this takes place at time $t=1$.  Circle H has an expansion rate equal to the maximum expansion rate of circles A through E (using the values in Sample Input 2 this maximum growth speed is 2).
+
+Eventually as any set of circles grow, they will eventually ooblect into a single circle.  Your task is to find the position and area of that circle the moment it is created.
+
+## 입력
+
+The input sequence begins with a positive integer $n$ ($n \leq 100$), the number of circles. There then follows $n$ lines, one for each circle.  Each line consists of $4$ numbers: $x$ $y$ $r$ and $s$:  $x$ and $y$ ($-10^9 \leq x,y \leq 10^9$) specifies the location of the radius of the circle;  $r$ ($1 \leq r \leq 10^6$) is the initial radius of the circle;  $s$ ($1 \leq s \leq 10^6$) is the expansion rate of the circle. No two circles listed in the input are touching. At most one ooblection begins at any given moment in time, and each ooblection starts with the touching of exactly two circles.
+
+## 출력
+
+Output two lines.  The first line will contain two numbers $x$ $y$, the location of the center of the final circle at the moment it is created.  The second line will contain the radius of that circle.  Your answers should be accurate to a relative or absolute error of $10^{-6}$.

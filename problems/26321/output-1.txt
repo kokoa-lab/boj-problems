@@ -1,0 +1,14 @@
+Puzzle #1:
+TC SC SS
+RV RC SV
+TS TV RS
+
+Puzzle #2:
+TV RS TS
+SC SV TC
+SS RV RC
+
+Puzzle #3:
+TV TC RV
+SS SC RS
+TS SV RC

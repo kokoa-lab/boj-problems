@@ -1,0 +1,29 @@
+---
+title: Almost Origami
+special_judge: true
+time_limit: 1 초
+memory_limit: 1024 MB
+submissions: 50
+accepted: 23
+solved_users: 21
+acceptance_rate: 50.000%
+collected_at: 2026-04-17T16:18:12.280055+00:00
+---
+
+## 문제
+
+You have a rectangular sheet of paper of height 1 and you want to locate any point at height H measured from the bottom border of the sheet. Since you do not know Haga’s theorems, you plan to repeat the following step. Assume you already located a point PL at height L on the left border of the sheet, and a point PR at height R on the right border of the sheet. Then you draw a line from the lower left corner of the sheet to PR, and another line from the lower right corner of the sheet to PL. If the crossing point is at height H, then you are done. Otherwise you draw a horizontal line that passes through the crossing point and go for another step.
+
+As an example, consider the case H = 1/3. During the first step, the only possibility is choosing the upper corners of the sheet (that is, L = R = 1). So you draw the two diagonals of the sheet, and the crossing point is at height 1/2. Since H ≠ 1/2, you draw a horizontal line that passes through the crossing point. This line provides two new points with known height 1/2 on the borders of the sheet, one on the left border and the other one on the right border. For the second step you can choose between using the original known points at height 1, or the points you have just located at height 1/2. That is, you can choose either L = 1 or L = 1/2 and of course R = 1 or R = 1/2. It is easy to see that if you choose L = R = 1/2, then the crossing point would be at height 1/4. However, if you choose L = 1/2 and R = 1, then the crossing point would be at the desired height H = 1/3. By symmetry, the same occurs if you choose L = 1 and R = 1/2.
+
+Given a rational height H, you must determine a shortest sequence of heights on the borders of the sheet that allows locating a point at height H.
+
+As the above example shows, only a point at height 1/2 can be located in a single step, and so a possible shortest sequence for H = 1/3 is S = (1, 1, 1/2, 1). The first two heights must be chosen during the first step, and the remaining two heights must be chosen during the second step.
+
+## 입력
+
+The input consists of a single line that contains two integers M and N (1 ≤ M < N ≤ 100) such that H = M/N is an irreducible fraction.
+
+## 출력
+
+Output a single line with the character “\*” (asterisk) if a point at height H cannot be located by means of the described procedure. Otherwise, output a shortest sequence of heights S1, S2, . . . , SK that allows locating a point at height H, if they are chosen in the order they appear in the sequence. Height Si must be written in the i-th line using two integers Ai and Bi such that Si = Ai/Bi is an irreducible fraction (i = 1, 2, . . . , K). It is guaranteed that when a point at height H can be located, it can be optimally located choosing only rational heights.

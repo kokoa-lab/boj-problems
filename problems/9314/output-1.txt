@@ -1,0 +1,3 @@
+Disputed: 2.000
+Claimed: 6.000
+Unclaimed: 10.000

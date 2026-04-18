@@ -1,0 +1,4 @@
+20
+alotofeggcellenteggs
+14
+[only]*(egg)*?

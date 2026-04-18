@@ -1,0 +1,20 @@
+2
+2 3
+AbC
+aBc
+1 5
+12345
+4
+1 10
+1234567890
+5 5
+ABCDE
+BCDEA
+CDEAB
+DEABC
+EABCD
+1 4
+
+1 5
+abcd
+0

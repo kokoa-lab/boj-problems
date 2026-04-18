@@ -1,0 +1,10 @@
+9
+swap
+copy
+roll
+fuse
+copy
+fuse
+copy
+roll
+fuse

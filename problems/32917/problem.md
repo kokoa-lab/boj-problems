@@ -1,0 +1,42 @@
+---
+title: Brick in the Wall, Part 2
+special_judge: false
+time_limit: 5 초
+memory_limit: 2048 MB
+submissions: 8
+accepted: 4
+solved_users: 3
+acceptance_rate: 50.000%
+collected_at: 2026-04-17T20:04:36.278541+00:00
+---
+
+## 문제
+
+Barrett has discovered an ancient maze under his house. It has the shape of an $n \times m$ grid, where some cells are empty, while others are blocked. It is possible to walk from one empty cell to another if they share a side. Two of the empty cells are an entrance and an exit, and it is possible to reach one from the other by walking through empty cells.
+
+Barrett wants to isolate his house by building a wall inside the maze, blocking some cells to make the exit unreachable from the entrance. The wall should be straight and oriented either vertically or horizontally. Specifically, a wall of length $k$ will block a consecutive row or column of exactly $k$ cells. The wall may not contain the entrance, the exit, or any already blocked cells.
+
+Help Barrett determine the minimum possible length of the wall.
+
+## 입력
+
+Each test contains multiple test cases. The first line contains the number of test cases $t$ ($1 \le t \le 10^5$). The description of the test cases follows.
+
+The first line of each test case contains two integers $n$ and $m$, denoting the height and the width of the maze ($2 \le n, m \le 1000$).
+
+The $i$-th of the following $n$ lines contains $m$ characters and describes the $i$-th row of the maze, where:
+
+* '`.`' denotes an empty cell;
+* '`#`' denotes a blocked cell;
+* '`s`' denotes an entrance cell;
+* '`f`' denotes an exit cell.
+
+The maze contains exactly one entrance cell and exactly one exit cell, and it is possible to reach one from the other by walking through empty cells.
+
+It is guaranteed that the sum of $n \cdot m$ over all test cases does not exceed $10^6$.
+
+## 출력
+
+For each test case, print the minimum length of the wall required to make the exit unreachable from the entrance.
+
+If it is impossible to build such a wall, print $-1$ instead.

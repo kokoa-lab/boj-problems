@@ -1,0 +1,81 @@
+import java.io.PrintWriter;
+import java.util.Random;
+
+public class Generator {
+	public static void main(String[] args) {
+		PrintWriter out = new PrintWriter(System.out);
+		int seed = Integer.parseInt(args[0]);
+		Random rnd = new Random(seed);
+
+		char directSpeech = '\"';
+		if (rnd.nextBoolean()) {
+			directSpeech = '\'';
+		}
+		double directSpeechProbability = 0.2 + rnd.nextDouble() / 2;
+		double nameProbability = 0.2 + rnd.nextDouble() / 2;
+		double commaProbability = 0.2 + rnd.nextDouble() / 4;
+		double exclamationMarkProbability = 0.2 + rnd.nextDouble() / 4;
+		double questionMarkProbability = 0.2 + rnd.nextDouble() / 4;
+		double dotsProbability = 0.1 + rnd.nextDouble() / 6;
+
+		int countOfLines = 50 + rnd.nextInt(200);
+		for (int i = 0; i < countOfLines; i++) {
+			int countOfSentences = 1 + rnd.nextInt(10);
+			for (int j = 0; j < countOfSentences; j++) {
+
+				int countOfWords = 1 + rnd.nextInt(10);
+				int endOfDirectSpeech = 1 + rnd.nextInt(countOfWords);
+				boolean directSpeechNow = (rnd.nextDouble() < directSpeechProbability);
+
+				if (directSpeechNow) {
+					out.print(directSpeech);
+				}
+				for (int k = 0; k < countOfWords; k++) {
+					out.print(word(k == 0
+							|| (rnd.nextDouble() < nameProbability), rnd));
+					if (k == endOfDirectSpeech - 1 && directSpeechNow) {
+						out.print(directSpeech);
+					}
+					if (k == countOfWords - 1)
+						break;
+					if (rnd.nextDouble() < commaProbability) {
+						out.print(", ");
+					} else {
+						out.print(" ");
+					}
+				}
+				if (rnd.nextDouble() < exclamationMarkProbability) {
+					out.print("!");
+				} else {
+					if (rnd.nextDouble() < questionMarkProbability) {
+						out.print("?");
+					} else {
+						if (rnd.nextDouble() < dotsProbability) {
+							out.print("...");
+						} else {
+							out.print(".");
+						}
+					}
+				}
+				if (j != countOfSentences - 1) {
+					out.print(" ");
+				} else {
+					out.println();
+				}
+			}
+		}
+		out.close();
+	}
+
+	static String word(boolean bigFirstLetter, Random rnd) {
+		int length = 1 + rnd.nextInt(10);
+		char[] word = new char[length];
+		for (int i = 0; i < length; i++) {
+			word[i] = (char) (rnd.nextInt(26) + 'a');
+		}
+		if (bigFirstLetter) {
+			word[0] = Character.toUpperCase(word[0]);
+		}
+		return new String(word);
+	}
+}

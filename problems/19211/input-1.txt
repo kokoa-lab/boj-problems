@@ -1,0 +1,9 @@
+5 7
+1 2 3 4 5
+sum 1 5
+link 3 5
+link 1 3
+link 4 2
+sum 1 5
+set 5 -1
+sum 1 5

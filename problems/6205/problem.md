@@ -1,0 +1,31 @@
+---
+title: The Fewest Coins
+special_judge: false
+time_limit: 1 초
+memory_limit: 128 MB
+submissions: 168
+accepted: 45
+solved_users: 34
+acceptance_rate: 30.088%
+collected_at: 2026-04-17T11:22:36.420480+00:00
+---
+
+## 문제
+
+Farmer John has gone to town to buy some farm supplies. Being a very efficient man, he always pays for his goods in such a way that the smallest number of coins changes hands, i.e., the number of coins he uses to pay plus the number of coins he receives in change is minimized. Help him to determine what this minimum number is.
+
+FJ wants to buy T (1 <= T <= 10,000) cents of supplies.  The currency system has N (1 <= N <= 100) different coins, with values V1, V2, ..., VN (1 <= Vi <= 120). Farmer John is carrying C1 coins of value V1, C2 coins of value V2, ...., and CN coins of value VN (0 <= Ci <= 10,000). The shopkeeper has an unlimited supply of all the coins, and always makes change in the most efficient manner (although Farmer John must be sure to pay in a way that makes it possible to make the correct change).
+
+## 입력
+
+* Line 1: Two space-separated integers: N and T.
+* Line 2: N space-separated integers, respectively V1, V2, ..., VN coins (V1...VN).
+* Line 3: N space-separated integers, respectively C1, C2, ..., CN
+
+## 출력
+
+* Line 1: A line containing a single integer, the minimum number of coins involved in a payment and change-making. If it is impossible for Farmer John to pay and receive exact change, output -1.
+
+## 힌트
+
+Farmer John pays 75 cents using a 50 cents and a 25 cents coin, and receives a 5 cents coin in change, for a total of 3 coins used in the transaction.

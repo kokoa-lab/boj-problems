@@ -1,0 +1,25 @@
+---
+title: Lost Lists
+special_judge: false
+time_limit: 1 초
+memory_limit: 128 MB
+submissions: 0
+accepted: 0
+solved_users: 0
+acceptance_rate: 0.000%
+collected_at: 2026-04-17T12:06:00.251766+00:00
+---
+
+## 문제
+
+Younghee an elementary school student just finished her homework. Today her teacher gave her several lists each containing distinct positive integers. The homework was to calculate every sum of each pair of integers in a list. The teacher gave students mutually different lists for preventing copying out. So, she had to do the homework all by herself. It was hard job because she is not so good at arithmetic and pretty many lists were given. After finishing her homework Younghee went out to play with her friends. When Younghee returned to home she found out the lists were lost. Only the papers she wrote the sums were there. Younghee should return the lists at the next class because her teacher would check up her homework with the lists. Finally Younghee found out who did it. Her mother thought the lists as garbage and threw them into the garbage can and emptied it. Soon after listening to her mother, Younghee ran to the garbage box in the outside. Alas! The garbage collector already emptied the box. After a little consideration Younghee thinks there might be a way to restore the lists. She calls you and asks you to help her.
+
+In this problem, you are to solve Younghee ’s trouble. For each list of sums Younghee wrote, your program should restore the list of distinct integers. But, Younghee is not so good at arithmetic. So, there can be a list of sums which is not restorable, that is, there does not exist a list of integers which leads to the sums. In that case your program should print -1.
+
+## 입력
+
+The input contains T test cases. The first line of input contains a single integer (T) representing the number of test cases which is exactly the number of lists Younghee received from her teacher. Each test case begins with a line containing an integer n, 2<n<50, indicating the number of integers in a list. In the next line, there are n(n-1)/2 positive integers which are the sums of all possible pairs in non-decreasing order. Each number in the sums will be less than 10000.
+
+## 출력
+
+Print exactly one line for each test case. The output should consist of n distinct positive integers in increasing order, if restorable. If not restorable, -1 should be printed. Numbers should be separated by a single space.

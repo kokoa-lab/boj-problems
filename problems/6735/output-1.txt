@@ -1,0 +1,5 @@
+Put "The C programming language" first
+Put "Algorithms" after "The C programming language"
+END
+Put "The Canterbury tales" first
+END

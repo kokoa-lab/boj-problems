@@ -1,0 +1,11 @@
+----------------------------------------
+Width = 10 Height = 8
+Player 0:
+  Start: (2, 4)
+  Segs:  L 3 R 9
+Player 1:
+  Start: (5, 4)
+  Segs:  L 1 L 5
+Game ends at time 4
+Player 0 final position: (3, 7) --> alive
+Player 1 final position: (2, 5) --> dead

@@ -20,7 +20,6 @@ venv/
 .env.*
 
 # Crawler outputs (generated)
-problems/
 logs.txt
 crawler.log
 

@@ -1,0 +1,31 @@
+---
+title: Mirror Strings
+special_judge: false
+time_limit: 1 초
+memory_limit: 1024 MB
+submissions: 36
+accepted: 33
+solved_users: 27
+acceptance_rate: 90.000%
+collected_at: 2026-04-17T19:33:23.157936+00:00
+---
+
+## 문제
+
+A character is called a “mirror character” if it looks the same when flipped up and down, and the same when flipped left and right. The uppercase mirror characters, `H`, `I`, `O`, `X`. The lowercase mirror characters are `l` (since people often write this as a vertical line), `o`, and `x`.
+
+In the same way, a string that looks the same when flipped up and down or when flipped left and right is called a “mirror string”. For example, `XXOOOOXX` is a mirror string.
+
+The height of the character affects the construction of the mirror string. For example, `llll` and `oooo` are both mirror strings. However, `lool` is not a mirror string because it looks different when it is flipped up and down. The uppercase characters `H`, `I`, `O`, `X` and the lowercase character `l` are both of height $2$ while the lowercase letters `x` and `o` are of height 1.
+
+Tommy wants to construct mirror strings with lower characters and upper characters. He wants to know how many different mirror strings have length in the range $[L, R]$ (i.e. how many mirror strings have a length $m$ satisfying $L \leq m \leq R$).
+
+For example, the $7$ mirror strings of length $1$ are `H`, `I`, `O`, `X`, `l`, `o`, or `x`. There are also $7$ mirror strings of length $2$, namely `HH`, `II`, `OO`, `XX`, `ll`, `oo`, and `xx`. But there are many more mirror strings of bigger lengths, for example there are $29$ mirror strings of length $3$.
+
+## 입력
+
+The first and only line of input contains two integers $L$ and $R$ ($1 \leq L \leq R \leq 10^6$), indicating the range of the lengths of mirror strings that Tommy wants to count.
+
+## 출력
+
+Output the number of mirror strings that have a length $m$ satisfing $L \leq m \leq R$. Since there can be many such strings, you should output the answer modulo $10^9 + 7$ (i.e. the remainder of the answer when it is divided by $10^9 + 7$).

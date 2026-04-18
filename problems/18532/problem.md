@@ -1,0 +1,37 @@
+---
+title: Editing Explosion
+special_judge: false
+time_limit: 10 초 (추가 시간 없음)
+memory_limit: 512 MB
+submissions: 24
+accepted: 22
+solved_users: 22
+acceptance_rate: 91.667%
+collected_at: 2026-04-17T15:06:06.838420+00:00
+---
+
+## 문제
+
+> Charles complains to Ada, “That Keats! So many spelling errors in this manuscript! How will I get them all fixed?”
+>
+> Ada responds, “I’ve got a routine in the Engine that will help you. For a given word, it considers small errors and finds all the words that are close to that word, so they can be looked up in a lexicon of English. Here, hold my tea and watch this.”
+>
+> Ada punches and threads cards furiously, then starts the Engine. Steam pours out of the boilers, and the Engine rumbles softly then more quickly, shaking the room, until finally an overloaded cam jams and the machine comes to a sudden halt.
+>
+> “Hmm,” Ada muses, “I thought I had that worked out.”
+
+The Levenshtein Distance between two strings is the smallest number of simple one-letter operations needed to change one string to the other. The operations are:
+
+* Adding a letter anywhere in the string.
+* Removing a letter from anywhere in the string.
+* Changing any letter in the string to any other letter.
+
+You are given an input string on the alphabet ‘A’-‘Z’ and a Levenshtein distance. Output the count of distinct strings on the alphabet ‘A’-‘Z’, that are at exactly that Levenshtein distance from the input string. Since this number may be large, output it modulo the prime 998,244,353.
+
+## 입력
+
+The single line of input contains a string s (1 ≤ |s| ≤ 10, s contains only upper-case letters) followed by a space, and then an integer d (0 ≤ d ≤ 10), where s is the string in question and d is the Levenshtein distance of interest.
+
+## 출력
+
+Output a single integer, which is the count of distinct strings that are at Levenshtein distance d from the input string s, in the alphabet ‘A’-‘Z’, modulo 998,244,353. Note that the empty string is considered a valid result string.

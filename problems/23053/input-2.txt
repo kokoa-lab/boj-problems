@@ -1,0 +1,6 @@
+5 5
+bridgetown
+georgetown
+freetown
+capetown
+kingstown

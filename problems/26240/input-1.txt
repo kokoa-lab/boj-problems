@@ -1,0 +1,24 @@
+8
+3 0
+5 3 7 6 12
+17 1 20
+7 0
+6 0
+12 0
+20 0
+666 3 3 5 17
+14
+remove 17 20
+render
+remove 666 5
+add 5 20
+modify 20
+render
+add 3 5
+render
+modify 5
+render
+remove 3 5
+add 666 5
+render
+modify 666

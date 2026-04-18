@@ -1,0 +1,24 @@
+            E
+            X
+MATCHES   PICNIC
+   H        U
+   E        S
+   E        E
+   S        S
+   E
+   C
+   A
+   K
+   E
+
+Unable to make two crosses
+
+V
+A   LETTER
+N     R
+I     I
+S     C
+H     K
+I
+N
+G

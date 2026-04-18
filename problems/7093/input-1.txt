@@ -1,0 +1,7 @@
+5
+4 4
+W W W W W
+W W D P W
+W D P W W 
+W P D P W
+W E W W W

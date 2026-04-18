@@ -1,0 +1,8 @@
+Fragfest City #1
+Player A is hiding
+Player B is hiding
+Player C is in sight
+Fragfest City #2
+Player A is in sight
+Player B is hiding
+Player C is in sight

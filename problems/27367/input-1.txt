@@ -1,0 +1,3 @@
+solve(
+/* subtask id = */ 1,
+/* N =          */ 1)

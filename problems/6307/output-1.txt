@@ -1,0 +1,3 @@
+Simulation 1
+Average wait time   = 17.250 minutes
+Average utilization = 71.875 %

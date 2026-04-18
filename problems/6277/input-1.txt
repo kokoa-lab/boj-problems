@@ -1,0 +1,22 @@
+2
+8 6
+XXXXXX
+X.T..X
+X....X
+X....X
+X....X
+X....X
+X....X
+XXXXXX
+5 3
+1
+4 3
+5 4
+XXXX
+X.XX
+X..X
+XT.X
+XXXX
+1 1
+1
+2 1

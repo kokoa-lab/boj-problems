@@ -1,0 +1,9 @@
+5 3
+bbbbb
+bcbcb
+bbbbb
+bcccb
+bbbbb
+3 3
+2
+LU

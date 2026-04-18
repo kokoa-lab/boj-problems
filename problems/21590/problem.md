@@ -1,0 +1,31 @@
+---
+title: Investigating Imposters
+special_judge: false
+time_limit: 1 초
+memory_limit: 1024 MB
+submissions: 71
+accepted: 42
+solved_users: 40
+acceptance_rate: 65.574%
+collected_at: 2026-04-17T16:00:56.270743+00:00
+---
+
+## 문제
+
+You have stumbled upon a village. In this village, some of the people are “imposters”, while the rest are not. Fortunately, you know that the number of possible imposters is limited!
+
+You would like to determine who is not an imposter in this village. To do so, you ask each villager to submit a list of some villagers who are not imposters.
+
+Non-imposters will only submit lists that contain other non-imposter names, while there is no such restriction for imposters. Imposters’ lists could contain imposters or non-imposters.
+
+Given the lists of each villager, determine whether they could possibly be an imposter, or are definitely not an imposter.
+
+## 입력
+
+The first line of input contains two space-separated integers $n$ and $k$ ($1 \le k \le n \le 500$), where $n$ is the number of villagers and $k$ is the maximum possible number of imposters. The villagers are numbered from 1 to $n$.
+
+Each of the next $n$ lines describes a villager, where the $i$th line represents the list of villager i. The $i$th line starts with an integer $s$ ($0 \le s \le n$), which is the number of people on villager $i$’s list of non-imposters. Then there will follow s distinct integers denoting the villagers on villager $i$’s list of non-imposters. It is possible for a villager to appear on their own list. All of the villagers on any given list will be distinct.
+
+## 출력
+
+Output $n$ lines, each with a single integer. The $i$th line should contain 0 if the villager represented by the $i$th list in the input could possibly be an imposter, and 1 if that villager is definitely not an imposter.

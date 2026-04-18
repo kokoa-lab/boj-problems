@@ -1,0 +1,3 @@
+FUNCTION kipa { FUNCTION minty { REFER minty } { REFER kipa } }
+FUNCTION silver { FUNCTION kipa { REFER mountguy } REFER silver }
+FUNCTION minty { DEFINE silver REFER kipa REFER silver }

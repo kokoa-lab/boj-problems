@@ -1,0 +1,2 @@
+Test case #1: closed surface, volume=1
+Test case #2: not a closed surface

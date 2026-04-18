@@ -1,0 +1,17 @@
+2
+helloworld
+7
+he 5
+hello 9
+llo 2
+lo 3
+wo 6
+wor 4
+world 8
+atatata
+5
+a 7
+at 3
+ta 6
+t 4
+att 5

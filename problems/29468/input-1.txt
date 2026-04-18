@@ -1,0 +1,10 @@
+3 2
+Petya 1
+Vasya 2
+Gena 3
+2
+Vasya 2 -2 10.0.0.1
+Petya 10 2 10.0.0.2
+2
+Gena 100 0 10.0.0.1
+Petya 10 0 10.0.0.2

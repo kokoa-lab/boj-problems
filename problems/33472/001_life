@@ -1,0 +1,1779 @@
+<!DOCTYPE html>
+<html lang="ko" class="scroll-disable">
+<head>
+<title>LIFE | 현대모비스 채용 (MOBIS Careers)</title>
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="X-UA-Compatible" content="ie=edge">
+<meta name="format-detection" content="telephone=no" />
+
+<link rel="canonical" href="https://careers.mobis.com">
+<meta name="description" content="현대모비스 공식 채용 페이지. 전동화, SW, 연구개발 등 핵심 직무의 신입·경력 채용 정보를 확인하세요.">
+<meta name="keywords" content="현대모비스, 채용, 신입, 경력, 인재채용, 채용정보, 채용공고, 신입채용, 경력채용, 현대모비스, 모비스, 현대모비스 채용, 모비스 채용">
+
+<meta id="ogTit" property="og:title" content="LIFE | 현대모비스 채용 (MOBIS Careers)">
+<meta id="ogDesc" property="og:description" content="현대모비스 공식 채용 페이지. 전동화, SW, 연구개발 등 핵심 직무의 신입·경력 채용 정보를 확인하세요.">
+<meta id="ogImg" property="og:image" content="http://careers.mobis.com/favicon/ogImage.jpg">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="현대모비스 채용 (MOBIS Careers)">
+<meta property="og:url" content="https://careers.mobis.com">
+
+<link rel="apple-touch-icon" sizes="57x57" href="/favicon/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/favicon/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/favicon/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/favicon/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/favicon/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/favicon/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/favicon/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/favicon/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/favicon/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192" href="/favicon/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon/favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/favicon/favicon-96x96.png">
+<meta name="msapplication-TileImage" content="/favicon/ms-icon-144x144.png">
+<!-- <link rel="manifest" href="/favicon/manifest.json"> -->
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="theme-color" content="#ffffff">
+
+<!-- css -->
+<link href="/web/css/slick.css" rel="stylesheet" />
+<link href="/web/css/common.min.css" rel="stylesheet" />
+
+<!-- web fonts -->
+ <link rel="stylesheet" href="https://use.typekit.net/nnh1yie.css">
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-5ZFMNSQ2XW"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-5ZFMNSQ2XW');
+</script>
+
+</head>
+<script>history.scrollRestoration = "manual"</script>
+<body class="life">
+
+	<header id="header">
+	<div class="header-inner">
+		<h1 class="header-logo">
+			<a href="/index"><span class="ir_pm">현대모비스 채용 (MOBIS Careers)</span></a>
+		</h1>
+		<button class="mobile-ham">
+			<i></i> <i></i>
+		</button>
+		<nav class="header-gnb-wrap">
+			<ul class="header-gnb">
+				<li><a href="/jobs">Jobs</a></li>
+				<li><a href="/life">Life</a></li>
+				<li><a href="/people">People</a></li>
+				<li><a href="/story">Story</a></li>
+				<li><a href="/guide">Guide</a></li>
+			</ul>
+			<div class="header-my-wrap">
+				<div class="header-my-container">
+					<div class="header-my-btn">
+						<span>MY</span>
+						<svg class="arrow-toggle" width="40" height="40" viewBox="0 0 24 24" aria-hidden="true"
+							 xmlns="http://www.w3.org/2000/svg">
+							<path class="arrow-down" d="M6 9l6 6 6-6" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+							<path class="arrow-up" d="M6 15l6-6 6 6" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+						</svg>
+					</div>
+					<ul class="header-my-gnb">
+						<li>
+							<a href="https://mobis.recruiter.co.kr/career/home?viewType=ResumeUpdate" target="_blank">지원서 수정</a>
+							<div class="gnb-description">작성 중인 지원서를 확인할 수 있습니다.</div>
+						</li>
+						<li>
+							<a href="https://mobis.recruiter.co.kr/v1/applicant/my-page/login" target="_blank">마이페이지</a>
+							<div class="gnb-description">제출한 지원서 및 지원 현황을 확인할 수 있습니다.</div>
+						</li>
+					</ul>
+				</div>
+			</div>
+			<div class="header-fit-wrap">
+				<button class="btn-fit">
+					<p class="tit">나에게 맞는 채용 공고 찾기</p>
+					<div class="symbol"></div>
+					<p class="txt not-apply">
+						<span class="c-red">'어떤 공고가 나에게 맞을까?'</span> <br />알맞은 채용 공고를
+						찾아드려요.
+					</p>
+					<p class="txt apply">
+						현재 <span class="c-red">모비스</span>님의 맞춤 정보가 <br />우선적으로 추천되고 있어요.
+					</p>
+				</button>
+			</div>
+		</nav>
+	</div>
+	<script>
+		document.addEventListener('DOMContentLoaded', () => {
+			const wrap = document.querySelector('.header-my-wrap');
+			const btn = wrap.querySelector('.header-my-btn');
+			const gnb = wrap.querySelector('.header-my-gnb');
+			const arrow = wrap.querySelector('.arrow-toggle');
+
+			const curPg = $(location).attr('pathname').split('-')[0];
+			if (curPg === '/index') {
+				wrap.classList.add('white');
+			}
+
+			wrap.addEventListener('click', () => {
+				if (window.innerWidth <= 960) {
+					const isExpanded = btn.getAttribute('aria-expanded') === 'true';
+
+					btn.setAttribute('aria-expanded', !isExpanded);
+					gnb.classList.toggle('view', !isExpanded);
+					arrow.classList.toggle('open', !isExpanded);
+				}
+			});
+		});
+	</script>
+</header>
+
+	<div class="wrap">
+		<div class="float-wrap">
+			<ul>
+				<li><button>Work</button></li>
+				<li><button>Wellbeing</button></li>
+				<li><button>Career</button></li>
+				<li><button><i class="ico ico-play"></i><span>Video</span></button></li>
+			</ul>
+		</div>
+		<div class="quick-wrap">
+			<div class="quick-list">
+				<div class="bar"></div>
+				<button data-target="work">Work</button>
+				<button data-target="wellbeing">Wellbeing</button>
+				<button data-target="career">Career</button>
+				<div class="quick-2dep-list">
+					<button data-target="work01">자율적으로 일하는 방식</button>
+					<button data-target="work02" id="work02">행복하게 일하는 방식</button>
+				</div>
+			</div>
+			<button data-target="video"><i class="ico ico-play"></i>Video</button>
+		</div>
+		<div class="content-wrap">
+			<section class="life-visual">
+				<div class="visualBack-wrap" style="background-image:url(/web/img/subvisual-life.webp)"></div>
+				<div class="sub-inner">
+					<div class="tit-wrap">
+						<p class="sub-tit en">LIFE</p>
+						<p class="sub-tit02">빛나는 ‘내’가 모여, <br/>더 나은 ‘우리’로 나아갑니다.</p>
+					</div>
+					<div class="typo-wrap">
+						<p class="sub-entit">REACH ONE <br/>MOVE <br class="on768"/>FORWARD</p>
+						<p class="sub-tit">현대모비스는 유연하고 스마트한 기업 문화 아래, <br class="off768"/>일과 삶의 균형을 중시하며 구성원의 성장을 <br class="off768"/>지원하고 있습니다.</p>
+					</div>
+				</div>
+			</section>
+			<section class="life-con work">
+				<div class="sc-wrap sc01">
+					<div class="sub-inner">
+						<div class="life-tit-wrap">
+							<div class="left">
+								<p class="sub-entit">WORK</p>
+							</div>
+							<div class="right">
+								<p class="sub-tit">당신이 일과 삶 사이에서, <br/>성장과 휴식 사이에서 균형을 찾을 수 있도록 <br/>지원하고 있습니다.</p>
+							</div>
+						</div>
+						<div class="scroll-wrap mgt50">
+							<div class="work-horizon">
+								<div class="life-tit-wrap">
+									<div class="left">
+										<p class="tit03">자율적으로 일하는 방식</p>
+									</div>
+									<div class="right">
+										<p class="txt01">업무 효율을 높일 수 있는 시간대와 공간은 개인마다 다르기에,<br class="off768"/> 현대모비스에서는 가장 집중할 수 있는 시간과 장소를 스스로 선택해 일합니다. <br class="off768"/>구성원의 자율적인 몰입을 지원하고 있습니다.</p>
+									</div>
+								</div>
+								<ul class="work-list">
+									<li class="work-item">
+										<div class="front" style="background-image:url(/web/images/life/A/2023/6ef492ca-6084-47aa-9a6f-f52e929dba37_work01-img01-front.webp);">
+											<span class="badge">POINT 01</span>
+											<p class="tit">선택적
+근로시간제</p>
+										</div>
+										<div class="back" style="background-image:url(/web/images/life/A/2023/705f600c-cbee-4565-bc85-1da16278a10a_work01-img01-back.webp);">
+											<span class="badge">POINT 01</span>
+											<p class="desc">오늘은 3시 퇴근하겠습니다!<br />정해진 근로시간을 각자의 일정과 상황에 맞춰 스스로 계획하고,  유동적으로 조정할 수 있습니다.</p>
+											
+											<p class="tit">선택적<br />근로시간제</p>
+										</div>
+									</li>
+									<li class="work-item">
+										<div class="front" style="background-image:url(/web/images/life/A/2023/5db63a7e-e8c5-4eb6-b1e3-babb9cf06043_work01-img02-front.webp);">
+											<span class="badge">POINT 02</span>
+											<p class="tit">재택근무</p>
+										</div>
+										<div class="back" style="background-image:url(/web/images/life/A/2023/349a726c-a8fe-4371-8f28-44a38d6c9418_work01-img02-back.webp);">
+											<span class="badge">POINT 02</span>
+											<p class="desc">코로나 이후 시행한 재택근무를 공식 제도화하여 출퇴근의 부담을 없애고 업무에 집중하도록 지원합니다.</p>
+											
+											<p class="tit">재택근무</p>
+										</div>
+									</li>
+									<li class="work-item">
+										<div class="front" style="background-image:url(/web/images/life/A/2023/66ec4999-7ad8-4fbb-b6d1-b8ed5b4b5692_work01-img03-front.webp);">
+											<span class="badge">POINT 03</span>
+											<p class="tit">셔틀버스</p>
+										</div>
+										<div class="back" style="background-image:url(/web/images/life/A/2023/12c5757f-dd2e-44f8-90a7-0a4fd58d5afa_work01-img03-back.webp);">
+											<span class="badge">POINT 03</span>
+											<p class="desc">서울, 경기도의 각 지역에서 약 60개의 셔틀버스 노선을 운영 하여 안전하고 편리한 출퇴근을 제공합니다.</p>
+											<span class='caption'>※ 마북연구소 기준</span>
+											<p class="tit">셔틀버스</p>
+										</div>
+									</li>
+									<li class="work-item">
+										<div class="front" style="background-image:url(/web/images/life/A/2023/59d50748-9278-4961-b1ac-1fff0d4ba07d_work01-img04-front.webp);">
+											<span class="badge">POINT 04</span>
+											<p class="tit">자율복장 출근</p>
+										</div>
+										<div class="back" style="background-image:url(/web/images/life/A/2023/8e764a3e-9fca-48fa-b950-16316b758dbb_work01-img04-back.webp);">
+											<span class="badge">POINT 04</span>
+											<p class="desc">츄리닝도, 반바지도 OK!<br />자유로운 복장으로 개성은 살리고, 편안하고 자유롭게 업무를 볼 수 있습니다.</p>
+											
+											<p class="tit">자율복장 출근</p>
+										</div>
+									</li>
+									<li class="work-item">
+										<div class="front" style="background-image:url(/web/images/life/A/2023/73b9f4bc-fa9c-4bfa-8c66-8bc714b2c716_work01-img05-front.webp);">
+											<span class="badge">POINT 05</span>
+											<p class="tit">PC-OFF</p>
+										</div>
+										<div class="back" style="background-image:url(/web/images/life/A/2023/cd5153e4-abe4-4a00-b721-52fc1c312d7f_work01-img05-back.webp);">
+											<span class="badge">POINT 05</span>
+											<p class="desc">무리한 야근은 No!<br />계획된 근무시간을 초과할 시 PC가 자동 종료됩니다.</p>
+											
+											<p class="tit">PC-OFF</p>
+										</div>
+									</li>
+									<li class="work-item">
+										<div class="front" style="background-image:url(/web/images/life/A/2023/aeb78324-547f-4e9b-b905-53644f287774_work01-img06-front.webp);">
+											<span class="badge">POINT 06</span>
+											<p class="tit">거점오피스</p>
+										</div>
+										<div class="back" style="background-image:url(/web/images/life/A/2023/cee14775-d16d-43cd-96d4-9d4704b088c5_work01-img06-back.webp);">
+											<span class="badge">POINT 06</span>
+											<p class="desc">집에서는 집중하기 어렵고, 회사는 너무 멀다면!?<br />집과 가까운 거점 오피스에서 근무하며, '몰입과 효율'이라는 두 마리 토끼를 모두 잡을 수 있어요.</p>
+											
+											<p class="tit">거점오피스</p>
+										</div>
+									</li>
+									<li class="work-item">
+										<div class="front" style="background-image:url(/web/images/life/A/2023/5a75d688-98a2-4dc3-8cf5-d9c918a796de_work01-img07-front.webp);">
+											<span class="badge">POINT 07</span>
+											<p class="tit">수평적
+호칭체계</p>
+										</div>
+										<div class="back" style="background-image:url(/web/images/life/A/2023/0732c6da-83bc-46cc-9e15-8ac02da387c0_work01-img07-back.webp);">
+											<span class="badge">POINT 07</span>
+											<p class="desc">직급과 나이가 아닌 실력과 열정으로 평가받는 수평적 문화 형성을 위해 호칭 체계를 2단계(매니저/책임매니저)로 간소화하였습니다.</p>
+											<span class='caption'>※ 연구직(연구원/책임연구원) 2단계</span>
+											<p class="tit">수평적<br />호칭체계</p>
+										</div>
+									</li>
+								</ul>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="sc-wrap sc02">
+					<div class="sub-inner">
+						<div class="life-tit-wrap main">
+							<div class="left">
+								<p class="sub-entit">WORK</p>
+							</div>
+							<div class="right">
+								<p class="sub-tit">당신이 일과 삶 사이에서, <br/>성장과 휴식 사이에서 균형을 찾을 수 있도록 <br/>지원하고 있습니다.</p>
+							</div>
+						</div>
+						<div class="scroll-wrap mgt50">
+							<div class="work-horizon">
+								<div class="life-tit-wrap">
+									<div class="left">
+										<p class="tit03">행복하게 일하는 방식</p>
+									</div>
+									<div class="right">
+										<p class="txt01">구성원이 행복해야 도전과 협력도 지속될 수 있습니다. <br class="off768"/>모행은 현대모비스인들이 참여하여 직접 만든 업무 룰입니다. <br class="off768"/>현대모비스인들은 7가지 그라운드룰을 적극 실천하며 모든 구성원이 행복한 일터를 만들어 갑니다.</p>
+									</div>
+								</div>
+								<div class="work02-tit"></div>
+								<ul class="work-list">
+									<li class="work-item">
+										<div class="front" style="background-image:url(/web/images/life/B/2023/a1aa2167-e8d1-4d42-bb6a-3ee79c6db2c4_work02-img01-front.webp);border-color:#DE647A">
+											<span class="ir_su">당신 생각이 궁금합니다. 커피 한 잔 해요</span>
+											<p class="tit" style="color:#DE647A">Meet</p>
+										</div>
+										<div class="back" style="background-image:url(/web/images/life/B/2023/c7f0f360-69f3-428b-a572-d989e6175e92_work02-img01-back.webp);background-color:#ED798E;border-color:#ED798E">
+											<p class="tit">Meet</p>
+											<p class="desc">차이를 인정하면 다름은 긍정의 에너지로 전환됩니다. 커피 한 잔은 소통의 행동으로 공감을 키우는 방식입니다. </p>
+											<p class="desc hash">#소통 #공감 #배려 </p>
+										</div>
+									</li>
+									<li class="work-item">
+										<div class="front" style="background-image:url(/web/images/life/B/2023/8ae13ca3-838f-4030-9745-a5c4bad1452c_work02-img02-front.webp);border-color:#3FB0A9">
+											<span class="ir_su">000은 과감히 빼보세요. 본질이 보입니다</span>
+											<p class="tit" style="color:#3FB0A9">Original</p>
+										</div>
+										<div class="back" style="background-image:url(/web/images/life/B/2023/331e18f2-5933-440e-bf50-f6884ceb696f_work02-img02-back.webp);background-color:#4EBFB8;border-color:#4EBFB8">
+											<p class="tit">Original</p>
+											<p class="desc">본질에 집중할 때 최고의 효율을 낼 수 있습니다. 형식, 불필요한 것들을 과감히 빼고 업무의 본질에 도달합니다.</p>
+											<p class="desc hash">#핵심 #본질</p>
+										</div>
+									</li>
+									<li class="work-item">
+										<div class="front" style="background-image:url(/web/images/life/B/2023/9496ac7f-01e1-48d5-86b8-f2a07fccede5_work02-img03-front.webp);border-color:#E88F0E">
+											<span class="ir_su">네 일, 내 일 따지기 전에 우리의 내일을</span>
+											<p class="tit" style="color:#E88F0E">Harmony</p>
+										</div>
+										<div class="back" style="background-image:url(/web/images/life/B/2023/b6112664-dd4b-4298-ac4c-5890e78b6c89_work02-img03-back.webp);background-color:#F7A01E;border-color:#F7A01E">
+											<p class="tit">Harmony</p>
+											<p class="desc">각자의 역할과 책임을 다하여 한 팀으로 서로 협력합니다. 미래 모빌리티를 위한 혁신을 목표료 결집된 힘을 발휘합니다.</p>
+											<p class="desc hash">#존중 #협업</p>
+										</div>
+									</li>
+									<li class="work-item">
+										<div class="front" style="background-image:url(/web/images/life/B/2023/1231e407-60fc-4938-9cc1-b15ff4af5847_work02-img04-front.webp);border-color:#5CAE67">
+											<span class="ir_su">걱정보단 응원하고 질책보단 질문해요</span>
+											<p class="tit" style="color:#5CAE67">Attitude</p>
+										</div>
+										<div class="back" style="background-image:url(/web/images/life/B/2023/cae03cf7-6b79-4efb-86f5-6aaed663a2ee_work02-img04-back.webp);background-color:#6FBD7A;border-color:#6FBD7A">
+											<p class="tit">Attitude</p>
+											<p class="desc">함께 성장하고자 하는 마인드는 현대모비스의 업무 태도입니다. 도전하는 동료를 응원하고 실패를 탓하지 않고 다음을 질문합니다.</p>
+											<p class="desc hash">#도전 #격려</p>
+										</div>
+									</li>
+									<li class="work-item">
+										<div class="front" style="background-image:url(/web/images/life/B/2023/d19e7f63-3e2c-4a9e-afdf-e824dcf4509a_work02-img05-front.webp);border-color:#304C9B">
+											<span class="ir_su">어디서 일하든 빠르게 반응해요</span>
+											<p class="tit" style="color:#304C9B">Proactive</p>
+										</div>
+										<div class="back" style="background-image:url(/web/images/life/B/2023/3c42c86f-7a84-4ce0-ba61-f989f3cbe83a_work02-img05-back.webp);background-color:#3F5CAB;border-color:#3F5CAB">
+											<p class="tit">Proactive</p>
+											<p class="desc">재택근무는 자율적이고 능동적인 문화를 만드는 핵심제도입니다. 일하는 장소가 어디서든 원활하게 소통하며 성과를 창출합니다.</p>
+											<p class="desc hash">#자율 #능동</p>
+										</div>
+									</li>
+									<li class="work-item">
+										<div class="front" style="background-image:url(/web/images/life/B/2024/9d1c1634-9894-48e2-8ce0-70f030955cde_work02-img06-front.webp);border-color:#EA6312">
+											<span class="ir_su">내가 고객이고, 내가 프로덕트 오너</span>
+											<p class="tit" style="color:#EA6312">Pride</p>
+										</div>
+										<div class="back" style="background-image:url(/web/images/life/B/2024/a8859bad-3a62-460b-96ac-13a6f7781d55_work02-img06-back.webp);background-color:#FA7523;border-color:#FA7523">
+											<p class="tit">Pride</p>
+											<p class="desc">우리는 프로덕트 오너로 내가 고객이 되어 고객의 입장에 공감하며 고객에게 최고의 모빌리티 경험을 선사합니다.</p>
+											<p class="desc hash">#고객 #자부심 #프로의식</p>
+										</div>
+									</li>
+									<li class="work-item">
+										<div class="front" style="background-image:url(/web/images/life/B/2023/3aa29b21-4792-4cf2-b9ed-025e4e452725_work02-img07-front.webp);border-color:#1285CA">
+											<span class="ir_su">일을 할 때 목표와 WHY?를 생각합니다</span>
+											<p class="tit" style="color:#1285CA">Why</p>
+										</div>
+										<div class="back" style="background-image:url(/web/images/life/B/2023/8f33cf34-bad7-418b-baec-2c81d0bb1904_work02-img07-back.webp);background-color:#2192D9;border-color:#2192D9">
+											<p class="tit">Why</p>
+											<p class="desc">같은 목표를 향해 함께 나아갈 때 남다른 결과를 만들 수 있습니다. 일하는 이유와 목적이 무엇인지 상기하며 일합니다.</p>
+											<p class="desc hash">#목표 #의미</p>
+										</div>
+									</li>
+								</ul>
+							</div>
+						</div>
+					</div>
+				</div>
+			</section>
+			<section class="life-con wellbeing">
+				<div class="sub-inner">
+					<div class="page-tit-wrap">
+						<div class="left">
+							<p class="sub-entit fadeMo up">WELLBEING</p>
+						</div>
+						<div class="right">
+							<p class="sub-tit fadeMo up">구성원의 행복은 기업의 성장을 위한 최소 조건입니다. <br class="off768"/>현대모비스는 구성원과 가정의 행복을 위해 개인의 생애주기에 맞춘 다양한 복리후생을 제공하고 있습니다.</p>
+						</div>
+					</div>
+					<div class="slide-wrap well-slide-wrap mo-dot fadeMo up" id="">
+						<!-- <div class="slide well-max-slide slick-initialized slick-slider">
+							<div class="slick-list draggable">
+								<div th:each="cSec,stat:${cSecList}" class="slick-slide" th:classappend="${stat.count}==1?'slick-active'" th:style="|background-image:url(/web${cSec.imageFront})|">
+									<div class="txt-wrap">
+										<p class="tit" th:utext="${#strings.replace(cSec.subject, nlString, '&lt;br /&gt;')}"></p>
+										<p class="desc" th:utext="${#strings.replace(cSec.contents, nlString, '&lt;br /&gt;')}"></p>
+									</div>
+								</div>
+							</div>
+						</div> -->
+
+						<div class="slide well-slide">
+							<div class="well-slide-item" style="background-image:url(/web/images/life/C/2023/6f1ae434-26b3-4f2f-810d-a95b2b9ad83e_well-img01.webp)">
+								<div class="txt-wrap">
+									<p class="tit">경조사 지원</p>
+									<p class="desc">임직원 및 가족의 경조사 발생 시<br />휴가, 지원금 등을 지급합니다.</p>
+								</div>
+							</div>
+							<div class="well-slide-item" style="background-image:url(/web/images/life/C/2023/fc4631c0-6503-4bdb-9f56-e336d4041147_well-img02.webp)">
+								<div class="txt-wrap">
+									<p class="tit">부임이사 지원</p>
+									<p class="desc">임직원의 장거리 부임 시<br />이사비, 부임여비 등을 지원합니다.</p>
+								</div>
+							</div>
+							<div class="well-slide-item" style="background-image:url(/web/images/life/C/2023/08766a86-9134-40f7-828b-c0df47cd8c02_well-img03.webp)">
+								<div class="txt-wrap">
+									<p class="tit">동호회</p>
+									<p class="desc">임직원의 동호회 활동지원금을 제공합니다. </p>
+								</div>
+							</div>
+							<div class="well-slide-item" style="background-image:url(/web/images/life/C/2023/f6774565-1b70-4db8-bcb7-7fd208e7ff48_well-img04.webp)">
+								<div class="txt-wrap">
+									<p class="tit">장기근속자 포상</p>
+									<p class="desc">근속연수에 따라 휴가, 해외여행 등 포상을 제공하며, <br />장기근속자의 퇴직을 지원합니다. </p>
+								</div>
+							</div>
+							<div class="well-slide-item" style="background-image:url(/web/images/life/C/2023/e419b7cd-d346-4994-b3e2-a6780ecf63a5_well-img05.webp)">
+								<div class="txt-wrap">
+									<p class="tit">휴양시설</p>
+									<p class="desc">사계절 휴양시설 및 하계 휴양소를 운영하고, <br />우리아이 행복여행을 지원합니다. </p>
+								</div>
+							</div>
+							<div class="well-slide-item" style="background-image:url(/web/images/life/C/2023/9c56c34c-2c80-4a03-85fc-664139bfcd7a_well-img06.webp)">
+								<div class="txt-wrap">
+									<p class="tit">학자금 지원</p>
+									<p class="desc">임직원 자녀의 유아, 고등, 대학 학자금을 지원합니다. </p>
+								</div>
+							</div>
+							<div class="well-slide-item" style="background-image:url(/web/images/life/C/2023/ee9f14fa-132b-4366-b8ba-5dab59fe2e83_well-img07.webp)">
+								<div class="txt-wrap">
+									<p class="tit">건강검진</p>
+									<p class="desc">전 직원 예방접종, 건강검진 및 여성검진을 제공하며 <br />40세 이상 임직원은 추가 검진을 지원합니다. </p>
+								</div>
+							</div>
+							<div class="well-slide-item" style="background-image:url(/web/images/life/C/2023/50db85c0-293f-43c2-ac2c-48aa2fb95862_well-img08.webp)">
+								<div class="txt-wrap">
+									<p class="tit">임신 / 출산 / 육아 지원</p>
+									<p class="desc">임신기와 육아기 근로시간을 단축하고, <br />출산 전후로 휴가 등의 지원을 제공합니다. </p>
+								</div>
+							</div>
+							<div class="well-slide-item" style="background-image:url(/web/images/life/C/2023/040e5124-7248-4b38-928d-cd11f84da320_well-img09.webp)">
+								<div class="txt-wrap">
+									<p class="tit">차량구입비 지원 및 <br />기타 차량 복지</p>
+									<p class="desc">임직원의 현대/기아차 구매 시 차량 할인 및 구입비를 최대 30%까지 지원합니다.<br />그 외에도 신입사원 첫 차 구매 시 20% 할인과 공임비/부품비 30% 할인을 지원합니다. </p>
+								</div>
+							</div>
+							<div class="well-slide-item" style="background-image:url(/web/images/life/C/2023/23c38e9b-5bdd-4b8a-ae03-2dc8d68b17d7_well-img10.webp)">
+								<div class="txt-wrap">
+									<p class="tit">연월차 및 기타 휴가</p>
+									<p class="desc">법적 연차 이외에도 월차, 장기근속휴가, <br />하계휴가, 경조휴가 등을 제공합니다. </p>
+								</div>
+							</div>
+							<div class="well-slide-item" style="background-image:url(/web/images/life/C/2023/89bd9361-1a58-4b2d-8aea-4e53005082ba_well-img11.webp)">
+								<div class="txt-wrap">
+									<p class="tit">포인트</p>
+									<p class="desc">종합 여가생활 및 일상복지 경험 제공을 위한 종합포인트,<br />정년퇴직자의 여행포인트까지 지원합니다.</p>
+								</div>
+							</div>
+							<div class="well-slide-item" style="background-image:url(/web/images/life/C/2023/e3a3de6a-067d-4c29-9999-b2390ba63d58_well-img12.webp)">
+								<div class="txt-wrap">
+									<p class="tit">육아휴직 / 상병휴직</p>
+									<p class="desc">한 자녀당 최대 2년의 육아휴직과 최대 90일의 가족돌봄휴직을 제공합니다. <br />또한 질병 / 부상으로 업무수행이 곤란할 경우 상병휴직을 지원합니다. </p>
+								</div>
+							</div>
+							<div class="well-slide-item" style="background-image:url(/web/images/life/C/2023/a490ab93-7fed-41dc-97fa-b285046add2f_well-img13.webp)">
+								<div class="txt-wrap">
+									<p class="tit">새내기 정착 / 주거지원금</p>
+									<p class="desc">새내기의 정착 지원금 / 주거지원금을 <br />임차, 구입에 상관없이 지원합니다. </p>
+								</div>
+							</div>
+							<div class="well-slide-item" style="background-image:url(/web/images/life/C/2023/88fae3e5-3126-48d1-8cc9-a2446be0e475_well-img14.webp)">
+								<div class="txt-wrap">
+									<p class="tit">진료비 지원</p>
+									<p class="desc">임직원 및 부양가족의 외래, 약제, <br />입원 진료비 본인 부담금을 지원합니다. </p>
+								</div>
+							</div>
+						</div>
+
+						<div class="slide-control">
+							<div class="num">
+								<span class="curr"></span> <span>/</span> <span class="total"></span>
+							</div>
+							<div class="arrow">
+								<button class="slide-btn prev">
+									<i class="ico ico-arrow-left"></i> <span class="ir_su">이전
+										슬라이드 이동</span>
+								</button>
+								<button class="slide-btn next">
+									<i class="ico ico-arrow-right"></i> <span class="ir_su">다음
+										슬라이드 이동</span>
+								</button>
+							</div>
+						</div>
+					</div>
+				</div>
+			</section>
+			<section class="life-con career">
+				<div class="sub-inner">
+					<div class="career-wrap">
+						<div class="left fadeMo up">
+							<p class="sub-entit">CAREER</p>
+							<p class="sub-tit">현대모비스는 미래 성장 동력 확보와 변화 리딩을 위한 <br class="off768"/>임직원들의 ‘자기 주도 성장’을 목적으로 <br class="off768"/>다양한 학습환경을 지원합니다.</p>
+							<ul class="career-txt">
+								<li class="active">
+									<p class="tit">신입사원 입문 교육</p>
+									<p class="txt">입사 후 약 1년 간 신규입사자 육성 체계에 기반해 다양한 성장 기회를 제공합니다.</p>
+								</li>
+								<li>
+									<p class="tit">멘토링 제도</p>
+									<p class="txt">신규입사자의 빠른 적응과 정서적 소통 창구를 마련하기 위해 멘토링 프로그램을 진행합니다. </p>
+								</li>
+								<li>
+									<p class="tit">Up-skilling &amp; Re-skilling</p>
+									<p class="txt">개개인의 경력 개발을 위한 유연한 직무 전환과 함께, 전환에 적합한 역량을 기를 수 있도록 교육을 제공합니다. </p>
+								</li>
+								<li>
+									<p class="tit">직무자격증 취득지원</p>
+									<p class="txt">직무와 관련된 자격증의 경우 강의 등록비, 교재비, 시험응시료 등을 지원합니다. </p>
+								</li>
+								<li>
+									<p class="tit">커리어 마켓</p>
+									<p class="txt">나만의 커리어 플랜을 직접 짜고, 커리어 마켓 프로그램을 통해 원하는 직무로 이동이 가능합니다. </p>
+								</li>
+								<li>
+									<p class="tit">스마트러닝 / 러닝타임제</p>
+									<p class="txt">직무 / 기술 / 리더십 / 어학 / 북러닝 등 다양한 교육을 수강할 수 있으며 업무시간 중 주당 최대 2시간을 학습시간으로 활용 가능합니다. </p>
+								</li>
+								<li>
+									<p class="tit">사내 스타트업</p>
+									<p class="txt">누구나 전사 공모를 통해 아이디어를 제안하고, 사업개발 육성과 창업을 지원받을 수 있습니다. </p>
+								</li>
+								<li>
+									<p class="tit">직무 전문가 양성 교육</p>
+									<p class="txt">사내 직무 전문가로 성장 기회를 제공하며, 관련 업무 전문가의 강좌 및 온라인 교육을 수강할 수 있습니다. </p>
+								</li>
+								<li>
+									<p class="tit">학습 동아리</p>
+									<p class="txt">직무 / 지역 / 산업 등 뜻을 함께하는 임직원들이 직접 주제를 선정하고 지식을 공유할 수 있습니다. 사외 전문가 초빙 및 관련 도서 제공 등의 지원이 제공됩니다. </p>
+								</li>
+								<li>
+									<p class="tit">재직자 석사학위 프로그램 지원</p>
+									<p class="txt">서울대학교 공학전문대학원, 경영전문대학원 전문석사과정 지원 프로그램을 통해 구성원의 역량강화 기회를 제공하고 있습니다. (등록금, 해외단기연수 등 전액 지원)</p>
+								</li>
+							</ul>
+
+						</div>
+						<div class="right">
+							<div class="slide-wrap career-slide-wrap mo-dot fadeMo up">
+								<div class="slide">
+									<div class="career-slide-item" style="background-image:url(/web/images/life/D/2023/fdb62180-6345-42b6-9d52-b7f09d47fb06_career-img01.webp)">
+										<p class="tit">신입사원 입문 교육</p>
+									</div>
+									<div class="career-slide-item" style="background-image:url(/web/images/life/D/2023/00387112-16da-4933-81dd-7fcbb02bc1bf_career-img02.webp)">
+										<p class="tit">멘토링 제도</p>
+									</div>
+									<div class="career-slide-item" style="background-image:url(/web/images/life/D/2023/b17b747b-fe1d-43cf-9820-57a705258241_career-img03.webp)">
+										<p class="tit">Up-skilling &amp; Re-skilling</p>
+									</div>
+									<div class="career-slide-item" style="background-image:url(/web/images/life/D/2023/dcbd69a0-5d3d-45de-94f3-56169f8ec1e0_career-img04.webp)">
+										<p class="tit">직무자격증 취득지원</p>
+									</div>
+									<div class="career-slide-item" style="background-image:url(/web/images/life/D/2023/5434b5e3-3de8-4974-9bf4-c52d9f558c73_career-img05.webp)">
+										<p class="tit">커리어 마켓</p>
+									</div>
+									<div class="career-slide-item" style="background-image:url(/web/images/life/D/2023/b3033f93-a977-4ab8-8fc7-be3dd66a3f4c_career-img06.webp)">
+										<p class="tit">스마트러닝 / 러닝타임제</p>
+									</div>
+									<div class="career-slide-item" style="background-image:url(/web/images/life/D/2023/3fc30c15-f8bc-4be2-b1df-10948f3f83e7_career-img07.webp)">
+										<p class="tit">사내 스타트업</p>
+									</div>
+									<div class="career-slide-item" style="background-image:url(/web/images/life/D/2023/c2575619-a5f6-4094-99b9-b11988af6cf6_career-img08.webp)">
+										<p class="tit">직무 전문가 양성 교육</p>
+									</div>
+									<div class="career-slide-item" style="background-image:url(/web/images/life/D/2023/0cce8852-04df-49b7-aa7b-11f8a4f57a35_career-img09.webp)">
+										<p class="tit">학습 동아리</p>
+									</div>
+									<div class="career-slide-item" style="background-image:url(/web/images/life/D/2024/f491e305-9e65-4d7d-bd69-44fbdfdddb85_LIFE_Career_재직자석사학위.webp)">
+										<p class="tit">재직자 석사학위 프로그램 지원</p>
+									</div>
+								</div>
+								<div class="slide-control">
+									<div class="num">
+										<span class="curr"></span> <span>/</span> <span class="total"></span>
+									</div>
+									<div class="arrow">
+										<button class="slide-btn prev">
+											<i class="ico ico-arrow-left"></i> <span class="ir_su">이전
+												슬라이드 이동</span>
+										</button>
+										<button class="slide-btn next">
+											<i class="ico ico-arrow-right"></i> <span class="ir_su">다음
+												슬라이드 이동</span>
+										</button>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</section>
+			<section class="life-con video">
+				<div class="sub-inner">
+					<div class="page-tit-wrap">
+						<div class="left">
+							<p class="sub-tit02 fadeMo up">이것이 바로, <br>현대모비스가 일하는 방식</p>
+						</div>
+						<div class="right">
+							<p class="sub-tit fadeMo up">현대모비스의 Work, Wellbeing, Career를 <br class="off768"/>1분 이내 숏폼 동영상으로 만나보세요.</p>
+						</div>
+					</div>
+					<div id="eSecArea" class="img-slide-wrap list-style fadeMo up">
+						<a href="https://www.instagram.com/reel/DEgx9NEPxp4/" class="img-slide-item" target="_blank" style="display:block">
+							<div class="img-wrap">
+								<div class="img" style="background-image:url(/web/images/life/E/2025/bd494f8b-b6d7-4590-adbd-c018d9f45b6b_1-01.png);"></div>
+								<i class="ico ico-play"></i>
+							</div>
+							<div class="txt-wrap">
+								<p class="tit">모비스 합격자의 AI면접영상</p>
+								<p class="info">CAREER │ AI면접영상</p>
+							</div>
+						</a><a href="https://www.instagram.com/reel/DEgyMMmvHet/" class="img-slide-item" target="_blank" style="display:block">
+							<div class="img-wrap">
+								<div class="img" style="background-image:url(/web/images/life/E/2025/bf4dfac1-e335-4350-a3d6-aaeb0104fe64_1-02.png);"></div>
+								<i class="ico ico-play"></i>
+							</div>
+							<div class="txt-wrap">
+								<p class="tit">모비스 실제 근무환경</p>
+								<p class="info">WORK │ 모비스 근무환경</p>
+							</div>
+						</a><a href="https://www.instagram.com/reel/DEgygoCvxnC/" class="img-slide-item" target="_blank" style="display:block">
+							<div class="img-wrap">
+								<div class="img" style="background-image:url(/web/images/life/E/2025/ca2d267e-b7ad-4b72-84be-8cc218eb9bc1_1-03.png);"></div>
+								<i class="ico ico-play"></i>
+							</div>
+							<div class="txt-wrap">
+								<p class="tit">감속기개발팀 우대사항</p>
+								<p class="info">CAREER │ 직무 우대사항</p>
+							</div>
+						</a><a href="https://www.instagram.com/reel/DE6op6QP10l/" class="img-slide-item" target="_blank" style="display:block">
+							<div class="img-wrap">
+								<div class="img" style="background-image:url(/web/images/life/E/2025/1ffb2b2b-aabf-46d9-a250-01019237400a_1-04.png);"></div>
+								<i class="ico ico-play"></i>
+							</div>
+							<div class="txt-wrap">
+								<p class="tit">현대모비스 R&D전략개발 직무</p>
+								<p class="info">WORK │ 직무 소개</p>
+							</div>
+						</a><a href="https://www.instagram.com/reel/DE6o2EsP7zG/" class="img-slide-item" target="_blank" style="display:block">
+							<div class="img-wrap">
+								<div class="img" style="background-image:url(/web/images/life/E/2025/c9413d4a-37a3-43f4-a5ba-4a0aa77c53f4_1-05.png);"></div>
+								<i class="ico ico-play"></i>
+							</div>
+							<div class="txt-wrap">
+								<p class="tit">현대모비스 현직자 자격증</p>
+								<p class="info">WORK │ 자격증</p>
+							</div>
+						</a><a href="https://www.instagram.com/reel/DE6o_F-PPfq/" class="img-slide-item" target="_blank" style="display:block">
+							<div class="img-wrap">
+								<div class="img" style="background-image:url(/web/images/life/E/2025/792830bd-bad8-4cb0-83ef-6aaf18508eb0_1-06.png);"></div>
+								<i class="ico ico-play"></i>
+							</div>
+							<div class="txt-wrap">
+								<p class="tit">현대모비스 신입사원의 행동</p>
+								<p class="info">WORK │ 신입사원</p>
+							</div>
+						</a><a href="https://www.instagram.com/reel/DFrcrzsvybA/" class="img-slide-item" target="_blank" style="display:block">
+							<div class="img-wrap">
+								<div class="img" style="background-image:url(/web/images/life/E/2025/283df0ca-87d3-4063-97b8-e222da5d4da0_1-07.png);"></div>
+								<i class="ico ico-play"></i>
+							</div>
+							<div class="txt-wrap">
+								<p class="tit">현대모비스 합격자의 자소서</p>
+								<p class="info">CAREER │ 자기소개서 작성 팁</p>
+							</div>
+						</a><a href="https://www.instagram.com/reel/DFrdD-WvAOX/" class="img-slide-item" target="_blank" style="display:block">
+							<div class="img-wrap">
+								<div class="img" style="background-image:url(/web/images/life/E/2025/fb9373ab-6191-40cb-80b1-ad52ef8f5d71_1-08.png);"></div>
+								<i class="ico ico-play"></i>
+							</div>
+							<div class="txt-wrap">
+								<p class="tit">현대모비스 입사 이유</p>
+								<p class="info">CAREER │ 지원동기</p>
+							</div>
+						</a><a href="https://www.instagram.com/reel/DFrdqlQP1rB/" class="img-slide-item" target="_blank" style="display:none">
+							<div class="img-wrap">
+								<div class="img" style="background-image:url(/web/images/life/E/2025/f23d46e6-0351-4cc4-99a4-dca16e126e5f_1-09.png);"></div>
+								<i class="ico ico-play"></i>
+							</div>
+							<div class="txt-wrap">
+								<p class="tit">취준 시작하면 이것부터</p>
+								<p class="info">CAREER │ 취업준비 팁</p>
+							</div>
+						</a><a href="https://www.instagram.com/reel/DGxQf5NPv3u/" class="img-slide-item" target="_blank" style="display:none">
+							<div class="img-wrap">
+								<div class="img" style="background-image:url(/web/images/life/E/2025/82e883fa-75e5-477b-9d94-472910d44804_1-10.png);"></div>
+								<i class="ico ico-play"></i>
+							</div>
+							<div class="txt-wrap">
+								<p class="tit">전자기계식 브레이크란?</p>
+								<p class="info">WORK │ 직무 소개</p>
+							</div>
+						</a><a href="https://www.instagram.com/reel/DGxQvtwPJsh/" class="img-slide-item" target="_blank" style="display:none">
+							<div class="img-wrap">
+								<div class="img" style="background-image:url(/web/images/life/E/2025/eea1d895-2013-49e9-85a1-dc5084c2a420_1-11.png);"></div>
+								<i class="ico ico-play"></i>
+							</div>
+							<div class="txt-wrap">
+								<p class="tit">직무적합성을 확인하는 질문</p>
+								<p class="info">CAREER │ 면접 질문</p>
+							</div>
+						</a><a href="https://www.instagram.com/reel/DGxQ7ZxPCub/" class="img-slide-item" target="_blank" style="display:none">
+							<div class="img-wrap">
+								<div class="img" style="background-image:url(/web/images/life/E/2025/9535b3f9-61f6-40bd-9a16-423b6f4c580c_1-12.png);"></div>
+								<i class="ico ico-play"></i>
+							</div>
+							<div class="txt-wrap">
+								<p class="tit">동아리 경험에서 배운 교훈</p>
+								<p class="info">CAREER │ 자기소개서 작성 팁</p>
+							</div>
+						</a><a href="https://www.instagram.com/reel/DGxRM2LvH6l/" class="img-slide-item" target="_blank" style="display:none">
+							<div class="img-wrap">
+								<div class="img" style="background-image:url(/web/images/life/E/2025/fbcdebcf-74da-4056-b416-86633b6ef4ff_1-13.png);"></div>
+								<i class="ico ico-play"></i>
+							</div>
+							<div class="txt-wrap">
+								<p class="tit">AI역량검사 복장</p>
+								<p class="info">CAREER │ AI역량검사</p>
+							</div>
+						</a><a href="https://www.instagram.com/reel/DG_vvHxv63S/" class="img-slide-item" target="_blank" style="display:none">
+							<div class="img-wrap">
+								<div class="img" style="background-image:url(/web/images/life/E/2025/8e1a0814-2b93-411f-b13a-6e761b6b1b1a_1-14.png);"></div>
+								<i class="ico ico-play"></i>
+							</div>
+							<div class="txt-wrap">
+								<p class="tit">현대모비스 구매직무 소개</p>
+								<p class="info">WORK │ 직무 소개</p>
+							</div>
+						</a><a href="https://www.instagram.com/reel/DG_v554vA5P/" class="img-slide-item" target="_blank" style="display:none">
+							<div class="img-wrap">
+								<div class="img" style="background-image:url(/web/images/life/E/2025/275bd715-1276-4c94-8675-798be6cf4db7_1-15.png);"></div>
+								<i class="ico ico-play"></i>
+							</div>
+							<div class="txt-wrap">
+								<p class="tit">창업 경험의 인사이트</p>
+								<p class="info">CAREER │ 자기소개서 작성 팁</p>
+							</div>
+						</a><a href="https://www.instagram.com/reel/DG_wCvwvjfn/" class="img-slide-item" target="_blank" style="display:none">
+							<div class="img-wrap">
+								<div class="img" style="background-image:url(/web/images/life/E/2025/c0cb4e44-fc7f-42cc-b6ed-c00fe93fae92_1-16.png);"></div>
+								<i class="ico ico-play"></i>
+							</div>
+							<div class="txt-wrap">
+								<p class="tit">약점을 강점으로 살리는 답변</p>
+								<p class="info">CAREER │ 면접 질문</p>
+							</div>
+						</a><a href="https://www.instagram.com/reel/DG_wT1kPAAu/" class="img-slide-item" target="_blank" style="display:none">
+							<div class="img-wrap">
+								<div class="img" style="background-image:url(/web/images/life/E/2025/f9e20c8e-4dfc-44e8-9690-5164f12f0f5d_1-17.png);"></div>
+								<i class="ico ico-play"></i>
+							</div>
+							<div class="txt-wrap">
+								<p class="tit">합격자의 면접 태도</p>
+								<p class="info">CAREER │ 면접 질문</p>
+							</div>
+						</a><a href="https://www.instagram.com/reel/DHHhYVlPRIY/" class="img-slide-item" target="_blank" style="display:none">
+							<div class="img-wrap">
+								<div class="img" style="background-image:url(/web/images/life/E/2025/4ee271cd-4923-4da0-8e2c-22171a541bf1_1-18.png);"></div>
+								<i class="ico ico-play"></i>
+							</div>
+							<div class="txt-wrap">
+								<p class="tit">연구장학생 혜택</p>
+								<p class="info">CAREER │ 연구장학생</p>
+							</div>
+						</a><a href="https://www.instagram.com/reel/DHHhoJ1vNLz/" class="img-slide-item" target="_blank" style="display:none">
+							<div class="img-wrap">
+								<div class="img" style="background-image:url(/web/images/life/E/2025/587adbcc-f743-43ce-b16c-90409d85ddbb_1-19.png);"></div>
+								<i class="ico ico-play"></i>
+							</div>
+							<div class="txt-wrap">
+								<p class="tit">박사님의 성실함</p>
+								<p class="info">CAREER │ 경력직 채용</p>
+							</div>
+						</a><a href="https://www.instagram.com/reel/DHHiGYIvI5G/" class="img-slide-item" target="_blank" style="display:none">
+							<div class="img-wrap">
+								<div class="img" style="background-image:url(/web/images/life/E/2025/7fa9a92b-9c11-4eda-a520-ed06fb3248da_1-20.png);"></div>
+								<i class="ico ico-play"></i>
+							</div>
+							<div class="txt-wrap">
+								<p class="tit">현대모비스 반도체 직무</p>
+								<p class="info">WORK │ 직무 소개</p>
+							</div>
+						</a><a href="https://www.instagram.com/reel/DHHiVAGvUaY/" class="img-slide-item" target="_blank" style="display:none">
+							<div class="img-wrap">
+								<div class="img" style="background-image:url(/web/images/life/E/2025/8ae80c76-29fe-4ce4-8f29-59142863f176_1-21.png);"></div>
+								<i class="ico ico-play"></i>
+							</div>
+							<div class="txt-wrap">
+								<p class="tit">경력과 신입 채용 차이</p>
+								<p class="info">CAREER │ 경력직 채용</p>
+							</div>
+						</a><a href="https://www.instagram.com/reel/DHHiilKvJYI/" class="img-slide-item" target="_blank" style="display:none">
+							<div class="img-wrap">
+								<div class="img" style="background-image:url(/web/images/life/E/2025/a27bdd6c-f476-4dde-bf9f-6d1f0b07ca5a_1-22.png);"></div>
+								<i class="ico ico-play"></i>
+							</div>
+							<div class="txt-wrap">
+								<p class="tit">경력과 신입의 연봉 차이</p>
+								<p class="info">WORK │ 경력직 채용</p>
+							</div>
+						</a>
+					</div>
+					<div class="btn-wrap mgt60 c" style="display:block">
+						<button id="moreBtn" onclick="fnMore();" class="btn btn-ico">더보기<span class="ico-circle"><i class="ico ico-plus"></i></span></button>
+					</div>
+				</div>
+			</section>
+		</div>
+	</div>
+
+	<div>
+	<footer id="footer">
+		<div class="footer-btn-wrap">
+			<!-- <div class="footer-pop-wrap" style="display:none;">
+				<button class="btn-pop">
+					<i class="ico ico-footer-pop"></i>
+				</button>
+				<div class="msg">
+					<p>현대모비스X서강대 모빌리티<br/>SW 채용 공고 안내 😎</p>
+					<span><i class="ico ico-footer-pop sm"></i></span>
+				</div>
+			</div> -->
+			<div class="footer-fit-wrap not-apply">
+				<button class="btn-fit">
+					<img src="/web/img/symbol_f_r.png" alt="심볼">
+				</button>
+				<div class="msg">
+					<span class="c-red">'어떤 공고가 나에게 맞을까?'</span> <br />알맞은 채용 공고를
+					찾아드려요.
+				</div>
+			</div>
+			<div class="footer-fit-wrap apply">
+				<button class="btn-fit">
+					<img src="/web/img/symbol_f_bk.png" alt="심볼">
+				</button>
+				<div class="msg">
+					현재 <span class="c-red nickname">모비스</span>님의 맞춤 정보가 <br />우선적으로 추천되고 있어요.
+				</div>
+			</div>
+			<div class="scroll-progress-wrap up">
+				<button class="scroll-progress">
+					<p>Scroll down</p>
+					<svg viewBox="0 0 50 50" id="circle" class="circle">
+						<path
+								d="M25 25 m0 -20 a20 20 0 1 0 0 40 a20 20 0 1 0 0 -40"
+								stroke-dashoffset="0" />
+						<path id="path" class="path"
+							  d="M25 25 m0 -20 a20 20 0 1 0 0 40 a20 20 0 1 0 0 -40"
+							  stroke="#B71A1A" />
+					</svg>
+				</button>
+			</div>
+		</div>
+		<div class="footer-inner">
+			<!-- <div class="footer-typo-wrap">
+				<div class="typo"></div>
+				<p>We’re looking for ...</p>
+			</div> -->
+			<div class="footer-top">
+				<div class="footer-logo">
+					<span class="ir_pm">현대모비스 채용 (MOBIS Careers)</span>
+				</div>
+				<div class="footer-list-wrap">
+					<div class="footer-list">
+						<p class="footer-tit">Career MOBIS</p>
+						<ul>
+							<li><a href="https://mobis.recruiter.co.kr/career/home" target="_blank">ENG</a></li>
+							<li><a href="/private">개인정보 처리방침</a></li>
+							<!-- <li class="on"><a href="/tos">이용약관</a></li> -->
+							<li><a class="btn-layer" href="#layerEmail">이메일 무단수집거부</a></li>
+							<!-- <li><a href="https://www.mobis.co.kr/kr/util/util_cyber.do"
+								target="_blank">윤리경영 사이버감사실</a></li> -->
+						</ul>
+					</div>
+					<div class="footer-list family">
+						<p class="footer-tit">
+							Family Site<i></i>
+						</p>
+						<ul>
+							<li><a href="https://www.mobis.co.kr/" target="_blank">현대모비스
+								홈페이지</a></li>
+							<li><a href="https://www.mobis.co.kr/kr/sustain/social.do"
+								   target="_blank">현대모비스 사회공헌페이지</a></li>
+							<li><a href="https://mobislive.com/" target="_blank">모비스
+								라이브</a></li>
+							<li><a href="https://phoebus.kbl.or.kr/" target="_blank">현대모비스
+								피버스</a></li>
+							<li><a href="https://www.hyundaimotorgroup.com" target="_blank">현대자동차
+								그룹</a></li>
+						</ul>
+					</div>
+					<div class="footer-list sns">
+						<p class="footer-tit">SNS Channel</p>
+						<ul>
+							<li><a href="https://www.youtube.com/@MOBISLIVE"
+								   target="_blank"><i class="ico ico-youtube"></i><span
+									class="ir_pm">현대모비스 유튜브</span></a></li>
+							<li><a
+									href="https://www.instagram.com/hyundaimobis_recruit/"
+									target="_blank"><i class="ico ico-insta"></i><span
+									class="ir_pm">현대모비스 인스타그램</span></a></li>
+							<li><a
+									href="https://www.linkedin.com/company/hyundai-mobis/"
+									target="_blank"><i class="ico ico-linkdin"></i><span
+									class="ir_pm">현대모비스 링드드인</span></a></li>
+							<li><a href="https://pf.kakao.com/_fxixjxlxj"
+								   target="_blank"><i class="ico ico-kakao"></i><span
+									class="ir_pm">현대모비스 카카오채널</span></a></li>
+						</ul>
+					</div>
+				</div>
+				<!--<div class="footer-typo-wrap">
+					<div class="typo"></div>
+				</div>-->
+			</div>
+			<div class="footer-bottom">
+				<p class="copy">
+					COPYRIGHT©2023 Hyundai MOBIS CORP. <br />ALL RIGHTS RESERVED.
+				</p>
+				<!-- <a href="https://mobis.recruiter.co.kr/app/applicant/myPage/login" target="_blank">My Page</a> -->
+			</div>
+		</div>
+	</footer>
+
+	<!-- <div class="layer-wrap customPop" id="layerCustom">
+		<div class="layer-back"></div>
+		<div class="layer">
+			<div class="layer-head">
+				<div class="logo-wrap">
+					<img src="/web/img/logo_w.svg" alt="HYUNDAI MOBIS CAREERS">
+				</div>
+				<button class="layer-close">
+					<i class="ico ico-close wh"></i>
+				</button>
+			</div>
+			<div class="layer-body">
+				<ul class="custom-list">
+					<li class="custom-item" style="background-image:url(/web/img/custom_back.jpg);">
+						<p class="custom-tit">현대모비스 X 서강대<br/>모빌리티 SW 채용 연계트랙</p>
+						<p class="custom-desc">현대모비스와 함께 모빌리티의 미래를 두 손으로 직접 열어갈 <br class="off768"/>서강대학교 학부생 여러분의 많은 관심과 지원 바랍니다.</p>
+						<div class="custom-info">
+							<p><span>선발혜택</span>등록금 전액 지원, 졸업 후 현대모비스 입사, 우수자 해외 견학 지원 등</p>
+							<p><span>모집일정</span>5월 7일(화)~5월 20일(월)</p>
+							<p><span>모집분야</span>2개 사업부, 총 3개 직무</p>
+						</div>
+						<ul class="custom-btnwrap">
+							<li><a href="https://careers.mobis.com/jobs-view?seq=1814">자율주행 ASW 임베디드 통합 개발</a></li>
+							<li><a href="https://careers.mobis.com/jobs-view?seq=1831">ADAS 임베디드 SW 플랫폼 설계</a></li>
+							<li><a href="https://careers.mobis.com/jobs-view?seq=1832">BMS SW 설계</a></li>
+						</ul>
+						<div class="btn-wrap text-l">
+							<a href="https://careers.mobis.com/jobs?search=%EC%9E%A5%ED%95%99" class="btn btn-ico wh"><span class="ico-circle"><i class="ico ico-arrow-link"></i></span>포지션 <br/>모아보기</a>
+						</div>
+					</li>
+				</ul>
+				<div class="popControl">
+					<button class="slide-btn prev">
+						<i class="ico ico-pop-left"></i> <span class="ir_su">이전
+							슬라이드 이동</span>
+					</button>
+					<button class="slide-btn next">
+						<i class="ico ico-pop-right"></i> <span class="ir_su">다음
+							슬라이드 이동</span>
+					</button>
+				</div>
+
+			</div>
+		</div>
+	</div> -->
+
+	<div class="layer-wrap" id="layerFit">
+		<div class="layer-back"></div>
+		<div class="layer-fit">
+			<div class="layer-fit-head">
+				<p class="tit">
+					나에게 꼭 맞는 <br class="on768" />공고를 찾아보세요
+				</p>
+				<p class="tit result">
+					<span class="c-blue nickname"></span>님을 위한 맞춤공고예요
+				</p>
+				<button class="layer-close">
+					<i class="ico ico-close"></i>
+				</button>
+			</div>
+			<div class="layer-fit-body">
+				<div class="step step01 open">
+					<div class="qa-wrap">
+						<div class="q-wrap">
+							<div class="symbol-wrap">
+								<div class="symbol" id="fitSb1"></div>
+								<!-- <img src="/web/img/symbol_r.svg" alt="심볼"> -->
+								<p>Q1</p>
+							</div>
+							<p class="qs">이름 또는 닉네임을 작성해주세요.</p>
+						</div>
+						<div class="a-wrap">
+							<div class="input-wrap">
+								<label for="name" class="ir_su">이름 또는 닉네임 입력</label>
+								<input type="text" id="nickname" class="input-txt" placeholder="이름을 입력해주세요." maxlength="10">
+							</div>
+						</div>
+					</div>
+					<div class="btn-wrap">
+						<button class="red next disable">다음</button>
+					</div>
+				</div>
+				<div class="step step02">
+					<div class="qa-wrap">
+						<div class="q-wrap">
+							<div class="symbol-wrap">
+								<div class="symbol" id="fitSb2"></div>
+								<!-- <img src="/web/img/symbol_r.svg" alt="심볼"> -->
+								<p>Q2</p>
+							</div>
+							<p class="qs">
+								<span class="c-blue nickname">모비스</span>님, <br class="on768" />어떤 업무를
+								희망하시나요?
+							</p>
+						</div>
+						<div class="a-wrap">
+							<ul id="divisionArea" class="check-wrap">
+								<li class="all">
+									<div class="check">
+										<input type="checkbox" id="work0" name="work0" value="" data-name="전체">
+										<label for="work0">전체</label>
+									</div>
+								</li>
+							</ul>
+						</div>
+					</div>
+					<div class="btn-wrap double">
+						<button class="bk prev fitAlt2">이전</button>
+						<button class="red next disable">다음</button>
+					</div>
+				</div>
+				<div class="step step03">
+					<div class="qa-wrap">
+						<div class="q-wrap">
+							<div class="symbol-wrap">
+								<div class="symbol" id="fitSb3"></div>
+								<!-- <img src="/web/img/symbol_r.svg" alt="심볼"> -->
+								<p>Q3</p>
+							</div>
+							<p class="qs">
+								다양한 분야에서 <br class="on768" />
+								<span class="c-blue nickname">모비스</span>님을 기다리고 있어요
+							</p>
+							<p class="noti">최대 5개까지 선택 가능합니다.</p>
+						</div>
+						<div class="a-wrap">
+							<ul id="businessArea" class="check-wrap">
+								<li class="all">
+									<div class="check">
+										<input type="checkbox" id="dept0" name="dept0" value="" data-name="전체">
+										<label for="dept0">전체</label>
+									</div>
+								</li>
+							</ul>
+						</div>
+					</div>
+					<div class="btn-wrap double">
+						<button class="bk prev fitAlt2">이전</button>
+						<button class="red next disable">다음</button>
+					</div>
+				</div>
+				<div class="step step04">
+					<div class="qa-wrap">
+						<div class="q-wrap">
+							<div class="symbol-wrap">
+								<div class="symbol" id="fitSb4"></div>
+								<!-- <img src="/web/img/symbol_r.svg" alt="심볼"> -->
+								<p>Q4</p>
+							</div>
+							<p class="qs">
+								<span class="c-blue nickname">모비스</span>님, <br class="on768" />희망하는 직무를
+								선택해주세요
+							</p>
+							<p class="noti">최대 5개까지 선택 가능합니다.</p>
+						</div>
+						<div class="a-wrap">
+							<ul id="dutyArea" class="check-wrap">
+								<li class="all">
+									<div class="check">
+										<input type="checkbox" id="job0000" name="job0" value="" data-name="전체">
+										<label for="job0000">전체</label>
+									</div>
+								</li>
+							</ul>
+						</div>
+					</div>
+					<div class="btn-wrap double">
+						<button class="bk prev fitAlt2">이전</button>
+						<button class="red next disable">다음</button>
+					</div>
+				</div>
+				<div class="step step05">
+					<div class="qa-wrap">
+						<div class="q-wrap">
+							<div class="symbol-wrap">
+								<div class="symbol" id="fitSb5"></div>
+								<!-- <img src="/web/img/symbol_r.svg" alt="심볼"> -->
+								<p>Q5</p>
+							</div>
+							<p class="qs">
+								<span class="c-blue nickname">모비스</span>님, <br class="on768" />선호하는 근무
+								위치는 어디인가요?
+							</p>
+							<p class="noti">최대 5개까지 선택 가능합니다.</p>
+						</div>
+						<div class="a-wrap">
+							<ul id="localArea" class="check-wrap">
+								<li class="all">
+									<div class="check">
+										<input type="checkbox" id="local0" name="local0" value="">
+										<label for="local0">전체</label>
+									</div>
+								</li>
+							</ul>
+						</div>
+					</div>
+					<div class="btn-wrap double">
+						<button class="bk prev fitAlt2">이전</button>
+						<button class="red result disable next">다음</button>
+					</div>
+				</div>
+				<div class="step step06">
+					<div class="result-wrap">
+						<p class="result-tit">추천공고</p>
+						<div class="slide-wrap job-slide-wrap mo-dot clearfix" id="popupJob">
+							<div id="popupJobList" class="slide">
+							</div>
+							<div class="slide-control">
+								<div class="num">
+									<span class="curr"></span> <span>/</span> <span class="total"></span>
+								</div>
+								<div class="arrow">
+									<button class="slide-btn prev">
+										<i class="ico ico-arrow-left"></i> <span class="ir_su">이전
+											슬라이드 이동</span>
+									</button>
+									<button class="slide-btn next">
+										<i class="ico ico-arrow-right"></i> <span class="ir_su">다음
+											슬라이드 이동</span>
+									</button>
+								</div>
+							</div>
+							<a href="/jobs" class="btn btn-ico">추천공고 <br />더보기<span class="ico-circle"><i class="ico ico-arrow-link"></i></span></a>
+						</div>
+						<p class="result-tit mgt60">추천 직무 인터뷰</p>
+						<div class="slide-wrap img-slide-wrap wide mgt24 mo-dot clearfix" id="popupIntervew">
+							<div id="popPeopleList" class="slide">
+							</div>
+							<div class="slide-control">
+								<div class="num">
+									<span class="curr"></span> <span>/</span> <span class="total"></span>
+								</div>
+								<div class="arrow">
+									<button class="slide-btn prev">
+										<i class="ico ico-arrow-left"></i> <span class="ir_su">이전
+											슬라이드 이동</span>
+									</button>
+									<button class="slide-btn next">
+										<i class="ico ico-arrow-right"></i> <span class="ir_su">다음
+											슬라이드 이동</span>
+									</button>
+								</div>
+							</div>
+							<a href="/people" class="btn btn-ico">추천 직무 인터뷰 <br />더보기<span class="ico-circle"><i class="ico ico-arrow-link"></i></span></a>
+						</div>
+						<div class="result-noti">
+							<p>
+								메인 페이지에 반영하기를 선택하시면 <br />입력하신 내용이 사이트에 반영되어 맞춤 정보가 우선 노출돼요.
+							</p>
+						</div>
+					</div>
+					<div class="btn-wrap double">
+						<button onclick="fnReset();" class="bk first fitAlt2">처음부터 다시하기</button>
+						<button id="resultBtn" onclick="fnReflect();" class="red">검색 결과 반영하기</button>
+						<!-- 메인 페이지에 반영하기 버튼 클릭 -> html에 fit-apply 클래스 추가 -->
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div class="layer-wrap" id="fit-alert01">
+		<div class="layer-back"></div>
+		<div class="layer">
+			<div class="layer-head">
+				<p class="tit">
+					<span class="c-blue nickname">모비스</span>님, <br class="on768" />안내드립니다.
+				</p>
+				<button class="layer-close">
+					<i class="ico ico-close"></i>
+				</button>
+			</div>
+			<div class="layer-body">
+				<div class="layer-cont">
+					<ul id="choice1" class="choice-list before">
+						<!-- <li>신입 ・ 관리직</li>
+						<li>전장BU</li>
+						<li>기획</li> -->
+					</ul>
+					<p class="txt01 mgt12">
+						현재 찾으시는 조건과 일치하는 <br class="on768" />채용공고가 없어요
+					</p>
+					<ul id="choice2" class="mgt24 choice-list">
+						<!-- <li>신입 ・ 관리직</li>
+						<li>전장BU</li> -->
+					</ul>
+					<p class="txt01 mgt12">
+						이 조건으로 <br class="on768" />찾아보시는 건 어때요?
+					</p>
+				</div>
+				<div class="btn-wrap double mo-split">
+					<button onclick="fnSearchJob(4, 'fit-alert01');" class="red lg fitAlt2">추천 검색 조건으로 검색하기</button>
+					<button onclick="fnReset();" class="bk s">다시하기</button>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div class="layer-wrap" id="fit-alert02">
+		<div class="layer-back"></div>
+		<div class="layer">
+			<div class="layer-head">
+				<p class="tit">
+					<span class="c-blue nickname">모비스</span>님, <br class="on768" />안내드립니다.
+				</p>
+				<button class="layer-close">
+					<i class="ico ico-close"></i>
+				</button>
+			</div>
+			<div class="layer-body">
+				<div class="layer-cont">
+					<p class="txt01">
+						현재까지 선택하신 분야의 채용 공고는 <br class="on768" />
+						모두 <span id="searchCnt1" class="c-red"></span>건이 진행 중이에요. <br />모두 확인해 보시겠어요?
+					</p>
+				</div>
+				<div class="btn-wrap double mo-split">
+					<button onclick="fnMoreDetail();" class="bk fitAlt2">더 검색해볼게요</button>
+					<button onclick="fnSearchJob(4, 'fit-alert02');" class="red">네, 볼게요</button>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div class="layer-wrap" id="fit-alert03">
+		<div class="layer-back"></div>
+		<div class="layer">
+			<div class="layer-head">
+				<p class="tit">
+					현재는 진행 중인 공고가 하나도 없어요.
+				</p>
+				<button class="layer-close">
+					<i class="ico ico-close"></i>
+				</button>
+			</div>
+			<div class="layer-body">
+				<div class="layer-cont">
+					<p class="txt01">
+						카카오톡 플러스 친구로 등록하시거나, <br class="on768" />
+						인스타 팔로우를 해주시면 공고 발생 시 바로 안내드릴게요.
+					</p>
+				</div>
+				<div class="btn-wrap double mo-split">
+					<button onclick="window.open('https://pf.kakao.com/_fxixjxlxj')" class="bk fitAlt2">카카오톡 친구 등록하기</button>
+					<button onclick="window.open('https://www.instagram.com/hyundaimobis_recruit')" class="red">인스타그램 팔로우하기</button>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div class="layer-wrap" id="layerEmail">
+		<div class="layer-back"></div>
+		<div class="layer">
+			<div class="layer-head">
+				<p class="tit">이메일 <br class="on768"/>무단수집거부</p>
+				<button class="layer-close">
+					<i class="ico ico-close"></i>
+				</button>
+			</div>
+			<div class="layer-body">
+				<div class="layer-cont">
+					<p class="layer-txt">본 웹사이트에 게시된 이메일 주소가 전자우편수집프로그램이나 그 밖의 기술적 장치를 이용하여 무단으로 수집되는 것을 거부하며 이를 위반 시 정보통신망 이용촉진 및 정보보호 등에 관한 법률에 의해 형사처벌 됨을 유념하시기 바랍니다.<br><br>■ 제 70조 (벌칙)에 따라 7년 이하의 징역 또는 5천 만원 이하의 벌금에 처한다.<br><br>① 사람을 비방할 목적으로 정보통신망을 통하여 공공연하게 사실을 드러내어 다른 사람의 명예를 훼손한 자<br>② 사람을 비방할 목적으로 정보통신망을 통하여 공공연하게 거짓의 사실을 드러내어 다른 사람의 명예를 훼손한 자<br>③ 제1항과 제2항의 죄는 피해자가 구체적으로 밝힌 의사에 반하여 공소를 제기할 수 없다.<br><br>-<br><br> We reject unauthorized collection of e-mail addresses posted on this website by anyone through electronic mail collection programs or other technical measures. Note that any violation of this will be subject to criminal punishment under the Act on Promotion of Information and Communications Network Utilization and Information Protection. <br><br>Any of the following persons shall be punished by imprisonment with labor for up to seven years or by a fine not exceeding 50 million won under Article 70 (Penalty Provisions).<br><br>(1) A person who commits defamation of another person by disclosing a fact to the public through an information and communications network purposely to disparage the reputation of such person<br>(2) A person who commits defamation of another person by disclosing a false fact to the public through an information and communications network purposely to disparage the reputation of such person <br>(3) The prosecution may not prosecute a person who committed a crime under paragraph (1) or (2) against the victim's will explicitly manifested.</p>
+				</div>
+				<div class="btn-wrap">
+					<button class="layer-close red">닫기</button>
+				</div>
+			</div>
+		</div>
+	</div>
+	<script type="text/javascript" src="/web/js/jquery-3.6.0.min.js"></script>
+	<!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/bodymovin/5.12.2/lottie.min.js" integrity="sha512-jEnuDt6jfecCjthQAJ+ed0MTVA++5ZKmlUcmDGBv2vUI/REn6FuIdixLNnQT+vKusE2hhTk2is3cFvv5wA+Sgg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script> -->
+	<script type="text/javascript" src="/web/js/gsap.min.js"></script>
+	<script type="text/javascript" src="/web/js/ScrollTrigger.min.js"></script>
+	<script type="text/javascript" src="/web/js/slick.min.js"></script>
+	<script type="text/javascript" src="/web/js/lottie.min.js"></script>
+	<script type="text/javascript" src="/web/js/common.min.js"></script>
+</div>
+
+	<script type="text/javascript" src="/web/js/sub.js"></script>
+	<script type="text/javascript" src="/web/js/ScrollToPlugin.min.js"></script>
+
+	<script>
+	$(function() {
+		workSlide();
+		secSep();
+		floatMotion();
+
+		$('.scroll-progress-wrap p').show();
+
+		// 비쥬얼 모션
+		$('html').addClass('visual-intro scroll-disable');
+		$('.footer-fit-wrap').removeClass('on');
+		$('.footer-pop-wrap').removeClass('on');
+		visualMotion();
+
+		$('.scroll-progress').on('click', function() {
+			if ($(this).parent().hasClass('down')) {
+				$(window).scrollTop(0);
+			} else {
+				$(window).scrollTop($('.life-con.work').offset().top);
+			}
+			$('html').addClass('visual-ani').removeClass('visual-intro scroll-disable');
+		});
+
+		ScrollTrigger.matchMedia({
+			"(min-width: 1201px)": () => {
+				const ani1 = gsap.timeline();
+				var w01 = $('.sc01 .work-list').outerWidth();
+				var w02 = $('.sc02 .work-list').outerWidth();
+				gsap.set('.sc02',{x: '100%'})
+				ani1.to('.sc01 .work-list', {x: -($('.sc01 .work-list').outerWidth() - $(window).width()/2)},'fir')
+					.to('.sc02', {x: '0'},'sec')
+					.to('.sc02 .work-list', {x: -($('.sc02 .work-list').outerWidth() - $(window).width()/2)},'thi')
+					.to('.sc02 .work02-tit', {x: -($('.sc02 .work-list').outerWidth() - $(window).width()/2)},'thi')
+
+				let st = ScrollTrigger.create({
+					animation: ani1,
+					trigger: '.life-con.work',
+					start: 'top top',
+					end: '500%',
+					pin: '.life-con.work',
+					scrub: true,
+					// markers: true,
+				})
+				$('#work02').on('click',function() {
+					gsap.to(window, {scrollTo: ani1.scrollTrigger.labelToScroll('thi'),ease: Power0.easeNone});
+				})
+			}
+		})
+
+		// wellbeing 슬라이드
+		$('.well-slide').slick({
+			swipeToSlide: true,
+			draggable: true,
+			dots: true,
+			infinite: false,
+			focusOnSelect: true,
+			arrows: true,
+			touchThreshold: 5000,
+			variableWidth: true,
+			autoplay: true,
+			centerMode: true,
+			touchThreshold: 5000,
+			autoplaySpeed: 2000,
+			prevArrow: $('.well-slide-wrap .prev'),
+			nextArrow: $('.well-slide-wrap .next'),
+			responsive: [{
+				breakpoint: 1403,
+				settings: {
+					centerMode: false,
+				}
+			}, {
+				breakpoint: 767,
+				settings: {
+					centerMode: false,
+					// variableWidth: false,
+					// dots: true,
+					arrows: false,
+				}
+			}]
+		});
+
+		// $('.well-slide').on('init reInit afterChange', function(event, slick, currentSlide, nextSlide) {
+		// 	var w = (currentSlide * 340) * -1; //(308 + 32)
+
+		// 	$('.well-max-slide .slick-list').stop().animate({
+		// 		left: w
+		// 	}, 400);
+
+		// 	$('.well-max-slide .slick-slide').removeClass('slick-active');
+		// 	$('.well-max-slide .slick-slide').eq(currentSlide).addClass('slick-active');
+
+		// 	$('.well-max-txt li').removeClass('active');
+		// 	$('.well-max-txt li').eq(currentSlide).addClass('active');
+		// })
+
+		// video 슬라이드
+		$('.video .img-slide-wrap .slide').slick({
+			swipeToSlide: true,
+			draggable: true,
+			dots: false,
+			infinite: false,
+			arrows: true,
+			touchThreshold: 5000,
+			variableWidth: true,
+			prevArrow: $('.img-slide-wrap .prev'),
+			nextArrow: $('.img-slide-wrap .next'),
+			responsive: [{
+				breakpoint: 959,
+				settings: {
+					dots: true,
+					arrows: false,
+				}
+			}, {
+				breakpoint: 767,
+				settings: {
+					dots: true,
+					arrows: false,
+					infinite: true,
+					// variableWidth: false,
+				}
+			}]
+		});
+
+		// career 슬라이드
+		$('.career-slide-wrap .slide').slick({
+			swipeToSlide: true,
+			draggable: true,
+			dots: false,
+			arrows: true,
+			variableWidth: true,
+			focusOnSelect: true,
+			touchThreshold: 5000,
+			autoplay: true,
+			autoplaySpeed: 2000,
+			prevArrow: $('.career-slide-wrap .prev'),
+			nextArrow: $('.career-slide-wrap .next'),
+			responsive: [{
+				breakpoint: 767,
+				settings: {
+					dots: true,
+					arrows: false,
+					// variableWidth: false,
+				}
+			}]
+		});
+
+		$('.career-slide-wrap .slide').on('init reInit afterChange', function(event, slick, currentSlide, nextSlide) {
+			$('.career-txt li').removeClass('active');
+			$('.career-txt li').eq(currentSlide).addClass('active');
+		});
+
+		$('.float-wrap button').on('click',function() {
+			$('html').removeClass('visual-intro scroll-disable').addClass('visual-ani');
+
+			var txt = $(this).text();
+			var txt_low = txt.toLowerCase();
+			$('.quick-wrap button[data-target="'+ txt_low +'"]').trigger('click');
+		})
+
+		$(window).on('scroll', function() {
+			secSep();
+			floatMotion();
+
+			if($(window).scrollTop() <= 0) {
+				$('html').addClass('scroll-disable');
+			}
+
+			if($('html').hasClass('life02')) {
+				setTimeout(function() {
+					$('.quick-2dep-list').addClass('on');
+				},400);
+			} else {
+				setTimeout(function() {
+					$('.quick-2dep-list').removeClass('on');
+				},400);
+			}
+		});
+
+		$(window).on('resize',function() {
+			setTimeout(function() {
+				ScrollTrigger.refresh();
+			},200)
+
+			workSlide();
+			secSep();
+			floatMotion();
+		});
+
+		function floatMotion() {
+			if ($('header#header').hasClass('scroll')) {
+				$('.float-wrap').removeClass('top');
+				$('.quick-wrap').addClass('ani')
+			} else {
+				$('.float-wrap').addClass('top');
+				$('.quick-wrap').removeClass('ani')
+			}
+
+			if ($(window).width() > 1199) {
+				var val = $(document).height() - ($(window).height() / 2) - $('footer#footer').outerHeight() - 750;
+				var h = $(document).height() - $('footer#footer').outerHeight() - 380;
+
+				if ($(window).scrollTop() >= val) {
+					$('.float-wrap').addClass('fixed')
+					$('.float-wrap').css('top', h);
+				} else {
+					$('.float-wrap').removeClass('fixed')
+					$('.float-wrap').css('top', 'auto');
+				}
+			} else {
+				$('.float-wrap').removeClass('fixed')
+				$('.float-wrap').css('top', 'auto');
+			}
+
+			var val02 = $(document).height() - ($(window).height() / 2) - $('footer#footer').outerHeight() - 600;
+			var h02 = $(document).height() - $('footer#footer').outerHeight() - 200;
+
+			if ($(window).scrollTop() >= val02) {
+				$('.quick-wrap').addClass('fixed')
+				$('.quick-wrap').css('top', h02);
+			} else {
+				$('.quick-wrap').removeClass('fixed')
+				$('.quick-wrap').css('top', 'auto');
+			}
+
+			$('.quick-wrap button').on('click',function() {
+				var target = $(this).data('target');
+				if($(this).parent().hasClass('quick-2dep-list')) {
+					if (target == 'work01') {
+						$(window).scrollTop($(window).height());
+					} else if (target == 'work02') {
+						if ($(window).width() > 1199) {
+							// $(window).scrollTop($(window).outerHeight()+($('.sc01 .work-list').outerWidth()-$(window).width()/2)+$('.sc02').outerWidth());
+						} else {
+							$(window).scrollTop($('.sc02').offset().top);
+						}
+					}
+					return;
+				} else if (target == 'work') {
+					var offset = $(window).height();
+				} else {
+					var offset = $('section.' + target).offset().top;
+				}
+				$(window).scrollTop(offset);
+			})
+
+			if ($('html').hasClass('life01') || $('html').hasClass('life02')) {
+				$('.quick-wrap button[data-target="work"]').addClass('active')
+				// $('.quick-list .quick-2dep-list').fadeIn();
+			} else {
+				$('.quick-wrap button[data-target="work"]').removeClass('active')
+				// $('.quick-list .quick-2dep-list').fadeOut();
+			}
+
+			if ($('html').hasClass('life03')) {
+				$('.quick-wrap button[data-target="wellbeing"]').addClass('active')
+			} else {
+				$('.quick-wrap button[data-target="wellbeing"]').removeClass('active')
+			}
+
+			if ($('html').hasClass('life04')) {
+				$('.quick-wrap button[data-target="career"]').addClass('active')
+			} else {
+				$('.quick-wrap button[data-target="career"]').removeClass('active')
+			}
+
+			if ($('html').hasClass('life05')) return;
+
+			var selW = $('.quick-list .active').outerWidth();
+			var selP = $('.quick-list .active').position();
+
+			$('.quick-list .bar').css({'left':selP.left, 'width': selW});
+		}
+
+		// work slide
+		function workSlide() {
+			var workOptions = {
+				swipeToSlide: true,
+				draggable: true,
+				dots: true,
+				arrows: false,
+				variableWidth: true,
+				touchThreshold: 5000,
+				centerMode: true,
+				responsive: [{
+					breakpoint: 767,
+					settings: {
+						centerMode: false,
+						// variableWidth: false,
+					}
+				}]
+			};
+
+			if ($(window).width() > 1199) {
+				$('.work-list').filter('.slick-initialized').slick('unslick');
+				$('.work-list').each(function() {
+					var listN = $(this).find('li').length;
+					var listW = (307 * listN) + (32 * (listN - 1));
+
+					$(this).css('width',listW);
+				})
+			} else {
+				$('.work-list').css('width','auto');
+				$('.work-list').not('.slick-initialized').slick(workOptions);
+				$('.work-list').slick('setPosition');
+			}
+		}
+
+		function visualMotion() {
+			var time = 200,
+				time02 = 400;
+
+			// pc
+			$(window).bind('wheel', function(event) {
+				if (event.originalEvent.wheelDelta > 0 || event.originalEvent.detail < 0) {
+					if (!$('html').hasClass('menu-open') && $('#layerFit').css('display') == 'none') {
+						moveUp();
+					}
+				} else {
+					if (!$('html').hasClass('menu-open') && $('#layerFit').css('display') == 'none') {
+						moveDown();
+					}
+				}
+			});
+
+			// mobile
+			var startX, startY, endX, endY;
+
+			$(window).on('touchstart', function(event) {
+				startX = event.originalEvent.changedTouches[0].screenX;
+				startY = event.originalEvent.changedTouches[0].screenY;
+			});
+
+			$(window).on('touchend', function(event) {
+				endX = event.originalEvent.changedTouches[0].screenX;
+				endY = event.originalEvent.changedTouches[0].screenY;
+
+				if (startY - endY > 50) {
+					if (!$('html').hasClass('menu-open') && $('#layerFit').css('display') == 'none') {
+						moveDown();
+					}
+				} else if (endY - startY > 50) {
+					if (!$('html').hasClass('menu-open') && $('#layerFit').css('display') == 'none') {
+						moveUp();
+					}
+				}
+			});
+
+			function moveDown() {
+				if ($(window).scrollTop() == 0) {
+	                if ($('html').hasClass('visual-intro')) {
+	                    setTimeout(function() {
+	                        $('html').removeClass('visual-intro').addClass('visual-ani');
+	                    }, time);
+	                }
+
+	                if ($('html').hasClass('visual-ani') && $('html').hasClass('scroll-disable')) {
+	                    setTimeout(function() {
+	                        $('html').removeClass('scroll-disable');
+	                    }, time02);
+	                }
+
+	            }
+			}
+
+			function moveUp() {
+				if ($(window).scrollTop() == 0) {
+	                if ($('html').hasClass('visual-ani') && $('html').hasClass('scroll-disable')) {
+	                    setTimeout(function() {
+	                        $('html').addClass('visual-intro').removeClass('visual-ani');
+	                    }, time02);
+	                }
+
+	                if ($('html').hasClass('visual-ani')) {
+	                    setTimeout(function() {
+	                        $('html').addClass('scroll-disable');
+	                    }, time);
+	                }
+
+	            }
+			}
+		}
+
+		function secSep() {
+			$('section').each(function(i) {
+				var h = $('section').eq(i).outerHeight(),
+					t = $('section').eq(i).offset().top;
+
+				if ($(window).scrollTop() + $(window).height() > t + $(window).height() / 2) {
+					$('html').removeClass('life01 life02 life03 life04 life05')
+					$('html').addClass('life0' + (i + 1))
+				}
+			})
+
+			// $('.life-detail-content').each(function(i) {
+			// 	var h = $('.life-detail-content').eq(i).outerHeight(),
+			// 		t = $('.life-detail-content').eq(i).offset().top;
+			//
+			// 		if ($(window).scrollTop() + $(window).height() > t + $(window).height() / 2) {
+			// 			$('html').removeClass('work01 work02')
+			// 			$('html').addClass('work0' + (i + 1))
+			// 		}
+			// })
+			$('.sc-wrap').each(function(i) {
+					if ($(window).width() > 1199) {
+						var h = $('.life-con.work').outerHeight(),
+						t = $('.life-con.work').offset().top,
+						l = $('.sc-wrap').eq(i).offset().left;
+
+						if ($(window).scrollTop() + $(window).height() > t + $(window).height() / 2) {
+							if ($(window).width() / 2 > l) {
+								$('html').removeClass('work01 work02')
+								$('html').addClass('work0' + (i + 1))
+							}
+						}
+					} else {
+						var h = $('.sc-wrap').eq(i).outerHeight(),
+							t = $('.sc-wrap').eq(i).offset().top;
+
+						if ($(window).scrollTop() + $(window).height() > t + $(window).height() / 2) {
+							$('html').removeClass('work01 work02')
+							$('html').addClass('work0' + (i + 1))
+						}
+					}
+			})
+
+			if ($(window).width() > 1199) {
+				if ($('.sc-wrap.sc02').offset().left == 0) {
+					$('.sc-wrap.sc01').css('background-color','transparent');
+				} else {
+					$('.sc-wrap.sc01').css('background-color','#fff');
+				}
+			}
+		}
+	});
+
+	function fnMore() {
+		$('#eSecArea > a:hidden').slice(0,8).show();
+		if($('#eSecArea > a:hidden').length == 0) $('#moreBtn').css('visibility', 'hidden');
+	}
+	</script>
+</body>
+</html>

@@ -1,0 +1,39 @@
+---
+title: Copycat Catcher
+special_judge: false
+time_limit: 3 초 (추가 시간 없음)
+memory_limit: 1024 MB
+submissions: 109
+accepted: 37
+solved_users: 34
+acceptance_rate: 50.000%
+collected_at: 2026-04-17T19:52:07.969734+00:00
+---
+
+## 문제
+
+Your university recently established the Graduate Code Plagiarism Control (GCPC) initiative to get hold of the ever-increasing load on the graders for the computer science assignments. Currently, the graders need to check the code of assignments manually for plagiarism. The GCPC aims to simplify this part of the graders' jobs by performing the plagiarism checks automatically.
+
+Code consists of tokens separated by spaces. Tokens are strings of alphabetical letters, numerals, and brackets. If a token consists of only a single alphabetical letter (upper or lowercase), it is a variable in the code.
+
+The GCPC wants the plagiarism checker to compare query pieces of code to a reference code. Specifically, it should check whether each query could have been obtained by selecting a contiguous string of tokens from the reference and consistently renaming variables.
+
+Variables are consistently renamed if no two occurrences of the same variable are renamed to different variables, and if no two different variables are renamed to the same variable.
+
+The GCPC has asked you to develop the plagiarism checker.
+
+## 입력
+
+The input consists of:
+
+* A description of the reference, consisting of:
+  + One line containing an integer $n$ ($1\leq n \leq 2\,000$), the number of tokens in the reference.
+  + One line containing $n$ tokens, each consisting only of the characters '`a`'-'`z`', '`A`'-'`Z`', '`0`'-'`9`', '`(`' and '`)`'.
+* An integer $q$ ($1 \leq q \leq 2\,000$), the number of queries.
+* $2\cdot q$ lines, each two lines in the same format as the reference.
+
+It is guaranteed that each query as well as the reference consist of at most $2\,000$ characters (excluding spaces). Tokens are separated by single spaces.
+
+## 출력
+
+For each query, output "`yes`" if the query could have been obtained from the reference, and "`no`" otherwise.

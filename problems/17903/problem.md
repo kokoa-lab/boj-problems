@@ -1,0 +1,27 @@
+---
+title: Counting Clauses
+special_judge: false
+time_limit: 1 초
+memory_limit: 512 MB
+submissions: 1986
+accepted: 1473
+solved_users: 1342
+acceptance_rate: 74.888%
+collected_at: 2026-04-17T14:49:39.549119+00:00
+---
+
+## 문제
+
+It’s time for the annual 3-SAT competition, where the contestants compete to answer as many instances of 3-SAT as possible within the time limit. 3-SAT is a classic NP-complete problem, where you are given a boolean formula in *conjunctive normal form*, in which we have a set of *clauses* each consisting of exactly three *literals*. Each literal refer either positively or negatively to a *variable*, which can be assigned a value of either `True` or `False`. The question is whether there exists an assignment to the variables such that every clause evaluates to True. No clause will contain duplicates of a literal (however it is possible that a clause contain both ¬xi and xi). An example of a 3-SAT instance is shown below (from sample input 1):
+
+(¬x1 ∨ x2 ∨ x3) ∧ (¬x1 ∨ ¬x2 ∨ x3) ∧ (x1 ∨ ¬x2 ∨ x3) ∧ (x1 ∨ ¬x2 ∨ ¬x3) ∧ (x1 ∨ x2 ∨ ¬x3)
+
+![](./001_preview)Øyvind is a judge in the competition, responsible for verifying the quality of problem instances crafted by the other judges before the contest starts. Øyvind hates 3-SAT instances with less than eight clauses – as these are always satisfiable they provide no real challenge for the contestants. Therefore, he will deem such problem instances to be unsatisfactory. Whenever Øyvind encounters an instance with eight or more clauses he knows that it is a real challenge to figure out whether this instance is satisfiable or not – and therefore he will judge these problem instances to be satisfactory. Given an instance of 3-SAT, can you help find Øyvind’s judgement?
+
+## 입력
+
+The input is a single instance of the 3-SAT problem. The first line is two space-separated integers: m (1 ≤ m ≤ 20), the number of clauses and n (3 ≤ n ≤ 20), the number of variables. Then m clauses follow, one clause per line. Each clause consists of 3 distinct space-separated integers in the range [−n, n] \ {0}. For each clause, the three values correspond to the three literals in the clause. If the literal is negative, that means that the clause is satisfied if the corresponding variable is set to `False`, and if it is positive the clause is satisfied if the variable is set to `True`.
+
+## 출력
+
+Print “satisfactory” on a single line if Øyvind finds the 3-SAT instance to be satisfactory, and “unsatisfactory” otherwise.

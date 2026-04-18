@@ -1,0 +1,25 @@
+---
+title: Letter Bank
+special_judge: false
+time_limit: 1 초
+memory_limit: 128 MB
+submissions: 436
+accepted: 304
+solved_users: 275
+acceptance_rate: 70.332%
+collected_at: 2026-04-17T12:06:40.153856+00:00
+---
+
+## 문제
+
+A letter bank is a word such that all the letters of one letter bank can be used as many times as desired (at least once each) to make a new word. For example, ‘IMPS’ is a bank of ‘MISSISSIPPI.’
+
+Given two words α and β, you are to write a program for deciding whether α is a bank of β. Assume that the first word α has no repeated letters. Every word consists only of capital Roman letters: A, B, …, Z, and no blank.
+
+## 입력
+
+Your program is to read from standard input. The input consists of T (1 ≤ T ≤ 20) test cases. The number T of test case is given in the first line of the input. For each test case, two words are given in one line. There is a single space between the first word and the second word. And each word has length at most 80.
+
+## 출력
+
+Your program is to write a standard output. Print exactly one line for each test case. For each test case, print “YES” if the first word is a bank of the second word. Otherwise, print “NO”.

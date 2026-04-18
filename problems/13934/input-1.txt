@@ -1,0 +1,12 @@
+3
+3 caterpillar 3 pupa 7 butterfly
+3 dove 3 pigeon 7 aaabaaajss
+3 mouse 1 electromouse 5 rat
+7
+0 electromouse
+500 electromouse
+1000 electromouse
+1500 rat
+2000 aaabaaajss
+2500 pigeon
+3000 butterfly

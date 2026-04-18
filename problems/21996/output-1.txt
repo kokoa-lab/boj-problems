@@ -1,0 +1,15 @@
+Test case: 0
+  Productions: (lhs --> rhs)
+    [0]: A --> GC
+    [1]: A --> AA
+    [2]: G --> TA
+
+  Derive "TAGCC" from "A"? YES!
+    Derivation: (0,0) (2,0) (1,1) (0,2) 
+      Apply[0] at 0: S ==> GC
+      Apply[2] at 0:   ==> TAC
+      Apply[1] at 1:   ==> TAAC
+      Apply[0] at 2:   ==> TAGCC
+  Derive "A" from "A"? YES! (trivially)
+  Derive "AB" from "A"? NO!
+

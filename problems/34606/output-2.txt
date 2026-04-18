@@ -1,0 +1,7 @@
+
+
+query 0000
+
+query 1001
+
+answer ((x-x)-(x-x))

@@ -1,0 +1,59 @@
+---
+title: Cookie Clicker Alpha (Large)
+special_judge: true
+time_limit: 5 초
+memory_limit: 512 MB
+submissions: 113
+accepted: 85
+solved_users: 69
+acceptance_rate: 87.342%
+collected_at: 2026-04-17T12:52:41.535774+00:00
+---
+
+## 문제
+
+In this problem, you start with 0 cookies. You gain cookies at a rate of 2 cookies per second, by clicking on a giant cookie. Any time you have at least **C** cookies, you can buy a cookie farm. Every time you buy a cookie farm, it costs you **C** cookies and gives you an extra **F** cookies per second.
+
+Once you have **X** cookies that you haven't spent on farms, you win! Figure out how long it will take you to win if you use the best possible strategy.
+
+Example
+
+Suppose **C**=500.0, **F**=4.0 and **X**=2000.0. Here's how the best possible strategy plays out:
+
+1. You start with 0 cookies, but producing 2 cookies per second.
+2. After **250** seconds, you will have **C**=500 cookies and can buy a farm that produces **F**=4 cookies per second.
+3. After buying the farm, you have 0 cookies, and your total cookie production is 6 cookies per second.
+4. The next farm will cost 500 cookies, which you can buy after about **83.3333333** seconds.
+5. After buying your second farm, you have 0 cookies, and your total cookie production is 10 cookies per second.
+6. Another farm will cost 500 cookies, which you can buy after **50** seconds.
+7. After buying your third farm, you have 0 cookies, and your total cookie production is 14 cookies per second.
+8. Another farm would cost 500 cookies, but it actually makes sense not to buy it: instead you can just wait until you have **X**=2000 cookies, which takes about **142.8571429** seconds.
+
+Total time: 250 + 83.3333333 + 50 + 142.8571429 = 526.1904762 seconds.
+
+Notice that you get cookies continuously: so 0.1 seconds after the game starts you'll have 0.2 cookies, and π seconds after the game starts you'll have 2π cookies.
+
+## 입력
+
+The first line of the input gives the number of test cases, **T**. **T** lines follow. Each line contains three space-separated real-valued numbers: **C**, **F** and **X**, whose meanings are described earlier in the problem statement.
+
+**C**, **F** and **X** will each consist of at least 1 digit followed by 1 decimal point followed by from 1 to 5 digits. There will be no leading zeroes.
+
+Limits
+
+* 1 ≤ **T** ≤ 100.
+* 1 ≤ **C** ≤ 10000.
+* 1 ≤ **F** ≤ 100.
+* 1 ≤ **X** ≤ 100000.
+
+## 출력
+
+For each test case, output one line containing "Case #x: y", where x is the test case number (starting from 1) and y is the minimum number of seconds it takes before you can have **X** delicious cookies.
+
+We recommend outputting y to 7 decimal places, but it is not required. y will be considered correct if it is close enough to the correct number: within an absolute or relative error of 10-6.
+
+## 힌트
+
+Note
+
+*Cookie Clicker* was created by Orteil. Orteil does not endorse and has no involvement with Google Code Jam.

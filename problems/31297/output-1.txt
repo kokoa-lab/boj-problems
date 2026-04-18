@@ -1,0 +1,10 @@
+<reading input>
+<reading input>
+<reading input>
+move 1 1
+<reading input>
+<reading input>
+<reading input>
+move 1 4
+<reading input>
+<terminating>

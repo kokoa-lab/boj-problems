@@ -1,0 +1,9 @@
+2
+6
+3 4
+S UN UPC
+SU NU P C
+5
+4 2
+US S U S
+SSU SU
