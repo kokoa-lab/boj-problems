@@ -1,13 +1,13 @@
 ---
-title: Plocka Äpplen
-special_judge: false
-time_limit: 5 초
-memory_limit: 1024 MB
+title: "Plocka Äpplen"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "1024 MB"
 submissions: 57
 accepted: 24
 solved_users: 20
-acceptance_rate: 43.478%
-collected_at: 2026-04-17T17:52:46.505786+00:00
+acceptance_rate: "43.478%"
+collected_at: "2026-04-17T17:52:46.505786+00:00"
 ---
 
 ## 문제

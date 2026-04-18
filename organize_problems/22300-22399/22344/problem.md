@@ -1,13 +1,13 @@
 ---
-title: 그래프 균형 맞추기
-special_judge: true
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "그래프 균형 맞추기"
+special_judge: "true"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 1472
 accepted: 398
 solved_users: 323
-acceptance_rate: 26.850%
-collected_at: 2026-04-17T16:19:13.549039+00:00
+acceptance_rate: "26.850%"
+collected_at: "2026-04-17T16:19:13.549039+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Quadratic equation
-special_judge: true
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 256 MB
+title: "Quadratic equation"
+special_judge: "true"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "256 MB"
 submissions: 160
 accepted: 73
 solved_users: 59
-acceptance_rate: 42.754%
-collected_at: 2026-04-17T16:50:45.255428+00:00
+acceptance_rate: "42.754%"
+collected_at: "2026-04-17T16:50:45.255428+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Afternoon Tea
-special_judge: false
-time_limit: 3 초
-memory_limit: 32 MB
+title: "Afternoon Tea"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "32 MB"
 submissions: 222
 accepted: 78
 solved_users: 46
-acceptance_rate: 31.724%
-collected_at: 2026-04-17T11:54:13.429044+00:00
+acceptance_rate: "31.724%"
+collected_at: "2026-04-17T11:54:13.429044+00:00"
 ---
 
 ## 문제

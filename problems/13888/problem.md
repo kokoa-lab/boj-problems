@@ -1,13 +1,13 @@
 ---
-title: WSI Extreme
-special_judge: false
-time_limit: 10 초
-memory_limit: 512 MB
+title: "WSI Extreme"
+special_judge: "false"
+time_limit: "10 초"
+memory_limit: "512 MB"
 submissions: 87
 accepted: 24
 solved_users: 11
-acceptance_rate: 29.730%
-collected_at: 2026-04-17T13:21:35.337607+00:00
+acceptance_rate: "29.730%"
+collected_at: "2026-04-17T13:21:35.337607+00:00"
 ---
 
 ## 문제

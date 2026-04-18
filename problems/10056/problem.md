@@ -1,13 +1,13 @@
 ---
-title: Metal Processing Plant
-special_judge: false
-time_limit: 4 초
-memory_limit: 128 MB
+title: "Metal Processing Plant"
+special_judge: "false"
+time_limit: "4 초"
+memory_limit: "128 MB"
 submissions: 240
 accepted: 60
 solved_users: 45
-acceptance_rate: 22.388%
-collected_at: 2026-04-17T12:18:28.143901+00:00
+acceptance_rate: "22.388%"
+collected_at: "2026-04-17T12:18:28.143901+00:00"
 ---
 
 ## 문제

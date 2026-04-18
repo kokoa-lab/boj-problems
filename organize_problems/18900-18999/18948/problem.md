@@ -1,13 +1,13 @@
 ---
-title: Tree Average Weight
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Tree Average Weight"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 13
 accepted: 6
 solved_users: 6
-acceptance_rate: 54.545%
-collected_at: 2026-04-17T15:11:41.699021+00:00
+acceptance_rate: "54.545%"
+collected_at: "2026-04-17T15:11:41.699021+00:00"
 ---
 
 ## 문제

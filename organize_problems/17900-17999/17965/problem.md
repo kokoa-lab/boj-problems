@@ -1,13 +1,13 @@
 ---
-title: Absolute Game
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Absolute Game"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 258
 accepted: 174
 solved_users: 156
-acceptance_rate: 70.588%
-collected_at: 2026-04-17T14:51:06.447421+00:00
+acceptance_rate: "70.588%"
+collected_at: "2026-04-17T14:51:06.447421+00:00"
 ---
 
 ## 문제

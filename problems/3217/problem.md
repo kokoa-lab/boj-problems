@@ -1,13 +1,13 @@
 ---
-title: malloc
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "malloc"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 1134
 accepted: 248
 solved_users: 154
-acceptance_rate: 22.351%
-collected_at: 2026-04-17T10:47:28.238787+00:00
+acceptance_rate: "22.351%"
+collected_at: "2026-04-17T10:47:28.238787+00:00"
 ---
 
 ## 문제

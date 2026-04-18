@@ -1,13 +1,13 @@
 ---
-title: 매우 강한 연결 요소
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "매우 강한 연결 요소"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 218
 accepted: 64
 solved_users: 48
-acceptance_rate: 28.235%
-collected_at: 2026-04-17T19:44:07.714660+00:00
+acceptance_rate: "28.235%"
+collected_at: "2026-04-17T19:44:07.714660+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Treasure Cave
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Treasure Cave"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 172
 accepted: 149
 solved_users: 129
-acceptance_rate: 85.430%
-collected_at: 2026-04-17T11:20:39.029201+00:00
+acceptance_rate: "85.430%"
+collected_at: "2026-04-17T11:20:39.029201+00:00"
 ---
 
 ## 문제

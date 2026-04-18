@@ -1,13 +1,13 @@
 ---
-title: infinite XYZ
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "infinite XYZ"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 126
 accepted: 47
 solved_users: 44
-acceptance_rate: 36.066%
-collected_at: 2026-04-17T17:48:42.633977+00:00
+acceptance_rate: "36.066%"
+collected_at: "2026-04-17T17:48:42.633977+00:00"
 ---
 
 ## 문제

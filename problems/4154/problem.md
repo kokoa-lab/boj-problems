@@ -1,13 +1,13 @@
 ---
-title: Buzzwords
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Buzzwords"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 115
 accepted: 62
 solved_users: 36
-acceptance_rate: 43.902%
-collected_at: 2026-04-17T10:56:29.256626+00:00
+acceptance_rate: "43.902%"
+collected_at: "2026-04-17T10:56:29.256626+00:00"
 ---
 
 ## 문제

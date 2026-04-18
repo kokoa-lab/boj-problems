@@ -1,13 +1,13 @@
 ---
-title: Ranking
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Ranking"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 70
 accepted: 56
 solved_users: 38
-acceptance_rate: 90.476%
-collected_at: 2026-04-17T18:54:55.206524+00:00
+acceptance_rate: "90.476%"
+collected_at: "2026-04-17T18:54:55.206524+00:00"
 ---
 
 ## 문제

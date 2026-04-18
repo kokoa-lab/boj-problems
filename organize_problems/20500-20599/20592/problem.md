@@ -1,13 +1,13 @@
 ---
-title: Delete Two Vertices Again
-special_judge: false
-time_limit: 6 초
-memory_limit: 512 MB
+title: "Delete Two Vertices Again"
+special_judge: "false"
+time_limit: "6 초"
+memory_limit: "512 MB"
 submissions: 26
 accepted: 9
 solved_users: 6
-acceptance_rate: 54.545%
-collected_at: 2026-04-17T15:38:34.550311+00:00
+acceptance_rate: "54.545%"
+collected_at: "2026-04-17T15:38:34.550311+00:00"
 ---
 
 ## 문제

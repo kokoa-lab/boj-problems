@@ -1,13 +1,13 @@
 ---
-title: 라쿤이 정보섬에 올라온 이유
-special_judge: false
-time_limit: 3 초
-memory_limit: 512 MB
+title: "라쿤이 정보섬에 올라온 이유"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "512 MB"
 submissions: 78
 accepted: 32
 solved_users: 29
-acceptance_rate: 45.312%
-collected_at: 2026-04-17T14:30:30.830033+00:00
+acceptance_rate: "45.312%"
+collected_at: "2026-04-17T14:30:30.830033+00:00"
 ---
 
 ## 문제

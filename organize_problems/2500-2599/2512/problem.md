@@ -1,13 +1,13 @@
 ---
-title: 예산
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "예산"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 77186
 accepted: 30700
 solved_users: 22497
-acceptance_rate: 38.631%
-collected_at: 2026-04-17T10:42:18.123429+00:00
+acceptance_rate: "38.631%"
+collected_at: "2026-04-17T10:42:18.123429+00:00"
 ---
 
 ## 문제

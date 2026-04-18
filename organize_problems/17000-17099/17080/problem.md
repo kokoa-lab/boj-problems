@@ -1,13 +1,13 @@
 ---
-title: 결함 게임
-special_judge: false
-time_limit: 0.5 초
-memory_limit: 512 MB
+title: "결함 게임"
+special_judge: "false"
+time_limit: "0.5 초"
+memory_limit: "512 MB"
 submissions: 763
 accepted: 370
 solved_users: 303
-acceptance_rate: 49.029%
-collected_at: 2026-04-17T14:29:05.797591+00:00
+acceptance_rate: "49.029%"
+collected_at: "2026-04-17T14:29:05.797591+00:00"
 ---
 
 ## 문제

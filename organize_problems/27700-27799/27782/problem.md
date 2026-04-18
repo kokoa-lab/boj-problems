@@ -1,13 +1,13 @@
 ---
-title: Bacterial Tactics
-special_judge: false
-time_limit: 30 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Bacterial Tactics"
+special_judge: "false"
+time_limit: "30 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 8
 accepted: 6
 solved_users: 6
-acceptance_rate: 85.714%
-collected_at: 2026-04-17T18:10:56.188206+00:00
+acceptance_rate: "85.714%"
+collected_at: "2026-04-17T18:10:56.188206+00:00"
 ---
 
 ## 문제

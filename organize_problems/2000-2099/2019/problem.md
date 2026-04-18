@@ -1,13 +1,13 @@
 ---
-title: 다각형개수
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "다각형개수"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 300
 accepted: 82
 solved_users: 64
-acceptance_rate: 27.948%
-collected_at: 2026-04-17T10:37:12.278005+00:00
+acceptance_rate: "27.948%"
+collected_at: "2026-04-17T10:37:12.278005+00:00"
 ---
 
 ## 문제

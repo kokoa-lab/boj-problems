@@ -1,13 +1,13 @@
 ---
-title: 노래 악보
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "노래 악보"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 3077
 accepted: 2350
 solved_users: 2109
-acceptance_rate: 77.140%
-collected_at: 2026-04-17T10:29:51.382118+00:00
+acceptance_rate: "77.140%"
+collected_at: "2026-04-17T10:29:51.382118+00:00"
 ---
 
 ## 문제

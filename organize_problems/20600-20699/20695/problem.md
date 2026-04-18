@@ -1,13 +1,13 @@
 ---
-title: Token Distance
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Token Distance"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 99
 accepted: 34
 solved_users: 29
-acceptance_rate: 38.158%
-collected_at: 2026-04-17T15:40:05.062964+00:00
+acceptance_rate: "38.158%"
+collected_at: "2026-04-17T15:40:05.062964+00:00"
 ---
 
 ## 문제

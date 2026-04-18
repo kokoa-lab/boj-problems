@@ -1,13 +1,13 @@
 ---
-title: 최솟값 찾기
-special_judge: false
-time_limit: 2.4 초  ( 하단 참고 )
-memory_limit: 512 MB
+title: "최솟값 찾기"
+special_judge: "false"
+time_limit: "2.4 초  ( 하단 참고 )"
+memory_limit: "512 MB"
 submissions: 56705
 accepted: 19429
 solved_users: 12343
-acceptance_rate: 32.776%
-collected_at: 2026-04-17T12:34:47.599654+00:00
+acceptance_rate: "32.776%"
+collected_at: "2026-04-17T12:34:47.599654+00:00"
 ---
 
 ## 문제

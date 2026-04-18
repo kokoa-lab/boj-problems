@@ -1,13 +1,13 @@
 ---
-title: 별 찍기 - 16
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "별 찍기 - 16"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 23363
 accepted: 18181
 solved_users: 16415
-acceptance_rate: 78.593%
-collected_at: 2026-04-17T12:34:27.733943+00:00
+acceptance_rate: "78.593%"
+collected_at: "2026-04-17T12:34:27.733943+00:00"
 ---
 
 ## 문제

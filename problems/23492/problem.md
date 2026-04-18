@@ -1,13 +1,13 @@
 ---
-title: Subset Sum
-special_judge: false
-time_limit: 4 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "Subset Sum"
+special_judge: "false"
+time_limit: "4 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 218
 accepted: 79
 solved_users: 31
-acceptance_rate: 23.846%
-collected_at: 2026-04-17T16:49:03.497984+00:00
+acceptance_rate: "23.846%"
+collected_at: "2026-04-17T16:49:03.497984+00:00"
 ---
 
 ## 문제

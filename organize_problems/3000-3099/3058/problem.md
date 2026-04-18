@@ -1,13 +1,13 @@
 ---
-title: 짝수를 찾아라
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "짝수를 찾아라"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 12237
 accepted: 8586
 solved_users: 7891
-acceptance_rate: 71.509%
-collected_at: 2026-04-17T10:46:27.120571+00:00
+acceptance_rate: "71.509%"
+collected_at: "2026-04-17T10:46:27.120571+00:00"
 ---
 
 ## 문제

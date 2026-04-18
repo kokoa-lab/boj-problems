@@ -1,13 +1,13 @@
 ---
-title: 파도반 수열 2
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "파도반 수열 2"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 664
 accepted: 305
 solved_users: 220
-acceptance_rate: 56.995%
-collected_at: 2026-04-17T18:02:52.669784+00:00
+acceptance_rate: "56.995%"
+collected_at: "2026-04-17T18:02:52.669784+00:00"
 ---
 
 ## 문제

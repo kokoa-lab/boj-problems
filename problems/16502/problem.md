@@ -1,13 +1,13 @@
 ---
-title: 그녀를 찾아서
-special_judge: true
-time_limit: 2 초
-memory_limit: 512 MB
+title: "그녀를 찾아서"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 436
 accepted: 332
 solved_users: 286
-acceptance_rate: 79.888%
-collected_at: 2026-04-17T14:19:02.827575+00:00
+acceptance_rate: "79.888%"
+collected_at: "2026-04-17T14:19:02.827575+00:00"
 ---
 
 ## 문제

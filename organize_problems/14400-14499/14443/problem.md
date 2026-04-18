@@ -1,13 +1,13 @@
 ---
-title: 채점 소수 번호
-special_judge: true
-time_limit: 1 초
-memory_limit: 512 MB
+title: "채점 소수 번호"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 25388
 accepted: 1813
 solved_users: 1539
-acceptance_rate: 8.405%
-collected_at: 2026-04-17T13:33:35.983541+00:00
+acceptance_rate: "8.405%"
+collected_at: "2026-04-17T13:33:35.983541+00:00"
 ---
 
 ## 문제

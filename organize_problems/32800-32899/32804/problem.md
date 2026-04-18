@@ -1,13 +1,13 @@
 ---
-title: Taking Out the Trash
-special_judge: false
-time_limit: 3 초
-memory_limit: 2048 MB
+title: "Taking Out the Trash"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "2048 MB"
 submissions: 28
 accepted: 18
 solved_users: 17
-acceptance_rate: 65.385%
-collected_at: 2026-04-17T20:01:40.747469+00:00
+acceptance_rate: "65.385%"
+collected_at: "2026-04-17T20:01:40.747469+00:00"
 ---
 
 ## 문제

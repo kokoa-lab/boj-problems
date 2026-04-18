@@ -1,13 +1,13 @@
 ---
-title: RSA
-special_judge: false
-time_limit: 2 초
-memory_limit: 64 MB
+title: "RSA"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "64 MB"
 submissions: 16
 accepted: 4
 solved_users: 3
-acceptance_rate: 23.077%
-collected_at: 2026-04-17T13:26:46.471076+00:00
+acceptance_rate: "23.077%"
+collected_at: "2026-04-17T13:26:46.471076+00:00"
 ---
 
 ## 문제

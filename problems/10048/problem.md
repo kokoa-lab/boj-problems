@@ -1,13 +1,13 @@
 ---
-title: フクロモモンガ (Sugar Glider)
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "フクロモモンガ (Sugar Glider)"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 209
 accepted: 97
 solved_users: 89
-acceptance_rate: 52.047%
-collected_at: 2026-04-17T12:18:18.709854+00:00
+acceptance_rate: "52.047%"
+collected_at: "2026-04-17T12:18:18.709854+00:00"
 ---
 
 ## 문제

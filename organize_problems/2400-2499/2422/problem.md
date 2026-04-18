@@ -1,13 +1,13 @@
 ---
-title: 한윤정이 이탈리아에 가서 아이스크림을 사먹는데
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "한윤정이 이탈리아에 가서 아이스크림을 사먹는데"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 13947
 accepted: 5841
 solved_users: 4451
-acceptance_rate: 41.641%
-collected_at: 2026-04-17T10:41:30.711961+00:00
+acceptance_rate: "41.641%"
+collected_at: "2026-04-17T10:41:30.711961+00:00"
 ---
 
 ## 문제

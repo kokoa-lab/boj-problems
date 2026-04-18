@@ -1,13 +1,13 @@
 ---
-title: Data Packing (Large)
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Data Packing (Large)"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 154
 accepted: 103
 solved_users: 95
-acceptance_rate: 68.345%
-collected_at: 2026-04-17T12:52:14.150741+00:00
+acceptance_rate: "68.345%"
+collected_at: "2026-04-17T12:52:14.150741+00:00"
 ---
 
 ## 문제

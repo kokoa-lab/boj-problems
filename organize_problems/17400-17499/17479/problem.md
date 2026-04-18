@@ -1,13 +1,13 @@
 ---
-title: 정식당
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "정식당"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 2836
 accepted: 751
 solved_users: 605
-acceptance_rate: 26.535%
-collected_at: 2026-04-17T14:40:10.389520+00:00
+acceptance_rate: "26.535%"
+collected_at: "2026-04-17T14:40:10.389520+00:00"
 ---
 
 ## 문제

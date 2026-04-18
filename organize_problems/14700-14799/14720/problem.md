@@ -1,13 +1,13 @@
 ---
-title: 우유 축제
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "우유 축제"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 9099
 accepted: 5504
 solved_users: 4871
-acceptance_rate: 62.225%
-collected_at: 2026-04-17T13:41:01.419281+00:00
+acceptance_rate: "62.225%"
+collected_at: "2026-04-17T13:41:01.419281+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 진우의 달 여행 (Large)
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "진우의 달 여행 (Large)"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 4057
 accepted: 2115
 solved_users: 1646
-acceptance_rate: 52.370%
-collected_at: 2026-04-17T14:40:20.780197+00:00
+acceptance_rate: "52.370%"
+collected_at: "2026-04-17T14:40:20.780197+00:00"
 ---
 
 ## 문제

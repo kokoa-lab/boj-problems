@@ -1,13 +1,13 @@
 ---
-title: BOJeopardy
-special_judge: true
-time_limit: 1 초
-memory_limit: 256 MB
+title: "BOJeopardy"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 1302
 accepted: 474
 solved_users: 464
-acceptance_rate: 43.324%
-collected_at: 2026-04-17T14:02:58.464339+00:00
+acceptance_rate: "43.324%"
+collected_at: "2026-04-17T14:02:58.464339+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: DiviDuelo
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "DiviDuelo"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 81
 accepted: 41
 solved_users: 39
-acceptance_rate: 69.643%
-collected_at: 2026-04-17T19:35:52.225156+00:00
+acceptance_rate: "69.643%"
+collected_at: "2026-04-17T19:35:52.225156+00:00"
 ---
 
 ## 문제

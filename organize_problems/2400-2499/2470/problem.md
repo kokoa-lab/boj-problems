@@ -1,13 +1,13 @@
 ---
-title: 두 용액
-special_judge: true
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 128 MB
+title: "두 용액"
+special_judge: "true"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "128 MB"
 submissions: 83616
 accepted: 28504
 solved_users: 20664
-acceptance_rate: 32.909%
-collected_at: 2026-04-17T10:41:54.453994+00:00
+acceptance_rate: "32.909%"
+collected_at: "2026-04-17T10:41:54.453994+00:00"
 ---
 
 ## 문제

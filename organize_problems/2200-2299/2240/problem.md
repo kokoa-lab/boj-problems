@@ -1,13 +1,13 @@
 ---
-title: 자두나무
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "자두나무"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 25240
 accepted: 10030
 solved_users: 7116
-acceptance_rate: 40.151%
-collected_at: 2026-04-17T10:39:50.016353+00:00
+acceptance_rate: "40.151%"
+collected_at: "2026-04-17T10:39:50.016353+00:00"
 ---
 
 ## 문제

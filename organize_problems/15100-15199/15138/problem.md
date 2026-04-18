@@ -1,13 +1,13 @@
 ---
-title: Hidden Supervisors
-special_judge: true
-time_limit: 3 초
-memory_limit: 512 MB
+title: "Hidden Supervisors"
+special_judge: "true"
+time_limit: "3 초"
+memory_limit: "512 MB"
 submissions: 54
 accepted: 24
 solved_users: 23
-acceptance_rate: 46.939%
-collected_at: 2026-04-17T13:52:09.689829+00:00
+acceptance_rate: "46.939%"
+collected_at: "2026-04-17T13:52:09.689829+00:00"
 ---
 
 ## 문제

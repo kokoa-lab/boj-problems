@@ -1,13 +1,13 @@
 ---
-title: Cowlphabet
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Cowlphabet"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 73
 accepted: 38
 solved_users: 33
-acceptance_rate: 55.932%
-collected_at: 2026-04-17T11:18:52.056637+00:00
+acceptance_rate: "55.932%"
+collected_at: "2026-04-17T11:18:52.056637+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 나이트가 체스판을 벗어나지 않을 확률
-special_judge: true
-time_limit: 2 초
-memory_limit: 512 MB
+title: "나이트가 체스판을 벗어나지 않을 확률"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 413
 accepted: 282
 solved_users: 250
-acceptance_rate: 73.529%
-collected_at: 2026-04-17T14:00:16.406522+00:00
+acceptance_rate: "73.529%"
+collected_at: "2026-04-17T14:00:16.406522+00:00"
 ---
 
 ## 문제

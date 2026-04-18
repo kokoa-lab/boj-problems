@@ -1,13 +1,13 @@
 ---
-title: 텔레프라임
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "텔레프라임"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 2369
 accepted: 1192
 solved_users: 1063
-acceptance_rate: 52.287%
-collected_at: 2026-04-17T11:53:00.671494+00:00
+acceptance_rate: "52.287%"
+collected_at: "2026-04-17T11:53:00.671494+00:00"
 ---
 
 ## 문제

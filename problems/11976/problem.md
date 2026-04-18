@@ -1,13 +1,13 @@
 ---
-title: Promotion Counting
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Promotion Counting"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 1078
 accepted: 671
 solved_users: 622
-acceptance_rate: 64.657%
-collected_at: 2026-04-17T12:48:24.785728+00:00
+acceptance_rate: "64.657%"
+collected_at: "2026-04-17T12:48:24.785728+00:00"
 ---
 
 ## 문제

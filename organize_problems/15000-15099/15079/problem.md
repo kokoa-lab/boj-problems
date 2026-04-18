@@ -1,13 +1,13 @@
 ---
-title: Arggggggh!
-special_judge: true
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Arggggggh!"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 439
 accepted: 298
 solved_users: 268
-acceptance_rate: 71.850%
-collected_at: 2026-04-17T13:50:10.668199+00:00
+acceptance_rate: "71.850%"
+collected_at: "2026-04-17T13:50:10.668199+00:00"
 ---
 
 ## 문제

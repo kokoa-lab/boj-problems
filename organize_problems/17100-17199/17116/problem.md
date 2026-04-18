@@ -1,13 +1,13 @@
 ---
-title: 목격자
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "목격자"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 655
 accepted: 186
 solved_users: 159
-acceptance_rate: 57.609%
-collected_at: 2026-04-17T14:30:00.384101+00:00
+acceptance_rate: "57.609%"
+collected_at: "2026-04-17T14:30:00.384101+00:00"
 ---
 
 ## 문제

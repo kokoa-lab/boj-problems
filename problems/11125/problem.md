@@ -1,13 +1,13 @@
 ---
-title: Marble Madness
-special_judge: true
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Marble Madness"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 110
 accepted: 72
 solved_users: 66
-acceptance_rate: 67.347%
-collected_at: 2026-04-17T12:36:55.954455+00:00
+acceptance_rate: "67.347%"
+collected_at: "2026-04-17T12:36:55.954455+00:00"
 ---
 
 ## 문제

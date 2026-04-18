@@ -1,13 +1,13 @@
 ---
-title: Eureka
-special_judge: false
-time_limit: 5 초
-memory_limit: 64 MB
+title: "Eureka"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "64 MB"
 submissions: 72
 accepted: 15
 solved_users: 12
-acceptance_rate: 29.268%
-collected_at: 2026-04-17T15:19:58.877791+00:00
+acceptance_rate: "29.268%"
+collected_at: "2026-04-17T15:19:58.877791+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Секрет Драконьего глаза
-special_judge: true
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Секрет Драконьего глаза"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 61
 accepted: 25
 solved_users: 21
-acceptance_rate: 39.623%
-collected_at: 2026-04-17T18:33:26.804063+00:00
+acceptance_rate: "39.623%"
+collected_at: "2026-04-17T18:33:26.804063+00:00"
 ---
 
 ## 문제

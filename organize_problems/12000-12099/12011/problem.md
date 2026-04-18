@@ -1,13 +1,13 @@
 ---
-title: Splitting the Field
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Splitting the Field"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 430
 accepted: 183
 solved_users: 148
-acceptance_rate: 43.787%
-collected_at: 2026-04-17T12:48:54.548306+00:00
+acceptance_rate: "43.787%"
+collected_at: "2026-04-17T12:48:54.548306+00:00"
 ---
 
 ## 문제

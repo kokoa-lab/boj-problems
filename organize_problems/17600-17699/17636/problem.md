@@ -1,13 +1,13 @@
 ---
-title: 가로등
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "가로등"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 176
 accepted: 46
 solved_users: 36
-acceptance_rate: 25.532%
-collected_at: 2026-04-17T14:43:21.234593+00:00
+acceptance_rate: "25.532%"
+collected_at: "2026-04-17T14:43:21.234593+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 집 떠나와 열차 타고
-special_judge: false
-time_limit: 3 초
-memory_limit: 1024 MB
+title: "집 떠나와 열차 타고"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "1024 MB"
 submissions: 281
 accepted: 86
 solved_users: 54
-acceptance_rate: 36.486%
-collected_at: 2026-04-17T15:10:29.042500+00:00
+acceptance_rate: "36.486%"
+collected_at: "2026-04-17T15:10:29.042500+00:00"
 ---
 
 ## 문제

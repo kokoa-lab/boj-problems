@@ -1,13 +1,13 @@
 ---
-title: I Flipped The Calendar...
-special_judge: false
-time_limit: 2 초
-memory_limit: 2048 MB
+title: "I Flipped The Calendar..."
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "2048 MB"
 submissions: 123
 accepted: 80
 solved_users: 52
-acceptance_rate: 59.091%
-collected_at: 2026-04-17T20:14:19.382676+00:00
+acceptance_rate: "59.091%"
+collected_at: "2026-04-17T20:14:19.382676+00:00"
 ---
 
 ## 문제

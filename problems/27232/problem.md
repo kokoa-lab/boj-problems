@@ -1,13 +1,13 @@
 ---
-title: 청소
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "청소"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 642
 accepted: 180
 solved_users: 155
-acceptance_rate: 48.742%
-collected_at: 2026-04-17T17:58:42.688793+00:00
+acceptance_rate: "48.742%"
+collected_at: "2026-04-17T17:58:42.688793+00:00"
 ---
 
 ## 문제

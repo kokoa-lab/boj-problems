@@ -1,13 +1,13 @@
 ---
-title: Just Another Number Theory Problem
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Just Another Number Theory Problem"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 31
 accepted: 19
 solved_users: 17
-acceptance_rate: 58.621%
-collected_at: 2026-04-17T17:30:58.834830+00:00
+acceptance_rate: "58.621%"
+collected_at: "2026-04-17T17:30:58.834830+00:00"
 ---
 
 ## 문제

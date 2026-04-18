@@ -1,13 +1,13 @@
 ---
-title: Cheese Touch
-special_judge: false
-time_limit: 2 초
-memory_limit: 2048 MB
+title: "Cheese Touch"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "2048 MB"
 submissions: 128
 accepted: 74
 solved_users: 31
-acceptance_rate: 44.286%
-collected_at: 2026-04-17T20:34:46.317022+00:00
+acceptance_rate: "44.286%"
+collected_at: "2026-04-17T20:34:46.317022+00:00"
 ---
 
 ## 문제

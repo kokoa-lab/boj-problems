@@ -1,13 +1,13 @@
 ---
-title: Acres
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Acres"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 1574
 accepted: 1233
 solved_users: 1167
-acceptance_rate: 79.172%
-collected_at: 2026-04-17T17:47:24.564648+00:00
+acceptance_rate: "79.172%"
+collected_at: "2026-04-17T17:47:24.564648+00:00"
 ---
 
 ## 문제

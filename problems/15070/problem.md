@@ -1,13 +1,13 @@
 ---
-title: Foosball Dynasty
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Foosball Dynasty"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 39
 accepted: 21
 solved_users: 20
-acceptance_rate: 54.054%
-collected_at: 2026-04-17T13:50:04.941051+00:00
+acceptance_rate: "54.054%"
+collected_at: "2026-04-17T13:50:04.941051+00:00"
 ---
 
 ## 문제

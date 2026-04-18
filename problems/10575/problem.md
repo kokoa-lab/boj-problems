@@ -1,13 +1,13 @@
 ---
-title: Top 25
-special_judge: false
-time_limit: 10 초
-memory_limit: 256 MB
+title: "Top 25"
+special_judge: "false"
+time_limit: "10 초"
+memory_limit: "256 MB"
 submissions: 56
 accepted: 32
 solved_users: 25
-acceptance_rate: 71.429%
-collected_at: 2026-04-17T12:25:53.161253+00:00
+acceptance_rate: "71.429%"
+collected_at: "2026-04-17T12:25:53.161253+00:00"
 ---
 
 ## 문제

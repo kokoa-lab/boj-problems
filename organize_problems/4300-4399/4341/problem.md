@@ -1,13 +1,13 @@
 ---
-title: 연립 방정식
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "연립 방정식"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 830
 accepted: 231
 solved_users: 89
-acceptance_rate: 22.139%
-collected_at: 2026-04-17T10:59:50.228933+00:00
+acceptance_rate: "22.139%"
+collected_at: "2026-04-17T10:59:50.228933+00:00"
 ---
 
 ## 문제

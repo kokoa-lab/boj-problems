@@ -1,13 +1,13 @@
 ---
-title: Matrix Again
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Matrix Again"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 308
 accepted: 97
 solved_users: 77
-acceptance_rate: 32.218%
-collected_at: 2026-04-17T13:05:16.596744+00:00
+acceptance_rate: "32.218%"
+collected_at: "2026-04-17T13:05:16.596744+00:00"
 ---
 
 ## 문제

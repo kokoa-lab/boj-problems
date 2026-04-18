@@ -1,13 +1,13 @@
 ---
-title: Juice (Large)
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Juice (Large)"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 161
 accepted: 64
 solved_users: 49
-acceptance_rate: 48.515%
-collected_at: 2026-04-17T12:59:19.558258+00:00
+acceptance_rate: "48.515%"
+collected_at: "2026-04-17T12:59:19.558258+00:00"
 ---
 
 ## 문제

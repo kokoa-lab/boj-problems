@@ -1,13 +1,13 @@
 ---
-title: Garbled Email (Small)
-special_judge: false
-time_limit: 30 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "Garbled Email (Small)"
+special_judge: "false"
+time_limit: "30 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 19
 accepted: 5
 solved_users: 4
-acceptance_rate: 57.143%
-collected_at: 2026-04-17T12:53:36.962352+00:00
+acceptance_rate: "57.143%"
+collected_at: "2026-04-17T12:53:36.962352+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Palapa Number
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Palapa Number"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 106
 accepted: 73
 solved_users: 59
-acceptance_rate: 83.099%
-collected_at: 2026-04-17T14:13:01.226004+00:00
+acceptance_rate: "83.099%"
+collected_at: "2026-04-17T14:13:01.226004+00:00"
 ---
 
 ## 문제

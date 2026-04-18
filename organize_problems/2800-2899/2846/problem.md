@@ -1,13 +1,13 @@
 ---
-title: 오르막길
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "오르막길"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 18370
 accepted: 9139
 solved_users: 7580
-acceptance_rate: 50.136%
-collected_at: 2026-04-17T10:45:15.841296+00:00
+acceptance_rate: "50.136%"
+collected_at: "2026-04-17T10:45:15.841296+00:00"
 ---
 
 ## 문제

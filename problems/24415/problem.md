@@ -1,13 +1,13 @@
 ---
-title: 편지
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "편지"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 139
 accepted: 57
 solved_users: 43
-acceptance_rate: 35.246%
-collected_at: 2026-04-17T17:09:05.644426+00:00
+acceptance_rate: "35.246%"
+collected_at: "2026-04-17T17:09:05.644426+00:00"
 ---
 
 ## 문제

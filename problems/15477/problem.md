@@ -1,13 +1,13 @@
 ---
-title: 水ようかん (Mizuyokan)
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "水ようかん (Mizuyokan)"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 103
 accepted: 66
 solved_users: 59
-acceptance_rate: 69.412%
-collected_at: 2026-04-17T14:00:12.952715+00:00
+acceptance_rate: "69.412%"
+collected_at: "2026-04-17T14:00:12.952715+00:00"
 ---
 
 ## 문제

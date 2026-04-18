@@ -1,13 +1,13 @@
 ---
-title: The Lazy Cow
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "The Lazy Cow"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 116
 accepted: 45
 solved_users: 39
-acceptance_rate: 48.750%
-collected_at: 2026-04-17T12:17:51.229620+00:00
+acceptance_rate: "48.750%"
+collected_at: "2026-04-17T12:17:51.229620+00:00"
 ---
 
 ## 문제

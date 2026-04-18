@@ -1,13 +1,13 @@
 ---
-title: Mouse Journey
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Mouse Journey"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 63
 accepted: 54
 solved_users: 52
-acceptance_rate: 88.136%
-collected_at: 2026-04-17T11:36:45.372374+00:00
+acceptance_rate: "88.136%"
+collected_at: "2026-04-17T11:36:45.372374+00:00"
 ---
 
 ## 문제

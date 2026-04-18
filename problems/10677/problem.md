@@ -1,13 +1,13 @@
 ---
-title: It's All About the Base
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "It's All About the Base"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 323
 accepted: 193
 solved_users: 154
-acceptance_rate: 59.459%
-collected_at: 2026-04-17T12:27:17.679596+00:00
+acceptance_rate: "59.459%"
+collected_at: "2026-04-17T12:27:17.679596+00:00"
 ---
 
 ## 문제

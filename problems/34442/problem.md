@@ -1,13 +1,13 @@
 ---
-title: Misty
-special_judge: true
-time_limit: 1 초
-memory_limit: 2048 MB
+title: "Misty"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "2048 MB"
 submissions: 43
 accepted: 32
 solved_users: 29
-acceptance_rate: 74.359%
-collected_at: 2026-04-17T20:39:02.223107+00:00
+acceptance_rate: "74.359%"
+collected_at: "2026-04-17T20:39:02.223107+00:00"
 ---
 
 ## 문제

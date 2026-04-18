@@ -1,13 +1,13 @@
 ---
-title: 잔디깎기
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "잔디깎기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 700
 accepted: 388
 solved_users: 329
-acceptance_rate: 58.961%
-collected_at: 2026-04-17T10:52:31.789817+00:00
+acceptance_rate: "58.961%"
+collected_at: "2026-04-17T10:52:31.789817+00:00"
 ---
 
 ## 문제

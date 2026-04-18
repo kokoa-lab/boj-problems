@@ -1,13 +1,13 @@
 ---
-title: 댐
-special_judge: true
-time_limit: 1.5 초
-memory_limit: 256 MB
+title: "댐"
+special_judge: "true"
+time_limit: "1.5 초"
+memory_limit: "256 MB"
 submissions: 81
 accepted: 24
 solved_users: 14
-acceptance_rate: 30.435%
-collected_at: 2026-04-17T15:09:47.885791+00:00
+acceptance_rate: "30.435%"
+collected_at: "2026-04-17T15:09:47.885791+00:00"
 ---
 
 ## 문제

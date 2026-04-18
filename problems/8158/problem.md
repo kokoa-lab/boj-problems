@@ -1,13 +1,13 @@
 ---
-title: Blockade
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Blockade"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 100
 accepted: 34
 solved_users: 25
-acceptance_rate: 33.784%
-collected_at: 2026-04-17T11:56:38.321371+00:00
+acceptance_rate: "33.784%"
+collected_at: "2026-04-17T11:56:38.321371+00:00"
 ---
 
 ## 문제

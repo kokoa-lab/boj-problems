@@ -1,13 +1,13 @@
 ---
-title: 규칙적인 보스돌이
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "규칙적인 보스돌이"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 1392
 accepted: 523
 solved_users: 417
-acceptance_rate: 38.863%
-collected_at: 2026-04-17T18:52:57.720951+00:00
+acceptance_rate: "38.863%"
+collected_at: "2026-04-17T18:52:57.720951+00:00"
 ---
 
 ## 문제

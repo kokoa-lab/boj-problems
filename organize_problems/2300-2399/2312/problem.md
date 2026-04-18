@@ -1,13 +1,13 @@
 ---
-title: 수 복원하기
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "수 복원하기"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 7340
 accepted: 4226
 solved_users: 3530
-acceptance_rate: 56.954%
-collected_at: 2026-04-17T10:40:29.210939+00:00
+acceptance_rate: "56.954%"
+collected_at: "2026-04-17T10:40:29.210939+00:00"
 ---
 
 ## 문제

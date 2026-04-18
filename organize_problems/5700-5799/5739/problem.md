@@ -1,13 +1,13 @@
 ---
-title: ICPC Scoreboard
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "ICPC Scoreboard"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 31
 accepted: 13
 solved_users: 11
-acceptance_rate: 45.833%
-collected_at: 2026-04-17T11:17:00.405776+00:00
+acceptance_rate: "45.833%"
+collected_at: "2026-04-17T11:17:00.405776+00:00"
 ---
 
 ## 문제

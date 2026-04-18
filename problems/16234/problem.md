@@ -1,13 +1,13 @@
 ---
-title: 인구 이동
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "인구 이동"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 88059
 accepted: 39308
 solved_users: 23203
-acceptance_rate: 41.411%
-collected_at: 2026-04-17T14:14:06.475998+00:00
+acceptance_rate: "41.411%"
+collected_at: "2026-04-17T14:14:06.475998+00:00"
 ---
 
 ## 문제

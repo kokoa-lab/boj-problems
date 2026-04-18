@@ -1,13 +1,13 @@
 ---
-title: Standing Ovation (Large)
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Standing Ovation (Large)"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 261
 accepted: 202
 solved_users: 183
-acceptance_rate: 78.541%
-collected_at: 2026-04-17T12:51:15.980484+00:00
+acceptance_rate: "78.541%"
+collected_at: "2026-04-17T12:51:15.980484+00:00"
 ---
 
 ## 문제

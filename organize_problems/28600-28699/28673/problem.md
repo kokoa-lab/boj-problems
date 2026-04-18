@@ -1,13 +1,13 @@
 ---
-title: Побег из здания
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Побег из здания"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 9
 accepted: 5
 solved_users: 2
-acceptance_rate: 66.667%
-collected_at: 2026-04-17T18:30:21.558591+00:00
+acceptance_rate: "66.667%"
+collected_at: "2026-04-17T18:30:21.558591+00:00"
 ---
 
 ## 문제

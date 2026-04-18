@@ -1,13 +1,13 @@
 ---
-title: 숫자 세기
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "숫자 세기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 242
 accepted: 109
 solved_users: 81
-acceptance_rate: 55.102%
-collected_at: 2026-04-17T11:16:40.313687+00:00
+acceptance_rate: "55.102%"
+collected_at: "2026-04-17T11:16:40.313687+00:00"
 ---
 
 ## 문제

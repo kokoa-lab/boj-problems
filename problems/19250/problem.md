@@ -1,13 +1,13 @@
 ---
-title: Flat Earth
-special_judge: true
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Flat Earth"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 160
 accepted: 112
 solved_users: 89
-acceptance_rate: 71.200%
-collected_at: 2026-04-17T15:15:48.503395+00:00
+acceptance_rate: "71.200%"
+collected_at: "2026-04-17T15:15:48.503395+00:00"
 ---
 
 ## 문제

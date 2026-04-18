@@ -1,13 +1,13 @@
 ---
-title: Zamjena
-special_judge: false
-time_limit: 1 초
-memory_limit: 64 MB
+title: "Zamjena"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "64 MB"
 submissions: 96
 accepted: 42
 solved_users: 36
-acceptance_rate: 43.902%
-collected_at: 2026-04-17T14:14:16.688717+00:00
+acceptance_rate: "43.902%"
+collected_at: "2026-04-17T14:14:16.688717+00:00"
 ---
 
 ## 문제

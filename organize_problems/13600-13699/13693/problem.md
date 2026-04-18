@@ -1,13 +1,13 @@
 ---
-title: Cubos Coloridos
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Cubos Coloridos"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 38
 accepted: 27
 solved_users: 13
-acceptance_rate: 54.167%
-collected_at: 2026-04-17T13:17:23.227990+00:00
+acceptance_rate: "54.167%"
+collected_at: "2026-04-17T13:17:23.227990+00:00"
 ---
 
 ## 문제

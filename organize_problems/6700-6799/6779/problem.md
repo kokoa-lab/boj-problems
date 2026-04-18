@@ -1,13 +1,13 @@
 ---
-title: Who Has Seen The Wind
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Who Has Seen The Wind"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 635
 accepted: 493
 solved_users: 459
-acceptance_rate: 80.526%
-collected_at: 2026-04-17T11:36:55.893998+00:00
+acceptance_rate: "80.526%"
+collected_at: "2026-04-17T11:36:55.893998+00:00"
 ---
 
 ## 문제

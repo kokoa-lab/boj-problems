@@ -1,13 +1,13 @@
 ---
-title: 진욱이의 농장
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "진욱이의 농장"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 555
 accepted: 168
 solved_users: 137
-acceptance_rate: 38.920%
-collected_at: 2026-04-17T10:30:20.488796+00:00
+acceptance_rate: "38.920%"
+collected_at: "2026-04-17T10:30:20.488796+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 한빛미디어 (Hard)
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "한빛미디어 (Hard)"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 698
 accepted: 170
 solved_users: 140
-acceptance_rate: 30.043%
-collected_at: 2026-04-17T19:36:35.674405+00:00
+acceptance_rate: "30.043%"
+collected_at: "2026-04-17T19:36:35.674405+00:00"
 ---
 
 ## 문제

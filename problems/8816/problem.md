@@ -1,13 +1,13 @@
 ---
-title: Klasa
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Klasa"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 91
 accepted: 75
 solved_users: 61
-acceptance_rate: 80.263%
-collected_at: 2026-04-17T12:03:43.516976+00:00
+acceptance_rate: "80.263%"
+collected_at: "2026-04-17T12:03:43.516976+00:00"
 ---
 
 ## 문제

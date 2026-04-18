@@ -1,13 +1,13 @@
 ---
-title: Add and Reverse
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Add and Reverse"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 84
 accepted: 46
 solved_users: 33
-acceptance_rate: 53.226%
-collected_at: 2026-04-17T19:26:52.571506+00:00
+acceptance_rate: "53.226%"
+collected_at: "2026-04-17T19:26:52.571506+00:00"
 ---
 
 ## 문제

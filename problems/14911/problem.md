@@ -1,13 +1,13 @@
 ---
-title: 궁합 쌍 찾기
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "궁합 쌍 찾기"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 1796
 accepted: 559
 solved_users: 483
-acceptance_rate: 32.200%
-collected_at: 2026-04-17T13:45:12.963568+00:00
+acceptance_rate: "32.200%"
+collected_at: "2026-04-17T13:45:12.963568+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 벽력일섬
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "벽력일섬"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 107
 accepted: 25
 solved_users: 18
-acceptance_rate: 37.500%
-collected_at: 2026-04-17T20:59:16.615250+00:00
+acceptance_rate: "37.500%"
+collected_at: "2026-04-17T20:59:16.615250+00:00"
 ---
 
 ## 문제

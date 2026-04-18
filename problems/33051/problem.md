@@ -1,13 +1,13 @@
 ---
-title: 나는 이 우마를 지배할 수 있다
-special_judge: true
-time_limit: 3 초
-memory_limit: 1024 MB
+title: "나는 이 우마를 지배할 수 있다"
+special_judge: "true"
+time_limit: "3 초"
+memory_limit: "1024 MB"
 submissions: 363
 accepted: 143
 solved_users: 124
-acceptance_rate: 41.751%
-collected_at: 2026-04-17T20:08:11.749760+00:00
+acceptance_rate: "41.751%"
+collected_at: "2026-04-17T20:08:11.749760+00:00"
 ---
 
 ## 문제

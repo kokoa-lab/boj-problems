@@ -1,13 +1,13 @@
 ---
-title: 소수 쌍
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "소수 쌍"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 14754
 accepted: 4071
 solved_users: 3189
-acceptance_rate: 30.383%
-collected_at: 2026-04-17T10:27:41.861541+00:00
+acceptance_rate: "30.383%"
+collected_at: "2026-04-17T10:27:41.861541+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 통나무 자르기
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "통나무 자르기"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 7008
 accepted: 1729
 solved_users: 1252
-acceptance_rate: 25.151%
-collected_at: 2026-04-17T10:28:17.044938+00:00
+acceptance_rate: "25.151%"
+collected_at: "2026-04-17T10:28:17.044938+00:00"
 ---
 
 ## 문제

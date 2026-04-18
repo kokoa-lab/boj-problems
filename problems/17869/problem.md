@@ -1,13 +1,13 @@
 ---
-title: Simple Collatz Sequence
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Simple Collatz Sequence"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 1738
 accepted: 962
 solved_users: 896
-acceptance_rate: 55.791%
-collected_at: 2026-04-17T14:48:53.787838+00:00
+acceptance_rate: "55.791%"
+collected_at: "2026-04-17T14:48:53.787838+00:00"
 ---
 
 ## 문제

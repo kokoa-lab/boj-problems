@@ -1,13 +1,13 @@
 ---
-title: 스물셋
-special_judge: false
-time_limit: 2.3 초
-memory_limit: 1023 MB
+title: "스물셋"
+special_judge: "false"
+time_limit: "2.3 초"
+memory_limit: "1023 MB"
 submissions: 2446
 accepted: 1413
 solved_users: 1178
-acceptance_rate: 58.030%
-collected_at: 2026-04-17T16:45:02.438011+00:00
+acceptance_rate: "58.030%"
+collected_at: "2026-04-17T16:45:02.438011+00:00"
 ---
 
 ## 문제

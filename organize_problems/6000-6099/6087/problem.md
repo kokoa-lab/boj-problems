@@ -1,13 +1,13 @@
 ---
-title: 레이저 통신
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "레이저 통신"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 26258
 accepted: 5550
 solved_users: 3869
-acceptance_rate: 23.856%
-collected_at: 2026-04-17T11:20:03.166678+00:00
+acceptance_rate: "23.856%"
+collected_at: "2026-04-17T11:20:03.166678+00:00"
 ---
 
 ## 문제

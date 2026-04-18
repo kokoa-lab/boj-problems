@@ -1,13 +1,13 @@
 ---
-title: Dynamic Dictionary Coding
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Dynamic Dictionary Coding"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 328
 accepted: 143
 solved_users: 78
-acceptance_rate: 43.575%
-collected_at: 2026-04-17T11:41:44.630622+00:00
+acceptance_rate: "43.575%"
+collected_at: "2026-04-17T11:41:44.630622+00:00"
 ---
 
 ## 문제

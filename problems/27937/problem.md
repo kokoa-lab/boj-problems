@@ -1,13 +1,13 @@
 ---
-title: 간단한 쿼리 문제
-special_judge: false
-time_limit: 3 초
-memory_limit: 1024 MB
+title: "간단한 쿼리 문제"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "1024 MB"
 submissions: 840
 accepted: 68
 solved_users: 37
-acceptance_rate: 9.296%
-collected_at: 2026-04-17T18:14:58.481953+00:00
+acceptance_rate: "9.296%"
+collected_at: "2026-04-17T18:14:58.481953+00:00"
 ---
 
 ## 문제

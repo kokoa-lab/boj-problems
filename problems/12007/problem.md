@@ -1,13 +1,13 @@
 ---
-title: Field Reduction (Bronze)
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Field Reduction (Bronze)"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 520
 accepted: 208
 solved_users: 188
-acceptance_rate: 45.192%
-collected_at: 2026-04-17T12:48:52.916778+00:00
+acceptance_rate: "45.192%"
+collected_at: "2026-04-17T12:48:52.916778+00:00"
 ---
 
 ## 문제

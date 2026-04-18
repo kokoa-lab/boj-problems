@@ -1,13 +1,13 @@
 ---
-title: Honourable Arrays
-special_judge: false
-time_limit: 4 초
-memory_limit: 2048 MB
+title: "Honourable Arrays"
+special_judge: "false"
+time_limit: "4 초"
+memory_limit: "2048 MB"
 submissions: 61
 accepted: 37
 solved_users: 8
-acceptance_rate: 29.630%
-collected_at: 2026-04-17T20:56:39.750464+00:00
+acceptance_rate: "29.630%"
+collected_at: "2026-04-17T20:56:39.750464+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 보드게임
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "보드게임"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 211
 accepted: 94
 solved_users: 84
-acceptance_rate: 50.000%
-collected_at: 2026-04-17T19:47:02.964725+00:00
+acceptance_rate: "50.000%"
+collected_at: "2026-04-17T19:47:02.964725+00:00"
 ---
 
 ## 문제

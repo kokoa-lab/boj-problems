@@ -1,13 +1,13 @@
 ---
-title: Free Edges
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Free Edges"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 93
 accepted: 64
 solved_users: 62
-acceptance_rate: 74.699%
-collected_at: 2026-04-17T15:04:59.229261+00:00
+acceptance_rate: "74.699%"
+collected_at: "2026-04-17T15:04:59.229261+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Copier
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Copier"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 82
 accepted: 70
 solved_users: 61
-acceptance_rate: 89.706%
-collected_at: 2026-04-17T18:08:52.984154+00:00
+acceptance_rate: "89.706%"
+collected_at: "2026-04-17T18:08:52.984154+00:00"
 ---
 
 ## 문제

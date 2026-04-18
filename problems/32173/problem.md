@@ -1,13 +1,13 @@
 ---
-title: 새치기
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "새치기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 546
 accepted: 272
 solved_users: 232
-acceptance_rate: 52.489%
-collected_at: 2026-04-17T19:44:54.062405+00:00
+acceptance_rate: "52.489%"
+collected_at: "2026-04-17T19:44:54.062405+00:00"
 ---
 
 ## 문제

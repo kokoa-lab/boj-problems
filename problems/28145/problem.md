@@ -1,13 +1,13 @@
 ---
-title: A Tree and Two Edges
-special_judge: false
-time_limit: 3 초
-memory_limit: 2048 MB
+title: "A Tree and Two Edges"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "2048 MB"
 submissions: 79
 accepted: 40
 solved_users: 31
-acceptance_rate: 49.206%
-collected_at: 2026-04-17T18:18:59.732675+00:00
+acceptance_rate: "49.206%"
+collected_at: "2026-04-17T18:18:59.732675+00:00"
 ---
 
 ## 문제

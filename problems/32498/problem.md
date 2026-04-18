@@ -1,13 +1,13 @@
 ---
-title: Call for Problems
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Call for Problems"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 2920
 accepted: 2084
 solved_users: 1986
-acceptance_rate: 71.878%
-collected_at: 2026-04-17T19:52:41.022476+00:00
+acceptance_rate: "71.878%"
+collected_at: "2026-04-17T19:52:41.022476+00:00"
 ---
 
 ## 문제

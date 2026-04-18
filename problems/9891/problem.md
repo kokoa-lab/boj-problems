@@ -1,13 +1,13 @@
 ---
-title: Rect
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Rect"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 179
 accepted: 133
 solved_users: 115
-acceptance_rate: 75.163%
-collected_at: 2026-04-17T12:16:16.705597+00:00
+acceptance_rate: "75.163%"
+collected_at: "2026-04-17T12:16:16.705597+00:00"
 ---
 
 ## 문제

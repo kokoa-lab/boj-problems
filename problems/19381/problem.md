@@ -1,13 +1,13 @@
 ---
-title: Ascending Tree
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Ascending Tree"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 90
 accepted: 47
 solved_users: 37
-acceptance_rate: 48.052%
-collected_at: 2026-04-17T15:18:47.052835+00:00
+acceptance_rate: "48.052%"
+collected_at: "2026-04-17T15:18:47.052835+00:00"
 ---
 
 ## 문제

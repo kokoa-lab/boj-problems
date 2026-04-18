@@ -1,13 +1,13 @@
 ---
-title: Panorama Bajhattanu
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Panorama Bajhattanu"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 23
 accepted: 17
 solved_users: 6
-acceptance_rate: 54.545%
-collected_at: 2026-04-17T12:01:42.704345+00:00
+acceptance_rate: "54.545%"
+collected_at: "2026-04-17T12:01:42.704345+00:00"
 ---
 
 ## 문제

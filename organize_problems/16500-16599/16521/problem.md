@@ -1,13 +1,13 @@
 ---
-title: A Symmetrical Pizza
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "A Symmetrical Pizza"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 323
 accepted: 155
 solved_users: 128
-acceptance_rate: 47.584%
-collected_at: 2026-04-17T14:19:25.736268+00:00
+acceptance_rate: "47.584%"
+collected_at: "2026-04-17T14:19:25.736268+00:00"
 ---
 
 ## 문제

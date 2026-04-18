@@ -1,13 +1,13 @@
 ---
-title: 폰 호석만
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "폰 호석만"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 2086
 accepted: 781
 solved_users: 570
-acceptance_rate: 39.556%
-collected_at: 2026-04-17T15:52:33.589788+00:00
+acceptance_rate: "39.556%"
+collected_at: "2026-04-17T15:52:33.589788+00:00"
 ---
 
 ## 문제

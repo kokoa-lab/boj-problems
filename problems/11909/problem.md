@@ -1,13 +1,13 @@
 ---
-title: 배열 탈출
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "배열 탈출"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 3012
 accepted: 1234
 solved_users: 936
-acceptance_rate: 39.847%
-collected_at: 2026-04-17T12:47:32.768287+00:00
+acceptance_rate: "39.847%"
+collected_at: "2026-04-17T12:47:32.768287+00:00"
 ---
 
 ## 문제

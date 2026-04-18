@@ -1,13 +1,13 @@
 ---
-title: Almost Longest Increasing Subsequence
-special_judge: false
-time_limit: 13 초
-memory_limit: 256 MB
+title: "Almost Longest Increasing Subsequence"
+special_judge: "false"
+time_limit: "13 초"
+memory_limit: "256 MB"
 submissions: 22
 accepted: 8
 solved_users: 7
-acceptance_rate: 36.842%
-collected_at: 2026-04-17T15:20:25.758586+00:00
+acceptance_rate: "36.842%"
+collected_at: "2026-04-17T15:20:25.758586+00:00"
 ---
 
 ## 문제

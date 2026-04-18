@@ -1,13 +1,13 @@
 ---
-title: 초직사각형
-special_judge: true
-time_limit: 1 초
-memory_limit: 512 MB
+title: "초직사각형"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 4035
 accepted: 1086
 solved_users: 798
-acceptance_rate: 28.633%
-collected_at: 2026-04-17T16:06:46.635392+00:00
+acceptance_rate: "28.633%"
+collected_at: "2026-04-17T16:06:46.635392+00:00"
 ---
 
 ## 문제

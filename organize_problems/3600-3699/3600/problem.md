@@ -1,13 +1,13 @@
 ---
-title: Given a string. . .
-special_judge: false
-time_limit: 2 초
-memory_limit: 64 MB
+title: "Given a string. . ."
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "64 MB"
 submissions: 37
 accepted: 16
 solved_users: 12
-acceptance_rate: 40.000%
-collected_at: 2026-04-17T10:50:05.334304+00:00
+acceptance_rate: "40.000%"
+collected_at: "2026-04-17T10:50:05.334304+00:00"
 ---
 
 ## 문제

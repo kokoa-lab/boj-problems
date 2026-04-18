@@ -1,13 +1,13 @@
 ---
-title: Control Point
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Control Point"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 14
 accepted: 1
 solved_users: 1
-acceptance_rate: 14.286%
-collected_at: 2026-04-17T15:13:50.324099+00:00
+acceptance_rate: "14.286%"
+collected_at: "2026-04-17T15:13:50.324099+00:00"
 ---
 
 ## 문제

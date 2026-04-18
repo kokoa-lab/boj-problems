@@ -1,13 +1,13 @@
 ---
-title: Pac-Man
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Pac-Man"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 168
 accepted: 87
 solved_users: 81
-acceptance_rate: 54.362%
-collected_at: 2026-04-18T09:59:14.747861+00:00
+acceptance_rate: "54.362%"
+collected_at: "2026-04-18T09:59:14.747861+00:00"
 ---
 
 ## 문제

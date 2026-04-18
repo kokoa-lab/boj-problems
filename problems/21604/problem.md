@@ -1,13 +1,13 @@
 ---
-title: 겹강 찾기
-special_judge: true
-time_limit: 1 초
-memory_limit: 256 MB
+title: "겹강 찾기"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 461
 accepted: 173
 solved_users: 133
-acceptance_rate: 38.218%
-collected_at: 2026-04-17T16:01:16.478932+00:00
+acceptance_rate: "38.218%"
+collected_at: "2026-04-17T16:01:16.478932+00:00"
 ---
 
 ## 문제

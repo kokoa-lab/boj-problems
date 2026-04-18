@@ -1,13 +1,13 @@
 ---
-title: Take It or Double It
-special_judge: false
-time_limit: 1 초
-memory_limit: 2048 MB
+title: "Take It or Double It"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "2048 MB"
 submissions: 461
 accepted: 410
 solved_users: 390
-acceptance_rate: 89.655%
-collected_at: 2026-04-17T20:43:21.334449+00:00
+acceptance_rate: "89.655%"
+collected_at: "2026-04-17T20:43:21.334449+00:00"
 ---
 
 ## 문제

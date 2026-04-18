@@ -1,13 +1,13 @@
 ---
-title: Append and Panic!
-special_judge: false
-time_limit: 0.5 초 (추가 시간 없음)
-memory_limit: 2048 MB
+title: "Append and Panic!"
+special_judge: "false"
+time_limit: "0.5 초 (추가 시간 없음)"
+memory_limit: "2048 MB"
 submissions: 316
 accepted: 254
 solved_users: 225
-acceptance_rate: 83.333%
-collected_at: 2026-04-17T20:09:59.535786+00:00
+acceptance_rate: "83.333%"
+collected_at: "2026-04-17T20:09:59.535786+00:00"
 ---
 
 ## 문제

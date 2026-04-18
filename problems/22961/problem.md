@@ -1,13 +1,13 @@
 ---
-title: 여행사 운영하기
-special_judge: false
-time_limit: 4 초
-memory_limit: 1024 MB
+title: "여행사 운영하기"
+special_judge: "false"
+time_limit: "4 초"
+memory_limit: "1024 MB"
 submissions: 98
 accepted: 32
 solved_users: 30
-acceptance_rate: 49.180%
-collected_at: 2026-04-17T16:39:24.759366+00:00
+acceptance_rate: "49.180%"
+collected_at: "2026-04-17T16:39:24.759366+00:00"
 ---
 
 ## 문제

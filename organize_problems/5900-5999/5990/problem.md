@@ -1,13 +1,13 @@
 ---
-title: Barn Echoes
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Barn Echoes"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 173
 accepted: 122
 solved_users: 112
-acceptance_rate: 76.190%
-collected_at: 2026-04-17T11:19:10.827506+00:00
+acceptance_rate: "76.190%"
+collected_at: "2026-04-17T11:19:10.827506+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 재미있는 박스 정리
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "재미있는 박스 정리"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 652
 accepted: 181
 solved_users: 149
-acceptance_rate: 27.440%
-collected_at: 2026-04-17T13:04:26.214038+00:00
+acceptance_rate: "27.440%"
+collected_at: "2026-04-17T13:04:26.214038+00:00"
 ---
 
 ## 문제

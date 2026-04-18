@@ -1,13 +1,13 @@
 ---
-title: 토끼가 정보섬에 올라온 이유
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "토끼가 정보섬에 올라온 이유"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 2465
 accepted: 630
 solved_users: 495
-acceptance_rate: 25.204%
-collected_at: 2026-04-17T14:30:22.117419+00:00
+acceptance_rate: "25.204%"
+collected_at: "2026-04-17T14:30:22.117419+00:00"
 ---
 
 ## 문제

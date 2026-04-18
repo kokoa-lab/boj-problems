@@ -1,13 +1,13 @@
 ---
-title: Перевод времени
-special_judge: false
-time_limit: 3 초
-memory_limit: 256 MB
+title: "Перевод времени"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "256 MB"
 submissions: 8
 accepted: 0
 solved_users: 0
-acceptance_rate: 0.000%
-collected_at: 2026-04-17T16:16:17.298358+00:00
+acceptance_rate: "0.000%"
+collected_at: "2026-04-17T16:16:17.298358+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Ghost leg
-special_judge: false
-time_limit: 4 초
-memory_limit: 512 MB
+title: "Ghost leg"
+special_judge: "false"
+time_limit: "4 초"
+memory_limit: "512 MB"
 submissions: 34
 accepted: 4
 solved_users: 4
-acceptance_rate: 25.000%
-collected_at: 2026-04-17T14:16:12.445448+00:00
+acceptance_rate: "25.000%"
+collected_at: "2026-04-17T14:16:12.445448+00:00"
 ---
 
 ## 문제

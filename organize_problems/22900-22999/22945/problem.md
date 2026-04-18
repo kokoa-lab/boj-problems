@@ -1,13 +1,13 @@
 ---
-title: 팀 빌딩
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "팀 빌딩"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 2646
 accepted: 1292
 solved_users: 1030
-acceptance_rate: 47.531%
-collected_at: 2026-04-17T16:39:06.228810+00:00
+acceptance_rate: "47.531%"
+collected_at: "2026-04-17T16:39:06.228810+00:00"
 ---
 
 ## 문제

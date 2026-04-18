@@ -1,13 +1,13 @@
 ---
-title: Junk Problem
-special_judge: true
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Junk Problem"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 258
 accepted: 72
 solved_users: 61
-acceptance_rate: 28.372%
-collected_at: 2026-04-17T15:09:21.272838+00:00
+acceptance_rate: "28.372%"
+collected_at: "2026-04-17T15:09:21.272838+00:00"
 ---
 
 ## 문제

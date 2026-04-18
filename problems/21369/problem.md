@@ -1,13 +1,13 @@
 ---
-title: Social distansering
-special_judge: false
-time_limit: 3 초
-memory_limit: 1024 MB
+title: "Social distansering"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "1024 MB"
 submissions: 12
 accepted: 9
 solved_users: 5
-acceptance_rate: 71.429%
-collected_at: 2026-04-17T15:57:08.514910+00:00
+acceptance_rate: "71.429%"
+collected_at: "2026-04-17T15:57:08.514910+00:00"
 ---
 
 ## 문제

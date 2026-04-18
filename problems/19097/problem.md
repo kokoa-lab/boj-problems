@@ -1,13 +1,13 @@
 ---
-title: Primes
-special_judge: false
-time_limit: 8 초
-memory_limit: 256 MB
+title: "Primes"
+special_judge: "false"
+time_limit: "8 초"
+memory_limit: "256 MB"
 submissions: 93
 accepted: 25
 solved_users: 16
-acceptance_rate: 32.653%
-collected_at: 2026-04-17T15:13:26.069269+00:00
+acceptance_rate: "32.653%"
+collected_at: "2026-04-17T15:13:26.069269+00:00"
 ---
 
 ## 문제

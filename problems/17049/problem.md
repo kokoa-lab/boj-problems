@@ -1,13 +1,13 @@
 ---
-title: Ispit
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Ispit"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 72
 accepted: 25
 solved_users: 18
-acceptance_rate: 41.860%
-collected_at: 2026-04-17T14:28:35.999723+00:00
+acceptance_rate: "41.860%"
+collected_at: "2026-04-17T14:28:35.999723+00:00"
 ---
 
 ## 문제

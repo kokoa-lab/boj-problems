@@ -1,13 +1,13 @@
 ---
-title: 주식 투자
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "주식 투자"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 3176
 accepted: 2397
 solved_users: 2081
-acceptance_rate: 77.246%
-collected_at: 2026-04-17T13:12:56.514442+00:00
+acceptance_rate: "77.246%"
+collected_at: "2026-04-17T13:12:56.514442+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 다항함수의 미분
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "다항함수의 미분"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 3719
 accepted: 1056
 solved_users: 963
-acceptance_rate: 31.085%
-collected_at: 2026-04-17T14:05:10.885990+00:00
+acceptance_rate: "31.085%"
+collected_at: "2026-04-17T14:05:10.885990+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Игровые автоматы
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "Игровые автоматы"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 25
 accepted: 1
 solved_users: 1
-acceptance_rate: 20.000%
-collected_at: 2026-04-17T16:12:34.686004+00:00
+acceptance_rate: "20.000%"
+collected_at: "2026-04-17T16:12:34.686004+00:00"
 ---
 
 ## 문제

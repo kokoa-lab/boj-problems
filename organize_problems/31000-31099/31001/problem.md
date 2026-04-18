@@ -1,13 +1,13 @@
 ---
-title: 주식 시뮬레이션
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "주식 시뮬레이션"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 1605
 accepted: 343
 solved_users: 282
-acceptance_rate: 22.834%
-collected_at: 2026-04-17T19:19:27.398056+00:00
+acceptance_rate: "22.834%"
+collected_at: "2026-04-17T19:19:27.398056+00:00"
 ---
 
 ## 문제

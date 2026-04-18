@@ -1,13 +1,13 @@
 ---
-title: Bottle Arrangements
-special_judge: true
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 2048 MB
+title: "Bottle Arrangements"
+special_judge: "true"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "2048 MB"
 submissions: 141
 accepted: 114
 solved_users: 109
-acceptance_rate: 82.576%
-collected_at: 2026-04-17T17:19:51.487520+00:00
+acceptance_rate: "82.576%"
+collected_at: "2026-04-17T17:19:51.487520+00:00"
 ---
 
 ## 문제

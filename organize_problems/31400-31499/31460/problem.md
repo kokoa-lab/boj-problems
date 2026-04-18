@@ -1,13 +1,13 @@
 ---
-title: 초콜릿과 11과 팰린드롬
-special_judge: true
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "초콜릿과 11과 팰린드롬"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 1884
 accepted: 650
 solved_users: 569
-acceptance_rate: 33.709%
-collected_at: 2026-04-17T19:28:38.473656+00:00
+acceptance_rate: "33.709%"
+collected_at: "2026-04-17T19:28:38.473656+00:00"
 ---
 
 ## 문제

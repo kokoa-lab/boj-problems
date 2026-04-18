@@ -1,13 +1,13 @@
 ---
-title: Innohorse
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Innohorse"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 634
 accepted: 510
 solved_users: 482
-acceptance_rate: 81.008%
-collected_at: 2026-04-17T16:09:13.568643+00:00
+acceptance_rate: "81.008%"
+collected_at: "2026-04-17T16:09:13.568643+00:00"
 ---
 
 ## 문제

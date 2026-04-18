@@ -1,13 +1,13 @@
 ---
-title: 최빈값과 쿼리
-special_judge: false
-time_limit: 3 초
-memory_limit: 256 MB
+title: "최빈값과 쿼리"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "256 MB"
 submissions: 145
 accepted: 67
 solved_users: 54
-acceptance_rate: 51.429%
-collected_at: 2026-04-17T17:42:50.991332+00:00
+acceptance_rate: "51.429%"
+collected_at: "2026-04-17T17:42:50.991332+00:00"
 ---
 
 ## 문제

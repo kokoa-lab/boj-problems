@@ -1,13 +1,13 @@
 ---
-title: Key Task
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Key Task"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 71
 accepted: 32
 solved_users: 26
-acceptance_rate: 44.828%
-collected_at: 2026-04-17T10:48:54.619181+00:00
+acceptance_rate: "44.828%"
+collected_at: "2026-04-17T10:48:54.619181+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Пароль
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Пароль"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 49
 accepted: 16
 solved_users: 13
-acceptance_rate: 30.952%
-collected_at: 2026-04-17T16:00:41.482076+00:00
+acceptance_rate: "30.952%"
+collected_at: "2026-04-17T16:00:41.482076+00:00"
 ---
 
 ## 문제

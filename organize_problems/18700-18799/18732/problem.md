@@ -1,13 +1,13 @@
 ---
-title: A Permutation Problem
-special_judge: true
-time_limit: 3 초
-memory_limit: 512 MB
+title: "A Permutation Problem"
+special_judge: "true"
+time_limit: "3 초"
+memory_limit: "512 MB"
 submissions: 76
 accepted: 36
 solved_users: 30
-acceptance_rate: 49.180%
-collected_at: 2026-04-17T15:08:58.750023+00:00
+acceptance_rate: "49.180%"
+collected_at: "2026-04-17T15:08:58.750023+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 루미의 진정한™ 보라색 찾기
-special_judge: false
-time_limit: 2.8 초
-memory_limit: 329 MB
+title: "루미의 진정한™ 보라색 찾기"
+special_judge: "false"
+time_limit: "2.8 초"
+memory_limit: "329 MB"
 submissions: 1073
 accepted: 505
 solved_users: 426
-acceptance_rate: 49.135%
-collected_at: 2026-04-17T20:21:03.539372+00:00
+acceptance_rate: "49.135%"
+collected_at: "2026-04-17T20:21:03.539372+00:00"
 ---
 
 ## 문제

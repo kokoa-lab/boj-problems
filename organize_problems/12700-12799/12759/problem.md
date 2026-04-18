@@ -1,13 +1,13 @@
 ---
-title: 틱! 택! 토!
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "틱! 택! 토!"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 3373
 accepted: 1256
 solved_users: 1092
-acceptance_rate: 37.969%
-collected_at: 2026-04-17T13:00:53.493497+00:00
+acceptance_rate: "37.969%"
+collected_at: "2026-04-17T13:00:53.493497+00:00"
 ---
 
 ## 문제

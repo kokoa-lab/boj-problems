@@ -1,13 +1,13 @@
 ---
-title: Divisionals Spelling
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Divisionals Spelling"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 351
 accepted: 259
 solved_users: 228
-acceptance_rate: 73.312%
-collected_at: 2026-04-17T15:09:55.862001+00:00
+acceptance_rate: "73.312%"
+collected_at: "2026-04-17T15:09:55.862001+00:00"
 ---
 
 ## 문제

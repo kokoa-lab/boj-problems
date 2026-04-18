@@ -1,13 +1,13 @@
 ---
-title: Double Sort
-special_judge: true
-time_limit: 1.5 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Double Sort"
+special_judge: "true"
+time_limit: "1.5 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 42
 accepted: 19
 solved_users: 12
-acceptance_rate: 41.379%
-collected_at: 2026-04-17T17:22:58.103122+00:00
+acceptance_rate: "41.379%"
+collected_at: "2026-04-17T17:22:58.103122+00:00"
 ---
 
 ## 문제

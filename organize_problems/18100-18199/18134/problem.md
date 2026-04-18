@@ -1,13 +1,13 @@
 ---
-title: 치삼이의 대모험
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "치삼이의 대모험"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 207
 accepted: 96
 solved_users: 78
-acceptance_rate: 47.561%
-collected_at: 2026-04-17T14:56:14.823687+00:00
+acceptance_rate: "47.561%"
+collected_at: "2026-04-17T14:56:14.823687+00:00"
 ---
 
 ## 문제

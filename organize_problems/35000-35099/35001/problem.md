@@ -1,13 +1,13 @@
 ---
-title: 토카는 햄버거를 뿌려라
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "토카는 햄버거를 뿌려라"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 122
 accepted: 58
 solved_users: 45
-acceptance_rate: 43.269%
-collected_at: 2026-04-17T20:53:36.217037+00:00
+acceptance_rate: "43.269%"
+collected_at: "2026-04-17T20:53:36.217037+00:00"
 ---
 
 ## 문제

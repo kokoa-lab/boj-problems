@@ -1,13 +1,13 @@
 ---
-title: Intersection is Not Allowed!
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Intersection is Not Allowed!"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 324
 accepted: 117
 solved_users: 73
-acceptance_rate: 28.185%
-collected_at: 2026-04-17T15:21:53.840386+00:00
+acceptance_rate: "28.185%"
+collected_at: "2026-04-17T15:21:53.840386+00:00"
 ---
 
 ## 문제

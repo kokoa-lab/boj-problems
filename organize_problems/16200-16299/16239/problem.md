@@ -1,13 +1,13 @@
 ---
-title: Nadan
-special_judge: true
-time_limit: 1 초
-memory_limit: 64 MB
+title: "Nadan"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "64 MB"
 submissions: 773
 accepted: 532
 solved_users: 496
-acceptance_rate: 71.573%
-collected_at: 2026-04-18T09:50:32.809994+00:00
+acceptance_rate: "71.573%"
+collected_at: "2026-04-18T09:50:32.809994+00:00"
 ---
 
 ## 문제

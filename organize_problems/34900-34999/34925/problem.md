@@ -1,13 +1,13 @@
 ---
-title: 실크의 노래
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "실크의 노래"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 475
 accepted: 170
 solved_users: 154
-acceptance_rate: 44.126%
-collected_at: 2026-04-17T20:52:03.049528+00:00
+acceptance_rate: "44.126%"
+collected_at: "2026-04-17T20:52:03.049528+00:00"
 ---
 
 ## 문제

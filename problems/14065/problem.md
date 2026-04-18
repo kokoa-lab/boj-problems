@@ -1,13 +1,13 @@
 ---
-title: Gorivo
-special_judge: true
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Gorivo"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 4405
 accepted: 1786
 solved_users: 1609
-acceptance_rate: 40.796%
-collected_at: 2026-04-17T13:25:03.090032+00:00
+acceptance_rate: "40.796%"
+collected_at: "2026-04-17T13:25:03.090032+00:00"
 ---
 
 ## 문제

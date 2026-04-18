@@ -1,13 +1,13 @@
 ---
-title: Bounce Bounce Bounce
-special_judge: false
-time_limit: 3 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "Bounce Bounce Bounce"
+special_judge: "false"
+time_limit: "3 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 274
 accepted: 122
 solved_users: 104
-acceptance_rate: 46.847%
-collected_at: 2026-04-17T13:58:12.832196+00:00
+acceptance_rate: "46.847%"
+collected_at: "2026-04-17T13:58:12.832196+00:00"
 ---
 
 ## 문제

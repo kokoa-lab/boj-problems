@@ -1,13 +1,13 @@
 ---
-title: Toy Marbles
-special_judge: true
-time_limit: 2 초
-memory_limit: 256 MB
+title: "Toy Marbles"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 34
 accepted: 9
 solved_users: 9
-acceptance_rate: 32.143%
-collected_at: 2026-04-17T20:12:12.920719+00:00
+acceptance_rate: "32.143%"
+collected_at: "2026-04-17T20:12:12.920719+00:00"
 ---
 
 ## 문제

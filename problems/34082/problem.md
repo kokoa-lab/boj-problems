@@ -1,13 +1,13 @@
 ---
-title: Lv2부터 치트였던 전직 아이돌 한별이의 알록달록 트리 라이프
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Lv2부터 치트였던 전직 아이돌 한별이의 알록달록 트리 라이프"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 92
 accepted: 58
 solved_users: 57
-acceptance_rate: 64.045%
-collected_at: 2026-04-17T20:30:10.988521+00:00
+acceptance_rate: "64.045%"
+collected_at: "2026-04-17T20:30:10.988521+00:00"
 ---
 
 ## 문제

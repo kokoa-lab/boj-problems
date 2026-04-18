@@ -1,13 +1,13 @@
 ---
-title: 2×n 타일링
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "2×n 타일링"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 225438
 accepted: 88471
 solved_users: 65808
-acceptance_rate: 37.195%
-collected_at: 2026-04-17T12:44:53.851453+00:00
+acceptance_rate: "37.195%"
+collected_at: "2026-04-17T12:44:53.851453+00:00"
 ---
 
 ## 문제

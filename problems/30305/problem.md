@@ -1,13 +1,13 @@
 ---
-title: Anti-Tetris
-special_judge: true
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Anti-Tetris"
+special_judge: "true"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 102
 accepted: 47
 solved_users: 44
-acceptance_rate: 55.696%
-collected_at: 2026-04-17T19:03:02.311574+00:00
+acceptance_rate: "55.696%"
+collected_at: "2026-04-17T19:03:02.311574+00:00"
 ---
 
 ## 문제

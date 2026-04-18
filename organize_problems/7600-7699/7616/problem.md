@@ -1,13 +1,13 @@
 ---
-title: 교실로 가는 길
-special_judge: true
-time_limit: 3 초
-memory_limit: 128 MB
+title: "교실로 가는 길"
+special_judge: "true"
+time_limit: "3 초"
+memory_limit: "128 MB"
 submissions: 2217
 accepted: 445
 solved_users: 236
-acceptance_rate: 16.298%
-collected_at: 2026-04-17T11:51:08.279382+00:00
+acceptance_rate: "16.298%"
+collected_at: "2026-04-17T11:51:08.279382+00:00"
 ---
 
 ## 문제

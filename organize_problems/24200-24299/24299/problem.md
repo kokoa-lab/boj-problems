@@ -1,13 +1,13 @@
 ---
-title: ОТГАТНИ ЦИФРАТA
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "ОТГАТНИ ЦИФРАТA"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 172
 accepted: 24
 solved_users: 15
-acceptance_rate: 12.712%
-collected_at: 2026-04-17T17:07:07.498821+00:00
+acceptance_rate: "12.712%"
+collected_at: "2026-04-17T17:07:07.498821+00:00"
 ---
 
 ## 문제

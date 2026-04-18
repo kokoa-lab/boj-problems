@@ -1,13 +1,13 @@
 ---
-title: Decision Tree
-special_judge: true
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "Decision Tree"
+special_judge: "true"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 45
 accepted: 2
 solved_users: 2
-acceptance_rate: 100.000%
-collected_at: 2026-04-17T18:13:20.239691+00:00
+acceptance_rate: "100.000%"
+collected_at: "2026-04-17T18:13:20.239691+00:00"
 ---
 
 ## 문제

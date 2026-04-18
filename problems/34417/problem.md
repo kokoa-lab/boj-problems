@@ -1,13 +1,13 @@
 ---
-title: Alphabet Soup
-special_judge: false
-time_limit: 1 초
-memory_limit: 2048 MB
+title: "Alphabet Soup"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "2048 MB"
 submissions: 88
 accepted: 71
 solved_users: 61
-acceptance_rate: 84.722%
-collected_at: 2026-04-17T20:38:12.085225+00:00
+acceptance_rate: "84.722%"
+collected_at: "2026-04-17T20:38:12.085225+00:00"
 ---
 
 ## 문제

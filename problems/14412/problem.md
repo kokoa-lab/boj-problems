@@ -1,13 +1,13 @@
 ---
-title: Ronald
-special_judge: false
-time_limit: 1 초
-memory_limit: 64 MB
+title: "Ronald"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "64 MB"
 submissions: 134
 accepted: 102
 solved_users: 86
-acceptance_rate: 76.786%
-collected_at: 2026-04-17T13:32:35.786563+00:00
+acceptance_rate: "76.786%"
+collected_at: "2026-04-17T13:32:35.786563+00:00"
 ---
 
 ## 문제

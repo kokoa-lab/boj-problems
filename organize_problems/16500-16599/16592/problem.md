@@ -1,13 +1,13 @@
 ---
-title: Plate Parity
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Plate Parity"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 70
 accepted: 24
 solved_users: 20
-acceptance_rate: 52.632%
-collected_at: 2026-04-17T14:20:37.375020+00:00
+acceptance_rate: "52.632%"
+collected_at: "2026-04-17T14:20:37.375020+00:00"
 ---
 
 ## 문제

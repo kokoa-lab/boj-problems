@@ -1,13 +1,13 @@
 ---
-title: Ball Alignment
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Ball Alignment"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 479
 accepted: 106
 solved_users: 85
-acceptance_rate: 26.562%
-collected_at: 2026-04-17T15:30:50.453126+00:00
+acceptance_rate: "26.562%"
+collected_at: "2026-04-17T15:30:50.453126+00:00"
 ---
 
 ## 문제

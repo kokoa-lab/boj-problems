@@ -1,13 +1,13 @@
 ---
-title: Dango Maker
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "Dango Maker"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 477
 accepted: 165
 solved_users: 139
-acceptance_rate: 37.067%
-collected_at: 2026-04-17T14:01:32.414876+00:00
+acceptance_rate: "37.067%"
+collected_at: "2026-04-17T14:01:32.414876+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 나이트 게임
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "나이트 게임"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 655
 accepted: 469
 solved_users: 437
-acceptance_rate: 72.591%
-collected_at: 2026-04-17T14:25:40.350338+00:00
+acceptance_rate: "72.591%"
+collected_at: "2026-04-17T14:25:40.350338+00:00"
 ---
 
 ## 문제

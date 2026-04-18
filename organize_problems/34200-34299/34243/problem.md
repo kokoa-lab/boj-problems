@@ -1,13 +1,13 @@
 ---
-title: 힝스티비와 쿼리
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "힝스티비와 쿼리"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 170
 accepted: 53
 solved_users: 39
-acceptance_rate: 30.000%
-collected_at: 2026-04-17T20:33:53.789729+00:00
+acceptance_rate: "30.000%"
+collected_at: "2026-04-17T20:33:53.789729+00:00"
 ---
 
 ## 문제

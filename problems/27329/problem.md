@@ -1,13 +1,13 @@
 ---
-title: 繰り返し文字列 (Repeating String)
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "繰り返し文字列 (Repeating String)"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 490
 accepted: 427
 solved_users: 393
-acceptance_rate: 87.919%
-collected_at: 2026-04-17T18:00:55.168276+00:00
+acceptance_rate: "87.919%"
+collected_at: "2026-04-17T18:00:55.168276+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Ship Selection
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Ship Selection"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 997
 accepted: 910
 solved_users: 858
-acceptance_rate: 91.765%
-collected_at: 2026-04-17T12:20:04.898995+00:00
+acceptance_rate: "91.765%"
+collected_at: "2026-04-17T12:20:04.898995+00:00"
 ---
 
 ## 문제

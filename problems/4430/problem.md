@@ -1,13 +1,13 @@
 ---
-title: Is Bigger Smarter?
-special_judge: true
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Is Bigger Smarter?"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 312
 accepted: 87
 solved_users: 51
-acceptance_rate: 26.154%
-collected_at: 2026-04-17T11:01:34.802457+00:00
+acceptance_rate: "26.154%"
+collected_at: "2026-04-17T11:01:34.802457+00:00"
 ---
 
 ## 문제

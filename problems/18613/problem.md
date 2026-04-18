@@ -1,13 +1,13 @@
 ---
-title: Decimal Expansion
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Decimal Expansion"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 88
 accepted: 52
 solved_users: 28
-acceptance_rate: 58.333%
-collected_at: 2026-04-17T15:07:09.515413+00:00
+acceptance_rate: "58.333%"
+collected_at: "2026-04-17T15:07:09.515413+00:00"
 ---
 
 ## 문제

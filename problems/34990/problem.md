@@ -1,13 +1,13 @@
 ---
-title: 족구왕 와니
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "족구왕 와니"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 121
 accepted: 74
 solved_users: 74
-acceptance_rate: 63.248%
-collected_at: 2026-04-17T20:53:22.307177+00:00
+acceptance_rate: "63.248%"
+collected_at: "2026-04-17T20:53:22.307177+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Zegarek
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Zegarek"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 333
 accepted: 277
 solved_users: 242
-acceptance_rate: 84.321%
-collected_at: 2026-04-17T17:51:00.034229+00:00
+acceptance_rate: "84.321%"
+collected_at: "2026-04-17T17:51:00.034229+00:00"
 ---
 
 ## 문제

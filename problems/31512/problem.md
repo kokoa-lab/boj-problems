@@ -1,13 +1,13 @@
 ---
-title: Matrix Fraud
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 2048 MB
+title: "Matrix Fraud"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "2048 MB"
 submissions: 98
 accepted: 31
 solved_users: 29
-acceptance_rate: 32.584%
-collected_at: 2026-04-17T19:29:39.914755+00:00
+acceptance_rate: "32.584%"
+collected_at: "2026-04-17T19:29:39.914755+00:00"
 ---
 
 ## 문제

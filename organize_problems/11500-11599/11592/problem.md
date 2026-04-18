@@ -1,13 +1,13 @@
 ---
-title: DRŽAVA
-special_judge: false
-time_limit: 2 초
-memory_limit: 64 MB
+title: "DRŽAVA"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "64 MB"
 submissions: 55
 accepted: 20
 solved_users: 18
-acceptance_rate: 46.154%
-collected_at: 2026-04-17T12:42:40.692800+00:00
+acceptance_rate: "46.154%"
+collected_at: "2026-04-17T12:42:40.692800+00:00"
 ---
 
 ## 문제

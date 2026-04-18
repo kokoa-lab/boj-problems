@@ -1,13 +1,13 @@
 ---
-title: OBB(Oriented bounding box)
-special_judge: false
-time_limit: 0.3 초 (추가 시간 없음)
-memory_limit: 32 MB
+title: "OBB(Oriented bounding box)"
+special_judge: "false"
+time_limit: "0.3 초 (추가 시간 없음)"
+memory_limit: "32 MB"
 submissions: 595
 accepted: 135
 solved_users: 65
-acceptance_rate: 17.426%
-collected_at: 2026-04-17T14:12:05.571545+00:00
+acceptance_rate: "17.426%"
+collected_at: "2026-04-17T14:12:05.571545+00:00"
 ---
 
 ## 문제

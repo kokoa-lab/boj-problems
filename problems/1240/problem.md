@@ -1,13 +1,13 @@
 ---
-title: 노드사이의 거리
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "노드사이의 거리"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 15982
 accepted: 9116
 solved_users: 6989
-acceptance_rate: 56.793%
-collected_at: 2026-04-17T10:29:02.297815+00:00
+acceptance_rate: "56.793%"
+collected_at: "2026-04-17T10:29:02.297815+00:00"
 ---
 
 ## 문제

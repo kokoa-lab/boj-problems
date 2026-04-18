@@ -1,13 +1,13 @@
 ---
-title: AN2DL
-special_judge: false
-time_limit: 4 초
-memory_limit: 1024 MB
+title: "AN2DL"
+special_judge: "false"
+time_limit: "4 초"
+memory_limit: "1024 MB"
 submissions: 47
 accepted: 28
 solved_users: 25
-acceptance_rate: 58.140%
-collected_at: 2026-04-17T19:11:36.128824+00:00
+acceptance_rate: "58.140%"
+collected_at: "2026-04-17T19:11:36.128824+00:00"
 ---
 
 ## 문제

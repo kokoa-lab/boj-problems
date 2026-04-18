@@ -1,13 +1,13 @@
 ---
-title: Delight for a Cat
-special_judge: true
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Delight for a Cat"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 94
 accepted: 46
 solved_users: 32
-acceptance_rate: 47.761%
-collected_at: 2026-04-17T13:23:35.718119+00:00
+acceptance_rate: "47.761%"
+collected_at: "2026-04-17T13:23:35.718119+00:00"
 ---
 
 ## 문제

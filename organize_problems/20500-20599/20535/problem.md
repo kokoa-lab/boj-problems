@@ -1,13 +1,13 @@
 ---
-title: 최소 공통 조상과 쿼리
-special_judge: false
-time_limit: 5 초
-memory_limit: 1536 MB
+title: "최소 공통 조상과 쿼리"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "1536 MB"
 submissions: 469
 accepted: 195
 solved_users: 138
-acceptance_rate: 41.566%
-collected_at: 2026-04-17T15:37:39.211984+00:00
+acceptance_rate: "41.566%"
+collected_at: "2026-04-17T15:37:39.211984+00:00"
 ---
 
 ## 문제

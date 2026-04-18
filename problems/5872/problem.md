@@ -1,13 +1,13 @@
 ---
-title: Clumsy Cows
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Clumsy Cows"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 233
 accepted: 147
 solved_users: 136
-acceptance_rate: 65.385%
-collected_at: 2026-04-17T11:18:09.655732+00:00
+acceptance_rate: "65.385%"
+collected_at: "2026-04-17T11:18:09.655732+00:00"
 ---
 
 ## 문제

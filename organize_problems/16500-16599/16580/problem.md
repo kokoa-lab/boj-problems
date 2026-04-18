@@ -1,13 +1,13 @@
 ---
-title: Lexical Sign Sequence
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Lexical Sign Sequence"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 118
 accepted: 54
 solved_users: 49
-acceptance_rate: 49.495%
-collected_at: 2026-04-17T14:20:22.481675+00:00
+acceptance_rate: "49.495%"
+collected_at: "2026-04-17T14:20:22.481675+00:00"
 ---
 
 ## 문제

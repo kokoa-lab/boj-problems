@@ -1,13 +1,13 @@
 ---
-title: STUPOVI
-special_judge: true
-time_limit: 1 초
-memory_limit: 128 MB
+title: "STUPOVI"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 70
 accepted: 29
 solved_users: 29
-acceptance_rate: 49.153%
-collected_at: 2026-04-17T10:46:57.109729+00:00
+acceptance_rate: "49.153%"
+collected_at: "2026-04-17T10:46:57.109729+00:00"
 ---
 
 ## 문제

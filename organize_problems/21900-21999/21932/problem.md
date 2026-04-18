@@ -1,13 +1,13 @@
 ---
-title: To be Connected, or not to be, that is the Question
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "To be Connected, or not to be, that is the Question"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 92
 accepted: 64
 solved_users: 58
-acceptance_rate: 76.316%
-collected_at: 2026-04-17T16:10:14.715321+00:00
+acceptance_rate: "76.316%"
+collected_at: "2026-04-17T16:10:14.715321+00:00"
 ---
 
 ## 문제

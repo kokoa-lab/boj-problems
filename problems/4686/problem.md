@@ -1,13 +1,13 @@
 ---
-title: Equation Elation
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Equation Elation"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 34
 accepted: 18
 solved_users: 15
-acceptance_rate: 60.000%
-collected_at: 2026-04-17T11:07:08.219872+00:00
+acceptance_rate: "60.000%"
+collected_at: "2026-04-17T11:07:08.219872+00:00"
 ---
 
 ## 문제

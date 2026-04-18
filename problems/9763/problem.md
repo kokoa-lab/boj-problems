@@ -1,13 +1,13 @@
 ---
-title: 마을의 친밀도
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "마을의 친밀도"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 1291
 accepted: 335
 solved_users: 295
-acceptance_rate: 28.809%
-collected_at: 2026-04-17T12:14:08.843156+00:00
+acceptance_rate: "28.809%"
+collected_at: "2026-04-17T12:14:08.843156+00:00"
 ---
 
 ## 문제

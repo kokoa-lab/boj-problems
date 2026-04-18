@@ -1,13 +1,13 @@
 ---
-title: Olympic Games
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Olympic Games"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 1214
 accepted: 449
 solved_users: 406
-acceptance_rate: 37.454%
-collected_at: 2026-04-17T13:19:08.171002+00:00
+acceptance_rate: "37.454%"
+collected_at: "2026-04-17T13:19:08.171002+00:00"
 ---
 
 ## 문제

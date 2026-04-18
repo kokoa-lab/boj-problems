@@ -1,13 +1,13 @@
 ---
-title: Go Go Go Special Action Force!
-special_judge: false
-time_limit: 3 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "Go Go Go Special Action Force!"
+special_judge: "false"
+time_limit: "3 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 107
 accepted: 88
 solved_users: 55
-acceptance_rate: 82.090%
-collected_at: 2026-04-17T13:58:31.114444+00:00
+acceptance_rate: "82.090%"
+collected_at: "2026-04-17T13:58:31.114444+00:00"
 ---
 
 ## 문제

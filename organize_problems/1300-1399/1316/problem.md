@@ -1,13 +1,13 @@
 ---
-title: 그룹 단어 체커
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "그룹 단어 체커"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 207553
 accepted: 113237
 solved_users: 92143
-acceptance_rate: 54.673%
-collected_at: 2026-04-17T10:29:25.983926+00:00
+acceptance_rate: "54.673%"
+collected_at: "2026-04-17T10:29:25.983926+00:00"
 ---
 
 ## 문제

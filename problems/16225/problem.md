@@ -1,13 +1,13 @@
 ---
-title: 제271회 웰노운컵
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "제271회 웰노운컵"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 1813
 accepted: 677
 solved_users: 500
-acceptance_rate: 38.256%
-collected_at: 2026-04-17T14:13:59.108109+00:00
+acceptance_rate: "38.256%"
+collected_at: "2026-04-17T14:13:59.108109+00:00"
 ---
 
 ## 문제

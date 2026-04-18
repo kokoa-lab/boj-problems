@@ -1,13 +1,13 @@
 ---
-title: Dizzy Cows
-special_judge: true
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Dizzy Cows"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 135
 accepted: 46
 solved_users: 42
-acceptance_rate: 36.207%
-collected_at: 2026-04-17T11:19:19.450725+00:00
+acceptance_rate: "36.207%"
+collected_at: "2026-04-17T11:19:19.450725+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 음식 조합 세기
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "음식 조합 세기"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 847
 accepted: 148
 solved_users: 117
-acceptance_rate: 26.292%
-collected_at: 2026-04-17T12:34:17.553109+00:00
+acceptance_rate: "26.292%"
+collected_at: "2026-04-17T12:34:17.553109+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 임진왜란
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "임진왜란"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 2009
 accepted: 1031
 solved_users: 861
-acceptance_rate: 56.055%
-collected_at: 2026-04-17T10:46:32.516289+00:00
+acceptance_rate: "56.055%"
+collected_at: "2026-04-17T10:46:32.516289+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 생일수 II
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "생일수 II"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 22
 accepted: 9
 solved_users: 9
-acceptance_rate: 81.818%
-collected_at: 2026-04-17T12:47:24.849825+00:00
+acceptance_rate: "81.818%"
+collected_at: "2026-04-17T12:47:24.849825+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 전화 요금
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "전화 요금"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 2329
 accepted: 1182
 solved_users: 1054
-acceptance_rate: 54.386%
-collected_at: 2026-04-17T10:47:29.988683+00:00
+acceptance_rate: "54.386%"
+collected_at: "2026-04-17T10:47:29.988683+00:00"
 ---
 
 ## 문제

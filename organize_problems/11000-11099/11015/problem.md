@@ -1,13 +1,13 @@
 ---
-title: Spring 2005: Arriving at USC
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Spring 2005: Arriving at USC"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 133
 accepted: 71
 solved_users: 63
-acceptance_rate: 58.333%
-collected_at: 2026-04-17T12:35:05.590823+00:00
+acceptance_rate: "58.333%"
+collected_at: "2026-04-17T12:35:05.590823+00:00"
 ---
 
 ## 문제

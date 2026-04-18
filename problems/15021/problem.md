@@ -1,13 +1,13 @@
 ---
-title: Fractal Tree
-special_judge: false
-time_limit: 7 초
-memory_limit: 512 MB
+title: "Fractal Tree"
+special_judge: "false"
+time_limit: "7 초"
+memory_limit: "512 MB"
 submissions: 18
 accepted: 6
 solved_users: 6
-acceptance_rate: 66.667%
-collected_at: 2026-04-17T13:48:23.429189+00:00
+acceptance_rate: "66.667%"
+collected_at: "2026-04-17T13:48:23.429189+00:00"
 ---
 
 ## 문제

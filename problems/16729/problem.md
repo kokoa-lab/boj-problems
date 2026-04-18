@@ -1,13 +1,13 @@
 ---
-title: Cinema
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Cinema"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 73
 accepted: 24
 solved_users: 17
-acceptance_rate: 27.869%
-collected_at: 2026-04-17T14:23:06.913628+00:00
+acceptance_rate: "27.869%"
+collected_at: "2026-04-17T14:23:06.913628+00:00"
 ---
 
 ## 문제

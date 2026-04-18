@@ -1,13 +1,13 @@
 ---
-title: Adding Numbers
-special_judge: false
-time_limit: 0.5 초
-memory_limit: 512 MB
+title: "Adding Numbers"
+special_judge: "false"
+time_limit: "0.5 초"
+memory_limit: "512 MB"
 submissions: 57
 accepted: 19
 solved_users: 15
-acceptance_rate: 32.609%
-collected_at: 2026-04-17T15:46:21.025531+00:00
+acceptance_rate: "32.609%"
+collected_at: "2026-04-17T15:46:21.025531+00:00"
 ---
 
 ## 문제

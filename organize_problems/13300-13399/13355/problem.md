@@ -1,13 +1,13 @@
 ---
-title: Bless You Autocorrect!
-special_judge: false
-time_limit: 3 초
-memory_limit: 512 MB
+title: "Bless You Autocorrect!"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "512 MB"
 submissions: 93
 accepted: 43
 solved_users: 36
-acceptance_rate: 46.753%
-collected_at: 2026-04-17T13:12:00.926423+00:00
+acceptance_rate: "46.753%"
+collected_at: "2026-04-17T13:12:00.926423+00:00"
 ---
 
 ## 문제

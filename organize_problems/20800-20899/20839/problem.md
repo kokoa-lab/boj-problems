@@ -1,13 +1,13 @@
 ---
-title: Betygsättning
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Betygsättning"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 2325
 accepted: 1241
 solved_users: 1142
-acceptance_rate: 53.018%
-collected_at: 2026-04-17T15:42:04.509803+00:00
+acceptance_rate: "53.018%"
+collected_at: "2026-04-17T15:42:04.509803+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Ugly Numbers (Small)
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Ugly Numbers (Small)"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 203
 accepted: 86
 solved_users: 72
-acceptance_rate: 47.368%
-collected_at: 2026-04-17T13:00:07.858404+00:00
+acceptance_rate: "47.368%"
+collected_at: "2026-04-17T13:00:07.858404+00:00"
 ---
 
 ## 문제

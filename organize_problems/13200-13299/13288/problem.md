@@ -1,13 +1,13 @@
 ---
-title: A New Alphabet
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "A New Alphabet"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 514
 accepted: 298
 solved_users: 237
-acceptance_rate: 56.429%
-collected_at: 2026-04-17T13:10:56.992131+00:00
+acceptance_rate: "56.429%"
+collected_at: "2026-04-17T13:10:56.992131+00:00"
 ---
 
 ## 문제

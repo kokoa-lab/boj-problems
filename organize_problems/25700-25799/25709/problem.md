@@ -1,13 +1,13 @@
 ---
-title: 1 빼기
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "1 빼기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 1036
 accepted: 532
 solved_users: 457
-acceptance_rate: 54.405%
-collected_at: 2026-04-17T17:31:42.969674+00:00
+acceptance_rate: "54.405%"
+collected_at: "2026-04-17T17:31:42.969674+00:00"
 ---
 
 ## 문제

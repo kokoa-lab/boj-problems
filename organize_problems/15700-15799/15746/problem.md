@@ -1,13 +1,13 @@
 ---
-title: Directory Traversal
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Directory Traversal"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 260
 accepted: 124
 solved_users: 107
-acceptance_rate: 50.952%
-collected_at: 2026-04-17T14:05:43.377039+00:00
+acceptance_rate: "50.952%"
+collected_at: "2026-04-17T14:05:43.377039+00:00"
 ---
 
 ## 문제

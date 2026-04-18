@@ -1,13 +1,13 @@
 ---
-title: Cube Surface Puzzle
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Cube Surface Puzzle"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 39
 accepted: 19
 solved_users: 10
-acceptance_rate: 45.455%
-collected_at: 2026-04-17T14:42:07.952188+00:00
+acceptance_rate: "45.455%"
+collected_at: "2026-04-17T14:42:07.952188+00:00"
 ---
 
 ## 문제

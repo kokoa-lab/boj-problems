@@ -1,13 +1,13 @@
 ---
-title: 웰컴 키트
-special_judge: false
-time_limit: 0.1 초
-memory_limit: 1024 MB
+title: "웰컴 키트"
+special_judge: "false"
+time_limit: "0.1 초"
+memory_limit: "1024 MB"
 submissions: 40451
 accepted: 21745
 solved_users: 20048
-acceptance_rate: 53.574%
-collected_at: 2026-04-17T19:15:56.848325+00:00
+acceptance_rate: "53.574%"
+collected_at: "2026-04-17T19:15:56.848325+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Polygon Guards
-special_judge: false
-time_limit: 5 초
-memory_limit: 128 MB
+title: "Polygon Guards"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "128 MB"
 submissions: 43
 accepted: 5
 solved_users: 3
-acceptance_rate: 13.043%
-collected_at: 2026-04-17T12:26:34.130908+00:00
+acceptance_rate: "13.043%"
+collected_at: "2026-04-17T12:26:34.130908+00:00"
 ---
 
 ## 문제

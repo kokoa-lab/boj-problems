@@ -1,13 +1,13 @@
 ---
-title: 곡선 자르기
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "곡선 자르기"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 5607
 accepted: 1136
 solved_users: 751
-acceptance_rate: 23.781%
-collected_at: 2026-04-17T13:43:22.026481+00:00
+acceptance_rate: "23.781%"
+collected_at: "2026-04-17T13:43:22.026481+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Iyasugigappa
-special_judge: false
-time_limit: 3 초
-memory_limit: 128 MB
+title: "Iyasugigappa"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "128 MB"
 submissions: 9
 accepted: 6
 solved_users: 6
-acceptance_rate: 85.714%
-collected_at: 2026-04-17T12:26:36.806416+00:00
+acceptance_rate: "85.714%"
+collected_at: "2026-04-17T12:26:36.806416+00:00"
 ---
 
 ## 문제

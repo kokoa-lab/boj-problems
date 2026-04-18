@@ -1,13 +1,13 @@
 ---
-title: 성벽
-special_judge: false
-time_limit: 10 초
-memory_limit: 512 MB
+title: "성벽"
+special_judge: "false"
+time_limit: "10 초"
+memory_limit: "512 MB"
 submissions: 383
 accepted: 165
 solved_users: 112
-acceptance_rate: 40.143%
-collected_at: 2026-04-17T12:27:54.928908+00:00
+acceptance_rate: "40.143%"
+collected_at: "2026-04-17T12:27:54.928908+00:00"
 ---
 
 ## 문제

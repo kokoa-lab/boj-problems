@@ -1,13 +1,13 @@
 ---
-title: Firetrucks Are Red
-special_judge: true
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Firetrucks Are Red"
+special_judge: "true"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 166
 accepted: 95
 solved_users: 88
-acceptance_rate: 62.411%
-collected_at: 2026-04-17T14:55:23.352044+00:00
+acceptance_rate: "62.411%"
+collected_at: "2026-04-17T14:55:23.352044+00:00"
 ---
 
 ## 문제

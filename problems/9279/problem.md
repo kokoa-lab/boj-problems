@@ -1,13 +1,13 @@
 ---
-title: 얼어붙은 스프링쿨러
-special_judge: false
-time_limit: 3 초
-memory_limit: 128 MB
+title: "얼어붙은 스프링쿨러"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "128 MB"
 submissions: 462
 accepted: 142
 solved_users: 120
-acceptance_rate: 38.710%
-collected_at: 2026-04-17T12:08:32.668627+00:00
+acceptance_rate: "38.710%"
+collected_at: "2026-04-17T12:08:32.668627+00:00"
 ---
 
 ## 문제

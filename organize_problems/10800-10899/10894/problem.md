@@ -1,13 +1,13 @@
 ---
-title: Following Flow
-special_judge: true
-time_limit: 1 초
-memory_limit: 8 MB
+title: "Following Flow"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "8 MB"
 submissions: 84
 accepted: 27
 solved_users: 23
-acceptance_rate: 43.396%
-collected_at: 2026-04-17T12:31:11.938096+00:00
+acceptance_rate: "43.396%"
+collected_at: "2026-04-17T12:31:11.938096+00:00"
 ---
 
 ## 문제

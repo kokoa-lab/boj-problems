@@ -1,13 +1,13 @@
 ---
-title: Reverse Game
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Reverse Game"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 332
 accepted: 178
 solved_users: 157
-acceptance_rate: 57.091%
-collected_at: 2026-04-17T16:09:45.238585+00:00
+acceptance_rate: "57.091%"
+collected_at: "2026-04-17T16:09:45.238585+00:00"
 ---
 
 ## 문제

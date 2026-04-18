@@ -1,13 +1,13 @@
 ---
-title: Livestock Count
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Livestock Count"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 4572
 accepted: 2681
 solved_users: 2617
-acceptance_rate: 64.474%
-collected_at: 2026-04-17T10:41:08.172231+00:00
+acceptance_rate: "64.474%"
+collected_at: "2026-04-17T10:41:08.172231+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Chambers Ceramic Conundrum
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Chambers Ceramic Conundrum"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 40
 accepted: 11
 solved_users: 9
-acceptance_rate: 52.941%
-collected_at: 2026-04-17T11:08:27.061215+00:00
+acceptance_rate: "52.941%"
+collected_at: "2026-04-17T11:08:27.061215+00:00"
 ---
 
 ## 문제

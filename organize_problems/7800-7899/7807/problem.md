@@ -1,13 +1,13 @@
 ---
-title: Playing With Domino
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Playing With Domino"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 41
 accepted: 6
 solved_users: 5
-acceptance_rate: 45.455%
-collected_at: 2026-04-17T11:53:11.779445+00:00
+acceptance_rate: "45.455%"
+collected_at: "2026-04-17T11:53:11.779445+00:00"
 ---
 
 ## 문제

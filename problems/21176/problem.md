@@ -1,13 +1,13 @@
 ---
-title: Smoothie Stand
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Smoothie Stand"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 141
 accepted: 97
 solved_users: 87
-acceptance_rate: 67.969%
-collected_at: 2026-04-17T15:49:52.675850+00:00
+acceptance_rate: "67.969%"
+collected_at: "2026-04-17T15:49:52.675850+00:00"
 ---
 
 ## 문제

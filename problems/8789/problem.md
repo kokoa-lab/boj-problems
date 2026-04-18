@@ -1,13 +1,13 @@
 ---
-title: Poezja z gwiazdką
-special_judge: false
-time_limit: 5 초
-memory_limit: 128 MB
+title: "Poezja z gwiazdką"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "128 MB"
 submissions: 57
 accepted: 7
 solved_users: 5
-acceptance_rate: 13.158%
-collected_at: 2026-04-17T12:03:26.073725+00:00
+acceptance_rate: "13.158%"
+collected_at: "2026-04-17T12:03:26.073725+00:00"
 ---
 
 ## 문제

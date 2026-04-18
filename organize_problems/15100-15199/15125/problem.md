@@ -1,13 +1,13 @@
 ---
-title: Jumping Haybales
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Jumping Haybales"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 142
 accepted: 11
 solved_users: 9
-acceptance_rate: 39.130%
-collected_at: 2026-04-17T13:51:49.537387+00:00
+acceptance_rate: "39.130%"
+collected_at: "2026-04-17T13:51:49.537387+00:00"
 ---
 
 ## 문제

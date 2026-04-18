@@ -1,13 +1,13 @@
 ---
-title: 修学旅行 (School Trip)
-special_judge: false
-time_limit: 4 초
-memory_limit: 2048 MB
+title: "修学旅行 (School Trip)"
+special_judge: "false"
+time_limit: "4 초"
+memory_limit: "2048 MB"
 submissions: 18
 accepted: 14
 solved_users: 14
-acceptance_rate: 82.353%
-collected_at: 2026-04-18T09:51:41.530283+00:00
+acceptance_rate: "82.353%"
+collected_at: "2026-04-18T09:51:41.530283+00:00"
 ---
 
 ## 문제

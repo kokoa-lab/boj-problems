@@ -1,13 +1,13 @@
 ---
-title: 아령
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "아령"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 1040
 accepted: 478
 solved_users: 405
-acceptance_rate: 50.562%
-collected_at: 2026-04-17T10:40:36.326825+00:00
+acceptance_rate: "50.562%"
+collected_at: "2026-04-17T10:40:36.326825+00:00"
 ---
 
 ## 문제

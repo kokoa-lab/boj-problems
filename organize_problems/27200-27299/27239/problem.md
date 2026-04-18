@@ -1,13 +1,13 @@
 ---
-title: Шахматная доска
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Шахматная доска"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 1300
 accepted: 877
 solved_users: 810
-acceptance_rate: 67.276%
-collected_at: 2026-04-17T17:58:51.281178+00:00
+acceptance_rate: "67.276%"
+collected_at: "2026-04-17T17:58:51.281178+00:00"
 ---
 
 ## 문제

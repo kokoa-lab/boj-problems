@@ -1,13 +1,13 @@
 ---
-title: XOR 놀이
-special_judge: false
-time_limit: 3 초
-memory_limit: 512 MB
+title: "XOR 놀이"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "512 MB"
 submissions: 437
 accepted: 76
 solved_users: 46
-acceptance_rate: 15.646%
-collected_at: 2026-04-17T17:26:34.690627+00:00
+acceptance_rate: "15.646%"
+collected_at: "2026-04-17T17:26:34.690627+00:00"
 ---
 
 ## 문제

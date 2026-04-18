@@ -1,13 +1,13 @@
 ---
-title: A Walk Through the Forest
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "A Walk Through the Forest"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 112
 accepted: 32
 solved_users: 29
-acceptance_rate: 38.158%
-collected_at: 2026-04-17T10:58:47.930356+00:00
+acceptance_rate: "38.158%"
+collected_at: "2026-04-17T10:58:47.930356+00:00"
 ---
 
 ## 문제

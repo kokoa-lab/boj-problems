@@ -1,13 +1,13 @@
 ---
-title: 🍕😋🤮
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "🍕😋🤮"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 373
 accepted: 121
 solved_users: 90
-acceptance_rate: 28.846%
-collected_at: 2026-04-17T20:27:05.068718+00:00
+acceptance_rate: "28.846%"
+collected_at: "2026-04-17T20:27:05.068718+00:00"
 ---
 
 ## 문제

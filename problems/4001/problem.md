@@ -1,13 +1,13 @@
 ---
-title: 미노타우르스 미궁
-special_judge: true
-time_limit: 2 초
-memory_limit: 128 MB
+title: "미노타우르스 미궁"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 1080
 accepted: 252
 solved_users: 207
-acceptance_rate: 23.000%
-collected_at: 2026-04-17T10:54:28.144566+00:00
+acceptance_rate: "23.000%"
+collected_at: "2026-04-17T10:54:28.144566+00:00"
 ---
 
 ## 문제

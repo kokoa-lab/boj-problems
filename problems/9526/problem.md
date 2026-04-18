@@ -1,13 +1,13 @@
 ---
-title: 꿍글리쉬
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "꿍글리쉬"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 95
 accepted: 13
 solved_users: 12
-acceptance_rate: 19.355%
-collected_at: 2026-04-17T12:10:53.737857+00:00
+acceptance_rate: "19.355%"
+collected_at: "2026-04-17T12:10:53.737857+00:00"
 ---
 
 ## 문제

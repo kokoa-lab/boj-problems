@@ -1,13 +1,13 @@
 ---
-title: Build The Grid
-special_judge: true
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Build The Grid"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 118
 accepted: 77
 solved_users: 73
-acceptance_rate: 68.868%
-collected_at: 2026-04-17T17:12:43.471346+00:00
+acceptance_rate: "68.868%"
+collected_at: "2026-04-17T17:12:43.471346+00:00"
 ---
 
 ## 문제

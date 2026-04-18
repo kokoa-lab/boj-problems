@@ -1,13 +1,13 @@
 ---
-title: 궁금한 민호
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "궁금한 민호"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 7133
 accepted: 4106
 solved_users: 3257
-acceptance_rate: 56.526%
-collected_at: 2026-04-17T10:30:44.724293+00:00
+acceptance_rate: "56.526%"
+collected_at: "2026-04-17T10:30:44.724293+00:00"
 ---
 
 ## 문제

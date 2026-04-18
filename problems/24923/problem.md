@@ -1,13 +1,13 @@
 ---
-title: Canadians, eh?
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Canadians, eh?"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 506
 accepted: 384
 solved_users: 351
-acceptance_rate: 76.471%
-collected_at: 2026-04-17T17:17:12.957297+00:00
+acceptance_rate: "76.471%"
+collected_at: "2026-04-17T17:17:12.957297+00:00"
 ---
 
 ## 문제

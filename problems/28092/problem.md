@@ -1,13 +1,13 @@
 ---
-title: 우선순위와 쿼리
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "우선순위와 쿼리"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 397
 accepted: 121
 solved_users: 97
-acceptance_rate: 32.660%
-collected_at: 2026-04-17T18:18:04.327845+00:00
+acceptance_rate: "32.660%"
+collected_at: "2026-04-17T18:18:04.327845+00:00"
 ---
 
 ## 문제

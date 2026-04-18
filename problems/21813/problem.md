@@ -1,13 +1,13 @@
 ---
-title: Balanced Subsets
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Balanced Subsets"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 35
 accepted: 23
 solved_users: 22
-acceptance_rate: 66.667%
-collected_at: 2026-04-17T16:08:13.593780+00:00
+acceptance_rate: "66.667%"
+collected_at: "2026-04-17T16:08:13.593780+00:00"
 ---
 
 ## 문제

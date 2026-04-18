@@ -1,13 +1,13 @@
 ---
-title: Sorting Replay at Jane Street
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Sorting Replay at Jane Street"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 153
 accepted: 92
 solved_users: 80
-acceptance_rate: 66.116%
-collected_at: 2026-04-17T20:27:37.995543+00:00
+acceptance_rate: "66.116%"
+collected_at: "2026-04-17T20:27:37.995543+00:00"
 ---
 
 ## 문제

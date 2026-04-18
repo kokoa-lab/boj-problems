@@ -1,13 +1,13 @@
 ---
-title: Two Rings
-special_judge: false
-time_limit: 2 초
-memory_limit: 2048 MB
+title: "Two Rings"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "2048 MB"
 submissions: 83
 accepted: 24
 solved_users: 15
-acceptance_rate: 23.438%
-collected_at: 2026-04-17T20:02:05.821092+00:00
+acceptance_rate: "23.438%"
+collected_at: "2026-04-17T20:02:05.821092+00:00"
 ---
 
 ## 문제

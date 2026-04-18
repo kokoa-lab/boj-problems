@@ -1,13 +1,13 @@
 ---
-title: 222-풀링
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "222-풀링"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 5032
 accepted: 3733
 solved_users: 2976
-acceptance_rate: 76.602%
-collected_at: 2026-04-17T14:47:59.928714+00:00
+acceptance_rate: "76.602%"
+collected_at: "2026-04-17T14:47:59.928714+00:00"
 ---
 
 ## 문제

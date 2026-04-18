@@ -1,13 +1,13 @@
 ---
-title: 잃어버린 섬
-special_judge: false
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "잃어버린 섬"
+special_judge: "false"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 583
 accepted: 379
 solved_users: 338
-acceptance_rate: 67.735%
-collected_at: 2026-04-17T20:31:50.622012+00:00
+acceptance_rate: "67.735%"
+collected_at: "2026-04-17T20:31:50.622012+00:00"
 ---
 
 ## 문제

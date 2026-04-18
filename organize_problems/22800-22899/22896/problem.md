@@ -1,13 +1,13 @@
 ---
-title: Closest Pick
-special_judge: true
-time_limit: 10 초 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "Closest Pick"
+special_judge: "true"
+time_limit: "10 초 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 72
 accepted: 44
 solved_users: 43
-acceptance_rate: 60.563%
-collected_at: 2026-04-17T16:38:17.380996+00:00
+acceptance_rate: "60.563%"
+collected_at: "2026-04-17T16:38:17.380996+00:00"
 ---
 
 ## 문제

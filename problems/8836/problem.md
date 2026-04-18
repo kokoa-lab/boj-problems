@@ -1,13 +1,13 @@
 ---
-title: Złodziejki
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Złodziejki"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 139
 accepted: 101
 solved_users: 85
-acceptance_rate: 72.650%
-collected_at: 2026-04-17T12:03:53.337033+00:00
+acceptance_rate: "72.650%"
+collected_at: "2026-04-17T12:03:53.337033+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: StackExplosion
-special_judge: false
-time_limit: 2.9 초
-memory_limit: 329 MB
+title: "StackExplosion"
+special_judge: "false"
+time_limit: "2.9 초"
+memory_limit: "329 MB"
 submissions: 95
 accepted: 49
 solved_users: 37
-acceptance_rate: 50.000%
-collected_at: 2026-04-17T21:10:02.220176+00:00
+acceptance_rate: "50.000%"
+collected_at: "2026-04-17T21:10:02.220176+00:00"
 ---
 
 ## 문제

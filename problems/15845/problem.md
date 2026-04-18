@@ -1,13 +1,13 @@
 ---
-title: Winning ICPC
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Winning ICPC"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 213
 accepted: 161
 solved_users: 140
-acceptance_rate: 74.866%
-collected_at: 2026-04-17T14:07:32.984932+00:00
+acceptance_rate: "74.866%"
+collected_at: "2026-04-17T14:07:32.984932+00:00"
 ---
 
 ## 문제

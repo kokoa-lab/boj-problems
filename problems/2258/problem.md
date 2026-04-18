@@ -1,13 +1,13 @@
 ---
-title: 정육점
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "정육점"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 8433
 accepted: 1686
 solved_users: 1240
-acceptance_rate: 19.112%
-collected_at: 2026-04-17T10:40:05.730164+00:00
+acceptance_rate: "19.112%"
+collected_at: "2026-04-17T10:40:05.730164+00:00"
 ---
 
 ## 문제

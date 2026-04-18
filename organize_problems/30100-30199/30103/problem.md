@@ -1,13 +1,13 @@
 ---
-title: 어려운 선형대수학 문제
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "어려운 선형대수학 문제"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 176
 accepted: 27
 solved_users: 23
-acceptance_rate: 17.969%
-collected_at: 2026-04-17T18:58:57.139019+00:00
+acceptance_rate: "17.969%"
+collected_at: "2026-04-17T18:58:57.139019+00:00"
 ---
 
 ## 문제

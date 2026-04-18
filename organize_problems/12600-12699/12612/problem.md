@@ -1,13 +1,13 @@
 ---
-title: Min Perimeter (Large)
-special_judge: true
-time_limit: 90 초
-memory_limit: 512 MB
+title: "Min Perimeter (Large)"
+special_judge: "true"
+time_limit: "90 초"
+memory_limit: "512 MB"
 submissions: 3
 accepted: 3
 solved_users: 3
-acceptance_rate: 100.000%
-collected_at: 2026-04-17T12:58:27.734039+00:00
+acceptance_rate: "100.000%"
+collected_at: "2026-04-17T12:58:27.734039+00:00"
 ---
 
 ## 문제

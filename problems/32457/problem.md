@@ -1,13 +1,13 @@
 ---
-title: In Search of the Lost Array
-special_judge: true
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "In Search of the Lost Array"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 85
 accepted: 63
 solved_users: 49
-acceptance_rate: 76.562%
-collected_at: 2026-04-17T19:51:34.868512+00:00
+acceptance_rate: "76.562%"
+collected_at: "2026-04-17T19:51:34.868512+00:00"
 ---
 
 ## 문제

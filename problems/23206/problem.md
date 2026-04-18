@@ -1,13 +1,13 @@
 ---
-title: Which Planet is This?!
-special_judge: false
-time_limit: 6 초 (추가 시간 없음)
-memory_limit: 2048 MB
+title: "Which Planet is This?!"
+special_judge: "false"
+time_limit: "6 초 (추가 시간 없음)"
+memory_limit: "2048 MB"
 submissions: 150
 accepted: 41
 solved_users: 27
-acceptance_rate: 23.894%
-collected_at: 2026-04-17T16:44:12.345838+00:00
+acceptance_rate: "23.894%"
+collected_at: "2026-04-17T16:44:12.345838+00:00"
 ---
 
 ## 문제

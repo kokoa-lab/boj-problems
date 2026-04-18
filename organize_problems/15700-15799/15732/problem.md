@@ -1,13 +1,13 @@
 ---
-title: 도토리 숨기기
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "도토리 숨기기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 5389
 accepted: 1581
 solved_users: 1197
-acceptance_rate: 27.625%
-collected_at: 2026-04-17T14:05:22.211322+00:00
+acceptance_rate: "27.625%"
+collected_at: "2026-04-17T14:05:22.211322+00:00"
 ---
 
 ## 문제

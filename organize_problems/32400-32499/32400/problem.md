@@ -1,13 +1,13 @@
 ---
-title: 다트판
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "다트판"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 741
 accepted: 450
 solved_users: 396
-acceptance_rate: 61.395%
-collected_at: 2026-04-17T19:50:15.813248+00:00
+acceptance_rate: "61.395%"
+collected_at: "2026-04-17T19:50:15.813248+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Vacation Rentals
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Vacation Rentals"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 66
 accepted: 6
 solved_users: 6
-acceptance_rate: 18.750%
-collected_at: 2026-04-17T11:09:16.562677+00:00
+acceptance_rate: "18.750%"
+collected_at: "2026-04-17T11:09:16.562677+00:00"
 ---
 
 ## 문제

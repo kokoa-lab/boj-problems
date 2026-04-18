@@ -1,13 +1,13 @@
 ---
-title: 소코반
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "소코반"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 2777
 accepted: 823
 solved_users: 609
-acceptance_rate: 29.307%
-collected_at: 2026-04-17T11:04:44.080357+00:00
+acceptance_rate: "29.307%"
+collected_at: "2026-04-17T11:04:44.080357+00:00"
 ---
 
 ## 문제

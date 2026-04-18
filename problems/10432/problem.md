@@ -1,13 +1,13 @@
 ---
-title: 데이터 스트림의 섬
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "데이터 스트림의 섬"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 463
 accepted: 315
 solved_users: 278
-acceptance_rate: 71.100%
-collected_at: 2026-04-17T12:23:34.502263+00:00
+acceptance_rate: "71.100%"
+collected_at: "2026-04-17T12:23:34.502263+00:00"
 ---
 
 ## 문제

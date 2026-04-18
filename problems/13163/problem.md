@@ -1,13 +1,13 @@
 ---
-title: 닉네임에 갓 붙이기
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "닉네임에 갓 붙이기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 4705
 accepted: 3104
 solved_users: 2741
-acceptance_rate: 68.542%
-collected_at: 2026-04-17T13:08:29.347798+00:00
+acceptance_rate: "68.542%"
+collected_at: "2026-04-17T13:08:29.347798+00:00"
 ---
 
 ## 문제

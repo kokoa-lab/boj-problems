@@ -1,13 +1,13 @@
 ---
-title: Balance
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "Balance"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 60
 accepted: 37
 solved_users: 28
-acceptance_rate: 62.222%
-collected_at: 2026-04-17T11:54:44.713705+00:00
+acceptance_rate: "62.222%"
+collected_at: "2026-04-17T11:54:44.713705+00:00"
 ---
 
 ## 문제

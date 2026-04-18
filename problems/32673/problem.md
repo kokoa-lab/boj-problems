@@ -1,13 +1,13 @@
 ---
-title: Lego Lover's Triangle
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Lego Lover's Triangle"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 15
 accepted: 5
 solved_users: 5
-acceptance_rate: 33.333%
-collected_at: 2026-04-17T19:58:55.545278+00:00
+acceptance_rate: "33.333%"
+collected_at: "2026-04-17T19:58:55.545278+00:00"
 ---
 
 ## 문제

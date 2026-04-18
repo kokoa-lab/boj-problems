@@ -1,13 +1,13 @@
 ---
-title: 피보나치 수의 최대공약수의 합처럼 보이지만...
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "피보나치 수의 최대공약수의 합처럼 보이지만..."
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 276
 accepted: 113
 solved_users: 35
-acceptance_rate: 35.354%
-collected_at: 2026-04-17T14:38:44.577390+00:00
+acceptance_rate: "35.354%"
+collected_at: "2026-04-17T14:38:44.577390+00:00"
 ---
 
 ## 문제

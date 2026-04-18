@@ -1,13 +1,13 @@
 ---
-title: Kingdom Trip
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "Kingdom Trip"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 100
 accepted: 24
 solved_users: 19
-acceptance_rate: 29.231%
-collected_at: 2026-04-17T12:41:14.209762+00:00
+acceptance_rate: "29.231%"
+collected_at: "2026-04-17T12:41:14.209762+00:00"
 ---
 
 ## 문제

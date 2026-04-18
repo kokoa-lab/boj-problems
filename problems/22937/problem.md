@@ -1,13 +1,13 @@
 ---
-title: 교수님 계산기가 고장났어요!
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "교수님 계산기가 고장났어요!"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 662
 accepted: 176
 solved_users: 141
-acceptance_rate: 34.307%
-collected_at: 2026-04-17T16:39:00.317857+00:00
+acceptance_rate: "34.307%"
+collected_at: "2026-04-17T16:39:00.317857+00:00"
 ---
 
 ## 문제

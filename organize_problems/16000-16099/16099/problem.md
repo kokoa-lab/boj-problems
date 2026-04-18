@@ -1,13 +1,13 @@
 ---
-title: Larger Sport Facility
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Larger Sport Facility"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 4571
 accepted: 2447
 solved_users: 2296
-acceptance_rate: 53.884%
-collected_at: 2026-04-17T14:11:23.453329+00:00
+acceptance_rate: "53.884%"
+collected_at: "2026-04-17T14:11:23.453329+00:00"
 ---
 
 ## 문제

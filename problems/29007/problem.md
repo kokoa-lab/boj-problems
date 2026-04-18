@@ -1,13 +1,13 @@
 ---
-title: SAVE the World (Small)
-special_judge: false
-time_limit: 5 초 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "SAVE the World (Small)"
+special_judge: "false"
+time_limit: "5 초 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 743
 accepted: 177
 solved_users: 119
-acceptance_rate: 34.593%
-collected_at: 2026-04-17T18:36:01.310425+00:00
+acceptance_rate: "34.593%"
+collected_at: "2026-04-17T18:36:01.310425+00:00"
 ---
 
 ## 문제

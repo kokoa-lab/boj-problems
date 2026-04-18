@@ -1,13 +1,13 @@
 ---
-title: Osmosmjerka
-special_judge: false
-time_limit: 4 초
-memory_limit: 256 MB
+title: "Osmosmjerka"
+special_judge: "false"
+time_limit: "4 초"
+memory_limit: "256 MB"
 submissions: 37
 accepted: 12
 solved_users: 7
-acceptance_rate: 28.000%
-collected_at: 2026-04-17T13:27:53.743291+00:00
+acceptance_rate: "28.000%"
+collected_at: "2026-04-17T13:27:53.743291+00:00"
 ---
 
 ## 문제

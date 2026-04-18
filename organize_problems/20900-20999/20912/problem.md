@@ -1,13 +1,13 @@
 ---
-title: Lexicographical Lecturing
-special_judge: true
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "Lexicographical Lecturing"
+special_judge: "true"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 109
 accepted: 36
 solved_users: 31
-acceptance_rate: 33.696%
-collected_at: 2026-04-17T15:43:11.651430+00:00
+acceptance_rate: "33.696%"
+collected_at: "2026-04-17T15:43:11.651430+00:00"
 ---
 
 ## 문제

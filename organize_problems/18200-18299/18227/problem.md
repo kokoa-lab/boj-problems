@@ -1,13 +1,13 @@
 ---
-title: 성대나라의 물탱크
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "성대나라의 물탱크"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 2678
 accepted: 1092
 solved_users: 874
-acceptance_rate: 40.426%
-collected_at: 2026-04-17T14:57:33.233437+00:00
+acceptance_rate: "40.426%"
+collected_at: "2026-04-17T14:57:33.233437+00:00"
 ---
 
 ## 문제

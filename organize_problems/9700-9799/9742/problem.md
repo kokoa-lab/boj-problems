@@ -1,13 +1,13 @@
 ---
-title: 순열
-special_judge: false
-time_limit: 5 초
-memory_limit: 128 MB
+title: "순열"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "128 MB"
 submissions: 5147
 accepted: 1849
 solved_users: 1397
-acceptance_rate: 36.210%
-collected_at: 2026-04-17T12:14:01.611160+00:00
+acceptance_rate: "36.210%"
+collected_at: "2026-04-17T12:14:01.611160+00:00"
 ---
 
 ## 문제

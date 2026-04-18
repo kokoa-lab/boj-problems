@@ -1,13 +1,13 @@
 ---
-title: Szachy
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Szachy"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 678
 accepted: 340
 solved_users: 304
-acceptance_rate: 49.673%
-collected_at: 2026-04-17T12:02:38.072390+00:00
+acceptance_rate: "49.673%"
+collected_at: "2026-04-17T12:02:38.072390+00:00"
 ---
 
 ## 문제

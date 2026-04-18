@@ -1,13 +1,13 @@
 ---
-title: 오타맨 고창영
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "오타맨 고창영"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 12884
 accepted: 8622
 solved_users: 7783
-acceptance_rate: 68.398%
-collected_at: 2026-04-17T10:44:13.020243+00:00
+acceptance_rate: "68.398%"
+collected_at: "2026-04-17T10:44:13.020243+00:00"
 ---
 
 ## 문제

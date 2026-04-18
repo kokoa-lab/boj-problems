@@ -1,13 +1,13 @@
 ---
-title: Game Addiction
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Game Addiction"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 1455
 accepted: 695
 solved_users: 588
-acceptance_rate: 48.000%
-collected_at: 2026-04-17T15:32:19.150029+00:00
+acceptance_rate: "48.000%"
+collected_at: "2026-04-17T15:32:19.150029+00:00"
 ---
 
 ## 문제

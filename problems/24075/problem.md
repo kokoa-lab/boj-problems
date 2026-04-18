@@ -1,13 +1,13 @@
 ---
-title: 計算 (Calculation)
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "計算 (Calculation)"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 2412
 accepted: 1713
 solved_users: 1643
-acceptance_rate: 71.497%
-collected_at: 2026-04-17T17:03:13.641695+00:00
+acceptance_rate: "71.497%"
+collected_at: "2026-04-17T17:03:13.641695+00:00"
 ---
 
 ## 문제

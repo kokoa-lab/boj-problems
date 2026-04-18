@@ -1,13 +1,13 @@
 ---
-title: 절연 구간 최소화
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "절연 구간 최소화"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 627
 accepted: 226
 solved_users: 178
-acceptance_rate: 35.248%
-collected_at: 2026-04-17T19:45:24.274951+00:00
+acceptance_rate: "35.248%"
+collected_at: "2026-04-17T19:45:24.274951+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 부정행위 멈춰!
-special_judge: true
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "부정행위 멈춰!"
+special_judge: "true"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 616
 accepted: 333
 solved_users: 286
-acceptance_rate: 56.634%
-collected_at: 2026-04-17T18:24:24.534121+00:00
+acceptance_rate: "56.634%"
+collected_at: "2026-04-17T18:24:24.534121+00:00"
 ---
 
 ## 문제

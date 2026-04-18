@@ -1,13 +1,13 @@
 ---
-title: Fake scoreboard
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "Fake scoreboard"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 60
 accepted: 16
 solved_users: 14
-acceptance_rate: 42.424%
-collected_at: 2026-04-17T10:52:30.786826+00:00
+acceptance_rate: "42.424%"
+collected_at: "2026-04-17T10:52:30.786826+00:00"
 ---
 
 ## 문제

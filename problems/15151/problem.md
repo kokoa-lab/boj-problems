@@ -1,13 +1,13 @@
 ---
-title: Incomplete Book
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Incomplete Book"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 746
 accepted: 553
 solved_users: 513
-acceptance_rate: 76.000%
-collected_at: 2026-04-17T13:52:33.554981+00:00
+acceptance_rate: "76.000%"
+collected_at: "2026-04-17T13:52:33.554981+00:00"
 ---
 
 ## 문제

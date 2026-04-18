@@ -1,13 +1,13 @@
 ---
-title: Fountain
-special_judge: false
-time_limit: 1.5 초
-memory_limit: 512 MB
+title: "Fountain"
+special_judge: "false"
+time_limit: "1.5 초"
+memory_limit: "512 MB"
 submissions: 188
 accepted: 32
 solved_users: 27
-acceptance_rate: 47.368%
-collected_at: 2026-04-17T15:35:19.561348+00:00
+acceptance_rate: "47.368%"
+collected_at: "2026-04-17T15:35:19.561348+00:00"
 ---
 
 ## 문제

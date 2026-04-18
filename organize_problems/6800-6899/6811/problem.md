@@ -1,13 +1,13 @@
 ---
-title: Old Fishin’ Hole
-special_judge: true
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Old Fishin’ Hole"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 261
 accepted: 195
 solved_users: 168
-acceptance_rate: 73.043%
-collected_at: 2026-04-17T11:38:33.795125+00:00
+acceptance_rate: "73.043%"
+collected_at: "2026-04-17T11:38:33.795125+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 원과 쿼리
-special_judge: false
-time_limit: 8 초
-memory_limit: 512 MB
+title: "원과 쿼리"
+special_judge: "false"
+time_limit: "8 초"
+memory_limit: "512 MB"
 submissions: 968
 accepted: 267
 solved_users: 75
-acceptance_rate: 15.337%
-collected_at: 2026-04-17T13:15:02.678944+00:00
+acceptance_rate: "15.337%"
+collected_at: "2026-04-17T13:15:02.678944+00:00"
 ---
 
 ## 문제

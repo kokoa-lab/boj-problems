@@ -1,13 +1,13 @@
 ---
-title: Secure the Top Secret
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Secure the Top Secret"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 61
 accepted: 10
 solved_users: 5
-acceptance_rate: 20.000%
-collected_at: 2026-04-17T18:02:39.959999+00:00
+acceptance_rate: "20.000%"
+collected_at: "2026-04-17T18:02:39.959999+00:00"
 ---
 
 ## 문제

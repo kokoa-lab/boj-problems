@@ -1,13 +1,13 @@
 ---
-title: 보물섬
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "보물섬"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 56612
 accepted: 22363
 solved_users: 15936
-acceptance_rate: 39.573%
-collected_at: 2026-04-17T10:43:04.138518+00:00
+acceptance_rate: "39.573%"
+collected_at: "2026-04-17T10:43:04.138518+00:00"
 ---
 
 ## 문제

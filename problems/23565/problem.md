@@ -1,13 +1,13 @@
 ---
-title: 1, 2, 3, 4
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "1, 2, 3, 4"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 457
 accepted: 113
 solved_users: 63
-acceptance_rate: 20.128%
-collected_at: 2026-04-17T16:50:18.822989+00:00
+acceptance_rate: "20.128%"
+collected_at: "2026-04-17T16:50:18.822989+00:00"
 ---
 
 ## 문제

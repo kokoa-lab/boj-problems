@@ -1,13 +1,13 @@
 ---
-title: ASCII Automata Art
-special_judge: false
-time_limit: 3 초
-memory_limit: 512 MB
+title: "ASCII Automata Art"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "512 MB"
 submissions: 80
 accepted: 34
 solved_users: 23
-acceptance_rate: 35.385%
-collected_at: 2026-04-17T16:11:09.815688+00:00
+acceptance_rate: "35.385%"
+collected_at: "2026-04-17T16:11:09.815688+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 스테가노그래피
-special_judge: false
-time_limit: 4 초 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "스테가노그래피"
+special_judge: "false"
+time_limit: "4 초 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 29
 accepted: 3
 solved_users: 3
-acceptance_rate: 100.000%
-collected_at: 2026-04-18T09:59:28.904133+00:00
+acceptance_rate: "100.000%"
+collected_at: "2026-04-18T09:59:28.904133+00:00"
 ---
 
 ## 문제

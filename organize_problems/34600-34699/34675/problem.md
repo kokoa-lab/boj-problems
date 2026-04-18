@@ -1,13 +1,13 @@
 ---
-title: 가희와 노선 건설 놀이 3
-special_judge: true
-time_limit: 2 초
-memory_limit: 512 MB
+title: "가희와 노선 건설 놀이 3"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 26
 accepted: 15
 solved_users: 15
-acceptance_rate: 62.500%
-collected_at: 2026-04-17T20:45:43.416871+00:00
+acceptance_rate: "62.500%"
+collected_at: "2026-04-17T20:45:43.416871+00:00"
 ---
 
 ## 문제

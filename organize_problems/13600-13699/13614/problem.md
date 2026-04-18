@@ -1,13 +1,13 @@
 ---
-title: Ecologia
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Ecologia"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 200
 accepted: 30
 solved_users: 12
-acceptance_rate: 13.636%
-collected_at: 2026-04-17T13:16:04.712911+00:00
+acceptance_rate: "13.636%"
+collected_at: "2026-04-17T13:16:04.712911+00:00"
 ---
 
 ## 문제

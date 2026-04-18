@@ -1,13 +1,13 @@
 ---
-title: Super Dango Maker
-special_judge: false
-time_limit: 10 초
-memory_limit: 1024 MB
+title: "Super Dango Maker"
+special_judge: "false"
+time_limit: "10 초"
+memory_limit: "1024 MB"
 submissions: 54
 accepted: 26
 solved_users: 23
-acceptance_rate: 51.111%
-collected_at: 2026-04-17T17:17:35.371443+00:00
+acceptance_rate: "51.111%"
+collected_at: "2026-04-17T17:17:35.371443+00:00"
 ---
 
 ## 문제

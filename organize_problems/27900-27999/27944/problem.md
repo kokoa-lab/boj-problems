@@ -1,13 +1,13 @@
 ---
-title: 가지 이모지
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "가지 이모지"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 527
 accepted: 161
 solved_users: 90
-acceptance_rate: 27.190%
-collected_at: 2026-04-17T18:15:12.465743+00:00
+acceptance_rate: "27.190%"
+collected_at: "2026-04-17T18:15:12.465743+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Wild Boar
-special_judge: false
-time_limit: 10 초
-memory_limit: 1024 MB
+title: "Wild Boar"
+special_judge: "false"
+time_limit: "10 초"
+memory_limit: "1024 MB"
 submissions: 103
 accepted: 38
 solved_users: 25
-acceptance_rate: 29.762%
-collected_at: 2026-04-17T14:45:38.191160+00:00
+acceptance_rate: "29.762%"
+collected_at: "2026-04-17T14:45:38.191160+00:00"
 ---
 
 ## 문제

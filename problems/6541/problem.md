@@ -1,13 +1,13 @@
 ---
-title: Binary Search Heap Construction
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Binary Search Heap Construction"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 118
 accepted: 21
 solved_users: 17
-acceptance_rate: 24.638%
-collected_at: 2026-04-17T11:30:06.125712+00:00
+acceptance_rate: "24.638%"
+collected_at: "2026-04-17T11:30:06.125712+00:00"
 ---
 
 ## 문제

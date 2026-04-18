@@ -1,13 +1,13 @@
 ---
-title: National Disaster: Two Towers
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "National Disaster: Two Towers"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 26
 accepted: 5
 solved_users: 5
-acceptance_rate: 23.810%
-collected_at: 2026-04-17T14:07:40.091977+00:00
+acceptance_rate: "23.810%"
+collected_at: "2026-04-17T14:07:40.091977+00:00"
 ---
 
 ## 문제

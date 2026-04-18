@@ -1,13 +1,13 @@
 ---
-title: 하우스 M.D.
-special_judge: false
-time_limit: 5 초
-memory_limit: 128 MB
+title: "하우스 M.D."
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "128 MB"
 submissions: 854
 accepted: 323
 solved_users: 263
-acceptance_rate: 40.276%
-collected_at: 2026-04-17T10:28:52.799798+00:00
+acceptance_rate: "40.276%"
+collected_at: "2026-04-17T10:28:52.799798+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 그램팬
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "그램팬"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 834
 accepted: 219
 solved_users: 182
-acceptance_rate: 29.402%
-collected_at: 2026-04-17T17:49:18.719513+00:00
+acceptance_rate: "29.402%"
+collected_at: "2026-04-17T17:49:18.719513+00:00"
 ---
 
 ## 문제

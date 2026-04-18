@@ -1,13 +1,13 @@
 ---
-title: 워크스테이션 배정
-special_judge: false
-time_limit: 10 초
-memory_limit: 256 MB
+title: "워크스테이션 배정"
+special_judge: "false"
+time_limit: "10 초"
+memory_limit: "256 MB"
 submissions: 714
 accepted: 307
 solved_users: 245
-acceptance_rate: 44.224%
-collected_at: 2026-04-17T12:43:45.730004+00:00
+acceptance_rate: "44.224%"
+collected_at: "2026-04-17T12:43:45.730004+00:00"
 ---
 
 ## 문제

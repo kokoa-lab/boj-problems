@@ -1,13 +1,13 @@
 ---
-title: 정점 간 통신 네트워크
-special_judge: false
-time_limit: 1 초
-memory_limit: 1536 MB
+title: "정점 간 통신 네트워크"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1536 MB"
 submissions: 687
 accepted: 196
 solved_users: 152
-acceptance_rate: 26.855%
-collected_at: 2026-04-17T15:37:37.646587+00:00
+acceptance_rate: "26.855%"
+collected_at: "2026-04-17T15:37:37.646587+00:00"
 ---
 
 ## 문제

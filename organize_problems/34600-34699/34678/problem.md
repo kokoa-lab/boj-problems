@@ -1,13 +1,13 @@
 ---
-title: Bridge
-special_judge: true
-time_limit: 1 초
-memory_limit: 2048 MB
+title: "Bridge"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "2048 MB"
 submissions: 77
 accepted: 14
 solved_users: 6
-acceptance_rate: 12.500%
-collected_at: 2026-04-17T20:45:40.429299+00:00
+acceptance_rate: "12.500%"
+collected_at: "2026-04-17T20:45:40.429299+00:00"
 ---
 
 ## 문제

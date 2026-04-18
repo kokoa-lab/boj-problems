@@ -1,13 +1,13 @@
 ---
-title: Gears
-special_judge: false
-time_limit: 4 초
-memory_limit: 256 MB
+title: "Gears"
+special_judge: "false"
+time_limit: "4 초"
+memory_limit: "256 MB"
 submissions: 57
 accepted: 25
 solved_users: 25
-acceptance_rate: 53.191%
-collected_at: 2026-04-17T12:42:53.097457+00:00
+acceptance_rate: "53.191%"
+collected_at: "2026-04-17T12:42:53.097457+00:00"
 ---
 
 ## 문제

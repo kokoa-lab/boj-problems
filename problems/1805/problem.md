@@ -1,13 +1,13 @@
 ---
-title: 나무수송
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "나무수송"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 293
 accepted: 89
 solved_users: 70
-acceptance_rate: 35.000%
-collected_at: 2026-04-17T10:33:55.536083+00:00
+acceptance_rate: "35.000%"
+collected_at: "2026-04-17T10:33:55.536083+00:00"
 ---
 
 ## 문제

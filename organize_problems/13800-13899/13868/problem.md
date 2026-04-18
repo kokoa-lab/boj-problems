@@ -1,13 +1,13 @@
 ---
-title: Counting Self-Rotating Subsets
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Counting Self-Rotating Subsets"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 58
 accepted: 40
 solved_users: 32
-acceptance_rate: 68.085%
-collected_at: 2026-04-17T13:21:09.440352+00:00
+acceptance_rate: "68.085%"
+collected_at: "2026-04-17T13:21:09.440352+00:00"
 ---
 
 ## 문제

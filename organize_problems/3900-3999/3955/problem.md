@@ -1,13 +1,13 @@
 ---
-title: 캔디 분배
-special_judge: true
-time_limit: 1 초
-memory_limit: 128 MB
+title: "캔디 분배"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 12825
 accepted: 2853
 solved_users: 2130
-acceptance_rate: 22.652%
-collected_at: 2026-04-17T10:53:40.624724+00:00
+acceptance_rate: "22.652%"
+collected_at: "2026-04-17T10:53:40.624724+00:00"
 ---
 
 ## 문제

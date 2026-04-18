@@ -1,13 +1,13 @@
 ---
-title: Laps
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Laps"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 214
 accepted: 144
 solved_users: 127
-acceptance_rate: 67.914%
-collected_at: 2026-04-17T14:21:12.958625+00:00
+acceptance_rate: "67.914%"
+collected_at: "2026-04-17T14:21:12.958625+00:00"
 ---
 
 ## 문제

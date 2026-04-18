@@ -1,13 +1,13 @@
 ---
-title: Scorched Earth
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Scorched Earth"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 96
 accepted: 19
 solved_users: 16
-acceptance_rate: 17.978%
-collected_at: 2026-04-17T12:36:36.319451+00:00
+acceptance_rate: "17.978%"
+collected_at: "2026-04-17T12:36:36.319451+00:00"
 ---
 
 ## 문제

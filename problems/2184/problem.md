@@ -1,13 +1,13 @@
 ---
-title: 김치 배달
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "김치 배달"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 1306
 accepted: 503
 solved_users: 335
-acceptance_rate: 36.334%
-collected_at: 2026-04-17T10:39:18.107033+00:00
+acceptance_rate: "36.334%"
+collected_at: "2026-04-17T10:39:18.107033+00:00"
 ---
 
 ## 문제

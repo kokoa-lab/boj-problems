@@ -1,13 +1,13 @@
 ---
-title: 뭉쳐야 산다
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "뭉쳐야 산다"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 1703
 accepted: 773
 solved_users: 562
-acceptance_rate: 44.745%
-collected_at: 2026-04-17T18:21:43.048493+00:00
+acceptance_rate: "44.745%"
+collected_at: "2026-04-17T18:21:43.048493+00:00"
 ---
 
 ## 문제

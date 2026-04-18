@@ -1,13 +1,13 @@
 ---
-title: 알파벳 분수
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "알파벳 분수"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 77
 accepted: 39
 solved_users: 21
-acceptance_rate: 60.000%
-collected_at: 2026-04-17T16:46:38.559427+00:00
+acceptance_rate: "60.000%"
+collected_at: "2026-04-17T16:46:38.559427+00:00"
 ---
 
 ## 문제

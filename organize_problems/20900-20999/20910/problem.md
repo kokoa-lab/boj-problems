@@ -1,13 +1,13 @@
 ---
-title: Jeopardised Journey
-special_judge: false
-time_limit: 3 초
-memory_limit: 512 MB
+title: "Jeopardised Journey"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "512 MB"
 submissions: 78
 accepted: 11
 solved_users: 7
-acceptance_rate: 11.290%
-collected_at: 2026-04-17T15:43:10.533005+00:00
+acceptance_rate: "11.290%"
+collected_at: "2026-04-17T15:43:10.533005+00:00"
 ---
 
 ## 문제

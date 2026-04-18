@@ -1,13 +1,13 @@
 ---
-title: 학교를 무너뜨리는 포닉스
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "학교를 무너뜨리는 포닉스"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 230
 accepted: 60
 solved_users: 44
-acceptance_rate: 29.139%
-collected_at: 2026-04-17T19:36:23.711147+00:00
+acceptance_rate: "29.139%"
+collected_at: "2026-04-17T19:36:23.711147+00:00"
 ---
 
 ## 문제

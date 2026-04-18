@@ -1,13 +1,13 @@
 ---
-title: 튜터-튜티 관계의 수
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "튜터-튜티 관계의 수"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 1562
 accepted: 647
 solved_users: 512
-acceptance_rate: 40.538%
-collected_at: 2026-04-17T17:10:52.267346+00:00
+acceptance_rate: "40.538%"
+collected_at: "2026-04-17T17:10:52.267346+00:00"
 ---
 
 ## 문제

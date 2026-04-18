@@ -1,13 +1,13 @@
 ---
-title: 트리 탐색하기
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "트리 탐색하기"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 358
 accepted: 148
 solved_users: 103
-acceptance_rate: 46.188%
-collected_at: 2026-04-17T10:41:12.822020+00:00
+acceptance_rate: "46.188%"
+collected_at: "2026-04-17T10:41:12.822020+00:00"
 ---
 
 ## 문제

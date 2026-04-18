@@ -1,13 +1,13 @@
 ---
-title: UFO in the Sinchon
-special_judge: false
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "UFO in the Sinchon"
+special_judge: "false"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 132
 accepted: 29
 solved_users: 26
-acceptance_rate: 24.528%
-collected_at: 2026-04-18T09:51:26.152505+00:00
+acceptance_rate: "24.528%"
+collected_at: "2026-04-18T09:51:26.152505+00:00"
 ---
 
 ## 문제

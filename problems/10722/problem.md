@@ -1,13 +1,13 @@
 ---
-title: Binary Mobile Tree
-special_judge: true
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Binary Mobile Tree"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 328
 accepted: 75
 solved_users: 50
-acceptance_rate: 28.249%
-collected_at: 2026-04-17T12:28:00.163082+00:00
+acceptance_rate: "28.249%"
+collected_at: "2026-04-17T12:28:00.163082+00:00"
 ---
 
 ## 문제

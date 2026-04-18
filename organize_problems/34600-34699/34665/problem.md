@@ -1,13 +1,13 @@
 ---
-title: 가희와 교통 요금
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "가희와 교통 요금"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 1663
 accepted: 1353
 solved_users: 1301
-acceptance_rate: 82.603%
-collected_at: 2026-04-17T20:45:26.171442+00:00
+acceptance_rate: "82.603%"
+collected_at: "2026-04-17T20:45:26.171442+00:00"
 ---
 
 ## 문제

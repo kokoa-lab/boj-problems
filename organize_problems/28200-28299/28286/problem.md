@@ -1,13 +1,13 @@
 ---
-title: 재채점을 기다리는 중
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "재채점을 기다리는 중"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 514
 accepted: 230
 solved_users: 190
-acceptance_rate: 47.500%
-collected_at: 2026-04-17T18:21:51.041574+00:00
+acceptance_rate: "47.500%"
+collected_at: "2026-04-17T18:21:51.041574+00:00"
 ---
 
 ## 문제

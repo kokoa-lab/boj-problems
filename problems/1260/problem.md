@@ -1,13 +1,13 @@
 ---
-title: DFS와 BFS
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "DFS와 BFS"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 362176
 accepted: 148564
 solved_users: 87602
-acceptance_rate: 39.548%
-collected_at: 2026-04-17T10:29:07.874038+00:00
+acceptance_rate: "39.548%"
+collected_at: "2026-04-17T10:29:07.874038+00:00"
 ---
 
 ## 문제

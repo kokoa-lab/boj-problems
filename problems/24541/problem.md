@@ -1,13 +1,13 @@
 ---
-title: 블록 배치
-special_judge: false
-time_limit: 4 초
-memory_limit: 512 MB
+title: "블록 배치"
+special_judge: "false"
+time_limit: "4 초"
+memory_limit: "512 MB"
 submissions: 85
 accepted: 36
 solved_users: 35
-acceptance_rate: 50.725%
-collected_at: 2026-04-17T17:10:57.650553+00:00
+acceptance_rate: "50.725%"
+collected_at: "2026-04-17T17:10:57.650553+00:00"
 ---
 
 ## 문제

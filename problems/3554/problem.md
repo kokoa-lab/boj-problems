@@ -1,13 +1,13 @@
 ---
-title: Enigmatic Device
-special_judge: false
-time_limit: 3 초
-memory_limit: 256 MB
+title: "Enigmatic Device"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "256 MB"
 submissions: 1015
 accepted: 443
 solved_users: 341
-acceptance_rate: 45.895%
-collected_at: 2026-04-17T10:49:47.692703+00:00
+acceptance_rate: "45.895%"
+collected_at: "2026-04-17T10:49:47.692703+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 동물원
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "동물원"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 1300
 accepted: 436
 solved_users: 362
-acceptance_rate: 33.706%
-collected_at: 2026-04-17T13:03:41.048224+00:00
+acceptance_rate: "33.706%"
+collected_at: "2026-04-17T13:03:41.048224+00:00"
 ---
 
 ## 문제

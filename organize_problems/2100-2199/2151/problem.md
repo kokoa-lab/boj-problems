@@ -1,13 +1,13 @@
 ---
-title: 거울 설치
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "거울 설치"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 13042
 accepted: 3631
 solved_users: 2473
-acceptance_rate: 27.125%
-collected_at: 2026-04-17T10:38:55.008423+00:00
+acceptance_rate: "27.125%"
+collected_at: "2026-04-17T10:38:55.008423+00:00"
 ---
 
 ## 문제

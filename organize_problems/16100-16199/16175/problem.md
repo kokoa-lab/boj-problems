@@ -1,13 +1,13 @@
 ---
-title: General Election
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "General Election"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 530
 accepted: 420
 solved_users: 372
-acceptance_rate: 77.987%
-collected_at: 2026-04-17T14:13:01.258712+00:00
+acceptance_rate: "77.987%"
+collected_at: "2026-04-17T14:13:01.258712+00:00"
 ---
 
 ## 문제

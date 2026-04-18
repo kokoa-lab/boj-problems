@@ -1,13 +1,13 @@
 ---
-title: 준석이의 사탕 사기
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "준석이의 사탕 사기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 2570
 accepted: 1443
 solved_users: 1299
-acceptance_rate: 56.899%
-collected_at: 2026-04-17T18:17:32.033986+00:00
+acceptance_rate: "56.899%"
+collected_at: "2026-04-17T18:17:32.033986+00:00"
 ---
 
 ## 문제

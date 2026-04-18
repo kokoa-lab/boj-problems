@@ -1,13 +1,13 @@
 ---
-title: ДВА НИЗА
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "ДВА НИЗА"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 118
 accepted: 54
 solved_users: 42
-acceptance_rate: 45.652%
-collected_at: 2026-04-17T17:08:10.612957+00:00
+acceptance_rate: "45.652%"
+collected_at: "2026-04-17T17:08:10.612957+00:00"
 ---
 
 ## 문제

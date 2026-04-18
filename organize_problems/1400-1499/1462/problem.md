@@ -1,13 +1,13 @@
 ---
-title: 퀴즈쇼
-special_judge: false
-time_limit: 5 초
-memory_limit: 128 MB
+title: "퀴즈쇼"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "128 MB"
 submissions: 471
 accepted: 179
 solved_users: 122
-acceptance_rate: 34.174%
-collected_at: 2026-04-17T10:30:22.223595+00:00
+acceptance_rate: "34.174%"
+collected_at: "2026-04-17T10:30:22.223595+00:00"
 ---
 
 ## 문제

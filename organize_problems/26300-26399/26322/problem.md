@@ -1,13 +1,13 @@
 ---
-title: Shopping Spree
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Shopping Spree"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 38
 accepted: 10
 solved_users: 9
-acceptance_rate: 31.034%
-collected_at: 2026-04-17T17:43:42.324867+00:00
+acceptance_rate: "31.034%"
+collected_at: "2026-04-17T17:43:42.324867+00:00"
 ---
 
 ## 문제

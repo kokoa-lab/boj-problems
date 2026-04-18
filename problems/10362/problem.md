@@ -1,13 +1,13 @@
 ---
-title: Turtle Graphics
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Turtle Graphics"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 308
 accepted: 126
 solved_users: 118
-acceptance_rate: 44.528%
-collected_at: 2026-04-17T12:22:36.628234+00:00
+acceptance_rate: "44.528%"
+collected_at: "2026-04-17T12:22:36.628234+00:00"
 ---
 
 ## 문제

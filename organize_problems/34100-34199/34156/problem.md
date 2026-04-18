@@ -1,13 +1,13 @@
 ---
-title: 테토와 바게트
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "테토와 바게트"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 238
 accepted: 87
 solved_users: 75
-acceptance_rate: 39.683%
-collected_at: 2026-04-17T20:31:57.768816+00:00
+acceptance_rate: "39.683%"
+collected_at: "2026-04-17T20:31:57.768816+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Acute Triangles
-special_judge: false
-time_limit: 4 초
-memory_limit: 512 MB
+title: "Acute Triangles"
+special_judge: "false"
+time_limit: "4 초"
+memory_limit: "512 MB"
 submissions: 32
 accepted: 1
 solved_users: 1
-acceptance_rate: 20.000%
-collected_at: 2026-04-17T14:14:51.675531+00:00
+acceptance_rate: "20.000%"
+collected_at: "2026-04-17T14:14:51.675531+00:00"
 ---
 
 ## 문제

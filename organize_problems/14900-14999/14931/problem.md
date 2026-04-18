@@ -1,13 +1,13 @@
 ---
-title: 물수제비 (SUJEBI)
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "물수제비 (SUJEBI)"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 618
 accepted: 284
 solved_users: 236
-acceptance_rate: 44.278%
-collected_at: 2026-04-17T13:46:00.210965+00:00
+acceptance_rate: "44.278%"
+collected_at: "2026-04-17T13:46:00.210965+00:00"
 ---
 
 ## 문제

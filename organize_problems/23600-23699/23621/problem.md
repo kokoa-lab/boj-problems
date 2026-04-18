@@ -1,13 +1,13 @@
 ---
-title: Level check
-special_judge: false
-time_limit: 4 초 (추가 시간 없음)
-memory_limit: 256 MB
+title: "Level check"
+special_judge: "false"
+time_limit: "4 초 (추가 시간 없음)"
+memory_limit: "256 MB"
 submissions: 2
 accepted: 2
 solved_users: 2
-acceptance_rate: 100.000%
-collected_at: 2026-04-17T16:51:14.078570+00:00
+acceptance_rate: "100.000%"
+collected_at: "2026-04-17T16:51:14.078570+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 와 쿼리
-special_judge: true
-time_limit: 1 초
-memory_limit: 512 MB
+title: "와 쿼리"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 1870
 accepted: 416
 solved_users: 303
-acceptance_rate: 23.653%
-collected_at: 2026-04-17T15:53:45.102069+00:00
+acceptance_rate: "23.653%"
+collected_at: "2026-04-17T15:53:45.102069+00:00"
 ---
 
 ## 문제

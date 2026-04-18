@@ -1,13 +1,13 @@
 ---
-title: 구슬 정렬
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "구슬 정렬"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 232
 accepted: 63
 solved_users: 56
-acceptance_rate: 35.443%
-collected_at: 2026-04-17T18:05:18.752749+00:00
+acceptance_rate: "35.443%"
+collected_at: "2026-04-17T18:05:18.752749+00:00"
 ---
 
 ## 문제

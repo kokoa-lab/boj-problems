@@ -1,13 +1,13 @@
 ---
-title: Pie
-special_judge: true
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Pie"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 118
 accepted: 56
 solved_users: 44
-acceptance_rate: 54.321%
-collected_at: 2026-04-17T10:51:10.282082+00:00
+acceptance_rate: "54.321%"
+collected_at: "2026-04-17T10:51:10.282082+00:00"
 ---
 
 ## 문제

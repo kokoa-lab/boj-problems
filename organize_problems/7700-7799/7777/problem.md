@@ -1,13 +1,13 @@
 ---
-title: 병원
-special_judge: true
-time_limit: 2 초
-memory_limit: 128 MB
+title: "병원"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 138
 accepted: 37
 solved_users: 22
-acceptance_rate: 41.509%
-collected_at: 2026-04-17T11:52:48.573828+00:00
+acceptance_rate: "41.509%"
+collected_at: "2026-04-17T11:52:48.573828+00:00"
 ---
 
 ## 문제

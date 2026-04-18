@@ -1,13 +1,13 @@
 ---
-title: 문제 출제
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "문제 출제"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 284
 accepted: 191
 solved_users: 152
-acceptance_rate: 67.857%
-collected_at: 2026-04-17T17:41:09.136245+00:00
+acceptance_rate: "67.857%"
+collected_at: "2026-04-17T17:41:09.136245+00:00"
 ---
 
 ## 문제

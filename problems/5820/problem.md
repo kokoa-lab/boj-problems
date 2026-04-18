@@ -1,13 +1,13 @@
 ---
-title: 경주
-special_judge: false
-time_limit: 3 초
-memory_limit: 256 MB
+title: "경주"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "256 MB"
 submissions: 4924
 accepted: 1391
 solved_users: 769
-acceptance_rate: 21.997%
-collected_at: 2026-04-17T11:17:41.839339+00:00
+acceptance_rate: "21.997%"
+collected_at: "2026-04-17T11:17:41.839339+00:00"
 ---
 
 ## 문제

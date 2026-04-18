@@ -1,13 +1,13 @@
 ---
-title: 푸앙이와 계단 수열
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "푸앙이와 계단 수열"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 369
 accepted: 109
 solved_users: 94
-acceptance_rate: 31.229%
-collected_at: 2026-04-17T17:29:23.593579+00:00
+acceptance_rate: "31.229%"
+collected_at: "2026-04-17T17:29:23.593579+00:00"
 ---
 
 ## 문제

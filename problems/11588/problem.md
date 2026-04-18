@@ -1,13 +1,13 @@
 ---
-title: GEPPETTO
-special_judge: false
-time_limit: 1 초
-memory_limit: 64 MB
+title: "GEPPETTO"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "64 MB"
 submissions: 159
 accepted: 133
 solved_users: 106
-acceptance_rate: 85.484%
-collected_at: 2026-04-17T12:42:40.388458+00:00
+acceptance_rate: "85.484%"
+collected_at: "2026-04-17T12:42:40.388458+00:00"
 ---
 
 ## 문제

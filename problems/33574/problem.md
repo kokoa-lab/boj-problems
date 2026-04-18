@@ -1,13 +1,13 @@
 ---
-title: 끊임없는 정렬과 창조함으로
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "끊임없는 정렬과 창조함으로"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 356
 accepted: 282
 solved_users: 240
-acceptance_rate: 80.000%
-collected_at: 2026-04-17T20:19:14.859962+00:00
+acceptance_rate: "80.000%"
+collected_at: "2026-04-17T20:19:14.859962+00:00"
 ---
 
 ## 문제

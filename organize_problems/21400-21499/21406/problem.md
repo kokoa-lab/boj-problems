@@ -1,13 +1,13 @@
 ---
-title: Строка
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Строка"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 120
 accepted: 93
 solved_users: 78
-acceptance_rate: 82.105%
-collected_at: 2026-04-17T15:57:49.701396+00:00
+acceptance_rate: "82.105%"
+collected_at: "2026-04-17T15:57:49.701396+00:00"
 ---
 
 ## 문제

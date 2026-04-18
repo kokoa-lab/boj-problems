@@ -1,13 +1,13 @@
 ---
-title: 라라와 용맥 변환
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "라라와 용맥 변환"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 563
 accepted: 160
 solved_users: 138
-acceptance_rate: 30.197%
-collected_at: 2026-04-17T18:53:00.340784+00:00
+acceptance_rate: "30.197%"
+collected_at: "2026-04-17T18:53:00.340784+00:00"
 ---
 
 ## 문제

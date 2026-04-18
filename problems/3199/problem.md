@@ -1,13 +1,13 @@
 ---
-title: ABCD
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "ABCD"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 203
 accepted: 99
 solved_users: 82
-acceptance_rate: 48.521%
-collected_at: 2026-04-17T10:47:20.165647+00:00
+acceptance_rate: "48.521%"
+collected_at: "2026-04-17T10:47:20.165647+00:00"
 ---
 
 ## 문제

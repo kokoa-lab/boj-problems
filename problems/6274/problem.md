@@ -1,13 +1,13 @@
 ---
-title: Chessboard Dance
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Chessboard Dance"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 8
 accepted: 2
 solved_users: 2
-acceptance_rate: 25.000%
-collected_at: 2026-04-18T09:49:00.807406+00:00
+acceptance_rate: "25.000%"
+collected_at: "2026-04-18T09:49:00.807406+00:00"
 ---
 
 ## 문제

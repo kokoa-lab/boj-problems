@@ -1,13 +1,13 @@
 ---
-title: 탄산 음료
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "탄산 음료"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 7678
 accepted: 4276
 solved_users: 3945
-acceptance_rate: 57.751%
-collected_at: 2026-04-17T11:11:01.345333+00:00
+acceptance_rate: "57.751%"
+collected_at: "2026-04-17T11:11:01.345333+00:00"
 ---
 
 ## 문제

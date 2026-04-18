@@ -1,13 +1,13 @@
 ---
-title: This Can’t Go On Forever
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "This Can’t Go On Forever"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 77
 accepted: 46
 solved_users: 28
-acceptance_rate: 52.830%
-collected_at: 2026-04-17T11:02:23.371946+00:00
+acceptance_rate: "52.830%"
+collected_at: "2026-04-17T11:02:23.371946+00:00"
 ---
 
 ## 문제

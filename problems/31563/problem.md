@@ -1,13 +1,13 @@
 ---
-title: 수열 회전과 쿼리
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "수열 회전과 쿼리"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 1331
 accepted: 390
 solved_users: 319
-acceptance_rate: 33.864%
-collected_at: 2026-04-17T19:30:59.353450+00:00
+acceptance_rate: "33.864%"
+collected_at: "2026-04-17T19:30:59.353450+00:00"
 ---
 
 ## 문제

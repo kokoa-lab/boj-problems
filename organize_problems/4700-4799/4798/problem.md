@@ -1,13 +1,13 @@
 ---
-title: 등차수열에 관한 디리클레의 정리
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "등차수열에 관한 디리클레의 정리"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 645
 accepted: 69
 solved_users: 38
-acceptance_rate: 9.091%
-collected_at: 2026-04-17T11:08:40.639037+00:00
+acceptance_rate: "9.091%"
+collected_at: "2026-04-17T11:08:40.639037+00:00"
 ---
 
 ## 문제

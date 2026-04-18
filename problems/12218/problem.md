@@ -1,13 +1,13 @@
 ---
-title: Symmetric Trees (Small)
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Symmetric Trees (Small)"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 39
 accepted: 20
 solved_users: 19
-acceptance_rate: 51.351%
-collected_at: 2026-04-17T12:52:00.233781+00:00
+acceptance_rate: "51.351%"
+collected_at: "2026-04-17T12:52:00.233781+00:00"
 ---
 
 ## 문제

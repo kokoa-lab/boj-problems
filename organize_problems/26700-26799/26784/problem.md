@@ -1,13 +1,13 @@
 ---
-title: Spacery po drzewie binarnym
-special_judge: false
-time_limit: 20 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Spacery po drzewie binarnym"
+special_judge: "false"
+time_limit: "20 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 35
 accepted: 33
 solved_users: 25
-acceptance_rate: 96.154%
-collected_at: 2026-04-17T17:51:24.858514+00:00
+acceptance_rate: "96.154%"
+collected_at: "2026-04-17T17:51:24.858514+00:00"
 ---
 
 ## 문제

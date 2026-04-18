@@ -1,13 +1,13 @@
 ---
-title: 십자말풀이
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "십자말풀이"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 910
 accepted: 450
 solved_users: 404
-acceptance_rate: 52.332%
-collected_at: 2026-04-17T12:27:01.963166+00:00
+acceptance_rate: "52.332%"
+collected_at: "2026-04-17T12:27:01.963166+00:00"
 ---
 
 ## 문제

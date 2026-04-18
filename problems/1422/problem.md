@@ -1,13 +1,13 @@
 ---
-title: 숫자의 신
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "숫자의 신"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 8188
 accepted: 2484
 solved_users: 1906
-acceptance_rate: 30.230%
-collected_at: 2026-04-17T10:30:05.638019+00:00
+acceptance_rate: "30.230%"
+collected_at: "2026-04-17T10:30:05.638019+00:00"
 ---
 
 ## 문제

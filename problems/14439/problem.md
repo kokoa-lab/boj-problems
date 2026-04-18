@@ -1,13 +1,13 @@
 ---
-title: 알 수도 있는 사람
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "알 수도 있는 사람"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 73
 accepted: 36
 solved_users: 33
-acceptance_rate: 52.381%
-collected_at: 2026-04-17T13:33:39.528009+00:00
+acceptance_rate: "52.381%"
+collected_at: "2026-04-17T13:33:39.528009+00:00"
 ---
 
 ## 문제

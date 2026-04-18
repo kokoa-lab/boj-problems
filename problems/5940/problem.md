@@ -1,13 +1,13 @@
 ---
-title: Math Practice
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Math Practice"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 597
 accepted: 271
 solved_users: 222
-acceptance_rate: 43.191%
-collected_at: 2026-04-17T11:18:42.482914+00:00
+acceptance_rate: "43.191%"
+collected_at: "2026-04-17T11:18:42.482914+00:00"
 ---
 
 ## 문제

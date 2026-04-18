@@ -1,13 +1,13 @@
 ---
-title: 가장 오래 걸리는 스도쿠
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "가장 오래 걸리는 스도쿠"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 5079
 accepted: 1210
 solved_users: 699
-acceptance_rate: 18.760%
-collected_at: 2026-04-17T12:50:06.369840+00:00
+acceptance_rate: "18.760%"
+collected_at: "2026-04-17T12:50:06.369840+00:00"
 ---
 
 ## 문제

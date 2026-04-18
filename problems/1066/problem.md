@@ -1,13 +1,13 @@
 ---
-title: 에이한수
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "에이한수"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 445
 accepted: 146
 solved_users: 115
-acceptance_rate: 58.376%
-collected_at: 2026-04-17T10:28:00.153008+00:00
+acceptance_rate: "58.376%"
+collected_at: "2026-04-17T10:28:00.153008+00:00"
 ---
 
 ## 문제

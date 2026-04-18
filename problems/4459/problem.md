@@ -1,13 +1,13 @@
 ---
-title: Always Follow the Rules in Zombieland
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Always Follow the Rules in Zombieland"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 808
 accepted: 579
 solved_users: 540
-acceptance_rate: 72.386%
-collected_at: 2026-04-17T11:02:10.864793+00:00
+acceptance_rate: "72.386%"
+collected_at: "2026-04-17T11:02:10.864793+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: ITAI Virus
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "ITAI Virus"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 94
 accepted: 87
 solved_users: 80
-acceptance_rate: 91.954%
-collected_at: 2026-04-17T12:38:43.366874+00:00
+acceptance_rate: "91.954%"
+collected_at: "2026-04-17T12:38:43.366874+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 이차함수와 직선
-special_judge: true
-time_limit: 0.1 초 (추가 시간 없음)  ( 하단 참고 )
-memory_limit: 1024 MB
+title: "이차함수와 직선"
+special_judge: "true"
+time_limit: "0.1 초 (추가 시간 없음)  ( 하단 참고 )"
+memory_limit: "1024 MB"
 submissions: 58
 accepted: 5
 solved_users: 4
-acceptance_rate: 14.286%
-collected_at: 2026-04-17T17:47:09.957374+00:00
+acceptance_rate: "14.286%"
+collected_at: "2026-04-17T17:47:09.957374+00:00"
 ---
 
 ## 문제

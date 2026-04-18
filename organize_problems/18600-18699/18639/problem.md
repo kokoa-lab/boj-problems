@@ -1,13 +1,13 @@
 ---
-title: Three Vectors
-special_judge: true
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Three Vectors"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 54
 accepted: 33
 solved_users: 25
-acceptance_rate: 55.556%
-collected_at: 2026-04-17T15:07:28.597627+00:00
+acceptance_rate: "55.556%"
+collected_at: "2026-04-17T15:07:28.597627+00:00"
 ---
 
 ## 문제

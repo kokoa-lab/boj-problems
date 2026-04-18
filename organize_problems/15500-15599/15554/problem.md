@@ -1,13 +1,13 @@
 ---
-title: 전시회
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "전시회"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 866
 accepted: 404
 solved_users: 334
-acceptance_rate: 47.109%
-collected_at: 2026-04-17T14:01:30.373005+00:00
+acceptance_rate: "47.109%"
+collected_at: "2026-04-17T14:01:30.373005+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: LCM of GCDs
-special_judge: false
-time_limit: 10 초
-memory_limit: 512 MB
+title: "LCM of GCDs"
+special_judge: "false"
+time_limit: "10 초"
+memory_limit: "512 MB"
 submissions: 152
 accepted: 84
 solved_users: 68
-acceptance_rate: 60.714%
-collected_at: 2026-04-17T16:10:11.322083+00:00
+acceptance_rate: "60.714%"
+collected_at: "2026-04-17T16:10:11.322083+00:00"
 ---
 
 ## 문제

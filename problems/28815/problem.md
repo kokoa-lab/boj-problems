@@ -1,13 +1,13 @@
 ---
-title: Женитьба
-special_judge: true
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Женитьба"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 19
 accepted: 5
 solved_users: 4
-acceptance_rate: 22.222%
-collected_at: 2026-04-17T18:32:52.720824+00:00
+acceptance_rate: "22.222%"
+collected_at: "2026-04-17T18:32:52.720824+00:00"
 ---
 
 ## 문제

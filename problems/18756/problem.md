@@ -1,13 +1,13 @@
 ---
-title: Data Structure Quiz
-special_judge: false
-time_limit: 8 초
-memory_limit: 512 MB
+title: "Data Structure Quiz"
+special_judge: "false"
+time_limit: "8 초"
+memory_limit: "512 MB"
 submissions: 443
 accepted: 86
 solved_users: 50
-acceptance_rate: 17.544%
-collected_at: 2026-04-17T15:09:16.630287+00:00
+acceptance_rate: "17.544%"
+collected_at: "2026-04-17T15:09:16.630287+00:00"
 ---
 
 ## 문제

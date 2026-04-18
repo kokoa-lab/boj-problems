@@ -1,13 +1,13 @@
 ---
-title: Space-A
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Space-A"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 517
 accepted: 265
 solved_users: 237
-acceptance_rate: 57.524%
-collected_at: 2026-04-17T18:18:32.292059+00:00
+acceptance_rate: "57.524%"
+collected_at: "2026-04-17T18:18:32.292059+00:00"
 ---
 
 ## 문제

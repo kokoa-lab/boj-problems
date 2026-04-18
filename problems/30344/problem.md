@@ -1,13 +1,13 @@
 ---
-title: Lietus
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Lietus"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 75
 accepted: 40
 solved_users: 29
-acceptance_rate: 55.769%
-collected_at: 2026-04-17T19:03:53.327260+00:00
+acceptance_rate: "55.769%"
+collected_at: "2026-04-17T19:03:53.327260+00:00"
 ---
 
 ## 문제

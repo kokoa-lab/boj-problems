@@ -1,13 +1,13 @@
 ---
-title: Learning Languages
-special_judge: true
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Learning Languages"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 102
 accepted: 41
 solved_users: 37
-acceptance_rate: 39.362%
-collected_at: 2026-04-17T11:19:04.718526+00:00
+acceptance_rate: "39.362%"
+collected_at: "2026-04-17T11:19:04.718526+00:00"
 ---
 
 ## 문제

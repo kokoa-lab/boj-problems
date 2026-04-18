@@ -1,13 +1,13 @@
 ---
-title: 코딩 테스트
-special_judge: false
-time_limit: 2.5 초
-memory_limit: 1024 MB
+title: "코딩 테스트"
+special_judge: "false"
+time_limit: "2.5 초"
+memory_limit: "1024 MB"
 submissions: 219
 accepted: 27
 solved_users: 14
-acceptance_rate: 10.370%
-collected_at: 2026-04-17T17:18:49.237089+00:00
+acceptance_rate: "10.370%"
+collected_at: "2026-04-17T17:18:49.237089+00:00"
 ---
 
 ## 문제

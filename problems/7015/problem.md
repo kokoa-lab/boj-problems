@@ -1,13 +1,13 @@
 ---
-title: Millennium
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Millennium"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 283
 accepted: 254
 solved_users: 219
-acceptance_rate: 91.250%
-collected_at: 2026-04-17T11:42:52.865924+00:00
+acceptance_rate: "91.250%"
+collected_at: "2026-04-17T11:42:52.865924+00:00"
 ---
 
 ## 문제

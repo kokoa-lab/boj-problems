@@ -1,13 +1,13 @@
 ---
-title: 웨이팅
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "웨이팅"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 1077
 accepted: 242
 solved_users: 150
-acceptance_rate: 21.866%
-collected_at: 2026-04-17T18:58:09.336367+00:00
+acceptance_rate: "21.866%"
+collected_at: "2026-04-17T18:58:09.336367+00:00"
 ---
 
 ## 문제

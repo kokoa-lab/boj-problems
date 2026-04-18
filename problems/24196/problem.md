@@ -1,13 +1,13 @@
 ---
-title: Gömda ord
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Gömda ord"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 1147
 accepted: 931
 solved_users: 881
-acceptance_rate: 81.198%
-collected_at: 2026-04-17T17:05:44.327577+00:00
+acceptance_rate: "81.198%"
+collected_at: "2026-04-17T17:05:44.327577+00:00"
 ---
 
 ## 문제

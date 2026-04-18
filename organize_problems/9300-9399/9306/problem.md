@@ -1,13 +1,13 @@
 ---
-title: Practice: Roll Call
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Practice: Roll Call"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 1187
 accepted: 948
 solved_users: 881
-acceptance_rate: 80.974%
-collected_at: 2026-04-17T12:08:45.161659+00:00
+acceptance_rate: "80.974%"
+collected_at: "2026-04-17T12:08:45.161659+00:00"
 ---
 
 ## 문제

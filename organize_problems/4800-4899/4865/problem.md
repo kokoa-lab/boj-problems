@@ -1,13 +1,13 @@
 ---
-title: Shortest Prefixes
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Shortest Prefixes"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 82
 accepted: 62
 solved_users: 45
-acceptance_rate: 73.770%
-collected_at: 2026-04-17T11:09:31.390439+00:00
+acceptance_rate: "73.770%"
+collected_at: "2026-04-17T11:09:31.390439+00:00"
 ---
 
 ## 문제

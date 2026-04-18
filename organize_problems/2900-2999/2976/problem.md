@@ -1,13 +1,13 @@
 ---
-title: NIKOLA
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "NIKOLA"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 250
 accepted: 103
 solved_users: 89
-acceptance_rate: 53.614%
-collected_at: 2026-04-17T10:46:01.455268+00:00
+acceptance_rate: "53.614%"
+collected_at: "2026-04-17T10:46:01.455268+00:00"
 ---
 
 ## 문제

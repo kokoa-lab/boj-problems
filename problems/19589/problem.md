@@ -1,13 +1,13 @@
 ---
-title: 카드 셔플
-special_judge: false
-time_limit: 10 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "카드 셔플"
+special_judge: "false"
+time_limit: "10 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 538
 accepted: 148
 solved_users: 90
-acceptance_rate: 26.627%
-collected_at: 2026-04-17T15:24:02.437070+00:00
+acceptance_rate: "26.627%"
+collected_at: "2026-04-17T15:24:02.437070+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 트리 부수기
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "트리 부수기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 160
 accepted: 105
 solved_users: 81
-acceptance_rate: 66.942%
-collected_at: 2026-04-17T20:06:52.770531+00:00
+acceptance_rate: "66.942%"
+collected_at: "2026-04-17T20:06:52.770531+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 촛불과 촛불과 촛불과 그림자
-special_judge: true
-time_limit: 3 초
-memory_limit: 1024 MB
+title: "촛불과 촛불과 촛불과 그림자"
+special_judge: "true"
+time_limit: "3 초"
+memory_limit: "1024 MB"
 submissions: 21
 accepted: 6
 solved_users: 4
-acceptance_rate: 36.364%
-collected_at: 2026-04-17T20:35:52.401369+00:00
+acceptance_rate: "36.364%"
+collected_at: "2026-04-17T20:35:52.401369+00:00"
 ---
 
 ## 문제

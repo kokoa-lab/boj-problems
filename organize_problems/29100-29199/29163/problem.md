@@ -1,13 +1,13 @@
 ---
-title: Счастье Мистера Бина
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Счастье Мистера Бина"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 3550
 accepted: 2272
 solved_users: 2173
-acceptance_rate: 63.912%
-collected_at: 2026-04-17T18:38:19.573528+00:00
+acceptance_rate: "63.912%"
+collected_at: "2026-04-17T18:38:19.573528+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 생산 공정
-special_judge: false
-time_limit: 5 초
-memory_limit: 128 MB
+title: "생산 공정"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "128 MB"
 submissions: 61
 accepted: 10
 solved_users: 8
-acceptance_rate: 36.364%
-collected_at: 2026-04-17T10:52:36.001641+00:00
+acceptance_rate: "36.364%"
+collected_at: "2026-04-17T10:52:36.001641+00:00"
 ---
 
 ## 문제

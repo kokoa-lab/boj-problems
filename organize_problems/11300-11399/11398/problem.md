@@ -1,13 +1,13 @@
 ---
-title: 흑백 이미지 찾기
-special_judge: false
-time_limit: 10 초
-memory_limit: 512 MB
+title: "흑백 이미지 찾기"
+special_judge: "false"
+time_limit: "10 초"
+memory_limit: "512 MB"
 submissions: 455
 accepted: 28
 solved_users: 18
-acceptance_rate: 16.822%
-collected_at: 2026-04-17T12:40:14.693780+00:00
+acceptance_rate: "16.822%"
+collected_at: "2026-04-17T12:40:14.693780+00:00"
 ---
 
 ## 문제

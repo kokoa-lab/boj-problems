@@ -1,13 +1,13 @@
 ---
-title: Alphabet City
-special_judge: false
-time_limit: 3 초
-memory_limit: 2048 MB
+title: "Alphabet City"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "2048 MB"
 submissions: 22
 accepted: 20
 solved_users: 19
-acceptance_rate: 90.476%
-collected_at: 2026-04-17T20:54:28.112656+00:00
+acceptance_rate: "90.476%"
+collected_at: "2026-04-17T20:54:28.112656+00:00"
 ---
 
 ## 문제

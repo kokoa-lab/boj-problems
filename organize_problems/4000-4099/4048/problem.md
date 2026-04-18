@@ -1,13 +1,13 @@
 ---
-title: The Flood
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "The Flood"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 90
 accepted: 36
 solved_users: 31
-acceptance_rate: 43.662%
-collected_at: 2026-04-17T10:55:11.534031+00:00
+acceptance_rate: "43.662%"
+collected_at: "2026-04-17T10:55:11.534031+00:00"
 ---
 
 ## 문제

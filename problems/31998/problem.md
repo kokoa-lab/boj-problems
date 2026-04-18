@@ -1,13 +1,13 @@
 ---
-title: 리스트 가상화
-special_judge: false
-time_limit: 6 초
-memory_limit: 1024 MB
+title: "리스트 가상화"
+special_judge: "false"
+time_limit: "6 초"
+memory_limit: "1024 MB"
 submissions: 111
 accepted: 29
 solved_users: 19
-acceptance_rate: 31.148%
-collected_at: 2026-04-17T19:40:37.190487+00:00
+acceptance_rate: "31.148%"
+collected_at: "2026-04-17T19:40:37.190487+00:00"
 ---
 
 ## 문제

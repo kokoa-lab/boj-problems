@@ -1,13 +1,13 @@
 ---
-title: ACM 대회 채점
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "ACM 대회 채점"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 1032
 accepted: 808
 solved_users: 717
-acceptance_rate: 78.705%
-collected_at: 2026-04-17T12:41:51.285739+00:00
+acceptance_rate: "78.705%"
+collected_at: "2026-04-17T12:41:51.285739+00:00"
 ---
 
 ## 문제

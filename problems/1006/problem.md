@@ -1,13 +1,13 @@
 ---
-title: 습격자 초라기
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "습격자 초라기"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 26607
 accepted: 5087
 solved_users: 3319
-acceptance_rate: 21.629%
-collected_at: 2026-04-17T10:27:37.182146+00:00
+acceptance_rate: "21.629%"
+collected_at: "2026-04-17T10:27:37.182146+00:00"
 ---
 
 ## 문제

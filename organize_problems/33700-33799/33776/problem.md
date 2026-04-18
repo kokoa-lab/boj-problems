@@ -1,13 +1,13 @@
 ---
-title: Stablo II
-special_judge: false
-time_limit: 3.5 초
-memory_limit: 2048 MB
+title: "Stablo II"
+special_judge: "false"
+time_limit: "3.5 초"
+memory_limit: "2048 MB"
 submissions: 36
 accepted: 16
 solved_users: 9
-acceptance_rate: 34.615%
-collected_at: 2026-04-17T20:23:24.789655+00:00
+acceptance_rate: "34.615%"
+collected_at: "2026-04-17T20:23:24.789655+00:00"
 ---
 
 ## 문제

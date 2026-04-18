@@ -1,13 +1,13 @@
 ---
-title: Star Wars (Small)
-special_judge: true
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Star Wars (Small)"
+special_judge: "true"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 29
 accepted: 19
 solved_users: 19
-acceptance_rate: 70.370%
-collected_at: 2026-04-17T13:00:04.473520+00:00
+acceptance_rate: "70.370%"
+collected_at: "2026-04-17T13:00:04.473520+00:00"
 ---
 
 ## 문제

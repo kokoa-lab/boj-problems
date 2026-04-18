@@ -1,13 +1,13 @@
 ---
-title: 타노수
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "타노수"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 479
 accepted: 233
 solved_users: 192
-acceptance_rate: 48.241%
-collected_at: 2026-04-17T20:00:21.581692+00:00
+acceptance_rate: "48.241%"
+collected_at: "2026-04-17T20:00:21.581692+00:00"
 ---
 
 ## 문제

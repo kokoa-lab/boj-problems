@@ -1,13 +1,13 @@
 ---
-title: 검은점과 하얀점 연결
-special_judge: true
-time_limit: 1 초
-memory_limit: 128 MB
+title: "검은점과 하얀점 연결"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 1654
 accepted: 702
 solved_users: 515
-acceptance_rate: 46.147%
-collected_at: 2026-04-17T10:43:37.949579+00:00
+acceptance_rate: "46.147%"
+collected_at: "2026-04-17T10:43:37.949579+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: NN
-special_judge: false
-time_limit: 1 초
-memory_limit: 32 MB
+title: "NN"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "32 MB"
 submissions: 9890
 accepted: 3952
 solved_users: 3603
-acceptance_rate: 41.571%
-collected_at: 2026-04-17T12:48:00.242427+00:00
+acceptance_rate: "41.571%"
+collected_at: "2026-04-17T12:48:00.242427+00:00"
 ---
 
 ## 문제

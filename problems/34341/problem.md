@@ -1,13 +1,13 @@
 ---
-title: LIS 하나 빼기
-special_judge: false
-time_limit: 3 초 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "LIS 하나 빼기"
+special_judge: "false"
+time_limit: "3 초 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 55
 accepted: 27
 solved_users: 26
-acceptance_rate: 54.167%
-collected_at: 2026-04-17T20:36:04.839082+00:00
+acceptance_rate: "54.167%"
+collected_at: "2026-04-17T20:36:04.839082+00:00"
 ---
 
 ## 문제

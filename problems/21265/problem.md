@@ -1,13 +1,13 @@
 ---
-title: Ascending Matrix
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Ascending Matrix"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 75
 accepted: 46
 solved_users: 27
-acceptance_rate: 64.286%
-collected_at: 2026-04-17T15:52:19.628691+00:00
+acceptance_rate: "64.286%"
+collected_at: "2026-04-17T15:52:19.628691+00:00"
 ---
 
 ## 문제

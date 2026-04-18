@@ -1,13 +1,13 @@
 ---
-title: 巻物 (Scroll)
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "巻物 (Scroll)"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 252
 accepted: 217
 solved_users: 198
-acceptance_rate: 86.087%
-collected_at: 2026-04-17T16:11:33.636557+00:00
+acceptance_rate: "86.087%"
+collected_at: "2026-04-17T16:11:33.636557+00:00"
 ---
 
 ## 문제

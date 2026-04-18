@@ -1,13 +1,13 @@
 ---
-title: Affine Cipher
-special_judge: false
-time_limit: 5 초
-memory_limit: 256 MB
+title: "Affine Cipher"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "256 MB"
 submissions: 3773
 accepted: 2353
 solved_users: 1881
-acceptance_rate: 64.308%
-collected_at: 2026-04-17T12:42:27.332204+00:00
+acceptance_rate: "64.308%"
+collected_at: "2026-04-17T12:42:27.332204+00:00"
 ---
 
 ## 문제

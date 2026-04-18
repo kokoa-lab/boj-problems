@@ -1,13 +1,13 @@
 ---
-title: Cancel the Trains
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "Cancel the Trains"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 345
 accepted: 312
 solved_users: 288
-acceptance_rate: 90.852%
-collected_at: 2026-04-17T18:03:59.976172+00:00
+acceptance_rate: "90.852%"
+collected_at: "2026-04-17T18:03:59.976172+00:00"
 ---
 
 ## 문제

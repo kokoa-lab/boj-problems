@@ -1,13 +1,13 @@
 ---
-title: 사탕 골고루 먹기
-special_judge: false
-time_limit: 1 초  ( 하단 참고 )
-memory_limit: 512 MB
+title: "사탕 골고루 먹기"
+special_judge: "false"
+time_limit: "1 초  ( 하단 참고 )"
+memory_limit: "512 MB"
 submissions: 100
 accepted: 18
 solved_users: 11
-acceptance_rate: 20.755%
-collected_at: 2026-04-17T17:09:29.474702+00:00
+acceptance_rate: "20.755%"
+collected_at: "2026-04-17T17:09:29.474702+00:00"
 ---
 
 ## 문제

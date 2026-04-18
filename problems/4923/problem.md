@@ -1,13 +1,13 @@
 ---
-title: The Great Sahara
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "The Great Sahara"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 37
 accepted: 19
 solved_users: 15
-acceptance_rate: 57.692%
-collected_at: 2026-04-17T11:10:05.732143+00:00
+acceptance_rate: "57.692%"
+collected_at: "2026-04-17T11:10:05.732143+00:00"
 ---
 
 ## 문제

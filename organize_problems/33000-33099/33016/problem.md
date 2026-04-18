@@ -1,13 +1,13 @@
 ---
-title: Blueprint for Seating
-special_judge: false
-time_limit: 3 초
-memory_limit: 2048 MB
+title: "Blueprint for Seating"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "2048 MB"
 submissions: 42
 accepted: 23
 solved_users: 20
-acceptance_rate: 68.966%
-collected_at: 2026-04-17T20:07:25.275115+00:00
+acceptance_rate: "68.966%"
+collected_at: "2026-04-17T20:07:25.275115+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 베르트랑 공준
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "베르트랑 공준"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 122942
 accepted: 50110
 solved_users: 39966
-acceptance_rate: 40.029%
-collected_at: 2026-04-17T11:10:18.028712+00:00
+acceptance_rate: "40.029%"
+collected_at: "2026-04-17T11:10:18.028712+00:00"
 ---
 
 ## 문제

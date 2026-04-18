@@ -1,13 +1,13 @@
 ---
-title: 2048 (Hard)
-special_judge: false
-time_limit: 1 초  ( 하단 참고 )
-memory_limit: 512 MB
+title: "2048 (Hard)"
+special_judge: "false"
+time_limit: "1 초  ( 하단 참고 )"
+memory_limit: "512 MB"
 submissions: 11581
 accepted: 1523
 solved_users: 832
-acceptance_rate: 13.033%
-collected_at: 2026-04-17T12:50:07.025636+00:00
+acceptance_rate: "13.033%"
+collected_at: "2026-04-17T12:50:07.025636+00:00"
 ---
 
 ## 문제

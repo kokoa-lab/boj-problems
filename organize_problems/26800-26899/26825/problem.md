@@ -1,13 +1,13 @@
 ---
-title: Pisarze
-special_judge: false
-time_limit: 10 초
-memory_limit: 1024 MB
+title: "Pisarze"
+special_judge: "false"
+time_limit: "10 초"
+memory_limit: "1024 MB"
 submissions: 1
 accepted: 0
 solved_users: 0
-acceptance_rate: 0.000%
-collected_at: 2026-04-17T17:51:57.813769+00:00
+acceptance_rate: "0.000%"
+collected_at: "2026-04-17T17:51:57.813769+00:00"
 ---
 
 ## 문제

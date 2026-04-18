@@ -1,13 +1,13 @@
 ---
-title: 눈치게임 A+B! A-B! A+B! 터렛! A+B! 피보나치 함수! A+B! A-B! A+B! 어린 왕자! A+B! ACM Craft! A+B! A-B! A+B! 습격자 초라기! A+B! 벡터 매칭! A+B! A-B! A+B! A/B! A+B! 터렛! A+B! A-B! A+B! 분산처리! A+B! A+B! 마셔라! 마셔라 마셔라! 마셔라 틀이 들어간다!
-special_judge: false
-time_limit: 5 초
-memory_limit: 1024 MB
+title: "눈치게임 A+B! A-B! A+B! 터렛! A+B! 피보나치 함수! A+B! A-B! A+B! 어린 왕자! A+B! ACM Craft! A+B! A-B! A+B! 습격자 초라기! A+B! 벡터 매칭! A+B! A-B! A+B! A/B! A+B! 터렛! A+B! A-B! A+B! 분산처리! A+B! A+B! 마셔라! 마셔라 마셔라! 마셔라 틀이 들어간다!"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "1024 MB"
 submissions: 5155
 accepted: 1597
 solved_users: 1325
-acceptance_rate: 39.850%
-collected_at: 2026-04-17T15:10:03.770351+00:00
+acceptance_rate: "39.850%"
+collected_at: "2026-04-17T15:10:03.770351+00:00"
 ---
 
 ## 입력

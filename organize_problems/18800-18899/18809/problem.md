@@ -1,13 +1,13 @@
 ---
-title: Gaaaaaaaaaarden
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Gaaaaaaaaaarden"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 8116
 accepted: 3743
 solved_users: 2417
-acceptance_rate: 43.107%
-collected_at: 2026-04-17T15:09:53.557675+00:00
+acceptance_rate: "43.107%"
+collected_at: "2026-04-17T15:09:53.557675+00:00"
 ---
 
 ## 문제

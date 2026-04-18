@@ -1,13 +1,13 @@
 ---
-title: 대기업 승범이네
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "대기업 승범이네"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 1331
 accepted: 724
 solved_users: 548
-acceptance_rate: 51.215%
-collected_at: 2026-04-17T14:48:03.917269+00:00
+acceptance_rate: "51.215%"
+collected_at: "2026-04-17T14:48:03.917269+00:00"
 ---
 
 ## 문제

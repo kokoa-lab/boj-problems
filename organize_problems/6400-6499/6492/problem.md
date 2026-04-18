@@ -1,13 +1,13 @@
 ---
-title: Shipping Routes
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Shipping Routes"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 37
 accepted: 31
 solved_users: 31
-acceptance_rate: 86.111%
-collected_at: 2026-04-17T11:29:08.332637+00:00
+acceptance_rate: "86.111%"
+collected_at: "2026-04-17T11:29:08.332637+00:00"
 ---
 
 ## 문제

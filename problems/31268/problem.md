@@ -1,13 +1,13 @@
 ---
-title: 물자 조달
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "물자 조달"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 213
 accepted: 37
 solved_users: 33
-acceptance_rate: 19.186%
-collected_at: 2026-04-17T19:24:56.244788+00:00
+acceptance_rate: "19.186%"
+collected_at: "2026-04-17T19:24:56.244788+00:00"
 ---
 
 ## 문제

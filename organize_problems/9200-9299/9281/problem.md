@@ -1,13 +1,13 @@
 ---
-title: 전차
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "전차"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 78
 accepted: 22
 solved_users: 19
-acceptance_rate: 38.000%
-collected_at: 2026-04-17T12:08:33.480110+00:00
+acceptance_rate: "38.000%"
+collected_at: "2026-04-17T12:08:33.480110+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 두 팀으로 나누기
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "두 팀으로 나누기"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 199
 accepted: 69
 solved_users: 60
-acceptance_rate: 37.500%
-collected_at: 2026-04-17T19:17:39.699119+00:00
+acceptance_rate: "37.500%"
+collected_at: "2026-04-17T19:17:39.699119+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Book Club
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Book Club"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 727
 accepted: 464
 solved_users: 434
-acceptance_rate: 65.758%
-collected_at: 2026-04-17T11:18:46.518404+00:00
+acceptance_rate: "65.758%"
+collected_at: "2026-04-17T11:18:46.518404+00:00"
 ---
 
 ## 문제

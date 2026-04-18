@@ -1,13 +1,13 @@
 ---
-title: Ratownik
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Ratownik"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 733
 accepted: 508
 solved_users: 429
-acceptance_rate: 69.194%
-collected_at: 2026-04-17T12:00:56.390900+00:00
+acceptance_rate: "69.194%"
+collected_at: "2026-04-17T12:00:56.390900+00:00"
 ---
 
 ## 문제

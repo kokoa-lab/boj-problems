@@ -1,13 +1,13 @@
 ---
-title: 가변 배열
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "가변 배열"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 1681
 accepted: 975
 solved_users: 869
-acceptance_rate: 59.972%
-collected_at: 2026-04-17T18:51:38.799370+00:00
+acceptance_rate: "59.972%"
+collected_at: "2026-04-17T18:51:38.799370+00:00"
 ---
 
 ## 문제

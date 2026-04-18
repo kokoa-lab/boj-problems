@@ -1,13 +1,13 @@
 ---
-title: 파인만
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "파인만"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 3568
 accepted: 2837
 solved_users: 2642
-acceptance_rate: 80.919%
-collected_at: 2026-04-17T11:16:53.897459+00:00
+acceptance_rate: "80.919%"
+collected_at: "2026-04-17T11:16:53.897459+00:00"
 ---
 
 ## 문제

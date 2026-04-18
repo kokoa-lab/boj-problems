@@ -1,13 +1,13 @@
 ---
-title: 공간을 만들어 봅시다
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "공간을 만들어 봅시다"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 729
 accepted: 483
 solved_users: 429
-acceptance_rate: 68.421%
-collected_at: 2026-04-17T12:24:09.629657+00:00
+acceptance_rate: "68.421%"
+collected_at: "2026-04-17T12:24:09.629657+00:00"
 ---
 
 ## 문제

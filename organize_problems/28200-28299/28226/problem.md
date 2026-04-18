@@ -1,13 +1,13 @@
 ---
-title: Simplification
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Simplification"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 42
 accepted: 24
 solved_users: 18
-acceptance_rate: 50.000%
-collected_at: 2026-04-17T18:20:30.887438+00:00
+acceptance_rate: "50.000%"
+collected_at: "2026-04-17T18:20:30.887438+00:00"
 ---
 
 ## 문제

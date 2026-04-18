@@ -1,13 +1,13 @@
 ---
-title: 이것도 해결해 보시지
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "이것도 해결해 보시지"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 1301
 accepted: 210
 solved_users: 102
-acceptance_rate: 10.581%
-collected_at: 2026-04-17T13:08:30.902573+00:00
+acceptance_rate: "10.581%"
+collected_at: "2026-04-17T13:08:30.902573+00:00"
 ---
 
 ## 문제

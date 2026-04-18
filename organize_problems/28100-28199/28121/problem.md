@@ -1,13 +1,13 @@
 ---
-title: 산책과 쿼리
-special_judge: false
-time_limit: 3 초 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "산책과 쿼리"
+special_judge: "false"
+time_limit: "3 초 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 642
 accepted: 242
 solved_users: 198
-acceptance_rate: 39.130%
-collected_at: 2026-04-17T18:18:27.307307+00:00
+acceptance_rate: "39.130%"
+collected_at: "2026-04-17T18:18:27.307307+00:00"
 ---
 
 ## 문제

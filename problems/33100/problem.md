@@ -1,13 +1,13 @@
 ---
-title: Horse Carts
-special_judge: false
-time_limit: 1 초
-memory_limit: 2048 MB
+title: "Horse Carts"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "2048 MB"
 submissions: 21
 accepted: 20
 solved_users: 20
-acceptance_rate: 95.238%
-collected_at: 2026-04-17T20:09:25.101935+00:00
+acceptance_rate: "95.238%"
+collected_at: "2026-04-17T20:09:25.101935+00:00"
 ---
 
 ## 문제

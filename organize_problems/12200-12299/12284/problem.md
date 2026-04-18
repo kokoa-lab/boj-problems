@@ -1,13 +1,13 @@
 ---
-title: Spaceship Defence (Small)
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Spaceship Defence (Small)"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 29
 accepted: 24
 solved_users: 22
-acceptance_rate: 95.652%
-collected_at: 2026-04-17T12:53:03.305608+00:00
+acceptance_rate: "95.652%"
+collected_at: "2026-04-17T12:53:03.305608+00:00"
 ---
 
 ## 문제

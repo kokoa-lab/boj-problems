@@ -1,13 +1,13 @@
 ---
-title: 마왕
-special_judge: true
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "마왕"
+special_judge: "true"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 145
 accepted: 84
 solved_users: 83
-acceptance_rate: 63.359%
-collected_at: 2026-04-17T20:54:19.610639+00:00
+acceptance_rate: "63.359%"
+collected_at: "2026-04-17T20:54:19.610639+00:00"
 ---
 
 ## 문제

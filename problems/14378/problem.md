@@ -1,13 +1,13 @@
 ---
-title: Rank and File (Large)
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Rank and File (Large)"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 64
 accepted: 55
 solved_users: 52
-acceptance_rate: 88.136%
-collected_at: 2026-04-17T13:31:34.184994+00:00
+acceptance_rate: "88.136%"
+collected_at: "2026-04-17T13:31:34.184994+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Minor Setback
-special_judge: false
-time_limit: 3 초
-memory_limit: 1024 MB
+title: "Minor Setback"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "1024 MB"
 submissions: 23
 accepted: 15
 solved_users: 13
-acceptance_rate: 61.905%
-collected_at: 2026-04-17T19:20:10.906578+00:00
+acceptance_rate: "61.905%"
+collected_at: "2026-04-17T19:20:10.906578+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Spaceships
-special_judge: false
-time_limit: 10 초
-memory_limit: 256 MB
+title: "Spaceships"
+special_judge: "false"
+time_limit: "10 초"
+memory_limit: "256 MB"
 submissions: 76
 accepted: 56
 solved_users: 41
-acceptance_rate: 78.846%
-collected_at: 2026-04-17T14:46:40.675228+00:00
+acceptance_rate: "78.846%"
+collected_at: "2026-04-17T14:46:40.675228+00:00"
 ---
 
 ## 문제

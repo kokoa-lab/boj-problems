@@ -1,13 +1,13 @@
 ---
-title: Into Cactus
-special_judge: true
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Into Cactus"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 29
 accepted: 18
 solved_users: 16
-acceptance_rate: 66.667%
-collected_at: 2026-04-17T15:48:07.840851+00:00
+acceptance_rate: "66.667%"
+collected_at: "2026-04-17T15:48:07.840851+00:00"
 ---
 
 ## 문제

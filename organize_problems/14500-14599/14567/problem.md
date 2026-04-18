@@ -1,13 +1,13 @@
 ---
-title: 선수과목 (Prerequisite)
-special_judge: false
-time_limit: 5 초
-memory_limit: 256 MB
+title: "선수과목 (Prerequisite)"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "256 MB"
 submissions: 10042
 accepted: 6735
 solved_users: 5085
-acceptance_rate: 66.926%
-collected_at: 2026-04-17T13:38:19.646703+00:00
+acceptance_rate: "66.926%"
+collected_at: "2026-04-17T13:38:19.646703+00:00"
 ---
 
 ## 문제

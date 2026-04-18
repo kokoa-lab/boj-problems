@@ -1,13 +1,13 @@
 ---
-title: Falling Blocks
-special_judge: false
-time_limit: 4 초
-memory_limit: 256 MB
+title: "Falling Blocks"
+special_judge: "false"
+time_limit: "4 초"
+memory_limit: "256 MB"
 submissions: 13
 accepted: 4
 solved_users: 4
-acceptance_rate: 50.000%
-collected_at: 2026-04-17T12:42:43.696858+00:00
+acceptance_rate: "50.000%"
+collected_at: "2026-04-17T12:42:43.696858+00:00"
 ---
 
 ## 문제

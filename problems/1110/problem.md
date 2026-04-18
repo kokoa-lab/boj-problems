@@ -1,13 +1,13 @@
 ---
-title: 더하기 사이클
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "더하기 사이클"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 279574
 accepted: 133880
 solved_users: 109211
-acceptance_rate: 47.824%
-collected_at: 2026-04-17T10:28:16.341139+00:00
+acceptance_rate: "47.824%"
+collected_at: "2026-04-17T10:28:16.341139+00:00"
 ---
 
 ## 문제

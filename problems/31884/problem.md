@@ -1,13 +1,13 @@
 ---
-title: Stacking Sticks
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Stacking Sticks"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 357
 accepted: 236
 solved_users: 202
-acceptance_rate: 67.110%
-collected_at: 2026-04-17T19:38:18.988375+00:00
+acceptance_rate: "67.110%"
+collected_at: "2026-04-17T19:38:18.988375+00:00"
 ---
 
 ## 문제

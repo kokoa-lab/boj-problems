@@ -1,13 +1,13 @@
 ---
-title: Birthday Boy
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Birthday Boy"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 333
 accepted: 133
 solved_users: 119
-acceptance_rate: 43.431%
-collected_at: 2026-04-17T14:15:22.473472+00:00
+acceptance_rate: "43.431%"
+collected_at: "2026-04-17T14:15:22.473472+00:00"
 ---
 
 ## 문제

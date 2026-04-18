@@ -1,13 +1,13 @@
 ---
-title: Happy Travelling
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Happy Travelling"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 132
 accepted: 34
 solved_users: 23
-acceptance_rate: 22.330%
-collected_at: 2026-04-17T17:52:20.923244+00:00
+acceptance_rate: "22.330%"
+collected_at: "2026-04-17T17:52:20.923244+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Vocabulary
-special_judge: false
-time_limit: 5 초
-memory_limit: 256 MB
+title: "Vocabulary"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "256 MB"
 submissions: 164
 accepted: 38
 solved_users: 29
-acceptance_rate: 25.439%
-collected_at: 2026-04-17T12:24:48.391397+00:00
+acceptance_rate: "25.439%"
+collected_at: "2026-04-17T12:24:48.391397+00:00"
 ---
 
 ## 문제

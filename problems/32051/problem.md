@@ -1,13 +1,13 @@
 ---
-title: Billiards
-special_judge: false
-time_limit: 8 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Billiards"
+special_judge: "false"
+time_limit: "8 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 37
 accepted: 19
 solved_users: 11
-acceptance_rate: 78.571%
-collected_at: 2026-04-17T19:41:40.347568+00:00
+acceptance_rate: "78.571%"
+collected_at: "2026-04-17T19:41:40.347568+00:00"
 ---
 
 ## 문제

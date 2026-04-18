@@ -1,13 +1,13 @@
 ---
-title: Academic Distance
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Academic Distance"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 483
 accepted: 423
 solved_users: 395
-acceptance_rate: 87.196%
-collected_at: 2026-04-17T16:42:08.414635+00:00
+acceptance_rate: "87.196%"
+collected_at: "2026-04-17T16:42:08.414635+00:00"
 ---
 
 ## 문제

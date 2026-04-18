@@ -1,13 +1,13 @@
 ---
-title: High Card Low Card (Platinum)
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "High Card Low Card (Platinum)"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 218
 accepted: 111
 solved_users: 97
-acceptance_rate: 54.802%
-collected_at: 2026-04-17T12:48:14.230824+00:00
+acceptance_rate: "54.802%"
+collected_at: "2026-04-17T12:48:14.230824+00:00"
 ---
 
 ## 문제

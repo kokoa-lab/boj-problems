@@ -1,13 +1,13 @@
 ---
-title: 자취방 정하기
-special_judge: false
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "자취방 정하기"
+special_judge: "false"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 376
 accepted: 129
 solved_users: 115
-acceptance_rate: 33.237%
-collected_at: 2026-04-17T17:30:10.180903+00:00
+acceptance_rate: "33.237%"
+collected_at: "2026-04-17T17:30:10.180903+00:00"
 ---
 
 ## 문제

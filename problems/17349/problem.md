@@ -1,13 +1,13 @@
 ---
-title: 1루수가 누구야
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "1루수가 누구야"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 1051
 accepted: 293
 solved_users: 252
-acceptance_rate: 31.619%
-collected_at: 2026-04-17T14:37:40.925544+00:00
+acceptance_rate: "31.619%"
+collected_at: "2026-04-17T14:37:40.925544+00:00"
 ---
 
 ## 문제

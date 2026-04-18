@@ -1,13 +1,13 @@
 ---
-title: 뭐라고? 안들려
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "뭐라고? 안들려"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 381
 accepted: 205
 solved_users: 154
-acceptance_rate: 52.381%
-collected_at: 2026-04-17T18:18:41.637398+00:00
+acceptance_rate: "52.381%"
+collected_at: "2026-04-17T18:18:41.637398+00:00"
 ---
 
 ## 문제

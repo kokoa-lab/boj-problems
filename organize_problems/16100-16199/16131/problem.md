@@ -1,13 +1,13 @@
 ---
-title: 기숙사 서바이벌 (Dormvival Games)
-special_judge: false
-time_limit: 0.5 초 (추가 시간 없음)
-memory_limit: 128 MB
+title: "기숙사 서바이벌 (Dormvival Games)"
+special_judge: "false"
+time_limit: "0.5 초 (추가 시간 없음)"
+memory_limit: "128 MB"
 submissions: 1344
 accepted: 175
 solved_users: 128
-acceptance_rate: 14.579%
-collected_at: 2026-04-17T14:11:59.858621+00:00
+acceptance_rate: "14.579%"
+collected_at: "2026-04-17T14:11:59.858621+00:00"
 ---
 
 ## 문제

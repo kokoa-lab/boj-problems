@@ -1,13 +1,13 @@
 ---
-title: 욕심쟁이 판다
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "욕심쟁이 판다"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 54929
 accepted: 18540
 solved_users: 12391
-acceptance_rate: 30.820%
-collected_at: 2026-04-17T10:36:02.023263+00:00
+acceptance_rate: "30.820%"
+collected_at: "2026-04-17T10:36:02.023263+00:00"
 ---
 
 ## 문제

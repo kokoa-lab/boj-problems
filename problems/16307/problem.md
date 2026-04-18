@@ -1,13 +1,13 @@
 ---
-title: Driver Disagreement
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Driver Disagreement"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 148
 accepted: 73
 solved_users: 68
-acceptance_rate: 57.627%
-collected_at: 2026-04-17T14:15:22.454795+00:00
+acceptance_rate: "57.627%"
+collected_at: "2026-04-17T14:15:22.454795+00:00"
 ---
 
 ## 문제

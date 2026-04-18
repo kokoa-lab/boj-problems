@@ -1,13 +1,13 @@
 ---
-title: Ужин из жуков
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Ужин из жуков"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 17
 accepted: 3
 solved_users: 2
-acceptance_rate: 28.571%
-collected_at: 2026-04-17T18:38:45.101282+00:00
+acceptance_rate: "28.571%"
+collected_at: "2026-04-17T18:38:45.101282+00:00"
 ---
 
 ## 문제

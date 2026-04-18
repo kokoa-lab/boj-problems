@@ -1,13 +1,13 @@
 ---
-title: 오리
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "오리"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 8167
 accepted: 2830
 solved_users: 2160
-acceptance_rate: 34.577%
-collected_at: 2026-04-18T09:50:08.695762+00:00
+acceptance_rate: "34.577%"
+collected_at: "2026-04-18T09:50:08.695762+00:00"
 ---
 
 ## 문제

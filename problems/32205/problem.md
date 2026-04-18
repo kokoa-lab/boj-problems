@@ -1,13 +1,13 @@
 ---
-title: 네모의 꿈
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "네모의 꿈"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 609
 accepted: 390
 solved_users: 302
-acceptance_rate: 63.713%
-collected_at: 2026-04-17T19:45:35.141907+00:00
+acceptance_rate: "63.713%"
+collected_at: "2026-04-17T19:45:35.141907+00:00"
 ---
 
 ## 문제

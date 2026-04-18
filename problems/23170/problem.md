@@ -1,13 +1,13 @@
 ---
-title: Automatic Sprayer 2
-special_judge: true
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Automatic Sprayer 2"
+special_judge: "true"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 90
 accepted: 45
 solved_users: 42
-acceptance_rate: 56.757%
-collected_at: 2026-04-17T16:43:28.952425+00:00
+acceptance_rate: "56.757%"
+collected_at: "2026-04-17T16:43:28.952425+00:00"
 ---
 
 ## 문제

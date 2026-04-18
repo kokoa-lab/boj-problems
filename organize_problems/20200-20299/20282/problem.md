@@ -1,13 +1,13 @@
 ---
-title: Game Show!
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Game Show!"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 375
 accepted: 299
 solved_users: 263
-acceptance_rate: 84.839%
-collected_at: 2026-04-17T15:34:11.414495+00:00
+acceptance_rate: "84.839%"
+collected_at: "2026-04-17T15:34:11.414495+00:00"
 ---
 
 ## 문제

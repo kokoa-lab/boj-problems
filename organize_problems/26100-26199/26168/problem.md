@@ -1,13 +1,13 @@
 ---
-title: 배열 전체 탐색하기
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "배열 전체 탐색하기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 1697
 accepted: 568
 solved_users: 453
-acceptance_rate: 35.782%
-collected_at: 2026-04-17T17:41:17.059552+00:00
+acceptance_rate: "35.782%"
+collected_at: "2026-04-17T17:41:17.059552+00:00"
 ---
 
 ## 문제

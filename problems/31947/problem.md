@@ -1,13 +1,13 @@
 ---
-title: 사다리 게임 만들기
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "사다리 게임 만들기"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 371
 accepted: 148
 solved_users: 134
-acceptance_rate: 41.875%
-collected_at: 2026-04-17T19:39:32.949252+00:00
+acceptance_rate: "41.875%"
+collected_at: "2026-04-17T19:39:32.949252+00:00"
 ---
 
 ## 문제

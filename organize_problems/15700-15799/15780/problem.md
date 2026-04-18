@@ -1,13 +1,13 @@
 ---
-title: 멀티탭 충분하니?
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "멀티탭 충분하니?"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 4668
 accepted: 2645
 solved_users: 2385
-acceptance_rate: 59.715%
-collected_at: 2026-04-17T14:06:26.586342+00:00
+acceptance_rate: "59.715%"
+collected_at: "2026-04-17T14:06:26.586342+00:00"
 ---
 
 ## 문제

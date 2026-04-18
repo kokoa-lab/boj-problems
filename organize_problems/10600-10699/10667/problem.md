@@ -1,13 +1,13 @@
 ---
-title: Hashigo Sama
-special_judge: false
-time_limit: 8 초 (추가 시간 없음)
-memory_limit: 256 MB
+title: "Hashigo Sama"
+special_judge: "false"
+time_limit: "8 초 (추가 시간 없음)"
+memory_limit: "256 MB"
 submissions: 20
 accepted: 4
 solved_users: 3
-acceptance_rate: 15.789%
-collected_at: 2026-04-17T12:27:11.363500+00:00
+acceptance_rate: "15.789%"
+collected_at: "2026-04-17T12:27:11.363500+00:00"
 ---
 
 ## 문제

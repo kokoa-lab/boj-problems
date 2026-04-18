@@ -1,13 +1,13 @@
 ---
-title: 천상용섬
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "천상용섬"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 847
 accepted: 285
 solved_users: 180
-acceptance_rate: 32.316%
-collected_at: 2026-04-17T13:00:54.841402+00:00
+acceptance_rate: "32.316%"
+collected_at: "2026-04-17T13:00:54.841402+00:00"
 ---
 
 ## 문제

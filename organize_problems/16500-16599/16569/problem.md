@@ -1,13 +1,13 @@
 ---
-title: 화산쇄설류
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "화산쇄설류"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 1672
 accepted: 443
 solved_users: 316
-acceptance_rate: 24.726%
-collected_at: 2026-04-17T14:20:16.448997+00:00
+acceptance_rate: "24.726%"
+collected_at: "2026-04-17T14:20:16.448997+00:00"
 ---
 
 ## 문제

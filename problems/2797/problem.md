@@ -1,13 +1,13 @@
 ---
-title: 트램폴린
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "트램폴린"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 225
 accepted: 76
 solved_users: 66
-acceptance_rate: 37.079%
-collected_at: 2026-04-17T10:44:52.767767+00:00
+acceptance_rate: "37.079%"
+collected_at: "2026-04-17T10:44:52.767767+00:00"
 ---
 
 ## 문제

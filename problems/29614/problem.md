@@ -1,13 +1,13 @@
 ---
-title: 학점계산프로그램
-special_judge: true
-time_limit: 1 초
-memory_limit: 512 MB
+title: "학점계산프로그램"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 1273
 accepted: 864
 solved_users: 780
-acceptance_rate: 68.783%
-collected_at: 2026-04-17T18:48:44.487734+00:00
+acceptance_rate: "68.783%"
+collected_at: "2026-04-17T18:48:44.487734+00:00"
 ---
 
 ## 문제

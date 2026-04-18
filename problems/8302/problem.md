@@ -1,13 +1,13 @@
 ---
-title: Map
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Map"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 81
 accepted: 19
 solved_users: 16
-acceptance_rate: 23.881%
-collected_at: 2026-04-17T11:58:14.840989+00:00
+acceptance_rate: "23.881%"
+collected_at: "2026-04-17T11:58:14.840989+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 소수 수열
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "소수 수열"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 447
 accepted: 269
 solved_users: 172
-acceptance_rate: 59.310%
-collected_at: 2026-04-17T19:37:17.315921+00:00
+acceptance_rate: "59.310%"
+collected_at: "2026-04-17T19:37:17.315921+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 주차장
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "주차장"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 2420
 accepted: 1465
 solved_users: 1216
-acceptance_rate: 61.883%
-collected_at: 2026-04-17T11:14:15.504448+00:00
+acceptance_rate: "61.883%"
+collected_at: "2026-04-17T11:14:15.504448+00:00"
 ---
 
 ## 문제

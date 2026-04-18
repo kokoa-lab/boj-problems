@@ -1,13 +1,13 @@
 ---
-title: 정말 간단한 문제
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "정말 간단한 문제"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 558
 accepted: 140
 solved_users: 103
-acceptance_rate: 25.369%
-collected_at: 2026-04-17T20:24:48.827127+00:00
+acceptance_rate: "25.369%"
+collected_at: "2026-04-17T20:24:48.827127+00:00"
 ---
 
 ## 문제

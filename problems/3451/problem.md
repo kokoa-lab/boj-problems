@@ -1,13 +1,13 @@
 ---
-title: Easy Task
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Easy Task"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 78
 accepted: 47
 solved_users: 40
-acceptance_rate: 60.606%
-collected_at: 2026-04-17T10:48:58.826094+00:00
+acceptance_rate: "60.606%"
+collected_at: "2026-04-17T10:48:58.826094+00:00"
 ---
 
 ## 문제

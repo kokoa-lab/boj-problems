@@ -1,13 +1,13 @@
 ---
-title: 물건 팔기
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "물건 팔기"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 2725
 accepted: 1162
 solved_users: 989
-acceptance_rate: 46.129%
-collected_at: 2026-04-17T10:30:33.798328+00:00
+acceptance_rate: "46.129%"
+collected_at: "2026-04-17T10:30:33.798328+00:00"
 ---
 
 ## 문제

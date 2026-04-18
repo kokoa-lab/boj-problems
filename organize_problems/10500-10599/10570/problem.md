@@ -1,13 +1,13 @@
 ---
-title: Favorite Number
-special_judge: false
-time_limit: 5 초
-memory_limit: 256 MB
+title: "Favorite Number"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "256 MB"
 submissions: 1778
 accepted: 1192
 solved_users: 1038
-acceptance_rate: 67.490%
-collected_at: 2026-04-17T12:25:46.579652+00:00
+acceptance_rate: "67.490%"
+collected_at: "2026-04-17T12:25:46.579652+00:00"
 ---
 
 ## 문제

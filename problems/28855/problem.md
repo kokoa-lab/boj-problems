@@ -1,13 +1,13 @@
 ---
-title: Плеер Кингсманов
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Плеер Кингсманов"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 42
 accepted: 27
 solved_users: 19
-acceptance_rate: 76.000%
-collected_at: 2026-04-17T18:33:37.329473+00:00
+acceptance_rate: "76.000%"
+collected_at: "2026-04-17T18:33:37.329473+00:00"
 ---
 
 ## 문제

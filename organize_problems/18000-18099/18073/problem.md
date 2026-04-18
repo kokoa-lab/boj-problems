@@ -1,13 +1,13 @@
 ---
-title: Golf Time
-special_judge: false
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "Golf Time"
+special_judge: "false"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 60
 accepted: 16
 solved_users: 8
-acceptance_rate: 24.242%
-collected_at: 2026-04-17T14:55:05.869135+00:00
+acceptance_rate: "24.242%"
+collected_at: "2026-04-17T14:55:05.869135+00:00"
 ---
 
 ## 문제

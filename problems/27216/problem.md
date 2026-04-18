@@ -1,13 +1,13 @@
 ---
-title: Хаотические разбиения
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Хаотические разбиения"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 28
 accepted: 22
 solved_users: 18
-acceptance_rate: 78.261%
-collected_at: 2026-04-17T17:58:29.366344+00:00
+acceptance_rate: "78.261%"
+collected_at: "2026-04-17T17:58:29.366344+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: YODA
-special_judge: false
-time_limit: 1 초
-memory_limit: 64 MB
+title: "YODA"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "64 MB"
 submissions: 442
 accepted: 300
 solved_users: 282
-acceptance_rate: 70.500%
-collected_at: 2026-04-17T12:46:19.331328+00:00
+acceptance_rate: "70.500%"
+collected_at: "2026-04-17T12:46:19.331328+00:00"
 ---
 
 ## 문제

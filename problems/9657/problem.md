@@ -1,13 +1,13 @@
 ---
-title: 돌 게임 3
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "돌 게임 3"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 16876
 accepted: 7568
 solved_users: 6522
-acceptance_rate: 46.917%
-collected_at: 2026-04-17T12:12:34.947691+00:00
+acceptance_rate: "46.917%"
+collected_at: "2026-04-17T12:12:34.947691+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Distribution Center
-special_judge: false
-time_limit: 4 초
-memory_limit: 2048 MB
+title: "Distribution Center"
+special_judge: "false"
+time_limit: "4 초"
+memory_limit: "2048 MB"
 submissions: 9
 accepted: 8
 solved_users: 4
-acceptance_rate: 80.000%
-collected_at: 2026-04-17T20:11:57.262923+00:00
+acceptance_rate: "80.000%"
+collected_at: "2026-04-17T20:11:57.262923+00:00"
 ---
 
 ## 문제

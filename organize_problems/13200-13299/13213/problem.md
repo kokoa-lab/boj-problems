@@ -1,13 +1,13 @@
 ---
-title: Binary Roads
-special_judge: false
-time_limit: 3 초
-memory_limit: 64 MB
+title: "Binary Roads"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "64 MB"
 submissions: 113
 accepted: 60
 solved_users: 52
-acceptance_rate: 65.823%
-collected_at: 2026-04-17T13:09:20.720549+00:00
+acceptance_rate: "65.823%"
+collected_at: "2026-04-17T13:09:20.720549+00:00"
 ---
 
 ## 문제

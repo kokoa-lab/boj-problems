@@ -1,13 +1,13 @@
 ---
-title: 어? 금지
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "어? 금지"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 807
 accepted: 270
 solved_users: 226
-acceptance_rate: 34.877%
-collected_at: 2026-04-17T19:10:54.244810+00:00
+acceptance_rate: "34.877%"
+collected_at: "2026-04-17T19:10:54.244810+00:00"
 ---
 
 ## 문제

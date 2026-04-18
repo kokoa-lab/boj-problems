@@ -1,13 +1,13 @@
 ---
-title: Album of Numbers
-special_judge: true
-time_limit: 3 초
-memory_limit: 128 MB
+title: "Album of Numbers"
+special_judge: "true"
+time_limit: "3 초"
+memory_limit: "128 MB"
 submissions: 2
 accepted: 2
 solved_users: 2
-acceptance_rate: 100.000%
-collected_at: 2026-04-17T17:18:17.707425+00:00
+acceptance_rate: "100.000%"
+collected_at: "2026-04-17T17:18:17.707425+00:00"
 ---
 
 ## 문제

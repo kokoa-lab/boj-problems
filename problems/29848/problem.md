@@ -1,13 +1,13 @@
 ---
-title: Broken Piano
-special_judge: false
-time_limit: 0.5 초
-memory_limit: 1024 MB
+title: "Broken Piano"
+special_judge: "false"
+time_limit: "0.5 초"
+memory_limit: "1024 MB"
 submissions: 22
 accepted: 18
 solved_users: 13
-acceptance_rate: 86.667%
-collected_at: 2026-04-17T18:54:07.515285+00:00
+acceptance_rate: "86.667%"
+collected_at: "2026-04-17T18:54:07.515285+00:00"
 ---
 
 ## 문제

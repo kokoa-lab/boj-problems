@@ -1,13 +1,13 @@
 ---
-title: Threatening Letter
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Threatening Letter"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 53
 accepted: 27
 solved_users: 21
-acceptance_rate: 47.727%
-collected_at: 2026-04-17T11:18:45.364302+00:00
+acceptance_rate: "47.727%"
+collected_at: "2026-04-17T11:18:45.364302+00:00"
 ---
 
 ## 문제

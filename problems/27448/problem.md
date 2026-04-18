@@ -1,13 +1,13 @@
 ---
-title: 체인소 맨
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "체인소 맨"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 124
 accepted: 71
 solved_users: 69
-acceptance_rate: 61.607%
-collected_at: 2026-04-17T18:03:16.227467+00:00
+acceptance_rate: "61.607%"
+collected_at: "2026-04-17T18:03:16.227467+00:00"
 ---
 
 ## 문제

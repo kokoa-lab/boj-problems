@@ -1,13 +1,13 @@
 ---
-title: Jupiter Orbiter
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Jupiter Orbiter"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 180
 accepted: 47
 solved_users: 37
-acceptance_rate: 31.897%
-collected_at: 2026-04-17T13:22:36.108013+00:00
+acceptance_rate: "31.897%"
+collected_at: "2026-04-17T13:22:36.108013+00:00"
 ---
 
 ## 문제

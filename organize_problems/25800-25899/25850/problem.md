@@ -1,13 +1,13 @@
 ---
-title: A Game Called Mind
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "A Game Called Mind"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 258
 accepted: 227
 solved_users: 201
-acceptance_rate: 87.013%
-collected_at: 2026-04-17T17:34:43.214236+00:00
+acceptance_rate: "87.013%"
+collected_at: "2026-04-17T17:34:43.214236+00:00"
 ---
 
 ## 문제

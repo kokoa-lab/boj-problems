@@ -1,13 +1,13 @@
 ---
-title: Values on a Tree
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Values on a Tree"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 50
 accepted: 18
 solved_users: 8
-acceptance_rate: 34.783%
-collected_at: 2026-04-17T15:20:53.608799+00:00
+acceptance_rate: "34.783%"
+collected_at: "2026-04-17T15:20:53.608799+00:00"
 ---
 
 ## 문제

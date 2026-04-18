@@ -1,13 +1,13 @@
 ---
-title: Strongbox
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Strongbox"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 79
 accepted: 19
 solved_users: 15
-acceptance_rate: 28.302%
-collected_at: 2026-04-17T11:57:14.753204+00:00
+acceptance_rate: "28.302%"
+collected_at: "2026-04-17T11:57:14.753204+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Undercut
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Undercut"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 299
 accepted: 224
 solved_users: 200
-acceptance_rate: 74.074%
-collected_at: 2026-04-17T11:48:39.705924+00:00
+acceptance_rate: "74.074%"
+collected_at: "2026-04-17T11:48:39.705924+00:00"
 ---
 
 ## 문제

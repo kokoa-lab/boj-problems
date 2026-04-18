@@ -1,13 +1,13 @@
 ---
-title: 데굴데굴
-special_judge: false
-time_limit: 2.5 초
-memory_limit: 512 MB
+title: "데굴데굴"
+special_judge: "false"
+time_limit: "2.5 초"
+memory_limit: "512 MB"
 submissions: 114
 accepted: 35
 solved_users: 24
-acceptance_rate: 26.087%
-collected_at: 2026-04-17T13:40:35.922807+00:00
+acceptance_rate: "26.087%"
+collected_at: "2026-04-17T13:40:35.922807+00:00"
 ---
 
 ## 문제

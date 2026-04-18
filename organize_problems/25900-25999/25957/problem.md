@@ -1,13 +1,13 @@
 ---
-title: 단어 우월 효과 (캠브릿지 대학의 연구결과)
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "단어 우월 효과 (캠브릿지 대학의 연구결과)"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 1716
 accepted: 460
 solved_users: 372
-acceptance_rate: 29.500%
-collected_at: 2026-04-17T17:37:38.085399+00:00
+acceptance_rate: "29.500%"
+collected_at: "2026-04-17T17:37:38.085399+00:00"
 ---
 
 ## 문제

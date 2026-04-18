@@ -1,13 +1,13 @@
 ---
-title: Product Triplets
-special_judge: false
-time_limit: 40 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Product Triplets"
+special_judge: "false"
+time_limit: "40 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 128
 accepted: 37
 solved_users: 26
-acceptance_rate: 27.660%
-collected_at: 2026-04-17T17:00:03.750080+00:00
+acceptance_rate: "27.660%"
+collected_at: "2026-04-17T17:00:03.750080+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Round Robin
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Round Robin"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 412
 accepted: 162
 solved_users: 135
-acceptance_rate: 43.408%
-collected_at: 2026-04-17T12:09:49.513999+00:00
+acceptance_rate: "43.408%"
+collected_at: "2026-04-17T12:09:49.513999+00:00"
 ---
 
 ## 문제

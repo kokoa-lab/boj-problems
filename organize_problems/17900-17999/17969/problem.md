@@ -1,13 +1,13 @@
 ---
-title: Gene Tree
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Gene Tree"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 390
 accepted: 231
 solved_users: 179
-acceptance_rate: 63.251%
-collected_at: 2026-04-17T14:51:10.522481+00:00
+acceptance_rate: "63.251%"
+collected_at: "2026-04-17T14:51:10.522481+00:00"
 ---
 
 ## 문제

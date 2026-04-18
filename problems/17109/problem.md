@@ -1,13 +1,13 @@
 ---
-title: 연결그래프의 모든 간선의 저항이 1Ω일 경우 간선으로 직접 이어진 모든 쌍의 점 A, B 에 대해 A와 B 사이의 합성저항 값의 총합을 구한 뒤 소수점 넷째자리에서 반올림한 값을 출력하는 문제
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "연결그래프의 모든 간선의 저항이 1Ω일 경우 간선으로 직접 이어진 모든 쌍의 점 A, B 에 대해 A와 B 사이의 합성저항 값의 총합을 구한 뒤 소수점 넷째자리에서 반올림한 값을 출력하는 문제"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 917
 accepted: 293
 solved_users: 234
-acceptance_rate: 35.241%
-collected_at: 2026-04-17T14:29:48.454139+00:00
+acceptance_rate: "35.241%"
+collected_at: "2026-04-17T14:29:48.454139+00:00"
 ---
 
 ## 문제

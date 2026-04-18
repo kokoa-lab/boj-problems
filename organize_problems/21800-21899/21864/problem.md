@@ -1,13 +1,13 @@
 ---
-title: 이산로그가 장난이냐?
-special_judge: false
-time_limit: 10 초
-memory_limit: 512 MB
+title: "이산로그가 장난이냐?"
+special_judge: "false"
+time_limit: "10 초"
+memory_limit: "512 MB"
 submissions: 86
 accepted: 58
 solved_users: 37
-acceptance_rate: 77.083%
-collected_at: 2026-04-17T16:09:00.726154+00:00
+acceptance_rate: "77.083%"
+collected_at: "2026-04-17T16:09:00.726154+00:00"
 ---
 
 ## 문제

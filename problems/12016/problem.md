@@ -1,13 +1,13 @@
 ---
-title: 라운드 로빈 스케줄러
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "라운드 로빈 스케줄러"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 1336
 accepted: 575
 solved_users: 431
-acceptance_rate: 50.116%
-collected_at: 2026-04-17T12:48:58.150546+00:00
+acceptance_rate: "50.116%"
+collected_at: "2026-04-17T12:48:58.150546+00:00"
 ---
 
 ## 문제

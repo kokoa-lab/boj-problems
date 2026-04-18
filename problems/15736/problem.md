@@ -1,13 +1,13 @@
 ---
-title: 청기 백기
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "청기 백기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 2902
 accepted: 1762
 solved_users: 1462
-acceptance_rate: 60.891%
-collected_at: 2026-04-17T14:05:22.124214+00:00
+acceptance_rate: "60.891%"
+collected_at: "2026-04-17T14:05:22.124214+00:00"
 ---
 
 ## 문제

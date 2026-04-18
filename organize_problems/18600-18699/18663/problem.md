@@ -1,13 +1,13 @@
 ---
-title: Steel Ball Run
-special_judge: false
-time_limit: 4 초
-memory_limit: 512 MB
+title: "Steel Ball Run"
+special_judge: "false"
+time_limit: "4 초"
+memory_limit: "512 MB"
 submissions: 20
 accepted: 10
 solved_users: 10
-acceptance_rate: 58.824%
-collected_at: 2026-04-17T15:07:44.242394+00:00
+acceptance_rate: "58.824%"
+collected_at: "2026-04-17T15:07:44.242394+00:00"
 ---
 
 ## 문제

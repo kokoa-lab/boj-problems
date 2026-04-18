@@ -1,13 +1,13 @@
 ---
-title: 근손실
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "근손실"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 7640
 accepted: 5043
 solved_users: 4191
-acceptance_rate: 65.700%
-collected_at: 2026-04-17T15:04:29.558542+00:00
+acceptance_rate: "65.700%"
+collected_at: "2026-04-17T15:04:29.558542+00:00"
 ---
 
 ## 문제

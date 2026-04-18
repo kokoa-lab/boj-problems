@@ -1,13 +1,13 @@
 ---
-title: 중복된 숫자
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "중복된 숫자"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 11231
 accepted: 2597
 solved_users: 1763
-acceptance_rate: 23.088%
-collected_at: 2026-04-17T14:05:02.004508+00:00
+acceptance_rate: "23.088%"
+collected_at: "2026-04-17T14:05:02.004508+00:00"
 ---
 
 ## 문제

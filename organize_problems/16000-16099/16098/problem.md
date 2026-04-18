@@ -1,13 +1,13 @@
 ---
-title: Commuting Mathematicians
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Commuting Mathematicians"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 24
 accepted: 10
 solved_users: 9
-acceptance_rate: 39.130%
-collected_at: 2026-04-17T14:11:33.643264+00:00
+acceptance_rate: "39.130%"
+collected_at: "2026-04-17T14:11:33.643264+00:00"
 ---
 
 ## 문제

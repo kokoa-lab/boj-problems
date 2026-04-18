@@ -1,13 +1,13 @@
 ---
-title: Laws
-special_judge: true
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 256 MB
+title: "Laws"
+special_judge: "true"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "256 MB"
 submissions: 14
 accepted: 3
 solved_users: 3
-acceptance_rate: 60.000%
-collected_at: 2026-04-17T16:51:45.416758+00:00
+acceptance_rate: "60.000%"
+collected_at: "2026-04-17T16:51:45.416758+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Ruben Spawns
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Ruben Spawns"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 34
 accepted: 30
 solved_users: 28
-acceptance_rate: 90.323%
-collected_at: 2026-04-17T12:37:23.527625+00:00
+acceptance_rate: "90.323%"
+collected_at: "2026-04-17T12:37:23.527625+00:00"
 ---
 
 ## 문제

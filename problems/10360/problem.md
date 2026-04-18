@@ -1,13 +1,13 @@
 ---
-title: The Mountain of Gold?
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "The Mountain of Gold?"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 1036
 accepted: 230
 solved_users: 155
-acceptance_rate: 22.143%
-collected_at: 2026-04-17T12:22:36.268948+00:00
+acceptance_rate: "22.143%"
+collected_at: "2026-04-17T12:22:36.268948+00:00"
 ---
 
 ## 문제

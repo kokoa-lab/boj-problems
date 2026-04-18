@@ -1,13 +1,13 @@
 ---
-title: MatKor짱~ 하-이! 나니가스키? 장카설유 요리모 장파서유!
-special_judge: false
-time_limit: 1.16 초 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "MatKor짱~ 하-이! 나니가스키? 장카설유 요리모 장파서유!"
+special_judge: "false"
+time_limit: "1.16 초 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 76
 accepted: 7
 solved_users: 6
-acceptance_rate: 16.216%
-collected_at: 2026-04-17T20:32:37.772719+00:00
+acceptance_rate: "16.216%"
+collected_at: "2026-04-17T20:32:37.772719+00:00"
 ---
 
 ## 문제

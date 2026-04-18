@@ -1,13 +1,13 @@
 ---
-title: 매트
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "매트"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 638
 accepted: 183
 solved_users: 102
-acceptance_rate: 26.494%
-collected_at: 2026-04-17T12:30:18.321002+00:00
+acceptance_rate: "26.494%"
+collected_at: "2026-04-17T12:30:18.321002+00:00"
 ---
 
 ## 문제

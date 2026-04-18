@@ -1,13 +1,13 @@
 ---
-title: 준혁이의 자취방 꾸미기
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "준혁이의 자취방 꾸미기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 17
 accepted: 8
 solved_users: 7
-acceptance_rate: 77.778%
-collected_at: 2026-04-17T18:31:05.306935+00:00
+acceptance_rate: "77.778%"
+collected_at: "2026-04-17T18:31:05.306935+00:00"
 ---
 
 ## 문제

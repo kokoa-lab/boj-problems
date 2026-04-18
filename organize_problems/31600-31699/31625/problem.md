@@ -1,13 +1,13 @@
 ---
-title: Marathon Race 2
-special_judge: false
-time_limit: 1.5 초
-memory_limit: 1024 MB
+title: "Marathon Race 2"
+special_judge: "false"
+time_limit: "1.5 초"
+memory_limit: "1024 MB"
 submissions: 145
 accepted: 39
 solved_users: 34
-acceptance_rate: 26.772%
-collected_at: 2026-04-17T19:32:09.758253+00:00
+acceptance_rate: "26.772%"
+collected_at: "2026-04-17T19:32:09.758253+00:00"
 ---
 
 ## 문제

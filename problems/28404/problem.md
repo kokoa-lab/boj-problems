@@ -1,13 +1,13 @@
 ---
-title: 피보나치 반반수열
-special_judge: false
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "피보나치 반반수열"
+special_judge: "false"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 282
 accepted: 98
 solved_users: 85
-acceptance_rate: 39.906%
-collected_at: 2026-04-17T18:25:57.564747+00:00
+acceptance_rate: "39.906%"
+collected_at: "2026-04-17T18:25:57.564747+00:00"
 ---
 
 ## 문제

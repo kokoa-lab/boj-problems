@@ -1,13 +1,13 @@
 ---
-title: 명장 남정훈
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "명장 남정훈"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 3070
 accepted: 1852
 solved_users: 1724
-acceptance_rate: 62.782%
-collected_at: 2026-04-17T14:05:23.714403+00:00
+acceptance_rate: "62.782%"
+collected_at: "2026-04-17T14:05:23.714403+00:00"
 ---
 
 ## 문제

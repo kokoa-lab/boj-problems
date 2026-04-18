@@ -1,13 +1,13 @@
 ---
-title: 주몽
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "주몽"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 49068
 accepted: 24397
 solved_users: 17055
-acceptance_rate: 48.117%
-collected_at: 2026-04-17T10:36:08.398364+00:00
+acceptance_rate: "48.117%"
+collected_at: "2026-04-17T10:36:08.398364+00:00"
 ---
 
 ## 문제

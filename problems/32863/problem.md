@@ -1,13 +1,13 @@
 ---
-title: 점과 원
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "점과 원"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 67
 accepted: 41
 solved_users: 29
-acceptance_rate: 54.717%
-collected_at: 2026-04-17T20:02:53.340557+00:00
+acceptance_rate: "54.717%"
+collected_at: "2026-04-17T20:02:53.340557+00:00"
 ---
 
 ## 문제

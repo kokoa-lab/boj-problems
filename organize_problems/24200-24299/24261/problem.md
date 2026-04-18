@@ -1,13 +1,13 @@
 ---
-title: Same Sum Subsequences
-special_judge: true
-time_limit: 0.4 초
-memory_limit: 1024 MB
+title: "Same Sum Subsequences"
+special_judge: "true"
+time_limit: "0.4 초"
+memory_limit: "1024 MB"
 submissions: 205
 accepted: 70
 solved_users: 59
-acceptance_rate: 34.302%
-collected_at: 2026-04-17T17:06:35.459557+00:00
+acceptance_rate: "34.302%"
+collected_at: "2026-04-17T17:06:35.459557+00:00"
 ---
 
 ## 문제

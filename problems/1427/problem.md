@@ -1,13 +1,13 @@
 ---
-title: 소트인사이드
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "소트인사이드"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 126078
 accepted: 83221
 solved_users: 68208
-acceptance_rate: 66.203%
-collected_at: 2026-04-17T10:30:06.992098+00:00
+acceptance_rate: "66.203%"
+collected_at: "2026-04-17T10:30:06.992098+00:00"
 ---
 
 ## 문제

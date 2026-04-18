@@ -1,13 +1,13 @@
 ---
-title: Railways
-special_judge: false
-time_limit: 3 초
-memory_limit: 128 MB
+title: "Railways"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "128 MB"
 submissions: 23
 accepted: 11
 solved_users: 10
-acceptance_rate: 55.556%
-collected_at: 2026-04-17T11:55:07.322878+00:00
+acceptance_rate: "55.556%"
+collected_at: "2026-04-17T11:55:07.322878+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 나무 위의 벌레
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "나무 위의 벌레"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 2574
 accepted: 457
 solved_users: 325
-acceptance_rate: 19.129%
-collected_at: 2026-04-17T10:38:43.690816+00:00
+acceptance_rate: "19.129%"
+collected_at: "2026-04-17T10:38:43.690816+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 크레용
-special_judge: true
-time_limit: 5 초
-memory_limit: 160 MB
+title: "크레용"
+special_judge: "true"
+time_limit: "5 초"
+memory_limit: "160 MB"
 submissions: 436
 accepted: 154
 solved_users: 106
-acceptance_rate: 34.983%
-collected_at: 2026-04-17T10:44:56.129070+00:00
+acceptance_rate: "34.983%"
+collected_at: "2026-04-17T10:44:56.129070+00:00"
 ---
 
 ## 문제

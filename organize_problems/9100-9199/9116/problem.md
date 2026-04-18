@@ -1,13 +1,13 @@
 ---
-title: Mineshaft
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Mineshaft"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 21
 accepted: 1
 solved_users: 1
-acceptance_rate: 5.882%
-collected_at: 2026-04-17T12:07:12.228122+00:00
+acceptance_rate: "5.882%"
+collected_at: "2026-04-17T12:07:12.228122+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 루미의 28번째 생일
-special_judge: false
-time_limit: 2.8 초
-memory_limit: 329 MB
+title: "루미의 28번째 생일"
+special_judge: "false"
+time_limit: "2.8 초"
+memory_limit: "329 MB"
 submissions: 106
 accepted: 19
 solved_users: 16
-acceptance_rate: 30.769%
-collected_at: 2026-04-17T20:21:10.790663+00:00
+acceptance_rate: "30.769%"
+collected_at: "2026-04-17T20:21:10.790663+00:00"
 ---
 
 ## 문제

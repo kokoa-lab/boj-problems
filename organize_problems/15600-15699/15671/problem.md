@@ -1,13 +1,13 @@
 ---
-title: 오델로
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "오델로"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 1087
 accepted: 474
 solved_users: 389
-acceptance_rate: 41.783%
-collected_at: 2026-04-17T14:03:51.573702+00:00
+acceptance_rate: "41.783%"
+collected_at: "2026-04-17T14:03:51.573702+00:00"
 ---
 
 ## 문제

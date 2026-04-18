@@ -1,13 +1,13 @@
 ---
-title: 승형이의 사탕 사기
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "승형이의 사탕 사기"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 514
 accepted: 256
 solved_users: 191
-acceptance_rate: 49.354%
-collected_at: 2026-04-17T18:17:40.930758+00:00
+acceptance_rate: "49.354%"
+collected_at: "2026-04-17T18:17:40.930758+00:00"
 ---
 
 ## 문제

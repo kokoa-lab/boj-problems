@@ -1,13 +1,13 @@
 ---
-title: 미로 만들기
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "미로 만들기"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 5275
 accepted: 3009
 solved_users: 2602
-acceptance_rate: 58.617%
-collected_at: 2026-04-17T10:29:35.909308+00:00
+acceptance_rate: "58.617%"
+collected_at: "2026-04-17T10:29:35.909308+00:00"
 ---
 
 ## 문제

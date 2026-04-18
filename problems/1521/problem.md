@@ -1,13 +1,13 @@
 ---
-title: 랜덤 소트
-special_judge: true
-time_limit: 2 초
-memory_limit: 128 MB
+title: "랜덤 소트"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 375
 accepted: 230
 solved_users: 179
-acceptance_rate: 64.855%
-collected_at: 2026-04-17T10:30:50.280304+00:00
+acceptance_rate: "64.855%"
+collected_at: "2026-04-17T10:30:50.280304+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Race
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "Race"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 8
 accepted: 0
 solved_users: 0
-acceptance_rate: 0.000%
-collected_at: 2026-04-17T12:40:26.531695+00:00
+acceptance_rate: "0.000%"
+collected_at: "2026-04-17T12:40:26.531695+00:00"
 ---
 
 ## 문제

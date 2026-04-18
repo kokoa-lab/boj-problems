@@ -1,13 +1,13 @@
 ---
-title: 그건 가지가 아니라 대파예요
-special_judge: false
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "그건 가지가 아니라 대파예요"
+special_judge: "false"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 192
 accepted: 57
 solved_users: 42
-acceptance_rate: 27.815%
-collected_at: 2026-04-17T18:26:03.428004+00:00
+acceptance_rate: "27.815%"
+collected_at: "2026-04-17T18:26:03.428004+00:00"
 ---
 
 ## 문제

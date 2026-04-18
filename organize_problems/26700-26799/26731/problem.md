@@ -1,13 +1,13 @@
 ---
-title: Zagubiona litera
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Zagubiona litera"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 1214
 accepted: 967
 solved_users: 880
-acceptance_rate: 80.292%
-collected_at: 2026-04-17T17:50:35.229474+00:00
+acceptance_rate: "80.292%"
+collected_at: "2026-04-17T17:50:35.229474+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Bronze Lilypad Pond
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Bronze Lilypad Pond"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 241
 accepted: 133
 solved_users: 124
-acceptance_rate: 55.856%
-collected_at: 2026-04-17T11:23:16.746159+00:00
+acceptance_rate: "55.856%"
+collected_at: "2026-04-17T11:23:16.746159+00:00"
 ---
 
 ## 문제

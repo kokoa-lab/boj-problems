@@ -1,13 +1,13 @@
 ---
-title: Balatro
-special_judge: false
-time_limit: 12 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Balatro"
+special_judge: "false"
+time_limit: "12 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 59
 accepted: 22
 solved_users: 12
-acceptance_rate: 35.294%
-collected_at: 2026-04-17T19:52:38.021683+00:00
+acceptance_rate: "35.294%"
+collected_at: "2026-04-17T19:52:38.021683+00:00"
 ---
 
 ## 문제

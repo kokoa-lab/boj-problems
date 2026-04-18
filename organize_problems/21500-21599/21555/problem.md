@@ -1,13 +1,13 @@
 ---
-title: 빛의 돌 옮기기
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "빛의 돌 옮기기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 587
 accepted: 322
 solved_users: 284
-acceptance_rate: 60.297%
-collected_at: 2026-04-17T16:00:08.602706+00:00
+acceptance_rate: "60.297%"
+collected_at: "2026-04-17T16:00:08.602706+00:00"
 ---
 
 ## 문제

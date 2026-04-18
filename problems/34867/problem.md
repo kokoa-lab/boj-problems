@@ -1,13 +1,13 @@
 ---
-title: Fair Problemset
-special_judge: false
-time_limit: 8 초
-memory_limit: 2048 MB
+title: "Fair Problemset"
+special_judge: "false"
+time_limit: "8 초"
+memory_limit: "2048 MB"
 submissions: 52
 accepted: 27
 solved_users: 17
-acceptance_rate: 45.946%
-collected_at: 2026-04-17T20:50:52.035716+00:00
+acceptance_rate: "45.946%"
+collected_at: "2026-04-17T20:50:52.035716+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 이진 수열 회전
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "이진 수열 회전"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 211
 accepted: 49
 solved_users: 27
-acceptance_rate: 21.600%
-collected_at: 2026-04-17T10:40:47.403330+00:00
+acceptance_rate: "21.600%"
+collected_at: "2026-04-17T10:40:47.403330+00:00"
 ---
 
 ## 문제

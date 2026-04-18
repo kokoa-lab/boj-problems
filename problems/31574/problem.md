@@ -1,13 +1,13 @@
 ---
-title: 개미와 비트코인
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "개미와 비트코인"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 220
 accepted: 34
 solved_users: 28
-acceptance_rate: 23.140%
-collected_at: 2026-04-17T19:31:12.916812+00:00
+acceptance_rate: "23.140%"
+collected_at: "2026-04-17T19:31:12.916812+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 집합 숫자 표기법
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "집합 숫자 표기법"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 552
 accepted: 397
 solved_users: 299
-acceptance_rate: 72.048%
-collected_at: 2026-04-17T11:09:18.466913+00:00
+acceptance_rate: "72.048%"
+collected_at: "2026-04-17T11:09:18.466913+00:00"
 ---
 
 ## 문제

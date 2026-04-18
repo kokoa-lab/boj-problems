@@ -1,13 +1,13 @@
 ---
-title: Checkerboard Rows
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Checkerboard Rows"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 690
 accepted: 395
 solved_users: 361
-acceptance_rate: 56.406%
-collected_at: 2026-04-17T11:12:37.047010+00:00
+acceptance_rate: "56.406%"
+collected_at: "2026-04-17T11:12:37.047010+00:00"
 ---
 
 ## 문제

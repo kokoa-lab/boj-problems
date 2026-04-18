@@ -1,13 +1,13 @@
 ---
-title: 선분 위의 점
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "선분 위의 점"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 7066
 accepted: 2716
 solved_users: 2027
-acceptance_rate: 37.712%
-collected_at: 2026-04-17T12:43:43.043796+00:00
+acceptance_rate: "37.712%"
+collected_at: "2026-04-17T12:43:43.043796+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 육각형 순회
-special_judge: true
-time_limit: 2 초
-memory_limit: 512 MB
+title: "육각형 순회"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 115
 accepted: 60
 solved_users: 51
-acceptance_rate: 55.435%
-collected_at: 2026-04-17T18:21:53.815557+00:00
+acceptance_rate: "55.435%"
+collected_at: "2026-04-17T18:21:53.815557+00:00"
 ---
 
 ## 문제

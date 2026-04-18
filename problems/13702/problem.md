@@ -1,13 +1,13 @@
 ---
-title: 이상한 술집
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "이상한 술집"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 9915
 accepted: 3087
 solved_users: 2328
-acceptance_rate: 31.065%
-collected_at: 2026-04-17T13:17:37.725156+00:00
+acceptance_rate: "31.065%"
+collected_at: "2026-04-17T13:17:37.725156+00:00"
 ---
 
 ## 문제

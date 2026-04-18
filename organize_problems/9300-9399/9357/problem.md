@@ -1,13 +1,13 @@
 ---
-title: Eligibility
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Eligibility"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 515
 accepted: 120
 solved_users: 77
-acceptance_rate: 19.593%
-collected_at: 2026-04-17T12:09:13.234960+00:00
+acceptance_rate: "19.593%"
+collected_at: "2026-04-17T12:09:13.234960+00:00"
 ---
 
 ## 문제

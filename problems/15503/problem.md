@@ -1,13 +1,13 @@
 ---
-title: 레벨 배치하기
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "레벨 배치하기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 243
 accepted: 62
 solved_users: 56
-acceptance_rate: 34.356%
-collected_at: 2026-04-17T14:00:34.735829+00:00
+acceptance_rate: "34.356%"
+collected_at: "2026-04-17T14:00:34.735829+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Level Up
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "Level Up"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 242
 accepted: 56
 solved_users: 48
-acceptance_rate: 29.448%
-collected_at: 2026-04-17T14:50:49.521313+00:00
+acceptance_rate: "29.448%"
+collected_at: "2026-04-17T14:50:49.521313+00:00"
 ---
 
 ## 문제

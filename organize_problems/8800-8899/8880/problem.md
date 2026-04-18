@@ -1,13 +1,13 @@
 ---
-title: 인수
-special_judge: false
-time_limit: 3 초
-memory_limit: 256 MB
+title: "인수"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "256 MB"
 submissions: 212
 accepted: 59
 solved_users: 46
-acceptance_rate: 33.577%
-collected_at: 2026-04-17T12:04:29.386652+00:00
+acceptance_rate: "33.577%"
+collected_at: "2026-04-17T12:04:29.386652+00:00"
 ---
 
 ## 문제

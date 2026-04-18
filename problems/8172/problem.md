@@ -1,13 +1,13 @@
 ---
-title: Elephants
-special_judge: false
-time_limit: 3 초
-memory_limit: 512 MB
+title: "Elephants"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "512 MB"
 submissions: 177
 accepted: 66
 solved_users: 57
-acceptance_rate: 43.182%
-collected_at: 2026-04-17T11:56:49.798414+00:00
+acceptance_rate: "43.182%"
+collected_at: "2026-04-17T11:56:49.798414+00:00"
 ---
 
 ## 문제

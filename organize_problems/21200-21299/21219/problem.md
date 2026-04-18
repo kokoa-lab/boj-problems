@@ -1,13 +1,13 @@
 ---
-title: Restaurants
-special_judge: false
-time_limit: 3 초
-memory_limit: 2048 MB
+title: "Restaurants"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "2048 MB"
 submissions: 257
 accepted: 63
 solved_users: 43
-acceptance_rate: 21.393%
-collected_at: 2026-04-17T15:50:39.905778+00:00
+acceptance_rate: "21.393%"
+collected_at: "2026-04-17T15:50:39.905778+00:00"
 ---
 
 ## 문제

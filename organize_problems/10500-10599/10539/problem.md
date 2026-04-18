@@ -1,13 +1,13 @@
 ---
-title: 수빈이와 수열
-special_judge: false
-time_limit: 1 초
-memory_limit: 32 MB
+title: "수빈이와 수열"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "32 MB"
 submissions: 6668
 accepted: 4800
 solved_users: 4302
-acceptance_rate: 74.817%
-collected_at: 2026-04-17T12:25:08.871121+00:00
+acceptance_rate: "74.817%"
+collected_at: "2026-04-17T12:25:08.871121+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 비 오는 날
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "비 오는 날"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 1091
 accepted: 437
 solved_users: 402
-acceptance_rate: 42.903%
-collected_at: 2026-04-17T19:20:39.732394+00:00
+acceptance_rate: "42.903%"
+collected_at: "2026-04-17T19:20:39.732394+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 할 수 있다
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "할 수 있다"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 5053
 accepted: 346
 solved_users: 176
-acceptance_rate: 10.304%
-collected_at: 2026-04-17T10:29:16.904137+00:00
+acceptance_rate: "10.304%"
+collected_at: "2026-04-17T10:29:16.904137+00:00"
 ---
 
 ## 문제

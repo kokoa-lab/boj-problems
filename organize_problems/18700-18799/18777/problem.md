@@ -1,13 +1,13 @@
 ---
-title: Delegation (Platinum)
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Delegation (Platinum)"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 322
 accepted: 87
 solved_users: 79
-acceptance_rate: 27.915%
-collected_at: 2026-04-17T15:09:31.253825+00:00
+acceptance_rate: "27.915%"
+collected_at: "2026-04-17T15:09:31.253825+00:00"
 ---
 
 ## 문제

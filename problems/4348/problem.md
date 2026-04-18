@@ -1,13 +1,13 @@
 ---
-title: 막대 정사각형
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "막대 정사각형"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 710
 accepted: 201
 solved_users: 133
-acceptance_rate: 26.600%
-collected_at: 2026-04-17T10:59:52.618034+00:00
+acceptance_rate: "26.600%"
+collected_at: "2026-04-17T10:59:52.618034+00:00"
 ---
 
 ## 문제

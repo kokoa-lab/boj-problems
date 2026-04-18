@@ -1,13 +1,13 @@
 ---
-title: Defining Moment
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Defining Moment"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 53
 accepted: 26
 solved_users: 22
-acceptance_rate: 48.889%
-collected_at: 2026-04-17T11:03:50.768281+00:00
+acceptance_rate: "48.889%"
+collected_at: "2026-04-17T11:03:50.768281+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Milk and Honey
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Milk and Honey"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 619
 accepted: 555
 solved_users: 527
-acceptance_rate: 91.493%
-collected_at: 2026-04-17T11:45:40.381460+00:00
+acceptance_rate: "91.493%"
+collected_at: "2026-04-17T11:45:40.381460+00:00"
 ---
 
 ## 문제

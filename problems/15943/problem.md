@@ -1,13 +1,13 @@
 ---
-title: parentheses recover
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "parentheses recover"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 263
 accepted: 61
 solved_users: 46
-acceptance_rate: 27.059%
-collected_at: 2026-04-17T14:08:57.879266+00:00
+acceptance_rate: "27.059%"
+collected_at: "2026-04-17T14:08:57.879266+00:00"
 ---
 
 ## 문제

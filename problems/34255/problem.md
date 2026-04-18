@@ -1,13 +1,13 @@
 ---
-title: 레몬레몬 왕국
-special_judge: false
-time_limit: 3 초
-memory_limit: 1024 MB
+title: "레몬레몬 왕국"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "1024 MB"
 submissions: 92
 accepted: 20
 solved_users: 19
-acceptance_rate: 26.389%
-collected_at: 2026-04-17T20:34:04.183906+00:00
+acceptance_rate: "26.389%"
+collected_at: "2026-04-17T20:34:04.183906+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 별꽃의 세레나데 (Hard)
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "별꽃의 세레나데 (Hard)"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 138
 accepted: 69
 solved_users: 60
-acceptance_rate: 50.000%
-collected_at: 2026-04-17T17:42:03.352215+00:00
+acceptance_rate: "50.000%"
+collected_at: "2026-04-17T17:42:03.352215+00:00"
 ---
 
 ## 문제

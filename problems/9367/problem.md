@@ -1,13 +1,13 @@
 ---
-title: 관리 난항
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "관리 난항"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 1336
 accepted: 286
 solved_users: 175
-acceptance_rate: 25.326%
-collected_at: 2026-04-17T12:09:18.243385+00:00
+acceptance_rate: "25.326%"
+collected_at: "2026-04-17T12:09:18.243385+00:00"
 ---
 
 ## 문제

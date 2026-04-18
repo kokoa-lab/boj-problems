@@ -1,13 +1,13 @@
 ---
-title: 추론
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "추론"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 5509
 accepted: 3420
 solved_users: 3133
-acceptance_rate: 63.460%
-collected_at: 2026-04-17T10:32:48.264231+00:00
+acceptance_rate: "63.460%"
+collected_at: "2026-04-17T10:32:48.264231+00:00"
 ---
 
 ## 문제

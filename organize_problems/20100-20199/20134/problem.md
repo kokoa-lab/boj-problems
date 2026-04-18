@@ -1,13 +1,13 @@
 ---
-title: 소가 연세로를 건너간 이유
-special_judge: false
-time_limit: 5 초
-memory_limit: 1024 MB
+title: "소가 연세로를 건너간 이유"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "1024 MB"
 submissions: 88
 accepted: 49
 solved_users: 36
-acceptance_rate: 48.649%
-collected_at: 2026-04-17T15:32:08.838374+00:00
+acceptance_rate: "48.649%"
+collected_at: "2026-04-17T15:32:08.838374+00:00"
 ---
 
 ## 문제

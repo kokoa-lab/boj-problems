@@ -1,13 +1,13 @@
 ---
-title: A Sorting Problem
-special_judge: false
-time_limit: 3 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "A Sorting Problem"
+special_judge: "false"
+time_limit: "3 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 382
 accepted: 293
 solved_users: 260
-acceptance_rate: 78.313%
-collected_at: 2026-04-17T16:46:30.737809+00:00
+acceptance_rate: "78.313%"
+collected_at: "2026-04-17T16:46:30.737809+00:00"
 ---
 
 ## 문제

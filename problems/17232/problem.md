@@ -1,13 +1,13 @@
 ---
-title: 생명 게임
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "생명 게임"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 1120
 accepted: 448
 solved_users: 339
-acceptance_rate: 47.280%
-collected_at: 2026-04-17T14:34:07.478360+00:00
+acceptance_rate: "47.280%"
+collected_at: "2026-04-17T14:34:07.478360+00:00"
 ---
 
 ## 문제

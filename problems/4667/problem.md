@@ -1,13 +1,13 @@
 ---
-title: Loansome Car Buyer
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Loansome Car Buyer"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 29
 accepted: 15
 solved_users: 14
-acceptance_rate: 56.000%
-collected_at: 2026-04-17T11:06:52.016941+00:00
+acceptance_rate: "56.000%"
+collected_at: "2026-04-17T11:06:52.016941+00:00"
 ---
 
 ## 문제

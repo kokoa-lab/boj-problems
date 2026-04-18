@@ -1,13 +1,13 @@
 ---
-title: 몬드리안의 꿈
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "몬드리안의 꿈"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 691
 accepted: 340
 solved_users: 280
-acceptance_rate: 48.110%
-collected_at: 2026-04-17T11:30:45.545879+00:00
+acceptance_rate: "48.110%"
+collected_at: "2026-04-17T11:30:45.545879+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 논리 연산과 쿼리
-special_judge: false
-time_limit: 2 초
-memory_limit: 2048 MB
+title: "논리 연산과 쿼리"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "2048 MB"
 submissions: 225
 accepted: 83
 solved_users: 70
-acceptance_rate: 53.030%
-collected_at: 2026-04-17T20:23:06.169553+00:00
+acceptance_rate: "53.030%"
+collected_at: "2026-04-17T20:23:06.169553+00:00"
 ---
 
 ## 문제

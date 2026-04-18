@@ -1,13 +1,13 @@
 ---
-title: 철인 2종 경기
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "철인 2종 경기"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 320
 accepted: 22
 solved_users: 16
-acceptance_rate: 8.791%
-collected_at: 2026-04-17T13:05:29.730793+00:00
+acceptance_rate: "8.791%"
+collected_at: "2026-04-17T13:05:29.730793+00:00"
 ---
 
 ## 문제

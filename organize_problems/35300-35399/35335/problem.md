@@ -1,13 +1,13 @@
 ---
-title: Cow-libi 2
-special_judge: true
-time_limit: 2 초
-memory_limit: 2048 MB
+title: "Cow-libi 2"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "2048 MB"
 submissions: 3
 accepted: 2
 solved_users: 2
-acceptance_rate: 66.667%
-collected_at: 2026-04-17T21:00:34.345722+00:00
+acceptance_rate: "66.667%"
+collected_at: "2026-04-17T21:00:34.345722+00:00"
 ---
 
 ## 문제

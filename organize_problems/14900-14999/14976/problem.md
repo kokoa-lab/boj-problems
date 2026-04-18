@@ -1,13 +1,13 @@
 ---
-title: Equivalent Deformation
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Equivalent Deformation"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 24
 accepted: 15
 solved_users: 5
-acceptance_rate: 55.556%
-collected_at: 2026-04-17T13:47:21.285449+00:00
+acceptance_rate: "55.556%"
+collected_at: "2026-04-17T13:47:21.285449+00:00"
 ---
 
 ## 문제

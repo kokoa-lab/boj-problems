@@ -1,13 +1,13 @@
 ---
-title: Marriage questions
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "Marriage questions"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 22
 accepted: 6
 solved_users: 4
-acceptance_rate: 36.364%
-collected_at: 2026-04-17T12:47:04.717899+00:00
+acceptance_rate: "36.364%"
+collected_at: "2026-04-17T12:47:04.717899+00:00"
 ---
 
 ## 문제

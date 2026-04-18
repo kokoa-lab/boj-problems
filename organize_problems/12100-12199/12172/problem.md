@@ -1,13 +1,13 @@
 ---
-title: N-오미노 판 채우기 (Small)
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "N-오미노 판 채우기 (Small)"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 221
 accepted: 94
 solved_users: 79
-acceptance_rate: 42.246%
-collected_at: 2026-04-17T12:51:23.601508+00:00
+acceptance_rate: "42.246%"
+collected_at: "2026-04-17T12:51:23.601508+00:00"
 ---
 
 ## 문제

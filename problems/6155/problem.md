@@ -1,13 +1,13 @@
 ---
-title: Cell Phone Network
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Cell Phone Network"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 111
 accepted: 41
 solved_users: 38
-acceptance_rate: 48.718%
-collected_at: 2026-04-17T11:21:44.782891+00:00
+acceptance_rate: "48.718%"
+collected_at: "2026-04-17T11:21:44.782891+00:00"
 ---
 
 ## 문제

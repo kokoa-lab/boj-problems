@@ -1,13 +1,13 @@
 ---
-title: 롤러코스터
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "롤러코스터"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 625
 accepted: 264
 solved_users: 224
-acceptance_rate: 44.181%
-collected_at: 2026-04-18T09:50:04.351078+00:00
+acceptance_rate: "44.181%"
+collected_at: "2026-04-18T09:50:04.351078+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 사다리 조작
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "사다리 조작"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 84930
 accepted: 23829
 solved_users: 11854
-acceptance_rate: 23.127%
-collected_at: 2026-04-17T14:04:09.520244+00:00
+acceptance_rate: "23.127%"
+collected_at: "2026-04-17T14:04:09.520244+00:00"
 ---
 
 ## 문제

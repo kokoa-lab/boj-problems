@@ -1,13 +1,13 @@
 ---
-title: 바둑이 포커
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "바둑이 포커"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 336
 accepted: 152
 solved_users: 133
-acceptance_rate: 46.996%
-collected_at: 2026-04-17T14:36:29.055705+00:00
+acceptance_rate: "46.996%"
+collected_at: "2026-04-17T14:36:29.055705+00:00"
 ---
 
 ## 문제

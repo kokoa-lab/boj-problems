@@ -1,13 +1,13 @@
 ---
-title: Almost Always
-special_judge: false
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Almost Always"
+special_judge: "false"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 702
 accepted: 233
 solved_users: 144
-acceptance_rate: 29.328%
-collected_at: 2026-04-17T16:46:53.176712+00:00
+acceptance_rate: "29.328%"
+collected_at: "2026-04-17T16:46:53.176712+00:00"
 ---
 
 ## 문제

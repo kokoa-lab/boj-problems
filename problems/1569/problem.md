@@ -1,13 +1,13 @@
 ---
-title: 정사각형으로 가리기
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "정사각형으로 가리기"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 1138
 accepted: 274
 solved_users: 229
-acceptance_rate: 29.818%
-collected_at: 2026-04-17T10:31:14.602210+00:00
+acceptance_rate: "29.818%"
+collected_at: "2026-04-17T10:31:14.602210+00:00"
 ---
 
 ## 문제

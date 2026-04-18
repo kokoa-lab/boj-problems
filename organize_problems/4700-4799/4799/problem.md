@@ -1,13 +1,13 @@
 ---
-title: Fuel Stops
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "Fuel Stops"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 29
 accepted: 25
 solved_users: 21
-acceptance_rate: 84.000%
-collected_at: 2026-04-17T11:08:36.601129+00:00
+acceptance_rate: "84.000%"
+collected_at: "2026-04-17T11:08:36.601129+00:00"
 ---
 
 ## 문제

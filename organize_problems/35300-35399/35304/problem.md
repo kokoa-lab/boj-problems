@@ -1,13 +1,13 @@
 ---
-title: 다리 건설 계획
-special_judge: false
-time_limit: 3 초
-memory_limit: 1024 MB
+title: "다리 건설 계획"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "1024 MB"
 submissions: 52
 accepted: 12
 solved_users: 10
-acceptance_rate: 43.478%
-collected_at: 2026-04-17T20:59:50.052763+00:00
+acceptance_rate: "43.478%"
+collected_at: "2026-04-17T20:59:50.052763+00:00"
 ---
 
 ## 문제

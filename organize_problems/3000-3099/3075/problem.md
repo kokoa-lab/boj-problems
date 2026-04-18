@@ -1,13 +1,13 @@
 ---
-title: Astromeeting
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Astromeeting"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 1387
 accepted: 306
 solved_users: 222
-acceptance_rate: 23.005%
-collected_at: 2026-04-17T10:46:32.352419+00:00
+acceptance_rate: "23.005%"
+collected_at: "2026-04-17T10:46:32.352419+00:00"
 ---
 
 ## 문제

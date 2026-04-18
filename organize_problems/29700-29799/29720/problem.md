@@ -1,13 +1,13 @@
 ---
-title: 그래서 님 푼 문제 수가?
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "그래서 님 푼 문제 수가?"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 1601
 accepted: 1122
 solved_users: 1037
-acceptance_rate: 72.265%
-collected_at: 2026-04-17T18:51:27.933730+00:00
+acceptance_rate: "72.265%"
+collected_at: "2026-04-17T18:51:27.933730+00:00"
 ---
 
 ## 문제

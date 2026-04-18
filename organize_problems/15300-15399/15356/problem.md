@@ -1,13 +1,13 @@
 ---
-title: Retro
-special_judge: false
-time_limit: 0.5 초
-memory_limit: 512 MB
+title: "Retro"
+special_judge: "false"
+time_limit: "0.5 초"
+memory_limit: "512 MB"
 submissions: 48
 accepted: 13
 solved_users: 8
-acceptance_rate: 28.571%
-collected_at: 2026-04-17T13:57:53.391788+00:00
+acceptance_rate: "28.571%"
+collected_at: "2026-04-17T13:57:53.391788+00:00"
 ---
 
 ## 문제

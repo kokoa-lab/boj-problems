@@ -1,13 +1,13 @@
 ---
-title: 금광
-special_judge: false
-time_limit: 3 초
-memory_limit: 256 MB
+title: "금광"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "256 MB"
 submissions: 7117
 accepted: 2300
 solved_users: 1456
-acceptance_rate: 29.219%
-collected_at: 2026-04-17T12:19:53.680868+00:00
+acceptance_rate: "29.219%"
+collected_at: "2026-04-17T12:19:53.680868+00:00"
 ---
 
 ## 문제

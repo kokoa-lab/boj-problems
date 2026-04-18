@@ -1,13 +1,13 @@
 ---
-title: Vacation
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Vacation"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 76
 accepted: 53
 solved_users: 35
-acceptance_rate: 77.778%
-collected_at: 2026-04-17T11:59:55.056569+00:00
+acceptance_rate: "77.778%"
+collected_at: "2026-04-17T11:59:55.056569+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Let Me Tell You a Story (Small)
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Let Me Tell You a Story (Small)"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 19
 accepted: 9
 solved_users: 8
-acceptance_rate: 80.000%
-collected_at: 2026-04-17T12:53:12.770687+00:00
+acceptance_rate: "80.000%"
+collected_at: "2026-04-17T12:53:12.770687+00:00"
 ---
 
 ## 문제

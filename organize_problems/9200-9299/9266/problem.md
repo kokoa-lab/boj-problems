@@ -1,13 +1,13 @@
 ---
-title: 체스 게임
-special_judge: false
-time_limit: 5 초
-memory_limit: 128 MB
+title: "체스 게임"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "128 MB"
 submissions: 42
 accepted: 9
 solved_users: 7
-acceptance_rate: 38.889%
-collected_at: 2026-04-17T12:08:25.787786+00:00
+acceptance_rate: "38.889%"
+collected_at: "2026-04-17T12:08:25.787786+00:00"
 ---
 
 ## 문제

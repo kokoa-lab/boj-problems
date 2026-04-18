@@ -1,13 +1,13 @@
 ---
-title: Joke
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "Joke"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 679
 accepted: 351
 solved_users: 305
-acceptance_rate: 53.415%
-collected_at: 2026-04-17T11:52:58.715746+00:00
+acceptance_rate: "53.415%"
+collected_at: "2026-04-17T11:52:58.715746+00:00"
 ---
 
 ## 문제

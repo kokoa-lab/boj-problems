@@ -1,13 +1,13 @@
 ---
-title: 가희와 카오스 파풀라투스
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "가희와 카오스 파풀라투스"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 1047
 accepted: 340
 solved_users: 251
-acceptance_rate: 32.056%
-collected_at: 2026-04-17T17:23:05.829902+00:00
+acceptance_rate: "32.056%"
+collected_at: "2026-04-17T17:23:05.829902+00:00"
 ---
 
 ## 문제

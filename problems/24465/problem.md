@@ -1,13 +1,13 @@
 ---
-title: 데뷔의 꿈
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "데뷔의 꿈"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 614
 accepted: 318
 solved_users: 279
-acceptance_rate: 56.137%
-collected_at: 2026-04-17T17:09:51.432990+00:00
+acceptance_rate: "56.137%"
+collected_at: "2026-04-17T17:09:51.432990+00:00"
 ---
 
 ## 문제

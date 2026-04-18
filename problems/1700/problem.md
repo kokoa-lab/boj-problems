@@ -1,13 +1,13 @@
 ---
-title: 멀티탭 스케줄링
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "멀티탭 스케줄링"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 42059
 accepted: 12628
 solved_users: 9184
-acceptance_rate: 30.143%
-collected_at: 2026-04-17T10:32:27.894728+00:00
+acceptance_rate: "30.143%"
+collected_at: "2026-04-17T10:32:27.894728+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: To the Max
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "To the Max"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 259
 accepted: 100
 solved_users: 90
-acceptance_rate: 43.689%
-collected_at: 2026-04-17T11:26:41.864401+00:00
+acceptance_rate: "43.689%"
+collected_at: "2026-04-17T11:26:41.864401+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 재귀함수가 뭔가요?
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "재귀함수가 뭔가요?"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 72852
 accepted: 29666
 solved_users: 23942
-acceptance_rate: 39.503%
-collected_at: 2026-04-17T14:40:16.081396+00:00
+acceptance_rate: "39.503%"
+collected_at: "2026-04-17T14:40:16.081396+00:00"
 ---
 
 ## 문제

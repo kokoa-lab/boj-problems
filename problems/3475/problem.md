@@ -1,13 +1,13 @@
 ---
-title: The Game of Master-Mind
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "The Game of Master-Mind"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 10
 accepted: 2
 solved_users: 2
-acceptance_rate: 100.000%
-collected_at: 2026-04-17T10:49:10.958758+00:00
+acceptance_rate: "100.000%"
+collected_at: "2026-04-17T10:49:10.958758+00:00"
 ---
 
 ## 문제

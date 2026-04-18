@@ -1,13 +1,13 @@
 ---
-title: Minimum Spanning Arborescence
-special_judge: false
-time_limit: 5 초
-memory_limit: 1024 MB
+title: "Minimum Spanning Arborescence"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "1024 MB"
 submissions: 182
 accepted: 115
 solved_users: 60
-acceptance_rate: 57.692%
-collected_at: 2026-04-17T20:23:59.079784+00:00
+acceptance_rate: "57.692%"
+collected_at: "2026-04-17T20:23:59.079784+00:00"
 ---
 
 ## 문제

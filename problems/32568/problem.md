@@ -1,13 +1,13 @@
 ---
-title: Inconsistent Patterns
-special_judge: true
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Inconsistent Patterns"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 24
 accepted: 16
 solved_users: 16
-acceptance_rate: 66.667%
-collected_at: 2026-04-17T19:56:04.066886+00:00
+acceptance_rate: "66.667%"
+collected_at: "2026-04-17T19:56:04.066886+00:00"
 ---
 
 ## 문제

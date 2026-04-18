@@ -1,13 +1,13 @@
 ---
-title: Milk Pails (Silver)
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Milk Pails (Silver)"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 722
 accepted: 264
 solved_users: 228
-acceptance_rate: 39.652%
-collected_at: 2026-04-17T12:48:44.725439+00:00
+acceptance_rate: "39.652%"
+collected_at: "2026-04-17T12:48:44.725439+00:00"
 ---
 
 ## 문제

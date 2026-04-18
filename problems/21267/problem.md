@@ -1,13 +1,13 @@
 ---
-title: Count Min Ratio
-special_judge: false
-time_limit: 4 초
-memory_limit: 1024 MB
+title: "Count Min Ratio"
+special_judge: "false"
+time_limit: "4 초"
+memory_limit: "1024 MB"
 submissions: 33
 accepted: 26
 solved_users: 12
-acceptance_rate: 66.667%
-collected_at: 2026-04-17T15:52:19.653657+00:00
+acceptance_rate: "66.667%"
+collected_at: "2026-04-17T15:52:19.653657+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Holes
-special_judge: false
-time_limit: 3 초
-memory_limit: 256 MB
+title: "Holes"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "256 MB"
 submissions: 1413
 accepted: 1023
 solved_users: 928
-acceptance_rate: 73.244%
-collected_at: 2026-04-17T10:49:57.753199+00:00
+acceptance_rate: "73.244%"
+collected_at: "2026-04-17T10:49:57.753199+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 공약수
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "공약수"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 11334
 accepted: 5346
 solved_users: 4482
-acceptance_rate: 50.411%
-collected_at: 2026-04-17T11:16:00.460687+00:00
+acceptance_rate: "50.411%"
+collected_at: "2026-04-17T11:16:00.460687+00:00"
 ---
 
 ## 문제

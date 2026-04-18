@@ -1,13 +1,13 @@
 ---
-title: 현대모비스 V2X 자율주행 2
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "현대모비스 V2X 자율주행 2"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 157
 accepted: 49
 solved_users: 41
-acceptance_rate: 39.048%
-collected_at: 2026-04-17T20:27:45.746070+00:00
+acceptance_rate: "39.048%"
+collected_at: "2026-04-17T20:27:45.746070+00:00"
 ---
 
 ## 문제

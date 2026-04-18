@@ -1,13 +1,13 @@
 ---
-title: 1로 만들기
-special_judge: false
-time_limit: 0.15 초  ( 하단 참고 )
-memory_limit: 128 MB
+title: "1로 만들기"
+special_judge: "false"
+time_limit: "0.15 초  ( 하단 참고 )"
+memory_limit: "128 MB"
 submissions: 385260
 accepted: 137641
 solved_users: 87922
-acceptance_rate: 34.167%
-collected_at: 2026-04-17T10:30:21.889413+00:00
+acceptance_rate: "34.167%"
+collected_at: "2026-04-17T10:30:21.889413+00:00"
 ---
 
 ## 문제

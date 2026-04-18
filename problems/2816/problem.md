@@ -1,13 +1,13 @@
 ---
-title: 디지털 티비
-special_judge: true
-time_limit: 1 초
-memory_limit: 128 MB
+title: "디지털 티비"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 8892
 accepted: 4010
 solved_users: 3468
-acceptance_rate: 46.651%
-collected_at: 2026-04-17T10:45:04.604107+00:00
+acceptance_rate: "46.651%"
+collected_at: "2026-04-17T10:45:04.604107+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 탄성 충돌
-special_judge: false
-time_limit: 3 초 (추가 시간 없음)
-memory_limit: 256 MB
+title: "탄성 충돌"
+special_judge: "false"
+time_limit: "3 초 (추가 시간 없음)"
+memory_limit: "256 MB"
 submissions: 861
 accepted: 336
 solved_users: 240
-acceptance_rate: 39.669%
-collected_at: 2026-04-17T14:25:54.183531+00:00
+acceptance_rate: "39.669%"
+collected_at: "2026-04-17T14:25:54.183531+00:00"
 ---
 
 ## 문제

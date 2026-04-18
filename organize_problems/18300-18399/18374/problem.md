@@ -1,13 +1,13 @@
 ---
-title: 함수의 맛
-special_judge: false
-time_limit: 1.5 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "함수의 맛"
+special_judge: "false"
+time_limit: "1.5 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 260
 accepted: 56
 solved_users: 39
-acceptance_rate: 22.286%
-collected_at: 2026-04-17T15:01:22.207954+00:00
+acceptance_rate: "22.286%"
+collected_at: "2026-04-17T15:01:22.207954+00:00"
 ---
 
 ## 문제

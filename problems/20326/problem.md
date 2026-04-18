@@ -1,13 +1,13 @@
 ---
-title: Klasična Karantena
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Klasična Karantena"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 40
 accepted: 21
 solved_users: 16
-acceptance_rate: 59.259%
-collected_at: 2026-04-17T15:35:06.289772+00:00
+acceptance_rate: "59.259%"
+collected_at: "2026-04-17T15:35:06.289772+00:00"
 ---
 
 ## 문제

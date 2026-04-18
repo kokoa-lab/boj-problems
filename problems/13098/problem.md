@@ -1,13 +1,13 @@
 ---
-title: Reverse a Road II
-special_judge: false
-time_limit: 8 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "Reverse a Road II"
+special_judge: "false"
+time_limit: "8 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 36
 accepted: 17
 solved_users: 16
-acceptance_rate: 45.714%
-collected_at: 2026-04-17T13:07:32.367533+00:00
+acceptance_rate: "45.714%"
+collected_at: "2026-04-17T13:07:32.367533+00:00"
 ---
 
 ## 문제

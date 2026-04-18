@@ -1,13 +1,13 @@
 ---
-title: 16진수 쪼개기
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "16진수 쪼개기"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 100
 accepted: 56
 solved_users: 48
-acceptance_rate: 63.158%
-collected_at: 2026-04-17T16:11:01.207210+00:00
+acceptance_rate: "63.158%"
+collected_at: "2026-04-17T16:11:01.207210+00:00"
 ---
 
 ## 문제

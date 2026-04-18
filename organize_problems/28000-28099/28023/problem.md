@@ -1,13 +1,13 @@
 ---
-title: Smartphone
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Smartphone"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 57
 accepted: 23
 solved_users: 21
-acceptance_rate: 43.750%
-collected_at: 2026-04-17T18:16:55.094863+00:00
+acceptance_rate: "43.750%"
+collected_at: "2026-04-17T18:16:55.094863+00:00"
 ---
 
 ## 문제

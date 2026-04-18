@@ -1,13 +1,13 @@
 ---
-title: The Binary Search Efficiency Doubter
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "The Binary Search Efficiency Doubter"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 53
 accepted: 23
 solved_users: 21
-acceptance_rate: 55.263%
-collected_at: 2026-04-17T12:23:41.421584+00:00
+acceptance_rate: "55.263%"
+collected_at: "2026-04-17T12:23:41.421584+00:00"
 ---
 
 ## 문제

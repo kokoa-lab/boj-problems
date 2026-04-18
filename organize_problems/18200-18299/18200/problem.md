@@ -1,13 +1,13 @@
 ---
-title: Convoy
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "Convoy"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 121
 accepted: 40
 solved_users: 34
-acceptance_rate: 42.500%
-collected_at: 2026-04-17T14:57:08.744845+00:00
+acceptance_rate: "42.500%"
+collected_at: "2026-04-17T14:57:08.744845+00:00"
 ---
 
 ## 문제

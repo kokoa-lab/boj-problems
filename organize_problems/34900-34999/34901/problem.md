@@ -1,13 +1,13 @@
 ---
-title: 자재 옮기기
-special_judge: false
-time_limit: 3 초
-memory_limit: 1024 MB
+title: "자재 옮기기"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "1024 MB"
 submissions: 35
 accepted: 25
 solved_users: 23
-acceptance_rate: 85.185%
-collected_at: 2026-04-17T20:51:35.444397+00:00
+acceptance_rate: "85.185%"
+collected_at: "2026-04-17T20:51:35.444397+00:00"
 ---
 
 ## 문제

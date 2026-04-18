@@ -1,13 +1,13 @@
 ---
-title: 퀼린드롬 (Hard)
-special_judge: true
-time_limit: 1 초
-memory_limit: 512 MB
+title: "퀼린드롬 (Hard)"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 341
 accepted: 69
 solved_users: 51
-acceptance_rate: 22.174%
-collected_at: 2026-04-17T15:36:12.272164+00:00
+acceptance_rate: "22.174%"
+collected_at: "2026-04-17T15:36:12.272164+00:00"
 ---
 
 ## 문제

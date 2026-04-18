@@ -1,13 +1,13 @@
 ---
-title: Vacation Plans
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Vacation Plans"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 443
 accepted: 113
 solved_users: 86
-acceptance_rate: 27.922%
-collected_at: 2026-04-17T13:46:58.940458+00:00
+acceptance_rate: "27.922%"
+collected_at: "2026-04-17T13:46:58.940458+00:00"
 ---
 
 ## 문제

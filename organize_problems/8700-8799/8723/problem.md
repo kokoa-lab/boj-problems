@@ -1,13 +1,13 @@
 ---
-title: Patyki
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Patyki"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 4032
 accepted: 2667
 solved_users: 2545
-acceptance_rate: 66.553%
-collected_at: 2026-04-17T12:02:38.088450+00:00
+acceptance_rate: "66.553%"
+collected_at: "2026-04-17T12:02:38.088450+00:00"
 ---
 
 ## 문제

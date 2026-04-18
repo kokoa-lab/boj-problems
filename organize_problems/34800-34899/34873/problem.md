@@ -1,13 +1,13 @@
 ---
-title: 사탕 나눠주기
-special_judge: false
-time_limit: 2 초
-memory_limit: 2048 MB
+title: "사탕 나눠주기"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "2048 MB"
 submissions: 522
 accepted: 289
 solved_users: 216
-acceptance_rate: 55.670%
-collected_at: 2026-04-17T20:51:10.659712+00:00
+acceptance_rate: "55.670%"
+collected_at: "2026-04-17T20:51:10.659712+00:00"
 ---
 
 ## 문제

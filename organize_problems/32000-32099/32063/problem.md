@@ -1,13 +1,13 @@
 ---
-title: Contingency Plan
-special_judge: true
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Contingency Plan"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 88
 accepted: 25
 solved_users: 19
-acceptance_rate: 26.027%
-collected_at: 2026-04-17T19:42:00.085298+00:00
+acceptance_rate: "26.027%"
+collected_at: "2026-04-17T19:42:00.085298+00:00"
 ---
 
 ## 문제

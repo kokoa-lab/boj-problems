@@ -1,13 +1,13 @@
 ---
-title: gBalloon (Large)
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "gBalloon (Large)"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 44
 accepted: 18
 solved_users: 15
-acceptance_rate: 42.857%
-collected_at: 2026-04-17T12:49:29.207058+00:00
+acceptance_rate: "42.857%"
+collected_at: "2026-04-17T12:49:29.207058+00:00"
 ---
 
 ## 문제

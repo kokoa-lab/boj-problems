@@ -1,13 +1,13 @@
 ---
-title: 반복 패턴
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "반복 패턴"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 1537
 accepted: 372
 solved_users: 276
-acceptance_rate: 24.274%
-collected_at: 2026-04-17T14:14:00.627697+00:00
+acceptance_rate: "24.274%"
+collected_at: "2026-04-17T14:14:00.627697+00:00"
 ---
 
 ## 문제

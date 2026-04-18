@@ -1,13 +1,13 @@
 ---
-title: Artwork
-special_judge: false
-time_limit: 1.5 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "Artwork"
+special_judge: "false"
+time_limit: "1.5 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 103
 accepted: 54
 solved_users: 48
-acceptance_rate: 51.613%
-collected_at: 2026-04-17T14:41:18.653268+00:00
+acceptance_rate: "51.613%"
+collected_at: "2026-04-17T14:41:18.653268+00:00"
 ---
 
 ## 문제

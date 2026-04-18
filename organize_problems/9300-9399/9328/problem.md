@@ -1,13 +1,13 @@
 ---
-title: 열쇠
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "열쇠"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 29035
 accepted: 9085
 solved_users: 6342
-acceptance_rate: 28.526%
-collected_at: 2026-04-17T12:08:57.283290+00:00
+acceptance_rate: "28.526%"
+collected_at: "2026-04-17T12:08:57.283290+00:00"
 ---
 
 ## 문제

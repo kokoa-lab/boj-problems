@@ -1,13 +1,13 @@
 ---
-title: Longest Common Subsequence
-special_judge: false
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Longest Common Subsequence"
+special_judge: "false"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 57
 accepted: 23
 solved_users: 14
-acceptance_rate: 38.889%
-collected_at: 2026-04-17T17:31:51.897520+00:00
+acceptance_rate: "38.889%"
+collected_at: "2026-04-17T17:31:51.897520+00:00"
 ---
 
 ## 문제

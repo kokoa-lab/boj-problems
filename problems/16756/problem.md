@@ -1,13 +1,13 @@
 ---
-title: Pismo
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Pismo"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 710
 accepted: 273
 solved_users: 236
-acceptance_rate: 40.000%
-collected_at: 2026-04-17T14:23:29.082805+00:00
+acceptance_rate: "40.000%"
+collected_at: "2026-04-17T14:23:29.082805+00:00"
 ---
 
 ## 문제

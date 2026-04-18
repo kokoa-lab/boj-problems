@@ -1,13 +1,13 @@
 ---
-title: Point Distance
-special_judge: true
-time_limit: 10 초
-memory_limit: 512 MB
+title: "Point Distance"
+special_judge: "true"
+time_limit: "10 초"
+memory_limit: "512 MB"
 submissions: 119
 accepted: 29
 solved_users: 24
-acceptance_rate: 31.579%
-collected_at: 2026-04-17T12:26:43.466815+00:00
+acceptance_rate: "31.579%"
+collected_at: "2026-04-17T12:26:43.466815+00:00"
 ---
 
 ## 문제

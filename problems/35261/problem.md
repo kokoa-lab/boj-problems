@@ -1,13 +1,13 @@
 ---
-title: 피갤컵 들어왔으면 이 글부터 봐라
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "피갤컵 들어왔으면 이 글부터 봐라"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 769
 accepted: 567
 solved_users: 528
-acceptance_rate: 74.262%
-collected_at: 2026-04-17T20:59:04.461369+00:00
+acceptance_rate: "74.262%"
+collected_at: "2026-04-17T20:59:04.461369+00:00"
 ---
 
 ## 문제

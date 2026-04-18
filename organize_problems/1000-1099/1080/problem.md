@@ -1,13 +1,13 @@
 ---
-title: 행렬
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "행렬"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 29412
 accepted: 12899
 solved_users: 10499
-acceptance_rate: 43.868%
-collected_at: 2026-04-17T10:28:06.621368+00:00
+acceptance_rate: "43.868%"
+collected_at: "2026-04-17T10:28:06.621368+00:00"
 ---
 
 ## 문제

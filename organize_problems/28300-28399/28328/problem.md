@@ -1,13 +1,13 @@
 ---
-title: 잔디밭의 개미굴
-special_judge: false
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "잔디밭의 개미굴"
+special_judge: "false"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 603
 accepted: 235
 solved_users: 193
-acceptance_rate: 39.308%
-collected_at: 2026-04-17T18:23:04.515306+00:00
+acceptance_rate: "39.308%"
+collected_at: "2026-04-17T18:23:04.515306+00:00"
 ---
 
 ## 문제

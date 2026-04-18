@@ -1,13 +1,13 @@
 ---
-title: Mileage Bank
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Mileage Bank"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 589
 accepted: 185
 solved_users: 166
-acceptance_rate: 30.237%
-collected_at: 2026-04-17T11:23:36.305987+00:00
+acceptance_rate: "30.237%"
+collected_at: "2026-04-17T11:23:36.305987+00:00"
 ---
 
 ## 문제

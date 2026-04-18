@@ -1,13 +1,13 @@
 ---
-title: Daily 로또
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Daily 로또"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 38945
 accepted: 8915
 solved_users: 588
-acceptance_rate: 2.156%
-collected_at: 2026-04-17T12:32:01.209535+00:00
+acceptance_rate: "2.156%"
+collected_at: "2026-04-17T12:32:01.209535+00:00"
 ---
 
 ## 문제

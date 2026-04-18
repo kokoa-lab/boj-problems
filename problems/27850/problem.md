@@ -1,13 +1,13 @@
 ---
-title: Stamp Grid
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Stamp Grid"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 385
 accepted: 187
 solved_users: 162
-acceptance_rate: 56.055%
-collected_at: 2026-04-17T18:12:42.630744+00:00
+acceptance_rate: "56.055%"
+collected_at: "2026-04-17T18:12:42.630744+00:00"
 ---
 
 ## 문제

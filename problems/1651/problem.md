@@ -1,13 +1,13 @@
 ---
-title: 숌 코드
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "숌 코드"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 980
 accepted: 5
 solved_users: 4
-acceptance_rate: 1.653%
-collected_at: 2026-04-17T10:31:59.890983+00:00
+acceptance_rate: "1.653%"
+collected_at: "2026-04-17T10:31:59.890983+00:00"
 ---
 
 ## 문제

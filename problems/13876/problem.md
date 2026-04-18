@@ -1,13 +1,13 @@
 ---
-title: Kill the Werewolf
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Kill the Werewolf"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 273
 accepted: 100
 solved_users: 79
-acceptance_rate: 37.264%
-collected_at: 2026-04-17T13:21:19.661591+00:00
+acceptance_rate: "37.264%"
+collected_at: "2026-04-17T13:21:19.661591+00:00"
 ---
 
 ## 문제

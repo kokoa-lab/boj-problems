@@ -1,13 +1,13 @@
 ---
-title: 휴대폰 자판
-special_judge: false
-time_limit: 1 초
-memory_limit: 192 MB
+title: "휴대폰 자판"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "192 MB"
 submissions: 12625
 accepted: 5006
 solved_users: 3281
-acceptance_rate: 36.622%
-collected_at: 2026-04-17T11:16:26.790012+00:00
+acceptance_rate: "36.622%"
+collected_at: "2026-04-17T11:16:26.790012+00:00"
 ---
 
 ## 문제

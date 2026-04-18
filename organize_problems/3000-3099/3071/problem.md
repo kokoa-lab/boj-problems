@@ -1,13 +1,13 @@
 ---
-title: The ♡ System
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "The ♡ System"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 352
 accepted: 200
 solved_users: 168
-acceptance_rate: 58.537%
-collected_at: 2026-04-17T10:46:30.918261+00:00
+acceptance_rate: "58.537%"
+collected_at: "2026-04-17T10:46:30.918261+00:00"
 ---
 
 ## 문제

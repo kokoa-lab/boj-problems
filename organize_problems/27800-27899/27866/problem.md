@@ -1,13 +1,13 @@
 ---
-title: 문자와 문자열
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "문자와 문자열"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 138614
 accepted: 92027
 solved_users: 82490
-acceptance_rate: 67.116%
-collected_at: 2026-04-17T18:13:10.604520+00:00
+acceptance_rate: "67.116%"
+collected_at: "2026-04-17T18:13:10.604520+00:00"
 ---
 
 ## 문제

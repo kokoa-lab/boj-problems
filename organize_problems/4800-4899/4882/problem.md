@@ -1,13 +1,13 @@
 ---
-title: 정규형
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "정규형"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 351
 accepted: 133
 solved_users: 121
-acceptance_rate: 40.066%
-collected_at: 2026-04-17T11:09:40.237017+00:00
+acceptance_rate: "40.066%"
+collected_at: "2026-04-17T11:09:40.237017+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: RCV Simplification
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "RCV Simplification"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 102
 accepted: 23
 solved_users: 15
-acceptance_rate: 20.270%
-collected_at: 2026-04-17T17:32:49.233959+00:00
+acceptance_rate: "20.270%"
+collected_at: "2026-04-17T17:32:49.233959+00:00"
 ---
 
 ## 문제

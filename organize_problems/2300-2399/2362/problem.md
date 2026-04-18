@@ -1,13 +1,13 @@
 ---
-title: 탈출
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "탈출"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 402
 accepted: 74
 solved_users: 51
-acceptance_rate: 26.842%
-collected_at: 2026-04-17T10:41:04.382308+00:00
+acceptance_rate: "26.842%"
+collected_at: "2026-04-17T10:41:04.382308+00:00"
 ---
 
 ## 문제

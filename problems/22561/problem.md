@@ -1,13 +1,13 @@
 ---
-title: Graph Construction
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Graph Construction"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 127
 accepted: 27
 solved_users: 24
-acceptance_rate: 25.532%
-collected_at: 2026-04-17T16:26:25.633127+00:00
+acceptance_rate: "25.532%"
+collected_at: "2026-04-17T16:26:25.633127+00:00"
 ---
 
 ## 문제

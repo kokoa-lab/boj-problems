@@ -1,13 +1,13 @@
 ---
-title: 팀 선발
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "팀 선발"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 3063
 accepted: 525
 solved_users: 381
-acceptance_rate: 18.195%
-collected_at: 2026-04-17T10:27:52.625881+00:00
+acceptance_rate: "18.195%"
+collected_at: "2026-04-17T10:27:52.625881+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 비즈마켓
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "비즈마켓"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 1190
 accepted: 553
 solved_users: 426
-acceptance_rate: 44.889%
-collected_at: 2026-04-17T17:19:33.462414+00:00
+acceptance_rate: "44.889%"
+collected_at: "2026-04-17T17:19:33.462414+00:00"
 ---
 
 ## 문제

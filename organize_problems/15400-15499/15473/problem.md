@@ -1,13 +1,13 @@
 ---
-title: HH Country
-special_judge: false
-time_limit: 10 초
-memory_limit: 512 MB
+title: "HH Country"
+special_judge: "false"
+time_limit: "10 초"
+memory_limit: "512 MB"
 submissions: 5
 accepted: 2
 solved_users: 2
-acceptance_rate: 66.667%
-collected_at: 2026-04-17T13:59:59.674064+00:00
+acceptance_rate: "66.667%"
+collected_at: "2026-04-17T13:59:59.674064+00:00"
 ---
 
 ## 문제

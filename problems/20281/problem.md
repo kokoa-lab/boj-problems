@@ -1,13 +1,13 @@
 ---
-title: Fastminton
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Fastminton"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 102
 accepted: 71
 solved_users: 50
-acceptance_rate: 67.568%
-collected_at: 2026-04-17T15:34:10.126619+00:00
+acceptance_rate: "67.568%"
+collected_at: "2026-04-17T15:34:10.126619+00:00"
 ---
 
 ## 문제

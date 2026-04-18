@@ -1,13 +1,13 @@
 ---
-title: 공약수열
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "공약수열"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 732
 accepted: 452
 solved_users: 331
-acceptance_rate: 63.048%
-collected_at: 2026-04-17T13:28:51.451210+00:00
+acceptance_rate: "63.048%"
+collected_at: "2026-04-17T13:28:51.451210+00:00"
 ---
 
 ## 문제

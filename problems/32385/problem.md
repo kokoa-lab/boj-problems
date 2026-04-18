@@ -1,13 +1,13 @@
 ---
-title: $\frac{1}{2}$(MatKor+ALPS)=AlKor
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "$\\frac{1}{2}$(MatKor+ALPS)=AlKor"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 586
 accepted: 305
 solved_users: 276
-acceptance_rate: 57.380%
-collected_at: 2026-04-17T19:50:03.667529+00:00
+acceptance_rate: "57.380%"
+collected_at: "2026-04-17T19:50:03.667529+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 그래도 시간은 흐른다
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "그래도 시간은 흐른다"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 159
 accepted: 76
 solved_users: 65
-acceptance_rate: 48.872%
-collected_at: 2026-04-17T20:47:10.633225+00:00
+acceptance_rate: "48.872%"
+collected_at: "2026-04-17T20:47:10.633225+00:00"
 ---
 
 ## 문제

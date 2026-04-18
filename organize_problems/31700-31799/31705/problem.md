@@ -1,13 +1,13 @@
 ---
-title: Kolorowy las
-special_judge: false
-time_limit: 8 초
-memory_limit: 1024 MB
+title: "Kolorowy las"
+special_judge: "false"
+time_limit: "8 초"
+memory_limit: "1024 MB"
 submissions: 43
 accepted: 8
 solved_users: 6
-acceptance_rate: 18.182%
-collected_at: 2026-04-17T19:34:59.611172+00:00
+acceptance_rate: "18.182%"
+collected_at: "2026-04-17T19:34:59.611172+00:00"
 ---
 
 ## 문제

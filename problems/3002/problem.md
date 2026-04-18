@@ -1,13 +1,13 @@
 ---
-title: 아날로그 다이얼
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "아날로그 다이얼"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 930
 accepted: 310
 solved_users: 202
-acceptance_rate: 36.136%
-collected_at: 2026-04-17T10:46:10.475285+00:00
+acceptance_rate: "36.136%"
+collected_at: "2026-04-17T10:46:10.475285+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 3D Printing
-special_judge: true
-time_limit: 5 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "3D Printing"
+special_judge: "true"
+time_limit: "5 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 173
 accepted: 140
 solved_users: 126
-acceptance_rate: 80.255%
-collected_at: 2026-04-17T17:20:29.642288+00:00
+acceptance_rate: "80.255%"
+collected_at: "2026-04-17T17:20:29.642288+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Classical A+B Problem
-special_judge: true
-time_limit: 4 초
-memory_limit: 1024 MB
+title: "Classical A+B Problem"
+special_judge: "true"
+time_limit: "4 초"
+memory_limit: "1024 MB"
 submissions: 253
 accepted: 84
 solved_users: 66
-acceptance_rate: 37.079%
-collected_at: 2026-04-17T18:19:58.093717+00:00
+acceptance_rate: "37.079%"
+collected_at: "2026-04-17T18:19:58.093717+00:00"
 ---
 
 ## 문제

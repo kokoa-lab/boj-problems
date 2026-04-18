@@ -1,13 +1,13 @@
 ---
-title: 미토콘드리아 이브
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "미토콘드리아 이브"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 141
 accepted: 51
 solved_users: 44
-acceptance_rate: 38.596%
-collected_at: 2026-04-17T10:49:19.739529+00:00
+acceptance_rate: "38.596%"
+collected_at: "2026-04-17T10:49:19.739529+00:00"
 ---
 
 ## 문제

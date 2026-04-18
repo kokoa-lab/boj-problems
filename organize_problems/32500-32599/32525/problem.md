@@ -1,13 +1,13 @@
 ---
-title: Duality
-special_judge: true
-time_limit: 0.2 초
-memory_limit: 1024 MB
+title: "Duality"
+special_judge: "true"
+time_limit: "0.2 초"
+memory_limit: "1024 MB"
 submissions: 725
 accepted: 255
 solved_users: 187
-acceptance_rate: 37.325%
-collected_at: 2026-04-17T19:54:01.124692+00:00
+acceptance_rate: "37.325%"
+collected_at: "2026-04-17T19:54:01.124692+00:00"
 ---
 
 ## 문제

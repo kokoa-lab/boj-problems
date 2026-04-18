@@ -1,13 +1,13 @@
 ---
-title: 가희와 터널
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "가희와 터널"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 118
 accepted: 72
 solved_users: 65
-acceptance_rate: 90.278%
-collected_at: 2026-04-17T19:15:54.801758+00:00
+acceptance_rate: "90.278%"
+collected_at: "2026-04-17T19:15:54.801758+00:00"
 ---
 
 ## 문제

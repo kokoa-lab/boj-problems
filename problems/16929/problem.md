@@ -1,13 +1,13 @@
 ---
-title: Two Dots
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Two Dots"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 12772
 accepted: 6087
 solved_users: 3965
-acceptance_rate: 44.878%
-collected_at: 2026-04-18T09:58:51.858446+00:00
+acceptance_rate: "44.878%"
+collected_at: "2026-04-18T09:58:51.858446+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Восстановление строки
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "Восстановление строки"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 34
 accepted: 10
 solved_users: 6
-acceptance_rate: 22.222%
-collected_at: 2026-04-17T16:16:42.683589+00:00
+acceptance_rate: "22.222%"
+collected_at: "2026-04-17T16:16:42.683589+00:00"
 ---
 
 ## 문제

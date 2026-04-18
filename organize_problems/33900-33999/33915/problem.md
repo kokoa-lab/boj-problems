@@ -1,13 +1,13 @@
 ---
-title: 불꽃놀이의 아름다움 2
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "불꽃놀이의 아름다움 2"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 276
 accepted: 145
 solved_users: 106
-acceptance_rate: 51.961%
-collected_at: 2026-04-17T20:26:17.105296+00:00
+acceptance_rate: "51.961%"
+collected_at: "2026-04-17T20:26:17.105296+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Cash Machine
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Cash Machine"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 23
 accepted: 13
 solved_users: 10
-acceptance_rate: 58.824%
-collected_at: 2026-04-17T10:52:06.248949+00:00
+acceptance_rate: "58.824%"
+collected_at: "2026-04-17T10:52:06.248949+00:00"
 ---
 
 ## 문제

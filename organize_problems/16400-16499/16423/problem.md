@@ -1,13 +1,13 @@
 ---
-title: To Tell the Truth
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "To Tell the Truth"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 108
 accepted: 85
 solved_users: 78
-acceptance_rate: 81.250%
-collected_at: 2026-04-17T14:17:44.287220+00:00
+acceptance_rate: "81.250%"
+collected_at: "2026-04-17T14:17:44.287220+00:00"
 ---
 
 ## 문제

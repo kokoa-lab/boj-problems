@@ -1,13 +1,13 @@
 ---
-title: 무알콜 칵테일
-special_judge: true
-time_limit: 1 초
-memory_limit: 128 MB
+title: "무알콜 칵테일"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 2544
 accepted: 1416
 solved_users: 1277
-acceptance_rate: 58.605%
-collected_at: 2026-04-17T10:45:32.103199+00:00
+acceptance_rate: "58.605%"
+collected_at: "2026-04-17T10:45:32.103199+00:00"
 ---
 
 ## 문제

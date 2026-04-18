@@ -1,13 +1,13 @@
 ---
-title: Exponential Towers
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "Exponential Towers"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 59
 accepted: 23
 solved_users: 18
-acceptance_rate: 34.615%
-collected_at: 2026-04-17T12:12:28.096830+00:00
+acceptance_rate: "34.615%"
+collected_at: "2026-04-17T12:12:28.096830+00:00"
 ---
 
 ## 문제

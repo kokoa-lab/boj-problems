@@ -1,13 +1,13 @@
 ---
-title: King of Chairs
-special_judge: true
-time_limit: 1 초
-memory_limit: 32 MB
+title: "King of Chairs"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "32 MB"
 submissions: 149
 accepted: 81
 solved_users: 68
-acceptance_rate: 54.839%
-collected_at: 2026-04-17T13:08:05.270991+00:00
+acceptance_rate: "54.839%"
+collected_at: "2026-04-17T13:08:05.270991+00:00"
 ---
 
 ## 문제

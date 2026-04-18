@@ -1,13 +1,13 @@
 ---
-title: 바지 구매
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "바지 구매"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 329
 accepted: 256
 solved_users: 207
-acceptance_rate: 79.923%
-collected_at: 2026-04-17T17:25:10.267552+00:00
+acceptance_rate: "79.923%"
+collected_at: "2026-04-17T17:25:10.267552+00:00"
 ---
 
 ## 문제

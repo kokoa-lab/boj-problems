@@ -1,13 +1,13 @@
 ---
-title: Heaps from Trees
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Heaps from Trees"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 111
 accepted: 63
 solved_users: 47
-acceptance_rate: 62.667%
-collected_at: 2026-04-17T13:36:51.828288+00:00
+acceptance_rate: "62.667%"
+collected_at: "2026-04-17T13:36:51.828288+00:00"
 ---
 
 ## 문제

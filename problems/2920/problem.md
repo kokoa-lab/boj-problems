@@ -1,13 +1,13 @@
 ---
-title: 음계
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "음계"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 129269
 accepted: 73956
 solved_users: 64637
-acceptance_rate: 58.223%
-collected_at: 2026-04-17T10:45:42.741530+00:00
+acceptance_rate: "58.223%"
+collected_at: "2026-04-17T10:45:42.741530+00:00"
 ---
 
 ## 문제

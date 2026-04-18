@@ -1,13 +1,13 @@
 ---
-title: Rotten Ropes
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Rotten Ropes"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 56
 accepted: 50
 solved_users: 42
-acceptance_rate: 89.362%
-collected_at: 2026-04-17T11:48:07.343906+00:00
+acceptance_rate: "89.362%"
+collected_at: "2026-04-17T11:48:07.343906+00:00"
 ---
 
 ## 문제

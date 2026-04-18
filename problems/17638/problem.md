@@ -1,13 +1,13 @@
 ---
-title: Separator
-special_judge: true
-time_limit: 1.2 초
-memory_limit: 512 MB
+title: "Separator"
+special_judge: "true"
+time_limit: "1.2 초"
+memory_limit: "512 MB"
 submissions: 29
 accepted: 22
 solved_users: 20
-acceptance_rate: 100.000%
-collected_at: 2026-04-17T14:43:28.004388+00:00
+acceptance_rate: "100.000%"
+collected_at: "2026-04-17T14:43:28.004388+00:00"
 ---
 
 ## 문제

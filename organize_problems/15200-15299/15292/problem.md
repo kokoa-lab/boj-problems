@@ -1,13 +1,13 @@
 ---
-title: Journey from Petersburg to Moscow
-special_judge: false
-time_limit: 3 초
-memory_limit: 512 MB
+title: "Journey from Petersburg to Moscow"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "512 MB"
 submissions: 419
 accepted: 198
 solved_users: 100
-acceptance_rate: 45.045%
-collected_at: 2026-04-17T13:56:33.910031+00:00
+acceptance_rate: "45.045%"
+collected_at: "2026-04-17T13:56:33.910031+00:00"
 ---
 
 ## 문제

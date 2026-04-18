@@ -1,13 +1,13 @@
 ---
-title: Archer Vlad
-special_judge: true
-time_limit: 3 초
-memory_limit: 512 MB
+title: "Archer Vlad"
+special_judge: "true"
+time_limit: "3 초"
+memory_limit: "512 MB"
 submissions: 152
 accepted: 51
 solved_users: 35
-acceptance_rate: 32.110%
-collected_at: 2026-04-17T15:45:02.621806+00:00
+acceptance_rate: "32.110%"
+collected_at: "2026-04-17T15:45:02.621806+00:00"
 ---
 
 ## 문제

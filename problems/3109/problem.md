@@ -1,13 +1,13 @@
 ---
-title: 빵집
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "빵집"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 35592
 accepted: 13399
 solved_users: 8667
-acceptance_rate: 32.921%
-collected_at: 2026-04-17T10:46:44.506006+00:00
+acceptance_rate: "32.921%"
+collected_at: "2026-04-17T10:46:44.506006+00:00"
 ---
 
 ## 문제

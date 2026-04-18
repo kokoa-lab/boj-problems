@@ -1,13 +1,13 @@
 ---
-title: Защитники Асгарда
-special_judge: true
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Защитники Асгарда"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 6
 accepted: 2
 solved_users: 2
-acceptance_rate: 33.333%
-collected_at: 2026-04-17T18:33:59.795586+00:00
+acceptance_rate: "33.333%"
+collected_at: "2026-04-17T18:33:59.795586+00:00"
 ---
 
 ## 문제

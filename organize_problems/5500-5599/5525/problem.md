@@ -1,13 +1,13 @@
 ---
-title: IOIOI
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "IOIOI"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 60237
 accepted: 17726
 solved_users: 14411
-acceptance_rate: 30.438%
-collected_at: 2026-04-17T11:14:57.572547+00:00
+acceptance_rate: "30.438%"
+collected_at: "2026-04-17T11:14:57.572547+00:00"
 ---
 
 ## 문제

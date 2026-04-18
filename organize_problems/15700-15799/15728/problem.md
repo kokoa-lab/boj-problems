@@ -1,13 +1,13 @@
 ---
-title: 에리 - 카드
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "에리 - 카드"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 1510
 accepted: 530
 solved_users: 459
-acceptance_rate: 36.371%
-collected_at: 2026-04-17T14:05:15.169236+00:00
+acceptance_rate: "36.371%"
+collected_at: "2026-04-17T14:05:15.169236+00:00"
 ---
 
 ## 문제

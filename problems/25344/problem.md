@@ -1,13 +1,13 @@
 ---
-title: 행성 정렬
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "행성 정렬"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 1203
 accepted: 603
 solved_users: 505
-acceptance_rate: 50.450%
-collected_at: 2026-04-17T17:25:14.653965+00:00
+acceptance_rate: "50.450%"
+collected_at: "2026-04-17T17:25:14.653965+00:00"
 ---
 
 ## 문제

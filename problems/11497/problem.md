@@ -1,13 +1,13 @@
 ---
-title: 통나무 건너뛰기
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "통나무 건너뛰기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 12050
 accepted: 7270
 solved_users: 5812
-acceptance_rate: 61.231%
-collected_at: 2026-04-17T12:41:29.547843+00:00
+acceptance_rate: "61.231%"
+collected_at: "2026-04-17T12:41:29.547843+00:00"
 ---
 
 ## 문제

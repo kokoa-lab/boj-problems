@@ -1,13 +1,13 @@
 ---
-title: Jednoręki bandyta
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Jednoręki bandyta"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 12
 accepted: 4
 solved_users: 4
-acceptance_rate: 36.364%
-collected_at: 2026-04-17T12:01:41.156307+00:00
+acceptance_rate: "36.364%"
+collected_at: "2026-04-17T12:01:41.156307+00:00"
 ---
 
 ## 문제

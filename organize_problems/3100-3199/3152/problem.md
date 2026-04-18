@@ -1,13 +1,13 @@
 ---
-title: 예쁜 숫자
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "예쁜 숫자"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 526
 accepted: 232
 solved_users: 128
-acceptance_rate: 36.364%
-collected_at: 2026-04-18T09:58:04.051978+00:00
+acceptance_rate: "36.364%"
+collected_at: "2026-04-18T09:58:04.051978+00:00"
 ---
 
 ## 문제

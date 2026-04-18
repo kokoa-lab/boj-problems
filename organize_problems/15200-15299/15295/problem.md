@@ -1,13 +1,13 @@
 ---
-title: Chanukah Challenge
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Chanukah Challenge"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 651
 accepted: 599
 solved_users: 524
-acceptance_rate: 92.254%
-collected_at: 2026-04-17T13:56:36.718993+00:00
+acceptance_rate: "92.254%"
+collected_at: "2026-04-17T13:56:36.718993+00:00"
 ---
 
 ## 문제

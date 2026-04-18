@@ -1,13 +1,13 @@
 ---
-title: Шушпанчики и кинотеатр
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Шушпанчики и кинотеатр"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 26
 accepted: 7
 solved_users: 5
-acceptance_rate: 20.833%
-collected_at: 2026-04-17T15:27:22.864651+00:00
+acceptance_rate: "20.833%"
+collected_at: "2026-04-17T15:27:22.864651+00:00"
 ---
 
 ## 문제

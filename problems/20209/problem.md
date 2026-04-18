@@ -1,13 +1,13 @@
 ---
-title: 스트레이트 스위치 게임
-special_judge: false
-time_limit: 1.5 초
-memory_limit: 512 MB
+title: "스트레이트 스위치 게임"
+special_judge: "false"
+time_limit: "1.5 초"
+memory_limit: "512 MB"
 submissions: 777
 accepted: 291
 solved_users: 184
-acceptance_rate: 32.394%
-collected_at: 2026-04-17T15:33:02.935840+00:00
+acceptance_rate: "32.394%"
+collected_at: "2026-04-17T15:33:02.935840+00:00"
 ---
 
 ## 문제

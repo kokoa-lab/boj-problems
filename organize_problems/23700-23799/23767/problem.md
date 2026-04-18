@@ -1,13 +1,13 @@
 ---
-title: Access Denied
-special_judge: false
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Access Denied"
+special_judge: "false"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 177
 accepted: 77
 solved_users: 72
-acceptance_rate: 47.682%
-collected_at: 2026-04-17T16:53:24.190091+00:00
+acceptance_rate: "47.682%"
+collected_at: "2026-04-17T16:53:24.190091+00:00"
 ---
 
 ## 문제

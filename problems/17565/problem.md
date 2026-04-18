@@ -1,13 +1,13 @@
 ---
-title: Analogue Cluster
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "Analogue Cluster"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 44
 accepted: 29
 solved_users: 29
-acceptance_rate: 70.732%
-collected_at: 2026-04-17T14:41:56.554532+00:00
+acceptance_rate: "70.732%"
+collected_at: "2026-04-17T14:41:56.554532+00:00"
 ---
 
 ## 문제

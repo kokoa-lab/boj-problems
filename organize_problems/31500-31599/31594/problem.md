@@ -1,13 +1,13 @@
 ---
-title: Attraction Score
-special_judge: false
-time_limit: 4 초
-memory_limit: 1024 MB
+title: "Attraction Score"
+special_judge: "false"
+time_limit: "4 초"
+memory_limit: "1024 MB"
 submissions: 143
 accepted: 39
 solved_users: 31
-acceptance_rate: 24.603%
-collected_at: 2026-04-17T19:31:34.735963+00:00
+acceptance_rate: "24.603%"
+collected_at: "2026-04-17T19:31:34.735963+00:00"
 ---
 
 ## 문제

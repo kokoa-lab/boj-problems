@@ -1,13 +1,13 @@
 ---
-title: 괄호 문자열
-special_judge: false
-time_limit: 1 초  ( 하단 참고 )
-memory_limit: 256 MB
+title: "괄호 문자열"
+special_judge: "false"
+time_limit: "1 초  ( 하단 참고 )"
+memory_limit: "256 MB"
 submissions: 97
 accepted: 41
 solved_users: 30
-acceptance_rate: 43.478%
-collected_at: 2026-04-17T15:15:37.730835+00:00
+acceptance_rate: "43.478%"
+collected_at: "2026-04-17T15:15:37.730835+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 그렘린
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "그렘린"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 41
 accepted: 11
 solved_users: 11
-acceptance_rate: 37.931%
-collected_at: 2026-04-17T10:45:32.906332+00:00
+acceptance_rate: "37.931%"
+collected_at: "2026-04-17T10:45:32.906332+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Fairies' Sorcery
-special_judge: true
-time_limit: 2 초
-memory_limit: 256 MB
+title: "Fairies' Sorcery"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 122
 accepted: 38
 solved_users: 25
-acceptance_rate: 33.784%
-collected_at: 2026-04-17T13:07:58.802653+00:00
+acceptance_rate: "33.784%"
+collected_at: "2026-04-17T13:07:58.802653+00:00"
 ---
 
 ## 문제

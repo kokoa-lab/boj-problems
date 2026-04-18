@@ -1,13 +1,13 @@
 ---
-title: 분해 반응
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "분해 반응"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 469
 accepted: 215
 solved_users: 166
-acceptance_rate: 48.538%
-collected_at: 2026-04-17T10:39:25.220731+00:00
+acceptance_rate: "48.538%"
+collected_at: "2026-04-17T10:39:25.220731+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Przedziały
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "Przedziały"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 48
 accepted: 29
 solved_users: 25
-acceptance_rate: 58.140%
-collected_at: 2026-04-17T12:03:36.366997+00:00
+acceptance_rate: "58.140%"
+collected_at: "2026-04-17T12:03:36.366997+00:00"
 ---
 
 ## 문제

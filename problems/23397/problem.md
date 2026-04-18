@@ -1,13 +1,13 @@
 ---
-title: Kathmandu
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Kathmandu"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 539
 accepted: 294
 solved_users: 266
-acceptance_rate: 54.397%
-collected_at: 2026-04-17T16:47:29.305532+00:00
+acceptance_rate: "54.397%"
+collected_at: "2026-04-17T16:47:29.305532+00:00"
 ---
 
 ## 문제

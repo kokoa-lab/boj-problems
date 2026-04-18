@@ -1,13 +1,13 @@
 ---
-title: 합이 같은 구간
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "합이 같은 구간"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 973
 accepted: 356
 solved_users: 267
-acceptance_rate: 42.516%
-collected_at: 2026-04-17T10:43:59.808270+00:00
+acceptance_rate: "42.516%"
+collected_at: "2026-04-17T10:43:59.808270+00:00"
 ---
 
 ## 문제

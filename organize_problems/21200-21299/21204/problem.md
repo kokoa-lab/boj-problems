@@ -1,13 +1,13 @@
 ---
-title: Antimatter Rain
-special_judge: false
-time_limit: 7 초
-memory_limit: 1024 MB
+title: "Antimatter Rain"
+special_judge: "false"
+time_limit: "7 초"
+memory_limit: "1024 MB"
 submissions: 21
 accepted: 17
 solved_users: 15
-acceptance_rate: 93.750%
-collected_at: 2026-04-17T15:50:18.906684+00:00
+acceptance_rate: "93.750%"
+collected_at: "2026-04-17T15:50:18.906684+00:00"
 ---
 
 ## 문제

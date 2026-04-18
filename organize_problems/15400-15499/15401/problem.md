@@ -1,13 +1,13 @@
 ---
-title: Tetris
-special_judge: false
-time_limit: 2.5 초
-memory_limit: 512 MB
+title: "Tetris"
+special_judge: "false"
+time_limit: "2.5 초"
+memory_limit: "512 MB"
 submissions: 86
 accepted: 21
 solved_users: 11
-acceptance_rate: 16.176%
-collected_at: 2026-04-17T13:58:40.753885+00:00
+acceptance_rate: "16.176%"
+collected_at: "2026-04-17T13:58:40.753885+00:00"
 ---
 
 ## 문제

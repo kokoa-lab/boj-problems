@@ -1,13 +1,13 @@
 ---
-title: Hyperrectangle
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Hyperrectangle"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 75
 accepted: 39
 solved_users: 30
-acceptance_rate: 49.180%
-collected_at: 2026-04-17T14:25:01.085624+00:00
+acceptance_rate: "49.180%"
+collected_at: "2026-04-17T14:25:01.085624+00:00"
 ---
 
 ## 문제

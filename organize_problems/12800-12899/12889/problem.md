@@ -1,13 +1,13 @@
 ---
-title: 특별한 문자열
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "특별한 문자열"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 225
 accepted: 49
 solved_users: 38
-acceptance_rate: 26.573%
-collected_at: 2026-04-17T13:03:21.760811+00:00
+acceptance_rate: "26.573%"
+collected_at: "2026-04-17T13:03:21.760811+00:00"
 ---
 
 ## 문제

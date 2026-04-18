@@ -1,13 +1,13 @@
 ---
-title: Planet Nine
-special_judge: true
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Planet Nine"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 53
 accepted: 27
 solved_users: 23
-acceptance_rate: 52.273%
-collected_at: 2026-04-17T15:28:02.907426+00:00
+acceptance_rate: "52.273%"
+collected_at: "2026-04-17T15:28:02.907426+00:00"
 ---
 
 ## 문제

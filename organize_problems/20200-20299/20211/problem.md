@@ -1,13 +1,13 @@
 ---
-title: 게임 개발자 영우
-special_judge: false
-time_limit: 3 초
-memory_limit: 512 MB
+title: "게임 개발자 영우"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "512 MB"
 submissions: 121
 accepted: 49
 solved_users: 30
-acceptance_rate: 48.387%
-collected_at: 2026-04-17T15:33:03.335505+00:00
+acceptance_rate: "48.387%"
+collected_at: "2026-04-17T15:33:03.335505+00:00"
 ---
 
 ## 문제

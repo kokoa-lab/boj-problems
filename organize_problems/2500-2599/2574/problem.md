@@ -1,13 +1,13 @@
 ---
-title: 마법색종이
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "마법색종이"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 1490
 accepted: 230
 solved_users: 126
-acceptance_rate: 20.521%
-collected_at: 2026-04-17T10:42:52.216199+00:00
+acceptance_rate: "20.521%"
+collected_at: "2026-04-17T10:42:52.216199+00:00"
 ---
 
 ## 문제

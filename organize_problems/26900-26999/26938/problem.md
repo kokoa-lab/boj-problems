@@ -1,13 +1,13 @@
 ---
-title: Lamps
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Lamps"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 107
 accepted: 70
 solved_users: 61
-acceptance_rate: 65.591%
-collected_at: 2026-04-17T17:53:38.301248+00:00
+acceptance_rate: "65.591%"
+collected_at: "2026-04-17T17:53:38.301248+00:00"
 ---
 
 ## 문제

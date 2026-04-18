@@ -1,13 +1,13 @@
 ---
-title: Block Game
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Block Game"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 359
 accepted: 248
 solved_users: 219
-acceptance_rate: 71.569%
-collected_at: 2026-04-17T13:11:50.268357+00:00
+acceptance_rate: "71.569%"
+collected_at: "2026-04-17T13:11:50.268357+00:00"
 ---
 
 ## 문제

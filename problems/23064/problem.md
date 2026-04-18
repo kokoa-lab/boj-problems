@@ -1,13 +1,13 @@
 ---
-title: L-triominoes
-special_judge: false
-time_limit: 8 초
-memory_limit: 512 MB
+title: "L-triominoes"
+special_judge: "false"
+time_limit: "8 초"
+memory_limit: "512 MB"
 submissions: 33
 accepted: 15
 solved_users: 9
-acceptance_rate: 40.909%
-collected_at: 2026-04-17T16:41:14.967398+00:00
+acceptance_rate: "40.909%"
+collected_at: "2026-04-17T16:41:14.967398+00:00"
 ---
 
 ## 문제

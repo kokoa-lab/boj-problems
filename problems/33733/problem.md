@@ -1,13 +1,13 @@
 ---
-title: Vocabulary Quiz
-special_judge: false
-time_limit: 2 초
-memory_limit: 2048 MB
+title: "Vocabulary Quiz"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "2048 MB"
 submissions: 66
 accepted: 47
 solved_users: 41
-acceptance_rate: 75.926%
-collected_at: 2026-04-17T20:22:28.129891+00:00
+acceptance_rate: "75.926%"
+collected_at: "2026-04-17T20:22:28.129891+00:00"
 ---
 
 ## 문제

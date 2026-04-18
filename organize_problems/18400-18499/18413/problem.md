@@ -1,13 +1,13 @@
 ---
-title: 最頻値 (Mode)
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "最頻値 (Mode)"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 260
 accepted: 195
 solved_users: 183
-acceptance_rate: 76.250%
-collected_at: 2026-04-18T09:51:00.147720+00:00
+acceptance_rate: "76.250%"
+collected_at: "2026-04-18T09:51:00.147720+00:00"
 ---
 
 ## 문제

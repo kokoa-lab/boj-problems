@@ -1,13 +1,13 @@
 ---
-title: Pitch Performance
-special_judge: true
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Pitch Performance"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 23
 accepted: 12
 solved_users: 8
-acceptance_rate: 50.000%
-collected_at: 2026-04-17T15:40:41.366649+00:00
+acceptance_rate: "50.000%"
+collected_at: "2026-04-17T15:40:41.366649+00:00"
 ---
 
 ## 문제

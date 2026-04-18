@@ -1,13 +1,13 @@
 ---
-title: Wizards Unite
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Wizards Unite"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 124
 accepted: 66
 solved_users: 53
-acceptance_rate: 51.961%
-collected_at: 2026-04-17T15:08:58.203722+00:00
+acceptance_rate: "51.961%"
+collected_at: "2026-04-17T15:08:58.203722+00:00"
 ---
 
 ## 문제

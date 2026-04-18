@@ -1,13 +1,13 @@
 ---
-title: Counting Stairs
-special_judge: false
-time_limit: 3 초
-memory_limit: 512 MB
+title: "Counting Stairs"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "512 MB"
 submissions: 286
 accepted: 116
 solved_users: 82
-acceptance_rate: 35.193%
-collected_at: 2026-04-17T14:21:46.278699+00:00
+acceptance_rate: "35.193%"
+collected_at: "2026-04-17T14:21:46.278699+00:00"
 ---
 
 ## 문제

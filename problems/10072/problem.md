@@ -1,13 +1,13 @@
 ---
-title: 곤돌라 - 곤돌라 수열 확인
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "곤돌라 - 곤돌라 수열 확인"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 377
 accepted: 134
 solved_users: 121
-acceptance_rate: 37.578%
-collected_at: 2026-04-17T12:18:38.509818+00:00
+acceptance_rate: "37.578%"
+collected_at: "2026-04-17T12:18:38.509818+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Strongest Friendship Group
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Strongest Friendship Group"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 300
 accepted: 154
 solved_users: 94
-acceptance_rate: 43.519%
-collected_at: 2026-04-17T17:54:09.672315+00:00
+acceptance_rate: "43.519%"
+collected_at: "2026-04-17T17:54:09.672315+00:00"
 ---
 
 ## 문제

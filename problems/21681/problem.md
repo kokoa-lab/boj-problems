@@ -1,13 +1,13 @@
 ---
-title: Числа
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Числа"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 53
 accepted: 22
 solved_users: 16
-acceptance_rate: 48.485%
-collected_at: 2026-04-17T16:03:33.406684+00:00
+acceptance_rate: "48.485%"
+collected_at: "2026-04-17T16:03:33.406684+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: The primes contain arbitrarily long arithmetic progressions
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "The primes contain arbitrarily long arithmetic progressions"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 1734
 accepted: 649
 solved_users: 559
-acceptance_rate: 40.043%
-collected_at: 2026-04-17T18:14:14.193431+00:00
+acceptance_rate: "40.043%"
+collected_at: "2026-04-17T18:14:14.193431+00:00"
 ---
 
 ## 문제

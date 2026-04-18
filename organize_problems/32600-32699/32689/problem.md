@@ -1,13 +1,13 @@
 ---
-title: 트랙 정리하기
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "트랙 정리하기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 186
 accepted: 55
 solved_users: 48
-acceptance_rate: 36.923%
-collected_at: 2026-04-17T19:59:18.300237+00:00
+acceptance_rate: "36.923%"
+collected_at: "2026-04-17T19:59:18.300237+00:00"
 ---
 
 ## 문제

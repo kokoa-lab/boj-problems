@@ -1,13 +1,13 @@
 ---
-title: Cypher
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Cypher"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 397
 accepted: 259
 solved_users: 216
-acceptance_rate: 66.258%
-collected_at: 2026-04-17T12:39:20.624623+00:00
+acceptance_rate: "66.258%"
+collected_at: "2026-04-17T12:39:20.624623+00:00"
 ---
 
 ## 문제

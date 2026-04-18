@@ -1,13 +1,13 @@
 ---
-title: Travelling Merchant
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Travelling Merchant"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 170
 accepted: 49
 solved_users: 34
-acceptance_rate: 24.460%
-collected_at: 2026-04-17T14:07:32.492536+00:00
+acceptance_rate: "24.460%"
+collected_at: "2026-04-17T14:07:32.492536+00:00"
 ---
 
 ## 문제

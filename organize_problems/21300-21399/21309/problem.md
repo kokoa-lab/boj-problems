@@ -1,13 +1,13 @@
 ---
-title: Cardinal Adjacencies
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Cardinal Adjacencies"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 146
 accepted: 129
 solved_users: 114
-acceptance_rate: 90.476%
-collected_at: 2026-04-17T15:54:28.303904+00:00
+acceptance_rate: "90.476%"
+collected_at: "2026-04-17T15:54:28.303904+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 2D Matrix
-special_judge: true
-time_limit: 1 초
-memory_limit: 64 MB
+title: "2D Matrix"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "64 MB"
 submissions: 38
 accepted: 6
 solved_users: 4
-acceptance_rate: 44.444%
-collected_at: 2026-04-17T11:52:06.580953+00:00
+acceptance_rate: "44.444%"
+collected_at: "2026-04-17T11:52:06.580953+00:00"
 ---
 
 ## 문제

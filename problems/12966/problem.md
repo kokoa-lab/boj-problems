@@ -1,13 +1,13 @@
 ---
-title: 턴 게임 2
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "턴 게임 2"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 435
 accepted: 98
 solved_users: 87
-acceptance_rate: 23.324%
-collected_at: 2026-04-17T13:04:48.513116+00:00
+acceptance_rate: "23.324%"
+collected_at: "2026-04-17T13:04:48.513116+00:00"
 ---
 
 ## 문제

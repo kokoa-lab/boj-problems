@@ -1,13 +1,13 @@
 ---
-title: 가장높은탑쌓기
-special_judge: true
-time_limit: 1 초
-memory_limit: 128 MB
+title: "가장높은탑쌓기"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 7087
 accepted: 2451
 solved_users: 1838
-acceptance_rate: 37.343%
-collected_at: 2026-04-17T10:43:41.451034+00:00
+acceptance_rate: "37.343%"
+collected_at: "2026-04-17T10:43:41.451034+00:00"
 ---
 
 ## 문제

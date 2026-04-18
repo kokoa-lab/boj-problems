@@ -1,13 +1,13 @@
 ---
-title: 부분 문자열의 개수
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "부분 문자열의 개수"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 299
 accepted: 112
 solved_users: 89
-acceptance_rate: 44.500%
-collected_at: 2026-04-17T12:50:18.362684+00:00
+acceptance_rate: "44.500%"
+collected_at: "2026-04-17T12:50:18.362684+00:00"
 ---
 
 ## 문제

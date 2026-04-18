@@ -1,13 +1,13 @@
 ---
-title: Beavergnaw
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Beavergnaw"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 112
 accepted: 76
 solved_users: 63
-acceptance_rate: 70.787%
-collected_at: 2026-04-17T10:59:54.864837+00:00
+acceptance_rate: "70.787%"
+collected_at: "2026-04-17T10:59:54.864837+00:00"
 ---
 
 ## 문제

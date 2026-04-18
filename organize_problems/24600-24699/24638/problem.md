@@ -1,13 +1,13 @@
 ---
-title: Anno Domini 2022
-special_judge: false
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "Anno Domini 2022"
+special_judge: "false"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 254
 accepted: 192
 solved_users: 143
-acceptance_rate: 78.142%
-collected_at: 2026-04-17T17:12:26.136770+00:00
+acceptance_rate: "78.142%"
+collected_at: "2026-04-17T17:12:26.136770+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Guess the Animal
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Guess the Animal"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 887
 accepted: 444
 solved_users: 365
-acceptance_rate: 54.315%
-collected_at: 2026-04-17T14:28:00.866260+00:00
+acceptance_rate: "54.315%"
+collected_at: "2026-04-17T14:28:00.866260+00:00"
 ---
 
 ## 문제

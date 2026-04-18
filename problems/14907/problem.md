@@ -1,13 +1,13 @@
 ---
-title: 프로젝트 스케줄링
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "프로젝트 스케줄링"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 1220
 accepted: 488
 solved_users: 369
-acceptance_rate: 38.478%
-collected_at: 2026-04-17T13:45:02.591512+00:00
+acceptance_rate: "38.478%"
+collected_at: "2026-04-17T13:45:02.591512+00:00"
 ---
 
 ## 문제

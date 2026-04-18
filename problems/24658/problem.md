@@ -1,13 +1,13 @@
 ---
-title: Flatland Currency
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Flatland Currency"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 95
 accepted: 36
 solved_users: 26
-acceptance_rate: 33.766%
-collected_at: 2026-04-17T17:12:43.409646+00:00
+acceptance_rate: "33.766%"
+collected_at: "2026-04-17T17:12:43.409646+00:00"
 ---
 
 ## 문제

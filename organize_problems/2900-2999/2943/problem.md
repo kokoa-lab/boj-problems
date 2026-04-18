@@ -1,13 +1,13 @@
 ---
-title: 토끼
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "토끼"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 394
 accepted: 124
 solved_users: 107
-acceptance_rate: 41.634%
-collected_at: 2026-04-17T10:45:50.245671+00:00
+acceptance_rate: "41.634%"
+collected_at: "2026-04-17T10:45:50.245671+00:00"
 ---
 
 ## 문제

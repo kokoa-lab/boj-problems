@@ -1,13 +1,13 @@
 ---
-title: 돌다리
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "돌다리"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 5459
 accepted: 2954
 solved_users: 2484
-acceptance_rate: 53.720%
-collected_at: 2026-04-17T13:00:59.558364+00:00
+acceptance_rate: "53.720%"
+collected_at: "2026-04-17T13:00:59.558364+00:00"
 ---
 
 ## 문제

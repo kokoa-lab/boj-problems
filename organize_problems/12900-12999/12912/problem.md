@@ -1,13 +1,13 @@
 ---
-title: 트리 수정
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "트리 수정"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 344
 accepted: 159
 solved_users: 126
-acceptance_rate: 52.720%
-collected_at: 2026-04-17T13:03:48.889640+00:00
+acceptance_rate: "52.720%"
+collected_at: "2026-04-17T13:03:48.889640+00:00"
 ---
 
 ## 문제

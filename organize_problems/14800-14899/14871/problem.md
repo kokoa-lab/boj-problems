@@ -1,13 +1,13 @@
 ---
-title: Sheets
-special_judge: false
-time_limit: 1 초
-memory_limit: 32 MB
+title: "Sheets"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "32 MB"
 submissions: 22
 accepted: 4
 solved_users: 4
-acceptance_rate: 44.444%
-collected_at: 2026-04-17T13:43:36.631532+00:00
+acceptance_rate: "44.444%"
+collected_at: "2026-04-17T13:43:36.631532+00:00"
 ---
 
 ## 문제

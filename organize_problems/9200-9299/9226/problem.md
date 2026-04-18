@@ -1,13 +1,13 @@
 ---
-title: 도깨비말
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "도깨비말"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 2880
 accepted: 1427
 solved_users: 1267
-acceptance_rate: 51.048%
-collected_at: 2026-04-17T12:08:03.274155+00:00
+acceptance_rate: "51.048%"
+collected_at: "2026-04-17T12:08:03.274155+00:00"
 ---
 
 ## 문제

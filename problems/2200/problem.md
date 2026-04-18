@@ -1,13 +1,13 @@
 ---
-title: 계산기
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "계산기"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 1034
 accepted: 309
 solved_users: 259
-acceptance_rate: 40.596%
-collected_at: 2026-04-17T10:39:27.206510+00:00
+acceptance_rate: "40.596%"
+collected_at: "2026-04-17T10:39:27.206510+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Nimionese
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Nimionese"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 62
 accepted: 46
 solved_users: 34
-acceptance_rate: 79.070%
-collected_at: 2026-04-17T12:41:23.195518+00:00
+acceptance_rate: "79.070%"
+collected_at: "2026-04-17T12:41:23.195518+00:00"
 ---
 
 ## 문제

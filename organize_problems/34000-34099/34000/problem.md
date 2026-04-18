@@ -1,13 +1,13 @@
 ---
-title: 취향 변화
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "취향 변화"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 122
 accepted: 58
 solved_users: 51
-acceptance_rate: 47.222%
-collected_at: 2026-04-17T20:28:15.345859+00:00
+acceptance_rate: "47.222%"
+collected_at: "2026-04-17T20:28:15.345859+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 문자 연금술
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "문자 연금술"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 159
 accepted: 52
 solved_users: 45
-acceptance_rate: 37.190%
-collected_at: 2026-04-17T18:09:39.279751+00:00
+acceptance_rate: "37.190%"
+collected_at: "2026-04-17T18:09:39.279751+00:00"
 ---
 
 ## 문제

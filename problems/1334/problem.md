@@ -1,13 +1,13 @@
 ---
-title: 다음 팰린드롬 수
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "다음 팰린드롬 수"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 6397
 accepted: 1238
 solved_users: 983
-acceptance_rate: 24.398%
-collected_at: 2026-04-17T10:29:30.191659+00:00
+acceptance_rate: "24.398%"
+collected_at: "2026-04-17T10:29:30.191659+00:00"
 ---
 
 ## 문제

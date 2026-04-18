@@ -1,13 +1,13 @@
 ---
-title: Faster Than Light
-special_judge: false
-time_limit: 10 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Faster Than Light"
+special_judge: "false"
+time_limit: "10 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 172
 accepted: 31
 solved_users: 25
-acceptance_rate: 19.841%
-collected_at: 2026-04-17T17:41:25.023170+00:00
+acceptance_rate: "19.841%"
+collected_at: "2026-04-17T17:41:25.023170+00:00"
 ---
 
 ## 문제

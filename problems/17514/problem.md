@@ -1,13 +1,13 @@
 ---
-title: Lexicographically Minimum Walk
-special_judge: false
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Lexicographically Minimum Walk"
+special_judge: "false"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 218
 accepted: 96
 solved_users: 84
-acceptance_rate: 43.299%
-collected_at: 2026-04-17T14:40:56.535254+00:00
+acceptance_rate: "43.299%"
+collected_at: "2026-04-17T14:40:56.535254+00:00"
 ---
 
 ## 문제

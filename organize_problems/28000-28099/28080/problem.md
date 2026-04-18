@@ -1,13 +1,13 @@
 ---
-title: 인경호의 나무
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "인경호의 나무"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 184
 accepted: 84
 solved_users: 78
-acceptance_rate: 46.988%
-collected_at: 2026-04-17T18:17:49.125862+00:00
+acceptance_rate: "46.988%"
+collected_at: "2026-04-17T18:17:49.125862+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: The Big Dance
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "The Big Dance"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 254
 accepted: 211
 solved_users: 181
-acceptance_rate: 86.190%
-collected_at: 2026-04-17T11:19:24.624278+00:00
+acceptance_rate: "86.190%"
+collected_at: "2026-04-17T11:19:24.624278+00:00"
 ---
 
 ## 문제

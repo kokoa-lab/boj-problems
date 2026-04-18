@@ -1,13 +1,13 @@
 ---
-title: 고려대학교에는 공식 와인이 있다
-special_judge: false
-time_limit: 0.1 초
-memory_limit: 256 MB
+title: "고려대학교에는 공식 와인이 있다"
+special_judge: "false"
+time_limit: "0.1 초"
+memory_limit: "256 MB"
 submissions: 4756
 accepted: 3953
 solved_users: 3524
-acceptance_rate: 83.626%
-collected_at: 2026-04-17T14:22:06.205828+00:00
+acceptance_rate: "83.626%"
+collected_at: "2026-04-17T14:22:06.205828+00:00"
 ---
 
 ## 문제

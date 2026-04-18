@@ -1,13 +1,13 @@
 ---
-title: 입자 가속기
-special_judge: false
-time_limit: 5 초
-memory_limit: 2048 MB
+title: "입자 가속기"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "2048 MB"
 submissions: 168
 accepted: 53
 solved_users: 42
-acceptance_rate: 34.711%
-collected_at: 2026-04-17T20:13:34.321292+00:00
+acceptance_rate: "34.711%"
+collected_at: "2026-04-17T20:13:34.321292+00:00"
 ---
 
 ## 문제

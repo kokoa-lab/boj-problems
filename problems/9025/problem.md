@@ -1,13 +1,13 @@
 ---
-title: Widest Path
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Widest Path"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 185
 accepted: 84
 solved_users: 65
-acceptance_rate: 43.919%
-collected_at: 2026-04-17T12:06:15.859706+00:00
+acceptance_rate: "43.919%"
+collected_at: "2026-04-17T12:06:15.859706+00:00"
 ---
 
 ## 문제

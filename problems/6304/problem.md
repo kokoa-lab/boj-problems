@@ -1,13 +1,13 @@
 ---
-title: The die is cast
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "The die is cast"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 72
 accepted: 21
 solved_users: 20
-acceptance_rate: 31.746%
-collected_at: 2026-04-17T11:24:30.488253+00:00
+acceptance_rate: "31.746%"
+collected_at: "2026-04-17T11:24:30.488253+00:00"
 ---
 
 ## 문제

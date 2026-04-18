@@ -1,13 +1,13 @@
 ---
-title: Hand of the Free Marked
-special_judge: true
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Hand of the Free Marked"
+special_judge: "true"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 26
 accepted: 20
 solved_users: 17
-acceptance_rate: 94.444%
-collected_at: 2026-04-17T17:40:41.639160+00:00
+acceptance_rate: "94.444%"
+collected_at: "2026-04-17T17:40:41.639160+00:00"
 ---
 
 ## 문제

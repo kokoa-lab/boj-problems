@@ -1,13 +1,13 @@
 ---
-title: 농구 경기
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "농구 경기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 33257
 accepted: 18134
 solved_users: 14636
-acceptance_rate: 53.976%
-collected_at: 2026-04-17T10:28:31.991147+00:00
+acceptance_rate: "53.976%"
+collected_at: "2026-04-17T10:28:31.991147+00:00"
 ---
 
 ## 문제

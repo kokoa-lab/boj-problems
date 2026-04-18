@@ -1,13 +1,13 @@
 ---
-title: Conflict
-special_judge: false
-time_limit: 3 초
-memory_limit: 1024 MB
+title: "Conflict"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "1024 MB"
 submissions: 142
 accepted: 69
 solved_users: 64
-acceptance_rate: 47.059%
-collected_at: 2026-04-17T20:44:54.715512+00:00
+acceptance_rate: "47.059%"
+collected_at: "2026-04-17T20:44:54.715512+00:00"
 ---
 
 ## 문제

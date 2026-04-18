@@ -1,13 +1,13 @@
 ---
-title: Postman Joe
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Postman Joe"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 314
 accepted: 96
 solved_users: 83
-acceptance_rate: 30.741%
-collected_at: 2026-04-17T11:11:30.535630+00:00
+acceptance_rate: "30.741%"
+collected_at: "2026-04-17T11:11:30.535630+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 쿠키크루
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "쿠키크루"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 403
 accepted: 185
 solved_users: 153
-acceptance_rate: 47.516%
-collected_at: 2026-04-17T16:39:02.421465+00:00
+acceptance_rate: "47.516%"
+collected_at: "2026-04-17T16:39:02.421465+00:00"
 ---
 
 ## 문제

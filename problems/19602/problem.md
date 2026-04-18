@@ -1,13 +1,13 @@
 ---
-title: Dog Treats
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Dog Treats"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 3723
 accepted: 3150
 solved_users: 3005
-acceptance_rate: 84.529%
-collected_at: 2026-04-17T15:24:36.637215+00:00
+acceptance_rate: "84.529%"
+collected_at: "2026-04-17T15:24:36.637215+00:00"
 ---
 
 ## 문제

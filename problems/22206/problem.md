@@ -1,13 +1,13 @@
 ---
-title: Mines - 1
-special_judge: true
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Mines - 1"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 106
 accepted: 72
 solved_users: 70
-acceptance_rate: 72.917%
-collected_at: 2026-04-17T16:17:05.438804+00:00
+acceptance_rate: "72.917%"
+collected_at: "2026-04-17T16:17:05.438804+00:00"
 ---
 
 ## 문제

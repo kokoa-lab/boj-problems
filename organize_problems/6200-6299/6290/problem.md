@@ -1,13 +1,13 @@
 ---
-title: Pipes
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Pipes"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 44
 accepted: 19
 solved_users: 19
-acceptance_rate: 63.333%
-collected_at: 2026-04-18T09:49:07.727550+00:00
+acceptance_rate: "63.333%"
+collected_at: "2026-04-18T09:49:07.727550+00:00"
 ---
 
 ## 문제

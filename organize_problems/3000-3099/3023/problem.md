@@ -1,13 +1,13 @@
 ---
-title: 마술사 이민혁
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "마술사 이민혁"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 3462
 accepted: 2052
 solved_users: 1847
-acceptance_rate: 61.567%
-collected_at: 2026-04-17T10:46:16.291297+00:00
+acceptance_rate: "61.567%"
+collected_at: "2026-04-17T10:46:16.291297+00:00"
 ---
 
 ## 문제

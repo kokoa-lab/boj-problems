@@ -1,13 +1,13 @@
 ---
-title: Play the Dragon (Large)
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Play the Dragon (Large)"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 12
 accepted: 5
 solved_users: 5
-acceptance_rate: 50.000%
-collected_at: 2026-04-17T13:42:02.786951+00:00
+acceptance_rate: "50.000%"
+collected_at: "2026-04-17T13:42:02.786951+00:00"
 ---
 
 ## 문제

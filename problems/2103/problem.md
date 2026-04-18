@@ -1,13 +1,13 @@
 ---
-title: 직교다각형 복원
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "직교다각형 복원"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 1063
 accepted: 453
 solved_users: 382
-acceptance_rate: 44.574%
-collected_at: 2026-04-17T10:38:18.351209+00:00
+acceptance_rate: "44.574%"
+collected_at: "2026-04-17T10:38:18.351209+00:00"
 ---
 
 ## 문제

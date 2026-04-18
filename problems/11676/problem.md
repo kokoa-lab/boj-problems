@@ -1,13 +1,13 @@
 ---
-title: Kitchen Combinatorics
-special_judge: false
-time_limit: 4 초
-memory_limit: 256 MB
+title: "Kitchen Combinatorics"
+special_judge: "false"
+time_limit: "4 초"
+memory_limit: "256 MB"
 submissions: 254
 accepted: 73
 solved_users: 64
-acceptance_rate: 37.870%
-collected_at: 2026-04-17T12:43:56.716164+00:00
+acceptance_rate: "37.870%"
+collected_at: "2026-04-17T12:43:56.716164+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Fancy Stack
-special_judge: false
-time_limit: 3 초
-memory_limit: 512 MB
+title: "Fancy Stack"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "512 MB"
 submissions: 80
 accepted: 45
 solved_users: 36
-acceptance_rate: 52.174%
-collected_at: 2026-04-17T17:25:31.700510+00:00
+acceptance_rate: "52.174%"
+collected_at: "2026-04-17T17:25:31.700510+00:00"
 ---
 
 ## 문제

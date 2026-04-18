@@ -1,13 +1,13 @@
 ---
-title: 할아버지는 유명해!
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "할아버지는 유명해!"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 1979
 accepted: 1137
 solved_users: 926
-acceptance_rate: 57.623%
-collected_at: 2026-04-17T11:17:10.608954+00:00
+acceptance_rate: "57.623%"
+collected_at: "2026-04-17T11:17:10.608954+00:00"
 ---
 
 ## 문제

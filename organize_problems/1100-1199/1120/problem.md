@@ -1,13 +1,13 @@
 ---
-title: 문자열
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "문자열"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 24151
 accepted: 14344
 solved_users: 12607
-acceptance_rate: 60.921%
-collected_at: 2026-04-17T10:28:19.422828+00:00
+acceptance_rate: "60.921%"
+collected_at: "2026-04-17T10:28:19.422828+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Sudoku Checker (Small)
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Sudoku Checker (Small)"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 228
 accepted: 150
 solved_users: 126
-acceptance_rate: 70.787%
-collected_at: 2026-04-17T12:52:44.401424+00:00
+acceptance_rate: "70.787%"
+collected_at: "2026-04-17T12:52:44.401424+00:00"
 ---
 
 ## 문제

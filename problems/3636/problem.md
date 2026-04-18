@@ -1,13 +1,13 @@
 ---
-title: Horn Clauses
-special_judge: true
-time_limit: 2 초
-memory_limit: 64 MB
+title: "Horn Clauses"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "64 MB"
 submissions: 31
 accepted: 12
 solved_users: 7
-acceptance_rate: 33.333%
-collected_at: 2026-04-17T10:50:28.997504+00:00
+acceptance_rate: "33.333%"
+collected_at: "2026-04-17T10:50:28.997504+00:00"
 ---
 
 ## 문제

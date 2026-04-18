@@ -1,13 +1,13 @@
 ---
-title: Kangaroos
-special_judge: false
-time_limit: 5 초
-memory_limit: 128 MB
+title: "Kangaroos"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "128 MB"
 submissions: 213
 accepted: 41
 solved_users: 17
-acceptance_rate: 15.888%
-collected_at: 2026-04-17T11:58:03.152080+00:00
+acceptance_rate: "15.888%"
+collected_at: "2026-04-17T11:58:03.152080+00:00"
 ---
 
 ## 문제

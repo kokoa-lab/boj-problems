@@ -1,13 +1,13 @@
 ---
-title: 멍멍이 쓰다듬기
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "멍멍이 쓰다듬기"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 5357
 accepted: 1836
 solved_users: 1603
-acceptance_rate: 37.253%
-collected_at: 2026-04-17T10:32:11.532240+00:00
+acceptance_rate: "37.253%"
+collected_at: "2026-04-17T10:32:11.532240+00:00"
 ---
 
 ## 문제

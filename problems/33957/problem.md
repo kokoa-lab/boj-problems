@@ -1,13 +1,13 @@
 ---
-title: Golden Section Search
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Golden Section Search"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 94
 accepted: 69
 solved_users: 64
-acceptance_rate: 73.563%
-collected_at: 2026-04-17T20:27:26.347371+00:00
+acceptance_rate: "73.563%"
+collected_at: "2026-04-17T20:27:26.347371+00:00"
 ---
 
 ## 문제

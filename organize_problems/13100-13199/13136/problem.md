@@ -1,13 +1,13 @@
 ---
-title: Do Not Touch Anything
-special_judge: false
-time_limit: 1 초
-memory_limit: 32 MB
+title: "Do Not Touch Anything"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "32 MB"
 submissions: 7510
 accepted: 4017
 solved_users: 3784
-acceptance_rate: 54.368%
-collected_at: 2026-04-17T13:07:55.434309+00:00
+acceptance_rate: "54.368%"
+collected_at: "2026-04-17T13:07:55.434309+00:00"
 ---
 
 ## 문제

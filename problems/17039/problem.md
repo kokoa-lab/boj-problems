@@ -1,13 +1,13 @@
 ---
-title: Sleepy Cow Herding (Bronze)
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Sleepy Cow Herding (Bronze)"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 1566
 accepted: 602
 solved_users: 519
-acceptance_rate: 38.559%
-collected_at: 2026-04-17T14:28:24.659738+00:00
+acceptance_rate: "38.559%"
+collected_at: "2026-04-17T14:28:24.659738+00:00"
 ---
 
 ## 문제

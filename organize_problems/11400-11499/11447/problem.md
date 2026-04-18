@@ -1,13 +1,13 @@
 ---
-title: Colby’s Costly Collectibles
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Colby’s Costly Collectibles"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 258
 accepted: 125
 solved_users: 105
-acceptance_rate: 53.846%
-collected_at: 2026-04-17T12:40:51.651995+00:00
+acceptance_rate: "53.846%"
+collected_at: "2026-04-17T12:40:51.651995+00:00"
 ---
 
 ## 문제

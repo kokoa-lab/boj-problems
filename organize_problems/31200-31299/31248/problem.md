@@ -1,13 +1,13 @@
 ---
-title: 3+1 하노이 탑
-special_judge: true
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "3+1 하노이 탑"
+special_judge: "true"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 960
 accepted: 393
 solved_users: 323
-acceptance_rate: 46.408%
-collected_at: 2026-04-17T19:24:36.931483+00:00
+acceptance_rate: "46.408%"
+collected_at: "2026-04-17T19:24:36.931483+00:00"
 ---
 
 ## 문제

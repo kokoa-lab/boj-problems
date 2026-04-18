@@ -1,13 +1,13 @@
 ---
-title: 두 요리
-special_judge: false
-time_limit: 5 초
-memory_limit: 1024 MB
+title: "두 요리"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "1024 MB"
 submissions: 246
 accepted: 62
 solved_users: 44
-acceptance_rate: 22.798%
-collected_at: 2026-04-17T14:44:56.804865+00:00
+acceptance_rate: "22.798%"
+collected_at: "2026-04-17T14:44:56.804865+00:00"
 ---
 
 ## 문제

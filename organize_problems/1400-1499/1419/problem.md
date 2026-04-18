@@ -1,13 +1,13 @@
 ---
-title: 등차수열의 합
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "등차수열의 합"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 3030
 accepted: 712
 solved_users: 577
-acceptance_rate: 25.241%
-collected_at: 2026-04-17T10:30:05.709228+00:00
+acceptance_rate: "25.241%"
+collected_at: "2026-04-17T10:30:05.709228+00:00"
 ---
 
 ## 문제

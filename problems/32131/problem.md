@@ -1,13 +1,13 @@
 ---
-title: 연결하기
-special_judge: false
-time_limit: 5 초 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "연결하기"
+special_judge: "false"
+time_limit: "5 초 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 37
 accepted: 7
 solved_users: 5
-acceptance_rate: 62.500%
-collected_at: 2026-04-17T19:43:45.590809+00:00
+acceptance_rate: "62.500%"
+collected_at: "2026-04-17T19:43:45.590809+00:00"
 ---
 
 ## 문제

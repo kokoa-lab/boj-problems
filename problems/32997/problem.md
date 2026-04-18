@@ -1,13 +1,13 @@
 ---
-title: 매우 간단한 문제
-special_judge: false
-time_limit: 4 초
-memory_limit: 1024 MB
+title: "매우 간단한 문제"
+special_judge: "false"
+time_limit: "4 초"
+memory_limit: "1024 MB"
 submissions: 103
 accepted: 50
 solved_users: 37
-acceptance_rate: 53.623%
-collected_at: 2026-04-17T20:07:09.102256+00:00
+acceptance_rate: "53.623%"
+collected_at: "2026-04-17T20:07:09.102256+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Breakdown
-special_judge: false
-time_limit: 3 초
-memory_limit: 1024 MB
+title: "Breakdown"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "1024 MB"
 submissions: 92
 accepted: 33
 solved_users: 28
-acceptance_rate: 38.889%
-collected_at: 2026-04-17T17:54:04.202390+00:00
+acceptance_rate: "38.889%"
+collected_at: "2026-04-17T17:54:04.202390+00:00"
 ---
 
 ## 문제

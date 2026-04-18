@@ -1,13 +1,13 @@
 ---
-title: Everything Has Changed
-special_judge: true
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Everything Has Changed"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 34
 accepted: 25
 solved_users: 15
-acceptance_rate: 65.217%
-collected_at: 2026-04-17T15:06:30.491644+00:00
+acceptance_rate: "65.217%"
+collected_at: "2026-04-17T15:06:30.491644+00:00"
 ---
 
 ## 문제

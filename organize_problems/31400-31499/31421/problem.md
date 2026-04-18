@@ -1,13 +1,13 @@
 ---
-title: 호떡 뒤집기
-special_judge: true
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "호떡 뒤집기"
+special_judge: "true"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 609
 accepted: 194
 solved_users: 153
-acceptance_rate: 30.600%
-collected_at: 2026-04-17T19:27:57.977716+00:00
+acceptance_rate: "30.600%"
+collected_at: "2026-04-17T19:27:57.977716+00:00"
 ---
 
 ## 문제

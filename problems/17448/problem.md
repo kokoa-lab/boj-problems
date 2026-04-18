@@ -1,13 +1,13 @@
 ---
-title: 성냥팔이 소년
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "성냥팔이 소년"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 833
 accepted: 78
 solved_users: 72
-acceptance_rate: 12.142%
-collected_at: 2026-04-17T14:39:34.208468+00:00
+acceptance_rate: "12.142%"
+collected_at: "2026-04-17T14:39:34.208468+00:00"
 ---
 
 ## 문제

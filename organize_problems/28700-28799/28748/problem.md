@@ -1,13 +1,13 @@
 ---
-title: Единая сеть
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Единая сеть"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 13
 accepted: 1
 solved_users: 1
-acceptance_rate: 7.692%
-collected_at: 2026-04-17T18:31:43.013467+00:00
+acceptance_rate: "7.692%"
+collected_at: "2026-04-17T18:31:43.013467+00:00"
 ---
 
 ## 문제

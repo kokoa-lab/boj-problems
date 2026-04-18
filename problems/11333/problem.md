@@ -1,13 +1,13 @@
 ---
-title: 4×n 타일링
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "4×n 타일링"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 981
 accepted: 496
 solved_users: 405
-acceptance_rate: 52.872%
-collected_at: 2026-04-17T12:39:47.291977+00:00
+acceptance_rate: "52.872%"
+collected_at: "2026-04-17T12:39:47.291977+00:00"
 ---
 
 ## 문제

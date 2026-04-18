@@ -1,13 +1,13 @@
 ---
-title: Hungry Cows
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Hungry Cows"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 258
 accepted: 140
 solved_users: 116
-acceptance_rate: 54.976%
-collected_at: 2026-04-17T11:22:22.758304+00:00
+acceptance_rate: "54.976%"
+collected_at: "2026-04-17T11:22:22.758304+00:00"
 ---
 
 ## 문제

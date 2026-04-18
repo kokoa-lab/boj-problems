@@ -1,13 +1,13 @@
 ---
-title: 문제 이름
-special_judge: true
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "문제 이름"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 300
 accepted: 65
 solved_users: 29
-acceptance_rate: 18.831%
-collected_at: 2026-04-17T17:16:55.958299+00:00
+acceptance_rate: "18.831%"
+collected_at: "2026-04-17T17:16:55.958299+00:00"
 ---
 
 ## 문제

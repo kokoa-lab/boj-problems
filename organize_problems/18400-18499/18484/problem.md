@@ -1,13 +1,13 @@
 ---
-title: Eight Sins
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Eight Sins"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 300
 accepted: 55
 solved_users: 42
-acceptance_rate: 19.905%
-collected_at: 2026-04-17T15:05:31.723303+00:00
+acceptance_rate: "19.905%"
+collected_at: "2026-04-17T15:05:31.723303+00:00"
 ---
 
 ## 문제

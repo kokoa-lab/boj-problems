@@ -1,13 +1,13 @@
 ---
-title: 슈퍼브 다트
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "슈퍼브 다트"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 179
 accepted: 38
 solved_users: 26
-acceptance_rate: 29.545%
-collected_at: 2026-04-17T14:36:43.619859+00:00
+acceptance_rate: "29.545%"
+collected_at: "2026-04-17T14:36:43.619859+00:00"
 ---
 
 ## 문제

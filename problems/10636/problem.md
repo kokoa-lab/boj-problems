@@ -1,13 +1,13 @@
 ---
-title: Medical Inspection
-special_judge: false
-time_limit: 10 초
-memory_limit: 512 MB
+title: "Medical Inspection"
+special_judge: "false"
+time_limit: "10 초"
+memory_limit: "512 MB"
 submissions: 69
 accepted: 6
 solved_users: 5
-acceptance_rate: 20.833%
-collected_at: 2026-04-17T12:26:43.185500+00:00
+acceptance_rate: "20.833%"
+collected_at: "2026-04-17T12:26:43.185500+00:00"
 ---
 
 ## 문제

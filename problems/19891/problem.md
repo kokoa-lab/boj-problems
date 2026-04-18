@@ -1,13 +1,13 @@
 ---
-title: Занимательное дежурство
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Занимательное дежурство"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 26
 accepted: 10
 solved_users: 9
-acceptance_rate: 50.000%
-collected_at: 2026-04-17T15:28:59.945197+00:00
+acceptance_rate: "50.000%"
+collected_at: "2026-04-17T15:28:59.945197+00:00"
 ---
 
 ## 문제

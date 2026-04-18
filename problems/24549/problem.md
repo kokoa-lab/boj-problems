@@ -1,13 +1,13 @@
 ---
-title: 신촌방위본부의 부대 배치
-special_judge: true
-time_limit: 2.4 초 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "신촌방위본부의 부대 배치"
+special_judge: "true"
+time_limit: "2.4 초 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 270
 accepted: 43
 solved_users: 39
-acceptance_rate: 19.403%
-collected_at: 2026-04-17T17:10:59.540146+00:00
+acceptance_rate: "19.403%"
+collected_at: "2026-04-17T17:10:59.540146+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Dirichlet
-special_judge: false
-time_limit: 2.5 초
-memory_limit: 512 MB
+title: "Dirichlet"
+special_judge: "false"
+time_limit: "2.5 초"
+memory_limit: "512 MB"
 submissions: 43
 accepted: 8
 solved_users: 5
-acceptance_rate: 15.152%
-collected_at: 2026-04-17T15:14:08.339634+00:00
+acceptance_rate: "15.152%"
+collected_at: "2026-04-17T15:14:08.339634+00:00"
 ---
 
 ## 문제

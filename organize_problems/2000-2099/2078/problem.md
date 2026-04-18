@@ -1,13 +1,13 @@
 ---
-title: 무한이진트리
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "무한이진트리"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 2408
 accepted: 975
 solved_users: 802
-acceptance_rate: 41.533%
-collected_at: 2026-04-17T10:37:59.754389+00:00
+acceptance_rate: "41.533%"
+collected_at: "2026-04-17T10:37:59.754389+00:00"
 ---
 
 ## 문제

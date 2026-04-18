@@ -1,13 +1,13 @@
 ---
-title: Line-Based Matrix Addition
-special_judge: false
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "Line-Based Matrix Addition"
+special_judge: "false"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 74
 accepted: 24
 solved_users: 19
-acceptance_rate: 34.545%
-collected_at: 2026-04-17T20:03:18.533695+00:00
+acceptance_rate: "34.545%"
+collected_at: "2026-04-17T20:03:18.533695+00:00"
 ---
 
 ## 문제

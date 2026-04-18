@@ -1,13 +1,13 @@
 ---
-title: 백발백준하는 명사수
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "백발백준하는 명사수"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 5538
 accepted: 2398
 solved_users: 2208
-acceptance_rate: 45.043%
-collected_at: 2026-04-17T16:39:03.491459+00:00
+acceptance_rate: "45.043%"
+collected_at: "2026-04-17T16:39:03.491459+00:00"
 ---
 
 ## 문제

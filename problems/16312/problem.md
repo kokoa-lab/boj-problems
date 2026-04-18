@@ -1,13 +1,13 @@
 ---
-title: In Case of an Invasion, Please. . .
-special_judge: false
-time_limit: 3.5 초
-memory_limit: 512 MB
+title: "In Case of an Invasion, Please. . ."
+special_judge: "false"
+time_limit: "3.5 초"
+memory_limit: "512 MB"
 submissions: 93
 accepted: 51
 solved_users: 45
-acceptance_rate: 59.211%
-collected_at: 2026-04-17T14:15:32.109291+00:00
+acceptance_rate: "59.211%"
+collected_at: "2026-04-17T14:15:32.109291+00:00"
 ---
 
 ## 문제

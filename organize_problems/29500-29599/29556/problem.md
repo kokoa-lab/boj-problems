@@ -1,13 +1,13 @@
 ---
-title: Йою Ньерк
-special_judge: true
-time_limit: 3 초
-memory_limit: 1024 MB
+title: "Йою Ньерк"
+special_judge: "true"
+time_limit: "3 초"
+memory_limit: "1024 MB"
 submissions: 7
 accepted: 1
 solved_users: 1
-acceptance_rate: 14.286%
-collected_at: 2026-04-17T18:47:22.376925+00:00
+acceptance_rate: "14.286%"
+collected_at: "2026-04-17T18:47:22.376925+00:00"
 ---
 
 ## 문제

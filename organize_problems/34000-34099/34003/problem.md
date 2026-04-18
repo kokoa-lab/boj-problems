@@ -1,13 +1,13 @@
 ---
-title: 파이널 서바이버
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "파이널 서바이버"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 178
 accepted: 109
 solved_users: 101
-acceptance_rate: 66.013%
-collected_at: 2026-04-17T20:28:19.599748+00:00
+acceptance_rate: "66.013%"
+collected_at: "2026-04-17T20:28:19.599748+00:00"
 ---
 
 ## 문제

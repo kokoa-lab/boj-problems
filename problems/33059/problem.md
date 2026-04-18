@@ -1,13 +1,13 @@
 ---
-title: Cake Game
-special_judge: false
-time_limit: 2 초
-memory_limit: 2048 MB
+title: "Cake Game"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "2048 MB"
 submissions: 302
 accepted: 162
 solved_users: 152
-acceptance_rate: 59.144%
-collected_at: 2026-04-17T20:08:28.334580+00:00
+acceptance_rate: "59.144%"
+collected_at: "2026-04-17T20:08:28.334580+00:00"
 ---
 
 ## 문제

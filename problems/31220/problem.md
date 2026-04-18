@@ -1,13 +1,13 @@
 ---
-title: 연결된 지배 집합
-special_judge: true
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "연결된 지배 집합"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 178
 accepted: 81
 solved_users: 65
-acceptance_rate: 47.101%
-collected_at: 2026-04-17T19:23:51.161525+00:00
+acceptance_rate: "47.101%"
+collected_at: "2026-04-17T19:23:51.161525+00:00"
 ---
 
 ## 문제

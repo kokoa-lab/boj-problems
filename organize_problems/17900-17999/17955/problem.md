@@ -1,13 +1,13 @@
 ---
-title: Max or Min
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Max or Min"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 344
 accepted: 123
 solved_users: 103
-acceptance_rate: 36.140%
-collected_at: 2026-04-17T14:50:49.438016+00:00
+acceptance_rate: "36.140%"
+collected_at: "2026-04-17T14:50:49.438016+00:00"
 ---
 
 ## 문제

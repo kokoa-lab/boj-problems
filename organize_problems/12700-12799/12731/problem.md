@@ -1,13 +1,13 @@
 ---
-title: 열차 시간표(Small)
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "열차 시간표(Small)"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 479
 accepted: 200
 solved_users: 171
-acceptance_rate: 43.846%
-collected_at: 2026-04-17T13:00:23.883811+00:00
+acceptance_rate: "43.846%"
+collected_at: "2026-04-17T13:00:23.883811+00:00"
 ---
 
 ## 문제

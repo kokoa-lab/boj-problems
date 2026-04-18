@@ -1,13 +1,13 @@
 ---
-title: Finite Array Swaps
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Finite Array Swaps"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 355
 accepted: 42
 solved_users: 17
-acceptance_rate: 8.586%
-collected_at: 2026-04-17T20:19:02.340332+00:00
+acceptance_rate: "8.586%"
+collected_at: "2026-04-17T20:19:02.340332+00:00"
 ---
 
 ## 문제

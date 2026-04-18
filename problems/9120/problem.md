@@ -1,13 +1,13 @@
 ---
-title: Oulipo
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Oulipo"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 252
 accepted: 157
 solved_users: 127
-acceptance_rate: 69.022%
-collected_at: 2026-04-17T12:07:14.801020+00:00
+acceptance_rate: "69.022%"
+collected_at: "2026-04-17T12:07:14.801020+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Heroic Heist
-special_judge: false
-time_limit: 3 초
-memory_limit: 512 MB
+title: "Heroic Heist"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "512 MB"
 submissions: 69
 accepted: 30
 solved_users: 24
-acceptance_rate: 41.379%
-collected_at: 2026-04-17T15:10:02.386955+00:00
+acceptance_rate: "41.379%"
+collected_at: "2026-04-17T15:10:02.386955+00:00"
 ---
 
 ## 문제

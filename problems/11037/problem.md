@@ -1,13 +1,13 @@
 ---
-title: 중복 없는 수
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "중복 없는 수"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 583
 accepted: 233
 solved_users: 171
-acceptance_rate: 42.965%
-collected_at: 2026-04-17T12:35:31.016851+00:00
+acceptance_rate: "42.965%"
+collected_at: "2026-04-17T12:35:31.016851+00:00"
 ---
 
 ## 문제

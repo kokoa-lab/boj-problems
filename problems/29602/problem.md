@@ -1,13 +1,13 @@
 ---
-title: Расписание
-special_judge: true
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Расписание"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 124
 accepted: 111
 solved_users: 92
-acceptance_rate: 93.878%
-collected_at: 2026-04-17T18:48:28.751762+00:00
+acceptance_rate: "93.878%"
+collected_at: "2026-04-17T18:48:28.751762+00:00"
 ---
 
 ## 문제

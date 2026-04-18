@@ -1,13 +1,13 @@
 ---
-title: 아스키 도형
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "아스키 도형"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 1498
 accepted: 820
 solved_users: 690
-acceptance_rate: 56.650%
-collected_at: 2026-04-17T10:49:14.600121+00:00
+acceptance_rate: "56.650%"
+collected_at: "2026-04-17T10:49:14.600121+00:00"
 ---
 
 ## 문제

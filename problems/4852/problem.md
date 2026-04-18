@@ -1,13 +1,13 @@
 ---
-title: Winter Festival
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Winter Festival"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 92
 accepted: 77
 solved_users: 61
-acceptance_rate: 81.333%
-collected_at: 2026-04-17T11:09:23.117793+00:00
+acceptance_rate: "81.333%"
+collected_at: "2026-04-17T11:09:23.117793+00:00"
 ---
 
 ## 문제

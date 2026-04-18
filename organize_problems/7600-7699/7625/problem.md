@@ -1,13 +1,13 @@
 ---
-title: Space Boomerang
-special_judge: false
-time_limit: 3 초
-memory_limit: 128 MB
+title: "Space Boomerang"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "128 MB"
 submissions: 11
 accepted: 3
 solved_users: 3
-acceptance_rate: 50.000%
-collected_at: 2026-04-17T11:51:14.734551+00:00
+acceptance_rate: "50.000%"
+collected_at: "2026-04-17T11:51:14.734551+00:00"
 ---
 
 ## 문제

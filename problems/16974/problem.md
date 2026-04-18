@@ -1,13 +1,13 @@
 ---
-title: 레벨 햄버거
-special_judge: false
-time_limit: 0.5 초
-memory_limit: 512 MB
+title: "레벨 햄버거"
+special_judge: "false"
+time_limit: "0.5 초"
+memory_limit: "512 MB"
 submissions: 3613
 accepted: 1789
 solved_users: 1439
-acceptance_rate: 52.557%
-collected_at: 2026-04-17T14:26:59.489106+00:00
+acceptance_rate: "52.557%"
+collected_at: "2026-04-17T14:26:59.489106+00:00"
 ---
 
 ## 문제

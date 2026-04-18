@@ -1,13 +1,13 @@
 ---
-title: 팀 나누기
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "팀 나누기"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 11419
 accepted: 6950
 solved_users: 6454
-acceptance_rate: 61.519%
-collected_at: 2026-04-17T13:21:00.886094+00:00
+acceptance_rate: "61.519%"
+collected_at: "2026-04-17T13:21:00.886094+00:00"
 ---
 
 ## 문제

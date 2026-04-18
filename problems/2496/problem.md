@@ -1,13 +1,13 @@
 ---
-title: 금강석
-special_judge: true
-time_limit: 1 초
-memory_limit: 128 MB
+title: "금강석"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 2242
 accepted: 271
 solved_users: 162
-acceptance_rate: 14.324%
-collected_at: 2026-04-17T10:42:07.996461+00:00
+acceptance_rate: "14.324%"
+collected_at: "2026-04-17T10:42:07.996461+00:00"
 ---
 
 ## 문제

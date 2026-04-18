@@ -1,13 +1,13 @@
 ---
-title: 티켓
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "티켓"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 327
 accepted: 46
 solved_users: 31
-acceptance_rate: 19.497%
-collected_at: 2026-04-17T10:38:14.085883+00:00
+acceptance_rate: "19.497%"
+collected_at: "2026-04-17T10:38:14.085883+00:00"
 ---
 
 ## 문제

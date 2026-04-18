@@ -1,13 +1,13 @@
 ---
-title: 로마 숫자 재배치
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "로마 숫자 재배치"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 747
 accepted: 270
 solved_users: 225
-acceptance_rate: 39.336%
-collected_at: 2026-04-17T10:45:41.298746+00:00
+acceptance_rate: "39.336%"
+collected_at: "2026-04-17T10:45:41.298746+00:00"
 ---
 
 ## 문제

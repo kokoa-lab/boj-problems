@@ -1,13 +1,13 @@
 ---
-title: Discord Daisy Chain
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Discord Daisy Chain"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 25
 accepted: 15
 solved_users: 13
-acceptance_rate: 56.522%
-collected_at: 2026-04-17T17:33:23.668594+00:00
+acceptance_rate: "56.522%"
+collected_at: "2026-04-17T17:33:23.668594+00:00"
 ---
 
 ## 문제

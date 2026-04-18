@@ -1,13 +1,13 @@
 ---
-title: 우산
-special_judge: false
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "우산"
+special_judge: "false"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 229
 accepted: 61
 solved_users: 46
-acceptance_rate: 25.000%
-collected_at: 2026-04-17T14:13:40.656003+00:00
+acceptance_rate: "25.000%"
+collected_at: "2026-04-17T14:13:40.656003+00:00"
 ---
 
 ## 문제

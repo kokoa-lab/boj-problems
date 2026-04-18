@@ -1,13 +1,13 @@
 ---
-title: Complete Tripartite
-special_judge: true
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Complete Tripartite"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 45
 accepted: 25
 solved_users: 23
-acceptance_rate: 54.762%
-collected_at: 2026-04-17T19:00:10.246342+00:00
+acceptance_rate: "54.762%"
+collected_at: "2026-04-17T19:00:10.246342+00:00"
 ---
 
 ## 문제

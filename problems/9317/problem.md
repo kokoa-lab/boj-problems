@@ -1,13 +1,13 @@
 ---
-title: Monitor DPI
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Monitor DPI"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 737
 accepted: 526
 solved_users: 481
-acceptance_rate: 73.323%
-collected_at: 2026-04-17T12:08:51.563112+00:00
+acceptance_rate: "73.323%"
+collected_at: "2026-04-17T12:08:51.563112+00:00"
 ---
 
 ## 문제

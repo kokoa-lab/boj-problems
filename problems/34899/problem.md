@@ -1,13 +1,13 @@
 ---
-title: 사탕 줍기
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "사탕 줍기"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 60
 accepted: 30
 solved_users: 24
-acceptance_rate: 54.545%
-collected_at: 2026-04-17T20:51:34.774495+00:00
+acceptance_rate: "54.545%"
+collected_at: "2026-04-17T20:51:34.774495+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Basis Change
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Basis Change"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 78
 accepted: 29
 solved_users: 24
-acceptance_rate: 40.000%
-collected_at: 2026-04-17T15:06:13.744028+00:00
+acceptance_rate: "40.000%"
+collected_at: "2026-04-17T15:06:13.744028+00:00"
 ---
 
 ## 문제

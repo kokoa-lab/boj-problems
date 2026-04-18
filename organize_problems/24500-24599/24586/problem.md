@@ -1,13 +1,13 @@
 ---
-title: Code Guessing
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Code Guessing"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 191
 accepted: 97
 solved_users: 86
-acceptance_rate: 51.807%
-collected_at: 2026-04-17T17:11:33.479726+00:00
+acceptance_rate: "51.807%"
+collected_at: "2026-04-17T17:11:33.479726+00:00"
 ---
 
 ## 문제

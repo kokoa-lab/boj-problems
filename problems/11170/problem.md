@@ -1,13 +1,13 @@
 ---
-title: 0의 개수
-special_judge: false
-time_limit: 3 초
-memory_limit: 256 MB
+title: "0의 개수"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "256 MB"
 submissions: 9064
 accepted: 6695
 solved_users: 5824
-acceptance_rate: 75.197%
-collected_at: 2026-04-17T12:37:32.495380+00:00
+acceptance_rate: "75.197%"
+collected_at: "2026-04-17T12:37:32.495380+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Africa
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Africa"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 1482
 accepted: 470
 solved_users: 419
-acceptance_rate: 35.508%
-collected_at: 2026-04-17T14:02:52.501373+00:00
+acceptance_rate: "35.508%"
+collected_at: "2026-04-17T14:02:52.501373+00:00"
 ---
 
 ## 문제

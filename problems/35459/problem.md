@@ -1,13 +1,13 @@
 ---
-title: 하이퍼 자석 체인
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "하이퍼 자석 체인"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 70
 accepted: 56
 solved_users: 43
-acceptance_rate: 76.786%
-collected_at: 2026-04-17T21:07:54.904872+00:00
+acceptance_rate: "76.786%"
+collected_at: "2026-04-17T21:07:54.904872+00:00"
 ---
 
 ## 문제

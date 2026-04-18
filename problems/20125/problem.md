@@ -1,13 +1,13 @@
 ---
-title: 쿠키의 신체 측정
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "쿠키의 신체 측정"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 6490
 accepted: 4375
 solved_users: 3870
-acceptance_rate: 68.471%
-collected_at: 2026-04-17T15:31:58.531241+00:00
+acceptance_rate: "68.471%"
+collected_at: "2026-04-17T15:31:58.531241+00:00"
 ---
 
 ## 문제

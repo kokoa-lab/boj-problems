@@ -1,13 +1,13 @@
 ---
-title: Арифметическая магия
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Арифметическая магия"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 6395
 accepted: 5819
 solved_users: 5425
-acceptance_rate: 92.278%
-collected_at: 2026-04-17T14:55:33.358441+00:00
+acceptance_rate: "92.278%"
+collected_at: "2026-04-17T14:55:33.358441+00:00"
 ---
 
 ## 문제

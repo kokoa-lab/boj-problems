@@ -1,13 +1,13 @@
 ---
-title: Decoration
-special_judge: true
-time_limit: 1.5 초
-memory_limit: 512 MB
+title: "Decoration"
+special_judge: "true"
+time_limit: "1.5 초"
+memory_limit: "512 MB"
 submissions: 93
 accepted: 41
 solved_users: 40
-acceptance_rate: 46.512%
-collected_at: 2026-04-17T15:50:42.970022+00:00
+acceptance_rate: "46.512%"
+collected_at: "2026-04-17T15:50:42.970022+00:00"
 ---
 
 ## 문제

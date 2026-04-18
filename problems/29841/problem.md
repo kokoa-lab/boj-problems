@@ -1,13 +1,13 @@
 ---
-title: Doominokivid
-special_judge: false
-time_limit: 1.5 초
-memory_limit: 1024 MB
+title: "Doominokivid"
+special_judge: "false"
+time_limit: "1.5 초"
+memory_limit: "1024 MB"
 submissions: 14
 accepted: 3
 solved_users: 3
-acceptance_rate: 25.000%
-collected_at: 2026-04-17T18:53:59.949223+00:00
+acceptance_rate: "25.000%"
+collected_at: "2026-04-17T18:53:59.949223+00:00"
 ---
 
 ## 문제

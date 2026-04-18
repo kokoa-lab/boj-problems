@@ -1,13 +1,13 @@
 ---
-title: Spiraling Into Control
-special_judge: true
-time_limit: 서브태스크 참고 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Spiraling Into Control"
+special_judge: "true"
+time_limit: "서브태스크 참고 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 84
 accepted: 62
 solved_users: 60
-acceptance_rate: 80.000%
-collected_at: 2026-04-17T17:24:00.971278+00:00
+acceptance_rate: "80.000%"
+collected_at: "2026-04-17T17:24:00.971278+00:00"
 ---
 
 ## 문제

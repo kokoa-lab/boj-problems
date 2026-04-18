@@ -1,13 +1,13 @@
 ---
-title: The Missing Permutation
-special_judge: false
-time_limit: 15 초
-memory_limit: 256 MB
+title: "The Missing Permutation"
+special_judge: "false"
+time_limit: "15 초"
+memory_limit: "256 MB"
 submissions: 44
 accepted: 7
 solved_users: 5
-acceptance_rate: 31.250%
-collected_at: 2026-04-17T12:35:01.030352+00:00
+acceptance_rate: "31.250%"
+collected_at: "2026-04-17T12:35:01.030352+00:00"
 ---
 
 ## 문제

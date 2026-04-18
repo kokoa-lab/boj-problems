@@ -1,13 +1,13 @@
 ---
-title: 그런 사람은 없었습니다
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "그런 사람은 없었습니다"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 459
 accepted: 203
 solved_users: 180
-acceptance_rate: 58.252%
-collected_at: 2026-04-17T20:02:45.357022+00:00
+acceptance_rate: "58.252%"
+collected_at: "2026-04-17T20:02:45.357022+00:00"
 ---
 
 ## 문제

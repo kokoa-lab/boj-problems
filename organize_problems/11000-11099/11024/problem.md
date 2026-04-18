@@ -1,13 +1,13 @@
 ---
-title: 더하기 4
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "더하기 4"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 5279
 accepted: 3506
 solved_users: 3191
-acceptance_rate: 69.370%
-collected_at: 2026-04-17T12:35:14.080075+00:00
+acceptance_rate: "69.370%"
+collected_at: "2026-04-17T12:35:14.080075+00:00"
 ---
 
 ## 문제

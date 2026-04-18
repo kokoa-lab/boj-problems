@@ -1,13 +1,13 @@
 ---
-title: 문자열 제거
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "문자열 제거"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 1206
 accepted: 505
 solved_users: 394
-acceptance_rate: 43.875%
-collected_at: 2026-04-17T16:10:16.643422+00:00
+acceptance_rate: "43.875%"
+collected_at: "2026-04-17T16:10:16.643422+00:00"
 ---
 
 ## 문제

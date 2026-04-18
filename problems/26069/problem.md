@@ -1,13 +1,13 @@
 ---
-title: 붙임성 좋은 총총이
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "붙임성 좋은 총총이"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 18381
 accepted: 11776
 solved_users: 10450
-acceptance_rate: 64.292%
-collected_at: 2026-04-17T17:39:43.851809+00:00
+acceptance_rate: "64.292%"
+collected_at: "2026-04-17T17:39:43.851809+00:00"
 ---
 
 ## 문제

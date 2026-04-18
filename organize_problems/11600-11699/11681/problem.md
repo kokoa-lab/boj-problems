@@ -1,13 +1,13 @@
 ---
-title: Wooden Signs
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Wooden Signs"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 61
 accepted: 51
 solved_users: 46
-acceptance_rate: 82.143%
-collected_at: 2026-04-17T12:43:59.873480+00:00
+acceptance_rate: "82.143%"
+collected_at: "2026-04-17T12:43:59.873480+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Statues
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Statues"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 67
 accepted: 29
 solved_users: 24
-acceptance_rate: 46.154%
-collected_at: 2026-04-17T15:50:09.951665+00:00
+acceptance_rate: "46.154%"
+collected_at: "2026-04-17T15:50:09.951665+00:00"
 ---
 
 ## 문제

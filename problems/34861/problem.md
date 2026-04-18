@@ -1,13 +1,13 @@
 ---
-title: Badge Relay
-special_judge: false
-time_limit: 9 초
-memory_limit: 2048 MB
+title: "Badge Relay"
+special_judge: "false"
+time_limit: "9 초"
+memory_limit: "2048 MB"
 submissions: 41
 accepted: 11
 solved_users: 9
-acceptance_rate: 23.077%
-collected_at: 2026-04-17T20:50:39.432948+00:00
+acceptance_rate: "23.077%"
+collected_at: "2026-04-17T20:50:39.432948+00:00"
 ---
 
 ## 문제

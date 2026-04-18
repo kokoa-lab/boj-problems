@@ -1,13 +1,13 @@
 ---
-title: JavaScript
-special_judge: false
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "JavaScript"
+special_judge: "false"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 857
 accepted: 605
 solved_users: 533
-acceptance_rate: 76.912%
-collected_at: 2026-04-17T16:46:33.800936+00:00
+acceptance_rate: "76.912%"
+collected_at: "2026-04-17T16:46:33.800936+00:00"
 ---
 
 ## 문제

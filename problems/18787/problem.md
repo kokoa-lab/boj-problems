@@ -1,13 +1,13 @@
 ---
-title: Mad Scientist
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Mad Scientist"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 1075
 accepted: 733
 solved_users: 662
-acceptance_rate: 69.465%
-collected_at: 2026-04-17T15:09:39.493915+00:00
+acceptance_rate: "69.465%"
+collected_at: "2026-04-17T15:09:39.493915+00:00"
 ---
 
 ## 문제

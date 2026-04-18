@@ -1,13 +1,13 @@
 ---
-title: Sum It Up
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Sum It Up"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 131
 accepted: 78
 solved_users: 65
-acceptance_rate: 57.018%
-collected_at: 2026-04-17T11:06:56.753713+00:00
+acceptance_rate: "57.018%"
+collected_at: "2026-04-17T11:06:56.753713+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Shoot the Target (Small1)
-special_judge: true
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Shoot the Target (Small1)"
+special_judge: "true"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 168
 accepted: 21
 solved_users: 15
-acceptance_rate: 11.719%
-collected_at: 2026-04-17T12:54:56.025020+00:00
+acceptance_rate: "11.719%"
+collected_at: "2026-04-17T12:54:56.025020+00:00"
 ---
 
 ## 문제

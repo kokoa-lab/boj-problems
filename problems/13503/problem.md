@@ -1,13 +1,13 @@
 ---
-title: 최소 체인 커버
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "최소 체인 커버"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 217
 accepted: 145
 solved_users: 105
-acceptance_rate: 61.765%
-collected_at: 2026-04-17T13:14:22.418770+00:00
+acceptance_rate: "61.765%"
+collected_at: "2026-04-17T13:14:22.418770+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: There and Back Again
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "There and Back Again"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 137
 accepted: 75
 solved_users: 70
-acceptance_rate: 54.264%
-collected_at: 2026-04-17T19:31:47.935518+00:00
+acceptance_rate: "54.264%"
+collected_at: "2026-04-17T19:31:47.935518+00:00"
 ---
 
 ## 문제

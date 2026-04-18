@@ -1,13 +1,13 @@
 ---
-title: Держать строй - 3
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Держать строй - 3"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 5
 accepted: 4
 solved_users: 2
-acceptance_rate: 66.667%
-collected_at: 2026-04-17T18:43:57.310481+00:00
+acceptance_rate: "66.667%"
+collected_at: "2026-04-17T18:43:57.310481+00:00"
 ---
 
 ## 문제

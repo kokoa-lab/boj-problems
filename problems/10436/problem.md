@@ -1,13 +1,13 @@
 ---
-title: 무한 유리수 트리
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "무한 유리수 트리"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 305
 accepted: 140
 solved_users: 104
-acceptance_rate: 50.485%
-collected_at: 2026-04-18T10:04:05.835117+00:00
+acceptance_rate: "50.485%"
+collected_at: "2026-04-18T10:04:05.835117+00:00"
 ---
 
 ## 문제

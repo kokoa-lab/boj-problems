@@ -1,13 +1,13 @@
 ---
-title: ESEJ
-special_judge: true
-time_limit: 1 초
-memory_limit: 64 MB
+title: "ESEJ"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "64 MB"
 submissions: 530
 accepted: 239
 solved_users: 188
-acceptance_rate: 47.716%
-collected_at: 2026-04-17T12:45:47.369759+00:00
+acceptance_rate: "47.716%"
+collected_at: "2026-04-17T12:45:47.369759+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 흥미로운 수열
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "흥미로운 수열"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 546
 accepted: 183
 solved_users: 134
-acceptance_rate: 39.412%
-collected_at: 2026-04-17T10:45:18.768075+00:00
+acceptance_rate: "39.412%"
+collected_at: "2026-04-17T10:45:18.768075+00:00"
 ---
 
 ## 문제

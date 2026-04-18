@@ -1,13 +1,13 @@
 ---
-title: A와 B
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "A와 B"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 25082
 accepted: 12195
 solved_users: 10135
-acceptance_rate: 47.877%
-collected_at: 2026-04-17T13:03:45.037932+00:00
+acceptance_rate: "47.877%"
+collected_at: "2026-04-17T13:03:45.037932+00:00"
 ---
 
 ## 문제

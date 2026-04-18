@@ -1,13 +1,13 @@
 ---
-title: Взлет
-special_judge: true
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Взлет"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 85
 accepted: 75
 solved_users: 70
-acceptance_rate: 89.744%
-collected_at: 2026-04-17T18:47:05.233025+00:00
+acceptance_rate: "89.744%"
+collected_at: "2026-04-17T18:47:05.233025+00:00"
 ---
 
 ## 문제

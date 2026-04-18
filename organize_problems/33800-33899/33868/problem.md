@@ -1,13 +1,13 @@
 ---
-title: 스티커 나눠주기
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "스티커 나눠주기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 615
 accepted: 503
 solved_users: 468
-acceptance_rate: 82.250%
-collected_at: 2026-04-17T20:25:13.566894+00:00
+acceptance_rate: "82.250%"
+collected_at: "2026-04-17T20:25:13.566894+00:00"
 ---
 
 ## 문제

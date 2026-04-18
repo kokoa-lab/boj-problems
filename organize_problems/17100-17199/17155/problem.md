@@ -1,13 +1,13 @@
 ---
-title: Directing Rainfall
-special_judge: false
-time_limit: 15 초
-memory_limit: 512 MB
+title: "Directing Rainfall"
+special_judge: "false"
+time_limit: "15 초"
+memory_limit: "512 MB"
 submissions: 167
 accepted: 29
 solved_users: 24
-acceptance_rate: 27.907%
-collected_at: 2026-04-17T14:31:24.956484+00:00
+acceptance_rate: "27.907%"
+collected_at: "2026-04-17T14:31:24.956484+00:00"
 ---
 
 ## 문제

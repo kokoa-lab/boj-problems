@@ -1,13 +1,13 @@
 ---
-title: Find a Square
-special_judge: false
-time_limit: 6 초
-memory_limit: 512 MB
+title: "Find a Square"
+special_judge: "false"
+time_limit: "6 초"
+memory_limit: "512 MB"
 submissions: 177
 accepted: 11
 solved_users: 8
-acceptance_rate: 5.594%
-collected_at: 2026-04-17T15:40:14.685208+00:00
+acceptance_rate: "5.594%"
+collected_at: "2026-04-17T15:40:14.685208+00:00"
 ---
 
 ## 문제

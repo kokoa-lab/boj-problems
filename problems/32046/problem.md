@@ -1,13 +1,13 @@
 ---
-title: Snacks within 300 Yen
-special_judge: false
-time_limit: 8 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Snacks within 300 Yen"
+special_judge: "false"
+time_limit: "8 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 398
 accepted: 355
 solved_users: 321
-acceptance_rate: 90.423%
-collected_at: 2026-04-17T19:41:35.861795+00:00
+acceptance_rate: "90.423%"
+collected_at: "2026-04-17T19:41:35.861795+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Classical Maximization Problem
-special_judge: true
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Classical Maximization Problem"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 87
 accepted: 29
 solved_users: 26
-acceptance_rate: 33.766%
-collected_at: 2026-04-17T18:20:05.109733+00:00
+acceptance_rate: "33.766%"
+collected_at: "2026-04-17T18:20:05.109733+00:00"
 ---
 
 ## 문제

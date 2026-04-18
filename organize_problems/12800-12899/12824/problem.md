@@ -1,13 +1,13 @@
 ---
-title: Connect Highways
-special_judge: true
-time_limit: 0.4 초
-memory_limit: 32 MB
+title: "Connect Highways"
+special_judge: "true"
+time_limit: "0.4 초"
+memory_limit: "32 MB"
 submissions: 4
 accepted: 2
 solved_users: 2
-acceptance_rate: 50.000%
-collected_at: 2026-04-17T13:02:01.764677+00:00
+acceptance_rate: "50.000%"
+collected_at: "2026-04-17T13:02:01.764677+00:00"
 ---
 
 ## 문제

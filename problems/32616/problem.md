@@ -1,13 +1,13 @@
 ---
-title: Industry Improvements
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Industry Improvements"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 67
 accepted: 32
 solved_users: 27
-acceptance_rate: 44.262%
-collected_at: 2026-04-17T19:57:34.176318+00:00
+acceptance_rate: "44.262%"
+collected_at: "2026-04-17T19:57:34.176318+00:00"
 ---
 
 ## 문제

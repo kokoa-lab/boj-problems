@@ -1,13 +1,13 @@
 ---
-title: Just Counting
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Just Counting"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 39
 accepted: 18
 solved_users: 17
-acceptance_rate: 44.737%
-collected_at: 2026-04-17T15:05:20.083016+00:00
+acceptance_rate: "44.737%"
+collected_at: "2026-04-17T15:05:20.083016+00:00"
 ---
 
 ## 문제

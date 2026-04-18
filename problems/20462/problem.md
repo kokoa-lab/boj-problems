@@ -1,13 +1,13 @@
 ---
-title: Программирование квадрокоптеров
-special_judge: false
-time_limit: 7 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "Программирование квадрокоптеров"
+special_judge: "false"
+time_limit: "7 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 62
 accepted: 32
 solved_users: 22
-acceptance_rate: 53.659%
-collected_at: 2026-04-17T15:36:41.531775+00:00
+acceptance_rate: "53.659%"
+collected_at: "2026-04-17T15:36:41.531775+00:00"
 ---
 
 ## 문제

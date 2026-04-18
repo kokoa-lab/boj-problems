@@ -1,13 +1,13 @@
 ---
-title: 가장 작은 직사각형
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "가장 작은 직사각형"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 920
 accepted: 279
 solved_users: 220
-acceptance_rate: 39.855%
-collected_at: 2026-04-17T10:30:11.349165+00:00
+acceptance_rate: "39.855%"
+collected_at: "2026-04-17T10:30:11.349165+00:00"
 ---
 
 ## 문제

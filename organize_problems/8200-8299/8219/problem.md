@@ -1,13 +1,13 @@
 ---
-title: Programming Contest
-special_judge: true
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Programming Contest"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 90
 accepted: 24
 solved_users: 20
-acceptance_rate: 30.769%
-collected_at: 2026-04-17T11:57:23.351513+00:00
+acceptance_rate: "30.769%"
+collected_at: "2026-04-17T11:57:23.351513+00:00"
 ---
 
 ## 문제

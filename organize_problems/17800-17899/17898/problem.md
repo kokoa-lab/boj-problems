@@ -1,13 +1,13 @@
 ---
-title: Ski Lifts
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Ski Lifts"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 47
 accepted: 18
 solved_users: 16
-acceptance_rate: 45.714%
-collected_at: 2026-04-17T14:49:32.165326+00:00
+acceptance_rate: "45.714%"
+collected_at: "2026-04-17T14:49:32.165326+00:00"
 ---
 
 ## 문제

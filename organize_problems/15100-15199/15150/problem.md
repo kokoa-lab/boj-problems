@@ -1,13 +1,13 @@
 ---
-title: Hole in One
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Hole in One"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 18
 accepted: 3
 solved_users: 3
-acceptance_rate: 50.000%
-collected_at: 2026-04-17T13:52:35.500822+00:00
+acceptance_rate: "50.000%"
+collected_at: "2026-04-17T13:52:35.500822+00:00"
 ---
 
 ## 문제

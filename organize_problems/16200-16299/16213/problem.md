@@ -1,13 +1,13 @@
 ---
-title: dgeu-learning
-special_judge: false
-time_limit: 4 초
-memory_limit: 512 MB
+title: "dgeu-learning"
+special_judge: "false"
+time_limit: "4 초"
+memory_limit: "512 MB"
 submissions: 330
 accepted: 166
 solved_users: 129
-acceptance_rate: 51.600%
-collected_at: 2026-04-17T14:13:35.137013+00:00
+acceptance_rate: "51.600%"
+collected_at: "2026-04-17T14:13:35.137013+00:00"
 ---
 
 ## 문제

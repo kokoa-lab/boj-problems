@@ -1,13 +1,13 @@
 ---
-title: 국제 메시 기구
-special_judge: false
-time_limit: 3 초
-memory_limit: 1024 MB
+title: "국제 메시 기구"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "1024 MB"
 submissions: 3178
 accepted: 1182
 solved_users: 566
-acceptance_rate: 25.381%
-collected_at: 2026-04-17T14:39:11.842128+00:00
+acceptance_rate: "25.381%"
+collected_at: "2026-04-17T14:39:11.842128+00:00"
 ---
 
 ## 문제

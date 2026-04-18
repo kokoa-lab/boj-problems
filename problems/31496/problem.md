@@ -1,13 +1,13 @@
 ---
-title: 자작나무가 없소~
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "자작나무가 없소~"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 1047
 accepted: 571
 solved_users: 496
-acceptance_rate: 57.143%
-collected_at: 2026-04-17T19:29:14.703062+00:00
+acceptance_rate: "57.143%"
+collected_at: "2026-04-17T19:29:14.703062+00:00"
 ---
 
 ## 문제

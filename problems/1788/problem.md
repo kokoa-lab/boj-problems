@@ -1,13 +1,13 @@
 ---
-title: 피보나치 수의 확장
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "피보나치 수의 확장"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 16833
 accepted: 5740
 solved_users: 4902
-acceptance_rate: 34.065%
-collected_at: 2026-04-17T10:33:38.957234+00:00
+acceptance_rate: "34.065%"
+collected_at: "2026-04-17T10:33:38.957234+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Intuitive Elements
-special_judge: false
-time_limit: 1 초
-memory_limit: 2048 MB
+title: "Intuitive Elements"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "2048 MB"
 submissions: 296
 accepted: 247
 solved_users: 204
-acceptance_rate: 81.928%
-collected_at: 2026-04-17T20:01:32.417582+00:00
+acceptance_rate: "81.928%"
+collected_at: "2026-04-17T20:01:32.417582+00:00"
 ---
 
 ## 문제

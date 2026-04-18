@@ -1,13 +1,13 @@
 ---
-title: RPG Extreme
-special_judge: false
-time_limit: 5 초
-memory_limit: 1024 MB
+title: "RPG Extreme"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "1024 MB"
 submissions: 3934
 accepted: 1025
 solved_users: 699
-acceptance_rate: 22.724%
-collected_at: 2026-04-17T14:28:59.399595+00:00
+acceptance_rate: "22.724%"
+collected_at: "2026-04-17T14:28:59.399595+00:00"
 ---
 
 ## 문제

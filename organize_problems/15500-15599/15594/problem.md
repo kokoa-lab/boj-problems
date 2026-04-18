@@ -1,13 +1,13 @@
 ---
-title: Out of Place
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Out of Place"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 1027
 accepted: 350
 solved_users: 315
-acceptance_rate: 42.169%
-collected_at: 2026-04-17T14:02:17.673646+00:00
+acceptance_rate: "42.169%"
+collected_at: "2026-04-17T14:02:17.673646+00:00"
 ---
 
 ## 문제

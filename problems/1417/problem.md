@@ -1,13 +1,13 @@
 ---
-title: 국회의원 선거
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "국회의원 선거"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 23503
 accepted: 10795
 solved_users: 9152
-acceptance_rate: 46.789%
-collected_at: 2026-04-17T10:30:03.722571+00:00
+acceptance_rate: "46.789%"
+collected_at: "2026-04-17T10:30:03.722571+00:00"
 ---
 
 ## 문제

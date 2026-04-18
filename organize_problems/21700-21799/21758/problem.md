@@ -1,13 +1,13 @@
 ---
-title: 꿀 따기
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "꿀 따기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 16440
 accepted: 6188
 solved_users: 4712
-acceptance_rate: 38.737%
-collected_at: 2026-04-17T16:06:52.982665+00:00
+acceptance_rate: "38.737%"
+collected_at: "2026-04-17T16:06:52.982665+00:00"
 ---
 
 ## 문제

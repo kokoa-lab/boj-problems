@@ -1,13 +1,13 @@
 ---
-title: 게임을 클리어하자
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "게임을 클리어하자"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 1626
 accepted: 749
 solved_users: 534
-acceptance_rate: 44.242%
-collected_at: 2026-04-17T18:16:46.372812+00:00
+acceptance_rate: "44.242%"
+collected_at: "2026-04-17T18:16:46.372812+00:00"
 ---
 
 ## 문제

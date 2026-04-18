@@ -1,13 +1,13 @@
 ---
-title: КЛЕТКИ
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "КЛЕТКИ"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 272
 accepted: 155
 solved_users: 125
-acceptance_rate: 55.804%
-collected_at: 2026-04-17T17:08:12.658105+00:00
+acceptance_rate: "55.804%"
+collected_at: "2026-04-17T17:08:12.658105+00:00"
 ---
 
 ## 문제

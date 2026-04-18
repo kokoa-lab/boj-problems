@@ -1,13 +1,13 @@
 ---
-title: 완전 P제곱수
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "완전 P제곱수"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 1334
 accepted: 236
 solved_users: 185
-acceptance_rate: 18.482%
-collected_at: 2026-04-17T10:59:29.126235+00:00
+acceptance_rate: "18.482%"
+collected_at: "2026-04-17T10:59:29.126235+00:00"
 ---
 
 ## 문제

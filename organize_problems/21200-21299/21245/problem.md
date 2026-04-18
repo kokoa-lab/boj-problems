@@ -1,13 +1,13 @@
 ---
-title: Video Reviews - 2
-special_judge: false
-time_limit: 4 초
-memory_limit: 512 MB
+title: "Video Reviews - 2"
+special_judge: "false"
+time_limit: "4 초"
+memory_limit: "512 MB"
 submissions: 8
 accepted: 2
 solved_users: 2
-acceptance_rate: 66.667%
-collected_at: 2026-04-17T15:51:23.157453+00:00
+acceptance_rate: "66.667%"
+collected_at: "2026-04-17T15:51:23.157453+00:00"
 ---
 
 ## 문제

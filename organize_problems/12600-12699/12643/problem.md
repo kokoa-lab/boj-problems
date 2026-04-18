@@ -1,13 +1,13 @@
 ---
-title: Decision Tree (Small)
-special_judge: true
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Decision Tree (Small)"
+special_judge: "true"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 23
 accepted: 17
 solved_users: 14
-acceptance_rate: 73.684%
-collected_at: 2026-04-17T12:58:57.121036+00:00
+acceptance_rate: "73.684%"
+collected_at: "2026-04-17T12:58:57.121036+00:00"
 ---
 
 ## 문제

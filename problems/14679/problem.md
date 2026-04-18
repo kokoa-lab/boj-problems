@@ -1,13 +1,13 @@
 ---
-title: 영우와 ‘갓4’
-special_judge: false
-time_limit: 1.5 초
-memory_limit: 512 MB
+title: "영우와 ‘갓4’"
+special_judge: "false"
+time_limit: "1.5 초"
+memory_limit: "512 MB"
 submissions: 371
 accepted: 94
 solved_users: 53
-acceptance_rate: 26.633%
-collected_at: 2026-04-17T13:40:19.044439+00:00
+acceptance_rate: "26.633%"
+collected_at: "2026-04-17T13:40:19.044439+00:00"
 ---
 
 ## 문제

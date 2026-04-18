@@ -1,13 +1,13 @@
 ---
-title: 서울과학고대유적 탐험하기 1
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "서울과학고대유적 탐험하기 1"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 57
 accepted: 9
 solved_users: 9
-acceptance_rate: 26.471%
-collected_at: 2026-04-17T20:08:50.244864+00:00
+acceptance_rate: "26.471%"
+collected_at: "2026-04-17T20:08:50.244864+00:00"
 ---
 
 ## 문제

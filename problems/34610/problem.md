@@ -1,13 +1,13 @@
 ---
-title: Squares on Grid Lines
-special_judge: false
-time_limit: 4 초
-memory_limit: 2048 MB
+title: "Squares on Grid Lines"
+special_judge: "false"
+time_limit: "4 초"
+memory_limit: "2048 MB"
 submissions: 33
 accepted: 11
 solved_users: 11
-acceptance_rate: 33.333%
-collected_at: 2026-04-17T20:43:59.388246+00:00
+acceptance_rate: "33.333%"
+collected_at: "2026-04-17T20:43:59.388246+00:00"
 ---
 
 ## 문제

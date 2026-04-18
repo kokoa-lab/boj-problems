@@ -1,13 +1,13 @@
 ---
-title: 멘토와 멘티
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "멘토와 멘티"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 1408
 accepted: 929
 solved_users: 752
-acceptance_rate: 67.809%
-collected_at: 2026-04-17T17:42:46.549468+00:00
+acceptance_rate: "67.809%"
+collected_at: "2026-04-17T17:42:46.549468+00:00"
 ---
 
 ## 문제

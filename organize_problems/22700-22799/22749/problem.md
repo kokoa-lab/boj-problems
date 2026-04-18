@@ -1,13 +1,13 @@
 ---
-title: First Experience
-special_judge: false
-time_limit: 8 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "First Experience"
+special_judge: "false"
+time_limit: "8 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 153
 accepted: 40
 solved_users: 27
-acceptance_rate: 21.094%
-collected_at: 2026-04-17T16:33:50.595366+00:00
+acceptance_rate: "21.094%"
+collected_at: "2026-04-17T16:33:50.595366+00:00"
 ---
 
 ## 문제

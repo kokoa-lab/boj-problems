@@ -1,13 +1,13 @@
 ---
-title: 천재
-special_judge: false
-time_limit: 5 초
-memory_limit: 128 MB
+title: "천재"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "128 MB"
 submissions: 334
 accepted: 110
 solved_users: 91
-acceptance_rate: 39.056%
-collected_at: 2026-04-17T10:45:43.361642+00:00
+acceptance_rate: "39.056%"
+collected_at: "2026-04-17T10:45:43.361642+00:00"
 ---
 
 ## 문제

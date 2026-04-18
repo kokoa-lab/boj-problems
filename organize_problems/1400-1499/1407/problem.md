@@ -1,13 +1,13 @@
 ---
-title: 2로 몇 번 나누어질까
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "2로 몇 번 나누어질까"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 5317
 accepted: 1827
 solved_users: 1467
-acceptance_rate: 40.148%
-collected_at: 2026-04-17T10:29:58.411642+00:00
+acceptance_rate: "40.148%"
+collected_at: "2026-04-17T10:29:58.411642+00:00"
 ---
 
 ## 문제

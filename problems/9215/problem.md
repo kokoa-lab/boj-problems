@@ -1,13 +1,13 @@
 ---
-title: 신나는 분수 계산
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "신나는 분수 계산"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 410
 accepted: 178
 solved_users: 151
-acceptance_rate: 53.929%
-collected_at: 2026-04-17T12:07:58.551250+00:00
+acceptance_rate: "53.929%"
+collected_at: "2026-04-17T12:07:58.551250+00:00"
 ---
 
 ## 문제

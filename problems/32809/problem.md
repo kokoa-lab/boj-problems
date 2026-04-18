@@ -1,13 +1,13 @@
 ---
-title: Fences Make Good Neighbors
-special_judge: true
-time_limit: 4 초
-memory_limit: 2048 MB
+title: "Fences Make Good Neighbors"
+special_judge: "true"
+time_limit: "4 초"
+memory_limit: "2048 MB"
 submissions: 12
 accepted: 7
 solved_users: 6
-acceptance_rate: 54.545%
-collected_at: 2026-04-17T20:01:49.058558+00:00
+acceptance_rate: "54.545%"
+collected_at: "2026-04-17T20:01:49.058558+00:00"
 ---
 
 ## 문제

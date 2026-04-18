@@ -1,13 +1,13 @@
 ---
-title: KINA Is Not Abbreviation
-special_judge: true
-time_limit: 2 초
-memory_limit: 512 MB
+title: "KINA Is Not Abbreviation"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 6
 accepted: 3
 solved_users: 2
-acceptance_rate: 50.000%
-collected_at: 2026-04-17T10:49:55.119420+00:00
+acceptance_rate: "50.000%"
+collected_at: "2026-04-17T10:49:55.119420+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 음식 평론가
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "음식 평론가"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 7549
 accepted: 3576
 solved_users: 3092
-acceptance_rate: 50.655%
-collected_at: 2026-04-17T10:28:42.040403+00:00
+acceptance_rate: "50.655%"
+collected_at: "2026-04-17T10:28:42.040403+00:00"
 ---
 
 ## 문제

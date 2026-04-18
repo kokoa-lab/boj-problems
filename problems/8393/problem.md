@@ -1,13 +1,13 @@
 ---
-title: 합
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "합"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 361343
 accepted: 229503
 solved_users: 192035
-acceptance_rate: 63.570%
-collected_at: 2026-04-17T11:59:09.003534+00:00
+acceptance_rate: "63.570%"
+collected_at: "2026-04-17T11:59:09.003534+00:00"
 ---
 
 ## 문제

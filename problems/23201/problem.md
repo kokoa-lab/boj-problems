@@ -1,13 +1,13 @@
 ---
-title: ’S No Problem
-special_judge: false
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 2048 MB
+title: "’S No Problem"
+special_judge: "false"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "2048 MB"
 submissions: 100
 accepted: 55
 solved_users: 40
-acceptance_rate: 52.632%
-collected_at: 2026-04-17T16:44:02.681926+00:00
+acceptance_rate: "52.632%"
+collected_at: "2026-04-17T16:44:02.681926+00:00"
 ---
 
 ## 문제

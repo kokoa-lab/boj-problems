@@ -1,13 +1,13 @@
 ---
-title: 개구리 매칭
-special_judge: true
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "개구리 매칭"
+special_judge: "true"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 403
 accepted: 177
 solved_users: 162
-acceptance_rate: 46.286%
-collected_at: 2026-04-17T18:57:23.522660+00:00
+acceptance_rate: "46.286%"
+collected_at: "2026-04-17T18:57:23.522660+00:00"
 ---
 
 ## 문제

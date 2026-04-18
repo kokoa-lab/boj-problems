@@ -1,13 +1,13 @@
 ---
-title: 약속 시간
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "약속 시간"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 270
 accepted: 132
 solved_users: 116
-acceptance_rate: 62.366%
-collected_at: 2026-04-17T19:17:25.612669+00:00
+acceptance_rate: "62.366%"
+collected_at: "2026-04-17T19:17:25.612669+00:00"
 ---
 
 ## 문제

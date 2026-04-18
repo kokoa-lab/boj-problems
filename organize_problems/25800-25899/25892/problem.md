@@ -1,13 +1,13 @@
 ---
-title: Zero AAMP Currents
-special_judge: true
-time_limit: 2 초
-memory_limit: 256 MB
+title: "Zero AAMP Currents"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 24
 accepted: 15
 solved_users: 6
-acceptance_rate: 66.667%
-collected_at: 2026-04-17T17:35:59.942304+00:00
+acceptance_rate: "66.667%"
+collected_at: "2026-04-17T17:35:59.942304+00:00"
 ---
 
 ## 문제

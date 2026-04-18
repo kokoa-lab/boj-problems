@@ -1,13 +1,13 @@
 ---
-title: 삭삽 정렬
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "삭삽 정렬"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 505
 accepted: 212
 solved_users: 166
-acceptance_rate: 48.397%
-collected_at: 2026-04-17T13:21:30.247118+00:00
+acceptance_rate: "48.397%"
+collected_at: "2026-04-17T13:21:30.247118+00:00"
 ---
 
 ## 문제

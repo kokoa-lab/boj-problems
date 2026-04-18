@@ -1,13 +1,13 @@
 ---
-title: 코딩 대회
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "코딩 대회"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 184
 accepted: 80
 solved_users: 71
-acceptance_rate: 45.223%
-collected_at: 2026-04-17T12:27:54.807114+00:00
+acceptance_rate: "45.223%"
+collected_at: "2026-04-17T12:27:54.807114+00:00"
 ---
 
 ## 문제

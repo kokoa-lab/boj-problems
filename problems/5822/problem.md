@@ -1,13 +1,13 @@
 ---
-title: 악어의 지하 도시
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "악어의 지하 도시"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 463
 accepted: 185
 solved_users: 127
-acceptance_rate: 39.198%
-collected_at: 2026-04-17T11:17:43.904505+00:00
+acceptance_rate: "39.198%"
+collected_at: "2026-04-17T11:17:43.904505+00:00"
 ---
 
 ## 문제

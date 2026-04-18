@@ -1,13 +1,13 @@
 ---
-title: Farmer John's Cheese Block
-special_judge: false
-time_limit: 2 초
-memory_limit: 2048 MB
+title: "Farmer John's Cheese Block"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "2048 MB"
 submissions: 430
 accepted: 219
 solved_users: 183
-acceptance_rate: 56.308%
-collected_at: 2026-04-17T20:08:36.980366+00:00
+acceptance_rate: "56.308%"
+collected_at: "2026-04-17T20:08:36.980366+00:00"
 ---
 
 ## 문제

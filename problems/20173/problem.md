@@ -1,13 +1,13 @@
 ---
-title: Imprecise Computer
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Imprecise Computer"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 445
 accepted: 204
 solved_users: 167
-acceptance_rate: 49.118%
-collected_at: 2026-04-17T15:32:38.504832+00:00
+acceptance_rate: "49.118%"
+collected_at: "2026-04-17T15:32:38.504832+00:00"
 ---
 
 ## 문제

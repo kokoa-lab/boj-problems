@@ -1,13 +1,13 @@
 ---
-title: Persistent Numbers
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Persistent Numbers"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 50
 accepted: 34
 solved_users: 32
-acceptance_rate: 69.565%
-collected_at: 2026-04-17T10:59:41.347859+00:00
+acceptance_rate: "69.565%"
+collected_at: "2026-04-17T10:59:41.347859+00:00"
 ---
 
 ## 문제

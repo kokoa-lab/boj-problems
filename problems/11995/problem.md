@@ -1,13 +1,13 @@
 ---
-title: Fenced In (Gold)
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Fenced In (Gold)"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 397
 accepted: 180
 solved_users: 149
-acceptance_rate: 46.130%
-collected_at: 2026-04-17T12:48:42.761378+00:00
+acceptance_rate: "46.130%"
+collected_at: "2026-04-17T12:48:42.761378+00:00"
 ---
 
 ## 문제

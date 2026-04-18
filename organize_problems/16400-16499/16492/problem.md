@@ -1,13 +1,13 @@
 ---
-title: 패턴 코드 진위
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "패턴 코드 진위"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 243
 accepted: 61
 solved_users: 54
-acceptance_rate: 26.087%
-collected_at: 2026-04-17T14:18:53.332727+00:00
+acceptance_rate: "26.087%"
+collected_at: "2026-04-17T14:18:53.332727+00:00"
 ---
 
 ## 문제

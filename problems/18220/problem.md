@@ -1,13 +1,13 @@
 ---
-title: Draw in Straight Lines
-special_judge: false
-time_limit: 3 초
-memory_limit: 512 MB
+title: "Draw in Straight Lines"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "512 MB"
 submissions: 43
 accepted: 29
 solved_users: 23
-acceptance_rate: 74.194%
-collected_at: 2026-04-17T14:57:28.229440+00:00
+acceptance_rate: "74.194%"
+collected_at: "2026-04-17T14:57:28.229440+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Arc of Triumph 4
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Arc of Triumph 4"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 23
 accepted: 9
 solved_users: 5
-acceptance_rate: 35.714%
-collected_at: 2026-04-17T19:01:50.323558+00:00
+acceptance_rate: "35.714%"
+collected_at: "2026-04-17T19:01:50.323558+00:00"
 ---
 
 ## 문제

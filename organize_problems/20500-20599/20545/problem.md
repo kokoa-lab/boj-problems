@@ -1,13 +1,13 @@
 ---
-title: 다트게임
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "다트게임"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 79
 accepted: 25
 solved_users: 19
-acceptance_rate: 27.536%
-collected_at: 2026-04-17T15:37:47.390918+00:00
+acceptance_rate: "27.536%"
+collected_at: "2026-04-17T15:37:47.390918+00:00"
 ---
 
 ## 문제

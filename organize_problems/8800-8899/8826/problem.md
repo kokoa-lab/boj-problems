@@ -1,13 +1,13 @@
 ---
-title: Spacer
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "Spacer"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 452
 accepted: 382
 solved_users: 305
-acceptance_rate: 85.196%
-collected_at: 2026-04-17T12:03:51.409889+00:00
+acceptance_rate: "85.196%"
+collected_at: "2026-04-17T12:03:51.409889+00:00"
 ---
 
 ## 문제

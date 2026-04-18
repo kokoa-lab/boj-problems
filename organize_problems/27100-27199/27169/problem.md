@@ -1,13 +1,13 @@
 ---
-title: 100% Orange Juice!
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "100% Orange Juice!"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 92
 accepted: 35
 solved_users: 28
-acceptance_rate: 60.870%
-collected_at: 2026-04-17T17:57:31.177344+00:00
+acceptance_rate: "60.870%"
+collected_at: "2026-04-17T17:57:31.177344+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 도시
-special_judge: false
-time_limit: 4 초 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "도시"
+special_judge: "false"
+time_limit: "4 초 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 250
 accepted: 39
 solved_users: 26
-acceptance_rate: 16.149%
-collected_at: 2026-04-17T19:43:36.011497+00:00
+acceptance_rate: "16.149%"
+collected_at: "2026-04-17T19:43:36.011497+00:00"
 ---
 
 ## 문제

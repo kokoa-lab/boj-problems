@@ -1,13 +1,13 @@
 ---
-title: お土産購入計画 (Gifts)
-special_judge: false
-time_limit: 15 초
-memory_limit: 128 MB
+title: "お土産購入計画 (Gifts)"
+special_judge: "false"
+time_limit: "15 초"
+memory_limit: "128 MB"
 submissions: 175
 accepted: 39
 solved_users: 29
-acceptance_rate: 28.155%
-collected_at: 2026-04-17T11:15:08.788379+00:00
+acceptance_rate: "28.155%"
+collected_at: "2026-04-17T11:15:08.788379+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 물병
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "물병"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 20006
 accepted: 8597
 solved_users: 6713
-acceptance_rate: 42.788%
-collected_at: 2026-04-17T10:27:55.669979+00:00
+acceptance_rate: "42.788%"
+collected_at: "2026-04-17T10:27:55.669979+00:00"
 ---
 
 ## 문제

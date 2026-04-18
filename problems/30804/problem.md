@@ -1,13 +1,13 @@
 ---
-title: 과일 탕후루
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "과일 탕후루"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 22278
 accepted: 8382
 solved_users: 6814
-acceptance_rate: 36.363%
-collected_at: 2026-04-17T19:15:57.196074+00:00
+acceptance_rate: "36.363%"
+collected_at: "2026-04-17T19:15:57.196074+00:00"
 ---
 
 ## 문제

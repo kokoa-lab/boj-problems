@@ -1,13 +1,13 @@
 ---
-title: 절사평균
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "절사평균"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 11643
 accepted: 2242
 solved_users: 1728
-acceptance_rate: 22.872%
-collected_at: 2026-04-17T11:42:06.242341+00:00
+acceptance_rate: "22.872%"
+collected_at: "2026-04-17T11:42:06.242341+00:00"
 ---
 
 ## 문제

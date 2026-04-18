@@ -1,13 +1,13 @@
 ---
-title: Improve SPAM
-special_judge: false
-time_limit: 0.3 초
-memory_limit: 512 MB
+title: "Improve SPAM"
+special_judge: "false"
+time_limit: "0.3 초"
+memory_limit: "512 MB"
 submissions: 136
 accepted: 75
 solved_users: 68
-acceptance_rate: 61.818%
-collected_at: 2026-04-17T14:53:34.197025+00:00
+acceptance_rate: "61.818%"
+collected_at: "2026-04-17T14:53:34.197025+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Maya Calendar
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Maya Calendar"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 72
 accepted: 40
 solved_users: 37
-acceptance_rate: 64.912%
-collected_at: 2026-04-17T11:48:45.283670+00:00
+acceptance_rate: "64.912%"
+collected_at: "2026-04-17T11:48:45.283670+00:00"
 ---
 
 ## 문제

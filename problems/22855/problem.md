@@ -1,13 +1,13 @@
 ---
-title: 고인물의 두번째 리듬게임
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "고인물의 두번째 리듬게임"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 253
 accepted: 28
 solved_users: 19
-acceptance_rate: 12.102%
-collected_at: 2026-04-17T16:37:24.982636+00:00
+acceptance_rate: "12.102%"
+collected_at: "2026-04-17T16:37:24.982636+00:00"
 ---
 
 ## 문제

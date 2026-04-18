@@ -1,13 +1,13 @@
 ---
-title: Livestock Lineup
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Livestock Lineup"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 773
 accepted: 462
 solved_users: 372
-acceptance_rate: 63.918%
-collected_at: 2026-04-17T14:58:16.181007+00:00
+acceptance_rate: "63.918%"
+collected_at: "2026-04-17T14:58:16.181007+00:00"
 ---
 
 ## 문제

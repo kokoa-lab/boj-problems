@@ -1,13 +1,13 @@
 ---
-title: Cat Exercise
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Cat Exercise"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 248
 accepted: 119
 solved_users: 102
-acceptance_rate: 46.364%
-collected_at: 2026-04-17T18:06:06.991690+00:00
+acceptance_rate: "46.364%"
+collected_at: "2026-04-17T18:06:06.991690+00:00"
 ---
 
 ## 문제

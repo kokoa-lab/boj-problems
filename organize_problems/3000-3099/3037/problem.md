@@ -1,13 +1,13 @@
 ---
-title: 혼란
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "혼란"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 1132
 accepted: 422
 solved_users: 307
-acceptance_rate: 33.479%
-collected_at: 2026-04-17T10:46:21.075205+00:00
+acceptance_rate: "33.479%"
+collected_at: "2026-04-17T10:46:21.075205+00:00"
 ---
 
 ## 문제

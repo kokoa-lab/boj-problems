@@ -1,13 +1,13 @@
 ---
-title: 뒤집기 K
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "뒤집기 K"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 642
 accepted: 229
 solved_users: 152
-acceptance_rate: 34.624%
-collected_at: 2026-04-17T15:49:29.261610+00:00
+acceptance_rate: "34.624%"
+collected_at: "2026-04-17T15:49:29.261610+00:00"
 ---
 
 ## 문제

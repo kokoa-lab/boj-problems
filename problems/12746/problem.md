@@ -1,13 +1,13 @@
 ---
-title: Traffic (Large)
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Traffic (Large)"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 601
 accepted: 305
 solved_users: 191
-acceptance_rate: 45.694%
-collected_at: 2026-04-17T13:00:42.300585+00:00
+acceptance_rate: "45.694%"
+collected_at: "2026-04-17T13:00:42.300585+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Lemonade Line
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Lemonade Line"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 696
 accepted: 445
 solved_users: 410
-acceptance_rate: 64.976%
-collected_at: 2026-04-17T14:05:57.879491+00:00
+acceptance_rate: "64.976%"
+collected_at: "2026-04-17T14:05:57.879491+00:00"
 ---
 
 ## 문제

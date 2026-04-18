@@ -1,13 +1,13 @@
 ---
-title: Turning gears (Hard)
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Turning gears (Hard)"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 9
 accepted: 2
 solved_users: 1
-acceptance_rate: 14.286%
-collected_at: 2026-04-17T18:08:42.602710+00:00
+acceptance_rate: "14.286%"
+collected_at: "2026-04-17T18:08:42.602710+00:00"
 ---
 
 ## 문제

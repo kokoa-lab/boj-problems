@@ -1,13 +1,13 @@
 ---
-title: Connect the GSHS
-special_judge: false
-time_limit: 3 초
-memory_limit: 1024 MB
+title: "Connect the GSHS"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "1024 MB"
 submissions: 148
 accepted: 55
 solved_users: 41
-acceptance_rate: 32.283%
-collected_at: 2026-04-17T20:20:18.185236+00:00
+acceptance_rate: "32.283%"
+collected_at: "2026-04-17T20:20:18.185236+00:00"
 ---
 
 ## 문제

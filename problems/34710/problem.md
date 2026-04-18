@@ -1,13 +1,13 @@
 ---
-title: 원빈이의 인생 스케줄링
-special_judge: false
-time_limit: 0.5 초
-memory_limit: 1024 MB
+title: "원빈이의 인생 스케줄링"
+special_judge: "false"
+time_limit: "0.5 초"
+memory_limit: "1024 MB"
 submissions: 196
 accepted: 83
 solved_users: 76
-acceptance_rate: 58.015%
-collected_at: 2026-04-17T20:46:37.441413+00:00
+acceptance_rate: "58.015%"
+collected_at: "2026-04-17T20:46:37.441413+00:00"
 ---
 
 ## 문제

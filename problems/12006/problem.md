@@ -1,13 +1,13 @@
 ---
-title: Bull in a China Shop (Bronze)
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Bull in a China Shop (Bronze)"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 148
 accepted: 66
 solved_users: 56
-acceptance_rate: 42.424%
-collected_at: 2026-04-17T12:48:51.434987+00:00
+acceptance_rate: "42.424%"
+collected_at: "2026-04-17T12:48:51.434987+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 이칙연산
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "이칙연산"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 22302
 accepted: 6718
 solved_users: 6005
-acceptance_rate: 31.082%
-collected_at: 2026-04-17T14:05:11.092633+00:00
+acceptance_rate: "31.082%"
+collected_at: "2026-04-17T14:05:11.092633+00:00"
 ---
 
 ## 문제

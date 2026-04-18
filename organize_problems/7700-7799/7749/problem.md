@@ -1,13 +1,13 @@
 ---
-title: Cell phone tunes
-special_judge: false
-time_limit: 1 초
-memory_limit: 32 MB
+title: "Cell phone tunes"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "32 MB"
 submissions: 23
 accepted: 1
 solved_users: 1
-acceptance_rate: 20.000%
-collected_at: 2026-04-17T11:52:29.487674+00:00
+acceptance_rate: "20.000%"
+collected_at: "2026-04-17T11:52:29.487674+00:00"
 ---
 
 ## 문제

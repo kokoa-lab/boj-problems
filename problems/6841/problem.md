@@ -1,13 +1,13 @@
 ---
-title: I Speak TXTMSG
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "I Speak TXTMSG"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 4384
 accepted: 1827
 solved_users: 1688
-acceptance_rate: 42.063%
-collected_at: 2026-04-17T11:39:28.172585+00:00
+acceptance_rate: "42.063%"
+collected_at: "2026-04-17T11:39:28.172585+00:00"
 ---
 
 ## 문제

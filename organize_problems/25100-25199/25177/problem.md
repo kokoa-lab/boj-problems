@@ -1,13 +1,13 @@
 ---
-title: 서강의 역사를 찾아서
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "서강의 역사를 찾아서"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 962
 accepted: 667
 solved_users: 614
-acceptance_rate: 70.901%
-collected_at: 2026-04-17T17:22:05.968726+00:00
+acceptance_rate: "70.901%"
+collected_at: "2026-04-17T17:22:05.968726+00:00"
 ---
 
 ## 문제

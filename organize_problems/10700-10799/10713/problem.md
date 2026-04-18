@@ -1,13 +1,13 @@
 ---
-title: 기차 여행
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "기차 여행"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 2168
 accepted: 961
 solved_users: 736
-acceptance_rate: 44.552%
-collected_at: 2026-04-17T12:27:50.646294+00:00
+acceptance_rate: "44.552%"
+collected_at: "2026-04-17T12:27:50.646294+00:00"
 ---
 
 ## 문제

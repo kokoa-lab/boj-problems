@@ -1,13 +1,13 @@
 ---
-title: 진흥이의 쌀 배달
-special_judge: false
-time_limit: 2 초
-memory_limit: 2048 MB
+title: "진흥이의 쌀 배달"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "2048 MB"
 submissions: 127
 accepted: 61
 solved_users: 48
-acceptance_rate: 51.064%
-collected_at: 2026-04-17T20:51:06.595146+00:00
+acceptance_rate: "51.064%"
+collected_at: "2026-04-17T20:51:06.595146+00:00"
 ---
 
 ## 문제

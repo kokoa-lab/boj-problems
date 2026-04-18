@@ -1,13 +1,13 @@
 ---
-title: New Flat
-special_judge: true
-time_limit: 2 초
-memory_limit: 512 MB
+title: "New Flat"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 5
 accepted: 0
 solved_users: 0
-acceptance_rate: 0.000%
-collected_at: 2026-04-17T15:40:19.796983+00:00
+acceptance_rate: "0.000%"
+collected_at: "2026-04-17T15:40:19.796983+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Cubes
-special_judge: true
-time_limit: 0.5 초
-memory_limit: 256 MB
+title: "Cubes"
+special_judge: "true"
+time_limit: "0.5 초"
+memory_limit: "256 MB"
 submissions: 65
 accepted: 20
 solved_users: 16
-acceptance_rate: 55.172%
-collected_at: 2026-04-17T13:20:59.225404+00:00
+acceptance_rate: "55.172%"
+collected_at: "2026-04-17T13:20:59.225404+00:00"
 ---
 
 ## 문제

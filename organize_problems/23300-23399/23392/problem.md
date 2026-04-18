@@ -1,13 +1,13 @@
 ---
-title: Freedom from Prison
-special_judge: false
-time_limit: 7 초
-memory_limit: 1024 MB
+title: "Freedom from Prison"
+special_judge: "false"
+time_limit: "7 초"
+memory_limit: "1024 MB"
 submissions: 19
 accepted: 5
 solved_users: 3
-acceptance_rate: 100.000%
-collected_at: 2026-04-17T16:47:27.199636+00:00
+acceptance_rate: "100.000%"
+collected_at: "2026-04-17T16:47:27.199636+00:00"
 ---
 
 ## 문제

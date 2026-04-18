@@ -1,13 +1,13 @@
 ---
-title: Safecracker
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Safecracker"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 107
 accepted: 68
 solved_users: 55
-acceptance_rate: 59.140%
-collected_at: 2026-04-17T11:06:35.118726+00:00
+acceptance_rate: "59.140%"
+collected_at: "2026-04-17T11:06:35.118726+00:00"
 ---
 
 ## 문제

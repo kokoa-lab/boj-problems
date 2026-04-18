@@ -1,13 +1,13 @@
 ---
-title: 아파트 단지
-special_judge: false
-time_limit: 1.5 초
-memory_limit: 1024 MB
+title: "아파트 단지"
+special_judge: "false"
+time_limit: "1.5 초"
+memory_limit: "1024 MB"
 submissions: 259
 accepted: 93
 solved_users: 51
-acceptance_rate: 37.226%
-collected_at: 2026-04-17T18:14:37.118670+00:00
+acceptance_rate: "37.226%"
+collected_at: "2026-04-17T18:14:37.118670+00:00"
 ---
 
 ## 문제

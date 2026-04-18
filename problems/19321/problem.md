@@ -1,13 +1,13 @@
 ---
-title: Longest Increasing Subsequence
-special_judge: true
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Longest Increasing Subsequence"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 124
 accepted: 91
 solved_users: 77
-acceptance_rate: 77.778%
-collected_at: 2026-04-17T15:17:09.789107+00:00
+acceptance_rate: "77.778%"
+collected_at: "2026-04-17T15:17:09.789107+00:00"
 ---
 
 ## 문제

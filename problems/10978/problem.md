@@ -1,13 +1,13 @@
 ---
-title: 기숙사 재배정
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "기숙사 재배정"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 1474
 accepted: 806
 solved_users: 642
-acceptance_rate: 53.995%
-collected_at: 2026-04-17T12:34:14.037757+00:00
+acceptance_rate: "53.995%"
+collected_at: "2026-04-17T12:34:14.037757+00:00"
 ---
 
 ## 문제

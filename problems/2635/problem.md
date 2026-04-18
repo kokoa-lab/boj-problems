@@ -1,13 +1,13 @@
 ---
-title: 수 이어가기
-special_judge: true
-time_limit: 1 초
-memory_limit: 128 MB
+title: "수 이어가기"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 16500
 accepted: 6561
 solved_users: 5314
-acceptance_rate: 38.695%
-collected_at: 2026-04-17T10:43:31.705012+00:00
+acceptance_rate: "38.695%"
+collected_at: "2026-04-17T10:43:31.705012+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 문자열과 점수
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "문자열과 점수"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 2124
 accepted: 800
 solved_users: 620
-acceptance_rate: 37.508%
-collected_at: 2026-04-17T10:39:34.988667+00:00
+acceptance_rate: "37.508%"
+collected_at: "2026-04-17T10:39:34.988667+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Playing the Slots
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Playing the Slots"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 21
 accepted: 14
 solved_users: 14
-acceptance_rate: 70.000%
-collected_at: 2026-04-17T19:41:02.190814+00:00
+acceptance_rate: "70.000%"
+collected_at: "2026-04-17T19:41:02.190814+00:00"
 ---
 
 ## 문제

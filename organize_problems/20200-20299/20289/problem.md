@@ -1,13 +1,13 @@
 ---
-title: Números Multiplicados
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Números Multiplicados"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 36
 accepted: 24
 solved_users: 17
-acceptance_rate: 65.385%
-collected_at: 2026-04-17T15:34:16.942717+00:00
+acceptance_rate: "65.385%"
+collected_at: "2026-04-17T15:34:16.942717+00:00"
 ---
 
 ## 문제

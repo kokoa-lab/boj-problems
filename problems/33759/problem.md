@@ -1,13 +1,13 @@
 ---
-title: 논리식의 개수와 쿼리
-special_judge: false
-time_limit: 5 초
-memory_limit: 2048 MB
+title: "논리식의 개수와 쿼리"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "2048 MB"
 submissions: 48
 accepted: 17
 solved_users: 14
-acceptance_rate: 43.750%
-collected_at: 2026-04-17T20:23:06.087422+00:00
+acceptance_rate: "43.750%"
+collected_at: "2026-04-17T20:23:06.087422+00:00"
 ---
 
 ## 문제

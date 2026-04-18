@@ -1,13 +1,13 @@
 ---
-title: Laser Intensification
-special_judge: true
-time_limit: 2 초
-memory_limit: 64 MB
+title: "Laser Intensification"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "64 MB"
 submissions: 119
 accepted: 11
 solved_users: 7
-acceptance_rate: 8.235%
-collected_at: 2026-04-17T15:11:11.478431+00:00
+acceptance_rate: "8.235%"
+collected_at: "2026-04-17T15:11:11.478431+00:00"
 ---
 
 ## 문제

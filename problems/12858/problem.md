@@ -1,13 +1,13 @@
 ---
-title: Range GCD
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Range GCD"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 2751
 accepted: 1160
 solved_users: 713
-acceptance_rate: 38.395%
-collected_at: 2026-04-17T13:02:52.581316+00:00
+acceptance_rate: "38.395%"
+collected_at: "2026-04-17T13:02:52.581316+00:00"
 ---
 
 ## 문제

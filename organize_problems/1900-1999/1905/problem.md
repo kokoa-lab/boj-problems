@@ -1,13 +1,13 @@
 ---
-title: 상자 쌓기
-special_judge: false
-time_limit: 3 초
-memory_limit: 128 MB
+title: "상자 쌓기"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "128 MB"
 submissions: 1083
 accepted: 251
 solved_users: 168
-acceptance_rate: 22.982%
-collected_at: 2026-04-17T10:35:36.661983+00:00
+acceptance_rate: "22.982%"
+collected_at: "2026-04-17T10:35:36.661983+00:00"
 ---
 
 ## 문제

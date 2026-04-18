@@ -1,13 +1,13 @@
 ---
-title: North North West
-special_judge: false
-time_limit: 8 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "North North West"
+special_judge: "false"
+time_limit: "8 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 55
 accepted: 32
 solved_users: 31
-acceptance_rate: 68.889%
-collected_at: 2026-04-17T13:07:30.454772+00:00
+acceptance_rate: "68.889%"
+collected_at: "2026-04-17T13:07:30.454772+00:00"
 ---
 
 ## 문제

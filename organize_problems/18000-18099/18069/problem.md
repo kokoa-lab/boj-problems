@@ -1,13 +1,13 @@
 ---
-title: Cross-Stitch
-special_judge: true
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "Cross-Stitch"
+special_judge: "true"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 22
 accepted: 15
 solved_users: 14
-acceptance_rate: 66.667%
-collected_at: 2026-04-17T14:55:07.332851+00:00
+acceptance_rate: "66.667%"
+collected_at: "2026-04-17T14:55:07.332851+00:00"
 ---
 
 ## 문제

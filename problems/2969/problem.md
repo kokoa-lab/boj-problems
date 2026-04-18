@@ -1,13 +1,13 @@
 ---
-title: 메뚜기
-special_judge: false
-time_limit: 4 초
-memory_limit: 128 MB
+title: "메뚜기"
+special_judge: "false"
+time_limit: "4 초"
+memory_limit: "128 MB"
 submissions: 529
 accepted: 156
 solved_users: 85
-acceptance_rate: 24.425%
-collected_at: 2026-04-17T10:46:00.134080+00:00
+acceptance_rate: "24.425%"
+collected_at: "2026-04-17T10:46:00.134080+00:00"
 ---
 
 ## 문제

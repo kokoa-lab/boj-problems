@@ -1,13 +1,13 @@
 ---
-title: 토마토
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "토마토"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 121256
 accepted: 55249
 solved_users: 40416
-acceptance_rate: 44.616%
-collected_at: 2026-04-17T11:50:42.868976+00:00
+acceptance_rate: "44.616%"
+collected_at: "2026-04-17T11:50:42.868976+00:00"
 ---
 
 ## 문제

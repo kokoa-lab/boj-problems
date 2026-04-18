@@ -1,13 +1,13 @@
 ---
-title: The Alphabet Sticker
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "The Alphabet Sticker"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 197
 accepted: 97
 solved_users: 85
-acceptance_rate: 48.851%
-collected_at: 2026-04-17T12:12:11.057912+00:00
+acceptance_rate: "48.851%"
+collected_at: "2026-04-17T12:12:11.057912+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Impenetrable Wall
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Impenetrable Wall"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 18
 accepted: 6
 solved_users: 6
-acceptance_rate: 33.333%
-collected_at: 2026-04-17T16:18:20.248513+00:00
+acceptance_rate: "33.333%"
+collected_at: "2026-04-17T16:18:20.248513+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Misunderstood Missing
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 256 MB
+title: "Misunderstood Missing"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "256 MB"
 submissions: 44
 accepted: 18
 solved_users: 16
-acceptance_rate: 48.485%
-collected_at: 2026-04-17T16:51:50.884481+00:00
+acceptance_rate: "48.485%"
+collected_at: "2026-04-17T16:51:50.884481+00:00"
 ---
 
 ## 문제

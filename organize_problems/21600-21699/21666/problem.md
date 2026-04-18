@@ -1,13 +1,13 @@
 ---
-title: Треугольник Максима
-special_judge: true
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Треугольник Максима"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 164
 accepted: 63
 solved_users: 51
-acceptance_rate: 35.417%
-collected_at: 2026-04-17T16:02:53.274381+00:00
+acceptance_rate: "35.417%"
+collected_at: "2026-04-17T16:02:53.274381+00:00"
 ---
 
 ## 문제

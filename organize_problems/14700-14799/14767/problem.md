@@ -1,13 +1,13 @@
 ---
-title: Flow Shop
-special_judge: false
-time_limit: 6 초
-memory_limit: 512 MB
+title: "Flow Shop"
+special_judge: "false"
+time_limit: "6 초"
+memory_limit: "512 MB"
 submissions: 116
 accepted: 97
 solved_users: 57
-acceptance_rate: 95.000%
-collected_at: 2026-04-17T13:41:34.194086+00:00
+acceptance_rate: "95.000%"
+collected_at: "2026-04-17T13:41:34.194086+00:00"
 ---
 
 ## 문제

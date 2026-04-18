@@ -1,13 +1,13 @@
 ---
-title: 배관공 김선영
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "배관공 김선영"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 354
 accepted: 111
 solved_users: 77
-acceptance_rate: 36.493%
-collected_at: 2026-04-17T10:45:16.856671+00:00
+acceptance_rate: "36.493%"
+collected_at: "2026-04-17T10:45:16.856671+00:00"
 ---
 
 ## 문제

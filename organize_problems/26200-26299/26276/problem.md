@@ -1,13 +1,13 @@
 ---
-title: Point in Triangle
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Point in Triangle"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 51
 accepted: 22
 solved_users: 16
-acceptance_rate: 43.243%
-collected_at: 2026-04-17T17:42:51.887604+00:00
+acceptance_rate: "43.243%"
+collected_at: "2026-04-17T17:42:51.887604+00:00"
 ---
 
 ## 문제

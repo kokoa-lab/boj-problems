@@ -1,13 +1,13 @@
 ---
-title: Fulkerson
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Fulkerson"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 207
 accepted: 40
 solved_users: 14
-acceptance_rate: 11.864%
-collected_at: 2026-04-17T15:14:12.435140+00:00
+acceptance_rate: "11.864%"
+collected_at: "2026-04-17T15:14:12.435140+00:00"
 ---
 
 ## 문제

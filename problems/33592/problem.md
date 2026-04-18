@@ -1,13 +1,13 @@
 ---
-title: Scooter
-special_judge: true
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 2048 MB
+title: "Scooter"
+special_judge: "true"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "2048 MB"
 submissions: 13
 accepted: 8
 solved_users: 8
-acceptance_rate: 88.889%
-collected_at: 2026-04-17T20:19:39.175805+00:00
+acceptance_rate: "88.889%"
+collected_at: "2026-04-17T20:19:39.175805+00:00"
 ---
 
 ## 문제

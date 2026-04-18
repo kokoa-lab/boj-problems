@@ -1,13 +1,13 @@
 ---
-title: $A_i+A_j$
-special_judge: false
-time_limit: 5 초 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "$A_i+A_j$"
+special_judge: "false"
+time_limit: "5 초 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 359
 accepted: 75
 solved_users: 69
-acceptance_rate: 25.275%
-collected_at: 2026-04-17T19:57:58.715303+00:00
+acceptance_rate: "25.275%"
+collected_at: "2026-04-17T19:57:58.715303+00:00"
 ---
 
 ## 문제

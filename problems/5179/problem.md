@@ -1,13 +1,13 @@
 ---
-title: 우승자는 누구?
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "우승자는 누구?"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 492
 accepted: 249
 solved_users: 215
-acceptance_rate: 53.350%
-collected_at: 2026-04-17T11:12:07.132844+00:00
+acceptance_rate: "53.350%"
+collected_at: "2026-04-17T11:12:07.132844+00:00"
 ---
 
 ## 문제

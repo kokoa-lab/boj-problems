@@ -1,13 +1,13 @@
 ---
-title: 스터디장 홍준
-special_judge: false
-time_limit: 3 초
-memory_limit: 128 MB
+title: "스터디장 홍준"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "128 MB"
 submissions: 482
 accepted: 175
 solved_users: 80
-acceptance_rate: 27.491%
-collected_at: 2026-04-17T10:46:21.276018+00:00
+acceptance_rate: "27.491%"
+collected_at: "2026-04-17T10:46:21.276018+00:00"
 ---
 
 ## 문제

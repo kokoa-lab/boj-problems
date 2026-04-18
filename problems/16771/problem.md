@@ -1,13 +1,13 @@
 ---
-title: Back and Forth
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Back and Forth"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 524
 accepted: 368
 solved_users: 307
-acceptance_rate: 73.798%
-collected_at: 2026-04-17T14:23:50.861573+00:00
+acceptance_rate: "73.798%"
+collected_at: "2026-04-17T14:23:50.861573+00:00"
 ---
 
 ## 문제

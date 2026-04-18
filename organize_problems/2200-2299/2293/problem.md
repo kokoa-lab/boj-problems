@@ -1,13 +1,13 @@
 ---
-title: 동전 1
-special_judge: false
-time_limit: 0.5 초 (추가 시간 없음)
-memory_limit: 4 MB
+title: "동전 1"
+special_judge: "false"
+time_limit: "0.5 초 (추가 시간 없음)"
+memory_limit: "4 MB"
 submissions: 80229
 accepted: 39132
 solved_users: 29826
-acceptance_rate: 48.828%
-collected_at: 2026-04-17T10:40:22.228231+00:00
+acceptance_rate: "48.828%"
+collected_at: "2026-04-17T10:40:22.228231+00:00"
 ---
 
 ## 문제

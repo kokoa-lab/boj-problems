@@ -1,13 +1,13 @@
 ---
-title: 챔피언소트 (Small)
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "챔피언소트 (Small)"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 214
 accepted: 117
 solved_users: 107
-acceptance_rate: 58.791%
-collected_at: 2026-04-17T12:56:40.823105+00:00
+acceptance_rate: "58.791%"
+collected_at: "2026-04-17T12:56:40.823105+00:00"
 ---
 
 ## 문제

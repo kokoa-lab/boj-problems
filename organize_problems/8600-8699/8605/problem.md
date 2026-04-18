@@ -1,13 +1,13 @@
 ---
-title: Waga
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Waga"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 27
 accepted: 4
 solved_users: 4
-acceptance_rate: 26.667%
-collected_at: 2026-04-18T10:05:31.613636+00:00
+acceptance_rate: "26.667%"
+collected_at: "2026-04-18T10:05:31.613636+00:00"
 ---
 
 ## 문제

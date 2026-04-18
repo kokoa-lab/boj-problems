@@ -1,13 +1,13 @@
 ---
-title: Grooves
-special_judge: false
-time_limit: 2 초
-memory_limit: 2048 MB
+title: "Grooves"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "2048 MB"
 submissions: 3
 accepted: 3
 solved_users: 3
-acceptance_rate: 100.000%
-collected_at: 2026-04-18T09:51:51.266487+00:00
+acceptance_rate: "100.000%"
+collected_at: "2026-04-18T09:51:51.266487+00:00"
 ---
 
 ## 문제

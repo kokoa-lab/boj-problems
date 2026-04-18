@@ -1,13 +1,13 @@
 ---
-title: 複雑な文字列 (Complex String)
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "複雑な文字列 (Complex String)"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 328
 accepted: 257
 solved_users: 217
-acceptance_rate: 79.197%
-collected_at: 2026-04-17T17:03:23.354861+00:00
+acceptance_rate: "79.197%"
+collected_at: "2026-04-17T17:03:23.354861+00:00"
 ---
 
 ## 문제

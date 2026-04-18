@@ -1,13 +1,13 @@
 ---
-title: Array Covering
-special_judge: false
-time_limit: 3 초
-memory_limit: 512 MB
+title: "Array Covering"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "512 MB"
 submissions: 47
 accepted: 17
 solved_users: 13
-acceptance_rate: 38.235%
-collected_at: 2026-04-18T09:50:37.312354+00:00
+acceptance_rate: "38.235%"
+collected_at: "2026-04-18T09:50:37.312354+00:00"
 ---
 
 ## 문제

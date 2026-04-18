@@ -1,13 +1,13 @@
 ---
-title: Angry Cows (Bronze)
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Angry Cows (Bronze)"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 820
 accepted: 359
 solved_users: 301
-acceptance_rate: 46.812%
-collected_at: 2026-04-17T12:48:26.249523+00:00
+acceptance_rate: "46.812%"
+collected_at: "2026-04-17T12:48:26.249523+00:00"
 ---
 
 ## 문제

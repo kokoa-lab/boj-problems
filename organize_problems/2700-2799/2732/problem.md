@@ -1,13 +1,13 @@
 ---
-title: Kindergarten Graduation
-special_judge: true
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Kindergarten Graduation"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 26
 accepted: 7
 solved_users: 7
-acceptance_rate: 50.000%
-collected_at: 2026-04-17T10:44:22.162318+00:00
+acceptance_rate: "50.000%"
+collected_at: "2026-04-17T10:44:22.162318+00:00"
 ---
 
 ## 문제

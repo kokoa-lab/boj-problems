@@ -1,13 +1,13 @@
 ---
-title: 순찰 업무 2
-special_judge: false
-time_limit: 2.5 초
-memory_limit: 1024 MB
+title: "순찰 업무 2"
+special_judge: "false"
+time_limit: "2.5 초"
+memory_limit: "1024 MB"
 submissions: 118
 accepted: 8
 solved_users: 5
-acceptance_rate: 4.854%
-collected_at: 2026-04-17T20:55:01.768886+00:00
+acceptance_rate: "4.854%"
+collected_at: "2026-04-17T20:55:01.768886+00:00"
 ---
 
 ## 문제

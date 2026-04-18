@@ -1,13 +1,13 @@
 ---
-title: 1의 개수 세기
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "1의 개수 세기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 13142
 accepted: 5283
 solved_users: 4212
-acceptance_rate: 42.731%
-collected_at: 2026-04-17T12:10:55.063011+00:00
+acceptance_rate: "42.731%"
+collected_at: "2026-04-17T12:10:55.063011+00:00"
 ---
 
 ## 문제

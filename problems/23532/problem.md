@@ -1,13 +1,13 @@
 ---
-title: Paternity Testing
-special_judge: false
-time_limit: 3 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "Paternity Testing"
+special_judge: "false"
+time_limit: "3 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 10
 accepted: 4
 solved_users: 3
-acceptance_rate: 50.000%
-collected_at: 2026-04-17T16:49:43.054540+00:00
+acceptance_rate: "50.000%"
+collected_at: "2026-04-17T16:49:43.054540+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: De-RNG-ed (Small)
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "De-RNG-ed (Small)"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 52
 accepted: 24
 solved_users: 20
-acceptance_rate: 44.444%
-collected_at: 2026-04-17T12:57:24.594289+00:00
+acceptance_rate: "44.444%"
+collected_at: "2026-04-17T12:57:24.594289+00:00"
 ---
 
 ## 문제

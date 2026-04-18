@@ -1,13 +1,13 @@
 ---
-title: Dragon Maze (Large)
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Dragon Maze (Large)"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 78
 accepted: 46
 solved_users: 42
-acceptance_rate: 57.534%
-collected_at: 2026-04-17T12:52:58.205886+00:00
+acceptance_rate: "57.534%"
+collected_at: "2026-04-17T12:52:58.205886+00:00"
 ---
 
 ## 문제

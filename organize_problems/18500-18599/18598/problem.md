@@ -1,13 +1,13 @@
 ---
-title: Minimum Spanning Trees
-special_judge: false
-time_limit: 4 초
-memory_limit: 512 MB
+title: "Minimum Spanning Trees"
+special_judge: "false"
+time_limit: "4 초"
+memory_limit: "512 MB"
 submissions: 22
 accepted: 17
 solved_users: 7
-acceptance_rate: 87.500%
-collected_at: 2026-04-17T15:07:04.118418+00:00
+acceptance_rate: "87.500%"
+collected_at: "2026-04-17T15:07:04.118418+00:00"
 ---
 
 ## 문제

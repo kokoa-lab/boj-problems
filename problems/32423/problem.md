@@ -1,13 +1,13 @@
 ---
-title: Doubles Horseback Wrestling
-special_judge: true
-time_limit: 4 초
-memory_limit: 1024 MB
+title: "Doubles Horseback Wrestling"
+special_judge: "true"
+time_limit: "4 초"
+memory_limit: "1024 MB"
 submissions: 21
 accepted: 11
 solved_users: 11
-acceptance_rate: 91.667%
-collected_at: 2026-04-17T19:50:56.190094+00:00
+acceptance_rate: "91.667%"
+collected_at: "2026-04-17T19:50:56.190094+00:00"
 ---
 
 ## 문제

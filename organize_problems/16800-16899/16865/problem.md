@@ -1,13 +1,13 @@
 ---
-title: The Ups and Downs of Investing
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "The Ups and Downs of Investing"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 91
 accepted: 49
 solved_users: 49
-acceptance_rate: 55.682%
-collected_at: 2026-04-17T14:25:26.817522+00:00
+acceptance_rate: "55.682%"
+collected_at: "2026-04-17T14:25:26.817522+00:00"
 ---
 
 ## 문제

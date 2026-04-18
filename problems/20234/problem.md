@@ -1,13 +1,13 @@
 ---
-title: Corrupted Sort
-special_judge: true
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Corrupted Sort"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 174
 accepted: 54
 solved_users: 42
-acceptance_rate: 31.111%
-collected_at: 2026-04-17T15:33:28.534045+00:00
+acceptance_rate: "31.111%"
+collected_at: "2026-04-17T15:33:28.534045+00:00"
 ---
 
 ## 문제

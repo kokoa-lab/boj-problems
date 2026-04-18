@@ -1,13 +1,13 @@
 ---
-title: Monochrome Tree
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Monochrome Tree"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 162
 accepted: 106
 solved_users: 92
-acceptance_rate: 69.697%
-collected_at: 2026-04-17T18:17:23.804045+00:00
+acceptance_rate: "69.697%"
+collected_at: "2026-04-17T18:17:23.804045+00:00"
 ---
 
 ## 문제

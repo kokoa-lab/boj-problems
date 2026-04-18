@@ -1,13 +1,13 @@
 ---
-title: PIN Code Possibilities
-special_judge: false
-time_limit: 3 초
-memory_limit: 256 MB
+title: "PIN Code Possibilities"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "256 MB"
 submissions: 113
 accepted: 60
 solved_users: 49
-acceptance_rate: 71.014%
-collected_at: 2026-04-17T12:38:51.788850+00:00
+acceptance_rate: "71.014%"
+collected_at: "2026-04-17T12:38:51.788850+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Military Recruit
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Military Recruit"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 45
 accepted: 18
 solved_users: 17
-acceptance_rate: 45.946%
-collected_at: 2026-04-17T11:50:29.997949+00:00
+acceptance_rate: "45.946%"
+collected_at: "2026-04-17T11:50:29.997949+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Deski kontratakują
-special_judge: false
-time_limit: 3 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Deski kontratakują"
+special_judge: "false"
+time_limit: "3 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 49
 accepted: 37
 solved_users: 29
-acceptance_rate: 76.316%
-collected_at: 2026-04-17T17:51:11.715143+00:00
+acceptance_rate: "76.316%"
+collected_at: "2026-04-17T17:51:11.715143+00:00"
 ---
 
 ## 문제

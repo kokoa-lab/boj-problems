@@ -1,13 +1,13 @@
 ---
-title: Teach Me
-special_judge: false
-time_limit: 40 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Teach Me"
+special_judge: "false"
+time_limit: "40 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 32
 accepted: 18
 solved_users: 15
-acceptance_rate: 75.000%
-collected_at: 2026-04-17T16:58:59.302883+00:00
+acceptance_rate: "75.000%"
+collected_at: "2026-04-17T16:58:59.302883+00:00"
 ---
 
 ## 문제

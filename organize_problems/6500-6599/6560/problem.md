@@ -1,13 +1,13 @@
 ---
-title: Code the Tree
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Code the Tree"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 103
 accepted: 28
 solved_users: 23
-acceptance_rate: 37.097%
-collected_at: 2026-04-17T11:30:30.273373+00:00
+acceptance_rate: "37.097%"
+collected_at: "2026-04-17T11:30:30.273373+00:00"
 ---
 
 ## 문제

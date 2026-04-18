@@ -1,13 +1,13 @@
 ---
-title: Gratitude
-special_judge: false
-time_limit: 3 초
-memory_limit: 512 MB
+title: "Gratitude"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "512 MB"
 submissions: 281
 accepted: 121
 solved_users: 88
-acceptance_rate: 53.333%
-collected_at: 2026-04-17T15:50:31.227275+00:00
+acceptance_rate: "53.333%"
+collected_at: "2026-04-17T15:50:31.227275+00:00"
 ---
 
 ## 문제

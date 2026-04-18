@@ -1,13 +1,13 @@
 ---
-title: 격자 이동하기
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "격자 이동하기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 109
 accepted: 35
 solved_users: 31
-acceptance_rate: 34.831%
-collected_at: 2026-04-17T19:50:10.367700+00:00
+acceptance_rate: "34.831%"
+collected_at: "2026-04-17T19:50:10.367700+00:00"
 ---
 
 ## 문제

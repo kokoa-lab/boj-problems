@@ -1,13 +1,13 @@
 ---
-title: Soviet Kindergarden
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Soviet Kindergarden"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 12
 accepted: 4
 solved_users: 4
-acceptance_rate: 33.333%
-collected_at: 2026-04-17T17:58:03.889444+00:00
+acceptance_rate: "33.333%"
+collected_at: "2026-04-17T17:58:03.889444+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Terraced fields
-special_judge: false
-time_limit: 8 초
-memory_limit: 512 MB
+title: "Terraced fields"
+special_judge: "false"
+time_limit: "8 초"
+memory_limit: "512 MB"
 submissions: 27
 accepted: 8
 solved_users: 7
-acceptance_rate: 43.750%
-collected_at: 2026-04-17T14:28:48.778753+00:00
+acceptance_rate: "43.750%"
+collected_at: "2026-04-17T14:28:48.778753+00:00"
 ---
 
 ## 문제

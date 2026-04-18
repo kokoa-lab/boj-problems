@@ -1,13 +1,13 @@
 ---
-title: 평면을 채우는 오각형
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "평면을 채우는 오각형"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 105
 accepted: 27
 solved_users: 17
-acceptance_rate: 29.825%
-collected_at: 2026-04-17T17:13:14.162317+00:00
+acceptance_rate: "29.825%"
+collected_at: "2026-04-17T17:13:14.162317+00:00"
 ---
 
 ## 문제

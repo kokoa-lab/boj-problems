@@ -1,13 +1,13 @@
 ---
-title: Number Base Conversion
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Number Base Conversion"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 240
 accepted: 106
 solved_users: 90
-acceptance_rate: 43.062%
-collected_at: 2026-04-17T11:26:11.622837+00:00
+acceptance_rate: "43.062%"
+collected_at: "2026-04-17T11:26:11.622837+00:00"
 ---
 
 ## 문제

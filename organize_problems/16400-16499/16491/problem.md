@@ -1,13 +1,13 @@
 ---
-title: 대피소 찾기
-special_judge: true
-time_limit: 2 초
-memory_limit: 512 MB
+title: "대피소 찾기"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 701
 accepted: 307
 solved_users: 220
-acceptance_rate: 44.898%
-collected_at: 2026-04-17T14:18:59.521563+00:00
+acceptance_rate: "44.898%"
+collected_at: "2026-04-17T14:18:59.521563+00:00"
 ---
 
 ## 문제

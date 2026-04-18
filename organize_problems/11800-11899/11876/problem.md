@@ -1,13 +1,13 @@
 ---
-title: PERICA
-special_judge: false
-time_limit: 1 초
-memory_limit: 64 MB
+title: "PERICA"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "64 MB"
 submissions: 276
 accepted: 122
 solved_users: 103
-acceptance_rate: 44.783%
-collected_at: 2026-04-17T12:47:15.011434+00:00
+acceptance_rate: "44.783%"
+collected_at: "2026-04-17T12:47:15.011434+00:00"
 ---
 
 ## 문제

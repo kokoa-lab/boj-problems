@@ -1,13 +1,13 @@
 ---
-title: Milk Buckets
-special_judge: false
-time_limit: 2 초
-memory_limit: 2048 MB
+title: "Milk Buckets"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "2048 MB"
 submissions: 14
 accepted: 14
 solved_users: 14
-acceptance_rate: 100.000%
-collected_at: 2026-04-17T21:00:13.498866+00:00
+acceptance_rate: "100.000%"
+collected_at: "2026-04-17T21:00:13.498866+00:00"
 ---
 
 ## 문제

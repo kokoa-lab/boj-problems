@@ -1,13 +1,13 @@
 ---
-title: 차량 번호판 2
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "차량 번호판 2"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 980
 accepted: 630
 solved_users: 524
-acceptance_rate: 65.747%
-collected_at: 2026-04-17T14:26:52.411537+00:00
+acceptance_rate: "65.747%"
+collected_at: "2026-04-17T14:26:52.411537+00:00"
 ---
 
 ## 문제

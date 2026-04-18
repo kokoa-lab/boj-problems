@@ -1,13 +1,13 @@
 ---
-title: Pandemic Restrictions
-special_judge: true
-time_limit: 4 초 (추가 시간 없음)
-memory_limit: 2048 MB
+title: "Pandemic Restrictions"
+special_judge: "true"
+time_limit: "4 초 (추가 시간 없음)"
+memory_limit: "2048 MB"
 submissions: 198
 accepted: 55
 solved_users: 35
-acceptance_rate: 22.876%
-collected_at: 2026-04-17T17:19:53.069999+00:00
+acceptance_rate: "22.876%"
+collected_at: "2026-04-17T17:19:53.069999+00:00"
 ---
 
 ## 문제

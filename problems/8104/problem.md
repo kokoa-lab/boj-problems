@@ -1,13 +1,13 @@
 ---
-title: Fibonacci Words
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Fibonacci Words"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 92
 accepted: 30
 solved_users: 24
-acceptance_rate: 35.294%
-collected_at: 2026-04-17T11:56:03.839147+00:00
+acceptance_rate: "35.294%"
+collected_at: "2026-04-17T11:56:03.839147+00:00"
 ---
 
 ## 문제

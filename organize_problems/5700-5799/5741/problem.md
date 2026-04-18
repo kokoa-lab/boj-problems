@@ -1,13 +1,13 @@
 ---
-title: Soccer League
-special_judge: true
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Soccer League"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 120
 accepted: 52
 solved_users: 43
-acceptance_rate: 43.434%
-collected_at: 2026-04-17T11:17:00.947565+00:00
+acceptance_rate: "43.434%"
+collected_at: "2026-04-17T11:17:00.947565+00:00"
 ---
 
 ## 문제

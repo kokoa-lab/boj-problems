@@ -1,13 +1,13 @@
 ---
-title: 안테나 설치
-special_judge: false
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "안테나 설치"
+special_judge: "false"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 192
 accepted: 59
 solved_users: 47
-acceptance_rate: 36.154%
-collected_at: 2026-04-17T18:26:04.542458+00:00
+acceptance_rate: "36.154%"
+collected_at: "2026-04-17T18:26:04.542458+00:00"
 ---
 
 ## 문제

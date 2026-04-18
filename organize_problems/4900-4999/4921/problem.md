@@ -1,13 +1,13 @@
 ---
-title: 나무 블록
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "나무 블록"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 1621
 accepted: 631
 solved_users: 512
-acceptance_rate: 39.938%
-collected_at: 2026-04-17T11:10:03.569825+00:00
+acceptance_rate: "39.938%"
+collected_at: "2026-04-17T11:10:03.569825+00:00"
 ---
 
 ## 문제

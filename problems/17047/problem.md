@@ -1,13 +1,13 @@
 ---
-title: Titlovi
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Titlovi"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 88
 accepted: 47
 solved_users: 46
-acceptance_rate: 55.422%
-collected_at: 2026-04-17T14:28:32.998457+00:00
+acceptance_rate: "55.422%"
+collected_at: "2026-04-17T14:28:32.998457+00:00"
 ---
 
 ## 문제

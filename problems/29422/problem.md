@@ -1,13 +1,13 @@
 ---
-title: Хвост графа
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Хвост графа"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 17
 accepted: 7
 solved_users: 7
-acceptance_rate: 41.176%
-collected_at: 2026-04-17T18:42:44.761358+00:00
+acceptance_rate: "41.176%"
+collected_at: "2026-04-17T18:42:44.761358+00:00"
 ---
 
 ## 문제

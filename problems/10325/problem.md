@@ -1,13 +1,13 @@
 ---
-title: Growling Gears
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Growling Gears"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 152
 accepted: 94
 solved_users: 84
-acceptance_rate: 63.158%
-collected_at: 2026-04-17T12:21:58.591778+00:00
+acceptance_rate: "63.158%"
+collected_at: "2026-04-17T12:21:58.591778+00:00"
 ---
 
 ## 문제

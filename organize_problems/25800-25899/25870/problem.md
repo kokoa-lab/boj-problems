@@ -1,13 +1,13 @@
 ---
-title: Parity of Strings
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Parity of Strings"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 506
 accepted: 413
 solved_users: 384
-acceptance_rate: 83.297%
-collected_at: 2026-04-17T17:35:20.654511+00:00
+acceptance_rate: "83.297%"
+collected_at: "2026-04-17T17:35:20.654511+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 안수빈수
-special_judge: true
-time_limit: 0.5 초
-memory_limit: 128 MB
+title: "안수빈수"
+special_judge: "true"
+time_limit: "0.5 초"
+memory_limit: "128 MB"
 submissions: 2806
 accepted: 831
 solved_users: 603
-acceptance_rate: 30.256%
-collected_at: 2026-04-17T14:22:10.927301+00:00
+acceptance_rate: "30.256%"
+collected_at: "2026-04-17T14:22:10.927301+00:00"
 ---
 
 ## 문제

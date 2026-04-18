@@ -1,13 +1,13 @@
 ---
-title: Дивизионы
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Дивизионы"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 134
 accepted: 89
 solved_users: 75
-acceptance_rate: 64.655%
-collected_at: 2026-04-17T17:58:39.910409+00:00
+acceptance_rate: "64.655%"
+collected_at: "2026-04-17T17:58:39.910409+00:00"
 ---
 
 ## 문제

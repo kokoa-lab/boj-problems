@@ -1,13 +1,13 @@
 ---
-title: 통학의 신
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "통학의 신"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 3260
 accepted: 2194
 solved_users: 1709
-acceptance_rate: 66.395%
-collected_at: 2026-04-17T14:50:41.822857+00:00
+acceptance_rate: "66.395%"
+collected_at: "2026-04-17T14:50:41.822857+00:00"
 ---
 
 ## 문제

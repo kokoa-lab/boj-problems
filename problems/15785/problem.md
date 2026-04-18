@@ -1,13 +1,13 @@
 ---
-title: 낙하산
-special_judge: true
-time_limit: 1 초
-memory_limit: 512 MB
+title: "낙하산"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 162
 accepted: 23
 solved_users: 15
-acceptance_rate: 15.464%
-collected_at: 2026-04-17T14:06:24.102804+00:00
+acceptance_rate: "15.464%"
+collected_at: "2026-04-17T14:06:24.102804+00:00"
 ---
 
 ## 문제

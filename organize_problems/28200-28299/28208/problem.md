@@ -1,13 +1,13 @@
 ---
-title: Classical Graph Theory Problem
-special_judge: true
-time_limit: 4 초
-memory_limit: 1024 MB
+title: "Classical Graph Theory Problem"
+special_judge: "true"
+time_limit: "4 초"
+memory_limit: "1024 MB"
 submissions: 11
 accepted: 4
 solved_users: 3
-acceptance_rate: 37.500%
-collected_at: 2026-04-17T18:20:10.730597+00:00
+acceptance_rate: "37.500%"
+collected_at: "2026-04-17T18:20:10.730597+00:00"
 ---
 
 ## 문제

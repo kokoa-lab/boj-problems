@@ -1,13 +1,13 @@
 ---
-title: Polynomial in a Black Box
-special_judge: false
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "Polynomial in a Black Box"
+special_judge: "false"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 76
 accepted: 0
 solved_users: 0
-acceptance_rate: 0.000%
-collected_at: 2026-04-17T16:47:39.459993+00:00
+acceptance_rate: "0.000%"
+collected_at: "2026-04-17T16:47:39.459993+00:00"
 ---
 
 ## 문제

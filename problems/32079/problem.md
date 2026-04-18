@@ -1,13 +1,13 @@
 ---
-title: Spaceship Exploration
-special_judge: true
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Spaceship Exploration"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 71
 accepted: 16
 solved_users: 11
-acceptance_rate: 19.643%
-collected_at: 2026-04-17T19:42:17.249238+00:00
+acceptance_rate: "19.643%"
+collected_at: "2026-04-17T19:42:17.249238+00:00"
 ---
 
 ## 문제

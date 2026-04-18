@@ -1,13 +1,13 @@
 ---
-title: 반 나누기 (Hard)
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "반 나누기 (Hard)"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 1003
 accepted: 208
 solved_users: 107
-acceptance_rate: 15.552%
-collected_at: 2026-04-17T19:27:22.351379+00:00
+acceptance_rate: "15.552%"
+collected_at: "2026-04-17T19:27:22.351379+00:00"
 ---
 
 ## 문제

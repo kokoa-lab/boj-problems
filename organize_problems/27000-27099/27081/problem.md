@@ -1,13 +1,13 @@
 ---
-title: Dessert
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Dessert"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 246
 accepted: 126
 solved_users: 89
-acceptance_rate: 49.171%
-collected_at: 2026-04-17T17:56:08.467465+00:00
+acceptance_rate: "49.171%"
+collected_at: "2026-04-17T17:56:08.467465+00:00"
 ---
 
 ## 문제

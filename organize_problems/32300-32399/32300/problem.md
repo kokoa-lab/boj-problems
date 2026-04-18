@@ -1,13 +1,13 @@
 ---
-title: 정다각형을 만들어요
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "정다각형을 만들어요"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 126
 accepted: 44
 solved_users: 41
-acceptance_rate: 44.565%
-collected_at: 2026-04-17T19:48:18.262283+00:00
+acceptance_rate: "44.565%"
+collected_at: "2026-04-17T19:48:18.262283+00:00"
 ---
 
 ## 문제

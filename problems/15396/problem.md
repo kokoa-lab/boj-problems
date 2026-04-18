@@ -1,13 +1,13 @@
 ---
-title: Harry Potter and The Vector Spell
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Harry Potter and The Vector Spell"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 44
 accepted: 32
 solved_users: 31
-acceptance_rate: 77.500%
-collected_at: 2026-04-17T13:58:34.318112+00:00
+acceptance_rate: "77.500%"
+collected_at: "2026-04-17T13:58:34.318112+00:00"
 ---
 
 ## 문제

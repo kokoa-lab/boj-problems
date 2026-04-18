@@ -1,13 +1,13 @@
 ---
-title: Straps
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Straps"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 191
 accepted: 84
 solved_users: 74
-acceptance_rate: 44.311%
-collected_at: 2026-04-17T14:46:28.982332+00:00
+acceptance_rate: "44.311%"
+collected_at: "2026-04-17T14:46:28.982332+00:00"
 ---
 
 ## 문제

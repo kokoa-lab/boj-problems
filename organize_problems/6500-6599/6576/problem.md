@@ -1,13 +1,13 @@
 ---
-title: 쿼드 트리
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "쿼드 트리"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 528
 accepted: 178
 solved_users: 135
-acceptance_rate: 35.526%
-collected_at: 2026-04-17T11:30:56.097546+00:00
+acceptance_rate: "35.526%"
+collected_at: "2026-04-17T11:30:56.097546+00:00"
 ---
 
 ## 문제

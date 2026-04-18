@@ -1,13 +1,13 @@
 ---
-title: 두 가중치
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "두 가중치"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 1025
 accepted: 355
 solved_users: 259
-acceptance_rate: 37.977%
-collected_at: 2026-04-17T13:04:08.620169+00:00
+acceptance_rate: "37.977%"
+collected_at: "2026-04-17T13:04:08.620169+00:00"
 ---
 
 ## 문제

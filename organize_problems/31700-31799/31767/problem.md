@@ -1,13 +1,13 @@
 ---
-title: Grass Segments
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Grass Segments"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 115
 accepted: 68
 solved_users: 48
-acceptance_rate: 53.333%
-collected_at: 2026-04-17T19:36:07.060983+00:00
+acceptance_rate: "53.333%"
+collected_at: "2026-04-17T19:36:07.060983+00:00"
 ---
 
 ## 문제

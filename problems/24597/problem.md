@@ -1,13 +1,13 @@
 ---
-title: Reversibly Cyclic Strings
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Reversibly Cyclic Strings"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 166
 accepted: 92
 solved_users: 77
-acceptance_rate: 57.037%
-collected_at: 2026-04-17T17:11:42.503954+00:00
+acceptance_rate: "57.037%"
+collected_at: "2026-04-17T17:11:42.503954+00:00"
 ---
 
 ## 문제

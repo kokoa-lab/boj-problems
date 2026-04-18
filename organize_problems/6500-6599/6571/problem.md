@@ -1,13 +1,13 @@
 ---
-title: 피보나치 수의 개수
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "피보나치 수의 개수"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 3660
 accepted: 1056
 solved_users: 834
-acceptance_rate: 30.097%
-collected_at: 2026-04-17T11:30:41.999297+00:00
+acceptance_rate: "30.097%"
+collected_at: "2026-04-17T11:30:41.999297+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 발머의 피크 이론
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "발머의 피크 이론"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 2347
 accepted: 977
 solved_users: 845
-acceptance_rate: 42.893%
-collected_at: 2026-04-17T18:04:29.156133+00:00
+acceptance_rate: "42.893%"
+collected_at: "2026-04-17T18:04:29.156133+00:00"
 ---
 
 ## 문제

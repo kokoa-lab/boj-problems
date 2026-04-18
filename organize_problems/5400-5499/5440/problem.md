@@ -1,13 +1,13 @@
 ---
-title: In and Out
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "In and Out"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 32
 accepted: 13
 solved_users: 13
-acceptance_rate: 43.333%
-collected_at: 2026-04-17T11:13:57.024335+00:00
+acceptance_rate: "43.333%"
+collected_at: "2026-04-17T11:13:57.024335+00:00"
 ---
 
 ## 문제

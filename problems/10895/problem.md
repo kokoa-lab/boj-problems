@@ -1,13 +1,13 @@
 ---
-title: Great Pow!
-special_judge: false
-time_limit: 10 초
-memory_limit: 64 MB
+title: "Great Pow!"
+special_judge: "false"
+time_limit: "10 초"
+memory_limit: "64 MB"
 submissions: 723
 accepted: 251
 solved_users: 205
-acceptance_rate: 36.477%
-collected_at: 2026-04-17T12:31:11.588052+00:00
+acceptance_rate: "36.477%"
+collected_at: "2026-04-17T12:31:11.588052+00:00"
 ---
 
 ## 문제

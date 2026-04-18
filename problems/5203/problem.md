@@ -1,13 +1,13 @@
 ---
-title: New Friends
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "New Friends"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 12
 accepted: 7
 solved_users: 3
-acceptance_rate: 42.857%
-collected_at: 2026-04-17T11:12:16.940849+00:00
+acceptance_rate: "42.857%"
+collected_at: "2026-04-17T11:12:16.940849+00:00"
 ---
 
 ## 문제

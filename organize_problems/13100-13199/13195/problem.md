@@ -1,13 +1,13 @@
 ---
-title: Router 4
-special_judge: true
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Router 4"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 74
 accepted: 36
 solved_users: 33
-acceptance_rate: 47.826%
-collected_at: 2026-04-17T13:09:06.945318+00:00
+acceptance_rate: "47.826%"
+collected_at: "2026-04-17T13:09:06.945318+00:00"
 ---
 
 ## 문제

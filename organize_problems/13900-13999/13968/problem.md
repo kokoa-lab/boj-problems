@@ -1,13 +1,13 @@
 ---
-title: Conference
-special_judge: true
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Conference"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 103
 accepted: 23
 solved_users: 21
-acceptance_rate: 26.923%
-collected_at: 2026-04-17T13:23:08.949453+00:00
+acceptance_rate: "26.923%"
+collected_at: "2026-04-17T13:23:08.949453+00:00"
 ---
 
 ## 문제

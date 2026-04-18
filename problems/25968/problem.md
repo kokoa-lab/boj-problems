@@ -1,13 +1,13 @@
 ---
-title: 구분구적
-special_judge: true
-time_limit: 1 초
-memory_limit: 512 MB
+title: "구분구적"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 545
 accepted: 97
 solved_users: 55
-acceptance_rate: 17.685%
-collected_at: 2026-04-17T17:37:56.526910+00:00
+acceptance_rate: "17.685%"
+collected_at: "2026-04-17T17:37:56.526910+00:00"
 ---
 
 ## 문제

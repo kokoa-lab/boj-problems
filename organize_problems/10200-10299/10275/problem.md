@@ -1,13 +1,13 @@
 ---
-title: 골드 러시
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "골드 러시"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 1650
 accepted: 764
 solved_users: 674
-acceptance_rate: 48.629%
-collected_at: 2026-04-17T12:21:22.790970+00:00
+acceptance_rate: "48.629%"
+collected_at: "2026-04-17T12:21:22.790970+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 알람시계
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "알람시계"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 1276
 accepted: 525
 solved_users: 457
-acceptance_rate: 47.456%
-collected_at: 2026-04-17T10:47:05.793931+00:00
+acceptance_rate: "47.456%"
+collected_at: "2026-04-17T10:47:05.793931+00:00"
 ---
 
 ## 문제

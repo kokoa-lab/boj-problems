@@ -1,13 +1,13 @@
 ---
-title: Monkeys
-special_judge: false
-time_limit: 4 초
-memory_limit: 512 MB
+title: "Monkeys"
+special_judge: "false"
+time_limit: "4 초"
+memory_limit: "512 MB"
 submissions: 17
 accepted: 4
 solved_users: 4
-acceptance_rate: 36.364%
-collected_at: 2026-04-17T15:13:38.279853+00:00
+acceptance_rate: "36.364%"
+collected_at: "2026-04-17T15:13:38.279853+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Cards
-special_judge: false
-time_limit: 3 초
-memory_limit: 256 MB
+title: "Cards"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "256 MB"
 submissions: 253
 accepted: 105
 solved_users: 96
-acceptance_rate: 42.291%
-collected_at: 2026-04-17T12:19:20.291433+00:00
+acceptance_rate: "42.291%"
+collected_at: "2026-04-17T12:19:20.291433+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Coin Row
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Coin Row"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 141
 accepted: 110
 solved_users: 84
-acceptance_rate: 78.505%
-collected_at: 2026-04-17T11:13:08.224722+00:00
+acceptance_rate: "78.505%"
+collected_at: "2026-04-17T11:13:08.224722+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 청소년 상어
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "청소년 상어"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 17290
 accepted: 11009
 solved_users: 7194
-acceptance_rate: 65.075%
-collected_at: 2026-04-17T15:15:24.749035+00:00
+acceptance_rate: "65.075%"
+collected_at: "2026-04-17T15:15:24.749035+00:00"
 ---
 
 ## 문제

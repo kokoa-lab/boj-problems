@@ -1,13 +1,13 @@
 ---
-title: DFA
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "DFA"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 90
 accepted: 21
 solved_users: 15
-acceptance_rate: 20.548%
-collected_at: 2026-04-17T10:50:03.435406+00:00
+acceptance_rate: "20.548%"
+collected_at: "2026-04-17T10:50:03.435406+00:00"
 ---
 
 ## 문제

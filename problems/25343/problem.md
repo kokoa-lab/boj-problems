@@ -1,13 +1,13 @@
 ---
-title: 최장 최장 증가 부분 수열
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "최장 최장 증가 부분 수열"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 1329
 accepted: 396
 solved_users: 318
-acceptance_rate: 33.902%
-collected_at: 2026-04-17T17:25:17.719995+00:00
+acceptance_rate: "33.902%"
+collected_at: "2026-04-17T17:25:17.719995+00:00"
 ---
 
 ## 문제

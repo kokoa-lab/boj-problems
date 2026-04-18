@@ -1,13 +1,13 @@
 ---
-title: Fold
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Fold"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 0
 accepted: 0
 solved_users: 0
-acceptance_rate: 0.000%
-collected_at: 2026-04-17T17:28:55.308446+00:00
+acceptance_rate: "0.000%"
+collected_at: "2026-04-17T17:28:55.308446+00:00"
 ---
 
 ## 문제
@@ -16,13 +16,21 @@ Consider a roll of N paper towels. The roll is unrolled on the floor and its tow
 
 | Before | After |
 | --- | --- |
-| ```  1 2 3 4 5 6 7 ``` | ```  _ _ _ 4 3 7 6 5 1 2 ``` |
+| ``` 
+ 1 2 3 4 5 6 7 ``` | ``` 
+ _ _ _ 4 3
+ 7 6 5 1 2 ``` |
 
 Note that fold positions refer to the towels touching the floor, not necessarily to the numbers on them. For example, if we now perform a fold at position 2 , the result is:
 
 | Before | After |
 | --- | --- |
-| ```  _ _ _ 4 3 7 6 5 1 2 ``` | ```  _ 1 _ 2 4 5 3 7 6 ``` |
+| ``` 
+ _ _ _ 4 3
+ 7 6 5 1 2 ``` | ``` 
+ _ 1 _
+ 2 4 5
+ 3 7 6 ``` |
 
 Folding can also occur at position 0 . In that case we flip over the entire roll.
 

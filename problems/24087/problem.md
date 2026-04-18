@@ -1,13 +1,13 @@
 ---
-title: アイスクリーム (Ice Cream)
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "アイスクリーム (Ice Cream)"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 2247
 accepted: 1507
 solved_users: 1432
-acceptance_rate: 67.230%
-collected_at: 2026-04-17T17:03:38.790679+00:00
+acceptance_rate: "67.230%"
+collected_at: "2026-04-17T17:03:38.790679+00:00"
 ---
 
 ## 문제

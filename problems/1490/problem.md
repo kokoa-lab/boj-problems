@@ -1,13 +1,13 @@
 ---
-title: 자리수로 나누기
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "자리수로 나누기"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 1769
 accepted: 644
 solved_users: 552
-acceptance_rate: 38.846%
-collected_at: 2026-04-17T10:30:34.566501+00:00
+acceptance_rate: "38.846%"
+collected_at: "2026-04-17T10:30:34.566501+00:00"
 ---
 
 ## 문제

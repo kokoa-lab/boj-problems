@@ -1,13 +1,13 @@
 ---
-title: 귀여운 수~ε٩(๑> ₃ <)۶з
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "귀여운 수~ε٩(๑> ₃ <)۶з"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 2907
 accepted: 1743
 solved_users: 1563
-acceptance_rate: 62.570%
-collected_at: 2026-04-17T14:36:25.932685+00:00
+acceptance_rate: "62.570%"
+collected_at: "2026-04-17T14:36:25.932685+00:00"
 ---
 
 ## 문제

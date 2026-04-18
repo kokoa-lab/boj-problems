@@ -1,13 +1,13 @@
 ---
-title: 별 모으기
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "별 모으기"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 440
 accepted: 101
 solved_users: 90
-acceptance_rate: 26.393%
-collected_at: 2026-04-17T13:04:02.188637+00:00
+acceptance_rate: "26.393%"
+collected_at: "2026-04-17T13:04:02.188637+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Gold Coins
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Gold Coins"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 244
 accepted: 206
 solved_users: 189
-acceptance_rate: 84.000%
-collected_at: 2026-04-17T11:09:30.916093+00:00
+acceptance_rate: "84.000%"
+collected_at: "2026-04-17T11:09:30.916093+00:00"
 ---
 
 ## 문제

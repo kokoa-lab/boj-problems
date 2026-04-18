@@ -1,13 +1,13 @@
 ---
-title: War on Weather
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "War on Weather"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 34
 accepted: 23
 solved_users: 23
-acceptance_rate: 76.667%
-collected_at: 2026-04-17T10:58:51.691560+00:00
+acceptance_rate: "76.667%"
+collected_at: "2026-04-17T10:58:51.691560+00:00"
 ---
 
 ## 문제

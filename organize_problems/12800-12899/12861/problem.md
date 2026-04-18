@@ -1,13 +1,13 @@
 ---
-title: 죄수에게 주는 뇌물
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "죄수에게 주는 뇌물"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 236
 accepted: 126
 solved_users: 107
-acceptance_rate: 59.116%
-collected_at: 2026-04-17T13:02:42.919973+00:00
+acceptance_rate: "59.116%"
+collected_at: "2026-04-17T13:02:42.919973+00:00"
 ---
 
 ## 문제

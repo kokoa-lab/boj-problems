@@ -1,13 +1,13 @@
 ---
-title: 맹독 방벽
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "맹독 방벽"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 3305
 accepted: 1513
 solved_users: 1233
-acceptance_rate: 44.099%
-collected_at: 2026-04-17T11:49:14.908933+00:00
+acceptance_rate: "44.099%"
+collected_at: "2026-04-17T11:49:14.908933+00:00"
 ---
 
 ## 문제

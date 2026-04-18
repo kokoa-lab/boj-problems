@@ -1,13 +1,13 @@
 ---
-title: Minesweeper
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Minesweeper"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 376
 accepted: 168
 solved_users: 129
-acceptance_rate: 44.178%
-collected_at: 2026-04-17T10:46:29.530563+00:00
+acceptance_rate: "44.178%"
+collected_at: "2026-04-17T10:46:29.530563+00:00"
 ---
 
 ## 문제

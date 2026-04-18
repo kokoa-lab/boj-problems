@@ -1,13 +1,13 @@
 ---
-title: 나이트와 킹
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "나이트와 킹"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 143
 accepted: 103
 solved_users: 90
-acceptance_rate: 76.923%
-collected_at: 2026-04-17T20:50:15.361372+00:00
+acceptance_rate: "76.923%"
+collected_at: "2026-04-17T20:50:15.361372+00:00"
 ---
 
 ## 문제

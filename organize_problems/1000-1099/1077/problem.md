@@ -1,13 +1,13 @@
 ---
-title: 넓이
-special_judge: true
-time_limit: 2 초
-memory_limit: 128 MB
+title: "넓이"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 1928
 accepted: 548
 solved_users: 387
-acceptance_rate: 27.006%
-collected_at: 2026-04-17T10:28:05.142531+00:00
+acceptance_rate: "27.006%"
+collected_at: "2026-04-17T10:28:05.142531+00:00"
 ---
 
 ## 문제

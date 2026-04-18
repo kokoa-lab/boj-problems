@@ -1,13 +1,13 @@
 ---
-title: Arithmetic with Morse
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Arithmetic with Morse"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 127
 accepted: 87
 solved_users: 75
-acceptance_rate: 68.182%
-collected_at: 2026-04-17T12:10:50.395591+00:00
+acceptance_rate: "68.182%"
+collected_at: "2026-04-17T12:10:50.395591+00:00"
 ---
 
 ## 문제

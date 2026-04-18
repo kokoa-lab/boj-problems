@@ -1,13 +1,13 @@
 ---
-title: 행사장 대여 (Small)
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "행사장 대여 (Small)"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 1359
 accepted: 864
 solved_users: 733
-acceptance_rate: 66.215%
-collected_at: 2026-04-17T13:41:11.130958+00:00
+acceptance_rate: "66.215%"
+collected_at: "2026-04-17T13:41:11.130958+00:00"
 ---
 
 ## 문제

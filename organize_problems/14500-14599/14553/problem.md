@@ -1,13 +1,13 @@
 ---
-title: The Way
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "The Way"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 471
 accepted: 222
 solved_users: 157
-acceptance_rate: 47.720%
-collected_at: 2026-04-17T13:38:01.230510+00:00
+acceptance_rate: "47.720%"
+collected_at: "2026-04-17T13:38:01.230510+00:00"
 ---
 
 ## 문제

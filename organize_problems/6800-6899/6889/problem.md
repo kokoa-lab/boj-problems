@@ -1,13 +1,13 @@
 ---
-title: Smile with Similes
-special_judge: true
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Smile with Similes"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 600
 accepted: 527
 solved_users: 491
-acceptance_rate: 89.111%
-collected_at: 2026-04-17T11:40:15.861289+00:00
+acceptance_rate: "89.111%"
+collected_at: "2026-04-17T11:40:15.861289+00:00"
 ---
 
 ## 문제

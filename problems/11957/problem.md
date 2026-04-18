@@ -1,13 +1,13 @@
 ---
-title: OTPOR
-special_judge: true
-time_limit: 1 초
-memory_limit: 64 MB
+title: "OTPOR"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "64 MB"
 submissions: 91
 accepted: 65
 solved_users: 50
-acceptance_rate: 74.627%
-collected_at: 2026-04-17T12:48:10.159984+00:00
+acceptance_rate: "74.627%"
+collected_at: "2026-04-17T12:48:10.159984+00:00"
 ---
 
 ## 문제

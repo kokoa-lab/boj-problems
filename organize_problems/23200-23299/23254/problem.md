@@ -1,13 +1,13 @@
 ---
-title: 나는 기말고사형 인간이야
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "나는 기말고사형 인간이야"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 1522
 accepted: 754
 solved_users: 602
-acceptance_rate: 50.419%
-collected_at: 2026-04-17T16:45:08.205100+00:00
+acceptance_rate: "50.419%"
+collected_at: "2026-04-17T16:45:08.205100+00:00"
 ---
 
 ## 문제

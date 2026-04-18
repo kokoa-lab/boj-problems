@@ -1,13 +1,13 @@
 ---
-title: Software Licenses
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Software Licenses"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 98
 accepted: 28
 solved_users: 20
-acceptance_rate: 47.619%
-collected_at: 2026-04-17T11:16:18.117120+00:00
+acceptance_rate: "47.619%"
+collected_at: "2026-04-17T11:16:18.117120+00:00"
 ---
 
 ## 문제

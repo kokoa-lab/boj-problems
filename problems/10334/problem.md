@@ -1,13 +1,13 @@
 ---
-title: Automotive Navigation
-special_judge: false
-time_limit: 5 초
-memory_limit: 256 MB
+title: "Automotive Navigation"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "256 MB"
 submissions: 79
 accepted: 24
 solved_users: 24
-acceptance_rate: 32.877%
-collected_at: 2026-04-17T12:22:07.371717+00:00
+acceptance_rate: "32.877%"
+collected_at: "2026-04-17T12:22:07.371717+00:00"
 ---
 
 ## 문제

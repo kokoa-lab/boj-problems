@@ -1,13 +1,13 @@
 ---
-title: Theme Park (Large)
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Theme Park (Large)"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 60
 accepted: 30
 solved_users: 29
-acceptance_rate: 53.704%
-collected_at: 2026-04-17T12:58:05.834648+00:00
+acceptance_rate: "53.704%"
+collected_at: "2026-04-17T12:58:05.834648+00:00"
 ---
 
 ## 문제

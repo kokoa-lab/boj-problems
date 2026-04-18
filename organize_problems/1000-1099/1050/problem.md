@@ -1,13 +1,13 @@
 ---
-title: 물약
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "물약"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 3979
 accepted: 543
 solved_users: 419
-acceptance_rate: 16.848%
-collected_at: 2026-04-17T10:27:54.474745+00:00
+acceptance_rate: "16.848%"
+collected_at: "2026-04-17T10:27:54.474745+00:00"
 ---
 
 ## 문제

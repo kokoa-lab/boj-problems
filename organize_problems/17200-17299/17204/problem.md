@@ -1,13 +1,13 @@
 ---
-title: 죽음의 게임
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "죽음의 게임"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 3180
 accepted: 2005
 solved_users: 1739
-acceptance_rate: 64.479%
-collected_at: 2026-04-17T14:32:56.234893+00:00
+acceptance_rate: "64.479%"
+collected_at: "2026-04-17T14:32:56.234893+00:00"
 ---
 
 ## 문제

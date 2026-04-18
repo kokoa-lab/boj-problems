@@ -1,13 +1,13 @@
 ---
-title: 입력숫자
-special_judge: false
-time_limit: 1 초
-memory_limit: 32 MB
+title: "입력숫자"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "32 MB"
 submissions: 1281
 accepted: 740
 solved_users: 650
-acceptance_rate: 65.524%
-collected_at: 2026-04-17T12:05:39.795533+00:00
+acceptance_rate: "65.524%"
+collected_at: "2026-04-17T12:05:39.795533+00:00"
 ---
 
 ## 문제

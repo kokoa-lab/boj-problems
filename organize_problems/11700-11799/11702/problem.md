@@ -1,13 +1,13 @@
 ---
-title: PLAY in BASIC
-special_judge: true
-time_limit: 5 초
-memory_limit: 512 MB
+title: "PLAY in BASIC"
+special_judge: "true"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 57
 accepted: 22
 solved_users: 12
-acceptance_rate: 30.769%
-collected_at: 2026-04-17T12:44:19.624466+00:00
+acceptance_rate: "30.769%"
+collected_at: "2026-04-17T12:44:19.624466+00:00"
 ---
 
 ## 문제

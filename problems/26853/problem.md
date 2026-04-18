@@ -1,13 +1,13 @@
 ---
-title: Uniform Maker
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Uniform Maker"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 76
 accepted: 72
 solved_users: 67
-acceptance_rate: 95.714%
-collected_at: 2026-04-17T17:52:15.137891+00:00
+acceptance_rate: "95.714%"
+collected_at: "2026-04-17T17:52:15.137891+00:00"
 ---
 
 ## 문제

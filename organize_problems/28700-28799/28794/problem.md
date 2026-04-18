@@ -1,13 +1,13 @@
 ---
-title: Минер
-special_judge: true
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Минер"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 11
 accepted: 6
 solved_users: 5
-acceptance_rate: 50.000%
-collected_at: 2026-04-17T18:32:34.258462+00:00
+acceptance_rate: "50.000%"
+collected_at: "2026-04-17T18:32:34.258462+00:00"
 ---
 
 ## 문제

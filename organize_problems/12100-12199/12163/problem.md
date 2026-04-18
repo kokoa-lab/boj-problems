@@ -1,13 +1,13 @@
 ---
-title: Haircut (Large)
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Haircut (Large)"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 106
 accepted: 65
 solved_users: 58
-acceptance_rate: 61.053%
-collected_at: 2026-04-17T12:51:12.754748+00:00
+acceptance_rate: "61.053%"
+collected_at: "2026-04-17T12:51:12.754748+00:00"
 ---
 
 ## 문제

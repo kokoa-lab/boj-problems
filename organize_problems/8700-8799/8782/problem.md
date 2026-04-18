@@ -1,13 +1,13 @@
 ---
-title: Eurozwrotnica
-special_judge: false
-time_limit: 2.5 초
-memory_limit: 128 MB
+title: "Eurozwrotnica"
+special_judge: "false"
+time_limit: "2.5 초"
+memory_limit: "128 MB"
 submissions: 47
 accepted: 23
 solved_users: 20
-acceptance_rate: 54.054%
-collected_at: 2026-04-17T12:03:23.287484+00:00
+acceptance_rate: "54.054%"
+collected_at: "2026-04-17T12:03:23.287484+00:00"
 ---
 
 ## 문제

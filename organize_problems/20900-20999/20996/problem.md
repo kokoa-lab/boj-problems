@@ -1,13 +1,13 @@
 ---
-title: Edit Distance Yet Again
-special_judge: true
-time_limit: 20 초
-memory_limit: 512 MB
+title: "Edit Distance Yet Again"
+special_judge: "true"
+time_limit: "20 초"
+memory_limit: "512 MB"
 submissions: 66
 accepted: 23
 solved_users: 16
-acceptance_rate: 28.571%
-collected_at: 2026-04-17T15:44:55.965165+00:00
+acceptance_rate: "28.571%"
+collected_at: "2026-04-17T15:44:55.965165+00:00"
 ---
 
 ## 문제

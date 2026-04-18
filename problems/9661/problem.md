@@ -1,13 +1,13 @@
 ---
-title: 돌 게임 7
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "돌 게임 7"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 5302
 accepted: 2641
 solved_users: 2364
-acceptance_rate: 53.279%
-collected_at: 2026-04-17T12:12:37.132683+00:00
+acceptance_rate: "53.279%"
+collected_at: "2026-04-17T12:12:37.132683+00:00"
 ---
 
 ## 문제

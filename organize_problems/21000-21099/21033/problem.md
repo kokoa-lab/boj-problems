@@ -1,13 +1,13 @@
 ---
-title: Sending Blessings
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Sending Blessings"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 50
 accepted: 16
 solved_users: 13
-acceptance_rate: 28.889%
-collected_at: 2026-04-17T15:46:05.150601+00:00
+acceptance_rate: "28.889%"
+collected_at: "2026-04-17T15:46:05.150601+00:00"
 ---
 
 ## 문제

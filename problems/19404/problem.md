@@ -1,13 +1,13 @@
 ---
-title: Distribution of Prize Money
-special_judge: true
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Distribution of Prize Money"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 28
 accepted: 8
 solved_users: 8
-acceptance_rate: 36.364%
-collected_at: 2026-04-17T15:19:20.748340+00:00
+acceptance_rate: "36.364%"
+collected_at: "2026-04-17T15:19:20.748340+00:00"
 ---
 
 ## 문제

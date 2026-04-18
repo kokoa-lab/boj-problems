@@ -1,13 +1,13 @@
 ---
-title: 초코칩 케이크
-special_judge: false
-time_limit: 0.5 초
-memory_limit: 512 MB
+title: "초코칩 케이크"
+special_judge: "false"
+time_limit: "0.5 초"
+memory_limit: "512 MB"
 submissions: 317
 accepted: 185
 solved_users: 150
-acceptance_rate: 58.366%
-collected_at: 2026-04-17T16:54:45.912817+00:00
+acceptance_rate: "58.366%"
+collected_at: "2026-04-17T16:54:45.912817+00:00"
 ---
 
 ## 문제

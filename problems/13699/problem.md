@@ -1,13 +1,13 @@
 ---
-title: 점화식
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "점화식"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 7024
 accepted: 5105
 solved_users: 4524
-acceptance_rate: 73.765%
-collected_at: 2026-04-17T13:17:31.592647+00:00
+acceptance_rate: "73.765%"
+collected_at: "2026-04-17T13:17:31.592647+00:00"
 ---
 
 ## 문제

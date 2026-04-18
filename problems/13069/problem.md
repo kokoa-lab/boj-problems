@@ -1,13 +1,13 @@
 ---
-title: Beehive
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Beehive"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 9
 accepted: 6
 solved_users: 6
-acceptance_rate: 66.667%
-collected_at: 2026-04-17T13:07:00.048290+00:00
+acceptance_rate: "66.667%"
+collected_at: "2026-04-17T13:07:00.048290+00:00"
 ---
 
 ## 문제

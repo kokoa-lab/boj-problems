@@ -1,13 +1,13 @@
 ---
-title: 삼각
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "삼각"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 834
 accepted: 433
 solved_users: 347
-acceptance_rate: 52.977%
-collected_at: 2026-04-17T14:05:23.033966+00:00
+acceptance_rate: "52.977%"
+collected_at: "2026-04-17T14:05:23.033966+00:00"
 ---
 
 ## 문제

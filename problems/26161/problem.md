@@ -1,13 +1,13 @@
 ---
-title: 트리의 팔
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "트리의 팔"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 209
 accepted: 77
 solved_users: 58
-acceptance_rate: 39.456%
-collected_at: 2026-04-17T17:41:01.470658+00:00
+acceptance_rate: "39.456%"
+collected_at: "2026-04-17T17:41:01.470658+00:00"
 ---
 
 ## 문제

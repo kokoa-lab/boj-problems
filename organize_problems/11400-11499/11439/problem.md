@@ -1,13 +1,13 @@
 ---
-title: 이항 계수 5
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "이항 계수 5"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 2017
 accepted: 885
 solved_users: 581
-acceptance_rate: 44.934%
-collected_at: 2026-04-17T12:40:47.992697+00:00
+acceptance_rate: "44.934%"
+collected_at: "2026-04-17T12:40:47.992697+00:00"
 ---
 
 ## 문제

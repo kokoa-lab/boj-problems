@@ -1,13 +1,13 @@
 ---
-title: Dancing in Circles
-special_judge: false
-time_limit: 3 초
-memory_limit: 512 MB
+title: "Dancing in Circles"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "512 MB"
 submissions: 22
 accepted: 6
 solved_users: 6
-acceptance_rate: 42.857%
-collected_at: 2026-04-17T11:56:25.909870+00:00
+acceptance_rate: "42.857%"
+collected_at: "2026-04-17T11:56:25.909870+00:00"
 ---
 
 ## 문제

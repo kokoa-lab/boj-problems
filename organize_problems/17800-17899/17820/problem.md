@@ -1,13 +1,13 @@
 ---
-title: Trobojnica
-special_judge: true
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Trobojnica"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 60
 accepted: 13
 solved_users: 13
-acceptance_rate: 26.531%
-collected_at: 2026-04-17T14:47:51.649808+00:00
+acceptance_rate: "26.531%"
+collected_at: "2026-04-17T14:47:51.649808+00:00"
 ---
 
 ## 문제

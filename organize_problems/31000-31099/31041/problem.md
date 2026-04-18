@@ -1,13 +1,13 @@
 ---
-title: State Fair
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "State Fair"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 29
 accepted: 21
 solved_users: 15
-acceptance_rate: 75.000%
-collected_at: 2026-04-17T19:20:09.911293+00:00
+acceptance_rate: "75.000%"
+collected_at: "2026-04-17T19:20:09.911293+00:00"
 ---
 
 ## 문제

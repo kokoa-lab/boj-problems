@@ -1,13 +1,13 @@
 ---
-title: 도시 분할 계획
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "도시 분할 계획"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 42254
 accepted: 20693
 solved_users: 15022
-acceptance_rate: 50.190%
-collected_at: 2026-04-17T10:31:57.960150+00:00
+acceptance_rate: "50.190%"
+collected_at: "2026-04-17T10:31:57.960150+00:00"
 ---
 
 ## 문제

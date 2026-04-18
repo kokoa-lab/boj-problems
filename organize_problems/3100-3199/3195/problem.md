@@ -1,13 +1,13 @@
 ---
-title: ribari
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "ribari"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 68
 accepted: 42
 solved_users: 26
-acceptance_rate: 68.421%
-collected_at: 2026-04-17T10:47:19.290232+00:00
+acceptance_rate: "68.421%"
+collected_at: "2026-04-17T10:47:19.290232+00:00"
 ---
 
 ## 문제

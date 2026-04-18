@@ -1,13 +1,13 @@
 ---
-title: 편의점
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "편의점"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 2380
 accepted: 471
 solved_users: 340
-acceptance_rate: 23.051%
-collected_at: 2026-04-17T13:28:06.266790+00:00
+acceptance_rate: "23.051%"
+collected_at: "2026-04-17T13:28:06.266790+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 회사 문화 3
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "회사 문화 3"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 2464
 accepted: 1268
 solved_users: 990
-acceptance_rate: 51.269%
-collected_at: 2026-04-17T13:29:37.213920+00:00
+acceptance_rate: "51.269%"
+collected_at: "2026-04-17T13:29:37.213920+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 그래서 대회 이름 뭐로 하죠
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "그래서 대회 이름 뭐로 하죠"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 2015
 accepted: 563
 solved_users: 504
-acceptance_rate: 33.444%
-collected_at: 2026-04-17T18:03:47.985859+00:00
+acceptance_rate: "33.444%"
+collected_at: "2026-04-17T18:03:47.985859+00:00"
 ---
 
 ## 문제

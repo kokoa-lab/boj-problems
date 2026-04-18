@@ -1,13 +1,13 @@
 ---
-title: 장난감 오렌지 만들기
-special_judge: true
-time_limit: 6 초
-memory_limit: 1024 MB
+title: "장난감 오렌지 만들기"
+special_judge: "true"
+time_limit: "6 초"
+memory_limit: "1024 MB"
 submissions: 207
 accepted: 28
 solved_users: 17
-acceptance_rate: 13.934%
-collected_at: 2026-04-17T16:38:26.884772+00:00
+acceptance_rate: "13.934%"
+collected_at: "2026-04-17T16:38:26.884772+00:00"
 ---
 
 ## 문제

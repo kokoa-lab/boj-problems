@@ -1,13 +1,13 @@
 ---
-title: Millionaire
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "Millionaire"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 32
 accepted: 28
 solved_users: 24
-acceptance_rate: 88.889%
-collected_at: 2026-04-17T12:42:45.928666+00:00
+acceptance_rate: "88.889%"
+collected_at: "2026-04-17T12:42:45.928666+00:00"
 ---
 
 ## 문제

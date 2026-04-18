@@ -1,13 +1,13 @@
 ---
-title: Effective Infection Time
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "Effective Infection Time"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 203
 accepted: 147
 solved_users: 126
-acceptance_rate: 71.186%
-collected_at: 2026-04-17T12:09:43.530129+00:00
+acceptance_rate: "71.186%"
+collected_at: "2026-04-17T12:09:43.530129+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Kodowanie
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Kodowanie"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 63
 accepted: 49
 solved_users: 44
-acceptance_rate: 91.667%
-collected_at: 2026-04-17T12:04:09.300228+00:00
+acceptance_rate: "91.667%"
+collected_at: "2026-04-17T12:04:09.300228+00:00"
 ---
 
 ## 문제

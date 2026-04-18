@@ -1,13 +1,13 @@
 ---
-title: Detour
-special_judge: true
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Detour"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 282
 accepted: 88
 solved_users: 79
-acceptance_rate: 36.744%
-collected_at: 2026-04-17T13:48:06.258656+00:00
+acceptance_rate: "36.744%"
+collected_at: "2026-04-17T13:48:06.258656+00:00"
 ---
 
 ## 문제

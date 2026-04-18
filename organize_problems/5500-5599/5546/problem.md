@@ -1,13 +1,13 @@
 ---
-title: 파스타
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "파스타"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 1092
 accepted: 581
 solved_users: 473
-acceptance_rate: 56.579%
-collected_at: 2026-04-17T11:15:18.720803+00:00
+acceptance_rate: "56.579%"
+collected_at: "2026-04-17T11:15:18.720803+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 파일 검색
-special_judge: false
-time_limit: 5 초
-memory_limit: 128 MB
+title: "파일 검색"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "128 MB"
 submissions: 39
 accepted: 4
 solved_users: 4
-acceptance_rate: 17.391%
-collected_at: 2026-04-17T11:16:36.122433+00:00
+acceptance_rate: "17.391%"
+collected_at: "2026-04-17T11:16:36.122433+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: All in the Family
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "All in the Family"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 55
 accepted: 26
 solved_users: 9
-acceptance_rate: 28.125%
-collected_at: 2026-04-17T15:49:20.192557+00:00
+acceptance_rate: "28.125%"
+collected_at: "2026-04-17T15:49:20.192557+00:00"
 ---
 
 ## 문제

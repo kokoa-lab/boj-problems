@@ -1,13 +1,13 @@
 ---
-title: 책정리
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "책정리"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 2181
 accepted: 1415
 solved_users: 1241
-acceptance_rate: 69.955%
-collected_at: 2026-04-17T10:34:10.263120+00:00
+acceptance_rate: "69.955%"
+collected_at: "2026-04-17T10:34:10.263120+00:00"
 ---
 
 ## 문제

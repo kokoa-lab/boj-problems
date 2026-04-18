@@ -1,13 +1,13 @@
 ---
-title: min-xor
-special_judge: false
-time_limit: 0.4 초
-memory_limit: 8 MB
+title: "min-xor"
+special_judge: "false"
+time_limit: "0.4 초"
+memory_limit: "8 MB"
 submissions: 77
 accepted: 27
 solved_users: 25
-acceptance_rate: 38.462%
-collected_at: 2026-04-17T15:15:36.676836+00:00
+acceptance_rate: "38.462%"
+collected_at: "2026-04-17T15:15:36.676836+00:00"
 ---
 
 ## 문제

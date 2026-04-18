@@ -1,13 +1,13 @@
 ---
-title: Satan Game
-special_judge: true
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Satan Game"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 1574
 accepted: 273
 solved_users: 222
-acceptance_rate: 26.026%
-collected_at: 2026-04-17T14:03:02.978767+00:00
+acceptance_rate: "26.026%"
+collected_at: "2026-04-17T14:03:02.978767+00:00"
 ---
 
 ## 문제

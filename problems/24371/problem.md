@@ -1,13 +1,13 @@
 ---
-title: БРОЙ ПОДНИЗОВЕ
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "БРОЙ ПОДНИЗОВЕ"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 51
 accepted: 29
 solved_users: 26
-acceptance_rate: 70.270%
-collected_at: 2026-04-17T17:08:24.596264+00:00
+acceptance_rate: "70.270%"
+collected_at: "2026-04-17T17:08:24.596264+00:00"
 ---
 
 ## 문제

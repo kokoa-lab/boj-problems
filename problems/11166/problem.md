@@ -1,13 +1,13 @@
 ---
-title: Space Travel
-special_judge: true
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Space Travel"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 15
 accepted: 3
 solved_users: 3
-acceptance_rate: 30.000%
-collected_at: 2026-04-17T12:37:28.205183+00:00
+acceptance_rate: "30.000%"
+collected_at: "2026-04-17T12:37:28.205183+00:00"
 ---
 
 ## 문제

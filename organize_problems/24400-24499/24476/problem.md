@@ -1,13 +1,13 @@
 ---
-title: Let’s Win the Election
-special_judge: true
-time_limit: 1.6 초
-memory_limit: 1024 MB
+title: "Let’s Win the Election"
+special_judge: "true"
+time_limit: "1.6 초"
+memory_limit: "1024 MB"
 submissions: 331
 accepted: 76
 solved_users: 61
-acceptance_rate: 24.400%
-collected_at: 2026-04-17T17:10:01.762722+00:00
+acceptance_rate: "24.400%"
+collected_at: "2026-04-17T17:10:01.762722+00:00"
 ---
 
 ## 문제

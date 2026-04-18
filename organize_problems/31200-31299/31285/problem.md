@@ -1,13 +1,13 @@
 ---
-title: 경찰과 도둑
-special_judge: false
-time_limit: 1.5 초
-memory_limit: 1024 MB
+title: "경찰과 도둑"
+special_judge: "false"
+time_limit: "1.5 초"
+memory_limit: "1024 MB"
 submissions: 94
 accepted: 23
 solved_users: 15
-acceptance_rate: 23.438%
-collected_at: 2026-04-17T19:25:21.184910+00:00
+acceptance_rate: "23.438%"
+collected_at: "2026-04-17T19:25:21.184910+00:00"
 ---
 
 ## 문제

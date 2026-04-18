@@ -1,13 +1,13 @@
 ---
-title: Hoofball
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Hoofball"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 991
 accepted: 285
 solved_users: 245
-acceptance_rate: 31.170%
-collected_at: 2026-04-17T14:05:50.546088+00:00
+acceptance_rate: "31.170%"
+collected_at: "2026-04-17T14:05:50.546088+00:00"
 ---
 
 ## 문제

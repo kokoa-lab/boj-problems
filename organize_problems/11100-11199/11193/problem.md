@@ -1,13 +1,13 @@
 ---
-title: Three Digits
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Three Digits"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 296
 accepted: 62
 solved_users: 49
-acceptance_rate: 24.623%
-collected_at: 2026-04-17T12:37:52.201884+00:00
+acceptance_rate: "24.623%"
+collected_at: "2026-04-17T12:37:52.201884+00:00"
 ---
 
 ## 문제

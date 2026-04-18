@@ -1,13 +1,13 @@
 ---
-title: Jib Job
-special_judge: true
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 2048 MB
+title: "Jib Job"
+special_judge: "true"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "2048 MB"
 submissions: 68
 accepted: 55
 solved_users: 54
-acceptance_rate: 80.597%
-collected_at: 2026-04-17T20:03:54.873000+00:00
+acceptance_rate: "80.597%"
+collected_at: "2026-04-17T20:03:54.873000+00:00"
 ---
 
 ## 문제

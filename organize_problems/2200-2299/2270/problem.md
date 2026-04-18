@@ -1,13 +1,13 @@
 ---
-title: 하노이 탑
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "하노이 탑"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 976
 accepted: 294
 solved_users: 204
-acceptance_rate: 34.872%
-collected_at: 2026-04-17T10:40:09.115120+00:00
+acceptance_rate: "34.872%"
+collected_at: "2026-04-17T10:40:09.115120+00:00"
 ---
 
 ## 문제

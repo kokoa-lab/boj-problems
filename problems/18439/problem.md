@@ -1,13 +1,13 @@
 ---
-title: LCS 6
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 8 MB (추가 메모리 없음)
+title: "LCS 6"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "8 MB (추가 메모리 없음)"
 submissions: 2847
 accepted: 1087
 solved_users: 440
-acceptance_rate: 35.088%
-collected_at: 2026-04-17T15:04:42.909452+00:00
+acceptance_rate: "35.088%"
+collected_at: "2026-04-17T15:04:42.909452+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 평균은 넘겠지
-special_judge: true
-time_limit: 1 초
-memory_limit: 256 MB
+title: "평균은 넘겠지"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 285202
 accepted: 126671
 solved_users: 85111
-acceptance_rate: 40.875%
-collected_at: 2026-04-18T09:48:16.942055+00:00
+acceptance_rate: "40.875%"
+collected_at: "2026-04-18T09:48:16.942055+00:00"
 ---
 
 ## 문제

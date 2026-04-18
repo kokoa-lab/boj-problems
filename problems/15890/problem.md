@@ -1,13 +1,13 @@
 ---
-title: 전국 대학생 프로그래밍 대회 동아리 연합 여름 대회 2018
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "전국 대학생 프로그래밍 대회 동아리 연합 여름 대회 2018"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 3575
 accepted: 2467
 solved_users: 2335
-acceptance_rate: 71.319%
-collected_at: 2026-04-17T14:08:12.024885+00:00
+acceptance_rate: "71.319%"
+collected_at: "2026-04-17T14:08:12.024885+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Zwycięzcy
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Zwycięzcy"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 257
 accepted: 235
 solved_users: 223
-acceptance_rate: 91.393%
-collected_at: 2026-04-17T12:01:39.885343+00:00
+acceptance_rate: "91.393%"
+collected_at: "2026-04-17T12:01:39.885343+00:00"
 ---
 
 ## 문제

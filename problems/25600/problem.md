@@ -1,13 +1,13 @@
 ---
-title: Triathlon
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Triathlon"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 2421
 accepted: 2038
 solved_users: 1904
-acceptance_rate: 85.573%
-collected_at: 2026-04-17T17:29:39.136107+00:00
+acceptance_rate: "85.573%"
+collected_at: "2026-04-17T17:29:39.136107+00:00"
 ---
 
 ## 문제

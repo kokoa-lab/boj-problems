@@ -1,13 +1,13 @@
 ---
-title: Viruses
-special_judge: false
-time_limit: 0.7 초
-memory_limit: 256 MB
+title: "Viruses"
+special_judge: "false"
+time_limit: "0.7 초"
+memory_limit: "256 MB"
 submissions: 11
 accepted: 4
 solved_users: 4
-acceptance_rate: 80.000%
-collected_at: 2026-04-17T15:23:08.813334+00:00
+acceptance_rate: "80.000%"
+collected_at: "2026-04-17T15:23:08.813334+00:00"
 ---
 
 ## 문제

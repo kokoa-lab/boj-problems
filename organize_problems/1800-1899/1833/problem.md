@@ -1,13 +1,13 @@
 ---
-title: 고속철도 설계하기
-special_judge: true
-time_limit: 2 초
-memory_limit: 128 MB
+title: "고속철도 설계하기"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 1147
 accepted: 592
 solved_users: 492
-acceptance_rate: 52.564%
-collected_at: 2026-04-17T10:34:35.034839+00:00
+acceptance_rate: "52.564%"
+collected_at: "2026-04-17T10:34:35.034839+00:00"
 ---
 
 ## 문제

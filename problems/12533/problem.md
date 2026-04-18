@@ -1,13 +1,13 @@
 ---
-title: Battlefield (Small)
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Battlefield (Small)"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 89
 accepted: 35
 solved_users: 35
-acceptance_rate: 63.636%
-collected_at: 2026-04-17T12:56:56.243466+00:00
+acceptance_rate: "63.636%"
+collected_at: "2026-04-17T12:56:56.243466+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 좀비
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "좀비"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 2048
 accepted: 675
 solved_users: 497
-acceptance_rate: 32.484%
-collected_at: 2026-04-17T12:48:06.128371+00:00
+acceptance_rate: "32.484%"
+collected_at: "2026-04-17T12:48:06.128371+00:00"
 ---
 
 ## 문제

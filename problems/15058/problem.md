@@ -1,13 +1,13 @@
 ---
-title: Gates of uncertainty
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Gates of uncertainty"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 55
 accepted: 31
 solved_users: 30
-acceptance_rate: 58.824%
-collected_at: 2026-04-17T13:49:33.768846+00:00
+acceptance_rate: "58.824%"
+collected_at: "2026-04-17T13:49:33.768846+00:00"
 ---
 
 ## 문제

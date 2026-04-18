@@ -1,13 +1,13 @@
 ---
-title: Missing Vowels
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Missing Vowels"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 160
 accepted: 67
 solved_users: 53
-acceptance_rate: 39.552%
-collected_at: 2026-04-17T19:10:37.970490+00:00
+acceptance_rate: "39.552%"
+collected_at: "2026-04-17T19:10:37.970490+00:00"
 ---
 
 ## 문제

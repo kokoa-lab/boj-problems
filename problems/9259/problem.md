@@ -1,13 +1,13 @@
 ---
-title: Privacy Loss
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Privacy Loss"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 23
 accepted: 18
 solved_users: 18
-acceptance_rate: 78.261%
-collected_at: 2026-04-17T12:08:21.469367+00:00
+acceptance_rate: "78.261%"
+collected_at: "2026-04-17T12:08:21.469367+00:00"
 ---
 
 ## 문제

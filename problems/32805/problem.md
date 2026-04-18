@@ -1,13 +1,13 @@
 ---
-title: A Stack of Gold
-special_judge: false
-time_limit: 1 초
-memory_limit: 2048 MB
+title: "A Stack of Gold"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "2048 MB"
 submissions: 110
 accepted: 102
 solved_users: 90
-acceptance_rate: 93.750%
-collected_at: 2026-04-17T20:01:43.423907+00:00
+acceptance_rate: "93.750%"
+collected_at: "2026-04-17T20:01:43.423907+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Abandoned Animal
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Abandoned Animal"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 50
 accepted: 33
 solved_users: 31
-acceptance_rate: 64.583%
-collected_at: 2026-04-17T13:47:43.645230+00:00
+acceptance_rate: "64.583%"
+collected_at: "2026-04-17T13:47:43.645230+00:00"
 ---
 
 ## 문제

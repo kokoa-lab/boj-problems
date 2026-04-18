@@ -1,13 +1,13 @@
 ---
-title: JOI Poster
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "JOI Poster"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 222
 accepted: 56
 solved_users: 41
-acceptance_rate: 25.786%
-collected_at: 2026-04-17T14:46:31.857869+00:00
+acceptance_rate: "25.786%"
+collected_at: "2026-04-17T14:46:31.857869+00:00"
 ---
 
 ## 문제

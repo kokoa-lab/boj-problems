@@ -1,13 +1,13 @@
 ---
-title: Confuzzle
-special_judge: false
-time_limit: 3 초
-memory_limit: 1024 MB
+title: "Confuzzle"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "1024 MB"
 submissions: 1104
 accepted: 403
 solved_users: 272
-acceptance_rate: 32.930%
-collected_at: 2026-04-17T15:34:30.862807+00:00
+acceptance_rate: "32.930%"
+collected_at: "2026-04-17T15:34:30.862807+00:00"
 ---
 
 ## 문제

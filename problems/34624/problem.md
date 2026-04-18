@@ -1,13 +1,13 @@
 ---
-title: 제식 훈련 2
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "제식 훈련 2"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 28
 accepted: 9
 solved_users: 8
-acceptance_rate: 33.333%
-collected_at: 2026-04-17T20:44:14.040379+00:00
+acceptance_rate: "33.333%"
+collected_at: "2026-04-17T20:44:14.040379+00:00"
 ---
 
 ## 문제

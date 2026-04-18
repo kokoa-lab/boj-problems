@@ -1,13 +1,13 @@
 ---
-title: General Knight
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "General Knight"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 256
 accepted: 90
 solved_users: 80
-acceptance_rate: 36.036%
-collected_at: 2026-04-17T15:38:13.354986+00:00
+acceptance_rate: "36.036%"
+collected_at: "2026-04-17T15:38:13.354986+00:00"
 ---
 
 ## 문제

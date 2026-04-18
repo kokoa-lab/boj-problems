@@ -1,13 +1,13 @@
 ---
-title: Cube
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Cube"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 119
 accepted: 87
 solved_users: 77
-acceptance_rate: 85.556%
-collected_at: 2026-04-17T12:16:38.683822+00:00
+acceptance_rate: "85.556%"
+collected_at: "2026-04-17T12:16:38.683822+00:00"
 ---
 
 ## 문제
@@ -22,7 +22,19 @@ A 6 × 6 array is used to represent the six squares.  Only 6 of the 36 cells ar
 
 |  |  |
 | --- | --- |
-| ```  0 0 0 0 0 0 0 3 0 5 0 0 1 2 4 6 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 ``` | ```  0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5 6 0 0 0 0 0 4 0 0 0 0 3 2 0 0 0 0 0 1 ``` |
+| ``` 
+ 0 0 0 0 0 0
+ 0 3 0 5 0 0
+ 1 2 4 6 0 0
+ 0 0 0 0 0 0
+ 0 0 0 0 0 0
+ 0 0 0 0 0 0 ``` | ``` 
+ 0 0 0 0 0 0
+ 0 0 0 0 0 0
+ 0 0 0 0 5 6
+ 0 0 0 0 0 4
+ 0 0 0 0 3 2
+ 0 0 0 0 0 1 ``` |
 
 Given a square representation, determine if the squares can be folded into a cube; if so, find the face opposite face 1.
 

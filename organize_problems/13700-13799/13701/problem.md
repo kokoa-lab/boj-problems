@@ -1,13 +1,13 @@
 ---
-title: 중복 제거
-special_judge: false
-time_limit: 5 초
-memory_limit: 8 MB ( 하단 참고 )
+title: "중복 제거"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "8 MB ( 하단 참고 )"
 submissions: 6542
 accepted: 2600
 solved_users: 1569
-acceptance_rate: 38.428%
-collected_at: 2026-04-17T13:17:31.494987+00:00
+acceptance_rate: "38.428%"
+collected_at: "2026-04-17T13:17:31.494987+00:00"
 ---
 
 ## 문제

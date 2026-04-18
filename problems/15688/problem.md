@@ -1,13 +1,13 @@
 ---
-title: 수 정렬하기 5
-special_judge: false
-time_limit: 10 초  ( 하단 참고 )
-memory_limit: 128 MB
+title: "수 정렬하기 5"
+special_judge: "false"
+time_limit: "10 초  ( 하단 참고 )"
+memory_limit: "128 MB"
 submissions: 16603
 accepted: 8176
 solved_users: 6235
-acceptance_rate: 50.408%
-collected_at: 2026-04-17T14:04:15.539712+00:00
+acceptance_rate: "50.408%"
+collected_at: "2026-04-17T14:04:15.539712+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 폭탄 던지는 태영이
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "폭탄 던지는 태영이"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 1396
 accepted: 418
 solved_users: 288
-acceptance_rate: 30.508%
-collected_at: 2026-04-17T15:37:51.432390+00:00
+acceptance_rate: "30.508%"
+collected_at: "2026-04-17T15:37:51.432390+00:00"
 ---
 
 ## 문제

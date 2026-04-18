@@ -1,13 +1,13 @@
 ---
-title: 작도왕 키위새
-special_judge: true
-time_limit: 1 초
-memory_limit: 512 MB
+title: "작도왕 키위새"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 153
 accepted: 16
 solved_users: 9
-acceptance_rate: 6.923%
-collected_at: 2026-04-17T18:24:04.120010+00:00
+acceptance_rate: "6.923%"
+collected_at: "2026-04-17T18:24:04.120010+00:00"
 ---
 
 ## 문제

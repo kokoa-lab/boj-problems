@@ -1,13 +1,13 @@
 ---
-title: 파댕이의 학교 탈출 대작전!
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "파댕이의 학교 탈출 대작전!"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 152
 accepted: 21
 solved_users: 12
-acceptance_rate: 18.182%
-collected_at: 2026-04-17T19:19:09.587714+00:00
+acceptance_rate: "18.182%"
+collected_at: "2026-04-17T19:19:09.587714+00:00"
 ---
 
 ## 문제

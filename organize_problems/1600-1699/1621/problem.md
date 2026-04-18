@@ -1,13 +1,13 @@
 ---
-title: 조삼모사
-special_judge: true
-time_limit: 2 초
-memory_limit: 128 MB
+title: "조삼모사"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 654
 accepted: 140
 solved_users: 110
-acceptance_rate: 25.882%
-collected_at: 2026-04-17T10:31:41.163488+00:00
+acceptance_rate: "25.882%"
+collected_at: "2026-04-17T10:31:41.163488+00:00"
 ---
 
 ## 문제

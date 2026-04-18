@@ -1,13 +1,13 @@
 ---
-title: 플래그 대사 그만 좀 말해요
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "플래그 대사 그만 좀 말해요"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 527
 accepted: 149
 solved_users: 117
-acceptance_rate: 31.536%
-collected_at: 2026-04-17T18:03:11.664547+00:00
+acceptance_rate: "31.536%"
+collected_at: "2026-04-17T18:03:11.664547+00:00"
 ---
 
 ## 문제

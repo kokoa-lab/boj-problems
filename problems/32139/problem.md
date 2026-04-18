@@ -1,13 +1,13 @@
 ---
-title: 치터찾기
-special_judge: true
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "치터찾기"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 104
 accepted: 30
 solved_users: 29
-acceptance_rate: 59.184%
-collected_at: 2026-04-17T19:43:58.517725+00:00
+acceptance_rate: "59.184%"
+collected_at: "2026-04-17T19:43:58.517725+00:00"
 ---
 
 ## 문제

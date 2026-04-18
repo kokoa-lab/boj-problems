@@ -1,13 +1,13 @@
 ---
-title: What the Flex?
-special_judge: false
-time_limit: 0.5 초
-memory_limit: 1024 MB
+title: "What the Flex?"
+special_judge: "false"
+time_limit: "0.5 초"
+memory_limit: "1024 MB"
 submissions: 168
 accepted: 40
 solved_users: 35
-acceptance_rate: 23.026%
-collected_at: 2026-04-17T19:26:08.652592+00:00
+acceptance_rate: "23.026%"
+collected_at: "2026-04-17T19:26:08.652592+00:00"
 ---
 
 ## 문제

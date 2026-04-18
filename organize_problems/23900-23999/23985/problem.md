@@ -1,13 +1,13 @@
 ---
-title: Cave Escape
-special_judge: false
-time_limit: 120 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Cave Escape"
+special_judge: "false"
+time_limit: "120 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 78
 accepted: 6
 solved_users: 5
-acceptance_rate: 38.462%
-collected_at: 2026-04-17T17:00:19.291533+00:00
+acceptance_rate: "38.462%"
+collected_at: "2026-04-17T17:00:19.291533+00:00"
 ---
 
 ## 문제

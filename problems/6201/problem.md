@@ -1,13 +1,13 @@
 ---
-title: New Cow Brands
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "New Cow Brands"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 162
 accepted: 73
 solved_users: 58
-acceptance_rate: 48.333%
-collected_at: 2026-04-17T11:22:31.168174+00:00
+acceptance_rate: "48.333%"
+collected_at: "2026-04-17T11:22:31.168174+00:00"
 ---
 
 ## 문제

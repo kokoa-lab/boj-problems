@@ -1,13 +1,13 @@
 ---
-title: 계단
-special_judge: false
-time_limit: 0.25 초
-memory_limit: 256 MB
+title: "계단"
+special_judge: "false"
+time_limit: "0.25 초"
+memory_limit: "256 MB"
 submissions: 1394
 accepted: 641
 solved_users: 540
-acceptance_rate: 50.000%
-collected_at: 2026-04-17T16:01:10.702167+00:00
+acceptance_rate: "50.000%"
+collected_at: "2026-04-17T16:01:10.702167+00:00"
 ---
 
 ## 문제

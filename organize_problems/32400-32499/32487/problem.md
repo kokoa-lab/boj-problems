@@ -1,13 +1,13 @@
 ---
-title: Kitten of Chaos
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Kitten of Chaos"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 172
 accepted: 129
 solved_users: 86
-acceptance_rate: 72.881%
-collected_at: 2026-04-17T19:52:24.283656+00:00
+acceptance_rate: "72.881%"
+collected_at: "2026-04-17T19:52:24.283656+00:00"
 ---
 
 ## 문제

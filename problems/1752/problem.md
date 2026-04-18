@@ -1,13 +1,13 @@
 ---
-title: 세상에서 제일 착한 다솜
-special_judge: false
-time_limit: 2 초
-memory_limit: 64 MB
+title: "세상에서 제일 착한 다솜"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "64 MB"
 submissions: 362
 accepted: 82
 solved_users: 58
-acceptance_rate: 21.168%
-collected_at: 2026-04-17T10:33:12.148427+00:00
+acceptance_rate: "21.168%"
+collected_at: "2026-04-17T10:33:12.148427+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 관악산 등산
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "관악산 등산"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 2501
 accepted: 1170
 solved_users: 888
-acceptance_rate: 46.347%
-collected_at: 2026-04-17T13:40:34.824095+00:00
+acceptance_rate: "46.347%"
+collected_at: "2026-04-17T13:40:34.824095+00:00"
 ---
 
 ## 문제

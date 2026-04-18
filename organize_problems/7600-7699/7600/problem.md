@@ -1,13 +1,13 @@
 ---
-title: 문자가 몇갤까
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "문자가 몇갤까"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 2921
 accepted: 2118
 solved_users: 1832
-acceptance_rate: 73.604%
-collected_at: 2026-04-17T11:51:01.357296+00:00
+acceptance_rate: "73.604%"
+collected_at: "2026-04-17T11:51:01.357296+00:00"
 ---
 
 ## 문제

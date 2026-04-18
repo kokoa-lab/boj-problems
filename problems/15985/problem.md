@@ -1,13 +1,13 @@
 ---
-title: 모든 결말을 보고 싶어
-special_judge: false
-time_limit: 3 초
-memory_limit: 512 MB
+title: "모든 결말을 보고 싶어"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "512 MB"
 submissions: 26
 accepted: 10
 solved_users: 9
-acceptance_rate: 90.000%
-collected_at: 2026-04-17T14:09:31.394314+00:00
+acceptance_rate: "90.000%"
+collected_at: "2026-04-17T14:09:31.394314+00:00"
 ---
 
 ## 문제

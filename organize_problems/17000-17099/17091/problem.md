@@ -1,13 +1,13 @@
 ---
-title: 단어 시계
-special_judge: false
-time_limit: 0.5 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "단어 시계"
+special_judge: "false"
+time_limit: "0.5 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 1285
 accepted: 405
 solved_users: 330
-acceptance_rate: 30.641%
-collected_at: 2026-04-17T14:29:23.074912+00:00
+acceptance_rate: "30.641%"
+collected_at: "2026-04-17T14:29:23.074912+00:00"
 ---
 
 ## 문제

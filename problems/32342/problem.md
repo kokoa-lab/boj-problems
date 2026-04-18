@@ -1,13 +1,13 @@
 ---
-title: 와우와 쿼리
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "와우와 쿼리"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 1460
 accepted: 966
 solved_users: 894
-acceptance_rate: 66.716%
-collected_at: 2026-04-17T19:49:16.243166+00:00
+acceptance_rate: "66.716%"
+collected_at: "2026-04-17T19:49:16.243166+00:00"
 ---
 
 ## 문제

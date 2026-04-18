@@ -1,13 +1,13 @@
 ---
-title: Job Completion
-special_judge: false
-time_limit: 2 초
-memory_limit: 2048 MB
+title: "Job Completion"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "2048 MB"
 submissions: 117
 accepted: 67
 solved_users: 64
-acceptance_rate: 68.085%
-collected_at: 2026-04-17T20:08:29.636770+00:00
+acceptance_rate: "68.085%"
+collected_at: "2026-04-17T20:08:29.636770+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Daily Division
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Daily Division"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 128
 accepted: 51
 solved_users: 41
-acceptance_rate: 43.158%
-collected_at: 2026-04-17T14:15:14.847898+00:00
+acceptance_rate: "43.158%"
+collected_at: "2026-04-17T14:15:14.847898+00:00"
 ---
 
 ## 문제

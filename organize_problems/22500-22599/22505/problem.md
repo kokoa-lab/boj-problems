@@ -1,13 +1,13 @@
 ---
-title: Sleeping Time
-special_judge: true
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Sleeping Time"
+special_judge: "true"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 27
 accepted: 8
 solved_users: 8
-acceptance_rate: 61.538%
-collected_at: 2026-04-17T16:23:56.927711+00:00
+acceptance_rate: "61.538%"
+collected_at: "2026-04-17T16:23:56.927711+00:00"
 ---
 
 ## 문제

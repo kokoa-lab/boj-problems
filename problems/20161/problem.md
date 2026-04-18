@@ -1,13 +1,13 @@
 ---
-title: 왜 동전은 하나씩만 뒤집는 거야
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "왜 동전은 하나씩만 뒤집는 거야"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 276
 accepted: 65
 solved_users: 52
-acceptance_rate: 25.243%
-collected_at: 2026-04-17T15:32:26.009334+00:00
+acceptance_rate: "25.243%"
+collected_at: "2026-04-17T15:32:26.009334+00:00"
 ---
 
 ## 문제

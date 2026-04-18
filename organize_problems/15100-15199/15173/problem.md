@@ -1,13 +1,13 @@
 ---
-title: Graphics Design
-special_judge: false
-time_limit: 4 초
-memory_limit: 512 MB
+title: "Graphics Design"
+special_judge: "false"
+time_limit: "4 초"
+memory_limit: "512 MB"
 submissions: 16
 accepted: 4
 solved_users: 4
-acceptance_rate: 33.333%
-collected_at: 2026-04-17T13:53:42.572440+00:00
+acceptance_rate: "33.333%"
+collected_at: "2026-04-17T13:53:42.572440+00:00"
 ---
 
 ## 문제

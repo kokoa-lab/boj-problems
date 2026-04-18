@@ -1,13 +1,13 @@
 ---
-title: 이동하기 4
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "이동하기 4"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 427
 accepted: 96
 solved_users: 73
-acceptance_rate: 30.932%
-collected_at: 2026-04-17T15:09:45.192606+00:00
+acceptance_rate: "30.932%"
+collected_at: "2026-04-17T15:09:45.192606+00:00"
 ---
 
 ## 문제

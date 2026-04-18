@@ -1,13 +1,13 @@
 ---
-title: 단풍잎 이야기
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "단풍잎 이야기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 1560
 accepted: 679
 solved_users: 494
-acceptance_rate: 41.829%
-collected_at: 2026-04-17T14:18:18.332613+00:00
+acceptance_rate: "41.829%"
+collected_at: "2026-04-17T14:18:18.332613+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Crazy LCP
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Crazy LCP"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 100
 accepted: 3
 solved_users: 2
-acceptance_rate: 18.182%
-collected_at: 2026-04-17T15:08:29.671128+00:00
+acceptance_rate: "18.182%"
+collected_at: "2026-04-17T15:08:29.671128+00:00"
 ---
 
 ## 문제

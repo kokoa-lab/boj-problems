@@ -1,13 +1,13 @@
 ---
-title: Mountain Passage
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Mountain Passage"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 12
 accepted: 9
 solved_users: 9
-acceptance_rate: 81.818%
-collected_at: 2026-04-17T11:41:42.944151+00:00
+acceptance_rate: "81.818%"
+collected_at: "2026-04-17T11:41:42.944151+00:00"
 ---
 
 ## 문제

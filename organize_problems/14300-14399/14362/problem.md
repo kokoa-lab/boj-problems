@@ -1,13 +1,13 @@
 ---
-title: Freeform Factory (Large)
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Freeform Factory (Large)"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 8
 accepted: 8
 solved_users: 8
-acceptance_rate: 100.000%
-collected_at: 2026-04-17T13:31:08.028017+00:00
+acceptance_rate: "100.000%"
+collected_at: "2026-04-17T13:31:08.028017+00:00"
 ---
 
 ## 문제

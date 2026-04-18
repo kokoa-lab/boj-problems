@@ -1,13 +1,13 @@
 ---
-title: 이번 시험 다들 다양한 방식으로 망쳤나 봐
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "이번 시험 다들 다양한 방식으로 망쳤나 봐"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 140
 accepted: 64
 solved_users: 57
-acceptance_rate: 54.808%
-collected_at: 2026-04-17T20:47:10.615207+00:00
+acceptance_rate: "54.808%"
+collected_at: "2026-04-17T20:47:10.615207+00:00"
 ---
 
 ## 문제

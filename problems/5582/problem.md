@@ -1,13 +1,13 @@
 ---
-title: 공통 부분 문자열
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "공통 부분 문자열"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 24016
 accepted: 10134
 solved_users: 8000
-acceptance_rate: 43.668%
-collected_at: 2026-04-17T11:15:41.504181+00:00
+acceptance_rate: "43.668%"
+collected_at: "2026-04-17T11:15:41.504181+00:00"
 ---
 
 ## 문제

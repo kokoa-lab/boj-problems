@@ -1,13 +1,13 @@
 ---
-title: 책장 맨 윗칸
-special_judge: true
-time_limit: 2 초
-memory_limit: 128 MB
+title: "책장 맨 윗칸"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 72
 accepted: 15
 solved_users: 12
-acceptance_rate: 18.462%
-collected_at: 2026-04-17T10:32:20.421168+00:00
+acceptance_rate: "18.462%"
+collected_at: "2026-04-17T10:32:20.421168+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 정보섬의 대중교통
-special_judge: false
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "정보섬의 대중교통"
+special_judge: "false"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 7953
 accepted: 4778
 solved_users: 4557
-acceptance_rate: 61.324%
-collected_at: 2026-04-17T18:18:16.459458+00:00
+acceptance_rate: "61.324%"
+collected_at: "2026-04-17T18:18:16.459458+00:00"
 ---
 
 ## 문제

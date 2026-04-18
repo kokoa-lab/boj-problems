@@ -1,13 +1,13 @@
 ---
-title: 팀 연습 더
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "팀 연습 더"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 125
 accepted: 85
 solved_users: 65
-acceptance_rate: 67.708%
-collected_at: 2026-04-17T14:58:44.755582+00:00
+acceptance_rate: "67.708%"
+collected_at: "2026-04-17T14:58:44.755582+00:00"
 ---
 
 ## 문제

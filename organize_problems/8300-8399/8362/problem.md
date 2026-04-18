@@ -1,13 +1,13 @@
 ---
-title: Near
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Near"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 171
 accepted: 101
 solved_users: 69
-acceptance_rate: 52.672%
-collected_at: 2026-04-17T11:58:50.370779+00:00
+acceptance_rate: "52.672%"
+collected_at: "2026-04-17T11:58:50.370779+00:00"
 ---
 
 ## 문제

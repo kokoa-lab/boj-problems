@@ -1,13 +1,13 @@
 ---
-title: Closing the Loop (Small)
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Closing the Loop (Small)"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 91
 accepted: 79
 solved_users: 70
-acceptance_rate: 87.500%
-collected_at: 2026-04-17T12:57:01.559653+00:00
+acceptance_rate: "87.500%"
+collected_at: "2026-04-17T12:57:01.559653+00:00"
 ---
 
 ## 문제

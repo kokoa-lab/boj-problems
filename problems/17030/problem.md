@@ -1,13 +1,13 @@
 ---
-title: Cow Dating
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Cow Dating"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 227
 accepted: 92
 solved_users: 65
-acceptance_rate: 41.401%
-collected_at: 2026-04-17T14:27:59.466585+00:00
+acceptance_rate: "41.401%"
+collected_at: "2026-04-17T14:27:59.466585+00:00"
 ---
 
 ## 문제

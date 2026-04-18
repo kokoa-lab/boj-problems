@@ -1,13 +1,13 @@
 ---
-title: Geometric Progression
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Geometric Progression"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 156
 accepted: 39
 solved_users: 29
-acceptance_rate: 26.126%
-collected_at: 2026-04-17T19:26:31.093061+00:00
+acceptance_rate: "26.126%"
+collected_at: "2026-04-17T19:26:31.093061+00:00"
 ---
 
 ## 문제

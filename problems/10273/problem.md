@@ -1,13 +1,13 @@
 ---
-title: 고대 동굴 탐사
-special_judge: true
-time_limit: 1 초
-memory_limit: 256 MB
+title: "고대 동굴 탐사"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 1417
 accepted: 306
 solved_users: 206
-acceptance_rate: 22.103%
-collected_at: 2026-04-17T12:21:21.950148+00:00
+acceptance_rate: "22.103%"
+collected_at: "2026-04-17T12:21:21.950148+00:00"
 ---
 
 ## 문제

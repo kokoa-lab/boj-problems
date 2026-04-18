@@ -1,13 +1,13 @@
 ---
-title: 문자메시지
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "문자메시지"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 3320
 accepted: 1469
 solved_users: 1208
-acceptance_rate: 45.159%
-collected_at: 2026-04-17T10:37:28.930007+00:00
+acceptance_rate: "45.159%"
+collected_at: "2026-04-17T10:37:28.930007+00:00"
 ---
 
 ## 문제

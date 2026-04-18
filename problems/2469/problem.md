@@ -1,13 +1,13 @@
 ---
-title: 사다리 타기
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "사다리 타기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 4099
 accepted: 1680
 solved_users: 1340
-acceptance_rate: 40.954%
-collected_at: 2026-04-17T10:41:53.009605+00:00
+acceptance_rate: "40.954%"
+collected_at: "2026-04-17T10:41:53.009605+00:00"
 ---
 
 ## 문제

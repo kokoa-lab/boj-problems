@@ -1,13 +1,13 @@
 ---
-title: 사탕 항아리
-special_judge: true
-time_limit: 2 초
-memory_limit: 128 MB
+title: "사탕 항아리"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 326
 accepted: 50
 solved_users: 45
-acceptance_rate: 22.613%
-collected_at: 2026-04-17T10:34:20.097357+00:00
+acceptance_rate: "22.613%"
+collected_at: "2026-04-17T10:34:20.097357+00:00"
 ---
 
 ## 문제

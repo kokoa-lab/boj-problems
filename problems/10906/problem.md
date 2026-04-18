@@ -1,13 +1,13 @@
 ---
-title: N-orthotope
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "N-orthotope"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 142
 accepted: 85
 solved_users: 78
-acceptance_rate: 59.542%
-collected_at: 2026-04-17T12:31:25.703900+00:00
+acceptance_rate: "59.542%"
+collected_at: "2026-04-17T12:31:25.703900+00:00"
 ---
 
 ## 문제

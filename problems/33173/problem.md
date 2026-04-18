@@ -1,13 +1,13 @@
 ---
-title: マスキングテープ (Masking Tape)
-special_judge: false
-time_limit: 2 초
-memory_limit: 2048 MB
+title: "マスキングテープ (Masking Tape)"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "2048 MB"
 submissions: 172
 accepted: 125
 solved_users: 81
-acceptance_rate: 72.973%
-collected_at: 2026-04-17T20:10:46.403940+00:00
+acceptance_rate: "72.973%"
+collected_at: "2026-04-17T20:10:46.403940+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 균형잡힌 수열
-special_judge: false
-time_limit: 4 초
-memory_limit: 2048 MB
+title: "균형잡힌 수열"
+special_judge: "false"
+time_limit: "4 초"
+memory_limit: "2048 MB"
 submissions: 145
 accepted: 36
 solved_users: 34
-acceptance_rate: 27.642%
-collected_at: 2026-04-17T21:00:55.534586+00:00
+acceptance_rate: "27.642%"
+collected_at: "2026-04-17T21:00:55.534586+00:00"
 ---
 
 ## 문제

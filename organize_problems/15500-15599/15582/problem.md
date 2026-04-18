@@ -1,13 +1,13 @@
 ---
-title: Priglavci
-special_judge: true
-time_limit: 2 초
-memory_limit: 64 MB
+title: "Priglavci"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "64 MB"
 submissions: 25
 accepted: 14
 solved_users: 13
-acceptance_rate: 61.905%
-collected_at: 2026-04-17T14:02:00.612903+00:00
+acceptance_rate: "61.905%"
+collected_at: "2026-04-17T14:02:00.612903+00:00"
 ---
 
 ## 문제

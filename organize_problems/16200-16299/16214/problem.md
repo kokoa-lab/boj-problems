@@ -1,13 +1,13 @@
 ---
-title: N과 M
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "N과 M"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 1455
 accepted: 412
 solved_users: 288
-acceptance_rate: 30.094%
-collected_at: 2026-04-17T14:13:38.706451+00:00
+acceptance_rate: "30.094%"
+collected_at: "2026-04-17T14:13:38.706451+00:00"
 ---
 
 ## 문제

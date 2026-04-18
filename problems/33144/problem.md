@@ -1,13 +1,13 @@
 ---
-title: Jigsaw of Shadows
-special_judge: true
-time_limit: 0.5 초 (추가 시간 없음)
-memory_limit: 2048 MB
+title: "Jigsaw of Shadows"
+special_judge: "true"
+time_limit: "0.5 초 (추가 시간 없음)"
+memory_limit: "2048 MB"
 submissions: 43
 accepted: 34
 solved_users: 31
-acceptance_rate: 77.500%
-collected_at: 2026-04-17T20:10:11.508394+00:00
+acceptance_rate: "77.500%"
+collected_at: "2026-04-17T20:10:11.508394+00:00"
 ---
 
 ## 문제

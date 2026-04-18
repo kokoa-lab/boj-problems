@@ -1,13 +1,13 @@
 ---
-title: Dark Ride with Monsters
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Dark Ride with Monsters"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 116
 accepted: 79
 solved_users: 39
-acceptance_rate: 59.091%
-collected_at: 2026-04-17T13:47:37.532325+00:00
+acceptance_rate: "59.091%"
+collected_at: "2026-04-17T13:47:37.532325+00:00"
 ---
 
 ## 문제

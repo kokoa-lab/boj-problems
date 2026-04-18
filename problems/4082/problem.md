@@ -1,13 +1,13 @@
 ---
-title: Hexagram
-special_judge: false
-time_limit: 5 초
-memory_limit: 128 MB
+title: "Hexagram"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "128 MB"
 submissions: 28
 accepted: 13
 solved_users: 10
-acceptance_rate: 41.667%
-collected_at: 2026-04-17T10:55:38.910532+00:00
+acceptance_rate: "41.667%"
+collected_at: "2026-04-17T10:55:38.910532+00:00"
 ---
 
 ## 문제

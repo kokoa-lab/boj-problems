@@ -1,13 +1,13 @@
 ---
-title: Полигон
-special_judge: true
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Полигон"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 8
 accepted: 1
 solved_users: 1
-acceptance_rate: 16.667%
-collected_at: 2026-04-17T15:59:02.424250+00:00
+acceptance_rate: "16.667%"
+collected_at: "2026-04-17T15:59:02.424250+00:00"
 ---
 
 ## 문제

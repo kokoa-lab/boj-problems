@@ -1,13 +1,13 @@
 ---
-title: IkaNumber
-special_judge: false
-time_limit: 8 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "IkaNumber"
+special_judge: "false"
+time_limit: "8 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 26
 accepted: 11
 solved_users: 9
-acceptance_rate: 56.250%
-collected_at: 2026-04-17T16:27:06.538338+00:00
+acceptance_rate: "56.250%"
+collected_at: "2026-04-17T16:27:06.538338+00:00"
 ---
 
 ## 문제

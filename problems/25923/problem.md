@@ -1,13 +1,13 @@
 ---
-title: 동아리 박람회
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "동아리 박람회"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 82
 accepted: 43
 solved_users: 35
-acceptance_rate: 64.815%
-collected_at: 2026-04-17T17:36:54.594359+00:00
+acceptance_rate: "64.815%"
+collected_at: "2026-04-17T17:36:54.594359+00:00"
 ---
 
 ## 문제

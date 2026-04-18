@@ -1,13 +1,13 @@
 ---
-title: Roadblock
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Roadblock"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 237
 accepted: 144
 solved_users: 126
-acceptance_rate: 62.376%
-collected_at: 2026-04-17T12:17:31.622348+00:00
+acceptance_rate: "62.376%"
+collected_at: "2026-04-17T12:17:31.622348+00:00"
 ---
 
 ## 문제

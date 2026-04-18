@@ -1,13 +1,13 @@
 ---
-title: Up and Down (Small)
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Up and Down (Small)"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 131
 accepted: 58
 solved_users: 55
-acceptance_rate: 59.140%
-collected_at: 2026-04-17T12:52:16.536994+00:00
+acceptance_rate: "59.140%"
+collected_at: "2026-04-17T12:52:16.536994+00:00"
 ---
 
 ## 문제

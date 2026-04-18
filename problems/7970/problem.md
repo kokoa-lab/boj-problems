@@ -1,13 +1,13 @@
 ---
-title: Double-row
-special_judge: false
-time_limit: 3 초
-memory_limit: 512 MB
+title: "Double-row"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "512 MB"
 submissions: 24
 accepted: 13
 solved_users: 11
-acceptance_rate: 52.381%
-collected_at: 2026-04-17T11:54:46.623211+00:00
+acceptance_rate: "52.381%"
+collected_at: "2026-04-17T11:54:46.623211+00:00"
 ---
 
 ## 문제

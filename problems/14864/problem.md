@@ -1,13 +1,13 @@
 ---
-title: 줄서기
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "줄서기"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 3061
 accepted: 1547
 solved_users: 1129
-acceptance_rate: 51.086%
-collected_at: 2026-04-17T13:43:24.833516+00:00
+acceptance_rate: "51.086%"
+collected_at: "2026-04-17T13:43:24.833516+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 불순 분자 만들기
-special_judge: false
-time_limit: 2 초
-memory_limit: 1536 MB
+title: "불순 분자 만들기"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1536 MB"
 submissions: 126
 accepted: 24
 solved_users: 23
-acceptance_rate: 28.395%
-collected_at: 2026-04-17T16:05:35.419456+00:00
+acceptance_rate: "28.395%"
+collected_at: "2026-04-17T16:05:35.419456+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Let There Be Light
-special_judge: true
-time_limit: 5 초
-memory_limit: 128 MB
+title: "Let There Be Light"
+special_judge: "true"
+time_limit: "5 초"
+memory_limit: "128 MB"
 submissions: 80
 accepted: 23
 solved_users: 19
-acceptance_rate: 40.426%
-collected_at: 2026-04-17T10:52:18.305229+00:00
+acceptance_rate: "40.426%"
+collected_at: "2026-04-17T10:52:18.305229+00:00"
 ---
 
 ## 문제

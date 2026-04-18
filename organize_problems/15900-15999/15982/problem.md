@@ -1,13 +1,13 @@
 ---
-title: 국제 소 줄서기 사진 콘테스트
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "국제 소 줄서기 사진 콘테스트"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 238
 accepted: 69
 solved_users: 63
-acceptance_rate: 33.333%
-collected_at: 2026-04-17T14:09:29.298568+00:00
+acceptance_rate: "33.333%"
+collected_at: "2026-04-17T14:09:29.298568+00:00"
 ---
 
 ## 문제

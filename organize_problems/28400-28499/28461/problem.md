@@ -1,13 +1,13 @@
 ---
-title: WHY DON'T YOU JUST GET UP AND DANCE MAN?
-special_judge: false
-time_limit: 5 초
-memory_limit: 1024 MB
+title: "WHY DON'T YOU JUST GET UP AND DANCE MAN?"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "1024 MB"
 submissions: 192
 accepted: 11
 solved_users: 10
-acceptance_rate: 7.194%
-collected_at: 2026-04-17T18:27:15.914435+00:00
+acceptance_rate: "7.194%"
+collected_at: "2026-04-17T18:27:15.914435+00:00"
 ---
 
 ## 문제

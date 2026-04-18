@@ -1,13 +1,13 @@
 ---
-title: Paris by Night
-special_judge: false
-time_limit: 15 초
-memory_limit: 512 MB
+title: "Paris by Night"
+special_judge: "false"
+time_limit: "15 초"
+memory_limit: "512 MB"
 submissions: 88
 accepted: 41
 solved_users: 34
-acceptance_rate: 56.667%
-collected_at: 2026-04-17T14:41:53.040665+00:00
+acceptance_rate: "56.667%"
+collected_at: "2026-04-17T14:41:53.040665+00:00"
 ---
 
 ## 문제

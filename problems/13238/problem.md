@@ -1,13 +1,13 @@
 ---
-title: Bitcoin investment
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Bitcoin investment"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 339
 accepted: 275
 solved_users: 256
-acceptance_rate: 89.510%
-collected_at: 2026-04-17T13:09:55.437398+00:00
+acceptance_rate: "89.510%"
+collected_at: "2026-04-17T13:09:55.437398+00:00"
 ---
 
 ## 문제

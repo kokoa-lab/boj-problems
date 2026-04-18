@@ -1,13 +1,13 @@
 ---
-title: 단어 나누기
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "단어 나누기"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 19045
 accepted: 8460
 solved_users: 7328
-acceptance_rate: 47.342%
-collected_at: 2026-04-17T10:29:05.157669+00:00
+acceptance_rate: "47.342%"
+collected_at: "2026-04-17T10:29:05.157669+00:00"
 ---
 
 ## 문제

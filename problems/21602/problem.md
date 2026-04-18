@@ -1,13 +1,13 @@
 ---
-title: Array and Easy Queries
-special_judge: false
-time_limit: 7 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "Array and Easy Queries"
+special_judge: "false"
+time_limit: "7 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 490
 accepted: 15
 solved_users: 7
-acceptance_rate: 6.542%
-collected_at: 2026-04-17T16:01:04.317327+00:00
+acceptance_rate: "6.542%"
+collected_at: "2026-04-17T16:01:04.317327+00:00"
 ---
 
 ## 문제

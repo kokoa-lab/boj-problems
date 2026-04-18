@@ -1,13 +1,13 @@
 ---
-title: Expanding STACKS!
-special_judge: true
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Expanding STACKS!"
+special_judge: "true"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 80
 accepted: 39
 solved_users: 38
-acceptance_rate: 60.317%
-collected_at: 2026-04-17T19:35:57.504119+00:00
+acceptance_rate: "60.317%"
+collected_at: "2026-04-17T19:35:57.504119+00:00"
 ---
 
 ## 문제

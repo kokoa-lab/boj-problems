@@ -1,13 +1,13 @@
 ---
-title: 집기 게임
-special_judge: false
-time_limit: 10 초
-memory_limit: 256 MB
+title: "집기 게임"
+special_judge: "false"
+time_limit: "10 초"
+memory_limit: "256 MB"
 submissions: 1494
 accepted: 632
 solved_users: 359
-acceptance_rate: 37.513%
-collected_at: 2026-04-17T12:05:51.469551+00:00
+acceptance_rate: "37.513%"
+collected_at: "2026-04-17T12:05:51.469551+00:00"
 ---
 
 ## 문제

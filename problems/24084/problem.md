@@ -1,13 +1,13 @@
 ---
-title: 次の文字 (Next Character)
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "次の文字 (Next Character)"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 935
 accepted: 810
 solved_users: 762
-acceptance_rate: 87.889%
-collected_at: 2026-04-17T17:03:37.393561+00:00
+acceptance_rate: "87.889%"
+collected_at: "2026-04-17T17:03:37.393561+00:00"
 ---
 
 ## 문제

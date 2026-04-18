@@ -1,13 +1,13 @@
 ---
-title: 돌 게임 6
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "돌 게임 6"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 7123
 accepted: 3716
 solved_users: 3414
-acceptance_rate: 53.469%
-collected_at: 2026-04-17T12:12:34.290854+00:00
+acceptance_rate: "53.469%"
+collected_at: "2026-04-17T12:12:34.290854+00:00"
 ---
 
 ## 문제

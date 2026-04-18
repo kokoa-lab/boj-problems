@@ -1,13 +1,13 @@
 ---
-title: Protsessid
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Protsessid"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 13
 accepted: 2
 solved_users: 2
-acceptance_rate: 66.667%
-collected_at: 2026-04-17T11:47:13.584371+00:00
+acceptance_rate: "66.667%"
+collected_at: "2026-04-17T11:47:13.584371+00:00"
 ---
 
 ## 문제

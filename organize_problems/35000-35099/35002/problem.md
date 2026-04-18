@@ -1,13 +1,13 @@
 ---
-title: 검은칠된 격자에 보내는 최단경로
-special_judge: true
-time_limit: 4 초
-memory_limit: 1024 MB
+title: "검은칠된 격자에 보내는 최단경로"
+special_judge: "true"
+time_limit: "4 초"
+memory_limit: "1024 MB"
 submissions: 44
 accepted: 16
 solved_users: 16
-acceptance_rate: 59.259%
-collected_at: 2026-04-17T20:53:50.785235+00:00
+acceptance_rate: "59.259%"
+collected_at: "2026-04-17T20:53:50.785235+00:00"
 ---
 
 ## 문제

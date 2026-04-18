@@ -1,13 +1,13 @@
 ---
-title: 숫자 재배치
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "숫자 재배치"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 6133
 accepted: 2969
 solved_users: 2226
-acceptance_rate: 46.097%
-collected_at: 2026-04-17T14:26:35.887530+00:00
+acceptance_rate: "46.097%"
+collected_at: "2026-04-17T14:26:35.887530+00:00"
 ---
 
 ## 문제

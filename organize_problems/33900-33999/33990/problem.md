@@ -1,13 +1,13 @@
 ---
-title: 3대 512
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "3대 512"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 1029
 accepted: 761
 solved_users: 715
-acceptance_rate: 75.742%
-collected_at: 2026-04-17T20:28:01.132575+00:00
+acceptance_rate: "75.742%"
+collected_at: "2026-04-17T20:28:01.132575+00:00"
 ---
 
 ## 문제

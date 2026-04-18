@@ -1,13 +1,13 @@
 ---
-title: 워드똑똑
-special_judge: false
-time_limit: 3 초
-memory_limit: 128 MB
+title: "워드똑똑"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "128 MB"
 submissions: 118
 accepted: 56
 solved_users: 49
-acceptance_rate: 51.579%
-collected_at: 2026-04-17T10:29:04.240506+00:00
+acceptance_rate: "51.579%"
+collected_at: "2026-04-17T10:29:04.240506+00:00"
 ---
 
 ## 문제

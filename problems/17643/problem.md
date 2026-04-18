@@ -1,13 +1,13 @@
 ---
-title: Amusement Park
-special_judge: false
-time_limit: 3 초
-memory_limit: 512 MB
+title: "Amusement Park"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "512 MB"
 submissions: 139
 accepted: 64
 solved_users: 33
-acceptance_rate: 40.741%
-collected_at: 2026-04-17T14:43:33.181027+00:00
+acceptance_rate: "40.741%"
+collected_at: "2026-04-17T14:43:33.181027+00:00"
 ---
 
 ## 문제

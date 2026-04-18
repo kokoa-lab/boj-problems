@@ -1,13 +1,13 @@
 ---
-title: 초성 중성 종성 2
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "초성 중성 종성 2"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 569
 accepted: 305
 solved_users: 260
-acceptance_rate: 54.852%
-collected_at: 2026-04-17T12:39:10.513446+00:00
+acceptance_rate: "54.852%"
+collected_at: "2026-04-17T12:39:10.513446+00:00"
 ---
 
 ## 문제

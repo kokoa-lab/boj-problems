@@ -1,13 +1,13 @@
 ---
-title: 문자열 조작의 달인 2
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "문자열 조작의 달인 2"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 126
 accepted: 58
 solved_users: 41
-acceptance_rate: 40.196%
-collected_at: 2026-04-17T20:59:58.691296+00:00
+acceptance_rate: "40.196%"
+collected_at: "2026-04-17T20:59:58.691296+00:00"
 ---
 
 ## 문제

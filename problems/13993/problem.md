@@ -1,13 +1,13 @@
 ---
-title: Expect to Wait
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Expect to Wait"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 95
 accepted: 39
 solved_users: 37
-acceptance_rate: 57.812%
-collected_at: 2026-04-17T13:23:50.758680+00:00
+acceptance_rate: "57.812%"
+collected_at: "2026-04-17T13:23:50.758680+00:00"
 ---
 
 ## 문제

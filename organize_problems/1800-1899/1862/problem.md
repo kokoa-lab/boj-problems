@@ -1,13 +1,13 @@
 ---
-title: 미터계
-special_judge: false
-time_limit: 0.5 초
-memory_limit: 128 MB
+title: "미터계"
+special_judge: "false"
+time_limit: "0.5 초"
+memory_limit: "128 MB"
 submissions: 987
 accepted: 492
 solved_users: 440
-acceptance_rate: 60.109%
-collected_at: 2026-04-17T10:35:00.077749+00:00
+acceptance_rate: "60.109%"
+collected_at: "2026-04-17T10:35:00.077749+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Happy Number
-special_judge: false
-time_limit: 0.2 초
-memory_limit: 512 MB
+title: "Happy Number"
+special_judge: "false"
+time_limit: "0.2 초"
+memory_limit: "512 MB"
 submissions: 2952
 accepted: 1629
 solved_users: 1385
-acceptance_rate: 57.493%
-collected_at: 2026-04-17T13:46:36.580129+00:00
+acceptance_rate: "57.493%"
+collected_at: "2026-04-17T13:46:36.580129+00:00"
 ---
 
 ## 문제

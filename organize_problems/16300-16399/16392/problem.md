@@ -1,13 +1,13 @@
 ---
-title: Racing Around the Alphabet
-special_judge: true
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Racing Around the Alphabet"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 59
 accepted: 53
 solved_users: 46
-acceptance_rate: 95.833%
-collected_at: 2026-04-17T14:17:07.482058+00:00
+acceptance_rate: "95.833%"
+collected_at: "2026-04-17T14:17:07.482058+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Water Journal
-special_judge: false
-time_limit: 1 초
-memory_limit: 2048 MB
+title: "Water Journal"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "2048 MB"
 submissions: 424
 accepted: 227
 solved_users: 211
-acceptance_rate: 53.418%
-collected_at: 2026-04-17T19:25:46.749788+00:00
+acceptance_rate: "53.418%"
+collected_at: "2026-04-17T19:25:46.749788+00:00"
 ---
 
 ## 문제

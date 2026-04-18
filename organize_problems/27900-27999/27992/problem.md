@@ -1,13 +1,13 @@
 ---
-title: Two Currencies
-special_judge: false
-time_limit: 4 초
-memory_limit: 1024 MB
+title: "Two Currencies"
+special_judge: "false"
+time_limit: "4 초"
+memory_limit: "1024 MB"
 submissions: 145
 accepted: 56
 solved_users: 51
-acceptance_rate: 38.346%
-collected_at: 2026-04-17T18:16:20.144899+00:00
+acceptance_rate: "38.346%"
+collected_at: "2026-04-17T18:16:20.144899+00:00"
 ---
 
 ## 문제

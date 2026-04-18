@@ -1,13 +1,13 @@
 ---
-title: 행사 준비
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "행사 준비"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 973
 accepted: 466
 solved_users: 402
-acceptance_rate: 51.407%
-collected_at: 2026-04-17T18:57:34.398098+00:00
+acceptance_rate: "51.407%"
+collected_at: "2026-04-17T18:57:34.398098+00:00"
 ---
 
 ## 문제

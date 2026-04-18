@@ -1,13 +1,13 @@
 ---
-title: 수상한 어릿광대
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "수상한 어릿광대"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 1075
 accepted: 324
 solved_users: 292
-acceptance_rate: 29.949%
-collected_at: 2026-04-17T20:18:56.120424+00:00
+acceptance_rate: "29.949%"
+collected_at: "2026-04-17T20:18:56.120424+00:00"
 ---
 
 ## 문제

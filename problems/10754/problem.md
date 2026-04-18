@@ -1,13 +1,13 @@
 ---
-title: KOVANICE
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "KOVANICE"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 54
 accepted: 25
 solved_users: 23
-acceptance_rate: 48.936%
-collected_at: 2026-04-17T12:29:01.559538+00:00
+acceptance_rate: "48.936%"
+collected_at: "2026-04-17T12:29:01.559538+00:00"
 ---
 
 ## 문제

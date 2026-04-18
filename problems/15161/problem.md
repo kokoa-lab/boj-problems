@@ -1,13 +1,13 @@
 ---
-title: Grass Cutting
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Grass Cutting"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 158
 accepted: 136
 solved_users: 122
-acceptance_rate: 85.315%
-collected_at: 2026-04-17T13:53:04.272569+00:00
+acceptance_rate: "85.315%"
+collected_at: "2026-04-17T13:53:04.272569+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 트리와 소수
-special_judge: true
-time_limit: 3 초
-memory_limit: 512 MB
+title: "트리와 소수"
+special_judge: "true"
+time_limit: "3 초"
+memory_limit: "512 MB"
 submissions: 678
 accepted: 182
 solved_users: 127
-acceptance_rate: 25.657%
-collected_at: 2026-04-17T13:27:21.657957+00:00
+acceptance_rate: "25.657%"
+collected_at: "2026-04-17T13:27:21.657957+00:00"
 ---
 
 ## 문제

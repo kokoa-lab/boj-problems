@@ -1,13 +1,13 @@
 ---
-title: 블록 놀이
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "블록 놀이"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 1783
 accepted: 563
 solved_users: 444
-acceptance_rate: 32.127%
-collected_at: 2026-04-17T14:26:39.246158+00:00
+acceptance_rate: "32.127%"
+collected_at: "2026-04-17T14:26:39.246158+00:00"
 ---
 
 ## 문제

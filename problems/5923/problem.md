@@ -1,13 +1,13 @@
 ---
-title: 바이너리 스도쿠
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "바이너리 스도쿠"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 251
 accepted: 92
 solved_users: 73
-acceptance_rate: 42.442%
-collected_at: 2026-04-17T11:18:34.082118+00:00
+acceptance_rate: "42.442%"
+collected_at: "2026-04-17T11:18:34.082118+00:00"
 ---
 
 ## 문제

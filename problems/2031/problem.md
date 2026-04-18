@@ -1,13 +1,13 @@
 ---
-title: 이 쿠키 달지 않아!
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "이 쿠키 달지 않아!"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 595
 accepted: 161
 solved_users: 114
-acceptance_rate: 28.288%
-collected_at: 2026-04-17T10:37:25.973269+00:00
+acceptance_rate: "28.288%"
+collected_at: "2026-04-17T10:37:25.973269+00:00"
 ---
 
 ## 문제

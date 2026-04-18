@@ -1,13 +1,13 @@
 ---
-title: Interactive Array Guessing
-special_judge: false
-time_limit: 3 초
-memory_limit: 512 MB
+title: "Interactive Array Guessing"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "512 MB"
 submissions: 121
 accepted: 45
 solved_users: 35
-acceptance_rate: 35.000%
-collected_at: 2026-04-17T14:21:49.698207+00:00
+acceptance_rate: "35.000%"
+collected_at: "2026-04-17T14:21:49.698207+00:00"
 ---
 
 ## 문제

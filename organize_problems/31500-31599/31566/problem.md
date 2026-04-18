@@ -1,13 +1,13 @@
 ---
-title: 힘세고 강한 아침
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "힘세고 강한 아침"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 465
 accepted: 145
 solved_users: 115
-acceptance_rate: 32.578%
-collected_at: 2026-04-17T19:30:56.364930+00:00
+acceptance_rate: "32.578%"
+collected_at: "2026-04-17T19:30:56.364930+00:00"
 ---
 
 ## 문제

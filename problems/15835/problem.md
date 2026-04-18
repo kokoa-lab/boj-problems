@@ -1,13 +1,13 @@
 ---
-title: Explorace
-special_judge: false
-time_limit: 3 초
-memory_limit: 512 MB
+title: "Explorace"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "512 MB"
 submissions: 202
 accepted: 166
 solved_users: 155
-acceptance_rate: 84.699%
-collected_at: 2026-04-17T14:07:23.033419+00:00
+acceptance_rate: "84.699%"
+collected_at: "2026-04-17T14:07:23.033419+00:00"
 ---
 
 ## 문제

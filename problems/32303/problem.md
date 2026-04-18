@@ -1,13 +1,13 @@
 ---
-title: 직각삼각형을 만들어요
-special_judge: true
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "직각삼각형을 만들어요"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 36
 accepted: 6
 solved_users: 6
-acceptance_rate: 42.857%
-collected_at: 2026-04-17T19:48:20.354154+00:00
+acceptance_rate: "42.857%"
+collected_at: "2026-04-17T19:48:20.354154+00:00"
 ---
 
 ## 문제

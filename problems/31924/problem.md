@@ -1,13 +1,13 @@
 ---
-title: 현대모비스 특별상의 주인공은? 2
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "현대모비스 특별상의 주인공은? 2"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 784
 accepted: 499
 solved_users: 445
-acceptance_rate: 65.538%
-collected_at: 2026-04-17T19:39:09.728585+00:00
+acceptance_rate: "65.538%"
+collected_at: "2026-04-17T19:39:09.728585+00:00"
 ---
 
 ## 문제

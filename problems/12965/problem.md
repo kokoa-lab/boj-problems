@@ -1,13 +1,13 @@
 ---
-title: 빨간 선분 파란 선분
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "빨간 선분 파란 선분"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 22
 accepted: 16
 solved_users: 16
-acceptance_rate: 80.000%
-collected_at: 2026-04-17T13:04:51.619418+00:00
+acceptance_rate: "80.000%"
+collected_at: "2026-04-17T13:04:51.619418+00:00"
 ---
 
 ## 문제

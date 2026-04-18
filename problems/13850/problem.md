@@ -1,13 +1,13 @@
 ---
-title: University Rankings
-special_judge: false
-time_limit: 8 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "University Rankings"
+special_judge: "false"
+time_limit: "8 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 18
 accepted: 11
 solved_users: 10
-acceptance_rate: 71.429%
-collected_at: 2026-04-17T13:20:46.239914+00:00
+acceptance_rate: "71.429%"
+collected_at: "2026-04-17T13:20:46.239914+00:00"
 ---
 
 ## 문제

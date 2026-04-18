@@ -1,13 +1,13 @@
 ---
-title: N 찍기
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "N 찍기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 312962
 accepted: 177803
 solved_users: 152032
-acceptance_rate: 57.891%
-collected_at: 2026-04-17T10:44:26.205381+00:00
+acceptance_rate: "57.891%"
+collected_at: "2026-04-17T10:44:26.205381+00:00"
 ---
 
 ## 문제

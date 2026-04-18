@@ -1,13 +1,13 @@
 ---
-title: 최대 GCD
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "최대 GCD"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 2778
 accepted: 1875
 solved_users: 1620
-acceptance_rate: 71.021%
-collected_at: 2026-04-17T12:09:39.327632+00:00
+acceptance_rate: "71.021%"
+collected_at: "2026-04-17T12:09:39.327632+00:00"
 ---
 
 ## 문제

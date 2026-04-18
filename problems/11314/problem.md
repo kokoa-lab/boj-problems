@@ -1,13 +1,13 @@
 ---
-title: Do Not Hex My Numbers!
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "Do Not Hex My Numbers!"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 114
 accepted: 11
 solved_users: 8
-acceptance_rate: 8.000%
-collected_at: 2026-04-17T12:39:33.805821+00:00
+acceptance_rate: "8.000%"
+collected_at: "2026-04-17T12:39:33.805821+00:00"
 ---
 
 ## 문제

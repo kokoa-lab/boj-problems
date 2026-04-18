@@ -1,13 +1,13 @@
 ---
-title: Juggling Keys
-special_judge: true
-time_limit: 5 초
-memory_limit: 2048 MB
+title: "Juggling Keys"
+special_judge: "true"
+time_limit: "5 초"
+memory_limit: "2048 MB"
 submissions: 18
 accepted: 16
 solved_users: 16
-acceptance_rate: 88.889%
-collected_at: 2026-04-17T20:55:14.213157+00:00
+acceptance_rate: "88.889%"
+collected_at: "2026-04-17T20:55:14.213157+00:00"
 ---
 
 ## 문제

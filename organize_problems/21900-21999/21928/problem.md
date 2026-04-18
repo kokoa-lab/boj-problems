@@ -1,13 +1,13 @@
 ---
-title: Short Coding
-special_judge: true
-time_limit: 10 초
-memory_limit: 512 MB
+title: "Short Coding"
+special_judge: "true"
+time_limit: "10 초"
+memory_limit: "512 MB"
 submissions: 63
 accepted: 39
 solved_users: 35
-acceptance_rate: 59.322%
-collected_at: 2026-04-17T16:10:09.150647+00:00
+acceptance_rate: "59.322%"
+collected_at: "2026-04-17T16:10:09.150647+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 축사 건설
-special_judge: false
-time_limit: 1.5 초
-memory_limit: 512 MB
+title: "축사 건설"
+special_judge: "false"
+time_limit: "1.5 초"
+memory_limit: "512 MB"
 submissions: 152
 accepted: 55
 solved_users: 40
-acceptance_rate: 37.736%
-collected_at: 2026-04-17T17:32:26.730362+00:00
+acceptance_rate: "37.736%"
+collected_at: "2026-04-17T17:32:26.730362+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 장군
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "장군"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 2234
 accepted: 1216
 solved_users: 1024
-acceptance_rate: 54.906%
-collected_at: 2026-04-17T14:19:19.002369+00:00
+acceptance_rate: "54.906%"
+collected_at: "2026-04-17T14:19:19.002369+00:00"
 ---
 
 ## 문제

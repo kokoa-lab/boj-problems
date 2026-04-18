@@ -1,13 +1,13 @@
 ---
-title: 중량제한
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "중량제한"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 46535
 accepted: 13676
 solved_users: 8471
-acceptance_rate: 27.248%
-collected_at: 2026-04-17T10:36:06.283954+00:00
+acceptance_rate: "27.248%"
+collected_at: "2026-04-17T10:36:06.283954+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Kamenčići
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Kamenčići"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 79
 accepted: 44
 solved_users: 39
-acceptance_rate: 54.930%
-collected_at: 2026-04-17T16:47:38.277829+00:00
+acceptance_rate: "54.930%"
+collected_at: "2026-04-17T16:47:38.277829+00:00"
 ---
 
 ## 문제

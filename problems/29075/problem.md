@@ -1,13 +1,13 @@
 ---
-title: Пароль от сейфа
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Пароль от сейфа"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 58
 accepted: 15
 solved_users: 15
-acceptance_rate: 26.786%
-collected_at: 2026-04-17T18:36:56.543711+00:00
+acceptance_rate: "26.786%"
+collected_at: "2026-04-17T18:36:56.543711+00:00"
 ---
 
 ## 문제

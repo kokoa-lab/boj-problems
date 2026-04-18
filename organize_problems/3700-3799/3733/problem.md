@@ -1,13 +1,13 @@
 ---
-title: Shares
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Shares"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 12651
 accepted: 6874
 solved_users: 6483
-acceptance_rate: 55.787%
-collected_at: 2026-04-17T10:51:28.313647+00:00
+acceptance_rate: "55.787%"
+collected_at: "2026-04-17T10:51:28.313647+00:00"
 ---
 
 ## 문제

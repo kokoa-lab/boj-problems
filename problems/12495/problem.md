@@ -1,13 +1,13 @@
 ---
-title: Perfect Harmony (Small)
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Perfect Harmony (Small)"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 220
 accepted: 124
 solved_users: 114
-acceptance_rate: 62.637%
-collected_at: 2026-04-17T12:56:21.610239+00:00
+acceptance_rate: "62.637%"
+collected_at: "2026-04-17T12:56:21.610239+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: SSHS Demon Hunters
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "SSHS Demon Hunters"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 51
 accepted: 25
 solved_users: 23
-acceptance_rate: 54.762%
-collected_at: 2026-04-17T20:52:41.471224+00:00
+acceptance_rate: "54.762%"
+collected_at: "2026-04-17T20:52:41.471224+00:00"
 ---
 
 ## 문제

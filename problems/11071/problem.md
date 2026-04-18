@@ -1,13 +1,13 @@
 ---
-title: Shelob’s Lair
-special_judge: false
-time_limit: 5 초
-memory_limit: 256 MB
+title: "Shelob’s Lair"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "256 MB"
 submissions: 56
 accepted: 9
 solved_users: 6
-acceptance_rate: 16.216%
-collected_at: 2026-04-17T12:35:59.455368+00:00
+acceptance_rate: "16.216%"
+collected_at: "2026-04-17T12:35:59.455368+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Fibo
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Fibo"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 811
 accepted: 503
 solved_users: 464
-acceptance_rate: 64.266%
-collected_at: 2026-04-17T12:38:28.083125+00:00
+acceptance_rate: "64.266%"
+collected_at: "2026-04-17T12:38:28.083125+00:00"
 ---
 
 ## 문제

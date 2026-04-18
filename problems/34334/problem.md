@@ -1,13 +1,13 @@
 ---
-title: 화단 꾸미기
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "화단 꾸미기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 53
 accepted: 38
 solved_users: 28
-acceptance_rate: 70.000%
-collected_at: 2026-04-17T20:35:46.608196+00:00
+acceptance_rate: "70.000%"
+collected_at: "2026-04-17T20:35:46.608196+00:00"
 ---
 
 ## 문제

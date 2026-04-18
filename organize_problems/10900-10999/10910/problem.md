@@ -1,13 +1,13 @@
 ---
-title: Random signals
-special_judge: true
-time_limit: 12 초
-memory_limit: 256 MB
+title: "Random signals"
+special_judge: "true"
+time_limit: "12 초"
+memory_limit: "256 MB"
 submissions: 14
 accepted: 6
 solved_users: 3
-acceptance_rate: 75.000%
-collected_at: 2026-04-17T12:31:30.201954+00:00
+acceptance_rate: "75.000%"
+collected_at: "2026-04-17T12:31:30.201954+00:00"
 ---
 
 ## 문제

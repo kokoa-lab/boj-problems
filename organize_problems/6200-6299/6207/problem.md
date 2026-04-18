@@ -1,13 +1,13 @@
 ---
-title: Cow Picnic
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Cow Picnic"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 302
 accepted: 186
 solved_users: 170
-acceptance_rate: 65.891%
-collected_at: 2026-04-17T11:22:56.755406+00:00
+acceptance_rate: "65.891%"
+collected_at: "2026-04-17T11:22:56.755406+00:00"
 ---
 
 ## 문제

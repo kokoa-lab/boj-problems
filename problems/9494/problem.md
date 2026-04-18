@@ -1,13 +1,13 @@
 ---
-title: Text Roll
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Text Roll"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 4279
 accepted: 1475
 solved_users: 1198
-acceptance_rate: 35.602%
-collected_at: 2026-04-17T12:10:33.551086+00:00
+acceptance_rate: "35.602%"
+collected_at: "2026-04-17T12:10:33.551086+00:00"
 ---
 
 ## 문제

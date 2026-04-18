@@ -1,13 +1,13 @@
 ---
-title: 最長昇順連続部分列 (Longest Ascending Contiguous Subsequence)
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "最長昇順連続部分列 (Longest Ascending Contiguous Subsequence)"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 338
 accepted: 219
 solved_users: 199
-acceptance_rate: 65.461%
-collected_at: 2026-04-17T15:03:46.940807+00:00
+acceptance_rate: "65.461%"
+collected_at: "2026-04-17T15:03:46.940807+00:00"
 ---
 
 ## 문제

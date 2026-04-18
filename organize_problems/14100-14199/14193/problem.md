@@ -1,13 +1,13 @@
 ---
-title: Skeletons
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Skeletons"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 171
 accepted: 42
 solved_users: 20
-acceptance_rate: 23.810%
-collected_at: 2026-04-17T13:27:35.202948+00:00
+acceptance_rate: "23.810%"
+collected_at: "2026-04-17T13:27:35.202948+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Trous de loup
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Trous de loup"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 120
 accepted: 44
 solved_users: 36
-acceptance_rate: 33.962%
-collected_at: 2026-04-17T15:01:02.572665+00:00
+acceptance_rate: "33.962%"
+collected_at: "2026-04-17T15:01:02.572665+00:00"
 ---
 
 ## 문제

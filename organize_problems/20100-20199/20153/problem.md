@@ -1,13 +1,13 @@
 ---
-title: 영웅이는 2의 거듭 제곱을 좋아해! 영웅이는 2의 거듭 제곱을 좋아해!
-special_judge: false
-time_limit: 2.2 초
-memory_limit: 222 MB
+title: "영웅이는 2의 거듭 제곱을 좋아해! 영웅이는 2의 거듭 제곱을 좋아해!"
+special_judge: "false"
+time_limit: "2.2 초"
+memory_limit: "222 MB"
 submissions: 664
 accepted: 344
 solved_users: 259
-acceptance_rate: 53.183%
-collected_at: 2026-04-17T15:32:18.493827+00:00
+acceptance_rate: "53.183%"
+collected_at: "2026-04-17T15:32:18.493827+00:00"
 ---
 
 ## 문제

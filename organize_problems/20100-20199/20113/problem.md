@@ -1,13 +1,13 @@
 ---
-title: 긴급 회의
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "긴급 회의"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 2191
 accepted: 1043
 solved_users: 945
-acceptance_rate: 48.412%
-collected_at: 2026-04-17T15:31:50.943814+00:00
+acceptance_rate: "48.412%"
+collected_at: "2026-04-17T15:31:50.943814+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Banjo
-special_judge: false
-time_limit: 3 초
-memory_limit: 256 MB
+title: "Banjo"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "256 MB"
 submissions: 47
 accepted: 6
 solved_users: 5
-acceptance_rate: 33.333%
-collected_at: 2026-04-17T12:20:54.283424+00:00
+acceptance_rate: "33.333%"
+collected_at: "2026-04-17T12:20:54.283424+00:00"
 ---
 
 ## 문제

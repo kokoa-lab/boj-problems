@@ -1,13 +1,13 @@
 ---
-title: 폰 노이만
-special_judge: true
-time_limit: 1 초
-memory_limit: 128 MB
+title: "폰 노이만"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 2677
 accepted: 2147
 solved_users: 1823
-acceptance_rate: 82.377%
-collected_at: 2026-04-17T12:10:13.374172+00:00
+acceptance_rate: "82.377%"
+collected_at: "2026-04-17T12:10:13.374172+00:00"
 ---
 
 ## 문제

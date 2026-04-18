@@ -1,13 +1,13 @@
 ---
-title: 소수의 주기
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "소수의 주기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 117
 accepted: 66
 solved_users: 32
-acceptance_rate: 47.059%
-collected_at: 2026-04-17T11:50:30.686539+00:00
+acceptance_rate: "47.059%"
+collected_at: "2026-04-17T11:50:30.686539+00:00"
 ---
 
 ## 문제

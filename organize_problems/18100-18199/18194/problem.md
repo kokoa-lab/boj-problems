@@ -1,13 +1,13 @@
 ---
-title: Bad Hair Day와 기댓값
-special_judge: false
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "Bad Hair Day와 기댓값"
+special_judge: "false"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 107
 accepted: 82
 solved_users: 65
-acceptance_rate: 84.416%
-collected_at: 2026-04-17T14:57:06.679915+00:00
+acceptance_rate: "84.416%"
+collected_at: "2026-04-17T14:57:06.679915+00:00"
 ---
 
 ## 문제

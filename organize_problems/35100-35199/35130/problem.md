@@ -1,13 +1,13 @@
 ---
-title: Common Tangent Lines
-special_judge: true
-time_limit: 2 초
-memory_limit: 2048 MB
+title: "Common Tangent Lines"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "2048 MB"
 submissions: 16
 accepted: 4
 solved_users: 4
-acceptance_rate: 44.444%
-collected_at: 2026-04-17T20:56:24.854624+00:00
+acceptance_rate: "44.444%"
+collected_at: "2026-04-17T20:56:24.854624+00:00"
 ---
 
 ## 문제

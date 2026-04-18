@@ -1,13 +1,13 @@
 ---
-title: NIZOVI
-special_judge: false
-time_limit: 1 초
-memory_limit: 64 MB
+title: "NIZOVI"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "64 MB"
 submissions: 530
 accepted: 252
 solved_users: 217
-acceptance_rate: 51.914%
-collected_at: 2026-04-17T12:48:08.234503+00:00
+acceptance_rate: "51.914%"
+collected_at: "2026-04-17T12:48:08.234503+00:00"
 ---
 
 ## 문제

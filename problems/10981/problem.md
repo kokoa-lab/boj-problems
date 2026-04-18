@@ -1,13 +1,13 @@
 ---
-title: HEADING TO WORLD FINALS
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "HEADING TO WORLD FINALS"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 966
 accepted: 441
 solved_users: 333
-acceptance_rate: 47.301%
-collected_at: 2026-04-17T12:34:17.099607+00:00
+acceptance_rate: "47.301%"
+collected_at: "2026-04-17T12:34:17.099607+00:00"
 ---
 
 ## 문제

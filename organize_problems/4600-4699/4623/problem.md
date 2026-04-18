@@ -1,13 +1,13 @@
 ---
-title: Copier Reduction
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Copier Reduction"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 533
 accepted: 380
 solved_users: 342
-acceptance_rate: 73.866%
-collected_at: 2026-04-17T11:05:55.397976+00:00
+acceptance_rate: "73.866%"
+collected_at: "2026-04-17T11:05:55.397976+00:00"
 ---
 
 ## 문제

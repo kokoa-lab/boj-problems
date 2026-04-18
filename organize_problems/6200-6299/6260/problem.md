@@ -1,13 +1,13 @@
 ---
-title: Encrypted SMS
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Encrypted SMS"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 119
 accepted: 98
 solved_users: 87
-acceptance_rate: 82.857%
-collected_at: 2026-04-18T09:48:39.023868+00:00
+acceptance_rate: "82.857%"
+collected_at: "2026-04-18T09:48:39.023868+00:00"
 ---
 
 ## 문제

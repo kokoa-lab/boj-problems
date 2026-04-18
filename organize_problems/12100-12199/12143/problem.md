@@ -1,13 +1,13 @@
 ---
-title: 영어와 프랑스어 (Small)
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "영어와 프랑스어 (Small)"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 236
 accepted: 61
 solved_users: 55
-acceptance_rate: 41.353%
-collected_at: 2026-04-17T12:50:54.675194+00:00
+acceptance_rate: "41.353%"
+collected_at: "2026-04-17T12:50:54.675194+00:00"
 ---
 
 ## 문제

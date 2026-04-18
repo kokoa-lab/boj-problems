@@ -1,13 +1,13 @@
 ---
-title: AP 위의 수업은?
-special_judge: false
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "AP 위의 수업은?"
+special_judge: "false"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 30
 accepted: 5
 solved_users: 5
-acceptance_rate: 41.667%
-collected_at: 2026-04-17T20:32:28.375879+00:00
+acceptance_rate: "41.667%"
+collected_at: "2026-04-17T20:32:28.375879+00:00"
 ---
 
 ## 문제

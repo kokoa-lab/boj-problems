@@ -1,13 +1,13 @@
 ---
-title: 회의실 배정 4
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "회의실 배정 4"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 1408
 accepted: 614
 solved_users: 401
-acceptance_rate: 43.634%
-collected_at: 2026-04-17T15:25:21.331967+00:00
+acceptance_rate: "43.634%"
+collected_at: "2026-04-17T15:25:21.331967+00:00"
 ---
 
 ## 문제

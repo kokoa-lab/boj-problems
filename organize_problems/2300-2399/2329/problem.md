@@ -1,13 +1,13 @@
 ---
-title: 장애물 설계
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "장애물 설계"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 68
 accepted: 30
 solved_users: 24
-acceptance_rate: 47.059%
-collected_at: 2026-04-17T10:40:44.045369+00:00
+acceptance_rate: "47.059%"
+collected_at: "2026-04-17T10:40:44.045369+00:00"
 ---
 
 ## 문제

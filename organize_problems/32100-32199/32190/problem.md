@@ -1,13 +1,13 @@
 ---
-title: Ian Sequences
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Ian Sequences"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 236
 accepted: 153
 solved_users: 123
-acceptance_rate: 71.098%
-collected_at: 2026-04-17T19:45:11.658663+00:00
+acceptance_rate: "71.098%"
+collected_at: "2026-04-17T19:45:11.658663+00:00"
 ---
 
 ## 문제

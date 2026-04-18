@@ -1,13 +1,13 @@
 ---
-title: Structure of Balanced Networks
-special_judge: false
-time_limit: 5 초
-memory_limit: 16 MB ( 하단 참고 )
+title: "Structure of Balanced Networks"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "16 MB ( 하단 참고 )"
 submissions: 284
 accepted: 147
 solved_users: 111
-acceptance_rate: 49.776%
-collected_at: 2026-04-17T14:23:01.064323+00:00
+acceptance_rate: "49.776%"
+collected_at: "2026-04-17T14:23:01.064323+00:00"
 ---
 
 ## 문제

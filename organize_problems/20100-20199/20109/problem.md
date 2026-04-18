@@ -1,13 +1,13 @@
 ---
-title: Pebbling odometer 3
-special_judge: true
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Pebbling odometer 3"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 72
 accepted: 30
 solved_users: 27
-acceptance_rate: 39.130%
-collected_at: 2026-04-17T15:31:46.237620+00:00
+acceptance_rate: "39.130%"
+collected_at: "2026-04-17T15:31:46.237620+00:00"
 ---
 
 ## 문제

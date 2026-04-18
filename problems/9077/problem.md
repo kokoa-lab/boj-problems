@@ -1,13 +1,13 @@
 ---
-title: 지뢰제거
-special_judge: false
-time_limit: 10 초
-memory_limit: 512 MB
+title: "지뢰제거"
+special_judge: "false"
+time_limit: "10 초"
+memory_limit: "512 MB"
 submissions: 1306
 accepted: 403
 solved_users: 266
-acceptance_rate: 35.325%
-collected_at: 2026-04-17T12:06:51.354534+00:00
+acceptance_rate: "35.325%"
+collected_at: "2026-04-17T12:06:51.354534+00:00"
 ---
 
 ## 문제

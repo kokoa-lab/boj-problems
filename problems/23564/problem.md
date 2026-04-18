@@ -1,13 +1,13 @@
 ---
-title: 재귀 문자열
-special_judge: true
-time_limit: 1 초
-memory_limit: 256 MB
+title: "재귀 문자열"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 358
 accepted: 121
 solved_users: 95
-acceptance_rate: 43.981%
-collected_at: 2026-04-17T16:50:06.363857+00:00
+acceptance_rate: "43.981%"
+collected_at: "2026-04-17T16:50:06.363857+00:00"
 ---
 
 ## 문제

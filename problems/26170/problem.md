@@ -1,13 +1,13 @@
 ---
-title: 사과 빨리 먹기
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "사과 빨리 먹기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 821
 accepted: 473
 solved_users: 391
-acceptance_rate: 59.786%
-collected_at: 2026-04-17T17:41:19.254302+00:00
+acceptance_rate: "59.786%"
+collected_at: "2026-04-17T17:41:19.254302+00:00"
 ---
 
 ## 문제

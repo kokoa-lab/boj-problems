@@ -1,13 +1,13 @@
 ---
-title: 태상이의 훈련소 생활
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "태상이의 훈련소 생활"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 3718
 accepted: 2273
 solved_users: 1801
-acceptance_rate: 61.636%
-collected_at: 2026-04-17T15:29:46.583809+00:00
+acceptance_rate: "61.636%"
+collected_at: "2026-04-17T15:29:46.583809+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 콩도르세 역설
-special_judge: false
-time_limit: 5 초
-memory_limit: 128 MB
+title: "콩도르세 역설"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "128 MB"
 submissions: 299
 accepted: 63
 solved_users: 50
-acceptance_rate: 23.585%
-collected_at: 2026-04-17T10:54:46.767976+00:00
+acceptance_rate: "23.585%"
+collected_at: "2026-04-17T10:54:46.767976+00:00"
 ---
 
 ## 문제

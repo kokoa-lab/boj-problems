@@ -1,13 +1,13 @@
 ---
-title: 나무 위의 입자
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "나무 위의 입자"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 585
 accepted: 212
 solved_users: 176
-acceptance_rate: 37.131%
-collected_at: 2026-04-17T14:03:50.968876+00:00
+acceptance_rate: "37.131%"
+collected_at: "2026-04-17T14:03:50.968876+00:00"
 ---
 
 ## 문제

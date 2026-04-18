@@ -1,13 +1,13 @@
 ---
-title: 열려라 참깨
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "열려라 참깨"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 153
 accepted: 80
 solved_users: 61
-acceptance_rate: 47.656%
-collected_at: 2026-04-17T14:05:01.311940+00:00
+acceptance_rate: "47.656%"
+collected_at: "2026-04-17T14:05:01.311940+00:00"
 ---
 
 ## 문제

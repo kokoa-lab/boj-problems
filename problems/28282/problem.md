@@ -1,13 +1,13 @@
 ---
-title: 운명
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "운명"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 1389
 accepted: 555
 solved_users: 476
-acceptance_rate: 43.750%
-collected_at: 2026-04-17T18:21:46.186070+00:00
+acceptance_rate: "43.750%"
+collected_at: "2026-04-17T18:21:46.186070+00:00"
 ---
 
 ## 문제

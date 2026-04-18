@@ -1,13 +1,13 @@
 ---
-title: The Killer Word (Large)
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "The Killer Word (Large)"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 47
 accepted: 13
 solved_users: 9
-acceptance_rate: 30.000%
-collected_at: 2026-04-17T12:56:31.798993+00:00
+acceptance_rate: "30.000%"
+collected_at: "2026-04-17T12:56:31.798993+00:00"
 ---
 
 ## 문제

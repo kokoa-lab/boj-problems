@@ -1,13 +1,13 @@
 ---
-title: Rings and Runes
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Rings and Runes"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 42
 accepted: 15
 solved_users: 14
-acceptance_rate: 58.333%
-collected_at: 2026-04-17T11:01:43.170138+00:00
+acceptance_rate: "58.333%"
+collected_at: "2026-04-17T11:01:43.170138+00:00"
 ---
 
 ## 문제

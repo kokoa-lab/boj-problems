@@ -1,13 +1,13 @@
 ---
-title: 랜드마크 건설
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "랜드마크 건설"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 793
 accepted: 107
 solved_users: 78
-acceptance_rate: 19.549%
-collected_at: 2026-04-17T17:06:44.735989+00:00
+acceptance_rate: "19.549%"
+collected_at: "2026-04-17T17:06:44.735989+00:00"
 ---
 
 ## 문제

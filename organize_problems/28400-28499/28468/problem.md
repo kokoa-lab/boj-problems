@@ -1,13 +1,13 @@
 ---
-title: 납이야 나비야
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "납이야 나비야"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 84
 accepted: 59
 solved_users: 54
-acceptance_rate: 72.000%
-collected_at: 2026-04-17T18:27:18.056786+00:00
+acceptance_rate: "72.000%"
+collected_at: "2026-04-17T18:27:18.056786+00:00"
 ---
 
 ## 문제

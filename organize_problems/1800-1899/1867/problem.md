@@ -1,13 +1,13 @@
 ---
-title: 돌멩이 제거
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "돌멩이 제거"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 3785
 accepted: 2065
 solved_users: 1709
-acceptance_rate: 58.972%
-collected_at: 2026-04-17T10:34:58.651377+00:00
+acceptance_rate: "58.972%"
+collected_at: "2026-04-17T10:34:58.651377+00:00"
 ---
 
 ## 문제

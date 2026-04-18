@@ -1,13 +1,13 @@
 ---
-title: Bureaucracy
-special_judge: false
-time_limit: 3 초
-memory_limit: 256 MB
+title: "Bureaucracy"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "256 MB"
 submissions: 108
 accepted: 58
 solved_users: 43
-acceptance_rate: 56.579%
-collected_at: 2026-04-17T10:49:44.061652+00:00
+acceptance_rate: "56.579%"
+collected_at: "2026-04-17T10:49:44.061652+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Laser Pool
-special_judge: false
-time_limit: 5 초
-memory_limit: 256 MB
+title: "Laser Pool"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "256 MB"
 submissions: 10
 accepted: 3
 solved_users: 3
-acceptance_rate: 37.500%
-collected_at: 2026-04-17T11:58:03.210405+00:00
+acceptance_rate: "37.500%"
+collected_at: "2026-04-17T11:58:03.210405+00:00"
 ---
 
 ## 문제

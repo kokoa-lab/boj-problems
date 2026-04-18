@@ -1,13 +1,13 @@
 ---
-title: Sorting (Small)
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Sorting (Small)"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 272
 accepted: 215
 solved_users: 198
-acceptance_rate: 80.488%
-collected_at: 2026-04-17T12:53:03.204559+00:00
+acceptance_rate: "80.488%"
+collected_at: "2026-04-17T12:53:03.204559+00:00"
 ---
 
 ## 문제

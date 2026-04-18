@@ -1,13 +1,13 @@
 ---
-title: Animal King Election
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "Animal King Election"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 1329
 accepted: 1074
 solved_users: 994
-acceptance_rate: 83.319%
-collected_at: 2026-04-17T14:42:28.018775+00:00
+acceptance_rate: "83.319%"
+collected_at: "2026-04-17T14:42:28.018775+00:00"
 ---
 
 ## 문제

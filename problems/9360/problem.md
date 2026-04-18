@@ -1,13 +1,13 @@
 ---
-title: 윔블던
-special_judge: true
-time_limit: 1 초
-memory_limit: 128 MB
+title: "윔블던"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 39
 accepted: 11
 solved_users: 11
-acceptance_rate: 35.484%
-collected_at: 2026-04-17T12:09:15.754146+00:00
+acceptance_rate: "35.484%"
+collected_at: "2026-04-17T12:09:15.754146+00:00"
 ---
 
 ## 문제

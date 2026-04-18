@@ -1,13 +1,13 @@
 ---
-title: Pretty sequences
-special_judge: false
-time_limit: 0.4 초
-memory_limit: 1024 MB
+title: "Pretty sequences"
+special_judge: "false"
+time_limit: "0.4 초"
+memory_limit: "1024 MB"
 submissions: 67
 accepted: 13
 solved_users: 9
-acceptance_rate: 19.565%
-collected_at: 2026-04-17T17:06:26.190627+00:00
+acceptance_rate: "19.565%"
+collected_at: "2026-04-17T17:06:26.190627+00:00"
 ---
 
 ## 문제

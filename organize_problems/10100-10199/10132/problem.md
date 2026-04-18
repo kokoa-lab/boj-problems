@@ -1,13 +1,13 @@
 ---
-title: Around the world
-special_judge: false
-time_limit: 5 초
-memory_limit: 24 MB
+title: "Around the world"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "24 MB"
 submissions: 262
 accepted: 53
 solved_users: 38
-acceptance_rate: 17.195%
-collected_at: 2026-04-17T12:19:23.240647+00:00
+acceptance_rate: "17.195%"
+collected_at: "2026-04-17T12:19:23.240647+00:00"
 ---
 
 ## 문제

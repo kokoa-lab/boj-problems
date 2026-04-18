@@ -1,13 +1,13 @@
 ---
-title: 나무 막대
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "나무 막대"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 603
 accepted: 264
 solved_users: 213
-acceptance_rate: 46.204%
-collected_at: 2026-04-17T11:48:30.519171+00:00
+acceptance_rate: "46.204%"
+collected_at: "2026-04-17T11:48:30.519171+00:00"
 ---
 
 ## 문제

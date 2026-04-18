@@ -1,13 +1,13 @@
 ---
-title: Ciclo de Rubik
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Ciclo de Rubik"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 23
 accepted: 18
 solved_users: 13
-acceptance_rate: 86.667%
-collected_at: 2026-04-17T13:16:38.620612+00:00
+acceptance_rate: "86.667%"
+collected_at: "2026-04-17T13:16:38.620612+00:00"
 ---
 
 ## 문제

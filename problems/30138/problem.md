@@ -1,13 +1,13 @@
 ---
-title: Playing Field
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Playing Field"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 6
 accepted: 5
 solved_users: 4
-acceptance_rate: 100.000%
-collected_at: 2026-04-17T18:59:34.298827+00:00
+acceptance_rate: "100.000%"
+collected_at: "2026-04-17T18:59:34.298827+00:00"
 ---
 
 ## 문제

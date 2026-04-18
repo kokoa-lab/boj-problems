@@ -1,13 +1,13 @@
 ---
-title: Goose Coins
-special_judge: false
-time_limit: 3 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Goose Coins"
+special_judge: "false"
+time_limit: "3 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 133
 accepted: 35
 solved_users: 26
-acceptance_rate: 24.299%
-collected_at: 2026-04-17T16:43:32.597582+00:00
+acceptance_rate: "24.299%"
+collected_at: "2026-04-17T16:43:32.597582+00:00"
 ---
 
 ## 문제

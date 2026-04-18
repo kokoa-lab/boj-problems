@@ -1,13 +1,13 @@
 ---
-title: gus
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "gus"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 646
 accepted: 442
 solved_users: 388
-acceptance_rate: 70.674%
-collected_at: 2026-04-17T10:47:25.883613+00:00
+acceptance_rate: "70.674%"
+collected_at: "2026-04-17T10:47:25.883613+00:00"
 ---
 
 ## 문제

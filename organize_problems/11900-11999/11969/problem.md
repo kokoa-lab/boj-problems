@@ -1,13 +1,13 @@
 ---
-title: Breed Counting
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Breed Counting"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 1792
 accepted: 1212
 solved_users: 1030
-acceptance_rate: 68.942%
-collected_at: 2026-04-17T12:48:21.165798+00:00
+acceptance_rate: "68.942%"
+collected_at: "2026-04-17T12:48:21.165798+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Banitsa
-special_judge: false
-time_limit: 3 초
-memory_limit: 2048 MB
+title: "Banitsa"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "2048 MB"
 submissions: 7
 accepted: 4
 solved_users: 4
-acceptance_rate: 57.143%
-collected_at: 2026-04-17T20:11:59.182845+00:00
+acceptance_rate: "57.143%"
+collected_at: "2026-04-17T20:11:59.182845+00:00"
 ---
 
 ## 문제

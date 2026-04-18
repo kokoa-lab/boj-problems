@@ -1,13 +1,13 @@
 ---
-title: Chocolate Chip Cookies
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Chocolate Chip Cookies"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 46
 accepted: 11
 solved_users: 10
-acceptance_rate: 40.000%
-collected_at: 2026-04-17T11:01:29.020589+00:00
+acceptance_rate: "40.000%"
+collected_at: "2026-04-17T11:01:29.020589+00:00"
 ---
 
 ## 문제

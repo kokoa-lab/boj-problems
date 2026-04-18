@@ -1,13 +1,13 @@
 ---
-title: 꿀벌
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "꿀벌"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 32
 accepted: 15
 solved_users: 12
-acceptance_rate: 50.000%
-collected_at: 2026-04-17T15:23:31.899795+00:00
+acceptance_rate: "50.000%"
+collected_at: "2026-04-17T15:23:31.899795+00:00"
 ---
 
 ## 문제

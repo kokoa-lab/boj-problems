@@ -1,13 +1,13 @@
 ---
-title: Binary Sequence and Queries
-special_judge: true
-time_limit: 3 초
-memory_limit: 1024 MB
+title: "Binary Sequence and Queries"
+special_judge: "true"
+time_limit: "3 초"
+memory_limit: "1024 MB"
 submissions: 215
 accepted: 48
 solved_users: 40
-acceptance_rate: 24.540%
-collected_at: 2026-04-17T18:17:26.656975+00:00
+acceptance_rate: "24.540%"
+collected_at: "2026-04-17T18:17:26.656975+00:00"
 ---
 
 ## 문제

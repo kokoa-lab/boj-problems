@@ -1,13 +1,13 @@
 ---
-title: Beth’s Cookies
-special_judge: false
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Beth’s Cookies"
+special_judge: "false"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 53
 accepted: 32
 solved_users: 30
-acceptance_rate: 75.000%
-collected_at: 2026-04-17T19:09:50.990545+00:00
+acceptance_rate: "75.000%"
+collected_at: "2026-04-17T19:09:50.990545+00:00"
 ---
 
 ## 문제

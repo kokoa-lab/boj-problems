@@ -1,13 +1,13 @@
 ---
-title: 백조의 호수
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "백조의 호수"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 48398
 accepted: 10607
 solved_users: 6665
-acceptance_rate: 20.507%
-collected_at: 2026-04-17T10:47:20.137863+00:00
+acceptance_rate: "20.507%"
+collected_at: "2026-04-17T10:47:20.137863+00:00"
 ---
 
 ## 문제

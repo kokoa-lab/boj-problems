@@ -1,13 +1,13 @@
 ---
-title: Shortsighted
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Shortsighted"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 59
 accepted: 22
 solved_users: 19
-acceptance_rate: 36.538%
-collected_at: 2026-04-17T15:45:45.561625+00:00
+acceptance_rate: "36.538%"
+collected_at: "2026-04-17T15:45:45.561625+00:00"
 ---
 
 ## 문제

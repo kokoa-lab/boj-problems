@@ -1,13 +1,13 @@
 ---
-title: Ministarstvo
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Ministarstvo"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 63
 accepted: 15
 solved_users: 13
-acceptance_rate: 23.214%
-collected_at: 2026-04-17T19:40:16.206840+00:00
+acceptance_rate: "23.214%"
+collected_at: "2026-04-17T19:40:16.206840+00:00"
 ---
 
 ## 문제

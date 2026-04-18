@@ -1,13 +1,13 @@
 ---
-title: Moortal Cowmbat
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Moortal Cowmbat"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 358
 accepted: 183
 solved_users: 114
-acceptance_rate: 47.107%
-collected_at: 2026-04-17T14:58:14.826175+00:00
+acceptance_rate: "47.107%"
+collected_at: "2026-04-17T14:58:14.826175+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: n^m의 약수의 합
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "n^m의 약수의 합"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 1290
 accepted: 431
 solved_users: 350
-acceptance_rate: 36.496%
-collected_at: 2026-04-17T12:44:09.789795+00:00
+acceptance_rate: "36.496%"
+collected_at: "2026-04-17T12:44:09.789795+00:00"
 ---
 
 ## 문제

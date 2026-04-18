@@ -1,13 +1,13 @@
 ---
-title: Equivalent Passwords
-special_judge: false
-time_limit: 3 초
-memory_limit: 256 MB
+title: "Equivalent Passwords"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "256 MB"
 submissions: 86
 accepted: 22
 solved_users: 20
-acceptance_rate: 26.316%
-collected_at: 2026-04-17T12:46:19.316409+00:00
+acceptance_rate: "26.316%"
+collected_at: "2026-04-17T12:46:19.316409+00:00"
 ---
 
 ## 문제

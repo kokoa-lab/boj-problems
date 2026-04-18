@@ -1,13 +1,13 @@
 ---
-title: Trie, Again Trie
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Trie, Again Trie"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 1
 accepted: 1
 solved_users: 1
-acceptance_rate: 100.000%
-collected_at: 2026-04-17T11:07:46.986390+00:00
+acceptance_rate: "100.000%"
+collected_at: "2026-04-17T11:07:46.986390+00:00"
 ---
 
 ## 문제

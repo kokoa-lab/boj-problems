@@ -1,13 +1,13 @@
 ---
-title: Cedric's Cypher
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Cedric's Cypher"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 355
 accepted: 273
 solved_users: 231
-acceptance_rate: 81.053%
-collected_at: 2026-04-17T12:17:09.854651+00:00
+acceptance_rate: "81.053%"
+collected_at: "2026-04-17T12:17:09.854651+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Jackpot
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Jackpot"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 248
 accepted: 105
 solved_users: 77
-acceptance_rate: 42.077%
-collected_at: 2026-04-17T11:33:46.969902+00:00
+acceptance_rate: "42.077%"
+collected_at: "2026-04-17T11:33:46.969902+00:00"
 ---
 
 ## 문제

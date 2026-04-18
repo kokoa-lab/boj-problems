@@ -1,13 +1,13 @@
 ---
-title: Boat Commuter
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Boat Commuter"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 124
 accepted: 73
 solved_users: 59
-acceptance_rate: 62.766%
-collected_at: 2026-04-17T19:09:33.316579+00:00
+acceptance_rate: "62.766%"
+collected_at: "2026-04-17T19:09:33.316579+00:00"
 ---
 
 ## 문제

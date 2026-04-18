@@ -1,13 +1,13 @@
 ---
-title: Bi-ing Lottery Treekets
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Bi-ing Lottery Treekets"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 75
 accepted: 12
 solved_users: 11
-acceptance_rate: 15.068%
-collected_at: 2026-04-17T17:22:52.298521+00:00
+acceptance_rate: "15.068%"
+collected_at: "2026-04-17T17:22:52.298521+00:00"
 ---
 
 ## 문제

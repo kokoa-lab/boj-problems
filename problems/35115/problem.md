@@ -1,13 +1,13 @@
 ---
-title: i18n
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "i18n"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 204
 accepted: 88
 solved_users: 74
-acceptance_rate: 41.111%
-collected_at: 2026-04-17T20:56:02.986287+00:00
+acceptance_rate: "41.111%"
+collected_at: "2026-04-17T20:56:02.986287+00:00"
 ---
 
 ## 문제

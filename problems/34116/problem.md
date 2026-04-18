@@ -1,13 +1,13 @@
 ---
-title: 직각이등변삼각형
-special_judge: false
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 2048 MB
+title: "직각이등변삼각형"
+special_judge: "false"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "2048 MB"
 submissions: 978
 accepted: 499
 solved_users: 374
-acceptance_rate: 55.162%
-collected_at: 2026-04-17T20:30:55.849379+00:00
+acceptance_rate: "55.162%"
+collected_at: "2026-04-17T20:30:55.849379+00:00"
 ---
 
 ## 문제

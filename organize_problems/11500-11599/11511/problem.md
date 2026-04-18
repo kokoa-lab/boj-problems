@@ -1,13 +1,13 @@
 ---
-title: RELATIVNOST
-special_judge: false
-time_limit: 4 초
-memory_limit: 32 MB
+title: "RELATIVNOST"
+special_judge: "false"
+time_limit: "4 초"
+memory_limit: "32 MB"
 submissions: 301
 accepted: 87
 solved_users: 62
-acceptance_rate: 24.800%
-collected_at: 2026-04-17T12:41:38.171242+00:00
+acceptance_rate: "24.800%"
+collected_at: "2026-04-17T12:41:38.171242+00:00"
 ---
 
 ## 문제

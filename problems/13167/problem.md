@@ -1,13 +1,13 @@
 ---
-title: 포스터
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "포스터"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 389
 accepted: 93
 solved_users: 61
-acceptance_rate: 23.106%
-collected_at: 2026-04-17T13:08:32.039893+00:00
+acceptance_rate: "23.106%"
+collected_at: "2026-04-17T13:08:32.039893+00:00"
 ---
 
 ## 문제

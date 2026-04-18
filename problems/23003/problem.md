@@ -1,13 +1,13 @@
 ---
-title: Increasing Substring
-special_judge: false
-time_limit: 서브태스크 참고 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "Increasing Substring"
+special_judge: "false"
+time_limit: "서브태스크 참고 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 226
 accepted: 179
 solved_users: 145
-acceptance_rate: 79.670%
-collected_at: 2026-04-17T16:40:03.213645+00:00
+acceptance_rate: "79.670%"
+collected_at: "2026-04-17T16:40:03.213645+00:00"
 ---
 
 ## 문제

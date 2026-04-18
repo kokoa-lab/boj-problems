@@ -1,13 +1,13 @@
 ---
-title: 주식을 안전하게 (Easy)
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "주식을 안전하게 (Easy)"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 346
 accepted: 57
 solved_users: 38
-acceptance_rate: 21.591%
-collected_at: 2026-04-17T18:53:22.026309+00:00
+acceptance_rate: "21.591%"
+collected_at: "2026-04-17T18:53:22.026309+00:00"
 ---
 
 ## 문제

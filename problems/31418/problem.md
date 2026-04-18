@@ -1,13 +1,13 @@
 ---
-title: 스펀지
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "스펀지"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 883
 accepted: 360
 solved_users: 277
-acceptance_rate: 39.291%
-collected_at: 2026-04-17T19:27:46.740626+00:00
+acceptance_rate: "39.291%"
+collected_at: "2026-04-17T19:27:46.740626+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Learning by Example
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Learning by Example"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 262
 accepted: 65
 solved_users: 60
-acceptance_rate: 31.250%
-collected_at: 2026-04-17T12:27:02.507274+00:00
+acceptance_rate: "31.250%"
+collected_at: "2026-04-17T12:27:02.507274+00:00"
 ---
 
 ## 문제

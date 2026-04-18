@@ -1,13 +1,13 @@
 ---
-title: Corrupt Election
-special_judge: false
-time_limit: 1 초
-memory_limit: 64 MB
+title: "Corrupt Election"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "64 MB"
 submissions: 154
 accepted: 73
 solved_users: 60
-acceptance_rate: 51.282%
-collected_at: 2026-04-17T13:07:57.682238+00:00
+acceptance_rate: "51.282%"
+collected_at: "2026-04-17T13:07:57.682238+00:00"
 ---
 
 ## 문제

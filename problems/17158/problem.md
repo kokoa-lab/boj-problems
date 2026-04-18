@@ -1,13 +1,13 @@
 ---
-title: Karel the Robot
-special_judge: false
-time_limit: 10 초
-memory_limit: 512 MB
+title: "Karel the Robot"
+special_judge: "false"
+time_limit: "10 초"
+memory_limit: "512 MB"
 submissions: 61
 accepted: 29
 solved_users: 24
-acceptance_rate: 48.980%
-collected_at: 2026-04-17T14:31:16.509715+00:00
+acceptance_rate: "48.980%"
+collected_at: "2026-04-17T14:31:16.509715+00:00"
 ---
 
 ## 문제

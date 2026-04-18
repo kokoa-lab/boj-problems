@@ -1,13 +1,13 @@
 ---
-title: Solve another chuck
-special_judge: true
-time_limit: 2 초
-memory_limit: 256 MB
+title: "Solve another chuck"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 67
 accepted: 20
 solved_users: 15
-acceptance_rate: 26.786%
-collected_at: 2026-04-17T12:31:30.225858+00:00
+acceptance_rate: "26.786%"
+collected_at: "2026-04-17T12:31:30.225858+00:00"
 ---
 
 ## 문제

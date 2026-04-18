@@ -1,13 +1,13 @@
 ---
-title: Global Warming
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Global Warming"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 119
 accepted: 46
 solved_users: 38
-acceptance_rate: 38.384%
-collected_at: 2026-04-18T09:49:23.455252+00:00
+acceptance_rate: "38.384%"
+collected_at: "2026-04-18T09:49:23.455252+00:00"
 ---
 
 ## 문제

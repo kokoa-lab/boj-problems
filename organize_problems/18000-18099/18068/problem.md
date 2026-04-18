@@ -1,13 +1,13 @@
 ---
-title: Bad Treap
-special_judge: true
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "Bad Treap"
+special_judge: "true"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 64
 accepted: 38
 solved_users: 36
-acceptance_rate: 61.017%
-collected_at: 2026-04-17T14:54:54.001850+00:00
+acceptance_rate: "61.017%"
+collected_at: "2026-04-17T14:54:54.001850+00:00"
 ---
 
 ## 문제

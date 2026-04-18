@@ -1,13 +1,13 @@
 ---
-title: Soccer Stadium
-special_judge: false
-time_limit: 3.5 초
-memory_limit: 1024 MB
+title: "Soccer Stadium"
+special_judge: "false"
+time_limit: "3.5 초"
+memory_limit: "1024 MB"
 submissions: 148
 accepted: 22
 solved_users: 17
-acceptance_rate: 17.708%
-collected_at: 2026-04-17T18:52:06.028732+00:00
+acceptance_rate: "17.708%"
+collected_at: "2026-04-17T18:52:06.028732+00:00"
 ---
 
 ## 문제

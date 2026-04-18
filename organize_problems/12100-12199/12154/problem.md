@@ -1,13 +1,13 @@
 ---
-title: Counter Culture (Large)
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Counter Culture (Large)"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 61
 accepted: 27
 solved_users: 25
-acceptance_rate: 54.348%
-collected_at: 2026-04-17T12:51:05.289151+00:00
+acceptance_rate: "54.348%"
+collected_at: "2026-04-17T12:51:05.289151+00:00"
 ---
 
 ## 문제

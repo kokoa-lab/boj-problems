@@ -1,13 +1,13 @@
 ---
-title: Dome Construction
-special_judge: true
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Dome Construction"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 93
 accepted: 79
 solved_users: 73
-acceptance_rate: 86.905%
-collected_at: 2026-04-17T14:47:19.957827+00:00
+acceptance_rate: "86.905%"
+collected_at: "2026-04-17T14:47:19.957827+00:00"
 ---
 
 ## 문제

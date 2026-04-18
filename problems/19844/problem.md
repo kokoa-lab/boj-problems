@@ -1,13 +1,13 @@
 ---
-title: 단어 개수 세기
-special_judge: false
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "단어 개수 세기"
+special_judge: "false"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 1276
 accepted: 448
 solved_users: 379
-acceptance_rate: 36.618%
-collected_at: 2026-04-17T15:28:27.826812+00:00
+acceptance_rate: "36.618%"
+collected_at: "2026-04-17T15:28:27.826812+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Diwali lightings (Small)
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Diwali lightings (Small)"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 191
 accepted: 136
 solved_users: 108
-acceptance_rate: 69.231%
-collected_at: 2026-04-17T13:29:32.407897+00:00
+acceptance_rate: "69.231%"
+collected_at: "2026-04-17T13:29:32.407897+00:00"
 ---
 
 ## 문제

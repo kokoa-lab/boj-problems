@@ -1,13 +1,13 @@
 ---
-title: 타노스
-special_judge: true
-time_limit: 0.25 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "타노스"
+special_judge: "true"
+time_limit: "0.25 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 34592
 accepted: 11782
 solved_users: 9843
-acceptance_rate: 38.728%
-collected_at: 2026-04-17T14:06:58.783172+00:00
+acceptance_rate: "38.728%"
+collected_at: "2026-04-17T14:06:58.783172+00:00"
 ---
 
 ## 문제

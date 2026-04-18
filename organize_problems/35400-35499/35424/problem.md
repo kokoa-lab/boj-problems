@@ -1,13 +1,13 @@
 ---
-title: 낙서 제거
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "낙서 제거"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 165
 accepted: 77
 solved_users: 72
-acceptance_rate: 57.600%
-collected_at: 2026-04-18T09:51:58.469518+00:00
+acceptance_rate: "57.600%"
+collected_at: "2026-04-18T09:51:58.469518+00:00"
 ---
 
 ## 문제

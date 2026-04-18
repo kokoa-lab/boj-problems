@@ -1,13 +1,13 @@
 ---
-title: 쉬운 문제
-special_judge: true
-time_limit: 1 초
-memory_limit: 512 MB
+title: "쉬운 문제"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 685
 accepted: 250
 solved_users: 174
-acceptance_rate: 36.632%
-collected_at: 2026-04-17T13:22:49.601423+00:00
+acceptance_rate: "36.632%"
+collected_at: "2026-04-17T13:22:49.601423+00:00"
 ---
 
 ## 문제

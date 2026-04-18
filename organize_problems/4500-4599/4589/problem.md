@@ -1,13 +1,13 @@
 ---
-title: Gnome Sequencing
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Gnome Sequencing"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 4868
 accepted: 3163
 solved_users: 2966
-acceptance_rate: 65.663%
-collected_at: 2026-04-17T11:05:01.449622+00:00
+acceptance_rate: "65.663%"
+collected_at: "2026-04-17T11:05:01.449622+00:00"
 ---
 
 ## 문제

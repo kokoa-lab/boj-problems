@@ -1,13 +1,13 @@
 ---
-title: Andando no tempo
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Andando no tempo"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 2255
 accepted: 1695
 solved_users: 1604
-acceptance_rate: 76.820%
-collected_at: 2026-04-17T13:15:33.961088+00:00
+acceptance_rate: "76.820%"
+collected_at: "2026-04-17T13:15:33.961088+00:00"
 ---
 
 ## 문제

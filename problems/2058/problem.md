@@ -1,13 +1,13 @@
 ---
-title: 원자의 에너지
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "원자의 에너지"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 473
 accepted: 162
 solved_users: 97
-acceptance_rate: 39.754%
-collected_at: 2026-04-17T10:37:45.721450+00:00
+acceptance_rate: "39.754%"
+collected_at: "2026-04-17T10:37:45.721450+00:00"
 ---
 
 ## 문제

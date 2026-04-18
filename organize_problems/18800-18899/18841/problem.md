@@ -1,13 +1,13 @@
 ---
-title: Sweeping
-special_judge: false
-time_limit: 11 초
-memory_limit: 2048 MB
+title: "Sweeping"
+special_judge: "false"
+time_limit: "11 초"
+memory_limit: "2048 MB"
 submissions: 73
 accepted: 24
 solved_users: 15
-acceptance_rate: 50.000%
-collected_at: 2026-04-17T15:10:15.694009+00:00
+acceptance_rate: "50.000%"
+collected_at: "2026-04-17T15:10:15.694009+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 釘 (Nails)
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "釘 (Nails)"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 411
 accepted: 205
 solved_users: 155
-acceptance_rate: 49.679%
-collected_at: 2026-04-17T11:15:13.371694+00:00
+acceptance_rate: "49.679%"
+collected_at: "2026-04-17T11:15:13.371694+00:00"
 ---
 
 ## 문제

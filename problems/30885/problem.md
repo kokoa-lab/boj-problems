@@ -1,13 +1,13 @@
 ---
-title: Φ²
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Φ²"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 1097
 accepted: 330
 solved_users: 252
-acceptance_rate: 30.769%
-collected_at: 2026-04-17T19:17:30.087050+00:00
+acceptance_rate: "30.769%"
+collected_at: "2026-04-17T19:17:30.087050+00:00"
 ---
 
 ## 문제

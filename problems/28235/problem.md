@@ -1,13 +1,13 @@
 ---
-title: 코드마스터 2023
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "코드마스터 2023"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 7541
 accepted: 5879
 solved_users: 5617
-acceptance_rate: 78.946%
-collected_at: 2026-04-17T18:20:44.636434+00:00
+acceptance_rate: "78.946%"
+collected_at: "2026-04-17T18:20:44.636434+00:00"
 ---
 
 ## 문제

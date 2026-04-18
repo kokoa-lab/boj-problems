@@ -1,13 +1,13 @@
 ---
-title: 어려운 모든 정점 쌍 최단 거리
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "어려운 모든 정점 쌍 최단 거리"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 1025
 accepted: 484
 solved_users: 373
-acceptance_rate: 47.516%
-collected_at: 2026-04-17T16:46:21.327917+00:00
+acceptance_rate: "47.516%"
+collected_at: "2026-04-17T16:46:21.327917+00:00"
 ---
 
 ## 문제

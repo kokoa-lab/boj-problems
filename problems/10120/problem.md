@@ -1,13 +1,13 @@
 ---
-title: The Wall
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "The Wall"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 25
 accepted: 11
 solved_users: 10
-acceptance_rate: 52.632%
-collected_at: 2026-04-17T12:19:15.617597+00:00
+acceptance_rate: "52.632%"
+collected_at: "2026-04-17T12:19:15.617597+00:00"
 ---
 
 ## 문제

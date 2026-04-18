@@ -1,13 +1,13 @@
 ---
-title: Bin Packing
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Bin Packing"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 316
 accepted: 150
 solved_users: 112
-acceptance_rate: 45.528%
-collected_at: 2026-04-17T11:49:32.876166+00:00
+acceptance_rate: "45.528%"
+collected_at: "2026-04-17T11:49:32.876166+00:00"
 ---
 
 ## 문제

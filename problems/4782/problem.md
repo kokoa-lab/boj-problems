@@ -1,13 +1,13 @@
 ---
-title: 분수 뺄셈
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "분수 뺄셈"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 697
 accepted: 166
 solved_users: 106
-acceptance_rate: 24.766%
-collected_at: 2026-04-17T11:08:27.084298+00:00
+acceptance_rate: "24.766%"
+collected_at: "2026-04-17T11:08:27.084298+00:00"
 ---
 
 ## 문제

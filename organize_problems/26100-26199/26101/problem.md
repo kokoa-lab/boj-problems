@@ -1,13 +1,13 @@
 ---
-title: 링크와 스타트 2
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "링크와 스타트 2"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 82
 accepted: 43
 solved_users: 18
-acceptance_rate: 72.000%
-collected_at: 2026-04-17T17:40:09.606581+00:00
+acceptance_rate: "72.000%"
+collected_at: "2026-04-17T17:40:09.606581+00:00"
 ---
 
 ## 문제

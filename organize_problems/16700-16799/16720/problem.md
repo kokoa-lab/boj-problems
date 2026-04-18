@@ -1,13 +1,13 @@
 ---
-title: BAZE RUNNER
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "BAZE RUNNER"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 412
 accepted: 171
 solved_users: 148
-acceptance_rate: 45.679%
-collected_at: 2026-04-17T14:22:56.957155+00:00
+acceptance_rate: "45.679%"
+collected_at: "2026-04-17T14:22:56.957155+00:00"
 ---
 
 ## 문제

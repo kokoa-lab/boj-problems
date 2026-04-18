@@ -1,13 +1,13 @@
 ---
-title: Back to Origin
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Back to Origin"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 306
 accepted: 233
 solved_users: 206
-acceptance_rate: 79.845%
-collected_at: 2026-04-17T20:42:06.779377+00:00
+acceptance_rate: "79.845%"
+collected_at: "2026-04-17T20:42:06.779377+00:00"
 ---
 
 ## 문제

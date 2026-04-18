@@ -1,13 +1,13 @@
 ---
-title: 당구공을 넣자
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "당구공을 넣자"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 646
 accepted: 56
 solved_users: 42
-acceptance_rate: 17.213%
-collected_at: 2026-04-17T14:57:30.298925+00:00
+acceptance_rate: "17.213%"
+collected_at: "2026-04-17T14:57:30.298925+00:00"
 ---
 
 ## 문제

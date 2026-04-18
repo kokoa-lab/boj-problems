@@ -1,13 +1,13 @@
 ---
-title: 시그마 함수
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "시그마 함수"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 645
 accepted: 179
 solved_users: 156
-acceptance_rate: 56.318%
-collected_at: 2026-04-17T12:44:11.313109+00:00
+acceptance_rate: "56.318%"
+collected_at: "2026-04-17T12:44:11.313109+00:00"
 ---
 
 ## 문제

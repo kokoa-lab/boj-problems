@@ -1,13 +1,13 @@
 ---
-title: 등차수열에서 항 번호 찾기
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "등차수열에서 항 번호 찾기"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 5099
 accepted: 1763
 solved_users: 1607
-acceptance_rate: 35.648%
-collected_at: 2026-04-17T13:45:14.443279+00:00
+acceptance_rate: "35.648%"
+collected_at: "2026-04-17T13:45:14.443279+00:00"
 ---
 
 ## 문제

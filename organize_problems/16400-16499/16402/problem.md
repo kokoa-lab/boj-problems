@@ -1,13 +1,13 @@
 ---
-title: 제국
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "제국"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 1469
 accepted: 519
 solved_users: 367
-acceptance_rate: 33.093%
-collected_at: 2026-04-17T14:17:16.679427+00:00
+acceptance_rate: "33.093%"
+collected_at: "2026-04-17T14:17:16.679427+00:00"
 ---
 
 ## 문제

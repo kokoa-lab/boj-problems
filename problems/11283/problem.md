@@ -1,13 +1,13 @@
 ---
-title: 한글 2
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "한글 2"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 6737
 accepted: 5099
 solved_users: 4771
-acceptance_rate: 78.807%
-collected_at: 2026-04-17T12:39:07.697335+00:00
+acceptance_rate: "78.807%"
+collected_at: "2026-04-17T12:39:07.697335+00:00"
 ---
 
 ## 문제

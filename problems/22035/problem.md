@@ -1,13 +1,13 @@
 ---
-title: Bus Lines
-special_judge: true
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "Bus Lines"
+special_judge: "true"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 76
 accepted: 48
 solved_users: 41
-acceptance_rate: 67.213%
-collected_at: 2026-04-17T16:11:51.849646+00:00
+acceptance_rate: "67.213%"
+collected_at: "2026-04-17T16:11:51.849646+00:00"
 ---
 
 ## 문제

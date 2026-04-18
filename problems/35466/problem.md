@@ -1,13 +1,13 @@
 ---
-title: 대회 장소 정하기
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "대회 장소 정하기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 176
 accepted: 126
 solved_users: 112
-acceptance_rate: 74.667%
-collected_at: 2026-04-18T09:52:01.725906+00:00
+acceptance_rate: "74.667%"
+collected_at: "2026-04-18T09:52:01.725906+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Solitaire
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Solitaire"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 96
 accepted: 32
 solved_users: 26
-acceptance_rate: 29.885%
-collected_at: 2026-04-18T09:49:18.399295+00:00
+acceptance_rate: "29.885%"
+collected_at: "2026-04-18T09:49:18.399295+00:00"
 ---
 
 ## 문제

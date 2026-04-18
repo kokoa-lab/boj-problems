@@ -1,13 +1,13 @@
 ---
-title: Recovering the Region
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Recovering the Region"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 510
 accepted: 337
 solved_users: 311
-acceptance_rate: 71.005%
-collected_at: 2026-04-17T19:17:24.751973+00:00
+acceptance_rate: "71.005%"
+collected_at: "2026-04-17T19:17:24.751973+00:00"
 ---
 
 ## 문제

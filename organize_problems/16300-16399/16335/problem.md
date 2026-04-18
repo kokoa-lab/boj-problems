@@ -1,13 +1,13 @@
 ---
-title: Rabbit vs Turtle
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Rabbit vs Turtle"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 84
 accepted: 18
 solved_users: 15
-acceptance_rate: 26.786%
-collected_at: 2026-04-17T14:16:04.650834+00:00
+acceptance_rate: "26.786%"
+collected_at: "2026-04-17T14:16:04.650834+00:00"
 ---
 
 ## 문제

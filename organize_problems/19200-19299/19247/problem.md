@@ -1,13 +1,13 @@
 ---
-title: Boardroom Meeting
-special_judge: false
-time_limit: 10 초
-memory_limit: 512 MB
+title: "Boardroom Meeting"
+special_judge: "false"
+time_limit: "10 초"
+memory_limit: "512 MB"
 submissions: 48
 accepted: 16
 solved_users: 13
-acceptance_rate: 39.394%
-collected_at: 2026-04-17T15:15:40.315412+00:00
+acceptance_rate: "39.394%"
+collected_at: "2026-04-17T15:15:40.315412+00:00"
 ---
 
 ## 문제

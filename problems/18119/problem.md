@@ -1,13 +1,13 @@
 ---
-title: 단어 암기
-special_judge: false
-time_limit: 4 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "단어 암기"
+special_judge: "false"
+time_limit: "4 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 3366
 accepted: 1512
 solved_users: 1044
-acceptance_rate: 44.884%
-collected_at: 2026-04-17T14:55:56.733039+00:00
+acceptance_rate: "44.884%"
+collected_at: "2026-04-17T14:55:56.733039+00:00"
 ---
 
 ## 문제

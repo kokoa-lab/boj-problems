@@ -1,13 +1,13 @@
 ---
-title: マージ (Merge)
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "マージ (Merge)"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 254
 accepted: 209
 solved_users: 188
-acceptance_rate: 82.819%
-collected_at: 2026-04-18T09:50:59.247184+00:00
+acceptance_rate: "82.819%"
+collected_at: "2026-04-18T09:50:59.247184+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 동방 프로젝트 (Large)
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "동방 프로젝트 (Large)"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 3471
 accepted: 1278
 solved_users: 922
-acceptance_rate: 35.598%
-collected_at: 2026-04-17T13:39:10.221085+00:00
+acceptance_rate: "35.598%"
+collected_at: "2026-04-17T13:39:10.221085+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: The Sprawl
-special_judge: false
-time_limit: 5 초
-memory_limit: 768 MB
+title: "The Sprawl"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "768 MB"
 submissions: 102
 accepted: 46
 solved_users: 26
-acceptance_rate: 63.415%
-collected_at: 2026-04-17T14:08:46.780754+00:00
+acceptance_rate: "63.415%"
+collected_at: "2026-04-17T14:08:46.780754+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Breaking Branches
-special_judge: true
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Breaking Branches"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 491
 accepted: 420
 solved_users: 374
-acceptance_rate: 86.374%
-collected_at: 2026-04-17T14:47:01.632597+00:00
+acceptance_rate: "86.374%"
+collected_at: "2026-04-17T14:47:01.632597+00:00"
 ---
 
 ## 문제

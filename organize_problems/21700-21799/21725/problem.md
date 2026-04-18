@@ -1,13 +1,13 @@
 ---
-title: 더치페이
-special_judge: true
-time_limit: 1 초
-memory_limit: 1536 MB
+title: "더치페이"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1536 MB"
 submissions: 557
 accepted: 166
 solved_users: 130
-acceptance_rate: 30.733%
-collected_at: 2026-04-17T16:05:16.743705+00:00
+acceptance_rate: "30.733%"
+collected_at: "2026-04-17T16:05:16.743705+00:00"
 ---
 
 ## 문제

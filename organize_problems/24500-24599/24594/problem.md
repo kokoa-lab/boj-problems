@@ -1,13 +1,13 @@
 ---
-title: Problem Set Construction
-special_judge: true
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Problem Set Construction"
+special_judge: "true"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 41
 accepted: 29
 solved_users: 21
-acceptance_rate: 80.769%
-collected_at: 2026-04-17T17:11:39.708995+00:00
+acceptance_rate: "80.769%"
+collected_at: "2026-04-17T17:11:39.708995+00:00"
 ---
 
 ## 문제

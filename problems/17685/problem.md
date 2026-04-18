@@ -1,13 +1,13 @@
 ---
-title: Worst Reporter 3
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "Worst Reporter 3"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 76
 accepted: 60
 solved_users: 55
-acceptance_rate: 82.090%
-collected_at: 2026-04-17T14:45:22.646324+00:00
+acceptance_rate: "82.090%"
+collected_at: "2026-04-17T14:45:22.646324+00:00"
 ---
 
 ## 문제

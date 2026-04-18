@@ -1,13 +1,13 @@
 ---
-title: ПАЛИНДРОМ
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "ПАЛИНДРОМ"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 173
 accepted: 101
 solved_users: 82
-acceptance_rate: 58.571%
-collected_at: 2026-04-17T17:08:01.252385+00:00
+acceptance_rate: "58.571%"
+collected_at: "2026-04-17T17:08:01.252385+00:00"
 ---
 
 ## 문제

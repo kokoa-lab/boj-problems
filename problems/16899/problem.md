@@ -1,13 +1,13 @@
 ---
-title: 채석장 게임
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "채석장 게임"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 576
 accepted: 241
 solved_users: 192
-acceptance_rate: 39.506%
-collected_at: 2026-04-17T14:25:59.017907+00:00
+acceptance_rate: "39.506%"
+collected_at: "2026-04-17T14:25:59.017907+00:00"
 ---
 
 ## 문제

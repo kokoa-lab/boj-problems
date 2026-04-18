@@ -1,13 +1,13 @@
 ---
-title: 나머지
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "나머지"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 518070
 accepted: 264382
 solved_users: 226002
-acceptance_rate: 51.115%
-collected_at: 2026-04-17T12:23:34.776654+00:00
+acceptance_rate: "51.115%"
+collected_at: "2026-04-17T12:23:34.776654+00:00"
 ---
 
 ## 문제

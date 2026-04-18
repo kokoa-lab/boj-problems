@@ -1,13 +1,13 @@
 ---
-title: Min-Max Distance Game
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Min-Max Distance Game"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 127
 accepted: 49
 solved_users: 41
-acceptance_rate: 66.129%
-collected_at: 2026-04-17T12:45:21.327054+00:00
+acceptance_rate: "66.129%"
+collected_at: "2026-04-17T12:45:21.327054+00:00"
 ---
 
 ## 문제

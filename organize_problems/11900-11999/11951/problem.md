@@ -1,13 +1,13 @@
 ---
-title: JOI国のお散歩事情 (Walking in JOI Kingdom)
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "JOI国のお散歩事情 (Walking in JOI Kingdom)"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 313
 accepted: 122
 solved_users: 98
-acceptance_rate: 46.009%
-collected_at: 2026-04-17T12:48:06.374146+00:00
+acceptance_rate: "46.009%"
+collected_at: "2026-04-17T12:48:06.374146+00:00"
 ---
 
 ## 문제

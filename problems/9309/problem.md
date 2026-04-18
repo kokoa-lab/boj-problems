@@ -1,13 +1,13 @@
 ---
-title: Password Validation
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Password Validation"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 175
 accepted: 59
 solved_users: 40
-acceptance_rate: 28.169%
-collected_at: 2026-04-17T12:08:47.465616+00:00
+acceptance_rate: "28.169%"
+collected_at: "2026-04-17T12:08:47.465616+00:00"
 ---
 
 ## 문제

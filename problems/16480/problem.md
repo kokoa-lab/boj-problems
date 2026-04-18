@@ -1,13 +1,13 @@
 ---
-title: 외심과 내심은 사랑입니다
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "외심과 내심은 사랑입니다"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 1710
 accepted: 973
 solved_users: 897
-acceptance_rate: 57.500%
-collected_at: 2026-04-17T14:18:43.832109+00:00
+acceptance_rate: "57.500%"
+collected_at: "2026-04-17T14:18:43.832109+00:00"
 ---
 
 ## 문제

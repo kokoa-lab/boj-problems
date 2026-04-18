@@ -1,13 +1,13 @@
 ---
-title: Joe is learning to speak
-special_judge: false
-time_limit: 3 초
-memory_limit: 128 MB
+title: "Joe is learning to speak"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "128 MB"
 submissions: 27
 accepted: 8
 solved_users: 7
-acceptance_rate: 38.889%
-collected_at: 2026-04-17T12:11:41.367864+00:00
+acceptance_rate: "38.889%"
+collected_at: "2026-04-17T12:11:41.367864+00:00"
 ---
 
 ## 문제

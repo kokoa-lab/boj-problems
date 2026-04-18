@@ -1,13 +1,13 @@
 ---
-title: Go up the Ultras
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Go up the Ultras"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 26
 accepted: 13
 solved_users: 13
-acceptance_rate: 52.000%
-collected_at: 2026-04-17T12:10:55.683616+00:00
+acceptance_rate: "52.000%"
+collected_at: "2026-04-17T12:10:55.683616+00:00"
 ---
 
 ## 문제

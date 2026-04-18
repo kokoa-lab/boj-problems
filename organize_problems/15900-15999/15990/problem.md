@@ -1,13 +1,13 @@
 ---
-title: 1, 2, 3 더하기 5
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "1, 2, 3 더하기 5"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 36311
 accepted: 12396
 solved_users: 8882
-acceptance_rate: 31.477%
-collected_at: 2026-04-17T14:09:36.889836+00:00
+acceptance_rate: "31.477%"
+collected_at: "2026-04-17T14:09:36.889836+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Hay
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "Hay"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 113
 accepted: 22
 solved_users: 20
-acceptance_rate: 21.053%
-collected_at: 2026-04-17T15:21:10.028833+00:00
+acceptance_rate: "21.053%"
+collected_at: "2026-04-17T15:21:10.028833+00:00"
 ---
 
 ## 문제

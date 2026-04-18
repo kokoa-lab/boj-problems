@@ -1,13 +1,13 @@
 ---
-title: Twenty Thousand Leagues Under the Sea
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Twenty Thousand Leagues Under the Sea"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 4
 accepted: 3
 solved_users: 3
-acceptance_rate: 75.000%
-collected_at: 2026-04-17T14:11:15.286182+00:00
+acceptance_rate: "75.000%"
+collected_at: "2026-04-17T14:11:15.286182+00:00"
 ---
 
 ## 문제

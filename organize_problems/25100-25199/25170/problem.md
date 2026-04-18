@@ -1,13 +1,13 @@
 ---
-title: 명랑한 아리의 외출
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "명랑한 아리의 외출"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 390
 accepted: 122
 solved_users: 89
-acceptance_rate: 31.673%
-collected_at: 2026-04-17T17:22:01.298504+00:00
+acceptance_rate: "31.673%"
+collected_at: "2026-04-17T17:22:01.298504+00:00"
 ---
 
 ## 문제

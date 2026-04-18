@@ -1,13 +1,13 @@
 ---
-title: Permutant
-special_judge: false
-time_limit: 3 초
-memory_limit: 512 MB
+title: "Permutant"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "512 MB"
 submissions: 397
 accepted: 71
 solved_users: 40
-acceptance_rate: 14.493%
-collected_at: 2026-04-17T15:06:14.145235+00:00
+acceptance_rate: "14.493%"
+collected_at: "2026-04-17T15:06:14.145235+00:00"
 ---
 
 ## 문제

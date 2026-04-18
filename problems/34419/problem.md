@@ -1,13 +1,13 @@
 ---
-title: Tic-Tac-Toe Solver
-special_judge: false
-time_limit: 1 초
-memory_limit: 2048 MB
+title: "Tic-Tac-Toe Solver"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "2048 MB"
 submissions: 67
 accepted: 49
 solved_users: 45
-acceptance_rate: 72.581%
-collected_at: 2026-04-17T20:38:16.643071+00:00
+acceptance_rate: "72.581%"
+collected_at: "2026-04-17T20:38:16.643071+00:00"
 ---
 
 ## 문제

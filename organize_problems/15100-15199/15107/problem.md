@@ -1,13 +1,13 @@
 ---
-title: Rainbow Roads
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Rainbow Roads"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 95
 accepted: 58
 solved_users: 52
-acceptance_rate: 61.176%
-collected_at: 2026-04-17T13:51:08.343383+00:00
+acceptance_rate: "61.176%"
+collected_at: "2026-04-17T13:51:08.343383+00:00"
 ---
 
 ## 문제

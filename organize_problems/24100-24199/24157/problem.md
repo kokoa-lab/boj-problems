@@ -1,13 +1,13 @@
 ---
-title: ショッピングモール (Mall)
-special_judge: false
-time_limit: 6 초
-memory_limit: 1024 MB
+title: "ショッピングモール (Mall)"
+special_judge: "false"
+time_limit: "6 초"
+memory_limit: "1024 MB"
 submissions: 53
 accepted: 48
 solved_users: 44
-acceptance_rate: 91.667%
-collected_at: 2026-04-17T17:05:17.422058+00:00
+acceptance_rate: "91.667%"
+collected_at: "2026-04-17T17:05:17.422058+00:00"
 ---
 
 ## 문제

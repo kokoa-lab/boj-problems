@@ -1,13 +1,13 @@
 ---
-title: Alien Communication Masterclass
-special_judge: true
-time_limit: 3 초
-memory_limit: 256 MB
+title: "Alien Communication Masterclass"
+special_judge: "true"
+time_limit: "3 초"
+memory_limit: "256 MB"
 submissions: 53
 accepted: 30
 solved_users: 26
-acceptance_rate: 60.465%
-collected_at: 2026-04-17T10:49:33.790604+00:00
+acceptance_rate: "60.465%"
+collected_at: "2026-04-17T10:49:33.790604+00:00"
 ---
 
 ## 문제

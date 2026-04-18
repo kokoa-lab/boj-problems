@@ -1,13 +1,13 @@
 ---
-title: Okret
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Okret"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 245
 accepted: 123
 solved_users: 94
-acceptance_rate: 59.119%
-collected_at: 2026-04-17T13:26:30.990935+00:00
+acceptance_rate: "59.119%"
+collected_at: "2026-04-17T13:26:30.990935+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 배열의 힘
-special_judge: false
-time_limit: 3 초
-memory_limit: 128 MB
+title: "배열의 힘"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "128 MB"
 submissions: 3644
 accepted: 1608
 solved_users: 1159
-acceptance_rate: 42.330%
-collected_at: 2026-04-17T11:59:48.599018+00:00
+acceptance_rate: "42.330%"
+collected_at: "2026-04-17T11:59:48.599018+00:00"
 ---
 
 ## 문제

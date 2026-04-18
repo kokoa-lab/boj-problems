@@ -1,13 +1,13 @@
 ---
-title: Evolution of Weasels
-special_judge: false
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 2048 MB
+title: "Evolution of Weasels"
+special_judge: "false"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "2048 MB"
 submissions: 216
 accepted: 99
 solved_users: 92
-acceptance_rate: 47.179%
-collected_at: 2026-04-17T17:19:49.772700+00:00
+acceptance_rate: "47.179%"
+collected_at: "2026-04-17T17:19:49.772700+00:00"
 ---
 
 ## 문제

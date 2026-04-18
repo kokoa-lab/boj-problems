@@ -1,13 +1,13 @@
 ---
-title: Super 12
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Super 12"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 88
 accepted: 24
 solved_users: 22
-acceptance_rate: 37.288%
-collected_at: 2026-04-17T10:38:53.049940+00:00
+acceptance_rate: "37.288%"
+collected_at: "2026-04-17T10:38:53.049940+00:00"
 ---
 
 ## 문제

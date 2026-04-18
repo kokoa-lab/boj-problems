@@ -1,13 +1,13 @@
 ---
-title: Moon Mooing
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Moon Mooing"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 50
 accepted: 16
 solved_users: 13
-acceptance_rate: 43.333%
-collected_at: 2026-04-17T11:20:10.400445+00:00
+acceptance_rate: "43.333%"
+collected_at: "2026-04-17T11:20:10.400445+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Hopscotch 50
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "Hopscotch 50"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 158
 accepted: 102
 solved_users: 93
-acceptance_rate: 63.699%
-collected_at: 2026-04-17T15:06:06.745282+00:00
+acceptance_rate: "63.699%"
+collected_at: "2026-04-17T15:06:06.745282+00:00"
 ---
 
 ## 문제

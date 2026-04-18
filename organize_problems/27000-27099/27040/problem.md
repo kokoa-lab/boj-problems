@@ -1,13 +1,13 @@
 ---
-title: Golf
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Golf"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 95
 accepted: 18
 solved_users: 15
-acceptance_rate: 18.072%
-collected_at: 2026-04-17T17:55:20.877246+00:00
+acceptance_rate: "18.072%"
+collected_at: "2026-04-17T17:55:20.877246+00:00"
 ---
 
 ## 문제

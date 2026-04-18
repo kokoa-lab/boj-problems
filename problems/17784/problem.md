@@ -1,13 +1,13 @@
 ---
-title: Conveyor Belts
-special_judge: true
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Conveyor Belts"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 129
 accepted: 31
 solved_users: 28
-acceptance_rate: 22.951%
-collected_at: 2026-04-17T14:47:07.784037+00:00
+acceptance_rate: "22.951%"
+collected_at: "2026-04-17T14:47:07.784037+00:00"
 ---
 
 ## 문제

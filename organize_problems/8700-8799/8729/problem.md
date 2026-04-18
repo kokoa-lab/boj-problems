@@ -1,13 +1,13 @@
 ---
-title: Siłownia
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Siłownia"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 39
 accepted: 23
 solved_users: 20
-acceptance_rate: 62.500%
-collected_at: 2026-04-17T12:02:40.810860+00:00
+acceptance_rate: "62.500%"
+collected_at: "2026-04-17T12:02:40.810860+00:00"
 ---
 
 ## 문제

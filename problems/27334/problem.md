@@ -1,13 +1,13 @@
 ---
-title: マラソン大会 (Marathon Race)
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "マラソン大会 (Marathon Race)"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 375
 accepted: 308
 solved_users: 282
-acceptance_rate: 82.456%
-collected_at: 2026-04-17T18:01:04.810635+00:00
+acceptance_rate: "82.456%"
+collected_at: "2026-04-17T18:01:04.810635+00:00"
 ---
 
 ## 문제

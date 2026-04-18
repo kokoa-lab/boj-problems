@@ -1,13 +1,13 @@
 ---
-title: Bulbasaur
-special_judge: false
-time_limit: 6 초
-memory_limit: 512 MB
+title: "Bulbasaur"
+special_judge: "false"
+time_limit: "6 초"
+memory_limit: "512 MB"
 submissions: 14
 accepted: 10
 solved_users: 10
-acceptance_rate: 71.429%
-collected_at: 2026-04-17T15:07:12.765172+00:00
+acceptance_rate: "71.429%"
+collected_at: "2026-04-17T15:07:12.765172+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Another Brick in the Wall
-special_judge: false
-time_limit: 2 초
-memory_limit: 2048 MB
+title: "Another Brick in the Wall"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "2048 MB"
 submissions: 185
 accepted: 115
 solved_users: 81
-acceptance_rate: 61.364%
-collected_at: 2026-04-17T20:04:35.501584+00:00
+acceptance_rate: "61.364%"
+collected_at: "2026-04-17T20:04:35.501584+00:00"
 ---
 
 ## 문제

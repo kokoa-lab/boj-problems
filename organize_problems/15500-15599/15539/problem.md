@@ -1,13 +1,13 @@
 ---
-title: Non-redundant Drive
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Non-redundant Drive"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 112
 accepted: 28
 solved_users: 25
-acceptance_rate: 26.042%
-collected_at: 2026-04-17T14:01:10.311330+00:00
+acceptance_rate: "26.042%"
+collected_at: "2026-04-17T14:01:10.311330+00:00"
 ---
 
 ## 문제

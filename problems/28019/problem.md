@@ -1,13 +1,13 @@
 ---
-title: 산지니의 여행계획
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "산지니의 여행계획"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 442
 accepted: 146
 solved_users: 107
-acceptance_rate: 37.544%
-collected_at: 2026-04-17T18:16:50.576661+00:00
+acceptance_rate: "37.544%"
+collected_at: "2026-04-17T18:16:50.576661+00:00"
 ---
 
 ## 문제

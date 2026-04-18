@@ -1,13 +1,13 @@
 ---
-title: 메이플스토리2 장례식
-special_judge: false
-time_limit: 3 초
-memory_limit: 1024 MB
+title: "메이플스토리2 장례식"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "1024 MB"
 submissions: 144
 accepted: 72
 solved_users: 58
-acceptance_rate: 60.417%
-collected_at: 2026-04-17T20:28:26.137458+00:00
+acceptance_rate: "60.417%"
+collected_at: "2026-04-17T20:28:26.137458+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: The Final Level
-special_judge: true
-time_limit: 3 초
-memory_limit: 512 MB
+title: "The Final Level"
+special_judge: "true"
+time_limit: "3 초"
+memory_limit: "512 MB"
 submissions: 88
 accepted: 27
 solved_users: 24
-acceptance_rate: 30.000%
-collected_at: 2026-04-17T13:56:36.559942+00:00
+acceptance_rate: "30.000%"
+collected_at: "2026-04-17T13:56:36.559942+00:00"
 ---
 
 ## 문제

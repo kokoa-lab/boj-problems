@@ -1,13 +1,13 @@
 ---
-title: 근수
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "근수"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 926
 accepted: 385
 solved_users: 320
-acceptance_rate: 42.384%
-collected_at: 2026-04-17T19:38:19.706208+00:00
+acceptance_rate: "42.384%"
+collected_at: "2026-04-17T19:38:19.706208+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 메시지
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "메시지"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 4168
 accepted: 1559
 solved_users: 1406
-acceptance_rate: 39.875%
-collected_at: 2026-04-17T10:29:47.097880+00:00
+acceptance_rate: "39.875%"
+collected_at: "2026-04-17T10:29:47.097880+00:00"
 ---
 
 ## 문제

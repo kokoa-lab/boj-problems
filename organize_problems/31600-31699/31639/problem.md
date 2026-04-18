@@ -1,13 +1,13 @@
 ---
-title: たくさんの数字 (Many Digits)
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "たくさんの数字 (Many Digits)"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 62
 accepted: 43
 solved_users: 37
-acceptance_rate: 66.071%
-collected_at: 2026-04-17T19:32:38.852930+00:00
+acceptance_rate: "66.071%"
+collected_at: "2026-04-17T19:32:38.852930+00:00"
 ---
 
 ## 문제

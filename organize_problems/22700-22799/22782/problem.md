@@ -1,13 +1,13 @@
 ---
-title: Opened-up Die
-special_judge: true
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Opened-up Die"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 53
 accepted: 18
 solved_users: 14
-acceptance_rate: 36.842%
-collected_at: 2026-04-17T16:35:40.006805+00:00
+acceptance_rate: "36.842%"
+collected_at: "2026-04-17T16:35:40.006805+00:00"
 ---
 
 ## 문제

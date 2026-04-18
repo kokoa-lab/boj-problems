@@ -1,13 +1,13 @@
 ---
-title: 천재 수학자 성필
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "천재 수학자 성필"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 4271
 accepted: 1694
 solved_users: 1472
-acceptance_rate: 40.296%
-collected_at: 2026-04-17T14:07:01.931552+00:00
+acceptance_rate: "40.296%"
+collected_at: "2026-04-17T14:07:01.931552+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Steppe on It
-special_judge: false
-time_limit: 3 초
-memory_limit: 1024 MB
+title: "Steppe on It"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "1024 MB"
 submissions: 20
 accepted: 12
 solved_users: 10
-acceptance_rate: 66.667%
-collected_at: 2026-04-17T19:50:57.263847+00:00
+acceptance_rate: "66.667%"
+collected_at: "2026-04-17T19:50:57.263847+00:00"
 ---
 
 ## 문제

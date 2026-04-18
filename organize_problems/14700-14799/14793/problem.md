@@ -1,13 +1,13 @@
 ---
-title: Bathroom Stalls (Small2)
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Bathroom Stalls (Small2)"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 160
 accepted: 123
 solved_users: 104
-acceptance_rate: 80.000%
-collected_at: 2026-04-17T13:42:00.259129+00:00
+acceptance_rate: "80.000%"
+collected_at: "2026-04-17T13:42:00.259129+00:00"
 ---
 
 ## 문제

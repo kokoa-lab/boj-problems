@@ -1,13 +1,13 @@
 ---
-title: Shifty Grid
-special_judge: true
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Shifty Grid"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 81
 accepted: 29
 solved_users: 23
-acceptance_rate: 32.394%
-collected_at: 2026-04-17T13:40:28.556708+00:00
+acceptance_rate: "32.394%"
+collected_at: "2026-04-17T13:40:28.556708+00:00"
 ---
 
 ## 문제

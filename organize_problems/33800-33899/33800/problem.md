@@ -1,13 +1,13 @@
 ---
-title: Ramen Packs
-special_judge: true
-time_limit: 1 초
-memory_limit: 2048 MB
+title: "Ramen Packs"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "2048 MB"
 submissions: 49
 accepted: 31
 solved_users: 26
-acceptance_rate: 70.270%
-collected_at: 2026-04-17T20:23:48.543615+00:00
+acceptance_rate: "70.270%"
+collected_at: "2026-04-17T20:23:48.543615+00:00"
 ---
 
 ## 문제

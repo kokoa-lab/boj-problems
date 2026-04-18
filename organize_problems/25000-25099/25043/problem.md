@@ -1,13 +1,13 @@
 ---
-title: Superpozicija
-special_judge: true
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Superpozicija"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 22
 accepted: 6
 solved_users: 4
-acceptance_rate: 22.222%
-collected_at: 2026-04-17T17:19:25.574151+00:00
+acceptance_rate: "22.222%"
+collected_at: "2026-04-17T17:19:25.574151+00:00"
 ---
 
 ## 문제

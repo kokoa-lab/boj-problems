@@ -1,13 +1,13 @@
 ---
-title: Tsunami
-special_judge: false
-time_limit: 4 초
-memory_limit: 1024 MB
+title: "Tsunami"
+special_judge: "false"
+time_limit: "4 초"
+memory_limit: "1024 MB"
 submissions: 61
 accepted: 15
 solved_users: 13
-acceptance_rate: 26.531%
-collected_at: 2026-04-17T18:17:27.783257+00:00
+acceptance_rate: "26.531%"
+collected_at: "2026-04-17T18:17:27.783257+00:00"
 ---
 
 ## 문제

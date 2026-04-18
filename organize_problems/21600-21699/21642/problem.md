@@ -1,13 +1,13 @@
 ---
-title: Straight
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Straight"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 66
 accepted: 22
 solved_users: 20
-acceptance_rate: 43.478%
-collected_at: 2026-04-17T16:02:17.677734+00:00
+acceptance_rate: "43.478%"
+collected_at: "2026-04-17T16:02:17.677734+00:00"
 ---
 
 ## 문제

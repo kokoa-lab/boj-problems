@@ -1,13 +1,13 @@
 ---
-title: 가장 보통의 트리
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "가장 보통의 트리"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 112
 accepted: 63
 solved_users: 54
-acceptance_rate: 61.364%
-collected_at: 2026-04-17T20:54:50.172067+00:00
+acceptance_rate: "61.364%"
+collected_at: "2026-04-17T20:54:50.172067+00:00"
 ---
 
 ## 문제

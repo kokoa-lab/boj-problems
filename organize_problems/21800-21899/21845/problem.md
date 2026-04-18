@@ -1,13 +1,13 @@
 ---
-title: A Difficult(y) Choice
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "A Difficult(y) Choice"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 203
 accepted: 38
 solved_users: 27
-acceptance_rate: 20.930%
-collected_at: 2026-04-17T16:08:46.884312+00:00
+acceptance_rate: "20.930%"
+collected_at: "2026-04-17T16:08:46.884312+00:00"
 ---
 
 ## 문제

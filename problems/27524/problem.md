@@ -1,13 +1,13 @@
 ---
-title: 점수 내기
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "점수 내기"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 69
 accepted: 26
 solved_users: 23
-acceptance_rate: 36.508%
-collected_at: 2026-04-17T18:05:20.074866+00:00
+acceptance_rate: "36.508%"
+collected_at: "2026-04-17T18:05:20.074866+00:00"
 ---
 
 ## 문제

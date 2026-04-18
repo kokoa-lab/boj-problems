@@ -1,13 +1,13 @@
 ---
-title: Factory
-special_judge: true
-time_limit: 10 초
-memory_limit: 512 MB
+title: "Factory"
+special_judge: "true"
+time_limit: "10 초"
+memory_limit: "512 MB"
 submissions: 459
 accepted: 135
 solved_users: 61
-acceptance_rate: 20.066%
-collected_at: 2026-04-17T15:17:57.239334+00:00
+acceptance_rate: "20.066%"
+collected_at: "2026-04-17T15:17:57.239334+00:00"
 ---
 
 ## 문제

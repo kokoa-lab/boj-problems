@@ -1,13 +1,13 @@
 ---
-title: Fail Fast
-special_judge: true
-time_limit: 4 초
-memory_limit: 2048 MB
+title: "Fail Fast"
+special_judge: "true"
+time_limit: "4 초"
+memory_limit: "2048 MB"
 submissions: 232
 accepted: 55
 solved_users: 43
-acceptance_rate: 27.044%
-collected_at: 2026-04-17T18:18:54.445692+00:00
+acceptance_rate: "27.044%"
+collected_at: "2026-04-17T18:18:54.445692+00:00"
 ---
 
 ## 문제

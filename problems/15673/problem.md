@@ -1,13 +1,13 @@
 ---
-title: 헤븐스 키친 2
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "헤븐스 키친 2"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 644
 accepted: 237
 solved_users: 182
-acceptance_rate: 35.968%
-collected_at: 2026-04-17T14:03:51.866552+00:00
+acceptance_rate: "35.968%"
+collected_at: "2026-04-17T14:03:51.866552+00:00"
 ---
 
 ## 문제

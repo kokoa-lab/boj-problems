@@ -1,13 +1,13 @@
 ---
-title: WonderTeam
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "WonderTeam"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 67
 accepted: 32
 solved_users: 25
-acceptance_rate: 46.296%
-collected_at: 2026-04-17T11:24:21.961608+00:00
+acceptance_rate: "46.296%"
+collected_at: "2026-04-17T11:24:21.961608+00:00"
 ---
 
 ## 문제

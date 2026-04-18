@@ -1,13 +1,13 @@
 ---
-title: 펭귄 네비게이터
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "펭귄 네비게이터"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 759
 accepted: 331
 solved_users: 270
-acceptance_rate: 45.608%
-collected_at: 2026-04-17T16:05:58.158181+00:00
+acceptance_rate: "45.608%"
+collected_at: "2026-04-17T16:05:58.158181+00:00"
 ---
 
 ## 문제

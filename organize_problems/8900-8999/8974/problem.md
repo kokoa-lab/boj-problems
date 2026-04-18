@@ -1,13 +1,13 @@
 ---
-title: 희주의 수학시험
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "희주의 수학시험"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 3102
 accepted: 2003
 solved_users: 1848
-acceptance_rate: 66.165%
-collected_at: 2026-04-17T12:05:41.571317+00:00
+acceptance_rate: "66.165%"
+collected_at: "2026-04-17T12:05:41.571317+00:00"
 ---
 
 ## 문제

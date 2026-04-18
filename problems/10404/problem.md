@@ -1,13 +1,13 @@
 ---
-title: Journey through the kingdom
-special_judge: false
-time_limit: 3 초
-memory_limit: 256 MB
+title: "Journey through the kingdom"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "256 MB"
 submissions: 21
 accepted: 4
 solved_users: 4
-acceptance_rate: 22.222%
-collected_at: 2026-04-17T12:23:08.785513+00:00
+acceptance_rate: "22.222%"
+collected_at: "2026-04-17T12:23:08.785513+00:00"
 ---
 
 ## 문제

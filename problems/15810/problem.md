@@ -1,13 +1,13 @@
 ---
-title: 풍선 공장
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "풍선 공장"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 7230
 accepted: 2259
 solved_users: 1651
-acceptance_rate: 29.920%
-collected_at: 2026-04-17T14:06:56.228091+00:00
+acceptance_rate: "29.920%"
+collected_at: "2026-04-17T14:06:56.228091+00:00"
 ---
 
 ## 문제

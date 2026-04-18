@@ -1,13 +1,13 @@
 ---
-title: 왕들의 외나무다리 돌게임
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "왕들의 외나무다리 돌게임"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 903
 accepted: 524
 solved_users: 465
-acceptance_rate: 62.166%
-collected_at: 2026-04-17T15:11:38.878249+00:00
+acceptance_rate: "62.166%"
+collected_at: "2026-04-17T15:11:38.878249+00:00"
 ---
 
 ## 문제

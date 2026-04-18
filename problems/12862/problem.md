@@ -1,13 +1,13 @@
 ---
-title: Love Triangles
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Love Triangles"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 84
 accepted: 28
 solved_users: 22
-acceptance_rate: 36.667%
-collected_at: 2026-04-17T13:02:46.594537+00:00
+acceptance_rate: "36.667%"
+collected_at: "2026-04-17T13:02:46.594537+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 다오와 트리플 멕스 게임
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "다오와 트리플 멕스 게임"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 775
 accepted: 208
 solved_users: 179
-acceptance_rate: 29.011%
-collected_at: 2026-04-17T17:25:20.429112+00:00
+acceptance_rate: "29.011%"
+collected_at: "2026-04-17T17:25:20.429112+00:00"
 ---
 
 ## 문제

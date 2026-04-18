@@ -1,13 +1,13 @@
 ---
-title: 숫자의 힘
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "숫자의 힘"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 680
 accepted: 233
 solved_users: 168
-acceptance_rate: 39.905%
-collected_at: 2026-04-17T10:44:53.874606+00:00
+acceptance_rate: "39.905%"
+collected_at: "2026-04-17T10:44:53.874606+00:00"
 ---
 
 ## 문제

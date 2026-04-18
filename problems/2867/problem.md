@@ -1,13 +1,13 @@
 ---
-title: 수열의 값
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "수열의 값"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 677
 accepted: 305
 solved_users: 242
-acceptance_rate: 48.889%
-collected_at: 2026-04-17T10:45:22.948800+00:00
+acceptance_rate: "48.889%"
+collected_at: "2026-04-17T10:45:22.948800+00:00"
 ---
 
 ## 문제

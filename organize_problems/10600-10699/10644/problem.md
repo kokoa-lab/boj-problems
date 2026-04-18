@@ -1,13 +1,13 @@
 ---
-title: ZMIJA
-special_judge: false
-time_limit: 1 초
-memory_limit: 32 MB
+title: "ZMIJA"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "32 MB"
 submissions: 141
 accepted: 63
 solved_users: 51
-acceptance_rate: 47.222%
-collected_at: 2026-04-17T12:26:46.633873+00:00
+acceptance_rate: "47.222%"
+collected_at: "2026-04-17T12:26:46.633873+00:00"
 ---
 
 ## 문제

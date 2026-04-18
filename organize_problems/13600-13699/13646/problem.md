@@ -1,13 +1,13 @@
 ---
-title: Estrela
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Estrela"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 381
 accepted: 174
 solved_users: 140
-acceptance_rate: 45.603%
-collected_at: 2026-04-17T13:16:38.792689+00:00
+acceptance_rate: "45.603%"
+collected_at: "2026-04-17T13:16:38.792689+00:00"
 ---
 
 ## 문제

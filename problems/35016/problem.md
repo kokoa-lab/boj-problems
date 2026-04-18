@@ -1,13 +1,13 @@
 ---
-title: Sums of Two
-special_judge: false
-time_limit: 2 초
-memory_limit: 2048 MB
+title: "Sums of Two"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "2048 MB"
 submissions: 51
 accepted: 7
 solved_users: 4
-acceptance_rate: 11.765%
-collected_at: 2026-04-17T20:54:05.737150+00:00
+acceptance_rate: "11.765%"
+collected_at: "2026-04-17T20:54:05.737150+00:00"
 ---
 
 ## 문제

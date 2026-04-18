@@ -1,13 +1,13 @@
 ---
-title: Fuleco and Brazil ant
-special_judge: false
-time_limit: 1 초
-memory_limit: 64 MB
+title: "Fuleco and Brazil ant"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "64 MB"
 submissions: 62
 accepted: 25
 solved_users: 24
-acceptance_rate: 48.000%
-collected_at: 2026-04-17T12:18:48.579314+00:00
+acceptance_rate: "48.000%"
+collected_at: "2026-04-17T12:18:48.579314+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Bałwanek
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Bałwanek"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 3161
 accepted: 1331
 solved_users: 1222
-acceptance_rate: 42.460%
-collected_at: 2026-04-17T12:02:36.140913+00:00
+acceptance_rate: "42.460%"
+collected_at: "2026-04-17T12:02:36.140913+00:00"
 ---
 
 ## 문제

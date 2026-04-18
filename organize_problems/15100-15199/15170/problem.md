@@ -1,13 +1,13 @@
 ---
-title: Dendroctonus
-special_judge: false
-time_limit: 8 초
-memory_limit: 512 MB
+title: "Dendroctonus"
+special_judge: "false"
+time_limit: "8 초"
+memory_limit: "512 MB"
 submissions: 1029
 accepted: 77
 solved_users: 35
-acceptance_rate: 5.368%
-collected_at: 2026-04-17T13:53:32.900686+00:00
+acceptance_rate: "5.368%"
+collected_at: "2026-04-17T13:53:32.900686+00:00"
 ---
 
 ## 문제

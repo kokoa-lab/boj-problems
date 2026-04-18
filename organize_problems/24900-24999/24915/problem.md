@@ -1,13 +1,13 @@
 ---
-title: 센터가 돋보여야 해
-special_judge: false
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 512 MB (추가 메모리 없음)
+title: "센터가 돋보여야 해"
+special_judge: "false"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "512 MB (추가 메모리 없음)"
 submissions: 413
 accepted: 168
 solved_users: 134
-acceptance_rate: 40.240%
-collected_at: 2026-04-17T17:17:03.959961+00:00
+acceptance_rate: "40.240%"
+collected_at: "2026-04-17T17:17:03.959961+00:00"
 ---
 
 ## 문제

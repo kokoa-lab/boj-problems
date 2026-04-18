@@ -1,13 +1,13 @@
 ---
-title: 야바위 대장
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "야바위 대장"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 1749
 accepted: 1479
 solved_users: 1392
-acceptance_rate: 87.327%
-collected_at: 2026-04-17T14:07:03.373715+00:00
+acceptance_rate: "87.327%"
+collected_at: "2026-04-17T14:07:03.373715+00:00"
 ---
 
 ## 문제

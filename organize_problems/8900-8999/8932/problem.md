@@ -1,13 +1,13 @@
 ---
-title: 7종 경기
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "7종 경기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 1798
 accepted: 1434
 solved_users: 1300
-acceptance_rate: 80.846%
-collected_at: 2026-04-17T12:05:05.047579+00:00
+acceptance_rate: "80.846%"
+collected_at: "2026-04-17T12:05:05.047579+00:00"
 ---
 
 ## 문제

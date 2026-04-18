@@ -1,13 +1,13 @@
 ---
-title: The Cow Gathering
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "The Cow Gathering"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 242
 accepted: 90
 solved_users: 62
-acceptance_rate: 31.959%
-collected_at: 2026-04-17T14:23:29.975660+00:00
+acceptance_rate: "31.959%"
+collected_at: "2026-04-17T14:23:29.975660+00:00"
 ---
 
 ## 문제

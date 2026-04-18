@@ -1,13 +1,13 @@
 ---
-title: 뒤집기
-special_judge: false
-time_limit: 2 초  ( 하단 참고 )
-memory_limit: 512 MB
+title: "뒤집기"
+special_judge: "false"
+time_limit: "2 초  ( 하단 참고 )"
+memory_limit: "512 MB"
 submissions: 937
 accepted: 494
 solved_users: 398
-acceptance_rate: 57.431%
-collected_at: 2026-04-17T14:05:39.561851+00:00
+acceptance_rate: "57.431%"
+collected_at: "2026-04-17T14:05:39.561851+00:00"
 ---
 
 ## 문제

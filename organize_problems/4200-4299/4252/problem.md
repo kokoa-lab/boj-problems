@@ -1,13 +1,13 @@
 ---
-title: Polly Nomials
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Polly Nomials"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 20
 accepted: 15
 solved_users: 15
-acceptance_rate: 78.947%
-collected_at: 2026-04-17T10:58:09.877229+00:00
+acceptance_rate: "78.947%"
+collected_at: "2026-04-17T10:58:09.877229+00:00"
 ---
 
 ## 문제

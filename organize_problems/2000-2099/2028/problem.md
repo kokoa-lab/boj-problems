@@ -1,13 +1,13 @@
 ---
-title: 자기복제수
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "자기복제수"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 4523
 accepted: 2683
 solved_users: 2360
-acceptance_rate: 63.407%
-collected_at: 2026-04-17T10:37:23.118559+00:00
+acceptance_rate: "63.407%"
+collected_at: "2026-04-17T10:37:23.118559+00:00"
 ---
 
 ## 문제

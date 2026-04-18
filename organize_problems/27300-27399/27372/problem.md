@@ -1,13 +1,13 @@
 ---
-title: 미니 빙고
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "미니 빙고"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 155
 accepted: 90
 solved_users: 72
-acceptance_rate: 57.600%
-collected_at: 2026-04-17T18:01:36.459270+00:00
+acceptance_rate: "57.600%"
+collected_at: "2026-04-17T18:01:36.459270+00:00"
 ---
 
 ## 문제

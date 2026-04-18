@@ -1,13 +1,13 @@
 ---
-title: 수학 공책
-special_judge: true
-time_limit: 1 초
-memory_limit: 128 MB
+title: "수학 공책"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 359
 accepted: 125
 solved_users: 101
-acceptance_rate: 33.893%
-collected_at: 2026-04-17T12:05:33.676375+00:00
+acceptance_rate: "33.893%"
+collected_at: "2026-04-17T12:05:33.676375+00:00"
 ---
 
 ## 문제

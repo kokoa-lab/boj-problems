@@ -1,13 +1,13 @@
 ---
-title: 송신탑 설치
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "송신탑 설치"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 20
 accepted: 14
 solved_users: 11
-acceptance_rate: 91.667%
-collected_at: 2026-04-17T21:09:23.834323+00:00
+acceptance_rate: "91.667%"
+collected_at: "2026-04-17T21:09:23.834323+00:00"
 ---
 
 ## 문제

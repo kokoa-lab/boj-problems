@@ -1,13 +1,13 @@
 ---
-title: 0초 후에 제출할 수 있습니다.
-special_judge: true
-time_limit: 1.001 초
-memory_limit: 512 MB
+title: "0초 후에 제출할 수 있습니다."
+special_judge: "true"
+time_limit: "1.001 초"
+memory_limit: "512 MB"
 submissions: 24809
 accepted: 1226
 solved_users: 937
-acceptance_rate: 9.757%
-collected_at: 2026-04-17T15:10:07.474895+00:00
+acceptance_rate: "9.757%"
+collected_at: "2026-04-17T15:10:07.474895+00:00"
 ---
 
 ## 문제

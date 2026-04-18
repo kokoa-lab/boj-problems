@@ -1,13 +1,13 @@
 ---
-title: Cyclists versus Clouds
-special_judge: false
-time_limit: 3.5 초
-memory_limit: 1024 MB
+title: "Cyclists versus Clouds"
+special_judge: "false"
+time_limit: "3.5 초"
+memory_limit: "1024 MB"
 submissions: 11
 accepted: 7
 solved_users: 6
-acceptance_rate: 75.000%
-collected_at: 2026-04-17T17:18:08.758017+00:00
+acceptance_rate: "75.000%"
+collected_at: "2026-04-17T17:18:08.758017+00:00"
 ---
 
 ## 문제

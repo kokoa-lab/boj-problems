@@ -1,13 +1,13 @@
 ---
-title: 일우는 야바위꾼
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "일우는 야바위꾼"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 4645
 accepted: 3094
 solved_users: 2694
-acceptance_rate: 67.283%
-collected_at: 2026-04-17T15:35:33.841523+00:00
+acceptance_rate: "67.283%"
+collected_at: "2026-04-17T15:35:33.841523+00:00"
 ---
 
 ## 문제

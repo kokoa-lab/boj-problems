@@ -1,13 +1,13 @@
 ---
-title: 영식이의 손가락
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "영식이의 손가락"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 5646
 accepted: 2033
 solved_users: 1517
-acceptance_rate: 35.452%
-collected_at: 2026-04-17T10:31:37.953018+00:00
+acceptance_rate: "35.452%"
+collected_at: "2026-04-17T10:31:37.953018+00:00"
 ---
 
 ## 문제

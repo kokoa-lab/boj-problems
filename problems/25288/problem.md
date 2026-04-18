@@ -1,13 +1,13 @@
 ---
-title: 영어 시험
-special_judge: true
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "영어 시험"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 1396
 accepted: 982
 solved_users: 854
-acceptance_rate: 73.054%
-collected_at: 2026-04-17T17:23:59.528273+00:00
+acceptance_rate: "73.054%"
+collected_at: "2026-04-17T17:23:59.528273+00:00"
 ---
 
 ## 문제

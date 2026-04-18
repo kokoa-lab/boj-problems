@@ -1,13 +1,13 @@
 ---
-title: On the Bus
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "On the Bus"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 330
 accepted: 168
 solved_users: 145
-acceptance_rate: 51.971%
-collected_at: 2026-04-17T11:50:51.044628+00:00
+acceptance_rate: "51.971%"
+collected_at: "2026-04-17T11:50:51.044628+00:00"
 ---
 
 ## 문제

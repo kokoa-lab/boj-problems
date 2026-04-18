@@ -1,13 +1,13 @@
 ---
-title: 직사각형
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "직사각형"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 681
 accepted: 347
 solved_users: 254
-acceptance_rate: 46.863%
-collected_at: 2026-04-17T10:36:12.538356+00:00
+acceptance_rate: "46.863%"
+collected_at: "2026-04-17T10:36:12.538356+00:00"
 ---
 
 ## 문제

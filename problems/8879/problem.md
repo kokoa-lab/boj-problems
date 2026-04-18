@@ -1,13 +1,13 @@
 ---
-title: Surely You Congest
-special_judge: false
-time_limit: 10 초
-memory_limit: 256 MB
+title: "Surely You Congest"
+special_judge: "false"
+time_limit: "10 초"
+memory_limit: "256 MB"
 submissions: 309
 accepted: 99
 solved_users: 65
-acceptance_rate: 28.634%
-collected_at: 2026-04-17T12:04:26.843598+00:00
+acceptance_rate: "28.634%"
+collected_at: "2026-04-17T12:04:26.843598+00:00"
 ---
 
 ## 문제

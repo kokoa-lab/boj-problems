@@ -1,13 +1,13 @@
 ---
-title: Exercising
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Exercising"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 526
 accepted: 380
 solved_users: 333
-acceptance_rate: 71.613%
-collected_at: 2026-04-17T12:39:17.407786+00:00
+acceptance_rate: "71.613%"
+collected_at: "2026-04-17T12:39:17.407786+00:00"
 ---
 
 ## 문제

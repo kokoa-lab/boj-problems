@@ -1,13 +1,13 @@
 ---
-title: 지민 vs 한수
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "지민 vs 한수"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 244
 accepted: 80
 solved_users: 61
-acceptance_rate: 34.857%
-collected_at: 2026-04-17T10:29:26.517498+00:00
+acceptance_rate: "34.857%"
+collected_at: "2026-04-17T10:29:26.517498+00:00"
 ---
 
 ## 문제

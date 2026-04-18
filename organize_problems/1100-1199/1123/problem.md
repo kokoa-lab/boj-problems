@@ -1,13 +1,13 @@
 ---
-title: 셔플
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "셔플"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 308
 accepted: 76
 solved_users: 61
-acceptance_rate: 33.516%
-collected_at: 2026-04-17T10:28:20.242461+00:00
+acceptance_rate: "33.516%"
+collected_at: "2026-04-17T10:28:20.242461+00:00"
 ---
 
 ## 문제

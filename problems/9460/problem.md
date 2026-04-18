@@ -1,13 +1,13 @@
 ---
-title: 메탈
-special_judge: false
-time_limit: 5 초
-memory_limit: 256 MB
+title: "메탈"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "256 MB"
 submissions: 1677
 accepted: 465
 solved_users: 302
-acceptance_rate: 26.964%
-collected_at: 2026-04-17T12:10:12.018461+00:00
+acceptance_rate: "26.964%"
+collected_at: "2026-04-17T12:10:12.018461+00:00"
 ---
 
 ## 문제

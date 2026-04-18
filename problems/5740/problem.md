@@ -1,13 +1,13 @@
 ---
-title: Justice League
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Justice League"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 26
 accepted: 11
 solved_users: 3
-acceptance_rate: 20.000%
-collected_at: 2026-04-17T11:17:00.488724+00:00
+acceptance_rate: "20.000%"
+collected_at: "2026-04-17T11:17:00.488724+00:00"
 ---
 
 ## 문제

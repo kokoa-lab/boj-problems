@@ -1,13 +1,13 @@
 ---
-title: It’s Surely Complex
-special_judge: false
-time_limit: 30 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "It’s Surely Complex"
+special_judge: "false"
+time_limit: "30 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 52
 accepted: 21
 solved_users: 15
-acceptance_rate: 33.333%
-collected_at: 2026-04-17T17:17:43.838334+00:00
+acceptance_rate: "33.333%"
+collected_at: "2026-04-17T17:17:43.838334+00:00"
 ---
 
 ## 문제

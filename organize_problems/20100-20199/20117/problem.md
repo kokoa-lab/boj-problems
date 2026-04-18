@@ -1,13 +1,13 @@
 ---
-title: 호반우 상인의 이상한 품질 계산법
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "호반우 상인의 이상한 품질 계산법"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 1237
 accepted: 731
 solved_users: 639
-acceptance_rate: 61.501%
-collected_at: 2026-04-17T15:31:56.595190+00:00
+acceptance_rate: "61.501%"
+collected_at: "2026-04-17T15:31:56.595190+00:00"
 ---
 
 ## 문제

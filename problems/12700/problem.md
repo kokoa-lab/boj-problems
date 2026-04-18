@@ -1,13 +1,13 @@
 ---
-title: Poklon
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Poklon"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 82
 accepted: 34
 solved_users: 24
-acceptance_rate: 47.059%
-collected_at: 2026-04-17T12:59:59.062212+00:00
+acceptance_rate: "47.059%"
+collected_at: "2026-04-17T12:59:59.062212+00:00"
 ---
 
 ## 문제

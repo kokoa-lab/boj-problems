@@ -1,13 +1,13 @@
 ---
-title: Tri-du
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Tri-du"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 3505
 accepted: 3163
 solved_users: 2983
-acceptance_rate: 90.669%
-collected_at: 2026-04-17T13:15:53.520978+00:00
+acceptance_rate: "90.669%"
+collected_at: "2026-04-17T13:15:53.520978+00:00"
 ---
 
 ## 문제

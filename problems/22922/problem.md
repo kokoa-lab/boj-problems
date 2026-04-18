@@ -1,13 +1,13 @@
 ---
-title: AND Permutation
-special_judge: true
-time_limit: 2 초
-memory_limit: 2048 MB (추가 메모리 없음)
+title: "AND Permutation"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "2048 MB (추가 메모리 없음)"
 submissions: 143
 accepted: 49
 solved_users: 45
-acceptance_rate: 37.500%
-collected_at: 2026-04-17T16:38:44.402721+00:00
+acceptance_rate: "37.500%"
+collected_at: "2026-04-17T16:38:44.402721+00:00"
 ---
 
 ## 문제

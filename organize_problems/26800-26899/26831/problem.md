@@ -1,13 +1,13 @@
 ---
-title: Para naszyjników
-special_judge: false
-time_limit: 25 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Para naszyjników"
+special_judge: "false"
+time_limit: "25 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 6
 accepted: 2
 solved_users: 2
-acceptance_rate: 66.667%
-collected_at: 2026-04-17T17:52:03.478697+00:00
+acceptance_rate: "66.667%"
+collected_at: "2026-04-17T17:52:03.478697+00:00"
 ---
 
 ## 문제

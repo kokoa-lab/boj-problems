@@ -1,13 +1,13 @@
 ---
-title: 방문
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "방문"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 671
 accepted: 310
 solved_users: 252
-acceptance_rate: 45.735%
-collected_at: 2026-04-17T13:05:00.446082+00:00
+acceptance_rate: "45.735%"
+collected_at: "2026-04-17T13:05:00.446082+00:00"
 ---
 
 ## 문제

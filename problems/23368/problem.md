@@ -1,13 +1,13 @@
 ---
-title: Entering Enemy Encampment
-special_judge: false
-time_limit: 4 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Entering Enemy Encampment"
+special_judge: "false"
+time_limit: "4 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 42
 accepted: 20
 solved_users: 18
-acceptance_rate: 52.941%
-collected_at: 2026-04-17T16:46:57.269087+00:00
+acceptance_rate: "52.941%"
+collected_at: "2026-04-17T16:46:57.269087+00:00"
 ---
 
 ## 문제

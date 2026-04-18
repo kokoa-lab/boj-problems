@@ -1,13 +1,13 @@
 ---
-title: Great Geek Game-show 3000!
-special_judge: true
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Great Geek Game-show 3000!"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 26
 accepted: 16
 solved_users: 9
-acceptance_rate: 60.000%
-collected_at: 2026-04-17T11:10:58.683025+00:00
+acceptance_rate: "60.000%"
+collected_at: "2026-04-17T11:10:58.683025+00:00"
 ---
 
 ## 문제

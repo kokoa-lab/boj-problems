@@ -1,13 +1,13 @@
 ---
-title: 소수 사이클
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "소수 사이클"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 205
 accepted: 46
 solved_users: 35
-acceptance_rate: 38.043%
-collected_at: 2026-04-17T10:45:26.534555+00:00
+acceptance_rate: "38.043%"
+collected_at: "2026-04-17T10:45:26.534555+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Canyon Crossing
-special_judge: false
-time_limit: 3.5 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "Canyon Crossing"
+special_judge: "false"
+time_limit: "3.5 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 182
 accepted: 65
 solved_users: 54
-acceptance_rate: 36.486%
-collected_at: 2026-04-17T14:41:36.948548+00:00
+acceptance_rate: "36.486%"
+collected_at: "2026-04-17T14:41:36.948548+00:00"
 ---
 
 ## 문제

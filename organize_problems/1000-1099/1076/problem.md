@@ -1,13 +1,13 @@
 ---
-title: 저항
-special_judge: false
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 128 MB
+title: "저항"
+special_judge: "false"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "128 MB"
 submissions: 39803
 accepted: 19169
 solved_users: 16629
-acceptance_rate: 48.697%
-collected_at: 2026-04-17T10:28:04.963687+00:00
+acceptance_rate: "48.697%"
+collected_at: "2026-04-17T10:28:04.963687+00:00"
 ---
 
 ## 문제

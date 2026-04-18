@@ -1,13 +1,13 @@
 ---
-title: 사탕나무
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "사탕나무"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 510
 accepted: 192
 solved_users: 152
-acceptance_rate: 38.481%
-collected_at: 2026-04-17T16:41:43.993318+00:00
+acceptance_rate: "38.481%"
+collected_at: "2026-04-17T16:41:43.993318+00:00"
 ---
 
 ## 문제

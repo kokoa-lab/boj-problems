@@ -1,13 +1,13 @@
 ---
-title: 만남
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "만남"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 142
 accepted: 74
 solved_users: 66
-acceptance_rate: 54.098%
-collected_at: 2026-04-17T10:44:55.369685+00:00
+acceptance_rate: "54.098%"
+collected_at: "2026-04-17T10:44:55.369685+00:00"
 ---
 
 ## 문제

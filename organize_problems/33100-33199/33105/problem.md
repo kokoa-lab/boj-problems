@@ -1,13 +1,13 @@
 ---
-title: Chocolate Bar
-special_judge: false
-time_limit: 1 초
-memory_limit: 2048 MB
+title: "Chocolate Bar"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "2048 MB"
 submissions: 29
 accepted: 12
 solved_users: 11
-acceptance_rate: 39.286%
-collected_at: 2026-04-17T20:09:31.125920+00:00
+acceptance_rate: "39.286%"
+collected_at: "2026-04-17T20:09:31.125920+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Competitive Arcade Basketball
-special_judge: false
-time_limit: 3 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Competitive Arcade Basketball"
+special_judge: "false"
+time_limit: "3 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 184
 accepted: 107
 solved_users: 88
-acceptance_rate: 57.895%
-collected_at: 2026-04-17T17:15:48.598383+00:00
+acceptance_rate: "57.895%"
+collected_at: "2026-04-17T17:15:48.598383+00:00"
 ---
 
 ## 문제

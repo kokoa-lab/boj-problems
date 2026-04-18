@@ -1,13 +1,13 @@
 ---
-title: h(n)
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "h(n)"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 719
 accepted: 148
 solved_users: 95
-acceptance_rate: 19.076%
-collected_at: 2026-04-17T13:05:52.585180+00:00
+acceptance_rate: "19.076%"
+collected_at: "2026-04-17T13:05:52.585180+00:00"
 ---
 
 ## 문제

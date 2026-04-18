@@ -1,13 +1,13 @@
 ---
-title: 부당한 퍼즐
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "부당한 퍼즐"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 2536
 accepted: 1075
 solved_users: 772
-acceptance_rate: 45.279%
-collected_at: 2026-04-17T14:00:25.872785+00:00
+acceptance_rate: "45.279%"
+collected_at: "2026-04-17T14:00:25.872785+00:00"
 ---
 
 ## 문제

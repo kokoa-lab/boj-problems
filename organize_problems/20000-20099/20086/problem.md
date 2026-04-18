@@ -1,13 +1,13 @@
 ---
-title: Roller Coaster Railroad
-special_judge: true
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Roller Coaster Railroad"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 89
 accepted: 37
 solved_users: 35
-acceptance_rate: 46.667%
-collected_at: 2026-04-17T15:31:31.993334+00:00
+acceptance_rate: "46.667%"
+collected_at: "2026-04-17T15:31:31.993334+00:00"
 ---
 
 ## 문제

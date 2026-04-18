@@ -1,13 +1,13 @@
 ---
-title: 히스토그램
-special_judge: false
-time_limit: 4 초
-memory_limit: 1024 MB
+title: "히스토그램"
+special_judge: "false"
+time_limit: "4 초"
+memory_limit: "1024 MB"
 submissions: 87
 accepted: 9
 solved_users: 8
-acceptance_rate: 14.286%
-collected_at: 2026-04-17T17:18:51.837383+00:00
+acceptance_rate: "14.286%"
+collected_at: "2026-04-17T17:18:51.837383+00:00"
 ---
 
 ## 문제

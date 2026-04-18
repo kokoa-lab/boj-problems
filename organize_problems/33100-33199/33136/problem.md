@@ -1,13 +1,13 @@
 ---
-title: Biketopia’s Cyclic Track
-special_judge: true
-time_limit: 0.5 초 (추가 시간 없음)
-memory_limit: 2048 MB
+title: "Biketopia’s Cyclic Track"
+special_judge: "true"
+time_limit: "0.5 초 (추가 시간 없음)"
+memory_limit: "2048 MB"
 submissions: 98
 accepted: 35
 solved_users: 33
-acceptance_rate: 34.375%
-collected_at: 2026-04-17T20:10:03.221097+00:00
+acceptance_rate: "34.375%"
+collected_at: "2026-04-17T20:10:03.221097+00:00"
 ---
 
 ## 문제

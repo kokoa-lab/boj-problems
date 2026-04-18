@@ -1,13 +1,13 @@
 ---
-title: 큰 수 곱셈
-special_judge: false
-time_limit: 3 초
-memory_limit: 512 MB
+title: "큰 수 곱셈"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "512 MB"
 submissions: 23066
 accepted: 13904
 solved_users: 12185
-acceptance_rate: 68.042%
-collected_at: 2026-04-17T13:10:45.713582+00:00
+acceptance_rate: "68.042%"
+collected_at: "2026-04-17T13:10:45.713582+00:00"
 ---
 
 ## 문제

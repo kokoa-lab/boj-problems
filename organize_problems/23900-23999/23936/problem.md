@@ -1,13 +1,13 @@
 ---
-title: Circuit Board
-special_judge: false
-time_limit: 15 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Circuit Board"
+special_judge: "false"
+time_limit: "15 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 20
 accepted: 11
 solved_users: 9
-acceptance_rate: 90.000%
-collected_at: 2026-04-17T16:58:39.590185+00:00
+acceptance_rate: "90.000%"
+collected_at: "2026-04-17T16:58:39.590185+00:00"
 ---
 
 ## 문제

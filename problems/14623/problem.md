@@ -1,13 +1,13 @@
 ---
-title: 감정이입
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "감정이입"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 4609
 accepted: 2601
 solved_users: 2359
-acceptance_rate: 59.227%
-collected_at: 2026-04-17T13:39:30.685646+00:00
+acceptance_rate: "59.227%"
+collected_at: "2026-04-17T13:39:30.685646+00:00"
 ---
 
 ## 문제

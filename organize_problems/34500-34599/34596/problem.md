@@ -1,13 +1,13 @@
 ---
-title: Baby
-special_judge: true
-time_limit: 1 초
-memory_limit: 2048 MB
+title: "Baby"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "2048 MB"
 submissions: 21
 accepted: 11
 solved_users: 10
-acceptance_rate: 55.556%
-collected_at: 2026-04-17T20:43:30.391047+00:00
+acceptance_rate: "55.556%"
+collected_at: "2026-04-17T20:43:30.391047+00:00"
 ---
 
 ## 문제

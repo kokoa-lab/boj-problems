@@ -1,13 +1,13 @@
 ---
-title: 추첨을 통해 커피를 받자
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "추첨을 통해 커피를 받자"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 3491
 accepted: 1999
 solved_users: 1847
-acceptance_rate: 58.523%
-collected_at: 2026-04-17T16:09:05.712658+00:00
+acceptance_rate: "58.523%"
+collected_at: "2026-04-17T16:09:05.712658+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Refract Facts
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Refract Facts"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 65
 accepted: 40
 solved_users: 37
-acceptance_rate: 60.656%
-collected_at: 2026-04-17T12:41:40.763081+00:00
+acceptance_rate: "60.656%"
+collected_at: "2026-04-17T12:41:40.763081+00:00"
 ---
 
 ## 문제

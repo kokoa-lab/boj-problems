@@ -1,13 +1,13 @@
 ---
-title: 88888
-special_judge: false
-time_limit: 4 초
-memory_limit: 2048 MB
+title: "88888"
+special_judge: "false"
+time_limit: "4 초"
+memory_limit: "2048 MB"
 submissions: 899
 accepted: 442
 solved_users: 311
-acceptance_rate: 48.594%
-collected_at: 2026-04-17T20:23:01.296360+00:00
+acceptance_rate: "48.594%"
+collected_at: "2026-04-17T20:23:01.296360+00:00"
 ---
 
 ## 문제

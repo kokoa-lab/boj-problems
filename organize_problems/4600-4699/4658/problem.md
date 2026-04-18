@@ -1,13 +1,13 @@
 ---
-title: 삼각형 게임
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "삼각형 게임"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 329
 accepted: 185
 solved_users: 158
-acceptance_rate: 59.848%
-collected_at: 2026-04-17T11:06:46.984875+00:00
+acceptance_rate: "59.848%"
+collected_at: "2026-04-17T11:06:46.984875+00:00"
 ---
 
 ## 문제

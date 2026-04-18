@@ -1,13 +1,13 @@
 ---
-title: 보물 사냥
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "보물 사냥"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 200
 accepted: 26
 solved_users: 24
-acceptance_rate: 20.870%
-collected_at: 2026-04-17T18:18:12.777387+00:00
+acceptance_rate: "20.870%"
+collected_at: "2026-04-17T18:18:12.777387+00:00"
 ---
 
 ## 문제

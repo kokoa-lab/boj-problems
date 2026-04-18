@@ -1,13 +1,13 @@
 ---
-title: Colorful Array
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Colorful Array"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 45
 accepted: 17
 solved_users: 15
-acceptance_rate: 44.118%
-collected_at: 2026-04-18T09:52:01.344724+00:00
+acceptance_rate: "44.118%"
+collected_at: "2026-04-18T09:52:01.344724+00:00"
 ---
 
 ## 문제

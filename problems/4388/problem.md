@@ -1,13 +1,13 @@
 ---
-title: 받아올림
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "받아올림"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 4880
 accepted: 1932
 solved_users: 1752
-acceptance_rate: 42.176%
-collected_at: 2026-04-17T11:00:40.405351+00:00
+acceptance_rate: "42.176%"
+collected_at: "2026-04-17T11:00:40.405351+00:00"
 ---
 
 ## 문제

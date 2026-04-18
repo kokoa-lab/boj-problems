@@ -1,13 +1,13 @@
 ---
-title: 도박 문제 전문 상담은 국번없이 1336
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "도박 문제 전문 상담은 국번없이 1336"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 74
 accepted: 45
 solved_users: 35
-acceptance_rate: 62.500%
-collected_at: 2026-04-17T19:30:08.795286+00:00
+acceptance_rate: "62.500%"
+collected_at: "2026-04-17T19:30:08.795286+00:00"
 ---
 
 ## 문제

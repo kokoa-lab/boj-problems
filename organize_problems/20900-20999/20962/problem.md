@@ -1,13 +1,13 @@
 ---
-title: Planine
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Planine"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 114
 accepted: 22
 solved_users: 14
-acceptance_rate: 17.284%
-collected_at: 2026-04-17T15:44:15.294706+00:00
+acceptance_rate: "17.284%"
+collected_at: "2026-04-17T15:44:15.294706+00:00"
 ---
 
 ## 문제

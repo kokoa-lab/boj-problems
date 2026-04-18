@@ -1,13 +1,13 @@
 ---
-title: Down the Pyramid
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Down the Pyramid"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 345
 accepted: 137
 solved_users: 102
-acceptance_rate: 42.149%
-collected_at: 2026-04-17T14:10:55.164413+00:00
+acceptance_rate: "42.149%"
+collected_at: "2026-04-17T14:10:55.164413+00:00"
 ---
 
 ## 문제

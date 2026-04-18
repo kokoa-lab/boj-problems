@@ -1,13 +1,13 @@
 ---
-title: August14 Beginner Contest
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "August14 Beginner Contest"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 114
 accepted: 10
 solved_users: 8
-acceptance_rate: 10.390%
-collected_at: 2026-04-18T09:51:23.846725+00:00
+acceptance_rate: "10.390%"
+collected_at: "2026-04-18T09:51:23.846725+00:00"
 ---
 
 ## 문제

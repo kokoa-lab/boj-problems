@@ -1,13 +1,13 @@
 ---
-title: Hot Dog Proliferation (Large)
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Hot Dog Proliferation (Large)"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 15
 accepted: 3
 solved_users: 3
-acceptance_rate: 60.000%
-collected_at: 2026-04-17T12:57:27.743062+00:00
+acceptance_rate: "60.000%"
+collected_at: "2026-04-17T12:57:27.743062+00:00"
 ---
 
 ## 문제

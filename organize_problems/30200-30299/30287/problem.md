@@ -1,13 +1,13 @@
 ---
-title: Gražūs namai
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Gražūs namai"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 42
 accepted: 35
 solved_users: 34
-acceptance_rate: 85.000%
-collected_at: 2026-04-17T19:02:29.920126+00:00
+acceptance_rate: "85.000%"
+collected_at: "2026-04-17T19:02:29.920126+00:00"
 ---
 
 ## 문제

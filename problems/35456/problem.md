@@ -1,13 +1,13 @@
 ---
-title: 선형 연립 부등식
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "선형 연립 부등식"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 313
 accepted: 108
 solved_users: 79
-acceptance_rate: 31.474%
-collected_at: 2026-04-17T21:07:34.062667+00:00
+acceptance_rate: "31.474%"
+collected_at: "2026-04-17T21:07:34.062667+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Longest Palindrome
-special_judge: true
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 256 MB
+title: "Longest Palindrome"
+special_judge: "true"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "256 MB"
 submissions: 148
 accepted: 106
 solved_users: 90
-acceptance_rate: 72.581%
-collected_at: 2026-04-17T17:15:49.196731+00:00
+acceptance_rate: "72.581%"
+collected_at: "2026-04-17T17:15:49.196731+00:00"
 ---
 
 ## 문제

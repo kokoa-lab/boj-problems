@@ -1,13 +1,13 @@
 ---
-title: 정렬
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "정렬"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 81
 accepted: 25
 solved_users: 12
-acceptance_rate: 57.143%
-collected_at: 2026-04-17T18:08:29.044700+00:00
+acceptance_rate: "57.143%"
+collected_at: "2026-04-17T18:08:29.044700+00:00"
 ---
 
 ## 문제

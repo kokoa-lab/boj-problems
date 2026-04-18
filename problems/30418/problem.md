@@ -1,13 +1,13 @@
 ---
-title: 나비와 전봇대 (Hard)
-special_judge: false
-time_limit: 4.5 초
-memory_limit: 1024 MB
+title: "나비와 전봇대 (Hard)"
+special_judge: "false"
+time_limit: "4.5 초"
+memory_limit: "1024 MB"
 submissions: 60
 accepted: 9
 solved_users: 5
-acceptance_rate: 31.250%
-collected_at: 2026-04-17T19:06:17.768859+00:00
+acceptance_rate: "31.250%"
+collected_at: "2026-04-17T19:06:17.768859+00:00"
 ---
 
 ## 문제

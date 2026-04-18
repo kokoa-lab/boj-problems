@@ -1,13 +1,13 @@
 ---
-title: Loan Repayment
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Loan Repayment"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 816
 accepted: 224
 solved_users: 188
-acceptance_rate: 28.834%
-collected_at: 2026-04-17T14:59:36.871761+00:00
+acceptance_rate: "28.834%"
+collected_at: "2026-04-17T14:59:36.871761+00:00"
 ---
 
 ## 문제

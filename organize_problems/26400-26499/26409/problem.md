@@ -1,13 +1,13 @@
 ---
-title: Hidden Pool
-special_judge: false
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Hidden Pool"
+special_judge: "false"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 63
 accepted: 8
 solved_users: 8
-acceptance_rate: 12.903%
-collected_at: 2026-04-17T17:45:19.235367+00:00
+acceptance_rate: "12.903%"
+collected_at: "2026-04-17T17:45:19.235367+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Календарь на Альфе Центавра
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Календарь на Альфе Центавра"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 416
 accepted: 222
 solved_users: 204
-acceptance_rate: 58.286%
-collected_at: 2026-04-17T17:16:26.736840+00:00
+acceptance_rate: "58.286%"
+collected_at: "2026-04-17T17:16:26.736840+00:00"
 ---
 
 ## 문제

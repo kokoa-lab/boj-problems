@@ -1,13 +1,13 @@
 ---
-title: 팀명 정하기 2
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "팀명 정하기 2"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 1211
 accepted: 553
 solved_users: 507
-acceptance_rate: 46.901%
-collected_at: 2026-04-17T19:37:22.867771+00:00
+acceptance_rate: "46.901%"
+collected_at: "2026-04-17T19:37:22.867771+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Theater Seating
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Theater Seating"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 56
 accepted: 41
 solved_users: 40
-acceptance_rate: 80.000%
-collected_at: 2026-04-17T11:19:29.000784+00:00
+acceptance_rate: "80.000%"
+collected_at: "2026-04-17T11:19:29.000784+00:00"
 ---
 
 ## 문제

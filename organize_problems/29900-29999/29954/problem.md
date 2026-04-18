@@ -1,13 +1,13 @@
 ---
-title: Lühisõnum 2
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Lühisõnum 2"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 27
 accepted: 26
 solved_users: 26
-acceptance_rate: 96.296%
-collected_at: 2026-04-17T18:56:06.921045+00:00
+acceptance_rate: "96.296%"
+collected_at: "2026-04-17T18:56:06.921045+00:00"
 ---
 
 ## 문제

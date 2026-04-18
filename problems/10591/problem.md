@@ -1,13 +1,13 @@
 ---
-title: Cactus Generator
-special_judge: true
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Cactus Generator"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 48
 accepted: 16
 solved_users: 11
-acceptance_rate: 27.500%
-collected_at: 2026-04-17T12:25:55.232577+00:00
+acceptance_rate: "27.500%"
+collected_at: "2026-04-17T12:25:55.232577+00:00"
 ---
 
 ## 문제

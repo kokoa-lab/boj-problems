@@ -1,13 +1,13 @@
 ---
-title: The Missing Pet
-special_judge: false
-time_limit: 4 초
-memory_limit: 512 MB
+title: "The Missing Pet"
+special_judge: "false"
+time_limit: "4 초"
+memory_limit: "512 MB"
 submissions: 5
 accepted: 1
 solved_users: 1
-acceptance_rate: 100.000%
-collected_at: 2026-04-17T15:38:47.930382+00:00
+acceptance_rate: "100.000%"
+collected_at: "2026-04-17T15:38:47.930382+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 월향 수목원
-special_judge: false
-time_limit: 3.5 초
-memory_limit: 1024 MB
+title: "월향 수목원"
+special_judge: "false"
+time_limit: "3.5 초"
+memory_limit: "1024 MB"
 submissions: 149
 accepted: 38
 solved_users: 12
-acceptance_rate: 27.273%
-collected_at: 2026-04-17T20:45:15.696509+00:00
+acceptance_rate: "27.273%"
+collected_at: "2026-04-17T20:45:15.696509+00:00"
 ---
 
 ## 문제

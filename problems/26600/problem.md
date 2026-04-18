@@ -1,13 +1,13 @@
 ---
-title: map, filter
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "map, filter"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 334
 accepted: 46
 solved_users: 36
-acceptance_rate: 13.793%
-collected_at: 2026-04-17T17:48:39.246609+00:00
+acceptance_rate: "13.793%"
+collected_at: "2026-04-17T17:48:39.246609+00:00"
 ---
 
 ## 문제

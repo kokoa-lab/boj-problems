@@ -1,13 +1,13 @@
 ---
-title: Delivery Service
-special_judge: false
-time_limit: 12 초
-memory_limit: 2048 MB
+title: "Delivery Service"
+special_judge: "false"
+time_limit: "12 초"
+memory_limit: "2048 MB"
 submissions: 16
 accepted: 10
 solved_users: 7
-acceptance_rate: 53.846%
-collected_at: 2026-04-17T20:40:31.781839+00:00
+acceptance_rate: "53.846%"
+collected_at: "2026-04-17T20:40:31.781839+00:00"
 ---
 
 ## 문제

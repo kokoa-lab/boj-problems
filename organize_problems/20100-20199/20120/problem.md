@@ -1,13 +1,13 @@
 ---
-title: 호반우와 리듬게임
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "호반우와 리듬게임"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 994
 accepted: 196
 solved_users: 150
-acceptance_rate: 20.027%
-collected_at: 2026-04-17T15:31:58.985618+00:00
+acceptance_rate: "20.027%"
+collected_at: "2026-04-17T15:31:58.985618+00:00"
 ---
 
 ## 문제

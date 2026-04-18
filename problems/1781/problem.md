@@ -1,13 +1,13 @@
 ---
-title: 컵라면
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "컵라면"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 24515
 accepted: 8795
 solved_users: 6458
-acceptance_rate: 35.253%
-collected_at: 2026-04-17T10:33:30.142684+00:00
+acceptance_rate: "35.253%"
+collected_at: "2026-04-17T10:33:30.142684+00:00"
 ---
 
 ## 문제

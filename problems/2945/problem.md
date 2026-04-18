@@ -1,13 +1,13 @@
 ---
-title: 사과의 개수
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "사과의 개수"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 67
 accepted: 20
 solved_users: 18
-acceptance_rate: 56.250%
-collected_at: 2026-04-17T10:45:50.335623+00:00
+acceptance_rate: "56.250%"
+collected_at: "2026-04-17T10:45:50.335623+00:00"
 ---
 
 ## 문제

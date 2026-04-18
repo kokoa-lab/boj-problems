@@ -1,13 +1,13 @@
 ---
-title: 삼트리스
-special_judge: false
-time_limit: 5 초
-memory_limit: 128 MB
+title: "삼트리스"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "128 MB"
 submissions: 196
 accepted: 2
 solved_users: 2
-acceptance_rate: 11.111%
-collected_at: 2026-04-17T13:26:20.460563+00:00
+acceptance_rate: "11.111%"
+collected_at: "2026-04-17T13:26:20.460563+00:00"
 ---
 
 ## 문제

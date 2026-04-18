@@ -1,13 +1,13 @@
 ---
-title: Jury Jeopardy
-special_judge: false
-time_limit: 3 초
-memory_limit: 256 MB
+title: "Jury Jeopardy"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "256 MB"
 submissions: 119
 accepted: 64
 solved_users: 54
-acceptance_rate: 55.670%
-collected_at: 2026-04-17T12:22:00.669557+00:00
+acceptance_rate: "55.670%"
+collected_at: "2026-04-17T12:22:00.669557+00:00"
 ---
 
 ## 문제

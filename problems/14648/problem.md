@@ -1,13 +1,13 @@
 ---
-title: 쿼리 맛보기
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "쿼리 맛보기"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 3050
 accepted: 1322
 solved_users: 1096
-acceptance_rate: 45.066%
-collected_at: 2026-04-17T13:39:53.419266+00:00
+acceptance_rate: "45.066%"
+collected_at: "2026-04-17T13:39:53.419266+00:00"
 ---
 
 ## 문제

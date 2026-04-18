@@ -1,13 +1,13 @@
 ---
-title: 鉄道運賃 (Train Fare)
-special_judge: false
-time_limit: 2.5 초
-memory_limit: 256 MB
+title: "鉄道運賃 (Train Fare)"
+special_judge: "false"
+time_limit: "2.5 초"
+memory_limit: "256 MB"
 submissions: 170
 accepted: 73
 solved_users: 70
-acceptance_rate: 46.667%
-collected_at: 2026-04-17T12:48:33.887966+00:00
+acceptance_rate: "46.667%"
+collected_at: "2026-04-17T12:48:33.887966+00:00"
 ---
 
 ## 문제

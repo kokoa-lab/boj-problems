@@ -1,13 +1,13 @@
 ---
-title: Fantasia
-special_judge: false
-time_limit: 5 초
-memory_limit: 64 MB
+title: "Fantasia"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "64 MB"
 submissions: 87
 accepted: 14
 solved_users: 14
-acceptance_rate: 16.471%
-collected_at: 2026-04-17T15:19:58.864013+00:00
+acceptance_rate: "16.471%"
+collected_at: "2026-04-17T15:19:58.864013+00:00"
 ---
 
 ## 문제

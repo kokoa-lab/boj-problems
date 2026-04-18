@@ -1,13 +1,13 @@
 ---
-title: 학회원
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "학회원"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 769
 accepted: 288
 solved_users: 222
-acceptance_rate: 38.210%
-collected_at: 2026-04-17T10:52:44.200710+00:00
+acceptance_rate: "38.210%"
+collected_at: "2026-04-17T10:52:44.200710+00:00"
 ---
 
 ## 문제

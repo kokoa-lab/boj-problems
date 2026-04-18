@@ -1,13 +1,13 @@
 ---
-title: Fibonacci Game
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "Fibonacci Game"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 1124
 accepted: 587
 solved_users: 503
-acceptance_rate: 55.519%
-collected_at: 2026-04-17T10:41:08.844527+00:00
+acceptance_rate: "55.519%"
+collected_at: "2026-04-17T10:41:08.844527+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Back to the Future
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Back to the Future"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 143
 accepted: 72
 solved_users: 58
-acceptance_rate: 52.252%
-collected_at: 2026-04-17T13:21:20.398650+00:00
+acceptance_rate: "52.252%"
+collected_at: "2026-04-17T13:21:20.398650+00:00"
 ---
 
 ## 문제

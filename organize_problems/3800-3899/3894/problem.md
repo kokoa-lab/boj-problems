@@ -1,13 +1,13 @@
 ---
-title: 지그재그
-special_judge: true
-time_limit: 3 초
-memory_limit: 128 MB
+title: "지그재그"
+special_judge: "true"
+time_limit: "3 초"
+memory_limit: "128 MB"
 submissions: 44
 accepted: 8
 solved_users: 5
-acceptance_rate: 19.231%
-collected_at: 2026-04-17T10:53:07.070019+00:00
+acceptance_rate: "19.231%"
+collected_at: "2026-04-17T10:53:07.070019+00:00"
 ---
 
 ## 문제

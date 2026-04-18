@@ -1,13 +1,13 @@
 ---
-title: The Motorway
-special_judge: true
-time_limit: 6 초
-memory_limit: 128 MB
+title: "The Motorway"
+special_judge: "true"
+time_limit: "6 초"
+memory_limit: "128 MB"
 submissions: 19
 accepted: 8
 solved_users: 8
-acceptance_rate: 72.727%
-collected_at: 2026-04-17T12:12:58.828800+00:00
+acceptance_rate: "72.727%"
+collected_at: "2026-04-17T12:12:58.828800+00:00"
 ---
 
 ## 문제

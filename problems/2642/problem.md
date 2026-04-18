@@ -1,13 +1,13 @@
 ---
-title: 전개도
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "전개도"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 1222
 accepted: 446
 solved_users: 368
-acceptance_rate: 43.757%
-collected_at: 2026-04-17T10:43:34.620591+00:00
+acceptance_rate: "43.757%"
+collected_at: "2026-04-17T10:43:34.620591+00:00"
 ---
 
 ## 문제

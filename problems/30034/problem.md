@@ -1,13 +1,13 @@
 ---
-title: Slice String
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Slice String"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 1282
 accepted: 573
 solved_users: 487
-acceptance_rate: 47.839%
-collected_at: 2026-04-17T18:57:49.792225+00:00
+acceptance_rate: "47.839%"
+collected_at: "2026-04-17T18:57:49.792225+00:00"
 ---
 
 ## 문제

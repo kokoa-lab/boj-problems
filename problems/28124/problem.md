@@ -1,13 +1,13 @@
 ---
-title: 할래 갈래
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "할래 갈래"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 224
 accepted: 21
 solved_users: 18
-acceptance_rate: 12.500%
-collected_at: 2026-04-17T18:18:29.755981+00:00
+acceptance_rate: "12.500%"
+collected_at: "2026-04-17T18:18:29.755981+00:00"
 ---
 
 ## 문제

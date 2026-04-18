@@ -1,13 +1,13 @@
 ---
-title: 정수를 끝까지 외치자
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "정수를 끝까지 외치자"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 624
 accepted: 188
 solved_users: 130
-acceptance_rate: 33.505%
-collected_at: 2026-04-17T17:26:23.721087+00:00
+acceptance_rate: "33.505%"
+collected_at: "2026-04-17T17:26:23.721087+00:00"
 ---
 
 ## 문제

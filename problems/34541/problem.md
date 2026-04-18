@@ -1,13 +1,13 @@
 ---
-title: Moving Formation
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Moving Formation"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 197
 accepted: 56
 solved_users: 44
-acceptance_rate: 26.036%
-collected_at: 2026-04-17T20:42:23.387711+00:00
+acceptance_rate: "26.036%"
+collected_at: "2026-04-17T20:42:23.387711+00:00"
 ---
 
 ## 문제

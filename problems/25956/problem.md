@@ -1,13 +1,13 @@
 ---
-title: 목차 세기
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "목차 세기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 880
 accepted: 246
 solved_users: 201
-acceptance_rate: 31.854%
-collected_at: 2026-04-17T17:37:34.019898+00:00
+acceptance_rate: "31.854%"
+collected_at: "2026-04-17T17:37:34.019898+00:00"
 ---
 
 ## 문제

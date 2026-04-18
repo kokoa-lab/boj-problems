@@ -1,13 +1,13 @@
 ---
-title: 양념 반 후라이드 반
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "양념 반 후라이드 반"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 5622
 accepted: 3233
 solved_users: 2720
-acceptance_rate: 59.053%
-collected_at: 2026-04-17T14:26:12.427769+00:00
+acceptance_rate: "59.053%"
+collected_at: "2026-04-17T14:26:12.427769+00:00"
 ---
 
 ## 문제

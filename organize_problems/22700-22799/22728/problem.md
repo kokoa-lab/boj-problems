@@ -1,13 +1,13 @@
 ---
-title: Amida, the City of Miracle
-special_judge: false
-time_limit: 8 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "Amida, the City of Miracle"
+special_judge: "false"
+time_limit: "8 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 96
 accepted: 42
 solved_users: 40
-acceptance_rate: 48.780%
-collected_at: 2026-04-17T16:33:03.544196+00:00
+acceptance_rate: "48.780%"
+collected_at: "2026-04-17T16:33:03.544196+00:00"
 ---
 
 ## 문제

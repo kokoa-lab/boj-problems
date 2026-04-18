@@ -1,13 +1,13 @@
 ---
-title: 김치
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "김치"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 2775
 accepted: 1028
 solved_users: 742
-acceptance_rate: 36.606%
-collected_at: 2026-04-17T12:34:43.853172+00:00
+acceptance_rate: "36.606%"
+collected_at: "2026-04-17T12:34:43.853172+00:00"
 ---
 
 ## 문제

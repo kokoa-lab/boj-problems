@@ -1,13 +1,13 @@
 ---
-title: 얼마?
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "얼마?"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 10559
 accepted: 8581
 solved_users: 7901
-acceptance_rate: 81.944%
-collected_at: 2026-04-17T12:08:55.227828+00:00
+acceptance_rate: "81.944%"
+collected_at: "2026-04-17T12:08:55.227828+00:00"
 ---
 
 ## 문제

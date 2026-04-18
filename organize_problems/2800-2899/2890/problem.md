@@ -1,13 +1,13 @@
 ---
-title: 카약
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "카약"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 3030
 accepted: 1649
 solved_users: 1481
-acceptance_rate: 58.957%
-collected_at: 2026-04-17T10:45:30.849568+00:00
+acceptance_rate: "58.957%"
+collected_at: "2026-04-17T10:45:30.849568+00:00"
 ---
 
 ## 문제

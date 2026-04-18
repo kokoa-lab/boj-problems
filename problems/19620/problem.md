@@ -1,13 +1,13 @@
 ---
-title: 즐거운 행로
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "즐거운 행로"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 72
 accepted: 13
 solved_users: 12
-acceptance_rate: 21.053%
-collected_at: 2026-04-17T15:25:11.599895+00:00
+acceptance_rate: "21.053%"
+collected_at: "2026-04-17T15:25:11.599895+00:00"
 ---
 
 ## 문제

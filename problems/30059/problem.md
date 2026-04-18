@@ -1,13 +1,13 @@
 ---
-title: YouTube
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "YouTube"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 67
 accepted: 19
 solved_users: 14
-acceptance_rate: 25.455%
-collected_at: 2026-04-17T18:58:18.012235+00:00
+acceptance_rate: "25.455%"
+collected_at: "2026-04-17T18:58:18.012235+00:00"
 ---
 
 ## 문제

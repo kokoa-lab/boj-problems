@@ -1,13 +1,13 @@
 ---
-title: 대나무숲
-special_judge: false
-time_limit: 3 초
-memory_limit: 1024 MB
+title: "대나무숲"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "1024 MB"
 submissions: 94
 accepted: 40
 solved_users: 39
-acceptance_rate: 52.000%
-collected_at: 2026-04-17T16:39:39.190053+00:00
+acceptance_rate: "52.000%"
+collected_at: "2026-04-17T16:39:39.190053+00:00"
 ---
 
 ## 문제

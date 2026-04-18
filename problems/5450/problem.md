@@ -1,13 +1,13 @@
 ---
-title: Imagine
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Imagine"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 28
 accepted: 15
 solved_users: 13
-acceptance_rate: 54.167%
-collected_at: 2026-04-17T11:14:03.347250+00:00
+acceptance_rate: "54.167%"
+collected_at: "2026-04-17T11:14:03.347250+00:00"
 ---
 
 ## 문제

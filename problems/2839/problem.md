@@ -1,13 +1,13 @@
 ---
-title: 설탕 배달
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "설탕 배달"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 398515
 accepted: 158507
 solved_users: 116692
-acceptance_rate: 38.973%
-collected_at: 2026-04-17T10:45:13.440428+00:00
+acceptance_rate: "38.973%"
+collected_at: "2026-04-17T10:45:13.440428+00:00"
 ---
 
 ## 문제

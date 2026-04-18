@@ -1,13 +1,13 @@
 ---
-title: 알고리즘 수업 - 선택 알고리즘 4
-special_judge: false
-time_limit: 3.5 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "알고리즘 수업 - 선택 알고리즘 4"
+special_judge: "false"
+time_limit: "3.5 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 523
 accepted: 102
 solved_users: 46
-acceptance_rate: 14.154%
-collected_at: 2026-04-17T17:09:31.556877+00:00
+acceptance_rate: "14.154%"
+collected_at: "2026-04-17T17:09:31.556877+00:00"
 ---
 
 ## 문제

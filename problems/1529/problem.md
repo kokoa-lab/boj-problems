@@ -1,13 +1,13 @@
 ---
-title: 동민 수열
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "동민 수열"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 488
 accepted: 162
 solved_users: 125
-acceptance_rate: 31.486%
-collected_at: 2026-04-17T10:30:55.346256+00:00
+acceptance_rate: "31.486%"
+collected_at: "2026-04-17T10:30:55.346256+00:00"
 ---
 
 ## 문제

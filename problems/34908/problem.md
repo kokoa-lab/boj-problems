@@ -1,13 +1,13 @@
 ---
-title: 67
-special_judge: false
-time_limit: 5 초
-memory_limit: 2048 MB
+title: "67"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "2048 MB"
 submissions: 40
 accepted: 27
 solved_users: 26
-acceptance_rate: 66.667%
-collected_at: 2026-04-17T20:51:46.621691+00:00
+acceptance_rate: "66.667%"
+collected_at: "2026-04-17T20:51:46.621691+00:00"
 ---
 
 ## 문제

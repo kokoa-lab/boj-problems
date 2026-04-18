@@ -1,13 +1,13 @@
 ---
-title: Delivery Forces
-special_judge: false
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Delivery Forces"
+special_judge: "false"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 73
 accepted: 53
 solved_users: 46
-acceptance_rate: 75.410%
-collected_at: 2026-04-17T19:09:31.555543+00:00
+acceptance_rate: "75.410%"
+collected_at: "2026-04-17T19:09:31.555543+00:00"
 ---
 
 ## 문제

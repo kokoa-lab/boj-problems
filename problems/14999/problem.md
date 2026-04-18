@@ -1,13 +1,13 @@
 ---
-title: Leapfrog
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Leapfrog"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 58
 accepted: 24
 solved_users: 20
-acceptance_rate: 57.143%
-collected_at: 2026-04-17T13:47:55.297740+00:00
+acceptance_rate: "57.143%"
+collected_at: "2026-04-17T13:47:55.297740+00:00"
 ---
 
 ## 문제

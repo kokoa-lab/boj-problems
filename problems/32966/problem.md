@@ -1,13 +1,13 @@
 ---
-title: 괄호 문자열 편집기
-special_judge: false
-time_limit: 3 초
-memory_limit: 2048 MB
+title: "괄호 문자열 편집기"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "2048 MB"
 submissions: 135
 accepted: 22
 solved_users: 14
-acceptance_rate: 24.138%
-collected_at: 2026-04-17T20:06:21.713970+00:00
+acceptance_rate: "24.138%"
+collected_at: "2026-04-17T20:06:21.713970+00:00"
 ---
 
 ## 문제

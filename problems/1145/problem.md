@@ -1,13 +1,13 @@
 ---
-title: 적어도 대부분의 배수
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "적어도 대부분의 배수"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 17460
 accepted: 11103
 solved_users: 9536
-acceptance_rate: 64.585%
-collected_at: 2026-04-17T10:28:27.565651+00:00
+acceptance_rate: "64.585%"
+collected_at: "2026-04-17T10:28:27.565651+00:00"
 ---
 
 ## 문제

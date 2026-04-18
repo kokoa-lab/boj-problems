@@ -1,13 +1,13 @@
 ---
-title: 피라미드
-special_judge: true
-time_limit: 2 초
-memory_limit: 128 MB
+title: "피라미드"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 75
 accepted: 34
 solved_users: 23
-acceptance_rate: 53.488%
-collected_at: 2026-04-17T10:37:25.390558+00:00
+acceptance_rate: "53.488%"
+collected_at: "2026-04-17T10:37:25.390558+00:00"
 ---
 
 ## 문제

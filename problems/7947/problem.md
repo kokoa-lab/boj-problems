@@ -1,13 +1,13 @@
 ---
-title: Koncert
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Koncert"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 601
 accepted: 415
 solved_users: 370
-acceptance_rate: 69.680%
-collected_at: 2026-04-17T11:54:30.290376+00:00
+acceptance_rate: "69.680%"
+collected_at: "2026-04-17T11:54:30.290376+00:00"
 ---
 
 ## 문제

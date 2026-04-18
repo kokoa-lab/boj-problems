@@ -1,13 +1,13 @@
 ---
-title: Off the Rails
-special_judge: true
-time_limit: 5 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "Off the Rails"
+special_judge: "true"
+time_limit: "5 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 12
 accepted: 8
 solved_users: 8
-acceptance_rate: 66.667%
-collected_at: 2026-04-17T13:58:24.727267+00:00
+acceptance_rate: "66.667%"
+collected_at: "2026-04-17T13:58:24.727267+00:00"
 ---
 
 ## 문제

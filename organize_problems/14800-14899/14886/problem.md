@@ -1,13 +1,13 @@
 ---
-title: 직사각형 색칠
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "직사각형 색칠"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 34
 accepted: 11
 solved_users: 11
-acceptance_rate: 40.741%
-collected_at: 2026-04-17T13:44:07.698239+00:00
+acceptance_rate: "40.741%"
+collected_at: "2026-04-17T13:44:07.698239+00:00"
 ---
 
 ## 문제

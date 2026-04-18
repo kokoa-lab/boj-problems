@@ -1,13 +1,13 @@
 ---
-title: 치삼이의 징검다리 건너기
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "치삼이의 징검다리 건너기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 435
 accepted: 153
 solved_users: 119
-acceptance_rate: 34.393%
-collected_at: 2026-04-17T14:56:12.387241+00:00
+acceptance_rate: "34.393%"
+collected_at: "2026-04-17T14:56:12.387241+00:00"
 ---
 
 ## 문제

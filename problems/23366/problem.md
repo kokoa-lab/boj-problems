@@ -1,13 +1,13 @@
 ---
-title: Candy Contribution
-special_judge: false
-time_limit: 3 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Candy Contribution"
+special_judge: "false"
+time_limit: "3 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 164
 accepted: 89
 solved_users: 79
-acceptance_rate: 53.378%
-collected_at: 2026-04-17T16:46:52.477169+00:00
+acceptance_rate: "53.378%"
+collected_at: "2026-04-17T16:46:52.477169+00:00"
 ---
 
 ## 문제

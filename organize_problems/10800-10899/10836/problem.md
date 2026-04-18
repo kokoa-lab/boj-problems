@@ -1,13 +1,13 @@
 ---
-title: 여왕벌
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "여왕벌"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 8315
 accepted: 2739
 solved_users: 1835
-acceptance_rate: 32.318%
-collected_at: 2026-04-17T12:30:13.896804+00:00
+acceptance_rate: "32.318%"
+collected_at: "2026-04-17T12:30:13.896804+00:00"
 ---
 
 ## 문제

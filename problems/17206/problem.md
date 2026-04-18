@@ -1,13 +1,13 @@
 ---
-title: 준석이의 수학 숙제
-special_judge: false
-time_limit: 0.5 초
-memory_limit: 256 MB
+title: "준석이의 수학 숙제"
+special_judge: "false"
+time_limit: "0.5 초"
+memory_limit: "256 MB"
 submissions: 3377
 accepted: 1343
 solved_users: 1156
-acceptance_rate: 41.899%
-collected_at: 2026-04-17T14:33:00.228475+00:00
+acceptance_rate: "41.899%"
+collected_at: "2026-04-17T14:33:00.228475+00:00"
 ---
 
 ## 문제

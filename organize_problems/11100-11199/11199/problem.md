@@ -1,13 +1,13 @@
 ---
-title: Bank Queue
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Bank Queue"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 415
 accepted: 190
 solved_users: 101
-acceptance_rate: 37.687%
-collected_at: 2026-04-17T12:37:57.293404+00:00
+acceptance_rate: "37.687%"
+collected_at: "2026-04-17T12:37:57.293404+00:00"
 ---
 
 ## 문제

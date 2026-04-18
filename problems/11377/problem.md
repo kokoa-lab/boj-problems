@@ -1,13 +1,13 @@
 ---
-title: 열혈강호 3
-special_judge: false
-time_limit: 3 초
-memory_limit: 256 MB
+title: "열혈강호 3"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "256 MB"
 submissions: 8986
 accepted: 3819
 solved_users: 2700
-acceptance_rate: 41.127%
-collected_at: 2026-04-17T12:40:02.561777+00:00
+acceptance_rate: "41.127%"
+collected_at: "2026-04-17T12:40:02.561777+00:00"
 ---
 
 ## 문제

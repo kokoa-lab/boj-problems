@@ -1,13 +1,13 @@
 ---
-title: 초등 수학
-special_judge: true
-time_limit: 10 초
-memory_limit: 256 MB
+title: "초등 수학"
+special_judge: "true"
+time_limit: "10 초"
+memory_limit: "256 MB"
 submissions: 739
 accepted: 340
 solved_users: 284
-acceptance_rate: 44.795%
-collected_at: 2026-04-17T12:43:47.814276+00:00
+acceptance_rate: "44.795%"
+collected_at: "2026-04-17T12:43:47.814276+00:00"
 ---
 
 ## 문제

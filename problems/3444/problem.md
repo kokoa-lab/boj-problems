@@ -1,13 +1,13 @@
 ---
-title: Robotic Sort
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Robotic Sort"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 916
 accepted: 415
 solved_users: 255
-acceptance_rate: 42.714%
-collected_at: 2026-04-17T10:48:55.870083+00:00
+acceptance_rate: "42.714%"
+collected_at: "2026-04-17T10:48:55.870083+00:00"
 ---
 
 ## 문제

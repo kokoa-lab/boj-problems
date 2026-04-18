@@ -1,13 +1,13 @@
 ---
-title: Sixth Sense
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Sixth Sense"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 149
 accepted: 71
 solved_users: 60
-acceptance_rate: 57.692%
-collected_at: 2026-04-17T14:23:24.407753+00:00
+acceptance_rate: "57.692%"
+collected_at: "2026-04-17T14:23:24.407753+00:00"
 ---
 
 ## 문제

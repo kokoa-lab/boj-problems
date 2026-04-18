@@ -1,13 +1,13 @@
 ---
-title: Hiring Employees
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Hiring Employees"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 24
 accepted: 14
 solved_users: 14
-acceptance_rate: 63.636%
-collected_at: 2026-04-17T14:37:22.977127+00:00
+acceptance_rate: "63.636%"
+collected_at: "2026-04-17T14:37:22.977127+00:00"
 ---
 
 ## 문제

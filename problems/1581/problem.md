@@ -1,13 +1,13 @@
 ---
-title: 락스타 락동호
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "락스타 락동호"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 1037
 accepted: 383
 solved_users: 321
-acceptance_rate: 35.627%
-collected_at: 2026-04-17T10:31:21.393409+00:00
+acceptance_rate: "35.627%"
+collected_at: "2026-04-17T10:31:21.393409+00:00"
 ---
 
 ## 문제

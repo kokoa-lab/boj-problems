@@ -1,13 +1,13 @@
 ---
-title: 킹, 퀸, 룩, 비숍, 나이트, 폰
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "킹, 퀸, 룩, 비숍, 나이트, 폰"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 163642
 accepted: 97902
 solved_users: 85691
-acceptance_rate: 60.492%
-collected_at: 2026-04-17T10:46:10.565817+00:00
+acceptance_rate: "60.492%"
+collected_at: "2026-04-17T10:46:10.565817+00:00"
 ---
 
 ## 문제

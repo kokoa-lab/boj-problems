@@ -1,13 +1,13 @@
 ---
-title: Exciting Menus
-special_judge: false
-time_limit: 4 초
-memory_limit: 512 MB
+title: "Exciting Menus"
+special_judge: "false"
+time_limit: "4 초"
+memory_limit: "512 MB"
 submissions: 26
 accepted: 10
 solved_users: 10
-acceptance_rate: 41.667%
-collected_at: 2026-04-17T15:08:42.948741+00:00
+acceptance_rate: "41.667%"
+collected_at: "2026-04-17T15:08:42.948741+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Vacant Seat
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "Vacant Seat"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 65
 accepted: 34
 solved_users: 30
-acceptance_rate: 50.000%
-collected_at: 2026-04-17T15:16:02.983819+00:00
+acceptance_rate: "50.000%"
+collected_at: "2026-04-17T15:16:02.983819+00:00"
 ---
 
 ## 문제

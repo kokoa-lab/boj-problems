@@ -1,13 +1,13 @@
 ---
-title: 파리채 만들기
-special_judge: true
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "파리채 만들기"
+special_judge: "true"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 545
 accepted: 250
 solved_users: 145
-acceptance_rate: 43.027%
-collected_at: 2026-04-17T14:39:24.259547+00:00
+acceptance_rate: "43.027%"
+collected_at: "2026-04-17T14:39:24.259547+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Identifying Map Tiles
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Identifying Map Tiles"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 336
 accepted: 277
 solved_users: 244
-acceptance_rate: 84.722%
-collected_at: 2026-04-17T12:43:50.941623+00:00
+acceptance_rate: "84.722%"
+collected_at: "2026-04-17T12:43:50.941623+00:00"
 ---
 
 ## 문제

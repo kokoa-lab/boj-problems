@@ -1,13 +1,13 @@
 ---
-title: Line Counting
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Line Counting"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 54
 accepted: 20
 solved_users: 9
-acceptance_rate: 29.032%
-collected_at: 2026-04-17T15:19:40.178342+00:00
+acceptance_rate: "29.032%"
+collected_at: "2026-04-17T15:19:40.178342+00:00"
 ---
 
 ## 문제

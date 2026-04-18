@@ -1,13 +1,13 @@
 ---
-title: Morse Code
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Morse Code"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 386
 accepted: 257
 solved_users: 233
-acceptance_rate: 73.502%
-collected_at: 2026-04-17T12:08:36.648094+00:00
+acceptance_rate: "73.502%"
+collected_at: "2026-04-17T12:08:36.648094+00:00"
 ---
 
 ## 문제

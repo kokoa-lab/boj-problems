@@ -1,13 +1,13 @@
 ---
-title: 타일 교체
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "타일 교체"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 1670
 accepted: 332
 solved_users: 253
-acceptance_rate: 23.297%
-collected_at: 2026-04-17T14:42:55.057512+00:00
+acceptance_rate: "23.297%"
+collected_at: "2026-04-17T14:42:55.057512+00:00"
 ---
 
 ## 문제

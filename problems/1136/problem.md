@@ -1,13 +1,13 @@
 ---
-title: 조각 놓기
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "조각 놓기"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 316
 accepted: 86
 solved_users: 61
-acceptance_rate: 24.303%
-collected_at: 2026-04-17T10:28:23.488527+00:00
+acceptance_rate: "24.303%"
+collected_at: "2026-04-17T10:28:23.488527+00:00"
 ---
 
 ## 문제

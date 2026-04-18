@@ -1,13 +1,13 @@
 ---
-title: Backpack Buddies
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Backpack Buddies"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 37
 accepted: 20
 solved_users: 15
-acceptance_rate: 48.387%
-collected_at: 2026-04-17T14:49:45.359697+00:00
+acceptance_rate: "48.387%"
+collected_at: "2026-04-17T14:49:45.359697+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Balloons
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Balloons"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 139
 accepted: 61
 solved_users: 59
-acceptance_rate: 55.660%
-collected_at: 2026-04-17T10:55:47.143760+00:00
+acceptance_rate: "55.660%"
+collected_at: "2026-04-17T10:55:47.143760+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Zrinka
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Zrinka"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 57
 accepted: 35
 solved_users: 29
-acceptance_rate: 61.702%
-collected_at: 2026-04-17T18:06:14.620052+00:00
+acceptance_rate: "61.702%"
+collected_at: "2026-04-17T18:06:14.620052+00:00"
 ---
 
 ## 문제

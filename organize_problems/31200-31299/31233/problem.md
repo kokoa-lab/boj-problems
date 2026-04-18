@@ -1,13 +1,13 @@
 ---
-title: 관광 상품
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "관광 상품"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 397
 accepted: 215
 solved_users: 196
-acceptance_rate: 60.494%
-collected_at: 2026-04-17T19:24:11.398108+00:00
+acceptance_rate: "60.494%"
+collected_at: "2026-04-17T19:24:11.398108+00:00"
 ---
 
 ## 문제

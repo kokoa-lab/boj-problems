@@ -1,13 +1,13 @@
 ---
-title: Byteland Worldbeat Publishers
-special_judge: false
-time_limit: 5 초
-memory_limit: 128 MB
+title: "Byteland Worldbeat Publishers"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "128 MB"
 submissions: 58
 accepted: 13
 solved_users: 13
-acceptance_rate: 23.636%
-collected_at: 2026-04-17T11:58:06.542774+00:00
+acceptance_rate: "23.636%"
+collected_at: "2026-04-17T11:58:06.542774+00:00"
 ---
 
 ## 문제

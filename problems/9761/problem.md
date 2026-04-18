@@ -1,13 +1,13 @@
 ---
-title: 2D Max Filter
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "2D Max Filter"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 9
 accepted: 4
 solved_users: 4
-acceptance_rate: 44.444%
-collected_at: 2026-04-17T12:14:08.962780+00:00
+acceptance_rate: "44.444%"
+collected_at: "2026-04-17T12:14:08.962780+00:00"
 ---
 
 ## 문제

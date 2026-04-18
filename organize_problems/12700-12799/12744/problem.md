@@ -1,13 +1,13 @@
 ---
-title: 팬케이크 쌓기
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "팬케이크 쌓기"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 374
 accepted: 185
 solved_users: 97
-acceptance_rate: 40.417%
-collected_at: 2026-04-17T13:00:37.838470+00:00
+acceptance_rate: "40.417%"
+collected_at: "2026-04-17T13:00:37.838470+00:00"
 ---
 
 ## 문제

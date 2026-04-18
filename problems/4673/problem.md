@@ -1,13 +1,13 @@
 ---
-title: 셀프 넘버
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "셀프 넘버"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 192650
 accepted: 97719
 solved_users: 75924
-acceptance_rate: 49.871%
-collected_at: 2026-04-17T11:06:53.656416+00:00
+acceptance_rate: "49.871%"
+collected_at: "2026-04-17T11:06:53.656416+00:00"
 ---
 
 ## 문제

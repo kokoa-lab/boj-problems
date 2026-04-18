@@ -1,13 +1,13 @@
 ---
-title: DISPER
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "DISPER"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 159
 accepted: 17
 solved_users: 16
-acceptance_rate: 15.534%
-collected_at: 2026-04-17T15:02:38.618700+00:00
+acceptance_rate: "15.534%"
+collected_at: "2026-04-17T15:02:38.618700+00:00"
 ---
 
 ## 문제

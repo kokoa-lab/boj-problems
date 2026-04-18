@@ -1,13 +1,13 @@
 ---
-title: 하늘에서 떨어지는 1, 2, ..., R-L+1개의 별
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "하늘에서 떨어지는 1, 2, ..., R-L+1개의 별"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 5693
 accepted: 2108
 solved_users: 1599
-acceptance_rate: 35.050%
-collected_at: 2026-04-17T14:37:39.200289+00:00
+acceptance_rate: "35.050%"
+collected_at: "2026-04-17T14:37:39.200289+00:00"
 ---
 
 ## 문제

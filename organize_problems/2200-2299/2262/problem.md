@@ -1,13 +1,13 @@
 ---
-title: 토너먼트 만들기
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "토너먼트 만들기"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 2397
 accepted: 1190
 solved_users: 972
-acceptance_rate: 51.979%
-collected_at: 2026-04-17T10:40:02.894177+00:00
+acceptance_rate: "51.979%"
+collected_at: "2026-04-17T10:40:02.894177+00:00"
 ---
 
 ## 문제

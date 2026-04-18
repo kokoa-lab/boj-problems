@@ -1,13 +1,13 @@
 ---
-title: pqr
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "pqr"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 544
 accepted: 133
 solved_users: 92
-acceptance_rate: 39.316%
-collected_at: 2026-04-17T13:04:54.271744+00:00
+acceptance_rate: "39.316%"
+collected_at: "2026-04-17T13:04:54.271744+00:00"
 ---
 
 ## 문제

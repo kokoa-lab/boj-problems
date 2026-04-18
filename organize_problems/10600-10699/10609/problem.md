@@ -1,13 +1,13 @@
 ---
-title: Line Fiting
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "Line Fiting"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 12
 accepted: 4
 solved_users: 3
-acceptance_rate: 100.000%
-collected_at: 2026-04-17T12:26:13.333476+00:00
+acceptance_rate: "100.000%"
+collected_at: "2026-04-17T12:26:13.333476+00:00"
 ---
 
 ## 문제

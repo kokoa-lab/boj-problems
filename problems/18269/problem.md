@@ -1,13 +1,13 @@
 ---
-title: Where Am I?
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Where Am I?"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 1485
 accepted: 700
 solved_users: 613
-acceptance_rate: 49.396%
-collected_at: 2026-04-17T14:58:17.860153+00:00
+acceptance_rate: "49.396%"
+collected_at: "2026-04-17T14:58:17.860153+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 내한 공연
-special_judge: true
-time_limit: 1 초
-memory_limit: 128 MB
+title: "내한 공연"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 373
 accepted: 168
 solved_users: 133
-acceptance_rate: 47.163%
-collected_at: 2026-04-17T10:46:07.769855+00:00
+acceptance_rate: "47.163%"
+collected_at: "2026-04-17T10:46:07.769855+00:00"
 ---
 
 ## 문제

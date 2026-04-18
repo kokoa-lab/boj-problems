@@ -1,13 +1,13 @@
 ---
-title: Endless BFS
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Endless BFS"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 67
 accepted: 25
 solved_users: 23
-acceptance_rate: 76.667%
-collected_at: 2026-04-17T14:24:39.803874+00:00
+acceptance_rate: "76.667%"
+collected_at: "2026-04-17T14:24:39.803874+00:00"
 ---
 
 ## 문제

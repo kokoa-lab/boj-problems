@@ -1,13 +1,13 @@
 ---
-title: Programiranje
-special_judge: false
-time_limit: 3 초
-memory_limit: 128 MB
+title: "Programiranje"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "128 MB"
 submissions: 227
 accepted: 131
 solved_users: 113
-acceptance_rate: 64.205%
-collected_at: 2026-04-17T13:57:44.840671+00:00
+acceptance_rate: "64.205%"
+collected_at: "2026-04-17T13:57:44.840671+00:00"
 ---
 
 ## 문제

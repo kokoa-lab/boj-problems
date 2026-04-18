@@ -1,13 +1,13 @@
 ---
-title: Chasing
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Chasing"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 300
 accepted: 59
 solved_users: 42
-acceptance_rate: 18.834%
-collected_at: 2026-04-17T12:38:39.570763+00:00
+acceptance_rate: "18.834%"
+collected_at: "2026-04-17T12:38:39.570763+00:00"
 ---
 
 ## 문제

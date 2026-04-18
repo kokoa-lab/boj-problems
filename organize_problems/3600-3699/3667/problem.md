@@ -1,13 +1,13 @@
 ---
-title: Selling Land
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Selling Land"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 52
 accepted: 22
 solved_users: 14
-acceptance_rate: 37.838%
-collected_at: 2026-04-17T10:50:44.012086+00:00
+acceptance_rate: "37.838%"
+collected_at: "2026-04-17T10:50:44.012086+00:00"
 ---
 
 ## 문제

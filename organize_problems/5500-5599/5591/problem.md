@@ -1,13 +1,13 @@
 ---
-title: 最大の和
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "最大の和"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 466
 accepted: 317
 solved_users: 274
-acceptance_rate: 69.543%
-collected_at: 2026-04-17T11:15:47.673220+00:00
+acceptance_rate: "69.543%"
+collected_at: "2026-04-17T11:15:47.673220+00:00"
 ---
 
 ## 문제

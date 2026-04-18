@@ -1,13 +1,13 @@
 ---
-title: Экспресс 20/19
-special_judge: false
-time_limit: 3 초
-memory_limit: 1024 MB
+title: "Экспресс 20/19"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "1024 MB"
 submissions: 119
 accepted: 15
 solved_users: 13
-acceptance_rate: 20.635%
-collected_at: 2026-04-17T15:29:11.903770+00:00
+acceptance_rate: "20.635%"
+collected_at: "2026-04-17T15:29:11.903770+00:00"
 ---
 
 ## 문제

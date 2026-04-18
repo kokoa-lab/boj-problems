@@ -1,13 +1,13 @@
 ---
-title: 조합 (Combination)
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 256 MB
+title: "조합 (Combination)"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "256 MB"
 submissions: 3559
 accepted: 1764
 solved_users: 1503
-acceptance_rate: 60.386%
-collected_at: 2026-04-17T14:12:03.673890+00:00
+acceptance_rate: "60.386%"
+collected_at: "2026-04-17T14:12:03.673890+00:00"
 ---
 
 ## 문제

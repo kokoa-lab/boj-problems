@@ -1,13 +1,13 @@
 ---
-title: 거듭제곱의 합 2
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "거듭제곱의 합 2"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 303
 accepted: 186
 solved_users: 62
-acceptance_rate: 52.991%
-collected_at: 2026-04-17T18:00:15.555210+00:00
+acceptance_rate: "52.991%"
+collected_at: "2026-04-17T18:00:15.555210+00:00"
 ---
 
 ## 문제

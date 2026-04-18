@@ -1,13 +1,13 @@
 ---
-title: 상수
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "상수"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 192458
 accepted: 131668
 solved_users: 111466
-acceptance_rate: 68.607%
-collected_at: 2026-04-17T10:45:37.619434+00:00
+acceptance_rate: "68.607%"
+collected_at: "2026-04-17T10:45:37.619434+00:00"
 ---
 
 ## 문제

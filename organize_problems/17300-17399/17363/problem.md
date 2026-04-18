@@ -1,13 +1,13 @@
 ---
-title: 우유가 넘어지면?
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "우유가 넘어지면?"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 3572
 accepted: 2097
 solved_users: 1860
-acceptance_rate: 61.224%
-collected_at: 2026-04-17T14:37:53.877229+00:00
+acceptance_rate: "61.224%"
+collected_at: "2026-04-17T14:37:53.877229+00:00"
 ---
 
 ## 문제

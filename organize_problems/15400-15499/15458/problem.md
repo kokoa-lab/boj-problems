@@ -1,13 +1,13 @@
 ---
-title: Barn Painting
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Barn Painting"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 822
 accepted: 405
 solved_users: 308
-acceptance_rate: 44.189%
-collected_at: 2026-04-17T13:59:46.371428+00:00
+acceptance_rate: "44.189%"
+collected_at: "2026-04-17T13:59:46.371428+00:00"
 ---
 
 ## 문제

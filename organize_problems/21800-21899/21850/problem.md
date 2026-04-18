@@ -1,13 +1,13 @@
 ---
-title: The Xana coup
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "The Xana coup"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 73
 accepted: 43
 solved_users: 38
-acceptance_rate: 71.698%
-collected_at: 2026-04-17T16:08:51.935856+00:00
+acceptance_rate: "71.698%"
+collected_at: "2026-04-17T16:08:51.935856+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Ennichi
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Ennichi"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 34
 accepted: 11
 solved_users: 11
-acceptance_rate: 35.484%
-collected_at: 2026-04-17T16:26:23.016144+00:00
+acceptance_rate: "35.484%"
+collected_at: "2026-04-17T16:26:23.016144+00:00"
 ---
 
 ## 문제

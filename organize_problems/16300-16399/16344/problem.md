@@ -1,13 +1,13 @@
 ---
-title: Numbers Generator
-special_judge: true
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Numbers Generator"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 51
 accepted: 13
 solved_users: 7
-acceptance_rate: 25.926%
-collected_at: 2026-04-17T14:16:10.282686+00:00
+acceptance_rate: "25.926%"
+collected_at: "2026-04-17T14:16:10.282686+00:00"
 ---
 
 ## 문제

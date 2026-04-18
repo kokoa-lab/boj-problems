@@ -1,13 +1,13 @@
 ---
-title: Custodial Cleanup
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Custodial Cleanup"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 87
 accepted: 31
 solved_users: 20
-acceptance_rate: 35.088%
-collected_at: 2026-04-17T18:16:59.247076+00:00
+acceptance_rate: "35.088%"
+collected_at: "2026-04-17T18:16:59.247076+00:00"
 ---
 
 ## 문제

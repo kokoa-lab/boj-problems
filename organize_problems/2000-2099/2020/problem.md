@@ -1,13 +1,13 @@
 ---
-title: 부분 염기서열
-special_judge: false
-time_limit: 2 초
-memory_limit: 16 MB
+title: "부분 염기서열"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "16 MB"
 submissions: 546
 accepted: 96
 solved_users: 71
-acceptance_rate: 25.725%
-collected_at: 2026-04-17T10:37:20.942639+00:00
+acceptance_rate: "25.725%"
+collected_at: "2026-04-17T10:37:20.942639+00:00"
 ---
 
 ## 문제

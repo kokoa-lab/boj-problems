@@ -1,13 +1,13 @@
 ---
-title: 배수와 약수
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "배수와 약수"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 87757
 accepted: 53740
 solved_users: 48984
-acceptance_rate: 61.834%
-collected_at: 2026-04-17T11:11:23.266598+00:00
+acceptance_rate: "61.834%"
+collected_at: "2026-04-17T11:11:23.266598+00:00"
 ---
 
 ## 문제

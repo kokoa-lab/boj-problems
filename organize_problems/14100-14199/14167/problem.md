@@ -1,13 +1,13 @@
 ---
-title: Moocast
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Moocast"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 716
 accepted: 472
 solved_users: 406
-acceptance_rate: 66.776%
-collected_at: 2026-04-17T13:27:14.524958+00:00
+acceptance_rate: "66.776%"
+collected_at: "2026-04-17T13:27:14.524958+00:00"
 ---
 
 ## 문제

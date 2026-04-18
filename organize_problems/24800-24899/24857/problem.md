@@ -1,13 +1,13 @@
 ---
-title: How Many Strings Are Less
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "How Many Strings Are Less"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 72
 accepted: 20
 solved_users: 13
-acceptance_rate: 56.522%
-collected_at: 2026-04-17T17:16:12.943344+00:00
+acceptance_rate: "56.522%"
+collected_at: "2026-04-17T17:16:12.943344+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Explore space
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "Explore space"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 439
 accepted: 158
 solved_users: 110
-acceptance_rate: 38.732%
-collected_at: 2026-04-17T13:39:21.605321+00:00
+acceptance_rate: "38.732%"
+collected_at: "2026-04-17T13:39:21.605321+00:00"
 ---
 
 ## 문제

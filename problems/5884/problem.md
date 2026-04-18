@@ -1,13 +1,13 @@
 ---
-title: 감시 카메라
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "감시 카메라"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 733
 accepted: 287
 solved_users: 225
-acceptance_rate: 46.488%
-collected_at: 2026-04-17T11:18:15.859634+00:00
+acceptance_rate: "46.488%"
+collected_at: "2026-04-17T11:18:15.859634+00:00"
 ---
 
 ## 문제

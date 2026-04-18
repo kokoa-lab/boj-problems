@@ -1,13 +1,13 @@
 ---
-title: Numbers are Easy
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Numbers are Easy"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 408
 accepted: 181
 solved_users: 148
-acceptance_rate: 45.538%
-collected_at: 2026-04-17T12:39:40.008267+00:00
+acceptance_rate: "45.538%"
+collected_at: "2026-04-17T12:39:40.008267+00:00"
 ---
 
 ## 문제

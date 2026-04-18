@@ -1,13 +1,13 @@
 ---
-title: 아즈텍의 섬
-special_judge: false
-time_limit: 5 초 (추가 시간 없음)
-memory_limit: 1536 MB
+title: "아즈텍의 섬"
+special_judge: "false"
+time_limit: "5 초 (추가 시간 없음)"
+memory_limit: "1536 MB"
 submissions: 54
 accepted: 16
 solved_users: 12
-acceptance_rate: 30.000%
-collected_at: 2026-04-17T16:05:17.953300+00:00
+acceptance_rate: "30.000%"
+collected_at: "2026-04-17T16:05:17.953300+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Little Shop of Flowers
-special_judge: true
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Little Shop of Flowers"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 79
 accepted: 35
 solved_users: 25
-acceptance_rate: 56.818%
-collected_at: 2026-04-17T11:43:12.639095+00:00
+acceptance_rate: "56.818%"
+collected_at: "2026-04-17T11:43:12.639095+00:00"
 ---
 
 ## 문제

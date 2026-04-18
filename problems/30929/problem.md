@@ -1,13 +1,13 @@
 ---
-title: Rank Promotion
-special_judge: false
-time_limit: 3 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Rank Promotion"
+special_judge: "false"
+time_limit: "3 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 107
 accepted: 69
 solved_users: 60
-acceptance_rate: 76.923%
-collected_at: 2026-04-17T19:18:16.545351+00:00
+acceptance_rate: "76.923%"
+collected_at: "2026-04-17T19:18:16.545351+00:00"
 ---
 
 ## 문제

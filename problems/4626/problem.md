@@ -1,13 +1,13 @@
 ---
-title: 가글
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "가글"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 235
 accepted: 98
 solved_users: 92
-acceptance_rate: 43.602%
-collected_at: 2026-04-17T11:06:01.399760+00:00
+acceptance_rate: "43.602%"
+collected_at: "2026-04-17T11:06:01.399760+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Nets of Dice
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Nets of Dice"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 12
 accepted: 8
 solved_users: 8
-acceptance_rate: 66.667%
-collected_at: 2026-04-17T16:36:44.428554+00:00
+acceptance_rate: "66.667%"
+collected_at: "2026-04-17T16:36:44.428554+00:00"
 ---
 
 ## 문제

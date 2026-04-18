@@ -1,13 +1,13 @@
 ---
-title: Ideal Scoreboard
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "Ideal Scoreboard"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 70
 accepted: 17
 solved_users: 16
-acceptance_rate: 28.070%
-collected_at: 2026-04-17T12:26:04.494643+00:00
+acceptance_rate: "28.070%"
+collected_at: "2026-04-17T12:26:04.494643+00:00"
 ---
 
 ## 문제

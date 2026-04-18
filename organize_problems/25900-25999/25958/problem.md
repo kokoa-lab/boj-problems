@@ -1,13 +1,13 @@
 ---
-title: 예쁜수
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "예쁜수"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 359
 accepted: 245
 solved_users: 203
-acceptance_rate: 72.760%
-collected_at: 2026-04-17T17:37:42.796680+00:00
+acceptance_rate: "72.760%"
+collected_at: "2026-04-17T17:37:42.796680+00:00"
 ---
 
 ## 문제

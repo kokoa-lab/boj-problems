@@ -1,13 +1,13 @@
 ---
-title: 방어율 무시 계산하기
-special_judge: true
-time_limit: 1 초
-memory_limit: 512 MB
+title: "방어율 무시 계산하기"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 1950
 accepted: 1074
 solved_users: 970
-acceptance_rate: 56.992%
-collected_at: 2026-04-17T17:32:21.759906+00:00
+acceptance_rate: "56.992%"
+collected_at: "2026-04-17T17:32:21.759906+00:00"
 ---
 
 ## 문제

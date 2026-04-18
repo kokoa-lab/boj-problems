@@ -1,13 +1,13 @@
 ---
-title: Trip Odometer
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Trip Odometer"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 155
 accepted: 118
 solved_users: 103
-acceptance_rate: 77.444%
-collected_at: 2026-04-17T17:17:24.639822+00:00
+acceptance_rate: "77.444%"
+collected_at: "2026-04-17T17:17:24.639822+00:00"
 ---
 
 ## 문제

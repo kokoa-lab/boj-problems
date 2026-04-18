@@ -1,13 +1,13 @@
 ---
-title: 사자는 여행왕이야!!
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "사자는 여행왕이야!!"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 521
 accepted: 208
 solved_users: 160
-acceptance_rate: 40.506%
-collected_at: 2026-04-17T14:08:42.248596+00:00
+acceptance_rate: "40.506%"
+collected_at: "2026-04-17T14:08:42.248596+00:00"
 ---
 
 ## 문제

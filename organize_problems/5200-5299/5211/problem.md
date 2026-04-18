@@ -1,13 +1,13 @@
 ---
-title: 가단조와 다장조
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "가단조와 다장조"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 2728
 accepted: 794
 solved_users: 699
-acceptance_rate: 30.142%
-collected_at: 2026-04-17T11:12:22.166258+00:00
+acceptance_rate: "30.142%"
+collected_at: "2026-04-17T11:12:22.166258+00:00"
 ---
 
 ## 문제

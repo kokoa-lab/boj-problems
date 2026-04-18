@@ -1,13 +1,13 @@
 ---
-title: 814 - 1
-special_judge: false
-time_limit: 0.814 초 (추가 시간 없음)
-memory_limit: 814 MB
+title: "814 - 1"
+special_judge: "false"
+time_limit: "0.814 초 (추가 시간 없음)"
+memory_limit: "814 MB"
 submissions: 2439
 accepted: 1334
 solved_users: 411
-acceptance_rate: 22.398%
-collected_at: 2026-04-17T14:26:56.521238+00:00
+acceptance_rate: "22.398%"
+collected_at: "2026-04-17T14:26:56.521238+00:00"
 ---
 
 ## 문제

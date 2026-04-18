@@ -1,13 +1,13 @@
 ---
-title: 교수님 저는 취업할래요
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "교수님 저는 취업할래요"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 2337
 accepted: 1131
 solved_users: 946
-acceptance_rate: 47.514%
-collected_at: 2026-04-17T14:57:30.850477+00:00
+acceptance_rate: "47.514%"
+collected_at: "2026-04-17T14:57:30.850477+00:00"
 ---
 
 ## 문제

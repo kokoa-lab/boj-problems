@@ -1,13 +1,13 @@
 ---
-title: 순서
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "순서"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 1485
 accepted: 795
 solved_users: 699
-acceptance_rate: 56.599%
-collected_at: 2026-04-17T12:06:09.921098+00:00
+acceptance_rate: "56.599%"
+collected_at: "2026-04-17T12:06:09.921098+00:00"
 ---
 
 ## 문제

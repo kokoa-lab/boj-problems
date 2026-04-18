@@ -1,13 +1,13 @@
 ---
-title: 램프
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "램프"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 8881
 accepted: 3980
 solved_users: 3318
-acceptance_rate: 47.604%
-collected_at: 2026-04-17T10:27:48.851119+00:00
+acceptance_rate: "47.604%"
+collected_at: "2026-04-17T10:27:48.851119+00:00"
 ---
 
 ## 문제

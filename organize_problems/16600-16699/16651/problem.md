@@ -1,13 +1,13 @@
 ---
-title: Distinct Substrings
-special_judge: false
-time_limit: 3 초
-memory_limit: 512 MB
+title: "Distinct Substrings"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "512 MB"
 submissions: 108
 accepted: 33
 solved_users: 25
-acceptance_rate: 32.895%
-collected_at: 2026-04-17T14:21:41.266405+00:00
+acceptance_rate: "32.895%"
+collected_at: "2026-04-17T14:21:41.266405+00:00"
 ---
 
 ## 문제

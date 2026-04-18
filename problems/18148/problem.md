@@ -1,13 +1,13 @@
 ---
-title: Automatic Control Machine
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Automatic Control Machine"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 87
 accepted: 60
 solved_users: 53
-acceptance_rate: 72.603%
-collected_at: 2026-04-17T14:56:28.511991+00:00
+acceptance_rate: "72.603%"
+collected_at: "2026-04-17T14:56:28.511991+00:00"
 ---
 
 ## 문제

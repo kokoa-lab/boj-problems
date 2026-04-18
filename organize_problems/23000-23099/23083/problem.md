@@ -1,13 +1,13 @@
 ---
-title: 꿀벌 승연이
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "꿀벌 승연이"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 1390
 accepted: 516
 solved_users: 378
-acceptance_rate: 33.901%
-collected_at: 2026-04-17T16:41:39.611907+00:00
+acceptance_rate: "33.901%"
+collected_at: "2026-04-17T16:41:39.611907+00:00"
 ---
 
 ## 문제

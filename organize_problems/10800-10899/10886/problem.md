@@ -1,13 +1,13 @@
 ---
-title: 0 = not cute / 1 = cute
-special_judge: false
-time_limit: 1 초
-memory_limit: 2 MB
+title: "0 = not cute / 1 = cute"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "2 MB"
 submissions: 29255
 accepted: 18862
 solved_users: 17315
-acceptance_rate: 65.769%
-collected_at: 2026-04-17T12:31:06.571356+00:00
+acceptance_rate: "65.769%"
+collected_at: "2026-04-17T12:31:06.571356+00:00"
 ---
 
 ## 문제

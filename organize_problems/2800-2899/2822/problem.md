@@ -1,13 +1,13 @@
 ---
-title: 점수 계산
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "점수 계산"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 18249
 accepted: 13193
 solved_users: 12067
-acceptance_rate: 74.327%
-collected_at: 2026-04-17T10:45:06.364447+00:00
+acceptance_rate: "74.327%"
+collected_at: "2026-04-17T10:45:06.364447+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Semiperfect
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Semiperfect"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 51
 accepted: 42
 solved_users: 34
-acceptance_rate: 80.952%
-collected_at: 2026-04-17T17:47:56.696950+00:00
+acceptance_rate: "80.952%"
+collected_at: "2026-04-17T17:47:56.696950+00:00"
 ---
 
 ## 문제

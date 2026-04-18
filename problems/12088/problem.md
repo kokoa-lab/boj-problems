@@ -1,13 +1,13 @@
 ---
-title: 마지막 제출
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "마지막 제출"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 49
 accepted: 47
 solved_users: 43
-acceptance_rate: 95.556%
-collected_at: 2026-04-17T12:50:02.451249+00:00
+acceptance_rate: "95.556%"
+collected_at: "2026-04-17T12:50:02.451249+00:00"
 ---
 
 ## 문제

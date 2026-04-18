@@ -1,13 +1,13 @@
 ---
-title: 평점 변환 2
-special_judge: true
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "평점 변환 2"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 418
 accepted: 115
 solved_users: 79
-acceptance_rate: 30.502%
-collected_at: 2026-04-17T19:53:33.206050+00:00
+acceptance_rate: "30.502%"
+collected_at: "2026-04-17T19:53:33.206050+00:00"
 ---
 
 ## 문제

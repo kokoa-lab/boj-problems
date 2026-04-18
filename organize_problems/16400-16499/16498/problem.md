@@ -1,13 +1,13 @@
 ---
-title: 작은 벌점
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "작은 벌점"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 1714
 accepted: 609
 solved_users: 434
-acceptance_rate: 35.632%
-collected_at: 2026-04-17T14:18:57.031353+00:00
+acceptance_rate: "35.632%"
+collected_at: "2026-04-17T14:18:57.031353+00:00"
 ---
 
 ## 문제

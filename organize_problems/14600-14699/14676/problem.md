@@ -1,13 +1,13 @@
 ---
-title: 영우는 사기꾼?
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "영우는 사기꾼?"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 2898
 accepted: 951
 solved_users: 756
-acceptance_rate: 32.253%
-collected_at: 2026-04-17T13:40:06.230703+00:00
+acceptance_rate: "32.253%"
+collected_at: "2026-04-17T13:40:06.230703+00:00"
 ---
 
 ## 문제

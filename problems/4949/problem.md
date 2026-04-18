@@ -1,13 +1,13 @@
 ---
-title: 균형잡힌 세상
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "균형잡힌 세상"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 193331
 accepted: 68177
 solved_users: 52421
-acceptance_rate: 33.860%
-collected_at: 2026-04-17T11:10:16.919425+00:00
+acceptance_rate: "33.860%"
+collected_at: "2026-04-17T11:10:16.919425+00:00"
 ---
 
 ## 문제

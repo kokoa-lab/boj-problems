@@ -1,13 +1,13 @@
 ---
-title: 놀이기구1
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "놀이기구1"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 492
 accepted: 209
 solved_users: 159
-acceptance_rate: 45.821%
-collected_at: 2026-04-17T13:33:17.987614+00:00
+acceptance_rate: "45.821%"
+collected_at: "2026-04-17T13:33:17.987614+00:00"
 ---
 
 ## 문제

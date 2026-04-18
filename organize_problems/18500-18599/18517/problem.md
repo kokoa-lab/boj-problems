@@ -1,13 +1,13 @@
 ---
-title: Pick Your Own Nim
-special_judge: true
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Pick Your Own Nim"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 161
 accepted: 50
 solved_users: 37
-acceptance_rate: 31.624%
-collected_at: 2026-04-17T15:06:00.722971+00:00
+acceptance_rate: "31.624%"
+collected_at: "2026-04-17T15:06:00.722971+00:00"
 ---
 
 ## 문제

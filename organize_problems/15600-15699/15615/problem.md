@@ -1,13 +1,13 @@
 ---
-title: The Prices
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "The Prices"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 53
 accepted: 26
 solved_users: 10
-acceptance_rate: 58.824%
-collected_at: 2026-04-17T14:02:36.903380+00:00
+acceptance_rate: "58.824%"
+collected_at: "2026-04-17T14:02:36.903380+00:00"
 ---
 
 ## 문제

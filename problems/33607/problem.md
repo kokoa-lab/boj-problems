@@ -1,13 +1,13 @@
 ---
-title: Amusement Park Rides
-special_judge: false
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 2048 MB
+title: "Amusement Park Rides"
+special_judge: "false"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "2048 MB"
 submissions: 36
 accepted: 17
 solved_users: 12
-acceptance_rate: 38.710%
-collected_at: 2026-04-17T20:19:55.610595+00:00
+acceptance_rate: "38.710%"
+collected_at: "2026-04-17T20:19:55.610595+00:00"
 ---
 
 ## 문제

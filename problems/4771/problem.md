@@ -1,13 +1,13 @@
 ---
-title: 아름다운 삼각형
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "아름다운 삼각형"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 619
 accepted: 54
 solved_users: 41
-acceptance_rate: 13.183%
-collected_at: 2026-04-17T11:08:21.855157+00:00
+acceptance_rate: "13.183%"
+collected_at: "2026-04-17T11:08:21.855157+00:00"
 ---
 
 ## 문제

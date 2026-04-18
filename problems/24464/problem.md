@@ -1,13 +1,13 @@
 ---
-title: 득수 밥 먹이기
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "득수 밥 먹이기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 709
 accepted: 335
 solved_users: 278
-acceptance_rate: 48.601%
-collected_at: 2026-04-17T17:09:51.333146+00:00
+acceptance_rate: "48.601%"
+collected_at: "2026-04-17T17:09:51.333146+00:00"
 ---
 
 ## 문제

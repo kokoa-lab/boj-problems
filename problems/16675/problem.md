@@ -1,13 +1,13 @@
 ---
-title: 두 개의 손
-special_judge: false
-time_limit: 0.1 초
-memory_limit: 128 MB
+title: "두 개의 손"
+special_judge: "false"
+time_limit: "0.1 초"
+memory_limit: "128 MB"
 submissions: 2915
 accepted: 1478
 solved_users: 1270
-acceptance_rate: 52.285%
-collected_at: 2026-04-17T14:22:07.660539+00:00
+acceptance_rate: "52.285%"
+collected_at: "2026-04-17T14:22:07.660539+00:00"
 ---
 
 ## 문제

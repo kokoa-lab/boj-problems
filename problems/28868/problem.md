@@ -1,13 +1,13 @@
 ---
-title: Спасите Землю
-special_judge: true
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Спасите Землю"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 10
 accepted: 1
 solved_users: 1
-acceptance_rate: 10.000%
-collected_at: 2026-04-17T18:33:51.289058+00:00
+acceptance_rate: "10.000%"
+collected_at: "2026-04-17T18:33:51.289058+00:00"
 ---
 
 ## 문제

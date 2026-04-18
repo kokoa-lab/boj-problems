@@ -1,13 +1,13 @@
 ---
-title: 크래이피쉬 글쓰는 기계
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "크래이피쉬 글쓰는 기계"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 551
 accepted: 241
 solved_users: 129
-acceptance_rate: 36.034%
-collected_at: 2026-04-17T11:17:40.328671+00:00
+acceptance_rate: "36.034%"
+collected_at: "2026-04-17T11:17:40.328671+00:00"
 ---
 
 ## 문제

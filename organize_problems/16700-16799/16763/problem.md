@@ -1,13 +1,13 @@
 ---
-title: Fine Dining
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Fine Dining"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 529
 accepted: 223
 solved_users: 184
-acceptance_rate: 44.019%
-collected_at: 2026-04-17T14:23:41.251590+00:00
+acceptance_rate: "44.019%"
+collected_at: "2026-04-17T14:23:41.251590+00:00"
 ---
 
 ## 문제

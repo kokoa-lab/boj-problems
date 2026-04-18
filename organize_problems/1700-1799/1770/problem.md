@@ -1,13 +1,13 @@
 ---
-title: 배수와 약수의 개수
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "배수와 약수의 개수"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 882
 accepted: 310
 solved_users: 251
-acceptance_rate: 34.243%
-collected_at: 2026-04-17T10:33:23.325231+00:00
+acceptance_rate: "34.243%"
+collected_at: "2026-04-17T10:33:23.325231+00:00"
 ---
 
 ## 문제

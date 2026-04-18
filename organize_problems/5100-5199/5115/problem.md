@@ -1,13 +1,13 @@
 ---
-title: Coded Communication
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Coded Communication"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 108
 accepted: 80
 solved_users: 70
-acceptance_rate: 74.468%
-collected_at: 2026-04-17T11:11:34.811971+00:00
+acceptance_rate: "74.468%"
+collected_at: "2026-04-17T11:11:34.811971+00:00"
 ---
 
 ## 문제

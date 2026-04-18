@@ -1,13 +1,13 @@
 ---
-title: Bus Schedules
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "Bus Schedules"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 25
 accepted: 5
 solved_users: 3
-acceptance_rate: 13.043%
-collected_at: 2026-04-17T11:31:47.131279+00:00
+acceptance_rate: "13.043%"
+collected_at: "2026-04-17T11:31:47.131279+00:00"
 ---
 
 ## 문제

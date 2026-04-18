@@ -1,13 +1,13 @@
 ---
-title: Pizza voting
-special_judge: false
-time_limit: 3 초
-memory_limit: 256 MB
+title: "Pizza voting"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "256 MB"
 submissions: 491
 accepted: 218
 solved_users: 150
-acceptance_rate: 42.735%
-collected_at: 2026-04-17T12:21:26.484868+00:00
+acceptance_rate: "42.735%"
+collected_at: "2026-04-17T12:21:26.484868+00:00"
 ---
 
 ## 문제

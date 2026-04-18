@@ -1,13 +1,13 @@
 ---
-title: 과제 안 내신 분..?
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "과제 안 내신 분..?"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 197800
 accepted: 103132
 solved_users: 87925
-acceptance_rate: 51.841%
-collected_at: 2026-04-17T11:15:54.212423+00:00
+acceptance_rate: "51.841%"
+collected_at: "2026-04-17T11:15:54.212423+00:00"
 ---
 
 ## 문제

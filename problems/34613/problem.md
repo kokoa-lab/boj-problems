@@ -1,13 +1,13 @@
 ---
-title: Boarding Queue
-special_judge: false
-time_limit: 2 초
-memory_limit: 2048 MB
+title: "Boarding Queue"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "2048 MB"
 submissions: 45
 accepted: 31
 solved_users: 26
-acceptance_rate: 76.471%
-collected_at: 2026-04-17T20:43:52.937584+00:00
+acceptance_rate: "76.471%"
+collected_at: "2026-04-17T20:43:52.937584+00:00"
 ---
 
 ## 문제

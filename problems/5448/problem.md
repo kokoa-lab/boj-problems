@@ -1,13 +1,13 @@
 ---
-title: Acrobat Reader
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Acrobat Reader"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 36
 accepted: 15
 solved_users: 11
-acceptance_rate: 45.833%
-collected_at: 2026-04-17T11:14:03.780091+00:00
+acceptance_rate: "45.833%"
+collected_at: "2026-04-17T11:14:03.780091+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Complex Paper Folding
-special_judge: true
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Complex Paper Folding"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 13
 accepted: 6
 solved_users: 3
-acceptance_rate: 50.000%
-collected_at: 2026-04-17T12:35:39.777863+00:00
+acceptance_rate: "50.000%"
+collected_at: "2026-04-17T12:35:39.777863+00:00"
 ---
 
 ## 문제

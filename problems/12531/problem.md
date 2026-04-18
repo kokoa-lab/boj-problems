@@ -1,13 +1,13 @@
 ---
-title: Vanishing Numbers (Small)
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Vanishing Numbers (Small)"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 122
 accepted: 32
 solved_users: 20
-acceptance_rate: 27.778%
-collected_at: 2026-04-17T12:56:58.353751+00:00
+acceptance_rate: "27.778%"
+collected_at: "2026-04-17T12:56:58.353751+00:00"
 ---
 
 ## 문제

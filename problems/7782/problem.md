@@ -1,13 +1,13 @@
 ---
-title: Alien
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "Alien"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 513
 accepted: 413
 solved_users: 374
-acceptance_rate: 81.659%
-collected_at: 2026-04-17T11:52:54.527377+00:00
+acceptance_rate: "81.659%"
+collected_at: "2026-04-17T11:52:54.527377+00:00"
 ---
 
 ## 문제

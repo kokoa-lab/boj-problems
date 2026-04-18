@@ -1,13 +1,13 @@
 ---
-title: Broken Gearbox
-special_judge: true
-time_limit: 2 초
-memory_limit: 512 MB
+title: "Broken Gearbox"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 33
 accepted: 18
 solved_users: 18
-acceptance_rate: 58.065%
-collected_at: 2026-04-17T14:02:35.725846+00:00
+acceptance_rate: "58.065%"
+collected_at: "2026-04-17T14:02:35.725846+00:00"
 ---
 
 ## 문제

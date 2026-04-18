@@ -1,13 +1,13 @@
 ---
-title: 예쁜 초콜릿과 숫자놀이
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "예쁜 초콜릿과 숫자놀이"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 536
 accepted: 163
 solved_users: 133
-acceptance_rate: 35.657%
-collected_at: 2026-04-17T17:33:05.534612+00:00
+acceptance_rate: "35.657%"
+collected_at: "2026-04-17T17:33:05.534612+00:00"
 ---
 
 ## 문제

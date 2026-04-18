@@ -1,13 +1,13 @@
 ---
-title: Game with Polynomials 2
-special_judge: false
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Game with Polynomials 2"
+special_judge: "false"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 318
 accepted: 127
 solved_users: 64
-acceptance_rate: 31.527%
-collected_at: 2026-04-17T14:56:42.985556+00:00
+acceptance_rate: "31.527%"
+collected_at: "2026-04-17T14:56:42.985556+00:00"
 ---
 
 ## 문제

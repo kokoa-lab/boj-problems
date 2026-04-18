@@ -1,13 +1,13 @@
 ---
-title: 이상한 편집기
-special_judge: false
-time_limit: 1.5 초
-memory_limit: 256 MB
+title: "이상한 편집기"
+special_judge: "false"
+time_limit: "1.5 초"
+memory_limit: "256 MB"
 submissions: 199
 accepted: 51
 solved_users: 44
-acceptance_rate: 30.345%
-collected_at: 2026-04-17T15:09:50.494798+00:00
+acceptance_rate: "30.345%"
+collected_at: "2026-04-17T15:09:50.494798+00:00"
 ---
 
 ## 문제

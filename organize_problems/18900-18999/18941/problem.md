@@ -1,13 +1,13 @@
 ---
-title: 평면그래프와 게임
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "평면그래프와 게임"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 172
 accepted: 31
 solved_users: 22
-acceptance_rate: 20.561%
-collected_at: 2026-04-17T15:11:40.368750+00:00
+acceptance_rate: "20.561%"
+collected_at: "2026-04-17T15:11:40.368750+00:00"
 ---
 
 ## 문제

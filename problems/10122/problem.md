@@ -1,13 +1,13 @@
 ---
-title: Hotels
-special_judge: false
-time_limit: 3 초
-memory_limit: 256 MB
+title: "Hotels"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "256 MB"
 submissions: 368
 accepted: 158
 solved_users: 127
-acceptance_rate: 47.566%
-collected_at: 2026-04-17T12:19:15.487466+00:00
+acceptance_rate: "47.566%"
+collected_at: "2026-04-17T12:19:15.487466+00:00"
 ---
 
 ## 문제

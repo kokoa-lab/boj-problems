@@ -1,13 +1,13 @@
 ---
-title: Shorter Musical Notes
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Shorter Musical Notes"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 282
 accepted: 212
 solved_users: 159
-acceptance_rate: 75.714%
-collected_at: 2026-04-17T11:19:24.359392+00:00
+acceptance_rate: "75.714%"
+collected_at: "2026-04-17T11:19:24.359392+00:00"
 ---
 
 ## 문제

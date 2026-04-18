@@ -1,13 +1,13 @@
 ---
-title: PC방 요금
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "PC방 요금"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 1028
 accepted: 232
 solved_users: 208
-acceptance_rate: 26.701%
-collected_at: 2026-04-17T12:06:53.743751+00:00
+acceptance_rate: "26.701%"
+collected_at: "2026-04-17T12:06:53.743751+00:00"
 ---
 
 ## 문제

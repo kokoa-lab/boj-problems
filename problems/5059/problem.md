@@ -1,13 +1,13 @@
 ---
-title: Shopaholic
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Shopaholic"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 160
 accepted: 109
 solved_users: 90
-acceptance_rate: 70.312%
-collected_at: 2026-04-17T11:11:13.776901+00:00
+acceptance_rate: "70.312%"
+collected_at: "2026-04-17T11:11:13.776901+00:00"
 ---
 
 ## 문제

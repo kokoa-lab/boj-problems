@@ -1,13 +1,13 @@
 ---
-title: Perfect Round Dance
-special_judge: true
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Perfect Round Dance"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 23
 accepted: 3
 solved_users: 3
-acceptance_rate: 13.043%
-collected_at: 2026-04-17T16:01:55.999410+00:00
+acceptance_rate: "13.043%"
+collected_at: "2026-04-17T16:01:55.999410+00:00"
 ---
 
 ## 문제

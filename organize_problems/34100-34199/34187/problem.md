@@ -1,13 +1,13 @@
 ---
-title: 솹씨 몇 도예요?
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB (추가 메모리 없음)
+title: "솹씨 몇 도예요?"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB (추가 메모리 없음)"
 submissions: 255
 accepted: 98
 solved_users: 91
-acceptance_rate: 44.390%
-collected_at: 2026-04-17T20:32:41.786250+00:00
+acceptance_rate: "44.390%"
+collected_at: "2026-04-17T20:32:41.786250+00:00"
 ---
 
 ## 문제

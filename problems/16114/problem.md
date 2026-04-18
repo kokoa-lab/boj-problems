@@ -1,13 +1,13 @@
 ---
-title: 화살표 연산자
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 512 MB
+title: "화살표 연산자"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "512 MB"
 submissions: 2136
 accepted: 472
 solved_users: 421
-acceptance_rate: 23.145%
-collected_at: 2026-04-17T14:11:37.924411+00:00
+acceptance_rate: "23.145%"
+collected_at: "2026-04-17T14:11:37.924411+00:00"
 ---
 
 ## 문제

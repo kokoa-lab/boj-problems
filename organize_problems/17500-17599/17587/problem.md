@@ -1,13 +1,13 @@
 ---
-title: Gerrymandering
-special_judge: true
-time_limit: 2 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "Gerrymandering"
+special_judge: "true"
+time_limit: "2 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 118
 accepted: 98
 solved_users: 90
-acceptance_rate: 86.538%
-collected_at: 2026-04-17T14:42:14.975484+00:00
+acceptance_rate: "86.538%"
+collected_at: "2026-04-17T14:42:14.975484+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Triangle Areas (Large)
-special_judge: true
-time_limit: 5 초
-memory_limit: 512 MB
+title: "Triangle Areas (Large)"
+special_judge: "true"
+time_limit: "5 초"
+memory_limit: "512 MB"
 submissions: 107
 accepted: 46
 solved_users: 40
-acceptance_rate: 52.632%
-collected_at: 2026-04-17T13:00:05.488791+00:00
+acceptance_rate: "52.632%"
+collected_at: "2026-04-17T13:00:05.488791+00:00"
 ---
 
 ## 문제

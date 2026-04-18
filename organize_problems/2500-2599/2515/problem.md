@@ -1,13 +1,13 @@
 ---
-title: 전시장
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "전시장"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 6371
 accepted: 2370
 solved_users: 1627
-acceptance_rate: 36.595%
-collected_at: 2026-04-17T10:42:19.581202+00:00
+acceptance_rate: "36.595%"
+collected_at: "2026-04-17T10:42:19.581202+00:00"
 ---
 
 ## 문제

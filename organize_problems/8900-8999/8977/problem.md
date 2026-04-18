@@ -1,13 +1,13 @@
 ---
-title: DISPLEJ
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "DISPLEJ"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 376
 accepted: 243
 solved_users: 206
-acceptance_rate: 66.667%
-collected_at: 2026-04-17T12:05:36.940522+00:00
+acceptance_rate: "66.667%"
+collected_at: "2026-04-17T12:05:36.940522+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Good Coin Denomination
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Good Coin Denomination"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 2032
 accepted: 936
 solved_users: 874
-acceptance_rate: 47.397%
-collected_at: 2026-04-17T17:44:14.863519+00:00
+acceptance_rate: "47.397%"
+collected_at: "2026-04-17T17:44:14.863519+00:00"
 ---
 
 ## 문제

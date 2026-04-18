@@ -1,13 +1,13 @@
 ---
-title: Unicycle counting
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "Unicycle counting"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 103
 accepted: 32
 solved_users: 25
-acceptance_rate: 29.412%
-collected_at: 2026-04-17T12:24:29.708294+00:00
+acceptance_rate: "29.412%"
+collected_at: "2026-04-17T12:24:29.708294+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 날카로운 눈
-special_judge: false
-time_limit: 2 초
-memory_limit: 128 MB
+title: "날카로운 눈"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "128 MB"
 submissions: 3694
 accepted: 1120
 solved_users: 794
-acceptance_rate: 30.847%
-collected_at: 2026-04-17T10:31:51.825510+00:00
+acceptance_rate: "30.847%"
+collected_at: "2026-04-17T10:31:51.825510+00:00"
 ---
 
 ## 문제

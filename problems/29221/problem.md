@@ -1,13 +1,13 @@
 ---
-title: Чтение
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Чтение"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 376
 accepted: 84
 solved_users: 24
-acceptance_rate: 15.484%
-collected_at: 2026-04-17T18:38:55.648324+00:00
+acceptance_rate: "15.484%"
+collected_at: "2026-04-17T18:38:55.648324+00:00"
 ---
 
 ## 문제

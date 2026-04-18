@@ -1,13 +1,13 @@
 ---
-title: 핀볼
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "핀볼"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 284
 accepted: 116
 solved_users: 99
-acceptance_rate: 38.672%
-collected_at: 2026-04-17T12:47:59.950514+00:00
+acceptance_rate: "38.672%"
+collected_at: "2026-04-17T12:47:59.950514+00:00"
 ---
 
 ## 문제

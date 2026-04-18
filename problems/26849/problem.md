@@ -1,13 +1,13 @@
 ---
-title: Non Classical Problem
-special_judge: true
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Non Classical Problem"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 376
 accepted: 301
 solved_users: 252
-acceptance_rate: 78.261%
-collected_at: 2026-04-17T17:52:15.506388+00:00
+acceptance_rate: "78.261%"
+collected_at: "2026-04-17T17:52:15.506388+00:00"
 ---
 
 ## 문제

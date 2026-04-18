@@ -1,13 +1,13 @@
 ---
-title: Quicksum
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Quicksum"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 1678
 accepted: 1335
 solved_users: 1213
-acceptance_rate: 82.405%
-collected_at: 2026-04-17T11:05:43.235205+00:00
+acceptance_rate: "82.405%"
+collected_at: "2026-04-17T11:05:43.235205+00:00"
 ---
 
 ## 문제

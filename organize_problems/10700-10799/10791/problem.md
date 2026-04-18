@@ -1,13 +1,13 @@
 ---
-title: Qanat
-special_judge: true
-time_limit: 2 초
-memory_limit: 256 MB
+title: "Qanat"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 99
 accepted: 87
 solved_users: 71
-acceptance_rate: 87.654%
-collected_at: 2026-04-17T12:29:35.959795+00:00
+acceptance_rate: "87.654%"
+collected_at: "2026-04-17T12:29:35.959795+00:00"
 ---
 
 ## 문제

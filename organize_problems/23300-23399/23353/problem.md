@@ -1,13 +1,13 @@
 ---
-title: 승부 조작
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "승부 조작"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 931
 accepted: 247
 solved_users: 184
-acceptance_rate: 27.219%
-collected_at: 2026-04-17T16:46:44.313613+00:00
+acceptance_rate: "27.219%"
+collected_at: "2026-04-17T16:46:44.313613+00:00"
 ---
 
 ## 문제

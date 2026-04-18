@@ -1,13 +1,13 @@
 ---
-title: 폰친구
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 1024 MB
+title: "폰친구"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "1024 MB"
 submissions: 502
 accepted: 139
 solved_users: 91
-acceptance_rate: 28.438%
-collected_at: 2026-04-17T15:34:27.833298+00:00
+acceptance_rate: "28.438%"
+collected_at: "2026-04-17T15:34:27.833298+00:00"
 ---
 
 ## 문제

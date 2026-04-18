@@ -1,13 +1,13 @@
 ---
-title: Count on a Tree II Striking Back
-special_judge: false
-time_limit: 4 초
-memory_limit: 512 MB
+title: "Count on a Tree II Striking Back"
+special_judge: "false"
+time_limit: "4 초"
+memory_limit: "512 MB"
 submissions: 466
 accepted: 46
 solved_users: 25
-acceptance_rate: 9.191%
-collected_at: 2026-04-17T15:38:50.474474+00:00
+acceptance_rate: "9.191%"
+collected_at: "2026-04-17T15:38:50.474474+00:00"
 ---
 
 ## 문제

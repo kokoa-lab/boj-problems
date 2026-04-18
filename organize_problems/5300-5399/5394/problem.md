@@ -1,13 +1,13 @@
 ---
-title: 시계
-special_judge: true
-time_limit: 1 초
-memory_limit: 128 MB
+title: "시계"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 145
 accepted: 23
 solved_users: 11
-acceptance_rate: 13.095%
-collected_at: 2026-04-17T11:13:31.264637+00:00
+acceptance_rate: "13.095%"
+collected_at: "2026-04-17T11:13:31.264637+00:00"
 ---
 
 ## 문제

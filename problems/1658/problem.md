@@ -1,13 +1,13 @@
 ---
-title: 돼지 잡기
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "돼지 잡기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 1055
 accepted: 493
 solved_users: 374
-acceptance_rate: 49.146%
-collected_at: 2026-04-17T10:32:07.283820+00:00
+acceptance_rate: "49.146%"
+collected_at: "2026-04-17T10:32:07.283820+00:00"
 ---
 
 ## 문제

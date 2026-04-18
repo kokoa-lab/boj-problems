@@ -1,13 +1,13 @@
 ---
-title: 트레이드 AI 만들기
-special_judge: false
-time_limit: 2.8 초
-memory_limit: 329 MB
+title: "트레이드 AI 만들기"
+special_judge: "false"
+time_limit: "2.8 초"
+memory_limit: "329 MB"
 submissions: 219
 accepted: 128
 solved_users: 102
-acceptance_rate: 60.355%
-collected_at: 2026-04-17T20:21:06.649525+00:00
+acceptance_rate: "60.355%"
+collected_at: "2026-04-17T20:21:06.649525+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Subsets
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Subsets"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 107
 accepted: 15
 solved_users: 10
-acceptance_rate: 16.393%
-collected_at: 2026-04-17T11:59:03.495955+00:00
+acceptance_rate: "16.393%"
+collected_at: "2026-04-17T11:59:03.495955+00:00"
 ---
 
 ## 문제

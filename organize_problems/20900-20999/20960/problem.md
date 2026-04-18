@@ -1,13 +1,13 @@
 ---
-title: Po
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Po"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 149
 accepted: 79
 solved_users: 69
-acceptance_rate: 54.331%
-collected_at: 2026-04-17T15:44:09.460029+00:00
+acceptance_rate: "54.331%"
+collected_at: "2026-04-17T15:44:09.460029+00:00"
 ---
 
 ## 문제

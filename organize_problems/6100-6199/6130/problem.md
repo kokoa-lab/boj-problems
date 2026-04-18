@@ -1,13 +1,13 @@
 ---
-title: Privileged Cows
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Privileged Cows"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 194
 accepted: 80
 solved_users: 70
-acceptance_rate: 46.980%
-collected_at: 2026-04-17T11:20:45.758531+00:00
+acceptance_rate: "46.980%"
+collected_at: "2026-04-17T11:20:45.758531+00:00"
 ---
 
 ## 문제

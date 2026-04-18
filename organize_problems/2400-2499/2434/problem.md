@@ -1,13 +1,13 @@
 ---
-title: 점 연결하기
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "점 연결하기"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 65
 accepted: 22
 solved_users: 17
-acceptance_rate: 45.946%
-collected_at: 2026-04-17T10:41:34.432498+00:00
+acceptance_rate: "45.946%"
+collected_at: "2026-04-17T10:41:34.432498+00:00"
 ---
 
 ## 문제

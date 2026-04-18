@@ -1,13 +1,13 @@
 ---
-title: Bessie Slows Down
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Bessie Slows Down"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 349
 accepted: 143
 solved_users: 103
-acceptance_rate: 42.562%
-collected_at: 2026-04-17T12:15:56.587473+00:00
+acceptance_rate: "42.562%"
+collected_at: "2026-04-17T12:15:56.587473+00:00"
 ---
 
 ## 문제

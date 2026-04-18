@@ -1,13 +1,13 @@
 ---
-title: Bovine Alliance
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Bovine Alliance"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 92
 accepted: 61
 solved_users: 52
-acceptance_rate: 64.198%
-collected_at: 2026-04-17T11:18:27.523699+00:00
+acceptance_rate: "64.198%"
+collected_at: "2026-04-17T11:18:27.523699+00:00"
 ---
 
 ## 문제

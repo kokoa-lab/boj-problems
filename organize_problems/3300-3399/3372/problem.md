@@ -1,13 +1,13 @@
 ---
-title: 보드 점프
-special_judge: false
-time_limit: 1 초
-memory_limit: 128 MB
+title: "보드 점프"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 2501
 accepted: 751
 solved_users: 637
-acceptance_rate: 36.255%
-collected_at: 2026-04-17T10:48:31.225782+00:00
+acceptance_rate: "36.255%"
+collected_at: "2026-04-17T10:48:31.225782+00:00"
 ---
 
 ## 문제

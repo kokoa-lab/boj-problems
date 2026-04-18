@@ -1,13 +1,13 @@
 ---
-title: Price List
-special_judge: false
-time_limit: 3 초
-memory_limit: 512 MB
+title: "Price List"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "512 MB"
 submissions: 263
 accepted: 68
 solved_users: 45
-acceptance_rate: 24.862%
-collected_at: 2026-04-17T11:57:32.316237+00:00
+acceptance_rate: "24.862%"
+collected_at: "2026-04-17T11:57:32.316237+00:00"
 ---
 
 ## 문제

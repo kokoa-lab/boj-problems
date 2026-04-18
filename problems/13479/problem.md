@@ -1,13 +1,13 @@
 ---
-title: Gangsters in Central City
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "Gangsters in Central City"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 51
 accepted: 29
 solved_users: 25
-acceptance_rate: 62.500%
-collected_at: 2026-04-17T13:13:47.277928+00:00
+acceptance_rate: "62.500%"
+collected_at: "2026-04-17T13:13:47.277928+00:00"
 ---
 
 ## 문제

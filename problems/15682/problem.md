@@ -1,13 +1,13 @@
 ---
-title: 삼차 방정식 풀기 2
-special_judge: true
-time_limit: 2 초
-memory_limit: 512 MB
+title: "삼차 방정식 풀기 2"
+special_judge: "true"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 5389
 accepted: 472
 solved_users: 172
-acceptance_rate: 4.964%
-collected_at: 2026-04-17T14:04:12.263642+00:00
+acceptance_rate: "4.964%"
+collected_at: "2026-04-17T14:04:12.263642+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Flipping Coins
-special_judge: true
-time_limit: 4 초
-memory_limit: 512 MB
+title: "Flipping Coins"
+special_judge: "true"
+time_limit: "4 초"
+memory_limit: "512 MB"
 submissions: 49
 accepted: 43
 solved_users: 42
-acceptance_rate: 87.500%
-collected_at: 2026-04-17T13:48:49.239438+00:00
+acceptance_rate: "87.500%"
+collected_at: "2026-04-17T13:48:49.239438+00:00"
 ---
 
 ## 문제

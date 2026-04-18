@@ -1,13 +1,13 @@
 ---
-title: 미소녀 컴퓨터 파루빗토 쨩
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "미소녀 컴퓨터 파루빗토 쨩"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 1732
 accepted: 401
 solved_users: 324
-acceptance_rate: 25.372%
-collected_at: 2026-04-17T18:17:58.650336+00:00
+acceptance_rate: "25.372%"
+collected_at: "2026-04-17T18:17:58.650336+00:00"
 ---
 
 ## 문제

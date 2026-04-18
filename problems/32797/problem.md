@@ -1,13 +1,13 @@
 ---
-title: Sleeping on the Train
-special_judge: false
-time_limit: 2 초
-memory_limit: 2048 MB
+title: "Sleeping on the Train"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "2048 MB"
 submissions: 26
 accepted: 16
 solved_users: 15
-acceptance_rate: 68.182%
-collected_at: 2026-04-17T20:01:36.624845+00:00
+acceptance_rate: "68.182%"
+collected_at: "2026-04-17T20:01:36.624845+00:00"
 ---
 
 ## 문제

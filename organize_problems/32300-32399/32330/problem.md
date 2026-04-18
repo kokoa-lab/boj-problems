@@ -1,13 +1,13 @@
 ---
-title: Harvest Waterloo
-special_judge: false
-time_limit: 1 초
-memory_limit: 1024 MB
+title: "Harvest Waterloo"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "1024 MB"
 submissions: 110
 accepted: 74
 solved_users: 49
-acceptance_rate: 69.014%
-collected_at: 2026-04-17T19:49:00.503534+00:00
+acceptance_rate: "69.014%"
+collected_at: "2026-04-17T19:49:00.503534+00:00"
 ---
 
 ## 문제

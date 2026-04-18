@@ -1,13 +1,13 @@
 ---
-title: 오늘도 졌다
-special_judge: false
-time_limit: 1 초
-memory_limit: 64 MB
+title: "오늘도 졌다"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "64 MB"
 submissions: 8394
 accepted: 3286
 solved_users: 2980
-acceptance_rate: 40.744%
-collected_at: 2026-04-17T13:38:37.372828+00:00
+acceptance_rate: "40.744%"
+collected_at: "2026-04-17T13:38:37.372828+00:00"
 ---
 
 ## 문제

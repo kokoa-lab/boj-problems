@@ -1,13 +1,13 @@
 ---
-title: 정훈이는 민트초코맛 짜장라면이 먹고 싶다
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "정훈이는 민트초코맛 짜장라면이 먹고 싶다"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 539
 accepted: 110
 solved_users: 82
-acceptance_rate: 23.496%
-collected_at: 2026-04-17T16:59:47.935163+00:00
+acceptance_rate: "23.496%"
+collected_at: "2026-04-17T16:59:47.935163+00:00"
 ---
 
 ## 문제

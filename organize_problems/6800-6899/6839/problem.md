@@ -1,13 +1,13 @@
 ---
-title: Landing
-special_judge: true
-time_limit: 1 초
-memory_limit: 128 MB
+title: "Landing"
+special_judge: "true"
+time_limit: "1 초"
+memory_limit: "128 MB"
 submissions: 90
 accepted: 24
 solved_users: 19
-acceptance_rate: 34.545%
-collected_at: 2026-04-17T11:39:24.624345+00:00
+acceptance_rate: "34.545%"
+collected_at: "2026-04-17T11:39:24.624345+00:00"
 ---
 
 ## 문제

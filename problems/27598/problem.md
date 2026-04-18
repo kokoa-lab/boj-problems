@@ -1,13 +1,13 @@
 ---
-title: Beppa and SwerChat
-special_judge: false
-time_limit: 2 초
-memory_limit: 1024 MB
+title: "Beppa and SwerChat"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "1024 MB"
 submissions: 114
 accepted: 71
 solved_users: 64
-acceptance_rate: 60.952%
-collected_at: 2026-04-17T18:07:19.308730+00:00
+acceptance_rate: "60.952%"
+collected_at: "2026-04-17T18:07:19.308730+00:00"
 ---
 
 ## 문제

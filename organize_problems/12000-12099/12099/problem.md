@@ -1,13 +1,13 @@
 ---
-title: 점심메뉴
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "점심메뉴"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 494
 accepted: 231
 solved_users: 171
-acceptance_rate: 51.198%
-collected_at: 2026-04-17T12:50:13.557422+00:00
+acceptance_rate: "51.198%"
+collected_at: "2026-04-17T12:50:13.557422+00:00"
 ---
 
 ## 문제

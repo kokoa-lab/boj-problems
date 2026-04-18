@@ -1,13 +1,13 @@
 ---
-title: 다이제스타
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "다이제스타"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 1030
 accepted: 125
 solved_users: 98
-acceptance_rate: 19.066%
-collected_at: 2026-04-17T17:26:38.977219+00:00
+acceptance_rate: "19.066%"
+collected_at: "2026-04-17T17:26:38.977219+00:00"
 ---
 
 ## 문제

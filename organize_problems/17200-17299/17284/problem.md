@@ -1,13 +1,13 @@
 ---
-title: Vending Machine
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Vending Machine"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 1886
 accepted: 1352
 solved_users: 1245
-acceptance_rate: 73.538%
-collected_at: 2026-04-17T14:36:20.737833+00:00
+acceptance_rate: "73.538%"
+collected_at: "2026-04-17T14:36:20.737833+00:00"
 ---
 
 ## 문제

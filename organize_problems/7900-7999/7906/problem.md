@@ -1,13 +1,13 @@
 ---
-title: Arithmetic Rectangle
-special_judge: false
-time_limit: 3 초
-memory_limit: 128 MB
+title: "Arithmetic Rectangle"
+special_judge: "false"
+time_limit: "3 초"
+memory_limit: "128 MB"
 submissions: 51
 accepted: 10
 solved_users: 9
-acceptance_rate: 28.125%
-collected_at: 2026-04-17T11:54:01.460608+00:00
+acceptance_rate: "28.125%"
+collected_at: "2026-04-17T11:54:01.460608+00:00"
 ---
 
 ## 문제

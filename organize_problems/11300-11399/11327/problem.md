@@ -1,13 +1,13 @@
 ---
-title: Polynomial Boundaries
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "Polynomial Boundaries"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 94
 accepted: 84
 solved_users: 76
-acceptance_rate: 90.476%
-collected_at: 2026-04-17T12:39:42.310564+00:00
+acceptance_rate: "90.476%"
+collected_at: "2026-04-17T12:39:42.310564+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: 연속합
-special_judge: false
-time_limit: 1 초 (추가 시간 없음)
-memory_limit: 128 MB
+title: "연속합"
+special_judge: "false"
+time_limit: "1 초 (추가 시간 없음)"
+memory_limit: "128 MB"
 submissions: 173558
 accepted: 69096
 solved_users: 49509
-acceptance_rate: 38.631%
-collected_at: 2026-04-17T10:35:41.447197+00:00
+acceptance_rate: "38.631%"
+collected_at: "2026-04-17T10:35:41.447197+00:00"
 ---
 
 ## 문제

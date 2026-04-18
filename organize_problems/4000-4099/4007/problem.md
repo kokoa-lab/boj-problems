@@ -1,13 +1,13 @@
 ---
-title: 단어 추측 게임
-special_judge: false
-time_limit: 2 초
-memory_limit: 256 MB
+title: "단어 추측 게임"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "256 MB"
 submissions: 46
 accepted: 2
 solved_users: 1
-acceptance_rate: 100.000%
-collected_at: 2026-04-17T10:54:29.277057+00:00
+acceptance_rate: "100.000%"
+collected_at: "2026-04-17T10:54:29.277057+00:00"
 ---
 
 ## 문제

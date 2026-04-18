@@ -1,13 +1,13 @@
 ---
-title: 여우가 정보섬에 올라온 이유
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "여우가 정보섬에 올라온 이유"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 2656
 accepted: 1121
 solved_users: 865
-acceptance_rate: 41.507%
-collected_at: 2026-04-17T14:30:46.332523+00:00
+acceptance_rate: "41.507%"
+collected_at: "2026-04-17T14:30:46.332523+00:00"
 ---
 
 ## 문제

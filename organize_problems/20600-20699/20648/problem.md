@@ -1,13 +1,13 @@
 ---
-title: Rectangular Pasture
-special_judge: false
-time_limit: 1 초
-memory_limit: 512 MB
+title: "Rectangular Pasture"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "512 MB"
 submissions: 473
 accepted: 240
 solved_users: 192
-acceptance_rate: 50.394%
-collected_at: 2026-04-17T15:39:28.628650+00:00
+acceptance_rate: "50.394%"
+collected_at: "2026-04-17T15:39:28.628650+00:00"
 ---
 
 ## 문제

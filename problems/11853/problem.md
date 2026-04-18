@@ -1,13 +1,13 @@
 ---
-title: Trading
-special_judge: false
-time_limit: 2 초
-memory_limit: 64 MB
+title: "Trading"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "64 MB"
 submissions: 71
 accepted: 38
 solved_users: 37
-acceptance_rate: 56.923%
-collected_at: 2026-04-17T12:47:00.336357+00:00
+acceptance_rate: "56.923%"
+collected_at: "2026-04-17T12:47:00.336357+00:00"
 ---
 
 ## 문제

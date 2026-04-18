@@ -1,13 +1,13 @@
 ---
-title: 간선 이어가기
-special_judge: false
-time_limit: 2 초
-memory_limit: 512 MB
+title: "간선 이어가기"
+special_judge: "false"
+time_limit: "2 초"
+memory_limit: "512 MB"
 submissions: 435
 accepted: 119
 solved_users: 83
-acceptance_rate: 27.759%
-collected_at: 2026-04-17T13:29:24.117947+00:00
+acceptance_rate: "27.759%"
+collected_at: "2026-04-17T13:29:24.117947+00:00"
 ---
 
 ## 문제

@@ -1,13 +1,13 @@
 ---
-title: Rummikub
-special_judge: false
-time_limit: 1 초
-memory_limit: 256 MB
+title: "Rummikub"
+special_judge: "false"
+time_limit: "1 초"
+memory_limit: "256 MB"
 submissions: 39
 accepted: 24
 solved_users: 23
-acceptance_rate: 62.162%
-collected_at: 2026-04-17T12:20:10.388454+00:00
+acceptance_rate: "62.162%"
+collected_at: "2026-04-17T12:20:10.388454+00:00"
 ---
 
 ## 문제
